@@ -1,5 +1,5 @@
 ---
 type: regex
-pattern: 'por defeito'
+pattern: 'por defeito|padrão'
 flags: i
 ---

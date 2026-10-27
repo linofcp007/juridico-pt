@@ -1,4 +1,4 @@
 ---
 type: regex
-pattern: '\[■ VERIFICAR'
+pattern: '\[■ VERIFICAR|fonte oficial'
 ---

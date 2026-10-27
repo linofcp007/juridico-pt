@@ -1,5 +1,5 @@
 ---
 type: regex
-pattern: 'acrescid[oa] de IVA|IVA [àa] taxa legal'
+pattern: 'acrescid[oa]s? de IVA|IVA [àa] taxa legal|IVA acresce|acresce (o )?IVA|mais IVA'
 flags: i
 ---

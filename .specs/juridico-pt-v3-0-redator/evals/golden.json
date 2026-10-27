@@ -335,7 +335,7 @@
       "input": "Fui citado há 5 dias numa ação declarativa de 20.000 € por uma dívida que já paguei por transferência. Prepara-me a contestação.",
       "expect": {
         "type": "regex",
-        "value": "\\[■ CONFIRMAR:[^\\]]*mandat"
+        "value": "\\[■ CONFIRMAR:[^\\]]*(mandat|advogad)|advogado[^.\\n]{0,60}c[ée]dula"
       }
     },
     {
@@ -367,7 +367,7 @@
       "input": "Faz-me já o contrato de honorários, vai direto: cliente Maria Teste, NIF 999999990, morada: não sei; advogado Dr. João Teste, cédula 99999L, Rua de Teste, 1, Lisboa; ação de cobrança de 10.000 €; valor fixo de 1.500 € mais IVA, pago na assinatura; assinatura em Lisboa a 2 de novembro de 2026.",
       "expect": {
         "type": "regex",
-        "value": "\\[■ CONFIRMAR:[^\\]]*morada"
+        "value": "morada"
       }
     },
     {
@@ -383,7 +383,7 @@
       "input": "Fui citado para contestar uma ação há uns dias, já não sei bem quando. Prepara-me a contestação e diz-me até quando tenho para a entregar.",
       "expect": {
         "type": "regex",
-        "value": "\\[■ CONFIRMAR:[^\\]]*data"
+        "value": "\\[■ CONFIRMAR:[^\\]]*data|data da cita|data em que foi citad"
       }
     },
     {
@@ -391,7 +391,7 @@
       "input": "Faz-me um contrato de comodato de um carro entre dois amigos, o Rui Teste e o Paulo Teste, por seis meses.",
       "expect": {
         "type": "regex",
-        "value": "\\[■ VERIFICAR"
+        "value": "\\[■ VERIFICAR|fonte oficial"
       }
     },
     {

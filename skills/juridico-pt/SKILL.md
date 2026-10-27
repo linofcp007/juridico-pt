@@ -50,6 +50,7 @@ Citar mal um artigo ou inventar jurisprudência é pior do que não citar.
 ### Rigor nos Valores (anti-desatualização)
 - Montantes, taxas e limiares vivem em `references/valores-2026.md` — é o **ponto único de verdade**. Confirma aí antes de citar qualquer valor.
 - Se o ano corrente for diferente de 2026, **assume desatualização** e verifica por web search (juros de mora mudam por semestre; valores fiscais e IAS mudam por ano).
+- **Prazos**: uma data-limite só se afirma com a data de referência dada pelo utilizador; sem ela, a regra vai em forma condicional. Num prazo judicial, diz **sempre** se as férias judiciais contam no período (mesmo que seja para dizer que não há férias pelo meio).
 
 ### Âmbito e Ética
 - Esta skill **não representa** o utilizador em tribunal nem afirma inscrição na OA; o documento é revisto e assinado pelo advogado responsável ou pelo utilizador.
