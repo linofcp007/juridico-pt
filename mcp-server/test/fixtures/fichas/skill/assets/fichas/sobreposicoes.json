@@ -1,0 +1,11 @@
+{
+  "COM-905": {
+    "relacao": "complementa",
+    "alvo": "assets/templates/contrato-agencia",
+    "nota": "o template cobre o contrato; a ficha cobre a cessação"
+  },
+  "INS-905": {
+    "relacao": "mesmo-documento",
+    "alvo": "assets/modelos/reclamacao-de-creditos-na-insolvencia"
+  }
+}

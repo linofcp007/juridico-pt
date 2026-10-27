@@ -640,5 +640,25 @@ class TestV30Redator(unittest.TestCase):
             self.assertIn("juridico-pt/assets/modelos/contrato-de-honorarios.md", nomes)
 
 
+class TestV31Fichas(unittest.TestCase):
+    """v3.1: o catálogo de fichas vai dentro do juridico-pt.skill, com os índices por área."""
+
+    def test_T522_skill_leva_as_fichas_e_fica_ate_10_mb(self):
+        import tempfile
+        import zipfile
+        with tempfile.TemporaryDirectory() as d:
+            r = _correr([os.path.join(_RAIZ, "build.py"), "--out", d], cwd=_RAIZ)
+            self.assertEqual(r.returncode, 0, r.stdout + r.stderr)
+            caminho = os.path.join(d, "juridico-pt.skill")
+            self.assertLessEqual(os.path.getsize(caminho), 10 * 1024 * 1024, "o .skill passa de 10 MB")
+            with zipfile.ZipFile(caminho) as z:
+                nomes = z.namelist()
+            self.assertIn("juridico-pt/assets/fichas/indice.json", nomes)
+            fichas = [n for n in nomes if re.match(r"juridico-pt/assets/fichas/\d\d-[^/]+/[A-Z]+-\d+-.*\.md$", n)]
+            self.assertGreater(len(fichas), 1000, "o .skill tem poucas fichas")
+            indices = [n for n in nomes if n.endswith("/_INDICE.md") and "/assets/fichas/" in n]
+            self.assertEqual(len(indices), 22, "faltam índices por área no .skill")
+
+
 if __name__ == "__main__":
     unittest.main(verbosity=2)

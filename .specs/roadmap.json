@@ -21,6 +21,17 @@
         "advogado-pt-v1-1-empresas",
         "advogado-pt-v1-2-1-correcoes"
       ]
+    },
+    "juridico-pt-v3-1-fichas": {
+      "dependsOn": [
+        "advogado-pt-v1-1-empresas",
+        "advogado-pt-v1-2-1-correcoes",
+        "advogado-pt-v1-2-operacional",
+        "juridico-pt-v2-0",
+        "juridico-pt-v3-0-redator",
+        "juridico-pt-v3-0-1-redator-unificado",
+        "juridico-pt-v3-0-2-lei-estrangeira"
+      ]
     }
   },
   "meta": {

@@ -1,0 +1,134 @@
+---
+codigo: ADM-033
+area: "Direito Administrativo"
+titulo: "Parecer sobre Caducidade do Direito de Ação Administrativa (contagem de prazos)"
+titulo_en: "Legal Opinion on the Time Bar of the Right to Bring an Administrative Action (Calculation of Time Limits)"
+descricao: "Elabora parecer jurídico sobre a contagem de prazos de impugnação em contencioso administrativo, verificando se o direito de ação ainda existe ou se caducou, com análise dos diferentes prazos aplicáveis (ação de impugnação, ação de condenação, contencioso pré-contratual, responsabilidade civil) e dos eventos que os iniciam, suspendem ou interrompem."
+descricao_en: "Prepares a legal opinion on calculating the time limits for challenges in administrative litigation, checking whether the right of action still exists or has lapsed (caducidade), with an analysis of the different applicable time limits (action to challenge an act, action for an order to act, pre-contractual litigation, civil liability) and of the events that start, suspend or interrupt them."
+ambito: nacional
+estado_citacoes: "conferidas 2 · corrigidas 0 · por conferir 1"
+origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
+---
+
+# Parecer sobre Caducidade do Direito de Ação Administrativa (contagem de prazos)
+
+> **Âmbito:** nacional · **Área:** Direito Administrativo · **Código:** ADM-033
+> **EN:** Legal Opinion on the Time Bar of the Right to Bring an Administrative Action (Calculation of Time Limits). Prepares a legal opinion on calculating the time limits for challenges in administrative litigation, checking whether the right of action still exists or has lapsed (caducidade), with an analysis of the different applicable time limits (action to challenge an act, action for an order to act, pre-contractual litigation, civil liability) and of the events that start, suspend or interrupt them.
+> **Citações:** conferidas 2 · corrigidas 0 · por conferir 1. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+
+Elabora parecer jurídico sobre a contagem de prazos de impugnação em contencioso administrativo, verificando se o direito de ação ainda existe ou se caducou, com análise dos diferentes prazos aplicáveis (ação de impugnação, ação de condenação, contencioso pré-contratual, responsabilidade civil) e dos eventos que os iniciam, suspendem ou interrompem.
+
+## Método
+
+Ficha de trabalho para preparar este documento. As regras da casa prevalecem sobre a ficha: registo de advogado, nunca afirmar inscrição na Ordem dos Advogados, citar só normas conferidas ou com `[■ VERIFICAR]`, e seguir o fluxo de `assets/redacao/redator.md`.
+
+## Regras obrigatórias
+- NUNCA inventes datas ou eventos que não constem das informações fornecidas
+- Se faltar dado, marca [■ VERIFICAR: o que é necessário para calcular]
+- Cita artigos reais do CPTA e do CC
+- Usa português europeu correto — sem brasileirismos
+- Apresenta sempre: (1) prazo aplicável e a sua fonte legal, (2) data de início (dies a quo), (3) eventos que suspendem ou interrompem, (4) data de caducidade (dies ad quem), (5) conclusão sobre a viabilidade
+
+---
+
+## Framework P.A.C.E.F — Segue estas 5 etapas obrigatoriamente:
+
+### ETAPA 1 — PROBLEMATIZAÇÃO (Análise do Caso)
+Apresenta dentro de um bloco <analise_do_caso>:
+- Que ato ou situação é objeto de análise?
+- Que tipo de ação se pretende propor?
+- Quais as datas relevantes (ato, notificação, conhecimento, impugnação graciosa)?
+- Houve impugnação graciosa? Suspendeu ou interrompeu o prazo?
+- Informações em falta — [■ VERIFICAR]
+
+### ETAPA 2 — ANÁLISE JURÍDICA (Prazos Aplicáveis)
+Apresenta dentro de um bloco <prazos_legais>:
+
+**Prazos principais em contencioso administrativo:**
+
+| Tipo de ação | Prazo | Fonte | Início |
+|---|---|---|---|
+| Impugnação de ato anulável | 3 meses | Art. 58.º, n.º 1, al. b), CPTA | Notificação |
+| Impugnação de ato nulo | Sem prazo | Art. 58.º, n.º 4, CPTA | — |
+| Condenação à prática de ato devido | 1 ano | Art. 69.º CPTA | Decurso do prazo de decisão |
+| Contencioso pré-contratual | 1 mês | Art. 101.º CPTA | Notificação do ato |
+| Responsabilidade civil do Estado | 3 anos | Art. 498.º CC + art. 5.º RRCEE | Conhecimento do dano |
+| Recurso jurisdicional (1.ª instância) | 30 dias | Art. 141.º CPTA | Notificação da sentença |
+| Anulação administrativa | 5 anos | Art. 168.º CPA | Data do ato |
+
+**Suspensão do prazo:**
+- Impugnação graciosa (reclamação, recurso hierárquico) suspende o prazo (art. 59.º, n.º 4, CPTA)
+- Férias judiciais suspendem prazos processuais (verificar CPC — arts. 138.º e 139.º)
+- Força maior (art. 140.º CPC — subsidiário)
+
+### ETAPA 3 — CONSTRUÇÃO DO PARECER
+Apresenta dentro de um bloco <calculo_de_prazos>:
+- Linha temporal com todas as datas relevantes
+- Identificação do evento que iniciou o prazo (dies a quo)
+- Eventos de suspensão/interrupção identificados
+- Data de caducidade calculada (dies ad quem)
+
+### ETAPA 4 — EXPOSIÇÃO ESTRUTURADA (O Parecer)
+Apresenta o parecer completo nesta estrutura:
+
+**1. OBJETO DO PARECER**
+**2. DADOS RELEVANTES** (linha temporal)
+**3. PRAZO APLICÁVEL** (artigo + duração)
+**4. INÍCIO DO PRAZO (DIES A QUO)**
+**5. EVENTOS DE SUSPENSÃO/INTERRUPÇÃO**
+**6. DATA DE CADUCIDADE (DIES AD QUEM)**
+**7. CONCLUSÃO**
+   - Prazo em curso: SIM / NÃO
+   - Dias restantes: ___
+   - Urgência: [URGENTE — X dias / CONFORTÁVEL / CADUCADO]
+
+**8. RECOMENDAÇÃO**
+   - Agir de imediato / dentro de X dias / caducidade — explicar alternativas
+
+### ETAPA 5 — FORMULAÇÃO FINAL (Validação)
+Apresenta dentro de um bloco <checklist_validacao>:
+- [ ] Tipo de ação e prazo aplicável identificados
+- [ ] Dies a quo corretamente identificado
+- [ ] Eventos de suspensão considerados
+- [ ] Dies ad quem calculado
+- [ ] Conclusão clara (em curso / caducado)
+- [ ] Recomendação de urgência formulada
+- [ ] Língua: português europeu
+- [ ] [■ VERIFICAR] sinalizados
+
+---
+
+## Dados a recolher (entrevista numa só mensagem)
+
+**SITUAÇÃO A ANALISAR:**
+- Tipo de ato ou situação: [ex: indeferimento de licença / sanção / inação da Administração]
+- Entidade: [nome]
+- Tipo de ação pretendida: [impugnação / condenação / responsabilidade / pré-contratual]
+
+**DATAS RELEVANTES:**
+- Data do ato: [data]
+- Data de publicação (se aplicável): [data]
+- Data de notificação ao interessado: [data]
+- Data em que o interessado tomou conhecimento: [data — se diferente]
+
+**IMPUGNAÇÃO GRACIOSA:**
+- Houve reclamação? [sim/não]
+  - Data de apresentação: [data]
+  - Data de decisão: [data]
+- Houve recurso hierárquico? [sim/não]
+  - Data de apresentação: [data]
+  - Data de decisão: [data]
+
+**DATA ATUAL:**
+- [indicar a data atual para cálculo dos dias restantes]
+
+**INFORMAÇÕES ADICIONAIS:**
+- Observações: [qualquer informação relevante]
+
+## Citações desta ficha
+
+| Citação | Estado | Nota |
+|---|---|---|
+| art. 59.º, n.º 4, CPTA | conferida (epígrafe) — Início dos prazos de impugnação |  |
+| arts. 138.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 140.º CPC | conferida (epígrafe) — Justo impedimento |  |

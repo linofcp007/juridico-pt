@@ -2,9 +2,9 @@
 
 <!-- AUTO-GERADO por dev-spec — não editar à mão. -->
 
-**Progresso: 100%** ▰▰▰▰▰▰▰▰▰▰ · 7/7 features completas · 170/170 tasks feitas
+**Progresso: 100%** ▰▰▰▰▰▰▰▰▰▰ · 8/8 features completas · 185/185 tasks feitas
 
-_Velocidade: 26 ponto(s)/dia útil — 170 tarefa(s), 442 ponto(s) concluídos desde 2026-10-03 (últimos 28 dias)_
+_Velocidade: 28.65 ponto(s)/dia útil — 185 tarefa(s), 487 ponto(s) concluídos desde 2026-10-03 (últimos 28 dias)_
 
 Legenda: ✅ feito · 🟡 em curso · ⛔ bloqueada · 📋 planeada · ⬜ por começar
 
@@ -22,6 +22,7 @@ Todas as features completas 🎉
 | ✅ | [juridico-pt-v3-0-1-redator-unificado](./juridico-pt-v3-0-1-redator-unificado/change.md) | core | concluída | 100% | 3/3 | — | — | — |
 | ✅ | [juridico-pt-v3-0-2-lei-estrangeira](./juridico-pt-v3-0-2-lei-estrangeira/change.md) | core | concluída | 100% | 3/3 | — | — | — |
 | ✅ | [juridico-pt-v3-0-redator](./juridico-pt-v3-0-redator/requirements.md) | core +tdd +ai +privacy | concluída | 100% | 27/27 | advogado-pt-v1-1-empresas ✓, advogado-pt-v1-2-1-correcoes ✓ | — | — |
+| ✅ | [juridico-pt-v3-1-fichas](./juridico-pt-v3-1-fichas/requirements.md) | core +tdd +ai | concluída | 100% | 15/15 | advogado-pt-v1-1-empresas ✓, advogado-pt-v1-2-1-correcoes ✓, advogado-pt-v1-2-operacional ✓, juridico-pt-v2-0 ✓, juridico-pt-v3-0-redator ✓, juridico-pt-v3-0-1-redator-unificado ✓, juridico-pt-v3-0-2-lei-estrangeira ✓ | — | — |
 
 ## Dependências
 
@@ -33,6 +34,13 @@ graph LR
   f_advogado_pt_v1_2_1_correcoes["advogado-pt-v1-2-1-correcoes"] --> f_juridico_pt_v2_0["juridico-pt-v2-0"]
   f_advogado_pt_v1_1_empresas["advogado-pt-v1-1-empresas"] --> f_juridico_pt_v3_0_redator["juridico-pt-v3-0-redator"]
   f_advogado_pt_v1_2_1_correcoes["advogado-pt-v1-2-1-correcoes"] --> f_juridico_pt_v3_0_redator["juridico-pt-v3-0-redator"]
+  f_advogado_pt_v1_1_empresas["advogado-pt-v1-1-empresas"] --> f_juridico_pt_v3_1_fichas["juridico-pt-v3-1-fichas"]
+  f_advogado_pt_v1_2_1_correcoes["advogado-pt-v1-2-1-correcoes"] --> f_juridico_pt_v3_1_fichas["juridico-pt-v3-1-fichas"]
+  f_advogado_pt_v1_2_operacional["advogado-pt-v1-2-operacional"] --> f_juridico_pt_v3_1_fichas["juridico-pt-v3-1-fichas"]
+  f_juridico_pt_v2_0["juridico-pt-v2-0"] --> f_juridico_pt_v3_1_fichas["juridico-pt-v3-1-fichas"]
+  f_juridico_pt_v3_0_redator["juridico-pt-v3-0-redator"] --> f_juridico_pt_v3_1_fichas["juridico-pt-v3-1-fichas"]
+  f_juridico_pt_v3_0_1_redator_unificado["juridico-pt-v3-0-1-redator-unificado"] --> f_juridico_pt_v3_1_fichas["juridico-pt-v3-1-fichas"]
+  f_juridico_pt_v3_0_2_lei_estrangeira["juridico-pt-v3-0-2-lei-estrangeira"] --> f_juridico_pt_v3_1_fichas["juridico-pt-v3-1-fichas"]
 ```
 
 ## ⚠ Precisa de atenção

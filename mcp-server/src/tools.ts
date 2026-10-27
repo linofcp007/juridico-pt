@@ -39,6 +39,10 @@ import {
   SUBSTITUIDOS,
   lerModeloSecoes,
   infoModelo,
+  procurarFichas,
+  lerFicha,
+  codigosFichas,
+  fichasParaTermo,
 } from "./content.js";
 import { verificarRedacao, formatarRedacao } from "./redacao.js";
 import {
@@ -53,6 +57,7 @@ import { avisoGitignore } from "./dados.js";
 import { dirProjeto } from "./fs-seguro.js";
 import { verificarAtualidade, textoAtualidade } from "./atualidade.js";
 import { painelClientes, textoPainel } from "./painel.js";
+import { LINHA_REVISAO } from "./persona.js";
 
 const AVISO =
   "\n\n⚠️ Estimativa de apoio. Valores/taxas de 2026 — confirmar no ano corrente. A decisão final é de quem assina (o advogado responsável ou o utilizador).";
@@ -610,7 +615,11 @@ export function registerTools(servidor: McpServer): void {
       inputSchema: {},
       annotations: { readOnlyHint: true, openWorldHint: false },
     },
-    async () => texto("Templates (nome — âmbito):\n" + listagem("templates"))
+    async () =>
+      texto(
+        "Templates (nome — âmbito):\n" + listagem("templates") +
+          "\n\nSem template para o documento: procurar_ficha (fichas do catálogo, 22 áreas, PT/EN) e obter_ficha."
+      )
   );
 
   server.registerTool(
@@ -653,7 +662,10 @@ export function registerTools(servidor: McpServer): void {
         .map(infoModelo)
         .filter((i): i is NonNullable<typeof i> => i !== null)
         .map((i) => `- ${i.nome} — ${i.titulo} — quando usar: ${i.quandoUsar} — entregável: ${i.entregavel} — ${i.ambito ?? "nacional"}`);
-      return texto("Modelos conferidos (obter_modelo para os abrir):\n" + linhas.join("\n"));
+      return texto(
+        "Modelos conferidos (obter_modelo para os abrir):\n" + linhas.join("\n") +
+          "\n\nSem modelo para o documento: o template mais próximo (listar_templates) e, sem template, a ficha do catálogo (procurar_ficha). Diz ao utilizador qual usaste."
+      );
     }
   );
 
@@ -681,6 +693,37 @@ export function registerTools(servidor: McpServer): void {
       if (m) return texto(m);
       return texto(`'${nome}' não encontrado. Modelos disponíveis:\n- ` + listar("modelos").join("\n- "));
     }
+  );
+
+  server.registerTool(
+    "procurar_ficha",
+    {
+      title: "Procurar ficha do catálogo",
+      description:
+        "Procura nas fichas do catálogo (cerca de 1250 guias de documentos e pareceres, 22 áreas do direito português e da UE) por termo em PT ou EN e/ou área (sigla FAM, TRA, PEN… ou nome). Devolve até 20 fichas com código, títulos PT/EN, área e estado das citações; as que são o mesmo documento de um modelo ou template do plugin aparecem como remissão (→). Sem argumentos, lista as 22 áreas. Usa quando não há modelo conferido nem template para o documento pedido. EN: search the catalogue of drafting guides.",
+      inputSchema: {
+        termo: z.string().optional().describe("O que procurar, em PT ou EN (ex.: 'regulação das responsabilidades parentais', 'parental responsibilities')"),
+        area: z.string().optional().describe("Sigla (FAM, TRA, PEN, …) ou parte do nome da área"),
+      },
+      annotations: { readOnlyHint: true, openWorldHint: false },
+    },
+    async ({ termo, area }) => texto(procurarFichas(termo, area))
+  );
+
+  server.registerTool(
+    "obter_ficha",
+    {
+      title: "Obter ficha do catálogo",
+      description:
+        "Abre uma ficha do catálogo pelo código (ex.: FAM-006), com um cabeçalho que diz o estado das citações (as por conferir vêm com [■ VERIFICAR]), a ordem de uso modelo conferido → template → ficha, onde estão os valores do ano e o fluxo de redação. Um código que é o mesmo documento de um modelo ou template devolve a remissão; um código inexistente devolve as 5 fichas mais próximas. EN: open a catalogue drafting guide by code.",
+      inputSchema: {
+        codigo: completable(z.string(), (value) =>
+          codigosFichas().filter((c) => c.startsWith((value || "").toUpperCase())).slice(0, 50)
+        ).describe("Código da ficha (ex.: FAM-006)"),
+      },
+      annotations: { readOnlyHint: true, openWorldHint: false },
+    },
+    async ({ codigo }) => texto(lerFicha(codigo))
   );
 
   server.registerTool(
@@ -729,7 +772,8 @@ export function registerTools(servidor: McpServer): void {
         `Documento exportado: ${r.caminho} (${Math.ceil(r.bytes / 1024)} KB).` +
           (r.placeholders ? `\n⚠️ Ainda tem ${r.placeholders} campo(s) {{...}} por preencher.` : "") +
           marcadores +
-          "\nAbre no Word ou no LibreOffice e revê antes de enviar (a lista 'Antes de enviar — verificar' não vai no ficheiro)." +
+          // A entrega da casa (assets/redacao/entrega.md), aqui também para quando o skill não foi lido.
+          `\nEntrega ao utilizador: o nome do ficheiro, 3 a 5 itens "Confira antes de assinar" (marcadores e onde estão, prazos com a data de referência, valores por defeito aplicados) e, a fechar, a linha: "${LINHA_REVISAO}"` +
           notaGitignore(diretorio)
       );
     }
@@ -800,14 +844,21 @@ export function registerTools(servidor: McpServer): void {
     {
       title: "Procurar no conteúdo jurídico",
       description:
-        "Procura um termo em todo o conteúdo jurídico (referências, templates, playbooks e checklists). Usa quando não sabes em que área/categoria está o assunto e precisas de localizar onde é tratado ('onde se fala de…', 'procura por', 'pesquisa'). EN: full-text search across all legal content.",
+        "Procura um termo em todo o conteúdo jurídico (referências, modelos, templates, playbooks, checklists e as fichas do catálogo). Usa quando não sabes em que área/categoria está o assunto e precisas de localizar onde é tratado ('onde se fala de…', 'procura por', 'pesquisa'). EN: full-text search across all legal content.",
       inputSchema: { query: z.string().describe("Termo a procurar") },
       annotations: { readOnlyHint: true, openWorldHint: false },
     },
     async ({ query }) => {
       const res = procurar(query);
-      if (res.length === 0) return texto(`Sem resultados para '${query}'.`);
-      return texto(`Resultados para '${query}' (agrupados por tipo; âmbito entre parênteses):\n\n` + formatarProcura(res));
+      // As fichas procuram-se por palavras (PT ou EN), não pelo texto exato: um pedido como
+      // "contrato de comodato de um carro" encontra a ficha do comodato.
+      const fichas = fichasParaTermo(query);
+      const blocoFichas = fichas.length
+        ? `## Fichas do catálogo (obter_ficha com o código; usar se não houver modelo nem template)\n${fichas.join("\n")}`
+        : "";
+      if (res.length === 0 && !blocoFichas) return texto(`Sem resultados para '${query}'.`);
+      const partes = [res.length ? formatarProcura(res) : "", blocoFichas].filter(Boolean);
+      return texto(`Resultados para '${query}' (agrupados por tipo; âmbito entre parênteses):\n\n` + partes.join("\n\n"));
     }
   );
 

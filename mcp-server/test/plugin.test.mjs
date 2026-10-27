@@ -698,16 +698,16 @@ test("T-445 /contrato, /template e /parecer seguem o fluxo do redator (assets/re
 });
 
 // Desde a 3.0.1 aceita qualquer 3.0.x; a igualdade entre os 6 sítios fica no T-337.
-test("T-450 versão 3.0.x nos 6 sítios e CHANGELOG com os 7 nomes substituídos e a pontuação das avaliações", () => {
+test("T-450 versão 3.x nos 6 sítios e CHANGELOG com os 7 nomes substituídos e a pontuação das avaliações", () => {
   const plugin = JSON.parse(readFileSync(r(".claude-plugin", "plugin.json"), "utf8"));
   const mk = JSON.parse(readFileSync(r(".claude-plugin", "marketplace.json"), "utf8"));
-  const V30 = /^3\.0\.\d+$/;
+  const V30 = /^3\.\d+\.\d+$/; // a 3.0 e as 3.x seguintes
   assert.match(plugin.version, V30);
   assert.match(mk.metadata.version, V30);
   assert.match(mk.plugins[0].version, V30);
   assert.match(JSON.parse(readFileSync(r("package.json"), "utf8")).version, V30);
   assert.match(JSON.parse(readFileSync(r("mcp-server", "package.json"), "utf8")).version, V30);
-  assert.match(readFileSync(r("mcp-server", "src", "index.ts"), "utf8"), /version:\s*"3\.0\.\d+"/);
+  assert.match(readFileSync(r("mcp-server", "src", "index.ts"), "utf8"), /version:\s*"3\.\d+\.\d+"/);
   const c = readFileSync(r("CHANGELOG.md"), "utf8");
   const i = c.indexOf("## [3.0.0]");
   assert.ok(i >= 0, "CHANGELOG sem ## [3.0.0]");

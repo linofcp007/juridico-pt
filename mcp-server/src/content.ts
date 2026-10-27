@@ -228,3 +228,221 @@ export function infoModelo(nome: string): InfoModelo | null {
   const quandoUsar = frase.length > 140 ? frase.slice(0, 139).replace(/\s+\S*$/, "") + "…" : frase;
   return { nome, titulo, quandoUsar, entregavel, ambito: lerAmbito(t) };
 }
+
+// --- Fichas do catálogo (assets/fichas/): pesquisa PT/EN e leitura com o cabeçalho da casa ---
+
+interface EstadoCitacoes {
+  conferidas: number;
+  corrigidas: number;
+  por_conferir: number;
+}
+
+export interface EntradaFicha {
+  codigo: string;
+  area: string;
+  pasta: string;
+  titulo: string;
+  titulo_en: string;
+  descricao: string;
+  descricao_en: string;
+  ficheiro: string | null;
+  estado: EstadoCitacoes;
+  relacao?: "mesmo-documento" | "complementa";
+  remete_para?: string;
+}
+
+interface IndiceFichas {
+  total_catalogo: number;
+  areas: Array<{ sigla: string; nome: string; pasta: string; total: number; importadas: number }>;
+  fichas: EntradaFicha[];
+}
+
+interface Pesquisavel {
+  e: EntradaFicha;
+  titulo: Set<string>;
+  descricao: Set<string>;
+  tituloPlano: string;
+}
+
+const DIR_FICHAS = join(CONTENT_DIR, "fichas");
+export const SEM_CATALOGO =
+  "O catálogo de fichas não está instalado nesta versão do servidor (falta content/fichas/indice.json). " +
+  "Usa os modelos conferidos (listar_modelos) e os templates (listar_templates).";
+
+let cacheFichas: { indice: IndiceFichas; itens: Pesquisavel[]; idf: Map<string, number> } | null | undefined;
+
+const PARAGENS = new Set([
+  "de", "da", "do", "das", "dos", "e", "a", "o", "as", "os", "em", "no", "na", "nos", "nas", "um", "uma", "ao", "aos",
+  "para", "por", "com", "sem", "sobre", "contra", "pelo", "pela", "que", "of", "the", "an", "and", "for", "to", "in",
+  "on", "by", "with", "under", "against", "or", "ou",
+]);
+
+const plano = (s: string) => s.toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g, "");
+
+/** Palavras reduzidas a 5 letras (PT e EN partilham muitas raízes: "parentais"/"parental", "divórcio"/"divorce"). */
+function raizes(s: string): string[] {
+  return plano(s)
+    .split(/[^a-z0-9]+/)
+    .filter((w) => w.length >= 3 && !PARAGENS.has(w))
+    .map((w) => w.slice(0, 5));
+}
+
+/** Índice das fichas, lido uma vez por sessão do servidor; null se o catálogo não vier no pacote. */
+function catalogo(): NonNullable<typeof cacheFichas> | null {
+  if (cacheFichas !== undefined) return cacheFichas;
+  const caminho = join(DIR_FICHAS, "indice.json");
+  if (!existsSync(caminho)) return (cacheFichas = null);
+  const indice = JSON.parse(readFileSync(caminho, "utf8")) as IndiceFichas;
+  const itens = indice.fichas.map((e) => ({
+    e,
+    titulo: new Set(raizes(`${e.titulo} ${e.titulo_en}`)),
+    descricao: new Set(raizes(`${e.descricao} ${e.descricao_en}`)),
+    tituloPlano: plano(`${e.titulo} / ${e.titulo_en}`),
+  }));
+  // Peso de cada raiz pela raridade: "contrato" ou "petição" aparecem em centenas de fichas e pouco distinguem.
+  const df = new Map<string, number>();
+  for (const it of itens) for (const r of new Set([...it.titulo, ...it.descricao])) df.set(r, (df.get(r) ?? 0) + 1);
+  const idf = new Map([...df].map(([r, n]) => [r, Math.log((itens.length + 1) / n)]));
+  return (cacheFichas = { indice, itens, idf });
+}
+
+function textoEstado(s: EstadoCitacoes): string {
+  const partes = [`${s.conferidas} conferidas`];
+  if (s.corrigidas) partes.push(`${s.corrigidas} corrigidas`);
+  partes.push(`${s.por_conferir} por conferir`);
+  return partes.join(", ");
+}
+
+/** Tool e argumento para abrir o conteúdo do plugin para onde uma ficha remete. */
+function comoAbrir(alvo: string): string {
+  const nome = alvo.split("/").pop() ?? alvo;
+  if (alvo.startsWith("assets/modelos/")) return `modelo conferido: obter_modelo "${nome}"`;
+  if (alvo.startsWith("assets/templates/")) return `template: obter_template "${nome}"`;
+  if (alvo.startsWith("assets/checklists/")) return `checklist: obter_checklist "${nome}"`;
+  if (alvo.startsWith("playbooks/")) return `playbook: obter_playbook "${nome}"`;
+  return `ler_referencia "${nome}"`;
+}
+
+function linhaFicha(e: EntradaFicha): string {
+  if (e.relacao === "mesmo-documento" && e.remete_para) {
+    return `- ${e.codigo} → usa ${e.remete_para} (${comoAbrir(e.remete_para)}) — ${e.titulo} / ${e.titulo_en}`;
+  }
+  return `- ${e.codigo} — ${e.titulo} / ${e.titulo_en} — ${e.area} — citações: ${textoEstado(e.estado)}`;
+}
+
+function filtrarArea(itens: Pesquisavel[], area: string): Pesquisavel[] {
+  const a = plano(area.trim());
+  return itens.filter((it) => plano(it.e.codigo.split("-")[0]) === a || plano(it.e.area).includes(a));
+}
+
+/** Pontua as fichas por um termo PT ou EN: raízes em comum pesadas pela raridade, o título a pesar o dobro. */
+function pontuar(c: NonNullable<typeof cacheFichas>, itens: Pesquisavel[], termo: string): Pesquisavel[] {
+  return pontuarComPeso(c, itens, termo).map((x) => x.it);
+}
+
+function pontuarComPeso(c: NonNullable<typeof cacheFichas>, itens: Pesquisavel[], termo: string): Array<{ it: Pesquisavel; p: number }> {
+  const q = [...new Set(raizes(termo))];
+  const frase = plano(termo).trim();
+  const pontos = itens.map((it) => {
+    let p = 0;
+    let achadas = 0;
+    for (const r of q) {
+      const w = c.idf.get(r) ?? 0;
+      if (it.titulo.has(r)) { p += 2 * w; achadas++; }
+      else if (it.descricao.has(r)) { p += w; achadas++; }
+    }
+    if (frase.length >= 6 && it.tituloPlano.includes(frase)) p += 4;
+    // Cobrir todo o pedido vale mais do que repetir uma palavra rara.
+    return { it, p: q.length ? p * (0.5 + (0.5 * achadas) / q.length) : 0 };
+  });
+  return pontos.filter((x) => x.p > 0).sort((a, b) => b.p - a.p || a.it.e.codigo.localeCompare(b.it.e.codigo));
+}
+
+/** procurar_ficha: por termo (PT ou EN) e/ou área; sem nada, as 22 áreas com as contagens. */
+export function procurarFichas(termo?: string, area?: string): string {
+  const c = catalogo();
+  if (!c) return SEM_CATALOGO;
+  const t = (termo ?? "").trim();
+  const a = (area ?? "").trim();
+  if (!t && !a) {
+    const linhas = c.indice.areas.map(
+      (x) => `- ${x.sigla} — ${x.nome} — ${x.importadas} fichas${x.total > x.importadas ? ` (+${x.total - x.importadas} remetem para o plugin)` : ""}`,
+    );
+    return `Fichas do catálogo por área (${c.indice.fichas.length}). Procura com termo e/ou área (sigla ou nome):${NL}${linhas.join(NL)}`;
+  }
+  // Um código exato vai direto à ficha.
+  const codigo = c.itens.find((it) => it.e.codigo === t.toUpperCase());
+  if (codigo) return `Ficha ${codigo.e.codigo} (obter_ficha para a abrir):${NL}${linhaFicha(codigo.e)}`;
+  let itens = a ? filtrarArea(c.itens, a) : c.itens;
+  if (a && !itens.length) return `Não há a área '${a}'. Áreas: ${c.indice.areas.map((x) => x.sigla).join(", ")}.`;
+  if (t) itens = pontuar(c, itens, t).slice(0, 20);
+  if (!itens.length) return `Nenhuma ficha para '${t}'${a ? ` na área ${a}` : ""}. Experimenta outras palavras, em PT ou EN, ou só a área.`;
+  const cab = t ? `Fichas para '${t}'${a ? ` (área ${a})` : ""}` : `Fichas da área ${itens[0].e.area}`;
+  return `${cab} — obter_ficha com o código para abrir; → remete para conteúdo do plugin, que se usa primeiro:${NL}${itens.map((it) => linhaFicha(it.e)).join(NL)}`;
+}
+
+/** As fichas mais próximas de um termo, para juntar a outras pesquisas (procurar_conteudo); [] sem catálogo. */
+export function fichasParaTermo(termo: string, maximo = 5): string[] {
+  const c = catalogo();
+  if (!c || !termo.trim()) return [];
+  const res = pontuarComPeso(c, c.itens, termo);
+  // Só as que ficam perto da melhor: "contrato" sozinho bate em centenas de fichas.
+  const corte = (res[0]?.p ?? 0) / 2;
+  return res.filter((x) => x.p >= corte).slice(0, maximo).map((x) => linhaFicha(x.it.e));
+}
+
+/** Sugestões para um código que não existe: os números mais próximos da mesma área, ou a pesquisa pelo texto. */
+function sugestoes(c: NonNullable<typeof cacheFichas>, pedido: string): EntradaFicha[] {
+  const m = /^([A-Z]+)-(\d+)$/.exec(pedido);
+  if (m) {
+    const daArea = c.itens.filter((it) => it.e.codigo.startsWith(`${m[1]}-`));
+    if (daArea.length) {
+      const n = Number(m[2]);
+      return daArea
+        .map((it) => ({ e: it.e, d: Math.abs(Number(it.e.codigo.split("-")[1]) - n) }))
+        .sort((a, b) => a.d - b.d || a.e.codigo.localeCompare(b.e.codigo))
+        .slice(0, 5)
+        .map((x) => x.e);
+    }
+  }
+  return pontuar(c, c.itens, pedido).slice(0, 5).map((it) => it.e);
+}
+
+/** obter_ficha: a ficha com o cabeçalho da casa (estado das citações, ordem de uso, valores e redator). */
+export function lerFicha(codigo: string): string {
+  const c = catalogo();
+  if (!c) return SEM_CATALOGO;
+  const pedido = String(codigo ?? "").trim().toUpperCase();
+  const e = c.indice.fichas.find((x) => x.codigo === pedido);
+  if (!e) {
+    const sug = sugestoes(c, pedido);
+    return `Não há a ficha ${pedido || "(sem código)"}. As mais próximas:${NL}${sug.map(linhaFicha).join(NL)}`;
+  }
+  if (e.relacao === "mesmo-documento" && e.remete_para) {
+    return (
+      `A ficha ${e.codigo} (${e.titulo} / ${e.titulo_en}) é o mesmo documento que ${e.remete_para}, ` +
+      `que o plugin já tem conferido. Usa esse: ${comoAbrir(e.remete_para)}.`
+    );
+  }
+  // O caminho vem do índice (gerado pelo importador); mesmo assim, nada sai de content/fichas.
+  if (!e.ficheiro || !/^\d\d-[a-z0-9-]+\/[A-Z]+-\d+-[a-z0-9-]+\.md$/.test(e.ficheiro)) return `A ficha ${e.codigo} não tem ficheiro no pacote.`;
+  const caminho = join(DIR_FICHAS, e.ficheiro);
+  if (!existsSync(caminho)) return `A ficha ${e.codigo} não está no pacote (${e.ficheiro}).`;
+  const corpo = readFileSync(caminho, "utf8").replace(/^---\r?\n[\s\S]*?\r?\n---\r?\n+/, "");
+  const cab = [
+    `Ficha ${e.codigo} — ${e.titulo} / ${e.titulo_en} (${e.area})`,
+    `Citações: ${textoEstado(e.estado)}. As por conferir estão marcadas [■ VERIFICAR] e só entram no documento assim, até serem confirmadas na fonte oficial (dre.pt, EUR-Lex).`,
+    "Ordem de uso: modelo conferido (listar_modelos) → template (listar_templates) → ficha. A ficha é um guia de trabalho: serve quando o plugin não tem modelo nem template para este documento.",
+    ...(e.relacao === "complementa" && e.remete_para
+      ? [`Cruza-se com ${e.remete_para}: usa primeiro esse (${comoAbrir(e.remete_para)}) e esta ficha como complemento.`]
+      : []),
+    'Valores do ano (salário mínimo, IAS, UC, taxas): ler_referencia "valores-2026", nunca os montantes da ficha.',
+    "Redação: segue o fluxo de assets/redacao/redator.md (entrevista numa só mensagem, Marcação Redator, verificar_redacao, exportar_documento).",
+  ];
+  return `${cab.join(NL)}${NL}${NL}---${NL}${NL}${corpo}`;
+}
+
+/** Códigos das fichas, para o autocompletar de obter_ficha. */
+export function codigosFichas(): string[] {
+  return catalogo()?.indice.fichas.map((e) => e.codigo) ?? [];
+}

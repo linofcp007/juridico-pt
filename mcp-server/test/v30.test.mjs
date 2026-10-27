@@ -675,7 +675,7 @@ test("T-448 sem dependências de runtime novas; Python novo só com a biblioteca
   assert.ok(!existsSync(r("bin")), "existe um bin/ na raiz");
 });
 
-test("T-449 as 38 tools da v2.0.2 mantêm nomes e parâmetros obrigatórios; entram só as 3 novas", async () => {
+test("T-449 as 38 tools da v2.0.2 mantêm nomes e parâmetros obrigatórios; entram só as novas (3 da 3.0, 2 da 3.1)", async () => {
   const SNAP = JSON.parse(ler(FIXR("tools-v202.json")));
   await comCliente(async (c) => {
     const { tools } = await c.listTools();
@@ -684,7 +684,7 @@ test("T-449 as 38 tools da v2.0.2 mantêm nomes e parâmetros obrigatórios; ent
       assert.ok(n in atual, `${n} desapareceu`);
       assert.deepEqual(atual[n], req, `${n}: parâmetros obrigatórios mudaram`);
     }
-    assert.deepEqual(Object.keys(atual).filter((n) => !(n in SNAP)).sort(), ["listar_modelos", "obter_modelo", "verificar_redacao"]);
+    assert.deepEqual(Object.keys(atual).filter((n) => !(n in SNAP)).sort(), ["listar_modelos", "obter_ficha", "obter_modelo", "procurar_ficha", "verificar_redacao"]);
   });
 });
 

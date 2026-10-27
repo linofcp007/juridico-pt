@@ -17,7 +17,7 @@ Há três formas de o usar no Claude. Escolhe pela app onde trabalhas:
 | | **Plugin** (recomendado) | **Extensão `.mcpb`** | **Skill `.skill`** |
 |---|---|---|---|
 | Onde | Claude Code; conta claude.ai / app Claude (**Customize > Plugins**), sincronizado com o Claude Code | Conversas da app Claude Desktop, no computador onde a instalas | Claude.ai, Claude Desktop e Claude Code (sistema de Skills) |
-| O que traz | Tudo: o conteúdo jurídico, as 41 tools (calculadoras, modelos conferidos, verificador de redação, perfil, prazos, calendário, exportação `.docx`), os slash commands, os hooks (aviso de prazos e de atualidade ao abrir a sessão) e os subagentes | Só o servidor MCP: as 41 tools, o conteúdo como resources e o prompt `assistente_juridico` — sem commands, hooks nem subagentes | O conteúdo, as instruções e as calculadoras em Python (quando o Claude pode executar código) — sem as tools do servidor |
+| O que traz | Tudo: o conteúdo jurídico, as 43 tools (calculadoras, modelos conferidos, fichas do catálogo, verificador de redação, perfil, prazos, calendário, exportação `.docx`), os slash commands, os hooks (aviso de prazos e de atualidade ao abrir a sessão) e os subagentes | Só o servidor MCP: as 43 tools, o conteúdo como resources e o prompt `assistente_juridico` — sem commands, hooks nem subagentes | O conteúdo, as instruções e as calculadoras em Python (quando o Claude pode executar código) — sem as tools do servidor |
 | Node.js | ≥ 18 no computador (servidor MCP e hooks) | Não é preciso: usa o que o Claude Desktop traz | Não é preciso |
 | Atualizações | Automáticas, a partir deste repositório | À mão: instalar o `.mcpb` novo | À mão: carregar o `.skill` novo |
 
@@ -89,12 +89,14 @@ juridico-pt/                     # plugin Claude Code
 ├── skills/juridico-pt/         # a skill (conteúdo jurídico)
 │   ├── SKILL.md                # lógica, fluxo, protocolos de rigor
 │   ├── references/   (36)      # ⭐ valores-2026.md = ponto único de verdade
-│   ├── assets/templates/  (72) # documentos com {{...}}, [VERIFICAR] e "Antes de enviar"
+│   ├── assets/modelos/    (12) # modelos conferidos (fluxo em assets/redacao/redator.md)
+│   ├── assets/templates/  (65) # documentos com {{...}}, [VERIFICAR] e "Antes de enviar"
+│   ├── assets/fichas/   (1256) # fichas do catálogo em 22 áreas, com _INDICE.md PT/EN por área
 │   ├── assets/checklists/ (12)
 │   ├── playbooks/    (14)      # árvores de decisão
 │   └── scripts/      (15)      # calculadoras Python + testes
-├── mcp-server/                 # servidor MCP TypeScript (41 tools + resources + prompt); build:mcpb → extensão .mcpb
-├── evals/                      # 53 casos para o `claude plugin eval` (golden, adversariais, regressão)
+├── mcp-server/                 # servidor MCP TypeScript (43 tools + resources + prompt); build:mcpb → extensão .mcpb
+├── evals/                      # 78 casos para o `claude plugin eval` (golden, adversariais, regressão)
 ├── integrations/               # configs por plataforma (Claude Desktop, Cursor, Windsurf, Codex, Gemini, ChatGPT)
 ├── .cursor/ .windsurf/ .gemini/ .vscode/   # dotfiles de editor (dogfooding)
 ├── AGENTS.md · GEMINI.md · CLAUDE.md        # persona portátil + manutenção
@@ -113,7 +115,8 @@ juridico-pt/                     # plugin Claude Code
 - **Perfil da empresa guardado**: `.juridico-pt/perfil-empresa.md` no projeto (ou o perfil geral em `~/.juridico-pt/`) — carregado no início de cada sessão; pergunta só o que falta. **Vários perfis** para contabilistas e consultores (`ativar_perfil`).
 - **Calendário de obrigações** a partir do perfil (IVA, Modelo 22, IES, SS, contas, RCBE, Relatório Único, RGPC…), com base legal por data e exportação `.ics` para Google Calendar/Outlook (`/calendario`).
 - **Prazos em curso** guardados no projeto, com aviso ao abrir a sessão (`/prazos`).
-- **Templates reais** (72), não promessas: cada documento parte de um esqueleto, declara o **âmbito** (nacional / UE / misto) e termina com a lista **"Antes de enviar — verificar"** (prazos ⏰, forma de envio, normas a confirmar).
+- **Fichas do catálogo** (1256, 22 áreas, PT e EN): guias de trabalho para petições, requerimentos, contratos e pareceres que não têm modelo nem template (`procurar_ficha` / `obter_ficha`; sem MCP, o `_INDICE.md` de cada área). Cada citação vem com o estado: conferida pelo índice de normas ou pela epígrafe oficial, corrigida pela revisão, ou por conferir com `[■ VERIFICAR]`.
+- **Templates reais** (65), não promessas: cada documento parte de um esqueleto, declara o **âmbito** (nacional / UE / misto) e termina com a lista **"Antes de enviar — verificar"** (prazos ⏰, forma de envio, normas a confirmar).
 - **Playbooks** (14): árvores de decisão que transformam conhecimento em ação guiada (cliente não paga, citação, despedir, despedimento coletivo, lay-off, data breach, comprar imóvel, notificação das Finanças, cliente insolvente, faturar ao estrangeiro, fechar a empresa, faturação eletrónica 2027, pedido de devolução de apoio, vender ao Estado).
 - **Checklists** (12): verificação acionável (RGPD, due diligence, constituição, contrato, pré-deploy, registo de marca, loja online, concorrência, compliance por dimensão, segurança e saúde no trabalho, faturação, NIS2).
 - **Calculadoras** (15, Python + TypeScript, com testes): juros **por tramos semestrais com memória de cálculo** (também em lote, várias faturas), prazos, **procedimento de contratação pública** (CCP), compensação (**regime transitório por períodos**, validada contra o simulador da ACT), créditos laborais, **salário líquido e custo do trabalhador**, **IRC** (PME, derramas, tributação autónoma), **decisor de IVA internacional**, **taxa de justiça**, custas de injunção, imposto de selo, IMT, prescrição, IRS simplificado, legítima.
@@ -179,11 +182,13 @@ Os valores legais mudam — ver `CLAUDE.md` para o guia completo. Pontos de revi
 - **Janeiro** (pós-OE): IRC, IRS, IAS, salário mínimo, deduções, IMT/IMI
 - **Janeiro e julho**: juros de mora comerciais do semestre (aviso da ETF) — acrescentar a linha em `juros_mora.py` **e** `juros.ts`
 - **Outubro**: coeficiente de atualização de rendas (INE)
+- **Janeiro** (e quando um código muda): epígrafes oficiais (`gerar-epigrafes.mjs --atualizar`) e reimportação das fichas (`importar-fichas.mjs`)
 
 ## Changelog
 
 > Histórico formal (SemVer) em [CHANGELOG.md](CHANGELOG.md). Resumo da evolução:
 
+- **v3.1.0 (2026-10)**: **fichas do catálogo** — 1256 guias de documentos e pareceres em 22 áreas, em PT-PT e EN (`procurar_ficha` / `obter_ficha`), terceira escolha depois dos modelos conferidos e dos templates. 87,4 % das citações com diploma reconhecido estão conferidas ou corrigidas; as restantes vêm com `[■ VERIFICAR]`. Traz também as epígrafes oficiais dos 25 diplomas mais citados.
 - **v3.0.2 (2026-10)**: documentos regidos pela lei de outro país redigem-se se o utilizador pedir. Levam a indicação de que estão fora da base conferida, `[■ VERIFICAR]` nas normas estrangeiras e a recomendação de advogado desse país, sempre em PT-PT.
 - **v3.0.1 (2026-10)**: o redator jurídico passa a fazer parte do skill `juridico-pt` (fluxo em `assets/redacao/redator.md`): um só skill e um só pacote `juridico-pt.skill`.
 - **v3.0.0 (2026-10)**: **redator jurídico** — escreve no registo de um advogado português, com revisão antes de assinar (nunca afirma inscrição na OA). Traz:

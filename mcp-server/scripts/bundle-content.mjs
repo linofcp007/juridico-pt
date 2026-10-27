@@ -4,7 +4,7 @@
 // Corre automaticamente em `npm run build` e `prepublishOnly`.
 import { cp, mkdir, rm, readFile, writeFile } from "node:fs/promises";
 import { existsSync } from "node:fs";
-import { dirname, resolve } from "node:path";
+import { basename, dirname, resolve } from "node:path";
 import { fileURLToPath } from "node:url";
 
 const here = dirname(fileURLToPath(import.meta.url));
@@ -19,7 +19,12 @@ const COPY = [
   ["playbooks", "playbooks"],
   ["assets/modelos", "modelos"],
   ["assets/redacao", "redacao"],
+  ["assets/fichas", "fichas"],
 ];
+
+// Das fichas, o servidor só lê o índice e os ficheiros das áreas; os dados do importador
+// (traduções, revisão e relatório de citações, sobreposições) ficam só no skill.
+const SO_NO_SKILL = new Set(["citacoes.json", "traducoes-en.json", "revisao-citacoes.json", "sobreposicoes.json"]);
 
 async function main() {
   await rm(contentDir, { recursive: true, force: true });
@@ -31,7 +36,10 @@ async function main() {
       console.warn(`(aviso) origem não encontrada: ${from}`);
       continue;
     }
-    await cp(from, resolve(contentDir, dst), { recursive: true });
+    await cp(from, resolve(contentDir, dst), {
+      recursive: true,
+      filter: (f) => dst !== "fichas" || !SO_NO_SKILL.has(basename(f)),
+    });
   }
 
   // SKILL.md (persona/fluxo) — usado para o prompt MCP.

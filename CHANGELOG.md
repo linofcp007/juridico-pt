@@ -4,6 +4,43 @@ Todas as alterações relevantes ao **juridico-pt** (até à 1.2.1, **advogado-p
 [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.0/) e o projeto adere ao
 [Versionamento Semântico](https://semver.org/lang/pt-BR/). A versão refere-se ao plugin como um todo.
 
+## [3.1.0] - 2026-10
+
+**Fichas do catálogo: 1256 guias de documentos e pareceres em 22 áreas, em PT-PT e EN, com cada citação conferida, corrigida ou marcada.**
+
+### Added
+
+- O catálogo Skills Jurídicas PRO da casa passa a fazer parte do skill, em `assets/fichas/` (1319 fichas no kit):
+  - 1256 fichas importadas, em 22 áreas: administrativo, bancário, civil, comercial, concorrência, família, insolvência, saúde, UE, sucessões, desportivo, ambiente, consumo, trabalho, urbanismo, estrangeiros, fiscal, imobiliário, penal, processo civil, propriedade intelectual e proteção de dados;
+  - 63 fichas que eram o mesmo documento de um modelo conferido ou de um template do plugin não entram: as tools devolvem a remissão para esse conteúdo;
+  - 51 fichas que se cruzam com conteúdo do plugin nomeiam-no no cabeçalho;
+  - título e descrição em inglês em todas, e um `_INDICE.md` PT/EN por área, para usar sem MCP.
+- Tools `procurar_ficha` (termo em PT ou EN e/ou área; sem argumentos, as 22 áreas) e `obter_ficha` (código, com um cabeçalho que diz o estado das citações, a ordem modelo conferido → template → ficha, onde estão os valores do ano e o fluxo de redação). O servidor passa a ter 43 tools.
+- Epígrafes oficiais dos 25 diplomas mais citados em `references/epigrafes/` (PGDL, Portal das Finanças e Serviço de Publicações da UE), com a fonte, o URL e a data, e o script `gerar-epigrafes.mjs` para as atualizar.
+- O subagente `verificador-citacoes` compara cada artigo com a epígrafe oficial antes de ir à fonte.
+- 10 casos de avaliação novos (g51–g58, a14, r06).
+
+### Changed
+
+- As fichas foram normalizadas para a casa pelo `importar-fichas.mjs`:
+  - PT-PT segundo o AO90, sem formas do Brasil;
+  - registo de advogado, sem aberturas de persona nem afirmações de inscrição na OA;
+  - marcadores `[■ VERIFICAR]`;
+  - salário mínimo, IAS e UC remetidos para `valores-2026`.
+- Citações das fichas: das 7148 com o diploma reconhecido, 6245 (87,4 %) ficaram conferidas ou corrigidas. Foram conferidas pelo índice de normas, pela epígrafe oficial ou por uma revisão área a área; as restantes entram no documento com `[■ VERIFICAR]` e uma nota a dizer o que confirmar. Exemplo: a ficha do contrato a tempo parcial cita agora os arts. 153.º, 154.º e 227.º do CT, e não o 157.º para o trabalho suplementar.
+- A persona, as instruções do servidor, o `SKILL.md`, o guia `assets/redacao/redator.md` e as integrações passam a pôr as fichas como terceira escolha, depois dos modelos conferidos e dos templates.
+
+### Fixed
+
+- `procurar_conteudo` passa a encontrar também as fichas do catálogo, por palavras em PT ou EN. `listar_modelos` e `listar_templates` terminam com o passo seguinte: o template e, sem ele, a ficha. Um contrato de comodato pedido sem saber a tool certa já chega à ficha CIV-006, em vez de ser redigido de memória.
+- A saída de `exportar_documento` lembra a entrega da casa: 3 a 5 itens «Confira antes de assinar» e a linha fixa de revisão. Já não sugere «Antes de enviar», o título da lista dos templates.
+
+### Avaliação
+
+- Os 10 casos novos, 3 execuções cada: 30/30. Golden g51–g58 a 100 % (na 3.0.2: 1/8), adversarial a14 e regressão r06 a 100 %. Custou 12,88 USD.
+- Os 68 casos da 3.0, uma execução cada: 66/68. As duas falhas eram reais e foram corrigidas (ver Fixed). Depois das correções: 68/68 no resultado mais recente. Custo: 30,73 USD.
+- A revisão humana de 10 fichas e a lista das fichas a rever de fundo (regimes antigos ou estrangeiros, numeração do CPI de 2003, software no CDADC) estão no `quickstart.md` da feature.
+
 ## [3.0.2] - 2026-10
 
 **Documentos regidos pela lei de outro país: o assistente redige-os se o utilizador pedir, com salvaguardas, sempre em PT-PT.**
