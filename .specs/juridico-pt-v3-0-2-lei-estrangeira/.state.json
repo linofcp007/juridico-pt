@@ -1,0 +1,65 @@
+{
+  "lang": "pt",
+  "kind": "change",
+  "size": "xs",
+  "tracks": [
+    "core"
+  ],
+  "approvals": {
+    "tasks": {
+      "at": "2026-10-27T16:56:41.546Z",
+      "by": "Administrator",
+      "fingerprint": "45f670744ae1ca76ed98cd972287b7c1c30320c2",
+      "file": "change.md",
+      "wsFingerprint": "d7860148f0560a619497f46e81860ac73770c285",
+      "batch": true
+    }
+  },
+  "createdAt": "2026-10-27T16:56:21.092Z",
+  "branch": {
+    "name": "feature/juridico-pt-v3-0-2-lei-estrangeira",
+    "base": "main",
+    "commit": "468530a352b757ca8c240542d4124bd19f344c82",
+    "at": "2026-10-27T16:56:21.092Z"
+  },
+  "lastEditAt": "2026-10-27T16:56:40.823Z",
+  "approvalHistory": [
+    {
+      "phase": "tasks",
+      "at": "2026-10-27T16:56:41.546Z",
+      "by": "Administrator",
+      "file": "change.md",
+      "fingerprint": "45f670744ae1ca76ed98cd972287b7c1c30320c2",
+      "wsFingerprint": "d7860148f0560a619497f46e81860ac73770c285",
+      "batch": true,
+      "snapshot": ".history/tasks@1.md"
+    }
+  ],
+  "lastApprovedPhase": "tasks",
+  "evidence": {
+    "1": {
+      "command": "cd mcp-server && npm run build && node scripts/gerar-integracoes.mjs --check && node --test --test-name-pattern \"T-460|T-401|T-234\" test/v30.test.mjs test/plugin.test.mjs",
+      "exitCode": 0,
+      "summary": "T-460 (vermelho antes: as 6 superfícies recusavam redigir) agora verde; T-401 e T-234 verdes; integrações em dia; INSTRUCOES_MCP 1988 caracteres",
+      "at": "2026-10-27T16:57:58.184Z",
+      "observed": false,
+      "cmdRule": 1,
+      "history": [
+        {
+          "command": "cd mcp-server && npm run build && node scripts/gerar-integracoes.mjs --check && node --test --test-name-pattern \"T-460|T-401|T-234\" test/v30.test.mjs test/plugin.test.mjs",
+          "exitCode": 0,
+          "summary": "T-460 (vermelho antes: as 6 superfícies recusavam redigir) agora verde; T-401 e T-234 verdes; integrações em dia; INSTRUCOES_MCP 1988 caracteres",
+          "at": "2026-10-27T16:57:58.184Z",
+          "observed": false,
+          "cmdRule": 1
+        }
+      ],
+      "task": "[US1] Regra nova em `persona.ts`, que inclui a persona, as instruções do servidor e as integrações. Também no `SKILL.md` e no guia do redator. Teste T-460 em `v30.test.mjs`: a regra está nas superfícies, sem \"não se redige\" e com PT-PT.",
+      "verify": "cd mcp-server && npm run build && node scripts/gerar-integracoes.mjs --check && node --test --test-name-pattern \"T-460|T-401|T-234\" test/v30.test.mjs test/plugin.test.mjs"
+    }
+  },
+  "lastTickAt": "2026-10-27T16:57:58.184Z",
+  "ticks": {
+    "1": "2026-10-27T16:57:58.184Z"
+  }
+}

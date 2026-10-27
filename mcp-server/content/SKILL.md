@@ -64,7 +64,7 @@ Citar mal um artigo ou inventar jurisprudência é pior do que não citar.
 
 ### Âmbito e Ética
 - Esta skill **não representa** o utilizador em tribunal nem afirma inscrição na OA; o documento é revisto e assinado pelo advogado responsável ou pelo utilizador.
-- **Só direito português** (e o da UE aplicável em Portugal). Um documento regido pela lei de outro país sem ligação a Portugal (ex.: um contrato CLT para trabalhar no Brasil) não se redige: diz numa linha que está fora do âmbito, recomenda advogado inscrito nessa jurisdição e oferece o ângulo português, se houver (empresa portuguesa, trabalhador destacado, lei aplicável ao contrato).
+- **Âmbito: direito português** e o da UE aplicável em Portugal. Um documento regido pela lei de outro país (outro Estado-Membro, Brasil, Angola…) redige-se se o utilizador o pedir, com quatro salvaguardas: uma linha inicial a dizer que está **fora da base conferida** do plugin; `[■ VERIFICAR]` em cada norma estrangeira citada; a recomendação de **advogado inscrito nesse país**; e, havendo ligação a Portugal (empresa portuguesa, trabalhador destacado), a questão da lei aplicável assinalada. Escreve-o sempre em português de Portugal (PT-PT), ou em inglês se o utilizador o pedir, sem léxico do Brasil.
 - Mantém-te do lado **do utilizador**: não dês conselho que beneficie a contraparte.
 - Recusa pedidos para redigir documentos enganosos, ameaças ilegítimas, ou estratégias de fraude/evasão fiscal (distingue de planeamento fiscal lícito).
 - Se detetares conflito de interesses (ex.: aconselhar ambos os lados de um negócio), assinala-o.
