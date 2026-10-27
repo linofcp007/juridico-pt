@@ -117,14 +117,14 @@
     "mcp-test": {
       "command": "npm --prefix mcp-server test",
       "exitCode": 0,
-      "summary": "247 pass, 0 fail; SMOKE OK",
-      "at": "2026-10-27T16:45:34.663Z",
-      "commit": "4ac96fb",
+      "summary": "248 pass, 0 fail; SMOKE OK",
+      "at": "2026-10-27T17:01:21.787Z",
+      "commit": "04f08e5",
       "dirty": false,
       "observed": false,
       "cmdRule": 1,
       "check": "npm --prefix mcp-server test",
-      "code": "1885ec8ef958419669fe33d248bbb210c69ecdd8",
+      "code": "2ce5b67bef9ecab64955862ca636fc6f4afb2009",
       "history": [
         {
           "command": "npm --prefix mcp-server test",
@@ -142,6 +142,16 @@
           "summary": "247 pass, 0 fail; SMOKE OK",
           "at": "2026-10-27T16:45:34.663Z",
           "commit": "4ac96fb",
+          "dirty": false,
+          "observed": false,
+          "cmdRule": 1
+        },
+        {
+          "command": "npm --prefix mcp-server test",
+          "exitCode": 0,
+          "summary": "248 pass, 0 fail; SMOKE OK",
+          "at": "2026-10-27T17:01:21.787Z",
+          "commit": "04f08e5",
           "dirty": false,
           "observed": false,
           "cmdRule": 1
@@ -152,13 +162,13 @@
       "command": "python skills/juridico-pt/scripts/test_scripts.py",
       "exitCode": 0,
       "summary": "Ran 55 tests OK",
-      "at": "2026-10-27T16:45:34.663Z",
-      "commit": "4ac96fb",
+      "at": "2026-10-27T17:01:21.787Z",
+      "commit": "04f08e5",
       "dirty": false,
       "observed": false,
       "cmdRule": 1,
       "check": "python skills/juridico-pt/scripts/test_scripts.py",
-      "code": "1885ec8ef958419669fe33d248bbb210c69ecdd8",
+      "code": "2ce5b67bef9ecab64955862ca636fc6f4afb2009",
       "history": [
         {
           "command": "python skills/juridico-pt/scripts/test_scripts.py",
@@ -176,6 +186,16 @@
           "summary": "Ran 55 tests OK",
           "at": "2026-10-27T16:45:34.663Z",
           "commit": "4ac96fb",
+          "dirty": false,
+          "observed": false,
+          "cmdRule": 1
+        },
+        {
+          "command": "python skills/juridico-pt/scripts/test_scripts.py",
+          "exitCode": 0,
+          "summary": "Ran 55 tests OK",
+          "at": "2026-10-27T17:01:21.787Z",
+          "commit": "04f08e5",
           "dirty": false,
           "observed": false,
           "cmdRule": 1

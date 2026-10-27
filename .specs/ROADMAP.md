@@ -37,7 +37,7 @@ graph LR
 
 ## ⚠ Precisa de atenção
 
-- **juridico-pt-v3-0-2-lei-estrangeira** — alterado desde a aprovação — rever de novo: change.md
+_Nada a assinalar ✓_
 
 ## Backlog (planeadas, ainda sem spec)
 
