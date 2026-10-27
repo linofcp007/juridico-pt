@@ -4,6 +4,22 @@ Todas as alterações relevantes ao **juridico-pt** (até à 1.2.1, **advogado-p
 [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.0/) e o projeto adere ao
 [Versionamento Semântico](https://semver.org/lang/pt-BR/). A versão refere-se ao plugin como um todo.
 
+## [3.0.2] - 2026-10
+
+**Documentos regidos pela lei de outro país: o assistente redige-os se o utilizador pedir, com salvaguardas, sempre em PT-PT.**
+
+### Changed
+
+- Até aqui a regra era não redigir documentos regidos pela lei de outro país, como outro Estado-Membro, o Brasil ou Angola. Passam a redigir-se se o utilizador pedir, com quatro salvaguardas:
+  - uma linha inicial a dizer que estão fora da base conferida do plugin;
+  - `[■ VERIFICAR]` em cada norma estrangeira citada;
+  - a recomendação de advogado inscrito nesse país;
+  - quando há ligação a Portugal, a questão da lei aplicável assinalada.
+- Estes documentos também se escrevem sempre em português de Portugal, ou em inglês se o utilizador pedir. Não há exceção de terminologia, e o uso normal não muda.
+- A regra está na persona, nas instruções do servidor, no `SKILL.md`, no guia `assets/redacao/redator.md` e nas integrações.
+- O âmbito principal mantém-se: direito português e o da UE aplicável em Portugal.
+- Avaliação a04 (contrato CLT para São Paulo): continua a exigir zero PT-BR e passa a exigir as salvaguardas. Resultado: 3/3.
+
 ## [3.0.1] - 2026-10
 
 **O redator jurídico passa a fazer parte do skill `juridico-pt`: um só skill e um só pacote.**

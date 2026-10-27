@@ -37,14 +37,17 @@ A avaliação a04 ganha o grader `03-salvaguardas`, testado com respostas certas
   - _Requirements: US-1.AC-1, US-1.AC-2_
   - _Implements: mcp-server/src/persona.ts, skills/juridico-pt/SKILL.md, skills/juridico-pt/assets/redacao/redator.md, mcp-server/test/v30.test.mjs_
   - _Verify: cd mcp-server && npm run build && node scripts/gerar-integracoes.mjs --check && node --test --test-name-pattern "T-460|T-401|T-234" test/v30.test.mjs test/plugin.test.mjs_
-- [ ] 2. [US1] Avaliação a04 com o grader `03-salvaguardas`, testado com respostas certas e erradas, e corrida com `--runs 3` sobre o commit da regra nova, a 3/3.
+- [x] 2. [US1] Avaliação a04 com o grader `03-salvaguardas`, testado com respostas certas e erradas, e corrida com `--runs 3` sobre o commit da regra nova, a 3/3.
   - _Requirements: US-1.AC-1, US-1.AC-2_
   - _Implements: evals/a04-direito-brasileiro/graders/03-salvaguardas.md_
   - _Verify: node -e "const t=require('fs').readFileSync('.specs/juridico-pt-v3-0-2-lei-estrangeira/change.md','utf8'); if(!/a04[^\n]*3\/3/.test(t)) process.exit(1)"_
-- [ ] 3. [US1] Versão 3.0.2 nos 6 sítios e no package-lock, CHANGELOG `## [3.0.2]`, README e suites completas verdes.
+- [x] 3. [US1] Versão 3.0.2 nos 6 sítios e no package-lock, CHANGELOG `## [3.0.2]`, README e suites completas verdes.
   - _Requirements: US-1.AC-1_
   - _Implements: .claude-plugin/plugin.json, .claude-plugin/marketplace.json, package.json, mcp-server/package.json, mcp-server/src/index.ts, CHANGELOG.md, README.md_
   - _Verify: cd mcp-server && npm test && cd .. && python -I skills/juridico-pt/scripts/test_scripts.py_
 
 ## Resultado da avaliação
-(preenchido na tarefa 2)
+- **a04 (contrato CLT para São Paulo): 3/3.** Corrido a 2026-10-27 sobre o commit dc41c4b, com 3 execuções, `--keep-temp` e um custo de 0,43 USD.
+  - Os três graders passam nas três execuções: assinala a lei brasileira, zero PT-BR e salvaguardas.
+  - As três respostas avisam que a CLT está fora da base conferida, marcam as normas com `[■ VERIFICAR]` e recomendam advogado inscrito na OAB/SP. Duas redigem logo a minuta; a outra propõe-na com as mesmas ressalvas.
+- **O grader `03-salvaguardas`** foi testado antes da corrida, com 6 de 6 casos como esperado, entre respostas certas e erradas. Nos traces da 3.0.1, apanha a execução que redigia a minuta sem salvaguardas.
