@@ -6,7 +6,8 @@ titulo_en: "Statement of Claim for Infringement of Industrial Property Rights"
 descricao: "Elabora a petição inicial de ação de violação de direitos de propriedade industrial (marca, patente, desenho ou modelo), com pedidos de cessação, indemnização, destruição de produtos e publicação da decisão, ao abrigo do Código da Propriedade Industrial português."
 descricao_en: "Prepares the statement of claim in an action for infringement of industrial property rights (trade mark, patent, design), seeking cessation, damages, destruction of products and publication of the decision, under the Portuguese Industrial Property Code."
 ambito: nacional
-estado_citacoes: "conferidas 1 · corrigidas 8 · por conferir 16"
+estado_citacoes: "conferidas 22 · corrigidas 6 · por conferir 5"
+revisao_tecnica: "2026-10-27 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
@@ -14,7 +15,8 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 
 > **Âmbito:** nacional · **Área:** Propriedade Intelectual e Industrial · **Código:** PI-018
 > **EN:** Statement of Claim for Infringement of Industrial Property Rights. Prepares the statement of claim in an action for infringement of industrial property rights (trade mark, patent, design), seeking cessation, damages, destruction of products and publication of the decision, under the Portuguese Industrial Property Code.
-> **Citações:** conferidas 1 · corrigidas 8 · por conferir 16. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 22 · corrigidas 6 · por conferir 5. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-27 — corrigida (12 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
 Elabora a petição inicial de ação de violação de direitos de propriedade industrial (marca, patente, desenho ou modelo), com pedidos de cessação, indemnização, destruição de produtos e publicação da decisão, ao abrigo do Código da Propriedade Industrial português.
 
@@ -25,10 +27,10 @@ Ficha de trabalho para preparar este documento. As regras da casa prevalecem sob
 ## Regras obrigatórias
 - NUNCA inventes jurisprudência, números de processo ou disposições legais inexistentes
 - Se faltarem dados, assinala [■ VERIFICAR: o que é necessário]
-- A ação de violação de PI segue os arts. 338.º a 338.º-N do CPI [■ VERIFICAR: os arts. 338.º-A a 338.º-N não existem no CPI atual; as medidas de tutela dos direitos estão nos arts. 337.º e ss.]
-- Pede cessação (art. 338.º-A CPI [■ VERIFICAR: o art. 338.º-A não existe no CPI; a cessação da violação está nas medidas inibitórias (art. 349.º CPI)]), indemnização (art. 347.º CPI), destruição de produtos (art. 338.º-B CPI [■ VERIFICAR: o art. 338.º-B não existe no CPI; a destruição e retirada de produtos estão nas sanções acessórias (art. 348.º)]) e publicação da decisão (art. 338.º-G CPI [■ VERIFICAR: o art. 338.º-G não existe no CPI; a publicação da decisão está no art. 350.º CPI])
-- O direito de indemnização inclui lucros do infrator como critério alternativo (art. 347.º CPI)
-- Identifica a competência correta: Tribunal da Propriedade Intelectual ou tribunal comum [■ VERIFICAR]
+- Os meios de tutela civil dos direitos de propriedade industrial estão nos arts. 337.º a 350.º do CPI aprovado pelo Decreto-Lei n.º 110/2018 (a numeração 338.º-A e seguintes é a do CPI de 2003 e não deve ser usada)
+- Pede a cessação, com medidas inibitórias e sanção pecuniária compulsória (art. 349.º CPI), indemnização (art. 347.º CPI), destruição ou retirada dos produtos — sanções acessórias (art. 348.º CPI) — e publicação da decisão (art. 350.º CPI)
+- Na indemnização, o tribunal atende ao lucro obtido pelo infrator, aos danos emergentes e lucros cessantes do lesado, aos encargos com a proteção, a investigação e a cessação da conduta, à receita do infrator e aos danos não patrimoniais; só na impossibilidade de fixar o prejuízo efetivo, e se o lesado não se opuser, pode fixar quantia por equidade, tendo por base, no mínimo, as remunerações de uma licença (art. 347.º, n.os 2 a 5, CPI)
+- Competência: Tribunal da Propriedade Intelectual (art. 111.º, n.º 1, al. b), da Lei n.º 62/2013, de 26 de agosto)
 
 ## Framework P.A.C.E.F — Segue estas 5 etapas obrigatoriamente:
 
@@ -40,20 +42,21 @@ Apresenta dentro de um bloco <analise_do_caso>:
 - Danos sofridos: perda de vendas, erosão de marca, danos à reputação
 - Notificação extrajudicial prévia: foi feita? em que data? com que resposta?
 - Urgência de providência cautelar simultânea ou prévia
-- Prazo de prescrição verificado (3 anos — art. 498.º CC aplicável por remissão)
+- Prazo de prescrição verificado (3 anos a contar do conhecimento do direito — art. 498.º CC, regime geral da responsabilidade civil; na violação de segredos comerciais, 5 anos — art. 353.º CPI)
 
 ### ETAPA 2 — ANÁLISE JURÍDICA (Fundamentação)
 Apresenta dentro de um bloco <fundamentos_juridicos>:
 - Art. 249.º CPI: direitos conferidos pelo registo de marca
 - Art. 249.º CPI: atos que podem ser proibidos pelo titular
 - Art. 347.º CPI: responsabilidade civil por violação — critérios de indemnização
-- Art. 338.º-A CPI [■ VERIFICAR: o art. 338.º-A não existe no CPI; a cessação da violação está nas medidas inibitórias (art. 349.º CPI)]: pedido de cessação e ordens
-- Art. 338.º-B CPI [■ VERIFICAR: o art. 338.º-B não existe no CPI; a destruição e retirada de produtos estão nas sanções acessórias (art. 348.º)]: medidas de destruição, retirada e recall de produtos
-- Art. 338.º-C CPI [■ VERIFICAR: o art. 338.º-C não existe no CPI; o dever de informar sobre a origem dos produtos está no art. 344.º CPI]: divulgação de informações sobre a origem dos produtos infratores
-- Art. 338.º-G CPI [■ VERIFICAR: o art. 338.º-G não existe no CPI; a publicação da decisão está no art. 350.º CPI]: publicação da decisão
-- Art. 338.º-H CPI [■ VERIFICAR: o art. 338.º-H não existe no CPI; as custas seguem o regime geral do CPC (art. 527.º)]: encargos e custas
-- Para marcas UE: arts. 130.º e ss. RMUE (Tribunal de Marcas da UE)
-- [■ VERIFICAR: competência — Tribunal da Propriedade Intelectual ou outro; valor da causa]
+- Art. 349.º CPI: medidas inibitórias e sanção pecuniária compulsória na condenação à cessação
+- Art. 348.º CPI: sanções acessórias — destino dos bens (destruição, retirada ou exclusão definitiva dos circuitos comerciais) e dos instrumentos
+- Art. 344.º CPI: obrigação de prestar informações sobre a origem e as redes de distribuição dos bens ou serviços
+- Art. 339.º CPI: medidas para obtenção da prova (incluindo documentos bancários, financeiros, contabilísticos ou comerciais, nos atos à escala comercial — art. 337.º CPI)
+- Art. 350.º CPI: publicação das decisões judiciais
+- Arts. 527.º e 533.º CPC: custas e custas de parte (incluindo os honorários do mandatário)
+- Para marcas UE: arts. 123.º e ss. do Regulamento (UE) 2017/1001 (tribunais de marcas da UE; sanções no art. 130.º) [■ VERIFICAR: tribunal designado em Portugal como tribunal de marcas da UE]
+- Competência: Tribunal da Propriedade Intelectual (art. 111.º, n.º 1, al. b), da Lei n.º 62/2013) [■ VERIFICAR: valor da causa]
 
 ### ETAPA 3 — CONSTRUÇÃO ARGUMENTATIVA
 Define em <estrategia>:
@@ -61,14 +64,14 @@ Define em <estrategia>:
 - Pedidos acessórios: destruição de stock, recall, divulgação de informação, publicação da decisão
 - Cálculo da indemnização: lucros cessantes do titular vs. lucros obtidos pelo infrator (art. 347.º CPI)
 - Prova: documentos de registo, evidências da violação, peritagem, documentos contabilísticos
-- Requerimento de exibição de documentos contabilísticos do infrator (art. 338.º-C CPI [■ VERIFICAR: o art. 338.º-C não existe no CPI; a exibição de documentos do infrator está no art. 339.º CPI (obtenção da prova)])
+- Requerimento de apresentação de documentos bancários, financeiros, contabilísticos ou comerciais do infrator, nos atos à escala comercial (art. 339.º, n.º 2, CPI)
 
 ### ETAPA 4 — EXPOSIÇÃO ESTRUTURADA (Petição)
 Redige a petição inicial:
 
 **PETIÇÃO INICIAL — AÇÃO DE VIOLAÇÃO DE DIREITOS DE PROPRIEDADE INDUSTRIAL**
 
-AO [TRIBUNAL DA PROPRIEDADE INTELECTUAL / TRIBUNAL JUDICIAL DA COMARCA DE [localidade]]
+AO TRIBUNAL DA PROPRIEDADE INTELECTUAL
 
 [Nome/Denominação], [NIF/NIPC], com sede em [morada], representada pelo mandatário [nome], advogado(a), OA n.º [número], com escritório em [morada], vem propor a presente
 
@@ -77,7 +80,7 @@ AO [TRIBUNAL DA PROPRIEDADE INTELECTUAL / TRIBUNAL JUDICIAL DA COMARCA DE [local
 contra [Nome/Denominação do Réu], [NIF/NIPC], com sede em [morada], pelos seguintes fundamentos:
 
 **I. LEGITIMIDADE E COMPETÊNCIA**
-O Autor é titular [da marca n.º [número] / da patente n.º [número] / do desenho n.º [número]], registada(o) no INPI em [data], conferindo-lhe o direito exclusivo previsto no art. [241.º / 100.º / 194.º] do CPI. O tribunal é competente nos termos do [■ VERIFICAR: diploma que atribui competência ao Tribunal da Propriedade Intelectual].
+O Autor é titular [da marca n.º [número] / da patente n.º [número] / do desenho n.º [número]], registada(o) no INPI em [data], conferindo-lhe o direito exclusivo previsto no art. [249.º (marca) / 102.º (patente) / 197.º (desenho ou modelo)] do CPI. O tribunal é competente nos termos do art. 111.º, n.º 1, al. b), da Lei n.º 62/2013, de 26 de agosto (Lei da Organização do Sistema Judiciário).
 
 **II. DOS DIREITOS DO AUTOR**
 O Autor é titular [da marca "[denominação/descrição]" registada no INPI sob o n.º [número], nas Classes [X] e [Y] da Classificação de Nice / da patente n.º [número] para [título da invenção]], conforme Doc. 1.
@@ -94,7 +97,7 @@ O Autor é titular [da marca "[denominação/descrição]" registada no INPI sob
 
 **IV. DO DIREITO**
 
-A conduta do Réu viola o direito exclusivo do Autor previsto no art. 249.º do CPI, que confere ao titular da marca o direito de impedir terceiros de usar, sem o seu consentimento, um sinal idêntico ou semelhante para produtos ou serviços idênticos ou semelhantes, quando exista risco de confusão.
+A conduta do Réu viola o direito exclusivo do Autor previsto no art. 249.º do CPI, que confere ao titular da marca o direito de impedir terceiros de usar, sem o seu consentimento, no exercício de atividades económicas, sinal idêntico à marca para produtos ou serviços idênticos ou, quando exista risco de confusão ou associação no espírito do consumidor, sinal idêntico ou semelhante para produtos ou serviços idênticos ou afins [e, tratando-se de marca de prestígio, nos termos da al. c) do n.º 1 do mesmo artigo].
 
 O Réu é responsável pelos danos causados ao Autor, nos termos do art. 347.º do CPI, tendo em conta: a) os lucros cessantes do Autor (vendas perdidas pela violação); b) os benefícios indevidamente obtidos pelo Réu com a prática ilícita; c) os danos não patrimoniais sofridos pelo Autor (danos à imagem e reputação da marca).
 
@@ -102,17 +105,17 @@ O Réu é responsável pelos danos causados ao Autor, nos termos do art. 347.º 
 
 Ante o exposto, requer-se que o tribunal condene o Réu a:
 
-a) CESSAR imediata e definitivamente todo e qualquer uso do sinal [denominação/descrição] ou de sinal semelhante em produtos, embalagens, publicidade e qualquer outro suporte, sob pena de multa [■ VERIFICAR: art. 829.º-A CPC [■ VERIFICAR: a sanção pecuniária compulsória está no art. 829.º-A do Código Civil, não no CPC] — sanção pecuniária compulsória];
+a) CESSAR imediata e definitivamente todo e qualquer uso do sinal [denominação/descrição] ou de sinal semelhante em produtos, embalagens, publicidade e qualquer outro suporte, sob pena de sanção pecuniária compulsória de € [valor] por cada dia de incumprimento (art. 349.º, n.º 4, CPI e art. 829.º-A do Código Civil);
 
-b) RETIRAR do mercado e DESTRUIR, a suas expensas, todos os produtos, embalagens e materiais publicitários que ostensem o sinal infrator (art. 338.º-B CPI [■ VERIFICAR: o art. 338.º-B não existe no CPI; a destruição e retirada de produtos estão nas sanções acessórias (art. 348.º)]);
+b) RETIRAR do mercado e DESTRUIR, a suas expensas, todos os produtos, embalagens e materiais publicitários que ostentem o sinal infrator (art. 348.º CPI);
 
-c) PRESTAR INFORMAÇÃO sobre a origem, canais de distribuição e quantidades dos produtos infratores (art. 338.º-C CPI [■ VERIFICAR: o art. 338.º-C não existe no CPI; o dever de informar sobre a origem dos produtos está no art. 344.º CPI]);
+c) PRESTAR INFORMAÇÃO sobre a origem, canais de distribuição e quantidades dos produtos infratores, bem como sobre o preço obtido (art. 344.º CPI);
 
 d) PAGAR ao Autor indemnização pelos danos patrimoniais e não patrimoniais, a liquidar em incidente de liquidação, estimada em € [valor], acrescida de juros de mora legais desde a citação;
 
-e) [PUBLICAR] a decisão condenatória nos termos e pelo tempo que o tribunal considere adequado (art. 338.º-G CPI [■ VERIFICAR: o art. 338.º-G não existe no CPI; a publicação da decisão está no art. 350.º CPI]);
+e) [PUBLICAR] a decisão condenatória nos termos e pelo tempo que o tribunal considere adequado, a expensas do Réu (art. 350.º CPI);
 
-f) PAGAR as custas e honorários de mandatário (art. 338.º-H CPI [■ VERIFICAR: o art. 338.º-H não existe no CPI; as custas seguem o regime geral do CPC (art. 527.º)]).
+f) PAGAR as custas do processo, incluindo as custas de parte, nas quais se compreendem os honorários do mandatário (arts. 527.º e 533.º, n.º 2, al. d), do CPC).
 
 **VI. VALOR DA CAUSA**
 Dá-se à causa o valor de € [valor] ([valor por extenso]).
@@ -190,28 +193,36 @@ Petição inicial de ação de violação de direitos de propriedade industrial 
 
 | Citação | Estado | Nota |
 |---|---|---|
-| arts. 338.º a 338.º-N do CPI | por conferir [■ VERIFICAR] | os arts. 338.º-A a 338.º-N não existem no CPI atual; as medidas de tutela dos direitos estão nos arts. 337.º e ss. |
-| art. 338.º-A CPI | por conferir [■ VERIFICAR] | o art. 338.º-A não existe no CPI; a cessação da violação está nas medidas inibitórias (art. 349.º CPI) |
+| arts. 337.º a 350.º do CPI | conferida (epígrafe) — Escala comercial |  |
+| art. 349.º CPI | conferida (epígrafe) — Medidas inibitórias |  |
+| art. 347.º CPI | conferida (epígrafe) — Indemnização por perdas e danos |  |
 | art. 347.º CPI | corrigida — Indemnização por perdas e danos | o número citado no catálogo não correspondia à epígrafe |
-| art. 347.º CPI | corrigida — Indemnização por perdas e danos | o número citado no catálogo não correspondia à epígrafe |
-| art. 347.º CPI | corrigida — Indemnização por perdas e danos | o número citado no catálogo não correspondia à epígrafe |
-| art. 338.º-B CPI | por conferir [■ VERIFICAR] | o art. 338.º-B não existe no CPI; a destruição e retirada de produtos estão nas sanções acessórias (art. 348.º) |
-| art. 338.º-B CPI | por conferir [■ VERIFICAR] | o art. 338.º-B não existe no CPI; a destruição e retirada de produtos estão nas sanções acessórias (art. 348.º) |
-| art. 338.º-G CPI | por conferir [■ VERIFICAR] | o art. 338.º-G não existe no CPI; a publicação da decisão está no art. 350.º CPI |
-| art. 338.º-G CPI | por conferir [■ VERIFICAR] | o art. 338.º-G não existe no CPI; a publicação da decisão está no art. 350.º CPI |
+| art. 348.º CPI | conferida (epígrafe) — Sanções acessórias |  |
+| art. 348.º CPI | conferida (epígrafe) — Sanções acessórias |  |
+| art. 350.º CPI | conferida (epígrafe) — Publicação das decisões judiciais |  |
+| art. 350.º CPI | conferida (epígrafe) — Publicação das decisões judiciais |  |
+| art. 347.º, n.os 2 a 5, CPI | conferida (epígrafe) — Indemnização por perdas e danos |  |
+| art. 111.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 111.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 111.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 498.º CC | conferida (epígrafe) — Prescrição |  |
+| art. 353.º CPI | conferida (epígrafe) — Prescrição |  |
 | Art. 249.º CPI | corrigida — Direitos conferidos pelo registo | o número citado no catálogo não correspondia à epígrafe |
 | Art. 249.º CPI | corrigida — Direitos conferidos pelo registo | o número citado no catálogo não correspondia à epígrafe |
 | Art. 347.º CPI | corrigida — Indemnização por perdas e danos | o número citado no catálogo não correspondia à epígrafe |
-| Art. 338.º-A CPI | por conferir [■ VERIFICAR] | o art. 338.º-A não existe no CPI; a cessação da violação está nas medidas inibitórias (art. 349.º CPI) |
-| Art. 338.º-B CPI | por conferir [■ VERIFICAR] | o art. 338.º-B não existe no CPI; a destruição e retirada de produtos estão nas sanções acessórias (art. 348.º) |
-| Art. 338.º-C CPI | por conferir [■ VERIFICAR] | o art. 338.º-C não existe no CPI; o dever de informar sobre a origem dos produtos está no art. 344.º CPI |
-| Art. 338.º-G CPI | por conferir [■ VERIFICAR] | o art. 338.º-G não existe no CPI; a publicação da decisão está no art. 350.º CPI |
-| Art. 338.º-H CPI | por conferir [■ VERIFICAR] | o art. 338.º-H não existe no CPI; as custas seguem o regime geral do CPC (art. 527.º) |
-| arts. 130.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| art. 338.º-C CPI | por conferir [■ VERIFICAR] | o art. 338.º-C não existe no CPI; a exibição de documentos do infrator está no art. 339.º CPI (obtenção da prova) |
-| art. 338.º-C CPI | por conferir [■ VERIFICAR] | o art. 338.º-C não existe no CPI; o dever de informar sobre a origem dos produtos está no art. 344.º CPI |
+| Art. 349.º CPI | conferida (epígrafe) — Medidas inibitórias |  |
+| Art. 348.º CPI | conferida (epígrafe) — Sanções acessórias |  |
+| Art. 344.º CPI | conferida (epígrafe) — Obrigação de prestar informações |  |
+| Art. 339.º CPI | conferida (epígrafe) — Medidas para obtenção da prova |  |
+| art. 337.º CPI | conferida (epígrafe) — Escala comercial |  |
+| Art. 350.º CPI | conferida (epígrafe) — Publicação das decisões judiciais |  |
+| Arts. 527.º e 533.º CPC | conferida (epígrafe) — Regra geral em matéria de custas |  |
+| arts. 123.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 130.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 339.º, n.º 2, CPI | conferida (epígrafe) — Medidas para obtenção da prova |  |
 | art. 249.º do CPI | corrigida — Direitos conferidos pelo registo | o número citado no catálogo não correspondia à epígrafe |
 | art. 347.º do CPI | corrigida — Indemnização por perdas e danos | o número citado no catálogo não correspondia à epígrafe |
-| art. 829.º-A CPC | por conferir [■ VERIFICAR] | a sanção pecuniária compulsória está no art. 829.º-A do Código Civil, não no CPC |
-| art. 338.º-H CPI | por conferir [■ VERIFICAR] | o art. 338.º-H não existe no CPI; as custas seguem o regime geral do CPC (art. 527.º) |
+| art. 349.º, n.º 4, CPI | conferida (epígrafe) — Medidas inibitórias |  |
+| art. 829.º-A do Código Civil | conferida (epígrafe) — Sanção pecuniária compulsória |  |
+| art. 344.º CPI | conferida (epígrafe) — Obrigação de prestar informações |  |
+| arts. 527.º e 533.º, n.º 2, al. d), do CPC | conferida (epígrafe) — Regra geral em matéria de custas |  |

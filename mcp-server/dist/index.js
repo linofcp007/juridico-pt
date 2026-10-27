@@ -23334,15 +23334,22 @@ function lerFicha(codigo2) {
   const caminho2 = join(DIR_FICHAS, e.ficheiro);
   if (!existsSync(caminho2)) return `A ficha ${e.codigo} n\xE3o est\xE1 no pacote (${e.ficheiro}).`;
   const corpo2 = readFileSync(caminho2, "utf8").replace(/^---\r?\n[\s\S]*?\r?\n---\r?\n+/, "");
-  const cab = [
+  return `${cabecalhoFicha(e)}${NL}${NL}---${NL}${NL}${corpo2}`;
+}
+function cabecalhoFicha(e) {
+  const r = e.revisao_tecnica;
+  return [
     `Ficha ${e.codigo} \u2014 ${e.titulo} / ${e.titulo_en} (${e.area})`,
     `Cita\xE7\xF5es: ${textoEstado(e.estado)}. As por conferir est\xE3o marcadas [\u25A0 VERIFICAR] e s\xF3 entram no documento assim, at\xE9 serem confirmadas na fonte oficial (dre.pt, EUR-Lex).`,
     "Ordem de uso: modelo conferido (listar_modelos) \u2192 template (listar_templates) \u2192 ficha. A ficha \xE9 um guia de trabalho: serve quando o plugin n\xE3o tem modelo nem template para este documento.",
     ...e.relacao === "complementa" && e.remete_para ? [`Cruza-se com ${e.remete_para}: usa primeiro esse (${comoAbrir(e.remete_para)}) e esta ficha como complemento.`] : [],
+    ...r ? [`Revis\xE3o t\xE9cnica: ${r.data} (${r.veredicto}). O que mudou e as fontes est\xE3o em assets/fichas/revisao-tecnica.md; falta a confirma\xE7\xE3o de um advogado, por isso diz ao utilizador que o documento deve ser revisto por quem o assina.`] : [],
     'Valores do ano (sal\xE1rio m\xEDnimo, IAS, UC, taxas): ler_referencia "valores-2026", nunca os montantes da ficha.',
     "Reda\xE7\xE3o: segue o fluxo de assets/redacao/redator.md (entrevista numa s\xF3 mensagem, Marca\xE7\xE3o Redator, verificar_redacao, exportar_documento)."
-  ];
-  return `${cab.join(NL)}${NL}${NL}---${NL}${NL}${corpo2}`;
+  ].join(NL);
+}
+function precarregarFichas() {
+  catalogo();
 }
 function codigosFichas() {
   return catalogo()?.indice.fichas.map((e) => e.codigo) ?? [];
@@ -26934,7 +26941,7 @@ async function main() {
   const server = new McpServer(
     {
       name: "juridico-pt",
-      version: "3.1.0"
+      version: "3.1.1"
     },
     {
       // Muitos clientes MCP injetam estas instruções como contexto do servidor (com um limite
@@ -26946,6 +26953,7 @@ async function main() {
   registerResources(server);
   registerPrompts(server);
   argumentosOpcionaisNosPrompts(server);
+  precarregarFichas();
   const transport = new StdioServerTransport();
   await server.connect(transport);
   console.error("juridico-pt MCP server ativo (stdio).");

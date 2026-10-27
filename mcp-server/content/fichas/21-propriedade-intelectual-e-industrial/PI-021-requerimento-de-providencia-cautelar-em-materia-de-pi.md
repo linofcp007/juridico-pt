@@ -6,7 +6,8 @@ titulo_en: "Application for an Interim Measure in IP Matters"
 descricao: "Elabora o requerimento de providência cautelar para cessação urgente de violação de direitos de propriedade intelectual (marca, patente, direitos de autor), com pedido de apreensão de produtos, inibição de uso e ordens de remoção de conteúdos, demonstrando o fumus boni iuris e o periculum in mora exigidos pelo CPC e pelo CPI."
 descricao_en: "Prepares the application for an interim measure for the urgent cessation of an infringement of intellectual property rights (trade mark, patent, copyright), seeking seizure of products, an injunction against use and content removal orders, demonstrating the fumus boni iuris and periculum in mora required by the CPC and the CPI."
 ambito: nacional
-estado_citacoes: "conferidas 7 · corrigidas 2 · por conferir 4"
+estado_citacoes: "conferidas 22 · corrigidas 2 · por conferir 1"
+revisao_tecnica: "2026-10-27 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
@@ -14,7 +15,8 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 
 > **Âmbito:** nacional · **Área:** Propriedade Intelectual e Industrial · **Código:** PI-021
 > **EN:** Application for an Interim Measure in IP Matters. Prepares the application for an interim measure for the urgent cessation of an infringement of intellectual property rights (trade mark, patent, copyright), seeking seizure of products, an injunction against use and content removal orders, demonstrating the fumus boni iuris and periculum in mora required by the CPC and the CPI.
-> **Citações:** conferidas 7 · corrigidas 2 · por conferir 4. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 22 · corrigidas 2 · por conferir 1. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-27 — corrigida (9 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
 Elabora o requerimento de providência cautelar para cessação urgente de violação de direitos de propriedade intelectual (marca, patente, direitos de autor), com pedido de apreensão de produtos, inibição de uso e ordens de remoção de conteúdos, demonstrando o fumus boni iuris e o periculum in mora exigidos pelo CPC e pelo CPI.
 
@@ -26,8 +28,8 @@ Ficha de trabalho para preparar este documento. As regras da casa prevalecem sob
 - NUNCA inventes jurisprudência, números de processo ou disposições legais inexistentes
 - Se faltarem dados, assinala [■ VERIFICAR: o que é necessário]
 - A providência cautelar exige dois requisitos cumulativos: fumus boni iuris (aparência do direito) + periculum in mora (urgência/dano irreversível)
-- Em matéria de PI: arts. 338.º-B e 338.º-N do CPI [■ VERIFICAR: os arts. 338.º-B e 338.º-N não existem no CPI; as providências cautelares estão no art. 345.º e a preservação da prova no 340.º] + arts. 362.º e ss. do CPC
-- Para providência ex parte (sem contraditório prévio): demonstrar que o contraditório comprometeria a eficácia da medida (art. 366.º CPC)
+- Em matéria de propriedade industrial: art. 345.º do CPI (providências cautelares, com aplicação dos arts. 341.º a 343.º CPI), art. 340.º CPI (preservação da prova) e art. 346.º CPI (arresto e apreensão de bens); em direito de autor: arts. 210.º-B, 210.º-G e 210.º-H do CDADC; em qualquer caso, arts. 362.º e ss. do CPC
+- Para providência ex parte (sem contraditório prévio): demonstrar que o contraditório comprometeria a eficácia da medida (art. 366.º CPC) ou que o atraso pode causar danos irreparáveis ou que há risco sério de destruição ou ocultação da prova (arts. 345.º, n.º 5, e 341.º, n.º 1, CPI)
 - Pede medidas específicas: apreensão de produtos, inibição de uso, remoção de conteúdos online
 - A providência cautelar não substitui a ação principal — esta deve ser intentada no prazo legal
 
@@ -45,15 +47,17 @@ Apresenta dentro de um bloco <analise_do_caso>:
 
 ### ETAPA 2 — ANÁLISE JURÍDICA (Fundamentação)
 Apresenta dentro de um bloco <fundamentos_juridicos>:
-- Art. 338.º-B CPI [■ VERIFICAR: o art. 338.º-B não existe no CPI; a preservação da prova está no art. 340.º e o arresto no art. 346.º CPI]: medidas de preservação de provas e apreensão de produtos
-- Art. 338.º-N CPI [■ VERIFICAR: o art. 338.º-N não existe no CPI; as providências cautelares em matéria de PI estão no art. 345.º CPI]: medidas provisórias em matéria de PI
+- Arts. 340.º e 341.º CPI: medidas de preservação da prova (descrição, recolha de amostras, apreensão), que podem ser aplicadas sem audiência prévia em caso de risco de dano irreparável ou de destruição ou ocultação da prova
+- Art. 345.º CPI: providências cautelares (inibir violação iminente ou proibir a sua continuação; também contra intermediários; sanção pecuniária compulsória; substituição por caução)
+- Art. 346.º CPI: arresto e apreensão dos bens suspeitos de violação e dos instrumentos
+- Art. 343.º CPI: caução e responsabilidade do requerente (aplicável às providências por força do art. 345.º, n.º 5, CPI)
 - Art. 362.º CPC: providências cautelares — requisitos gerais
 - Art. 365.º CPC: procedimento de decretação
 - Art. 366.º CPC: dispensa de contraditório (providência ex parte)
 - Art. 368.º CPC: conteúdo da decisão cautelar
 - Art. 373.º CPC: caducidade da providência
 - Diretiva 2004/48/CE: enforcement de direitos de PI — medidas provisórias e cautelares
-- [■ VERIFICAR: prazos para propositura da ação principal após decretação da providência]
+- Ação principal: 30 dias contados da data em que ao requerente for notificado o trânsito em julgado da decisão que ordenou a providência, sob pena de caducidade (art. 373.º, n.º 1, al. a), CPC)
 
 ### ETAPA 3 — CONSTRUÇÃO ARGUMENTATIVA
 Define em <estrategia>:
@@ -69,9 +73,9 @@ Redige o requerimento:
 **REQUERIMENTO DE PROVIDÊNCIA CAUTELAR**
 (Procedimento Cautelar em Matéria de Propriedade Industrial / Intelectual)
 
-AO [TRIBUNAL DA PROPRIEDADE INTELECTUAL / TRIBUNAL JUDICIAL DA COMARCA DE [localidade]]
+AO TRIBUNAL DA PROPRIEDADE INTELECTUAL
 
-[Nome/Denominação], [NIF/NIPC], com sede em [morada], representada pelo mandatário [nome], advogado(a), OA n.º [número], vem, nos termos dos arts. 362.º e seguintes do Código de Processo Civil (CPC) e dos arts. 338.º-B e 338.º-N do Código da Propriedade Industrial (CPI) [■ VERIFICAR: os arts. 338.º-B e 338.º-N não existem no CPI; as providências cautelares estão no art. 345.º e a preservação da prova no 340.º], requerer a decretação da seguinte
+[Nome/Denominação], [NIF/NIPC], com sede em [morada], representada pelo mandatário [nome], advogado(a), OA n.º [número], vem, nos termos dos arts. 362.º e seguintes do Código de Processo Civil (CPC) e do art. 345.º do Código da Propriedade Industrial (CPI) [ou, em direito de autor, do art. 210.º-G do Código do Direito de Autor e dos Direitos Conexos], requerer a decretação da seguinte
 
 **PROVIDÊNCIA CAUTELAR**
 
@@ -81,7 +85,7 @@ contra [Nome/Denominação], [NIF/NIPC], com sede em [morada], pelos seguintes f
 
 1. O Requerente é titular [da marca n.º [número] — [denominação] — registada no INPI em [data], Classes [X] e [Y] / da patente n.º [número] / do direito de autor sobre [obra]], conforme Doc. 1.
 
-2. O Requerido está a [usar o sinal [descrição] em [suportes] / fabricar e comercializar produtos que reproduzem a invenção protegida / reproduzir obras protegidas por direito de autor], sem autorização do Requerente, em violação dos arts. [241.º / 104.º / 67.º] do CPI / CDADC, conforme evidenciado pelos Docs. 2 a [X].
+2. O Requerido está a [usar o sinal [descrição] em [suportes] / fabricar e comercializar produtos que reproduzem a invenção protegida / reproduzir obras protegidas por direito de autor], sem autorização do Requerente, em violação do art. [249.º (marca) / 102.º (patente)] do CPI / [art. 67.º do CDADC (direito de autor)], conforme evidenciado pelos Docs. 2 a [X].
 
 3. A aparência do direito é sólida: o registo do Requerente é anterior ao início da violação pelo Requerido, e a semelhança/identidade entre o sinal/obra protegida e o sinal/produto do Requerido é manifesta.
 
@@ -103,7 +107,7 @@ c) Risco de dissipação de stock / eliminação de provas: os produtos infrator
 
 O Requerente requer que o tribunal ordene:
 
-a) A APREENSÃO imediata de todos os produtos que ostensem o sinal [descrição] / que reproduzam a invenção / que constituam cópias não autorizadas das obras, existentes nas instalações do Requerido em [morada] e em qualquer outro local identificado;
+a) A APREENSÃO imediata de todos os produtos que ostentem o sinal [descrição] / que reproduzam a invenção / que constituam cópias não autorizadas das obras, existentes nas instalações do Requerido em [morada] e em qualquer outro local identificado;
 
 b) A INIBIÇÃO do Requerido de usar, de qualquer forma, o sinal [descrição] / de fabricar, comercializar ou distribuir os produtos infratores, com efeito imediato;
 
@@ -138,7 +142,7 @@ Apresenta dentro de um bloco <checklist_validacao>:
 - [ ] Caução oferecida (demonstra boa-fé do requerente)
 - [ ] Prazo para propositura da ação principal mencionado
 - [ ] Documentos de prova juntos e numerados
-- [ ] Tribunal competente verificado [■ VERIFICAR]
+- [ ] Tribunal competente verificado (Tribunal da Propriedade Intelectual — art. 111.º, n.º 1, als. a) e b), e n.º 2, da Lei n.º 62/2013)
 - [ ] Pontos que exigem atenção especial: [liste]
 
 ---
@@ -190,16 +194,28 @@ Requerimento de providência cautelar em matéria de PI completo, com demonstra�
 
 | Citação | Estado | Nota |
 |---|---|---|
-| arts. 338.º-B e 338.º-N do CPI | por conferir [■ VERIFICAR] | os arts. 338.º-B e 338.º-N não existem no CPI; as providências cautelares estão no art. 345.º e a preservação da prova no 340.º |
+| art. 345.º do CPI | conferida (epígrafe) — Providências cautelares |  |
+| arts. 341.º a 343.º CPI | conferida (epígrafe) — Tramitação e contraditório |  |
+| art. 340.º CPI | conferida (epígrafe) — Medidas de preservação da prova |  |
+| art. 346.º CPI | conferida (epígrafe) — Arresto |  |
+| arts. 210.º-B, 210.º-G e 210.º-H do CDADC | conferida (epígrafe) — Medidas para preservação da prova |  |
 | arts. 362.º e ss. do CPC | conferida (epígrafe) — Âmbito das providências cautelares não especificadas |  |
 | art. 366.º CPC | conferida (epígrafe) — Contraditório do requerido |  |
 | art. 366.º CPC | conferida (epígrafe) — Contraditório do requerido |  |
-| Art. 338.º-B CPI | por conferir [■ VERIFICAR] | o art. 338.º-B não existe no CPI; a preservação da prova está no art. 340.º e o arresto no art. 346.º CPI |
-| Art. 338.º-N CPI | por conferir [■ VERIFICAR] | o art. 338.º-N não existe no CPI; as providências cautelares em matéria de PI estão no art. 345.º CPI |
+| arts. 345.º, n.º 5, e 341.º, n.º 1, CPI | conferida (epígrafe) — Providências cautelares |  |
+| Arts. 340.º e 341.º CPI | conferida (epígrafe) — Medidas de preservação da prova |  |
+| Art. 345.º CPI | conferida (epígrafe) — Providências cautelares |  |
+| Art. 346.º CPI | conferida (epígrafe) — Arresto |  |
+| Art. 343.º CPI | conferida (epígrafe) — Responsabilidade do requerente |  |
+| art. 345.º, n.º 5, CPI | conferida (epígrafe) — Providências cautelares |  |
 | Art. 362.º CPC | conferida (epígrafe) — Âmbito das providências cautelares não especificadas |  |
 | Art. 365.º CPC | corrigida — Processamento | o número citado no catálogo não correspondia à epígrafe |
 | Art. 366.º CPC | conferida (epígrafe) — Contraditório do requerido |  |
 | Art. 368.º CPC | conferida (epígrafe) — Deferimento e substituição da providência |  |
 | Art. 373.º CPC | corrigida — Caducidade da providência | o número citado no catálogo não correspondia à epígrafe |
+| art. 373.º, n.º 1, al. a), CPC | conferida (epígrafe) — Caducidade da providência |  |
 | arts. 362.º e seguintes do Código de Processo Civil | conferida (epígrafe) — Âmbito das providências cautelares não especificadas |  |
-| arts. 338.º-B e 338.º-N do Código da Propriedade Industrial | por conferir [■ VERIFICAR] | os arts. 338.º-B e 338.º-N não existem no CPI; as providências cautelares estão no art. 345.º e a preservação da prova no 340.º |
+| art. 345.º do Código da Propriedade Industrial | conferida (epígrafe) — Providências cautelares |  |
+| art. 210.º-G do Código do Direito de Autor e dos Direitos Conexos | conferida (epígrafe) — Providências cautelares |  |
+| art. 67.º do CDADC | conferida (epígrafe) — Fruição e utilização |  |
+| art. 111.º | por conferir [■ VERIFICAR] | diploma não identificado |

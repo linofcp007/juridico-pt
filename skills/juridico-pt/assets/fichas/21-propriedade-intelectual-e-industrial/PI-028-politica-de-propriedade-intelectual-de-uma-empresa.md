@@ -6,7 +6,8 @@ titulo_en: "Intellectual Property Policy for a Company"
 descricao: "Elabora uma política interna de propriedade intelectual para uma empresa, definindo as regras sobre titularidade das criações dos colaboradores, proteção dos ativos de PI, procedimentos de registo, uso de software e conteúdos de terceiros, e gestão de conflitos de propriedade intelectual."
 descricao_en: "Prepares an internal intellectual property policy for a company, setting the rules on ownership of staff creations, protection of IP assets, registration procedures, use of third-party software and content, and management of intellectual property conflicts."
 ambito: nacional
-estado_citacoes: "conferidas 9 · corrigidas 2 · por conferir 4"
+estado_citacoes: "conferidas 16 · corrigidas 2 · por conferir 6"
+revisao_tecnica: "2026-10-27 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
@@ -14,7 +15,8 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 
 > **Âmbito:** nacional · **Área:** Propriedade Intelectual e Industrial · **Código:** PI-028
 > **EN:** Intellectual Property Policy for a Company. Prepares an internal intellectual property policy for a company, setting the rules on ownership of staff creations, protection of IP assets, registration procedures, use of third-party software and content, and management of intellectual property conflicts.
-> **Citações:** conferidas 9 · corrigidas 2 · por conferir 4. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 16 · corrigidas 2 · por conferir 6. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-27 — corrigida (13 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
 Elabora uma política interna de propriedade intelectual para uma empresa, definindo as regras sobre titularidade das criações dos colaboradores, proteção dos ativos de PI, procedimentos de registo, uso de software e conteúdos de terceiros, e gestão de conflitos de propriedade intelectual.
 
@@ -26,7 +28,7 @@ Ficha de trabalho para preparar este documento. As regras da casa prevalecem sob
 - NUNCA inventes disposições legais inexistentes
 - Se faltarem dados, assinala [■ VERIFICAR: o que é necessário]
 - A política deve ser clara e compreensível para colaboradores sem formação jurídica
-- Distingue obrigatoriamente: obras criadas em contexto laboral (art. 14.º CDADC), software criado por trabalhadores (art. 14.º CDADC [■ VERIFICAR: o software criado por trabalhador rege-se pelo DL 252/94 (art. 3.º), não pelo art. 14.º CDADC]), invenções dos trabalhadores (arts. 58.º e ss. CPI)
+- Distingue obrigatoriamente: obras criadas em contexto laboral (art. 14.º CDADC), software criado por trabalhadores (art. 3.º, n.º 3, do Decreto-Lei n.º 252/94, de 20 de outubro — não o art. 14.º CDADC), invenções dos trabalhadores (arts. 58.º e ss. CPI)
 - A política não substitui cláusulas contratuais — deve ser complementada por cláusulas nos contratos de trabalho
 
 ## Framework P.A.C.E.F — Segue estas 5 etapas obrigatoriamente:
@@ -41,12 +43,13 @@ Apresenta dentro de um bloco <analise_do_caso>:
 
 ### ETAPA 2 — ANÁLISE JURÍDICA (Fundamentação)
 Apresenta dentro de um bloco <fundamentos_juridicos>:
-- Art. 14.º CDADC: obra criada em cumprimento de contrato de serviço ou de trabalho — direitos do empregador
-- Arts. 58.º a 76.º CPI: invenções dos trabalhadores — invenções de serviço, invenções livres, invenções mistas
-- Lei n.º 93/2021: segredos comerciais — obrigações do trabalhador durante e após o contrato
+- Art. 14.º CDADC: obra feita por encomenda ou por conta de outrem (dever funcional ou contrato de trabalho) — a titularidade é a convencionada; na falta de convenção, presume-se do criador intelectual (n.º 2); remuneração especial do criador nos casos do n.º 4
+- Art. 3.º, n.º 3, do Decreto-Lei n.º 252/94: programa de computador criado por empregado no exercício das suas funções, segundo instruções do empregador ou por encomenda — os direitos pertencem ao destinatário, salvo estipulação em contrário ou se outra coisa resultar das finalidades do contrato
+- Art. 58.º CPI: invenção feita durante a execução de contrato de trabalho em que a atividade inventiva esteja prevista — direito à patente da empresa, com remuneração do inventor se essa atividade não estiver especialmente remunerada; direito de opção da empresa, mediante remuneração, sobre as invenções que se integrem na sua atividade; dever de o inventor informar a empresa no prazo de três meses a contar da conclusão da invenção
+- Arts. 313.º a 316.º CPI (Decreto-Lei n.º 110/2018, que transpôs a Diretiva (UE) 2016/943): segredos comerciais — noção, atos ilícitos e atos lícitos (a Lei n.º 93/2021 é o regime geral de proteção de denunciantes, não o dos segredos comerciais)
 - Art. 128.º, n.º 1, al. f) Código do Trabalho: dever de lealdade — não divulgar segredos
 - Arts. 136.º e ss. Código do Trabalho: cláusulas de não concorrência pós-contratual
-- [■ VERIFICAR: regime específico de software criado por trabalhador — art. 14.º CDADC [■ VERIFICAR: o software criado por trabalhador rege-se pelo DL 252/94 (art. 3.º), não pelo art. 14.º CDADC] vs. regime geral]
+- [■ VERIFICAR: cláusulas dos contratos de trabalho e de prestação de serviços sobre a titularidade das obras (art. 14.º CDADC) e do software (art. 3.º, n.º 3, do Decreto-Lei n.º 252/94)]
 
 ### ETAPA 3 — CONSTRUÇÃO ARGUMENTATIVA
 Define em <estrategia>:
@@ -70,16 +73,16 @@ A presente política define as regras da [Nome da empresa] ("Empresa") em matér
 Para efeitos desta política:
 - "Ativos de PI": marcas, patentes, modelos de utilidade, desenhos e modelos, direitos de autor (incluindo software), segredos comerciais, know-how e base de dados pertencentes à Empresa;
 - "Obra de Serviço": obra criada por um colaborador no cumprimento das suas obrigações laborais ou seguindo instruções da Empresa;
-- "Invenção de Serviço": invenção resultante do exercício das funções do trabalhador ou de orientações da Empresa (arts. 58.º e ss. CPI);
-- "Segredo Comercial": informação que preenche os requisitos do art. 2.º da Lei n.º 93/2021.
+- "Invenção de Serviço": invenção feita durante a execução de contrato de trabalho em que a atividade inventiva esteja prevista; a titularidade da patente cabe à Empresa (arts. 58.º e ss. CPI);
+- "Segredo Comercial": informação que preenche cumulativamente os requisitos do art. 313.º do CPI (secreta, com valor comercial por ser secreta e objeto de diligências razoáveis para a manter secreta).
 
 **3. TITULARIDADE DOS ATIVOS DE PI CRIADOS POR COLABORADORES**
 
 **3.1. Obras criadas em contexto laboral**
-Nos termos do art. 14.º do Código do Direito de Autor e dos Direitos Conexos (CDADC) [■ VERIFICAR: o art. 14.º CDADC remete para o convencionado; o software de trabalhadores rege-se pelo DL 252/94 (art. 3.º)], as obras criadas por colaboradores no exercício das suas funções laborais, incluindo software, pertencem à Empresa, salvo estipulação contratual em contrário. O colaborador retém os direitos morais sobre a obra (direito de paternidade).
+Nos termos do art. 14.º do Código do Direito de Autor e dos Direitos Conexos (CDADC), a titularidade do direito de autor sobre as obras criadas por colaboradores no exercício das suas funções é a que tiver sido convencionada e, na falta de convenção, presume-se que pertence ao criador; por isso, os contratos de trabalho e de prestação de serviços devem atribuir expressamente esses direitos à Empresa. Os programas de computador criados por trabalhadores no exercício das suas funções ou segundo instruções da Empresa, ou por encomenda desta, pertencem à Empresa, salvo estipulação em contrário ou se outra coisa resultar das finalidades do contrato (art. 3.º, n.º 3, do Decreto-Lei n.º 252/94, de 20 de outubro). O colaborador mantém os direitos morais sobre a obra (designadamente, o direito de paternidade) e pode ter direito a remuneração especial nos casos do art. 14.º, n.º 4, CDADC.
 
 **3.2. Invenções dos trabalhadores**
-As invenções realizadas por colaboradores no exercício das suas funções ou seguindo orientações da Empresa constituem invenções de serviço pertencentes à Empresa, nos termos do art. 58.º do CPI. O colaborador deve notificar a Empresa no prazo de [30] dias após a conceção da invenção.
+O direito à patente das invenções feitas por colaboradores durante a execução de contrato de trabalho em que a atividade inventiva esteja prevista pertence à Empresa; se essa atividade não estiver especialmente remunerada, o inventor tem direito a remuneração de harmonia com a importância da invenção. Se a invenção, fora desse quadro, se integrar na atividade da Empresa, esta tem direito de opção à patente mediante remuneração. Tudo nos termos do art. 58.º do CPI. O colaborador deve informar a Empresa da invenção no prazo de três meses a contar da data em que esta for considerada concluída (ou de um mês a contar da apresentação do pedido no INPI, se entretanto o tiver apresentado); a Empresa pode exercer o direito de opção no prazo de três meses a contar da receção dessa informação.
 
 **3.3. Criações fora do contexto laboral**
 Criações desenvolvidas pelo colaborador fora do horário de trabalho, sem utilização de recursos da Empresa e sem relação com as suas funções, pertencem ao colaborador. Em caso de dúvida, o colaborador deve consultar o departamento [jurídico / RH] antes de explorar comercialmente a criação.
@@ -107,7 +110,7 @@ O uso de software no ambiente de trabalho deve respeitar as licenças aplicávei
 Os colaboradores devem garantir que os conteúdos usados em materiais da Empresa (imagens, textos, música, vídeos) estão devidamente licenciados. O uso de conteúdos de terceiros sem licença adequada expõe a Empresa a responsabilidade civil por violação de direitos de autor.
 
 **6. SEGREDOS COMERCIAIS E INFORMAÇÃO CONFIDENCIAL**
-Os colaboradores têm obrigação de sigilo sobre os segredos comerciais e informação confidencial da Empresa, durante e após a vigência do contrato de trabalho, nos termos da Lei n.º 93/2021 e do art. 128.º do Código do Trabalho. A violação desta obrigação pode constituir justa causa de despedimento e gerar responsabilidade civil.
+Os colaboradores têm obrigação de sigilo sobre os segredos comerciais e informação confidencial da Empresa, durante e após a vigência do contrato de trabalho, nos termos dos arts. 313.º a 316.º do Código da Propriedade Industrial e do art. 128.º do Código do Trabalho. A violação desta obrigação pode constituir justa causa de despedimento e gerar responsabilidade civil.
 
 **7. INCUMPRIMENTO**
 A violação desta política pode constituir infração disciplinar, incluindo despedimento com justa causa, sem prejuízo da responsabilidade civil ou criminal aplicável.
@@ -120,13 +123,13 @@ Esta política é revista anualmente ou sempre que ocorram alterações legislat
 ### ETAPA 5 — FORMULAÇÃO FINAL (Validação)
 Apresenta dentro de um bloco <checklist_validacao>:
 - [ ] Âmbito de aplicação claro (colaboradores, consultores, prestadores)
-- [ ] Titularidade de obras laborais (art. 14.º CDADC) explicada em linguagem acessível
+- [ ] Titularidade de obras laborais (art. 14.º CDADC) explicada em linguagem acessível, com o regime próprio do software (art. 3.º, n.º 3, do Decreto-Lei n.º 252/94)
 - [ ] Invenções dos trabalhadores (arts. 58.º ss. CPI) abordadas
 - [ ] Criações fora do contexto laboral distinguidas
 - [ ] Procedimento de identificação e comunicação de novos ativos de PI
 - [ ] Regras sobre uso de software (licenças, open-source)
 - [ ] Regras sobre conteúdos de terceiros
-- [ ] Obrigações de segredo comercial (Lei n.º 93/2021)
+- [ ] Obrigações de segredo comercial (arts. 313.º a 316.º CPI)
 - [ ] Consequências do incumprimento
 - [ ] [■ VERIFICAR: articulação com contratos de trabalho individuais — cláusulas de PI e confidencialidade]
 - [ ] Pontos que exigem atenção especial: [liste]
@@ -160,18 +163,27 @@ Política de propriedade intelectual completa, pronta para aprovação e comunic
 
 | Citação | Estado | Nota |
 |---|---|---|
-| art. 14.º CDADC | por conferir [■ VERIFICAR] | o software criado por trabalhador rege-se pelo DL 252/94 (art. 3.º), não pelo art. 14.º CDADC |
 | art. 14.º CDADC | conferida (epígrafe) — Determinação da titularidade em casos excepcionais |  |
-| art. 14.º CDADC | por conferir [■ VERIFICAR] | o software criado por trabalhador rege-se pelo DL 252/94 (art. 3.º), não pelo art. 14.º CDADC |
 | art. 14.º CDADC | conferida (epígrafe) — Determinação da titularidade em casos excepcionais |  |
+| art. 14.º CDADC | por conferir [■ VERIFICAR] | o assunto descrito não coincide com a epígrafe; confirmar |
+| art. 14.º CDADC | conferida (epígrafe) — Determinação da titularidade em casos excepcionais |  |
+| art. 3.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 3.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 3.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 3.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | arts. 58.º e ss. CPI | conferida (epígrafe) — Regras especiais sobre titularidade da patente |  |
 | arts. 58.º e ss. CPI | conferida (epígrafe) — Regras especiais sobre titularidade da patente |  |
 | Art. 14.º CDADC | conferida (epígrafe) — Determinação da titularidade em casos excepcionais |  |
-| Arts. 58.º a 76.º CPI | conferida (epígrafe) — Regras especiais sobre titularidade da patente |  |
+| Art. 3.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| Art. 58.º CPI | conferida (epígrafe) — Regras especiais sobre titularidade da patente |  |
+| Arts. 313.º a 316.º CPI | conferida (epígrafe) — Objeto de proteção |  |
 | Art. 128.º, n.º 1, al. f) Código do Trabalho | conferida (índice) |  |
 | Arts. 136.º e ss. Código do Trabalho | corrigida — Pacto de não concorrência | o número citado no catálogo não correspondia à epígrafe |
-| art. 2.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| art. 14.º do Código do Direito de Autor e dos Direitos Conexos | por conferir [■ VERIFICAR] | o art. 14.º CDADC remete para o convencionado; o software de trabalhadores rege-se pelo DL 252/94 (art. 3.º) |
+| art. 313.º do CPI | conferida (epígrafe) — Objeto de proteção |  |
+| art. 14.º do Código do Direito de Autor e dos Direitos Conexos | conferida (epígrafe) — Determinação da titularidade em casos excepcionais |  |
+| art. 14.º, n.º 4, CDADC | conferida (epígrafe) — Determinação da titularidade em casos excepcionais |  |
 | art. 58.º do CPI | corrigida — Regras especiais sobre titularidade da patente | o número citado no catálogo não correspondia à epígrafe |
+| arts. 313.º a 316.º do Código da Propriedade Industrial | conferida (epígrafe) — Objeto de proteção |  |
 | art. 128.º do Código do Trabalho | conferida (índice) |  |
 | arts. 58.º ss. CPI | conferida (epígrafe) — Regras especiais sobre titularidade da patente |  |
+| arts. 313.º a 316.º CPI | conferida (epígrafe) — Objeto de proteção |  |

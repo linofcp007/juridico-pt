@@ -3,20 +3,22 @@ codigo: FIS-033
 area: "Direito Fiscal e Tributário"
 titulo: "Pedido de Regime Fiscal para Residente Não Habitual / Incentivo Fiscal"
 titulo_en: "Application for the Non-Habitual Resident Regime / Tax Incentive"
-descricao: "Gera um pedido de inscrição no regime do Incentivo Fiscal à Investigação Científica e Inovação (IFICI+, ex-RNH) ou, nos casos transitórios, no regime anterior de Residente Não Habitual (RNH), com análise dos requisitos de elegibilidade, dos rendimentos abrangidos e das obrigações declarativas associadas, ao abrigo do artigo 16.º, n.º 11 e seguintes do CIRS e do artigo 58.º-A do EBF."
-descricao_en: "Generates an application for registration under the Tax Incentive for Scientific Research and Innovation (IFICI+, formerly RNH) or, in transitional cases, under the former Non-Habitual Resident (RNH) regime, analysing the eligibility requirements, the income covered and the associated reporting obligations, under Article 16(11) et seq. of the CIRS and Article 58-A of the EBF."
+descricao: "Gera um pedido de inscrição no Incentivo Fiscal à Investigação Científica e Inovação (IFICI — art. 58.º-A do EBF e Portaria n.º 352/2024/1) ou, nos casos abrangidos pelo regime transitório do art. 236.º da Lei n.º 82/2023, no regime do Residente Não Habitual (RNH — art. 16.º, n.ºs 8 a 12, do CIRS, na redação anterior a essa lei), com análise dos requisitos de elegibilidade, dos rendimentos abrangidos e das obrigações declarativas associadas."
+descricao_en: "Generates an application for registration under the Tax Incentive for Scientific Research and Innovation (IFICI — Art. 58-A of the EBF and Ordinance No. 352/2024/1) or, where the transitional regime of Art. 236 of Law No. 82/2023 applies, under the Non-Habitual Resident regime (RNH — Art. 16(8) to (12) of the CIRS, as worded before that law), analysing the eligibility requirements, the income covered and the associated reporting obligations."
 ambito: nacional
-estado_citacoes: "conferidas 1 · corrigidas 0 · por conferir 8"
+estado_citacoes: "conferidas 11 · corrigidas 0 · por conferir 23"
+revisao_tecnica: "2026-10-27 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
 # Pedido de Regime Fiscal para Residente Não Habitual / Incentivo Fiscal
 
 > **Âmbito:** nacional · **Área:** Direito Fiscal e Tributário · **Código:** FIS-033
-> **EN:** Application for the Non-Habitual Resident Regime / Tax Incentive. Generates an application for registration under the Tax Incentive for Scientific Research and Innovation (IFICI+, formerly RNH) or, in transitional cases, under the former Non-Habitual Resident (RNH) regime, analysing the eligibility requirements, the income covered and the associated reporting obligations, under Article 16(11) et seq. of the CIRS and Article 58-A of the EBF.
-> **Citações:** conferidas 1 · corrigidas 0 · por conferir 8. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **EN:** Application for the Non-Habitual Resident Regime / Tax Incentive. Generates an application for registration under the Tax Incentive for Scientific Research and Innovation (IFICI — Art. 58-A of the EBF and Ordinance No. 352/2024/1) or, where the transitional regime of Art. 236 of Law No. 82/2023 applies, under the Non-Habitual Resident regime (RNH — Art. 16(8) to (12) of the CIRS, as worded before that law), analysing the eligibility requirements, the income covered and the associated reporting obligations.
+> **Citações:** conferidas 11 · corrigidas 0 · por conferir 23. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-27 — corrigida (16 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
-Gera um pedido de inscrição no regime do Incentivo Fiscal à Investigação Científica e Inovação (IFICI+, ex-RNH) ou, nos casos transitórios, no regime anterior de Residente Não Habitual (RNH), com análise dos requisitos de elegibilidade, dos rendimentos abrangidos e das obrigações declarativas associadas, ao abrigo do artigo 16.º, n.º 11 e seguintes do CIRS e do artigo 58.º-A do EBF.
+Gera um pedido de inscrição no Incentivo Fiscal à Investigação Científica e Inovação (IFICI — art. 58.º-A do EBF e Portaria n.º 352/2024/1) ou, nos casos abrangidos pelo regime transitório do art. 236.º da Lei n.º 82/2023, no regime do Residente Não Habitual (RNH — art. 16.º, n.ºs 8 a 12, do CIRS, na redação anterior a essa lei), com análise dos requisitos de elegibilidade, dos rendimentos abrangidos e das obrigações declarativas associadas.
 
 ## Método
 
@@ -25,17 +27,18 @@ Ficha de trabalho para preparar este documento. As regras da casa prevalecem sob
 ## Regras obrigatórias
 - NUNCA inventes taxas, categorias de rendimento ou requisitos sem base legal no CIRS e no EBF
 - Marca [■ VERIFICAR: o que falta] sempre que faltarem dados sobre residência anterior, atividade ou rendimentos
-- Regime IFICI+ (aplicável a requerimentos a partir de 01/01/2024):
-  * Requisito: não ter sido residente em Portugal nos 5 anos anteriores (art. 16.º, n.º 11 CIRS [■ VERIFICAR: os n.ºs 8 a 12 do art. 16.º CIRS (RNH) foram revogados pela Lei 82/2023; confirmar o regime transitório ou o art. 58.º-A EBF])
-  * Atividades elegíveis: lista de atividades de elevado valor acrescentado constante de portaria [■ VERIFICAR: portaria em vigor — OE 2024 atualizou a lista]
-  * Taxa: 20% sobre rendimentos de categoria A e B de fonte portuguesa de atividades elegíveis; rendimentos de fonte estrangeira isentos nas categorias previstas no art. 58.º-A EBF
-  * Duração: 10 anos não prorrogáveis
-- Regime RNH (transitório — em vigor para quem era residente antes de 31/12/2023 ou beneficiava de direito adquirido):
+- Regime IFICI — incentivo fiscal à investigação científica e inovação (art. 58.º-A EBF, aditado pela Lei n.º 82/2023, de 29 de dezembro; Portaria n.º 352/2024/1, de 23 de dezembro), para quem se torne residente a partir de 01/01/2024:
+  * Requisito: tornar-se residente nos termos dos n.ºs 1 e 2 do art. 16.º CIRS e não ter sido residente em Portugal em qualquer dos 5 anos anteriores (art. 58.º-A, n.º 1, EBF); estão excluídos os que beneficiem ou tenham beneficiado do RNH ou tenham optado pelo regime do art. 12.º-A CIRS (n.º 10); o regime só pode ser usado uma vez (n.º 12)
+  * Atividades elegíveis: as das alíneas a) a g) do n.º 1 do art. 58.º-A EBF — docência no ensino superior e investigação científica, postos de trabalho qualificados em entidades com benefícios contratuais ao investimento ou reconhecidas pela AICEP ou pelo IAPMEI, profissões altamente qualificadas definidas na Portaria n.º 352/2024/1, I&D empresarial, startups certificadas e Regiões Autónomas
+  * Taxa: 20% sobre os rendimentos líquidos das categorias A e B auferidos nas atividades elegíveis, sem prejuízo da opção pelo englobamento (art. 58.º-A, n.º 2, EBF); rendimentos de fonte estrangeira das categorias A, B, E, F e G isentos, com englobamento para determinação da taxa (art. 81.º, n.º 4, CIRS); pensões (categoria H) não abrangidas; rendimentos pagos por entidades sediadas em territórios de regime fiscal claramente mais favorável tributados a 35% (art. 81.º, n.º 5, CIRS)
+  * Duração: 10 anos consecutivos a partir do ano da inscrição como residente (art. 58.º-A, n.º 2, EBF), não prorrogáveis
+  * Prazo: pedido no Portal das Finanças até 15 de janeiro do ano seguinte àquele em que se torne residente (art. 2.º, n.º 1, da Portaria n.º 352/2024/1, na redação da Portaria n.º 52-A/2025/1); fora do prazo, produz efeitos a partir do ano da inscrição, pelo período remanescente (art. 58.º-A, n.º 7, EBF)
+- Regime RNH — os n.ºs 8 a 12 do art. 16.º CIRS foram revogados pela Lei n.º 82/2023; o regime mantém-se, na redação anterior e até ao fim dos 10 anos, só para os sujeitos passivos do regime transitório do art. 236.º, n.º 3, dessa lei (já inscritos como RNH à data da sua entrada em vigor; residentes a 31/12/2023; quem se tornou residente até 31/12/2024 com um dos elementos da alínea c), como contrato ou promessa de trabalho celebrado até 31/12/2023 ou visto de residência válido até essa data; membros do agregado familiar):
   * Taxa: 20% sobre rendimentos de categoria A e B de atividades de elevado valor acrescentado de fonte portuguesa
   * Rendimentos de fonte estrangeira: isenção ou taxa de 10% (pensões de fonte estrangeira no regime transitório)
-  * O prazo de inscrição é até 31 de março do ano seguinte ao da primeira residência
+  * O prazo de inscrição é até 31 de março do ano seguinte ao da primeira residência; inscrita fora do prazo, a tributação produz efeitos a partir do ano da inscrição, pelo período remanescente (art. 236.º, n.ºs 4 e 5, da Lei n.º 82/2023)
 - Distinção entre regimes: verificar sempre qual o regime aplicável ao caso concreto
-- O pedido de inscrição é efetuado no Portal das Finanças (e-balcão ou modelo específico)
+- O pedido de inscrição é efetuado por via eletrónica no Portal das Finanças (IFICI: formulário próprio, cabendo a verificação dos requisitos da atividade à FCT, à AICEP, à AT, ao IAPMEI, à ANI ou à Startup Portugal, consoante a alínea — art. 58.º-A, n.º 6, EBF)
 
 ---
 
@@ -46,50 +49,50 @@ Analisa em <analise_do_caso>:
 - Qual a nacionalidade e o histórico de residência do requerente nos últimos 5 anos?
 - Quando fixou ou pretende fixar residência fiscal em Portugal?
 - Que tipo de rendimento irá auferir em Portugal: categoria A (trabalho dependente), B (trabalho independente/profissional liberal), H (pensão) ou outros?
-- A atividade exercida consta da lista de atividades de elevado valor acrescentado?
-- Regime a aplicar: IFICI+ (novo) ou RNH (transitório)?
+- A atividade exercida enquadra-se numa das alíneas do n.º 1 do art. 58.º-A EBF (IFICI) ou, no RNH transitório, na tabela de atividades de elevado valor acrescentado?
+- Regime a aplicar: IFICI (novo) ou RNH (transitório — art. 236.º, n.º 3, da Lei n.º 82/2023)? O requerente já beneficiou do RNH ou optou pelo art. 12.º-A CIRS (exclui o IFICI)?
 - Existe convenção para evitar a dupla tributação com o país de origem dos rendimentos?
 
 ### ETAPA 2 — ANÁLISE JURÍDICA
 Identifica em <fundamentos_juridicos>:
-- Art. 16.º, n.ºs 8 a 12 CIRS [■ VERIFICAR: os n.ºs 8 a 12 do art. 16.º CIRS (RNH) foram revogados pela Lei 82/2023; o IFICI consta do art. 58.º-A EBF] — residência não habitual e IFICI+
-- Art. 58.º-A EBF — isenção de rendimentos de fonte estrangeira no IFICI+
-- Portaria de atividades de elevado valor acrescentado [■ VERIFICAR: portaria vigente após OE 2024]
-- Art. 81.º CIRS [■ VERIFICAR: o método de isenção do art. 81.º CIRS servia os residentes não habituais; confirmar a vigência após a Lei 82/2023] — método de isenção para rendimentos de fonte estrangeira
+- Art. 16.º, n.ºs 8 a 12 CIRS [■ VERIFICAR: os n.ºs 8 a 12 do art. 16.º CIRS (RNH) foram revogados pela Lei 82/2023; o IFICI consta do art. 58.º-A EBF] — residência não habitual, na redação anterior à Lei n.º 82/2023 (que os revogou), aplicável só no regime transitório do art. 236.º, n.ºs 3 a 5, dessa lei
+- Art. 58.º-A EBF — requisitos, atividades elegíveis, taxa especial de 20%, duração e exclusões do IFICI
+- Portaria n.º 352/2024/1, de 23 de dezembro, na redação da Portaria n.º 52-A/2025/1 (IFICI: inscrição e profissões altamente qualificadas); no RNH transitório, tabela de atividades de elevado valor acrescentado da Portaria n.º 12/2010, de 7 de janeiro, na redação da Portaria n.º 230/2019, de 23 de julho
+- Art. 81.º CIRS (n.ºs 4 e 5) — método da isenção, com englobamento para determinação da taxa, para os rendimentos de fonte estrangeira das categorias A, B, E, F e G no IFICI; no RNH transitório, n.ºs 4 a 8 na redação anterior à Lei n.º 82/2023
 - Convenção para Evitar a Dupla Tributação aplicável (caso existente) — Skill 24
-- Circular ou ofício-circulado da AT sobre procedimentos de inscrição [■ VERIFICAR: instrução de serviço mais recente]
+- Ofício-Circulado n.º 20276/2025, de 26 de fevereiro (IFICI — procedimento de inscrição e questões frequentes) [■ VERIFICAR: instruções administrativas posteriores]
 
 ### ETAPA 3 — CONSTRUÇÃO
 Define em <estrategia>:
-- Regime aplicável (IFICI+ ou RNH transitório)
-- Atividade elegível e código de portaria correspondente
+- Regime aplicável (IFICI ou RNH transitório)
+- Atividade elegível (alínea do n.º 1 do art. 58.º-A EBF e, se for o caso, profissão da Portaria n.º 352/2024/1) ou, no RNH transitório, código da tabela de atividades de elevado valor acrescentado
 - Estrutura dos rendimentos esperados e tratamento fiscal por categoria
-- Prazo de inscrição (até 31 de março do ano seguinte à residência)
+- Prazo de inscrição (IFICI: até 15 de janeiro do ano seguinte ao da residência; RNH transitório: até 31 de março do ano seguinte)
 - Documentação necessária (prova de residência anterior, NIF, prova de atividade)
 
 ### ETAPA 4 — O PEDIDO DE INSCRIÇÃO
 Redige o documento de suporte ao pedido:
 
-**PEDIDO DE INSCRIÇÃO NO REGIME [IFICI+ / RNH]**
+**PEDIDO DE INSCRIÇÃO NO REGIME [IFICI / RNH]**
 
-**Ao Serviço de Finanças de [Localidade]** (ou: submetido eletronicamente no Portal das Finanças — e-Balcão)
+**Submetido por via eletrónica no Portal das Finanças** (formulário próprio; o texto seguinte serve de fundamentação e de anexo)
 
-[Nome completo], [NIF] n.º [número], [nacionalidade], residente em [morada em Portugal, código postal], vem requerer a inscrição no Regime [IFICI+ / RNH] ao abrigo do artigo 16.º, n.º 11 do CIRS [■ VERIFICAR: os n.ºs 8 a 12 do art. 16.º CIRS (RNH) foram revogados pela Lei 82/2023; confirmar o regime transitório ou o art. 58.º-A EBF] [e do art. 58.º-A do EBF], com os seguintes fundamentos:
+[Nome completo], [NIF] n.º [número], [nacionalidade], residente em [morada em Portugal, código postal], vem requerer a inscrição no regime [IFICI, ao abrigo do artigo 58.º-A do EBF e da Portaria n.º 352/2024/1 / RNH, ao abrigo do artigo 16.º, n.ºs 8 a 10, do CIRS, na redação anterior à Lei n.º 82/2023, aplicável por força do artigo 236.º, n.º 3, alínea [__], dessa lei], com os seguintes fundamentos:
 
 **I — REQUISITO DE NÃO RESIDÊNCIA NOS 5 ANOS ANTERIORES**
-[Demonstrar que o requerente não foi residente fiscal em Portugal nos 5 anos anteriores à data de inscrição — art. 16.º, n.º 11 CIRS [■ VERIFICAR: os n.ºs 8 a 12 do art. 16.º CIRS (RNH) foram revogados pela Lei 82/2023; confirmar o regime transitório ou o art. 58.º-A EBF]; juntar prova de residência anterior no estrangeiro]
+[Demonstrar que o requerente não foi residente fiscal em Portugal em qualquer dos 5 anos anteriores ao ano em que se tornou residente — art. 58.º-A, n.º 1, EBF (IFICI) ou art. 16.º, n.º 8, CIRS, na redação anterior à Lei n.º 82/2023 (RNH transitório); juntar prova de residência anterior no estrangeiro]
 
 **II — DATA DE INÍCIO DE RESIDÊNCIA EM PORTUGAL**
 [Data em que o requerente passou a ser residente fiscal em Portugal; referência ao art. 16.º, n.ºs 1 e 2 CIRS]
 
-**III — ATIVIDADE DE ELEVADO VALOR ACRESCENTADO**
-[Identificar a atividade exercida e o código de portaria correspondente; juntar prova (contrato de trabalho, declaração de início de atividade, outro)]
+**III — ATIVIDADE ELEGÍVEL**
+[IFICI: identificar a alínea do n.º 1 do art. 58.º-A EBF e, se for o caso, a profissão da Portaria n.º 352/2024/1; RNH transitório: atividade de elevado valor acrescentado da tabela aplicável; juntar prova (contrato de trabalho, certidão comercial permanente, contrato de bolsa, comprovativo de habilitações, declaração da entidade empregadora, declaração de início de atividade)]
 
 **IV — RENDIMENTOS ABRANGIDOS**
 [Descrição dos rendimentos que serão auferidos em Portugal e, se aplicável, no estrangeiro, e do tratamento fiscal pretendido]
 
 **V — DO PEDIDO**
-Requer a V. Ex.ª que se digne deferir a inscrição no Regime [IFICI+ / RNH], com efeitos a partir de [ano de tributação], nos termos dos normativos citados.
+Requer a V. Ex.ª que se digne deferir a inscrição no regime [IFICI / RNH], com efeitos a partir de [ano de tributação], nos termos dos normativos citados.
 
 Junta-se: [lista de documentos]
 
@@ -101,9 +104,9 @@ Junta-se: [lista de documentos]
 Apresenta em <checklist_validacao>:
 - [ ] Requisito de não residência nos 5 anos anteriores verificado e documentado
 - [ ] Data de início de residência fiscal em Portugal confirmada
-- [ ] Atividade elegível identificada com código de portaria
-- [ ] Regime correto indicado (IFICI+ ou RNH transitório)
-- [ ] Prazo de inscrição (31 de março do ano seguinte) verificado
+- [ ] Atividade elegível identificada (alínea do art. 58.º-A, n.º 1, EBF ou código da tabela do RNH)
+- [ ] Regime correto indicado (IFICI ou RNH transitório) e exclusões do IFICI verificadas (RNH anterior, opção pelo art. 12.º-A CIRS, utilização anterior)
+- [ ] Prazo de inscrição verificado (IFICI: 15 de janeiro do ano seguinte; RNH transitório: 31 de março do ano seguinte)
 - [ ] Rendimentos de fonte estrangeira identificados e tratamento fiscal descrito
 - [ ] Documentos comprovativos identificados e a juntar
 - [ ] Pontos [■ VERIFICAR] sinalizados
@@ -122,18 +125,18 @@ Apresenta em <checklist_validacao>:
 **RESIDÊNCIA EM PORTUGAL:**
 - Data de fixação da residência fiscal: [dd/mm/aaaa]
 - Ano de tributação de inscrição: [ano]
-- Prazo de inscrição: até [31/03/ano seguinte]
+- Prazo de inscrição: [IFICI: até 15/01 do ano seguinte; RNH transitório: até 31/03 do ano seguinte]
 
 **ATIVIDADE E RENDIMENTOS:**
 - Tipo de vínculo: [trabalhador dependente (cat. A) / trabalhador independente (cat. B) / pensionista (cat. H)]
 - Entidade pagadora (se existente): [nome e NIF da empresa]
 - Atividade: [descrição — ex: engenheiro de software, investigador, gestor sénior]
-- Código de portaria de atividade de elevado valor acrescentado: [código — VERIFICAR portaria em vigor]
+- Atividade elegível: [alínea do art. 58.º-A, n.º 1, EBF / profissão da Portaria n.º 352/2024/1 / código da tabela do RNH]
 - Rendimentos de fonte estrangeira: [sim / não — país de origem e tipo]
 
 **REGIME PRETENDIDO:**
-- IFICI+ (novo, a partir de 2024): [sim / não]
-- RNH transitório (direito adquirido ou inscrição antes de 31/12/2023): [sim / não]
+- IFICI (residência a partir de 2024): [sim / não]
+- RNH transitório (art. 236.º, n.º 3, da Lei n.º 82/2023 — indicar a alínea e o elemento que a fundamenta): [sim / não]
 
 **CONVENÇÃO DE DUPLA TRIBUTAÇÃO:**
 - País de origem dos rendimentos estrangeiros: [país]
@@ -149,12 +152,37 @@ Apresenta em <checklist_validacao>:
 
 | Citação | Estado | Nota |
 |---|---|---|
-| art. 16.º, n.º 11 CIRS | por conferir [■ VERIFICAR] | os n.ºs 8 a 12 do art. 16.º CIRS (RNH) foram revogados pela Lei 82/2023; confirmar o regime transitório ou o art. 58.º-A EBF |
-| art. 16.º, n.º 11 CIRS | por conferir [■ VERIFICAR] | os n.ºs 8 a 12 do art. 16.º CIRS (RNH) foram revogados pela Lei 82/2023; confirmar o regime transitório ou o art. 58.º-A EBF |
 | art. 58.º-A | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 58.º-A | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 58.º-A | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 58.º-A | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 58.º-A | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 58.º-A | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 58.º-A | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 58.º-A | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 58.º-A | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 58.º-A | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 58.º-A | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 58.º-A | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 58.º-A | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 16.º CIRS | conferida (epígrafe) — Residência |  |
+| art. 16.º CIRS | conferida (epígrafe) — Residência |  |
+| art. 12.º-A CIRS | conferida (epígrafe) — Regime fis​cal aplicável a ex-residentes |  |
+| art. 12.º-A CIRS | conferida (epígrafe) — Regime fis​cal aplicável a ex-residentes |  |
+| art. 12.º-A CIRS | conferida (epígrafe) — Regime fis​cal aplicável a ex-residentes |  |
+| art. 81.º, n.º 4, CIRS | conferida (epígrafe) — Eliminação da dupla tributação internacional |  |
+| art. 81.º, n.º 5, CIRS | conferida (epígrafe) — Eliminação da dupla tributação internacional |  |
+| art. 2.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 236.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 236.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 236.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 236.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 236.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | Art. 16.º, n.ºs 8 a 12 CIRS | por conferir [■ VERIFICAR] | os n.ºs 8 a 12 do art. 16.º CIRS (RNH) foram revogados pela Lei 82/2023; o IFICI consta do art. 58.º-A EBF |
 | Art. 58.º-A | por conferir [■ VERIFICAR] | diploma não identificado |
-| Art. 81.º CIRS | por conferir [■ VERIFICAR] | o método de isenção do art. 81.º CIRS servia os residentes não habituais; confirmar a vigência após a Lei 82/2023 |
-| artigo 16.º, n.º 11 do CIRS | por conferir [■ VERIFICAR] | os n.ºs 8 a 12 do art. 16.º CIRS (RNH) foram revogados pela Lei 82/2023; confirmar o regime transitório ou o art. 58.º-A EBF |
+| Art. 81.º CIRS | conferida (epígrafe) — Eliminação da dupla tributação internacional |  |
+| artigo 58.º-A | por conferir [■ VERIFICAR] | diploma não identificado |
+| artigo 16.º, n.ºs 8 a 10, do CIRS | conferida (epígrafe) — Residência |  |
+| artigo 236.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 16.º, n.º 8, CIRS | conferida (epígrafe) — Residência |  |
 | art. 16.º, n.ºs 1 e 2 CIRS | conferida (epígrafe) — Residência |  |

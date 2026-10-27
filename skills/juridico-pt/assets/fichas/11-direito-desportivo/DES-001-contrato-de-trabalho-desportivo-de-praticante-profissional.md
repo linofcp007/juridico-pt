@@ -6,7 +6,8 @@ titulo_en: "Sports Employment Contract for a Professional Athlete"
 descricao: "Redige um contrato de trabalho desportivo completo para praticante profissional, nos termos da Lei n.º 54/2017, de 14 de julho (Lei do Contrato de Trabalho Desportivo — LCTD), com cláusulas obrigatórias, remuneração, deveres das partes, direitos de imagem, regime disciplinar e rescisão com indemnização por quebra sem justa causa."
 descricao_en: "Drafts a complete sports employment contract for a professional athlete (praticante desportivo profissional) under Law No. 54/2017 of 14 July (Sports Employment Contract Law — LCTD), with mandatory clauses, remuneration, duties of the parties, image rights, the disciplinary regime and termination with compensation for breach without just cause."
 ambito: nacional
-estado_citacoes: "conferidas 0 · corrigidas 0 · por conferir 16"
+estado_citacoes: "conferidas 0 · corrigidas 0 · por conferir 26"
+revisao_tecnica: "2026-10-27 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
@@ -14,7 +15,8 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 
 > **Âmbito:** nacional · **Área:** Direito Desportivo · **Código:** DES-001
 > **EN:** Sports Employment Contract for a Professional Athlete. Drafts a complete sports employment contract for a professional athlete (praticante desportivo profissional) under Law No. 54/2017 of 14 July (Sports Employment Contract Law — LCTD), with mandatory clauses, remuneration, duties of the parties, image rights, the disciplinary regime and termination with compensation for breach without just cause.
-> **Citações:** conferidas 0 · corrigidas 0 · por conferir 16. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 0 · corrigidas 0 · por conferir 26. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-27 — corrigida (22 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
 Redige um contrato de trabalho desportivo completo para praticante profissional, nos termos da Lei n.º 54/2017, de 14 de julho (Lei do Contrato de Trabalho Desportivo — LCTD), com cláusulas obrigatórias, remuneração, deveres das partes, direitos de imagem, regime disciplinar e rescisão com indemnização por quebra sem justa causa.
 
@@ -35,22 +37,22 @@ Ficha de trabalho para preparar este documento. As regras da casa prevalecem sob
 ### ETAPA 1 — PROBLEMATIZAÇÃO
 Em <analise_contratual>:
 - Tipo de contrato (profissional / formação / cedência)?
-- Duração (mínimo 1 época / máximo 8 épocas — art. 8.º LCTD)?
+- Duração (mínimo 1 época / máximo 5 épocas; máximo 3 épocas se o praticante for menor — art. 9.º, n.ºs 1 e 4, LCTD)?
 - Modalidade desportiva e regulamento federativo aplicável?
-- Atleta menor? (requer autorização especial — art. 10.º LCTD)
+- Atleta menor? (só a partir dos 16 anos; o contrato é também subscrito pelo representante legal, sob pena de anulabilidade — art. 5.º LCTD)
 - Direitos de imagem: cedidos ou autónomos?
 - Cláusula de rescisão / indemnização pretendida?
 - Informações em falta?
 
 ### ETAPA 2 — ANÁLISE JURÍDICA
 Em <fundamentos_juridicos>:
-- Art. 2.º LCTD: noção de praticante desportivo profissional
-- Art. 8.º LCTD: duração do contrato (mínimo e máximo)
-- Art. 12.º LCTD: forma escrita obrigatória e registo na federação
-- Art. 17.º LCTD: deveres do praticante
-- Art. 18.º LCTD: deveres da entidade empregadora desportiva
-- Art. 26.º a 28.º LCTD: rescisão com e sem justa causa; indemnizações
-- Art. 34.º LCTD: compensação por formação
+- Art. 2.º, al. a), LCTD: noção de contrato de trabalho desportivo
+- Art. 9.º LCTD: duração do contrato (mínimo de uma época e máximo de cinco; três se o praticante for menor)
+- Arts. 6.º e 7.º LCTD: forma escrita, em triplicado e com as menções obrigatórias, e registo na federação (condição para participar em competições)
+- Art. 13.º LCTD: deveres do praticante
+- Art. 11.º LCTD: deveres da entidade empregadora desportiva
+- Arts. 23.º a 26.º LCTD: formas de cessação e justa causa; indemnização pelo valor das retribuições até ao termo, ou superior se provados danos maiores; denúncia pelo praticante mediante cláusula convencionada; responsabilidade solidária da nova entidade empregadora
+- Art. 19.º LCTD: liberdade de trabalho após o termo do contrato; compensação por promoção ou valorização de jovem praticante só se prevista em convenção coletiva (ou, na falta de interlocutor sindical, em regulamento federativo)
 - Regulamento da federação correspondente [■ VERIFICAR: modalidade]
 - [■ VERIFICAR: contrato coletivo de trabalho aplicável à modalidade]
 
@@ -68,12 +70,13 @@ Redija o contrato completo com:
 **PREÂMBULO E IDENTIFICAÇÃO DAS PARTES**
 - Entidade Empregadora Desportiva: designação, forma jurídica, NIF, sede, representante legal
 - Praticante Desportivo: nome completo, nacionalidade, NIF, morada, data de nascimento
+- Empresário desportivo interveniente (identificação e parte que representa) ou menção expressa de que o contrato foi celebrado sem intervenção de empresário desportivo (art. 6.º, n.º 3, al. b), LCTD)
 
 **CLÁUSULA 1.ª — OBJETO**
 Contrato de trabalho desportivo para a prática da modalidade de [modalidade], na categoria profissional de [categoria], para participação nas competições em que a entidade empregadora tome parte.
 
 **CLÁUSULA 2.ª — DURAÇÃO**
-Termo certo: [data de início] a [data de termo]. Mínimo 1 época / máximo 8 épocas (art. 8.º, n.º 1 LCTD). Época desportiva: [datas].
+Termo certo: [data de início] a [data de termo]. Mínimo 1 época / máximo 5 épocas — 3 se o praticante for menor (art. 9.º, n.ºs 1 e 4, LCTD). Época desportiva: [datas].
 
 **CLÁUSULA 3.ª — LOCAL DE TRABALHO**
 Instalações da entidade empregadora e locais de treino/competição designados.
@@ -86,25 +89,25 @@ Instalações da entidade empregadora e locais de treino/competição designados
 - [■ VERIFICAR: direitos de imagem — valor mensal autónomo se aplicável]
 
 **CLÁUSULA 5.ª — DEVERES DO PRATICANTE**
-Nos termos do art. 17.º LCTD: participar em treinos e competições; cumprir instruções técnicas e disciplinares; manter condição física; não praticar atos que ponham em risco a integridade física; não participar em atividades desportivas não autorizadas.
+Nos termos do art. 13.º LCTD: participar em treinos e competições; cumprir instruções técnicas e disciplinares; manter condição física; não praticar atos que ponham em risco a integridade física; não participar em atividades desportivas não autorizadas.
 
 **CLÁUSULA 6.ª — DEVERES DA ENTIDADE EMPREGADORA**
-Nos termos do art. 18.º LCTD: pagar a remuneração; garantir condições de treino adequadas; assegurar seguro desportivo obrigatório; respeitar o regulamento de competição; não exigir esforço excessivo.
+Nos termos do art. 11.º LCTD: registar o contrato e as suas modificações na federação; proporcionar as condições necessárias à participação desportiva e a participação efetiva nos treinos; submeter o praticante aos exames e tratamentos clínicos necessários; permitir a integração nas seleções nacionais; promover a ética desportiva. Pagar pontualmente a retribuição (art. 15.º LCTD) e manter o seguro de acidentes de trabalho (art. 7.º, n.º 4, LCTD).
 
 **CLÁUSULA 7.ª — DIREITOS DE IMAGEM**
 [Opção A — cedência total] O praticante cede à entidade empregadora o direito exclusivo de exploração comercial da sua imagem no âmbito desportivo durante a vigência do contrato, por contrapartida de € [valor]/mês.
 [Opção B — cedência parcial] [■ VERIFICAR: delimitar âmbito — publicidade, redes sociais, merchandising]
 
-**CLÁUSULA 8.ª — SEGURO DESPORTIVO**
-A entidade empregadora obriga-se a manter seguro de acidentes desportivos nos termos do art. 18.º, n.º 1, al. e) LCTD e legislação aplicável [■ VERIFICAR: Portaria de seguros obrigatórios vigente].
+**CLÁUSULA 8.ª — SEGURO DE ACIDENTES DE TRABALHO**
+A entidade empregadora obriga-se a manter seguro de acidentes de trabalho, cuja prova é condição do registo do contrato (art. 7.º, n.º 4, LCTD), nos termos do regime de reparação dos acidentes de trabalho dos praticantes desportivos profissionais (Lei n.º 48/2023, de 22 de agosto) [■ VERIFICAR: condições da apólice].
 
 **CLÁUSULA 9.ª — CESSAÇÃO DO CONTRATO**
-- Rescisão com justa causa pelo praticante: nos termos do art. 26.º LCTD, sem indemnização
-- Rescisão sem justa causa pela entidade: indemnização = [n.º de meses restantes × salário mensal base] (art. 28.º LCTD) [■ VERIFICAR: contrato coletivo pode majorar]
-- Cláusula de rescisão unilateral pelo praticante: indemnização de € [valor] [■ VERIFICAR: proporcionalidade ao investimento do clube]
+- Resolução com justa causa pelo praticante (art. 23.º, n.º 1, al. d), e n.º 3, LCTD): a entidade empregadora indemniza o praticante pelo valor das retribuições que lhe seriam devidas até ao termo do contrato, ou em valor superior se ele provar danos mais elevados (art. 24.º LCTD)
+- Despedimento sem justa causa (cessação promovida indevidamente pela entidade empregadora): indemnização pelo valor das retribuições que seriam devidas até ao termo do contrato — e não só do salário base —, ou superior se provados danos mais elevados (art. 24.º LCTD) [■ VERIFICAR: convenção coletiva aplicável]
+- Denúncia sem justa causa pelo praticante, se convencionada (art. 25.º LCTD): indemnização de € [valor], que o tribunal pode reduzir segundo a equidade se for manifestamente excessiva, atendendo designadamente ao período de execução já decorrido; presume-se a intervenção da nova entidade empregadora, que responde solidariamente pela indemnização se não ilidir a presunção (art. 26.º LCTD)
 
 **CLÁUSULA 10.ª — RESOLUÇÃO DE LITÍGIOS**
-Litígios submetidos ao Tribunal Arbitral do Desporto (TAD), nos termos da Lei n.º 74/2013, de 6 de setembro, sem prejuízo da competência dos tribunais laborais para matéria não desportiva.
+Os litígios emergentes do presente contrato, incluindo a apreciação da regularidade e licitude do despedimento, são submetidos à arbitragem voluntária do Tribunal Arbitral do Desporto (TAD), nos termos dos arts. 6.º e 7.º da Lei do TAD, aprovada pela Lei n.º 74/2013, de 6 de setembro [■ VERIFICAR: convenção coletiva aplicável — art. 4.º LCTD].
 
 **CLÁUSULA 11.ª — LEI APLICÁVEL**
 O presente contrato rege-se pela Lei n.º 54/2017, de 14 de julho, e subsidiariamente pelo Código do Trabalho.
@@ -116,10 +119,10 @@ O Praticante Desportivo: ___________________
 
 ### ETAPA 5 — VALIDAÇÃO
 Em <checklist_validacao>:
-- [ ] Forma escrita e registo na federação (art. 12.º LCTD)
-- [ ] Duração dentro dos limites legais (1 a 8 épocas)
+- [ ] Forma escrita, em triplicado, e registo na federação (arts. 6.º e 7.º LCTD)
+- [ ] Duração dentro dos limites legais (1 a 5 épocas; até 3 se menor — art. 9.º LCTD)
 - [ ] Remuneração acima do mínimo da categoria [■ VERIFICAR: CCT]
-- [ ] Seguro desportivo obrigatório previsto
+- [ ] Seguro de acidentes de trabalho previsto (art. 7.º, n.º 4, LCTD)
 - [ ] Cláusula de rescisão com indemnização proporcional
 - [ ] Direitos de imagem claramente delimitados
 - [ ] Cláusula de resolução de litígios no TAD
@@ -159,19 +162,29 @@ Em <checklist_validacao>:
 
 | Citação | Estado | Nota |
 |---|---|---|
-| art. 8.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| art. 8.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| art. 10.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 9.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 9.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 9.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 5.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | Art. 2.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| Art. 8.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| Art. 12.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| Art. 17.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| Art. 18.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| Art. 26.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| Art. 34.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| art. 17.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| art. 18.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| art. 18.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| Art. 9.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| Arts. 6.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| Art. 13.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| Art. 11.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| Arts. 23.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| Art. 19.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 6.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 13.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 11.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 15.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 7.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 7.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 7.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 23.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 24.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 24.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 25.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 26.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| art. 28.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| art. 12.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| arts. 6.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| arts. 6.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 4.º | por conferir [■ VERIFICAR] | diploma não identificado |

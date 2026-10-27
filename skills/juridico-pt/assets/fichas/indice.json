@@ -189,6 +189,10 @@
     "conferidas": 2,
     "corrigidas": 1,
     "por_conferir": 1
+   },
+   "revisao_tecnica": {
+    "data": "2026-10-27",
+    "veredicto": "corrigida"
    }
   },
   {
@@ -942,15 +946,19 @@
    "codigo": "ADM-052",
    "area": "Direito Administrativo",
    "pasta": "01-direito-administrativo",
-   "titulo": "Impugnação de Ato Tácito de Indeferimento — Formação do Silêncio Administrativo (art. 130.º CPA)",
-   "titulo_en": "Challenge to a Tacit Refusal — Formation of Administrative Silence (Article 130 CPA)",
-   "descricao": "Redige petição de ação administrativa para impugnar o indeferimento tácito formado pelo silêncio da Administração, ao abrigo do artigo 130.º do CPA (DL n.º 4/2015) e dos artigos 58.º e 66.º do CPTA (DL n.º 214-G/2015), após esgotamento dos prazos de decisão sem resposta da entidade.",
-   "descricao_en": "Drafts the statement of claim in an administrative action challenging the tacit refusal (indeferimento tácito) arising from the Administration's silence, under Article 130 of the CPA (Decree-Law No. 4/2015) and Articles 58 and 66 of the CPTA (Decree-Law No. 214-G/2015), once the time limits for a decision have expired without a response from the body.",
-   "ficheiro": "01-direito-administrativo/ADM-052-impugnacao-de-ato-tacito-de-indeferimento-formacao-do-silencio.md",
+   "titulo": "Ação de Condenação à Prática de Ato Devido por Falta de Decisão (art. 129.º CPA)",
+   "titulo_en": "Action for an Order to Perform a Due Act for Failure to Decide (Article 129 CPA)",
+   "descricao": "Redige a petição de ação administrativa de condenação à prática do ato devido quando a Administração não decide no prazo legal, ao abrigo do art. 129.º do CPA (DL n.º 4/2015) e dos arts. 66.º, 67.º, n.º 1, al. a), e 69.º, n.º 1, do CPTA, depois de esgotado o prazo de decisão sem resposta da entidade.",
+   "descricao_en": "Drafts the statement of claim in an administrative action for an order to perform the due act (condenação à prática de ato devido) when the Administration fails to decide within the legal time limit, under Article 129 of the CPA (Decree-Law No. 4/2015) and Articles 66, 67(1)(a) and 69(1) of the CPTA, once the decision period has expired without a response from the body.",
+   "ficheiro": "01-direito-administrativo/ADM-052-acao-de-condenacao-a-pratica-de-ato-devido-por-falta-de-decisao-art.md",
    "estado": {
-    "conferidas": 6,
+    "conferidas": 21,
     "corrigidas": 0,
-    "por_conferir": 6
+    "por_conferir": 0
+   },
+   "revisao_tecnica": {
+    "data": "2026-10-27",
+    "veredicto": "corrigida"
    }
   },
   {
@@ -2974,9 +2982,13 @@
    "descricao_en": "Generates a gratuitous loan for use agreement (comodato) for movable or immovable property, with identification of the item lent, permitted purposes of use, return date, the borrower's obligations, liability for deterioration and conditions for early return — under Articles 1129 et seq. of the Portuguese Civil Code.",
    "ficheiro": "03-direito-civil-e-dos-contratos/CIV-006-contrato-de-comodato.md",
    "estado": {
-    "conferidas": 3,
-    "corrigidas": 12,
+    "conferidas": 9,
+    "corrigidas": 9,
     "por_conferir": 4
+   },
+   "revisao_tecnica": {
+    "data": "2026-10-27",
+    "veredicto": "corrigida"
    }
   },
   {
@@ -5458,15 +5470,19 @@
    "codigo": "COM-048",
    "area": "Direito Comercial e das Sociedades",
    "pasta": "04-direito-comercial-e-das-sociedades",
-   "titulo": "Notificação para Exercício do Direito de Preferência na Cessão de Quotas",
-   "titulo_en": "Notice to Exercise the Right of Pre-emption on a Quota Transfer",
-   "descricao": "Prepara a notificação obrigatória para exercício do direito de preferência na cessão de quotas (art. 228.º CSC) e a resposta (exercício ou renúncia), bem como a consequente escritura de cessão ou ação judicial de preferência (art. 1410.º CC aplicado por analogia), garantindo o cumprimento das formalidades exigidas para validade da transmissão e o registo na Conservatória do Registo Comercial.",
-   "descricao_en": "Prepares the mandatory notice for the exercise of the right of pre-emption on a quota transfer (Article 228 CSC) and the reply (exercise or waiver), together with the resulting deed of transfer or judicial pre-emption action (Article 1410 CC applied by analogy), ensuring compliance with the formalities required for the transfer to be valid and its registration at the Commercial Registry Office.",
-   "ficheiro": "04-direito-comercial-e-das-sociedades/COM-048-notificacao-para-exercicio-do-direito-de-preferencia-na-cessao-de.md",
+   "titulo": "Cessão de Quotas: Consentimento da Sociedade e Preferência Convencional",
+   "titulo_en": "Transfer of Quotas: Company Consent and Contractual Pre-emption",
+   "descricao": "Prepara o pedido de consentimento da sociedade para a cessão de quotas (artigos 228.º a 231.º do CSC) e, quando o contrato de sociedade ou um acordo parassocial preveja um direito de preferência, a notificação para o seu exercício e a resposta, com a forma escrita do contrato de cessão e o registo promovido pela sociedade (artigo 242.º-B do CSC).",
+   "descricao_en": "Prepares the request for the company's consent to a transfer of quotas (Articles 228 to 231 of the CSC) and, where the articles of association or a shareholders' agreement provide for a right of pre-emption, the notice to exercise it and the reply, with the written form of the transfer agreement and the registration filed by the company (Article 242-B of the CSC).",
+   "ficheiro": "04-direito-comercial-e-das-sociedades/COM-048-cessao-de-quotas-consentimento-da-sociedade-e-preferencia-convencional.md",
    "estado": {
-    "conferidas": 5,
+    "conferidas": 30,
     "corrigidas": 0,
-    "por_conferir": 12
+    "por_conferir": 4
+   },
+   "revisao_tecnica": {
+    "data": "2026-10-27",
+    "veredicto": "rever de raiz"
    }
   },
   {
@@ -6569,7 +6585,11 @@
    "estado": {
     "conferidas": 0,
     "corrigidas": 0,
-    "por_conferir": 16
+    "por_conferir": 26
+   },
+   "revisao_tecnica": {
+    "data": "2026-10-27",
+    "veredicto": "corrigida"
    }
   },
   {
@@ -7736,9 +7756,13 @@
    "descricao_en": "Generates a complete privacy notice for employees and job applicants, compliant with Arts. 13 and 14 of the GDPR and the specific features of data processing in the employment context, covering all typical HR processing: recruitment, contract, payroll, occupational health, monitoring and termination.",
    "ficheiro": "22-protecao-de-dados-e-direito-digital/DIG-015-aviso-de-privacidade-para-trabalhadores-e-candidatos.md",
    "estado": {
-    "conferidas": 21,
+    "conferidas": 24,
     "corrigidas": 3,
-    "por_conferir": 10
+    "por_conferir": 14
+   },
+   "revisao_tecnica": {
+    "data": "2026-10-27",
+    "veredicto": "corrigida"
    }
   },
   {
@@ -8462,9 +8486,13 @@
    "descricao_en": "Generates a specialised application for a residence permit for employed work (employment contract) or self-employment (recibos verdes / registration of activity), grounded in Articles 88 and 89 of Law No. 23/2007, identifying the specific requirements and the documentation required by AIMA.",
    "ficheiro": "16-direito-dos-estrangeiros-e-nacionalidade/EST-003-requerimento-de-autorizacao-de-residencia-para-exercicio-de-atividade.md",
    "estado": {
-    "conferidas": 0,
+    "conferidas": 1,
     "corrigidas": 0,
-    "por_conferir": 10
+    "por_conferir": 21
+   },
+   "revisao_tecnica": {
+    "data": "2026-10-27",
+    "veredicto": "corrigida"
    }
   },
   {
@@ -9409,7 +9437,11 @@
    "estado": {
     "conferidas": 0,
     "corrigidas": 0,
-    "por_conferir": 7
+    "por_conferir": 10
+   },
+   "revisao_tecnica": {
+    "data": "2026-10-27",
+    "veredicto": "corrigida"
    }
   },
   {
@@ -10718,13 +10750,17 @@
    "pasta": "17-direito-fiscal-e-tributario",
    "titulo": "Pedido de Regime Fiscal para Residente Não Habitual / Incentivo Fiscal",
    "titulo_en": "Application for the Non-Habitual Resident Regime / Tax Incentive",
-   "descricao": "Gera um pedido de inscrição no regime do Incentivo Fiscal à Investigação Científica e Inovação (IFICI+, ex-RNH) ou, nos casos transitórios, no regime anterior de Residente Não Habitual (RNH), com análise dos requisitos de elegibilidade, dos rendimentos abrangidos e das obrigações declarativas associadas, ao abrigo do artigo 16.º, n.º 11 e seguintes do CIRS e do artigo 58.º-A do EBF.",
-   "descricao_en": "Generates an application for registration under the Tax Incentive for Scientific Research and Innovation (IFICI+, formerly RNH) or, in transitional cases, under the former Non-Habitual Resident (RNH) regime, analysing the eligibility requirements, the income covered and the associated reporting obligations, under Article 16(11) et seq. of the CIRS and Article 58-A of the EBF.",
+   "descricao": "Gera um pedido de inscrição no Incentivo Fiscal à Investigação Científica e Inovação (IFICI — art. 58.º-A do EBF e Portaria n.º 352/2024/1) ou, nos casos abrangidos pelo regime transitório do art. 236.º da Lei n.º 82/2023, no regime do Residente Não Habitual (RNH — art. 16.º, n.ºs 8 a 12, do CIRS, na redação anterior a essa lei), com análise dos requisitos de elegibilidade, dos rendimentos abrangidos e das obrigações declarativas associadas.",
+   "descricao_en": "Generates an application for registration under the Tax Incentive for Scientific Research and Innovation (IFICI — Art. 58-A of the EBF and Ordinance No. 352/2024/1) or, where the transitional regime of Art. 236 of Law No. 82/2023 applies, under the Non-Habitual Resident regime (RNH — Art. 16(8) to (12) of the CIRS, as worded before that law), analysing the eligibility requirements, the income covered and the associated reporting obligations.",
    "ficheiro": "17-direito-fiscal-e-tributario/FIS-033-pedido-de-regime-fiscal-para-residente-nao-habitual-incentivo-fiscal.md",
    "estado": {
-    "conferidas": 1,
+    "conferidas": 11,
     "corrigidas": 0,
-    "por_conferir": 8
+    "por_conferir": 23
+   },
+   "revisao_tecnica": {
+    "data": "2026-10-27",
+    "veredicto": "corrigida"
    }
   },
   {
@@ -10778,13 +10814,17 @@
    "pasta": "17-direito-fiscal-e-tributario",
    "titulo": "Regime Fiscal dos Residentes Não Habituais (RNH) / IFICI — Requerimento de Inscrição e Defesa em Caso de Recusa",
    "titulo_en": "Non-Habitual Resident (RNH) / IFICI Tax Regime — Application for Registration and Defence in the Event of Refusal",
-   "descricao": "Elabora o requerimento de inscrição no regime fiscal dos residentes não habituais (RNH histórico — art. 16.º CIRS) ou no novo Incentivo Fiscal à Investigação Científica e Inovação (IFICI — art. 58.º-A EBF, Lei n.º 82-A/2014 e Lei n.º 24/2024), e a resposta a projeto de indeferimento pela AT.",
-   "descricao_en": "Prepares the application for registration under the non-habitual resident tax regime (historical RNH — Article 16 CIRS) or under the new Tax Incentive for Scientific Research and Innovation (IFICI — Article 58-A EBF, Law No. 82-A/2014 and Law No. 24/2024), and the response to a draft refusal by the AT.",
+   "descricao": "Elabora o requerimento de inscrição no regime dos residentes não habituais (RNH — art. 16.º CIRS, só no regime transitório do art. 236.º da Lei n.º 82/2023) ou no Incentivo Fiscal à Investigação Científica e Inovação (IFICI — art. 58.º-A EBF, aditado pela Lei n.º 82/2023, e Portaria n.º 352/2024/1), e a resposta a projeto de indeferimento pela AT.",
+   "descricao_en": "Prepares the application for registration under the non-habitual resident regime (RNH — Article 16 CIRS, only under the transitional regime of Article 236 of Law No. 82/2023) or under the Tax Incentive for Scientific Research and Innovation (IFICI — Article 58-A EBF, added by Law No. 82/2023, and Ordinance No. 352/2024/1), and the response to a draft refusal by the AT.",
    "ficheiro": "17-direito-fiscal-e-tributario/FIS-037-regime-fiscal-dos-residentes-nao-habituais-rnh-ifici-requerimento-de.md",
    "estado": {
-    "conferidas": 0,
+    "conferidas": 3,
     "corrigidas": 0,
-    "por_conferir": 4
+    "por_conferir": 16
+   },
+   "revisao_tecnica": {
+    "data": "2026-10-27",
+    "veredicto": "corrigida"
    }
   },
   {
@@ -12092,13 +12132,17 @@
    "pasta": "07-direito-da-insolvencia-e-recuperacao",
    "titulo": "Requerimento de Início de Processo Especial de Revitalização (PER)",
    "titulo_en": "Application to Open a Special Revitalisation Procedure (PER)",
-   "descricao": "Gera o requerimento de início do Processo Especial de Revitalização (PER), com declaração conjunta do devedor e de pelo menos um credor, fundamentação da viabilidade económica e requerimentos processuais, nos termos dos artigos 17.º-A a 17.º-J do CIRE.",
-   "descricao_en": "Generates the application to open a Special Revitalisation Procedure (Processo Especial de Revitalização — PER), with a joint declaration by the debtor and at least one creditor, grounds for economic viability and procedural applications, under Articles 17-A to 17-J of the CIRE.",
+   "descricao": "Gera o requerimento de início do Processo Especial de Revitalização (PER), com a declaração da empresa e de credores que representem, pelo menos, 10 % dos créditos não subordinados, a declaração de contabilista certificado ou de revisor oficial de contas, a proposta de plano e os requerimentos processuais, nos termos dos artigos 17.º-A a 17.º-J do CIRE.",
+   "descricao_en": "Generates the application to open a Special Revitalisation Procedure (Processo Especial de Revitalização — PER), with the declaration of the company and of creditors holding at least 10% of the non-subordinated claims, the statement of a certified accountant or statutory auditor, the proposed plan and the procedural applications, under Articles 17-A to 17-J of the CIRE.",
    "ficheiro": "07-direito-da-insolvencia-e-recuperacao/INS-004-requerimento-de-inicio-de-processo-especial-de-revitalizacao-per.md",
    "estado": {
-    "conferidas": 8,
+    "conferidas": 23,
     "corrigidas": 7,
     "por_conferir": 3
+   },
+   "revisao_tecnica": {
+    "data": "2026-10-27",
+    "veredicto": "corrigida"
    }
   },
   {
@@ -12111,9 +12155,13 @@
    "descricao_en": "Generates the application to open a Special Procedure for a Payment Agreement (Processo Especial para Acordo de Pagamento — PEAP), a mechanism for individuals who do not own a business and are in imminent insolvency or economic difficulty, under Articles 222-A to 222-J of the CIRE.",
    "ficheiro": "07-direito-da-insolvencia-e-recuperacao/INS-005-requerimento-de-inicio-de-processo-especial-para-acordo-de-pagamento.md",
    "estado": {
-    "conferidas": 7,
+    "conferidas": 19,
     "corrigidas": 4,
-    "por_conferir": 1
+    "por_conferir": 3
+   },
+   "revisao_tecnica": {
+    "data": "2026-10-27",
+    "veredicto": "corrigida"
    }
   },
   {
@@ -12122,13 +12170,17 @@
    "pasta": "07-direito-da-insolvencia-e-recuperacao",
    "titulo": "Plano de Revitalização / Plano de Recuperação",
    "titulo_en": "Revitalisation Plan / Recovery Plan",
-   "descricao": "Gera o plano de revitalização a apresentar aos credores no âmbito do PER, incluindo diagnóstico da situação económico-financeira, medidas de recuperação, proposta de reestruturação de dívida por classe de credores e análise de viabilidade, nos termos dos artigos 195.º a 228.º do CIRE aplicáveis por remissão.",
-   "descricao_en": "Generates the revitalisation plan to be submitted to creditors in a PER, including a diagnosis of the economic and financial situation, recovery measures, a debt restructuring proposal by class of creditors and a viability analysis, under Articles 195 to 228 of the CIRE as applicable by cross-reference.",
+   "descricao": "Gera o plano de revitalização a apresentar aos credores no âmbito do PER, com o diagnóstico da situação económico-financeira, as medidas de recuperação, a proposta de reestruturação da dívida por classes de credores e a análise de viabilidade, nos termos do artigo 17.º-F do CIRE e das normas do plano de insolvência para que este remete.",
+   "descricao_en": "Generates the revitalisation plan to be submitted to creditors in a PER, with a diagnosis of the economic and financial situation, the recovery measures, a debt restructuring proposal by class of creditors and a viability analysis, under Article 17-F of the CIRE and the insolvency plan rules to which it refers.",
    "ficheiro": "07-direito-da-insolvencia-e-recuperacao/INS-006-plano-de-revitalizacao-plano-de-recuperacao.md",
    "estado": {
-    "conferidas": 5,
+    "conferidas": 11,
     "corrigidas": 4,
     "por_conferir": 1
+   },
+   "revisao_tecnica": {
+    "data": "2026-10-27",
+    "veredicto": "corrigida"
    }
   },
   {
@@ -12214,13 +12266,17 @@
    "pasta": "07-direito-da-insolvencia-e-recuperacao",
    "titulo": "Requerimento de Exoneração do Passivo Restante",
    "titulo_en": "Application for Discharge of Remaining Liabilities",
-   "descricao": "Gera o requerimento de exoneração do passivo restante (EPR), mecanismo que permite ao devedor singular libertar-se das dívidas não pagas na insolvência após um período de cessão de rendimentos de cinco anos, nos termos dos artigos 235.º a 248.º do CIRE.",
-   "descricao_en": "Generates the application for discharge of remaining liabilities (exoneração do passivo restante — EPR), a mechanism allowing an individual debtor to be released from the debts left unpaid in the insolvency after a five-year income assignment period, under Articles 235 to 248 of the CIRE.",
+   "descricao": "Gera o requerimento de exoneração do passivo restante, mecanismo que permite ao devedor pessoa singular libertar-se das dívidas não pagas na insolvência depois de um período de cessão do rendimento disponível de três anos, nos termos dos artigos 235.º a 248.º do CIRE, na redação da Lei n.º 9/2022.",
+   "descricao_en": "Generates the application for discharge of remaining liabilities (exoneração do passivo restante), a mechanism allowing an individual debtor to be released from the debts left unpaid in the insolvency after a three-year assignment period of disposable income, under Articles 235 to 248 of the CIRE, as amended by Law No. 9/2022.",
    "ficheiro": "07-direito-da-insolvencia-e-recuperacao/INS-012-requerimento-de-exoneracao-do-passivo-restante.md",
    "estado": {
-    "conferidas": 17,
+    "conferidas": 28,
     "corrigidas": 5,
-    "por_conferir": 3
+    "por_conferir": 1
+   },
+   "revisao_tecnica": {
+    "data": "2026-10-27",
+    "veredicto": "corrigida"
    }
   },
   {
@@ -12229,13 +12285,17 @@
    "pasta": "07-direito-da-insolvencia-e-recuperacao",
    "titulo": "Oposição ao Pedido de Exoneração do Passivo Restante",
    "titulo_en": "Opposition to an Application for Discharge of Remaining Liabilities",
-   "descricao": "Gera o requerimento de oposição ao pedido de exoneração do passivo restante, deduzido por credor ou administrador da insolvência que identifica impedimento legal ao benefício, incumprimento dos deveres durante o período de cessão ou comportamento doloso do devedor, nos termos dos artigos 238.º e 241.º do CIRE.",
-   "descricao_en": "Generates the opposition to an application for discharge of remaining liabilities, lodged by a creditor or the insolvency administrator who identifies a legal impediment to the benefit, a breach of duties during the assignment period or wilful misconduct by the debtor, under Articles 238 and 241 of the CIRE.",
+   "descricao": "Gera a oposição ao pedido de exoneração do passivo restante, deduzida por credor ou pelo administrador da insolvência com base num fundamento de indeferimento liminar do artigo 238.º, n.º 1, do CIRE, ou o pedido de cessação antecipada do procedimento de exoneração (artigo 243.º do CIRE) por violação dos deveres do devedor durante o período de cessão.",
+   "descricao_en": "Generates the opposition to an application for discharge of remaining liabilities, lodged by a creditor or the insolvency administrator on a ground for preliminary refusal under Article 238(1) of the CIRE, or the application for early termination of the discharge procedure (Article 243 of the CIRE) for breach of the debtor's duties during the assignment period.",
    "ficheiro": "07-direito-da-insolvencia-e-recuperacao/INS-013-oposicao-ao-pedido-de-exoneracao-do-passivo-restante.md",
    "estado": {
-    "conferidas": 5,
-    "corrigidas": 8,
-    "por_conferir": 9
+    "conferidas": 21,
+    "corrigidas": 7,
+    "por_conferir": 5
+   },
+   "revisao_tecnica": {
+    "data": "2026-10-27",
+    "veredicto": "corrigida"
    }
   },
   {
@@ -12368,9 +12428,13 @@
    "descricao_en": "Generates a formal letter to a creditor proposing a standstill period (voluntary suspension of collection actions) while the parties negotiate a restructuring agreement, setting out the financial situation, the intention to pay and the basis of the proposed agreement.",
    "ficheiro": "07-direito-da-insolvencia-e-recuperacao/INS-022-carta-de-negociacao-com-credores-standstill.md",
    "estado": {
-    "conferidas": 0,
+    "conferidas": 2,
     "corrigidas": 1,
-    "por_conferir": 1
+    "por_conferir": 0
+   },
+   "revisao_tecnica": {
+    "data": "2026-10-27",
+    "veredicto": "corrigida"
    }
   },
   {
@@ -12398,9 +12462,13 @@
    "descricao_en": "Generates the application for court approval (homologação) of the revitalisation agreement approved by the creditors in a Special Revitalisation Procedure (PER), demonstrating compliance with the statutory approval requirements and seeking binding effect on all creditors, under Article 17-F of the CIRE.",
    "ficheiro": "07-direito-da-insolvencia-e-recuperacao/INS-024-requerimento-de-homologacao-de-acordo-obtido-em-per.md",
    "estado": {
-    "conferidas": 5,
+    "conferidas": 10,
     "corrigidas": 6,
     "por_conferir": 0
+   },
+   "revisao_tecnica": {
+    "data": "2026-10-27",
+    "veredicto": "corrigida"
    }
   },
   {
@@ -12490,9 +12558,13 @@
    "descricao_en": "Prepares the initial application for discharge of remaining liabilities (EPR) made by an individual debtor in insolvency proceedings, under Articles 235 to 248 of the CIRE, including the statement of economic circumstances, the request to fix the available income and the response to creditors' opposition during the assignment period.",
    "ficheiro": "07-direito-da-insolvencia-e-recuperacao/INS-030-requerimento-de-exoneracao-do-passivo-restante-pedido-inicial-e.md",
    "estado": {
-    "conferidas": 18,
-    "corrigidas": 1,
-    "por_conferir": 1
+    "conferidas": 22,
+    "corrigidas": 0,
+    "por_conferir": 0
+   },
+   "revisao_tecnica": {
+    "data": "2026-10-27",
+    "veredicto": "corrigida"
    }
   },
   {
@@ -13336,9 +13408,13 @@
    "descricao_en": "Generates the defence strategy and filings for accused persons in proceedings for economic and financial offences — fraudulent insolvency (Article 228 CP), negligent insolvency (Article 229 CP), forgery of documents (Article 256 CP) and corporate offences — analysing the elements of the offence and building the technical defence.",
    "ficheiro": "19-direito-penal-e-contraordenacional/PEN-029-defesa-em-processo-por-crimes-economicos-insolvencia-dolosa.md",
    "estado": {
-    "conferidas": 5,
+    "conferidas": 9,
     "corrigidas": 7,
     "por_conferir": 2
+   },
+   "revisao_tecnica": {
+    "data": "2026-10-27",
+    "veredicto": "corrigida"
    }
   },
   {
@@ -14017,9 +14093,13 @@
    "descricao_en": "Drafts the agreement under which an entity commissions the creation of a copyright-protected work (software, design, texts, images, video) from an independent creator (freelancer or company), with a clause automatically assigning the economic rights to the commissioning party and defining the deliverables, time limit and price.",
    "ficheiro": "21-propriedade-intelectual-e-industrial/PI-014-contrato-de-encomenda-de-obra-software-design-conteudo.md",
    "estado": {
-    "conferidas": 4,
+    "conferidas": 15,
     "corrigidas": 0,
-    "por_conferir": 8
+    "por_conferir": 13
+   },
+   "revisao_tecnica": {
+    "data": "2026-10-27",
+    "veredicto": "corrigida"
    }
   },
   {
@@ -14032,9 +14112,13 @@
    "descricao_en": "Drafts the software licence agreement (End User Licence Agreement — EULA), defining the scope of the authorisation to use, the restrictions on use, licence management per user/device, the support and maintenance conditions and the limits on the licensor's liability.",
    "ficheiro": "21-propriedade-intelectual-e-industrial/PI-015-contrato-de-licenca-de-software.md",
    "estado": {
-    "conferidas": 0,
+    "conferidas": 1,
     "corrigidas": 0,
-    "por_conferir": 10
+    "por_conferir": 15
+   },
+   "revisao_tecnica": {
+    "data": "2026-10-27",
+    "veredicto": "corrigida"
    }
   },
   {
@@ -14079,9 +14163,13 @@
    "descricao_en": "Prepares the statement of claim in an action for infringement of industrial property rights (trade mark, patent, design), seeking cessation, damages, destruction of products and publication of the decision, under the Portuguese Industrial Property Code.",
    "ficheiro": "21-propriedade-intelectual-e-industrial/PI-018-peticao-de-acao-de-violacao-de-direitos-de-propriedade-industrial.md",
    "estado": {
-    "conferidas": 1,
-    "corrigidas": 8,
-    "por_conferir": 16
+    "conferidas": 22,
+    "corrigidas": 6,
+    "por_conferir": 5
+   },
+   "revisao_tecnica": {
+    "data": "2026-10-27",
+    "veredicto": "corrigida"
    }
   },
   {
@@ -14124,9 +14212,13 @@
    "descricao_en": "Prepares the application for an interim measure for the urgent cessation of an infringement of intellectual property rights (trade mark, patent, copyright), seeking seizure of products, an injunction against use and content removal orders, demonstrating the fumus boni iuris and periculum in mora required by the CPC and the CPI.",
    "ficheiro": "21-propriedade-intelectual-e-industrial/PI-021-requerimento-de-providencia-cautelar-em-materia-de-pi.md",
    "estado": {
-    "conferidas": 7,
+    "conferidas": 22,
     "corrigidas": 2,
-    "por_conferir": 4
+    "por_conferir": 1
+   },
+   "revisao_tecnica": {
+    "data": "2026-10-27",
+    "veredicto": "corrigida"
    }
   },
   {
@@ -14229,9 +14321,13 @@
    "descricao_en": "Prepares an internal intellectual property policy for a company, setting the rules on ownership of staff creations, protection of IP assets, registration procedures, use of third-party software and content, and management of intellectual property conflicts.",
    "ficheiro": "21-propriedade-intelectual-e-industrial/PI-028-politica-de-propriedade-intelectual-de-uma-empresa.md",
    "estado": {
-    "conferidas": 9,
+    "conferidas": 16,
     "corrigidas": 2,
-    "por_conferir": 4
+    "por_conferir": 6
+   },
+   "revisao_tecnica": {
+    "data": "2026-10-27",
+    "veredicto": "corrigida"
    }
   },
   {
@@ -14240,13 +14336,17 @@
    "pasta": "21-propriedade-intelectual-e-industrial",
    "titulo": "Parecer sobre Titularidade de Software Desenvolvido por Trabalhador",
    "titulo_en": "Legal Opinion on Ownership of Software Developed by an Employee",
-   "descricao": "Elabora um parecer jurídico sobre a titularidade de software (ou outra obra) desenvolvido por um trabalhador, analisando se os direitos pertencem ao empregador ou ao trabalhador, à luz do art. 14.º do Código do Direito de Autor e dos Direitos Conexos (CDADC) e do contrato de trabalho, e recomendando as medidas a adotar.",
-   "descricao_en": "Prepares a legal opinion on the ownership of software (or another work) developed by an employee, analysing whether the rights belong to the employer or to the employee in light of Article 14 of the Code of Copyright and Related Rights (CDADC) and the employment contract, and recommending the measures to be taken.",
+   "descricao": "Elabora um parecer jurídico sobre a titularidade de software (ou outra obra) desenvolvido por um trabalhador, analisando se os direitos pertencem ao empregador ou ao trabalhador, à luz do art. 3.º, n.º 3, do Decreto-Lei n.º 252/94 (programas de computador), do art. 14.º do Código do Direito de Autor e dos Direitos Conexos (CDADC), para as obras que não sejam o programa, e do contrato de trabalho, e recomendando as medidas a adotar.",
+   "descricao_en": "Prepares a legal opinion on the ownership of software (or another work) developed by an employee, analysing whether the rights belong to the employer or to the employee in light of Article 3(3) of Decree-Law No. 252/94 (computer programs), Article 14 of the Code of Copyright and Related Rights (CDADC) for works other than the program, and the employment contract, and recommending the measures to be taken.",
    "ficheiro": "21-propriedade-intelectual-e-industrial/PI-029-parecer-sobre-titularidade-de-software-desenvolvido-por-trabalhador.md",
    "estado": {
-    "conferidas": 2,
-    "corrigidas": 2,
-    "por_conferir": 13
+    "conferidas": 10,
+    "corrigidas": 0,
+    "por_conferir": 22
+   },
+   "revisao_tecnica": {
+    "data": "2026-10-27",
+    "veredicto": "corrigida"
    }
   },
   {
@@ -14345,13 +14445,17 @@
    "pasta": "21-propriedade-intelectual-e-industrial",
    "titulo": "Ação de Contrafação de Marca — Petição Inicial",
    "titulo_en": "Trade Mark Infringement (Contrafação) Action — Statement of Claim",
-   "descricao": "Elabora a petição inicial de ação de violação de direitos de marca (contrafação), a intentar no Tribunal da Propriedade Intelectual (TPI), ao abrigo dos artigos 258.º a 265.º do CPI (DL n.º 110/2018), com pedidos de cessação, indemnização, apreensão de produtos e publicação da sentença.",
-   "descricao_en": "Prepares the statement of claim in an action for infringement of trade mark rights (contrafação), to be brought before the Intellectual Property Court (TPI), under Articles 258 to 265 of the CPI (Decree-Law No. 110/2018), seeking cessation, damages, seizure of products and publication of the judgment.",
+   "descricao": "Elabora a petição inicial de ação de violação de direitos de marca (contrafação), a intentar no Tribunal da Propriedade Intelectual (TPI), ao abrigo do art. 249.º (direitos conferidos pelo registo) e dos arts. 337.º a 350.º (tutela civil) do CPI (DL n.º 110/2018), com pedidos de cessação, indemnização, apreensão de produtos e publicação da sentença.",
+   "descricao_en": "Prepares the statement of claim in an action for infringement of trade mark rights (contrafação), to be brought before the Intellectual Property Court (TPI), under Article 249 (rights conferred by registration) and Articles 337 to 350 (civil enforcement) of the CPI (Decree-Law No. 110/2018), seeking cessation, damages, seizure of products and publication of the judgment.",
    "ficheiro": "21-propriedade-intelectual-e-industrial/PI-036-acao-de-contrafacao-de-marca-peticao-inicial.md",
    "estado": {
-    "conferidas": 4,
-    "corrigidas": 4,
-    "por_conferir": 2
+    "conferidas": 10,
+    "corrigidas": 3,
+    "por_conferir": 0
+   },
+   "revisao_tecnica": {
+    "data": "2026-10-27",
+    "veredicto": "corrigida"
    }
   },
   {
@@ -14360,13 +14464,17 @@
    "pasta": "21-propriedade-intelectual-e-industrial",
    "titulo": "Requerimento de Providência Cautelar em Matéria de Contrafação",
    "titulo_en": "Application for an Interim Measure in Infringement (Contrafação) Matters",
-   "descricao": "Elabora o requerimento de providência cautelar de inibição e apreensão em processo de violação de direitos de propriedade industrial, ao abrigo dos artigos 338.º-I a 338.º-M do CPI (DL n.º 110/2018) e dos artigos 362.º e ss. do CPC, visando a cessação urgente de atos de contrafação antes da decisão de mérito.",
-   "descricao_en": "Prepares the application for an interim injunction and seizure in proceedings for infringement of industrial property rights, under Articles 338-I to 338-M of the CPI (Decree-Law No. 110/2018) and Articles 362 et seq. of the CPC, seeking the urgent cessation of infringing acts before the decision on the merits.",
+   "descricao": "Elabora o requerimento de providência cautelar de inibição e apreensão em processo de violação de direitos de propriedade industrial, ao abrigo dos artigos 345.º e 346.º do CPI (DL n.º 110/2018) e dos artigos 362.º e ss. do CPC, visando a cessação urgente de atos de contrafação antes da decisão de mérito.",
+   "descricao_en": "Prepares the application for an interim injunction and seizure in proceedings for infringement of industrial property rights, under Articles 345 and 346 of the CPI (Decree-Law No. 110/2018) and Articles 362 et seq. of the CPC, seeking the urgent cessation of infringing acts before the decision on the merits.",
    "ficheiro": "21-propriedade-intelectual-e-industrial/PI-037-requerimento-de-providencia-cautelar-em-materia-de-contrafacao.md",
    "estado": {
-    "conferidas": 1,
+    "conferidas": 8,
     "corrigidas": 2,
-    "por_conferir": 4
+    "por_conferir": 0
+   },
+   "revisao_tecnica": {
+    "data": "2026-10-27",
+    "veredicto": "corrigida"
    }
   },
   {
@@ -14420,13 +14528,17 @@
    "pasta": "21-propriedade-intelectual-e-industrial",
    "titulo": "Direitos de Autor de Software — Parecer e Contrato de Encomenda",
    "titulo_en": "Software Copyright — Legal Opinion and Commissioning Agreement",
-   "descricao": "Elabora parecer sobre a titularidade de direitos de autor de software e redige contrato de encomenda de desenvolvimento de software, ao abrigo dos artigos 1.º, 2.º, n.º 1, al. l), 36.º a 39.º, 102.º e 103.º do CDADC (DL n.º 63/85, com as alterações introduzidas pelo DL n.º 332/97), da Diretiva 2009/24/CE e dos artigos 101.º e 102.º do Código do Trabalho.",
-   "descricao_en": "Prepares a legal opinion on the ownership of copyright in software and drafts a software development commissioning agreement, under Articles 1, 2(1)(l), 36 to 39, 102 and 103 of the CDADC (Decree-Law No. 63/85, as amended by Decree-Law No. 332/97), Directive 2009/24/EC and Articles 101 and 102 of the Labour Code.",
+   "descricao": "Elabora parecer sobre a titularidade de direitos de autor de software e redige contrato de encomenda de desenvolvimento de software, ao abrigo do Decreto-Lei n.º 252/94, de 20 de outubro (proteção dos programas de computador, titularidade do programa criado por trabalhador ou por encomenda e negócios sobre programas), do CDADC (DL n.º 63/85), para as obras que não sejam o programa, e da Diretiva 2009/24/CE.",
+   "descricao_en": "Prepares a legal opinion on the ownership of copyright in software and drafts a software development commissioning agreement, under Decree-Law No. 252/94 of 20 October (protection of computer programs, ownership of programs created by employees or on commission, and transactions concerning programs), the CDADC (Decree-Law No. 63/85) for works other than the program, and Directive 2009/24/EC.",
    "ficheiro": "21-propriedade-intelectual-e-industrial/PI-041-direitos-de-autor-de-software-parecer-e-contrato-de-encomenda.md",
    "estado": {
-    "conferidas": 4,
+    "conferidas": 10,
     "corrigidas": 0,
-    "por_conferir": 6
+    "por_conferir": 16
+   },
+   "revisao_tecnica": {
+    "data": "2026-10-27",
+    "veredicto": "corrigida"
    }
   },
   {
@@ -14630,13 +14742,17 @@
    "pasta": "21-propriedade-intelectual-e-industrial",
    "titulo": "Política de Propriedade Intelectual Interna (IP Policy) de uma Empresa",
    "titulo_en": "Internal Intellectual Property Policy (IP Policy) for a Company",
-   "descricao": "Elabora uma política interna de propriedade intelectual abrangente para uma empresa, regulando a titularidade de criações de trabalhadores e prestadores, a proteção de segredos comerciais, o uso de ativos de PI de terceiros e a gestão do portfólio de PI, ao abrigo do CPI (DL n.º 110/2018), do CDADC (DL n.º 63/85), da Lei n.º 93/2021 e do Código do Trabalho.",
-   "descricao_en": "Prepares a comprehensive internal intellectual property policy for a company, regulating ownership of creations by employees and contractors, protection of trade secrets, use of third-party IP assets and management of the IP portfolio, under the CPI (Decree-Law No. 110/2018), the CDADC (Decree-Law No. 63/85), Law No. 93/2021 and the Labour Code.",
+   "descricao": "Elabora uma política interna de propriedade intelectual abrangente para uma empresa, regulando a titularidade de criações de trabalhadores e prestadores, a proteção de segredos comerciais, o uso de ativos de PI de terceiros e a gestão do portfólio de PI, ao abrigo do CPI (DL n.º 110/2018, incluindo o regime dos segredos comerciais), do CDADC (DL n.º 63/85), do Decreto-Lei n.º 252/94 (programas de computador) e do Código do Trabalho.",
+   "descricao_en": "Prepares a comprehensive internal intellectual property policy for a company, regulating ownership of creations by employees and contractors, protection of trade secrets, use of third-party IP assets and management of the IP portfolio, under the CPI (Decree-Law No. 110/2018, including the trade secrets regime), the CDADC (Decree-Law No. 63/85), Decree-Law No. 252/94 (computer programs) and the Labour Code.",
    "ficheiro": "21-propriedade-intelectual-e-industrial/PI-055-politica-de-propriedade-intelectual-interna-ip-policy-de-uma-empresa.md",
    "estado": {
-    "conferidas": 1,
+    "conferidas": 7,
     "corrigidas": 0,
-    "por_conferir": 4
+    "por_conferir": 3
+   },
+   "revisao_tecnica": {
+    "data": "2026-10-27",
+    "veredicto": "corrigida"
    }
   },
   {
@@ -15672,7 +15788,11 @@
    "estado": {
     "conferidas": 0,
     "corrigidas": 0,
-    "por_conferir": 5
+    "por_conferir": 8
+   },
+   "revisao_tecnica": {
+    "data": "2026-10-27",
+    "veredicto": "corrigida"
    }
   },
   {
@@ -16544,9 +16664,13 @@
    "descricao_en": "Generates a detailed draft setting out the instructions and provisions to be given to the notary for drawing up a public will (testamento público), covering legacies, appointment of heirs, conditions, charges and any specific clauses the testator wishes to include.",
    "ficheiro": "10-direito-das-sucessoes/SUC-001-minuta-de-testamento-publico-instrucoes-para-o-notario.md",
    "estado": {
-    "conferidas": 6,
+    "conferidas": 21,
     "corrigidas": 2,
-    "por_conferir": 5
+    "por_conferir": 2
+   },
+   "revisao_tecnica": {
+    "data": "2026-10-27",
+    "veredicto": "corrigida"
    }
   },
   {
@@ -17052,13 +17176,17 @@
    "pasta": "10-direito-das-sucessoes",
    "titulo": "Renúncia Recíproca de Cônjuges — Pacto de Renúncia à Herança (\"Pacto Corvina\")",
    "titulo_en": "Reciprocal Renunciation by Spouses — Agreement to Renounce an Inheritance (\"Pacto Corvina\")",
-   "descricao": "Analisa a licitude e os limites dos pactos sobre sucessão futura, com especial foco na proibição do pacto corvina (art. 2028.º CC), e orienta sobre os mecanismos lícitos que os cônjuges podem usar para produzir efeitos análogos, incluindo o testamento mútuo e as doações por morte, ao abrigo do Código Civil (Livro V) e da Lei n.º 117/2019.",
-   "descricao_en": "Analyses the lawfulness and limits of agreements on future succession, focusing on the prohibition of the pacto corvina (Art. 2028 CC), and advises on the lawful mechanisms spouses can use to achieve similar effects, including the mutual will and gifts mortis causa, under the Civil Code (Book V) and Law No. 117/2019.",
+   "descricao": "Analisa a licitude e os limites dos pactos sobre sucessão futura, nulos fora dos casos previstos na lei (art. 2028.º CC), e orienta sobre os mecanismos lícitos que os cônjuges podem usar — em especial a renúncia recíproca à condição de herdeiro legitimário na convenção antenupcial, com separação de bens (arts. 1700.º, n.º 1, al. c), e 1707.º-A do Código Civil, na redação da Lei n.º 48/2018), a instituição contratual de herdeiro, os testamentos separados e as doações.",
+   "descricao_en": "Analyses the lawfulness and limits of agreements on future succession, which are void outside the cases provided for by law (Art. 2028 CC), and advises on the lawful mechanisms available to spouses — in particular the reciprocal waiver of the status of forced heir in the prenuptial agreement under a separation-of-property regime (Arts. 1700(1)(c) and 1707-A of the Civil Code, as amended by Law No. 48/2018), the contractual appointment of an heir, separate wills and gifts.",
    "ficheiro": "10-direito-das-sucessoes/SUC-035-renuncia-reciproca-de-conjuges-pacto-de-renuncia-a-heranca-pacto.md",
    "estado": {
-    "conferidas": 5,
+    "conferidas": 18,
     "corrigidas": 0,
-    "por_conferir": 3
+    "por_conferir": 4
+   },
+   "revisao_tecnica": {
+    "data": "2026-10-27",
+    "veredicto": "corrigida"
    }
   },
   {
@@ -17080,15 +17208,19 @@
    "codigo": "SUC-037",
    "area": "Direito das Sucessões",
    "pasta": "10-direito-das-sucessoes",
-   "titulo": "Usufruto Vidual e Direito Real de Habitação do Cônjuge Sobrevivo",
-   "titulo_en": "Widow's Usufruct and the Surviving Spouse's Real Right of Residence",
-   "descricao": "Analisa e calculates os direitos específicos do cônjuge sobrevivo concorrendo com descendentes — usufruto vidual legal sobre uma quota da herança e direito real de habitação sobre a casa de morada de família —, ao abrigo dos artigos 2103.º-A e 2103.º-B do Código Civil, introduzidos pela Lei n.º 48/2021, de 6 de julho.",
-   "descricao_en": "Analyses and calculates the specific rights of a surviving spouse concurring with descendants — statutory widow's usufruct (usufruto vidual) over a share of the estate and a real right of residence in the family home —, under Articles 2103-A and 2103-B of the Civil Code, introduced by Law No. 48/2021 of 6 July.",
-   "ficheiro": "10-direito-das-sucessoes/SUC-037-usufruto-vidual-e-direito-real-de-habitacao-do-conjuge-sobrevivo.md",
+   "titulo": "Direito de Habitação da Casa de Morada da Família e de Uso do Recheio do Cônjuge Sobrevivo",
+   "titulo_en": "Surviving Spouse's Right of Residence in the Family Home and Use of Its Contents",
+   "descricao": "Analisa e calcula os direitos do cônjuge sobrevivo em concurso com descendentes — a quota hereditária (art. 2139.º CC) e o direito a ser encabeçado, na partilha, no direito de habitação da casa de morada da família e no direito de uso do recheio, com tornas se exceder a sua parte (arts. 2103.º-A a 2103.º-C do Código Civil, aditados pelo Decreto-Lei n.º 496/77). O direito português não conhece o usufruto vidual.",
+   "descricao_en": "Analyses and calculates the rights of a surviving spouse concurring with descendants — the hereditary share (Art. 2139 CC) and the right to be allotted, in the partition, the right of residence in the family home and the right to use its contents, paying equalisation to the co-heirs if this exceeds the spouse's share (Arts. 2103-A to 2103-C of the Civil Code, added by Decree-Law No. 496/77). Portuguese law has no widow's usufruct.",
+   "ficheiro": "10-direito-das-sucessoes/SUC-037-direito-de-habitacao-da-casa-de-morada-da-familia-e-de-uso-do-recheio.md",
    "estado": {
-    "conferidas": 4,
+    "conferidas": 11,
     "corrigidas": 1,
-    "por_conferir": 4
+    "por_conferir": 1
+   },
+   "revisao_tecnica": {
+    "data": "2026-10-27",
+    "veredicto": "corrigida"
    }
   },
   {
@@ -17508,15 +17640,19 @@
    "pasta": "14-direito-do-trabalho",
    "titulo": "Contrato de Trabalho a Tempo Parcial",
    "titulo_en": "Part-Time Employment Contract",
-   "descricao": "Gera um contrato de trabalho a tempo parcial com indicação expressa da duração do trabalho semanal, cálculo proporcional da retribuição e demais condições, em conformidade com os artigos 150.º a 160.º do Código do Trabalho e com o princípio da proporcionalidade.",
-   "descricao_en": "Generates a part-time employment contract expressly stating the weekly working hours, the pro rata calculation of pay and the other conditions, in accordance with Articles 150 to 160 of the Labour Code and the principle of proportionality.",
+   "descricao": "Gera um contrato de trabalho a tempo parcial com indicação expressa do período normal de trabalho diário e semanal, com referência comparativa ao tempo completo, cálculo proporcional da retribuição e demais condições, em conformidade com os artigos 150.º a 156.º do Código do Trabalho e com o princípio da proporcionalidade.",
+   "descricao_en": "Generates a part-time employment contract expressly stating the normal daily and weekly working hours by comparison with full-time work, the pro rata calculation of pay and the other conditions, in accordance with Articles 150 to 156 of the Labour Code and the principle of proportionality.",
    "ficheiro": "14-direito-do-trabalho/TRA-005-contrato-de-trabalho-a-tempo-parcial.md",
    "relacao": "complementa",
    "remete_para": "assets/templates/contrato-trabalho-sem-termo",
    "estado": {
-    "conferidas": 3,
+    "conferidas": 13,
     "corrigidas": 8,
-    "por_conferir": 1
+    "por_conferir": 0
+   },
+   "revisao_tecnica": {
+    "data": "2026-10-27",
+    "veredicto": "corrigida"
    }
   },
   {
@@ -18066,15 +18202,19 @@
    "codigo": "TRA-041",
    "area": "Direito do Trabalho",
    "pasta": "14-direito-do-trabalho",
-   "titulo": "Acordo de Banco de Horas por Regulamentação Coletiva ou Individual",
-   "titulo_en": "Hours Bank Agreement by Collective or Individual Arrangement",
-   "descricao": "Gera o instrumento de instituição de banco de horas ao nível da empresa ou do trabalhador individual, nos termos dos arts. 208.º e 208.º-A do Código do Trabalho. O documento define o regime de compensação de horas, os limites de acumulação, a forma de gestão e as consequências do não exercício do direito de compensação.",
-   "descricao_en": "Generates the instrument establishing an hours bank (banco de horas) at company level or for an individual employee, under Arts. 208 and 208-A of the Labour Code. The document sets the regime for compensating hours, the accumulation limits, the management method and the consequences of failing to exercise the right to compensation.",
-   "ficheiro": "14-direito-do-trabalho/TRA-041-acordo-de-banco-de-horas-por-regulamentacao-coletiva-ou-individual.md",
+   "titulo": "Banco de Horas por Regulamentação Coletiva ou Grupal",
+   "titulo_en": "Hours Bank by Collective Agreement or Group Scheme",
+   "descricao": "Gera o instrumento de banco de horas por instrumento de regulamentação coletiva de trabalho ou o projeto de banco de horas grupal a submeter a referendo dos trabalhadores, nos termos dos arts. 208.º e 208.º-B do Código do Trabalho — o banco de horas individual (art. 208.º-A) foi revogado pela Lei n.º 93/2019. O documento define os limites do acréscimo, a compensação do trabalho prestado em acréscimo, os trabalhadores excluídos e o período de aplicação.",
+   "descricao_en": "Generates the hours bank (banco de horas) instrument under a collective labour agreement, or the draft group hours bank to be put to a workers' referendum, under Arts. 208 and 208-B of the Labour Code — the individual hours bank (Art. 208-A) was repealed by Law No. 93/2019. The document sets the limits on additional hours, the compensation for the extra work, the excluded workers and the period of application.",
+   "ficheiro": "14-direito-do-trabalho/TRA-041-banco-de-horas-por-regulamentacao-coletiva-ou-grupal.md",
    "estado": {
-    "conferidas": 11,
+    "conferidas": 37,
     "corrigidas": 0,
-    "por_conferir": 2
+    "por_conferir": 1
+   },
+   "revisao_tecnica": {
+    "data": "2026-10-27",
+    "veredicto": "corrigida"
    }
   },
   {
@@ -18087,9 +18227,13 @@
    "descricao_en": "Generates the agreement between employer and employee on exemption from working hours (isenção de horário de trabalho), under Art. 218 of the Labour Code, defining the type of exemption, the additional pay and the termination conditions. The document ensures the formal validity of the agreement and compliance with the legal restrictions on exemption.",
    "ficheiro": "14-direito-do-trabalho/TRA-042-acordo-de-isencao-de-horario-de-trabalho.md",
    "estado": {
-    "conferidas": 9,
-    "corrigidas": 1,
-    "por_conferir": 4
+    "conferidas": 21,
+    "corrigidas": 0,
+    "por_conferir": 3
+   },
+   "revisao_tecnica": {
+    "data": "2026-10-27",
+    "veredicto": "corrigida"
    }
   },
   {
@@ -19291,24 +19435,32 @@
    "descricao_en": "Generates the prior notification (comunicação prévia) for carrying out urbanisation or building works subject to this simplified procedure under the RJUE, with identification of the applicant, a description of the operation, a declaration of legal compliance and the required supporting documents.",
    "ficheiro": "15-direito-do-urbanismo-e-do-territorio/URB-002-requerimento-de-comunicacao-previa-de-obras.md",
    "estado": {
-    "conferidas": 3,
+    "conferidas": 18,
     "corrigidas": 0,
-    "por_conferir": 3
+    "por_conferir": 2
+   },
+   "revisao_tecnica": {
+    "data": "2026-10-27",
+    "veredicto": "corrigida"
    }
   },
   {
    "codigo": "URB-003",
    "area": "Direito do Urbanismo e do Território",
    "pasta": "15-direito-do-urbanismo-e-do-territorio",
-   "titulo": "Requerimento de Autorização de Utilização",
-   "titulo_en": "Application for a Use Authorisation",
-   "descricao": "Gera o requerimento de autorização de utilização (vulgo \"alvará de utilização\") a apresentar à câmara municipal após a conclusão de obras de edificação, ao abrigo dos artigos 62.º a 65.º do RJUE, com indicação do uso pretendido e lista de documentos instrutórios.",
-   "descricao_en": "Generates the application for a use authorisation (autorização de utilização, commonly known as the 'alvará de utilização') to be submitted to the municipal council after completion of building works, under Articles 62 to 65 of the RJUE, stating the intended use and listing the supporting documents.",
-   "ficheiro": "15-direito-do-urbanismo-e-do-territorio/URB-003-requerimento-de-autorizacao-de-utilizacao.md",
+   "titulo": "Comunicação Prévia de Utilização (art. 62.º-A RJUE)",
+   "titulo_en": "Prior Notification of Use (Article 62-A RJUE)",
+   "descricao": "Gera a comunicação prévia de utilização a apresentar à câmara municipal depois da conclusão de obras de edificação, ao abrigo do art. 62.º-A do RJUE (na redação do DL n.º 10/2024 e do DL n.º 108/2026), com a indicação do uso pretendido e a lista de documentos instrutórios. A utilização pode iniciar-se logo após a submissão; o título é o previsto no art. 4.º-A, n.º 4.",
+   "descricao_en": "Generates the prior notification of use (comunicação prévia de utilização) to be submitted to the municipal council after completion of building works, under Article 62-A of the RJUE (as amended by Decree-Law No. 10/2024 and Decree-Law No. 108/2026), stating the intended use and listing the supporting documents. Use may begin as soon as the notification is submitted; the title is the one provided in Article 4-A(4).",
+   "ficheiro": "15-direito-do-urbanismo-e-do-territorio/URB-003-comunicacao-previa-de-utilizacao-art-62-a-rjue.md",
    "estado": {
-    "conferidas": 0,
+    "conferidas": 14,
     "corrigidas": 0,
-    "por_conferir": 6
+    "por_conferir": 2
+   },
+   "revisao_tecnica": {
+    "data": "2026-10-27",
+    "veredicto": "corrigida"
    }
   },
   {
@@ -19428,9 +19580,13 @@
    "relacao": "complementa",
    "remete_para": "assets/templates/defesa-contraordenacao",
    "estado": {
-    "conferidas": 16,
+    "conferidas": 18,
     "corrigidas": 0,
     "por_conferir": 1
+   },
+   "revisao_tecnica": {
+    "data": "2026-10-27",
+    "veredicto": "corrigida"
    }
   },
   {
@@ -19668,9 +19824,13 @@
    "descricao_en": "Generates the application for a municipal inspection (vistoria) of a building or works, under the RJUE, whether to obtain a use authorisation after completion of works, to certify the habitability conditions of an existing building, to ascertain the state of repair of a property in a dispute with the owner or tenant, or to support a request for compulsory maintenance works.",
    "ficheiro": "15-direito-do-urbanismo-e-do-territorio/URB-027-requerimento-de-vistoria-municipal.md",
    "estado": {
-    "conferidas": 3,
+    "conferidas": 16,
     "corrigidas": 0,
-    "por_conferir": 6
+    "por_conferir": 1
+   },
+   "revisao_tecnica": {
+    "data": "2026-10-27",
+    "veredicto": "corrigida"
    }
   },
   {
@@ -19857,15 +20017,19 @@
    "codigo": "URB-040",
    "area": "Direito do Urbanismo e do Território",
    "pasta": "15-direito-do-urbanismo-e-do-territorio",
-   "titulo": "Autorização de Utilização: Pedido, Recusa e Impugnação (arts. 62.º a 67.º RJUE)",
-   "titulo_en": "Use Authorisation: Application, Refusal and Challenge (Arts. 62 to 67 RJUE)",
-   "descricao": "Estrutura o pedido de autorização de utilização para edifícios ou frações concluídos (arts. 62.º a 67.º RJUE — DL 555/99) e analisa os fundamentos de recusa, os meios de impugnação e as consequências da utilização sem autorização (art. 98.º RJUE).",
-   "descricao_en": "Structures the application for a use authorisation for completed buildings or units (Articles 62 to 67 RJUE — Decree-Law 555/99) and analyses the grounds for refusal, the means of challenge and the consequences of use without authorisation (Article 98 RJUE).",
-   "ficheiro": "15-direito-do-urbanismo-e-do-territorio/URB-040-autorizacao-de-utilizacao-pedido-recusa-e-impugnacao-arts-62-a-67-rjue.md",
+   "titulo": "Comunicação Prévia de Utilização: Rejeição e Reação (arts. 62.º-A a 65.º RJUE)",
+   "titulo_en": "Prior Notification of Use: Rejection and Remedies (Arts. 62-A to 65 RJUE)",
+   "descricao": "Estrutura a comunicação prévia de utilização de edifícios ou frações concluídos e a comunicação prévia com prazo (arts. 62.º-A a 65.º RJUE, na redação do DL n.º 10/2024 e do DL n.º 108/2026), e analisa os fundamentos de rejeição, os meios de reação e as consequências da utilização sem título (art. 98.º RJUE).",
+   "descricao_en": "Structures the prior notification of use for completed buildings or units and the prior notification with a time limit (Articles 62-A to 65 RJUE, as amended by Decree-Law No. 10/2024 and Decree-Law No. 108/2026), and analyses the grounds for rejection, the available remedies and the consequences of use without a title (Article 98 RJUE).",
+   "ficheiro": "15-direito-do-urbanismo-e-do-territorio/URB-040-comunicacao-previa-de-utilizacao-rejeicao-e-reacao-arts-62-a-a-65-rjue.md",
    "estado": {
-    "conferidas": 3,
+    "conferidas": 26,
     "corrigidas": 0,
     "por_conferir": 2
+   },
+   "revisao_tecnica": {
+    "data": "2026-10-27",
+    "veredicto": "corrigida"
    }
   },
   {
@@ -20131,15 +20295,19 @@
    "pasta": "15-direito-do-urbanismo-e-do-territorio",
    "titulo": "Defesa em Processo de Contraordenação Urbanística (art. 98.º RJUE)",
    "titulo_en": "Defence in Planning Administrative Offence Proceedings (Art. 98 RJUE)",
-   "descricao": "Estrutura a defesa em processo de contraordenação urbanística instaurado ao abrigo do art. 98.º do RJUE (DL 555/99), analisando os fundamentos de impugnação do auto de notícia, a graduação das coimas e os meios de recurso, incluindo a impugnação judicial ao abrigo do RGCO (DL 433/82).",
-   "descricao_en": "Structures the defence in planning administrative offence proceedings brought under Article 98 of the RJUE (Decree-Law 555/99), analysing the grounds for challenging the offence report (auto de notícia), the grading of fines and the means of appeal, including a judicial challenge under the RGCO (Decree-Law 433/82).",
+   "descricao": "Estrutura a defesa em processo de contraordenação urbanística instaurado ao abrigo do art. 98.º do RJUE (DL 555/99), analisando os fundamentos de impugnação do auto de notícia, a moldura da coima de cada alínea e os meios de reação, incluindo a impugnação judicial nos tribunais administrativos ao abrigo do RGCO (DL 433/82).",
+   "descricao_en": "Structures the defence in planning administrative offence proceedings brought under Article 98 of the RJUE (Decree-Law 555/99), analysing the grounds for challenging the offence report (auto de notícia), the fine range for each paragraph and the available remedies, including a judicial challenge before the administrative courts under the RGCO (Decree-Law 433/82).",
    "ficheiro": "15-direito-do-urbanismo-e-do-territorio/URB-058-defesa-em-processo-de-contraordenacao-urbanistica-art-98-rjue.md",
    "relacao": "complementa",
    "remete_para": "assets/templates/defesa-contraordenacao",
    "estado": {
-    "conferidas": 10,
+    "conferidas": 19,
     "corrigidas": 0,
-    "por_conferir": 2
+    "por_conferir": 1
+   },
+   "revisao_tecnica": {
+    "data": "2026-10-27",
+    "veredicto": "corrigida"
    }
   },
   {

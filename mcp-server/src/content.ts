@@ -249,6 +249,7 @@ export interface EntradaFicha {
   estado: EstadoCitacoes;
   relacao?: "mesmo-documento" | "complementa";
   remete_para?: string;
+  revisao_tecnica?: { data: string; veredicto: "ok" | "corrigida" | "rever de raiz" };
 }
 
 interface IndiceFichas {
@@ -429,17 +430,30 @@ export function lerFicha(codigo: string): string {
   const caminho = join(DIR_FICHAS, e.ficheiro);
   if (!existsSync(caminho)) return `A ficha ${e.codigo} não está no pacote (${e.ficheiro}).`;
   const corpo = readFileSync(caminho, "utf8").replace(/^---\r?\n[\s\S]*?\r?\n---\r?\n+/, "");
-  const cab = [
+  return `${cabecalhoFicha(e)}${NL}${NL}---${NL}${NL}${corpo}`;
+}
+
+/** Cabeçalho da casa de obter_ficha: estado das citações, ordem de uso, revisão técnica, valores e redator. */
+export function cabecalhoFicha(e: Pick<EntradaFicha, "codigo" | "titulo" | "titulo_en" | "area" | "estado" | "relacao" | "remete_para" | "revisao_tecnica">): string {
+  const r = e.revisao_tecnica;
+  return [
     `Ficha ${e.codigo} — ${e.titulo} / ${e.titulo_en} (${e.area})`,
     `Citações: ${textoEstado(e.estado)}. As por conferir estão marcadas [■ VERIFICAR] e só entram no documento assim, até serem confirmadas na fonte oficial (dre.pt, EUR-Lex).`,
     "Ordem de uso: modelo conferido (listar_modelos) → template (listar_templates) → ficha. A ficha é um guia de trabalho: serve quando o plugin não tem modelo nem template para este documento.",
     ...(e.relacao === "complementa" && e.remete_para
       ? [`Cruza-se com ${e.remete_para}: usa primeiro esse (${comoAbrir(e.remete_para)}) e esta ficha como complemento.`]
       : []),
+    ...(r
+      ? [`Revisão técnica: ${r.data} (${r.veredicto}). O que mudou e as fontes estão em assets/fichas/revisao-tecnica.md; falta a confirmação de um advogado, por isso diz ao utilizador que o documento deve ser revisto por quem o assina.`]
+      : []),
     'Valores do ano (salário mínimo, IAS, UC, taxas): ler_referencia "valores-2026", nunca os montantes da ficha.',
     "Redação: segue o fluxo de assets/redacao/redator.md (entrevista numa só mensagem, Marcação Redator, verificar_redacao, exportar_documento).",
-  ];
-  return `${cab.join(NL)}${NL}${NL}---${NL}${NL}${corpo}`;
+  ].join(NL);
+}
+
+/** Carrega o índice das fichas (e as raízes da pesquisa) já no arranque do servidor; sem catálogo, não faz nada. */
+export function precarregarFichas(): void {
+  catalogo();
 }
 
 /** Códigos das fichas, para o autocompletar de obter_ficha. */

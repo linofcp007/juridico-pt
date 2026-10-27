@@ -6,7 +6,8 @@ titulo_en: "Gratuitous Loan for Use Agreement (Comodato)"
 descricao: "Gera um contrato de comodato (empréstimo de uso gratuito) de bem móvel ou imóvel, com identificação do objeto cedido, fins de utilização, prazo de restituição, obrigações do comodatário, responsabilidade por deterioração e condições de restituição antecipada — ao abrigo dos arts. 1129.º e seguintes do Código Civil português."
 descricao_en: "Generates a gratuitous loan for use agreement (comodato) for movable or immovable property, with identification of the item lent, permitted purposes of use, return date, the borrower's obligations, liability for deterioration and conditions for early return — under Articles 1129 et seq. of the Portuguese Civil Code."
 ambito: nacional
-estado_citacoes: "conferidas 3 · corrigidas 12 · por conferir 4"
+estado_citacoes: "conferidas 9 · corrigidas 9 · por conferir 4"
+revisao_tecnica: "2026-10-27 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
@@ -14,7 +15,8 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 
 > **Âmbito:** nacional · **Área:** Direito Civil e dos Contratos · **Código:** CIV-006
 > **EN:** Gratuitous Loan for Use Agreement (Comodato). Generates a gratuitous loan for use agreement (comodato) for movable or immovable property, with identification of the item lent, permitted purposes of use, return date, the borrower's obligations, liability for deterioration and conditions for early return — under Articles 1129 et seq. of the Portuguese Civil Code.
-> **Citações:** conferidas 3 · corrigidas 12 · por conferir 4. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 9 · corrigidas 9 · por conferir 4. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-27 — corrigida (10 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
 Gera um contrato de comodato (empréstimo de uso gratuito) de bem móvel ou imóvel, com identificação do objeto cedido, fins de utilização, prazo de restituição, obrigações do comodatário, responsabilidade por deterioração e condições de restituição antecipada — ao abrigo dos arts. 1129.º e seguintes do Código Civil português.
 
@@ -27,7 +29,7 @@ Ficha de trabalho para preparar este documento. As regras da casa prevalecem sob
 — Se faltarem dados, marca [■ VERIFICAR: o que é necessário].
 — Cita os artigos reais do Código Civil (arts. 1129.º e ss.).
 — O comodato é essencialmente gratuito — qualquer contraprestação económica afasta o regime e pode configurar arrendamento (arts. 1022.º e ss. CC) ou arrendamento urbano (NRAU).
-— Se o bem for imóvel e o prazo for superior a 6 anos, sinaliza [■ VERIFICAR: necessidade de registo do comodato no Registo Predial — art. 2.º, n.º 1, al. u) CRPredial].
+— O comodato não consta dos factos sujeitos a registo predial (art. 2.º, n.º 1, do Código do Registo Predial): a regra dos seis anos da al. m) respeita ao arrendamento e a al. u) à renúncia à indemnização por expropriação — não sinalizes registo do comodato.
 
 ---
 
@@ -38,9 +40,9 @@ Apresenta dentro de um bloco <analise_do_caso>:
 - Tipo de bem: móvel ou imóvel
 - Fins de utilização do bem (habitação, armazenamento, escritório, outro)
 - Gratuidade: confirmar ausência de qualquer contraprestação económica
-- Prazo: determinado ou indeterminado; se imóvel acima de 6 anos — registo
+- Prazo: determinado ou indeterminado — sem prazo nem uso determinado, o comodatário restitui a coisa logo que lhe seja exigida (art. 1137.º, n.º 2, CC)
 - Obrigações do comodatário: conservação, despesas ordinárias vs. extraordinárias
-- Restituição antecipada: necessidade urgente e imprevista do comodante (art. 1140.º CC)
+- Restituição antecipada: havendo prazo, só por resolução do comodante com justa causa (art. 1140.º CC)
 - Riscos: deterioração, uso indevido, subcomodato não autorizado
 - Informações em falta
 
@@ -50,11 +52,11 @@ Apresenta dentro de um bloco <fundamentos_juridicos>:
 - Art. 1129.º CC (definição — empréstimo de uso, gratuito, com obrigação de restituição)
 - Art. 1137.º CC (prazo e restituição)
 - Art. 1136.º CC (responsabilidade por deterioração)
-- Art. 1132.º CC (despesas) [■ VERIFICAR: o art. 1132.º CC trata dos frutos da coisa; as benfeitorias estão no art. 1138.º CC; confirmar a norma das despesas]
+- Art. 1138.º CC (benfeitorias: o comodatário é equiparado ao possuidor de má-fé) e art. 1135.º, al. a), CC (dever de guardar e conservar a coisa)
 - Art. 1135.º CC (uso específico e subcomodato)
-- Art. 1140.º CC (restituição antecipada por necessidade urgente do comodante)
-- Art. 1141.º CC (morte do comodatário — extinção do comodato se de carácter pessoal)
-- Art. 2.º, n.º 1, al. u) CRPredial (registo de comodato de imóvel se > 6 anos)
+- Art. 1140.º CC (resolução pelo comodante com justa causa, ainda que haja prazo)
+- Art. 1141.º CC (caducidade do contrato por morte do comodatário)
+- Art. 2.º, n.º 1, CRPredial: o comodato não é facto sujeito a registo (a al. m) respeita ao arrendamento por mais de seis anos)
 
 ### ETAPA 3 — CONSTRUÇÃO ARGUMENTATIVA / ESTRUTURA
 Define a estrutura do contrato:
@@ -95,7 +97,7 @@ Conservação; despesas ordinárias a cargo do comodatário; despesas extraordin
 Referência a auto de vistoria ou descrição do estado atual; responsabilidade pela deterioração culposa (art. 1136.º CC).
 
 **Cláusula 7.ª — Restituição Antecipada**
-Direito do comodante de pedir restituição imediata em caso de necessidade urgente e imprevista (art. 1140.º CC); prazo de entrega.
+Direito do comodante de resolver o contrato com justa causa, ainda que haja prazo (art. 1140.º CC); prazo de entrega.
 
 **Cláusula 8.ª — Fim do Contrato e Restituição**
 Obrigação de restituição nas condições em que foi recebido; recibo de entrega.
@@ -113,8 +115,8 @@ Apresenta dentro de um bloco <checklist_validacao>:
 - [ ] Prazo determinado ou forma de denúncia indicada
 - [ ] Proibição de subcomodato incluída (art. 1135.º CC)
 - [ ] Responsabilidade por deterioração culposa tratada (art. 1136.º CC)
-- [ ] Restituição antecipada por necessidade urgente prevista (art. 1140.º CC)
-- [ ] Se imóvel e prazo > 6 anos: registo predial sinalizado [■ VERIFICAR]
+- [ ] Resolução pelo comodante com justa causa prevista (art. 1140.º CC)
+- [ ] Imóvel: não confundido com arrendamento — o comodato não está sujeito a registo predial (art. 2.º, n.º 1, CRPredial)
 - [ ] Auto de vistoria ou descrição do estado referenciado
 - [ ] Pontos [■ VERIFICAR] sinalizados
 
@@ -155,14 +157,17 @@ Apresenta dentro de um bloco <checklist_validacao>:
 | arts. 1129.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | arts. 1022.º e ss. CC | conferida (índice) |  |
 | art. 2.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| art. 1140.º CC | corrigida — Resolução | o número citado no catálogo não correspondia à epígrafe |
-| art. 1140.º CC | corrigida — Resolução | o número citado no catálogo não correspondia à epígrafe |
-| art. 1140.º CC | corrigida — Resolução | o número citado no catálogo não correspondia à epígrafe |
+| art. 2.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 1137.º, n.º 2, CC | conferida (epígrafe) — Restituição |  |
+| art. 1140.º CC | conferida (epígrafe) — Resolução |  |
+| art. 1140.º CC | conferida (epígrafe) — Resolução |  |
+| art. 1140.º CC | conferida (epígrafe) — Resolução |  |
 | Arts. 1129.º a 1141.º CC | conferida (epígrafe) — Noção |  |
 | Art. 1129.º CC | conferida (epígrafe) — Noção |  |
 | Art. 1137.º CC | corrigida — Restituição | o número citado no catálogo não correspondia à epígrafe |
 | Art. 1136.º CC | corrigida — Perda ou deterioração da coisa | o número citado no catálogo não correspondia à epígrafe |
-| Art. 1132.º CC | por conferir [■ VERIFICAR] | o art. 1132.º CC trata dos frutos da coisa; as benfeitorias estão no art. 1138.º CC; confirmar a norma das despesas |
+| Art. 1138.º CC | conferida (epígrafe) — Benfeitorias |  |
+| art. 1135.º, al. a), CC | conferida (epígrafe) — Obrigações do comodatário |  |
 | Art. 1135.º CC | corrigida — Obrigações do comodatário | o número citado no catálogo não correspondia à epígrafe |
 | Art. 1140.º CC | corrigida — Resolução | o número citado no catálogo não correspondia à epígrafe |
 | Art. 1141.º CC | corrigida — Caducidade | o número citado no catálogo não correspondia à epígrafe |

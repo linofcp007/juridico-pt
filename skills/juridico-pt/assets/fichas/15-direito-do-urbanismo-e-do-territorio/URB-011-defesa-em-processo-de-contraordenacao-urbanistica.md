@@ -6,8 +6,9 @@ titulo_en: "Defence in Planning Administrative Offence Proceedings"
 descricao: "Gera a defesa escrita (art. 50.º do Regime Geral das Contraordenações — RGCO) em processo de contraordenação urbanística instaurado pela câmara municipal ao abrigo do RJUE, contestando a imputação da infração, os seus pressupostos, a proporcionalidade da coima ou solicitando o arquivamento."
 descricao_en: "Generates the written defence (Article 50 of the General Regime for Administrative Offences — RGCO) in planning administrative offence proceedings (contraordenação) brought by the municipal council under the RJUE, contesting the attribution of the offence, its requirements and the proportionality of the fine (coima), or requesting that the case be closed."
 ambito: nacional
-estado_citacoes: "conferidas 16 · corrigidas 0 · por conferir 1"
+estado_citacoes: "conferidas 18 · corrigidas 0 · por conferir 1"
 remete_para: "assets/templates/defesa-contraordenacao"
+revisao_tecnica: "2026-10-27 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
@@ -16,7 +17,8 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 > **Âmbito:** nacional · **Área:** Direito do Urbanismo e do Território · **Código:** URB-011
 > **EN:** Defence in Planning Administrative Offence Proceedings. Generates the written defence (Article 50 of the General Regime for Administrative Offences — RGCO) in planning administrative offence proceedings (contraordenação) brought by the municipal council under the RJUE, contesting the attribution of the offence, its requirements and the proportionality of the fine (coima), or requesting that the case be closed.
 > **Ver também:** `assets/templates/defesa-contraordenacao` — conteúdo do plugin sobre o mesmo tema. Usa-o primeiro.
-> **Citações:** conferidas 16 · corrigidas 0 · por conferir 1. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 18 · corrigidas 0 · por conferir 1. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-27 — corrigida (7 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
 Gera a defesa escrita (art. 50.º do Regime Geral das Contraordenações — RGCO) em processo de contraordenação urbanística instaurado pela câmara municipal ao abrigo do RJUE, contestando a imputação da infração, os seus pressupostos, a proporcionalidade da coima ou solicitando o arquivamento.
 
@@ -38,8 +40,8 @@ Ficha de trabalho para preparar este documento. As regras da casa prevalecem sob
 ### ETAPA 1 — PROBLEMATIZAÇÃO (Análise do Caso)
 Apresenta dentro de um bloco <analise_do_caso>:
 - Infração imputada: qual o tipo contraordenacional e qual o artigo do RJUE violado
-- Grau de gravidade: leve, grave ou muito grave (art. 98.º RJUE [■ VERIFICAR: o art. 98.º RJUE fixa coimas por infração, sem classificação em leve, grave ou muito grave; confirmar]) [■ VERIFICAR classificação]
-- Coima proposta: valor e moldura legal aplicável [■ VERIFICAR: art. 98.º RJUE e portarias]
+- Moldura aplicável: o art. 98.º RJUE não classifica as contraordenações em leves, graves e muito graves — cada alínea do n.º 1 tem a moldura fixada nos n.ºs 2 a 7, em regra distinta para pessoas singulares e coletivas
+- Coima proposta: valor e moldura legal aplicável (art. 98.º, n.ºs 2 a 7, RJUE, consoante a alínea imputada; a tentativa e a negligência são puníveis — n.º 9) [■ VERIFICAR: moldura da alínea imputada]
 - Arguido: pessoa singular ou coletiva (as molduras diferem)
 - Defesas possíveis:
   * Atipicidade (os factos não integram a norma imputada)
@@ -54,9 +56,9 @@ Apresenta dentro de um bloco <fundamentos_juridicos>:
 - Art. 98.º RJUE (regime contraordenacional — tipos e molduras) [■ VERIFICAR: valores atualizados]
 - Arts. 18.º e 19.º RGCO (determinação da sanção — critérios)
 - Arts. 27.º e 28.º RGCO (prescrição do procedimento)
-- Art. 50.º RGCO (direito de defesa — prazo e forma)
+- Art. 50.º RGCO (direito de audição e defesa, em prazo razoável fixado pela autoridade administrativa)
 - Princípio da proporcionalidade (art. 18.º, n.º 2, CRP)
-- Jurisprudência dos tribunais judiciais sobre contraordenações urbanísticas [■ VERIFICAR]
+- Jurisprudência dos tribunais administrativos sobre contraordenações urbanísticas — competentes para a impugnação judicial destas coimas (art. 4.º, n.º 1, al. l), ETAF) [■ VERIFICAR]
 
 ### ETAPA 3 — CONSTRUÇÃO ARGUMENTATIVA
 Define em <estrategia>:
@@ -71,7 +73,7 @@ Redige a defesa completa:
 **CÂMARA MUNICIPAL DE [MUNICÍPIO]**
 **Processo de Contraordenação n.º [número]**
 
-[NOME / FIRMA], NIF/NIPC n.º [número], arguido no processo de contraordenação n.º [número] instaurado por [serviço municipal], notificado da acusação em [data], vem, ao abrigo do art. 50.º do Regime Geral das Contraordenações (RGCO), no prazo legal, apresentar a sua DEFESA ESCRITA, com os seguintes fundamentos:
+[NOME / FIRMA], NIF/NIPC n.º [número], arguido no processo de contraordenação n.º [número] instaurado por [serviço municipal], notificado da acusação em [data], vem, ao abrigo do art. 50.º do Regime Geral das Contraordenações (RGCO), no prazo que lhe foi fixado, apresentar a sua DEFESA ESCRITA, com os seguintes fundamentos:
 
 **I. IDENTIFICAÇÃO DO ARGUIDO E DO PROCESSO**
 [Identificação completa e referência ao processo]
@@ -110,7 +112,7 @@ O Arguido / Mandatário,
 
 ### ETAPA 5 — FORMULAÇÃO FINAL (Validação)
 Apresenta dentro de um bloco <checklist_validacao>:
-- [ ] Prazo de defesa verificado (normalmente 15 dias úteis — art. 50.º RGCO)
+- [ ] Prazo de defesa verificado (o fixado na notificação — o art. 50.º RGCO não fixa prazo, exige apenas «prazo razoável»)
 - [ ] Infração imputada corretamente identificada (artigo do RJUE)
 - [ ] Tipicidade analisada (elemento objetivo e subjetivo)
 - [ ] Prescrição verificada [■ VERIFICAR prazo]
@@ -140,7 +142,7 @@ Apresenta dentro de um bloco <checklist_validacao>:
 **INFRAÇÃO IMPUTADA:**
 - Artigo(s) do RJUE violado(s): [números]
 - Descrição dos factos imputados: [transcreve da acusação]
-- Grau: [leve / grave / muito grave]
+- Alínea do art. 98.º, n.º 1, RJUE imputada e moldura correspondente (n.ºs 2 a 7): [indicar]
 - Coima proposta: [€ valor mínimo a € valor máximo]
 
 **ARGUMENTOS DE DEFESA:**
@@ -165,9 +167,9 @@ Defesa escrita completa em processo de contraordenação urbanística, com anál
 | Citação | Estado | Nota |
 |---|---|---|
 | art. 98.º RJUE | conferida (epígrafe) — Contraordenações |  |
-| art. 98.º RJUE | por conferir [■ VERIFICAR] | o art. 98.º RJUE fixa coimas por infração, sem classificação em leve, grave ou muito grave; confirmar |
 | art. 98.º RJUE | conferida (epígrafe) — Contraordenações |  |
 | art. 98.º RJUE | conferida (epígrafe) — Contraordenações |  |
+| art. 98.º, n.ºs 2 a 7, RJUE | conferida (epígrafe) — Contraordenações |  |
 | art. 27.º e 28.º RGCO | conferida (epígrafe) — Prescrição do procedimento |  |
 | art. 18.º RGCO | conferida (epígrafe) — Determinação da medida da coima |  |
 | art. 18.º RGCO | conferida (epígrafe) — Determinação da medida da coima |  |
@@ -177,7 +179,9 @@ Defesa escrita completa em processo de contraordenação urbanística, com anál
 | Arts. 27.º e 28.º RGCO | conferida (epígrafe) — Prescrição do procedimento |  |
 | Art. 50.º RGCO | conferida (epígrafe) — Direito de audição e defesa do arguido |  |
 | art. 18.º, n.º 2, CRP | conferida (epígrafe) — Força jurídica |  |
+| art. 4.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 50.º do Regime Geral das Contraordenações | conferida (epígrafe) — Direito de audição e defesa do arguido |  |
 | art. 27.º RGCO | conferida (epígrafe) — Prescrição do procedimento |  |
 | art. 18.º do RGCO | conferida (epígrafe) — Determinação da medida da coima |  |
 | art. 50.º RGCO | conferida (epígrafe) — Direito de audição e defesa do arguido |  |
+| art. 98.º, n.º 1, RJUE | conferida (epígrafe) — Contraordenações |  |

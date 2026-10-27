@@ -24,7 +24,7 @@ const COPY = [
 
 // Das fichas, o servidor só lê o índice e os ficheiros das áreas; os dados do importador
 // (traduções, revisão e relatório de citações, sobreposições) ficam só no skill.
-const SO_NO_SKILL = new Set(["citacoes.json", "traducoes-en.json", "revisao-citacoes.json", "sobreposicoes.json"]);
+const SO_NO_SKILL = new Set(["citacoes.json", "traducoes-en.json", "revisao-citacoes.json", "sobreposicoes.json", "correcoes-conteudo.json"]);
 
 async function main() {
   await rm(contentDir, { recursive: true, force: true });

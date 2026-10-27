@@ -10,7 +10,7 @@ Abre uma ficha com `obter_ficha` (código) ou lê o ficheiro. As citações por 
 | CIV-003 | Contrato de Empreitada | Construction Contract (Empreitada) | 10 conf. · 1 por conf. | [CIV-003-contrato-de-empreitada.md](CIV-003-contrato-de-empreitada.md) |
 | CIV-004 | Contrato de Mútuo entre Particulares | Loan Agreement between Private Individuals (Mútuo) | 14 conf. · 2 por conf. | [CIV-004-contrato-de-mutuo-entre-particulares.md](CIV-004-contrato-de-mutuo-entre-particulares.md) |
 | CIV-005 | Contrato de Doação | Gift Agreement (Doação) | 14 conf. · 5 por conf. | [CIV-005-contrato-de-doacao.md](CIV-005-contrato-de-doacao.md) |
-| CIV-006 | Contrato de Comodato | Gratuitous Loan for Use Agreement (Comodato) | 15 conf. · 4 por conf. | [CIV-006-contrato-de-comodato.md](CIV-006-contrato-de-comodato.md) |
+| CIV-006 | Contrato de Comodato | Gratuitous Loan for Use Agreement (Comodato) | 18 conf. · 4 por conf. | [CIV-006-contrato-de-comodato.md](CIV-006-contrato-de-comodato.md) |
 | CIV-007 | Contrato de Mandato com Representação | Mandate Agreement with Powers of Representation | 13 conf. · 2 por conf. | [CIV-007-contrato-de-mandato-com-representacao.md](CIV-007-contrato-de-mandato-com-representacao.md) |
 | CIV-009 | Contrato de Cessão de Créditos | Assignment of Claims Agreement (Cessão de Créditos) | 17 conf. · 3 por conf. | [CIV-009-contrato-de-cessao-de-creditos.md](CIV-009-contrato-de-cessao-de-creditos.md) |
 | CIV-010 | Contrato de Cessão da Posição Contratual | Assignment of Contractual Position Agreement | 8 conf. · 4 por conf. | [CIV-010-contrato-de-cessao-da-posicao-contratual.md](CIV-010-contrato-de-cessao-da-posicao-contratual.md) |

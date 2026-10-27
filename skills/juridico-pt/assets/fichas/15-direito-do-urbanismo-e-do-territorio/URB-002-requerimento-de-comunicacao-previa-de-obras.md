@@ -6,7 +6,8 @@ titulo_en: "Prior Notification of Works (Comunicação Prévia)"
 descricao: "Gera a comunicação prévia para a realização de obras de urbanização ou edificação sujeitas a este procedimento simplificado ao abrigo do RJUE, com identificação do requerente, descrição da operação, declaração de conformidade legal e elementos instrutórios exigidos."
 descricao_en: "Generates the prior notification (comunicação prévia) for carrying out urbanisation or building works subject to this simplified procedure under the RJUE, with identification of the applicant, a description of the operation, a declaration of legal compliance and the required supporting documents."
 ambito: nacional
-estado_citacoes: "conferidas 3 · corrigidas 0 · por conferir 3"
+estado_citacoes: "conferidas 18 · corrigidas 0 · por conferir 2"
+revisao_tecnica: "2026-10-27 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
@@ -14,7 +15,8 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 
 > **Âmbito:** nacional · **Área:** Direito do Urbanismo e do Território · **Código:** URB-002
 > **EN:** Prior Notification of Works (Comunicação Prévia). Generates the prior notification (comunicação prévia) for carrying out urbanisation or building works subject to this simplified procedure under the RJUE, with identification of the applicant, a description of the operation, a declaration of legal compliance and the required supporting documents.
-> **Citações:** conferidas 3 · corrigidas 0 · por conferir 3. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 18 · corrigidas 0 · por conferir 2. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-27 — corrigida (10 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
 Gera a comunicação prévia para a realização de obras de urbanização ou edificação sujeitas a este procedimento simplificado ao abrigo do RJUE, com identificação do requerente, descrição da operação, declaração de conformidade legal e elementos instrutórios exigidos.
 
@@ -36,18 +38,18 @@ Ficha de trabalho para preparar este documento. As regras da casa prevalecem sob
 ### ETAPA 1 — PROBLEMATIZAÇÃO (Análise do Caso)
 Apresenta dentro de um bloco <analise_do_caso>:
 - Verificação do enquadramento no procedimento de comunicação prévia (art. 4.º, n.º 4, RJUE)
-- Tipo de obra (ampliação, alteração, conservação, construção em área abrangida por alvará)
+- Tipo de operação abrangida pelo art. 4.º, n.º 4, RJUE (construção, alteração, ampliação ou demolição em área abrangida por plano de pormenor, unidade de execução ou operação de loteamento; construção, alteração ou ampliação em zona urbana consolidada; piscinas associadas a edificação principal); as obras de conservação e as obras de alteração no interior nas condições do art. 6.º, n.º 1, al. b), estão isentas de licença e de comunicação prévia (art. 6.º, n.º 1, als. a) e b), RJUE)
 - Localização e conformidade com PDM e outros instrumentos
 - Documentos instrutórios mínimos (art. 35.º RJUE e portarias)
-- Prazo para início das obras após comunicação (20 dias úteis — art. 36.º RJUE [■ VERIFICAR: confirmar o art. 36.º RJUE: desde o DL 136/2014 as obras em comunicação prévia podem iniciar-se após pagar as taxas, sem os 20 dias])
+- Início das obras: a comunicação prévia permite realizar a operação após o pagamento das taxas e demais encargos devidos e a informação sobre o início dos trabalhos, prestada até cinco dias antes destes (arts. 34.º, n.º 2, e 80.º-A, n.º 1, RJUE); não há prazo de 20 dias nem oposição da câmara — o art. 36.º RJUE está revogado
 - Informações em falta
 
 ### ETAPA 2 — ANÁLISE JURÍDICA (Fundamentação)
 Apresenta dentro de um bloco <fundamentos_juridicos>:
 - Artigos do RJUE que determinam a sujeição a comunicação prévia
-- Regime dos elementos instrutórios (Portaria n.º 113/2015 ou legislação em vigor) [■ VERIFICAR: portaria atual]
+- Regime dos elementos instrutórios (portaria prevista no art. 35.º, n.º 4, RJUE) e modelo obrigatório de comunicação prévia (portaria prevista no art. 4.º-A, n.º 1, RJUE) [■ VERIFICAR: portarias em vigor depois do DL n.º 108/2026 — não usar a Portaria n.º 113/2015 sem confirmar a sua vigência]
 - Disposições do PDM aplicáveis
-- Consequência do decurso do prazo de 20 dias (art. 36.º RJUE [■ VERIFICAR: confirmar o art. 36.º RJUE: desde o DL 136/2014 as obras em comunicação prévia podem iniciar-se após pagar as taxas, sem os 20 dias])
+- Controlo sucessivo: notificação, por uma única vez, para suprir elementos em falta no prazo de 10 dias, sob pena de ineptidão (art. 35.º, n.ºs 8 e 9, RJUE); caducidade desse controlo no prazo de um ano (art. 35.º, n.º 10, RJUE), sem prejuízo da fiscalização (art. 35.º, n.º 11, RJUE)
 
 ### ETAPA 3 — CONSTRUÇÃO ARGUMENTATIVA
 Define em <estrategia>:
@@ -61,7 +63,7 @@ Redige o documento completo:
 
 **COMUNICAÇÃO PRÉVIA DE OBRAS**
 **Câmara Municipal de [MUNICÍPIO]**
-**Serviço de Urbanismo / AUGI**
+**Exmo. Senhor Presidente da Câmara Municipal — submissão na plataforma eletrónica (art. 35.º, n.º 1, RJUE)**
 
 **1. IDENTIFICAÇÃO DO COMUNICANTE**
 Nome: [nome completo]
@@ -76,7 +78,7 @@ Zona do PDM: [ex: zona urbana consolidada]
 Alvará de loteamento (se aplicável): [n.º e data]
 
 **3. DESCRIÇÃO DA OBRA**
-Tipo de operação: [ex: ampliação / alteração / conservação]
+Tipo de operação: [ex: construção / ampliação / alteração / demolição — art. 4.º, n.º 4, RJUE]
 Área de construção afetada: [m²]
 N.º de pisos: [número]
 Uso: [habitacional / comercial / serviços]
@@ -98,7 +100,7 @@ E que não está sujeita a parecer de entidades externas [ou: que foram obtidos 
 [Lista numerada dos documentos que acompanham a comunicação]
 
 **7. PEDIDO**
-Ao abrigo do disposto nos artigos 34.º e seguintes do RJUE, o comunicante informa a Câmara Municipal de [município] da sua intenção de iniciar as obras descritas no prazo de 20 dias úteis a contar da presente comunicação, caso não haja oposição nos termos do art. 36.º RJUE [■ VERIFICAR: confirmar o art. 36.º RJUE: desde o DL 136/2014 as obras em comunicação prévia podem iniciar-se após pagar as taxas, sem os 20 dias].
+Ao abrigo do disposto nos artigos 34.º e seguintes do RJUE, o comunicante apresenta à Câmara Municipal de [município] a comunicação prévia das obras descritas, que realizará após o pagamento das taxas e demais encargos devidos e a informação sobre o início dos trabalhos prevista no artigo 80.º-A do RJUE (art. 34.º, n.º 2, RJUE), indicando como prazo de execução [meses] (art. 35.º, n.º 2, RJUE).
 
 [Localidade], [data]
 O Comunicante / Técnico Responsável,
@@ -112,7 +114,7 @@ Apresenta dentro de um bloco <checklist_validacao>:
 - [ ] Técnico responsável identificado e habilitado
 - [ ] Declaração de conformidade com PDM incluída
 - [ ] Elementos instrutórios listados e completos
-- [ ] Prazo de 20 dias úteis verificado
+- [ ] Taxas pagas (ou autoliquidadas) e informação sobre o início dos trabalhos prestada até cinco dias antes destes (arts. 34.º, n.ºs 2 e 3, e 80.º-A, n.º 1, RJUE)
 - [ ] Confirmação de ausência de condicionantes (REN, RAN, servidões) [■ VERIFICAR]
 - [ ] Pontos que exigem atenção especial: [liste]
 
@@ -135,7 +137,7 @@ Apresenta dentro de um bloco <checklist_validacao>:
 - Alvará de loteamento (se em loteamento): [n.º e data]
 
 **OBRA:**
-- Tipo de operação: [ampliação / alteração / conservação / outra]
+- Tipo de operação: [construção / ampliação / alteração / demolição / outra — as obras de conservação estão isentas]
 - Descrição da obra: [o que se pretende fazer]
 - Área afetada: [m²]
 - N.º de pisos afetados: [número]
@@ -156,15 +158,29 @@ Apresenta dentro de um bloco <checklist_validacao>:
 [Informações adicionais relevantes]
 
 ## Resultado esperado
-Comunicação prévia completa, pronta para entrega na câmara municipal ou plataforma eletrónica, com declaração de conformidade e lista de documentos.
+Comunicação prévia completa, pronta para submissão na plataforma eletrónica do município (art. 35.º, n.º 1, RJUE), com declaração de conformidade e lista de documentos.
 
 ## Citações desta ficha
 
 | Citação | Estado | Nota |
 |---|---|---|
 | art. 4.º, n.º 4, RJUE | conferida (epígrafe) — Licença, comunicação prévia e comunicação prévia com prazo |  |
+| art. 4.º, n.º 4, RJUE | conferida (epígrafe) — Licença, comunicação prévia e comunicação prévia com prazo |  |
+| art. 4.º, n.º 4, RJUE | conferida (epígrafe) — Licença, comunicação prévia e comunicação prévia com prazo |  |
+| art. 6.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 6.º, n.º 1, als. a) e b), RJUE | conferida (epígrafe) — Isenção de licença e comunicação prévia |  |
 | art. 35.º RJUE | conferida (epígrafe) — Regime da comunicação prévia |  |
-| art. 36.º RJUE | por conferir [■ VERIFICAR] | confirmar o art. 36.º RJUE: desde o DL 136/2014 as obras em comunicação prévia podem iniciar-se após pagar as taxas, sem os 20 dias |
-| art. 36.º RJUE | por conferir [■ VERIFICAR] | confirmar o art. 36.º RJUE: desde o DL 136/2014 as obras em comunicação prévia podem iniciar-se após pagar as taxas, sem os 20 dias |
-| art. 36.º RJUE | por conferir [■ VERIFICAR] | confirmar o art. 36.º RJUE: desde o DL 136/2014 as obras em comunicação prévia podem iniciar-se após pagar as taxas, sem os 20 dias |
+| arts. 34.º, n.º 2, e 80.º-A, n.º 1, RJUE | conferida (epígrafe) — Âmbito |  |
+| art. 36.º RJUE | por conferir [■ VERIFICAR] | o assunto descrito não coincide com a epígrafe; confirmar |
+| art. 35.º, n.º 4, RJUE | conferida (epígrafe) — Regime da comunicação prévia |  |
+| art. 4.º-A, n.º 1, RJUE | conferida (epígrafe) — Títulos urbanísticos |  |
+| art. 35.º, n.ºs 8 e 9, RJUE | conferida (epígrafe) — Regime da comunicação prévia |  |
+| art. 35.º, n.º 10, RJUE | conferida (epígrafe) — Regime da comunicação prévia |  |
+| art. 35.º, n.º 11, RJUE | conferida (epígrafe) — Regime da comunicação prévia |  |
+| art. 35.º, n.º 1, RJUE | conferida (epígrafe) — Regime da comunicação prévia |  |
+| art. 35.º, n.º 1, RJUE | conferida (epígrafe) — Regime da comunicação prévia |  |
 | artigos 34.º e seguintes do RJUE | conferida (epígrafe) — Âmbito |  |
+| artigo 80.º-A do RJUE | conferida (epígrafe) — Informação sobre o início dos trabalhos e o responsável pelos mesmos |  |
+| art. 34.º, n.º 2, RJUE | conferida (epígrafe) — Âmbito |  |
+| art. 35.º, n.º 2, RJUE | conferida (epígrafe) — Regime da comunicação prévia |  |
+| arts. 34.º, n.ºs 2 e 3, e 80.º-A, n.º 1, RJUE | conferida (epígrafe) — Âmbito |  |

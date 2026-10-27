@@ -1,0 +1,193 @@
+{
+  "lang": "pt",
+  "kind": "change",
+  "size": "xs",
+  "tracks": [
+    "core"
+  ],
+  "approvals": {
+    "tasks": {
+      "at": "2026-10-27T22:11:41.928Z",
+      "by": "Carlos Pereira",
+      "fingerprint": "328a57ee16281d81ca6351b8d269d66827146fe1",
+      "file": "change.md",
+      "wsFingerprint": "4648e9e6ecdd0681b17ee92868077b918e9949b5",
+      "batch": true
+    },
+    "execution": {
+      "at": "2026-10-27T23:05:07.151Z",
+      "by": "Carlos Pereira"
+    }
+  },
+  "createdAt": "2026-10-27T22:11:02.913Z",
+  "lastEditAt": "2026-10-27T22:11:31.920Z",
+  "approvalHistory": [
+    {
+      "phase": "tasks",
+      "at": "2026-10-27T22:11:41.928Z",
+      "by": "Carlos Pereira",
+      "file": "change.md",
+      "fingerprint": "328a57ee16281d81ca6351b8d269d66827146fe1",
+      "wsFingerprint": "4648e9e6ecdd0681b17ee92868077b918e9949b5",
+      "batch": true,
+      "snapshot": ".history/tasks@1.md"
+    },
+    {
+      "phase": "execution",
+      "at": "2026-10-27T23:05:07.151Z",
+      "by": "Carlos Pereira"
+    }
+  ],
+  "lastApprovedPhase": "execution",
+  "evidence": {
+    "1": {
+      "command": "cd mcp-server && npm run build && node --test --test-name-pattern \"T-530|T-531\" test/v31.test.mjs",
+      "exitCode": 0,
+      "summary": "T-530, T-531 pass 2 fail 0 (vermelhos antes da implementação)",
+      "at": "2026-10-27T22:14:46.733Z",
+      "commit": "155800a",
+      "dirty": true,
+      "observed": false,
+      "cmdRule": 1,
+      "history": [
+        {
+          "command": "cd mcp-server && npm run build && node --test --test-name-pattern \"T-530|T-531\" test/v31.test.mjs",
+          "exitCode": 0,
+          "summary": "T-530, T-531 pass 2 fail 0 (vermelhos antes da implementação)",
+          "at": "2026-10-27T22:14:46.733Z",
+          "commit": "155800a",
+          "dirty": true,
+          "observed": false,
+          "cmdRule": 1
+        }
+      ],
+      "task": "[US1] Passo das correções de conteúdo no importador, com a fixture, o campo `revisao_tecnica`, a linha no cabeçalho e o cabeçalho de `obter_ficha`. Testes T-530 (aplica, falha sem o trecho, idempotente) e T-531 (cabeçalho e `obter_ficha`).",
+      "verify": "cd mcp-server && npm run build && node --test --test-name-pattern \"T-530|T-531\" test/v31.test.mjs"
+    },
+    "2": {
+      "command": "cd mcp-server && npm run build && node scripts/importar-fichas.mjs --origem \"C:/Users/Administrator/Downloads/skills-juridicas-pro\" --check && node --test --test-name-pattern \"T-532|T-514|T-510\" test/v31.test.mjs",
+      "exitCode": 0,
+      "summary": "OK: 1256 fichas em dia; T-532, T-514, T-510 pass 3 fail 0. 42 fichas revistas (41 corrigidas, 1 a rever de raiz), 411 correções com fonte; r07 3/3; os 10 casos da 3.1 11/11 (4,98 USD)",
+      "at": "2026-10-27T22:56:53.414Z",
+      "commit": "155800a",
+      "dirty": true,
+      "observed": false,
+      "cmdRule": 1,
+      "history": [
+        {
+          "command": "cd mcp-server && npm run build && node scripts/importar-fichas.mjs --origem \"C:/Users/Administrator/Downloads/skills-juridicas-pro\" --check && node --test --test-name-pattern \"T-532|T-514|T-510\" test/v31.test.mjs",
+          "exitCode": 0,
+          "summary": "OK: 1256 fichas em dia; T-532, T-514, T-510 pass 3 fail 0. 42 fichas revistas (41 corrigidas, 1 a rever de raiz), 411 correções com fonte; r07 3/3; os 10 casos da 3.1 11/11 (4,98 USD)",
+          "at": "2026-10-27T22:56:53.414Z",
+          "commit": "155800a",
+          "dirty": true,
+          "observed": false,
+          "cmdRule": 1
+        }
+      ],
+      "task": "[US1] Revisão técnica das 42 fichas: `correcoes-conteudo.json`, o relatório `revisao-tecnica.md`, a reimportação e a conciliação das decisões de citações que a correção tornou obsoletas. Teste T-532: o relatório cobre as 42 fichas, com veredicto e fonte, e as afirmações corrigidas não voltam. Caso de avaliação de regressão r07.",
+      "verify": "cd mcp-server && npm run build && node scripts/importar-fichas.mjs --origem \"C:/Users/Administrator/Downloads/skills-juridicas-pro\" --check && node --test --test-name-pattern \"T-532|T-514|T-510\" test/v31.test.mjs"
+    },
+    "3": {
+      "command": "cd mcp-server && npm test && cd .. && python -I skills/juridico-pt/scripts/test_scripts.py",
+      "exitCode": 0,
+      "summary": "mcp 282 testes: 280 pass, 0 fail (2 ignorados); Python 56 OK. Versão 3.1.1 nos 6 sítios e no lock; .skill 6,8 MB e .mcpb 3.1.1 gerados",
+      "at": "2026-10-27T22:59:15.536Z",
+      "commit": "155800a",
+      "dirty": true,
+      "observed": false,
+      "cmdRule": 1,
+      "history": [
+        {
+          "command": "cd mcp-server && npm test && cd .. && python -I skills/juridico-pt/scripts/test_scripts.py",
+          "exitCode": 0,
+          "summary": "mcp 282 testes: 280 pass, 0 fail (2 ignorados); Python 56 OK. Versão 3.1.1 nos 6 sítios e no lock; .skill 6,8 MB e .mcpb 3.1.1 gerados",
+          "at": "2026-10-27T22:59:15.536Z",
+          "commit": "155800a",
+          "dirty": true,
+          "observed": false,
+          "cmdRule": 1
+        }
+      ],
+      "task": "[shared] Versão 3.1.1:",
+      "verify": "cd mcp-server && npm test && cd .. && python -I skills/juridico-pt/scripts/test_scripts.py"
+    }
+  },
+  "lastTickAt": "2026-10-27T22:59:15.536Z",
+  "ticks": {
+    "1": "2026-10-27T22:14:46.733Z",
+    "2": "2026-10-27T22:56:53.414Z",
+    "3": "2026-10-27T22:59:15.536Z"
+  },
+  "finishChecks": {
+    "mcp-test": {
+      "command": "npm --prefix mcp-server test",
+      "exitCode": 0,
+      "summary": "282 testes: 280 pass, 0 fail, 2 ignorados",
+      "at": "2026-10-27T23:02:06.792Z",
+      "commit": "6370ec8",
+      "dirty": false,
+      "observed": false,
+      "cmdRule": 1,
+      "check": "npm --prefix mcp-server test",
+      "code": "ad886ee0f061cddfdff2bb42c116a64d2c91a1a5",
+      "history": [
+        {
+          "command": "npm --prefix mcp-server test",
+          "exitCode": 0,
+          "summary": "282 testes: 280 pass, 0 fail, 2 ignorados",
+          "at": "2026-10-27T23:02:06.792Z",
+          "commit": "6370ec8",
+          "dirty": false,
+          "observed": false,
+          "cmdRule": 1
+        }
+      ]
+    },
+    "py-test": {
+      "command": "python skills/juridico-pt/scripts/test_scripts.py",
+      "exitCode": 0,
+      "summary": "Ran 56 tests OK",
+      "at": "2026-10-27T23:02:06.792Z",
+      "commit": "6370ec8",
+      "dirty": false,
+      "observed": false,
+      "cmdRule": 1,
+      "check": "python skills/juridico-pt/scripts/test_scripts.py",
+      "code": "ad886ee0f061cddfdff2bb42c116a64d2c91a1a5",
+      "history": [
+        {
+          "command": "python skills/juridico-pt/scripts/test_scripts.py",
+          "exitCode": 0,
+          "summary": "Ran 56 tests OK",
+          "at": "2026-10-27T23:02:06.792Z",
+          "commit": "6370ec8",
+          "dirty": false,
+          "observed": false,
+          "cmdRule": 1
+        }
+      ]
+    }
+  },
+  "finished": {
+    "at": "2026-10-27T23:02:06.960Z",
+    "files": {
+      "mcp-server/scripts/importar-fichas.mjs": "164a5013d051ec73ac1cc09778af3a8be6b36a36",
+      "mcp-server/src/content.ts": "85f87651897df984928075b7c4453e0237b73e36",
+      "mcp-server/test/v31.test.mjs": "eaff47a1583cf534bc3a530eaf087cea4e71ce6e",
+      "mcp-server/test/fixtures/fichas/skill/assets/fichas/correcoes-conteudo.json": "37546d941bbebcf1aa7dc5dbfb30df9a73ed6821",
+      "skills/juridico-pt/assets/fichas/correcoes-conteudo.json": "dedb77bfb425c60c71f672b96180e8191783a5db",
+      "skills/juridico-pt/assets/fichas/revisao-tecnica.md": "ea43a686c463fdd7f07a450b12cb0818dd6b79d8",
+      "skills/juridico-pt/assets/fichas/revisao-citacoes.json": "c784d7ac5b8d6cbb37f92f7195af1cbd49be327f",
+      "evals/r07-exoneracao-tres-anos/prompt.md": "c6dd2f1f2ec1b44033cb3d987ff313ff607307bc",
+      ".claude-plugin/plugin.json": "57e1efa1a05c7d4c02df2d35e09801c9ce7b98e1",
+      ".claude-plugin/marketplace.json": "f09c50502ff89aebb2b6b21727f5526a7cd46d61",
+      "package.json": "2182e2f1384c126aa481a8abe9003f97b5641a51",
+      "mcp-server/package.json": "dcaa0cac9fe6e30ab4ac335a3fc0841adb6eccb6",
+      "mcp-server/src/index.ts": "17133faf545ed3c612b2f999c0480611eef04e19",
+      "CHANGELOG.md": "0ddb8ef96f7fc1e4a02a156789fa96aeeb89b211",
+      "CLAUDE.md": "56cdd418ec615a30b00b03d1bc7d803041704498",
+      ".specs/juridico-pt-v3-1-fichas/quickstart.md": "f80ad94e890dc65ab78c7caaf378600108feb055"
+    }
+  }
+}

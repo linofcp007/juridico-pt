@@ -32,6 +32,11 @@
         "juridico-pt-v3-0-1-redator-unificado",
         "juridico-pt-v3-0-2-lei-estrangeira"
       ]
+    },
+    "juridico-pt-v3-1-1-revisao-fichas": {
+      "dependsOn": [
+        "juridico-pt-v3-1-fichas"
+      ]
     }
   },
   "meta": {

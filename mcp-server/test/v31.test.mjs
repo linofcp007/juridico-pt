@@ -509,3 +509,86 @@ test("T-529 sem dados pessoais reais nas fichas (NIF válido ou email fora dos e
   assert.ok(ficheirosFichas().length > 0, "sem fichas");
   assert.deepEqual(falhas.slice(0, 20), []);
 });
+
+// ---------------- 3.1.1 — revisão técnica das fichas (correções de conteúdo) ----------------
+
+test("T-530 importador: aplica as correções de conteúdo antes das citações, marca a ficha e falha sem o trecho", () => {
+  const { skill, out, f } = importarFixture();
+  assert.equal(out.status, 0, out.stderr);
+  const fam = fichaFixture(skill, "FAM-905");
+  assert.match(fam, /Identifica os pais, o menor e quem exerce as responsabilidades parentais\./);
+  assert.doesNotMatch(fam, /Identifica os pais e o menor\./);
+  assert.match(fam, /^revisao_tecnica: "?2026-10-27 \(corrigida\)"?$/m);
+  assert.match(fam, /^> \*\*Revisão técnica:\*\* 2026-10-27[^\n]*revisao-tecnica\.md[^\n]*advogado/m);
+  assert.match(fam, /^estado_citacoes: "?sem citações"?$/m, "a correção não devia criar citações na FAM-905");
+  // Relatório gerado a partir das mesmas decisões, com a fonte de cada correção.
+  const rel = ler(f("revisao-tecnica.md"));
+  assert.match(rel, /FAM-905/);
+  assert.match(rel, /pgdlisboa\.pt/);
+  assert.match(rel, /Confirmar a regra no caso concreto/);
+  const idx = JSON.parse(ler(f("indice.json")));
+  assert.deepEqual(idx.fichas.find((e) => e.codigo === "FAM-905").revisao_tecnica, { data: "2026-10-27", veredicto: "corrigida" });
+  // Idempotente.
+  const chk = spawnSync(process.execPath, [IMPORTADOR, "--origem", FIX("kit"), "--skill", skill, "--check"], { encoding: "utf8" });
+  assert.equal(chk.status, 0, chk.stderr || chk.stdout);
+  // Um trecho que não existe faz falhar, sem escrever nada.
+  const mau = tmp("jpt-fichas-mau-");
+  cpSync(FIX("skill"), mau, { recursive: true });
+  const cor = JSON.parse(ler(join(mau, "assets", "fichas", "correcoes-conteudo.json")));
+  cor["FAM-905"].substituicoes[0].de = "trecho que não existe na ficha";
+  writeFileSync(join(mau, "assets", "fichas", "correcoes-conteudo.json"), JSON.stringify(cor));
+  const falha = spawnSync(process.execPath, [IMPORTADOR, "--origem", FIX("kit"), "--skill", mau], { encoding: "utf8" });
+  assert.notEqual(falha.status, 0, "devia falhar com um trecho inexistente");
+  assert.match(falha.stderr + falha.stdout, /FAM-905/);
+  assert.ok(!existsSync(join(mau, "assets", "fichas", "indice.json")), "não devia ter escrito nada");
+});
+
+test("T-531 obter_ficha: o cabeçalho de uma ficha revista remete para o relatório e diz que falta o advogado", async () => {
+  const { cabecalhoFicha } = await mod("content.js");
+  const base = { codigo: "XXX-001", area: "Área", titulo: "T", titulo_en: "T EN", estado: { conferidas: 1, corrigidas: 0, por_conferir: 0 } };
+  const revista = cabecalhoFicha({ ...base, revisao_tecnica: { data: "2026-10-27", veredicto: "corrigida" } });
+  assert.match(revista, /Revisão técnica: 2026-10-27 \(corrigida\)/);
+  assert.match(revista, /assets\/fichas\/revisao-tecnica\.md/);
+  assert.match(revista, /confirmação de um advogado/);
+  assert.doesNotMatch(cabecalhoFicha(base), /Revisão técnica/);
+});
+
+test("T-532 revisão técnica: as 42 fichas no relatório, com fonte em cada correção, e as afirmações corrigidas não voltam", () => {
+  const cor = JSON.parse(ler(FICHAS("correcoes-conteudo.json")));
+  const AMOSTRA = ["FAM-006", "EST-003", "ADM-002", "SAU-003", "DES-001", "URB-002", "TRA-005", "CIV-006", "PEN-029", "DIG-015"];
+  const FUNDO = ["PI-014", "PI-015", "PI-028", "PI-029", "PI-041", "PI-055", "PI-018", "PI-021", "PI-036", "PI-037", "TRA-041", "TRA-042",
+    "SUC-001", "SUC-035", "SUC-037", "COM-048", "INS-012", "INS-013", "INS-030", "INS-004", "INS-005", "INS-006", "INS-022", "INS-024",
+    "URB-003", "URB-027", "URB-040", "URB-011", "URB-058", "ADM-052", "FIS-033", "FIS-037"];
+  const rel = ler(FICHAS("revisao-tecnica.md"));
+  const idx = indice();
+  const falhas = [];
+  for (const c of [...AMOSTRA, ...FUNDO]) {
+    if (!cor[c]) { falhas.push(`${c}: sem revisão técnica`); continue; }
+    if (!rel.includes(`## ${c}`)) falhas.push(`${c}: fora do relatório`);
+    if (!idx.fichas.find((e) => e.codigo === c)?.revisao_tecnica) falhas.push(`${c}: sem revisao_tecnica no índice`);
+    for (const s of cor[c].substituicoes) if (!/^https?:\/\//.test(s.fonte || "") && !/\[■ VERIFICAR/.test(s.para)) falhas.push(`${c}: correção sem fonte nem [■ VERIFICAR]`);
+  }
+  assert.deepEqual(falhas, []);
+
+  // As afirmações que a revisão corrigiu não voltam ao corpo das fichas (o original tinha-as todas).
+  const corpo = (c) => {
+    const f = ficheirosFichas().find((x) => x.replaceAll("\\", "/").includes(`/${c}-`));
+    assert.ok(f, `falta a ficha ${c}`);
+    return ler(f).split("## Citações desta ficha")[0];
+  };
+  const perto = (t, re, neg, n = 150) => [...t.matchAll(new RegExp(re.source, `${re.flags}g`))]
+    .some((m) => !neg.test(t.slice(Math.max(0, m.index - n), m.index + m[0].length + n)));
+  const ERROS = [
+    [["INS-012", "INS-013", "INS-030"], "período de cessão de 5 anos", (t) => /per[íi]odo de cess[ãa]o[^.\n]{0,60}\b(5|cinco)\b\s*(\(cinco\)\s*)?anos|(5|cinco) anos subsequentes ao encerramento/i.test(t)],
+    [["TRA-041"], "banco de horas individual em vigor", (t) => perto(t, /banco de horas individual/i, /revog|nenhum|n[ãa]o (existe|h[áa])|deixou/i)],
+    [["FIS-033", "FIS-037"], "RNH sem o regime transitório da Lei 82/2023", (t) => !(/82\/2023/.test(t) && /transit[óo]ri/i.test(t))],
+    [["COM-048"], "preferência legal dos sócios na cessão de quotas", (t) => perto(t, /(qualquer s[óo]cio|os s[óo]cios)[^.\n]{0,40}(pode|podem|t[êe]m)[^.\n]{0,20}(direito de )?prefer[êe]ncia/i, /n[ãa]o confere|n[ãa]o (existe|h[áa]|prev)|inexist|contrato de sociedade|parassocial|cl[áa]usula/i, 60)],
+    [["URB-011", "URB-058"], "coimas leves, graves e muito graves no art. 98.º RJUE", (t) => perto(t, /muito graves?/i, /n[ãa]o (classific|gradu|distingu|faz|divide|prev)|inexist/i)],
+    [["DES-001"], "máximo de 8 épocas", (t) => /\b(8|oito)\s*(\(oito\)\s*)?épocas/i.test(t) && !/\b(5|cinco)\s*(\(cinco\)\s*)?épocas/i.test(t)],
+    [["URB-002"], "oposição em 20 dias à comunicação prévia", (t) => perto(t, /20 dias/i, /n[ãa]o h[áa]|revog|deixou/i, 80) && /oposi[çc][ãa]o/i.test(t)],
+    [["EST-003"], "parecer do IEFP e contingente", (t) => perto(t, /contingente|parecer (favorável )?do IEFP/i, /revog|já não|deixou|n[ãa]o (é|existe|h[áa])/i)],
+  ];
+  const voltaram = [];
+  for (const [cods, nome, erro] of ERROS) for (const c of cods) if (erro(corpo(c))) voltaram.push(`${c}: ${nome}`);
+  assert.deepEqual(voltaram, []);
+});

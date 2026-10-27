@@ -6,7 +6,8 @@ titulo_en: "Application for a Residence Permit for the Exercise of a Professiona
 descricao: "Gera um requerimento especializado de autorização de residência para trabalho subordinado (contrato de trabalho) ou trabalho independente (recibos verdes / abertura de atividade), fundamentado nos artigos 88.º e 89.º da Lei n.º 23/2007, com identificação dos requisitos específicos e documentação exigida pela AIMA."
 descricao_en: "Generates a specialised application for a residence permit for employed work (employment contract) or self-employment (recibos verdes / registration of activity), grounded in Articles 88 and 89 of Law No. 23/2007, identifying the specific requirements and the documentation required by AIMA."
 ambito: nacional
-estado_citacoes: "conferidas 0 · corrigidas 0 · por conferir 10"
+estado_citacoes: "conferidas 1 · corrigidas 0 · por conferir 21"
+revisao_tecnica: "2026-10-27 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
@@ -14,7 +15,8 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 
 > **Âmbito:** nacional · **Área:** Direito dos Estrangeiros e Nacionalidade · **Código:** EST-003
 > **EN:** Application for a Residence Permit for the Exercise of a Professional Activity. Generates a specialised application for a residence permit for employed work (employment contract) or self-employment (recibos verdes / registration of activity), grounded in Articles 88 and 89 of Law No. 23/2007, identifying the specific requirements and the documentation required by AIMA.
-> **Citações:** conferidas 0 · corrigidas 0 · por conferir 10. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 1 · corrigidas 0 · por conferir 21. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-27 — corrigida (12 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
 Gera um requerimento especializado de autorização de residência para trabalho subordinado (contrato de trabalho) ou trabalho independente (recibos verdes / abertura de atividade), fundamentado nos artigos 88.º e 89.º da Lei n.º 23/2007, com identificação dos requisitos específicos e documentação exigida pela AIMA.
 
@@ -27,8 +29,8 @@ Ficha de trabalho para preparar este documento. As regras da casa prevalecem sob
 - Se faltarem dados, assinala [■ VERIFICAR: o que é necessário]
 - Distingue claramente subordinado vs. independente e cita o artigo correto
 - Usa português europeu rigoroso — sem brasileirismos
-- Verifica sempre se há necessidade de autorização prévia do IEFP (mercado de trabalho)
-- Inclui referência à Portaria que aprova o modelo de contrato de trabalho para estrangeiros [■ VERIFICAR]
+- Verifica sempre a posse de visto de residência válido ou de visto para procura de trabalho (art. 77.º, n.º 1, al. a), da Lei n.º 23/2007): a lei em vigor não exige autorização prévia do IEFP nem verificação do mercado de trabalho (o contingente do art. 59.º foi revogado), e a autorização de residência sem visto, por «manifestação de interesse», foi revogada pelo Decreto-Lei n.º 37-A/2024, de 3 de junho
+- O contrato de trabalho com trabalhador estrangeiro está sujeito a forma escrita e às menções do art. 5.º do Código do Trabalho (incluindo a referência ao visto ou ao título de residência); não cites portaria de «modelo de contrato» sem a conferir
 
 ---
 
@@ -39,7 +41,7 @@ Apresente dentro de um bloco <analise_do_caso>:
 - Tipo de atividade: subordinada ou independente
 - Enquadramento legal: art. 88.º (subordinada) ou art. 89.º (independente)
 - Empregador/entidade contratante: dados, setor de atividade, CAE
-- Necessidade de verificação do mercado de trabalho nacional (IEFP) — quando exigível
+- Posse de visto de residência válido ou de visto para procura de trabalho (art. 77.º, n.º 1, al. a)) — já não há verificação prévia do mercado de trabalho pelo IEFP
 - Situação migratória atual (visto, título de permanência)
 - Condições do contrato/atividade: remuneração, jornada, duração
 - Documentação disponível vs. faltante
@@ -49,14 +51,14 @@ Apresente dentro de um bloco <analise_do_caso>:
 Apresente dentro de um bloco <fundamentos_juridicos>:
 - Art. 88.º da Lei n.º 23/2007 (trabalho subordinado): condições de concessão
 - Art. 89.º da Lei n.º 23/2007 (trabalho independente): condições de concessão
-- Art. 52.º (requisitos gerais de admissão)
+- Art. 77.º (condições gerais de concessão de autorização de residência temporária: visto válido, meios de subsistência, alojamento, inscrição na segurança social, ausência de condenação por crime punível com pena de prisão superior a um ano, entre outras)
 - Código do Trabalho, aprovado pela Lei n.º 7/2009, de 12 de fevereiro — disposições sobre contrato de trabalho com trabalhadores estrangeiros
-- Isenção ou não de autorização IEFP [■ VERIFICAR: categorias profissionais isentas]
-- Regulamento (UE) sobre portabilidade de qualificações profissionais, se aplicável
+- Art. 75.º, n.º 1 (a autorização de residência temporária vale por dois anos e é renovável por períodos sucessivos de três anos)
+- Habilitação para a atividade e, quando exigível, declaração da ordem profissional (art. 89.º, n.º 1, als. b) e e)) [■ VERIFICAR: regime de reconhecimento de qualificações aplicável à profissão]
 
 ### ETAPA 3 — CONSTRUÇÃO ARGUMENTATIVA
 Apresente dentro de um bloco <estrategia>:
-- Como demonstrar que o posto de trabalho não pode ser preenchido por trabalhador nacional ou comunitário (se exigido)
+- Como demonstrar a existência de contrato de trabalho celebrado nos termos da lei e a inscrição na segurança social (art. 88.º, n.º 1) — já não se exige provar que o posto não pode ser preenchido por trabalhador nacional ou da UE
 - Qualificações e experiência profissional do requerente como argumento de mérito
 - Idoneidade do empregador (situação fiscal e contributiva regularizada)
 - Como apresentar a atividade independente (volume de negócios projetado, clientes, faturação)
@@ -85,14 +87,14 @@ Redige o requerimento completo na seguinte estrutura:
 **IV. DO CUMPRIMENTO DOS REQUISITOS LEGAIS**
 [Meios de subsistência, alojamento, ausência de condenações, situação contributiva]
 
-**V. DA AUTORIZAÇÃO DO IEFP (se exigível)**
-[Referência ao parecer favorável do IEFP — Doc. X — ou justificação de isenção]
+**V. DO VISTO DE RESIDÊNCIA**
+[Visto de residência válido, concedido para a finalidade, ou visto para procura de trabalho — art. 77.º, n.º 1, al. a), da Lei n.º 23/2007 — Doc. X]
 
 **VI. DOS DOCUMENTOS JUNTOS**
 [Lista numerada]
 
 **VII. DO PEDIDO**
-Requer-se a concessão de autorização de residência para exercício de atividade profissional [subordinada/independente], pelo prazo de [duração], ao abrigo do artigo [88.º/89.º] da Lei n.º 23/2007.
+Requer-se a concessão de autorização de residência para exercício de atividade profissional [subordinada/independente], temporária, válida por dois anos e renovável por períodos sucessivos de três anos (artigo 75.º, n.º 1), ao abrigo do artigo [88.º/89.º] da Lei n.º 23/2007.
 
 [Local e data]
 [Nome do advogado — Cédula OA n.º]
@@ -102,7 +104,7 @@ Requer-se a concessão de autorização de residência para exercício de ativid
 *Trabalho Subordinado (art. 88.º):*
 - [ ] Contrato de trabalho celebrado por escrito (com menção à autorização de residência)
 - [ ] Declaração da entidade empregadora de oferta de emprego
-- [ ] Inscrição do empregador no IEFP (quando exigível) [■ VERIFICAR]
+- [ ] Comprovativo de inscrição do trabalhador na segurança social (art. 88.º, n.º 1)
 - [ ] Declaração da entidade empregadora sobre situação contributiva regularizada
 - [ ] Recibos de vencimento (se já em exercício de funções)
 
@@ -111,7 +113,7 @@ Requer-se a concessão de autorização de residência para exercício de ativid
 - [ ] Declaração de início de atividade (modelo AT)
 - [ ] Plano de negócios ou declaração de atividade e rendimento esperado
 - [ ] Faturas ou recibos emitidos (se já em atividade)
-- [ ] Seguro de saúde ou inscrição no regime de segurança social dos trabalhadores independentes
+- [ ] Comprovativo de inscrição na segurança social (requisito obrigatório — art. 89.º, n.º 1, al. d))
 
 *Documentos comuns:*
 - [ ] Passaporte válido e fotocópia integral
@@ -125,7 +127,7 @@ Requer-se a concessão de autorização de residência para exercício de ativid
 Apresente dentro de um bloco <checklist_validacao>:
 - [ ] Artigo correto identificado: 88.º (subordinado) ou 89.º (independente)
 - [ ] Contrato de trabalho / abertura de atividade em conformidade com a lei
-- [ ] Necessidade de autorização IEFP avaliada
+- [ ] Visto de residência válido ou visto para procura de trabalho comprovado (art. 77.º, n.º 1, al. a))
 - [ ] Situação contributiva do empregador e do requerente verificada
 - [ ] Meios de subsistência suficientes demonstrados
 - [ ] NIF e NISS referenciados
@@ -174,13 +176,25 @@ Apresente dentro de um bloco <checklist_validacao>:
 
 | Citação | Estado | Nota |
 |---|---|---|
+| art. 77.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 77.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 77.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 77.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 59.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 5.º do Código do Trabalho | conferida (epígrafe) — Forma e conteúdo de contrato com trabalhador estrangeiro ou apátrida |  |
 | art. 88.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 88.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 88.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 88.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 88.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 89.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 89.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 89.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 89.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 89.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | Art. 88.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | Art. 88.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | Art. 89.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| Art. 52.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| Art. 77.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| Art. 75.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| artigo 75.º | por conferir [■ VERIFICAR] | diploma não identificado |

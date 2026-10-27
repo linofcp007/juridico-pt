@@ -6,7 +6,7 @@ Abre uma ficha com `obter_ficha` (código) ou lê o ficheiro. As citações por 
 
 | Código | Ficha | EN | Citações | Ficheiro |
 |---|---|---|---|---|
-| DES-001 | Contrato de Trabalho Desportivo de Praticante Profissional | Sports Employment Contract for a Professional Athlete | 0 conf. · 16 por conf. | [DES-001-contrato-de-trabalho-desportivo-de-praticante-profissional.md](DES-001-contrato-de-trabalho-desportivo-de-praticante-profissional.md) |
+| DES-001 | Contrato de Trabalho Desportivo de Praticante Profissional | Sports Employment Contract for a Professional Athlete | 0 conf. · 26 por conf. | [DES-001-contrato-de-trabalho-desportivo-de-praticante-profissional.md](DES-001-contrato-de-trabalho-desportivo-de-praticante-profissional.md) |
 | DES-002 | Contrato de Formação Desportiva de Jovem Atleta | Sports Training Contract for a Young Athlete | 0 conf. · 9 por conf. | [DES-002-contrato-de-formacao-desportiva-de-jovem-atleta.md](DES-002-contrato-de-formacao-desportiva-de-jovem-atleta.md) |
 | DES-003 | Contrato de Representação / Empresário Desportivo | Representation Agreement / Sports Agent | 4 conf. · 1 por conf. | [DES-003-contrato-de-representacao-empresario-desportivo.md](DES-003-contrato-de-representacao-empresario-desportivo.md) |
 | DES-004 | Contrato de Cedência (Empréstimo) de Atleta | Athlete Loan Agreement (Cedência) | 1 conf. · 5 por conf. | [DES-004-contrato-de-cedencia-emprestimo-de-atleta.md](DES-004-contrato-de-cedencia-emprestimo-de-atleta.md) |
