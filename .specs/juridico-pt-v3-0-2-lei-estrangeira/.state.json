@@ -1,0 +1,195 @@
+{
+  "lang": "pt",
+  "kind": "change",
+  "size": "xs",
+  "tracks": [
+    "core"
+  ],
+  "approvals": {
+    "tasks": {
+      "at": "2026-10-27T17:01:33.779Z",
+      "by": "Administrator",
+      "fingerprint": "8d72c732fce7fd42cbf42d45053f695008106a6f",
+      "file": "change.md",
+      "wsFingerprint": "7bc034f5a95546c997092987d05eeab242597878"
+    },
+    "execution": {
+      "at": "2026-10-27T17:01:37.863Z",
+      "by": "Administrator"
+    }
+  },
+  "createdAt": "2026-10-27T16:56:21.092Z",
+  "branch": {
+    "name": "feature/juridico-pt-v3-0-2-lei-estrangeira",
+    "base": "main",
+    "commit": "468530a352b757ca8c240542d4124bd19f344c82",
+    "at": "2026-10-27T16:56:21.092Z"
+  },
+  "lastEditAt": "2026-10-27T16:59:28.166Z",
+  "approvalHistory": [
+    {
+      "phase": "tasks",
+      "at": "2026-10-27T16:56:41.546Z",
+      "by": "Administrator",
+      "file": "change.md",
+      "fingerprint": "45f670744ae1ca76ed98cd972287b7c1c30320c2",
+      "wsFingerprint": "d7860148f0560a619497f46e81860ac73770c285",
+      "batch": true,
+      "snapshot": ".history/tasks@1.md"
+    },
+    {
+      "phase": "tasks",
+      "at": "2026-10-27T17:01:33.779Z",
+      "by": "Administrator",
+      "file": "change.md",
+      "fingerprint": "8d72c732fce7fd42cbf42d45053f695008106a6f",
+      "wsFingerprint": "7bc034f5a95546c997092987d05eeab242597878",
+      "snapshot": ".history/tasks@2.md"
+    },
+    {
+      "phase": "execution",
+      "at": "2026-10-27T17:01:37.863Z",
+      "by": "Administrator"
+    }
+  ],
+  "lastApprovedPhase": "execution",
+  "evidence": {
+    "1": {
+      "command": "cd mcp-server && npm run build && node scripts/gerar-integracoes.mjs --check && node --test --test-name-pattern \"T-460|T-401|T-234\" test/v30.test.mjs test/plugin.test.mjs",
+      "exitCode": 0,
+      "summary": "T-460 (vermelho antes: as 6 superfícies recusavam redigir) agora verde; T-401 e T-234 verdes; integrações em dia; INSTRUCOES_MCP 1988 caracteres",
+      "at": "2026-10-27T16:57:58.184Z",
+      "observed": false,
+      "cmdRule": 1,
+      "history": [
+        {
+          "command": "cd mcp-server && npm run build && node scripts/gerar-integracoes.mjs --check && node --test --test-name-pattern \"T-460|T-401|T-234\" test/v30.test.mjs test/plugin.test.mjs",
+          "exitCode": 0,
+          "summary": "T-460 (vermelho antes: as 6 superfícies recusavam redigir) agora verde; T-401 e T-234 verdes; integrações em dia; INSTRUCOES_MCP 1988 caracteres",
+          "at": "2026-10-27T16:57:58.184Z",
+          "observed": false,
+          "cmdRule": 1
+        }
+      ],
+      "task": "[US1] Regra nova em `persona.ts`, que inclui a persona, as instruções do servidor e as integrações. Também no `SKILL.md` e no guia do redator. Teste T-460 em `v30.test.mjs`: a regra está nas superfícies, sem \"não se redige\" e com PT-PT.",
+      "verify": "cd mcp-server && npm run build && node scripts/gerar-integracoes.mjs --check && node --test --test-name-pattern \"T-460|T-401|T-234\" test/v30.test.mjs test/plugin.test.mjs"
+    },
+    "2": {
+      "command": "node -e \"const t=require('fs').readFileSync('.specs/juridico-pt-v3-0-2-lei-estrangeira/change.md','utf8'); if(!/a04[^\\n]*3\\/3/.test(t)) process.exit(1)\"",
+      "exitCode": 0,
+      "summary": "a04 3/3 no commit dc41c4b (claude plugin eval, 3 execuções, 0,43 USD); grader 03-salvaguardas testado 6/6",
+      "at": "2026-10-27T16:59:35.488Z",
+      "commit": "dc41c4b",
+      "dirty": true,
+      "observed": false,
+      "cmdRule": 1,
+      "history": [
+        {
+          "command": "node -e \"const t=require('fs').readFileSync('.specs/juridico-pt-v3-0-2-lei-estrangeira/change.md','utf8'); if(!/a04[^\\n]*3\\/3/.test(t)) process.exit(1)\"",
+          "exitCode": 0,
+          "summary": "a04 3/3 no commit dc41c4b (claude plugin eval, 3 execuções, 0,43 USD); grader 03-salvaguardas testado 6/6",
+          "at": "2026-10-27T16:59:35.488Z",
+          "commit": "dc41c4b",
+          "dirty": true,
+          "observed": false,
+          "cmdRule": 1
+        }
+      ],
+      "task": "[US1] Avaliação a04 com o grader `03-salvaguardas`, testado com respostas certas e erradas, e corrida com `--runs 3` sobre o commit da regra nova, a 3/3.",
+      "verify": "node -e \"const t=require('fs').readFileSync('.specs/juridico-pt-v3-0-2-lei-estrangeira/change.md','utf8'); if(!/a04[^\\n]*3\\/3/.test(t)) process.exit(1)\""
+    },
+    "3": {
+      "command": "cd mcp-server && npm test && cd .. && python -I skills/juridico-pt/scripts/test_scripts.py",
+      "exitCode": 0,
+      "summary": "npm test 248 pass / 0 fail + SMOKE OK (inclui T-460); Python 55 OK. Versão 3.0.2 nos 6 sítios e no package-lock; CHANGELOG [3.0.2]; README",
+      "at": "2026-10-27T17:00:48.421Z",
+      "observed": false,
+      "cmdRule": 1,
+      "history": [
+        {
+          "command": "cd mcp-server && npm test && cd .. && python -I skills/juridico-pt/scripts/test_scripts.py",
+          "exitCode": 0,
+          "summary": "npm test 248 pass / 0 fail + SMOKE OK (inclui T-460); Python 55 OK. Versão 3.0.2 nos 6 sítios e no package-lock; CHANGELOG [3.0.2]; README",
+          "at": "2026-10-27T17:00:48.421Z",
+          "observed": false,
+          "cmdRule": 1
+        }
+      ],
+      "task": "[US1] Versão 3.0.2 nos 6 sítios e no package-lock, CHANGELOG `## [3.0.2]`, README e suites completas verdes.",
+      "verify": "cd mcp-server && npm test && cd .. && python -I skills/juridico-pt/scripts/test_scripts.py"
+    }
+  },
+  "lastTickAt": "2026-10-27T17:00:48.421Z",
+  "ticks": {
+    "1": "2026-10-27T16:57:58.184Z",
+    "2": "2026-10-27T16:59:35.488Z",
+    "3": "2026-10-27T17:00:48.421Z"
+  },
+  "finishChecks": {
+    "mcp-test": {
+      "command": "npm --prefix mcp-server test",
+      "exitCode": 0,
+      "summary": "248 pass, 0 fail; SMOKE OK",
+      "at": "2026-10-27T17:01:21.643Z",
+      "commit": "04f08e5",
+      "dirty": false,
+      "observed": false,
+      "cmdRule": 1,
+      "check": "npm --prefix mcp-server test",
+      "code": "00c4f0c88f81ef56176fd17e196dd5ac95507347",
+      "history": [
+        {
+          "command": "npm --prefix mcp-server test",
+          "exitCode": 0,
+          "summary": "248 pass, 0 fail; SMOKE OK",
+          "at": "2026-10-27T17:01:21.643Z",
+          "commit": "04f08e5",
+          "dirty": false,
+          "observed": false,
+          "cmdRule": 1
+        }
+      ]
+    },
+    "py-test": {
+      "command": "python skills/juridico-pt/scripts/test_scripts.py",
+      "exitCode": 0,
+      "summary": "Ran 55 tests OK",
+      "at": "2026-10-27T17:01:21.643Z",
+      "commit": "04f08e5",
+      "dirty": false,
+      "observed": false,
+      "cmdRule": 1,
+      "check": "python skills/juridico-pt/scripts/test_scripts.py",
+      "code": "00c4f0c88f81ef56176fd17e196dd5ac95507347",
+      "history": [
+        {
+          "command": "python skills/juridico-pt/scripts/test_scripts.py",
+          "exitCode": 0,
+          "summary": "Ran 55 tests OK",
+          "at": "2026-10-27T17:01:21.643Z",
+          "commit": "04f08e5",
+          "dirty": false,
+          "observed": false,
+          "cmdRule": 1
+        }
+      ]
+    }
+  },
+  "finished": {
+    "at": "2026-10-27T17:01:37.736Z",
+    "files": {
+      "mcp-server/src/persona.ts": "62522733b9e150180b30fed4b89c692ea89ac49c",
+      "skills/juridico-pt/SKILL.md": "5f25bf456a1146a901caff8f3d4b9b05fa1b75bc",
+      "skills/juridico-pt/assets/redacao/redator.md": "17e9b5cfd0b5b3d306b335142d6d06d56657afed",
+      "mcp-server/test/v30.test.mjs": "3dcdef7ab42d8c5f2b6a628572fa2e38ffca4689",
+      "evals/a04-direito-brasileiro/graders/03-salvaguardas.md": "8b0166e7e2707ecf9e2c9b25c14c304c80905743",
+      ".claude-plugin/plugin.json": "b4a7ca442f0e916b051e58e607192c719dc8b8e2",
+      ".claude-plugin/marketplace.json": "412614bd21c7a3ec7a316d1b94a721abd912facb",
+      "package.json": "1ddf9bb8e25dc2f640f1ab0e6030c4a0ed5ac99c",
+      "mcp-server/package.json": "bea03b6f3806f5feda408a0e54ad04d2b8b31436",
+      "mcp-server/src/index.ts": "dde6659f3fba43f56903460ceb69dd45a3a5fbcc",
+      "CHANGELOG.md": "1a226c01bfa7f48cf162cce08f68ebc625b11aba",
+      "README.md": "ec60924957f9262f5f9a61f96e0abdbb71e9ffdf"
+    }
+  }
+}

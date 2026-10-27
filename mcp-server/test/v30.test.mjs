@@ -746,3 +746,29 @@ test("T-457 as lacunas da comparação estão nos modelos que substituem os temp
   }
   assert.deepEqual(falhas, []);
 });
+
+// ---------------- 3.0.2 — documento regido pela lei de outro país ----------------
+
+test("T-460 lei de outro país: redige-se com salvaguardas (fora da base conferida, [■ VERIFICAR], advogado desse país), sempre em PT-PT", async () => {
+  const { PERSONA, PERSONA_INTEGRACOES, INSTRUCOES_MCP } = await mod("persona.js");
+  const superficies = {
+    PERSONA,
+    PERSONA_INTEGRACOES,
+    INSTRUCOES_MCP,
+    "skills/juridico-pt/SKILL.md": ler(SKILL("SKILL.md")),
+    "assets/redacao/redator.md": ler(REDATOR_GUIA),
+    "AGENTS.md": ler(r("AGENTS.md")),
+  };
+  const falhas = [];
+  for (const [nome, t] of Object.entries(superficies)) {
+    // A regra vive na(s) linha(s) que falam da lei de outro país.
+    const regra = t.split(/\r?\n/).filter((l) => /outro pa[íi]s/i.test(l)).join(" ");
+    if (!regra) { falhas.push(`${nome}: sem a regra da lei de outro país`); continue; }
+    if (/n[ãa]o se redige|n[ãa]o redijas/i.test(regra)) falhas.push(`${nome}: ainda recusa redigir`);
+    if (!/fora da base conferida/i.test(regra)) falhas.push(`${nome}: sem "fora da base conferida"`);
+    if (!/VERIFICAR/.test(regra)) falhas.push(`${nome}: sem [■ VERIFICAR] nas normas estrangeiras`);
+    if (!/advogad\w*[^.]{0,40}(desse|nesse|daquele) pa[íi]s|advogado (local|inscrito nesse)/i.test(regra)) falhas.push(`${nome}: sem advogado desse país`);
+    if (!/PT-PT|portugu[êe]s de Portugal/i.test(regra)) falhas.push(`${nome}: sem PT-PT`);
+  }
+  assert.deepEqual(falhas, []);
+});
