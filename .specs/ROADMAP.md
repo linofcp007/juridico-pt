@@ -2,14 +2,14 @@
 
 <!-- AUTO-GERADO por dev-spec — não editar à mão. -->
 
-**Progresso: 91%** ▰▰▰▰▰▰▰▰▰▱ · 7/8 features completas · 170/185 tasks feitas
+**Progresso: 92%** ▰▰▰▰▰▰▰▰▰▱ · 7/8 features completas · 172/185 tasks feitas
 
-_Velocidade: 26 ponto(s)/dia útil — 170 tarefa(s), 442 ponto(s) concluídos desde 2026-10-03 (últimos 28 dias)_
+_Velocidade: 26.35 ponto(s)/dia útil — 172 tarefa(s), 448 ponto(s) concluídos desde 2026-10-03 (últimos 28 dias)_
 
 Legenda: ✅ feito · 🟡 em curso · ⛔ bloqueada · 📋 planeada · ⬜ por começar
 
 ## ▶ A seguir
-- **juridico-pt-v3-1-fichas** (core +tdd +ai) — próxima #1 Base dos 10 casos novos (g51–g58, a14, r06
+- **juridico-pt-v3-1-fichas** (core +tdd +ai) — próxima #2 Lista fechada `mcp-server/scripts/ao90.jso
 
 ## Features
 
@@ -22,7 +22,7 @@ Legenda: ✅ feito · 🟡 em curso · ⛔ bloqueada · 📋 planeada · ⬜ por
 | ✅ | [juridico-pt-v3-0-1-redator-unificado](./juridico-pt-v3-0-1-redator-unificado/change.md) | core | concluída | 100% | 3/3 | — | — | — |
 | ✅ | [juridico-pt-v3-0-2-lei-estrangeira](./juridico-pt-v3-0-2-lei-estrangeira/change.md) | core | concluída | 100% | 3/3 | — | — | — |
 | ✅ | [juridico-pt-v3-0-redator](./juridico-pt-v3-0-redator/requirements.md) | core +tdd +ai +privacy | concluída | 100% | 27/27 | advogado-pt-v1-1-empresas ✓, advogado-pt-v1-2-1-correcoes ✓ | — | — |
-| 📋 | [juridico-pt-v3-1-fichas](./juridico-pt-v3-1-fichas/requirements.md) | core +tdd +ai | tarefas prontas | 30% | 0/15 | advogado-pt-v1-1-empresas ✓, advogado-pt-v1-2-1-correcoes ✓, advogado-pt-v1-2-operacional ✓, juridico-pt-v2-0 ✓, juridico-pt-v3-0-redator ✓, juridico-pt-v3-0-1-redator-unificado ✓, juridico-pt-v3-0-2-lei-estrangeira ✓ | #1 Base dos 10 casos novos (g51–g58, a14, r06 | 2026-10-28 (10-28…10-29) |
+| 🟡 | [juridico-pt-v3-1-fichas](./juridico-pt-v3-1-fichas/requirements.md) | core +tdd +ai | em execução | 39% | 2/15 | advogado-pt-v1-1-empresas ✓, advogado-pt-v1-2-1-correcoes ✓, advogado-pt-v1-2-operacional ✓, juridico-pt-v2-0 ✓, juridico-pt-v3-0-redator ✓, juridico-pt-v3-0-1-redator-unificado ✓, juridico-pt-v3-0-2-lei-estrangeira ✓ | #2 Lista fechada `mcp-server/scripts/ao90.jso | 2026-10-28 |
 
 Previsão = pontos por fazer ÷ velocidade, em dias úteis (±25%) · `_Size: XS|S|M|L|XL_` numa tarefa = 1/2/3/5/8 pontos; uma tarefa sem tamanho conta como a mediana da sua feature (senão M) · uma feature à espera de uma dependência começa depois da previsão dessa.
 

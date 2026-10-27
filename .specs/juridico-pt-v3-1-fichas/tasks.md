@@ -13,7 +13,7 @@
 - Origem do kit, só de leitura: `C:\Users\Administrator\Downloads\skills-juridicas-pro`. Nunca correr nada de lá.
 
 ## Fase: Base das avaliações
-- [ ] 1. [shared] Base dos 10 casos novos (g51–g58, a14, r06) sobre a 3.0.2. Corre num worktree isolado em 02bd1db, com os casos copiados, `--runs 1`, teto de 5 USD e confirmação do utilizador. Regista a data, o modelo e a pontuação por conjunto em `eval-base-3.0.2.md`.
+- [x] 1. [shared] Base dos 10 casos novos (g51–g58, a14, r06) sobre a 3.0.2. Corre num worktree isolado em 02bd1db, com os casos copiados, `--runs 1`, teto de 5 USD e confirmação do utilizador. Regista a data, o modelo e a pontuação por conjunto em `eval-base-3.0.2.md`.
   - _Requirements: US-6.AC-2_
   - _Verify: node -e "const t=require('fs').readFileSync('.specs/juridico-pt-v3-1-fichas/eval-base-3.0.2.md','utf8'); if(!/Golden[\s\S]*Adversarial/.test(t)||!/2026-\d\d-\d\d/.test(t)) process.exit(1)"_
 
@@ -23,7 +23,7 @@
   - _Makes green: T-510_
   - _Implements: mcp-server/scripts/ao90.json_
   - _Verify: cd mcp-server && npm run build && node --test --test-name-pattern "T-510" test/v31.test.mjs_
-- [ ] 3. [US4] `mcp-server/scripts/gerar-epigrafes.mjs` e as epígrafes versionadas dos 25 diplomas em `skills/juridico-pt/references/epigrafes/`, com a fonte, o URL e a data. Vêm da PGDL e, no caso do RGPD e do TFUE, do EUR-Lex.
+- [x] 3. [US4] `mcp-server/scripts/gerar-epigrafes.mjs` e as epígrafes versionadas dos 25 diplomas em `skills/juridico-pt/references/epigrafes/`, com a fonte, o URL e a data. Vêm da PGDL e, no caso do RGPD e do TFUE, do EUR-Lex.
   - _Requirements: US-4.AC-2_
   - _Makes green: T-515_
   - _Implements: mcp-server/scripts/gerar-epigrafes.mjs, skills/juridico-pt/references/epigrafes/*.json_
