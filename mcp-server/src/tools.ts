@@ -57,6 +57,7 @@ import { avisoGitignore } from "./dados.js";
 import { dirProjeto } from "./fs-seguro.js";
 import { verificarAtualidade, textoAtualidade } from "./atualidade.js";
 import { painelClientes, textoPainel } from "./painel.js";
+import { LINHA_REVISAO } from "./persona.js";
 
 const AVISO =
   "\n\n⚠️ Estimativa de apoio. Valores/taxas de 2026 — confirmar no ano corrente. A decisão final é de quem assina (o advogado responsável ou o utilizador).";
@@ -771,7 +772,8 @@ export function registerTools(servidor: McpServer): void {
         `Documento exportado: ${r.caminho} (${Math.ceil(r.bytes / 1024)} KB).` +
           (r.placeholders ? `\n⚠️ Ainda tem ${r.placeholders} campo(s) {{...}} por preencher.` : "") +
           marcadores +
-          "\nAbre no Word ou no LibreOffice e revê antes de enviar (a lista 'Antes de enviar — verificar' não vai no ficheiro)." +
+          // A entrega da casa (assets/redacao/entrega.md), aqui também para quando o skill não foi lido.
+          `\nEntrega ao utilizador: o nome do ficheiro, 3 a 5 itens "Confira antes de assinar" (marcadores e onde estão, prazos com a data de referência, valores por defeito aplicados) e, a fechar, a linha: "${LINHA_REVISAO}"` +
           notaGitignore(diretorio)
       );
     }
