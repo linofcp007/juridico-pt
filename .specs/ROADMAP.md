@@ -35,7 +35,7 @@ graph LR
 
 ## ⚠ Precisa de atenção
 
-- **juridico-pt-v3-0-redator** — alterado desde a aprovação — rever de novo: eval-plan.md
+_Nada a assinalar ✓_
 
 ## Backlog (planeadas, ainda sem spec)
 
