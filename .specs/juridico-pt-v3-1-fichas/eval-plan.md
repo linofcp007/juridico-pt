@@ -50,7 +50,7 @@ Base dos 10 casos novos (g51–g58, a14, r06): correr esses casos com `--runs 1`
 | Golden (g51–g58) | **100 %** (8/8 casos a 3/3) | 12,5 % (1/8) | ≥ 90 % | ✓ |
 | Adversarial (a14) | **100 %** (3/3) | 100 % (1/1) | 100 % | ✓ |
 | Regressão (r06) | **100 %** (3/3) | 100 % (1/1) | 100 % | ✓ |
-| Não piorar (68 casos da 3.0) | não repetido | 100 % (3.0.0) | ≥ 95 % | por confirmar |
+| Não piorar (68 casos da 3.0) | **100 %** (68/68 no resultado mais recente; 66/68 na 1.ª passagem) | 100 % (3.0.0) | ≥ 95 % | ✓ |
 | Revisão humana (10 fichas) | por fazer pelo Carlos ou por um advogado da casa (`quickstart.md`) | — | — | por fazer |
 
 **Leitura:**
@@ -59,6 +59,23 @@ Base dos 10 casos novos (g51–g58, a14, r06): correr esses casos com `--runs 1`
 - **a14 e r06:** com a ficha TRA-005 corrigida no catálogo, o assistente não dá o art. 157.º CT como norma do trabalho suplementar.
 - Nenhum grader precisou de correção e não houve falhas a reclassificar.
 
+### Os 68 casos da 3.0, com a 3.1
+
+O utilizador autorizou até 50 USD. Com o custo real (0,43 USD por execução), 3 execuções de cada caso passavam desse teto. Por isso:
+1. **1.ª passagem** (commit 2ca4093): uma execução de cada caso, 15,66 USD. Resultado: 66/68.
+2. **Falhas reais, corrigidas:**
+   - **g49** (comodato de um carro, sem modelo nem template): redigiu de memória. Procurou com `procurar_conteudo`, que não via as fichas, e não chegou à ficha CIV-006. Agora `procurar_conteudo` junta as fichas mais próximas, e `listar_modelos` e `listar_templates` terminam com o passo seguinte: template, depois ficha (commit 51a1f49).
+   - **g47** (entrega): a saída do `exportar_documento` dizia «a lista 'Antes de enviar — verificar' não vai no ficheiro», e a entrega saía com esse título em vez de «Confira antes de assinar». Passa a lembrar a entrega da casa (commit c605628).
+3. **Graders corrigidos e testados** com respostas certas e erradas:
+   - **g49:** a resposta certa pode ser a entrevista que nomeia a ficha CIV-006 antes de redigir, o mesmo critério da 3.0 para o anúncio da fonte oficial.
+   - **g45:** os valores por defeito também se dizem «se não responder» ou «se nada disser».
+4. **Depois das correções** (commit c605628):
+   - g47 e g49: 3/3 cada.
+   - Os 21 casos que usam as tools alteradas (`exportar_documento`, `listar_modelos`, `listar_templates`, `procurar_conteudo`), uma execução cada: 19/21.
+   - g41 entrevistou antes de redigir; repetido, 2/2.
+   - g45: as duas execuções que falharam passam com o grader corrigido (traces reclassificados, sem nova corrida).
+5. **Custo:** 30,73 USD.
+
 **Ressalvas:**
-- **Casos antigos não repetidos.** A 3.1 mexeu na persona e nas instruções do servidor, mas só para acrescentar as fichas (ordem modelo → template → ficha) e encurtar duas frases das instruções para caberem nos 2000 caracteres. Uma delas é o exemplo «(registo, contabilista)» da regra da lei estrangeira, que a persona completa mantém. A corrida completa dos 68 casos (cerca de 50 USD) fica para decisão do utilizador.
+- **Uma execução por caso nos 68 antigos**, em vez das 3 da 3.0, para caber no teto. Os casos tocados pelas correções têm 2 ou 3.
 - **Rubrica:** não corrida; só verificações determinísticas, como na 3.0.
