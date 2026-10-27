@@ -2519,6 +2519,7 @@ function ler(cat, nome) {
   if (!existsSync3(caminho2)) return null;
   return readFileSync3(caminho2, "utf8");
 }
+var DIR_FICHAS = join5(CONTENT_DIR, "fichas");
 
 // src/atualidade.ts
 function limiteJuros(ano, semestre) {

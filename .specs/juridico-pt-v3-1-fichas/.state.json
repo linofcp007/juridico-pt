@@ -243,6 +243,30 @@
       "task": "[shared] Base dos 10 casos novos (g51–g58, a14, r06) sobre a 3.0.2. Corre num worktree isolado em 02bd1db, com os casos copiados, `--runs 1`, teto de 5 USD e confirmação do utilizador. Regista a data, o modelo e a pontuação por conjunto em `eval-base-3.0.2.md`.",
       "verify": "node -e \"const t=require('fs').readFileSync('.specs/juridico-pt-v3-1-fichas/eval-base-3.0.2.md','utf8'); if(!/Golden[\\s\\S]*Adversarial/.test(t)||!/2026-\\d\\d-\\d\\d/.test(t)) process.exit(1)\""
     },
+    "2": {
+      "command": "cd mcp-server && npm run build && node --test --test-name-pattern \"T-510\" test/v31.test.mjs",
+      "exitCode": 0,
+      "summary": "T-510 pass 1 fail 0 (zero formas AO90/PT-BR nas 1256 fichas; fato/fatos acrescentados ao ptbr)",
+      "at": "2026-10-27T19:57:03.171Z",
+      "commit": "daa1f01",
+      "dirty": true,
+      "observed": false,
+      "cmdRule": 1,
+      "history": [
+        {
+          "command": "cd mcp-server && npm run build && node --test --test-name-pattern \"T-510\" test/v31.test.mjs",
+          "exitCode": 0,
+          "summary": "T-510 pass 1 fail 0 (zero formas AO90/PT-BR nas 1256 fichas; fato/fatos acrescentados ao ptbr)",
+          "at": "2026-10-27T19:57:03.171Z",
+          "commit": "daa1f01",
+          "dirty": true,
+          "observed": false,
+          "cmdRule": 1
+        }
+      ],
+      "task": "[US3] Lista fechada `mcp-server/scripts/ao90.json`, com as formas anteriores ao AO90 encontradas no kit e a forma atual. Cada entrada é revista. As formas que se mantêm em PT (facto, contacto, impacto, pacto, secção) ficam listadas à parte como `manter`.",
+      "verify": "cd mcp-server && npm run build && node --test --test-name-pattern \"T-510\" test/v31.test.mjs"
+    },
     "3": {
       "command": "cd mcp-server && npm run build && node --test --test-name-pattern \"T-515\" test/v31.test.mjs",
       "exitCode": 0,
@@ -262,11 +286,237 @@
       ],
       "task": "[US4] `mcp-server/scripts/gerar-epigrafes.mjs` e as epígrafes versionadas dos 25 diplomas em `skills/juridico-pt/references/epigrafes/`, com a fonte, o URL e a data. Vêm da PGDL e, no caso do RGPD e do TFUE, do EUR-Lex.",
       "verify": "cd mcp-server && npm run build && node --test --test-name-pattern \"T-515\" test/v31.test.mjs"
+    },
+    "4": {
+      "command": "cd mcp-server && npm run build && node --test --test-name-pattern \"T-506\" test/v31.test.mjs",
+      "exitCode": 0,
+      "summary": "T-506 pass 1 fail 0 (114 entradas: 63 mesmo-documento, 51 complementa)",
+      "at": "2026-10-27T19:57:03.316Z",
+      "commit": "daa1f01",
+      "dirty": true,
+      "observed": false,
+      "cmdRule": 1,
+      "history": [
+        {
+          "command": "cd mcp-server && npm run build && node --test --test-name-pattern \"T-506\" test/v31.test.mjs",
+          "exitCode": 0,
+          "summary": "T-506 pass 1 fail 0 (114 entradas: 63 mesmo-documento, 51 complementa)",
+          "at": "2026-10-27T19:57:03.316Z",
+          "commit": "daa1f01",
+          "dirty": true,
+          "observed": false,
+          "cmdRule": 1
+        }
+      ],
+      "task": "[US2] Mapa de sobreposições `assets/fichas/sobreposicoes.json`. Parte dos candidatos automáticos por título, revistos um a um (`mesmo-documento` ou `complementa`); os falsos positivos ficam fora.",
+      "verify": "cd mcp-server && npm run build && node --test --test-name-pattern \"T-506\" test/v31.test.mjs"
+    },
+    "5": {
+      "command": "cd mcp-server && npm run build && node --test --test-name-pattern \"T-516|T-526\" test/v31.test.mjs",
+      "exitCode": 0,
+      "summary": "T-516, T-526 pass 2 fail 0 (importador: fixture, idempotência e --check com a origem real)",
+      "at": "2026-10-27T19:57:03.392Z",
+      "commit": "daa1f01",
+      "dirty": true,
+      "observed": false,
+      "cmdRule": 1,
+      "history": [
+        {
+          "command": "cd mcp-server && npm run build && node --test --test-name-pattern \"T-516|T-526\" test/v31.test.mjs",
+          "exitCode": 0,
+          "summary": "T-516, T-526 pass 2 fail 0 (importador: fixture, idempotência e --check com a origem real)",
+          "at": "2026-10-27T19:57:03.392Z",
+          "commit": "daa1f01",
+          "dirty": true,
+          "observed": false,
+          "cmdRule": 1
+        }
+      ],
+      "task": "[US1] `mcp-server/scripts/importar-fichas.mjs` (`--origem`, `--destino`, `--check`). Faz isto:",
+      "verify": "cd mcp-server && npm run build && node --test --test-name-pattern \"T-516|T-526\" test/v31.test.mjs"
+    },
+    "6": {
+      "command": "cd mcp-server && npm run build && node scripts/importar-fichas.mjs --origem \"C:/Users/Administrator/Downloads/skills-juridicas-pro\" --check && node --test --test-name-pattern \"T-519\" test/v31.test.mjs",
+      "exitCode": 0,
+      "summary": "OK: 1256 fichas em dia; T-519 pass 1 fail 0 (1319 traduções EN, 4 lotes)",
+      "at": "2026-10-27T19:57:03.464Z",
+      "commit": "daa1f01",
+      "dirty": true,
+      "observed": false,
+      "cmdRule": 1,
+      "history": [
+        {
+          "command": "cd mcp-server && npm run build && node scripts/importar-fichas.mjs --origem \"C:/Users/Administrator/Downloads/skills-juridicas-pro\" --check && node --test --test-name-pattern \"T-519\" test/v31.test.mjs",
+          "exitCode": 0,
+          "summary": "OK: 1256 fichas em dia; T-519 pass 1 fail 0 (1319 traduções EN, 4 lotes)",
+          "at": "2026-10-27T19:57:03.464Z",
+          "commit": "daa1f01",
+          "dirty": true,
+          "observed": false,
+          "cmdRule": 1
+        }
+      ],
+      "task": "[US5] Traduções `assets/fichas/traducoes-en.json`: título e descrição EN de todas as fichas importadas, em inglês jurídico, com o termo português entre parênteses quando não há equivalente. São feitas por área e revistas por amostra.",
+      "verify": "cd mcp-server && npm run build && node scripts/importar-fichas.mjs --origem \"C:/Users/Administrator/Downloads/skills-juridicas-pro\" --check && node --test --test-name-pattern \"T-519\" test/v31.test.mjs"
+    },
+    "7": {
+      "command": "cd mcp-server && npm run build && node --test --test-name-pattern \"T-501|T-505|T-510|T-511|T-512|T-513|T-514|T-529\" test/v31.test.mjs",
+      "exitCode": 0,
+      "summary": "8 pass 0 fail (1256 fichas importadas em 22 áreas, 63 remissões, 11621 citações)",
+      "at": "2026-10-27T19:57:03.546Z",
+      "commit": "daa1f01",
+      "dirty": true,
+      "observed": false,
+      "cmdRule": 1,
+      "history": [
+        {
+          "command": "cd mcp-server && npm run build && node --test --test-name-pattern \"T-501|T-505|T-510|T-511|T-512|T-513|T-514|T-529\" test/v31.test.mjs",
+          "exitCode": 0,
+          "summary": "8 pass 0 fail (1256 fichas importadas em 22 áreas, 63 remissões, 11621 citações)",
+          "at": "2026-10-27T19:57:03.546Z",
+          "commit": "daa1f01",
+          "dirty": true,
+          "observed": false,
+          "cmdRule": 1
+        }
+      ],
+      "task": "[US1] Importação completa para `skills/juridico-pt/assets/fichas/` (22 áreas, menos as `mesmo-documento`), com os índices e o relatório de citações.",
+      "verify": "cd mcp-server && npm run build && node --test --test-name-pattern \"T-501|T-505|T-510|T-511|T-512|T-513|T-514|T-529\" test/v31.test.mjs"
+    },
+    "8": {
+      "command": "cd mcp-server && npm run build && node scripts/importar-fichas.mjs --origem \"C:/Users/Administrator/Downloads/skills-juridicas-pro\" --check && node --test --test-name-pattern \"T-514|T-518\" test/v31.test.mjs",
+      "exitCode": 0,
+      "summary": "OK: 1256 fichas em dia; T-514, T-518 pass 2 fail 0. Revisão por 9 agentes (5363 citações) + 47 ajustes à mão: 6245 de 7148 citações com diploma reconhecido conferidas ou corrigidas (87,4 %)",
+      "at": "2026-10-27T20:09:30.964Z",
+      "commit": "daa1f01",
+      "dirty": true,
+      "observed": false,
+      "cmdRule": 1,
+      "history": [
+        {
+          "command": "cd mcp-server && npm run build && node scripts/importar-fichas.mjs --origem \"C:/Users/Administrator/Downloads/skills-juridicas-pro\" --check && node --test --test-name-pattern \"T-514|T-518\" test/v31.test.mjs",
+          "exitCode": 0,
+          "summary": "OK: 1256 fichas em dia; T-514, T-518 pass 2 fail 0. Revisão por 9 agentes (5363 citações) + 47 ajustes à mão: 6245 de 7148 citações com diploma reconhecido conferidas ou corrigidas (87,4 %)",
+          "at": "2026-10-27T20:09:30.964Z",
+          "commit": "daa1f01",
+          "dirty": true,
+          "observed": false,
+          "cmdRule": 1
+        }
+      ],
+      "task": "[US4] Revisão de citações por área. Para cada citação com sigla dos 25 diplomas que a passagem automática não confirmou, decide-se contra as epígrafes: conferida, corrigir (com o artigo certo) ou verificar (com nota). As decisões ficam em `revisao-citacoes.json` e volta a importar-se.",
+      "verify": "cd mcp-server && npm run build && node scripts/importar-fichas.mjs --origem \"C:/Users/Administrator/Downloads/skills-juridicas-pro\" --check && node --test --test-name-pattern \"T-514|T-518\" test/v31.test.mjs"
+    },
+    "9": {
+      "command": "cd mcp-server && npm run build && node --test --test-name-pattern \"T-502|T-503|T-504|T-507|T-508|T-517|T-518|T-520\" test/v31.test.mjs",
+      "exitCode": 0,
+      "summary": "8 pass 0 fail (procurar_ficha/obter_ficha, remissões, sugestões, 40 pesquisas PT/EN)",
+      "at": "2026-10-27T19:57:03.618Z",
+      "commit": "daa1f01",
+      "dirty": true,
+      "observed": false,
+      "cmdRule": 1,
+      "history": [
+        {
+          "command": "cd mcp-server && npm run build && node --test --test-name-pattern \"T-502|T-503|T-504|T-507|T-508|T-517|T-518|T-520\" test/v31.test.mjs",
+          "exitCode": 0,
+          "summary": "8 pass 0 fail (procurar_ficha/obter_ficha, remissões, sugestões, 40 pesquisas PT/EN)",
+          "at": "2026-10-27T19:57:03.618Z",
+          "commit": "daa1f01",
+          "dirty": true,
+          "observed": false,
+          "cmdRule": 1
+        }
+      ],
+      "task": "[US1] Servidor:",
+      "verify": "cd mcp-server && npm run build && node --test --test-name-pattern \"T-502|T-503|T-504|T-507|T-508|T-517|T-518|T-520\" test/v31.test.mjs"
+    },
+    "10": {
+      "command": "cd mcp-server && npm run build && node scripts/gerar-integracoes.mjs --check && node --test test/plugin.test.mjs test/v30.test.mjs test/v121.test.mjs && node --test --test-name-pattern \"T-505|T-509|T-522\" test/v31.test.mjs",
+      "exitCode": 0,
+      "summary": "integrações em dia; plugin+v30+v121 122 pass 0 fail; T-505/T-509/T-522 3 pass 0 fail (INSTRUCOES_MCP 1996 caracteres)",
+      "at": "2026-10-27T19:57:03.693Z",
+      "commit": "daa1f01",
+      "dirty": true,
+      "observed": false,
+      "cmdRule": 1,
+      "history": [
+        {
+          "command": "cd mcp-server && npm run build && node scripts/gerar-integracoes.mjs --check && node --test test/plugin.test.mjs test/v30.test.mjs test/v121.test.mjs && node --test --test-name-pattern \"T-505|T-509|T-522\" test/v31.test.mjs",
+          "exitCode": 0,
+          "summary": "integrações em dia; plugin+v30+v121 122 pass 0 fail; T-505/T-509/T-522 3 pass 0 fail (INSTRUCOES_MCP 1996 caracteres)",
+          "at": "2026-10-27T19:57:03.693Z",
+          "commit": "daa1f01",
+          "dirty": true,
+          "observed": false,
+          "cmdRule": 1
+        }
+      ],
+      "task": "[US2] Superfícies:",
+      "verify": "cd mcp-server && npm run build && node scripts/gerar-integracoes.mjs --check && node --test test/plugin.test.mjs test/v30.test.mjs test/v121.test.mjs && node --test --test-name-pattern \"T-505|T-509|T-522\" test/v31.test.mjs"
+    },
+    "11": {
+      "command": "python -I skills/juridico-pt/scripts/test_scripts.py TestV31Fichas",
+      "exitCode": 0,
+      "summary": "Ran 1 test OK (.skill com indice.json, >1000 fichas, 22 _INDICE.md, <= 10 MB)",
+      "at": "2026-10-27T19:57:03.765Z",
+      "commit": "daa1f01",
+      "dirty": true,
+      "observed": false,
+      "cmdRule": 1,
+      "history": [
+        {
+          "command": "python -I skills/juridico-pt/scripts/test_scripts.py TestV31Fichas",
+          "exitCode": 0,
+          "summary": "Ran 1 test OK (.skill com indice.json, >1000 fichas, 22 _INDICE.md, <= 10 MB)",
+          "at": "2026-10-27T19:57:03.765Z",
+          "commit": "daa1f01",
+          "dirty": true,
+          "observed": false,
+          "cmdRule": 1
+        }
+      ],
+      "task": "[US6] Pacote: o `juridico-pt.skill` leva as fichas e os `_INDICE.md` e fica com 10 MB ou menos (teste Python).",
+      "verify": "python -I skills/juridico-pt/scripts/test_scripts.py TestV31Fichas"
+    },
+    "13": {
+      "command": "node -e \"const t=require('fs').readFileSync('CLAUDE.md','utf8'); for (const s of ['importar-fichas','gerar-epigrafes','revisao-citacoes','sobreposicoes']) if(!t.includes(s)) { console.error('falta', s); process.exit(1) }\"",
+      "exitCode": 0,
+      "summary": "CLAUDE.md: reimportar, rever citações por área, epigrafes no calendário, regra mesmo-documento",
+      "at": "2026-10-27T20:10:13.416Z",
+      "commit": "daa1f01",
+      "dirty": true,
+      "observed": false,
+      "cmdRule": 1,
+      "history": [
+        {
+          "command": "node -e \"const t=require('fs').readFileSync('CLAUDE.md','utf8'); for (const s of ['importar-fichas','gerar-epigrafes','revisao-citacoes','sobreposicoes']) if(!t.includes(s)) { console.error('falta', s); process.exit(1) }\"",
+          "exitCode": 0,
+          "summary": "CLAUDE.md: reimportar, rever citações por área, epigrafes no calendário, regra mesmo-documento",
+          "at": "2026-10-27T20:10:13.416Z",
+          "commit": "daa1f01",
+          "dirty": true,
+          "observed": false,
+          "cmdRule": 1
+        }
+      ],
+      "task": "[shared] `CLAUDE.md` (manutenção):",
+      "verify": "node -e \"const t=require('fs').readFileSync('CLAUDE.md','utf8'); for (const s of ['importar-fichas','gerar-epigrafes','revisao-citacoes','sobreposicoes']) if(!t.includes(s)) { console.error('falta', s); process.exit(1) }\""
     }
   },
-  "lastTickAt": "2026-10-27T19:24:47.687Z",
+  "lastTickAt": "2026-10-27T20:10:13.416Z",
   "ticks": {
     "1": "2026-10-27T19:20:34.164Z",
-    "3": "2026-10-27T19:24:47.687Z"
+    "2": "2026-10-27T19:57:03.171Z",
+    "3": "2026-10-27T19:24:47.687Z",
+    "4": "2026-10-27T19:57:03.316Z",
+    "5": "2026-10-27T19:57:03.392Z",
+    "6": "2026-10-27T19:57:03.464Z",
+    "7": "2026-10-27T19:57:03.546Z",
+    "8": "2026-10-27T20:09:30.964Z",
+    "9": "2026-10-27T19:57:03.618Z",
+    "10": "2026-10-27T19:57:03.693Z",
+    "11": "2026-10-27T19:57:03.765Z",
+    "13": "2026-10-27T20:10:13.416Z"
   }
 }

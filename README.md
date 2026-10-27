@@ -17,7 +17,7 @@ Há três formas de o usar no Claude. Escolhe pela app onde trabalhas:
 | | **Plugin** (recomendado) | **Extensão `.mcpb`** | **Skill `.skill`** |
 |---|---|---|---|
 | Onde | Claude Code; conta claude.ai / app Claude (**Customize > Plugins**), sincronizado com o Claude Code | Conversas da app Claude Desktop, no computador onde a instalas | Claude.ai, Claude Desktop e Claude Code (sistema de Skills) |
-| O que traz | Tudo: o conteúdo jurídico, as 41 tools (calculadoras, modelos conferidos, verificador de redação, perfil, prazos, calendário, exportação `.docx`), os slash commands, os hooks (aviso de prazos e de atualidade ao abrir a sessão) e os subagentes | Só o servidor MCP: as 41 tools, o conteúdo como resources e o prompt `assistente_juridico` — sem commands, hooks nem subagentes | O conteúdo, as instruções e as calculadoras em Python (quando o Claude pode executar código) — sem as tools do servidor |
+| O que traz | Tudo: o conteúdo jurídico, as 43 tools (calculadoras, modelos conferidos, fichas do catálogo, verificador de redação, perfil, prazos, calendário, exportação `.docx`), os slash commands, os hooks (aviso de prazos e de atualidade ao abrir a sessão) e os subagentes | Só o servidor MCP: as 43 tools, o conteúdo como resources e o prompt `assistente_juridico` — sem commands, hooks nem subagentes | O conteúdo, as instruções e as calculadoras em Python (quando o Claude pode executar código) — sem as tools do servidor |
 | Node.js | ≥ 18 no computador (servidor MCP e hooks) | Não é preciso: usa o que o Claude Desktop traz | Não é preciso |
 | Atualizações | Automáticas, a partir deste repositório | À mão: instalar o `.mcpb` novo | À mão: carregar o `.skill` novo |
 
@@ -93,7 +93,7 @@ juridico-pt/                     # plugin Claude Code
 │   ├── assets/checklists/ (12)
 │   ├── playbooks/    (14)      # árvores de decisão
 │   └── scripts/      (15)      # calculadoras Python + testes
-├── mcp-server/                 # servidor MCP TypeScript (41 tools + resources + prompt); build:mcpb → extensão .mcpb
+├── mcp-server/                 # servidor MCP TypeScript (43 tools + resources + prompt); build:mcpb → extensão .mcpb
 ├── evals/                      # 53 casos para o `claude plugin eval` (golden, adversariais, regressão)
 ├── integrations/               # configs por plataforma (Claude Desktop, Cursor, Windsurf, Codex, Gemini, ChatGPT)
 ├── .cursor/ .windsurf/ .gemini/ .vscode/   # dotfiles de editor (dogfooding)

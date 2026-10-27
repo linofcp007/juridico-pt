@@ -60,9 +60,14 @@ const chave = (n, letra) => (letra ? `${Number(n)}-${letra.toUpperCase()}` : Str
  */
 export function lerPgdl(html) {
   const out = {};
-  for (const m of html.matchAll(/<option value="\d+A\d+[A-Z]?">\s*Artigo\s+(\d+)\.?\s*º(?:\s*-\s*([A-Z]))?[^<]*<br>\s*([^<]*)<\/option>/gi)) {
+  // O "º" e o <br> às vezes faltam ("Artigo 394<br>", "Artigo 167.<br>", "Artigo 243.º</option>" sem epígrafe).
+  for (const m of html.matchAll(/<option value="\d+A\d+[A-Z]?">\s*Artigo\s+(\d+)\.?\s*º?(?:\s*-\s*([A-Z]))?[^<]*(?:<br>([\s\S]*?))?<\/option>/gi)) {
     const k = chave(m[1], m[2]);
-    const ep = limpo(m[3]).replace(/^\((.*)\)$/, "$1").trim();
+    // Notas da PGDL em itálico no fim ("- [A redação introduzida pela Lei 8/2022…]") não fazem parte da epígrafe.
+    const sem = (m[3] ?? "").replace(/\s*-\s*<i>\s*\[[\s\S]*?\]\s*<\/i>\s*$/i, "");
+    // Entre parênteses, às vezes sem o de fecho ("(Conteúdo das responsabilidades parentais").
+    let ep = limpo(sem).trim();
+    if (ep.startsWith("(")) ep = ep.slice(1).replace(/\)$/, "").trim();
     if (!out[k]) out[k] = ep || "(sem epígrafe)";
   }
   return out;
@@ -74,6 +79,19 @@ export function lerPortalFinancas(html) {
   for (const m of html.matchAll(/Artigo(?:\s|&#160;)*(\d+)(?:\s|&#160;)*\.?\s*º(?:\s*-\s*([A-Z]))?[\s\S]{0,500}?<a [^>]*>([\s\S]*?)<\/a>/g)) {
     const k = chave(m[1], m[2]);
     if (!out[k]) out[k] = limpo(m[3]).replace(/\s*\[Revogado\]\s*$/i, "") || "(sem epígrafe)";
+  }
+  // Segunda leitura, linha a linha, só para as falhas da primeira: o índice parte às vezes o número com
+  // marcação ("Artigo 17<a …></a>.º", "<font>Artig</font><font>o</font> 68.º").
+  for (const tr of html.split(/<tr\b[^>]*>/i).slice(1)) {
+    const celulas = tr.split(/<\/td>/i);
+    const primeira = entidades((celulas[0] ?? "").replace(/<[^>]+>/g, "")).replace(/\s+/g, " ").trim();
+    const m = /^Artigo\s*(\d+)\s*\.?\s*º(?:\s*-\s*([A-Z]))?/.exec(primeira);
+    if (!m) continue;
+    const k = chave(m[1], m[2]);
+    if (out[k] && out[k] !== "(sem epígrafe)") continue;
+    const ligacoes = [...(celulas[1] ?? "").matchAll(/<a [^>]*>([\s\S]*?)<\/a>/g)].map((x) => limpo(x[1])).filter(Boolean);
+    const ep = (ligacoes[0] ?? "").replace(/\s*\[Revogado\]\s*$/i, "");
+    if (ep || !out[k]) out[k] = ep || "(sem epígrafe)";
   }
   return out;
 }

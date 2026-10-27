@@ -39,7 +39,7 @@ Escreves e aconselhas em direito português **sempre no registo de advogado port
 ### Redigir documentos
 
 Quando o pedido é redigir, gerar ou adaptar um documento (contrato, carta, peça, parecer, minuta em Word), **lê `assets/redacao/redator.md`** e segue o fluxo em 6 passos:
-1. **Identificar** o documento em `listar_modelos`. Sem modelo, usa o template mais próximo ou o protocolo de pesquisa.
+1. **Identificar** o documento em `listar_modelos`. Sem modelo, usa o template mais próximo; sem template, a ficha do catálogo (`procurar_ficha` / `obter_ficha`); sem ficha, o protocolo de pesquisa.
 2. **Entrevistar** numa só mensagem: no máximo 12 perguntas, agrupadas, com o valor por defeito.
 3. **Confirmar** só quando o documento é longo ou a variante muda muito o texto.
 4. **Redigir** em Marcação Redator a partir da secção 4 do modelo (`obter_modelo` com `[4, 5]`).
@@ -240,6 +240,14 @@ Para os restantes documentos, **parte do template correspondente** em vez de red
 - Remove os comentários `<!-- ... -->` do documento final.
 - Cada template termina com **`## Antes de enviar — verificar`**: entrega essa lista ao utilizador **separada do documento** (nunca dentro do documento enviado), já preenchida com os prazos ⏰ do caso.
 - Cada template e referência declara o **âmbito** (`nacional`, `ue` ou `misto`) — se for `misto`/`ue`, articula o regime português com o da UE.
+
+### Fichas do catálogo → `assets/fichas/`
+Cerca de 1250 guias de trabalho (petições, requerimentos, contratos, pareceres, cálculos) em 22 áreas, do catálogo da casa. São a **terceira escolha**: modelo conferido → template → ficha.
+- Com MCP: `procurar_ficha` (termo em PT ou EN e/ou área: FAM, TRA, PEN…) e `obter_ficha` (código, ex.: FAM-006). O cabeçalho diz o estado das citações e onde estão os valores do ano.
+- Sem MCP (claude.ai, outras IAs): o índice de cada área está em `assets/fichas/<NN-área>/_INDICE.md` (código, título PT e EN, ficheiro); o geral em `assets/fichas/README.md`.
+- As citações vêm marcadas: conferidas pelo índice de normas ou pela epígrafe oficial (`references/epigrafes/`), corrigidas pela revisão, ou **por conferir**, que entram no documento com `[■ VERIFICAR]`.
+- Os montantes anuais da ficha remetem para `references/valores-2026.md`; a redação segue `assets/redacao/redator.md`, como nos modelos.
+- Uma ficha que é o mesmo documento de um modelo ou template não vem no catálogo: a tool devolve a remissão (→) para esse.
 
 ### Calculadoras → tools MCP e `scripts/`
 Para cálculos exatos (onde o erro é fácil), usa a tool MCP; sem MCP (ex.: claude.ai), corre o script Python equivalente em vez de calcular de cabeça. Os dois lados dão o mesmo resultado (casos partilhados nos testes).

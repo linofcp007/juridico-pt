@@ -39,6 +39,9 @@ import {
   SUBSTITUIDOS,
   lerModeloSecoes,
   infoModelo,
+  procurarFichas,
+  lerFicha,
+  codigosFichas,
 } from "./content.js";
 import { verificarRedacao, formatarRedacao } from "./redacao.js";
 import {
@@ -681,6 +684,37 @@ export function registerTools(servidor: McpServer): void {
       if (m) return texto(m);
       return texto(`'${nome}' não encontrado. Modelos disponíveis:\n- ` + listar("modelos").join("\n- "));
     }
+  );
+
+  server.registerTool(
+    "procurar_ficha",
+    {
+      title: "Procurar ficha do catálogo",
+      description:
+        "Procura nas fichas do catálogo (cerca de 1250 guias de documentos e pareceres, 22 áreas do direito português e da UE) por termo em PT ou EN e/ou área (sigla FAM, TRA, PEN… ou nome). Devolve até 20 fichas com código, títulos PT/EN, área e estado das citações; as que são o mesmo documento de um modelo ou template do plugin aparecem como remissão (→). Sem argumentos, lista as 22 áreas. Usa quando não há modelo conferido nem template para o documento pedido. EN: search the catalogue of drafting guides.",
+      inputSchema: {
+        termo: z.string().optional().describe("O que procurar, em PT ou EN (ex.: 'regulação das responsabilidades parentais', 'parental responsibilities')"),
+        area: z.string().optional().describe("Sigla (FAM, TRA, PEN, …) ou parte do nome da área"),
+      },
+      annotations: { readOnlyHint: true, openWorldHint: false },
+    },
+    async ({ termo, area }) => texto(procurarFichas(termo, area))
+  );
+
+  server.registerTool(
+    "obter_ficha",
+    {
+      title: "Obter ficha do catálogo",
+      description:
+        "Abre uma ficha do catálogo pelo código (ex.: FAM-006), com um cabeçalho que diz o estado das citações (as por conferir vêm com [■ VERIFICAR]), a ordem de uso modelo conferido → template → ficha, onde estão os valores do ano e o fluxo de redação. Um código que é o mesmo documento de um modelo ou template devolve a remissão; um código inexistente devolve as 5 fichas mais próximas. EN: open a catalogue drafting guide by code.",
+      inputSchema: {
+        codigo: completable(z.string(), (value) =>
+          codigosFichas().filter((c) => c.startsWith((value || "").toUpperCase())).slice(0, 50)
+        ).describe("Código da ficha (ex.: FAM-006)"),
+      },
+      annotations: { readOnlyHint: true, openWorldHint: false },
+    },
+    async ({ codigo }) => texto(lerFicha(codigo))
   );
 
   server.registerTool(

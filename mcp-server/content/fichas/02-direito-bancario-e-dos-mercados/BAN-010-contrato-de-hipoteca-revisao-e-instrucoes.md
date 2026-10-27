@@ -1,0 +1,174 @@
+---
+codigo: BAN-010
+area: "Direito Bancário e dos Mercados"
+titulo: "Contrato de Hipoteca (revisão e instruções)"
+titulo_en: "Mortgage Agreement (Review and Instructions)"
+descricao: "Revê a minuta de hipoteca apresentada pelo banco no âmbito de financiamento imobiliário, analisa os elementos essenciais — montante hipotecado, grau, imóvel garantido, extensão da hipoteca, cláusulas de vencimento antecipado e registo —, identifica cláusulas problemáticas e emite instruções para o ato notarial de constituição, ao abrigo do Código Civil (arts. 686.º ss) e do Código do Notariado."
+descricao_en: "Reviews the draft mortgage (hipoteca) presented by the bank for property financing, analyses the essential elements — secured amount, ranking, mortgaged property, scope of the mortgage, acceleration clauses and registration —, identifies problematic clauses and issues instructions for the notarial act creating the mortgage, under the Civil Code (Articles 686 et seq.) and the Notarial Code (Código do Notariado)."
+ambito: nacional
+estado_citacoes: "conferidas 2 · corrigidas 2 · por conferir 6"
+origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
+---
+
+# Contrato de Hipoteca (revisão e instruções)
+
+> **Âmbito:** nacional · **Área:** Direito Bancário e dos Mercados · **Código:** BAN-010
+> **EN:** Mortgage Agreement (Review and Instructions). Reviews the draft mortgage (hipoteca) presented by the bank for property financing, analyses the essential elements — secured amount, ranking, mortgaged property, scope of the mortgage, acceleration clauses and registration —, identifies problematic clauses and issues instructions for the notarial act creating the mortgage, under the Civil Code (Articles 686 et seq.) and the Notarial Code (Código do Notariado).
+> **Citações:** conferidas 2 · corrigidas 2 · por conferir 6. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+
+Revê a minuta de hipoteca apresentada pelo banco no âmbito de financiamento imobiliário, analisa os elementos essenciais — montante hipotecado, grau, imóvel garantido, extensão da hipoteca, cláusulas de vencimento antecipado e registo —, identifica cláusulas problemáticas e emite instruções para o ato notarial de constituição, ao abrigo do Código Civil (arts. 686.º ss) e do Código do Notariado.
+
+## Método
+
+Ficha de trabalho para preparar este documento. As regras da casa prevalecem sobre a ficha: registo de advogado, nunca afirmar inscrição na Ordem dos Advogados, citar só normas conferidas ou com `[■ VERIFICAR]`, e seguir o fluxo de `assets/redacao/redator.md`.
+
+## Regras obrigatórias
+- NUNCA inventes normas, artigos ou práticas inexistentes
+- Marca [■ VERIFICAR] onde faltarem dados
+- Distingue hipoteca legal, judicial e voluntária
+- Linguagem técnica, formal, pt-PT
+
+## Framework P.A.C.E.F — Segue esta ordem:
+
+### ETAPA 1 — PROBLEMATIZAÇÃO
+Em <analise_preliminar>:
+- Qual o tipo de hipoteca? (voluntária em financiamento bancário)
+- Qual o imóvel a hipotecar (artigo matricial, descrição predial)?
+- Qual o montante garantido pelo crédito hipotecário?
+- Qual o valor de avaliação do imóvel (LTV)?
+- Existem ónus, encargos ou hipotecas anteriores sobre o imóvel?
+- O imóvel é habitação própria permanente ou investimento?
+- Há terceiros hipotecantes (o imóvel não é do devedor)?
+
+### ETAPA 2 — ANÁLISE JURÍDICA
+Em <fundamentos_juridicos>:
+- Código Civil:
+  - Art. 686.º: constituição [■ VERIFICAR: o art. 686.º aqui citado é do Código Civil (hipoteca), não da Constituição] de hipoteca voluntária
+  - Art. 693.º: extensão da hipoteca (capital, juros, despesas de execução)
+  - Art. 695.º: proibição da cláusula comissória (pacto marciano)
+  - Art. 696.º: redução da hipoteca
+  - Art. 698.º ss: extinção da hipoteca
+  - Art. 731.º ss: execução hipotecária
+- Código do Registo Predial: registo da hipoteca — elemento essencial para oponibilidade
+- Código do Notariado: formalidades da escritura pública
+- DL n.º 74-A/2017: limites de comissão de amortização antecipada (impacto no refinanciamento com levantamento de hipoteca)
+- Lei n.º 67/2021 [■ VERIFICAR: diploma relativo a proteção de devedores habitação]
+
+### ETAPA 3 — CONSTRUÇÃO
+Em <estrategia>:
+- Verificar LTV (loan-to-value) e se o imóvel cobre suficientemente o crédito
+- Verificar grau da hipoteca (primeira hipoteca = mais forte)
+- Analisar extensão da hipoteca — inclui juros vencidos e vincendos?
+- Verificar cláusulas de vencimento antecipado
+- Preparar instruções para escritura
+
+### ETAPA 4 — A ANÁLISE E INSTRUÇÕES
+
+**ANÁLISE DA MINUTA DE HIPOTECA**
+
+**1. IMÓVEL HIPOTECADO**
+- Identificação: [artigo matricial, descrição predial, morada]
+- Registo na Conservatória: [CRP de ____, fração/prédio ____]
+- Valor de avaliação: €[valor]
+- Valor do crédito garantido: €[valor]
+- LTV: [%] — [dentro / acima dos limites recomendados pelo Banco de Portugal]
+- Encargos anteriores: [■ VERIFICAR certidão do registo predial]
+
+**2. MONTANTE E EXTENSÃO DA HIPOTECA**
+- Capital garantido: €[valor]
+- Hipoteca registada por: €[valor inscrito no registo — geralmente superior ao capital para cobrir juros e despesas]
+- Extensão da hipoteca:
+  - Capital: sim
+  - Juros convencionais: [anos/meses]
+  - Juros moratórios: [taxa]
+  - Despesas de execução: [limite]
+- Cláusula de extensão legal (art. 693.º CC): [incluída / ausente]
+
+**3. CLÁUSULAS PROBLEMÁTICAS IDENTIFICADAS**
+[Para cada cláusula: problema, fundamento, recomendação]
+
+**4. CLÁUSULA COMISSÓRIA**
+[■ VERIFICAR se existe cláusula que atribua automaticamente o imóvel ao credor em caso de incumprimento — PROIBIDA nos termos do art. 694.º CC]
+
+**5. VENCIMENTO ANTECIPADO**
+Condições em que o banco pode exigir reembolso imediato:
+[lista das cláusulas de vencimento antecipado — analisar se são proporcionadas]
+
+**6. INSTRUÇÕES PARA A ESCRITURA**
+
+Data da escritura: [data]
+Cartório Notarial: [nome e morada]
+[Ou: Casa Pronta]
+
+Documentos a levar:
+- [ ] BI/CC de todos os outorgantes
+- [ ] Certidão permanente do registo predial (com código de acesso)
+- [ ] Caderneta predial atualizada
+- [ ] Licença de utilização (se aplicável)
+- [ ] Declaração de não-dívida à Câmara Municipal [■ VERIFICAR se exigida]
+- [ ] Certificado energético (se aplicável)
+- [ ] Minuta aprovada pelo banco
+- [ ] Ficha de Informação Normalizada Europeia (FINE) assinada
+
+Pontos a confirmar no ato da escritura:
+- [ ] Identificação precisa do imóvel conforme registo predial
+- [ ] Montante correto inscrito na hipoteca
+- [ ] Ausência de cláusula comissória
+- [ ] Leitura integral da cláusula de extensão da hipoteca
+- [ ] Confirmar grau da hipoteca (1.ª hipoteca = livre de ónus anteriores)
+
+### ETAPA 5 — VALIDAÇÃO
+Em <checklist_validacao>:
+- [ ] Imóvel identificado com artigo matricial e descrição predial
+- [ ] LTV calculado e avaliado
+- [ ] Encargos anteriores verificados [■ VERIFICAR certidão]
+- [ ] Extensão da hipoteca (art. 693.º CC) verificada
+- [ ] Ausência de cláusula comissória (art. 694.º CC) confirmada
+- [ ] Cláusulas de vencimento antecipado analisadas
+- [ ] Instruções para escritura completas
+- [ ] Lista de documentos completa
+- [ ] Pontos [■ VERIFICAR] sinalizados
+- [ ] Disclaimer incluído
+
+---
+
+## Dados a recolher (entrevista numa só mensagem)
+
+**DEVEDOR/HIPOTECANTE:**
+- Nome: [nome]
+- NIF: [número]
+- Morada: [morada]
+- Terceiro hipotecante? [sim/não — se sim, identificar]
+
+**IMÓVEL:**
+- Artigo matricial: [número / secção]
+- CRP: [Conservatória e descrição]
+- Morada: [morada completa]
+- Tipologia: [T2, T3, moradia, etc.]
+- Valor de avaliação: [€]
+- Encargos atuais: [nenhum / hipoteca existente — valor e banco]
+
+**CRÉDITO:**
+- Banco: [nome]
+- Capital: [€]
+- Prazo: [anos]
+- Tipo de taxa: [variável / fixa]
+- Data prevista para escritura: [data]
+
+**MINUTA DO BANCO:**
+[Transceve as cláusulas que causam dúvida ou pede análise completa]
+
+## Citações desta ficha
+
+| Citação | Estado | Nota |
+|---|---|---|
+| Art. 686.º: constituição | por conferir [■ VERIFICAR] | o art. 686.º aqui citado é do Código Civil (hipoteca), não da Constituição |
+| Art. 693.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| Art. 695.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| Art. 696.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| Art. 698.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| Art. 731.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 693.º CC | conferida (epígrafe) — Acessórios do crédito |  |
+| art. 693.º CC | conferida (epígrafe) — Acessórios do crédito |  |
+| art. 694.º CC | corrigida — Pacto comissório | o número citado no catálogo não correspondia à epígrafe |
+| art. 694.º CC | corrigida — Pacto comissório | o número citado no catálogo não correspondia à epígrafe |

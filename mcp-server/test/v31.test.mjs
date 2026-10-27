@@ -245,7 +245,8 @@ test("T-510 grafia: zero formas da lista AO90, zero PT-BR e zero 'por quê' nas 
   const re = new RegExp(`(?<![\\wÀ-ú])(${antigas.map((w) => w.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")).join("|")})(?![\\wÀ-ú])`, "i");
   const falhas = [];
   for (const f of ficheirosFichas()) {
-    const t = ler(f);
+    // Só o texto em PT: o título e a descrição EN usam palavras inglesas iguais às formas antigas (actual, sector, factor, director).
+    const t = ler(f).split("\n").filter((l) => !/^(titulo_en|descricao_en):|^> \*\*EN:\*\*/.test(l)).join("\n");
     const m = re.exec(t);
     if (m) falhas.push(`${relative(FICHAS(), f)}: AO90 «${m[0]}»`);
     const b = PTBR_ERRO.exec(t);

@@ -4,11 +4,11 @@ Servidor **MCP (Model Context Protocol)** que disponibiliza a skill **Jurídico 
 
 ## O que expõe
 
-41 tools no total:
+43 tools no total:
 
 - **Tools — calculadoras** (17): `calc_juros_mora`, `calc_juros_lote`, `calc_prazo`, `calc_compensacao_despedimento`, `calc_custas_injuncao`, `calc_imposto_selo_heranca`, `calc_imt`, `calc_prescricao`, `calc_irs_simplificado`, `calc_creditos_laborais`, `calc_legitima`, `calc_salario_liquido`, `calc_custo_trabalhador`, `calc_irc`, `calc_iva_operacao`, `calc_taxa_justica`, `calc_procedimento_ccp`.
 - **Tools — perfil, calendário e prazos** (10): `obter_perfil_empresa`, `guardar_perfil_empresa`, `listar_perfis`, `ativar_perfil`, `apagar_perfil`, `calendario_obrigacoes`, `registar_prazo`, `listar_prazos`, `concluir_prazo`, `painel_clientes`.
-- **Tools — conteúdo e documentos** (14): `listar_areas_juridicas`, `ler_referencia`, `listar_templates`, `obter_template`, `listar_playbooks`, `obter_playbook`, `listar_checklists`, `obter_checklist`, `procurar_conteudo`, `exportar_documento` (`.docx`), `verificar_atualidade`, `listar_modelos`, `obter_modelo`, `verificar_redacao`.
+- **Tools — conteúdo e documentos** (16): `listar_areas_juridicas`, `ler_referencia`, `listar_templates`, `obter_template`, `procurar_ficha`, `obter_ficha` (fichas do catálogo, 22 áreas), `listar_playbooks`, `obter_playbook`, `listar_checklists`, `obter_checklist`, `procurar_conteudo`, `exportar_documento` (`.docx`), `verificar_atualidade`, `listar_modelos`, `obter_modelo`, `verificar_redacao`.
 - **Resources**: todo o conteúdo jurídico em `juridico-pt://{categoria}/{nome}` (referências, modelos conferidos, templates, guias de redação, playbooks, checklists).
 - **Prompt**: `assistente_juridico` — ativa o assistente jurídico de direito português.
 

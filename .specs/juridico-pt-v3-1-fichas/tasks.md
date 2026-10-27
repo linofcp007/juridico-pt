@@ -18,7 +18,7 @@
   - _Verify: node -e "const t=require('fs').readFileSync('.specs/juridico-pt-v3-1-fichas/eval-base-3.0.2.md','utf8'); if(!/Golden[\s\S]*Adversarial/.test(t)||!/2026-\d\d-\d\d/.test(t)) process.exit(1)"_
 
 ## Fase: Fundações
-- [ ] 2. [US3] Lista fechada `mcp-server/scripts/ao90.json`, com as formas anteriores ao AO90 encontradas no kit e a forma atual. Cada entrada é revista. As formas que se mantêm em PT (facto, contacto, impacto, pacto, secção) ficam listadas à parte como `manter`.
+- [x] 2. [US3] Lista fechada `mcp-server/scripts/ao90.json`, com as formas anteriores ao AO90 encontradas no kit e a forma atual. Cada entrada é revista. As formas que se mantêm em PT (facto, contacto, impacto, pacto, secção) ficam listadas à parte como `manter`.
   - _Requirements: US-3.AC-1_
   - _Makes green: T-510_
   - _Implements: mcp-server/scripts/ao90.json_
@@ -28,14 +28,14 @@
   - _Makes green: T-515_
   - _Implements: mcp-server/scripts/gerar-epigrafes.mjs, skills/juridico-pt/references/epigrafes/*.json_
   - _Verify: cd mcp-server && npm run build && node --test --test-name-pattern "T-515" test/v31.test.mjs_
-- [ ] 4. [US2] Mapa de sobreposições `assets/fichas/sobreposicoes.json`. Parte dos candidatos automáticos por título, revistos um a um (`mesmo-documento` ou `complementa`); os falsos positivos ficam fora.
+- [x] 4. [US2] Mapa de sobreposições `assets/fichas/sobreposicoes.json`. Parte dos candidatos automáticos por título, revistos um a um (`mesmo-documento` ou `complementa`); os falsos positivos ficam fora.
   - _Requirements: US-2.AC-1_
   - _Makes green: T-506_
   - _Implements: skills/juridico-pt/assets/fichas/sobreposicoes.json_
   - _Verify: cd mcp-server && npm run build && node --test --test-name-pattern "T-506" test/v31.test.mjs_
 
 ## Fase: Importação
-- [ ] 5. [US1] `mcp-server/scripts/importar-fichas.mjs` (`--origem`, `--destino`, `--check`). Faz isto:
+- [x] 5. [US1] `mcp-server/scripts/importar-fichas.mjs` (`--origem`, `--destino`, `--check`). Faz isto:
   - lê o catálogo e aplica as sobreposições;
   - converte a grafia com o AO90 e o PT-BR;
   - tira a persona antiga e o aviso;
@@ -50,17 +50,17 @@
   - _Makes green: T-516, T-526_
   - _Implements: mcp-server/scripts/importar-fichas.mjs, mcp-server/scripts/gerar-normas.mjs_
   - _Verify: cd mcp-server && npm run build && node --test --test-name-pattern "T-516|T-526" test/v31.test.mjs_
-- [ ] 6. [US5] Traduções `assets/fichas/traducoes-en.json`: título e descrição EN de todas as fichas importadas, em inglês jurídico, com o termo português entre parênteses quando não há equivalente. São feitas por área e revistas por amostra.
+- [x] 6. [US5] Traduções `assets/fichas/traducoes-en.json`: título e descrição EN de todas as fichas importadas, em inglês jurídico, com o termo português entre parênteses quando não há equivalente. São feitas por área e revistas por amostra.
   - _Requirements: US-5.AC-1_
   - _Makes green: T-519_
   - _Implements: skills/juridico-pt/assets/fichas/traducoes-en.json_
   - _Verify: cd mcp-server && npm run build && node scripts/importar-fichas.mjs --origem "C:/Users/Administrator/Downloads/skills-juridicas-pro" --check && node --test --test-name-pattern "T-519" test/v31.test.mjs_
-- [ ] 7. [US1] Importação completa para `skills/juridico-pt/assets/fichas/` (22 áreas, menos as `mesmo-documento`), com os índices e o relatório de citações.
+- [x] 7. [US1] Importação completa para `skills/juridico-pt/assets/fichas/` (22 áreas, menos as `mesmo-documento`), com os índices e o relatório de citações.
   - _Requirements: US-1.AC-1, US-1.AC-5, US-2.AC-2, US-3.AC-1, US-3.AC-2, US-3.AC-3, US-3.AC-4, US-4.AC-1, SC-001, SC-003_
   - _Makes green: T-501, T-505, T-510, T-511, T-512, T-513, T-514, T-529_
   - _Implements: skills/juridico-pt/assets/fichas/**_
   - _Verify: cd mcp-server && npm run build && node --test --test-name-pattern "T-501|T-505|T-510|T-511|T-512|T-513|T-514|T-529" test/v31.test.mjs_
-- [ ] 8. [US4] Revisão de citações por área. Para cada citação com sigla dos 25 diplomas que a passagem automática não confirmou, decide-se contra as epígrafes: conferida, corrigir (com o artigo certo) ou verificar (com nota). As decisões ficam em `revisao-citacoes.json` e volta a importar-se.
+- [x] 8. [US4] Revisão de citações por área. Para cada citação com sigla dos 25 diplomas que a passagem automática não confirmou, decide-se contra as epígrafes: conferida, corrigir (com o artigo certo) ou verificar (com nota). As decisões ficam em `revisao-citacoes.json` e volta a importar-se.
 
   Inclui a correção da TRA-005. Meta: 50 % ou mais das citações com sigla reconhecida conferidas ou corrigidas (SC-002), com a percentagem registada no `README.md` das fichas.
   - _Requirements: US-4.AC-1, US-4.AC-3, US-4.AC-5, SC-002_
@@ -69,7 +69,7 @@
   - _Verify: cd mcp-server && npm run build && node scripts/importar-fichas.mjs --origem "C:/Users/Administrator/Downloads/skills-juridicas-pro" --check && node --test --test-name-pattern "T-514|T-518" test/v31.test.mjs_
 
 ## Fase: Servidor e superfícies
-- [ ] 9. [US1] Servidor:
+- [x] 9. [US1] Servidor:
   - `content.ts` com o índice das fichas, `procurarFichas()` e `lerFicha()`, com o cabeçalho e os `[■ VERIFICAR]` nas citações por conferir;
   - tools `procurar_ficha` e `obter_ficha` em `tools.ts`, com remissões, sugestões e "catálogo não instalado";
   - `bundle-content.mjs` a copiar as fichas.
@@ -77,7 +77,7 @@
   - _Makes green: T-502, T-503, T-504, T-507, T-508, T-517, T-518, T-520_
   - _Implements: mcp-server/src/content.ts, mcp-server/src/tools.ts, mcp-server/scripts/bundle-content.mjs_
   - _Verify: cd mcp-server && npm run build && node --test --test-name-pattern "T-502|T-503|T-504|T-507|T-508|T-517|T-518|T-520" test/v31.test.mjs_
-- [ ] 10. [US2] Superfícies:
+- [x] 10. [US2] Superfícies:
   - `persona.ts`: `INSTRUCOES_MCP` com as 2 tools, com 2000 caracteres ou menos, e a `PERSONA` com a ordem modelo → template → ficha; integrações regeneradas;
   - `SKILL.md`: secção "Fichas do catálogo", também sem MCP;
   - `redator.md`: passo 1 com a ficha;
@@ -87,7 +87,7 @@
   - _Makes green: T-505, T-509, T-522_
   - _Implements: mcp-server/src/persona.ts, skills/juridico-pt/SKILL.md, skills/juridico-pt/assets/redacao/redator.md, agents/verificador-citacoes.md, README.md, INSTALL.md, llms-install.md, mcp-server/test/plugin.test.mjs, mcp-server/test/v30.test.mjs_
   - _Verify: cd mcp-server && npm run build && node scripts/gerar-integracoes.mjs --check && node --test test/plugin.test.mjs test/v30.test.mjs test/v121.test.mjs && node --test --test-name-pattern "T-505|T-509|T-522" test/v31.test.mjs_
-- [ ] 11. [US6] Pacote: o `juridico-pt.skill` leva as fichas e os `_INDICE.md` e fica com 10 MB ou menos (teste Python).
+- [x] 11. [US6] Pacote: o `juridico-pt.skill` leva as fichas e os `_INDICE.md` e fica com 10 MB ou menos (teste Python).
   - _Requirements: US-6.AC-1, NFR-5_
   - _Makes green: T-522_
   - _Implements: build.py, skills/juridico-pt/scripts/test_scripts.py_
@@ -99,7 +99,7 @@
   - _Makes green: T-521, T-523, T-524, T-525, T-527, T-528_
   - _Affects evals: golden, adversarial, regression_
   - _Verify: cd mcp-server && npm run build && node --test --test-name-pattern "T-521|T-523|T-524|T-525|T-527|T-528" test/v31.test.mjs_
-- [ ] 13. [shared] `CLAUDE.md` (manutenção):
+- [x] 13. [shared] `CLAUDE.md` (manutenção):
   - como reimportar as fichas;
   - como atualizar as epígrafes, com a revisão anual no calendário;
   - como rever as citações de uma área;
