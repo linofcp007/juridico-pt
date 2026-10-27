@@ -13,6 +13,10 @@
       "file": "change.md",
       "wsFingerprint": "4648e9e6ecdd0681b17ee92868077b918e9949b5",
       "batch": true
+    },
+    "execution": {
+      "at": "2026-10-27T23:05:07.151Z",
+      "by": "Carlos Pereira"
     }
   },
   "createdAt": "2026-10-27T22:11:02.913Z",
@@ -27,9 +31,14 @@
       "wsFingerprint": "4648e9e6ecdd0681b17ee92868077b918e9949b5",
       "batch": true,
       "snapshot": ".history/tasks@1.md"
+    },
+    {
+      "phase": "execution",
+      "at": "2026-10-27T23:05:07.151Z",
+      "by": "Carlos Pereira"
     }
   ],
-  "lastApprovedPhase": "tasks",
+  "lastApprovedPhase": "execution",
   "evidence": {
     "1": {
       "command": "cd mcp-server && npm run build && node --test --test-name-pattern \"T-530|T-531\" test/v31.test.mjs",
@@ -109,5 +118,76 @@
     "1": "2026-10-27T22:14:46.733Z",
     "2": "2026-10-27T22:56:53.414Z",
     "3": "2026-10-27T22:59:15.536Z"
+  },
+  "finishChecks": {
+    "mcp-test": {
+      "command": "npm --prefix mcp-server test",
+      "exitCode": 0,
+      "summary": "282 testes: 280 pass, 0 fail, 2 ignorados",
+      "at": "2026-10-27T23:02:06.792Z",
+      "commit": "6370ec8",
+      "dirty": false,
+      "observed": false,
+      "cmdRule": 1,
+      "check": "npm --prefix mcp-server test",
+      "code": "ad886ee0f061cddfdff2bb42c116a64d2c91a1a5",
+      "history": [
+        {
+          "command": "npm --prefix mcp-server test",
+          "exitCode": 0,
+          "summary": "282 testes: 280 pass, 0 fail, 2 ignorados",
+          "at": "2026-10-27T23:02:06.792Z",
+          "commit": "6370ec8",
+          "dirty": false,
+          "observed": false,
+          "cmdRule": 1
+        }
+      ]
+    },
+    "py-test": {
+      "command": "python skills/juridico-pt/scripts/test_scripts.py",
+      "exitCode": 0,
+      "summary": "Ran 56 tests OK",
+      "at": "2026-10-27T23:02:06.792Z",
+      "commit": "6370ec8",
+      "dirty": false,
+      "observed": false,
+      "cmdRule": 1,
+      "check": "python skills/juridico-pt/scripts/test_scripts.py",
+      "code": "ad886ee0f061cddfdff2bb42c116a64d2c91a1a5",
+      "history": [
+        {
+          "command": "python skills/juridico-pt/scripts/test_scripts.py",
+          "exitCode": 0,
+          "summary": "Ran 56 tests OK",
+          "at": "2026-10-27T23:02:06.792Z",
+          "commit": "6370ec8",
+          "dirty": false,
+          "observed": false,
+          "cmdRule": 1
+        }
+      ]
+    }
+  },
+  "finished": {
+    "at": "2026-10-27T23:02:06.960Z",
+    "files": {
+      "mcp-server/scripts/importar-fichas.mjs": "164a5013d051ec73ac1cc09778af3a8be6b36a36",
+      "mcp-server/src/content.ts": "85f87651897df984928075b7c4453e0237b73e36",
+      "mcp-server/test/v31.test.mjs": "eaff47a1583cf534bc3a530eaf087cea4e71ce6e",
+      "mcp-server/test/fixtures/fichas/skill/assets/fichas/correcoes-conteudo.json": "37546d941bbebcf1aa7dc5dbfb30df9a73ed6821",
+      "skills/juridico-pt/assets/fichas/correcoes-conteudo.json": "dedb77bfb425c60c71f672b96180e8191783a5db",
+      "skills/juridico-pt/assets/fichas/revisao-tecnica.md": "ea43a686c463fdd7f07a450b12cb0818dd6b79d8",
+      "skills/juridico-pt/assets/fichas/revisao-citacoes.json": "c784d7ac5b8d6cbb37f92f7195af1cbd49be327f",
+      "evals/r07-exoneracao-tres-anos/prompt.md": "c6dd2f1f2ec1b44033cb3d987ff313ff607307bc",
+      ".claude-plugin/plugin.json": "57e1efa1a05c7d4c02df2d35e09801c9ce7b98e1",
+      ".claude-plugin/marketplace.json": "f09c50502ff89aebb2b6b21727f5526a7cd46d61",
+      "package.json": "2182e2f1384c126aa481a8abe9003f97b5641a51",
+      "mcp-server/package.json": "dcaa0cac9fe6e30ab4ac335a3fc0841adb6eccb6",
+      "mcp-server/src/index.ts": "17133faf545ed3c612b2f999c0480611eef04e19",
+      "CHANGELOG.md": "0ddb8ef96f7fc1e4a02a156789fa96aeeb89b211",
+      "CLAUDE.md": "56cdd418ec615a30b00b03d1bc7d803041704498",
+      ".specs/juridico-pt-v3-1-fichas/quickstart.md": "f80ad94e890dc65ab78c7caaf378600108feb055"
+    }
   }
 }
