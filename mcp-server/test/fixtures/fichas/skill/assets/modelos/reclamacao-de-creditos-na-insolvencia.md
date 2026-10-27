@@ -1,0 +1,1 @@
+# Modelo (stub da fixture)

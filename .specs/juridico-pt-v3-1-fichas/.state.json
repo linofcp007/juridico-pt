@@ -1,0 +1,124 @@
+{
+  "lang": "pt",
+  "size": "l",
+  "tracks": [
+    "core",
+    "tdd",
+    "ai"
+  ],
+  "approvals": {
+    "classification": {
+      "at": "2026-10-27T19:08:10.558Z",
+      "by": "Administrator",
+      "fingerprint": "29b602e11c461385b46ce18ffb0288254c47dd05",
+      "wsFingerprint": "bad7582d8f112eb96f6b8f82d63d189becba113c",
+      "batch": true
+    },
+    "requirements": {
+      "at": "2026-10-27T19:08:10.570Z",
+      "by": "Administrator",
+      "fingerprint": "67292e6b7bf946915a9d14a63203162669109648",
+      "wsFingerprint": "5b5d4eff185ada337112da539a8e9e92a9a85a18",
+      "steering": {
+        "constitution.md": "c9e029b1593330e7dcb0cd98046068be909e5415",
+        "testing-standards.md": "2ef4a821db0587a5488994f7a4c5744d96d7fb52"
+      },
+      "batch": true
+    },
+    "design": {
+      "at": "2026-10-27T19:08:10.586Z",
+      "by": "Administrator",
+      "fingerprint": "0ba7bae37f63f1a8bb54d8b97ab9867d40ae5b80",
+      "wsFingerprint": "a744ca68b3d36a76c07f7a0273036653bc4c31a8",
+      "steering": {
+        "constitution.md": "c9e029b1593330e7dcb0cd98046068be909e5415",
+        "testing-standards.md": "2ef4a821db0587a5488994f7a4c5744d96d7fb52"
+      },
+      "weigh": true,
+      "reuse": true,
+      "reuseGate": true,
+      "batch": true
+    },
+    "test-plan": {
+      "at": "2026-10-27T19:08:10.608Z",
+      "by": "Administrator",
+      "fingerprint": "809172a64c1fa20a2936cf36cbba296651bb3738",
+      "wsFingerprint": "531ef6cfeff2aa8aaa3448984d84cd036fc1640b",
+      "batch": true
+    },
+    "eval-plan": {
+      "at": "2026-10-27T19:08:10.619Z",
+      "by": "Administrator",
+      "fingerprint": "0a66cabfdee58affe81fe6d96a8d74e33d6d5bfd",
+      "wsFingerprint": "99e745dfdf6cc1c36432f59de7e86afa86c03307",
+      "batch": true
+    }
+  },
+  "createdAt": "2026-10-27T17:07:57.396Z",
+  "branch": {
+    "name": "feature/juridico-pt-v3-1-fichas",
+    "base": "main",
+    "commit": "02bd1dbf008cf402cea85c54657693dbc06cddb3",
+    "at": "2026-10-27T17:07:57.396Z"
+  },
+  "lastEditAt": "2026-10-27T17:15:33.014Z",
+  "approvalHistory": [
+    {
+      "phase": "classification",
+      "at": "2026-10-27T19:08:10.558Z",
+      "by": "Administrator",
+      "fingerprint": "29b602e11c461385b46ce18ffb0288254c47dd05",
+      "wsFingerprint": "bad7582d8f112eb96f6b8f82d63d189becba113c",
+      "batch": true,
+      "snapshot": ".history/classification@1.md"
+    },
+    {
+      "phase": "requirements",
+      "at": "2026-10-27T19:08:10.570Z",
+      "by": "Administrator",
+      "fingerprint": "67292e6b7bf946915a9d14a63203162669109648",
+      "wsFingerprint": "5b5d4eff185ada337112da539a8e9e92a9a85a18",
+      "steering": {
+        "constitution.md": "c9e029b1593330e7dcb0cd98046068be909e5415",
+        "testing-standards.md": "2ef4a821db0587a5488994f7a4c5744d96d7fb52"
+      },
+      "batch": true,
+      "snapshot": ".history/requirements@1.md"
+    },
+    {
+      "phase": "design",
+      "at": "2026-10-27T19:08:10.586Z",
+      "by": "Administrator",
+      "fingerprint": "0ba7bae37f63f1a8bb54d8b97ab9867d40ae5b80",
+      "wsFingerprint": "a744ca68b3d36a76c07f7a0273036653bc4c31a8",
+      "steering": {
+        "constitution.md": "c9e029b1593330e7dcb0cd98046068be909e5415",
+        "testing-standards.md": "2ef4a821db0587a5488994f7a4c5744d96d7fb52"
+      },
+      "weigh": true,
+      "reuse": true,
+      "reuseGate": true,
+      "batch": true,
+      "snapshot": ".history/design@1.md"
+    },
+    {
+      "phase": "test-plan",
+      "at": "2026-10-27T19:08:10.608Z",
+      "by": "Administrator",
+      "fingerprint": "809172a64c1fa20a2936cf36cbba296651bb3738",
+      "wsFingerprint": "531ef6cfeff2aa8aaa3448984d84cd036fc1640b",
+      "batch": true,
+      "snapshot": ".history/test-plan@1.md"
+    },
+    {
+      "phase": "eval-plan",
+      "at": "2026-10-27T19:08:10.619Z",
+      "by": "Administrator",
+      "fingerprint": "0a66cabfdee58affe81fe6d96a8d74e33d6d5bfd",
+      "wsFingerprint": "99e745dfdf6cc1c36432f59de7e86afa86c03307",
+      "batch": true,
+      "snapshot": ".history/eval-plan@1.md"
+    }
+  ],
+  "lastApprovedPhase": "eval-plan"
+}

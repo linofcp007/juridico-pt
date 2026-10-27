@@ -1,0 +1,51 @@
+[
+  {
+    "codigo": "CIV-905",
+    "area": "Direito Civil e dos Contratos",
+    "titulo": "Carta de Regularização do IVA de Créditos Incobráveis (Teste)",
+    "descricao": "Carta ao devedor sobre a regularização do IVA de créditos incobráveis.",
+    "ficheiro_md": "biblioteca/03-direito-civil-e-dos-contratos/CIV-905-carta-de-regularizacao-do-iva-teste.md"
+  },
+  {
+    "codigo": "COM-905",
+    "area": "Direito Comercial e das Sociedades",
+    "titulo": "Contrato de Agência — Cessação e Compensação de Clientela (Teste)",
+    "descricao": "Carta de cessação do contrato de agência com cálculo da indemnização de clientela.",
+    "ficheiro_md": "biblioteca/04-direito-comercial-e-das-sociedades/COM-905-agencia-cessacao-teste.md"
+  },
+  {
+    "codigo": "EST-905",
+    "area": "Direito dos Estrangeiros e Nacionalidade",
+    "titulo": "Pedido de Certificado de Residência (Teste)",
+    "descricao": "Pedido de certificado de residência de cidadão da União na câmara municipal.",
+    "ficheiro_md": "biblioteca/16-direito-dos-estrangeiros-e-nacionalidade/EST-905-registo-de-residencia-teste.md"
+  },
+  {
+    "codigo": "FAM-905",
+    "area": "Direito da Família e das Crianças",
+    "titulo": "Declaração de Consentimento para Viagem de Menor (Teste)",
+    "descricao": "Declaração dos pais a autorizar a viagem de um filho menor.",
+    "ficheiro_md": "biblioteca/06-direito-da-familia-e-das-criancas/FAM-905-declaracao-simples-teste.md"
+  },
+  {
+    "codigo": "INS-905",
+    "area": "Direito da Insolvência e Recuperação",
+    "titulo": "Reclamação de Créditos na Insolvência (Teste)",
+    "descricao": "Reclamação de créditos dirigida ao administrador da insolvência.",
+    "ficheiro_md": "biblioteca/07-direito-da-insolvencia-e-recuperacao/INS-905-reclamacao-de-creditos-na-insolvencia-teste.md"
+  },
+  {
+    "codigo": "SAU-905",
+    "area": "Direito da Saúde e Responsabilidade Médica",
+    "titulo": "Reclamação à Entidade Reguladora da Saúde (Teste)",
+    "descricao": "Reclamação de um utente contra um prestador de cuidados de saúde.",
+    "ficheiro_md": "biblioteca/08-direito-da-saude-e-responsabilidade-medica/SAU-905-reclamacao-ers-teste.md"
+  },
+  {
+    "codigo": "TRA-905",
+    "area": "Direito do Trabalho",
+    "titulo": "Contrato de Trabalho a Tempo Parcial (Teste)",
+    "descricao": "Gera um contrato de trabalho a tempo parcial em conformidade com os artigos 150.º a 156.º do Código do Trabalho.",
+    "ficheiro_md": "biblioteca/14-direito-do-trabalho/TRA-905-contrato-de-trabalho-a-tempo-parcial-teste.md"
+  }
+]
