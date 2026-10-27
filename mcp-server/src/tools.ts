@@ -29,7 +29,18 @@ import {
   PRESCRICAO_TIPOS,
   COMPENSACAO_MODALIDADES,
 } from "./calculators/index.js";
-import { listar, ler, procurar, listarComAmbito, formatarProcura, type Categoria } from "./content.js";
+import {
+  listar,
+  ler,
+  procurar,
+  listarComAmbito,
+  formatarProcura,
+  type Categoria,
+  SUBSTITUIDOS,
+  lerModeloSecoes,
+  infoModelo,
+} from "./content.js";
+import { verificarRedacao, formatarRedacao } from "./redacao.js";
 import {
   lerPerfil, guardarPerfil, resumoPerfil, textoPerguntasPerfil, listarPerfis, ativarPerfil, apagarPerfil,
 } from "./perfil.js";
@@ -44,7 +55,7 @@ import { verificarAtualidade, textoAtualidade } from "./atualidade.js";
 import { painelClientes, textoPainel } from "./painel.js";
 
 const AVISO =
-  "\n\n⚠️ Estimativa de apoio. Valores/taxas de 2026 — confirmar no ano corrente. Não substitui aconselhamento de advogado inscrito na OA.";
+  "\n\n⚠️ Estimativa de apoio. Valores/taxas de 2026 — confirmar no ano corrente. A decisão final é de quem assina (o advogado responsável ou o utilizador).";
 
 function texto(s: string) {
   return { content: [{ type: "text" as const, text: s }] };
@@ -245,7 +256,7 @@ export function registerTools(servidor: McpServer): void {
     {
       title: "Compensação por cessação de contrato",
       description:
-        "Calcula a compensação por cessação do contrato de trabalho (art. 366.º CT): 14 dias de RB+diuturnidades por ano (despedimento coletivo, extinção do posto, inadaptação), 24 na caducidade do termo, com os tetos legais e SEM mínimo de 3 meses. Com data_admissao e data_cessacao aplica o regime transitório por períodos (antiguidade anterior a 1/5/2023 — Lei 69/2013 e Lei 13/2023), validado contra o simulador da ACT. Usa quando se fala em despedir/ser despedido ou no valor a receber/pagar ('quanto recebo se for despedido', 'indemnização', 'compensação', 'fim de contrato'). EN: severance pay on dismissal or contract termination.",
+        "Calcula a compensação por cessação do contrato de trabalho (art. 366.º CT): 14 dias de RB+diuturnidades por ano (despedimento coletivo, extinção do posto, inadaptação), 24 na caducidade do termo, com os tetos legais e SEM mínimo de 3 meses. Com data_admissao e data_cessacao aplica o regime transitório por períodos (antiguidade anterior a 1/5/2023 — Lei 69/2013 e Lei 13/2023), validado contra o simulador da ACT. Sem datas, os 14 dias só valem para a antiguidade desde 1/5/2023: com antiguidade anterior, passa SEMPRE as duas datas (nunca 14 dias sobre toda a antiguidade). Na revogação por acordo o valor é livre; isto é só a referência. Usa quando se fala em despedir/ser despedido ou no valor a receber/pagar ('quanto recebo se for despedido', 'indemnização', 'compensação', 'fim de contrato'). EN: severance pay on dismissal or contract termination.",
       inputSchema: {
         retribuicao_base: z.number().describe("Retribuição base mensal (€)"),
         diuturnidades: z.number().default(0),
@@ -617,7 +628,75 @@ export function registerTools(servidor: McpServer): void {
       },
       annotations: { readOnlyHint: true, openWorldHint: false },
     },
-    obter("templates", "templates")
+    async ({ nome }: { nome: string }) => {
+      const antigo = String(nome ?? "").trim().replace(/\.md$/i, "");
+      const novo = SUBSTITUIDOS[antigo];
+      if (novo) {
+        const m = lerModeloSecoes(novo);
+        if (m) return texto(`O template '${antigo}' foi substituído pelo modelo conferido '${novo}'.\n\n${m}`);
+      }
+      return obter("templates", "templates")({ nome });
+    }
+  );
+
+  server.registerTool(
+    "listar_modelos",
+    {
+      title: "Listar modelos conferidos",
+      description:
+        "Lista os modelos conferidos de documentos (contrato e nota de honorários, prestação de serviços, arrendamento, confissão de dívida, procuração forense, revogação, processo disciplinar, interpelação, petição inicial, contestação, reclamação de créditos), cada um com fundamentação fechada lida na fonte oficial. Usa antes de redigir um destes documentos. EN: list the verified document models.",
+      inputSchema: {},
+      annotations: { readOnlyHint: true, openWorldHint: false },
+    },
+    async () => {
+      const linhas = listar("modelos")
+        .map(infoModelo)
+        .filter((i): i is NonNullable<typeof i> => i !== null)
+        .map((i) => `- ${i.nome} — ${i.titulo} — quando usar: ${i.quandoUsar} — entregável: ${i.entregavel} — ${i.ambito ?? "nacional"}`);
+      return texto("Modelos conferidos (obter_modelo para os abrir):\n" + linhas.join("\n"));
+    }
+  );
+
+  server.registerTool(
+    "obter_modelo",
+    {
+      title: "Obter modelo conferido (por secções)",
+      description:
+        "Devolve um modelo conferido por secções (1 quando usar, 2 perguntas, 3 variantes, 4 texto do documento, 5 fundamentação permitida, 6 armadilhas e verificações, 7 nota de entrega, 8 trecho de tom). Por defeito 1, 2, 3 e 7 (para a entrevista); para redigir pede [4, 5]; para rever pede [6]. Só se cita o que está na secção 5. Usa quando o utilizador pede um documento coberto por um modelo ('faz um contrato de honorários', 'redige a contestação'). EN: get a verified model by sections.",
+      inputSchema: {
+        nome: completable(z.string(), (value) =>
+          listar("modelos").filter((n) => n.toLowerCase().startsWith((value || "").toLowerCase()))
+        ),
+        secoes: z.array(z.number().int()).optional().describe("Secções 1 a 8 (por defeito [1, 2, 3, 7])"),
+      },
+      annotations: { readOnlyHint: true, openWorldHint: false },
+    },
+    async ({ nome, secoes }) => {
+      let m: string | null;
+      try {
+        m = lerModeloSecoes(nome, secoes);
+      } catch (e) {
+        return texto(`${(e as Error).message}`);
+      }
+      if (m) return texto(m);
+      return texto(`'${nome}' não encontrado. Modelos disponíveis:\n- ` + listar("modelos").join("\n- "));
+    }
+  );
+
+  server.registerTool(
+    "verificar_redacao",
+    {
+      title: "Verificar a redação de um documento",
+      description:
+        "Verifica o texto de um documento (texto ou Marcação Redator) antes de o gerar: cacoetes de texto de IA, léxico do Brasil, travessões, aspas curvas, markdown e marcas internas ([[IA:, variantes, {{…}}). Devolve 'L<linha> [ERRO|AVISO] categoria: trecho -> sugestão'. Com final=true, {{variável}} por preencher é ERRO. Usa antes de exportar_documento. EN: check the drafting of a document.",
+      inputSchema: {
+        texto: z.string().describe("O texto do documento"),
+        final: z.boolean().optional().describe("Documento já preenchido: {{variável}} passa a ERRO"),
+        guia: z.boolean().optional().describe("Material de instrução: títulos # e listas não acusam"),
+      },
+      annotations: { readOnlyHint: true, openWorldHint: false },
+    },
+    async ({ texto: t, final, guia }) => texto(formatarRedacao(verificarRedacao(t, { final, guia })))
   );
 
   server.registerTool(
@@ -625,9 +704,9 @@ export function registerTools(servidor: McpServer): void {
     {
       title: "Exportar documento para Word (.docx)",
       description:
-        "Grava um documento em .docx (Word/LibreOffice) em .juridico-pt/exportados/<nome>.docx: o texto em Markdown já preenchido (conteudo) ou um template tal como está (template). Mantém títulos, listas, tabelas e negrito; tira os comentários e a secção 'Antes de enviar — verificar'. Usa quando o utilizador quer a carta, o contrato ou a minuta em Word ('exporta para Word', 'quero o .docx', 'manda em formato editável'). EN: export a document to .docx.",
+        "Grava um documento em .docx (Word/LibreOffice) em .juridico-pt/exportados/<nome>.docx. Em Marcação Redator (1.ª linha '@@PERFIL: juridico|contabil') sai no formato forense: Times 12, margens 3/3/2/2, entrelinha 1,5, número de página, assinaturas e os [■ CONFIRMAR/VERIFICAR] a amarelo; recusa o ficheiro se ainda houver [[IA:, variantes ou {{…}}. Em Markdown mantém títulos, listas, tabelas e negrito e tira a secção 'Antes de enviar — verificar'. Ou um template tal como está (template). Usa quando o utilizador quer a carta, o contrato ou a peça em Word ('exporta para Word', 'quero o .docx'). EN: export a document to .docx.",
       inputSchema: {
-        conteudo: z.string().optional().describe("Documento em Markdown, já preenchido"),
+        conteudo: z.string().optional().describe("Documento em Marcação Redator ou em Markdown, já preenchido"),
         template: z.string().optional().describe("Ou: nome de um template (ex.: 'carta-cobranca-amigavel')"),
         nome: z.string().describe("Nome do ficheiro, sem extensão (ex.: 'carta-cliente-x')"),
         diretorio: z.string().optional().describe("Diretório do projeto (por defeito, cwd)"),
@@ -635,10 +714,21 @@ export function registerTools(servidor: McpServer): void {
       annotations: { readOnlyHint: false, destructiveHint: false, openWorldHint: false },
     },
     async ({ conteudo, template, nome, diretorio }) => {
-      const r = exportarDocumento({ conteudo, template, nome, projeto: diretorio });
+      let r: ReturnType<typeof exportarDocumento>;
+      try {
+        r = exportarDocumento({ conteudo, template, nome, projeto: diretorio });
+      } catch (e) {
+        const m = e instanceof Error ? e.message : String(e);
+        if (/^(Não exportei|Marcação Redator inválida)/.test(m)) return texto(m);
+        throw e;
+      }
+      const marcadores = r.marcadores.length
+        ? `\nMarcadores por preencher (${r.marcadores.length}):\n` + r.marcadores.map((m) => `- ${m.texto} — ${m.onde}`).join("\n")
+        : "";
       return texto(
         `Documento exportado: ${r.caminho} (${Math.ceil(r.bytes / 1024)} KB).` +
           (r.placeholders ? `\n⚠️ Ainda tem ${r.placeholders} campo(s) {{...}} por preencher.` : "") +
+          marcadores +
           "\nAbre no Word ou no LibreOffice e revê antes de enviar (a lista 'Antes de enviar — verificar' não vai no ficheiro)." +
           notaGitignore(diretorio)
       );
@@ -766,7 +856,7 @@ export function registerTools(servidor: McpServer): void {
     {
       title: "Guardar perfil da empresa",
       description:
-        "Grava/atualiza o perfil da empresa do utilizador (funde com o existente e atualiza a data). destino 'projeto' -> <projeto>/.juridico-pt/perfil-empresa.md; destino 'geral' -> ~/.juridico-pt/perfil-empresa.md (empresa por defeito). Usa só depois de o utilizador aceitar guardar e só com dados da PRÓPRIA empresa — nunca de um cliente ou terceiro. Campos aceites: forma_juridica, denominacao, setor, trabalhadores, volume_negocios, regime_iva, contabilidade, clientes, dados_pessoais, linguas, notas, cae, concelho, fim_periodo_tributacao (MM-DD), imoveis, viaturas (sim + meses da matrícula), setor_nis2, vendas_b2c, trabalhadores_estrangeiros, emite_faturas. EN: save the company profile.",
+        "Grava/atualiza o perfil da empresa do utilizador (funde com o existente e atualiza a data). destino 'projeto' -> <projeto>/.juridico-pt/perfil-empresa.md; destino 'geral' -> ~/.juridico-pt/perfil-empresa.md (empresa por defeito). Usa só depois de o utilizador aceitar guardar e só com dados da PRÓPRIA empresa — nunca de um cliente ou terceiro. Campos aceites: forma_juridica, denominacao, setor, trabalhadores, volume_negocios, regime_iva, contabilidade, clientes, dados_pessoais, linguas, notas, cae, concelho, fim_periodo_tributacao (MM-DD), imoveis, viaturas (sim + meses da matrícula), setor_nis2, vendas_b2c, trabalhadores_estrangeiros, emite_faturas; e, num escritório, o advogado responsável que revê e assina: advogado_nome, advogado_cedula, advogado_domicilio, advogado_email, advogado_nif (vão para o bloco de assinatura e para a identificação do mandatário). EN: save the company profile.",
       inputSchema: {
         campos: z
           .record(z.string())

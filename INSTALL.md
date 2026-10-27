@@ -4,8 +4,8 @@ O Jurídico PT distribui-se por **quatro canais**, todos sobre o mesmo conteúdo
 
 | Canal | Para quê | Onde |
 |---|---|---|
-| **Plugin** (recomendado no Claude) | Claude Code e conta claude.ai / app Claude (**Customize > Plugins**): conteúdo, 38 tools, slash commands, hooks e subagentes | `/plugin marketplace add linofcp007/juridico-pt` — ver o [README](README.md#instalação) |
-| **Extensão `.mcpb`** | Conversas da app Claude Desktop, sem instalar Node: só o servidor MCP (38 tools, resources e prompt) | `juridico-pt-<versão>.mcpb` da [última release](https://github.com/linofcp007/juridico-pt/releases/latest) (ou gerar com `npm --prefix mcp-server run build:mcpb`) — ver [integrations/claude-desktop/](integrations/claude-desktop/) |
+| **Plugin** (recomendado no Claude) | Claude Code e conta claude.ai / app Claude (**Customize > Plugins**): conteúdo, 41 tools, slash commands, hooks e subagentes | `/plugin marketplace add linofcp007/juridico-pt` — ver o [README](README.md#instalação) |
+| **Extensão `.mcpb`** | Conversas da app Claude Desktop, sem instalar Node: só o servidor MCP (41 tools, resources e prompt) | `juridico-pt-<versão>.mcpb` da [última release](https://github.com/linofcp007/juridico-pt/releases/latest) (ou gerar com `npm --prefix mcp-server run build:mcpb`) — ver [integrations/claude-desktop/](integrations/claude-desktop/) |
 | **A. Skill (.skill)** | Claude.ai, Claude Code, Claude Desktop (sistema de Skills): conteúdo, instruções e calculadoras Python | `juridico-pt.skill` da [última release](https://github.com/linofcp007/juridico-pt/releases/latest) (ou gerar com `python build.py`) |
 | **B. Servidor MCP** | Cursor, Windsurf, Codex, Gemini CLI, ChatGPT/OpenAI, Claude (via MCP) | `mcp-server/` (Node, já compilado no repositório — sem npm publish) |
 
@@ -63,4 +63,4 @@ node test/smoke-client.mjs   # liga via MCP e exercita tools/resources/prompt
 
 - **ChatGPT web** consome MCP via *connectors* (dev mode) mas precisa do servidor exposto por HTTP/remoto; **Codex** e **OpenAI Agents SDK** consomem o stdio diretamente. Em alternativa, o **Custom GPT** usa a persona + ficheiros de conhecimento (de `references/` e `assets/templates/`).
 - Ao atualizar o conteúdo jurídico da skill, corre `cd mcp-server && npm run build` para re-empacotar o conteúdo no servidor.
-- Tudo é **MIT** / uso pessoal; orientação informativa, não substitui advogado inscrito na OA.
+- Tudo é **MIT** / uso pessoal; redação no registo de advogado; revisão antes de assinar (o sistema nunca afirma inscrição na OA).

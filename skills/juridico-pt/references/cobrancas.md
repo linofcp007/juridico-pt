@@ -105,5 +105,5 @@ A prescrição interrompe-se com: citação judicial, notificação judicial avu
 - Carta registada — interpelação final — `assets/templates/carta-cobranca-formal-registada.md`
 - Interpelação com várias faturas (tabela por fatura, juros e 40 € por fatura) — `assets/templates/carta-cobranca-varias-faturas.md`
 - Acordo de pagamento faseado — `assets/templates/acordo-pagamento-faseado.md`
-- Reconhecimento de dívida — `assets/templates/reconhecimento-divida.md`
+- Reconhecimento de dívida — `assets/modelos/confissao-de-divida-e-acordo-de-pagamento.md`
 - Requerimento de injunção (guião para preenchimento no Citius) — `assets/templates/requerimento-injuncao.md`

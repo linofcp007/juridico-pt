@@ -1,0 +1,10 @@
+{
+  "_nota": "Casos de resíduos que bloqueiam a exportação (US-4.AC-3), partilhados pelo TS (v30.test.mjs, T-425) e pelo Python (test_scripts.py, T-428). 'esperado' = [linha, tipo], ordenado por linha e, na mesma linha, por tipo (alfabético).",
+  "casos": [
+    { "nome": "ia", "texto": "@@PERFIL: juridico\n@@TIPO: carta\nTexto [[IA: retirar esta instrução]] aqui.\n", "esperado": [[3, "ia"]] },
+    { "nome": "variante-inicio", "texto": "@@PERFIL: juridico\n@@TIPO: contrato\n[[INÍCIO VARIANTE: avenca]]\nCláusula da avença.\n", "esperado": [[3, "variante"]] },
+    { "nome": "variante-fim", "texto": "@@PERFIL: juridico\n@@TIPO: contrato\nCláusula da avença.\n[[FIM VARIANTE]]\n", "esperado": [[4, "variante"]] },
+    { "nome": "variavel", "texto": "@@PERFIL: juridico\n@@TIPO: carta\nExmo. Senhor {{nome_destinatario}},\n", "esperado": [[3, "variavel"]] },
+    { "nome": "todos", "texto": "@@PERFIL: juridico\n@@TIPO: contrato\n[[INÍCIO VARIANTE: fixo]]\nPaga {{valor}} [[IA: por extenso]].\n[[FIM VARIANTE]]\n", "esperado": [[3, "variante"], [4, "ia"], [4, "variavel"], [5, "variante"]] }
+  ]
+}

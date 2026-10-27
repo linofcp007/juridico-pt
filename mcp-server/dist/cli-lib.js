@@ -2096,7 +2096,7 @@ function paraICS(obrigacoes, opts = {}) {
       o.nota ?? "",
       o.aConfirmar ? `A confirmar no perfil: ${o.camposEmFalta.join(", ")}` : "",
       `Fonte: ${o.fonte}`,
-      "Gerado pelo juridico-pt: confirmar no Portal das Finan\xE7as / Seguran\xE7a Social Direta. N\xE3o substitui advogado nem contabilista."
+      "Gerado pelo juridico-pt: confirmar no Portal das Finan\xE7as / Seguran\xE7a Social Direta. Rever com o contabilista ou o advogado respons\xE1vel."
     ].filter(Boolean).join("\n");
     linhas.push(
       "BEGIN:VEVENT",
@@ -2320,6 +2320,12 @@ var CAMPOS_PERFIL = [
   "vendas_b2c",
   "trabalhadores_estrangeiros",
   "emite_faturas",
+  // v3.0 (escritórios: advogado responsável que revê e assina)
+  "advogado_nome",
+  "advogado_cedula",
+  "advogado_domicilio",
+  "advogado_email",
+  "advogado_nif",
   "atualizado_em"
 ];
 var PASTA2 = PASTA_DADOS;
@@ -2495,7 +2501,9 @@ var CATEGORIAS = [
   "references",
   "templates",
   "checklists",
-  "playbooks"
+  "playbooks",
+  "modelos",
+  "redacao"
 ];
 function dir(cat) {
   return join5(CONTENT_DIR, cat);
@@ -2862,14 +2870,281 @@ function gerarDocx(md, opts = {}) {
     quando
   );
 }
+var NS_R = 'xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships"';
+var PERFIS_FORMATO = {
+  juridico: { fonte: "Times New Roman", tamanho: 24, titulo: 24, margens: { top: 1701, right: 1134, bottom: 1134, left: 1701 }, linha: 360, data: "right" },
+  contabil: { fonte: "Arial", tamanho: 22, titulo: 24, margens: { top: 1418, right: 1418, bottom: 1418, left: 1418 }, linha: 276, data: "left" }
+};
+var TIPOS_COM_RECUO = ["peticao", "parecer"];
+var RECUO = 709;
+var RECUO_CITACAO = 2268;
+var MIUDO = 20;
+var LINHA_ASSINATURA = "_______________________";
+var RE_INLINE = /(\[■[^\]]*\]|\*\*.+?\*\*|(?<![0-9A-Za-zÀ-ÿ_])_(?=[^\s_])[^_\n]+?(?<=[^\s_])_(?![0-9A-Za-zÀ-ÿ_]))/g;
+function runR(texto, e = {}) {
+  const rPr = (e.negrito ? "<w:b/>" : "") + (e.italico ? "<w:i/>" : "") + (e.tamanho ? `<w:sz w:val="${e.tamanho}"/><w:szCs w:val="${e.tamanho}"/>` : "") + (e.realce ? '<w:highlight w:val="yellow"/>' : "");
+  return `<w:r>${rPr ? `<w:rPr>${rPr}</w:rPr>` : ""}<w:t xml:space="preserve">${xml(texto)}</w:t></w:r>`;
+}
+function inlineR(texto, base = {}) {
+  const out = [];
+  let ultimo = 0;
+  for (const m of texto.matchAll(RE_INLINE)) {
+    const i = m.index ?? 0;
+    if (i > ultimo) out.push(runR(texto.slice(ultimo, i), base));
+    const t = m[0];
+    if (t.startsWith("[\u25A0")) out.push(runR(t, { ...base, realce: true }));
+    else if (t.startsWith("**")) out.push(runR(t.slice(2, -2), { ...base, negrito: true }));
+    else out.push(runR(t.slice(1, -1), { ...base, italico: true }));
+    ultimo = i + t.length;
+  }
+  if (ultimo < texto.length) out.push(runR(texto.slice(ultimo), base));
+  return out.join("");
+}
+function pR(runs, o = {}) {
+  const espaco = o.antes !== void 0 || o.depois !== void 0 || o.linha !== void 0 ? `<w:spacing${o.antes !== void 0 ? ` w:before="${o.antes}"` : ""}${o.depois !== void 0 ? ` w:after="${o.depois}"` : ""}${o.linha !== void 0 ? ` w:line="${o.linha}" w:lineRule="auto"` : ""}/>` : "";
+  const ind = o.esquerda !== void 0 || o.primeira !== void 0 ? `<w:ind${o.esquerda !== void 0 ? ` w:left="${o.esquerda}"` : ""}${o.primeira !== void 0 ? ` w:firstLine="${o.primeira}"` : ""}/>` : "";
+  const pPr = (o.manter ? "<w:keepNext/>" : "") + espaco + ind + (o.jc ? `<w:jc w:val="${o.jc}"/>` : "");
+  return `<w:p>${pPr ? `<w:pPr>${pPr}</w:pPr>` : ""}${runs}</w:p>`;
+}
+var numerica = (c) => /^[\s()€%\d.,+-]*\d[\s()€%\d.,+-]*$/.test(c) || /^€|€$/.test(c.trim());
+function tabelaR(linhas, bordas) {
+  const ncol = Math.max(1, ...linhas.map((l) => l.length));
+  const largura = Math.floor(9e3 / ncol);
+  const lados = ["top", "left", "bottom", "right", "insideH", "insideV"];
+  const limites = bordas ? `<w:tblBorders>${lados.map((l) => `<w:${l} w:val="single" w:sz="4" w:space="0" w:color="808080"/>`).join("")}</w:tblBorders>` : `<w:tblBorders>${lados.map((l) => `<w:${l} w:val="nil"/>`).join("")}</w:tblBorders>`;
+  const grid = `<w:tblGrid>${Array.from({ length: ncol }, () => `<w:gridCol w:w="${largura}"/>`).join("")}</w:tblGrid>`;
+  const trs = linhas.map((r, i) => {
+    const cabecalho = bordas && i === 0;
+    const total = /^TOTAL\b/i.test(r[0] ?? "");
+    const tcs = Array.from({ length: ncol }, (_, c) => {
+      const t = r[c] ?? "";
+      const jc = cabecalho ? "center" : c > 0 && numerica(t) ? "right" : "left";
+      const sombra = cabecalho ? '<w:shd w:val="clear" w:color="auto" w:fill="D9D9D9"/>' : "";
+      return `<w:tc><w:tcPr><w:tcW w:w="${largura}" w:type="dxa"/>${sombra}</w:tcPr>${pR(inlineR(t, { tamanho: MIUDO, negrito: cabecalho || total }), { jc, depois: 0 })}</w:tc>`;
+    });
+    return `<w:tr>${tcs.join("")}</w:tr>`;
+  });
+  return `<w:tbl><w:tblPr><w:tblW w:w="5000" w:type="pct"/>${limites}</w:tblPr>${grid}${trs.join("")}</w:tbl>`;
+}
+function assinaturasR(pares2, tamanho) {
+  const linhas = [];
+  for (let i = 0; i < pares2.length; i += 2) linhas.push(pares2.slice(i, i + 2));
+  const ncol = Math.min(2, Math.max(1, pares2.length));
+  const largura = Math.floor(9e3 / ncol);
+  const sem = ["top", "left", "bottom", "right", "insideH", "insideV"].map((l) => `<w:${l} w:val="nil"/>`).join("");
+  const trs = linhas.map((par) => {
+    const tcs = Array.from({ length: ncol }, (_, c) => {
+      const p = par[c];
+      const conteudo = p ? pR(runR(LINHA_ASSINATURA, { tamanho }), { jc: "center", antes: 480, depois: 0 }) + pR(inlineR(p[0], { negrito: true, tamanho }), { jc: "center", depois: 0 }) + (p[1] ? pR(inlineR(p[1], { tamanho }), { jc: "center", depois: 0 }) : "") : "<w:p/>";
+      return `<w:tc><w:tcPr><w:tcW w:w="${largura}" w:type="dxa"/></w:tcPr>${conteudo}</w:tc>`;
+    });
+    return `<w:tr>${tcs.join("")}</w:tr>`;
+  });
+  const grid = `<w:tblGrid>${Array.from({ length: ncol }, () => `<w:gridCol w:w="${largura}"/>`).join("")}</w:tblGrid>`;
+  return `<w:tbl><w:tblPr><w:tblW w:w="5000" w:type="pct"/><w:tblBorders>${sem}</w:tblBorders></w:tblPr>${grid}${trs.join("")}</w:tbl>`;
+}
+function blocoR(b, f, recuo) {
+  const tituloTam = f.titulo !== f.tamanho ? f.titulo : void 0;
+  switch (b.k) {
+    case "corpo":
+      return pR(inlineR(b.texto), { jc: "both", primeira: recuo ? RECUO : void 0 });
+    case "titulo":
+      return pR(inlineR(b.texto.toUpperCase(), { negrito: true, tamanho: tituloTam }), { jc: "center", antes: 240, depois: 240, manter: true });
+    case "subtitulo":
+      return pR(inlineR(b.texto, { negrito: true }), { jc: "center", manter: true });
+    case "enderecamento":
+      return pR(inlineR(b.texto.toUpperCase(), { negrito: true }), { jc: "left", depois: 480 });
+    case "secao":
+    case "clausula":
+      return pR(inlineR(b.texto.toUpperCase(), { negrito: true }), { jc: "left", antes: 240, manter: true });
+    case "sub":
+      return pR(runR(b.rotulo, { negrito: true }) + runR(" ") + inlineR(b.texto), { jc: "both" });
+    case "alinea":
+      return pR(inlineR(b.texto), { jc: "both", esquerda: RECUO, primeira: 0 });
+    case "item":
+      return pR(inlineR(`${b.n}. ${b.texto}`), { jc: "both", esquerda: RECUO, primeira: 0 });
+    case "citacao":
+      return pR(inlineR(b.texto, { tamanho: f.tamanho - 2 }), { jc: "both", esquerda: RECUO_CITACAO, antes: 120, depois: 120, linha: 240 });
+    case "centro":
+      return pR(inlineR(b.texto), { jc: "center" });
+    case "direita":
+      return pR(inlineR(b.texto), { jc: "right" });
+    case "data":
+      return pR(inlineR(b.texto), { jc: f.data, antes: 480 });
+    case "nota":
+      return pR(inlineR(b.texto, { italico: true, tamanho: MIUDO }), { jc: "left" });
+    case "tabela":
+      return tabelaR(b.linhas, b.bordas) + "<w:p/>";
+    case "assinaturas":
+      return assinaturasR(b.pares) + "<w:p/>";
+    case "testemunhas":
+      return pR(runR("TESTEMUNHAS:", { negrito: true }), { jc: "left", antes: 240 }) + assinaturasR(b.pares, f.tamanho - 2) + "<w:p/>";
+    case "espaco":
+      return "<w:p/>";
+    case "quebra":
+      return '<w:p><w:r><w:br w:type="page"/></w:r></w:p>';
+  }
+}
+function estilosR(f) {
+  return `<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<w:styles ${NS}>
+<w:docDefaults><w:rPrDefault><w:rPr><w:rFonts w:ascii="${f.fonte}" w:hAnsi="${f.fonte}" w:cs="${f.fonte}" w:eastAsia="${f.fonte}"/><w:color w:val="000000"/><w:sz w:val="${f.tamanho}"/><w:szCs w:val="${f.tamanho}"/><w:lang w:val="pt-PT"/></w:rPr></w:rPrDefault><w:pPrDefault><w:pPr><w:spacing w:after="120" w:line="${f.linha}" w:lineRule="auto"/><w:jc w:val="both"/></w:pPr></w:pPrDefault></w:docDefaults>
+<w:style w:type="paragraph" w:default="1" w:styleId="Normal"><w:name w:val="Normal"/><w:qFormat/></w:style>
+</w:styles>`;
+}
+var RUN_CAMPO = (filho) => `<w:r><w:rPr><w:sz w:val="${MIUDO}"/><w:szCs w:val="${MIUDO}"/></w:rPr>${filho}</w:r>`;
+function rodapeR(f, texto) {
+  const largura = 11906 - f.margens.left - f.margens.right;
+  const campo = RUN_CAMPO('<w:fldChar w:fldCharType="begin"/>') + RUN_CAMPO('<w:instrText xml:space="preserve"> PAGE </w:instrText>') + RUN_CAMPO('<w:fldChar w:fldCharType="separate"/>') + runR("1", { tamanho: MIUDO }) + RUN_CAMPO('<w:fldChar w:fldCharType="end"/>');
+  return `<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<w:ftr ${NS} ${NS_R}><w:p><w:pPr><w:tabs><w:tab w:val="right" w:pos="${largura}"/></w:tabs><w:spacing w:after="0"/><w:jc w:val="left"/></w:pPr>${texto ? inlineR(texto, { tamanho: MIUDO }) : ""}<w:r><w:tab/></w:r>${campo}</w:p></w:ftr>`;
+}
+function cabecalhoR(texto) {
+  return `<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<w:hdr ${NS} ${NS_R}>${pR(inlineR(texto, { tamanho: MIUDO }), { jc: "center", depois: 0 })}</w:hdr>`;
+}
+function documentoXmlRedator(doc) {
+  const f = PERFIS_FORMATO[doc.perfil];
+  const recuo = doc.recuo ?? TIPOS_COM_RECUO.includes(doc.tipo);
+  const corpoXml = doc.blocos.map((b) => blocoR(b, f, recuo)).join("");
+  const m = f.margens;
+  const sect = `<w:sectPr>${doc.cabecalho ? '<w:headerReference w:type="default" r:id="rId3"/>' : ""}<w:footerReference w:type="default" r:id="rId2"/><w:pgSz w:w="11906" w:h="16838"/><w:pgMar w:top="${m.top}" w:right="${m.right}" w:bottom="${m.bottom}" w:left="${m.left}" w:header="709" w:footer="709" w:gutter="0"/></w:sectPr>`;
+  return `<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<w:document ${NS} ${NS_R}><w:body>${corpoXml}${sect}</w:body></w:document>`;
+}
+function gerarDocxRedator(doc, opts = {}) {
+  const quando = opts.quando ?? /* @__PURE__ */ new Date();
+  const f = PERFIS_FORMATO[doc.perfil];
+  const primeiroTitulo = doc.blocos.find((b) => b.k === "titulo");
+  const titulo = opts.titulo ?? primeiroTitulo?.texto ?? "Documento";
+  const tipos = TIPOS.replace(
+    "</Types>",
+    '<Override PartName="/word/footer1.xml" ContentType="application/vnd.openxmlformats-officedocument.wordprocessingml.footer+xml"/>\n' + (doc.cabecalho ? '<Override PartName="/word/header1.xml" ContentType="application/vnd.openxmlformats-officedocument.wordprocessingml.header+xml"/>\n' : "") + "</Types>"
+  );
+  const rels = `<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Relationships xmlns="http://schemas.openxmlformats.org/package/2006/relationships">
+<Relationship Id="rId1" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/styles" Target="styles.xml"/>
+<Relationship Id="rId2" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/footer" Target="footer1.xml"/>
+` + (doc.cabecalho ? `<Relationship Id="rId3" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/header" Target="header1.xml"/>
+` : "") + `</Relationships>`;
+  const entradas = [
+    { nome: "[Content_Types].xml", dados: tipos },
+    { nome: "_rels/.rels", dados: RELS },
+    { nome: "docProps/core.xml", dados: core(titulo, quando) },
+    { nome: "word/document.xml", dados: documentoXmlRedator(doc) },
+    { nome: "word/styles.xml", dados: estilosR(f) },
+    { nome: "word/footer1.xml", dados: rodapeR(f, doc.rodape) },
+    { nome: "word/_rels/document.xml.rels", dados: rels }
+  ];
+  if (doc.cabecalho) entradas.push({ nome: "word/header1.xml", dados: cabecalhoR(doc.cabecalho) });
+  return criarZip(entradas, quando);
+}
+
+// src/marcacao.ts
+var PERFIS = ["juridico", "contabil"];
+var TIPOS_DOC = ["peticao", "contrato", "carta", "memoria-calculo", "parecer", "ata", "recibo"];
+var SIMPLES = {
+  TITULO: "titulo",
+  SUBTITULO: "subtitulo",
+  ENDERECAMENTO: "enderecamento",
+  SECAO: "secao",
+  CLAUSULA: "clausula",
+  CENTRO: "centro",
+  DIREITA: "direita",
+  DATA: "data",
+  NOTA: "nota",
+  CITACAO: "citacao"
+};
+var RESIDUOS = [
+  ["ia", /\[\[IA:[^\]]*\]?\]?/],
+  ["variante", /\[\[(?:INÍCIO|INICIO) VARIANTE[^\]]*\]?\]?|\[\[FIM VARIANTE\]?\]?/],
+  ["variavel", /\{\{[^{}]*\}\}/]
+];
+function encontrarResiduos(texto) {
+  const out = [];
+  texto.replace(/\r\n?/g, "\n").split("\n").forEach((l, i) => {
+    for (const [tipo, re] of RESIDUOS) {
+      const m = re.exec(l);
+      if (m) out.push({ linha: i + 1, tipo, trecho: m[0].slice(0, 80) });
+    }
+  });
+  return out;
+}
+var pares = (v) => v.split(";;").map((b) => {
+  const [a, q = ""] = b.split("|").map((x) => x.trim());
+  return [a, q];
+});
+var linhasTabela = (v) => v.split(";;").map((r) => r.split("|").map((c) => c.trim()));
+function analisarMarcacao(texto) {
+  const linhas = String(texto ?? "").replace(/\r\n?/g, "\n").split("\n");
+  const erros = [];
+  const residuos = encontrarResiduos(texto);
+  const cab = (n, nome) => new RegExp(`^@@${nome}:\\s*(.*?)\\s*$`).exec(linhas[n] ?? "")?.[1];
+  const perfil = cab(0, "PERFIL");
+  if (perfil === void 0) erros.push({ linha: 1, msg: "a 1.\xAA linha tem de ser @@PERFIL: juridico | contabil" });
+  else if (!PERFIS.includes(perfil)) erros.push({ linha: 1, msg: `@@PERFIL inv\xE1lido: '${perfil}' (juridico | contabil)` });
+  const tipo = cab(1, "TIPO");
+  if (tipo === void 0) erros.push({ linha: 2, msg: `a 2.\xAA linha tem de ser @@TIPO: ${TIPOS_DOC.join(" | ")}` });
+  else if (!TIPOS_DOC.includes(tipo)) erros.push({ linha: 2, msg: `@@TIPO inv\xE1lido: '${tipo}' (${TIPOS_DOC.join(" | ")})` });
+  const doc = { perfil: perfil ?? "juridico", tipo: tipo ?? "carta", blocos: [] };
+  let item = 0;
+  for (let i = 2; i < linhas.length; i++) {
+    const linha = i + 1;
+    const l = linhas[i].trim();
+    if (!l) continue;
+    if (!l.startsWith("@@")) {
+      doc.blocos.push({ k: "corpo", texto: l.replace(/^\[MENÇÃO\]\s*/, ""), linha });
+      continue;
+    }
+    const m = /^@@([A-Z-]+)(?::\s*(.*))?$/.exec(l);
+    const nome = m?.[1] ?? "";
+    const valor = (m?.[2] ?? "").trim();
+    if (SIMPLES[nome]) {
+      doc.blocos.push({ k: SIMPLES[nome], texto: valor, linha });
+      if (nome === "SECAO") item = 0;
+    } else if (nome === "SUB") {
+      const i2 = valor.indexOf("|");
+      if (i2 < 0) erros.push({ linha, msg: "@@SUB precisa de 'R\xF3tulo. | texto'" });
+      else doc.blocos.push({ k: "sub", rotulo: valor.slice(0, i2).trim(), texto: valor.slice(i2 + 1).trim(), linha });
+    } else if (nome === "ALINEA") doc.blocos.push({ k: "alinea", texto: valor, linha });
+    else if (nome === "ITEM") doc.blocos.push({ k: "item", n: ++item, texto: valor, linha });
+    else if (nome === "ASSINATURAS" || nome === "TESTEMUNHAS") {
+      doc.blocos.push({ k: nome === "ASSINATURAS" ? "assinaturas" : "testemunhas", pares: pares(valor), linha });
+    } else if (nome === "TABELA" || nome === "TABELA-SEM-BORDA") {
+      doc.blocos.push({ k: "tabela", bordas: nome === "TABELA", linhas: linhasTabela(valor), linha });
+    } else if (nome === "QUEBRA" || nome === "ESPACO") doc.blocos.push({ k: nome === "QUEBRA" ? "quebra" : "espaco", linha });
+    else if (nome === "CABECALHO") doc.cabecalho = valor;
+    else if (nome === "RODAPE") doc.rodape = valor;
+    else if (nome === "RECUO") {
+      if (valor === "sim" || valor === "nao") doc.recuo = valor === "sim";
+      else erros.push({ linha, msg: "@@RECUO: sim | nao" });
+    } else if (nome === "PERFIL" || nome === "TIPO") erros.push({ linha, msg: `@@${nome} s\xF3 nas duas primeiras linhas` });
+    else erros.push({ linha, msg: `comando desconhecido: @@${nome || l.slice(2)}` });
+  }
+  return { doc: erros.length ? null : doc, residuos, erros };
+}
+var RE_MARCADOR = /\[■ (CONFIRMAR|VERIFICAR)\b[^\]]*\]/g;
+function marcadoresDe(doc) {
+  const out = [];
+  let onde = "pre\xE2mbulo";
+  for (const b of doc.blocos) {
+    if (b.k === "clausula" || b.k === "secao") onde = b.texto;
+    const textos = "texto" in b ? [("rotulo" in b ? b.rotulo + " " : "") + b.texto] : "pares" in b ? b.pares.flat() : "linhas" in b ? b.linhas.flat() : [];
+    for (const t of textos) {
+      for (const m of t.matchAll(RE_MARCADOR)) out.push({ tipo: m[1], texto: m[0], onde, linha: b.linha });
+    }
+  }
+  return out;
+}
 
 // src/exportar.ts
 var NOME_RE2 = /^[a-z0-9][a-z0-9-]{0,60}$/;
+var eMarcacaoRedator = (texto) => /^\s*@@PERFIL:/.test(String(texto ?? ""));
 function exportarDocumento(p) {
   const nome = String(p.nome ?? "").trim().toLowerCase().replace(/\.docx$/, "");
   if (!NOME_RE2.test(nome)) throw new Error(`Nome de ficheiro inv\xE1lido: '${p.nome}' (usa letras min\xFAsculas, algarismos e h\xEDfens).`);
   if (p.conteudo === void 0 === (p.template === void 0)) {
-    throw new Error("Indica o conte\xFAdo (Markdown) OU o nome de um template \u2014 um dos dois.");
+    throw new Error("Indica o conte\xFAdo (Markdown ou Marca\xE7\xE3o Redator) OU o nome de um template \u2014 um dos dois.");
   }
   let md = p.conteudo ?? "";
   if (p.template !== void 0) {
@@ -2878,10 +3153,22 @@ function exportarDocumento(p) {
     md = t;
   }
   if (!md.trim()) throw new Error("O documento est\xE1 vazio.");
+  if (eMarcacaoRedator(md)) {
+    const { doc, residuos, erros } = analisarMarcacao(md.replace(/^\s+/, ""));
+    if (residuos.length) {
+      throw new Error(
+        "N\xE3o exportei: o texto ainda tem marcas internas que n\xE3o podem chegar ao documento. Corrige estas linhas e volta a exportar:\n" + residuos.map((r) => `L${r.linha} ${r.tipo}: ${r.trecho}`).join("\n")
+      );
+    }
+    if (!doc) throw new Error("Marca\xE7\xE3o Redator inv\xE1lida:\n" + erros.map((e) => `L${e.linha} ${e.msg}`).join("\n"));
+    const bytes2 = gerarDocxRedator(doc);
+    const caminho3 = escreverSeguro(dirProjeto(p.projeto), [PASTA_DADOS, "exportados", `${nome}.docx`], bytes2);
+    return { caminho: caminho3, bytes: bytes2.length, placeholders: 0, marcadores: marcadoresDe(doc) };
+  }
   const bytes = gerarDocx(md);
   const caminho2 = escreverSeguro(dirProjeto(p.projeto), [PASTA_DADOS, "exportados", `${nome}.docx`], bytes);
   const placeholders = (md.match(/\{\{[A-Z0-9_]+(?::[^{}]*)?\}\}/g) ?? []).length;
-  return { caminho: caminho2, bytes: bytes.length, placeholders };
+  return { caminho: caminho2, bytes: bytes.length, placeholders, marcadores: [] };
 }
 export {
   COMPENSACAO_MODALIDADES,

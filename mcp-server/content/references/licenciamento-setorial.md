@@ -197,7 +197,7 @@
 > Documentos gerados a pedido neste estilo. Os que já existem como ficheiro estão em `assets/templates/` (ver índice); os restantes são redigidos quando pedires.
 
 - `assets/templates/defesa-contraordenacao.md` — defesa escrita contra coimas da ASAE, IMT, IMPIC, ACT ou da câmara
-- `assets/templates/contrato-arrendamento-habitacional.md` — alternativa ao AL (arrendamento de longa duração)
+- `assets/modelos/contrato-de-arrendamento-habitacional.md` — alternativa ao AL (arrendamento de longa duração)
 - `assets/templates/contrato-promessa-compra-venda.md` — compra de imóvel para a atividade (inclui a menção ao título urbanístico)
 - `assets/templates/politica-privacidade.md` — informação aos hóspedes e clientes sobre dados pessoais
 - `assets/checklists/checklist-due-diligence-imovel.md` — verificação do imóvel antes de comprar

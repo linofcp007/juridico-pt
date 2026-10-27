@@ -109,7 +109,7 @@ _(Nota para quem usa o template — não faz parte do documento.)_
 _(Lista para quem envia — não faz parte do documento.)_
 
 - [ ] ⏰ **Duração** ≤ 24 meses após a cessação (art. 136.º, n.º 2); entre 24 e 36 meses só com a justificação do art. 136.º, n.º 5 escrita na Cláusula 4.ª, n.º 2. A contagem começa na data da cessação do contrato.
-- [ ] **Forma escrita** e assinatura das duas partes (art. 136.º, n.º 2, al. a)); um exemplar para cada. Se integrado num acordo de revogação, ver `assets/templates/acordo-revogacao.md`.
+- [ ] **Forma escrita** e assinatura das duas partes (art. 136.º, n.º 2, al. a)); um exemplar para cada. Se integrado num acordo de revogação, ver `assets/modelos/acordo-de-revogacao-do-contrato-de-trabalho.md`.
 - [ ] **Atividade e prejuízo concretos** (Cláusulas 1.ª e 2.ª): descrever a atividade que o trabalhador realmente exercia e porque é que a concorrência prejudica a empresa — cláusulas genéricas arriscam a nulidade (art. 136.º, n.º 1).
 - [ ] **Compensação** paga **durante o período de limitação** (art. 136.º, n.º 2, al. c)); a lei não fixa mínimo — confirmar que o valor é determinado ou determinável e não irrisório (ver a Nota doutrinal). Para referência salarial (RMMG), ver `references/valores-2026.md`.
 - [ ] **Redução por formação** só se houver despesas **avultadas** com a formação do trabalhador, documentadas (Anexo II).

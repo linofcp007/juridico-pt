@@ -90,7 +90,9 @@ const textoDe = (res) => (res.content || []).map((c) => c.text || "").join("\n")
 
 // ---------------- US-1 renomeação ----------------
 
-test("T-302 apresenta-se como assistente jurídico, nunca como advogado; o aviso da OA mantém-se", () => {
+// Na 3.0 (juridico-pt-v3-0-redator, T-401) a persona passou a escrever no registo de advogado: a exigência de
+// "assistente jurídico" saiu; mantém-se que nunca se apresenta como "o advogado" nem afirma inscrição na OA.
+test("T-302 nunca se apresenta como o advogado do utilizador nem afirma inscrição na OA", () => {
   const ficheiros = [
     r("mcp-server", "src", "persona.ts"), SKILL("SKILL.md"), r("README.md"), r("AGENTS.md"), r("GEMINI.md"),
     ...readdirSync(r("commands")).map((f) => r("commands", f)),
@@ -100,7 +102,7 @@ test("T-302 apresenta-se como assistente jurídico, nunca como advogado; o aviso
   const falhas = ficheiros.filter((f) => PROIBIDO.test(ler(f))).map((f) => f.slice(repo.length + 1));
   assert.deepEqual(falhas, [], `apresentação como advogado em: ${falhas.join(", ")}`);
   for (const f of [r("mcp-server", "src", "persona.ts"), SKILL("SKILL.md")]) {
-    assert.match(ler(f), /assistente jurídico/i, f);
+    assert.match(ler(f), /nunca afirm\w*[^.\n]{0,40}advogado inscrito/i, f);
     assert.match(ler(f), /Ordem dos Advogados|inscrito na OA/i, f);
   }
 });

@@ -1,0 +1,75 @@
+{
+  "_nota": "Casos do verificador de redação (US-6), partilhados pelo TS (T-437 a T-439) e pelo Python (T-440). Regra: uma ocorrência por linha e por categoria, exceto 'limite-1x', que conta cada repetição a partir da segunda. Compara-se só o filtro 'categorias' de cada caso, ordenado por linha e categoria; 'esperado' = [linha, nivel, categoria].",
+  "casos": [
+    {
+      "nome": "travessao",
+      "texto": "@@CLAUSULA: CLÁUSULA PRIMEIRA – OBJETO\nO prazo termina amanhã — sem prorrogação.",
+      "opcoes": {},
+      "categorias": ["travessao"],
+      "esperado": [[2, "ERRO", "travessao"]]
+    },
+    {
+      "nome": "abertura",
+      "texto": "É importante ressaltar que o prazo terminou.",
+      "opcoes": {},
+      "categorias": ["proibido/abertura"],
+      "esperado": [[1, "ERRO", "proibido/abertura"]]
+    },
+    {
+      "nome": "limite-1x",
+      "texto": "Outrossim, o réu faltou à audiência.\nOutrossim, não pagou.",
+      "opcoes": {},
+      "categorias": ["limite-1x"],
+      "esperado": [[2, "ERRO", "limite-1x"]]
+    },
+    {
+      "nome": "markdown",
+      "texto": "# Título\n- item da lista",
+      "opcoes": {},
+      "categorias": ["markdown"],
+      "esperado": [[1, "ERRO", "markdown"], [2, "ERRO", "markdown"]]
+    },
+    {
+      "nome": "markdown-guia",
+      "texto": "# Título\n- item da lista",
+      "opcoes": { "guia": true },
+      "categorias": ["markdown"],
+      "esperado": []
+    },
+    {
+      "nome": "aspas-curvas",
+      "texto": "O réu respondeu “não pago”.",
+      "opcoes": {},
+      "categorias": ["pontuacao"],
+      "esperado": [[1, "ERRO", "pontuacao"]]
+    },
+    {
+      "nome": "residuo",
+      "texto": "Texto [[IA: tirar isto]] aqui.\nExmo. Senhor {{nome}},",
+      "opcoes": {},
+      "categorias": ["residuo"],
+      "esperado": [[1, "ERRO", "residuo"]]
+    },
+    {
+      "nome": "residuo-final",
+      "texto": "Texto [[IA: tirar isto]] aqui.\nExmo. Senhor {{nome}},",
+      "opcoes": { "final": true },
+      "categorias": ["residuo"],
+      "esperado": [[1, "ERRO", "residuo"], [2, "ERRO", "residuo"]]
+    },
+    {
+      "nome": "ptbr",
+      "texto": "O usuário pediu o documento.\nConsta do registro predial.\nVeja a planilha anexa.\nO contato do réu é antigo.\nO fato ocorreu ontem.\nRemeta ao arquivo.\nO facto ocorreu ontem.\nFeita a vistoria ao locado.\nVem demandar o réu.\nDeterminou o arquivamento.",
+      "opcoes": {},
+      "categorias": ["ptbr"],
+      "esperado": [[1, "ERRO", "ptbr"], [2, "ERRO", "ptbr"], [3, "ERRO", "ptbr"], [4, "ERRO", "ptbr"], [5, "ERRO", "ptbr"], [6, "AVISO", "ptbr"]]
+    },
+    {
+      "nome": "isencoes",
+      "texto": "@@SECAO: I – DOS FACTOS\n[MENÇÃO] É importante ressaltar que — diz a norma.\nO valor `é importante ressaltar` fica entre crases.\nO prazo — curto.",
+      "opcoes": {},
+      "categorias": ["travessao", "proibido/abertura"],
+      "esperado": [[4, "ERRO", "travessao"]]
+    }
+  ]
+}

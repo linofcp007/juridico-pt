@@ -23,14 +23,14 @@
    - **Inadaptação** após formação/alterações no posto → procedimento próprio (próximo da extinção do posto; ver `references/laboral.md`).
 
 3. **Justa causa → processo disciplinar OBRIGATÓRIO.** Tens prova suficiente do facto? → se NÃO: reúne prova antes (testemunhos, registos, comunicações) · se SIM:
-   - Elabora e entrega a **nota de culpa** ao trabalhador (`assets/templates/nota-de-culpa.md`) — descrição circunstanciada dos factos e da intenção de despedir.
+   - Elabora e entrega a **nota de culpa** ao trabalhador (`assets/modelos/processo-disciplinar-nota-de-culpa-e-decisao-de-despedimento.md`) — descrição circunstanciada dos factos e da intenção de despedir.
    - Aguarda a **resposta** (10 dias úteis) e realiza as diligências requeridas que sejam pertinentes.
    - Profere **decisão fundamentada** por escrito no prazo de **30 dias** após as diligências (CT, art. 357.º) e comunica-a ao trabalhador. Se houver comissão de trabalhadores/sindicato, há comunicações próprias; se o trabalhador estiver protegido (parentalidade), pede antes o parecer da CITE (CT, art. 63.º).
    - ⚠️ Vícios neste processo = despedimento ilícito. Sequência mínima: **nota de culpa → resposta → instrução → decisão**.
 
 4. **Extinção do posto de trabalho** → critérios legais rigorosos (o posto tem de desaparecer efetivamente; não pode haver outro idêntico; critérios objetivos e não discriminatórios para escolher quem sai). Há comunicações e prazos próprios. **Compensação: 14 dias/ano** (Arts. 372.º e 366.º CT). Confirma a viabilidade em `references/laboral.md` — é frequentemente impugnada.
 
-5. **Mútuo acordo (revogação)** → a via mais segura e sem litígio. Negoceia a compensação e formaliza o **acordo de revogação** (`assets/templates/acordo-revogacao.md`), por escrito, com indicação do montante e da data de cessação. O trabalhador tem **direito de retratação de 7 dias** (se a assinatura não for presencial com reconhecimento) — tê-lo em conta.
+5. **Mútuo acordo (revogação)** → a via mais segura e sem litígio. Negoceia a compensação e formaliza o **acordo de revogação** (`assets/modelos/acordo-de-revogacao-do-contrato-de-trabalho.md`), por escrito, com indicação do montante e da data de cessação. O trabalhador tem **direito de retratação de 7 dias** (se a assinatura não for presencial com reconhecimento) — tê-lo em conta.
 
 6. **Calcula a compensação devida** (qualquer via com indemnização):
    ```
@@ -46,8 +46,8 @@
 
 ## Documentos a usar
 
-- `assets/templates/nota-de-culpa.md` — abertura do processo disciplinar (justa causa)
-- `assets/templates/acordo-revogacao.md` — cessação por mútuo acordo
+- `assets/modelos/processo-disciplinar-nota-de-culpa-e-decisao-de-despedimento.md` — abertura do processo disciplinar (justa causa)
+- `assets/modelos/acordo-de-revogacao-do-contrato-de-trabalho.md` — cessação por mútuo acordo
 - `scripts/compensacao_despedimento.py` — cálculo da compensação por modalidade e antiguidade
 - `references/laboral.md` — cessação do contrato, fundamentos, processo disciplinar, compensações, períodos experimentais
 - `references/valores-2026.md` — dias de compensação, salário mínimo e taxas atualizadas

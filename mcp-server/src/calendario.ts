@@ -834,7 +834,7 @@ export function paraICS(obrigacoes: Obrigacao[], opts: { hoje?: Date; alarmeDias
       o.nota ?? "",
       o.aConfirmar ? `A confirmar no perfil: ${o.camposEmFalta.join(", ")}` : "",
       `Fonte: ${o.fonte}`,
-      "Gerado pelo juridico-pt: confirmar no Portal das Finanças / Segurança Social Direta. Não substitui advogado nem contabilista.",
+      "Gerado pelo juridico-pt: confirmar no Portal das Finanças / Segurança Social Direta. Rever com o contabilista ou o advogado responsável.",
     ]
       .filter(Boolean)
       .join("\n");

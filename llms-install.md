@@ -38,7 +38,7 @@ Todas as operações são locais: sem rede, sem API key.
    A mesma shape `mcpServers` funciona em **Cursor, Claude Desktop, Windsurf, Gemini e Cline**.
    Dica: `node cli/juridico-pt.mjs mcp-config <host>` imprime o bloco com o caminho absoluto já preenchido.
 
-4. **Recarrega o cliente MCP.** O servidor anuncia **38 tools** (17 calculadoras jurídicas,
+4. **Recarrega o cliente MCP.** O servidor anuncia **41 tools** (17 calculadoras jurídicas,
    10 de perfil, calendário e prazos, 11 de conteúdo e documentos), **resources** (todo o conteúdo jurídico em
    `juridico-pt://{categoria}/{nome}`) e o **prompt** `assistente_juridico` (persona de assistente jurídico de Portugal).
 
@@ -48,4 +48,4 @@ Todas as operações são locais: sem rede, sem API key.
 - **Línguas:** PT e EN.
 - **Privacidade:** o conteúdo é local e o servidor nunca acede à rede. O perfil da empresa e os
   prazos ficam em ficheiros de texto em `.juridico-pt/` (projeto) e `~/.juridico-pt/` (geral).
-- **Aviso:** orientação informativa — não substitui advogado inscrito na Ordem dos Advogados.
+- **Aviso:** redação no registo de advogado; cada documento precisa de revisão antes de ser assinado (o sistema nunca afirma inscrição na Ordem dos Advogados).

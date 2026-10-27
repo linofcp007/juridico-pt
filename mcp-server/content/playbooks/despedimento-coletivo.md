@@ -20,7 +20,7 @@
 
 1. **É mesmo um despedimento coletivo?** Soma as cessações por iniciativa da empresa no período de 3 meses e confirma o fundamento: **motivos de mercado** (redução da atividade por diminuição previsível da procura ou impossibilidade de colocar os bens/serviços no mercado), **estruturais** (desequilíbrio económico-financeiro, mudança de atividade, reestruturação, substituição de produtos dominantes) ou **tecnológicos** (alteração de técnicas ou processos, automatização, informatização) — art. 359.º, n.º 2 → se atinges 2 (micro/pequena) ou 5 (média/grande): passo 2 · se não atinges: **extinção do posto de trabalho** (arts. 367.º a 372.º — ver comparação e `playbooks/quero-despedir.md`). Não fraciones artificialmente as saídas para fugir ao regime.
 
-2. **Há alternativas que reduzam o número de despedimentos?** A lei obriga a discuti-las na negociação (art. 361.º, n.º 1): suspensão de contratos ou redução de horários (sem precisares do procedimento dos arts. 299.º e 300.º — n.º 2), reconversão ou reclassificação profissional e reforma antecipada ou pré-reforma (estas duas só com acordo do trabalhador — n.º 3). Considera também **acordos de revogação** negociados (`assets/templates/acordo-revogacao.md`), confirmando o impacto no acesso do trabalhador ao subsídio de desemprego (a confirmar caso a caso). Se a crise for temporária: `playbooks/lay-off.md`.
+2. **Há alternativas que reduzam o número de despedimentos?** A lei obriga a discuti-las na negociação (art. 361.º, n.º 1): suspensão de contratos ou redução de horários (sem precisares do procedimento dos arts. 299.º e 300.º — n.º 2), reconversão ou reclassificação profissional e reforma antecipada ou pré-reforma (estas duas só com acordo do trabalhador — n.º 3). Considera também **acordos de revogação** negociados (`assets/modelos/acordo-de-revogacao-do-contrato-de-trabalho.md`), confirmando o impacto no acesso do trabalhador ao subsídio de desemprego (a confirmar caso a caso). Se a crise for temporária: `playbooks/lay-off.md`.
 
 3. **Prepara o dossier** — é o que o tribunal vai escrutinar:
    - Fundamentação **económica, documentada** (contas, quebras de vendas, perda de clientes, plano de reestruturação) e o nexo entre os motivos e os postos a eliminar.
@@ -83,7 +83,7 @@
 
 - `playbooks/quero-despedir.md` — escolher o fundamento de cessação (inclui a extinção do posto de trabalho)
 - `playbooks/lay-off.md` — alternativa temporária à redução de pessoal
-- `assets/templates/acordo-revogacao.md` — saídas negociadas por mútuo acordo
+- `assets/modelos/acordo-de-revogacao-do-contrato-de-trabalho.md` — saídas negociadas por mútuo acordo
 - `references/laboral.md` — cessação do contrato e compensações
 - `references/valores-2026.md` — RMMG para os tetos da compensação
 - Tool `calc_compensacao_despedimento` / `scripts/compensacao_despedimento.py` — compensação por trabalhador

@@ -19,11 +19,11 @@
 Tudo fica em ficheiros de texto no computador do utilizador, numa pasta `.juridico-pt/`:
 
 - `<projeto>/.juridico-pt/` — dados do projeto/pasta aberta; `~/.juridico-pt/` — perfil geral (a pasta muda com a variável `JURIDICO_PT_HOME`).
-- `perfil-empresa.md` — o perfil da empresa (forma jurídica, setor, n.º de trabalhadores, regime de IVA, etc.), só com os campos que o utilizador quis guardar.
+- `perfil-empresa.md` — o perfil da empresa (forma jurídica, setor, n.º de trabalhadores, regime de IVA, etc.), só com os campos que o utilizador quis guardar. Num escritório, também o **advogado responsável** que revê e assina (`advogado_nome`, `advogado_cedula`, `advogado_domicilio`, `advogado_email`, `advogado_nif` — dados de identificação e contacto profissional), usados no bloco de assinatura e na identificação do mandatário.
 - `perfis/<nome>.md` e `perfil-ativo` — perfis nomeados (modo contabilista: um por cliente) e qual está ativo.
 - `prazos.md` — prazos em curso registados com `registar_prazo` (data, descrição, origem e, se indicado, o perfil).
 - `calendario-<ano>[-<perfil>].ics` — calendários exportados.
-- `exportados/<nome>.docx` — documentos exportados com `exportar_documento`.
+- `exportados/<nome>.docx` — documentos exportados com `exportar_documento`. São o **único** sítio onde ficam os dados das partes de um documento (nome, NIF/NIPC, morada, contactos, IBAN, factos de um processo disciplinar ou de uma dívida): o plugin não os copia para o perfil, para os prazos nem para nenhum outro ficheiro.
 
 O plugin **não envia** estes ficheiros para nenhum servidor seu, não tem telemetria e não guarda o conteúdo das conversas. O servidor MCP e os hooks correm localmente e só leem e escrevem dentro destas pastas (sem seguir ligações simbólicas).
 
@@ -35,8 +35,8 @@ O plugin **não envia** estes ficheiros para nenhum servidor seu, não tem telem
 
 ## Como apagar
 
-- `apagar_perfil` (nome do perfil; `perfil-empresa` para o perfil por defeito) — apaga o ficheiro do perfil, os prazos desse perfil, os seus calendários `.ics` e a marca de perfil ativo. Não se desfaz.
-- Os documentos exportados apagam-se à mão em `.juridico-pt/exportados/`.
+- `apagar_perfil` (nome do perfil; `perfil-empresa` para o perfil por defeito) — apaga o ficheiro do perfil (incluindo os dados do advogado responsável), os prazos desse perfil, os seus calendários `.ics` e a marca de perfil ativo. Não se desfaz.
+- Os documentos exportados (com os dados das partes) apagam-se à mão em `.juridico-pt/exportados/`, como qualquer ficheiro.
 - Para apagar tudo: apagar a pasta `.juridico-pt/` do projeto e a de `~/.juridico-pt/`.
 
 ## Repositórios git
@@ -53,6 +53,8 @@ Num projeto que é um repositório git, os dados da `.juridico-pt/` podiam ser p
 
 - **Empresa a tratar os seus próprios dados**: o perfil guarda sobretudo dados da empresa; se for um ENI, alguns são dados pessoais do próprio.
 - **Contabilista ou consultor com perfis de clientes**: o utilizador é o **responsável pelo tratamento** desses dados — precisa de fundamento (em regra, o contrato com o cliente), de informar os clientes (arts. 13.º e 14.º) e de os apagar quando deixarem de ser necessários (`apagar_perfil`).
+- **Escritório de advogados que redige com o plugin**: o escritório é o responsável pelo tratamento dos dados das partes dos documentos (fundamento típico: execução do mandato ou do contrato, obrigação jurídica ou defesa de um direito — art. 6.º, n.º 1, als. b), c) e f), RGPD). A entrevista pede só os dados pessoais que o modelo usa.
+- **Categorias especiais** (saúde, filiação sindical, convicções, dados de menores — art. 9.º RGPD): só entram no documento se o utilizador as der e o modelo as usar (por exemplo, faltas por doença num processo disciplinar); evitar colá-las na conversa sem necessidade. Um escritório que redija em volume processos com dados de saúde pode ter de fazer a sua **AIPD** (art. 35.º RGPD); o plugin, por si, não trata dados em grande escala e não precisa dela.
 - **Computador partilhado ou portátil**: proteger a conta e o disco (cifra) — os ficheiros ficam em texto simples.
 - Dúvidas sobre o próprio RGPD da empresa: ver `references/rgpd.md`.
 

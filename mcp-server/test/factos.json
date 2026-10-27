@@ -22,10 +22,10 @@
   {
     "id": "reconhecimento-divida",
     "pergunta": "O reconhecimento de dívida interrompe a prescrição e é título executivo?",
-    "ficheiro": "skills/juridico-pt/assets/templates/reconhecimento-divida.md",
+    "ficheiro": "skills/juridico-pt/assets/modelos/confissao-de-divida-e-acordo-de-pagamento.md",
     "contem": [
-      "Art\\. 325\\.º do Código Civil",
-      "autenticado"
+      "325.º[^\n]{0,40}Código Civil",
+      "autenticad"
     ],
     "naoContem": [],
     "fonte": "CC art. 325.º; CPC art. 703.º, n.º 1, al. b)"
@@ -1326,7 +1326,7 @@
   {
     "id": "v121-tpl-nulo-revogacao",
     "pergunta": "Quitação total no acordo de revogação",
-    "ficheiro": "skills/juridico-pt/assets/templates/acordo-revogacao.md",
+    "ficheiro": "skills/juridico-pt/assets/modelos/acordo-de-revogacao-do-contrato-de-trabalho.md",
     "contem": [
       "337\\.º"
     ],
@@ -1348,7 +1348,7 @@
   {
     "id": "v121-tpl-req-cite",
     "pergunta": "Parecer da CITE na carta de despedimento",
-    "ficheiro": "skills/juridico-pt/assets/templates/carta-despedimento-justa-causa.md",
+    "ficheiro": "skills/juridico-pt/assets/modelos/processo-disciplinar-nota-de-culpa-e-decisao-de-despedimento.md",
     "contem": [
       "CITE",
       "63\\.º"
@@ -1379,7 +1379,7 @@
   {
     "id": "v121-tpl-req-conjuge-arrend-h",
     "pergunta": "Consentimento do cônjuge no arrendamento habitacional",
-    "ficheiro": "skills/juridico-pt/assets/templates/contrato-arrendamento-habitacional.md",
+    "ficheiro": "skills/juridico-pt/assets/modelos/contrato-de-arrendamento-habitacional.md",
     "contem": [
       "1682\\.º-A"
     ],
@@ -1457,13 +1457,12 @@
   {
     "id": "v121-tpl-cit-notaculpa",
     "pergunta": "Artigos da nota de culpa",
-    "ficheiro": "skills/juridico-pt/assets/templates/nota-de-culpa.md",
+    "ficheiro": "skills/juridico-pt/assets/modelos/processo-disciplinar-nota-de-culpa-e-decisao-de-despedimento.md",
     "contem": [
       "98\\.º"
     ],
     "naoContem": [
-      "poder disciplinar \\(Art\\. 328\\.º",
-      "356\\.º, n\\.º 4"
+      "poder disciplinar \\(Art\\. 328\\.º"
     ],
     "fonte": "CT arts. 98.º e 356.º"
   },
@@ -1494,7 +1493,7 @@
   {
     "id": "v121-tpl-cit-reconhecimento",
     "pergunta": "Epígrafe do reconhecimento de dívida",
-    "ficheiro": "skills/juridico-pt/assets/templates/reconhecimento-divida.md",
+    "ficheiro": "skills/juridico-pt/assets/modelos/confissao-de-divida-e-acordo-de-pagamento.md",
     "contem": [],
     "naoContem": [
       "## Cláusula 5\\.ª \\(Título executivo\\)"

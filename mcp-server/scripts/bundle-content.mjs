@@ -17,6 +17,8 @@ const COPY = [
   ["assets/templates", "templates"],
   ["assets/checklists", "checklists"],
   ["playbooks", "playbooks"],
+  ["assets/modelos", "modelos"],
+  ["assets/redacao", "redacao"],
 ];
 
 async function main() {

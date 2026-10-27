@@ -205,3 +205,30 @@ test("v1.2: títulos técnicos parecidos com as peças e regulamentos novos não
   assert.equal(dispara("docs/oi.md", "# OPOSIÇÃO AO REQUERIMENTO DE INJUNÇÃO\n\nExmo. Senhor"), true);
   assert.equal(dispara("docs/ri.md", "# REGULAMENTO INTERNO DE EMPRESA\n\nArtigo 1.º"), true);
 });
+
+// --- v3.0: persona no registo de advogado e advogado responsável no perfil ----
+
+test("T-406 SessionStart sem o aviso antigo ('não substitui advogado') e com a revisão antes de assinar", () => {
+  const ANTIGO = /não substitui (o |um )?advogado|not a substitute for a (registered )?lawyer/i;
+  const a = dirsHook();
+  perfilEm(a.projeto, "forma_juridica: Lda\natualizado_em: 2026-09-01\n");
+  const comDados = mensagemSessionStart({ ...a, hoje: HOJE_HOOK });
+  const semDados = mensagemSessionStart({ ...dirsHook(), hoje: HOJE_HOOK });
+  for (const m of [comDados, semDados]) {
+    assert.doesNotMatch(m, ANTIGO);
+    assert.match(m, /revis/i);
+  }
+});
+
+test("T-446 SessionStart reconhece os 5 campos do advogado responsável (leitor alinhado com perfil.ts)", () => {
+  const a = dirsHook();
+  perfilEm(
+    a.projeto,
+    "forma_juridica: Sociedade de advogados\nadvogado_nome: Dra. Ana Teste\nadvogado_cedula: 88888L\n" +
+      "advogado_domicilio: Rua de Teste, 1\nadvogado_email: ana@teste.pt\nadvogado_nif: 999999990\natualizado_em: 2026-09-01\n"
+  );
+  const m = mensagemSessionStart({ ...a, hoje: HOJE_HOOK });
+  for (const s of ["advogado_nome: Dra. Ana Teste", "advogado_cedula: 88888L", "advogado_domicilio: Rua de Teste, 1", "advogado_email: ana@teste.pt", "advogado_nif: 999999990"]) {
+    assert.ok(m.includes(s), `falta '${s}'`);
+  }
+});

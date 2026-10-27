@@ -15,6 +15,12 @@
       "dependsOn": [
         "advogado-pt-v1-2-1-correcoes"
       ]
+    },
+    "juridico-pt-v3-0-redator": {
+      "dependsOn": [
+        "advogado-pt-v1-1-empresas",
+        "advogado-pt-v1-2-1-correcoes"
+      ]
     }
   },
   "meta": {
@@ -23,6 +29,6 @@
       "mcp-test": "npm --prefix mcp-server test",
       "py-test": "python skills/juridico-pt/scripts/test_scripts.py"
     },
-    "specVersion": "1.21.1"
+    "specVersion": "1.32.0"
   }
 }

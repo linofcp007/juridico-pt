@@ -9,13 +9,15 @@ const here = dirname(fileURLToPath(import.meta.url));
 // dist/content.js -> ../content
 export const CONTENT_DIR = resolve(here, "..", "content");
 
-export type Categoria = "references" | "templates" | "checklists" | "playbooks";
+export type Categoria = "references" | "templates" | "checklists" | "playbooks" | "modelos" | "redacao";
 
 export const CATEGORIAS: Categoria[] = [
   "references",
   "templates",
   "checklists",
   "playbooks",
+  "modelos",
+  "redacao",
 ];
 
 const LABEL: Record<Categoria, string> = {
@@ -23,6 +25,8 @@ const LABEL: Record<Categoria, string> = {
   templates: "Template",
   checklists: "Checklist",
   playbooks: "Playbook",
+  modelos: "Modelo conferido",
+  redacao: "Guia de redação",
 };
 
 function dir(cat: Categoria): string {
@@ -127,8 +131,10 @@ const TITULO_GRUPO: Record<Categoria, string> = {
   templates: "Templates",
   playbooks: "Playbooks",
   checklists: "Checklists",
+  modelos: "Modelos conferidos",
+  redacao: "Guias de redação",
 };
-const ORDEM_GRUPOS: Categoria[] = ["references", "templates", "playbooks", "checklists"];
+const ORDEM_GRUPOS: Categoria[] = ["references", "modelos", "templates", "playbooks", "checklists", "redacao"];
 
 /** Formata resultados de `procurar` agrupados por tipo, com o âmbito de cada item. */
 export function formatarProcura(res: ResultadoProcura[]): string {
@@ -142,4 +148,83 @@ export function formatarProcura(res: ResultadoProcura[]): string {
     blocos.push(`## ${TITULO_GRUPO[cat]}${NL}${linhas.join(NL)}`);
   }
   return blocos.join(NL + NL);
+}
+
+// --- Modelos conferidos (assets/modelos/): leitura por secções e templates substituídos ---
+
+/** Templates da v2.x substituídos por um modelo conferido na 3.0 (o nome antigo continua a funcionar). */
+export const SUBSTITUIDOS: Readonly<Record<string, string>> = {
+  "reconhecimento-divida": "confissao-de-divida-e-acordo-de-pagamento",
+  "contrato-arrendamento-habitacional": "contrato-de-arrendamento-habitacional",
+  "acordo-revogacao": "acordo-de-revogacao-do-contrato-de-trabalho",
+  "nota-de-culpa": "processo-disciplinar-nota-de-culpa-e-decisao-de-despedimento",
+  "carta-despedimento-justa-causa": "processo-disciplinar-nota-de-culpa-e-decisao-de-despedimento",
+  "carta-interpelacao-incumprimento": "interpelacao-e-notificacao-extrajudicial",
+  "reclamacao-creditos-insolvencia": "reclamacao-de-creditos-na-insolvencia",
+};
+
+/** Secções devolvidas por defeito: quando usar, perguntas, variantes e nota de entrega. */
+export const SECOES_POR_DEFEITO = [1, 2, 3, 7];
+
+const NOMES_SECOES: Record<number, string> = {
+  1: "quando usar",
+  2: "perguntas",
+  3: "variantes",
+  4: "texto do documento",
+  5: "fundamentação permitida",
+  6: "armadilhas e verificações",
+  7: "nota de entrega",
+  8: "trecho de tom",
+};
+
+function secoesDe(texto: string): { cabecalho: string; secoes: Map<number, string> } {
+  const partes = texto.replace(/\r\n?/g, NL).split(/^(?=## \d+\. )/m);
+  const secoes = new Map<number, string>();
+  let cabecalho = "";
+  for (const p of partes) {
+    const m = /^## (\d+)\. /.exec(p);
+    if (m) secoes.set(Number(m[1]), p.trimEnd());
+    else cabecalho += p;
+  }
+  return { cabecalho: cabecalho.trimEnd(), secoes };
+}
+
+/**
+ * Lê um modelo só com as secções pedidas (1–8). Cada modelo tem ~100 KB: inteiro passaria o limite
+ * de saída das tools MCP. Devolve null se o modelo não existir; lança se uma secção estiver fora de 1–8.
+ */
+export function lerModeloSecoes(nome: string, secoes: number[] = SECOES_POR_DEFEITO): string | null {
+  const fora = secoes.filter((n) => !Number.isInteger(n) || n < 1 || n > 8);
+  if (fora.length) throw new Error(`Secção inválida (${fora.join(", ")}): as secções vão de 1 a 8.`);
+  const t = ler("modelos", nome);
+  if (t === null) return null;
+  const { cabecalho, secoes: todas } = secoesDe(t);
+  const pedidas = [...new Set(secoes)].sort((a, b) => a - b);
+  const resto = [...todas.keys()].filter((n) => !pedidas.includes(n));
+  const nota = resto.length
+    ? `${NL}${NL}---${NL}Secções não incluídas: ${resto.map((n) => `${n} (${NOMES_SECOES[n] ?? "?"})`).join(", ")}. ` +
+      "Para redigir: obter_modelo com secoes [4, 5]; para verificar: [6]."
+    : "";
+  return [cabecalho, ...pedidas.map((n) => todas.get(n)).filter((x): x is string => !!x)].join(NL + NL) + nota;
+}
+
+export interface InfoModelo {
+  nome: string;
+  titulo: string;
+  quandoUsar: string;
+  entregavel: string;
+  ambito: Ambito | null;
+}
+
+/** Título (H1), primeira frase de "Quando usar", entregável e âmbito de um modelo. */
+export function infoModelo(nome: string): InfoModelo | null {
+  const t = ler("modelos", nome);
+  if (t === null) return null;
+  const titulo = (/^#\s+(.+)$/m.exec(t)?.[1] ?? nome).trim();
+  const entregavel = (/entregável:\s*([a-z+]+)/i.exec(t)?.[1] ?? "docx").toLowerCase();
+  const s1 = secoesDe(t).secoes.get(1) ?? "";
+  const corpo1 = s1.split(NL).slice(1).join(" ").replace(/\s+/g, " ").trim();
+  const frase = (/^(.+?[.;:])(\s|$)/.exec(corpo1)?.[1] ?? corpo1).trim();
+  const quandoUsar = frase.length > 140 ? frase.slice(0, 139).replace(/\s+\S*$/, "") + "…" : frase;
+  return { nome, titulo, quandoUsar, entregavel, ambito: lerAmbito(t) };
 }

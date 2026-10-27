@@ -101,7 +101,7 @@ A presente Política define as finalidades, os limites, as regras de funcionamen
 
 1. As imagens gravadas **só podem ser utilizadas no âmbito do processo penal** (art. 28.º, n.º 4, da Lei 58/2019).
 2. Podem também ser utilizadas para apuramento de responsabilidade disciplinar **na medida em que o sejam no âmbito do processo penal** (art. 28.º, n.º 5, da Lei 58/2019). Por isso, perante imagens que revelem a prática de um crime por um trabalhador (ex.: furto), a Empresa apresenta queixa e só depois, e nessa medida, as usa no procedimento disciplinar [VERIFICAR jurisprudência laboral atual sobre o alcance desta norma antes de instaurar o procedimento].
-3. ⏰ Os prazos do procedimento disciplinar continuam a correr enquanto decorre o processo penal — o Código do Trabalho não prevê a sua suspensão pela queixa [VERIFICAR] — (art. 329.º do Código do Trabalho: início do procedimento nos 60 dias seguintes ao conhecimento da infração; prescrição de 1 ano, ou o prazo da lei penal se o facto for crime) — articular com `nota-de-culpa.md`.
+3. ⏰ Os prazos do procedimento disciplinar continuam a correr enquanto decorre o processo penal — o Código do Trabalho não prevê a sua suspensão pela queixa [VERIFICAR] — (art. 329.º do Código do Trabalho: início do procedimento nos 60 dias seguintes ao conhecimento da infração; prescrição de 1 ano, ou o prazo da lei penal se o facto for crime) — articular com `o modelo `processo-disciplinar-nota-de-culpa-e-decisao-de-despedimento``.
 4. As imagens nunca são usadas para fundamentar sanções por factos relativos ao desempenho profissional (art. 3.º, n.º 2).
 
 ## Artigo 11.º — Direitos dos titulares
@@ -233,4 +233,4 @@ _(Lista para quem envia — não faz parte do documento.)_
 - [ ] **AIPD** feita ou dispensa fundamentada por escrito (art. 35.º RGPD; Regulamento CNPD 798/2018); tratamento inscrito no registo de atividades (`registo-atividades-tratamento.md`); acordo de tratamento de dados com a empresa de segurança/instalador/nuvem (`dpa-bilingue.md`).
 - [ ] **Setor obrigado** a ter videovigilância (art. 8.º Lei 34/2013 — instituições de crédito, grandes superfícies e conjuntos comerciais abrangidos, ourivesarias e comércio de obras de arte, farmácias, postos de combustível)? Então confirmar também os requisitos técnicos e o registo na PSP/SIGESP [VERIFICAR].
 - [ ] **Coimas**: contraordenações do art. 20.º, n.º 4, CT e coimas do RGPD/Lei 58/2019 — montantes em `references/valores-2026.md` (art. 554.º CT e RGPD, art. 83.º).
-- [ ] Antes de usar imagens contra um trabalhador, rever o art. 28.º, n.os 4 e 5, da Lei 58/2019 e a jurisprudência atual em dgsi.pt; usar `nota-de-culpa.md` só depois de apresentada a queixa-crime, quando aplicável.
+- [ ] Antes de usar imagens contra um trabalhador, rever o art. 28.º, n.os 4 e 5, da Lei 58/2019 e a jurisprudência atual em dgsi.pt; usar `o modelo `processo-disciplinar-nota-de-culpa-e-decisao-de-despedimento`` só depois de apresentada a queixa-crime, quando aplicável.

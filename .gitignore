@@ -27,6 +27,10 @@ Thumbs.db
 # dev-guardian: só a baseline é versionada
 **/.guardian/*
 !**/.guardian/baseline.json
+!**/.guardian/budgets.yml
+!**/.guardian/hooks.config.json
+!**/.guardian/hooks-allowlist.json
+!**/.guardian/scan.yml
 
 # Registos de navegação de agentes (Playwright MCP)
 .playwright-mcp/

@@ -535,5 +535,109 @@ class TestV20(unittest.TestCase):
             calcular_procedimento_ccp(-1, "bens-servicos")
 
 
+# ---------------------------------------------------------------------------
+# v3.0 — redator jurídico: gerador .docx e verificador de redação (2.º lado,
+# paridade com o TypeScript pelas fixtures de mcp-server/test/fixtures/redator/)
+# ---------------------------------------------------------------------------
+
+_SCRIPTS = os.path.dirname(os.path.abspath(__file__))
+_RAIZ = os.path.abspath(os.path.join(_SCRIPTS, "..", "..", ".."))
+_FIXR = os.path.join(_RAIZ, "mcp-server", "test", "fixtures", "redator")
+
+
+def _fixr(*partes):
+    caminho = os.path.join(_FIXR, *partes)
+    if not os.path.exists(caminho):
+        raise unittest.SkipTest(f"fixture {caminho} não disponível (fora do repositório)")
+    return caminho
+
+
+def _correr(argumentos, cwd=None):
+    import subprocess
+    return subprocess.run([sys.executable, "-I"] + argumentos, capture_output=True,
+                          text=True, encoding="utf-8", cwd=cwd)
+
+
+class TestV30Redator(unittest.TestCase):
+    """T-428, T-440 e T-444 — lado Python do redator."""
+
+    def test_T428_gerar_docx_mesmo_document_xml_que_o_typescript(self):
+        import tempfile
+        import zipfile
+        script = os.path.join(_SCRIPTS, "gerar_docx.py")
+        self.assertTrue(os.path.exists(script), "falta scripts/gerar_docx.py")
+        esperado = os.path.join(_FIXR, "esperado", "juridico.document.xml")
+        self.assertTrue(os.path.exists(esperado), "falta o document.xml de referência gerado pelo TS")
+        with tempfile.TemporaryDirectory() as d:
+            saida = os.path.join(d, "t.docx")
+            r = _correr([script, _fixr("juridico.txt"), saida])
+            self.assertEqual(r.returncode, 0, r.stderr)
+            with zipfile.ZipFile(saida) as z:
+                self.assertIsNone(z.testzip())
+                doc = z.read("word/document.xml").decode("utf-8")
+        with open(esperado, encoding="utf-8") as f:
+            self.assertEqual(doc, f.read())
+
+    def test_T428_gerar_docx_recusa_residuos_com_codigo_2(self):
+        import tempfile
+        script = os.path.join(_SCRIPTS, "gerar_docx.py")
+        self.assertTrue(os.path.exists(script), "falta scripts/gerar_docx.py")
+        with open(_fixr("residuos.json"), encoding="utf-8") as f:
+            casos = json.load(f)["casos"]
+        for c in casos:
+            with tempfile.TemporaryDirectory() as d:
+                entrada = os.path.join(d, "doc.txt")
+                saida = os.path.join(d, "doc.docx")
+                with open(entrada, "w", encoding="utf-8") as f:
+                    f.write(c["texto"])
+                r = _correr([script, entrada, saida])
+                self.assertEqual(r.returncode, 2, c["nome"])
+                self.assertFalse(os.path.exists(saida), c["nome"] + ": gerou ficheiro")
+                for linha, tipo in c["esperado"]:
+                    self.assertIn(f"L{linha} {tipo}", r.stdout + r.stderr, c["nome"])
+
+    def test_T440_verificador_mesmas_ocorrencias_que_o_typescript(self):
+        import tempfile
+        script = os.path.join(_SCRIPTS, "verificador.py")
+        self.assertTrue(os.path.exists(script), "falta scripts/verificador.py")
+        with open(_fixr("verificador.json"), encoding="utf-8") as f:
+            casos = json.load(f)["casos"]
+        for c in casos:
+            with tempfile.TemporaryDirectory() as d:
+                entrada = os.path.join(d, "doc.txt")
+                with open(entrada, "w", encoding="utf-8") as f:
+                    f.write(c["texto"])
+                args = [script, entrada, "--json"]
+                if c["opcoes"].get("final"):
+                    args.append("--final")
+                if c["opcoes"].get("guia"):
+                    args.append("--guia")
+                r = _correr(args)
+                self.assertIn(r.returncode, (0, 1), r.stderr)
+                ocs = json.loads(r.stdout)
+                obtido = sorted(([o["linha"], o["nivel"], o["categoria"]] for o in ocs
+                                 if o["categoria"] in c["categorias"]),
+                                key=lambda x: (x[0], x[2], x[1]))
+                esperado = sorted(c["esperado"], key=lambda x: (x[0], x[2], x[1]))
+                self.assertEqual(obtido, esperado, c["nome"])
+
+    def test_T444_build_gera_dois_skill_e_o_redator_abre_sozinho(self):
+        import tempfile
+        import zipfile
+        with tempfile.TemporaryDirectory() as d:
+            r = _correr([os.path.join(_RAIZ, "build.py"), "--out", d], cwd=_RAIZ)
+            self.assertEqual(r.returncode, 0, r.stdout + r.stderr)
+            for nome in ("juridico-pt.skill", "redator-juridico.skill"):
+                self.assertTrue(os.path.exists(os.path.join(d, nome)), "falta " + nome)
+            with zipfile.ZipFile(os.path.join(d, "redator-juridico.skill")) as z:
+                nomes = set(z.namelist())
+                skill = z.read("redator-juridico/SKILL.md").decode("utf-8")
+            self.assertNotIn("../", skill, "o SKILL.md empacotado ainda aponta para ../")
+            citados = set(re.findall(r"recursos/[\w./-]+\.(?:md|py|json)", skill))
+            self.assertTrue(citados, "o SKILL.md empacotado não cita recursos/")
+            for c in citados:
+                self.assertIn("redator-juridico/" + c, nomes, "não está no pacote: " + c)
+
+
 if __name__ == "__main__":
     unittest.main(verbosity=2)

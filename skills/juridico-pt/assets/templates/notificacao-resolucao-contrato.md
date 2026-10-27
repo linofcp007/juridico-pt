@@ -1,5 +1,5 @@
 <!-- Template: declaração de resolução do contrato por incumprimento definitivo (Art. 432.º e ss. CC).
-     Usar DEPOIS de interpelação admonitória sem resposta (ver carta-interpelacao-incumprimento.md).
+     Usar DEPOIS de interpelação admonitória sem resposta (ver o modelo `interpelacao-e-notificacao-extrajudicial`).
      A resolução opera por declaração à outra parte (Art. 436.º CC). Enviar por registada com AR.
      Âmbito: nacional -->
 

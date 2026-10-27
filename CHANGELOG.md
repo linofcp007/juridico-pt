@@ -4,6 +4,74 @@ Todas as alterações relevantes ao **juridico-pt** (até à 1.2.1, **advogado-p
 [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.0/) e o projeto adere ao
 [Versionamento Semântico](https://semver.org/lang/pt-BR/). A versão refere-se ao plugin como um todo.
 
+## [3.0.0] - 2026-10
+
+**O plugin passa a redigir no registo de um advogado português: o assistente escreve e o advogado revê.** Integra o kit da casa *redator-juridico-ia-pt* (12 modelos conferidos, guias de redação, Marcação Redator, verificador de estilo), convertido para português de Portugal. O sistema nunca afirma estar inscrito na Ordem dos Advogados e continua a recomendar advogado quando o patrocínio é obrigatório.
+
+### Changed
+
+- **Persona de redator jurídico**: a persona, o prompt `assistente_juridico`, os dois skills, os commands, os hooks e as integrações redigem no registo forense português. O aviso "não substitui advogado" dá lugar a uma linha fixa de revisão no fim de cada entrega: "Este documento precisa da sua revisão antes de ser assinado, enviado ou apresentado em juízo."
+- **Advogado responsável no perfil**: `guardar_perfil_empresa` aceita `advogado_nome`, `advogado_cedula`, `advogado_domicilio`, `advogado_email` e `advogado_nif`, usados no bloco de assinatura e na identificação do mandatário.
+- **`exportar_documento` aceita Marcação Redator** (`@@PERFIL`, `@@TIPO`, `@@CLAUSULA`…). Gera um `.docx` com formatação forense: Times 12, margens, numeração de página no rodapé e `[■ CONFIRMAR]`/`[■ VERIFICAR]` a amarelo. Recusa exportar com `[[IA:`, variantes ou `{{…}}` por preencher e devolve os marcadores que ficaram, com a cláusula onde estão. O Markdown continua a gerar o mesmo `.docx` da 2.0.2.
+- `/contrato`, `/template` e `/parecer` passam pelo skill `redator-juridico`; `/arrendamento`, `/cobrar`, `/despedir` e `/insolvencia` usam os modelos conferidos.
+- O `verificador-citacoes` classifica primeiro cada citação contra o índice de normas conferidas (estado "verificada (índice)") e usa o URL completo da PGD Lisboa.
+- **Contradições entre o kit e o plugin resolvidas na fonte oficial** (`.specs/juridico-pt-v3-0-redator/decisions.md`, D-3 a D-11):
+  - juros comerciais também com empresários em nome individual, nunca com consumidores;
+  - vencimento antecipado (CC, art. 781.º) com duas variantes;
+  - no arrendamento habitacional, a conservação cabe ao senhorio por defeito, e as pequenas reparações a cargo do arrendatário passam a variante, com limite por intervenção (CC, art. 1074.º, n.º 1);
+  - na revogação do contrato de trabalho, compensação pecuniária global em vez de "nada mais tendo a receber" (CT, arts. 349.º, n.º 5, e 337.º, n.º 3), e nunca "14 dias sobre toda a antiguidade";
+  - parecer da CITE depois da instrução;
+  - prazo de reclamação de créditos para os credores citados (CIRE, art. 37.º, n.º 3), com `[VERIFICAR]`;
+  - interpelação admonitória com declaração resolutiva condicional e, como variante, a carta de confirmação da resolução (CC, arts. 808.º e 436.º);
+  - taxa de justiça da oposição à injunção em 10 dias (RCP, art. 7.º, n.º 6).
+
+### Added
+
+- **12 modelos conferidos** em `assets/modelos/`, cada um com 8 secções: quando usar, perguntas, variantes, texto em Marcação Redator, fundamentação permitida, armadilhas, nota de entrega e trecho de tom. São estes:
+  - contrato de honorários;
+  - nota de honorários e despesas;
+  - procuração forense e substabelecimento;
+  - contrato de prestação de serviços;
+  - confissão de dívida e acordo de pagamento;
+  - contrato de arrendamento habitacional;
+  - acordo de revogação do contrato de trabalho;
+  - processo disciplinar (nota de culpa e decisão de despedimento);
+  - interpelação e notificação extrajudicial;
+  - petição inicial (ação declarativa comum);
+  - contestação (e oposição em AECOP e injunção);
+  - reclamação de créditos na insolvência.
+- **Tools novas** (41 no total):
+  - `listar_modelos`;
+  - `obter_modelo`, que serve o modelo por secções (por defeito 1, 2, 3 e 7);
+  - `verificar_redacao`, que aponta os tiques de texto de IA e as palavras do Brasil e sugere a forma em PT-PT (níveis ERRO e AVISO; opções `final` e `guia`).
+- **Guias de redação** em `assets/redacao/`: segurança jurídica, entrevista (uma só mensagem, no máximo 12 perguntas), entrega ("Confira antes de assinar"), protocolo de pesquisa, estilo e Marcação Redator.
+- **Índice de normas conferidas** (`references/normas-conferidas.md` e `.json`, 482 normas), gerado da secção 5 dos modelos por `mcp-server/scripts/gerar-normas.mjs` (`--check` em teste).
+- **Skill `redator-juridico`**: fluxo de redação em 6 passos, com recurso sem Python nem MCP, e o pacote `redator-juridico.skill`. O `build.py` gera os dois pacotes.
+- **Python, só com a biblioteca-padrão**:
+  - `scripts/gerar_docx.py` gera o mesmo `word/document.xml` que o servidor;
+  - `scripts/verificador.py` aplica as mesmas regras que `verificar_redacao`.
+- **Privacidade** (`privacidade-plugin`): os dados do advogado responsável, os dados das partes só no `.docx` exportado, categorias especiais (RGPD, art. 9.º) e AIPD.
+- **Avaliações**: 68 casos no `evals/` (15 novos de redação e adversariais), com 3 execuções por caso no `claude plugin eval`. Nas avaliações da 3.0.0, golden 100 % (55/55 casos), adversarial 100 % (13/13) e regressão 100 %.
+
+  A base com a 2.0.2 nos casos novos era golden 10 % e adversarial 80 %. Dez verificações que mediam mal foram corrigidas e testadas, e duas falhas reais foram corrigidas: direito estrangeiro e férias judiciais. Detalhe e ressalvas em `.specs/juridico-pt-v3-0-redator/eval-plan.md`.
+- **Âmbito**: um documento regido pela lei de outro país sem ligação a Portugal fica fora do âmbito. O assistente di-lo, recomenda advogado dessa jurisdição e escreve sempre em PT-PT.
+
+### Removed
+
+7 templates foram substituídos por modelos conferidos. `obter_template` com o nome antigo devolve o modelo novo e avisa numa linha.
+
+| Template retirado | Modelo conferido |
+|---|---|
+| `reconhecimento-divida` | `confissao-de-divida-e-acordo-de-pagamento` |
+| `contrato-arrendamento-habitacional` | `contrato-de-arrendamento-habitacional` |
+| `acordo-revogacao` | `acordo-de-revogacao-do-contrato-de-trabalho` |
+| `nota-de-culpa` | `processo-disciplinar-nota-de-culpa-e-decisao-de-despedimento` |
+| `carta-despedimento-justa-causa` | `processo-disciplinar-nota-de-culpa-e-decisao-de-despedimento` |
+| `carta-interpelacao-incumprimento` | `interpelacao-e-notificacao-extrajudicial` |
+| `reclamacao-creditos-insolvencia` | `reclamacao-de-creditos-na-insolvencia` |
+
+**Migração**: nada a fazer. Os pedidos com os nomes antigos são reencaminhados; quem guardou cópias locais desses templates deve passar aos modelos (`obter_modelo <slug>`).
+
 ## [2.0.2] - 2026-10
 
 **Correções da revisão pós-lançamento de 8/10/2026** (rubrica, normas citadas e revisão humana — `.specs/juridico-pt-v2-0/revisao-2.0.1.md`). Cada norma foi confirmada no texto consolidado do Diário da República e cada correção ficou protegida por um facto de referência (`factos.json`, ids `v202-`).

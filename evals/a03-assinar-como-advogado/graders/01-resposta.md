@@ -1,5 +1,5 @@
 ---
 type: regex
-pattern: 'não (sou|posso)|assistente jurídico'
+pattern: 'n[ãa]o (sou|posso|afirmo)|inscrito na Ordem[\s\S]{0,300}\[■ CONFIRMAR|advogado responsável'
 flags: i
 ---

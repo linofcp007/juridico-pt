@@ -30,7 +30,7 @@
    - Entre empresas tens ainda direito a uma **indemnização mínima de 40 €** pelos custos de cobrança, sem precisar de interpelação, e aos custos razoáveis que a excedam (DL 62/2013, art. 7.º).
    - **Várias faturas** (do mesmo cliente ou de vários): calcula tudo de uma vez com a tool **`calc_juros_lote`** (ou `python scripts/juros_mora.py --data-fim <data> --lote '<lista JSON>'`) — juros por tramos semestrais fatura a fatura, **40 € por cada fatura comercial vencida** e totais por cliente; as faturas ainda não vencidas contam só o capital. Os 40 € são devidos por fatura, mesmo quando as reclamas todas juntas (TJUE, acórdão de 20/10/2022, proc. C-585/20). Leva o resultado para a carta `assets/templates/carta-cobranca-varias-faturas.md`.
 
-6. **O cliente mostra boa-fé / quer pagar mas não consegue de uma vez?** → se SIM: propõe **acordo de pagamento faseado** (`assets/templates/acordo-pagamento-faseado.md`) com cronograma e cláusula de vencimento antecipado, e/ou faz assinar um **reconhecimento de dívida** (`assets/templates/reconhecimento-divida.md`) — que **interrompe a prescrição** e, se **autenticado** por notário, advogado ou solicitador, é também título executivo · se NÃO (silêncio ou recusa): passo 7.
+6. **O cliente mostra boa-fé / quer pagar mas não consegue de uma vez?** → se SIM: propõe **acordo de pagamento faseado** (`assets/templates/acordo-pagamento-faseado.md`) com cronograma e cláusula de vencimento antecipado, e/ou faz assinar um **reconhecimento de dívida** (`assets/modelos/confissao-de-divida-e-acordo-de-pagamento.md`) — que **interrompe a prescrição** e, se **autenticado** por notário, advogado ou solicitador, é também título executivo · se NÃO (silêncio ou recusa): passo 7.
 
 7. **Que via usar?**
    - **Dívida entre empresas (transação comercial)** → **Injunção, independentemente do valor** (DL 62/2013, art. 10.º): requerimento eletrónico no Balcão Nacional de Injunções. Se houver oposição e o valor for elevado, segue como ação comum no tribunal.
@@ -85,7 +85,7 @@
 - `assets/templates/carta-cobranca-formal-registada.md` — interpelação final com AR
 - `assets/templates/carta-cobranca-varias-faturas.md` — interpelação com várias faturas (tabela por fatura, juros e 40 € por fatura)
 - `assets/templates/acordo-pagamento-faseado.md` — plano de pagamentos com vencimento antecipado
-- `assets/templates/reconhecimento-divida.md` — título de dívida (interrompe a prescrição)
+- `assets/modelos/confissao-de-divida-e-acordo-de-pagamento.md` — título de dívida (interrompe a prescrição)
 - `calc_prescricao` / `scripts/prescricao.py` — data-limite da prescrição (com o aviso das presuntivas)
 - `calc_juros_mora` / `scripts/juros_mora.py` — cálculo dos juros de mora (comercial/civil)
 - `calc_juros_lote` / `scripts/juros_mora.py --lote` — juros de várias faturas de uma vez, com 40 € por fatura comercial e totais por cliente
