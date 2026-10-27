@@ -42,6 +42,7 @@ import {
   procurarFichas,
   lerFicha,
   codigosFichas,
+  fichasParaTermo,
 } from "./content.js";
 import { verificarRedacao, formatarRedacao } from "./redacao.js";
 import {
@@ -613,7 +614,11 @@ export function registerTools(servidor: McpServer): void {
       inputSchema: {},
       annotations: { readOnlyHint: true, openWorldHint: false },
     },
-    async () => texto("Templates (nome — âmbito):\n" + listagem("templates"))
+    async () =>
+      texto(
+        "Templates (nome — âmbito):\n" + listagem("templates") +
+          "\n\nSem template para o documento: procurar_ficha (fichas do catálogo, 22 áreas, PT/EN) e obter_ficha."
+      )
   );
 
   server.registerTool(
@@ -656,7 +661,10 @@ export function registerTools(servidor: McpServer): void {
         .map(infoModelo)
         .filter((i): i is NonNullable<typeof i> => i !== null)
         .map((i) => `- ${i.nome} — ${i.titulo} — quando usar: ${i.quandoUsar} — entregável: ${i.entregavel} — ${i.ambito ?? "nacional"}`);
-      return texto("Modelos conferidos (obter_modelo para os abrir):\n" + linhas.join("\n"));
+      return texto(
+        "Modelos conferidos (obter_modelo para os abrir):\n" + linhas.join("\n") +
+          "\n\nSem modelo para o documento: o template mais próximo (listar_templates) e, sem template, a ficha do catálogo (procurar_ficha). Diz ao utilizador qual usaste."
+      );
     }
   );
 
@@ -834,14 +842,21 @@ export function registerTools(servidor: McpServer): void {
     {
       title: "Procurar no conteúdo jurídico",
       description:
-        "Procura um termo em todo o conteúdo jurídico (referências, templates, playbooks e checklists). Usa quando não sabes em que área/categoria está o assunto e precisas de localizar onde é tratado ('onde se fala de…', 'procura por', 'pesquisa'). EN: full-text search across all legal content.",
+        "Procura um termo em todo o conteúdo jurídico (referências, modelos, templates, playbooks, checklists e as fichas do catálogo). Usa quando não sabes em que área/categoria está o assunto e precisas de localizar onde é tratado ('onde se fala de…', 'procura por', 'pesquisa'). EN: full-text search across all legal content.",
       inputSchema: { query: z.string().describe("Termo a procurar") },
       annotations: { readOnlyHint: true, openWorldHint: false },
     },
     async ({ query }) => {
       const res = procurar(query);
-      if (res.length === 0) return texto(`Sem resultados para '${query}'.`);
-      return texto(`Resultados para '${query}' (agrupados por tipo; âmbito entre parênteses):\n\n` + formatarProcura(res));
+      // As fichas procuram-se por palavras (PT ou EN), não pelo texto exato: um pedido como
+      // "contrato de comodato de um carro" encontra a ficha do comodato.
+      const fichas = fichasParaTermo(query);
+      const blocoFichas = fichas.length
+        ? `## Fichas do catálogo (obter_ficha com o código; usar se não houver modelo nem template)\n${fichas.join("\n")}`
+        : "";
+      if (res.length === 0 && !blocoFichas) return texto(`Sem resultados para '${query}'.`);
+      const partes = [res.length ? formatarProcura(res) : "", blocoFichas].filter(Boolean);
+      return texto(`Resultados para '${query}' (agrupados por tipo; âmbito entre parênteses):\n\n` + partes.join("\n\n"));
     }
   );
 

@@ -23257,6 +23257,9 @@ function filtrarArea(itens, area) {
   return itens.filter((it) => plano(it.e.codigo.split("-")[0]) === a || plano(it.e.area).includes(a));
 }
 function pontuar(c, itens, termo) {
+  return pontuarComPeso(c, itens, termo).map((x) => x.it);
+}
+function pontuarComPeso(c, itens, termo) {
   const q = [...new Set(raizes(termo))];
   const frase = plano(termo).trim();
   const pontos = itens.map((it) => {
@@ -23275,7 +23278,7 @@ function pontuar(c, itens, termo) {
     if (frase.length >= 6 && it.tituloPlano.includes(frase)) p += 4;
     return { it, p: q.length ? p * (0.5 + 0.5 * achadas / q.length) : 0 };
   });
-  return pontos.filter((x) => x.p > 0).sort((a, b) => b.p - a.p || a.it.e.codigo.localeCompare(b.it.e.codigo)).map((x) => x.it);
+  return pontos.filter((x) => x.p > 0).sort((a, b) => b.p - a.p || a.it.e.codigo.localeCompare(b.it.e.codigo));
 }
 function procurarFichas(termo, area) {
   const c = catalogo();
@@ -23296,6 +23299,13 @@ function procurarFichas(termo, area) {
   if (!itens.length) return `Nenhuma ficha para '${t}'${a ? ` na \xE1rea ${a}` : ""}. Experimenta outras palavras, em PT ou EN, ou s\xF3 a \xE1rea.`;
   const cab = t ? `Fichas para '${t}'${a ? ` (\xE1rea ${a})` : ""}` : `Fichas da \xE1rea ${itens[0].e.area}`;
   return `${cab} \u2014 obter_ficha com o c\xF3digo para abrir; \u2192 remete para conte\xFAdo do plugin, que se usa primeiro:${NL}${itens.map((it) => linhaFicha(it.e)).join(NL)}`;
+}
+function fichasParaTermo(termo, maximo = 5) {
+  const c = catalogo();
+  if (!c || !termo.trim()) return [];
+  const res = pontuarComPeso(c, c.itens, termo);
+  const corte = (res[0]?.p ?? 0) / 2;
+  return res.filter((x) => x.p >= corte).slice(0, maximo).map((x) => linhaFicha(x.it.e));
 }
 function sugestoes(c, pedido) {
   const m = /^([A-Z]+)-(\d+)$/.exec(pedido);
@@ -26021,7 +26031,9 @@ Quota dispon\xEDvel: ${formatarEuros(r.quotaDisponivel)} (${r.quotaDisponivelPct
       inputSchema: {},
       annotations: { readOnlyHint: true, openWorldHint: false }
     },
-    async () => texto("Templates (nome \u2014 \xE2mbito):\n" + listagem("templates"))
+    async () => texto(
+      "Templates (nome \u2014 \xE2mbito):\n" + listagem("templates") + "\n\nSem template para o documento: procurar_ficha (fichas do cat\xE1logo, 22 \xE1reas, PT/EN) e obter_ficha."
+    )
   );
   server.registerTool(
     "obter_template",
@@ -26060,7 +26072,9 @@ ${m}`);
     },
     async () => {
       const linhas = listar("modelos").map(infoModelo).filter((i) => i !== null).map((i) => `- ${i.nome} \u2014 ${i.titulo} \u2014 quando usar: ${i.quandoUsar} \u2014 entreg\xE1vel: ${i.entregavel} \u2014 ${i.ambito ?? "nacional"}`);
-      return texto("Modelos conferidos (obter_modelo para os abrir):\n" + linhas.join("\n"));
+      return texto(
+        "Modelos conferidos (obter_modelo para os abrir):\n" + linhas.join("\n") + "\n\nSem modelo para o documento: o template mais pr\xF3ximo (listar_templates) e, sem template, a ficha do cat\xE1logo (procurar_ficha). Diz ao utilizador qual usaste."
+      );
     }
   );
   server.registerTool(
@@ -26220,16 +26234,20 @@ Marcadores por preencher (${r.marcadores.length}):
     "procurar_conteudo",
     {
       title: "Procurar no conte\xFAdo jur\xEDdico",
-      description: "Procura um termo em todo o conte\xFAdo jur\xEDdico (refer\xEAncias, templates, playbooks e checklists). Usa quando n\xE3o sabes em que \xE1rea/categoria est\xE1 o assunto e precisas de localizar onde \xE9 tratado ('onde se fala de\u2026', 'procura por', 'pesquisa'). EN: full-text search across all legal content.",
+      description: "Procura um termo em todo o conte\xFAdo jur\xEDdico (refer\xEAncias, modelos, templates, playbooks, checklists e as fichas do cat\xE1logo). Usa quando n\xE3o sabes em que \xE1rea/categoria est\xE1 o assunto e precisas de localizar onde \xE9 tratado ('onde se fala de\u2026', 'procura por', 'pesquisa'). EN: full-text search across all legal content.",
       inputSchema: { query: external_exports.string().describe("Termo a procurar") },
       annotations: { readOnlyHint: true, openWorldHint: false }
     },
     async ({ query }) => {
       const res = procurar(query);
-      if (res.length === 0) return texto(`Sem resultados para '${query}'.`);
+      const fichas = fichasParaTermo(query);
+      const blocoFichas = fichas.length ? `## Fichas do cat\xE1logo (obter_ficha com o c\xF3digo; usar se n\xE3o houver modelo nem template)
+${fichas.join("\n")}` : "";
+      if (res.length === 0 && !blocoFichas) return texto(`Sem resultados para '${query}'.`);
+      const partes = [res.length ? formatarProcura(res) : "", blocoFichas].filter(Boolean);
       return texto(`Resultados para '${query}' (agrupados por tipo; \xE2mbito entre par\xEAnteses):
 
-` + formatarProcura(res));
+` + partes.join("\n\n"));
     }
   );
   server.registerTool(

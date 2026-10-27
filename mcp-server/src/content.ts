@@ -337,6 +337,10 @@ function filtrarArea(itens: Pesquisavel[], area: string): Pesquisavel[] {
 
 /** Pontua as fichas por um termo PT ou EN: raízes em comum pesadas pela raridade, o título a pesar o dobro. */
 function pontuar(c: NonNullable<typeof cacheFichas>, itens: Pesquisavel[], termo: string): Pesquisavel[] {
+  return pontuarComPeso(c, itens, termo).map((x) => x.it);
+}
+
+function pontuarComPeso(c: NonNullable<typeof cacheFichas>, itens: Pesquisavel[], termo: string): Array<{ it: Pesquisavel; p: number }> {
   const q = [...new Set(raizes(termo))];
   const frase = plano(termo).trim();
   const pontos = itens.map((it) => {
@@ -351,7 +355,7 @@ function pontuar(c: NonNullable<typeof cacheFichas>, itens: Pesquisavel[], termo
     // Cobrir todo o pedido vale mais do que repetir uma palavra rara.
     return { it, p: q.length ? p * (0.5 + (0.5 * achadas) / q.length) : 0 };
   });
-  return pontos.filter((x) => x.p > 0).sort((a, b) => b.p - a.p || a.it.e.codigo.localeCompare(b.it.e.codigo)).map((x) => x.it);
+  return pontos.filter((x) => x.p > 0).sort((a, b) => b.p - a.p || a.it.e.codigo.localeCompare(b.it.e.codigo));
 }
 
 /** procurar_ficha: por termo (PT ou EN) e/ou área; sem nada, as 22 áreas com as contagens. */
@@ -375,6 +379,16 @@ export function procurarFichas(termo?: string, area?: string): string {
   if (!itens.length) return `Nenhuma ficha para '${t}'${a ? ` na área ${a}` : ""}. Experimenta outras palavras, em PT ou EN, ou só a área.`;
   const cab = t ? `Fichas para '${t}'${a ? ` (área ${a})` : ""}` : `Fichas da área ${itens[0].e.area}`;
   return `${cab} — obter_ficha com o código para abrir; → remete para conteúdo do plugin, que se usa primeiro:${NL}${itens.map((it) => linhaFicha(it.e)).join(NL)}`;
+}
+
+/** As fichas mais próximas de um termo, para juntar a outras pesquisas (procurar_conteudo); [] sem catálogo. */
+export function fichasParaTermo(termo: string, maximo = 5): string[] {
+  const c = catalogo();
+  if (!c || !termo.trim()) return [];
+  const res = pontuarComPeso(c, c.itens, termo);
+  // Só as que ficam perto da melhor: "contrato" sozinho bate em centenas de fichas.
+  const corte = (res[0]?.p ?? 0) / 2;
+  return res.filter((x) => x.p >= corte).slice(0, maximo).map((x) => linhaFicha(x.it.e));
 }
 
 /** Sugestões para um código que não existe: os números mais próximos da mesma área, ou a pesquisa pelo texto. */
