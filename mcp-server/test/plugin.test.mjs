@@ -583,7 +583,8 @@ test("T-337 versão do plugin (2.x ou posterior) igual em todos os sítios e no 
 // ---------------- v3.0 — redator jurídico (T-410, T-416, T-421, T-441, T-445, T-450, T-451) ----------------
 
 const SKILL_PT = (...p) => r("skills", "juridico-pt", ...p);
-const REDATOR_SKILL = r("skills", "redator-juridico", "SKILL.md");
+// Desde a 3.0.1 o fluxo do redator é um guia do juridico-pt (assets/redacao/redator.md), não um skill à parte.
+const REDATOR_GUIA = SKILL_PT("assets", "redacao", "redator.md");
 const MODELOS_V30 = [
   "acordo-de-revogacao-do-contrato-de-trabalho", "confissao-de-divida-e-acordo-de-pagamento", "contestacao",
   "contrato-de-arrendamento-habitacional", "contrato-de-honorarios", "contrato-de-prestacao-de-servicos",
@@ -661,45 +662,52 @@ test("T-421 verificador-citacoes: índice de normas conferidas primeiro, estado 
   assert.doesNotMatch(tools, /\b(Write|Edit|Bash|PowerShell|NotebookEdit)\b/, "o verificador tem de ser só de leitura");
 });
 
-test("T-441 skill redator-juridico: frontmatter válido, os 6 passos por ordem e caminhos ../juridico-pt/ que existem", () => {
-  assert.ok(existsSync(REDATOR_SKILL), "falta skills/redator-juridico/SKILL.md");
-  const t = readFileSync(REDATOR_SKILL, "utf8");
-  const fm = /^---\r?\n([\s\S]*?)\r?\n---/.exec(t);
+test("T-441 redator: um só skill; fluxo em assets/redacao/redator.md com Âmbito, os 6 passos por ordem e caminhos que existem", () => {
+  assert.ok(!existsSync(r("skills", "redator-juridico")), "o skill redator-juridico devia ter saído (3.0.1)");
+  const skill = readFileSync(SKILL_PT("SKILL.md"), "utf8");
+  assert.match(skill, /assets\/redacao\/redator\.md/, "o SKILL.md não aponta para o fluxo do redator");
+  const fm = /^---\r?\n([\s\S]*?)\r?\n---/.exec(skill);
   assert.ok(fm, "sem frontmatter");
-  assert.match(fm[1], /^name:\s*redator-juridico\s*$/m);
   // Escalar dobrado do YAML (`description: >`), como o build.py o lê: o indicador não faz parte do texto.
   const desc =
     /^description:\s*([\s\S]*?)(?=^\w[\w-]*:|$(?![\s\S]))/m.exec(fm[1])?.[1].replace(/^[>|][-+]?/, "").replace(/\s+/g, " ").trim() ?? "";
   assert.ok(desc.length > 0 && desc.length <= 1024, `description com ${desc.length} caracteres`);
   assert.doesNotMatch(desc, /[<>]/);
+  assert.match(desc, /redigir/i, "a description não tem os gatilhos de redação");
+  assert.ok(existsSync(REDATOR_GUIA), "falta assets/redacao/redator.md");
+  const t = readFileSync(REDATOR_GUIA, "utf8");
+  assert.match(t.split(/\r?\n/).slice(0, 15).join("\n"), /Âmbito:/);
   let ultimo = -1;
   for (const p of ["Identificar", "Entrevistar", "Confirmar", "Redigir", "Autorrever", "Entregar"]) {
     const i = t.search(new RegExp(`\\*\\*\\d\\. ${p}`, "i"));
     assert.ok(i > ultimo, `passo '${p}' em falta ou fora de ordem`);
     ultimo = i;
   }
-  const caminhos = [...t.matchAll(/\.\.\/juridico-pt\/([\w./<>-]+)/g)].map((m) => m[1]).filter((c) => !/[<>]/.test(c));
-  assert.ok(caminhos.length > 0, "o redator não cita nenhum ficheiro do juridico-pt");
-  for (const c of caminhos) assert.ok(existsSync(SKILL_PT(...c.replace(/[.,;:)]+$/, "").split("/"))), `não existe: ../juridico-pt/${c}`);
+  assert.doesNotMatch(t, /\.\.\//, "o guia não pode citar caminhos fora do skill");
+  const caminhos = [...t.matchAll(/`((?:assets|references|scripts)\/[\w./<>-]+)`/g)].map((m) => m[1]).filter((c) => !/[<>]/.test(c));
+  assert.ok(caminhos.length > 0, "o redator não cita nenhum ficheiro do skill");
+  for (const c of caminhos) assert.ok(existsSync(SKILL_PT(...c.split("/"))), `não existe: ${c}`);
 });
 
-test("T-445 /contrato, /template e /parecer passam pelo skill redator-juridico e nomeiam as tools reais", () => {
+test("T-445 /contrato, /template e /parecer seguem o fluxo do redator (assets/redacao/redator.md) e nomeiam as tools reais", () => {
   for (const c of ["contrato", "template", "parecer"]) {
     const t = readFileSync(r("commands", `${c}.md`), "utf8");
-    assert.match(t, /redator-juridico/, `${c}: não invoca o redator-juridico`);
+    assert.match(t, /assets\/redacao\/redator\.md/, `${c}: não segue o fluxo do redator`);
     assert.match(t, /obter_modelo|exportar_documento/, `${c}: não nomeia as tools do redator`);
   }
 });
 
-test("T-450 versão 3.0.0 nos 6 sítios e CHANGELOG com os 7 nomes substituídos e a pontuação das avaliações", () => {
+// Desde a 3.0.1 aceita qualquer 3.0.x; a igualdade entre os 6 sítios fica no T-337.
+test("T-450 versão 3.0.x nos 6 sítios e CHANGELOG com os 7 nomes substituídos e a pontuação das avaliações", () => {
   const plugin = JSON.parse(readFileSync(r(".claude-plugin", "plugin.json"), "utf8"));
   const mk = JSON.parse(readFileSync(r(".claude-plugin", "marketplace.json"), "utf8"));
-  assert.equal(plugin.version, "3.0.0");
-  assert.equal(mk.metadata.version, "3.0.0");
-  assert.equal(mk.plugins[0].version, "3.0.0");
-  assert.equal(JSON.parse(readFileSync(r("package.json"), "utf8")).version, "3.0.0");
-  assert.equal(JSON.parse(readFileSync(r("mcp-server", "package.json"), "utf8")).version, "3.0.0");
-  assert.match(readFileSync(r("mcp-server", "src", "index.ts"), "utf8"), /version:\s*"3\.0\.0"/);
+  const V30 = /^3\.0\.\d+$/;
+  assert.match(plugin.version, V30);
+  assert.match(mk.metadata.version, V30);
+  assert.match(mk.plugins[0].version, V30);
+  assert.match(JSON.parse(readFileSync(r("package.json"), "utf8")).version, V30);
+  assert.match(JSON.parse(readFileSync(r("mcp-server", "package.json"), "utf8")).version, V30);
+  assert.match(readFileSync(r("mcp-server", "src", "index.ts"), "utf8"), /version:\s*"3\.0\.\d+"/);
   const c = readFileSync(r("CHANGELOG.md"), "utf8");
   const i = c.indexOf("## [3.0.0]");
   assert.ok(i >= 0, "CHANGELOG sem ## [3.0.0]");
@@ -710,8 +718,8 @@ test("T-450 versão 3.0.0 nos 6 sítios e CHANGELOG com os 7 nomes substituídos
 });
 
 test("T-451 redator: recurso sem Python nem MCP (bloco em Marcação Redator e colagem) e o guia de entrega no pacote", () => {
-  const t = existsSync(REDATOR_SKILL) ? readFileSync(REDATOR_SKILL, "utf8") : "";
+  const t = existsSync(REDATOR_GUIA) ? readFileSync(REDATOR_GUIA, "utf8") : "";
   assert.match(t, /sem Python|sem as tools|sem MCP/i, "falta o recurso sem Python nem MCP");
   assert.match(t, /Marca[çc][ãa]o Redator/);
-  assert.match(t, /\.\.\/juridico-pt\/assets\/redacao\/entrega\.md/, "o redator não cita o guia de entrega");
+  assert.match(t, /assets\/redacao\/entrega\.md/, "o redator não cita o guia de entrega");
 });

@@ -1,0 +1,107 @@
+{
+  "lang": "pt",
+  "kind": "change",
+  "size": "xs",
+  "tracks": [
+    "core"
+  ],
+  "approvals": {
+    "tasks": {
+      "at": "2026-10-27T16:37:20.179Z",
+      "by": "Administrator",
+      "fingerprint": "3183733b40bb3695d8eec82900e220bb4a0e78cb",
+      "file": "change.md",
+      "wsFingerprint": "87cbfccde1a66f8253d644e823fa954f715aaed4",
+      "batch": true
+    }
+  },
+  "createdAt": "2026-10-27T16:35:54.640Z",
+  "branch": {
+    "name": "feature/juridico-pt-v3-0-1-redator-unificado",
+    "base": "main",
+    "commit": "b26e26a76d017cefeb39c2f45e93687650512c40",
+    "at": "2026-10-27T16:35:54.640Z"
+  },
+  "lastEditAt": "2026-10-27T16:37:16.332Z",
+  "approvalHistory": [
+    {
+      "phase": "tasks",
+      "at": "2026-10-27T16:37:20.179Z",
+      "by": "Administrator",
+      "file": "change.md",
+      "fingerprint": "3183733b40bb3695d8eec82900e220bb4a0e78cb",
+      "wsFingerprint": "87cbfccde1a66f8253d644e823fa954f715aaed4",
+      "batch": true,
+      "snapshot": ".history/tasks@1.md"
+    }
+  ],
+  "lastApprovedPhase": "tasks",
+  "evidence": {
+    "1": {
+      "command": "cd mcp-server && npm run build && node --test --test-name-pattern \"T-401|T-406|T-409|T-441|T-445|T-451\" test/plugin.test.mjs test/v30.test.mjs",
+      "exitCode": 0,
+      "summary": "pass 6, fail 0 (um só skill; fluxo em assets/redacao/redator.md; SKILL.md 430 linhas, description 1019 caracteres com gatilhos de redação; commands pelo guia)",
+      "at": "2026-10-27T16:40:10.179Z",
+      "observed": false,
+      "cmdRule": 1,
+      "history": [
+        {
+          "command": "cd mcp-server && npm run build && node --test --test-name-pattern \"T-401|T-406|T-409|T-441|T-445|T-451\" test/plugin.test.mjs test/v30.test.mjs",
+          "exitCode": 0,
+          "summary": "pass 6, fail 0 (um só skill; fluxo em assets/redacao/redator.md; SKILL.md 430 linhas, description 1019 caracteres com gatilhos de redação; commands pelo guia)",
+          "at": "2026-10-27T16:40:10.179Z",
+          "observed": false,
+          "cmdRule": 1
+        }
+      ],
+      "task": "[US1] Fluxo do redator em `assets/redacao/redator.md`. Inclui:",
+      "verify": "cd mcp-server && npm run build && node --test --test-name-pattern \"T-401|T-406|T-409|T-441|T-445|T-451\" test/plugin.test.mjs test/v30.test.mjs"
+    },
+    "2": {
+      "command": "python -I skills/juridico-pt/scripts/test_scripts.py TestV30Redator.test_T444_build_gera_um_skill_com_o_fluxo_do_redator",
+      "exitCode": 0,
+      "summary": "Ran 1 test OK (build.py gera só juridico-pt.skill, com assets/redacao/redator.md, os ficheiros que ele cita e os modelos)",
+      "at": "2026-10-27T16:40:53.139Z",
+      "observed": false,
+      "cmdRule": 1,
+      "history": [
+        {
+          "command": "python -I skills/juridico-pt/scripts/test_scripts.py TestV30Redator.test_T444_build_gera_um_skill_com_o_fluxo_do_redator",
+          "exitCode": 0,
+          "summary": "Ran 1 test OK (build.py gera só juridico-pt.skill, com assets/redacao/redator.md, os ficheiros que ele cita e os modelos)",
+          "at": "2026-10-27T16:40:53.139Z",
+          "observed": false,
+          "cmdRule": 1
+        }
+      ],
+      "task": "[US1] `build.py` com um só pacote. O T-444 (Python) verifica que só sai `juridico-pt.skill`, com `assets/redacao/redator.md` e os modelos dentro.",
+      "verify": "python -I skills/juridico-pt/scripts/test_scripts.py TestV30Redator.test_T444_build_gera_um_skill_com_o_fluxo_do_redator"
+    },
+    "3": {
+      "command": "cd mcp-server && npm test && cd .. && python -I skills/juridico-pt/scripts/test_scripts.py",
+      "exitCode": 0,
+      "summary": "npm test 247 pass / 0 fail + SMOKE OK; Python 55 OK. Versão 3.0.1 nos 6 sítios e no package-lock; CHANGELOG [3.0.1]; README e CLAUDE.md; T-450 aceita 3.0.x; bundles e content/ regenerados",
+      "at": "2026-10-27T16:43:00.720Z",
+      "observed": false,
+      "cmdRule": 1,
+      "history": [
+        {
+          "command": "cd mcp-server && npm test && cd .. && python -I skills/juridico-pt/scripts/test_scripts.py",
+          "exitCode": 0,
+          "summary": "npm test 247 pass / 0 fail + SMOKE OK; Python 55 OK. Versão 3.0.1 nos 6 sítios e no package-lock; CHANGELOG [3.0.1]; README e CLAUDE.md; T-450 aceita 3.0.x; bundles e content/ regenerados",
+          "at": "2026-10-27T16:43:00.720Z",
+          "observed": false,
+          "cmdRule": 1
+        }
+      ],
+      "task": "[US1] Versão 3.0.1 nos 6 sítios e no package-lock, mais:",
+      "verify": "cd mcp-server && npm test && cd .. && python -I skills/juridico-pt/scripts/test_scripts.py"
+    }
+  },
+  "lastTickAt": "2026-10-27T16:43:00.720Z",
+  "ticks": {
+    "1": "2026-10-27T16:40:10.179Z",
+    "2": "2026-10-27T16:40:53.139Z",
+    "3": "2026-10-27T16:43:00.720Z"
+  }
+}

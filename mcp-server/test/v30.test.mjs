@@ -20,7 +20,8 @@ const here = dirname(fileURLToPath(import.meta.url));
 const repo = resolve(here, "..", "..");
 const r = (...p) => resolve(repo, ...p);
 const SKILL = (...p) => r("skills", "juridico-pt", ...p);
-const REDATOR = (...p) => r("skills", "redator-juridico", ...p);
+// Desde a 3.0.1 o fluxo do redator é um guia do juridico-pt, não um skill à parte.
+const REDATOR_GUIA = SKILL("assets", "redacao", "redator.md");
 const FIXR = (...p) => r("mcp-server", "test", "fixtures", "redator", ...p);
 const ler = (p) => readFileSync(p, "utf8");
 const lerSe = (p) => (existsSync(p) ? ler(p) : "");
@@ -158,7 +159,7 @@ test("T-401 registo de advogado em todas as superfícies de persona; nunca afirm
   const NUNCA = /nunca afirm\w*[^.\n]{0,40}advogado inscrito/i;
   const completos = {
     "skills/juridico-pt/SKILL.md": ler(SKILL("SKILL.md")),
-    "skills/redator-juridico/SKILL.md": lerSe(REDATOR("SKILL.md")),
+    "skills/juridico-pt/assets/redacao/redator.md": lerSe(REDATOR_GUIA),
     PERSONA,
     PERSONA_INTEGRACOES,
     "AGENTS.md": ler(r("AGENTS.md")),
@@ -176,7 +177,7 @@ test("T-401 registo de advogado em todas as superfícies de persona; nunca afirm
 
   const ANTIGO = /não és advogado nem te apresentas como tal|não substitu(i|is) (o |um )?advogado/i;
   const superficies = [
-    SKILL("SKILL.md"), REDATOR("SKILL.md"), r("mcp-server", "src", "persona.ts"), r("AGENTS.md"), r("GEMINI.md"),
+    SKILL("SKILL.md"), REDATOR_GUIA, r("mcp-server", "src", "persona.ts"), r("AGENTS.md"), r("GEMINI.md"),
     ...ficheiros(r("commands"), [".md"]), ...ficheiros(r("agents"), [".md"]), ...ficheiros(r("integrations"), [".md", ".mdc", ".windsurfrules"]),
   ].filter(existsSync);
   for (const f of superficies) if (ANTIGO.test(ler(f))) falhas.push(`${relative(repo, f)}: ainda tem o aviso antigo`);
@@ -207,14 +208,15 @@ test("T-406 linha fixa de revisão no lugar do aviso antigo (manifestos, README,
   const { PERSONA, LINHA_REVISAO: linha } = await mod("persona.js");
   assert.equal(linha, LINHA_REVISAO, "LINHA_REVISAO diferente da linha fixa aprovada");
   if (!PERSONA.includes(LINHA_REVISAO)) falhas.push("PERSONA: sem a linha fixa de revisão");
-  for (const f of [REDATOR("SKILL.md"), SKILL("assets", "redacao", "entrega.md")]) {
+  for (const f of [REDATOR_GUIA, SKILL("assets", "redacao", "entrega.md")]) {
     if (!lerSe(f).includes(LINHA_REVISAO)) falhas.push(`${relative(repo, f)}: sem a linha fixa de revisão`);
   }
   assert.deepEqual(falhas, []);
 });
 
-test("T-409 orçamento de contexto: cada SKILL.md com <= 500 linhas; INSTRUCOES_MCP com <= 2380 caracteres", async () => {
-  for (const f of [SKILL("SKILL.md"), REDATOR("SKILL.md")]) {
+test("T-409 orçamento de contexto: um só skill, SKILL.md com <= 500 linhas; INSTRUCOES_MCP com <= 2380 caracteres", async () => {
+  assert.deepEqual(readdirSync(r("skills")), ["juridico-pt"], "o plugin tem de ter um só skill (desde a 3.0.1)");
+  for (const f of [SKILL("SKILL.md")]) {
     assert.ok(existsSync(f), `falta ${relative(repo, f)}`);
     const n = ler(f).split("\n").length;
     assert.ok(n <= 500, `${relative(repo, f)}: ${n} linhas`);

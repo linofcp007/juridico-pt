@@ -1,20 +1,8 @@
----
-name: redator-juridico
-description: >
-  Redige documentos jurídicos portugueses no registo de advogado, prontos para revisão e
-  assinatura, e gera o .docx forense: contrato e nota de honorários, prestação de serviços,
-  arrendamento para habitação, confissão de dívida e acordo de pagamento, procuração forense e
-  substabelecimento, acordo de revogação, processo disciplinar, interpelação e notificação
-  extrajudicial, petição inicial, contestação e oposição à injunção, reclamação de créditos,
-  parecer e qualquer carta ou minuta. Usa quando o utilizador pede para redigir, gerar, montar
-  ou adaptar um documento jurídico ('faz um contrato de honorários', 'redige a contestação',
-  'preciso de uma interpelação', 'minuta em Word'). Faz as perguntas numa só mensagem, só cita
-  a fundamentação conferida do modelo e marca o que falta com [■ CONFIRMAR] e [■ VERIFICAR].
-  EN: drafts Portuguese legal documents in a lawyer's register and exports .docx. Para dúvidas
-  jurídicas sem documento, usa o skill juridico-pt.
----
+# Redator jurídico: o fluxo para redigir um documento
 
-# Redator Jurídico (Portugal)
+> **Âmbito:** nacional
+
+Lê este guia quando o pedido é redigir, gerar, montar ou adaptar um documento jurídico ("faz um contrato de honorários", "redige a contestação", "preciso de uma interpelação", "minuta em Word"). Os caminhos contam a partir da raiz do skill `juridico-pt`.
 
 ## Papel
 
@@ -27,24 +15,24 @@ Redige no **registo de advogado português**, como o advogado que vai assinar a 
 
 ## Onde estão os recursos
 
-Primeiro as tools do servidor MCP `juridico-pt`; sem elas, os ficheiros do skill `juridico-pt`, a partir da pasta deste skill:
+Primeiro as tools do servidor MCP `juridico-pt`; sem elas, os ficheiros do skill:
 
 | O quê | Tool MCP | Ficheiro |
 |---|---|---|
-| Índice dos 12 modelos conferidos | `listar_modelos` | `../juridico-pt/assets/modelos/README.md` |
-| Um modelo, por secções | `obter_modelo` (`secoes`) | `../juridico-pt/assets/modelos/<slug>.md` |
-| Outros documentos | `listar_templates` / `obter_template` | `../juridico-pt/assets/templates/README.md` |
-| Guia da entrevista | — | `../juridico-pt/assets/redacao/entrevista.md` |
-| Guia da entrega | — | `../juridico-pt/assets/redacao/entrega.md` |
-| Segurança jurídica (prazos, juros, custas, honorários) | — | `../juridico-pt/assets/redacao/seguranca-juridica.md` |
-| Estilo e autorrevisão | `verificar_redacao` | `../juridico-pt/assets/redacao/estilo.md` |
-| Marcação Redator | — | `../juridico-pt/assets/redacao/marcacao.md` |
-| Formatação do Word | `exportar_documento` | `../juridico-pt/assets/redacao/formatacao-docx.md` |
-| Documento sem modelo (pesquisa na fonte) | — | `../juridico-pt/assets/redacao/protocolo-pesquisa.md` |
-| Normas já conferidas | — | `../juridico-pt/references/normas-conferidas.md` |
-| Valores do ano (taxas, UC, IAS, RMMG) | `ler_referencia` "valores-2026" | `../juridico-pt/references/valores-2026.md` |
-| Verificador sem MCP | — | `../juridico-pt/scripts/verificador.py` |
-| Gerador do Word sem MCP | — | `../juridico-pt/scripts/gerar_docx.py` |
+| Índice dos 12 modelos conferidos | `listar_modelos` | `assets/modelos/README.md` |
+| Um modelo, por secções | `obter_modelo` (`secoes`) | `assets/modelos/<slug>.md` |
+| Outros documentos | `listar_templates` / `obter_template` | `assets/templates/README.md` |
+| Guia da entrevista | — | `assets/redacao/entrevista.md` |
+| Guia da entrega | — | `assets/redacao/entrega.md` |
+| Segurança jurídica (prazos, juros, custas, honorários) | — | `assets/redacao/seguranca-juridica.md` |
+| Estilo e autorrevisão | `verificar_redacao` | `assets/redacao/estilo.md` |
+| Marcação Redator | — | `assets/redacao/marcacao.md` |
+| Formatação do Word | `exportar_documento` | `assets/redacao/formatacao-docx.md` |
+| Documento sem modelo (pesquisa na fonte) | — | `assets/redacao/protocolo-pesquisa.md` |
+| Normas já conferidas | — | `references/normas-conferidas.md` |
+| Valores do ano (taxas, UC, IAS, RMMG) | `ler_referencia` "valores-2026" | `references/valores-2026.md` |
+| Verificador sem MCP | — | `scripts/verificador.py` |
+| Gerador do Word sem MCP | — | `scripts/gerar_docx.py` |
 
 Cada modelo tem 8 secções: 1 quando usar, 2 perguntas, 3 variantes, 4 texto do documento, 5 fundamentação permitida, 6 armadilhas e verificações, 7 nota de entrega, 8 trecho de tom. Inteiro tem cerca de 100 KB: pede-o por secções (`obter_modelo` por defeito dá 1, 2, 3 e 7; para redigir pede `[4, 5]`; para rever, `[6]`).
 
@@ -67,7 +55,7 @@ Resumo de até 6 linhas só quando o documento é longo ou a variante muda muito
 Parte do texto completo da secção 4 do modelo, em Marcação Redator. Aplica a variante da secção 3, preenche as variáveis `{{…}}` e marca o que faltou com `[■ CONFIRMAR: o que falta]`. As instruções `[[IA: …]]` e os delimitadores `[[INÍCIO VARIANTE]]` / `[[FIM VARIANTE]]` nunca chegam ao texto final. Antes de uma peça com prazo, mora, juros, honorários, custas ou citação de lei, lê `seguranca-juridica.md`.
 
 **5. Autorrever.**
-Corre as verificações da secção 6 do modelo e a lista de autorrevisão do guia `estilo.md`: prazos com data de referência, valores em algarismos e por extenso, cláusulas obrigatórias presentes, fundamentação limitada à secção 5. Corre `verificar_redacao` (com `final: true`) ou `python ../juridico-pt/scripts/verificador.py documento.txt --final` e corrige até não haver ERRO. O verificador corre no documento, nunca nos guias nem nos modelos.
+Corre as verificações da secção 6 do modelo e a lista de autorrevisão do guia `estilo.md`: prazos com data de referência, valores em algarismos e por extenso, cláusulas obrigatórias presentes, fundamentação limitada à secção 5. Corre `verificar_redacao` (com `final: true`) ou `python scripts/verificador.py documento.txt --final` e corrige até não haver ERRO. O verificador corre no documento, nunca nos guias nem nos modelos.
 
 **6. Entregar.**
 Gera o Word com `exportar_documento` (o texto em Marcação Redator) e envia a mensagem de entrega do guia `entrega.md`: o nome do ficheiro, 3 a 5 itens "Confira antes de assinar" (marcadores e onde estão, prazos com a data de referência e a conta, valores por defeito aplicados) e a linha fixa, no fim, sem nada depois:
@@ -93,7 +81,7 @@ Este documento precisa da sua revisão antes de ser assinado, enviado ou apresen
 
 1. Escreve o documento inteiro em Marcação Redator (`marcacao.md`), a começar pelas linhas `@@PERFIL: juridico` (ou `contabil`) e `@@TIPO: …`.
 2. Com o MCP: `exportar_documento` com `conteudo` (o texto) e `nome` (minúsculas e hífenes). O Word sai em `.juridico-pt/exportados/`, no formato forense (Times 12, margens 3/3/2/2 cm, entrelinha 1,5, número de página, assinaturas, marcadores a amarelo). Se ainda houver `[[IA:`, variantes ou `{{…}}`, a exportação recusa e diz as linhas.
-3. Sem MCP, com Python: grava o texto como `documento.txt` e corre `python ../juridico-pt/scripts/gerar_docx.py documento.txt "AAAA-MM-DD - Tipo do documento - Parte.docx"` (só biblioteca-padrão).
+3. Sem MCP, com Python: grava o texto como `documento.txt` e corre `python scripts/gerar_docx.py documento.txt "AAAA-MM-DD - Tipo do documento - Parte.docx"` (só biblioteca-padrão).
 4. **Sem Python nem MCP:** entrega o documento inteiro num único bloco de código em Marcação Redator e as instruções de colagem da secção "Recurso" do guia de entrega, sem inventar outras.
 
 Nome do ficheiro: `AAAA-MM-DD - Tipo do documento - Parte.docx` (data do dia, tipo em linguagem corrente, parte principal ou cliente).

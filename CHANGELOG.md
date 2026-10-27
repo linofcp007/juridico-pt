@@ -4,6 +4,28 @@ Todas as alterações relevantes ao **juridico-pt** (até à 1.2.1, **advogado-p
 [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.0/) e o projeto adere ao
 [Versionamento Semântico](https://semver.org/lang/pt-BR/). A versão refere-se ao plugin como um todo.
 
+## [3.0.1] - 2026-10
+
+**O redator jurídico passa a fazer parte do skill `juridico-pt`: um só skill e um só pacote.**
+
+### Changed
+
+- O fluxo de redação do antigo skill `redator-juridico` passa para o guia `assets/redacao/redator.md` do `juridico-pt`, com o mesmo conteúdo:
+  - os 6 passos: identificar, entrevistar, confirmar, redigir, autorrever, entregar;
+  - as regras absolutas;
+  - como gerar o `.docx`, também sem Python nem MCP;
+  - o resumo do estilo.
+
+  O `SKILL.md` ganha a secção "Redigir documentos", que remete para o guia, e a `description` passa a incluir os pedidos de redação ("faz um contrato de honorários", "redige a contestação").
+- `/advogado`, `/contrato`, `/parecer` e `/template` seguem o fluxo de `assets/redacao/redator.md`.
+- O `build.py` gera um só pacote, `juridico-pt.skill`, que já leva os modelos, os guias e o fluxo de redação.
+
+### Removed
+
+- O skill `redator-juridico` e o pacote `redator-juridico.skill`.
+
+**Migração:** quem carregou o `redator-juridico.skill` no claude.ai ou no Claude Desktop remove-o e fica só com o `juridico-pt.skill`. No plugin, nada a fazer.
+
 ## [3.0.0] - 2026-10
 
 **O plugin passa a redigir no registo de um advogado português: o assistente escreve e o advogado revê.** Integra o kit da casa *redator-juridico-ia-pt* (12 modelos conferidos, guias de redação, Marcação Redator, verificador de estilo), convertido para português de Portugal. O sistema nunca afirma estar inscrito na Ordem dos Advogados e continua a recomendar advogado quando o patrocínio é obrigatório.

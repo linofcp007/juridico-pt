@@ -6,14 +6,13 @@ Orienta quem (humano ou Claude) **mantém ou desenvolve** o plugin. Não é runt
 
 Plugin Claude Code de assessoria jurídica de Portugal, com 4 superfícies sobre o mesmo conteúdo:
 
-- **Skill** (`skills/juridico-pt/`) — `SKILL.md` + `references/`, `assets/modelos/` (12 modelos conferidos), `assets/redacao/` (guias do redator), `assets/templates/`, `assets/checklists/`, `playbooks/`, `scripts/` (calculadoras Python, `gerar_docx.py`, `verificador.py`).
-- **Skill do redator** (`skills/redator-juridico/`) — só o `SKILL.md` (fluxo de redação em 6 passos); os recursos são os do `juridico-pt`, citados como `../juridico-pt/…`.
+- **Skill** (`skills/juridico-pt/`) — `SKILL.md` + `references/`, `assets/modelos/` (12 modelos conferidos), `assets/redacao/` (guias do redator, incluindo o fluxo de redação `redator.md`), `assets/templates/`, `assets/checklists/`, `playbooks/`, `scripts/` (calculadoras Python, `gerar_docx.py`, `verificador.py`).
 - **Servidor MCP** (`mcp-server/`, TypeScript) — calculadoras (port TS) + conteúdo como tools/resources + persona como prompt.
 - **Slash commands** (`commands/`) — wrappers finos que invocam a skill / tools.
 - **Hooks** (`hooks/`) + **CLI** (`cli/juridico-pt.mjs`).
 - **Subagentes** (`agents/`) — `verificador-citacoes` e `revisor-contratos`, só com ferramentas de leitura.
 
-Distribuição: plugin via marketplace git (`.claude-plugin/`) + dois `.skill` (Anthropic Skills) gerados por `build.py`: `juridico-pt.skill` e `redator-juridico.skill`. **Sem npm publish e sem CI, por opção** (zero custo).
+Distribuição: plugin via marketplace git (`.claude-plugin/`) + `.skill` (Anthropic Skills) gerado por `build.py`. Um só skill desde a 3.0.1: o redator é o guia `assets/redacao/redator.md`, não um skill à parte. **Sem npm publish e sem CI, por opção** (zero custo).
 
 ## Princípios invioláveis
 
@@ -42,7 +41,7 @@ Caminhos relativos a `skills/juridico-pt/`:
 - **Novo template** → `assets/templates/nome.md` (comentário `<!-- Template: -->` com linha `Âmbito: nacional|ue|misto`, placeholders `{{...}}`, `[VERIFICAR]` para o que falta confirmar, e a secção final `## Antes de enviar — verificar` com ≥ 3 itens `- [ ]`) + índice `assets/templates/README.md`. O `plugin.test.mjs` (T-21/T-22) falha se faltar o âmbito ou a verificação final.
 - **Nova referência** → também com `> **Âmbito:** …` nas primeiras 15 linhas.
 - **Novo modelo conferido** → `assets/modelos/<slug>.md` com o cabeçalho `> slug: … | categoria: … | entregável: docx | …`, `> Âmbito: …` nas primeiras 15 linhas e as 8 secções por ordem (`## 1. Quando usar` … `## 8. Trecho de referência de tom`). A secção 4 é Marcação Redator (`@@…`, `[[IA: …]]`, variantes, `{{…}}`) e só cita normas da secção 5 (ou com `[VERIFICAR]`). Acrescentar ao índice `assets/modelos/README.md` e uma fixture preenchida em `mcp-server/test/fixtures/redator/modelos-preenchidos/<slug>.txt` (dados fictícios «Teste», NIF 999999990). Depois regenerar o índice de normas (abaixo). O `plugin.test.mjs` (T-410) e o `v30.test.mjs` (T-429, citações) falham se faltar alguma destas peças. Se o modelo substitui um template, `git rm` o template e acrescentar o par ao mapa `SUBSTITUIDOS` de `mcp-server/src/content.ts`.
-- **Novo guia de redação** → `assets/redacao/nome.md` (com `> **Âmbito:** …`) + índice `assets/redacao/README.md`; se o `skills/redator-juridico/SKILL.md` o usar, cita-o como `../juridico-pt/assets/redacao/nome.md` (o `build.py` copia as pastas de `RECURSOS_REDATOR` para `recursos/` do pacote do redator e reescreve esses caminhos; um recurso fora delas tem de ser acrescentado à lista).
+- **Novo guia de redação** → `assets/redacao/nome.md` (com `> **Âmbito:** …`) + índice `assets/redacao/README.md`; se o fluxo `assets/redacao/redator.md` o usar, cita-o pelo caminho a partir da raiz do skill (`assets/redacao/nome.md`).
 - **Mudar a Marcação Redator ou o verificador de redação** → **dois lados**, como nas calculadoras: o gerador `.docx` em `mcp-server/src/marcacao.ts` + `docx.ts` **e** `scripts/gerar_docx.py` (têm de produzir o mesmo `word/document.xml`; fixtures partilhadas em `mcp-server/test/fixtures/redator/`, esperado em `esperado/`); o verificador em `mcp-server/src/redacao.ts` **e** `scripts/verificador.py` (mesmas regras; casos em `fixtures/redator/verificador.json`).
 - **Novo playbook / checklist** → `playbooks/nome.md` / `assets/checklists/nome.md` + índice.
 - **Nova calculadora** → **dois lados**: Python em `scripts/nome.py` (stdlib, `argparse`, `formatar_euros`, AVISO) + teste em `scripts/test_scripts.py`; **e** o port TS em `mcp-server/src/calculators/nome.ts` (reexportar em `index.ts`) + teste em `mcp-server/test/calculators.test.mjs` + registar a tool em `mcp-server/src/tools.ts`.
@@ -53,7 +52,7 @@ Caminhos relativos a `skills/juridico-pt/`:
 
 ```bash
 npm run setup                                    # bootstrap: instala + compila o MCP + doctor
-python build.py                                  # gera juridico-pt.skill e redator-juridico.skill (--skill <nome> só um)
+python build.py                                  # gera juridico-pt.skill (empacota skills/juridico-pt/)
 npm --prefix mcp-server run build:mcpb           # gera dist/juridico-pt-<versão>.mcpb (Claude Desktop)
 cd mcp-server && npm test                        # calculadoras + estrutura do plugin
 python skills/juridico-pt/scripts/test_scripts.py  # testes das calculadoras Python
