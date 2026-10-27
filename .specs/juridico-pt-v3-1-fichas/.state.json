@@ -479,6 +479,30 @@
       "task": "[US6] Pacote: o `juridico-pt.skill` leva as fichas e os `_INDICE.md` e fica com 10 MB ou menos (teste Python).",
       "verify": "python -I skills/juridico-pt/scripts/test_scripts.py TestV31Fichas"
     },
+    "12": {
+      "command": "cd mcp-server && npm run build && node --test --test-name-pattern \"T-521|T-523|T-524|T-525|T-527|T-528\" test/v31.test.mjs",
+      "exitCode": 0,
+      "summary": "6 pass 0 fail. Corrida final dos 10 casos novos, 3 execuções cada: 30/30 (golden 8/8, adversarial 1/1, regressão 1/1), 12,88 USD",
+      "at": "2026-10-27T20:20:07.457Z",
+      "commit": "20a744e",
+      "dirty": true,
+      "observed": false,
+      "cmdRule": 1,
+      "history": [
+        {
+          "command": "cd mcp-server && npm run build && node --test --test-name-pattern \"T-521|T-523|T-524|T-525|T-527|T-528\" test/v31.test.mjs",
+          "exitCode": 0,
+          "summary": "6 pass 0 fail. Corrida final dos 10 casos novos, 3 execuções cada: 30/30 (golden 8/8, adversarial 1/1, regressão 1/1), 12,88 USD",
+          "at": "2026-10-27T20:20:07.457Z",
+          "commit": "20a744e",
+          "dirty": true,
+          "observed": false,
+          "cmdRule": 1
+        }
+      ],
+      "task": "[US6] Corrida final dos 10 casos novos, `--runs 3` com `--keep-temp`, teto de 12 USD e confirmação do utilizador. Os graders que medirem mal são corrigidos, testados e os traces reclassificados; as falhas reais voltam à tarefa que as causou. Os resultados ficam na secção \"## Resultados da 3.1.0\" do `eval-plan.md`.",
+      "verify": "cd mcp-server && npm run build && node --test --test-name-pattern \"T-521|T-523|T-524|T-525|T-527|T-528\" test/v31.test.mjs"
+    },
     "13": {
       "command": "node -e \"const t=require('fs').readFileSync('CLAUDE.md','utf8'); for (const s of ['importar-fichas','gerar-epigrafes','revisao-citacoes','sobreposicoes']) if(!t.includes(s)) { console.error('falta', s); process.exit(1) }\"",
       "exitCode": 0,
@@ -502,9 +526,57 @@
       ],
       "task": "[shared] `CLAUDE.md` (manutenção):",
       "verify": "node -e \"const t=require('fs').readFileSync('CLAUDE.md','utf8'); for (const s of ['importar-fichas','gerar-epigrafes','revisao-citacoes','sobreposicoes']) if(!t.includes(s)) { console.error('falta', s); process.exit(1) }\""
+    },
+    "14": {
+      "command": "cd mcp-server && npm test && cd .. && python -I skills/juridico-pt/scripts/test_scripts.py",
+      "exitCode": 0,
+      "summary": "mcp 279 testes: 277 pass, 0 fail (2 ignorados); Python 56 OK. Versão 3.1.0 nos 6 sítios e no lock; .skill 6,6 MB e .mcpb 3.1.0 gerados",
+      "at": "2026-10-27T20:22:35.382Z",
+      "commit": "20a744e",
+      "dirty": true,
+      "observed": false,
+      "cmdRule": 1,
+      "history": [
+        {
+          "command": "cd mcp-server && npm test && cd .. && python -I skills/juridico-pt/scripts/test_scripts.py",
+          "exitCode": 0,
+          "summary": "mcp 279 testes: 277 pass, 0 fail (2 ignorados); Python 56 OK. Versão 3.1.0 nos 6 sítios e no lock; .skill 6,6 MB e .mcpb 3.1.0 gerados",
+          "at": "2026-10-27T20:22:35.382Z",
+          "commit": "20a744e",
+          "dirty": true,
+          "observed": false,
+          "cmdRule": 1
+        }
+      ],
+      "task": "[shared] Versão 3.1.0:",
+      "verify": "cd mcp-server && npm test && cd .. && python -I skills/juridico-pt/scripts/test_scripts.py"
+    },
+    "15": {
+      "command": "node -e \"const t=require('fs').readFileSync('.specs/juridico-pt-v3-1-fichas/quickstart.md','utf8'); if(/\\[faz isto\\]|\\[depois isto\\]/.test(t)) process.exit(1)\"",
+      "exitCode": 0,
+      "summary": "quickstart com o cenário manual, as 10 fichas da revisão humana por código e a lista das fichas para revisão de fundo",
+      "at": "2026-10-27T20:11:58.658Z",
+      "commit": "20a744e",
+      "dirty": true,
+      "observed": false,
+      "cmdRule": 1,
+      "history": [
+        {
+          "command": "node -e \"const t=require('fs').readFileSync('.specs/juridico-pt-v3-1-fichas/quickstart.md','utf8'); if(/\\[faz isto\\]|\\[depois isto\\]/.test(t)) process.exit(1)\"",
+          "exitCode": 0,
+          "summary": "quickstart com o cenário manual, as 10 fichas da revisão humana por código e a lista das fichas para revisão de fundo",
+          "at": "2026-10-27T20:11:58.658Z",
+          "commit": "20a744e",
+          "dirty": true,
+          "observed": false,
+          "cmdRule": 1
+        }
+      ],
+      "task": "[shared] `quickstart.md` com o cenário manual e a revisão humana das 10 fichas.",
+      "verify": "node -e \"const t=require('fs').readFileSync('.specs/juridico-pt-v3-1-fichas/quickstart.md','utf8'); if(/\\[faz isto\\]|\\[depois isto\\]/.test(t)) process.exit(1)\""
     }
   },
-  "lastTickAt": "2026-10-27T20:10:13.416Z",
+  "lastTickAt": "2026-10-27T20:22:35.382Z",
   "ticks": {
     "1": "2026-10-27T19:20:34.164Z",
     "2": "2026-10-27T19:57:03.171Z",
@@ -517,6 +589,9 @@
     "9": "2026-10-27T19:57:03.618Z",
     "10": "2026-10-27T19:57:03.693Z",
     "11": "2026-10-27T19:57:03.765Z",
-    "13": "2026-10-27T20:10:13.416Z"
+    "12": "2026-10-27T20:20:07.457Z",
+    "13": "2026-10-27T20:10:13.416Z",
+    "14": "2026-10-27T20:22:35.382Z",
+    "15": "2026-10-27T20:11:58.658Z"
   }
 }

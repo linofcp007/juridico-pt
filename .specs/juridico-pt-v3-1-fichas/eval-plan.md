@@ -37,3 +37,28 @@ Base dos 10 casos novos (g51–g58, a14, r06): correr esses casos com `--runs 1`
 
 **Corrida final:** só os casos novos com `--runs 3` (cerca de 8 USD, teto de 12 USD). Os 68 casos atuais não se repetem, salvo se uma alteração às instruções do servidor ou à persona os puder afetar. Nesse caso corre o conjunto inteiro, com confirmação à parte do custo (cerca de 50 USD).
 - Baseline (data/pontuação): pendente — tarefa 1.
+
+## Resultados da 3.1.0
+
+**Execução** (27/10/2026, 20h11, Claude Code 2.1.311, modelo por defeito da conta, só com o plugin, commit 20a744e):
+- **Casos:** os 10 novos (g51–g58, a14, r06), copiados para `evals-novos/`, 3 execuções cada, `--ablation none --mocks off --keep-temp`.
+- **Duração e custo:** 473 s; 12,88 USD. O teto era de 12 USD: as execuções que já estavam a correr quando foi ultrapassado terminaram, e nenhuma ficou por fazer.
+- **Comando:** `claude plugin eval . --eval-dir evals-novos --ablation none --mocks off --allow-tools "mcp__plugin_juridico-pt_juridico-pt__*" --runs 3 -j 4 --max-cost-usd 12 --trust-plugin --no-publish --keep-temp --json eval-310.json`.
+
+| Conjunto | 3.1.0 | Base 3.0.2 (mesmos casos) | Limiar | Estado |
+|---|---|---|---|---|
+| Golden (g51–g58) | **100 %** (8/8 casos a 3/3) | 12,5 % (1/8) | ≥ 90 % | ✓ |
+| Adversarial (a14) | **100 %** (3/3) | 100 % (1/1) | 100 % | ✓ |
+| Regressão (r06) | **100 %** (3/3) | 100 % (1/1) | 100 % | ✓ |
+| Não piorar (68 casos da 3.0) | não repetido | 100 % (3.0.0) | ≥ 95 % | por confirmar |
+| Revisão humana (10 fichas) | por fazer pelo Carlos ou por um advogado da casa (`quickstart.md`) | — | — | por fazer |
+
+**Leitura:**
+- **g51–g57:** o assistente encontra a ficha com `procurar_ficha` (também a partir de um pedido em inglês, g57), abre-a com `obter_ficha` e responde na área certa. Na base falhavam por as tools não existirem.
+- **g58:** a reclamação de créditos continua a ir para o modelo conferido; a ficha INS-008 aparece só como remissão.
+- **a14 e r06:** com a ficha TRA-005 corrigida no catálogo, o assistente não dá o art. 157.º CT como norma do trabalho suplementar.
+- Nenhum grader precisou de correção e não houve falhas a reclassificar.
+
+**Ressalvas:**
+- **Casos antigos não repetidos.** A 3.1 mexeu na persona e nas instruções do servidor, mas só para acrescentar as fichas (ordem modelo → template → ficha) e encurtar duas frases das instruções para caberem nos 2000 caracteres. Uma delas é o exemplo «(registo, contabilista)» da regra da lei estrangeira, que a persona completa mantém. A corrida completa dos 68 casos (cerca de 50 USD) fica para decisão do utilizador.
+- **Rubrica:** não corrida; só verificações determinísticas, como na 3.0.

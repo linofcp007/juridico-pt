@@ -94,7 +94,7 @@
   - _Verify: python -I skills/juridico-pt/scripts/test_scripts.py TestV31Fichas_
 
 ## Fase: Avaliação e fecho
-- [ ] 12. [US6] Corrida final dos 10 casos novos, `--runs 3` com `--keep-temp`, teto de 12 USD e confirmação do utilizador. Os graders que medirem mal são corrigidos, testados e os traces reclassificados; as falhas reais voltam à tarefa que as causou. Os resultados ficam na secção "## Resultados da 3.1.0" do `eval-plan.md`.
+- [x] 12. [US6] Corrida final dos 10 casos novos, `--runs 3` com `--keep-temp`, teto de 12 USD e confirmação do utilizador. Os graders que medirem mal são corrigidos, testados e os traces reclassificados; as falhas reais voltam à tarefa que as causou. Os resultados ficam na secção "## Resultados da 3.1.0" do `eval-plan.md`.
   - _Requirements: US-6.AC-2, US-5.AC-3, US-4.AC-5, SC-004_
   - _Makes green: T-521, T-523, T-524, T-525, T-527, T-528_
   - _Affects evals: golden, adversarial, regression_
@@ -107,7 +107,7 @@
   - _Requirements: NFR-4_
   - _Implements: CLAUDE.md_
   - _Verify: node -e "const t=require('fs').readFileSync('CLAUDE.md','utf8'); for (const s of ['importar-fichas','gerar-epigrafes','revisao-citacoes','sobreposicoes']) if(!t.includes(s)) { console.error('falta', s); process.exit(1) }"_
-- [ ] 14. [shared] Versão 3.1.0:
+- [x] 14. [shared] Versão 3.1.0:
   - os 6 sítios e o package-lock;
   - CHANGELOG `## [3.1.0]`, com as áreas, as contagens, a percentagem de citações conferidas e a pontuação das avaliações;
   - README;
@@ -117,6 +117,6 @@
   - _Requirements: US-6.AC-1, NFR-2_
   - _Implements: .claude-plugin/plugin.json, .claude-plugin/marketplace.json, package.json, mcp-server/package.json, mcp-server/src/index.ts, CHANGELOG.md, README.md, mcp-server/dist/index.js, mcp-server/dist/cli-lib.js_
   - _Verify: cd mcp-server && npm test && cd .. && python -I skills/juridico-pt/scripts/test_scripts.py_
-- [ ] 15. [shared] `quickstart.md` com o cenário manual e a revisão humana das 10 fichas.
+- [x] 15. [shared] `quickstart.md` com o cenário manual e a revisão humana das 10 fichas.
   - _Requirements: SC-001, SC-005_
   - _Verify: node -e "const t=require('fs').readFileSync('.specs/juridico-pt-v3-1-fichas/quickstart.md','utf8'); if(/\[faz isto\]|\[depois isto\]/.test(t)) process.exit(1)"_

@@ -27,18 +27,30 @@ O revisor abre cada ficha com `obter_ficha`, pede o documento e lê-o como se o 
 
 | # | Ficha | Revisor | Resultado | Notas |
 |---|---|---|---|---|
-| 1 | FAM — regulação das responsabilidades parentais | | | |
-| 2 | EST — autorização de residência | | | |
-| 3 | ADM — audiência prévia | | | |
-| 4 | SAU — reclamação à ERS | | | |
-| 5 | DES — contrato de trabalho desportivo | | | |
-| 6 | URB — comunicação prévia | | | |
-| 7 | TRA-005 — contrato a tempo parcial (corrigida) | | | |
-| 8 | CIV — a ficha com mais citações corrigidas | | | |
-| 9 | PEN — uma ficha de direito penal | | | |
-| 10 | DIG — uma ficha de proteção de dados | | | |
+| 1 | FAM-006 — regulação das responsabilidades parentais | | | |
+| 2 | EST-003 — autorização de residência para atividade profissional | | | |
+| 3 | ADM-002 — exercício do direito de audiência prévia | | | |
+| 4 | SAU-003 — reclamação prévia a estabelecimento de saúde | | | |
+| 5 | DES-001 — contrato de trabalho desportivo de praticante profissional | | | |
+| 6 | URB-002 — comunicação prévia de obras | | | |
+| 7 | TRA-005 — contrato a tempo parcial (corrigida: 153.º, 154.º e 227.º CT) | | | |
+| 8 | CIV-006 — contrato de comodato (12 citações corrigidas, a CIV com mais) | | | |
+| 9 | PEN-029 — crimes económicos: insolvência dolosa (7 corrigidas, artigos deslocados) | | | |
+| 10 | DIG-015 — aviso de privacidade para trabalhadores (3 corrigidas, 10 por conferir) | | | |
 
 Um erro jurídico encontrado volta à revisão de citações dessa área e passa a caso de regressão `r07+`.
+
+## Fichas para revisão de fundo (levantadas pela revisão das citações)
+A revisão por agentes decidiu o número de cada artigo; nalgumas fichas o problema é o regime, não o número. Ficam com `[■ VERIFICAR]` no sítio, mas merecem que um advogado da casa as reveja de raiz antes de as usar:
+- **PI-014, PI-015, PI-028, PI-029, PI-041, PI-055 (software):** tiram o regime do CDADC quando está no DL 252/94, e dão a obra por encomenda ao empregador.
+- **PI-018, PI-021, PI-036, PI-037 (CPI):** numeração do CPI de 2003 (338.º-A a 338.º-N, 317.º).
+- **TRA-041:** assenta no banco de horas individual, revogado pela Lei 93/2019. **TRA-042:** comunicação da isenção de horário à ACT, regra do CT de 2003.
+- **SUC-035:** ignora a renúncia à condição de herdeiro legitimário entre cônjuges (Lei 48/2018). **SUC-001, SUC-035, SUC-037:** figuras do direito brasileiro (inalienabilidade, usufruto vidual).
+- **COM-048:** assenta numa preferência legal dos sócios na cessão de quotas que a lei não prevê.
+- **INS-012, INS-013, INS-030:** exoneração do passivo restante com o período de cessão de 5 anos (3 desde a Lei 9/2022). **INS-004, 005, 006, 022, 024:** PER/PEAP com a numeração deslocada.
+- **URB-002, URB-003, URB-027, URB-040:** RJUE anterior ao DL 136/2014 e ao DL 10/2024 (autorização de utilização). **URB-011, URB-058:** classificação de contraordenações que o art. 98.º RJUE não faz.
+- **ADM-052:** silêncio tratado como indeferimento tácito (regime anterior ao CPA de 2015).
+- **FIS-033, FIS-037:** RNH dado como em vigor (revogado pela Lei 82/2023).
 
 ## Concluído quando
 - [ ] O caminho feliz produz os resultados esperados.

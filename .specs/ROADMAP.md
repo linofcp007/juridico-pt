@@ -2,14 +2,14 @@
 
 <!-- AUTO-GERADO por dev-spec — não editar à mão. -->
 
-**Progresso: 98%** ▰▰▰▰▰▰▰▰▰▰ · 7/8 features completas · 182/185 tasks feitas
+**Progresso: 100%** ▰▰▰▰▰▰▰▰▰▰ · 8/8 features completas · 185/185 tasks feitas
 
-_Velocidade: 28.12 ponto(s)/dia útil — 182 tarefa(s), 478 ponto(s) concluídos desde 2026-10-03 (últimos 28 dias)_
+_Velocidade: 28.65 ponto(s)/dia útil — 185 tarefa(s), 487 ponto(s) concluídos desde 2026-10-03 (últimos 28 dias)_
 
 Legenda: ✅ feito · 🟡 em curso · ⛔ bloqueada · 📋 planeada · ⬜ por começar
 
 ## ▶ A seguir
-- **juridico-pt-v3-1-fichas** (core +tdd +ai) — próxima #12 Corrida final dos 10 casos novos, `--runs 
+Todas as features completas 🎉
 
 ## Features
 
@@ -22,9 +22,7 @@ Legenda: ✅ feito · 🟡 em curso · ⛔ bloqueada · 📋 planeada · ⬜ por
 | ✅ | [juridico-pt-v3-0-1-redator-unificado](./juridico-pt-v3-0-1-redator-unificado/change.md) | core | concluída | 100% | 3/3 | — | — | — |
 | ✅ | [juridico-pt-v3-0-2-lei-estrangeira](./juridico-pt-v3-0-2-lei-estrangeira/change.md) | core | concluída | 100% | 3/3 | — | — | — |
 | ✅ | [juridico-pt-v3-0-redator](./juridico-pt-v3-0-redator/requirements.md) | core +tdd +ai +privacy | concluída | 100% | 27/27 | advogado-pt-v1-1-empresas ✓, advogado-pt-v1-2-1-correcoes ✓ | — | — |
-| 🟡 | [juridico-pt-v3-1-fichas](./juridico-pt-v3-1-fichas/requirements.md) | core +tdd +ai | em execução | 86% | 12/15 | advogado-pt-v1-1-empresas ✓, advogado-pt-v1-2-1-correcoes ✓, advogado-pt-v1-2-operacional ✓, juridico-pt-v2-0 ✓, juridico-pt-v3-0-redator ✓, juridico-pt-v3-0-1-redator-unificado ✓, juridico-pt-v3-0-2-lei-estrangeira ✓ | #12 Corrida final dos 10 casos novos, `--runs  | 2026-10-27 |
-
-Previsão = pontos por fazer ÷ velocidade, em dias úteis (±25%) · `_Size: XS|S|M|L|XL_` numa tarefa = 1/2/3/5/8 pontos; uma tarefa sem tamanho conta como a mediana da sua feature (senão M) · uma feature à espera de uma dependência começa depois da previsão dessa.
+| ✅ | [juridico-pt-v3-1-fichas](./juridico-pt-v3-1-fichas/requirements.md) | core +tdd +ai | concluída | 100% | 15/15 | advogado-pt-v1-1-empresas ✓, advogado-pt-v1-2-1-correcoes ✓, advogado-pt-v1-2-operacional ✓, juridico-pt-v2-0 ✓, juridico-pt-v3-0-redator ✓, juridico-pt-v3-0-1-redator-unificado ✓, juridico-pt-v3-0-2-lei-estrangeira ✓ | — | — |
 
 ## Dependências
 
@@ -47,7 +45,7 @@ graph LR
 
 ## ⚠ Precisa de atenção
 
-_Nada a assinalar ✓_
+- **juridico-pt-v3-1-fichas** — alterado desde a aprovação — rever de novo: eval-plan.md
 
 ## Backlog (planeadas, ainda sem spec)
 
