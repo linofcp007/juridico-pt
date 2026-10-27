@@ -3,27 +3,29 @@ codigo: PI-055
 area: "Propriedade Intelectual e Industrial"
 titulo: "Política de Propriedade Intelectual Interna (IP Policy) de uma Empresa"
 titulo_en: "Internal Intellectual Property Policy (IP Policy) for a Company"
-descricao: "Elabora uma política interna de propriedade intelectual abrangente para uma empresa, regulando a titularidade de criações de trabalhadores e prestadores, a proteção de segredos comerciais, o uso de ativos de PI de terceiros e a gestão do portfólio de PI, ao abrigo do CPI (DL n.º 110/2018), do CDADC (DL n.º 63/85), da Lei n.º 93/2021 e do Código do Trabalho."
-descricao_en: "Prepares a comprehensive internal intellectual property policy for a company, regulating ownership of creations by employees and contractors, protection of trade secrets, use of third-party IP assets and management of the IP portfolio, under the CPI (Decree-Law No. 110/2018), the CDADC (Decree-Law No. 63/85), Law No. 93/2021 and the Labour Code."
+descricao: "Elabora uma política interna de propriedade intelectual abrangente para uma empresa, regulando a titularidade de criações de trabalhadores e prestadores, a proteção de segredos comerciais, o uso de ativos de PI de terceiros e a gestão do portfólio de PI, ao abrigo do CPI (DL n.º 110/2018, incluindo o regime dos segredos comerciais), do CDADC (DL n.º 63/85), do Decreto-Lei n.º 252/94 (programas de computador) e do Código do Trabalho."
+descricao_en: "Prepares a comprehensive internal intellectual property policy for a company, regulating ownership of creations by employees and contractors, protection of trade secrets, use of third-party IP assets and management of the IP portfolio, under the CPI (Decree-Law No. 110/2018, including the trade secrets regime), the CDADC (Decree-Law No. 63/85), Decree-Law No. 252/94 (computer programs) and the Labour Code."
 ambito: nacional
-estado_citacoes: "conferidas 1 · corrigidas 0 · por conferir 4"
+estado_citacoes: "conferidas 7 · corrigidas 0 · por conferir 3"
+revisao_tecnica: "2026-10-27 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
 # Política de Propriedade Intelectual Interna (IP Policy) de uma Empresa
 
 > **Âmbito:** nacional · **Área:** Propriedade Intelectual e Industrial · **Código:** PI-055
-> **EN:** Internal Intellectual Property Policy (IP Policy) for a Company. Prepares a comprehensive internal intellectual property policy for a company, regulating ownership of creations by employees and contractors, protection of trade secrets, use of third-party IP assets and management of the IP portfolio, under the CPI (Decree-Law No. 110/2018), the CDADC (Decree-Law No. 63/85), Law No. 93/2021 and the Labour Code.
-> **Citações:** conferidas 1 · corrigidas 0 · por conferir 4. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **EN:** Internal Intellectual Property Policy (IP Policy) for a Company. Prepares a comprehensive internal intellectual property policy for a company, regulating ownership of creations by employees and contractors, protection of trade secrets, use of third-party IP assets and management of the IP portfolio, under the CPI (Decree-Law No. 110/2018, including the trade secrets regime), the CDADC (Decree-Law No. 63/85), Decree-Law No. 252/94 (computer programs) and the Labour Code.
+> **Citações:** conferidas 7 · corrigidas 0 · por conferir 3. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-27 — corrigida (7 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
-Elabora uma política interna de propriedade intelectual abrangente para uma empresa, regulando a titularidade de criações de trabalhadores e prestadores, a proteção de segredos comerciais, o uso de ativos de PI de terceiros e a gestão do portfólio de PI, ao abrigo do CPI (DL n.º 110/2018), do CDADC (DL n.º 63/85), da Lei n.º 93/2021 e do Código do Trabalho.
+Elabora uma política interna de propriedade intelectual abrangente para uma empresa, regulando a titularidade de criações de trabalhadores e prestadores, a proteção de segredos comerciais, o uso de ativos de PI de terceiros e a gestão do portfólio de PI, ao abrigo do CPI (DL n.º 110/2018, incluindo o regime dos segredos comerciais), do CDADC (DL n.º 63/85), do Decreto-Lei n.º 252/94 (programas de computador) e do Código do Trabalho.
 
 ## Método
 
 Ficha de trabalho para preparar este documento. As regras da casa prevalecem sobre a ficha: registo de advogado, nunca afirmar inscrição na Ordem dos Advogados, citar só normas conferidas ou com `[■ VERIFICAR]`, e seguir o fluxo de `assets/redacao/redator.md`.
 
 ## Regras obrigatórias
-— Cita os artigos reais do CPI (DL n.º 110/2018), do CDADC (DL n.º 63/85), da Lei n.º 93/2021 e do Código do Trabalho.
+— Cita os artigos reais do CPI (DL n.º 110/2018), do CDADC (DL n.º 63/85), do Decreto-Lei n.º 252/94 (programas de computador) e do Código do Trabalho; os segredos comerciais estão nos arts. 313.º a 316.º do CPI (a Lei n.º 93/2021 é o regime geral de proteção de denunciantes).
 — Alerta para os limites legais: os direitos morais do trabalhador são irrenunciáveis mesmo com política de PI.
 — Usa linguagem acessível a não-juristas (a política deve ser compreendida pelos trabalhadores).
 
@@ -40,10 +42,12 @@ Apresenta em <diagnostico_ippolicy>:
 ### ETAPA 2 — TITULARIDADE DAS CRIAÇÕES
 Define em <titularidade_criacao>:
 - Invenções de trabalhadores (CPI, art. 58.º e ss.):
-  — Invenção de serviço: criada no âmbito das funções → pertence à empresa
-  — Invenção mista: criada com meios da empresa fora das funções → partilha
-  — Invenção livre: criada fora das funções e sem meios da empresa → pertence ao trabalhador
-- Software e obras criativas (CDADC, art. 36.º, n.º 2, e art. 102.º): empresa é titular se criado no exercício das funções
+  — Invenção de serviço: feita durante a execução de contrato de trabalho em que a atividade inventiva esteja prevista → o direito à patente pertence à empresa; se essa atividade não estiver especialmente remunerada, o inventor tem direito a remuneração (n.os 1 e 2)
+  — Invenção que se integra na atividade da empresa, fora daquele quadro → a empresa tem direito de opção à patente, mediante remuneração, a exercer no prazo de três meses a contar da receção da notificação do inventor (n.º 3, als. a) e e)); o uso de meios da empresa não lhe atribui, por si, a invenção
+  — Restantes invenções → pertencem ao trabalhador
+  — O inventor deve informar a empresa no prazo de três meses a contar da conclusão da invenção (n.º 3, al. b)); as invenções cuja patente seja pedida no ano seguinte à saída consideram-se feitas durante o contrato (n.º 5)
+- Software: os direitos pertencem à empresa se o programa for criado no exercício das funções, segundo instruções da empresa ou por encomenda, salvo estipulação em contrário (art. 3.º, n.º 3, do Decreto-Lei n.º 252/94)
+- Outras obras criativas (design, conteúdos): a titularidade é a convencionada; na falta de convenção, presume-se do criador (art. 14.º CDADC) → prever cláusula expressa nos contratos
 - Criações de prestadores de serviços: exigir cessão expressa por escrito
 - Criações com IA: definir regras de documentação do processo criativo
 
@@ -51,7 +55,7 @@ Define em <titularidade_criacao>:
 Define em <segredos_ippolicy>:
 - Definição interna de "informação confidencial" e "segredo comercial"
 - Medidas de proteção: controlo de acesso, classificação de documentos, NDAs com terceiros
-- Obrigações dos trabalhadores durante e após o contrato (Lei n.º 93/2021)
+- Obrigações dos trabalhadores durante e após o contrato (arts. 313.º a 316.º CPI; art. 128.º, n.º 1, al. f), do Código do Trabalho)
 - Procedimentos de saída: checklist de devolução de informação para ex-trabalhadores
 
 ### ETAPA 4 — POLÍTICA (DOCUMENTO)
@@ -66,9 +70,9 @@ Esta Política aplica-se a todos os trabalhadores, consultores e prestadores de 
 
 **2. TITULARIDADE DAS CRIAÇÕES**
 
-2.1. Invenções criadas no âmbito das funções do trabalhador ou com recurso a meios da Empresa pertencem à Empresa, nos termos do artigo 58.º do CPI.
+2.1. O direito à patente das invenções feitas durante a execução de contrato de trabalho em que a atividade inventiva esteja prevista pertence à Empresa; quanto às invenções que, fora desse quadro, se integrem na atividade da Empresa, esta tem direito de opção mediante remuneração; tudo nos termos do artigo 58.º do CPI.
 
-2.2. Software, obras de design, conteúdos digitais e outras obras criativas desenvolvidas no exercício das funções do trabalhador pertencem à Empresa, nos termos dos artigos 36.º, n.º 2, e 102.º do CDADC [■ VERIFICAR: o software de trabalhador rege-se pelo DL 252/94 (art. 3.º, n.º 3), não pelos arts. 36.º e 102.º CDADC].
+2.2. Os programas de computador criados pelo trabalhador no exercício das suas funções ou segundo instruções da Empresa pertencem à Empresa, salvo estipulação em contrário, nos termos do artigo 3.º, n.º 3, do Decreto-Lei n.º 252/94. As obras de design, conteúdos digitais e outras obras criativas desenvolvidas no exercício das funções pertencem à Empresa nos termos convencionados no contrato de trabalho ou de prestação de serviços (artigo 14.º do CDADC), pelo que os contratos devem conter cláusula expressa nesse sentido.
 
 2.3. Os prestadores de serviços externos devem celebrar acordo de cessão de direitos antes de iniciar qualquer trabalho para a Empresa.
 
@@ -76,7 +80,7 @@ Esta Política aplica-se a todos os trabalhadores, consultores e prestadores de 
 
 **3. SEGREDOS COMERCIAIS E CONFIDENCIALIDADE**
 
-3.1. Toda a informação técnica, comercial e estratégica da Empresa que não seja pública é tratada como segredo comercial ao abrigo da Lei n.º 93/2021.
+3.1. A informação técnica, comercial e estratégica da Empresa que seja secreta, tenha valor comercial por ser secreta e seja objeto de diligências razoáveis para a manter secreta é protegida como segredo comercial (artigo 313.º do CPI); a restante informação não pública é tratada como informação confidencial nos termos desta Política.
 
 3.2. Os trabalhadores e prestadores devem adotar as medidas de segurança definidas no Procedimento de Segurança da Informação [referência interna].
 
@@ -136,8 +140,13 @@ Apresenta em <checklist_ippolicy_implementacao>:
 
 | Citação | Estado | Nota |
 |---|---|---|
+| arts. 313.º a 316.º do CPI | conferida (epígrafe) — Objeto de proteção |  |
 | art. 58.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| art. 36.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| art. 102.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 3.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 14.º CDADC | conferida (epígrafe) — Determinação da titularidade em casos excepcionais |  |
+| arts. 313.º a 316.º CPI | conferida (epígrafe) — Objeto de proteção |  |
+| art. 128.º, n.º 1, al. f), do Código do Trabalho | conferida (índice) |  |
 | artigo 58.º do CPI | conferida (epígrafe) — Regras especiais sobre titularidade da patente |  |
-| artigos 36.º, n.º 2, e 102.º do CDADC | por conferir [■ VERIFICAR] | o software de trabalhador rege-se pelo DL 252/94 (art. 3.º, n.º 3), não pelos arts. 36.º e 102.º CDADC |
+| artigo 3.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| artigo 14.º do CDADC | conferida (epígrafe) — Determinação da titularidade em casos excepcionais |  |
+| artigo 313.º do CPI | conferida (epígrafe) — Objeto de proteção |  |

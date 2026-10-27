@@ -8,6 +8,7 @@ descricao_en: "Generates the interested party's written submission in the prior 
 ambito: nacional
 estado_citacoes: "conferidas 2 · corrigidas 1 · por conferir 1"
 remete_para: "assets/templates/pronuncia-audiencia-previa-ccp"
+revisao_tecnica: "2026-10-27 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
@@ -17,6 +18,7 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 > **EN:** Exercise of the Right to a Prior Hearing (Audiência Prévia). Generates the interested party's written submission in the prior hearing (audiência prévia), a mandatory stage before any unfavourable administrative decision, identifying the defects in the draft decision, rebutting it on the facts and the law, and requesting its amendment or the closure of the procedure.
 > **Ver também:** `assets/templates/pronuncia-audiencia-previa-ccp` — audiência prévia geral (CPA); o template cobre a pronúncia em procedimento de contratação pública. Usa-o primeiro.
 > **Citações:** conferidas 2 · corrigidas 1 · por conferir 1. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-27 — corrigida (1 correção com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
 Gera a pronúncia escrita do interessado no âmbito da audiência prévia, fase obrigatória antes de qualquer decisão administrativa desfavorável, com identificação dos vícios do projeto de decisão, contraditório factual e jurídico, e pedido de alteração ou arquivamento.
 
@@ -91,7 +93,7 @@ Documentos que junta, testemunhos ou diligências que requer.
 ### ETAPA 5 — FORMULAÇÃO FINAL (Validação)
 Apresenta dentro de um bloco <checklist_validacao>:
 - [ ] Processo e notificação identificados com precisão
-- [ ] Prazo de pronúncia verificado (normalmente 10 dias úteis — art. 122.º CPA)
+- [ ] Prazo de pronúncia verificado (o fixado na notificação, nunca inferior a 10 dias úteis — art. 122.º CPA)
 - [ ] Fundamentos do projeto de decisão rebatidos ponto por ponto
 - [ ] Erros de facto corrigidos com documentação de suporte
 - [ ] Ilegalidades assinaladas com base em artigos concretos

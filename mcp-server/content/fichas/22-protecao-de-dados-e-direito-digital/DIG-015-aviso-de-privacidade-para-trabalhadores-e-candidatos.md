@@ -6,7 +6,8 @@ titulo_en: "Privacy Notice for Employees and Job Applicants"
 descricao: "Gera um Aviso de Privacidade completo para trabalhadores e candidatos a emprego, conforme aos arts. 13.º e 14.º do RGPD e às especificidades do tratamento de dados no contexto laboral, incluindo todos os tratamentos típicos de RH: recrutamento, contrato, processamento salarial, saúde ocupacional, monitorização e cessação."
 descricao_en: "Generates a complete privacy notice for employees and job applicants, compliant with Arts. 13 and 14 of the GDPR and the specific features of data processing in the employment context, covering all typical HR processing: recruitment, contract, payroll, occupational health, monitoring and termination."
 ambito: nacional
-estado_citacoes: "conferidas 21 · corrigidas 3 · por conferir 10"
+estado_citacoes: "conferidas 24 · corrigidas 3 · por conferir 14"
+revisao_tecnica: "2026-10-27 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
@@ -14,7 +15,8 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 
 > **Âmbito:** nacional · **Área:** Proteção de Dados e Direito Digital · **Código:** DIG-015
 > **EN:** Privacy Notice for Employees and Job Applicants. Generates a complete privacy notice for employees and job applicants, compliant with Arts. 13 and 14 of the GDPR and the specific features of data processing in the employment context, covering all typical HR processing: recruitment, contract, payroll, occupational health, monitoring and termination.
-> **Citações:** conferidas 21 · corrigidas 3 · por conferir 10. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 24 · corrigidas 3 · por conferir 14. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-27 — corrigida (8 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
 Gera um Aviso de Privacidade completo para trabalhadores e candidatos a emprego, conforme aos arts. 13.º e 14.º do RGPD e às especificidades do tratamento de dados no contexto laboral, incluindo todos os tratamentos típicos de RH: recrutamento, contrato, processamento salarial, saúde ocupacional, monitorização e cessação.
 
@@ -49,13 +51,13 @@ Apresenta dentro de um bloco <fundamentos_juridicos>:
 - Código do Trabalho: arts. 16.º-22.º (proteção da privacidade e intimidade do trabalhador)
   * Art. 17.º CT: acesso a dados de saúde e vida privada — limitado ao necessário
   * Art. 19.º CT: testes e exames médicos — só para avaliar aptidão funcional
-  * Art. 20.º CT: meios de vigilância a distância — proibição de controlo sistemático com câmaras
-  * Art. 20.º CT: utilização de meios de vigilância a distância — com comunicação prévia
-  * Art. 21.º CT: sistemas de controlo à distância — exige acordo ou negociação coletiva
+  * Art. 20.º CT: meios de vigilância a distância — proibidos para controlar o desempenho profissional; lícitos para proteção e segurança de pessoas e bens ou quando particulares exigências da atividade o justifiquem
+  * Art. 20.º CT: dever de informar o trabalhador da existência e da finalidade dos meios de vigilância (aviso afixado nos locais vigiados — n.º 3)
+  * Art. 21.º CT: utilização de meios de vigilância a distância — só se necessária, adequada e proporcional; dados conservados só pelo período necessário e destruídos na transferência ou cessação; parecer da comissão de trabalhadores [■ VERIFICAR: subsistência da autorização prévia da CNPD prevista no n.º 1 face ao RGPD]
   * Art. 22.º CT: utilização de meios de comunicação — mensagens de carácter pessoal
 - Bases jurídicas: al. b) art. 6.º (execução de contrato de trabalho), al. c) (obrigações legais do empregador), al. f) (interesses legítimos — gestão da empresa)
 - Para dados de saúde: art. 9.º, n.º 2, al. b) RGPD + lei de saúde e trabalho
-- Para dados biométricos: art. 9.º, n.º 2 RGPD + autorização da CNPD [■ VERIFICAR: regime específico]
+- Para dados biométricos: art. 9.º, n.º 2 RGPD + art. 18.º CT (necessidade, adequação e proporcionalidade; destruição na transferência ou cessação) + art. 28.º, n.º 6, da Lei n.º 58/2019 (só para controlo de assiduidade e de acessos, com representações não reversíveis) [■ VERIFICAR: subsistência da notificação prévia à CNPD do art. 18.º, n.º 1, CT face ao RGPD]
 
 ### ETAPA 3 — CONSTRUÇÃO (Estrutura do Aviso por Fase do Ciclo Laboral)
 Define em <estrutura_aviso>:
@@ -77,7 +79,7 @@ EPD: [nome e email — ou "Não aplicável (art. 37.º RGPD)"].
 *Dados recolhidos:* Nome, contactos, CV (formação, experiência, competências), referências profissionais.
 *Finalidade:* Avaliação de candidaturas e seleção de candidatos.
 *Base jurídica:* Art. 6.º, n.º 1, al. b) RGPD — diligências pré-contratuais; e art. 6.º, n.º 1, al. f) — interesse legítimo do empregador.
-*Conservação:* [Duração do processo de recrutamento + X meses para candidaturas não seleccionadas — especificar / obter consentimento para base de candidatos se pretendido].
+*Conservação:* [Duração do processo de recrutamento + X meses para candidaturas não selecionadas — especificar; o registo dos processos de recrutamento (dados agregados por sexo) é mantido 5 anos — art. 32.º CT / obter consentimento para base de candidatos se pretendido].
 *Nota:* Não pedimos dados desnecessários (estado de saúde, gravidez, religião, filiação sindical, situação financeira) — art. 17.º Código do Trabalho.
 
 **3. ADMISSÃO E EXECUÇÃO DO CONTRATO**
@@ -98,9 +100,9 @@ EPD: [nome e email — ou "Não aplicável (art. 37.º RGPD)"].
 [Incluir apenas se a empresa usar videovigilância]
 *Dados recolhidos:* Imagens de videovigilância no local de trabalho.
 *Finalidade:* Segurança de pessoas e bens / prevenção e deteção de infrações — arts. 19.º-20.º CT [■ VERIFICAR: o art. 19.º CT trata dos testes e exames médicos; a videovigilância está nos arts. 20.º e 21.º CT].
-*Base jurídica:* Art. 6.º, n.º 1, al. f) RGPD — interesses legítimos de segurança; limitado pelos arts. 19.º-20.º CT (proibição de controlo sistemático do trabalhador com câmaras) [■ VERIFICAR: o art. 19.º CT trata dos testes e exames médicos; a videovigilância está nos arts. 20.º e 21.º CT].
+*Base jurídica:* Art. 6.º, n.º 1, al. f) RGPD — interesses legítimos de segurança; limitado pelos arts. 19.º-20.º CT (proibição de utilização para controlar o desempenho profissional do trabalhador) [■ VERIFICAR: o art. 19.º CT trata dos testes e exames médicos; a videovigilância está nos arts. 20.º e 21.º CT].
 *Onde:* [Áreas específicas cobertas — entradas, armazéns; não em vestiários, sanitários ou locais de descanso].
-*Conservação:* [30 dias — prazo máximo de boa prática / prazo legal aplicável].
+*Conservação:* [30 dias — art. 31.º, n.º 2, da Lei n.º 34/2013, aplicável por remissão do art. 19.º, n.º 1, da Lei n.º 58/2019; destruição no prazo máximo de 48 horas após esse período].
 *Aviso:* As áreas com videovigilância estão identificadas com sinalética visível.
 
 **6. MONITORIZAÇÃO DE SISTEMAS INFORMÁTICOS** (se aplicável)
@@ -114,7 +116,7 @@ EPD: [nome e email — ou "Não aplicável (art. 37.º RGPD)"].
 **7. TELETRABALHO** (se aplicável)
 [Incluir se houver trabalhadores em teletrabalho]
 *Dados adicionais:* Registos de ligação a sistemas da empresa, dados de videoconferência.
-*Nota:* A monitorização de trabalhadores em teletrabalho deve respeitar a privacidade do domicílio — art. 170.º CT. Câmaras em reuniões online apenas com consentimento informado do trabalhador.
+*Nota:* A monitorização de trabalhadores em teletrabalho deve respeitar a privacidade do domicílio — art. 170.º CT. É vedada a captura e utilização de imagem, de som, de escrita, de histórico ou o recurso a outros meios de controlo que possam afetar a privacidade do trabalhador (art. 170.º, n.º 5, CT) [■ VERIFICAR: regras internas sobre o uso de câmara em reuniões online].
 
 **8. CESSAÇÃO DO CONTRATO**
 *Finalidade:* Cumprimento de obrigações legais pós-cessação (declarações à AT, certidões de trabalho).
@@ -196,20 +198,27 @@ Apresenta dentro de um bloco <checklist_validacao>:
 | Art. 22.º CT | conferida (epígrafe) — Confidencialidade de mensagens e de acesso a informação |  |
 | art. 6.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 6.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| art. 9.º, n.º 2 RGPD | conferida (epígrafe) — Tratamento de categorias especiais de dados pessoais |  |
+| art. 9.º, n.º 2 RGPD | por conferir [■ VERIFICAR] | o assunto descrito não coincide com a epígrafe; confirmar |
+| art. 18.º CT | conferida (epígrafe) — Dados biométricos |  |
+| art. 28.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 18.º, n.º 1, CT | conferida (epígrafe) — Dados biométricos |  |
 | art. 37.º RGPD | conferida (epígrafe) — Designação do encarregado da proteção de dados |  |
 | Art. 6.º, n.º 1, al. b) RGPD | conferida (índice) |  |
 | Art. 6.º, n.º 1, al. b) RGPD | conferida (índice) |  |
+| art. 32.º CT | conferida (epígrafe) — Registo de processos de recrutamento |  |
 | art. 17.º Código do Trabalho | conferida (epígrafe) — Proteção de dados pessoais |  |
 | Art. 6.º, n.º 1, al. c) RGPD | conferida (índice) |  |
 | Art. 9.º, n.º 2, al. b) RGPD | conferida (epígrafe) — Tratamento de categorias especiais de dados pessoais |  |
 | arts. 19.º-20.º CT | por conferir [■ VERIFICAR] | o art. 19.º CT trata dos testes e exames médicos; a videovigilância está nos arts. 20.º e 21.º CT |
 | arts. 19.º-20.º CT | por conferir [■ VERIFICAR] | o art. 19.º CT trata dos testes e exames médicos; a videovigilância está nos arts. 20.º e 21.º CT |
 | arts. 19.º-20.º CT | por conferir [■ VERIFICAR] | o art. 19.º CT trata dos testes e exames médicos; a videovigilância está nos arts. 20.º e 21.º CT |
+| art. 19.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | Art. 6.º, n.º 1, al. f) RGPD | conferida (índice) |  |
 | Art. 6.º, n.º 1, al. f) RGPD | conferida (índice) |  |
+| art. 31.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 22.º CT | conferida (epígrafe) — Confidencialidade de mensagens e de acesso a informação |  |
 | art. 22.º CT | conferida (epígrafe) — Confidencialidade de mensagens e de acesso a informação |  |
 | art. 170.º CT | conferida (epígrafe) — Privacidade de trabalhador em regime de teletrabalho |  |
+| art. 170.º, n.º 5, CT | conferida (epígrafe) — Privacidade de trabalhador em regime de teletrabalho |  |
 | art. 15.º RGPD | conferida (epígrafe) — Direito de acesso do titular dos dados |  |
 | arts. 15.º-22.º RGPD | conferida (epígrafe) — Direito de acesso do titular dos dados |  |

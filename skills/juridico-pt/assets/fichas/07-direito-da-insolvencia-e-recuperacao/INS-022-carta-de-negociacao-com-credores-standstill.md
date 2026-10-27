@@ -6,7 +6,8 @@ titulo_en: "Letter Negotiating with Creditors (Standstill)"
 descricao: "Gera carta formal ao credor propondo um período de standstill (suspensão voluntária de ações de cobrança) enquanto as partes negociam um acordo de reestruturação, com indicação da situação financeira, intenção de pagar e bases da proposta de acordo."
 descricao_en: "Generates a formal letter to a creditor proposing a standstill period (voluntary suspension of collection actions) while the parties negotiate a restructuring agreement, setting out the financial situation, the intention to pay and the basis of the proposed agreement."
 ambito: nacional
-estado_citacoes: "conferidas 0 · corrigidas 1 · por conferir 1"
+estado_citacoes: "conferidas 2 · corrigidas 1 · por conferir 0"
+revisao_tecnica: "2026-10-27 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
@@ -14,7 +15,8 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 
 > **Âmbito:** nacional · **Área:** Direito da Insolvência e Recuperação · **Código:** INS-022
 > **EN:** Letter Negotiating with Creditors (Standstill). Generates a formal letter to a creditor proposing a standstill period (voluntary suspension of collection actions) while the parties negotiate a restructuring agreement, setting out the financial situation, the intention to pay and the basis of the proposed agreement.
-> **Citações:** conferidas 0 · corrigidas 1 · por conferir 1. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 2 · corrigidas 1 · por conferir 0. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-27 — corrigida (3 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
 Gera carta formal ao credor propondo um período de standstill (suspensão voluntária de ações de cobrança) enquanto as partes negociam um acordo de reestruturação, com indicação da situação financeira, intenção de pagar e bases da proposta de acordo.
 
@@ -36,12 +38,12 @@ Apresenta dentro de um bloco <analise_do_caso>:
 - Valor e natureza do crédito em questão
 - O que o devedor propõe como standstill (prazo, condições)
 - O que o credor ganha em aceitar (evitar processo moroso, recuperar mais do que em execução)
-- Linha vermelha: o que acontece se o credor não aceitar (apresentação à insolvência / PER)
+- Linha vermelha: o que acontece se o credor não aceitar (apresentação à insolvência / PER). Atenção: se a empresa já estiver em situação de insolvência atual, o standstill não afasta o dever de requerer a declaração de insolvência nos 30 dias seguintes ao conhecimento dessa situação (art. 18.º, n.º 1, CIRE), salvo durante a suspensão das medidas de execução de um PER (n.º 2, al. a))
 
 ### ETAPA 2 — ANÁLISE JURÍDICA (Fundamentação)
 Apresenta dentro de um bloco <fundamentos_juridicos>:
 - O standstill é um compromisso informal / gentlemen's agreement — não tem forma legal específica
-- Pode ser formalizado como moratória (art. 778.º Código Civil [■ VERIFICAR: o art. 778.º CC trata do prazo dependente do arbítrio do devedor, não da moratória; confirmar a base legal]) — dá carácter vinculativo
+- Pode ser formalizado como acordo de moratória (prorrogação convencional do prazo de vencimento, ao abrigo da liberdade contratual e da modificação do contrato por mútuo consentimento — arts. 405.º e 406.º, n.º 1, do Código Civil), o que lhe dá carácter vinculativo
 - A carta de standstill não suspende prazos de prescrição nem execuções já pendentes
 - Para suspensão legal de execuções, o instrumento é o PER (art. 17.º-E CIRE)
 - Importância de não fazer declarações que possam ser interpretadas como reconhecimento de insolvência
@@ -79,7 +81,7 @@ Descrição breve e objetiva da atividade da empresa e do contexto que gerou as 
 **Parágrafo 3 — Proposta de standstill:**
 "Neste contexto, vimos propor a V. Ex.ª um período de negociação de [X] dias, durante o qual solicitamos que sejam suspensas quaisquer diligências de cobrança ou ações judiciais, para que as partes possam negociar soluções sustentáveis."
 
-**Parágrafo 4 — Compromisos do devedor durante o standstill:**
+**Parágrafo 4 — Compromissos do devedor durante o standstill:**
 "Durante este período, a empresa compromete-se a:
 a) Fornecer informação financeira atualizada [mensalmente / trimestralmente];
 b) Não constituir novas garantias a favor de outros credores;
@@ -142,5 +144,6 @@ Apresenta dentro de um bloco <checklist_validacao>:
 
 | Citação | Estado | Nota |
 |---|---|---|
-| art. 778.º Código Civil | por conferir [■ VERIFICAR] | o art. 778.º CC trata do prazo dependente do arbítrio do devedor, não da moratória; confirmar a base legal |
+| art. 18.º, n.º 1, CIRE | conferida (epígrafe) — Dever de apresentação à insolvência |  |
+| arts. 405.º e 406.º, n.º 1, do Código Civil | conferida (índice) |  |
 | art. 17.º-E CIRE | corrigida — Suspensão das medidas de execução | o número citado no catálogo não correspondia à epígrafe |

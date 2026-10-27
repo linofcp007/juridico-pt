@@ -6,7 +6,8 @@ titulo_en: "Defence in Proceedings for Economic Offences (Fraudulent Insolvency,
 descricao: "Gera a estratégia e peças de defesa para arguidos em processos por crimes económicos e financeiros — insolvência dolosa (art. 228.º CP), insolvência negligente (art. 229.º CP), falsificação de documentos (art. 256.º CP) e crimes societários — com análise dos elementos do tipo e construção da defesa técnica."
 descricao_en: "Generates the defence strategy and filings for accused persons in proceedings for economic and financial offences — fraudulent insolvency (Article 228 CP), negligent insolvency (Article 229 CP), forgery of documents (Article 256 CP) and corporate offences — analysing the elements of the offence and building the technical defence."
 ambito: nacional
-estado_citacoes: "conferidas 5 · corrigidas 7 · por conferir 2"
+estado_citacoes: "conferidas 9 · corrigidas 7 · por conferir 2"
+revisao_tecnica: "2026-10-27 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
@@ -14,7 +15,8 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 
 > **Âmbito:** nacional · **Área:** Direito Penal e Contraordenacional · **Código:** PEN-029
 > **EN:** Defence in Proceedings for Economic Offences (Fraudulent Insolvency, Forgery). Generates the defence strategy and filings for accused persons in proceedings for economic and financial offences — fraudulent insolvency (Article 228 CP), negligent insolvency (Article 229 CP), forgery of documents (Article 256 CP) and corporate offences — analysing the elements of the offence and building the technical defence.
-> **Citações:** conferidas 5 · corrigidas 7 · por conferir 2. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 9 · corrigidas 7 · por conferir 2. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-27 — corrigida (11 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
 Gera a estratégia e peças de defesa para arguidos em processos por crimes económicos e financeiros — insolvência dolosa (art. 228.º CP), insolvência negligente (art. 229.º CP), falsificação de documentos (art. 256.º CP) e crimes societários — com análise dos elementos do tipo e construção da defesa técnica.
 
@@ -26,11 +28,11 @@ Ficha de trabalho para preparar este documento. As regras da casa prevalecem sob
 — NUNCA inventes jurisprudência, acórdãos ou doutrina sem verificação.
 — Marca [■ VERIFICAR: dado necessário] quando faltar informação.
 — Crimes económicos relevantes:
-  INSOLVÊNCIA DOLOSA (art. 227.º CP): devedor que dolosamente determina ou agrava a insolvência para prejudicar credores; pena até 5 anos.
-  INSOLVÊNCIA NEGLIGENTE (art. 228.º CP): atuação gravemente culposa que causa ou agrava a insolvência; pena até 2 anos.
-  FALSIFICAÇÃO DE DOCUMENTOS (art. 256.º CP): fabricação, contrafação ou alteração de documentos com intenção de causar prejuízo; pena até 3 anos.
-  BRANQUEAMENTO (art. 368.º-A CP): utilização de bens provenientes de crime; pena até 12 anos.
-— A insolvência dolosa exige: a) devedor em situação de insolvência; b) atuação dolosa; c) finalidade de prejudicar credores.
+  INSOLVÊNCIA DOLOSA (art. 227.º CP): devedor que, com intenção de prejudicar os credores, destrói, danifica, inutiliza ou faz desaparecer parte do património, diminui ficticiamente o ativo (incluindo por contabilidade inexata, falso balanço ou falta de contabilidade devida), cria ou agrava artificialmente prejuízos ou reduz lucros, ou compra mercadorias a crédito para as vender abaixo do preço corrente; só é punível se a insolvência ocorrer e for reconhecida judicialmente; pena de prisão até 5 anos ou multa até 600 dias.
+  INSOLVÊNCIA NEGLIGENTE (art. 228.º CP): devedor que, por grave incúria ou imprudência, prodigalidade, despesas manifestamente exageradas, especulações ruinosas ou grave negligência, cria um estado de insolvência, ou que, conhecendo as dificuldades económicas e financeiras da empresa, não requer em tempo providência de recuperação; só é punível se a insolvência for reconhecida judicialmente; pena de prisão até 1 ano ou multa até 120 dias.
+  FALSIFICAÇÃO DE DOCUMENTOS (art. 256.º CP): fabrico, falsificação, alteração ou uso de documento falso (entre as condutas do n.º 1), com intenção de causar prejuízo a outra pessoa ou ao Estado, de obter benefício ilegítimo ou de preparar, facilitar, executar ou encobrir outro crime; pena de prisão até 3 anos ou multa (documento autêntico ou com igual força: prisão de 6 meses a 5 anos ou multa de 60 a 600 dias — n.º 3).
+  BRANQUEAMENTO (art. 368.º-A CP): conversão, transferência, ocultação ou dissimulação de vantagens provenientes dos factos ilícitos típicos do n.º 1, ou sua aquisição, detenção ou utilização por quem não é autor do facto e conhece essa origem; pena de prisão até 12 anos.
+— A insolvência dolosa exige: a) a prática de uma das condutas das als. a) a d) do n.º 1 do art. 227.º CP; b) a intenção de prejudicar os credores; c) a ocorrência da situação de insolvência e o seu reconhecimento judicial (condição objetiva de punibilidade).
 
 ---
 
@@ -41,7 +43,7 @@ Apresenta em <analise_do_caso>:
 - Qual o crime imputado e a pena abstrata?
 - Quais os factos concretos da acusação?
 - Há elementos do tipo que não estão preenchidos?
-- No caso de insolvência dolosa (art. 227.º CP): havia dolo específico de prejudicar credores? Ou a insolvência resultou de causas económicas legítimas?
+- No caso de insolvência dolosa (art. 227.º CP): que conduta típica das als. a) a d) do n.º 1 é imputada e havia intenção de prejudicar os credores? Ou a insolvência resultou de causas económicas legítimas?
 - No caso de falsificação (art. 256.º CP): o documento é efetivamente falso? Ou há discrepâncias contabilísticas que têm explicação legítima?
 - Há responsabilidade pessoal do arguido ou os atos foram praticados pela sociedade?
 - O relatório do administrador de insolvência é preciso e completo?
@@ -49,13 +51,13 @@ Apresenta em <analise_do_caso>:
 
 ### ETAPA 2 — ANÁLISE JURÍDICA
 Apresenta em <fundamentos_juridicos>:
-- Art. 227.º CP — insolvência dolosa (elementos: dolo específico, agravamento da insolvência, prejuízo de credores)
+- Art. 227.º CP — insolvência dolosa (elementos: conduta típica das als. a) a d) do n.º 1, intenção de prejudicar os credores e insolvência reconhecida judicialmente; n.º 3: responde também quem exerça de facto a gestão)
 - Art. 228.º CP — insolvência negligente (culpa grave; distinção de má gestão legítima)
-- Art. 256.º CP — falsificação de documentos (elementos: falsidade, intenção de causar prejuízo)
-- Art. 256.º CP — falsificação de documentos autênticos (pena agravada)
+- Art. 256.º CP — falsificação de documentos (elementos: conduta do n.º 1 e intenção de causar prejuízo a outra pessoa ou ao Estado, de obter benefício ilegítimo ou de preparar, facilitar, executar ou encobrir outro crime)
+- Art. 256.º CP — falsificação de documento autêntico ou com igual força (n.º 3: prisão de 6 meses a 5 anos ou multa de 60 a 600 dias)
 - Art. 368.º-A CP — branqueamento de capitais (se aplicável)
-- CIRE — art. 186.º: insolvência culposa (procedimento civil vs. criminal: são independentes)
-- Art. 71.º CP [■ VERIFICAR: o art. 71.º CP trata da medida da pena; a responsabilidade de quem age por uma sociedade está no art. 12.º CP] — responsabilidade pessoal dos administradores (critérios)
+- CIRE — art. 186.º: insolvência culposa; a qualificação da insolvência como culposa ou fortuita não vincula a decisão penal (art. 185.º CIRE)
+- Art. 71.º CP [■ VERIFICAR: o art. 71.º CP trata da medida da pena; a responsabilidade de quem age por uma sociedade está no art. 12.º CP] — determinação da medida da pena (circunstâncias que depõem a favor do arguido, n.º 2); a atuação em nome de outrem está no art. 12.º CP e a do gestor de facto no art. 227.º, n.º 3, CP
 - Jurisprudência do STJ ou Tribunais da Relação sobre insolvência dolosa [■ VERIFICAR disponibilidade]
 
 ### ETAPA 3 — CONSTRUÇÃO ARGUMENTATIVA
@@ -157,6 +159,7 @@ Apresenta em <checklist_validacao>:
 | Citação | Estado | Nota |
 |---|---|---|
 | art. 227.º CP | corrigida — Insolvência dolosa | o número citado no catálogo não correspondia à epígrafe |
+| art. 227.º CP | conferida (epígrafe) — Insolvência dolosa |  |
 | art. 227.º CP | corrigida — Insolvência dolosa | o número citado no catálogo não correspondia à epígrafe |
 | art. 227.º CP | corrigida — Insolvência dolosa | o número citado no catálogo não correspondia à epígrafe |
 | art. 228.º CP | corrigida — Insolvência negligente | o número citado no catálogo não correspondia à epígrafe |
@@ -169,4 +172,7 @@ Apresenta em <checklist_validacao>:
 | Art. 256.º CP | corrigida — Falsificação ou contrafação de documento | o número citado no catálogo não correspondia à epígrafe |
 | Art. 368.º-A CP | conferida (epígrafe) — Branqueamento |  |
 | art. 186.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 185.º CIRE | conferida (epígrafe) — Tipos de insolvência |  |
 | Art. 71.º CP | por conferir [■ VERIFICAR] | o art. 71.º CP trata da medida da pena; a responsabilidade de quem age por uma sociedade está no art. 12.º CP |
+| art. 12.º CP | conferida (epígrafe) — Atuação em nome de outrem |  |
+| art. 227.º, n.º 3, CP | conferida (epígrafe) — Insolvência dolosa |  |

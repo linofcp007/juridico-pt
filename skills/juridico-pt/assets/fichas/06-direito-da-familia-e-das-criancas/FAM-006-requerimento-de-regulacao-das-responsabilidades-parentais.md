@@ -6,7 +6,8 @@ titulo_en: "Application for the Regulation of Parental Responsibilities"
 descricao: "Gera o requerimento inicial de processo de regulação das responsabilidades parentais (para progenitores que nunca casaram ou que não definiram a regulação no divórcio), com proposta detalhada de residência, convivência e alimentos, nos termos do RGPTC e do Código Civil português."
 descricao_en: "Generates the initial application in proceedings to regulate parental responsibilities (for parents who never married or did not settle the arrangements on divorce), with a detailed proposal on residence, contact and maintenance, under the RGPTC and the Portuguese Civil Code."
 ambito: nacional
-estado_citacoes: "conferidas 0 · corrigidas 0 · por conferir 7"
+estado_citacoes: "conferidas 0 · corrigidas 0 · por conferir 10"
+revisao_tecnica: "2026-10-27 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
@@ -14,7 +15,8 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 
 > **Âmbito:** nacional · **Área:** Direito da Família e das Crianças · **Código:** FAM-006
 > **EN:** Application for the Regulation of Parental Responsibilities. Generates the initial application in proceedings to regulate parental responsibilities (for parents who never married or did not settle the arrangements on divorce), with a detailed proposal on residence, contact and maintenance, under the RGPTC and the Portuguese Civil Code.
-> **Citações:** conferidas 0 · corrigidas 0 · por conferir 7. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 0 · corrigidas 0 · por conferir 10. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-27 — corrigida (11 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
 Gera o requerimento inicial de processo de regulação das responsabilidades parentais (para progenitores que nunca casaram ou que não definiram a regulação no divórcio), com proposta detalhada de residência, convivência e alimentos, nos termos do RGPTC e do Código Civil português.
 
@@ -23,7 +25,7 @@ Gera o requerimento inicial de processo de regulação das responsabilidades par
 Ficha de trabalho para preparar este documento. As regras da casa prevalecem sobre a ficha: registo de advogado, nunca afirmar inscrição na Ordem dos Advogados, citar só normas conferidas ou com `[■ VERIFICAR]`, e seguir o fluxo de `assets/redacao/redator.md`.
 
 ## Função
-Redigir requerimento de regulação das responsabilidades parentais, nos termos dos arts. 34.º e ss. do Regime Geral do Processo Tutelar Cível (Lei n.º 141/2015, de 8 de Setembro) e arts. 1.874.º e 1.906.º e ss. do Código Civil português.
+Redigir requerimento de regulação das responsabilidades parentais, nos termos dos arts. 34.º e ss. do Regime Geral do Processo Tutelar Cível (Lei n.º 141/2015, de 8 de setembro) e arts. 1.874.º e 1.906.º e ss. do Código Civil português.
 
 ## Regras obrigatórias
 — NUNCA inventes acórdãos, processos ou jurisprudência.
@@ -51,10 +53,10 @@ Apresenta dentro de um bloco <analise_do_caso>:
 Apresenta dentro de um bloco <fundamentos_juridicos>:
 - Arts. 1.874.º, 1.878.º CC (conteúdo das responsabilidades parentais)
 - Art. 1.906.º CC (exercício das responsabilidades parentais — regra do exercício conjunto)
-- Arts. 34.º a 38.º RGPTC (processo de regulação)
+- Arts. 34.º a 40.º RGPTC (processo de regulação: homologação do acordo, conferência, falta de acordo, termos posteriores e sentença)
 - Art. 4.º RGPTC (princípio do superior interesse da criança)
-- Art. 5.º RGPTC (direito de audição da criança — a partir dos 12 anos; antes se maturidade)
-- Arts. 2.003.º a 2.009.º CC + Portaria n.º 278/2013 (alimentos)
+- Arts. 4.º, n.º 1, al. c), e n.º 2, e 5.º RGPTC (audição da criança — sem limite de idade fixo: é ouvida a criança com capacidade de compreensão dos assuntos em discussão, aferida casuisticamente pelo juiz em função da idade e da maturidade)
+- Arts. 1.905.º e 2.003.º a 2.009.º CC (alimentos devidos ao filho, proporcionais aos meios de quem os presta e às necessidades de quem os recebe — art. 2.004.º CC)
 - Convenção sobre os Direitos da Criança, art. 3.º (interesse superior) e art. 12.º (audição)
 - [■ VERIFICAR: acórdão dos Tribunais da Relação sobre critérios de fixação de residência habitual]
 
@@ -64,13 +66,13 @@ Apresenta dentro de um bloco <estrategia>:
 - Demonstração de que a proposta serve o superior interesse do menor
 - Fatores favoráveis: estabilidade habitacional, proximidade escolar, rede de apoio familiar, horário laboral compatível
 - Fatores desfavoráveis do outro progenitor (se existirem e forem relevantes): comportamento, instabilidade, ausências
-- Prova a produzir (testemunhas, documentos, relatório social da DGRSP se disponível)
+- Prova a produzir (testemunhas, documentos, informação ou relatório da equipa multidisciplinar de assessoria técnica ao tribunal — arts. 20.º e 21.º RGPTC)
 - Pedido subsidiário de convivência alargada se a residência for concedida ao outro progenitor
 
 ### ETAPA 4 — EXPOSIÇÃO ESTRUTURADA (O Requerimento)
 Redige o requerimento com esta estrutura:
 
-1. Endereçamento — Tribunal de Família e Menores competente
+1. Endereçamento — Juízo de Família e Menores do tribunal judicial da comarca da residência da criança no momento da instauração (art. 9.º RGPTC) [■ VERIFICAR: juízo competente na área]
 2. Identificação do requerente e do requerido (pais)
 3. Identificação do menor (nome, data de nascimento, morada atual)
 4. I — DOS FACTOS — Relação entre os progenitores; nascimento do menor; situação atual da coabitação/separação; comportamento de cada progenitor; situação do menor
@@ -80,7 +82,7 @@ Redige o requerimento com esta estrutura:
    b) Fixação da residência habitual com o requerente
    c) Regime de convivência com o requerido
    d) Fixação da pensão de alimentos a cargo do requerido
-   e) Custas (isenção se apoio judiciário)
+   e) Custas (dispensa de taxa de justiça e demais encargos com o processo, se beneficiar de apoio judiciário)
 7. IV — DOS REQUERIMENTOS — Notificação do requerido; intervenção do MP; audição do menor; lista de testemunhas; documentos juntos
 8. Valor da causa
 9. Assinatura do mandatário
@@ -92,8 +94,8 @@ Apresenta dentro de um bloco <checklist_validacao>:
 - [ ] Superior interesse da criança articulado com factos concretos?
 - [ ] Residência habitual proposta fundamentada?
 - [ ] Regime de convivência detalhado (fins de semana, férias, feriados)?
-- [ ] Alimentos calculados com referência à Portaria n.º 278/2013?
-- [ ] Audição do menor requerida (se +12 anos ou maturidade suficiente)?
+- [ ] Alimentos fundamentados nos meios do progenitor obrigado e nas necessidades da criança (art. 2.004.º CC)?
+- [ ] Audição da criança requerida, se tiver capacidade de compreensão dos assuntos em discussão (art. 4.º, n.º 1, al. c), RGPTC)?
 - [ ] Intervenção do MP solicitada?
 - [ ] Testemunhas identificadas e factos que provam indicados?
 - [ ] Pontos que exigem atenção especial: [lista]
@@ -120,7 +122,7 @@ Apresenta dentro de um bloco <checklist_validacao>:
 - Morada atual: [com quem reside?]
 - Escola/creche atual: [nome e localidade]
 - Tem necessidades especiais? [sim/não — descreve]
-- Idade: tem mais de 12 anos? [sim/não]
+- Capacidade de compreensão dos assuntos em discussão (idade e maturidade — releva para a audição): [descreve]
 
 **PRETENSÕES DO REQUERENTE:**
 - Residência habitual: [com o requerente | proposta alternativa]
@@ -131,7 +133,7 @@ Apresenta dentro de um bloco <checklist_validacao>:
 **PROVA:**
 - Testemunhas: [nome, relação com a criança, factos que provam]
 - Documentos: [certidão de nascimento, outros]
-- Relatório social DGRSP disponível? [sim/não]
+- Informação ou relatório da assessoria técnica ao tribunal já existente (p. ex., de processo anterior)? [sim/não]
 - Outras observações: [qualquer elemento relevante]
 
 ## Citações desta ficha
@@ -140,8 +142,11 @@ Apresenta dentro de um bloco <checklist_validacao>:
 |---|---|---|
 | arts. 34.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 4.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 4.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | Arts. 34.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | Art. 4.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| Art. 5.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| Arts. 4.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 3.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 12.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| arts. 20.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 9.º | por conferir [■ VERIFICAR] | diploma não identificado |

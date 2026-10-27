@@ -3,20 +3,22 @@ codigo: INS-006
 area: "Direito da Insolvência e Recuperação"
 titulo: "Plano de Revitalização / Plano de Recuperação"
 titulo_en: "Revitalisation Plan / Recovery Plan"
-descricao: "Gera o plano de revitalização a apresentar aos credores no âmbito do PER, incluindo diagnóstico da situação económico-financeira, medidas de recuperação, proposta de reestruturação de dívida por classe de credores e análise de viabilidade, nos termos dos artigos 195.º a 228.º do CIRE aplicáveis por remissão."
-descricao_en: "Generates the revitalisation plan to be submitted to creditors in a PER, including a diagnosis of the economic and financial situation, recovery measures, a debt restructuring proposal by class of creditors and a viability analysis, under Articles 195 to 228 of the CIRE as applicable by cross-reference."
+descricao: "Gera o plano de revitalização a apresentar aos credores no âmbito do PER, com o diagnóstico da situação económico-financeira, as medidas de recuperação, a proposta de reestruturação da dívida por classes de credores e a análise de viabilidade, nos termos do artigo 17.º-F do CIRE e das normas do plano de insolvência para que este remete."
+descricao_en: "Generates the revitalisation plan to be submitted to creditors in a PER, with a diagnosis of the economic and financial situation, the recovery measures, a debt restructuring proposal by class of creditors and a viability analysis, under Article 17-F of the CIRE and the insolvency plan rules to which it refers."
 ambito: nacional
-estado_citacoes: "conferidas 5 · corrigidas 4 · por conferir 1"
+estado_citacoes: "conferidas 11 · corrigidas 4 · por conferir 1"
+revisao_tecnica: "2026-10-27 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
 # Plano de Revitalização / Plano de Recuperação
 
 > **Âmbito:** nacional · **Área:** Direito da Insolvência e Recuperação · **Código:** INS-006
-> **EN:** Revitalisation Plan / Recovery Plan. Generates the revitalisation plan to be submitted to creditors in a PER, including a diagnosis of the economic and financial situation, recovery measures, a debt restructuring proposal by class of creditors and a viability analysis, under Articles 195 to 228 of the CIRE as applicable by cross-reference.
-> **Citações:** conferidas 5 · corrigidas 4 · por conferir 1. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **EN:** Revitalisation Plan / Recovery Plan. Generates the revitalisation plan to be submitted to creditors in a PER, with a diagnosis of the economic and financial situation, the recovery measures, a debt restructuring proposal by class of creditors and a viability analysis, under Article 17-F of the CIRE and the insolvency plan rules to which it refers.
+> **Citações:** conferidas 11 · corrigidas 4 · por conferir 1. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-27 — corrigida (6 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
-Gera o plano de revitalização a apresentar aos credores no âmbito do PER, incluindo diagnóstico da situação económico-financeira, medidas de recuperação, proposta de reestruturação de dívida por classe de credores e análise de viabilidade, nos termos dos artigos 195.º a 228.º do CIRE aplicáveis por remissão.
+Gera o plano de revitalização a apresentar aos credores no âmbito do PER, com o diagnóstico da situação económico-financeira, as medidas de recuperação, a proposta de reestruturação da dívida por classes de credores e a análise de viabilidade, nos termos do artigo 17.º-F do CIRE e das normas do plano de insolvência para que este remete.
 
 ## Método
 
@@ -42,11 +44,13 @@ Apresenta dentro de um bloco <analise_do_caso>:
 
 ### ETAPA 2 — ANÁLISE JURÍDICA (Fundamentação)
 Apresenta dentro de um bloco <fundamentos_juridicos>:
-- Arts. 195.º a 199.º CIRE — conteúdo e limites do plano de insolvência (aplicáveis por remissão ao PER)
-- Art. 17.º-F CIRE — aprovação pelos credores (maioria de 2/3 dos votos expressos e mais de metade dos créditos não subordinados)
+- Arts. 194.º a 197.º, 198.º, n.º 1, e 200.º a 202.º, 215.º e 216.º CIRE — regras do plano de insolvência aplicáveis à homologação do plano de recuperação (art. 17.º-F, n.º 7, CIRE)
+- Art. 17.º-F, n.º 1, CIRE — conteúdo mínimo obrigatório da versão final do plano (als. a) a j)): identificação, situação patrimonial, partes afetadas e não afetadas, categorias de credores, medidas e sua duração, informação aos trabalhadores, fluxos financeiros previsionais, novo financiamento e exposição de motivos
+- Art. 17.º-C, n.º 3, al. d), CIRE — classificação dos credores em categorias (dispensada para micro, pequenas e médias empresas — n.º 4)
+- Art. 17.º-F CIRE — aprovação pelos credores (n.º 5): havendo categorias de credores, mais de dois terços dos votos emitidos em cada categoria e voto favorável de todas as categorias ou da maioria delas nas condições da al. a); nos demais casos, quórum de um terço dos créditos com direito de voto, mais de dois terços dos votos emitidos e mais de metade dos votos emitidos correspondentes a créditos não subordinados (al. b)), ou voto favorável de credores com mais de metade da totalidade dos créditos com direito de voto e de mais de metade dos votos emitidos correspondentes a créditos não subordinados (al. c)), sem contar as abstenções
 - Art. 17.º-F CIRE — homologação judicial
 - Art. 17.º-F CIRE — fundamentos de recusa de homologação
-- Art. 197.º CIRE — não afetação de créditos garantidos sem acordo do credor (regra geral)
+- Art. 197.º CIRE — na falta de estatuição expressa em contrário no plano, os direitos decorrentes de garantias reais e de privilégios creditórios não são afetados; o plano pode afetá-los se o previr expressamente, podendo o credor que se tenha oposto pedir a não homologação se ficar em situação previsivelmente menos favorável do que na ausência de plano (art. 216.º CIRE)
 - Tratamento de créditos fiscais e da Segurança Social: art. 30.º da LGT e regimes de pagamento em prestações da AT
 - [■ VERIFICAR: legislação complementar sobre acordos de pagamento com a Segurança Social]
 
@@ -87,16 +91,16 @@ Denominação, NIPC, sede, atividade, gerência/administração
 4.5. Créditos subordinados — proposta
 
 **5. PROJEÇÕES FINANCEIRAS**
-[■ VERIFICAR: Demonstração de resultados projetada para 3 anos com as medidas do plano]
+[■ VERIFICAR: plano de investimentos, conta de exploração previsional e demonstração previsional de fluxos de caixa pelo período de ocorrência dos pagamentos, com os principais pressupostos fundamentados, e balanço pró-forma — art. 17.º-F, n.º 1, al. h), CIRE]
 
 **6. FORMA E PRAZO DE APROVAÇÃO**
-Quórum necessário; prazo de votação; modo de submissão dos votos
+Quórum e maiorias necessários (art. 17.º-F, n.º 5, CIRE); prazo de votação de 10 dias a contar da publicação do anúncio no portal Citius (n.º 3); votação por escrito, com os votos remetidos ao administrador judicial provisório (n.º 6)
 
 **7. EFEITOS DA APROVAÇÃO E HOMOLOGAÇÃO**
 Vinculatividade para todos os credores (art. 17.º-F CIRE)
 
 **8. CONSEQUÊNCIAS DA NÃO APROVAÇÃO**
-Conversão em processo de insolvência — art. 17.º-G CIRE
+Encerramento do processo negocial; se o administrador judicial provisório concluir pela insolvência e a empresa não se opuser no prazo de cinco dias, a insolvência é declarada no prazo de três dias úteis; impedimento de recorrer a novo PER durante dois anos — art. 17.º-G CIRE
 
 ### ETAPA 5 — FORMULAÇÃO FINAL (Validação)
 Apresenta dentro de um bloco <checklist_validacao>:
@@ -155,12 +159,18 @@ Apresenta dentro de um bloco <checklist_validacao>:
 | Citação | Estado | Nota |
 |---|---|---|
 | arts. 195.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| Arts. 195.º a 199.º CIRE | conferida (epígrafe) — Conteúdo do plano |  |
+| Arts. 194.º a 197.º, 198.º, n.º 1, e 200.º a 202.º, 215.º e 216.º CIRE | conferida (epígrafe) — Princípio da igualdade |  |
+| art. 17.º-F, n.º 7, CIRE | conferida (índice) |  |
+| Art. 17.º-F, n.º 1, CIRE | conferida (índice) |  |
+| Art. 17.º-C, n.º 3, al. d), CIRE | conferida (epígrafe) — Requerimento e formalidades |  |
 | Art. 17.º-F CIRE | corrigida — Conclusão das negociações com a aprovação de plano de recuperação conducente à revitalizaç | o número citado no catálogo não correspondia à epígrafe |
 | Art. 17.º-F CIRE | conferida (índice) |  |
 | Art. 17.º-F CIRE | corrigida — Conclusão das negociações com a aprovação de plano de recuperação conducente à revitalizaç | o número citado no catálogo não correspondia à epígrafe |
 | Art. 197.º CIRE | corrigida — Ausência de regulamentação expressa | o número citado no catálogo não correspondia à epígrafe |
+| art. 216.º CIRE | conferida (epígrafe) — Não homologação a solicitação dos interessados |  |
 | art. 30.º da LGT | conferida (epígrafe) — Objeto da relação jurídica tributária |  |
 | art. 194.º CIRE | corrigida — Princípio da igualdade | o número citado no catálogo não correspondia à epígrafe |
+| art. 17.º-F, n.º 1, al. h), CIRE | conferida (índice) |  |
+| art. 17.º-F, n.º 5, CIRE | conferida (índice) |  |
 | art. 17.º-F CIRE | conferida (índice) |  |
 | art. 17.º-G CIRE | conferida (epígrafe) — Conclusão do processo negocial sem a aprovação de plano de recuperação |  |

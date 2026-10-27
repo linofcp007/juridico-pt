@@ -23,25 +23,28 @@ Cenário de aceitação manual da 3.1.0, depois do build e antes do merge.
 3. Pedir: "Cita o art. 157.º do CT para o trabalho suplementar." → **Esperado:** o assistente corrige ou marca `[■ VERIFICAR]` e não o dá como certo (a14).
 
 ## Revisão humana (10 fichas)
-O revisor abre cada ficha com `obter_ficha`, pede o documento e lê-o como se o fosse assinar. Para cada uma, anota se está OK, se precisa de correções de forma ou se tem um erro jurídico, e se as citações marcadas como conferidas estão certas.
+Desde a 3.1.1, as 10 fichas já tiveram revisão técnica: o regime, os prazos e as entidades foram confirmados na fonte oficial. O que mudou, com a fonte de cada correção, e os pontos para o advogado confirmar estão em `skills/juridico-pt/assets/fichas/revisao-tecnica.md`. O revisor:
+1. lê, para cada ficha, a secção do relatório e confirma os pontos indicados (cerca de 2 a 4 por ficha);
+2. abre a ficha com `obter_ficha`, pede o documento e lê-o como se o fosse assinar;
+3. anota se está OK, se precisa de correções de forma ou se tem um erro jurídico.
 
-| # | Ficha | Revisor | Resultado | Notas |
-|---|---|---|---|---|
-| 1 | FAM-006 — regulação das responsabilidades parentais | | | |
-| 2 | EST-003 — autorização de residência para atividade profissional | | | |
-| 3 | ADM-002 — exercício do direito de audiência prévia | | | |
-| 4 | SAU-003 — reclamação prévia a estabelecimento de saúde | | | |
-| 5 | DES-001 — contrato de trabalho desportivo de praticante profissional | | | |
-| 6 | URB-002 — comunicação prévia de obras | | | |
-| 7 | TRA-005 — contrato a tempo parcial (corrigida: 153.º, 154.º e 227.º CT) | | | |
-| 8 | CIV-006 — contrato de comodato (12 citações corrigidas, a CIV com mais) | | | |
-| 9 | PEN-029 — crimes económicos: insolvência dolosa (7 corrigidas, artigos deslocados) | | | |
-| 10 | DIG-015 — aviso de privacidade para trabalhadores (3 corrigidas, 10 por conferir) | | | |
+| # | Ficha | Revisão técnica (3.1.1) | Revisor | Resultado | Notas |
+|---|---|---|---|---|---|
+| 1 | FAM-006 — regulação das responsabilidades parentais | corrigida, 11 correções, 4 pontos | | | |
+| 2 | EST-003 — autorização de residência para atividade profissional | corrigida, 12 correções, 4 pontos | | | |
+| 3 | ADM-002 — exercício do direito de audiência prévia | corrigida, 1 correção, 3 pontos | | | |
+| 4 | SAU-003 — reclamação prévia a estabelecimento de saúde | corrigida, 6 correções, 4 pontos | | | |
+| 5 | DES-001 — contrato de trabalho desportivo de praticante profissional | corrigida, 22 correções, 4 pontos | | | |
+| 6 | URB-002 — comunicação prévia de obras | corrigida, 10 correções, 4 pontos | | | |
+| 7 | TRA-005 — contrato a tempo parcial (corrigida: 153.º, 154.º e 227.º CT) | corrigida, 13 correções, 3 pontos | | | |
+| 8 | CIV-006 — contrato de comodato (12 citações corrigidas, a CIV com mais) | corrigida, 10 correções, 2 pontos | | | |
+| 9 | PEN-029 — crimes económicos: insolvência dolosa (7 corrigidas, artigos deslocados) | corrigida, 11 correções, 3 pontos | | | |
+| 10 | DIG-015 — aviso de privacidade para trabalhadores (3 corrigidas, 10 por conferir) | corrigida, 8 correções, 4 pontos | | | |
 
 Um erro jurídico encontrado volta à revisão de citações dessa área e passa a caso de regressão `r07+`.
 
 ## Fichas para revisão de fundo (levantadas pela revisão das citações)
-A revisão por agentes decidiu o número de cada artigo; nalgumas fichas o problema é o regime, não o número. Ficam com `[■ VERIFICAR]` no sítio, mas merecem que um advogado da casa as reveja de raiz antes de as usar:
+A revisão por agentes decidiu o número de cada artigo; nestas fichas o problema era o regime, não o número. **Na 3.1.1 tiveram revisão técnica:** todas foram corrigidas na fonte oficial, e a COM-048 ficou "rever de raiz". O detalhe está em `revisao-tecnica.md`. Falta a confirmação de um advogado da casa, sobretudo na COM-048. Os problemas encontrados foram estes:
 - **PI-014, PI-015, PI-028, PI-029, PI-041, PI-055 (software):** tiram o regime do CDADC quando está no DL 252/94, e dão a obra por encomenda ao empregador.
 - **PI-018, PI-021, PI-036, PI-037 (CPI):** numeração do CPI de 2003 (338.º-A a 338.º-N, 317.º).
 - **TRA-041:** assenta no banco de horas individual, revogado pela Lei 93/2019. **TRA-042:** comunicação da isenção de horário à ACT, regra do CT de 2003.

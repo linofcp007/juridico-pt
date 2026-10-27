@@ -4,6 +4,32 @@ Todas as alterações relevantes ao **juridico-pt** (até à 1.2.1, **advogado-p
 [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.0/) e o projeto adere ao
 [Versionamento Semântico](https://semver.org/lang/pt-BR/). A versão refere-se ao plugin como um todo.
 
+## [3.1.1] - 2026-10
+
+**Revisão técnica de 42 fichas: o regime, e não só o número do artigo, confirmado na fonte oficial.**
+
+### Fixed
+
+- 42 fichas revistas: as 10 da amostra de revisão humana e as 32 que a revisão das citações apontou para revisão de fundo. Foram feitas 411 correções, cada uma com a fonte (PGDL, Portal das Finanças, Diário da República, Serviço de Publicações da UE). Resultado: 41 fichas corrigidas e uma a rever de raiz (COM-048). Entre as correções:
+  - **exoneração do passivo restante:** período de cessão de 3 anos desde a Lei n.º 9/2022, e não 5;
+  - **PER e PEAP:** a numeração, as maiorias e os prazos posteriores a 2017;
+  - **trabalho:** o banco de horas individual, revogado pela Lei n.º 93/2019; a isenção de horário já não se comunica à ACT;
+  - **sucessões:** fora o usufruto vidual e as cláusulas do direito brasileiro; entra a renúncia recíproca entre cônjuges da Lei n.º 48/2018;
+  - **fiscal:** o RNH só no regime transitório da Lei n.º 82/2023, e o IFICI;
+  - **software:** rege-se pelo DL 252/94, e o programa encomendado é do comitente; o CPI segue a numeração de 2018, sem os arts. 338.º-A a 338.º-N;
+  - **urbanismo:** o RJUE em vigor (DL n.º 10/2024 e DL n.º 108/2026), sem a autorização de utilização nem a oposição em 20 dias à comunicação prévia; as coimas do art. 98.º sem classificação em leves e graves;
+  - **contrato de trabalho desportivo:** o regime da Lei n.º 54/2017, com 5 épocas no máximo e indemnização na resolução com justa causa pelo praticante;
+  - **COM-048:** reescrita sobre o consentimento da sociedade, porque não há preferência legal dos sócios na cessão de quotas;
+  - **comodato:** sem a restituição antecipada do direito brasileiro.
+
+### Added
+
+- `assets/fichas/correcoes-conteudo.json`: as correções de conteúdo, aplicadas pelo importador antes de conferir as citações, a cada reimportação. Um trecho que deixe de existir no catálogo faz falhar a importação.
+- `assets/fichas/revisao-tecnica.md`: o relatório por ficha, para o advogado confirmar, com o que mudou, a fonte de cada correção e os pontos a confirmar.
+- As fichas revistas dizem no cabeçalho, e no de `obter_ficha`, que tiveram revisão técnica e que falta a confirmação de um advogado.
+- As citações que a revisão escreveu e confirmou na fonte contam como conferidas (prova: o URL). Das 7410 citações com o diploma reconhecido, 6619 (89,3 %) estão conferidas ou corrigidas.
+- Caso de avaliação de regressão r07: exoneração do passivo restante a 3 anos (3/3). Os 10 casos da 3.1 continuam a passar com as fichas corrigidas (11/11 com o r07, 4,98 USD).
+
 ## [3.1.0] - 2026-10
 
 **Fichas do catálogo: 1256 guias de documentos e pareceres em 22 áreas, em PT-PT e EN, com cada citação conferida, corrigida ou marcada.**

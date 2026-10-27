@@ -241,6 +241,14 @@ export function conferirCitacoes(codigo, texto, ctx) {
         citacoes.push({ ...reg, estado: "conferida (índice)", diploma_indice: ix.diploma, dispositivo: ix.dispositivo, prova: ix.ficheiro });
         continue;
       }
+      // Citação escrita pela revisão técnica, confirmada na fonte que a correção indica (e sem [■ VERIFICAR] ao lado):
+      // conta como conferida se o artigo existir nas epígrafes oficiais.
+      const fonteRev = ctx.introduzidas?.get(c.texto);
+      const epRev = fonteRev && c.d?.epigrafes?.[c.artigo];
+      if (epRev && !/^\s*(\([^()\n]{0,160}\))?\s*\[■ VERIFICAR/.test(linha.slice(c.fim))) {
+        citacoes.push({ ...reg, estado: "conferida (epígrafe)", epigrafe: normalizarGrafia(epRev), prova: `revisão técnica: ${fonteRev}` });
+        continue;
+      }
       const eps = c.d?.epigrafes;
       if (eps) {
         const ep = eps[c.artigo];
@@ -316,6 +324,7 @@ export function importar({ origem, skill = SKILL_PADRAO }) {
   const sobre = lerJson(join(dirFichas, "sobreposicoes.json"), {});
   const traducoes = lerJson(join(dirFichas, "traducoes-en.json"), {});
   const revisao = lerJson(join(dirFichas, "revisao-citacoes.json"), {});
+  const correcoes = lerJson(join(dirFichas, "correcoes-conteudo.json"), {});
   const normas = lerJson(join(skill, "references", "normas-conferidas.json"), []);
   const epigrafes = {};
   const dirEp = join(skill, "references", "epigrafes");
@@ -325,6 +334,7 @@ export function importar({ origem, skill = SKILL_PADRAO }) {
   const codigos = new Set(catalogo.map((c) => c.codigo));
   for (const k of Object.keys(sobre)) if (!codigos.has(k)) throw new Error(`sobreposicoes.json: ${k} não está no catálogo`);
   for (const k of Object.keys(revisao)) if (!codigos.has(k)) throw new Error(`revisao-citacoes.json: ${k} não está no catálogo`);
+  for (const k of Object.keys(correcoes)) if (!codigos.has(k)) throw new Error(`correcoes-conteudo.json: ${k} não está no catálogo`);
 
   const ficheiros = new Map();
   const entradas = [];
@@ -338,10 +348,14 @@ export function importar({ origem, skill = SKILL_PADRAO }) {
     const area = normalizarGrafia(item.area);
     if (!areas.has(pasta)) areas.set(pasta, { sigla, nome: area, pasta, total: 0, importadas: 0 });
     areas.get(pasta).total++;
-    const titulo = normalizarGrafia(item.titulo);
-    const descricao = marcadores(remeterGrandezas(normalizarGrafia(item.descricao)));
+    // A revisão técnica pode corrigir também o título e a descrição (PT e EN) quando descrevem um regime antigo.
+    const rev = correcoes[item.codigo];
+    const titulo = rev?.titulo ?? normalizarGrafia(item.titulo);
+    const descricao = rev?.descricao ?? marcadores(remeterGrandezas(normalizarGrafia(item.descricao)));
     const s = sobre[item.codigo];
-    const en = traducoes[item.codigo];
+    const en = rev && (rev.titulo_en || rev.descricao_en)
+      ? { ...traducoes[item.codigo], ...(rev.titulo_en ? { titulo_en: rev.titulo_en } : {}), ...(rev.descricao_en ? { descricao_en: rev.descricao_en } : {}) }
+      : traducoes[item.codigo];
     const base = { codigo: item.codigo, area, pasta, titulo, titulo_en: en?.titulo_en || "", descricao, descricao_en: marcadores(en?.descricao_en || "") };
     if (s?.relacao === "mesmo-documento") {
       entradas.push({ ...base, ficheiro: null, relacao: s.relacao, remete_para: s.alvo, estado: { conferidas: 0, corrigidas: 0, por_conferir: 0 } });
@@ -352,7 +366,9 @@ export function importar({ origem, skill = SKILL_PADRAO }) {
     const { campos, corpo } = frontmatterKit(bruto);
     importado_em ??= campos.extraido_em || null;
     let texto = aplicarPersona(remeterGrandezas(normalizarGrafia(corpoUtil(corpo))));
-    const conf = conferirCitacoes(item.codigo, texto, ctx);
+    // Revisão técnica: as correções de conteúdo entram antes das citações, que as conferem como às outras.
+    if (rev) texto = aplicarCorrecoes(item.codigo, texto, rev);
+    const conf = conferirCitacoes(item.codigo, texto, rev ? { ...ctx, introduzidas: citacoesIntroduzidas(rev, registoDaFicha(ctx.reg, texto)) } : ctx);
     texto = conf.texto;
     const estado = contar(conf.citacoes);
     todasCitacoes.push(...conf.citacoes);
@@ -369,6 +385,7 @@ export function importar({ origem, skill = SKILL_PADRAO }) {
       `ambito: ${ambito}`,
       `estado_citacoes: ${yaml(estadoTexto(estado))}`,
       ...(s ? [`remete_para: ${yaml(s.alvo)}`] : []),
+      ...(rev ? [`revisao_tecnica: ${yaml(`${rev.revisto_em} (${rev.veredicto})`)}`] : []),
       `origem: ${yaml(`Skills Jurídicas PRO (catálogo da empresa), importado a ${campos.extraido_em || "?"}`)}`,
       "---",
     ];
@@ -379,6 +396,7 @@ export function importar({ origem, skill = SKILL_PADRAO }) {
       `> **EN:** ${en.titulo_en}. ${base.descricao_en}`,
       ...(s ? [`> **Ver também:** \`${s.alvo}\` — ${s.nota || "conteúdo do plugin sobre o mesmo tema"}. Usa-o primeiro.`] : []),
       `> **Citações:** ${estadoTexto(estado)}. As por conferir entram no documento com \`[■ VERIFICAR]\`; valores do ano em \`references/valores-2026.md\`.`,
+      ...(rev ? [`> **Revisão técnica:** ${rev.revisto_em} — ${veredictoTexto(rev)}. O que mudou e as fontes em \`assets/fichas/revisao-tecnica.md\`; falta a confirmação de um advogado.`] : []),
       "",
       descricao,
       "",
@@ -389,7 +407,10 @@ export function importar({ origem, skill = SKILL_PADRAO }) {
       : [];
     ficheiros.set(join(pasta, nome), [...fm, "", ...cab, texto.trimEnd(), ...tabela, ""].join("\n"));
     areas.get(pasta).importadas++;
-    entradas.push({ ...base, ficheiro: `${pasta}/${nome}`, ...(s ? { relacao: s.relacao, remete_para: s.alvo } : {}), estado });
+    entradas.push({
+      ...base, ficheiro: `${pasta}/${nome}`, ...(s ? { relacao: s.relacao, remete_para: s.alvo } : {}), estado,
+      ...(rev ? { revisao_tecnica: { data: rev.revisto_em, veredicto: rev.veredicto } } : {}),
+    });
   }
 
   // _INDICE.md por área
@@ -430,7 +451,7 @@ export function importar({ origem, skill = SKILL_PADRAO }) {
     "",
     `- Total: ${todasCitacoes.length} (conferidas ${tot.conferidas}, corrigidas ${tot.corrigidas}, por conferir ${tot.por_conferir}).`,
     `- Com o diploma reconhecido: ${comSigla.length}; conferidas ou corrigidas: ${comSiglaOk} (${pct(comSiglaOk, comSigla.length)}).`,
-    "- Conferida (índice): está no índice de normas conferidas. Conferida (epígrafe): o artigo existe e o assunto coincide com a epígrafe oficial (`references/epigrafes/`). Corrigida: o número foi trocado pelo da epígrafe certa, por decisão da revisão (`revisao-citacoes.json`). Por conferir: entra no documento com `[■ VERIFICAR]`.",
+    "- Conferida (índice): está no índice de normas conferidas. Conferida (epígrafe): o artigo existe e o assunto coincide com a epígrafe oficial (`references/epigrafes/`), ou, nas fichas da revisão técnica, foi confirmado na fonte indicada na prova (`revisao-tecnica.md`). Corrigida: o número foi trocado pelo da epígrafe certa, por decisão da revisão (`revisao-citacoes.json`). Por conferir: entra no documento com `[■ VERIFICAR]`.",
     "",
     "## Áreas",
     "",
@@ -445,7 +466,96 @@ export function importar({ origem, skill = SKILL_PADRAO }) {
     "Manutenção: `node mcp-server/scripts/importar-fichas.mjs --origem <pasta do kit>` (e `--check`). Ver o CLAUDE.md.",
     "",
   ].join("\n"));
+  if (Object.keys(correcoes).length) ficheiros.set("revisao-tecnica.md", relatorioRevisao(correcoes, entradas));
   return { ficheiros, entradas, citacoes: todasCitacoes, dirFichas };
+}
+
+// ---------------- revisão técnica (correcoes-conteudo.json) ----------------
+
+/** Aplica as substituições de uma ficha; cada trecho tem de existir exatamente uma vez (senão o kit mudou). */
+function aplicarCorrecoes(codigo, texto, rev) {
+  if (!["ok", "corrigida", "rever de raiz"].includes(rev.veredicto)) throw new Error(`correcoes-conteudo.json: ${codigo} com veredicto «${rev.veredicto}»`);
+  if (!/^\d{4}-\d\d-\d\d$/.test(rev.revisto_em || "")) throw new Error(`correcoes-conteudo.json: ${codigo} sem revisto_em (AAAA-MM-DD)`);
+  let t = texto;
+  for (const s of rev.substituicoes || []) {
+    const n = t.split(s.de).length - 1;
+    if (n !== 1) throw new Error(`correcoes-conteudo.json: ${codigo} — o trecho «${s.de.slice(0, 80)}» aparece ${n} vezes (tem de aparecer uma)`);
+    t = t.replace(s.de, () => s.para);
+  }
+  return t;
+}
+
+/** Citações que uma correção com fonte acrescentou (estão no texto novo e não no antigo): texto → URL da fonte. */
+function citacoesIntroduzidas(rev, registo) {
+  const out = new Map();
+  for (const s of rev.substituicoes || []) {
+    if (!s.fonte) continue;
+    const antes = new Set(s.de.split("\n").flatMap((l) => citacoesDaLinha(l, registo).map((c) => c.texto)));
+    for (const l of s.para.split("\n")) for (const c of citacoesDaLinha(l, registo)) if (!antes.has(c.texto) && !out.has(c.texto)) out.set(c.texto, s.fonte);
+  }
+  return out;
+}
+
+function veredictoTexto(rev) {
+  const n = (rev.substituicoes || []).length;
+  if (rev.veredicto === "ok") return "sem correções de fundo";
+  if (rev.veredicto === "rever de raiz") return `a rever de raiz: ${n} correções, mas há pontos que a revisão técnica não corrigiu com segurança`;
+  return `corrigida (${n} ${n === 1 ? "correção" : "correções"} com fonte)`;
+}
+
+/** assets/fichas/revisao-tecnica.md: o que mudou em cada ficha revista, com as fontes, para o advogado confirmar. */
+function relatorioRevisao(correcoes, entradas) {
+  const curto = (s, n = 400) => {
+    const t = s.replace(/\s+/g, " ").trim();
+    return t.length > n ? `${t.slice(0, n - 1)}…` : t;
+  };
+  const cods = Object.keys(correcoes).sort((a, b) => a.localeCompare(b, "pt", { numeric: true }));
+  const conta = (v) => cods.filter((c) => correcoes[c].veredicto === v).length;
+  const linhas = [
+    "# Revisão técnica das fichas",
+    "",
+    "> **Âmbito:** nacional e UE · gerado por `mcp-server/scripts/importar-fichas.mjs` a partir de `correcoes-conteudo.json`; não editar à mão.",
+    "",
+    `Revisão técnica de ${cods.length} fichas: ${conta("corrigida")} corrigidas, ${conta("rever de raiz")} a rever de raiz e ${conta("ok")} sem correções de fundo.`,
+    "",
+    "- **O que se reviu:** o regime, os prazos, as entidades e o que cada norma diz. Os números dos artigos já tinham sido revistos antes (`revisao-citacoes.json`).",
+    "- **Fontes:** cada correção foi confirmada na fonte oficial indicada (PGDL, Diário da República, Portal das Finanças, EUR-Lex).",
+    "- **Falta o advogado:** confirmar os pontos de cada ficha e assinar a revisão na tabela da amostra (`.specs/juridico-pt-v3-1-fichas/quickstart.md`). Sem essa confirmação, a revisão é técnica e não substitui a de quem assina.",
+    "",
+    "| Ficha | Veredicto | Correções | Pontos para o advogado |",
+    "|---|---|---|---|",
+    ...cods.map((c) => {
+      const r = correcoes[c];
+      return `| [${c}](#${c.toLowerCase()}) | ${r.veredicto} | ${(r.substituicoes || []).length} | ${(r.pontos_para_o_advogado || []).length} |`;
+    }),
+    "",
+  ];
+  for (const c of cods) {
+    const r = correcoes[c];
+    const e = entradas.find((x) => x.codigo === c);
+    linhas.push(
+      `## ${c}`,
+      "",
+      `**${e?.titulo ?? c}** · ficheiro \`${e?.ficheiro ?? "?"}\` · revista a ${r.revisto_em} · **${r.veredicto}**`,
+      "",
+      r.resumo,
+      "",
+    );
+    if ((r.substituicoes || []).length) {
+      linhas.push("### Correções", "");
+      (r.substituicoes || []).forEach((s, i) => {
+        linhas.push(
+          `${i + 1}. **${s.motivo}**${s.fonte ? ` — [fonte](${s.fonte})` : ""}`,
+          `   - Antes: «${curto(s.de)}»`,
+          `   - Depois: «${curto(s.para)}»`,
+        );
+      });
+      linhas.push("");
+    }
+    if ((r.pontos_para_o_advogado || []).length) linhas.push("### Para o advogado confirmar", "", ...r.pontos_para_o_advogado.map((p) => `- [ ] ${p}`), "");
+    if ((r.fontes || []).length) linhas.push(`Fontes consultadas: ${r.fontes.map((u, i) => `[${i + 1}](${u})`).join(" · ")}`, "");
+  }
+  return linhas.join("\n");
 }
 
 /** Escreve (ou compara) os ficheiros gerados. Na escrita, apaga fichas antigas que já não são geradas. */

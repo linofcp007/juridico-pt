@@ -3,52 +3,54 @@ codigo: PI-041
 area: "Propriedade Intelectual e Industrial"
 titulo: "Direitos de Autor de Software — Parecer e Contrato de Encomenda"
 titulo_en: "Software Copyright — Legal Opinion and Commissioning Agreement"
-descricao: "Elabora parecer sobre a titularidade de direitos de autor de software e redige contrato de encomenda de desenvolvimento de software, ao abrigo dos artigos 1.º, 2.º, n.º 1, al. l), 36.º a 39.º, 102.º e 103.º do CDADC (DL n.º 63/85, com as alterações introduzidas pelo DL n.º 332/97), da Diretiva 2009/24/CE e dos artigos 101.º e 102.º do Código do Trabalho."
-descricao_en: "Prepares a legal opinion on the ownership of copyright in software and drafts a software development commissioning agreement, under Articles 1, 2(1)(l), 36 to 39, 102 and 103 of the CDADC (Decree-Law No. 63/85, as amended by Decree-Law No. 332/97), Directive 2009/24/EC and Articles 101 and 102 of the Labour Code."
+descricao: "Elabora parecer sobre a titularidade de direitos de autor de software e redige contrato de encomenda de desenvolvimento de software, ao abrigo do Decreto-Lei n.º 252/94, de 20 de outubro (proteção dos programas de computador, titularidade do programa criado por trabalhador ou por encomenda e negócios sobre programas), do CDADC (DL n.º 63/85), para as obras que não sejam o programa, e da Diretiva 2009/24/CE."
+descricao_en: "Prepares a legal opinion on the ownership of copyright in software and drafts a software development commissioning agreement, under Decree-Law No. 252/94 of 20 October (protection of computer programs, ownership of programs created by employees or on commission, and transactions concerning programs), the CDADC (Decree-Law No. 63/85) for works other than the program, and Directive 2009/24/EC."
 ambito: nacional
-estado_citacoes: "conferidas 4 · corrigidas 0 · por conferir 6"
+estado_citacoes: "conferidas 10 · corrigidas 0 · por conferir 16"
+revisao_tecnica: "2026-10-27 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
 # Direitos de Autor de Software — Parecer e Contrato de Encomenda
 
 > **Âmbito:** nacional · **Área:** Propriedade Intelectual e Industrial · **Código:** PI-041
-> **EN:** Software Copyright — Legal Opinion and Commissioning Agreement. Prepares a legal opinion on the ownership of copyright in software and drafts a software development commissioning agreement, under Articles 1, 2(1)(l), 36 to 39, 102 and 103 of the CDADC (Decree-Law No. 63/85, as amended by Decree-Law No. 332/97), Directive 2009/24/EC and Articles 101 and 102 of the Labour Code.
-> **Citações:** conferidas 4 · corrigidas 0 · por conferir 6. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **EN:** Software Copyright — Legal Opinion and Commissioning Agreement. Prepares a legal opinion on the ownership of copyright in software and drafts a software development commissioning agreement, under Decree-Law No. 252/94 of 20 October (protection of computer programs, ownership of programs created by employees or on commission, and transactions concerning programs), the CDADC (Decree-Law No. 63/85) for works other than the program, and Directive 2009/24/EC.
+> **Citações:** conferidas 10 · corrigidas 0 · por conferir 16. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-27 — corrigida (13 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
-Elabora parecer sobre a titularidade de direitos de autor de software e redige contrato de encomenda de desenvolvimento de software, ao abrigo dos artigos 1.º, 2.º, n.º 1, al. l), 36.º a 39.º, 102.º e 103.º do CDADC (DL n.º 63/85, com as alterações introduzidas pelo DL n.º 332/97), da Diretiva 2009/24/CE e dos artigos 101.º e 102.º do Código do Trabalho.
+Elabora parecer sobre a titularidade de direitos de autor de software e redige contrato de encomenda de desenvolvimento de software, ao abrigo do Decreto-Lei n.º 252/94, de 20 de outubro (proteção dos programas de computador, titularidade do programa criado por trabalhador ou por encomenda e negócios sobre programas), do CDADC (DL n.º 63/85), para as obras que não sejam o programa, e da Diretiva 2009/24/CE.
 
 ## Método
 
 Ficha de trabalho para preparar este documento. As regras da casa prevalecem sobre a ficha: registo de advogado, nunca afirmar inscrição na Ordem dos Advogados, citar só normas conferidas ou com `[■ VERIFICAR]`, e seguir o fluxo de `assets/redacao/redator.md`.
 
 ## Regras obrigatórias
-— Cita os artigos reais do CDADC e da Diretiva 2009/24/CE.
+— Cita os artigos reais do Decreto-Lei n.º 252/94, de 20 de outubro (regime dos programas de computador), do CDADC e da Diretiva 2009/24/CE.
 — Alerta para a distinção entre obra protegida (expressão original) e ideia/algoritmo (não protegido).
-— Nunca confundas direitos de autor com registo de software — em Portugal o software é protegido automaticamente pelo CDADC, sem registo constitutivo.
+— Nunca confundas direitos de autor com registo de software — em Portugal o programa de computador é protegido automaticamente, nos termos do Decreto-Lei n.º 252/94, sem registo constitutivo (é apenas admitida a inscrição no registo da propriedade literária — art. 12.º do mesmo diploma).
 
 ## Framework S.O.F.T.W.A.R.E. — 5 etapas
 
 ### ETAPA 1 — QUALIFICAÇÃO DA OBRA
 Apresenta em <qualificacao_obra_software>:
-- Software como obra protegida: art. 2.º, n.º 1, al. l), CDADC [■ VERIFICAR: o art. 2.º CDADC não inclui o software; a proteção dos programas de computador está no DL 252/94] + Diretiva 2009/24/CE
+- Software como obra protegida: art. 1.º, n.os 2 e 3, do Decreto-Lei n.º 252/94 (proteção análoga à das obras literárias, extensiva ao material de conceção preliminar) + Diretiva 2009/24/CE
 - Requisito de originalidade: expressão original do autor (não o algoritmo em si)
-- O que não é protegido: ideias, princípios, métodos, algoritmos matemáticos (art. 7.º CDADC [■ VERIFICAR: o art. 7.º CDADC exclui textos oficiais e notícias; as ideias e princípios estão no art. 1.º, n.º 2 CDADC])
+- O que não é protegido: as ideias e os princípios que estão na base de qualquer elemento do programa ou da sua interoperabilidade, como a lógica, os algoritmos ou a linguagem de programação (art. 2.º, n.º 2, do Decreto-Lei n.º 252/94; cf. art. 1.º, n.º 2, CDADC)
 - Documentação técnica e interfaces: proteção autónoma se originais
 - Software gerado por IA: [abordar infra — obra de autor ou não?]
 
 ### ETAPA 2 — TITULARIDADE
 Apresenta em <titularidade_software>:
-- Software criado por trabalhador no âmbito do contrato: titularidade do empregador (art. 36.º, n.º 2, CDADC [■ VERIFICAR: o art. 36.º CDADC trata da duração; a titularidade do software de trabalhador está no DL 252/94 (art. 3.º)] + art. 102.º CDADC [■ VERIFICAR: o art. 102.º CDADC trata da falência do editor; o software de trabalhador está no DL 252/94 (art. 3.º)])
-  — Requisito: missão criativa confiada ao trabalhador ou criado no exercício das suas funções
-  — Direitos morais: persistem no trabalhador (art. 9.º CDADC), salvo o direito de divulgação
-- Software criado por prestador de serviços: regra geral — titularidade do criador intelectual (art. 11.º CDADC), salvo cessão expressa por escrito
-- Software criado em colaboração: co-autoria (art. 16.º CDADC) — regime especial
-- Obra por encomenda: sem cláusula de cessão, o cliente tem apenas licença não exclusiva
+- Software criado por trabalhador: os direitos pertencem ao empregador, como destinatário do programa, salvo estipulação em contrário ou se outra coisa resultar das finalidades do contrato (art. 3.º, n.º 3, do Decreto-Lei n.º 252/94)
+  — Requisito: programa criado no exercício das suas funções ou segundo instruções emanadas do empregador
+  — Direitos morais: persistem no trabalhador (art. 9.º CDADC); o criador intelectual individualizável tem sempre o direito de ser reconhecido como tal e de ter o seu nome mencionado no programa (art. 9.º, n.º 2, do Decreto-Lei n.º 252/94); remuneração especial nos casos do art. 3.º, n.º 4, do mesmo diploma
+- Software criado por prestador de serviços: se criado por encomenda, os direitos pertencem ao cliente, como destinatário do programa, salvo estipulação em contrário ou se outra coisa resultar das finalidades do contrato (art. 3.º, n.º 3, do Decreto-Lei n.º 252/94); fora da encomenda, vale a regra geral da titularidade do criador intelectual (art. 11.º CDADC, aplicável por força do art. 3.º, n.º 1, do Decreto-Lei n.º 252/94)
+- Software criado em colaboração: coautoria (art. 16.º CDADC); o programa realizado no âmbito de uma empresa presume-se obra coletiva (art. 3.º, n.º 2, do Decreto-Lei n.º 252/94)
+- Obra por encomenda: no programa, sem estipulação em contrário, os direitos pertencem ao cliente (art. 3.º, n.º 3, do Decreto-Lei n.º 252/94); nas restantes obras (documentação, design, conteúdos), na falta de convenção presume-se a titularidade do criador (art. 14.º, n.º 2, CDADC) e o cliente só as pode utilizar para os fins previstos na convenção (art. 15.º, n.º 1, CDADC)
 
 ### ETAPA 3 — RISCOS E PONTOS CRÍTICOS
 Define em <riscos_software>:
-- Ausência de contrato ou cessão escrita: cliente não é titular, apenas licenciado
+- Ausência de contrato escrito: no programa encomendado, o cliente é, em princípio, titular (art. 3.º, n.º 3, do Decreto-Lei n.º 252/94), mas fica sem prova da encomenda, das finalidades do contrato e da inexistência de estipulação em contrário; nas restantes obras, presume-se a titularidade do criador (art. 14.º, n.º 2, CDADC)
 - Uso de código open source: licenças GPL/AGPL podem "contaminar" o código proprietário
 - Dependência do desenvolvedor original para manutenção
 - Due diligence em M&A: verificar existência de contratos de cessão assinados
@@ -79,13 +81,13 @@ DESENVOLVEDOR (encomendado): [identificação]
 5.ª — Cessão Plena de Direitos de Autor ao Cliente
 ["O Desenvolvedor cede irrevogavelmente ao Cliente, com todos os poderes de disposição,
 na modalidade de cessão plena e exclusiva, todos os direitos patrimoniais de autor sobre
-o Software, nos termos dos artigos 41.º e ss. e 103.º do CDADC (DL n.º 63/85) [■ VERIFICAR: a cessão total segue o art. 44.º CDADC (o 41.º trata da autorização); o software rege-se pelo DL 252/94],
+o Software, nos termos dos artigos 3.º, n.º 3, e 11.º do Decreto-Lei n.º 252/94, de 20 de outubro,
 incluindo os direitos de reprodução, distribuição, comunicação pública, modificação e
-criação de obras derivadas, para todo o mundo e por todo o prazo de proteção legal."]
+criação de obras derivadas, para todo o mundo e por todo o prazo de proteção legal."
+[■ VERIFICAR: no programa encomendado, os direitos já pertencem ao Cliente salvo estipulação em contrário (art. 3.º, n.º 3, do Decreto-Lei n.º 252/94), valendo a cláusula como confirmação; quanto à documentação e a outras obras que não sejam o programa, a transmissão total e definitiva exige escritura pública, sob pena de nulidade (art. 44.º CDADC)]]
 
 6.ª — Direitos Morais
-[Direitos morais persistem no Desenvolvedor (art. 9.º CDADC); o Cliente tem o direito
-de modificar o Software sem identificação do Desenvolvedor, mediante acordo]
+[Direitos morais persistem no Desenvolvedor (art. 9.º CDADC); o Cliente, como titular, pode transformar e modificar o Software (art. 5.º, al. b), do Decreto-Lei n.º 252/94), mas o criador intelectual individualizável mantém sempre o direito a ser reconhecido como tal e a ter o seu nome mencionado no programa (art. 9.º, n.º 2, do mesmo diploma)]
 
 7.ª — Código Open Source e Bibliotecas de Terceiros
 [Obrigação de declarar todo o código open source utilizado; compatibilidade de licenças]
@@ -104,7 +106,7 @@ de modificar o Software sem identificação do Desenvolvedor, mediante acordo]
 
 ### ETAPA 5 — CHECKLIST
 Apresenta em <checklist_software>:
-- [ ] Cessão de direitos por escrito (obrigatória para ser eficaz — art. 41.º CDADC [■ VERIFICAR: o art. 41.º CDADC trata da autorização; a forma da transmissão está nos arts. 43.º e 44.º CDADC])
+- [ ] Contrato escrito com a atribuição dos direitos ao Cliente (no programa, os negócios seguem as regras gerais dos contratos — art. 11.º do Decreto-Lei n.º 252/94; para a documentação e outras obras do CDADC, a transmissão parcial exige documento escrito com reconhecimento notarial das assinaturas e a total escritura pública — arts. 43.º, n.º 2, e 44.º CDADC) [■ VERIFICAR: forma exigível no caso concreto]
 - [ ] Código-fonte incluído na entrega
 - [ ] Open source declarado e licenças verificadas
 - [ ] Direitos morais do desenvolvedor abordados
@@ -137,13 +139,29 @@ Apresenta em <checklist_software>:
 
 | Citação | Estado | Nota |
 |---|---|---|
-| art. 2.º, n.º 1, al. l), CDADC | por conferir [■ VERIFICAR] | o art. 2.º CDADC não inclui o software; a proteção dos programas de computador está no DL 252/94 |
-| art. 7.º CDADC | por conferir [■ VERIFICAR] | o art. 7.º CDADC exclui textos oficiais e notícias; as ideias e princípios estão no art. 1.º, n.º 2 CDADC |
-| art. 36.º, n.º 2, CDADC | por conferir [■ VERIFICAR] | o art. 36.º CDADC trata da duração; a titularidade do software de trabalhador está no DL 252/94 (art. 3.º) |
-| art. 102.º CDADC | por conferir [■ VERIFICAR] | o art. 102.º CDADC trata da falência do editor; o software de trabalhador está no DL 252/94 (art. 3.º) |
+| art. 12.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 1.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 2.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 1.º, n.º 2, CDADC | conferida (epígrafe) — Definição |  |
+| art. 3.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 3.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 3.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 3.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 3.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 3.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 3.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 3.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 9.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 9.º CDADC | conferida (epígrafe) — Conteúdo do direito de autor |  |
+| art. 9.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 9.º CDADC | conferida (epígrafe) — Conteúdo do direito de autor |  |
 | art. 11.º CDADC | conferida (epígrafe) — Titularidade |  |
+| art. 11.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 16.º CDADC | conferida (epígrafe) — Noção de obra feita em colaboração e de obra coletiva |  |
-| artigos 41.º e ss. e 103.º do CDADC | por conferir [■ VERIFICAR] | a cessão total segue o art. 44.º CDADC (o 41.º trata da autorização); o software rege-se pelo DL 252/94 |
-| art. 41.º CDADC | por conferir [■ VERIFICAR] | o art. 41.º CDADC trata da autorização; a forma da transmissão está nos arts. 43.º e 44.º CDADC |
+| art. 14.º, n.º 2, CDADC | conferida (epígrafe) — Determinação da titularidade em casos excepcionais |  |
+| art. 14.º, n.º 2, CDADC | conferida (epígrafe) — Determinação da titularidade em casos excepcionais |  |
+| art. 15.º, n.º 1, CDADC | conferida (epígrafe) — Limites à utilização |  |
+| artigos 3.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 44.º CDADC | conferida (epígrafe) — Transmissão total |  |
+| art. 5.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| arts. 43.º, n.º 2, e 44.º CDADC | conferida (epígrafe) — Transmissão ou oneração parciais |  |

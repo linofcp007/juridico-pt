@@ -6,7 +6,8 @@ titulo_en: "Software Licence Agreement"
 descricao: "Redige o contrato de licença de uso de software (End User License Agreement — EULA), definindo o âmbito da autorização de utilização, as restrições de uso, a gestão de licenças por utilizador/dispositivo, as condições de suporte e manutenção e os limites de responsabilidade do licenciante."
 descricao_en: "Drafts the software licence agreement (End User Licence Agreement — EULA), defining the scope of the authorisation to use, the restrictions on use, licence management per user/device, the support and maintenance conditions and the limits on the licensor's liability."
 ambito: nacional
-estado_citacoes: "conferidas 0 · corrigidas 0 · por conferir 10"
+estado_citacoes: "conferidas 1 · corrigidas 0 · por conferir 15"
+revisao_tecnica: "2026-10-27 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
@@ -14,7 +15,8 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 
 > **Âmbito:** nacional · **Área:** Propriedade Intelectual e Industrial · **Código:** PI-015
 > **EN:** Software Licence Agreement. Drafts the software licence agreement (End User Licence Agreement — EULA), defining the scope of the authorisation to use, the restrictions on use, licence management per user/device, the support and maintenance conditions and the limits on the licensor's liability.
-> **Citações:** conferidas 0 · corrigidas 0 · por conferir 10. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 1 · corrigidas 0 · por conferir 15. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-27 — corrigida (13 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
 Redige o contrato de licença de uso de software (End User License Agreement — EULA), definindo o âmbito da autorização de utilização, as restrições de uso, a gestão de licenças por utilizador/dispositivo, as condições de suporte e manutenção e os limites de responsabilidade do licenciante.
 
@@ -25,11 +27,11 @@ Ficha de trabalho para preparar este documento. As regras da casa prevalecem sob
 ## Regras obrigatórias
 - NUNCA inventes legislação ou disposições legais inexistentes
 - Se faltarem dados, assinala [■ VERIFICAR: o que é necessário]
-- O software é protegido por direitos de autor como obra literária (art. 1.º, n.º 2, al. l) CDADC [■ VERIFICAR: o art. 1.º CDADC não tem alíneas sobre software; a proteção dos programas de computador está no DL 252/94])
+- O programa de computador com caráter criativo tem proteção análoga à conferida às obras literárias (art. 1.º, n.º 2, do Decreto-Lei n.º 252/94, de 20 de outubro — regime próprio dos programas de computador, fora do CDADC)
 - A licença de software não transfere os direitos de autor — apenas autoriza o uso
 - Distingue: licença perpétua (pagamento único) / licença por subscrição (pagamento recorrente) / SaaS (serviço cloud)
-- Inclui sempre: restrições de engenharia inversa (salvo art. 8.º Diretiva 2009/24/CE), limitação de responsabilidade, resolução de incumprimento
-- Para contratos com consumidores: aplicar regras da Diretiva 2019/770/UE (transposição portuguesa) — garantia de conformidade, atualizações
+- Inclui sempre: restrições de engenharia inversa (com ressalva dos atos que a lei reserva ao utente legítimo — cópia de apoio, observação e estudo do funcionamento e descompilação para interoperabilidade —, sendo nula a cláusula em contrário: arts. 6.º e 7.º do Decreto-Lei n.º 252/94; art. 8.º, segundo parágrafo, da Diretiva 2009/24/CE), limitação de responsabilidade, resolução de incumprimento
+- Para contratos com consumidores: aplicar o Decreto-Lei n.º 84/2021, de 18 de outubro, que transpôs a Diretiva (UE) 2019/770 (fornecimento de conteúdos e serviços digitais) — conformidade, atualizações
 
 ## Framework P.A.C.E.F — Segue estas 5 etapas obrigatoriamente:
 
@@ -45,14 +47,15 @@ Apresenta dentro de um bloco <analise_do_caso>:
 
 ### ETAPA 2 — ANÁLISE JURÍDICA (Fundamentação)
 Apresenta dentro de um bloco <fundamentos_juridicos>:
-- Art. 1.º, n.º 2, al. l) e arts. 100.º a 115.º CDADC [■ VERIFICAR: os arts. 100.º a 115.º CDADC tratam da edição e da representação; a proteção do software está no DL 252/94]: proteção de programas de computador
-- Art. 104.º CDADC [■ VERIFICAR: o art. 104.º CDADC trata de obras futuras na edição; os direitos sobre software estão no DL 252/94]: direitos exclusivos do autor de software
-- Art. 107.º CDADC [■ VERIFICAR: o art. 107.º CDADC define representação cénica; os atos livres do utente de software estão no DL 252/94]: atos permitidos sem autorização (cópia de segurança, interoperabilidade)
-- Art. 108.º CDADC [■ VERIFICAR: o art. 108.º CDADC trata da representação cénica; a descompilação de software está no DL 252/94]: limitação da descompilação (engenharia inversa)
+- Decreto-Lei n.º 252/94, de 20 de outubro: proteção jurídica dos programas de computador (arts. 1.º e 2.º — objeto e âmbito da proteção)
+- Arts. 5.º e 8.º do Decreto-Lei n.º 252/94: direitos do titular (reprodução, transformação, colocação em circulação e locação)
+- Art. 6.º do Decreto-Lei n.º 252/94: direitos do utente legítimo sem autorização do titular (cópia de apoio; observar, estudar e ensaiar o funcionamento) — nula a estipulação em contrário
+- Art. 7.º do Decreto-Lei n.º 252/94: descompilação necessária à interoperabilidade — lícita nas condições legais; nula a estipulação em contrário
+- Art. 11.º do Decreto-Lei n.º 252/94: negócios sobre programas — regras gerais dos contratos e dos contratos típicos com que tenham maior analogia
 - Diretiva 2009/24/CE: proteção jurídica de programas de computador
-- Diretiva 2019/770/UE: contratos de fornecimento de conteúdos e serviços digitais (para consumidores)
+- Diretiva (UE) 2019/770, transposta pelo Decreto-Lei n.º 84/2021, de 18 de outubro: contratos de fornecimento de conteúdos e serviços digitais (para consumidores)
 - RGPD (Regulamento (UE) 2016/679): se o software trata dados pessoais, necessidade de DPA
-- [■ VERIFICAR: transposição da Diretiva 2019/770/UE para o direito português]
+- Decreto-Lei n.º 446/85, de 25 de outubro (cláusulas contratuais gerais): numa licença de adesão, são absolutamente proibidas as cláusulas que excluam ou limitem a responsabilidade nos casos do art. 18.º, als. a) a d) (designadamente, por não cumprimento, mora ou cumprimento defeituoso em caso de dolo ou de culpa grave)
 
 ### ETAPA 3 — CONSTRUÇÃO ARGUMENTATIVA
 Define em <estrategia>:
@@ -80,11 +83,11 @@ Entre:
 2.1. A licença é [exclusiva / não exclusiva], [intransmissível / transmissível com autorização escrita].
 2.2. O Licenciado está autorizado a:
 a) Instalar e usar o Software em [X] dispositivos / por [X] utilizadores simultâneos;
-b) Efetuar cópias de segurança (art. 107.º CDADC [■ VERIFICAR: o art. 107.º CDADC define representação cénica; a cópia de segurança de software está no DL 252/94]);
+b) Efetuar uma cópia de apoio (art. 6.º, n.º 1, al. a), do Decreto-Lei n.º 252/94);
 c) [Outros usos expressamente autorizados].
 2.3. É expressamente proibido ao Licenciado:
 a) Reproduzir, distribuir ou sublicenciar o Software sem autorização escrita;
-b) Proceder à descompilação, engenharia inversa ou desmontagem do Software, exceto nas situações permitidas pelo art. 108.º do CDADC [■ VERIFICAR: o art. 108.º CDADC trata da representação cénica; a descompilação de software está no DL 252/94] para efeitos de interoperabilidade;
+b) Proceder à descompilação, engenharia inversa ou desmontagem do Software, exceto nas situações permitidas pelo art. 7.º do Decreto-Lei n.º 252/94 para efeitos de interoperabilidade e sem prejuízo do direito de observar, estudar e ensaiar o funcionamento do Software (art. 6.º, n.º 1, al. b), do mesmo diploma);
 c) Remover ou ocultar qualquer aviso de direitos de autor, marca ou identificação do Licenciante;
 d) Usar o Software para fins ilegais ou em violação de direitos de terceiros.
 
@@ -103,14 +106,14 @@ d) Usar o Software para fins ilegais ou em violação de direitos de terceiros.
 5.2. O presente Contrato não transfere quaisquer direitos de autor sobre o Software — o Licenciado apenas obtém o direito de usar o Software nos termos aqui definidos.
 
 **CLÁUSULA 6.ª — DADOS PESSOAIS**
-[Se o Software trata dados pessoais de terceiros:]
+[Se o Licenciante tratar dados pessoais por conta do Licenciado — p. ex., SaaS, alojamento ou suporte com acesso aos dados:]
 6.1. O Licenciante atua como subcontratante do Licenciado para efeitos do RGPD no que respeita aos dados pessoais tratados através do Software.
 6.2. As condições de tratamento de dados estão definidas no Acordo de Tratamento de Dados (DPA) junto como Anexo II.
 
 **CLÁUSULA 7.ª — LIMITAÇÃO DE RESPONSABILIDADE**
-7.1. O Licenciante não é responsável por danos indiretos, lucros cessantes, perda de dados ou danos emergentes resultantes do uso ou da impossibilidade de uso do Software.
-7.2. A responsabilidade total do Licenciante, por qualquer causa, é limitada ao valor das licenças pagas pelo Licenciado nos [X] meses anteriores ao facto gerador de responsabilidade.
-[■ VERIFICAR: para contratos com consumidores, a limitação de responsabilidade é mais restrita ao abrigo da Diretiva 2019/770/UE]
+7.1. Salvo dolo ou culpa grave, o Licenciante não é responsável por danos indiretos, lucros cessantes ou perda de dados resultantes do uso ou da impossibilidade de uso do Software.
+7.2. Salvo dolo ou culpa grave, a responsabilidade total do Licenciante é limitada ao valor das licenças pagas pelo Licenciado nos [X] meses anteriores ao facto gerador de responsabilidade.
+[■ VERIFICAR: se as cláusulas forem contratuais gerais, são absolutamente proibidas as que excluam ou limitem a responsabilidade por danos à vida, à integridade física ou moral ou à saúde, por danos patrimoniais extracontratuais e, em caso de dolo ou culpa grave, por não cumprimento, mora ou cumprimento defeituoso (art. 18.º, als. a) a c), do Decreto-Lei n.º 446/85); para consumidores, confirmar ainda os limites do Decreto-Lei n.º 84/2021]
 
 **CLÁUSULA 8.ª — VIGÊNCIA E RESOLUÇÃO**
 8.1. [Subscrição]: O Contrato renova-se automaticamente por períodos iguais salvo denúncia.
@@ -118,7 +121,7 @@ d) Usar o Software para fins ilegais ou em violação de direitos de terceiros.
 8.3. Após resolução, o Licenciado cessa imediatamente o uso do Software e elimina todas as cópias.
 
 **CLÁUSULA 9.ª — LEI APLICÁVEL E FORO**
-Lei portuguesa. Foro: [comarca de [localidade] / arbitragem].
+Lei portuguesa. Foro: [Tribunal da Propriedade Intelectual / arbitragem] [■ VERIFICAR: os litígios sobre contratos que tenham por objeto a transmissão, o licenciamento ou a autorização de utilização de direitos de autor são da competência material do Tribunal da Propriedade Intelectual (art. 111.º, n.º 1, al. c), da Lei n.º 62/2013, de 26 de agosto), que não pode ser afastada por pacto de foro (art. 95.º, n.º 1, CPC); confirmar se o litígio concreto cabe nessa competência].
 
 [Localidade], [data]
 [Assinaturas]
@@ -128,14 +131,14 @@ Apresenta dentro de um bloco <checklist_validacao>:
 - [ ] Software identificado com nome e versão
 - [ ] Modelo de licença definido (perpétua / subscrição / SaaS)
 - [ ] Âmbito de uso claramente definido (utilizadores, dispositivos, instâncias)
-- [ ] Restrições de engenharia inversa incluídas (com exceção legal do art. 108.º CDADC [■ VERIFICAR: o art. 108.º CDADC trata da representação cénica; a descompilação de software está no DL 252/94])
+- [ ] Restrições de engenharia inversa incluídas (com as exceções imperativas dos arts. 6.º e 7.º do Decreto-Lei n.º 252/94)
 - [ ] Proibição de redistribuição/sublicenciamento
 - [ ] Nível de serviço (SLA) definido para SaaS
 - [ ] Suporte e atualizações: âmbito e duração clarificados
 - [ ] Tratamento de dados pessoais: DPA incluído se aplicável
 - [ ] Limitação de responsabilidade incluída
 - [ ] Regime de resolução claro
-- [ ] Conformidade com Diretiva 2019/770/UE verificada (para consumidores) [■ VERIFICAR]
+- [ ] Conformidade com o Decreto-Lei n.º 84/2021 verificada (para consumidores) [■ VERIFICAR]
 - [ ] Pontos que exigem atenção especial: [liste]
 
 ---
@@ -184,13 +187,19 @@ Contrato de licença de software completo, com definição clara do âmbito de u
 
 | Citação | Estado | Nota |
 |---|---|---|
-| art. 1.º, n.º 2, al. l) CDADC | por conferir [■ VERIFICAR] | o art. 1.º CDADC não tem alíneas sobre software; a proteção dos programas de computador está no DL 252/94 |
+| art. 1.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| arts. 6.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| arts. 6.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 8.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| Art. 1.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| arts. 100.º a 115.º CDADC | por conferir [■ VERIFICAR] | os arts. 100.º a 115.º CDADC tratam da edição e da representação; a proteção do software está no DL 252/94 |
-| Art. 104.º CDADC | por conferir [■ VERIFICAR] | o art. 104.º CDADC trata de obras futuras na edição; os direitos sobre software estão no DL 252/94 |
-| Art. 107.º CDADC | por conferir [■ VERIFICAR] | o art. 107.º CDADC define representação cénica; os atos livres do utente de software estão no DL 252/94 |
-| art. 107.º CDADC | por conferir [■ VERIFICAR] | o art. 107.º CDADC define representação cénica; a cópia de segurança de software está no DL 252/94 |
-| Art. 108.º CDADC | por conferir [■ VERIFICAR] | o art. 108.º CDADC trata da representação cénica; a descompilação de software está no DL 252/94 |
-| art. 108.º CDADC | por conferir [■ VERIFICAR] | o art. 108.º CDADC trata da representação cénica; a descompilação de software está no DL 252/94 |
-| art. 108.º do CDADC | por conferir [■ VERIFICAR] | o art. 108.º CDADC trata da representação cénica; a descompilação de software está no DL 252/94 |
+| arts. 1.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| Arts. 5.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| Art. 6.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| Art. 7.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| Art. 11.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 18.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 18.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 6.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 6.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 7.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 111.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 95.º, n.º 1, CPC | conferida (índice) |  |
