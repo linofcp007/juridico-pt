@@ -184,7 +184,7 @@
 **Checkpoint:** o plugin redige no registo de advogado em todas as superfícies, com os dois skills.
 
 ## Fase: Avaliações e release
-- [ ] 24. [US1] Corrida final das avaliações (68 casos, `--runs 3`, teto de 45 USD, com confirmação do utilizador antes de correr) e secção "## Resultados da 3.0.0" no `eval-plan.md`, com a tabela Golden / Adversarial / Regressão. Os casos que falharem por graders mal desenhados são corrigidos e repetidos; as falhas reais voltam à tarefa que as causou.
+- [x] 24. [US1] Corrida final das avaliações (68 casos, `--runs 3`, teto de 45 USD, com confirmação do utilizador antes de correr) e secção "## Resultados da 3.0.0" no `eval-plan.md`, com a tabela Golden / Adversarial / Regressão. Os casos que falharem por graders mal desenhados são corrigidos e repetidos; as falhas reais voltam à tarefa que as causou.
   - _Requirements: US-1.AC-2, US-1.AC-6, US-1.AC-7, US-2.AC-2, US-2.AC-4, US-2.AC-6, US-5.AC-1, US-5.AC-2, US-5.AC-3, US-5.AC-4, US-5.AC-5, EC-1, EC-2, EC-3, EC-6, EC-7, SC-004, SC-005_
   - _Makes green: T-403, T-404, T-405, T-407, T-408, T-413, T-415, T-417, T-430, T-431, T-432, T-433, T-434, T-453, T-454, T-455_
   - _Affects evals: golden, adversarial, regression_
@@ -193,7 +193,7 @@
   - _Requirements: NFR-4_
   - _Implements: CLAUDE.md_
   - _Verify: node -e "const t=require('fs').readFileSync('CLAUDE.md','utf8'); for (const s of ['assets/modelos','gerar-normas','redator-juridico','gerar_docx.py']) if(!t.includes(s)) { console.error('falta', s); process.exit(1) }"_
-- [ ] 26. [shared] Versão 3.0.0 nos 6 sítios; CHANGELOG `## [3.0.0]` com os 7 nomes substituídos, a migração e a pontuação das avaliações; bundles e `content/` regenerados; `.mcpb` e os dois `.skill` gerados; suites completas verdes.
+- [x] 26. [shared] Versão 3.0.0 nos 6 sítios; CHANGELOG `## [3.0.0]` com os 7 nomes substituídos, a migração e a pontuação das avaliações; bundles e `content/` regenerados; `.mcpb` e os dois `.skill` gerados; suites completas verdes.
   - _Requirements: NFR-2, NFR-3, NFR-4, SC-002_
   - _Makes green: T-450, T-443_
   - _Implements: .claude-plugin/plugin.json, .claude-plugin/marketplace.json, package.json, mcp-server/package.json, mcp-server/src/index.ts, CHANGELOG.md, mcp-server/dist/index.js, mcp-server/dist/cli-lib.js_

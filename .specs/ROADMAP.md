@@ -2,14 +2,14 @@
 
 <!-- AUTO-GERADO por dev-spec — não editar à mão. -->
 
-**Progresso: 99%** ▰▰▰▰▰▰▰▰▰▰ · 4/5 features completas · 162/164 tasks feitas
+**Progresso: 100%** ▰▰▰▰▰▰▰▰▰▰ · 5/5 features completas · 164/164 tasks feitas
 
-_Velocidade: 24.59 ponto(s)/dia útil — 162 tarefa(s), 418 ponto(s) concluídos desde 2026-10-03 (últimos 28 dias)_
+_Velocidade: 24.94 ponto(s)/dia útil — 164 tarefa(s), 424 ponto(s) concluídos desde 2026-10-03 (últimos 28 dias)_
 
 Legenda: ✅ feito · 🟡 em curso · ⛔ bloqueada · 📋 planeada · ⬜ por começar
 
 ## ▶ A seguir
-- **juridico-pt-v3-0-redator** (core +tdd +ai +privacy) — próxima #24 Corrida final das avaliações (68 casos, `-
+Todas as features completas 🎉
 
 ## Features
 
@@ -19,9 +19,7 @@ Legenda: ✅ feito · 🟡 em curso · ⛔ bloqueada · 📋 planeada · ⬜ por
 | ✅ | [advogado-pt-v1-2-1-correcoes](./advogado-pt-v1-2-1-correcoes/requirements.md) | core +tdd +sec | concluída | 100% | 41/41 | advogado-pt-v1-2-operacional ✓, advogado-pt-v1-1-empresas ✓ | — | — |
 | ✅ | [advogado-pt-v1-2-operacional](./advogado-pt-v1-2-operacional/requirements.md) | core +tdd | concluída | 100% | 30/30 | advogado-pt-v1-1-empresas ✓ | — | — |
 | ✅ | [juridico-pt-v2-0](./juridico-pt-v2-0/requirements.md) | core +tdd +ai +privacy | concluída | 100% | 38/38 | advogado-pt-v1-2-1-correcoes ✓ | — | — |
-| 🟡 | [juridico-pt-v3-0-redator](./juridico-pt-v3-0-redator/requirements.md) | core +tdd +ai +privacy | em execução | 95% | 25/27 | advogado-pt-v1-1-empresas ✓, advogado-pt-v1-2-1-correcoes ✓ | #24 Corrida final das avaliações (68 casos, `- | 2026-10-27 |
-
-Previsão = pontos por fazer ÷ velocidade, em dias úteis (±25%) · `_Size: XS|S|M|L|XL_` numa tarefa = 1/2/3/5/8 pontos; uma tarefa sem tamanho conta como a mediana da sua feature (senão M) · uma feature à espera de uma dependência começa depois da previsão dessa.
+| ✅ | [juridico-pt-v3-0-redator](./juridico-pt-v3-0-redator/requirements.md) | core +tdd +ai +privacy | concluída | 100% | 27/27 | advogado-pt-v1-1-empresas ✓, advogado-pt-v1-2-1-correcoes ✓ | — | — |
 
 ## Dependências
 
@@ -37,7 +35,7 @@ graph LR
 
 ## ⚠ Precisa de atenção
 
-_Nada a assinalar ✓_
+- **juridico-pt-v3-0-redator** — alterado desde a aprovação — rever de novo: eval-plan.md
 
 ## Backlog (planeadas, ainda sem spec)
 

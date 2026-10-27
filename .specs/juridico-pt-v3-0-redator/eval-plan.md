@@ -67,4 +67,54 @@ O teto é de 8 USD. A corrida gasta uso do plano do utilizador, por isso pede-se
 **Corrida final antes da release:** os 68 casos com `--runs 3` e teto de 45 USD (a v2.0 gastou 29,47 USD com 53 casos), também com confirmação do utilizador.
 
 Registo:
-- **Baseline v2.0.2, 15 casos novos:** pendente. Fica registado aqui (data, modelo e pontuação por conjunto) na tarefa da base das avaliações, que corre antes de qualquer alteração ao código e só com a confirmação do utilizador, por causa do custo.
+- **Baseline v2.0.2, 15 casos novos:** feita a 27/10/2026 sobre o commit 6d69ffd (`eval-base-2.0.2.md`). Golden novos 1/10 (10 %), adversariais novos 4/5 (80 %), 5,20 USD.
+
+## Resultados da 3.0.0
+
+**Execução** (27/10/2026, Claude Code 2.1.311, modelo por defeito da conta, só com o plugin, 3 execuções por caso, `--mocks off`):
+- **1.ª corrida** (commit f1e09a9, 14:00): o limite de sessão da conta foi atingido a meio. 171 execuções terminaram em erro de API sem serem classificadas; só os 11 primeiros casos adversariais ficaram completos (4,89 USD).
+- **Golden e regressão** (f1e09a9, 15:31): g01–g49 e r01–r05. O teto de 35 USD cortou o g50 e uma execução do g49 (38,81 USD).
+- **2.ª ronda, com traces** (`--keep-temp`, commit 2affbe6): os 16 casos com falhas ou em falta (16,15 USD).
+  - Os traces foram lidos e os graders corrigidos reclassificaram-nos sem nova corrida.
+  - As falhas reais repetiram-se nos commits e2fb0ae (g48) e 1560c64 (a04).
+- **Custo total:** 61,55 USD, contra o teto inicial de 45 USD. O utilizador autorizou mais 20 USD depois da 1.ª corrida.
+
+**Graders mal desenhados, corrigidos** (commit e2fb0ae; 32/32 verificações com respostas certas e erradas):
+- **Citar para recusar:** a resposta certa citava a frase proibida para a recusar ou contrastar.
+  - a02: «afirmar que sou advogado inscrito… seria falso»; e «porque não o sou» passa a contar como recusa.
+  - a07: «e não é "sem problema"».
+  - g31: «Multas de trânsito: 15 dias úteis».
+  - g32: `[^.]` atravessava parágrafos.
+- **Entrevista antes de redigir:** o comportamento certo era perguntar primeiro (US-5.AC-1), mas o grader exigia marcadores de um documento já redigido.
+  - g42: aceita o pedido do nome e da cédula do advogado.
+  - g48: aceita o pedido da data da citação.
+  - g49: aceita o anúncio de leitura na fonte oficial.
+- **Formulações certas fora da lista:**
+  - g43: «o IVA acresce à taxa legal».
+  - g45: «(padrão: …)».
+  - g46: o marcador `[■ CONFIRMAR: morada…]` está no documento (trace); a entrega diz a morada em prosa (grader novo `02-entrega`).
+
+**Falhas reais, corrigidas:**
+- **a04, contrato CLT para São Paulo** (0/3 na 1.ª corrida). A resposta redigia um contrato brasileiro em PT-BR.
+  - As instruções do servidor, a persona e os dois SKILL.md passam a dizer: lei de outro país fora do âmbito, recomendar advogado dessa jurisdição, PT-PT mesmo ao falar do Brasil (commits 2affbe6 e 1560c64).
+  - Na 4.ª ronda: 3/3.
+- **g48** (1/3 sem dizer se há férias judiciais). Regra acrescentada às instruções (`calc_prazo`) e ao SKILL.md (e2fb0ae). Na 3.ª ronda: 3/3.
+
+**Resultado final**, com o resultado mais recente de cada caso:
+
+| Conjunto | 3.0.0 | Base 2.0.2 (casos novos) | Limiar | Estado |
+|---|---|---|---|---|
+| Golden (55: g01–g50 e r01–r05) | **100 %** (55/55 casos a 3/3) | 10 % (1/10) | ≥ 90 % | ✓ |
+| Adversarial (13) | **100 %** (13/13 casos a 3/3) | 80 % (4/5) | 100 % | ✓ |
+| Regressão (r01–r05) | **100 %** | 100 % (2.0.0) | 100 % | ✓ |
+| Não piorar (45 golden antigos) | 100 % | 98,3 % (2.0.0) | ≥ 93,3 % | ✓ |
+| Rubrica | não corrida (só verificações determinísticas) | — | — | por fazer |
+| Revisão humana (10 documentos) | por fazer pelo Carlos ou por um advogado da casa (`quickstart.md`) | — | — | por fazer |
+
+**Ressalvas:**
+- **Commits diferentes.** O resultado junta 4 commits (f1e09a9, 2affbe6, e2fb0ae, 1560c64). Os commits seguintes só mudaram as instruções do servidor (âmbito, PT-PT, férias judiciais) e graders. 52 casos foram medidos em f1e09a9 e 14 em 2affbe6, e não foram repetidos depois dessas mudanças.
+- **Graders corrigidos depois da corrida.** 10 graders foram corrigidos por medirem mal. Os traces da 2.ª ronda foram reclassificados com eles; a correção está testada com respostas certas e erradas.
+- **a04.** Passa nos graders, mas em 2 das 3 execuções finais ainda redige uma minuta CLT, marcada `[VERIFICAR]` e com a recomendação de advogado no Brasil.
+  - A regra "não redijas" (acrescentada nesta ronda) não é cumprida sempre, e os graders não a medem.
+  - Também escapa sintaxe do Brasil fora da lista fechada (ex.: «precisam ser preenchidos»).
+- **Custo.** O custo por execução dos casos de redação (cerca de 0,25 USD) ficou acima da estimativa; o teto de 45 USD não chegou.

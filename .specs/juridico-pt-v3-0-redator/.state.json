@@ -756,6 +756,30 @@
       "task": "[US7] Referência `privacidade-plugin.md`: advogado responsável, `.docx` em `.juridico-pt/exportados/`, como apagar cada um, categorias especiais e AIPD.",
       "verify": "cd mcp-server && npm run build && node --test --test-name-pattern \"T-447\" test/v30.test.mjs"
     },
+    "24": {
+      "command": "cd mcp-server && npm run build && node --test --test-name-pattern \"T-403|T-404|T-405|T-407|T-408|T-413|T-415|T-417|T-430|T-431|T-432|T-433|T-434|T-453|T-454|T-455\" test/v30.test.mjs",
+      "exitCode": 0,
+      "summary": "16/16 pass. Corrida final registada em eval-plan.md: golden 55/55, adversarial 13/13, regressão 5/5 (3 execuções por caso, 61,55 USD, 4 commits; 10 graders corrigidos e testados 32/32; 2 falhas reais corrigidas: a04 e g48)",
+      "at": "2026-10-27T16:26:42.683Z",
+      "commit": "1560c64",
+      "dirty": true,
+      "observed": false,
+      "cmdRule": 1,
+      "history": [
+        {
+          "command": "cd mcp-server && npm run build && node --test --test-name-pattern \"T-403|T-404|T-405|T-407|T-408|T-413|T-415|T-417|T-430|T-431|T-432|T-433|T-434|T-453|T-454|T-455\" test/v30.test.mjs",
+          "exitCode": 0,
+          "summary": "16/16 pass. Corrida final registada em eval-plan.md: golden 55/55, adversarial 13/13, regressão 5/5 (3 execuções por caso, 61,55 USD, 4 commits; 10 graders corrigidos e testados 32/32; 2 falhas reais corrigidas: a04 e g48)",
+          "at": "2026-10-27T16:26:42.683Z",
+          "commit": "1560c64",
+          "dirty": true,
+          "observed": false,
+          "cmdRule": 1
+        }
+      ],
+      "task": "[US1] Corrida final das avaliações (68 casos, `--runs 3`, teto de 45 USD, com confirmação do utilizador antes de correr) e secção \"## Resultados da 3.0.0\" no `eval-plan.md`, com a tabela Golden / Adversarial / Regressão. Os casos que falharem por graders mal desenhados são corrigidos e repetidos; as falhas reais voltam à tarefa que as causou.",
+      "verify": "cd mcp-server && npm run build && node --test --test-name-pattern \"T-403|T-404|T-405|T-407|T-408|T-413|T-415|T-417|T-430|T-431|T-432|T-433|T-434|T-453|T-454|T-455\" test/v30.test.mjs"
+    },
     "25": {
       "command": "node -e \"const t=require('fs').readFileSync('CLAUDE.md','utf8'); for (const s of ['assets/modelos','gerar-normas','redator-juridico','gerar_docx.py']) if(!t.includes(s)) { console.error('falta', s); process.exit(1) }\"",
       "exitCode": 0,
@@ -775,6 +799,26 @@
       ],
       "task": "[shared] `CLAUDE.md` (manutenção): como adicionar um modelo e um guia; os dois `.skill` no build; os dois lados do gerador `.docx` e do verificador; `gerar-normas --check`.",
       "verify": "node -e \"const t=require('fs').readFileSync('CLAUDE.md','utf8'); for (const s of ['assets/modelos','gerar-normas','redator-juridico','gerar_docx.py']) if(!t.includes(s)) { console.error('falta', s); process.exit(1) }\""
+    },
+    "26": {
+      "command": "cd mcp-server && npm test && cd .. && python -I skills/juridico-pt/scripts/test_scripts.py",
+      "exitCode": 0,
+      "summary": "npm test 247 pass / 0 fail + smoke OK; Python 55 OK. Versão 3.0.0 nos 6 sítios + package-lock; CHANGELOG [3.0.0] com os 7 nomes, migração e pontuação; bundles regenerados; juridico-pt.skill, redator-juridico.skill e juridico-pt-3.0.0.mcpb gerados",
+      "at": "2026-10-27T16:27:11.784Z",
+      "observed": false,
+      "cmdRule": 1,
+      "history": [
+        {
+          "command": "cd mcp-server && npm test && cd .. && python -I skills/juridico-pt/scripts/test_scripts.py",
+          "exitCode": 0,
+          "summary": "npm test 247 pass / 0 fail + smoke OK; Python 55 OK. Versão 3.0.0 nos 6 sítios + package-lock; CHANGELOG [3.0.0] com os 7 nomes, migração e pontuação; bundles regenerados; juridico-pt.skill, redator-juridico.skill e juridico-pt-3.0.0.mcpb gerados",
+          "at": "2026-10-27T16:27:11.784Z",
+          "observed": false,
+          "cmdRule": 1
+        }
+      ],
+      "task": "[shared] Versão 3.0.0 nos 6 sítios; CHANGELOG `## [3.0.0]` com os 7 nomes substituídos, a migração e a pontuação das avaliações; bundles e `content/` regenerados; `.mcpb` e os dois `.skill` gerados; suites completas verdes.",
+      "verify": "cd mcp-server && npm test && cd .. && python -I skills/juridico-pt/scripts/test_scripts.py"
     },
     "27": {
       "command": "node -e \"const t=require('fs').readFileSync('.specs/juridico-pt-v3-0-redator/quickstart.md','utf8'); if(/\\[faz isto\\]|\\[depois isto\\]/.test(t)) process.exit(1)\"",
@@ -797,7 +841,7 @@
       "verify": "node -e \"const t=require('fs').readFileSync('.specs/juridico-pt-v3-0-redator/quickstart.md','utf8'); if(/\\[faz isto\\]|\\[depois isto\\]/.test(t)) process.exit(1)\""
     }
   },
-  "lastTickAt": "2026-10-27T13:56:44.897Z",
+  "lastTickAt": "2026-10-27T16:27:11.784Z",
   "ticks": {
     "1": "2026-10-27T13:02:30.352Z",
     "2": "2026-10-27T13:33:42.242Z",
@@ -822,7 +866,9 @@
     "21": "2026-10-27T13:41:28.973Z",
     "22": "2026-10-27T13:33:42.562Z",
     "23": "2026-10-27T13:43:54.176Z",
+    "24": "2026-10-27T16:26:42.683Z",
     "25": "2026-10-27T13:47:20.190Z",
+    "26": "2026-10-27T16:27:11.784Z",
     "27": "2026-10-27T13:46:45.072Z"
   }
 }

@@ -51,7 +51,10 @@ Todas as alterações relevantes ao **juridico-pt** (até à 1.2.1, **advogado-p
   - `scripts/gerar_docx.py` gera o mesmo `word/document.xml` que o servidor;
   - `scripts/verificador.py` aplica as mesmas regras que `verificar_redacao`.
 - **Privacidade** (`privacidade-plugin`): os dados do advogado responsável, os dados das partes só no `.docx` exportado, categorias especiais (RGPD, art. 9.º) e AIPD.
-- **Avaliações**: 68 casos no `evals/` (15 novos de redação e adversariais). Resultados da 3.0.0: [pontuação da corrida final].
+- **Avaliações**: 68 casos no `evals/` (15 novos de redação e adversariais), com 3 execuções por caso no `claude plugin eval`. Nas avaliações da 3.0.0, golden 100 % (55/55 casos), adversarial 100 % (13/13) e regressão 100 %.
+
+  A base com a 2.0.2 nos casos novos era golden 10 % e adversarial 80 %. Dez verificações que mediam mal foram corrigidas e testadas, e duas falhas reais foram corrigidas: direito estrangeiro e férias judiciais. Detalhe e ressalvas em `.specs/juridico-pt-v3-0-redator/eval-plan.md`.
+- **Âmbito**: um documento regido pela lei de outro país sem ligação a Portugal fica fora do âmbito. O assistente di-lo, recomenda advogado dessa jurisdição e escreve sempre em PT-PT.
 
 ### Removed
 
