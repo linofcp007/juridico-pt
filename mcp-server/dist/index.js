@@ -23348,6 +23348,9 @@ function cabecalhoFicha(e) {
     "Reda\xE7\xE3o: segue o fluxo de assets/redacao/redator.md (entrevista numa s\xF3 mensagem, Marca\xE7\xE3o Redator, verificar_redacao, exportar_documento)."
   ].join(NL);
 }
+function precarregarFichas() {
+  catalogo();
+}
 function codigosFichas() {
   return catalogo()?.indice.fichas.map((e) => e.codigo) ?? [];
 }
@@ -26950,6 +26953,7 @@ async function main() {
   registerResources(server);
   registerPrompts(server);
   argumentosOpcionaisNosPrompts(server);
+  precarregarFichas();
   const transport = new StdioServerTransport();
   await server.connect(transport);
   console.error("juridico-pt MCP server ativo (stdio).");

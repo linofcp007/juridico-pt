@@ -451,6 +451,11 @@ export function cabecalhoFicha(e: Pick<EntradaFicha, "codigo" | "titulo" | "titu
   ].join(NL);
 }
 
+/** Carrega o índice das fichas (e as raízes da pesquisa) já no arranque do servidor; sem catálogo, não faz nada. */
+export function precarregarFichas(): void {
+  catalogo();
+}
+
 /** Códigos das fichas, para o autocompletar de obter_ficha. */
 export function codigosFichas(): string[] {
   return catalogo()?.indice.fichas.map((e) => e.codigo) ?? [];

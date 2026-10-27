@@ -8,6 +8,7 @@ import { registerTools } from "./tools.js";
 import { registerResources } from "./resources.js";
 import { registerPrompts } from "./prompts.js";
 import { INSTRUCOES_MCP } from "./persona.js";
+import { precarregarFichas } from "./content.js";
 
 /**
  * O MCP permite pedir um prompt sem `arguments`, mas o SDK 1.31 valida `undefined` contra o
@@ -41,6 +42,8 @@ async function main(): Promise<void> {
   registerResources(server);
   registerPrompts(server);
   argumentosOpcionaisNosPrompts(server);
+  // O índice das fichas carrega uma vez por sessão, antes do primeiro pedido (NFR-1: procurar_ficha < 200 ms).
+  precarregarFichas();
 
   const transport = new StdioServerTransport();
   await server.connect(transport);
