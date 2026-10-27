@@ -31,7 +31,7 @@ Findo este prazo sem que o pagamento se mostre efetuado, e sem necessidade de no
      judicial (Art. 323.º CC; inclui a notificação no procedimento de injunção) ou o reconhecimento
      da dívida pelo devedor (Art. 325.º CC). Não escrever o contrário na carta. Se o prazo estiver
      perto do fim, avançar já com a injunção ou obter um reconhecimento de dívida
-     (assets/templates/reconhecimento-divida.md). -->
+     (assets/modelos/confissao-de-divida-e-acordo-de-pagamento.md). -->
 Fica ainda V. Exa. informado(a) de que, caso pretenda regularizar a dívida de forma faseada, poderá propor por escrito, no mesmo prazo, um plano de pagamento com reconhecimento da dívida.
 
 Aguardo a regularização no prazo indicado.
@@ -47,7 +47,7 @@ _______________________________
 
 _(Lista para quem envia — não faz parte do documento.)_
 
-- [ ] ⏰ Esta carta NÃO interrompe a prescrição (arts. 323.º e 325.º CC): se o prazo estiver perto do fim, avançar já com a injunção (`requerimento-injuncao.md`) ou obter um reconhecimento de dívida (`reconhecimento-divida.md`) — verificar com `calc_prescricao`.
+- [ ] ⏰ Esta carta NÃO interrompe a prescrição (arts. 323.º e 325.º CC): se o prazo estiver perto do fim, avançar já com a injunção (`requerimento-injuncao.md`) ou obter um reconhecimento de dívida (`o modelo `confissao-de-divida-e-acordo-de-pagamento``) — verificar com `calc_prescricao`.
 - [ ] ⏰ Fixar em `{{PRAZO_DIAS}}` um prazo razoável (8 a 15 dias, segundo `references/cobrancas.md`), contado da receção da carta.
 - [ ] Os 40 € de indemnização por custos de cobrança (art. 7.º DL 62/2013) só se aplicam entre empresas (transação comercial) — retirar o parágrafo se o devedor for consumidor.
 - [ ] Calcular os juros por tramos semestrais com `calc_juros_mora` / `scripts/juros_mora.py` (taxa comercial ou civil em `references/valores-2026.md`) e indicar o valor vencido até à data da carta.

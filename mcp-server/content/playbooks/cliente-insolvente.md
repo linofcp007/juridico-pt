@@ -5,7 +5,7 @@
 
 ## Passo 0 — Não percas prazos
 
-- ⏰ **Insolvência declarada — reclamação de créditos:** no prazo **fixado na sentença**, que é **até 30 dias** (art. 36.º, n.º 1, al. j), CIRE). Só começa a correr **depois da dilação de 5 dias** contada da publicação do anúncio no Citius (art. 37.º, n.os 7 e 8). Reclamação ao **administrador da insolvência** (AI), nos termos do art. 128.º.
+- ⏰ **Insolvência declarada — reclamação de créditos:** no prazo **fixado na sentença**, que é **até 30 dias** (art. 36.º, n.º 1, al. j), CIRE). Para os credores citados por edital e anúncio, só começa a correr **depois da dilação de 5 dias** contada da publicação do anúncio no Citius (art. 37.º, n.os 7 e 8, que se aplicam aos "demais credores"). **Regra prudente:** se foste citado pessoalmente ou por carta registada (um dos cinco maiores credores, art. 37.º, n.º 3), conta o prazo dessa citação; em caso algum deixes passar o fim do prazo contado do anúncio no Citius mais os 5 dias — faz as duas contas e vale a data que terminar primeiro [VERIFICAR: termo inicial para os credores citados nos termos do art. 37.º, n.º 3, CIRE]. Reclamação ao **administrador da insolvência** (AI), nos termos do art. 128.º.
 - ⏰ **Os prazos são seguidos e correm em férias judiciais:** o processo de insolvência (e o PER/PEAP) é **urgente** (art. 9.º, n.º 1, e arts. 17.º-A, n.º 3, e 222.º-A, n.º 3, CIRE; art. 138.º, n.º 1, CPC). Se o prazo terminar com os tribunais encerrados, passa para o 1.º dia útil seguinte (art. 138.º, n.º 2, CPC). Conta com `calc_prazo` (tipo `corridos`) ou `python scripts/prazos.py --inicio <data> --dias <n> --tipo corridos`.
 - ⏰ **PER (empresas) / PEAP (não empresas):** **20 dias** contados da publicação no Citius do despacho de nomeação do **administrador judicial provisório** (AJP) (arts. 17.º-D, n.º 2, e 222.º-D, n.º 2). O AJP faz a lista provisória em 5 dias; **impugnação em 5 dias úteis** (arts. 17.º-D, n.º 4, e 222.º-D, n.º 3).
 - ⏰ **Impugnação da lista de credores reconhecidos (insolvência):** o AI apresenta a lista nos **15 dias** seguintes ao fim do prazo de reclamações (art. 129.º, n.º 1); tens **10 dias** a seguir para impugnar (art. 130.º, n.º 1). Se foste avisado por carta registada, os 10 dias contam-se a partir do 3.º dia útil após a expedição (art. 130.º, n.º 2).
@@ -24,7 +24,7 @@
 
 2. **Para as cobranças individuais.** Com a declaração de insolvência, as diligências executivas contra os bens da massa ficam **suspensas** e não se pode instaurar nova execução contra o insolvente (art. 88.º, n.º 1); os credores só exercem os seus direitos **dentro do processo** (art. 90.º). Injunção ou ação declarativa pendente → fala com o advogado sobre o destino dessa ação (a confirmar caso a caso). Se houver **outros executados** (fiadores, avalistas), a execução **prossegue contra eles** (art. 88.º, n.º 1).
 
-3. **Reclama os créditos — SEMPRE.** Mesmo que o crédito conste da contabilidade do devedor, já tenhas sentença ou injunção com fórmula executória, ou o AI te tenha contactado: a lei não dispensa a reclamação (art. 128.º, n.º 5). Usa `assets/templates/reclamacao-creditos-insolvencia.md`, com **todos os documentos de prova** e as menções obrigatórias do art. 128.º, n.º 1 (proveniência, vencimento, capital e juros, condições, natureza, garantias pessoais, taxa de juros moratórios e IBAN).
+3. **Reclama os créditos — SEMPRE.** Mesmo que o crédito conste da contabilidade do devedor, já tenhas sentença ou injunção com fórmula executória, ou o AI te tenha contactado: a lei não dispensa a reclamação (art. 128.º, n.º 5). Usa `assets/modelos/reclamacao-de-creditos-na-insolvencia.md`, com **todos os documentos de prova** e as menções obrigatórias do art. 128.º, n.º 1 (proveniência, vencimento, capital e juros, condições, natureza, garantias pessoais, taxa de juros moratórios e IBAN).
    - Sem advogado: entrega em mão no domicílio profissional do AI, **e-mail** ou **carta registada**; o AI tem 3 dias para te enviar o comprovativo (art. 128.º, n.º 3). Com advogado: por via eletrónica (art. 128.º, n.º 2).
 
 4. **Calcula o crédito.**
@@ -93,7 +93,7 @@
 
 ## Documentos a usar
 
-- `assets/templates/reclamacao-creditos-insolvencia.md` — reclamação ao AI (insolvência) e variante ao AJP (PER/PEAP)
+- `assets/modelos/reclamacao-de-creditos-na-insolvencia.md` — reclamação ao AI (insolvência) e variante ao AJP (PER/PEAP)
 - `references/insolvencia.md` — graduação de créditos, PER, PEAP, RERE, qualificação
 - `references/cobrancas.md` — cobrança escalonada, prescrição, tratamento fiscal de incobráveis
 - `references/garantias.md` — fiança, aval, livrança, reserva de propriedade

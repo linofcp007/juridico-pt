@@ -17,7 +17,7 @@
 
 ### Reclamação de créditos
 - Prazo: o **fixado na sentença** de declaração de insolvência (até 30 dias — Art. 36.º al. j) CIRE)
-- Apresenta-se ao **administrador da insolvência** (AI), por requerimento: com advogado, por via eletrónica; sem advogado, também por entrega em mão, e-mail ou carta registada (art. 128.º CIRE) — template `assets/templates/reclamacao-creditos-insolvencia.md`; passo a passo em `playbooks/cliente-insolvente.md`
+- Apresenta-se ao **administrador da insolvência** (AI), por requerimento: com advogado, por via eletrónica; sem advogado, também por entrega em mão, e-mail ou carta registada (art. 128.º CIRE) — template `assets/modelos/reclamacao-de-creditos-na-insolvencia.md`; passo a passo em `playbooks/cliente-insolvente.md`
 - Conteúdo: identificação do crédito, proveniência, data de vencimento, montante de capital e juros, garantias e natureza
 - Mesmo créditos já reconhecidos/constantes da contabilidade do devedor **devem ser reclamados**
 
@@ -82,6 +82,6 @@
 ## Templates
 > Documentos gerados a pedido neste estilo. Os que já existem como ficheiro estão em `assets/templates/` (ver índice); os restantes são redigidos quando pedires.
 
-- `assets/templates/reclamacao-creditos-insolvencia.md` — reclamação de créditos ao AI (insolvência) ou ao administrador judicial provisório (PER/PEAP)
+- `assets/modelos/reclamacao-de-creditos-na-insolvencia.md` — reclamação de créditos ao AI (insolvência) ou ao administrador judicial provisório (PER/PEAP)
 - Nota/guião de apresentação de PER (declaração do devedor e pressupostos a verificar) (a pedido)
 - Carta de credor a pedir constituição de garantia antes do agravamento (a pedido)

@@ -145,7 +145,7 @@ const NOVOS_TEMPLATES = [
   "reclamacao-graciosa", "direito-audicao-previa", "pedido-pagamento-prestacoes-at",
   "pedido-informacao-vinculativa", "pacto-social-unipessoal-lda", "decisao-socio-unico",
   "contrato-desenvolvimento-software", "carta-cessacao-violacao-pi", "notificacao-remocao-conteudo",
-  "reclamacao-creditos-insolvencia", "pacto-nao-concorrencia", "politica-prevencao-assedio",
+  "pacto-nao-concorrencia", "politica-prevencao-assedio",
   "formulario-livre-resolucao", "reclamacao-banco-operacao-nao-autorizada",
   "registo-atividades-tratamento", "resposta-pedido-titular-dados", "queixa-comissao-europeia",
 ];
@@ -560,9 +560,10 @@ test("T-336 dependências de runtime iguais às da 1.2.1", () => {
   assert.deepEqual(JSON.parse(lerMd(r("package.json"))).dependencies || {}, {});
 });
 
-test("T-337 versão do plugin (2.x) igual em todos os sítios e no CHANGELOG; ## [2.0.0] com secção Migração", () => {
+// Na 3.0 a versão passou a 3.x: o T-337 aceita a 2.x e posteriores (a 3.0.0 exata fica no T-450).
+test("T-337 versão do plugin (2.x ou posterior) igual em todos os sítios e no CHANGELOG; ## [2.0.0] com secção Migração", () => {
   const V = JSON.parse(lerMd(r(".claude-plugin", "plugin.json"))).version;
-  assert.match(V, /^2\.\d+\.\d+$/);
+  assert.match(V, /^[2-9]\.\d+\.\d+$/);
   const mk = JSON.parse(lerMd(r(".claude-plugin", "marketplace.json")));
   assert.equal(mk.metadata.version, V);
   assert.equal(mk.plugins[0].version, V);
@@ -577,4 +578,140 @@ test("T-337 versão do plugin (2.x) igual em todos os sítios e no CHANGELOG; ##
   assert.ok(i >= 0);
   const fim = c.indexOf("\n## [", i + 5);
   assert.match(c.slice(i, fim < 0 ? undefined : fim), /^### Migração/m);
+});
+
+// ---------------- v3.0 — redator jurídico (T-410, T-416, T-421, T-441, T-445, T-450, T-451) ----------------
+
+const SKILL_PT = (...p) => r("skills", "juridico-pt", ...p);
+const REDATOR_SKILL = r("skills", "redator-juridico", "SKILL.md");
+const MODELOS_V30 = [
+  "acordo-de-revogacao-do-contrato-de-trabalho", "confissao-de-divida-e-acordo-de-pagamento", "contestacao",
+  "contrato-de-arrendamento-habitacional", "contrato-de-honorarios", "contrato-de-prestacao-de-servicos",
+  "interpelacao-e-notificacao-extrajudicial", "nota-de-honorarios-e-despesas", "peticao-inicial-acao-declarativa-comum",
+  "processo-disciplinar-nota-de-culpa-e-decisao-de-despedimento", "procuracao-forense-e-substabelecimento",
+  "reclamacao-de-creditos-na-insolvencia",
+];
+const SUBSTITUIDOS_V30 = [
+  "reconhecimento-divida", "contrato-arrendamento-habitacional", "acordo-revogacao", "nota-de-culpa",
+  "carta-despedimento-justa-causa", "carta-interpelacao-incumprimento", "reclamacao-creditos-insolvencia",
+];
+
+function textosEm(dir, exts) {
+  if (!existsSync(dir)) return [];
+  const out = [];
+  for (const e of readdirSync(dir, { withFileTypes: true })) {
+    if (e.name === "node_modules" || e.name === "__pycache__") continue;
+    const p = join(dir, e.name);
+    if (e.isDirectory()) out.push(...textosEm(p, exts));
+    else if (exts.some((x) => e.name.endsWith(x))) out.push(p);
+  }
+  return out;
+}
+
+test("T-410 modelos: as 8 secções por ordem, Âmbito nas primeiras 15 linhas e índice com os 12", () => {
+  const falhas = [];
+  for (const s of MODELOS_V30) {
+    const f = SKILL_PT("assets", "modelos", `${s}.md`);
+    if (!existsSync(f)) {
+      falhas.push(`${s}: em falta`);
+      continue;
+    }
+    const t = readFileSync(f, "utf8");
+    if (!/Âmbito:\**\s*(nacional|ue|misto)\b/i.test(t.split("\n").slice(0, 15).join("\n"))) falhas.push(`${s}: sem Âmbito`);
+    let ultimo = -1;
+    for (let n = 1; n <= 8; n++) {
+      const i = t.search(new RegExp(`^## ${n}\. `, "m"));
+      if (i < 0) falhas.push(`${s}: sem a secção ${n}`);
+      else if (i < ultimo) falhas.push(`${s}: secção ${n} fora de ordem`);
+      else ultimo = i;
+    }
+  }
+  const idx = SKILL_PT("assets", "modelos", "README.md");
+  if (!existsSync(idx)) falhas.push("assets/modelos/README.md em falta");
+  else for (const s of MODELOS_V30) if (!readFileSync(idx, "utf8").includes(s)) falhas.push(`README: falta ${s}`);
+  assert.deepEqual(falhas, []);
+});
+
+test("T-416 nenhum conteúdo, command ou código cita os templates substituídos pelo nome antigo (fora do mapa e do CHANGELOG)", () => {
+  const alvos = [
+    ...textosEm(r("skills"), [".md"]),
+    ...textosEm(r("commands"), [".md"]),
+    ...textosEm(r("agents"), [".md"]),
+    ...textosEm(r("hooks"), [".mjs"]),
+    ...textosEm(r("mcp-server", "src"), [".ts"]).filter((f) => !f.endsWith(`${join("src", "content.ts")}`)),
+    r("README.md"), r("INSTALL.md"), r("AGENTS.md"), r("GEMINI.md"),
+  ].filter(existsSync);
+  const falhas = [];
+  for (const f of alvos) {
+    const t = readFileSync(f, "utf8");
+    for (const n of SUBSTITUIDOS_V30) {
+      if (new RegExp(`(?<![\w-])${n}(?![\w-])`).test(t)) falhas.push(`${f.slice(repo.length + 1)}: ${n}`);
+    }
+  }
+  assert.deepEqual(falhas, []);
+});
+
+test("T-421 verificador-citacoes: índice de normas conferidas primeiro, estado 'verificada (índice)', só leitura", () => {
+  const t = readFileSync(r("agents", "verificador-citacoes.md"), "utf8");
+  assert.match(t, /references\/normas-conferidas\.json/);
+  assert.ok(existsSync(SKILL_PT("references", "normas-conferidas.json")), "falta o índice references/normas-conferidas.json");
+  assert.match(t, /verificada \(índice\)/);
+  assert.match(t, /^1\.[^\n]*índice de normas conferidas/im);
+  const tools = /^tools:\s*(.+)$/m.exec(t)?.[1] ?? "";
+  assert.doesNotMatch(tools, /\b(Write|Edit|Bash|PowerShell|NotebookEdit)\b/, "o verificador tem de ser só de leitura");
+});
+
+test("T-441 skill redator-juridico: frontmatter válido, os 6 passos por ordem e caminhos ../juridico-pt/ que existem", () => {
+  assert.ok(existsSync(REDATOR_SKILL), "falta skills/redator-juridico/SKILL.md");
+  const t = readFileSync(REDATOR_SKILL, "utf8");
+  const fm = /^---\r?\n([\s\S]*?)\r?\n---/.exec(t);
+  assert.ok(fm, "sem frontmatter");
+  assert.match(fm[1], /^name:\s*redator-juridico\s*$/m);
+  // Escalar dobrado do YAML (`description: >`), como o build.py o lê: o indicador não faz parte do texto.
+  const desc =
+    /^description:\s*([\s\S]*?)(?=^\w[\w-]*:|$(?![\s\S]))/m.exec(fm[1])?.[1].replace(/^[>|][-+]?/, "").replace(/\s+/g, " ").trim() ?? "";
+  assert.ok(desc.length > 0 && desc.length <= 1024, `description com ${desc.length} caracteres`);
+  assert.doesNotMatch(desc, /[<>]/);
+  let ultimo = -1;
+  for (const p of ["Identificar", "Entrevistar", "Confirmar", "Redigir", "Autorrever", "Entregar"]) {
+    const i = t.search(new RegExp(`\\*\\*\\d\\. ${p}`, "i"));
+    assert.ok(i > ultimo, `passo '${p}' em falta ou fora de ordem`);
+    ultimo = i;
+  }
+  const caminhos = [...t.matchAll(/\.\.\/juridico-pt\/([\w./<>-]+)/g)].map((m) => m[1]).filter((c) => !/[<>]/.test(c));
+  assert.ok(caminhos.length > 0, "o redator não cita nenhum ficheiro do juridico-pt");
+  for (const c of caminhos) assert.ok(existsSync(SKILL_PT(...c.replace(/[.,;:)]+$/, "").split("/"))), `não existe: ../juridico-pt/${c}`);
+});
+
+test("T-445 /contrato, /template e /parecer passam pelo skill redator-juridico e nomeiam as tools reais", () => {
+  for (const c of ["contrato", "template", "parecer"]) {
+    const t = readFileSync(r("commands", `${c}.md`), "utf8");
+    assert.match(t, /redator-juridico/, `${c}: não invoca o redator-juridico`);
+    assert.match(t, /obter_modelo|exportar_documento/, `${c}: não nomeia as tools do redator`);
+  }
+});
+
+test("T-450 versão 3.0.0 nos 6 sítios e CHANGELOG com os 7 nomes substituídos e a pontuação das avaliações", () => {
+  const plugin = JSON.parse(readFileSync(r(".claude-plugin", "plugin.json"), "utf8"));
+  const mk = JSON.parse(readFileSync(r(".claude-plugin", "marketplace.json"), "utf8"));
+  assert.equal(plugin.version, "3.0.0");
+  assert.equal(mk.metadata.version, "3.0.0");
+  assert.equal(mk.plugins[0].version, "3.0.0");
+  assert.equal(JSON.parse(readFileSync(r("package.json"), "utf8")).version, "3.0.0");
+  assert.equal(JSON.parse(readFileSync(r("mcp-server", "package.json"), "utf8")).version, "3.0.0");
+  assert.match(readFileSync(r("mcp-server", "src", "index.ts"), "utf8"), /version:\s*"3\.0\.0"/);
+  const c = readFileSync(r("CHANGELOG.md"), "utf8");
+  const i = c.indexOf("## [3.0.0]");
+  assert.ok(i >= 0, "CHANGELOG sem ## [3.0.0]");
+  const fim = c.indexOf("\n## [", i + 5);
+  const sec = c.slice(i, fim < 0 ? undefined : fim);
+  for (const n of SUBSTITUIDOS_V30) assert.ok(sec.includes(n), `CHANGELOG 3.0.0 sem ${n}`);
+  assert.match(sec, /avalia[çc][õo]es[^\n]*\d+(,\d+)?\s?%/i, "CHANGELOG 3.0.0 sem a pontuação das avaliações");
+});
+
+test("T-451 redator: recurso sem Python nem MCP (bloco em Marcação Redator e colagem) e o guia de entrega no pacote", () => {
+  const t = existsSync(REDATOR_SKILL) ? readFileSync(REDATOR_SKILL, "utf8") : "";
+  assert.match(t, /sem Python|sem as tools|sem MCP/i, "falta o recurso sem Python nem MCP");
+  assert.match(t, /Marca[çc][ãa]o Redator/);
+  assert.match(t, /\.\.\/juridico-pt\/assets\/redacao\/entrega\.md/, "o redator não cita o guia de entrega");
 });

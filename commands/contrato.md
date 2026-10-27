@@ -1,12 +1,16 @@
 ---
-description: Gera ou revê um contrato a partir de template e checklist. Drafts or reviews a contract from template and checklist.
+description: Redige ou revê um contrato a partir do modelo conferido ou do template. Drafts or reviews a contract from a verified model or template.
 argument-hint: "[tipo de contrato]"
 ---
 
-Ativa a skill `juridico-pt` para gerar ou rever o contrato em $ARGUMENTS.
+Segue o skill `redator-juridico` para redigir ou rever o contrato em $ARGUMENTS.
 
-Parte do template aplicável via tool MCP `obter_template` (ex.: `contrato-prestacao-servicos-ti`, `nda-bilingue`, `contrato-promessa-compra-venda`; ou lê `assets/templates/`). Para revisão, aplica a `checklist-revisao-contrato` (via `obter_checklist` com `nome: checklist-revisao-contrato`). Substitui os `{{PLACEHOLDERS}}` pelos dados do caso e confirma partes, objeto, preço, rescisão, lei aplicável e foro.
+- **Há modelo conferido** (contrato de honorários, prestação de serviços, arrendamento para habitação, confissão de dívida e acordo de pagamento, acordo de revogação…): vê `listar_modelos` e abre-o com `obter_modelo` (secções 1, 2, 3 e 7 para as perguntas; `[4, 5]` para redigir). Faz todas as perguntas numa só mensagem, redige em Marcação Redator, corre `verificar_redacao` e gera o Word com `exportar_documento`. Só cita a fundamentação da secção 5; o resto leva `[■ VERIFICAR]`.
+- **Não há modelo** (ex.: `contrato-prestacao-servicos-ti`, `nda-bilingue`, `contrato-promessa-compra-venda`): parte do template via `obter_template` e diz numa linha o que ele não cobre.
+- **Revisão:** aplica a `checklist-revisao-contrato` (via `obter_checklist`) ou o subagente `revisor-contratos`.
 
-**EN:** Activate the `juridico-pt` skill to draft or review the contract in $ARGUMENTS. Start from the applicable template via the `obter_template` MCP tool (e.g. `contrato-prestacao-servicos-ti`, `nda-bilingue`, `contrato-promessa-compra-venda`; or read `assets/templates/`). For a review, apply the `checklist-revisao-contrato` (via `obter_checklist` with `nome: checklist-revisao-contrato`). Replace the `{{PLACEHOLDERS}}` with the case data and confirm parties, subject matter, price, termination, governing law and jurisdiction.
+A entrega fecha com "Confira antes de assinar" e a linha fixa de revisão.
 
-*Exemplos · Examples: "preciso de um NDA para um freelancer", "I need a services agreement".*
+**EN:** Follow the `redator-juridico` skill to draft or review the contract in $ARGUMENTS. With a verified model, use `listar_modelos` / `obter_modelo` (sections 1, 2, 3, 7 for the questions; `[4, 5]` to draft), ask everything in one message, draft in Marcação Redator, run `verificar_redacao` and export with `exportar_documento`; cite only the model's section 5. Without a model, start from the template via `obter_template`. For a review, apply `checklist-revisao-contrato` (via `obter_checklist`) or the `revisor-contratos` subagent.
+
+*Exemplos · Examples: "faz um contrato de honorários", "preciso de um NDA para um freelancer", "I need a services agreement".*

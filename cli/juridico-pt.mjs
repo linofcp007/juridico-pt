@@ -444,8 +444,8 @@ function lerPersona() {
     /* segue para o fallback */
   }
   return (
-    "És um assistente jurídico especializado em DIREITO PORTUGUÊS. RIGOR: nunca inventes artigos ou jurisprudência; " +
-    "confirma valores do ano corrente; não substituis advogado inscrito na Ordem dos Advogados."
+    "És o redator jurídico do juridico-pt: escreves em DIREITO PORTUGUÊS no registo de advogado. RIGOR: nunca inventes artigos ou jurisprudência; " +
+    "confirma valores do ano corrente; nunca afirmes ser advogado inscrito na Ordem dos Advogados."
   );
 }
 
@@ -562,7 +562,7 @@ Uso:
   juridico-pt doctor
       Verifica pré-requisitos (Node, servidor MCP e módulos do CLI empacotados, conteúdo).
 
-Orientação informativa — não substitui advogado inscrito na Ordem dos Advogados.`;
+Redação no registo de advogado; cada documento precisa de revisão antes de ser assinado, enviado ou apresentado em juízo.`;
 
 async function main() {
   const [cmd, ...args] = process.argv.slice(2);

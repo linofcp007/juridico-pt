@@ -65,7 +65,7 @@
 - ⚠️ Valores em `references/valores-2026.md`; cálculo em `scripts/compensacao_despedimento.py`
 
 ### Revogação por acordo e quitação
-- **Forma**: acordo escrito, assinado por ambas as partes, em duplicado, com a data de celebração e a de início dos efeitos (Art. 349.º CT) — template `acordo-revogacao`
+- **Forma**: acordo escrito, assinado por ambas as partes, em duplicado, com a data de celebração e a de início dos efeitos (Art. 349.º CT) — template `acordo-de-revogacao-do-contrato-de-trabalho`
 - **Compensação pecuniária global**: se o acordo a fixar, presume-se que inclui os créditos vencidos à data da cessação ou exigíveis em virtude desta (Art. 349.º, n.º 5 CT); a presunção pode ser afastada pelo trabalhador com prova em contrário — discriminar no acordo as verbas pagas (retribuições, férias e subsídios, proporcionais, formação não ministrada)
 - **Sem quitação por renúncia**: desde 1/5/2023, os créditos do trabalhador emergentes do contrato, da sua violação ou cessação não podem ser extintos por **remissão abdicativa**, salvo através de **transação judicial** (Art. 337.º, n.º 3 CT, Lei 13/2023) — uma "quitação total" num acordo extrajudicial não extingue créditos que ainda sejam devidos
 - ⏰ **Arrependimento**: o trabalhador pode fazer cessar o acordo por comunicação escrita até ao **7.º dia** seguinte à celebração, devolvendo a totalidade das compensações recebidas (Art. 350.º, n.ºs 1 e 3 CT), salvo se o acordo estiver datado e as assinaturas tiverem reconhecimento notarial presencial (n.º 4)
@@ -94,7 +94,7 @@
 - Contrato de trabalho sem termo — `assets/templates/contrato-trabalho-sem-termo.md`
 - Contrato de trabalho a termo certo — `assets/templates/contrato-trabalho-termo-certo.md`
 - Acordo de teletrabalho — `assets/templates/acordo-teletrabalho.md`
-- Nota de culpa (processo disciplinar) — `assets/templates/nota-de-culpa.md`
-- Carta de despedimento com justa causa — `assets/templates/carta-despedimento-justa-causa.md`
-- Acordo de revogação (cessação por mútuo acordo) — `assets/templates/acordo-revogacao.md`
+- Nota de culpa (processo disciplinar) — `assets/modelos/processo-disciplinar-nota-de-culpa-e-decisao-de-despedimento.md`
+- Carta de despedimento com justa causa — `assets/modelos/processo-disciplinar-nota-de-culpa-e-decisao-de-despedimento.md`
+- Acordo de revogação (cessação por mútuo acordo) — `assets/modelos/acordo-de-revogacao-do-contrato-de-trabalho.md`
 - Carta de denúncia pelo trabalhador (a pedido)

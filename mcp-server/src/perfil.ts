@@ -31,6 +31,12 @@ export const CAMPOS_PERFIL = [
   "vendas_b2c",
   "trabalhadores_estrangeiros",
   "emite_faturas",
+  // v3.0 (escritórios: advogado responsável que revê e assina)
+  "advogado_nome",
+  "advogado_cedula",
+  "advogado_domicilio",
+  "advogado_email",
+  "advogado_nif",
   "atualizado_em",
 ] as const;
 
@@ -55,6 +61,11 @@ const ROTULOS: Record<string, string> = {
   vendas_b2c: "Vende a consumidores (sim/não; online, loja física)",
   trabalhadores_estrangeiros: "Tem trabalhadores estrangeiros (sim/não)",
   emite_faturas: "Emite faturas (sim/não; programa certificado ou Portal das Finanças)",
+  advogado_nome: "Advogado responsável (nome, como assina)",
+  advogado_cedula: "Cédula profissional do advogado responsável",
+  advogado_domicilio: "Domicílio profissional do advogado responsável",
+  advogado_email: "Endereço eletrónico profissional do advogado responsável",
+  advogado_nif: "NIF profissional do advogado responsável",
 };
 
 const PASTA = PASTA_DADOS;

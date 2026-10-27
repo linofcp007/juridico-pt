@@ -1,0 +1,9 @@
+{
+  "_nota": "Lacunas da comparação templates -> modelos (decisions.md, D-1) que têm de estar no modelo que substitui o template (T-457). Cada padrão é uma regex (i) procurada no ficheiro do modelo.",
+  "confissao-de-divida-e-acordo-de-pagamento": ["325\\.º", "calc_prescricao", "not[áa]rio", "solicitador", "calc_juros_mora", "valores-2026"],
+  "contrato-de-arrendamento-habitacional": ["categoria F", "1682\\.º-A", "1687\\.º", "ocupantes|animais", "Autoridade Tribut[áa]ria|\\bAT\\b", "valores-2026"],
+  "acordo-de-revogacao-do-contrato-de-trabalho": ["337\\.º", "Seguran[çc]a Social", "RP 5044", "calc_compensacao_despedimento", "valores-2026"],
+  "processo-disciplinar-nota-de-culpa-e-decisao-de-despedimento": ["\\b128\\.º", "\\b98\\.º", "\\b63\\.º|CITE", "387\\.º", "calc_creditos_laborais", "Seguran[çc]a Social"],
+  "interpelacao-e-notificacao-extrajudicial": ["\\b801\\.º", "\\b804\\.º"],
+  "reclamacao-de-creditos-na-insolvencia": ["17\\.º-D|cliente-insolvente", "\\b99\\.º", "\\b91\\.º", "36\\.º, n\\.º 1, al(ínea|\\.) a\\)|meio-dia", "\\b88\\.º", "calc_juros_mora", "calc_prazo"]
+}

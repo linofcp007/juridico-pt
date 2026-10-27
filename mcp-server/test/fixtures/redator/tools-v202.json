@@ -1,0 +1,112 @@
+{
+ "apagar_perfil": [
+  "nome"
+ ],
+ "ativar_perfil": [
+  "nome"
+ ],
+ "calc_compensacao_despedimento": [
+  "retribuicao_base"
+ ],
+ "calc_creditos_laborais": [
+  "data_admissao",
+  "data_cessacao",
+  "retribuicao_base"
+ ],
+ "calc_custas_injuncao": [
+  "valor"
+ ],
+ "calc_custo_trabalhador": [
+  "base"
+ ],
+ "calc_imposto_selo_heranca": [
+  "valor"
+ ],
+ "calc_imt": [
+  "valor"
+ ],
+ "calc_irc": [
+  "lucro_tributavel",
+  "pme"
+ ],
+ "calc_irs_simplificado": [
+  "rendimento",
+  "tipo"
+ ],
+ "calc_iva_operacao": [
+  "cliente",
+  "destino",
+  "tipo"
+ ],
+ "calc_juros_lote": [
+  "faturas"
+ ],
+ "calc_juros_mora": [
+  "capital",
+  "data_inicio"
+ ],
+ "calc_legitima": [
+  "bens",
+  "conjuge",
+  "filhos"
+ ],
+ "calc_prazo": [
+  "dias",
+  "inicio"
+ ],
+ "calc_prescricao": [
+  "inicio",
+  "tipo"
+ ],
+ "calc_procedimento_ccp": [
+  "tipo",
+  "valor"
+ ],
+ "calc_salario_liquido": [
+  "bruto"
+ ],
+ "calc_taxa_justica": [
+  "valor_acao"
+ ],
+ "calendario_obrigacoes": [
+  "ano"
+ ],
+ "concluir_prazo": [
+  "data",
+  "descricao"
+ ],
+ "exportar_documento": [
+  "nome"
+ ],
+ "guardar_perfil_empresa": [
+  "campos"
+ ],
+ "ler_referencia": [
+  "nome"
+ ],
+ "listar_areas_juridicas": [],
+ "listar_checklists": [],
+ "listar_perfis": [],
+ "listar_playbooks": [],
+ "listar_prazos": [],
+ "listar_templates": [],
+ "obter_checklist": [
+  "nome"
+ ],
+ "obter_perfil_empresa": [],
+ "obter_playbook": [
+  "nome"
+ ],
+ "obter_template": [
+  "nome"
+ ],
+ "painel_clientes": [],
+ "procurar_conteudo": [
+  "query"
+ ],
+ "registar_prazo": [
+  "data",
+  "descricao"
+ ],
+ "verificar_atualidade": []
+}

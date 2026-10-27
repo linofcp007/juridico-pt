@@ -35,7 +35,7 @@ const manifest = {
   name: "juridico-pt",
   display_name: "Jurídico PT",
   version: pkg.version,
-  description: "Assistente jurídico de direito português (PT/EN): referências, templates, playbooks e calculadoras. Não substitui advogado inscrito na OA.",
+  description: "Redação e orientação jurídica de direito português (PT/EN), no registo de advogado: modelos conferidos, referências, templates, playbooks e calculadoras.",
   long_description:
     "Servidor MCP local com o conteúdo jurídico do Jurídico PT: referências por área, templates de documentos com verificação final, playbooks, checklists e calculadoras (juros de mora por semestre e em lote, prazos, prescrição, IMT, IRS, IRC, IVA, compensações, custas, procedimento de contratação pública), calendário de obrigações e prazos em curso com perfil da empresa. Os dados ficam no computador (pasta .juridico-pt/). Orientação informativa — não substitui advogado inscrito na Ordem dos Advogados.",
   author: { name: plugin.author?.name ?? "Carlos Pereira", url: plugin.homepage },

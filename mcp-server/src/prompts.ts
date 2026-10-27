@@ -44,9 +44,9 @@ export function registerPrompts(server: McpServer): void {
   server.registerPrompt(
     "assistente_juridico",
     {
-      title: "Jurídico PT — assistente jurídico de Portugal",
+      title: "Jurídico PT — redator jurídico de direito português",
       description:
-        "Ativa o assistente jurídico de direito português (geral). Não substitui advogado inscrito na OA.",
+        "Ativa o redator jurídico de direito português (geral), no registo de advogado; nunca afirma inscrição na OA e indica advogado quando o patrocínio é obrigatório.",
       argsSchema: {
         assunto: z.string().optional().describe("Questão ou tarefa jurídica concreta (opcional)"),
       },
@@ -60,7 +60,7 @@ export function registerPrompts(server: McpServer): void {
       nome,
       {
         title: `Jurídico PT — ${titulo}`,
-        description: `Assistente jurídico de direito português focado em: ${titulo.toLowerCase()}.`,
+        description: `Redator jurídico de direito português focado em: ${titulo.toLowerCase()}.`,
         argsSchema: {
           assunto: z.string().optional().describe("Situação concreta (opcional)"),
         },

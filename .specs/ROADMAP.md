@@ -1,15 +1,15 @@
-# Roadmap — advogado-pt
+# Roadmap — juridico-pt
 
 <!-- AUTO-GERADO por dev-spec — não editar à mão. -->
 
-**Progresso: 100%** ▰▰▰▰▰▰▰▰▰▰ · 4/4 features completas · 137/137 tasks feitas
+**Progresso: 99%** ▰▰▰▰▰▰▰▰▰▰ · 4/5 features completas · 162/164 tasks feitas
 
-_Velocidade: 85.75 ponto(s)/dia útil — 137 tarefa(s), 343 ponto(s) concluídos desde 2026-10-03 (últimos 28 dias)_
+_Velocidade: 24.59 ponto(s)/dia útil — 162 tarefa(s), 418 ponto(s) concluídos desde 2026-10-03 (últimos 28 dias)_
 
 Legenda: ✅ feito · 🟡 em curso · ⛔ bloqueada · 📋 planeada · ⬜ por começar
 
 ## ▶ A seguir
-Todas as features completas 🎉
+- **juridico-pt-v3-0-redator** (core +tdd +ai +privacy) — próxima #24 Corrida final das avaliações (68 casos, `-
 
 ## Features
 
@@ -19,15 +19,20 @@ Todas as features completas 🎉
 | ✅ | [advogado-pt-v1-2-1-correcoes](./advogado-pt-v1-2-1-correcoes/requirements.md) | core +tdd +sec | concluída | 100% | 41/41 | advogado-pt-v1-2-operacional ✓, advogado-pt-v1-1-empresas ✓ | — | — |
 | ✅ | [advogado-pt-v1-2-operacional](./advogado-pt-v1-2-operacional/requirements.md) | core +tdd | concluída | 100% | 30/30 | advogado-pt-v1-1-empresas ✓ | — | — |
 | ✅ | [juridico-pt-v2-0](./juridico-pt-v2-0/requirements.md) | core +tdd +ai +privacy | concluída | 100% | 38/38 | advogado-pt-v1-2-1-correcoes ✓ | — | — |
+| 🟡 | [juridico-pt-v3-0-redator](./juridico-pt-v3-0-redator/requirements.md) | core +tdd +ai +privacy | em execução | 95% | 25/27 | advogado-pt-v1-1-empresas ✓, advogado-pt-v1-2-1-correcoes ✓ | #24 Corrida final das avaliações (68 casos, `- | 2026-10-27 |
+
+Previsão = pontos por fazer ÷ velocidade, em dias úteis (±25%) · `_Size: XS|S|M|L|XL_` numa tarefa = 1/2/3/5/8 pontos; uma tarefa sem tamanho conta como a mediana da sua feature (senão M) · uma feature à espera de uma dependência começa depois da previsão dessa.
 
 ## Dependências
 
 ```mermaid
 graph LR
-  advogado_pt_v1_2_operacional["advogado-pt-v1-2-operacional"] --> advogado_pt_v1_2_1_correcoes["advogado-pt-v1-2-1-correcoes"]
-  advogado_pt_v1_1_empresas["advogado-pt-v1-1-empresas"] --> advogado_pt_v1_2_1_correcoes["advogado-pt-v1-2-1-correcoes"]
-  advogado_pt_v1_1_empresas["advogado-pt-v1-1-empresas"] --> advogado_pt_v1_2_operacional["advogado-pt-v1-2-operacional"]
-  advogado_pt_v1_2_1_correcoes["advogado-pt-v1-2-1-correcoes"] --> juridico_pt_v2_0["juridico-pt-v2-0"]
+  f_advogado_pt_v1_2_operacional["advogado-pt-v1-2-operacional"] --> f_advogado_pt_v1_2_1_correcoes["advogado-pt-v1-2-1-correcoes"]
+  f_advogado_pt_v1_1_empresas["advogado-pt-v1-1-empresas"] --> f_advogado_pt_v1_2_1_correcoes["advogado-pt-v1-2-1-correcoes"]
+  f_advogado_pt_v1_1_empresas["advogado-pt-v1-1-empresas"] --> f_advogado_pt_v1_2_operacional["advogado-pt-v1-2-operacional"]
+  f_advogado_pt_v1_2_1_correcoes["advogado-pt-v1-2-1-correcoes"] --> f_juridico_pt_v2_0["juridico-pt-v2-0"]
+  f_advogado_pt_v1_1_empresas["advogado-pt-v1-1-empresas"] --> f_juridico_pt_v3_0_redator["juridico-pt-v3-0-redator"]
+  f_advogado_pt_v1_2_1_correcoes["advogado-pt-v1-2-1-correcoes"] --> f_juridico_pt_v3_0_redator["juridico-pt-v3-0-redator"]
 ```
 
 ## ⚠ Precisa de atenção

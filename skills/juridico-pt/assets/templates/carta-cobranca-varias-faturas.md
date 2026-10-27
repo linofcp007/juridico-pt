@@ -60,7 +60,7 @@ Findo este prazo sem que o pagamento se mostre efetuado, e sem necessidade de no
      inclui a notificação na injunção) ou o reconhecimento da dívida pelo devedor (art. 325.º CC). Com
      várias faturas, cada uma tem o seu prazo: verificar a mais antiga primeiro. Se alguma estiver perto
      do fim, avançar já com a injunção ou obter um reconhecimento de dívida
-     (assets/templates/reconhecimento-divida.md). Não escrever o contrário na carta. -->
+     (assets/modelos/confissao-de-divida-e-acordo-de-pagamento.md). Não escrever o contrário na carta. -->
 Caso pretenda regularizar a dívida de forma faseada, poderá apresentar por escrito, no mesmo prazo, uma proposta de plano de pagamento acompanhada do reconhecimento da dívida.
 
 Caso alguma das faturas indicadas já se encontre paga, agradeço o envio do respetivo comprovativo, para retificação do extrato.
@@ -78,7 +78,7 @@ Anexos: cópia das faturas n.os {{FATURA_1}} a {{FATURA_N}}; extrato de conta co
 
 _(Lista para quem envia — não faz parte do documento.)_
 
-- [ ] ⏰ Prescrição fatura a fatura com `calc_prescricao` — começar pela mais antiga. Esta carta não a interrompe (arts. 323.º e 325.º CC): se alguma fatura estiver perto do limite, avançar já com a injunção (`requerimento-injuncao.md`) ou obter um reconhecimento de dívida (`reconhecimento-divida.md`).
+- [ ] ⏰ Prescrição fatura a fatura com `calc_prescricao` — começar pela mais antiga. Esta carta não a interrompe (arts. 323.º e 325.º CC): se alguma fatura estiver perto do limite, avançar já com a injunção (`requerimento-injuncao.md`) ou obter um reconhecimento de dívida (`o modelo `confissao-de-divida-e-acordo-de-pagamento``).
 - [ ] Juros, indemnização e totais copiados da tool `calc_juros_lote` (data final = `{{DATA}}` da carta), com o tipo certo por fatura: "comercial" entre empresas, "civil" com consumidores. Não somar à mão nem arredondar de outra forma.
 - [ ] Os 40 € são por fatura vencida e só entre empresas ou com entidades públicas (DL 62/2013, arts. 2.º, n.º 2, al. a), e 7.º; TJUE C-585/20). Devedor consumidor → retirar a coluna, o parágrafo da indemnização e as referências ao DL 62/2013.
 - [ ] Faturas ainda não vencidas ou contestadas pelo cliente ficam FORA da tabela: a injunção serve para créditos certos, líquidos e exigíveis; um diferendo sobre a qualidade trata-se à parte (`playbooks/cliente-nao-paga.md`, passo 1).

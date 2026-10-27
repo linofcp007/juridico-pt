@@ -39,15 +39,15 @@ O nome vai sempre em **maiúsculas, sem acentos**, com algarismos e `_` (o teste
 - [carta-cobranca-amigavel.md](carta-cobranca-amigavel.md) — 1.º lembrete cordial
 - [carta-cobranca-formal-registada.md](carta-cobranca-formal-registada.md) — interpelação final com AR
 - [carta-cobranca-varias-faturas.md](carta-cobranca-varias-faturas.md) — interpelação com várias faturas: tabela por fatura, juros da `calc_juros_lote` e 40 € por fatura (DL 62/2013, art. 7.º)
-- [reconhecimento-divida.md](reconhecimento-divida.md) — reconhecimento de dívida (interrompe a prescrição; título executivo se autenticado)
+- [confissao-de-divida-e-acordo-de-pagamento](../modelos/confissao-de-divida-e-acordo-de-pagamento.md) — reconhecimento de dívida (interrompe a prescrição; título executivo se autenticado) (modelo conferido, `obter_modelo`)
 - [acordo-pagamento-faseado.md](acordo-pagamento-faseado.md) — plano de pagamentos com vencimento antecipado
 - [requerimento-injuncao.md](requerimento-injuncao.md) — guião de injunção (Citius/BNI)
-- [reclamacao-creditos-insolvencia.md](reclamacao-creditos-insolvencia.md) — reclamar créditos na insolvência/PER/PEAP de um cliente
+- [reclamacao-de-creditos-na-insolvencia](../modelos/reclamacao-de-creditos-na-insolvencia.md) — reclamar créditos na insolvência/PER/PEAP de um cliente (modelo conferido, `obter_modelo`)
 
 ### Contratos e disputas
 - [contrato-prestacao-servicos-ti.md](contrato-prestacao-servicos-ti.md) — serviços de tecnologia/consultoria
 - [nda-bilingue.md](nda-bilingue.md) — acordo de confidencialidade PT/EN
-- [carta-interpelacao-incumprimento.md](carta-interpelacao-incumprimento.md) — interpelação admonitória (Art. 808.º CC)
+- [interpelacao-e-notificacao-extrajudicial](../modelos/interpelacao-e-notificacao-extrajudicial.md) — interpelação admonitória (Art. 808.º CC) (modelo conferido, `obter_modelo`)
 - [notificacao-resolucao-contrato.md](notificacao-resolucao-contrato.md) — resolução por incumprimento (Art. 432.º CC)
 - [contrato-desenvolvimento-software.md](contrato-desenvolvimento-software.md) — desenvolvimento por encomenda + cessão de direitos (PT/EN)
 - [contrato-saas-b2b.md](contrato-saas-b2b.md) — subscrição SaaS B2B PT/EN (SLA, créditos de serviço, dados, mudança de fornecedor — Data Act)
@@ -73,9 +73,8 @@ O nome vai sempre em **maiúsculas, sem acentos**, com algarismos e `_` (o teste
 - [acordo-teletrabalho.md](acordo-teletrabalho.md)
 - [contrato-trabalho-termo-certo.md](contrato-trabalho-termo-certo.md) — contrato a termo certo (motivo justificativo)
 - [carta-caducidade-contrato-termo.md](carta-caducidade-contrato-termo.md) — caducidade do contrato a termo pelo empregador (⏰ 15 dias no termo certo; 7/30/60 no incerto — arts. 344.º e 345.º CT)
-- [nota-de-culpa.md](nota-de-culpa.md) — abertura de processo disciplinar
-- [carta-despedimento-justa-causa.md](carta-despedimento-justa-causa.md) — decisão final do processo disciplinar
-- [acordo-revogacao.md](acordo-revogacao.md) — cessação por mútuo acordo
+- [processo-disciplinar-nota-de-culpa-e-decisao-de-despedimento](../modelos/processo-disciplinar-nota-de-culpa-e-decisao-de-despedimento.md) — processo disciplinar: comunicação, nota de culpa e decisão final (modelo conferido, `obter_modelo`)
+- [acordo-de-revogacao-do-contrato-de-trabalho](../modelos/acordo-de-revogacao-do-contrato-de-trabalho.md) — cessação por mútuo acordo (modelo conferido, `obter_modelo`)
 - [pacto-nao-concorrencia.md](pacto-nao-concorrencia.md) — não concorrência pós-contratual (Art. 136.º CT)
 - [politica-prevencao-assedio.md](politica-prevencao-assedio.md) — código de boa conduta contra o assédio (Art. 127.º CT)
 - [regulamento-interno.md](regulamento-interno.md) — regulamento interno de empresa (Art. 99.º CT; audição e publicitação)
@@ -88,7 +87,7 @@ O nome vai sempre em **maiúsculas, sem acentos**, com algarismos e `_` (o teste
 - [regulamento-canal-denuncias.md](regulamento-canal-denuncias.md) — canal de denúncia interna (Lei 93/2021: 7 dias, 3 meses, confidencialidade)
 
 ### Arrendamento
-- [contrato-arrendamento-habitacional.md](contrato-arrendamento-habitacional.md)
+- [contrato-de-arrendamento-habitacional](../modelos/contrato-de-arrendamento-habitacional.md) (modelo conferido, `obter_modelo`)
 - [carta-atualizacao-renda.md](carta-atualizacao-renda.md)
 - [contrato-arrendamento-nao-habitacional.md](contrato-arrendamento-nao-habitacional.md) — arrendamento comercial/escritórios (Arts. 1108.º-1113.º CC)
 - [contrato-trespasse.md](contrato-trespasse.md) — trespasse de estabelecimento (Art. 1112.º CC; transmissão dos trabalhadores, Art. 285.º CT)

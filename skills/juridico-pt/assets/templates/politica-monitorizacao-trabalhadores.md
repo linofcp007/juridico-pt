@@ -22,7 +22,7 @@
      assiduidade, representantes dos trabalhadores. Escolher as opções marcadas com {{ESCOLHER: …}} e APAGAR os artigos que não se
      aplicam (ex. geolocalização ou biometria, se não existirem). ⏰ Nenhum meio de controlo pode ser usado antes
      de os trabalhadores serem informados. Articular com assets/templates/politica-videovigilancia.md,
-     politica-uso-ia.md, acordo-teletrabalho.md, registo-atividades-tratamento.md e nota-de-culpa.md. -->
+     politica-uso-ia.md, acordo-teletrabalho.md, registo-atividades-tratamento.md e o modelo `processo-disciplinar-nota-de-culpa-e-decisao-de-despedimento`. -->
 
 # POLÍTICA DE UTILIZAÇÃO DOS MEIOS INFORMÁTICOS E DE COMUNICAÇÃO E DE MONITORIZAÇÃO DOS TRABALHADORES
 
@@ -179,7 +179,7 @@ Na Empresa **não são utilizados**, em caso algum:
 ## Artigo 20.º — Utilização da informação obtida
 
 1. A informação obtida pelos meios previstos nesta Política só é usada para as finalidades indicadas em cada artigo.
-2. A utilização de informação em procedimento disciplinar respeita os limites dos arts. 5.º, 14.º, n.º 8, e 16.º, n.º 1, e é sempre precedida de audição do trabalhador no procedimento legal (ver `nota-de-culpa.md`). A prova obtida em violação desta Política ou da lei pode ser considerada ilícita [VERIFICAR jurisprudência].
+2. A utilização de informação em procedimento disciplinar respeita os limites dos arts. 5.º, 14.º, n.º 8, e 16.º, n.º 1, e é sempre precedida de audição do trabalhador no procedimento legal (ver `o modelo `processo-disciplinar-nota-de-culpa-e-decisao-de-despedimento``). A prova obtida em violação desta Política ou da lei pode ser considerada ilícita [VERIFICAR jurisprudência].
 
 ## Artigo 21.º — Incumprimento e sanções
 

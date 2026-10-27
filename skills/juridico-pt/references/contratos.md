@@ -73,5 +73,5 @@ Quando o utilizador pedir, gera estes documentos adaptados ao caso:
 - Termos e Condições para website/app (a pedido)
 - Política de Privacidade RGPD — `assets/templates/politica-privacidade.md`
 - Data Processing Agreement (DPA) EN — `assets/templates/dpa-bilingue.md`
-- Carta de interpelação por incumprimento — `assets/templates/carta-interpelacao-incumprimento.md`
+- Carta de interpelação por incumprimento — `assets/modelos/interpelacao-e-notificacao-extrajudicial.md`
 - Notificação de resolução contratual — `assets/templates/notificacao-resolucao-contrato.md`

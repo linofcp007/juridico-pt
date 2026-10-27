@@ -1,12 +1,12 @@
 ---
-description: Produz um parecer jurídico estruturado sobre a situação. Produces a structured legal opinion on the situation.
+description: Produz um parecer jurídico estruturado, no registo de advogado. Produces a structured legal opinion in a lawyer's register.
 argument-hint: "[descrição da situação]"
 ---
 
-Ativa a skill `juridico-pt`. Produz um parecer jurídico estruturado sobre a situação em $ARGUMENTS, seguindo o formato de parecer do `SKILL.md` (SITUAÇÃO · ENQUADRAMENTO · POSIÇÃO · OPÇÕES · RECOMENDAÇÃO · PRAZOS).
+Segue o skill `redator-juridico` para um parecer sobre a situação em $ARGUMENTS, com a estrutura Da Consulta / Dos Factos / Da Fundamentação / Da Conclusão e o fecho "É este, salvo melhor opinião, o nosso parecer." (formato de parecer do `SKILL.md` do `juridico-pt`: SITUAÇÃO · ENQUADRAMENTO · POSIÇÃO · OPÇÕES · RECOMENDAÇÃO · PRAZOS).
 
-Parte do template `parecer-juridico` (via tool MCP `obter_template` com `nome: parecer-juridico`, ou lê `assets/templates/parecer-juridico.md`). Cita diplomas/artigos com rigor e sinaliza o nível de confiança quando a citação for determinante.
+Parte do template `parecer-juridico` (via tool MCP `obter_template` com `nome: parecer-juridico`, ou lê `assets/templates/parecer-juridico.md`). Cita diplomas e artigos com rigor; o que não estiver confirmado leva `[■ VERIFICAR]`. Gera o Word com `exportar_documento` (Marcação Redator, `@@TIPO: parecer`).
 
-**EN:** Activate the `juridico-pt` skill. Produce a structured legal opinion on the situation in $ARGUMENTS, following the opinion format in `SKILL.md` (SITUATION · FRAMEWORK · POSITION · OPTIONS · RECOMMENDATION · DEADLINES). Start from the `parecer-juridico` template (via the `obter_template` MCP tool with `nome: parecer-juridico`, or read `assets/templates/parecer-juridico.md`). Cite statutes/articles precisely and flag the confidence level when a citation is decisive.
+**EN:** Follow the `redator-juridico` skill for an opinion on the situation in $ARGUMENTS (Consulta / Factos / Fundamentação / Conclusão, closing "É este, salvo melhor opinião, o nosso parecer."). Start from the `parecer-juridico` template via `obter_template`; cite precisely and mark anything unconfirmed with `[■ VERIFICAR]`; export with `exportar_documento` (`@@TIPO: parecer`).
 
 *Exemplos · Examples: "preciso de um parecer sobre rescindir este contrato", "give me a written legal opinion on this dispute".*

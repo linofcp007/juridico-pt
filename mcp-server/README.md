@@ -4,12 +4,12 @@ Servidor **MCP (Model Context Protocol)** que disponibiliza a skill **Jurídico 
 
 ## O que expõe
 
-38 tools no total:
+41 tools no total:
 
 - **Tools — calculadoras** (17): `calc_juros_mora`, `calc_juros_lote`, `calc_prazo`, `calc_compensacao_despedimento`, `calc_custas_injuncao`, `calc_imposto_selo_heranca`, `calc_imt`, `calc_prescricao`, `calc_irs_simplificado`, `calc_creditos_laborais`, `calc_legitima`, `calc_salario_liquido`, `calc_custo_trabalhador`, `calc_irc`, `calc_iva_operacao`, `calc_taxa_justica`, `calc_procedimento_ccp`.
 - **Tools — perfil, calendário e prazos** (10): `obter_perfil_empresa`, `guardar_perfil_empresa`, `listar_perfis`, `ativar_perfil`, `apagar_perfil`, `calendario_obrigacoes`, `registar_prazo`, `listar_prazos`, `concluir_prazo`, `painel_clientes`.
-- **Tools — conteúdo e documentos** (11): `listar_areas_juridicas`, `ler_referencia`, `listar_templates`, `obter_template`, `listar_playbooks`, `obter_playbook`, `listar_checklists`, `obter_checklist`, `procurar_conteudo`, `exportar_documento` (`.docx`), `verificar_atualidade`.
-- **Resources**: todo o conteúdo jurídico em `juridico-pt://{categoria}/{nome}` (referências, templates, playbooks, checklists).
+- **Tools — conteúdo e documentos** (14): `listar_areas_juridicas`, `ler_referencia`, `listar_templates`, `obter_template`, `listar_playbooks`, `obter_playbook`, `listar_checklists`, `obter_checklist`, `procurar_conteudo`, `exportar_documento` (`.docx`), `verificar_atualidade`, `listar_modelos`, `obter_modelo`, `verificar_redacao`.
+- **Resources**: todo o conteúdo jurídico em `juridico-pt://{categoria}/{nome}` (referências, modelos conferidos, templates, guias de redação, playbooks, checklists).
 - **Prompt**: `assistente_juridico` — ativa o assistente jurídico de direito português.
 
 ## Instalação rápida
@@ -54,4 +54,4 @@ O conteúdo jurídico é o mesmo da skill `juridico-pt`; ao atualizar a skill, c
 
 ## Aviso legal
 
-Orientação informativa baseada na legislação portuguesa. Não substitui advogado inscrito na Ordem dos Advogados. Licença MIT.
+Redação no registo de advogado português; o sistema nunca afirma inscrição na Ordem dos Advogados e cada documento precisa de revisão antes de ser assinado. Licença MIT.

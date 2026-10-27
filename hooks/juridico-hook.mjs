@@ -61,7 +61,8 @@ const CAMPOS_PERFIL = [
   "forma_juridica", "denominacao", "setor", "trabalhadores", "volume_negocios", "regime_iva",
   "contabilidade", "clientes", "dados_pessoais", "linguas", "notas",
   "cae", "concelho", "fim_periodo_tributacao", "imoveis", "viaturas", "setor_nis2", "vendas_b2c",
-  "trabalhadores_estrangeiros", "emite_faturas", "atualizado_em",
+  "trabalhadores_estrangeiros", "emite_faturas",
+  "advogado_nome", "advogado_cedula", "advogado_domicilio", "advogado_email", "advogado_nif", "atualizado_em",
 ];
 const MS_12_MESES = 365 * 24 * 60 * 60 * 1000;
 // O perfil é texto do utilizador (ou de um repositório de terceiros): entra no contexto como
@@ -233,7 +234,7 @@ const LIMITE_LINHA = 200;
 
 /** Linha única (<= 200 caracteres) para projetos sem .juridico-pt/: junta as partes por prioridade. */
 function linhaCurta(home, hoje, mcpEmFalta = false) {
-  const partes = ["⚖️ Jurídico PT (juridico-pt): assistente jurídico PT/EN — /advogado /cobrar /prazo. Não substitui advogado (OA)."];
+  const partes = ["⚖️ Jurídico PT: direito PT/EN no registo de advogado — /advogado /contrato /prazo. Revisão antes de assinar."];
   if (mcpEmFalta) partes.push("⚠️ MCP por construir: npm run setup.");
   if (partesAtualidade(hoje).length) partes.push("⚠️ Conteúdo desatualizado: atualiza o plugin.");
   let geral = false;
@@ -268,10 +269,10 @@ export function mensagemSessionStart(opts = {}) {
   }
   if (!comDados) return linhaCurta(home, hoje, opts.mcpEmFalta === true);
   let msg =
-    "⚖️ Jurídico PT ativo — assistente jurídico de Portugal · active — legal assistant for Portugal. " +
+    "⚖️ Jurídico PT ativo — redação e orientação jurídica de Portugal no registo de advogado · active — Portuguese legal drafting. " +
     "Comandos / commands: /advogado /parecer /cobrar /contrato /prazo /prazos /calendario /painel /defesa /rgpd /despedir /fisco /perfil /exportar /diagnostico. " +
     "Valores em valores-2026; confirma prazos a correr · check running deadlines. " +
-    "Orientação informativa, não substitui advogado inscrito na OA · informational guidance, not a substitute for a registered lawyer.";
+    "Nunca afirma inscrição na OA; cada documento leva revisão antes de assinar · never claims Bar membership; every document is reviewed before signing.";
   try {
     const p = lerPerfilAtivo(projeto, home, hoje);
     if (p) {

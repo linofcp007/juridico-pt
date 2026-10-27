@@ -1,6 +1,6 @@
 # Jurídico PT — Skill de Assessoria Jurídica para Claude
 
-Skill personalizada para o Claude atuar como assistente jurídico pessoal e empresarial em Portugal (não substitui advogado inscrito na Ordem dos Advogados) — para **qualquer empresa** (ENI, Unipessoal Lda, Lda, SA; qualquer setor e dimensão) e para particulares, adaptando-se ao **perfil da empresa** guardado no projeto.
+Skill personalizada para o Claude redigir e aconselhar em direito português, sempre no registo de advogado (nunca afirma inscrição na Ordem dos Advogados; cada documento é revisto pelo advogado responsável ou por quem o assina) — para **escritórios de advogados**, contabilistas, **qualquer empresa** (ENI, Unipessoal Lda, Lda, SA; qualquer setor e dimensão) e para particulares, adaptando-se ao **perfil da empresa** guardado no projeto.
 
 ## Disponível em todas as IAs
 
@@ -17,7 +17,7 @@ Há três formas de o usar no Claude. Escolhe pela app onde trabalhas:
 | | **Plugin** (recomendado) | **Extensão `.mcpb`** | **Skill `.skill`** |
 |---|---|---|---|
 | Onde | Claude Code; conta claude.ai / app Claude (**Customize > Plugins**), sincronizado com o Claude Code | Conversas da app Claude Desktop, no computador onde a instalas | Claude.ai, Claude Desktop e Claude Code (sistema de Skills) |
-| O que traz | Tudo: o conteúdo jurídico, as 38 tools (calculadoras, perfil, prazos, calendário, exportação `.docx`), os slash commands, os hooks (aviso de prazos e de atualidade ao abrir a sessão) e os subagentes | Só o servidor MCP: as 38 tools, o conteúdo como resources e o prompt `assistente_juridico` — sem commands, hooks nem subagentes | O conteúdo, as instruções e as calculadoras em Python (quando o Claude pode executar código) — sem as tools do servidor |
+| O que traz | Tudo: o conteúdo jurídico, as 41 tools (calculadoras, modelos conferidos, verificador de redação, perfil, prazos, calendário, exportação `.docx`), os slash commands, os hooks (aviso de prazos e de atualidade ao abrir a sessão) e os subagentes | Só o servidor MCP: as 41 tools, o conteúdo como resources e o prompt `assistente_juridico` — sem commands, hooks nem subagentes | O conteúdo, as instruções e as calculadoras em Python (quando o Claude pode executar código) — sem as tools do servidor |
 | Node.js | ≥ 18 no computador (servidor MCP e hooks) | Não é preciso: usa o que o Claude Desktop traz | Não é preciso |
 | Atualizações | Automáticas, a partir deste repositório | À mão: instalar o `.mcpb` novo | À mão: carregar o `.skill` novo |
 
@@ -93,7 +93,7 @@ juridico-pt/                     # plugin Claude Code
 │   ├── assets/checklists/ (12)
 │   ├── playbooks/    (14)      # árvores de decisão
 │   └── scripts/      (15)      # calculadoras Python + testes
-├── mcp-server/                 # servidor MCP TypeScript (38 tools + resources + prompt); build:mcpb → extensão .mcpb
+├── mcp-server/                 # servidor MCP TypeScript (41 tools + resources + prompt); build:mcpb → extensão .mcpb
 ├── evals/                      # 53 casos para o `claude plugin eval` (golden, adversariais, regressão)
 ├── integrations/               # configs por plataforma (Claude Desktop, Cursor, Windsurf, Codex, Gemini, ChatGPT)
 ├── .cursor/ .windsurf/ .gemini/ .vscode/   # dotfiles de editor (dogfooding)
@@ -184,6 +184,14 @@ Os valores legais mudam — ver `CLAUDE.md` para o guia completo. Pontos de revi
 
 > Histórico formal (SemVer) em [CHANGELOG.md](CHANGELOG.md). Resumo da evolução:
 
+- **v3.0.0 (2026-10)**: **redator jurídico** — escreve no registo de um advogado português, com revisão antes de assinar (nunca afirma inscrição na OA). Traz:
+  - 12 modelos conferidos (`listar_modelos` / `obter_modelo`), que substituem 7 templates;
+  - exportação `.docx` forense a partir da Marcação Redator, com recusa de marcas internas;
+  - verificador de redação PT-PT (`verificar_redacao`);
+  - índice de normas conferidas, usado pelo `verificador-citacoes`;
+  - advogado responsável no perfil;
+  - skill e pacote `redator-juridico`;
+  - 68 casos de avaliação.
 - **v2.0.2 (2026-10)**: correções da revisão pós-lançamento (rubrica 15/15, 0 normas inventadas) — efeito da impugnação das coimas laborais (Lei 13/2023), queixa por cibercrime, notificações eletrónicas da AT e nova secção de revogação por acordo e quitação no `laboral.md`; `.mcpb` e `.skill` descarregáveis da última release.
 - **v2.0.1 (2026-10)**: o CLI (`calc`, `calendario`, `prazos`, `painel`, `exportar`, `atualidade`) e o `/diagnostico` funcionam no plugin instalado pelo marketplace (bundle versionado `dist/cli-lib.js`); documentação de instalação (plugin, extensão `.mcpb` ou skill) e de migração revista.
 - **v2.0.0 (2026-10)**: passa a chamar-se **juridico-pt** e apresenta-se como **assistente jurídico** (repositório renomeado para github.com/linofcp007/juridico-pt; dados em `.juridico-pt/`); faturação eletrónica 2027, cobrança em lote e PEPEX, contratação pública (limiares do DL 177/2026), NIS2, fundos europeus, 5 templates do dia a dia; **modo contabilista** (`/painel`, prazos e `.ics` por perfil); exportação `.docx`, extensão `.mcpb` para o Claude Desktop e perfil por formulário; aviso de atualidade dos valores; subagentes `verificador-citacoes` e `revisor-contratos`; privacidade (`apagar_perfil`, conservação de 12 meses); 53 casos de avaliação.

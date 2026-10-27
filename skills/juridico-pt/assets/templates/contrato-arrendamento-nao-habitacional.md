@@ -24,7 +24,7 @@
        `references/valores-2026.md`). Recibos de renda eletrónicos (senhorio pessoa singular).
      - Caução: até ao valor de duas rendas (art. 1076.º, n.º 2, CC, na redação da Lei 24-D/2022) [VERIFICAR — se o
        limite abrange a fiança de sócios/gerentes e a garantia bancária no arrendamento comercial].
-     - Arrendamento para habitação: `assets/templates/contrato-arrendamento-habitacional.md`. Regime geral:
+     - Arrendamento para habitação: `assets/modelos/contrato-de-arrendamento-habitacional.md`. Regime geral:
        `references/arrendamento.md`. Trespasse do estabelecimento: `assets/templates/contrato-trespasse.md`. -->
 
 # CONTRATO DE ARRENDAMENTO URBANO PARA FINS NÃO HABITACIONAIS
