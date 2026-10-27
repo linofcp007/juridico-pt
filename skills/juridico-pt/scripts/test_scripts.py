@@ -621,22 +621,23 @@ class TestV30Redator(unittest.TestCase):
                 esperado = sorted(c["esperado"], key=lambda x: (x[0], x[2], x[1]))
                 self.assertEqual(obtido, esperado, c["nome"])
 
-    def test_T444_build_gera_dois_skill_e_o_redator_abre_sozinho(self):
+    def test_T444_build_gera_um_skill_com_o_fluxo_do_redator(self):
+        # Desde a 3.0.1: um só pacote, com o fluxo do redator e tudo o que ele cita lá dentro.
         import tempfile
         import zipfile
         with tempfile.TemporaryDirectory() as d:
             r = _correr([os.path.join(_RAIZ, "build.py"), "--out", d], cwd=_RAIZ)
             self.assertEqual(r.returncode, 0, r.stdout + r.stderr)
-            for nome in ("juridico-pt.skill", "redator-juridico.skill"):
-                self.assertTrue(os.path.exists(os.path.join(d, nome)), "falta " + nome)
-            with zipfile.ZipFile(os.path.join(d, "redator-juridico.skill")) as z:
+            self.assertEqual(sorted(f for f in os.listdir(d) if f.endswith(".skill")), ["juridico-pt.skill"])
+            with zipfile.ZipFile(os.path.join(d, "juridico-pt.skill")) as z:
                 nomes = set(z.namelist())
-                skill = z.read("redator-juridico/SKILL.md").decode("utf-8")
-            self.assertNotIn("../", skill, "o SKILL.md empacotado ainda aponta para ../")
-            citados = set(re.findall(r"recursos/[\w./-]+\.(?:md|py|json)", skill))
-            self.assertTrue(citados, "o SKILL.md empacotado não cita recursos/")
+                guia = z.read("juridico-pt/assets/redacao/redator.md").decode("utf-8")
+            self.assertNotIn("../", guia, "o fluxo do redator aponta para fora do skill")
+            citados = set(re.findall(r"`((?:assets|references|scripts)/[\w./-]+\.(?:md|py|json))`", guia))
+            self.assertTrue(citados, "o fluxo do redator não cita ficheiros do skill")
             for c in citados:
-                self.assertIn("redator-juridico/" + c, nomes, "não está no pacote: " + c)
+                self.assertIn("juridico-pt/" + c, nomes, "não está no pacote: " + c)
+            self.assertIn("juridico-pt/assets/modelos/contrato-de-honorarios.md", nomes)
 
 
 if __name__ == "__main__":

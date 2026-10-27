@@ -153,7 +153,8 @@
   - _Requirements: US-7.AC-1, US-1.AC-1, US-1.AC-4, US-1.AC-8, US-2.AC-2, US-2.AC-4, US-2.AC-6, US-5.AC-1, US-5.AC-2, US-5.AC-3, US-5.AC-4, US-5.AC-5, EC-1, EC-2, EC-3, EC-4, EC-6_
   - _Makes green: T-409, T-441, T-451_
   - _Affects evals: golden (g41–g50), adversarial (a09–a13)_
-  - _Implements: skills/redator-juridico/SKILL.md, skills/juridico-pt/SKILL.md_
+  - _Implements: skills/juridico-pt/assets/redacao/redator.md, skills/juridico-pt/SKILL.md_
+  - _Nota (3.0.1): o skill `skills/redator-juridico/` passou a ser o guia `assets/redacao/redator.md` do juridico-pt (alteração juridico-pt-v3-0-1-redator-unificado, que substitui o US-7.AC-1, o US-7.AC-3 e o US-7.AC-4)._
   - _Verify: cd mcp-server && npm run build && node --test --test-name-pattern "T-401|T-409|T-441|T-451" test/v30.test.mjs test/plugin.test.mjs_
 - [x] 19. [US1] Aviso antigo fora do hook de sessão, dos manifestos e da documentação. Abrange `hooks/juridico-hook.mjs`, `plugin.json`, `marketplace.json`, os dois `package.json`, README, INSTALL, `llms-install.md`, `mcp-server/README.md`, `build-mcpb.mjs`, o CLI e os agentes.
   - _Requirements: US-1.AC-5_

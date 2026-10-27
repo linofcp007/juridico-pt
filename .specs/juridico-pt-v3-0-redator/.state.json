@@ -119,10 +119,10 @@
       }
     },
     "tasks": {
-      "at": "2026-10-27T13:02:25.339Z",
+      "at": "2026-10-27T16:48:51.140Z",
       "by": "Administrator",
-      "fingerprint": "5ef121d5cdf6e8ac48c5a57bb74141d30aec740a",
-      "wsFingerprint": "7c7e6f0522b2de695e44bd80629c940b713ef0fa"
+      "fingerprint": "c4952dd6de715be0af3344073e63730c295efb8d",
+      "wsFingerprint": "62578aa29825e9079797fbb4afd4e96304a305af"
     },
     "execution": {
       "at": "2026-10-27T16:31:40.483Z",
@@ -378,9 +378,17 @@
       "phase": "execution",
       "at": "2026-10-27T16:31:40.483Z",
       "by": "Administrator"
+    },
+    {
+      "phase": "tasks",
+      "at": "2026-10-27T16:48:51.140Z",
+      "by": "Administrator",
+      "fingerprint": "c4952dd6de715be0af3344073e63730c295efb8d",
+      "wsFingerprint": "62578aa29825e9079797fbb4afd4e96304a305af",
+      "snapshot": ".history/tasks@2.md"
     }
   ],
-  "lastApprovedPhase": "execution",
+  "lastApprovedPhase": "tasks",
   "lastEditAt": "2026-10-27T12:56:15.358Z",
   "evidence": {
     "1": {
@@ -962,14 +970,14 @@
     "mcp-test": {
       "command": "npm --prefix mcp-server test",
       "exitCode": 0,
-      "summary": "249 testes: 247 pass, 0 fail; SMOKE OK",
-      "at": "2026-10-27T16:28:06.549Z",
-      "commit": "9380f72",
+      "summary": "247 pass, 0 fail; SMOKE OK",
+      "at": "2026-10-27T16:45:34.124Z",
+      "commit": "4ac96fb",
       "dirty": false,
       "observed": false,
       "cmdRule": 1,
       "check": "npm --prefix mcp-server test",
-      "code": "094e541a08e0974fb887de7d562e6c3d0b22f6f3",
+      "code": "86769f77bc5fd174dbda874666332ad492d0f891",
       "history": [
         {
           "command": "npm --prefix mcp-server test",
@@ -980,6 +988,26 @@
           "dirty": false,
           "observed": false,
           "cmdRule": 1
+        },
+        {
+          "command": "npm --prefix mcp-server test",
+          "exitCode": 0,
+          "summary": "247 pass, 0 fail; SMOKE OK (depois da 3.0.1)",
+          "at": "2026-10-27T16:44:22.768Z",
+          "commit": "3412378",
+          "dirty": false,
+          "observed": false,
+          "cmdRule": 1
+        },
+        {
+          "command": "npm --prefix mcp-server test",
+          "exitCode": 0,
+          "summary": "247 pass, 0 fail; SMOKE OK",
+          "at": "2026-10-27T16:45:34.124Z",
+          "commit": "4ac96fb",
+          "dirty": false,
+          "observed": false,
+          "cmdRule": 1
         }
       ]
     },
@@ -987,13 +1015,13 @@
       "command": "python skills/juridico-pt/scripts/test_scripts.py",
       "exitCode": 0,
       "summary": "Ran 55 tests OK",
-      "at": "2026-10-27T16:28:06.549Z",
-      "commit": "9380f72",
+      "at": "2026-10-27T16:45:34.124Z",
+      "commit": "4ac96fb",
       "dirty": false,
       "observed": false,
       "cmdRule": 1,
       "check": "python skills/juridico-pt/scripts/test_scripts.py",
-      "code": "094e541a08e0974fb887de7d562e6c3d0b22f6f3",
+      "code": "86769f77bc5fd174dbda874666332ad492d0f891",
       "history": [
         {
           "command": "python skills/juridico-pt/scripts/test_scripts.py",
@@ -1001,6 +1029,26 @@
           "summary": "Ran 55 tests OK",
           "at": "2026-10-27T16:28:06.549Z",
           "commit": "9380f72",
+          "dirty": false,
+          "observed": false,
+          "cmdRule": 1
+        },
+        {
+          "command": "python skills/juridico-pt/scripts/test_scripts.py",
+          "exitCode": 0,
+          "summary": "Ran 55 tests OK (depois da 3.0.1)",
+          "at": "2026-10-27T16:44:22.768Z",
+          "commit": "3412378",
+          "dirty": false,
+          "observed": false,
+          "cmdRule": 1
+        },
+        {
+          "command": "python skills/juridico-pt/scripts/test_scripts.py",
+          "exitCode": 0,
+          "summary": "Ran 55 tests OK",
+          "at": "2026-10-27T16:45:34.124Z",
+          "commit": "4ac96fb",
           "dirty": false,
           "observed": false,
           "cmdRule": 1

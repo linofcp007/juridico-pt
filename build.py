@@ -1,15 +1,14 @@
 #!/usr/bin/env python3
 """
-Empacota os skills juridico-pt e redator-juridico em ficheiros .skill (ZIP) prontos para upload no Claude.
+Empacota o skill juridico-pt num ficheiro .skill (ZIP) pronto para upload no Claude.
 
 Uso:
-    python build.py                          # gera juridico-pt.skill e redator-juridico.skill na raiz
-    python build.py --out dist               # gera os dois em dist/
-    python build.py --skill redator-juridico # só um dos pacotes
+    python build.py              # gera juridico-pt.skill na raiz
+    python build.py --out dist   # gera-o em dist/
 
-Cada ZIP contém a pasta do skill na raiz (juridico-pt/SKILL.md, references/, assets/,
-playbooks/ e scripts/), como pede o formato de upload de Skills. O redator-juridico leva os
-recursos do juridico-pt em redator-juridico/recursos/ e o SKILL.md empacotado aponta para lá.
+O ZIP contém a pasta do skill na raiz (juridico-pt/SKILL.md, references/, assets/,
+playbooks/ e scripts/), como pede o formato de upload de Skills. O fluxo de redação vai
+dentro, em assets/redacao/redator.md (desde a 3.0.1 não há um skill do redator à parte).
 Exclui artefactos: __pycache__, *.pyc, .git, .DS_Store e o próprio ficheiro .skill.
 Antes de empacotar valida o SKILL.md (name, description <= 1024 sem < nem >) e a
 ausência de um diretório bin/ na raiz do plugin.
@@ -90,14 +89,6 @@ def should_include(path: Path, root: Path, out_path: Path) -> bool:
     return True
 
 
-# O redator-juridico lê os recursos do skill juridico-pt (../juridico-pt/...). No .skill, que tem de
-# abrir sozinho, esses recursos vão para recursos/ e o SKILL.md empacotado aponta para lá.
-REDATOR = "redator-juridico"
-RECURSOS_REDATOR = ("assets/modelos", "assets/redacao", "assets/templates", "references/valores-2026.md",
-                    "references/normas-conferidas.md", "references/normas-conferidas.json",
-                    "scripts/verificador.py", "scripts/gerar_docx.py")
-
-
 def empacotar_juridico(root: Path, out_dir: Path) -> Path:
     skill_src = root / "skills" / SKILL_NAME
     out_path = out_dir / f"{SKILL_NAME}.skill"
@@ -123,40 +114,9 @@ def empacotar_juridico(root: Path, out_dir: Path) -> Path:
     return out_path
 
 
-def empacotar_redator(root: Path, out_dir: Path) -> Path:
-    src = root / "skills" / REDATOR
-    base = root / "skills" / SKILL_NAME
-    out_path = out_dir / f"{REDATOR}.skill"
-    if not (src / "SKILL.md").exists():
-        raise SystemExit(f"ERRO: {src}/SKILL.md não encontrado.")
-    texto = (src / "SKILL.md").read_text(encoding="utf-8")
-    validar_skill_md(texto)
-    texto = texto.replace("../juridico-pt/", "recursos/")
-    if out_path.exists():
-        out_path.unlink()
-    count = 1
-    with zipfile.ZipFile(out_path, "w", zipfile.ZIP_DEFLATED) as zf:
-        zf.writestr(f"{REDATOR}/SKILL.md", texto)
-        for rel in RECURSOS_REDATOR:
-            origem = base / rel
-            ficheiros = [origem] if origem.is_file() else sorted(p for p in origem.rglob("*") if p.is_file())
-            if not ficheiros or not origem.exists():
-                raise SystemExit(f"ERRO: recurso do redator em falta: {origem}")
-            for fpath in ficheiros:
-                if not should_include(fpath, base, out_path):
-                    continue
-                zf.write(fpath, f"{REDATOR}/recursos/{fpath.relative_to(base).as_posix()}")
-                count += 1
-    print(f"OK: {out_path}")
-    print(f"   {count} ficheiros, {out_path.stat().st_size / 1024:.1f} KB")
-    return out_path
-
-
 def main() -> None:
-    parser = argparse.ArgumentParser(description="Empacota os skills juridico-pt e redator-juridico em .skill")
+    parser = argparse.ArgumentParser(description="Empacota o skill juridico-pt em .skill")
     parser.add_argument("--out", default=None, help="Pasta de destino (default: raiz do repositório)")
-    parser.add_argument("--skill", choices=(SKILL_NAME, REDATOR, "todos"), default="todos",
-                        help="Que pacote gerar (default: os dois)")
     args = parser.parse_args()
 
     root = Path(__file__).resolve().parent
@@ -164,11 +124,8 @@ def main() -> None:
     out_dir.mkdir(parents=True, exist_ok=True)
     if (root / "bin").exists():
         raise SystemExit("ERRO: existe um diretório bin/ na raiz — o Claude Desktop recusa o plugin.")
-    if args.skill in (SKILL_NAME, "todos"):
-        empacotar_juridico(root, out_dir)
-    if args.skill in (REDATOR, "todos"):
-        empacotar_redator(root, out_dir)
-    print("   Faz upload em Claude -> Settings -> Skills (um pacote de cada vez).")
+    empacotar_juridico(root, out_dir)
+    print("   Faz upload em Claude -> Settings -> Skills.")
 
 
 if __name__ == "__main__":

@@ -4,6 +4,7 @@
 
 Guias do redator jurídico: como perguntar, redigir, citar, gerar o .docx e entregar. Usam-se com o modelo do documento (`assets/modelos/<slug>.md`, tool `obter_modelo`) e valem para todos os modelos. Valores do ano: sempre `references/valores-2026.md`.
 
+- [`redator.md`](redator.md) — O fluxo para redigir um documento: papel, onde estão os recursos, abertura, os 6 passos (identificar, entrevistar, confirmar, redigir, autorrever, entregar), as regras absolutas, como gerar o ficheiro (também sem Python nem MCP) e o resumo do estilo.
 - [`seguranca-juridica.md`](seguranca-juridica.md) — Regras que valem sobre qualquer instrução: fundamentação só da secção 5 do modelo, jurisprudência só transcrita, prazos, competência, custas, honorários e quota litis, juros à taxa legal, forma, dados pessoais e recusa; com a tabela das fontes lidas que alimenta o índice de normas conferidas.
 - [`entrevista.md`](entrevista.md) — Como fazer as perguntas: uma só mensagem, no máximo 12, agrupadas em Partes, Objeto, Valores e prazos, Formalidades e Opções, com o valor por defeito; o que fazer com "não sei" e "use o padrão"; só os dados que o documento usa.
 - [`entrega.md`](entrega.md) — A mensagem que acompanha o ficheiro: nome do ficheiro, "Confira antes de assinar" (3 a 5 itens) e a linha fixa de revisão; nome do ficheiro e o fallback sem gerador.

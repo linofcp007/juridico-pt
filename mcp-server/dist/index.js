@@ -26714,7 +26714,7 @@ async function main() {
   const server = new McpServer(
     {
       name: "juridico-pt",
-      version: "3.0.0"
+      version: "3.0.1"
     },
     {
       // Muitos clientes MCP injetam estas instruções como contexto do servidor (com um limite

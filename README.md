@@ -184,6 +184,7 @@ Os valores legais mudam — ver `CLAUDE.md` para o guia completo. Pontos de revi
 
 > Histórico formal (SemVer) em [CHANGELOG.md](CHANGELOG.md). Resumo da evolução:
 
+- **v3.0.1 (2026-10)**: o redator jurídico passa a fazer parte do skill `juridico-pt` (fluxo em `assets/redacao/redator.md`): um só skill e um só pacote `juridico-pt.skill`.
 - **v3.0.0 (2026-10)**: **redator jurídico** — escreve no registo de um advogado português, com revisão antes de assinar (nunca afirma inscrição na OA). Traz:
   - 12 modelos conferidos (`listar_modelos` / `obter_modelo`), que substituem 7 templates;
   - exportação `.docx` forense a partir da Marcação Redator, com recusa de marcas internas;

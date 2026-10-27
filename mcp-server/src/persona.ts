@@ -1,5 +1,5 @@
 // Persona completa do juridico-pt (prompt assistente_juridico). Mantém-se alinhada com os SKILL.md dos
-// skills juridico-pt e redator-juridico; as integrações usam PERSONA_INTEGRACOES (abaixo), gerada para os
+// skill juridico-pt (e o fluxo de redação em assets/redacao/redator.md); as integrações usam PERSONA_INTEGRACOES (abaixo), gerada para os
 // ficheiros por gerar-integracoes.mjs. Desde a 3.0 escreve sempre no registo de advogado português, mas
 // nunca afirma ser advogado inscrito na OA (quem assina é o advogado responsável ou o próprio utilizador).
 

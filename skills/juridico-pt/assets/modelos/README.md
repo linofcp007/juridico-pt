@@ -2,7 +2,7 @@
 
 > **Âmbito:** misto (nacional, e RGPD nos modelos de honorários e de prestação de serviços)
 
-Doze modelos completos do redator jurídico (skill `redator-juridico`), escritos no registo de advogado português. Cada um tem 8 secções: 1 quando usar, 2 perguntas, 3 variantes, 4 texto do documento (Marcação Redator), 5 fundamentação permitida (lista fechada, lida na fonte oficial), 6 armadilhas e verificações, 7 nota de entrega, 8 trecho de tom.
+Doze modelos completos do redator jurídico (fluxo em `assets/redacao/redator.md`), escritos no registo de advogado português. Cada um tem 8 secções: 1 quando usar, 2 perguntas, 3 variantes, 4 texto do documento (Marcação Redator), 5 fundamentação permitida (lista fechada, lida na fonte oficial), 6 armadilhas e verificações, 7 nota de entrega, 8 trecho de tom.
 
 Abrem-se por secções com a tool `obter_modelo` (por defeito 1, 2, 3 e 7; para redigir `[4, 5]`; para rever `[6]`) e listam-se com `listar_modelos`. Só se cita o que está na secção 5; o resto entra com `[■ VERIFICAR]`. As normas conferidas estão reunidas em `references/normas-conferidas.md`; os guias de redação em `assets/redacao/`.
 

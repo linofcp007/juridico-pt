@@ -1,0 +1,209 @@
+{
+  "lang": "pt",
+  "kind": "change",
+  "size": "xs",
+  "tracks": [
+    "core"
+  ],
+  "approvals": {
+    "tasks": {
+      "at": "2026-10-27T16:37:20.179Z",
+      "by": "Administrator",
+      "fingerprint": "3183733b40bb3695d8eec82900e220bb4a0e78cb",
+      "file": "change.md",
+      "wsFingerprint": "87cbfccde1a66f8253d644e823fa954f715aaed4",
+      "batch": true
+    },
+    "execution": {
+      "at": "2026-10-27T16:48:52.198Z",
+      "by": "Administrator"
+    }
+  },
+  "createdAt": "2026-10-27T16:35:54.640Z",
+  "branch": {
+    "name": "feature/juridico-pt-v3-0-1-redator-unificado",
+    "base": "main",
+    "commit": "b26e26a76d017cefeb39c2f45e93687650512c40",
+    "at": "2026-10-27T16:35:54.640Z"
+  },
+  "lastEditAt": "2026-10-27T16:37:16.332Z",
+  "approvalHistory": [
+    {
+      "phase": "tasks",
+      "at": "2026-10-27T16:37:20.179Z",
+      "by": "Administrator",
+      "file": "change.md",
+      "fingerprint": "3183733b40bb3695d8eec82900e220bb4a0e78cb",
+      "wsFingerprint": "87cbfccde1a66f8253d644e823fa954f715aaed4",
+      "batch": true,
+      "snapshot": ".history/tasks@1.md"
+    },
+    {
+      "phase": "execution",
+      "at": "2026-10-27T16:48:52.198Z",
+      "by": "Administrator"
+    }
+  ],
+  "lastApprovedPhase": "execution",
+  "evidence": {
+    "1": {
+      "command": "cd mcp-server && npm run build && node --test --test-name-pattern \"T-401|T-406|T-409|T-441|T-445|T-451\" test/plugin.test.mjs test/v30.test.mjs",
+      "exitCode": 0,
+      "summary": "pass 6, fail 0 (um só skill; fluxo em assets/redacao/redator.md; SKILL.md 430 linhas, description 1019 caracteres com gatilhos de redação; commands pelo guia)",
+      "at": "2026-10-27T16:40:10.179Z",
+      "observed": false,
+      "cmdRule": 1,
+      "history": [
+        {
+          "command": "cd mcp-server && npm run build && node --test --test-name-pattern \"T-401|T-406|T-409|T-441|T-445|T-451\" test/plugin.test.mjs test/v30.test.mjs",
+          "exitCode": 0,
+          "summary": "pass 6, fail 0 (um só skill; fluxo em assets/redacao/redator.md; SKILL.md 430 linhas, description 1019 caracteres com gatilhos de redação; commands pelo guia)",
+          "at": "2026-10-27T16:40:10.179Z",
+          "observed": false,
+          "cmdRule": 1
+        }
+      ],
+      "task": "[US1] Fluxo do redator em `assets/redacao/redator.md`. Inclui:",
+      "verify": "cd mcp-server && npm run build && node --test --test-name-pattern \"T-401|T-406|T-409|T-441|T-445|T-451\" test/plugin.test.mjs test/v30.test.mjs"
+    },
+    "2": {
+      "command": "python -I skills/juridico-pt/scripts/test_scripts.py TestV30Redator.test_T444_build_gera_um_skill_com_o_fluxo_do_redator",
+      "exitCode": 0,
+      "summary": "Ran 1 test OK (build.py gera só juridico-pt.skill, com assets/redacao/redator.md, os ficheiros que ele cita e os modelos)",
+      "at": "2026-10-27T16:40:53.139Z",
+      "observed": false,
+      "cmdRule": 1,
+      "history": [
+        {
+          "command": "python -I skills/juridico-pt/scripts/test_scripts.py TestV30Redator.test_T444_build_gera_um_skill_com_o_fluxo_do_redator",
+          "exitCode": 0,
+          "summary": "Ran 1 test OK (build.py gera só juridico-pt.skill, com assets/redacao/redator.md, os ficheiros que ele cita e os modelos)",
+          "at": "2026-10-27T16:40:53.139Z",
+          "observed": false,
+          "cmdRule": 1
+        }
+      ],
+      "task": "[US1] `build.py` com um só pacote. O T-444 (Python) verifica que só sai `juridico-pt.skill`, com `assets/redacao/redator.md` e os modelos dentro.",
+      "verify": "python -I skills/juridico-pt/scripts/test_scripts.py TestV30Redator.test_T444_build_gera_um_skill_com_o_fluxo_do_redator"
+    },
+    "3": {
+      "command": "cd mcp-server && npm test && cd .. && python -I skills/juridico-pt/scripts/test_scripts.py",
+      "exitCode": 0,
+      "summary": "npm test 247 pass / 0 fail + SMOKE OK; Python 55 OK. Versão 3.0.1 nos 6 sítios e no package-lock; CHANGELOG [3.0.1]; README e CLAUDE.md; T-450 aceita 3.0.x; bundles e content/ regenerados",
+      "at": "2026-10-27T16:43:00.720Z",
+      "observed": false,
+      "cmdRule": 1,
+      "history": [
+        {
+          "command": "cd mcp-server && npm test && cd .. && python -I skills/juridico-pt/scripts/test_scripts.py",
+          "exitCode": 0,
+          "summary": "npm test 247 pass / 0 fail + SMOKE OK; Python 55 OK. Versão 3.0.1 nos 6 sítios e no package-lock; CHANGELOG [3.0.1]; README e CLAUDE.md; T-450 aceita 3.0.x; bundles e content/ regenerados",
+          "at": "2026-10-27T16:43:00.720Z",
+          "observed": false,
+          "cmdRule": 1
+        }
+      ],
+      "task": "[US1] Versão 3.0.1 nos 6 sítios e no package-lock, mais:",
+      "verify": "cd mcp-server && npm test && cd .. && python -I skills/juridico-pt/scripts/test_scripts.py"
+    }
+  },
+  "lastTickAt": "2026-10-27T16:43:00.720Z",
+  "ticks": {
+    "1": "2026-10-27T16:40:10.179Z",
+    "2": "2026-10-27T16:40:53.139Z",
+    "3": "2026-10-27T16:43:00.720Z"
+  },
+  "finishChecks": {
+    "mcp-test": {
+      "command": "npm --prefix mcp-server test",
+      "exitCode": 0,
+      "summary": "247 pass, 0 fail; SMOKE OK",
+      "at": "2026-10-27T16:45:34.663Z",
+      "commit": "4ac96fb",
+      "dirty": false,
+      "observed": false,
+      "cmdRule": 1,
+      "check": "npm --prefix mcp-server test",
+      "code": "1885ec8ef958419669fe33d248bbb210c69ecdd8",
+      "history": [
+        {
+          "command": "npm --prefix mcp-server test",
+          "exitCode": 0,
+          "summary": "247 pass, 0 fail; SMOKE OK",
+          "at": "2026-10-27T16:43:34.232Z",
+          "commit": "3412378",
+          "dirty": false,
+          "observed": false,
+          "cmdRule": 1
+        },
+        {
+          "command": "npm --prefix mcp-server test",
+          "exitCode": 0,
+          "summary": "247 pass, 0 fail; SMOKE OK",
+          "at": "2026-10-27T16:45:34.663Z",
+          "commit": "4ac96fb",
+          "dirty": false,
+          "observed": false,
+          "cmdRule": 1
+        }
+      ]
+    },
+    "py-test": {
+      "command": "python skills/juridico-pt/scripts/test_scripts.py",
+      "exitCode": 0,
+      "summary": "Ran 55 tests OK",
+      "at": "2026-10-27T16:45:34.663Z",
+      "commit": "4ac96fb",
+      "dirty": false,
+      "observed": false,
+      "cmdRule": 1,
+      "check": "python skills/juridico-pt/scripts/test_scripts.py",
+      "code": "1885ec8ef958419669fe33d248bbb210c69ecdd8",
+      "history": [
+        {
+          "command": "python skills/juridico-pt/scripts/test_scripts.py",
+          "exitCode": 0,
+          "summary": "Ran 55 tests OK",
+          "at": "2026-10-27T16:43:34.232Z",
+          "commit": "3412378",
+          "dirty": false,
+          "observed": false,
+          "cmdRule": 1
+        },
+        {
+          "command": "python skills/juridico-pt/scripts/test_scripts.py",
+          "exitCode": 0,
+          "summary": "Ran 55 tests OK",
+          "at": "2026-10-27T16:45:34.663Z",
+          "commit": "4ac96fb",
+          "dirty": false,
+          "observed": false,
+          "cmdRule": 1
+        }
+      ]
+    }
+  },
+  "finished": {
+    "at": "2026-10-27T16:43:34.353Z",
+    "files": {
+      "skills/juridico-pt/assets/redacao/redator.md": "1a8b7f6e4149d2cfea712e5b614012764f76f993",
+      "skills/juridico-pt/SKILL.md": "7d06c9d89fb77dd39b394fbfc440ee81e1e89ed8",
+      "commands/contrato.md": "9d24e1947db830a25979bcf912fd9d84fa48f748",
+      "commands/template.md": "59dafa3a34dd475aa3dd961cb1e5f482c796aab6",
+      "commands/parecer.md": "5ccfb0bfec01d9acb90982280745b43e998d3414",
+      "commands/advogado.md": "5ca262d008b2150a6c32c9d44f6b600672267f20",
+      "mcp-server/test/plugin.test.mjs": "da0d25f0ece7e44132bec1f1ea57487266787f1e",
+      "mcp-server/test/v30.test.mjs": "a72b3cec09dc4ec97d0c8f19ef4594a87f78ce87",
+      "build.py": "90adfc366d7446a3dc90e1e44c9ae48da1b25646",
+      "skills/juridico-pt/scripts/test_scripts.py": "6fa267d531cb220c6b13b91e66c5768a7013595c",
+      ".claude-plugin/plugin.json": "0d7e8c386e15529032ec9edf6a5cb4873b98ffa8",
+      ".claude-plugin/marketplace.json": "4aa53960263c6d5c1c76847eb0d0b290d48ddae4",
+      "package.json": "8e95797d24172ee7a10de4a03fa68a3d01dcfd28",
+      "mcp-server/package.json": "db31b2b3ab6d139eddbf201bed5a041f6c681bbf",
+      "mcp-server/src/index.ts": "78e2a0cd303448d0cda1b92db421288314a6968e",
+      "CHANGELOG.md": "5d75ed702e5f7692d934c5455f5d9103d80dd205",
+      "README.md": "6868e1181ff54fd69000b3181bd9c28705d8eac0",
+      "CLAUDE.md": "a0abd655f4a757f4336e1e040fb8c5efd06ba9c5"
+    }
+  }
+}
