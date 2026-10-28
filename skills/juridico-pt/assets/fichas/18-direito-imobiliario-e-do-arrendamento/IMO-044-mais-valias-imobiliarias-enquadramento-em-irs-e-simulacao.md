@@ -6,7 +6,8 @@ titulo_en: "Real Estate Capital Gains — IRS Treatment and Simulation"
 descricao: "Analisa o regime fiscal das mais-valias resultantes da alienação de imóveis em IRS (categoria G), ao abrigo dos arts. 10.º, 43.º, 44.º e 50.º do CIRS, com cálculo do valor de realização, valor de aquisição corrigido pelo coeficiente de desvalorização monetária, deduções admitidas e exclusão de tributação por reinvestimento."
 descricao_en: "Analyses the tax regime for capital gains on the disposal of property under IRS (personal income tax, category G), pursuant to Arts. 10, 43, 44 and 50 of the CIRS, calculating the realisation value, the acquisition value adjusted by the currency devaluation coefficient, allowable deductions and the exclusion from taxation for reinvestment."
 ambito: nacional
-estado_citacoes: "conferidas 7 · corrigidas 0 · por conferir 2"
+estado_citacoes: "conferidas 10 · corrigidas 0 · por conferir 4"
+revisao_tecnica: "2026-10-28 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
@@ -14,7 +15,8 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 
 > **Âmbito:** nacional · **Área:** Direito Imobiliário e do Arrendamento · **Código:** IMO-044
 > **EN:** Real Estate Capital Gains — IRS Treatment and Simulation. Analyses the tax regime for capital gains on the disposal of property under IRS (personal income tax, category G), pursuant to Arts. 10, 43, 44 and 50 of the CIRS, calculating the realisation value, the acquisition value adjusted by the currency devaluation coefficient, allowable deductions and the exclusion from taxation for reinvestment.
-> **Citações:** conferidas 7 · corrigidas 0 · por conferir 2. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 10 · corrigidas 0 · por conferir 4. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-28 — corrigida (8 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
 Analisa o regime fiscal das mais-valias resultantes da alienação de imóveis em IRS (categoria G), ao abrigo dos arts. 10.º, 43.º, 44.º e 50.º do CIRS, com cálculo do valor de realização, valor de aquisição corrigido pelo coeficiente de desvalorização monetária, deduções admitidas e exclusão de tributação por reinvestimento.
 
@@ -43,13 +45,14 @@ Ficha de trabalho para preparar este documento. As regras da casa prevalecem sob
 ### ETAPA 2 — ANÁLISE JURÍDICA E CÁLCULO
 <fundamentos_juridicos>
 - Incidência: art. 10.º, n.º 1, al. a), CIRS
-- Isenção pré-1989: bens adquiridos antes de 1 de janeiro de 1989 estão isentos (art. 5.º DL 442-A/88)
-- Valor de aquisição: art. 44.º CIRS (compra = preço escriturado; herança = VPT à data da transmissão) [■ VERIFICAR: o art. 44.º CIRS trata do valor de realização; o valor de aquisição está nos arts. 45.º (gratuito) e 46.º CIRS (oneroso)]
-- Correção monetária: art. 50.º CIRS (coeficiente de desvalorização monetária publicado anualmente)
+- Regime transitório pré-1989 (art. 5.º do DL 442-A/88): não ficam sujeitos a IRS os ganhos que não estavam sujeitos ao antigo imposto de mais-valias, se a aquisição for anterior a 1 de janeiro de 1989 — o que exclui os terrenos para construção, cujos ganhos já eram tributados nesse imposto (entendimento da AT; há jurisprudência divergente sobre o momento relevante para qualificar o prédio)
+- Valor de aquisição: arts. 45.º e 46.º CIRS (aquisição onerosa = valor que serviu de base à liquidação do IMT, ou que lhe serviria de base se não fosse devido — art. 46.º, n.ºs 1 e 2; herança ou doação = valor considerado para a liquidação do Imposto do Selo, ou que lhe serviria de base — art. 45.º)
+- Correção monetária: art. 50.º CIRS (coeficientes aprovados por portaria, aplicáveis quando tenham decorrido mais de 24 meses entre a aquisição e a alienação)
 - Encargos dedutíveis: art. 51.º CIRS (IMT, IS, encargos com valorização nos últimos 12 anos, comissão de mediação)
-- Tributação: 50% da mais-valia englobada (art. 43.º, n.º 2, CIRS) ou 100% se terreno para construção
-- Reinvestimento em habitação: art. 10.º, n.ºs 5 a 7, CIRS (exclusão total ou parcial)
-- Reinvestimento em PPR: art. 10.º, n.º 9, CIRS (novidade 2023)
+- Tributação: saldo considerado em 50 % e englobado (art. 43.º, n.º 2, al. b), CIRS); considerado por inteiro só quando o imóvel tenha beneficiado de apoio público não reembolsável superior a 30 % do VPT e seja vendido antes de decorridos 10 anos (al. a))
+- Reinvestimento em habitação própria e permanente: art. 10.º, n.ºs 5 e 6, CIRS (exclusão total ou, se o reinvestimento for parcial, proporcional — n.º 12)
+- Reinvestimento noutros imóveis destinados a arrendamento habitacional com renda dentro dos limites do DL 97/2026: art. 10.º, n.ºs 7 a 9, CIRS (transmissões de 1 de janeiro de 2026 a 31 de dezembro de 2029)
+- Reinvestimento por reformados ou maiores de 65 anos (sujeito passivo, cônjuge ou unido de facto) em seguro financeiro do ramo vida, fundo de pensões aberto, regime público de capitalização ou Produto Individual de Poupança Pan-Europeu, nos seis meses seguintes à venda da habitação própria e permanente: art. 10.º, n.ºs 10 e 11, CIRS (numeração do DL 97/2026)
 </fundamentos_juridicos>
 
 ### ETAPA 3 — CÁLCULO DA MAIS-VALIA
@@ -63,18 +66,18 @@ Apresenta dentro de um bloco <calculo_mais_valia>:
 **6. Valor de aquisição corrigido:** valor aquisição × coeficiente [€]
 **7. Encargos com a aquisição:** IMT + IS + obras documentadas [€]
 **8. Mais-valia bruta:** (3) − (6) − (7) [€]
-**9. Mais-valia tributável (50%):** [€] (ou 100% se terreno)
+**9. Mais-valia tributável (50%):** [€] (100 % só no caso do art. 43.º, n.º 2, al. a), CIRS)
 **10. Taxa de IRS aplicável:** englobamento com restantes rendimentos [€ estimado]
 
 ### ETAPA 4 — ANÁLISE DE REINVESTIMENTO
 Analisa a exclusão de tributação por reinvestimento:
-- Prazo: reinvestimento no ano anterior, no próprio ano ou até 2 anos seguintes (art. 10.º, n.º 6, CIRS)
+- Prazo: reinvestimento entre os 24 meses anteriores e os 36 meses posteriores à data da realização (art. 10.º, n.º 5, al. b), CIRS), com a intenção de reinvestir declarada na declaração do ano da alienação (al. c)); o imóvel vendido tem de ter sido habitação própria e permanente nos 12 meses anteriores (al. e)) e o adquirido tem de ser afeto à habitação própria e permanente nos 12 meses seguintes ao reinvestimento (n.º 6, al. a))
 - Imóvel de destino: habitação própria permanente em Portugal ou UE/EEE
 - Cálculo da exclusão proporcional se reinvestimento parcial
 
 ### ETAPA 5 — VALIDAÇÃO
 <checklist_validacao>
-- [ ] Data de aquisição anterior a 1989 verificada (se aplicável: isenção total)
+- [ ] Data de aquisição anterior a 1989 verificada (se aplicável: não sujeição pelo regime transitório do art. 5.º do DL 442-A/88, salvo terrenos para construção)
 - [ ] Valor de aquisição documentado (escritura ou habilitação de herdeiros)
 - [ ] Encargos dedutíveis documentados (faturas com NIF)
 - [ ] Coeficiente de desvalorização monetária do ano correto
@@ -117,10 +120,15 @@ Analisa a exclusão de tributação por reinvestimento:
 |---|---|---|
 | art. 10.º, n.º 1, al. a), CIRS | conferida (epígrafe) — Mais-valias |  |
 | art. 5.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| art. 44.º CIRS | por conferir [■ VERIFICAR] | o art. 44.º CIRS trata do valor de realização; o valor de aquisição está nos arts. 45.º (gratuito) e 46.º CIRS (oneroso) |
+| art. 5.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| arts. 45.º e 46.º CIRS | conferida (epígrafe) — Valor de aquisição a título gratuito |  |
+| art. 46.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 45.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 50.º CIRS | conferida (epígrafe) — Correção monetária |  |
 | art. 51.º CIRS | conferida (epígrafe) — Despesas e encargos |  |
-| art. 43.º, n.º 2, CIRS | conferida (epígrafe) — Mais-valias |  |
-| art. 10.º, n.ºs 5 a 7, CIRS | conferida (epígrafe) — Mais-valias |  |
-| art. 10.º, n.º 9, CIRS | conferida (epígrafe) — Mais-valias |  |
-| art. 10.º, n.º 6, CIRS | conferida (epígrafe) — Mais-valias |  |
+| art. 43.º, n.º 2, al. b), CIRS | conferida (epígrafe) — Mais-valias |  |
+| art. 10.º, n.ºs 5 e 6, CIRS | conferida (epígrafe) — Mais-valias |  |
+| art. 10.º, n.ºs 7 a 9, CIRS | conferida (epígrafe) — Mais-valias |  |
+| art. 10.º, n.ºs 10 e 11, CIRS | conferida (epígrafe) — Mais-valias |  |
+| art. 43.º, n.º 2, al. a), CIRS | conferida (epígrafe) — Mais-valias |  |
+| art. 10.º, n.º 5, al. b), CIRS | conferida (epígrafe) — Mais-valias |  |

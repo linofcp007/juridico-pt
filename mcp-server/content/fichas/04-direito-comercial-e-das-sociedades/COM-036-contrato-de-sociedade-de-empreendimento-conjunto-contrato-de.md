@@ -6,7 +6,8 @@ titulo_en: "Co-Venture Agreement / Investment Agreement"
 descricao: "Elabora um contrato de empreendimento conjunto (co-venture agreement) ou contrato de investimento para financiamento de projeto específico, regulando as contribuições de cada parte, a partilha de resultados, a governação do projeto e as condições de saída, sem necessariamente criar uma nova sociedade."
 descricao_en: "Drafts a co-venture agreement (contrato de empreendimento conjunto) or an investment agreement to finance a specific project, governing each party's contributions, the sharing of results, project governance and exit conditions, without necessarily creating a new company."
 ambito: nacional
-estado_citacoes: "sem citações"
+estado_citacoes: "conferidas 6 · corrigidas 0 · por conferir 9"
+revisao_tecnica: "2026-10-28 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
@@ -14,7 +15,8 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 
 > **Âmbito:** nacional · **Área:** Direito Comercial e das Sociedades · **Código:** COM-036
 > **EN:** Co-Venture Agreement / Investment Agreement. Drafts a co-venture agreement (contrato de empreendimento conjunto) or an investment agreement to finance a specific project, governing each party's contributions, the sharing of results, project governance and exit conditions, without necessarily creating a new company.
-> **Citações:** sem citações. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 6 · corrigidas 0 · por conferir 9. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-28 — corrigida (4 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
 Elabora um contrato de empreendimento conjunto (co-venture agreement) ou contrato de investimento para financiamento de projeto específico, regulando as contribuições de cada parte, a partilha de resultados, a governação do projeto e as condições de saída, sem necessariamente criar uma nova sociedade.
 
@@ -48,7 +50,11 @@ Analise em <analise_do_caso>:
 Identifique em <fundamentos_juridicos>:
 - Código Civil — arts. 405 a 456 (contratos em geral), liberdade contratual
 - Código Comercial — arts. 230 e ss. (atos de comércio)
-- CSC — arts. 100 a 122 (consórcio e agrupamento complementar de empresas) — se aplicável por analogia
+- Qualificação do empreendimento contratual — identificar o tipo legal, porque dele dependem a validade das cláusulas e a responsabilidade perante terceiros:
+  - Consórcio — DL n.º 231/81, de 28 de julho, arts. 1.º a 20.º: só para os objetos do art. 2.º; as contribuições consistem em coisa corpórea ou no seu uso e as contribuições em dinheiro só são permitidas se as de todos os membros forem dessa espécie (art. 4.º, n.º 2); não é permitida a constituição de fundos comuns (art. 20.º, n.º 1); no consórcio externo não se presume solidariedade perante terceiros (art. 19.º, n.º 1); no consórcio interno, a participação convencionada em lucros e perdas segue o art. 25.º (art. 18.º)
+  - Associação em participação — DL n.º 231/81, arts. 21.º a 31.º: uma das partes exerce a atividade e a outra participa nos lucros e, salvo dispensa, nas perdas, limitadas à sua contribuição (arts. 21.º, n.º 2, e 25.º, n.º 4)
+  - Agrupamento complementar de empresas (ACE) — Lei n.º 4/73, de 4 de junho, e DL n.º 430/73, de 25 de agosto: tem personalidade jurídica e visa melhorar as condições de exercício ou de resultado das atividades económicas dos membros [■ VERIFICAR: regime de responsabilidade dos membros pelas dívidas do ACE]
+  - Sociedade civil — se as Partes contribuírem com bens ou serviços para o exercício em comum de uma atividade económica, a fim de repartirem os lucros, o contrato pode ser qualificado como sociedade (art. 980.º CC), mesmo que declarem não o ser; pelas dívidas sociais respondem então a sociedade e, pessoal e solidariamente, os sócios (art. 997.º, n.º 1, CC), só podendo a responsabilidade dos sócios não administradores ser limitada por cláusula expressa (art. 997.º, n.º 3, CC)
 - Lei 19/2012 (regime jurídico da concorrência) — evitar cláusulas restritivas ilegais
 - RGPD — se o projeto envolve dados pessoais
 - [■ VERIFICAR: regime setorial específico — autorização regulatória necessária?]
@@ -80,7 +86,7 @@ Elabore o documento completo com esta estrutura:
 
 **CLÁUSULA 1.ª — OBJETO E DENOMINAÇÃO**
 1.1 As Partes acordam em desenvolver conjuntamente o projeto denominado "[Nome do Projeto]" (o "Projeto"), consistindo em [descrição do Projeto].
-1.2 O empreendimento conjunto não constitui uma sociedade nem confere às Partes personalidade jurídica própria. [Ou: As Partes acordam em criar uma sociedade veículo (SPV) com a firma "[Firma SPV], Lda." para prosseguir o Projeto — VERIFICAR]
+1.2 O empreendimento conjunto não constitui uma sociedade nem dá origem a uma pessoa jurídica distinta das Partes, regendo-se pelo regime do [consórcio / associação em participação — Decreto-Lei n.º 231/81, de 28 de julho]. [■ VERIFICAR: a qualificação depende do conteúdo do contrato e não da designação dada pelas Partes — se houver contribuições para o exercício em comum de uma atividade com repartição de lucros, pode tratar-se de uma sociedade civil (art. 980.º do Código Civil)] [Ou: As Partes acordam em criar uma sociedade veículo (SPV) com a firma "[Firma SPV], Lda." para prosseguir o Projeto — VERIFICAR]
 1.3 Para todos os efeitos do presente contrato, a denominação do empreendimento será "[Nome]".
 
 ---
@@ -104,7 +110,7 @@ Elabore o documento completo com esta estrutura:
 
 **CLÁUSULA 4.ª — PARTILHA DE RESULTADOS E PERDAS**
 4.1 Os resultados líquidos do Projeto são partilhados entre as Partes na proporção de [X]% (Parte A) e [X]% (Parte B). [■ VERIFICAR: fórmula alternativa — waterfall, preferred return, carry?]
-4.2 As perdas são suportadas pelas Partes na mesma proporção, até ao limite das respetivas contribuições.
+4.2 As perdas são suportadas pelas Partes na mesma proporção, até ao limite das respetivas contribuições. [■ VERIFICAR: este limite vale nas relações entre as Partes; perante terceiros, a responsabilidade depende do tipo legal do empreendimento — se o contrato for qualificado como sociedade civil, os sócios respondem pessoal e solidariamente pelas dívidas sociais (art. 997.º do Código Civil)]
 4.3 As distribuições serão efetuadas [anualmente / na conclusão do Projeto / após atingidos os objetivos X — VERIFICAR], por deliberação conjunta das Partes.
 
 ---
@@ -159,7 +165,7 @@ Elabore o documento completo com esta estrutura:
 
 ### ETAPA 5 — VALIDAÇÃO
 Apresente em <checklist_validacao>:
-- [ ] Estrutura (contratual vs. SPV) definida claramente
+- [ ] Estrutura (contratual vs. SPV) definida claramente e, se contratual, tipo legal identificado (consórcio ou associação em participação — DL n.º 231/81) e risco de qualificação como sociedade civil avaliado (arts. 980.º e 997.º CC)
 - [ ] Contribuições de cada Parte especificadas e valorizadas
 - [ ] Proporção de resultados e perdas definida
 - [ ] Mecanismo de governação e decisões especificado
@@ -197,3 +203,23 @@ Apresente em <checklist_validacao>:
 
 **OBSERVAÇÕES:**
 [SPV a criar? Financiamento bancário? Regime fiscal a confirmar? Autorização regulatória?]
+
+## Citações desta ficha
+
+| Citação | Estado | Nota |
+|---|---|---|
+| arts. 1.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 2.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 4.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 20.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 19.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 25.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 18.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| arts. 21.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| arts. 21.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 980.º CC | conferida (epígrafe) — Noção |  |
+| art. 997.º, n.º 1, CC | conferida (epígrafe) — Responsabilidade pelas obrigações sociais |  |
+| art. 997.º, n.º 3, CC | conferida (epígrafe) — Responsabilidade pelas obrigações sociais |  |
+| art. 980.º do Código Civil | conferida (epígrafe) — Noção |  |
+| art. 997.º do Código Civil | conferida (epígrafe) — Responsabilidade pelas obrigações sociais |  |
+| arts. 980.º e 997.º CC | conferida (epígrafe) — Noção |  |

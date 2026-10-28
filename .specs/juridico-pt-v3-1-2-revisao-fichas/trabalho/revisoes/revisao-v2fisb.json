@@ -1,0 +1,335 @@
+[
+ {
+  "codigo": "FIS-046",
+  "veredicto": "corrigida",
+  "descricao": "Elabora parecer e plano de estruturação fiscal para a transmissão de empresa familiar (quota/ações/estabelecimento), comparando a carga de Imposto do Selo nas transmissões gratuitas (verba 1.2 da Tabela Geral, com a isenção do cônjuge ou unido de facto, descendentes e ascendentes do artigo 6.º do CIS), o regime do IRS de mais-valias e do valor de aquisição a título gratuito (artigos 10.º e 45.º do CIRS) e, numa reorganização prévia, os benefícios do artigo 60.º do EBF.",
+  "descricao_en": "Prepares an opinion and a tax structuring plan for the transfer of a family business (quota/shares/business establishment), comparing the Stamp Duty burden on gratuitous transfers (item 1.2 of the General Table, with the exemption for spouses or unmarried partners, descendants and ascendants under Article 6 of the CIS), the IRS rules on capital gains and on the acquisition value of assets received free of charge (Articles 10 and 45 of the CIRS) and, in a prior reorganisation, the benefits of Article 60 of the EBF.",
+  "resumo": "A ficha assentava numa «isenção de Imposto do Selo para empresa familiar» do art. 60.º EBF, com requisitos de detenção, gestão e PME, que não existe: esse artigo isenta de IMT, IS e emolumentos as transmissões necessárias a fusões, cisões e outras operações de reestruturação. Reescrevi a análise, a secção III do parecer, a checklist e os dados a recolher com base na isenção do cônjuge ou unido de facto, descendentes e ascendentes (art. 6.º, n.º 1, al. e), CIS), no valor tributável dos arts. 13.º e 15.º CIS e no valor de aquisição a título gratuito do art. 45.º CIRS (o donatário não herda as mais-valias latentes). Corrigi ainda o reinvestimento do art. 48.º CIRC, que não abrange partes sociais (numa holding vale o art. 51.º-C CIRC), e o IMT na venda de quotas (art. 2.º, n.º 2, al. d), CIMT), e atualizei a descrição do índice.",
+  "substituicoes": [
+   {
+    "de": "- Valor da empresa (por referência ao valor contabilístico ou VPT)\n- Verificação dos requisitos para isenção de IS (art. 60.º EBF)",
+    "para": "- Valor tributável em IS: quotas e estabelecimentos com contabilidade organizada pelo último balanço (art. 15.º, n.º 1, CIS); ações sem cotação pela fórmula do art. 15.º, n.º 3, al. a), CIS; imóveis pelo VPT (art. 13.º, n.º 1, CIS)\n- Verificação da isenção de IS do cônjuge ou unido de facto, descendentes e ascendentes (art. 6.º, n.º 1, al. e), CIS); o EBF não prevê isenção de IS para a transmissão gratuita de empresa familiar",
+    "motivo": "O art. 60.º EBF não contém uma isenção de IS para empresas familiares (regula a reorganização de entidades); a isenção é a do art. 6.º, n.º 1, al. e), CIS e o valor segue os arts. 13.º e 15.º CIS",
+    "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/bf_rep/Pages/ebf-artigo-60-ordm.aspx"
+   },
+   {
+    "de": "- Imposto do Selo — transmissões gratuitas:\n  - Cônjuge/descendentes/ascendentes: isentos (art. 6.º, al. e), CIS)\n  - Outros beneficiários: taxa de 10% (verba 1.2 TGIS)\n  - Mas isenção de IS para empresa familiar (art. 60.º EBF): requisitos (detenção ≥ 5 anos, beneficiário exerce gestão, PME ou entidade equivalente)\n- IRS do transmitente:\n  - Doação de quota/ações: mais-valia = 0 (doador), mas valor de doação é o de mercado para efeito de IS; beneficiário herda valor de aquisição = valor tributado em IS\n  - Vendas: mais-valia sujeita a IRS (art. 10.º, n.º 1, al. b), CIRS) à taxa de 28% ou englobamento\n- IRC: reinvestimento de mais-valias (art. 48.º CIRC) em estruturas societárias",
+    "para": "- Imposto do Selo — transmissões gratuitas:\n  - Cônjuge ou unido de facto, descendentes e ascendentes: isentos do IS da verba 1.2 (art. 6.º, n.º 1, al. e), CIS)\n  - Outros beneficiários: taxa de 10% (verba 1.2 TGIS), sobre o valor apurado nos termos dos arts. 13.º e 15.º do CIS\n  - Não existe no direito português isenção de IS para a transmissão gratuita de empresa familiar: o art. 60.º EBF isenta de IMT, IS e emolumentos as transmissões de imóveis e de estabelecimentos necessárias a fusões, cisões, incorporações de ramos de atividade e acordos de cooperação, e só interessa numa reorganização prévia (opção 4)\n  - Doação direta de imóveis (não de quotas): IS de 0,8% da verba 1.1 TGIS, devido também pelos beneficiários isentos da verba 1.2\n- IRS do transmitente:\n  - Doação de quota/ações: não é alienação onerosa e não gera mais-valia para o doador (art. 10.º, n.º 1, al. b), CIRS); o donatário fica com o valor de aquisição considerado para o IS ou, se isento, o que serviria de base à sua liquidação (art. 45.º, n.º 1, CIRS), com as regras especiais do n.º 3 para imóveis e valores mobiliários doados ao cônjuge, descendentes ou ascendentes\n  - Vendas: mais-valia sujeita a IRS (art. 10.º, n.º 1, al. b), CIRS) à taxa de 28% (art. 72.º, n.º 1, al. c), CIRS) ou englobamento; o saldo positivo das partes sociais de micro e pequenas empresas não cotadas conta em 50% (art. 43.º, n.º 3, CIRS)\n- IRC (transmitente sociedade, por exemplo uma holding): as mais-valias na transmissão onerosa de partes sociais detidas há pelo menos um ano não concorrem para o lucro tributável se cumpridos os requisitos do art. 51.º-C CIRC, salvo se o ativo for, em mais de 50%, imobiliário (n.º 4); o reinvestimento do art. 48.º CIRC só abrange ativos fixos tangíveis, ativos intangíveis e ativos biológicos não consumíveis, não partes sociais",
+    "motivo": "Isenção de IS inexistente; o donatário adquire pelo valor relevante para IS (art. 45.º CIRS), não pelo valor do doador; o art. 48.º CIRC não abrange partes sociais",
+    "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cirs_rep/Pages/irs45.aspx"
+   },
+   {
+    "de": "- Opção 1: doação agora (IS + mais-valias latentes transferidas)\n- Opção 2: venda a preço de mercado (IS/IMT + IRS mais-valias doador)",
+    "para": "- Opção 1: doação agora (IS de 10% fora do círculo isento; sem mais-valia para o doador; o donatário adquire pelo valor relevante para o IS — art. 45.º CIRS)\n- Opção 2: venda a preço de mercado (IRS sobre a mais-valia do vendedor; IMT só nos casos do art. 2.º, n.º 2, al. d), do CIMT — ativo da sociedade composto em mais de 50% por imóveis não afetos a atividade agrícola, industrial ou comercial e sócio que fique a dispor de, pelo menos, 75% do capital)",
+    "motivo": "Na doação as mais-valias latentes não se transferem (art. 45.º CIRS); a venda de quotas só paga IMT nos casos do art. 2.º, n.º 2, al. d), CIMT",
+    "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cimt/Pages/cimt2.aspx"
+   },
+   {
+    "de": "- Opção 4: reorganização societária prévia (holding SGPS + depois doação)",
+    "para": "- Opção 4: reorganização societária prévia (por exemplo, sociedade gestora de participações sociais + depois doação), com neutralidade fiscal se cumpridos os requisitos dos arts. 73.º e seguintes do CIRC e, nas transmissões de imóveis ou de estabelecimento necessárias a fusão, cisão ou incorporação de ramo de atividade, isenção de IMT, IS e emolumentos (art. 60.º, n.º 1, EBF), afastada se a vantagem fiscal for o objetivo principal (art. 60.º, n.º 6, EBF) [■ VERIFICAR: regime dos sócios pessoas singulares na permuta de partes sociais]",
+    "motivo": "O art. 60.º EBF aplica-se às operações de reestruturação, com cláusula antiabuso própria",
+    "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/bf_rep/Pages/ebf-artigo-60-ordm.aspx"
+   },
+   {
+    "de": "**III — ISENÇÃO DE EMPRESA FAMILIAR (ART. 60.º EBF)**\n[Verificação dos requisitos e recomendação de estruturação para os cumprir]",
+    "para": "**III — IMPOSTO DO SELO: ISENÇÃO DO CÔNJUGE OU UNIDO DE FACTO, DESCENDENTES E ASCENDENTES (ART. 6.º, N.º 1, AL. E), CIS)**\n[Verificação do parentesco de cada beneficiário; para os restantes, IS de 10% (verba 1.2 TGIS) sobre o valor apurado nos termos do art. 15.º CIS; na doação direta de imóveis, IS de 0,8% (verba 1.1 TGIS); se houver reorganização prévia, verificação dos requisitos do art. 60.º EBF e do regime de neutralidade do CIRC]",
+    "motivo": "A secção assentava na isenção inexistente do art. 60.º EBF",
+    "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/selo/Pages/selo6.aspx"
+   },
+   {
+    "de": "- [ ] Requisitos art. 60.º EBF verificados",
+    "para": "- [ ] Valor tributável em IS apurado (arts. 13.º e 15.º CIS) e, se houver reorganização prévia, requisitos do art. 60.º EBF verificados",
+    "motivo": "Não há requisitos de uma isenção de empresa familiar a verificar",
+    "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/selo/Pages/selo15.aspx"
+   },
+   {
+    "de": "- Detenção atual: desde [ANO] (verificar prazo de 5 anos para EBF)",
+    "para": "- Detenção atual: desde [ANO] e valor de aquisição: €[___] (relevantes para a mais-valia em caso de venda e, numa holding, para o art. 51.º-C CIRC)",
+    "motivo": "O prazo de 5 anos dizia respeito à isenção inexistente",
+    "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/CIRC_2R/Pages/irc51c.aspx"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Na doação de quotas (não são valores mobiliários), confirmar o valor de aquisição que o donatário levará para uma venda futura (art. 45.º, n.ºs 1 e 3, CIRS).",
+   "Confirmar a participação da doação ou do óbito à AT e o respetivo prazo, mesmo quando a transmissão está isenta (art. 26.º CIS).",
+   "Numa reorganização prévia, confirmar o regime de neutralidade (arts. 73.º a 78.º CIRC e, para os sócios pessoas singulares, o CIRS) e o risco da cláusula geral antiabuso (art. 38.º, n.º 2, LGT).",
+   "Ponderar os efeitos sucessórios da doação a um descendente (colação e legítima dos restantes herdeiros)."
+  ],
+  "fontes": [
+   "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/bf_rep/Pages/ebf-artigo-60-ordm.aspx",
+   "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/selo/Pages/selo6.aspx",
+   "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/selo/Pages/selo13.aspx",
+   "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/selo/Pages/selo15.aspx",
+   "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/selo/Pages/ccod-selo-tabgiselo.aspx",
+   "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cirs_rep/Pages/irs10.aspx",
+   "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cirs_rep/Pages/irs43.aspx",
+   "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cirs_rep/Pages/irs45.aspx",
+   "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cirs_rep/Pages/irs72.aspx",
+   "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/CIRC_2R/Pages/irc48.aspx",
+   "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/CIRC_2R/Pages/irc51c.aspx",
+   "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cimt/Pages/cimt2.aspx",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=253A0038&nid=253&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+  ]
+ },
+ {
+  "codigo": "FIS-050",
+  "veredicto": "corrigida",
+  "resumo": "O art. 6.º CIRC estava descrito de forma inexata: a sociedade de profissionais exige uma atividade da lista do art. 151.º CIRS e, na segunda modalidade, mais de 75% dos rendimentos dessas atividades, no máximo cinco sócios e 75% do capital detido por profissionais (não «a maioria dos sócios»), e a imputação faz-se segundo o ato constitutivo ou, na falta de elementos, em partes iguais, não pela participação no capital (n.º 3). Precisei também o conceito de grupo familiar, a exclusão das sociedades que gerem participações qualificadas (n.º 5), a não tributação em IRC (art. 12.º CIRC) e o art. 20.º CIRS (adiantamentos por conta de lucros). Ao contrário do que a triagem supunha, as sociedades de simples administração de bens continuam no regime e o rendimento imputado é sempre categoria B.",
+  "substituicoes": [
+   {
+    "de": "  (b) Sociedades de profissionais: 75% dos rendimentos provenientes de atividade profissional e a maioria dos sócios exercem essa profissão\n  (c) Sociedades de simples administração de bens controladas por cônjuges/parentes\n- Imputação: proporcional à participação no capital (art. 6.º, n.º 3, CIRC)",
+    "para": "  (b) Sociedades de profissionais (art. 6.º, n.º 4, al. a), CIRC): 1) a constituída para o exercício de uma atividade profissional prevista na lista a que se refere o art. 151.º CIRS, em que todos os sócios pessoas singulares sejam profissionais dessa atividade; ou 2) a que obtenha mais de 75% dos rendimentos dessas atividades, desde que, durante mais de 183 dias do período de tributação, não tenha mais de cinco sócios, nenhum seja pessoa coletiva de direito público e pelo menos 75% do capital pertença a profissionais que as exerçam através da sociedade\n  (c) Sociedades de simples administração de bens (definidas no art. 6.º, n.º 4, al. b), CIRC) cuja maioria do capital pertença, direta ou indiretamente, durante mais de 183 dias do exercício, a um grupo familiar (pessoas unidas por casamento ou adoção e parentes ou afins na linha reta ou colateral até ao 4.º grau — art. 6.º, n.º 4, al. c), CIRC), ou cujo capital pertença, em qualquer dia do exercício, a não mais de cinco sócios, nenhum deles pessoa coletiva de direito público; não são abrangidas as que gerem participações sociais que cumpram os requisitos do art. 51.º, n.º 1, CIRC (art. 6.º, n.º 5, CIRC)\n- Imputação: nos termos do ato constitutivo (pacto social) ou, na falta de elementos, em partes iguais (art. 6.º, n.º 3, CIRC); imputa-se a matéria coletável, e a sociedade não é tributada em IRC, salvo quanto às tributações autónomas (art. 12.º CIRC)",
+    "motivo": "Requisitos da sociedade de profissionais e de simples administração de bens e critério de imputação diferentes dos da lei",
+    "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/CIRC_2R/Pages/irc6.aspx"
+   },
+   {
+    "de": "- Art. 20.º CIRS: rendimentos imputados são categoria B do IRS dos sócios",
+    "para": "- Art. 20.º CIRS: o rendimento imputado (ou, se superior, os adiantamentos por conta de lucros pagos ou postos à disposição no ano) integra-se como rendimento líquido da categoria B dos sócios pessoas singulares (n.ºs 1 e 2), com ajustamentos nos anos seguintes para eliminar a dupla tributação (n.º 5)",
+    "motivo": "Faltava a regra dos adiantamentos por conta de lucros e dos ajustamentos",
+    "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cirs_rep/Pages/irs20.aspx"
+   },
+   {
+    "de": "[Percentagem de participação incorreta, exercício errado, montante do lucro apurado errado]",
+    "para": "[Imputação contrária ao critério do pacto social (ou, na falta dele, às partes iguais), exercício errado, montante da matéria coletável imputada errado]",
+    "motivo": "A imputação segue o ato constitutivo, não a percentagem de capital, e incide sobre a matéria coletável",
+    "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/CIRC_2R/Pages/irc6.aspx"
+   },
+   {
+    "de": "- [ ] Para sociedade de profissionais: % de rendimentos de atividade profissional calculada\n- [ ] Percentagem de participação do sócio confirmada",
+    "para": "- [ ] Para sociedade de profissionais: atividade da lista do art. 151.º CIRS, % de rendimentos dessas atividades, número de sócios e % do capital detido por profissionais verificados\n- [ ] Critério de imputação do pacto social (ou partes iguais) confirmado",
+    "motivo": "Requisitos e critério de imputação do art. 6.º CIRC em vigor",
+    "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/CIRC_2R/Pages/irc6.aspx"
+   },
+   {
+    "de": "- Sócio afetado (nome, NIF, % de participação): [___]",
+    "para": "- Sócio afetado (nome, NIF, % de participação e critério de imputação do pacto social): [___]",
+    "motivo": "A imputação segue o ato constitutivo",
+    "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/CIRC_2R/Pages/irc6.aspx"
+   },
+   {
+    "de": "- Montante do lucro tributável da sociedade: €[___]",
+    "para": "- Matéria coletável da sociedade (declaração modelo 22): €[___]",
+    "motivo": "O art. 6.º, n.º 1, CIRC imputa a matéria coletável",
+    "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/CIRC_2R/Pages/irc6.aspx"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Se a matéria coletável imputada resultar de correções da AT à sociedade, confirmar se a reação deve ser dirigida (também) ao ato praticado na esfera da sociedade.",
+   "Confirmar o enquadramento das atividades na lista do art. 151.º CIRS e a contagem dos 183 dias.",
+   "Havendo adiantamentos por conta de lucros, verificar os ajustamentos do art. 20.º, n.º 5, CIRS."
+  ],
+  "fontes": [
+   "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/CIRC_2R/Pages/irc6.aspx",
+   "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/CIRC_2R/Pages/irc12.aspx",
+   "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cirs_rep/Pages/irs20.aspx",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=256A0070&nid=256&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+  ]
+ },
+ {
+  "codigo": "FIS-051",
+  "veredicto": "corrigida",
+  "titulo": "AIMI — Reclamação do Adicional ao IMI e Exclusão de Prédios Comerciais, Industriais ou para Serviços",
+  "titulo_en": "AIMI — Complaint against the Additional Municipal Property Tax and Exclusion of Commercial, Industrial or Service Properties",
+  "descricao": "Elabora reclamação graciosa contra a liquidação do Adicional ao IMI (AIMI), contestando a inclusão na base tributável de prédios urbanos excluídos da incidência por estarem classificados na matriz como comerciais, industriais ou para serviços ou como «outros» (artigo 135.º-B, n.º 2, do CIMI), bem como erros de titularidade, de deduções ou de taxa; o valor patrimonial tributário contesta-se, em regra, pela segunda avaliação ou pela reclamação da matriz.",
+  "descricao_en": "Prepares an administrative tax complaint (reclamação graciosa) against the Additional Municipal Property Tax (AIMI) assessment, contesting the inclusion in the tax base of urban properties excluded from the tax because they are classified in the property register as commercial, industrial or service properties or as 'other' (Article 135-B(2) of the CIMI), as well as errors in ownership, deductions or rate; the taxable property value is, as a rule, challenged through a second valuation or a complaint against the property register.",
+  "resumo": "A ficha tratava a exclusão do art. 135.º-B, n.º 2, CIMI como uma questão de afetação efetiva do prédio à atividade do sujeito passivo, provada pela contabilidade; a lei exclui os prédios classificados na matriz como comerciais, industriais ou para serviços e como «outros» (art. 6.º, n.º 1, als. b) e d), CIMI), seja qual for o titular, e a classificação relevante é a de 1 de janeiro. Corrigi também o prazo da reclamação graciosa (120 dias contados do termo do prazo de pagamento voluntário, art. 70.º CPPT, e não 30 dias da notificação), as taxas e deduções (arts. 135.º-C e 135.º-F CIMI) e a via de contestação do VPT, e atualizei o título e a descrição do índice.",
+  "substituicoes": [
+   {
+    "de": "- Fundamento de exclusão: afetação comercial/industrial/serviços (art. 135.º-B, n.º 2, CIMI)",
+    "para": "- Fundamento de exclusão: prédio classificado na matriz como comercial, industrial ou para serviços ou como «outros» (art. 135.º-B, n.º 2, CIMI, e art. 6.º, n.º 1, als. b) e d), CIMI); conta a espécie do prédio (licença ou, na falta dela, destino normal — art. 6.º, n.º 2, CIMI), não a utilização que o titular lhe dá",
+    "motivo": "A exclusão depende da classificação matricial do prédio, não da sua afetação",
+    "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cimi/Pages/cimi135b.aspx"
+   },
+   {
+    "de": "- Prazo de reclamação: 30 dias a contar da notificação da liquidação (art. 135.º-E CIMI remete para CPPT)",
+    "para": "- Prazo de reclamação graciosa: 120 dias contados do termo do prazo de pagamento voluntário (art. 70.º, n.º 1, CPPT, e art. 102.º, n.º 1, al. a), CPPT); o AIMI é liquidado em junho e pago em setembro (art. 135.º-G, n.º 4, CIMI, e art. 135.º-H, n.º 1, CIMI)",
+    "motivo": "Não há prazo especial de 30 dias; o art. 135.º-E CIMI trata das heranças indivisas; aplica-se o art. 70.º CPPT",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=256A0070&nid=256&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Art. 135.º-B, n.º 2, CIMI: EXCLUÍDOS da base tributável os prédios urbanos afetos a atividade comercial, industrial, de serviços ou agrícola do sujeito passivo (pessoas coletivas com fins lucrativos)\n- Prova de afetação: contabilidade, licença de utilização, atividade exercida no prédio\n- Taxas AIMI (art. 135.º-F CIMI): 0,4% (pessoas coletivas); escalões progressivos para particulares\n- VPT contestável separadamente através de segunda avaliação (art. 76.º CIMI)",
+    "para": "- Art. 135.º-B, n.º 2, CIMI: EXCLUÍDOS da base tributável os prédios urbanos classificados como «comerciais, industriais ou para serviços» e «outros» (art. 6.º, n.º 1, als. b) e d), CIMI), seja qual for o titular, e os habitacionais enquadrados no Programa de Apoio ao Arrendamento (DL n.º 68/2019), cujas referências valem, desde 1/9/2026, para o regime simplificado de arrendamento acessível (art. 14.º, al. a), do DL n.º 97/2026); ficam sujeitos os prédios habitacionais e os terrenos para construção\n- O critério é a espécie do prédio na matriz, reportada a 1 de janeiro do ano do imposto (art. 135.º-G, n.º 1, CIMI), e não a utilização que o titular dá ao prédio nem a sua atividade. Se a classificação estiver errada, a via é a reclamação da matriz (art. 130.º, n.º 3, CIMI), cujos efeitos só se produzem na liquidação respeitante ao ano em que for apresentada (n.º 8) [■ VERIFICAR: efeitos sobre o AIMI do ano em causa]\n- Não contam para o valor tributável os prédios que no ano anterior estiveram isentos ou não sujeitos a IMI e os demais casos do art. 135.º-C, n.º 3, CIMI; dedução de €600.000 para pessoas singulares e heranças indivisas (art. 135.º-C, n.º 2, CIMI), em dobro na tributação conjunta (art. 135.º-D, n.º 1, CIMI)\n- Taxas AIMI (art. 135.º-F CIMI): pessoas coletivas 0,4%, sem dedução; pessoas singulares e heranças indivisas 0,7% (n.º 1); para pessoas singulares, taxa marginal de 1% entre €1.000.000 e €2.000.000 e de 1,5% acima de €2.000.000, valores em dobro na tributação conjunta (n.ºs 2 e 3); prédios de pessoas coletivas afetos a uso pessoal dos sócios, membros dos órgãos sociais ou familiares: 0,7%, 1% e 1,5% (n.º 4); entidades sujeitas a regime fiscal claramente mais favorável: 7,5% (n.º 5)\n- VPT contestável separadamente: segunda avaliação no prazo de 30 dias contados da notificação da avaliação (art. 76.º CIMI) e impugnação do seu resultado (art. 77.º CIMI); fora desse prazo, reclamação da matriz por VPT desatualizado (art. 130.º, n.º 3, al. a), CIMI). O VPT fixado não se discute, em regra, na reclamação da liquidação do AIMI [■ VERIFICAR: impugnação autónoma dos atos de fixação de valores patrimoniais]",
+    "motivo": "A exclusão depende da classificação matricial e abrange qualquer titular; taxas, deduções e meios de contestação do VPT estavam incompletos",
+    "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cimi/Pages/cimi135f.aspx"
+   },
+   {
+    "de": "- Prazo: 30 dias da notificação da liquidação\n- Documentação de afetação comercial dos prédios excluídos",
+    "para": "- Prazo: 120 dias contados do termo do prazo de pagamento voluntário (art. 70.º, n.º 1, CPPT); impugnação judicial em 3 meses (art. 102.º, n.º 1, CPPT)\n- Caderneta predial de cada prédio excluído, com a classificação matricial a 1 de janeiro",
+    "motivo": "Prazo da reclamação graciosa e prova adequada (classificação matricial)",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=256A0102&nid=256&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "**II — DA EXCLUSÃO POR AFETAÇÃO COMERCIAL/INDUSTRIAL**\n[Art. 135.º-B, n.º 2, CIMI — demonstração da afetação com documentos]",
+    "para": "**II — DA EXCLUSÃO DOS PRÉDIOS COMERCIAIS, INDUSTRIAIS, PARA SERVIÇOS OU «OUTROS»**\n[Art. 135.º-B, n.º 2, CIMI — demonstração, com a caderneta predial, da classificação matricial de cada prédio a 1 de janeiro do ano do imposto]",
+    "motivo": "A exclusão prova-se pela classificação matricial, não pela afetação",
+    "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cimi/Pages/cimi6.aspx"
+   },
+   {
+    "de": "[Base tributável correta (excluindo os prédios afetos) × taxa]",
+    "para": "[Valor tributável correto (excluindo os prédios não sujeitos), deduções aplicáveis (art. 135.º-C CIMI) × taxa (art. 135.º-F CIMI)]",
+    "motivo": "O recálculo inclui as deduções e as taxas legais",
+    "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cimi/Pages/cimi135c.aspx"
+   },
+   {
+    "de": "Requer-se a anulação parcial da liquidação no montante de €[___] correspondente ao AIMI indevidamente calculado sobre os prédios afetos a atividade comercial.",
+    "para": "Requer-se a anulação parcial da liquidação no montante de €[___] correspondente ao AIMI indevidamente calculado sobre os prédios excluídos da incidência e, se o imposto já tiver sido pago, o reembolso acrescido de juros indemnizatórios (art. 43.º LGT).",
+    "motivo": "Pedido ajustado ao fundamento legal e aos juros indemnizatórios",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=253A0043&nid=253&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Prazo de 30 dias para reclamação verificado\n- [ ] Prédios afetos a atividade comercial/industrial identificados por artigo matricial\n- [ ] Prova de afetação reunida (contabilidade, licença de utilização)",
+    "para": "- [ ] Prazo de 120 dias para reclamação verificado (art. 70.º CPPT)\n- [ ] Prédios classificados como comerciais, industriais, para serviços ou «outros» identificados por artigo matricial\n- [ ] Cadernetas prediais reunidas (classificação a 1 de janeiro); se a matriz estiver errada, reclamação da matriz ponderada (art. 130.º CIMI)",
+    "motivo": "Prazo e prova corrigidos",
+    "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cimi/Pages/cimi130.aspx"
+   },
+   {
+    "de": "- Prédios a contestar (motivo: afetação comercial / VPT incorreto): [___]\n- Afetação comercial/industrial dos prédios a excluir: [tipo de atividade — ___]\n- Documentos de prova disponíveis: [licença utilização, contabilidade, outro]",
+    "para": "- Prédios a contestar (motivo: classificação matricial excluída / isenção ou não sujeição a IMI no ano anterior / titularidade / VPT incorreto): [___]\n- Classificação dos prédios na caderneta predial: [habitacional / comercial, industrial ou para serviços / terreno para construção / outros]\n- Documentos de prova disponíveis: [caderneta predial, licença de utilização, outro]",
+    "motivo": "Os dados relevantes são a classificação matricial e os restantes fundamentos legais",
+    "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cimi/Pages/cimi135c.aspx"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar se uma reclamação da matriz apresentada no ano produz efeitos no AIMI desse ano (art. 130.º, n.º 8, CIMI).",
+   "Verificar se algum prédio está num contrato de investimento para arrendamento (isenção de AIMI, anexo I do DL n.º 97/2026) ou no regime de arrendamento acessível.",
+   "Se a liquidação abranger prédios de pessoa coletiva afetos a uso pessoal dos sócios ou gerentes, verificar a taxa do art. 135.º-F, n.º 4, CIMI e a sua identificação na declaração de IRC (n.º 7).",
+   "Sem pagamento, ponderar a garantia ou a dispensa para suspender a execução fiscal (art. 169.º CPPT)."
+  ],
+  "fontes": [
+   "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cimi/Pages/cimi135a.aspx",
+   "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cimi/Pages/cimi135b.aspx",
+   "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cimi/Pages/cimi135c.aspx",
+   "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cimi/Pages/cimi135d.aspx",
+   "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cimi/Pages/cimi135e.aspx",
+   "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cimi/Pages/cimi135f.aspx",
+   "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cimi/Pages/cimi135g.aspx",
+   "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cimi/Pages/cimi135h.aspx",
+   "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cimi/Pages/cimi6.aspx",
+   "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cimi/Pages/cimi76.aspx",
+   "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cimi/Pages/cimi77.aspx",
+   "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cimi/Pages/cimi130.aspx",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=256A0070&nid=256&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=256A0102&nid=256&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=253A0043&nid=253&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/legislacao/diplomas_legislativos/Documents/decreto-lei-97-2026.pdf"
+  ]
+ },
+ {
+  "codigo": "FIS-054",
+  "veredicto": "corrigida",
+  "resumo": "O prazo de defesa de 30 dias está certo (art. 70.º, n.º 1, RGIT, na redação da Lei n.º 7/2021), ao contrário do que a triagem supunha, e mantém-se. Corrigi as molduras: o art. 116.º pune a falta ou o atraso de declarações com €150 a €3.750 (não €300 a €22.500), e as «falsas declarações» do art. 118.º passaram às omissões e inexatidões do art. 119.º (€375 a €22.500, reduzidos a um quarto sem imposto a liquidar), com a duplicação dos limites para pessoas coletivas (art. 26.º, n.º 4). Corrigi também a regra da negligência (art. 24.º, e não art. 26.º, n.º 4), os requisitos da atenuação especial (art. 32.º) e da dispensa (art. 29.º), o erro não censurável (art. 9.º RGCO, por remissão do art. 3.º RGIT, e não art. 6.º RGIT) e a distinção entre pagamento antecipado (art. 75.º) e pagamento voluntário (art. 78.º).",
+  "substituicoes": [
+   {
+    "de": "  - Art. 114.º RGIT: falta de entrega de prestação tributária retida — coima 15%-50% do imposto em falta (n.º 2)\n  - Art. 116.º RGIT: falta de apresentação de declaração — coima €300-€22.500\n  - Art. 118.º RGIT: falsas declarações — coima €375-€22.500\n- Elemento subjetivo: dolo vs. negligência (coima reduzida para metade — art. 26.º, n.º 4, RGIT)\n- Atenuantes especiais (art. 32.º RGIT): regularização espontânea, ausência de antecedentes, situação económica difícil\n- Causas de exclusão: erro não censurável (art. 6.º RGIT), ato administrativo desfavorável entretanto anulado\n- Prescrição do procedimento contraordenacional: 5 anos (art. 33.º RGIT)",
+    "para": "  - Art. 114.º RGIT: falta de entrega da prestação tributária deduzida (ou que o devesse ser) e situações equiparadas do n.º 5 — coima entre o valor da prestação em falta e o seu dobro, se dolosa (n.º 1), ou entre 15% e metade do imposto em falta, se negligente (n.º 2), sem ultrapassar o limite máximo abstratamente estabelecido\n  - Art. 116.º RGIT: falta ou apresentação fora do prazo de declarações destinadas a determinar, avaliar ou comprovar a matéria coletável — coima de €150 a €3.750 (n.º 1)\n  - Art. 119.º RGIT: omissões e inexatidões nas declarações ou noutros documentos fiscalmente relevantes — coima de €375 a €22.500 (n.º 1), com os limites reduzidos a um quarto se não houver imposto a liquidar (n.º 2)\n  - Pessoas coletivas: os limites mínimo e máximo de cada tipo são elevados para o dobro (art. 26.º, n.º 4, RGIT); coima mínima de €50 (art. 26.º, n.º 3, RGIT)\n- Elemento subjetivo: dolo vs. negligência — as contraordenações tributárias são sempre puníveis por negligência e, se o tipo não distinguir, o máximo da coima negligente é metade do previsto (art. 24.º RGIT); alguns tipos têm moldura própria para a negligência (por exemplo, art. 114.º, n.º 2, RGIT)\n- Atenuação especial (art. 32.º RGIT): a pedido do arguido, no prazo da defesa, se reconhecer a responsabilidade e regularizar a situação tributária no mesmo prazo — limites da coima reduzidos a metade (n.º 2) ou, com reduzida gravidade e culpa, admoestação (n.º 3); a situação económica do agente pesa na graduação da coima (art. 27.º, n.º 1, RGIT)\n- Dispensa da coima (art. 29.º RGIT): sem prejuízo efetivo para a receita (que existe sempre na falta de entrega da prestação — n.º 3) e com a falta regularizada, requerida no prazo da defesa (n.ºs 2 e 4) [■ VERIFICAR: alcance do n.º 1 quanto aos antecedentes nos cinco anos anteriores]\n- Causas de exclusão: erro sobre a ilicitude não censurável (art. 9.º RGCO, aplicável por força do art. 3.º, al. b), RGIT), ato administrativo desfavorável entretanto anulado\n- Prescrição do procedimento contraordenacional: 5 anos (art. 33.º RGIT), reduzidos ao prazo de caducidade do direito à liquidação quando a infração dela depender (n.º 2)",
+    "motivo": "Molduras dos arts. 116.º e 119.º, regra da negligência, requisitos da atenuação especial e da dispensa e base do erro não censurável estavam errados",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=259A0116&nid=259&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Pedido de pagamento voluntário com redução (art. 75.º RGIT)",
+    "para": "- Em alternativa, no prazo da defesa: pagamento antecipado da coima pelo mínimo legal, com custas reduzidas a metade, regularizando a situação tributária (art. 75.º, n.ºs 1 e 3, RGIT); depois de fixada a coima, pagamento voluntário a 75% do montante fixado, em 15 dias após a notificação (art. 78.º, n.ºs 1 e 2, RGIT)",
+    "motivo": "O art. 75.º regula o pagamento antecipado no prazo da defesa; o pagamento voluntário com redução a 75% é o do art. 78.º",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=259&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "[Demonstração de que o comportamento foi negligente, não doloso — redução da coima para metade]",
+    "para": "[Demonstração de que o comportamento foi negligente, não doloso — aplicação da moldura da negligência do tipo (por exemplo, art. 114.º, n.º 2, RGIT) ou, se o tipo não distinguir, do máximo reduzido a metade (art. 24.º, n.º 2, RGIT)]",
+    "motivo": "A redução por negligência resulta do tipo ou do art. 24.º, n.º 2, RGIT",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=259&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "**III — DAS ATENUANTES ESPECIAIS**\n[Art. 32.º RGIT: regularização, ausência de antecedentes, situação económica, boa-fé]",
+    "para": "**III — DA ATENUAÇÃO ESPECIAL E DA DISPENSA DA COIMA**\n[Art. 32.º RGIT: pedido de atenuação especial, com reconhecimento da responsabilidade e regularização da situação tributária no prazo da defesa — limites reduzidos a metade ou admoestação; subsidiariamente, dispensa da coima (art. 29.º, n.º 2, RGIT), se não houver prejuízo efetivo para a receita e a falta estiver regularizada; situação económica e boa-fé como fatores de graduação (art. 27.º RGIT)]",
+    "motivo": "Os requisitos do art. 32.º RGIT são o reconhecimento e a regularização no prazo da defesa, não a ausência de antecedentes",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=259&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "Requer-se a não aplicação de coima (se contestação dos factos) ou, subsidiariamente, a aplicação de coima no valor mínimo da moldura com aplicação das atenuantes especiais.",
+    "para": "Requer-se o arquivamento do processo, sem aplicação de coima (se contestação dos factos), ou, subsidiariamente, a dispensa da coima (art. 29.º RGIT), a atenuação especial com redução a metade dos limites ou a admoestação (art. 32.º RGIT) ou a aplicação da coima no mínimo da moldura aplicável.",
+    "motivo": "Pedidos alinhados com os arts. 29.º e 32.º RGIT",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=259&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Atenuantes especiais do art. 32.º RGIT invocadas",
+    "para": "- [ ] Atenuação especial (art. 32.º RGIT) ou dispensa da coima (art. 29.º RGIT) requerida no prazo da defesa, com a situação tributária regularizada",
+    "motivo": "Ambas exigem pedido e regularização no prazo da defesa",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=259&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar no auto de notícia o tipo concretamente imputado e a respetiva moldura (há molduras especiais nos arts. 116.º, n.ºs 4 e 5, e 119.º, n.ºs 4 a 8, RGIT).",
+   "Confirmar o alcance do art. 29.º, n.º 1, RGIT, na redação da Lei n.º 7/2021.",
+   "Verificar se a regularização ainda é possível no prazo da defesa: é condição da atenuação especial, da dispensa e do pagamento antecipado.",
+   "Da decisão que aplicar a coima cabe recurso judicial em 30 dias (art. 80.º RGIT)."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=259A0070&nid=259&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=259A0114&nid=259&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=259A0116&nid=259&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=259A0118&nid=259&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=259A0119&nid=259&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=259&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=166A0009&nid=166&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+  ]
+ },
+ {
+  "codigo": "FIS-057",
+  "veredicto": "corrigida",
+  "descricao": "Elabora análise e defesa em liquidação adicional de IRS categoria F (rendimentos prediais), contestando a recusa de deduções de gastos de conservação, manutenção e outros encargos dos prédios arrendados (artigo 41.º do CIRS) ou a taxa autónoma aplicada (artigo 72.º do CIRS e, para as rendas moderadas, artigo 45.º-C do EBF), e ponderando a opção pelo englobamento.",
+  "descricao_en": "Prepares an analysis and defence against an additional IRS assessment on category F (rental income), contesting the refusal to deduct repair, maintenance and other expenses of the let properties (Article 41 of the CIRS) or the special flat rate applied (Article 72 of the CIRS and, for moderate rents, Article 45-C of the EBF), and weighing the option for aggregation (englobamento).",
+  "resumo": "A ficha seguia o regime anterior a 2023 (taxas de 28%, 26%, 23% e 14% por duração) e afirmava uma «taxa agravada de 35%» e um «limite de 15%» para contratos não comunicados que não existem no CIRS. Atualizei para o art. 72.º CIRS em vigor (25% no arrendamento habitacional, 28% nos restantes rendimentos prediais e reduções de 10, 15 e 20 p.p. por duração) e para a taxa de 10% das rendas moderadas de 2026 a 2029 (art. 45.º-C EBF, aditado pelo DL n.º 97/2026), e corrigi a lista de deduções do art. 41.º CIRS, que exclui os juros e outros gastos financeiros, as depreciações, o mobiliário e o AIMI. Corrigi também a descrição do índice («taxa liberatória» e «englobamento obrigatório em caso de inspeção»).",
+  "substituicoes": [
+   {
+    "de": "- Deduções recusadas pela AT: encargos de conservação (art. 41.º CIRS), IMI, seguros, juros de empréstimos para imóvel arrendado",
+    "para": "- Deduções recusadas pela AT: encargos de conservação (art. 41.º CIRS), IMI e Imposto do Selo, encargos de condomínio, seguros (incluindo seguros de renda); não são dedutíveis os juros de empréstimos (gastos de natureza financeira), as depreciações, o mobiliário, os eletrodomésticos e o AIMI",
+    "motivo": "O art. 41.º, n.º 1, CIRS exclui os gastos de natureza financeira",
+    "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cirs_rep/Pages/irs41.aspx"
+   },
+   {
+    "de": "- Taxa aplicada: 28% liberatória / taxa especial para arrendamentos de longa duração / 35% (contrato não comunicado)",
+    "para": "- Taxa aplicada: taxa autónoma de 25% (arrendamento habitacional) ou de 28% (restantes rendimentos prediais) / taxas reduzidas para contratos de habitação permanente de longa duração / 10% para rendas moderadas, de 2026 a 2029 (art. 45.º-C EBF) / englobamento por opção",
+    "motivo": "Não é taxa liberatória; não existe taxa de 35% para contratos não comunicados; taxas em vigor",
+    "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cirs_rep/Pages/irs72.aspx"
+   },
+   {
+    "de": "- Art. 8.º CIRS: rendimentos da categoria F — arrendamento, subarrendamento, usufruto, constituição de servidões\n- Art. 41.º, n.º 1, CIRS: deduções obrigatoriamente aceites: encargos de conservação e manutenção, IMI, seguros de incêndio, juros de empréstimos para imóveis arrendados, rendas de leasing\n- Art. 41.º, n.º 2, CIRS: limite de 15% das despesas de conservação se imóvel não comunicado\n- Art. 72.º, n.º 7, CIRS: taxas especiais de 28% (regra geral), 26% (contratos > 2 anos), 23% (> 5 anos), 14% (> 10 anos) — [■ VERIFICAR taxas vigentes]\n- Art. 72.º, n.º 8, CIRS: taxa agravada de 35% para contratos não comunicados à AT",
+    "para": "- Art. 8.º CIRS: rendimentos da categoria F — rendas de prédios rústicos, urbanos e mistos (n.º 1), incluindo a cedência do uso do prédio, a diferença auferida pelo sublocador, a cedência de partes comuns, a constituição onerosa de direitos reais de gozo temporários, ainda que vitalícios, e o direito real de habitação duradoura (n.º 2)\n- Art. 41.º, n.º 1, CIRS: dedutíveis, prédio a prédio, todos os gastos efetivamente suportados e pagos para obter ou garantir os rendimentos, incluindo os seguros de renda, com exceção dos gastos de natureza financeira (juros de empréstimos), das depreciações, do mobiliário, eletrodomésticos e artigos de conforto ou decoração e do AIMI\n- Art. 41.º, n.º 2, CIRS: encargos de condomínio de pagamento obrigatório, efetivamente pagos; o IMI e o Imposto do Selo só são dedutíveis quando respeitem a prédio cujo rendimento seja tributado nesse ano (n.º 5); obras de conservação e manutenção pagas nos 24 meses anteriores ao início do arrendamento (n.º 7); rendas da nova habitação própria e permanente nas condições do n.º 8; todos os gastos têm de estar documentalmente comprovados (n.º 9)\n- Art. 72.º CIRS (redação da Lei n.º 56/2023): taxa autónoma de 28% para os rendimentos prediais em geral (n.º 1, al. e)) e de 25% para o arrendamento habitacional (n.º 2); nos contratos de arrendamento para habitação permanente, redução de 10 p.p. com duração de 5 a 10 anos (mais 2 p.p. por cada renovação com igual duração, até 10 p.p.), de 15 p.p. com duração de 10 a 20 anos e de 20 p.p. com duração igual ou superior a 20 anos (n.ºs 3 a 5), com as exclusões e a redução adicional dos n.ºs 23 e 24 e a perda das reduções se o contrato cessar antes do prazo por motivo imputável ao senhorio (n.º 20) — [■ VERIFICAR taxas vigentes no ano em causa]\n- Rendas moderadas: taxa autónoma de 10% sobre os rendimentos de contratos de arrendamento exclusivamente para habitação com renda mensal não superior a 2,5 vezes a retribuição mínima mensal garantida de 2026, auferidos até 31/12/2029, salvo se for aplicável taxa mais favorável (art. 45.º-C, n.º 1, EBF, aditado pelo DL n.º 97/2026, de 20 de maio, com efeitos desde 1/1/2026; limite do art. 2.º, n.º 2, al. a), desse decreto-lei, atualizável por portaria) [■ VERIFICAR: limite em vigor no ano em causa]\n- O art. 72.º CIRS não prevê taxa agravada para contratos não comunicados: o locador tem de comunicar o contrato à AT até ao fim do mês seguinte ao do início do arrendamento (art. 60.º CIS) e a falta é matéria contraordenacional [■ VERIFICAR: coima aplicável no RGIT]",
+    "motivo": "Lista de deduções, taxas e números do art. 72.º do regime anterior a 2023; a taxa de 35% e o limite de 15% não existem; taxa de 10% das rendas moderadas desde 2026",
+    "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cirs_rep/Pages/irs72.aspx"
+   },
+   {
+    "de": "[Art. 72.º CIRS: taxa correta face à duração do contrato]",
+    "para": "[Art. 72.º CIRS: taxa correta face à natureza (habitacional ou não) e à duração do contrato; rendas moderadas de 2026 a 2029: art. 45.º-C EBF]",
+    "motivo": "A taxa depende também da natureza do arrendamento e, desde 2026, do valor da renda",
+    "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/bf_rep/Pages/ebf45c.aspx"
+   },
+   {
+    "de": "- [ ] Taxa correta determinada pela duração do contrato",
+    "para": "- [ ] Taxa correta determinada pela natureza e duração do contrato (art. 72.º, n.ºs 2 a 5, CIRS) e, de 2026 a 2029, pelo valor da renda (art. 45.º-C EBF)",
+    "motivo": "Critérios da taxa em vigor",
+    "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/bf_rep/Pages/ebf45c.aspx"
+   },
+   {
+    "de": "- Contratos comunicados à AT? [Sim/Não]",
+    "para": "- Contratos comunicados à AT? [Sim/Não] — data de início, duração, renovações e renda mensal de cada contrato: [___]",
+    "motivo": "Dados necessários para determinar a taxa aplicável",
+    "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cirs_rep/Pages/irs72.aspx"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar o limite de renda moderada do ano (2,5 vezes a retribuição mínima mensal garantida de 2026, atualizável por portaria) e as condições formais que a AT exija para a taxa de 10%.",
+   "Contratos no Programa de Apoio ao Arrendamento ou, desde 1/9/2026, no regime simplificado de arrendamento acessível podem estar isentos de IRS: confirmar o regime (DL n.º 68/2019; anexo III do DL n.º 97/2026).",
+   "Confirmar a coima pela falta de comunicação do contrato (art. 60.º CIS) e pela falta de emissão de recibos de renda eletrónicos.",
+   "Se a liquidação adicional resultou de inspeção, verificar se houve regularização no procedimento, que preclude a contestação das correções aceites."
+  ],
+  "fontes": [
+   "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cirs_rep/Pages/irs8.aspx",
+   "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cirs_rep/Pages/irs41.aspx",
+   "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cirs_rep/Pages/irs72.aspx",
+   "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/bf_rep/Pages/ebf45c.aspx",
+   "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/legislacao/diplomas_legislativos/Documents/decreto-lei-97-2026.pdf",
+   "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/selo/Pages/selo60.aspx",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=256A0070&nid=256&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+  ]
+ }
+]

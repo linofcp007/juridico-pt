@@ -6,7 +6,8 @@ titulo_en: "Statement of Claim in a Paternity Action"
 descricao: "Gera a petição inicial de ação de investigação de paternidade para estabelecimento legal do vínculo de filiação, com pedido de prova de ADN e fixação de alimentos provisórios, nos termos dos artigos 1.869.º e seguintes do Código Civil português."
 descricao_en: "Generates the statement of claim in a paternity action (investigação de paternidade) to establish the legal parent-child relationship, with a request for DNA testing and interim maintenance, under Articles 1869 et seq. of the Portuguese Civil Code."
 ambito: nacional
-estado_citacoes: "conferidas 0 · corrigidas 1 · por conferir 1"
+estado_citacoes: "conferidas 2 · corrigidas 1 · por conferir 2"
+revisao_tecnica: "2026-10-28 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
@@ -14,7 +15,8 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 
 > **Âmbito:** nacional · **Área:** Direito da Família e das Crianças · **Código:** FAM-016
 > **EN:** Statement of Claim in a Paternity Action. Generates the statement of claim in a paternity action (investigação de paternidade) to establish the legal parent-child relationship, with a request for DNA testing and interim maintenance, under Articles 1869 et seq. of the Portuguese Civil Code.
-> **Citações:** conferidas 0 · corrigidas 1 · por conferir 1. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 2 · corrigidas 1 · por conferir 2. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-28 — corrigida (11 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
 Gera a petição inicial de ação de investigação de paternidade para estabelecimento legal do vínculo de filiação, com pedido de prova de ADN e fixação de alimentos provisórios, nos termos dos artigos 1.869.º e seguintes do Código Civil português.
 
@@ -28,7 +30,7 @@ Redigir petição inicial de ação de investigação de paternidade, nos termos
 ## Regras obrigatórias
 — NUNCA inventes factos, relações ou jurisprudência.
 — Marca [■ VERIFICAR: o que precisa de ser confirmado] para dados incompletos.
-— Verifica sempre o prazo de caducidade: art. 1.873.º CC — a ação deve ser proposta dentro de 10 anos após a maioridade do filho (se proposta pelo filho) ou nos primeiros 3 anos de vida do filho (se proposta por terceiros). [■ VERIFICAR redação atual — este prazo pode ter sido alterado].
+— Verifica sempre o prazo de caducidade: art. 1.817.º CC, aplicável por remissão do art. 1.873.º CC — a ação pode ser proposta durante a menoridade do investigante ou nos 10 anos posteriores à sua maioridade (n.º 1), ou ainda nos 3 anos posteriores a algum dos factos do n.º 3, com as necessárias adaptações (impugnação com êxito, por terceiro, da paternidade do investigante; conhecimento, depois daquele prazo, de factos ou circunstâncias que justifiquem a investigação, designadamente a cessação do tratamento como filho pelo pretenso pai; não havendo paternidade determinada, conhecimento superveniente de factos que possibilitem e justifiquem a investigação). O Tribunal Constitucional (Ac. n.º 401/2011, Plenário) não julgou inconstitucional o prazo de 10 anos. Não há prazo de 3 anos de vida para terceiros: a ação a intentar pelo Ministério Público após averiguação oficiosa não é admitida passados 2 anos sobre o nascimento (arts. 1.865.º e 1.866.º, al. b), CC), salvo o caso do art. 1.867.º CC.
 — Usa português europeu: "investigação de paternidade", "filiação", "pretenso pai" (não "pai biológico suposto" no sentido informal).
 
 ---
@@ -37,7 +39,7 @@ Redigir petição inicial de ação de investigação de paternidade, nos termos
 
 ### ETAPA 1 — PROBLEMATIZAÇÃO (Análise do Caso)
 Apresenta dentro de um bloco <analise_do_caso>:
-- Quem propõe a ação? (o próprio filho, maior; a mãe em nome do filho menor; herdeiros)
+- Quem propõe a ação? (o próprio filho, maior; o filho menor, representado pela mãe — se a mãe for menor, art. 1.870.º CC; o cônjuge não separado judicialmente ou os descendentes do filho, que podem prosseguir a ação se o filho falecer na pendência da causa e só a podem propor se ele morrer antes de terminar o prazo — art. 1.818.º CC; o Ministério Público, após averiguação oficiosa — art. 1.865.º, n.º 5, CC)
 - Qual a situação do pretenso pai? (vivo; falecido — investigação post mortem; incapaz)
 - Existe alguma prova de paternidade? (exame de ADN anterior; reconhecimento verbal; cartas; fotos; testemunhos)
 - Qual a relação entre a mãe e o pretenso pai na época da conceção?
@@ -50,9 +52,12 @@ Apresenta dentro de um bloco <analise_do_caso>:
 Apresenta dentro de um bloco <fundamentos_juridicos>:
 - Arts. 1.869.º a 1.873.º CC (ação de investigação de paternidade)
 - Art. 1.871.º CC (presunções de paternidade — situações que a lei presume)
-- Art. 1.873.º CC (prazo de caducidade — VERIFICAR texto vigente)
+- Art. 1.873.º CC (remissão para os arts. 1.817.º a 1.819.º e 1.821.º CC)
+- Art. 1.817.º CC (prazo de caducidade: durante a menoridade ou nos 10 anos posteriores à maioridade; 3 anos nos casos do n.º 3)
+- Art. 1.818.º CC (prossecução e transmissão da ação) e art. 1.819.º CC (legitimidade passiva: pretenso pai ou, se falecido, cônjuge sobrevivo não separado judicialmente e, sucessivamente, descendentes, ascendentes ou irmãos; os herdeiros ou legatários cujos direitos sejam atingidos têm de ser demandados para a sentença produzir efeitos contra eles)
+- Art. 1.821.º CC (alimentos provisórios ao filho menor ou maior acompanhado desde a proposição da ação, se o tribunal considerar provável o reconhecimento)
 - Arts. 2.003.º ss. CC (alimentos) — se pedido de alimentos
-- Art. 1.903.º CC (registo de nascimento com aditamento de paternidade)
+- Art. 69.º, n.º 1, al. b), do Código do Registo Civil (averbamento do estabelecimento da filiação ao assento de nascimento)
 - Arts. 467.º e ss. CPC (prova pericial — exame de ADN)
 - [■ VERIFICAR: acórdão do Supremo Tribunal de Justiça sobre recusa injustificada a teste de ADN como presunção de paternidade]
 
@@ -61,15 +66,15 @@ Apresenta dentro de um bloco <estrategia>:
 - Factos que indicam a paternidade do réu (relação exclusiva na época da conceção; convivência pública como casal; cartas/mensagens de reconhecimento)
 - Prova disponível: documentos, testemunhas, qualquer exame anterior
 - Pedido de exame de ADN como prova pericial fundamental
-- Se réu recusar o exame: jurisprudência e art. 344.º, n.º 2 CPC (inversão do ónus da prova) [■ VERIFICAR: a inversão do ónus da prova está no art. 344.º, n.º 2 do Código Civil; no CPC ver o art. 417.º (dever de cooperação)]
-- Pedido de alimentos provisórios urgentes (se filho menor sem sustento)
+- Se réu recusar o exame: o tribunal aprecia livremente o valor da recusa para efeitos probatórios (art. 417.º, n.º 2, CPC), sem prejuízo da inversão do ónus da prova quando a parte contrária tiver culposamente tornado impossível a prova ao onerado (art. 344.º, n.º 2, CC); ver jurisprudência (ETAPA 2)
+- Pedido de alimentos provisórios (filho menor ou maior acompanhado), devidos desde a proposição da ação se o tribunal considerar provável o reconhecimento (art. 1.821.º CC, ex vi art. 1.873.º CC)
 - Se investigação post mortem: exumação ou exame de ADN de parentes diretos
 
 ### ETAPA 4 — EXPOSIÇÃO ESTRUTURADA (A Petição)
 Redige com esta estrutura:
 
-1. Endereçamento — Tribunal de Família e Menores competente
-2. Identificação do autor (filho ou representante) e do réu (pretenso pai ou herdeiros)
+1. Endereçamento — Juízo de Família e Menores do Tribunal Judicial da Comarca competente (art. 123.º, n.º 1, al. l), da Lei n.º 62/2013, de 26 de agosto — LOSJ) [■ VERIFICAR: comarca territorialmente competente]
+2. Identificação do autor (filho ou representante) e do réu (pretenso pai ou, se falecido, as pessoas indicadas no art. 1.819.º, n.º 1, CC, e ainda os herdeiros ou legatários cujos direitos sejam atingidos — n.º 2)
 3. I — DOS FACTOS — Nascimento do autor; falta de paternidade estabelecida; relação entre mãe e pretenso pai; gravidez; comportamento do réu antes e após o nascimento; reconhecimento (ou não) informal
 4. II — DOS MEIOS DE PROVA — Exame de ADN (pedido); testemunhas; documentos
 5. III — DO DIREITO — Arts. 1.869.º ss. CC; presunções; prazo de caducidade verificado
@@ -84,12 +89,12 @@ Redige com esta estrutura:
 
 ### ETAPA 5 — FORMULAÇÃO FINAL (Validação)
 Apresenta dentro de um bloco <checklist_validacao>:
-- [ ] Prazo de caducidade verificado (art. 1.873.º CC)?
+- [ ] Prazo de caducidade verificado (art. 1.817.º CC, ex vi art. 1.873.º CC)?
 - [ ] Legitimidade ativa correta (filho, mãe em nome do menor, outros)?
 - [ ] Factos da relação na época da conceção articulados com datas?
 - [ ] Pedido de exame de ADN formulado como prova pericial?
 - [ ] Consequências da recusa ao ADN mencionadas?
-- [ ] Alimentos provisórios: pedidos se filho menor sem sustento?
+- [ ] Alimentos provisórios pedidos para o filho menor (art. 1.821.º CC)?
 - [ ] Investigação post mortem: exumação ou ADN de parentes pedido?
 - [ ] Pontos que exigem atenção especial: [lista]
 
@@ -103,7 +108,7 @@ Apresenta dentro de um bloco <checklist_validacao>:
 - Certidão de nascimento: paternidade não estabelecida? [confirma — VERIFICAR]
 
 **RÉU (pretenso pai):**
-- Nome: [nome — se vivo; se falecido: nome e data de morte; herdeiros a citar]
+- Nome: [nome — se vivo; se falecido: nome e data de morte; cônjuge sobrevivo e, sucessivamente, descendentes, ascendentes ou irmãos a demandar (art. 1.819.º, n.º 1, CC); herdeiros ou legatários atingidos (n.º 2)]
 - NIF: [■ VERIFICAR], CC: [■ VERIFICAR]
 - Morada para citação: [morada]
 - Está vivo? [sim/não — se falecido: há material biológico para ADN? / parentes diretos para exame colateral?]
@@ -129,5 +134,8 @@ Apresenta dentro de um bloco <checklist_validacao>:
 
 | Citação | Estado | Nota |
 |---|---|---|
+| Art. 69.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | Arts. 467.º e ss. CPC | corrigida — Quem realiza a perícia | o número citado no catálogo não correspondia à epígrafe |
-| art. 344.º, n.º 2 CPC | por conferir [■ VERIFICAR] | a inversão do ónus da prova está no art. 344.º, n.º 2 do Código Civil; no CPC ver o art. 417.º (dever de cooperação) |
+| art. 417.º, n.º 2, CPC | conferida (epígrafe) — Dever de cooperação para a descoberta da verdade |  |
+| art. 344.º, n.º 2, CC | conferida (epígrafe) — Inversão do ónus da prova |  |
+| art. 123.º | por conferir [■ VERIFICAR] | diploma não identificado |

@@ -1,0 +1,442 @@
+[
+ {
+  "codigo": "PEN-016",
+  "veredicto": "corrigida",
+  "resumo": "A ficha fixava o prazo do recurso para a Relação em 20 dias úteis, com base no art. 73.º, n.º 3, RGCO; o prazo é de 10 dias, contados da sentença ou da sua notificação ao arguido ausente (art. 74.º, n.º 1, RGCO), e não se conta em dias úteis. A ficha tratava ainda o recurso como sempre admissível e previa a impugnação da matéria de facto com reapreciação da prova, quando o recurso só cabe nos casos do art. 73.º RGCO e a Relação só conhece de matéria de direito (art. 75.º, n.º 1, RGCO), sem prejuízo dos vícios do art. 410.º, n.º 2, CPP. Corrigiu-se o prazo, acrescentaram-se os pressupostos de admissibilidade, o efeito do recurso e o âmbito de cognição, e a secção da matéria de facto passou a remeter para os vícios da sentença.",
+  "descricao": "Gera a motivação do recurso, para o Tribunal da Relação, da sentença ou do despacho proferidos pelo tribunal em processo contraordenacional, invocando os vícios da sentença, os erros de direito e a desproporcionalidade da coima (a Relação só conhece de matéria de direito), nos termos dos arts. 73.º a 75.º do RGCO.",
+  "descricao_en": "Generates the grounds of appeal to the Court of Appeal (Tribunal da Relação) against the judgment or order handed down by the court in administrative offence proceedings, raising defects apparent on the face of the judgment, errors of law and the disproportionality of the fine (the Court of Appeal rules on points of law only), under Articles 73 to 75 of the RGCO.",
+  "substituicoes": [
+   {
+    "de": "— Prazo: 20 dias úteis após notificação da sentença (art. 73.º, n.º 3 RGCO).\n— O recurso é interposto para o Tribunal da Relação (art. 73.º, n.º 1 RGCO).",
+    "para": "— Prazo: 10 dias a contar da sentença ou do despacho ou, se a decisão tiver sido proferida sem a presença do arguido, da sua notificação (art. 74.º, n.º 1, RGCO). Não são dias úteis: a contagem segue a lei do processo civil (art. 104.º, n.º 1, CPP, aplicável ex vi art. 41.º RGCO). A motivação acompanha o requerimento de interposição [■ VERIFICAR: se a contraordenação tem regime especial com prazo próprio].\n— O recurso é interposto para o Tribunal da Relação e só é admissível nos casos do art. 73.º, n.º 1 RGCO: coima superior a 249,40 €; condenação que abranja sanções acessórias; absolvição ou arquivamento quando a autoridade administrativa tenha aplicado coima superior a 249,40 € ou o Ministério Público a tenha reclamado; rejeição da impugnação judicial; decisão por despacho apesar da oposição do recorrente. Fora destes casos, a Relação pode aceitar o recurso, a requerimento do arguido ou do Ministério Público, quando tal se afigure manifestamente necessário à melhoria da aplicação do direito ou à promoção da uniformidade da jurisprudência (art. 73.º, n.º 2, RGCO); o requerimento segue junto ao recurso, antecedendo-o (art. 74.º, n.º 2, RGCO).",
+    "motivo": "O prazo do recurso para a Relação é de 10 dias e está no art. 74.º, n.º 1, RGCO (não no art. 73.º, n.º 3, que trata do recurso parcial); o recurso só é admissível nos casos do art. 73.º, n.ºs 1 e 2.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=166&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "— Vícios da sentença: insuficiência da matéria de facto, contradição insanável, erro notório na apreciação da prova — por analogia com art. 410.º CPP.",
+    "para": "— A Relação só conhece de matéria de direito (art. 75.º, n.º 1, RGCO): não cabe a impugnação ampla da matéria de facto com reapreciação da prova (art. 412.º, n.º 3, CPP). Podem, ainda assim, invocar-se os vícios do art. 410.º, n.º 2, CPP, aplicável ex vi arts. 41.º e 74.º, n.º 4, RGCO — insuficiência para a decisão da matéria de facto provada, contradição insanável da fundamentação ou entre a fundamentação e a decisão, erro notório na apreciação da prova —, desde que resultem do texto da decisão recorrida, por si só ou conjugada com as regras da experiência comum, bem como as nulidades não sanadas (art. 410.º, n.º 3, CPP).",
+    "motivo": "O art. 75.º, n.º 1, RGCO limita a cognição da Relação à matéria de direito; o art. 410.º, n.ºs 2 e 3, CPP aplica-se por remissão expressa do RGCO, não por analogia.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=199A0410&nid=199&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Há erro de julgamento na matéria de facto?",
+    "para": "- Há erro na matéria de facto que resulte do próprio texto da sentença (art. 410.º, n.º 2, CPP)? A reapreciação da prova não é admissível (art. 75.º, n.º 1, RGCO).",
+    "motivo": "No recurso contraordenacional a Relação só conhece de matéria de direito.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=166&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- O prazo de recurso de 20 dias úteis está em curso?",
+    "para": "- O prazo de recurso de 10 dias (art. 74.º, n.º 1, RGCO) está em curso? O recurso é admissível (art. 73.º, n.ºs 1 e 2, RGCO)?",
+    "motivo": "Prazo de 10 dias do art. 74.º, n.º 1, RGCO e pressupostos de admissibilidade do art. 73.º.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=166&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Art. 74.º RGCO — efeito do recurso",
+    "para": "- Art. 74.º RGCO — prazo de 10 dias e regime do recurso, que segue a tramitação do recurso em processo penal (n.º 4); o recurso da decisão final condenatória tem efeito suspensivo (art. 408.º, n.º 1, al. a), CPP)\n- Art. 75.º RGCO — a Relação só conhece de matéria de direito e pode alterar a decisão recorrida, sem vinculação aos seus termos, salvo a proibição da reformatio in pejus (art. 72.º-A RGCO), ou anulá-la e devolver o processo ao tribunal recorrido",
+    "motivo": "O art. 74.º RGCO regula o prazo e a tramitação; o efeito decorre do art. 408.º CPP, por remissão do n.º 4; o âmbito e os efeitos da decisão estão no art. 75.º.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=199A0408&nid=199&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Erros de julgamento: prova que foi ignorada ou mal valorada",
+    "para": "- Matéria de facto: só os vícios do art. 410.º, n.º 2, CPP, demonstrados a partir do texto da sentença; não se pode pedir à Relação que reaprecie a prova (art. 75.º, n.º 1, RGCO)",
+    "motivo": "A Relação não reaprecia a prova no recurso contraordenacional.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=166&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "vem, no prazo de 20 dias úteis, interpor",
+    "para": "vem, no prazo de 10 dias (art. 74.º, n.º 1, do RGCO), interpor",
+    "motivo": "Prazo de 10 dias do art. 74.º, n.º 1, RGCO.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=166&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "**II. DOS VÍCIOS DA SENTENÇA (por analogia com art. 410.º CPP)**",
+    "para": "**II. DOS VÍCIOS DA SENTENÇA (art. 410.º, n.º 2, do CPP, ex vi arts. 41.º e 74.º, n.º 4, do RGCO)**",
+    "motivo": "O art. 410.º CPP aplica-se por remissão expressa do RGCO (arts. 41.º e 74.º, n.º 4), não por analogia.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=166&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "**III. DO ERRO DE JULGAMENTO DA MATÉRIA DE FACTO**\n[Se aplicável]\nA sentença deu como provado o facto \"[X]\", o que está em contradição com [documento / depoimento / prova objetiva], que demonstra [o contrário].\n[Indicar a prova concreta que sustenta a impugnação]",
+    "para": "**III. DA MATÉRIA DE FACTO FIXADA**\n[Só se aplicável. A Relação conhece apenas de matéria de direito (art. 75.º, n.º 1, do RGCO): não é admissível impugnar a matéria de facto com base na reapreciação da prova (documentos, depoimentos). Os erros de facto só relevam como vícios do art. 410.º, n.º 2, do CPP (secção II) ou na subsunção jurídica dos factos provados (secção IV).]",
+    "motivo": "A impugnação da matéria de facto com indicação de prova não é admissível no recurso para a Relação em processo contraordenacional.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=166&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "2. O facto [X] foi incorretamente dado como provado;\n3. Os factos não preenchem o tipo do art. [X.º];\n4. A coima",
+    "para": "2. Os factos não preenchem o tipo do art. [X.º];\n3. A coima",
+    "motivo": "Conclusão sobre facto «incorretamente dado como provado» pressupõe reapreciação da prova, que a Relação não faz (art. 75.º, n.º 1, RGCO).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=166&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Prazo de 20 dias úteis verificado (art. 73.º, n.º 3 RGCO)",
+    "para": "- [ ] Prazo de 10 dias verificado (art. 74.º, n.º 1, RGCO) e admissibilidade do recurso confirmada (art. 73.º, n.ºs 1 e 2, RGCO)",
+    "motivo": "Prazo de 10 dias do art. 74.º, n.º 1, RGCO.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=166&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Erros de facto impugnados com prova concreta",
+    "para": "- [ ] Sem impugnação da matéria de facto pela reapreciação da prova (a Relação só conhece de direito — art. 75.º, n.º 1, RGCO)",
+    "motivo": "A Relação só conhece de matéria de direito.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=166&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Erros de facto: [quais factos e com que prova se impugnam]",
+    "para": "- Erros de facto visíveis no texto da sentença: [quais e em que passagem]",
+    "motivo": "Só relevam os vícios que resultem do texto da decisão (art. 410.º, n.º 2, CPP).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=199A0410&nid=199&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar se a contraordenação tem regime especial com prazo de recurso próprio (por exemplo, ambiental ou laboral); a jurisprudência sobre o prazo do art. 74.º, n.º 1, RGCO não é unânime quanto à articulação com o art. 411.º CPP — confirmar a orientação da Relação competente.",
+   "Confirmar a contagem do prazo (art. 104.º CPP e lei do processo civil) e se a sentença foi lida na presença do arguido.",
+   "Se o caso não cabe no art. 73.º, n.º 1, RGCO, preparar o requerimento de aceitação do recurso (art. 73.º, n.º 2), que segue junto ao recurso e o antecede."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=166&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=199A0410&nid=199&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=199A0104&nid=199&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=199A0408&nid=199&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://trc.pt/2020/?p=23982"
+  ]
+ },
+ {
+  "codigo": "PEN-020",
+  "veredicto": "corrigida",
+  "resumo": "Os pressupostos do art. 61.º CP estavam deturpados: faltavam o consentimento do condenado (n.º 1), o mínimo de seis meses, a compatibilidade com a defesa da ordem jurídica e da paz social exigida a metade da pena (n.º 2, al. b)) e a fase dos dois terços (n.º 3); havia um requisito inventado («no mínimo 6 anos efetivos» nas penas longas) e a liberdade condicional obrigatória aos cinco sextos era citada como n.º 3 e como regra geral, quando está no n.º 4 e só vale para penas superiores a seis anos. Corrigiram-se os pressupostos, a citação da prognose (art. 61.º, n.º 2, al. a), CP) e o procedimento no CEPMPL (instrução oficiosa, relatórios, conselho técnico, audição do recluso no art. 176.º e não no art. 138.º, parecer do MP), e substituiu-se a «liberdade condicional especial» por figuras que existem (adaptação à liberdade condicional e modificação da execução da pena).",
+  "substituicoes": [
+   {
+    "de": "  a) Cumprimento de metade da pena (regra geral) — art. 61.º, n.º 2\n  b) Bom comportamento prisional\n  c) Prognose favorável de não reincidência: fundado juízo de que, em liberdade, conduzirá a sua vida sem praticar crimes\n  d) Para penas longas (> 6 anos): no mínimo 6 anos efetivos cumpridos\n  e) Liberdade condicional obrigatória: cumpridos 5/6 da pena (art. 61.º, n.º 3 CP) — salvo nos casos do n.º 4\n— O TEP decide após parecer dos serviços de reinserção social.",
+    "para": "  a) Consentimento do condenado, sempre exigido (art. 61.º, n.º 1, CP)\n  b) Metade da pena cumprida e, no mínimo, seis meses, se for fundadamente de esperar, atentas as circunstâncias do caso, a vida anterior do agente, a sua personalidade e a evolução desta durante a execução da pena, que, uma vez em liberdade, conduzirá a sua vida de modo socialmente responsável, sem cometer crimes (prognose favorável), e se a libertação se revelar compatível com a defesa da ordem jurídica e da paz social (art. 61.º, n.º 2, als. a) e b), CP)\n  c) Dois terços da pena cumpridos e, no mínimo, seis meses: basta a prognose favorável (art. 61.º, n.º 3, CP)\n  d) O comportamento prisional não é requisito autónomo: pesa na prognose, como evolução da personalidade durante a execução da pena\n  e) Liberdade condicional obrigatória, sem juízo de prognose: só nas penas de prisão superiores a seis anos, cumpridos cinco sextos da pena (art. 61.º, n.º 4, CP); na execução sucessiva de várias penas cuja soma exceda seis anos, cumpridos cinco sextos da soma (art. 63.º, n.º 3, do Código Penal)\n  f) Duração: o tempo de prisão que falte cumprir, até ao máximo de cinco anos (art. 61.º, n.º 5, CP)\n— O processo é instruído oficiosamente: até 90 dias antes da data admissível, o juiz pede os relatórios dos serviços prisionais e dos serviços de reinserção social (art. 173.º, n.º 1, do CEPMPL); seguem-se o parecer do conselho técnico (art. 175.º do CEPMPL), a audição do recluso, em que presta o consentimento (art. 176.º do CEPMPL), e o parecer do Ministério Público, antes da decisão (art. 177.º do CEPMPL). O requerimento serve sobretudo para juntar elementos relevantes para a decisão (art. 173.º, n.º 1, al. c), do CEPMPL).",
+    "motivo": "Pressupostos do art. 61.º CP na redação em vigor: consentimento (n.º 1), metade e mínimo de seis meses com as als. a) e b) (n.º 2), dois terços (n.º 3), cinco sextos só para penas superiores a seis anos (n.º 4); o requisito dos «6 anos efetivos» não existe; procedimento nos arts. 173.º a 177.º do CEPMPL.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=109&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Há condições especiais que justifiquem liberdade condicional especial (doença grave, idade, filhos menores)?",
+    "para": "- Há fundamento para a adaptação à liberdade condicional — antecipação até um ano, em regime de permanência na habitação com fiscalização por meios técnicos de controlo à distância (art. 62.º do Código Penal) — ou, em caso de doença grave e irreversível, deficiência grave ou idade igual ou superior a 70 anos, para a modificação da execução da pena (arts. 118.º e seguintes do CEPMPL)?",
+    "motivo": "A «liberdade condicional especial» não existe; as figuras próximas são a adaptação à liberdade condicional (art. 62.º CP) e a modificação da execução da pena (art. 118.º CEPMPL).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1147A0118&nid=1147&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- CEPMPL (Lei n.º 115/2009) — [■ VERIFICAR artigos sobre procedimento de liberdade condicional]\n- Parecer dos Serviços de Reinserção Social: obrigatório antes da decisão do TEP\n- Direito de audiência do recluso antes da decisão (art. 138.º CEPMPL — [■ VERIFICAR])",
+    "para": "- CEPMPL (Lei n.º 115/2009) — processo de liberdade condicional: instrução (art. 173.º), conselho técnico (art. 175.º), audição do recluso (art. 176.º), parecer do Ministério Público e decisão (art. 177.º), recurso, limitado à concessão ou recusa e, para o recluso, só da recusa (art. 179.º), e renovação da instância de 12 em 12 meses quando a liberdade condicional não for concedida e a prisão haja de prosseguir por mais de um ano (art. 180.º)\n- Relatórios dos serviços prisionais e dos serviços de reinserção social, pedidos pelo juiz até 90 dias antes da data admissível (art. 173.º, n.º 1, als. a) e b), do CEPMPL)\n- Audição do recluso antes da decisão, com a prestação do consentimento; o recluso pode oferecer as provas que julgar convenientes (art. 176.º, n.ºs 1 e 2, do CEPMPL)",
+    "motivo": "O procedimento está nos arts. 173.º a 180.º do CEPMPL; a audição do recluso é o art. 176.º (o art. 138.º trata da competência material do TEP); além do relatório da reinserção social há o dos serviços prisionais.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1147A0173&nid=1147&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "[Se liberdade condicional obrigatória:]\n5/6 da pena: [X × 5/6] = [Y] anos e [Z] meses — atingidos em [data] (art. 61.º, n.º 3 CP). ✓",
+    "para": "[Se dois terços da pena:]\n2/3 da pena: [X × 2/3] = [Y] anos e [Z] meses, atingidos em [data] (art. 61.º, n.º 3, CP). ✓\n\n[Se liberdade condicional obrigatória — só em pena de prisão superior a seis anos:]\n5/6 da pena: [X × 5/6] = [Y] anos e [Z] meses, atingidos em [data] (art. 61.º, n.º 4, CP). ✓",
+    "motivo": "Os cinco sextos estão no n.º 4 do art. 61.º CP e só valem para penas superiores a seis anos; os dois terços estão no n.º 3.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=109&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "Fundado juízo de que o requerente conduzirá a sua vida sem praticar crimes (art. 61.º, n.º 1, al. c) CP):",
+    "para": "Fundado juízo de que o requerente, uma vez em liberdade, conduzirá a sua vida de modo socialmente responsável, sem cometer crimes (art. 61.º, n.º 2, al. a), CP):",
+    "motivo": "A prognose está no art. 61.º, n.º 2, al. a), CP; o n.º 1 só exige o consentimento e não tem alíneas.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=109&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "E) **Ausência de riscos**: [os fatores que originaram o crime foram eliminados / o requerente completou programa de tratamento de dependências / etc.]",
+    "para": "E) **Ausência de riscos**: [os fatores que originaram o crime foram eliminados / o requerente completou programa de tratamento de dependências / etc.]\n\nF) **Defesa da ordem jurídica e da paz social** (só se o pedido for a metade da pena — art. 61.º, n.º 2, al. b), CP): [razões pelas quais a libertação é compatível com a defesa da ordem jurídica e da paz social].",
+    "motivo": "A metade da pena, a lei exige também a compatibilidade da libertação com a defesa da ordem jurídica e da paz social.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=109&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "\"Requer que seja decretada a **liberdade condicional** do requerente,",
+    "para": "O requerente declara que consente na sua colocação em liberdade condicional (art. 61.º, n.º 1, CP).\n\"Requer que seja concedida a **liberdade condicional** ao requerente,",
+    "motivo": "A liberdade condicional depende sempre do consentimento do condenado.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=109&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Requisito temporal verificado (metade ou 5/6 da pena — art. 61.º CP)",
+    "para": "- [ ] Requisito temporal verificado (metade da pena, dois terços ou, em pena superior a seis anos, cinco sextos, sempre com o mínimo de seis meses — art. 61.º CP)\n- [ ] Consentimento do condenado declarado (art. 61.º, n.º 1, CP)",
+    "motivo": "Faltavam a fase dos dois terços, o mínimo de seis meses e o consentimento.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=109&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Calcular as datas de metade, dois terços e, se a pena for superior a seis anos, cinco sextos a partir da liquidação da pena homologada no processo, com os descontos (detenção, prisão preventiva) já feitos.",
+   "Se houver execução sucessiva de várias penas, aplicar o art. 63.º CP ao cálculo.",
+   "Confirmar no processo de execução se o TEP já tem a instância de liberdade condicional aberta (instrução oficiosa do art. 173.º CEPMPL) e adaptar o requerimento à junção de elementos."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=109&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1147&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1147A0173&nid=1147&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1147A0180&nid=1147&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1147A0118&nid=1147&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+  ]
+ },
+ {
+  "codigo": "PEN-032",
+  "veredicto": "corrigida",
+  "resumo": "A ficha enumerava mal o art. 31.º, n.º 2, CP (as als. b) e c) são o exercício de um direito e o cumprimento de dever ou ordem legítima, não o direito de necessidade e o conflito de deveres, que são causas autónomas dos arts. 34.º e 36.º), deturpava os pressupostos do direito de necessidade («inadequação de meios», «proporcionalidade») e trocava os números do art. 33.º CP, atribuindo ao n.º 2 a atenuação especial, quando esta está no n.º 1 e o n.º 2 determina a não punição. Corrigiram-se a enumeração, os pressupostos do art. 34.º segundo a letra da lei, o regime do excesso de legítima defesa e a referência à obediência (art. 36.º, n.º 2, e art. 37.º CP); a análise passou a centrar-se na necessidade do meio e não na proporcionalidade.",
+  "substituicoes": [
+   {
+    "de": "distingue excesso intensivo (meios desproporcionados) de excesso extensivo (agressão já cessou).",
+    "para": "distingue excesso intensivo (meios empregados para além do necessário) de excesso extensivo (agressão já cessou).",
+    "motivo": "A legítima defesa exige o meio necessário (art. 32.º CP) e o art. 33.º trata do excesso dos meios empregados, não de proporcionalidade.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=109&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "(i) perigo atual; (ii) não voluntariamente causado; (iii) inadequação de meios; (iv) proporcionalidade do interesse sacrificado; (v) o agente não estava obrigado a suportar o perigo",
+    "para": "(i) perigo atual que ameace interesses juridicamente protegidos do agente ou de terceiro; (ii) facto praticado como meio adequado para afastar esse perigo; (iii) situação de perigo não criada voluntariamente pelo agente, salvo tratando-se de proteger o interesse de terceiro (al. a)); (iv) sensível superioridade do interesse a salvaguardar relativamente ao interesse sacrificado (al. b)); (v) razoabilidade de impor ao lesado o sacrifício do seu interesse, em atenção à natureza ou ao valor do interesse ameaçado (al. c))",
+    "motivo": "Pressupostos do art. 34.º CP segundo a letra da lei: meio adequado (não «inadequação»), sensível superioridade do interesse e razoabilidade do sacrifício.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=109&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- **Obediência devida e consentimento (arts. 36.º e 38.º CP):** quando aplicáveis [■ VERIFICAR]",
+    "para": "- **Cumprimento de dever ou de ordem legítima da autoridade e consentimento (art. 31.º, n.º 2, als. c) e d), e arts. 36.º e 38.º CP):** quando aplicáveis; o dever de obediência hierárquica cessa quando conduzir à prática de um crime (art. 36.º, n.º 2, CP) e a obediência indevida desculpante (art. 37.º CP) exclui a culpa, não a ilicitude [■ VERIFICAR]",
+    "motivo": "O art. 36.º CP é o conflito de deveres (o n.º 2 limita a obediência hierárquica); a obediência indevida desculpante é causa de exclusão da culpa (art. 37.º CP).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=109&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "O n.º 2 enuncia as principais causas: legítima defesa (al. a)), direito de necessidade (al. b)), conflito de deveres (al. c)) e consentimento (al. d)).",
+    "para": "O n.º 2 enuncia, a título exemplificativo, as principais causas: legítima defesa (al. a)), exercício de um direito (al. b)), cumprimento de um dever imposto por lei ou por ordem legítima da autoridade (al. c)) e consentimento do titular do interesse jurídico lesado (al. d)). O direito de necessidade (art. 34.º do CP) e o conflito de deveres (art. 36.º do CP) são causas de justificação autónomas, reguladas nos artigos seguintes.",
+    "motivo": "As als. b) e c) do art. 31.º, n.º 2, CP são o exercício de um direito e o cumprimento de dever ou ordem legítima da autoridade.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=109&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "[Análise de proporcionalidade e excesso, se pertinente — art. 33.º CP]",
+    "para": "[Análise da necessidade do meio empregado e do eventual excesso, se pertinente — art. 33.º CP]",
+    "motivo": "O art. 32.º CP exige que o facto seja o meio necessário para repelir a agressão; não exige proporcionalidade.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=109&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "analisar se houve perturbação, medo ou susto não censuráveis que justifiquem atenuação especial da pena nos termos do art. 33.º, n.º 2 CP]",
+    "para": "havendo excesso dos meios empregados, o facto é ilícito, mas a pena pode ser especialmente atenuada (art. 33.º, n.º 1, CP); se o excesso resultar de perturbação, medo ou susto, não censuráveis, o agente não é punido (art. 33.º, n.º 2, CP)]",
+    "motivo": "A atenuação especial está no art. 33.º, n.º 1, CP; o n.º 2 determina a não punição.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=109&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "O arguido excedeu os limites da legítima defesa (art. 33.º, n.º 1 CP). Contudo, verificando-se perturbação, medo ou susto não censuráveis (art. 33.º, n.º 2 CP), a pena pode ser especialmente atenuada ou excluída [■ VERIFICAR aplicação ao caso].",
+    "para": "O arguido excedeu os limites da legítima defesa (art. 33.º, n.º 1 CP): o facto é ilícito, mas a pena pode ser especialmente atenuada. Se o excesso resultou de perturbação, medo ou susto não censuráveis (art. 33.º, n.º 2 CP), o arguido não é punido [■ VERIFICAR aplicação ao caso].",
+    "motivo": "No excesso, o n.º 1 do art. 33.º CP permite a atenuação especial e o n.º 2 determina a não punição.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=109&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar a posição da jurisprudência da Relação competente sobre a exigência de animus defendendi e sobre o tratamento do excesso extensivo (fora ou dentro do art. 33.º CP).",
+   "Na legítima defesa, a lei exige o meio necessário; preparar a resposta a uma objeção de «desproporção» com base na necessidade do meio no caso concreto."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=109&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+  ]
+ },
+ {
+  "codigo": "PEN-033",
+  "veredicto": "corrigida",
+  "resumo": "A ficha aplicava às contraordenações rodoviárias o regime geral do RGCO: prazo de 20 dias úteis do art. 59.º para tudo e prescrição pelos arts. 27.º e 27.º-A, com prazos em aberto. O Código da Estrada tem regras próprias: defesa em 15 dias úteis após a notificação do auto (art. 175.º, n.º 2), impugnação judicial em 15 dias úteis após o conhecimento da decisão, apresentada na autoridade que aplicou a coima (art. 181.º, n.º 2, al. a)), e prescrição de dois anos do procedimento (art. 188.º) e da coima (art. 189.º). Corrigiram-se ainda as causas de exclusão (vêm do Código Penal, ex vi art. 32.º RGCO, não do art. 8.º RGCO) e o tratamento da sanção acessória: é a inibição de conduzir, a impugnação tem efeito suspensivo (art. 187.º) e a suspensão da execução (art. 141.º) e a atenuação especial (art. 140.º) dependem de pressupostos próprios.",
+  "substituicoes": [
+   {
+    "de": "— Verifica sempre o prazo de contestação: 20 dias úteis após notificação da decisão condenatória (art. 59.º RGCO) [■ VERIFICAR prazo nos autos].",
+    "para": "— Verifica sempre o prazo, que no Código da Estrada é especial: a defesa na fase administrativa é apresentada no prazo de 15 dias úteis a contar da notificação do auto (art. 175.º, n.º 2, do Código da Estrada); a impugnação judicial da decisão condenatória é apresentada por escrito, com alegações e conclusões, junto da autoridade administrativa que aplicou a coima, no prazo de 15 dias úteis após o seu conhecimento (art. 181.º, n.º 2, al. a), do Código da Estrada), e não no prazo geral de 20 dias do art. 59.º, n.º 3, RGCO [■ VERIFICAR prazo nos autos].",
+    "motivo": "Nas contraordenações rodoviárias, a defesa e a impugnação judicial têm prazos próprios de 15 dias úteis no Código da Estrada, que prevalece sobre o RGCO (art. 132.º do Código da Estrada).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=349A0181&nid=349&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "fase administrativa (defesa/recurso perante ANSR) vs. fase judicial (impugnação judicial art. 59.º RGCO).",
+    "para": "fase administrativa (defesa escrita, nos termos do art. 175.º do Código da Estrada, perante a ANSR) vs. fase judicial (impugnação judicial art. 59.º RGCO, no prazo especial do art. 181.º, n.º 2, al. a), do Código da Estrada).",
+    "motivo": "Na fase administrativa há defesa (art. 175.º do Código da Estrada), não recurso; a impugnação judicial segue o prazo especial do Código da Estrada.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=349A0175&nid=349&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "— Verifica prescrição do procedimento (art. 27.º RGCO) e prescrição da coima (art. 27.º-A RGCO).",
+    "para": "— Verifica a prescrição do procedimento: dois anos sobre a prática da contraordenação (art. 188.º, n.º 1, do Código da Estrada), com as causas de suspensão e de interrupção do RGCO (arts. 27.º-A e 28.º RGCO), a interrupção também pela notificação ao arguido da decisão condenatória (art. 188.º, n.º 2, do Código da Estrada) e o limite do prazo acrescido de metade, ressalvado o tempo de suspensão (art. 28.º, n.º 3, RGCO). Verifica também a prescrição da coima e das sanções acessórias: dois anos a contar do carácter definitivo da decisão ou do trânsito em julgado da sentença (art. 189.º do Código da Estrada). Os prazos do art. 27.º RGCO são o regime geral, afastado pelo Código da Estrada.",
+    "motivo": "A prescrição das contraordenações rodoviárias é de dois anos (arts. 188.º e 189.º do Código da Estrada); o art. 27.º-A RGCO trata da suspensão, não da prescrição da coima.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=349A0188&nid=349&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Prescrição: art. 27.º RGCO (prescrição do procedimento) e art. 27.º-A RGCO (prescrição da coima); prazos aplicáveis à infração em causa",
+    "para": "- Prescrição: nas contraordenações rodoviárias, o procedimento prescreve em dois anos (art. 188.º do Código da Estrada) e a coima e as sanções acessórias também em dois anos (art. 189.º do Código da Estrada); do RGCO, aplicável subsidiariamente (art. 132.º do Código da Estrada), valem as regras de suspensão e de interrupção (arts. 27.º-A, 28.º, 30.º e 30.º-A RGCO), não os prazos do art. 27.º RGCO",
+    "motivo": "Prazos especiais de dois anos nos arts. 188.º e 189.º do Código da Estrada; o RGCO só se aplica subsidiariamente.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=349A0188&nid=349&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Causas de exclusão da responsabilidade contraordenacional (art. 8.º RGCO — estado de necessidade, etc.) [■ VERIFICAR se aplicáveis]",
+    "para": "- Causas de exclusão da ilicitude e da culpa: as do Código Penal (direito de necessidade, estado de necessidade desculpante, etc. — arts. 34.º e 35.º CP), aplicáveis ex vi art. 32.º RGCO; o erro sobre elementos do tipo, sobre a proibição ou sobre um estado de coisas que afastaria a ilicitude ou a culpa exclui o dolo (art. 8.º, n.º 2, RGCO), mas a negligência é sempre sancionada nas contraordenações rodoviárias (art. 133.º do Código da Estrada); o erro sobre a ilicitude não censurável exclui a culpa (art. 9.º RGCO) [■ VERIFICAR se aplicáveis]",
+    "motivo": "O art. 8.º RGCO trata do dolo e da negligência; as causas de justificação e de desculpa vêm do Código Penal por remissão do art. 32.º RGCO.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=166&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Regime de atenuação especial da coima (art. 18.º RGCO) se pertinente",
+    "para": "- Atenuação especial, se pertinente: da coima, com redução dos limites mínimo e máximo a metade (art. 18.º, n.º 3, RGCO) [■ VERIFICAR os pressupostos no caso]; da sanção acessória, só nas contraordenações muito graves (art. 140.º do Código da Estrada); a medida da coima e da sanção acessória determina-se segundo o art. 139.º do Código da Estrada",
+    "motivo": "O art. 18.º, n.º 3, RGCO só fixa o efeito da atenuação especial; o Código da Estrada tem regras próprias para a medida da sanção (art. 139.º) e para a atenuação especial da sanção acessória (art. 140.º).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=349A0141&nid=349&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Se há sanção acessória de suspensão de carta: requerer a manutenção da carta até decisão definitiva [■ VERIFICAR art. 141.º CE e meios cautelares]",
+    "para": "- Se houver sanção acessória de inibição de conduzir: a impugnação judicial tem efeito suspensivo (art. 187.º, n.º 1, do Código da Estrada); na defesa, pode requerer-se a suspensão da execução da sanção acessória — só nas contraordenações graves e com a coima paga (art. 141.º do Código da Estrada) — ou a sua atenuação especial — só nas muito graves, sem contraordenação grave ou muito grave nos últimos cinco anos e com a coima paga (art. 140.º do Código da Estrada) [■ VERIFICAR os pressupostos no caso]",
+    "motivo": "A sanção acessória é a inibição de conduzir; a impugnação já tem efeito suspensivo e a suspensão da execução (art. 141.º) não é uma medida cautelar, mas uma suspensão com pressupostos próprios, requerida na defesa (art. 175.º, n.º 2, al. c)).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=349A0141&nid=349&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Está em prazo para contestar?",
+    "para": "- Está em prazo para a defesa (15 dias úteis após a notificação do auto — art. 175.º, n.º 2, do Código da Estrada) ou para a impugnação judicial (15 dias úteis após o conhecimento da decisão — art. 181.º, n.º 2, al. a), do Código da Estrada)?",
+    "motivo": "Prazos especiais do Código da Estrada.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=349A0175&nid=349&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "a sanção acessória (suspensão de carta, inibição)?",
+    "para": "a sanção acessória (inibição de conduzir)?",
+    "motivo": "No Código da Estrada a sanção acessória é a inibição de conduzir.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=349A0181&nid=349&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "**[FASE JUDICIAL]**\n**AO TRIBUNAL [COMARCA]**",
+    "para": "**[FASE JUDICIAL — impugnação dirigida ao tribunal, mas apresentada na autoridade administrativa que aplicou a coima (art. 181.º, n.º 2, al. a), do Código da Estrada)]**\n**AO TRIBUNAL [COMARCA]**",
+    "motivo": "A impugnação judicial é apresentada junto da autoridade administrativa que aplicou a coima, que remete os autos ao Ministério Público (art. 62.º RGCO).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=349A0181&nid=349&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "O arguido foi notificado de decisão condenatória por infração ao art. [X.º], n.º [Y] do Código da Estrada, imputando-se-lhe [descrição da infração], com aplicação de coima no montante de €[valor] e [sanção acessória, se houver].\nO arguido foi notificado em [data — VERIFICAR] e apresenta a presente contestação tempestivamente.",
+    "para": "[Fase administrativa:] O arguido foi notificado do auto de contraordenação n.º [número], por infração ao art. [X.º], n.º [Y] do Código da Estrada, imputando-se-lhe [descrição da infração], sancionável com coima de €[mínimo] a €[máximo] e [sanção acessória, se houver]. Notificado em [■ VERIFICAR: data da notificação do auto], apresenta a presente defesa no prazo de 15 dias úteis (art. 175.º, n.º 2, al. b), do Código da Estrada).\n[Fase judicial:] O arguido foi notificado da decisão condenatória da ANSR, por infração ao art. [X.º], n.º [Y] do Código da Estrada, com aplicação de coima no montante de €[valor] e [sanção acessória, se houver]. Tomou conhecimento da decisão em [■ VERIFICAR: data] e apresenta a presente impugnação judicial no prazo de 15 dias úteis (art. 181.º, n.º 2, al. a), do Código da Estrada).",
+    "motivo": "Na fase administrativa responde-se ao auto (defesa, art. 175.º); só na fase judicial há decisão condenatória a impugnar, com prazo de 15 dias úteis.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=349A0175&nid=349&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "O prazo de prescrição do procedimento contraordenacional, nos termos do art. 27.º do RGCO, é de [X] anos para esta categoria de infração [■ VERIFICAR].",
+    "para": "O prazo de prescrição do procedimento por contraordenação rodoviária é de dois anos sobre a prática da contraordenação (art. 188.º, n.º 1, do Código da Estrada), sem prejuízo das causas de suspensão e de interrupção (arts. 27.º-A e 28.º do RGCO e art. 188.º, n.º 2, do Código da Estrada), e a prescrição tem sempre lugar decorridos três anos, ressalvado o tempo de suspensão (art. 28.º, n.º 3, do RGCO) [■ VERIFICAR as causas de suspensão e de interrupção ocorridas nos autos].",
+    "motivo": "Prazo especial de dois anos do art. 188.º do Código da Estrada; limite máximo do prazo acrescido de metade (art. 28.º, n.º 3, RGCO).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=349A0188&nid=349&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "e) Que seja suspensa a execução da sanção acessória de suspensão da carta de condução até decisão definitiva [se aplicável — VERIFICAR].",
+    "para": "e) [Se aplicável:] Que seja suspensa a execução da sanção acessória de inibição de conduzir (art. 141.º do Código da Estrada) ou, tratando-se de contraordenação muito grave, que os seus limites sejam especialmente atenuados (art. 140.º do Código da Estrada) [■ VERIFICAR os pressupostos: coima paga e antecedentes do arguido nos últimos cinco anos].",
+    "motivo": "A suspensão da execução da sanção acessória (art. 141.º) e a atenuação especial (art. 140.º) dependem de pressupostos próprios; a impugnação judicial já tem efeito suspensivo (art. 187.º).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=349A0141&nid=349&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Prazo de contestação verificado (20 dias úteis após notificação — art. 59.º RGCO)",
+    "para": "- [ ] Prazo verificado (defesa: 15 dias úteis após a notificação do auto — art. 175.º, n.º 2, do Código da Estrada; impugnação judicial: 15 dias úteis após o conhecimento da decisão — art. 181.º, n.º 2, al. a), do Código da Estrada)",
+    "motivo": "Prazos especiais do Código da Estrada.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=349A0181&nid=349&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Prescrição do procedimento verificada (art. 27.º RGCO)\n- [ ] Prescrição da coima verificada (art. 27.º-A RGCO)",
+    "para": "- [ ] Prescrição do procedimento (dois anos — art. 188.º do Código da Estrada) verificada\n- [ ] Prescrição da coima e das sanções acessórias (dois anos — art. 189.º do Código da Estrada) verificada",
+    "motivo": "Prazos especiais de dois anos nos arts. 188.º e 189.º do Código da Estrada.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=349A0188&nid=349&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Sanção acessória: [suspensão de carta — N dias / inibição / outra]",
+    "para": "- Classificação da contraordenação: [leve / grave / muito grave]\n- Sanção acessória: [inibição de conduzir — N dias / outra]",
+    "motivo": "A classificação condiciona a sanção acessória, a sua suspensão (art. 141.º) e a atenuação especial (art. 140.º do Código da Estrada).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=349A0141&nid=349&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Data de notificação da decisão condenatória: [dd/mm/aaaa]",
+    "para": "- Data de notificação do auto: [dd/mm/aaaa]\n- Data de notificação da decisão condenatória: [dd/mm/aaaa]",
+    "motivo": "O prazo da defesa conta-se da notificação do auto (art. 175.º, n.º 2, do Código da Estrada).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=349A0175&nid=349&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar, na notificação recebida, a data relevante e a fase do processo: a defesa (auto) e a impugnação judicial (decisão) correm em prazos distintos de 15 dias úteis.",
+   "Na contagem da prescrição, reconstituir as causas de suspensão e de interrupção ocorridas nos autos (arts. 27.º-A e 28.º RGCO e art. 188.º, n.º 2, do Código da Estrada).",
+   "Confirmar a admissibilidade da atenuação especial da coima (art. 18.º, n.º 3, RGCO) nas contraordenações rodoviárias, à luz da jurisprudência da Relação competente."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=349A0175&nid=349&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=349A0181&nid=349&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=349A0188&nid=349&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=349A0141&nid=349&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=349A0132&nid=349&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=166&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=109&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://trc.pt/contraordenacao-rodoviaria-impugnacao-judicial-prazo/"
+  ]
+ },
+ {
+  "codigo": "PEN-034",
+  "veredicto": "corrigida",
+  "resumo": "A ficha seguia o regime anterior a 2007: dizia que o processo penal só é público após o inquérito e que, em segredo de justiça, o defensor precisa de autorização do juiz de instrução, e inventava um prazo de 48 horas (art. 89.º, n.º 3, CPP) e um n.º 9 do art. 89.º, que não existem. Hoje o processo é público, salvo exceções (art. 86.º, n.º 1, CPP), e, mesmo em segredo, os sujeitos processuais consultam mediante requerimento ao Ministério Público, que só se pode opor fundamentadamente, decidindo então o juiz por despacho irrecorrível (art. 89.º, n.ºs 1 e 2). Corrigiram-se as regras, as citações (certidões e cópias no art. 89.º, n.º 1, terceiros no art. 90.º), o destinatário do requerimento e acrescentou-se o acesso aos elementos da medida de coação (art. 194.º, n.º 8, CPP).",
+  "substituicoes": [
+   {
+    "de": "— Em segredo de justiça, o arguido e o defensor têm acesso condicionado, mas o defensor pode aceder para preparar a defesa (art. 89.º, n.º 1 CPP).\n— Certidões e cópias podem ser requeridas a todo o tempo mediante pagamento de taxa [■ VERIFICAR taxa vigente].\n— Prazo para o JIC decidir sobre o acesso em segredo de justiça: 48 horas (art. 89.º, n.º 3 CPP).",
+    "para": "— O processo penal é público, sob pena de nulidade, ressalvadas as exceções da lei (art. 86.º, n.º 1, CPP); o segredo de justiça é a exceção e só existe na fase de inquérito, determinado pelo juiz de instrução a requerimento do arguido, do assistente ou do ofendido (art. 86.º, n.º 2, CPP) ou pelo Ministério Público, com validação do juiz de instrução no prazo máximo de 72 horas (art. 86.º, n.º 3, CPP).\n— Durante o inquérito, o arguido, o assistente, o ofendido, o lesado e o responsável civil podem, mediante requerimento, consultar o processo e obter extratos, cópias ou certidões, mesmo em segredo de justiça, salvo oposição fundamentada do Ministério Público por a consulta poder prejudicar a investigação ou os direitos dos participantes processuais ou das vítimas (art. 89.º, n.º 1, CPP); havendo oposição, o requerimento é presente ao juiz, que decide por despacho irrecorrível (art. 89.º, n.º 2, CPP).\n— Findos os prazos de duração máxima do inquérito (art. 276.º CPP), o arguido, o assistente e o ofendido podem consultar todos os elementos do processo em segredo de justiça, salvo se o juiz de instrução, a requerimento do Ministério Público, adiar o acesso por um período máximo de três meses, prorrogável uma vez nos casos previstos na lei (art. 89.º, n.º 6, CPP).\n— Certidões e cópias pedem-se nos termos do art. 89.º, n.º 1, CPP (sujeitos processuais) ou do art. 90.º, n.º 1, CPP (terceiros com interesse legítimo, só em processo que não esteja em segredo de justiça), mediante pagamento [■ VERIFICAR taxa vigente].",
+    "motivo": "Regime em vigor dos arts. 86.º e 89.º CPP: publicidade como regra, consulta pelos sujeitos processuais mesmo em segredo salvo oposição do MP, decisão do juiz por despacho irrecorrível; o art. 89.º tem seis números e não prevê prazo de 48 horas.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=199&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "qualquer pessoa pode consultar os autos e obter cópias, salvo restrições legais; o arguido e o defensor têm direito irrestrito (art. 86.º, n.º 8 CPP)",
+    "para": "a publicidade implica o direito de consulta do auto e de obtenção de cópias, extratos e certidões (art. 86.º, n.º 6, al. c), CPP); os sujeitos processuais consultam e obtêm cópias nos termos do art. 89.º CPP e, tornado o processo público, podem requerer o exame gratuito dos autos fora da secretaria (art. 89.º, n.º 4, CPP); terceiros só com interesse legítimo, por despacho da autoridade judiciária (art. 90.º, n.º 1, CPP)",
+    "motivo": "O art. 86.º, n.º 8, CPP trata da vinculação ao segredo de justiça; o acesso dos sujeitos processuais está no art. 89.º e o de terceiros no art. 90.º.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=199&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- **Segredo de justiça (art. 86.º, n.ºs 2-6 CPP):** restrições à consulta durante o inquérito; o defensor pode sempre aceder para preparar a defesa com autorização do JIC (art. 89.º, n.º 1 CPP)",
+    "para": "- **Segredo de justiça (art. 86.º, n.ºs 2 a 5 e 8, CPP):** só na fase de inquérito e vincula todos os sujeitos e participantes processuais; ainda assim, os sujeitos processuais podem consultar o processo mediante requerimento, salvo oposição fundamentada do Ministério Público (art. 89.º, n.º 1, CPP), caso em que decide o juiz, por despacho irrecorrível (art. 89.º, n.º 2, CPP)",
+    "motivo": "Em segredo de justiça, o acesso não depende de autorização do JIC: o juiz só intervém se o MP se opuser (art. 89.º, n.º 2, CPP).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=199&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "ser informado dos factos imputados e dos meios de prova, antes de ser ouvido",
+    "para": "ser informado dos factos que lhe são imputados antes de prestar declarações perante qualquer entidade",
+    "motivo": "Texto do art. 61.º, n.º 1, al. c), CPP, que não abrange os meios de prova.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=199&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- **Certidões e cópias (art. 89.º, n.º 9 CPP):** as partes podem obter certidões e cópias das peças processuais, a expensas suas\n- **Prazo de JIC (art. 89.º, n.º 3 CPP):** 48 horas para decisão quando em segredo de justiça",
+    "para": "- **Certidões e cópias (art. 89.º, n.º 1, CPP):** os sujeitos processuais podem obter, em formato de papel ou digital, extratos, cópias ou certidões e aceder às gravações das declarações prestadas ou obter cópia delas, a expensas suas\n- **Oposição do Ministério Público (art. 89.º, n.º 2, CPP):** em processo sob segredo de justiça, o requerimento é presente ao juiz, que decide por despacho irrecorrível\n- **Medidas de coação (art. 194.º, n.º 8, CPP):** o arguido e o defensor podem consultar os elementos do processo determinantes da aplicação da medida de coação ou de garantia patrimonial, salvo o termo de identidade e residência, durante o interrogatório judicial e no prazo de interposição de recurso",
+    "motivo": "O art. 89.º CPP não tem n.º 9 nem prazo de 48 horas; as certidões e cópias estão no n.º 1 e a decisão do juiz no n.º 2; o art. 194.º, n.º 8, citado no índice da ficha, prevê o acesso aos elementos da medida de coação.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=199A0194&nid=199&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Se em segredo de justiça: invocar a necessidade concreta de aceder a diligências específicas para preparar a defesa; quanto mais específico for o pedido, mais fácil é obter autorização",
+    "para": "- Se em segredo de justiça: a consulta é a regra e cabe ao Ministério Público fundamentar a oposição (art. 89.º, n.º 1, CPP); ainda assim, identificar as diligências concretas e a necessidade para a defesa ajuda a decisão do juiz, se houver oposição (art. 89.º, n.º 2, CPP)",
+    "motivo": "Mesmo em segredo de justiça, os sujeitos processuais têm direito à consulta salvo oposição fundamentada do MP; não se trata de obter autorização.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=199&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Se visam apenas certidões: enquadrar no art. 89.º, n.º 9 CPP e oferecer-se para pagar as taxas",
+    "para": "- Se visam apenas certidões: enquadrar no art. 89.º, n.º 1, CPP (ou no art. 90.º CPP, se o requerente não for sujeito processual) e oferecer-se para pagar as taxas",
+    "motivo": "O art. 89.º CPP não tem n.º 9; as certidões estão no n.º 1 e, para terceiros, no art. 90.º.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=199&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Identificar qual a entidade competente para decidir: MP (processo público), JIC (segredo de justiça durante o inquérito), tribunal de julgamento (fase de audiência)",
+    "para": "- Identificar qual a entidade competente para decidir: o MP durante o inquérito, esteja ou não o processo em segredo de justiça; o juiz de instrução se o MP se opuser à consulta (art. 89.º, n.º 2, CPP) e na fase de instrução; nas fases seguintes, a autoridade judiciária que presidir à fase em que o processo se encontra",
+    "motivo": "No inquérito o requerimento é dirigido ao MP; o juiz de instrução só decide havendo oposição do MP.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=199&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "**[Processo público — AO MINISTÉRIO PÚBLICO / AO TRIBUNAL]**\n**— OU —**\n**[Segredo de justiça — AO JUIZ DE INSTRUÇÃO CRIMINAL]**",
+    "para": "**[Inquérito, público ou em segredo de justiça — AO MINISTÉRIO PÚBLICO]**\n**— OU —**\n**[Instrução ou fases seguintes — AO JUIZ / AO TRIBUNAL]**",
+    "motivo": "Em segredo de justiça, o requerimento é dirigido ao MP; só havendo oposição é presente ao juiz (art. 89.º, n.º 2, CPP).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=199&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "os processos penais são públicos após encerramento do inquérito. O arguido e o seu defensor têm sempre direito de aceder ao processo, nos termos do art. 86.º, n.º 8 do CPP, como manifestação",
+    "para": "o processo penal é público, sob pena de nulidade, ressalvadas as exceções previstas na lei, e a publicidade implica o direito de consulta do auto e de obtenção de cópias, extratos e certidões (art. 86.º, n.º 6, al. c), do CPP). O arguido, enquanto sujeito processual, pode consultar o processo e obter cópias e certidões, nos termos do art. 89.º, n.ºs 1 e 4, do CPP, como manifestação",
+    "motivo": "Desde a Lei n.º 48/2007, o processo penal é público desde o início (art. 86.º, n.º 1, CPP); o art. 86.º, n.º 8, trata da vinculação ao segredo.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=199&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "Porém, o art. 89.º, n.º 1 do CPP garante ao defensor o direito de aceder aos elementos do processo necessários para preparar a defesa, mediante autorização do Juiz de Instrução Criminal.",
+    "para": "Porém, o art. 89.º, n.º 1 do CPP permite ao arguido, mediante requerimento, consultar o processo e obter extratos, cópias ou certidões, mesmo em segredo de justiça, só podendo o Ministério Público opor-se se considerar, fundamentadamente, que a consulta pode prejudicar a investigação ou os direitos dos participantes processuais ou das vítimas; havendo oposição, o requerimento é presente ao juiz, que decide (art. 89.º, n.º 2, do CPP).",
+    "motivo": "O acesso em segredo de justiça não depende de autorização do JIC; o juiz decide só se o MP se opuser.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=199&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "a expensas do requerente (art. 89.º, n.º 9 CPP)",
+    "para": "a expensas do requerente (art. 89.º, n.º 1, CPP)",
+    "motivo": "O art. 89.º CPP não tem n.º 9; as certidões e cópias estão no n.º 1.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=199&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Oferta de pagamento de taxas incluída, se aplicável (art. 89.º, n.º 9 CPP)",
+    "para": "- [ ] Oferta de pagamento de taxas incluída, se aplicável (art. 89.º, n.º 1, CPP)",
+    "motivo": "O art. 89.º CPP não tem n.º 9.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=199&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar a taxa devida pelas certidões e cópias no Regulamento das Custas Processuais em vigor.",
+   "Em segredo de justiça, confirmar se o segredo foi determinado pelo JIC (art. 86.º, n.º 2) ou pelo MP com validação (n.º 3) e se já terminaram os prazos do art. 276.º CPP (acesso pleno pelo art. 89.º, n.º 6).",
+   "As Leis n.ºs 34/2026 e 37/2026 alteraram o CPP, mas não os arts. 86.º, 89.º, 90.º e 194.º (versão consolidada da PGDL); confirmar na data do requerimento."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=199&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=199A0194&nid=199&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+  ]
+ }
+]

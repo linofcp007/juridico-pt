@@ -1,0 +1,321 @@
+[
+  {
+    "codigo": "BAN-039",
+    "veredicto": "corrigida",
+    "resumo": "A ficha citava o art. 145.º-F RGICSF (cessação de funções dos órgãos sociais) para o princípio NCWO e para a indemnização pelo Fundo de Resolução, que estão nos arts. 145.º-D, n.º 1, al. c), e 145.º-H, n.ºs 14 a 16; fundava o prazo de impugnação no art. 268.º, n.º 4, CRP em vez do art. 58.º CPTA e omitia o regime especial do art. 145.º-AR. Corrigiu-se ainda a «reclamação no banco de transição» (os créditos não transferidos ficam na instituição objeto de resolução, que segue para liquidação), a lista de depósitos temporariamente elevados (o art. 166.º, n.º 2, não prevê heranças) e o reembolso do FGD, que é oficioso. A descrição dava o DL 31-A/2012 como transposição da BRRD, que foi feita pela Lei 23-A/2015.",
+    "descricao": "Elabora parecer ou peça judicial para defender os direitos de credores, obrigacionistas e acionistas afetados por medidas de resolução aplicadas pelo Banco de Portugal ao abrigo do Regime Geral das Instituições de Crédito e Sociedades Financeiras (RGICSF), cujo regime de resolução foi introduzido pelo Decreto-Lei n.º 31-A/2012 e reformulado pela Lei n.º 23-A/2015 (transposição da BRRD — Diretiva 2014/59/UE), incluindo a impugnação da medida de resolução e da avaliação que a integra, a reclamação de créditos não transferidos, a indemnização NCWO pelo Fundo de Resolução e a responsabilidade do Estado.",
+    "descricao_en": "Prepares an opinion or court pleading defending the rights of creditors, bondholders and shareholders affected by resolution measures applied by the Bank of Portugal under the Legal Framework of Credit Institutions and Financial Companies (RGICSF), whose resolution regime was introduced by Decree-Law No. 31-A/2012 and recast by Law No. 23-A/2015 (transposing the BRRD — Directive 2014/59/EU), including challenges to the resolution measure and the valuation forming part of it, claims for non-transferred liabilities, NCWO compensation from the Resolution Fund and State liability.",
+    "substituicoes": [
+      {
+        "de": "hierarquia de créditos no bail-in (capital, dívida subordinada, dívida sénior, depósitos não garantidos, depósitos >€100.000)",
+        "para": "hierarquia de créditos no bail-in (capital, dívida subordinada, dívida sénior, depósitos não garantidos — com privilégio creditório, primeiro os de pessoas singulares e PME acima de €100.000 e depois os restantes, art. 166.º-A, n.ºs 4 e 5, RGICSF); os depósitos garantidos até €100.000 não podem ser objeto de recapitalização interna (art. 145.º-U, n.º 6, al. a), RGICSF)",
+        "motivo": "Os depósitos acima de €100.000 são depósitos não garantidos (a ficha duplicava-os); faltava o privilégio dos depositantes e a exclusão dos depósitos garantidos do bail-in.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=948A0166A&nid=948&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Violação do princípio NCWO (art. 145.º-F, n.º 5, RGICSF) — avaliação independente confirma prejuízo superior à liquidação?",
+        "para": "- Violação do princípio NCWO (art. 145.º-D, n.º 1, al. c), RGICSF) — a avaliação independente posterior à resolução (art. 145.º-H, n.ºs 14 e 15, RGICSF) confirma prejuízo superior ao da liquidação?",
+        "motivo": "O art. 145.º-F RGICSF trata da cessação de funções dos órgãos sociais; o NCWO está no art. 145.º-D, n.º 1, al. c), e a avaliação ex post no art. 145.º-H, n.º 14.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=948A0145D&nid=948&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Falhas no processo de avaliação prévia: falta de independência, erros metodológicos",
+        "para": "- Falhas no processo de avaliação prévia: falta de independência, erros metodológicos (art. 145.º-H, n.ºs 1 e 3, RGICSF); a avaliação integra a decisão de resolução e não é autonomamente impugnável (art. 145.º-H, n.º 13, RGICSF), e a prova pericial sobre a valorização dos ativos e passivos faz-se no processo principal (art. 145.º-AR, n.º 2, RGICSF)",
+        "motivo": "A avaliação não se impugna autonomamente (art. 145.º-H, n.º 13) e a prova pericial da valorização faz-se no processo principal (art. 145.º-AR, n.º 2).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=948A0145H&nid=948&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Responsabilidade do Fundo de Resolução pela diferença (art. 145.º-F, n.º 7, RGICSF)",
+        "para": "- Direito a receber do Fundo de Resolução a diferença apurada na avaliação NCWO (art. 145.º-H, n.º 16, e art. 145.º-AA, n.º 1, al. f), RGICSF)",
+        "motivo": "O direito à diferença perante o Fundo de Resolução está no art. 145.º-H, n.º 16, e no art. 145.º-AA, n.º 1, al. f), RGICSF, não no art. 145.º-F.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=948A0145H&nid=948&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Recurso contencioso da decisão de resolução (prazo de 3 meses — art. 268.º, n.º 4, CRP)",
+        "para": "- Ação administrativa de impugnação da decisão de resolução do Banco de Portugal nos tribunais administrativos (art. 145.º-AR, n.º 1, RGICSF; prazo de 3 meses para atos anuláveis — art. 58.º, n.º 1, al. b), CPTA); presume-se que a suspensão de eficácia causa grave lesão do interesse público (art. 12.º, n.º 2, RGICSF) e o Banco de Portugal pode invocar causa legítima de inexecução de sentença anulatória, seguindo-se a fixação da indemnização (art. 145.º-AR, n.º 3, RGICSF) [■ VERIFICAR: se a resolução foi decidida no Mecanismo Único de Resolução, o programa de resolução do Conselho Único de Resolução impugna-se no Tribunal Geral da UE, com prazos próprios]",
+        "motivo": "O prazo de 3 meses resulta do art. 58.º, n.º 1, al. b), CPTA, não do art. 268.º, n.º 4, CRP; o RGICSF tem regras próprias para o contencioso da resolução (arts. 12.º e 145.º-AR).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?tabela=leis&artigo_id=&nid=948&ficha=301&pagina=&nversao=&so_miolo="
+      },
+      {
+        "de": "### ETAPA 3 — RECLAMAÇÃO DE CRÉDITO NO BANCO DE TRANSIÇÃO / PETIÇÃO\nRedige o documento adequado:",
+        "para": "### ETAPA 3 — RECLAMAÇÃO DE CRÉDITO / PETIÇÃO\nRedige o documento adequado, conforme o destino do crédito: se foi transferido para a instituição de transição, exige-se a esta; se não foi transferido, fica na instituição objeto de resolução, que, revogada a autorização, segue o regime de liquidação (art. 145.º-AQ RGICSF; DL 199/2006), e o crédito reclama-se nesse processo [■ VERIFICAR: prazo e forma da reclamação na liquidação]; a diferença NCWO pede-se ao Fundo de Resolução (art. 145.º-H, n.º 16, RGICSF):",
+        "motivo": "Os créditos não transferidos não se reclamam no banco de transição: ficam na instituição objeto de resolução, que segue para liquidação (art. 145.º-AQ RGICSF).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?tabela=leis&artigo_id=&nid=948&ficha=301&pagina=&nversao=&so_miolo="
+      },
+      {
+        "de": "Ao [Banco de transição / administrador de resolução]",
+        "para": "Ao [instituição objeto de resolução ou respetivo liquidatário / instituição de transição, se o crédito foi transferido / Fundo de Resolução, quanto à diferença NCWO]",
+        "motivo": "O destinatário depende de o crédito ter sido ou não transferido; a indemnização NCWO é devida pelo Fundo de Resolução.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=948A0145H&nid=948&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Prazo de pagamento: 7 dias úteis após determinação da indisponibilidade (Diretiva 2014/49/UE)\n- Depósitos temporariamente acima de €100.000 com proteção reforçada (imóvel, herança, seguro)\n- Processo de reclamação junto ao Fundo de Garantia de Depósitos",
+        "para": "- Prazo de reembolso: 7 dias úteis a contar da data em que se verifica a indisponibilidade dos depósitos (art. 167.º, n.º 1, RGICSF, que transpõe a Diretiva 2014/49/UE)\n- Depósitos sem o limite de €100.000 durante um ano a contar do crédito na conta: os decorrentes de transações imobiliárias relativas a prédios urbanos habitacionais privados, os depósitos com objetivos sociais definidos em diploma próprio e os que resultem de prestações de seguros ou de indemnizações por danos de crime ou de condenação indevida (art. 166.º, n.º 2, RGICSF) — as heranças não estão previstas\n- O reembolso pelo Fundo de Garantia de Depósitos é oficioso e não depende de pedido do depositante (art. 167.º, n.º 1, RGICSF); findo o prazo, o depositante pode ainda reclamar do Fundo o que lhe for devido, dentro do prazo de prescrição (art. 167.º, n.º 4, RGICSF)",
+        "motivo": "O art. 166.º, n.º 2, RGICSF não inclui heranças; o reembolso do FGD não depende de pedido (art. 167.º, n.º 1); falta a norma nacional do prazo de 7 dias úteis.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=948A0167&nid=948&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Confirmar se a instituição é significativa e está no Mecanismo Único de Resolução (Reg. (UE) 806/2014): aí o programa de resolução é do Conselho Único de Resolução, executado pelo Banco de Portugal, e o meio e o prazo de reação são os do direito da UE.",
+      "Contar o prazo de 3 meses do art. 58.º CPTA a partir da notificação ou publicação da medida e ponderar se há fundamento de nulidade, que não está sujeito a prazo.",
+      "Confirmar o regime da liquidação da instituição residual (DL 199/2006 e CIRE), o prazo de reclamação fixado e a graduação do crédito, incluindo a dívida sénior não preferencial (art. 8.º-A do DL 199/2006, aditado pela Lei 23/2019).",
+      "A responsabilidade do Estado por auxílio de Estado ou violação da BRRD deve ser fundamentada em jurisprudência concreta (casos BES e Banif), a pesquisar em dgsi.pt e no TJUE antes de a invocar."
+    ],
+    "fontes": [
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=948&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?tabela=leis&artigo_id=&nid=948&ficha=301&pagina=&nversao=&so_miolo=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=948A0012&nid=948&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=948A0145D&nid=948&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=948A0145H&nid=948&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=948A0145U&nid=948&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=948A0166&nid=948&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=948A0166A&nid=948&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=948A0167&nid=948&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=439A0058&nid=439&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2361&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1842&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+    ]
+  },
+  {
+    "codigo": "BAN-042",
+    "veredicto": "corrigida",
+    "resumo": "O prazo de conservação estava errado (5 anos em vez de 7, art. 51.º Lei 83/2017) e grande parte da numeração da Lei 83/2017 não correspondia à versão em vigor: entidades obrigadas (arts. 3.º e 4.º, não 2.º), medidas simplificadas e reforçadas (arts. 35.º e 36.º a 39.º), dever de não divulgação (art. 54.º, não 63.º), formação (art. 55.º), política de grupo (art. 22.º), PEP (art. 2.º, n.º 1, al. cc), e art. 39.º), acompanhamento contínuo (art. 27.º, al. c)) e contraordenações (arts. 169.º e ss.). A UIF não integra o DCIAP: a comunicação vai a ambos. O direito à conta básica está no regime dos serviços mínimos bancários (DL 27-C/2000), não nos arts. 2.º e ss. do DL 107/2017.",
+    "substituicoes": [
+      {
+        "de": "- Identificação das entidades obrigadas: art. 2.º Lei 83/2017 — qual a entidade financeira sujeita?",
+        "para": "- Identificação das entidades obrigadas: arts. 3.º (entidades financeiras) e 4.º (entidades não financeiras) Lei 83/2017 — qual a entidade financeira sujeita?",
+        "motivo": "O art. 2.º Lei 83/2017 contém as definições; as entidades obrigadas estão nos arts. 3.º e 4.º.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2750A0003&nid=2750&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Avaliação de risco: fatores de risco elevado (art. 35.º Lei 83/2017) vs. risco reduzido (art. 29.º)",
+        "para": "- Avaliação de risco: situações de risco potencialmente mais elevado (art. 36.º e anexo III Lei 83/2017) vs. risco potencialmente mais reduzido (art. 35.º e anexo II)",
+        "motivo": "O art. 35.º trata das medidas simplificadas (risco reduzido, anexo II) e o art. 36.º das reforçadas (risco elevado, anexo III); o art. 29.º respeita aos beneficiários efetivos.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2750A0036&nid=2750&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Medidas de due diligence: standard (arts. 24.º a 28.º), simplificada (art. 29.º) ou reforçada (arts. 35.º a 38.º)",
+        "para": "- Medidas de due diligence: normais (arts. 23.º a 34.º), simplificadas (art. 35.º) ou reforçadas (arts. 36.º a 39.º)",
+        "motivo": "Numeração da Lei 83/2017 em vigor: dever de identificação e diligência desde o art. 23.º, simplificadas no art. 35.º, reforçadas nos arts. 36.º a 39.º.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2750A0036&nid=2750&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Direito de acesso a conta de pagamento básica (arts. 2.º e ss. DL 107/2017)",
+        "para": "- Direito de acesso a conta de serviços mínimos bancários, a conta de pagamento com características básicas (DL 27-C/2000, na redação do DL 107/2017), e proibição de discriminação na abertura de conta (art. 35.º DL 107/2017)",
+        "motivo": "O DL 107/2017 transpôs a Diretiva 2014/92/UE alterando o DL 27-C/2000; o direito à conta básica está neste último e a não discriminação no art. 35.º do DL 107/2017.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2811A0035&nid=2811&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Dever de identificação e diligência (arts. 24.º a 26.º Lei 83/2017)",
+        "para": "- Dever de identificação e diligência (arts. 23.º a 28.º Lei 83/2017)",
+        "motivo": "O dever de identificação e diligência começa no art. 23.º e os procedimentos complementares e a adequação ao risco estão nos arts. 27.º e 28.º.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2750A0027&nid=2750&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Dever de conservação de documentos (art. 51.º — 5 anos)",
+        "para": "- Dever de conservação de documentos (art. 51.º — 7 anos após a identificação do cliente ou o termo da relação de negócio; registos das operações, 7 anos após a sua execução)",
+        "motivo": "O art. 51.º, n.ºs 1 e 2, Lei 83/2017 fixa 7 anos, não 5.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2750A0051&nid=2750&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Proibição de tipping off (art. 63.º) — não avisar o cliente da comunicação",
+        "para": "- Proibição de tipping off (art. 54.º — dever de não divulgação) — não avisar o cliente da comunicação",
+        "motivo": "O dever de não divulgação está no art. 54.º Lei 83/2017; o art. 63.º trata de operações próprias.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2750A0054&nid=2750&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Dever de abstenção e suspensão de operações (art. 47.º)",
+        "para": "- Dever de abstenção e suspensão de operações (arts. 47.º a 49.º)",
+        "motivo": "O art. 47.º é o dever de abstenção; a suspensão temporária e a sua confirmação estão nos arts. 48.º e 49.º.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2750A0047&nid=2750&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Responsabilidade por incumprimento (arts. 67.º e ss. Lei 83/2017 — contraordenações)",
+        "para": "- Responsabilidade por incumprimento (arts. 169.º e ss. Lei 83/2017 — contraordenações)",
+        "motivo": "As contraordenações estão nos arts. 169.º e seguintes; os arts. 67.º e ss. regulam as relações de correspondência.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2750A0169&nid=2750&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "[Invocação do direito a conta de pagamento básica (DL 107/2017) se aplicável]",
+        "para": "[Invocação do direito a conta de serviços mínimos bancários (DL 27-C/2000, na redação do DL 107/2017) e da proibição de discriminação (art. 35.º DL 107/2017), se aplicável]",
+        "motivo": "O direito à conta básica está no regime dos serviços mínimos bancários (DL 27-C/2000).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2811&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- [ ] PEP check — pessoa politicamente exposta (art. 3.º, n.º 7)",
+        "para": "- [ ] PEP check — pessoa politicamente exposta (art. 2.º, n.º 1, al. cc), e art. 39.º)",
+        "motivo": "A definição de PEP está no art. 2.º, n.º 1, al. cc), e as medidas no art. 39.º Lei 83/2017; o art. 3.º enumera as entidades financeiras.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2750A0039&nid=2750&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- [ ] Monitorização contínua da relação de negócio (art. 27.º, n.º 1, al. d))",
+        "para": "- [ ] Monitorização contínua da relação de negócio (art. 27.º, al. c))",
+        "motivo": "O acompanhamento contínuo está na al. c) do art. 27.º, que não tem números.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2750A0027&nid=2750&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- [ ] Formação dos colaboradores (art. 56.º)",
+        "para": "- [ ] Formação dos colaboradores (art. 55.º)",
+        "motivo": "O dever de formação está no art. 55.º Lei 83/2017; o art. 56.º trata da derrogação do dever de segredo.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2750A0055&nid=2750&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- [ ] Política de grupo PBCFT atualizada (Art. 42.º)",
+        "para": "- [ ] Política de grupo PBCFT atualizada (art. 22.º)",
+        "motivo": "As políticas ao nível do grupo estão no art. 22.º; o art. 42.º trata do recurso a terceiros do mesmo grupo para a identificação.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2750A0022&nid=2750&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- [ ] RAS comunicado à UIF (DCIAP) se existia suspeita (art. 43.º)",
+        "para": "- [ ] RAS comunicado ao DCIAP e à UIF se existia suspeita (art. 43.º)",
+        "motivo": "A UIF não integra o DCIAP: o art. 43.º manda comunicar a ambos.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2750A0043&nid=2750&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- [ ] Tipping off evitado (art. 63.º)",
+        "para": "- [ ] Tipping off evitado (art. 54.º)",
+        "motivo": "O dever de não divulgação está no art. 54.º Lei 83/2017.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2750A0054&nid=2750&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "A numeração foi conferida na versão consolidada em vigor da Lei 83/2017 (PGDL), já com alterações posteriores à Lei 58/2020 (por exemplo, criptoativos); confirmar a versão à data dos factos.",
+      "Do lado do cliente, o banco tem o dever de recusar ou pôr termo à relação quando não obtém os elementos de identificação ou a informação do art. 27.º (art. 50.º Lei 83/2017), e o dever de não divulgação (art. 54.º) limita o que pode explicar; a carta deve pedir os elementos em falta, não a revelação de eventuais comunicações.",
+      "Listas de sanções: as medidas restritivas vinculativas em Portugal são as da UE e da ONU (art. 21.º Lei 83/2017); as listas OFAC só relevam por política interna de risco.",
+      "Confirmar a regulamentação setorial do Banco de Portugal em vigor (aviso sobre prevenção do branqueamento) para prazos de atualização e procedimentos."
+    ],
+    "fontes": [
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2750&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2750A0003&nid=2750&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2750A0022&nid=2750&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2750A0027&nid=2750&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2750A0036&nid=2750&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2750A0039&nid=2750&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2750A0043&nid=2750&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2750A0047&nid=2750&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2750A0050&nid=2750&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2750A0051&nid=2750&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2750A0054&nid=2750&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2750A0055&nid=2750&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2750A0169&nid=2750&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2811&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2811A0035&nid=2811&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+    ]
+  },
+  {
+    "codigo": "BAN-045",
+    "veredicto": "corrigida",
+    "resumo": "A ficha atribuía ao art. 24.º, n.º 5, LCS (que não existe) um prazo de 3 anos para a seguradora reagir; o prazo é de 3 meses a contar do conhecimento (arts. 25.º, n.º 2, e 26.º, n.º 1) e, no seguro de vida, as omissões negligentes deixam de poder ser invocadas 2 anos após a celebração (art. 188.º). Confundia as consequências: o art. 25.º trata da omissão dolosa (anulabilidade) e o art. 26.º da negligente (alteração ou cessação, cobertura proporcional, nexo com o sinistro). O art. 46.º LCS (atos dolosos) não regula as exclusões, que dependem do destaque na apólice (art. 37.º, n.º 3) e do dever de informar do tomador no seguro de grupo (art. 78.º).",
+    "substituicoes": [
+      {
+        "de": "- Art. 25.º LCS — consequências da omissão: resolução do contrato vs. redução da indemnização (proporcionalidade)",
+        "para": "- Arts. 25.º e 26.º LCS — consequências da omissão: se dolosa, o contrato é anulável mediante declaração do segurador, que não cobre o sinistro ocorrido antes de conhecer o incumprimento (art. 25.º, n.ºs 1 e 3, LCS); se negligente, o segurador pode propor a alteração ou fazer cessar o contrato (art. 26.º, n.º 1, LCS) e, ocorrendo antes disso sinistro influenciado pelo facto omitido, cobre-o na proporção entre o prémio pago e o devido, ou não o cobre se provar que nunca teria contratado (art. 26.º, n.º 4, LCS)",
+        "motivo": "O art. 25.º LCS regula só a omissão dolosa (anulabilidade); a omissão negligente e a cobertura proporcional estão no art. 26.º.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2657A0026&nid=2657&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Art. 46.º LCS — exclusões de cobertura: são claras? Foram comunicadas ao segurado?",
+        "para": "- Exclusões de cobertura: constam da apólice em caracteres destacados (art. 37.º, n.º 3, al. b), LCS)? No seguro de grupo, o tomador (banco) informou o segurado das coberturas e exclusões e consegue prová-lo (art. 78.º, n.ºs 1 e 3, LCS)? Cláusulas não comunicadas consideram-se excluídas do contrato (art. 8.º, al. a), DL 446/85) [■ VERIFICAR: a quem a jurisprudência atual imputa a falta de comunicação no seguro de grupo — tomador ou segurador]; o art. 46.º LCS só trata do sinistro causado dolosamente",
+        "motivo": "O art. 46.º LCS respeita a atos dolosos; o destaque das exclusões está no art. 37.º, n.º 3, al. b), e o dever de informar no seguro de grupo no art. 78.º.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2657A0037&nid=2657&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Prescrição do direito de resolução por parte da seguradora (art. 24.º, n.º 5, LCS — 3 anos da celebração ou do conhecimento)",
+        "para": "- Prazos do segurador: a declaração de anulação (dolo) ou de alteração ou cessação (negligência) envia-se no prazo de 3 meses a contar do conhecimento do incumprimento (arts. 25.º, n.º 2, e 26.º, n.º 1, LCS); no seguro de vida, decorridos 2 anos sobre a celebração, o segurador já não se pode prevalecer de omissões ou inexatidões negligentes, salvo convenção de prazo mais curto (art. 188.º, n.º 1, LCS), regra que não se aplica às coberturas complementares de acidente e invalidez, salvo previsão contratual (art. 188.º, n.º 2, LCS)",
+        "motivo": "O art. 24.º LCS não tem n.º 5 nem prazo de 3 anos; os prazos são de 3 meses (arts. 25.º e 26.º) e a incontestabilidade do seguro de vida é de 2 anos (art. 188.º).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2657A0188&nid=2657&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Nexo de causalidade exigido entre pré-existência e sinistro: a seguradora tem de provar o nexo?",
+        "para": "- Nexo de causalidade exigido entre pré-existência e sinistro: na omissão negligente só releva o sinistro cuja verificação ou consequências tenham sido influenciadas pelo facto omitido (art. 26.º, n.º 4, LCS); na dolosa, a lei não exige esse nexo (art. 25.º, n.º 3, LCS). A seguradora tem de provar o nexo?",
+        "motivo": "O nexo com o sinistro só é exigido na omissão negligente (art. 26.º, n.º 4, LCS).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2657A0026&nid=2657&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "Estrutua os pontos principais",
+        "para": "Estrutura os pontos principais",
+        "motivo": "Gralha.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2657A0026&nid=2657&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Direito aplicável: arts. 24.º, 25.º e 46.º LCS\n- Pedido: pagamento da capital segurado ao banco",
+        "para": "- Direito aplicável: arts. 24.º a 26.º, 37.º, 78.º e 188.º LCS (o art. 46.º só se a seguradora invocar sinistro doloso)\n- Pedido: pagamento do capital seguro ao banco",
+        "motivo": "Faltavam as normas da omissão negligente (art. 26.º), do destaque das exclusões (art. 37.º), do dever de informar no seguro de grupo (art. 78.º) e da incontestabilidade (art. 188.º).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2657A0188&nid=2657&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Direito ao esquecimento: se a doença foi superada ou mitigada, a seguradora não podia recolher essa informação de saúde decorridos os prazos do art. 3.º, n.º 2, Lei 75/2021 (10 anos após o fim do protocolo terapêutico, 5 se antes dos 21 anos, 2 de protocolo eficaz no risco mitigado) nem agravar o prémio ou excluir garantias; ver também o acordo do art. 15.º-A LCS.",
+      "Ver o art. 24.º, n.º 3, LCS: o segurador que aceitou o contrato não se pode prevalecer de omissão de resposta, de resposta a pergunta demasiado genérica, de contradições evidentes no questionário ou de factos conhecidos do seu representante.",
+      "Prescrição dos direitos do segurado e do beneficiário: 5 anos a contar do conhecimento do direito (art. 121.º, n.º 2, LCS).",
+      "Confirmar na jurisprudência do STJ a quem cabe o ónus da prova do nexo causal e do dolo na declaração de saúde e a quem é oponível a falta de informação no seguro de grupo associado ao crédito."
+    ],
+    "fontes": [
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2657&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2657A0025&nid=2657&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2657A0026&nid=2657&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2657A0037&nid=2657&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2657A0188&nid=2657&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=837A0008&nid=837&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=3478A0003&nid=3478&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+    ]
+  },
+  {
+    "codigo": "BAN-046",
+    "veredicto": "corrigida",
+    "resumo": "A ficha situava o direito à conta básica nos arts. 3.º, 6.º e 11.º do DL 107/2017, que tratam de definições, do documento de comissões e do comparador; o regime está no DL 27-C/2000 (serviços mínimos bancários), na redação do DL 107/2017, e a não discriminação no art. 35.º deste. Os fundamentos de recusa e de resolução estavam mal descritos (a recusa é por titularidade de outra conta à ordem em Portugal ou por recusa da declaração; a resolução inclui a perda de residência legal na UE e produz efeitos imediatos ou 60 dias depois, não 2 meses) e a queixa por discriminação era dirigida à CNPD, quando a entidade competente é a CICDR (Lei 93/2017 e Lei 3/2024).",
+    "descricao": "Elabora análise jurídica e reclamação formal para situações em que uma instituição de crédito recusa a abertura de conta bancária a cidadão estrangeiro residente em Portugal ou residente noutro Estado-Membro da UE, invocando o direito a conta de serviços mínimos bancários — a conta de pagamento com características básicas da Diretiva 2014/92/UE (Diretiva PAD) — ao abrigo do DL 27-C/2000, na redação do DL 107/2017, e a proibição de discriminação do art. 35.º do DL 107/2017, e para situações de encerramento unilateral de conta sem fundamento legal ou por motivo discriminatório.",
+    "descricao_en": "Prepares a legal analysis and formal complaint where a credit institution refuses to open a bank account for a foreign national resident in Portugal or in another EU Member State, invoking the right to a minimum banking services account — the basic payment account of Directive 2014/92/EU (Payment Accounts Directive, PAD) — under Decree-Law 27-C/2000 as amended by Decree-Law 107/2017, and the non-discrimination rule in Article 35 of Decree-Law 107/2017, and for unilateral account closures without legal grounds or on discriminatory grounds.",
+    "substituicoes": [
+      {
+        "de": "- Âmbito do DL 107/2017: qualquer pessoa residente legal em Portugal (ou com pedido de asilo pendente) tem direito a conta de pagamento básica\n- A residência inclui residência noutro Estado-Membro da UE (art. 3.º, n.º 2, DL 107/2017)\n- Fundamentos de recusa admitidos: branqueamento de capitais, terrorismo, pedido de mais de uma conta básica na mesma instituição\n- Fundamentos de recusa não admitidos: nacionalidade, residência fora de Portugal (dentro da UE), falta de emprego, ausência de NIF (pode ser atribuído)\n- Obrigações do banco: informar sobre conta básica, responder em 10 dias úteis, justificar recusa (art. 6.º DL 107/2017)",
+        "para": "- Regime: em Portugal, a conta de pagamento com características básicas da Diretiva 2014/92/UE é a conta de serviços mínimos bancários do DL 27-C/2000, na redação do DL 107/2017 (que transpôs a diretiva); o DL 107/2017 regula ainda a não discriminação no acesso a contas de pagamento (art. 35.º DL 107/2017)\n- Titulares: pessoas singulares com direito a residir num Estado-Membro da UE por força do direito da União ou do direito nacional, incluindo consumidores sem domicílio fixo, requerentes de asilo e pessoas sem autorização de residência cuja expulsão seja impossível (art. 1.º, n.º 2, al. g), DL 27-C/2000); não se exige residência em Portugal\n- Fundamentos de recusa admitidos: além das situações previstas na lei e nos regulamentos (por exemplo, o dever de recusa do art. 50.º Lei 83/2017 quando não se obtenham os elementos de identificação e diligência), só a titularidade de outra conta de depósito à ordem em instituição de crédito em Portugal — salvo contitularidade com pessoa com mais de 65 anos ou dependente de terceiros (art. 4.º-B, n.ºs 3 e 4, DL 27-C/2000) ou notificação de que essa conta vai ser encerrada — e a recusa da declaração de que não tem outra conta (art. 4.º, n.ºs 1, 2 e 5, DL 27-C/2000)\n- Fundamentos de recusa não admitidos: nacionalidade, local de residência, território de origem, situação económica (por exemplo, falta de emprego) e os demais fatores do art. 35.º DL 107/2017; a falta de NIF português não basta quando o interessado tenha número equivalente emitido por autoridade estrangeira (art. 24.º, n.º 1, al. a), subal. vii), Lei 83/2017) [■ VERIFICAR: exigências regulamentares do Banco de Portugal quanto ao NIF]\n- Obrigações do banco: abrir a conta ou recusar o pedido sem demora indevida e o mais tardar 10 dias úteis após a receção do pedido completo (art. 4.º, n.º 3, DL 27-C/2000); comunicar a recusa de imediato, gratuitamente, em papel ou noutro suporte duradouro, com os motivos e os meios de reação — reclamação ao Banco de Portugal e resolução alternativa de litígios —, salvo se a lei o proibir ou por razões de ordem ou segurança pública (art. 4.º, n.ºs 7 e 8, DL 27-C/2000); não exigir documentos adicionais, depósito mínimo nem produtos associados (art. 4.º-D, n.º 1, DL 27-C/2000)",
+        "motivo": "Os arts. 3.º e 6.º do DL 107/2017 tratam de definições e do documento de informação sobre comissões; o direito à conta, os fundamentos de recusa e o prazo de 10 dias úteis estão nos arts. 1.º e 4.º do DL 27-C/2000.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2811&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- Fundamentos admitidos para encerramento unilateral (art. 11.º DL 107/2017):\n  a) Informação falsa para abertura\n  b) Utilização da conta para fins ilegais\n  c) Ausência de movimentos por mais de 24 meses\n  d) Mais de uma conta de serviços mínimos na mesma instituição\n- Aviso prévio de 2 meses antes do encerramento (art. 11.º, n.º 3)\n- Direito de defesa do titular antes do encerramento\n- Encerramento por outros motivos = ilegal",
+        "para": "- Fundamentos admitidos para a resolução do contrato pelo banco (art. 5.º, n.º 1, DL 27-C/2000), sem prejuízo da resolução prevista noutras disposições legais (por exemplo, art. 50.º, n.ºs 2 e 3, Lei 83/2017):\n  a) Utilização deliberada da conta para fins contrários à lei\n  b) Nenhuma das operações incluídas (depósitos, levantamentos, pagamentos, débitos diretos, transferências) durante, pelo menos, 24 meses consecutivos\n  c) Informações incorretas prestadas para obter a conta, sem preencher os requisitos de acesso\n  d) Perda da residência legal na UE, salvo consumidor sem domicílio fixo ou requerente de asilo\n  e) Titularidade, durante o contrato, de outra conta de depósito à ordem em instituição de crédito em Portugal que permita os mesmos serviços, salvo nos casos do art. 4.º-B, n.ºs 3 e 4\n- Efeitos: imediatos nas alíneas a) e c); 60 dias após a comunicação nas alíneas b), d) e e) (art. 5.º, n.ºs 2 e 3, DL 27-C/2000)\n- Comunicação gratuita, em papel ou noutro suporte duradouro, com os motivos e os meios de reclamação e de resolução alternativa de litígios, salvo razões de segurança objetivamente fundamentadas ou proibição legal (art. 5.º, n.ºs 5 e 6, DL 27-C/2000); o saldo é devolvido ao titular (n.º 7)\n- Resolução sem um destes fundamentos nem outro fundamento legal = ilícita",
+        "motivo": "O art. 11.º DL 107/2017 trata do sítio comparativo de comissões; a resolução está no art. 5.º DL 27-C/2000, com efeito imediato ou a 60 dias, e inclui a perda de residência legal na UE.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2811&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "[Direito invocado: art. 3.º DL 107/2017 — conta de pagamento básica]",
+        "para": "[Direito invocado: arts. 1.º, 2.º e 4.º DL 27-C/2000 — conta de serviços mínimos bancários (conta de pagamento com características básicas) — e art. 35.º DL 107/2017 — não discriminação]",
+        "motivo": "O art. 3.º DL 107/2017 contém definições; o direito à conta está no DL 27-C/2000.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2811A0035&nid=2811&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "[Aviso de reclamação ao Banco de Portugal e CNPD se discriminação]",
+        "para": "[Aviso de reclamação ao Banco de Portugal (art. 31.º DL 107/2017) e de recurso à resolução alternativa de litígios (art. 5.º-A DL 27-C/2000); se houver discriminação em razão da nacionalidade, origem racial ou étnica, cor, língua, ascendência ou território de origem, queixa à Comissão para a Igualdade e contra a Discriminação Racial — CICDR (Lei 93/2017 e Lei 3/2024)]",
+        "motivo": "A CNPD é a autoridade de proteção de dados; a discriminação em razão da nacionalidade ou origem cabe à CICDR, entidade independente criada pela Lei 3/2024.",
+        "fonte": "https://diariodarepublica.pt/redirect/LinkFicheiroAntigo.aspx?conteudoId=836604892"
+      },
+      {
+        "de": "- [ ] Prova de inexistência de outra conta básica no mesmo banco",
+        "para": "- [ ] Declaração de que não é titular de outra conta de depósito à ordem em instituição de crédito em Portugal, ou de que foi notificado do encerramento da sua conta (art. 4.º, n.º 2, DL 27-C/2000)",
+        "motivo": "O requisito legal é não ter outra conta à ordem em Portugal, provado por declaração do interessado (art. 4.º, n.º 2, DL 27-C/2000).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2811&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Confirmar no Diário da República o texto consolidado em vigor do DL 27-C/2000 (última alteração pela Lei 24/2023, que só mexeu no art. 3.º); a redação usada vem da republicação pelo DL 107/2017, com as alterações da Lei 21/2018 e do DL 56/2021.",
+      "O regime dos serviços mínimos bancários só abrange pessoas singulares: a recusa de conta a uma empresa não se resolve por esta via.",
+      "Confirmar a regulamentação do Banco de Portugal sobre a identificação de clientes estrangeiros sem NIF português e sobre o reporte das recusas.",
+      "A CNPD só intervém se houver uma questão de proteção de dados (por exemplo, recolha excessiva de dados na abertura de conta)."
+    ],
+    "fontes": [
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2811&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2811A0031&nid=2811&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2811A0035&nid=2811&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://diariodarepublica.pt/redirect/LinkFicheiroAntigo.aspx?conteudoId=115235753",
+      "https://diariodarepublica.pt/redirect/LinkFicheiroAntigo.aspx?conteudoId=140631199",
+      "https://files.diariodarepublica.pt/1s/2021/06/12500/0000500019.pdf",
+      "https://diariodarepublica.pt/redirect/LinkFicheiroAntigo.aspx?conteudoId=213650800",
+      "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2000-106398173-140630086",
+      "https://diariodarepublica.pt/redirect/LinkFicheiroAntigo.aspx?conteudoId=836604892",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2750A0024&nid=2750&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2750A0050&nid=2750&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+    ]
+  }
+]

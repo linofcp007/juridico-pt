@@ -1,0 +1,203 @@
+[
+  {
+    "codigo": "TRA-035",
+    "triagem": "rever",
+    "gravidade": "media",
+    "motivos": [
+      "A ficha trabalha com 6 indícios do art. 12.º CT e inclui a «exclusividade» como indício; a exclusividade não consta da lista legal da presunção de laboralidade (local, equipamentos, horário, retribuição certa e periódica, funções de direção/chefia, conforme a redação em vigor após a Lei n.º 13/2023). A contagem «1 a 6» e os limiares de risco (0-1, 2-3, 4+) são inventados: a presunção opera quando se verifiquem algumas das características. A confirmar o elenco exato do art. 12.º n.º 1 na redação atual."
+    ]
+  },
+  {
+    "codigo": "TRA-036",
+    "triagem": "rever",
+    "gravidade": "alta",
+    "motivos": [
+      "Prazo de recurso errado: a ficha diz 30 dias (15 nos urgentes), que é o prazo geral do CPC (art. 638.º). No processo laboral o prazo de interposição da apelação é de 20 dias (art. 80.º CPT), acrescido de 10 dias se o recurso impugnar matéria de facto com reapreciação de prova gravada. Seguir a ficha pode levar a recurso fora de prazo. A confirmar o regime dos processos urgentes no art. 80.º CPT."
+    ]
+  },
+  {
+    "codigo": "TRA-037",
+    "triagem": "ok"
+  },
+  {
+    "codigo": "TRA-038",
+    "triagem": "ok"
+  },
+  {
+    "codigo": "TRA-039",
+    "triagem": "rever",
+    "gravidade": "media",
+    "motivos": [
+      "Prescrição e caducidade trocadas na etapa 1: pergunta se «a infração foi comunicada ao empregador há mais de um ano» (art. 329.º n.º 2). A prescrição de 1 ano conta desde a prática da infração (art. 329.º n.º 1), não desde a comunicação; os 60 dias para instaurar o procedimento a partir do conhecimento estão no n.º 2. A checklist final já diz «1 ano desde a prática», pelo que a ficha é incoerente.",
+      "Prevê «audiência oral» do trabalhador (art. 356.º n.º 3 CT). O procedimento disciplinar do CT não tem audiência oral: o trabalhador requer diligências probatórias e arrola testemunhas (art. 355.º-356.º) e o n.º 3 do art. 356.º limita as testemunhas (3 por facto, 10 no total). Instituto inexistente nesta forma.",
+      "Indica como vício formal a «não indicação da sanção máxima prevista» na nota de culpa; a lei só exige a descrição circunstanciada dos factos (art. 353.º). Alegação sem base legal. O parecer da comissão de trabalhadores e a cópia à associação sindical (art. 356.º n.º 5) não dependem de o trabalhador ser membro ou representante, como a checklist sugere."
+    ]
+  },
+  {
+    "codigo": "TRA-040",
+    "triagem": "ok"
+  },
+  {
+    "codigo": "TRA-043",
+    "triagem": "rever",
+    "gravidade": "baixa",
+    "motivos": [
+      "Atribui a transposição da Diretiva 96/71/CE ao Decreto-Lei n.º 136/2015, de 28 de julho. O regime nacional do destacamento consta dos arts. 6.º a 8.º CT, com as alterações das leis que transpuseram as Diretivas 2014/67/UE e 2018/957/UE; o diploma citado parece não ser o de transposição (a confirmar).",
+      "O regime nacional do CT (arts. 6.º-8.º) respeita sobretudo ao destacamento para Portugal; no destacamento de saída aplica-se a lei do Estado de acolhimento, e a Diretiva 2018/957 fala em remuneração (não apenas salário mínimo) do Estado de acolhimento. A ficha simplifica em excesso."
+    ]
+  },
+  {
+    "codigo": "TRA-044",
+    "triagem": "rever",
+    "gravidade": "media",
+    "motivos": [
+      "Exige «15 anos de antiguidade na empresa» como requisito de acesso à pré-reforma (art. 318.º n.º 1 CT). A noção legal assenta na idade (55 anos) e no acordo; o requisito de 15 anos de antiguidade não consta do CT, ao que sei (a confirmar).",
+      "Mínimos da prestação de pré-reforma (25% com redução, 50% com suspensão total, art. 320.º n.º 2) com aspeto trocado ou inexato; os mínimos legais do montante da prestação devem ser confirmados no art. 320.º CT (a confirmar).",
+      "A contribuição para a segurança social «com base nas retribuições efetivamente pagas» deve ser confirmada no Código Contributivo (a base de incidência na pré-reforma tem regras próprias); a própria ficha já deixa [VERIFICAR] nesse ponto."
+    ]
+  },
+  {
+    "codigo": "TRA-045",
+    "triagem": "rever",
+    "gravidade": "media",
+    "motivos": [
+      "Apresenta a política de desconexão como «obrigação legal das empresas com mais de 10 trabalhadores». O art. 199.º-A CT (Lei n.º 83/2021) consagra um dever de abstenção de contacto do empregador no período de descanso, aplicável a todos os empregadores, sem limiar de 10 trabalhadores e sem obrigação de adotar uma política escrita. O limiar de 10 trabalhadores vem de outras normas do teletrabalho (a confirmar).",
+      "A remissão para o «art. 199.º-A, n.º 5, CT» para a contraordenação é duvidosa: a violação do dever de abstenção é contraordenação grave, mas a numeração do artigo deve ser confirmada."
+    ]
+  },
+  {
+    "codigo": "TRA-046",
+    "triagem": "rever",
+    "gravidade": "baixa",
+    "motivos": [
+      "Afirma um direito de transferência para horário diurno de «trabalhadores com filho menor de 12 anos» e fala em «exclusão» de turnos noturnos de grávidas/lactantes. O CT prevê a dispensa de trabalho noturno da grávida, puérpera e lactante (art. 60.º, período entre as 20h e as 7h), e o horário flexível do trabalhador com filho menor de 12 anos (art. 56.º); não há um direito geral de transferência para o dia por ter filho menor (a confirmar).",
+      "Omite o direito, a pedido, de trabalhadores com certa idade/antiguidade em turnos a passar a regime sem turnos e confunde o período noturno geral (22h-7h) com o da dispensa da grávida. Pontos a confirmar nos arts. 221.º-222.º e 60.º CT."
+    ]
+  },
+  {
+    "codigo": "TRA-047",
+    "triagem": "rever",
+    "gravidade": "media",
+    "motivos": [
+      "Indica prescrição de «1 ano — art. 498.º CC», e o próprio [VERIFICAR] admite que o art. 498.º CC fixa 3 anos e que o ano é o do art. 337.º CT (após a cessação). A ficha deixa a regra errada no texto sem a resolver: os créditos emergentes do contrato de trabalho ou da sua violação prescrevem 1 ano após a cessação (art. 337.º n.º 1 CT) e não correm durante o contrato.",
+      "Cita o art. 85.º do CPT para a competência dos tribunais do trabalho; é norma da antiga LOFTJ (Lei n.º 3/99), hoje art. 126.º da LOSJ (Lei n.º 62/2013). A confirmar.",
+      "Enumera artigos 14.º-22.º CT com direitos trocados (art. 20.º repetido, «art. 21.º proteção da grávida»), já parcialmente marcados com [VERIFICAR]: o art. 21.º CT trata da vigilância a distância e o 22.º da confidencialidade de mensagens."
+    ]
+  },
+  {
+    "codigo": "TRA-048",
+    "triagem": "ok"
+  },
+  {
+    "codigo": "TRA-049",
+    "triagem": "rever",
+    "gravidade": "alta",
+    "motivos": [
+      "Apresenta como «Via B» a manifestação de interesse (art. 88.º Lei 23/2007) como via em vigor. O regime excecional da manifestação de interesse (arts. 88.º n.º 2 e 89.º n.º 2) foi revogado pelo Decreto-Lei n.º 37-A/2024, de 3 de junho; os pedidos têm de seguir o visto de trabalho ou os procedimentos previstos na lei em vigor (Lei n.º 23/2007 com as alterações de 2024-2025, a confirmar).",
+      "Cita «Decreto-Lei n.º 84/2007» como regulamentação da Lei de Estrangeiros; o diploma é o Decreto Regulamentar n.º 84/2007, de 5 de novembro (a confirmar).",
+      "Requisitos como «empresa inscrita na SS há mais de 1 ano» e a «declaração de não preenchimento» do IEFP são apresentados como regra geral sem base legal clara; os requisitos do visto de trabalho e do contingente (art. 59.º e ss.) e as alterações da Lei n.º 61/2025 devem ser confirmados."
+    ]
+  },
+  {
+    "codigo": "TRA-050",
+    "triagem": "rever",
+    "gravidade": "media",
+    "motivos": [
+      "Cita a «Lei n.º 19/2007, de 22 de maio (Lei do Trabalho Temporário, alterada pela Lei n.º 28/2016)». O trabalho temporário está regulado nos arts. 172.º a 192.º CT (e o acesso à atividade das ETT no Decreto-Lei n.º 260/2009); a Lei n.º 19/2007 não é o diploma do trabalho temporário (a confirmar).",
+      "Proibição do contrato de utilização para posto em que tenha havido despedimento coletivo «nos últimos 6 meses»: o prazo legal é de 12 meses (a confirmar, art. 175.º CT).",
+      "Duração máxima «2 anos com prorrogação até 3 anos»: parece misturar o regime do contrato a termo (art. 148.º) com o do contrato de utilização (art. 178.º), alterado pela Lei n.º 13/2023. A confirmar os limites e o número de renovações em vigor."
+    ]
+  },
+  {
+    "codigo": "TRA-051",
+    "triagem": "rever",
+    "gravidade": "media",
+    "motivos": [
+      "Manda aplicar o «princípio do tratamento mais favorável» ao conflito entre dois IRCT. Esse princípio (art. 476.º CT) rege a relação entre a lei e o IRCT; a concorrência entre instrumentos de regulamentação coletiva resolve-se pelas regras dos arts. 481.º-482.º CT (preferência por tipo de instrumento, âmbito/especialidade e data), não pelo favor laboris. A ficha mantém a regra errada e só acrescenta um [VERIFICAR].",
+      "Refere o Código dos Regimes Contributivos como fonte do parecer sobre IRCT; é irrelevante para a determinação do IRCT aplicável."
+    ]
+  },
+  {
+    "codigo": "TRA-052",
+    "triagem": "rever",
+    "gravidade": "alta",
+    "motivos": [
+      "Licença por adoção de «30 dias» para criança com menos de 15 anos: o art. 44.º CT atribui ao candidato a adotante a licença parental inicial (120 ou 150 dias), como o próprio [VERIFICAR] reconhece, mas o valor errado fica no texto da tabela.",
+      "Afirma que a licença parental alargada é «sem subsídio SS»: existe o subsídio parental alargado (25% da remuneração de referência, até 3 meses) no Decreto-Lei n.º 91/2009 (a confirmar valores atuais após as alterações recentes).",
+      "Prazo de «10 dias após início da licença» para pedir o subsídio à Segurança Social não corresponde ao regime do Decreto-Lei n.º 91/2009 (a confirmar o prazo de requerimento); os prazos de comunicação ao empregador por tipo de licença não são indicados com valores."
+    ]
+  },
+  {
+    "codigo": "TRA-053",
+    "triagem": "rever",
+    "gravidade": "media",
+    "motivos": [
+      "Afirma que o plano de igualdade de género é obrigatório para empresas com 50 ou mais trabalhadores ao abrigo da Lei n.º 62/2017 e do «Decreto-Lei n.º 76/2021, de 18 de setembro, que transpôs a Diretiva 2006/54/CE». A Lei n.º 62/2017 trata da representação equilibrada nos órgãos de administração e fiscalização (setor público empresarial e sociedades cotadas); a Diretiva 2006/54/CE foi transposta para o CT (Lei n.º 7/2009). Não conheço um dever geral de plano de igualdade a partir de 50 trabalhadores nem o decreto-lei citado (a confirmar, possível invenção).",
+      "Os limiares de 50 e 250 trabalhadores da Lei n.º 60/2018 respeitam à informação sobre remunerações e ao plano de avaliação das diferenças remuneratórias após notificação da ACT, não a um plano genérico de igualdade. Verificar também a transposição da Diretiva (UE) 2023/970 (transparência salarial)."
+    ]
+  },
+  {
+    "codigo": "TRA-054",
+    "triagem": "rever",
+    "gravidade": "alta",
+    "motivos": [
+      "Critérios de seleção inventados ou desatualizados: «menor antiguidade na categoria, menor antiguidade na empresa, menor qualificação, menor desempenho». O art. 368.º n.º 2 CT (redação da Lei n.º 27/2014, após o Ac. TC 602/2013) fixa, por ordem: pior avaliação de desempenho (com parâmetros previamente conhecidos), menores habilitações académicas e profissionais, maior onerosidade da manutenção do posto, menor experiência na função e menor antiguidade na empresa. Seguir a ficha pode tornar o despedimento ilícito (a confirmar o texto exato).",
+      "Aviso prévio de «60 dias se antiguidade >= 1 ano, 15 dias se < 1 ano»: o art. 371.º remete para o art. 363.º, com 15, 30, 60 ou 75 dias consoante a antiguidade (até 1 ano, 1-5 anos, 5-10 anos, 10 ou mais). O [VERIFICAR] da ficha admite o erro mas o valor errado fica no texto da carta."
+    ]
+  },
+  {
+    "codigo": "TRA-055",
+    "triagem": "rever",
+    "gravidade": "media",
+    "motivos": [
+      "Cita a «Lei n.º 93/2017, de 23 de agosto» como a lei do segredo de negócio que transpôs a Diretiva 2016/943/UE (arts. 2.º e 4.º). A Lei n.º 93/2017 é o regime de prevenção e combate à discriminação em razão da origem racial e étnica; o segredo comercial foi transposto para o Código da Propriedade Industrial (Decreto-Lei n.º 110/2018, arts. 313.º e ss.). Diploma errado, repetido em quatro pontos da ficha (a confirmar a numeração do CPI).",
+      "O art. 129.º n.º 1 al. g) CT não é base do dever de confidencialidade (as garantias do trabalhador estão no art. 129.º; o dever de lealdade no art. 128.º n.º 1 al. f)). A exceção de whistleblowing deve remeter para a Lei n.º 93/2021 e não para o art. 4.º da Lei n.º 93/2017."
+    ]
+  },
+  {
+    "codigo": "TRA-056",
+    "triagem": "rever",
+    "gravidade": "media",
+    "motivos": [
+      "Responsabilidade solidária do transmitente por créditos anteriores «durante 1 ano» (art. 285.º n.º 2 CT). Desde a Lei n.º 14/2018 o transmitente responde solidariamente pelas obrigações vencidas até à transmissão durante 2 anos; o próprio [VERIFICAR] da ficha admite o erro, mas o prazo errado fica no texto das comunicações aos trabalhadores e representantes.",
+      "As comunicações aos trabalhadores prometem «manutenção das condições de trabalho por 1 ano» e «IRCT durante 12 meses» sem distinguir: o art. 498.º CT mantém o IRCT até ao termo do prazo de vigência e, no mínimo, 12 meses. A confirmar o prazo de 10 dias de informação prévia do art. 286.º."
+    ]
+  },
+  {
+    "codigo": "TRA-057",
+    "triagem": "rever",
+    "gravidade": "media",
+    "motivos": [
+      "Atribui o regime do estágio profissional IEFP ao «Decreto-Lei n.º 66/2011, de 1 de junho». Os estágios profissionais do IEFP regem-se por portaria da medida (Portaria n.º 92/2011 e as que lhe sucederam, hoje Estágios ATIVAR.PT); não conheço o decreto-lei indicado como regime dos estágios (a confirmar).",
+      "Trata o estágio profissional privado como «livre acordo» (bolsa pode ser zero) e «natureza não laboral». Os estágios profissionais não curriculares foram objeto de regime legal recente (Lei n.º 3/2023, a confirmar) que exige contrato escrito e retribuição, pelo que a cláusula 1.ª («não constitui contrato de trabalho») e a bolsa nula são arriscadas."
+    ]
+  },
+  {
+    "codigo": "TRA-058",
+    "triagem": "rever",
+    "gravidade": "baixa",
+    "motivos": [
+      "Prescrição do procedimento contraordenacional indicada como «3 anos para graves/muito graves, 1 ano para leves (art. 27.º Lei 107/2009)»: parece inventada. A prescrição do procedimento por contraordenação laboral tem regime próprio (a confirmar no CT e na Lei n.º 107/2009), e o art. 27.º RGCO usa escalões pelo valor da coima (5/3/1 anos).",
+      "A redução de 50% da coima mínima no pagamento voluntário (art. 30.º) e a referência ao «acordo de banco de horas aprovado» como defesa (o banco de horas individual foi revogado em 2019; só subsiste por IRCT ou grupal) precisam de confirmação."
+    ]
+  },
+  {
+    "codigo": "TRA-059",
+    "triagem": "rever",
+    "gravidade": "alta",
+    "motivos": [
+      "A notificação extrajudicial é apresentada como ato interruptivo da prescrição (art. 323.º CC), e a carta invoca «a interrupção pela presente notificação». O art. 323.º CC só atribui efeito interruptivo à citação ou notificação judicial; uma carta ou notificação extrajudicial não interrompe a prescrição (só o reconhecimento do direito pelo devedor, art. 325.º, ou a ação, ou a notificação judicial avulsa). Erro central da estratégia de recuperação.",
+      "O n.º 2 do art. 337.º CT não diz que «a prescrição não corre durante a vigência»: trata da prova por documento idóneo dos créditos vencidos há mais de 5 anos (férias, sanções abusivas, trabalho suplementar); o art. 337.º n.º 3 não regula juros de mora. Para o não gozo de férias o art. 246.º prevê compensação em triplo, e a tabela usa «22 dias × €/dia» simples.",
+      "Juros de mora «indexada à taxa de referência + 3 pp»: os juros civis legais são os da Portaria n.º 291/2003 (4%), e os comerciais têm outra regra; a ficha mistura-os. A competência «art. 85.º CPT» é norma revogada da LOFTJ (hoje LOSJ art. 126.º). Créditos «civis» com 3 anos (art. 498.º CC) para danos emergentes do contrato de trabalho: prevalece o prazo de 1 ano do art. 337.º CT (a confirmar)."
+    ]
+  },
+  {
+    "codigo": "TRA-060",
+    "triagem": "rever",
+    "gravidade": "alta",
+    "motivos": [
+      "Prazo de recurso «30 dias a contar da notificação (art. 79.º n.º 1 CPT)»: no processo laboral o prazo de interposição da apelação é de 20 dias, com acréscimo de 10 dias se se impugnar a matéria de facto com reapreciação de prova gravada (art. 80.º CPT). A tempestividade é afirmada nas alegações, na checklist e na peça com o prazo errado.",
+      "Alçada: refere «alçada do Tribunal da Relação (€5.000)». A alçada da Relação é de €30.000; os €5.000 são a alçada dos tribunais de 1.ª instância, que condiciona a admissibilidade da apelação (a que acresce a sucumbência superior a metade da alçada, art. 629.º CPC). Erro de admissibilidade."
+    ]
+  }
+]

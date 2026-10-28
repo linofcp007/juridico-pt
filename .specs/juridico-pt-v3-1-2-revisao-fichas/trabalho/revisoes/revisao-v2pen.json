@@ -1,0 +1,598 @@
+[
+ {
+  "codigo": "PEN-008",
+  "veredicto": "corrigida",
+  "resumo": "A ficha tratava o despacho de pronúncia como sempre recorrível, quando o art. 310.º, n.º 1, CPP o declara irrecorrível se pronunciar o arguido pelos factos da acusação do Ministério Público, mesmo quanto a nulidades; acrescentou-se esta regra à admissibilidade, à análise, à peça e à checklist. O efeito suspensivo estava certo, mas citado no n.º 2 do art. 408.º (é o n.º 1, al. b)). Atualizou-se o regime de arguição das nulidades à Lei n.º 34/2026 (art. 120.º, n.º 3, als. c) e d), e art. 399.º, n.º 2, CPP) e corrigiu-se a descrição dos arts. 303.º e 309.º CPP (alteração da qualificação jurídica e nulidade por alteração substancial dos factos, arguível em 8 dias perante o juiz de instrução).",
+  "substituicoes": [
+   {
+    "de": "— O recurso do despacho de pronúncia tem efeito suspensivo (art. 408.º, n.º 2 CPP) — o julgamento aguarda a decisão do Tribunal da Relação.",
+    "para": "— Recorribilidade: a decisão instrutória que pronunciar o arguido pelos factos constantes da acusação do Ministério Público (deduzida nos termos do art. 283.º CPP ou do art. 285.º, n.º 4, CPP) é irrecorrível, mesmo na parte em que apreciar nulidades e outras questões prévias ou incidentais, e determina a remessa imediata dos autos para julgamento (art. 310.º, n.º 1, CPP). O recurso do arguido só é admissível quando a pronúncia não coincide com a acusação do Ministério Público — p. ex., pronúncia após instrução requerida pelo assistente na sequência de arquivamento (art. 287.º, n.º 1, al. b), CPP) ou pronúncia com base em acusação particular que o Ministério Público não acompanhou [■ VERIFICAR: jurisprudência sobre a recorribilidade da pronúncia por factos ou qualificação jurídica diversos dos da acusação do Ministério Público]. Se a pronúncia confirma a acusação do Ministério Público, não há recurso: a defesa faz-se no julgamento, e o tribunal de julgamento mantém a competência para excluir provas proibidas (art. 310.º, n.º 2, CPP).\n— Nos casos em que é admissível, o recurso do despacho de pronúncia sobe imediatamente e tem efeito suspensivo do processo (arts. 407.º, n.º 2, al. i), e 408.º, n.º 1, al. b), CPP) — o julgamento aguarda a decisão do Tribunal da Relação.",
+    "motivo": "A pronúncia pelos factos da acusação do Ministério Público é irrecorrível (art. 310.º, n.º 1, CPP); o efeito suspensivo está no art. 408.º, n.º 1, al. b), e não no n.º 2.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=199A0310&nid=199&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "— Nulidades do inquérito e instrução devem ter sido arguidas antes de encerrado o debate instrutório — se não foram, podem estar sanadas (art. 120.º, n.º 3 CPP).",
+    "para": "— Nulidades dependentes de arguição: as respeitantes ao inquérito arguem-se no requerimento de abertura de instrução (ou, não havendo instrução, até ao termo do prazo para a requerer) e as respeitantes à instrução até ao encerramento do debate instrutório (art. 120.º, n.º 3, als. c) e d), CPP, na redação da Lei n.º 34/2026, de 27 de julho, em vigor desde 1 de setembro de 2026) — se não o foram, podem estar sanadas. As invalidades de um despacho têm de ser previamente arguidas perante o tribunal que o proferiu (art. 399.º, n.º 2, CPP, na mesma redação). A nulidade da pronúncia por alteração substancial dos factos argui-se perante o juiz de instrução no prazo de 8 dias a contar da notificação (art. 309.º CPP), e é recorrível o despacho que a indeferir (art. 310.º, n.º 3, CPP).",
+    "motivo": "A Lei n.º 34/2026 mudou o momento de arguição das nulidades do inquérito (no requerimento de abertura de instrução) e passou a exigir a arguição prévia das invalidades dos despachos (art. 399.º, n.º 2, CPP).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=199A0120&nid=199&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- A pronúncia abrange factos que excedem os investigados (art. 309.º CPP)?",
+    "para": "- A pronúncia é recorrível, ou confirma a acusação do Ministério Público (art. 310.º, n.º 1, CPP)?\n- A pronúncia assenta em factos que constituem alteração substancial dos descritos na acusação ou no requerimento de abertura da instrução (art. 309.º CPP — nulidade a arguir perante o juiz de instrução em 8 dias)?",
+    "motivo": "O art. 309.º CPP fere de nulidade a pronúncia por alteração substancial dos factos da acusação ou do requerimento de abertura da instrução, não a que «excede os factos investigados»; a recorribilidade tem de ser verificada primeiro.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=199A0309&nid=199&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Art. 309.º CPP — alteração da qualificação jurídica pelo JIC",
+    "para": "- Art. 310.º CPP — irrecorribilidade da pronúncia pelos factos da acusação do Ministério Público (n.º 1) e recorribilidade do despacho que indefere a nulidade do art. 309.º (n.º 3)\n- Art. 303.º CPP — alteração não substancial dos factos e alteração da qualificação jurídica pelo JIC (n.ºs 1 e 5: comunicação ao defensor e prazo para a defesa)\n- Art. 309.º CPP — nulidade da pronúncia por alteração substancial dos factos (arguição em 8 dias)",
+    "motivo": "A alteração da qualificação jurídica está no art. 303.º, n.º 5, CPP; o art. 309.º CPP trata da nulidade por alteração substancial dos factos.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=199A0303&nid=199&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "com base nos seguintes indícios: [resumo].",
+    "para": "com base nos seguintes indícios: [resumo].\nO despacho recorrido não pronunciou o arguido pelos factos de acusação deduzida pelo Ministério Público [indicar o fundamento: instrução requerida pelo assistente após arquivamento / acusação particular não acompanhada pelo Ministério Público / outro], pelo que não se aplica a irrecorribilidade do art. 310.º, n.º 1, CPP. O recurso é tempestivo (art. 411.º, n.º 1, al. a), CPP) e tem efeito suspensivo do processo (art. 408.º, n.º 1, al. b), CPP).",
+    "motivo": "A peça tem de demonstrar a admissibilidade do recurso face ao art. 310.º, n.º 1, CPP.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=199A0310&nid=199&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "[Identificar nulidade, ato viciado, norma violada, momento em que deveria ter sido arguida e se foi]",
+    "para": "[Identificar nulidade, ato viciado, norma violada, momento em que deveria ter sido arguida e se foi — as invalidades do próprio despacho têm de ter sido previamente arguidas perante o juiz de instrução (art. 399.º, n.º 2, CPP); a nulidade por alteração substancial dos factos (art. 309.º CPP) só chega à Relação por recurso do despacho que a indeferiu (art. 310.º, n.º 3, CPP)]",
+    "motivo": "Arguição prévia das invalidades dos despachos (art. 399.º, n.º 2, CPP, na redação da Lei n.º 34/2026) e regime próprio da nulidade do art. 309.º CPP.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=199A0399&nid=199&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Prazo de 30 dias verificado (art. 411.º, n.º 1 CPP)",
+    "para": "- [ ] Recorribilidade da pronúncia confirmada (art. 310.º, n.º 1, CPP)\n- [ ] Prazo de 30 dias verificado (art. 411.º, n.º 1 CPP)",
+    "motivo": "Sem verificar o art. 310.º, n.º 1, CPP, a peça pode ser inadmissível.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=199A0310&nid=199&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar, no caso concreto, se a pronúncia coincide com a acusação do Ministério Público: se coincidir, o recurso é inadmissível (art. 310.º, n.º 1, CPP) e a ficha não deve ser usada.",
+   "Confirmar na jurisprudência da Relação competente e do Tribunal Constitucional a recorribilidade da pronúncia que altera a qualificação jurídica ou acrescenta factos à acusação do Ministério Público.",
+   "Nos processos pendentes a 1 de setembro de 2026, confirmar a aplicação no tempo dos arts. 120.º, n.º 3, e 399.º, n.º 2, CPP na redação da Lei n.º 34/2026 (art. 5.º CPP)."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=199A0310&nid=199&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=199A0309&nid=199&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=199A0303&nid=199&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=199A0408&nid=199&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=199A0407&nid=199&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=199A0411&nid=199&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=199A0120&nid=199&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=199A0399&nid=199&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=199A0287&nid=199&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=199A0285&nid=199&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=199A0308&nid=199&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://files.diariodarepublica.pt/1s/2026/07/14300/0000300015.pdf",
+   "https://diariodarepublica.pt/dr/detalhe/lei/34-2026-1152409207"
+  ]
+ },
+ {
+  "codigo": "PEN-018",
+  "veredicto": "corrigida",
+  "resumo": "Os escalões do art. 118.º, n.º 1, CP estavam errados (davam 2 anos a crimes com máximo entre 1 e 2 anos e sobrepunham os 5 anos), as causas de interrupção do art. 121.º, n.º 1, CP incluíam a prisão preventiva e a «acusação particular» e omitiam o despacho que designa dia para a audiência na ausência, e as causas de suspensão do art. 120.º CP eram inventadas (extradição). Corrigiu-se tudo segundo o texto em vigor, incluindo a nova al. g) do art. 120.º, n.º 1, CP (Lei n.º 34/2026), o limite máximo do art. 121.º, n.º 3, CP «ressalvado o tempo de suspensão» e o início do prazo do art. 119.º CP. A arguição da prescrição deixou de remeter para o art. 120.º, n.º 2, CPP (nulidades): é questão prévia de conhecimento oficioso.",
+  "substituicoes": [
+   {
+    "de": "— O prazo de prescrição é contado desde a prática do facto (art. 119.º, n.º 1 CP).\n— Para crimes continuados ou permanentes: conta da data da última conduta (art. 119.º, n.º 2 CP).",
+    "para": "— O prazo de prescrição corre desde o dia em que o facto se tiver consumado (art. 119.º, n.º 1 CP).\n— Nos crimes permanentes, corre desde o dia em que cessar a consumação; nos crimes continuados e nos habituais, desde o dia da prática do último ato; nos crimes não consumados, desde o dia do último ato de execução (art. 119.º, n.º 2 CP). Nos crimes contra a liberdade e autodeterminação sexual de menor, só corre desde o dia em que o ofendido atinja a maioridade (art. 119.º, n.º 5, CP), e o procedimento não prescreve antes de o ofendido perfazer 25 anos (art. 118.º, n.º 5, CP).",
+    "motivo": "O art. 119.º CP conta o prazo desde a consumação e distingue crimes permanentes (cessação da consumação), continuados e habituais (último ato) e não consumados.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=109A0119&nid=109&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "— Limite máximo absoluto: o prazo de prescrição não pode ultrapassar o prazo ordinário acrescido de metade (art. 121.º, n.º 3 CP).",
+    "para": "— Limite máximo absoluto: a prescrição tem sempre lugar quando, desde o seu início e ressalvado o tempo de suspensão, tiver decorrido o prazo normal de prescrição acrescido de metade (art. 121.º, n.º 3 CP) — ao prazo normal mais metade soma-se, portanto, o tempo de suspensão, com os limites do art. 120.º, n.ºs 2 a 5, CP.",
+    "motivo": "O limite do art. 121.º, n.º 3, CP ressalva o tempo de suspensão.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=109A0121&nid=109&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "  a) Pena máxima > 10 anos: prescreve em 15 anos\n  b) Pena máxima 5-10 anos: prescreve em 10 anos\n  c) Pena máxima 2-5 anos (inclusive): prescreve em 5 anos\n  d) Pena máxima < 2 anos ou pena de multa: prescreve em 2 anos",
+    "para": "  a) 15 anos: crimes puníveis com prisão de limite máximo superior a 10 anos e os crimes enumerados nas subalíneas ii) a viii) da al. a) do n.º 1 (entre outros, tráfico de influência, recebimento indevido de vantagem, corrupção, peculato e participação económica em negócio)\n  b) 10 anos: limite máximo igual ou superior a 5 anos, mas que não exceda 10 anos\n  c) 5 anos: limite máximo igual ou superior a 1 ano, mas inferior a 5 anos\n  d) 2 anos: nos casos restantes (limite máximo inferior a 1 ano ou crime punível só com multa)\n  Conta o máximo da pena do tipo, sem as circunstâncias agravantes ou atenuantes (n.º 2); se a lei prevê prisão ou multa em alternativa, só a prisão é considerada (n.º 4).",
+    "motivo": "Escalões do art. 118.º, n.º 1, CP: 5 anos para máximo igual ou superior a 1 e inferior a 5 anos; 2 anos só nos casos restantes; a multa alternativa não conta (n.º 4).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=109A0118&nid=109&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Art. 119.º CP — início do prazo (data do facto; para crime continuado/permanente: data da última conduta)",
+    "para": "- Art. 119.º CP — início do prazo (dia da consumação; crime permanente: dia em que cessa a consumação; crime continuado ou habitual: dia do último ato; crime não consumado: dia do último ato de execução)",
+    "motivo": "Início do prazo segundo o art. 119.º, n.ºs 1 e 2, CP.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=109A0119&nid=109&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Art. 120.º CP — causas de suspensão (pendência de processo extradição, cumprimento de pena noutra jurisdição, etc.)",
+    "para": "- Art. 120.º CP — causas de suspensão (n.º 1): a) o procedimento não poder legalmente iniciar-se ou continuar por falta de autorização legal, por sentença a proferir por tribunal não penal ou por devolução de questão prejudicial a juízo não penal; b) pendência do procedimento a partir da notificação da acusação (ou, não a havendo, da decisão instrutória que pronunciar o arguido ou do requerimento em processo sumaríssimo) — no máximo 3 anos (n.º 2); c) vigência da declaração de contumácia — no máximo o prazo normal de prescrição (n.º 3); d) sentença que não possa ser notificada ao arguido julgado na ausência; e) sentença condenatória notificada que não transite em julgado — no máximo 5 anos, ou 10 anos se declarada a excecional complexidade (n.º 4), elevados para o dobro se houver recurso para o Tribunal Constitucional (n.º 5); f) cumprimento no estrangeiro de pena ou medida de segurança privativas da liberdade; g) interrupção ou adiamento do debate instrutório, da audiência ou de ato com assistência obrigatória por substituição do defensor do arguido (aditada pela Lei n.º 34/2026, de 27 de julho, em vigor desde 1 de setembro de 2026). A prescrição volta a correr no dia em que cessar a causa da suspensão (n.º 6).",
+    "motivo": "As causas de suspensão da ficha não correspondiam ao art. 120.º CP, que tem nova al. g) desde a Lei n.º 34/2026.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=109A0120&nid=109&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "  a) Constituição de arguido (al. a))\n  b) Acusação ou pronúncia (al. b))\n  c) Notificação de acusação particular (al. c))\n  d) Declaração de contumácia (al. d))\n  e) Prisão preventiva (al. e))\n  Limite máximo do prazo com interrupções: prazo ordinário + metade (art. 121.º, n.º 3 CP)",
+    "para": "  a) Constituição de arguido (al. a))\n  b) Notificação da acusação ou, não tendo esta sido deduzida, notificação da decisão instrutória que pronunciar o arguido ou do requerimento para aplicação de sanção em processo sumaríssimo (al. b))\n  c) Declaração de contumácia (al. c))\n  d) Notificação do despacho que designa dia para audiência na ausência do arguido (al. d))\n  Depois de cada interrupção começa a correr novo prazo (n.º 2). Limite máximo: prazo normal + metade, ressalvado o tempo de suspensão; se, por disposição especial, o prazo de prescrição for inferior a 2 anos, o limite é o dobro desse prazo (art. 121.º, n.º 3 CP)",
+    "motivo": "O art. 121.º, n.º 1, CP tem quatro causas de interrupção; a prisão preventiva e a «notificação de acusação particular» não o são.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=109A0121&nid=109&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "a última conduta terá ocorrido em [data] (crime continuado/permanente — art. 119.º, n.º 2 CP)",
+    "para": "o último ato terá sido praticado / a consumação terá cessado em [data] (crime continuado ou habitual / crime permanente — art. 119.º, n.º 2 CP)",
+    "motivo": "No crime permanente o prazo corre desde a cessação da consumação, não desde a «última conduta».",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=109A0119&nid=109&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "| Acusação | [data — VERIFICAR] | Interrupção → prazo recomeça |",
+    "para": "| Notificação da acusação (ou da pronúncia) | [data — VERIFICAR] | Interrupção → prazo recomeça; começa também a suspensão do art. 120.º, n.º 1, al. b), CP (no máximo 3 anos) |",
+    "motivo": "O que interrompe é a notificação da acusação, que também inicia a suspensão do art. 120.º, n.º 1, al. b), CP.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=109A0121&nid=109&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "Independentemente do número de interrupções, o prazo máximo de prescrição é de:\n[Prazo ordinário] + [½ do prazo ordinário] = **[X] anos**\nContados desde a data dos factos ([data]), o prazo máximo absoluto expira em: **[data]**.",
+    "para": "Independentemente do número de interrupções, a prescrição tem sempre lugar quando, desde o seu início e ressalvado o tempo de suspensão, tiver decorrido o prazo normal acrescido de metade:\n[Prazo normal] + [½ do prazo normal] = **[X] anos**, a que acresce o tempo de suspensão apurado na secção V ([N] dias / meses)\nContado desde o início do prazo (art. 119.º CP) ([data]), o prazo máximo expira em: **[data]**.",
+    "motivo": "O cálculo do limite máximo tem de somar o tempo de suspensão (art. 121.º, n.º 3, CP).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=109A0121&nid=109&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "A exceção deve ser arguida no prazo previsto (art. 120.º, n.º 2 CPP — [■ VERIFICAR se arguível na contestação ou em qualquer momento]).",
+    "para": "A prescrição do procedimento criminal é de conhecimento oficioso e pode ser suscitada em qualquer fase do processo, até ao trânsito em julgado; em audiência, é questão prévia que o tribunal conhece antes do mérito (art. 338.º, n.º 1, CPP) [■ VERIFICAR: jurisprudência, se a questão já tiver sido decidida nos autos].",
+    "motivo": "O art. 120.º CPP trata das nulidades dependentes de arguição, não da prescrição, que é questão prévia (art. 338.º, n.º 1, CPP).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=199A0338&nid=199&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Prisão preventiva (início e fim): [datas]",
+    "para": "- Declaração de contumácia e sua cessação: [datas]\n- Notificação do despacho que designa dia para audiência na ausência do arguido: [data]\n- Notificação da sentença condenatória e recursos interpostos, incluindo para o Tribunal Constitucional: [datas]\n- Interrupções ou adiamentos por substituição do defensor: [datas]",
+    "motivo": "A prisão preventiva não interrompe nem suspende a prescrição do procedimento; recolhem-se os atos dos arts. 120.º e 121.º CP.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=109A0120&nid=109&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "[Extradição, cumprimento de pena noutra jurisdição, etc.]",
+    "para": "[Pendência desde a notificação da acusação (máx. 3 anos), questão prejudicial ou falta de autorização legal, contumácia, sentença não notificada ao arguido julgado na ausência, sentença condenatória não transitada, cumprimento de pena ou medida de segurança no estrangeiro, substituição do defensor que interrompeu ou adiou o ato — art. 120.º, n.º 1, CP]",
+    "motivo": "Causas de suspensão do art. 120.º, n.º 1, CP; a extradição não é uma delas.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=109A0120&nid=109&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "A nova causa de suspensão do art. 120.º, n.º 1, al. g), CP (Lei n.º 34/2026, em vigor desde 1 de setembro de 2026) não deve aplicar-se a factos anteriores em prejuízo do arguido (art. 2.º, n.º 4, CP e art. 29.º, n.º 4, CRP): confirmar a solução na jurisprudência.",
+   "Confirmar se o crime consta das subalíneas ii) a viii) do art. 118.º, n.º 1, al. a), CP (prazo de 15 anos) e se há prazo especial de prescrição em legislação avulsa.",
+   "Confirmar nos autos as datas das notificações (não das peças) e da declaração e cessação da contumácia."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=109A0118&nid=109&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=109A0119&nid=109&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=109A0120&nid=109&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=109A0121&nid=109&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=199A0338&nid=199&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=199A0120&nid=199&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://files.diariodarepublica.pt/1s/2026/07/14300/0000300015.pdf",
+   "https://diariodarepublica.pt/dr/detalhe/lei/34-2026-1152409207"
+  ]
+ },
+ {
+  "codigo": "PEN-019",
+  "veredicto": "corrigida",
+  "resumo": "A ficha calculava mal a atenuação especial (mínimo a 1/5 e máximo «1/4 acima do novo mínimo»), a reincidência (agravação de 1/3 do mínimo e do máximo e exigência de «crime da mesma espécie») e o concurso de crimes («ou o mais elevado + metade dos restantes» e «8 anos para prisão efetiva»). Corrigiu-se segundo os arts. 72.º, 73.º, 75.º, 76.º e 77.º CP: máximo reduzido de 1/3 e mínimo a 1/5 só se igual ou superior a 3 anos; reincidência eleva só o mínimo em 1/3; pena única entre a mais elevada das parcelares e a soma, até 25 anos (prisão) ou 900 dias (multa).",
+  "substituicoes": [
+   {
+    "de": "- Art. 72.º CP — atenuação especial (circunstâncias excepcionais; efeitos na moldura: reduz mínimo a 1/5 e máximo a 1/4 acima do mínimo — [■ VERIFICAR redação atual])\n- Art. 73.º CP — efeitos da atenuação especial na moldura\n- Art. 75.º CP — reincidência (agrava a moldura em 1/3 nos limites mínimo e máximo)\n- Art. 76.º CP — medida da pena em caso de reincidência\n- Art. 77.º CP — concurso de crimes (pena única: soma das penas com limite máximo de 25 anos ou o mais elevado + metade dos restantes)",
+    "para": "- Art. 72.º CP — atenuação especial (circunstâncias anteriores, posteriores ou contemporâneas do crime que diminuam por forma acentuada a ilicitude do facto, a culpa do agente ou a necessidade da pena; exemplos no n.º 2)\n- Art. 73.º CP — efeitos da atenuação especial na moldura: limite máximo da prisão reduzido de 1/3; limite mínimo da prisão reduzido a 1/5 se for igual ou superior a 3 anos, e ao mínimo legal se for inferior; na multa, máximo reduzido de 1/3 e mínimo reduzido ao mínimo legal; se o máximo da prisão não for superior a 3 anos, pode ser substituída por multa (n.º 1, als. a) a d))\n- Art. 75.º CP — reincidência (crime doloso a punir com prisão efetiva superior a 6 meses, depois de condenação transitada em prisão efetiva superior a 6 meses por outro crime doloso, sendo o agente de censurar por a condenação anterior não lhe ter servido de suficiente advertência; não releva o crime anterior se entre os dois decorreram mais de 5 anos)\n- Art. 76.º CP — efeitos da reincidência: o limite mínimo é elevado de 1/3 e o máximo permanece inalterado; a agravação não pode exceder a medida da pena mais grave aplicada nas condenações anteriores\n- Art. 77.º CP — concurso de crimes (pena única: entre a mais elevada das penas parcelares e a soma de todas, sem ultrapassar 25 anos na prisão e 900 dias na multa — n.º 2; na medida da pena consideram-se, em conjunto, os factos e a personalidade do agente — n.º 1)",
+    "motivo": "Os efeitos da atenuação especial, da reincidência e do concurso não correspondiam aos arts. 73.º, 75.º, 76.º e 77.º CP.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=109A0073&nid=109&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "Verificam-se circunstâncias que tornam a ilicitude ou a culpa sensivelmente diminuídas:",
+    "para": "Verificam-se circunstâncias que diminuem por forma acentuada a ilicitude do facto, a culpa do agente ou a necessidade da pena (art. 72.º, n.º 1, CP):",
+    "motivo": "O art. 72.º, n.º 1, CP exige diminuição acentuada e inclui a necessidade da pena.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=109A0072&nid=109&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "— Novo mínimo: [calcular — 1/5 do mínimo original]\n— Novo máximo: [calcular — 1/4 acima do novo mínimo, nunca superior ao original]\n[■ VERIFICAR a fórmula atual do art. 73.º CP]",
+    "para": "— Novo máximo: [calcular — máximo original reduzido de 1/3] (art. 73.º, n.º 1, al. a), CP)\n— Novo mínimo: [calcular — 1/5 do mínimo original, se este for igual ou superior a 3 anos; mínimo legal, se for inferior] (art. 73.º, n.º 1, al. b), CP)\n— Pena de multa: máximo reduzido de 1/3 e mínimo reduzido ao mínimo legal (art. 73.º, n.º 1, al. c), CP); se o máximo da prisão não for superior a 3 anos, pode ser substituída por multa (al. d))",
+    "motivo": "Fórmula do art. 73.º, n.º 1, CP.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=109A0073&nid=109&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "O arguido já foi condenado por crime da mesma espécie, com pena superior a 6 meses, e os factos foram praticados nos 5 anos seguintes. Agravação de 1/3 do mínimo e do máximo.",
+    "para": "O arguido comete crime doloso que deva ser punido com prisão efetiva superior a 6 meses, depois de ter sido condenado, por sentença transitada em julgado, em prisão efetiva superior a 6 meses por outro crime doloso (não se exige que seja da mesma espécie); entre a prática do crime anterior e a do atual não decorreram mais de 5 anos, sem contar o tempo de cumprimento de medida processual, pena ou medida de segurança privativas da liberdade; e o arguido é de censurar por a condenação anterior não lhe ter servido de suficiente advertência contra o crime (art. 75.º, n.ºs 1 e 2, CP). Efeito: o limite mínimo da moldura é elevado de 1/3 e o máximo permanece inalterado; a agravação não pode exceder a medida da pena mais grave aplicada nas condenações anteriores (art. 76.º, n.º 1, CP).",
+    "motivo": "A reincidência não exige crime da mesma espécie e só eleva o limite mínimo (arts. 75.º e 76.º CP).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=109A0076&nid=109&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "Pena única (art. 77.º CP): entre o máximo mais elevado e a soma das penas, com limite de [25 anos / 8 anos para prisão efetiva — VERIFICAR].",
+    "para": "Pena única (art. 77.º CP): moldura entre a mais elevada das penas parcelares concretamente aplicadas e a soma de todas, sem ultrapassar 25 anos na prisão e 900 dias na multa (n.º 2); na medida da pena única consideram-se, em conjunto, os factos e a personalidade do agente (n.º 1).",
+    "motivo": "Limites do art. 77.º, n.º 2, CP; não existe limite de «8 anos para prisão efetiva».",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=109A0077&nid=109&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Fundamento constitucional da culpa como limite (art. 40.º, n.º 2 CP)",
+    "para": "- [ ] Culpa como limite inultrapassável da pena (art. 40.º, n.º 2 CP)",
+    "motivo": "O art. 40.º, n.º 2, é norma do Código Penal, não da Constituição.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=109A0040&nid=109&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "O mínimo legal da pena de prisão (art. 41.º CP) e da multa (art. 47.º CP), relevantes na atenuação especial, não foram conferidos nesta revisão.",
+   "Confirmar se existe atenuação especial prevista na própria norma incriminadora (art. 72.º, n.º 3, CP proíbe a dupla valoração da mesma circunstância)."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=109A0040&nid=109&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=109A0045&nid=109&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=109A0050&nid=109&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=109A0058&nid=109&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=109A0071&nid=109&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=109A0072&nid=109&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=109A0073&nid=109&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=109A0075&nid=109&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=109A0076&nid=109&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=109A0077&nid=109&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+  ]
+ },
+ {
+  "codigo": "PEN-036",
+  "veredicto": "corrigida",
+  "resumo": "Os fundamentos do art. 222.º, n.º 2, CPP estavam trocados e inventava-se um fundamento de «ilegalidade formal»; os prazos da prisão preventiva dados como regra geral eram os elevados do n.º 2 do art. 215.º CPP; a detenção ilegal era dirigida ao Tribunal da Relação (é ao juiz de instrução, art. 220.º CPP); havia um «prazo de 8 dias» para apresentar a petição que não existe (os 8 dias são para decidir); e o prazo de detenção era de «48 h ao MP + 48 h ao juiz» (são 48 horas até à apresentação ao juiz). Corrigiu-se a análise, a peça (endereço ao Presidente do STJ, fundamentos B e C, urgência e pedido segundo o art. 223.º, n.º 4, CPP), a checklist e a recolha de dados.",
+  "substituicoes": [
+   {
+    "de": "— Os fundamentos do art. 222.º, n.º 2 CPP são taxativos: (a) incompetência do agente, (b) excesso de prazo de detenção, (c) prisão preventiva mantida fora dos casos legais ou sem observância das formalidades.",
+    "para": "— Os fundamentos do art. 222.º, n.º 2 CPP (prisão ilegal) são taxativos: (a) prisão efetuada ou ordenada por entidade incompetente, (b) motivada por facto pelo qual a lei a não permite, (c) mantida para além dos prazos fixados pela lei ou por decisão judicial. Na detenção ilegal, os fundamentos são os do art. 220.º, n.º 1, CPP: prazo excedido para entrega ao poder judicial, detenção fora dos locais legalmente permitidos, detenção efetuada ou ordenada por entidade incompetente ou motivada por facto pelo qual a lei a não permite.",
+    "motivo": "Fundamentos reais dos arts. 222.º, n.º 2, e 220.º, n.º 1, CPP; a falta de formalidades não é fundamento autónomo.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=199A0222&nid=199&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "— O tribunal competente é o Supremo Tribunal de Justiça (STJ) para prisão preventiva (art. 222.º, n.º 1 CPP); Tribunal da Relação para detenção simples (art. 220.º, n.º 3 CPP) [■ VERIFICAR].\n— Prazo de apresentação: 8 dias a contar do conhecimento da ilegalidade (art. 222.º, n.º 3 CPP) [■ VERIFICAR].",
+    "para": "— Tribunal competente: na prisão ilegal (incluindo a prisão preventiva), o Supremo Tribunal de Justiça — a petição é dirigida, em duplicado, ao Presidente do STJ e apresentada à autoridade à ordem da qual o preso se mantenha (art. 222.º, n.ºs 1 e 2, CPP); na detenção ilegal, o juiz de instrução da área onde o detido se encontrar (art. 220.º, n.º 1, CPP). O requerimento pode ser subscrito pelo próprio ou por qualquer cidadão no gozo dos seus direitos políticos.\n— Prazo: a lei não fixa prazo para requerer o habeas corpus, mas a providência pressupõe que a pessoa se encontre ilegalmente presa ou detida (arts. 220.º, n.º 1, 222.º, n.º 1, e 223.º, n.º 2, CPP). Os 8 dias são o prazo para decidir (art. 31.º, n.º 3, CRP; art. 223.º, n.º 2, CPP).",
+    "motivo": "A detenção ilegal pede-se ao juiz de instrução (art. 220.º, n.º 1, CPP); o art. 222.º CPP não tem n.º 3 nem prazo de apresentação.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=199A0220&nid=199&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Quais os vícios que se pretendem invocar (incompetência / excesso de prazo / ilegalidade formal)?",
+    "para": "- Quais os fundamentos que se pretendem invocar (entidade incompetente / facto pelo qual a lei não permite a prisão / excesso de prazo — art. 222.º, n.º 2, CPP; na detenção, os do art. 220.º, n.º 1, CPP)?",
+    "motivo": "Fundamentos taxativos dos arts. 220.º e 222.º CPP.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=199A0222&nid=199&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Foram observadas as formalidades legais (apresentação ao MP no prazo de 48h / interrogatório judicial)?",
+    "para": "- O detido foi presente ao juiz no prazo máximo de 48 horas para primeiro interrogatório judicial (art. 254.º, n.º 1, al. a), CPP; art. 141.º, n.º 1, CPP; art. 28.º, n.º 1, CRP)?",
+    "motivo": "O limite de 48 horas é para a apresentação ao juiz, não ao Ministério Público.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=199A0254&nid=199&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Quando o defensor ou arguido tomou conhecimento da ilegalidade (prazo de 8 dias)?",
+    "para": "- A privação da liberdade ilegal mantém-se à data da petição (art. 222.º, n.º 1, CPP)?",
+    "motivo": "Não há prazo de 8 dias para apresentar o habeas corpus.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=199A0222&nid=199&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- **Art. 31.º CRP — Habeas corpus:** garantia constitucional de que nenhum cidadão pode ser detido ilegalmente; o tribunal deve apreciar a causa da privação de liberdade no prazo de 8 dias\n- **Art. 220.º CPP — Detenção ilegal:** detenção fora dos casos do art. 254.º CPP, por entidade incompetente ou excedendo os prazos do art. 254.º CPP\n- **Art. 222.º CPP — Habeas corpus em prisão preventiva:** fundamentos taxativos (n.º 2):\n  - Al. a) incompetência da entidade que ordenou a prisão\n  - Al. b) excesso de prazo de detenção (arts. 254.º a 261.º CPP) ou de prisão preventiva (art. 215.º CPP)\n  - Al. c) prisão preventiva mantida fora dos casos previstos na lei ou sem observância das formalidades legais exigidas\n- **Prazos da prisão preventiva (art. 215.º CPP):** \n  - Regra geral: 6 meses no inquérito, 10 meses na instrução, 18 meses no julgamento, 2 anos em recurso;\n  - Crimes de terrorismo, criminalidade violenta, altamente organizada: prazos maiores [■ VERIFICAR];\n  - Ultrapassado o prazo máximo: prisão preventiva ilegal, fundamento de habeas corpus al. b)\n- **Prazos de detenção (art. 254.º CPP):** arguido detido deve ser apresentado ao MP em 48h; ao juiz de instrução em 48h adicionais\n- **Formalidades obrigatórias:** mandado de detenção (art. 258.º CPP); comunicação ao arguido da causa (art. 259.º CPP); direito a advogado (art. 64.º CPP)",
+    "para": "- **Art. 31.º CRP — Habeas corpus:** contra o abuso de poder, por virtude de prisão ou detenção ilegal, a requerer perante o tribunal competente, pelo próprio ou por qualquer cidadão no gozo dos seus direitos políticos; o juiz decide no prazo de 8 dias, em audiência contraditória (n.ºs 1 a 3)\n- **Art. 220.º CPP — Detenção ilegal:** requerimento ao juiz de instrução da área onde o detido se encontrar, para que ordene a sua imediata apresentação judicial, com fundamento em: a) prazo excedido para entrega ao poder judicial; b) detenção fora dos locais legalmente permitidos; c) detenção efetuada ou ordenada por entidade incompetente; d) detenção motivada por facto pelo qual a lei a não permite (n.º 1); procedimento no art. 221.º CPP\n- **Art. 222.º CPP — Habeas corpus em virtude de prisão ilegal:** fundamentos taxativos (n.º 2):\n  - Al. a) prisão efetuada ou ordenada por entidade incompetente\n  - Al. b) prisão motivada por facto pelo qual a lei a não permite (p. ex., prisão preventiva por crime que não a admite — art. 202.º CPP)\n  - Al. c) prisão mantida para além dos prazos fixados pela lei ou por decisão judicial (p. ex., prazos máximos do art. 215.º CPP)\n- **Prazos da prisão preventiva (art. 215.º CPP):** extingue-se quando, desde o seu início, tiverem decorrido:\n  - Regra geral (n.º 1): 4 meses sem acusação; 8 meses sem decisão instrutória, havendo instrução; 1 ano e 2 meses sem condenação em 1.ª instância; 1 ano e 6 meses sem condenação com trânsito em julgado;\n  - Terrorismo, criminalidade violenta ou altamente organizada, crime punível com prisão de máximo superior a 8 anos ou crimes do catálogo do n.º 2: 6 meses, 10 meses, 1 ano e 6 meses e 2 anos (n.º 2); nesses crimes, se o procedimento for declarado de excecional complexidade (só durante a 1.ª instância — n.º 4): 1 ano, 1 ano e 4 meses, 2 anos e 6 meses e 3 anos e 4 meses (n.º 3);\n  - Os prazos das als. c) e d) acrescem de 6 meses se houver recurso para o Tribunal Constitucional ou suspensão para julgamento de questão prejudicial (n.º 5); confirmada em recurso ordinário a condenação em prisão, o prazo eleva-se para metade da pena fixada (n.º 6); conta o tempo de obrigação de permanência na habitação (n.º 8);\n  - Ultrapassado o prazo máximo: prisão ilegal, fundamento de habeas corpus da al. c) do n.º 2 do art. 222.º CPP\n- **Prazos de detenção (art. 254.º CPP):** o detido é apresentado a julgamento sob forma sumária ou ao juiz competente para primeiro interrogatório judicial ou para aplicação ou execução de medida de coação no prazo máximo de 48 horas (n.º 1, al. a); art. 141.º, n.º 1, CPP; art. 28.º, n.º 1, CRP); a detenção para assegurar a presença em ato processual nunca pode exceder 24 horas (n.º 1, al. b))\n- **Formalidades:** mandado de detenção com os requisitos do art. 258.º, n.º 1, CPP, exibido ao detido com entrega de cópia (n.º 3); comunicação imediata da detenção ao juiz ou ao Ministério Público (art. 259.º CPP); informação imediata e compreensível ao detido das razões da detenção e dos seus direitos (art. 27.º, n.º 4, CRP); assistência de defensor no interrogatório de arguido detido (art. 64.º CPP). A falta destas formalidades não é, por si só, fundamento de habeas corpus: discute-se por arguição de nulidade ou irregularidade e por recurso (art. 219.º CPP), salvo se se reconduzir a um dos fundamentos dos arts. 220.º, n.º 1, ou 222.º, n.º 2, CPP [■ VERIFICAR: jurisprudência do STJ]",
+    "motivo": "Fundamentos, prazos da prisão preventiva (art. 215.º CPP), prazo de detenção (art. 254.º CPP) e formalidades corrigidos segundo o texto em vigor.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=199A0215&nid=199&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Identificar a irregularidade formal, se for o fundamento invocado\n- Sublinhar a urgência: habeas corpus é processo urgente (art. 224.º CPP — julgado no prazo de 8 dias)\n- Identificar o tribunal competente: STJ (prisão preventiva) ou Tribunal da Relação (detenção simples) [■ VERIFICAR]",
+    "para": "- Identificar o facto que, segundo a lei, não permite a prisão, se for o fundamento invocado (art. 222.º, n.º 2, al. b), CPP)\n- Sublinhar a urgência: a secção criminal do STJ delibera nos 8 dias subsequentes (art. 223.º, n.º 2, CPP; art. 31.º, n.º 3, CRP); na detenção ilegal, o juiz ordena a apresentação imediata do detido (art. 221.º, n.º 1, CPP)\n- Identificar o tribunal competente: STJ, por petição dirigida ao seu Presidente (prisão ilegal — art. 222.º CPP), ou juiz de instrução da área onde o detido se encontrar (detenção ilegal — art. 220.º CPP)",
+    "motivo": "O art. 224.º CPP trata do incumprimento da decisão; o prazo de 8 dias está no art. 223.º, n.º 2, CPP; a detenção ilegal é da competência do juiz de instrução.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=199A0223&nid=199&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "**AO SUPREMO TRIBUNAL DE JUSTIÇA**\n**— OU —**\n**AO TRIBUNAL DA RELAÇÃO DE [COMARCA]**",
+    "para": "**EXCELENTÍSSIMO SENHOR PRESIDENTE DO SUPREMO TRIBUNAL DE JUSTIÇA** (prisão ilegal — petição em duplicado, apresentada à autoridade à ordem da qual o preso se mantenha: art. 222.º, n.º 2, CPP)\n**— OU —**\n**EXMO. SENHOR JUIZ DE INSTRUÇÃO CRIMINAL DE [ÁREA ONDE O DETIDO SE ENCONTRA]** (detenção ilegal — art. 220.º, n.º 1, CPP)",
+    "motivo": "Destinatários legais da petição (arts. 220.º, n.º 1, e 222.º, n.º 2, CPP).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=199A0222&nid=199&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "**[FUNDAMENTO B — Excesso de prazo (art. 222.º, n.º 2, al. b) CPP)]:**\nO requerente encontra-se em prisão preventiva há [X meses], tendo a fase do processo em que se encontra um prazo máximo de [Y meses] nos termos do art. 215.º, n.º [X] do CPP.\nO prazo máximo admissível teria expirado em [data = data de início + prazo legal].\nÀ data de hoje, [data], o excesso de prazo é de [N] dias / meses.\nA manutenção da prisão preventiva após o esgotamento do prazo legal constitui fundamento de habeas corpus nos termos do art. 222.º, n.º 2, al. b) do CPP.\n\n**[FUNDAMENTO C — Ilegalidade formal (art. 222.º, n.º 2, al. c) CPP)]:**\nA prisão preventiva foi mantida sem observância das formalidades legais, concretamente:\n[Identificar a irregularidade: falta de mandado, falta de comunicação da causa, falta de assistência de defensor, interrogatório judicial não realizado no prazo, falta de despacho judicial de validação, etc.]\nEsta omissão viola o art. [X.º do CPP], determinando a ilegalidade da privação de liberdade.",
+    "para": "**[FUNDAMENTO B — Facto pelo qual a lei não permite a prisão (art. 222.º, n.º 2, al. b) CPP)]:**\nA prisão foi motivada por facto pelo qual a lei a não permite, concretamente:\n[Identificar: p. ex., prisão preventiva por crime que não preenche nenhuma das alíneas do art. 202.º, n.º 1, CPP — crime não doloso, ou punível com pena de prisão de máximo não superior ao limiar legal]\nA privação da liberdade é, por isso, ilegal, nos termos do art. 222.º, n.º 2, al. b), CPP.\n\n**[FUNDAMENTO C — Excesso de prazo (art. 222.º, n.º 2, al. c) CPP)]:**\nO requerente encontra-se em prisão preventiva há [X meses], tendo a fase do processo em que se encontra um prazo máximo de [Y meses] nos termos do art. 215.º, n.º [X] do CPP.\nO prazo máximo admissível teria expirado em [data = data de início + prazo legal].\nÀ data de hoje, [data], o excesso de prazo é de [N] dias / meses.\nA manutenção da prisão preventiva para além do prazo legal constitui fundamento de habeas corpus nos termos do art. 222.º, n.º 2, al. c), CPP.\n[Na detenção ilegal, invocar o fundamento do art. 220.º, n.º 1, als. a) a d), CPP — p. ex., excedido o prazo de 48 horas para entrega ao poder judicial.]",
+    "motivo": "O excesso de prazo é o fundamento da al. c), e a al. b) é o facto que não admite a prisão; a falta de formalidades não é fundamento de habeas corpus.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=199A0222&nid=199&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "**IV. DA URGÊNCIA E DO PRAZO**\nNos termos do art. 222.º, n.º 3 do CPP, o presente requerimento é apresentado dentro do prazo de 8 dias a contar do conhecimento da ilegalidade, ocorrido em [data].\nO habeas corpus é processo urgente que deve ser julgado no prazo de 8 dias (art. 224.º CPP).",
+    "para": "**IV. DA URGÊNCIA**\nO requerente mantém-se privado da liberdade à data da presente petição, pelo que deve a secção criminal deliberar nos 8 dias subsequentes à sua convocação (art. 223.º, n.º 2, CPP; art. 31.º, n.º 3, CRP).",
+    "motivo": "Não há prazo de 8 dias para apresentar a petição; os 8 dias são o prazo de deliberação (art. 223.º, n.º 2, CPP).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=199A0223&nid=199&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "a) Seja ordenada a apresentação imediata do requerente ao tribunal, para apreciação da legalidade da privação de liberdade (art. 224.º CPP);\nb) Seja declarada ilegal a privação de liberdade do requerente, com base no fundamento supra identificado;\nc) Seja ordenada a imediata libertação do requerente, ou, subsidiariamente, a sua sujeição a medida de coação não privativa da liberdade [especificar — VERIFICAR].",
+    "para": "a) Seja declarada ilegal a prisão do requerente, com base no fundamento supra identificado;\nb) Seja ordenada a sua libertação imediata (art. 223.º, n.º 4, al. d), CPP).\n[Na detenção ilegal, o pedido ao juiz de instrução é que ordene a apresentação imediata do detido e decida sobre a legalidade da detenção, ouvidos o Ministério Público e o defensor (arts. 220.º, n.º 1, e 221.º CPP).]",
+    "motivo": "Decisões possíveis do STJ no art. 223.º, n.º 4, CPP (não aplica medidas de coação); a apresentação imediata é o pedido próprio da detenção ilegal.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=199A0223&nid=199&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Irregularidade formal identificada, se for o fundamento invocado",
+    "para": "- [ ] Facto que não permite a prisão identificado, se for o fundamento invocado (art. 222.º, n.º 2, al. b), CPP)",
+    "motivo": "Fundamento real da al. b) do art. 222.º, n.º 2, CPP.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=199A0222&nid=199&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Prazo de 8 dias para apresentação do habeas corpus verificado (art. 222.º, n.º 3 CPP)\n- [ ] Tribunal competente identificado (STJ / Tribunal da Relação)",
+    "para": "- [ ] Privação da liberdade ainda atual à data da petição (a lei não fixa prazo para a apresentar)\n- [ ] Tribunal competente identificado (Presidente do STJ, na prisão ilegal / juiz de instrução, na detenção ilegal)",
+    "motivo": "Não há prazo de apresentação; a detenção ilegal é da competência do juiz de instrução.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=199A0220&nid=199&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Pedido de libertação imediata (ou alternativa) formulado",
+    "para": "- [ ] Pedido de libertação imediata (prisão) ou de apresentação imediata ao juiz (detenção) formulado",
+    "motivo": "Pedidos próprios dos arts. 223.º, n.º 4, e 220.º, n.º 1, CPP.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=199A0223&nid=199&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "[Incompetência da entidade / Excesso de prazo / Irregularidade formal — descrever em detalhe]\n\n**DATA DO CONHECIMENTO DA ILEGALIDADE:**\n[dd/mm/aaaa — para verificar o prazo de 8 dias]",
+    "para": "[Entidade incompetente / Facto pelo qual a lei não permite a prisão / Excesso de prazo — ou, na detenção, um dos fundamentos do art. 220.º, n.º 1, CPP — descrever em detalhe]\n\n**SITUAÇÃO ATUAL:**\n[O requerente continua preso ou detido? À ordem de que autoridade e em que local?]",
+    "motivo": "Fundamentos taxativos e inexistência de prazo de apresentação.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=199A0222&nid=199&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "certidão dos autos que demonstra o excesso de prazo / a irregularidade / a incompetência.",
+    "para": "certidão dos autos que demonstra o excesso de prazo / o facto que não permite a prisão / a incompetência.",
+    "motivo": "A irregularidade formal não é fundamento de habeas corpus (art. 222.º, n.º 2, CPP).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=199A0222&nid=199&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "descricao": "Gera um requerimento de habeas corpus fundamentado: ao juiz de instrução, em caso de detenção ilegal, para que ordene a apresentação imediata do detido, ou ao Presidente do Supremo Tribunal de Justiça, em caso de prisão ilegal, para que a prisão seja declarada ilegal e ordenada a libertação, ao abrigo do art. 31.º da Constituição da República Portuguesa e dos arts. 220.º a 224.º do Código de Processo Penal.",
+  "descricao_en": "Generates a reasoned habeas corpus petition: to the investigating judge, for unlawful arrest, asking that the detainee be brought before the court immediately, or to the President of the Supreme Court of Justice, for unlawful imprisonment, asking that the imprisonment be declared unlawful and release ordered, under Article 31 of the Constitution of the Portuguese Republic and Articles 220 to 224 of the Code of Criminal Procedure.",
+  "pontos_para_o_advogado": [
+   "Confirmar na jurisprudência do STJ os limites do habeas corpus face ao recurso da medida de coação (art. 219.º CPP): o STJ não reaprecia, em regra, os pressupostos da prisão preventiva nem vícios formais que não se reconduzam aos fundamentos do art. 222.º, n.º 2, CPP.",
+   "Confirmar se foi declarada a excecional complexidade (art. 215.º, n.ºs 3 e 4, CPP) e se houve recurso para o Tribunal Constitucional (n.º 5) antes de calcular o excesso de prazo.",
+   "Se a petição for julgada manifestamente infundada, o peticionante é condenado entre 6 UC e 30 UC (art. 223.º, n.º 6, CPP); na detenção, entre 6 UC e 20 UC (art. 221.º, n.º 4, CPP)."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=199A0220&nid=199&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=199A0221&nid=199&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=199A0222&nid=199&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=199A0223&nid=199&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=199A0224&nid=199&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=199A0215&nid=199&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=199A0219&nid=199&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=199A0202&nid=199&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=199A0254&nid=199&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=199A0258&nid=199&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=199A0259&nid=199&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=199A0141&nid=199&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=199A0064&nid=199&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=4A0027&nid=4&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=4A0028&nid=4&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=4A0031&nid=4&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+  ]
+ },
+ {
+  "codigo": "PEN-047",
+  "veredicto": "corrigida",
+  "resumo": "Toda a ficha assentava num «acordo sobre a sentença» do art. 344.º-A CPP, introduzido pela Lei n.º 94/2021, que não existe: o CPP em vigor não tem art. 344.º-A nem prevê negociação da pena. Reconduziu-se a ficha à figura de consenso mais próxima prevista na lei, o requerimento do arguido ao Ministério Público para que este requeira a aplicação de sanção não privativa da liberdade em processo sumaríssimo (arts. 392.º a 398.º CPP), com os pressupostos, o conteúdo do art. 394.º, os efeitos da não oposição (art. 397.º) e a referência às alternativas (suspensão provisória, dispensa de pena e confissão em audiência). Título e descrição corrigidos.",
+  "substituicoes": [
+   {
+    "de": "— Cita os artigos reais do CPP e do CP.",
+    "para": "— Cita os artigos reais do CPP e do CP.\n— O direito português não prevê acordo sobre a sentença nem negociação da pena entre o Ministério Público e o arguido: o Código de Processo Penal não tem art. 344.º-A. As soluções de consenso previstas na lei são o processo sumaríssimo, que o Ministério Público requer por iniciativa do arguido ou depois de o ouvir (arts. 392.º a 398.º CPP), a suspensão provisória do processo (art. 281.º CPP), o arquivamento em caso de dispensa da pena (art. 280.º CPP) e, já em audiência, a confissão integral e sem reservas (art. 344.º CPP), que não vincula o tribunal quanto à pena. Esta ficha prepara o requerimento do arguido ao Ministério Público para que requeira a aplicação da sanção em processo sumaríssimo.",
+    "motivo": "O instituto de que a ficha partia não existe no direito português; as figuras de consenso são as dos arts. 280.º, 281.º, 344.º e 392.º e ss. CPP.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=199A0392&nid=199&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Crime punível com pena de prisão até 5 anos ou pena alternativa (pressuposto objetivo — art. 344.º-A, n.º 1, CPP)\n- Fase processual adequada: após acusação e antes do início da audiência de julgamento\n- Arguido informado e com capacidade de compreensão; declaração livre e esclarecida\n- Intervenção obrigatória do advogado\n- Acordo deve incluir: factos, qualificação jurídica, pena acordada e forma de cumprimento",
+    "para": "- Crime punível com pena de prisão não superior a 5 anos ou só com pena de multa (art. 392.º, n.º 1, CPP)\n- Sanção a aplicar em concreto: pena ou medida de segurança não privativas da liberdade (art. 392.º, n.º 1, CPP); o requerimento do Ministério Público tem de enunciar as razões pelas quais não deve ser aplicada pena de prisão (art. 394.º, n.º 1, CPP) [■ VERIFICAR: admissibilidade de pena de prisão suspensa na execução em processo sumaríssimo]\n- Fase processual: inquérito — o requerimento do Ministério Público em processo sumaríssimo é apresentado em vez da acusação e, se o processo for reenviado para outra forma, vale como acusação (arts. 395.º, n.º 3, e 398.º, n.º 1, CPP); deduzida acusação em processo comum, a via de consenso que resta é, em regra, a confissão em audiência (art. 344.º CPP) [■ VERIFICAR]\n- Crime dependente de acusação particular: o requerimento depende da concordância do assistente (art. 392.º, n.º 2, CPP)\n- Arguido informado e com capacidade de compreensão; decisão livre e esclarecida\n- Assistência de advogado (o juiz nomeia defensor ao arguido que o não tenha — art. 396.º, n.º 1, al. a), CPP)\n- Alternativas a ponderar: suspensão provisória do processo, que o arguido também pode requerer (art. 281.º, n.º 1, CPP), e arquivamento em caso de dispensa da pena (art. 280.º CPP)",
+    "motivo": "Pressupostos do processo sumaríssimo (arts. 392.º a 396.º CPP) em vez dos de um art. 344.º-A inexistente.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=199A0392&nid=199&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "### ETAPA 2 — CONTEÚDO DO ACORDO\nApresenta em <conteudo_acordo>:\n- Factos que o arguido admite como provados\n- Qualificação jurídica acordada (tipo legal e modalidade)\n- Pena proposta: espécie, medida concreta, forma de cumprimento (suspensão, trabalho comunitário, regime de prova)\n- Reparação do dano ao ofendido (se aplicável): valor, prazo, forma\n- Penas acessórias acordadas\n- Benefícios para o arguido: pena mais leve, suspensão, eliminação de agravantes",
+    "para": "### ETAPA 2 — CONTEÚDO DA PROPOSTA\nApresenta em <conteudo_proposta>:\n- Factos que o arguido não contesta, a descrever por artigos no requerimento do Ministério Público (art. 394.º, n.º 1, CPP)\n- Qualificação jurídica (tipo legal e disposições legais violadas)\n- Sanção proposta: espécie e medida concreta da pena não privativa da liberdade (p. ex., multa, com o número de dias e a taxa diária) e eventuais penas acessórias (art. 394.º, n.º 2, al. a), CPP)\n- Reparação do lesado: a quantia exata, quando deva ser arbitrada nos termos do art. 82.º-A CPP (art. 394.º, n.º 2, al. b), CPP); no processo sumaríssimo não intervêm partes civis, mas o lesado pode manifestar, até ao requerimento do Ministério Público, a intenção de obter a reparação (art. 393.º CPP)\n- Efeitos para o arguido: o juiz pode rejeitar o requerimento e reenviar o processo para outra forma, ou fixar sanção diferente com a concordância do Ministério Público e do arguido (art. 395.º CPP); notificado do requerimento, o arguido pode opor-se em 15 dias, e a oposição reenvia o processo para outra forma, valendo o requerimento como acusação (arts. 396.º, n.º 1, al. b), e 398.º CPP); sem oposição, o despacho que aplica a sanção vale como sentença condenatória e não admite recurso ordinário (art. 397.º, n.ºs 1 e 2, CPP)",
+    "motivo": "Conteúdo do requerimento e efeitos do processo sumaríssimo (arts. 393.º a 398.º CPP); não há pena «acordada» que vincule o tribunal.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=199A0394&nid=199&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "Redige o requerimento conjunto (MP + arguido) ou proposta do arguido ao MP:\n\n**REQUERIMENTO DE ACORDO SOBRE A SENTENÇA**\n(Nos termos do art. 344.º-A CPP)\n\n**Ao Meritíssimo Juiz do [tribunal e juízo]**\n**Processo n.º:** [número]\n**Arguido:** [nome, NIF]\n**Ministério Público:** [DIAP / comarca]\n\n**I — Dos Pressupostos de Admissibilidade**\n[Crime; fase processual; intervenção do advogado]\n\n**II — Dos Factos Admitidos**\n[Narração clara e completa dos factos que o arguido admite]",
+    "para": "Redige o requerimento do arguido ao Ministério Público (a iniciativa é do arguido; o requerimento ao tribunal é do Ministério Público — art. 392.º, n.º 1, CPP):\n\n**REQUERIMENTO PARA APLICAÇÃO DE SANÇÃO EM PROCESSO SUMARÍSSIMO**\n(Art. 392.º, n.º 1, CPP — iniciativa do arguido)\n\n**Ao Ministério Público — [DIAP / Procuradoria da República da comarca de (...)]**\n**Inquérito n.º:** [número]\n**Arguido:** [nome, NIF]\n\n**I — Dos Pressupostos de Admissibilidade**\n[Crime punível com prisão não superior a 5 anos ou só com multa; sanção não privativa da liberdade adequada ao caso; inquérito ainda sem acusação; concordância do assistente, se o crime depender de acusação particular]\n\n**II — Dos Factos**\n[Narração clara e completa dos factos que o arguido não contesta, para a descrição por artigos do art. 394.º, n.º 1, CPP]",
+    "motivo": "O requerimento é dirigido ao Ministério Público, que requer ao tribunal o processo sumaríssimo (art. 392.º, n.º 1, CPP).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=199A0392&nid=199&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "**IV — Da Pena Acordada**\n[Espécie: prisão / multa / pena de substituição; medida concreta; forma de cumprimento]\n\n**V — Da Reparação ao Ofendido**\n[Se aplicável: montante, prazo, forma]\n\n**VI — Do Pedido**\nTermos em que se requer que o tribunal homologue o presente acordo e profira sentença nos termos acordados, ao abrigo do art. 344.º-A CPP.",
+    "para": "**IV — Da Sanção Proposta**\n[Espécie e medida concreta da pena não privativa da liberdade (p. ex., multa: número de dias e taxa diária) e penas acessórias; razões pelas quais não deve ser aplicada pena de prisão (art. 394.º, n.º 1, CPP)]\n\n**V — Da Reparação ao Lesado**\n[Se aplicável: quantia exata a atribuir (arts. 82.º-A e 394.º, n.º 2, al. b), CPP)]\n\n**VI — Do Pedido**\nTermos em que o arguido requer que o Ministério Público, ao abrigo do art. 392.º, n.º 1, CPP, requeira ao tribunal a aplicação, em processo sumaríssimo, da sanção acima indicada, declarando desde já que não se oporá ao requerimento que a contenha (art. 396.º CPP).",
+    "motivo": "Não há homologação judicial de «acordo»: o tribunal aplica a sanção requerida pelo Ministério Público se o arguido não se opuser (arts. 394.º a 397.º CPP).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=199A0397&nid=199&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Crime dentro do limite de 5 anos de pena máxima\n- [ ] Acordo celebrado antes do início da audiência\n- [ ] Arguido assistido por advogado na celebração\n- [ ] Factos narrados com suficiente precisão\n- [ ] Pena acordada dentro da moldura legal\n- [ ] Reparação do dano prevista (se ofendido identificado)",
+    "para": "- [ ] Crime punível com prisão não superior a 5 anos ou só com multa (art. 392.º, n.º 1, CPP)\n- [ ] Sanção proposta não privativa da liberdade e dentro da moldura legal\n- [ ] Requerimento apresentado no inquérito, antes da acusação\n- [ ] Concordância do assistente obtida, se o crime depender de acusação particular (art. 392.º, n.º 2, CPP)\n- [ ] Factos narrados com suficiente precisão\n- [ ] Reparação do lesado indicada, se aplicável (art. 394.º, n.º 2, al. b), CPP)\n- [ ] Arguido esclarecido de que, sem oposição, o despacho vale como sentença condenatória sem recurso ordinário (art. 397.º CPP)",
+    "motivo": "Checklist adaptada ao processo sumaríssimo.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=199A0397&nid=199&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Tribunal: [identificação]\n- Número: [número]\n- Crime acusado: [artigo e diploma]\n- Moldura penal: [mínimo e máximo]\n\n**PROPOSTA DE ACORDO:**\n- Factos admitidos: [descrever]\n- Qualificação jurídica acordada: [artigo]\n- Pena proposta: [espécie, medida, forma]\n- Reparação ao ofendido: [sim/não; valor e prazo]\n- Penas acessórias: [indicar ou \"nenhuma\"]\n\n**POSIÇÃO DO MP:**\n- [favorável / em negociação / a obter]",
+    "para": "- DIAP / Procuradoria: [identificação]\n- Número do inquérito: [número]\n- Crime em investigação: [artigo e diploma]\n- Moldura penal: [mínimo e máximo]\n- Já foi deduzida acusação? [sim/não — se sim, ponderar a confissão em audiência (art. 344.º CPP)]\n\n**PROPOSTA DE SANÇÃO:**\n- Factos não contestados: [descrever]\n- Qualificação jurídica: [artigo]\n- Sanção proposta: [espécie e medida da pena não privativa da liberdade]\n- Reparação ao lesado: [sim/não; quantia]\n- Penas acessórias: [indicar ou \"nenhuma\"]\n- Assistente constituído e posição: [indicar]\n\n**POSIÇÃO DO MP:**\n- [favorável / desfavorável / ainda não ouvido]",
+    "motivo": "Dados próprios do processo sumaríssimo, que corre no inquérito.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=199A0392&nid=199&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "titulo": "Requerimento de Processo Sumaríssimo por Iniciativa do Arguido (art. 392.º CPP)",
+  "titulo_en": "Application for Summary Proceedings (Processo Sumaríssimo) at the Defendant's Initiative (Art. 392 CPP)",
+  "descricao": "Redige o requerimento do arguido ao Ministério Público para que este requeira a aplicação de uma sanção não privativa da liberdade em processo sumaríssimo (arts. 392.º a 398.º do Código de Processo Penal), incluindo os pressupostos, a sanção e a reparação propostas e os efeitos da não oposição. O direito português não prevê acordo sobre a sentença: o CPP não tem art. 344.º-A.",
+  "descricao_en": "Drafts the defendant's application to the Public Prosecutor to request a non-custodial penalty in summary proceedings (processo sumaríssimo, Articles 392 to 398 of the Code of Criminal Procedure), including the requirements, the proposed penalty and compensation and the effects of not opposing. Portuguese law has no agreement on the sentence: there is no Article 344-A CPP.",
+  "pontos_para_o_advogado": [
+   "A ficha mudou de objeto: o catálogo e o nome do ficheiro ainda falam em «acordo sobre a sentença (art. 344.º-A CPP)»; decidir se se mantém com o novo objeto ou se retira.",
+   "Confirmar na jurisprudência se a pena de prisão suspensa na execução pode ser aplicada em processo sumaríssimo (art. 394.º, n.º 1, CPP fala em razões para não aplicar pena de prisão).",
+   "Confirmar na jurisprudência do STJ e do Tribunal Constitucional a admissibilidade de acordos sobre a pena negociados fora das figuras legais, antes de usar qualquer proposta de pena em julgamento.",
+   "A Lei n.º 34/2026 revogou o art. 344.º, n.º 3, al. c), CPP: a confissão integral e sem reservas passou a produzir os efeitos do n.º 2 também nos crimes puníveis com prisão superior a 5 anos (processos em que a lei nova se aplique)."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=199A0344&nid=199&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=199A0344A&nid=199&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=199A0345&nid=199&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=199A0392&nid=199&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=199A0393&nid=199&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=199A0394&nid=199&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=199A0395&nid=199&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=199A0396&nid=199&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=199A0397&nid=199&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=199A0398&nid=199&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=199A0281&nid=199&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=199A0280&nid=199&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=199A0082A&nid=199&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_busca_art_velho.php?nid=199&artigonum=199A0344&n_versao=4&so_miolo=",
+   "https://files.diariodarepublica.pt/1s/2026/07/14300/0000300015.pdf",
+   "https://diariodarepublica.pt/dr/detalhe/lei/34-2026-1152409207"
+  ]
+ },
+ {
+  "codigo": "PEN-053",
+  "veredicto": "corrigida",
+  "resumo": "O prazo de dedução do pedido de indemnização civil estava errado («antes do encerramento do inquérito, ou até à leitura da acusação no julgamento»): no inquérito só se manifesta o propósito de o deduzir, e o pedido do lesado deduz-se em 20 dias a contar da notificação da acusação ou da pronúncia (arts. 75.º e 77.º CPP). As exceções ao princípio da adesão eram inventadas (inimputabilidade, agente não identificado) e foram substituídas pelas do art. 72.º CPP e pela remessa do art. 82.º, n.º 3; a legitimidade passou a ser a do lesado (art. 74.º CPP). Os juros deixaram de correr «desde a data do crime» como alternativa livre: no crédito ilíquido por facto ilícito correm desde a citação (art. 805.º, n.º 3, CC).",
+  "substituicoes": [
+   {
+    "de": "- Exceções ao princípio da adesão (art. 72.º CPP): pedido de complexidade incompatível; processo arquivado; agente inimputável; não identificação do agente\n- Legitimidade: ofendido, herdeiros, terceiros com dano\n- Prazo para dedução: antes do encerramento do inquérito, ou até à leitura da acusação no julgamento",
+    "para": "- Exceções ao princípio da adesão (art. 72.º CPP): o pedido pode ser deduzido em separado, no tribunal civil, entre outros casos, quando o processo penal não tiver conduzido à acusação dentro de 8 meses a contar da notícia do crime ou estiver sem andamento durante esse tempo; tiver sido arquivado ou suspenso provisoriamente, ou o procedimento se tiver extinguido antes do julgamento; o procedimento depender de queixa ou de acusação particular (a dedução prévia no tribunal civil vale como renúncia ao direito de queixa ou de acusação — n.º 2); não houver ainda danos ao tempo da acusação, ou não forem conhecidos em toda a sua extensão; o pedido for deduzido também contra pessoas com responsabilidade meramente civil; o processo correr sob a forma sumária ou sumaríssima; ou o lesado não tiver sido informado da possibilidade de o deduzir nem notificado para o fazer (n.º 1, als. a) a i)). O tribunal pode ainda remeter as partes para os tribunais civis quando as questões do pedido inviabilizarem uma decisão rigorosa ou forem suscetíveis de retardar intoleravelmente o processo penal (art. 82.º, n.º 3, CPP)\n- Legitimidade: o lesado, isto é, a pessoa que sofreu danos ocasionados pelo crime, ainda que se não tenha constituído ou não possa constituir-se assistente (art. 74.º, n.º 1, CPP)\n- Prazo para dedução: até ao encerramento do inquérito, o lesado pode manifestar no processo o propósito de deduzir o pedido (art. 75.º, n.º 2, CPP); se o fez, é notificado da acusação ou, não a havendo, da pronúncia, para o deduzir em 20 dias; se não o fez ou não foi notificado, pode deduzi-lo até 20 dias depois de ao arguido ser notificada a acusação ou, se a não houver, a pronúncia (art. 77.º, n.ºs 2 e 3, CPP). Quando apresentado pelo Ministério Público ou pelo assistente, o pedido é deduzido na acusação ou, em requerimento articulado, no prazo desta (art. 77.º, n.º 1, CPP). Em procedimento de excecional complexidade, os prazos dos n.ºs 2 e 3 do art. 77.º são aumentados em dobro (art. 107.º, n.º 6, CPP, na redação da Lei n.º 34/2026, de 27 de julho)",
+    "motivo": "As exceções, a legitimidade e o prazo de dedução não correspondiam aos arts. 72.º, 74.º, 75.º e 77.º CPP.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=199A0077&nid=199&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Juros moratórios: desde a citação para o processo civil ou desde a data do crime (art. 805.º CC)",
+    "para": "- Juros moratórios: na obrigação de indemnizar por facto ilícito há mora independentemente de interpelação (art. 805.º, n.º 2, al. b), CC), mas, sendo o crédito ilíquido, o devedor só se constitui em mora desde a citação (art. 805.º, n.º 3, CC) — no pedido deduzido em processo penal, a notificação do demandado para contestar (art. 78.º, n.º 1, CPP) [■ VERIFICAR: equiparação à citação na jurisprudência]; se a indemnização for fixada por referência à data mais recente que o tribunal puder atender (art. 566.º, n.º 2, CC), confirmar na jurisprudência uniformizada do STJ o termo inicial dos juros [■ VERIFICAR]",
+    "motivo": "No crédito ilíquido por facto ilícito, a mora conta-se desde a citação (art. 805.º, n.º 3, CC), e não, em alternativa, «desde a data do crime».",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0805&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "[Qualidade de ofendido; princípio da adesão; ausência de exceções]",
+    "para": "[Qualidade de lesado (art. 74.º, n.º 1, CPP); princípio da adesão; tempestividade (art. 77.º CPP); ausência de exceções]",
+    "motivo": "A legitimidade para o pedido civil é do lesado, não necessariamente do ofendido.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=199A0074&nid=199&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "O título fala em indemnização «autónoma», mas a ficha trata do pedido deduzido no processo penal por adesão (art. 71.º CPP); o pedido em separado, no tribunal civil, segue o processo civil.",
+   "A terminologia «incapacidade permanente geral (IPG)» corresponde hoje ao défice funcional permanente da integridade físico-psíquica da tabela de avaliação de incapacidades em direito civil: confirmar a designação usada nas perícias.",
+   "Confirmar o termo inicial dos juros quando a indemnização é atualizada à data da decisão (art. 566.º, n.º 2, CC) na jurisprudência uniformizada do STJ."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=199A0071&nid=199&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=199A0072&nid=199&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=199A0074&nid=199&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=199A0075&nid=199&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=199A0077&nid=199&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=199A0078&nid=199&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=199A0082&nid=199&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=199A0107&nid=199&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0805&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0566&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://files.diariodarepublica.pt/1s/2026/07/14300/0000300015.pdf"
+  ]
+ },
+ {
+  "codigo": "PEN-057",
+  "veredicto": "corrigida",
+  "resumo": "A ficha dava ao recurso da pronúncia um prazo de 20 dias (é de 30 — art. 411.º, n.º 1, CPP), negava-lhe efeito suspensivo (o art. 408.º, n.º 1, al. b), CPP dá-lhe efeito suspensivo do processo) e não dizia que a pronúncia pelos factos da acusação do Ministério Público é irrecorrível (art. 310.º, n.º 1, CPP). Corrigiu-se a admissibilidade, a peça e a checklist; acrescentou-se o regime da nulidade do art. 309.º CPP (arguível em 8 dias perante o juiz de instrução) e a arguição prévia das invalidades do despacho (art. 399.º, n.º 2, CPP, na redação da Lei n.º 34/2026). A «incomunicabilidade de factos do coarguido» (art. 344.º CPP) foi substituída pela regra do art. 345.º, n.º 4, CPP.",
+  "substituicoes": [
+   {
+    "de": "- Prazo: 20 dias a contar da notificação do despacho de pronúncia (art. 411.º CPP)\n- Efeito: o recurso não tem efeito suspensivo do julgamento, salvo se a Relação o determinar",
+    "para": "- Recorribilidade: a decisão instrutória que pronunciar o arguido pelos factos constantes da acusação do Ministério Público (art. 283.º CPP ou art. 285.º, n.º 4, CPP) é irrecorrível, mesmo na parte em que apreciar nulidades e outras questões prévias ou incidentais (art. 310.º, n.º 1, CPP); o recurso só é admissível quando a pronúncia não coincide com essa acusação — p. ex., após instrução requerida pelo assistente na sequência de arquivamento (art. 287.º, n.º 1, al. b), CPP) ou com base em acusação particular não acompanhada pelo Ministério Público [■ VERIFICAR: jurisprudência sobre a pronúncia por factos ou qualificação jurídica diversos dos da acusação do Ministério Público]. Se a pronúncia confirma a acusação do Ministério Público, não há recurso e a defesa faz-se no julgamento\n- Prazo: 30 dias a contar da notificação do despacho de pronúncia (art. 411.º, n.º 1, al. a), CPP); o despacho ditado para a ata considera-se notificado aos presentes (art. 307.º, n.º 1, CPP)\n- Efeito: sobe imediatamente e tem efeito suspensivo do processo — o julgamento aguarda a decisão da Relação (arts. 407.º, n.º 2, al. i), e 408.º, n.º 1, al. b), CPP)",
+    "motivo": "Prazo de 30 dias (art. 411.º, n.º 1, CPP), efeito suspensivo do processo (art. 408.º, n.º 1, al. b), CPP) e irrecorribilidade da pronúncia conforme à acusação do Ministério Público (art. 310.º, n.º 1, CPP).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=199A0310&nid=199&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Nulidades do debate instrutório: falta de notificação, ausência de juiz, falta de fundamentação",
+    "para": "- Nulidades do debate instrutório: falta de notificação, ausência de juiz, falta de fundamentação — as dependentes de arguição têm de ter sido arguidas até ao encerramento do debate instrutório (art. 120.º, n.º 3, al. d), CPP), as insanáveis são de conhecimento oficioso em qualquer fase (art. 119.º CPP), e as invalidades do próprio despacho de pronúncia têm de ser previamente arguidas perante o juiz de instrução (art. 399.º, n.º 2, CPP, na redação da Lei n.º 34/2026, de 27 de julho)",
+    "motivo": "Regime de arguição das nulidades (arts. 119.º e 120.º CPP) e arguição prévia das invalidades dos despachos (art. 399.º, n.º 2, CPP).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=199A0399&nid=199&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Factos novos incluídos na pronúncia sem comunicação prévia ao arguido (art. 303.º CPP)",
+    "para": "- Factos novos incluídos na pronúncia sem comunicação prévia ao arguido (art. 303.º CPP); se constituírem alteração substancial dos factos da acusação ou do requerimento de abertura da instrução, a nulidade argui-se perante o juiz de instrução no prazo de 8 dias (art. 309.º CPP) e só o despacho que a indeferir é recorrível (art. 310.º, n.º 3, CPP)",
+    "motivo": "A nulidade da pronúncia por alteração substancial dos factos tem regime próprio (arts. 309.º e 310.º, n.º 3, CPP).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=199A0309&nid=199&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Incomunicabilidade de factos do coarguido (art. 344.º CPP por analogia)",
+    "para": "- Valoração de declarações de coarguido em prejuízo do recorrente: em julgamento, não valem como meio de prova quando o declarante se recusar a responder às perguntas que lhe forem feitas (art. 345.º, n.º 4, CPP); a transposição desta regra para a valoração dos indícios na instrução fica por confirmar [■ VERIFICAR: jurisprudência da Relação competente]",
+    "motivo": "O art. 344.º CPP trata da confissão; a regra sobre as declarações de coarguido está no art. 345.º, n.º 4, CPP.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=199A0345&nid=199&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "[Prazo, legitimidade]",
+    "para": "[Recorribilidade — a pronúncia não confirma acusação do Ministério Público (art. 310.º, n.º 1, CPP); prazo; legitimidade; efeito suspensivo do processo (art. 408.º, n.º 1, al. b), CPP)]",
+    "motivo": "A peça tem de demonstrar a admissibilidade face ao art. 310.º, n.º 1, CPP.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=199A0310&nid=199&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Prazo de 20 dias verificado",
+    "para": "- [ ] Recorribilidade da pronúncia confirmada (art. 310.º, n.º 1, CPP)\n- [ ] Prazo de 30 dias verificado (art. 411.º, n.º 1, CPP)",
+    "motivo": "Prazo de 30 dias e verificação prévia da recorribilidade.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=199A0411&nid=199&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Nulidades arguidas tempestivamente",
+    "para": "- [ ] Nulidades arguidas tempestivamente e, quanto às do despacho, previamente perante o juiz de instrução (art. 399.º, n.º 2, CPP)",
+    "motivo": "Arguição prévia das invalidades dos despachos (art. 399.º, n.º 2, CPP, na redação da Lei n.º 34/2026).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=199A0399&nid=199&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar se a pronúncia coincide com a acusação do Ministério Público: se coincidir, o recurso é inadmissível (art. 310.º, n.º 1, CPP) e a ficha não deve ser usada.",
+   "A descrição do índice não menciona a irrecorribilidade do art. 310.º, n.º 1, CPP; ponderar acrescentá-la.",
+   "Nos processos pendentes a 1 de setembro de 2026, confirmar a aplicação no tempo do art. 399.º, n.º 2, CPP na redação da Lei n.º 34/2026 (art. 5.º CPP)."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=199A0310&nid=199&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=199A0309&nid=199&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=199A0303&nid=199&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=199A0307&nid=199&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=199A0401&nid=199&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=199A0407&nid=199&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=199A0408&nid=199&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=199A0411&nid=199&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=199A0412&nid=199&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=199A0119&nid=199&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=199A0120&nid=199&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=199A0399&nid=199&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=199A0344&nid=199&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=199A0345&nid=199&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://files.diariodarepublica.pt/1s/2026/07/14300/0000300015.pdf",
+   "https://diariodarepublica.pt/dr/detalhe/lei/34-2026-1152409207"
+  ]
+ },
+ {
+  "codigo": "PEN-059",
+  "veredicto": "corrigida",
+  "resumo": "Os pressupostos do art. 61.º CP estavam errados: os dois terços eram dados como aplicáveis só a «recusa anterior ou pena > 6 anos» e os cinco sextos a categorias de crimes inventadas (terrorismo, criminalidade organizada, violência doméstica grave), faltavam o mínimo de seis meses, o requisito da defesa da ordem jurídica e da paz social e o consentimento do condenado, e a prognose estava no «n.º 1, al. c)». Corrigiu-se segundo o art. 61.º, n.ºs 1 a 5, CP: metade e seis meses com prognose e defesa da ordem jurídica; dois terços e seis meses só com prognose; cinco sextos obrigatórios na pena superior a 6 anos. Acrescentou-se que o processo corre oficiosamente no TEP (art. 173.º CEPMPL) e corrigiu-se a base do pedido (o art. 174.º CEPMPL é a tramitação subsequente).",
+  "substituicoes": [
+   {
+    "de": "— Cita os artigos reais do CP e CEPMPL.",
+    "para": "— Cita os artigos reais do CP e CEPMPL.\n— O processo de concessão da liberdade condicional corre oficiosamente no Tribunal de Execução das Penas: até 90 dias antes da data admissível, o juiz solicita os relatórios dos serviços prisionais e dos serviços de reinserção social (art. 173.º, n.º 1, als. a) e b), CEPMPL). O requerimento do recluso serve para juntar ou requerer outros elementos relevantes (art. 173.º, n.º 1, al. c), CEPMPL), declarar o consentimento e oferecer provas (art. 176.º, n.ºs 1 e 2, CEPMPL).",
+    "motivo": "A instrução do processo de liberdade condicional é oficiosa (art. 173.º CEPMPL); o requerimento do recluso tem esta função.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1147A0173&nid=1147&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Metade da pena cumprida (art. 61.º, n.º 1, CP): pressuposto temporal geral\n- Dois terços da pena cumprida: casos de recusa anterior ou pena > 6 anos (art. 61.º, n.º 2, CP)\n- Cinco sextos: crimes de terrorismo, criminalidade organizada, violência doméstica com circunstâncias graves (art. 61.º, n.º 3, CP)\n- Avaliação comportamental: conduta durante o cumprimento, relatório dos SRS, incidentes disciplinares\n- Prognose favorável: fundada esperança de que o condenado não voltará a delinquir (art. 61.º, n.º 1, al. c), CP)",
+    "para": "- Consentimento do condenado: pressuposto de qualquer modalidade (art. 61.º, n.º 1, CP)\n- Metade da pena e no mínimo 6 meses cumpridos (art. 61.º, n.º 2, CP): exige, cumulativamente, a prognose favorável (al. a)) e que a libertação se revele compatível com a defesa da ordem jurídica e da paz social (al. b))\n- Dois terços da pena e no mínimo 6 meses cumpridos (art. 61.º, n.º 3, CP): basta a prognose favorável da al. a) do n.º 2 — é o segundo momento geral, que não depende de recusa anterior nem da medida da pena\n- Cinco sextos: o condenado a pena de prisão superior a 6 anos é colocado em liberdade condicional logo que cumpra 5/6 da pena, qualquer que seja o crime (art. 61.º, n.º 4, CP); na execução sucessiva de penas cuja soma exceda 6 anos, aos 5/6 da soma (art. 63.º, n.º 3, CP)\n- Avaliação comportamental: conduta durante o cumprimento, relatórios dos serviços prisionais e de reinserção social (art. 173.º, n.º 1, als. a) e b), CEPMPL), incidentes disciplinares\n- Prognose favorável: ser fundadamente de esperar, atentas as circunstâncias do caso, a vida anterior do agente, a sua personalidade e a evolução desta durante a execução da pena, que o condenado, uma vez em liberdade, conduzirá a sua vida de modo socialmente responsável, sem cometer crimes (art. 61.º, n.º 2, al. a), CP)\n- Duração: igual ao tempo de prisão que falte cumprir, até ao máximo de 5 anos (art. 61.º, n.º 5, CP); a colocação pode ser antecipada até 1 ano, para adaptação à liberdade condicional, em regime de permanência na habitação com fiscalização por meios técnicos de controlo à distância (art. 62.º CP)",
+    "motivo": "Os momentos e requisitos da liberdade condicional não correspondiam ao art. 61.º CP.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=109A0061&nid=109&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "Termos em que se requer que seja concedida a liberdade condicional ao recluso, ao abrigo do art. 61.º do CP e do art. 174.º do CEPMPL, ficando o mesmo sujeito às condições indicadas no plano de reinserção.",
+    "para": "Termos em que se requer que seja concedida a liberdade condicional ao recluso, ao abrigo do art. 61.º do CP, sendo considerados na instrução os elementos agora juntos (art. 173.º, n.º 1, al. c), CEPMPL), e declara o recluso desde já o seu consentimento (art. 61.º, n.º 1, CP), ficando o mesmo sujeito às condições indicadas no plano de reinserção.",
+    "motivo": "O art. 174.º CEPMPL regula a convocação do conselho técnico, não o pedido; o consentimento é pressuposto (art. 61.º, n.º 1, CP).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1147A0174&nid=1147&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Pressupostos temporais calculados corretamente",
+    "para": "- [ ] Pressupostos temporais calculados corretamente (metade, dois terços ou cinco sextos, com o mínimo de 6 meses — art. 61.º CP)\n- [ ] Consentimento do recluso declarado (art. 61.º, n.º 1, CP)",
+    "motivo": "Mínimo de seis meses e consentimento (art. 61.º, n.ºs 1 a 4, CP).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=109A0061&nid=109&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Data em que atinge metade/dois terços: [indicar]",
+    "para": "- Datas em que atinge metade, dois terços e, se a pena for superior a 6 anos, cinco sextos: [indicar]",
+    "motivo": "Os cinco sextos aplicam-se a toda a pena superior a 6 anos (art. 61.º, n.º 4, CP).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=109A0061&nid=109&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Em caso de execução sucessiva de penas, confirmar o cômputo do Ministério Público e o regime do art. 63.º CP.",
+   "As siglas «SRS» correspondem hoje à Direção-Geral de Reinserção e Serviços Prisionais; confirmar a designação dos relatórios no processo.",
+   "A decisão de recusa é recorrível pelo recluso (art. 179.º CEPMPL); a instância renova-se de 12 em 12 meses se a prisão houver de prosseguir por mais de um ano (art. 180.º CEPMPL)."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=109A0061&nid=109&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=109A0062&nid=109&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=109A0063&nid=109&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=109A0064&nid=109&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1147A0173&nid=1147&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1147A0174&nid=1147&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1147A0176&nid=1147&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1147A0177&nid=1147&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1147A0179&nid=1147&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1147A0180&nid=1147&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+  ]
+ }
+]

@@ -1,0 +1,559 @@
+[
+ {
+  "codigo": "COM-036",
+  "veredicto": "corrigida",
+  "resumo": "A ficha atribuía o consórcio e o agrupamento complementar de empresas aos «arts. 100 a 122 do CSC», que regulam a fusão e a cisão de sociedades. Substituí essa referência pelo regime real (consórcio e associação em participação no DL 231/81; ACE na Lei 4/73 e no DL 430/73) e assinalei as regras do consórcio que chocam com a estrutura-tipo da ficha (contribuições em dinheiro e proibição de fundos comuns). Acrescentei o risco de o contrato ser qualificado como sociedade civil (art. 980.º CC), com responsabilidade pessoal e solidária dos sócios (art. 997.º CC), e a advertência de que o limite das perdas da cláusula 4.2 só vale entre as Partes.",
+  "substituicoes": [
+   {
+    "de": "- CSC — arts. 100 a 122 (consórcio e agrupamento complementar de empresas) — se aplicável por analogia",
+    "para": "- Qualificação do empreendimento contratual — identificar o tipo legal, porque dele dependem a validade das cláusulas e a responsabilidade perante terceiros:\n  - Consórcio — DL n.º 231/81, de 28 de julho, arts. 1.º a 20.º: só para os objetos do art. 2.º; as contribuições consistem em coisa corpórea ou no seu uso e as contribuições em dinheiro só são permitidas se as de todos os membros forem dessa espécie (art. 4.º, n.º 2); não é permitida a constituição de fundos comuns (art. 20.º, n.º 1); no consórcio externo não se presume solidariedade perante terceiros (art. 19.º, n.º 1); no consórcio interno, a participação convencionada em lucros e perdas segue o art. 25.º (art. 18.º)\n  - Associação em participação — DL n.º 231/81, arts. 21.º a 31.º: uma das partes exerce a atividade e a outra participa nos lucros e, salvo dispensa, nas perdas, limitadas à sua contribuição (arts. 21.º, n.º 2, e 25.º, n.º 4)\n  - Agrupamento complementar de empresas (ACE) — Lei n.º 4/73, de 4 de junho, e DL n.º 430/73, de 25 de agosto: tem personalidade jurídica e visa melhorar as condições de exercício ou de resultado das atividades económicas dos membros [■ VERIFICAR: regime de responsabilidade dos membros pelas dívidas do ACE]\n  - Sociedade civil — se as Partes contribuírem com bens ou serviços para o exercício em comum de uma atividade económica, a fim de repartirem os lucros, o contrato pode ser qualificado como sociedade (art. 980.º CC), mesmo que declarem não o ser; pelas dívidas sociais respondem então a sociedade e, pessoal e solidariamente, os sócios (art. 997.º, n.º 1, CC), só podendo a responsabilidade dos sócios não administradores ser limitada por cláusula expressa (art. 997.º, n.º 3, CC)",
+    "motivo": "Diploma errado: os arts. 100.º a 122.º CSC regulam a fusão e a cisão; o consórcio e a associação em participação constam do DL 231/81 e o ACE da Lei 4/73 e do DL 430/73; faltava o risco de qualificação como sociedade civil",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=705A0020&nid=705&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "1.2 O empreendimento conjunto não constitui uma sociedade nem confere às Partes personalidade jurídica própria.",
+    "para": "1.2 O empreendimento conjunto não constitui uma sociedade nem dá origem a uma pessoa jurídica distinta das Partes, regendo-se pelo regime do [consórcio / associação em participação — Decreto-Lei n.º 231/81, de 28 de julho]. [■ VERIFICAR: a qualificação depende do conteúdo do contrato e não da designação dada pelas Partes — se houver contribuições para o exercício em comum de uma atividade com repartição de lucros, pode tratar-se de uma sociedade civil (art. 980.º do Código Civil)]",
+    "motivo": "A declaração das Partes não afasta a qualificação legal do contrato; o tipo legal (DL 231/81 ou sociedade civil) tem de ser identificado",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0980&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "4.2 As perdas são suportadas pelas Partes na mesma proporção, até ao limite das respetivas contribuições.",
+    "para": "4.2 As perdas são suportadas pelas Partes na mesma proporção, até ao limite das respetivas contribuições. [■ VERIFICAR: este limite vale nas relações entre as Partes; perante terceiros, a responsabilidade depende do tipo legal do empreendimento — se o contrato for qualificado como sociedade civil, os sócios respondem pessoal e solidariamente pelas dívidas sociais (art. 997.º do Código Civil)]",
+    "motivo": "O limite convencional das perdas não é, por si, oponível a terceiros",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0997&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Estrutura (contratual vs. SPV) definida claramente",
+    "para": "- [ ] Estrutura (contratual vs. SPV) definida claramente e, se contratual, tipo legal identificado (consórcio ou associação em participação — DL n.º 231/81) e risco de qualificação como sociedade civil avaliado (arts. 980.º e 997.º CC)",
+    "motivo": "A validação tem de cobrir a qualificação do contrato e a responsabilidade perante terceiros",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0980&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Escolher o tipo legal do empreendimento contratual: se as Partes juntarem capital num fundo comum, o regime do consórcio não serve (art. 20.º do DL 231/81) e o risco de qualificação como sociedade civil é real.",
+   "Confirmar o regime do ACE (Lei 4/73 e DL 430/73), em especial a responsabilidade dos membros pelas dívidas do agrupamento, se for essa a via.",
+   "Confirmar a designação do centro de arbitragem da cláusula 10.2 (a ficha usa a sigla «CACIP», que não consegui conferir).",
+   "Rever as cláusulas de não concorrência à luz da Lei 19/2012 e do art. 101.º TFUE, sobretudo se as Partes forem concorrentes."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=705&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=705A0020&nid=705&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0980&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0997&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://diariodarepublica.pt/dr/detalhe/lei/4-1973-422832",
+   "https://pgdlisboa.pt/jurel/stj_mostra_doc.php?codarea=1&nid=20111"
+  ]
+ },
+ {
+  "codigo": "COM-039",
+  "veredicto": "corrigida",
+  "resumo": "A ficha atribuía ao art. 251.º, n.º 2, CSC a regra de que a deliberação é anulável se o voto impedido for determinante, quando esse número apenas impede o contrato de sociedade de afastar as alíneas do n.º 1; a anulabilidade resulta do art. 58.º, n.º 1, al. a). Reescrevi o impedimento de voto em Lda. (cláusula geral do art. 251.º, n.º 1, com exemplos), distingui-o do regime fechado das SA (art. 384.º, n.º 6) e corrigi a descrição dos votos abusivos (art. 58.º, n.º 1, al. b), com a prova de resistência e a responsabilidade do n.º 3). A suspeita da triagem de que o elenco do art. 251.º seria taxativo não se confirmou: a lei usa «designadamente».",
+  "substituicoes": [
+   {
+    "de": "- Art. 251/1 CSC — proibição de voto do sócio em Lda. quando a deliberação incida diretamente sobre ato seu como gerente, conflito de interesses com a sociedade, ou outro caso de interesse especial\n- Art. 251/2 CSC — o voto contrário à proibição não é necessariamente nulo; a deliberação é anulável se o voto tiver sido determinante\n- Art. 384/6 CSC — proibição de voto em SA nas mesmas situações\n- Art. 58/1/b CSC — anulabilidade por abuso de maioria (quando o sócio maioritário usa o seu voto para benefício próprio em prejuízo da sociedade ou dos minoritários)",
+    "para": "- Art. 251/1 CSC — impedimento de voto do sócio em Lda.: o sócio não pode votar, nem por si, nem por representante, nem em representação de outrem, quando, relativamente à matéria da deliberação, se encontre em situação de conflito de interesses com a sociedade (cláusula geral); as als. a) a g) enumeram, a título exemplificativo («designadamente»), as situações típicas — liberação de obrigação ou responsabilidade própria (também como gerente ou membro do órgão de fiscalização), litígio com a sociedade, perda de parte da quota (art. 204.º, n.º 2), exclusão do sócio, consentimento do art. 254.º, n.º 1, destituição por justa causa da gerência ou do cargo no órgão de fiscalização e qualquer relação entre a sociedade e o sócio estranha ao contrato de sociedade\n- Art. 251/2 CSC — o disposto nas alíneas do n.º 1 não pode ser afastado pelo contrato de sociedade (este número não regula as consequências do voto impedido)\n- Art. 58/1/a CSC — a deliberação tomada com votos impedidos é anulável por violação da lei; entende-se correntemente que só o é quando, descontados esses votos, não se formaria a maioria exigida [■ VERIFICAR: doutrina e jurisprudência sobre a «prova de resistência» no voto impedido]\n- Art. 384/6 CSC — impedimento de voto em SA: sem cláusula geral, apenas quando a lei expressamente o proíba e nas als. a) a d) (liberação de obrigação ou responsabilidade própria, litígio com a sociedade, destituição por justa causa do cargo de titular de órgão social e relação estranha ao contrato de sociedade), inafastáveis pelo contrato (n.º 7); fora destes casos, o conflito de interesses do acionista é tratado pelo art. 58.º, n.º 1, al. b)\n- Art. 58/1/b CSC — anulabilidade das deliberações apropriadas para satisfazer o propósito de um dos sócios de conseguir, através do voto, vantagens especiais para si ou para terceiros, em prejuízo da sociedade ou de outros sócios, ou simplesmente de prejudicar aquela ou estes, a menos que se prove que teriam sido tomadas mesmo sem os votos abusivos; os sócios que formaram essa maioria respondem solidariamente pelos prejuízos (art. 58.º, n.º 3)",
+    "motivo": "O art. 251.º, n.º 1, tem cláusula geral com exemplos e o n.º 2 só torna as alíneas imperativas; a anulabilidade resulta do art. 58.º, n.º 1; o regime das SA (art. 384.º, n.º 6) é diferente; o art. 58.º, n.º 1, al. b), estava mal descrito",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0251&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Art. 72 CSC — responsabilidade do gerente por conflito de interesses não declarado",
+    "para": "- Art. 72 CSC — se o sócio em conflito também for gerente: responsabilidade para com a sociedade por atos ou omissões praticados com preterição dos deveres legais ou contratuais, incluindo o dever de lealdade (art. 64.º, n.º 1, al. b), CSC)",
+    "motivo": "O art. 72.º CSC é a regra geral de responsabilidade dos gerentes, não uma norma sobre conflito de interesses não declarado",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0072&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Distinção entre anulabilidade (art. 251/2 CSC) e nulidade (art. 56 CSC — objeto proibido)",
+    "para": "- Distinção entre anulabilidade (art. 58.º, n.º 1, als. a) e b), CSC) e nulidade (art. 56.º CSC — p. ex., deliberação cujo conteúdo ofenda os bons costumes ou preceitos legais inderrogáveis, al. d))",
+    "motivo": "A anulabilidade está no art. 58.º, não no art. 251.º, n.º 2",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0056&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "o sócio não pode votar nas deliberações em que, por conta própria ou alheia, tenha interesse em conflito com o da sociedade.",
+    "para": "o sócio não pode votar, nem por si, nem por representante, nem em representação de outrem, quando, relativamente à matéria da deliberação, se encontre em situação de conflito de interesses com a sociedade; as als. a) a g) indicam, a título exemplificativo, as situações em que esse conflito se verifica.",
+    "motivo": "Texto do art. 251.º, n.º 1, CSC",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0251&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "**3.3 — Consequências do voto em situação de conflito (art. 251/2 CSC)**\n\nA violação da proibição de voto não acarreta automaticamente a nulidade da deliberação. Nos termos do art. 251.º/2 do CSC, a deliberação é anulável se o voto do sócio em conflito tiver sido determinante para o resultado.",
+    "para": "**3.3 — Consequências do voto em situação de conflito (art. 58.º/1/a CSC)**\n\nA violação do impedimento de voto não gera a nulidade da deliberação: a deliberação tomada com votos impedidos é anulável, por violação da lei (art. 58.º/1/a do CSC), entendendo-se correntemente que só o é quando os votos impedidos tenham sido determinantes para formar a maioria [■ VERIFICAR: jurisprudência sobre a «prova de resistência»].",
+    "motivo": "O art. 251.º, n.º 2, não trata das consequências do voto impedido; a anulabilidade resulta do art. 58.º, n.º 1, al. a)",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0058&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "Independentemente da proibição formal de voto, a deliberação é também anulável se o sócio maioritário a tiver aprovado com o propósito de obter vantagem especial para si ou para terceiro em prejuízo da sociedade (abuso de maioria).",
+    "para": "Independentemente do impedimento de voto, a deliberação é também anulável se for apropriada para satisfazer o propósito de um dos sócios de conseguir, através do voto, vantagens especiais para si ou para terceiros, em prejuízo da sociedade ou de outros sócios, ou simplesmente de prejudicar aquela ou estes, a menos que se prove que teria sido tomada mesmo sem os votos abusivos (art. 58.º/1/b do CSC).",
+    "motivo": "O art. 58.º, n.º 1, al. b), não se limita ao sócio maioritário, abrange o prejuízo de outros sócios e admite a prova de resistência",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0058&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "declarando expressamente o conflito de interesses perante a mesa. Esta abstenção voluntária: (i) protege a validade da deliberação; (ii) evita responsabilidade pessoal por voto em conflito;",
+    "para": "declarando expressamente o conflito de interesses perante a mesa; se a situação couber no art. 251.º/1 do CSC, não votar é um dever legal e não uma opção. A abstenção: (i) protege a validade da deliberação; (ii) evita a responsabilidade solidária pelos prejuízos dos sócios que formem maioria com votos abusivos (art. 58.º/3 do CSC);",
+    "motivo": "No âmbito do art. 251.º, n.º 1, o sócio está impedido de votar; a responsabilidade pessoal prevista na lei é a do art. 58.º, n.º 3",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0058&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar na jurisprudência atual a «prova de resistência» na anulação por voto impedido (art. 58.º, n.º 1, al. a), CSC).",
+   "Nas SA, verificar se o caso cabe nas als. a) a d) do art. 384.º, n.º 6, CSC; fora delas, a via é a dos votos abusivos (art. 58.º, n.º 1, al. b)).",
+   "Verificar se o sócio pode estar presente e intervir no debate apesar do impedimento de voto (e se o contrato de sociedade regula o ponto)."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0251&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0384&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0058&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0059&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0056&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0064&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0072&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+  ]
+ },
+ {
+  "codigo": "COM-040",
+  "veredicto": "corrigida",
+  "resumo": "Quase todas as remissões para o DL 248/86 estavam erradas (capital mínimo no art. 3.º e não no 5.º; o art. 4.º está revogado; a responsabilidade consta dos arts. 10.º e 11.º e não do 8.º; o registo, do art. 5.º; a proibição de pluralidade, do art. 1.º, n.º 3) e o regime da responsabilidade estava mal descrito: o titular não responde por «capital manifestamente insuficiente», mas apenas na insolvência ligada à atividade, se se provar que não observou a separação patrimonial (art. 11.º, n.º 2), com inversão do ónus quanto às dívidas tributárias (art. 25.º LGT). Corrigi também a firma (sem designação de fantasia), a forma (documento escrito), a realização do capital, as contas anuais com parecer de ROC e a tributação (o EIRL não é sujeito passivo de IRC), e acrescentei ao ato constitutivo as menções obrigatórias que faltavam.",
+  "substituicoes": [
+   {
+    "de": "- Alertar sempre para as principais limitações do EIRL vs. SUQ: responsabilidade ilimitada se capital for insuficiente face aos danos causados, menor aceitação bancária e comercial",
+    "para": "- Alertar sempre para as principais limitações do EIRL vs. SUQ: em caso de insolvência do titular por causa relacionada com a atividade do estabelecimento, o titular responde com todo o seu património se se provar que o princípio da separação patrimonial não foi observado na gestão (art. 11.º, n.º 2, do DL 248/86) — e, pelas dívidas tributárias, é ele quem tem de provar que o observou (art. 25.º, n.º 2, LGT); contas anuais com parecer obrigatório de revisor oficial de contas (art. 12.º, n.º 4); remuneração do titular limitada ao triplo do salário mínimo nacional (art. 13.º); menor aceitação bancária e comercial",
+    "motivo": "O DL 248/86 não prevê responsabilidade ilimitada por insuficiência de capital; o regime é o do art. 11.º, n.º 2, e o do art. 25.º LGT",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=678&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- O cliente quer exercer atividade empresarial em nome individual com responsabilidade limitada — EIRL ou SUQ?",
+    "para": "- O cliente quer exercer atividade empresarial em nome individual com responsabilidade limitada — EIRL ou SUQ? (o EIRL só está previsto para pessoa singular que exerça ou pretenda exercer uma atividade comercial — art. 1.º, n.º 1, do DL 248/86)",
+    "motivo": "Âmbito do EIRL fixado no art. 1.º, n.º 1, do DL 248/86",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=678&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Existe necessidade futura de entrada de sócios ou investidores? (EIRL é incompatível — torna-se SUQ)",
+    "para": "- Existe necessidade futura de entrada de sócios ou investidores? (o EIRL não admite sócios; pode, a todo o tempo, transformar-se em SUQ mediante declaração escrita do titular — art. 270.º-A, n.º 5, CSC)",
+    "motivo": "A transformação do EIRL em SUQ depende de declaração escrita do titular (art. 270.º-A, n.º 5, CSC)",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0270&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Art. 1.º DL 248/86 — conceito: pessoa singular afeta determinado capital ao exercício de atividade económica com responsabilidade limitada a esse capital\n- Art. 4.º DL 248/86 — elementos obrigatórios do ato constitutivo\n- Art. 5.º DL 248/86 — capital mínimo: € 5.000 e em dinheiro ou bens avaliados\n- Art. 8.º DL 248/86 — responsabilidade: o EIRL responde apenas com o capital afeto; o titular responde ilimitadamente se o capital for manifestamente insuficiente para reparar os danos\n- Art. 10.º DL 248/86 — registo comercial obrigatório",
+    "para": "- Art. 1.º DL 248/86 — qualquer pessoa singular que exerça ou pretenda exercer uma atividade comercial pode constituir um EIRL, afetando-lhe uma parte do seu património, cujo valor representa o capital inicial (n.ºs 1 e 2); cada pessoa só pode ser titular de um único EIRL (n.º 3)\n- Art. 2.º DL 248/86 — forma escrita, salvo se for exigida forma mais solene para a transmissão dos bens afetos (n.º 1); menções obrigatórias do documento de constituição (n.º 2); firma (n.º 3)\n- Art. 3.º DL 248/86 — capital mínimo de € 5.000 (n.º 2), realizado em numerário, coisas ou direitos penhoráveis, não podendo a parte em numerário ser inferior a dois terços do capital mínimo (n.º 3); integralmente liberado à data do pedido de registo, com a parte em numerário depositada em conta especial há menos de três meses (n.ºs 4 e 5); entradas em espécie com relatório de revisor oficial de contas (n.º 7)\n- Art. 5.º DL 248/86 — registo comercial e publicação do ato constitutivo, eficaz perante terceiros a partir da publicação (art. 6.º)\n- Arts. 10.º e 11.º DL 248/86 — pelas dívidas resultantes de atividades compreendidas no objeto do EIRL respondem apenas os bens a este afetados (art. 11.º, n.º 1); em caso de falência (hoje, insolvência) do titular por causa relacionada com essa atividade, o titular responde com todo o seu património, contanto que se prove que o princípio da separação patrimonial não foi observado na gestão (art. 11.º, n.º 2)\n- Art. 25.º LGT — pelas dívidas tributárias do EIRL respondem apenas os bens a este afetos; em caso de insolvência por causa relacionada com a atividade, respondem todos os bens do titular, salvo se ele provar que observou a separação patrimonial\n- Art. 12.º DL 248/86 — contas anuais (balanço e demonstração dos resultados), sujeitas a parecer de revisor oficial de contas e a registo comercial",
+    "motivo": "Remissões erradas (o capital está no art. 3.º, o art. 4.º foi revogado, o art. 8.º trata da administração, o registo está no art. 5.º) e regime de responsabilidade mal descrito",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=678&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [■ VERIFICAR: legislação fiscal sobre EIRL — IRC ou IRS? O EIRL é tributado em sede de IRS (categoria B) ou IRC consoante opção]",
+    "para": "- [■ VERIFICAR: regime fiscal do EIRL — o EIRL não consta dos sujeitos passivos de IRC (art. 2.º CIRC), pelo que os rendimentos são, em princípio, tributados no IRS do titular (categoria B); confirmar o regime de determinação do rendimento]",
+    "motivo": "O CIRC não prevê o EIRL como sujeito passivo nem uma opção pelo IRC",
+    "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/circ_rep/Pages/irc2.aspx"
+   },
+   {
+    "de": "- Denominação: nome do titular seguido de \"E.I.R.L.\" ou com designação de fantasia\n- Formalidades: escritura pública ou documento particular? (DL 248/86 — VERIFICAR forma exigida)",
+    "para": "- Firma: nome do titular, acrescido ou não de uma referência ao objeto do comércio, com o aditamento «estabelecimento individual de responsabilidade limitada» ou a sigla «E. I. R. L.» (art. 2.º, n.º 3, do DL 248/86); a lei não prevê designação de fantasia\n- Formalidades: documento escrito, salvo se os bens afetos exigirem forma mais solene para a sua transmissão, como os imóveis (art. 2.º, n.º 1, do DL 248/86)",
+    "motivo": "Firma e forma do ato constitutivo fixadas no art. 2.º do DL 248/86",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=678&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "| Tributação | IRS (Cat. B) ou IRC por opção | IRC |\n| Criação de filhos/sócios futuros | Não admite novos sócios (converte-se em SUQ) | Admite facilmente |",
+    "para": "| Tributação | IRS do titular (cat. B) — o EIRL não é sujeito passivo de IRC [■ VERIFICAR] | IRC |\n| Entrada de sócios no futuro | Não admite sócios (pode transformar-se em SUQ — art. 270.º-A, n.º 5, CSC) | Admite facilmente |",
+    "motivo": "Sem opção pelo IRC no CIRC; transformação em SUQ por declaração do titular",
+    "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/circ_rep/Pages/irc2.aspx"
+   },
+   {
+    "de": "| Responsabilidade | Limitada ao capital, mas ilimitada se capital manifestamente insuficiente | Limitada ao capital social |\n| Contabilidade organizada | Obrigatória se volume de negócios > €200.000 | Sempre obrigatória |",
+    "para": "| Responsabilidade | Pelas dívidas da atividade respondem só os bens afetos; o titular responde com todo o património na insolvência ligada à atividade, se não tiver observado a separação patrimonial (art. 11.º DL 248/86; art. 25.º LGT) | Limitada ao capital social |\n| Contas | Contas anuais (balanço e demonstração dos resultados) sempre obrigatórias, com parecer de revisor oficial de contas (art. 12.º DL 248/86) | Contabilidade organizada sempre obrigatória |",
+    "motivo": "Regime de responsabilidade (art. 11.º) e de contas (art. 12.º) do DL 248/86",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=678&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "[■ VERIFICAR: A denominação deve incluir o nome civil do titular ou designação de fantasia autorizada + \"E.I.R.L.\"]",
+    "para": "[■ VERIFICAR: a firma é constituída pelo nome do titular, acrescido ou não de uma referência ao objeto do comércio, e inclui sempre o aditamento «estabelecimento individual de responsabilidade limitada» ou a sigla «E. I. R. L.» — art. 2.º, n.º 3, do DL 248/86]",
+    "motivo": "A lei não admite designação de fantasia na firma do EIRL",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=678&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "sendo [integralmente realizado em dinheiro / realizado em bens: descrição dos bens e respetiva avaliação — VERIFICAR: avaliação por ROC ou perito].",
+    "para": "sendo [integralmente realizado em dinheiro / realizado em dinheiro e em bens: descrição dos bens e respetiva avaliação, com relatório de revisor oficial de contas — art. 3.º, n.º 7, do DL 248/86; a parte em numerário não pode ser inferior a dois terços do capital mínimo — art. 3.º, n.º 3].",
+    "motivo": "As entradas em espécie exigem relatório de ROC e há um mínimo em numerário",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=678&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "[■ VERIFICAR: o capital mínimo é de €5.000, nos termos do art. 5.º do DL 248/86]",
+    "para": "[■ VERIFICAR: o capital mínimo é de €5.000, nos termos do art. 3.º, n.º 2, do DL 248/86]",
+    "motivo": "O capital mínimo consta do art. 3.º, n.º 2",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=678&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "Nos termos do art. 8.º do DL 248/86, de 25 de Agosto, pelas dívidas do estabelecimento responde exclusivamente o capital afeto. O titular não responde com o seu restante património pelas dívidas do estabelecimento, salvo se o capital afeto se revelar manifestamente insuficiente para satisfação das responsabilidades assumidas no exercício da atividade.",
+    "para": "Nos termos do art. 11.º, n.º 1, do DL 248/86, de 25 de agosto, pelas dívidas resultantes de atividades compreendidas no objeto do estabelecimento respondem apenas os bens a este afetados. O titular só responde com todo o seu património, em caso de insolvência por causa relacionada com a atividade exercida no estabelecimento, se se provar que o princípio da separação patrimonial não foi devidamente observado na gestão do estabelecimento (art. 11.º, n.º 2, do mesmo diploma).",
+    "motivo": "A responsabilidade consta do art. 11.º e não depende da suficiência do capital",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=678&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "(a) Não ter constituído outro estabelecimento individual de responsabilidade limitada anteriormente em vigor;",
+    "para": "(a) Não ser titular de outro estabelecimento individual de responsabilidade limitada (art. 1.º, n.º 3, do DL 248/86);",
+    "motivo": "A proibição de pluralidade está no art. 1.º, n.º 3",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=678&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "(c) Que o capital afeto é adequado ao objeto do estabelecimento.",
+    "para": "(c) Que o capital afeto é adequado ao objeto do estabelecimento;\n(d) Que procedeu ao depósito das quantias liberadas em conta especial e que foram feitas as entradas em espécie, se as houver (art. 2.º, n.º 2, al. b), e art. 3.º, n.ºs 4 e 5, do DL 248/86);\n(e) Que o estabelecimento inicia a sua atividade em [data] e é constituído [por tempo indeterminado / pelo prazo de ...], e que o montante aproximado dos impostos e taxas devidos pela constituição é de € [valor] (art. 2.º, n.º 2, als. d) e e), do DL 248/86).",
+    "motivo": "Faltavam menções obrigatórias do documento de constituição (art. 2.º, n.º 2)",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=678&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "nos termos do art. 10.º do DL 248/86 e do Código do Registo Comercial.*",
+    "para": "nos termos do art. 5.º do DL 248/86 e do Código do Registo Comercial, com o capital integralmente liberado e a parte em numerário depositada há menos de três meses (art. 3.º, n.º 4).*",
+    "motivo": "O registo consta do art. 5.º; o art. 10.º trata das dívidas",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=678&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Capital mínimo de €5.000 verificado (art. 5.º DL 248/86)\n- [ ] Denominação inclui nome do titular + \"E.I.R.L.\"",
+    "para": "- [ ] Capital mínimo de €5.000 verificado (art. 3.º, n.º 2, DL 248/86), com pelo menos dois terços do mínimo em numerário depositado (art. 3.º, n.ºs 3 e 4)\n- [ ] Firma com o nome do titular e o aditamento «E. I. R. L.» (art. 2.º, n.º 3, DL 248/86)",
+    "motivo": "Remissões corrigidas e firma conforme o art. 2.º, n.º 3",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=678&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Titular sem outro EIRL em vigor (art. 3.º DL 248/86 — proibição de pluralidade)",
+    "para": "- [ ] Titular sem outro EIRL em vigor (art. 1.º, n.º 3, DL 248/86 — proibição de pluralidade)",
+    "motivo": "A proibição de pluralidade está no art. 1.º, n.º 3",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=678&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar o enquadramento fiscal do EIRL no IRS do titular (categoria B) e o regime de determinação do rendimento.",
+   "Avaliar com o cliente o custo do parecer anual obrigatório de revisor oficial de contas (art. 12.º, n.º 4) e o limite à remuneração do titular (art. 13.º): pesam a favor da SUQ.",
+   "Confirmar o tratamento atual do art. 11.º, n.º 2, do DL 248/86 (redigido para a «falência») à luz do CIRE."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=678&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/lgt/Pages/lgt25.aspx",
+   "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/circ_rep/Pages/irc2.aspx",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0270&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+  ]
+ },
+ {
+  "codigo": "COM-043",
+  "veredicto": "corrigida",
+  "resumo": "A ficha apoiava o penhor de quotas nos arts. 222.º a 225.º CSC (contitularidade e transmissão por morte) e num inexistente art. 23.º, n.º 5, CSC; o regime é o do art. 23.º, n.ºs 3 e 4, CSC (forma e limitações da transmissão; direitos exercidos pelo credor só se convencionado). Corrigi a alínea do registo (art. 3.º, n.º 1, al. f), CRCom, e não al. r)), eliminei o penhor «ao portador» (as ações são obrigatoriamente nominativas desde a Lei 15/2017), limitei o penhor financeiro a ações e a partes elegíveis (as quotas não são instrumentos financeiros) e corrigi a execução do penhor civil, que admite venda extraprocessual convencionada (art. 675.º, n.º 1, CC). Atualizei também a descrição do índice.",
+  "descricao": "Constitui penhor sobre quotas de sociedade por quotas ou sobre ações de sociedade anónima, como garantia de obrigação de terceiro ou da própria sociedade, ao abrigo do art. 23.º do CSC (penhor de participações sociais), dos arts. 666.º e seguintes do Código Civil (penhor) e, nas ações, do Código dos Valores Mobiliários. Inclui o registo do penhor de quotas na Conservatória do Registo Comercial, nos termos do art. 3.º, n.º 1, al. f), do CRCom.",
+  "descricao_en": "Creates a pledge over quotas in a private limited company or over shares in a public limited company, as security for an obligation of a third party or of the company itself, under Article 23 CSC (pledge of company holdings), Articles 666 et seq. of the Civil Code (pledge) and, for shares, the Securities Code (CVM). It includes registration of the pledge of quotas at the Commercial Registry Office under Article 3(1)(f) of the Commercial Registry Code (CRCom).",
+  "substituicoes": [
+   {
+    "de": "- Direitos que acompanham o penhor: direito ao dividendo, direito de voto (art. 23.º, n.º 5 CSC)\n- Necessidade de aprovação pelos restantes sócios (cláusula estatutária de consentimento)",
+    "para": "- Direitos que acompanham o penhor: direito aos lucros e direito de voto — só exercidos pelo credor pignoratício quando assim for convencionado (art. 23.º, n.º 4, CSC)\n- Consentimento e limitações: o penhor só pode ser constituído na forma exigida e dentro das limitações estabelecidas para a transmissão entre vivos da participação (art. 23.º, n.º 3, CSC) — nas quotas, o consentimento da sociedade (art. 228.º, n.º 2, CSC) e as cláusulas do contrato de sociedade; nas ações, as limitações à transmissão (art. 328.º CSC) [■ VERIFICAR: alcance do consentimento exigido para o penhor de quotas no caso concreto]",
+    "motivo": "O art. 23.º CSC só tem quatro números; o regime do penhor de participações está nos n.ºs 3 e 4",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0023&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Penhor de quotas: arts. 222.º a 225.º CSC — oneração sem transmissão; forma escrita; registo obrigatório (art. 3.º CRCom)\n- Direitos do credor pignoratício durante o penhor (art. 225.º CSC): direito aos lucros, exercício do direito de voto (se convencionado)\n- Penhor de ações nominativas: art. 328.º CSC — registo no livro de registo de ações; penhor ao portador: tradição\n- Penhor financeiro: DL 105/2004 — execução extrajudicial imediata, apropriação e venda\n- Execução do penhor: art. 675.º CC (venda judicial) vs. penhor financeiro (extrajudicial)\n- Registo: art. 3.º, al. r), CRCom — oponível a terceiros após registo",
+    "para": "- Penhor de quotas: penhor de direitos (arts. 679.º e 681.º CC), sujeito à forma e às limitações da transmissão entre vivos (art. 23.º, n.º 3, CSC): forma escrita (art. 228.º, n.º 1, CSC); registo obrigatório (art. 3.º, n.º 1, al. f), CRCom)\n- Direitos do credor pignoratício durante o penhor (art. 23.º, n.º 4, CSC): os direitos inerentes à participação, em especial o direito aos lucros, só são exercidos pelo credor quando assim for convencionado; na falta de convenção, o voto e os lucros cabem ao titular\n- Penhor de ações: as ações são nominativas, não sendo permitidas ações ao portador (art. 299.º CSC, na redação da Lei n.º 15/2017); a constituição do penhor segue o Código dos Valores Mobiliários (nas ações escriturais, registo na conta) [■ VERIFICAR: artigos do CVM aplicáveis e forma de constituição nas ações tituladas]; respeitar as limitações à transmissão (art. 328.º CSC)\n- Penhor financeiro (DL n.º 105/2004, de 8 de maio): só para numerário, instrumentos financeiros (como as ações) e certos créditos, e quando as partes pertençam às categorias legais — pelo menos uma tem de ser instituição financeira ou equiparada; as quotas não são instrumentos financeiros, pelo que o penhor de quotas não pode ser penhor financeiro [■ VERIFICAR: arts. 3.º e 5.º do DL 105/2004 na redação em vigor]\n- Execução do penhor: venda executiva, podendo a venda ser feita extraprocessualmente se as partes o tiverem convencionado (art. 675.º, n.º 1, CC), ou adjudicação ao credor pelo valor fixado pelo tribunal, se convencionada (art. 675.º, n.º 2, CC); no penhor financeiro, venda ou apropriação nos termos acordados\n- Registo: art. 3.º, n.º 1, al. f), CRCom (penhor de quotas); os factos sujeitos a registo só produzem efeitos contra terceiros depois da data do registo (art. 14.º, n.º 1, CRCom)",
+    "motivo": "Os arts. 222.º-225.º CSC tratam da contitularidade e da morte; o penhor rege-se pelo art. 23.º CSC; não há ações ao portador; o penhor financeiro não abrange quotas; a al. do CRCom é a f); o art. 675.º CC admite venda extraprocessual",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=506A0003&nid=506&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Cláusula de execução: judicial vs. extrajudicial (penhor financeiro)",
+    "para": "- Cláusula de execução: venda judicial vs. venda extraprocessual convencionada (art. 675.º, n.º 1, CC) ou, nas ações elegíveis, penhor financeiro",
+    "motivo": "A venda extraprocessual também é possível no penhor civil, se convencionada",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0675&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "nos termos do art. 225.º, n.º 1, do CSC.",
+    "para": "nos termos do art. 23.º, n.º 4, do CSC.",
+    "motivo": "O exercício dos direitos pelo credor pignoratício está no art. 23.º, n.º 4, CSC",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0023&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "ao abrigo do art. 23.º, n.º 5, do CSC.",
+    "para": "ao abrigo do art. 23.º, n.º 4, do CSC (na falta de convenção, o voto cabe ao Constituinte).",
+    "motivo": "O art. 23.º CSC não tem n.º 5; a regra está no n.º 4",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0023&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "poderá executar o penhor nos termos do art. 675.º do Código Civil [ou, se penhor financeiro: nos termos do art. 11.º do DL n.º 105/2004, de 8 de maio, mediante venda ou apropriação extrajudicial, após notificação ao Constituinte com antecedência de [X] dias úteis].",
+    "para": "poderá executar o penhor nos termos do art. 675.º do Código Civil [, podendo a venda ser feita extraprocessualmente, nos termos seguintes: ...] [ou, só no penhor de ações que reúna os requisitos do penhor financeiro: nos termos do DL n.º 105/2004, de 8 de maio, mediante venda ou apropriação, após notificação ao Constituinte com antecedência de [X] dias úteis] [■ VERIFICAR: artigo aplicável do DL 105/2004 e critério de avaliação na apropriação].",
+    "motivo": "O penhor financeiro não abrange quotas e a remissão para o art. 11.º do DL 105/2004 não foi conferida",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0675&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "nos termos do art. 3.º, al. r), do CRCom,",
+    "para": "nos termos do art. 3.º, n.º 1, al. f), do CRCom [■ VERIFICAR: no penhor de ações não há registo comercial; aplica-se o regime do Código dos Valores Mobiliários],",
+    "motivo": "O penhor de quotas está na al. f) do n.º 1 do art. 3.º CRCom; a al. r) trata de outras alterações societárias",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=506A0003&nid=506&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Registo na Conservatória requerido (art. 3.º CRCom)\n- [ ] Consentimento dos outros sócios verificado (se exigido por estatutos)",
+    "para": "- [ ] Registo na Conservatória requerido, no penhor de quotas (art. 3.º, n.º 1, al. f), CRCom)\n- [ ] Consentimento da sociedade e limitações estatutárias à transmissão verificados (arts. 23.º, n.º 3, e 228.º, n.º 2, CSC; nas ações, art. 328.º CSC)",
+    "motivo": "Alínea do CRCom e regime do consentimento corrigidos",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0228&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Penhor financeiro (DL 105/2004): [sim / não]",
+    "para": "- Penhor financeiro (DL 105/2004): [sim / não — só para ações e com partes elegíveis]",
+    "motivo": "O penhor financeiro não se aplica a quotas nem a quaisquer partes",
+    "fonte": "https://publications.europa.eu/resource/celex/32002L0047"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar no DL 105/2004 (redação em vigor) as categorias de partes admitidas (art. 3.º), o objeto (art. 5.º) e o artigo sobre a execução, antes de usar o penhor financeiro sobre ações.",
+   "Confirmar no Código dos Valores Mobiliários a forma de constituição do penhor de ações escriturais e tituladas.",
+   "Verificar se o penhor de quotas exige o consentimento da sociedade no caso concreto (art. 23.º, n.º 3, e art. 228.º, n.º 2, CSC) e se o contrato de sociedade o regula."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0023&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0228&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0299&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0328&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=506A0003&nid=506&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=506A0014&nid=506&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0675&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0679&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0681&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://publications.europa.eu/resource/celex/32002L0047"
+  ]
+ },
+ {
+  "codigo": "COM-053",
+  "veredicto": "corrigida",
+  "resumo": "A carta aos trabalhadores atribuía a um «sócio» e ao adquirente uma responsabilidade solidária de um ano (art. 286.º CT): é o transmitente que responde solidariamente, durante dois anos (art. 285.º, n.º 6, CT); e o dever de informação não está no art. 285.º, n.º 5 (que define unidade económica), mas no art. 286.º (por escrito, 10 dias úteis antes da consulta). A carta ao senhorio afirmava que este não se podia opor «salvo se o contrato o proibir» e ignorava o seu direito de preferência no trespasse (art. 1112.º, n.os 1 e 4, CC); o art. 1091.º CC regula a preferência do arrendatário. Corrigi ainda o tratamento fiscal da cessão de quotas (não está «isenta de IMT»: há incidência no caso do art. 2.º, n.º 2, al. d), CIMT; a verba 22 da TGIS respeita a seguros) e a remissão do índice para o RAU, revogado pelo NRAU.",
+  "descricao": "Acompanha a transmissão de estabelecimento comercial ou empresa como unidade, distinguindo o trespasse (transmissão voluntária do estabelecimento — art. 1112.º CC) da cessão de quotas/ações (transmissão da titularidade da sociedade), e preparando a documentação de due diligence, a escritura ou contrato, as comunicações obrigatórias ao senhorio e aos trabalhadores (arts. 285.º e 286.º CT), credores e autoridades fiscais.",
+  "descricao_en": "Supports the transfer of a commercial establishment or business as a going concern, distinguishing the trespasse (voluntary transfer of the establishment — Article 1112 CC) from the transfer of quotas/shares (transfer of ownership of the company), and prepares the due diligence documentation, the deed or agreement, and the mandatory notices to the landlord and to employees (Articles 285 and 286 of the Labour Code, CT), creditors and the tax authorities.",
+  "substituicoes": [
+   {
+    "de": "- Trespasse: contrato que transmite o estabelecimento como universalidade; forma escrita; se imóvel arrendado, comunicação ao senhorio com direito de preferência ou oposição (art. 1112.º CC + art. 1091.º CC)",
+    "para": "- Trespasse: contrato que transmite o estabelecimento como universalidade; se o estabelecimento estiver instalado em imóvel arrendado, a transmissão da posição do arrendatário não depende de autorização do senhorio (art. 1112.º, n.º 1, al. a), CC), mas deve ser celebrada por escrito e comunicada ao senhorio (art. 1112.º, n.º 3, CC), que tem direito de preferência no trespasse por venda ou dação em cumprimento, salvo convenção em contrário (art. 1112.º, n.º 4, CC); não há trespasse nos casos do art. 1112.º, n.º 2, CC; o senhorio não se pode opor (o art. 1091.º CC regula a preferência do arrendatário, não a do senhorio)",
+    "motivo": "O senhorio não tem direito de oposição, mas tem direito de preferência (art. 1112.º, n.º 4); o art. 1091.º CC não se aplica",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1112&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Art. 285.º CT: transmissão de empresa transmite automaticamente os contratos de trabalho para o adquirente; sócio responsável solidário por créditos vencidos antes da transmissão por 1 ano (art. 286.º CT)\n- Art. 285.º, n.º 5 CT: obrigação de informar os trabalhadores com antecedência mínima de 10 dias\n- Cessão de quotas (SPA): adquirente assume todo o passivo da sociedade; risco de passivos ocultos; cobre-se por declarações e garantias\n- IMT no trespasse: incide sobre a transmissão se incluir imóveis; IS sobre o valor do contrato (art. 2.º CIMT, art. 1.º CIS)\n- Cessão de quotas/ações: isenta de IMT; IS 0,5% sobre o valor da cessão (art. 1.º CIS, verba 22)",
+    "para": "- Art. 285.º CT: a transmissão da empresa ou estabelecimento transmite para o adquirente a posição do empregador nos contratos de trabalho (n.º 1), mantendo os trabalhadores todos os direitos contratuais e adquiridos (n.º 3); o transmitente responde solidariamente pelos créditos dos trabalhadores e encargos sociais vencidos até à data da transmissão, durante os dois anos subsequentes (n.º 6); o trabalhador pode opor-se nos termos do art. 286.º-A CT\n- Art. 286.º CT: o transmitente e o adquirente informam por escrito os representantes dos trabalhadores ou, na sua falta, os próprios trabalhadores (data, motivos, consequências, medidas projetadas e conteúdo do contrato), pelo menos 10 dias úteis antes da consulta (n.ºs 1 e 3), e consultam os representantes (n.º 4); a transmissão só pode ter lugar decorridos os prazos do art. 285.º, n.º 7, CT\n- Cessão de quotas (SPA): a sociedade mantém todo o seu passivo, cujo risco o adquirente passa a suportar indiretamente; risco de passivos ocultos; cobre-se por declarações e garantias; em regra, não há transmissão de estabelecimento nem mudança de empregador, pelo que os arts. 285.º e 286.º CT não se aplicam\n- IMT no trespasse: só incide se o trespasse incluir a transmissão de imóveis (art. 2.º CIMT); imposto do selo sobre o valor do trespasse (verba 27.1 da TGIS) [■ VERIFICAR: taxa em vigor e isenções aplicáveis]\n- Cessão de quotas/ações: em regra não sujeita a IMT, salvo se o ativo da sociedade resultar em mais de 50 % de imóveis situados em Portugal não afetos a atividade agrícola, industrial ou comercial (excluída a compra e venda de imóveis) e algum sócio passar a dispor de pelo menos 75 % do capital (art. 2.º, n.º 2, al. d), CIMT); a verba 22 da TGIS respeita a seguros, não à cessão de participações [■ VERIFICAR: sujeição a imposto do selo no caso concreto]",
+    "motivo": "Responsabilidade solidária do transmitente por dois anos (art. 285.º, n.º 6); informação no art. 286.º; a cessão de quotas pode estar sujeita a IMT e a verba 22 da TGIS não se aplica",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0285&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "Nos termos do art. 1112.º, n.º 3, do CC, o Senhor não pode opor-se ao trespasse [salvo se o contrato de arrendamento expressamente o proibir]. Solicita-se, contudo, a confirmação da sua anuência no prazo de [X] dias.",
+    "para": "[Juntar as cláusulas do contrato de trespasse.]\n\nA transmissão da posição de arrendatário decorrente do trespasse não depende da sua autorização (art. 1112.º, n.º 1, al. a), do CC). Para efeitos do direito de preferência que lhe confere o art. 1112.º, n.º 4, do CC [eliminar se o contrato de arrendamento o tiver excluído], comunicam-se o projeto de trespasse e as cláusulas do respetivo contrato, podendo V. Ex.ª exercer o seu direito no prazo de [X] dias a contar da receção desta carta [■ VERIFICAR: prazo — aplicação do art. 416.º, n.º 2, do CC (oito dias, salvo prazo mais longo assinado pelo obrigado) à preferência legal do senhorio]. Celebrado o trespasse, ser-lhe-á comunicada a transmissão, nos termos do art. 1112.º, n.º 3, do CC.",
+    "motivo": "O senhorio não tem direito de oposição nem de anuência, mas tem direito de preferência no trespasse por venda (art. 1112.º, n.º 4), que a carta não permitia exercer",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1112&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "**C) COMUNICAÇÃO AOS TRABALHADORES (art. 285.º, n.º 5 CT)**",
+    "para": "**C) COMUNICAÇÃO AOS TRABALHADORES (art. 286.º CT)**",
+    "motivo": "O dever de informar os trabalhadores consta do art. 286.º CT; o art. 285.º, n.º 5, define unidade económica",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0286&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "Nos termos do art. 285.º, n.º 5, do Código do Trabalho, informo que a empresa [firma] será transmitida para [firma/nome do adquirente] com efeitos a partir de [data].",
+    "para": "Nos termos do art. 286.º, n.ºs 1 e 3, do Código do Trabalho [na falta de representantes dos trabalhadores], informamos que [o estabelecimento / a empresa] [designação/firma] será transmitido(a) para [firma/nome do adquirente] com efeitos a partir de [data], pelos seguintes motivos: [motivos]. [Consequências jurídicas, económicas e sociais para os trabalhadores, medidas projetadas em relação a estes e conteúdo do contrato entre transmitente e adquirente.]",
+    "motivo": "O dever de informação consta do art. 286.º CT (o art. 285.º, n.º 5, define unidade económica) e tem conteúdo mínimo legal",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0286&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "O transmitente e o adquirente são solidariamente responsáveis pelos créditos laborais vencidos antes da transmissão, durante o prazo de um ano (art. 286.º CT).",
+    "para": "O transmitente responde solidariamente pelos créditos emergentes do seu contrato de trabalho, da sua violação ou cessação, vencidos até à data da transmissão, durante os dois anos subsequentes a esta (art. 285.º, n.º 6, CT). Se a transmissão lhe puder causar prejuízo sério, pode opor-se, informando o empregador por escrito no prazo previsto no art. 286.º-A, n.º 3, CT.",
+    "motivo": "Responde o transmitente, durante dois anos (art. 285.º, n.º 6, CT); faltava o direito de oposição (art. 286.º-A CT)",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0285&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "Com os melhores cumprimentos,\nA Gerência",
+    "para": "Com os melhores cumprimentos,\n[O transmitente e o adquirente]",
+    "motivo": "O dever de informação cabe ao transmitente e ao adquirente (art. 286.º, n.º 1, CT)",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0286&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Comunicação ao senhorio efetuada (se estabelecimento em imóvel arrendado — art. 1112.º CC)\n- [ ] Comunicação aos trabalhadores com antecedência ≥ 10 dias (art. 285.º, n.º 5 CT)",
+    "para": "- [ ] Senhorio notificado para preferência e transmissão comunicada (se estabelecimento em imóvel arrendado — art. 1112.º, n.ºs 3 e 4, CC)\n- [ ] Informação escrita aos representantes dos trabalhadores (ou aos trabalhadores) pelo menos 10 dias úteis antes da consulta, e consulta realizada (art. 286.º, n.ºs 1, 3 e 4, CT)",
+    "motivo": "Preferência do senhorio (art. 1112.º, n.º 4, CC) e prazo do art. 286.º, n.º 3, CT",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0286&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar o prazo para o senhorio exercer a preferência no trespasse (aplicação do art. 416.º CC) e se o contrato de arrendamento a exclui.",
+   "Confirmar a taxa e as isenções do imposto do selo sobre o trespasse (verba 27.1 da TGIS) na redação em vigor e a eventual sujeição da cessão de quotas a IMT (art. 2.º, n.º 2, al. d), CIMT).",
+   "Se houver representantes dos trabalhadores, a informação e a consulta são feitas com eles (art. 286.º, n.º 8, CT); a carta individual serve só na sua falta."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1112&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1091&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0416&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0285&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0286&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=691A0060&nid=691&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cimt/Pages/cimt2.aspx",
+   "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/selo/ra/Pages/ccod-selo-tabgiselora_202212.aspx"
+  ]
+ },
+ {
+  "codigo": "COM-054",
+  "veredicto": "corrigida",
+  "resumo": "A ficha ligava a obrigação de designar encarregado da proteção de dados a um limiar de 250 trabalhadores e tratava o registo de atividades como «voluntário» abaixo desse limiar: o art. 37.º RGPD depende da natureza das atividades principais e a dispensa do art. 30.º, n.º 5, RGPD não vale para tratamentos não ocasionais, de risco ou de categorias especiais, pelo que quase todas as sociedades estão obrigadas. Corrigi ainda a base legal da videovigilância (art. 19.º da Lei 58/2019, que remete para o art. 31.º da Lei 34/2013, de onde vem o prazo de 30 dias) e do marketing direto eletrónico (art. 13.º-A da Lei 41/2004, não a Lei 58/2019), e o prazo de conservação contabilística (art. 123.º, n.º 4, CIRC).",
+  "substituicoes": [
+   {
+    "de": "- Dimensão da sociedade e número de trabalhadores (DPO obrigatório se >250 trabalhadores ou tratamento em grande escala — art. 37.º RGPD)",
+    "para": "- Atividades principais da sociedade: o encarregado da proteção de dados é obrigatório se consistirem em operações que exijam controlo regular e sistemático dos titulares em grande escala, ou em tratamento em grande escala de categorias especiais de dados ou de dados relativos a condenações penais (art. 37.º, n.º 1, als. b) e c), RGPD) — o número de trabalhadores não é critério\n- Número de trabalhadores (releva para a dispensa do registo do art. 30.º, n.º 5, RGPD)",
+    "motivo": "O art. 37.º RGPD não fixa limiar de trabalhadores",
+    "fonte": "https://publications.europa.eu/resource/celex/32016R0679"
+   },
+   {
+    "de": "- Art. 30.º RGPD: registo de atividades de tratamento (obrigatório para empresas ≥ 250 trabalhadores; voluntário para menores, mas recomendado)",
+    "para": "- Art. 30.º RGPD: registo de atividades de tratamento — a dispensa para empresas com menos de 250 trabalhadores (n.º 5) não se aplica se o tratamento for suscetível de implicar risco, não for ocasional ou abranger categorias especiais de dados ou dados relativos a condenações penais; como a gestão de pessoal e de clientes é habitual, na prática quase todas as sociedades estão obrigadas",
+    "motivo": "A dispensa do art. 30.º, n.º 5, RGPD é estreita; o registo não é «voluntário»",
+    "fonte": "https://publications.europa.eu/resource/celex/32016R0679"
+   },
+   {
+    "de": "- Lei 58/2019: derrogações nacionais — tratamento de dados de trabalhadores (art. 28.º), videovigilância (art. 28.º), marketing direto",
+    "para": "- Lei 58/2019: normas nacionais de execução — relações laborais (art. 28.º; as imagens de videovigilância no local de trabalho só podem ser utilizadas no processo penal e, nessa medida, para apurar responsabilidade disciplinar — n.ºs 4 e 5) e videovigilância (art. 19.º, que remete para os requisitos do art. 31.º da Lei n.º 34/2013, de 16 de maio)\n- Marketing direto por via eletrónica: Lei n.º 41/2004, art. 13.º-A — consentimento prévio e expresso dos destinatários pessoas singulares (n.º 1); pessoas coletivas podem receber comunicações até as recusarem e se inscreverem na lista do art. 13.º-B (n.º 2); clientes, para produtos ou serviços análogos, com possibilidade de recusa (n.º 3)",
+    "motivo": "A videovigilância está no art. 19.º da Lei 58/2019 e o marketing direto eletrónico na Lei 41/2004, não na Lei 58/2019",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=3118A0019&nid=3118&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "| Mínimo 5 anos após cessação (obrigação legal) |",
+    "para": "| [■ VERIFICAR: prazo legal aplicável a cada categoria de documento — não há um prazo único de 5 anos] |",
+    "motivo": "Não se confirmou uma obrigação legal geral de conservar os dados de RH por 5 anos",
+    "fonte": "https://publications.europa.eu/resource/celex/32016R0679"
+   },
+   {
+    "de": "| Art. 6.º, al. a) (consentimento) ou al. f) (interesse legítimo B2B) | Até oposição |",
+    "para": "| Consentimento prévio e expresso, se o destinatário for pessoa singular (art. 13.º-A, n.º 1, Lei 41/2004); pessoas coletivas e clientes: regime de oposição dos n.ºs 2 e 3 do mesmo artigo [■ VERIFICAR: endereços nominativos de colaboradores de empresas] | Até retirada do consentimento ou oposição |",
+    "motivo": "O envio de marketing por correio eletrónico depende das regras da Lei 41/2004, não só do art. 6.º RGPD",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=707A0013&nid=707&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "| 10 anos (RGIT/IRS) |",
+    "para": "| 10 anos (art. 123.º, n.º 4, CIRC) |",
+    "motivo": "O prazo de conservação de 10 anos dos registos contabilísticos e documentos de suporte consta do art. 123.º, n.º 4, CIRC",
+    "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/circ_rep/Pages/irc123.aspx"
+   },
+   {
+    "de": "| 30 dias máx. (Lei 58/2019) |",
+    "para": "| 30 dias a contar da captação, com destruição nas 48 horas seguintes (art. 19.º, n.º 1, Lei 58/2019 e art. 31.º, n.º 2, Lei 34/2013) |",
+    "motivo": "O prazo de 30 dias resulta do art. 31.º, n.º 2, da Lei 34/2013, para que remete o art. 19.º da Lei 58/2019",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1924A0031&nid=1924&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Avaliar caso a caso se as atividades principais da sociedade exigem encarregado da proteção de dados (art. 37.º RGPD) e documentar a avaliação.",
+   "Fixar prazos de conservação por categoria de dados (laborais, contabilísticos, contratuais), com base no prazo legal ou de prescrição aplicável.",
+   "Confirmar o regime das comunicações de marketing enviadas para endereços nominativos de colaboradores de clientes empresariais (Lei 41/2004 e orientações da CNPD)."
+  ],
+  "fontes": [
+   "https://publications.europa.eu/resource/celex/32016R0679",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=3118A0019&nid=3118&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=3118A0028&nid=3118&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3118&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1924A0031&nid=1924&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=707A0013&nid=707&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/circ_rep/Pages/irc123.aspx"
+  ]
+ },
+ {
+  "codigo": "COM-058",
+  "veredicto": "corrigida",
+  "resumo": "A ficha situava o Regime Extrajudicial de Recuperação de Empresas no «DL 79/2017, de 30 de junho», que apenas alterou o CIRE; o RERE consta da Lei 8/2018, de 2 de março, ainda sem alterações. Reescrevi a sua descrição com o regime real (protocolo assinado por credores que representem pelo menos 15 % do passivo não subordinado, depositado na Conservatória, negociações até três meses, compromisso de não instaurar execuções nem pedir a insolvência, eficácia só entre os subscritores) e corrigi a do PER (a suspensão abrange as ações executivas para cobrança de créditos, por quatro meses prorrogáveis por um, e não «todas as ações»). Assinalei ainda que a mediação da cláusula 6.ª não pode ser confiada ao IAPMEI nos termos indicados e atualizei a descrição do índice.",
+  "descricao": "Redige acordo de standstill e reestruturação de dívida comercial entre sociedades, pelo qual os credores se comprometem a não executar os seus créditos durante um período de tempo definido, para permitir a negociação de um plano de reestruturação, ao abrigo dos arts. 405.º e 406.º do CC (liberdade contratual) e em articulação com o Regime Extrajudicial de Recuperação de Empresas (RERE — Lei n.º 8/2018, de 2 de março) e o PER (arts. 17.º-A e ss. CIRE).",
+  "descricao_en": "Drafts a standstill and commercial debt restructuring agreement between companies, under which the creditors undertake not to enforce their claims for a defined period so that a restructuring plan can be negotiated, under Articles 405 and 406 CC (freedom of contract) and in conjunction with the Out-of-Court Business Recovery Regime (RERE — Law No. 8/2018 of 2 March) and the Special Revitalisation Procedure (PER, Articles 17-A et seq. CIRE).",
+  "substituicoes": [
+   {
+    "de": "- RERE (DL 79/2017): processo extrajudicial confidencial, voluntário; suspende ações por credores participantes durante as negociações; não vincula não participantes\n- PER (arts. 17.º-A a 17.º-J CIRE): processo judicial, suspende todas as ações; vincula credores mesmo não participantes se aprovado por maioria\n- Dever de apresentação à insolvência: art. 18.º CIRE — 30 dias após situação de insolvência; o standstill não suspende este dever; avaliar cuidadosamente",
+    "para": "- RERE (Lei n.º 8/2018, de 2 de março; o DL n.º 79/2017 apenas alterou o CIRE): regime extrajudicial voluntário e confidencial (arts. 2.º, 4.º e 8.º), para devedores em situação económica difícil ou de insolvência iminente (art. 3.º, n.º 1); o protocolo de negociação é assinado pelo devedor e por credores que representem pelo menos 15 % do passivo não subordinado e depositado na Conservatória do Registo Comercial (art. 6.º, n.º 1), com negociações de três meses no máximo (art. 6.º, n.º 5), e contém o compromisso das partes de não instaurarem execuções nem pedirem a insolvência do devedor durante esse prazo (art. 7.º, n.º 1, al. e)); a participação do credor que tenha requerido a insolvência suspende esse processo (art. 11.º, n.º 1); o acordo de reestruturação só afeta os créditos dos credores que o subscrevam (arts. 11.º, n.º 3, e 19.º, n.º 5)\n- PER (arts. 17.º-A a 17.º-J CIRE): processo judicial para empresa em situação económica difícil ou de insolvência iminente (art. 17.º-A, n.º 1); a decisão de nomeação do administrador judicial provisório obsta à instauração e suspende as ações executivas para cobrança de créditos durante quatro meses, prorrogáveis por um mês (art. 17.º-E, n.ºs 1 e 2), salvo as de créditos laborais (n.º 4), e suspende os processos de insolvência (n.º 9); o plano homologado vincula a empresa e os credores, mesmo os que não participaram nas negociações (art. 17.º-F, n.º 11); um acordo extrajudicial subscrito pelas maiorias legais pode ser apresentado para homologação (art. 17.º-I)\n- Dever de apresentação à insolvência: art. 18.º CIRE — 30 dias seguintes à data do conhecimento da situação de insolvência ou à data em que devesse conhecê-la; o standstill não suspende este dever (só o afasta a apresentação a PER, durante a suspensão das medidas de execução — art. 18.º, n.º 2, al. a)); avaliar cuidadosamente",
+    "motivo": "O RERE consta da Lei 8/2018 (o DL 79/2017 alterou o CIRE); os efeitos do RERE e do PER estavam mal descritos",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2850&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "Qualquer litígio será submetido a mediação no [IAPMEI / CACM] antes de qualquer ação judicial.",
+    "para": "Qualquer litígio será submetido a mediação [entidade a indicar] antes de qualquer ação judicial. [■ VERIFICAR: entidade de mediação — o mediador de recuperação de empresas (Lei n.º 6/2018) assiste o devedor nas negociações com os credores, não resolve litígios entre as partes do acordo]",
+    "motivo": "A mediação de litígios contratuais não cabe ao IAPMEI nos termos indicados e a sigla «CACM» não identifica uma entidade conferida",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2847&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Considerar articulação com RERE (DL 79/2017) para maior eficácia",
+    "para": "- [ ] Considerar sujeitar as negociações ao RERE (Lei n.º 8/2018 — protocolo depositado, assinado por credores que representem pelo menos 15 % do passivo não subordinado) ou levar o acordo a homologação em PER (art. 17.º-I CIRE), para maior eficácia",
+    "motivo": "Diploma do RERE corrigido",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2850&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Ponderar se o acordo deve ser sujeito ao RERE (efeitos legais do protocolo e do acordo) ou ficar puramente contratual (só vincula os signatários).",
+   "Avaliar a situação de insolvência atual do devedor: o standstill não afasta o dever de apresentação do art. 18.º CIRE nem a presunção de culpa grave do art. 186.º CIRE.",
+   "Definir a entidade de mediação da cláusula 6.ª."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2850&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0017&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0018&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2847&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+  ]
+ },
+ {
+  "codigo": "COM-060",
+  "veredicto": "corrigida",
+  "resumo": "A ficha fundava a associação em participação no «art. 21.º do Código Comercial» e num «art. 20.º CCom» sobre o pacto leonino, e descrevia o DL 231/81 como regime especial «para certas atividades»; o regime geral do contrato está nos arts. 21.º a 31.º do DL 231/81, que revogou os arts. 224.º a 227.º do Código Comercial (os arts. 1.º a 20.º regulam o consórcio). Corrigi a base legal nas regras, na fundamentação, na cláusula 1.ª, na checklist e no índice; acertei a opção sem participação nas perdas (admitida, com prova escrita e contribuição obrigatória), a contribuição (natureza patrimonial e valor em dinheiro) e a resolução por justa causa (art. 30.º, sem pré-aviso).",
+  "descricao": "Redige o contrato de associação em participação ao abrigo dos arts. 21.º a 31.º do DL n.º 231/81, de 28 de julho, regulando a participação de um associado nos lucros e, salvo dispensa, nas perdas de uma atividade económica exercida pelo associante, sem criação de pessoa coletiva, com cláusulas de gestão, informação, distribuição de resultados e liquidação da associação.",
+  "descricao_en": "Drafts the profit-sharing association agreement (associação em participação) under Articles 21 to 31 of Decree-Law No. 231/81 of 28 July, governing the participating party's (associado) share in the profits and, unless waived, in the losses of an economic activity carried on by the principal party (associante), without creating a legal person, with clauses on management, information, distribution of results and liquidation of the association.",
+  "substituicoes": [
+   {
+    "de": "— Cita artigos reais do CCom, do DL 231/81 e do CIRC.",
+    "para": "— Cita artigos reais do DL 231/81 (que regula este contrato; os arts. 224.º a 227.º do Código Comercial foram revogados), do CIRS e do CIRC.",
+    "motivo": "O Código Comercial já não regula a associação em participação",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=705A0032&nid=705&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Art. 21.º CCom: o associante atua em seu nome e não há representação do associado perante terceiros; terceiros só conhecem o associante\n- DL 231/81: regime especial de associação em participação para certas atividades",
+    "para": "- Art. 21.º do DL n.º 231/81, de 28 de julho: associação de uma pessoa a uma atividade económica exercida por outra, com participação nos lucros ou nos lucros e perdas que desse exercício resultarem; a participação nos lucros é elemento essencial e a participação nas perdas pode ser dispensada (n.º 2); a atividade é exercida pelo associante, sem representação do associado perante terceiros\n- DL 231/81, arts. 21.º a 31.º: regime geral do contrato de associação em participação (o art. 32.º revogou os arts. 224.º a 227.º do Código Comercial) — forma (art. 23.º), contribuição do associado (art. 24.º), lucros e perdas (art. 25.º), deveres do associante (art. 26.º), extinção e resolução (arts. 27.º a 30.º) e prestação de contas (art. 31.º)",
+    "motivo": "O regime geral do contrato está nos arts. 21.º a 31.º do DL 231/81, não no Código Comercial",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=705&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Art. 20.º CCom: proibição de sociedade leonina — o associado não pode ser excluído de todos os lucros",
+    "para": "- Art. 21.º, n.º 2, do DL 231/81: a participação nos lucros é essencial (o associado não pode ser excluído dos lucros); a participação nas perdas pode ser dispensada, mas a cláusula que a exclua só pode ser provada por escrito (art. 23.º, n.º 2); a participação nas perdas é limitada à contribuição (art. 25.º, n.º 4), salvo convenção expressa em contrário, também só provada por escrito (arts. 25.º, n.º 1, e 23.º, n.º 2)",
+    "motivo": "O art. 20.º do Código Comercial não regula o pacto leonino; a regra está no art. 21.º, n.º 2, do DL 231/81",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=705A0021&nid=705&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "nos termos do art. 21.º do Código Comercial e do DL n.º 231/81, de 28 de julho,",
+    "para": "nos termos dos arts. 21.º e seguintes do Decreto-Lei n.º 231/81, de 28 de julho,",
+    "motivo": "Base legal do contrato: DL 231/81",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=705A0021&nid=705&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "/ em serviços: [descrição dos serviços]].",
+    "para": "/ em serviços: [descrição dos serviços] [■ VERIFICAR: admissibilidade — a contribuição do associado tem de ter natureza patrimonial (art. 24.º, n.º 1, do DL 231/81)]]. À contribuição do Associado é atribuído o valor de €[X] (art. 24.º, n.º 4, do DL 231/81).",
+    "motivo": "A contribuição tem de ter natureza patrimonial e o contrato deve atribuir-lhe um valor em dinheiro (art. 24.º, n.ºs 1 e 4)",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=705A0024&nid=705&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "[Ou: O Associado não participa nas perdas — verificar conformidade com art. 20.º CCom]",
+    "para": "[Ou: O Associado não participa nas perdas — cláusula admitida pelo art. 21.º, n.º 2, do DL 231/81, que só pode ser provada por escrito (art. 23.º, n.º 2); nesse caso, a contribuição do Associado não pode ser dispensada (art. 24.º, n.º 2)]",
+    "motivo": "A exclusão da participação nas perdas é admitida pelo DL 231/81; o art. 20.º CCom não se aplica",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=705A0023&nid=705&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "6.3. Qualquer das partes pode resolver o contrato com justa causa, com pré-aviso de [X] meses.",
+    "para": "6.3. Qualquer das partes pode extinguir antecipadamente o contrato com fundamento em justa causa; se a justa causa consistir em facto doloso ou culposo de uma das partes, esta indemniza a outra pelos prejuízos causados pela extinção (art. 30.º, n.ºs 1 e 2, do DL 231/81). [Se o contrato não tiver duração determinada nem tiver por objeto operações determinadas: qualquer das partes pode extingui-lo, a todo o tempo, depois de decorridos dez anos sobre a celebração — art. 30.º, n.º 3.]",
+    "motivo": "A resolução por justa causa não depende de pré-aviso e o regime de extinção consta do art. 30.º do DL 231/81",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=705A0030&nid=705&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Percentagem de lucros e perdas estipulada (evitar cláusula leonina — art. 20.º CCom)",
+    "para": "- [ ] Participação nos lucros estipulada (elemento essencial — art. 21.º, n.º 2, do DL 231/81) e regime das perdas fixado por escrito (art. 23.º, n.º 2)",
+    "motivo": "Base legal corrigida",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=705A0021&nid=705&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Associado não tem poderes de representação do associante (art. 21.º CCom)",
+    "para": "- [ ] Associado não tem poderes de representação do associante (a atividade é exercida pelo associante — art. 21.º, n.º 1, do DL 231/81)",
+    "motivo": "Base legal corrigida",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=705A0021&nid=705&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar o enquadramento fiscal dos rendimentos do associado (IRS, categoria E — art. 5.º, n.º 2, al. l), CIRS; IRC, se pessoa coletiva) e a taxa de retenção aplicável.",
+   "A referência ao «TOC» nas cláusulas 5.ª e 7.ª está desatualizada (hoje contabilista certificado); a certificação legal de contas cabe a revisor oficial de contas.",
+   "Se a contribuição for em serviços, confirmar a sua admissibilidade como contribuição de natureza patrimonial (art. 24.º, n.º 1, do DL 231/81)."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=705&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=705A0021&nid=705&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=705A0024&nid=705&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=705A0030&nid=705&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=705A0032&nid=705&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cirs_rep/Pages/irs5.aspx"
+  ]
+ }
+]

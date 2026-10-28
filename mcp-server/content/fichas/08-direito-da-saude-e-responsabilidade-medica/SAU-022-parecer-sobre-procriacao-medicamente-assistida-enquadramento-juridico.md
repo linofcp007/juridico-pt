@@ -6,7 +6,8 @@ titulo_en: "Legal Opinion on Medically Assisted Reproduction (Legal Framework)"
 descricao: "Elabora um parecer jurídico sobre o enquadramento legal da procriação medicamente assistida (PMA) em Portugal, cobrindo os requisitos de acesso, os direitos dos intervenientes, a filiação, a doação de gâmetas e embriões, a gestação de substituição e as responsabilidades dos centros de PMA."
 descricao_en: "Drafts a legal opinion on the legal framework of medically assisted reproduction (procriação medicamente assistida, PMA) in Portugal, covering the access requirements, the rights of those involved, parentage, gamete and embryo donation, surrogacy and the responsibilities of PMA centres."
 ambito: nacional
-estado_citacoes: "conferidas 0 · corrigidas 0 · por conferir 3"
+estado_citacoes: "conferidas 0 · corrigidas 0 · por conferir 15"
+revisao_tecnica: "2026-10-28 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
@@ -14,7 +15,8 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 
 > **Âmbito:** nacional · **Área:** Direito da Saúde e Responsabilidade Médica · **Código:** SAU-022
 > **EN:** Legal Opinion on Medically Assisted Reproduction (Legal Framework). Drafts a legal opinion on the legal framework of medically assisted reproduction (procriação medicamente assistida, PMA) in Portugal, covering the access requirements, the rights of those involved, parentage, gamete and embryo donation, surrogacy and the responsibilities of PMA centres.
-> **Citações:** conferidas 0 · corrigidas 0 · por conferir 3. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 0 · corrigidas 0 · por conferir 15. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-28 — corrigida (3 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
 Elabora um parecer jurídico sobre o enquadramento legal da procriação medicamente assistida (PMA) em Portugal, cobrindo os requisitos de acesso, os direitos dos intervenientes, a filiação, a doação de gâmetas e embriões, a gestação de substituição e as responsabilidades dos centros de PMA.
 
@@ -38,22 +40,25 @@ Ficha de trabalho para preparar este documento. As regras da casa prevalecem sob
 Apresenta dentro de um bloco <analise_do_caso>:
 - Qual a técnica de PMA em causa: inseminação artificial / FIV / ICSI / diagnóstico genético pré-implantação / outra
 - PMA homóloga ou heteróloga (com doação de gâmetas)
-- Quem são os beneficiários: casal casado / união de facto / mulher solteira
+- Quem são os beneficiários: casal de sexo diferente ou casal de mulheres, casados ou em união de facto / qualquer mulher, independentemente do estado civil e da orientação sexual (art. 6.º, n.º 1, da Lei n.º 32/2006); idade mínima de 18 anos (art. 6.º, n.º 2)
 - Questão central: acesso à PMA / filiação / gestação de substituição / responsabilidade do centro / outra
 - Se há embrião criopreservado e questão sobre a sua utilização / destino
 
 ### ETAPA 2 — ANÁLISE JURÍDICA (Fundamentação)
 Apresenta dentro de um bloco <fundamentos_juridicos>:
-- Lei n.º 32/2006 (Lei da PMA), com as alterações introduzidas por:
-  - Lei n.º 59/2007 (art. 277.º CP [■ VERIFICAR: o art. 277.º CP trata de regras de construção; a gestação de substituição está na Lei 32/2006 (PMA)] — gestação de substituição)
-  - Lei n.º 17/2016 — alargamento dos beneficiários (mulheres solteiras e casais femininos)
-  - Lei n.º 25/2016 — gestação de substituição (regime especial e temporário — [■ VERIFICAR: estado atual da lei]
-  - [■ VERIFICAR: alterações posteriores à versão de 2016]
+- Lei n.º 32/2006 (Lei da PMA), na redação atual (9.ª versão, a da Lei n.º 90/2021), com as alterações introduzidas por:
+  - Lei n.º 59/2007 — aditou o art. 43.º-A (responsabilidade penal das pessoas coletivas); nada tem que ver com a gestação de substituição
+  - Lei n.º 17/2016 — alargamento do acesso a todas as mulheres, independentemente do diagnóstico de infertilidade, do estado civil e da orientação sexual (arts. 4.º e 6.º)
+  - Lei n.º 25/2016 — admissão da gestação de substituição, a título excecional e gratuito (art. 8.º)
+  - Acórdão do Tribunal Constitucional n.º 225/2018 — declarou inconstitucionais, com força obrigatória geral, várias normas do art. 8.º (gestação de substituição, incluindo a irrevogabilidade do consentimento da gestante) e a regra do sigilo absoluto sobre a identidade dos dadores (art. 15.º, n.os 1 e 4)
+  - Leis n.os 58/2017, 49/2018 (regime do maior acompanhado, art. 6.º, n.º 2) e 48/2019 (identidade do dador, art. 15.º)
+  - Lei n.º 72/2021 — inseminação post mortem (arts. 22.º, 22.º-A e 23.º)
+  - Lei n.º 90/2021 — novo regime da gestação de substituição (art. 8.º), com o consentimento da gestante revogável até ao registo da criança (art. 8.º, n.º 10) [■ VERIFICAR: regulamentação da Lei n.º 90/2021 em vigor]
 - Art. 20.º e ss. da Lei n.º 32/2006 — filiação na PMA
 - Art. 8.º da Lei n.º 32/2006 — gestação de substituição: requisitos, validade e limites
 - Conselho Nacional de Procriação Medicamente Assistida (CNPMA) — competências e aprovação prévia
 - Regulamentação dos centros de PMA: [■ VERIFICAR: portaria ou decreto-lei aplicável]
-- Registo dos doadores e anonimato: [■ VERIFICAR: evolução legislativa — direito do filho a conhecer a identidade biológica]
+- Confidencialidade e identidade do dador: o Acórdão do Tribunal Constitucional n.º 225/2018 declarou inconstitucional o sigilo absoluto sobre a identidade dos dadores; na redação atual do art. 15.º da Lei n.º 32/2006 (Lei n.º 48/2019), as pessoas nascidas com recurso a dádiva de gâmetas ou embriões podem obter as informações de natureza genética que lhes digam respeito e, a partir dos 18 anos, a identificação civil do dador junto do CNPMA [■ VERIFICAR: regime transitório aplicável às dádivas anteriores à Lei n.º 48/2019]
 
 ### ETAPA 3 — ANÁLISE DO CASO CONCRETO
 Apresenta dentro de um bloco <analise_concreta>:
@@ -139,6 +144,18 @@ Apresenta dentro de um bloco <checklist_validacao>:
 
 | Citação | Estado | Nota |
 |---|---|---|
-| art. 277.º CP | por conferir [■ VERIFICAR] | o art. 277.º CP trata de regras de construção; a gestação de substituição está na Lei 32/2006 (PMA) |
+| art. 6.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 6.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 6.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 43.º-A | por conferir [■ VERIFICAR] | diploma não identificado |
+| arts. 4.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 8.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 8.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 8.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 8.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 15.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 15.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 15.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| arts. 22.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | Art. 20.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | Art. 8.º | por conferir [■ VERIFICAR] | diploma não identificado |

@@ -1,0 +1,738 @@
+[
+  {
+    "codigo": "COM-001",
+    "veredicto": "corrigida",
+    "resumo": "A ficha mantinha o regime das entradas anterior ao DL 33/2011 («metade na subscrição») e atribuía ao art. 229.º CSC um direito legal de preferência dos sócios na cessão de quotas, que a lei não confere: a preferência só existe se o pacto a estipular. A fundamentação remetia ainda para artigos que não regulam a matéria (art. 11.º para a firma, art. 197.º para o valor mínimo da quota, art. 246.º para as maiorias). Corrigi o regime das entradas (arts. 199.º, 202.º e 203.º), a cláusula de preferência, as maiorias (arts. 250.º e 265.º), a lista de normas e a reserva legal mínima de € 2 500 nas Lda.",
+    "substituicoes": [
+      {
+        "de": "- Número de sócios e distribuição de quotas (verificar participação mínima — art. 197 CSC)",
+        "para": "- Número de sócios e distribuição de quotas (valor nominal mínimo de € 1 por quota — art. 219.º, n.º 3, CSC)",
+        "motivo": "O valor mínimo da quota está no art. 219.º, n.º 3, e não no art. 197.º CSC",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0219&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Capital social mínimo (€1 para Lda. — art. 201 CSC) e realização (metade na subscrição)",
+        "para": "- Capital social livremente fixado (art. 201.º CSC) e realização das entradas em dinheiro: entrega até ao ato constitutivo ou compromisso de entrega até ao final do primeiro exercício económico (art. 202.º, n.º 4, CSC), salvo diferimento estipulado no pacto, em datas certas ou dependente de factos certos e determinados (art. 203.º, n.º 1, CSC); o pacto menciona as entradas realizadas e as diferidas (art. 199.º, al. b), CSC)",
+        "motivo": "A realização de metade na subscrição é o regime anterior ao DL 33/2011; o art. 202.º, n.ºs 2 e 3, está revogado",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0202&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Arts. 197 a 245 CSC (regime geral das sociedades por quotas)\n- Art. 11 CSC (firma social — denominação ou nome de sócio + \"Limitada\" ou \"Lda.\")\n- Art. 202 CSC (realização das entradas em dinheiro)\n- Arts. 228-235 CSC (cessão de quotas e direito de preferência)\n- Art. 246 CSC (deliberações dos sócios — matérias de competência exclusiva)\n- Art. 252 CSC (gerência — poderes, limitações e representação)",
+        "para": "- Arts. 197.º a 270.º-G CSC (regime das sociedades por quotas, incluindo as unipessoais)\n- Art. 200.º CSC (firma — nome ou firma de sócios e/ou denominação particular, concluindo sempre por «Limitada» ou «Lda.»)\n- Arts. 199.º, al. b), 202.º, n.ºs 4 e 6, e 203.º CSC (entradas em dinheiro: entrega até ao ato constitutivo ou até ao final do primeiro exercício económico; diferimento só se estipulado no pacto, podendo a prestação ser exigida, em qualquer caso, decorridos cinco anos sobre a celebração do contrato ou metade da duração da sociedade, se inferior)\n- Arts. 228.º a 231.º CSC (cessão de quotas: forma escrita e consentimento da sociedade para a cessão a estranhos, salvo entre cônjuges, entre ascendentes e descendentes ou entre sócios; a lei não confere aos sócios direito de preferência — só existe se o pacto o estipular) e arts. 232.º e seguintes CSC (amortização)\n- Art. 246.º CSC (competência dos sócios) e arts. 250.º, n.º 3, e 265.º CSC (maiorias: maioria dos votos emitidos, em regra; três quartos dos votos correspondentes ao capital social para alterar o pacto, fundir, cindir ou transformar a sociedade)\n- Arts. 252.º, 259.º e 260.º CSC (composição da gerência, competência da gerência e vinculação da sociedade)",
+        "motivo": "Normas citadas fora do sítio (firma no art. 200.º e não no art. 11.º; maiorias nos arts. 250.º e 265.º) e preferência legal inexistente na cessão de quotas",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0229&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Cláusula de preferência na cessão de quotas (arts. 228-229 CSC) — se aplicável",
+        "para": "- Cláusula de preferência na cessão de quotas — só existe se o pacto a estipular, com prazo e modo de exercício (a lei regula apenas o consentimento da sociedade — arts. 228.º e 229.º CSC) — se aplicável",
+        "motivo": "Os arts. 228.º e 229.º CSC regulam o consentimento da sociedade, não um direito de preferência dos sócios",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0228&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "Os demais sócios gozam de direito de preferência na cessão, nos termos do art. 229.º CSC. [■ VERIFICAR: prazo de exercício do direito de preferência]",
+        "para": "Os demais sócios gozam de direito de preferência na cessão onerosa de quotas a terceiros, a exercer no prazo de [■ VERIFICAR: prazo] a contar da comunicação escrita do projeto de cessão, com identificação do cessionário, do preço e das demais condições. [Nota: a preferência resulta apenas desta cláusula; a lei regula só o consentimento da sociedade e as cláusulas do pacto sobre a cessão — art. 228.º CSC e art. 229.º CSC.]",
+        "motivo": "O art. 229.º CSC não confere preferência aos sócios; a cláusula tem de a constituir e regular",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0229&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "com as maiorias previstas no art. 246.º CSC.",
+        "para": "com as maiorias previstas na lei (art. 250.º, n.º 3, e art. 265.º, n.º 1, CSC).",
+        "motivo": "O art. 246.º CSC fixa a competência dos sócios; as maiorias estão nos arts. 250.º, n.º 3, e 265.º, n.º 1",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0250&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "(a) 5% para reserva legal até ao limite mínimo legal;",
+        "para": "(a) pelo menos 5% para reserva legal, até que esta represente a quinta parte do capital social, nunca inferior a € 2 500 (arts. 218.º e 295.º, n.º 1, CSC);",
+        "motivo": "Nas Lda. o limite mínimo da reserva legal nunca é inferior a € 2 500 (relevante com capital baixo)",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0218&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- [ ] Regime de deliberações conforme art. 246 CSC",
+        "para": "- [ ] Regime de deliberações conforme os arts. 246.º (competência), 250.º e 265.º CSC (maiorias)",
+        "motivo": "As maiorias estão nos arts. 250.º e 265.º CSC",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0265&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Confirmar se o pacto deve prever o diferimento das entradas em dinheiro e, se sim, as datas ou factos de que depende o pagamento (art. 203.º, n.º 1, CSC).",
+      "Definir prazo e modo de exercício da preferência convencional, se os sócios a quiserem, e articulá-la com o consentimento da sociedade.",
+      "A cláusula de foro com «renúncia a qualquer outro» deve ser confrontada com as regras de competência do CPC."
+    ],
+    "fontes": [
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0199&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0201&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0202&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0203&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0218&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0219&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0228&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0229&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0250&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0265&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0295&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+    ]
+  },
+  {
+    "codigo": "COM-003",
+    "veredicto": "corrigida",
+    "resumo": "A ficha invertia o regime das entradas (exigia 70 % de realização na subscrição, quando só pode ser diferida a realização de 70 %, pelo que o mínimo imediato é 30 % — art. 277.º, n.º 2, CSC), inventava um capital mínimo de € 30 000 para S.A. com oferta pública, admitia ações ao portador (proibidas pelo art. 299.º CSC) e omitia o modelo de governo com comissão de auditoria (art. 278.º, n.º 1, al. b)). A lista de normas remetia para artigos alheios à matéria (art. 321.º para o conselho de administração, art. 416.º para o conselho fiscal, arts. 349.º-356.º para ações próprias, art. 276.º-A inexistente). Corrigi esses pontos e acrescentei o número mínimo de cinco acionistas (art. 273.º CSC).",
+    "substituicoes": [
+      {
+        "de": "- Capital social mínimo €50.000 (art. 276, n.º 5 CSC para S.A. com oferta pública: €30.000 — [■ VERIFICAR legislação em vigor])",
+        "para": "- Capital social mínimo de € 50 000 (art. 276.º, n.º 5, CSC), sem regime diferente para as sociedades constituídas com apelo a subscrição pública\n- Mínimo de cinco acionistas, salvo quando a lei o dispense (art. 273.º, n.º 1, CSC) — por exemplo, a S.A. constituída por uma sociedade como sua única acionista (art. 488.º CSC)",
+        "motivo": "Não existe capital mínimo de € 30 000 para S.A. com oferta pública; o art. 276.º, n.º 5, fixa € 50 000 sem exceções. Faltava o número mínimo de acionistas",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0276&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Modelo de governo pretendido (art. 278 CSC):\n  a) Conselho de Administração + Conselho Fiscal (modelo tradicional)\n  b) Conselho de Administração + Fiscal único (variante simplificada)\n  c) Conselho de Administração Executivo + Conselho Geral e de Supervisão (modelo germânico)",
+        "para": "- Modelo de governo pretendido (art. 278.º, n.º 1, CSC):\n  a) Conselho de administração (ou administrador único, se o capital não exceder € 200 000 — art. 390.º, n.º 2, CSC) e conselho fiscal ou fiscal único (modelo tradicional — art. 413.º CSC)\n  b) Conselho de administração, compreendendo uma comissão de auditoria, e revisor oficial de contas (arts. 423.º-B e seguintes CSC; não admite administrador único — art. 278.º, n.º 5, CSC)\n  c) Conselho de administração executivo, conselho geral e de supervisão e revisor oficial de contas (modelo germânico)",
+        "motivo": "O fiscal único é variante do modelo tradicional, não um modelo autónomo; faltava o modelo com comissão de auditoria (art. 278.º, n.º 1, al. b))",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0278&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Capital social e estrutura de ações (nominativas ou ao portador; [■ VERIFICAR: emissão de ações ao portador limitada após CMVM)",
+        "para": "- Capital social e estrutura de ações: ações com valor nominal ou sem valor nominal, sem coexistência das duas na mesma sociedade (art. 276.º, n.ºs 1 e 2, CSC); as ações são obrigatoriamente nominativas, não sendo permitidas ações ao portador (art. 299.º CSC)",
+        "motivo": "As ações ao portador já não são permitidas (art. 299.º CSC)",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0299&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Art. 276 CSC — capital social mínimo e realização mínima na subscrição (70%)\n- Art. 278 CSC — modelos de governo societário\n- Arts. 286-291 CSC — ações: tipos, forma, transmissibilidade\n- Art. 321 CSC — Conselho de Administração: número, mandato, competências\n- Art. 374 CSC — Assembleia Geral: convocação, competências, deliberações\n- Art. 383 CSC — maioria exigida para deliberações especiais (2/3 dos votos)\n- Art. 416 CSC — Conselho Fiscal: composição e competências\n- Arts. 349-356 CSC — aquisição de ações próprias",
+        "para": "- Art. 276.º CSC — valor nominal das ações e capital social mínimo de € 50 000 (n.º 5)\n- Art. 277.º CSC — entradas: nas entradas em dinheiro só pode ser diferida a realização de 70 % do valor nominal ou de emissão das ações, e nunca o prémio de emissão (n.º 2), pelo que pelo menos 30 % é realizado na subscrição e depositado em conta aberta em nome da sociedade antes da celebração do contrato (n.ºs 3 e 4); o diferimento não pode exceder cinco anos (art. 285.º, n.º 1, CSC)\n- Art. 278.º CSC — modelos de governo societário\n- Arts. 298.º a 304.º CSC — ações: valor de emissão, ações nominativas, categorias e títulos; arts. 328.º e 329.º CSC — limitações à transmissão de ações e consentimento\n- Arts. 390.º a 412.º CSC — conselho de administração: composição (art. 390.º), designação e mandato de até quatro anos civis (art. 391.º), destituição (art. 403.º), competência, representação e vinculação (arts. 405.º a 409.º)\n- Arts. 373.º a 389.º CSC — assembleia geral: convocação (art. 377.º), quórum (art. 383.º) e maiorias (art. 386.º — dois terços dos votos emitidos para alteração do contrato, fusão, cisão, transformação e dissolução, ou maioria simples em segunda convocação se estiver presente ou representado metade do capital)\n- Arts. 413.º a 423.º CSC — fiscal único e conselho fiscal: estrutura e composição (arts. 413.º e 414.º) e competência (art. 420.º)\n- Arts. 316.º a 325.º-B CSC — aquisição e detenção de ações próprias",
+        "motivo": "O mínimo de realização estava invertido (art. 277.º, n.º 2) e vários artigos não correspondiam à matéria indicada (arts. 321.º, 374.º, 383.º, 416.º e 349.º-356.º)",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0277&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "[■ VERIFICAR: se ações sem par contabilístico — art. 276-A CSC]",
+        "para": "[■ VERIFICAR: se ações sem valor nominal — art. 276.º, n.ºs 1 a 4, CSC]",
+        "motivo": "Não existe art. 276.º-A CSC; as ações sem valor nominal estão no art. 276.º",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0276&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "Inclui obrigatoriamente um Revisor Oficial de Contas (ROC) ou sociedade de ROC.",
+        "para": "Inclui um Revisor Oficial de Contas (ROC) ou sociedade de ROC, salvo se a fiscalização couber a um conselho fiscal e a um ROC que dele não seja membro (art. 413.º, n.º 1, al. b), e art. 414.º, n.º 2, CSC), modalidade obrigatória para as sociedades cotadas e para as que excedam os limites do art. 413.º, n.º 2, al. a), CSC.",
+        "motivo": "O conselho fiscal não inclui ROC quando este é órgão autónomo, modalidade por vezes obrigatória",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0413&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- [ ] Realização mínima de 70% na subscrição verificada",
+        "para": "- [ ] Realização de, pelo menos, 30 % das entradas em dinheiro na subscrição verificada (diferimento máximo de 70 % — art. 277.º, n.º 2, CSC)",
+        "motivo": "O mínimo de realização imediata é 30 %; 70 % é o máximo que pode ser diferido",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0277&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- [ ] Número de administradores adequado (mínimo 1 se capital < €200.000)",
+        "para": "- [ ] Número de administradores adequado (administrador único só se o capital não exceder € 200 000 — art. 390.º, n.º 2, CSC)",
+        "motivo": "Precisão do limite do art. 390.º, n.º 2, CSC",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0390&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- [ ] Maioria qualificada para deliberações especiais referenciada (art. 383)",
+        "para": "- [ ] Maioria qualificada para deliberações especiais referenciada (art. 386.º, n.ºs 3 e 4, CSC)",
+        "motivo": "As maiorias estão no art. 386.º; o art. 383.º regula o quórum",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0386&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Modelo: [tradicional / germânico]",
+        "para": "- Modelo: [tradicional / com comissão de auditoria / germânico]",
+        "motivo": "Faltava o modelo do art. 278.º, n.º 1, al. b), CSC",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0278&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Confirmar se a sociedade está obrigada à fiscalização por conselho fiscal e ROC autónomo (art. 413.º, n.º 2, CSC) ou a comissões específicas por ser emitente de valores mobiliários.",
+      "Rever o quórum constitutivo da assembleia proposto no artigo 7.º dos estatutos face ao art. 383.º CSC (em primeira convocação a lei admite qualquer número de acionistas, salvo nas matérias do n.º 2).",
+      "Atividade sujeita a supervisão (banca, seguros, mercados): confirmar requisitos de capital e de idoneidade da legislação setorial."
+    ],
+    "fontes": [
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0273&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0276&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0277&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0278&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0285&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0299&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0383&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0386&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0390&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0391&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0413&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0414&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0488&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+    ]
+  },
+  {
+    "codigo": "COM-007",
+    "veredicto": "corrigida",
+    "resumo": "A ata indicava a retenção na fonte sobre dividendos de sócios pessoas singulares «à taxa de IRC», quando se aplica a taxa liberatória de 28 % do art. 71.º, n.º 1, al. a), do CIRS, com opção de englobamento. A ficha omitia ainda o limite mínimo de € 2 500 da reserva legal nas Lda. (art. 218.º, n.º 2, CSC), a regra da distribuição obrigatória de metade do lucro distribuível salvo cláusula ou maioria de três quartos (arts. 217.º e 294.º CSC), o vencimento do crédito aos lucros 30 dias após a deliberação e a cobertura prévia de prejuízos transitados (arts. 32.º e 33.º). Corrigi a ata, o cálculo do montante distribuível e a lista de normas.",
+    "substituicoes": [
+      {
+        "de": "- Verificar reserva legal mínima obrigatória (5% dos lucros até 1/5 do capital — art. 218 CSC)",
+        "para": "- Verificar reserva legal mínima obrigatória: pelo menos 5 % dos lucros até a reserva atingir 1/5 do capital (art. 295.º, n.º 1, CSC); nas Lda., o limite mínimo da reserva legal nunca é inferior a € 2 500 (art. 218.º, n.º 2, CSC)",
+        "motivo": "Nas Lda. o limite mínimo da reserva legal nunca é inferior a € 2 500",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0218&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Reserva legal já constituída: atingiu ou não o mínimo de 1/5 do capital? (se não, há dotação obrigatória de 5%)",
+        "para": "- Reserva legal já constituída: atingiu ou não o mínimo de 1/5 do capital (nas Lda., nunca inferior a € 2 500)? (se não, há dotação obrigatória de, pelo menos, 5 %)",
+        "motivo": "Limite mínimo da reserva legal nas Lda. (art. 218.º, n.º 2, CSC)",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0218&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "(IRS — taxa de retenção na fonte [■ VERIFICAR: taxa vigente no CIRS] — ou coletivas (IRC)",
+        "para": "(IRS — taxa liberatória de 28 %, art. 71.º, n.º 1, al. a), CIRS, salvo opção pelo englobamento, art. 71.º, n.º 9, CIRS) ou coletivas (IRC — [■ VERIFICAR: retenção e dispensa de retenção nos arts. 94.º e 97.º CIRC])",
+        "motivo": "A taxa aplicável aos dividendos pagos a pessoas singulares é a liberatória de 28 % do CIRS",
+        "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cirs_rep/Pages/irs71.aspx"
+      },
+      {
+        "de": "- Deliberação exige simples maioria ou mais (verificar pacto/estatutos)",
+        "para": "- Maioria: a aplicação de resultados delibera-se, em regra, por maioria dos votos emitidos (art. 250.º, n.º 3, e art. 386.º, n.º 1, CSC), mas não pode deixar de ser distribuída metade do lucro distribuível, salvo cláusula do pacto/estatutos ou deliberação por três quartos dos votos correspondentes ao capital social em assembleia convocada para o efeito (art. 217.º, n.º 1, CSC — Lda.; art. 294.º, n.º 1, CSC — S.A.)",
+        "motivo": "Faltava a regra da distribuição obrigatória de metade do lucro distribuível e a maioria de três quartos para a afastar",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0217&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Art. 33 CSC — proibição de distribuição de lucros que afete o capital social e reservas legais\n- Art. 217 CSC (Lda.) — distribuição de lucros em Lda.\n- Art. 218 CSC — reserva legal: 5% dos lucros até 1/5 do capital\n- Art. 294 CSC (S.A.) — distribuição de lucros em S.A.\n- Art. 297 CSC — adiantamento por conta de lucros em S.A.",
+        "para": "- Art. 32.º CSC — não podem ser distribuídos bens aos sócios quando o capital próprio for, ou ficar com a distribuição, inferior à soma do capital social e das reservas que a lei ou o contrato não permitem distribuir\n- Art. 33.º CSC — não são distribuíveis os lucros necessários para cobrir prejuízos transitados ou para formar ou reconstituir reservas legais ou estatutárias (n.º 1); a deliberação menciona as reservas distribuídas (n.º 4)\n- Art. 217.º CSC (Lda.) — direito aos lucros do exercício: metade do lucro distribuível tem de ser distribuída, salvo cláusula do pacto ou deliberação por três quartos dos votos correspondentes ao capital; o crédito vence-se 30 dias após a deliberação, podendo os sócios, com fundamento em situação excecional, estender o prazo até mais 60 dias (n.º 2)\n- Art. 218.º CSC — reserva legal nas Lda.: aplicam-se os arts. 295.º e 296.º, com limite mínimo nunca inferior a € 2 500\n- Arts. 294.º e 295.º CSC (S.A.) — direito aos lucros (regra paralela à do art. 217.º) e reserva legal: pelo menos 5 % dos lucros até atingir 1/5 do capital\n- Art. 297.º CSC — adiantamentos sobre lucros no decurso do exercício (S.A.): só se o contrato o autorizar, com balanço intercalar certificado pelo ROC, um só adiantamento, na segunda metade do exercício, e até metade do distribuível",
+        "motivo": "O limite do capital e das reservas indisponíveis está no art. 32.º; o art. 33.º trata dos prejuízos transitados e das reservas a formar; faltavam as regras de distribuição e vencimento dos arts. 217.º e 294.º",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0032&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Apurar montante distribuível: resultado líquido + resultados transitados positivos − reserva legal obrigatória − outras reservas estatutárias",
+        "para": "- Apurar montante distribuível: resultado líquido − prejuízos transitados a cobrir − dotação da reserva legal − outras reservas estatutárias (art. 33.º, n.º 1, CSC) + resultados transitados positivos e reservas livres que se deliberem distribuir (art. 33.º, n.º 4, CSC), confirmando que o capital próprio não fica inferior ao capital social acrescido das reservas indisponíveis (art. 32.º, n.º 1, CSC)",
+        "motivo": "Os lucros do exercício têm primeiro de cobrir os prejuízos transitados (art. 33.º, n.º 1, CSC)",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0033&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Prazo de pagamento dos dividendos após deliberação",
+        "para": "- Prazo de pagamento dos dividendos: o crédito do sócio vence-se 30 dias após a deliberação, salvo diferimento consentido pelo sócio ou extensão até mais 60 dias deliberada com fundamento em situação excecional da sociedade (art. 217.º, n.º 2, e art. 294.º, n.º 2, CSC)",
+        "motivo": "A lei fixa o vencimento do crédito aos lucros",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0294&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "A reserva legal encontra-se [ainda abaixo do mínimo obrigatório de 1/5 do capital social de €[capital], pelo que é obrigatória a dotação de 5% do resultado líquido / já atingiu o mínimo de 1/5 do capital, pelo que não é obrigatória nova dotação].",
+        "para": "A reserva legal encontra-se [ainda abaixo do mínimo legal — 1/5 do capital social de €[capital], nunca inferior a € 2 500 nas sociedades por quotas —, pelo que é obrigatória a dotação de, pelo menos, 5% do resultado líquido / já atingiu o mínimo legal, pelo que não é obrigatória nova dotação].",
+        "motivo": "Nas Lda. o mínimo legal da reserva nunca é inferior a € 2 500",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0218&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "incide retenção na fonte à taxa de [■ VERIFICAR: taxa de IRC vigente], a entregar à Autoridade Tributária e Aduaneira nos termos do art. 71.º do CIRS.",
+        "para": "incide retenção na fonte à taxa liberatória de 28 % prevista no art. 71.º do CIRS (n.º 1, al. a)), sem prejuízo da opção do sócio pelo englobamento (n.º 9 do mesmo artigo), a entregar à Autoridade Tributária e Aduaneira [■ VERIFICAR: prazo de entrega e regime dos sócios pessoas coletivas ou não residentes].",
+        "motivo": "A retenção sobre dividendos de pessoas singulares residentes é feita à taxa liberatória de IRS, não à taxa de IRC",
+        "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cirs_rep/Pages/irs71.aspx"
+      },
+      {
+        "de": "- [ ] Art. 33 CSC respeitado — distribuição não afeta capital nem reservas indisponíveis",
+        "para": "- [ ] Arts. 32.º e 33.º CSC respeitados — prejuízos transitados cobertos e distribuição que não deixa o capital próprio abaixo do capital e das reservas indisponíveis",
+        "motivo": "O limite do capital e das reservas indisponíveis é o do art. 32.º; o art. 33.º impõe a cobertura dos prejuízos transitados",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0032&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Confirmar no pacto/estatutos se há cláusula que afaste a distribuição obrigatória de metade do lucro distribuível ou fixe outra percentagem para a reserva legal.",
+      "Sócios pessoas coletivas ou não residentes: confirmar a retenção em IRC e eventual dispensa (arts. 94.º e 97.º CIRC) ou a convenção para evitar a dupla tributação aplicável.",
+      "Confirmar o prazo de entrega ao Estado das quantias retidas."
+    ],
+    "fontes": [
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0032&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0033&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0217&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0218&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0250&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0294&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0295&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0297&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0386&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cirs_rep/Pages/irs71.aspx"
+    ]
+  },
+  {
+    "codigo": "COM-008",
+    "veredicto": "corrigida",
+    "resumo": "A ficha afirmava que o gerente sem mandato a termo não tem direito a indemnização na destituição sem justa causa e apresentava «remuneração × meses restantes» como valor devido; o art. 257.º, n.º 7, CSC dá direito à indemnização dos prejuízos sofridos, na falta de indemnização contratual, considerando que o gerente não se manteria no cargo por mais de quatro anos ou para além do prazo por que fora designado. Corrigi ainda o prazo de registo (art. 15.º, n.º 2, do CRCom e não art. 9.º), a lista de artigos da gerência (os arts. 253.º, 255.º, 258.º e 259.º não tinham o conteúdo indicado) e acrescentei a destituição judicial obrigatória nas sociedades com dois sócios (art. 257.º, n.º 5) e o regime das S.A. (art. 403.º, n.º 5).",
+    "substituicoes": [
+      {
+        "de": "- Distinguir destituição com justa causa (sem indemnização) de destituição sem justa causa (indemnização — art. 257, n.º 7 CSC para Lda.)",
+        "para": "- Distinguir destituição com justa causa (sem indemnização) de destituição sem justa causa (nas Lda., indemnização dos prejuízos sofridos, na falta de indemnização contratual, considerando-se que o gerente não se manteria no cargo por mais de quatro anos nem para além do prazo por que fora designado — art. 257.º, n.º 7, CSC; nas S.A., indemnização que não pode exceder as remunerações que o administrador presumivelmente receberia até ao final do período para que foi eleito — art. 403.º, n.º 5, CSC)",
+        "motivo": "A indemnização existe com ou sem mandato a termo; o prazo de quatro anos ou o termo do mandato só delimitam o cálculo",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0257&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Artigo 3.º CRCom — registo obrigatório; mencionar na ata",
+        "para": "- Art. 3.º, n.º 1, al. m), e art. 15.º, n.ºs 1 e 2, do Código do Registo Comercial (CRCom) — a designação e a cessação de funções dos gerentes e administradores estão sujeitas a registo obrigatório, a pedir no prazo de dois meses; mencionar na ata",
+        "motivo": "Identificação da alínea e do prazo de registo",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=506A0015&nid=506&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "(violação de deveres, conflito de interesses, incompetência grave — art. 257, n.ºs 1-6 CSC)",
+        "para": "(violação grave dos deveres do gerente ou incapacidade para o exercício normal das funções — art. 257.º, n.º 6, CSC; se a sociedade tiver apenas dois sócios, a destituição com justa causa só pode ser decidida pelo tribunal, em ação intentada pelo outro — art. 257.º, n.º 5, CSC)",
+        "motivo": "Noção legal de justa causa e regra da destituição judicial nas sociedades com dois sócios",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0257&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Destituição sem justa causa: há lugar a indemnização? (art. 257, n.º 7 CSC — se gerente tiver mandato a termo não expirado)",
+        "para": "- Destituição sem justa causa: há indemnização contratual estipulada? Na falta dela, o gerente tem direito a ser indemnizado dos prejuízos sofridos, tenha ou não mandato a termo; no cálculo, entende-se que não se manteria no cargo por mais de quatro anos nem para além do tempo que faltar do prazo por que fora designado (art. 257.º, n.º 7, CSC)",
+        "motivo": "O direito à indemnização não depende de mandato a termo",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0257&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "(conflito de interesses — impedimento de voto? art. 251 CSC)",
+        "para": "(impedimento de voto: o sócio não vota a destituição, por justa causa, da gerência que exerça — art. 251.º, n.º 1, al. f), CSC; fora desse caso, avaliar o conflito de interesses nos termos do proémio do n.º 1)",
+        "motivo": "Identificação da alínea aplicável do art. 251.º CSC",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0251&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Art. 252 CSC — gerência: designação, poderes, deveres\n- Art. 253 CSC — gerente de nomeação estatutária\n- Art. 255 CSC — renúncia do gerente\n- Art. 257 CSC — destituição de gerente: procedimento, justa causa, indemnização\n- Art. 258 CSC — deveres do gerente após cessação\n- Art. 259 CSC — responsabilidade civil dos gerentes\n- Art. 265 CSC (Lda.) / art. 391 CSC (S.A.) — designação pela assembleia\n- Art. 3.º CRCom — ato de designação/destituição sujeito a registo obrigatório\n- Art. 9.º CRCom — prazo de 2 meses para pedido de registo",
+        "para": "- Art. 252.º CSC — composição da gerência; designação dos gerentes no contrato ou por deliberação dos sócios (n.º 2) e documentos para o registo da designação (n.º 3)\n- Art. 253.º CSC — substituição de gerentes (falta de todos os gerentes ou de gerente necessário para a representação)\n- Art. 256.º CSC — duração da gerência\n- Art. 257.º CSC — destituição de gerentes: a todo o tempo (n.º 1), maioria qualificada só se o pacto a exigir e nunca para a justa causa (n.º 2), direito especial à gerência (n.º 3), destituição judicial (n.ºs 4 e 5), justa causa (n.º 6) e indemnização (n.º 7)\n- Art. 258.º CSC — renúncia de gerentes\n- Arts. 64.º e 259.º CSC — deveres fundamentais e competência da gerência; arts. 72.º e seguintes CSC — responsabilidade civil dos gerentes\n- Art. 391.º CSC (S.A.) — designação dos administradores; art. 403.º CSC — destituição de administradores e indemnização (n.º 5)\n- Art. 3.º, n.º 1, al. m), do CRCom — designação e cessação de funções dos membros dos órgãos de administração sujeitas a registo\n- Art. 15.º, n.ºs 1 e 2, do CRCom — registo obrigatório, a pedir no prazo de dois meses a contar da data em que os factos tiverem sido titulados",
+        "motivo": "Os arts. 253.º, 255.º, 258.º, 259.º e 265.º CSC e o art. 9.º do CRCom não tinham o conteúdo indicado; o prazo de registo está no art. 15.º, n.º 2, do CRCom",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=506A0015&nid=506&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Para destituição sem justa causa: calcular ou estimar indemnização (remuneração × meses restantes do mandato — art. 257, n.º 7 CSC); se gerente sem mandato a termo, não há indemnização",
+        "para": "- Para destituição sem justa causa: aplicar a indemnização contratual, se estipulada; na falta dela, estimar os prejuízos efetivamente sofridos pelo gerente, usando a remuneração dos meses em falta apenas como referência, sem ir além de quatro anos nem do termo do mandato (art. 257.º, n.º 7, CSC); a falta de mandato a termo não exclui a indemnização, apenas faz operar o limite dos quatro anos",
+        "motivo": "A lei manda indemnizar os prejuízos sofridos; a fórmula da ficha não é automática e o gerente sem termo também tem direito",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0257&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "Por ter sido designado com mandato a termo de [X] anos, com término em [data], e encontrando-se o mesmo ainda em curso, a sociedade fica obrigada ao pagamento de indemnização correspondente à remuneração mensal de €[valor] × [N meses restantes] = €[valor total], ao abrigo do art. 257.º, n.º 7 do CSC. [■ VERIFICAR: se há cláusula de limitação de indemnização no contrato de gerência]",
+        "para": "Não havendo indemnização contratual estipulada, o gerente destituído sem justa causa tem direito a ser indemnizado dos prejuízos sofridos, entendendo-se que não se manteria no cargo por mais de quatro anos nem para além do termo do prazo por que fora designado [término do mandato em [data] / gerente designado sem prazo], ao abrigo do art. 257.º, n.º 7 do CSC. [Os sócios deliberam propor ao gerente, a título de indemnização, o montante de €[valor], calculado com referência à remuneração mensal de €[valor] × [N meses], sujeito à aceitação do gerente / O montante da indemnização será fixado por acordo ou judicialmente.] [■ VERIFICAR: indemnização estipulada no pacto ou no contrato de gerência e prejuízos efetivos]",
+        "motivo": "A ata não deve fixar unilateralmente como devida uma fórmula que a lei não prevê; o direito existe também sem mandato a termo",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0257&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "A presente deliberação é sujeita a registo comercial obrigatório, nos termos do art. 3.º, n.º 1 do Código do Registo Comercial, devendo ser requerido o competente registo junto da Conservatória do Registo Comercial competente no prazo de 2 meses (art. 9.º CRCom).",
+        "para": "A designação e a cessação de funções deliberadas estão sujeitas a registo comercial obrigatório, nos termos do art. 3.º, n.º 1, al. m), e do art. 15.º, n.º 1, do Código do Registo Comercial, devendo o registo ser pedido no prazo de 2 meses a contar da data da presente deliberação (art. 15.º, n.º 2, do CRCom).",
+        "motivo": "O prazo de dois meses está no art. 15.º, n.º 2, do CRCom; o art. 9.º respeita às ações e decisões sujeitas a registo",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=506A0015&nid=506&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- [ ] Maioria exigida: simples para Lda. sem mandato estatutário; atenção se gerente nomeado no pacto",
+        "para": "- [ ] Maioria exigida: simples, salvo se o pacto exigir maioria qualificada ou outros requisitos, que nunca se aplicam à destituição com justa causa (art. 257.º, n.º 2, CSC); o direito especial à gerência só cede com o consentimento do sócio ou por via judicial (art. 257.º, n.º 3, CSC)",
+        "motivo": "Regra legal da maioria e do direito especial à gerência",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0257&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Confirmar se o gerente é sócio com direito especial à gerência (art. 257.º, n.º 3, CSC) e se a sociedade tem só dois sócios (destituição com justa causa apenas judicial — n.º 5).",
+      "A audição prévia do gerente antes da destituição com justa causa não está prevista no art. 257.º CSC; confirmar a jurisprudência atual sobre a sua relevância.",
+      "Quantificar os prejuízos efetivos do gerente destituído sem justa causa e verificar indemnização contratual no pacto ou no contrato de gerência."
+    ],
+    "fontes": [
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0251&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0252&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0253&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0257&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0391&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0403&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=506A0003&nid=506&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=506A0009&nid=506&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=506A0015&nid=506&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+    ]
+  },
+  {
+    "codigo": "COM-011",
+    "veredicto": "corrigida",
+    "resumo": "A ficha exigia nas S.A. uma realização mínima de 70 % (o art. 277.º, n.º 2, CSC só permite diferir 70 %, pelo que o mínimo imediato é 30 %) e nas Lda. a realização total na subscrição, regime anterior ao DL 33/2011. Admitia também o aumento por maioria simples, quando é alteração do contrato (três quartos nas Lda., dois terços nas S.A.), e descrevia mal os arts. 85.º, 87.º e 89.º CSC. Corrigi estes pontos e acrescentei o regime da conversão de suprimentos (arts. 87.º, n.ºs 4 e 5, e 89.º, n.º 4), a caducidade da deliberação (art. 89.º, n.º 3) e o prazo de registo (art. 15.º do CRCom).",
+    "substituicoes": [
+      {
+        "de": "  a) Entradas em dinheiro (numerário) — realização mínima de 70% (S.A.) ou total (Lda. — art. 202 CSC)",
+        "para": "  a) Entradas em dinheiro (numerário) — aplicam-se as regras da constituição (art. 89.º, n.º 1, CSC): nas S.A., só pode ser diferida a realização de 70 % do valor nominal ou de emissão, e nunca o prémio de emissão, pelo que pelo menos 30 % é realizado na subscrição (art. 277.º, n.º 2, CSC); nas Lda., o diferimento é admitido nos termos dos arts. 202.º, n.º 4, e 203.º, n.º 1, CSC (pagamento em datas certas ou dependente de factos certos e determinados, exigível em qualquer caso decorridos cinco anos sobre a deliberação de aumento) [■ VERIFICAR: limites ao diferimento no aumento de capital de Lda.]",
+        "motivo": "Nas S.A. 70 % é o máximo diferível (mínimo imediato de 30 %); nas Lda. a realização total na subscrição é regime anterior ao DL 33/2011",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0277&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "  b) Entradas em espécie — exige avaliação independente (art. 89 CSC)",
+        "para": "  b) Entradas em espécie — relatório de revisor oficial de contas sem interesses na sociedade (art. 28.º CSC, aplicável por força do art. 89.º, n.º 1, CSC)",
+        "motivo": "O relatório do ROC está no art. 28.º CSC, aplicável aos aumentos pelo art. 89.º, n.º 1",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0028&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "  d) Conversão de créditos/suprimentos — compensação de crédito com emissão de novas participações",
+        "para": "  d) Conversão de créditos/suprimentos — compensação de crédito com emissão de novas participações; na conversão de suprimentos basta, para verificação da entrada, declaração do contabilista certificado ou do ROC, quando a revisão de contas seja legalmente exigida (art. 89.º, n.º 4, CSC); nas Lda., o sócio que reúna a maioria necessária para alterar o contrato pode comunicar à gerência o aumento por conversão de suprimentos registados no último balanço aprovado, cuja eficácia depende da não oposição escrita dos restantes sócios no prazo de 10 dias (art. 87.º, n.ºs 4 e 5, CSC)",
+        "motivo": "Regime legal próprio da conversão de suprimentos",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0087&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Necessidade de autorização prévia no pacto/estatutos ou pode ser deliberada por simples maioria?",
+        "para": "- Maioria: o aumento é uma alteração do contrato — três quartos dos votos correspondentes ao capital social nas Lda. (art. 265.º, n.º 1, CSC) e dois terços dos votos emitidos nas S.A. (art. 386.º, n.ºs 3 e 4, CSC); nas S.A., o contrato pode autorizar o órgão de administração a aumentar o capital por entradas em dinheiro, até ao limite e no prazo nele fixados (art. 456.º CSC)",
+        "motivo": "O aumento de capital não pode ser deliberado por maioria simples",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0265&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Art. 85 CSC — modalidades de aumento de capital\n- Art. 87 CSC — deliberação de aumento (quórum e maioria)\n- Art. 89 CSC — entradas em espécie: avaliação por revisor oficial de contas\n- Art. 202 CSC — realização de entradas em Lda. (totalidade na subscrição)\n- Art. 266 CSC — direito de preferência em aumento de capital de Lda.\n- Art. 456 CSC — deliberação de aumento de capital em S.A.\n- Art. 458 CSC — direito de preferência dos accionistas na subscrição de novas ações\n- Art. 460 CSC — supressão ou limitação do direito de preferência (por razões fundadas)\n- CRCom — registo do aumento (prazo e documentação)",
+        "para": "- Art. 85.º CSC — deliberação de alteração do contrato (o aumento de capital é uma alteração do contrato)\n- Art. 87.º CSC — requisitos da deliberação de aumento (modalidade, montante, valor nominal das novas participações, natureza das entradas, ágio, prazos de realização e pessoas que participam); não se delibera novo aumento por novas entradas enquanto não estiver registado o anterior e vencidas todas as prestações de capital (n.º 3)\n- Art. 88.º CSC — eficácia interna do aumento: na data da deliberação, se a ata indicar as entradas realizadas e que não é exigida a realização de outras; caso contrário, na data da declaração escrita de qualquer membro da administração (n.º 2)\n- Art. 89.º CSC — entradas: aplicam-se as regras da constituição (n.º 1), incluindo o relatório do ROC para as entradas em espécie (art. 28.º CSC); a deliberação caduca se a declaração do art. 88.º, n.º 2, não puder ser emitida no prazo de um ano por falta de realização das entradas (n.º 3); conversão de suprimentos (n.º 4)\n- Art. 91.º CSC — aumento por incorporação de reservas\n- Arts. 202.º e 203.º CSC (Lda.) e arts. 277.º e 285.º CSC (S.A.) — realização e diferimento das entradas em dinheiro\n- Art. 265.º CSC (Lda.) e art. 386.º CSC (S.A.) — maiorias\n- Art. 266.º CSC — direito de preferência dos sócios em aumento de capital em dinheiro de Lda., a exercer até à assembleia que aprove o aumento, informados das condições com, pelo menos, 10 dias de antecedência (n.º 5)\n- Art. 456.º CSC — aumento do capital deliberado pelo órgão de administração em S.A., se o contrato o autorizar\n- Art. 458.º CSC — direito de preferência dos acionistas na subscrição de novas ações em aumentos por entradas em dinheiro\n- Art. 460.º CSC — limitação ou supressão do direito de preferência só quando o interesse social o justifique, em deliberação separada, tomada pela maioria exigida para o aumento e precedida de relatório do órgão de administração (n.ºs 2, 4 e 5); aplicável às Lda. por remissão do art. 266.º, n.º 4, CSC\n- Art. 3.º, n.º 1, al. r), e art. 15.º, n.ºs 1 e 2, do CRCom — registo obrigatório do aumento, no prazo de dois meses",
+        "motivo": "Os arts. 85.º, 87.º e 89.º CSC não tinham o conteúdo indicado e o art. 202.º já não exige a realização total na subscrição",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0089&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Documentação necessária para registo: deliberação certificada, boletim de subscrição, declaração de realização assinada por todos os gerentes/administradores",
+        "para": "- Documentação necessária para registo: deliberação certificada, boletim de subscrição e, se a ata não indicar as entradas realizadas, declaração escrita, sob sua responsabilidade, de qualquer membro da administração sobre as entradas já realizadas (art. 88.º, n.º 2, CSC)",
+        "motivo": "A lei basta-se com a declaração de qualquer membro da administração",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0088&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- [ ] Realização das entradas: totalidade para Lda. (art. 202 CSC) / mínimo 70% para S.A.",
+        "para": "- [ ] Realização das entradas em dinheiro: Lda. — entrega ou diferimento nos termos dos arts. 202.º e 203.º CSC; S.A. — pelo menos 30 % na subscrição (diferimento máximo de 70 % — art. 277.º, n.º 2, CSC)",
+        "motivo": "Mínimo de realização imediata invertido e regime das Lda. desatualizado",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0277&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- [ ] Entradas em espécie: avaliação por ROC mencionada (art. 89 CSC)",
+        "para": "- [ ] Entradas em espécie: relatório do ROC mencionado (arts. 28.º e 89.º, n.º 1, CSC)",
+        "motivo": "O relatório do ROC está no art. 28.º CSC",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0028&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- [ ] Registo na Conservatória mencionado (prazo após realização)",
+        "para": "- [ ] Registo na Conservatória mencionado (registo obrigatório — art. 15.º, n.ºs 1 e 2, do CRCom) [■ VERIFICAR: termo inicial do prazo de dois meses quando a eficácia depende da declaração do art. 88.º, n.º 2, CSC]",
+        "motivo": "Indicação da norma do registo obrigatório e do prazo",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=506A0015&nid=506&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Confirmar, nas Lda., se o diferimento de entradas em dinheiro no aumento de capital está sujeito ao limite do primeiro exercício do art. 202.º, n.º 4, CSC ou apenas ao art. 203.º, n.º 1.",
+      "Na conversão de suprimentos, confirmar que os créditos constam do último balanço aprovado e que nenhum sócio se opôs no prazo de 10 dias (art. 87.º, n.º 5, CSC).",
+      "Confirmar o termo inicial do prazo de dois meses para o registo do aumento."
+    ],
+    "fontes": [
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0028&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0085&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0087&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0088&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0089&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0202&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0203&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0265&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0266&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0277&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0285&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0386&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0456&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0458&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0460&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=506A0003&nid=506&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=506A0015&nid=506&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+    ]
+  },
+  {
+    "codigo": "COM-013",
+    "veredicto": "corrigida",
+    "descricao": "Elabora o contrato de suprimento (empréstimo do sócio à sociedade, ou diferimento do vencimento de créditos do sócio, com caráter de permanência) ou o documento de realização de prestações suplementares (contribuições em dinheiro previstas no pacto e exigidas por deliberação dos sócios, que não vencem juros e só são restituíveis nos termos do art. 213.º do CSC), clarificando a subordinação dos créditos por suprimentos em caso de insolvência e as condições de reembolso, em conformidade com os artigos 210.º a 213.º e 243.º a 245.º do CSC e com o art. 48.º, al. g), do CIRE.",
+    "descricao_en": "Drafts the shareholder loan agreement (suprimento — a loan from a member to the company, or a deferral of the member's claims against it, of a permanent nature) or the document recording supplementary contributions (prestações suplementares — cash contributions provided for in the articles and called by a members' resolution, which bear no interest and may only be returned under Article 213 CSC), clarifying the subordination of shareholder loan claims in insolvency and the repayment conditions, in accordance with Articles 210 to 213 and 243 to 245 CSC and Article 48(g) of the Insolvency Code (CIRE).",
+    "resumo": "A ficha confundia os dois regimes: atribuía as prestações suplementares ao art. 245.º CSC (que regula os suprimentos) e as acessórias a um art. 245.º-A inexistente, tratava as prestações suplementares como contrato «não reembolsável» que pode vencer juros (são previstas no pacto, exigidas por deliberação, nunca vencem juros e são restituíveis nos termos do art. 213.º), aplicava aos suprimentos o limite do capital mais reserva legal, que é das prestações suplementares, e apresentava o prazo de um ano do art. 243.º, n.º 2, como prazo mínimo legal, quando é índice do caráter de permanência. A subordinação estava citada na al. f) do art. 48.º do CIRE, quando os suprimentos estão na al. g), e inventava uma subordinação agravada. Corrigi o regime, as cláusulas de reembolso e de subordinação, o tratamento fiscal dos juros (art. 23.º-A, n.º 1, al. m), CIRC; a subcapitalização já não existe) e a descrição do índice.",
+    "substituicoes": [
+      {
+        "de": "- Aplicar arts. 243-245-A CSC (suprimentos e prestações suplementares em Lda.)\n- Alertar sempre para subordinação dos suprimentos em insolvência (art. 48, al. f) CIRE)",
+        "para": "- Aplicar os arts. 243.º a 245.º CSC (suprimentos) e os arts. 210.º a 213.º CSC (prestações suplementares em Lda.); as prestações acessórias são outra figura (art. 209.º CSC)\n- Alertar sempre para a subordinação dos créditos por suprimentos em insolvência (art. 48.º, al. g), do CIRE) e para a resolução incondicional, em benefício da massa, do reembolso de suprimentos feito no ano anterior ao início do processo de insolvência (art. 121.º, n.º 1, al. i), do CIRE)",
+        "motivo": "Não existe art. 245.º-A CSC; as prestações suplementares estão nos arts. 210.º-213.º; os suprimentos são subordinados pela al. g) do art. 48.º do CIRE",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0048&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "  a) Suprimento (art. 243 CSC) — empréstimo do sócio à sociedade; reembolsável; crédito subordinado em insolvência\n  b) Prestação suplementar (art. 210 CSC) — entrada sem correspondência em capital; não reembolsável sem deliberação; não vence juros salvo estipulação\n- Valor e prazo (suprimentos têm prazo de reembolso mínimo de 1 ano após a entrega — art. 243, n.º 2 CSC)\n- Vencimento de juros: taxa acordada (máxima razoável para evitar requalificação fiscal)\n- Sociedade tem capitais próprios negativos? (suprimentos em situação de perda grave são ainda mais subordinados)\n- Sócio que concede o suprimento: é também gerente? (conflito de interesses — art. 251 CSC)",
+        "para": "  a) Suprimento (art. 243.º CSC) — empréstimo do sócio à sociedade, ou diferimento do vencimento de créditos do sócio, com caráter de permanência; reembolsável; crédito subordinado em insolvência\n  b) Prestação suplementar (arts. 210.º a 213.º CSC) — contribuição em dinheiro sem correspondência em capital, só possível se o pacto a permitir e fixar o montante global (art. 210.º, n.ºs 1 a 4), tornada exigível por deliberação dos sócios (art. 211.º); nunca vence juros (art. 210.º, n.º 5); restituível por deliberação dos sócios, desde que a situação líquida não fique inferior à soma do capital e da reserva legal e o sócio tenha liberado a quota, e nunca depois de declarada a insolvência (art. 213.º)\n- Valor e prazo (a estipulação de prazo de reembolso superior a um ano, ou a não exigência do reembolso durante um ano, é índice do caráter de permanência que qualifica o crédito como suprimento — art. 243.º, n.ºs 2 e 3, CSC; não é um prazo mínimo legal)\n- Vencimento de juros (só nos suprimentos): taxa acordada; em IRC, os juros não são dedutíveis na parte que exceda a taxa definida por portaria, salvo se se aplicar o regime dos preços de transferência (art. 23.º-A, n.º 1, al. m), CIRC)\n- Sociedade tem capitais próprios negativos ou está em risco de insolvência? (a subordinação é a mesma — art. 48.º, al. g), CIRE —, mas o reembolso feito no ano anterior ao início do processo de insolvência é resolúvel em benefício da massa — art. 121.º, n.º 1, al. i), CIRE; e são nulas as garantias reais prestadas pela sociedade para o reembolso — art. 245.º, n.º 6, CSC)\n- Sócio que concede o suprimento: é também gerente? (se for ele a representar a sociedade no contrato, o negócio consigo mesmo é anulável, salvo consentimento específico da sociedade — art. 261.º CC; havendo deliberação, avaliar o impedimento de voto — art. 251.º CSC)",
+        "motivo": "Prestações suplementares nunca vencem juros e são restituíveis nos termos do art. 213.º; o prazo de um ano é índice de permanência, não prazo mínimo; não existe subordinação agravada no CIRE",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0210&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Art. 243 CSC — suprimentos: noção, prazo mínimo de reembolso, remuneração\n- Art. 244 CSC — condições de reembolso: proibição se capital próprio insuficiente\n- Art. 245 CSC — prestações suplementares: regime, reembolso dependente de deliberação\n- Art. 245-A CSC — prestações acessórias\n- Art. 48, al. f) CIRE — subordinação dos créditos de suprimentos e prestações suplementares em insolvência\n- CIRC — tratamento fiscal dos juros de suprimentos (dedutibilidade sujeita a regras de preço de transferência e subcapitalização — [■ VERIFICAR: regras vigentes]",
+        "para": "- Art. 243.º CSC — contrato de suprimento: noção e índices do caráter de permanência (prazo de reembolso superior a um ano ou não exigência do reembolso durante um ano); a validade não depende de forma especial (n.º 6)\n- Art. 244.º CSC — obrigação e permissão de suprimentos: a celebração não depende de prévia deliberação dos sócios, salvo disposição do pacto (n.º 3)\n- Art. 245.º CSC — regime do suprimento: falta de prazo de reembolso (n.º 1, com remissão para o art. 777.º, n.º 2, CC); decretada a falência (insolvência) ou dissolvida a sociedade, reembolso só depois de satisfeitas as dívidas a terceiros e sem compensação (n.º 3); nulidade das garantias reais prestadas pela sociedade (n.º 6)\n- Arts. 210.º a 213.º CSC — prestações suplementares: previsão no pacto, exigibilidade por deliberação, ausência de juros e restituição (art. 213.º)\n- Art. 209.º CSC — prestações acessórias (figura distinta)\n- Art. 48.º, al. g), CIRE — subordinação dos créditos por suprimentos; art. 121.º, n.º 1, al. i), CIRE — resolução incondicional do reembolso de suprimentos feito no ano anterior ao início do processo de insolvência; as prestações suplementares não são créditos sobre a insolvência e não podem ser restituídas depois de declarada a insolvência (art. 213.º, n.º 3, CSC)\n- CIRC — juros de suprimentos: não dedutíveis na parte que exceda a taxa definida por portaria, salvo aplicação do regime de preços de transferência (art. 23.º-A, n.º 1, al. m), e art. 63.º CIRC), e sujeitos à limitação dos gastos de financiamento líquidos (art. 67.º CIRC) [■ VERIFICAR: portaria e taxa em vigor]",
+        "motivo": "Os arts. 244.º e 245.º CSC regulam os suprimentos, não as prestações suplementares; o art. 245.º-A não existe; a subcapitalização foi substituída pela limitação dos gastos de financiamento",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0245&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Para suprimentos: definir prazo de reembolso (mínimo 1 ano), taxa de juro (se houver), condições de reembolso antecipado\n- Cláusula de subordinação: incluir declaração expressa de que o sócio reconhece a subordinação em caso de insolvência (art. 48, al. f) CIRE)\n- Para prestações suplementares: mencionar que o reembolso depende de deliberação dos sócios e só é permitido se os capitais próprios o permitirem (art. 245, n.º 2 CSC)",
+        "para": "- Para suprimentos: definir prazo de reembolso (um prazo superior a um ano reforça a qualificação como suprimento — art. 243.º, n.º 2, CSC), taxa de juro (se houver), condições de reembolso antecipado\n- Cláusula de subordinação: incluir declaração expressa de que o sócio reconhece a subordinação do crédito por suprimentos em caso de insolvência (art. 48.º, al. g), CIRE)\n- Para prestações suplementares: confirmar a cláusula do pacto e a deliberação que as tornou exigíveis (arts. 210.º e 211.º CSC); mencionar que a restituição depende de deliberação dos sócios, só é permitida se a situação líquida não ficar inferior à soma do capital e da reserva legal e o sócio tiver liberado a sua quota, e nunca depois de declarada a insolvência (art. 213.º CSC)",
+        "motivo": "Não há prazo mínimo legal de reembolso; alínea do CIRE errada; a restituição das prestações suplementares rege-se pelo art. 213.º CSC",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0213&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "prestação suplementar não reembolsável nos termos do art. 245.º do CSC]",
+        "para": "prestação suplementar exigida pela deliberação dos sócios de [data], tomada ao abrigo da cláusula [X] do pacto social, nos termos dos arts. 210.º e 211.º do CSC, sem juros e restituível apenas nos termos do art. 213.º do CSC]",
+        "motivo": "As prestações suplementares dependem do pacto e de deliberação e são restituíveis nos termos do art. 213.º CSC",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0211&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "O reembolso do Montante não pode ser exigido antes de decorrido 1 (um) ano sobre a data da sua entrega efetiva, nos termos do art. 243.º, n.º 2 do CSC.\n\nApós decorrido esse prazo, o Sócio pode exigir o reembolso mediante pré-aviso escrito de [30/60] dias, salvo se [as condições do art. 244.º CSC não o permitirem — i.e., se os capitais próprios da Sociedade forem insuficientes para cobrir o capital social e a reserva legal].\n\n**CLÁUSULA 4.ª — CONDIÇÕES DE REEMBOLSO [Para suprimentos]**\nO reembolso só pode ser efetuado se, após o mesmo, os capitais próprios da Sociedade não ficarem inferiores ao somatório do capital social e da reserva legal obrigatória, nos termos do art. 244.º do CSC.\n\n**CLÁUSULA 4.ª — CONDIÇÕES DE REEMBOLSO [Para prestações suplementares]**\nO reembolso das prestações suplementares só pode ser efetuado mediante deliberação dos sócios, desde que os capitais próprios da Sociedade não fiquem, após o reembolso, inferiores ao capital social acrescido da reserva legal obrigatória, nos termos do art. 245.º, n.º 2 do CSC.\n\n**CLÁUSULA 5.ª — SUBORDINAÇÃO EM INSOLVÊNCIA**\nO Sócio declara expressamente reconhecer que, em caso de insolvência da Sociedade, o seu crédito de suprimento / prestação suplementar é crédito subordinado, graduado após todos os créditos comuns e privilegiados, nos termos do art. 48.º, alínea f) do CIRE.",
+        "para": "O reembolso do Montante não pode ser exigido antes de decorrido o prazo de [mais de 1 (um) ano / X anos] sobre a data da sua entrega efetiva, prazo que as Partes estipulam por o crédito ter caráter de permanência (art. 243.º, n.º 2 do CSC).\n\nApós decorrido esse prazo, o Sócio pode exigir o reembolso mediante pré-aviso escrito de [30/60] dias, salvo se, entretanto, a Sociedade tiver sido declarada insolvente ou dissolvida, caso em que o reembolso só pode ter lugar depois de inteiramente satisfeitas as dívidas para com terceiros (art. 245.º, n.º 3, al. a), do CSC).\n\n**CLÁUSULA 4.ª — CONDIÇÕES DE REEMBOLSO [Para suprimentos]**\n[Facultativo:] As Partes acordam que o reembolso só será efetuado se, após o mesmo, os capitais próprios da Sociedade não ficarem inferiores ao somatório do capital social e da reserva legal. [Nota: esta limitação é convencional — a lei não a impõe ao reembolso de suprimentos; o reembolso efetuado no ano anterior ao início de um processo de insolvência é resolúvel em benefício da massa — art. 121.º, n.º 1, al. i), do CIRE.]\n\n**CLÁUSULA 4.ª — CONDIÇÕES DE RESTITUIÇÃO [Para prestações suplementares]**\nA restituição das prestações suplementares depende de deliberação dos sócios e só pode ser efetuada desde que a situação líquida da Sociedade não fique inferior à soma do capital e da reserva legal e o Sócio já tenha liberado a sua quota; não pode ter lugar depois de declarada a insolvência da Sociedade e deve respeitar a igualdade entre os sócios que as tenham efetuado, nos termos do art. 213.º do CSC.\n\n**CLÁUSULA 5.ª — SUBORDINAÇÃO EM INSOLVÊNCIA**\n[Para suprimentos:] O Sócio declara expressamente reconhecer que, em caso de insolvência da Sociedade, o seu crédito de suprimento é crédito subordinado, graduado depois dos restantes créditos sobre a insolvência, nos termos do art. 48.º, alínea g) do CIRE.\n[Para prestações suplementares:] As prestações efetuadas não constituem crédito sobre a insolvência e não podem ser restituídas depois de declarada a insolvência da Sociedade (art. 213.º, n.º 3, do CSC).",
+        "motivo": "O limite do capital mais reserva legal é das prestações suplementares (art. 213.º), não dos suprimentos (o art. 244.º não o prevê); suprimentos subordinados pela al. g) do art. 48.º do CIRE; as prestações suplementares não são créditos sobre a insolvência",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0213&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "nos termos dos arts. 87.º e 202.º do CSC, a exercer no prazo de [X] anos.",
+        "para": "nos termos dos arts. 87.º e 202.º do CSC, a exercer no prazo de [X] anos; para verificação da entrada basta declaração do contabilista certificado ou do revisor oficial de contas, sempre que a revisão de contas seja legalmente exigida (art. 89.º, n.º 4, do CSC).",
+        "motivo": "Regime próprio de verificação da entrada na conversão de suprimentos",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0089&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- [ ] Prazo mínimo de 1 ano para suprimento (art. 243, n.º 2 CSC)\n- [ ] Condições de reembolso (art. 244/245 CSC) — capitais próprios suficientes\n- [ ] Cláusula de subordinação em insolvência (art. 48, al. f) CIRE) incluída",
+        "para": "- [ ] Prazo de reembolso e caráter de permanência do suprimento ponderados (art. 243.º, n.ºs 2 e 3, CSC)\n- [ ] Condições de reembolso ou restituição: suprimentos (art. 245.º CSC; art. 121.º, n.º 1, al. i), CIRE) e prestações suplementares (art. 213.º CSC — situação líquida não inferior ao capital mais a reserva legal)\n- [ ] Cláusula de subordinação em insolvência (art. 48.º, al. g), CIRE) incluída",
+        "motivo": "Prazo de um ano não é mínimo legal; limites de reembolso de cada figura; alínea do CIRE",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0121&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Juros: [sim — taxa X% / não]\n- Prazo de reembolso: [mínimo 1 ano / especificar]",
+        "para": "- Juros: [sim — taxa X% / não] (só nos suprimentos; as prestações suplementares não vencem juros)\n- Prazo de reembolso: [superior a 1 ano / especificar]",
+        "motivo": "As prestações suplementares não vencem juros (art. 210.º, n.º 5, CSC)",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0210&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Para prestações suplementares, confirmar a cláusula do pacto (montante global, sócios obrigados, critério de repartição) e a deliberação que as tornou exigíveis; sem ela o documento não serve para as constituir.",
+      "Confirmar a portaria que fixa a taxa de referência do art. 23.º-A, n.º 1, al. m), CIRC e a retenção na fonte sobre os juros pagos ao sócio.",
+      "Se o sócio for gerente e representar a sociedade no contrato, obter o consentimento específico da sociedade (art. 261.º CC).",
+      "Os n.ºs 2, 4 e 5 do art. 245.º CSC ainda se referem à falência e à concordata; ler em conjunto com o CIRE."
+    ],
+    "fontes": [
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0087&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0089&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0209&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0210&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0211&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0213&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0243&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0244&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0245&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0048&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0121&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0261&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/CIRC_2R/Pages/irc23a.aspx",
+      "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/CIRC_2R/Pages/irc67.aspx"
+    ]
+  },
+  {
+    "codigo": "COM-019",
+    "veredicto": "corrigida",
+    "descricao": "Elabora o contrato de consórcio entre duas ou mais empresas para execução conjunta de um empreendimento ou atividade, sem criação de pessoa jurídica, definindo o chefe do consórcio, a repartição de responsabilidades e receitas, o conselho de orientação e fiscalização e as relações com terceiros, em conformidade com o Decreto-Lei n.º 231/81, de 28 de julho (regime jurídico dos contratos de consórcio e de associação em participação).",
+    "descricao_en": "Drafts the consortium agreement between two or more undertakings for the joint performance of a project or activity without creating a legal entity, defining the consortium leader (chefe do consórcio), the allocation of responsibilities and revenue, the steering and supervisory board and relations with third parties, in accordance with Decree-Law No. 231/81 of 28 July (legal regime for consortium and profit-sharing association agreements).",
+    "resumo": "A ficha atribuía aos artigos do DL 231/81 conteúdos que não têm (modalidades nos arts. 2.º e 3.º, forma no art. 4.º, representação no art. 6.º, solidariedade no art. 16.º, dissolução no art. 17.º) e, sobretudo, afirmava a responsabilidade solidária dos membros do consórcio externo «por defeito», quando o art. 19.º, n.º 1, diz que não se presume solidariedade perante terceiros. Propunha ainda a denominação «…, ACE», própria de outra figura, e ignorava a forma escrita do art. 3.º, a proibição de fundos comuns (art. 20.º), o chefe do consórcio e os poderes por procuração (arts. 12.º a 14.º), o conselho de orientação e fiscalização (art. 7.º) e a resolução por justa causa (art. 10.º). Corrigi a fundamentação, as cláusulas e o índice (o diploma não regula «subcontratos em empreendimentos comuns»).",
+    "substituicoes": [
+      {
+        "de": "- O consórcio não tem personalidade jurídica — esclarecer responsabilidade dos membros",
+        "para": "- O consórcio não tem personalidade jurídica — esclarecer responsabilidade dos membros: nas relações com terceiros não se presume solidariedade (art. 19.º, n.º 1, do DL 231/81); só existe se estipulada com o terceiro ou imposta por lei (por exemplo, a manutenção da proposta pelos membros de um agrupamento concorrente — art. 54.º, n.º 3, CCP)",
+        "motivo": "O DL 231/81 afasta a presunção de solidariedade perante terceiros",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=705&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- Consórcio externo (art. 2 DL 231/81 — atuação conjunta perante terceiros) vs. interno (art. 3 — partilha de resultados sem exposição conjunta perante terceiros)?\n- Projeto: concurso público (CCP — [■ VERIFICAR]), obra, prestação de serviços?",
+        "para": "- Consórcio externo (art. 5.º, n.º 2, do DL 231/81 — atividades ou bens fornecidos diretamente a terceiros por cada membro, com expressa invocação dessa qualidade) vs. interno (art. 5.º, n.º 1 — atividades ou bens fornecidos a um dos membros, que é o único a relacionar-se com terceiros, ou fornecidos a terceiros sem invocação da qualidade de membro)? O objeto tem de ser um dos previstos no art. 2.º do DL 231/81\n- Projeto: procedimento de contratação pública (agrupamento concorrente — art. 54.º CCP; em caso de adjudicação, os membros associam-se, antes da celebração do contrato, na modalidade jurídica prevista no programa do procedimento — n.º 4), obra, prestação de serviços?",
+        "motivo": "As modalidades estão no art. 5.º (os arts. 2.º e 3.º tratam do objeto e da forma); o regime dos agrupamentos concorrentes está no art. 54.º CCP",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=705&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- Líder do consórcio (\"leader\"): empresa com maior quota ou capacidade técnica dominante\n- Responsabilidade solidária ou conjunta? (art. 16 DL 231/81 — solidária em consórcio externo por defeito)",
+        "para": "- Chefe do consórcio (designação obrigatória no consórcio externo — art. 12.º do DL 231/81): empresa com maior quota ou capacidade técnica dominante; os poderes de representação são-lhe conferidos por procuração (art. 14.º)\n- Responsabilidade solidária ou conjunta? (no consórcio externo não se presume solidariedade perante terceiros — art. 19.º, n.º 1, do DL 231/81; tem de ser estipulada com o terceiro; a obrigação de indemnizar por responsabilidade civil é só do membro a quem for imputável — art. 19.º, n.º 3)",
+        "motivo": "A lei não presume a solidariedade (art. 19.º, n.º 1); o art. 16.º regula a repartição dos valores recebidos",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=705&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "  - Art. 2.º — consórcio externo: atuação conjunta e responsabilidade\n  - Art. 3.º — consórcio interno: partilha de resultados sem exposição perante terceiros\n  - Art. 4.º — forma: escritura pública ou documento particular com assinaturas reconhecidas [■ VERIFICAR: requisito atual]\n  - Art. 6.º — representação do consórcio (líder)\n  - Art. 16.º — responsabilidade solidária dos membros no consórcio externo\n  - Art. 17.º — dissolução e liquidação",
+        "para": "  - Art. 1.º — noção; art. 2.º — objetos admitidos\n  - Art. 3.º — forma: basta a forma escrita, salvo se houver transmissão de bens imóveis entre os membros (escritura pública)\n  - Art. 4.º — conteúdo livre, sem prejuízo das normas imperativas; contribuições em coisa corpórea ou no seu uso, e em dinheiro só se todas o forem (n.º 2)\n  - Art. 5.º — modalidades: consórcio interno (n.º 1) e externo (n.º 2)\n  - Art. 7.º — conselho de orientação e fiscalização do consórcio externo (no silêncio do contrato, delibera por unanimidade)\n  - Arts. 8.º a 11.º — deveres dos membros, exoneração, resolução quanto a algum membro por justa causa e extinção (sem outra causa, decorridos dez anos — art. 11.º, n.º 2)\n  - Arts. 12.º a 14.º — chefe do consórcio: designação obrigatória no consórcio externo, funções internas e poderes de representação por procuração (procuração especial para celebrar, modificar ou resolver contratos com terceiros e para representar em juízo — art. 14.º, n.º 2)\n  - Art. 15.º — denominação do consórcio externo («Consórcio de …» ou «… em consórcio»)\n  - Arts. 16.º e 17.º — repartição dos valores recebidos e do produto da atividade dos consórcios externos\n  - Art. 19.º — relações com terceiros: não se presume solidariedade ativa ou passiva\n  - Art. 20.º — proibição de fundos comuns",
+        "motivo": "Os artigos citados não tinham o conteúdo indicado; a forma exigida é a escrita (art. 3.º), não documento com assinaturas reconhecidas",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=705&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- Código dos Contratos Públicos (CCP) — requisitos de consórcios em concursos públicos [■ VERIFICAR: artigos aplicáveis]",
+        "para": "- Código dos Contratos Públicos (CCP) — agrupamentos concorrentes (art. 54.º CCP) [■ VERIFICAR: modalidade jurídica de associação exigida no programa do procedimento]",
+        "motivo": "Norma do CCP aplicável aos agrupamentos",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2063A0054&nid=2063&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Conta bancária conjunta ou separada?\n- Comité de Gestão do Consórcio: composição, competências, unanimidade ou maioria?",
+        "para": "- Conta bancária: não é permitida a constituição de fundos comuns (art. 20.º, n.º 1, do DL 231/81); no consórcio externo, as importâncias entregues ao chefe do consórcio ou por ele retidas consideram-se fornecidas nos termos do art. 1167.º, al. a), do Código Civil (art. 20.º, n.º 2)\n- Comité de Gestão (conselho de orientação e fiscalização — art. 7.º do DL 231/81): composição (todos os membros), competências, unanimidade (regra supletiva) ou maioria prevista no contrato; no silêncio do contrato, não pode deliberar a modificação ou resolução de contratos com terceiros nem transações",
+        "motivo": "Proibição legal de fundos comuns e regime do conselho de orientação e fiscalização",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=705&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "nos termos do art. [2.º / 3.º] do DL 231/81, com o objetivo exclusivo",
+        "para": "nos termos do art. 5.º, n.º [2 / 1], do DL 231/81, tendo por objeto [a realização de atos preparatórios e a execução do Projeto — art. 2.º, als. a) e b), do DL 231/81], com o objetivo exclusivo",
+        "motivo": "As modalidades externa e interna estão no art. 5.º, n.ºs 2 e 1",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=705&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "sendo responsável pelas obrigações que assumir no âmbito da sua quota-parte, [/ respondendo todos solidariamente perante o Dono da Obra/Cliente — art. 16.º DL 231/81 — se consórcio externo].",
+        "para": "sendo responsável pelas obrigações que assumir no âmbito da sua quota-parte, sem solidariedade presumida perante terceiros (art. 19.º, n.º 1, do DL 231/81) [/ respondendo todos solidariamente perante o Dono da Obra/Cliente, por o terem estipulado no contrato com este] [■ VERIFICAR: solidariedade estipulada com o Dono da Obra/Cliente ou exigida pelo programa do procedimento].",
+        "motivo": "A solidariedade não resulta da lei; tem de ser estipulada",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=705&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "O consórcio adoptará a designação \"[Nome A + Nome B], ACE\" [ou outra denominação acordada — VERIFICAR: se ACE é adequado ou apenas consórcio informal].",
+        "para": "[Consórcio externo:] Os Membros fazem-se designar coletivamente como \"Consórcio de [Nome A] e [Nome B]\" [ou \"[Nome A] e [Nome B] em consórcio\"], nos termos do art. 15.º do DL 231/81, sendo responsável perante terceiros apenas o Membro que tenha assinado o documento onde a denominação for usada ou aquele por quem o chefe do consórcio tenha assinado. Não é usada a sigla «ACE», que identifica o agrupamento complementar de empresas, figura distinta do consórcio [■ VERIFICAR: se as partes pretendem antes constituir um ACE, sujeito a regime e registo próprios].",
+        "motivo": "A denominação do consórcio externo segue o art. 15.º do DL 231/81; «ACE» designa outra figura",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=705&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "O Membro A é designado líder do consórcio (\"Líder\"), com poderes para: (a) representar os Membros perante o Dono da Obra/Cliente; (b) submeter propostas e assinar contratos em nome do consórcio; (c) coordenar a execução do Projeto.",
+        "para": "O Membro A é designado chefe do consórcio (\"Líder\"), nos termos do art. 12.º do DL 231/81, competindo-lhe: (a) organizar a cooperação entre os Membros e promover as medidas necessárias à execução do contrato (art. 13.º); (b) representar os Membros perante o Dono da Obra/Cliente, com os poderes que lhe forem conferidos por procuração (art. 14.º, n.º 1); (c) apresentar propostas e celebrar, modificar ou resolver contratos em nome e por conta de todos os Membros, bem como representá-los em juízo, apenas mediante procuração especial (art. 14.º, n.º 2).",
+        "motivo": "O consórcio não tem personalidade jurídica; os poderes do chefe do consórcio resultam de procuração, especial para celebrar contratos e representar em juízo",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=705&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "O consórcio é gerido por um Comité de Gestão composto por um representante de cada Membro.",
+        "para": "O consórcio dispõe de um Comité de Gestão, que funciona como conselho de orientação e fiscalização (art. 7.º do DL 231/81), composto por um representante de cada Membro.",
+        "motivo": "O órgão previsto na lei é o conselho de orientação e fiscalização; a organização da execução cabe ao chefe do consórcio",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=705&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "salvo acordo diferente do Comité de Gestão.",
+        "para": "salvo acordo diferente do Comité de Gestão. Não é constituído qualquer fundo comum (art. 20.º, n.º 1, do DL 231/81).",
+        "motivo": "Proibição legal de fundos comuns",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=705&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "O consórcio dissolve-se: (a) por acordo unânime dos Membros; (b) pela não adjudicação do Projeto; (c) pela conclusão do Projeto; (d) por incumprimento grave de um Membro — os restantes podem excluí-lo com aprovação unânime, nos termos do art. 17.º DL 231/81.",
+        "para": "O consórcio extingue-se (art. 11.º do DL 231/81): (a) por acordo unânime dos Membros; (b) pela não adjudicação do Projeto; (c) pela conclusão do Projeto ou por este se tornar impossível; (d) pelo decurso do prazo fixado, sem prorrogação; (e) por se extinguir a pluralidade dos Membros. Ocorrendo justa causa quanto a um Membro — designadamente falta grave aos seus deveres ou impossibilidade de cumprir a sua obrigação —, o contrato pode ser resolvido quanto a ele por declarações escritas de todos os outros, sem prejuízo da indemnização devida (art. 10.º do DL 231/81).",
+        "motivo": "A extinção está no art. 11.º e a resolução quanto a um membro no art. 10.º; o art. 17.º regula a repartição do produto",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=705&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- [ ] Responsabilidade solidária (externo) ou separada (interno) definida",
+        "para": "- [ ] Responsabilidade perante terceiros definida (sem solidariedade presumida — art. 19.º do DL 231/81; solidariedade só se estipulada com o terceiro)",
+        "motivo": "A solidariedade não se presume no consórcio externo",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=705&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Em procedimento de contratação pública, confirmar no programa do procedimento a modalidade jurídica de associação exigida após a adjudicação (art. 54.º, n.º 4, CCP) e se é exigida responsabilidade solidária pela execução.",
+      "Se houver transmissão de imóveis entre os membros, o contrato exige escritura pública (art. 3.º, n.º 1, do DL 231/81).",
+      "Confirmar o tratamento fiscal (IRC e IVA) da faturação direta ou através do chefe do consórcio."
+    ],
+    "fontes": [
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=705&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2063A0054&nid=2063&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+    ]
+  },
+  {
+    "codigo": "COM-030",
+    "veredicto": "corrigida",
+    "resumo": "A ficha atribuía a ação social ut singuli ao art. 76.º CSC e admitia-a a «qualquer sócio» das Lda.; o art. 77.º exige, em qualquer tipo de sociedade, sócios com pelo menos 5 % do capital (2 % nas sociedades cotadas), e a indemnização reverte para a sociedade. Trocava também os arts. 74.º e 77.º, omitia a deliberação e o prazo de seis meses da ação da sociedade (art. 75.º) e invocava o art. 72.º, n.º 4, para a exclusão por deliberação dos sócios, que está no n.º 5 e abrange deliberações anuláveis, não «salvo se contrária à lei». Corrigi ainda o padrão do gestor criterioso e ordenado (art. 64.º, n.º 1, al. a)), a responsabilidade para com os credores (art. 78.º, que exige inobservância culposa e insuficiência patrimonial dela resultante) e o início do prazo de prescrição (art. 174.º).",
+    "substituicoes": [
+      {
+        "de": "- Distinguir sempre: responsabilidade para com a sociedade (art. 72 CSC), para com sócios e terceiros (art. 79 CSC) e responsabilidade solidária dos administradores (art. 73 CSC)\n- Aplicar o standard do \"gestor criterioso e ordenado\" (art. 72/1 CSC) e a business judgment rule",
+        "para": "- Distinguir sempre: responsabilidade para com a sociedade (art. 72.º CSC), para com os credores sociais (art. 78.º CSC), para com sócios e terceiros (art. 79.º CSC) e solidariedade entre os responsáveis (art. 73.º CSC)\n- Aplicar o padrão do \"gestor criterioso e ordenado\" (art. 64.º, n.º 1, al. a), CSC) e a business judgment rule (art. 72.º, n.º 2, CSC)",
+        "motivo": "O padrão do gestor criterioso e ordenado está no art. 64.º, n.º 1, al. a); faltava a responsabilidade para com os credores",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0064&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Verificar se o ato é coberto por deliberação dos sócios (art. 72/4 CSC — exoneração de responsabilidade)\n- Prazo de prescrição: 5 anos (art. 174/1 CSC)",
+        "para": "- Verificar se o ato assenta em deliberação dos sócios, ainda que anulável (art. 72.º, n.º 5, CSC — exclui a responsabilidade para com a sociedade, mas não para com os credores sociais — art. 78.º, n.º 3, CSC)\n- Prazo de prescrição: 5 anos, contados do termo da conduta dolosa ou culposa (ou da sua revelação, se ocultada) e da produção do dano (art. 174.º, n.º 1, al. b), CSC, para os direitos da sociedade; n.º 2 para os de sócios e terceiros), ou o prazo mais longo da prescrição criminal, se o facto constituir crime (n.º 5)",
+        "motivo": "A exclusão por deliberação está no n.º 5 do art. 72.º; o termo inicial da prescrição está no art. 174.º, n.º 1, al. b)",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0174&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Art. 72 CSC — responsabilidade para com a sociedade; inversão do ónus de prova\n- Art. 72/2 CSC — business judgment rule (exclusão de responsabilidade se: informado, livre de conflito, critério racional)\n- Art. 73 CSC — responsabilidade solidária de todos os administradores\n- Art. 74 CSC — responsabilidade por deliberação dos sócios não exclui a do gerente se ilegal\n- Art. 75 CSC — ação social de responsabilidade (pode ser proposta pela sociedade ou, subsidiariamente, pelos sócios)\n- Art. 76/1 CSC — ação social intentada por sócios que representem 5% do capital (SA) ou qualquer sócio (Lda.)\n- Art. 77 CSC — renúncia e transação sobre responsabilidade\n- Art. 78 CSC — responsabilidade para com credores sociais (insuficiência do património)\n- Art. 79 CSC — responsabilidade direta para com sócios e terceiros (ato ilícito direto)",
+        "para": "- Art. 72.º CSC — responsabilidade para com a sociedade; presunção de culpa (n.º 1); isenção de quem não participou na deliberação colegial ou votou vencido (n.º 3); exclusão quando o ato assente em deliberação dos sócios, ainda que anulável (n.º 5)\n- Art. 72.º, n.º 2, CSC — business judgment rule (exclusão da responsabilidade se o gerente provar que atuou em termos informados, livre de qualquer interesse pessoal e segundo critérios de racionalidade empresarial)\n- Art. 73.º CSC — solidariedade entre os gerentes ou administradores responsáveis; direito de regresso na medida das culpas\n- Art. 74.º CSC — nulidade das cláusulas que excluam ou limitem a responsabilidade; renúncia e transação só por deliberação expressa sem voto contrário de minoria de 10 % do capital; a aprovação das contas não implica renúncia, salvo nas condições do n.º 3\n- Art. 75.º CSC — ação social proposta pela sociedade: depende de deliberação dos sócios por maioria simples e deve ser proposta no prazo de seis meses a contar da deliberação; os visados não votam (n.º 3)\n- Art. 76.º CSC — representantes especiais nomeados pelo tribunal a requerimento de sócios com, pelo menos, 5 % do capital\n- Art. 77.º CSC — ação social proposta por sócios (ut singuli): sócios com, pelo menos, 5 % do capital (2 % nas sociedades emitentes de ações admitidas à negociação em mercado regulamentado), em qualquer tipo de sociedade, quando a sociedade a não haja solicitado; a reparação é a favor da sociedade\n- Art. 78.º CSC — responsabilidade para com os credores sociais, quando, pela inobservância culposa de normas destinadas à sua proteção, o património social se torne insuficiente; ação sub-rogatória dos credores (n.º 2)\n- Art. 79.º CSC — responsabilidade para com sócios e terceiros pelos danos que diretamente lhes causarem no exercício das funções",
+        "motivo": "Os arts. 74.º, 76.º e 77.º estavam trocados; o art. 77.º exige 5 % do capital (2 % nas cotadas) em qualquer tipo de sociedade; faltavam a deliberação e o prazo do art. 75.º",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0077&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Legitimidade ativa: a sociedade via órgão competente? Sócios por ação ut singuli? Credores?\n- Possibilidade de exoneração por deliberação ou ratificação dos sócios (art. 72/4 CSC)",
+        "para": "- Legitimidade ativa: a sociedade, mediante deliberação dos sócios (art. 75.º CSC)? Sócios com, pelo menos, 5 % do capital, por ação ut singuli (art. 77.º CSC)? Credores (art. 78.º CSC)? Sócios ou terceiros por dano direto (art. 79.º CSC)?\n- Exclusão da responsabilidade por ato assente em deliberação dos sócios, ainda que anulável (art. 72.º, n.º 5, CSC), e renúncia ou transação nos termos do art. 74.º, n.ºs 2 e 3, CSC",
+        "motivo": "Legitimidade e exclusão da responsabilidade conforme os arts. 72.º, n.º 5, 74.º, 75.º e 77.º CSC",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0075&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "**3.4 — Exoneração por Deliberação dos Sócios (art. 72/4 CSC)**\nO ato do gerente não é ilícito se tiver sido realizado em execução de deliberação dos sócios, salvo se esta for contrária à lei. [■ VERIFICAR: existência de deliberação prévia]",
+        "para": "**3.4 — Exclusão por Deliberação dos Sócios (art. 72.º, n.º 5, CSC)**\nA responsabilidade do gerente para com a sociedade não tem lugar quando o ato ou omissão assente em deliberação dos sócios, ainda que anulável (a lei ressalva as deliberações anuláveis, não as nulas); a exclusão não afasta a responsabilidade para com os credores sociais (art. 78.º, n.º 3, CSC). [■ VERIFICAR: existência de deliberação prévia e o seu eventual vício]",
+        "motivo": "A regra está no n.º 5 do art. 72.º e abrange deliberações anuláveis; não vale perante os credores",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0072&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "Quando o património social seja insuficiente para satisfação dos credores, os gerentes respondem pessoalmente pelos prejuízos causados com o incumprimento das normas legais ou estatutárias que visam proteger os credores.",
+        "para": "Os gerentes respondem para com os credores da sociedade quando, pela inobservância culposa das disposições legais ou contratuais destinadas à proteção destes, o património social se torne insuficiente para a satisfação dos respetivos créditos (art. 78.º, n.º 1, CSC); essa responsabilidade não é excluída pela renúncia ou transação da sociedade nem por o ato assentar em deliberação dos sócios (n.º 3).",
+        "motivo": "O art. 78.º exige culpa e nexo entre a violação e a insuficiência patrimonial",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0078&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Confirmar a percentagem de capital detida pelos sócios que pretendam propor a ação ut singuli e se a sociedade deliberou ou não propor a ação (arts. 75.º e 77.º CSC).",
+      "Confirmar se a deliberação em que o ato assenta é nula ou apenas anulável (art. 72.º, n.º 5, CSC).",
+      "Jurisprudência sobre a business judgment rule e sobre o termo inicial da prescrição: citar só acórdãos confirmados em dgsi.pt."
+    ],
+    "fontes": [
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0064&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0072&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0073&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0074&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0075&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0076&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0077&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0078&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0079&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0174&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+    ]
+  },
+  {
+    "codigo": "COM-031",
+    "veredicto": "corrigida",
+    "resumo": "A ficha exigia 5 % do capital só nas S.A. e admitia a ação ut singuli a «qualquer sócio» de Lda., quando o art. 77.º CSC exige 5 % (2 % nas sociedades cotadas) em qualquer tipo de sociedade; indicava um prazo de três meses para a sociedade propor a ação após a deliberação, quando o art. 75.º, n.º 1, fixa seis meses; e pedia a condenação a favor do autor também na ação social, em que a indemnização reverte para a sociedade. Corrigi ainda o termo inicial da prescrição (art. 174.º, n.º 1, al. b), e n.º 2) e substituí o «Tribunal de Comércio», que já não existe como tribunal autónomo, pelos juízos da comarca (arts. 117.º e 128.º da LOSJ).",
+    "substituicoes": [
+      {
+        "de": "- Distinguir o tipo de ação: social (art. 75 CSC — proposta pela sociedade ou ut singuli pelos sócios) ou direta (art. 79 CSC — proposta por sócios ou terceiros por dano direto)",
+        "para": "- Distinguir o tipo de ação: social (art. 75.º CSC — proposta pela sociedade; art. 77.º CSC — ut singuli pelos sócios, a favor da sociedade), dos credores sociais (art. 78.º CSC) ou direta (art. 79.º CSC — proposta por sócios ou terceiros por dano direto)",
+        "motivo": "A ação ut singuli está no art. 77.º CSC e a indemnização reverte para a sociedade",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0077&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Verificar prescrição: 5 anos a contar do facto (art. 174/1 CSC)\n- Tribunal competente: tribunal cível ou tribunal de comércio?",
+        "para": "- Verificar prescrição: 5 anos a contar do termo da conduta dolosa ou culposa (ou da sua revelação, se ocultada) e da produção do dano (art. 174.º, n.º 1, al. b), CSC, para a sociedade; n.º 2 para sócios e terceiros); prazo mais longo se o facto constituir crime (n.º 5)\n- Tribunal competente: juízo de comércio (ações relativas ao exercício de direitos sociais — art. 128.º, n.º 1, al. c), da LOSJ) ou juízo cível da comarca (juízo central cível nas ações de valor superior a € 50 000 — art. 117.º, n.º 1, al. a), da LOSJ)? [■ VERIFICAR: enquadramento da ação de responsabilidade na al. c) do art. 128.º, n.º 1, da LOSJ — a jurisprudência não é uniforme]",
+        "motivo": "O prazo de prescrição não corre do facto, mas do termo da conduta e da produção do dano; o tribunal de comércio deu lugar aos juízos de comércio",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1974A0128&nid=1974&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Art. 75 CSC — legitimidade ativa para ação social\n- Art. 76 CSC — ação social intentada por sócios (requisito de 5% do capital em SA; qualquer sócio em Lda.)",
+        "para": "- Art. 75.º CSC — ação social proposta pela sociedade: deliberação dos sócios por maioria simples e propositura no prazo de seis meses a contar da deliberação (n.º 1)\n- Art. 77.º CSC — ação social proposta por sócios (ut singuli): sócios com, pelo menos, 5 % do capital (2 % nas sociedades emitentes de ações admitidas à negociação em mercado regulamentado), em qualquer tipo de sociedade, quando a sociedade a não haja solicitado; a reparação é a favor da sociedade, que deve ser chamada à causa (n.º 4)",
+        "motivo": "A ação ut singuli está no art. 77.º e exige 5 % do capital em qualquer tipo de sociedade; o art. 75.º fixa a deliberação e o prazo de seis meses",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0077&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "**EXCELENTÍSSIMO(A) SENHOR(A) JUIZ(A) DO [Tribunal Judicial da Comarca de .../Tribunal de Comércio de ...]**",
+        "para": "**EXCELENTÍSSIMO(A) SENHOR(A) JUIZ(A) DE DIREITO DO [Tribunal Judicial da Comarca de ... — Juízo de Comércio de ... / Juízo Central Cível de ... / Juízo Local Cível de ...]**",
+        "motivo": "O tribunal de comércio foi substituído pelos juízos de comércio das comarcas (LOSJ)",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1974A0128&nid=1974&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "que se digne condenar o(a) Réu(Ré) a pagar ao(à) Autor(a) a quantia de **€ [valor]** (euros)",
+        "para": "que se digne condenar o(a) Réu(Ré) a pagar [ao(à) Autor(a) / à sociedade [firma], na ação social — arts. 75.º e 77.º CSC] a quantia de **€ [valor]** (euros)",
+        "motivo": "Na ação social a indemnização é paga à sociedade",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0077&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "dado que esta não propôs a ação no prazo de [3 meses] após deliberação de [data]. [■ VERIFICAR: deliberação e prazo]",
+        "para": "dado que esta não a solicitou [não deliberou propô-la / deliberou propô-la em [data] e não o fez no prazo de seis meses fixado no art. 75.º, n.º 1, CSC], pedindo-se a reparação a favor da sociedade, que é chamada à causa (art. 77.º, n.º 4, CSC); o(s) Autor(es) detém(êm) [X] % do capital social, acima do mínimo de 5 % [ou de 2 %, em sociedade emitente de ações admitidas à negociação em mercado regulamentado]. [■ VERIFICAR: deliberação, prazo e percentagem do capital]",
+        "motivo": "O prazo para a sociedade propor a ação é de seis meses; a ação ut singuli exige 5 % do capital e a reparação reverte para a sociedade",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0075&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "a) Pagar ao(à) Autor(a) a quantia de **€ [valor]** a título de indemnização;",
+        "para": "a) Pagar [ao(à) Autor(a) / à sociedade [firma], na ação social — arts. 75.º e 77.º CSC] a quantia de **€ [valor]** a título de indemnização;",
+        "motivo": "Na ação social a condenação é a favor da sociedade",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0077&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- [ ] Legitimidade ativa verificada (art. 75/76/78/79 CSC consoante o caso)",
+        "para": "- [ ] Legitimidade ativa verificada (arts. 75.º, 77.º, 78.º ou 79.º CSC, consoante o caso; na ação ut singuli, pelo menos 5 % do capital)",
+        "motivo": "A ação dos sócios está no art. 77.º; o art. 76.º trata dos representantes especiais",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0076&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- [Comarca / Tribunal de Comércio — VERIFICAR competência]",
+        "para": "- [Juízo de comércio / juízo cível da comarca] [■ VERIFICAR: competência — arts. 117.º e 128.º da LOSJ]",
+        "motivo": "Os tribunais de comércio deram lugar aos juízos de comércio",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1974A0117&nid=1974&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Confirmar a competência material (juízo de comércio ou juízo cível) à luz da jurisprudência mais recente sobre a al. c) do art. 128.º, n.º 1, da LOSJ.",
+      "Na ação ut singuli, provar a percentagem de capital e que a sociedade não propôs a ação (deliberação negativa, omissão ou decurso dos seis meses do art. 75.º, n.º 1, CSC).",
+      "O ponto 11 continua a dizer que os sócios agem «em representação da sociedade»: na ação do art. 77.º CSC os sócios agem em nome próprio, no interesse da sociedade; rever a redação."
+    ],
+    "fontes": [
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0072&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0075&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0076&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0077&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0078&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0079&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0174&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1974A0117&nid=1974&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1974A0128&nid=1974&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+    ]
+  }
+]

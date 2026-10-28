@@ -1,0 +1,370 @@
+[
+ {
+  "codigo": "AMB-014",
+  "veredicto": "corrigida",
+  "resumo": "A ficha remetia para artigos do RGGR que não correspondem ao que diz (definições no art. 4.º, obrigações dos produtores nos arts. 23.º e ss., contraordenações nos arts. 66.º e ss.), usava instrumentos inexistentes («Guias TRD», «eGTR», «Relatório Anual de Resíduos») e limitava o crime do art. 279.º CP aos resíduos perigosos. Corrigiram-se as remissões para os arts. 3.º, 9.º, 29.º, 38.º, 97.º, 98.º, 101.º e 117.º do RGGR, a e-GAR, o MIRR (até 31 de março), a hierarquia do art. 7.º, o prazo de armazenamento no local de produção (três anos) e o regime RAP do DL n.º 152-D/2017.",
+  "substituicoes": [
+   {
+    "de": "- Hierarquia de gestão de resíduos: prevenção > reutilização > reciclagem > outros valorizações > eliminação (art. 7.º DL 102-D/2020)",
+    "para": "- Hierarquia de gestão de resíduos: prevenção > preparação para a reutilização > reciclagem > outros tipos de valorização > eliminação (art. 7.º do RGGR, anexo I ao DL n.º 102-D/2020)",
+    "motivo": "O art. 7.º do RGGR fala em «preparação para a reutilização» e «outros tipos de valorização»; o artigo é do regime anexo, não do decreto-lei.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3398&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Art. 4.º (definições: produtor inicial, detentor, operador) — identificar o papel do cliente",
+    "para": "- Art. 3.º do RGGR (definições: produtor de resíduos, detentor, operador, comerciante e corretor) — identificar o papel do cliente",
+    "motivo": "As definições estão no art. 3.º do RGGR; o art. 4.º trata do princípio da regulação da gestão de resíduos.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3398&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Arts. 23.º e ss. (obrigações dos produtores e detentores de resíduos)",
+    "para": "- Arts. 9.º (responsabilidade pela gestão; extinção pela transmissão a operador de tratamento, entidade gestora ou sistema municipal — n.os 5 e 6) e 29.º (obrigações dos produtores e detentores de resíduos) do RGGR",
+    "motivo": "O art. 23.º do RGGR trata do desperdício alimentar; as obrigações do produtor estão nos arts. 9.º e 29.º.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3398&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- SILIAMB: obrigações de registo e reporte periódico [■ VERIFICAR prazos atuais]",
+    "para": "- SIRER (plataforma SILiAmb): inscrição (art. 97.º do RGGR), no prazo de um mês após o facto que a determina (art. 101.º, n.º 1), e submissão anual de dados no Mapa Integrado de Registo de Resíduos — MIRR (art. 98.º), com campanha até 31 de março, quanto ao ano anterior",
+    "motivo": "Concretiza as obrigações de inscrição e de reporte e o prazo da campanha MIRR fixado pela APA.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?ficha=101&artigo_id=&nid=3398&pagina=2&tabela=leis&nversao=&so_miolo=&"
+   },
+   {
+    "de": "- Régimen RAP aplicável (ex. Decreto-Lei do regime de embalagens se relevante) [■ VERIFICAR]",
+    "para": "- Regime RAP aplicável: DL n.º 152-D/2017 (regime unificado dos fluxos específicos de resíduos — embalagens, pneus, óleos, VFV, pilhas e acumuladores, REEE) [■ VERIFICAR fluxo aplicável ao cliente]",
+    "motivo": "Termo em castelhano; o regime das embalagens e dos demais fluxos está unificado no DL n.º 152-D/2017, que revogou os diplomas setoriais (art. 103.º).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?ficha=101&artigo_id=&nid=2953&pagina=2&tabela=leis&nversao=&so_miolo=&"
+   },
+   {
+    "de": "- Guias TRD (transferência de resíduos): obrigações documentais",
+    "para": "- e-GAR (guia eletrónica de acompanhamento de resíduos): obrigatória no transporte de resíduos em território nacional, salvo as exceções legais (art. 38.º, n.º 2, do RGGR; Portaria n.º 145/2017, na redação atual)",
+    "motivo": "Não existem «Guias TRD»; o transporte é acompanhado por e-GAR.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3398&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Regime contraordenacional: arts. 66.º e ss. DL 102-D/2020 (molduras de coima)",
+    "para": "- Regime contraordenacional: art. 117.º do RGGR (contraordenações ambientais muito graves, graves e leves), com as coimas do art. 22.º da Lei n.º 50/2006 (Lei-Quadro das Contraordenações Ambientais)",
+    "motivo": "As contraordenações estão no art. 117.º do RGGR; o art. 66.º trata de regras gerais do licenciamento. As molduras constam da LQCA.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?ficha=101&artigo_id=&nid=3398&pagina=2&tabela=leis&nversao=&so_miolo=&"
+   },
+   {
+    "de": "- Responsabilidade penal: art. 279.º CP (crime de poluição) se resíduos perigosos",
+    "para": "- Responsabilidade penal: art. 279.º, n.º 2, al. b), CP (poluição causada em operações de recolha, transporte, armazenagem, triagem, tratamento, valorização ou eliminação de resíduos, com danos substanciais — não só resíduos perigosos) e art. 279.º-A, n.º 1, CP (transferência ilícita de resíduos)",
+    "motivo": "O art. 279.º CP não se limita a resíduos perigosos: exige danos substanciais; a transferência ilícita está no art. 279.º-A.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=109A0279&nid=109&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Triagem na fonte (art. [X] RGGR)\n- Armazenamento temporário: condições, prazo máximo [■ VERIFICAR]\n- Obrigatoriedade de entrega a operador licenciado",
+    "para": "- Triagem preliminar dos resíduos (art. 29.º, n.º 1, al. c), RGGR)\n- Armazenamento no local de produção: normas técnicas aplicáveis e prazo máximo de três anos, salvo condições diferentes aprovadas no licenciamento da atividade (art. 29.º, n.º 2, al. a), RGGR)\n- Obrigatoriedade de entrega a operador licenciado: a responsabilidade do produtor só se extingue com a transmissão a operador de tratamento, entidade gestora de fluxo específico ou sistema municipal, não a mero transportador, comerciante ou corretor (art. 9.º, n.os 5 e 6, RGGR)",
+    "motivo": "Preenche as remissões com os artigos do RGGR e o prazo legal de armazenamento; esclarece quando cessa a responsabilidade do produtor.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3398&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Guias de Transporte de Resíduos (eGTR) — plataforma SILIAMB",
+    "para": "- Guia eletrónica de acompanhamento de resíduos (e-GAR), emitida no SILiAmb antes do transporte pelo produtor ou detentor, ou por terceiro com a sua confirmação (art. 38.º, n.º 2, RGGR; art. 9.º da Portaria n.º 145/2017)",
+    "motivo": "O documento legal é a e-GAR, não a «eGTR».",
+    "fonte": "https://www.ccdr-lvt.pt/wp-content/uploads/2022/04/portaria-145-2017.pdf"
+   },
+   {
+    "de": "- Obrigatoriedade de inscrição [■ VERIFICAR limiares]\n- Prazo de submissão do Relatório Anual de Resíduos",
+    "para": "- Obrigatoriedade de inscrição no SIRER (art. 97.º RGGR) e de submissão de dados (art. 98.º, n.º 1, al. a): p. ex., organizações com mais de 10 trabalhadores ou estabelecimentos que produzam resíduos perigosos, em ambos os casos fora da responsabilidade dos sistemas municipais) [■ VERIFICAR enquadramento do cliente]\n- Prazo de submissão do Mapa Integrado de Registo de Resíduos (MIRR): campanha até 31 de março, quanto ao ano anterior",
+    "motivo": "O reporte anual faz-se no MIRR do SIRER, não num «Relatório Anual de Resíduos»; os sujeitos obrigados constam do art. 98.º.",
+    "fonte": "https://apoiosiliamb.apambiente.pt/sites/default/files/documentos/Manual_MIRR_V10_jan2025.pdf"
+   },
+   {
+    "de": "Infrações identificadas; molduras das coimas aplicáveis [■ VERIFICAR arts. 66.º e ss.]",
+    "para": "Infrações identificadas e sua classificação (art. 117.º RGGR); molduras das coimas aplicáveis [■ VERIFICAR art. 22.º da Lei n.º 50/2006]",
+    "motivo": "As contraordenações estão no art. 117.º do RGGR e as molduras na LQCA.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1356A0022&nid=1356&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Situação do SILIAMB (registo e relatório anual) verificada",
+    "para": "- [ ] Situação no SIRER/SILiAmb (inscrição e MIRR) verificada",
+    "motivo": "O reporte anual é o MIRR.",
+    "fonte": "https://apoiosiliamb.apambiente.pt/sites/default/files/documentos/Manual_MIRR_V10_jan2025.pdf"
+   },
+   {
+    "de": "- Relatório anual enviado? [sim/não — ano]",
+    "para": "- MIRR submetido? [sim/não — ano]",
+    "motivo": "O reporte anual é o MIRR.",
+    "fonte": "https://apoiosiliamb.apambiente.pt/sites/default/files/documentos/Manual_MIRR_V10_jan2025.pdf"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar se o cliente está abrangido pela submissão de dados no SIRER (art. 98.º do RGGR) ou por isenção da APA, I. P. (art. 98.º, n.º 2).",
+   "Confirmar a classificação LER e, nas entradas espelho, a perigosidade (art. 29.º, n.º 2, als. b) e c), do RGGR).",
+   "Confirmar o montante das coimas pela classificação da infração (art. 117.º do RGGR) e pelo art. 22.º da Lei n.º 50/2006.",
+   "Confirmar a redação atual da Portaria n.º 145/2017 (e-GAR) e do Regulamento SIRER (Portaria n.º 20/2022)."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3398&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?ficha=101&artigo_id=&nid=3398&pagina=2&tabela=leis&nversao=&so_miolo=&",
+   "https://www.ccdr-lvt.pt/wp-content/uploads/2022/04/portaria-145-2017.pdf",
+   "https://apoiosiliamb.apambiente.pt/sites/default/files/documentos/Manual_MIRR_V10_jan2025.pdf",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?ficha=101&artigo_id=&nid=2953&pagina=2&tabela=leis&nversao=&so_miolo=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=109A0279&nid=109&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1356A0022&nid=1356&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+  ]
+ },
+ {
+  "codigo": "AMB-015",
+  "veredicto": "corrigida",
+  "resumo": "A ficha assentava num documento inexistente («Guia de Transferência de Resíduos — eGTR») e fazia transferir a responsabilidade pelo destino final com a simples assinatura da guia, quando o art. 9.º, n.º 6, do RGGR só extingue a responsabilidade do produtor com a transmissão a operador de tratamento, entidade gestora ou sistema municipal. Citava ainda o DL n.º 366-A/97 (revogado pelo DL n.º 152-D/2017) e o art. 1152.º CC (contrato de trabalho) em vez do art. 1154.º CC (prestação de serviço). Corrigiu-se a cláusula 4.ª, a cláusula 2.ª, al. c), a e-GAR e a base legal.",
+  "substituicoes": [
+   {
+    "de": "- Base legal: DL n.º 102-D/2020 (RGGR), DL n.º 366-A/97 (embalagens) [■ VERIFICAR diploma atual], CC arts. 1152.º e ss. (prestação de serviços)",
+    "para": "- Base legal: DL n.º 102-D/2020 (RGGR), DL n.º 152-D/2017 (fluxos específicos de resíduos, incluindo embalagens; revogou o DL n.º 366-A/97 — art. 103.º, n.º 1, al. a)), arts. 1154.º e ss. CC (prestação de serviço)",
+    "motivo": "O DL n.º 366-A/97 foi revogado pelo DL n.º 152-D/2017; o art. 1152.º CC define o contrato de trabalho, a prestação de serviço está no art. 1154.º CC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?ficha=101&artigo_id=&nid=2953&pagina=2&tabela=leis&nversao=&so_miolo=&"
+   },
+   {
+    "de": "- Guias eGTR: obrigatoriedade para todos os resíduos (incluindo não perigosos acima do limiar) [■ VERIFICAR]",
+    "para": "- e-GAR (guia eletrónica de acompanhamento de resíduos): obrigatória no transporte de resíduos em território nacional, perigosos ou não, salvo as exceções legais (art. 38.º, n.º 2, RGGR; art. 6.º da Portaria n.º 145/2017)",
+    "motivo": "O documento legal é a e-GAR; não há limiar de quantidade, só exceções taxativas.",
+    "fonte": "https://www.ccdr-lvt.pt/wp-content/uploads/2022/04/portaria-145-2017.pdf"
+   },
+   {
+    "de": "- Obrigações documentais: eGTR, destino final, declaração de conformidade",
+    "para": "- Obrigações documentais: e-GAR, destino final, declaração de conformidade",
+    "motivo": "O documento legal é a e-GAR.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3398&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Transferência da responsabilidade do produtor para o operador: condições legais (art. [X] RGGR) [■ VERIFICAR artigo]\n- Guia de Transporte de Resíduos (eGTR): obrigações e responsabilidades de cada parte",
+    "para": "- Extinção da responsabilidade do produtor: só com a transmissão dos resíduos a operador de tratamento, a entidade gestora de fluxo específico ou a sistema municipal ou multimunicipal, não a mero transportador, comerciante ou corretor (art. 9.º, n.os 5 e 6, RGGR)\n- e-GAR: emissão pelo produtor ou detentor (ou, com a sua autorização, pelo transportador ou destinatário, ficando o produtor obrigado a confirmar o preenchimento e a autorizar o transporte antes de este começar), confirmação pelo transportador e receção pelo destinatário (arts. 9.º a 11.º da Portaria n.º 145/2017)",
+    "motivo": "O art. 9.º, n.º 6, do RGGR fixa quando cessa a responsabilidade do produtor; a «eGTR» não existe e as obrigações de cada interveniente na e-GAR constam da Portaria n.º 145/2017.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3398&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Responsabilidade solidária do produtor se o operador não der destino legal: art. [■ VERIFICAR]\n- CC arts. 1152.º e ss. — contrato de prestação de serviços: obrigações das partes, incumprimento",
+    "para": "- Responsabilidade do produtor se o operador não der destino legal: mantém-se enquanto os resíduos não forem transmitidos a uma das entidades do art. 9.º, n.º 5, als. b) a d), RGGR; o incumprimento do dever de assegurar a gestão é contraordenação grave (art. 117.º, n.º 2, al. b), RGGR) [■ VERIFICAR responsabilidade civil no caso concreto]\n- Arts. 1154.º e ss. CC — contrato de prestação de serviço: obrigações das partes, incumprimento",
+    "motivo": "O RGGR não prevê responsabilidade solidária: a responsabilidade do produtor só cessa nos termos do art. 9.º, n.º 6. A prestação de serviço é o art. 1154.º CC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?ficha=101&artigo_id=&nid=3398&pagina=2&tabela=leis&nversao=&so_miolo=&"
+   },
+   {
+    "de": "c) Emitir a Guia de Transferência de Resíduos (eGTR) em plataforma SILIAMB",
+    "para": "c) Emitir a e-GAR no SILiAmb, quando o Produtor o autorize, e confirmar o seu correto preenchimento antes do início do transporte, cabendo ao Produtor confirmar o preenchimento e autorizar o transporte na plataforma (arts. 9.º, n.os 1 e 3, e 10.º da Portaria n.º 145/2017)",
+    "motivo": "A e-GAR é da responsabilidade do produtor ou detentor; o transportador ou destinatário só a emite com a sua autorização e confirmação prévia.",
+    "fonte": "https://www.ccdr-lvt.pt/wp-content/uploads/2022/04/portaria-145-2017.pdf"
+   },
+   {
+    "de": "Após a assinatura da eGTR, a responsabilidade pelo destino final transfere-se para o Operador,\nnos termos do art. [■ VERIFICAR] do DL n.º 102-D/2020. O Operador responderá pelos danos\ncausados por gestão inadequada dos resíduos após a transferência.",
+    "para": "A responsabilidade do Produtor pela gestão dos resíduos extingue-se com a sua transmissão ao Operador,\ndesde que este seja operador de tratamento de resíduos licenciado para as operações e códigos LER em causa\n(art. 9.º, n.os 5, al. b), e 6, do RGGR, anexo I ao DL n.º 102-D/2020). Se o Operador apenas recolher ou\ntransportar os resíduos, a responsabilidade do Produtor mantém-se até à sua entrega a operador de tratamento\n(art. 9.º, n.os 6 e 7, do RGGR). A e-GAR documenta a transmissão, mas não a substitui. O Operador responderá\npelos danos causados por gestão inadequada dos resíduos após a transmissão.",
+    "motivo": "A responsabilidade não se transfere pela assinatura da guia: extingue-se pela transmissão a operador de tratamento (art. 9.º, n.º 6, RGGR); a transmissão a quem só recolhe ou transporta não a extingue.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3398&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- [ ] Obrigação de emissão de eGTR claramente atribuída",
+    "para": "- [ ] Emissão, confirmação e conclusão da e-GAR claramente atribuídas",
+    "motivo": "O documento legal é a e-GAR.",
+    "fonte": "https://www.ccdr-lvt.pt/wp-content/uploads/2022/04/portaria-145-2017.pdf"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar se o Operador é operador de tratamento licenciado (e não só recolha/transporte), porque disso depende a extinção da responsabilidade do Produtor (art. 9.º, n.º 6, do RGGR).",
+   "Confirmar a redação atual da Portaria n.º 145/2017 (e-GAR), incluindo os prazos de conclusão da guia.",
+   "Se houver embalagens ou outros fluxos específicos, confirmar o regime do DL n.º 152-D/2017 na redação atual e a sua articulação com o Regulamento (UE) 2025/40."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3398&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?ficha=101&artigo_id=&nid=3398&pagina=2&tabela=leis&nversao=&so_miolo=&",
+   "https://www.ccdr-lvt.pt/wp-content/uploads/2022/04/portaria-145-2017.pdf",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?ficha=101&artigo_id=&nid=2953&pagina=2&tabela=leis&nversao=&so_miolo=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1152&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1154&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://publications.europa.eu/resource/celex/32025R0040"
+  ],
+  "descricao": "Elabora o contrato de prestação de serviços de recolha, transporte e tratamento/valorização de resíduos entre o produtor/detentor de resíduos e o operador licenciado de gestão de resíduos, incluindo cláusulas de conformidade com o RGGR, obrigações relativas à e-GAR (guia eletrónica de acompanhamento de resíduos), declarações de destino final e repartição de responsabilidades.",
+  "descricao_en": "Drafts the services agreement for the collection, transport and treatment/recovery of waste between the waste producer/holder and the licensed waste management operator, including clauses on compliance with the RGGR, e-GAR (electronic waste accompanying guide) obligations, final destination declarations and the allocation of responsibilities."
+ },
+ {
+  "codigo": "AMB-016",
+  "veredicto": "corrigida",
+  "resumo": "A ficha chamava ao DL n.º 15/2022 «regime jurídico das energias renováveis (RJAR)», quando é o diploma da organização e funcionamento do Sistema Elétrico Nacional; assentava o autoconsumo no DL n.º 153/2014 e no DL n.º 162/2019 (este revogado pelo art. 305.º do DL n.º 15/2022) e na figura extinta da UPP; atribuía o licenciamento à «DRE» acima de 1 MW e indicava a EDP Distribuição (hoje E-REDES). Reescreveu-se o controlo prévio pelo art. 11.º (licença, registo prévio, comunicação prévia, isenção), a competência da DGEG (art. 12.º), a reserva de capacidade de injeção (art. 18.º), o autoconsumo (arts. 81.º e 88.º) e a ligação à rede (art. 54.º).",
+  "substituicoes": [
+   {
+    "de": "- Base legal: DL n.º 15/2022 (regime jurídico das energias renováveis — RJAR), Decreto-Lei n.º 153/2014 (UPAC/UPP) alterado pelo DL 162/2019 [■ VERIFICAR diplomas em vigor atuais]\n- Regulação setorial: ERSE (tarifas) e REN/EDP Distribuição (acesso à rede)\n- Procedimento simplificado para renováveis: Despacho n.º [■ VERIFICAR] — \"balcão único\" da DGEG",
+    "para": "- Base legal: DL n.º 15/2022 (organização e funcionamento do Sistema Elétrico Nacional — SEN), na redação atual (última alteração pelo DL n.º 130/2026, de 29 de junho), que regula o controlo prévio da produção, do armazenamento e do autoconsumo (arts. 11.º e ss.); o DL n.º 162/2019 (autoconsumo) foi revogado (art. 305.º, al. n)) e as unidades de pequena produção registadas ao abrigo do DL n.º 153/2014 podem ser convertidas em UPAC (art. 277.º)\n- Regulação setorial: ERSE (tarifas e regulamentos, como o Regulamento das Relações Comerciais e o Regulamento do Autoconsumo) e operadores da RESP: REN — Rede Elétrica Nacional (rede de transporte) e E-REDES, antiga EDP Distribuição, ou outro operador da rede de distribuição (acesso e ligação à rede)\n- Procedimento: tramitação na plataforma eletrónica da DGEG (art. 15.º DL 15/2022); deferimento tácito do pedido de licença de produção em projetos renováveis não sujeitos a AIA nem a avaliação de incidências ambientais (art. 14.º-B, aditado pelo DL n.º 130/2026)",
+    "motivo": "O DL n.º 15/2022 é o regime do SEN e absorveu o autoconsumo; o DL n.º 162/2019 foi revogado; a EDP Distribuição passou a E-REDES em 2021; o procedimento corre na plataforma da DGEG.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?ficha=301&artigo_id=&nid=3536&pagina=4&tabela=leis&nversao=&so_miolo=&"
+   },
+   {
+    "de": "- Regime: UPAC (autoconsumo) / UPP (pequena produção) / produção para venda (>1 MW)",
+    "para": "- Regime: UPAC (autoconsumo individual ou coletivo) / centro eletroprodutor com injeção total na RESP / armazenamento — o procedimento de controlo prévio depende da potência instalada (art. 11.º DL 15/2022)",
+    "motivo": "A UPP já não existe como figura autónoma e o limiar de 1 MW não define a «venda»: define o tipo de controlo prévio.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3536&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- DL n.º 15/2022 (RJAR) — regime unificado para todas as renováveis [■ VERIFICAR artigos aplicáveis]\n- Procedimento de licenciamento: DRE para projetos >1 MW; DGEG para outros [■ VERIFICAR]\n- UPAC: DL n.º 153/2014 alterado DL 162/2019 — registos, potência máxima, RESP [■ VERIFICAR]\n- Ligação à rede: Portaria da ERSE [■ VERIFICAR] + regras do operador de rede",
+    "para": "- DL n.º 15/2022 (SEN) — controlo prévio da produção de eletricidade, renovável ou não, do armazenamento e do autoconsumo (arts. 11.º e ss.)\n- Procedimento de controlo prévio (art. 11.º DL 15/2022): licença de produção e licença de exploração para renováveis com injeção total ou autoconsumo acima de 1 MW e para projetos sujeitos a AIA ou a avaliação de incidências ambientais; registo prévio e certificado de exploração para injeção total até 1 MW e para autoconsumo acima de 30 kW e até 1 MW; comunicação prévia para autoconsumo até 30 kW; isenção até 800 W sem injeção de excedente na RESP. A DGEG é a entidade licenciadora em todos os casos (art. 12.º). A licença de produção depende de prévio título de reserva de capacidade de injeção na RESP (art. 18.º, n.º 1), com caução (art. 13.º); as UPAC estão dispensadas, salvo injeção de excedentes acima de 1 MVA (art. 18.º, n.º 3, al. a))\n- UPAC: arts. 81.º e ss. DL 15/2022 — controlo prévio do art. 11.º; consulta ao operador da RESP dispensada, salvo injeção acima de 30 kVA em BT ou de 100 kVA na RND ou RNT (art. 81.º, n.º 4)\n- Ligação à rede: art. 54.º DL 15/2022 e Regulamento das Relações Comerciais da ERSE [■ VERIFICAR versão em vigor] + regras do operador de rede",
+    "motivo": "O DL n.º 15/2022 não tem uma «DRE» licenciadora: a DGEG é competente para todos os títulos e o procedimento depende da potência; o DL n.º 162/2019 foi revogado; a ERSE aprova regulamentos, não portarias.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3536&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Regime de energia produzida e excedentes (SERUP): [■ VERIFICAR diploma e valores atuais]",
+    "para": "- Energia excedente da UPAC: pode ser transacionada nos mercados, por contratos bilaterais ou entre pares, diretamente ou através de terceiros (art. 88.º, n.º 1, al. e), DL 15/2022) [■ VERIFICAR condições e valores atuais]",
+    "motivo": "O SERUP era a plataforma de registo do regime anterior, não o regime dos excedentes, que consta hoje do art. 88.º do DL n.º 15/2022.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?ficha=101&artigo_id=&nid=3536&pagina=2&tabela=leis&nversao=&so_miolo=&"
+   },
+   {
+    "de": "- Diretiva (UE) 2018/2001 (RED II) — metas e simplificação de procedimentos",
+    "para": "- Diretiva (UE) 2018/2001 (RED II), alterada pela Diretiva (UE) 2023/2413 (RED III) — metas e aceleração dos procedimentos de licenciamento [■ VERIFICAR estado da transposição]",
+    "motivo": "A RED II foi alterada pela Diretiva (UE) 2023/2413, que reforça a simplificação e aceleração do licenciamento.",
+    "fonte": "https://publications.europa.eu/resource/celex/32023L2413"
+   },
+   {
+    "de": "**À DIREÇÃO-GERAL DE ENERGIA E GEOLOGIA (DGEG)**\n(ou entidade competente conforme potência do projeto)",
+    "para": "**À DIREÇÃO-GERAL DE ENERGIA E GEOLOGIA (DGEG)**\n(entidade licenciadora em todos os procedimentos de controlo prévio — art. 12.º DL 15/2022; pedido submetido na plataforma eletrónica — art. 15.º)",
+    "motivo": "A DGEG é competente qualquer que seja a potência.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3536&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Regime: [UPAC / UPP / produção para a rede]",
+    "para": "- Regime: [UPAC / centro eletroprodutor com injeção total na RESP / armazenamento] e procedimento: [licença de produção / registo prévio / comunicação prévia] (art. 11.º DL 15/2022)",
+    "motivo": "A UPP já não existe; o procedimento resulta do art. 11.º.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3536&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "Art. [X] do DL n.º 15/2022 — procedimento aplicável",
+    "para": "Arts. 11.º e 12.º do DL n.º 15/2022 e [arts. 24.º e ss. (licença de produção) / art. 55.º (registo prévio) / art. 59.º (comunicação prévia)] — procedimento aplicável",
+    "motivo": "Indica os artigos de cada procedimento de controlo prévio.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3536&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Operador de rede: [EDP Distribuição / REN]",
+    "para": "- Operador de rede: [E-REDES ou outro operador da rede de distribuição / REN — rede de transporte]",
+    "motivo": "A EDP Distribuição passou a denominar-se E-REDES em 2021.",
+    "fonte": "https://www.erse.pt/comunicacao/comunicados/erse-determina-mudanca-de-marca-da-edp-distribuicao-para-e-redes/"
+   },
+   {
+    "de": "título de [licença de produção / registo de UPAC / autorização de UPP],",
+    "para": "título de [licença de produção / comprovativo de registo prévio / comprovativo de comunicação prévia],",
+    "motivo": "Títulos previstos no art. 11.º, n.º 6, do DL n.º 15/2022; a «autorização de UPP» não existe.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3536&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- [ ] Regime aplicável (UPAC / UPP / produção rede) verificado\n- [ ] DGEG como entidade competente confirmada para esta escala",
+    "para": "- [ ] Regime (UPAC / injeção total na RESP / armazenamento) e procedimento (licença / registo prévio / comunicação prévia) verificados\n- [ ] DGEG como entidade licenciadora (art. 12.º) e título de reserva de capacidade de injeção na RESP (art. 18.º), quando exigido, verificados",
+    "motivo": "A DGEG é sempre competente; a escala determina o procedimento e a necessidade de reserva de capacidade.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3536&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Tipo: [UPAC / UPP / venda total à rede]",
+    "para": "- Tipo: [UPAC / venda total à rede / armazenamento]",
+    "motivo": "A UPP já não existe como figura autónoma.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?ficha=301&artigo_id=&nid=3536&pagina=4&tabela=leis&nversao=&so_miolo=&"
+   },
+   {
+    "de": "- Operador: [EDP Distribuição / REN]",
+    "para": "- Operador: [E-REDES ou outro operador da rede de distribuição / REN]",
+    "motivo": "A EDP Distribuição passou a denominar-se E-REDES em 2021.",
+    "fonte": "https://e-redes.pt/en/news/2021/01/29/edp-distribuicao-now-e-redes"
+   }
+  ],
+  "descricao": "Elabora o requerimento de licenciamento de unidade de produção de energia a partir de fontes renováveis (solar fotovoltaico, eólico, hídrico, biomassa, biogás) junto da Direção-Geral de Energia e Geologia (DGEG), ao abrigo do DL n.º 15/2022 (organização e funcionamento do Sistema Elétrico Nacional), incluindo a reserva de capacidade de injeção e a ligação à rede elétrica de serviço público (REN / E-REDES) e a interligação com outros procedimentos (AIA, licença ambiental, licenciamento urbanístico).",
+  "descricao_en": "Drafts the application for licensing of a unit producing energy from renewable sources (solar photovoltaic, wind, hydro, biomass, biogas) with the Directorate-General for Energy and Geology (DGEG), under Decree-Law No. 15/2022 (organisation and operation of the National Electricity System), including the grid injection capacity reservation and the connection to the public electricity grid (REN / E-REDES) and the interplay with other procedures (AIA, environmental licence, planning permission).",
+  "pontos_para_o_advogado": [
+   "Confirmar o texto atual do DL n.º 15/2022 após o DL n.º 130/2026 (deferimento tácito, prazos e eventuais zonas de aceleração da RED III).",
+   "Confirmar os limiares de AIA aplicáveis ao projeto (DL n.º 151-B/2013, anexos I e II, na redação atual) e as restrições RAN/REN.",
+   "Confirmar a modalidade de reserva de capacidade de injeção (acesso geral, acordo com o operador ou procedimento concorrencial — arts. 19.º a 22.º) e o valor da caução (art. 13.º).",
+   "Confirmar os regulamentos da ERSE em vigor (Relações Comerciais, Autoconsumo) e a portaria da plataforma eletrónica (art. 15.º)."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3536&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?ficha=101&artigo_id=&nid=3536&pagina=2&tabela=leis&nversao=&so_miolo=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?ficha=301&artigo_id=&nid=3536&pagina=4&tabela=leis&nversao=&so_miolo=&",
+   "https://www.erse.pt/comunicacao/comunicados/erse-determina-mudanca-de-marca-da-edp-distribuicao-para-e-redes/",
+   "https://e-redes.pt/en/news/2021/01/29/edp-distribuicao-now-e-redes",
+   "https://publications.europa.eu/resource/celex/32023L2413"
+  ]
+ },
+ {
+  "codigo": "AMB-022",
+  "veredicto": "corrigida",
+  "resumo": "A checklist tratava o TUA como título das instalações «não-PCIP» emitido pelo IAPMEI, quando reúne todos os títulos ambientais (incluindo a licença ambiental) emitidos pela APA, I. P., e pelas CCDR; assentava as emissões no DL n.º 78/2004 e na Portaria n.º 80/2006 (revogados pelo DL n.º 39/2018) e o CELE no DL n.º 38/2013 (revogado pelo DL n.º 12/2020), com a devolução de licenças a 30 de abril (hoje 30 de setembro). Usava ainda «RARU» e «eGTR» em vez do MIRR e da e-GAR e datava mal a revisão da PPAG. Corrigiram-se os blocos 1, 2, 3, 4, 6 e 7.",
+  "substituicoes": [
+   {
+    "de": "- Instalação sujeita a: Licença Ambiental (PCIP)? TUA? Regime simplificado?",
+    "para": "- Instalação sujeita a: Licença Ambiental (REI/PCIP)? Outros títulos ambientais (TEAR, TURH, TEGEE, operação de gestão de resíduos…), todos reunidos no TUA (DL 75/2015)? Regime simplificado?",
+    "motivo": "O TUA não é alternativa à licença ambiental: reúne todos os títulos ambientais, incluindo a LA (arts. 2.º e 17.º do DL 75/2015).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2328&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Emissões atmosféricas: DL 78/2004 / Portaria 80/2006 [■ VERIFICAR]\n- Água: DL 226-A/2007 (TURH) / DL 152/97 (ETAR) [■ VERIFICAR diplomas atuais]",
+    "para": "- Emissões atmosféricas: DL 39/2018 (revogou o DL 78/2004 e a Portaria 80/2006 — art. 43.º)\n- Água: Lei 58/2005 (Lei da Água) / DL 226-A/2007 (TURH) / DL 152/97 (águas residuais urbanas — relevante para descargas industriais no coletor municipal, art. 54.º DL 226-A/2007) [■ VERIFICAR diplomas atuais]",
+    "motivo": "O DL 78/2004 e a Portaria 80/2006 foram revogados pelo DL 39/2018; o DL 152/97 só releva para descargas em sistemas urbanos.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2904&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- EU ETS: Diretiva 2003/87/CE / DL 38/2013",
+    "para": "- EU ETS (CELE): Diretiva 2003/87/CE / DL 12/2020, na redação atual (revogou o DL 38/2013 — art. 47.º)",
+    "motivo": "O DL 38/2013 foi revogado pelo DL 12/2020.",
+    "fonte": "https://files.diariodarepublica.pt/1s/2024/12/23500/0004600105.pdf"
+   },
+   {
+    "de": "| 1.1 | Licença Ambiental válida (instalações PCIP) | DL 127/2013 | APA | Renovar antes do termo | ☐ Conforme ☐ Não conforme ☐ N/A | Contraordenação + cessação de atividade |\n| 1.2 | TUA válido (instalações não-PCIP) | DL 75/2015 | IAPMEI/CCDR | Renovar 6 meses antes | ☐ | Contraordenação |",
+    "para": "| 1.1 | Licença Ambiental válida (instalações PCIP) | DL 127/2013 | APA | Reexame e revisão nos termos da lei e da LA [■ VERIFICAR: arts. 19.º e ss. do DL 127/2013, na redação atual] | ☐ Conforme ☐ Não conforme ☐ N/A | Contraordenação + cessação de atividade |\n| 1.2 | TUA válido, com todos os títulos ambientais aplicáveis (LA, TEAR, TURH, TEGEE, resíduos…) emitidos e eficazes | DL 75/2015 (arts. 2.º e 17.º) | APA, I. P. (ANLUA) e CCDR, como entidades licenciadoras (arts. 5.º e 6.º) | Prazo de validade de cada título inscrito no TUA (art. 17.º, n.º 2, al. f)) | ☐ | Contraordenação |",
+    "motivo": "O TUA reúne todos os títulos ambientais, incluindo a LA, e não tem validade própria de «6 meses»; o IAPMEI não é entidade licenciadora ambiental (art. 5.º, n.º 1, DL 75/2015).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2328&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "| 2.2 | Relatório Anual de Resíduos (RARU) | DL 102-D/2020 | APA/SILIAMB | Até 31 Março [■ VERIFICAR] | ☐ | Coima €[■ VERIFICAR] |\n| 2.3 | Contrato com operador licenciado | DL 102-D/2020 | — | Anual/contínuo | ☐ | Responsabilidade solidária |\n| 2.4 | Emissão de eGTR para todos os movimentos | DL 102-D/2020 | SILIAMB | Por movimento | ☐ | Coima €[■ VERIFICAR] |",
+    "para": "| 2.2 | Mapa Integrado de Registo de Resíduos (MIRR) submetido no SIRER | DL 102-D/2020 (RGGR, art. 98.º) | APA/SILiAmb | Até 31 de março, quanto ao ano anterior | ☐ | Contraordenação grave (art. 117.º, n.º 2, RGGR); coima €[■ VERIFICAR] |\n| 2.3 | Contrato com operador licenciado | DL 102-D/2020 | — | Anual/contínuo | ☐ | A responsabilidade do produtor só se extingue com a entrega a operador de tratamento, entidade gestora ou sistema municipal (art. 9.º, n.º 6, RGGR); contraordenação grave (art. 117.º, n.º 2, al. b)) |\n| 2.4 | Emissão de e-GAR em cada transporte de resíduos, salvo exceções legais | DL 102-D/2020 (RGGR, art. 38.º, n.º 2); Portaria 145/2017 | SILiAmb | Antes do início de cada transporte | ☐ | Contraordenação grave (art. 117.º, n.º 2, al. q), RGGR); coima €[■ VERIFICAR] |",
+    "motivo": "O RARU respeita a resíduos urbanos; os produtores reportam no MIRR. A guia é a e-GAR. O RGGR não prevê responsabilidade solidária: a responsabilidade do produtor só cessa nos termos do art. 9.º, n.º 6.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?ficha=101&artigo_id=&nid=3398&pagina=2&tabela=leis&nversao=&so_miolo=&"
+   },
+   {
+    "de": "| 3.1 | Autocontrolo das fontes fixas de emissão | DL 78/2004 | APA/CCDR | Frequência da LA/TUA | ☐ | Coima |\n| 3.2 | Comunicação dos resultados de autocontrolo | DL 78/2004 | APA/CCDR | Prazo da LA | ☐ | Coima |\n| 3.3 | Manutenção de registos de emissões | DL 78/2004 | — | Contínuo, arquivo 5 anos | ☐ | Coima |",
+    "para": "| 3.1 | Monitorização das fontes fixas de emissão, nos termos do TEAR | DL 39/2018 (arts. 5.º, 8.º e 13.º) | APA (monitorização em contínuo) / CCDR (restantes) | Frequência do TEAR/TUA | ☐ | Coima |\n| 3.2 | Comunicação dos resultados da monitorização | DL 39/2018 (art. 16.º) | APA/CCDR | Em contínuo: mensal; pontual: 45 dias após a medição; reporte anual até 30 de abril | ☐ | Coima |\n| 3.3 | Manutenção de registos de emissões | DL 39/2018 (art. 8.º, al. g)) | — | Contínuo; conservação durante pelo menos 6 anos | ☐ | Coima |",
+    "motivo": "O DL 78/2004 foi revogado pelo DL 39/2018 (art. 43.º), que fixa as entidades, os prazos de comunicação e a conservação de registos por seis anos.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2904&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "| 4.2 | Autocontrolo de descargas de águas residuais | DL 152/97 [■ VERIFICAR] | ARH | Frequência do título | ☐ | Coima |",
+    "para": "| 4.2 | Autocontrolo de descargas de águas residuais | Descarga em meio hídrico ou no solo: TURH (DL 226-A/2007, art. 53.º); descarga no coletor municipal: autorização da entidade gestora (art. 54.º DL 226-A/2007 e regulamento do art. 9.º do DL 152/97) [■ VERIFICAR] | ARH ou entidade gestora | Frequência do título ou da autorização | ☐ | Coima |",
+    "motivo": "O DL 152/97 só rege as descargas industriais em sistemas urbanos; as descargas em meio hídrico ou no solo dependem de TURH.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1379&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "| 6.1 | Autorização de Emissão de GEE (AEGEE) válida | DL 38/2013 | APA | Renovação periódica | ☐ N/A | Coima + cessação |\n| 6.2 | Relatório Anual de Emissões verificado | DL 38/2013 | APA/SILIAMB | Até 31 Março [■ VERIFICAR] | ☐ | Penalidade + coima |\n| 6.3 | Entrega de licenças de emissão (EUA) | Diretiva 2003/87/CE | APA | Até 30 Abril [■ VERIFICAR] | ☐ | €100/tCO2 + entrega pendente |",
+    "para": "| 6.1 | Título de emissão de gases com efeito de estufa (TEGEE) válido e atualizado | DL 12/2020 (art. 6.º) | APA | Manter atualizado, a pedido do operador (art. 6.º, n.º 2) | ☐ N/A | Coima + cessação |\n| 6.2 | Relatório anual de emissões verificado | DL 12/2020 (art. 32.º, n.º 3) | APA | Até 31 de março | ☐ | Bloqueio de transferências de licenças (art. 33.º, n.º 3) + coima |\n| 6.3 | Devolução de licenças de emissão (EUA) | Diretiva 2003/87/CE; DL 12/2020 (art. 24.º, n.º 4) | APA | Até 30 de setembro | ☐ | Penalização de 100 €/tCO2e, atualizada pelo índice europeu de preços no consumidor, + devolução das licenças em falta (art. 36.º DL 12/2020) |",
+    "motivo": "O DL 38/2013 foi revogado pelo DL 12/2020; o título é o TEGEE; a devolução passou para 30 de setembro e a penalização de 100 € é atualizada.",
+    "fonte": "https://files.diariodarepublica.pt/1s/2024/12/23500/0004600105.pdf"
+   },
+   {
+    "de": "| 7.1 | Notificação Seveso (se limiar atingido) | DL 150/2015 | APA/IGAMAOT | Inicial e atualizações | ☐ N/A | Coima grave |\n| 7.2 | Política de Prevenção de Acidentes Graves (PPAG) | DL 150/2015 | — | Revisão trienal [■ VERIFICAR] | ☐ N/A | Coima grave |\n| 7.3 | Plano de Emergência Interno | DL 150/2015 | — | Revisão trienal [■ VERIFICAR] | ☐ N/A | Coima grave |",
+    "para": "| 7.1 | Comunicação Seveso (se limiar atingido) | DL 150/2015 (art. 14.º) | APA (art. 15.º) | Inicial e atualizações | ☐ N/A | Coima grave |\n| 7.2 | Política de Prevenção de Acidentes Graves (PPAG) | DL 150/2015 (art. 16.º) | — | Revisão de cinco em cinco anos (art. 16.º, n.º 4, al. a)) | ☐ N/A | Coima grave |\n| 7.3 | Plano de Emergência Interno (nível superior) ou simplificado (nível inferior) | DL 150/2015 (arts. 21.º a 23.º) | — | Revisão pelo menos de três em três anos (art. 21.º, n.º 4) | ☐ N/A | Coima grave |",
+    "motivo": "A PPAG é revista de cinco em cinco anos; o PEI, de três em três; a comunicação é feita à APA, que a verifica.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=4028&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- [ ] PCIP vs. TUA vs. regime simplificado determinado",
+    "para": "- [ ] Títulos ambientais aplicáveis (LA/PCIP, TEAR, TURH, TEGEE…) e respetiva inscrição no TUA determinados",
+    "motivo": "O TUA reúne os títulos ambientais; não é alternativa à licença ambiental.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2328&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Tipo de licenciamento ambiental: [Licença Ambiental PCIP / TUA / regime simplificado / a determinar]",
+    "para": "- Tipo de licenciamento ambiental: [títulos inscritos no TUA: Licença Ambiental PCIP / TEAR / TURH / TEGEE / outros / regime simplificado / a determinar]",
+    "motivo": "O TUA reúne os títulos ambientais; não é alternativa à licença ambiental.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2328&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar o regime de reexame e revisão da licença ambiental no DL 127/2013, na redação atual.",
+   "Confirmar o montante das coimas de cada infração (classificação no diploma setorial e art. 22.º da Lei n.º 50/2006).",
+   "Confirmar o valor atualizado da penalização por emissões excedentárias publicado pela APA, I. P.",
+   "Nas descargas de águas residuais, confirmar os VLE e as condições do TURH ou do regulamento municipal aplicável."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2328&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2904&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://files.diariodarepublica.pt/1s/2024/12/23500/0004600105.pdf",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=4028&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1379&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3398&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?ficha=101&artigo_id=&nid=3398&pagina=2&tabela=leis&nversao=&so_miolo=&",
+   "https://apoiosiliamb.apambiente.pt/sites/default/files/documentos/Manual_MIRR_V10_jan2025.pdf",
+   "https://www.ccdr-lvt.pt/wp-content/uploads/2022/04/portaria-145-2017.pdf"
+  ]
+ }
+]

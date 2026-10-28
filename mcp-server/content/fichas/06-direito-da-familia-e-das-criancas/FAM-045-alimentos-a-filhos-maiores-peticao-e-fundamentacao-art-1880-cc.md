@@ -6,7 +6,8 @@ titulo_en: "Maintenance for Adult Children — Statement of Claim and Grounds (A
 descricao: "Elabora petição inicial de ação de alimentos a filhos maiores ou emancipados que ainda não completaram a sua formação, ao abrigo do art. 1880.º do CC, com fundamentação da necessidade de alimentos, da formação académica ou profissional em curso e da capacidade económica do progenitor obrigado."
 descricao_en: "Drafts the statement of claim in a maintenance action for adult or emancipated children who have not yet completed their education, under Art. 1880 of the CC, setting out the need for maintenance, the academic or vocational education in progress and the financial capacity of the liable parent."
 ambito: nacional
-estado_citacoes: "conferidas 4 · corrigidas 2 · por conferir 0"
+estado_citacoes: "conferidas 12 · corrigidas 2 · por conferir 1"
+revisao_tecnica: "2026-10-28 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
@@ -14,7 +15,8 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 
 > **Âmbito:** nacional · **Área:** Direito da Família e das Crianças · **Código:** FAM-045
 > **EN:** Maintenance for Adult Children — Statement of Claim and Grounds (Art. 1880 CC). Drafts the statement of claim in a maintenance action for adult or emancipated children who have not yet completed their education, under Art. 1880 of the CC, setting out the need for maintenance, the academic or vocational education in progress and the financial capacity of the liable parent.
-> **Citações:** conferidas 4 · corrigidas 2 · por conferir 0. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 12 · corrigidas 2 · por conferir 1. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-28 — corrigida (5 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
 Elabora petição inicial de ação de alimentos a filhos maiores ou emancipados que ainda não completaram a sua formação, ao abrigo do art. 1880.º do CC, com fundamentação da necessidade de alimentos, da formação académica ou profissional em curso e da capacidade económica do progenitor obrigado.
 
@@ -35,7 +37,7 @@ Dentro de <analise_situacao>:
 - Instituição de ensino e duração prevista da formação
 - Rendimentos do filho: bolsa, trabalho part-time, outros apoios
 - Capacidade económica do progenitor obrigado: rendimentos, bens, despesas
-- Existe processo anterior de alimentos a menores que cessou? Com que fundamento?
+- Havia pensão fixada durante a menoridade? Se sim, mantém-se depois da maioridade até aos 25 anos, salvo se a formação estiver concluída, tiver sido livremente interrompida ou o obrigado provar a irrazoabilidade da exigência (art. 1905.º, n.º 2, CC); não é precisa nova ação, e a alteração ou a cessação correm por apenso ao processo anterior (art. 989.º, n.º 2, CPC)
 - O filho já completou a formação e o progenitor pretende cessar?
 
 ### ETAPA 2 — FUNDAMENTOS JURÍDICOS
@@ -44,6 +46,9 @@ Dentro de <fundamentos_juridicos>:
 - Art. 2013.º CC: cessação da obrigação de alimentos por desnecessidade ou incapacidade do obrigado
 - Art. 2005.º CC: forma da prestação de alimentos (prestação em dinheiro ou em espécie)
 - Arts. 2003.º e ss. CC: critérios de fixação (necessidade do alimentado + possibilidade do obrigado)
+- Art. 1905.º, n.º 2, CC: a pensão fixada durante a menoridade mantém-se até aos 25 anos, salvo formação concluída ou livremente interrompida ou prova, pelo obrigado, da irrazoabilidade da exigência
+- Art. 989.º CPC: segue-se, com adaptações, o regime previsto para os menores; havendo decisão sobre alimentos a menores, a alteração e a cessação correm por apenso (n.º 2); o progenitor que assume a título principal as despesas do filho maior pode exigir ao outro uma contribuição (n.º 3)
+- Arts. 5.º a 8.º do DL n.º 272/2001: o pedido de alimentos a filho maior que não seja cumulado com outros pedidos nem dependente de ação pendente segue o procedimento perante o conservador do registo civil, que só passa ao tribunal se houver oposição e não houver acordo [■ VERIFICAR: jurisprudência atual sobre se esta via é obrigatória antes da ação judicial]
 - Jurisprudência relevante: (só indicar se houver certeza; caso contrário omitir)
 
 ### ETAPA 3 — ESTRUTURA DA PETIÇÃO / DEFESA
@@ -53,6 +58,7 @@ Dentro de <estrutura>:
 
 ### ETAPA 4 — PETIÇÃO INICIAL
 **Exmo. Sr./Sra. Juiz de Direito do Juízo de Família e Menores / Juízo Local Cível de [COMARCA]**
+*(se houver processo de alimentos da menoridade, requerimento por apenso a esse processo — art. 989.º, n.º 2, CPC; no procedimento do DL n.º 272/2001, o requerimento é dirigido ao conservador do registo civil)*
 
 [Nome do filho], NIF [NÚMERO], maior de idade, residente em [MORADA], representado(a) pelo mandatário abaixo assinado, vem instaurar **AÇÃO DE ALIMENTOS A FILHO MAIOR**, ao abrigo do art. 1880.º do Código Civil, contra [nome do progenitor], NIF [NÚMERO], pelos seguintes fundamentos:
 
@@ -72,7 +78,7 @@ V. DO PEDIDO
 Requer-se a fixação de alimentos no montante de €[VALOR] mensais, a pagar até ao dia 8 de cada mês, pelo período correspondente à conclusão da formação, previsto para [DATA].
 
 ### ETAPA 5 — CHECKLIST DE VALIDAÇÃO
-- [ ] Filho maior entre 18 e 25 anos
+- [ ] Filho maior que ainda não completou a formação (o art. 1880.º CC não fixa idade-limite: exige que a obrigação seja razoável e dure o tempo normalmente requerido para a formação; os 25 anos são o limite da manutenção da pensão fixada na menoridade, art. 1905.º, n.º 2, CC)
 - [ ] Formação em curso comprovada (certidão de matrícula / nota de aproveitamento)
 - [ ] Necessidade de alimentos demonstrada (ausência de rendimentos suficientes)
 - [ ] Capacidade económica do progenitor alegada e documentada
@@ -96,7 +102,7 @@ Requer-se a fixação de alimentos no montante de €[VALOR] mensais, a pagar at
 
 **HISTÓRICO:**
 - Havia alimentos fixados enquanto menor? [sim/não — valor e processo]
-- Cessaram automaticamente à maioridade? [sim/não]
+- Continuaram a ser pagos depois da maioridade? (não cessam automaticamente aos 18 anos — art. 1905.º, n.º 2, CC) [sim/não]
 - Progenitor recusa pagar voluntariamente? [sim/não — há quanto tempo]
 
 ## Citações desta ficha
@@ -104,8 +110,17 @@ Requer-se a fixação de alimentos no montante de €[VALOR] mensais, a pagar at
 | Citação | Estado | Nota |
 |---|---|---|
 | art. 1880.º CC | conferida (epígrafe) — Despesas com os filhos maiores |  |
+| art. 1880.º CC | conferida (epígrafe) — Despesas com os filhos maiores |  |
+| art. 1905.º, n.º 2, CC | conferida (epígrafe) — Alimentos devidos ao filho em caso de divórcio, separação judicial de pessoas e bens, decl |  |
+| art. 1905.º, n.º 2, CC | conferida (epígrafe) — Alimentos devidos ao filho em caso de divórcio, separação judicial de pessoas e bens, decl |  |
+| art. 1905.º, n.º 2, CC | conferida (epígrafe) — Alimentos devidos ao filho em caso de divórcio, separação judicial de pessoas e bens, decl |  |
+| art. 989.º, n.º 2, CPC | conferida (epígrafe) — Alimentos a filhos maiores ou emancipados |  |
+| art. 989.º, n.º 2, CPC | conferida (epígrafe) — Alimentos a filhos maiores ou emancipados |  |
 | Art. 1880.º CC | conferida (epígrafe) — Despesas com os filhos maiores |  |
 | Art. 2013.º CC | corrigida — Cessação da obrigação alimentar | o número citado no catálogo não correspondia à epígrafe |
 | Art. 2005.º CC | corrigida — Modo de os prestar | o número citado no catálogo não correspondia à epígrafe |
 | Arts. 2003.º e ss. CC | conferida (epígrafe) — Noção |  |
+| Art. 1905.º, n.º 2, CC | conferida (epígrafe) — Alimentos devidos ao filho em caso de divórcio, separação judicial de pessoas e bens, decl |  |
+| Art. 989.º CPC | conferida (epígrafe) — Alimentos a filhos maiores ou emancipados |  |
+| Arts. 5.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 1880.º do Código Civil | conferida (epígrafe) — Despesas com os filhos maiores |  |

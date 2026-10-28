@@ -6,8 +6,9 @@ titulo_en: "Proof of Employment Claims in Insolvency — Employees and Wage Guar
 descricao: "Elabora a reclamação de créditos laborais na insolvência do empregador, ao abrigo dos artigos 128.º e ss. do CIRE e do artigo 336.º do Código do Trabalho, incluindo o pedido ao Fundo de Garantia Salarial (FGS) para adiantamento das retribuições em atraso, e a defesa dos trabalhadores no incidente de verificação."
 descricao_en: "Prepares the proof of employment claims in the employer's insolvency, under Articles 128 et seq. of the CIRE and Article 336 of the Labour Code, including the application to the Wage Guarantee Fund (Fundo de Garantia Salarial — FGS) for advance payment of wage arrears, and the defence of employees in the verification proceedings."
 ambito: nacional
-estado_citacoes: "conferidas 7 · corrigidas 0 · por conferir 2"
+estado_citacoes: "conferidas 16 · corrigidas 0 · por conferir 1"
 remete_para: "assets/modelos/reclamacao-de-creditos-na-insolvencia"
+revisao_tecnica: "2026-10-28 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
@@ -16,7 +17,8 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 > **Âmbito:** nacional · **Área:** Direito da Insolvência e Recuperação · **Código:** INS-048
 > **EN:** Proof of Employment Claims in Insolvency — Employees and Wage Guarantee Fund. Prepares the proof of employment claims in the employer's insolvency, under Articles 128 et seq. of the CIRE and Article 336 of the Labour Code, including the application to the Wage Guarantee Fund (Fundo de Garantia Salarial — FGS) for advance payment of wage arrears, and the defence of employees in the verification proceedings.
 > **Ver também:** `assets/modelos/reclamacao-de-creditos-na-insolvencia` — créditos laborais e Fundo de Garantia Salarial. Usa-o primeiro.
-> **Citações:** conferidas 7 · corrigidas 0 · por conferir 2. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 16 · corrigidas 0 · por conferir 1. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-28 — corrigida (6 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
 Elabora a reclamação de créditos laborais na insolvência do empregador, ao abrigo dos artigos 128.º e ss. do CIRE e do artigo 336.º do Código do Trabalho, incluindo o pedido ao Fundo de Garantia Salarial (FGS) para adiantamento das retribuições em atraso, e a defesa dos trabalhadores no incidente de verificação.
 
@@ -41,13 +43,13 @@ Apresenta dentro de um bloco <analise_dos_creditos_laborais>:
 
 ### ETAPA 2 — ANÁLISE JURÍDICA
 Apresenta dentro de um bloco <fundamentos_juridicos>:
-- Privilégio geral do trabalhador (art. 333.º CT): créditos laborais com privilégio geral e especial imobiliário sobre imóveis do empregador
-- Privilégio especial mobiliário (art. 333.º, n.º 1, CT [■ VERIFICAR: o art. 333.º, n.º 1, CT confere privilégio mobiliário geral, não especial]): sobre bens móveis do empregador
-- Prevalência sobre a hipoteca (art. 333.º, n.º 3, CT)
-- Créditos abrangidos: retribuições (6 meses) + outros créditos (2 anos) — art. 333.º CT [■ VERIFICAR: o art. 333.º CT abrange todos os créditos laborais; o limite de 6 meses é do Fundo de Garantia Salarial; confirmar]
-- Fundo de Garantia Salarial: adiantamento de retribuições em atraso (máx. 6 meses) + sub-rogação nos direitos do trabalhador (DL n.º 59/2015, de 21 de abril)
-- Cessação por encerramento da empresa: despedimento coletivo + compensação (art. 366.º CT)
-- Créditos laborais como créditos sobre a insolvência se constituídos antes da declaração, ou sobre a massa se constituídos depois (art. 51.º CIRE)
+- Privilégios do trabalhador (art. 333.º, n.º 1, CT): privilégio mobiliário geral (al. a)) e privilégio imobiliário especial sobre o bem imóvel do empregador no qual o trabalhador presta a sua atividade (al. b)); não há privilégio imobiliário sobre os demais imóveis nem privilégio mobiliário especial
+- Graduação (art. 333.º, n.º 2, CT): o privilégio mobiliário geral antes dos créditos do art. 747.º, n.º 1, CC; o imobiliário especial antes dos créditos do art. 748.º CC e das contribuições para a segurança social
+- Prevalência sobre a hipoteca: só o privilégio imobiliário especial, quanto ao imóvel onde o trabalhador presta atividade, prefere à hipoteca, ainda que anterior (art. 751.º CC); nessa medida o crédito é garantido (art. 47.º, n.º 4, al. a), CIRE)
+- Créditos abrangidos: todos os créditos emergentes do contrato de trabalho, da sua violação ou cessação (art. 333.º, n.º 1, CT), sem os limites de «6 meses» ou «2 anos», que não constam desta norma
+- Fundo de Garantia Salarial (art. 336.º CT; Decreto-Lei n.º 59/2015, de 21 de abril): paga créditos emergentes do contrato, da sua violação ou cessação, com limites temporais e de montante próprios e prazo de requerimento, ficando sub-rogado nos direitos do trabalhador [■ VERIFICAR no texto em vigor do regime do FGS: créditos vencidos nos seis meses anteriores à propositura da ação de insolvência ou ao requerimento do PER/PEAP, limite global de seis meses de retribuição com teto mensal de três vezes a retribuição mínima mensal garantida e prazo de um ano a contar do dia seguinte à cessação do contrato]
+- Cessação dos contratos: a declaração de insolvência não faz cessar o contrato de trabalho; antes do encerramento definitivo, o administrador pode fazer cessar o contrato de trabalhador cuja colaboração não seja indispensável, com direito à compensação do art. 366.º CT, e a cessação por encerramento do estabelecimento é precedida do procedimento de despedimento coletivo, salvo em microempresas (art. 347.º CT)
+- Créditos laborais como créditos sobre a insolvência se constituídos antes da declaração, ou sobre a massa se constituídos depois (art. 51.º CIRE); a compensação pela cessação decidida pelo administrador depois da declaração tende a ser tratada como dívida da massa [■ VERIFICAR: jurisprudência sobre a natureza dessa compensação]
 
 ### ETAPA 3 — CÁLCULO DOS CRÉDITOS
 Define em <calculo_creditos>:
@@ -73,17 +75,17 @@ Define em <calculo_creditos>:
 | Compensação por despedimento coletivo | [anos de serviço] | € |
 | **TOTAL** | | **€** |
 
-Crédito com privilégio geral e especial mobiliário e imobiliário ao abrigo do artigo 333.º do Código do Trabalho.
+Crédito que goza de privilégio mobiliário geral e de privilégio imobiliário especial sobre o imóvel do empregador no qual o trabalhador presta a sua atividade, sito em [identificação e descrição predial], nos termos do artigo 333.º, n.º 1, do Código do Trabalho, a graduar nos termos do n.º 2 do mesmo artigo e do artigo 751.º do Código Civil.
 
 **B) REQUERIMENTO AO FUNDO DE GARANTIA SALARIAL**
-[Pedido de adiantamento das retribuições em atraso (máx. 6 meses) + documentação necessária (prova da declaração de insolvência + recibos + declaração do AI)]
+[Requerimento de pagamento dos créditos emergentes do contrato, da sua violação ou cessação, dentro dos limites e do prazo do regime do FGS (Decreto-Lei n.º 59/2015) [■ VERIFICAR: limites — seis meses de retribuição, com teto mensal de três vezes a retribuição mínima mensal garantida — e prazo de um ano a contar do dia seguinte à cessação do contrato] + documentação necessária (prova da declaração de insolvência + recibos + declaração do AI)]
 
 ### ETAPA 5 — CHECKLIST DE VALIDAÇÃO
 Apresenta dentro de um bloco <checklist_validacao>:
 - [ ] Todos os créditos laborais identificados e calculados
 - [ ] Privilégio creditório (art. 333.º CT) invocado na reclamação
-- [ ] Prazo de reclamação respeitado (30 dias após publicação no Citius)
-- [ ] Pedido ao FGS preparado com documentação exigida
+- [ ] Prazo de reclamação respeitado: o fixado na sentença, até 30 dias (art. 36.º, n.º 1, al. j), CIRE), contado depois de finda a dilação de cinco dias a partir da publicação do anúncio no Citius (art. 37.º, n.os 7 e 8, CIRE)
+- [ ] Pedido ao FGS preparado com documentação exigida e dentro do prazo [■ VERIFICAR: prazo de um ano a contar do dia seguinte à cessação do contrato]
 - [ ] Distinção créditos sobre a insolvência vs. créditos sobre a massa verificada
 - [ ] [■ VERIFICAR] itens sinalizados
 
@@ -107,12 +109,20 @@ Apresenta dentro de um bloco <checklist_validacao>:
 
 | Citação | Estado | Nota |
 |---|---|---|
-| art. 333.º CT | conferida (epígrafe) — Privilégios creditórios |  |
-| art. 333.º CT | por conferir [■ VERIFICAR] | o art. 333.º CT abrange todos os créditos laborais; o limite de 6 meses é do Fundo de Garantia Salarial; confirmar |
-| art. 333.º CT | conferida (epígrafe) — Privilégios creditórios |  |
-| art. 333.º, n.º 1, CT | por conferir [■ VERIFICAR] | o art. 333.º, n.º 1, CT confere privilégio mobiliário geral, não especial |
-| art. 333.º, n.º 3, CT | conferida (epígrafe) — Privilégios creditórios |  |
+| art. 333.º, n.º 1, CT | conferida (epígrafe) — Privilégios creditórios |  |
+| art. 333.º, n.º 1, CT | por conferir [■ VERIFICAR] | o assunto descrito não coincide com a epígrafe; confirmar |
+| art. 333.º, n.º 2, CT | conferida (epígrafe) — Privilégios creditórios |  |
+| art. 747.º, n.º 1, CC | conferida (epígrafe) — Ordem dos outros privilégios mobiliários |  |
+| art. 748.º CC | conferida (epígrafe) — Ordem dos outros privilégios imobiliários |  |
+| art. 751.º CC | conferida (epígrafe) — Privilégio imobiliário especial e direitos de terceiro |  |
+| art. 47.º, n.º 4, al. a), CIRE | conferida (índice) |  |
+| art. 336.º CT | conferida (epígrafe) — Fundo de Garantia Salarial |  |
 | art. 366.º CT | conferida (índice) |  |
+| art. 347.º CT | conferida (epígrafe) — Insolvência e recuperação de empresa |  |
 | art. 51.º CIRE | conferida (epígrafe) — Dívidas da massa insolvente |  |
 | art. 128.º CIRE | conferida (índice) |  |
-| artigo 333.º do Código do Trabalho | conferida (epígrafe) — Privilégios creditórios |  |
+| artigo 333.º, n.º 1, do Código do Trabalho | conferida (epígrafe) — Privilégios creditórios |  |
+| artigo 751.º do Código Civil | conferida (epígrafe) — Privilégio imobiliário especial e direitos de terceiro |  |
+| art. 333.º CT | conferida (epígrafe) — Privilégios creditórios |  |
+| art. 36.º, n.º 1, al. j), CIRE | conferida (índice) |  |
+| art. 37.º, n.os 7 e 8, CIRE | conferida (índice) |  |

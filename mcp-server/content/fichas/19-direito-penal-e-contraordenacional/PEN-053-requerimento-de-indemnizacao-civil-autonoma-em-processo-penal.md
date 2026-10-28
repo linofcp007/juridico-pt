@@ -6,7 +6,8 @@ titulo_en: "Standalone Civil Compensation Claim in Criminal Proceedings — Plea
 descricao: "Elabora o pedido de indemnização civil deduzido em processo penal (arts. 71.º a 84.º CPP), incluindo o articulado de factos, a quantificação dos danos patrimoniais e não patrimoniais ao abrigo do Código Civil português, e a articulação com o princípio da adesão obrigatória (art. 71.º CPP) e as exceções previstas no art. 72.º CPP."
 descricao_en: "Prepares the civil compensation claim lodged in criminal proceedings (Articles 71 to 84 CPP), including the pleading of facts, quantification of pecuniary and non-pecuniary damage under the Portuguese Civil Code, and the interplay with the principle of mandatory joinder (adesão obrigatória, Article 71 CPP) and the exceptions provided for in Article 72 CPP."
 ambito: nacional
-estado_citacoes: "conferidas 6 · corrigidas 0 · por conferir 0"
+estado_citacoes: "conferidas 17 · corrigidas 0 · por conferir 1"
+revisao_tecnica: "2026-10-28 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
@@ -14,7 +15,8 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 
 > **Âmbito:** nacional · **Área:** Direito Penal e Contraordenacional · **Código:** PEN-053
 > **EN:** Standalone Civil Compensation Claim in Criminal Proceedings — Pleading. Prepares the civil compensation claim lodged in criminal proceedings (Articles 71 to 84 CPP), including the pleading of facts, quantification of pecuniary and non-pecuniary damage under the Portuguese Civil Code, and the interplay with the principle of mandatory joinder (adesão obrigatória, Article 71 CPP) and the exceptions provided for in Article 72 CPP.
-> **Citações:** conferidas 6 · corrigidas 0 · por conferir 0. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 17 · corrigidas 0 · por conferir 1. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-28 — corrigida (3 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
 Elabora o pedido de indemnização civil deduzido em processo penal (arts. 71.º a 84.º CPP), incluindo o articulado de factos, a quantificação dos danos patrimoniais e não patrimoniais ao abrigo do Código Civil português, e a articulação com o princípio da adesão obrigatória (art. 71.º CPP) e as exceções previstas no art. 72.º CPP.
 
@@ -32,9 +34,9 @@ Ficha de trabalho para preparar este documento. As regras da casa prevalecem sob
 ### ETAPA 1 — ADMISSIBILIDADE DO PEDIDO CÍVEL
 Apresenta em <admissibilidade>:
 - Princípio da adesão (art. 71.º CPP): regra geral de dedução do pedido civil no processo penal
-- Exceções ao princípio da adesão (art. 72.º CPP): pedido de complexidade incompatível; processo arquivado; agente inimputável; não identificação do agente
-- Legitimidade: ofendido, herdeiros, terceiros com dano
-- Prazo para dedução: antes do encerramento do inquérito, ou até à leitura da acusação no julgamento
+- Exceções ao princípio da adesão (art. 72.º CPP): o pedido pode ser deduzido em separado, no tribunal civil, entre outros casos, quando o processo penal não tiver conduzido à acusação dentro de 8 meses a contar da notícia do crime ou estiver sem andamento durante esse tempo; tiver sido arquivado ou suspenso provisoriamente, ou o procedimento se tiver extinguido antes do julgamento; o procedimento depender de queixa ou de acusação particular (a dedução prévia no tribunal civil vale como renúncia ao direito de queixa ou de acusação — n.º 2); não houver ainda danos ao tempo da acusação, ou não forem conhecidos em toda a sua extensão; o pedido for deduzido também contra pessoas com responsabilidade meramente civil; o processo correr sob a forma sumária ou sumaríssima; ou o lesado não tiver sido informado da possibilidade de o deduzir nem notificado para o fazer (n.º 1, als. a) a i)). O tribunal pode ainda remeter as partes para os tribunais civis quando as questões do pedido inviabilizarem uma decisão rigorosa ou forem suscetíveis de retardar intoleravelmente o processo penal (art. 82.º, n.º 3, CPP)
+- Legitimidade: o lesado, isto é, a pessoa que sofreu danos ocasionados pelo crime, ainda que se não tenha constituído ou não possa constituir-se assistente (art. 74.º, n.º 1, CPP)
+- Prazo para dedução: até ao encerramento do inquérito, o lesado pode manifestar no processo o propósito de deduzir o pedido (art. 75.º, n.º 2, CPP); se o fez, é notificado da acusação ou, não a havendo, da pronúncia, para o deduzir em 20 dias; se não o fez ou não foi notificado, pode deduzi-lo até 20 dias depois de ao arguido ser notificada a acusação ou, se a não houver, a pronúncia (art. 77.º, n.ºs 2 e 3, CPP). Quando apresentado pelo Ministério Público ou pelo assistente, o pedido é deduzido na acusação ou, em requerimento articulado, no prazo desta (art. 77.º, n.º 1, CPP). Em procedimento de excecional complexidade, os prazos dos n.ºs 2 e 3 do art. 77.º são aumentados em dobro (art. 107.º, n.º 6, CPP, na redação da Lei n.º 34/2026, de 27 de julho)
 
 ### ETAPA 2 — QUANTIFICAÇÃO DOS DANOS
 Apresenta em <quantificacao_danos>:
@@ -43,7 +45,7 @@ Apresenta em <quantificacao_danos>:
 - Lucros cessantes: rendimentos que o lesado deixou de obter
 - Dano não patrimonial (art. 496.º CC): dor, sofrimento, desfiguração, perturbação psicológica — valor justo mas não simbólico
 - Dano biológico: incapacidade permanente geral (IPG) e a sua valoração
-- Juros moratórios: desde a citação para o processo civil ou desde a data do crime (art. 805.º CC)
+- Juros moratórios: na obrigação de indemnizar por facto ilícito há mora independentemente de interpelação (art. 805.º, n.º 2, al. b), CC), mas, sendo o crédito ilíquido, o devedor só se constitui em mora desde a citação (art. 805.º, n.º 3, CC) — no pedido deduzido em processo penal, a notificação do demandado para contestar (art. 78.º, n.º 1, CPP) [■ VERIFICAR: equiparação à citação na jurisprudência]; se a indemnização for fixada por referência à data mais recente que o tribunal puder atender (art. 566.º, n.º 2, CC), confirmar na jurisprudência uniformizada do STJ o termo inicial dos juros [■ VERIFICAR]
 
 ### ETAPA 3 — ARTICULADO DO PEDIDO CÍVEL
 Redige o articulado:
@@ -58,7 +60,7 @@ Redige o articulado:
 **Mandatário:** Dr./Dra. [NOME], n.º [NÚMERO] O.A.
 
 **I — Da Admissibilidade e Legitimidade**
-[Qualidade de ofendido; princípio da adesão; ausência de exceções]
+[Qualidade de lesado (art. 74.º, n.º 1, CPP); princípio da adesão; tempestividade (art. 77.º CPP); ausência de exceções]
 
 **II — Dos Factos que Fundam a Responsabilidade**
 [Factos ilícitos praticados pelo demandado; nexo causal com os danos; culpa]
@@ -125,7 +127,19 @@ Apresenta em <checklist>:
 |---|---|---|
 | art. 71.º CPP | conferida (epígrafe) — Princípio de adesão |  |
 | art. 72.º CPP | conferida (epígrafe) — Pedido em separado |  |
+| art. 82.º, n.º 3, CPP | conferida (epígrafe) — Liquidação em execução de sentença e reenvio para os tribunais civis |  |
+| art. 74.º, n.º 1, CPP | conferida (epígrafe) — Legitimidade e poderes processuais |  |
+| art. 74.º, n.º 1, CPP | conferida (epígrafe) — Legitimidade e poderes processuais |  |
+| art. 75.º, n.º 2, CPP | conferida (epígrafe) — Dever de informação |  |
+| art. 77.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 77.º, n.ºs 2 e 3, CPP | conferida (epígrafe) — Formulação do pedido |  |
+| art. 77.º, n.º 1, CPP | conferida (epígrafe) — Formulação do pedido |  |
+| art. 107.º, n.º 6, CPP | conferida (epígrafe) — Renúncia ao decurso e prática de ato fora do prazo |  |
 | art. 496.º CC | conferida (epígrafe) — Danos não patrimoniais |  |
 | art. 496.º CC | conferida (epígrafe) — Danos não patrimoniais |  |
-| art. 805.º CC | conferida (índice) |  |
+| art. 805.º, n.º 2, al. b), CC | conferida (índice) |  |
+| art. 805.º, n.º 3, CC | conferida (índice) |  |
+| art. 78.º, n.º 1, CPP | conferida (epígrafe) — Contestação |  |
+| art. 566.º, n.º 2, CC | conferida (epígrafe) — Indemnização em dinheiro |  |
 | Arts. 71.º e ss. CPP | conferida (epígrafe) — Princípio de adesão |  |
+| art. 77.º CPP | conferida (epígrafe) — Formulação do pedido |  |

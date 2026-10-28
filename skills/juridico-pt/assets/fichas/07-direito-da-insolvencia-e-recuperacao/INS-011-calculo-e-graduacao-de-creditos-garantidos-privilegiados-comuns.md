@@ -6,7 +6,8 @@ titulo_en: "Calculation and Ranking of Claims (Secured, Preferential, Unsecured,
 descricao: "Gera análise completa de graduação dos créditos reconhecidos na insolvência, calculando a percentagem de recuperação esperada por cada classe, identificando a hierarquia legal de pagamento e simulando cenários de distribuição do produto da liquidação do ativo, nos termos dos artigos 47.º a 51.º e 172.º a 184.º do CIRE."
 descricao_en: "Generates a full analysis of the ranking of the claims recognised in the insolvency, calculating the expected recovery percentage for each class, identifying the statutory order of payment and simulating scenarios for distribution of the proceeds of the asset liquidation, under Articles 47 to 51 and 172 to 184 of the CIRE."
 ambito: nacional
-estado_citacoes: "conferidas 13 · corrigidas 2 · por conferir 0"
+estado_citacoes: "conferidas 26 · corrigidas 1 · por conferir 1"
+revisao_tecnica: "2026-10-28 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
@@ -14,7 +15,8 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 
 > **Âmbito:** nacional · **Área:** Direito da Insolvência e Recuperação · **Código:** INS-011
 > **EN:** Calculation and Ranking of Claims (Secured, Preferential, Unsecured, Subordinated). Generates a full analysis of the ranking of the claims recognised in the insolvency, calculating the expected recovery percentage for each class, identifying the statutory order of payment and simulating scenarios for distribution of the proceeds of the asset liquidation, under Articles 47 to 51 and 172 to 184 of the CIRE.
-> **Citações:** conferidas 13 · corrigidas 2 · por conferir 0. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 26 · corrigidas 1 · por conferir 1. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-28 — corrigida (4 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
 Gera análise completa de graduação dos créditos reconhecidos na insolvência, calculando a percentagem de recuperação esperada por cada classe, identificando a hierarquia legal de pagamento e simulando cenários de distribuição do produto da liquidação do ativo, nos termos dos artigos 47.º a 51.º e 172.º a 184.º do CIRE.
 
@@ -54,12 +56,15 @@ Apresenta dentro de um bloco <fundamentos_juridicos>:
    - Hipoteca: arts. 686.º e ss. Código Civil — ordem pelo registo
    - Penhor: art. 669.º Código Civil
    - Direito de retenção: art. 754.º Código Civil — preferência sobre hipoteca (art. 759.º CC)
+   - Privilégios creditórios especiais (são créditos garantidos — art. 47.º, n.º 4, al. a), CIRE), incluindo o privilégio imobiliário especial dos trabalhadores sobre o imóvel do empregador no qual prestam a atividade (art. 333.º, n.º 1, al. b), CT); os privilégios imobiliários especiais preferem à hipoteca e ao direito de retenção, ainda que anteriores (art. 751.º CC)
+   - O crédito só é garantido até ao valor do bem onerado; o saldo é incluído nos créditos comuns (arts. 47.º, n.º 4, al. a), e 174.º, n.º 1, CIRE)
 
-3. **Créditos privilegiados** — art. 47.º, n.º 4, al. b) CIRE
-   a) Privilégio especial imobiliário dos trabalhadores: art. 333.º Código do Trabalho
-   b) Privilégio geral imobiliário e mobiliário dos trabalhadores: art. 333.º CT
-   c) Privilégio geral do Estado (créditos fiscais): art. 736.º Código Civil
-   d) Privilégio da Segurança Social: legislação específica [■ VERIFICAR]
+3. **Créditos privilegiados** (privilégios creditórios gerais) — art. 47.º, n.º 4, al. a), CIRE; pagos pelos bens não afetos a garantias reais prevalecentes, segundo a prioridade que lhes caiba e, entre iguais, na proporção dos montantes (art. 175.º CIRE)
+   a) Privilégio mobiliário geral dos trabalhadores: art. 333.º, n.º 1, al. a), Código do Trabalho — graduado antes dos créditos do art. 747.º, n.º 1, CC (art. 333.º, n.º 2, al. a), CT)
+   b) Os trabalhadores não têm privilégio imobiliário geral: sobre imóveis, só o especial do art. 333.º, n.º 1, al. b), CT (ver ponto 2)
+   c) Privilégio geral do Estado (créditos fiscais): art. 736.º Código Civil; para o IRS e o IRC dos três últimos anos, privilégio mobiliário geral e privilégio imobiliário (art. 111.º CIRS e art. 116.º CIRC)
+   d) Privilégio da Segurança Social: legislação específica [■ VERIFICAR: Código dos Regimes Contributivos]
+   e) Com a declaração de insolvência extinguem-se os privilégios gerais do Estado, das autarquias locais e da segurança social constituídos mais de 12 meses antes do início do processo e os especiais vencidos mais de 12 meses antes (art. 97.º, n.º 1, als. a) e b), CIRE): excluir esses montantes da graduação privilegiada
 
 4. **Créditos comuns** — art. 47.º, n.º 4, al. c) CIRE
    - Todos os créditos sem garantia nem privilégio
@@ -67,9 +72,9 @@ Apresenta dentro de um bloco <fundamentos_juridicos>:
 
 5. **Créditos subordinados** — art. 48.º CIRE (lista taxativa)
    - Créditos de pessoas especialmente relacionadas com o devedor
-   - Juros de créditos não garantidos vencidos após a declaração
-   - Prestações acessórias de sócios
-   - Pagos por último, pro rata
+   - Juros de créditos não subordinados constituídos após a declaração, com exceção dos abrangidos por garantia real e por privilégios gerais, até ao valor dos bens respetivos (al. b))
+   - Créditos por suprimentos (al. g)), créditos de subordinação convencionada (al. c)) e créditos por prestações do devedor a título gratuito (al. d))
+   - Pagos só depois de integralmente pagos os comuns, pela ordem das alíneas do art. 48.º e, na mesma alínea, pro rata (art. 177.º, n.º 1, CIRE)
 
 ### ETAPA 3 — CONSTRUÇÃO DO CÁLCULO
 Apresenta dentro de um bloco <calculo_distribuicao>:
@@ -128,7 +133,8 @@ Taxa de recuperação: [X]% ou 0%
 Apresenta dentro de um bloco <checklist_validacao>:
 - [ ] Custas e créditos sobre a massa deduzidos em primeiro lugar (art. 172.º CIRE)
 - [ ] Créditos garantidos limitados ao produto do bem onerado
-- [ ] Privilégios laborais corretamente aplicados (arts. 333.º e 334.º CT)
+- [ ] Privilégios laborais corretamente aplicados (art. 333.º CT: imobiliário especial nos garantidos; mobiliário geral nos privilegiados)
+- [ ] Privilégios do Estado, das autarquias e da segurança social extintos pelo art. 97.º CIRE excluídos
 - [ ] Privilégios fiscais e da SS identificados
 - [ ] Créditos comuns pagos pro rata com o remanescente
 - [ ] Créditos subordinados identificados (art. 48.º CIRE)
@@ -187,12 +193,25 @@ Apresenta dentro de um bloco <checklist_validacao>:
 | art. 669.º Código Civil | conferida (epígrafe) — Constituição do penhor |  |
 | art. 754.º Código Civil | conferida (epígrafe) — Quando existe |  |
 | art. 759.º CC | conferida (epígrafe) — Retenção de coisas imóveis |  |
-| art. 47.º, n.º 4, al. b) CIRE | conferida (índice) |  |
-| art. 333.º Código do Trabalho | conferida (epígrafe) — Privilégios creditórios |  |
-| art. 333.º CT | corrigida — Privilégios creditórios | o número citado no catálogo não correspondia à epígrafe |
+| art. 47.º, n.º 4, al. a), CIRE | conferida (índice) |  |
+| art. 47.º, n.º 4, al. a), CIRE | conferida (índice) |  |
+| art. 333.º, n.º 1, al. b), CT | conferida (epígrafe) — Privilégios creditórios |  |
+| art. 333.º, n.º 1, al. b), CT | conferida (epígrafe) — Privilégios creditórios |  |
+| art. 751.º CC | conferida (epígrafe) — Privilégio imobiliário especial e direitos de terceiro |  |
+| arts. 47.º, n.º 4, al. a), e 174.º, n.º 1, CIRE | conferida (índice) |  |
+| art. 175.º CIRE | conferida (epígrafe) — Pagamento aos credores privilegiados |  |
+| art. 333.º, n.º 1, al. a), Código do Trabalho | conferida (epígrafe) — Privilégios creditórios |  |
+| art. 747.º, n.º 1, CC | conferida (epígrafe) — Ordem dos outros privilégios mobiliários |  |
+| art. 333.º, n.º 2, al. a), CT | conferida (epígrafe) — Privilégios creditórios |  |
 | art. 736.º Código Civil | conferida (epígrafe) — Créditos do Estado e das autarquias locais |  |
+| art. 111.º CIRS | conferida (epígrafe) — Privilégios creditórios |  |
+| art. 116.º CIRC | conferida (epígrafe) — Privilégios creditórios |  |
+| art. 97.º, n.º 1, als. a) e b), CIRE | conferida (epígrafe) — Extinção de privilégios creditórios e garantias reais |  |
 | art. 47.º, n.º 4, al. c) CIRE | conferida (índice) |  |
 | art. 48.º CIRE | conferida (índice) |  |
+| art. 48.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 48.º CIRE | conferida (índice) |  |
+| art. 177.º, n.º 1, CIRE | conferida (epígrafe) — Pagamento aos credores subordinados |  |
 | art. 172.º CIRE | corrigida — Pagamento das dívidas da massa | o número citado no catálogo não correspondia à epígrafe |
-| arts. 333.º e 334.º CT | conferida (epígrafe) — Privilégios creditórios |  |
+| art. 333.º CT | conferida (epígrafe) — Privilégios creditórios |  |
+| art. 97.º CIRE | conferida (epígrafe) — Extinção de privilégios creditórios e garantias reais |  |

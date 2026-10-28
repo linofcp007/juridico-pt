@@ -6,7 +6,8 @@ titulo_en: "Legal Opinion on Expiry of the Right to Assess and Limitation of the
 descricao: "Produz um parecer jurídico sobre a verificação da caducidade do direito à liquidação de imposto (art. 45.º LGT) e/ou da prescrição da dívida tributária (arts. 48.º e 49.º LGT), com cálculo dos prazos, identificação das causas de interrupção e suspensão e conclusão sobre se o imposto pode ainda ser liquidado ou cobrado."
 descricao_en: "Produces a legal opinion on whether the right to assess tax has expired (caducidade, Article 45 LGT) and/or the tax debt is time-barred (prescrição, Articles 48 and 49 LGT), calculating the time limits, identifying the causes of interruption and suspension and concluding whether the tax can still be assessed or collected."
 ambito: nacional
-estado_citacoes: "conferidas 10 · corrigidas 0 · por conferir 0"
+estado_citacoes: "conferidas 30 · corrigidas 0 · por conferir 2"
+revisao_tecnica: "2026-10-28 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
@@ -14,7 +15,8 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 
 > **Âmbito:** nacional · **Área:** Direito Fiscal e Tributário · **Código:** FIS-030
 > **EN:** Legal Opinion on Expiry of the Right to Assess and Limitation of the Tax Debt. Produces a legal opinion on whether the right to assess tax has expired (caducidade, Article 45 LGT) and/or the tax debt is time-barred (prescrição, Articles 48 and 49 LGT), calculating the time limits, identifying the causes of interruption and suspension and concluding whether the tax can still be assessed or collected.
-> **Citações:** conferidas 10 · corrigidas 0 · por conferir 0. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 30 · corrigidas 0 · por conferir 2. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-28 — corrigida (4 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
 Produz um parecer jurídico sobre a verificação da caducidade do direito à liquidação de imposto (art. 45.º LGT) e/ou da prescrição da dívida tributária (arts. 48.º e 49.º LGT), com cálculo dos prazos, identificação das causas de interrupção e suspensão e conclusão sobre se o imposto pode ainda ser liquidado ou cobrado.
 
@@ -26,22 +28,24 @@ Ficha de trabalho para preparar este documento. As regras da casa prevalecem sob
 - NUNCA inventes datas, eventos de interrupção ou prazos sem base nos factos fornecidos
 - Marca [■ VERIFICAR: o que falta] para datas ou eventos que precisam de confirmação
 - CADUCIDADE (art. 45.º LGT):
-  * Prazo geral: 4 anos
-  * Conta a partir do: início do ano seguinte àquele em que se verificou o facto tributário (impostos periódicos) ou da data do facto (outros)
-  * Suspensão: durante pedido de informação vinculativa, durante inspeção notificada, durante impugnação de ato de avaliação
-  * A liquidação NOTIFICADA dentro do prazo interrompe/impede a caducidade
+  * Prazo geral: 4 anos (art. 45.º, n.º 1, LGT); 3 anos em caso de erro evidenciado na declaração do sujeito passivo (n.º 2); 12 anos nos factos conexos com territórios de regime fiscal claramente mais favorável ou com contas no estrangeiro não declaradas (n.º 7); alargado até ao arquivamento ou trânsito em julgado, acrescido de um ano, se houver inquérito criminal sobre os factos (n.º 5)
+  * Conta a partir do: termo do ano em que se verificou o facto tributário (impostos periódicos) ou da data do facto (impostos de obrigação única); no IVA e na retenção na fonte a título definitivo, do início do ano civil seguinte ao da exigibilidade do imposto ou do facto tributário (art. 45.º, n.º 4, LGT)
+  * Suspensão (art. 46.º LGT): notificação do início de inspeção externa (o efeito cessa se a inspeção ultrapassar seis meses, acrescidos do período de suspensão do prazo do procedimento — n.º 1); litígio judicial de que dependa a liquidação; benefícios fiscais contratuais ou condicionados; liquidação que resulte de reclamação ou impugnação; pedido de revisão da matéria coletável (n.º 2); procedimento de perda de benefícios fiscais (n.º 3)
+  * A liquidação validamente NOTIFICADA dentro do prazo impede a caducidade; as notificações sob registo consideram-se feitas no 3.º dia posterior ao registo (art. 45.º, n.ºs 1 e 6, LGT)
 - PRESCRIÇÃO (arts. 48.º e 49.º LGT):
-  * Prazo: 8 anos
-  * Conta a partir do: início do ano seguinte ao do facto tributário (impostos periódicos)
-  * INTERRUPÇÃO (reinicia o prazo):
-    - Citação pessoal do devedor na execução fiscal
-    - Reclamação graciosa, recurso hierárquico, impugnação judicial, pedido de revisão
-    - Pedido de pagamento em prestações
-    - Nota: desde a reforma de 2012, a interrupção só produz efeito UMA vez quanto a atos do sujeito passivo [■ VERIFICAR: jurisprudência do STA sobre limite de interrupção]
-  * SUSPENSÃO (pausa no prazo, sem reinício):
-    - Reclamação, recurso, impugnação ou oposição à execução que tiver efeito suspensivo
-    - Pagamento em prestações autorizado
-    - Insolvência ou processo de recuperação
+  * Prazo: 8 anos (15 anos nos casos do n.º 7 do art. 45.º — art. 48.º, n.º 4, LGT)
+  * Conta a partir do: termo do ano em que se verificou o facto tributário (impostos periódicos) ou da data do facto (impostos de obrigação única); no IVA e na retenção na fonte a título definitivo, do início do ano civil seguinte (art. 48.º, n.º 1, LGT)
+  * INTERRUPÇÃO (art. 49.º, n.º 1, LGT — inutiliza o tempo decorrido):
+    - Citação na execução fiscal
+    - Reclamação graciosa, recurso hierárquico, impugnação judicial, pedido de revisão oficiosa da liquidação
+    - A interrupção tem lugar UMA ÚNICA VEZ, com o facto que se verificar em primeiro lugar, seja qual for (art. 49.º, n.º 3, LGT, na redação da Lei n.º 53-A/2006); a cessação do efeito interruptivo por paragem do processo durante mais de um ano (antigo n.º 2) foi revogada e só releva nos prazos em que, à data da revogação, já tivesse decorrido mais de um ano de paragem (art. 91.º da Lei n.º 53-A/2006)
+    - Se o primeiro facto interruptivo for a citação, ponderar se o novo prazo só corre após o fim do processo (art. 327.º, n.º 1, CC) [■ VERIFICAR: jurisprudência do STA sobre o efeito duradouro da citação na execução fiscal]
+    - A interrupção quanto ao devedor principal não produz efeitos quanto ao responsável subsidiário citado depois do 5.º ano posterior ao da liquidação (art. 48.º, n.º 3, LGT)
+  * SUSPENSÃO (pausa no prazo, sem reinício — art. 49.º, n.ºs 4 e 5, LGT):
+    - Pagamento em prestações legalmente autorizadas
+    - Reclamação, impugnação, recurso ou oposição, enquanto não houver decisão definitiva, quando determinem a suspensão da cobrança da dívida
+    - Impugnação pauliana intentada pelo Ministério Público; impedimento legal à venda de imóvel afeto a habitação própria e permanente; reclamação do art. 276.º CPPT que impeça atos coercivos; prazo do n.º 3 do art. 169.º CPPT; inquérito criminal, até ao arquivamento ou trânsito em julgado
+    - Declaração de insolvência do devedor, durante o processo (art. 100.º CIRE)
 
 ---
 
@@ -100,8 +104,9 @@ CONCLUSÃO: [A liquidação foi emitida dentro / fora do prazo — caducidade ve
 **IV — PRESCRIÇÃO DA DÍVIDA TRIBUTÁRIA (arts. 48.º e 49.º LGT)**
 Prazo de prescrição: 8 anos desde [data de início]
 Data em que prescreveria sem interrupções: [data]
-Causas de interrupção: [descrição e datas — reiniciam o prazo de 8 anos]
-Novo prazo após última interrupção: 8 anos desde [data da interrupção]
+Facto interruptivo relevante — só o primeiro (art. 49.º, n.º 3, LGT): [descrição e data — inutiliza o tempo decorrido]
+Novo prazo de 8 anos a partir desse facto: [data] [■ VERIFICAR: se o facto for a citação, efeito duradouro (art. 327.º, n.º 1, CC) segundo a jurisprudência do STA]
+Períodos de suspensão (art. 49.º, n.ºs 4 e 5, LGT): [causa, início e fim de cada um]
 Prescreve em: [data]
 CONCLUSÃO: [A dívida está / não está prescrita em [data atual]]
 
@@ -115,7 +120,7 @@ Apresenta em <checklist_validacao>:
 - [ ] Notificação da liquidação verificada (confirma se foi dentro/fora do prazo)
 - [ ] Prazo de prescrição de 8 anos calculado
 - [ ] Causas de interrupção identificadas com datas precisas
-- [ ] Efeito de cada interrupção analisado (reinício do prazo de 8 anos)
+- [ ] Só o primeiro facto interruptivo considerado (art. 49.º, n.º 3, LGT) e períodos de suspensão somados (art. 49.º, n.ºs 4 e 5, LGT)
 - [ ] Conclusão clara e objetiva
 - [ ] Pontos [■ VERIFICAR] sinalizados
 
@@ -143,9 +148,9 @@ Apresenta em <checklist_validacao>:
 - Impugnação judicial / arbitragem CAAD: [data — estado]
 - Pedido de prestações / oposição / outro: [data]
 
-**SUSPENSÕES DA CADUCIDADE:**
-- Pedido de informação vinculativa: [data início — data fim]
-- Notificação de inspeção tributária: [data início — data fim]
+**SUSPENSÕES DA CADUCIDADE (art. 46.º LGT):**
+- Inspeção externa: [data da notificação do início — data da conclusão]
+- Litígio judicial de que dependa a liquidação / pedido de revisão da matéria coletável: [data início — data fim]
 - Outro: [descrever]
 
 ## Citações desta ficha
@@ -153,12 +158,34 @@ Apresenta em <checklist_validacao>:
 | Citação | Estado | Nota |
 |---|---|---|
 | art. 45.º LGT | conferida (epígrafe) — Caducidade do direito à liquidação |  |
+| art. 45.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 45.º LGT | conferida (epígrafe) — Caducidade do direito à liquidação |  |
+| art. 45.º, n.º 1, LGT | conferida (epígrafe) — Caducidade do direito à liquidação |  |
+| art. 45.º, n.º 4, LGT | conferida (epígrafe) — Caducidade do direito à liquidação |  |
+| art. 46.º LGT | conferida (epígrafe) — Suspensão do prazo de caducidade |  |
+| art. 46.º LGT | conferida (epígrafe) — Suspensão do prazo de caducidade |  |
+| art. 46.º LGT | conferida (epígrafe) — Suspensão do prazo de caducidade |  |
+| art. 46.º LGT | conferida (epígrafe) — Suspensão do prazo de caducidade |  |
+| art. 45.º, n.ºs 1 e 6, LGT | conferida (epígrafe) — Caducidade do direito à liquidação |  |
 | arts. 48.º e 49.º LGT | conferida (epígrafe) — Prescrição |  |
 | arts. 48.º e 49.º LGT | conferida (epígrafe) — Prescrição |  |
+| art. 48.º, n.º 4, LGT | conferida (epígrafe) — Prescrição |  |
+| art. 48.º, n.º 1, LGT | conferida (epígrafe) — Prescrição |  |
+| art. 49.º, n.º 1, LGT | conferida (epígrafe) — Interrupção e suspensão da prescrição |  |
+| art. 49.º, n.º 3, LGT | conferida (epígrafe) — Interrupção e suspensão da prescrição |  |
+| art. 49.º, n.º 3, LGT | conferida (epígrafe) — Interrupção e suspensão da prescrição |  |
+| art. 49.º, n.º 3, LGT | conferida (epígrafe) — Interrupção e suspensão da prescrição |  |
+| art. 91.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 327.º, n.º 1, CC | conferida (índice) |  |
+| art. 327.º, n.º 1, CC | conferida (índice) |  |
+| art. 48.º, n.º 3, LGT | conferida (epígrafe) — Prescrição |  |
+| art. 49.º, n.ºs 4 e 5, LGT | conferida (epígrafe) — Interrupção e suspensão da prescrição |  |
+| art. 49.º, n.ºs 4 e 5, LGT | conferida (epígrafe) — Interrupção e suspensão da prescrição |  |
+| art. 49.º, n.ºs 4 e 5, LGT | conferida (epígrafe) — Interrupção e suspensão da prescrição |  |
+| art. 276.º CPPT | conferida (epígrafe) — Reclamações das decisões do órgão da execução fiscal |  |
+| art. 169.º CPPT | conferida (epígrafe) — Suspensão da execução. Garantias |  |
+| art. 100.º CIRE | conferida (epígrafe) — Suspensão da prescrição e caducidade |  |
 | Art. 45.º LGT | conferida (epígrafe) — Caducidade do direito à liquidação |  |
 | Art. 46.º LGT | conferida (epígrafe) — Suspensão do prazo de caducidade |  |
 | Art. 48.º LGT | conferida (epígrafe) — Prescrição |  |
 | Art. 49.º LGT | conferida (epígrafe) — Interrupção e suspensão da prescrição |  |
-| art. 46.º LGT | conferida (epígrafe) — Suspensão do prazo de caducidade |  |
-| art. 46.º LGT | conferida (epígrafe) — Suspensão do prazo de caducidade |  |

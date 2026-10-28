@@ -6,7 +6,8 @@ titulo_en: "Statement of Claim for Medical Malpractice (against a Doctor/Private
 descricao: "Gera uma petição inicial completa para ação de responsabilidade civil contra médico e/ou clínica privada, com qualificação das partes, narração dos factos, fundamentação jurídica em responsabilidade civil contratual e extracontratual, e pedidos de indemnização por danos patrimoniais e não patrimoniais."
 descricao_en: "Generates a complete statement of claim (petição inicial) for a civil liability action against a doctor and/or private clinic, with identification of the parties, statement of facts, legal grounds in contractual and non-contractual (tortious) civil liability, and claims for compensation for pecuniary and non-pecuniary damage."
 ambito: nacional
-estado_citacoes: "conferidas 13 · corrigidas 1 · por conferir 1"
+estado_citacoes: "conferidas 20 · corrigidas 0 · por conferir 1"
+revisao_tecnica: "2026-10-28 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
@@ -14,7 +15,8 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 
 > **Âmbito:** nacional · **Área:** Direito da Saúde e Responsabilidade Médica · **Código:** SAU-001
 > **EN:** Statement of Claim for Medical Malpractice (against a Doctor/Private Clinic). Generates a complete statement of claim (petição inicial) for a civil liability action against a doctor and/or private clinic, with identification of the parties, statement of facts, legal grounds in contractual and non-contractual (tortious) civil liability, and claims for compensation for pecuniary and non-pecuniary damage.
-> **Citações:** conferidas 13 · corrigidas 1 · por conferir 1. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 20 · corrigidas 0 · por conferir 1. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-28 — corrigida (7 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
 Gera uma petição inicial completa para ação de responsabilidade civil contra médico e/ou clínica privada, com qualificação das partes, narração dos factos, fundamentação jurídica em responsabilidade civil contratual e extracontratual, e pedidos de indemnização por danos patrimoniais e não patrimoniais.
 
@@ -28,7 +30,7 @@ Ficha de trabalho para preparar este documento. As regras da casa prevalecem sob
 - Cita o Código Civil (CC), a Lei de Bases da Saúde (Lei n.º 95/2019), o CPC e legislação aplicável
 - Distingue responsabilidade contratual (art. 798.º CC) de extracontratual (art. 483.º CC) conforme o caso
 - Pedidos com alíneas (a), b), c)) e valores individualizados
-- Inclui sempre: juros de mora (art. 806.º CC), custas e honorários
+- Inclui sempre: juros de mora (arts. 805.º, n.º 3, e 806.º CC) e custas, incluindo as custas de parte (art. 533.º CPC); os honorários do mandatário só são compensados dentro das custas de parte, com o limite do art. 26.º, n.º 3, al. c), do Regulamento das Custas Processuais
 
 ---
 
@@ -44,7 +46,7 @@ Apresenta dentro de um bloco <analise_do_caso>:
 - Necessidade de perícia médico-legal para provar nexo causal
 - Danos patrimoniais: despesas médicas, perda de rendimento, cuidados futuros
 - Danos não patrimoniais: sofrimento, angústia, dano estético, dano à vida de relação
-- Prescrição: prazo de 3 anos (art. 498.º CC) a contar do conhecimento do direito
+- Prescrição: prazo de 3 anos (art. 498.º CC) a contar do conhecimento do direito, na responsabilidade extracontratual (ou o prazo mais longo se o facto constituir crime — art. 498.º, n.º 3, CC); na responsabilidade contratual, o prazo ordinário de 20 anos (art. 309.º CC)
 
 ### ETAPA 2 — ANÁLISE JURÍDICA (Fundamentação)
 Apresenta dentro de um bloco <fundamentos_juridicos>:
@@ -54,7 +56,7 @@ Apresenta dentro de um bloco <fundamentos_juridicos>:
 - Art. 562.º e ss. CC — reconstituição natural e indemnização
 - Obrigação de meios vs. obrigação de resultado (posição dominante na doutrina e jurisprudência portuguesas)
 - Lei de Bases da Saúde (Lei n.º 95/2019): direitos do doente, dever de cuidado
-- Lei n.º 15/2014 (Lei consolidada dos direitos e deveres do utente): art. 5.º e ss.
+- Lei n.º 15/2014 (direitos e deveres do utente dos serviços de saúde): arts. 3.º (consentimento ou recusa livre e esclarecido), 4.º (direito aos cuidados mais adequados e tecnicamente mais corretos) e 7.º (direito à informação)
 - Estatuto da Ordem dos Médicos: deveres deontológicos relevantes
 - [■ VERIFICAR: acórdão do STJ ou Tribunal da Relação da jurisdição competente sobre erro médico do mesmo tipo]
 
@@ -75,7 +77,7 @@ AO TRIBUNAL JUDICIAL DA COMARCA DE [COMARCA]
 
 **2. IDENTIFICAÇÃO DAS PARTES**
 - Autor/a: nome completo, NIF, morada, email, telefone; representado pelo advogado [nome], inscrito na Ordem dos Advogados sob o n.º [número], com escritório em [morada]
-- Réu/Ré 1 (médico/a): nome completo, número de cédula profissional OMD, morada profissional
+- Réu/Ré 1 (médico/a): nome completo, número de cédula profissional da Ordem dos Médicos (ou da Ordem dos Médicos Dentistas, se for médico dentista), morada profissional
 - Réu/Ré 2 (clínica/estabelecimento): denominação, NIF/NIPC, sede, representante legal
 
 **3. FORMA DO PROCESSO**
@@ -100,8 +102,8 @@ Fundamentação por bloco temático:
 a) Declarar que os Réus são solidariamente responsáveis pelos danos causados ao/à Autor/a — fundamentação legal
 b) Condená-los a pagar indemnização por danos patrimoniais: [valor] € — discriminar rubricas
 c) Condená-los a pagar indemnização por danos não patrimoniais: [valor] € (art. 496.º CC)
-d) Acrescer juros de mora à taxa legal desde a citação até integral pagamento (art. 806.º CC)
-e) Condenar os Réus nas custas e nos honorários de advogado (art. 527.º CPC)
+d) Acrescer juros de mora à taxa legal desde a citação até integral pagamento (arts. 805.º, n.º 3, e 806.º CC); quanto às quantias fixadas a valores atualizados à data da decisão (art. 566.º, n.º 2, CC), os juros contam-se desde a decisão atualizadora (Acórdão Uniformizador de Jurisprudência do STJ n.º 4/2002)
+e) Condenar os Réus nas custas do processo, incluindo as custas de parte (arts. 527.º e 533.º CPC)
 [Valor total da causa: [valor] €]
 
 **7. REQUERIMENTOS DE PROVA**
@@ -116,7 +118,7 @@ Apresenta dentro de um bloco <checklist_validacao>:
 - [ ] Identificação completa de todos os réus (médico e estabelecimento, se for o caso)
 - [ ] Qualificação da responsabilidade (contratual vs. extracontratual) corretamente fundamentada
 - [ ] Nexo causal descrito com precisão factual
-- [ ] Prazo de prescrição verificado (3 anos — art. 498.º CC)
+- [ ] Prazo de prescrição verificado (3 anos — art. 498.º CC, na responsabilidade extracontratual; 20 anos — art. 309.º CC, na contratual)
 - [ ] Danos patrimoniais discriminados e documentados
 - [ ] Danos não patrimoniais fundamentados no art. 496.º CC
 - [ ] Pedido de perícia médico-legal incluído
@@ -144,7 +146,7 @@ Apresenta dentro de um bloco <checklist_validacao>:
 **RÉU 1 — MÉDICO/A:**
 - Nome: [nome]
 - Especialidade: [especialidade]
-- N.º cédula OMD: [número] (se conhecido)
+- N.º de cédula profissional (Ordem dos Médicos ou, se médico dentista, Ordem dos Médicos Dentistas): [número] (se conhecido)
 - Morada profissional: [morada]
 
 **RÉU 2 — CLÍNICA/HOSPITAL PRIVADO:**
@@ -183,16 +185,22 @@ Apresenta dentro de um bloco <checklist_validacao>:
 |---|---|---|
 | art. 798.º CC | conferida (índice) |  |
 | art. 483.º CC | conferida (índice) |  |
-| art. 806.º CC | conferida (índice) |  |
-| art. 806.º CC | conferida (índice) |  |
+| arts. 805.º, n.º 3, e 806.º CC | conferida (índice) |  |
+| arts. 805.º, n.º 3, e 806.º CC | conferida (índice) |  |
+| art. 533.º CPC | conferida (epígrafe) — Custas de parte |  |
+| art. 26.º, n.º 3, al. c), do Regulamento das Custas Processuais | conferida (índice) |  |
 | art. 498.º CC | conferida (epígrafe) — Prescrição |  |
 | art. 498.º CC | conferida (epígrafe) — Prescrição |  |
+| art. 498.º, n.º 3, CC | conferida (epígrafe) — Prescrição |  |
+| art. 309.º CC | conferida (índice) |  |
+| art. 309.º CC | conferida (índice) |  |
 | Art. 483.º CC | conferida (índice) |  |
 | Art. 798.º CC | conferida (índice) |  |
 | Art. 496.º CC | conferida (epígrafe) — Danos não patrimoniais |  |
 | Art. 562.º e ss. CC | conferida (epígrafe) — Princípio geral |  |
-| art. 5.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| arts. 3.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 546.º CPC | conferida (epígrafe) — Processo comum e processos especiais |  |
 | art. 496.º CC | conferida (epígrafe) — Danos não patrimoniais |  |
 | art. 496.º CC | conferida (epígrafe) — Danos não patrimoniais |  |
-| art. 527.º CPC | corrigida — Regra geral em matéria de custas | o número citado no catálogo não correspondia à epígrafe |
+| art. 566.º, n.º 2, CC | conferida (epígrafe) — Indemnização em dinheiro |  |
+| arts. 527.º e 533.º CPC | conferida (epígrafe) — Regra geral em matéria de custas |  |

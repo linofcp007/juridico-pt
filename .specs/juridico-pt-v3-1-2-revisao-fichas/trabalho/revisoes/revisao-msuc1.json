@@ -1,0 +1,739 @@
+[
+ {
+  "codigo": "SUC-004",
+  "veredicto": "corrigida",
+  "resumo": "A ficha impunha um «prazo máximo de vinte e cinco anos» ao fideicomisso, que o Código Civil não prevê (o art. 2293.º CC regula a devolução da herança ao fideicomissário por morte do fiduciário), descrevia mal a substituição direta e omitia a proibição de encargos sobre a legítima. Atribuía ainda ao fiduciário um inventário «no prazo de [prazo]», contas anuais como dever legal e uma administração «sob fiscalização do Ministério Público» sem base legal. Corrigi segundo os arts. 2033.º, 2163.º, 2281.º, 2288.º a 2293.º, 1468.º e 1888.º CC: um só grau, nulidade do grau excedente com a cláusula tida por não escrita, devolução por morte do fiduciário, relação de bens segundo as regras do usufruto e capacidade sucessória do fideicomissário.",
+  "substituicoes": [
+   {
+    "de": "; o fideicomissário deve ser pessoa determinada ou determinável à data da abertura da sucessão; prazo máximo de vinte e cinco anos se o fideicomissário não for nascituro (art. 2293.º CC).",
+    "para": "; o fideicomissário tem de ter capacidade sucessória, que na sucessão testamentária abrange os nascituros não concebidos filhos de pessoa determinada, viva ao tempo da abertura da sucessão (art. 2033.º CC); a herança devolve-se ao fideicomissário no momento da morte do fiduciário e, se ele então não puder ou não quiser aceitar, a substituição fica sem efeito (art. 2293.º CC); o testador não pode impor encargos sobre a legítima contra a vontade do herdeiro (art. 2163.º CC). O Código Civil não fixa prazo máximo de duração do fideicomisso.",
+    "motivo": "Não existe no Código Civil o prazo de vinte e cinco anos: o art. 2293.º CC regula a devolução ao fideicomissário; a capacidade do fideicomissário resulta do art. 2033.º CC e o limite quanto à legítima do art. 2163.º CC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2293&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Riscos específicos do fideicomisso (prazo, número de graus, capacidade do fideicomissário)",
+    "para": "- Riscos específicos do fideicomisso (número de graus, oneração da legítima, capacidade do fideicomissário)",
+    "motivo": "O fideicomisso não tem prazo legal; o risco real é onerar a legítima contra a vontade do herdeiro (art. 2163.º CC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2163&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "substituto chama-se quando o substituto pré-morre, repudia ou é incapaz",
+    "para": "o substituto é chamado se o herdeiro instituído não puder (pré-morte, incapacidade) ou não quiser (repúdio) aceitar a herança; prevendo o testador só um destes casos, entende-se ter querido abranger o outro, salvo declaração em contrário (art. 2281.º, n.º 2, CC)",
+    "motivo": "Quem pré-morre, repudia ou é incapaz é o herdeiro instituído, não o substituto (art. 2281.º CC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2281&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "— Prazo máximo: 25 anos se o fideicomissário não for nascituro (art. 2293.º CC)",
+    "para": "— Devolução: a herança devolve-se ao fideicomissário no momento da morte do fiduciário; se o fideicomissário não puder ou não quiser aceitar, a substituição fica sem efeito e a titularidade dos bens considera-se adquirida definitivamente pelo fiduciário desde a morte do testador (art. 2293.º CC); não há prazo máximo legal\n  — Legítima: o testador não pode impor encargos sobre a legítima contra a vontade do herdeiro (art. 2163.º CC); o fideicomisso deve onerar só a quota disponível ou contar com a aceitação do legitimário",
+    "motivo": "Prazo de vinte e cinco anos inexistente; o art. 2293.º CC trata da devolução ao fideicomissário. Acrescenta-se o limite do art. 2163.º CC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2293&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Consequências da nulidade de graus de substituição excedentes (art. 2287.º n.º 2 CC)",
+    "para": "- Consequências da nulidade de graus de substituição excedentes: são nulas as substituições fideicomissárias em mais de um grau (art. 2288.º CC), mas a nulidade não envolve a da instituição ou da substituição anterior; tem-se por não escrita a cláusula fideicomissária, salvo se o contrário resultar do testamento (art. 2289.º CC)",
+    "motivo": "O art. 2287.º CC trata da substituição plural; o limite de um grau está no art. 2288.º CC e o efeito da nulidade no art. 2289.º CC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2288&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "c) Elaborar inventário dos bens fideicomissos no prazo de [prazo — art. 2289.º CC];",
+    "para": "c) Relacionar os bens fideicomissos, declarando o seu estado e o valor dos móveis, antes de tomar conta deles (art. 2290.º, n.º 2, e art. 1468.º, al. a), CC);",
+    "motivo": "A lei não fixa prazo para o inventário: aplicam-se ao fiduciário as regras do usufruto (art. 2290.º, n.º 2, CC), que impõem a relação dos bens antes de o usufrutuário tomar conta deles (art. 1468.º CC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1468&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "d) Prestar contas anuais ao fideicomissário ou ao seu representante legal.",
+    "para": "d) [Opcional — encargo imposto pelo testador, sem previsão legal:] Prestar contas anuais ao fideicomissário ou ao seu representante legal [■ VERIFICAR: validade e alcance do encargo no caso concreto].",
+    "motivo": "O fiduciário tem o gozo e a administração dos bens com as regras do usufruto (art. 2290.º CC); a prestação de contas anual não é dever legal e só pode resultar de encargo do testador.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2290&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "[Se o fideicomissário for menor ou incapaz:]\nAté à maioridade / cessação da incapacidade do fideicomissário, os bens ficam sujeitos à administração do fiduciário sob fiscalização do Ministério Público.",
+    "para": "[Se o fideicomissário for menor ou maior acompanhado à data da morte do fiduciário:]\nOs bens que lhe forem devolvidos são administrados pelos seus representantes legais, nos termos gerais; querendo, o testador pode deixá-los com exclusão da administração dos pais (art. 1888.º, n.º 1, al. c), CC) [■ VERIFICAR: designação de quem os administra e regime do maior acompanhado].",
+    "motivo": "Durante a vida do fiduciário a administração já lhe cabe (art. 2290.º, n.º 1, CC); a devolução dá-se por morte dele (art. 2293.º CC). Não há administração «sob fiscalização do Ministério Público»; o testador pode excluir a administração dos pais (art. 1888.º CC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1888&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "[■ VERIFICAR: confirmar que o fideicomissário é pessoa determinada ou determinável à data da abertura da sucessão — requisito de validade]",
+    "para": "[■ VERIFICAR: capacidade sucessória do fideicomissário (art. 2033.º CC) e, se for nascituro não concebido, que seja filho de pessoa determinada, viva ao tempo da abertura da sucessão]",
+    "motivo": "O requisito legal é o da capacidade sucessória do art. 2033.º CC, que admite nascituros não concebidos filhos de pessoa determinada.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2033&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Prazo não excede 25 anos (art. 2293.º CC) — ou justificação se nascituro",
+    "para": "- [ ] O fideicomisso não onera a legítima contra a vontade do herdeiro legitimário (art. 2163.º CC)",
+    "motivo": "Prazo de vinte e cinco anos inexistente; o limite a verificar é o do art. 2163.º CC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2163&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Data de nascimento: [data] — (relevante para verificar o prazo de 25 anos)",
+    "para": "- Data de nascimento: [data] — (se ainda não estiver concebido: identificação dos pais, para a capacidade sucessória — art. 2033.º, n.º 2, al. a), CC)",
+    "motivo": "O prazo de vinte e cinco anos não existe; a data só releva para a capacidade sucessória (art. 2033.º CC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2033&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar que o fideicomisso recai só sobre a quota disponível ou que o legitimário o aceita (art. 2163.º CC).",
+   "Na pré-morte do fideicomissário não há representação (art. 2041.º, n.º 2, al. b), CC): a substituição fica sem efeito (art. 2293.º, n.º 2, CC), salvo nova disposição do testador.",
+   "Avaliar se a prestação de contas anual e outros deveres do fiduciário devem constar como encargo testamentário, e a sua validade."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2281&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2286&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2292&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2033&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2039&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2163&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1468&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1888&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+  ]
+ },
+ {
+  "codigo": "SUC-006",
+  "veredicto": "corrigida",
+  "resumo": "A ficha exigia sempre escritura pública ou termo judicial para o repúdio e tratava o art. 2067.º CC como uma impugnação do repúdio pelos credores. O art. 2063.º CC sujeita o repúdio à forma da alienação da herança (art. 2126.º CC): escritura pública ou documento particular autenticado se houver imóveis, documento particular nos demais casos. O art. 2067.º CC dá aos credores a faculdade de aceitar a herança em nome do repudiante no prazo de seis meses. Corrigi ainda a anulação por dolo ou coação (art. 2065.º CC), os limites da representação (arts. 2041.º e 2042.º CC), o acrescimento na sucessão legal (art. 2137.º CC) e a nota fiscal sem sentido sobre «colação para efeitos fiscais».",
+  "substituicoes": [
+   {
+    "de": "— Forma obrigatória: declaração por escritura pública ou termo em processo judicial (art. 2063.º CC)",
+    "para": "— Forma: a exigida para a alienação da herança (art. 2063.º CC), ou seja, escritura pública ou documento particular autenticado se a herança tiver bens cuja alienação exija uma dessas formas, como imóveis, e documento particular nos demais casos (art. 2126.º CC)",
+    "motivo": "O art. 2063.º CC remete para a forma da alienação da herança, que o art. 2126.º CC fixa; não se exige sempre escritura pública nem termo judicial.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2062&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": " — salvo se o repúdio foi obtido por dolo ou coação",
+    "para": "; o repúdio é anulável por dolo ou coação, mas não com fundamento em simples erro (art. 2065.º CC)",
+    "motivo": "A anulação por dolo ou coação está no art. 2065.º CC e não é exceção à irrevogabilidade do art. 2066.º CC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2062&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "— Proibição de repúdio em prejuízo dos credores: art. 2067.º CC — credores podem impugnar",
+    "para": "— Sub-rogação dos credores: os credores do repudiante podem aceitar a herança em nome dele, nos termos dos arts. 606.º e seguintes CC, no prazo de seis meses a contar do conhecimento do repúdio; pagos os credores, o remanescente não aproveita ao repudiante, mas aos herdeiros imediatos (art. 2067.º CC)",
+    "motivo": "O art. 2067.º CC não proíbe o repúdio nem prevê a sua impugnação: permite aos credores aceitar a herança em nome do repudiante, em seis meses.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2067&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Direito de representação após repúdio: os filhos",
+    "para": "- Direito de representação após repúdio (na sucessão legal, só em benefício dos descendentes de filho ou de irmão do falecido — art. 2042.º CC; na testamentária, nos termos e com as exceções do art. 2041.º CC): os descendentes",
+    "motivo": "A representação não aproveita a quaisquer descendentes do repudiante: na sucessão legal só tem lugar nos termos do art. 2042.º CC e na testamentária nos do art. 2041.º CC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2039&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Acrescimento: quando não há representação, o quinhão acresce ao dos demais herdeiros (art. 2301.º CC)",
+    "para": "- Acrescimento: quando não há representação, a parte do repudiante acresce à dos outros sucessíveis da mesma classe na sucessão legal (art. 2137.º, n.º 2, CC) ou à dos co-herdeiros instituídos na sucessão testamentária (art. 2301.º CC); se todos os da mesma classe repudiarem, são chamados os sucessores imediatos (art. 2137.º, n.º 1, CC)",
+    "motivo": "O art. 2301.º CC só regula o acrescer entre herdeiros testamentários; na sucessão legal aplica-se o art. 2137.º CC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2137&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Consequências fiscais: [■ VERIFICAR: regime do Imposto do Selo sobre transmissões gratuitas — pode haver colação para efeitos fiscais mesmo com repúdio]",
+    "para": "- Consequências fiscais: o repudiante considera-se não chamado (art. 2062.º CC), pelo que o Imposto do Selo da verba 1.2 da TGIS se apura quanto a quem venha a suceder em seu lugar, com a isenção do cônjuge ou unido de facto, descendentes e ascendentes (art. 6.º, n.º 1, al. e), CIS) [■ VERIFICAR: tratamento fiscal no caso concreto]\n- Doações recebidas pelo repudiante: se repudiar sem ter descendentes que o representem, não há colação e a doação é imputada na quota indisponível (art. 2114.º, n.º 2, CC)",
+    "motivo": "Não existe «colação para efeitos fiscais»; a colação é instituto civil e o art. 2114.º, n.º 2, CC regula a imputação da doação feita ao repudiante. A isenção do Imposto do Selo consta do art. 6.º, n.º 1, al. e), CIS.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2114&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Alerta sobre irrevogabilidade e impugnação pelos credores\n- Forma da declaração: escritura pública ou termo",
+    "para": "- Alerta sobre irrevogabilidade e sub-rogação dos credores (art. 2067.º CC)\n- Forma da declaração: a da alienação da herança (arts. 2063.º e 2126.º CC)",
+    "motivo": "Os credores não impugnam o repúdio, aceitam a herança em nome do repudiante; a forma é a da alienação da herança.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2067&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "1. O repúdio é irrevogável, salvo nos casos de dolo ou coação (art. 2066.º CC);",
+    "para": "1. O repúdio é irrevogável (art. 2066.º CC) e só é anulável por dolo ou coação, não por simples erro (art. 2065.º CC);",
+    "motivo": "Irrevogabilidade (art. 2066.º CC) e anulabilidade por dolo ou coação (art. 2065.º CC) são regras distintas.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2062&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "2. Em consequência do repúdio, os seus descendentes",
+    "para": "2. Em consequência do repúdio, [havendo lugar a representação — arts. 2041.º e 2042.º CC] os seus descendentes",
+    "motivo": "A representação só opera nos casos dos arts. 2041.º e 2042.º CC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2039&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "[ou: não existindo descendentes, o quinhão acresce aos demais herdeiros (art. 2301.º CC)];",
+    "para": "[ou: não havendo lugar a representação, a sua parte acresce à dos outros sucessíveis da mesma classe (art. 2137.º, n.º 2, CC) / dos co-herdeiros testamentários (art. 2301.º CC)];",
+    "motivo": "Na sucessão legal o acrescer rege-se pelo art. 2137.º CC; o art. 2301.º CC só vale entre herdeiros testamentários.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2137&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "3. Os credores do repudiante podem impugnar judicialmente o repúdio se este lhes for prejudicial (art. 2067.º CC).",
+    "para": "3. Os credores do repudiante podem aceitar a herança em nome dele, no prazo de seis meses a contar do conhecimento do repúdio; pagos esses credores, o remanescente não aproveita ao repudiante, mas aos herdeiros imediatos (art. 2067.º CC).",
+    "motivo": "O art. 2067.º CC prevê a sub-rogação dos credores, não a impugnação judicial do repúdio.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2067&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "A presente declaração deve ser outorgada por escritura pública junto de qualquer notário ou formalizada por termo em processo judicial de inventário (art. 2063.º CC).",
+    "para": "O repúdio está sujeito à forma exigida para a alienação da herança (art. 2063.º CC): escritura pública ou documento particular autenticado se a herança incluir bens cuja alienação exija uma dessas formas, como imóveis; documento particular nos demais casos (art. 2126.º CC) [■ VERIFICAR: admissibilidade de repúdio por termo no processo de inventário pendente].",
+    "motivo": "A forma do repúdio é a da alienação da herança (arts. 2063.º e 2126.º CC); a escritura pública não é sempre necessária.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2124&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Risco de impugnação pelos credores avaliado",
+    "para": "- [ ] Risco de aceitação da herança pelos credores do repudiante avaliado (art. 2067.º CC)",
+    "motivo": "O meio dos credores é a sub-rogação do art. 2067.º CC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2067&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Forma: escritura pública ou termo em processo judicial — não admite forma privada",
+    "para": "- [ ] Forma: escritura pública ou documento particular autenticado se houver imóveis na herança; documento particular nos demais casos (arts. 2063.º e 2126.º CC)",
+    "motivo": "Sem bens que exijam escritura ou documento particular autenticado, basta documento particular (art. 2126.º, n.º 2, CC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2124&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar se o repudiante praticou atos que valham como aceitação tácita antes de outorgar o repúdio.",
+   "Se o repudiante recebeu doações do falecido e não tem descendentes que o representem, ponderar a imputação na quota indisponível (art. 2114.º, n.º 2, CC).",
+   "Confirmar o tratamento em Imposto do Selo para quem sucede em lugar do repudiante."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2062&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2067&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2039&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2137&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2114&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2124&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2301&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/selo/Pages/selo6.aspx"
+  ]
+ },
+ {
+  "codigo": "SUC-007",
+  "veredicto": "corrigida",
+  "resumo": "A ficha fundava a habilitação de herdeiros no inventário notarial da Lei n.º 23/2013 (revogada pela Lei n.º 117/2019) e exigia uma escritura «com duas testemunhas» ao abrigo dos arts. 46.º e seguintes do Código do Notariado. A habilitação notarial está nos arts. 82.º a 88.º do CN: declaração de três pessoas dignas de crédito ou do cabeça-de-casal. Há também o procedimento simplificado nas conservatórias (arts. 210.º-A e seguintes do Código do Registo Civil). Corrigi também os documentos (certidão de teor do testamento, art. 85.º CN), a meação, que só existe nos regimes de comunhão, e a posição do unido de facto, que não é herdeiro legítimo.",
+  "substituicoes": [
+   {
+    "de": "— Cita artigos reais do Código Civil (CC) e do Código do Registo Civil (CRC).",
+    "para": "— Cita artigos reais do Código Civil (CC), do Código do Notariado (CN) e do Código do Registo Civil.",
+    "motivo": "A habilitação notarial está regulada no Código do Notariado (arts. 82.º a 88.º).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=457A0082&nid=457&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- União de facto: [■ VERIFICAR:",
+    "para": "- União de facto: o unido de facto não integra as classes de sucessíveis (art. 2133.º CC) [■ VERIFICAR:",
+    "motivo": "O unido de facto não é herdeiro legítimo: o art. 2133.º CC não o inclui nas classes de sucessíveis.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2129&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Habilitação de herdeiros: processo notarial — arts. 78.º e ss. da Lei n.º 23/2013, de 5 de Março (inventário notarial) [■ VERIFICAR: legislação vigente em matéria de inventário notarial]\n- Habilitação por escritura pública: instrumento notarial com duas testemunhas (arts. 46.º e ss. CN)",
+    "para": "- Habilitação notarial: escritura pública com a declaração, feita por três pessoas que o notário considere dignas de crédito ou, em alternativa, pelo cabeça-de-casal, de que os habilitandos são herdeiros do falecido e não há quem lhes prefira na sucessão ou com eles concorra (arts. 82.º e 83.º do Código do Notariado); não podem ser declarantes os parentes sucessíveis dos habilitandos nem o cônjuge de qualquer deles (art. 84.º do Código do Notariado)\n- Habilitação nas conservatórias: procedimento simplificado de habilitação de herdeiros, com ou sem registos, promovido pelo cabeça-de-casal até ao final do terceiro mês seguinte ao da morte (arts. 210.º-A a 210.º-C do Código do Registo Civil)\n- A habilitação não se confunde com o inventário (arts. 1082.º e seguintes do CPC, desde a Lei n.º 117/2019, que revogou o regime da Lei n.º 23/2013), necessário só para a partilha nos casos do art. 2102.º, n.º 2, CC",
+    "motivo": "A habilitação notarial está nos arts. 82.º a 88.º do Código do Notariado (três declarantes ou o cabeça-de-casal, sem testemunhas); a Lei n.º 23/2013 regulava o inventário e foi revogada pela Lei n.º 117/2019.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=457A0082&nid=457&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "[Se casado(a):]\nEm consequência, metade dos bens comuns do casal",
+    "para": "[Se casado(a) em regime de comunhão geral ou de adquiridos:]\nEm consequência, metade dos bens comuns do casal",
+    "motivo": "Só há meação nos regimes de comunhão; os cônjuges participam por metade no património comum (art. 1730.º CC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1730&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Testamento (se existir) — com auto de abertura e publicação",
+    "para": "- Certidão de teor do testamento ou da escritura de doação por morte, se existirem (art. 85.º, n.º 1, al. c), do Código do Notariado), e, sendo testamento cerrado ou internacional, o instrumento de abertura",
+    "motivo": "O Código do Notariado exige a certidão de teor do testamento; o auto de abertura só existe nos testamentos cerrados e internacionais (art. 67.º, n.º 1, al. a), CN).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=457A0082&nid=457&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Escolher a via (escritura notarial ou procedimento simplificado na conservatória) e confirmar os emolumentos em vigor.",
+   "Confirmar se o testamento indicado foi lavrado por notário (público) ou aprovado por notário (cerrado); a referência a testamento «pela Conservatória» na minuta deve ser confirmada no caso.",
+   "Advertir o cabeça-de-casal declarante da responsabilidade por falsas declarações (art. 97.º do Código do Notariado)."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=457A0082&nid=457&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=457A0087&nid=457&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=457A0046&nid=457&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=457A0067&nid=457&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=682A0210A&nid=682&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2129&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1730&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2102&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3211&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+  ]
+ },
+ {
+  "codigo": "SUC-008",
+  "veredicto": "corrigida",
+  "resumo": "A ficha assentava no inventário notarial da Lei n.º 23/2013, que a Lei n.º 117/2019 revogou a partir de 1 de janeiro de 2020. O inventário está hoje nos arts. 1082.º e seguintes do CPC e corre no tribunal ou no cartório notarial, conforme o art. 1083.º CPC. A ficha usava ainda um «administrador provisório» que não existe, uma ordem de cabeça-de-casal simplificada e errada (art. 2080.º CC) e um «prazo prescricional» para a partilha que a lei não prevê (art. 2101.º CC), e admitia que o credor requeresse o inventário. Reescrevi a fundamentação e o requerimento segundo os arts. 1083.º, 1085.º, 1097.º a 1100.º e 403.º CPC.",
+  "descricao": "Gera o requerimento inicial do processo de inventário para partilha da herança, no tribunal ou no cartório notarial, com identificação dos interessados, relacionação sumária de bens, indicação do cabeça-de-casal e providências urgentes, nos termos dos arts. 1082.º e seguintes do Código de Processo Civil (na redação da Lei n.º 117/2019, de 13 de setembro).",
+  "descricao_en": "Generates the initial application for inventory proceedings (inventário) to divide an estate, before the court or a notary's office, identifying the interested parties, giving a summary list of assets, indicating the estate administrator (cabeça-de-casal) and any urgent measures, under Articles 1082 et seq. of the Code of Civil Procedure (as amended by Law No. 117/2019 of 13 September).",
+  "substituicoes": [
+   {
+    "de": "— Cita artigos reais do Código Civil (CC) e da Lei n.º 23/2013 (Lei do Inventário Notarial).",
+    "para": "— Cita artigos reais do Código Civil (CC) e do Código de Processo Civil (CPC), arts. 1082.º e seguintes, que regulam o inventário desde a Lei n.º 117/2019, de 13 de setembro (o regime da Lei n.º 23/2013 foi revogado e só se aplica aos processos pendentes nos cartórios notariais em 1 de janeiro de 2020).",
+    "motivo": "A Lei n.º 117/2019 revogou o regime do inventário da Lei n.º 23/2013 (art. 10.º) e repôs o inventário no CPC, com regime transitório no art. 11.º.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3211&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Inventário notarial: Lei n.º 23/2013, de 5 de Março (com alterações da Lei n.º 117/2019)",
+    "para": "- Inventário: arts. 1082.º e seguintes do CPC, na redação da Lei n.º 117/2019, de 13 de setembro, que revogou o regime da Lei n.º 23/2013\n- Competência: exclusiva dos tribunais judiciais nos casos do art. 2102.º, n.º 2, als. b) e c), CC, quando o inventário dependa de outro processo judicial ou seja requerido pelo Ministério Público; nos demais casos, à escolha de quem o instaura, no tribunal ou num cartório notarial, podendo interessados diretos que representem mais de metade da herança pedir a remessa para o tribunal até ao fim do prazo de oposição (art. 1083.º CPC); no cartório aplica-se o regime do inventário notarial anexo à Lei n.º 117/2019",
+    "motivo": "A Lei n.º 117/2019 não alterou a Lei n.º 23/2013, revogou-a; a repartição de competências entre tribunal e cartório está no art. 1083.º CPC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A1082&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "— Ordem de preferência para nomeação: cônjuge sobrevivo, descendentes, ascendentes (art. 2080.º CC)",
+    "para": "— Ordem de preferência: cônjuge sobrevivo não separado judicialmente de pessoas e bens, se for herdeiro ou tiver meação; testamenteiro, salvo declaração do testador em contrário; parentes que sejam herdeiros legais (o grau mais próximo; no mesmo grau, quem vivia com o falecido há pelo menos um ano; em igualdade, o mais velho); herdeiros testamentários (art. 2080.º CC)",
+    "motivo": "O art. 2080.º CC inclui o testamenteiro e os herdeiros testamentários e fixa critérios de desempate que a ficha omitia.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2079&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Relação de bens: art. 1345.º CPC (aplicável subsidiariamente) / art. 50.º Lei 23/2013",
+    "para": "- Relação de bens: arts. 1097.º, n.º 3, al. c), e 1098.º CPC (imóveis pelo valor tributável, participações sociais pelo valor nominal, créditos e dívidas relacionados em separado)",
+    "motivo": "A relação de bens rege-se hoje pelos arts. 1097.º e 1098.º CPC; a Lei n.º 23/2013 foi revogada.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A1097&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Providências urgentes: art. 7.º Lei 23/2013 — nomeação de administrador provisório",
+    "para": "- Providências urgentes: a lei não prevê um «administrador provisório»; a administração da herança cabe ao cabeça-de-casal (art. 2079.º CC), confirmado ou designado no despacho liminar (art. 1100.º, n.º 1, al. b), CPC); havendo justo receio de extravio, ocultação ou dissipação de bens, pode requerer-se o arrolamento (art. 403.º CPC)",
+    "motivo": "O «administrador provisório» do art. 7.º da Lei n.º 23/2013 não tem correspondência no regime vigente; os meios são a designação do cabeça-de-casal e o arrolamento.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0403&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Prazo para requerer inventário: [■ VERIFICAR: prazo prescricional para partilha judicial]",
+    "para": "- Prazo para requerer inventário: não há; qualquer co-herdeiro ou o cônjuge meeiro pode exigir partilha quando lhe aprouver (art. 2101.º CC); atenção ao prazo de participação do óbito para o Imposto do Selo, até ao final do 3.º mês seguinte (art. 26.º, n.º 3, CIS)",
+    "motivo": "O direito de exigir partilha não está sujeito a prazo (art. 2101.º CC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2101&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "Ao Notário de [localidade / identificação do cartório se já escolhido]",
+    "para": "Ao Tribunal Judicial da Comarca de [comarca] — Juízo [competente] / Ao Cartório Notarial de [localidade] [escolha nos termos do art. 1083.º CPC; no cartório, com conexão relevante com a partilha — art. 1.º, n.º 2, do regime do inventário notarial anexo à Lei n.º 117/2019]",
+    "motivo": "O inventário pode correr no tribunal ou no cartório notarial (art. 1083.º CPC) e é da competência exclusiva do tribunal em certos casos.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3211&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "na qualidade de [cônjuge / descendente / herdeiro testamentário / credor] de [nome do falecido], vem requerer a abertura de processo de inventário, nos termos da Lei n.º 23/2013, de 5 de Março, pelos seguintes fundamentos:",
+    "para": "na qualidade de [cônjuge meeiro / herdeiro legítimo / herdeiro testamentário] de [nome do falecido] (art. 1085.º, n.º 1, al. a), CPC), vem requerer inventário destinado a fazer cessar a comunhão hereditária e proceder à partilha (art. 1082.º, al. a), CPC), nos termos do art. [1097.º, se o requerente for o cabeça-de-casal / 1099.º, se não o for] do Código de Processo Civil, pelos seguintes fundamentos:",
+    "motivo": "Base legal revogada; os credores não têm legitimidade para requerer o inventário, só para nele intervir quanto aos seus créditos (art. 1085.º CPC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A1082&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "metade dos bens adquiridos na constância do matrimónio constitui",
+    "para": "metade dos bens comuns do casal [se casado(a) em comunhão geral ou de adquiridos] constitui",
+    "motivo": "A meação é metade do património comum (art. 1730.º CC), que não coincide com os bens adquiridos na constância do casamento.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1730&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "por ser [cônjuge sobrevivo / descendente mais velho / etc.].",
+    "para": "por ser [cônjuge sobrevivo não separado judicialmente de pessoas e bens / testamenteiro / herdeiro legal de grau mais próximo / herdeiro que vivia com o falecido há pelo menos um ano / herdeiro mais velho em igualdade de circunstâncias].",
+    "motivo": "O critério do «descendente mais velho» só vale em igualdade de grau e de convivência (art. 2080.º, n.os 2 a 4, CC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2079&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "Requer que, com urgência, seja nomeado administrador provisório / sejam tomadas as seguintes providências:",
+    "para": "Requer que, com urgência, seja confirmado ou designado o cabeça-de-casal (art. 1100.º, n.º 1, al. b), CPC), a quem cabe a administração da herança (art. 2079.º CC) [e, havendo justo receio de extravio, ocultação ou dissipação de bens, requer, como dependência do inventário, o arrolamento dos bens [identificar] (art. 403.º CPC)], tendo em conta as seguintes necessidades:",
+    "motivo": "Não há «administrador provisório» no regime vigente.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0403&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Testamento e auto de publicação (se existir)",
+    "para": "- Testamentos, convenções antenupciais e escrituras de doação (art. 1097.º, n.º 3, al. b), CPC)\n- [Se o requerente for o cabeça-de-casal:] relação de todos os bens, relação dos créditos e dívidas da herança e compromisso de honra do fiel exercício das funções (art. 1097.º, n.º 3, als. c) a e), CPC)",
+    "motivo": "Os documentos do requerimento inicial são os do art. 1097.º, n.º 3, CPC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A1097&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Qualidade: [cônjuge / filho(a) / credor / outro]",
+    "para": "- Qualidade: [cônjuge meeiro / herdeiro (grau) / outro interessado direto na partilha] — os credores só intervêm nas questões relativas aos seus créditos (art. 1085.º, n.º 2, al. b), CPC)",
+    "motivo": "Só os interessados diretos, o cônjuge meeiro e o Ministério Público podem requerer o inventário (art. 1085.º, n.º 1, CPC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A1082&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar se o caso cabe na competência exclusiva do tribunal (art. 1083.º, n.º 1, CPC), por exemplo com herdeiro incapaz ou ausente.",
+   "Se houver um inventário notarial instaurado antes de 1 de janeiro de 2020, confirmar o regime transitório do art. 11.º da Lei n.º 117/2019.",
+   "Confirmar o juízo competente e, na via notarial, a lista de cartórios da Ordem dos Notários."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3211&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A1082&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A1087&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A1097&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A1102&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0403&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2079&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2101&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2102&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1730&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/selo/Pages/selo26.aspx"
+  ]
+ },
+ {
+  "codigo": "SUC-010",
+  "veredicto": "corrigida",
+  "resumo": "A ficha baseava a impugnação nos arts. 50.º e 51.º da Lei n.º 23/2013, revogada pela Lei n.º 117/2019. A reclamação contra a relação de bens consta hoje do art. 1104.º, n.º 1, al. d), CPC (30 dias), com tramitação no art. 1105.º CPC e avaliação no art. 1114.º CPC. Retirei a notificação do Ministério Público «para efeitos do art. 2096.º CC» e a «responsabilidade disciplinar» do cabeça-de-casal: a sonegação é apreciada no próprio inventário (art. 1105.º, n.º 4, CPC), com a perda dos bens em benefício dos co-herdeiros, e a ocultação dolosa é fundamento de remoção (art. 2086.º CC). Substituí ainda o art. 2085.º CC (escusa) pelo dever de prestar contas (art. 2093.º CC).",
+  "substituicoes": [
+   {
+    "de": "— Cita artigos reais do Código Civil e da Lei n.º 23/2013, de 5 de Março.",
+    "para": "— Cita artigos reais do Código Civil e do Código de Processo Civil (inventário: arts. 1082.º e seguintes, na redação da Lei n.º 117/2019, que revogou o regime da Lei n.º 23/2013).",
+    "motivo": "A Lei n.º 23/2013 foi revogada pela Lei n.º 117/2019 (art. 10.º).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3211&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Quem impugna e em que qualidade (herdeiro, legatário, credor)?",
+    "para": "- Quem reclama e em que qualidade? (interessados diretos na partilha; havendo herdeiros legitimários, legatários e donatários só quanto às questões que afetem os seus direitos — art. 1104.º, n.os 1 e 3, CPC; os credores só intervêm nas questões relativas aos seus créditos — art. 1085.º, n.º 2, al. b), CPC)",
+    "motivo": "A legitimidade para reclamar contra a relação de bens resulta do art. 1104.º CPC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A1102&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Impugnação da relação de bens: art. 50.º e ss. Lei n.º 23/2013 [■ VERIFICAR: artigos específicos]",
+    "para": "- Reclamação contra a relação de bens: art. 1104.º, n.º 1, al. d), CPC — no prazo de 30 dias a contar da citação (para o requerente do inventário e o cabeça-de-casal, nos termos do n.º 2); resposta em 30 dias e provas indicadas com os requerimentos e respostas (art. 1105.º, n.os 1 e 2, CPC)",
+    "motivo": "O regime da Lei n.º 23/2013 foi revogado; a reclamação contra a relação de bens está nos arts. 1104.º e 1105.º CPC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A1102&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "— sanção: perda do direito aos bens sonegados",
+    "para": "— sanção: o herdeiro que oculte dolosamente bens da herança perde, em benefício dos co-herdeiros, o direito que possa ter a qualquer parte deles; a alegação é apreciada no inventário, conjuntamente com a acusação da falta de bens relacionados (art. 1105.º, n.º 4, CPC)",
+    "motivo": "A perda é em benefício dos co-herdeiros e exige ocultação dolosa (art. 2096.º CC); a sonegação é decidida no inventário (art. 1105.º, n.º 4, CPC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2096&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Obrigação de relacionar todos os bens: cabeça-de-casal sujeito a responsabilidade civil e disciplinar",
+    "para": "- Obrigação de relacionar todos os bens (art. 1097.º, n.º 3, al. c), CPC): o cabeça-de-casal que dolosamente oculte bens da herança pode ser removido (art. 2086.º, n.º 1, al. a), CC), sem prejuízo da sanção da sonegação e das demais que no caso couberem",
+    "motivo": "Não há responsabilidade «disciplinar» do cabeça-de-casal; as consequências são a remoção (art. 2086.º CC) e a sonegação (art. 2096.º CC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2086&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Avaliação dos bens: art. 51.º Lei 23/2013 [■ VERIFICAR: regime de avaliação notarial]",
+    "para": "- Avaliação dos bens: até à abertura das licitações, qualquer interessado pode requerer a avaliação, indicando os bens e as razões da não aceitação do valor atribuído (art. 1114.º CPC); na relação, os imóveis figuram pelo valor tributável (art. 1098.º, n.º 1, al. a), CPC)",
+    "motivo": "A avaliação rege-se hoje pelo art. 1114.º CPC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A1114&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Dever de informação do cabeça-de-casal: art. 2085.º CC",
+    "para": "- Dever de prestar contas do cabeça-de-casal: anualmente (art. 2093.º CC); no inventário, o cabeça-de-casal que não o tenha requerido deve, nos 30 dias seguintes à citação, apresentar ou completar a relação de bens (art. 1102.º, n.º 1, al. b), CPC)",
+    "motivo": "O art. 2085.º CC regula a escusa do cargo; o dever de prestar contas está no art. 2093.º CC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2089&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "na qualidade de herdeiro(a) / legatário(a) / credor(a) do(a) falecido(a)",
+    "para": "na qualidade de [herdeiro(a) / cônjuge meeiro(a) — interessado direto na partilha] [ou: legatário(a) / donatário(a), havendo herdeiros legitimários, quanto às questões que afetem os seus direitos — art. 1104.º, n.º 3, CPC] do(a) falecido(a)",
+    "motivo": "A reclamação cabe aos interessados diretos na partilha (art. 1104.º, n.º 1, CPC); os credores só intervêm nas questões relativas aos seus créditos (art. 1085.º, n.º 2, al. b), CPC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A1102&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "Processo de Inventário n.º [número] — Notário [nome] — Cartório de [localidade]",
+    "para": "Processo de Inventário n.º [número] — [Tribunal Judicial da Comarca de [comarca], Juízo [competente] / Cartório Notarial de [localidade], notário [nome]]",
+    "motivo": "O inventário pode correr no tribunal ou no cartório notarial (art. 1083.º CPC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A1082&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "Notificado da relação de bens apresentada pelo cabeça-de-casal [nome], em [data],\nvem, nos termos do art. [■ VERIFICAR: artigo aplicável da Lei n.º 23/2013], impugná-la,",
+    "para": "Citado(a) para o inventário em [data] e tendo conhecimento da relação de bens apresentada pelo cabeça-de-casal [nome],\nvem, nos termos do art. 1104.º, n.º 1, al. d), CPC, apresentar reclamação contra a relação de bens,",
+    "motivo": "A reclamação contra a relação de bens é deduzida em 30 dias a contar da citação (art. 1104.º CPC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A1102&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "com a consequente sanção de perda do direito do cabeça-de-casal sobre o bem sonegado.",
+    "para": "se a ocultação for dolosa, com a consequente perda, em benefício dos co-herdeiros, do direito que o cabeça-de-casal, sendo herdeiro, possa ter sobre o bem sonegado (art. 1105.º, n.º 4, CPC).",
+    "motivo": "A sanção exige ocultação dolosa e reverte para os co-herdeiros (art. 2096.º CC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2096&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "Requer-se a realização de avaliação pericial do bem nos termos da lei.",
+    "para": "Requer-se a avaliação do bem, nos termos do art. 1114.º CPC (até à abertura das licitações).",
+    "motivo": "A avaliação de bens no inventário rege-se pelo art. 1114.º CPC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A1114&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "4. Seja notificado o Ministério Público para efeitos do art. 2096.º CC (se aplicável — suspeita de sonegação).",
+    "para": "4. [Se aplicável:] Seja julgada provada a sonegação do(s) bem(ns) [identificar] e aplicada a sanção do art. 2096.º CC, nos termos do art. 1105.º, n.º 4, CPC [e, em incidente próprio, removido o cabeça-de-casal — art. 2086.º, n.º 1, al. a), CC; art. 1103.º, n.º 2, CPC].",
+    "motivo": "A sonegação não dá lugar a intervenção do Ministério Público: é apreciada no inventário, a pedido dos interessados (art. 1105.º, n.º 4, CPC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A1102&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Notário e cartório: [identificação]",
+    "para": "- Tribunal e juízo / cartório notarial: [identificação]",
+    "motivo": "O inventário pode correr no tribunal ou no cartório notarial (art. 1083.º CPC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A1082&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar o termo inicial do prazo de 30 dias (citação ou, para o requerente e o cabeça-de-casal, o previsto no art. 1104.º, n.º 2, CPC).",
+   "Se o processo corre no cartório notarial, ponderar se a complexidade da questão justifica a remessa para os meios judiciais (art. 3.º do regime anexo à Lei n.º 117/2019).",
+   "Avaliar se as diligências pedidas (extratos de vários anos) são proporcionais e se convém pedir a notificação de quem detém os bens (art. 1101.º CPC)."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3211&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A1082&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A1097&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A1102&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A1114&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2086&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2089&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2096&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+  ]
+ },
+ {
+  "codigo": "SUC-018",
+  "veredicto": "corrigida",
+  "resumo": "A ficha usava uma ordem de cabeça-de-casal errada («cônjuge > descendentes > ascendentes»), que omitia o testamenteiro, os herdeiros testamentários e os critérios do art. 2080.º CC. Inventava também fundamentos de remoção («conflito de interesses, ausência, incapacidade superveniente») fora do art. 2086.º CC e assentava na Lei n.º 23/2013 (revogada pela Lei n.º 117/2019), com um «administrador provisório» que não existe. Corrigi segundo os arts. 2080.º a 2086.º e 2093.º CC e os arts. 1103.º e 403.º CPC: a remoção é um incidente do inventário e a proteção urgente dos bens faz-se por arrolamento. Atualizei a descrição do índice, que remetia para a «Lei do Inventário Notarial».",
+  "descricao": "Gera o requerimento de nomeação de cabeça-de-casal alternativo ou de remoção do cabeça-de-casal em funções, quando este incumpre os seus deveres ou não tem os requisitos legais, nos termos dos arts. 2079.º a 2093.º do Código Civil e do art. 1103.º do Código de Processo Civil (incidentes do inventário).",
+  "descricao_en": "Generates the application to appoint an alternative estate administrator (cabeça-de-casal) or to remove the acting one where they breach their duties or do not meet the legal requirements, under Articles 2079 to 2093 of the Civil Code and Article 1103 of the Code of Civil Procedure (incidental proceedings in the inventory).",
+  "substituicoes": [
+   {
+    "de": "— Cita artigos reais do Código Civil (CC) e da Lei n.º 23/2013.",
+    "para": "— Cita artigos reais do Código Civil (CC) e do Código de Processo Civil (CPC), arts. 1082.º e seguintes (a Lei n.º 23/2013 foi revogada pela Lei n.º 117/2019).",
+    "motivo": "O regime do inventário da Lei n.º 23/2013 foi revogado pela Lei n.º 117/2019 (art. 10.º).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3211&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "— Quem é preferido: cônjuge > descendentes > ascendentes > outros herdeiros (art. 2080.º CC)",
+    "para": "— Quem é preferido: cônjuge sobrevivo não separado judicialmente de pessoas e bens, se for herdeiro ou tiver meação > testamenteiro, salvo declaração do testador em contrário > parentes que sejam herdeiros legais (o grau mais próximo; no mesmo grau, quem vivia com o falecido há pelo menos um ano; em igualdade, o mais velho) > herdeiros testamentários (art. 2080.º CC); se a herança estiver toda distribuída em legados, o legatário mais beneficiado (art. 2081.º CC); por acordo de todos os interessados, qualquer outra pessoa (art. 2084.º CC); na falta de todos, designação pelo tribunal (art. 2083.º CC)",
+    "motivo": "A ordem do art. 2080.º CC inclui o testamenteiro e os herdeiros testamentários e tem critérios de desempate próprios; a ficha omitia os arts. 2081.º, 2083.º e 2084.º CC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2079&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "— Funções: administrar os bens, apresentar relação de bens, prestar contas (art. 2085.º CC)",
+    "para": "— Funções: administrar a herança até à sua liquidação e partilha (arts. 2079.º e 2087.º a 2092.º CC), prestar contas anualmente (art. 2093.º CC) e, no inventário, apresentar a relação de bens (arts. 1097.º e 1102.º CPC)",
+    "motivo": "O art. 2085.º CC regula a escusa; as funções do cabeça-de-casal estão nos arts. 2079.º e 2087.º a 2093.º CC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2089&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "— Fundamentos: incumprimento de deveres, má administração, conflito de interesses, ausência, incapacidade superveniente",
+    "para": "— Fundamentos (art. 2086.º, n.º 1, CC): ter ocultado dolosamente bens da herança ou doações feitas pelo falecido, ou denunciado dolosamente doações ou encargos inexistentes; não administrar o património hereditário com prudência e zelo; não cumprir no inventário os deveres que a lei lhe impuser; revelar incompetência para o cargo. Tem legitimidade para pedir a remoção qualquer interessado (art. 2086.º, n.º 2, CC)",
+    "motivo": "Os fundamentos de remoção são os do art. 2086.º, n.º 1, CC; «conflito de interesses», «ausência» e «incapacidade superveniente» não constam da lei (a incapacidade rege-se pelo art. 2082.º CC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2086&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Nomeação alternativa pelo notário (no âmbito do inventário notarial — Lei 23/2013) ou pelo tribunal\n- Administrador provisório: art. 7.º Lei 23/2013 — providência urgente",
+    "para": "- No inventário (no tribunal ou no cartório notarial — art. 1083.º CPC), a substituição, a escusa e a remoção do cabeça-de-casal são incidentes do processo, que prossegue com o cabeça-de-casal designado até à decisão do incidente (art. 1103.º, n.os 2 e 3, CPC)\n- A lei não prevê um «administrador provisório»; havendo justo receio de extravio, ocultação ou dissipação de bens, pode requerer-se o arrolamento (art. 403.º CPC)",
+    "motivo": "A Lei n.º 23/2013 foi revogada; a remoção é incidente do inventário (art. 1103.º CPC) e a providência adequada é o arrolamento (art. 403.º CPC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A1102&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "Processo de Inventário n.º [número] — Notário [nome] — Cartório de [localidade]\n[OU: Ao Tribunal de [localidade] — se ação autónoma]",
+    "para": "Processo de Inventário n.º [número] — [Tribunal Judicial da Comarca de [comarca], Juízo [competente] / Cartório Notarial de [localidade], notário [nome]]\n[OU: Ao Tribunal Judicial da Comarca de [comarca] — se não houver inventário pendente [■ VERIFICAR: meio processual da remoção fora do inventário]]",
+    "motivo": "O inventário pode correr no tribunal ou no cartório notarial (art. 1083.º CPC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A1082&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "c) [Ou:] Existe conflito de interesses:",
+    "para": "c) [Ou — só releva se se traduzir num dos fundamentos do art. 2086.º, n.º 1, CC, como a falta de prudência e zelo na administração:] Existe conflito de interesses:",
+    "motivo": "O conflito de interesses não é, por si, fundamento de remoção (art. 2086.º CC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2086&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "Atendendo ao risco de dilapidação dos bens hereditários, requer-se que seja nomeado administrador provisório com carácter urgente, nos termos do art. 7.º da Lei n.º 23/2013.",
+    "para": "Atendendo ao risco de dilapidação dos bens hereditários, requer-se, como dependência do inventário, o arrolamento dos bens [identificar] (art. 403.º CPC), e a decisão urgente do presente incidente.",
+    "motivo": "O «administrador provisório» da Lei n.º 23/2013 não existe no regime vigente; a providência é o arrolamento (art. 403.º CPC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0403&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "3. [Urgente:] Seja nomeado administrador provisório até à conclusão do presente incidente.",
+    "para": "3. [Urgente:] Seja ordenado o arrolamento dos bens em risco (art. 403.º CPC) [■ VERIFICAR: dedução em procedimento cautelar autónomo].",
+    "motivo": "Não há «administrador provisório» no regime vigente.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0403&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- N.º de processo, notário, cartório: [dados]",
+    "para": "- N.º de processo, tribunal ou cartório notarial: [dados]",
+    "motivo": "O inventário pode correr no tribunal ou no cartório notarial (art. 1083.º CPC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A1082&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar o meio processual para a remoção do cabeça-de-casal quando não haja inventário pendente.",
+   "Se o cabeça-de-casal designado for incapaz, as funções cabem ao representante legal (art. 2082.º CC), o que não é fundamento de remoção.",
+   "Confirmar se o arrolamento deve ser pedido em procedimento cautelar autónomo e a prova do justo receio."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3211&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2079&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2081&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2084&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2086&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2089&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A1082&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A1102&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0403&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+  ]
+ },
+ {
+  "codigo": "SUC-020",
+  "veredicto": "corrigida",
+  "resumo": "A ficha citava uma inexistente «al. n)» do art. 6.º CIS e tratava como IS = 0 o cônjuge, os descendentes e os ascendentes também nas doações. A isenção do art. 6.º, n.º 1, al. e), CIS só abrange a verba 1.2 da TGIS, pelo que na doação de imóveis é sempre devido o Imposto do Selo de 0,8% da verba 1.1, que a herança não paga. Corrigi a citação, acrescentei a verba 1.1 ao cálculo-tipo, preenchi o prazo de participação (até ao final do 3.º mês seguinte, art. 26.º, n.º 3, CIS) e a incidência do IMT sobre o excesso nas partilhas (art. 2.º, n.º 5, al. c), CIMT). Lembrei ainda que, nas sucessões por morte, o imposto é devido pela herança, representada pelo cabeça-de-casal (art. 2.º, n.º 2, al. a), CIS).",
+  "substituicoes": [
+   {
+    "de": "— Distingue claramente os beneficiários isentos (cônjuge, descendentes, ascendentes — art. 6.º n) CIS) dos sujeitos a IS.",
+    "para": "— Distingue claramente os beneficiários isentos (cônjuge ou unido de facto, descendentes, ascendentes — art. 6.º, n.º 1, al. e), CIS, isenção que só abrange a verba 1.2 da TGIS) dos sujeitos a IS; na doação de imóveis, o Imposto do Selo de 0,8% da verba 1.1 é devido mesmo pelos isentos.",
+    "motivo": "A isenção está na al. e) do n.º 1 do art. 6.º CIS e só abrange as transmissões gratuitas sujeitas à verba 1.2.",
+    "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/selo/Pages/selo6.aspx"
+   },
+   {
+    "de": "- Taxa: 10% sobre o valor dos bens transmitidos (verba 1.2 TGIS) [■ VERIFICAR: taxa vigente]",
+    "para": "- Taxa: 10% sobre o valor dos bens transmitidos (verba 1.2 TGIS), a acrescer, sendo caso disso, à da verba 1.1 (0,8% na doação de imóveis)",
+    "motivo": "Taxa confirmada na TGIS; a verba 1.2 acresce à verba 1.1 quando esta se aplique.",
+    "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/selo/Pages/ccod-selo-tabgiselo.aspx"
+   },
+   {
+    "de": "- Isenção subjetiva: art. 6.º n) CIS — isentos o cônjuge (ou unido de facto), os descendentes e os ascendentes",
+    "para": "- Isenção subjetiva: art. 6.º, n.º 1, al. e), CIS — isentos o cônjuge (ou unido de facto), os descendentes e os ascendentes, nas transmissões gratuitas sujeitas à verba 1.2 da TGIS\n- Doação de imóveis: acresce o Imposto do Selo de 0,8% da verba 1.1 da TGIS sobre o valor tributável (VPT — art. 13.º CIS), devido também pelo cônjuge, descendentes e ascendentes, porque a isenção só abrange a verba 1.2; a verba 1.1 não se aplica à sucessão por morte",
+    "motivo": "A isenção do art. 6.º, n.º 1, al. e), CIS limita-se à verba 1.2; a verba 1.1 abrange a aquisição de imóveis por doação.",
+    "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/selo/Pages/selo6.aspx"
+   },
+   {
+    "de": "- Prazo de apresentação da declaração: [■ VERIFICAR: prazo legal após óbito ou doação]",
+    "para": "- Prazo de apresentação da participação: até ao final do 3.º mês seguinte ao do nascimento da obrigação tributária (art. 26.º, n.º 3, CIS), pelo cabeça-de-casal e pelo beneficiário (art. 26.º, n.º 1, CIS)",
+    "motivo": "Prazo confirmado no art. 26.º, n.º 3, CIS.",
+    "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/selo/Pages/selo26.aspx"
+   },
+   {
+    "de": "- Tornas em partilha: [■ VERIFICAR: se sujeitas a IS — verba 1.2 ou outra]",
+    "para": "- Tornas em partilha: não são transmissão gratuita; o excesso da quota-parte que caiba ao adquirente nos bens imóveis, em partilha, está sujeito a IMT (art. 2.º, n.º 5, al. c), CIMT) [■ VERIFICAR: Imposto do Selo da verba 1.1 sobre o mesmo excesso]",
+    "motivo": "O excesso da quota-parte nos imóveis, em ato de partilha, é sujeito a IMT (art. 2.º, n.º 5, al. c), CIMT), não à verba 1.2.",
+    "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cimt/Pages/cimt2.aspx"
+   },
+   {
+    "de": "| [Nome 1] | [ex: filho] | ISENTO — art. 6.º n) CIS |",
+    "para": "| [Nome 1] | [ex: filho] | ISENTO da verba 1.2 — art. 6.º, n.º 1, al. e), CIS (na doação de imóvel: 0,8% da verba 1.1) |",
+    "motivo": "Citação corrigida e verba 1.1 nas doações de imóveis.",
+    "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/selo/Pages/selo6.aspx"
+   },
+   {
+    "de": "| [Nome 2] | [ex: irmão] | SUJEITO A IS — taxa 10% (verba 1.2 TGIS) |",
+    "para": "| [Nome 2] | [ex: irmão] | SUJEITO A IS — taxa 10% (verba 1.2 TGIS); na doação de imóvel acresce 0,8% (verba 1.1) |",
+    "motivo": "Na doação de imóveis a verba 1.2 acresce à verba 1.1 (TGIS).",
+    "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/selo/Pages/ccod-selo-tabgiselo.aspx"
+   },
+   {
+    "de": "**3. IMPUTAÇÃO POR BENEFICIÁRIO**",
+    "para": "**3. IMPUTAÇÃO POR BENEFICIÁRIO**\n\n[Na sucessão por morte, o imposto é devido pela herança, representada pelo cabeça-de-casal, e pelos legatários (art. 2.º, n.º 2, al. a), CIS); na doação, pelos beneficiários (al. b)). [■ VERIFICAR: apuramento da parte tributável dos herdeiros não isentos na herança indivisa]]",
+    "motivo": "Nas sucessões por morte, o sujeito passivo é a herança, representada pelo cabeça-de-casal (art. 2.º, n.º 2, al. a), CIS), e não cada herdeiro pelos bens que vier a receber.",
+    "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/selo/Pages/selo2.aspx"
+   },
+   {
+    "de": "IS devido: €0,00 (isento — art. 6.º n) CIS)",
+    "para": "IS da verba 1.2: €0,00 (isento — art. 6.º, n.º 1, al. e), CIS)\n[Se doação de imóvel:] IS da verba 1.1 = € [VPT] × 0,8% = **€ [IS]**",
+    "motivo": "A isenção não abrange a verba 1.1 devida nas doações de imóveis.",
+    "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/selo/Pages/selo6.aspx"
+   },
+   {
+    "de": "IS = € [valor tributável] × 10% = **€ [IS]**",
+    "para": "IS = € [valor tributável] × 10% = **€ [IS]**\n[Se doação de imóvel: acresce € [VPT] × 0,8% (verba 1.1 TGIS)]",
+    "motivo": "Na doação de imóveis a verba 1.2 acresce à verba 1.1 (TGIS).",
+    "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/selo/Pages/ccod-selo-tabgiselo.aspx"
+   },
+   {
+    "de": "| [Nome 1] | € [valor] | Isento | €0 |",
+    "para": "| [Nome 1] | € [valor] | Isento (verba 1.2); 0,8% se doação de imóvel (verba 1.1) | € [0 ou IS da verba 1.1] |",
+    "motivo": "A isenção não abrange a verba 1.1 nas doações de imóveis.",
+    "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/selo/Pages/selo6.aspx"
+   },
+   {
+    "de": "[■ VERIFICAR: prazo para apresentar a declaração após o óbito / doação]",
+    "para": "Até ao final do 3.º mês seguinte ao do nascimento da obrigação tributária (art. 26.º, n.º 3, CIS); prazo improrrogável, salvo motivo justificado (art. 26.º, n.º 5, CIS).",
+    "motivo": "Prazo confirmado no art. 26.º CIS.",
+    "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/selo/Pages/selo26.aspx"
+   },
+   {
+    "de": "[■ VERIFICAR: quando a partilha de imóveis envolve tornas ou quinhões desiguais, pode haver lugar a IMT adicional. Verificar art. 6.º CIMT (isenções) e art. 2.º CIMT (incidência)]",
+    "para": "Quando, na partilha, um interessado recebe nos imóveis mais do que a sua quota-parte, o excesso está sujeito a IMT (art. 2.º, n.º 5, al. c), CIMT) [■ VERIFICAR: cálculo do excesso, isenções (art. 6.º CIMT) e Imposto do Selo da verba 1.1 sobre o mesmo valor]",
+    "motivo": "A incidência do IMT sobre o excesso da quota-parte em partilha consta do art. 2.º, n.º 5, al. c), CIMT.",
+    "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cimt/Pages/cimt2.aspx"
+   },
+   {
+    "de": "- [ ] Isenção verificada para cônjuge / descendentes / ascendentes (art. 6.º n) CIS)",
+    "para": "- [ ] Isenção verificada para cônjuge ou unido de facto / descendentes / ascendentes (art. 6.º, n.º 1, al. e), CIS) e, na doação de imóveis, 0,8% da verba 1.1 calculado",
+    "motivo": "Citação corrigida e verba 1.1 nas doações de imóveis.",
+    "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/selo/Pages/selo6.aspx"
+   },
+   {
+    "de": "- [ ] Prazo de declaração verificado [■ VERIFICAR]",
+    "para": "- [ ] Prazo de participação verificado (até ao final do 3.º mês seguinte — art. 26.º, n.º 3, CIS)",
+    "motivo": "Prazo confirmado no art. 26.º, n.º 3, CIS.",
+    "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/selo/Pages/selo26.aspx"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar o modelo oficial e as instruções da participação (Modelo 1 do Imposto do Selo) no Portal das Finanças.",
+   "Confirmar o apuramento da parte tributável dos herdeiros não isentos na herança indivisa e eventuais exclusões do art. 1.º, n.º 5, CIS.",
+   "Usar `calc_imposto_selo_heranca` (com `doacao: true` nas doações) para conferir o cálculo com os valores de `references/valores-2026.md`."
+  ],
+  "fontes": [
+   "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/selo/Pages/selo1.aspx",
+   "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/selo/Pages/selo2.aspx",
+   "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/selo/Pages/selo5.aspx",
+   "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/selo/Pages/selo6.aspx",
+   "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/selo/Pages/selo13.aspx",
+   "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/selo/Pages/selo26.aspx",
+   "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/selo/Pages/ccod-selo-tabgiselo.aspx",
+   "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cimt/Pages/cimt2.aspx"
+  ]
+ },
+ {
+  "codigo": "SUC-024",
+  "veredicto": "corrigida",
+  "resumo": "A ficha admitia ceder o quinhão «em bem determinado», exigia sempre escritura pública com imóveis, quando desde o DL n.º 116/2008 basta documento particular autenticado (art. 2126.º CC), e deixava em branco o prazo da preferência. Esse prazo é de dois meses havendo comunicação (art. 2130.º, n.º 2, CC). Sem comunicação, o meio é a ação de preferência do art. 1410.º CC (seis meses, depósito do preço em 15 dias), não a «remição». Corrigi também o âmbito da preferência (só venda ou dação em cumprimento a estranhos), a preferência no inventário pendente (art. 1095.º CPC) e a nota fiscal: a alienação onerosa de quinhão com imóveis está sujeita a IMT (art. 2.º, n.º 5, al. c), CIMT).",
+  "substituicoes": [
+   {
+    "de": "— Indica a forma exigida (escritura pública se",
+    "para": "— Indica a forma exigida (documento particular autenticado ou escritura pública se",
+    "motivo": "Desde o DL n.º 116/2008, a alienação de quinhão com imóveis pode ser feita por documento particular autenticado (art. 2126.º, n.º 1, CC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2124&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "— O herdeiro pode ceder a sua parte em toda a herança ou em bem determinado",
+    "para": "— O herdeiro pode alienar a herança ou o seu quinhão hereditário, isto é, a sua quota na herança no seu todo, sem especificação de bens (arts. 2124.º e 2127.º CC); a disposição de um bem determinado da herança indivisa não é cessão de quinhão [■ VERIFICAR: regime da alienação de bens certos da herança indivisa por um só herdeiro]",
+    "motivo": "O objeto da cessão é a herança ou o quinhão hereditário, não bens determinados (arts. 2124.º e 2127.º CC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2124&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "— Herança com imóveis: escritura pública obrigatória (art. 2126.º CC) [■ VERIFICAR]\n  — Herança só de móveis: forma escrita (art. 2126.º CC) [■ VERIFICAR]",
+    "para": "— Herança com bens cuja alienação exija escritura pública ou documento particular autenticado (como imóveis): uma dessas formas (art. 2126.º, n.º 1, CC)\n  — Fora desses casos: documento particular (art. 2126.º, n.º 2, CC)",
+    "motivo": "O art. 2126.º CC, na redação do DL n.º 116/2008, admite o documento particular autenticado em alternativa à escritura pública.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2124&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "— Em cessão onerosa a terceiro, os co-herdeiros têm preferência\n  — Notificação prévia obrigatória; prazo para exercer a preferência [■ VERIFICAR: prazo legal]\n  — Se não notificados: os co-herdeiros podem remir a cessão [■ VERIFICAR: prazo]",
+    "para": "— Só na venda ou dação em cumprimento do quinhão a estranhos (não na cessão gratuita nem na cessão a co-herdeiro) os co-herdeiros têm preferência, nos termos em que assiste aos comproprietários (art. 2130.º, n.º 1, CC)\n  — Havendo comunicação para a preferência, o prazo para a exercer é de dois meses (art. 2130.º, n.º 2, CC)\n  — Se não lhes for dado conhecimento: ação de preferência no prazo de seis meses a contar do conhecimento dos elementos essenciais da alienação, com depósito do preço nos 15 dias seguintes à propositura da ação (art. 1410.º, n.º 1, CC); pendendo inventário, a preferência é exercida incidentalmente no processo (art. 1095.º CPC)",
+    "motivo": "O prazo havendo comunicação é de dois meses (art. 2130.º, n.º 2, CC); sem comunicação, o meio é a ação de preferência do art. 1410.º CC, não a «remição».",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2129&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Fiscalidade: IS sobre a cessão [■ VERIFICAR: taxa e isenções]",
+    "para": "- Fiscalidade: a alienação onerosa de quinhão hereditário em herança com imóveis está sujeita a IMT (art. 2.º, n.º 5, al. c), CIMT); a cessão gratuita está sujeita a Imposto do Selo da verba 1.2 da TGIS, com a isenção do art. 6.º, n.º 1, al. e), CIS [■ VERIFICAR: valor tributável, Imposto do Selo da verba 1.1 e isenções no caso concreto]",
+    "motivo": "A alienação da herança ou de quinhão hereditário consta expressamente da incidência do IMT (art. 2.º, n.º 5, al. c), CIMT).",
+    "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cimt/Pages/cimt2.aspx"
+   },
+   {
+    "de": "exercido tal direito no prazo de [■ VERIFICAR: prazo legal].",
+    "para": "exercido tal direito no prazo de dois meses (art. 2130.º, n.º 2, CC).",
+    "motivo": "Prazo de dois meses havendo comunicação (art. 2130.º, n.º 2, CC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2129&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "[Ou: A presente cessão é efetuada a favor de co-herdeiro, pelo que não há lugar ao exercício de direito de preferência por terceiros.]",
+    "para": "[Ou: A presente cessão é efetuada a favor de co-herdeiro / a título gratuito, pelo que não há lugar ao direito de preferência dos co-herdeiros (art. 2130.º, n.º 1, CC).]",
+    "motivo": "A preferência é dos co-herdeiros e só existe na venda ou dação em cumprimento a estranhos (art. 2130.º, n.º 1, CC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2129&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "A presente cessão [deve ser formalizada por escritura pública — art. 2126.º CC, dada a existência de imóveis na herança].",
+    "para": "A presente cessão [é formalizada por escritura pública ou documento particular autenticado — art. 2126.º, n.º 1, CC, dada a existência de imóveis na herança / consta de documento particular — art. 2126.º, n.º 2, CC].",
+    "motivo": "O documento particular autenticado é forma alternativa à escritura (art. 2126.º, n.º 1, CC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2124&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "[■ VERIFICAR: IS incidente sobre a cessão; declaração à AT]",
+    "para": "[Cessão onerosa com imóveis: IMT (art. 2.º, n.º 5, al. c), CIMT); cessão gratuita: Imposto do Selo da verba 1.2 da TGIS. ■ VERIFICAR: liquidação, Imposto do Selo da verba 1.1 e declarações à AT]",
+    "motivo": "A cessão onerosa de quinhão com imóveis é sujeita a IMT (art. 2.º, n.º 5, al. c), CIMT).",
+    "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cimt/Pages/cimt2.aspx"
+   },
+   {
+    "de": "- [ ] Co-herdeiros notificados para o direito de preferência (se cessão a terceiro)\n- [ ] Prazo de preferência respeitado antes da outorga\n- [ ] Forma correta (escritura pública se há imóveis)",
+    "para": "- [ ] Co-herdeiros notificados para o direito de preferência (se venda ou dação em cumprimento a estranho)\n- [ ] Prazo de preferência de dois meses respeitado antes da outorga (art. 2130.º, n.º 2, CC)\n- [ ] Forma correta (escritura pública ou documento particular autenticado se há imóveis; documento particular nos demais casos)",
+    "motivo": "Âmbito e prazo da preferência (art. 2130.º CC) e forma do art. 2126.º CC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2129&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Se o cessionário quiser um bem concreto da herança, ponderar a partilha ou o acordo de todos os herdeiros em vez da cessão de quinhão.",
+   "Confirmar o valor tributável para IMT e Imposto do Selo na cessão onerosa e o momento da liquidação.",
+   "O alienante responde solidariamente pelos encargos da herança, com direito de reembolso contra o adquirente (art. 2128.º CC): prever cláusula."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2124&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2129&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1410&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2091&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A1092&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cimt/Pages/cimt2.aspx",
+   "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/selo/Pages/selo6.aspx",
+   "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/selo/Pages/ccod-selo-tabgiselo.aspx"
+  ]
+ }
+]

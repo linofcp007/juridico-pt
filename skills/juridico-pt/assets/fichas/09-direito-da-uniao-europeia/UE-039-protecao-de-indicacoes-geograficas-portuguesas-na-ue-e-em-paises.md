@@ -3,20 +3,22 @@ codigo: UE-039
 area: "Direito da União Europeia"
 titulo: "Proteção de Indicações Geográficas Portuguesas na UE e em Países Terceiros (Regulamento (UE) 2024/1143)"
 titulo_en: "Protection of Portuguese Geographical Indications in the EU and Third Countries (Regulation (EU) 2024/1143)"
-descricao: "Analisa o regime de proteção de indicações geográficas (IG) e denominações de origem protegidas (DOP) de produtos portugueses ao abrigo do Regulamento (UE) 2024/1143 (novo Regulamento das IG agrícolas e alimentares) e dos capítulos de IG dos acordos de comércio livre da UE, elabora a oposição a pedidos de registo de IG conflituantes e a ação de violação de IG protegida."
-descricao_en: "Analyses the protection regime for geographical indications (GIs) and protected designations of origin (PDOs) of Portuguese products under Regulation (EU) 2024/1143 (the new Regulation on GIs for agricultural and food products) and the GI chapters of EU free trade agreements, and drafts oppositions to applications to register conflicting GIs and actions for infringement of a protected GI."
+descricao: "Analisa o regime de proteção de indicações geográficas (IG) e denominações de origem protegidas (DOP) de produtos portugueses ao abrigo do Regulamento (UE) 2024/1143 (novo Regulamento das IG do vinho, das bebidas espirituosas e dos produtos agrícolas) e dos capítulos de IG dos acordos de comércio livre da UE, elabora a oposição a pedidos de registo de IG conflituantes e a ação de violação de IG protegida."
+descricao_en: "Analyses the protection regime for geographical indications (GIs) and protected designations of origin (PDOs) of Portuguese products under Regulation (EU) 2024/1143 (the new Regulation on GIs for wine, spirit drinks and agricultural products) and the GI chapters of EU free trade agreements, and drafts oppositions to applications to register conflicting GIs and actions for infringement of a protected GI."
 ambito: ue
-estado_citacoes: "conferidas 0 · corrigidas 0 · por conferir 4"
+estado_citacoes: "conferidas 0 · corrigidas 0 · por conferir 13"
+revisao_tecnica: "2026-10-28 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
 # Proteção de Indicações Geográficas Portuguesas na UE e em Países Terceiros (Regulamento (UE) 2024/1143)
 
 > **Âmbito:** UE · **Área:** Direito da União Europeia · **Código:** UE-039
-> **EN:** Protection of Portuguese Geographical Indications in the EU and Third Countries (Regulation (EU) 2024/1143). Analyses the protection regime for geographical indications (GIs) and protected designations of origin (PDOs) of Portuguese products under Regulation (EU) 2024/1143 (the new Regulation on GIs for agricultural and food products) and the GI chapters of EU free trade agreements, and drafts oppositions to applications to register conflicting GIs and actions for infringement of a protected GI.
-> **Citações:** conferidas 0 · corrigidas 0 · por conferir 4. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **EN:** Protection of Portuguese Geographical Indications in the EU and Third Countries (Regulation (EU) 2024/1143). Analyses the protection regime for geographical indications (GIs) and protected designations of origin (PDOs) of Portuguese products under Regulation (EU) 2024/1143 (the new Regulation on GIs for wine, spirit drinks and agricultural products) and the GI chapters of EU free trade agreements, and drafts oppositions to applications to register conflicting GIs and actions for infringement of a protected GI.
+> **Citações:** conferidas 0 · corrigidas 0 · por conferir 13. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-28 — corrigida (6 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
-Analisa o regime de proteção de indicações geográficas (IG) e denominações de origem protegidas (DOP) de produtos portugueses ao abrigo do Regulamento (UE) 2024/1143 (novo Regulamento das IG agrícolas e alimentares) e dos capítulos de IG dos acordos de comércio livre da UE, elabora a oposição a pedidos de registo de IG conflituantes e a ação de violação de IG protegida.
+Analisa o regime de proteção de indicações geográficas (IG) e denominações de origem protegidas (DOP) de produtos portugueses ao abrigo do Regulamento (UE) 2024/1143 (novo Regulamento das IG do vinho, das bebidas espirituosas e dos produtos agrícolas) e dos capítulos de IG dos acordos de comércio livre da UE, elabora a oposição a pedidos de registo de IG conflituantes e a ação de violação de IG protegida.
 
 ## Método
 
@@ -38,10 +40,10 @@ Dentro de <analise_da_situacao>:
 
 ### ETAPA 2 — ANÁLISE JURÍDICA
 Dentro de <fundamentos_juridicos>:
-- Regulamento (UE) 2024/1143: âmbito; registo no sistema eAmbrosia da Comissão Europeia; procedimento de oposição (60 dias após publicação no JOUE); proteção contra: uso direto/indireto da denominação, evocação, usurpação, imitação
+- Regulamento (UE) 2024/1143: âmbito; registo no sistema eAmbrosia da Comissão Europeia; procedimento de oposição a nível da União (3 meses a contar da publicação no JOUE do documento único — art. 17.º, n.º 1; quem esteja estabelecido num Estado-Membro diferente do do pedido declara a oposição junto do seu Estado-Membro — art. 17.º, n.º 2; fundamentos de oposição no art. 19.º); proteção contra: uso direto/indireto da denominação, evocação, usurpação, imitação
 - Proteção nos ACL: verificar lista de IG protegidas em cada ACL; mecanismos de execução
-- Base jurídica da ação de infração: art. 13.º Regulamento (UE) 2024/1143; tutela judicial nos tribunais nacionais; providências cautelares
-- Procedimento de oposição (arts. 49.º-53.º do antigo Reg. 1151/2012, substituído pelo 2024/1143): oposição nacional (DGADR) + oposição ao nível da UE
+- Base jurídica da ação de infração: art. 26.º Regulamento (UE) 2024/1143; tutela judicial nos tribunais nacionais; providências cautelares
+- Procedimento de oposição (Reg. (UE) 2024/1143, que revogou o Reg. (UE) n.º 1151/2012 — art. 94.º): fase nacional, com período de oposição de pelo menos 1 mês após a publicação do pedido no Estado-Membro de origem (art. 10.º, n.º 4), junto da autoridade nacional competente (DGADR; [■ VERIFICAR: autoridade competente para o vinho e as bebidas espirituosas, IVV, I.P.]) + oposição a nível da União (arts. 17.º e 19.º)
 
 ### ETAPA 3 — ESTRATÉGIA
 Dentro de <estrutura_estrategia>:
@@ -69,13 +71,13 @@ Intima-se a cessar imediatamente o uso da denominação e a retirar do mercado t
 
 **[B — OPOSIÇÃO A PEDIDO DE REGISTO DE IG CONFLITUANTE]**
 
-**Para:** Comissão Europeia / DGADR
+**Para:** autoridade nacional competente (DGADR; [■ VERIFICAR: IVV, I.P., se vinho ou bebida espirituosa]), para declaração junto da Comissão Europeia (art. 17.º, n.os 1 e 2, Regulamento (UE) 2024/1143) — só as autoridades dos Estados-Membros ou de países terceiros e as pessoas estabelecidas em países terceiros declaram a oposição diretamente junto da Comissão
 
 **I. Da IG Objeto de Oposição**
 [Referência do pedido publicado no JOUE; denominação requerida; país de origem do pedido]
 
 **II. Dos Fundamentos da Oposição**
-[Conflito com IG portuguesa já registada: homonímia, evocação ou usurpação; risco de confusão dos consumidores; precedência cronológica da IG portuguesa; art. 53.º Regulamento (UE) 2024/1143]
+[Conflito com IG portuguesa já registada: homonímia, evocação ou usurpação; risco de confusão dos consumidores; precedência cronológica da IG portuguesa; art. 19.º Regulamento (UE) 2024/1143 (fundamentos de oposição) e art. 29.º (indicações geográficas homónimas)]
 
 **III. Do Pedido**
 Requer-se a recusa do pedido de registo da denominação por conflito com a IG [nome] registada sob n.º [referência].
@@ -84,7 +86,7 @@ Requer-se a recusa do pedido de registo da denominação por conflito com a IG [
 Dentro de <checklist_validacao>:
 - [ ] Registo da IG portuguesa confirmado no eAmbrosia
 - [ ] Tipo de infração qualificado (usurpação direta / evocação / imitação)
-- [ ] Prazo de oposição verificado (60 dias da publicação)
+- [ ] Prazo de oposição verificado (3 meses a contar da publicação no JOUE — art. 17.º, n.º 1, Regulamento (UE) 2024/1143; via autoridade nacional, prazo nacional mais curto — art. 17.º, n.º 2)
 - [ ] Proteção em ACL verificada (se país terceiro)
 - [ ] Documentação de prova da violação reunida (fotos de embalagens, sites, amostras)
 - [ ] [■ VERIFICAR] itens sinalizados
@@ -103,7 +105,16 @@ Dentro de <checklist_validacao>:
 
 | Citação | Estado | Nota |
 |---|---|---|
-| art. 13.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| arts. 49.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 17.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 17.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 17.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 17.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 17.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 19.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 19.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 26.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| art. 53.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 26.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 94.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 10.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| arts. 17.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 29.º | por conferir [■ VERIFICAR] | diploma não identificado |

@@ -1,0 +1,489 @@
+[
+ {
+  "codigo": "CNS-027",
+  "veredicto": "corrigida",
+  "resumo": "A ficha dava 5 anos às dívidas de telecomunicações e energia (o direito ao preço dos serviços públicos essenciais prescreve em 6 meses — art. 10.º da Lei n.º 23/96), dizia que a carta registada de interpelação interrompe a prescrição (só a citação ou notificação judicial e o reconhecimento a interrompem — arts. 323.º e 325.º CC) e tratava as dívidas a comerciantes como sujeitas a 20 anos, ignorando as prescrições presuntivas de 2 anos (art. 317.º CC). Corrigiu-se ainda a epígrafe do art. 300.º CC, o efeito do pagamento (art. 304.º, n.º 2, CC) e acrescentou-se o cuidado a ter na carta quando a prescrição é presuntiva (art. 313.º CC).",
+  "substituicoes": [
+   {
+    "de": "- NUNCA pague nenhum valor antes de verificar a prescrição — o pagamento é renúncia tácita (art. 302.º CC)",
+    "para": "- NUNCA pague nenhum valor antes de verificar a prescrição — antes de consumada, o pagamento parcial vale como reconhecimento e interrompe-a (art. 325.º CC); depois de consumada, o que for pago não pode ser repetido (art. 304.º, n.º 2, CC) e o pagamento pode valer como renúncia tácita (art. 302.º CC)",
+    "motivo": "O pagamento não é, em si, renúncia: antes da prescrição interrompe-a e, depois, não se pode repetir e pode valer como renúncia tácita.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0300&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "  - Serviços de telecomunicações / energia: 5 anos [■ VERIFICAR: prazo específico]",
+    "para": "  - Serviços públicos essenciais (água, eletricidade, gás canalizado, comunicações eletrónicas, serviços postais, entre outros): o direito ao recebimento do preço prescreve em 6 meses após a prestação do serviço (art. 10.º, n.º 1, da Lei n.º 23/96, de 26 de julho); a diferença por pagamento inferior ao consumo efetuado caduca 6 meses após esse pagamento (n.º 2); o regime não se aplica à eletricidade em alta tensão (n.º 5)",
+    "motivo": "Nos serviços públicos essenciais o prazo é de 6 meses, não de 5 anos.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1436A0010&nid=1436&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "  - Crédito ao consumo: [■ VERIFICAR: prazo em vigor]",
+    "para": "  - Crédito ao consumo reembolsado em prestações de capital e juros: 5 anos para cada quota de amortização (art. 310.º, al. e), CC) [■ VERIFICAR: início do prazo quando houve vencimento antecipado de todas as prestações — jurisprudência uniformizada do STJ]",
+    "motivo": "As quotas de amortização do capital pagáveis com os juros prescrevem em 5 anos.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0310&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "  - Dívidas comerciais: 20 anos (CC) salvo regime especial",
+    "para": "  - Créditos de comerciantes por bens vendidos a quem não seja comerciante e de quem exerça profissionalmente uma indústria (fornecimentos, trabalhos): prescrição presuntiva de 2 anos (art. 317.º, al. b), CC); profissões liberais: 2 anos (art. 317.º, al. c), CC); alojamento, comidas ou bebidas: 6 meses (art. 316.º CC). Estas prescrições fundam-se na presunção de cumprimento, que só cede perante confissão do devedor, e a confissão extrajudicial só releva se for escrita (arts. 312.º e 313.º CC)\n  - Restantes dívidas: 20 anos (art. 309.º CC), salvo regime especial; se houver sentença ou outro título executivo que reconheça o direito, o prazo curto passa a ser o ordinário (art. 311.º CC)",
+    "motivo": "As dívidas de consumidores a comerciantes e prestadores estão, em regra, sujeitas às prescrições presuntivas curtas, não aos 20 anos.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0312&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Interrupção da prescrição: reconhecimento da dívida pelo devedor (incluindo pagamento parcial, promessa de pagar, pedido de prazo)",
+    "para": "- Interrupção da prescrição: citação ou notificação judicial de ato que exprima a intenção de exercer o direito (art. 323.º CC) e reconhecimento da dívida pelo devedor perante o credor, incluindo pagamento parcial, promessa de pagar ou pedido de prazo (art. 325.º CC); a interpelação extrajudicial, mesmo por carta registada, não interrompe",
+    "motivo": "Faltavam a interrupção por citação ou notificação judicial e a indicação de que a interpelação extrajudicial não interrompe.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0323&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Houve algum contacto do credor que possa ter interrompido a prescrição? (carta registada com interpelação — art. 323.º CC)",
+    "para": "- Houve citação ou notificação judicial (ação, injunção, notificação judicial avulsa) que tenha interrompido a prescrição? (art. 323.º CC — a carta registada de interpelação não interrompe)",
+    "motivo": "O art. 323.º CC exige citação ou notificação judicial; a carta registada não interrompe a prescrição.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0323&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Art. 300.º CC (inoponibilidade da prescrição antes de consumada)",
+    "para": "- Art. 300.º CC (inderrogabilidade do regime da prescrição: são nulos os acordos que alterem os prazos ou as condições em que opera)",
+    "motivo": "O art. 300.º CC trata da inderrogabilidade do regime da prescrição.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0300&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Art. 323.º CC (interrupção por citação ou interpelação)\n- Prazo específico do setor (se aplicável)",
+    "para": "- Art. 323.º CC (interrupção por citação ou notificação judicial)\n- Art. 325.º CC (interrupção por reconhecimento do devedor)\n- Arts. 312.º a 317.º CC (prescrições presuntivas), se aplicáveis\n- Prazo específico do setor (p. ex., art. 10.º da Lei n.º 23/96 nos serviços públicos essenciais)",
+    "motivo": "A interrupção não resulta de interpelação; acrescentam-se o reconhecimento, as presuntivas e o prazo dos serviços essenciais.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0323&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Se há dúvida sobre interrupção anterior: análise de documentação antes de invocar",
+    "para": "- Se há dúvida sobre interrupção anterior: análise de documentação antes de invocar\n- Se a prescrição for presuntiva (arts. 316.º e 317.º CC): a carta invoca o pagamento presumido e não pode admitir, por escrito, que a dívida está por pagar — a confissão escrita afasta a presunção (art. 313.º CC)",
+    "motivo": "Numa prescrição presuntiva, admitir por escrito o não pagamento destrói a presunção.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0312&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "o/a signatário/a invoca formalmente a prescrição da dívida em referência e recusa o seu pagamento.\"",
+    "para": "o/a signatário/a invoca formalmente a prescrição da dívida em referência e recusa o seu pagamento.\"\n\nVariante para prescrição presuntiva (arts. 316.º e 317.º CC): invocar que, decorrido o prazo, se presume o cumprimento (art. 312.º CC), sem declarar que a dívida não foi paga.",
+    "motivo": "A fórmula de recusa de pagamento não serve às prescrições presuntivas.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0312&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Tipo de prazo: [ ] 5 anos (prestações periódicas) [ ] 20 anos (geral) [ ] outro: [especifica]",
+    "para": "- Tipo de prazo: [ ] 6 meses (serviços públicos essenciais) [ ] 2 anos (prescrição presuntiva) [ ] 5 anos (prestações periódicas) [ ] 20 anos (geral) [ ] outro: [especifica]",
+    "motivo": "Faltavam os prazos mais frequentes nas dívidas de consumo.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1436A0010&nid=1436&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar em dgsi.pt a jurisprudência sobre o início do prazo do art. 310.º, al. e), CC no crédito ao consumo com vencimento antecipado de todas as prestações (acórdão uniformizador do STJ).",
+   "Se o credor (ou a empresa de recuperação a quem o crédito foi cedido) já obteve injunção com fórmula executória ou sentença, o prazo passa a ser o ordinário (art. 311.º CC).",
+   "Nas prescrições presuntivas, rever a carta para que não contenha confissão escrita de que a dívida não foi paga (art. 313.º, n.º 2, CC).",
+   "Nos serviços públicos essenciais, confirmar se houve recurso a meios extrajudiciais, que suspende os prazos do art. 10.º, n.ºs 1 e 4, da Lei n.º 23/96 (art. 15.º, n.º 2)."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0300&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0310&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0312&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0323&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1436A0010&nid=1436&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1436&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+  ]
+ },
+ {
+  "codigo": "CNS-039",
+  "veredicto": "corrigida",
+  "resumo": "A ficha assentava num prazo de prescrição de 3 anos, quando o direito ao preço prescreve em 6 meses após a prestação e o direito à diferença caduca 6 meses após o pagamento (art. 10.º da Lei n.º 23/96). Atribuía ao art. 7.º, n.º 2, da Lei n.º 23/96 uma regra de faseamento que está no Regulamento de Relações Comerciais da ERSE (arts. 44.º e 48.º), trocava o conteúdo dos arts. 7.º, 8.º e 9.º da lei e dizia que a ERSE verifica contadores (a verificação extraordinária faz-se em laboratório acreditado — art. 188.º do RRC). Corrigiu-se o enquadramento e acrescentou-se a arbitragem necessária do art. 15.º.",
+  "substituicoes": [
+   {
+    "de": "— O direito do fornecedor a cobrar regularizações prescreve ao fim de 3 anos (art. 10.º Lei 23/96).",
+    "para": "— O direito ao recebimento do preço prescreve no prazo de 6 meses após a prestação do serviço (art. 10.º, n.º 1, da Lei n.º 23/96); se tiver sido paga importância inferior à do consumo efetuado, por qualquer motivo, incluindo erro do prestador, o direito à diferença caduca 6 meses após esse pagamento (n.º 2); a ação ou injunção do prestador tem de ser proposta no prazo de 6 meses (n.º 4). O regime não se aplica à eletricidade em alta tensão (n.º 5).",
+    "motivo": "O art. 10.º da Lei n.º 23/96 fixa 6 meses, não 3 anos.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1436A0010&nid=1436&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "— Regularizações retroativas devem ser fracionadas em tantas faturas quantas as que originaram o débito estimado (art. 7.º, n.º 2 Lei 23/96).",
+    "para": "— Acertos de faturação a favor do comercializador: o cliente pode pedir o pagamento em prestações mensais, considerando o número de meses objeto do acerto, sem juros se o atraso não lhe for imputável; o acerto posterior a faturação por estimativa usa leituras reais e tem de ser emitido até 6 meses depois da última data a que respeita; e, nos clientes de baixa tensão normal e de gás em baixa pressão até 10 000 m3/ano, um acerto igual ou superior ao consumo médio mensal obriga o comercializador a propor um plano de regularização até 12 prestações (Regulamento de Relações Comerciais dos setores elétrico e do gás, Regulamento da ERSE n.º 827/2023, arts. 44.º, n.ºs 2 e 3, e 48.º, n.ºs 4 a 8) [■ VERIFICAR: versão em vigor do regulamento]. Não é regra da Lei n.º 23/96, cujo art. 7.º trata dos padrões de qualidade.",
+    "motivo": "O faseamento dos acertos consta do regulamento da ERSE; o art. 7.º da Lei n.º 23/96 não tem n.º 2 nem essa regra.",
+    "fonte": "https://www.erse.pt/media/cw5fdm3i/regulamento-827-2023_consolidado.pdf"
+   },
+   {
+    "de": "— Em caso de dúvida sobre a leitura, o consumidor pode exigir verificação do contador pela ERSE ou pelo distribuidor.",
+    "para": "— Em caso de dúvida sobre o contador, o consumidor pode pedir a sua verificação extraordinária, feita em laboratório acreditado; os encargos são de quem a pediu se o equipamento funcionar dentro das tolerâncias e do proprietário do equipamento nos restantes casos (art. 188.º do Regulamento de Relações Comerciais da ERSE) [■ VERIFICAR: norma equivalente no setor do gás]. A verificação não é feita pela ERSE.",
+    "motivo": "A verificação do contador é feita em laboratório acreditado, não pela ERSE.",
+    "fonte": "https://www.erse.pt/media/cw5fdm3i/regulamento-827-2023_consolidado.pdf"
+   },
+   {
+    "de": "- Se há prescrição (consumos de mais de 3 anos)",
+    "para": "- Se há prescrição ou caducidade (consumos prestados há mais de 6 meses; diferenças reclamadas mais de 6 meses após o pagamento da fatura por estimativa — art. 10.º, n.ºs 1 e 2, da Lei n.º 23/96)",
+    "motivo": "O prazo é de 6 meses.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1436A0010&nid=1436&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Lei 23/96, art. 7.º: regularização faseada de estimativas\n- Art. 10.º: prescrição de 3 anos\n- Art. 8.º: direito a faturação mensal ou bimestral com leituras reais\n- Regulamentos ERSE: Regulamento de Qualidade de Serviço (obrigações de leitura)\n- Regulamento de Relações Comerciais do Setor Elétrico\n- Lei 24/96, art. 4.º: direito à qualidade e informação",
+    "para": "- Lei 23/96, art. 9.º: direito a fatura mensal que discrimine os serviços prestados e as tarifas\n- Art. 10.º: prescrição de 6 meses do direito ao preço e caducidade de 6 meses do direito à diferença\n- Art. 8.º: proibição de consumos mínimos e de cobrança pelos contadores\n- Art. 12.º: o valor cobrado em excesso é abatido na fatura do acerto\n- Art. 15.º: arbitragem necessária por opção do utente pessoa singular; o recurso a meios extrajudiciais suspende os prazos do art. 10.º, n.ºs 1 e 4\n- Regulamento de Relações Comerciais dos setores elétrico e do gás (Regulamento da ERSE n.º 827/2023): leitura e estimativas (arts. 36.º a 39.º), periodicidade mensal da faturação (art. 44.º), acertos de faturação (art. 48.º), verificação extraordinária do contador (art. 188.º) [■ VERIFICAR: versão em vigor]\n- Lei 24/96, arts. 4.º e 8.º: direito à qualidade dos bens e serviços e direito à informação",
+    "motivo": "Os artigos da Lei n.º 23/96 estavam trocados, o prazo errado e o regulamento da ERSE desatualizado (hoje é comum à eletricidade e ao gás).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1436&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar no sítio da ERSE a versão em vigor do Regulamento de Relações Comerciais e a norma complementar sobre acertos (percentagem do consumo médio mensal e limiares do fracionamento).",
+   "Confirmar em dgsi.pt como se conta a caducidade do art. 10.º, n.º 2, da Lei n.º 23/96 quando as faturas por estimativa foram pagas.",
+   "Nos casos de procedimento fraudulento no contador, verificar o regime próprio do regulamento da ERSE, que não foi revisto nesta ficha.",
+   "Clientes em alta tensão estão fora do art. 10.º (n.º 5)."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1436&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1436A0010&nid=1436&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.erse.pt/media/cw5fdm3i/regulamento-827-2023_consolidado.pdf",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=726A0004&nid=726&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=726A0008&nid=726&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+  ]
+ },
+ {
+  "codigo": "CNS-041",
+  "veredicto": "corrigida",
+  "resumo": "A ficha citava a Lei n.º 5/2004, revogada pela Lei n.º 16/2022 (nova Lei das Comunicações Eletrónicas), um art. 7.º-A da Lei n.º 23/96 e uma «Deliberação ANACOM 788/2021» que não existem, e um limite de 36 meses de fidelização que a lei não prevê (o máximo é 24 meses — art. 131.º da LCE). Reescreveu-se o enquadramento: limite dos encargos de cessação antecipada (art. 136.º, n.º 4, da LCE, o menor entre a vantagem proporcional e 50 %/30 % das mensalidades vincendas), portabilidade em um dia útil (art. 141.º) e resolução por indisponibilidade ou mau desempenho do serviço (arts. 129.º e 130.º), que não resulta do art. 9.º da Lei n.º 24/96.",
+  "descricao": "Analisa e redige comunicação para resolução de contrato de telecomunicações com períodos de fidelização excessivos ou ilegais, para exigir a redução dos encargos de cessação antecipada e para invocar o direito de portabilidade do número, ao abrigo da Lei das Comunicações Eletrónicas (aprovada pela Lei n.º 16/2022, de 16 de agosto, que revogou a Lei n.º 5/2004), da Lei n.º 23/96 e da regulamentação da ANACOM.",
+  "descricao_en": "Analyses and drafts a communication to terminate a telecommunications contract with excessive or unlawful lock-in periods (fidelização), to demand a reduction of the early termination charges and to invoke the right to number portability, under the Electronic Communications Law (approved by Law No. 16/2022 of 16 August, which repealed Law No. 5/2004), Law No. 23/96 and the regulations of the National Communications Authority (ANACOM).",
+  "substituicoes": [
+   {
+    "de": "— A penalidade de saída antecipada não pode exceder o valor dos benefícios recebidos pelo consumidor (subsídio no equipamento, desconto no serviço) proporcionalmente ao período remanescente.",
+    "para": "— Os encargos pela cessação antecipada por iniciativa do consumidor não podem exceder o menor de dois valores: (a) a vantagem conferida, identificada e quantificada no contrato, proporcional ao período de fidelização remanescente; ou (b) 50 % das mensalidades vincendas no 1.º ano e 30 % no 2.º ano do período de fidelização inicial (30 % num período subsequente sem alteração do lacete local); não pode ser cobrada contrapartida a título indemnizatório ou compensatório (art. 136.º, n.ºs 3 e 4, da Lei das Comunicações Eletrónicas, aprovada pela Lei n.º 16/2022, de 16 de agosto). Equipamento subsidiado: art. 139.º.",
+    "motivo": "O limite legal é o menor entre a vantagem proporcional e uma percentagem das mensalidades vincendas.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=3560A0136&nid=3560&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "— A fidelização máxima permitida é de 24 meses (salvo equipamento subsidiado de valor superior — máximo 36 meses).",
+    "para": "— A fidelização máxima com consumidores é de 24 meses, sem exceção para equipamento subsidiado; só fica fora do limite o contrato autónomo de pagamento em prestações da instalação de uma ligação física, que não abrange equipamentos (art. 131.º, n.ºs 3, 5 e 6, da Lei das Comunicações Eletrónicas). A fidelização exige contrapartidas identificadas e quantificadas no contrato (n.º 4) e o operador tem de oferecer também contratos sem fidelização (n.º 1).",
+    "motivo": "A lei não prevê o limite de 36 meses.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=3560A0131&nid=3560&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "— A portabilidade deve ser completada em 1 dia útil (deliberação ANACOM).",
+    "para": "— A portabilidade e a ativação do número ocorrem na data acordada com a nova empresa, até um dia útil a contar dessa data, e o contrato com a anterior empresa cessa automaticamente com a ativação (art. 141.º, n.ºs 4 e 8, da Lei das Comunicações Eletrónicas); os trâmites são fixados pela ANACOM (art. 142.º, n.º 3).",
+    "motivo": "O prazo de um dia útil resulta da lei, não de deliberação da ANACOM.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=3560A0139&nid=3560&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Lei 23/96, art. 7.º-A: fidelizações em serviços essenciais\n- Lei 5/2004, arts. 47.º e ss.: contratos com consumidores (prestação de serviços de comunicações)\n- Deliberação ANACOM 788/2021: limites da penalidade de saída\n- DL 446/85: cláusula abusiva de fidelização excessiva\n- Lei 24/96, art. 9.º: resolução por degradação de serviço",
+    "para": "- Lei das Comunicações Eletrónicas (LCE), aprovada pela Lei n.º 16/2022, de 16 de agosto, que revogou a Lei n.º 5/2004: arts. 131.º (duração e fidelização), 132.º (prorrogação automática: depois dela, denúncia a todo o tempo com pré-aviso máximo de um mês e sem custos), 136.º (encargos da cessação antecipada), 138.º e 139.º (resolução e equipamento subsidiado) e 141.º (portabilidade)\n- LCE, art. 129.º, n.º 5 (indisponibilidade do serviço por mais de 15 dias depois de reportada: resolução sem custos) e art. 130.º (discrepância significativa e continuada entre o desempenho real e o contratado, fora do acesso à Internet: resolução sem custos)\n- Lei 23/96: as comunicações eletrónicas são serviço público essencial (art. 1.º, n.º 2, al. d)) — faturação (art. 9.º) e prescrição de 6 meses (art. 10.º); a lei não regula a fidelização\n- DL 446/85: cláusula abusiva de fidelização excessiva\n- Lei 24/96, art. 9.º: proteção dos interesses económicos do consumidor",
+    "motivo": "A Lei n.º 5/2004 foi revogada; o art. 7.º-A da Lei n.º 23/96 e a deliberação citada não existem; o art. 9.º da Lei n.º 24/96 não prevê resolução por degradação do serviço.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3560&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Penalidade máxima proporcional: [€ = Benefício × (meses restantes / total)]",
+    "para": "- Penalidade máxima: o menor entre (a) Benefício × (meses restantes / total) e (b) 50 % das mensalidades vincendas no 1.º ano ou 30 % no 2.º ano do período inicial (30 % num período subsequente sem alteração do lacete local) — art. 136.º, n.º 4, LCE; equipamento subsidiado: limites do art. 139.º LCE",
+    "motivo": "O cálculo omitia o segundo limite legal.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=3560A0136&nid=3560&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Contratos celebrados antes da entrada em vigor da LCE (90 dias após 16/08/2022): só alguns preceitos se aplicam de imediato (arts. 129.º, 133.º, 136.º, al. b), ii), e 137.º — art. 9.º da Lei n.º 16/2022); confirmar o regime aplicável à fidelização desses contratos.",
+   "Microempresas, pequenas empresas e entidades sem fins lucrativos beneficiam destas regras, salvo renúncia expressa (arts. 131.º, n.º 7, e 136.º, n.º 7, LCE).",
+   "Confirmar o regulamento da ANACOM sobre portabilidade em vigor e as compensações devidas por atraso (art. 142.º, n.º 3, LCE).",
+   "O consumidor pode cessar o contrato através da plataforma eletrónica da DGC (art. 138.º, n.º 5, LCE); confirmar a portaria que a regula."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3560&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=3560A0129&nid=3560&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=3560A0131&nid=3560&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=3560A0136&nid=3560&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=3560A0139&nid=3560&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1436&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=726A0009&nid=726&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+  ]
+ },
+ {
+  "codigo": "BAN-005",
+  "veredicto": "corrigida",
+  "resumo": "O parecer media o banco por um prazo de ativação do PERSI de «15 dias após a mora» e por uma notificação de extinção em «5 dias úteis», que a lei não prevê: os 15 dias são do contacto preliminar (art. 13.º) e a integração é obrigatória entre o 31.º e o 60.º dia (art. 14.º, n.º 1). A correspondência dos artigos do DL 227/2012 estava trocada (PARI nos arts. 9.º a 11.º-C, extinção no art. 17.º, garantias no art. 18.º), a «Portaria n.º 312-A/2012» foi substituída pelo Aviso do Banco de Portugal aplicável e a recomendação de «suspensão da execução» passou a ser a invocação do impedimento do art. 18.º, n.º 1, al. b), com a qualificação a confirmar.",
+  "substituicoes": [
+   {
+    "de": "- Em que fase se encontra o PERSI? (ativação / negociação / extinção)",
+    "para": "- Em que fase se encontra o PERSI? (fase inicial / avaliação e proposta / negociação / extinção — arts. 14.º a 17.º DL 227/2012)",
+    "motivo": "As fases são as previstas nos arts. 14.º a 17.º.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1821&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "  - Art. 2.º: definições\n  - Art. 6.º ss: PARI\n  - Art. 12.º: ativação do PERSI (15 dias)\n  - Art. 14.º: deveres de informação na ativação\n  - Art. 15.º: deveres durante a negociação\n  - Art. 16.º: proposta de medidas\n  - Art. 17.º: proibição de instauração de ações durante PERSI\n  - Art. 18.º: extinção do PERSI — causas e requisitos\n  - Art. 19.º: notificação de extinção (5 dias úteis)\n- Portaria n.º 312-A/2012: documentação do PERSI",
+    "para": "  - Art. 2.º: âmbito (crédito relativo a imóveis abrangido pelo DL 74-A/2017, crédito aos consumidores, descobertos); art. 3.º: definições (o cliente bancário é o consumidor mutuário)\n  - Arts. 9.º a 11.º-C: PARI (risco de incumprimento)\n  - Art. 12.º: dever de promover o PERSI perante clientes em mora\n  - Art. 13.º: contactos preliminares — informar o cliente do atraso até 15 dias após o vencimento\n  - Art. 14.º: integração obrigatória entre o 31.º e o 60.º dia após o vencimento (n.º 1), imediata a pedido do cliente em mora em suporte duradouro (n.º 2), e comunicação da integração em 5 dias, em suporte duradouro (n.º 4)\n  - Art. 15.º: avaliação da capacidade financeira e, até 30 dias após a integração, comunicação do resultado ou apresentação de propostas adequadas (n.º 4); soluções possíveis (n.º 5)\n  - Art. 16.º: fase de negociação (respostas em 15 dias)\n  - Art. 17.º: extinção do PERSI — causas (n.ºs 1 e 2) e comunicação em suporte duradouro com o fundamento e as razões, só produzindo efeitos depois dela (n.ºs 3 e 4)\n  - Art. 18.º: garantias do cliente — entre a integração e a extinção, o banco não pode resolver o contrato, intentar ações judiciais para cobrar o crédito nem ceder o crédito ou a posição contratual (n.º 1), salvo as exceções do n.º 2\n  - Art. 21.º: fiador\n- Aviso do Banco de Portugal n.º 7/2021 (elementos informativos das comunicações do PARI e do PERSI; revogou o Aviso n.º 17/2012) [■ VERIFICAR: versão em vigor]",
+    "motivo": "Os artigos estavam trocados e os prazos de 15 dias para a ativação e de 5 dias úteis para a extinção não existem; a portaria citada não regula o PERSI.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1821&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "O PERSI encontra-se regulado pelo DL n.º 227/2012, de 25 de outubro, com as alterações posteriores [■ VERIFICAR], e pela Portaria n.º 312-A/2012.",
+    "para": "O PERSI encontra-se regulado pelo DL n.º 227/2012, de 25 de outubro, na redação do DL n.º 70-B/2021, de 6 de agosto, e pelo Aviso do Banco de Portugal n.º 7/2021 [■ VERIFICAR: alterações posteriores].",
+    "motivo": "A última alteração do DL 227/2012 é a do DL 70-B/2021; a regulamentação é do Banco de Portugal.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1821&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "Nos termos do art. 12.º, n.º 1: \"[transcrição]\"\nNos termos do art. 17.º: \"[transcrição]\"",
+    "para": "Nos termos do art. 14.º, n.º 1: \"[transcrição]\"\nNos termos do art. 18.º, n.º 1: \"[transcrição]\"",
+    "motivo": "A integração está no art. 14.º, n.º 1 (o art. 12.º não tem números) e as garantias do cliente no art. 18.º, n.º 1.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1821&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "[Verificar se foi ativado no prazo de 15 dias após mora. Se não foi: banco violou obrigação legal.]",
+    "para": "[Verificar se o banco informou o cliente do atraso até 15 dias após o vencimento (art. 13.º), se o integrou no PERSI entre o 31.º e o 60.º dia após o vencimento — ou na data do pedido do cliente já em mora (art. 14.º, n.ºs 1 e 2) — e se comunicou a integração em 5 dias, em suporte duradouro (art. 14.º, n.º 4). Se não: banco violou obrigação legal.]",
+    "motivo": "A integração faz-se entre o 31.º e o 60.º dia; os 15 dias são do contacto preliminar.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1821&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "[Verificar se o cliente foi informado da ativação, dos seus direitos e dos mecanismos disponíveis — art. 14.º]",
+    "para": "[Verificar se o cliente foi informado da integração, dos seus direitos e dos mecanismos disponíveis, incluindo a rede extrajudicial de apoio a clientes bancários — arts. 14.º, n.º 4, e 15.º, n.º 6]",
+    "motivo": "A informação sobre a rede extrajudicial consta do art. 15.º, n.º 6.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1821&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "[Analisar se a proposta é adequada e proporcionada — art. 16.º DL 227/2012. Lista de medidas possíveis: carência, extensão de prazo, perdão parcial de encargos, bonificação de taxa]",
+    "para": "[Analisar se a proposta é adequada à situação financeira, objetivos e necessidades do cliente — art. 15.º, n.º 4, al. b), DL 227/2012. Soluções previstas (art. 15.º, n.º 5): refinanciamento por novo contrato, alargamento do prazo, período de carência, diferimento de parte do capital, redução temporária da taxa de juro, consolidação de contratos. Na renegociação o banco não pode cobrar comissões nem agravar a taxa de juro (art. 8.º)]",
+    "motivo": "As propostas e as soluções estão no art. 15.º; o «perdão parcial de encargos» não consta da lei.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1821&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "[Verificar se a extinção se baseou em causa legal (art. 18.º) e se foi notificada no prazo de 5 dias úteis]",
+    "para": "[Verificar se a extinção se baseou em causa legal (art. 17.º, n.ºs 1 e 2) e se foi comunicada em suporte duradouro, com o fundamento legal e as razões da inviabilidade — sem essa comunicação a extinção não produz efeitos (art. 17.º, n.ºs 3 e 4). No crédito relativo a imóveis, em certas causas de extinção, o banco tem ainda de aguardar 15 dias após a comunicação (art. 18.º, n.º 4)]",
+    "motivo": "A extinção está no art. 17.º e a lei não fixa prazo de 5 dias úteis para a comunicar.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1821&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "C. [Indicação sobre suspensão de eventual execução hipotecária]",
+    "para": "C. [Indicação sobre o impacto em eventual execução hipotecária]",
+    "motivo": "O DL 227/2012 não prevê a suspensão da execução.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1821&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "2. Requerimento ao tribunal de suspensão da execução hipotecária com fundamento no art. 17.º DL 227/2012",
+    "para": "2. Na execução ou ação já instaurada, invocar (na oposição à execução ou na contestação) a falta de integração no PERSI ou a sua extinção irregular, por violação do impedimento do art. 18.º, n.º 1, al. b), DL 227/2012 [■ VERIFICAR: qualificação como exceção dilatória e efeitos (absolvição da instância ou extinção da execução) segundo a jurisprudência atual em dgsi.pt]",
+    "motivo": "O impedimento de intentar ações está no art. 18.º e opera como obstáculo à ação, não como fundamento de suspensão.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1821&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Avaliar se a proposta é proporcionada (art. 16.º DL 227/2012)",
+    "para": "- Avaliar se a proposta é adequada à situação financeira do cliente (art. 15.º, n.ºs 4, al. b), e 5, DL 227/2012)",
+    "motivo": "A adequação da proposta rege-se pelo art. 15.º.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1821&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Prazos legais verificados (15 dias ativação, 5 dias notificação de extinção)\n- [ ] Deveres do banco analisados (arts. 12.º, 14.º, 15.º, 16.º, 17.º, 18.º)",
+    "para": "- [ ] Prazos legais verificados (contacto até 15 dias após o vencimento — art. 13.º; integração entre o 31.º e o 60.º dia — art. 14.º, n.º 1; comunicação da integração em 5 dias — art. 14.º, n.º 4; avaliação ou proposta em 30 dias — art. 15.º, n.º 4; extinção no 91.º dia, salvo prorrogação por escrito — art. 17.º, n.º 1, al. c))\n- [ ] Deveres do banco analisados (arts. 13.º a 18.º)",
+    "motivo": "Prazos corrigidos de acordo com os arts. 13.º a 17.º.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1821&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar no sítio do Banco de Portugal o Aviso n.º 7/2021 em vigor (o sítio não foi acessível nesta revisão) e se o DL 227/2012 teve alterações depois do DL 70-B/2021.",
+   "Confirmar em dgsi.pt a jurisprudência atual sobre a falta de integração no PERSI como exceção dilatória e os seus efeitos na execução.",
+   "A Lei n.º 58/2012 criou um regime extraordinário e temporário para devedores de crédito à habitação; confirmar se ainda se aplica ao caso.",
+   "O PERSI só protege consumidores (art. 3.º, al. a)); o fiador tem procedimento próprio (art. 21.º)."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1821&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.bportugal.pt/aviso/72021",
+   "https://www.bportugal.pt/aviso/172012"
+  ]
+ },
+ {
+  "codigo": "DES-029",
+  "veredicto": "corrigida",
+  "resumo": "A ficha dirigia a reclamação ao clube vendedor e falava de responsabilidade solidária do vendedor e do comprador, quando o devedor é o novo clube, que deduz os 5 % e os distribui (Anexo 5, art. 1, do RSTP). O cálculo por «anos completos × percentagem» não seguia a tabela do Anexo 5 (5 % dos 5 % por ano civil dos 12 aos 15 anos e 10 % dos 16 aos 23), a aplicação era limitada a transferências «permanentes» (abrange também empréstimos, durante o contrato e com dimensão internacional) e faltavam o prazo de dois anos (art. 23.º, n.º 3) e a FIFA Clearing House. Corrigiu-se também a descrição do índice, que tinha os mesmos erros e citava a edição de 2022.",
+  "descricao": "Calcula e elabora reclamação do mecanismo de solidariedade FIFA previsto no artigo 21.º e no Anexo 5 do RSTP (Regulamento do Estatuto e Transferência de Jogadores), que reserva 5 % de qualquer compensação paga pela transferência de um jogador profissional durante o contrato, com dimensão internacional, aos clubes que o formaram entre os anos civis do 12.º e do 23.º aniversário, segundo a tabela do Anexo 5 (5 % desse montante por ano dos 12 aos 15 anos e 10 % por ano dos 16 aos 23).",
+  "descricao_en": "Calculates and prepares a claim under the FIFA solidarity mechanism provided for in Article 21 and Annexe 5 of the RSTP (Regulations on the Status and Transfer of Players), which reserves 5% of any compensation paid for the transfer of a professional player during a contract, with an international dimension, for the clubs that trained the player between the calendar years of the 12th and 23rd birthdays, according to the Annexe 5 table (5% of that amount per year from 12 to 15 and 10% per year from 16 to 23).",
+  "substituicoes": [
+   {
+    "de": "- Confirmação de que se trata de transferência permanente internacional",
+    "para": "- Confirmação de que o jogador profissional se transferiu durante a vigência do contrato, com pagamento de compensação, a título definitivo ou por empréstimo, entre clubes de associações diferentes — ou da mesma associação, se o clube formador pertencer a outra (RSTP, Anexo 5, art. 1, n.º 2)",
+    "motivo": "O mecanismo abrange também empréstimos e exige transferência durante o contrato com dimensão internacional.",
+    "fonte": "https://digitalhub.fifa.com/asset/5c0e740b-0810-4349-a7ba-256b16bda300/FIFA-Legal-Handbook-2026.pdf"
+   },
+   {
+    "de": "- Prazo de reclamação junto da FIFA\n- Responsabilidade solidária do clube vendedor e do clube comprador",
+    "para": "- Prazo: o Tribunal do Futebol da FIFA não aprecia casos em que tenham decorrido mais de dois anos desde o facto que deu origem ao litígio, e conhece oficiosamente deste limite (art. 23.º, n.º 3, do RSTP)\n- Devedor: o novo clube (adquirente), que deduz os 5 % da compensação paga e os distribui pelos clubes formadores (Anexo 5, art. 1, n.º 1); o RSTP não prevê responsabilidade solidária do clube vendedor\n- Transferências abrangidas pelo Regulamento da FIFA Clearing House: cálculo com base no passaporte eletrónico do jogador (EPP), com processo de revisão de 15 dias, e pagamento através da Clearing House (Anexo 5, art. 2, n.º 3; FCHR, arts. 9.º, 12.º e 13.º)",
+    "motivo": "O obrigado é o novo clube; faltavam o prazo de dois anos e o circuito da FIFA Clearing House.",
+    "fonte": "https://digitalhub.fifa.com/asset/5c0e740b-0810-4349-a7ba-256b16bda300/FIFA-Legal-Handbook-2026.pdf"
+   },
+   {
+    "de": "- Total a distribuir: 5 % do valor de transferência\n- Mapa por clube com: anos completos × percentagem (Anexo 5) × valor total",
+    "para": "- Total a distribuir: 5 % de qualquer compensação paga no âmbito da transferência, excluída a compensação por formação (Anexo 5, art. 1, n.º 1)\n- Mapa por clube, por ano civil de registo entre o ano civil do 12.º e o do 23.º aniversário (pro rata se inferior a um ano): 5 % dos 5 % por cada ano civil do 12.º ao 15.º aniversário e 10 % dos 5 % por cada ano civil do 16.º ao 23.º aniversário",
+    "motivo": "A distribuição segue a tabela do Anexo 5, com pesos diferentes por idade, e exclui a compensação por formação.",
+    "fonte": "https://digitalhub.fifa.com/asset/5c0e740b-0810-4349-a7ba-256b16bda300/FIFA-Legal-Handbook-2026.pdf"
+   },
+   {
+    "de": "Redige carta/requerimento ao clube vendedor (ou à FIFA se necessário) com:",
+    "para": "Redige carta/requerimento ao novo clube (adquirente), devedor da contribuição (ou à FIFA se necessário), com:",
+    "motivo": "A contribuição é devida pelo novo clube, não pelo vendedor.",
+    "fonte": "https://digitalhub.fifa.com/asset/5c0e740b-0810-4349-a7ba-256b16bda300/FIFA-Legal-Handbook-2026.pdf"
+   },
+   {
+    "de": "- Prazo de pagamento (30 dias)\n- Reserva do direito de ação na FIFA DRC",
+    "para": "- Prazo de pagamento: 30 dias após o registo do jogador ou, nos pagamentos condicionais, 30 dias após cada pagamento, nos casos não abrangidos pelo Regulamento da FIFA Clearing House (Anexo 5, art. 2, n.º 1)\n- Reserva do direito de ação na Câmara de Resolução de Litígios (DRC) do Tribunal do Futebol da FIFA (arts. 22.º, n.º 1, als. d) e e), e 23.º, n.º 1, do RSTP), no prazo de dois anos (art. 23.º, n.º 3)",
+    "motivo": "O prazo de 30 dias conta do registo e só vale fora da Clearing House; a DRC integra o Tribunal do Futebol.",
+    "fonte": "https://digitalhub.fifa.com/asset/5c0e740b-0810-4349-a7ba-256b16bda300/FIFA-Legal-Handbook-2026.pdf"
+   },
+   {
+    "de": "- [ ] Transferência confirmada como permanente e internacional",
+    "para": "- [ ] Transferência confirmada como ocorrida durante o contrato, definitiva ou por empréstimo, com dimensão internacional (Anexo 5, art. 1, n.º 2)",
+    "motivo": "Os empréstimos também estão abrangidos.",
+    "fonte": "https://digitalhub.fifa.com/asset/5c0e740b-0810-4349-a7ba-256b16bda300/FIFA-Legal-Handbook-2026.pdf"
+   },
+   {
+    "de": "- [ ] Prazo de reclamação não expirado",
+    "para": "- [ ] Prazo de dois anos não expirado (art. 23.º, n.º 3, do RSTP) e verificado se a transferência passou pela FIFA Clearing House",
+    "motivo": "O checklist não indicava o prazo.",
+    "fonte": "https://digitalhub.fifa.com/asset/5c0e740b-0810-4349-a7ba-256b16bda300/FIFA-Legal-Handbook-2026.pdf"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Aplicar a edição do RSTP em vigor na data da transferência: a edição de 2025 conta por anos civis, ao passo que edições anteriores contavam por épocas desportivas; a nova edição, em vigor a 1 de janeiro de 2027, mantém o art. 21.º, mas o Anexo 5 deve ser conferido.",
+   "Se a transferência foi processada pela FIFA Clearing House e o clube não participou na revisão do EPP, ver a reclamação do art. 18.º, n.º 2, do FCHR (bridge transfers, troca de jogadores, informação incorreta).",
+   "Confirmar o facto que inicia o prazo de dois anos (em regra, o vencimento da contribuição) na jurisprudência da DRC e do TAS."
+  ],
+  "fontes": [
+   "https://digitalhub.fifa.com/asset/5c0e740b-0810-4349-a7ba-256b16bda300/FIFA-Legal-Handbook-2026.pdf",
+   "https://digitalhub.fifa.com/asset/e495d04b-ef95-4d07-ace2-ea4d7781d7de/Regulations-on-the-Status-and-Transfer-of-Players_January-2027.pdf",
+   "https://digitalhub.fifa.com/m/743a062f59a3a50b/original/FIFA-Clearing-House-Regulations-January-2026-edition.pdf",
+   "https://legal.fifa.com/transfer-system/news/bureau-council-new-regulatory-framework-global-football-transfer-system-2027"
+  ]
+ },
+ {
+  "codigo": "DES-033",
+  "veredicto": "corrigida",
+  "resumo": "A ficha assentava no Decreto-Lei n.º 67/97 e no regime de 2013 (que designava como «Lei n.º 10/2013, de 28 de janeiro»), ambos fora de vigor: o regime jurídico das sociedades desportivas é hoje a Lei n.º 39/2023, de 4 de agosto, que revogou o Decreto-Lei n.º 10/2013, de 25 de janeiro. Substituíram-se as remissões e o capital mínimo (art. 9.º: 250 000 € na 1.ª Liga, 50 000 € na 2.ª Liga e noutras competições profissionais), e acertaram-se a transmissão de ações e a preferência (arts. 18.º e 23.º), a idoneidade (art. 32.º), o contrato com o clube fundador (art. 4.º, n.º 2) e a descrição do índice.",
+  "descricao": "Elabora a documentação jurídica para constituição de Sociedade Anónima Desportiva (SAD) ao abrigo da Lei n.º 39/2023, de 4 de agosto (regime jurídico das sociedades desportivas, que revogou o Decreto-Lei n.º 10/2013, de 25 de janeiro), e, subsidiariamente, do Código das Sociedades Comerciais, incluindo estatutos, estrutura acionista, requisitos de capital mínimo e regras de governance aplicáveis a clubes que participam em competições profissionais.",
+  "descricao_en": "Prepares the legal documentation for the incorporation of a Sports Public Limited Company (Sociedade Anónima Desportiva — SAD) under Law No. 39/2023 of 4 August (Legal Regime for Sports Companies, which repealed Decree-Law No. 10/2013 of 25 January) and, on a subsidiary basis, the Commercial Companies Code, including articles of association, shareholder structure, minimum share capital requirements and the governance rules applicable to clubs taking part in professional competitions.",
+  "substituicoes": [
+   {
+    "de": "— Cita artigos reais da Lei 10/2013, DL 67/1997 e CSC.",
+    "para": "— Cita artigos reais da Lei n.º 39/2023, de 4 de agosto (regime jurídico das sociedades desportivas, que revogou o Decreto-Lei n.º 10/2013, de 25 de janeiro), e do CSC, aplicável subsidiariamente (art. 49.º, n.º 2, da Lei n.º 39/2023).",
+    "motivo": "O regime em vigor é a Lei n.º 39/2023; o regime de 2013 e o DL 67/97 já não vigoram.",
+    "fonte": "https://files.diariodarepublica.pt/1s/2023/08/15100/0000400021.pdf"
+   },
+   {
+    "de": "- Tipo de competição (profissional obriga a SAD ou sociedade por quotas desportiva)\n- Capital social mínimo exigido por lei",
+    "para": "- Tipo de competição (a participação em competições profissionais de modalidades coletivas é reservada a sociedades desportivas: SAD, sociedade desportiva por quotas ou sociedade desportiva unipessoal por quotas — arts. 2.º, n.º 2, e 7.º, n.º 1, da Lei n.º 39/2023)\n- Capital social mínimo (art. 9.º da Lei n.º 39/2023): 250 000 € na 1.ª Liga e 50 000 € na 2.ª Liga de futebol; 50 000 € noutras competições profissionais; a sociedade que sobe à 1.ª Liga tem de ter o mínimo um mês antes do início da competição",
+    "motivo": "Tipos e capital mínimo segundo a Lei n.º 39/2023.",
+    "fonte": "https://files.diariodarepublica.pt/1s/2023/08/15100/0000400021.pdf"
+   },
+   {
+    "de": "- Requisitos de idoneidade dos administradores",
+    "para": "- Requisitos de idoneidade dos administradores, membros do órgão de fiscalização e detentores de participação qualificada (art. 32.º) e incompatibilidades dos administradores (art. 21.º da Lei n.º 39/2023)",
+    "motivo": "A idoneidade abrange também fiscais e detentores de participação qualificada.",
+    "fonte": "https://files.diariodarepublica.pt/1s/2023/08/15100/0000400021.pdf"
+   },
+   {
+    "de": "- Lei n.º 10/2013 (regime geral das sociedades desportivas)\n- DL 67/1997 (requisitos específicos das SAD de futebol profissional)",
+    "para": "- Lei n.º 39/2023, de 4 de agosto (regime jurídico das sociedades desportivas; revogou o Decreto-Lei n.º 10/2013, de 25 de janeiro — art. 51.º): capital mínimo (art. 9.º), participação mínima de 5 % e direitos especiais do clube fundador nas sociedades criadas por transformação ou personalização de equipa (art. 11.º), ações das categorias A e B (art. 13.º), administração (art. 19.º), paridade (art. 20.º), incompatibilidades (art. 21.º), transparência (art. 22.º), preferência nos aumentos de capital e nas transmissões de ações (art. 23.º), fiscalização pelo IPDJ, I. P. (art. 31.º) e idoneidade (art. 32.º)",
+    "motivo": "Os dois diplomas citados não estão em vigor; o regime é o da Lei n.º 39/2023.",
+    "fonte": "https://files.diariodarepublica.pt/1s/2023/08/15100/0000400021.pdf"
+   },
+   {
+    "de": "- Regras de transferência de ações e direito de preferência do clube fundador",
+    "para": "- Transmissão de ações: sem limitações à transmissibilidade (art. 18.º, n.º 2), mas com direito de preferência dos acionistas e dos associados do clube fundador nos aumentos de capital e nas transmissões de ações (art. 23.º, n.ºs 1, 2 e 6, da Lei n.º 39/2023); direitos especiais das ações do clube fundador (veto e designação de administrador — art. 11.º, n.º 2)",
+    "motivo": "A lei proíbe limitações à transmissão das ações da SAD e regula a preferência no art. 23.º.",
+    "fonte": "https://files.diariodarepublica.pt/1s/2023/08/15100/0000400021.pdf"
+   },
+   {
+    "de": "- Relação contratual com o clube fundador (licença de nome, utilização de instalações)",
+    "para": "- Relação contratual com o clube fundador: contrato escrito, anexo ao ato constitutivo, sobre a utilização das instalações, da propriedade industrial e de outros sinais distintivos (art. 4.º, n.º 2, da Lei n.º 39/2023)",
+    "motivo": "O contrato é obrigatório e anexo ao ato constitutivo.",
+    "fonte": "https://files.diariodarepublica.pt/1s/2023/08/15100/0000400021.pdf"
+   },
+   {
+    "de": "- [ ] Capital social igual ou superior ao mínimo legal (verificar DL 67/1997)\n- [ ] Administradores com idoneidade verificada",
+    "para": "- [ ] Capital social igual ou superior ao mínimo legal (art. 9.º da Lei n.º 39/2023)\n- [ ] Administradores e detentores de participação qualificada com idoneidade (declaração de compromisso de honra à entidade fiscalizadora — art. 32.º) e sem incompatibilidades (art. 21.º)",
+    "motivo": "O capital mínimo e a idoneidade constam da Lei n.º 39/2023.",
+    "fonte": "https://files.diariodarepublica.pt/1s/2023/08/15100/0000400021.pdf"
+   },
+   {
+    "de": "- [ ] Registo no RNPC e publicação no DR efetuados",
+    "para": "- [ ] Certificado de admissibilidade da firma (RNPC), registo comercial e publicações obrigatórias no sítio na Internet de acesso público (art. 167.º, n.º 1, CSC) efetuados [■ VERIFICAR: comunicações devidas ao IPDJ, I. P., entidade fiscalizadora (art. 31.º da Lei n.º 39/2023)]",
+    "motivo": "As publicações obrigatórias fazem-se em sítio na Internet de acesso público, não no Diário da República.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0167&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Contrato de utilização de instalações com o clube fundador",
+    "para": "- [ ] Contrato de utilização de instalações e sinais distintivos com o clube fundador, anexo ao ato constitutivo (art. 4.º, n.º 2)",
+    "motivo": "O contrato tem de ser anexo ao ato constitutivo.",
+    "fonte": "https://files.diariodarepublica.pt/1s/2023/08/15100/0000400021.pdf"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar no Diário da República se a Lei n.º 39/2023 teve alterações depois da publicação (o texto revisto é o publicado em 4/08/2023).",
+   "Confirmar os regulamentos da FPF e da Liga adaptados à Lei n.º 39/2023 (art. 50.º) e as exigências de licenciamento da época.",
+   "O regime fiscal das sociedades desportivas consta de lei especial (art. 28.º); confirmar a lei em vigor.",
+   "Paridade: 33,3 % de cada sexo nos órgãos de administração e de fiscalização (art. 20.º e norma transitória do art. 48.º).",
+   "Confirmar a forma de constituição (de raiz, transformação do clube ou personalização de uma equipa — art. 3.º, n.º 1), porque dela dependem a participação mínima de 5 % e as ações de categoria A."
+  ],
+  "fontes": [
+   "https://files.diariodarepublica.pt/1s/2023/08/15100/0000400021.pdf",
+   "https://diariodarepublica.pt/dr/detalhe/lei/39-2023-216714697",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0167&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+  ]
+ },
+ {
+  "codigo": "SAU-059",
+  "veredicto": "corrigida",
+  "resumo": "O checklist dava um prazo de prescrição de 2 anos num «art. 199.º» da Lei n.º 98/2009, que não existe: o direito de ação caduca em 1 ano a contar da alta clínica formalmente comunicada (ou da morte) e as prestações fixadas prescrevem em 5 anos (art. 179.º). A lista das doenças profissionais é a do Decreto Regulamentar n.º 6/2001 (na redação do Decreto Regulamentar n.º 76/2007), não um «DL 76/2007», a perícia segue o processo do CPT (junta médica, arts. 138.º a 140.º) e não o art. 151.º CPC, e a competência dos juízos do trabalho está no art. 126.º da LOSJ. Corrigiram-se ainda as participações do acidente e a responsabilidade do empregador sem seguro.",
+  "descricao": "Analisa o regime jurídico das doenças profissionais e dos acidentes de trabalho com componente médica complexa, ao abrigo da Lei n.º 98/2009, de 4 de setembro (Regime Jurídico dos Acidentes de Trabalho e Doenças Profissionais), do Decreto Regulamentar n.º 6/2001, na redação do Decreto Regulamentar n.º 76/2007 (lista das doenças profissionais), e das normas da DGS. Aborda a qualificação da doença profissional, a impugnação da decisão médica da companhia de seguros e o acesso ao tratamento pelo SNS quando o seguro recusa.",
+  "descricao_en": "Analyses the legal regime for occupational diseases and workplace accidents with a complex medical component, under Law No. 98/2009 of 4 September (Legal Regime for Workplace Accidents and Occupational Diseases), Regulatory Decree No. 6/2001 as amended by Regulatory Decree No. 76/2007 (list of occupational diseases) and the DGS standards. It addresses the classification of an occupational disease, the challenge to the insurance company's medical decision and access to SNS treatment when the insurer refuses.",
+  "substituicoes": [
+   {
+    "de": "— Cita os artigos reais da Lei 98/2009 e do DL 76/2007.",
+    "para": "— Cita os artigos reais da Lei 98/2009, do Decreto Regulamentar n.º 6/2001, de 5 de maio (lista das doenças profissionais, na redação do Decreto Regulamentar n.º 76/2007, de 17 de julho), e do Código de Processo do Trabalho (CPT).",
+    "motivo": "O diploma de 2007 é o Decreto Regulamentar n.º 76/2007, que altera a lista das doenças profissionais.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1178&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Doença profissional: doença constante da Lista de Doenças Profissionais (DL 76/2007, anexo) resultante de exposição ocupacional; reconhecimento pelo Centro Nacional de Proteção contra Riscos Profissionais (CNPRP)",
+    "para": "- Doença profissional: doença constante da lista das doenças profissionais (Decreto Regulamentar n.º 6/2001, na redação do Decreto Regulamentar n.º 76/2007) resultante de exposição ao risco no trabalho habitual (art. 95.º Lei 98/2009); a avaliação, graduação e reparação cabem em exclusivo ao serviço com competências na área da proteção contra os riscos profissionais (art. 96.º Lei 98/2009) [■ VERIFICAR: designação atual do serviço — Departamento de Proteção contra os Riscos Profissionais (DPRP) da Segurança Social, que sucedeu ao CNPRP]",
+    "motivo": "A lista consta do Decreto Regulamentar n.º 6/2001; a lei atribui a certificação ao serviço de proteção contra os riscos profissionais.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1156&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Empregador que não tem seguro: responsabilidade direta + responsabilidade solidária",
+    "para": "- Empregador que não tem seguro: responde diretamente pela reparação e participa o acidente ao tribunal competente em 8 dias (art. 88.º Lei 98/2009); se não puder pagar as pensões, o pagamento é garantido pelo Fundo de Acidentes de Trabalho (art. 82.º Lei 98/2009)",
+    "motivo": "A lei não prevê uma responsabilidade solidária genérica; prevê responsabilidade direta do empregador e garantia do Fundo de Acidentes de Trabalho.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1156&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Perícia médica judicial: requerida no Tribunal do Trabalho (arts. 151.º e ss. CPC)\n- Tribunal do Trabalho: competência exclusiva para acidentes de trabalho e doenças profissionais (art. 26.º LOSJ)",
+    "para": "- Processo especial emergente de acidente de trabalho (CPT): fase conciliatória dirigida pelo Ministério Público, com base na participação (art. 99.º CPT); havendo discordância quanto à incapacidade, a parte requer perícia por junta médica (art. 138.º CPT), composta por três peritos e presidida pelo juiz (art. 139.º CPT), após a qual o juiz fixa a natureza e o grau de incapacidade (art. 140.º CPT)\n- Juízo do trabalho: competente para as questões emergentes de acidentes de trabalho e doenças profissionais (art. 126.º, n.º 1, al. c), LOSJ)",
+    "motivo": "A perícia segue o processo especial do CPT (junta médica); a competência dos juízos do trabalho está no art. 126.º da LOSJ.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=487A0138&nid=487&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Participação de acidente de trabalho (comunicação à seguradora + ACT)\n- Impugnação da decisão de grau de incapacidade (requerimento pericial no Tribunal do Trabalho)",
+    "para": "- Participação de acidente de trabalho (à seguradora, pelo empregador, em 24 horas — art. 87.º Lei 98/2009; à ACT, só nos acidentes mortais ou com lesão física grave, em 24 horas — art. 111.º da Lei n.º 102/2009)\n- Impugnação da decisão de grau de incapacidade (no processo do CPT: discordância na tentativa de conciliação e requerimento de junta médica — art. 138.º CPT)",
+    "motivo": "A comunicação à ACT só é devida nos acidentes mortais ou graves; a impugnação segue a tramitação do CPT.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1158A0111&nid=1158&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Participação de acidente de trabalho (feita no prazo legal — 24 horas para entidade empregadora)",
+    "para": "- [ ] Participação de acidente de trabalho (feita no prazo legal — 48 horas do sinistrado ao empregador, art. 86.º; 24 horas do empregador à seguradora, art. 87.º Lei 98/2009)",
+    "motivo": "Indicação dos prazos e das normas de participação.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1156&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Prazo de prescrição (2 anos para prestações — art. 199.º Lei 98/2009)",
+    "para": "- [ ] Prazo de caducidade do direito de ação: 1 ano a contar da alta clínica formalmente comunicada ao sinistrado ou da morte; as prestações fixadas prescrevem em 5 anos a partir do vencimento (art. 179.º Lei 98/2009)",
+    "motivo": "O art. 199.º não existe; o art. 179.º fixa 1 ano de caducidade e 5 anos de prescrição das prestações.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1156A0179&nid=1156&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar no sítio da Segurança Social a designação atual do serviço que certifica as doenças profissionais (DPRP) e os formulários em uso.",
+   "A impugnação das decisões sobre doenças profissionais tem tramitação própria no CPT, diferente da do acidente de trabalho; confirmar antes de redigir a peça.",
+   "Confirmar em dgsi.pt que o prazo de 1 ano só corre com a alta clínica formalmente comunicada ao sinistrado.",
+   "A Lei 98/2009 foi alterada pela Lei n.º 83/2021 e pelo DL n.º 87/2024 (participações ao tribunal); confirmar a redação em vigor dos arts. 88.º a 91.º."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1156&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1156A0179&nid=1156&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1177&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1178&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1179&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=487A0099&nid=487&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=487A0138&nid=487&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1974A0126&nid=1974&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1158A0111&nid=1158&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.seg-social.pt/doenca-profissional"
+  ]
+ }
+]

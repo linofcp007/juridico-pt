@@ -1,0 +1,248 @@
+[
+  {
+    "codigo": "IMO-002",
+    "triagem": "rever",
+    "gravidade": "media",
+    "motivos": [
+      "Cita o DL 306/2007 como diploma da certificação energética: esse diploma regula a qualidade da água para consumo humano; o SCE consta do DL 101-D/2020 (a confirmar).",
+      "Trata a licença/autorização de utilização como documento a apresentar na escritura: desde o DL 10/2024 (que revogou o DL 281/99) a escritura já não exige a sua exibição; fica apenas como verificação de due diligence (o próprio references/imobiliario.md di-lo).",
+      "Forma: o art. 875.º CC admite escritura pública ou documento particular autenticado; a ficha só prevê a escritura."
+    ]
+  },
+  {
+    "codigo": "IMO-006",
+    "triagem": "rever",
+    "gravidade": "baixa",
+    "motivos": [
+      "Cita o art. 1095.º, n.º 2 CC como regime especial das durações inferiores a 1 ano e para excluir a renovação (também na cláusula 2.ª do contrato): o n.º 2 fixa o prazo mínimo de 1 ano; a exceção para habitação não permanente/fins transitórios (profissionais, ensino e formação, turísticos) está no n.º 3 e a não renovação automática no art. 1096.º, n.º 2.",
+      "Contratos com menos de 1 ano só são válidos para fins transitórios; a ficha admite 'curta duração' genérica e 'residente temporário' vago, o que pode dar um contrato inválido de habitação permanente.",
+      "Cláusula 6.ª inventa 'caução em dobro' se o senhorio fizer cessar sem justificação e uma rescisão antecipada livre pelo senhorio sem base legal num contrato de prazo certo (a confirmar)."
+    ]
+  },
+  {
+    "codigo": "IMO-007",
+    "triagem": "ok"
+  },
+  {
+    "codigo": "IMO-009",
+    "triagem": "rever",
+    "gravidade": "alta",
+    "motivos": [
+      "Prazo do arrendatário errado: indica 'mínimo 60 dias' (e a carta fala em 60 dias); o art. 1098.º, n.º 1 CC exige 120 dias (prazo igual ou superior a 6 anos), 90 dias (1 a 6 anos), 60 dias (6 meses a 1 ano) ou 1/3 do prazo (menos de 6 meses). Com 60 dias num contrato anual a renovação opera.",
+      "Prazos do senhorio incompletos/incorretos (art. 1097.º, n.º 1 CC): só indica 120 dias para 'contratos de 1 ano' e 240 dias; omite os 60 dias (6 meses a 1 ano) e o 1/3 do prazo (menos de 6 meses); os 120 dias valem de 1 a 6 anos.",
+      "Omite que a oposição do senhorio à primeira renovação só produz efeitos decorridos 3 anos da celebração do contrato (art. 1097.º, n.º 3 CC); a carta tipo declara a cessação na data de termo sem esta ressalva.",
+      "Art. 24.º NRAU não é o das comunicações (é a atualização das rendas); as comunicações estão no art. 9.º NRAU (a confirmar)."
+    ]
+  },
+  {
+    "codigo": "IMO-010",
+    "triagem": "rever",
+    "gravidade": "alta",
+    "motivos": [
+      "Pré-aviso de 'dois anos' para denúncia por habitação própria/descendente é inventado: os 2 anos do art. 1102.º CC respeitam à titularidade do prédio pelo senhorio há mais de 2 anos; o pré-aviso está no art. 1103.º CC (6 meses, a confirmar).",
+      "Enquadra a habitação própria na al. b) do art. 1101.º CC; é a al. a) (a al. b) é demolição/obras profundas e a al. c) a denúncia sem fundamento com 5 anos de antecedência).",
+      "Inventa uma 'indemnização ao arrendatário' no art. 1102.º CC (esse artigo trata dos requisitos da denúncia para habitação) e uma 'indemnização agravada/reocupação' no art. 1103.º CC (denúncia justificada: forma e prazos); a carta tipo comunica estas obrigações como legais.",
+      "A denúncia justificada aplica-se a contratos de duração indeterminada; no prazo certo o senhorio usa a oposição à renovação (art. 1097.º, n.º 4 CC), e não vem ressalvado."
+    ]
+  },
+  {
+    "codigo": "IMO-011",
+    "triagem": "rever",
+    "gravidade": "alta",
+    "motivos": [
+      "Prazo de oposição à renovação pelo arrendatário errado: 'mínimo 60 dias' (art. 1098.º, n.º 1 CC). O correto é 120 dias (prazo igual ou superior a 6 anos), 90 dias (1 a 6 anos), 60 dias (6 meses a 1 ano) ou 1/3 do prazo (menos de 6 meses); com 60 dias num contrato anual a renovação opera.",
+      "Denúncia antecipada (art. 1098.º, n.º 3 CC): omite a condição de ter decorrido 1/3 do prazo inicial ou da renovação, e o prazo é de 120 dias só se o prazo for igual ou superior a 1 ano (60 dias se inferior); a falta de antecedência não impede a cessação mas obriga ao pagamento das rendas do pré-aviso em falta.",
+      "Não distingue a denúncia em contratos de duração indeterminada (art. 1100.º CC, 120/60 dias) e cita o art. 24.º NRAU para as comunicações (a confirmar: art. 9.º NRAU)."
+    ]
+  },
+  {
+    "codigo": "IMO-012",
+    "triagem": "rever",
+    "gravidade": "alta",
+    "motivos": [
+      "Afirma que 'após 8 dias de mora' o senhorio pode resolver e cita o art. 1083.º, n.º 1 CC para o efeito: a resolução por falta de renda exige mora igual ou superior a 3 meses (art. 1083.º, n.º 3) ou atraso superior a 8 dias mais de 4 vezes em 12 meses (n.º 4, com carta prévia após o 3.º atraso, n.º 6). Os 8 dias do art. 1041.º, n.º 2 são o prazo para cessar a mora e evitar a indemnização.",
+      "Omite a indemnização de 20% das rendas em atraso (art. 1041.º, n.º 1 CC, redação da Lei 13/2019) e fala só em juros de mora; a carta tipo diz que o arrendatário purga a mora pagando rendas e juros, quando o art. 1048.º CC exige também a indemnização do art. 1041.º, e só pode fazê-lo uma vez por contrato.",
+      "Não refere a notificação do fiador nos 90 dias seguintes (art. 1041.º, n.º 5 CC), nem o regime de resolução por comunicação (art. 1084.º CC) como consequência."
+    ]
+  },
+  {
+    "codigo": "IMO-013",
+    "triagem": "rever",
+    "gravidade": "alta",
+    "motivos": [
+      "Exige 'notificação prévia para pagamento com prazo' e funda a resolução no 'art. 1083.º, n.º 1 + 1048.º' por 'mora superior a 8 dias': a resolução extrajudicial por falta de renda exige mora igual ou superior a 3 meses (art. 1083.º, n.º 3) ou mais de 4 atrasos superiores a 8 dias em 12 meses (n.º 4, com carta prévia após o 3.º atraso, n.º 6), por comunicação fundamentada (art. 1084.º, n.º 2).",
+      "A versão 'outro fundamento' (uso indevido, obras, subarrendamento) resolve por carta com 'efeitos imediatos' com base no art. 1083.º, n.º 2: nestas causas a resolução é decretada judicialmente (art. 1084.º, n.º 1 CC); a comunicação extrajudicial só serve para os n.os 3 e 4 do art. 1083.º.",
+      "Omite que a resolução fica sem efeito se o arrendatário puser fim à mora no prazo de um mês (uma só vez por contrato, art. 1084.º, n.os 3 e 4) e o prazo de caducidade de 3 meses (art. 1085.º, n.º 2 CC); a carta fixa 'prazo de saída' sem estes requisitos.",
+      "Cita o DL 1/2013 como diploma de proteções especiais de arrendatários vulneráveis: o DL 1/2013 é o do Balcão Nacional do Arrendamento/despejo (a confirmar)."
+    ]
+  },
+  {
+    "codigo": "IMO-014",
+    "triagem": "rever",
+    "gravidade": "media",
+    "motivos": [
+      "O procedimento especial de despejo consta dos arts. 15.º a 15.º-S do NRAU (Lei 6/2006, alterada pela Lei 31/2012) e da Portaria 9/2013; a ficha atribui-o a 'arts. 15.º e ss. e art. 15.º-J do DL 1/2013', regra posta no diploma errado (a confirmar).",
+      "A versão A do requerimento repete o erro de base da resolução por falta de renda: invoca o 'art. 1083.º, n.º 1 e art. 1048.º' e uma 'notificação para pagamento' prévia; a causa é o art. 1083.º, n.º 3 (mora igual ou superior a 3 meses) ou n.º 4, com resolução por comunicação (art. 1084.º, n.º 2) e possibilidade de o arrendatário pôr fim à mora num mês (n.º 3).",
+      "Referências a 'balcao.mj.pt/CITIUS' e à assinatura do 'mandatário OA' como requisito: o requerimento é eletrónico e o senhorio pode apresentá-lo sem advogado (a confirmar)."
+    ]
+  },
+  {
+    "codigo": "IMO-015",
+    "triagem": "rever",
+    "gravidade": "media",
+    "motivos": [
+      "Fundamentação da resolução por falta de renda errada: 'art. 1083.º, n.º 1 + 1048.º' e 'n.º 2 outro fundamento'; a falta de renda é a causa do n.º 3 (mora igual ou superior a 3 meses) e do n.º 4, e a ficha omite que a resolução só opera se não houver cessação da mora (art. 1084.º CC).",
+      "Valor da causa 'soma dos pedidos': na ação de despejo aplica-se o critério especial do art. 298.º CPC (renda e não a soma dos pedidos); a ficha remete a forma de processo para 'arts. 546.º e ss. CPC (ação de despejo)' sem base (a ação segue a forma comum, 546.º/548.º CPC e arts. 14.º ss. NRAU).",
+      "Indemnização pelo atraso na restituição (art. 1045.º CC): pede só a renda; o n.º 2 eleva-a ao dobro quando o locatário está em mora (a confirmar). Omite também a indemnização de 20% do art. 1041.º, n.º 1 CC."
+    ]
+  },
+  {
+    "codigo": "IMO-016",
+    "triagem": "rever",
+    "gravidade": "baixa",
+    "motivos": [
+      "Omite a indemnização de 20% do que for devido por mora do arrendatário (art. 1041.º, n.º 1 CC, redação da Lei 13/2019), que cessa se a mora terminar em 8 dias (n.º 2); a petição só pede juros de mora, ficando incompleta, e apoia a mora no art. 1048.º CC (purga da mora).",
+      "Não menciona que o contrato de arrendamento acompanhado da comunicação do montante em dívida é título executivo para as rendas (art. 14.º-A NRAU, a confirmar), pelo que a ação declarativa pode faltar de interesse em agir."
+    ]
+  },
+  {
+    "codigo": "IMO-017",
+    "triagem": "rever",
+    "gravidade": "media",
+    "motivos": [
+      "Cria uma 'indemnização por denúncia para habitação própria (art. 1102.º CC)': o art. 1102.º trata dos requisitos da denúncia para habitação; não prevê indemnização do senhorio ao arrendatário (a confirmar), pelo que o mapa de cálculo inclui uma verba inexistente.",
+      "Mapa de débitos omite a indemnização de 20% das rendas em atraso (art. 1041.º, n.º 1 CC, redação da Lei 13/2019), que é a consequência legal específica da mora do arrendatário; os 'juros' são apresentados como único acréscimo.",
+      "Indemnização por ocupação após cessação (art. 1045.º CC): considera só a renda; o n.º 2 eleva-a ao dobro quando o locatário está em mora (a confirmar)."
+    ]
+  },
+  {
+    "codigo": "IMO-018",
+    "triagem": "rever",
+    "gravidade": "baixa",
+    "motivos": [
+      "Cláusula 4.ª e regras: comissão 'só devida se o negócio resultar diretamente da atividade da mediadora (art. 19.º)'; em regime de exclusividade a Lei 15/2013 reconhece à mediadora remuneração mesmo que o negócio seja concluído pelo cliente ou por outro mediador (a confirmar).",
+      "Remissões internas incoerentes (exclusividade ora no art. 16.º, n.º 4, ora no art. 17.º) e dúvida sobre os limites de prazo/renovação automática dos contratos de mediação em exclusividade (a confirmar); nenhuma das 9 citações está conferida."
+    ]
+  },
+  {
+    "codigo": "IMO-019",
+    "triagem": "rever",
+    "gravidade": "media",
+    "motivos": [
+      "Afirma que as obras de conservação ordinária são obrigação do arrendatário (art. 1074.º CC): o art. 1074.º, n.º 1 atribui ao senhorio todas as obras de conservação, ordinárias ou extraordinárias, salvo estipulação em contrário; o arrendatário só faz obras com autorização escrita (n.º 2).",
+      "A proibição de obras sem autorização está no art. 1074.º, n.º 2 CC; o art. 1038.º, al. d) CC não é a norma aplicável (a confirmar)."
+    ]
+  },
+  {
+    "codigo": "IMO-020",
+    "triagem": "rever",
+    "gravidade": "baixa",
+    "motivos": [
+      "Regra obrigatória diz que as permilagens 'calculam-se em função das áreas relativas'; o art. 1418.º CC exige o valor relativo de cada fração em percentagem ou permilagem do valor total do prédio (critérios de valor: área, localização, utilização), e não só a área (a confirmar).",
+      "Omite o documento camarário que atesta que o prédio satisfaz os requisitos da propriedade horizontal (art. 1415.º CC, a confirmar após o DL 10/2024) e remete a obrigatoriedade do regulamento para 'mais de 4 frações' quando o art. 1429.º-A fala em condóminos (a confirmar)."
+    ]
+  },
+  {
+    "codigo": "IMO-021",
+    "triagem": "rever",
+    "gravidade": "media",
+    "motivos": [
+      "Art. 13.º do regulamento: 'em segunda convocação, qualquer número' e deliberações 'por maioria dos presentes'; o art. 1432.º CC exige em 2.ª convocação maioria dos presentes que represente pelo menos 25% (1/4) do capital (a confirmar). Há ainda 2.ª convocação marcada para meia hora depois sem base clara.",
+      "Art. 19.º: regulamento alterável por maioria qualificada de 2/3 do valor total do prédio; sem base na lei, a aprovação e alteração do regulamento seguem a maioria do art. 1432.º CC (a confirmar). O texto base da ficha mantém a assembleia ordinária 'até 31 de março' quando o art. 1431.º CC fixa a 1.ª quinzena de janeiro (a confirmar).",
+      "Art. 17.º: horário de obras ruidosas 'nos termos do RRAE' (22h-8h): o regime de obras ruidosas é o do Regulamento Geral do Ruído (DL 9/2007: dias úteis das 20h às 8h, sábados, domingos e feriados); o RRAE trata de requisitos acústicos dos edifícios.",
+      "Cláusula sobre animais deixa a hipótese 'proibidos': o regime da PH (CC, a confirmar após a Lei 8/2022) tem sido lido como nula a proibição de animais de companhia."
+    ]
+  },
+  {
+    "codigo": "IMO-022",
+    "triagem": "rever",
+    "gravidade": "alta",
+    "motivos": [
+      "Regra obrigatória diz que a alteração do título constitutivo exige maioria de 2/3: a modificação do título exige acordo de todos os condóminos, por escritura pública (art. 1419.º CC, unanimidade); a alteração do regulamento não tem 2/3 na lei (a confirmar). Uma ata com 2/3 daria deliberação inválida.",
+      "Texto-tipo da ata: 'reunida em 2.ª convocação, qualquer que seja o número de presentes': o art. 1432.º CC exige em 2.ª convocação maioria dos presentes que represente pelo menos 25% do capital (a confirmar), e a 1.ª convocação exige maioria do capital investido, não 'dos presentes'.",
+      "Os 2/3 só se aplicam às inovações (art. 1425.º CC); obras de conservação seguem a maioria simples, e a ficha usa um critério de 'valor elevado' sem base."
+    ]
+  },
+  {
+    "codigo": "IMO-023",
+    "triagem": "rever",
+    "gravidade": "media",
+    "motivos": [
+      "Fundamentação diz que a 2.ª convocação não tem 'quórum mínimo' (a própria ficha anota que se exige 1/4 do valor do prédio, art. 1432.º CC), e propõe 2.ª convocação 30 minutos depois da 1.ª: os requisitos de 2.ª convocação do art. 1432.º CC (prazo e representação de 25% do capital) não são cumpridos por este modelo (a confirmar).",
+      "Mantém a assembleia ordinária 'até 31/03' quando o art. 1431.º CC fixa a 1.ª quinzena de janeiro (a confirmar), e uma rubrica 'Outros assuntos' que não permite deliberar sobre matérias fora da ordem de trabalhos, salvo unanimidade (art. 1432.º CC, a confirmar)."
+    ]
+  },
+  {
+    "codigo": "IMO-024",
+    "triagem": "ok"
+  },
+  {
+    "codigo": "IMO-025",
+    "triagem": "rever",
+    "gravidade": "baixa",
+    "motivos": [
+      "Qualifica como nulidade a 'ausência total de convocatória' e a 'matéria fora da ordem de trabalhos' e como anulabilidade o quórum/maioria insuficiente; o art. 1433.º CC prevê a anulabilidade das deliberações contrárias à lei ou ao regulamento, e a jurisprudência trata normalmente a falta de convocação como anulável (a confirmar), com risco de perder o prazo de 60 dias.",
+      "Omite o pedido prévio de assembleia extraordinária em 20 dias para revogação (art. 1433.º, n.º 2 CC), que suspende o prazo de 60 dias, e a maioria de 2/3 dada de forma genérica 'para obras de valor superior ao orçamento' (as inovações é que exigem 2/3, art. 1425.º CC)."
+    ]
+  },
+  {
+    "codigo": "IMO-026",
+    "triagem": "rever",
+    "gravidade": "media",
+    "motivos": [
+      "Diz que o registo de aquisição não tem 'prazo obrigatório': desde o DL 116/2008 o registo predial é obrigatório e deve ser requerido no prazo de 2 meses a contar da data em que os factos foram titulados (arts. 8.º-A e 8.º-B CRPredial, a confirmar), com agravamento de emolumentos se fora de prazo.",
+      "Remete os documentos para 'arts. 79.º e ss. CRPredial' e o portal para 'predial.inci.pt' sem conferência (a confirmar)."
+    ]
+  },
+  {
+    "codigo": "IMO-027",
+    "triagem": "ok"
+  },
+  {
+    "codigo": "IMO-028",
+    "triagem": "rever",
+    "gravidade": "alta",
+    "motivos": [
+      "Prazos de usucapião de imóveis errados (CC arts. 1294.º a 1296.º): com justo título e registo são 10 anos (boa-fé) ou 15 (má-fé), e não 5; com registo da mera posse, 5 anos (boa-fé, posse pacífica) ou 10 (má-fé); sem registo, 15 anos (boa-fé) ou 20 (má-fé), e não 10 anos para 'justo título sem registo'.",
+      "Estrutura processual errada: a ficha trata o pedido como 'ação de justificação judicial' ao abrigo dos 'arts. 1094.º e ss. CPC', que respeitam ao inventário; hoje o reconhecimento é pedido em ação declarativa comum (com citação de interessados incertos) ou por justificação notarial/administrativa (DL 273/2001, CRPredial arts. 116.º ss.)."
+    ]
+  },
+  {
+    "codigo": "IMO-029",
+    "triagem": "rever",
+    "gravidade": "media",
+    "motivos": [
+      "Exige '2 testemunhas instrumentárias': na escritura de justificação notarial intervêm declarantes que confirmam os factos (três, nos arts. 89.º ss. do Código do Notariado, a confirmar), distintos das testemunhas instrumentárias.",
+      "Descreve a publicação 'no Diário da República e afixação na Junta de Freguesia' e um prazo de impugnação de 30 dias após a publicação: regime de publicidade e de impugnação não conferido (hoje a publicação é eletrónica e a impugnação faz-se por ação judicial) (a confirmar).",
+      "Limites da justificação (registo em nome de terceiro) apresentados de forma simplificada: a justificação serve para a 1.ª inscrição ou o trato sucessivo (CRPredial art. 116.º) (a confirmar)."
+    ]
+  },
+  {
+    "codigo": "IMO-030",
+    "triagem": "rever",
+    "gravidade": "media",
+    "motivos": [
+      "Texto-tipo do parecer diz que o imóvel penhorado 'não pode ser transmitido sem autorização do tribunal' e que a compra 'é nula ou anulável': o ato de disposição de bem penhorado é válido entre as partes mas ineficaz em relação ao exequente (art. 819.º CC, sem prejuízo do registo); a ficha cita o art. 786.º CC (presunções de cumprimento) para os efeitos da penhora.",
+      "Cita o art. 905.º CC como 'evicção': o artigo trata da anulabilidade da venda de bens onerados por erro ou dolo (as regras da evicção são outras, a confirmar)."
+    ]
+  },
+  {
+    "codigo": "IMO-031",
+    "triagem": "rever",
+    "gravidade": "media",
+    "motivos": [
+      "Cita o DL 306/2007 como diploma da certificação energética (SCE): é o da qualidade da água para consumo humano; o SCE consta do DL 101-D/2020 (a confirmar).",
+      "Pressupõe como documento da escritura a licença de utilização e o RJUE 'DL 555/99 (licenças urbanísticas e utilização)': desde o DL 10/2024 (que revogou o DL 281/99) a escritura já não exige a sua exibição; a verificação mantém-se por due diligence (references/imobiliario.md).",
+      "Afirma que as quotas de condomínio em atraso 'passam para o comprador' sem distinguir a responsabilidade do adquirente (dívidas do ano em curso e do anterior, a confirmar) e usa a preferência do art. 1410.º CC (ação) em vez do art. 1091.º CC."
+    ]
+  },
+  {
+    "codigo": "IMO-032",
+    "triagem": "rever",
+    "gravidade": "media",
+    "motivos": [
+      "A 'isenção de IMT para habitação própria permanente' é atribuída ao art. 9.º, n.º 1 CIMT: o art. 9.º trata de isenções subjetivas; para a HPP o primeiro escalão do art. 17.º CIMT tem taxa 0%, e a isenção para jovens (IMT Jovem, até 330.539 EUR) não vem referida, apesar de constar de references/valores-2026.md.",
+      "Imposto do Selo sobre a hipoteca 'verba 17.3 TGIS × valor do empréstimo': a verba 17.3 incide sobre juros e comissões; o imposto sobre o capital do crédito é a verba 17.1 (cobrado pelo banco) e a hipoteca não tem selo autónomo (a confirmar)."
+    ]
+  }
+]

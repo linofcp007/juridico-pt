@@ -1,0 +1,445 @@
+[
+ {
+  "codigo": "CNS-023",
+  "veredicto": "corrigida",
+  "resumo": "A ficha aplicava ao DL 84/2021 números e prazos do antigo DL 67/2003: garantia de «2 ou 3 anos», presunção de 1 ano no art. 8.º e um art. 2.º-A que não existe. Corrigi para garantia de 3 anos (art. 12.º), presunção de 2 anos (art. 13.º), remédios e rejeição em 30 dias (arts. 15.º a 20.º) e responsabilidade solidária do prestador de mercado em linha (arts. 44.º e 45.º). A ficha negava esta responsabilidade. Corrigi ainda o artigo do reembolso no DL 24/2014 (art. 12.º), o da qualidade dos bens na Lei 24/96 (art. 4.º) e o papel do DSA, que não cria responsabilidade pela garantia.",
+  "substituicoes": [
+   {
+    "de": "- Distingue: (1) direito de livre resolução — 14 dias, sem motivo; (2) garantia legal — falta de conformidade, 2 ou 3 anos",
+    "para": "- Distingue: (1) direito de livre resolução — 14 dias, sem motivo; (2) garantia legal — falta de conformidade, 3 anos a contar da entrega (nos bens móveis usados, por acordo, pode ser reduzida a 18 meses, salvo se anunciados como recondicionados — art. 12.º, n.os 1 e 3, DL 84/2021)",
+    "motivo": "O prazo de 2 anos era o do DL 67/2003; no DL 84/2021 a garantia é de 3 anos, redutível a 18 meses nos usados.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=3471A0012&nid=3471&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Em marketplaces: o responsável pela garantia é o vendedor (não a plataforma) salvo se a plataforma for também vendedor",
+    "para": "- Em marketplaces: o vendedor responde pela garantia; o prestador do mercado em linha responde solidariamente quando for parceiro contratual do vendedor, isto é, quando exerça influência predominante na celebração do contrato (contrato ou pagamento feitos exclusivamente pelos seus meios, termos ou preço por si determinados, publicidade centrada na plataforma), e também quando não informe o consumidor de que contrata com um terceiro e de quem é esse terceiro (arts. 44.º e 45.º DL 84/2021)",
+    "motivo": "O DL 84/2021 torna o prestador de mercado em linha solidariamente responsável nos casos dos arts. 44.º e 45.º; a ficha negava essa responsabilidade.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=3471A0044&nid=3471&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Está dentro dos 14 dias de livre resolução? Ou entre 14 dias e 2 anos (garantia)?",
+    "para": "- Está dentro dos 14 dias de livre resolução? Dentro dos 30 dias após a entrega (direito de rejeição — art. 16.º DL 84/2021)? Ou dentro dos 3 anos da garantia legal (art. 12.º DL 84/2021)?",
+    "motivo": "A garantia é de 3 anos e há o direito de rejeição nos primeiros 30 dias.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=3471A0016&nid=3471&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "reembolso em 14 dias — art. 13.º",
+    "para": "reembolso em 14 dias — art. 12.º",
+    "motivo": "O reembolso pelo profissional consta do art. 12.º do DL 24/2014; o art. 13.º regula as obrigações do consumidor.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2062A0012&nid=2062&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- DL n.º 84/2021: falta de conformidade — arts. 2.º-A, 6.º, 8.º (presunção 1 ano), 10.º (prazo 2 ou 3 anos), 12.º-17.º (remédios)",
+    "para": "- DL n.º 84/2021: conformidade — arts. 5.º a 7.º; prazo de 3 anos — art. 12.º; presunção de que a falta de conformidade manifestada nos 2 anos seguintes à entrega já existia nessa data — art. 13.º; direitos do consumidor e remédios — arts. 15.º e 18.º a 20.º; direito de rejeição nos 30 dias após a entrega — art. 16.º; caducidade dos direitos 2 anos após a comunicação da falta de conformidade — art. 17.º; responsabilidade do prestador de mercado em linha — arts. 44.º e 45.º",
+    "motivo": "Os artigos e prazos citados eram os do regime anterior; o art. 2.º-A não existe e a presunção é de 2 anos (art. 13.º).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=3471A0013&nid=3471&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Lei n.º 24/96 art. 8.º: direito à qualidade dos bens",
+    "para": "- Lei n.º 24/96 art. 4.º: direito à qualidade dos bens",
+    "motivo": "O direito à qualidade dos bens está no art. 4.º; o art. 8.º trata do direito à informação.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=726A0004&nid=726&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Regulamento (UE) 2022/2065 (DSA — Digital Services Act): responsabilidade dos marketplaces [■ VERIFICAR: disposições sobre garantia]",
+    "para": "- Regulamento (UE) 2022/2065 (DSA): não cria responsabilidade pela garantia; o art. 6.º, n.º 3, afasta a isenção de responsabilidade da plataforma, nos termos do direito do consumo, quando esta leve o consumidor médio a crer que é ela (ou alguém sob o seu controlo) a fornecer o produto, e o art. 30.º obriga-a a recolher a identificação dos comerciantes, útil para identificar o vendedor",
+    "motivo": "O DSA não regula a garantia; só os arts. 6.º, n.º 3, e 30.º relevam para identificar o responsável.",
+    "fonte": "https://publications.europa.eu/resource/celex/32022R2065"
+   },
+   {
+    "de": "- Destinatário: vendedor + marketplace (como intermediário para pressão)",
+    "para": "- Destinatário: vendedor + prestador do mercado em linha (responsável solidário se for parceiro contratual do vendedor ou se faltou a informação do art. 45.º DL 84/2021; nos outros casos, destinatário para pressão)",
+    "motivo": "O marketplace pode ser responsável solidário nos termos dos arts. 44.º e 45.º do DL 84/2021.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=3471A0045&nid=3471&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Presunção de pré-existência do defeito (art. 8.º DL 84/2021) se dentro de 1 ano",
+    "para": "- Presunção de pré-existência do defeito (art. 13.º DL 84/2021) se se manifestou nos 2 anos seguintes à entrega (1 ano nos bens usados com prazo reduzido por acordo)",
+    "motivo": "A presunção é de 2 anos e consta do art. 13.º; 1 ano só nos usados com garantia reduzida.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=3471A0013&nid=3471&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Instrução de devolução do bem (quem suporta custos)",
+    "para": "- Instrução de devolução do bem (quem suporta custos: na garantia legal, o profissional — arts. 18.º, n.º 1, e 20.º, n.º 4, al. a), DL 84/2021; na livre resolução, em regra o consumidor, salvo se não foi informado desse custo — art. 13.º, n.º 2, DL 24/2014)",
+    "motivo": "Precisa a quem cabe o custo da devolução em cada regime.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=3471A0018&nid=3471&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "será iniciado processo de chargeback junto da instituição bancária e apresentada queixa à DGC.",
+    "para": "será iniciado processo de chargeback junto da instituição bancária, apresentada reclamação no Livro de Reclamações e submetido o litígio a um centro de arbitragem de conflitos de consumo (arbitragem necessária por opção do consumidor até à alçada da 1.ª instância — art. 14.º, n.º 2, Lei 24/96).",
+    "motivo": "A escalada própria é a reclamação no Livro de Reclamações (a fiscalização do DL 84/2021 cabe à ASAE — art. 47.º) e a arbitragem de consumo, necessária por opção do consumidor (art. 14.º, n.º 2, Lei 24/96).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=726A0014&nid=726&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Presunção de pré-existência invocada (se dentro de 1 ano)",
+    "para": "- [ ] Presunção de pré-existência invocada (se a falta de conformidade se manifestou nos 2 anos seguintes à entrega)",
+    "motivo": "A presunção do art. 13.º do DL 84/2021 é de 2 anos.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=3471A0013&nid=3471&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar se a transposição da Diretiva (UE) 2024/1799 (direito à reparação, prazo de transposição 31/7/2026) já alterou o DL 84/2021; em outubro de 2026 o PGDL ainda não regista alterações ao diploma.",
+   "Confirmar se a Diretiva (UE) 2023/2673 (função de livre resolução nas interfaces em linha, aplicável desde 19/6/2026) já foi transposta para o DL 24/2014; o PGDL regista como última alteração a Lei n.º 10/2023.",
+   "O chargeback não é um direito previsto no DL 84/2021 nem no DL 24/2014: depende das regras do emitente do cartão e da rede, com prazos próprios. Confirmar com o banco antes de o anunciar na carta.",
+   "Se o vendedor estiver noutro Estado-Membro, ponderar o Centro Europeu do Consumidor; a plataforma europeia de resolução de litígios em linha (ODR) foi encerrada em 20/07/2025.",
+   "Apurar no caso concreto se o marketplace exerce «influência predominante» (art. 44.º, n.os 2 e 3, DL 84/2021): é uma questão de facto e a jurisprudência nacional ainda é escassa."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=3471A0012&nid=3471&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=3471A0013&nid=3471&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=3471A0016&nid=3471&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=3471A0044&nid=3471&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=3471A0045&nid=3471&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=3471A0018&nid=3471&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3471&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://files.diariodarepublica.pt/1s/2021/10/20200/0000400029.pdf",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2062A0012&nid=2062&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2062&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=726A0004&nid=726&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=726A0014&nid=726&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=726&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://publications.europa.eu/resource/celex/32022R2065"
+  ]
+ },
+ {
+  "codigo": "CNS-030",
+  "veredicto": "corrigida",
+  "resumo": "A ficha citava os artigos do DL 17/2018 com a numeração errada: a definição está no art. 2.º, a alteração do preço no art. 23.º, as alterações significativas no art. 24.º, a rescisão pelo viajante no art. 25.º, a falta de conformidade nos arts. 28.º e 29.º e a insolvência no art. 31.º. Também afirmava um limiar de «resolução acima de 20%», que não existe. Corrigi: o preço só pode subir até 20 dias antes da partida e, acima de 8 %, o viajante pode rescindir sem penalização. Precisei ainda o conceito de serviços de viagem conexos e substituí a escalada genérica pelas vias próprias, incluindo o FGVT e a Comissão Arbitral do Turismo de Portugal.",
+  "substituicoes": [
+   {
+    "de": "- Alteração de preço: permitida até 8% para custos de combustível/câmbio/taxas; acima de 8% = direito de resolução (art. 19.º DL 17/2018)",
+    "para": "- Alteração de preço: só se o contrato a previr, por variação do custo do combustível ou de outras fontes de energia, de impostos e taxas de terceiros ou da taxa de câmbio, notificada com cálculos em suporte duradouro e até 20 dias antes da partida; se o aumento exceder 8 % do preço total, o viajante pode aceitar ou rescindir sem penalização (arts. 23.º e 24.º, n.º 2, DL 17/2018)",
+    "motivo": "O regime está nos arts. 23.º e 24.º do DL 17/2018; o aumento não é «permitido até 8 %»: acima disso abre o direito de rescisão.",
+    "fonte": "https://files.diariodarepublica.pt/1s/2018/03/04800/0121501234.pdf"
+   },
+   {
+    "de": "- Alteração essencial antes da partida: viajante pode resolver e ser reembolsado ou aceitar (art. 20.º)",
+    "para": "- Alteração significativa antes da partida: o viajante pode aceitar ou rescindir sem penalização, com reembolso em 14 dias (art. 24.º, n.os 2 e 6, DL 17/2018)",
+    "motivo": "A norma é o art. 24.º do DL 17/2018.",
+    "fonte": "https://files.diariodarepublica.pt/1s/2018/03/04800/0121501234.pdf"
+   },
+   {
+    "de": "- Circunstâncias excecionais inevitáveis no destino: resolução sem penalização + reembolso integral (art. 21.º DL 17/2018)",
+    "para": "- Circunstâncias inevitáveis e excecionais no destino: rescisão sem taxa + reembolso integral, sem indemnização adicional (art. 25.º, n.os 4 e 5, DL 17/2018)",
+    "motivo": "A norma é o art. 25.º, n.os 4 e 5, do DL 17/2018, que exclui a indemnização adicional.",
+    "fonte": "https://files.diariodarepublica.pt/1s/2018/03/04800/0121501234.pdf"
+   },
+   {
+    "de": "- Proteção de insolvência: obrigatória para operadores (art. 26.º DL 17/2018)",
+    "para": "- Proteção em caso de insolvência: reembolso e, se incluir transporte, repatriamento (art. 31.º DL 17/2018), garantidos pelo Fundo de Garantia de Viagens e Turismo (art. 37.º DL 17/2018)",
+    "motivo": "O art. 26.º trata do direito de retratação; a insolvência está no art. 31.º e o FGVT no art. 37.º.",
+    "fonte": "https://files.diariodarepublica.pt/1s/2018/03/04800/0121501234.pdf"
+   },
+   {
+    "de": "  - Serviços ligados: reservados separadamente, mas combinados pelo viajante — proteção mais limitada",
+    "para": "  - Serviços de viagem conexos (art. 2.º, n.º 1, al. n), DL 17/2018): contratos distintos com diferentes prestadores, mas a aquisição foi facilitada por um operador (escolha e pagamento separados na mesma visita ao ponto de venda, ou aquisição direcionada de outro serviço contratado até 24 horas depois) — proteção mais limitada; se foi o viajante a combinar sozinho os serviços, são serviços separados",
+    "motivo": "Os serviços de viagem conexos pressupõem a intervenção facilitadora de um operador; a combinação feita só pelo viajante não está abrangida.",
+    "fonte": "https://files.diariodarepublica.pt/1s/2018/03/04800/0121501234.pdf"
+   },
+   {
+    "de": "- Art. 3.º DL 17/2018 (definição de pacote e serviços ligados)",
+    "para": "- Art. 2.º, n.º 1, als. n) e p), DL 17/2018 (definição de serviços de viagem conexos e de viagem organizada — o «pacote» da Diretiva)",
+    "motivo": "As definições estão no art. 2.º; o art. 3.º trata das atividades das agências.",
+    "fonte": "https://files.diariodarepublica.pt/1s/2018/03/04800/0121501234.pdf"
+   },
+   {
+    "de": "- Arts. 11.º-16.º DL 17/2018 (informação pré-contratual e conteúdo obrigatório do contrato)",
+    "para": "- Arts. 17.º a 20.º DL 17/2018 (informação pré-contratual, programas de viagem, caráter vinculativo e conteúdo obrigatório do contrato)",
+    "motivo": "A informação pré-contratual e o conteúdo do contrato constam dos arts. 17.º a 20.º.",
+    "fonte": "https://files.diariodarepublica.pt/1s/2018/03/04800/0121501234.pdf"
+   },
+   {
+    "de": "- Art. 19.º DL 17/2018 (alteração de preço — limite de 8%; resolução acima de 20%)",
+    "para": "- Art. 23.º DL 17/2018 (alteração de preço — só se prevista no contrato e até 20 dias antes da partida; acima de 8 % do preço total, aplica-se o art. 24.º, n.os 2 a 6: aceitar ou rescindir sem penalização)",
+    "motivo": "A norma é o art. 23.º; o limiar de rescisão é 8 % e o «20» refere-se aos dias antes da partida.",
+    "fonte": "https://files.diariodarepublica.pt/1s/2018/03/04800/0121501234.pdf"
+   },
+   {
+    "de": "- Art. 20.º DL 17/2018 (alteração essencial antes da partida — direito de resolução ou aceitação)",
+    "para": "- Art. 24.º DL 17/2018 (alteração significativa antes da partida — aceitar, rescindir sem penalização ou aceitar viagem de substituição, com redução do preço se de qualidade inferior)",
+    "motivo": "A norma é o art. 24.º do DL 17/2018.",
+    "fonte": "https://files.diariodarepublica.pt/1s/2018/03/04800/0121501234.pdf"
+   },
+   {
+    "de": "- Art. 21.º DL 17/2018 (circunstâncias excecionais — resolução sem penalização)",
+    "para": "- Art. 25.º, n.os 4 e 5, DL 17/2018 (circunstâncias inevitáveis e excecionais — rescisão sem taxa e reembolso integral)",
+    "motivo": "A norma é o art. 25.º, n.os 4 e 5.",
+    "fonte": "https://files.diariodarepublica.pt/1s/2018/03/04800/0121501234.pdf"
+   },
+   {
+    "de": "- Art. 22.º DL 17/2018 (resolução por iniciativa do viajante — penalização razoável)",
+    "para": "- Art. 25.º, n.os 1 a 3 e 7, DL 17/2018 (rescisão pelo viajante a todo o tempo antes do início da viagem — taxa de rescisão adequada e justificável; reembolso em 14 dias)",
+    "motivo": "A rescisão pelo viajante está no art. 25.º.",
+    "fonte": "https://files.diariodarepublica.pt/1s/2018/03/04800/0121501234.pdf"
+   },
+   {
+    "de": "- Arts. 24.º-25.º DL 17/2018 (incumprimento durante a viagem — direitos de substituição e redução de preço)",
+    "para": "- Arts. 28.º e 29.º DL 17/2018 (falta de conformidade durante a viagem — comunicação sem demora, alternativas sem custos, redução do preço e indemnização; o direito a reclamar prescreve em 2 anos — art. 29.º, n.º 5)",
+    "motivo": "O incumprimento e a redução do preço estão nos arts. 28.º e 29.º.",
+    "fonte": "https://files.diariodarepublica.pt/1s/2018/03/04800/0121501234.pdf"
+   },
+   {
+    "de": "- Art. 26.º DL 17/2018 (proteção de insolvência — garantia obrigatória)",
+    "para": "- Art. 31.º DL 17/2018 (proteção em caso de insolvência — reembolso e repatriamento) e arts. 37.º a 40.º (Fundo de Garantia de Viagens e Turismo, seu acionamento e Comissão Arbitral)",
+    "motivo": "A insolvência está no art. 31.º e o FGVT nos arts. 37.º a 40.º; o art. 26.º é o direito de retratação.",
+    "fonte": "https://files.diariodarepublica.pt/1s/2018/03/04800/0121501234.pdf"
+   },
+   {
+    "de": "- Reg. (CE) 261/2004 (direitos aéreos — se voo incluído no pacote)",
+    "para": "- Reg. (CE) 261/2004 (direitos aéreos — se voo incluído no pacote; as compensações deduzem-se umas às outras para evitar sobrecompensação — art. 29.º, n.os 3 e 4, DL 17/2018)",
+    "motivo": "O DL 17/2018 manda deduzir entre si as compensações dos dois regimes.",
+    "fonte": "https://files.diariodarepublica.pt/1s/2018/03/04800/0121501234.pdf"
+   },
+   {
+    "de": "5. Prazo de resposta e escalada (DGC, CNIACC, tribunal)",
+    "para": "5. Prazo de resposta e escalada (livro de reclamações ou reclamação escrita, nomeadamente à DGC ou ao Turismo de Portugal — art. 39.º, n.º 5, DL 17/2018; centro de arbitragem de conflitos de consumo ou Provedor do Cliente da APAVT; requerimento ao Turismo de Portugal, I. P., para acionar o FGVT, em regra no prazo de 60 dias, com apreciação pela Comissão Arbitral — arts. 39.º e 40.º DL 17/2018; tribunal)",
+    "motivo": "O DL 17/2018 prevê vias próprias (FGVT e Comissão Arbitral, com o prazo de 60 dias do art. 39.º) que a ficha omitia.",
+    "fonte": "https://files.diariodarepublica.pt/1s/2018/03/04800/0121501234.pdf"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Não consegui obter em fonte oficial a versão consolidada do DL 17/2018: os artigos foram conferidos no texto original publicado no Diário da República. Confirmar em diariodarepublica.pt se os arts. 23.º a 31.º e 37.º a 40.º sofreram alterações.",
+   "Confirmar se a revisão da Diretiva (UE) 2015/2302 proposta pela Comissão em 2023 (vales, pagamentos antecipados, reembolsos) já foi adotada e transposta.",
+   "O Provedor do Cliente da APAVT só serve de base ao acionamento do FGVT se estiver inscrito na lista de entidades RAL (art. 39.º, n.º 1, al. b), DL 17/2018); confirmar a inscrição e se a agência é associada.",
+   "O prazo de 60 dias do art. 39.º, n.º 4, considera-se cumprido com reclamação no livro de reclamações ou reclamação escrita à agência ou ao Turismo de Portugal (n.º 5); verificar as datas no caso concreto."
+  ],
+  "fontes": [
+   "https://files.diariodarepublica.pt/1s/2018/03/04800/0121501234.pdf",
+   "https://data.dre.pt/eli/dec-lei/17/2018/03/08/p/dre/pt/pdf"
+  ]
+ },
+ {
+  "codigo": "CNS-031",
+  "veredicto": "corrigida",
+  "resumo": "A ficha atribuía ao DL 84/2021 a numeração e as regras do antigo DL 67/2003. O prazo de garantia está no art. 12.º e não no art. 10.º, a presunção no art. 13.º e não no art. 12.º, e os remédios nos arts. 15.º e 18.º a 20.º. A ficha impunha ainda uma denúncia em 2 meses, que o DL 84/2021 eliminou, e dava 2 anos como prazo reduzido dos bens usados, quando o mínimo por acordo é de 18 meses. Corrigi também a «hierarquia» em fila: a reparação e a substituição estão no mesmo nível, à escolha do consumidor. Acrescentei o direito de rejeição em 30 dias e a caducidade de 2 anos após a comunicação, e corrigi a remissão do direito de regresso para os arts. 41.º e 42.º.",
+  "substituicoes": [
+   {
+    "de": "- Natureza da falta de conformidade (art. 5.º DL 84/2021: requisitos subjetivos e objetivos)",
+    "para": "- Natureza da falta de conformidade (arts. 5.º a 9.º DL 84/2021: requisitos subjetivos — art. 6.º — e objetivos — art. 7.º)",
+    "motivo": "O art. 5.º remete para os arts. 6.º a 9.º, onde estão os requisitos.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=3471A0005&nid=3471&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Prazo ainda disponível (3 anos para bens novos; 2 anos para bens usados se reduzido contratualmente — art. 10.º)",
+    "para": "- Prazo ainda disponível (3 anos a contar da entrega; nos bens móveis usados, por acordo, pode ser reduzido a 18 meses, salvo se anunciados como recondicionados — art. 12.º, n.os 1 e 3; o prazo suspende-se desde a comunicação da falta de conformidade até à reposição — art. 12.º, n.º 4)",
+    "motivo": "O prazo consta do art. 12.º e o mínimo por acordo nos usados é de 18 meses; o art. 10.º trata de direitos de terceiros.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=3471A0012&nid=3471&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Posição no prazo de inversão do ónus da prova (até 2 anos: art. 12.º, n.º 2)",
+    "para": "- Posição no prazo de inversão do ónus da prova (2 anos a contar da entrega; 1 ano nos usados com prazo reduzido por acordo: art. 13.º, n.os 1 e 3)",
+    "motivo": "O ónus da prova consta do art. 13.º.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=3471A0013&nid=3471&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Art. 5.º DL 84/2021: critérios de conformidade",
+    "para": "- Arts. 5.º a 9.º DL 84/2021: critérios de conformidade",
+    "motivo": "Os critérios estão nos arts. 6.º a 9.º, para que remete o art. 5.º.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=3471A0006&nid=3471&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Art. 10.º: prazo de responsabilidade (3 anos/2 anos)",
+    "para": "- Art. 12.º: prazo de responsabilidade (3 anos; 18 meses nos bens móveis usados, por acordo, salvo recondicionados)",
+    "motivo": "O prazo consta do art. 12.º e não há prazo de 2 anos para os usados.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=3471A0012&nid=3471&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Art. 11.º: denúncia da falta de conformidade (2 meses após deteção)",
+    "para": "- Art. 12.º, n.º 5: comunicação da falta de conformidade por carta, correio eletrónico ou outro meio suscetível de prova, sem prazo de denúncia (o DL 84/2021 eliminou o dever de denúncia do regime anterior); art. 17.º: os direitos caducam 2 anos após essa comunicação",
+    "motivo": "O dever de denúncia em 2 meses era do DL 67/2003 e foi eliminado; o art. 11.º trata da entrega do bem.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=3471A0017&nid=3471&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Art. 12.º: ónus da prova e presunção de não conformidade originária",
+    "para": "- Art. 13.º: ónus da prova e presunção de não conformidade originária",
+    "motivo": "O ónus da prova consta do art. 13.º.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=3471A0013&nid=3471&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Arts. 13.º a 16.º: hierarquia de remédios (reparação → substituição → redução → resolução)",
+    "para": "- Arts. 15.º e 18.º a 20.º: remédios — reparação ou substituição, à escolha do consumidor, salvo impossibilidade ou custos desproporcionados (art. 15.º, n.os 2 e 3); redução do preço ou resolução apenas nos casos do art. 15.º, n.º 4 (sem resolução se a falta for mínima — n.º 6); art. 16.º: direito de rejeição nos 30 dias após a entrega (substituição imediata ou resolução)",
+    "motivo": "Reparação e substituição estão no mesmo nível, à escolha do consumidor; a redução e a resolução dependem do art. 15.º, n.º 4.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=3471A0015&nid=3471&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Art. 17.º: direito de regresso do vendedor",
+    "para": "- Arts. 41.º e 42.º: direito de regresso do profissional; art. 40.º: responsabilidade direta do produtor pela reparação ou substituição",
+    "motivo": "O art. 17.º trata da caducidade; o direito de regresso está nos arts. 41.º e 42.º.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=3471A0041&nid=3471&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Se reparação ou substituição é desproporcionada (art. 13.º, n.º 3)",
+    "para": "- Se reparação ou substituição é impossível ou desproporcionada (art. 15.º, n.os 2 e 3)",
+    "motivo": "A desproporção regula-se no art. 15.º, n.os 2 e 3.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=3471A0015&nid=3471&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Prazo para o profissional executar (art. 13.º, n.º 5: prazo razoável)",
+    "para": "- Prazo para o profissional executar (art. 18.º, n.os 2 e 3: prazo razoável, que não deve exceder 30 dias salvo justificação pela natureza do bem ou da falta; cada reparação dá mais 6 meses de garantia, até 4 reparações — n.º 4)",
+    "motivo": "O prazo da reparação ou substituição consta do art. 18.º.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=3471A0018&nid=3471&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Denúncia dentro dos 2 meses após deteção (art. 11.º)",
+    "para": "- [ ] Comunicação da falta de conformidade por meio suscetível de prova e direitos exercidos nos 2 anos seguintes a essa comunicação (arts. 12.º, n.º 5, e 17.º)",
+    "motivo": "Não há prazo de denúncia no DL 84/2021; há caducidade 2 anos após a comunicação.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=3471A0017&nid=3471&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar se a transposição da Diretiva (UE) 2024/1799 (direito à reparação, prazo de transposição 31/7/2026) já alterou o DL 84/2021, em especial o prazo de garantia após reparação; em outubro de 2026 o PGDL ainda não regista alterações ao diploma.",
+   "Nos bens com elementos digitais, o prazo e o ónus da prova seguem regras próprias (arts. 12.º, n.º 2, e 14.º DL 84/2021).",
+   "A caducidade do art. 17.º suspende-se durante a reparação ou substituição e durante a tentativa de resolução extrajudicial (n.os 2 e 3); verificar as datas no caso concreto.",
+   "O DL 84/2021 só se aplica aos contratos de compra e venda celebrados depois da sua entrada em vigor, em 1/1/2022 (arts. 53.º e 55.º); para contratos anteriores rege o DL 67/2003. Confirmar a data do contrato."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=3471A0005&nid=3471&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=3471A0006&nid=3471&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=3471A0012&nid=3471&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=3471A0013&nid=3471&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=3471A0015&nid=3471&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=3471A0017&nid=3471&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=3471A0018&nid=3471&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=3471A0041&nid=3471&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3471&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://files.diariodarepublica.pt/1s/2021/10/20200/0000400029.pdf",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=726A0004&nid=726&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+  ]
+ },
+ {
+  "codigo": "CNS-033",
+  "veredicto": "corrigida",
+  "resumo": "A ficha citava mal quase todos os artigos do DL 24/2014: as definições estão no art. 3.º, o prazo e o exercício nos arts. 10.º e 11.º, o reembolso no art. 12.º e o fornecimento não solicitado no art. 28.º. Omitia ainda o prazo de 30 dias para os contratos celebrados no domicílio do consumidor ou em excursões, aditado pelo DL 109-G/2021. Descrevia também mal a prorrogação de 12 meses: só se aplica por falta da informação sobre o direito de livre resolução e conta-se do termo do prazo inicial. Corrigi, e acrescentei a nulidade por falta de forma (art. 9.º) e a regra dos contratos por telefone (art. 5.º, n.º 8). Acrescentei também as práticas agressivas em qualquer circunstância do DL 57/2008 e o remédio do seu art. 14.º.",
+  "descricao": "Redige comunicação para pôr termo a contratos celebrados na sequência de visitas domiciliárias, feiras ou contactos telefónicos não solicitados, invocando o direito de livre resolução do DL n.º 24/2014, de 14 de fevereiro (14 dias, ou 30 dias nos contratos celebrados no domicílio do consumidor ou em excursões organizadas pelo profissional), a nulidade por falta de forma, a anulação por coação e as normas sobre práticas comerciais agressivas da Lei n.º 24/96 e do DL n.º 57/2008.",
+  "descricao_en": "Drafts a communication to end contracts concluded following home visits, fairs or unsolicited telephone calls, invoking the right of withdrawal under Decree-Law No. 24/2014 of 14 February (14 days, or 30 days for contracts concluded at the consumer's home or on excursions organised by the trader), nullity for lack of form, annulment for duress and the rules on aggressive commercial practices in Law No. 24/96 and Decree-Law No. 57/2008.",
+  "substituicoes": [
+   {
+    "de": "— Distingue sempre entre 'contrato fora do estabelecimento' (art. 2.º, al. i) DL 24/2014) e 'contrato à distância' (art. 2.º, al. g)).",
+    "para": "— Distingue sempre entre 'contrato fora do estabelecimento' (art. 3.º, al. i) DL 24/2014) e 'contrato à distância' (art. 3.º, al. h)).",
+    "motivo": "As definições estão no art. 3.º, als. h) e i); o art. 2.º fixa o âmbito.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2062A0003&nid=2062&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "— O prazo de 14 dias começa a contar da celebração do contrato (serviços) ou da entrega do bem.",
+    "para": "— O prazo de livre resolução é de 14 dias ou, nos contratos celebrados no domicílio do consumidor ou durante deslocação organizada pelo profissional (excursão), de 30 dias (art. 10.º, n.º 1, DL 24/2014); conta-se da celebração do contrato (serviços) ou do dia em que o consumidor adquire a posse física do bem (compra e venda).",
+    "motivo": "Desde o DL n.º 109-G/2021, o prazo é de 30 dias nos contratos celebrados no domicílio ou em excursões; conta-se da posse física do bem.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2062A0010&nid=2062&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "— Se o profissional não forneceu a informação pré-contratual obrigatória do art. 9.º, o prazo alarga-se para 12 meses (art. 10.º, n.º 2).",
+    "para": "— Se o profissional não informou sobre o direito de livre resolução (art. 4.º, n.º 1, al. m)), o prazo é de 12 meses a contar do termo do prazo inicial (art. 10.º, n.º 2); se a informação for prestada nesse período, o consumidor dispõe de 14 ou 30 dias a contar da sua receção (art. 10.º, n.º 3). Nos contratos fora do estabelecimento, a falta de forma escrita ou das informações do art. 4.º gera a nulidade do contrato (art. 9.º, n.º 1).",
+    "motivo": "A prorrogação só decorre da falta de informação sobre o direito de livre resolução e conta-se do termo do prazo inicial; a falta das restantes informações gera nulidade.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2062A0010&nid=2062&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Contexto da celebração (domicílio, local de trabalho, excursão, telefone, etc.)",
+    "para": "- Contexto da celebração (domicílio, local de trabalho, excursão, telefone, etc.)\n- Se o contrato foi celebrado por telefone por iniciativa do profissional: o consumidor só fica vinculado depois de assinar a oferta ou enviar consentimento escrito (art. 5.º, n.º 8, DL 24/2014)",
+    "motivo": "No telemarketing, o consumidor não fica vinculado sem assinatura ou consentimento escrito, o que a ficha omitia.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2062A0005&nid=2062&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Se o profissional cumpriu a obrigação de informação pré-contratual do art. 9.º",
+    "para": "- Se o profissional cumpriu a obrigação de informação pré-contratual do art. 4.º e, fora do estabelecimento, a forma escrita e a entrega de cópia do art. 9.º",
+    "motivo": "A informação pré-contratual consta do art. 4.º; o art. 9.º fixa a forma dos contratos fora do estabelecimento.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2062A0009&nid=2062&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Se foi entregue ficha de resolução (modelo anexo ao DL 24/2014)",
+    "para": "- Se foi entregue o formulário de livre resolução (parte B do anexo ao DL 24/2014)",
+    "motivo": "Designação legal do formulário (art. 4.º, n.º 1, al. m), DL 24/2014).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2062A0004&nid=2062&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- DL 24/2014, arts. 9.º a 11.º: informação pré-contratual e consequências da omissão",
+    "para": "- DL 24/2014, art. 4.º (informação pré-contratual), art. 5.º (contratos à distância; n.º 8: o contrato por telefone só vincula após assinatura da oferta ou consentimento escrito, salvo se o primeiro contacto for do consumidor) e art. 9.º (contratos fora do estabelecimento: forma escrita com as informações do art. 4.º, sob pena de nulidade)",
+    "motivo": "A informação pré-contratual consta do art. 4.º e as consequências da omissão dos arts. 5.º, 9.º e 10.º.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2062A0009&nid=2062&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Arts. 12.º e 13.º: exercício do direito de livre resolução e prazo de 14 dias",
+    "para": "- Arts. 10.º e 11.º: prazo (14 ou 30 dias; 12 meses se faltar a informação sobre o direito) e exercício do direito de livre resolução",
+    "motivo": "O prazo e o exercício estão nos arts. 10.º e 11.º.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2062A0011&nid=2062&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Art. 14.º: efeitos da resolução (restituição integral, sem encargos)",
+    "para": "- Art. 12.º: reembolso de todos os pagamentos em 14 dias, pelo mesmo meio de pagamento; se não reembolsar no prazo, o profissional devolve em dobro, em 15 dias úteis (n.º 6)",
+    "motivo": "O reembolso está no art. 12.º; o art. 14.º trata da inspeção do bem.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2062A0012&nid=2062&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Art. 15.º: obrigações do consumidor após resolução",
+    "para": "- Art. 13.º: obrigações do consumidor após resolução (devolução em 14 dias; custo da devolução a seu cargo, salvo se não tiver sido informado); art. 15.º: serviços iniciados durante o prazo (montante proporcional)",
+    "motivo": "As obrigações do consumidor estão no art. 13.º; o art. 15.º trata dos serviços prestados durante o prazo.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2062A0013&nid=2062&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- DL 57/2008, art. 11.º: práticas comerciais agressivas (assédio, coação)",
+    "para": "- DL 57/2008, art. 11.º: práticas comerciais agressivas (assédio, coação); art. 12.º, als. b) e c): agressivas em qualquer circunstância as visitas ao domicílio que ignorem o pedido para o profissional sair ou não voltar e as solicitações persistentes por telefone; art. 14.º: redução adequada do preço ou resolução do contrato, e indemnização",
+    "motivo": "O DL 57/2008 qualifica como agressivas em qualquer circunstância estas práticas e dá ao consumidor a redução do preço ou a resolução.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1067A0014&nid=1067&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Lei 24/96, art. 9.º: proteção contra práticas agressivas",
+    "para": "- Lei 24/96, art. 9.º: proteção dos interesses económicos (lealdade e boa-fé; n.º 4: não pagamento de bens ou serviços não encomendados)",
+    "motivo": "O art. 9.º consagra a proteção dos interesses económicos, não um regime de práticas agressivas.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=726A0009&nid=726&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Art. 7.º DL 24/2014: fornecimento não solicitado",
+    "para": "- Art. 28.º DL 24/2014: fornecimento não solicitado",
+    "motivo": "O fornecimento não solicitado está no art. 28.º; o art. 7.º trata das restrições nos sítios na Internet.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2062A0028&nid=2062&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Via principal: resolução dentro do prazo ou invocação do prazo alargado de 12 meses",
+    "para": "- Via principal: resolução dentro do prazo (14 ou 30 dias) ou invocação do prazo alargado de 12 meses; em alternativa, nulidade por falta de forma (art. 9.º, n.º 1) ou falta de vinculação no contrato por telefone (art. 5.º, n.º 8)",
+    "motivo": "Acrescenta o prazo de 30 dias e as vias da nulidade e da não vinculação.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2062A0010&nid=2062&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Participação à Autoridade de Segurança Alimentar e Económica (ASAE) se prática sistemática",
+    "para": "- Participação à Autoridade de Segurança Alimentar e Económica (ASAE) se prática sistemática (ou à ANACOM, nos serviços de comunicações eletrónicas — art. 30.º, n.º 1, DL 24/2014)",
+    "motivo": "Nos serviços de comunicações eletrónicas a fiscalização cabe à ANACOM.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2062A0030&nid=2062&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "Assunto: Exercício do Direito de Livre Resolução — Art. 12.º DL n.º 24/2014",
+    "para": "Assunto: Exercício do Direito de Livre Resolução — Arts. 10.º e 11.º DL n.º 24/2014",
+    "motivo": "O direito e o seu exercício estão nos arts. 10.º e 11.º.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2062A0011&nid=2062&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Prazo de 14 dias (ou 12 meses) ainda a decorrer",
+    "para": "- [ ] Prazo de 14 ou 30 dias (ou 12 meses) ainda a decorrer",
+    "motivo": "Prazo de 30 dias para os contratos no domicílio ou em excursões.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2062A0010&nid=2062&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar a data de entrada em vigor do DL n.º 109-G/2021, que aditou o prazo de 30 dias, e a sua aplicação a contratos celebrados antes dela.",
+   "Confirmar se a Diretiva (UE) 2023/2673 (função de livre resolução nas interfaces em linha, aplicável desde 19/6/2026) já foi transposta; o PGDL regista como última alteração do DL 24/2014 a Lei n.º 10/2023.",
+   "A anulação por coação moral (arts. 255.º e 256.º CC) tem prazo próprio (art. 287.º CC); confirmar que não caducou se for a via escolhida.",
+   "Verificar as exclusões do art. 2.º, n.º 3, e as exceções do art. 17.º DL 24/2014 (por exemplo, assinaturas de publicações até 40 euros fora do estabelecimento, serviços financeiros, imóveis)."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2062A0003&nid=2062&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2062A0004&nid=2062&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2062A0005&nid=2062&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2062A0009&nid=2062&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2062A0010&nid=2062&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2062A0011&nid=2062&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2062A0012&nid=2062&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2062A0013&nid=2062&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2062A0028&nid=2062&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2062A0030&nid=2062&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2062&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1067A0011&nid=1067&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1067A0012&nid=1067&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1067A0014&nid=1067&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1067&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=726A0009&nid=726&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=726&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+  ]
+ }
+]

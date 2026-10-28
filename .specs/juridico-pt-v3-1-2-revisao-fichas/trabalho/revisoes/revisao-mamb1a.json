@@ -1,0 +1,392 @@
+[
+ {
+  "codigo": "AMB-001",
+  "veredicto": "corrigida",
+  "resumo": "A ficha tratava o DL 127/2013 como um «regime de licenciamento ambiental», apontava o DL 165/2014 (regularização extraordinária) como licenciamento industrial, dirigia o pedido à APA ou à CCDR e previa a renovação da licença 60 dias antes do termo (art. 35.º). Desde o DL 11/2023 o art. 21.º (renovação) está revogado e a LA não tem prazo de validade (art. 40.º, n.º 8); o pedido é apresentado à entidade coordenadora do licenciamento e decidido pela APA em 80 dias (art. 40.º), não no prazo do art. 27.º. Corrigiram-se o enquadramento (REI, LUA/TUA, SIR), o destinatário, os artigos, os prazos e o tipo de pedido, e assinalou-se com [■ VERIFICAR] a revisão periódica criada pelo DL 89/2025, que não foi possível ler em fonte oficial.",
+  "descricao": "Elabora o pedido de licença ambiental (LA) de uma instalação abrangida pelo anexo I do regime de emissões industriais (REI, DL n.º 127/2013, de 30 de agosto), apresentado à entidade coordenadora do licenciamento para decisão da Agência Portuguesa do Ambiente (APA), com identificação da atividade, caracterização da instalação, conformidade com as melhores técnicas disponíveis e pedido de emissão, alteração ou atualização da licença.",
+  "descricao_en": "Drafts the application for an environmental licence (LA) for an installation covered by Annex I of the Industrial Emissions Regime (REI, Decree-Law No. 127/2013 of 30 August), filed with the coordinating licensing authority for decision by the Portuguese Environment Agency (APA), identifying the activity, describing the installation, showing compliance with best available techniques and requesting the grant, amendment or update of the licence.",
+  "substituicoes": [
+   {
+    "de": "- Cita diplomas reais: DL n.º 127/2013 (RLA/PCIP), Lei n.º 19/2014 (LBA), DL n.º 165/2014 (licenciamento industrial), Diretiva 2010/75/UE (IED)",
+    "para": "- Cita diplomas reais: DL n.º 127/2013 (regime de emissões industriais — REI; a licença ambiental é a do capítulo II, para as instalações do anexo I — prevenção e controlo integrados da poluição, PCIP), DL n.º 75/2015 (Licenciamento Único de Ambiente — LUA; a licença ambiental integra o título único ambiental — TUA), Lei n.º 19/2014 (LBA), DL n.º 169/2012 (Sistema da Indústria Responsável — SIR, se a atividade for industrial), Diretiva 2010/75/UE (IED)",
+    "motivo": "O DL 127/2013 é o regime de emissões industriais (REI); o DL 165/2014 é o regime extraordinário de regularização de estabelecimentos, não o licenciamento industrial (SIR = DL 169/2012); a LA integra o TUA do LUA.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2254&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- O requerimento destina-se a Portugal — entidade APA ou CCDR territorialmente competente",
+    "para": "- O pedido de licença ambiental (LA) é apresentado pelo operador à entidade coordenadora do licenciamento (EC) da atividade, que o envia à APA, I.P., a quem compete decidir; a CCDR não emite a LA, só dá parecer sobre emissões atmosféricas (arts. 4.º, 35.º, n.os 1 e 3, e 40.º, n.º 1, do DL 127/2013)",
+    "motivo": "A LA é pedida à entidade coordenadora do licenciamento e emitida pela APA; a CCDR só emite parecer (art. 4.º, n.º 2).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2254A0035&nid=2254&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Tipo de licença pretendida (nova / renovação / alteração substancial / não substancial)",
+    "para": "- Tipo de pedido (nova LA / alteração substancial / alteração não substancial / atualização da LA — art. 19.º do DL 127/2013); desde o DL 11/2023 a LA não tem prazo de validade nem está sujeita a renovação (art. 40.º, n.º 8) [■ VERIFICAR: revisão periódica obrigatória da LA (art. 19.º-A, aditado pelo DL n.º 89/2025, de 12 de agosto) — prazos e efeitos no Diário da República]",
+    "motivo": "O art. 21.º (renovação) foi revogado pelo DL 11/2023 e a LA deixou de ter prazo de validade (art. 40.º, n.º 8).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2254A0040&nid=2254&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Entidade licenciadora competente (APA ou CCDR?)",
+    "para": "- Entidade coordenadora do licenciamento (EC) a quem se apresenta o pedido (decisão da APA, I.P.)",
+    "motivo": "O pedido é apresentado à EC e decidido pela APA (arts. 35.º e 40.º).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2254A0035&nid=2254&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Artigos aplicáveis do RLA (arts. 19.º a 35.º para instrução do processo)",
+    "para": "- Artigos aplicáveis do REI: arts. 34.º a 41.º (pedido, instrução, avaliação técnica, participação do público, decisão e conteúdo da LA), art. 19.º (alteração e atualização) e art. 22.º (caducidade)",
+    "motivo": "A instrução do pedido de LA está nos arts. 35.º e 37.º; os arts. 19.º a 33.º tratam de outras matérias (alteração, caducidade, articulação com outros regimes).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2254&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Prazo de decisão esperado (art. 27.º DL 127/2013)",
+    "para": "- Prazo de decisão da APA: 80 dias a contar da receção do pedido, 50 dias se houve AIA prévia, reduzidos a metade se o pedido for instruído por entidade acreditada (art. 40.º, n.os 1 a 3, DL 127/2013); sem decisão no prazo, deferimento tácito (art. 23.º) [■ VERIFICAR: redação do art. 40.º depois do DL n.º 89/2025]",
+    "motivo": "O art. 27.º trata da articulação com a AIA e o RPAG; o prazo de decisão está no art. 40.º.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2254A0040&nid=2254&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "**EXMO. SENHOR PRESIDENTE DA AGÊNCIA PORTUGUESA DO AMBIENTE / [CCDR competente]**",
+    "para": "**EXMO. SENHOR PRESIDENTE DA [ENTIDADE COORDENADORA DO LICENCIAMENTO DA ATIVIDADE]** [■ VERIFICAR: qual é a EC no regime de licenciamento da atividade; o pedido de LA segue pela EC para decisão da APA, I.P.]",
+    "motivo": "O pedido de LA é apresentado à EC (art. 35.º, n.º 1), não à APA nem à CCDR.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2254A0035&nid=2254&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "Pedido expresso de [nova licença / renovação / alteração] ao abrigo do art. [X] do DL 127/2013",
+    "para": "Pedido expresso de [nova licença / alteração / atualização] ao abrigo do art. [X] do DL 127/2013",
+    "motivo": "A renovação da LA foi eliminada (art. 21.º revogado; art. 40.º, n.º 8).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2254A0021&nid=2254&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "conceder/renovar/alterar a Licença Ambiental nos termos da legislação aplicável.",
+    "para": "remeter o pedido à Agência Portuguesa do Ambiente, I.P., para emissão/alteração/atualização da Licença Ambiental nos termos da legislação aplicável.",
+    "motivo": "A EC envia o pedido à APA, que decide; a LA já não se renova.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2254A0040&nid=2254&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Entidade destinatária correta (APA vs. CCDR)",
+    "para": "- [ ] Entidade destinatária correta (EC da atividade; decisão da APA, I.P.)",
+    "motivo": "Destinatário do pedido é a EC (art. 35.º, n.º 1).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2254A0035&nid=2254&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Prazo de renovação respeitado (60 dias antes do término — art. 35.º DL 127/2013) [■ VERIFICAR]",
+    "para": "- [ ] Prazos de atualização e de revisão da LA verificados: não há renovação (art. 40.º, n.º 8, DL 127/2013); a atualização é pedida até 4 anos após a publicação das conclusões MTD da atividade principal (art. 19.º, n.º 7, alínea a)) [■ VERIFICAR: revisão periódica do art. 19.º-A, aditado pelo DL n.º 89/2025 — antecedência do pedido e prazo transitório para as LA mais antigas]",
+    "motivo": "Não existe prazo de renovação de 60 dias; o art. 35.º regula o conteúdo do pedido e a renovação foi revogada.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2254A0019&nid=2254&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Tipo: [nova licença / renovação / alteração substancial / não substancial]",
+    "para": "- Tipo: [nova licença / alteração substancial / alteração não substancial / atualização / revisão]",
+    "motivo": "A LA já não se renova (art. 40.º, n.º 8).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2254A0040&nid=2254&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Validade da licença atual: [data]",
+    "para": "- Data de emissão e da última alteração ou revisão da licença atual: [data]",
+    "motivo": "A LA não tem prazo de validade; as datas relevantes são as da emissão, alteração ou revisão.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2254A0040&nid=2254&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar no Diário da República o DL n.º 89/2025, de 12 de agosto (e a Declaração de Retificação n.º 39/2025/1): segundo resumos de sociedades de advogados, aditou o art. 19.º-A (revisão obrigatória da LA de 7 em 7 anos, pedida à APA com antecedência mínima de 6 meses, sob pena de suspensão ou caducidade, e regime transitório para LA emitidas ou alteradas há mais de 6 anos) e alterou o art. 40.º; a versão consolidada consultada (PGDL) só inclui o DL 11/2023.",
+   "Verificar se a Diretiva (UE) 2024/1785, que alterou a Diretiva 2010/75/UE, já foi transposta e se mudou o procedimento ou o conteúdo da LA.",
+   "Identificar a entidade coordenadora do licenciamento da atividade (regime setorial aplicável, p. ex. o SIR na indústria) e o canal eletrónico de submissão (formulário PCIP e integração com o SILiAmb/LUA).",
+   "Confirmar a taxa devida (art. 106.º do REI e regime de taxas do LUA)."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2254&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2254A0004&nid=2254&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2254A0019&nid=2254&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2254A0021&nid=2254&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2254A0035&nid=2254&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2254A0040&nid=2254&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2328&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2232&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3617&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://cms.law/en/prt/publication/amendment-to-the-pcip-regime",
+   "https://abreuadvogados.com/wp-content/uploads/2025/08/Amendment-to-the-Legal-Framework-for-Industrial-Emissions-PDF-EN.pdf",
+   "https://www.cuatrecasas.com/pt/global/publico-1/art/alteracao-ao-regime-juridico-de-emissoes-industriais-1",
+   "https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2025-928506355"
+  ]
+ },
+ {
+  "codigo": "AMB-008",
+  "veredicto": "corrigida",
+  "resumo": "Os artigos do DL 147/2008 estavam trocados: a autoridade competente é a do art. 29.º (não 12.º), a prevenção está no art. 14.º (o 11.º contém as definições), a reparação nos arts. 15.º e 16.º, o pedido de intervenção no art. 18.º, a comparticipação solidária no art. 4.º (não 20.º e ss.), as causas de exclusão nos arts. 2.º, n.º 2, e 20.º (o 19.º trata dos custos), a reparação primária, complementar e compensatória no Anexo V (não IV) e o poluidor-pagador no art. 3.º, alínea d), da Lei 19/2014 (não 16.º). A ficha remetia ainda a responsabilidade subjetiva para os arts. 483.º e ss. CC, quando o próprio DL 147/2008 a regula (art. 13.º na prevenção e reparação; art. 8.º na indemnização). A suspeita da triagem de que a responsabilidade subjetiva só abrange espécies e habitats não se confirma: o art. 13.º abrange qualquer dano ambiental.",
+  "substituicoes": [
+   {
+    "de": "- Distinção fundamental: responsabilidade administrativa (RRA) vs. responsabilidade civil (arts. 483.º ss. CC) vs. responsabilidade penal (crimes ambientais)",
+    "para": "- Distinção fundamental: responsabilidade administrativa pela prevenção e reparação dos danos ambientais (capítulo III do DL 147/2008, arts. 11.º e ss.) vs. responsabilidade civil pelos danos causados a terceiros por via de um componente ambiental (capítulo II do DL 147/2008, arts. 7.º a 10.º, e, em geral, arts. 483.º ss. CC) vs. responsabilidade penal (crimes ambientais)",
+    "motivo": "O DL 147/2008 regula também a responsabilidade civil (capítulo II), não só a administrativa.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1061&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Autoridade competente: APA (art. 12.º DL 147/2008)",
+    "para": "- Autoridade competente: APA (art. 29.º DL 147/2008)",
+    "motivo": "O art. 12.º trata da responsabilidade objetiva; a autoridade competente está no art. 29.º.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1061A0029&nid=1061&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Anexo III — atividades de responsabilidade objetiva (cita categorias relevantes)",
+    "para": "- Anexo III — atividades de responsabilidade objetiva (arts. 7.º e 12.º); fora do Anexo III, responsabilidade subjetiva, com dolo ou negligência, por qualquer dano ambiental (arts. 8.º e 13.º); os operadores do Anexo III têm de constituir garantia financeira (art. 22.º) (cita categorias relevantes)",
+    "motivo": "Faltava a base legal dos dois regimes de imputação no próprio DL 147/2008.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1061&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Art. 11.º — obrigação de prevenção de ameaças iminentes",
+    "para": "- Art. 14.º — obrigação de prevenção de ameaças iminentes (medidas imediatas e informação à APA)",
+    "motivo": "O art. 11.º contém as definições; a prevenção está no art. 14.º.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1061A0014&nid=1061&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Art. 13.º — obrigação de reparação de danos causados",
+    "para": "- Arts. 15.º e 16.º — obrigação de reparação: informar a APA no prazo máximo de 24 horas, conter os danos e propor as medidas de reparação no prazo de 10 dias a contar do dano",
+    "motivo": "O art. 13.º é a responsabilidade subjetiva; a reparação está nos arts. 15.º e 16.º.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1061A0015&nid=1061&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Art. 15.º — legitimidade para solicitar ação à APA (associações ambientais, particulares)",
+    "para": "- Art. 18.º — pedido de intervenção à APA por qualquer interessado (afetado ou que possa vir a ser afetado, com interesse suficiente no processo de decisão ou que invoque a violação de um direito ou interesse legítimo); a APA aprecia a viabilidade em 20 dias e ouve o operador em 10 dias",
+    "motivo": "O pedido de intervenção de terceiros está no art. 18.º, não no 15.º.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1061A0018&nid=1061&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Arts. 20.º e ss. — responsabilidade solidária de múltiplos operadores",
+    "para": "- Art. 4.º — comparticipação: responsabilidade solidária de vários responsáveis, com direito de regresso; art. 3.º — responsabilidade solidária dos diretores, gerentes ou administradores da pessoa coletiva e, havendo abuso da personalidade jurídica ou fraude à lei, da sociedade-mãe ou dominante",
+    "motivo": "O art. 20.º trata da exclusão da obrigação de pagamento; a solidariedade está nos arts. 3.º e 4.º.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1061A0004&nid=1061&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Critérios de reparação (Anexo IV): reparação primária, complementar e compensatória",
+    "para": "- Critérios de reparação (Anexo V): reparação primária, complementar e compensatória; o Anexo IV fixa os critérios do caráter significativo dos danos às espécies e habitats",
+    "motivo": "A reparação primária, complementar e compensatória consta do Anexo V.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1061&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Interface com art. 483.º CC (responsabilidade civil subjetiva)",
+    "para": "- Interface com a responsabilidade civil: arts. 7.º (objetiva, Anexo III) e 8.º (subjetiva) do DL 147/2008 e art. 483.º CC; proibição de dupla reparação (art. 10.º do DL 147/2008)",
+    "motivo": "O DL 147/2008 tem regime próprio de responsabilidade civil (arts. 7.º a 10.º).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1061A0008&nid=1061&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Lei n.º 19/2014 — princípio do poluidor-pagador (art. 16.º)",
+    "para": "- Lei n.º 19/2014 — princípio do poluidor-pagador (art. 3.º, alínea d))",
+    "motivo": "O poluidor-pagador está no art. 3.º, alínea d), da LBA; o art. 16.º trata dos instrumentos de planeamento.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2091A0003&nid=2091&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Regime de exceções: ato de terceiro, força maior, ato de autoridade (art. 19.º DL 147/2008)",
+    "para": "- Exclusões e causas de exoneração: conflito armado, fenómenos naturais de caráter totalmente excecional, imprevisíveis ou inevitáveis, e as demais exclusões do âmbito do capítulo III (art. 2.º, n.º 2, DL 147/2008); exclusão da obrigação de pagar os custos quando o dano foi causado por terceiro apesar de adotadas medidas de segurança adequadas, resultou de ordem de autoridade pública ou, sem dolo nem negligência, de emissão expressamente autorizada ou de atividade não considerada danosa segundo o estado do conhecimento científico e técnico (art. 20.º, n.os 1 e 3), sem dispensa de executar as medidas (art. 20.º, n.º 2); prescrição dos danos de emissões ocorridas há mais de 30 anos (art. 33.º)",
+    "motivo": "O art. 19.º trata dos custos; as exclusões e exonerações estão nos arts. 2.º, n.º 2, e 20.º.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1061A0020&nid=1061&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Subjetiva (outras): arts. 483.º e ss. CC",
+    "para": "- Subjetiva (outras atividades): exige dolo ou negligência — art. 13.º DL 147/2008 (prevenção e reparação); art. 8.º DL 147/2008 e arts. 483.º e ss. CC (indemnização dos lesados)",
+    "motivo": "A responsabilidade subjetiva dos operadores fora do Anexo III está no art. 13.º do DL 147/2008.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1061A0013&nid=1061&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Prevenção de ameaças iminentes (art. 11.º)",
+    "para": "- Prevenção de ameaças iminentes (art. 14.º)",
+    "motivo": "A prevenção está no art. 14.º.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1061A0014&nid=1061&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Notificação à APA",
+    "para": "- Notificação à APA (imediata na ameaça iminente; no prazo máximo de 24 horas após o dano — arts. 14.º, n.º 4, e 15.º, n.º 1, alínea a))",
+    "motivo": "Faltavam os prazos legais de informação à APA.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1061A0015&nid=1061&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Medidas de reparação (Anexo IV: primária, complementar, compensatória)",
+    "para": "- Medidas de reparação (Anexo V: primária, complementar, compensatória)",
+    "motivo": "A reparação primária, complementar e compensatória consta do Anexo V.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1061&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Legitimidade de terceiros para solicitar ação (art. 15.º)",
+    "para": "- Legitimidade de terceiros para solicitar ação (art. 18.º)",
+    "motivo": "O pedido de intervenção está no art. 18.º.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1061A0018&nid=1061&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "O art. 13.º do DL 147/2008 sujeita os operadores fora do Anexo III à responsabilidade subjetiva por qualquer dano ambiental (água e solo incluídos), mais do que exige o art. 3.º, n.º 1, alínea b), da Diretiva 2004/35/CE (só espécies e habitats): confirmar a leitura na jurisprudência e na doutrina antes de concluir pela exclusão.",
+   "O Anexo III remete para diplomas entretanto revogados (p. ex. DL 173/2008, PCIP; DL 178/2006, resíduos): fazer a correspondência com os regimes atuais (REI, DL 127/2013; RGGR, DL 102-D/2020).",
+   "O Fundo de Intervenção Ambiental (art. 23.º) foi extinto pelo DL 42-A/2016 e substituído pelo Fundo Ambiental.",
+   "Verificar se o operador do Anexo III constituiu a garantia financeira obrigatória (art. 22.º) e o regime contraordenacional aplicável (art. 26.º)."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1061&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1061A0004&nid=1061&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1061A0008&nid=1061&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1061A0013&nid=1061&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1061A0014&nid=1061&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1061A0015&nid=1061&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1061A0018&nid=1061&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1061A0020&nid=1061&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1061A0029&nid=1061&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2091A0003&nid=2091&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2091&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2618&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+  ]
+ },
+ {
+  "codigo": "AMB-010",
+  "veredicto": "corrigida",
+  "resumo": "A «transcrição» do art. 1346.º CC não era fiel (omitia as trepidações e usava «desde que», quando a lei diz «sempre que») e o art. 1347.º era descrito como norma sobre ruído, fumos e cheiros, quando trata de obras, instalações ou depósitos de substâncias corrosivas ou perigosas. A Lei 36/98, citada como diploma de saúde pública, é a antiga Lei de Saúde Mental; em seu lugar indicou-se a competência da autoridade de saúde (art. 5.º do DL 82/2009). Corrigiram-se ainda o regime do RGR (três períodos de referência, zonas mista e sensível, indicadores Lden e Ln e critério de incomodidade), o limiar do crime de poluição (danos substanciais, art. 279.º, n.º 6, CP) e as entidades fiscalizadoras do ruído (art. 26.º do RGR).",
+  "substituicoes": [
+   {
+    "de": "- Para ruído: distinguir período noturno (23h-7h) e diurno; valores RGR dependem da zona (mista, sensível, industrial)",
+    "para": "- Para ruído: o RGR distingue os períodos diurno (7h-20h), do entardecer (20h-23h) e noturno (23h-7h); os valores limite de exposição dependem da classificação da zona como mista ou sensível (sem classificação, aplicam-se valores supletivos) e exprimem-se pelos indicadores Lden e Ln (art. 11.º do RGR); nas atividades ruidosas permanentes acresce o critério de incomodidade (art. 13.º do RGR)",
+    "motivo": "O RGR tem três períodos de referência e só classifica zonas mistas e sensíveis; não há «zona industrial» com valores próprios.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1210A0011&nid=1210&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Zona: urbana / rural / industrial — relevante para VLE do RGR",
+    "para": "- Zona: classificação acústica no plano municipal como mista ou sensível (ou ausência de classificação) — relevante para os VLE do RGR (art. 11.º)",
+    "motivo": "Os valores limite do RGR dependem da classificação como zona mista ou sensível.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1210A0011&nid=1210&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Art. 1346.º CC — imissões que causem danos substanciais ou incomodem além do razoável: proprietário pode opor-se",
+    "para": "- Art. 1346.º CC — o proprietário pode opor-se à emissão de fumo, fuligem, vapores, cheiros, calor ou ruídos, à produção de trepidações e a factos semelhantes vindos de prédio vizinho, sempre que importem prejuízo substancial para o uso do imóvel ou não resultem da utilização normal do prédio de que emanam",
+    "motivo": "O critério legal é o prejuízo substancial ou a utilização anormal do prédio, não o incómodo «além do razoável».",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1346&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Art. 1347.º CC — atividades que causem ruído, fumo, vapores, cheiros com efeito prejudicial",
+    "para": "- Art. 1347.º CC — obras, instalações ou depósitos de substâncias corrosivas ou perigosas de que se receiem efeitos nocivos sobre o prédio vizinho; se autorizados, a inutilização só é admitida quando o prejuízo se torne efetivo; a indemnização é sempre devida",
+    "motivo": "O art. 1347.º trata de instalações prejudiciais, não de ruído, fumos ou cheiros.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1347&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Lei n.º 36/98 e ss. — saúde pública (se relevante)",
+    "para": "- Saúde pública (se relevante): a autoridade de saúde pode determinar medidas corretivas e, em caso de grave risco para a saúde pública, a suspensão de atividades ou o encerramento de estabelecimentos (art. 5.º, n.º 3, alíneas a) e b), do DL n.º 82/2009, de 2 de abril)",
+    "motivo": "A Lei 36/98 era a Lei de Saúde Mental (hoje Lei 35/2023), sem relação com imissões.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1701A0005&nid=1701&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Possível crime de poluição (art. 279.º CP) se os danos forem graves [■ VERIFICAR limiar]",
+    "para": "- Possível crime de poluição (art. 279.º CP), que abrange a poluição sonora: exige a violação de disposições legais, regulamentares ou de obrigações impostas pela autoridade competente e danos substanciais, definidos no n.º 6 do mesmo artigo",
+    "motivo": "O limiar legal são os «danos substanciais» do art. 279.º, n.º 6, CP, com violação de normas ou ordens da autoridade.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=109A0279&nid=109&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Fundamentação principal: art. 1346.º + RGR (ruído) / art. 1347.º + legislação ambiental (outros)",
+    "para": "- Fundamentação principal: art. 1346.º CC para todas as imissões (ruído, fumos, cheiros, trepidações, poeiras), com o RGR no ruído; art. 1347.º CC só quando houver obras, instalações ou depósitos de substâncias corrosivas ou perigosas",
+    "motivo": "Fumos e cheiros cabem no art. 1346.º; o art. 1347.º tem objeto próprio.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1346&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Art. 1346.º CC: \"O proprietário de um prédio pode opor-se à emissão de fumo,\nfuligem, vapores, cheiros, calor ou ruídos, bem como a quaisquer outros factos\nsemelhantes, provenientes de prédio vizinho, desde que tais factos importem\num prejuízo substancial para o uso do imóvel ou não resultem da utilização\nnormal do prédio de onde provêm.\"",
+    "para": "- Art. 1346.º CC: \"O proprietário de um imóvel pode opor-se à emissão de fumo,\nfuligem, vapores, cheiros, calor ou ruídos, bem como à produção de trepidações e a outros quaisquer factos\nsemelhantes, provenientes de prédio vizinho, sempre que tais factos importem\num prejuízo substancial para o uso do imóvel ou não resultem da utilização\nnormal do prédio de que emanam.\"",
+    "motivo": "Transcrição alinhada com o texto oficial do art. 1346.º CC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1346&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Art. 1347.º CC: atividades com efeitos prejudiciais para os prédios vizinhos",
+    "para": "- Art. 1347.º CC (só se houver obras, instalações ou depósitos de substâncias corrosivas ou perigosas): efeitos nocivos sobre o prédio vizinho não permitidos por lei",
+    "motivo": "O art. 1347.º trata de instalações prejudiciais.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1347&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- DL n.º 9/2007 (RGR) — VLE para a zona [X]: período diurno [Y] dB(A), noturno [Z] dB(A) [■ VERIFICAR]",
+    "para": "- DL n.º 9/2007 (RGR) — valores limite de exposição da zona [mista/sensível]: Lden [Y] dB(A) e Ln [Z] dB(A) (art. 11.º); se for atividade ruidosa permanente, critério de incomodidade: diferença máxima de 5 dB(A) no período diurno, 4 dB(A) no entardecer e 3 dB(A) no noturno (art. 13.º, n.º 1, alínea b)) [■ VERIFICAR]",
+    "motivo": "O RGR fixa os limites por Lden e Ln e, nas atividades ruidosas permanentes, pelo critério de incomodidade.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1210A0013&nid=1210&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "b) Participação às autoridades competentes (Câmara Municipal / IGAMAOT / ASAE / GNR);",
+    "para": "b) Participação às autoridades competentes (quanto ao ruído, art. 26.º do RGR: Câmara Municipal e polícia municipal / CCDR / IGAMAOT / PSP ou GNR; ASAE, se o estabelecimento estiver sob a sua fiscalização);",
+    "motivo": "A fiscalização do ruído cabe às entidades do art. 26.º do RGR; a ASAE não consta dessa lista.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1210A0026&nid=1210&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "O art. 1346.º CC dá o direito ao proprietário; se o notificante for arrendatário, ou se estiverem em causa o sono e a saúde, ponderar também a tutela geral da personalidade (art. 70.º CC), muito usada pelos tribunais nos casos de ruído.",
+   "Confirmar a classificação acústica da zona no PDM e o mapa de ruído municipal; as medições devem ser feitas por laboratório acreditado.",
+   "No ruído de vizinhança (uso habitacional) não há valores limite: intervêm as autoridades policiais (art. 24.º do RGR); nas atividades ruidosas temporárias, a licença especial de ruído é da câmara municipal.",
+   "Verificar se o DL 9/2007 sofreu alterações posteriores ao DL 278/2007 (a versão consolidada da PGDL termina aí)."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1346&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1347&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1210&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1210A0011&nid=1210&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1210A0013&nid=1210&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1210A0024&nid=1210&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1210A0026&nid=1210&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=109A0279&nid=109&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1701A0005&nid=1701&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=276&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+  ]
+ },
+ {
+  "codigo": "AMB-013",
+  "veredicto": "corrigida",
+  "resumo": "O DL 97/2008 não é a orgânica das ARH, mas o regime económico e financeiro dos recursos hídricos (taxa de recursos hídricos), e as ARH deixaram de ser institutos públicos: são serviços desconcentrados da APA, autoridade nacional da água que emite os títulos (art. 7.º da Lei da Água; o art. 9.º foi revogado pelo DL 130/2012). Os prazos dos títulos estavam errados ou sem base (autorização «até 5 anos»): corrigiu-se a distinção entre licença (máximo 10 anos), autorização (recursos particulares, com comunicação prévia e deferimento tácito em 45 dias após o DL 11/2023) e concessão (máximo 75 anos). O DL 306/2007 foi revogado pelo DL 69/2023 e não regula a captação para rega (art. 44.º do DL 226-A/2007).",
+  "substituicoes": [
+   {
+    "de": "- Base legal: Lei n.º 58/2005 (Lei da Água), DL n.º 226-A/2007 (TURH), DL n.º 97/2008 (estrutura orgânica ARH) [■ VERIFICAR diplomas em vigor]",
+    "para": "- Base legal: Lei n.º 58/2005 (Lei da Água), DL n.º 226-A/2007 (TURH, na redação dos DL n.º 11/2023 e n.º 87/2023), DL n.º 97/2008 (regime económico e financeiro dos recursos hídricos — taxa de recursos hídricos)",
+    "motivo": "O DL 97/2008 estabelece o regime económico e financeiro dos recursos hídricos, não a orgânica das ARH.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2253&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- ARH competente: Norte/Porto, Centro/Coimbra, Tejo e Oeste/Lisboa, Alentejo/Évora, Algarve/Faro",
+    "para": "- ARH competente — serviço desconcentrado da APA, I.P., autoridade nacional da água a quem cabe emitir os títulos (art. 7.º, n.º 1, e art. 8.º, n.º 2, alínea s), da Lei n.º 58/2005; o art. 9.º, sobre as ARH, foi revogado pelo DL n.º 130/2012): Norte/Porto, Centro/Coimbra, Tejo e Oeste/Lisboa, Alentejo/Évora, Algarve/Faro",
+    "motivo": "As ARH deixaram de ser entidades autónomas e integram a APA como serviços desconcentrados.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1191A0007&nid=1191&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Tipo de título adequado: licença (prazo 10 anos) / autorização (até 5 anos) / concessão (casos especiais) [■ VERIFICAR DL 226-A/2007]",
+    "para": "- Tipo de título adequado: licença (utilizações privativas do domínio público do art. 60.º da Lei da Água e utilizações de recursos particulares do art. 62.º, n.º 2; prazo máximo de 10 anos — art. 67.º, n.º 2) / autorização (construções, infraestruturas hidráulicas, captações e outras atividades em leitos, margens e águas particulares — art. 62.º, n.º 1; substituída por comunicação prévia nos casos do art. 16.º do DL 226-A/2007; deferimento tácito em 45 dias, salvo captação para consumo humano ou em zona de seca severa ou extrema — art. 17.º do DL 226-A/2007; captação particular com meios de extração até 5 cv: simples comunicação — art. 62.º, n.º 4) / concessão (utilizações do domínio público do art. 61.º da Lei da Água — p. ex. captação para abastecimento público, para rega de área superior a 50 ha ou para produção de energia — e do art. 23.º do DL 226-A/2007; por contrato, prazo máximo de 75 anos — art. 68.º, n.º 6, da Lei da Água)",
+    "motivo": "A autorização não tem o prazo de «até 5 anos»; o tipo de título depende da natureza pública ou particular do recurso e do uso, com as alterações do DL 11/2023.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1191A0067&nid=1191&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Portaria de taxas de recursos hídricos [■ VERIFICAR portaria em vigor]",
+    "para": "- Taxa de recursos hídricos (DL n.º 97/2008, de 11 de junho) [■ VERIFICAR valores em vigor]",
+    "motivo": "A taxa de recursos hídricos resulta do DL 97/2008.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2253&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Legislação setorial: regime de captação para rega (DL 306/2007 para consumo humano) [■ VERIFICAR]",
+    "para": "- Legislação setorial: captação para rega — art. 44.º do DL 226-A/2007; captação para consumo humano — art. 42.º do DL 226-A/2007 e regime jurídico da qualidade da água destinada ao consumo humano (DL n.º 69/2023, de 21 de agosto, que revogou o DL 306/2007)",
+    "motivo": "O DL 306/2007 foi revogado pelo DL 69/2023 e não regula a rega, que está no art. 44.º do DL 226-A/2007.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3694&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "**À ADMINISTRAÇÃO DE REGIÃO HIDROGRÁFICA [NORTE/CENTRO/TEJO/ALENTEJO/ALGARVE], I.P.**\n(ou APA, I.P. conforme competência)",
+    "para": "**À AGÊNCIA PORTUGUESA DO AMBIENTE, I.P. — ADMINISTRAÇÃO DA REGIÃO HIDROGRÁFICA [DO NORTE / DO CENTRO / DO TEJO E OESTE / DO ALENTEJO / DO ALGARVE]**",
+    "motivo": "As ARH, I.P., já não existem como institutos; o requerimento dirige-se à APA, através da ARH territorialmente competente.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1191A0007&nid=1191&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Taxas de recursos hídricos referenciadas [■ VERIFICAR portaria]",
+    "para": "- [ ] Taxa de recursos hídricos referenciada (DL n.º 97/2008) [■ VERIFICAR valores]",
+    "motivo": "A taxa de recursos hídricos resulta do DL 97/2008.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2253&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "O art. 12.º do DL 226-A/2007 ainda fala em «ARH» e «INAG»: ler à luz do art. 7.º da Lei da Água (competência da APA, através dos serviços desconcentrados).",
+   "Confirmar o canal de submissão (plataforma eletrónica da APA — SILiAmb/LUA) e os elementos da portaria referida no art. 14.º, n.º 3, alínea a), subalínea ii), do DL 226-A/2007.",
+   "As licenças de rejeição de águas residuais e as de captação a elas associadas renovam-se automaticamente pelo mesmo prazo, verificados os pressupostos (art. 34.º, n.º 4, do DL 226-A/2007).",
+   "Confirmar a correspondência entre cada ARH e a respetiva sede indicada na ficha."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1191&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1191A0007&nid=1191&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1191A0067&nid=1191&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1191A0068&nid=1191&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1379&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1379A0016&nid=1379&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1379A0017&nid=1379&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1379A0044&nid=1379&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2253&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3694&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3617&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+  ]
+ }
+]

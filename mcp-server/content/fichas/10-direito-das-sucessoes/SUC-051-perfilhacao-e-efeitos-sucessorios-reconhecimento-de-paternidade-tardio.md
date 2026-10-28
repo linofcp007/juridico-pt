@@ -3,20 +3,22 @@ codigo: SUC-051
 area: "Direito das Sucessões"
 titulo: "Perfilhação e Efeitos Sucessórios — Reconhecimento de Paternidade Tardio"
 titulo_en: "Acknowledgement of Paternity and Succession Effects — Late Recognition of Paternity"
-descricao: "Analisa os efeitos sucessórios do reconhecimento de paternidade (perfilhação) feito após o óbito do pai ou após partilha já efetuada, ao abrigo dos artigos 1847.º e seguintes do Código Civil e dos artigos 2033.º e 2071.º CC, incluindo a ação de petição de herança pelo filho perfilhado."
-descricao_en: "Analyses the succession effects of an acknowledgement of paternity (perfilhação) made after the father's death or after a division has already taken place, under Articles 1847 et seq. of the Civil Code and Articles 2033 and 2071 CC, including the action to recover an inheritance (petição de herança) by the acknowledged child."
+descricao: "Analisa os efeitos sucessórios do reconhecimento de paternidade (perfilhação) feito após o óbito do pai ou após partilha já efetuada, ao abrigo dos artigos 1847.º e seguintes do Código Civil e dos artigos 2033.º e 2075.º CC, incluindo a ação de petição de herança pelo filho perfilhado."
+descricao_en: "Analyses the succession effects of an acknowledgement of paternity (perfilhação) made after the father's death or after a division has already taken place, under Articles 1847 et seq. of the Civil Code and Articles 2033 and 2075 CC, including the action to recover an inheritance (petição de herança) by the acknowledged child."
 ambito: nacional
-estado_citacoes: "conferidas 6 · corrigidas 5 · por conferir 1"
+estado_citacoes: "conferidas 15 · corrigidas 5 · por conferir 0"
+revisao_tecnica: "2026-10-28 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
 # Perfilhação e Efeitos Sucessórios — Reconhecimento de Paternidade Tardio
 
 > **Âmbito:** nacional · **Área:** Direito das Sucessões · **Código:** SUC-051
-> **EN:** Acknowledgement of Paternity and Succession Effects — Late Recognition of Paternity. Analyses the succession effects of an acknowledgement of paternity (perfilhação) made after the father's death or after a division has already taken place, under Articles 1847 et seq. of the Civil Code and Articles 2033 and 2071 CC, including the action to recover an inheritance (petição de herança) by the acknowledged child.
-> **Citações:** conferidas 6 · corrigidas 5 · por conferir 1. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **EN:** Acknowledgement of Paternity and Succession Effects — Late Recognition of Paternity. Analyses the succession effects of an acknowledgement of paternity (perfilhação) made after the father's death or after a division has already taken place, under Articles 1847 et seq. of the Civil Code and Articles 2033 and 2075 CC, including the action to recover an inheritance (petição de herança) by the acknowledged child.
+> **Citações:** conferidas 15 · corrigidas 5 · por conferir 0. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-28 — corrigida (7 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
-Analisa os efeitos sucessórios do reconhecimento de paternidade (perfilhação) feito após o óbito do pai ou após partilha já efetuada, ao abrigo dos artigos 1847.º e seguintes do Código Civil e dos artigos 2033.º e 2071.º CC, incluindo a ação de petição de herança pelo filho perfilhado.
+Analisa os efeitos sucessórios do reconhecimento de paternidade (perfilhação) feito após o óbito do pai ou após partilha já efetuada, ao abrigo dos artigos 1847.º e seguintes do Código Civil e dos artigos 2033.º e 2075.º CC, incluindo a ação de petição de herança pelo filho perfilhado.
 
 ## Método
 
@@ -38,12 +40,13 @@ Apresenta em <analise_filiacao>:
 
 ### ETAPA 2 — FUNDAMENTAÇÃO JURÍDICA
 Explica em <fundamentos_juridicos>:
-- Art. 1853.º CC: conceito e formas de perfilhação (testamento, escritura pública, assento de nascimento, termo nos serviços de registo)
-- Art. 1855.º CC: efeitos retroativos da perfilhação — retroage ao nascimento do filho
+- Art. 1853.º CC: formas de perfilhação (declaração perante o funcionário do registo civil, testamento, escritura pública ou termo lavrado em juízo); a perfilhação pode ser feita a todo o tempo (art. 1854.º CC)
+- art. 1817.º CC, aplicável à investigação de paternidade por força do art. 1873.º CC: a ação só pode ser proposta durante a menoridade do investigante ou nos 10 anos posteriores à sua maioridade, ou nos 3 anos posteriores a algum dos factos do n.º 3 (por exemplo, conhecimento superveniente de factos que justifiquem a investigação) [■ VERIFICAR: jurisprudência constitucional sobre estes prazos]
+- Art. 1797.º CC: os poderes e deveres emergentes da filiação só são atendíveis depois de esta estar legalmente estabelecida (n.º 1), mas o estabelecimento da filiação tem eficácia retroativa (n.º 2)
 - Art. 2033.º CC: capacidade sucessória — filho reconhecido após o óbito tem capacidade sucessória; a filiação retroage
 - Art. 2034.º CC: causas de indignidade — verificar se aplicável
-- Art. 2075.º CC: petição de herança — prazo de 10 anos para reclamar a herança
-- Art. 2071.º CC [■ VERIFICAR: o art. 2071.º CC trata da responsabilidade por encargos; o herdeiro preterido tem a petição de herança (art. 2075.º CC)]: restituição proporcional por herdeiros já partilhantes
+- Art. 2075.º CC: petição de herança — o herdeiro pode pedir o reconhecimento da sua qualidade sucessória e a restituição dos bens contra quem os possua; a ação pode ser intentada a todo o tempo, sem prejuízo da usucapião de cada coisa possuída e da caducidade do direito de aceitar a herança, dez anos após o conhecimento de ter sido chamado (art. 2059.º, n.º 1, CC); não procede contra terceiro que tenha adquirido do herdeiro aparente, a título oneroso e de boa-fé (art. 2076.º, n.º 2, CC)
+- Partilha já feita sem o filho reconhecido: se foi feita em inventário, pode pedir-se no próprio processo a anulação da partilha (só havendo dolo ou má-fé dos outros interessados) ou a composição do quinhão do herdeiro preterido (arts. 1127.º e 1128.º CPC); se foi extrajudicial, a via é a ação de petição de herança contra os coerdeiros que possuam os bens (arts. 2075.º e 2078.º CC) [■ VERIFICAR: meio adequado e pedido (nova partilha ou composição do quinhão em dinheiro) consoante a forma da partilha]
 
 ### ETAPA 3 — CÁLCULO DO IMPACTO NA PARTILHA
 Realiza em <calculo_impacto>:
@@ -62,16 +65,16 @@ Redige em <peticao_heranca>:
 
 **AÇÃO DE PETIÇÃO DE HERANÇA**
 
-contra **[Restantes Herdeiros]**, ao abrigo dos artigos 2033.º e 2071.º do Código Civil, com os seguintes fundamentos:
+contra **[Restantes Herdeiros]**, ao abrigo dos artigos 1797.º e 2075.º do Código Civil, com os seguintes fundamentos:
 [Factos: filiação estabelecida; óbito; partilha já realizada; quota devida; recusa de restituição]
 
-**Pedido:** Condenação na restituição proporcional do quinhão hereditário.
+**Pedido:** Reconhecimento da qualidade de herdeiro do autor e condenação dos réus na restituição dos bens da herança que possuam, na medida necessária ao preenchimento do seu quinhão (artigo 2075.º, n.º 1, do Código Civil) [■ VERIFICAR: cumulação com pedido de nova partilha ou de composição do quinhão em dinheiro].
 
 ### ETAPA 5 — CHECKLIST
 Apresenta em <checklist_validacao>:
 - [ ] Sentença de investigação de paternidade ou perfilhação obtida (cópia certificada)
 - [ ] Efeito retroativo da filiação ao nascimento confirmado (art. 1797.º CC)
-- [ ] Prazo de 10 anos para petição de herança verificado (art. 2075.º CC)
+- [ ] Prazos verificados: caducidade do direito de aceitar a herança — dez anos a contar do conhecimento de ter sido chamado (art. 2059.º, n.º 1, CC); a petição de herança pode ser intentada a todo o tempo, sem prejuízo da usucapião de bens concretos (art. 2075.º CC)
 - [ ] Quota hereditária calculada (igual à dos outros filhos)
 - [ ] Partilha já realizada mapeada (o que cada herdeiro recebeu)
 - [ ] Valor a restituir calculado para cada co-herdeiro
@@ -106,11 +109,19 @@ Apresenta em <checklist_validacao>:
 | art. 1797.º CC | corrigida — Atendibilidade da filiação | o número citado no catálogo não correspondia à epígrafe |
 | art. 1797.º CC | corrigida — Atendibilidade da filiação | o número citado no catálogo não correspondia à epígrafe |
 | Art. 1853.º CC | corrigida — Forma | o número citado no catálogo não correspondia à epígrafe |
-| Art. 1855.º CC | conferida (epígrafe) — Perfilhação de nascituro |  |
+| art. 1854.º CC | conferida (epígrafe) — Tempo de perfilhação |  |
+| art. 1817.º CC | conferida (epígrafe) — Prazo para a proposição da ação |  |
+| art. 1873.º CC | conferida (epígrafe) — Remissão |  |
+| Art. 1797.º CC | conferida (epígrafe) — Atendibilidade da filiação |  |
 | Art. 2033.º CC | conferida (epígrafe) — Princípios gerais |  |
 | Art. 2034.º CC | conferida (epígrafe) — Incapacidade por indignidade |  |
 | Art. 2075.º CC | corrigida — Ação de petição | o número citado no catálogo não correspondia à epígrafe |
-| Art. 2071.º CC | por conferir [■ VERIFICAR] | o art. 2071.º CC trata da responsabilidade por encargos; o herdeiro preterido tem a petição de herança (art. 2075.º CC) |
-| art. 2075.º CC | corrigida — Ação de petição | o número citado no catálogo não correspondia à epígrafe |
+| art. 2059.º, n.º 1, CC | conferida (epígrafe) — Caducidade |  |
+| art. 2059.º, n.º 1, CC | conferida (epígrafe) — Caducidade |  |
+| art. 2076.º, n.º 2, CC | conferida (epígrafe) — Alienação a favor de terceiro |  |
+| arts. 1127.º e 1128.º CPC | conferida (epígrafe) — Anulação da partilha |  |
+| arts. 2075.º e 2078.º CC | conferida (epígrafe) — Ação de petição |  |
 | art. 2139.º CC | conferida (epígrafe) — Regras gerais |  |
-| artigos 2033.º e 2071.º do Código Civil | conferida (epígrafe) — Princípios gerais |  |
+| artigos 1797.º e 2075.º do Código Civil | conferida (epígrafe) — Atendibilidade da filiação |  |
+| artigo 2075.º, n.º 1, do Código Civil | conferida (epígrafe) — Ação de petição |  |
+| art. 2075.º CC | corrigida — Ação de petição | o número citado no catálogo não correspondia à epígrafe |

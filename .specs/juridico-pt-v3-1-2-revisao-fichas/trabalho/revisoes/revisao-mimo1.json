@@ -1,0 +1,667 @@
+[
+ {
+  "codigo": "IMO-002",
+  "veredicto": "corrigida",
+  "resumo": "A ficha citava o DL n.º 306/2007 como diploma da certificação energética (o SCE consta do DL n.º 101-D/2020), tratava a licença de utilização e a ficha técnica da habitação como documentos a exibir na escritura (exigência eliminada desde 1/1/2024 pelo DL n.º 10/2024, que revogou o DL n.º 281/99 e o art. 9.º do DL n.º 68/2004) e atribuía a preferência do arrendatário ao art. 1410.º CC (é o art. 1091.º; o art. 1410.º regula a ação de preferência). Corrigi ainda a forma (escritura ou documento particular autenticado — art. 875.º CC), a fonte das taxas do IMT (art. 17.º CIMT, atualizado pela lei do Orçamento, não por portaria), a base do Imposto do Selo, o inexistente «IRNS» e a «Casa do Cidadão».",
+  "substituicoes": [
+   {
+    "de": "- Art. 875.º CC (forma da compra e venda de imóvel — escritura pública)",
+    "para": "- Art. 875.º CC (forma da compra e venda de imóvel — escritura pública ou documento particular autenticado)",
+    "motivo": "O art. 875.º CC admite a escritura pública ou o documento particular autenticado.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0875&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- DL 306/2007 (certificação energética — obrigatoriedade)",
+    "para": "- DL n.º 101-D/2020, na redação em vigor (Sistema de Certificação Energética dos Edifícios — SCE: certificado energético válido na venda) [■ VERIFICAR: artigo que impõe o certificado na venda e a sua menção no título]",
+    "motivo": "O DL n.º 306/2007 não regula a certificação energética; o SCE consta do DL n.º 101-D/2020, indicado como legislação em vigor pela ADENE.",
+    "fonte": "https://www.sce.pt/legislacao/"
+   },
+   {
+    "de": "- Art. 1410.º CC (preferência do arrendatário, se aplicável)",
+    "para": "- Art. 1091.º CC (direito de preferência do arrendatário na compra e venda do local arrendado há mais de dois anos — n.º 1, al. a); comunicação do projeto de venda por carta registada com aviso de receção, com 30 dias para resposta — n.º 4) e art. 1410.º CC (ação de preferência, aplicável por remissão do art. 1091.º, n.º 5)",
+    "motivo": "O direito de preferência do arrendatário está no art. 1091.º CC; o art. 1410.º CC regula a ação de preferência.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1091&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Licença de utilização / habitação (ou documento equivalente)\n- Ficha técnica de habitação (para imóveis posteriores a março de 2004)\n- Certificado de desempenho energético e da qualidade do ar interior (SCE)",
+    "para": "- Título de utilização (autorização ou licença de utilização ou, nas utilizações posteriores ao DL n.º 10/2024, comprovativo da comunicação prévia de utilização — arts. 62.º-A e 62.º-B RJUE): verificação de due diligence — desde 1 de janeiro de 2024 a escritura já não exige a sua exibição nem a prova da sua existência (o DL n.º 281/99 foi revogado pelo art. 24.º, al. b), do DL n.º 10/2024), mas sem ele o uso pode ser ilegal e o banco pode recusar o crédito\n- Ficha técnica da habitação (para imóveis posteriores a março de 2004) — também deixou de ser exibida na escritura (art. 9.º do DL n.º 68/2004, revogado pelo art. 24.º, al. d), do DL n.º 10/2024)\n- Certificado energético válido (SCE — DL n.º 101-D/2020)",
+    "motivo": "O DL n.º 10/2024 eliminou, desde 1/1/2024, a exibição ou prova da autorização de utilização e da ficha técnica da habitação na compra e venda; a utilização passou a assentar em comunicação prévia; o certificado do SCE atual é o certificado energético.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=3737A0024&nid=3737&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Declaração de não arrendamento ou autorização do arrendatário",
+    "para": "- Declaração do vendedor sobre a existência de arrendamento; havendo arrendatário com direito de preferência (local arrendado há mais de dois anos — art. 1091.º, n.º 1, al. a), CC), comprovativo da comunicação para preferência por carta registada com aviso de receção e da resposta ou do decurso do prazo de 30 dias (art. 1091.º, n.º 4, CC) — a venda não depende de autorização do arrendatário",
+    "motivo": "A venda do locado não carece de autorização do arrendatário; este tem direito de preferência, exercido no prazo de 30 dias após a comunicação.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1091&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "[■ VERIFICAR: tabelas IMT em vigor — Portaria anual do Ministério das Finanças]",
+    "para": "[■ VERIFICAR: escalões e taxas do art. 17.º CIMT na redação em vigor — atualizados pela lei do Orçamento do Estado (para 2026, Lei n.º 73-A/2025); ver references/valores-2026.md]",
+    "motivo": "As taxas e os escalões do IMT constam do art. 17.º CIMT e são atualizados pela lei do Orçamento do Estado, não por portaria.",
+    "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cimt/Pages/cimt17.aspx"
+   },
+   {
+    "de": "— Imposto do Selo (verba 1.1 TGIS): 0,8% × €[preço] = €[■ VERIFICAR]",
+    "para": "— Imposto do Selo (verba 1.1 TGIS): 0,8% × €[valor tributável — o maior de entre o preço e o VPT, como no IMT (art. 12.º, n.º 1, CIMT)] = €[■ VERIFICAR: valor tributável do Imposto do Selo nos termos do CIS]",
+    "motivo": "A base não é só o preço: o IMT incide sobre o maior de entre o valor do contrato e o VPT, e o Imposto do Selo da verba 1.1 segue esse valor.",
+    "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cimt/Pages/cimt12.aspx"
+   },
+   {
+    "de": "— Registo de aquisição: emolumento tabelado [■ VERIFICAR: tabela emolumentos IRNS]",
+    "para": "— Registo de aquisição: emolumento do Regulamento Emolumentar dos Registos e do Notariado (DL n.º 322-A/2001) [■ VERIFICAR: valor em vigor]",
+    "motivo": "Não existe «IRNS»; os emolumentos do registo predial constam do Regulamento Emolumentar dos Registos e do Notariado.",
+    "fonte": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2001-34475775"
+   },
+   {
+    "de": "Aos [data] compareceram no [Cartório Notarial / Casa do Cidadão]:",
+    "para": "Aos [data] compareceram no [Cartório Notarial de [localidade], perante o(a) notário(a) [nome]]:",
+    "motivo": "A escritura pública é lavrada por notário; «Casa do Cidadão» não é local de celebração de escrituras (a alternativa legal é o documento particular autenticado — art. 875.º CC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0875&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Licença de utilização presente",
+    "para": "- [ ] Título de utilização verificado (due diligence; já não é exibido na escritura — DL n.º 10/2024)",
+    "motivo": "Desde 1/1/2024 a escritura não exige a exibição da autorização de utilização.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=3737A0024&nid=3737&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Preferência do arrendatário verificada (art. 1410.º CC)",
+    "para": "- [ ] Preferência do arrendatário verificada (art. 1091.º CC; ação de preferência — art. 1410.º CC)",
+    "motivo": "O direito de preferência do arrendatário está no art. 1091.º CC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1091&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Licença de utilização: [número / data / \"em obtenção\"]",
+    "para": "- Título de utilização: [autorização/licença de utilização ou comunicação prévia de utilização — número / data / \"em obtenção\"] (verificação de due diligence)",
+    "motivo": "Coerência com o regime do DL n.º 10/2024 (título de utilização deixou de ser exibido na escritura).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=3737A0024&nid=3737&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar o artigo do DL n.º 101-D/2020 (na redação do DL n.º 11/2025 e alterações posteriores) que impõe o certificado energético na venda e a sua menção no título.",
+   "Confirmar o valor tributável do Imposto do Selo (verba 1.1 TGIS) no CIS e os escalões do IMT do ano (art. 17.º CIMT).",
+   "Confirmar os emolumentos do registo de aquisição no RERN em vigor (alterado em 2026).",
+   "Embora já não seja exibido na escritura, o título de utilização continua a ser decisivo para o uso legal e para o crédito à habitação."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0875&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1091&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1410&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=3737A0024&nid=3737&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3737&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=625A0062A&nid=625&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.sce.pt/legislacao/",
+   "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cimt/Pages/cimt17.aspx",
+   "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cimt/Pages/cimt12.aspx",
+   "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2001-34475775"
+  ]
+ },
+ {
+  "codigo": "IMO-014",
+  "veredicto": "corrigida",
+  "resumo": "A ficha atribuía o procedimento especial de despejo ao DL n.º 1/2013 e ao Balcão Nacional do Arrendamento: o regime está nos arts. 15.º a 15.º-S do NRAU e o procedimento corre no Balcão do Arrendatário e do Senhorio (BAS, art. 15.º-A NRAU, Lei n.º 56/2023); o DL n.º 1/2013 só regula o funcionamento do BAS. A versão A fundava a resolução no art. 1083.º, n.º 1, e no art. 1048.º CC, com «notificação para pagamento» prévia: corrigi para o art. 1083.º, n.º 3 (ou n.ºs 4 e 6), com comunicação nos termos do art. 1084.º, n.º 2, CC e do art. 9.º, n.º 7, NRAU e a faculdade de pôr fim à mora num mês. Corrigi ainda os títulos e documentos (art. 15.º, n.ºs 2, 5 e 6, e art. 15.º-B NRAU), o que sucede com a oposição (distribuição ao tribunal, não incompetência), o art. 15.º-J (é a desocupação) e a assinatura (advogado não obrigatório no requerimento — art. 15.º-S, n.ºs 3 e 4).",
+  "titulo": "Requerimento Inicial no Balcão do Arrendatário e do Senhorio (BAS)",
+  "titulo_en": "Initial Application to the Tenant and Landlord Office (BAS)",
+  "descricao": "Prepara o requerimento do procedimento especial de despejo junto do Balcão do Arrendatário e do Senhorio (BAS, que sucedeu ao Balcão Nacional do Arrendamento), ao abrigo dos arts. 15.º a 15.º-S do NRAU (Lei n.º 6/2006) e do DL n.º 1/2013, de 7 de janeiro, incluindo identificação das partes, fundamento do pedido, documentação necessária, pedido de despejo e, se aplicável, pedido de pagamento de rendas em atraso.",
+  "descricao_en": "Prepares the application for the special eviction procedure before the Tenant and Landlord Office (Balcão do Arrendatário e do Senhorio, BAS, which succeeded the National Tenancy Office), under Arts. 15 to 15-S of the NRAU (Law No. 6/2006) and Decree-Law No. 1/2013 of 7 January, including identification of the parties, the grounds of the request, the documents required, the eviction request and, where applicable, a claim for payment of rent arrears.",
+  "substituicoes": [
+   {
+    "de": "— O BNA é competente para despejos por: (a) cessação do contrato (oposição à renovação, termo do prazo); (b) resolução por incumprimento (falta de rendas); (c) caducidade.\n— O requerimento deve ser instruído com: contrato, notificações enviadas, comprovativo de AR, prova de mora.\n— O BNA não é competente se houver contestação de facto sobre o contrato ou sobre a resolução.",
+    "para": "— O procedimento especial de despejo corre no Balcão do Arrendatário e do Senhorio (BAS, que sucedeu ao Balcão Nacional do Arrendamento — art. 15.º-A NRAU) e só pode ter por base os títulos do art. 15.º, n.º 2, NRAU: revogação (com o acordo do art. 1082.º, n.º 2, CC), caducidade pelo decurso do prazo de contrato não renovável, oposição à renovação, denúncia pelo senhorio ou pelo arrendatário e resolução por comunicação (art. 1084.º, n.º 2, CC — mora no pagamento da renda, encargos ou despesas, ou oposição a obra ordenada por autoridade pública).\n— O requerimento é instruído com o contrato e o comprovativo da comunicação que serve de base ao despejo (art. 15.º, n.º 2, NRAU) e com o comprovativo do imposto do selo ou das rendas declaradas em IRS/IRC (arts. 15.º, n.º 5, e 15.º-B, n.º 2, al. h), NRAU); a comunicação de resolução faz-se por notificação avulsa, por contacto pessoal de advogado, solicitador ou agente de execução ou, havendo domicílio convencionado no contrato escrito, por carta registada com aviso de receção (art. 9.º, n.º 7, NRAU).\n— Deduzida oposição, o BAS apresenta os autos à distribuição e o procedimento prossegue no tribunal da situação do locado (arts. 15.º, n.º 9, e 15.º-H, n.º 1, NRAU).",
+    "motivo": "O BNA foi substituído pelo BAS; os títulos admissíveis são os do art. 15.º, n.º 2, NRAU; a oposição não torna o balcão incompetente, determina a distribuição ao tribunal.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=691A0015&nid=691&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "— Cita os artigos do DL 1/2013 e do NRAU.",
+    "para": "— Cita os arts. 15.º a 15.º-S do NRAU (Lei n.º 6/2006), onde está o regime do procedimento, e, quanto ao funcionamento do BAS, o DL n.º 1/2013, de 7 de janeiro, na redação da Lei n.º 56/2023.",
+    "motivo": "O DL n.º 1/2013 regula a instalação e o funcionamento do BAS; o procedimento está nos arts. 15.º a 15.º-S do NRAU.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=3709A0038&nid=3709&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- O contrato está em vigor na forma escrita (requisito do BNA)?\n- Foram enviadas as notificações exigidas? Há comprovativos de AR?",
+    "para": "- Há contrato escrito (base do procedimento — art. 15.º, n.º 2, NRAU)? O imposto do selo foi liquidado ou as rendas foram declaradas em IRS/IRC (art. 15.º, n.º 5, NRAU)?\n- A comunicação que serve de base ao despejo foi feita pela forma legal (art. 9.º NRAU; na resolução, art. 9.º, n.º 7) e há comprovativo? Foi comunicado ao arrendatário o montante em dívida (condição do pedido de pagamento — art. 15.º, n.º 6, NRAU)?",
+    "motivo": "Requisitos do procedimento especial de despejo: título do art. 15.º, n.º 2, imposto do selo/IRS-IRC (n.º 5) e comunicação do montante em dívida (n.º 6).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=691A0015&nid=691&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- DL n.º 1/2013, de 7 de janeiro (Procedimento Especial de Despejo — PED)\n- Arts. 15.º e ss. DL 1/2013 (requerimento, documentos, notificação ao arrendatário)\n- Art. 1083.º CC (resolução por incumprimento)",
+    "para": "- Arts. 15.º a 15.º-S NRAU (Lei n.º 6/2006 — procedimento especial de despejo): títulos e documentos (art. 15.º), BAS (art. 15.º-A), requerimento (art. 15.º-B), notificação ao arrendatário (art. 15.º-D)\n- DL n.º 1/2013, de 7 de janeiro, na redação da Lei n.º 56/2023 (instalação e funcionamento do BAS)\n- Art. 1083.º CC (resolução por incumprimento): mora igual ou superior a três meses (n.º 3) ou mais de quatro atrasos superiores a oito dias em 12 meses, com o aviso do n.º 6 (n.º 4); art. 1084.º, n.ºs 2 a 4, CC (resolução por comunicação, que fica sem efeito se o arrendatário puser fim à mora no prazo de um mês, uma única vez por contrato)",
+    "motivo": "O regime do procedimento está no NRAU, não no DL n.º 1/2013; a falta de pagamento é fundamento dos n.ºs 3 e 4 do art. 1083.º CC, com resolução por comunicação (art. 1084.º CC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1084&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- NRAU — Lei n.º 6/2006 (notificações e comunicações prévias)\n- Art. 15.º-J DL 1/2013 (oposição do requerido — envio para tribunal se contestação)",
+    "para": "- NRAU — Lei n.º 6/2006, arts. 9.º e 10.º (forma das comunicações; na resolução, art. 9.º, n.º 7)\n- Arts. 15.º-F e 15.º-H NRAU (oposição do requerido em 15 dias, com taxa de justiça e, nos casos do art. 1083.º, n.ºs 3 e 4, CC, caução até seis rendas; deduzida a oposição, distribuição ao tribunal)",
+    "motivo": "A oposição está no art. 15.º-F e a distribuição no art. 15.º-H do NRAU; o art. 15.º-J trata da desocupação do locado.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=691A0015F&nid=691&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Data de notificação pelo BNA ao arrendatário (prazo de oposição — 15 dias)",
+    "para": "- Data de notificação pelo BAS ao arrendatário (prazo de oposição — 15 dias, arts. 15.º-D, n.º 1, e 15.º-F, n.º 1, NRAU)",
+    "motivo": "O BNA foi substituído pelo BAS.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=691A0015F&nid=691&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "**AO BALCÃO NACIONAL DO ARRENDAMENTO**",
+    "para": "**AO BALCÃO DO ARRENDATÁRIO E DO SENHORIO (BAS)**\n[O requerimento é apresentado em modelo próprio no BAS, por via eletrónica quando entregue por advogado ou solicitador (art. 15.º-B, n.ºs 1 e 6, NRAU); o texto abaixo serve para preencher os campos do modelo — fora do modelo, o requerimento é recusado (art. 15.º-C, n.º 1, al. g), NRAU).]",
+    "motivo": "O BAS sucedeu ao BNA e o requerimento tem modelo próprio.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=691A0015&nid=691&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "vem, nos termos dos arts. 15.º e ss. do DL n.º 1/2013, de 7 de janeiro, requerer PROCEDIMENTO ESPECIAL DE DESPEJO",
+    "para": "vem, nos termos dos arts. 15.º e 15.º-B da Lei n.º 6/2006, de 27 de fevereiro (NRAU), requerer PROCEDIMENTO ESPECIAL DE DESPEJO",
+    "motivo": "O procedimento especial de despejo está nos arts. 15.º e seguintes do NRAU.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=691A0015&nid=691&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "\"O Requerido encontra-se em mora no pagamento das rendas dos meses de [meses], no montante total de €[valor]. Por carta registada com aviso de receção enviada em [data], o Requerente notificou o Requerido para pagamento no prazo de [X] dias, sem que tenha obtido qualquer resposta ou pagamento. Nos termos do art. 1083.º, n.º 1, do Código Civil e do art. 1048.º CC, o contrato foi resolvido por comunicação enviada em [data].\"",
+    "para": "\"O Requerido encontra-se em mora, há [três ou mais] meses, no pagamento das rendas dos meses de [meses], no montante total de €[valor]. Com fundamento no art. 1083.º, n.º 3, do Código Civil [ou: nos atrasos do art. 1083.º, n.º 4, precedidos do aviso por carta registada com aviso de receção exigido pelo n.º 6], o Requerente resolveu o contrato por comunicação feita em [data] mediante [notificação avulsa / contacto pessoal de advogado, solicitador ou agente de execução / carta registada com aviso de receção para o domicílio convencionado no contrato], nos termos do art. 1084.º, n.º 2, do Código Civil e do art. 9.º, n.º 7, do NRAU. [Fundamento do n.º 3:] Decorrido um mês, o Requerido não pôs fim à mora (art. 1084.º, n.º 3, do Código Civil) nem desocupou o locado.\"",
+    "motivo": "A falta de pagamento é fundamento dos n.ºs 3 e 4 do art. 1083.º CC (o n.º 1 é a regra geral e o art. 1048.º respeita à resolução judicial); a resolução opera por comunicação na forma do art. 9.º, n.º 7, NRAU, sem notificação prévia para pagamento, e fica sem efeito se a mora cessar num mês.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1084&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "2. [Se aplicável:] Seja condenado o Requerido no pagamento das rendas em atraso de €[valor] e juros de mora.",
+    "para": "2. [Se aplicável, e desde que tenha sido comunicado ao arrendatário o montante em dívida — art. 15.º, n.º 6, NRAU:] Seja o Requerido notificado para pagar as rendas em atraso, com discriminação do capital (€[valor]), dos juros vencidos (€[valor]) e de outras quantias (art. 15.º-B, n.º 2, al. g), NRAU).",
+    "motivo": "O pedido de pagamento só pode ser cumulado se o montante em dívida tiver sido comunicado ao arrendatário, e tem de discriminar capital e juros.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=691A0015&nid=691&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "1. Contrato de arrendamento\n2. Carta registada com AR de notificação para pagamento [/de oposição à renovação]\n3. Comprovativo de AR devolvido\n4. [Comunicação de resolução (se aplicável)]\n5. Documentos comprovativos das rendas em atraso (recibos, extratos)",
+    "para": "1. Contrato de arrendamento\n2. Comprovativo da comunicação que serve de base ao despejo (art. 15.º, n.º 2, NRAU): resolução — notificação avulsa, certificação do contacto pessoal ou carta registada com aviso de receção para o domicílio convencionado (art. 9.º, n.º 7, NRAU) [/oposição à renovação — carta registada com aviso de receção, art. 9.º, n.º 1, NRAU]\n3. Comprovativo da comunicação ao arrendatário do montante em dívida, se for pedido o pagamento (art. 15.º, n.º 6, NRAU)\n4. Comprovativo do pagamento do imposto do selo ou da liquidação do IRS/IRC dos últimos quatro anos com as rendas do locado, salvo contrato mais recente (art. 15.º-B, n.º 2, al. h), NRAU)\n5. Documentos comprovativos das rendas em atraso (recibos, extratos) e comprovativo do IBAN do requerente (art. 15.º-B, n.º 2, al. l), NRAU)\n[No modelo: designação do agente de execução ou do notário para a desocupação — art. 15.º-B, n.º 2, al. j), NRAU]",
+    "motivo": "Documentos e elementos exigidos pelos arts. 15.º e 15.º-B NRAU; não há notificação prévia para pagamento como requisito.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=691A0015&nid=691&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "[Assinatura do advogado / mandatário]\nOA [número]",
+    "para": "[Assinatura do requerente ou do mandatário — a constituição de advogado não é obrigatória para apresentar o requerimento, mas é-o para deduzir oposição e nos atos posteriores à distribuição (art. 15.º-S, n.ºs 3 e 4, NRAU)]\n[Se houver mandatário: nome, cédula profissional e domicílio profissional — art. 15.º-B, n.º 6, NRAU]",
+    "motivo": "O senhorio pode apresentar o requerimento sem advogado; o patrocínio é obrigatório só na oposição e depois da distribuição.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=691A0015S&nid=691&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Notificações prévias e ARs juntos",
+    "para": "- [ ] Comprovativo da comunicação que serve de base ao despejo (forma do art. 9.º NRAU) e do imposto do selo ou IRS/IRC juntos (art. 15.º, n.ºs 2 e 5, NRAU)",
+    "motivo": "Documentos exigidos pelo art. 15.º NRAU.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=691A0015&nid=691&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Submissão em balcao.mj.pt ou via CITIUS prevista",
+    "para": "- [ ] Submissão no BAS, em modelo próprio, por via eletrónica se entregue por advogado ou solicitador (art. 15.º-B, n.ºs 1 e 6, NRAU) [■ VERIFICAR: endereço atual da plataforma do BAS]",
+    "motivo": "O requerimento é apresentado no BAS, não via CITIUS; não se confirmou o endereço eletrónico atual.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=691A0015&nid=691&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [Resolução por falta de rendas: meses, valores, data da notificação prévia, data da resolução]",
+    "para": "- [Resolução por falta de rendas: meses, valores, forma e data da comunicação de resolução (art. 9.º, n.º 7, NRAU), domicílio convencionado no contrato (sim/não), data da comunicação do montante em dívida]\n- [Imposto do selo liquidado ou rendas declaradas em IRS/IRC: sim/não]",
+    "motivo": "Dados exigidos pelos arts. 9.º, n.º 7, e 15.º, n.ºs 5 e 6, NRAU.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=691A0009&nid=691&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar o endereço atual da plataforma eletrónica do BAS e o modelo de requerimento em vigor (portaria regulamentadora do BAS, referida como Portaria n.º 49/2024).",
+   "Confirmar a forma da comunicação de resolução usada (art. 9.º, n.º 7, NRAU): a carta registada só vale com domicílio convencionado no contrato escrito.",
+   "Verificar as situações de suspensão ou diferimento da desocupação (art. 15.º-M NRAU) quando o arrendatário seja vulnerável."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=691A0015&nid=691&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=691A0015F&nid=691&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=691A0015M&nid=691&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=691A0015S&nid=691&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=691A0009&nid=691&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=691A0014&nid=691&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1083&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1084&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1048&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=3709A0038&nid=3709&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3709&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+  ]
+ },
+ {
+  "codigo": "IMO-015",
+  "veredicto": "corrigida",
+  "resumo": "A ficha fixava o valor da causa na «soma dos pedidos», quando o art. 298.º, n.º 1, CPC manda atender à renda de dois anos e meio acrescida das rendas em dívida ou da indemnização pedida (a que for superior), e fundava a resolução por falta de renda no art. 1083.º, n.º 1, sem os n.ºs 3/4 nem a caducidade do art. 1048.º CC (pagamento até à contestação). Corrigi a forma de processo (comum declarativo — art. 14.º, n.º 1, NRAU), retirei a «notificação prévia» como requisito, acrescentei a duplicação da indemnização do art. 1045.º, n.º 2, CC, a indemnização de 20 % do art. 1041.º, n.º 1 (só sem resolução por falta de pagamento), o incidente de despejo imediato (art. 14.º, n.ºs 3 a 5, NRAU), o foro da situação do imóvel (art. 70.º CPC) e as custas de parte em lugar de «honorários de parte».",
+  "substituicoes": [
+   {
+    "de": "- DL n.º 1/2013 (BNA — se transitou do BNA para tribunal)\n- Arts. 546.º e ss. CPC (ação de despejo — forma de processo)\n- Art. 1048.º CC (mora no pagamento da renda)",
+    "para": "- Art. 14.º, n.º 1, NRAU e Arts. 546.º e ss. CPC (a ação de despejo segue a forma de processo comum declarativo); se o caso vier do procedimento especial de despejo no BAS por ter havido oposição, segue a tramitação dos arts. 15.º-H e 15.º-I NRAU, e não esta petição\n- Art. 1048.º CC (resolução judicial por falta de pagamento: o direito caduca se o R., até ao termo do prazo da contestação, pagar, depositar ou consignar as somas devidas e a indemnização de 20 % do art. 1041.º, n.º 1, CC — faculdade utilizável uma única vez por contrato)\n- Art. 14.º, n.ºs 3 a 5, NRAU (rendas que se vençam na pendência da ação: se ficarem por pagar ou depositar por dois ou mais meses, o R. é notificado para pagar em 10 dias e, não o fazendo, o A. pode requerer o despejo imediato)",
+    "motivo": "A forma de processo resulta do art. 14.º, n.º 1, NRAU; o art. 1048.º CC regula a caducidade do direito à resolução judicial pelo pagamento até à contestação; o BNA foi substituído pelo BAS.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=691A0014&nid=691&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Valor da causa: rendas em atraso + indemnização estimada",
+    "para": "- Valor da causa: renda de dois anos e meio, acrescida das rendas em dívida ou da indemnização requerida, consoante o que for superior (art. 298.º, n.º 1, CPC)",
+    "motivo": "Nas ações de despejo o valor segue o critério especial do art. 298.º, n.º 1, CPC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0298&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "**AO TRIBUNAL [JUDICIAL / DE COMARCA] DE [LOCALIDADE]**",
+    "para": "**AO TRIBUNAL JUDICIAL DA COMARCA DE [COMARCA] — JUÍZO [LOCAL CÍVEL / CENTRAL CÍVEL / DE COMPETÊNCIA GENÉRICA] DE [LOCALIDADE]**\n[Tribunal da situação do locado — art. 70.º, n.º 1, CPC] [■ VERIFICAR: juízo competente em razão do valor, nos termos da LOSJ]",
+    "motivo": "A ação de despejo é proposta no tribunal da situação do imóvel (art. 70.º, n.º 1, CPC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0070&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "— [Para falta de rendas]: identificação das rendas em atraso, datas de vencimento, total em dívida; envio de notificação prévia e ausência de pagamento; comunicação de resolução.",
+    "para": "— [Para falta de rendas]: identificação das rendas em atraso, datas de vencimento, total em dívida; mora igual ou superior a três meses (art. 1083.º, n.º 3, CC) ou mais de quatro atrasos superiores a oito dias em 12 meses, precedidos do aviso por carta registada com aviso de receção após o terceiro atraso (art. 1083.º, n.ºs 4 e 6, CC); [se a resolução já tiver sido feita por comunicação: forma e data da comunicação (art. 9.º, n.º 7, NRAU) e falta de pagamento no mês seguinte (art. 1084.º, n.º 3, CC)].",
+    "motivo": "A lei não exige notificação prévia para pagamento; o fundamento é a mora do art. 1083.º, n.º 3, ou os atrasos dos n.ºs 4 e 6.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1083&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "— Resolução do contrato: art. 1083.º, n.º 1 CC + art. 1048.º CC (falta de rendas) / art. 1083.º, n.º 2 CC (outro fundamento)",
+    "para": "— Resolução do contrato: art. 1083.º, n.º 1 CC (princípio) e n.º 3 ou n.ºs 4 e 6 (falta de pagamento da renda), com a caducidade do art. 1048.º CC se o R. pagar até ao termo do prazo da contestação / art. 1083.º, n.º 2 CC (outro fundamento — resolução decretada pelo tribunal, art. 1084.º, n.º 1, CC); caducidade do direito de resolução: um ano, ou três meses nos fundamentos dos n.ºs 3 e 4 (art. 1085.º CC)",
+    "motivo": "A falta de renda é fundamento dos n.ºs 3 e 4 do art. 1083.º CC, e a resolução judicial caduca com o pagamento até à contestação (art. 1048.º CC); o direito de resolução caduca nos prazos do art. 1085.º CC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1084&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "acrescido de juros de mora à taxa legal desde [data];",
+    "para": "acrescido de juros de mora à taxa legal desde [data] [— se o despejo não se fundar na resolução por falta de pagamento: e da indemnização de 20 % do que for devido, art. 1041.º, n.º 1, CC] [■ VERIFICAR: cumulação com os juros de mora];",
+    "motivo": "A indemnização de 20 % do art. 1041.º, n.º 1, CC é devida com a mora, salvo se o contrato for resolvido com base na falta de pagamento.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1041&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "c) Seja o R. condenado a pagar indemnização equivalente à renda contratual por cada mês de ocupação ilícita após [data de cessação], até entrega efetiva (art. 1045.º CC);",
+    "para": "c) Seja o R. condenado a pagar indemnização equivalente à renda contratual por cada mês de ocupação ilícita após [data de cessação], até entrega efetiva (art. 1045.º CC), elevada ao dobro desde a constituição do R. em mora quanto à restituição (art. 1045.º, n.º 2, CC);",
+    "motivo": "O art. 1045.º, n.º 2, CC eleva a indemnização ao dobro logo que o locatário se constitua em mora.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1045&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "d) Sejam as custas e honorários de parte a cargo do R.\"",
+    "para": "d) Seja o R. condenado nas custas, incluindo as custas de parte (art. 533.º CPC).\"",
+    "motivo": "Não há «honorários de parte»: os honorários do mandatário integram as custas de parte (art. 533.º, n.º 2, al. d), CPC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0533&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "\"Dá-se à causa o valor de €[soma dos pedidos].\"",
+    "para": "\"Dá-se à causa o valor de €[renda de dois anos e meio + rendas em dívida ou indemnização requerida, consoante o que for superior] (art. 298.º, n.º 1, do CPC).\"",
+    "motivo": "Critério especial do valor nas ações de despejo.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0298&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Valor da causa = soma dos pedidos\n- [ ] Tribunal de comarca competente (sede do imóvel)",
+    "para": "- [ ] Valor da causa: renda de dois anos e meio + rendas em dívida ou indemnização requerida, consoante a superior (art. 298.º, n.º 1, CPC)\n- [ ] Tribunal da situação do locado (art. 70.º, n.º 1, CPC)",
+    "motivo": "Critério do art. 298.º, n.º 1, CPC e foro da situação do imóvel.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0298&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar o juízo competente (local ou central cível) em função do valor da causa, nos termos da LOSJ.",
+   "Confirmar a cumulação da indemnização de 20 % (art. 1041.º, n.º 1, CC) com juros de mora sobre as mesmas rendas.",
+   "Se a resolução já foi feita por comunicação (art. 1084.º, n.º 2, CC), ponderar o procedimento especial de despejo no BAS em vez da ação."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=691A0014&nid=691&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0298&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0546&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0070&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0533&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1083&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1084&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1041&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1045&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+  ]
+ },
+ {
+  "codigo": "IMO-017",
+  "veredicto": "corrigida",
+  "resumo": "O mapa de débitos somava ao crédito do senhorio uma «indemnização por denúncia para habitação (art. 1102.º CC)»: o art. 1102.º, n.º 1, CC prevê um ano de renda, mas é o senhorio que o paga ao arrendatário, como condição da denúncia, pelo que não integra a dívida do arrendatário. Omitia a indemnização de 20 % do art. 1041.º, n.º 1, CC (não devida se o contrato for resolvido por falta de pagamento) e a duplicação da indemnização por atraso na restituição (art. 1045.º, n.º 2, CC), e atribuía a taxa de juro legal a um aviso do Banco de Portugal (é fixada por portaria — art. 559.º, n.º 1, CC; 4 %). Corrigi também a descrição do art. 1048.º CC.",
+  "descricao": "Realiza o cálculo detalhado do montante total em dívida num contexto de arrendamento: rendas em atraso mês a mês, juros de mora à taxa legal, indemnização de 20 % pela mora (art. 1041.º CC) e indemnização por ocupação após a cessação do contrato (art. 1045.º CC), com apresentação clara de mapa discriminado; o ano de renda da denúncia para habitação (art. 1102.º CC) é devido pelo senhorio e não integra a dívida.",
+  "descricao_en": "Performs a detailed calculation of the total amount owed in a lease context: rent arrears month by month, default interest at the statutory rate, the 20% compensation for late payment (Art. 1041 CC) and compensation for occupation after termination of the contract (Art. 1045 CC), with a clear itemised schedule; the one year of rent due on termination for the landlord's own residence (Art. 1102 CC) is owed by the landlord and is not part of the debt.",
+  "substituicoes": [
+   {
+    "de": "— Calcula juros de mora à taxa legal anual [■ VERIFICAR: taxa vigente — publicada pelo Banco de Portugal].",
+    "para": "— Calcula juros de mora à taxa legal civil, fixada por portaria (art. 559.º, n.º 1, CC) — 4 % ao ano (Portaria n.º 291/2003) [■ VERIFICAR: que se mantém em vigor à data do cálculo; se o credor for empresa comercial, aplicar a taxa dos juros comerciais do semestre — ver references/valores-2026.md].",
+    "motivo": "A taxa de juro legal civil é fixada por portaria (art. 559.º CC), não por aviso do Banco de Portugal.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0559&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": ": equivalente à renda contratual por cada mês de ocupação após cessação.",
+    "para": ": equivalente à renda contratual por cada mês de ocupação após cessação, até à restituição; elevada ao dobro logo que o arrendatário se constitua em mora quanto à restituição (art. 1045.º, n.º 2, CC).",
+    "motivo": "O art. 1045.º, n.º 2, CC eleva a indemnização ao dobro com a mora do locatário.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1045&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "— Indemnização por denúncia para habitação própria (art. 1102.º CC): [■ VERIFICAR: fórmula legal vigente].",
+    "para": "— Indemnização de 20 % do que for devido pela mora no pagamento das rendas (art. 1041.º, n.º 1, CC): não é devida se o contrato for resolvido com base na falta de pagamento, e cessa se o arrendatário fizer cessar a mora no prazo de oito dias (n.º 2) [■ VERIFICAR: cumulação com os juros de mora sobre as mesmas rendas].\n— Denúncia para habitação (art. 1102.º, n.º 1, CC): é o senhorio que paga ao arrendatário o montante equivalente a um ano de renda, como condição da denúncia — não é crédito do senhorio e não entra no total a receber.",
+    "motivo": "O art. 1102.º, n.º 1, CC impõe ao senhorio o pagamento de um ano de renda; a consequência legal da mora do arrendatário é a indemnização de 20 % do art. 1041.º, n.º 1, CC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1102&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=& | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1041&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Há indemnização por denúncia para habitação própria (art. 1102.º CC)?",
+    "para": "- Houve denúncia para habitação (art. 1102.º CC)? Se sim, o ano de renda é devido pelo senhorio ao arrendatário e não entra na dívida deste.\n- A mora durou mais de oito dias e o contrato não foi resolvido com base na falta de pagamento (indemnização de 20 % — art. 1041.º, n.ºs 1 e 2, CC)?",
+    "motivo": "O montante do art. 1102.º CC é devido pelo senhorio; a indemnização de 20 % depende de não haver resolução por falta de pagamento.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1041&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Art. 1048.º CC (mora no pagamento)",
+    "para": "- Art. 1048.º CC (falta de pagamento: caducidade do direito à resolução se o arrendatário pagar as somas devidas e a indemnização do art. 1041.º, n.º 1)",
+    "motivo": "O art. 1048.º CC regula a caducidade do direito à resolução por falta de pagamento, não a mora em si.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1045&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Aviso do Banco de Portugal que fixa a taxa de juro legal [■ VERIFICAR]",
+    "para": "- Art. 559.º, n.º 1, CC e Portaria n.º 291/2003 (taxa de juro legal civil: 4 % ao ano) [■ VERIFICAR: em vigor; juros comerciais se o credor for empresa comercial]\n- Art. 1041.º, n.ºs 1 e 2, CC (indemnização de 20 % pela mora do arrendatário)",
+    "motivo": "A taxa de juro legal é fixada por portaria (art. 559.º CC); falta a indemnização legal de 20 % do art. 1041.º CC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0559&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Art. 1102.º CC (indemnização na denúncia para habitação própria) [■ VERIFICAR fórmula]",
+    "para": "- Art. 1102.º, n.º 1, CC (na denúncia para habitação, o senhorio paga ao arrendatário um ano de renda — crédito do arrendatário, não do senhorio)",
+    "motivo": "O art. 1102.º, n.º 1, CC faz depender a denúncia do pagamento de um ano de renda pelo senhorio.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1102&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "**3. INDEMNIZAÇÃO POR DENÚNCIA PARA HABITAÇÃO PRÓPRIA (art. 1102.º CC)**\n[Se aplicável — VERIFICAR fórmula legal vigente]\n= [Cálculo conforme art. 1102.º] = €[■ VERIFICAR]",
+    "para": "**3. INDEMNIZAÇÃO DE 20 % PELA MORA (art. 1041.º, n.º 1, CC)**\n[Só se o contrato não for resolvido com base na falta de pagamento e a mora não tiver cessado em oito dias — n.ºs 1 e 2]\n= 20 % × €[rendas em atraso] = €[valor] [■ VERIFICAR: cumulação com os juros de mora sobre as mesmas rendas]\n\n[Nota — denúncia para habitação (art. 1102.º, n.º 1, CC): o montante de um ano de renda é devido pelo senhorio ao arrendatário; não se soma a este mapa.]",
+    "motivo": "O ano de renda do art. 1102.º CC não é crédito do senhorio; a verba legal pela mora é a do art. 1041.º, n.º 1, CC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1041&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=& | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1102&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "| Indemnização art. 1102.º | [subtotal ou \"N/A\"] |",
+    "para": "| Indemnização de 20 % (art. 1041.º, n.º 1, CC) | [subtotal ou \"N/A\"] |",
+    "motivo": "O ano de renda do art. 1102.º CC é devido pelo senhorio e não entra no total a receber.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1041&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Indemnização por ocupação calculada (se cessação já ocorreu)",
+    "para": "- [ ] Indemnização por ocupação calculada (se cessação já ocorreu), em dobro desde a mora na restituição (art. 1045.º, n.º 2, CC)\n- [ ] Indemnização de 20 % (art. 1041.º, n.º 1, CC) só se o contrato não for resolvido com base na falta de pagamento",
+    "motivo": "Regras dos arts. 1045.º, n.º 2, e 1041.º, n.º 1, CC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1045&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Indemnização art. 1102.º (denúncia para habitação própria): [sim/não]",
+    "para": "- Contrato resolvido com base na falta de pagamento: [sim/não] (afasta a indemnização de 20 % — art. 1041.º, n.º 1, CC)\n- Credor é empresa comercial: [sim/não] (juros comerciais)",
+    "motivo": "Dados de que dependem a indemnização de 20 % e a taxa de juro aplicável.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1041&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar se a indemnização de 20 % do art. 1041.º, n.º 1, CC é cumulável com juros de mora sobre as mesmas rendas.",
+   "Confirmar que a Portaria n.º 291/2003 (4 %) se mantém em vigor à data do cálculo e, se o senhorio for empresa comercial, a taxa dos juros comerciais do semestre.",
+   "Na denúncia para habitação de contratos anteriores ao NRAU, confirmar a renda a considerar no ano de renda devido pelo senhorio."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0559&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1041&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1045&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1102&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1048&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://e-justice.europa.eu/topics/taking-legal-action/where-and-how/interest-rates/pt_pt"
+  ]
+ },
+ {
+  "codigo": "IMO-019",
+  "veredicto": "corrigida",
+  "resumo": "A fundamentação afirmava que as obras de conservação ordinária são obrigação do arrendatário: o art. 1074.º, n.º 1, CC atribui ao senhorio todas as obras de conservação, ordinárias ou extraordinárias, salvo estipulação em contrário; o arrendatário só faz obras com base no contrato ou com autorização escrita (n.º 2). O art. 1038.º, al. d), CC não proíbe obras (proíbe a utilização imprudente). Acrescentei a norma que dá sentido ao auto: sem documento que descreva o estado do locado à entrega, presume-se que foi entregue em bom estado (art. 1043.º, n.º 2, CC).",
+  "substituicoes": [
+   {
+    "de": "- Art. 1074.º CC (obras de conservação ordinária — obrigação do arrendatário)\n- Art. 1074.º, n.º 1 CC (obras de conservação estruturais — obrigação do senhorio)\n- Art. 1038.º, al. d) CC (não fazer obras sem autorização)\n- Relevância probatória do auto de vistoria em caso de litigância (princípio da prova documental)",
+    "para": "- Art. 1074.º CC (obras): cabem ao senhorio todas as obras de conservação, ordinárias ou extraordinárias, requeridas pelas leis vigentes ou pelo fim do contrato, salvo estipulação em contrário (n.º 1); o arrendatário só pode fazer obras quando o contrato o faculte ou com autorização escrita do senhorio (n.º 2), ressalvadas as reparações urgentes do art. 1036.º (n.º 3); compensação pelas obras licitamente feitas, salvo estipulação em contrário (n.º 5)\n- Art. 1038.º, al. d) CC (não fazer da coisa uma utilização imprudente) e art. 1073.º CC (pequenas deteriorações lícitas, a reparar pelo arrendatário antes da restituição, salvo estipulação em contrário)\n- Art. 1043.º, n.º 2, CC (relevância probatória do auto: não havendo documento em que as partes descrevam o estado do locado à data da entrega, presume-se que foi entregue em bom estado de manutenção)",
+    "motivo": "O art. 1074.º, n.º 1, CC põe todas as obras de conservação a cargo do senhorio e o n.º 2 exige autorização escrita para obras do arrendatário; o art. 1038.º, al. d), proíbe a utilização imprudente; o art. 1043.º, n.º 2, CC é a base da função probatória do auto.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1074&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Verificar se o contrato estipula a repartição das obras de conservação (o art. 1074.º, n.º 1, CC admite estipulação em contrário)."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1074&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1073&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1038&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1043&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+  ]
+ },
+ {
+  "codigo": "IMO-021",
+  "veredicto": "corrigida",
+  "resumo": "O modelo de regulamento contrariava o Código Civil em vários pontos: assembleia ordinária «até 31 de março» (é a primeira quinzena de janeiro, admitindo-se excecionalmente o primeiro trimestre se o regulamento o previr — art. 1431.º, n.ºs 1 e 4), segunda convocação com «qualquer número» (exige-se a presença de um quarto do valor do prédio — art. 1432.º, n.º 6), alteração por 2/3 sem base legal (a regra é a maioria do capital — art. 1432.º, n.º 5), horário de obras «nos termos do RRAE» (é o art. 16.º do Regulamento Geral do Ruído: dias úteis, das 8 às 20 horas) e números de artigos trocados (25 % no n.º 2 e procurador no n.º 3 do art. 1431.º; convocatória no n.º 1 do art. 1432.º). Corrigi ainda o fundo de reserva (pelo menos 10 % — art. 4.º DL 268/94), o título executivo (art. 6.º), a autorização de obras na fachada (2/3 — art. 1422.º, n.º 3), as obras urgentes, o seguro, a administração provisória, os animais (art. 3.º DL 314/2003) e a obrigação de regular a falta do administrador (art. 7.º DL 268/94).",
+  "descricao": "Redige o regulamento do condomínio, obrigatório havendo mais de quatro condóminos se não constar do título constitutivo (art. 1429.º-A CC), definindo as regras de administração, uso das partes comuns, quotas condominiais, obras, assembleias, administrador e resolução de conflitos, em conformidade com os arts. 1418.º e ss. CC e o DL n.º 268/94 (normas regulamentares da propriedade horizontal).",
+  "descricao_en": "Drafts the condominium regulations, mandatory where there are more than four unit owners and the regulations are not part of the deed of constitution (Art. 1429-A CC), setting the rules on administration, use of the common parts, condominium fees, works, meetings, the administrator and dispute resolution, in accordance with Arts. 1418 et seq. CC and Decree-Law No. 268/94 (implementing rules on horizontal property).",
+  "substituicoes": [
+   {
+    "de": "— O regulamento deve ser aprovado em assembleia (maioria qualificada para alteração — art. 1432.º CC).",
+    "para": "— O regulamento é obrigatório havendo mais de quatro condóminos, se não fizer parte do título constitutivo, e a sua feitura compete à assembleia ou, se esta o não fizer, ao administrador (art. 1429.º-A CC); é aprovado e alterado pela maioria dos votos representativos do capital investido (art. 1432.º, n.º 5, CC); se integrar o título constitutivo, a alteração exige o acordo de todos os condóminos (art. 1419.º, n.º 1, CC) [■ VERIFICAR: validade de cláusula que exija maioria qualificada para alterar o regulamento].",
+    "motivo": "O art. 1432.º CC não prevê maioria qualificada para alterar o regulamento: vale a maioria do capital do n.º 5; o regime do regulamento está no art. 1429.º-A CC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1429A&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- DL n.º 268/94 (regime das assembleias de condóminos)",
+    "para": "- DL n.º 268/94 (normas regulamentares da propriedade horizontal: atas — art. 1.º; fundo comum de reserva — art. 4.º; título executivo — art. 6.º; exercício da administração na falta ou impedimento do administrador, a prever no regulamento — art. 7.º)",
+    "motivo": "O DL n.º 268/94 estabelece normas regulamentares da propriedade horizontal, não um regime das assembleias.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=725&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Lei n.º 60/2007 e RJUE (obras nos imóveis em PH)",
+    "para": "- RJUE (DL n.º 555/99, na redação em vigor) e Regulamento Geral do Ruído (DL n.º 9/2007 — horário das obras no interior de edifícios, art. 16.º)",
+    "motivo": "A Lei n.º 60/2007 é apenas uma das alterações ao RJUE; o horário das obras ruidosas consta do Regulamento Geral do Ruído.",
+    "fonte": "https://cm-almodovar.pt/wp-content/uploads/2019/06/dl_9_2007out_2017.pdf"
+   },
+   {
+    "de": "Obras que afetem a estrutura do edifício, as fachadas ou as instalações comuns requerem autorização prévia da assembleia (art. 1422.º, n.º 2 CC). Obras estritamente internas à fração que não afetem elementos comuns podem ser realizadas com simples comunicação ao administrador.",
+    "para": "É vedado aos condóminos prejudicar, com obras novas ou por falta de reparação, a segurança, a linha arquitetónica ou o arranjo estético do edifício (art. 1422.º, n.º 2 CC). As obras que modifiquem a linha arquitetónica ou o arranjo estético do edifício só podem ser realizadas com prévia autorização da assembleia, aprovada por maioria representativa de dois terços do valor total do prédio (art. 1422.º, n.º 3, CC). Obras estritamente internas à fração que não afetem elementos comuns podem ser realizadas com simples comunicação ao administrador, no horário do art. 17.º deste regulamento.",
+    "motivo": "O n.º 2 do art. 1422.º CC proíbe as obras que prejudiquem a segurança ou a estética; a autorização, por 2/3 do valor do prédio, está no n.º 3.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1422&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "Obras nas partes comuns requerem aprovação em assembleia. Obras urgentes podem ser realizadas pelo administrador, com comunicação imediata aos condóminos.",
+    "para": "Obras nas partes comuns requerem aprovação em assembleia; as que constituam inovações dependem da aprovação da maioria dos condóminos que represente dois terços do valor total do prédio, salvo os casos especiais do art. 1425.º, n.ºs 2 a 4, CC. Nas situações de urgência, o administrador intervém e convoca de imediato assembleia extraordinária para ratificação da sua atuação (art. 1436.º, n.º 1, al. r), CC); na falta ou impedimento do administrador, qualquer condómino pode realizar as reparações indispensáveis e urgentes nas partes comuns (art. 1427.º CC).",
+    "motivo": "Regime das inovações (art. 1425.º CC), da intervenção urgente do administrador (art. 1436.º, n.º 1, al. r)) e das reparações urgentes (art. 1427.º CC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1425&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=& | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1436&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "É constituído fundo de reserva para obras de conservação, no valor mínimo de [X]% do orçamento anual (art. 4.º DL 268/94).",
+    "para": "É constituído fundo comum de reserva para custear as despesas de conservação do edifício, para o qual cada condómino contribui com, pelo menos, 10 % da sua quota-parte nas restantes despesas do condomínio [percentagem fixada: X %]; o fundo é depositado em instituição bancária e administrado pela assembleia (art. 4.º DL 268/94).",
+    "motivo": "O art. 4.º do DL n.º 268/94 fixa o mínimo em 10 % da quota-parte de cada condómino nas restantes despesas, não uma percentagem livre do orçamento.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=725&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "O condómino em mora no pagamento das quotas fica sujeito a juros de mora à taxa legal e pode ser executado para cobrança (Skill 24 — Petição de Cobrança de Quotas).",
+    "para": "O condómino em mora no pagamento das quotas fica sujeito a juros de mora à taxa legal e às sanções pecuniárias aprovadas em assembleia ou previstas neste regulamento [definir; o montante das penas em cada ano não pode exceder a quarta parte do rendimento coletável anual da fração — art. 1434.º, n.º 2, CC]. A ata da assembleia que deliberou o montante das contribuições, com o montante anual de cada condómino e as datas de vencimento, constitui título executivo, abrangendo os juros e as sanções, e o administrador deve instaurar a ação de cobrança nos termos e prazos do art. 6.º do DL n.º 268/94.",
+    "motivo": "A cobrança assenta na ata como título executivo (art. 6.º DL 268/94); «Skill 24» é uma remissão interna sem valor no documento.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=725&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "A assembleia reúne ordinariamente uma vez por ano (até 31 de março do ano seguinte — art. 1431.º CC). Reúne extraordinariamente por iniciativa do administrador ou de condóminos que representem 25% do capital (art. 1431.º, n.º 3 CC).",
+    "para": "A assembleia reúne ordinariamente na primeira quinzena de janeiro, para discussão e aprovação das contas do último ano e do orçamento do ano (art. 1431.º, n.º 1, CC) [opção: \"podendo, excecionalmente, reunir no primeiro trimestre de cada ano\" — possibilidade que o regulamento pode contemplar, art. 1431.º, n.º 4, CC]. Reúne extraordinariamente quando convocada pelo administrador ou por condóminos que representem, pelo menos, 25 % do capital investido (art. 1431.º, n.º 2, CC).",
+    "motivo": "O art. 1431.º, n.º 1, CC fixa a primeira quinzena de janeiro (o primeiro trimestre só excecionalmente, n.º 4); os 25 % estão no n.º 2.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1431&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "Enviada por carta registada ou outro meio com prova de receção, com antecedência mínima de 10 dias (art. 1432.º, n.º 2 CC).",
+    "para": "Enviada por carta registada com 10 dias de antecedência, ou por aviso convocatório feito com a mesma antecedência com recibo de receção assinado pelos condóminos (art. 1432.º, n.º 1, CC); por correio eletrónico aos condóminos que o tenham aceitado em assembleia anterior, com recibo de receção pelo mesmo meio (art. 1432.º, n.ºs 2 e 3, CC). A convocatória indica o dia, a hora, o local e a ordem de trabalhos e informa sobre os assuntos cujas deliberações só podem ser aprovadas por unanimidade (art. 1432.º, n.º 4, CC).",
+    "motivo": "A forma e a antecedência da convocatória estão no n.º 1 do art. 1432.º CC; o correio eletrónico depende de aceitação prévia (n.ºs 2 e 3) e o conteúdo obrigatório consta do n.º 4.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1431&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "Em primeira convocação: maioria dos condóminos que represente mais de 50% do capital. Em segunda convocação: qualquer número. Deliberações por maioria dos presentes, salvo casos de maioria qualificada exigida por lei.",
+    "para": "As deliberações são tomadas, salvo disposição especial, por maioria dos votos representativos do capital investido (art. 1432.º, n.º 5, CC). Não comparecendo condóminos suficientes para se obter vencimento e não tendo a convocatória fixado outra data, considera-se convocada nova reunião para uma semana depois, à mesma hora e no mesmo local, podendo então a assembleia deliberar por maioria de votos dos condóminos presentes, desde que estes representem, pelo menos, um quarto do valor total do prédio (art. 1432.º, n.º 6, CC); a segunda reunião só pode ser marcada para trinta minutos depois, no mesmo local, se estiverem reunidas as condições para garantir a presença, nesse dia, de condóminos que representem um quarto do valor total do prédio (art. 1432.º, n.º 7, CC). Ficam ressalvadas as maiorias qualificadas e a unanimidade exigidas por lei.",
+    "motivo": "Em segunda convocação exige-se que os presentes representem pelo menos um quarto do valor total do prédio (art. 1432.º, n.º 6, CC); a regra de deliberação é a maioria do capital (n.º 5).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1431&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "O administrador é eleito em assembleia para mandato de [1 / 2] ano(s), renovável. [Ou: \"é administrador pro tempore o condómino com maior permilagem até eleição\"].",
+    "para": "O administrador é eleito e exonerado pela assembleia, pode ser condómino ou terceiro e exerce funções por [um ano — regime supletivo / outro período], renovável, mantendo-se em funções até à eleição ou nomeação do sucessor (art. 1435.º CC). Na falta de eleição e de nomeação judicial, as funções cabem, a título provisório, ao condómino cuja fração ou frações representem a maior percentagem do capital investido, salvo se outro condómino tiver manifestado e comunicado vontade de exercer o cargo (art. 1435.º-A CC). [Regular aqui o exercício das funções de administração na falta ou impedimento do administrador — conteúdo obrigatório do regulamento, art. 7.º do DL n.º 268/94.]",
+    "motivo": "Regime do administrador e do administrador provisório (arts. 1435.º e 1435.º-A CC); o regulamento deve prever a falta ou impedimento do administrador (art. 7.º DL 268/94).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1435&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "Convocar assembleias, executar as deliberações, gerir os fundos, representar o condomínio, contratar seguros do edifício (art. 1436.º CC).",
+    "para": "Convocar a assembleia, elaborar o orçamento, cobrar as receitas e efetuar as despesas comuns, executar as deliberações, verificar a existência do fundo comum de reserva e do seguro contra o risco de incêndio, propondo à assembleia o montante do capital seguro, representar o condomínio, prestar contas e as demais funções do art. 1436.º CC. O seguro é celebrado pelos condóminos; o administrador deve efetuá-lo quando o não façam no prazo e pelo valor fixados em assembleia, com direito a reaver o prémio (art. 1429.º, n.º 2, CC).",
+    "motivo": "Compete ao administrador verificar a existência do seguro (art. 1436.º, n.º 1, al. c), CC); só o celebra se os condóminos o não fizerem (art. 1429.º, n.º 2, CC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1436&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=& | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1429&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "É permitida a detenção de animais de estimação nas frações autónomas [desde que não perturbem o sossego / sujeita a condições — definir].",
+    "para": "É permitida a detenção de animais de estimação nas frações autónomas [desde que não perturbem o sossego / sujeita a condições — definir], dentro dos limites legais de alojamento de cães e gatos por fogo, podendo este regulamento fixar um limite inferior (art. 3.º, n.ºs 2 e 3, do DL n.º 314/2003) [■ VERIFICAR: validade de uma proibição total de animais nas frações por via do regulamento — questão controvertida].",
+    "motivo": "O DL n.º 314/2003 limita o número de cães e gatos por fogo e permite ao regulamento do condomínio fixar limite inferior; a proibição total não tem base legal clara.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=339A0003&nid=339&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "É proibida a realização de obras ruidosas entre as [22h] e as [8h], sábados depois das [13h] e domingos, nos termos do RRAE [■ VERIFICAR: Regulamento dos Requisitos Acústicos dos Edifícios].",
+    "para": "As obras de recuperação, remodelação ou conservação no interior das frações que constituam fonte de ruído só podem ser realizadas em dias úteis, entre as 8 e as 20 horas, devendo o responsável afixar em local acessível aos utilizadores do edifício a duração prevista das obras e, quando possível, o período de maior ruído (art. 16.º do Regulamento Geral do Ruído, aprovado pelo DL n.º 9/2007); ressalvam-se os trabalhos urgentes para evitar ou reduzir o perigo de danos para pessoas ou bens (art. 17.º do mesmo Regulamento) [■ VERIFICAR: redação em vigor do Regulamento Geral do Ruído].",
+    "motivo": "O horário das obras no interior de edifícios consta do art. 16.º do Regulamento Geral do Ruído (dias úteis, 8h-20h); o RRAE trata dos requisitos acústicos dos edifícios.",
+    "fonte": "https://cm-almodovar.pt/wp-content/uploads/2019/06/dl_9_2007out_2017.pdf"
+   },
+   {
+    "de": "O regulamento pode ser alterado por maioria qualificada (2/3 do valor total do prédio), em assembleia convocada para o efeito.",
+    "para": "O regulamento pode ser alterado por deliberação da assembleia, tomada por maioria dos votos representativos do capital investido (art. 1432.º, n.º 5, CC) [■ VERIFICAR: admissibilidade de exigir maioria qualificada; se o regulamento constar do título constitutivo, a alteração exige o acordo de todos os condóminos — art. 1419.º, n.º 1, CC].",
+    "motivo": "A lei não prevê maioria de 2/3 para alterar o regulamento; vale a maioria do art. 1432.º, n.º 5, CC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1431&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Administrador: eleição, funções",
+    "para": "- [ ] Administrador: eleição, funções e exercício da administração na sua falta ou impedimento (art. 7.º DL 268/94)",
+    "motivo": "Conteúdo obrigatório do regulamento (art. 7.º DL 268/94).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=725&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Animais: [permitidos / proibidos / com condições]\n- Horário de obras ruidosas: [define]",
+    "para": "- Animais: [permitidos / com condições / limite inferior ao legal — art. 3.º, n.º 3, do DL n.º 314/2003] [■ VERIFICAR: validade de uma proibição total]\n- Horário de obras ruidosas: [no máximo, dias úteis das 8h às 20h — art. 16.º do Regulamento Geral do Ruído]",
+    "motivo": "Limites do DL n.º 314/2003 e do Regulamento Geral do Ruído.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=339A0003&nid=339&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=& | https://cm-almodovar.pt/wp-content/uploads/2019/06/dl_9_2007out_2017.pdf"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar se o regulamento pode exigir maioria qualificada para a sua própria alteração e se integra ou não o título constitutivo.",
+   "Confirmar a validade de uma proibição total de animais por via do regulamento (o DL n.º 314/2003 só prevê um limite inferior).",
+   "Confirmar a redação em vigor do Regulamento Geral do Ruído (art. 16.º) e eventuais regulamentos municipais."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1429A&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1431&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1419&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1422&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1425&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1427&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1429&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1435&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1436&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1434&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=725&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=339A0003&nid=339&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://cm-almodovar.pt/wp-content/uploads/2019/06/dl_9_2007out_2017.pdf",
+   "https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2007-522807",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3507&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+  ]
+ },
+ {
+  "codigo": "IMO-023",
+  "veredicto": "corrigida",
+  "resumo": "A convocatória-modelo dava a assembleia ordinária «até 31/03» (é a primeira quinzena de janeiro, com o primeiro trimestre só excecionalmente — art. 1431.º, n.ºs 1 e 4, CC), dizia que a segunda convocação não tem quórum mínimo e propunha-a sempre 30 minutos depois: a lei exige que os presentes representem um quarto do valor do prédio, a regra é uma semana depois e os 30 minutos só valem com essa presença garantida (art. 1432.º, n.ºs 6 e 7). Corrigi os números (antecedência no n.º 1 do art. 1432.º; procurador no art. 1431.º, n.º 3), a exigência de aviso de receção (basta carta registada; e-mail só com aceitação prévia — n.ºs 1 a 3), o ponto «Outros assuntos» e acrescentei a menção obrigatória dos assuntos que exigem unanimidade (n.º 4).",
+  "substituicoes": [
+   {
+    "de": "— Antecedência mínima de 10 dias (art. 1432.º, n.º 2 CC).\n— Indica sempre data e hora de 1.ª e 2.ª convocação (2.ª: 30 minutos depois ou hora diferente).\n— Lista a ordem de trabalhos de forma clara e completa.\n— Inclui ponto \"Outros assuntos\" apenas se não afetar as matérias que exigem quórum especial.\n— Envia por carta registada com AR a todos os condóminos.",
+    "para": "— Antecedência mínima de 10 dias (art. 1432.º, n.º 1, CC).\n— Indica a data e a hora da 1.ª reunião e, se a quiseres fixar, da 2.ª: na falta de outra data na convocatória, a 2.ª reunião considera-se convocada para uma semana depois, à mesma hora e no mesmo local (art. 1432.º, n.º 6, CC); só pode ser marcada para trinta minutos depois, no mesmo local, se estiverem reunidas as condições para garantir a presença, nesse dia, de condóminos que representem um quarto do valor total do prédio (art. 1432.º, n.º 7, CC).\n— Lista a ordem de trabalhos de forma clara e completa e informa sobre os assuntos cujas deliberações só podem ser aprovadas por unanimidade (art. 1432.º, n.º 4, CC).\n— \"Outros assuntos\" serve apenas para informação: deliberar sobre matéria que não conste da ordem de trabalhos expõe a deliberação a anulação (arts. 1432.º, n.º 4, e 1433.º, n.º 1, CC).\n— Envia por carta registada (a lei não exige aviso de receção) ou por aviso convocatório com recibo de receção assinado pelos condóminos; por correio eletrónico só aos condóminos que o tenham aceitado em assembleia anterior, com recibo de receção pelo mesmo meio (art. 1432.º, n.ºs 1 a 3, CC).",
+    "motivo": "A antecedência e a forma estão no art. 1432.º, n.ºs 1 a 3, CC; a segunda reunião segue os n.ºs 6 e 7; a convocatória deve indicar os assuntos que exigem unanimidade (n.º 4).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1431&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Art. 1431.º CC (periodicidade — ordinária anual até 31/03)",
+    "para": "- Art. 1431.º, n.ºs 1 e 4, CC (periodicidade — a ordinária reúne na primeira quinzena de janeiro; excecionalmente, no primeiro trimestre, se o regulamento o previr ou a assembleia o deliberar por maioria); n.º 3 (representação por procurador)",
+    "motivo": "O art. 1431.º, n.º 1, CC fixa a primeira quinzena de janeiro; o primeiro trimestre é excecional (n.º 4).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1431&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Art. 1432.º, n.º 3 CC (segunda convocação — sem quórum mínimo)",
+    "para": "- Art. 1432.º, n.ºs 6 e 7, CC (segunda reunião — uma semana depois, à mesma hora e local, se a convocatória não fixar outra data; delibera por maioria dos votos dos presentes, desde que representem, pelo menos, um quarto do valor total do prédio; trinta minutos depois só se essa presença estiver garantida)",
+    "motivo": "A segunda convocação exige a presença de um quarto do valor total do prédio (art. 1432.º, n.º 6, CC); o n.º 3 respeita ao recibo do e-mail.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1431&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- DL n.º 268/94 (regime da assembleia)",
+    "para": "- DL n.º 268/94 (atas — art. 1.º; assembleia por meios de comunicação à distância — art. 1.º-A)",
+    "motivo": "O DL n.º 268/94 contém normas regulamentares da propriedade horizontal; no que toca à assembleia, as atas e as reuniões à distância.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=725&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "Caso não se verifique quórum na 1.ª convocação, a assembleia reunirá em segunda convocação:\nData: [mesma data / dd/mm/aaaa] | Hora: [hh:mm — mínimo 30 min depois]",
+    "para": "Caso não compareçam na 1.ª reunião condóminos em número suficiente para se obter vencimento, a assembleia reunirá em segunda convocação, podendo deliberar por maioria dos votos dos condóminos presentes, desde que representem, pelo menos, um quarto do valor total do prédio (art. 1432.º, n.º 6, do Código Civil):\nData: [dd/mm/aaaa — na falta de indicação, uma semana depois, à mesma hora e no mesmo local / a mesma data, só se estiver garantida a presença de condóminos que representem um quarto do valor total do prédio (art. 1432.º, n.º 7)] | Hora: [hh:mm — nesse caso, trinta minutos depois]",
+    "motivo": "Regime da segunda reunião do art. 1432.º, n.ºs 6 e 7, CC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1431&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "[X]. Outros assuntos de interesse geral",
+    "para": "[X]. Informações (sem deliberação)\n\n[Indicar os pontos cujas deliberações só podem ser aprovadas por unanimidade, se os houver — art. 1432.º, n.º 4, do Código Civil.]",
+    "motivo": "Só se delibera sobre a ordem de trabalhos; a convocatória deve informar dos assuntos que exigem unanimidade.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1431&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "Para efeitos de representação, os condóminos impossibilitados de comparecer poderão fazer-se representar por procurador com poderes especiais, nos termos do art. 1432.º, n.º 7 do Código Civil.",
+    "para": "Para efeitos de representação, os condóminos impossibilitados de comparecer poderão fazer-se representar por procurador, nos termos do art. 1431.º, n.º 3, do Código Civil.",
+    "motivo": "A representação por procurador está no art. 1431.º, n.º 3, CC, que não exige poderes especiais; o n.º 7 do art. 1432.º trata da segunda reunião.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1431&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] 1.ª e 2.ª convocação com datas, horas e local",
+    "para": "- [ ] 1.ª e 2.ª reunião com datas, horas e local: 2.ª uma semana depois, salvo outra data fixada; trinta minutos depois só com a presença garantida de um quarto do valor do prédio (art. 1432.º, n.ºs 6 e 7, CC)\n- [ ] Assuntos que exigem unanimidade identificados (art. 1432.º, n.º 4, CC)",
+    "motivo": "Requisitos do art. 1432.º, n.ºs 4, 6 e 7, CC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1431&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Envio por carta registada com AR a todos os condóminos",
+    "para": "- [ ] Envio por carta registada, por aviso convocatório com recibo assinado ou por correio eletrónico aos condóminos que o aceitaram (art. 1432.º, n.ºs 1 a 3, CC)",
+    "motivo": "A lei exige carta registada, sem aviso de receção, e admite as outras formas do art. 1432.º, n.ºs 1 a 3.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1431&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Data 2.ª convocação: [mesma / dd/mm/aaaa] | Hora: [hh:mm]",
+    "para": "- Data 2.ª convocação: [uma semana depois (regra) / outra data / mesma data, 30 min depois — só com presença garantida de um quarto do valor do prédio] | Hora: [hh:mm]",
+    "motivo": "Regime do art. 1432.º, n.ºs 6 e 7, CC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1431&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Se a assembleia ordinária for marcada para o primeiro trimestre, confirmar que o regulamento o prevê ou que houve deliberação nesse sentido (art. 1431.º, n.º 4, CC).",
+   "Confirmar se algum condómino aceitou em ata a convocação por correio eletrónico (art. 1432.º, n.º 2, CC)."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1431&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1432&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1433&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=725&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+  ]
+ },
+ {
+  "codigo": "IMO-026",
+  "veredicto": "corrigida",
+  "resumo": "A ficha dizia que o registo de aquisição não tem prazo obrigatório: desde o DL n.º 116/2008 é obrigatório e deve ser pedido em dois meses a contar da titulação (arts. 8.º-A e 8.º-C CRPredial), com pagamento acrescido se tardio (art. 8.º-D) e com a obrigação a cargo de quem titulou o ato (art. 8.º-B). Os artigos estavam trocados (o art. 4.º é a eficácia entre as partes, a prioridade é o art. 6.º; o art. 8.º não trata da competência, que foi abolida — art. 19.º revogado; os arts. 79.º e ss. são as descrições, não os documentos), o portal «predial.inci.pt» e o «IRNS» não existem, e a hipoteca, o seu cancelamento e a promessa com eficácia real estão excetuados da obrigatoriedade (art. 8.º-A, n.º 1, al. a), iv) e v)), embora a hipoteca só produza efeitos depois de registada (art. 687.º CC).",
+  "descricao": "Prepara o requerimento de inscrição ou de averbamento no registo predial para os factos mais comuns: aquisição por compra e venda, constituição de propriedade horizontal e transmissão por herança (registo obrigatório, no prazo de dois meses), e hipoteca, cancelamento de hipoteca e promessa com eficácia real (excetuados da obrigatoriedade, mas cujo registo condiciona a eficácia), em conformidade com o Código do Registo Predial (CRPredial).",
+  "descricao_en": "Prepares the application for entry or annotation in the land register for the most common facts: acquisition by purchase, constitution of horizontal property and transfer by inheritance (mandatory registration, within two months), and mortgage, cancellation of a mortgage and promise with real effect (exempt from mandatory registration, but whose effectiveness depends on registration), in accordance with the Land Registry Code (CRPredial).",
+  "substituicoes": [
+   {
+    "de": "— Indica a conservatória competente (onde o imóvel está descrito).\n— Indica o prazo legal de registo (ex.: aquisição — sem prazo obrigatório mas urgente para oponibilidade; hipoteca — antes do desembolso; PH — obrigatório antes da alienação de frações).",
+    "para": "— Indica o serviço de registo a que se dirige o pedido: as regras de competência territorial foram revogadas (art. 19.º CRPredial) e o pedido pode ser feito pessoalmente, por via eletrónica ou por correio (art. 41.º-B CRPredial) [■ VERIFICAR: serviço online do IRN em uso]; identifica sempre a descrição predial do imóvel.\n— Indica o prazo legal de registo: os factos do art. 2.º CRPredial estão sujeitos a registo obrigatório (art. 8.º-A CRPredial), a pedir no prazo de dois meses a contar da data em que foram titulados (art. 8.º-C, n.º 1, CRPredial), sob pena de pagamento acrescido de quantia igual ao emolumento (art. 8.º-D CRPredial); quando o facto é titulado por escritura, documento particular autenticado ou reconhecimento de assinaturas, a obrigação de promover o registo recai sobre quem titulou o ato (art. 8.º-B, n.º 1, CRPredial). Excetuam-se da obrigatoriedade, entre outros, a constituição de hipoteca, o seu cancelamento com base em documento com o consentimento do credor e a promessa com eficácia real (art. 8.º-A, n.º 1, al. a), iv) e v), CRPredial) — mas a hipoteca só produz efeitos, mesmo entre as partes, depois de registada (art. 687.º CC; art. 4.º, n.º 2, CRPredial), pelo que deve ser registada antes do desembolso; a alienação de frações exige que estejam definitivamente inscritas a favor do alienante (art. 9.º, n.º 1, CRPredial), o que pressupõe o registo da propriedade horizontal.",
+    "motivo": "Desde o DL n.º 116/2008 o registo é obrigatório e tem prazo de dois meses (arts. 8.º-A a 8.º-D CRPredial); a competência territorial foi abolida; a hipoteca está excetuada da obrigatoriedade mas depende do registo para produzir efeitos.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=488A0008A&nid=488&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- CRPredial — arts. 2.º, 3.º (factos sujeitos a registo), art. 8.º (conservatória competente)\n- Art. 4.º CRPredial (prioridade do registo — data e hora)\n- Arts. 79.º e ss. CRPredial (documentos necessários para cada tipo de registo)\n- Tabela de emolumentos IRNS [■ VERIFICAR: valores em vigor]\n- Portais: predial.inci.pt (online), Casa Pronta (registos simultâneos com a escritura)",
+    "para": "- CRPredial — arts. 2.º, 3.º (factos sujeitos a registo); arts. 8.º-A a 8.º-D (obrigatoriedade, sujeitos, prazos e cumprimento tardio do registo); art. 9.º (legitimação de direitos)\n- Arts. 4.º a 6.º CRPredial (eficácia entre as partes, oponibilidade a terceiros e prioridade do registo — esta pela ordem das datas dos registos e, dentro da mesma data, pela ordem das apresentações, art. 6.º, n.º 1)\n- Arts. 36.º e 41.º a 43.º CRPredial (legitimidade, princípio da instância, modalidades e elementos do pedido; só se registam factos constantes de documentos que legalmente os comprovem, art. 43.º, n.º 1); os arts. 79.º e ss. tratam das descrições\n- Regulamento Emolumentar dos Registos e do Notariado (DL n.º 322-A/2001) [■ VERIFICAR: valores em vigor]\n- Pedido presencial, por via eletrónica ou por correio (art. 41.º-B CRPredial) [■ VERIFICAR: endereço atual do serviço online de registo predial do IRN]; Casa Pronta (registos simultâneos com o título)",
+    "motivo": "A prioridade é o art. 6.º (o art. 4.º é a eficácia entre as partes); o art. 8.º não trata de competência; os documentos e o pedido estão nos arts. 41.º a 43.º; «predial.inci.pt» e «IRNS» não existem.",
+    "fonte": "https://pgdlisboa.pt/leis/lei_print_articulado.php?nid=488&tabela=leis"
+   },
+   {
+    "de": "[■ VERIFICAR: tabela de emolumentos IRNS em vigor — predial.inci.pt]",
+    "para": "[■ VERIFICAR: emolumentos do Regulamento Emolumentar dos Registos e do Notariado (DL n.º 322-A/2001) em vigor; se o pedido for feito fora de prazo, acresce quantia igual ao emolumento — art. 8.º-D, n.º 1, CRPredial]",
+    "motivo": "Os emolumentos constam do RERN; o pedido tardio implica pagamento acrescido (art. 8.º-D CRPredial).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=488A0008D&nid=488&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Conservatória competente identificada",
+    "para": "- [ ] Serviço de registo e modalidade do pedido identificados (art. 41.º-B CRPredial)\n- [ ] Prazo de dois meses desde a titulação verificado (art. 8.º-C, n.º 1, CRPredial) e entidade obrigada a promover o registo identificada (art. 8.º-B CRPredial)",
+    "motivo": "Não há competência territorial; o registo tem prazo e sujeito obrigado.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=488A0008A&nid=488&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar o serviço online de registo predial do IRN em uso e os emolumentos do RERN em vigor (alterado em 2026).",
+   "Se o ato foi titulado por escritura ou documento particular autenticado, confirmar se o titulador já promoveu o registo (art. 8.º-B, n.º 1, CRPredial) antes de o requerer.",
+   "Na transmissão por herança, verificar se o registo é de aquisição em comum e sem determinação de parte (excetuado da obrigatoriedade — art. 8.º-A, n.º 1, al. a), ii), CRPredial)."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=488A0008A&nid=488&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=488A0008D&nid=488&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=488A0004&nid=488&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://pgdlisboa.pt/leis/lei_print_articulado.php?nid=488&tabela=leis",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0687&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2001-34475775"
+  ]
+ }
+]

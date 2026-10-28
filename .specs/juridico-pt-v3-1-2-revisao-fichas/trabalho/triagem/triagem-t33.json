@@ -1,0 +1,90 @@
+[
+  {"codigo": "FIS-002", "triagem": "ok"},
+  {"codigo": "FIS-003", "triagem": "ok"},
+  {"codigo": "FIS-004", "triagem": "rever", "gravidade": "baixa", "motivos": [
+    "Inclui os atos de fixação de valores patrimoniais entre os atos contestáveis por ação administrativa (art. 97.º CPPT); a via própria para o VPT é o pedido de 2.ª avaliação (art. 76.º CIMI) e a impugnação judicial do ato de fixação (art. 134.º CPPT) - a confirmar."
+  ]},
+  {"codigo": "FIS-005", "triagem": "rever", "gravidade": "media", "motivos": [
+    "Atribui a revisão por injustiça grave ou notória a «autorização do Ministro das Finanças» (e remete para o Diretor-Geral «se a injustiça grave requer autorização ministerial»); no art. 78.º da LGT é o dirigente máximo do serviço (Diretor-Geral da AT) que a determina, a título excecional, nos 3 anos posteriores ao ato (n.º 4, não n.º 3) - a confirmar.",
+    "Descreve o prazo de 4 anos só como regra de erro imputável aos serviços, sem dizer que o pedido do contribuinte pode ser feito no prazo da reclamação (qualquer ilegalidade) ou, com erro dos serviços, nos 4 anos (e a todo o tempo se o tributo ainda não foi pago); a distinção das modalidades fica incompleta/errada."
+  ]},
+  {"codigo": "FIS-007", "triagem": "rever", "gravidade": "baixa", "motivos": [
+    "Propõe, na resposta ao projeto de relatório, o pedido de perito independente/revisão da matéria tributável (art. 91.º LGT); esse pedido só cabe depois da fixação por métodos indiretos, no prazo de 30 dias após a notificação, e é condição da impugnação (art. 86.º, n.º 5 LGT) - a ficha não articula esta fase.",
+    "Não refere o prazo da audição prévia sobre o projeto de relatório (15 a 25 dias, 30 se envolver a cláusula antiabuso - art. 60.º LGT e art. 60.º RCPITA) - a confirmar."
+  ]},
+  {"codigo": "FIS-008", "triagem": "rever", "gravidade": "media", "motivos": [
+    "A lista «taxativa» dos fundamentos do art. 204.º, n.º 1 CPPT não corresponde ao texto legal: inventa «caducidade da dívida» e «qualquer causa de extinção ou inexigibilidade da dívida», omite a falsidade do título executivo e troca a ordem/alíneas (a caducidade releva só como falta de notificação da liquidação no prazo de caducidade) - a confirmar."
+  ]},
+  {"codigo": "FIS-009", "triagem": "rever", "gravidade": "baixa", "motivos": [
+    "Admite como reclamante o «terceiro cujos bens foram penhorados» e pergunta se o bem «é de terceiro»; o terceiro titular de direito incompatível com a penhora defende-se por embargos de terceiro (art. 237.º CPPT), não pela reclamação do art. 276.º - a confirmar.",
+    "Não diz que a reclamação se apresenta no próprio órgão de execução fiscal (art. 277.º CPPT), que a remete ao tribunal."
+  ]},
+  {"codigo": "FIS-011", "triagem": "rever", "gravidade": "baixa", "motivos": [
+    "Admite a dação em pagamento também em fase voluntária e dirige o pedido ao Secretário de Estado via Direção de Serviços; o art. 201.º CPPT regula-a como incidente da execução fiscal (requerimento ao órgão de execução fiscal, com autorização superior) - a confirmar o circuito e a entidade competente."
+  ]},
+  {"codigo": "FIS-012", "triagem": "rever", "gravidade": "media", "motivos": [
+    "Composição do tribunal errada: árbitro singular «até 10.000 €» e coletivo acima; pelo art. 5.º RJAT o limite é 2x a alçada do TCA (60.000 €) e o coletivo depende de o valor o exceder ou de o requerente designar árbitro (valores-2026.md: singular até 60.000 €).",
+    "Diz que não são arbitráveis os atos de fixação de valores patrimoniais; o art. 2.º, n.º 1, al. b) RJAT inclui expressamente os atos de fixação de valores patrimoniais (as exclusões da Portaria 112-A/2011 são outras: métodos indiretos, autoliquidações sem reclamação prévia, direitos aduaneiros) - a confirmar.",
+    "Refere a Portaria 112-A/2011 como «extensão da arbitrabilidade»; é a portaria de vinculação da AT (com limite de valor), que restringe, não alarga."
+  ]},
+  {"codigo": "FIS-013", "triagem": "rever", "gravidade": "media", "motivos": [
+    "Assenta num pressuposto inexistente no RJAT: que a «petição arbitral» é peça autónoma, posterior à constituição do tribunal e distinta do pedido inicial. O pedido de pronúncia arbitral (art. 10.º RJAT) já contém a causa de pedir, o pedido e a prova; a fase seguinte é a resposta da AT (art. 17.º) - não há segunda petição. A articulação FIS-012/FIS-013 fica duplicada e errada."
+  ]},
+  {"codigo": "FIS-014", "triagem": "rever", "gravidade": "media", "motivos": [
+    "Dedução específica da cat. A desatualizada: «mínimo de 4.104 € ou 72%»; o art. 25.º CIRS indexa-a ao IAS (8,54 x IAS = 4.587,09 € em 2026, valores-2026.md) e a regra dos 72% já não existe.",
+    "Taxa autónoma das rendas (cat. F) dada como 28%; a confirmar se é hoje 25% (OE 2023 e regimes de contratos de longa duração).",
+    "Refere a «sobretaxa» (art. 87.º CIRS), extinta, e omite a taxa adicional de solidariedade (art. 68.º-A CIRS); atribui pagamentos por conta à cat. H (só existem na cat. B)."
+  ]},
+  {"codigo": "FIS-015", "triagem": "rever", "gravidade": "media", "motivos": [
+    "Apresenta a redução de 50% como aplicável só a imóveis «adquiridos antes de 2015»; para residentes, o saldo das mais-valias imobiliárias é considerado em 50% do seu valor (art. 43.º, n.º 2 CIRS) qualquer que seja a data de aquisição (references/fiscal-pessoal.md) - a ficha pode levar a omitir a redução e a sobrestimar o imposto.",
+    "Fala em «VPT atual» como valor de realização (art. 44.º, n.º 2 CIRS); releva o VPT definitivo que serviu de base à liquidação do IMT - a confirmar."
+  ]},
+  {"codigo": "FIS-016", "triagem": "rever", "gravidade": "media", "motivos": [
+    "Taxas de IRC desatualizadas: 21% (geral) e 17% nos primeiros 25.000 € (PME); em 2026 são 19% e 15% nos primeiros 50.000 € (Lei 64/2025; valores-2026.md).",
+    "Mantém o pagamento especial por conta (PEC) como passo do cálculo; foi extinto (art. 106.º CIRC revogado) - a confirmar."
+  ]},
+  {"codigo": "FIS-017", "triagem": "ok"},
+  {"codigo": "FIS-018", "triagem": "rever", "gravidade": "baixa", "motivos": [
+    "O passo 4 fala em deduzir o AIMI «à coleta de IRS/IRC como custo» (art. 135.º-I CIMI): o AIMI não é dedução à coleta de IRS e a sua dedutibilidade como gasto/despesa tem de ser confirmada; o ponto é confuso e sem base.",
+    "Sugere como «otimização» uma «dedução de crédito hipotecário», que não existe no cálculo do AIMI - a confirmar."
+  ]},
+  {"codigo": "FIS-019", "triagem": "rever", "gravidade": "media", "motivos": [
+    "Diz que a taxa dos juros indemnizatórios é a dos juros de mora do DL 73/99; o art. 43.º, n.º 4 LGT iguala-a à dos juros compensatórios, isto é, à taxa dos juros legais civis (art. 35.º, n.º 10 LGT) (references/contencioso-tributario.md). Aplicar a taxa de mora (7,221% em 2026) sobreavalia o crédito do contribuinte.",
+    "Apresenta os juros de mora tributários como devidos «sobre dívidas em execução fiscal»; correm desde o termo do prazo de pagamento voluntário (art. 44.º LGT), haja ou não execução."
+  ]},
+  {"codigo": "FIS-021", "triagem": "rever", "gravidade": "media", "motivos": [
+    "Encadeia uma «reclamação» da avaliação (30 dias, art. 76.º, n.º 1 CIMI) seguida de pedido de 2.ª avaliação; no CIMI o meio de reação ao resultado da avaliação é o pedido de 2.ª avaliação, em 30 dias, por comissão de peritos (art. 76.º), seguindo-se a impugnação judicial (art. 134.º CPPT). A peça e o pedido («proceda a nova avaliação... fixe o VPT») estão desenhados para a via errada - a confirmar."
+  ]},
+  {"codigo": "FIS-022", "triagem": "rever", "gravidade": "media", "motivos": [
+    "RFAI: crédito de 25% «até 10 M€» e 10% acima; no CFI (art. 23.º) o escalão é 15 M€ - a confirmar.",
+    "Cita o «RGAF - Regulamento Geral de Apoio a Atividades Financeiras» como fonte do requisito de empresa não em dificuldade; esse diploma não existe com esse sentido (o conceito vem do RGIC, Reg. (UE) 651/2014, e do CFI).",
+    "Aplica a todos os benefícios o limite de 50% da coleta, que é do RFAI; o SIFIDE tem regime próprio de dedução e reporte (12 anos) e o mecenato opera como majoração de gasto, não como crédito à coleta. Prazos de manutenção «3 anos móvel / 5 anos imóvel» sem base - a confirmar."
+  ]},
+  {"codigo": "FIS-023", "triagem": "rever", "gravidade": "media", "motivos": [
+    "Enuncia o critério dos 183 dias como «em 31/12, permanecer mais de 183 dias no ano»; o art. 16.º, n.º 1 CIRS exige mais de 183 dias, seguidos ou interpolados, em qualquer período de 12 meses com início ou fim no ano em causa; o dia 31/12 só releva para o critério da habitação. Também o questionário («dias de permanência no ano») induz o erro.",
+    "Para pessoas coletivas refere só a sede; o art. 2.º CIRC usa sede ou direção efetiva."
+  ]},
+  {"codigo": "FIS-024", "triagem": "ok"},
+  {"codigo": "FIS-025", "triagem": "ok"},
+  {"codigo": "FIS-026", "triagem": "ok"},
+  {"codigo": "FIS-027", "triagem": "rever", "gravidade": "media", "motivos": [
+    "Mistura crimes com contraordenações: prevê defesa em processo de contraordenação para «fraude fiscal» e «abuso de confiança», que são crimes (arts. 103.º e 105.º RGIT) com processo penal (exigem advogado penalista); cita «art. 114.º - abuso de confiança» (o art. 114.º é a contraordenação de falta de entrega da prestação tributária) e «arts. 87.º ss - fraude fiscal».",
+    "No ponto 3.3 funde dispensa de coima e atenuação especial com «regularização voluntária antes da notificação»; ver FIS-028 sobre o regime real dos arts. 29.º, 30.º e 32.º RGIT."
+  ]},
+  {"codigo": "FIS-028", "triagem": "rever", "gravidade": "alta", "motivos": [
+    "Percentagens de redução inventadas/erradas: exemplo de «25% do mínimo legal» para pagamento no prazo de defesa. No RGIT: redução por iniciativa própria antes de haver processo = 12,5% do mínimo (50% até ao fim da audição na inspeção) - art. 30.º; pagamento antecipado no prazo de defesa = mínimo legal (art. 75.º); pagamento voluntário após a decisão = 75% (art. 78.º).",
+    "Trata a dispensa de coima como consequência de regularizar antes da notificação; o art. 29.º RGIT exige ausência de prejuízo efetivo para a receita (nunca nas faltas de entrega de imposto), é pedida no prazo de defesa e tem limites por reincidência - o pedido principal de «dispensa» fica sem base.",
+    "Aponta o art. 128.º CPPT (incidentes) e o art. 68.º CIRS (taxas gerais) como fontes da regularização/correção de autoliquidação; são normas erradas."
+  ]},
+  {"codigo": "FIS-029", "triagem": "rever", "gravidade": "alta", "motivos": [
+    "Cálculo da garantia errado: dívida + juros de mora de 3 anos + custas (10%, «estimativa»); o art. 199.º, n.º 6 CPPT manda considerar dívida, juros (até 5 anos) e custas, acrescidos de 25% (references/contencioso-tributario.md). Garantia insuficiente é recusada e a execução prossegue - a confirmar.",
+    "Prazo indicado como «15 dias úteis» após notificação; trata-se de 15 dias contados da apresentação do meio de reação (art. 169.º, n.º 8 CPPT) - a confirmar.",
+    "Atribui ao art. 52.º, n.º 4 LGT a dispensa de garantia para dívidas abaixo de 5.000 € (singulares)/10.000 € (coletivas); esses limiares são da suspensão automática de 120 dias (art. 169.º, n.º 3) e do regime de prestações (arts. 198.º, n.º 5 e 198.º-A); a dispensa do art. 52.º, n.º 4 exige prejuízo irreparável ou manifesta falta de meios."
+  ]},
+  {"codigo": "FIS-030", "triagem": "rever", "gravidade": "media", "motivos": [
+    "Contradição de regime: afirma que a interrupção da prescrição só produz efeito uma vez e, no cálculo, manda contar novo prazo de 8 anos «após a última interrupção»; pelo art. 49.º LGT a interrupção só opera uma vez (pelo primeiro facto), o que antecipa a prescrição face ao cálculo da ficha.",
+    "Inclui o «pedido de pagamento em prestações» entre as causas de interrupção; as prestações autorizadas suspendem a prescrição (art. 49.º, n.º 4 LGT).",
+    "Omite que o efeito interruptivo cessa se o processo estiver parado mais de 1 ano por facto não imputável ao sujeito passivo (art. 49.º, n.º 1 LGT) - elemento determinante no parecer."
+  ]},
+  {"codigo": "FIS-031", "triagem": "ok"}
+]

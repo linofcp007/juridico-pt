@@ -6,7 +6,8 @@ titulo_en: "Legal Opinion on the Causal Link between a Medical Act and the Damag
 descricao: "Elabora um parecer jurídico estruturado sobre a existência e extensão do nexo de causalidade entre um ato médico concreto e os danos alegados, articulando a teoria da causalidade adequada com os factos do caso e os dados médicos disponíveis."
 descricao_en: "Drafts a structured legal opinion on the existence and extent of the causal link between a specific medical act and the alleged damage, applying the theory of adequate causation to the facts of the case and the available medical data."
 ambito: nacional
-estado_citacoes: "conferidas 7 · corrigidas 0 · por conferir 0"
+estado_citacoes: "conferidas 8 · corrigidas 0 · por conferir 0"
+revisao_tecnica: "2026-10-28 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
@@ -14,7 +15,8 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 
 > **Âmbito:** nacional · **Área:** Direito da Saúde e Responsabilidade Médica · **Código:** SAU-006
 > **EN:** Legal Opinion on the Causal Link between a Medical Act and the Damage. Drafts a structured legal opinion on the existence and extent of the causal link between a specific medical act and the alleged damage, applying the theory of adequate causation to the facts of the case and the available medical data.
-> **Citações:** conferidas 7 · corrigidas 0 · por conferir 0. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 8 · corrigidas 0 · por conferir 0. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-28 — corrigida (2 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
 Elabora um parecer jurídico estruturado sobre a existência e extensão do nexo de causalidade entre um ato médico concreto e os danos alegados, articulando a teoria da causalidade adequada com os factos do caso e os dados médicos disponíveis.
 
@@ -45,11 +47,11 @@ Apresenta dentro de um bloco <analise_do_caso>:
 
 ### ETAPA 2 — ANÁLISE JURÍDICA (Fundamentação)
 Apresenta dentro de um bloco <fundamentos_juridicos>:
-- Art. 563.º CC — teoria da causalidade adequada (formulação negativa: só é adequada a causa que, segundo o curso normal das coisas, era apta a produzir o dano)
+- Art. 563.º CC — teoria da causalidade adequada, na formulação negativa: o facto que atuou como condição do dano só deixa de ser sua causa adequada se, pela sua natureza, era de todo indiferente para a produção do dano e só o provocou por força de circunstâncias excecionais, anormais ou extraordinárias (a formulação positiva, mais restritiva, exige que o dano seja consequência normal ou típica do facto)
 - Distinção entre causa próxima, concausa e condição
 - Causalidade parcial: contribuição do ato médico para o dano total
 - Art. 570.º CC — concorrência de culpa do lesado (se aplicável)
-- Inversão do ónus da prova: art. 344.º CC e art. 342.º n.º 2 CC
+- Ónus da prova: regra geral do art. 342.º CC (o lesado prova os factos constitutivos, incluindo o nexo causal; ao réu cabem os factos impeditivos, modificativos ou extintivos — n.º 2); inversão só nos casos do art. 344.º CC (presunção legal, dispensa ou liberação do ónus, convenção válida e impossibilitação culposa da prova pela parte contrária — n.º 2, p. ex. processo clínico extraviado ou incompleto); na responsabilidade contratual presume-se a culpa (art. 799.º, n.º 1, CC), não o nexo causal
 - [■ VERIFICAR: acórdão do STJ sobre nexo causal em caso análogo (mesmo tipo de erro médico)]
 - Doutrina da "perda de chance": reconhecimento pelos tribunais portugueses [■ VERIFICAR: estado atual da jurisprudência]
 
@@ -145,4 +147,5 @@ Apresenta dentro de um bloco <checklist_validacao>:
 | art. 344.º CC | conferida (epígrafe) — Inversão do ónus da prova |  |
 | Art. 563.º CC | conferida (epígrafe) — Nexo de causalidade |  |
 | Art. 570.º CC | conferida (epígrafe) — Culpa do lesado |  |
-| art. 342.º n.º 2 CC | conferida (epígrafe) — Ónus da prova |  |
+| art. 342.º CC | conferida (epígrafe) — Ónus da prova |  |
+| art. 799.º, n.º 1, CC | conferida (índice) |  |

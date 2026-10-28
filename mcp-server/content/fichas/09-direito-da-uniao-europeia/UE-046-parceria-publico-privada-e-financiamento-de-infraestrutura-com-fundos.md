@@ -6,7 +6,8 @@ titulo_en: "Public-Private Partnership and Infrastructure Financing with EU Fund
 descricao: "Analisa o enquadramento jurídico de uma Parceria Público-Privada (PPP) cofinanciada por fundos europeus estruturais (PT2030/FEDER/FC), verificando a conformidade com as regras de elegibilidade de despesa, a compatibilidade com o direito da concorrência (auxílios de Estado) e os requisitos de transparência e contratação pública."
 descricao_en: "Analyses the legal framework of a Public-Private Partnership (PPP) co-financed by European structural funds (PT2030/ERDF (FEDER)/Cohesion Fund (FC)), checking compliance with the expenditure eligibility rules, compatibility with competition law (State aid) and the transparency and public procurement requirements."
 ambito: ue
-estado_citacoes: "conferidas 1 · corrigidas 0 · por conferir 9"
+estado_citacoes: "conferidas 2 · corrigidas 0 · por conferir 30"
+revisao_tecnica: "2026-10-28 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
@@ -14,7 +15,8 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 
 > **Âmbito:** UE · **Área:** Direito da União Europeia · **Código:** UE-046
 > **EN:** Public-Private Partnership and Infrastructure Financing with EU Funds — Legal Compliance. Analyses the legal framework of a Public-Private Partnership (PPP) co-financed by European structural funds (PT2030/ERDF (FEDER)/Cohesion Fund (FC)), checking compliance with the expenditure eligibility rules, compatibility with competition law (State aid) and the transparency and public procurement requirements.
-> **Citações:** conferidas 1 · corrigidas 0 · por conferir 9. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 2 · corrigidas 0 · por conferir 30. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-28 — corrigida (10 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
 Analisa o enquadramento jurídico de uma Parceria Público-Privada (PPP) cofinanciada por fundos europeus estruturais (PT2030/FEDER/FC), verificando a conformidade com as regras de elegibilidade de despesa, a compatibilidade com o direito da concorrência (auxílios de Estado) e os requisitos de transparência e contratação pública.
 
@@ -33,17 +35,17 @@ Ficha de trabalho para preparar este documento. As regras da casa prevalecem sob
 Dentro de <analise_da_situacao>:
 - Identificação do projeto: tipo de infraestrutura; entidade pública promotora; parceiro privado
 - Estrutura de financiamento: fundos UE + capital público + capital privado; percentagens
-- Geração de receitas pelo projeto (relevante para elegibilidade de despesa — arts. 63.º-64.º RDC 2021)
+- Geração de receitas pelo projeto (o RDC 2021 já não contém o regime das operações geradoras de receitas líquidas do art. 61.º do Reg. (UE) n.º 1303/2013; as receitas relevam sobretudo para o montante máximo de auxílio de Estado — p. ex., art. 56.º, n.º 6, RGIC — e para as regras do aviso e do regulamento específico do PT2030 [■ VERIFICAR])
 - Questão jurídica principal: elegibilidade; auxílio de Estado; contratação pública; estrutura contratual
 - Dados em falta
 
 ### ETAPA 2 — ANÁLISE JURÍDICA
 Dentro de <fundamentos_juridicos>:
-- PPP com fundos UE (arts. 63.º-70.º RDC 2021): condições de elegibilidade; operação de PPP; entidade de implementação; propriedade do ativo; exigência de manutenção do ativo pelo período mínimo; obrigações de publicidade
-- Operações que geram receitas líquidas (art. 64.º RDC 2021): cálculo do apoio máximo; métodos (receitas líquidas deduzidas; taxa fixa; análise custo-benefício)
-- Auxílios de Estado na PPP: contribuição pública é auxílio de Estado se cumpre 4 critérios do art. 107.º TFUE; estruturas para evitar o auxílio: princípio do investidor em economia de mercado (MEIP); RGIC para infraestruturas (art. 56.º RGIC)
+- PPP com fundos UE no RDC 2021 (Reg. (UE) 2021/1060), que não tem capítulo próprio de PPP (ao contrário dos arts. 62.º a 64.º do Reg. (UE) n.º 1303/2013): noção de operação PPP (art. 2.º, ponto 15); o beneficiário pode ser o organismo público que inicia a operação ou o parceiro privado selecionado (art. 2.º, ponto 9, alínea b)); despesas elegíveis se incorridas pelo beneficiário ou pelo parceiro privado e pagas entre a data de apresentação do programa ou 1 de janeiro de 2021 (a que for anterior) e 31 de dezembro de 2029 (art. 63.º, n.º 2); pagamentos da autoridade de gestão numa conta de garantia bloqueada (art. 74.º, n.º 1); durabilidade: reembolso se, em cinco anos a contar do pagamento final (ou no prazo das regras de auxílios de Estado), houver mudança de propriedade de elemento da infraestrutura que confira vantagem indevida ou alteração substancial (art. 65.º); visibilidade do apoio (art. 50.º); conservação de documentos (art. 82.º)
+- Custos não elegíveis (art. 64.º RDC 2021): juros sobre dívidas; aquisição de terrenos acima de 10 % das despesas elegíveis (15 % em áreas degradadas e antigas áreas industriais com edifícios); IVA nas operações de custo total igual ou superior a 5 000 000 EUR, quando recuperável
+- Auxílios de Estado na PPP: contribuição pública é auxílio de Estado se cumpre 4 critérios do art. 107.º TFUE; estruturas para evitar o auxílio: princípio do investidor em economia de mercado (MEIP); RGIC para infraestruturas locais (art. 56.º RGIC; as infraestruturas abrangidas por outras secções do RGIC seguem essas regras)
 - Contratação pública: a seleção do parceiro privado deve cumprir o CCP e as Diretivas 2014/24/UE ou 2014/25/UE; Diretiva de concessões 2014/23/UE se aplicável
-- Cláusulas obrigatórias no contrato de PPP com fundos UE: garantias de continuidade do serviço; propriedade ou cessão do ativo ao Estado após a concessão; auditoria e acesso; portabilidade do apoio UE
+- Cláusulas a prever no acordo de PPP (o RDC 2021 não fixa um elenco de cláusulas obrigatórias; as que seguem decorrem das suas regras e das exigências da autoridade de gestão [■ VERIFICAR: aviso e regulamento específico aplicáveis]): quem incorre e paga as despesas elegíveis (art. 63.º, n.º 2); conta de garantia bloqueada (art. 74.º, n.º 1); manutenção da operação e consequências de mudança de propriedade ou alteração substancial no período de durabilidade (art. 65.º); acesso e conservação de documentos para verificações e auditorias (art. 82.º); obrigações de visibilidade (art. 50.º)
 
 ### ETAPA 3 — ESTRUTURA CONTRATUAL E DE FINANCIAMENTO
 Dentro de <estrutura_parecer>:
@@ -56,13 +58,13 @@ Dentro de <estrutura_parecer>:
 **PARECER JURÍDICO — PPP COM FUNDOS EUROPEUS**
 
 **I. Enquadramento Regulatório**
-[RDC 2021, arts. 63.º-70.º; RGIC; CCP [■ VERIFICAR: os arts. 63.º a 70.º são do RDC (Reg. 2021/1060), não do CCP; confirmar os artigos]; legislação nacional de PPP]
+[RDC 2021 (Reg. (UE) 2021/1060), em especial arts. 2.º, 50.º, 63.º a 65.º, 74.º e 82.º; RGIC; CCP; legislação nacional de PPP]
 
 **II. Condições de Elegibilidade da PPP**
-[Verificação dos requisitos do art. 63.º RDC 2021: operação de PPP; entidade de implementação; propriedade do ativo; período mínimo de manutenção; prova de elegibilidade]
+[Verificação à luz do RDC 2021: qualificação como operação PPP (art. 2.º, ponto 15); identificação do beneficiário (art. 2.º, ponto 9, alínea b)); elegibilidade e período de elegibilidade das despesas (art. 63.º); custos não elegíveis (art. 64.º); durabilidade (art. 65.º); prova de elegibilidade]
 
 **III. Cálculo do Apoio Máximo (Operações que Geram Receitas)**
-[Se o projeto gera receitas: método a aplicar; cálculo do gap de financiamento; impacto na taxa de cofinanciamento dos fundos UE]
+[Se o projeto gera receitas: o RDC 2021 não impõe o cálculo do défice de financiamento; verificar o limite do auxílio de Estado (p. ex., art. 56.º, n.º 6, RGIC: diferença entre os custos elegíveis e o lucro operacional do investimento) e as regras de cálculo do aviso e do regulamento específico do PT2030 [■ VERIFICAR]]
 
 **IV. Análise de Auxílio de Estado**
 [Qualificação da contribuição pública como auxílio ou não; instrumento para isenção; RGIC art. 56.º (infraestruturas) ou MEIP]
@@ -71,18 +73,18 @@ Dentro de <estrutura_parecer>:
 [Tipo de procedimento obrigatório; critérios de seleção e adjudicação; publicidade no JOUE se acima dos limiares]
 
 **VI. Cláusulas Obrigatórias no Contrato de PPP**
-[Listagem das cláusulas exigidas pelos arts. 63.º-70.º RDC 2021: auditoria, acesso, propriedade do ativo, período mínimo de exploração, consequências da rescisão antecipada]
+[Listagem das cláusulas a prever à luz do RDC 2021 e das exigências da autoridade de gestão: despesas elegíveis e quem as incorre (art. 63.º, n.º 2), conta de garantia bloqueada (art. 74.º, n.º 1), durabilidade e consequências da mudança de propriedade ou alteração substancial (art. 65.º), acesso e conservação de documentos (art. 82.º), visibilidade (art. 50.º), consequências da cessação antecipada [■ VERIFICAR: aviso e regulamento específico]]
 
 **VII. Conclusões e Recomendações**
 [Viabilidade da estrutura; riscos; alternativas]
 
 ### ETAPA 5 — CHECKLIST DE VALIDAÇÃO
 Dentro de <checklist_validacao>:
-- [ ] Requisitos de PPP do art. 63.º RDC 2021 verificados
-- [ ] Receitas líquidas calculadas ou isenção de cálculo demonstrada
+- [ ] Regras do RDC 2021 aplicáveis à operação PPP verificadas (arts. 2.º, 63.º a 65.º e 74.º)
+- [ ] Impacto das receitas no limite do auxílio de Estado e nas regras do aviso PT2030 verificado
 - [ ] Auxílio de Estado avaliado e instrumento de isenção identificado
 - [ ] Procedimento de contratação pública conforme CCP e Diretivas
-- [ ] Cláusulas obrigatórias RDC 2021 incluídas no contrato
+- [ ] Cláusulas exigidas pelo RDC 2021 e pela autoridade de gestão incluídas no acordo de PPP
 - [ ] Autoridade de gestão consultada sobre estrutura
 - [ ] [■ VERIFICAR] itens sinalizados
 
@@ -101,13 +103,35 @@ Dentro de <checklist_validacao>:
 
 | Citação | Estado | Nota |
 |---|---|---|
-| arts. 63.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| arts. 63.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| arts. 63.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 61.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 56.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 56.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 56.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 56.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| arts. 62.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 2.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 2.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 2.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 2.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 63.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 63.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 63.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 63.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 74.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 74.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 74.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 65.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 65.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 65.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 65.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 50.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 50.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 50.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 82.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 82.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 82.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 64.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 64.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 107.º TFUE | conferida (epígrafe) — Salvo disposição em contrário dos Tratados, são incompatíveis com o mercado interno, na me |  |
-| art. 56.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| art. 56.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| arts. 63.º-70.º; RGIC; CCP | por conferir [■ VERIFICAR] | os arts. 63.º a 70.º são do RDC (Reg. 2021/1060), não do CCP; confirmar os artigos |
-| art. 63.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| art. 63.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| arts. 2.º, 50.º, 63.º a 65.º, 74.º e 82.º; RGIC; CCP | conferida (epígrafe) — Entidades adjudicantes |  |
+| arts. 2.º | por conferir [■ VERIFICAR] | diploma não identificado |

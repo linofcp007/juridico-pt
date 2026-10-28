@@ -3,20 +3,22 @@ codigo: IMO-052
 area: "Direito Imobiliário e do Arrendamento"
 titulo: "Due Diligence Imobiliária — Parecer sobre Ónus, Encargos e Licenças"
 titulo_en: "Real Estate Due Diligence — Opinion on Charges, Encumbrances and Licences"
-descricao: "Elabora parecer completo de due diligence imobiliária antes da aquisição de imóvel, analisando a certidão permanente do registo predial, a caderneta predial urbana, a licença de utilização, o estado de conservação urbanística e eventuais litígios pendentes, ao abrigo do CRP e do RJUE."
-descricao_en: "Prepares a complete real estate due diligence opinion before acquiring a property, analysing the permanent land registry certificate, the urban property tax record (caderneta predial urbana), the occupancy licence (licença de utilização), the planning status and any pending disputes, under the CRP (Land Registry Code) and the RJUE."
+descricao: "Elabora parecer completo de due diligence imobiliária antes da aquisição de imóvel, analisando a certidão permanente do registo predial, a caderneta predial urbana, o título urbanístico e de utilização (licença ou comunicação prévia), o estado de conservação urbanística e eventuais litígios pendentes, ao abrigo do Código do Registo Predial e do RJUE."
+descricao_en: "Prepares a complete real estate due diligence opinion before acquiring a property, analysing the permanent land registry certificate, the urban property tax record (caderneta predial urbana), the planning and occupancy titles (licence or prior notification), the planning status and any pending disputes, under the Land Registry Code and the RJUE."
 ambito: nacional
-estado_citacoes: "conferidas 2 · corrigidas 0 · por conferir 1"
+estado_citacoes: "conferidas 11 · corrigidas 0 · por conferir 3"
+revisao_tecnica: "2026-10-28 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
 # Due Diligence Imobiliária — Parecer sobre Ónus, Encargos e Licenças
 
 > **Âmbito:** nacional · **Área:** Direito Imobiliário e do Arrendamento · **Código:** IMO-052
-> **EN:** Real Estate Due Diligence — Opinion on Charges, Encumbrances and Licences. Prepares a complete real estate due diligence opinion before acquiring a property, analysing the permanent land registry certificate, the urban property tax record (caderneta predial urbana), the occupancy licence (licença de utilização), the planning status and any pending disputes, under the CRP (Land Registry Code) and the RJUE.
-> **Citações:** conferidas 2 · corrigidas 0 · por conferir 1. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **EN:** Real Estate Due Diligence — Opinion on Charges, Encumbrances and Licences. Prepares a complete real estate due diligence opinion before acquiring a property, analysing the permanent land registry certificate, the urban property tax record (caderneta predial urbana), the planning and occupancy titles (licence or prior notification), the planning status and any pending disputes, under the Land Registry Code and the RJUE.
+> **Citações:** conferidas 11 · corrigidas 0 · por conferir 3. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-28 — corrigida (8 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
-Elabora parecer completo de due diligence imobiliária antes da aquisição de imóvel, analisando a certidão permanente do registo predial, a caderneta predial urbana, a licença de utilização, o estado de conservação urbanística e eventuais litígios pendentes, ao abrigo do CRP e do RJUE.
+Elabora parecer completo de due diligence imobiliária antes da aquisição de imóvel, analisando a certidão permanente do registo predial, a caderneta predial urbana, o título urbanístico e de utilização (licença ou comunicação prévia), o estado de conservação urbanística e eventuais litígios pendentes, ao abrigo do Código do Registo Predial e do RJUE.
 
 ## Método
 
@@ -40,11 +42,11 @@ Ficha de trabalho para preparar este documento. As regras da casa prevalecem sob
 
 ### ETAPA 2 — ANÁLISE DOCUMENTAL
 <fundamentos_juridicos>
-- Certidão permanente do registo predial: situação registal completa (art. 72.º CRP [■ VERIFICAR: a norma é do Código do Registo Predial, não da Constituição; confirmar o artigo da certidão permanente])
+- Certidão permanente do registo predial: situação registal completa (o registo prova-se por certidão, incluindo a informação disponibilizada em sítio da Internet — art. 110.º, n.ºs 1 e 5, do Código do Registo Predial)
 - Caderneta predial urbana: VPT, área, afetação fiscal
-- Licença de utilização: art. 62.º RJUE (obrigatória para imóveis construídos após 7/8/1951)
+- Título de utilização: art. 62.º RJUE — desde o DL n.º 10/2024 e o DL n.º 108/2026, a utilização após obra depende de comunicação prévia (art. 62.º-A RJUE) e, sem obra, de comunicação prévia com prazo (art. 62.º-B RJUE), tituladas nos termos do art. 4.º-A, n.º 4, RJUE; nos edifícios mais antigos, verificar o alvará de licença ou de autorização de utilização emitido no regime então vigente; edifícios construídos antes do RGEU (DL n.º 38 382, de 7/8/1951) podem não ter título de utilização [■ VERIFICAR: documento camarário que o comprove]. A escritura deixou de exigir a exibição do título (revogação do DL n.º 281/99 pelo art. 24.º, al. b), do DL n.º 10/2024), mas o documento que titula a venda tem de mencionar a existência do título urbanístico ou a declaração do vendedor de que dispõe ou não dele, sob pena de anulabilidade (art. 4.º-A, n.º 14, RJUE)
 - Ónus e encargos: hipotecas (arts. 686.º ss. CC), penhoras, usufruto, servidões, preferências
-- Situação de arrendamento: contrato registado ou não; rendas em atraso
+- Situação de arrendamento: contratos e rendas em atraso; só o arrendamento por mais de seis anos está sujeito a registo (art. 2.º, n.º 1, al. m), do Código do Registo Predial); o adquirente sucede na posição do senhorio (art. 1057.º CC) e o arrendatário há mais de dois anos tem direito de preferência na venda (art. 1091.º, n.º 1, al. a), CC)
 - Certidão de localização e confrontações da câmara: conformidade com PDM
 - Registo de propriedade horizontal: título constitutivo e regulamento
 - Execuções fiscais ou cíveis pendentes (Citius, AT)
@@ -72,7 +74,7 @@ Elabora parecer estruturado:
 [Hipotecas, penhoras, usufrutos, servidões, preferências registadas] — Risco: classificação
 
 **4. SITUAÇÃO URBANÍSTICA E LICENÇAS**
-[Licença de construção, licença de utilização, conformidade com PDM] — Risco: classificação
+[Título urbanístico da construção (licença ou comunicação prévia), título de utilização (alvará anterior ou comunicação prévia de utilização — arts. 62.º-A e 62.º-B RJUE), conformidade com o PDM; em imóvel construído em lote, certidão de receção provisória das obras de urbanização ou de suficiência da caução, exigida na primeira transmissão (art. 49.º, n.º 2, RJUE)] — Risco: classificação
 
 **5. ARRENDAMENTOS E OCUPAÇÃO**
 [Arrendatários, contratos registados, rendas em atraso] — Risco: classificação
@@ -88,12 +90,12 @@ Elabora parecer estruturado:
 
 ### ETAPA 5 — VALIDAÇÃO
 <checklist_validacao>
-- [ ] Certidão permanente atualizada (últimas 24h)
+- [ ] Certidão permanente válida e consultada de novo imediatamente antes do CPCV e da escritura (boa prática; a lei não fixa um prazo de 24 horas)
 - [ ] Caderneta predial urbana do ano corrente
-- [ ] Licença de utilização obtida junto da câmara
+- [ ] Título de utilização verificado junto da câmara (alvará anterior ou comunicação prévia de utilização) ou, na sua falta, declaração do vendedor a mencionar no documento da venda (art. 4.º-A, n.º 14, RJUE)
 - [ ] Ónus sem hipotecas, penhoras ou outros encargos não declarados
 - [ ] IMI sem dívidas em aberto (certidão AT)
-- [ ] Registo de arrendamento verificado
+- [ ] Arrendamentos verificados (contratos, rendas, preferência do arrendatário; registo só nos arrendamentos por mais de seis anos)
 - [ ] Execuções fiscais ou cíveis verificadas no Citius
 - [ ] [■ VERIFICAR] itens sinalizados
 </checklist_validacao>
@@ -116,7 +118,7 @@ Elabora parecer estruturado:
 **DOCUMENTOS DISPONÍVEIS:**
 - Certidão permanente: [sim/não]
 - Caderneta predial: [sim/não]
-- Licença de utilização: [sim/não]
+- Título de utilização (alvará de licença ou de autorização de utilização, ou comunicação prévia de utilização): [sim/não]
 - Outros: [descrever]
 
 **RISCOS CONHECIDOS:**
@@ -127,6 +129,17 @@ Elabora parecer estruturado:
 
 | Citação | Estado | Nota |
 |---|---|---|
-| art. 72.º CRP | por conferir [■ VERIFICAR] | a norma é do Código do Registo Predial, não da Constituição; confirmar o artigo da certidão permanente |
+| art. 110.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 62.º RJUE | conferida (epígrafe) — Âmbito |  |
+| art. 62.º-A RJUE | conferida (epígrafe) — Utilização ou alteração de uso de edifício ou fração sujeita a comunicação prévia |  |
+| art. 62.º-B RJUE | conferida (epígrafe) — Utilização ou alteração de uso de edifício ou fração sujeita a comunicação prévia com praz |  |
+| art. 4.º-A, n.º 4, RJUE | conferida (epígrafe) — Títulos urbanísticos |  |
+| art. 24.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 4.º-A, n.º 14, RJUE | conferida (epígrafe) — Títulos urbanísticos |  |
+| art. 4.º-A, n.º 14, RJUE | conferida (epígrafe) — Títulos urbanísticos |  |
 | arts. 686.º ss. CC | conferida (epígrafe) — Noção |  |
+| art. 2.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 1057.º CC | conferida (epígrafe) — Transmissão da posição do locador |  |
+| art. 1091.º, n.º 1, al. a), CC | conferida (índice) |  |
+| arts. 62.º-A e 62.º-B RJUE | conferida (epígrafe) — Utilização ou alteração de uso de edifício ou fração sujeita a comunicação prévia |  |
+| art. 49.º, n.º 2, RJUE | conferida (epígrafe) — Negócios jurídicos |  |

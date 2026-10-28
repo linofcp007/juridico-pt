@@ -1,0 +1,166 @@
+[
+  {"codigo": "CIV-035", "triagem": "ok"},
+  {
+    "codigo": "CIV-036",
+    "triagem": "rever",
+    "gravidade": "baixa",
+    "motivos": [
+      "A constituição voluntária de servidão por contrato exige escritura pública ou documento particular autenticado (art. 80.º, n.º 2, do Código do Notariado); a ficha deixa a forma em [VERIFICAR] e fecha com 'reconhecimento notarial (se exigido para registo)', o que sugere que um documento particular com assinaturas reconhecidas bastaria e pode originar um acordo formalmente nulo (art. 220.º CC)."
+    ]
+  },
+  {
+    "codigo": "CIV-037",
+    "triagem": "rever",
+    "gravidade": "baixa",
+    "motivos": [
+      "Garantia na compra e venda: indica o art. 917.º CC com '1 ano para bens móveis'; o art. 917.º regula a caducidade da ação (6 meses após a denúncia) e os prazos de denúncia do art. 916.º são 30 dias após o conhecimento e 6 meses após a entrega nos móveis (1 ano nos imóveis).",
+      "Empreitada: atribui ao art. 1225.º um prazo de '2 anos para móveis', que não consta desse artigo (o art. 1225.º só cobre imóveis de longa duração, 5 anos; nos restantes casos aplica-se o art. 1224.º, n.º 2).",
+      "Lei n.º 446/85 em vez de Decreto-Lei n.º 446/85 (LCCG)."
+    ]
+  },
+  {"codigo": "CIV-038", "triagem": "ok"},
+  {"codigo": "CIV-039", "triagem": "ok"},
+  {
+    "codigo": "CIV-040",
+    "triagem": "rever",
+    "gravidade": "alta",
+    "motivos": [
+      "Pré-aviso errado: a oposição à renovação pelo senhorio exige antecedência não inferior a 240 dias do termo do contrato (art. 1097.º CC). Os 120 dias são o prazo de oposição à renovação pelo arrendatário (art. 1098.º). A ficha indica 120 dias na Etapa 1, '[120/240]' na minuta e '120 dias' na checklist, o que levaria a uma comunicação intempestiva e à renovação do contrato.",
+      "Indemnização inventada: a minuta prevê pagar '1 ano / 2 anos de renda' na denúncia por necessidade de habitação e atribui-a ao art. 1102.º. O art. 1102.º regula os requisitos da denúncia para habitação, não prevê essa indemnização; a compensação/realojamento previstos na lei respeitam à denúncia para demolição ou obras profundas.",
+      "A denúncia por necessidade de habitação (art. 1101.º, al. a)) é para habitação do próprio senhorio ou de descendentes em 1.º grau; a minuta acrescenta o 'cônjuge', que a lei não prevê. Mistura ainda oposição à renovação, denúncia por necessidade e denúncia imotivada (pré-aviso de 5 anos, art. 1101.º, al. c)) sem os distinguir."
+    ]
+  },
+  {
+    "codigo": "CIV-041",
+    "triagem": "rever",
+    "gravidade": "media",
+    "motivos": [
+      "Indica a permuta como ato sujeito a preferência. O direito de preferência do comproprietário (art. 1409.º CC) e do arrendatário (art. 1091.º CC) só opera na venda e na dação em cumprimento, não na permuta."
+    ]
+  },
+  {"codigo": "CIV-042", "triagem": "ok"},
+  {"codigo": "CIV-043", "triagem": "ok"},
+  {"codigo": "CIV-044", "triagem": "ok"},
+  {
+    "codigo": "CIV-045",
+    "triagem": "rever",
+    "gravidade": "media",
+    "motivos": [
+      "Trata a 'forma escrita' como requisito legal da fiança (Etapa 1, art. 628.º 'forma escrita', validade formal, checklist). A lei portuguesa exige apenas declaração expressa de vontade de prestar fiança (art. 628.º, n.º 1 CC) e não impõe forma escrita geral, que depende da forma exigida para a obrigação principal; é uma regra de outros ordenamentos (Brasil) e pode levar a concluir erradamente pela invalidade da fiança.",
+      "Os arts. 651.º e 652.º são apresentados como causas de extinção por 'prorrogação ou modificação sem consentimento do fiador', regra que não corresponde ao regime nacional da fiança (o próprio texto já a marca [VERIFICAR])."
+    ]
+  },
+  {
+    "codigo": "CIV-046",
+    "triagem": "rever",
+    "gravidade": "alta",
+    "motivos": [
+      "Prazo de caducidade da ação de redução de liberalidades inoficiosas mal contado: a ficha diz '2 anos após a partilha', mas o art. 2178.º CC faz correr os 2 anos a partir da aceitação da herança pelo herdeiro legitimário (conhecimento da aceitação), que é anterior à partilha. Seguir a ficha pode levar à perda do direito por caducidade."
+    ]
+  },
+  {"codigo": "CIV-047", "triagem": "ok"},
+  {"codigo": "CIV-048", "triagem": "ok"},
+  {"codigo": "CIV-049", "triagem": "ok"},
+  {
+    "codigo": "CIV-050",
+    "triagem": "rever",
+    "gravidade": "baixa",
+    "motivos": [
+      "Apresenta os arts. 21.º (absolutamente proibidas) e 22.º (relativamente proibidas) do DL 446/85 como o catálogo geral. Esses artigos aplicam-se só nas relações com consumidores finais. Nas relações entre empresários aplicam-se os arts. 18.º e 19.º (que valem também para consumidores). A ficha ignora o regime B2B, apesar de prever como predisponente ou aderente contratos de fornecimento e serviços entre empresas."
+    ]
+  },
+  {
+    "codigo": "CIV-051",
+    "triagem": "rever",
+    "gravidade": "media",
+    "motivos": [
+      "Prazos de defeitos mal enquadrados: a cláusula 5.2 atribui ao art. 1220.º, n.º 2, uma denúncia 'em 1 ano após o conhecimento'. O art. 1220.º, n.º 1, fixa 30 dias após o conhecimento do defeito; o prazo de 1 ano (e 5 anos de garantia) é o do art. 1225.º, n.os 1 e 2, só para imóveis destinados a longa duração. Quem usar a ficha para analisar defeitos noutras obras indica um prazo de denúncia demasiado largo.",
+      "A ação por defeitos está sujeita a caducidade (arts. 1224.º e 1225.º, n.º 3), não a 'prescrição'; o art. 1224.º, n.º 2, prevê ainda caducidade de 2 anos a contar da entrega nas obras aceites sem reserva.",
+      "Receção provisória/definitiva e 'prazo de garantia' de 1 ano são figuras da empreitada de obras públicas; no regime civil o marco é a aceitação/entrega da obra (arts. 1218.º e 1225.º), de onde corre a garantia legal, e a remissão para o CCP não é aplicável a obra particular."
+    ]
+  },
+  {
+    "codigo": "CIV-052",
+    "triagem": "rever",
+    "gravidade": "baixa",
+    "motivos": [
+      "Afirma um 'prazo mínimo em exclusividade (6 meses)' no art. 20.º da Lei 15/2013; essa regra não consta do RJAMI, que exige prazo certo e as menções obrigatórias do contrato.",
+      "Descreve a comissão no regime de exclusividade como devida apenas 'se o negócio resultar da atividade da mediadora' (art. 19.º, n.º 3). No regime de exclusividade a remuneração é devida mesmo que o negócio seja concluído pelo cliente ou por outro mediador durante a vigência do contrato; a ficha reduz indevidamente esse direito."
+    ]
+  },
+  {
+    "codigo": "CIV-053",
+    "triagem": "rever",
+    "gravidade": "alta",
+    "motivos": [
+      "Cláusula 6.ª e checklist afirmam que o mútuo 'assinado pelo Mutuário e por 2 testemunhas' é título executivo ao abrigo do art. 703.º, n.º 1, al. b), CPC. Errado: desde a reforma da ação executiva os documentos particulares assinados pelo devedor deixaram de ser título executivo. A al. b) exige documento exarado ou autenticado por notário ou outra entidade competente (escritura ou documento particular autenticado); a exigência de 2 testemunhas não existe. O mutuante poderia ficar sem título executivo.",
+      "Forma do mútuo incompleta e enganadora: o art. 1143.º CC exige, acima de 25.000 EUR, escritura pública ou documento particular autenticado, e, acima de 2.500 EUR, pelo menos documento assinado pelo mutuário; a ficha só refere a escritura pública.",
+      "A taxa legal civil que serve de base ao limite da usura (art. 1146.º: taxa legal mais 3%, havendo garantia real, ou mais 5%, não havendo) é fixada por portaria (Portaria n.º 291/2003, 4%), não 'do Banco de Portugal' como a ficha sugere."
+    ]
+  },
+  {
+    "codigo": "CIV-054",
+    "triagem": "rever",
+    "gravidade": "media",
+    "motivos": [
+      "Prescrição mal definida: o checklist indica '3 anos da data do acidente (art. 498.º CC)'. O prazo de 3 anos corre do conhecimento do direito pelo lesado (art. 498.º, n.º 1), e, se o facto constituir crime (ofensas à integridade física por negligência), aplica-se o prazo mais longo da prescrição criminal (art. 498.º, n.º 3). Contar da data do acidente pode dar como prescrito um direito ainda exercível.",
+      "O prazo de 'proposta razoável no prazo de 30 dias' do DL 291/2007 conta-se em dias úteis e é mais longo nos danos corporais (arts. 36.º a 38.º); confirmar antes de usar como critério de análise da proposta da seguradora."
+    ]
+  },
+  {
+    "codigo": "CIV-055",
+    "triagem": "rever",
+    "gravidade": "baixa",
+    "motivos": [
+      "Título e conteúdo não coincidem: o título é 'Acordo Extrajudicial de Partilha de Bem Imóvel em Propriedade Horizontal' (e remete para o modelo de partilha), mas o corpo é um título constitutivo de propriedade horizontal. Quem pedir uma partilha obtém uma minuta de outro ato.",
+      "A constituição da PH e a prova municipal ('licença de utilização', 'licença de habitabilidade', 'aprovação municipal') foram alteradas pelo Simplex urbanístico (DL 10/2024, que eliminou a licença de utilização) e pela Lei 8/2022 (técnico habilitado); a ficha mantém o regime anterior e exige só escritura pública, quando basta também o documento particular autenticado. Confirmar."
+    ]
+  },
+  {
+    "codigo": "CIV-056",
+    "triagem": "rever",
+    "gravidade": "alta",
+    "motivos": [
+      "Afirma que 'a notificação extrajudicial interrompe a prescrição (art. 323.º CC)'. Errado: o art. 323.º CC só atribui efeito interruptivo à citação ou à notificação judicial de ato que exprima a intenção de exercer o direito. Uma carta ao administrador ou ao condómino não interrompe os 3 anos do art. 498.º; seguir a ficha pode levar à prescrição do direito.",
+      "A responsabilidade por danos de infiltrações e defeitos do edifício é enquadrada só no art. 483.º CC, sem os arts. 492.º e 493.º; e a competência do administrador para obras urgentes é atribuída ao art. 1427.º, n.º 2 (que, para o próprio texto, só permite a qualquer condómino as reparações urgentes na falta do administrador); o poder do administrador vem do art. 1436.º."
+    ]
+  },
+  {
+    "codigo": "CIV-057",
+    "triagem": "rever",
+    "gravidade": "media",
+    "motivos": [
+      "A transcrição do art. 812.º, n.º 1, CC está inventada: a lei diz 'quando for manifestamente excessiva, ainda que por causa superveniente; é nula qualquer estipulação em contrário', e não 'ainda que por causa diferente da prevista no contrato'. Uma citação falsa numa peça processual é grave e omite a nulidade de cláusulas que afastem a redução.",
+      "Atribui ao art. 21.º, al. c), do DL 446/85 a cláusula penal abusiva; as cláusulas penais desproporcionadas aos danos constam do art. 19.º, al. c) (relativamente proibidas).",
+      "Terminologia: define a cláusula 'compulsória' como pena de mora; na doutrina portuguesa distinguem-se a cláusula penal compensatória, a moratória e a compulsória (esta cumulável com a indemnização)."
+    ]
+  },
+  {
+    "codigo": "CIV-058",
+    "triagem": "rever",
+    "gravidade": "baixa",
+    "motivos": [
+      "Exemplo de semáforo considera a caução de 3 meses 'legal mas elevada'; confirmar se a Lei 56/2023 (Mais Habitação) limitou a caução e as garantias no arrendamento habitacional.",
+      "O exemplo de 'resolução imediata sem aviso prévio' como cláusula nula (art. 1083.º CC) não é rigoroso: a resolução por incumprimento pode ser extrajudicial por comunicação (art. 1084.º). O art. 1036.º CC (reparações urgentes) e o art. 24.º NRAU (coeficiente de atualização, não 'HICP') merecem confirmação de substância."
+    ]
+  },
+  {
+    "codigo": "CIV-059",
+    "triagem": "rever",
+    "gravidade": "alta",
+    "motivos": [
+      "Prazo de mora errado: a ficha exige 'mora superior a 2 meses' no arrendamento habitacional (regras obrigatórias, fundamentos, minuta e checklist). O art. 1083.º, n.º 3, CC exige mora superior a 3 meses (ou, no n.º 4, mora superior a 8 dias por mais de 4 vezes em 12 meses). Uma resolução com 2 meses de atraso seria ineficaz.",
+      "O art. 1041.º CC não estabelece juros de mora: prevê a indemnização de 50% do valor em dívida, que não é devida quando o contrato é resolvido por falta de pagamento (ou se a mora cessar em 8 dias). A ficha atribui ao art. 1041.º os juros e indica indemnização 'se aplicável' sem distinguir; os juros resultam dos arts. 804.º e 806.º.",
+      "Ignora que o arrendatário pode fazer caducar a resolução pagando ou depositando as rendas em atraso e a indemnização (arts. 1048.º e 1084.º, n.º 3), e fixa um prazo de entrega de 30 dias sem base legal."
+    ]
+  },
+  {
+    "codigo": "CIV-060",
+    "triagem": "rever",
+    "gravidade": "baixa",
+    "motivos": [
+      "O DL 383/89 transpõe a Diretiva 85/374/CEE, que a Diretiva (UE) 2024/2853 revoga com efeitos a 9-12-2026 (aplicável aos produtos colocados no mercado depois dessa data, incluindo software, nova prova e prazos). Dependendo da transposição nacional, a ficha apresenta como único regime um diploma em vias de ser substituído; confirmar o estado da transposição.",
+      "Omite o limite máximo de indemnização por danos corporais para artigos idênticos com o mesmo defeito (art. 9.º, 70 milhões de euros)."
+    ]
+  }
+]

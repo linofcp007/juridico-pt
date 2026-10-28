@@ -3,20 +3,22 @@ codigo: AMB-002
 area: "Direito do Ambiente e Energia"
 titulo: "Requerimento de Título Único Ambiental (TUA)"
 titulo_en: "Application for a Single Environmental Permit (TUA)"
-descricao: "Elabora o requerimento de concessão ou renovação do Título Único Ambiental (TUA), instrumento previsto no DL n.º 75/2015, de 11 de Maio, que agrega num único ato as autorizações e licenças de componentes ambientais (água, ar, resíduos, ruído, etc.) para estabelecimentos não sujeitos a Licença Ambiental PCIP, incluindo o enquadramento no Sistema de Indústria Responsável (SIR)."
-descricao_en: "Drafts the application for the grant or renewal of the Single Environmental Permit (Título Único Ambiental, TUA), the instrument provided for in Decree-Law No. 75/2015 of 11 May, which brings together in a single act the authorisations and licences for environmental components (water, air, waste, noise, etc.) for establishments not subject to an IPPC (PCIP) Environmental Licence, including the framework under the Responsible Industry System (SIR)."
+descricao: "Elabora o requerimento de concessão, alteração ou renovação do Título Único Ambiental (TUA), instrumento previsto no DL n.º 75/2015, de 11 de maio (Licenciamento Único de Ambiente), que reúne num único título as licenças e os atos de controlo prévio ambiental a que o estabelecimento está sujeito — incluindo a licença ambiental do regime de emissões industriais (PCIP), o título de emissão de gases com efeito de estufa, o título de utilização dos recursos hídricos e o título de emissões para o ar —, com a articulação com o Sistema da Indústria Responsável (SIR)."
+descricao_en: "Drafts the application for the grant, amendment or renewal of the Single Environmental Permit (Título Único Ambiental, TUA), provided for in Decree-Law No. 75/2015 of 11 May (Single Environmental Licensing), which brings together in a single title the environmental licences and prior-control acts to which the establishment is subject — including the environmental licence under the industrial emissions (IPPC) regime, the greenhouse gas emissions permit, the water resources use permit and the air emissions permit — and its coordination with the Responsible Industry System (SIR)."
 ambito: nacional
-estado_citacoes: "sem citações"
+estado_citacoes: "conferidas 0 · corrigidas 0 · por conferir 10"
+revisao_tecnica: "2026-10-28 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
 # Requerimento de Título Único Ambiental (TUA)
 
 > **Âmbito:** nacional · **Área:** Direito do Ambiente e Energia · **Código:** AMB-002
-> **EN:** Application for a Single Environmental Permit (TUA). Drafts the application for the grant or renewal of the Single Environmental Permit (Título Único Ambiental, TUA), the instrument provided for in Decree-Law No. 75/2015 of 11 May, which brings together in a single act the authorisations and licences for environmental components (water, air, waste, noise, etc.) for establishments not subject to an IPPC (PCIP) Environmental Licence, including the framework under the Responsible Industry System (SIR).
-> **Citações:** sem citações. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **EN:** Application for a Single Environmental Permit (TUA). Drafts the application for the grant, amendment or renewal of the Single Environmental Permit (Título Único Ambiental, TUA), provided for in Decree-Law No. 75/2015 of 11 May (Single Environmental Licensing), which brings together in a single title the environmental licences and prior-control acts to which the establishment is subject — including the environmental licence under the industrial emissions (IPPC) regime, the greenhouse gas emissions permit, the water resources use permit and the air emissions permit — and its coordination with the Responsible Industry System (SIR).
+> **Citações:** conferidas 0 · corrigidas 0 · por conferir 10. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-28 — corrigida (7 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
-Elabora o requerimento de concessão ou renovação do Título Único Ambiental (TUA), instrumento previsto no DL n.º 75/2015, de 11 de Maio, que agrega num único ato as autorizações e licenças de componentes ambientais (água, ar, resíduos, ruído, etc.) para estabelecimentos não sujeitos a Licença Ambiental PCIP, incluindo o enquadramento no Sistema de Indústria Responsável (SIR).
+Elabora o requerimento de concessão, alteração ou renovação do Título Único Ambiental (TUA), instrumento previsto no DL n.º 75/2015, de 11 de maio (Licenciamento Único de Ambiente), que reúne num único título as licenças e os atos de controlo prévio ambiental a que o estabelecimento está sujeito — incluindo a licença ambiental do regime de emissões industriais (PCIP), o título de emissão de gases com efeito de estufa, o título de utilização dos recursos hídricos e o título de emissões para o ar —, com a articulação com o Sistema da Indústria Responsável (SIR).
 
 ## Método
 
@@ -25,7 +27,7 @@ Ficha de trabalho para preparar este documento. As regras da casa prevalecem sob
 ## Regras obrigatórias
 - NUNCA inventes diplomas, números de portaria ou limites técnicos
 - Diplomas base: DL n.º 75/2015 (TUA), DL n.º 169/2012 alterado (SIR), Lei n.º 19/2014 (LBA)
-- Componentes ambientais base do TUA: ar (DL 78/2004), água (DL 236/98 / Lei 58/2005), resíduos (DL 102-D/2020), ruído (Regulamento Geral do Ruído, DL 9/2007)
+- Regimes integrados no TUA (art. 2.º, n.º 1, do DL n.º 75/2015): AIA, prevenção de acidentes graves, emissões industriais — licença ambiental do REI (DL 127/2013), comércio de licenças de emissão — TEGEE (hoje DL 12/2020), gestão de resíduos (hoje DL 102-D/2020), TURH (DL 226-A/2007), aterros, emissões para o ar — TEAR (DL 39/2018, que revogou o DL 78/2004 e a Portaria 80/2006) e água para reutilização (DL 119/2019); o ruído (RGR, DL 9/2007) não é regime integrado no TUA [■ VERIFICAR: remissões do art. 2.º do DL n.º 75/2015 para diplomas entretanto substituídos]
 - Marca [■ VERIFICAR: dado em falta] quando informação estiver ausente
 - Linguagem técnico-jurídica em português europeu (pt-PT)
 
@@ -52,12 +54,12 @@ Identifica em <fundamentos_juridicos>:
 - DL n.º 75/2015 — regime do TUA e componentes integradas
 - DL n.º 169/2012 (SIR) — tipo de licença industrial e entidade coordenadora
 - Diplomas de cada componente ambiental identificada:
-  * Ar: DL n.º 78/2004 e Portaria n.º 80/2006 [■ VERIFICAR valores limite atuais]
-  * Água: DL n.º 236/98 e Lei n.º 58/2005 (Lei da Água)
+  * Ar: DL n.º 39/2018 (prevenção e controlo das emissões de poluentes para o ar; título de emissões para o ar — TEAR, integrado no TUA), que revogou o DL n.º 78/2004 e a Portaria n.º 80/2006 [■ VERIFICAR: valores-limite e portarias em vigor, incluindo as alterações do DL n.º 124/2026]
+  * Água: Lei n.º 58/2005 (Lei da Água) e DL n.º 226-A/2007 (título de utilização dos recursos hídricos — TURH, integrado no TUA); valores-limite de descarga do DL n.º 236/98 [■ VERIFICAR: normas ainda em vigor]
   * Resíduos: DL n.º 102-D/2020 (RGGR) e legislação específica
-  * Ruído: DL n.º 9/2007 (RGR) e valores limite por zona
+  * Ruído: DL n.º 9/2007 (RGR) e valores limite por zona — não é regime integrado no TUA (art. 2.º, n.º 1, do DL n.º 75/2015); a conformidade acústica é apreciada no procedimento de licenciamento da atividade [■ VERIFICAR]
 - Lei n.º 19/2014 (LBA) — princípios estruturantes (prevenção, precaução, poluidor-pagador)
-- Taxas aplicáveis [■ VERIFICAR: tabela em vigor no IAPMEI]
+- Taxa Ambiental Única (TAU), paga à APA, I. P. (ANLUA) com o pedido; nos procedimentos SIR é cobrada nesse procedimento e remetida à ANLUA; o prazo de emissão do TUA só corre após o pagamento (arts. 16.º, n.º 2, e 19.º do DL n.º 75/2015) [■ VERIFICAR: portaria que fixa o valor da TAU]
 
 ### ETAPA 3 — CONSTRUÇÃO
 Define em <estrategia>:
@@ -71,8 +73,8 @@ Redige o requerimento com esta estrutura:
 
 **REQUERIMENTO DE [CONCESSÃO/RENOVAÇÃO/ALTERAÇÃO] DE TÍTULO ÚNICO AMBIENTAL**
 
-**AO IAPMEI — AGÊNCIA PARA A COMPETITIVIDADE E INOVAÇÃO, I.P.**
-(ou entidade coordenadora do SIR territorialmente competente)
+**À ENTIDADE COORDENADORA DO PROCEDIMENTO SIR — [■ VERIFICAR: IAPMEI, CCDR ou câmara municipal, consoante o tipo de estabelecimento e a atividade — art. 13.º do DL n.º 169/2012]**
+(pedido submetido no balcão eletrónico do SIR — art. 15.º, n.º 1, do DL n.º 75/2015; fora de um regime de atividade económica, o pedido é submetido diretamente no SILiAmb e dirigido à APA, I. P., enquanto Autoridade Nacional para o LUA — arts. 6.º e 15.º, n.º 2, do DL n.º 75/2015)
 
 **I. IDENTIFICAÇÃO DO REQUERENTE**
 Denominação social, NIPC, sede, representante legal, contactos
@@ -81,7 +83,7 @@ Denominação social, NIPC, sede, representante legal, contactos
 Designação, localização, área, CAE, tipo de licença SIR
 
 **III. OBJETO DO REQUERIMENTO**
-Pedido expresso ao abrigo do art. [X] do DL 75/2015
+Pedido expresso ao abrigo do art. 12.º do DL 75/2015 (pedido de TUA mediante entrega do dossier único eletrónico — arts. 12.º e 13.º), com indicação dos atos de licenciamento ou controlo prévio ambiental requeridos (art. 12.º, n.º 2)
 
 **IV. COMPONENTES AMBIENTAIS SOLICITADAS**
 Para cada componente:
@@ -142,3 +144,18 @@ Apresenta em <checklist_validacao>:
 - Validade atual: [data]
 
 **OBSERVAÇÕES:** [informação adicional]
+
+## Citações desta ficha
+
+| Citação | Estado | Nota |
+|---|---|---|
+| art. 2.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 2.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 2.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| arts. 16.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 13.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 15.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| arts. 6.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 12.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 12.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| arts. 12.º | por conferir [■ VERIFICAR] | diploma não identificado |

@@ -3,20 +3,22 @@ codigo: PRC-004
 area: "Processo Civil e Contencioso"
 titulo: "Réplica"
 titulo_en: "Reply (Réplica)"
-descricao: "Gera a réplica do autor, nos termos do art. 584.º do CPC, respondendo às exceções deduzidas pelo réu na contestação e, quando exista reconvenção, contestando o pedido reconvencional. Inclui impugnação das exceções, contraprova e pedido de improcedência."
-descricao_en: "Generates the claimant's reply (réplica), under Article 584 CPC, responding to the exceptions raised by the defendant in the defence and, where there is a counterclaim, contesting the counterclaim. It includes a challenge to the exceptions, rebuttal evidence and a request that they be dismissed."
+descricao: "Gera a réplica do autor, nos termos do art. 584.º do CPC, admissível só quando o réu deduz reconvenção (para toda a defesa quanto ao pedido reconvencional) ou nas ações de simples apreciação negativa. Às exceções deduzidas na contestação o autor responde na audiência prévia ou no início da audiência final (art. 3.º, n.º 4, do CPC). Inclui a contestação da reconvenção, a alteração do requerimento probatório e o pedido de improcedência."
+descricao_en: "Generates the claimant's reply (réplica) under Article 584 CPC, admissible only where the defendant has brought a counterclaim (to set out the whole defence to it) or in actions for a negative declaration. The exceptions raised in the defence are answered at the preliminary hearing or at the start of the final hearing (Article 3(4) CPC). It includes the defence to the counterclaim, the amendment of the request for evidence and the request that the counterclaim be dismissed."
 ambito: nacional
-estado_citacoes: "conferidas 3 · corrigidas 0 · por conferir 2"
+estado_citacoes: "conferidas 23 · corrigidas 0 · por conferir 1"
+revisao_tecnica: "2026-10-28 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
 # Réplica
 
 > **Âmbito:** nacional · **Área:** Processo Civil e Contencioso · **Código:** PRC-004
-> **EN:** Reply (Réplica). Generates the claimant's reply (réplica), under Article 584 CPC, responding to the exceptions raised by the defendant in the defence and, where there is a counterclaim, contesting the counterclaim. It includes a challenge to the exceptions, rebuttal evidence and a request that they be dismissed.
-> **Citações:** conferidas 3 · corrigidas 0 · por conferir 2. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **EN:** Reply (Réplica). Generates the claimant's reply (réplica) under Article 584 CPC, admissible only where the defendant has brought a counterclaim (to set out the whole defence to it) or in actions for a negative declaration. The exceptions raised in the defence are answered at the preliminary hearing or at the start of the final hearing (Article 3(4) CPC). It includes the defence to the counterclaim, the amendment of the request for evidence and the request that the counterclaim be dismissed.
+> **Citações:** conferidas 23 · corrigidas 0 · por conferir 1. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-28 — corrigida (9 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
-Gera a réplica do autor, nos termos do art. 584.º do CPC, respondendo às exceções deduzidas pelo réu na contestação e, quando exista reconvenção, contestando o pedido reconvencional. Inclui impugnação das exceções, contraprova e pedido de improcedência.
+Gera a réplica do autor, nos termos do art. 584.º do CPC, admissível só quando o réu deduz reconvenção (para toda a defesa quanto ao pedido reconvencional) ou nas ações de simples apreciação negativa. Às exceções deduzidas na contestação o autor responde na audiência prévia ou no início da audiência final (art. 3.º, n.º 4, do CPC). Inclui a contestação da reconvenção, a alteração do requerimento probatório e o pedido de improcedência.
 
 ## Método
 
@@ -26,7 +28,10 @@ Ficha de trabalho para preparar este documento. As regras da casa prevalecem sob
 - Usa SEMPRE português europeu (pt-PT). Nunca brasileirismos.
 - Nunca inventes jurisprudência ou artigos inexistentes
 - Sinaliza [■ VERIFICAR: o que é necessário] se faltarem dados
-- A réplica serve APENAS para: (1) impugnar exceções do réu; (2) contestar a reconvenção; (3) invocar factos novos que apenas se tornaram relevantes após a contestação (art. 584.º, n.º 2 CPC [■ VERIFICAR: o art. 584.º CPC só admite réplica à reconvenção e na simples apreciação negativa; factos novos seguem o art. 588.º CPC])
+- A réplica só é admissível em dois casos (art. 584.º CPC): (1) para o autor deduzir toda a defesa quanto à matéria da reconvenção, sem lhe poder opor nova reconvenção (n.º 1); (2) nas ações de simples apreciação negativa, para impugnar os factos constitutivos alegados pelo réu e alegar os factos impeditivos ou extintivos do direito por ele invocado (n.º 2). Sem reconvenção nem ação de simples apreciação negativa, não há réplica
+- Às exceções deduzidas na contestação (último articulado admissível) o autor responde na audiência prévia ou, não havendo lugar a ela, no início da audiência final (art. 3.º, n.º 4, CPC) — não na réplica
+- Factos supervenientes (ocorridos ou só conhecidos depois do prazo do articulado) seguem o regime do articulado superveniente, com prova da superveniência (art. 588.º CPC)
+- Na réplica, o autor pode alterar o requerimento probatório inicial (art. 552.º, n.º 6, CPC)
 - Não podes usar a réplica para alterar ou ampliar o pedido inicial (salvo casos excepcionais do art. 265.º CPC)
 
 ---
@@ -35,24 +40,25 @@ Ficha de trabalho para preparar este documento. As regras da casa prevalecem sob
 
 ### ETAPA 1 — PROBLEMATIZAÇÃO
 Analisa em <analise_do_caso>:
-- Quais as exceções dilatórias deduzidas pelo réu e como refutá-las?
-- Quais as exceções peremptórias deduzidas e como demonstrar a sua improcedência?
-- O réu deduziu reconvenção? Qual o fundamento e como contestá-la?
-- Há factos novos que só se tornaram relevantes com a contestação?
-- Quais os meios de prova adicionais a arrolar para refutar as exceções?
+- O réu deduziu reconvenção, ou a ação é de simples apreciação negativa? Se não, não há réplica: a resposta às exceções faz-se na audiência prévia ou no início da audiência final (art. 3.º, n.º 4, CPC)
+- Qual o fundamento da reconvenção e como contestá-la (impugnação e exceções contra o pedido reconvencional)?
+- Na ação de simples apreciação negativa: que factos constitutivos alegados pelo réu impugnar e que factos impeditivos ou extintivos alegar (art. 584.º, n.º 2, CPC)?
+- Que exceções deduziu o réu contra o pedido do autor? Preparar a resposta para a audiência prévia ou para o início da audiência final (art. 3.º, n.º 4, CPC)
+- Há factos supervenientes (art. 588.º CPC)?
+- Que alterações ao requerimento probatório convém fazer (art. 552.º, n.º 6, CPC)?
 
 ### ETAPA 2 — ANÁLISE JURÍDICA
 Identifica em <fundamentos_juridicos>:
-- Artigos do CPC e do CC que refutam cada exceção invocada pelo réu
-- Causas de interrupção ou suspensão da prescrição se esta foi invocada
+- Normas do CPC e do CC que afastam o pedido reconvencional (e, na ação de simples apreciação negativa, o direito invocado pelo réu)
+- Exceções a opor à reconvenção (por exemplo, prescrição do crédito reconvencional) e, para a resposta às exceções da contestação na audiência prévia ou no início da audiência final (art. 3.º, n.º 4, CPC), causas de interrupção ou suspensão da prescrição se esta foi invocada
 - Nulidade ou inoponibilidade de outros fundamentos do réu
 - Jurisprudência relevante que suporte a posição do autor
 
 ### ETAPA 3 — CONSTRUÇÃO
 Define em <estrategia>:
-- Ordem de refutação das exceções (mais fortes primeiro)
-- Factos novos a alegar (apenas os admissíveis no âmbito da réplica)
-- Meios de prova adicionais a requerer
+- Ordem da defesa contra a reconvenção (impugnação e exceções, mais fortes primeiro)
+- Resposta às exceções da contestação: preparar para a audiência prévia ou para o início da audiência final (art. 3.º, n.º 4, CPC)
+- Meios de prova adicionais a requerer (alteração do requerimento probatório — art. 552.º, n.º 6, CPC)
 
 ### ETAPA 4 — A RÉPLICA
 Redige a peça completa nesta estrutura:
@@ -66,20 +72,16 @@ do CPC, apresentar a presente
 
 RÉPLICA
 
-**2. RESPOSTA ÀS EXCEÇÕES DILATÓRIAS** (se aplicável)
-Para cada exceção dilatória invocada pelo réu:
-- Identificação da exceção
-- Impugnação de facto e de direito
-- Artigos relevantes com transcrição do trecho essencial
+**2. ADMISSIBILIDADE DA RÉPLICA**
+Indicar o fundamento: reconvenção deduzida pelo réu (art. 584.º, n.º 1, CPC) ou ação de simples apreciação negativa (art. 584.º, n.º 2, CPC). As exceções que o réu deduziu contra o pedido do autor não se respondem aqui, mas na audiência prévia ou, não havendo lugar a ela, no início da audiência final (art. 3.º, n.º 4, CPC).
 
-**3. RESPOSTA ÀS EXCEÇÕES PEREMPTÓRIAS**
-Para cada exceção peremptória:
-- Impugnação especificada dos factos alegados pelo réu
-- Fundamento jurídico da sua improcedência
-- Meios de prova que refutam os factos do réu
+**3. AÇÃO DE SIMPLES APRECIAÇÃO NEGATIVA** (se aplicável)
+- Impugnação especificada dos factos constitutivos alegados pelo réu
+- Factos impeditivos ou extintivos do direito invocado pelo réu, articulados numericamente
+- Meios de prova
 
-**4. FACTOS NOVOS** (apenas os admissíveis)
-Se existirem factos supervenientes ou que só se tornaram relevantes com a contestação, articulá-los numericamente.
+**4. FACTOS SUPERVENIENTES** (se aplicável)
+Factos constitutivos, modificativos ou extintivos ocorridos ou só conhecidos depois da contestação podem ser deduzidos neste articulado ou em novo articulado, até ao encerramento da discussão, provando-se a superveniência (art. 588.º, n.os 1 e 2, CPC). Articulá-los numericamente.
 
 **5. CONTESTAÇÃO DA RECONVENÇÃO** (se aplicável)
 "Relativamente ao pedido reconvencional, alega o Autor/Reconvindo:"
@@ -88,25 +90,25 @@ Se existirem factos supervenientes ou que só se tornaram relevantes com a conte
 - Meios de prova
 
 **6. DO DIREITO**
-Fundamentação jurídica da improcedência de cada exceção e da reconvenção.
+Fundamentação jurídica da improcedência da reconvenção (ou, na ação de simples apreciação negativa, da inexistência do direito invocado pelo réu).
 
 **7. DO PEDIDO**
-"Nestes termos, requer a V. Exa. se digne julgar improcedentes as exceções
-deduzidas pelo Réu [e julgar improcedente a reconvenção], mantendo-se a
-ação para julgamento [e absolvendo o Autor/Reconvindo do pedido reconvencional]."
+"Nestes termos, requer a V. Exa. se digne julgar improcedente a reconvenção,
+absolvendo o Autor/Reconvindo do pedido reconvencional [ou, na ação de simples
+apreciação negativa: declarar a inexistência do direito invocado pelo Réu, como
+pedido na petição inicial]."
 Condenação em custas e honorários.
 
 **8. MEIOS DE PROVA ADICIONAIS**
-Documentos adicionais, novas testemunhas (se admissível), perícia.
+Alteração do requerimento probatório inicial (art. 552.º, n.º 6, CPC): documentos, testemunhas — havendo reconvenção, cada parte pode oferecer até 10 testemunhas para prova dos fundamentos da reconvenção e da respetiva defesa (art. 511.º, n.º 2, CPC) —, perícia.
 
 ### ETAPA 5 — VALIDAÇÃO
 Apresenta em <checklist_validacao>:
 - [ ] Prazo de réplica respeitado (30 dias — art. 585.º CPC)
-- [ ] Réplica limitada ao âmbito do art. 584.º CPC
-- [ ] Exceções dilatórias refutadas com fundamento
-- [ ] Exceções peremptórias impugnadas especificadamente
-- [ ] Reconvenção contestada (se aplicável)
-- [ ] Factos novos admissíveis (não ampliação indevida do pedido)
+- [ ] Réplica admissível: há reconvenção ou a ação é de simples apreciação negativa (art. 584.º CPC)
+- [ ] Reconvenção contestada (impugnação e exceções)
+- [ ] Resposta às exceções da contestação preparada para a audiência prévia ou para o início da audiência final (art. 3.º, n.º 4, CPC)
+- [ ] Factos supervenientes alegados nos termos do art. 588.º CPC (sem ampliação indevida do pedido)
 - [ ] Meios de prova adicionais arrolados
 - [ ] Pontos [■ VERIFICAR] sinalizados
 
@@ -126,9 +128,9 @@ Apresenta em <checklist_validacao>:
 - Reconvenção e pedido reconvencional se existir]
 
 **POSIÇÃO DO AUTOR:**
-[Descreve como o autor refuta cada exceção:
-- Por que razão a exceção é improcedente
-- Que factos novos podem ser alegados
+[Descreve como o autor contesta a reconvenção (ou, na ação de simples apreciação negativa, os factos alegados pelo réu) e, à parte, como responderá às exceções na audiência prévia ou no início da audiência final:
+- Por que razão o pedido reconvencional é improcedente
+- Que factos supervenientes podem ser alegados
 - Que documentos adicionais existem]
 
 **MEIOS DE PROVA ADICIONAIS:**
@@ -142,8 +144,27 @@ Apresenta em <checklist_validacao>:
 
 | Citação | Estado | Nota |
 |---|---|---|
-| art. 584.º, n.º 2 CPC | por conferir [■ VERIFICAR] | o art. 584.º CPC só admite réplica à reconvenção e na simples apreciação negativa; factos novos seguem o art. 588.º CPC |
+| art. 584.º CPC | conferida (epígrafe) — Função da réplica |  |
 | art. 584.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 584.º CPC | conferida (epígrafe) — Função da réplica |  |
+| art. 3.º, n.º 4, CPC | conferida (epígrafe) — Necessidade do pedido e da contradição |  |
+| art. 3.º, n.º 4, CPC | conferida (epígrafe) — Necessidade do pedido e da contradição |  |
+| art. 3.º, n.º 4, CPC | conferida (epígrafe) — Necessidade do pedido e da contradição |  |
+| art. 3.º, n.º 4, CPC | conferida (epígrafe) — Necessidade do pedido e da contradição |  |
+| art. 3.º, n.º 4, CPC | conferida (epígrafe) — Necessidade do pedido e da contradição |  |
+| art. 3.º, n.º 4, CPC | conferida (epígrafe) — Necessidade do pedido e da contradição |  |
+| art. 3.º, n.º 4, CPC | conferida (epígrafe) — Necessidade do pedido e da contradição |  |
+| art. 588.º CPC | conferida (epígrafe) — Termos em que são admitidos |  |
+| art. 588.º CPC | conferida (epígrafe) — Termos em que são admitidos |  |
+| art. 588.º CPC | conferida (epígrafe) — Termos em que são admitidos |  |
+| art. 552.º, n.º 6, CPC | conferida (índice) |  |
+| art. 552.º, n.º 6, CPC | conferida (índice) |  |
+| art. 552.º, n.º 6, CPC | conferida (índice) |  |
+| art. 552.º, n.º 6, CPC | conferida (índice) |  |
 | art. 265.º CPC | conferida (epígrafe) — Alteração do pedido e da causa de pedir na falta de acordo |  |
+| art. 584.º, n.º 2, CPC | conferida (epígrafe) — Função da réplica |  |
+| art. 584.º, n.º 2, CPC | conferida (epígrafe) — Função da réplica |  |
+| art. 584.º, n.º 1, CPC | conferida (epígrafe) — Função da réplica |  |
+| art. 588.º, n.os 1 e 2, CPC | conferida (epígrafe) — Termos em que são admitidos |  |
+| art. 511.º, n.º 2, CPC | conferida (epígrafe) — Limite do número de testemunhas |  |
 | art. 585.º CPC | conferida (epígrafe) — Prazo da réplica |  |

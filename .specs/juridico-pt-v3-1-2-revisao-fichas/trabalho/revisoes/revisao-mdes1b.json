@@ -1,0 +1,300 @@
+[
+  {
+    "codigo": "DES-023",
+    "veredicto": "corrigida",
+    "resumo": "A ficha trocava os limites do art. 15.º FFAR (são 5 % da remuneração até 200 000 USD e 3 % sobre o excedente, 10 % e 6 % na dupla representação e 10 % da compensação de transferência) e citava artigos do FFAR que tratam de outras matérias (o art. 19.º é a publicação de dados, não os menores; a duração está no art. 12.º, não no 14.º). Ignorava o regime português do empresário desportivo (arts. 36.º a 39.º da Lei n.º 54/2017), mais estrito do que o FFAR: registo na federação sob pena de nulidade, limite de 10 % da retribuição líquida quando paga pelo praticante, duração máxima de dois anos sem renovação automática, proibição de representar menores e de agir por conta das duas partes. Corrigiram-se também o regulamento da FPF, o registo (plataforma de agentes da FIFA, não o TMS), o foro dos litígios e a descrição do índice, e assinalou-se a suspensão de várias regras do FFAR pela FIFA e o acórdão do TJUE de 16/07/2026 (C-209/23).",
+    "descricao": "Elabora contrato de representação ou intermediação desportiva entre agente de futebol e jogador (ou clube), em conformidade com o Regulamento de Agentes de Futebol da FIFA (FFAR, edição de 2025: licença, contrato de representação, honorários e respetivos limites, representação de menores), o regulamento nacional de agentes da FPF e o regime do empresário desportivo dos artigos 36.º a 39.º da Lei n.º 54/2017 (registo na federação, forma escrita, limite de 10 % da retribuição líquida quando paga pelo praticante, duração máxima de dois anos e proibição de representar menores).",
+    "descricao_en": "Prepares a sports representation or intermediation agreement between a football agent and a player (or club), in compliance with the FIFA Football Agent Regulations (FFAR, 2025 edition: licence, representation agreement, service fees and caps, representation of minors), the FPF national football agent regulations and the sports agent regime in Articles 36 to 39 of Law No. 54/2017 (registration with the federation, written form, 10% cap on the player's net pay where the player pays, two-year maximum term and ban on representing minors).",
+    "substituicoes": [
+      {
+        "de": "- Registo do intermediário junto da FIFA/FPF (obrigatório — art. 6.º FFAR)",
+        "para": "- Licença FIFA de agente de futebol, emitida a pessoa singular (arts. 4.º e 8.º FFAR), e registo como empresário desportivo na federação (art. 37.º da Lei n.º 54/2017: são nulos os contratos celebrados com empresário não registado)",
+        "motivo": "O art. 6.º FFAR regula o exame; a licença está nos arts. 4.º e 8.º. A lei portuguesa exige ainda o registo na federação, sob pena de nulidade do contrato.",
+        "fonte": "https://dre.pt/application/file/a/107688307"
+      },
+      {
+        "de": "- Limites de comissão aplicáveis (art. 15.º FFAR: 3 % para atleta com salário ≤ €200k/ano; 5 % geral)",
+        "para": "- Limites de comissão aplicáveis: art. 15.º FFAR (a representar o jogador ou o clube contratante, 5 % da remuneração anual até 200 000 USD e 3 % sobre o excedente; na dupla representação permitida, 10 % e 6 %; a representar o clube cedente, 10 % da compensação de transferência), cuja aplicação a FIFA suspendeu temporariamente a nível mundial [■ VERIFICAR: se a suspensão se mantém depois do acórdão do TJUE de 16/07/2026, processo C-209/23]; na lei portuguesa, a remuneração paga pelo praticante não pode exceder 10 % do montante líquido da sua retribuição (art. 38.º, n.º 3, da Lei n.º 54/2017)",
+        "motivo": "Os limites estavam invertidos e na moeda errada; faltavam o limite legal português e a suspensão do art. 15.º, n.ºs 1 a 4, decidida pela FIFA.",
+        "fonte": "https://digitalhub.fifa.com/asset/5c0e740b-0810-4349-a7ba-256b16bda300/FIFA-Legal-Handbook-2026.pdf"
+      },
+      {
+        "de": "- Incompatibilidades (menores — art. 19.º FFAR)",
+        "para": "- Incompatibilidades: é vedada ao empresário desportivo a representação de praticantes menores de idade (art. 36.º, n.º 3, da Lei n.º 54/2017; art. 37.º, n.º 2, da Lei n.º 5/2007), regra mais estrita do que a do art. 13.º FFAR, que admite a representação de menores com condições; inibições do art. 39.º da Lei n.º 54/2017 (sociedades desportivas, clubes, dirigentes, treinadores, praticantes, árbitros, médicos e massagistas)",
+        "motivo": "O art. 19.º FFAR trata da divulgação e publicação; os menores estão no art. 13.º FFAR, que não os proíbe. A proibição resulta da lei portuguesa.",
+        "fonte": "https://dre.pt/application/file/a/107688307"
+      },
+      {
+        "de": "- FFAR, arts. 6.º (licença), 13.º a 17.º (honorários e representação), 19.º (menores)",
+        "para": "- FFAR (edição de 2025), arts. 4.º a 8.º (licença), 12.º (contrato de representação e dupla representação), 13.º (menores), 14.º e 15.º (honorários e respetivos limites), 16.º (direitos e deveres do agente) e 20.º (litígios)",
+        "motivo": "Remissões para os artigos do FFAR que tratam efetivamente de cada matéria (edição aprovada em 10/12/2024, em vigor desde 1/01/2025).",
+        "fonte": "https://digitalhub.fifa.com/asset/5c0e740b-0810-4349-a7ba-256b16bda300/FIFA-Legal-Handbook-2026.pdf"
+      },
+      {
+        "de": "- Regulamento de Intermediários FPF (registo, comunicação)",
+        "para": "- Regulamento nacional de agentes de futebol da FPF, que o art. 3.º FFAR impõe às federações desde 30/09/2023 em substituição do anterior regime de intermediários (registo, comunicação) [■ VERIFICAR: designação e versão em vigor do regulamento da FPF]",
+        "motivo": "O regime de intermediários foi substituído pelo FFAR, que obriga as federações a adotar regulamentos nacionais de agentes.",
+        "fonte": "https://digitalhub.fifa.com/asset/5c0e740b-0810-4349-a7ba-256b16bda300/FIFA-Legal-Handbook-2026.pdf"
+      },
+      {
+        "de": "- Art. 394.º CT e art. 26.º LCTD (relação laboral subjacente)",
+        "para": "- Lei n.º 54/2017 (LCTD), arts. 36.º a 39.º: exercício da atividade de empresário desportivo, registo na federação, contrato de representação ou intermediação (prestação de serviço, forma escrita, limite de remuneração e duração) e inibições; art. 37.º, n.º 3, da Lei n.º 5/2007 (sigilo profissional)",
+        "motivo": "O art. 394.º CT (resolução pelo trabalhador) e o art. 26.º LCTD (responsabilidade solidária) não regulam a intermediação; o regime está nos arts. 36.º a 39.º da Lei n.º 54/2017.",
+        "fonte": "https://dre.pt/application/file/a/107688307"
+      },
+      {
+        "de": "- Prazo do mandato (máx. 2 anos renováveis — art. 14.º FFAR)",
+        "para": "- Prazo do mandato: máximo de 2 anos em qualquer caso (art. 38.º, n.º 4, da Lei n.º 54/2017; no FFAR, o limite só se aplica ao contrato com o jogador — art. 12.º, n.ºs 3 e 5), sem renovação automática, só por novo acordo (art. 38.º, n.º 5, da Lei n.º 54/2017; art. 12.º, n.º 3, FFAR)",
+        "motivo": "A duração está no art. 12.º FFAR, não no 14.º; a renovação automática é nula e a lei portuguesa limita a 2 anos qualquer contrato de representação.",
+        "fonte": "https://dre.pt/application/file/a/107688307"
+      },
+      {
+        "de": "- Proibições (dupla representação sem consentimento escrito)",
+        "para": "- Proibições: representação de mais de uma parte na mesma operação (a lei portuguesa só permite ao empresário agir por conta de uma das partes e ser remunerado por esta — art. 36.º, n.º 2, da Lei n.º 54/2017; o FFAR só admite a dupla representação do jogador e do clube contratante, com consentimento escrito prévio de ambos — art. 12.º, n.º 8, FFAR) [■ VERIFICAR: articulação dos dois regimes no caso concreto]",
+        "motivo": "A lei portuguesa proíbe a representação das duas partes; o FFAR só a admite entre jogador e clube contratante.",
+        "fonte": "https://dre.pt/application/file/a/107688307"
+      },
+      {
+        "de": "- Registo obrigatório no sistema FIFA e FPF",
+        "para": "- Comunicação do contrato na plataforma de agentes da FIFA (art. 16.º FFAR) [■ VERIFICAR: obrigação abrangida pela suspensão decidida pela FIFA] e registo junto da FPF",
+        "motivo": "Os contratos de representação são carregados na plataforma de agentes da FIFA; o dever de reporte do art. 16.º está entre as regras suspensas.",
+        "fonte": "https://inside.fifa.com/legal/football-regulatory/agents/news/information-on-the-preliminary-injunction-granted-by-the-landgericht"
+      },
+      {
+        "de": "- Lei aplicável e TAD como instância de resolução de litígios",
+        "para": "- Lei aplicável e resolução de litígios: Câmara de Agentes do Tribunal do Futebol da FIFA nos contratos com dimensão internacional e órgão previsto no regulamento nacional nos restantes, sem prejuízo dos tribunais comuns (art. 20.º FFAR) [■ VERIFICAR: regra abrangida pela suspensão decidida pela FIFA]; arbitragem voluntária do TAD mediante convenção de arbitragem (art. 6.º da Lei n.º 74/2013)",
+        "motivo": "O TAD só é competente por convenção de arbitragem; o FFAR atribui os litígios à Câmara de Agentes ou ao órgão nacional, sem afastar os tribunais comuns.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1988A0006&nid=1988&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- [ ] Intermediário com licença FIFA/FPF válida",
+        "para": "- [ ] Agente com licença FIFA válida e registado como empresário desportivo na FPF (art. 37.º da Lei n.º 54/2017)",
+        "motivo": "A licença é emitida pela FIFA; a federação faz o registo, de que depende a validade do contrato.",
+        "fonte": "https://dre.pt/application/file/a/107688307"
+      },
+      {
+        "de": "- [ ] Honorários dentro dos limites do art. 15.º FFAR",
+        "para": "- [ ] Honorários dentro dos limites do art. 15.º FFAR (conferir o estado da suspensão) e, se pagos pelo praticante, até 10 % do montante líquido da retribuição (art. 38.º, n.º 3, da Lei n.º 54/2017)",
+        "motivo": "Falta o limite imperativo da lei portuguesa.",
+        "fonte": "https://dre.pt/application/file/a/107688307"
+      },
+      {
+        "de": "- [ ] Contrato registado no sistema TMS da FIFA e FPF",
+        "para": "- [ ] Contrato comunicado na plataforma de agentes da FIFA (o TMS é o sistema dos clubes) e registado na FPF",
+        "motivo": "O agente reporta na plataforma de agentes da FIFA; o TMS é usado pelos clubes (art. 18.º FFAR).",
+        "fonte": "https://digitalhub.fifa.com/asset/5c0e740b-0810-4349-a7ba-256b16bda300/FIFA-Legal-Handbook-2026.pdf"
+      },
+      {
+        "de": "- [ ] Consentimento por escrito em caso de dupla representação",
+        "para": "- [ ] Dupla representação: consentimento escrito prévio de ambos os clientes (art. 12.º, n.º 8, FFAR) e admissibilidade conferida face ao art. 36.º, n.º 2, da Lei n.º 54/2017",
+        "motivo": "A lei portuguesa só permite agir por conta de uma das partes.",
+        "fonte": "https://dre.pt/application/file/a/107688307"
+      },
+      {
+        "de": "- [ ] Proibição de intermediação com menores respeitada (art. 19.º FFAR)",
+        "para": "- [ ] Proibição de representação de menores respeitada (art. 36.º, n.º 3, da Lei n.º 54/2017)",
+        "motivo": "A proibição resulta da lei portuguesa; o art. 19.º FFAR trata da publicação de dados.",
+        "fonte": "https://dre.pt/application/file/a/107688307"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Confirmar se a FIFA mantém suspensas, a nível mundial, as regras do FFAR afetadas pela providência cautelar alemã (limite de honorários, pagamento pelo cliente, proibição de dupla representação, deveres de reporte, publicação e foro) depois do acórdão do TJUE de 16/07/2026 (C-209/23), que deixou ao tribunal de Mainz a apreciação final e considerou que a regra da janela de dois meses para abordar clientes vinculados por contrato de exclusividade parece, em qualquer caso, incompatível com a proibição de cartéis.",
+      "Confirmar a designação, a data e o conteúdo do regulamento nacional de agentes da FPF em vigor (registo, comunicação e órgão competente para os litígios sem dimensão internacional).",
+      "A Lei n.º 54/2017 foi conferida na redação publicada em 14/07/2017; confirmar no Diário da República se sofreu alterações nos arts. 36.º a 39.º.",
+      "Se o cliente for menor, a representação é vedada pela lei portuguesa (art. 36.º, n.º 3, da Lei n.º 54/2017), ainda que o FFAR a admita com condições (art. 13.º); o art. 3.º, n.º 3, FFAR admite regras nacionais mais estritas.",
+      "Quando a remuneração for paga pelo praticante, o dever de pagamento só se mantém enquanto o contrato de representação estiver em vigor (art. 38.º, n.º 3, da Lei n.º 54/2017); conferir a compatibilidade com o pagamento diferido do art. 14.º, n.º 5, al. a), FFAR."
+    ],
+    "fontes": [
+      "https://dre.pt/application/file/a/107688307",
+      "https://files.diariodarepublica.pt/1s/2007/01/01100/03560363.pdf",
+      "https://digitalhub.fifa.com/asset/5c0e740b-0810-4349-a7ba-256b16bda300/FIFA-Legal-Handbook-2026.pdf",
+      "https://inside.fifa.com/legal/football-regulatory/agents/news/information-on-the-preliminary-injunction-granted-by-the-landgericht",
+      "https://curia.europa.eu/site/upload/docs/application/pdf/2026-07/cp260110en.pdf",
+      "https://inside.fifa.com/transfer-system/agents/news/welcomes-court-of-justice-european-union-decision-football-agent-regulations",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1988A0006&nid=1988&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.dnoticias.pt/2023/9/27/376929-associacao-nacional-questiona-legalidade-de-regulamento-sobre-agentes-de-futebol/"
+    ]
+  },
+  {
+    "codigo": "DES-027",
+    "veredicto": "corrigida",
+    "resumo": "A ficha fundava o seguro em normas que não tratam dele (o art. 41.º da Lei n.º 54/2017 é a modalidade contratual intermédia e o art. 25.º da Lei n.º 5/2007 a disciplina e arbitragem) e afirmava uma «obrigação de manutenção da retribuição» que o CT não prevê: a falta por acidente de trabalho determina perda de retribuição quando há seguro (art. 255.º, n.º 2, al. b), CT), compensada pela indemnização por incapacidade temporária da seguradora. Reorganizou-se a responsabilidade do clube pelo regime dos acidentes de trabalho (Lei n.º 98/2009, arts. 17.º e 18.º, e Lei n.º 48/2023 para os praticantes profissionais), reservando os arts. 483.º e 500.º CC aos não profissionais e a terceiros, e acrescentou-se a caducidade de um ano após a alta clínica (art. 179.º da Lei n.º 98/2009). Corrigiu-se a descrição do índice.",
+    "descricao": "Analisa o seguro de acidentes de trabalho do praticante desportivo profissional (artigo 7.º, n.º 4, da Lei n.º 54/2017 e Lei n.º 48/2023) e o seguro desportivo obrigatório dos agentes desportivos inscritos nas federações (artigo 42.º da Lei n.º 5/2007 e Decreto-Lei n.º 10/2009), avalia a cobertura da apólice, identifica lacunas e elabora parecer sobre a responsabilidade do clube/SAD em caso de lesão do atleta durante a prática desportiva ou treino.",
+    "descricao_en": "Analyses the workplace accident insurance of professional athletes (Article 7(4) of Law No. 54/2017 and Law No. 48/2023) and the mandatory sports insurance of sports agents registered with federations (Article 42 of Law No. 5/2007 and Decree-Law No. 10/2009), assesses the policy coverage, identifies gaps and prepares an opinion on the liability of the club/SAD (sports public limited company) where the athlete is injured during sporting activity or training.",
+    "substituicoes": [
+      {
+        "de": "- Existência e validade do seguro desportivo obrigatório",
+        "para": "- Existência e validade do seguro aplicável (de acidentes de trabalho, se o atleta for praticante desportivo profissional; seguro desportivo obrigatório, nos restantes casos)",
+        "motivo": "O praticante profissional está coberto pelo seguro de acidentes de trabalho, que dispensa o seguro de acidentes pessoais ou de grupo (art. 15.º da Lei n.º 48/2023).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3699&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- Art. 41.º LCTD e art. 25.º LBAFD (seguro obrigatório)",
+        "para": "- Praticante desportivo profissional: seguro de acidentes de trabalho, de que a entidade empregadora faz prova no registo do contrato (art. 7.º, n.º 4, da Lei n.º 54/2017 — LCTD), com o regime específico de reparação da Lei n.º 48/2023 (que dispensa a cobertura por seguro de acidentes pessoais ou de grupo — art. 15.º, n.º 2) e, subsidiariamente, a Lei n.º 98/2009 (art. 16.º da Lei n.º 48/2023); agentes desportivos não profissionais inscritos nas federações: seguro desportivo obrigatório (art. 42.º da Lei n.º 5/2007 — LBAFD — e Decreto-Lei n.º 10/2009)",
+        "motivo": "O art. 41.º LCTD trata da modalidade contratual intermédia e o art. 25.º LBAFD da disciplina e arbitragem; o seguro do profissional é o de acidentes de trabalho e o seguro desportivo consta do art. 42.º LBAFD.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3699&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- Obrigação de manutenção de retribuição durante lesão (arts. 254.º e 255.º CT)",
+        "para": "- Retribuição durante a incapacidade: a falta por acidente de trabalho é justificada, mas determina a perda de retribuição quando o trabalhador tenha direito a subsídio ou seguro (art. 255.º, n.º 2, al. b), CT); a perda é compensada pela indemnização por incapacidade temporária a cargo da seguradora (na incapacidade temporária absoluta, 70 % da retribuição nos primeiros 12 meses e 75 % depois — art. 48.º, n.º 3, al. d), da Lei n.º 98/2009); um complemento a cargo do clube só existe se previsto na convenção coletiva aplicável ou no contrato [■ VERIFICAR: convenção coletiva da modalidade e contrato]",
+        "motivo": "O CT não impõe a manutenção da retribuição; o art. 255.º, n.º 2, al. b), determina a perda quando há seguro.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0255&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Responsabilidade civil do clube por dano corporal (arts. 483.º e 500.º CC)",
+        "para": "- Responsabilidade do clube perante o praticante profissional: reparação pelo regime dos acidentes de trabalho, agravada (totalidade dos danos patrimoniais e não patrimoniais) se o acidente for provocado pelo empregador ou resultar da falta de observação das regras de segurança e saúde no trabalho (art. 18.º da Lei n.º 98/2009); ação de responsabilidade civil nos termos gerais contra outro trabalhador ou terceiro que tenha causado o acidente (art. 17.º da Lei n.º 98/2009); perante praticantes não profissionais e terceiros, responsabilidade civil geral (arts. 483.º e 500.º CC)",
+        "motivo": "Os danos do praticante-trabalhador em serviço seguem o regime dos acidentes de trabalho; a responsabilidade civil geral só intervém contra terceiros ou no agravamento por culpa do empregador.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1156A0018&nid=1156&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Prazo de prescrição da ação de responsabilidade (art. 498.º CC — 3 anos)",
+        "para": "- Prazos: o direito de ação respeitante às prestações por acidente de trabalho caduca no prazo de um ano a contar da alta clínica formalmente comunicada ao sinistrado (art. 179.º, n.º 1, da Lei n.º 98/2009); a ação de responsabilidade civil extracontratual prescreve em 3 anos (art. 498.º CC)",
+        "motivo": "Faltava o prazo de caducidade das prestações por acidente de trabalho, que é o determinante para o praticante profissional.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1156A0179&nid=1156&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Direitos do atleta (seguro + responsabilidade civil + manutenção do salário)",
+        "para": "- Direitos do atleta (prestações do seguro de acidentes de trabalho ou do seguro desportivo, responsabilidade agravada do empregador ou responsabilidade civil de terceiros, e eventual complemento retributivo previsto em convenção coletiva ou no contrato)",
+        "motivo": "Não há direito legal à manutenção do salário durante a incapacidade.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0255&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- [ ] Manutenção do salário durante incapacidade assegurada",
+        "para": "- [ ] Indemnização por incapacidade temporária paga pela seguradora e eventual complemento a cargo do clube (convenção coletiva ou contrato) conferido",
+        "motivo": "Não há direito legal à manutenção do salário (art. 255.º, n.º 2, al. b), CT).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1156A0048&nid=1156&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- [ ] Prazo de prescrição da ação civil monitorizado",
+        "para": "- [ ] Prazos monitorizados: caducidade de um ano após a alta clínica (art. 179.º, n.º 1, da Lei n.º 98/2009) e prescrição de três anos da ação civil (art. 498.º CC)",
+        "motivo": "Faltava a caducidade do direito às prestações por acidente de trabalho.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1156A0179&nid=1156&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Verificar a convenção coletiva da modalidade (no futebol, o CCT entre a Liga e o Sindicato dos Jogadores) e o contrato: podem obrigar o clube a complementar a indemnização por incapacidade temporária até à retribuição.",
+      "Nos seguros de acidentes de trabalho de praticantes profissionais podem ser estabelecidas franquias para as incapacidades temporárias (art. 5.º da Lei n.º 48/2023); confirmar na apólice quem suporta o período abrangido.",
+      "A Lei n.º 48/2023 só se aplica a acidentes ocorridos depois da sua entrada em vigor (art. 18.º); para acidentes anteriores, aplica-se a Lei n.º 27/2011, entretanto revogada.",
+      "A Lei n.º 5/2007 foi conferida na redação publicada; confirmar no Diário da República se o art. 42.º foi alterado e o âmbito do Decreto-Lei n.º 10/2009 (pessoas abrangidas e coberturas mínimas), cujo texto não foi possível ler na fonte oficial.",
+      "Confirmar o prazo e a forma de participação do acidente ao empregador e à seguradora (Lei n.º 98/2009) e as regras de revisão da incapacidade do praticante profissional (art. 13.º da Lei n.º 48/2023)."
+    ],
+    "fontes": [
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3699&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://dre.pt/application/file/a/107688307",
+      "https://files.diariodarepublica.pt/1s/2007/01/01100/03560363.pdf",
+      "https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2009-397323",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0255&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1156A0017&nid=1156&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1156A0018&nid=1156&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1156A0048&nid=1156&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1156A0179&nid=1156&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+    ]
+  },
+  {
+    "codigo": "DES-031",
+    "veredicto": "corrigida",
+    "resumo": "A ficha remetia o regime fiscal para o art. 23.º do EBF (que trata dos organismos de investimento alternativo de capital de risco e de créditos) e mandava verificar o «benefício fiscal do mecenato», confundindo o patrocínio, contrato oneroso com contrapartidas, com o donativo, que o art. 61.º EBF define pela ausência de contrapartidas; o patrocínio é gasto do patrocinador nos termos do art. 23.º CIRC. Citava ainda o art. 27.º da Lei n.º 5/2007 como norma sobre patrocínio, quando trata das sociedades desportivas, e apresentava os arts. 8.º e ss. do Código da Publicidade como «publicidade especial». Substituíram-se essas remissões pelas restrições efetivamente aplicáveis: bebidas alcoólicas (art. 17.º), jogos e apostas (art. 21.º) e a proibição do patrocínio pelo setor do tabaco (art. 18.º da Lei n.º 37/2007).",
+    "substituicoes": [
+      {
+        "de": "- Código da Publicidade (DL 330/90), arts. 8.º e ss. (publicidade especial)",
+        "para": "- Código da Publicidade (DL 330/90): princípios gerais (arts. 6.º a 13.º, incluindo a identificabilidade — art. 8.º) e restrições ao objeto da publicidade, em especial bebidas alcoólicas (art. 17.º, que proíbe a exibição de marcas de bebidas alcoólicas em eventos desportivos em que participem menores — n.ºs 5 e 6) e jogos e apostas (art. 21.º, que exclui menções a jogos e apostas nos eventos em que menores participem como intervenientes principais — n.º 5)",
+        "motivo": "Os arts. 8.º e ss. são os princípios gerais e as restrições ao conteúdo e ao objeto, não «publicidade especial»; as restrições relevantes para o patrocínio desportivo estão nos arts. 17.º e 21.º.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=390&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- Lei n.º 5/2007 (LBAFD), art. 27.º (patrocínio desportivo)",
+        "para": "- Tabaco: é proibido qualquer contributo, designadamente patrocínio de eventos ou atividades, que vise ou tenha por efeito a promoção de produtos do tabaco (art. 18.º da Lei n.º 37/2007; o art. 18.º do Código da Publicidade foi revogado)",
+        "motivo": "O art. 27.º da Lei n.º 5/2007 trata das sociedades desportivas e a LBAFD não regula o patrocínio; a restrição legal relevante que faltava é a do tabaco.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1066&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- Regime fiscal do patrocínio (Estatuto dos Benefícios Fiscais, art. 23.º)",
+        "para": "- Regime fiscal do patrocínio: para o patrocinador, gasto dedutível nos termos gerais (art. 23.º CIRC); não é donativo, porque o mecenato pressupõe entregas sem contrapartidas de carácter pecuniário ou comercial (art. 61.º EBF)",
+        "motivo": "O art. 23.º EBF trata dos organismos de investimento alternativo de capital de risco e de créditos; o patrocínio é gasto nos termos do CIRC.",
+        "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/bf_rep/Pages/ebf-artigo-23-ordm.aspx"
+      },
+      {
+        "de": "- [ ] Regime fiscal verificado (benefício fiscal do mecenato)",
+        "para": "- [ ] Regime fiscal verificado (gasto do patrocinador nos termos do art. 23.º CIRC; o patrocínio, por ter contrapartidas, não beneficia do regime do mecenato)",
+        "motivo": "Patrocínio e mecenato são figuras distintas: o donativo não tem contrapartidas (art. 61.º EBF).",
+        "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/bf_rep/Pages/ebf-artigo-61-ordm-.aspx"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Confirmar o regime da publicidade de jogo online e das apostas desportivas (incluindo regras próprias do Regime Jurídico dos Jogos e Apostas Online e do regulador) quando o patrocinador seja operador de jogo.",
+      "Se o cliente pretender um verdadeiro donativo sem contrapartidas, o mecenato desportivo segue o art. 62.º EBF (com alterações do Decreto-Lei n.º 167/2026), que, nas associações desportivas, exclui os donativos às secções que participem em competições desportivas de natureza profissional.",
+      "Confirmar o tratamento em IVA da prestação de serviços de publicidade e a eventual contrapartida em espécie (permuta).",
+      "Confirmar os regulamentos da FPF e da Liga sobre publicidade nos equipamentos e nos recintos na época em causa."
+    ],
+    "fontes": [
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=390&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1066&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/bf_rep/Pages/ebf-artigo-23-ordm.aspx",
+      "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/bf_rep/Pages/ebf-artigo-61-ordm-.aspx",
+      "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/bf_rep/Pages/ebf-artigo-62-ordm-.aspx",
+      "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/CIRC_2R/Pages/circ-codigo-do-irc-indice.aspx",
+      "https://files.diariodarepublica.pt/1s/2007/01/01100/03560363.pdf"
+    ]
+  },
+  {
+    "codigo": "DES-032",
+    "veredicto": "corrigida",
+    "resumo": "A ficha citava o art. 28.º da Lei n.º 5/2007 como norma sobre direitos de transmissão (trata da educação física e do desporto escolar) e o «Decreto-Lei n.º 339-A/99» como Lei da Televisão, que é a Lei n.º 27/2007; e afirmava um «direito de autor sobre a competição», quando o TJUE decidiu que os jogos de futebol não são obras (acórdão FAPL, C-403/08 e C-429/08). Substituíram-se as remissões pelos arts. 32.º e 33.º da Lei n.º 27/2007 (direitos exclusivos, acontecimentos de interesse generalizado e extratos informativos), pelos direitos conexos do CDADC (arts. 184.º e 187.º) e pelo Decreto-Lei n.º 22-B/2021, que regula a comercialização dos direitos das competições de futebol profissional, em lugar de «direitos coletivos da LPFP». Corrigiu-se a descrição do índice.",
+    "descricao": "Analisa e elabora contratos de licença de direitos de transmissão televisiva e audiovisual de competições ou eventos desportivos, em conformidade com a Lei da Televisão e dos Serviços Audiovisuais a Pedido (Lei n.º 27/2007: direitos exclusivos, acontecimentos de interesse generalizado do público e extratos informativos), o Decreto-Lei n.º 22-B/2021 (comercialização dos direitos de transmissão das competições de futebol profissional) e os direitos conexos do CDADC, distinguindo a venda individual pelos clubes da comercialização centralizada.",
+    "descricao_en": "Analyses and prepares licence agreements for television and audiovisual broadcasting rights in sports competitions or events, in compliance with the Television and On-Demand Audiovisual Services Law (Law No. 27/2007: exclusive rights, events of major public interest and short news extracts), Decree-Law No. 22-B/2021 (selling of broadcasting rights in professional football competitions) and the related rights under the Copyright Code (CDADC), distinguishing individual sales by clubs from centralised selling.",
+    "substituicoes": [
+      {
+        "de": "- Articulação com direitos coletivos da LPFP",
+        "para": "- Articulação com o regime de comercialização dos direitos das competições de futebol profissional (Decreto-Lei n.º 22-B/2021, que prevê a comercialização centralizada a partir da época 2028/2029) [■ VERIFICAR: termos e calendário da centralização e duração admitida aos contratos celebrados pelos clubes]",
+        "motivo": "Os direitos das competições profissionais não são hoje geridos coletivamente pela Liga; o regime de transição consta do Decreto-Lei n.º 22-B/2021.",
+        "fonte": "https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-b-2021-159869156"
+      },
+      {
+        "de": "- Art. 28.º LBAFD (direitos de transmissão desportiva)",
+        "para": "- Decreto-Lei n.º 22-B/2021 (titularidade e comercialização dos direitos de transmissão televisiva e multimédia das competições de futebol profissional) [■ VERIFICAR: texto em vigor]",
+        "motivo": "O art. 28.º da Lei n.º 5/2007 trata da educação física e do desporto escolar; a LBAFD não regula os direitos de transmissão.",
+        "fonte": "https://files.diariodarepublica.pt/1s/2007/01/01100/03560363.pdf"
+      },
+      {
+        "de": "- Lei da Televisão (Lei n.º 27/2007) — deveres de serviço público",
+        "para": "- Lei da Televisão e dos Serviços Audiovisuais a Pedido (Lei n.º 27/2007): aquisição de direitos exclusivos e acontecimentos de interesse generalizado do público (art. 32.º) e direito a extratos informativos (art. 33.º)",
+        "motivo": "As normas da Lei da Televisão relevantes para a licença de direitos desportivos são as dos arts. 32.º e 33.º; os deveres de serviço público respeitam à concessionária.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=923&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- Regulamento de Distribuição de Receitas Televisivas LPFP",
+        "para": "- Regulamentação da Liga e da FPF sobre a comercialização centralizada e a repartição das receitas [■ VERIFICAR: modelo aprovado e regulamento em vigor]",
+        "motivo": "Não foi possível confirmar a existência de um regulamento com esta designação; a repartição de receitas depende do modelo de centralização ainda em preparação.",
+        "fonte": "https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-b-2021-159869156"
+      },
+      {
+        "de": "- Direito de autor sobre a competição (produtor do evento)",
+        "para": "- Proteção jurídica do evento: os jogos não são obras protegidas pelo direito de autor (TJUE, acórdão de 4/10/2011, Football Association Premier League, C-403/08 e C-429/08, n.ºs 96 a 99), cabendo ao direito nacional proteger o evento enquanto tal (n.ºs 100 a 102); sobre a gravação e a emissão existem os direitos conexos do produtor do videograma (art. 184.º CDADC) e do organismo de radiodifusão (art. 187.º CDADC)",
+        "motivo": "Os eventos desportivos não são obras; existem direitos conexos sobre a gravação e a emissão.",
+        "fonte": "https://publications.europa.eu/resource/celex/62008CJ0403"
+      },
+      {
+        "de": "- [ ] Direitos coletivos da LPFP respeitados",
+        "para": "- [ ] Regime de comercialização das competições profissionais respeitado (Decreto-Lei n.º 22-B/2021; duração compatível com a comercialização centralizada a partir da época 2028/2029) [■ VERIFICAR]",
+        "motivo": "A verificação deve incidir no regime legal de comercialização, não em direitos coletivos da Liga.",
+        "fonte": "https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-b-2021-159869156"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Não foi possível ler o texto oficial do Decreto-Lei n.º 22-B/2021 (o Diário da República não devolveu o conteúdo); confirmar a titularidade dos direitos, a data da comercialização centralizada (2028/2029, segundo a imprensa, com a proposta conjunta FPF/Liga sujeita à Autoridade da Concorrência) e a duração máxima dos contratos atuais, bem como a petição para a sua suspensão noticiada em agosto de 2026.",
+      "Confirmar a lista anual dos acontecimentos de interesse generalizado do público (art. 32.º, n.º 4, da Lei n.º 27/2007), publicada até 31 de outubro de cada ano, se a competição nela constar.",
+      "Confirmar a redação consolidada dos arts. 32.º e 33.º da Lei n.º 27/2007 (alterada, entre outras, pela Lei n.º 74/2020) quanto aos extratos em serviços audiovisuais a pedido.",
+      "Os direitos de imagem dos praticantes nas transmissões dependem do contrato de trabalho desportivo e da convenção coletiva; confirmar as cláusulas aplicáveis."
+    ],
+    "fontes": [
+      "https://files.diariodarepublica.pt/1s/2007/01/01100/03560363.pdf",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=923&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-b-2021-159869156",
+      "https://publications.europa.eu/resource/celex/62008CJ0403",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=484A0184&nid=484&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=484A0187&nid=484&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.abola.pt/noticias/o-decreto-lei-no-22-b2021-2026041618241775694",
+      "https://www.rtp.pt/noticias/futebol-nacional/liga-garante-cumprimento-da-lei-que-centraliza-direitos-televisivos_d1758434"
+    ]
+  }
+]

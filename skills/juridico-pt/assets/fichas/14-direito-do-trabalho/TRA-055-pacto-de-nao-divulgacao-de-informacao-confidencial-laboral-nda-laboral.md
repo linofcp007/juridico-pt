@@ -3,20 +3,22 @@ codigo: TRA-055
 area: "Direito do Trabalho"
 titulo: "Pacto de Não Divulgação de Informação Confidencial Laboral (NDA Laboral)"
 titulo_en: "Employee Non-Disclosure Agreement for Confidential Information (Employment NDA)"
-descricao: "Gera a cláusula contratual ou acordo autónomo de confidencialidade e não divulgação de informação confidencial no contexto laboral, ao abrigo dos arts. 128.º, n.º 1, al. f), e 129.º, n.º 1, al. g), do Código do Trabalho, complementado pelo regime do segredo de negócio (Lei n.º 93/2017, de 23 de agosto, que transpôs a Diretiva 2016/943/UE). O documento distingue-se do pacto de não concorrência pós-contratual por incidir sobre a proteção de informação e não sobre a proibição de exercício de atividade."
-descricao_en: "Generates the contractual clause or stand-alone confidentiality and non-disclosure agreement in an employment context, under Arts. 128(1)(f) and 129(1)(g) of the Labour Code, supplemented by the trade secrets regime (Law No. 93/2017 of 23 August, which transposed Directive (EU) 2016/943). The document differs from a post-contractual non-compete agreement in that it protects information rather than prohibiting an activity."
+descricao: "Gera a cláusula contratual ou acordo autónomo de confidencialidade e não divulgação de informação confidencial no contexto laboral, ao abrigo do art. 128.º, n.º 1, al. f), do Código do Trabalho (dever de lealdade), complementado pelo regime dos segredos comerciais do Código da Propriedade Industrial (arts. 313.º a 315.º, aprovado pelo Decreto-Lei n.º 110/2018, de 10 de dezembro, que transpôs a Diretiva (UE) 2016/943). O documento distingue-se do pacto de não concorrência pós-contratual por incidir sobre a proteção de informação e não sobre a proibição de exercício de atividade."
+descricao_en: "Generates the contractual clause or stand-alone confidentiality and non-disclosure agreement in an employment context, under Art. 128(1)(f) of the Labour Code (duty of loyalty), supplemented by the trade secrets regime of the Industrial Property Code (Arts. 313 to 315, approved by Decree-Law No. 110/2018 of 10 December, which transposed Directive (EU) 2016/943). The document differs from a post-contractual non-compete agreement in that it protects information rather than prohibiting an activity."
 ambito: nacional
-estado_citacoes: "conferidas 5 · corrigidas 0 · por conferir 3"
+estado_citacoes: "conferidas 13 · corrigidas 0 · por conferir 1"
+revisao_tecnica: "2026-10-28 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
 # Pacto de Não Divulgação de Informação Confidencial Laboral (NDA Laboral)
 
 > **Âmbito:** nacional · **Área:** Direito do Trabalho · **Código:** TRA-055
-> **EN:** Employee Non-Disclosure Agreement for Confidential Information (Employment NDA). Generates the contractual clause or stand-alone confidentiality and non-disclosure agreement in an employment context, under Arts. 128(1)(f) and 129(1)(g) of the Labour Code, supplemented by the trade secrets regime (Law No. 93/2017 of 23 August, which transposed Directive (EU) 2016/943). The document differs from a post-contractual non-compete agreement in that it protects information rather than prohibiting an activity.
-> **Citações:** conferidas 5 · corrigidas 0 · por conferir 3. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **EN:** Employee Non-Disclosure Agreement for Confidential Information (Employment NDA). Generates the contractual clause or stand-alone confidentiality and non-disclosure agreement in an employment context, under Art. 128(1)(f) of the Labour Code (duty of loyalty), supplemented by the trade secrets regime of the Industrial Property Code (Arts. 313 to 315, approved by Decree-Law No. 110/2018 of 10 December, which transposed Directive (EU) 2016/943). The document differs from a post-contractual non-compete agreement in that it protects information rather than prohibiting an activity.
+> **Citações:** conferidas 13 · corrigidas 0 · por conferir 1. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-28 — corrigida (6 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
-Gera a cláusula contratual ou acordo autónomo de confidencialidade e não divulgação de informação confidencial no contexto laboral, ao abrigo dos arts. 128.º, n.º 1, al. f), e 129.º, n.º 1, al. g), do Código do Trabalho, complementado pelo regime do segredo de negócio (Lei n.º 93/2017, de 23 de agosto, que transpôs a Diretiva 2016/943/UE). O documento distingue-se do pacto de não concorrência pós-contratual por incidir sobre a proteção de informação e não sobre a proibição de exercício de atividade.
+Gera a cláusula contratual ou acordo autónomo de confidencialidade e não divulgação de informação confidencial no contexto laboral, ao abrigo do art. 128.º, n.º 1, al. f), do Código do Trabalho (dever de lealdade), complementado pelo regime dos segredos comerciais do Código da Propriedade Industrial (arts. 313.º a 315.º, aprovado pelo Decreto-Lei n.º 110/2018, de 10 de dezembro, que transpôs a Diretiva (UE) 2016/943). O documento distingue-se do pacto de não concorrência pós-contratual por incidir sobre a proteção de informação e não sobre a proibição de exercício de atividade.
 
 ## Método
 
@@ -24,7 +26,7 @@ Ficha de trabalho para preparar este documento. As regras da casa prevalecem sob
 
 ## Regras obrigatórias
 — Distingue o dever de sigilo durante o contrato (art. 128.º, n.º 1, al. f), CT — dever legal) da cláusula de confidencialidade pós-contratual (negocial, com limites).
-— O NDA laboral não pode ter âmbito tão amplo que impossibilite o trabalhador de exercer a sua profissão — seria nulo por violação do art. 81.º CC.
+— O NDA laboral não pode ter âmbito tão amplo que impossibilite o trabalhador de exercer a sua profissão — seria nulo por prejudicar o exercício da liberdade de trabalho após a cessação do contrato (art. 136.º, n.º 1, CT), fora das condições do pacto de não concorrência (art. 136.º, n.º 2, CT), sem prejuízo do limite do art. 81.º CC.
 — NUNCA inventes artigos ou normas inexistentes.
 — Assinala [■ VERIFICAR] onde faltar dado.
 
@@ -33,7 +35,7 @@ Ficha de trabalho para preparar este documento. As regras da casa prevalecem sob
 ### ETAPA 1 — DEFINIÇÃO DA INFORMAÇÃO CONFIDENCIAL
 Apresenta dentro de um bloco <informacao_confidencial>:
 - Qual a informação a proteger? (tecnologia proprietária, lista de clientes, planos de produto, dados financeiros, algoritmos, fórmulas)
-- A informação preenche os requisitos de segredo de negócio (art. 2.º Lei 93/2017)?
+- A informação preenche os requisitos de segredo comercial (art. 313.º, n.º 1, CPI, aprovado pelo Decreto-Lei n.º 110/2018, de 10 de dezembro, que transpôs a Diretiva (UE) 2016/943)?
   — Secreta (não conhecida nem facilmente acessível)
   — Valor comercial em virtude do secretismo
   — Objeto de medidas razoáveis para a manter secreta
@@ -44,8 +46,8 @@ Apresenta dentro de um bloco <informacao_confidencial>:
 Apresenta dentro de um bloco <limites>:
 - A cláusula não pode impedir o trabalhador de usar o seu conhecimento técnico geral e experiência profissional adquiridos
 - Distinção entre informação confidencial da empresa (protegida) e know-how pessoal do trabalhador (não protegido)
-- Exceções: denúncia de atividade ilícita (whistleblowing) não pode ser bloqueada por NDA — art. 4.º Lei 93/2017
-- Prazo razoável: para informação comercial, 2-5 anos são aceites; para tecnologia de ponta, prazos mais longos são defensáveis
+- Exceções: a denúncia de infrações nos termos do regime geral de proteção de denunciantes (Lei n.º 93/2021, de 20 de dezembro) não pode ser bloqueada por NDA [■ VERIFICAR: artigo aplicável da Lei n.º 93/2021]; é lícita a obtenção de segredo comercial no exercício do direito dos trabalhadores ou dos seus representantes a informações e consultas (art. 315.º, al. c), CPI)
+- Prazo razoável: a lei não fixa prazo para a confidencialidade pós-contratual; deve ser proporcional à vida útil da informação protegida e não pode funcionar como limitação encoberta da atividade do trabalhador (art. 136.º CT) [■ VERIFICAR: jurisprudência sobre os prazos admitidos]
 
 ### ETAPA 3 — CLÁUSULA / ACORDO DE CONFIDENCIALIDADE
 
@@ -71,7 +73,7 @@ Apresenta dentro de um bloco <limites>:
 [A obrigação de confidencialidade não impede o Trabalhador de: (a) divulgar informação a autoridade judicial ou administrativa no âmbito de processo legal; (b) denunciar atividade ilícita ao abrigo da Lei n.º 93/2021 (whistleblowing).]
 
 **Cláusula 6.ª — Consequências da violação**
-[A violação da obrigação de confidencialidade pode constituir: infração disciplinar grave (durante o contrato); fundamento de ação de responsabilidade civil (art. 483.º CC); providência cautelar de cessação de divulgação (art. 1.º CPT ex vi art. 362.º CPC).]
+[A violação da obrigação de confidencialidade pode constituir: infração disciplinar grave (durante o contrato); fundamento de ação de responsabilidade civil (art. 483.º CC); providência cautelar não especificada (art. 362.º CPC, aplicável com as especialidades do art. 32.º do Código de Processo do Trabalho) [■ VERIFICAR: tribunal competente e providências específicas do art. 345.º CPI].]
 
 **Cláusula 7.ª — Devolução de documentos e dados**
 [Na cessação do contrato, o Trabalhador obriga-se a devolver ou destruir toda a documentação, suportes e ficheiros com Informação Confidencial, confirmando por escrito a sua devolução/destruição.]
@@ -79,13 +81,13 @@ Apresenta dentro de um bloco <limites>:
 ### ETAPA 4 — CHECKLIST
 Apresenta dentro de um bloco <checklist>:
 - [ ] Informação confidencial definida com precisão suficiente
-- [ ] Informação preenche os requisitos de segredo de negócio (Lei 93/2017)
+- [ ] Informação preenche os requisitos de segredo comercial (art. 313.º, n.º 1, CPI)
 - [ ] Cláusula não impede o trabalhador de usar o seu conhecimento técnico geral
 - [ ] Prazo pós-contratual razoável e proporcional
 - [ ] Exceção de whistleblowing incluída (obrigatória)
 - [ ] Consequências da violação claramente previstas
 - [ ] Obrigação de devolução de documentos na cessação prevista
-- [ ] [■ VERIFICAR] se a empresa tem medidas razoáveis para manter o segredo (requisito da Lei 93/2017)
+- [ ] [■ VERIFICAR] se a empresa adotou diligências razoáveis para manter o segredo (requisito do art. 313.º, n.º 1, al. c), CPI)
 
 ---
 
@@ -113,9 +115,15 @@ Apresenta dentro de um bloco <checklist>:
 |---|---|---|
 | art. 128.º, n.º 1, al. f), CT | conferida (índice) |  |
 | art. 128.º, n.º 1, al. f), CT | conferida (índice) |  |
+| art. 136.º, n.º 1, CT | conferida (epígrafe) — Pacto de não concorrência |  |
+| art. 136.º, n.º 2, CT | conferida (epígrafe) — Pacto de não concorrência |  |
 | art. 81.º CC | conferida (epígrafe) — Limitação voluntária dos direitos de personalidade |  |
-| art. 2.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| art. 4.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 313.º, n.º 1, CPI | conferida (epígrafe) — Objeto de proteção |  |
+| art. 313.º, n.º 1, CPI | conferida (epígrafe) — Objeto de proteção |  |
+| art. 315.º, al. c), CPI | conferida (epígrafe) — Aquisição, utilização e divulgação lícitas de segredos comerciais |  |
+| art. 136.º CT | conferida (epígrafe) — Pacto de não concorrência |  |
 | art. 483.º CC | conferida (índice) |  |
-| art. 1.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 362.º CPC | conferida (epígrafe) — Âmbito das providências cautelares não especificadas |  |
+| art. 32.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 345.º CPI | conferida (epígrafe) — Providências cautelares |  |
+| art. 313.º, n.º 1, al. c), CPI | conferida (epígrafe) — Objeto de proteção |  |

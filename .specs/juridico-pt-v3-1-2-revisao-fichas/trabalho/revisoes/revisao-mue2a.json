@@ -1,0 +1,301 @@
+[
+ {
+  "codigo": "UE-041",
+  "veredicto": "corrigida",
+  "resumo": "A ficha mandava transmitir o formulário A através de um «órgão central» (DGPJ), quando o Regulamento (UE) 2020/1783 impõe a transmissão direta entre tribunais pelo sistema informático descentralizado, intervindo a entidade central (a DGAJ) só a título excecional. Os fundamentos de recusa do art. 16.º estavam mal descritos (a contrariedade a princípios fundamentais só vale para a obtenção direta, art. 19.º, n.º 7), as remissões para os arts. 1.º-21.º, 22.º-28.º e 19.º (custas) estavam erradas e o regime da videoconferência e da língua do pedido estava inexato. Corrigiram-se esses pontos com base no texto oficial do Regulamento.",
+  "substituicoes": [
+   {
+    "de": "processos pendentes em tribunal de EM;",
+    "para": "prova destinada a processo judicial já iniciado ou previsto (art. 1.º, n.º 2);",
+    "motivo": "O art. 1.º, n.º 2, abrange também processos judiciais apenas previstos, não só os pendentes.",
+    "fonte": "https://publications.europa.eu/resource/celex/32020R1783"
+   },
+   {
+    "de": "  (1) Pedido de obtenção de provas (arts. 1.º-21.º): tribunal requerente pede ao tribunal requerido que execute a diligência; formulário A (Anexo I); prazo de execução: 90 dias (art. 12.º, n.º 1)\n  (2) Obtenção direta de provas (arts. 22.º-28.º): o tribunal requerente executa diretamente a diligência no território do outro EM (com consentimento voluntário); videoconferência para inquirição de testemunhas (art. 20.º)",
+    "para": "  (1) Pedido de obtenção de provas (arts. 3.º e 5.º a 18.º): o tribunal requerente transmite o pedido diretamente ao tribunal competente do outro EM (art. 3.º, n.º 1), que executa a diligência segundo o seu direito; formulário A (anexo I); prazo de execução: 90 dias a contar da receção (art. 12.º, n.º 1); pode pedir-se ao tribunal requerido que use videoconferência ou teleconferência (art. 12.º, n.º 4)\n  (2) Obtenção direta de provas (art. 19.º): o tribunal requerente apresenta pedido (formulário L) à entidade central ou autoridade competente do EM requerido, que responde em 30 dias (formulário M); só a título voluntário, sem medidas coercivas; audição por videoconferência ou outra tecnologia de comunicação à distância (art. 20.º, formulário N)",
+    "motivo": "Remissões erradas: o pedido ao tribunal requerido rege-se pelos arts. 3.º e 5.º a 18.º e a obtenção direta pelos arts. 19.º e 20.º (os arts. 22.º a 28.º tratam de custas, atos delegados e sistema informático).",
+    "fonte": "https://publications.europa.eu/resource/celex/32020R1783"
+   },
+   {
+    "de": "- Recusa do pedido (art. 16.º): apenas se execução não for da competência do Judiciário; se não contiver informação suficiente; se a obtenção contraria o direito fundamental do EM requerido",
+    "para": "- Recusa de execução (art. 16.º): o pedido de audição não é executado se a pessoa invocar o direito de recusa ou a proibição de depor, segundo o direito do EM requerido ou do EM requerente (quando indicado no pedido) (n.º 1); fora disso, só pode ser recusado se o pedido não estiver abrangido pelo Regulamento, se a execução não fizer parte das atribuições do poder judicial do EM requerido, se o tribunal requerente não completar o pedido em 30 dias (art. 10.º) ou se o depósito ou adiantamento pedido para a perícia não for efetuado em 60 dias (art. 22.º, n.º 3) (n.º 2); a recusa é comunicada em 60 dias, no formulário K (n.º 4). A contrariedade a princípios fundamentais do direito do EM requerido só é fundamento de recusa da obtenção direta (art. 19.º, n.º 7, alínea c))",
+    "motivo": "Os fundamentos de recusa do art. 16.º estavam incompletos e misturados com os da obtenção direta (art. 19.º, n.º 7).",
+    "fonte": "https://publications.europa.eu/resource/celex/32020R1783"
+   },
+   {
+    "de": "- Inquirição por videoconferência (art. 20.º): o tribunal requerente pode organizar videoconferência diretamente; o EM requerido deve fornecer as instalações se necessário",
+    "para": "- Inquirição por videoconferência: na obtenção direta, o tribunal requerente ouve a pessoa por videoconferência ou outra tecnologia de comunicação à distância, mediante pedido no formulário N e acordo com a entidade central ou autoridade competente do EM requerido quanto aos aspetos práticos (art. 20.º); no pedido ao tribunal requerido, pode pedir-se o uso dessa tecnologia, que só é afastado por incompatibilidade com o direito nacional ou importantes dificuldades práticas; se faltar a tecnologia, os tribunais podem disponibilizá-la por acordo mútuo (art. 12.º, n.º 4)",
+    "motivo": "A videoconferência não é organizada «diretamente» sem pedido, e o Regulamento não obriga o EM requerido a fornecer instalações.",
+    "fonte": "https://publications.europa.eu/resource/celex/32020R1783"
+   },
+   {
+    "de": "- Custas: em princípio, as diligências são gratuitas; exceções para honorários de peritos e intérpretes (art. 19.º)",
+    "para": "- Custas: a execução do pedido não dá lugar, em princípio, a reembolso de taxas ou custas; o tribunal requerido pode exigir o reembolso dos honorários de peritos e intérpretes e das custas dos procedimentos especiais ou tecnologias de comunicação pedidos (art. 12.º, n.os 3 e 4), e pode pedir depósito ou adiantamento para a perícia (art. 22.º)",
+    "motivo": "As custas estão no art. 22.º (o art. 19.º trata da obtenção direta).",
+    "fonte": "https://publications.europa.eu/resource/celex/32020R1783"
+   },
+   {
+    "de": "4. Língua do pedido: [português; solicita-se tradução para [língua do EM requerido]]",
+    "para": "4. Língua do pedido: [língua oficial do EM requerido (ou do local da diligência) ou outra língua que esse EM tenha declarado aceitar (art. 6.º); se o português não for aceite, requer-se a tradução para [língua aceite]]",
+    "motivo": "O pedido tem de ser redigido numa língua aceite pelo EM requerido (art. 6.º), não em português por defeito.",
+    "fonte": "https://publications.europa.eu/resource/celex/32020R1783"
+   },
+   {
+    "de": "8. Se videoconferência (art. 20.º Reg. 2020/1783): [pedido de realização por videoconferência; disponibilidade de instalações]",
+    "para": "8. Se videoconferência: [pedido ao tribunal requerido para usar videoconferência (art. 12.º, n.º 4, Reg. 2020/1783) ou, em alternativa, pedido de obtenção direta por videoconferência (formulário N, art. 20.º Reg. 2020/1783); disponibilidade de meios]",
+    "motivo": "No pedido executado pelo tribunal requerido (formulário A), a videoconferência rege-se pelo art. 12.º, n.º 4; o art. 20.º só cobre a obtenção direta.",
+    "fonte": "https://publications.europa.eu/resource/celex/32020R1783"
+   },
+   {
+    "de": "Requer-se que V. Exa. aceite o pedido de obtenção de provas e transmita o Formulário A ao órgão central português competente [[■ VERIFICAR: Direção-Geral da Política de Justiça — DGPJ]] para encaminhamento ao tribunal requerido.",
+    "para": "Requer-se que V. Exa. formule o pedido de obtenção de provas e transmita o Formulário A diretamente ao tribunal competente de [Estado-Membro] (art. 3.º, n.º 1, Reg. 2020/1783), através do sistema informático descentralizado ou, se este não puder ser usado, pelo meio alternativo mais rápido e adequado (art. 7.º Reg. 2020/1783). A entidade central portuguesa — a Direção-Geral da Administração da Justiça (DGAJ) — só remete pedidos ao tribunal competente em casos excecionais, a rogo do tribunal requerente (art. 4.º, n.º 1, alínea c), Reg. 2020/1783).",
+    "motivo": "Transmissão direta entre tribunais (art. 3.º) por sistema informático (art. 7.º); a entidade central portuguesa é a DGAJ e só intervém excecionalmente.",
+    "fonte": "https://e-justice.europa.eu/topics/taking-legal-action/european-judicial-atlas-civil-matters/taking-evidence-recast/pt_pt"
+   },
+   {
+    "de": "- [ ] Processo pendente em tribunal português (âmbito do Regulamento 2020/1783)",
+    "para": "- [ ] Processo judicial iniciado ou previsto em tribunal português (art. 1.º, n.º 2, do Regulamento 2020/1783)",
+    "motivo": "O âmbito abrange processos já iniciados ou previstos.",
+    "fonte": "https://publications.europa.eu/resource/celex/32020R1783"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar no Portal Europeu da Justiça (Atlas Judiciário) o tribunal competente do EM requerido e as línguas que este aceita (art. 6.º).",
+   "O art. 7.º (sistema informático descentralizado) aplica-se desde 1 de maio de 2025 (art. 35.º, n.º 3, e Regulamento de Execução (UE) 2022/422, em vigor desde 4 de abril de 2022); confirmar junto da secretaria o meio de transmissão efetivamente disponível.",
+   "Escolher entre o pedido ao tribunal requerido (formulário A, medidas coercivas possíveis) e a obtenção direta (formulários L e N, só voluntária) consoante a disponibilidade da testemunha."
+  ],
+  "fontes": [
+   "https://publications.europa.eu/resource/celex/32020R1783",
+   "https://e-justice.europa.eu/topics/taking-legal-action/european-judicial-atlas-civil-matters/taking-evidence-recast/pt_pt",
+   "https://publications.europa.eu/resource/celex/32022R0422"
+  ]
+ },
+ {
+  "codigo": "UE-042",
+  "veredicto": "corrigida",
+  "resumo": "A ficha dizia que o pedido prévio à instituição «suspende» a prescrição e que o prazo de 5 anos se conta do conhecimento do facto gerador; o art. 46.º do Estatuto do TJUE fala em interrupção, condicionada à propositura da ação no prazo de dois meses do art. 263.º TFUE, e a jurisprudência conta o prazo desde que estejam reunidos todos os requisitos, incluindo o dano. Apresentava como «possível» a responsabilidade por atos lícitos, que o TJUE nunca reconheceu (FIAMM, C-120/06 P e C-121/06 P), e reduzia o critério Bergaderm aos atos normativos. Corrigiram-se ainda a base da competência do Tribunal Geral (art. 256.º, n.º 1, TFUE), o requisito de representação (art. 19.º do Estatuto) e o termo inicial dos juros de mora (data do acórdão).",
+  "substituicoes": [
+   {
+    "de": "- Prazo de prescrição: 5 anos a partir do facto gerador (art. 46.º Estatuto TJUE)",
+    "para": "- Prazo de prescrição: 5 anos a contar da ocorrência do facto que deu origem à ação (art. 46.º Estatuto TJUE); segundo jurisprudência constante, começa a correr quando estão reunidas todas as condições da obrigação de indemnizar, incluindo a materialização do dano",
+    "motivo": "A jurisprudência conta o prazo desde que estejam reunidos todos os requisitos da responsabilidade, incluindo o dano.",
+    "fonte": "https://publications.europa.eu/resource/celex/62014TJ0577"
+   },
+   {
+    "de": "- Requisitos da responsabilidade extracontratual da UE (jurisprudência constante do TJUE — acórdão Bergaderm [■ VERIFICAR: Proc. C-352/98 P] e outros):\n  (1) Ilegalidade do comportamento da instituição: violação suficientemente caracterizada de norma jurídica que confere direitos aos particulares; para atos normativos: o simples erro não basta — é preciso desrespeito manifesto e grave dos limites do poder de apreciação",
+    "para": "- Requisitos da responsabilidade extracontratual da UE (jurisprudência constante do TJUE — acórdão de 4 de julho de 2000, Bergaderm e Goupil/Comissão, Proc. C-352/98 P, n.os 41 a 46, e outros):\n  (1) Ilegalidade do comportamento da instituição: violação suficientemente caracterizada de norma jurídica que tem por objeto conferir direitos aos particulares; o critério decisivo é o desrespeito manifesto e grave, pela instituição, dos limites do seu poder de apreciação; se a margem de apreciação for consideravelmente reduzida ou inexistente, a simples infração ao direito da União pode bastar; a natureza geral ou individual do ato não é critério decisivo",
+    "motivo": "Referência do acórdão Bergaderm confirmada; o critério depende da margem de apreciação da instituição e não da natureza normativa do ato (n.os 43, 44 e 46).",
+    "fonte": "https://publications.europa.eu/resource/celex/61998CJ0352"
+   },
+   {
+    "de": "- Responsabilidade por atos lícitos (regime mais restrito): possível se o dano é especial (afeta um grupo limitado de operadores) e anormal (excede os riscos económicos inerentes ao setor); sem necessidade de demonstrar ilegalidade",
+    "para": "- Responsabilidade por atos lícitos: não reconhecida pelo TJUE. O Tribunal de Justiça limitou-se a indicar os requisitos a que ficaria sujeita se viesse a ser admitida (dano real, nexo de causalidade e dano anormal e especial) e declarou que, no estado atual do direito da União, não existe regime de responsabilidade por comportamento no âmbito da competência normativa sem ilegalidade (acórdão de 9 de setembro de 2008, FIAMM e o./Conselho e Comissão, Procs. C-120/06 P e C-121/06 P, n.os 168, 169 e 176); invocar só a título subsidiário e com alerta expresso para o risco de improcedência",
+    "motivo": "O TJUE nunca reconheceu a responsabilidade da União por atos lícitos e excluiu-a quanto à atividade normativa (acórdão FIAMM).",
+    "fonte": "https://publications.europa.eu/resource/celex/62006CJ0120"
+   },
+   {
+    "de": "- Prescrição: 5 anos a partir do momento em que o requerente teve ou deveria ter tido conhecimento do facto gerador; suspensão pela apresentação de pedido prévio à instituição",
+    "para": "- Prescrição: 5 anos, contados desde que estejam reunidas todas as condições da obrigação de indemnizar, incluindo o dano; a apreciação subjetiva do lesado é irrelevante, só não sendo a prescrição oponível a quem apenas tardiamente pôde conhecer o facto gerador; a prescrição interrompe-se pela propositura da ação ou por pedido prévio à instituição competente, mas, neste caso, a ação tem de ser proposta no prazo de dois meses previsto no art. 263.º TFUE (aplicando-se, sendo caso disso, o art. 265.º, segundo parágrafo, TFUE) — art. 46.º do Estatuto do TJUE",
+    "motivo": "O art. 46.º do Estatuto prevê a interrupção (não a suspensão), condicionada ao prazo de dois meses; o termo inicial não é o conhecimento do facto.",
+    "fonte": "https://publications.europa.eu/resource/celex/12016E%2FPRO%2F03"
+   },
+   {
+    "de": "[Artigo 340.º, n.º 2, e artigo 268.º TFUE]",
+    "para": "[Artigo 340.º, segundo parágrafo, artigo 268.º e artigo 256.º, n.º 1, TFUE]",
+    "motivo": "O art. 340.º TFUE tem parágrafos, não números; a competência do Tribunal Geral em primeira instância resulta do art. 256.º, n.º 1, TFUE.",
+    "fonte": "https://publications.europa.eu/resource/celex/12016E%2FTXT"
+   },
+   {
+    "de": "mandatário — obrigatoriamente advogado habilitado a representar perante o TG]",
+    "para": "mandatário — obrigatoriamente advogado autorizado a exercer nos tribunais de um Estado-Membro ou de outro Estado parte no Acordo EEE (art. 19.º do Estatuto do TJUE)]",
+    "motivo": "Não há habilitação própria junto do TG: basta advogado autorizado a exercer num EM ou no EEE (art. 19.º, quarto parágrafo, do Estatuto).",
+    "fonte": "https://publications.europa.eu/resource/celex/12016E%2FPRO%2F03"
+   },
+   {
+    "de": "[Competência: art. 268.º TFUE — o Tribunal Geral é competente",
+    "para": "[Competência: art. 268.º TFUE e art. 256.º, n.º 1, TFUE — o Tribunal Geral é competente, em primeira instância,",
+    "motivo": "O art. 268.º atribui a competência ao TJUE enquanto instituição; a do Tribunal Geral resulta do art. 256.º, n.º 1.",
+    "fonte": "https://publications.europa.eu/resource/celex/12016E%2FTXT"
+   },
+   {
+    "de": "b) Juros de mora desde [data da notificação do pedido extrajudicial / data da petição];",
+    "para": "b) Juros compensatórios desde [data relevante do dano] até à data do acórdão e juros de mora desde a data do acórdão até integral pagamento, à taxa fixada pelo BCE para as suas principais operações de refinanciamento, acrescida de [■ VERIFICAR: pontos percentuais a pedir, à luz da jurisprudência recente do Tribunal Geral];",
+    "motivo": "Segundo a jurisprudência, os juros de mora são devidos, em princípio, a partir do acórdão que declara a obrigação de indemnizar, e não da notificação do pedido extrajudicial.",
+    "fonte": "https://publications.europa.eu/resource/celex/62014TJ0577"
+   },
+   {
+    "de": "- [ ] Advogado habilitado perante o TG identificado (obrigatório)",
+    "para": "- [ ] Advogado autorizado a exercer nos tribunais de um Estado-Membro ou do EEE identificado (obrigatório — art. 19.º do Estatuto do TJUE)",
+    "motivo": "Requisito de representação do art. 19.º do Estatuto.",
+    "fonte": "https://publications.europa.eu/resource/celex/12016E%2FPRO%2F03"
+   },
+   {
+    "de": "- [ ] Pedido prévio extrajudicial à instituição efetuado (suspende prescrição)",
+    "para": "- [ ] Pedido prévio à instituição (facultativo): se apresentado, interrompe a prescrição, desde que a ação seja proposta no prazo de dois meses do art. 263.º TFUE",
+    "motivo": "Interrupção, e não suspensão, e só com propositura da ação no prazo de dois meses.",
+    "fonte": "https://publications.europa.eu/resource/celex/12016E%2FPRO%2F03"
+   },
+   {
+    "de": "- Data em que o requerente teve conhecimento do facto gerador: [dd/mm/aaaa]",
+    "para": "- Data do facto gerador e data em que o dano se materializou (e, se posterior, data em que o requerente dele pôde ter conhecimento): [dd/mm/aaaa]",
+    "motivo": "O termo inicial da prescrição depende da verificação de todos os requisitos, incluindo o dano.",
+    "fonte": "https://publications.europa.eu/resource/celex/62014TJ0577"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar na jurisprudência mais recente do Tribunal Geral a taxa e o termo inicial dos juros compensatórios e a majoração da taxa do BCE nos juros de mora (no acórdão T-577/14, Gascogne, foram dois pontos, conforme pedido; esse acórdão foi objeto de recurso para o TJUE).",
+   "Verificar se as alterações recentes ao Estatuto do TJUE (incluindo a de 2024) mexeram no art. 46.º e confirmar no Regulamento de Processo do Tribunal Geral os requisitos formais da petição.",
+   "Identificar a instituição ou instituições cujo comportamento causou o dano, que representam a União na ação."
+  ],
+  "fontes": [
+   "https://publications.europa.eu/resource/celex/12016E%2FPRO%2F03",
+   "https://publications.europa.eu/resource/celex/62006CJ0120",
+   "https://publications.europa.eu/resource/celex/61998CJ0352",
+   "https://publications.europa.eu/resource/celex/62014TJ0577",
+   "https://publications.europa.eu/resource/celex/12016E%2FTXT"
+  ]
+ },
+ {
+  "codigo": "UE-046",
+  "veredicto": "corrigida",
+  "resumo": "A ficha apresentava como sendo do RDC 2021 (Reg. (UE) 2021/1060) o regime das operações geradoras de receitas líquidas e um capítulo de PPP (arts. 63.º-70.º), que eram do período 2014-2020 (arts. 61.º a 64.º do Reg. (UE) n.º 1303/2013); no RDC 2021 o art. 64.º trata de custos não elegíveis e os arts. 63.º-70.º de elegibilidade, durabilidade e responsabilidades. Substituíram-se essas remissões pelas regras reais do RDC 2021 sobre PPP (arts. 2.º, 63.º, n.º 2, 65.º e 74.º) e retiraram-se as «cláusulas obrigatórias» sem base no regulamento (cessão do ativo, «portabilidade do apoio»). As receitas passam a ser tratadas no plano do auxílio de Estado (art. 56.º, n.º 6, RGIC).",
+  "substituicoes": [
+   {
+    "de": "- Geração de receitas pelo projeto (relevante para elegibilidade de despesa — arts. 63.º-64.º RDC 2021)",
+    "para": "- Geração de receitas pelo projeto (o RDC 2021 já não contém o regime das operações geradoras de receitas líquidas do art. 61.º do Reg. (UE) n.º 1303/2013; as receitas relevam sobretudo para o montante máximo de auxílio de Estado — p. ex., art. 56.º, n.º 6, RGIC — e para as regras do aviso e do regulamento específico do PT2030 [■ VERIFICAR])",
+    "motivo": "O regime de receitas líquidas era do Reg. 1303/2013 (art. 61.º); o RDC 2021 não o reproduz.",
+    "fonte": "https://publications.europa.eu/resource/celex/32013R1303"
+   },
+   {
+    "de": "- PPP com fundos UE (arts. 63.º-70.º RDC 2021): condições de elegibilidade; operação de PPP; entidade de implementação; propriedade do ativo; exigência de manutenção do ativo pelo período mínimo; obrigações de publicidade\n- Operações que geram receitas líquidas (art. 64.º RDC 2021): cálculo do apoio máximo; métodos (receitas líquidas deduzidas; taxa fixa; análise custo-benefício)",
+    "para": "- PPP com fundos UE no RDC 2021 (Reg. (UE) 2021/1060), que não tem capítulo próprio de PPP (ao contrário dos arts. 62.º a 64.º do Reg. (UE) n.º 1303/2013): noção de operação PPP (art. 2.º, ponto 15); o beneficiário pode ser o organismo público que inicia a operação ou o parceiro privado selecionado (art. 2.º, ponto 9, alínea b)); despesas elegíveis se incorridas pelo beneficiário ou pelo parceiro privado e pagas entre a data de apresentação do programa ou 1 de janeiro de 2021 (a que for anterior) e 31 de dezembro de 2029 (art. 63.º, n.º 2); pagamentos da autoridade de gestão numa conta de garantia bloqueada (art. 74.º, n.º 1); durabilidade: reembolso se, em cinco anos a contar do pagamento final (ou no prazo das regras de auxílios de Estado), houver mudança de propriedade de elemento da infraestrutura que confira vantagem indevida ou alteração substancial (art. 65.º); visibilidade do apoio (art. 50.º); conservação de documentos (art. 82.º)\n- Custos não elegíveis (art. 64.º RDC 2021): juros sobre dívidas; aquisição de terrenos acima de 10 % das despesas elegíveis (15 % em áreas degradadas e antigas áreas industriais com edifícios); IVA nas operações de custo total igual ou superior a 5 000 000 EUR, quando recuperável",
+    "motivo": "Os arts. 63.º-70.º do RDC 2021 não são um regime de PPP e o art. 64.º trata de custos não elegíveis; as regras de PPP estão dispersas pelos arts. 2.º, 63.º, 65.º e 74.º.",
+    "fonte": "https://publications.europa.eu/resource/celex/32021R1060"
+   },
+   {
+    "de": "RGIC para infraestruturas (art. 56.º RGIC)",
+    "para": "RGIC para infraestruturas locais (art. 56.º RGIC; as infraestruturas abrangidas por outras secções do RGIC seguem essas regras)",
+    "motivo": "O art. 56.º do RGIC respeita a infraestruturas locais e não se aplica às abrangidas por outras secções.",
+    "fonte": "https://publications.europa.eu/resource/celex/32014R0651"
+   },
+   {
+    "de": "- Cláusulas obrigatórias no contrato de PPP com fundos UE: garantias de continuidade do serviço; propriedade ou cessão do ativo ao Estado após a concessão; auditoria e acesso; portabilidade do apoio UE",
+    "para": "- Cláusulas a prever no acordo de PPP (o RDC 2021 não fixa um elenco de cláusulas obrigatórias; as que seguem decorrem das suas regras e das exigências da autoridade de gestão [■ VERIFICAR: aviso e regulamento específico aplicáveis]): quem incorre e paga as despesas elegíveis (art. 63.º, n.º 2); conta de garantia bloqueada (art. 74.º, n.º 1); manutenção da operação e consequências de mudança de propriedade ou alteração substancial no período de durabilidade (art. 65.º); acesso e conservação de documentos para verificações e auditorias (art. 82.º); obrigações de visibilidade (art. 50.º)",
+    "motivo": "A cessão do ativo ao Estado e a «portabilidade do apoio UE» não são exigências do RDC 2021.",
+    "fonte": "https://publications.europa.eu/resource/celex/32021R1060"
+   },
+   {
+    "de": "[RDC 2021, arts. 63.º-70.º; RGIC; CCP; legislação nacional de PPP]",
+    "para": "[RDC 2021 (Reg. (UE) 2021/1060), em especial arts. 2.º, 50.º, 63.º a 65.º, 74.º e 82.º; RGIC; CCP; legislação nacional de PPP]",
+    "motivo": "Remissão para os artigos do RDC 2021 que efetivamente tratam das PPP.",
+    "fonte": "https://publications.europa.eu/resource/celex/32021R1060"
+   },
+   {
+    "de": "[Verificação dos requisitos do art. 63.º RDC 2021: operação de PPP; entidade de implementação; propriedade do ativo; período mínimo de manutenção; prova de elegibilidade]",
+    "para": "[Verificação à luz do RDC 2021: qualificação como operação PPP (art. 2.º, ponto 15); identificação do beneficiário (art. 2.º, ponto 9, alínea b)); elegibilidade e período de elegibilidade das despesas (art. 63.º); custos não elegíveis (art. 64.º); durabilidade (art. 65.º); prova de elegibilidade]",
+    "motivo": "O art. 63.º não enuncia requisitos de PPP nem fala de «entidade de implementação».",
+    "fonte": "https://publications.europa.eu/resource/celex/32021R1060"
+   },
+   {
+    "de": "[Se o projeto gera receitas: método a aplicar; cálculo do gap de financiamento; impacto na taxa de cofinanciamento dos fundos UE]",
+    "para": "[Se o projeto gera receitas: o RDC 2021 não impõe o cálculo do défice de financiamento; verificar o limite do auxílio de Estado (p. ex., art. 56.º, n.º 6, RGIC: diferença entre os custos elegíveis e o lucro operacional do investimento) e as regras de cálculo do aviso e do regulamento específico do PT2030 [■ VERIFICAR]]",
+    "motivo": "O método do défice de financiamento era do período 2014-2020; hoje as receitas relevam no auxílio de Estado.",
+    "fonte": "https://publications.europa.eu/resource/celex/32014R0651"
+   },
+   {
+    "de": "[Listagem das cláusulas exigidas pelos arts. 63.º-70.º RDC 2021: auditoria, acesso, propriedade do ativo, período mínimo de exploração, consequências da rescisão antecipada]",
+    "para": "[Listagem das cláusulas a prever à luz do RDC 2021 e das exigências da autoridade de gestão: despesas elegíveis e quem as incorre (art. 63.º, n.º 2), conta de garantia bloqueada (art. 74.º, n.º 1), durabilidade e consequências da mudança de propriedade ou alteração substancial (art. 65.º), acesso e conservação de documentos (art. 82.º), visibilidade (art. 50.º), consequências da cessação antecipada [■ VERIFICAR: aviso e regulamento específico]]",
+    "motivo": "Os arts. 63.º-70.º do RDC 2021 não impõem cláusulas contratuais de PPP.",
+    "fonte": "https://publications.europa.eu/resource/celex/32021R1060"
+   },
+   {
+    "de": "- [ ] Requisitos de PPP do art. 63.º RDC 2021 verificados\n- [ ] Receitas líquidas calculadas ou isenção de cálculo demonstrada",
+    "para": "- [ ] Regras do RDC 2021 aplicáveis à operação PPP verificadas (arts. 2.º, 63.º a 65.º e 74.º)\n- [ ] Impacto das receitas no limite do auxílio de Estado e nas regras do aviso PT2030 verificado",
+    "motivo": "Alinhamento da verificação com o regime em vigor.",
+    "fonte": "https://publications.europa.eu/resource/celex/32021R1060"
+   },
+   {
+    "de": "- [ ] Cláusulas obrigatórias RDC 2021 incluídas no contrato",
+    "para": "- [ ] Cláusulas exigidas pelo RDC 2021 e pela autoridade de gestão incluídas no acordo de PPP",
+    "motivo": "O RDC 2021 não tem um elenco próprio de cláusulas obrigatórias.",
+    "fonte": "https://publications.europa.eu/resource/celex/32021R1060"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar a versão consolidada do RDC 2021, alterado depois de 2021 (incluindo a revisão intercalar da política de coesão), em especial os arts. 63.º a 65.º e 74.º.",
+   "O RGIC (Reg. (UE) n.º 651/2014) vigora, após prorrogação, até 31 de dezembro de 2026 [confirmar]; verificar o regime que lhe suceda se a concessão do apoio ocorrer depois dessa data, e a redação atual do art. 56.º.",
+   "Confirmar no aviso de abertura e no regulamento específico do PT2030 as regras nacionais de elegibilidade (art. 63.º, n.º 1), incluindo o tratamento das receitas."
+  ],
+  "fontes": [
+   "https://publications.europa.eu/resource/celex/32021R1060",
+   "https://publications.europa.eu/resource/celex/32013R1303",
+   "https://publications.europa.eu/resource/celex/32014R0651"
+  ]
+ },
+ {
+  "codigo": "UE-047",
+  "veredicto": "corrigida",
+  "titulo": "Análise de Direitos dos Trabalhadores em Reestruturações com Dimensão Europeia (Diretiva 2002/14/CE e Conselho de Empresa Europeu)",
+  "titulo_en": "Analysis of Workers' Rights in Restructurings with a European Dimension (Directive 2002/14/EC and European Works Council)",
+  "descricao": "Analisa os direitos de informação e consulta dos trabalhadores e os procedimentos obrigatórios de informação e consulta em reestruturações de empresas com presença em múltiplos Estados-Membros da UE, ao abrigo da Diretiva 2002/14/CE (quadro geral de informação e consulta) e da Diretiva 2009/38/CE (Conselho de Empresa Europeu — CEE).",
+  "descricao_en": "Analyses employees' information and consultation rights and the mandatory information and consultation procedures in restructurings of companies present in several EU Member States, under Directive 2002/14/EC (general framework for informing and consulting employees) and Directive 2009/38/EC (European Works Council — EWC).",
+  "resumo": "A ficha exigia «10 ou mais representantes» para pedir a constituição do CEE, quando o art. 5.º, n.º 1, da Diretiva 2009/38/CE exige pedido escrito de pelo menos 100 trabalhadores ou representantes de duas empresas ou estabelecimentos em dois EM; usava a designação «Comité» em vez de Conselho de Empresa Europeu; descrevia mal as disposições supletivas (art. 7.º) e citava um art. 4.º, n.º 2, sem relação com a consulta. Afirmava também «procedimentos europeus» de despedimento coletivo (a Diretiva 98/59/CE só tem o procedimento nacional, art. 2.º, n.º 4) e a nulidade das decisões não consultadas, que as diretivas não cominam. Corrigiu-se e assinalou-se a Diretiva (UE) 2025/2450, aplicável a partir de 2029.",
+  "substituicoes": [
+   {
+    "de": "- Existência ou não de Comité de Empresa Europeu (CEE) já constituído",
+    "para": "- Existência ou não de Conselho de Empresa Europeu (CEE) já constituído",
+    "motivo": "Designação oficial portuguesa: Conselho de Empresa Europeu.",
+    "fonte": "https://publications.europa.eu/resource/celex/32009L0038"
+   },
+   {
+    "de": "- Diretiva 2009/38/CE — Comité de Empresa Europeu:\n  • Limiares: empresa ou grupo com ≥ 1.000 trabalhadores na UE/EEE E ≥ 150 trabalhadores em pelo menos 2 EM diferentes\n  • Obrigação de negociar: 10 ou mais representantes dos trabalhadores de 2 ou mais EM podem pedir a constituição do CEE\n  • Procedimento: grupo especial de negociação (GEN); acordo de constituição do CEE; CEE subsidiário (Anexo I da Diretiva) se negociação falhar ou se a empresa não responder\n  • Atribuições do CEE: direito de ser informado e consultado sobre decisões transnacionais que afetam significativamente os interesses dos trabalhadores — antes de a decisão ser tomada (art. 4.º, n.º 2)",
+    "para": "- Diretiva 2009/38/CE — Conselho de Empresa Europeu (transposta pela Lei n.º 96/2009, de 3 de setembro):\n  • Limiares: empresa ou grupo com ≥ 1.000 trabalhadores nos EM e ≥ 150 trabalhadores em cada um de pelo menos 2 EM diferentes (art. 2.º, n.º 1, alíneas a) e c)), pela média dos dois anos anteriores (art. 2.º, n.º 2)\n  • Obrigação de negociar: a direção central abre negociações por iniciativa própria ou mediante pedido escrito de, no mínimo, 100 trabalhadores ou dos seus representantes, de pelo menos duas empresas ou estabelecimentos situados em pelo menos dois EM diferentes (art. 5.º, n.º 1)\n  • Procedimento: grupo especial de negociação (GEN); acordo de constituição do CEE (art. 6.º); disposições supletivas (art. 7.º e anexo I) se as partes assim o decidirem, se a direção central se recusar a abrir negociações no prazo de seis meses a contar do pedido ou se não houver acordo no prazo de três anos a contar do pedido inicial\n  • Atribuições do CEE: informação e consulta sobre questões transnacionais — as que respeitam a toda a empresa ou grupo ou a pelo menos duas empresas ou estabelecimentos em dois EM diferentes (art. 1.º, n.os 3 e 4); a consulta faz-se em momento, de forma e com conteúdo que permitam aos representantes formular, em prazo razoável, uma opinião que possa ser tomada em consideração (art. 2.º, n.º 1, alínea g)) — na prática, antes de a decisão estar tomada\n  • A Diretiva (UE) 2025/2450 altera a Diretiva 2009/38/CE (transposição até 1 de janeiro de 2028; aplicação a partir de 2 de janeiro de 2029); até lá vale o regime atual [■ VERIFICAR: estado da transposição em Portugal]",
+    "motivo": "O pedido exige 100 trabalhadores ou representantes (art. 5.º, n.º 1); disposições supletivas nos termos do art. 7.º; a consulta resulta dos arts. 1.º e 2.º, não do art. 4.º, n.º 2; revisão pela Diretiva (UE) 2025/2450.",
+    "fonte": "https://publications.europa.eu/resource/celex/32009L0038"
+   },
+   {
+    "de": "- Diretiva 2002/14/CE: informação e consulta a nível nacional (empresas com ≥ 50 trabalhadores); prazo razoável para consulta antes da decisão",
+    "para": "- Diretiva 2002/14/CE: informação e consulta a nível nacional (empresas com ≥ 50 trabalhadores ou estabelecimentos com ≥ 20 trabalhadores num EM, consoante a opção de cada EM — art. 3.º, n.º 1); prazo razoável para consulta antes da decisão",
+    "motivo": "O art. 3.º, n.º 1, admite também o critério do estabelecimento com 20 trabalhadores.",
+    "fonte": "https://publications.europa.eu/resource/celex/32002L0014"
+   },
+   {
+    "de": "- Diretiva 98/59/CE — despedimentos coletivos transnacionais: procedimento nacional + procedimentos europeus se decisão tomada por entidade controladora noutra EM",
+    "para": "- Diretiva 98/59/CE — despedimentos coletivos: não há procedimento europeu autónomo; aplica-se o procedimento nacional de informação, consulta e notificação à autoridade pública de cada EM afetado (em Portugal, arts. 360.º e seguintes CT), mesmo que a decisão seja tomada por uma empresa que controle o empregador (art. 2.º, n.º 4)",
+    "motivo": "A Diretiva 98/59/CE não cria procedimento europeu; só torna as obrigações nacionais aplicáveis quando decide a empresa que controla o empregador.",
+    "fonte": "https://publications.europa.eu/resource/celex/31998L0059"
+   },
+   {
+    "de": "- Consequências do incumprimento: nulidade ou anulabilidade das decisões tomadas sem consulta adequada; sanções administrativas; indemnizações",
+    "para": "- Consequências do incumprimento: as diretivas não cominam a invalidade da decisão de reestruturação; remetem para medidas, processos administrativos ou judiciais e sanções nacionais (art. 11.º da Diretiva 2009/38/CE; art. 8.º da Diretiva 2002/14/CE). Em Portugal: contraordenações da Lei n.º 96/2009 [■ VERIFICAR: artigos e classificação]; no despedimento coletivo, a falta das comunicações ou da fase de informação e negociação torna o despedimento ilícito (art. 383.º, alínea a), CT), com os efeitos do art. 389.º CT; indemnizações nos termos gerais",
+    "motivo": "A nulidade ou anulabilidade da decisão não resulta das diretivas; no direito português, a consequência típica é a ilicitude do despedimento coletivo.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0383&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "[Risco de nulidade/anulabilidade das decisões; sanções administrativas em cada EM; ações judiciais dos trabalhadores]",
+    "para": "[Sanções e meios processuais previstos no direito de cada EM (em Portugal, contraordenações e ação judicial); a falta de consulta não torna, por si, inválida a decisão de reestruturação, mas o despedimento coletivo sem as comunicações ou a negociação obrigatórias é ilícito (art. 383.º CT)]",
+    "motivo": "Consequências ajustadas às diretivas e ao CT.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0383&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Limiares do CEE verificados (≥ 1.000 trabalhadores UE/EEE; ≥ 150 em 2+ EM)",
+    "para": "- [ ] Limiares do CEE verificados (≥ 1.000 trabalhadores nos EM; ≥ 150 em cada um de 2+ EM; média dos dois anos anteriores)",
+    "motivo": "Limiar de 150 trabalhadores em cada um de pelo menos dois EM (art. 2.º).",
+    "fonte": "https://publications.europa.eu/resource/celex/32009L0038"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar na Lei n.º 96/2009 o regime de contraordenações e os meios judiciais à disposição dos trabalhadores e do CEE.",
+   "Verificar se Portugal já transpôs a Diretiva (UE) 2025/2450 e se o acordo de CEE existente terá de ser adaptado.",
+   "Rever no CT (arts. 360.º a 363.º) os prazos do procedimento de despedimento coletivo e a intervenção do serviço do ministério responsável pela área laboral."
+  ],
+  "fontes": [
+   "https://publications.europa.eu/resource/celex/32009L0038",
+   "https://publications.europa.eu/resource/celex/32002L0014",
+   "https://publications.europa.eu/resource/celex/31998L0059",
+   "https://publications.europa.eu/resource/celex/32025L2450",
+   "https://diariodarepublica.pt/dr/detalhe/lei/96-2009-489480",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0383&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+  ]
+ }
+]

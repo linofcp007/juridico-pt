@@ -6,7 +6,8 @@ titulo_en: "Testamentary Substitution and Fideicommissum Clause"
 descricao: "Redige cláusulas de substituição direta (vulgar) e de substituição fideicomissária para testamentos, definindo com precisão o fiduciário, o fideicomissário, o momento de transmissão e os limites legais — com atenção aos arts. 2286.º a 2295.º do Código Civil."
 descricao_en: "Drafts clauses of direct (ordinary) substitution and fideicommissary substitution for wills, precisely defining the fiduciary, the fideicommissary, the time of transfer and the legal limits — with attention to Articles 2286 to 2295 of the Civil Code."
 ambito: nacional
-estado_citacoes: "conferidas 8 · corrigidas 5 · por conferir 4"
+estado_citacoes: "conferidas 19 · corrigidas 4 · por conferir 3"
+revisao_tecnica: "2026-10-28 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
@@ -14,7 +15,8 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 
 > **Âmbito:** nacional · **Área:** Direito das Sucessões · **Código:** SUC-004
 > **EN:** Testamentary Substitution and Fideicommissum Clause. Drafts clauses of direct (ordinary) substitution and fideicommissary substitution for wills, precisely defining the fiduciary, the fideicommissary, the time of transfer and the legal limits — with attention to Articles 2286 to 2295 of the Civil Code.
-> **Citações:** conferidas 8 · corrigidas 5 · por conferir 4. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 19 · corrigidas 4 · por conferir 3. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-28 — corrigida (11 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
 Redige cláusulas de substituição direta (vulgar) e de substituição fideicomissária para testamentos, definindo com precisão o fiduciário, o fideicomissário, o momento de transmissão e os limites legais — com atenção aos arts. 2286.º a 2295.º do Código Civil.
 
@@ -26,7 +28,7 @@ Ficha de trabalho para preparar este documento. As regras da casa prevalecem sob
 — NUNCA inventes legislação ou jurisprudência.
 — Se faltar dado, marca [■ VERIFICAR: o que é necessário].
 — Cita artigos reais do CC português.
-— Respeita os limites legais do fideicomisso: só pode ser instituído por uma só vez (art. 2288.º n.º 1 CC); o fideicomissário deve ser pessoa determinada ou determinável à data da abertura da sucessão; prazo máximo de vinte e cinco anos se o fideicomissário não for nascituro (art. 2293.º CC [■ VERIFICAR: o art. 2293.º CC regula a devolução ao fideicomissário; não se conhece no CC prazo de 25 anos — confirmar]).
+— Respeita os limites legais do fideicomisso: só pode ser instituído por uma só vez (art. 2288.º n.º 1 CC); o fideicomissário tem de ter capacidade sucessória, que na sucessão testamentária abrange os nascituros não concebidos filhos de pessoa determinada, viva ao tempo da abertura da sucessão (art. 2033.º CC); a herança devolve-se ao fideicomissário no momento da morte do fiduciário e, se ele então não puder ou não quiser aceitar, a substituição fica sem efeito (art. 2293.º CC); o testador não pode impor encargos sobre a legítima contra a vontade do herdeiro (art. 2163.º CC). O Código Civil não fixa prazo máximo de duração do fideicomisso.
 — Alerta para qualquer disposição que possa ser declarada nula.
 — Linguagem notarial formal, portuguesa.
 
@@ -40,20 +42,21 @@ Apresenta dentro de um bloco <analise_do_caso>:
 - Identificação do(s) fiduciário(s) e fideicomissário(s)
 - Bens objeto da disposição
 - Quota disponível e verificação de inoficiosidade
-- Riscos específicos do fideicomisso (prazo, número de graus, capacidade do fideicomissário)
+- Riscos específicos do fideicomisso (número de graus, oneração da legítima, capacidade do fideicomissário)
 - Situações que podem fazer caducar a disposição
 
 ### ETAPA 2 — ANÁLISE JURÍDICA (Fundamentação)
 Apresenta dentro de um bloco <fundamentos_juridicos>:
-- Substituição direta (vulgar): art. 2281.º CC — substituto chama-se quando o substituto pré-morre, repudia ou é incapaz
+- Substituição direta (vulgar): art. 2281.º CC — o substituto é chamado se o herdeiro instituído não puder (pré-morte, incapacidade) ou não quiser (repúdio) aceitar a herança; prevendo o testador só um destes casos, entende-se ter querido abranger o outro, salvo declaração em contrário (art. 2281.º, n.º 2, CC)
 - Substituição fideicomissária: arts. 2286.º a 2295.º CC
   — Fiduciário: adquire os bens mas fica obrigado a conservá-los e a transmiti-los ao fideicomissário
   — Fideicomissário: recebe os bens por morte do fiduciário
   — Limite: só um grau de substituição (art. 2288.º n.º 1 CC)
-  — Prazo máximo: 25 anos se o fideicomissário não for nascituro (art. 2293.º CC [■ VERIFICAR: o art. 2293.º CC regula a devolução ao fideicomissário; não se conhece no CC prazo de 25 anos — confirmar])
+  — Devolução: a herança devolve-se ao fideicomissário no momento da morte do fiduciário; se o fideicomissário não puder ou não quiser aceitar, a substituição fica sem efeito e a titularidade dos bens considera-se adquirida definitivamente pelo fiduciário desde a morte do testador (art. 2293.º CC); não há prazo máximo legal
+  — Legítima: o testador não pode impor encargos sobre a legítima contra a vontade do herdeiro (art. 2163.º CC); o fideicomisso deve onerar só a quota disponível ou contar com a aceitação do legitimário
   — Poderes do fiduciário: pode usar e fruir mas não alienar sem autorização judicial (art. 2291.º CC)
 - Inventário obrigatório dos bens fideicomissos (art. 2290.º CC)
-- Consequências da nulidade de graus de substituição excedentes (art. 2287.º n.º 2 CC [■ VERIFICAR: o art. 2287.º CC trata da substituição plural; o limite de grau está no art. 2288.º e a nulidade no 2289.º CC])
+- Consequências da nulidade de graus de substituição excedentes: são nulas as substituições fideicomissárias em mais de um grau (art. 2288.º CC), mas a nulidade não envolve a da instituição ou da substituição anterior; tem-se por não escrita a cláusula fideicomissária, salvo se o contrário resultar do testamento (art. 2289.º CC)
 
 ### ETAPA 3 — CONSTRUÇÃO ARGUMENTATIVA / ESTRUTURA
 Define:
@@ -83,22 +86,22 @@ O testador institui como herdeiro fiduciário [nome do fiduciário], portador(a)
 O fiduciário fica obrigado a:
 a) Conservar os bens acima identificados no seu estado e valor;
 b) Não os alienar nem onerar sem autorização judicial (art. 2291.º CC);
-c) Elaborar inventário dos bens fideicomissos no prazo de [prazo — art. 2290.º CC];
-d) Prestar contas anuais ao fideicomissário ou ao seu representante legal.
+c) Relacionar os bens fideicomissos, declarando o seu estado e o valor dos móveis, antes de tomar conta deles (art. 2290.º, n.º 2, e art. 1468.º, al. a), CC);
+d) [Opcional — encargo imposto pelo testador, sem previsão legal:] Prestar contas anuais ao fideicomissário ou ao seu representante legal [■ VERIFICAR: validade e alcance do encargo no caso concreto].
 
 Por morte do fiduciário, os referidos bens transmitem-se para [nome do fideicomissário], portador(a) do Cartão de Cidadão n.º [■ VERIFICAR], nascido(a) em [data], residente em [morada], na qualidade de fideicomissário, nos termos dos arts. 2286.º e seguintes do Código Civil.
 
-[Se o fideicomissário for menor ou incapaz:]
-Até à maioridade / cessação da incapacidade do fideicomissário, os bens ficam sujeitos à administração do fiduciário sob fiscalização do Ministério Público.
+[Se o fideicomissário for menor ou maior acompanhado à data da morte do fiduciário:]
+Os bens que lhe forem devolvidos são administrados pelos seus representantes legais, nos termos gerais; querendo, o testador pode deixá-los com exclusão da administração dos pais (art. 1888.º, n.º 1, al. c), CC) [■ VERIFICAR: designação de quem os administra e regime do maior acompanhado].
 
-[■ VERIFICAR: confirmar que o fideicomissário é pessoa determinada ou determinável à data da abertura da sucessão — requisito de validade]
+[■ VERIFICAR: capacidade sucessória do fideicomissário (art. 2033.º CC) e, se for nascituro não concebido, que seja filho de pessoa determinada, viva ao tempo da abertura da sucessão]
 
 ### ETAPA 5 — FORMULAÇÃO FINAL (Validação)
 Apresenta dentro de um bloco <checklist_validacao>:
 - [ ] Substituição direta: substituto identificado com precisão
 - [ ] Fideicomissário identificado ou determinável à data da abertura da sucessão
 - [ ] Apenas um grau de substituição fideicomissária (art. 2288.º n.º 1 CC)
-- [ ] Prazo não excede 25 anos (art. 2293.º CC [■ VERIFICAR: o art. 2293.º CC regula a devolução ao fideicomissário; não se conhece no CC prazo de 25 anos — confirmar]) — ou justificação se nascituro
+- [ ] O fideicomisso não onera a legítima contra a vontade do herdeiro legitimário (art. 2163.º CC)
 - [ ] Obrigações do fiduciário (conservação, inventário) expressas
 - [ ] Bens fideicomissos identificados com precisão
 - [ ] Cláusula de substituição para pré-morte do fideicomissário
@@ -123,7 +126,7 @@ Apresenta dentro de um bloco <checklist_validacao>:
 
 **FIDEICOMISSÁRIO (beneficiário final, após morte do fiduciário):**
 - Nome completo: [nome]
-- Data de nascimento: [data] — (relevante para verificar o prazo de 25 anos)
+- Data de nascimento: [data] — (se ainda não estiver concebido: identificação dos pais, para a capacidade sucessória — art. 2033.º, n.º 2, al. a), CC)
 - N.º CC: [número]
 - Relação com o testador: [parentesco / outro]
 
@@ -144,17 +147,26 @@ Apresenta dentro de um bloco <checklist_validacao>:
 | art. 2288.º n.º 1 CC | corrigida — Limite de validade | o número citado no catálogo não correspondia à epígrafe |
 | art. 2288.º n.º 1 CC | corrigida — Limite de validade | o número citado no catálogo não correspondia à epígrafe |
 | art. 2288.º n.º 1 CC | corrigida — Limite de validade | o número citado no catálogo não correspondia à epígrafe |
-| art. 2293.º CC | por conferir [■ VERIFICAR] | o art. 2293.º CC regula a devolução ao fideicomissário; não se conhece no CC prazo de 25 anos — confirmar |
-| art. 2293.º CC | por conferir [■ VERIFICAR] | o art. 2293.º CC regula a devolução ao fideicomissário; não se conhece no CC prazo de 25 anos — confirmar |
-| art. 2293.º CC | por conferir [■ VERIFICAR] | o art. 2293.º CC regula a devolução ao fideicomissário; não se conhece no CC prazo de 25 anos — confirmar |
+| art. 2033.º CC | conferida (epígrafe) — Princípios gerais |  |
+| art. 2033.º CC | conferida (epígrafe) — Princípios gerais |  |
+| art. 2293.º CC | por conferir [■ VERIFICAR] | o assunto descrito não coincide com a epígrafe; confirmar |
+| art. 2293.º CC | por conferir [■ VERIFICAR] | o assunto descrito não coincide com a epígrafe; confirmar |
+| art. 2163.º CC | conferida (epígrafe) — Proibição de encargos |  |
+| art. 2163.º CC | conferida (epígrafe) — Proibição de encargos |  |
+| art. 2163.º CC | conferida (epígrafe) — Proibição de encargos |  |
 | art. 2281.º CC | conferida (epígrafe) — Noção |  |
 | art. 2281.º CC | conferida (epígrafe) — Noção |  |
+| art. 2281.º, n.º 2, CC | conferida (epígrafe) — Noção |  |
 | arts. 2286.º a 2295.º CC | conferida (epígrafe) — Noção |  |
 | art. 2291.º CC | conferida (epígrafe) — Alienação ou oneração de bens |  |
 | art. 2291.º CC | conferida (epígrafe) — Alienação ou oneração de bens |  |
 | art. 2290.º CC | corrigida — Direitos e obrigações do fiduciário | o número citado no catálogo não correspondia à epígrafe |
-| art. 2290.º CC | corrigida — Direitos e obrigações do fiduciário | o número citado no catálogo não correspondia à epígrafe |
-| art. 2287.º n.º 2 CC | por conferir [■ VERIFICAR] | o art. 2287.º CC trata da substituição plural; o limite de grau está no art. 2288.º e a nulidade no 2289.º CC |
+| art. 2290.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 2288.º CC | conferida (epígrafe) — Limite de validade |  |
+| art. 2289.º CC | conferida (epígrafe) — Nulidade da substituição |  |
 | art. 2281.º do Código Civil | conferida (epígrafe) — Noção |  |
+| art. 1468.º, al. a), CC | conferida (epígrafe) — Relação de bens e caução |  |
 | arts. 2286.º e seguintes do Código Civil | conferida (epígrafe) — Noção |  |
+| art. 1888.º, n.º 1, al. c), CC | conferida (epígrafe) — Exclusão da administração |  |
 | arts. 2286.º e ss. CC | conferida (epígrafe) — Noção |  |
+| art. 2033.º, n.º 2, al. a), CC | conferida (epígrafe) — Princípios gerais |  |

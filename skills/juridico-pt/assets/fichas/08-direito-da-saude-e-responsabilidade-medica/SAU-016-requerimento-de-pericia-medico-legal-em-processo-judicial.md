@@ -6,7 +6,8 @@ titulo_en: "Application for a Forensic Medical Examination in Court Proceedings"
 descricao: "Redige o requerimento de perícia médico-legal a apresentar em processo judicial de responsabilidade médica, com formulação precisa das questões a colocar ao perito, identificação do objeto da perícia e fundamentação da sua necessidade para a decisão da causa."
 descricao_en: "Drafts the application for a forensic medical examination to be filed in medical liability court proceedings, precisely framing the questions to be put to the expert, identifying the subject matter of the examination and justifying why it is needed to decide the case."
 ambito: nacional
-estado_citacoes: "conferidas 1 · corrigidas 3 · por conferir 3"
+estado_citacoes: "conferidas 6 · corrigidas 3 · por conferir 0"
+revisao_tecnica: "2026-10-28 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
@@ -14,7 +15,8 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 
 > **Âmbito:** nacional · **Área:** Direito da Saúde e Responsabilidade Médica · **Código:** SAU-016
 > **EN:** Application for a Forensic Medical Examination in Court Proceedings. Drafts the application for a forensic medical examination to be filed in medical liability court proceedings, precisely framing the questions to be put to the expert, identifying the subject matter of the examination and justifying why it is needed to decide the case.
-> **Citações:** conferidas 1 · corrigidas 3 · por conferir 3. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 6 · corrigidas 3 · por conferir 0. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-28 — corrigida (6 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
 Redige o requerimento de perícia médico-legal a apresentar em processo judicial de responsabilidade médica, com formulação precisa das questões a colocar ao perito, identificação do objeto da perícia e fundamentação da sua necessidade para a decisão da causa.
 
@@ -46,8 +48,8 @@ Apresenta dentro de um bloco <fundamentos_juridicos>:
 - Art. 467.º e ss. CPC — admissibilidade e natureza da prova pericial
 - Art. 475.º CPC — requerimento de perícia
 - Art. 467.º CPC — designação de perito
-- Art. 487.º CPC — segunda perícia (quando a primeira for insuficiente ou contraditória)
-- Art. 388.º n.º 1 CPC [■ VERIFICAR: no CPC o art. 388.º trata da reparação provisória; esta regra está no art. 388.º CC e a perícia nos arts. 467.º e ss. CPC] — quando a perceção ou apreciação dos factos exige especiais conhecimentos técnicos
+- Art. 487.º CPC — segunda perícia, a requerer no prazo de 10 dias a contar do conhecimento do resultado da primeira, alegando fundadamente as razões da discordância
+- Art. 388.º CC — a prova pericial tem por fim a perceção ou apreciação de factos quando sejam necessários conhecimentos especiais que os julgadores não possuem
 - [■ VERIFICAR: normas específicas sobre perícias do INML em processos cíveis]
 
 ### ETAPA 3 — FORMULAÇÃO DOS QUESITOS
@@ -68,7 +70,7 @@ Redige o requerimento completo:
 
 [Identidade da parte requerente e qualidade processual]
 
-vem, nos termos dos arts. 388.º e 476.º do Código de Processo Civil [■ VERIFICAR: no CPC o art. 388.º trata da reparação provisória; esta regra está no art. 388.º CC e a perícia nos arts. 467.º e ss. CPC], requerer a realização de **perícia médico-legal** com os seguintes fundamentos:
+vem, nos termos do art. 388.º do Código Civil e dos arts. 467.º e 475.º do Código de Processo Civil, requerer a realização de **perícia médico-legal** com os seguintes fundamentos:
 
 **I. FACTOS E NECESSIDADE DA PERÍCIA**
 [Breve descrição factual e indicação das questões técnicas que carecem de avaliação pericial]
@@ -86,7 +88,7 @@ Requer-se que o perito seja especialista em [especialidade], com experiência em
 **IV. QUESITOS A COLOCAR AO PERITO**
 
 **Sobre nexo causal:**
-1. O ato médico descrito nos autos (a saber: [descrição]) foi causa adequada, no todo ou em parte, dos danos sofridos pelo/a requerente?
+1. Do ponto de vista médico, existe nexo de causalidade entre o ato médico descrito nos autos (a saber: [descrição]) e os danos sofridos pelo/a requerente, no todo ou em parte? Com que grau de probabilidade?
 2. Se não foi causa exclusiva, em que proporção contribuiu para os danos verificados?
 3. Na ausência do ato médico em causa, qual seria o prognóstico esperado para o/a requerente?
 
@@ -95,7 +97,7 @@ Requer-se que o perito seja especialista em [especialidade], com experiência em
 5. Em que medida se desviou das leges artis, caso se tenha desviado?
 
 **Sobre incapacidades e sequelas:**
-6. Qual o grau de Incapacidade Permanente Parcial (IPP), de acordo com a Portaria n.º 679/2009?
+6. Qual a incapacidade permanente do/a requerente (défice funcional permanente da integridade físico-psíquica), em pontos, segundo a Tabela Nacional para Avaliação de Incapacidades Permanentes em Direito Civil (Anexo II do Decreto-Lei n.º 352/2007)?
 7. Qual o grau de Quantum Doloris na escala de 1 a 7?
 8. Qual o grau de Dano Estético permanente na escala de 1 a 7?
 9. Qual o grau de Repercussão nas Atividades Desportivas e de Lazer?
@@ -120,7 +122,7 @@ c) Requisite ao estabelecimento de saúde [nome] o processo clínico completo pa
 
 ### ETAPA 5 — FORMULAÇÃO FINAL (Validação)
 Apresenta dentro de um bloco <checklist_validacao>:
-- [ ] Necessidade da perícia juridicamente fundamentada (art. 388.º CPC [■ VERIFICAR: no CPC o art. 388.º trata da reparação provisória; esta regra está no art. 388.º CC e a perícia nos arts. 467.º e ss. CPC])
+- [ ] Necessidade da perícia juridicamente fundamentada (art. 388.º CC) e objeto indicado com as questões de facto a esclarecer, sob pena de rejeição (art. 475.º, n.º 1, CPC)
 - [ ] Especialidade médica correta indicada
 - [ ] Quesitos sobre nexo causal, leges artis e incapacidades incluídos
 - [ ] Quesitos formulados de forma precisa e respondível
@@ -165,6 +167,8 @@ Apresenta dentro de um bloco <checklist_validacao>:
 | Art. 475.º CPC | corrigida — Indicação do objeto da perícia | o número citado no catálogo não correspondia à epígrafe |
 | Art. 467.º CPC | corrigida — Quem realiza a perícia | o número citado no catálogo não correspondia à epígrafe |
 | Art. 487.º CPC | conferida (epígrafe) — Realização de segunda perícia |  |
-| Art. 388.º n.º 1 CPC | por conferir [■ VERIFICAR] | no CPC o art. 388.º trata da reparação provisória; esta regra está no art. 388.º CC e a perícia nos arts. 467.º e ss. CPC |
-| arts. 388.º e 476.º do Código de Processo Civil | por conferir [■ VERIFICAR] | no CPC o art. 388.º trata da reparação provisória; esta regra está no art. 388.º CC e a perícia nos arts. 467.º e ss. CPC |
-| art. 388.º CPC | por conferir [■ VERIFICAR] | no CPC o art. 388.º trata da reparação provisória; esta regra está no art. 388.º CC e a perícia nos arts. 467.º e ss. CPC |
+| Art. 388.º CC | conferida (epígrafe) — Objeto |  |
+| art. 388.º do Código Civil | conferida (epígrafe) — Objeto |  |
+| arts. 467.º e 475.º do Código de Processo Civil | conferida (epígrafe) — Quem realiza a perícia |  |
+| art. 388.º CC | conferida (epígrafe) — Objeto |  |
+| art. 475.º, n.º 1, CPC | conferida (epígrafe) — Indicação do objeto da perícia |  |

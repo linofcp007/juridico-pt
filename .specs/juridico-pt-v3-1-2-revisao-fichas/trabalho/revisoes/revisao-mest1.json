@@ -1,0 +1,721 @@
+[
+  {
+    "codigo": "EST-010",
+    "veredicto": "corrigida",
+    "resumo": "A ficha dirigia um «recurso hierárquico» ao inexistente «Diretor-Executivo da AIMA» e fixava-lhe o prazo de 30 dias, que é o do recurso hierárquico necessário; a Lei n.º 23/2007 não prevê impugnação administrativa necessária, pelo que a reclamação (15 dias) e o recurso hierárquico são facultativos, este no prazo de impugnação contenciosa (arts. 185.º, n.º 2, 191.º, n.º 3, e 193.º, n.º 2, do CPA). Corrigiram-se o destinatário (conselho diretivo da AIMA, I. P., com a ressalva da delegação de competências), os efeitos da impugnação (sem efeito suspensivo, mas com suspensão do prazo da ação — arts. 189.º e 190.º do CPA), a remissão para os «arts. 124.º a 135.º» (que tratam de outras matérias; o procedimento e a notificação do indeferimento estão nos arts. 81.º, 82.º e 77.º) e, no índice, a «reclamação graciosa», que é figura do procedimento tributário.",
+    "descricao": "Gera um recurso hierárquico ou uma reclamação (arts. 191.º e 193.º do CPA) contra decisão de indeferimento de pedido de autorização de residência pela AIMA, com identificação dos vícios de forma e de fundo, análise da proporcionalidade da decisão, e fundamentação nos princípios gerais do procedimento administrativo (CPA) e nos direitos garantidos pela Lei n.º 23/2007.",
+    "descricao_en": "Generates an administrative appeal (recurso hierárquico) or a complaint to the author of the decision (reclamação) under Articles 191 and 193 of the CPA against AIMA's refusal of a residence permit application, identifying formal and substantive defects, analysing the proportionality of the decision, and relying on the general principles of administrative procedure (CPA) and the rights guaranteed by Law No. 23/2007.",
+    "substituicoes": [
+      {
+        "de": "- Prazo disponível para recurso hierárquico (30 dias — art. [■ VERIFICAR: CPA])\n- Possibilidade de suspensão de eficácia da decisão durante o recurso",
+        "para": "- Prazo da impugnação administrativa, que é facultativa (art. 185.º, n.º 2, do CPA; a Lei n.º 23/2007 não prevê impugnação administrativa necessária): reclamação para o autor do ato no prazo de 15 dias (art. 191.º, n.º 3, do CPA); recurso hierárquico facultativo no prazo de impugnação contenciosa do ato, ou seja, 3 meses (art. 193.º, n.º 2, do CPA; art. 58.º, n.º 1, al. b), do CPTA) — o prazo de 30 dias só vale para o recurso hierárquico necessário\n- Efeitos: a impugnação facultativa não suspende a eficácia da decisão, mas a suspensão pode ser pedida ao autor do ato ou ao órgão competente para decidir o recurso, que decide em 5 dias (art. 189.º, n.ºs 2 e 3, do CPA); suspende o prazo da ação administrativa, sem impedir a sua propositura nem o pedido de providências cautelares (art. 190.º, n.ºs 3 e 4, do CPA; art. 87.º-B da Lei n.º 23/2007)",
+        "motivo": "O prazo de 30 dias é o do recurso hierárquico necessário; aqui a impugnação administrativa é facultativa e o recurso pode ser interposto no prazo da ação; a impugnação facultativa não suspende a eficácia do ato, mas suspende o prazo da ação.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?ficha=101&artigo_id=&nid=2248&pagina=2&tabela=leis&nversao=&so_miolo=& | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?ficha=1&artigo_id=&nid=439&pagina=1&tabela=leis&nversao=&so_miolo=& | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?ficha=101&artigo_id=&nid=920&pagina=2&tabela=leis&nversao=&so_miolo=&"
+      },
+      {
+        "de": "- Arts. 124.º a 135.º da Lei n.º 23/2007 — garantias procedimentais e causas de recusa",
+        "para": "- Arts. 81.º e 82.º da Lei n.º 23/2007 — pedido, instrução e prazo de decisão; a decisão de indeferimento é notificada com os fundamentos, o direito de impugnação judicial e o respetivo prazo (art. 82.º, n.º 8); art. 77.º, n.ºs 2 a 4 — recusa por razões de ordem pública, segurança pública ou saúde pública",
+        "motivo": "Os arts. 124.º a 135.º tratam de menores, da autorização TDE-ICT, do estatuto de residente de longa duração e da expulsão, não das garantias e causas de recusa da autorização de residência comum.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?ficha=101&artigo_id=&nid=920&pagina=2&tabela=leis&nversao=&so_miolo=&"
+      },
+      {
+        "de": "- Art. 185.º e ss. do CPA — recurso hierárquico",
+        "para": "- Arts. 184.º e ss. do CPA — impugnações administrativas: reclamação (art. 191.º) e recurso hierárquico (arts. 193.º e ss.), facultativos salvo lei que os qualifique como necessários (art. 185.º, n.º 2); o recurso é dirigido ao mais elevado superior hierárquico do autor do ato, salvo delegação ou subdelegação (art. 194.º, n.º 1)",
+        "motivo": "O regime do recurso hierárquico está nos arts. 193.º e ss.; o art. 185.º trata da natureza e dos fundamentos das impugnações.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?ficha=101&artigo_id=&nid=2248&pagina=2&tabela=leis&nversao=&so_miolo=&"
+      },
+      {
+        "de": "**EXMO. SENHOR DIRETOR-EXECUTIVO DA AIMA**\n(Recurso Hierárquico — art. 185.º do CPA)",
+        "para": "**EXMO. SENHOR PRESIDENTE DO CONSELHO DIRETIVO DA AIMA, I. P.**\n(Recurso hierárquico facultativo — arts. 185.º, 193.º e 194.º do CPA)\n[■ VERIFICAR: autor do ato e eventual delegação ou subdelegação de competências. A AIMA, I. P. não tem «diretor-executivo»: a Lei n.º 23/2007 atribui as decisões ao conselho diretivo, com faculdade de delegação (p. ex., arts. 73.º e 102.º), e o cancelamento ao membro do Governo responsável pelas migrações (art. 85.º, n.º 6). O recurso hierárquico só cabe de ato de órgão subordinado (art. 193.º, n.º 1, do CPA); se o ato for do próprio conselho diretivo, a via administrativa é a reclamação (art. 191.º do CPA), sem prejuízo da ação administrativa]",
+        "motivo": "A AIMA, I. P. é dirigida por um conselho diretivo e não tem diretor-executivo; o recurso hierárquico pressupõe ato de órgão subordinado e é dirigido ao mais elevado superior hierárquico do autor do ato.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?ficha=101&artigo_id=&nid=920&pagina=2&tabela=leis&nversao=&so_miolo=& | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?ficha=101&artigo_id=&nid=2248&pagina=2&tabela=leis&nversao=&so_miolo=&"
+      },
+      {
+        "de": "ao abrigo do artigo 185.º do Código do Procedimento Administrativo, interpor RECURSO HIERÁRQUICO",
+        "para": "ao abrigo dos artigos 185.º, 193.º e 194.º do Código do Procedimento Administrativo, interpor RECURSO HIERÁRQUICO",
+        "motivo": "O recurso hierárquico rege-se pelos arts. 193.º e 194.º do CPA.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?ficha=101&artigo_id=&nid=2248&pagina=2&tabela=leis&nversao=&so_miolo=&"
+      },
+      {
+        "de": "[Art. 185.º do CPA; prazo de 30 dias; apresentação tempestiva]",
+        "para": "[Recurso facultativo (art. 185.º, n.º 2, do CPA), interposto no prazo de impugnação contenciosa do ato — 3 meses (art. 193.º, n.º 2, do CPA; art. 58.º, n.º 1, al. b), do CPTA); apresentação tempestiva]",
+        "motivo": "O prazo de 30 dias só se aplica ao recurso hierárquico necessário (art. 193.º, n.º 2, do CPA).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?ficha=101&artigo_id=&nid=2248&pagina=2&tabela=leis&nversao=&so_miolo=& | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?ficha=1&artigo_id=&nid=439&pagina=1&tabela=leis&nversao=&so_miolo=&"
+      },
+      {
+        "de": "- [ ] Prazo de 30 dias para recurso hierárquico cumprido",
+        "para": "- [ ] Prazo da impugnação administrativa cumprido (reclamação: 15 dias; recurso hierárquico facultativo: prazo de impugnação contenciosa, 3 meses) e prazo da ação administrativa acautelado",
+        "motivo": "Prazo de 30 dias errado para a impugnação facultativa.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?ficha=101&artigo_id=&nid=2248&pagina=2&tabela=leis&nversao=&so_miolo=&"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Identificar o autor do ato de indeferimento e o despacho de delegação ou subdelegação de competências em vigor na AIMA, I. P., para escolher entre reclamação e recurso hierárquico e o respetivo destinatário.",
+      "Ponderar a propositura direta da ação administrativa (art. 87.º-B da Lei n.º 23/2007), com providência cautelar se houver urgência, já que a impugnação administrativa é facultativa e não suspende a eficácia do ato.",
+      "Confirmar se o tipo concreto de autorização de residência tem regime especial de impugnação (p. ex., estatuto de residente de longa duração, art. 132.º da Lei n.º 23/2007)."
+    ],
+    "fontes": [
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?ficha=101&artigo_id=&nid=2248&pagina=2&tabela=leis&nversao=&so_miolo=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?ficha=1&artigo_id=&nid=439&pagina=1&tabela=leis&nversao=&so_miolo=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?ficha=1&artigo_id=&nid=920&pagina=1&tabela=leis&nversao=&so_miolo=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?ficha=101&artigo_id=&nid=920&pagina=2&tabela=leis&nversao=&so_miolo=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?ficha=201&artigo_id=&nid=920&pagina=3&tabela=leis&nversao=&so_miolo=&"
+    ]
+  },
+  {
+    "codigo": "EST-011",
+    "veredicto": "corrigida",
+    "resumo": "A petição era construída como «ação administrativa especial de impugnação», forma extinta pela reforma de 2015 do CPTA; a Lei n.º 61/2025 aditou à Lei n.º 23/2007 o art. 87.º-B, que manda seguir a ação administrativa (art. 37.º do CPTA) nas ações sobre decisões ou omissões da AIMA, I. P. e restringe a intimação para proteção de direitos, liberdades e garantias. Corrigiram-se a forma e o pedido (condenação à prática do ato devido contra o indeferimento — arts. 66.º e 67.º do CPTA), as remissões para legitimidade e competência territorial (arts. 55.º e 16.º, não 50.º), o início do prazo (notificação do ato, não «decisão definitiva») e o regime da tutela cautelar (requerimento próprio, art. 114.º); assinalou-se que o afastamento coercivo é decidido pelo diretor nacional da PSP, não pela AIMA.",
+    "descricao": "Gera uma petição inicial de ação administrativa (art. 37.º do CPTA e art. 87.º-B da Lei n.º 23/2007) para impugnação judicial de decisão da AIMA (indeferimento de autorização de residência, cancelamento de título) ou de afastamento coercivo, perante o tribunal administrativo competente, com pedido de condenação à prática do ato devido quando houver indeferimento, fundamentada no Código de Processo nos Tribunais Administrativos (CPTA) e na Lei n.º 23/2007.",
+    "descricao_en": "Generates a statement of claim in an administrative action (Article 37 of the CPTA and Article 87-B of Law No. 23/2007) for judicial review of an AIMA decision (refusal of a residence permit, cancellation of a permit) or of a removal decision, before the competent administrative court, seeking an order to issue the due decision where an application was refused, grounded in the Code of Procedure in the Administrative Courts (CPTA) and Law No. 23/2007.",
+    "substituicoes": [
+      {
+        "de": "- Via administrativa prévia percorrida (recurso hierárquico e resultado)\n- Prazo para impugnação judicial: 3 meses a contar da decisão definitiva",
+        "para": "- Via administrativa prévia (facultativa — art. 185.º, n.º 2, do CPA): recurso hierárquico ou reclamação e resultado; a sua utilização suspende o prazo da ação (art. 59.º, n.º 4, do CPTA)\n- Prazo da ação: 3 meses a contar da notificação do ato ao interessado ou ao mandatário (arts. 58.º, n.º 1, al. b), e 59.º, n.º 2, do CPTA), também para o pedido de condenação à prática do ato devido contra um indeferimento (art. 69.º, n.º 2); em caso de omissão, 1 ano desde o termo do prazo legal de decisão (art. 69.º, n.º 1; prazos de decisão no art. 82.º, n.ºs 5 e 6, da Lei n.º 23/2007)\n- Autor do ato e entidade demandada: a AIMA, I. P. é demandada pelos atos dos seus órgãos (art. 10.º, n.º 2, do CPTA); a decisão de afastamento coercivo é do diretor nacional da PSP (arts. 140.º, n.º 1, e 149.º, n.º 1, da Lei n.º 23/2007) [■ VERIFICAR: nesse caso, a ação é proposta contra o Ministério da Administração Interna — art. 10.º, n.º 2, do CPTA]; a expulsão judicial (art. 140.º, n.º 3) não se impugna por esta via",
+        "motivo": "A «decisão definitiva» é conceito do contencioso anterior a 2004; o prazo conta da notificação e a impugnação administrativa facultativa suspende-o. O afastamento coercivo é da competência do diretor nacional da PSP, não da AIMA.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?ficha=1&artigo_id=&nid=439&pagina=1&tabela=leis&nversao=&so_miolo=& | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?ficha=101&artigo_id=&nid=2248&pagina=2&tabela=leis&nversao=&so_miolo=& | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?ficha=101&artigo_id=&nid=920&pagina=2&tabela=leis&nversao=&so_miolo=& | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?ficha=201&artigo_id=&nid=920&pagina=3&tabela=leis&nversao=&so_miolo=&"
+      },
+      {
+        "de": "- Arts. 50.º e 58.º do CPTA — legitimidade, prazo e competência territorial (TAF da área do domicílio do A.)",
+        "para": "- Art. 87.º-B da Lei n.º 23/2007 (aditado pela Lei n.º 61/2025) — as ações relativas a decisões ou omissões da AIMA, I. P. seguem a forma de ação administrativa (art. 37.º do CPTA), sem prejuízo da tutela cautelar; a intimação para proteção de direitos, liberdades e garantias só é admissível nos termos restritos dos seus n.ºs 2 a 4\n- Art. 55.º, n.º 1, al. a), do CPTA — legitimidade; arts. 58.º, n.º 1, al. b), e 59.º do CPTA — prazo; art. 16.º, n.º 1, do CPTA — competência territorial (tribunal da área da residência habitual do autor)\n- Arts. 66.º, 67.º, n.º 1, al. b), e 71.º do CPTA — condenação à prática do ato devido quando a decisão é de indeferimento (se a petição só pedir a anulação, o tribunal convida a substituí-la — art. 51.º, n.º 4)",
+        "motivo": "O art. 50.º do CPTA trata do objeto da impugnação: a legitimidade está no art. 55.º e a competência territorial no art. 16.º. Faltava a norma especial do art. 87.º-B da Lei n.º 23/2007 e o pedido próprio contra um indeferimento.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?ficha=101&artigo_id=&nid=920&pagina=2&tabela=leis&nversao=&so_miolo=& | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?ficha=1&artigo_id=&nid=439&pagina=1&tabela=leis&nversao=&so_miolo=&"
+      },
+      {
+        "de": "vem propor AÇÃO ADMINISTRATIVA ESPECIAL DE IMPUGNAÇÃO contra a AGÊNCIA PARA A INTEGRAÇÃO, MIGRAÇÕES E ASILO (AIMA), com sede na [■ VERIFICAR: morada sede AIMA], pedindo:\na) A anulação da decisão de [tipo], datada de [data], referência [n.º];",
+        "para": "vem propor AÇÃO ADMINISTRATIVA (art. 37.º, n.º 1, als. a) e b), do CPTA; art. 87.º-B, n.º 1, da Lei n.º 23/2007) contra a AGÊNCIA PARA A INTEGRAÇÃO, MIGRAÇÕES E ASILO, I. P. (AIMA, I. P.), com sede na [■ VERIFICAR: morada sede AIMA] [■ VERIFICAR: entidade demandada se o ato não for da AIMA, I. P. — p. ex., afastamento coercivo decidido pela PSP], pedindo:\na) Tratando-se de indeferimento, a condenação da AIMA, I. P. à prática do ato devido de [tipo] (arts. 66.º e 67.º, n.º 1, al. b), do CPTA), com a eliminação da decisão de indeferimento datada de [data], referência [n.º]; nos demais casos (p. ex., cancelamento), a anulação ou a declaração de nulidade da decisão (art. 50.º, n.º 1, do CPTA);",
+        "motivo": "A ação administrativa especial foi extinta pelo DL n.º 214-G/2015; contra um indeferimento o pedido próprio é a condenação à prática do ato devido.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?ficha=1&artigo_id=&nid=439&pagina=1&tabela=leis&nversao=&so_miolo=& | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?ficha=101&artigo_id=&nid=920&pagina=2&tabela=leis&nversao=&so_miolo=&"
+      },
+      {
+        "de": "[Identificação das partes; competência do TAF — art. 4.º do ETAF; prazo de impugnação cumprido]",
+        "para": "[Identificação das partes; competência da jurisdição administrativa — art. 4.º do ETAF; competência territorial — art. 16.º, n.º 1, do CPTA; forma de ação administrativa — art. 87.º-B da Lei n.º 23/2007; prazo de impugnação cumprido]",
+        "motivo": "Faltavam a regra de competência territorial e a norma especial sobre a forma de processo.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?ficha=1&artigo_id=&nid=439&pagina=1&tabela=leis&nversao=&so_miolo=& | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?ficha=101&artigo_id=&nid=920&pagina=2&tabela=leis&nversao=&so_miolo=&"
+      },
+      {
+        "de": "**IV. DA PROVIDÊNCIA CAUTELAR (se aplicável)**\n[Fundamento de urgência; fumus boni iuris; periculum in mora — risco de afastamento irremediável]",
+        "para": "**IV. DA PROVIDÊNCIA CAUTELAR (se aplicável)**\n[A providência é pedida em requerimento próprio, antes, com ou depois da petição, no tribunal competente para a ação (art. 114.º, n.ºs 1 e 2, do CPTA); aqui, só a referência a esse requerimento. Critérios do art. 120.º do CPTA: periculum in mora, fumus boni iuris e ponderação dos interesses em presença — risco de afastamento irremediável]",
+        "motivo": "As providências cautelares são pedidas em requerimento próprio e decididas também pela ponderação de interesses (art. 120.º, n.º 2, do CPTA).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?ficha=101&artigo_id=&nid=439&pagina=2&tabela=leis&nversao=&so_miolo=&"
+      },
+      {
+        "de": "- [ ] Prazo de 3 meses (art. 58.º CPTA) cumprido desde a notificação da decisão definitiva\n- [ ] Via administrativa prévia percorrida (ou justificação de impugnação direta)",
+        "para": "- [ ] Prazo de 3 meses (art. 58.º CPTA) cumprido desde a notificação do ato (art. 59.º, n.º 2, do CPTA), descontada a suspensão pela impugnação administrativa (art. 59.º, n.º 4)\n- [ ] Via administrativa prévia (facultativa) identificada, se tiver sido usada",
+        "motivo": "A impugnação administrativa é facultativa: a impugnação direta não carece de justificação.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?ficha=1&artigo_id=&nid=439&pagina=1&tabela=leis&nversao=&so_miolo=& | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?ficha=101&artigo_id=&nid=2248&pagina=2&tabela=leis&nversao=&so_miolo=&"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Confirmar a entidade demandada quando o ato não for da AIMA, I. P. (afastamento coercivo do diretor nacional da PSP; cancelamento decidido pelo membro do Governo sem delegação).",
+      "Avaliar se estão preenchidos os pressupostos restritos do art. 87.º-B, n.º 2, da Lei n.º 23/2007 antes de recorrer à intimação para proteção de direitos, liberdades e garantias.",
+      "Confirmar o tribunal competente (art. 16.º do CPTA) e procurar jurisprudência dos tribunais centrais administrativos sobre o art. 87.º-B antes de a citar."
+    ],
+    "fontes": [
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?ficha=1&artigo_id=&nid=439&pagina=1&tabela=leis&nversao=&so_miolo=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?ficha=101&artigo_id=&nid=439&pagina=2&tabela=leis&nversao=&so_miolo=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?ficha=101&artigo_id=&nid=2248&pagina=2&tabela=leis&nversao=&so_miolo=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?ficha=101&artigo_id=&nid=920&pagina=2&tabela=leis&nversao=&so_miolo=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?ficha=201&artigo_id=&nid=920&pagina=3&tabela=leis&nversao=&so_miolo=&"
+    ]
+  },
+  {
+    "codigo": "EST-012",
+    "veredicto": "corrigida",
+    "resumo": "A ficha assentava num regime que não corresponde à Lei n.º 37/81: «3 requisitos» com 5 anos de residência e «idoneidade cívica», alíneas trocadas (a al. a) é a maioridade), «3 anos para descendentes e cônjuges», «art. 6.º, n.º 4 — idoneidade cívica», «art. 8.º — renúncia à nacionalidade estrangeira» (o art. 8.º trata da perda da nacionalidade portuguesa) e certificado CAPLE B1 (o Regulamento refere o nível A2). Atualizou-se para a redação da Lei Orgânica n.º 1/2026 (7 ou 10 anos de residência legal, língua e cultura, declaração solene de adesão, condenações da al. f), capacidade de subsistência), com a ressalva dos procedimentos pendentes a 19 de maio de 2026; corrigiram-se ainda o destinatário do requerimento (Ministro da Justiça), a contagem da residência (art. 15.º, n.º 3) e a obtenção oficiosa do registo criminal português.",
+    "descricao": "Gera um requerimento de naturalização dirigido ao Ministro da Justiça e apresentado na Conservatória dos Registos Centrais, fundamentado no artigo 6.º, n.º 1, da Lei n.º 37/81 (Lei da Nacionalidade), na redação da Lei Orgânica n.º 1/2026, verificando os requisitos: 7 ou 10 anos de residência legal, conhecimento da língua e da cultura portuguesas, adesão aos princípios do Estado de direito democrático, inexistência das condenações previstas e capacidade de subsistência.",
+    "descricao_en": "Generates an application for naturalisation addressed to the Minister of Justice and submitted to the Central Registry Office (Conservatória dos Registos Centrais), grounded in Article 6(1) of Law No. 37/81 (Nationality Law) as amended by Organic Law No. 1/2026, checking the requirements: 7 or 10 years' legal residence, knowledge of the Portuguese language and culture, adherence to the principles of the democratic rule of law, absence of the relevant convictions and the means to support oneself.",
+    "substituicoes": [
+      {
+        "de": "- Verifica sempre os 3 requisitos cumulativos: residência legal de 5 anos, conhecimento do português, idoneidade cívica\n- Aborda a renúncia à outra nacionalidade quando exigida pelo país de origem",
+        "para": "- Verifica sempre todos os requisitos cumulativos do art. 6.º, n.º 1, da Lei n.º 37/81, na redação da Lei Orgânica n.º 1/2026, de 18 de maio (em vigor desde 19 de maio de 2026): maioridade; residência legal há pelo menos 7 anos (nacionais de países de língua oficial portuguesa e cidadãos da UE) ou 10 anos (restantes); conhecimento da língua e da cultura portuguesas, da história e dos símbolos nacionais, provado por teste ou certificado; conhecimento dos direitos e deveres fundamentais e da organização política do Estado; declaração solene de adesão aos princípios do Estado de direito democrático; inexistência das condenações da al. f); ausência de perigo ou ameaça para a segurança ou a defesa nacional; não ser destinatário de medidas restritivas da ONU ou da UE; capacidade para assegurar a subsistência\n- Aos procedimentos pendentes a 19 de maio de 2026 aplica-se a redação anterior (art. 7.º, n.º 2, da Lei Orgânica n.º 1/2026): 5 anos de residência legal, conhecimento suficiente da língua portuguesa, inexistência de condenação em pena de prisão igual ou superior a 3 anos e ausência de perigo ou ameaça para a segurança ou a defesa nacional\n- A «idoneidade cívica» não é requisito legal; a lei portuguesa não exige a renúncia à outra nacionalidade (art. 27.º) — a perda da nacionalidade de origem depende só da lei do país de origem",
+        "motivo": "Os requisitos e o prazo da naturalização mudaram com a Lei Orgânica n.º 1/2026; a «idoneidade cívica» não consta da lei e a renúncia não é exigida pela lei portuguesa.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=614&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=& | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=4016&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=& | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=614&tabela=lei_velhas&nversao=12&so_miolo="
+      },
+      {
+        "de": "- Cálculo rigoroso dos 5 anos de residência legal (contagem e interrupções)",
+        "para": "- Cálculo rigoroso do prazo de residência legal (7 ou 10 anos; 5 anos nos procedimentos pendentes): somam-se os períodos de residência legal, seguidos ou interpolados, desde que decorridos num intervalo máximo de 9 anos (países de língua oficial portuguesa e UE) ou 12 anos (restantes) — art. 15.º, n.º 3",
+        "motivo": "Prazo de residência e regra de contagem da redação atual (arts. 6.º, n.º 1, al. b), e 15.º, n.º 3).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=614&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=& | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=4016&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Prova de conhecimento da língua portuguesa: certificado CAPLE, diploma de ensino português, habilitações em PT\n- Antecedentes criminais: condenações transitadas em julgado, penas superiores a 3 anos\n- Idoneidade cívica: dívidas fiscais, dívidas à SS, sanções administrativas\n- Dupla nacionalidade: o país de origem permite manter a outra nacionalidade?\n- Situação dos familiares: cônjuge/filhos que podem beneficiar de naturalização conjunta",
+        "para": "- Prova de conhecimento da língua portuguesa (certificado CAPLE, diploma de ensino português, habilitações em PT — formas do art. 25.º, n.º 2, do Regulamento da Nacionalidade) e, na redação nova, da cultura, história e símbolos nacionais, dos direitos e deveres e da organização política do Estado [■ VERIFICAR: teste e certificados admitidos depois da revisão do Regulamento imposta pelo art. 4.º da Lei Orgânica n.º 1/2026]; os nacionais de países de língua oficial portuguesa beneficiam da presunção de conhecimento da língua (art. 6.º, n.º 10)\n- Antecedentes criminais: condenação transitada em julgado em pena de prisão efetiva superior a 3 anos por crimes de terrorismo, criminalidade violenta e especialmente violenta, criminalidade altamente organizada, contra a segurança do Estado ou de auxílio à imigração ilegal (art. 6.º, n.º 1, al. f)) — presunção ilidível, apreciada pelo Ministério Público (art. 6.º, n.ºs 14 a 16)\n- Capacidade para assegurar a subsistência (art. 6.º, n.º 1, al. i)): rendimentos, situação fiscal e contributiva [■ VERIFICAR: meios de prova a fixar no Regulamento]\n- Dupla nacionalidade: o país de origem permite manter a outra nacionalidade?\n- Situação dos familiares: os filhos menores ou incapazes podem adquirir a nacionalidade por declaração depois da aquisição pelo progenitor (art. 2.º); o cônjuge ou unido de facto tem via própria (art. 3.º)",
+        "motivo": "Condenações relevantes, subsistência e prova de conhecimentos segundo a redação atual do art. 6.º; não existe «naturalização conjunta».",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=614&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=& | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=4016&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=& | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=895&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Art. 6.º da Lei n.º 37/81 — naturalização: requisitos cumulativos\n- Art. 6.º, n.º 1, al. a) — residência legal: 5 anos (ou 3 anos para descendentes de portugueses, cônjuges, etc.)\n- Art. 6.º, n.º 1, al. b) — conhecimento suficiente da língua portuguesa\n- Art. 6.º, n.º 1, al. c) — não ter sido condenado com pena de prisão igual ou superior a 3 anos\n- Art. 6.º, n.º 4 — idoneidade cívica\n- Art. 8.º da Lei n.º 37/81 — renúncia à nacionalidade estrangeira (se exigida) [■ VERIFICAR: países que impõem renúncia]\n- Regulamento da Nacionalidade Portuguesa (Decreto-Lei n.º 237-A/2006) — procedimento e documentação [■ VERIFICAR]",
+        "para": "- Art. 6.º, n.º 1, da Lei n.º 37/81, na redação da Lei Orgânica n.º 1/2026 — naturalização: requisitos cumulativos das als. a) a i)\n- Art. 6.º, n.º 1, al. a) — maioridade\n- Art. 6.º, n.º 1, al. b) — residência legal há pelo menos 7 anos (países de língua oficial portuguesa e UE) ou 10 anos (restantes); contagem pelo art. 15.º, n.º 3\n- Art. 6.º, n.º 1, als. c) a e) — língua e cultura portuguesas, história e símbolos nacionais; direitos e deveres fundamentais e organização política do Estado; declaração solene de adesão aos princípios do Estado de direito democrático\n- Art. 6.º, n.º 1, als. f) a i) — inexistência de condenação em pena de prisão efetiva superior a 3 anos pelos crimes indicados na al. f); ausência de perigo ou ameaça para a segurança ou a defesa nacional; não ser destinatário de medidas restritivas da ONU ou da UE; capacidade para assegurar a subsistência\n- Art. 7.º, n.º 1 — a naturalização é concedida por decisão do Ministro da Justiça\n- Art. 7.º, n.º 2, da Lei Orgânica n.º 1/2026 — os procedimentos pendentes a 19 de maio de 2026 seguem a redação anterior (5 anos de residência legal)\n- A lei não exige renúncia à nacionalidade estrangeira: o art. 8.º trata da perda da nacionalidade portuguesa por declaração e o art. 27.º faz prevalecer a nacionalidade portuguesa perante a lei portuguesa [■ VERIFICAR: lei do país de origem quanto à perda da sua nacionalidade]\n- Regulamento da Nacionalidade Portuguesa (Decreto-Lei n.º 237-A/2006) — procedimento e documentação (arts. 18.º, 19.º, 25.º, 27.º e 37.º) [■ VERIFICAR: revisão do Regulamento imposta pelo art. 4.º da Lei Orgânica n.º 1/2026; o texto em vigor ainda reflete a redação anterior da lei]",
+        "motivo": "Alíneas trocadas e regras inexistentes (3 anos para descendentes e cônjuges, idoneidade cívica no n.º 4, renúncia no art. 8.º); redação atual da Lei Orgânica n.º 1/2026.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=614&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=& | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=4016&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=& | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=895&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Como documentar os 5 anos de residência legal de forma cronológica e sem lacunas",
+        "para": "- Como documentar o prazo de residência legal (7 ou 10 anos; 5 anos nos procedimentos pendentes) de forma cronológica, somando os períodos dentro do intervalo do art. 15.º, n.º 3",
+        "motivo": "Prazo e contagem da redação atual.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=614&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=& | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=4016&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Como demonstrar idoneidade cívica: regularidade fiscal, ausência de condenações, integração\n- Como apresentar eventuais condenações de menor gravidade dentro do critério de proporcionalidade",
+        "para": "- Como demonstrar a capacidade de subsistência (al. i)) e a integração: rendimentos, regularidade fiscal e contributiva\n- Como apresentar eventuais condenações à luz da presunção ilidível do art. 6.º, n.º 14 (medida da pena, tipo de crime, dolo ou negligência, tempo decorrido, reincidência, integração efetiva), apreciada pelo Ministério Público",
+        "motivo": "A «idoneidade cívica» não é requisito; as condenações são ponderadas nos termos do art. 6.º, n.º 14.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=614&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=& | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=4016&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "**CONSERVATÓRIA DOS REGISTOS CENTRAIS — SERVIÇO DE NACIONALIDADE**\n\n**REQUERIMENTO DE NATURALIZAÇÃO**",
+        "para": "**EXMO.(A) SENHOR(A) MINISTRO(A) DA JUSTIÇA**\n(requerimento apresentado na Conservatória dos Registos Centrais, numa conservatória do registo civil ou num posto consular — art. 18.º, n.º 1, do Regulamento da Nacionalidade; art. 7.º, n.º 1, da Lei n.º 37/81)\n\n**REQUERIMENTO DE NATURALIZAÇÃO**",
+        "motivo": "O requerimento é dirigido ao membro do Governo responsável pela área da justiça e apenas apresentado na Conservatória.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=895&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=& | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=614&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "**III. DO REQUISITO DE RESIDÊNCIA LEGAL (5 ANOS)**",
+        "para": "**III. DO REQUISITO DE RESIDÊNCIA LEGAL (art. 6.º, n.º 1, al. b): 7 ou 10 anos; 5 anos nos procedimentos pendentes)**",
+        "motivo": "Prazo da redação atual.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=614&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=& | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=4016&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "Total: X anos e X meses de residência legal contínua em Portugal]",
+        "para": "Total: X anos e X meses de residência legal em Portugal, seguidos ou interpolados, dentro do intervalo do art. 15.º, n.º 3]",
+        "motivo": "A lei não exige residência contínua: somam-se os períodos dentro do intervalo máximo.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=614&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "**V. DA IDONEIDADE CÍVICA**\n[Ausência de condenações criminais; situação fiscal e contributiva regularizada; integração ativa em Portugal]",
+        "para": "**V. DOS DEMAIS REQUISITOS (art. 6.º, n.º 1, als. d) a i))**\n[Conhecimento dos direitos e deveres fundamentais e da organização política do Estado; declaração solene de adesão aos princípios do Estado de direito democrático; ausência das condenações da al. f); ausência de perigo ou ameaça e de medidas restritivas; capacidade para assegurar a subsistência (rendimentos, situação fiscal e contributiva)]",
+        "motivo": "A «idoneidade cívica» não é requisito; requisitos da redação atual.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=614&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=& | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=4016&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- [ ] Certificado de conhecimento de língua portuguesa (CAPLE B1 ou superior / diploma equivalente)\n- [ ] Certificado de registo criminal português (Conservatória do Registo Criminal)",
+        "para": "- [ ] Certificado de conhecimento de língua portuguesa (o Regulamento refere o nível A2 ou superior do QECR — art. 25.º, n.º 2; ou diploma equivalente) e prova da cultura, história e símbolos nacionais [■ VERIFICAR: nível e forma de prova depois da revisão do Regulamento]\n- [ ] Certificado de registo criminal português (em regra obtido oficiosamente pelos serviços — art. 37.º, n.º 7, al. a), do Regulamento)",
+        "motivo": "O Regulamento não exige B1 (refere o nível A2); o registo criminal português é obtido oficiosamente.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=895&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- [ ] 5 anos de residência legal comprovados com todos os títulos (sem lacunas)\n- [ ] Conhecimento de português certificado (CAPLE B1 mínimo ou equivalente)\n- [ ] Ausência de condenações iguais ou superiores a 3 anos de prisão\n- [ ] Idoneidade cívica: AT, SS regularizadas",
+        "para": "- [ ] Prazo de residência legal comprovado com todos os títulos (7 ou 10 anos; 5 anos nos procedimentos pendentes), dentro do intervalo do art. 15.º, n.º 3\n- [ ] Conhecimento de português certificado (A2 ou superior, art. 25.º do Regulamento) e demais conhecimentos das als. c) e d) [■ VERIFICAR: regulamentação]\n- [ ] Ausência das condenações da al. f) (pena de prisão efetiva superior a 3 anos pelos crimes nela indicados)\n- [ ] Declaração solene de adesão (al. e)) e capacidade de subsistência (al. i)): AT, SS regularizadas",
+        "motivo": "Requisitos da redação atual da Lei n.º 37/81.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=614&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=& | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=895&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Confirmar a data de apresentação do pedido: antes de 19 de maio de 2026 aplica-se a redação anterior (art. 7.º, n.º 2, da Lei Orgânica n.º 1/2026).",
+      "Confirmar se o Regulamento da Nacionalidade já foi revisto (art. 4.º da Lei Orgânica n.º 1/2026) e que testes e certificados passaram a ser aceites para a língua, a cultura e os direitos e deveres.",
+      "Confirmar a forma da declaração solene de adesão e os meios de prova da capacidade de subsistência.",
+      "Confirmar o emolumento em vigor para o procedimento de naturalização."
+    ],
+    "fontes": [
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=614&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=614&tabela=lei_velhas&nversao=12&so_miolo=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=4016&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=895&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+    ]
+  },
+  {
+    "codigo": "EST-014",
+    "veredicto": "corrigida",
+    "resumo": "As alíneas do art. 1.º, n.º 1, da Lei n.º 37/81 estavam trocadas (a residência legal do progenitor é da al. f), não da al. e); a falta de outra nacionalidade é da al. g)) e a ficha inventava uma «via da al. f)» para o menor que concluiu o ciclo básico, que é matéria de naturalização (art. 6.º, n.º 2). A Lei Orgânica n.º 1/2026 alterou a al. f): o progenitor tem de residir legalmente em Portugal há pelo menos cinco anos à data do nascimento (antes, um ano) e a atribuição passou a depender de declaração de vontade. Corrigiram-se as regras, o enquadramento, a minuta (declaração ao abrigo da al. f); as als. e) e g) provam-se pelo assento) e as listas de verificação.",
+    "descricao": "Gera uma declaração para atribuição da nacionalidade portuguesa originária a filho de estrangeiros nascido em Portugal, fundamentada no artigo 1.º, n.º 1, alínea f) da Lei n.º 37/81 (redação da Lei Orgânica n.º 1/2026), verificando a residência legal de um dos progenitores há pelo menos cinco anos à data do nascimento, e distingue as alíneas e) e g) e a naturalização do art. 6.º, n.º 2.",
+    "descricao_en": "Generates a declaration for attribution of Portuguese nationality of origin (nacionalidade originária) to a child of foreign nationals born in Portugal, grounded in Article 1(1)(f) of Law No. 37/81 (as worded by Organic Law No. 1/2026), checking that one parent had been legally resident for at least five years at the time of birth, and distinguishing points (e) and (g) and naturalisation under Article 6(2).",
+    "substituicoes": [
+      {
+        "de": "- Verifica sempre se o progenitor tinha residência legal em PT no momento do nascimento\n- Aborda a via alternativa do art. 1.º, al. f) quando o menor completou o ciclo básico em PT",
+        "para": "- Verifica sempre se o progenitor tinha residência legal em PT no momento do nascimento e há quanto tempo (al. f): pelo menos cinco anos, na redação da Lei Orgânica n.º 1/2026, em vigor desde 19 de maio de 2026; um ano na redação anterior)\n- A conclusão de um ciclo de ensino ou a frequência escolar não é fundamento de atribuição originária: se faltar a residência exigida, avalia a naturalização de menor nascido em Portugal (art. 6.º, n.º 2: progenitor com residência legal há pelo menos cinco anos à data do pedido e frequência regular da escolaridade obrigatória)",
+        "motivo": "A frequência escolar é requisito da naturalização de menores (art. 6.º, n.º 2), não da atribuição originária; prazo da al. f) alterado pela Lei Orgânica n.º 1/2026.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=614&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=& | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=614&tabela=lei_velhas&nversao=12&so_miolo= | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=4016&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Alínea do art. 1.º aplicável:\n  * Al. e): um dos progenitores com residência legal em PT há pelo menos 1 ano [■ VERIFICAR]\n  * Al. f): nascido em PT, não atribuível outra nacionalidade, ou completou ciclo básico",
+        "para": "- Alínea do art. 1.º, n.º 1, aplicável:\n  * Al. e): um dos progenitores também nasceu em Portugal e aqui residia, independentemente de título, ao tempo do nascimento (sem declaração; prova pelo assento — art. 21.º, n.º 5)\n  * Al. f): progenitores estrangeiros que não estejam ao serviço do respetivo Estado; um deles residia legalmente em Portugal há pelo menos cinco anos no momento do nascimento; depende de declaração de que o menor quer ser português (prova da residência legal no momento da declaração — n.º 4)\n  * Al. g): nascido em Portugal sem outra nacionalidade\n- Regime no tempo: a Lei Orgânica n.º 1/2026 alterou a al. f) (antes: residência legal, ou de facto, há pelo menos um ano, e atribuição salvo declaração em contrário); aos procedimentos pendentes a 19 de maio de 2026 aplica-se a redação anterior (art. 7.º, n.º 2) [■ VERIFICAR: regime aplicável a nascimentos anteriores a 19 de maio de 2026 sem declaração nem menção no assento]",
+        "motivo": "Alíneas trocadas e requisito inexistente (ciclo básico); prazo de cinco anos e declaração de vontade introduzidos pela Lei Orgânica n.º 1/2026.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=614&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=& | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=614&tabela=lei_velhas&nversao=12&so_miolo= | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=4016&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Art. 1.º, n.º 1, al. e) da Lei n.º 37/81 — filho de estrangeiro com residência legal em PT\n- Art. 1.º, n.º 1, al. f) da Lei n.º 37/81 — nascido em Portugal sem outra nacionalidade ou com conclusão do ensino básico em PT\n- Lei Orgânica n.º 2/2020 — alargamento da al. f) [■ VERIFICAR: alterações em vigor]",
+        "para": "- Art. 1.º, n.º 1, al. e) da Lei n.º 37/81 — filho de estrangeiros em que um dos progenitores também nasceu em Portugal e aqui residia ao tempo do nascimento\n- Art. 1.º, n.º 1, al. f) da Lei n.º 37/81 — filho de estrangeiros com um progenitor a residir legalmente em Portugal há pelo menos cinco anos no momento do nascimento, mediante declaração; prova da residência legal nos termos do n.º 4 e do art. 15.º\n- Art. 1.º, n.º 1, al. g) da Lei n.º 37/81 — nascido em Portugal sem outra nacionalidade\n- Lei Orgânica n.º 1/2026, de 18 de maio — nova redação da al. f) (cinco anos e declaração de vontade); art. 7.º, n.º 2 — procedimentos pendentes; a Lei Orgânica n.º 2/2020 tinha fixado o prazo de um ano\n- Art. 6.º, n.º 2 da Lei n.º 37/81 — naturalização de menores nascidos em Portugal (via alternativa, se a atribuição não for possível)",
+        "motivo": "Conteúdo das alíneas e regime em vigor desde a Lei Orgânica n.º 1/2026.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=614&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=& | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=614&tabela=lei_velhas&nversao=12&so_miolo= | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=4016&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Regulamento da Nacionalidade — procedimento [■ VERIFICAR]",
+        "para": "- Regulamento da Nacionalidade — procedimento (arts. 3.º a 6.º e 10.º) [■ VERIFICAR: o art. 10.º do Regulamento ainda reflete a redação anterior da al. f) (um ano, atribuição no registo do nascimento); confirmar a revisão imposta pelo art. 4.º da Lei Orgânica n.º 1/2026]",
+        "motivo": "O Regulamento ainda não foi adaptado à nova redação da al. f).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=895&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=& | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=4016&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Como provar que o menor não adquiriu outra nacionalidade (se for o caso — al. f))\n- Como demonstrar a conclusão do ciclo básico em Portugal (se aplicável)",
+        "para": "- Como provar que o menor não possui outra nacionalidade (se for o caso — al. g); averbamento de apatridia, art. 6.º do Regulamento)\n- Como demonstrar, na naturalização alternativa do art. 6.º, n.º 2, a residência legal do progenitor e a frequência da escolaridade obrigatória",
+        "motivo": "A falta de outra nacionalidade é da al. g); o ciclo de ensino não releva para a atribuição.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=614&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=& | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=895&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "**REQUERIMENTO DE DECLARAÇÃO DE NACIONALIDADE PORTUGUESA ORIGINÁRIA**\n**Ao abrigo do artigo 1.º, n.º 1, alínea [e)/f)] da Lei n.º 37/81, de 3 de outubro**",
+        "para": "**DECLARAÇÃO PARA ATRIBUIÇÃO DA NACIONALIDADE PORTUGUESA ORIGINÁRIA**\n**Ao abrigo do artigo 1.º, n.º 1, alínea f) da Lei n.º 37/81, de 3 de outubro**\n> As als. e) e g) não dependem de declaração: a nacionalidade prova-se pelo assento de nascimento com as menções legais (art. 21.º, n.ºs 1 e 5, da Lei n.º 37/81; arts. 4.º e 6.º do Regulamento da Nacionalidade). Nesses casos, a peça é um pedido de menção ou de averbamento no assento [■ VERIFICAR: procedimento na conservatória].",
+        "motivo": "Só a al. f) depende de declaração de vontade.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=614&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=& | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=895&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "vem requerer a declaração de NACIONALIDADE PORTUGUESA ORIGINÁRIA do referido menor, ao abrigo do artigo 1.º, n.º 1, alínea [e)/f)] da Lei n.º 37/81, pelos seguintes fundamentos:",
+        "para": "vem declarar que o referido menor quer ser português e requerer o registo da NACIONALIDADE PORTUGUESA ORIGINÁRIA, ao abrigo do artigo 1.º, n.º 1, alínea f) da Lei n.º 37/81, pelos seguintes fundamentos:",
+        "motivo": "A al. f) exige declaração de que o interessado quer ser português.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=614&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "*3.2. Residência Legal do Progenitor no Momento do Nascimento [al. e)]*\n[Tipo e número do título de residência do progenitor em [data do nascimento]; duração da residência legal anterior ao nascimento]\n\n*Ou: Conclusão do Ensino Básico em Portugal [al. f)]*\n[Certidão ou declaração de conclusão do ciclo básico emitida pela escola — Doc. [N]]",
+        "para": "*3.2. Residência Legal do Progenitor no Momento do Nascimento [al. f)]*\n[Tipo e número do título de residência do progenitor em [data do nascimento]; residência legal há pelo menos cinco anos à data do nascimento (art. 1.º, n.º 1, al. f), e n.º 4; art. 15.º)]\n\n*3.3. Progenitores Estrangeiros que não Estão ao Serviço do Respetivo Estado [al. f)]*\n[Declaração dos progenitores]",
+        "motivo": "A residência legal do progenitor é requisito da al. f); a conclusão do ciclo básico não é fundamento de atribuição.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=614&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "Requer-se o registo da nacionalidade portuguesa originária do menor [NOME], ao abrigo do artigo 1.º, n.º 1, alínea [e)/f)] da Lei n.º 37/81.",
+        "para": "Requer-se o registo da nacionalidade portuguesa originária do menor [NOME], ao abrigo do artigo 1.º, n.º 1, alínea f) da Lei n.º 37/81.",
+        "motivo": "Só a al. f) é atribuída por declaração.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=614&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- [ ] Comprovativo de residência legal há 1 ano antes do nascimento (ou período legal exigido) [■ VERIFICAR]\n- [ ] Certidão de conclusão do ciclo básico (se aplicável — al. f))\n- [ ] Declaração de que o menor não adquiriu outra nacionalidade (se aplicável — al. f))",
+        "para": "- [ ] Comprovativo de residência legal do progenitor há pelo menos cinco anos à data do nascimento (um ano nos procedimentos pendentes a 19 de maio de 2026) — documentos do art. 15.º, n.ºs 1 e 2 (art. 1.º, n.º 4)\n- [ ] Prova de que o menor não possui outra nacionalidade (só al. g))",
+        "motivo": "Prazo da al. f) na redação atual; o ciclo básico não é requisito.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=614&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=& | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=4016&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- [ ] Alínea correta do art. 1.º identificada (e) ou f))\n- [ ] Nascimento em Portugal documentado com certidão do registo civil\n- [ ] Residência legal do progenitor na data do nascimento comprovada (al. e))\n- [ ] Período mínimo de residência legal do progenitor verificado [■ VERIFICAR]\n- [ ] Conclusão do ensino básico em PT documentada (al. f) — se aplicável)\n- [ ] Ausência de outra nacionalidade demonstrada (al. f) — se aplicável)",
+        "para": "- [ ] Alínea correta do art. 1.º, n.º 1, identificada (e), f) ou g))\n- [ ] Nascimento em Portugal documentado com certidão do registo civil\n- [ ] Residência legal do progenitor na data do nascimento comprovada (al. f))\n- [ ] Período mínimo de residência legal do progenitor verificado (cinco anos; um ano nos procedimentos pendentes)\n- [ ] Ausência de outra nacionalidade demonstrada (al. g) — se aplicável)\n- [ ] Se a atribuição não for possível, naturalização pelo art. 6.º, n.º 2, avaliada",
+        "motivo": "Alíneas e requisitos da redação atual.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=614&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=& | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=4016&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- [ ] Al. e): progenitor com residência legal em PT no momento do nascimento\n- [ ] Al. f): menor sem outra nacionalidade OU completou o ciclo básico em PT",
+        "para": "- [ ] Al. e): progenitor também nascido em Portugal e aqui residente ao tempo do nascimento\n- [ ] Al. f): progenitor com residência legal em PT há pelo menos cinco anos no momento do nascimento\n- [ ] Al. g): menor sem outra nacionalidade",
+        "motivo": "Alíneas trocadas.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=614&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "[Situações especiais: nascimento antes da Lei Orgânica n.º 2/2020, progenitor único, etc.]",
+        "para": "[Situações especiais: nascimento ou declaração anteriores a 19 de maio de 2026 (Lei Orgânica n.º 1/2026), progenitor único, etc.]",
+        "motivo": "A alteração relevante é a da Lei Orgânica n.º 1/2026.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=4016&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Confirmar o regime aplicável a crianças nascidas antes de 19 de maio de 2026 cuja nacionalidade não conste do assento (art. 7.º da Lei Orgânica n.º 1/2026).",
+      "Confirmar o procedimento da declaração na conservatória enquanto o art. 10.º do Regulamento da Nacionalidade não for revisto.",
+      "Confirmar o emolumento devido e a documentação de residência legal aceite (art. 15.º da Lei n.º 37/81)."
+    ],
+    "fontes": [
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=614&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=614&tabela=lei_velhas&nversao=12&so_miolo=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=4016&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=895&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+    ]
+  },
+  {
+    "codigo": "EST-015",
+    "veredicto": "corrigida",
+    "resumo": "A ficha assentava em prazos reduzidos de 3 anos para descendentes de portugueses, refugiados e apátridas «no art. 6.º, n.ºs 2 e 3», que a Lei n.º 37/81 não prevê em nenhuma redação: o n.º 2 trata dos menores nascidos em Portugal e o n.º 3, na redação da Lei Orgânica n.º 1/2026, só dos apátridas (4 anos de residência legal). Reescreveram-se as regras, o enquadramento e a minuta para os casos especiais em vigor — apátridas (n.º 3), bisnetos de portugueses originários com 5 anos de residência (n.º 8) e antigos nacionais que nunca adquiriram outra nacionalidade (n.º 6) —, encaminhando filhos e netos para a atribuição originária (art. 1.º, n.º 1, als. c) e d)) e os refugiados para o regime geral (7 ou 10 anos). Corrigiram-se também o nível de língua (o Regulamento refere A2, não B1) e o destinatário do requerimento (Ministro da Justiça).",
+    "descricao": "Gera um requerimento de naturalização para os casos especiais do artigo 6.º da Lei n.º 37/81, na redação da Lei Orgânica n.º 1/2026: apátridas (4 anos de residência legal, n.º 3), bisnetos de portugueses originários (5 anos, n.º 8) e antigos nacionais que nunca adquiriram outra nacionalidade (n.º 6). Encaminha filhos e netos de portugueses para a atribuição originária (art. 1.º), cônjuges e unidos de facto para o art. 3.º e refugiados para o regime geral.",
+    "descricao_en": "Generates a naturalisation application for the special cases in Article 6 of Law No. 37/81 as amended by Organic Law No. 1/2026: stateless persons (4 years' legal residence, para. 3), great-grandchildren of Portuguese nationals of origin (5 years, para. 8) and former nationals who never acquired another nationality (para. 6). It refers children and grandchildren of Portuguese nationals to attribution of nationality of origin (Article 1), spouses and de facto partners to Article 3 and refugees to the general regime.",
+    "substituicoes": [
+      {
+        "de": "- Aborda sempre os requisitos comuns: ausência de condenações e conhecimento de português",
+        "para": "- Aborda sempre os requisitos comuns aplicáveis (art. 6.º, n.º 1, als. c) a h), da Lei n.º 37/81; nos n.ºs 6 e 8, também as als. a) e i))\n- Usa a Lei n.º 37/81 na redação da Lei Orgânica n.º 1/2026 (em vigor desde 19 de maio de 2026); aos procedimentos pendentes nessa data aplica-se a redação anterior (art. 7.º, n.º 2, da Lei Orgânica n.º 1/2026)\n- Não existe prazo reduzido de 3 anos para descendentes, cônjuges ou refugiados. Os casos especiais de naturalização são: apátridas — 4 anos de residência legal (art. 6.º, n.º 3); bisnetos de portugueses originários — 5 anos de residência legal, com dispensa da al. b) (art. 6.º, n.º 8); quem perdeu a nacionalidade portuguesa, nunca adquiriu outra e mantém laços de ligação efetiva — dispensa da al. b) (art. 6.º, n.º 6). Os filhos e os netos de portugueses têm a via da atribuição originária (art. 1.º, n.º 1, als. c) e d)); o cônjuge ou unido de facto, a aquisição por declaração (art. 3.º); o refugiado segue o regime geral (art. 6.º, n.º 1, al. b): 7 ou 10 anos), contando como residência legal a que tem ao abrigo do regime do asilo (art. 15.º, n.º 1)",
+        "motivo": "Os prazos reduzidos de 3 anos não existem na Lei n.º 37/81; casos especiais da redação da Lei Orgânica n.º 1/2026.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=614&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=& | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=4016&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=& | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=614&tabela=lei_velhas&nversao=12&so_miolo="
+      },
+      {
+        "de": "- Caso especial invocado: descendente de português / refugiado reconhecido / apátrida\n- Prazo reduzido aplicável e fundamento legal\n- Prova da condição especial: ascendência portuguesa documentada / decreto de reconhecimento do estatuto de refugiado / reconhecimento de apatridia\n- Cumprimento do prazo reduzido de residência legal em Portugal",
+        "para": "- Caso especial invocado: apátrida (art. 6.º, n.º 3) / bisneto de português originário (art. 6.º, n.º 8) / antigo nacional que nunca adquiriu outra nacionalidade (art. 6.º, n.º 6); se for filho ou neto de português, encaminhar para a atribuição originária (art. 1.º, n.º 1, als. c) e d)); se for refugiado, para a naturalização geral (art. 6.º, n.º 1)\n- Prazo aplicável e fundamento legal: 4 anos (apátrida); 5 anos (bisneto); sem prazo de residência (antigo nacional); 7 ou 10 anos (refugiado, regime geral); redação anterior nos procedimentos pendentes a 19 de maio de 2026\n- Prova da condição especial: reconhecimento de apatridia / ascendência portuguesa originária em 3.º grau na linha reta documentada / registo da perda da nacionalidade portuguesa\n- Cumprimento do prazo de residência legal em Portugal (somando os períodos dentro do intervalo do art. 15.º, n.º 3)",
+        "motivo": "Casos e prazos inexistentes substituídos pelos da lei em vigor.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=614&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=& | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=4016&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Art. 6.º, n.º 2 da Lei n.º 37/81 — prazo reduzido para descendentes de portugueses [■ VERIFICAR: graus de parentesco elegíveis e prazo atual]\n- Art. 6.º, n.º 3 da Lei n.º 37/81 — prazo reduzido para refugiados e apátridas [■ VERIFICAR: prazo atual]",
+        "para": "- Art. 6.º, n.º 3 da Lei n.º 37/81 — apátridas com residência legal há pelo menos 4 anos e os requisitos das als. c) a h) do n.º 1; procedimento gratuito (n.º 12)\n- Art. 6.º, n.º 8 da Lei n.º 37/81 — descendentes em 3.º grau na linha reta de portugueses originários com residência legal há pelo menos 5 anos (dispensa da al. b) do n.º 1)\n- Art. 6.º, n.º 6 da Lei n.º 37/81 — quem perdeu a nacionalidade portuguesa, nunca adquiriu outra e mantém laços de ligação efetiva (dispensa da al. b) do n.º 1)\n- Art. 1.º, n.º 1, als. c) e d) da Lei n.º 37/81 — filhos e netos de portugueses: atribuição da nacionalidade originária, não naturalização (para os netos, laços de efetiva ligação e requisitos das als. c) a h) do art. 6.º, n.º 1 — art. 1.º, n.º 3)\n- Refugiados: sem prazo especial — art. 6.º, n.º 1, al. b) (7 anos para nacionais de países de língua oficial portuguesa e da UE, 10 anos para os restantes); a residência ao abrigo do regime do asilo é residência legal (art. 15.º, n.º 1)",
+        "motivo": "O n.º 2 do art. 6.º trata dos menores nascidos em Portugal e o n.º 3 só dos apátridas (4 anos); não há regime especial para refugiados nem para descendentes no n.º 2.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=614&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=& | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=4016&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Lei n.º 27/2008 — asilo em Portugal e estatuto de refugiado",
+        "para": "- Lei n.º 27/2008 — asilo em Portugal e estatuto de refugiado (alterada pela Lei n.º 62/2026, de 10 de setembro)",
+        "motivo": "Alteração de 2026 à Lei do Asilo.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=4056&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Requisitos comuns: ausência de condenações (art. 6.º, n.º 1, al. c)) e conhecimento do português",
+        "para": "- Requisitos comuns: art. 6.º, n.º 1, als. c) a h) — língua e cultura portuguesas, história e símbolos nacionais (presunção da primeira parte da al. c) para nacionais de países de língua oficial portuguesa — n.º 10); direitos e deveres e organização política do Estado; declaração solene de adesão; inexistência das condenações da al. f); ausência de perigo ou ameaça para a segurança; não ser destinatário de medidas restritivas (nos n.ºs 6 e 8, também a capacidade de subsistência da al. i))",
+        "motivo": "A al. c) é a da língua e cultura; as condenações estão na al. f) da redação atual.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=614&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=& | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=4016&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Como documentar a ascendência portuguesa (certidão de nascimento do progenitor/avô português)\n- Como apresentar o decreto de reconhecimento do estatuto de refugiado / apatridia\n- Como demonstrar o cumprimento do prazo reduzido de residência legal",
+        "para": "- Como documentar a ascendência portuguesa originária em 3.º grau (certidões de nascimento do requerente, do progenitor, do avô e do bisavô português)\n- Como apresentar o reconhecimento da apatridia\n- Como demonstrar o cumprimento do prazo de residência legal aplicável",
+        "motivo": "Adaptação aos casos especiais em vigor.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=614&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "**CONSERVATÓRIA DOS REGISTOS CENTRAIS — SERVIÇO DE NACIONALIDADE**\n\n**REQUERIMENTO DE NATURALIZAÇÃO — CASO ESPECIAL**\n**Ao abrigo do artigo 6.º, n.º [2/3] da Lei n.º 37/81, de 3 de outubro**",
+        "para": "**EXMO.(A) SENHOR(A) MINISTRO(A) DA JUSTIÇA**\n(requerimento apresentado na Conservatória dos Registos Centrais, numa conservatória do registo civil ou num posto consular — art. 18.º, n.º 1, do Regulamento da Nacionalidade; art. 7.º, n.º 1, da Lei n.º 37/81)\n\n**REQUERIMENTO DE NATURALIZAÇÃO — CASO ESPECIAL**\n**Ao abrigo do artigo 6.º, n.º [3/6/8] da Lei n.º 37/81, de 3 de outubro**",
+        "motivo": "O requerimento é dirigido ao membro do Governo responsável pela justiça; números do art. 6.º em vigor.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=895&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=& | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=614&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "vem requerer a aquisição da NACIONALIDADE PORTUGUESA POR NATURALIZAÇÃO ao abrigo do artigo 6.º, n.º [2/3] da Lei n.º 37/81, por ser [descendente de português/a / refugiado/a reconhecido/a / apátrida reconhecido/a], pelos seguintes fundamentos:",
+        "para": "vem requerer a aquisição da NACIONALIDADE PORTUGUESA POR NATURALIZAÇÃO ao abrigo do artigo 6.º, n.º [3/6/8] da Lei n.º 37/81, por ser [apátrida reconhecido/a / antigo/a nacional português/a que nunca adquiriu outra nacionalidade / bisneto/a de português/a originário/a], pelos seguintes fundamentos:",
+        "motivo": "Casos especiais em vigor.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=614&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "[Art. 6.º, n.º [2/3] — transcrição do preceito]",
+        "para": "[Art. 6.º, n.º [3/6/8] — transcrição do preceito]",
+        "motivo": "Números do art. 6.º em vigor.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=614&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "*[Para descendente de português:]*\nO/A requerente é filho/a (ou neto/a) de [nome], cidadão/ã português/a, conforme certidão de nascimento/filiação (Doc. [N]).\n\n*[Para refugiado reconhecido:]*\nO/A requerente é titular do estatuto de refugiado, reconhecido por despacho da AIMA datado de [data] (Doc. [N]).",
+        "para": "*[Para bisneto de português originário — n.º 8:]*\nO/A requerente é bisneto/a de [nome], cidadão/ã português/a originário/a, descendente em 3.º grau na linha reta, conforme certidões de nascimento e filiação (Doc. [N]), e reside legalmente em Portugal há pelo menos cinco anos.\n\n*[Para antigo nacional — n.º 6:]*\nO/A requerente teve a nacionalidade portuguesa, perdeu-a em [data] e nunca adquiriu outra, mantendo laços de ligação efetiva à comunidade nacional (Doc. [N]).\n\n> Filhos e netos de portugueses não usam esta minuta: têm a atribuição da nacionalidade originária (art. 1.º, n.º 1, als. c) e d)). O refugiado reconhecido não tem prazo especial: usa a naturalização geral do art. 6.º, n.º 1.",
+        "motivo": "Filhos e netos de portugueses não se naturalizam; o refugiado não tem regime especial.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=614&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=& | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=4016&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "[Histórico de residência legal em Portugal: total de X anos — cumprimento do prazo reduzido de [3] anos]",
+        "para": "[Histórico de residência legal em Portugal: total de X anos — cumprimento do prazo aplicável: [4] anos (apátrida) ou [5] anos (bisneto); no n.º 6, sem prazo de residência]",
+        "motivo": "O prazo de 3 anos não existe.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=614&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "**VI. DA IDONEIDADE CÍVICA**\n[Ausência de condenações; regularidade fiscal]",
+        "para": "**VI. DOS DEMAIS REQUISITOS (art. 6.º, n.º 1, als. d) a h); nos n.ºs 6 e 8, também a al. i))**\n[Direitos e deveres e organização política do Estado; declaração solene de adesão; ausência das condenações da al. f); ausência de perigo ou ameaça e de medidas restritivas; capacidade de subsistência e regularidade fiscal, quando exigível]",
+        "motivo": "A «idoneidade cívica» não é requisito legal; requisitos da redação atual.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=614&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=& | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=4016&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "Requer-se a naturalização ao abrigo do artigo 6.º, n.º [2/3] da Lei n.º 37/81.",
+        "para": "Requer-se a naturalização ao abrigo do artigo 6.º, n.º [3/6/8] da Lei n.º 37/81.",
+        "motivo": "Números do art. 6.º em vigor.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=614&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- [ ] *[Descendente de PT]:* Certidão de nascimento do progenitor/avô português; certidão de nascimento do requerente com filiação inscrita\n- [ ] *[Refugiado]:* Título de residência para refugiado; decreto de reconhecimento do estatuto\n- [ ] *[Apátrida]:* Documento de reconhecimento de apatridia\n- [ ] Todos os títulos de residência em Portugal\n- [ ] Certificado de conhecimento de português (CAPLE B1 ou superior)",
+        "para": "- [ ] *[Bisneto de PT — n.º 8]:* Certidões de nascimento do requerente, do progenitor, do avô e do bisavô português originário, com as filiações inscritas\n- [ ] *[Antigo nacional — n.º 6]:* Prova da perda da nacionalidade portuguesa e de que nunca adquiriu outra\n- [ ] *[Apátrida — n.º 3]:* Documento de reconhecimento de apatridia\n- [ ] Todos os títulos de residência em Portugal (o documento da AIMA é, em regra, obtido oficiosamente — art. 37.º, n.º 7, al. b), do Regulamento da Nacionalidade)\n- [ ] Certificado de conhecimento de português (o Regulamento refere o nível A2 ou superior do QECR — art. 25.º, n.º 2) [■ VERIFICAR: prova da cultura, história e símbolos nacionais depois da revisão do Regulamento]",
+        "motivo": "Documentos dos casos especiais em vigor; o Regulamento refere o nível A2, não B1.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=614&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=& | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=895&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- [ ] Prazo reduzido de residência legal cumprido (3 anos ou prazo vigente)\n- [ ] Prova da condição especial (ascendência, estatuto de refugiado, apatridia) documentada",
+        "para": "- [ ] Prazo de residência legal aplicável cumprido (4 anos — apátrida; 5 anos — bisneto; redação anterior nos procedimentos pendentes)\n- [ ] Prova da condição especial (apatridia, ascendência em 3.º grau, perda anterior da nacionalidade) documentada",
+        "motivo": "O prazo de 3 anos não existe.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=614&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=& | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=4016&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- [ ] Descendente de português (pai/mãe/avô/avó): [identificar o ascendente português e documentação]\n- [ ] Refugiado reconhecido: [n.º e data do decreto de reconhecimento]\n- [ ] Apátrida reconhecido: [documento de reconhecimento]",
+        "para": "- [ ] Bisneto de português originário: [identificar o bisavô português e documentação] (filho ou neto: atribuição originária, art. 1.º)\n- [ ] Antigo nacional português que nunca adquiriu outra nacionalidade: [data e registo da perda]\n- [ ] Apátrida reconhecido: [documento de reconhecimento]\n- [ ] Refugiado reconhecido: [n.º e data do reconhecimento] (regime geral do art. 6.º, n.º 1)",
+        "motivo": "Casos especiais em vigor.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=614&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Confirmar a data do pedido: aos procedimentos pendentes a 19 de maio de 2026 aplica-se a redação anterior da Lei n.º 37/81, que tinha outros casos especiais (p. ex., dispensa de residência e de língua para descendentes de portugueses originários — antigo n.º 6).",
+      "Confirmar a forma de reconhecimento da apatridia aceite pela Conservatória dos Registos Centrais.",
+      "Confirmar a regulamentação da prova de língua, cultura e direitos e deveres depois da revisão do Regulamento da Nacionalidade."
+    ],
+    "fontes": [
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=614&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=614&tabela=lei_velhas&nversao=12&so_miolo=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=4016&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=895&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=4056&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+    ]
+  },
+  {
+    "codigo": "EST-016",
+    "veredicto": "corrigida",
+    "resumo": "A peça era um «recurso contencioso», meio extinto com a entrada em vigor do CPTA; contra o indeferimento da naturalização usa-se a ação administrativa de condenação à prática do ato devido (arts. 37.º, 66.º e 67.º do CPTA; art. 26.º da Lei n.º 37/81), contra o Ministério da Justiça, porque a decisão é do Ministro (art. 7.º, n.º 1). A ficha tratava ainda a falta de ligação efetiva como fundamento de indeferimento da naturalização («art. 6.º, n.º 6») e misturava a oposição do Ministério Público: a ligação efetiva é fundamento de oposição à aquisição por declaração (art. 9.º), deduzida pelo Ministério Público em ação judicial (art. 10.º), à qual se responde por contestação. Corrigiram-se as regras, o enquadramento (incluindo o inexistente «art. 3.º-A» e os arts. 50.º/55.º do CPTA), a minuta e o pedido.",
+    "descricao": "Gera uma petição de ação administrativa de condenação à prática do ato devido contra o indeferimento de pedido de naturalização (art. 6.º da Lei n.º 37/81), para apresentar no tribunal administrativo competente, fundamentada no CPTA e na Lei n.º 37/81, identificando os vícios da decisão e os requisitos dados como não preenchidos; na aquisição por casamento, a falta de ligação efetiva é discutida na ação de oposição do Ministério Público.",
+    "descricao_en": "Generates a statement of claim in an administrative action seeking an order to issue the due decision against the refusal of a naturalisation application (Article 6 of Law No. 37/81), to be filed with the competent administrative court, grounded in the CPTA and Law No. 37/81, identifying the defects in the decision and the requirements deemed unmet; in acquisition by marriage, the lack of an effective connection is litigated in the Public Prosecutor's opposition action.",
+    "substituicoes": [
+      {
+        "de": "- Aborda sempre o conceito de \"ligação efetiva à comunidade nacional\" com base em jurisprudência real [■ VERIFICAR]",
+        "para": "- Identifica o tipo de decisão: (i) indeferimento da naturalização (art. 6.º) pelo Ministro da Justiça (art. 7.º, n.º 1, da Lei n.º 37/81) ou indeferimento liminar pelo conservador (art. 27.º, n.ºs 2 a 4, do Regulamento da Nacionalidade) — esta minuta: ação administrativa de condenação à prática do ato devido (arts. 66.º e 67.º, n.º 1, al. b), do CPTA; art. 26.º da Lei n.º 37/81); (ii) aquisição por declaração, p. ex. por casamento ou união de facto (art. 3.º): a falta de ligação efetiva é fundamento de oposição, deduzida pelo Ministério Público em ação judicial no prazo de dois anos a contar do registo da aquisição (um ano na redação anterior) — arts. 9.º e 10.º —, e responde-se por contestação nessa ação, não por esta minuta; (iii) apreciação pelo Ministério Público do requisito da al. f) do art. 6.º, n.º 1: ação própria do art. 6.º, n.º 15\n- Só aborda a «ligação efetiva à comunidade nacional» quando for o fundamento aplicável (art. 1.º, n.º 1, al. d), art. 6.º, n.º 6, e art. 9.º, n.º 1, al. a)), e com jurisprudência real [■ VERIFICAR]\n- Aplica a Lei n.º 37/81 na redação vigente à data do pedido: a da Lei Orgânica n.º 1/2026 aos pedidos apresentados desde 19 de maio de 2026; a anterior aos procedimentos pendentes nessa data (art. 7.º, n.º 2, da Lei Orgânica n.º 1/2026)",
+        "motivo": "A falta de ligação efetiva não é fundamento de indeferimento da naturalização: é fundamento de oposição à aquisição por efeito da vontade, deduzida pelo Ministério Público em ação judicial.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=614&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=& | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=614&tabela=lei_velhas&nversao=12&so_miolo= | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=4016&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=& | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=895&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=& | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?ficha=1&artigo_id=&nid=439&pagina=1&tabela=leis&nversao=&so_miolo=&"
+      },
+      {
+        "de": "- Tipo de pedido indeferido: naturalização / aquisição por casamento",
+        "para": "- Tipo de pedido: naturalização (esta minuta) / aquisição por casamento ou união de facto (oposição do Ministério Público em ação judicial — arts. 9.º e 10.º; fora desta minuta)",
+        "motivo": "A aquisição por casamento não é indeferida por falta de ligação efetiva: é objeto de oposição judicial.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=614&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Data da decisão e fundamentos invocados pelo Ministério Público ou pela Conservatória\n- Vício principal da decisão: falta de ligação efetiva, condenação criminal, insuficiência de português",
+        "para": "- Data da decisão, autor (Ministro da Justiça ou conservador, em indeferimento liminar) e fundamentos; parecer da Conservatória dos Registos Centrais e pronúncia do interessado (art. 27.º, n.ºs 10 a 12, do Regulamento da Nacionalidade)\n- Vício principal da decisão: requisito do art. 6.º, n.º 1, dado como não preenchido (residência legal, língua e cultura, condenação da al. f), segurança, subsistência), falta de fundamentação, erro nos pressupostos",
+        "motivo": "A decisão de naturalização é do Ministro da Justiça, precedida de parecer da Conservatória; o Ministério Público não indefere pedidos de naturalização.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=614&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=& | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=895&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Prazo de recurso: 3 meses a contar da notificação",
+        "para": "- Prazo da ação: 3 meses a contar da notificação (arts. 58.º, n.º 1, al. b), 59.º, n.º 2, e 69.º, n.º 2, do CPTA)",
+        "motivo": "Não há recurso contencioso; prazo da ação administrativa.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?ficha=1&artigo_id=&nid=439&pagina=1&tabela=leis&nversao=&so_miolo=&"
+      },
+      {
+        "de": "- Art. 6.º da Lei n.º 37/81 — requisitos de naturalização\n- Art. 6.º, n.º 6 — indeferimento por ausência de ligação efetiva à comunidade nacional\n- Art. 3.º ou 3.º-A — aquisição por casamento / união de facto (se aplicável)\n- Arts. 50.º e 58.º do CPTA — legitimidade e prazo de impugnação",
+        "para": "- Art. 6.º, n.º 1, da Lei n.º 37/81 — requisitos de naturalização (als. a) a i), na redação da Lei Orgânica n.º 1/2026; redação anterior nos procedimentos pendentes a 19 de maio de 2026)\n- Art. 7.º, n.º 1 — decisão do Ministro da Justiça; arts. 25.º e 26.º — legitimidade dos interessados diretos e aplicação do ETAF e do CPTA ao contencioso da nacionalidade\n- Art. 3.º, n.ºs 1 e 3, e arts. 9.º e 10.º — aquisição por casamento ou união de facto e oposição do Ministério Público (fora do âmbito desta minuta)\n- Art. 55.º, n.º 1, al. a), do CPTA — legitimidade; arts. 58.º, n.º 1, al. b), 59.º, n.º 2, e 69.º, n.º 2, do CPTA — prazo; arts. 66.º, 67.º, n.º 1, al. b), e 71.º do CPTA — condenação à prática do ato devido; art. 10.º, n.º 2, do CPTA — entidade demandada (Ministério da Justiça)",
+        "motivo": "O art. 6.º, n.º 6, trata de antigos nacionais, não de indeferimento por falta de ligação efetiva; não existe art. 3.º-A (a união de facto é o art. 3.º, n.º 3); a legitimidade está no art. 55.º do CPTA.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=614&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=& | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?ficha=1&artigo_id=&nid=439&pagina=1&tabela=leis&nversao=&so_miolo=&"
+      },
+      {
+        "de": "- Como demonstrar a ligação efetiva à comunidade nacional com documentação concreta\n- Argumento de que a \"ligação efetiva\" é um conceito jurídico indeterminado que deve ser interpretado restritivamente",
+        "para": "- Como demonstrar, com documentação concreta, o preenchimento do requisito dado como não verificado (art. 6.º, n.º 1)\n- No art. 6.º, n.º 1, o Governo «concede» a nacionalidade a quem preencha os requisitos: sustentar que a decisão é vinculada e pedir a condenação à prática do ato (art. 71.º, n.º 1, do CPTA); nas vias em que o Governo «pode conceder» (n.ºs 4, 6, 8 e 9), pedir subsidiariamente a explicitação das vinculações (art. 71.º, n.º 2)",
+        "motivo": "A ligação efetiva não é requisito da naturalização do art. 6.º, n.º 1.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=614&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=& | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?ficha=1&artigo_id=&nid=439&pagina=1&tabela=leis&nversao=&so_miolo=&"
+      },
+      {
+        "de": "RECURSO CONTENCIOSO DE INDEFERIMENTO DE PEDIDO DE NATURALIZAÇÃO\n\n[NOME COMPLETO], de nacionalidade [país], NIF [número], residente em [morada], representado/a pelo Advogado [nome], Cédula OA n.º [número], vem interpor RECURSO CONTENCIOSO contra a decisão de indeferimento do pedido de naturalização, notificada em [data], com os seguintes fundamentos:",
+        "para": "AÇÃO ADMINISTRATIVA DE CONDENAÇÃO À PRÁTICA DE ATO DEVIDO — INDEFERIMENTO DE PEDIDO DE NATURALIZAÇÃO\n[■ VERIFICAR: tribunal da área da residência habitual do autor (art. 16.º, n.º 1, do CPTA); se o autor residir no estrangeiro, Tribunal Administrativo de Círculo de Lisboa (art. 22.º do CPTA)]\n\n[NOME COMPLETO], de nacionalidade [país], NIF [número], residente em [morada], representado/a pelo Advogado [nome], Cédula OA n.º [número], vem propor AÇÃO ADMINISTRATIVA (arts. 37.º, n.º 1, al. b), 66.º e 67.º, n.º 1, al. b), do Código de Processo nos Tribunais Administrativos; art. 26.º da Lei n.º 37/81) contra o MINISTÉRIO DA JUSTIÇA (art. 10.º, n.º 2, do CPTA) [■ VERIFICAR: se o ato for um indeferimento liminar do conservador, a entidade demandada é o IRN, I. P.], com fundamento no indeferimento do pedido de naturalização, notificado em [data], com os seguintes fundamentos:",
+        "motivo": "O recurso contencioso foi substituído pela ação administrativa; a decisão é do Ministro da Justiça, pelo que é demandado o Ministério.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?ficha=1&artigo_id=&nid=439&pagina=1&tabela=leis&nversao=&so_miolo=& | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=614&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "**I. DAS PARTES E DO OBJETO DO RECURSO**\n[Identificação do recorrente; identificação da decisão recorrida; prazo cumprido]",
+        "para": "**I. DAS PARTES E DO OBJETO DA AÇÃO**\n[Identificação do autor e da entidade demandada; identificação da pretensão e do ato de indeferimento; prazo cumprido]",
+        "motivo": "Forma de processo atual.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?ficha=1&artigo_id=&nid=439&pagina=1&tabela=leis&nversao=&so_miolo=&"
+      },
+      {
+        "de": "[Cronologia: pedido, oposição do MP (se houve), decisão de indeferimento, notificação]",
+        "para": "[Cronologia: pedido, parecer da Conservatória dos Registos Centrais, pronúncia do interessado (art. 27.º, n.ºs 10 a 12, do Regulamento da Nacionalidade), pronúncia do Ministério Público sobre a al. f) (se houve), decisão de indeferimento, notificação]",
+        "motivo": "No procedimento de naturalização não há oposição do Ministério Público.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=895&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=& | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=614&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "[A decisão recorrida não explicita os factos concretos que revelam a ausência de ligação efetiva — viola",
+        "para": "[A decisão impugnada não explicita os factos concretos que fundam a falta do requisito invocado — viola",
+        "motivo": "A ligação efetiva não é requisito da naturalização.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=614&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "*3.2. Erro de Apreciação — Ligação Efetiva à Comunidade Nacional*\n[Elementos concretos de ligação:",
+        "para": "*3.2. Erro de Apreciação — Requisitos do art. 6.º, n.º 1, da Lei n.º 37/81*\n[Elementos concretos que demonstram o requisito dado como não preenchido:",
+        "motivo": "A ligação efetiva não é requisito da naturalização.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=614&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "a) A anulação da decisão de indeferimento;\nb) A sua substituição por decisão de deferimento do pedido de naturalização;\nc) A condenação da parte contrária nas custas do processo.",
+        "para": "a) A condenação do Ministério da Justiça à prática do ato devido — a concessão da nacionalidade portuguesa por naturalização — no prazo que o tribunal fixar, com a eliminação do ato de indeferimento (arts. 66.º, n.º 2, e 71.º, n.º 1, do CPTA);\nb) Subsidiariamente, a condenação à prática de novo ato, com respeito pelas vinculações que o tribunal explicitar (art. 71.º, n.º 2, do CPTA);\nc) A condenação da entidade demandada nas custas do processo.",
+        "motivo": "Contra um indeferimento o pedido próprio é a condenação à prática do ato devido.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?ficha=1&artigo_id=&nid=439&pagina=1&tabela=leis&nversao=&so_miolo=&"
+      },
+      {
+        "de": "- [ ] Conceito de \"ligação efetiva\" atacado com elementos concretos",
+        "para": "- [ ] Requisito dado como não preenchido rebatido com elementos concretos",
+        "motivo": "A ligação efetiva não é requisito da naturalização.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=614&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Confirmar o autor do ato (Ministro da Justiça, eventual delegação, ou conservador em indeferimento liminar) para identificar a entidade demandada.",
+      "Confirmar o tribunal territorialmente competente, sobretudo se o autor residir no estrangeiro.",
+      "Na aquisição por casamento ou união de facto, preparar a contestação na ação de oposição do Ministério Público (arts. 9.º e 10.º da Lei n.º 37/81) com base noutra minuta.",
+      "Procurar jurisprudência real do STA e dos TCA sobre o requisito concreto antes de a citar."
+    ],
+    "fontes": [
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=614&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=614&tabela=lei_velhas&nversao=12&so_miolo=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=4016&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=895&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?ficha=1&artigo_id=&nid=439&pagina=1&tabela=leis&nversao=&so_miolo=&"
+    ]
+  },
+  {
+    "codigo": "EST-017",
+    "veredicto": "corrigida",
+    "resumo": "O quadro das vias de aquisição tinha erros de lei: «art. 2.º — adoção» (o art. 2.º trata dos filhos menores de quem adquire; a adoção é o art. 5.º), «art. 3.º-A — união de facto» (inexistente; é o art. 3.º, n.º 3), «prazos reduzidos de 3 anos nos n.ºs 2 e 3 do art. 6.º» (inexistentes) e «idoneidade» como requisito comum. Atualizou-se para a Lei Orgânica n.º 1/2026: naturalização com 7 anos de residência legal (países de língua oficial portuguesa e UE) ou 10 anos (restantes), novos requisitos do art. 6.º, n.º 1, als. c) a i), al. f) do art. 1.º com cinco anos, e as vias que faltavam (netos, bisnetos, apátridas, menores nascidos em Portugal), com a ressalva dos procedimentos pendentes a 19 de maio de 2026.",
+    "substituicoes": [
+      {
+        "de": "  * Art. 1.º — atribuição originária (nascimento em PT com progenitor residente)\n  * Art. 2.º — adoção por português\n  * Art. 3.º — casamento com português\n  * Art. 3.º-A — união de facto com português\n  * Art. 6.º, n.º 1 — naturalização (5 anos)\n  * Art. 6.º, n.os 2 e 3 — prazos reduzidos (3 anos) para casos especiais\n- Requisitos comuns: ausência de condenações, conhecimento de português, idoneidade",
+        "para": "  * Art. 1.º, n.º 1 — atribuição originária: filhos de português nascidos no estrangeiro (al. c)); netos de português originário, com laços de efetiva ligação e os requisitos das als. c) a h) do art. 6.º, n.º 1 (al. d) e n.º 3); nascidos em Portugal, filhos de estrangeiros, com um progenitor também aqui nascido e residente (al. e)) ou com um progenitor a residir legalmente em Portugal há pelo menos 5 anos à data do nascimento, mediante declaração (al. f))\n  * Art. 2.º — filhos menores ou incapazes de quem adquira a nacionalidade\n  * Art. 3.º, n.º 1 — casamento com português há mais de 3 anos\n  * Art. 3.º, n.º 3 — união de facto com português há mais de 3 anos, após reconhecimento judicial\n  * Art. 5.º — adoção por português\n  * Art. 6.º, n.º 1 — naturalização: 7 anos de residência legal (nacionais de países de língua oficial portuguesa e cidadãos da UE) ou 10 anos (restantes)\n  * Art. 6.º, n.ºs 2, 3, 6, 8 e 9 — menores nascidos em Portugal (progenitor com 5 anos de residência legal e frequência da escolaridade obrigatória), apátridas (4 anos), antigos nacionais, bisnetos de portugueses originários (5 anos) e serviços relevantes ao Estado\n  * Lei n.º 37/81 na redação da Lei Orgânica n.º 1/2026 (em vigor desde 19 de maio de 2026); os procedimentos pendentes nessa data seguem a redação anterior — p. ex., naturalização com 5 anos (art. 7.º, n.º 2, da Lei Orgânica n.º 1/2026)\n- Requisitos comuns da naturalização (art. 6.º, n.º 1, als. c) a i)): língua e cultura portuguesas, história e símbolos nacionais; direitos e deveres e organização política do Estado; declaração solene de adesão aos princípios do Estado de direito democrático; inexistência das condenações da al. f); ausência de perigo ou ameaça para a segurança; não ser destinatário de medidas restritivas; capacidade de subsistência. Contagem da residência: art. 15.º, n.º 3",
+        "motivo": "Artigos trocados ou inexistentes (adoção no art. 2.º, art. 3.º-A, prazos de 3 anos) e regime anterior à Lei Orgânica n.º 1/2026.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=614&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=& | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=4016&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=& | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=614&tabela=lei_velhas&nversao=12&so_miolo="
+      },
+      {
+        "de": "*2.2. Aquisição por Casamento / União de Facto (arts. 3.º e 3.º-A)*\n[Aplicável? Sim/Não — se sim: prazo preenchido? Documentação?]\n\n*2.3. Naturalização — Prazo Geral (art. 6.º, n.º 1 — 5 anos)*\n[Estado atual: X anos e X meses. Faltam Y meses para completar 5 anos]",
+        "para": "*2.2. Aquisição por Casamento / União de Facto (art. 3.º, n.ºs 1 e 3)*\n[Aplicável? Sim/Não — se sim: mais de 3 anos de casamento ou de união de facto judicialmente reconhecida? Documentação? Riscos de oposição (arts. 9.º e 10.º)]\n\n*2.3. Naturalização — Prazo Geral (art. 6.º, n.º 1, al. b) — 7 ou 10 anos)*\n[Estado atual: X anos e X meses. Faltam Y meses para completar 7 anos (países de língua oficial portuguesa e UE) ou 10 anos (restantes), somando os períodos dentro do intervalo do art. 15.º, n.º 3]",
+        "motivo": "Não existe art. 3.º-A; prazo de naturalização da redação atual.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=614&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=& | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=4016&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "*2.4. Naturalização — Prazo Reduzido (art. 6.º, n.os 2 e 3 — 3 anos)*\n[Aplicável? Verificar ascendência portuguesa ou estatuto especial]",
+        "para": "*2.4. Outras Vias (art. 1.º, n.º 1, al. d); art. 6.º, n.ºs 2, 3, 6, 8 e 9)*\n[Aplicável? Netos de português originário (atribuição); bisnetos com 5 anos de residência legal; apátridas com 4 anos; menores nascidos em Portugal; antigos nacionais]",
+        "motivo": "O prazo reduzido de 3 anos não existe.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=614&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "| Casamento (art. 3.º) | [X anos] | [cumprido/faltam X] | [liste] | [data estimada] |\n| Naturalização geral (art. 6.º, n.º 1) | 5 anos | [cumprido/faltam X] | [liste] | [data estimada] |\n| Naturalização especial (art. 6.º, n.os 2/3) | 3 anos | [cumprido/faltam X] | [liste] | [data estimada] |",
+        "para": "| Casamento ou união de facto (art. 3.º) | mais de 3 anos de casamento ou união | [cumprido/faltam X] | [liste] | [data estimada] |\n| Naturalização geral (art. 6.º, n.º 1) | 7 anos (língua oficial portuguesa e UE) ou 10 anos | [cumprido/faltam X] | [liste] | [data estimada] |\n| Outras vias (art. 1.º, n.º 1, al. d); art. 6.º, n.ºs 3 e 8) | neto: sem prazo de residência; apátrida: 4 anos; bisneto: 5 anos | [cumprido/faltam X] | [liste] | [data estimada] |",
+        "motivo": "Prazos da redação atual; o prazo de 3 anos não existe.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=614&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=& | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=4016&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "1. [Ação 1 — ex: obter CAPLE B2 — prazo]",
+        "para": "1. [Ação 1 — ex: obter certificado de português (o Regulamento da Nacionalidade refere o nível A2 ou superior — art. 25.º, n.º 2) e preparar a prova de cultura, história e símbolos nacionais [■ VERIFICAR: regulamentação] — prazo]",
+        "motivo": "O nível B2 não é exigido.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=895&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=& | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=614&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Confirmar a data de apresentação de pedidos anteriores do cliente: os procedimentos pendentes a 19 de maio de 2026 seguem a redação anterior.",
+      "Confirmar a regulamentação da prova de língua, cultura e direitos e deveres depois da revisão do Regulamento da Nacionalidade (art. 4.º da Lei Orgânica n.º 1/2026).",
+      "Para netos de portugueses, confirmar a prova dos laços de efetiva ligação exigida pela Conservatória dos Registos Centrais."
+    ],
+    "fontes": [
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=614&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=614&tabela=lei_velhas&nversao=12&so_miolo=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=4016&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=895&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+    ]
+  },
+  {
+    "codigo": "EST-030",
+    "veredicto": "corrigida",
+    "resumo": "A ficha citava a «Lei n.º 61/2008 (violência doméstica)», que altera o regime do divórcio (o regime da violência doméstica é a Lei n.º 112/2009), e o «art. 209.º da Lei n.º 23/2007» como estatuto de vítima, quando esse artigo trata das taxas; as autorizações de residência para vítimas estão nos arts. 109.º e ss. (tráfico de pessoas) e no art. 107.º, n.º 4 (familiar reagrupado, após acusação por violência doméstica). A Diretiva 2011/95/UE foi revogada pelo Regulamento (UE) 2024/1347, com efeitos a partir de 12 de junho de 2026, e a Lei n.º 27/2008 foi alterada pela Lei n.º 62/2026. Corrigiu-se ainda o pedido: no art. 123.º a AIMA, I. P. propõe e o membro do Governo decide, e a suspensão de um afastamento coercivo (decidido pela PSP) pede-se em tribunal; acrescentou-se a via própria do art. 122.º, n.º 1, al. g), para doença grave.",
+    "descricao": "Elabora uma carta de acompanhamento e exposição de caso humanitário dirigida à AIMA (Agência para a Integração, Migrações e Asilo), fundamentada em circunstâncias excecionais de natureza humanitária, ao abrigo do artigo 123.º da Lei n.º 23/2007 (autorização de residência por razões humanitárias, concedida pelo membro do Governo sob proposta da AIMA) ou de outros fundamentos de proteção, com o objetivo de obter tratamento prioritário e a concessão ou renovação de autorização de residência; a suspensão de uma medida de afastamento pede-se em tribunal.",
+    "descricao_en": "Drafts a cover letter and humanitarian case statement addressed to AIMA (Agency for Integration, Migration and Asylum), based on exceptional humanitarian circumstances, under Article 123 of Law No. 23/2007 (residence permit on humanitarian grounds, granted by the member of Government on AIMA's proposal) or other protection grounds, with a view to obtaining priority treatment and the grant or renewal of a residence permit; suspension of a removal measure is sought in court.",
+    "substituicoes": [
+      {
+        "de": "- Art. 123.º da Lei n.º 23/2007 — autorização de residência por razões humanitárias (fundamentos excecionais, condições de concessão)",
+        "para": "- Art. 123.º da Lei n.º 23/2007 — regime excecional: autorização de residência temporária por razões humanitárias, designadamente atendendo ao superior interesse da criança (n.º 1, al. b)), mediante proposta do conselho diretivo da AIMA, I. P., ou por iniciativa do membro do Governo responsável pelas migrações, que decide fundamentadamente (n.ºs 1 e 3); só se aplica quando não couber o art. 122.º\n- Art. 122.º, n.º 1, al. g), da Lei n.º 23/2007 — autorização de residência com dispensa de visto para quem sofra de doença que requeira assistência médica prolongada que obste ao retorno ao país, extensível ao acompanhante ou cuidador informal (n.º 8) [se aplicável]",
+        "motivo": "No art. 123.º a AIMA, I. P. propõe e o membro do Governo decide; a doença grave tem via própria no art. 122.º, n.º 1, al. g), que precede o regime excecional.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?ficha=101&artigo_id=&nid=920&pagina=2&tabela=leis&nversao=&so_miolo=&"
+      },
+      {
+        "de": "- Lei n.º 61/2008 (violência doméstica) e art. 209.º da Lei n.º 23/2007 — estatuto de vítima de tráfico/violência [se aplicável]\n- Diretiva 2011/95/UE (Diretiva Qualificação) e Lei n.º 27/2008 (proteção internacional) — articulação com proteção subsidiária [se aplicável]",
+        "para": "- Lei n.º 112/2009, de 16 de setembro (prevenção da violência doméstica e proteção das vítimas; estatuto de vítima — art. 14.º) e art. 107.º, n.º 4, da Lei n.º 23/2007 (autorização de residência autónoma do familiar reagrupado, designadamente após acusação pelo Ministério Público pela prática de violência doméstica) [se aplicável]\n- Arts. 109.º e ss. da Lei n.º 23/2007 — autorização de residência a vítimas de tráfico de pessoas ou de auxílio à imigração ilegal [se aplicável]\n- Regulamento (UE) 2024/1347 (Regulamento Qualificação, que revogou a Diretiva 2011/95/UE com efeitos a partir de 12 de junho de 2026) e Lei n.º 27/2008, alterada pela Lei n.º 62/2026, de 10 de setembro (proteção internacional) — articulação com proteção subsidiária [se aplicável; aos pedidos pendentes à data da entrada em vigor da Lei n.º 62/2026 aplica-se o regime anterior — art. 10.º desta lei]",
+        "motivo": "A Lei n.º 61/2008 altera o regime do divórcio; o art. 209.º da Lei n.º 23/2007 trata das taxas; a Diretiva 2011/95/UE foi revogada pelo Regulamento (UE) 2024/1347.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1028&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=& | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1138&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=& | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?ficha=101&artigo_id=&nid=920&pagina=2&tabela=leis&nversao=&so_miolo=& | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?ficha=201&artigo_id=&nid=920&pagina=3&tabela=leis&nversao=&so_miolo=& | https://publications.europa.eu/resource/celex/32024R1347 | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=4056&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Eventual pedido de efeito suspensivo se existir decisão de afastamento em curso",
+        "para": "- Se existir decisão de afastamento coercivo (competência do diretor nacional da PSP — arts. 140.º, n.º 1, e 149.º, n.º 1, da Lei n.º 23/2007): este pedido não suspende a sua execução; a impugnação judicial tem efeito devolutivo e a suspensão pede-se em tribunal, por processo urgente ou providência cautelar (art. 150.º, n.ºs 1 e 2; arts. 112.º e ss. do CPTA)",
+        "motivo": "O afastamento coercivo é decidido pela PSP e a sua suspensão obtém-se judicialmente, não junto da AIMA.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?ficha=201&artigo_id=&nid=920&pagina=3&tabela=leis&nversao=&so_miolo=& | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?ficha=1&artigo_id=&nid=439&pagina=1&tabela=leis&nversao=&so_miolo=&"
+      },
+      {
+        "de": "**AGÊNCIA PARA A INTEGRAÇÃO, MIGRAÇÕES E ASILO (AIMA)**\nDireção de Serviços [competente — VERIFICAR]",
+        "para": "**AGÊNCIA PARA A INTEGRAÇÃO, MIGRAÇÕES E ASILO, I. P. (AIMA, I. P.)**\nAo Conselho Diretivo (art. 123.º, n.º 1, da Lei n.º 23/2007) [■ VERIFICAR: serviço de receção e canal de submissão]",
+        "motivo": "No regime excecional, a proposta cabe ao conselho diretivo da AIMA, I. P.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?ficha=101&artigo_id=&nid=920&pagina=2&tabela=leis&nversao=&so_miolo=&"
+      },
+      {
+        "de": "a) Conceder ao/à requerente autorização de residência por razões humanitárias, ao abrigo do art. 123.º da Lei n.º 23/2007; [e/ou]\nb) Suspender a medida de afastamento em curso, até decisão final sobre o presente pedido; [se aplicável]",
+        "para": "a) Propor ao membro do Governo responsável pela área das migrações a concessão ao/à requerente de autorização de residência temporária por razões humanitárias, ao abrigo do art. 123.º, n.º 1, al. b), da Lei n.º 23/2007; [e/ou]\nb) [Se aplicável] Dar conhecimento do presente pedido à PSP, competente no procedimento de afastamento coercivo em curso (arts. 140.º e 149.º da Lei n.º 23/2007) [■ VERIFICAR: o pedido não suspende a execução; a suspensão pede-se em tribunal — art. 150.º, n.º 2];",
+        "motivo": "A AIMA, I. P. não concede a autorização do art. 123.º (propõe) nem é competente para suspender o afastamento coercivo.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?ficha=101&artigo_id=&nid=920&pagina=2&tabela=leis&nversao=&so_miolo=& | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?ficha=201&artigo_id=&nid=920&pagina=3&tabela=leis&nversao=&so_miolo=&"
+      },
+      {
+        "de": "- [ ] Art. 123.º da Lei n.º 23/2007 identificado como fundamento principal",
+        "para": "- [ ] Art. 123.º da Lei n.º 23/2007 identificado como fundamento principal, depois de excluídas as vias próprias (art. 122.º; arts. 107.º, n.º 4, e 109.º)",
+        "motivo": "O regime excecional só se aplica quando não couber o art. 122.º.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?ficha=101&artigo_id=&nid=920&pagina=2&tabela=leis&nversao=&so_miolo=&"
+      },
+      {
+        "de": "- [ ] Pedido de efeito suspensivo incluído (se decisão de afastamento em curso)",
+        "para": "- [ ] Tutela judicial urgente ou cautelar ponderada (se houver decisão de afastamento coercivo — art. 150.º, n.º 2, da Lei n.º 23/2007)",
+        "motivo": "A suspensão do afastamento obtém-se em tribunal.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?ficha=201&artigo_id=&nid=920&pagina=3&tabela=leis&nversao=&so_miolo=&"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Confirmar o canal atual de apresentação dos pedidos do art. 123.º na AIMA, I. P., depois da revogação do seu n.º 2.",
+      "Se houver decisão de afastamento coercivo, contar o prazo de impugnação judicial e ponderar logo o processo urgente ou a providência cautelar (art. 150.º, n.º 2, da Lei n.º 23/2007).",
+      "Se houver pedido de proteção internacional, confirmar o regime aplicável depois da Lei n.º 62/2026 e dos regulamentos do Pacto em matéria de Migração e Asilo."
+    ],
+    "fontes": [
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?ficha=101&artigo_id=&nid=920&pagina=2&tabela=leis&nversao=&so_miolo=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?ficha=201&artigo_id=&nid=920&pagina=3&tabela=leis&nversao=&so_miolo=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1138&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1028&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=4056&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://publications.europa.eu/resource/celex/32024R1347",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?ficha=1&artigo_id=&nid=439&pagina=1&tabela=leis&nversao=&so_miolo=&"
+    ]
+  },
+  {
+    "codigo": "EST-032",
+    "veredicto": "corrigida",
+    "resumo": "A ficha citava um inexistente «art. 58.º-B» da Lei n.º 23/2007 e datava a Lei n.º 18/2022 de 24 de agosto: o visto de residência para trabalho remoto é o art. 61.º-B, aditado pela Lei n.º 18/2022, de 25 de agosto, e os documentos (incluindo os rendimentos médios dos últimos três meses de pelo menos quatro RMMG e o documento de residência fiscal) constam do art. 31.º-A do Decreto Regulamentar n.º 84/2007. Atualizou-se o limiar para 2026 (3 680 €, com a RMMG de 920 €), corrigiu-se a validade (o visto de residência dura 4 meses e serve para pedir a autorização de residência, válida por 2 anos e renovável por 3; o visto de 1 ano é o de estada temporária) e assinalou-se que o pedido em território nacional sem visto deixou de ter base com a revogação dos n.ºs 2 dos arts. 88.º e 89.º e que o IFICI não abrange, em regra, o trabalho remoto para entidade estrangeira.",
+    "descricao": "Prepara o requerimento do Visto D8 (visto de residência para o exercício de atividade profissional prestada de forma remota / nómadas digitais), previsto no art. 61.º-B da Lei n.º 23/2007, aditado pela Lei n.º 18/2022, de 25 de agosto, e no art. 31.º-A do Decreto Regulamentar n.º 84/2007. Abrange a demonstração de vínculo a empregador ou clientes estrangeiros, rendimentos médios de pelo menos quatro retribuições mínimas mensais garantidas, residência fiscal e demais requisitos.",
+    "descricao_en": "Prepares the application for the D8 Visa (residence visa for remote professional activity / digital nomads), provided for in Article 61-B of Law No. 23/2007, added by Law No. 18/2022 of 25 August, and Article 31-A of Regulatory Decree No. 84/2007. It covers proof of a relationship with a foreign employer or clients, average income of at least four guaranteed minimum monthly wages, tax residence and the other requirements.",
+    "substituicoes": [
+      {
+        "de": "— Cita art. 58.º-B Lei n.º 23/2007 (aditado pela Lei n.º 18/2022) e legislação conexa.",
+        "para": "— Cita art. 61.º-B Lei n.º 23/2007 (aditado pela Lei n.º 18/2022, de 25 de agosto) e legislação conexa, em especial o art. 31.º-A do Decreto Regulamentar n.º 84/2007 (aditado pelo Decreto Regulamentar n.º 4/2022). Não confundas com o visto de estada temporária para trabalho remoto (art. 54.º, n.º 1, al. i), da Lei n.º 23/2007; art. 18.º-B do Decreto Regulamentar n.º 84/2007), para estadas inferiores a um ano.",
+        "motivo": "O visto de residência para trabalho remoto é o art. 61.º-B; o art. 58.º-B não existe.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?ficha=1&artigo_id=&nid=920&pagina=1&tabela=leis&nversao=&so_miolo=& | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?ficha=1&artigo_id=&nid=940&pagina=1&tabela=leis&nversao=&so_miolo=&"
+      },
+      {
+        "de": "- Rendimento médio mensal comprovável (mínimo legal: 4 × salário mínimo nacional = aprox. EUR 3 280 em 2025)",
+        "para": "- Rendimento médio mensal dos últimos três meses comprovável (mínimo: 4 × retribuição mínima mensal garantida (valor do ano em valores-2026) — ver valores-2026.md)",
+        "motivo": "3 280 € correspondia à RMMG de 2024; em 2026 a RMMG é de 920 €; a média é a dos últimos três meses.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?ficha=1&artigo_id=&nid=940&pagina=1&tabela=leis&nversao=&so_miolo=& | https://www.dgert.gov.pt/retribuicao-minima-mensal-garantida-para-2026"
+      },
+      {
+        "de": "- Preferência por modalidade consular vs. pedido em território nacional [■ VERIFICAR disponibilidade]",
+        "para": "- Modalidade: visto de residência pedido no posto consular competente; o pedido de autorização de residência em território nacional sem visto (art. 31.º-A, n.º 2, do Decreto Regulamentar n.º 84/2007) remetia para os n.ºs 2 dos arts. 88.º e 89.º da Lei n.º 23/2007, revogados pelo Decreto-Lei n.º 37-A/2024, e o art. 77.º, n.º 1, al. a), exige visto de residência [■ VERIFICAR: procedimentos pendentes do regime transitório]",
+        "motivo": "A via em território nacional assentava na manifestação de interesse, revogada pelo DL n.º 37-A/2024.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?ficha=1&artigo_id=&nid=940&pagina=1&tabela=leis&nversao=&so_miolo=& | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?ficha=101&artigo_id=&nid=920&pagina=2&tabela=leis&nversao=&so_miolo=& | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3807&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Art. 58.º-B Lei 23/2007: visto para trabalhadores a distância\n- Limiar de rendimentos: 4 × salário mínimo nacional (art. 58.º-B, n.º 1, al. b))",
+        "para": "- Art. 61.º-B Lei 23/2007: visto de residência para atividade profissional, subordinada ou independente, prestada de forma remota a pessoas singulares ou coletivas com domicílio ou sede fora do território nacional\n- Limiar de rendimentos: rendimentos médios mensais dos últimos três meses de pelo menos 4 × RMMG (art. 31.º-A, n.º 1, al. c), do Decreto Regulamentar n.º 84/2007); documento que ateste a residência fiscal (al. d))",
+        "motivo": "Artigo inexistente; o limiar está no Decreto Regulamentar n.º 84/2007.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?ficha=1&artigo_id=&nid=920&pagina=1&tabela=leis&nversao=&so_miolo=& | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?ficha=1&artigo_id=&nid=940&pagina=1&tabela=leis&nversao=&so_miolo=& | https://vistos.mne.gov.pt/pt/vistos-nacionais/documentacao-instrutoria/residencia"
+      },
+      {
+        "de": "- Prazo de visto D8 inicial: até 1 ano; renovável por AR\n- Articulação com regime fiscal IFICI (ex-RNH) — oportunidade mas processo separado",
+        "para": "- Validade: o visto de residência vale para duas entradas e permite permanecer 4 meses para pedir a autorização de residência (art. 58.º, n.ºs 1 e 2, da Lei n.º 23/2007); a autorização de residência temporária vale 2 anos e é renovável por períodos de 3 anos (art. 75.º, n.º 1). O visto de estada temporária para trabalho remoto (art. 54.º, n.º 1, al. i)) é para estadas inferiores a um ano e não habilita, por si, ao pedido de autorização de residência (art. 77.º, n.º 1, al. a))\n- Articulação com o regime fiscal IFICI (art. 58.º-A do EBF, que sucedeu ao RNH): só abrange as atividades taxativamente previstas no seu n.º 1 (p. ex., docência e investigação, profissões altamente qualificadas em empresas abrangidas pelo Código Fiscal do Investimento ou exportadoras, startups certificadas), pelo que o trabalho remoto para entidade estrangeira não garante o acesso; processo separado [■ VERIFICAR: enquadramento da atividade concreta]",
+        "motivo": "Confundia o visto de estada temporária (até 1 ano) com o visto de residência (4 meses, seguido de autorização de residência); o IFICI não é oportunidade genérica para trabalho remoto.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?ficha=1&artigo_id=&nid=920&pagina=1&tabela=leis&nversao=&so_miolo=& | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?ficha=101&artigo_id=&nid=920&pagina=2&tabela=leis&nversao=&so_miolo=& | https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/bf_rep/Pages/EBF58A.aspx"
+      },
+      {
+        "de": "- Prova de rendimento médio ≥ 4 × SMN (EUR [■ VERIFICAR VALOR ATUALIZADO])",
+        "para": "- Prova de rendimento médio mensal dos últimos três meses ≥ 4 × RMMG (valor do ano em valores-2026) [■ VERIFICAR: RMMG em vigor à data do pedido]\n- Documento que ateste a residência fiscal (art. 31.º-A, n.º 1, al. d), do Decreto Regulamentar n.º 84/2007)",
+        "motivo": "Valor de 2026 e documento obrigatório em falta.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?ficha=1&artigo_id=&nid=940&pagina=1&tabela=leis&nversao=&so_miolo=& | https://www.dgert.gov.pt/retribuicao-minima-mensal-garantida-para-2026 | https://vistos.mne.gov.pt/pt/vistos-nacionais/documentacao-instrutoria/residencia"
+      },
+      {
+        "de": "nos termos do artigo 58.º-B da Lei n.º 23/2007, de 4 de julho, aditado pela Lei n.º 18/2022, de 24 de agosto",
+        "para": "nos termos do artigo 61.º-B da Lei n.º 23/2007, de 4 de julho, aditado pela Lei n.º 18/2022, de 25 de agosto, e do artigo 31.º-A do Decreto Regulamentar n.º 84/2007, de 5 de novembro",
+        "motivo": "Artigo e data da Lei n.º 18/2022 errados.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?ficha=1&artigo_id=&nid=920&pagina=1&tabela=leis&nversao=&so_miolo=& | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?ficha=1&artigo_id=&nid=940&pagina=1&tabela=leis&nversao=&so_miolo=&"
+      },
+      {
+        "de": "2. Aufere rendimento médio mensal de [MONTANTE] €, superior ao limiar legal de 4 × salário mínimo nacional.",
+        "para": "2. Aufere, nos últimos três meses, rendimento médio mensal de [MONTANTE] €, igual ou superior a quatro retribuições mínimas mensais garantidas (art. 31.º-A, n.º 1, al. c), do Decreto Regulamentar n.º 84/2007).",
+        "motivo": "O limiar é um mínimo («valor mínimo equivalente») calculado sobre os últimos três meses.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?ficha=1&artigo_id=&nid=940&pagina=1&tabela=leis&nversao=&so_miolo=&"
+      },
+      {
+        "de": "- [ ] Prova de alojamento em Portugal\n- [ ] [■ VERIFICAR] itens sinalizados",
+        "para": "- [ ] Prova de alojamento em Portugal\n- [ ] Documento que ateste a residência fiscal\n- [ ] [■ VERIFICAR] itens sinalizados",
+        "motivo": "Documento exigido pelo art. 31.º-A, n.º 1, al. d), do Decreto Regulamentar n.º 84/2007.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?ficha=1&artigo_id=&nid=940&pagina=1&tabela=leis&nversao=&so_miolo=&"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Confirmar com o posto consular competente a lista de documentos, o seguro e a prova de alojamento que exige (o posto pode pedir documentação adicional).",
+      "Confirmar a RMMG em vigor à data do pedido (920 € em 2026 — ver valores-2026.md).",
+      "Avaliar o enquadramento fiscal concreto (residência fiscal, IFICI) em processo separado."
+    ],
+    "fontes": [
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?ficha=1&artigo_id=&nid=920&pagina=1&tabela=leis&nversao=&so_miolo=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?ficha=101&artigo_id=&nid=920&pagina=2&tabela=leis&nversao=&so_miolo=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?ficha=1&artigo_id=&nid=940&pagina=1&tabela=leis&nversao=&so_miolo=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3807&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://vistos.mne.gov.pt/pt/vistos-nacionais/documentacao-instrutoria/residencia",
+      "https://vistos.mne.gov.pt/pt/vistos-nacionais/documentacao-instrutoria/estada-temporaria",
+      "https://www.dgert.gov.pt/retribuicao-minima-mensal-garantida-para-2026",
+      "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/bf_rep/Pages/EBF58A.aspx"
+    ]
+  }
+]

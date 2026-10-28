@@ -1,0 +1,640 @@
+[
+ {
+  "codigo": "TRA-012",
+  "veredicto": "corrigida",
+  "resumo": "A ficha aplicava às sanções conservatórias o regime do despedimento: invocava os arts. 357.º e 358.º CT (decisão de despedimento e microempresa) como conteúdo obrigatório e mandava indicar o prazo de impugnação do art. 387.º CT, que só vale para o despedimento. A lista de sanções não correspondia ao art. 328.º, n.º 1, CT («advertência», «repreensão escrita», «suspensão sem vencimento»; faltavam a repreensão registada e a sanção pecuniária) e os limites omitiam o teto anual de 90 dias de suspensão e os da sanção pecuniária. Alinhei a ficha com os arts. 328.º a 332.º CT: audiência prévia, prazos de prescrição e caducidade, aplicação nos três meses seguintes à decisão, registo das sanções e meios de reação do art. 329.º, n.º 7.",
+  "descricao": "Gera a decisão final de um procedimento disciplinar que aplica ao trabalhador uma sanção conservatória (repreensão, repreensão registada, sanção pecuniária, perda de dias de férias ou suspensão do trabalho com perda de retribuição e de antiguidade), com fundamentação nos factos imputados, apreciação da defesa apresentada e proporcionalidade da sanção, cumprindo a audiência prévia, os limites e os prazos dos artigos 328.º a 332.º do Código do Trabalho.",
+  "descricao_en": "Generates the final decision in disciplinary proceedings imposing a conservative (non-dismissal) sanction on the employee (reprimand, recorded reprimand, fine, loss of holiday days or suspension from work with loss of pay and seniority), with grounds based on the charges, an assessment of the defence submitted and the proportionality of the sanction, meeting the prior-hearing requirement, the limits and the time limits of Articles 328 to 332 of the Labour Code.",
+  "substituicoes": [
+   {
+    "de": "— A sanção deve respeitar os limites legais do art. 328.º CT (suspensão máx. 30 dias; perda de férias máx. ao que exceda 20 dias úteis).",
+    "para": "— A sanção deve respeitar os limites legais do art. 328.º CT: as sanções pecuniárias por infrações praticadas no mesmo dia não podem exceder um terço da retribuição diária e, em cada ano civil, a retribuição correspondente a 30 dias; a perda de dias de férias não pode pôr em causa o gozo de 20 dias úteis; a suspensão do trabalho não pode exceder 30 dias por cada infração e, em cada ano civil, o total de 90 dias (art. 328.º, n.º 3, CT); os limites da sanção pecuniária e da suspensão podem ser elevados até ao dobro por instrumento de regulamentação coletiva de trabalho, quando o justifiquem as especiais condições de trabalho (art. 328.º, n.º 4, CT).\n— A sanção não pode ser aplicada sem audiência prévia do trabalhador (art. 329.º, n.º 6, CT) e tem de ser aplicada nos três meses subsequentes à decisão, sob pena de caducidade (art. 330.º, n.º 2, CT).",
+    "motivo": "O art. 328.º, n.º 3, CT fixa também os limites da sanção pecuniária e o teto anual de 90 dias de suspensão; faltavam a audiência prévia e o prazo de aplicação da sanção",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0328&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Art. 328.º CT (tipos de sanção conservatória e limites)\n- Art. 329.º CT (prescrição e prazo de aplicação da sanção)\n- Art. 357.º CT (decisão final — conteúdo obrigatório)\n- Art. 358.º CT (registo das sanções disciplinares)",
+    "para": "- Art. 328.º CT (tipos de sanção e limites)\n- Art. 329.º CT (prescrição da infração — um ano após a prática, n.º 1; início do procedimento nos 60 dias subsequentes ao conhecimento, n.º 2; prescrição do procedimento — um ano sem notificação da decisão final, n.º 3; audiência prévia, n.º 6; reclamação e ação judicial, n.º 7)\n- Art. 330.º CT (proporcionalidade e proibição de mais de uma sanção pela mesma infração; aplicação da sanção nos três meses subsequentes à decisão, sob pena de caducidade; entrega do montante da sanção pecuniária à segurança social)\n- Art. 331.º CT (sanções abusivas)\n- Art. 332.º CT (registo das sanções disciplinares)\n- Os arts. 353.º a 358.º CT regulam o procedimento para despedimento e não se aplicam à sanção conservatória; para esta, a lei exige a audiência prévia do trabalhador (art. 329.º, n.º 6, CT) — a nota de culpa e a decisão escrita fundamentada são boa prática [■ VERIFICAR: regras de procedimento do instrumento de regulamentação coletiva de trabalho ou do regulamento interno aplicáveis]",
+    "motivo": "O art. 357.º CT regula a decisão de despedimento e o art. 358.º CT o procedimento na microempresa; o registo das sanções está no art. 332.º CT e o prazo de aplicação da sanção no art. 330.º, n.º 2, CT",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0328&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Qualificação jurídica da infração (art. 328.º CT ou outro)",
+    "para": "- Qualificação jurídica da infração (deveres do trabalhador violados — art. 128.º CT, regulamento interno ou contrato)",
+    "motivo": "O art. 328.º CT enumera as sanções, não as infrações; a infração disciplinar é a violação culposa dos deveres do trabalhador",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0128&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Data de início da sanção (se suspensão ou perda de férias)",
+    "para": "- Data de início da sanção (se suspensão ou perda de férias), dentro dos três meses subsequentes à decisão (art. 330.º, n.º 2, CT)",
+    "motivo": "A aplicação da sanção caduca se não tiver lugar nos três meses subsequentes à decisão",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0328&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Prazo para recorrer (impugnar judicialmente — art. 387.º CT)",
+    "para": "- Registo da sanção (art. 332.º CT)\n- Meios de reação: reclamação para o escalão hierarquicamente superior ao que aplicou a sanção ou processo de resolução de litígio previsto em instrumento de regulamentação coletiva de trabalho ou na lei, sem prejuízo da ação judicial (art. 329.º, n.º 7, CT); o prazo de 60 dias do art. 387.º, n.º 2, CT respeita só ao despedimento [■ VERIFICAR: prazo aplicável à impugnação judicial da sanção conservatória]",
+    "motivo": "O art. 387.º CT regula a apreciação judicial do despedimento; para as sanções conservatórias, o art. 329.º, n.º 7, CT prevê a reclamação e a ação judicial",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0387&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Proporcionalidade fundamentada",
+    "para": "- [ ] Proporcionalidade fundamentada (art. 330.º, n.º 1, CT)\n- [ ] Audiência prévia do trabalhador assegurada (art. 329.º, n.º 6, CT)\n- [ ] Infração não prescrita e procedimento iniciado nos 60 dias subsequentes ao conhecimento e não prescrito (art. 329.º CT)\n- [ ] Limites anuais verificados face às sanções já aplicadas no mesmo ano civil (art. 328.º, n.º 3, CT)",
+    "motivo": "A checklist não verificava a audiência prévia, os prazos do art. 329.º CT nem os limites anuais",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0328&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Tipo: [advertência / repreensão escrita / suspensão sem vencimento / perda de dias de férias]\n- Dimensão: [X dias de suspensão / X dias de perda de férias]",
+    "para": "- Tipo: [repreensão / repreensão registada / sanção pecuniária / perda de dias de férias / suspensão do trabalho com perda de retribuição e de antiguidade]\n- Dimensão: [montante da sanção pecuniária / X dias de perda de férias / X dias de suspensão]\n- Sanções já aplicadas no mesmo ano civil: [nenhuma / tipo e dimensão — para os limites anuais do art. 328.º, n.º 3, CT]",
+    "motivo": "«Advertência», «repreensão escrita» e «suspensão sem vencimento» não são as sanções do art. 328.º, n.º 1, CT, que prevê também a repreensão registada e a sanção pecuniária",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0328&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar se o instrumento de regulamentação coletiva aplicável prevê outras sanções ou eleva os limites da sanção pecuniária e da suspensão (art. 328.º, n.ºs 2 e 4, CT) e se o regulamento interno impõe regras de procedimento para as sanções conservatórias.",
+   "Confirmar o prazo e a forma da impugnação judicial da sanção conservatória (art. 329.º, n.º 7, CT) e a eventual aplicação do prazo de prescrição do art. 337.º, n.º 1, CT.",
+   "Verificar se a sanção pode presumir-se abusiva por ter sido aplicada até seis meses após uma reclamação ou o exercício de direitos pelo trabalhador (art. 331.º, n.º 2, CT)."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0328&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0128&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0337&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0358&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0387&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+  ]
+ },
+ {
+  "codigo": "TRA-018",
+  "veredicto": "corrigida",
+  "resumo": "A ficha tratava como «contestação a uma petição inicial» a peça do empregador na ação especial de impugnação do despedimento individual comunicado por escrito, onde o empregador apresenta o articulado de motivação do despedimento, em 15 dias após a audiência de partes, limitado aos factos e fundamentos da decisão e com junção do procedimento disciplinar sob pena de ilicitude (arts. 98.º-C, 98.º-I e 98.º-J CPT). Assentava ainda num «despedimento irregular» com redução genérica da indemnização por «vício formal menor», que não existe: a invalidade do procedimento torna o despedimento ilícito (art. 382.º CT) e a única atenuação é a mera irregularidade do art. 389.º, n.º 2, CT. Distingui as três formas de processo (ação especial, despedimento coletivo e processo comum), corrigi o prazo de caducidade (art. 387.º, n.º 2, e art. 388.º, n.º 2, CT), o pedido e o endereçamento ao juízo do trabalho.",
+  "titulo": "Articulado de Motivação do Despedimento ou Contestação do Empregador em Ação de Impugnação de Despedimento",
+  "titulo_en": "Employer's Statement Justifying the Dismissal or Defence in an Action Challenging a Dismissal",
+  "descricao": "Gera a peça do empregador na ação de impugnação de despedimento: o articulado de motivação do despedimento na ação especial de impugnação do despedimento individual comunicado por escrito (arts. 98.º-B e seguintes do Código de Processo do Trabalho), limitado aos factos e fundamentos da decisão de despedimento, ou a contestação na ação de impugnação de despedimento coletivo e no processo comum, com defesa por exceção (caducidade, ilegitimidade) e por impugnação dos factos e da qualificação jurídica do despedimento.",
+  "descricao_en": "Generates the employer's pleading in an action challenging a dismissal: the statement justifying the dismissal (articulado de motivação) in the special action against an individual dismissal notified in writing (Articles 98-B et seq. of the Labour Procedure Code), limited to the facts and grounds of the dismissal decision, or the defence (contestação) in an action challenging a collective dismissal and in ordinary proceedings, with procedural defences (expiry of the time limit, lack of standing) and a challenge to the facts and the legal characterisation of the dismissal.",
+  "substituicoes": [
+   {
+    "de": "— A contestação deve responder facto a facto à petição inicial.\n— Defesa por exceção (caducidade, ilegitimidade, etc.) deve ser invocada antes da defesa por impugnação.",
+    "para": "— Identifica primeiro a forma de processo, porque dela depende a peça do empregador:\n  - despedimento individual comunicado por escrito (por facto imputável ao trabalhador, extinção do posto de trabalho ou inadaptação): ação especial de impugnação judicial da regularidade e licitude do despedimento (arts. 98.º-B e ss. CPT), que se inicia com o requerimento do trabalhador em formulário (art. 98.º-C CPT); não há petição inicial nem contestação do empregador — frustrada a conciliação na audiência de partes, o empregador é notificado para, em 15 dias, apresentar o articulado de motivação do despedimento, juntar o procedimento disciplinar ou os documentos comprovativos do cumprimento das formalidades, apresentar o rol de testemunhas e requerer outras provas (art. 98.º-I, n.º 4, al. a), CPT);\n  - despedimento coletivo: ação de impugnação de despedimento coletivo, com contestação em 15 dias, junção dos documentos comprovativos das formalidades e chamamento dos trabalhadores abrangidos que não sejam autores (art. 156.º CPT);\n  - despedimento não comunicado por escrito e restantes casos: processo comum, com contestação em 10 dias após a audiência de partes (art. 56.º, al. a), CPT), respondendo facto a facto à petição inicial.\n— No articulado de motivação, o empregador só pode invocar os factos e fundamentos constantes da decisão de despedimento comunicada ao trabalhador (art. 98.º-J, n.º 1, CPT; art. 387.º, n.º 3, CT). Se não o apresentar, ou não juntar o procedimento disciplinar ou os documentos comprovativos das formalidades, o juiz declara a ilicitude do despedimento (art. 98.º-J, n.º 3, CPT).\n— Defesa por exceção (caducidade, ilegitimidade, etc.) deve ser invocada antes da defesa por impugnação.",
+    "motivo": "Na ação especial de impugnação do despedimento individual comunicado por escrito, o empregador não contesta uma petição inicial: apresenta o articulado de motivação do despedimento (arts. 98.º-C, 98.º-I e 98.º-J CPT); a contestação só existe no despedimento coletivo (art. 156.º CPT) e no processo comum (art. 56.º CPT)",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=487A0098J&nid=487&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Existe alguma exceção invocável (caducidade da ação, ilegitimidade, etc.)?\n- Quais factos da petição inicial podem ser impugnados com prova?",
+    "para": "- Forma de processo aplicável (ação especial dos arts. 98.º-B e ss. CPT, ação de impugnação de despedimento coletivo ou processo comum) e peça devida (articulado de motivação ou contestação), com o respetivo prazo\n- Existe alguma exceção invocável (caducidade da ação, ilegitimidade, etc.)?\n- Quais factos da petição inicial (despedimento coletivo e processo comum) ou da reconvenção do trabalhador (ação especial) podem ser impugnados com prova?",
+    "motivo": "A peça e o prazo dependem da forma de processo (art. 98.º-C CPT)",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=487A0098C&nid=487&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Art. 387.º CT (prazo de caducidade — verificar se a ação foi proposta em tempo)",
+    "para": "- Art. 387.º CT (prazo de caducidade — 60 dias a contar da receção da comunicação de despedimento ou da data de cessação do contrato, se posterior, n.º 2; no despedimento coletivo, seis meses a contar da cessação, art. 388.º, n.º 2, CT — verificar se a ação foi proposta em tempo; o empregador só pode invocar os factos e fundamentos constantes da decisão de despedimento, n.º 3)",
+    "motivo": "O prazo de 60 dias está no n.º 2 do art. 387.º CT e o despedimento coletivo tem prazo próprio de seis meses (art. 388.º, n.º 2, CT)",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0387&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Art. 382.º CT (despedimento irregular — se há vício formal menor, quantificar impacto)\n- CPT — defesa por exceção e por impugnação",
+    "para": "- Art. 382.º CT (ilicitude do despedimento por facto imputável ao trabalhador — prazos do art. 329.º CT e invalidade do procedimento: demonstrar que nenhuma das causas do n.º 2 se verifica)\n- Art. 389.º, n.º 2, CT (mera irregularidade por omissão das diligências probatórias referidas nos n.ºs 1 e 3 do art. 356.º CT: se os motivos do despedimento forem declarados procedentes, o trabalhador tem apenas direito a metade da indemnização que resultaria do art. 391.º, n.º 1, CT)\n- CPT — ação especial (arts. 98.º-B e ss. CPT: audiência de partes, articulado de motivação — art. 98.º-J CPT —, contestação e reconvenção do trabalhador e resposta do empregador à reconvenção — art. 98.º-L CPT); ação de impugnação de despedimento coletivo (arts. 156.º e ss. CPT); processo comum (art. 56.º CPT)",
+    "motivo": "O CT não prevê um «despedimento irregular» com redução genérica da indemnização: a invalidade do procedimento torna o despedimento ilícito (art. 382.º CT) e a única atenuação é a mera irregularidade do art. 389.º, n.º 2, CT",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0389&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "### ETAPA 3 — CONSTRUÇÃO DA CONTESTAÇÃO\nDefine em <estrutura_contestacao>:\n- Exceções a invocar (por ordem: dilatórias → perentórias)",
+    "para": "### ETAPA 3 — CONSTRUÇÃO DA PEÇA (ARTICULADO DE MOTIVAÇÃO OU CONTESTAÇÃO)\nDefine em <estrutura_contestacao>:\n- Peça devida e prazo (articulado de motivação: 15 dias a contar da notificação na audiência de partes — art. 98.º-I, n.º 4, al. a), CPT; contestação no despedimento coletivo: 15 dias — art. 156.º, n.º 1, CPT; contestação no processo comum: 10 dias — art. 56.º, al. a), CPT)\n- Exceções a invocar (por ordem: dilatórias → perentórias)",
+    "motivo": "Os prazos e a peça variam com a forma de processo",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=487A0098J&nid=487&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "### ETAPA 4 — A CONTESTAÇÃO\nRedige a peça completa nesta estrutura:\n\n**EXMO. SR. JUIZ DO TRIBUNAL DO TRABALHO DE [COMARCA]**\n\nProcesso n.º [número]\nAção de Impugnação de Despedimento\n\n**Identificação do Réu** (empregador)",
+    "para": "### ETAPA 4 — A PEÇA\nRedige a peça completa nesta estrutura (na ação especial, com o título «Articulado de motivação do despedimento»; no despedimento coletivo e no processo comum, «Contestação»):\n\n**EXMO. SENHOR JUIZ DE DIREITO DO JUÍZO DO TRABALHO DE [MUNICÍPIO] — TRIBUNAL JUDICIAL DA COMARCA DE [COMARCA]**\n\nProcesso n.º [número]\nAção de impugnação judicial da regularidade e licitude do despedimento / Ação de impugnação de despedimento coletivo / Ação de processo comum\n\n**Identificação do empregador** (réu, no despedimento coletivo e no processo comum)",
+    "motivo": "A peça muda com a forma de processo; desde a Lei n.º 62/2013, a ação corre no juízo do trabalho do tribunal judicial de comarca (art. 81.º, n.ºs 2 e 3, al. h), da LOSJ; art. 98.º-C, n.º 1, CPT)",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1974A0081&nid=1974&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Caducidade da ação (art. 387.º, n.º 1, CT)",
+    "para": "- Caducidade da ação (art. 387.º, n.º 2, CT; no despedimento coletivo, art. 388.º, n.º 2, CT)",
+    "motivo": "O n.º 1 do art. 387.º CT reserva a apreciação ao tribunal; o prazo de 60 dias está no n.º 2",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0387&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "**II. IMPUGNAÇÃO DOS FACTOS**\n(Resposta a cada facto da petição inicial: admite / impugna + contraprova)",
+    "para": "**II. FACTOS**\n(Ação especial: exposição dos factos constantes da decisão de despedimento que o fundamentam, sem factos novos — art. 98.º-J, n.º 1, CPT; a matéria de eventual reconvenção do trabalhador tem resposta em 15 dias — art. 98.º-L, n.º 4, CPT. Despedimento coletivo e processo comum: resposta a cada facto da petição inicial — admite / impugna + contraprova)",
+    "motivo": "Na ação especial não há petição inicial a impugnar facto a facto: o empregador motiva o despedimento com os factos da decisão",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=487A0098J&nid=487&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Improcedência total da ação\n- Absolvição do pedido de reintegração e salários intercalares\n- Alternativamente: se reconhecer vício formal menor, pedido de redução da indemnização",
+    "para": "- Declaração da regularidade e licitude do despedimento e improcedência dos pedidos do trabalhador\n- Absolvição dos pedidos de reintegração, indemnização e retribuições intercalares (arts. 389.º a 391.º CT)\n- Subsidiariamente, se o único vício for a omissão das diligências probatórias referidas nos n.ºs 1 e 3 do art. 356.º CT e os motivos do despedimento forem julgados procedentes: limitação da indemnização a metade do valor que resultaria do art. 391.º, n.º 1, CT (art. 389.º, n.º 2, CT)\n- Em microempresa ou se o trabalhador ocupar cargo de administração ou de direção: pedido de exclusão da reintegração, deduzido logo no articulado de motivação, com os factos e a prova (art. 98.º-J, n.º 2, CPT; art. 392.º CT)",
+    "motivo": "A redução da indemnização só existe na mera irregularidade do art. 389.º, n.º 2, CT; a exclusão da reintegração tem de ser requerida no próprio articulado (art. 98.º-J, n.º 2, CPT)",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0389&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Exceções invocadas antes da defesa de fundo\n- [ ] Todos os factos da petição respondidos (admitidos ou impugnados)",
+    "para": "- [ ] Forma de processo identificada e peça apresentada no prazo (articulado de motivação: 15 dias; contestação: 15 dias no despedimento coletivo, 10 dias no processo comum)\n- [ ] Ação especial: só factos e fundamentos constantes da decisão de despedimento; procedimento disciplinar ou documentos comprovativos das formalidades juntos (art. 98.º-J CPT)\n- [ ] Exceções invocadas antes da defesa de fundo\n- [ ] Despedimento coletivo e processo comum: todos os factos da petição respondidos (admitidos ou impugnados)",
+    "motivo": "A checklist só previa a contestação de uma petição inicial",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=487A0098J&nid=487&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Tipo: [justa causa / extinção posto / coletivo]",
+    "para": "- Tipo: [por facto imputável ao trabalhador / extinção do posto de trabalho / inadaptação / coletivo / não comunicado por escrito]",
+    "motivo": "O despedimento por inadaptação e o não comunicado por escrito determinam a forma de processo",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=487A0098C&nid=487&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "**PETIÇÃO DO TRABALHADOR:**",
+    "para": "**AÇÃO DO TRABALHADOR:**\n- Forma de processo: [ação especial — requerimento em formulário / impugnação de despedimento coletivo / processo comum]\n- Data da audiência de partes e da notificação para apresentar o articulado de motivação: [dd/mm/aaaa]",
+    "motivo": "Na ação especial não há petição inicial; o prazo do articulado conta-se da notificação na audiência de partes",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=487A0098J&nid=487&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar a forma de processo antes de redigir: a ação especial (arts. 98.º-B e ss. CPT) só abrange o despedimento individual comunicado por escrito; no despedimento verbal ou de facto, confirmar a tramitação em processo comum.",
+   "Na ação especial, verificar se o trabalhador deduziu reconvenção na sua contestação, para responder em 15 dias (art. 98.º-L, n.º 4, CPT).",
+   "Confirmar o juízo do trabalho territorialmente competente na comarca."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=487A0098C&nid=487&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=487A0098J&nid=487&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=487A0156&nid=487&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=487A0056&nid=487&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0387&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0389&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1974A0081&nid=1974&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+  ]
+ },
+ {
+  "codigo": "TRA-022",
+  "veredicto": "corrigida",
+  "resumo": "A ficha calculava a compensação com 12 dias por ano completo, regime anterior à Lei n.º 13/2023: o art. 366.º CT fixa hoje 14 dias por ano, com fração de ano proporcional e tetos, só é devida no despedimento coletivo, na extinção do posto de trabalho e na inadaptação, e a caducidade do contrato a termo dá 24 dias por ano (arts. 344.º e 345.º CT). Trocava as epígrafes dos arts. 263.º e 264.º CT, apoiava as férias na cessação no art. 238.º CT em vez do art. 245.º CT e remetia todo o aviso prévio para o art. 363.º CT, que só regula o despedimento coletivo. Corrigi a fundamentação, as rubricas 1, 2, 5 e 6, a checklist e a entrevista.",
+  "substituicoes": [
+   {
+    "de": "- Art. 237.º CT (direito a férias — 22 dias úteis por ano)\n- Art. 238.º CT (proporcionalidade de férias)\n- Art. 263.º CT (retribuição durante as férias e subsídio)\n- Art. 264.º CT (subsídio de Natal)\n- Art. 366.º CT (compensação por despedimento)\n- Art. 363.º CT (aviso prévio ou indemnização substitutiva)",
+    "para": "- Art. 237.º CT (direito a férias — vence-se em 1 de janeiro e reporta-se, em regra, ao trabalho prestado no ano civil anterior)\n- Art. 238.º CT (duração mínima do período anual de férias — 22 dias úteis)\n- Art. 239.º CT (férias no ano da admissão e em contrato de duração inferior a seis meses)\n- Art. 245.º CT (efeitos da cessação no direito a férias — retribuição e subsídio das férias vencidas e não gozadas e proporcionais ao tempo de serviço no ano da cessação; limite do n.º 3 na cessação no ano civil subsequente ao da admissão ou em contrato de duração não superior a 12 meses)\n- Art. 263.º CT (subsídio de Natal — proporcional ao tempo de serviço no ano da cessação)\n- Art. 264.º CT (retribuição do período de férias e subsídio de férias)\n- Art. 366.º CT (compensação — 14 dias de retribuição base e diuturnidades por cada ano completo de antiguidade, fração de ano proporcional e tetos do n.º 2; devida no despedimento coletivo e, por remissão dos arts. 372.º e 379.º, n.º 1, CT, na extinção do posto de trabalho e na inadaptação; na caducidade do contrato a termo, 24 dias por ano, calculados nos termos do art. 366.º CT — arts. 344.º, n.º 2, e 345.º, n.º 4, CT, salvo se a caducidade do termo certo decorrer de declaração do trabalhador; não é devida no despedimento por facto imputável ao trabalhador nem na denúncia pelo trabalhador)\n- Outras cessações: despedimento ilícito — indemnização dos arts. 389.º a 392.º CT; resolução com justa causa pelo trabalhador — indemnização do art. 396.º CT; revogação por acordo — compensação só se acordada\n- Art. 363.º CT (aviso prévio no despedimento coletivo: na falta, o contrato só cessa decorrido o período em falta e o empregador paga a retribuição correspondente — n.º 4, aplicável à extinção do posto de trabalho e à inadaptação por remissão dos arts. 372.º e 379.º, n.º 1, CT; prazos de aviso também nos arts. 371.º, n.º 3, e 378.º, n.º 2, CT; termo incerto — art. 345.º, n.º 3, CT; denúncia pelo trabalhador sem aviso prévio — é o trabalhador que indemniza o empregador, art. 401.º CT)",
+    "motivo": "As epígrafes estavam trocadas (o subsídio de Natal é o art. 263.º e o de férias o art. 264.º CT), as férias na cessação estão no art. 245.º CT, a compensação é de 14 dias desde a Lei n.º 13/2023 e só cabe em certas cessações, e o aviso prévio tem regra própria por modalidade",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0366&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "**1. FÉRIAS NÃO GOZADAS** (art. 238.º CT)\n- Dias vencidos no ano anterior não gozados: ___ dias\n- Valor: ___ dias × €___/dia = €___",
+    "para": "**1. FÉRIAS VENCIDAS E NÃO GOZADAS** (art. 245.º, n.º 1, al. a), CT)\n- Dias vencidos (em 1 de janeiro do ano da cessação ou antes) e não gozados: ___ dias\n- Valor: ___ dias × €___/dia = €___\n- Subsídio de férias correspondente, se ainda não pago: €___",
+    "motivo": "Na cessação, são devidos a retribuição e o subsídio das férias vencidas e não gozadas (art. 245.º, n.º 1, al. a), CT); o art. 238.º CT só fixa a duração das férias",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0245&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "**2. PROPORCIONAIS DE FÉRIAS — ANO DE CESSAÇÃO** (art. 238.º CT)",
+    "para": "**2. PROPORCIONAIS DE FÉRIAS — ANO DE CESSAÇÃO** (art. 245.º, n.º 1, al. b), CT; se a cessação ocorrer no ano civil subsequente ao da admissão ou o contrato não tiver durado mais de 12 meses, o total das férias não pode exceder o proporcional ao período anual tendo em conta a duração do contrato — art. 245.º, n.º 3, CT)",
+    "motivo": "Os proporcionais de férias na cessação e o seu limite estão no art. 245.º CT",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0245&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "**5. COMPENSAÇÃO POR DESPEDIMENTO** (se aplicável — art. 366.º CT)\n- Antiguidade: ___ anos completos\n- Fórmula: 12 dias × (€___ ÷ 30) × ___ anos\n- Valor: €___",
+    "para": "**5. COMPENSAÇÃO** (só no despedimento coletivo, na extinção do posto de trabalho, na inadaptação e na caducidade do contrato a termo — art. 366.º CT)\n- Antiguidade: ___ anos completos + fração de ano (calculada proporcionalmente — art. 366.º, n.º 2, al. d), CT)\n- Fórmula: 14 dias (24 dias na caducidade do contrato a termo — arts. 344.º, n.º 2, e 345.º, n.º 4, CT) × [(retribuição base + diuturnidades) ÷ 30] × antiguidade\n- Tetos: retribuição base e diuturnidades consideradas até 20 vezes a retribuição mínima mensal garantida; montante global até 12 vezes a retribuição base e diuturnidades ou, aplicando-se aquele limite, até 240 vezes a retribuição mínima mensal garantida (art. 366.º, n.º 2, als. a) e b), CT)\n- [■ VERIFICAR: regime transitório para a antiguidade anterior a 1/5/2023 (Lei n.º 13/2023) e, nos contratos anteriores a 1/11/2011, para os períodos regulados pela Lei n.º 69/2013 — o cálculo faz-se por períodos]\n- Valor: €___",
+    "motivo": "Desde a Lei n.º 13/2023, o art. 366.º, n.º 1, CT fixa 14 dias por ano completo; a fração de ano conta proporcionalmente, há tetos (n.º 2) e a caducidade do termo dá 24 dias",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0366&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "**6. AVISO PRÉVIO** (se não cumprido — art. 363.º CT)",
+    "para": "**6. AVISO PRÉVIO** (se não cumprido — art. 363.º CT no despedimento coletivo, aplicável por remissão à extinção do posto de trabalho e à inadaptação; prazos nos arts. 371.º, n.º 3, e 378.º, n.º 2, CT; termo incerto — art. 345.º, n.º 3, CT; denúncia pelo trabalhador sem aviso prévio — é o trabalhador que indemniza o empregador, art. 401.º CT)",
+    "motivo": "O art. 363.º CT só regula o despedimento coletivo; as outras modalidades têm regra própria",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0363&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Compensação calculada com o número correto de anos completos",
+    "para": "- [ ] Compensação só se o tipo de cessação a der, calculada com os anos completos e a fração de ano, 14 ou 24 dias por ano e os tetos do art. 366.º, n.º 2, CT",
+    "motivo": "A fração de ano conta proporcionalmente e há tetos (art. 366.º, n.º 2, CT)",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0366&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Tipo de cessação: [acordo mútuo / despedimento sem justa causa / justa causa / resolução pelo trabalhador / caducidade]",
+    "para": "- Tipo de cessação: [revogação por acordo / despedimento por facto imputável ao trabalhador / despedimento coletivo / extinção do posto de trabalho / inadaptação / despedimento declarado ilícito / resolução pelo trabalhador com justa causa / denúncia pelo trabalhador / caducidade do contrato a termo]",
+    "motivo": "A compensação e o aviso prévio dependem da modalidade exata de cessação",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0344&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Prazo de aviso prévio aplicável: [15 / 30 / 60 dias]",
+    "para": "- Prazo de aviso prévio aplicável: [15 / 30 / 60 / 75 dias, conforme a modalidade e a antiguidade]",
+    "motivo": "No despedimento coletivo, na extinção do posto de trabalho e na inadaptação, o aviso chega a 75 dias (arts. 363.º, n.º 1, 371.º, n.º 3, e 378.º, n.º 2, CT)",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0363&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Calcular a compensação por períodos quando a antiguidade é anterior a 1/5/2023 (Lei n.º 13/2023) ou o contrato é anterior a 1/11/2011 (Lei n.º 69/2013), confirmando as normas transitórias.",
+   "Confirmar no IRCT aplicável a duração das férias, as diuturnidades e as prestações que integram a retribuição de férias e o subsídio (art. 264.º CT).",
+   "Na revogação por acordo com compensação pecuniária global, ter presente a presunção de que inclui os créditos vencidos (art. 349.º, n.º 5, CT)."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0238&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0245&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0263&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0344&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0363&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0366&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0371&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0378&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0401&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+  ]
+ },
+ {
+  "codigo": "TRA-025",
+  "veredicto": "corrigida",
+  "resumo": "A ficha invertia as categorias do art. 394.º CT: chamava ao n.º 2 «causas objetivas» e ao n.º 3 «comportamentos lesivos», quando o n.º 2 contém os comportamentos culposos do empregador e o n.º 3 a justa causa objetiva; e sugeria indemnização «equivalente ao despedimento sem justa causa» em qualquer caso, quando a indemnização do art. 396.º CT só cabe nos fundamentos do n.º 2. Indicava também o prazo de 30 dias no n.º 2 do art. 395.º CT, que está no n.º 1 (o n.º 2 regula o início do prazo na falta de pagamento por 60 dias). Corrigi estas regras, a fundamentação e a reserva de direitos, e acrescentei o risco do art. 399.º CT.",
+  "substituicoes": [
+   {
+    "de": "— O prazo para enviar a carta é de 30 dias após o conhecimento dos factos (art. 395.º, n.º 2, CT) — verifica se ainda está em tempo.",
+    "para": "— O prazo para enviar a carta é de 30 dias após o conhecimento dos factos (art. 395.º, n.º 1, CT); na falta culposa de pagamento pontual da retribuição que se prolongue por 60 dias, conta-se a partir do termo desse período ou da declaração do empregador de que não pagará (art. 395.º, n.º 2, CT) — verifica se ainda está em tempo.",
+    "motivo": "O prazo de 30 dias está no n.º 1 do art. 395.º CT; o n.º 2 fixa o início do prazo no caso do art. 394.º, n.º 5",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0399&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- A resolução dará direito a indemnização equivalente ao despedimento sem justa causa?",
+    "para": "- O fundamento cabe no n.º 2 do art. 394.º CT (comportamento culposo do empregador — dá direito à indemnização do art. 396.º, n.º 1, CT, entre 15 e 45 dias de retribuição base e diuturnidades por ano completo de antiguidade, com o mínimo de três meses) ou no n.º 3 (justa causa objetiva — sem essa indemnização; só a compensação do art. 366.º CT no caso da al. d), por remissão do art. 396.º, n.º 5, CT)?",
+    "motivo": "A indemnização do art. 396.º, n.º 1, CT só cabe nos fundamentos do n.º 2 do art. 394.º; não é a do despedimento ilícito",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0401&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Art. 394.º, n.º 2, CT (causas objetivas — presunção de culpa do empregador)\n- Art. 394.º, n.º 3, CT (causas baseadas em comportamentos lesivos)",
+    "para": "- Art. 394.º, n.º 2, CT (justa causa subjetiva — comportamentos culposos do empregador: falta culposa de pagamento pontual da retribuição; violação culposa de garantias legais ou convencionais, incluindo o assédio; aplicação de sanção abusiva; falta culposa de condições de segurança e saúde no trabalho; lesão culposa de interesses patrimoniais sérios; ofensa à integridade física ou moral, liberdade, honra ou dignidade do trabalhador; a falta de pagamento que se prolongue por 60 dias considera-se culposa, n.º 5)\n- Art. 394.º, n.º 3, CT (justa causa objetiva — sem culpa do empregador: necessidade de cumprir obrigação legal incompatível; alteração substancial e duradoura das condições de trabalho no exercício lícito de poderes do empregador; falta não culposa de pagamento pontual da retribuição; transmissão da empresa com o fundamento do art. 286.º-A, n.º 1, CT)",
+    "motivo": "O n.º 2 do art. 394.º CT contém os comportamentos culposos do empregador e o n.º 3 a justa causa objetiva; a ficha invertia as categorias",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0399&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Art. 396.º CT (efeitos da resolução fundada — indemnização)",
+    "para": "- Art. 396.º CT (indemnização só nos fundamentos do n.º 2 do art. 394.º CT: entre 15 e 45 dias de retribuição base e diuturnidades por ano completo de antiguidade, mínimo de três meses, fração de ano proporcional, valor superior se os danos forem maiores e, no contrato a termo, não inferior às retribuições vincendas; compensação calculada nos termos do art. 366.º CT no caso do n.º 3, al. d))\n- Art. 399.º CT (não se provando a justa causa, o empregador tem direito a indemnização dos prejuízos, não inferior ao montante do art. 401.º CT)",
+    "motivo": "O art. 396.º CT liga a indemnização ao n.º 2 do art. 394.º e o art. 399.º CT prevê a responsabilidade do trabalhador se a justa causa não se provar",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0401&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Direito a indemnização nos termos do art. 396.º CT",
+    "para": "- Direito a indemnização nos termos do art. 396.º CT (se o fundamento couber no n.º 2 do art. 394.º CT)",
+    "motivo": "A indemnização não é devida nos fundamentos objetivos do n.º 3 (salvo a compensação da al. d))",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0401&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Prazo de 30 dias respeitado (art. 395.º, n.º 2, CT)",
+    "para": "- [ ] Prazo de 30 dias respeitado (art. 395.º, n.º 1, CT; na falta de pagamento por 60 dias, contado nos termos do art. 395.º, n.º 2, CT)",
+    "motivo": "O prazo de 30 dias está no n.º 1 do art. 395.º CT",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0399&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Qualificar cada fundamento numa alínea do n.º 2 ou do n.º 3 do art. 394.º CT antes de enviar a carta: dela dependem a indemnização (art. 396.º CT) e o risco de indemnizar o empregador se a justa causa não se provar (art. 399.º CT).",
+   "Factos continuados (por exemplo, assédio): confirmar na jurisprudência o início da contagem dos 30 dias.",
+   "O empregador pode exigir o reconhecimento notarial presencial da assinatura (art. 395.º, n.º 4, CT); confirmar o acesso ao subsídio de desemprego no regime de proteção no desemprego em vigor."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0394&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0399&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0401&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+  ]
+ },
+ {
+  "codigo": "TRA-028",
+  "veredicto": "corrigida",
+  "resumo": "A ficha inventava uma classificação dos acidentes em «leves» e «graves» por dias de baixa e um prazo de participação à seguradora de «8 dias úteis»: na Lei n.º 98/2009, o sinistrado participa ao empregador em 48 horas (art. 86.º), o empregador participa à seguradora em 24 horas a partir do conhecimento (art. 87.º) ou, sem responsabilidade transferida, ao tribunal em oito dias e de imediato em caso de morte (art. 88.º); a comunicação à ACT só abrange os acidentes mortais ou com lesão física grave (art. 111.º da Lei n.º 102/2009). Os artigos da fundamentação não correspondiam (o art. 25.º trata das prestações em espécie e o art. 49.º da pessoa a cargo; a caducidade da ação está no art. 179.º, n.º 1). Tratava também o acidente de trajeto como distinto do acidente de trabalho. Corrigi estas regras, as etapas, a checklist, a entrevista e a descrição do índice.",
+  "descricao": "Gera a participação do acidente de trabalho à seguradora (ou ao tribunal, se a responsabilidade não estiver transferida) e, nos acidentes mortais ou que evidenciem lesão física grave, a comunicação à ACT, com descrição objetiva do acidente, identificação das partes e testemunhas, e orientações para o acompanhamento do processo de reparação, ao abrigo da Lei n.º 98/2009 (regime de reparação de acidentes de trabalho e de doenças profissionais), da Lei n.º 102/2009 (regime jurídico da promoção da segurança e saúde no trabalho) e da Lei n.º 7/2009 (Código do Trabalho).",
+  "descricao_en": "Generates the report of a workplace accident to the insurer (or to the court, where liability has not been transferred) and, for fatal accidents or those showing serious physical injury, the notice to the ACT, with an objective description of the accident, identification of the parties and witnesses, and guidance on following up the compensation process, under Law No. 98/2009 (compensation for workplace accidents and occupational diseases), Law No. 102/2009 (occupational health and safety) and Law No. 7/2009 (Labour Code).",
+  "substituicoes": [
+   {
+    "de": "— Distingue acidente de trabalho (ocorrido durante o trabalho) de acidente in itinere (no percurso casa-trabalho).",
+    "para": "— Distingue o acidente ocorrido no local e no tempo de trabalho (art. 8.º Lei 98/2009) do acidente de trajeto e das demais situações do art. 9.º Lei 98/2009 — também estes são acidentes de trabalho.",
+    "motivo": "O acidente de trajeto é acidente de trabalho por extensão do conceito (art. 9.º, n.º 1, al. a), da Lei n.º 98/2009), não uma categoria distinta",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1156A0008&nid=1156&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Gravidade: acidente leve (menos de 3 dias de baixa), grave (3 ou mais dias), mortal?\n- Prazo de participação: acidente grave exige participação imediata à ACT",
+    "para": "- Consequências do acidente: incapacidade temporária (absoluta ou parcial), incapacidade permanente ou morte (art. 48.º, n.º 3, Lei 98/2009); para a comunicação à ACT, interessa se o acidente foi mortal ou evidencia lesão física grave (art. 111.º, n.º 1, Lei 102/2009)\n- Prazos de participação: sinistrado ao empregador nas 48 horas seguintes, salvo se este o presenciou ou dele teve conhecimento no mesmo período (art. 86.º, n.º 1, Lei 98/2009); empregador à seguradora no prazo de 24 horas a partir do conhecimento (art. 87.º, n.º 1, Lei 98/2009); empregador sem responsabilidade transferida ao tribunal competente em oito dias e, em caso de morte, de imediato (art. 88.º Lei 98/2009); comunicação à ACT dos acidentes mortais ou que evidenciem lesão física grave nas 24 horas seguintes (art. 111.º, n.º 1, Lei 102/2009)",
+    "motivo": "A Lei n.º 98/2009 não classifica os acidentes em «leves» e «graves» por dias de baixa; os prazos de participação são os dos arts. 86.º a 88.º e a comunicação à ACT a do art. 111.º da Lei n.º 102/2009",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1156A0087&nid=1156&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Art. 25.º Lei 98/2009 (obrigação de participação pelo empregador — prazo)\n- Art. 47.º Lei 98/2009 (prestações por incapacidade temporária)\n- Art. 48.º Lei 98/2009 (prestações por incapacidade permanente)\n- Art. 49.º Lei 98/2009 (ação emergente — prazo de 1 ano)",
+    "para": "- Arts. 86.º a 88.º Lei 98/2009 (participação do acidente pelo sinistrado e pelo empregador — prazos)\n- Art. 90.º Lei 98/2009 (participação da seguradora ao tribunal — incapacidade permanente, morte e incapacidade temporária superior a 12 meses)\n- Art. 111.º Lei 102/2009 (comunicação à ACT dos acidentes mortais ou que evidenciem lesão física grave — 24 horas)\n- Art. 25.º Lei 98/2009 (prestações em espécie)\n- Art. 47.º Lei 98/2009 (modalidades das prestações em dinheiro)\n- Art. 48.º Lei 98/2009 (prestações por incapacidade temporária e permanente)\n- Art. 179.º, n.º 1, Lei 98/2009 (caducidade do direito de ação — um ano a contar da alta clínica formalmente comunicada ao sinistrado ou, em caso de morte, a contar desta)",
+    "motivo": "O art. 25.º trata das prestações em espécie e o art. 49.º da pessoa a cargo; a participação está nos arts. 86.º a 88.º e a caducidade da ação no art. 179.º, n.º 1, da Lei n.º 98/2009",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1156A0179&nid=1156&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Participação à seguradora (8 dias úteis do conhecimento para graves)\n- Participação ao ACT (24 horas para acidentes graves/mortais)",
+    "para": "- Participação à seguradora: 24 horas a partir do conhecimento, por meio informático (em suporte de papel, só na microempresa) — art. 87.º Lei 98/2009\n- Participação ao tribunal competente, se a responsabilidade não estiver transferida: oito dias a partir do acidente ou do seu conhecimento; em caso de morte, de imediato, por correio eletrónico — art. 88.º Lei 98/2009\n- Comunicação à ACT: só acidentes mortais ou que evidenciem lesão física grave, nas 24 horas seguintes, com a identificação do trabalhador, a descrição dos factos e os registos dos tempos de trabalho dos 30 dias anteriores — art. 111.º Lei 102/2009",
+    "motivo": "O prazo de participação à seguradora é de 24 horas (art. 87.º, n.º 1, da Lei n.º 98/2009); o de oito dias é o da participação ao tribunal pelo empregador sem seguro (art. 88.º)",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1156A0087&nid=1156&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "**À [Seguradora] / À Autoridade para as Condições do Trabalho**",
+    "para": "**À [Seguradora] (ou ao tribunal competente, se a responsabilidade não estiver transferida) / À Autoridade para as Condições do Trabalho (só acidente mortal ou que evidencie lesão física grave)**",
+    "motivo": "Sem seguro, a participação é feita ao tribunal (art. 88.º da Lei n.º 98/2009); a ACT só recebe a comunicação dos acidentes do art. 111.º da Lei n.º 102/2009",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1156A0088&nid=1156&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Prazo de participação verificado (8 dias úteis para graves)\n- [ ] ACT notificado em 24h se acidente grave ou mortal",
+    "para": "- [ ] Prazo de participação à seguradora verificado (24 horas a partir do conhecimento — art. 87.º Lei 98/2009) ou, sem responsabilidade transferida, ao tribunal (art. 88.º Lei 98/2009)\n- [ ] ACT notificada nas 24 horas seguintes se o acidente foi mortal ou evidencia lesão física grave (art. 111.º Lei 102/2009)",
+    "motivo": "Prazos e âmbito da comunicação à ACT corrigidos",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1158A0111&nid=1158&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Gravidade estimada: [leve / grave — 3+ dias baixa / muito grave / mortal]",
+    "para": "- Consequências: [incapacidade temporária — n.º de dias de baixa / possível incapacidade permanente / lesão física grave / morte]\n- Data e hora em que o empregador teve conhecimento do acidente: [dd/mm/aaaa, hh:mm]\n- Responsabilidade transferida para seguradora: [sim / não]",
+    "motivo": "A lei não usa a classificação por dias de baixa; o prazo conta-se do conhecimento e o destinatário depende de haver seguro",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1156A0087&nid=1156&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar o modelo de participação exigido pela seguradora e o tribunal competente (juízo do trabalho) se não houver seguro.",
+   "Confirmar se a lesão é «lesão física grave» para efeitos do art. 111.º da Lei n.º 102/2009.",
+   "Ter presente que a falta de participação tempestiva pelo sinistrado pode afastar prestações (art. 86.º, n.º 4, da Lei n.º 98/2009)."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1156A0008&nid=1156&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1156A0025&nid=1156&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1156A0047&nid=1156&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1156A0048&nid=1156&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1156A0049&nid=1156&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1156A0086&nid=1156&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1156A0087&nid=1156&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1156A0088&nid=1156&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1156A0090&nid=1156&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1156A0179&nid=1156&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1158A0111&nid=1158&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0128&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+  ]
+ },
+ {
+  "codigo": "TRA-032",
+  "veredicto": "corrigida",
+  "resumo": "A ficha apresentava os requisitos da cedência ocasional em alternativa («relação entre as empresas OU consentimento do trabalhador»), quando o art. 289.º, n.º 1, CT os exige cumulativamente (contrato sem termo, relação societária ou estruturas organizativas comuns, concordância do trabalhador e duração); fixava a duração em «1 ano + 1», quando a lei admite um ano renovável por iguais períodos até cinco anos; e remetia o trabalho temporário para a Lei n.º 19/2007, hoje regulado nos arts. 172.º e ss. CT. Descrevia também mal os arts. 292.º e 293.º CT. Corrigi as regras, a análise, as cláusulas (concordância obrigatória, retribuição do art. 291.º, n.º 5, regresso ao cedente do art. 290.º, n.º 2), a checklist, a entrevista e a descrição do índice.",
+  "descricao": "Gera o acordo de cedência ocasional de trabalhador entre o empregador cedente e o cessionário (utilizador), com a declaração de concordância do trabalhador, definindo as condições de cedência, retribuição, responsabilidades e duração, ao abrigo dos artigos 288.º a 293.º do Código do Trabalho, distinguindo-o do trabalho temporário (artigos 172.º e seguintes do Código do Trabalho).",
+  "descricao_en": "Generates the agreement for the occasional assignment of an employee (cedência ocasional) between the assigning employer and the user company, with the employee's declaration of consent, setting the conditions of assignment, pay, responsibilities and duration, under Articles 288 to 293 of the Labour Code, distinguishing it from temporary agency work (Articles 172 et seq. of the Labour Code).",
+  "substituicoes": [
+   {
+    "de": "— Distingue cedência ocasional (arts. 288.º e ss. CT) de trabalho temporário (regime especial — Lei n.º 19/2007); se a situação for trabalho temporário, alerta.",
+    "para": "— Distingue cedência ocasional (arts. 288.º e ss. CT) de trabalho temporário (arts. 172.º e ss. CT); se a situação for trabalho temporário, alerta.",
+    "motivo": "O regime do trabalho temporário consta hoje dos arts. 172.º e ss. CT, não da Lei n.º 19/2007",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0172&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "— A cedência ocasional exige: relação de grupo, associação ou participação entre as empresas OU consentimento escrito do trabalhador.",
+    "para": "— A cedência ocasional só é lícita se se verificarem cumulativamente (art. 289.º, n.º 1, CT): trabalhador vinculado ao cedente por contrato de trabalho sem termo; cedência entre sociedades coligadas, em relação societária de participações recíprocas, de domínio ou de grupo, ou entre empregadores com estruturas organizativas comuns; concordância do trabalhador; e duração que não exceda um ano, renovável por iguais períodos até ao máximo de cinco anos. O instrumento de regulamentação coletiva de trabalho pode regular estas condições, salvo a concordância do trabalhador (art. 289.º, n.º 2, CT).",
+    "motivo": "O art. 289.º, n.º 1, CT exige as condições cumulativamente, incluindo o contrato sem termo",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0293&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "— Duração máxima: 1 ano (prorrogável por mais 1 ano no máximo).",
+    "para": "— O acordo entre cedente e cessionário é escrito e contém as menções do art. 290.º, n.º 1, CT, incluindo a declaração de concordância do trabalhador; a cedência fora das condições do art. 289.º CT ou sem esse acordo dá ao trabalhador o direito de optar pela permanência ao serviço do cessionário com contrato sem termo, até ao termo da cedência (art. 292.º, n.º 1, CT).",
+    "motivo": "A duração máxima é de um ano renovável até cinco anos (art. 289.º, n.º 1, al. d), CT); faltavam a forma do acordo e a consequência da cedência ilícita",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0293&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Existe relação de grupo, associação ou participação entre cedente e utilizador?\n- Ou o trabalhador deu consentimento prévio e escrito?\n- A duração pretendida está dentro do máximo legal?",
+    "para": "- O trabalhador está vinculado ao cedente por contrato de trabalho sem termo?\n- Cedente e utilizador são sociedades coligadas (participações recíprocas, domínio ou grupo) ou empregadores com estruturas organizativas comuns?\n- O trabalhador concorda com a cedência (declaração a incluir no acordo)?\n- Estas condições verificam-se todas (art. 289.º, n.º 1, CT)?\n- A duração pretendida está dentro do máximo legal (um ano, renovável por iguais períodos até cinco anos)?",
+    "motivo": "Os requisitos são cumulativos, não alternativos",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0293&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Art. 292.º CT (cessação da cedência)\n- Art. 293.º CT (proibições — fraude à lei)",
+    "para": "- Art. 292.º CT (consequências da cedência ilícita ou da falta de acordo escrito — direito do trabalhador de optar pela permanência no cessionário com contrato sem termo)\n- Art. 293.º CT (enquadramento do trabalhador cedido; comunicação do cessionário à comissão de trabalhadores em cinco dias úteis)\n- Art. 290.º, n.º 1, CT (acordo escrito entre cedente e cessionário e menções obrigatórias); art. 290.º, n.º 2, CT (regresso ao cedente no termo da cedência, contando a sua duração para a antiguidade)",
+    "motivo": "O art. 292.º CT trata da cedência ilícita e o art. 293.º CT do enquadramento do trabalhador cedido; a cessação e o regresso ao cedente estão no art. 290.º, n.º 2, CT",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0293&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "2.ª — Consentimento do trabalhador (se aplicável — declaração expressa)\n3.ª — Duração (data de início e de fim; possibilidade de prorrogação)",
+    "para": "2.ª — Declaração de concordância do trabalhador (obrigatória — art. 289.º, n.º 1, al. c), CT, e art. 290.º, n.º 1, al. e), CT)\n3.ª — Duração (data de início e duração; até um ano, renovável por iguais períodos até ao máximo de cinco anos — art. 289.º, n.º 1, al. d), CT)",
+    "motivo": "A concordância do trabalhador é sempre obrigatória e a renovação tem o limite de cinco anos",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0293&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "6.ª — Retribuição (quem paga; valor; componentes)",
+    "para": "6.ª — Retribuição (quem paga; valor; componentes — o trabalhador tem direito à mais elevada de entre a retribuição mínima do IRCT aplicável ao cedente ou ao cessionário, a praticada pelo cessionário para as mesmas funções e a auferida no momento da cedência, e às férias, subsídios e prestações regulares dos trabalhadores do cessionário, em proporção da duração da cedência — art. 291.º, n.º 5, CT)",
+    "motivo": "O art. 291.º, n.º 5, CT fixa a retribuição mínima do trabalhador cedido",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0293&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "11.ª — Retorno ao cedente no fim da cedência",
+    "para": "11.ª — Retorno ao cedente no fim da cedência, na extinção do cessionário ou na cessação da atividade para que foi cedido, mantendo os direitos anteriores e contando a cedência para a antiguidade (art. 290.º, n.º 2, CT)",
+    "motivo": "Regime do regresso ao cedente (art. 290.º, n.º 2, CT)",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0286&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Requisito de cedência verificado (relação entre empresas OU consentimento)\n- [ ] Consentimento expresso do trabalhador (se necessário)\n- [ ] Duração dentro do máximo legal (1+1 anos)",
+    "para": "- [ ] Condições cumulativas do art. 289.º, n.º 1, CT verificadas (contrato sem termo, relação entre as empresas, concordância do trabalhador e duração)\n- [ ] Declaração de concordância do trabalhador incluída no acordo escrito (art. 290.º, n.º 1, al. e), CT)\n- [ ] Duração dentro do máximo legal (um ano, renovável por iguais períodos até cinco anos)",
+    "motivo": "Requisitos cumulativos e duração máxima corrigidos",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0293&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Relação com o utilizador: [empresa do mesmo grupo / empresa associada / outra — especificar]",
+    "para": "- Relação com o utilizador: [sociedade coligada — participações recíprocas, domínio ou grupo / estruturas organizativas comuns — especificar]",
+    "motivo": "Só estas relações admitem a cedência (art. 289.º, n.º 1, al. b), CT)",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0293&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Data de admissão no cedente: [dd/mm/aaaa]",
+    "para": "- Data de admissão no cedente: [dd/mm/aaaa]\n- Tipo de contrato com o cedente: [sem termo — condição da cedência]",
+    "motivo": "O trabalhador tem de estar vinculado ao cedente por contrato sem termo (art. 289.º, n.º 1, al. a), CT)",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0293&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Duração: [X meses — máximo 12]",
+    "para": "- Duração: [X meses — até um ano por período, renovável por iguais períodos até ao máximo de cinco anos]",
+    "motivo": "Duração máxima do art. 289.º, n.º 1, al. d), CT",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0293&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar se o IRCT aplicável regula de forma diferente as condições da cedência (art. 289.º, n.º 2, CT), salvo a concordância do trabalhador.",
+   "Confirmar a relação societária entre cedente e cessionário (coligação nos termos do CSC) ou a existência de estruturas organizativas comuns, com prova documental.",
+   "Lembrar ao cessionário a comunicação à comissão de trabalhadores em cinco dias úteis (art. 293.º, n.º 2, CT) e a informação sobre os riscos do posto de trabalho (art. 291.º, n.º 2, CT)."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0172&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0286&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0289&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0293&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+  ]
+ },
+ {
+  "codigo": "TRA-033",
+  "veredicto": "corrigida",
+  "resumo": "A ficha apresentava o direito de oposição como direito geral do trabalhador, quando o art. 286.º-A CT só o admite se a transmissão lhe puder causar prejuízo sério e o sujeita a comunicação escrita em cinco dias úteis; situava a responsabilidade solidária do transmitente no n.º 5 do art. 285.º CT (definição de unidade económica), quando está no n.º 6, por dois anos; e omitia o conteúdo e o prazo da informação do art. 286.º CT (por escrito, pelo menos 10 dias úteis antes da consulta, a cargo do transmitente e do adquirente) e o prazo de sete dias úteis do art. 285.º, n.º 7. Corrigi as regras, a fundamentação, a estrutura da comunicação, a checklist e a entrevista.",
+  "substituicoes": [
+   {
+    "de": "— A comunicação deve ser feita ANTES da transmissão — não depois.",
+    "para": "— A comunicação deve ser feita ANTES da transmissão, por escrito, em tempo útil e pelo menos 10 dias úteis antes da consulta dos representantes dos trabalhadores (art. 286.º, n.º 3, CT); a obrigação é do transmitente e do adquirente, que informam os representantes dos respetivos trabalhadores ou, na falta destes, os próprios trabalhadores (art. 286.º, n.º 1, CT). A transmissão só pode ter lugar sete dias úteis após o acordo ou o termo da consulta, ou após o termo do prazo para designar a comissão representativa, se esta não tiver sido constituída (art. 285.º, n.º 7, CT).",
+    "motivo": "O art. 286.º, n.ºs 1 e 3, CT fixa quem informa, a forma e a antecedência mínima, e o art. 285.º, n.º 7, CT o momento da transmissão",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0289&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "— Os trabalhadores têm o direito de se opor à transmissão (art. 286.º CT) — informa sobre este direito.\n— Responsabilidade solidária do cedente por créditos vencidos antes da transmissão (art. 285.º, n.º 5, CT).",
+    "para": "— O trabalhador só pode opor-se à transmissão quando esta lhe possa causar prejuízo sério, nomeadamente por manifesta falta de solvabilidade ou situação financeira difícil do adquirente, ou se a política de organização do trabalho deste não lhe merecer confiança (art. 286.º-A, n.º 1, CT); deve informar o empregador por escrito, no prazo de cinco dias úteis após o acordo ou o termo da consulta (ou após o termo do prazo para designar a comissão representativa, se esta não tiver sido constituída), indicando a sua identificação, a atividade contratada e o fundamento da oposição (art. 286.º-A, n.º 3, CT); a oposição mantém o vínculo ao transmitente (art. 286.º-A, n.º 2, CT). Em alternativa, pode resolver o contrato com direito a compensação calculada nos termos do art. 366.º CT (art. 394.º, n.º 3, al. d), CT, e art. 396.º, n.º 5, CT) — informa sobre estes direitos nestes termos.\n— Responsabilidade solidária do transmitente (cedente) pelos créditos do trabalhador emergentes do contrato, da sua violação ou cessação e pelos encargos sociais correspondentes, vencidos até à data da transmissão, durante os dois anos subsequentes (art. 285.º, n.º 6, CT); o adquirente sucede na posição de empregador (art. 285.º, n.º 1, CT).",
+    "motivo": "O direito de oposição está no art. 286.º-A CT e depende de prejuízo sério, com prazo e forma; a responsabilidade solidária do transmitente consta do art. 285.º, n.º 6, CT (o n.º 5 define unidade económica) e dura dois anos",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0286&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Art. 285.º, n.º 5, CT (responsabilidade solidária por créditos anteriores)",
+    "para": "- Art. 285.º, n.º 6, CT (responsabilidade solidária do transmitente pelos créditos vencidos até à data da transmissão, durante os dois anos subsequentes)",
+    "motivo": "A responsabilidade solidária está no n.º 6 do art. 285.º CT; o n.º 5 define unidade económica",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0289&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Comunicação aos trabalhadores (cedente)",
+    "para": "- Comunicação aos trabalhadores ou aos seus representantes (transmitente e adquirente — art. 286.º, n.º 1, CT; por escrito, pelo menos 10 dias úteis antes da consulta — art. 286.º, n.º 3, CT)\n- Consulta dos representantes dos trabalhadores, antes da transmissão, com vista a um acordo sobre as medidas a aplicar (art. 286.º, n.º 4, CT); na falta de representantes, os trabalhadores podem designar uma comissão representativa em cinco dias úteis (art. 286.º, n.º 7, CT)",
+    "motivo": "A informação cabe ao transmitente e ao adquirente e é seguida de consulta (art. 286.º CT)",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0286&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Natureza e modalidade da transmissão\n- Data prevista de transmissão",
+    "para": "- Natureza e modalidade da transmissão\n- Data prevista e motivos da transmissão\n- Consequências jurídicas, económicas e sociais para os trabalhadores e medidas projetadas em relação a estes\n- Conteúdo do contrato entre transmitente e adquirente, com as reservas de confidencialidade dos arts. 412.º e 413.º CT (art. 286.º, n.º 1, CT)",
+    "motivo": "Conteúdo obrigatório da informação (art. 286.º, n.º 1, CT)",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0286&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Responsabilidade pelo pagamento de créditos anteriores",
+    "para": "- Responsabilidade pelo pagamento de créditos anteriores: o adquirente, como novo empregador, e o transmitente, solidariamente, pelos créditos vencidos até à data da transmissão, durante os dois anos subsequentes (art. 285.º, n.º 6, CT)",
+    "motivo": "Regime do art. 285.º, n.ºs 1 e 6, CT",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0289&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Prazo e forma de exercício",
+    "para": "- Pressupostos (prejuízo sério — art. 286.º-A, n.º 1, CT), prazo de cinco dias úteis e forma escrita, com a identificação do trabalhador, a atividade contratada e o fundamento (art. 286.º-A, n.º 3, CT)",
+    "motivo": "O direito de oposição é condicionado e tem prazo e forma próprios",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0286&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Comunicação feita antes da data de transmissão",
+    "para": "- [ ] Comunicação feita por escrito antes da transmissão, pelo menos 10 dias úteis antes da consulta (art. 286.º, n.º 3, CT)",
+    "motivo": "Antecedência mínima do art. 286.º, n.º 3, CT",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0286&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Direito de oposição dos trabalhadores informado",
+    "para": "- [ ] Direito de oposição dos trabalhadores informado, com os pressupostos, o prazo e a forma (art. 286.º-A CT)",
+    "motivo": "A oposição depende de prejuízo sério e tem prazo e forma",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0286&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Prazo para o trabalhador exercer o direito de oposição: [X dias — verificar CT]",
+    "para": "- Prazo para o trabalhador exercer o direito de oposição: [cinco dias úteis após o acordo ou o termo da consulta, ou após o termo do prazo para designar a comissão representativa — art. 286.º-A, n.º 3, CT; indicar a data]",
+    "motivo": "Prazo do art. 286.º-A, n.º 3, CT",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0286&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar se a operação é transmissão de unidade económica (art. 285.º, n.ºs 1, 2, 5 e 10, CT), incluindo a adjudicação de serviços por concurso.",
+   "Na média ou grande empresa, o transmitente informa a ACT do conteúdo do contrato e dos elementos da unidade económica (art. 285.º, n.ºs 8 e 9, CT).",
+   "Confirmar a aplicação do IRCT do transmitente aos trabalhadores transmitidos (art. 285.º, n.º 14, e art. 498.º CT)."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0286&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0289&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0399&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0401&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+  ]
+ },
+ {
+  "codigo": "TRA-035",
+  "veredicto": "corrigida",
+  "resumo": "A ficha trabalhava com «6 indícios» do art. 12.º CT e incluía a exclusividade entre eles, quando o art. 12.º, n.º 1, CT enumera cinco características (local, equipamentos, horário, quantia certa periódica e funções de direção ou chefia na estrutura orgânica). Os limiares de risco «0-1 / 2-3 / 4+ indícios» não têm base legal: a presunção opera quando se verifiquem «algumas» das características e é ilidível (art. 350.º, n.º 2, CC). Corrigi a contagem, a lista de indícios (a exclusividade passa a indício geral), a avaliação de risco e a checklist, e acrescentei as consequências da requalificação (contraordenação do art. 12.º, n.º 2, CT e procedimento da ACT do art. 15.º-A da Lei n.º 107/2009).",
+  "substituicoes": [
+   {
+    "de": "- Número de indícios do art. 12.º CT verificados (contar de 1 a 6)",
+    "para": "- Características do art. 12.º, n.º 1, CT verificadas (als. a) a e)) e outros indícios de subordinação jurídica (ordens e instruções, integração na estrutura, poder disciplinar, exclusividade, ausência de risco económico)",
+    "motivo": "O art. 12.º, n.º 1, CT enumera cinco características, não seis; a exclusividade não está na lista",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0012&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Consequências da requalificação (créditos laborais, contribuições SS, coimas)",
+    "para": "- Consequências da requalificação (créditos laborais, contribuições SS, contraordenação muito grave do art. 12.º, n.º 2, CT e sanções acessórias em caso de reincidência, art. 12.º, n.º 3, CT; procedimento da ACT do art. 15.º-A da Lei n.º 107/2009 — auto, notificação para regularizar em 10 dias e participação ao Ministério Público para a ação de reconhecimento da existência de contrato de trabalho)\n- Atividade prestada através de plataforma digital: presunção própria do art. 12.º-A CT",
+    "motivo": "Faltavam a contraordenação e o procedimento oficioso da ACT que tornam concreto o risco de requalificação",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1154A0015A&nid=1154&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "e) Desempenha função de chefia ou faz parte de estrutura orgânica: [sim/não — factos]\nf) Exclusividade: [sim/não — factos]",
+    "para": "e) Desempenha funções de direção ou chefia na estrutura orgânica da empresa: [sim/não — factos]\n\nOutros indícios (não constam do art. 12.º, n.º 1, CT, mas relevam na apreciação global da subordinação jurídica — art. 11.º CT): exclusividade, ordens e instruções, integração na equipa, poder disciplinar, possibilidade de recusar trabalho ou de se fazer substituir, risco económico: [factos]",
+    "motivo": "A al. e) do art. 12.º, n.º 1, CT refere funções de direção ou chefia na estrutura orgânica e a exclusividade não é característica legal da presunção",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0012&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Número de indícios verificados: ___\n- Risco de requalificação: baixo (0-1 indícios) / médio (2-3 indícios) / alto (4+ indícios)",
+    "para": "- Características do art. 12.º, n.º 1, CT verificadas: ___ (a lei não fixa um número: basta que se verifiquem «algumas»)\n- Outros indícios relevantes: ___\n- Risco de requalificação: baixo / médio / alto, fundamentado na apreciação global dos indícios e na possibilidade de o beneficiário ilidir a presunção mediante prova em contrário (art. 350.º, n.º 2, CC) [■ VERIFICAR: orientação jurisprudencial atual sobre o número de características que basta para a presunção]",
+    "motivo": "Os limiares 0-1 / 2-3 / 4+ não têm base legal: a presunção opera quando se verifiquem algumas das características e é ilidível",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0350&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Todos os 6 indícios do art. 12.º CT analisados",
+    "para": "- [ ] As cinco características do art. 12.º, n.º 1, CT analisadas e os demais indícios ponderados globalmente",
+    "motivo": "O art. 12.º, n.º 1, CT tem cinco alíneas",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0012&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Integração em equipa ou estrutura: [sim/não]",
+    "para": "- Integração em equipa ou estrutura: [sim/não]\n- Funções de direção ou chefia na estrutura orgânica: [sim/não]",
+    "motivo": "A entrevista não recolhia a característica da al. e) do art. 12.º, n.º 1, CT",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0012&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar na jurisprudência recente quantas características do art. 12.º, n.º 1, CT bastam para a presunção e o peso dos indícios gerais de subordinação.",
+   "Se houver ação da ACT, controlar o prazo de 10 dias para regularizar ou responder (art. 15.º-A, n.º 1, da Lei n.º 107/2009).",
+   "Se a atividade for prestada através de plataforma digital, aplicar a presunção do art. 12.º-A CT."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0012&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1154A0015A&nid=1154&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0350&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+  ]
+ },
+ {
+  "codigo": "TRA-039",
+  "veredicto": "corrigida",
+  "resumo": "A ficha trocava os números do art. 329.º CT (a prescrição de um ano conta-se da prática da infração, n.º 1; os 60 dias para iniciar o procedimento estão no n.º 2) e, na etapa 1, contava a prescrição desde a «comunicação ao empregador». Previa uma «audiência oral» que o procedimento disciplinar do CT não tem (o trabalhador requer diligências probatórias na resposta, art. 355.º, n.º 1, e o art. 356.º, n.º 3, limita as testemunhas), indicava o prazo de resposta no art. 356.º, n.º 1, em vez do art. 355.º, n.º 1, e apontava como vício a «não indicação da sanção máxima», que a lei não exige (o vício é a falta da comunicação da intenção de despedimento, art. 382.º, n.º 2, al. b)). A checklist citava o art. 374.º CT (inadaptação) e fazia depender o parecer da comissão de trabalhadores de o trabalhador ser seu membro. Corrigi estes pontos.",
+  "substituicoes": [
+   {
+    "de": "- Vícios formais da nota de culpa (insuficiência descritiva, falta de datas, não indicação da sanção máxima prevista)\n- Prazo de prescrição disciplinar: a infração foi comunicada ao empregador há mais de um ano? (art. 329.º, n.º 2, CT)\n- Caducidade do procedimento disciplinar (art. 329.º, n.º 1, CT): 60 dias desde o conhecimento pelo empregador",
+    "para": "- Vícios formais da nota de culpa (falta de nota de culpa escrita ou de descrição circunstanciada dos factos imputados, com datas e circunstâncias; falta da comunicação da intenção de despedimento junta à nota de culpa — art. 382.º, n.º 2, als. a) e b), CT)\n- Prescrição da infração: decorreu mais de um ano desde a prática da infração, ou o prazo de prescrição da lei penal, se o facto constituir também crime? (art. 329.º, n.º 1, CT)\n- Caducidade do direito de instaurar o procedimento disciplinar (art. 329.º, n.º 2, CT): 60 dias desde o conhecimento da infração pelo empregador ou pelo superior hierárquico com competência disciplinar; a notificação da nota de culpa interrompe estes prazos (art. 353.º, n.º 3, CT)\n- Prescrição do procedimento: um ano desde a instauração sem que o trabalhador seja notificado da decisão final (art. 329.º, n.º 3, CT)",
+    "motivo": "A prescrição de um ano conta-se da prática da infração (art. 329.º, n.º 1, CT) e os 60 dias para iniciar o procedimento estão no n.º 2; a lei não exige a indicação da «sanção máxima», mas a comunicação da intenção de despedimento (art. 382.º, n.º 2, al. b), CT)",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0328&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Prova a arrelar (documental, testemunhal, pericial)\n- Pedido de audiência oral e rol de testemunhas (art. 356.º, n.º 3, CT)",
+    "para": "- Prova a arrolar (documental, testemunhal, pericial)\n- Requerimento de diligências probatórias e indicação das testemunhas na resposta (art. 355.º, n.º 1, CT): o empregador deve realizá-las, salvo se as considerar patentemente dilatórias ou impertinentes, o que tem de alegar fundamentadamente por escrito (art. 356.º, n.º 1, CT); não é obrigado a ouvir mais de três testemunhas por facto nem mais de 10 no total (art. 356.º, n.º 3, CT), cabendo ao trabalhador assegurar a sua comparência (art. 356.º, n.º 4, CT)",
+    "motivo": "O procedimento disciplinar do CT não prevê uma «audiência oral»: o trabalhador requer diligências probatórias na resposta (art. 355.º, n.º 1, CT) e o art. 356.º, n.º 3, CT limita o número de testemunhas",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0358&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "exercendo o direito de resposta no prazo legal de 10 dias úteis (art. 356.º, n.º 1, CT)",
+    "para": "exercendo o direito de consulta do processo e de resposta no prazo legal de 10 dias úteis (art. 355.º, n.º 1, CT)",
+    "motivo": "O prazo de 10 dias úteis para consultar o processo e responder está no art. 355.º, n.º 1, CT; o art. 356.º trata da instrução",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0358&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "**VI. PEDIDO DE AUDIÊNCIA ORAL** *(se pretendido)*\n[Requer audiência oral nos termos do art. 356.º, n.º 3, CT.]",
+    "para": "**VI. REQUERIMENTO DE DILIGÊNCIAS PROBATÓRIAS** *(se pretendido)*\n[Requer a inquirição das testemunhas indicadas, com o facto a que cada uma depõe (até três por facto e 10 no total — art. 356.º, n.º 3, CT), e as demais diligências pertinentes para o esclarecimento da verdade (art. 355.º, n.º 1, CT).]",
+    "motivo": "Não existe audiência oral no procedimento do CT; o meio é o requerimento de diligências probatórias",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0358&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Nota de culpa descreve factos de forma concreta, com datas e circunstâncias (art. 353.º, n.º 1, CT)\n- [ ] Prazo de 60 dias desde conhecimento pelo empregador respeitado (art. 329.º, n.º 1, CT)\n- [ ] Infração não prescrita (1 ano desde a prática — art. 329.º, n.º 2, CT)\n- [ ] Trabalhador não é representante sindical (exige consulta prévia — art. 374.º CT)\n- [ ] Trabalhador não é membro de comissão de trabalhadores (exige parecer — art. 410.º CT)",
+    "para": "- [ ] Nota de culpa descreve factos de forma concreta, com datas e circunstâncias (art. 353.º, n.º 1, CT)\n- [ ] Comunicação escrita da intenção de despedimento junta à nota de culpa — a sua falta invalida o procedimento (art. 382.º, n.º 2, al. b), CT)\n- [ ] Prazo de 60 dias desde conhecimento pelo empregador respeitado (art. 329.º, n.º 2, CT)\n- [ ] Infração não prescrita (1 ano desde a prática — art. 329.º, n.º 1, CT)\n- [ ] Cópias da comunicação e da nota de culpa remetidas à comissão de trabalhadores e, se o trabalhador for representante sindical, à associação sindical (art. 353.º, n.º 2, CT); cópia integral do processo apresentada para parecer após a instrução (art. 356.º, n.º 5, CT) — formalidades dispensadas na microempresa se o trabalhador não for membro de comissão de trabalhadores nem representante sindical (art. 358.º, n.º 1, CT)\n- [ ] Trabalhador membro de estrutura de representação coletiva: proteção do art. 410.º CT (o despedimento de candidato aos corpos sociais de associação sindical, ou de quem neles exerça ou tenha exercido funções há menos de três anos, presume-se feito sem justa causa; a suspensão do despedimento só não é decretada se houver probabilidade séria de justa causa)",
+    "motivo": "Os números do art. 329.º CT estavam trocados; o art. 374.º CT trata da inadaptação; o parecer da comissão de trabalhadores não depende de o trabalhador ser seu membro (arts. 353.º, n.º 2, e 356.º, n.º 5, CT) e a proteção dos representantes está no art. 410.º CT",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0410&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Representante sindical ou membro de comissão de trabalhadores: [sim/não]",
+    "para": "- Representante sindical ou membro de comissão de trabalhadores: [sim/não]\n- Existe comissão de trabalhadores na empresa? A empresa é microempresa? [sim/não]",
+    "motivo": "Destes dados dependem as formalidades dos arts. 353.º, n.º 2, 356.º, n.º 5, e 358.º, n.º 1, CT",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0358&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Audiência oral pretendida: [sim/não]",
+    "para": "- Diligências probatórias a requerer: [inquirição de testemunhas / junção de documentos / outras]",
+    "motivo": "Não existe audiência oral no procedimento disciplinar do CT",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0358&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Se a nota de culpa não visar o despedimento, adaptar a defesa ao regime das sanções conservatórias (audiência prévia, art. 329.º, n.º 6, CT).",
+   "Confirmar no IRCT ou no regulamento interno eventuais regras adicionais de procedimento e de audição do trabalhador.",
+   "Se a decisão for o despedimento, controlar o prazo de 60 dias para a oposição judicial (art. 387.º, n.º 2, CT)."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0328&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0353&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0358&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0387&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0410&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+  ]
+ }
+]

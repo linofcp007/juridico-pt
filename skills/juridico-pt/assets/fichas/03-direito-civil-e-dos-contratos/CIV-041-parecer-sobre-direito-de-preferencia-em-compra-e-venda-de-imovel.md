@@ -6,7 +6,8 @@ titulo_en: "Opinion on Preemption Rights in the Sale of Real Estate (Co-Owner an
 descricao: "Analisa e fundamenta o direito de preferência legal do comproprietário (art. 1409.º CC) e do arrendatário (art. 1091.º CC) numa alienação de imóvel, incluindo a cadeia de notificações obrigatórias, prazos de exercício e consequências do incumprimento (ação de preferência). Apoia-se ainda na distinção entre preferência real (oponível a terceiros) e preferência obrigacional."
 descricao_en: "Analyses and substantiates the statutory preemption right of the co-owner (Article 1409 CC) and of the tenant (Article 1091 CC) in a sale of real estate, including the chain of mandatory notices, the time limits for exercise and the consequences of non-compliance (preemption action). Also draws on the distinction between real preemption rights (enforceable against third parties) and contractual preemption rights."
 ambito: nacional
-estado_citacoes: "conferidas 18 · corrigidas 1 · por conferir 0"
+estado_citacoes: "conferidas 25 · corrigidas 1 · por conferir 0"
+revisao_tecnica: "2026-10-28 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
@@ -14,7 +15,8 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 
 > **Âmbito:** nacional · **Área:** Direito Civil e dos Contratos · **Código:** CIV-041
 > **EN:** Opinion on Preemption Rights in the Sale of Real Estate (Co-Owner and Tenant). Analyses and substantiates the statutory preemption right of the co-owner (Article 1409 CC) and of the tenant (Article 1091 CC) in a sale of real estate, including the chain of mandatory notices, the time limits for exercise and the consequences of non-compliance (preemption action). Also draws on the distinction between real preemption rights (enforceable against third parties) and contractual preemption rights.
-> **Citações:** conferidas 18 · corrigidas 1 · por conferir 0. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 25 · corrigidas 1 · por conferir 0. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-28 — corrigida (6 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
 Analisa e fundamenta o direito de preferência legal do comproprietário (art. 1409.º CC) e do arrendatário (art. 1091.º CC) numa alienação de imóvel, incluindo a cadeia de notificações obrigatórias, prazos de exercício e consequências do incumprimento (ação de preferência). Apoia-se ainda na distinção entre preferência real (oponível a terceiros) e preferência obrigacional.
 
@@ -32,7 +34,7 @@ Ficha de trabalho para preparar este documento. As regras da casa prevalecem sob
 ### ETAPA 1 — PROBLEMATIZAÇÃO
 Apresenta em <analise_da_situacao>:
 - Tipo de preferência em jogo: comproprietário (art. 1409.º CC), arrendatário habitacional (art. 1091.º CC), arrendatário não habitacional (art. 1091.º CC)
-- Ato de alienação: venda, dação em pagamento, permuta (atos sujeitos) vs. doação, herança (atos excluídos)
+- Ato de alienação: compra e venda ou dação em cumprimento (únicos atos sujeitos à preferência legal — art. 1409.º, n.º 1, CC, só na alienação da quota a estranhos, e art. 1091.º, n.º 1, al. a), CC, só se o local estiver arrendado há mais de dois anos) vs. permuta, doação e sucessão por morte (atos excluídos); na preferência convencional, outros contratos só se o pacto os abranger e forem compatíveis com a preferência (art. 423.º CC)
 - Situação atual: notificação já recebida ou alienação já feita sem notificação
 - Viabilidade da ação de preferência: prazo de 6 meses (art. 1410.º, n.º 1, CC) e pressupostos
 
@@ -43,7 +45,8 @@ Apresenta em <fundamentos_juridicos>:
 - Art. 1410.º CC: ação de preferência (prazo de 6 meses + depósito do preço)
 - Art. 414.º a 421.º CC: pacto de preferência (se convencional)
 - Art. 416.º CC: obrigação de notificação com preço e condições
-- Art. 1091.º, n.º 3, CC: prazo de preferência do arrendatário (30 dias após notificação)
+- Art. 1091.º, n.º 4, CC: comunicação por carta registada com aviso de receção; prazo de resposta do arrendatário de 30 dias a contar da receção
+- Art. 1091.º, n.º 5, CC: aplicação ao arrendatário, com as necessárias adaptações, dos arts. 416.º a 418.º e 1410.º CC (ação de preferência)
 
 ### ETAPA 3 — ESTRUTURA DO PARECER
 Define em <estrutura_parecer>:
@@ -66,18 +69,18 @@ Define em <estrutura_parecer>:
 **II — FUNDAMENTO DO DIREITO DE PREFERÊNCIA**
 
 **2.1 — Qualidade do Preferente**
-O consulente é [comproprietário / arrendatário], tendo adquirido essa qualidade em [DATA] por [título]. Nos termos do art. [1409.º / 1091.º] do Código Civil, é-lhe reconhecido o direito de preferência nas alienações a título oneroso [da quota / do imóvel arrendado].
+O consulente é [comproprietário / arrendatário], tendo adquirido essa qualidade em [DATA] por [título]. Nos termos do art. [1409.º / 1091.º] do Código Civil, é-lhe reconhecido o direito de preferência na venda ou dação em cumprimento [da quota a estranhos / do local arrendado há mais de dois anos].
 
 **2.2 — Ato de Alienação**
-O ato praticado — [compra e venda / dação em pagamento] — é suscetível de fundar o exercício do direito de preferência, por se tratar de alienação a título oneroso nos termos do art. [1091.º, n.º 1 / 1409.º, n.º 1] CC.
+O ato praticado — [compra e venda / dação em cumprimento] — é suscetível de fundar o exercício do direito de preferência, por se tratar de venda ou dação em cumprimento nos termos do art. [1091.º, n.º 1 / 1409.º, n.º 1] CC.
 
 **2.3 — Notificação**
-[A) Se houve notificação:] O obrigado à preferência procedeu à notificação nos termos do art. 416.º, n.º 1, CC, em [DATA]. O prazo para exercício da preferência é de [8 dias — art. 416.º, n.º 2, CC / 30 dias — art. 1091.º, n.º 3, CC]. O prazo [termina em / terminou em] [DATA]. Recomenda-se [aceitar / responder] até essa data.
+[A) Se houve notificação:] O obrigado à preferência procedeu à notificação nos termos do art. 416.º, n.º 1, CC, em [DATA]. O prazo para exercício da preferência é de [8 dias — art. 416.º, n.º 2, CC, aplicável ao comproprietário por força do art. 1409.º, n.º 2, CC / 30 dias a contar da receção da carta registada com aviso de receção — art. 1091.º, n.º 4, CC]. O prazo [termina em / terminou em] [DATA]. Recomenda-se [aceitar / responder] até essa data.
 [B) Se não houve notificação:] O obrigado à preferência alienou o imóvel sem prévia notificação, em violação do art. 416.º CC. Tal facto legitima a propositura de ação de preferência.
 
 **III — AÇÃO DE PREFERÊNCIA**
 
-Nos termos do art. 1410.º, n.º 1, CC, a ação de preferência deve ser intentada no prazo de **6 meses** a contar do conhecimento dos elementos essenciais da alienação (preço, identidade do adquirente, data da celebração). O prazo para intentar ação expira em [DATA]. Para o exercício judicial da preferência, o consulente deve depositar o preço e os encargos suportados pelo comprador no prazo de 15 dias após a propositura da ação (art. 1410.º, n.º 2, CC).
+Nos termos do art. 1410.º, n.º 1, CC, a ação de preferência deve ser intentada no prazo de **6 meses** a contar do conhecimento dos elementos essenciais da alienação (preço, identidade do adquirente, data da celebração). O prazo para intentar ação expira em [DATA]. Para o exercício judicial da preferência, o consulente deve depositar o preço devido nos 15 dias seguintes à propositura da ação (art. 1410.º, n.º 1, CC; quanto ao arrendatário, por remissão do art. 1091.º, n.º 5, CC) [■ VERIFICAR: se o depósito deve abranger também as despesas da escritura, do registo e o IMT suportados pelo adquirente — a lei refere apenas o «preço devido»].
 
 **IV — CONCLUSÃO E RECOMENDAÇÃO**
 [Recomendação concreta: exercer preferência extrajudicialmente / intentar ação / não exercer com fundamento em ___]
@@ -112,6 +115,10 @@ Nos termos do art. 1410.º, n.º 1, CC, a ação de preferência deve ser intent
 | art. 1409.º CC | conferida (epígrafe) — Direito de preferência |  |
 | art. 1091.º CC | corrigida — Regra geral | o número citado no catálogo não correspondia à epígrafe |
 | art. 1091.º CC | conferida (índice) |  |
+| art. 1409.º, n.º 1, CC | conferida (epígrafe) — Direito de preferência |  |
+| art. 1091.º, n.º 1, al. a), CC | conferida (índice) |  |
+| art. 423.º CC | conferida (epígrafe) — Extensão das disposições anteriores a outros contratos |  |
+| art. 1410.º, n.º 1, CC | conferida (epígrafe) — Ação de preferência |  |
 | art. 1410.º, n.º 1, CC | conferida (epígrafe) — Ação de preferência |  |
 | art. 1410.º, n.º 1, CC | conferida (epígrafe) — Ação de preferência |  |
 | Art. 1091.º CC | conferida (índice) |  |
@@ -119,11 +126,14 @@ Nos termos do art. 1410.º, n.º 1, CC, a ação de preferência deve ser intent
 | Art. 1410.º CC | conferida (epígrafe) — Ação de preferência |  |
 | Art. 414.º a 421.º CC | conferida (epígrafe) — Noção |  |
 | Art. 416.º CC | conferida (epígrafe) — Conhecimento do preferente |  |
-| Art. 1091.º, n.º 3, CC | conferida (índice) |  |
+| Art. 1091.º, n.º 4, CC | conferida (índice) |  |
+| Art. 1091.º, n.º 5, CC | conferida (índice) |  |
+| arts. 416.º a 418.º e 1410.º CC | conferida (epígrafe) — Conhecimento do preferente |  |
 | art. 416.º, n.º 1, CC | conferida (epígrafe) — Conhecimento do preferente |  |
 | art. 416.º, n.º 2, CC | conferida (epígrafe) — Conhecimento do preferente |  |
-| art. 1091.º, n.º 3, CC | conferida (índice) |  |
+| art. 1409.º, n.º 2, CC | conferida (epígrafe) — Direito de preferência |  |
+| art. 1091.º, n.º 4, CC | conferida (índice) |  |
 | art. 416.º CC | conferida (epígrafe) — Conhecimento do preferente |  |
 | art. 416.º CC | conferida (epígrafe) — Conhecimento do preferente |  |
-| art. 1410.º, n.º 2, CC | conferida (epígrafe) — Ação de preferência |  |
+| art. 1091.º, n.º 5, CC | conferida (índice) |  |
 | art. 1410.º CC | conferida (epígrafe) — Ação de preferência |  |

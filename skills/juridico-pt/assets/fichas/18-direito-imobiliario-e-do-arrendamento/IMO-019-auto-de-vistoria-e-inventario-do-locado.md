@@ -6,7 +6,8 @@ titulo_en: "Inspection Report and Inventory of the Leased Property"
 descricao: "Redige um auto de vistoria e inventário do estado de conservação do locado para ser assinado na entrega das chaves (início e fim do arrendamento), descrevendo o estado de cada divisão, equipamentos, mobiliário existente e eventuais anomalias, de forma a prevenir litígios sobre danos no final do contrato."
 descricao_en: "Drafts an inspection report and inventory of the condition of the leased property to be signed on handover of the keys (at the start and end of the lease), describing the condition of each room, equipment, existing furniture and any defects, so as to prevent disputes about damage at the end of the contract."
 ambito: nacional
-estado_citacoes: "conferidas 4 · corrigidas 0 · por conferir 0"
+estado_citacoes: "conferidas 5 · corrigidas 0 · por conferir 1"
+revisao_tecnica: "2026-10-28 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
@@ -14,7 +15,8 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 
 > **Âmbito:** nacional · **Área:** Direito Imobiliário e do Arrendamento · **Código:** IMO-019
 > **EN:** Inspection Report and Inventory of the Leased Property. Drafts an inspection report and inventory of the condition of the leased property to be signed on handover of the keys (at the start and end of the lease), describing the condition of each room, equipment, existing furniture and any defects, so as to prevent disputes about damage at the end of the contract.
-> **Citações:** conferidas 4 · corrigidas 0 · por conferir 0. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 5 · corrigidas 0 · por conferir 1. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-28 — corrigida (1 correção com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
 Redige um auto de vistoria e inventário do estado de conservação do locado para ser assinado na entrega das chaves (início e fim do arrendamento), descrevendo o estado de cada divisão, equipamentos, mobiliário existente e eventuais anomalias, de forma a prevenir litígios sobre danos no final do contrato.
 
@@ -46,10 +48,9 @@ Apresenta dentro de um bloco <analise_do_caso>:
 ### ETAPA 2 — ANÁLISE JURÍDICA (Fundamentação)
 Apresenta dentro de um bloco <fundamentos_juridicos>:
 - Art. 1043.º CC (obrigação de restituição do locado no estado em que foi recebido)
-- Art. 1074.º CC (obras de conservação ordinária — obrigação do arrendatário)
-- Art. 1074.º, n.º 1 CC (obras de conservação estruturais — obrigação do senhorio)
-- Art. 1038.º, al. d) CC (não fazer obras sem autorização)
-- Relevância probatória do auto de vistoria em caso de litigância (princípio da prova documental)
+- Art. 1074.º CC (obras): cabem ao senhorio todas as obras de conservação, ordinárias ou extraordinárias, requeridas pelas leis vigentes ou pelo fim do contrato, salvo estipulação em contrário (n.º 1); o arrendatário só pode fazer obras quando o contrato o faculte ou com autorização escrita do senhorio (n.º 2), ressalvadas as reparações urgentes do art. 1036.º (n.º 3); compensação pelas obras licitamente feitas, salvo estipulação em contrário (n.º 5)
+- Art. 1038.º, al. d) CC (não fazer da coisa uma utilização imprudente) e art. 1073.º CC (pequenas deteriorações lícitas, a reparar pelo arrendatário antes da restituição, salvo estipulação em contrário)
+- Art. 1043.º, n.º 2, CC (relevância probatória do auto: não havendo documento em que as partes descrevam o estado do locado à data da entrega, presume-se que foi entregue em bom estado de manutenção)
 
 ### ETAPA 3 — CONSTRUÇÃO (Estrutura do Auto)
 Define em <estrutura>:
@@ -179,5 +180,7 @@ Apresenta dentro de um bloco <checklist_validacao>:
 |---|---|---|
 | Art. 1043.º CC | conferida (índice) |  |
 | Art. 1074.º CC | conferida (índice) |  |
-| Art. 1074.º, n.º 1 CC | conferida (índice) |  |
+| art. 1036.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | Art. 1038.º, al. d) CC | conferida (epígrafe) — Enumeração |  |
+| art. 1073.º CC | conferida (índice) |  |
+| Art. 1043.º, n.º 2, CC | conferida (índice) |  |

@@ -1,0 +1,300 @@
+[
+ {
+  "codigo": "AMB-027",
+  "veredicto": "corrigida",
+  "resumo": "A ficha citava artigos do RGGR que não correspondem ao licenciamento (arts. 23.º a 33.º e uma «caução ambiental» no art. 46.º, que trata dos resíduos das habitações), dava o DL 73/2011 (revogado) como regime dos REEE, um «DL 56/2023» sobre embalagens que não se encontrou, a Portaria 209/2004 como fonte da LER e o «alvará de utilização», extinto no RJUE. Corrigiram-se o enquadramento (arts. 59.º a 77.º RGGR, procedimento geral ou simplificado, pedido no módulo LUA do SILiAmb), a entidade licenciadora (art. 60.º), o seguro obrigatório (art. 67.º) e as garantias financeiras aplicáveis, a legislação dos fluxos (UNILEX e Regulamento (UE) 2025/40) e o título de utilização (arts. 62.º-A e 62.º-B RJUE). A referência ao SIRER estava certa e manteve-se, com a base legal.",
+  "descricao": "Elabora o pedido de licenciamento de uma atividade de tratamento de resíduos (valorização ou eliminação, incluindo armazenagem e triagem), ao abrigo do Regime Geral da Gestão de Resíduos (RGGR), aprovado pelo anexo I ao Decreto-Lei n.º 102-D/2020, de 10 de dezembro, que revogou o Decreto-Lei n.º 178/2006, incluindo a identificação dos códigos LER, das operações D/R, da entidade licenciadora e do seguro de responsabilidade civil obrigatório.",
+  "descricao_en": "Drafts the application for the licensing of a waste treatment activity (recovery or disposal, including storage and sorting), under the General Waste Management Regime (RGGR), approved by Annex I to Decree-Law No. 102-D/2020 of 10 December, which repealed Decree-Law No. 178/2006, including identification of the LER (European Waste List) codes, the D/R operations, the licensing authority and the mandatory civil liability insurance.",
+  "substituicoes": [
+   {
+    "de": "— NUNCA inventes códigos LER que não constam da Lista Europeia de Resíduos (Portaria n.º 209/2004, de 3 de março).",
+    "para": "— NUNCA inventes códigos LER que não constam da Lista Europeia de Resíduos (anexo à Decisão 2000/532/CE, na redação da Decisão 2014/955/UE, aplicável desde 1 de junho de 2015 — art. 57.º, n.º 2, RGGR).",
+    "motivo": "A LER em vigor é o anexo da Decisão 2000/532/CE substituído pela Decisão 2014/955/UE; a Portaria 209/2004 reproduz a lista anterior.",
+    "fonte": "https://publications.europa.eu/resource/celex/32014D0955"
+   },
+   {
+    "de": "- Determinar a entidade licenciadora competente (APA para resíduos perigosos; CCDR para não perigosos de âmbito regional)\n- Verificar se a atividade está sujeita a licença, comunicação prévia ou registo",
+    "para": "- Determinar a entidade licenciadora competente (art. 60.º RGGR: a APA, I. P., enquanto ANR, nas atividades dos n.os 9 e 10 do anexo I ao RJAIA e na valorização energética de resíduos não perigosos; a CCDR, enquanto ARR, nos restantes casos; nos estabelecimentos licenciados por outro regime, a entidade coordenadora desse regime, com parecer vinculativo da entidade licenciadora — art. 59.º, n.os 4 e 5, RGGR)\n- Verificar se a operação de tratamento segue o licenciamento geral ou o simplificado (art. 61.º RGGR) ou se está isenta por regras gerais (arts. 59.º, n.º 6, e 66.º RGGR); a recolha e o transporte não constituem, em si, tratamento (art. 3.º RGGR), mas exigem inscrição no SIRER e e-GAR (arts. 38.º e 97.º RGGR) [■ VERIFICAR: regras aplicáveis aos centros de recolha — art. 35.º RGGR]",
+    "motivo": "O critério de competência do RGGR não é a perigosidade do resíduo; só o tratamento está sujeito a licenciamento, por procedimento geral ou simplificado.",
+    "fonte": "https://www.madeira.gov.pt//Portals/19/Documentos/Legislacao/DL_102-D_2020_RG_Gest%C3%A3o_Res%C3%ADduos.pdf"
+   },
+   {
+    "de": "- Arts. 23.º a 33.º RGGR: procedimento de licenciamento, documentação exigida\n- Art. 46.º RGGR: caução ambiental (valor, forma, beneficiário)\n- Operações de valorização (R1-R13) e eliminação (D1-D15) do Anexo I e II do RGGR",
+    "para": "- Arts. 59.º a 77.º RGGR: sujeição a licenciamento, entidades licenciadoras, procedimento geral (arts. 69.º a 74.º) e simplificado (arts. 75.º e 76.º), documentação exigida\n- Art. 67.º RGGR: seguro obrigatório de responsabilidade civil extracontratual, cuja apólice se apresenta antes da decisão final (art. 62.º, n.º 2, RGGR) [■ VERIFICAR: portaria que fixa as condições do seguro]; não há caução geral no licenciamento — há garantia financeira na deposição em aterro (art. 20.º do regime jurídico da deposição de resíduos em aterro, anexo II ao DL 102-D/2020) e, nas operações de gestão de resíduos do anexo III do DL 147/2008, a garantia financeira obrigatória do art. 22.º desse diploma\n- Operações de eliminação (D1-D15, anexo I do RGGR) e de valorização (R1-R13, anexo II do RGGR)",
+    "motivo": "Os arts. 23.º a 33.º e 46.º RGGR tratam de prevenção, instrumentos voluntários e resíduos urbanos; o licenciamento está nos arts. 59.º a 77.º e não existe «caução ambiental» geral; o anexo I é o da eliminação e o II o da valorização.",
+    "fonte": "https://www.madeira.gov.pt//Portals/19/Documentos/Legislacao/DL_102-D_2020_RG_Gest%C3%A3o_Res%C3%ADduos.pdf"
+   },
+   {
+    "de": "- Legislação setorial aplicável (p. ex., DL 73/2011 para REEE; DL 56/2023 para embalagens)\n- Registo no SIRER (Sistema Integrado de Registo Eletrónico de Resíduos)",
+    "para": "- Legislação setorial aplicável (p. ex., DL 152-D/2017 — UNILEX — para os fluxos específicos, incluindo REEE e embalagens; quanto às embalagens, também o Regulamento (UE) 2025/40, aplicável desde 12 de agosto de 2026)\n- Inscrição no SIRER (Sistema Integrado de Registo Eletrónico de Resíduos), obrigatória para quem se pretenda licenciar como operador de tratamento (arts. 94.º e 97.º, n.º 2, al. d), RGGR)",
+    "motivo": "O DL 73/2011 foi revogado (art. 17.º, al. f), do DL 102-D/2020) e os REEE e as embalagens regem-se pelo UNILEX; não se encontrou um DL 56/2023 sobre embalagens; o Regulamento (UE) 2025/40 aplica-se desde 12/8/2026.",
+    "fonte": "https://www.madeira.gov.pt//Portals/19/Documentos/Legislacao/DL_102-D_2020_RG_Gest%C3%A3o_Res%C3%ADduos.pdf"
+   },
+   {
+    "de": "- Condições prévias a verificar (alvará de utilização, seguro ambiental)\n- Prazo de decisão da entidade licenciadora",
+    "para": "- Condições prévias a verificar (título de utilização do edifício para a atividade — comunicação prévia de utilização, arts. 62.º-A e 62.º-B RJUE —, exigido para a licença de exploração pelo art. 83.º, n.º 3, al. b), RGGR; seguro de responsabilidade civil do art. 67.º RGGR)\n- Forma do pedido (formulário no módulo LUA do SILiAmb — art. 61.º, n.º 1, RGGR) e prazo de decisão da entidade licenciadora (no procedimento geral, 50 dias para a decisão sobre o projeto — art. 71.º, n.º 2, RGGR)",
+    "motivo": "O alvará de utilização deixou de existir no RJUE (art. 74.º revogado; utilização por comunicação prévia); o pedido é apresentado de forma desmaterializada no módulo LUA.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=625&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "vem requerer a emissão de licença de operação de gestão de resíduos, nos termos dos arts. 23.º e seguintes do Decreto-Lei n.º 102-D/2020, de 10 de dezembro,",
+    "para": "vem requerer o licenciamento da atividade de tratamento de resíduos, nos termos dos arts. 59.º e seguintes do Regime Geral da Gestão de Resíduos (RGGR), aprovado pelo anexo I ao Decreto-Lei n.º 102-D/2020, de 10 de dezembro, em procedimento [geral / simplificado],",
+    "motivo": "O licenciamento rege-se pelos arts. 59.º e seguintes do RGGR (anexo I ao DL 102-D/2020), e não pelos arts. 23.º e seguintes do decreto-lei.",
+    "fonte": "https://www.madeira.gov.pt//Portals/19/Documentos/Legislacao/DL_102-D_2020_RG_Gest%C3%A3o_Res%C3%ADduos.pdf"
+   },
+   {
+    "de": "**VI — CAUÇÃO AMBIENTAL**\n[Valor proposto nos termos do art. 46.º RGGR | modalidade (seguro/garantia bancária/depósito)]",
+    "para": "**VI — SEGURO E GARANTIAS**\n[Apólice do seguro de responsabilidade civil extracontratual (art. 67.º RGGR) | garantia financeira, se aplicável (deposição em aterro; art. 22.º do DL 147/2008)]",
+    "motivo": "O RGGR não prevê caução ambiental no licenciamento; exige seguro de responsabilidade civil e, em certos casos, garantia financeira.",
+    "fonte": "https://www.madeira.gov.pt//Portals/19/Documentos/Legislacao/DL_102-D_2020_RG_Gest%C3%A3o_Res%C3%ADduos.pdf"
+   },
+   {
+    "de": "- [ ] Caução ambiental calculada",
+    "para": "- [ ] Seguro de responsabilidade civil (art. 67.º RGGR) e garantias financeiras aplicáveis verificados",
+    "motivo": "Não existe caução ambiental geral no RGGR.",
+    "fonte": "https://www.madeira.gov.pt//Portals/19/Documentos/Legislacao/DL_102-D_2020_RG_Gest%C3%A3o_Res%C3%ADduos.pdf"
+   },
+   {
+    "de": "- [ ] Alvará de utilização da instalação obtido",
+    "para": "- [ ] Título de utilização do edifício (arts. 62.º-A e 62.º-B RJUE) obtido",
+    "motivo": "O alvará de utilização foi suprimido; a utilização titula-se por comunicação prévia.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=625&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar na versão consolidada do DRE que os arts. 59.º a 77.º do RGGR não foram alterados depois do DL 24/2024 (o DL 81/2025 alterou outros artigos).",
+   "Confirmar se já foi publicada a portaria do art. 67.º, n.º 1, RGGR (condições do seguro de responsabilidade civil).",
+   "Confirmar o teor dos n.os 9 e 10 do anexo I ao RJAIA para decidir entre APA e CCDR no caso concreto.",
+   "O art. 75.º, n.º 1, al. e), e o art. 83.º, n.º 3, al. b), do RGGR ainda falam em licença ou autorização de utilização; confirmar com a entidade licenciadora que aceita o comprovativo da comunicação prévia de utilização do RJUE."
+  ],
+  "fontes": [
+   "https://www.madeira.gov.pt//Portals/19/Documentos/Legislacao/DL_102-D_2020_RG_Gest%C3%A3o_Res%C3%ADduos.pdf",
+   "https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2025-918999081",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=625&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://publications.europa.eu/resource/celex/32014D0955",
+   "https://publications.europa.eu/resource/celex/32025R0040",
+   "https://apambiente.pt/sites/default/files/_Avaliacao_Gestao_Ambiental/Responsabilidade_ambiental/FAQ_RA_Versao_2022_02.pdf",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=625A0062&nid=625&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.cuatrecasas.com/pt/global/publico-1/art/alteracoes-ao-regime-geral-da-gestao-de-residuos-1"
+  ]
+ },
+ {
+  "codigo": "AMB-028",
+  "veredicto": "corrigida",
+  "resumo": "A ficha atribuía ao RRA artigos errados (solidariedade no art. 20.º, prevenção e reparação nos arts. 10.º e 11.º), fundava o poluidor-pagador e o solo nos arts. 15.º e 16.º da LBA (informação e planeamento), chamava «licenciamento ambiental» ao RJAIA e dava o DL 276/2009 (lamas de depuração) como regime de remediação do solo. Corrigiram-se as normas (arts. 3.º, 4.º, 7.º, 12.º a 15.º e 35.º RRA; art. 3.º, al. d), e art. 10.º, al. e), LBA), indicaram-se os títulos ambientais corretos e a remediação de solos do RGGR (art. 77.º), e substituiu-se a «transmissão da responsabilidade» pela análise da posição do adquirente, que o RRA não regula.",
+  "descricao": "Elabora parecer jurídico sobre a existência de passivo ambiental (contaminação de solos e águas subterrâneas) num imóvel industrial objeto de transação, ao abrigo do Decreto-Lei n.º 147/2008, de 29 de julho (responsabilidade ambiental), da LBA (Lei n.º 19/2014, de 14 de abril) e das normas do Regime Geral da Gestão de Resíduos sobre remediação de solos (Decreto-Lei n.º 102-D/2020), analisando a alocação de responsabilidade entre vendedor e comprador e as cláusulas contratuais de proteção recomendadas.",
+  "descricao_en": "Drafts a legal opinion on the existence of environmental liabilities (soil and groundwater contamination) at an industrial property being transacted, under Decree-Law No. 147/2008 of 29 July (environmental liability), the LBA (Law No. 19/2014 of 14 April) and the soil remediation rules of the General Waste Management Regime (Decree-Law No. 102-D/2020), analysing the allocation of liability between seller and buyer and the recommended contractual protection clauses.",
+  "substituicoes": [
+   {
+    "de": "— Cita artigos reais do RRA, da LBA e do regime de solos contaminados.",
+    "para": "— Cita artigos reais do RRA, da LBA e das normas do RGGR sobre remediação de solos; não está publicado um regime geral de solos contaminados [■ VERIFICAR: publicação posterior de regime próprio de prevenção da contaminação e remediação dos solos].",
+    "motivo": "Não há regime geral de solos contaminados em vigor; a remediação de solos está regulada no RGGR (arts. 59.º, n.º 2, e 77.º).",
+    "fonte": "https://www.madeira.gov.pt//Portals/19/Documentos/Legislacao/DL_102-D_2020_RG_Gest%C3%A3o_Res%C3%ADduos.pdf"
+   },
+   {
+    "de": "- RRA (DL 147/2008): responsabilidade do operador (art. 7.º), responsabilidade solidária (art. 20.º), obrigação de prevenção e reparação (arts. 10.º e 11.º)\n- LBA (Lei 19/2014): princípio do poluidor-pagador (art. 15.º), proteção do solo (arts. 15.º e 16.º)\n- Transmissão da responsabilidade ambiental na alienação do imóvel: análise do art. 20.º RRA e jurisprudência relevante",
+    "para": "- RRA (DL 147/2008): responsabilidade civil objetiva de quem exerce atividade do anexo III (art. 7.º) e responsabilidade subjetiva (art. 8.º); responsabilidade do operador pela prevenção e reparação do dano ambiental (arts. 12.º a 15.º); responsabilidade solidária dos administradores e da sociedade dominante (art. 3.º) e dos comparticipantes (art. 4.º); exclusão da obrigação de pagamento dos custos (art. 20.º); aplicação no tempo — o regime de prevenção e reparação não se aplica a danos causados por emissões, acontecimentos ou incidentes anteriores a 1 de agosto de 2008 (art. 35.º)\n- LBA (Lei 19/2014): princípio do poluidor-pagador (art. 3.º, al. d)), gestão do solo e do subsolo, incluindo a prevenção da contaminação e a recuperação (art. 10.º, al. e))\n- Alienação do imóvel: o RRA imputa a prevenção e a reparação ao operador que causou o dano ou a ameaça (arts. 12.º e 13.º; noção de operador no art. 11.º, n.º 1, al. l)) e não prevê a transmissão dessa responsabilidade com o imóvel; a jurisprudência só se cita com acórdão confirmado [■ VERIFICAR: jurisprudência sobre a posição do adquirente]",
+    "motivo": "O art. 20.º RRA trata da exclusão da obrigação de pagamento e os arts. 10.º e 11.º da dupla reparação e das definições; a solidariedade está nos arts. 3.º e 4.º e a prevenção e reparação nos arts. 12.º a 15.º; os arts. 15.º e 16.º LBA tratam da informação e do planeamento; o RRA não regula a transmissão com o imóvel e não se aplica a danos anteriores a 1/8/2008.",
+    "fonte": "https://diariodarepublica.pt/redirect/LinkFicheiroAntigo.aspx?conteudoId=454822"
+   },
+   {
+    "de": "- Regime do Licenciamento Ambiental (RJAIA, DL 151-B/2013): histórico de licenças do imóvel\n- Obrigações de reabilitação do solo (DL 276/2009, art. 6.º)",
+    "para": "- Histórico de títulos ambientais do imóvel e da atividade: licença ambiental (regime de emissões industriais, DL 127/2013), TUA (LUA, DL 75/2015), licenças de gestão de resíduos e, se houve, declaração de impacte ambiental (RJAIA, DL 151-B/2013)\n- Remediação de solos: operação sujeita a licenciamento simplificado pela CCDR (arts. 59.º, n.º 2, 60.º, n.º 1, al. b), 61.º, n.º 3, e 77.º RGGR), com os valores de referência e os critérios de aceitabilidade do risco divulgados pela APA (art. 77.º, n.os 4 e 5, RGGR), salvo se houver dano ambiental na aceção do RRA (art. 77.º, n.º 6, RGGR); o DL 276/2009 respeita à utilização de lamas de depuração em solos agrícolas e não é regime de remediação",
+    "motivo": "O RJAIA é o regime da avaliação de impacte ambiental, não do licenciamento ambiental; o DL 276/2009 regula as lamas de depuração em solos agrícolas; a remediação de solos está no RGGR.",
+    "fonte": "https://www.madeira.gov.pt//Portals/19/Documentos/Legislacao/DL_102-D_2020_RG_Gest%C3%A3o_Res%C3%ADduos.pdf"
+   },
+   {
+    "de": "[análise do art. 7.º RRA: operador responsável; transmissão; responsabilidade solidária]",
+    "para": "[análise dos arts. 7.º, 12.º e 13.º RRA: operador responsável; aplicação no tempo (art. 35.º); posição do adquirente; responsabilidade solidária (arts. 3.º e 4.º)]",
+    "motivo": "O RRA não prevê transmissão da responsabilidade; a solidariedade está nos arts. 3.º e 4.º e a aplicação no tempo no art. 35.º.",
+    "fonte": "https://diariodarepublica.pt/redirect/LinkFicheiroAntigo.aspx?conteudoId=454822"
+   },
+   {
+    "de": "- [ ] Art. 7.º RRA analisado (responsabilidade do operador)",
+    "para": "- [ ] Arts. 7.º, 12.º, 13.º e 35.º RRA analisados (responsabilidade do operador e aplicação no tempo)",
+    "motivo": "A responsabilidade do operador pela prevenção e reparação está nos arts. 12.º e 13.º e a aplicação no tempo no art. 35.º.",
+    "fonte": "https://apambiente.pt/sites/default/files/_Avaliacao_Gestao_Ambiental/Responsabilidade_ambiental/FAQ_RA_Versao_2022_02.pdf"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar na versão consolidada do DRE a redação atual dos arts. 3.º, 4.º, 12.º a 15.º, 20.º, 33.º e 35.º do DL 147/2008 (alterado pelos DL 245/2009, 29-A/2011, 60/2012 e 13/2016).",
+   "A contaminação histórica (anterior a 1/8/2008) fica fora do regime de prevenção e reparação do RRA (art. 35.º); avaliar a responsabilidade civil geral e a garantia por defeitos (arts. 913.º e ss. CC), incluindo os prazos de denúncia e de caducidade.",
+   "Confirmar se, entretanto, foi publicado regime geral de solos contaminados (projeto ProSolos) ou transposta legislação da UE sobre monitorização dos solos.",
+   "Se o comprador prosseguir a atividade no local, passa a ser operador quanto aos danos que ele próprio cause; ponderar a transmissão das licenças (p. ex., art. 80.º RGGR) e o registo do estado inicial do solo."
+  ],
+  "fontes": [
+   "https://diariodarepublica.pt/redirect/LinkFicheiroAntigo.aspx?conteudoId=454822",
+   "https://apambiente.pt/sites/default/files/_Avaliacao_Gestao_Ambiental/Responsabilidade_ambiental/FAQ_RA_Versao_2022_02.pdf",
+   "https://www.ccdr-lvt.pt/wp-content/uploads/2022/03/lei_19_2014.pdf",
+   "https://www.madeira.gov.pt//Portals/19/Documentos/Legislacao/DL_102-D_2020_RG_Gest%C3%A3o_Res%C3%ADduos.pdf",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2328A0001&nid=2328&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+  ]
+ },
+ {
+  "codigo": "AMB-030",
+  "veredicto": "corrigida",
+  "resumo": "A ficha chamava «RJAERE» ao DL 15/2022 e atribuía-lhe artigos que não tratam do que dizia (o art. 24.º é o pedido de licença de produção, o 26.º a consulta ao operador da rede e o 41.º a salvaguarda de regimes setoriais), dava o DL 162/2019 como em vigor (foi revogado pelo art. 305.º, al. n), do DL 15/2022) e inventava um sistema «GVO — Garantias de Valor de Origem». Corrigiram-se o enquadramento (art. 3.º, art. 11.º, art. 12.º, art. 17.º, n.º 1, e arts. 174.º a 178.º e 294.º do DL 15/2022), as garantias de origem (GO, emitidas pela EEGO), o título do produtor (título de controlo prévio, e não só licença de produção), a resolução (arts. 801.º, n.º 2, e 808.º CC) e o foro, que remetia para um «TAL» não identificado.",
+  "descricao": "Elabora minuta de contrato de compra e venda de energia elétrica (Power Purchase Agreement — PPA) entre produtor solar fotovoltaico e consumidor (empresa), ao abrigo do Decreto-Lei n.º 15/2022, de 14 de janeiro (organização e funcionamento do Sistema Elétrico Nacional, que integra também o autoconsumo), e da regulação da ERSE, com fixação do preço, prazo, ponto de entrega, transferência das garantias de origem e cláusulas de força maior e resolução.",
+  "descricao_en": "Drafts a template power purchase agreement (PPA) between a solar photovoltaic producer and a consumer (company), under Decree-Law No. 15/2022 of 14 January (organisation and operation of the National Electricity System, which also governs self-consumption) and ERSE regulation, setting the price, term, delivery point, transfer of guarantees of origin and force majeure and termination clauses.",
+  "substituicoes": [
+   {
+    "de": "— Cita artigos reais do RJAERE, RESP, regulamentos da ERSE e diplomas aplicáveis.",
+    "para": "— Cita artigos reais do DL 15/2022 (na redação atual), dos regulamentos da ERSE e dos diplomas aplicáveis.",
+    "motivo": "«RJAERE» não é a designação do DL 15/2022 e a RESP é a rede elétrica de serviço público, não um diploma.",
+    "fonte": "https://diariodarepublica.pt/redirect/LinkFicheiroAntigo.aspx?conteudoId=177634016"
+   },
+   {
+    "de": "- Verificar se o produtor tem licença de produção ao abrigo do RJAERE",
+    "para": "- Verificar o título de controlo prévio do centro eletroprodutor ou da UPAC (licença de produção e de exploração, registo prévio e certificado de exploração ou comunicação prévia, conforme a potência — art. 11.º DL 15/2022), emitido pela DGEG (art. 12.º DL 15/2022)",
+    "motivo": "Consoante a potência, a produção está sujeita a licença, a registo prévio ou a comunicação prévia, todos atribuídos pela DGEG.",
+    "fonte": "https://diariodarepublica.pt/redirect/LinkFicheiroAntigo.aspx?conteudoId=177634016"
+   },
+   {
+    "de": "- RJAERE (DL 15/2022): produção para autoconsumo (art. 24.º), PPA corporativo (art. 26.º), garantias de origem (art. 41.º)\n- DL 162/2019 (autoconsumo): unidades de produção, comunidades de energia (mantido em vigor na parte aplicável)",
+    "para": "- DL 15/2022 (organização e funcionamento do SEN): noção de contrato de aquisição de eletricidade renovável (art. 3.º), remuneração da produção a preço livre em mercados organizados ou por contratos bilaterais (art. 17.º, n.º 1), títulos de controlo prévio (arts. 11.º e 12.º), produção para autoconsumo (arts. 81.º e seguintes), garantias de origem (arts. 174.º a 178.º) [■ VERIFICAR: redação atual destes artigos, alterados depois de 2022, designadamente em 2026]\n- Autoconsumo e comunidades de energia: regime do DL 15/2022 (arts. 81.º a 96.º e 187.º a 191.º); o DL 162/2019 foi revogado (art. 305.º, al. n), DL 15/2022)",
+    "motivo": "Os arts. 24.º, 26.º e 41.º do DL 15/2022 tratam do pedido de licença de produção, da consulta ao operador da rede e da salvaguarda de regimes setoriais; o DL 162/2019 foi revogado pelo DL 15/2022.",
+    "fonte": "https://diariodarepublica.pt/redirect/LinkFicheiroAntigo.aspx?conteudoId=177634016"
+   },
+   {
+    "de": "cláusulas de força maior (art. 790.º CC), resolução (art. 801.º CC), penalidades por incumprimento",
+    "para": "cláusulas de força maior (art. 790.º CC), resolução por incumprimento definitivo (arts. 801.º, n.º 2, e 808.º CC), penalidades por incumprimento",
+    "motivo": "A resolução por incumprimento funda-se no art. 801.º, n.º 2, CC e, havendo mora, exige a conversão em incumprimento definitivo pelo art. 808.º CC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0808&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Garantias de origem: sistema GVO (Garantias de Valor de Origem — ERSE/DGEG)",
+    "para": "- Garantias de origem (GO): documento eletrónico que prova a origem renovável (art. 3.º DL 15/2022), emitido pela Entidade Emissora de Garantias de Origem (EEGO) — arts. 174.º a 178.º; no continente, as funções de EEGO estão cometidas à concessionária da RNT até à atribuição da licença por procedimento concorrencial (art. 294.º DL 15/2022), segundo manual de procedimentos aprovado pela ERSE [■ VERIFICAR: regras atuais de emissão e transferência das GO para o consumidor]",
+    "motivo": "Não existe um sistema «GVO»; o DL 15/2022 prevê garantias de origem emitidas pela EEGO, hoje a concessionária da RNT.",
+    "fonte": "https://www.erse.pt/eletricidade/garantias-de-origem-e-rotulagem/garantias-de-origem/"
+   },
+   {
+    "de": "Produtor: [nome/firma, NIPC, sede, licença de produção n.º]",
+    "para": "Produtor: [nome/firma, NIPC, sede, título de controlo prévio n.º]",
+    "motivo": "O título pode ser licença, registo prévio ou comunicação prévia (art. 11.º DL 15/2022).",
+    "fonte": "https://diariodarepublica.pt/redirect/LinkFicheiroAntigo.aspx?conteudoId=177634016"
+   },
+   {
+    "de": "7.ª — Garantias de Origem (GVO — transferência para o consumidor; rastreabilidade)",
+    "para": "7.ª — Garantias de Origem (GO — transferência para o consumidor; rastreabilidade)",
+    "motivo": "A figura legal são as garantias de origem (GO).",
+    "fonte": "https://www.erse.pt/eletricidade/garantias-de-origem-e-rotulagem/garantias-de-origem/"
+   },
+   {
+    "de": "15.ª — Lei Aplicável e Foro (direito português; TAL ou tribunal de Lisboa)",
+    "para": "15.ª — Lei Aplicável e Foro (direito português; convenção de arbitragem nos termos da LAV — arbitragem ad hoc ou institucionalizada, com indicação do centro e do regulamento — ou foro judicial convencionado [■ VERIFICAR: centro de arbitragem ou tribunal competente])",
+    "motivo": "«TAL» não identifica nenhum tribunal judicial nem centro de arbitragem; a cláusula deve definir a arbitragem (ad hoc ou institucionalizada, nos termos da LAV) ou o foro judicial.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1579&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- [ ] Licença de produção do produtor verificada",
+    "para": "- [ ] Título de controlo prévio do produtor (art. 11.º DL 15/2022) verificado",
+    "motivo": "O título pode ser licença, registo prévio ou comunicação prévia.",
+    "fonte": "https://diariodarepublica.pt/redirect/LinkFicheiroAntigo.aspx?conteudoId=177634016"
+   },
+   {
+    "de": "- [ ] Mecanismo GVO incluído",
+    "para": "- [ ] Transferência das garantias de origem (GO) regulada",
+    "motivo": "A figura legal são as garantias de origem (GO).",
+    "fonte": "https://www.erse.pt/eletricidade/garantias-de-origem-e-rotulagem/garantias-de-origem/"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar na versão consolidada do DRE a redação atual dos arts. 3.º, 11.º, 17.º e 174.º a 178.º do DL 15/2022, alterado depois de 2022 (incluindo, segundo fontes secundárias, a Lei n.º 29/2026 e o DL n.º 130/2026).",
+   "Num PPA off-site, confirmar como se faz a entrega física e a liquidação (agente de mercado, comercializador ou contrato financeiro) e o papel do operador da rede; não ficou verificado em fonte oficial.",
+   "Confirmar se o regime das garantias de origem consta hoje de diploma próprio (o DL 141/2010 terá sido revogado pelo DL 84/2022) e as regras de transferência para o consumidor.",
+   "A ficha usa «CUI/CPE»: na eletricidade o código do ponto de entrega é o CPE (o CUI é do gás natural); confirmar e ajustar na minuta."
+  ],
+  "fontes": [
+   "https://diariodarepublica.pt/redirect/LinkFicheiroAntigo.aspx?conteudoId=177634016",
+   "https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016",
+   "https://www.erse.pt/eletricidade/garantias-de-origem-e-rotulagem/garantias-de-origem/",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0808&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0801&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://portugal.gov.pt/pt/gc25/comunicacao/comunicados/governo-torna-mais-simples-e-barato-produzir-e-partilhar-energia-renovavel",
+   "https://www.perezllorca.com/wp-content/uploads/2026/08/Nota-Juridica-Decreto-Lei-n.o-1302026-o-que-muda-no-Sistema-Eletrico-Nacional-a-28-de-agosto.pdf"
+  ]
+ },
+ {
+  "codigo": "AMB-032",
+  "veredicto": "corrigida",
+  "resumo": "A ficha apresentava o DL 162/2019 como regime em vigor do autoconsumo (foi revogado pelo art. 305.º, al. n), do DL 15/2022), situava as definições no art. 2.º e o regime das CER nos arts. 79.º a 84.º do DL 15/2022 (estão nos arts. 3.º e 189.º a 190.º) e referia a «EDP Distribuição», hoje E-REDES. Corrigiram-se as normas do autoconsumo coletivo (arts. 81.º, 83.º, 86.º e 87.º DL 15/2022), da CER e da comunidade de cidadãos para a energia (arts. 189.º a 191.º), o regulamento da ERSE (Regulamento n.º 815/2023) e as obrigações perante a DGEG e o operador de rede; a redação de 2026 dos critérios de proximidade e da EGAC fica a verificar.",
+  "descricao": "Elabora parecer jurídico sobre a constituição e funcionamento de uma comunidade de energia renovável (CER) ou de um autoconsumo coletivo, ao abrigo do Decreto-Lei n.º 15/2022, de 14 de janeiro (organização e funcionamento do Sistema Elétrico Nacional, que revogou o Decreto-Lei n.º 162/2019), e dos regulamentos da ERSE, incluindo os requisitos de partilha de energia, o modelo de governo da CER e as obrigações perante a DGEG e o operador da rede de distribuição.",
+  "descricao_en": "Drafts a legal opinion on the formation and operation of a renewable energy community (CER) or a collective self-consumption scheme, under Decree-Law No. 15/2022 of 14 January (organisation and operation of the National Electricity System, which repealed Decree-Law No. 162/2019) and ERSE regulations, including energy-sharing requirements, the CER governance model and obligations towards the DGEG and the distribution system operator.",
+  "substituicoes": [
+   {
+    "de": "— Cita artigos reais do RJAERE, DL 162/2019 e regulamentos ERSE.",
+    "para": "— Cita artigos reais do DL 15/2022 (na redação atual) e dos regulamentos da ERSE; o DL 162/2019 está revogado.",
+    "motivo": "O DL 162/2019 foi revogado pelo art. 305.º, al. n), do DL 15/2022.",
+    "fonte": "https://diariodarepublica.pt/redirect/LinkFicheiroAntigo.aspx?conteudoId=177634016"
+   },
+   {
+    "de": "- Distinguir autoconsumo coletivo (art. 2.º DL 162/2019) de CER (art. 2.º RJAERE)",
+    "para": "- Distinguir o autoconsumo coletivo (arts. 3.º e 86.º DL 15/2022) da CER (arts. 3.º e 189.º DL 15/2022)",
+    "motivo": "O DL 162/2019 está revogado; no DL 15/2022 as definições estão no art. 3.º, o autoconsumo coletivo no art. 86.º e a CER no art. 189.º.",
+    "fonte": "https://diariodarepublica.pt/redirect/LinkFicheiroAntigo.aspx?conteudoId=177634016"
+   },
+   {
+    "de": "- Verificar o critério de proximidade (mesmo edifício vs. mesma rede de baixa tensão)",
+    "para": "- Verificar o critério de proximidade (art. 83.º DL 15/2022: ligação por linha direta ou rede interna ou, através da RESP, distâncias máximas por nível de tensão [■ VERIFICAR: distâncias na redação atual, alteradas em 2026])",
+    "motivo": "A proximidade é um requisito legal definido no art. 83.º do DL 15/2022 por distâncias e níveis de tensão, não pela mera pertença à mesma rede.",
+    "fonte": "https://diariodarepublica.pt/redirect/LinkFicheiroAntigo.aspx?conteudoId=177634016"
+   },
+   {
+    "de": "- RJAERE (DL 15/2022), art. 2.º (definições CER), arts. 79.º a 84.º (regime das CER)\n- DL 162/2019: UPAC (arts. 3.º a 9.º), autoconsumo coletivo (arts. 10.º a 14.º), registo na DGEG",
+    "para": "- DL 15/2022 (organização e funcionamento do SEN): art. 3.º (definições), arts. 189.º e 190.º (CER), art. 191.º (comunidades de cidadãos para a energia)\n- Autoconsumo no DL 15/2022 (o DL 162/2019 foi revogado pelo art. 305.º, al. n)): controlo prévio das UPAC pela DGEG (arts. 11.º, 12.º e 81.º), proximidade (art. 83.º), autoconsumo coletivo, regulamento interno e EGAC (art. 86.º), partilha de energia (art. 87.º) [■ VERIFICAR: redação atual destes artigos, alterados em 2026, designadamente quanto à proximidade e aos deveres da EGAC]",
+    "motivo": "Os arts. 79.º a 84.º do DL 15/2022 tratam da hibridização, dos serviços de sistema e do autoconsumo, não das CER (arts. 189.º e 190.º); o DL 162/2019 está revogado.",
+    "fonte": "https://diariodarepublica.pt/redirect/LinkFicheiroAntigo.aspx?conteudoId=177634016"
+   },
+   {
+    "de": "- Regulamentos ERSE: partilha de energia (chave de repartição), faturação dos membros, papel do comercializador",
+    "para": "- Regulamentos ERSE (Regulamento do Autoconsumo, Regulamento n.º 815/2023): partilha de energia (chave de repartição), faturação dos membros, papel do comercializador",
+    "motivo": "Identifica-se o regulamento da ERSE em vigor sobre o autoconsumo.",
+    "fonte": "https://www.erse.pt/atividade/regulamentos-eletricidade/autoconsumo/"
+   },
+   {
+    "de": "- Relação com a distribuidora (EDP Distribuição): protocolo de ligação, medição virtual",
+    "para": "- Relação com o operador da rede de distribuição (E-REDES, antiga EDP Distribuição): ligação, contagem e comunicação do modo de partilha pela plataforma eletrónica (art. 87.º DL 15/2022)",
+    "motivo": "A EDP Distribuição passou a chamar-se E-REDES em 29/1/2021; a comunicação do modo de partilha ao operador de rede está prevista no art. 87.º do DL 15/2022.",
+    "fonte": "https://www.erse.pt/comunicacao/comunicados/erse-determina-mudanca-de-marca-da-edp-distribuicao-para-e-redes/"
+   },
+   {
+    "de": "- Registo na DGEG e notificação à distribuidora",
+    "para": "- Título de controlo prévio da UPAC junto da DGEG (arts. 11.º e 81.º DL 15/2022), comunicação do regulamento interno à DGEG (art. 86.º, n.º 1) e comunicação do modo de partilha ao operador de rede (art. 87.º)",
+    "motivo": "No DL 15/2022 a UPAC está sujeita a controlo prévio da DGEG e o ACC a regulamento interno comunicado à DGEG.",
+    "fonte": "https://diariodarepublica.pt/redirect/LinkFicheiroAntigo.aspx?conteudoId=177634016"
+   },
+   {
+    "de": "[RJAERE e DL 162/2019 — artigos aplicáveis ao caso concreto]",
+    "para": "[DL 15/2022, na redação atual, e regulamentos da ERSE — artigos aplicáveis ao caso concreto]",
+    "motivo": "O DL 162/2019 está revogado.",
+    "fonte": "https://diariodarepublica.pt/redirect/LinkFicheiroAntigo.aspx?conteudoId=177634016"
+   },
+   {
+    "de": "- [ ] Registo na DGEG identificado",
+    "para": "- [ ] Título de controlo prévio da UPAC (DGEG) e comunicação do regulamento interno identificados",
+    "motivo": "Correspondência com os arts. 81.º e 86.º do DL 15/2022.",
+    "fonte": "https://diariodarepublica.pt/redirect/LinkFicheiroAntigo.aspx?conteudoId=177634016"
+   },
+   {
+    "de": "- [ ] Papel da distribuidora (EDP/E-Redes) confirmado",
+    "para": "- [ ] Papel do operador da rede de distribuição (E-REDES) confirmado",
+    "motivo": "A EDP Distribuição passou a chamar-se E-REDES.",
+    "fonte": "https://e-redes.pt/en/news/2021/01/29/edp-distribuicao-now-e-redes"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar na versão consolidada do DRE a redação atual dos arts. 3.º, 11.º, 81.º, 83.º, 86.º, 87.º e 189.º a 191.º do DL 15/2022: fontes secundárias indicam que o DL n.º 130/2026 (em vigor desde 28/8/2026) alterou a proximidade, os princípios do autoconsumo coletivo e os deveres da EGAC.",
+   "Confirmar se o Regulamento do Autoconsumo da ERSE (Regulamento n.º 815/2023) foi alterado ou substituído depois da reforma de 2026.",
+   "Confirmar o operador da rede no caso concreto (E-REDES ou concessionária local de baixa tensão)."
+  ],
+  "fontes": [
+   "https://diariodarepublica.pt/redirect/LinkFicheiroAntigo.aspx?conteudoId=177634016",
+   "https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016",
+   "https://www.erse.pt/atividade/regulamentos-eletricidade/autoconsumo/",
+   "https://www.erse.pt/comunicacao/comunicados/erse-determina-mudanca-de-marca-da-edp-distribuicao-para-e-redes/",
+   "https://e-redes.pt/en/news/2021/01/29/edp-distribuicao-now-e-redes",
+   "https://portugal.gov.pt/pt/gc25/comunicacao/comunicados/governo-torna-mais-simples-e-barato-produzir-e-partilhar-energia-renovavel",
+   "https://www.perezllorca.com/wp-content/uploads/2026/08/Nota-Juridica-Decreto-Lei-n.o-1302026-o-que-muda-no-Sistema-Eletrico-Nacional-a-28-de-agosto.pdf"
+  ]
+ }
+]

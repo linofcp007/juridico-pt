@@ -6,7 +6,8 @@ titulo_en: "Analysis of a Package Travel Contract and the Traveller's Rights"
 descricao: "Analisa um contrato de pacote de viagem (package travel) ao abrigo do DL n.º 17/2018 (que transpôs a Diretiva (UE) 2015/2302) e identifica os direitos do viajante em caso de alteração de preço, alteração essencial, incumprimento ou insolvência do operador. Complementa com os direitos do Regulamento (CE) n.º 261/2004 (atraso/cancelamento de voo incluído no pacote) e da Lei n.º 24/96. Distingue pacote de viagem (proteção máxima) de serviços de viagem separados (proteção menor)."
 descricao_en: "Analyses a package travel contract under Decree-Law No. 17/2018 (which transposed Directive (EU) 2015/2302) and identifies the traveller's rights in the event of a price change, significant alteration, non-performance or insolvency of the organiser, supplemented by the rights under Regulation (EC) No 261/2004 (delay/cancellation of a flight included in the package) and Law No. 24/96. It distinguishes package travel (maximum protection) from separate travel services (lesser protection)."
 ambito: nacional
-estado_citacoes: "conferidas 0 · corrigidas 0 · por conferir 12"
+estado_citacoes: "conferidas 0 · corrigidas 0 · por conferir 20"
+revisao_tecnica: "2026-10-28 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
@@ -14,7 +15,8 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 
 > **Âmbito:** nacional · **Área:** Direito do Consumo · **Código:** CNS-030
 > **EN:** Analysis of a Package Travel Contract and the Traveller's Rights. Analyses a package travel contract under Decree-Law No. 17/2018 (which transposed Directive (EU) 2015/2302) and identifies the traveller's rights in the event of a price change, significant alteration, non-performance or insolvency of the organiser, supplemented by the rights under Regulation (EC) No 261/2004 (delay/cancellation of a flight included in the package) and Law No. 24/96. It distinguishes package travel (maximum protection) from separate travel services (lesser protection).
-> **Citações:** conferidas 0 · corrigidas 0 · por conferir 12. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 0 · corrigidas 0 · por conferir 20. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-28 — corrigida (15 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
 Analisa um contrato de pacote de viagem (package travel) ao abrigo do DL n.º 17/2018 (que transpôs a Diretiva (UE) 2015/2302) e identifica os direitos do viajante em caso de alteração de preço, alteração essencial, incumprimento ou insolvência do operador. Complementa com os direitos do Regulamento (CE) n.º 261/2004 (atraso/cancelamento de voo incluído no pacote) e da Lei n.º 24/96. Distingue pacote de viagem (proteção máxima) de serviços de viagem separados (proteção menor).
 
@@ -24,10 +26,10 @@ Ficha de trabalho para preparar este documento. As regras da casa prevalecem sob
 
 ## Regras obrigatórias
 - Verifica SEMPRE se o contrato é um "pacote de viagem" (dois ou mais serviços turísticos combinados por um único contrato) ou serviços separados — os direitos são muito diferentes
-- Alteração de preço: permitida até 8% para custos de combustível/câmbio/taxas; acima de 8% = direito de resolução (art. 19.º DL 17/2018)
-- Alteração essencial antes da partida: viajante pode resolver e ser reembolsado ou aceitar (art. 20.º)
-- Circunstâncias excecionais inevitáveis no destino: resolução sem penalização + reembolso integral (art. 21.º DL 17/2018)
-- Proteção de insolvência: obrigatória para operadores (art. 26.º DL 17/2018)
+- Alteração de preço: só se o contrato a previr, por variação do custo do combustível ou de outras fontes de energia, de impostos e taxas de terceiros ou da taxa de câmbio, notificada com cálculos em suporte duradouro e até 20 dias antes da partida; se o aumento exceder 8 % do preço total, o viajante pode aceitar ou rescindir sem penalização (arts. 23.º e 24.º, n.º 2, DL 17/2018)
+- Alteração significativa antes da partida: o viajante pode aceitar ou rescindir sem penalização, com reembolso em 14 dias (art. 24.º, n.os 2 e 6, DL 17/2018)
+- Circunstâncias inevitáveis e excecionais no destino: rescisão sem taxa + reembolso integral, sem indemnização adicional (art. 25.º, n.os 4 e 5, DL 17/2018)
+- Proteção em caso de insolvência: reembolso e, se incluir transporte, repatriamento (art. 31.º DL 17/2018), garantidos pelo Fundo de Garantia de Viagens e Turismo (art. 37.º DL 17/2018)
 - NUNCA inventes legislação ou decisões; usa [■ VERIFICAR] quando necessário
 - Usa português europeu (pt-PT)
 
@@ -39,22 +41,22 @@ Ficha de trabalho para preparar este documento. As regras da casa prevalecem sob
 Analisa em <analise_do_caso>:
 - O contrato é um "pacote de viagem" nos termos do DL 17/2018?
   - Pacote: 2+ serviços turísticos (transporte, alojamento, aluguer de carro, outro serviço turístico) combinados por um único contrato ou a preço global cobrado pelo mesmo organizador
-  - Serviços ligados: reservados separadamente, mas combinados pelo viajante — proteção mais limitada
+  - Serviços de viagem conexos (art. 2.º, n.º 1, al. n), DL 17/2018): contratos distintos com diferentes prestadores, mas a aquisição foi facilitada por um operador (escolha e pagamento separados na mesma visita ao ponto de venda, ou aquisição direcionada de outro serviço contratado até 24 horas depois) — proteção mais limitada; se foi o viajante a combinar sozinho os serviços, são serviços separados
 - Qual o problema: aumento de preço / alteração de itinerário / cancelamento / incumprimento durante / insolvência?
 - Qual o momento: antes da partida ou durante a viagem?
 - Há direitos aéreos adicionais (Reg. 261/2004)?
 
 ### ETAPA 2 — ANÁLISE JURÍDICA
 Identifica em <fundamentos_juridicos>:
-- Art. 3.º DL 17/2018 (definição de pacote e serviços ligados)
-- Arts. 11.º-16.º DL 17/2018 (informação pré-contratual e conteúdo obrigatório do contrato)
-- Art. 19.º DL 17/2018 (alteração de preço — limite de 8%; resolução acima de 20%)
-- Art. 20.º DL 17/2018 (alteração essencial antes da partida — direito de resolução ou aceitação)
-- Art. 21.º DL 17/2018 (circunstâncias excecionais — resolução sem penalização)
-- Art. 22.º DL 17/2018 (resolução por iniciativa do viajante — penalização razoável)
-- Arts. 24.º-25.º DL 17/2018 (incumprimento durante a viagem — direitos de substituição e redução de preço)
-- Art. 26.º DL 17/2018 (proteção de insolvência — garantia obrigatória)
-- Reg. (CE) 261/2004 (direitos aéreos — se voo incluído no pacote)
+- Art. 2.º, n.º 1, als. n) e p), DL 17/2018 (definição de serviços de viagem conexos e de viagem organizada — o «pacote» da Diretiva)
+- Arts. 17.º a 20.º DL 17/2018 (informação pré-contratual, programas de viagem, caráter vinculativo e conteúdo obrigatório do contrato)
+- Art. 23.º DL 17/2018 (alteração de preço — só se prevista no contrato e até 20 dias antes da partida; acima de 8 % do preço total, aplica-se o art. 24.º, n.os 2 a 6: aceitar ou rescindir sem penalização)
+- Art. 24.º DL 17/2018 (alteração significativa antes da partida — aceitar, rescindir sem penalização ou aceitar viagem de substituição, com redução do preço se de qualidade inferior)
+- Art. 25.º, n.os 4 e 5, DL 17/2018 (circunstâncias inevitáveis e excecionais — rescisão sem taxa e reembolso integral)
+- Art. 25.º, n.os 1 a 3 e 7, DL 17/2018 (rescisão pelo viajante a todo o tempo antes do início da viagem — taxa de rescisão adequada e justificável; reembolso em 14 dias)
+- Arts. 28.º e 29.º DL 17/2018 (falta de conformidade durante a viagem — comunicação sem demora, alternativas sem custos, redução do preço e indemnização; o direito a reclamar prescreve em 2 anos — art. 29.º, n.º 5)
+- Art. 31.º DL 17/2018 (proteção em caso de insolvência — reembolso e repatriamento) e arts. 37.º a 40.º (Fundo de Garantia de Viagens e Turismo, seu acionamento e Comissão Arbitral)
+- Reg. (CE) 261/2004 (direitos aéreos — se voo incluído no pacote; as compensações deduzem-se umas às outras para evitar sobrecompensação — art. 29.º, n.os 3 e 4, DL 17/2018)
 - Diretiva (UE) 2015/2302 (interpretação conforme)
 
 ### ETAPA 3 — CONSTRUÇÃO
@@ -79,7 +81,7 @@ Conforme o objetivo (análise pré-problema ou reclamação pós-problema), redi
 2. Factos objetivos (alteração / incumprimento / cancelamento)
 3. Direitos invocados (com artigos transcritos)
 4. Pretensão quantificada: reembolso integral / indemnização / redução de preço
-5. Prazo de resposta e escalada (DGC, CNIACC, tribunal)
+5. Prazo de resposta e escalada (livro de reclamações ou reclamação escrita, nomeadamente à DGC ou ao Turismo de Portugal — art. 39.º, n.º 5, DL 17/2018; centro de arbitragem de conflitos de consumo ou Provedor do Cliente da APAVT; requerimento ao Turismo de Portugal, I. P., para acionar o FGVT, em regra no prazo de 60 dias, com apreciação pela Comissão Arbitral — arts. 39.º e 40.º DL 17/2018; tribunal)
 
 ### ETAPA 5 — VALIDAÇÃO
 Apresenta em <checklist_validacao>:
@@ -136,15 +138,23 @@ Apresenta em <checklist_validacao>:
 
 | Citação | Estado | Nota |
 |---|---|---|
-| art. 19.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| art. 20.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| art. 21.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| art. 26.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| Art. 3.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| Arts. 11.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| Art. 19.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| Art. 20.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| Art. 21.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| Art. 22.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| Arts. 24.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| Art. 26.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| arts. 23.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 24.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 24.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 25.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 31.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 37.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 2.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| Art. 2.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| Arts. 17.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| Art. 23.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| Art. 24.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| Art. 25.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| Art. 25.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| Arts. 28.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 29.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 29.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| Art. 31.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| arts. 37.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 39.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| arts. 39.º | por conferir [■ VERIFICAR] | diploma não identificado |

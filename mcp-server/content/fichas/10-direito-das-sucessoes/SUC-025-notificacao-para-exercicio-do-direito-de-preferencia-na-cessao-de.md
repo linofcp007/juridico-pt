@@ -6,7 +6,8 @@ titulo_en: "Notice to Exercise the Pre-Emption Right on Assignment of a Heredita
 descricao: "Gera a notificação formal enviada pelo herdeiro cedente aos co-herdeiros para exercício do direito de preferência antes da cessão onerosa do quinhão hereditário a terceiro, nos termos do art. 2130.º do Código Civil."
 descricao_en: "Generates the formal notice sent by the assigning heir to the co-heirs so that they may exercise their pre-emption right (direito de preferência) before the hereditary share is assigned for value to a third party, under Article 2130 of the Civil Code."
 ambito: nacional
-estado_citacoes: "conferidas 4 · corrigidas 0 · por conferir 0"
+estado_citacoes: "conferidas 14 · corrigidas 0 · por conferir 0"
+revisao_tecnica: "2026-10-28 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
@@ -14,7 +15,8 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 
 > **Âmbito:** nacional · **Área:** Direito das Sucessões · **Código:** SUC-025
 > **EN:** Notice to Exercise the Pre-Emption Right on Assignment of a Hereditary Share. Generates the formal notice sent by the assigning heir to the co-heirs so that they may exercise their pre-emption right (direito de preferência) before the hereditary share is assigned for value to a third party, under Article 2130 of the Civil Code.
-> **Citações:** conferidas 4 · corrigidas 0 · por conferir 0. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 14 · corrigidas 0 · por conferir 0. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-28 — corrigida (8 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
 Gera a notificação formal enviada pelo herdeiro cedente aos co-herdeiros para exercício do direito de preferência antes da cessão onerosa do quinhão hereditário a terceiro, nos termos do art. 2130.º do Código Civil.
 
@@ -27,7 +29,7 @@ Ficha de trabalho para preparar este documento. As regras da casa prevalecem sob
 — Se faltar dado, marca [■ VERIFICAR: o que é necessário].
 — Cita artigos reais do Código Civil (CC).
 — A notificação deve conter: preço, condições da cessão e prazo para exercer a preferência.
-— Alerta para as consequências de não notificar (remição pelos co-herdeiros).
+— Alerta para as consequências de não notificar (ação de preferência pelos co-herdeiros — arts. 2130.º, n.º 1, e 1410.º CC).
 — Linguagem jurídica formal, portuguesa.
 
 ---
@@ -44,10 +46,10 @@ Apresenta dentro de um bloco <analise_do_caso>:
 ### ETAPA 2 — ANÁLISE JURÍDICA (Fundamentação)
 Apresenta dentro de um bloco <fundamentos_juridicos>:
 - Direito de preferência dos co-herdeiros: art. 2130.º CC
-  — Em cessão onerosa do quinhão a terceiro, os co-herdeiros têm preferência nas mesmas condições
-  — Notificação prévia obrigatória por carta registada ou notificação judicial
-  — Prazo para exercer a preferência: [■ VERIFICAR: art. 2130.º CC — prazo específico]
-- Falta de notificação: os co-herdeiros podem remir a cessão dentro de [■ VERIFICAR: prazo após tomar conhecimento]
+  — Na venda ou dação em cumprimento do quinhão a estranhos, os co-herdeiros têm preferência nas mesmas condições, nos termos em que ela assiste aos comproprietários (art. 2130.º, n.º 1, CC); outras formas de cessão (p. ex., doação ou permuta) não conferem preferência
+  — Comunicação prévia do projeto de venda e das cláusulas do contrato (art. 416.º, n.º 1, CC, aplicável por força do art. 1409.º, n.º 2, CC), por carta registada com AR ou por notificação judicial para preferência (art. 1028.º CPC)
+  — Prazo para exercer a preferência: dois meses a contar da comunicação (art. 2130.º, n.º 2, CC), e não os oito dias do art. 416.º, n.º 2, CC
+- Falta de notificação: o co-herdeiro preterido pode intentar ação de preferência e haver para si o quinhão alienado, no prazo de seis meses a contar da data em que teve conhecimento dos elementos essenciais da alienação, depositando o preço devido nos 15 dias seguintes à propositura da ação (arts. 2130.º, n.º 1, e 1410.º, n.º 1, CC)
 - Conteúdo da notificação: preço, forma de pagamento, identidade do cessionário e demais condições
 
 ### ETAPA 3 — CONSTRUÇÃO ARGUMENTATIVA / ESTRUTURA
@@ -79,12 +81,12 @@ vem notificar V. Ex.ª, nos termos do art. 2130.º do Código Civil, de que pret
 **5. Exercício da preferência:**
 V. Ex.ª tem o direito de preferência na aquisição do referido quinhão nas mesmas condições acima descritas, nos termos do art. 2130.º CC.
 
-Para exercer este direito, deverá comunicar ao notificante, por escrito (carta registada com AR / notificação judicial), no prazo de [■ VERIFICAR: prazo legal — dias após receção desta notificação], a sua intenção de adquirir o quinhão pelo preço e nas condições indicadas.
+Para exercer este direito, deverá comunicar ao notificante, por escrito (carta registada com AR / notificação judicial), no prazo de dois meses a contar da receção desta notificação (art. 2130.º, n.º 2, do Código Civil), a sua intenção de adquirir o quinhão pelo preço e nas condições indicadas.
 
 **6. Consequências da não resposta:**
 Decorrido o prazo sem resposta ou comunicação de recusa, o notificante entenderá que V. Ex.ª prescindiu do direito de preferência e procederá à outorga da escritura de cessão a favor do cessionário identificado.
 
-Mais informa que a não notificação ou notificação deficiente pode conferir ao co-herdeiro o direito de remir a cessão nos termos do art. [■ VERIFICAR: artigo aplicável do CC/CPC].
+Mais informa que, se vários co-herdeiros quiserem preferir, o quinhão será adjudicado a todos, na proporção dos respetivos quinhões (arts. 2130.º, n.º 1, e 1409.º, n.º 3, do Código Civil).
 
 Com os melhores cumprimentos,
 
@@ -97,7 +99,7 @@ Com os melhores cumprimentos,
 Apresenta dentro de um bloco <checklist_validacao>:
 - [ ] Todos os co-herdeiros identificados e notificados individualmente
 - [ ] Preço e condições da cessão completamente descritos
-- [ ] Prazo para exercer a preferência indicado [■ VERIFICAR: prazo legal]
+- [ ] Prazo para exercer a preferência indicado (dois meses — art. 2130.º, n.º 2, CC)
 - [ ] Cessionário identificado
 - [ ] Modo de notificação seguro (carta registada com AR)
 - [ ] Consequências da não resposta explicadas
@@ -126,7 +128,17 @@ Apresenta dentro de um bloco <checklist_validacao>:
 
 | Citação | Estado | Nota |
 |---|---|---|
+| arts. 2130.º, n.º 1, e 1410.º CC | conferida (epígrafe) — Direito de preferência |  |
 | art. 2130.º CC | conferida (epígrafe) — Direito de preferência |  |
 | art. 2130.º CC | conferida (epígrafe) — Direito de preferência |  |
-| art. 2130.º CC | conferida (epígrafe) — Direito de preferência |  |
+| art. 2130.º, n.º 1, CC | conferida (epígrafe) — Direito de preferência |  |
+| art. 416.º, n.º 1, CC | conferida (epígrafe) — Conhecimento do preferente |  |
+| art. 1409.º, n.º 2, CC | conferida (epígrafe) — Direito de preferência |  |
+| art. 1028.º CPC | conferida (epígrafe) — Termos a seguir |  |
+| art. 2130.º, n.º 2, CC | conferida (epígrafe) — Direito de preferência |  |
+| art. 2130.º, n.º 2, CC | conferida (epígrafe) — Direito de preferência |  |
+| art. 416.º, n.º 2, CC | conferida (epígrafe) — Conhecimento do preferente |  |
+| arts. 2130.º, n.º 1, e 1410.º, n.º 1, CC | conferida (epígrafe) — Direito de preferência |  |
 | art. 2130.º do Código Civil | conferida (epígrafe) — Direito de preferência |  |
+| art. 2130.º, n.º 2, do Código Civil | conferida (epígrafe) — Direito de preferência |  |
+| arts. 2130.º, n.º 1, e 1409.º, n.º 3, do Código Civil | conferida (epígrafe) — Direito de preferência |  |

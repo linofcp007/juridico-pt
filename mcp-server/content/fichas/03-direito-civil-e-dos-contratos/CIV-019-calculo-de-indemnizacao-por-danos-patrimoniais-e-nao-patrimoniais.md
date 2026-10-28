@@ -6,7 +6,8 @@ titulo_en: "Calculation of Damages for Pecuniary and Non-Pecuniary Loss"
 descricao: "Gera uma memória de cálculo detalhada da indemnização peticionada, distinguindo dano emergente, lucro cessante e danos não patrimoniais, com quantificação fundamentada, referência às tabelas de incapacidade e ao critério equitativo dos tribunais portugueses — ao abrigo dos arts. 562.º e seguintes do Código Civil português."
 descricao_en: "Generates a detailed calculation statement (memória de cálculo) of the compensation claimed, distinguishing actual loss (dano emergente), loss of profit (lucro cessante) and non-pecuniary damage, with reasoned quantification and reference to the disability tables and the equitable criterion applied by the Portuguese courts — under Articles 562 et seq. of the Portuguese Civil Code."
 ambito: nacional
-estado_citacoes: "conferidas 9 · corrigidas 1 · por conferir 0"
+estado_citacoes: "conferidas 12 · corrigidas 1 · por conferir 1"
+revisao_tecnica: "2026-10-28 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
@@ -14,7 +15,8 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 
 > **Âmbito:** nacional · **Área:** Direito Civil e dos Contratos · **Código:** CIV-019
 > **EN:** Calculation of Damages for Pecuniary and Non-Pecuniary Loss. Generates a detailed calculation statement (memória de cálculo) of the compensation claimed, distinguishing actual loss (dano emergente), loss of profit (lucro cessante) and non-pecuniary damage, with reasoned quantification and reference to the disability tables and the equitable criterion applied by the Portuguese courts — under Articles 562 et seq. of the Portuguese Civil Code.
-> **Citações:** conferidas 9 · corrigidas 1 · por conferir 0. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 12 · corrigidas 1 · por conferir 1. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-28 — corrigida (6 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
 Gera uma memória de cálculo detalhada da indemnização peticionada, distinguindo dano emergente, lucro cessante e danos não patrimoniais, com quantificação fundamentada, referência às tabelas de incapacidade e ao critério equitativo dos tribunais portugueses — ao abrigo dos arts. 562.º e seguintes do Código Civil português.
 
@@ -31,9 +33,9 @@ Ficha de trabalho para preparar este documento. As regras da casa prevalecem sob
   (a) Dano emergente: perdas efetivamente sofridas
   (b) Lucro cessante: ganhos frustrados
   (c) Danos não patrimoniais: sofrimento físico e moral (art. 496.º CC — critério equitativo)
-— Para incapacidade: usa o NIAT (Novo Instrumento de Avaliação do Dano); fórmula de capitalização para IPP.
+— Para a incapacidade permanente em direito civil: avaliação médico-legal segundo a Tabela Nacional para Avaliação de Incapacidades Permanentes em Direito Civil (anexo II do DL 352/2007), em pontos e com valor indicativo — não existe um «NIAT»; a perda de capacidade de ganho é dano patrimonial futuro (art. 564.º, n.º 2, CC), calculado por capitalização e fixado com recurso à equidade quando o valor exato não puder ser averiguado (art. 566.º, n.º 3, CC) [■ VERIFICAR: critério jurisprudencial atual de cálculo].
 — Para danos não patrimoniais: referencia padrões de jurisprudência dos tribunais superiores [■ VERIFICAR: montantes atualizados].
-— Alerta para lucros cessantes futuros (pensão vitalícia) quando incapacidade permanente.
+— Alerta para lucros cessantes futuros quando houver incapacidade permanente: indemnização em capital ou, a requerimento do lesado, em renda vitalícia ou temporária (art. 567.º CC).
 
 ---
 
@@ -46,7 +48,7 @@ Apresenta dentro de um bloco <analise_do_caso>:
 - Documentação existente para cada categoria
 - Incapacidade: temporária (ITA/ITP) e/ou permanente (IPP/IPA)
 - Danos futuros: continuação das despesas, perda de capacidade de ganho a longo prazo
-- Terceiros afetados (dano de ricochete — art. 496.º, n.º 3 CC)
+- Terceiros afetados (dano de ricochete): em caso de morte, art. 496.º, n.ºs 2 a 4, CC (o n.º 3 respeita ao unido de facto); com o lesado vivo, [■ VERIFICAR: jurisprudência uniformizada do STJ sobre os danos não patrimoniais particularmente graves do cônjuge de vítima sobrevivente]
 - Informações em falta
 
 ### ETAPA 2 — ANÁLISE JURÍDICA (Fundamentação)
@@ -58,7 +60,8 @@ Apresenta dentro de um bloco <fundamentos_juridicos>:
 - Art. 566.º CC (indemnização em dinheiro)
 - Art. 496.º CC (danos não patrimoniais — equidade)
 - Art. 494.º CC (limitação da indemnização em caso de mera culpa)
-- NIAT — Portaria n.º 679/2009 (metodologia de avaliação médico-legal do dano)
+- DL 352/2007, anexo II — Tabela Nacional para Avaliação de Incapacidades Permanentes em Direito Civil (avaliação médico-legal do dano corporal, em pontos, por peritos médicos, com valor indicativo)
+- Portaria n.º 377/2008, alterada pela Portaria n.º 679/2009 (critérios e valores orientadores da proposta razoável das seguradoras para indemnização do dano corporal em acidente automóvel; não afastam a indemnização de outros danos nem valores superiores — art. 1.º, n.º 2)
 - Fórmula de capitalização para incapacidade permanente [■ VERIFICAR: tabelas atualizadas]
 
 ### ETAPA 3 — CONSTRUÇÃO ARGUMENTATIVA / ESTRUTURA
@@ -80,7 +83,7 @@ Define as categorias de danos a calcular:
 - Sofrimento físico (quantum doloris)
 - Sofrimento moral (perturbação psíquica, tristeza)
 - Dano estético (se sequelas visíveis)
-- Dano biológico (perda de qualidade de vida)
+- Dano biológico (ofensa à integridade física e psíquica, com ou sem perda da capacidade de ganho): é indemnizável autonomamente e a jurisprudência qualifica-o ora como dano patrimonial, ora como não patrimonial — não o indemnizar em duplicado com os danos futuros do ponto A.3 [■ VERIFICAR: qualificação adotada pela jurisprudência atual]
 - Dano de ricochete (cônjuge, filhos)
 
 ### ETAPA 4 — EXPOSIÇÃO ESTRUTURADA
@@ -116,7 +119,7 @@ Apresenta a memória de cálculo com este formato:
   Pedido: €___
 - Dano estético: grau _/7 — padrão: €___ a €___
   Pedido: €___
-- Dano biológico: [___ dias × €___ por dia]
+- Dano biológico: défice permanente de ___ pontos (tabela do anexo II do DL 352/2007), idade ___ anos — valor por equidade, com referência orientadora ao anexo IV da Portaria n.º 377/2008 [■ VERIFICAR: não duplicar com o ponto I.3]
   Pedido: €___
 - Dano de ricochete (família): €___
 
@@ -185,7 +188,10 @@ Apresenta dentro de um bloco <checklist_validacao>:
 |---|---|---|
 | art. 566.º CC | conferida (epígrafe) — Indemnização em dinheiro |  |
 | art. 496.º CC | conferida (epígrafe) — Danos não patrimoniais |  |
-| art. 496.º, n.º 3 CC | conferida (epígrafe) — Danos não patrimoniais |  |
+| art. 564.º, n.º 2, CC | conferida (epígrafe) — Cálculo da indemnização |  |
+| art. 566.º, n.º 3, CC | conferida (epígrafe) — Indemnização em dinheiro |  |
+| art. 567.º CC | conferida (epígrafe) — Indemnização em renda |  |
+| art. 496.º, n.ºs 2 a 4, CC | conferida (epígrafe) — Danos não patrimoniais |  |
 | Arts. 562.º a 566.º CC | conferida (epígrafe) — Princípio geral |  |
 | Art. 562.º CC | conferida (epígrafe) — Princípio geral |  |
 | Art. 564.º CC | conferida (epígrafe) — Cálculo da indemnização |  |
@@ -193,3 +199,4 @@ Apresenta dentro de um bloco <checklist_validacao>:
 | Art. 566.º CC | conferida (epígrafe) — Indemnização em dinheiro |  |
 | Art. 496.º CC | conferida (epígrafe) — Danos não patrimoniais |  |
 | Art. 494.º CC | conferida (epígrafe) — Limitação da indemnização no caso de mera culpa |  |
+| art. 1.º | por conferir [■ VERIFICAR] | diploma não identificado |

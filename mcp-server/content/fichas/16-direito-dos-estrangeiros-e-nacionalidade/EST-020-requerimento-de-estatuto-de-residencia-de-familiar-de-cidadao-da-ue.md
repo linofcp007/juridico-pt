@@ -3,20 +3,22 @@ codigo: EST-020
 area: "Direito dos Estrangeiros e Nacionalidade"
 titulo: "Requerimento de Estatuto de Residência de Familiar de Cidadão da UE (País Terceiro)"
 titulo_en: "Application for Residence Status as a Family Member of an EU Citizen (Third-Country National)"
-descricao: "Gera um requerimento de cartão de residência para familiar de cidadão da União Europeia que seja nacional de um país terceiro, fundamentado no artigo 19.º e seguintes do Decreto-Lei n.º 3/2008, com identificação do vínculo familiar elegível e documentação necessária para apresentar na AIMA."
-descricao_en: "Generates an application for a residence card for a family member of an EU citizen who is a third-country national, grounded in Articles 19 et seq. of Decree-Law No. 3/2008, identifying the eligible family relationship and the documentation to be submitted to AIMA."
+descricao: "Gera um requerimento de cartão de residência para familiar de cidadão da União Europeia que seja nacional de um país terceiro, fundamentado no artigo 15.º da Lei n.º 37/2006, de 9 de agosto, com identificação do vínculo familiar elegível e documentação necessária para apresentar na AIMA."
+descricao_en: "Generates an application for a residence card for a family member of an EU citizen who is a third-country national, grounded in Article 15 of Law No. 37/2006 of 9 August, identifying the eligible family relationship and the documentation to be submitted to AIMA."
 ambito: nacional
-estado_citacoes: "conferidas 0 · corrigidas 0 · por conferir 10"
+estado_citacoes: "conferidas 0 · corrigidas 0 · por conferir 27"
+revisao_tecnica: "2026-10-28 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
 # Requerimento de Estatuto de Residência de Familiar de Cidadão da UE (País Terceiro)
 
 > **Âmbito:** nacional · **Área:** Direito dos Estrangeiros e Nacionalidade · **Código:** EST-020
-> **EN:** Application for Residence Status as a Family Member of an EU Citizen (Third-Country National). Generates an application for a residence card for a family member of an EU citizen who is a third-country national, grounded in Articles 19 et seq. of Decree-Law No. 3/2008, identifying the eligible family relationship and the documentation to be submitted to AIMA.
-> **Citações:** conferidas 0 · corrigidas 0 · por conferir 10. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **EN:** Application for Residence Status as a Family Member of an EU Citizen (Third-Country National). Generates an application for a residence card for a family member of an EU citizen who is a third-country national, grounded in Article 15 of Law No. 37/2006 of 9 August, identifying the eligible family relationship and the documentation to be submitted to AIMA.
+> **Citações:** conferidas 0 · corrigidas 0 · por conferir 27. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-28 — corrigida (13 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
-Gera um requerimento de cartão de residência para familiar de cidadão da União Europeia que seja nacional de um país terceiro, fundamentado no artigo 19.º e seguintes do Decreto-Lei n.º 3/2008, com identificação do vínculo familiar elegível e documentação necessária para apresentar na AIMA.
+Gera um requerimento de cartão de residência para familiar de cidadão da União Europeia que seja nacional de um país terceiro, fundamentado no artigo 15.º da Lei n.º 37/2006, de 9 de agosto, com identificação do vínculo familiar elegível e documentação necessária para apresentar na AIMA.
 
 ## Método
 
@@ -25,10 +27,10 @@ Ficha de trabalho para preparar este documento. As regras da casa prevalecem sob
 ## Regras obrigatórias
 - NUNCA confundas o regime de familiar de cidadão UE com o regime geral da Lei n.º 23/2007
 - Se faltarem dados, assinala [■ VERIFICAR: o que é necessário]
-- Distingue familiares elegíveis do Decreto-Lei n.º 3/2008: cônjuge, filhos menores, ascendentes dependentes
+- Distingue os familiares do art. 2.º, al. e), da Lei n.º 37/2006 (cônjuge; parceiro em união de facto ou em relação permanente certificada; descendentes diretos com menos de 21 anos ou a cargo, também do cônjuge ou parceiro; ascendentes diretos a cargo) dos outros familiares a cargo ou em comunhão de habitação, cuja entrada e residência é apenas facilitada (art. 3.º, n.º 2); o regime estende-se aos familiares de cidadãos portugueses (art. 3.º, n.º 5)
 - Usa português europeu rigoroso — sem brasileirismos
 - Inclui sempre a prova do estatuto do titular (cidadão UE) como documento principal
-- Aborda o direito de trabalhar em Portugal que o cartão de residência confere
+- Aborda o direito de trabalhar em Portugal (art. 19.º da Lei n.º 37/2006): decorre do direito de residência; o cartão é declarativo e a sua posse não é condição para exercer direitos (art. 21.º)
 
 ---
 
@@ -37,7 +39,7 @@ Ficha de trabalho para preparar este documento. As regras da casa prevalecem sob
 ### ETAPA 1 — PROBLEMATIZAÇÃO (Análise do Caso)
 Apresente dentro de um bloco <analise_do_caso>:
 - Identificação do familiar requerente e do titular cidadão UE
-- Vínculo familiar: cônjuge, filho menor, ascendente dependente, ou outro familiar dependente
+- Vínculo familiar: cônjuge, parceiro, descendente direto com menos de 21 anos ou a cargo, ascendente direto a cargo, ou outro familiar a cargo ou em comunhão de habitação (art. 3.º, n.º 2)
 - Situação do titular cidadão UE em Portugal: certificado de registo obtido? Categoria (trabalhador, estudante, etc.)
 - Documentação de estado civil disponível: certidão de casamento, certidão de nascimento — apostiladas?
 - Situação migratória atual do familiar (tem visto de curta duração, visto de residência, ou está irregular?)
@@ -45,13 +47,13 @@ Apresente dentro de um bloco <analise_do_caso>:
 
 ### ETAPA 2 — ANÁLISE JURÍDICA (Fundamentação)
 Apresente dentro de um bloco <fundamentos_juridicos>:
-- Art. 19.º do Decreto-Lei n.º 3/2008 — cartão de residência de familiar de cidadão UE
-- Art. 2.º do Decreto-Lei n.º 3/2008 — definição de "membros da família" (al. a) a d))
-- Art. 5.º — condições de entrada do familiar no território português
-- Art. 20.º — prazo de emissão do cartão de residência (6 meses)
-- Art. 18.º — residência permanente após 5 anos
-- Diretiva 2004/38/CE — proteção contra expulsão de familiar de cidadão UE
-- Art. 98.º da Lei n.º 23/2007 — pode haver sobreposição com o regime de reagrupamento familiar [■ VERIFICAR: qual regime é mais favorável]
+- Art. 15.º da Lei n.º 37/2006, de 9 de agosto — cartão de residência de familiar do cidadão da União nacional de Estado terceiro: pedido na AIMA no prazo de 30 dias após decorridos 3 meses da entrada (n.º 2), com emissão de certificado comprovativo do pedido (n.º 3) e os documentos do n.º 4
+- Art. 2.º, al. e), da Lei n.º 37/2006 — definição de «familiar» (subalíneas i) a iv)); art. 3.º, n.ºs 2 e 5 — outros familiares e familiares de cidadãos portugueses
+- Art. 4.º — entrada do familiar no território português (passaporte válido; visto só quando o direito da UE o exija, gratuito e com tramitação célere)
+- Art. 15.º, n.ºs 5 e 6 — emissão do cartão no prazo máximo de 3 meses, válido por 5 anos (ou pelo período previsto de residência do cidadão da União, se inferior)
+- Arts. 10.º, n.º 2, e 17.º — residência permanente após 5 anos consecutivos de residência legal com o cidadão da União e cartão de residência permanente
+- Arts. 22.º e seguintes da Lei n.º 37/2006 e Diretiva 2004/38/CE — o afastamento só por razões de ordem pública, segurança pública ou saúde pública
+- Art. 4.º, n.º 2, al. c), da Lei n.º 23/2007 — a lei geral, incluindo o reagrupamento familiar do art. 98.º, não se aplica aos familiares de cidadão português ou da União, salvo a título subsidiário
 
 ### ETAPA 3 — CONSTRUÇÃO ARGUMENTATIVA
 Apresente dentro de um bloco <estrategia>:
@@ -67,15 +69,15 @@ Redige o requerimento na seguinte estrutura:
 [Unidade competente para familiares de cidadãos UE]
 
 **REQUERIMENTO DE CARTÃO DE RESIDÊNCIA DE FAMILIAR DE CIDADÃO DA UNIÃO EUROPEIA**
-**Ao abrigo do artigo 19.º do Decreto-Lei n.º 3/2008, de 4 de janeiro**
+**Ao abrigo do artigo 15.º da Lei n.º 37/2006, de 9 de agosto**
 
-[NOME DO FAMILIAR], de nacionalidade [país terceiro], [estado civil], nascido/a em [data], titular do passaporte n.º [número], residente em [morada em Portugal], vem requerer a emissão do CARTÃO DE RESIDÊNCIA DE FAMILIAR DE CIDADÃO DA UNIÃO EUROPEIA, ao abrigo do artigo 19.º do Decreto-Lei n.º 3/2008, de 4 de janeiro, pelos seguintes fundamentos:
+[NOME DO FAMILIAR], de nacionalidade [país terceiro], [estado civil], nascido/a em [data], titular do passaporte n.º [número], residente em [morada em Portugal], vem requerer a emissão do CARTÃO DE RESIDÊNCIA DE FAMILIAR DE CIDADÃO DA UNIÃO EUROPEIA, ao abrigo do artigo 15.º da Lei n.º 37/2006, de 9 de agosto, pelos seguintes fundamentos:
 
 **I. DA IDENTIFICAÇÃO DO REQUERENTE**
 [Dados completos do familiar]
 
 **II. DO ENQUADRAMENTO LEGAL**
-[Art. 19.º do Decreto-Lei n.º 3/2008 — transcrição do preceito]
+[Arts. 7.º, n.º 2, e 15.º da Lei n.º 37/2006 — transcrição dos preceitos]
 
 **III. DA IDENTIFICAÇÃO DO TITULAR CIDADÃO DA UNIÃO EUROPEIA**
 Nome: [nome do titular UE]
@@ -86,14 +88,14 @@ Vínculo com o requerente: [cônjuge / filho/a / ascendente dependente]
 **IV. DO VÍNCULO FAMILIAR**
 [Prova documental do vínculo: certidão de casamento / certidão de nascimento / prova de dependência — todos apostilados/legalizados e traduzidos]
 
-**V. DA RESIDÊNCIA CONJUNTA EM PORTUGAL**
-[Comprovativo de residência conjunta: contrato de arrendamento, declaração de coabitação]
+**V. DA RESIDÊNCIA EM PORTUGAL**
+[Comprovativo de que acompanha o titular ou se lhe reúne em Portugal (art. 7.º, n.º 2, da Lei n.º 37/2006): morada em Portugal (contrato de arrendamento, declaração de alojamento); a coabitação não consta das condições legais nem dos documentos do art. 15.º, n.º 4]
 
 **VI. DOS DOCUMENTOS JUNTOS**
 [Lista numerada]
 
 **VII. DO PEDIDO**
-Requer-se a emissão do Cartão de Residência de Familiar de Cidadão da UE, ao abrigo do artigo 19.º do Decreto-Lei n.º 3/2008.
+Requer-se a emissão do Cartão de Residência de Familiar de Cidadão da UE, ao abrigo do artigo 15.º da Lei n.º 37/2006, de 9 de agosto.
 
 [Local e data]
 [Nome do advogado — Cédula OA n.º]
@@ -109,11 +111,11 @@ Requer-se a emissão do Cartão de Residência de Familiar de Cidadão da UE, ao
 - [ ] Passaporte válido (original e cópia integral)
 - [ ] Fotografia tipo passe
 - [ ] Certidão do vínculo familiar (casamento / nascimento) — apostilada/legalizada e traduzida
-- [ ] Comprovativo de residência conjunta com o titular UE em Portugal
-- [ ] Certificado de registo criminal do país de origem (apostilado, recente)
+- [ ] Comprovativo de morada em Portugal (a lei não exige coabitação com o titular)
+- [ ] [■ VERIFICAR: certificado de registo criminal — não consta dos documentos do art. 15.º, n.º 4, da Lei n.º 37/2006 e a consulta de antecedentes não pode ter caráter regular (art. 22.º, n.ºs 5 e 6); juntar só se a AIMA o pedir]
 - [ ] NIF (se já obtido)
 
-*Para ascendentes dependentes:*
+*Para descendentes com 21 anos ou mais e ascendentes a cargo (art. 15.º, n.º 4, al. d)):*
 - [ ] Declaração de dependência económica (documentada)
 - [ ] Extratos bancários do titular UE demonstrando suporte financeiro ao ascendente
 
@@ -121,11 +123,11 @@ Requer-se a emissão do Cartão de Residência de Familiar de Cidadão da UE, ao
 
 ### ETAPA 5 — FORMULAÇÃO FINAL (Validação)
 Apresente dentro de um bloco <checklist_validacao>:
-- [ ] Regime correto: Decreto-Lei n.º 3/2008 (não Lei n.º 23/2007)
+- [ ] Regime correto: Lei n.º 37/2006, de 9 de agosto (não Lei n.º 23/2007)
 - [ ] Titular cidadão UE com certificado de registo válido em Portugal
 - [ ] Vínculo familiar comprovado com documentos apostilados/legalizados e traduzidos
-- [ ] Residência conjunta com o titular UE demonstrada
-- [ ] Certificado de registo criminal do familiar
+- [ ] Acompanhamento ou reunião ao titular UE em Portugal demonstrado (art. 7.º, n.º 2)
+- [ ] Pedido feito na AIMA no prazo de 30 dias após decorridos 3 meses da entrada (art. 15.º, n.º 2) — o incumprimento é contraordenação punível com coima de 400 € a 1500 € (art. 30.º, n.º 1)
 - [ ] NIF do familiar (se já obtido)
 - [ ] Itens [■ VERIFICAR] sinalizados
 - [ ] Pontos que exigem atenção especial: [liste]
@@ -162,13 +164,30 @@ Apresente dentro de um bloco <checklist_validacao>:
 
 | Citação | Estado | Nota |
 |---|---|---|
-| Art. 19.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| Art. 19.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 2.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 3.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 3.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 3.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 3.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 19.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 21.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| Art. 15.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| Art. 15.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | Art. 2.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| Art. 5.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| Art. 20.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| Art. 18.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| Art. 98.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| artigo 19.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| artigo 19.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| artigo 19.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| Art. 4.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| Art. 4.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| Arts. 10.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| Arts. 22.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 98.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| artigo 15.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| artigo 15.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| artigo 15.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| Arts. 7.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 7.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 7.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 15.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 15.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 15.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 15.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 22.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 30.º | por conferir [■ VERIFICAR] | diploma não identificado |

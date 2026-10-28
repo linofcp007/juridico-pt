@@ -1,0 +1,333 @@
+[
+ {
+  "codigo": "SAU-009",
+  "veredicto": "corrigida",
+  "resumo": "A ficha remetia o acesso ao processo clínico para o art. 7.º da Lei n.º 15/2014 (que trata do direito à informação; o direito de acesso aos dados está no art. 5.º, n.º 3), indicava o art. 20.º da Lei n.º 58/2019 (dever de segredo) para os dados de saúde (art. 29.º) e apontava, contra entidade pública, uma «intimação para comportamento» que não existe no CPTA. Omitia a LADA e a CADA para o SNS e apresentava os 10 dias úteis como prazo de resposta quase legal. Acrescentaram-se o regime da LADA (art. 7.º e prazos dos arts. 15.º e 16.º), a intimação dos arts. 104.º e 105.º CPTA e o art. 17.º da Lei n.º 58/2019 para doentes falecidos; a advertência da carta passou a distinguir o prazo pedido do prazo legal.",
+  "substituicoes": [
+   {
+    "de": "- Cita a Lei n.º 12/2005 (informação genética pessoal e informação de saúde), a Lei n.º 15/2014 e o RGPD\n- Define prazo concreto de resposta (10 dias úteis é razoável para informação de saúde)",
+    "para": "- Cita a Lei n.º 12/2005 (informação genética pessoal e informação de saúde), a Lei n.º 15/2014 e o RGPD; se o estabelecimento for público (SNS, incluindo hospitais EPE), também a Lei n.º 26/2016 (LADA)\n- Define prazo concreto de resposta, sem o apresentar como prazo legal: a lei dá à entidade pública 10 dias (art. 15.º, n.º 1, da Lei n.º 26/2016) e ao responsável pelo tratamento um mês, prorrogável até dois meses (art. 12.º, n.º 3, do RGPD)",
+    "motivo": "Os 10 dias úteis não são prazo legal; os prazos legais são os da LADA (entidades públicas) e do RGPD.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2591A0015&nid=2591&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Lei n.º 12/2005, art. 3.º — princípio de que a informação de saúde pertence ao doente\n- Lei n.º 15/2014, art. 7.º — direito do utente ao acesso ao processo clínico",
+    "para": "- Lei n.º 12/2005, art. 3.º — a informação de saúde é propriedade da pessoa e as unidades de saúde são suas depositárias (n.º 1); o titular pode tomar conhecimento de todo o processo clínico ou fazê-lo comunicar a quem indicar, salvo circunstâncias excecionais em que se demonstre inequivocamente que isso o pode prejudicar (n.º 2); o acesso só é feito por intermédio de médico se o titular o pedir (n.º 3)\n- Lei n.º 15/2014, art. 5.º, n.º 3 — direito do utente de acesso aos dados pessoais recolhidos e de exigir a sua retificação",
+    "motivo": "O art. 7.º da Lei n.º 15/2014 trata do direito à informação sobre a situação clínica; o direito de acesso aos dados está no art. 5.º, n.º 3. Concretiza-se o art. 3.º da Lei n.º 12/2005, na redação da Lei n.º 26/2016.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2292A0005&nid=2292&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Lei n.º 58/2019 (execução do RGPD em Portugal), art. 20.º e ss. — dados de saúde como dados sensíveis\n- Prazo de resposta: 1 mês prorrogável por mais 2 meses (RGPD); na prática, 10 dias úteis é o prazo razoável para estabelecimentos de saúde\n- Consequências de recusa: queixa à CNPD, queixa à ERS, ação judicial de intimação para comportamento (CPTA) se for entidade pública",
+    "para": "- Lei n.º 58/2019 (execução do RGPD em Portugal), art. 29.º — tratamento de dados de saúde; art. 17.º — se o doente tiver falecido, os direitos de acesso são exercidos por quem ele tenha designado ou, na falta, pelos herdeiros\n- Entidade pública (SNS, incluindo hospitais EPE): Lei n.º 26/2016 (LADA), art. 7.º — o acesso de terceiros à informação de saúde só abrange a informação coberta pelo consentimento do titular (n.º 3) ou a estritamente necessária ao interesse direto, pessoal, legítimo e constitucionalmente protegido que o fundamenta (n.º 4)\n- Prazo de resposta: no RGPD, 1 mês, prorrogável até dois meses (art. 12.º, n.º 3); na entidade pública, 10 dias (art. 15.º, n.º 1, da LADA), prorrogáveis até dois meses em casos excecionais (n.º 4). Nos estabelecimentos privados não há prazo legal mais curto do que o do RGPD: os 10 dias úteis da carta são um pedido\n- Consequências de recusa: queixa à CNPD e queixa à ERS; se for entidade pública, queixa à CADA no prazo de 20 dias (art. 16.º, n.º 1, da LADA), que interrompe o prazo da intimação (n.º 2), e intimação para a prestação de informações, consulta de processos ou passagem de certidões, a requerer no prazo de 20 dias (arts. 104.º e 105.º CPTA)",
+    "motivo": "O art. 20.º da Lei n.º 58/2019 é o dever de segredo (dados de saúde: art. 29.º); faltavam a LADA e a CADA para o SNS; a «intimação para comportamento» não existe no CPTA — o meio é a intimação dos arts. 104.º e ss.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=439A0105&nid=439&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Consequências graduadas em caso de recusa: ERS → CNPD → tribunal",
+    "para": "- Consequências graduadas em caso de recusa: ERS → CNPD (e CADA, se for entidade pública) → tribunal",
+    "motivo": "Nas entidades públicas a queixa à CADA é o meio próprio e interrompe o prazo da intimação.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2591A0016&nid=2591&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "[Indicação do direito ao acesso com base na Lei n.º 12/2005, na Lei n.º 15/2014 e no RGPD; finalidade do acesso]",
+    "para": "[Indicação do direito ao acesso com base na Lei n.º 12/2005, na Lei n.º 15/2014 e no RGPD — e, se o estabelecimento for público, na Lei n.º 26/2016; se o doente tiver falecido, no art. 17.º da Lei n.º 58/2019, com prova da qualidade de herdeiro ou de pessoa designada; finalidade do acesso]",
+    "motivo": "O RGPD não se aplica diretamente aos dados de pessoas falecidas; os herdeiros exercem o acesso pelo art. 17.º da Lei n.º 58/2019.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=3118A0017&nid=3118&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "O incumprimento do presente pedido no prazo indicado implicará, sem mais aviso, a apresentação de queixa à Entidade Reguladora da Saúde (ERS), à Comissão Nacional de Proteção de Dados (CNPD) por violação do art. 15.º do RGPD, e, se necessário,",
+    "para": "O incumprimento do presente pedido implicará, sem mais aviso, a apresentação de queixa à Entidade Reguladora da Saúde (ERS) e, esgotado o prazo legal de resposta, à Comissão Nacional de Proteção de Dados (CNPD) por violação do art. 15.º do RGPD [se o doente tiver falecido: e do art. 17.º da Lei n.º 58/2019] [se o estabelecimento for público: e à Comissão de Acesso aos Documentos Administrativos (CADA), nos termos do art. 16.º da Lei n.º 26/2016], e, se necessário,",
+    "motivo": "Só há violação do art. 15.º do RGPD depois do prazo legal (art. 12.º, n.º 3), não dos 10 dias pedidos; acrescentam-se o caso do doente falecido e a CADA.",
+    "fonte": "https://publications.europa.eu/resource/celex/32016R0679"
+   },
+   {
+    "de": "- [ ] Fundamento legal correto (Lei n.º 12/2005, Lei n.º 15/2014, RGPD)",
+    "para": "- [ ] Fundamento legal correto (Lei n.º 12/2005, Lei n.º 15/2014, RGPD; LADA, se for entidade pública; art. 17.º da Lei n.º 58/2019, se o doente tiver falecido)",
+    "motivo": "Coerência com os fundamentos corrigidos.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2591A0007&nid=2591&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar a natureza do estabelecimento: nos hospitais EPE e demais entidades do SNS aplicam-se, a par do RGPD, a LADA (art. 4.º) e a via CADA/intimação; nos privados, o RGPD e a Lei n.º 12/2005.",
+   "Pedido de herdeiro ou de terceiro: juntar habilitação ou designação (art. 17.º da Lei n.º 58/2019) e, na entidade pública, demonstrar o interesse direto, pessoal, legítimo e constitucionalmente protegido (art. 7.º, n.º 4, da LADA).",
+   "A circular ou norma da DGS sobre o acesso ao processo clínico continua por identificar (o [■ VERIFICAR] mantém-se).",
+   "Os prazos de 20 dias da queixa à CADA e da intimação contam-se da falta de resposta, do indeferimento ou da satisfação parcial; confirmar a contagem no caso concreto."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1660A0003&nid=1660&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2292A0005&nid=2292&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2292A0007&nid=2292&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2591A0004&nid=2591&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2591A0007&nid=2591&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2591A0015&nid=2591&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2591A0016&nid=2591&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=3118A0017&nid=3118&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=3118A0029&nid=3118&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=439A0104&nid=439&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=439A0105&nid=439&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://publications.europa.eu/resource/celex/32016R0679"
+  ]
+ },
+ {
+  "codigo": "SAU-011",
+  "veredicto": "corrigida",
+  "resumo": "A ficha mandava citar o Decreto-Lei n.º 127/2009 como Estatutos da ERS, mas este foi revogado pelo Decreto-Lei n.º 126/2014, que aprova os Estatutos em vigor. Limitava a competência da ERS ao setor privado, às IPSS e a «algumas entidades do SNS», quando os Estatutos a estendem a todos os estabelecimentos dos setores público, privado, cooperativo e social (art. 4.º, n.º 2), com as exclusões do n.º 3. A morada indicada (Lisboa) não é a da ERS, cuja sede é no Porto; corrigiram-se a morada e o canal de submissão.",
+  "substituicoes": [
+   {
+    "de": "- A ERS regula estabelecimentos de saúde privados, IPSS e algumas entidades do SNS — verifica se tem competência no caso concreto\n- Cita o Decreto-Lei n.º 127/2009 (Estatutos da ERS) e a legislação substantiva violada",
+    "para": "- A ERS regula todos os estabelecimentos prestadores de cuidados de saúde dos setores público (incluindo o SNS), privado, cooperativo e social (art. 4.º, n.º 2, dos Estatutos da ERS) — verifica se o caso cabe nas exclusões do n.º 3: a atividade dos profissionais de saúde sujeita à disciplina da respetiva ordem profissional e a regulação específica do INFARMED\n- Cita os Estatutos da ERS, aprovados pelo Decreto-Lei n.º 126/2014, de 22 de agosto (que revogou o Decreto-Lei n.º 127/2009), e a legislação substantiva violada",
+    "motivo": "O DL 127/2009 foi revogado pelo DL 126/2014; a ERS regula também o setor público.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2194A0004&nid=2194&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Qual o estabelecimento em causa e a sua natureza (privado / IPSS / SNS em convenção)\n- Se a ERS tem competência regulatória sobre esta entidade",
+    "para": "- Qual o estabelecimento em causa e a sua natureza (público — SNS —, privado, cooperativo ou social, incluindo IPSS)\n- Se a ERS tem competência regulatória sobre esta entidade e sobre a matéria (a conduta do profissional sujeita à disciplina da sua ordem fica de fora)",
+    "motivo": "Os estabelecimentos do SNS estão sujeitos à ERS; a exclusão é a da matéria disciplinar dos profissionais (art. 4.º, n.º 3, al. a), dos Estatutos).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2194A0004&nid=2194&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Decreto-Lei n.º 127/2009 — Estatutos da ERS: competências de regulação e supervisão",
+    "para": "- Decreto-Lei n.º 126/2014 — Estatutos da ERS: âmbito (art. 4.º), defesa dos direitos dos utentes (art. 13.º), poderes sancionatórios (art. 22.º) e queixas e reclamações dos utentes (art. 30.º)",
+    "motivo": "Diploma revogado substituído pelos Estatutos em vigor, com os artigos relevantes para a queixa.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2194A0030&nid=2194&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "Rua São Sebastião da Pedreira, n.º 8, 1050-209 Lisboa\n[Ou submissão pelo portal www.ers.pt]",
+    "para": "Rua S. João de Brito, 621 L32, 4100-455 Porto\n[Ou submissão pelo formulário «Reclamações online» em www.ers.pt]",
+    "motivo": "A ERS tem sede no Porto (art. 3.º dos Estatutos); morada e canal confirmados no sítio oficial.",
+    "fonte": "https://ers.pt/pt/utentes/reclamacoes/"
+   },
+   {
+    "de": "Natureza: [clínica privada / hospital privado / IPSS / outro]",
+    "para": "Natureza: [hospital ou centro de saúde do SNS / clínica privada / hospital privado / IPSS / outro]",
+    "motivo": "Os estabelecimentos públicos também estão sujeitos à ERS.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2194A0004&nid=2194&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] ERS tem competência sobre o estabelecimento em causa (privado/IPSS)",
+    "para": "- [ ] ERS tem competência sobre o estabelecimento em causa (setor público, privado, cooperativo ou social) e sobre a matéria",
+    "motivo": "Coerência com o art. 4.º dos Estatutos da ERS.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2194A0004&nid=2194&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Natureza: [clínica privada / hospital privado / IPSS / clínica convencionada com SNS]",
+    "para": "- Natureza: [estabelecimento do SNS / clínica privada / hospital privado / IPSS / clínica convencionada com SNS]",
+    "motivo": "Os estabelecimentos públicos também estão sujeitos à ERS.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2194A0004&nid=2194&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Nos estabelecimentos do SNS a reclamação junto do prestador faz-se no Livro Amarelo (físico ou eletrónico); nos privados e sociais, no Livro de Reclamações; a queixa pode também ser apresentada diretamente à ERS.",
+   "Se a queixa visar a conduta técnica ou deontológica de um médico, a competência disciplinar é da Ordem dos Médicos (art. 4.º, n.º 3, al. a), dos Estatutos da ERS).",
+   "Confirmar a norma ou regulamento da ERS e a norma da DGS aplicáveis ao tipo de violação (os [■ VERIFICAR] mantêm-se)."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2194&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2194A0003&nid=2194&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2194A0004&nid=2194&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2194A0030&nid=2194&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://ers.pt/pt/utentes/reclamacoes/",
+   "https://www.ers.pt/",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2292A0009&nid=2292&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+  ]
+ },
+ {
+  "codigo": "SAU-015",
+  "veredicto": "corrigida",
+  "resumo": "A ficha media a perícia pela Portaria n.º 679/2009, que não é a tabela de avaliação de incapacidades: em direito civil, a tabela é a do Anexo II do DL n.º 352/2007, que pontua a incapacidade permanente em pontos (a IPP e a tabela do Anexo I são do direito do trabalho). Atribuía ao art. 486.º CPC a força probatória da perícia (é o art. 389.º CC; o 486.º trata da comparência dos peritos) e aos arts. 149.º e 150.º CPC o contraditório (as reclamações contra o relatório estão no art. 485.º CPC). Acrescentou-se o prazo de 10 dias da segunda perícia (art. 487.º, n.º 1, CPC).",
+  "substituicoes": [
+   {
+    "de": "- Art. 486.º CPC — força probatória da prova pericial (julgamento de facto pelo tribunal — o perito aconselha, não decide)\n- Art. 487.º CPC — esclarecimentos e segunda perícia\n- Portaria n.º 679/2009 — tabela nacional de avaliação de incapacidades (referência para IPP, QD, DE)",
+    "para": "- Art. 389.º CC — força probatória da prova pericial, fixada livremente pelo tribunal (o perito aconselha, não decide)\n- Art. 485.º CPC — reclamações contra o relatório (deficiência, obscuridade, contradição ou falta de fundamentação das conclusões); Art. 486.º CPC — comparência dos peritos na audiência final para prestar esclarecimentos\n- Art. 487.º CPC — segunda perícia, a requerer no prazo de 10 dias a contar do conhecimento do resultado da primeira, alegando fundadamente as razões da discordância\n- Tabela Nacional para Avaliação de Incapacidades Permanentes em Direito Civil (Anexo II do DL n.º 352/2007) — referência para a incapacidade permanente, em pontos (défice funcional permanente da integridade físico-psíquica); a IPP e a tabela do Anexo I são do direito do trabalho",
+    "motivo": "A força probatória da perícia está no art. 389.º CC; os esclarecimentos estão nos arts. 485.º e 486.º CPC; a tabela civil é o Anexo II do DL 352/2007, não a Portaria 679/2009.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1179&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Direito de contraditar a prova pericial: art. 149.º e 150.º CPC (perito de parte / contraditório)",
+    "para": "- Direito de contraditar a prova pericial: reclamações contra o relatório (art. 485.º CPC), no prazo geral de 10 dias (art. 149.º, n.º 1, CPC); perícia colegial, com um perito escolhido por cada parte (art. 468.º CPC; nas perícias médico-legais, conjugar com o diploma para que remete o art. 467.º, n.º 3, CPC)",
+    "motivo": "O art. 149.º CPC só fixa o prazo geral e o art. 150.º não trata da perícia; a reclamação está no art. 485.º e o perito de parte na perícia colegial do art. 468.º.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0485&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- IPP: o valor está fundamentado na Portaria n.º 679/2009?",
+    "para": "- Incapacidade permanente: a pontuação está fundamentada na Tabela Nacional para Avaliação de Incapacidades Permanentes em Direito Civil (Anexo II do DL n.º 352/2007), com os motivos de cada desvio às pontuações da tabela (art. 2.º, n.º 3, do mesmo diploma)?",
+    "motivo": "A tabela civil é a do Anexo II do DL 352/2007, que obriga o perito a fundamentar os desvios.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1179A0002&nid=1179&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] IPP e demais parâmetros fundamentados na Portaria n.º 679/2009",
+    "para": "- [ ] Incapacidade permanente fundamentada no Anexo II do DL n.º 352/2007 (com os desvios justificados) e demais parâmetros explicados",
+    "motivo": "Mesmo erro de diploma na checklist.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1179&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- IPP: [percentagem]%",
+    "para": "- Incapacidade permanente (défice funcional permanente da integridade físico-psíquica): [pontos] (em processo laboral: IPP, pela tabela do Anexo I do DL n.º 352/2007)",
+    "motivo": "Em direito civil a incapacidade permanente pontua-se em pontos pelo Anexo II; a IPP é conceito laboral.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1179&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "A Portaria n.º 377/2008 (alterada pela Portaria n.º 679/2009) fixa critérios para a proposta razoável das seguradoras no seguro automóvel e não vincula o tribunal; confirmar no Diário da República se interessa ao caso (não foi possível ler o texto oficial).",
+   "Os parâmetros quantum doloris e dano estético (escala de 1 a 7), repercussão nas atividades desportivas e de lazer e os períodos temporários seguem a metodologia do INMLCF; confirmar a terminologia do relatório concreto.",
+   "O prazo de 10 dias para reclamar do relatório conta-se da notificação da sua apresentação (art. 485.º, n.º 1, e art. 149.º CPC)."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0388&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0389&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0467&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0468&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0485&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0486&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0487&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0149&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1179&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1179A0002&nid=1179&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+  ]
+ },
+ {
+  "codigo": "SAU-016",
+  "veredicto": "corrigida",
+  "resumo": "O texto do requerimento invocava os «arts. 388.º e 476.º do Código de Processo Civil» e a checklist o «art. 388.º CPC»: a noção de prova pericial é do art. 388.º do Código Civil e o requerimento assenta nos arts. 467.º e 475.º CPC (indicação do objeto, sob pena de rejeição). O quesito 6 pedia a IPP segundo a Portaria n.º 679/2009, quando a perícia civil pontua a incapacidade permanente pelo Anexo II do DL n.º 352/2007, e o quesito 1 pedia ao perito o juízo jurídico de «causa adequada». Acrescentou-se o prazo de 10 dias da segunda perícia.",
+  "substituicoes": [
+   {
+    "de": "- Art. 487.º CPC — segunda perícia (quando a primeira for insuficiente ou contraditória)",
+    "para": "- Art. 487.º CPC — segunda perícia, a requerer no prazo de 10 dias a contar do conhecimento do resultado da primeira, alegando fundadamente as razões da discordância",
+    "motivo": "Faltava o prazo legal e o pressuposto é a discordância fundamentada.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0487&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Art. 388.º n.º 1 CPC — quando a perceção ou apreciação dos factos exige especiais conhecimentos técnicos",
+    "para": "- Art. 388.º CC — a prova pericial tem por fim a perceção ou apreciação de factos quando sejam necessários conhecimentos especiais que os julgadores não possuem",
+    "motivo": "A regra é do art. 388.º do Código Civil; o art. 388.º CPC trata de outra matéria.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0388&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "vem, nos termos dos arts. 388.º e 476.º do Código de Processo Civil, requerer",
+    "para": "vem, nos termos do art. 388.º do Código Civil e dos arts. 467.º e 475.º do Código de Processo Civil, requerer",
+    "motivo": "Base legal errada no texto a entregar: a perícia requer-se nos termos dos arts. 467.º e 475.º CPC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0475&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "1. O ato médico descrito nos autos (a saber: [descrição]) foi causa adequada, no todo ou em parte, dos danos sofridos pelo/a requerente?",
+    "para": "1. Do ponto de vista médico, existe nexo de causalidade entre o ato médico descrito nos autos (a saber: [descrição]) e os danos sofridos pelo/a requerente, no todo ou em parte? Com que grau de probabilidade?",
+    "motivo": "A perícia incide sobre factos (art. 388.º CC); a causalidade adequada é juízo jurídico do tribunal.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0388&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "6. Qual o grau de Incapacidade Permanente Parcial (IPP), de acordo com a Portaria n.º 679/2009?",
+    "para": "6. Qual a incapacidade permanente do/a requerente (défice funcional permanente da integridade físico-psíquica), em pontos, segundo a Tabela Nacional para Avaliação de Incapacidades Permanentes em Direito Civil (Anexo II do Decreto-Lei n.º 352/2007)?",
+    "motivo": "A tabela civil é a do Anexo II do DL 352/2007; a Portaria 679/2009 não é tabela de avaliação e a IPP é conceito laboral.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1179&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- [ ] Necessidade da perícia juridicamente fundamentada (art. 388.º CPC)",
+    "para": "- [ ] Necessidade da perícia juridicamente fundamentada (art. 388.º CC) e objeto indicado com as questões de facto a esclarecer, sob pena de rejeição (art. 475.º, n.º 1, CPC)",
+    "motivo": "O art. 388.º é do Código Civil; a indicação do objeto é requisito do requerimento.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0475&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "O quesito 10 usa a terminologia antiga (ITT/ITP); nos relatórios de direito civil do INMLCF fala-se em défice funcional temporário e repercussão temporária na atividade profissional — ajustar ao modelo usado no tribunal.",
+   "Nas perícias médico-legais, a realização cabe aos serviços médico-legais ou a peritos médicos contratados (art. 467.º, n.º 3, CPC); confirmar no diploma que as regula as regras sobre perícia colegial e perito indicado pela parte.",
+   "Confirmar o momento processual do requerimento (com os articulados ou na audiência prévia) e a resposta da parte contrária sobre o objeto (art. 476.º, n.º 1, CPC)."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0388&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0467&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0468&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0475&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0476&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0487&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1179&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1179A0002&nid=1179&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+  ]
+ },
+ {
+  "codigo": "SAU-019",
+  "veredicto": "corrigida",
+  "resumo": "A ficha citava a Lei n.º 67/98, revogada pela Lei n.º 58/2019, e mandava aplicar um «Código do Consumidor» que não existe (o regime é a Lei n.º 24/96 e o DL n.º 446/85). No contrato, o consentimento remetia para os arts. 9.º a 13.º da Lei n.º 15/2014 (está no art. 3.º), as reclamações para o art. 5.º (estão no art. 9.º), a portabilidade para os arts. 15.º a 18.º do RGPD (está no art. 20.º) e o sigilo para um art. 70.º do Código Deontológico que não se confirmou. A cláusula de foro na comarca do prestador deu lugar às regras legais, por ser ineficaz nas ações de cumprimento contra o doente e poder ser proibida pela LCCG; precisou-se que a LCCG proíbe em absoluto qualquer limitação da responsabilidade por danos à saúde, e não só a exclusão total.",
+  "substituicoes": [
+   {
+    "de": "- Distingue o contrato com o doente (relação de consumo — aplica-se o Código do Consumidor) do contrato B2B",
+    "para": "- Distingue o contrato com o doente (relação de consumo — aplica-se a Lei de Defesa do Consumidor, Lei n.º 24/96, e, nas cláusulas pré-elaboradas, o DL n.º 446/85; não há Código do Consumidor em vigor) do contrato B2B",
+    "motivo": "Não existe Código do Consumidor em vigor; o regime é a Lei 24/96 e a LCCG.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=726&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Respeita as limitações deontológicas (proibição de cláusulas que excluam totalmente a responsabilidade)",
+    "para": "- Respeita as limitações legais e deontológicas (são absolutamente proibidas as cláusulas que excluam ou limitem a responsabilidade por danos à vida, à integridade física ou moral ou à saúde — art. 18.º, al. a), do DL n.º 446/85)",
+    "motivo": "A proibição abrange também a limitação parcial da responsabilidade por danos à saúde.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=837A0019&nid=837&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Lei n.º 67/98 (proteção de dados) e RGPD — tratamento de dados de saúde",
+    "para": "- RGPD e Lei n.º 58/2019, que revogou a Lei n.º 67/98 (art. 66.º, n.º 1) — tratamento de dados de saúde (art. 29.º da Lei n.º 58/2019)",
+    "motivo": "A Lei 67/98 foi revogada pela Lei 58/2019.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=3118A0066&nid=3118&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Cláusulas abusivas — Decreto-Lei n.º 446/85 (LCCG): exclusão de responsabilidade total é cláusula negra",
+    "para": "- Cláusulas abusivas — Decreto-Lei n.º 446/85 (LCCG): é absolutamente proibida qualquer cláusula que exclua ou limite, direta ou indiretamente, a responsabilidade por danos à vida, à integridade física ou moral ou à saúde, ou por incumprimento com dolo ou culpa grave (art. 18.º, als. a) e c)); com consumidores aplicam-se também os arts. 21.º e 22.º (art. 20.º); é proibida a cláusula de foro que cause graves inconvenientes ao doente sem que os interesses do prestador o justifiquem (art. 19.º, al. g))",
+    "motivo": "Não só a exclusão total: qualquer limitação da responsabilidade por danos à saúde é absolutamente proibida; acrescenta-se a regra do foro.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=837A0019&nid=837&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Sigilo profissional: art. 70.º do Código Deontológico + art. 195.º CP (violação de sigilo)",
+    "para": "- Sigilo profissional: Código Deontológico da Ordem dos Médicos (Regulamento n.º 707/2016) [■ VERIFICAR: artigos do segredo médico no texto em vigor — indicados como arts. 29.º e ss.] + art. 195.º CP (violação de segredo)",
+    "motivo": "Não se confirmou que o art. 70.º do Código Deontológico em vigor trate do segredo médico; fontes secundárias situam-no nos arts. 29.º e ss.",
+    "fonte": ""
+   },
+   {
+    "de": "nos termos dos arts. 9.º a 13.º da Lei n.º 15/2014.",
+    "para": "nos termos do art. 3.º da Lei n.º 15/2014.",
+    "motivo": "O consentimento está no art. 3.º; os arts. 9.º a 13.º tratam de reclamações, associação, menores e acompanhamento.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2292A0003&nid=2292&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "nos termos do art. 70.º do Código Deontológico da Ordem dos Médicos e do art. 195.º do Código Penal.",
+    "para": "nos termos do Código Deontológico da Ordem dos Médicos [■ VERIFICAR: artigos do segredo médico — arts. 29.º e ss. do Regulamento n.º 707/2016] e do art. 195.º do Código Penal.",
+    "motivo": "Artigo do Código Deontológico não confirmado.",
+    "fonte": ""
+   },
+   {
+    "de": "6.3 — O Utente tem direito de acesso, retificação e portabilidade dos seus dados (RGPD arts. 15.º a 18.º).",
+    "para": "6.3 — O Utente tem direito de acesso, retificação e portabilidade dos seus dados, nos termos e com os limites dos arts. 15.º, 16.º e 20.º do RGPD.",
+    "motivo": "A portabilidade está no art. 20.º do RGPD; os arts. 17.º e 18.º tratam do apagamento e da limitação.",
+    "fonte": "https://publications.europa.eu/resource/celex/32016R0679"
+   },
+   {
+    "de": "ao abrigo do art. 5.º da Lei n.º 15/2014",
+    "para": "ao abrigo do art. 9.º da Lei n.º 15/2014",
+    "motivo": "As queixas e reclamações estão no art. 9.º; o art. 5.º trata dos dados pessoais.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2292A0009&nid=2292&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "Para a resolução de litígios é competente o tribunal da comarca de [comarca], sem prejuízo do recurso a meios alternativos de resolução de litígios (RAL).",
+    "para": "Para a resolução de litígios é competente o tribunal determinado pelas regras gerais de competência do Código de Processo Civil, sem prejuízo do recurso a meios alternativos de resolução de litígios (RAL).\n[Nota: no contrato com o doente não se fixa foro — o pacto não afasta o tribunal do domicílio do réu nas ações de cumprimento e de indemnização por incumprimento (arts. 71.º, n.º 1, 95.º, n.º 1, e 104.º, n.º 1, al. a), CPC) e a cláusula de foro com graves inconvenientes para o consumidor é proibida (art. 19.º, al. g), da LCCG)]",
+    "motivo": "O pacto de foro não pode afastar o domicílio do réu nas ações de cumprimento (arts. 95.º e 104.º CPC) e pode ser proibido pela LCCG.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0104&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar no Diário da República (Regulamento n.º 707/2016, alterado pelo Regulamento n.º 498/2020) os artigos do Código Deontológico sobre o segredo médico.",
+   "A cláusula 7.1 chama «resolução» à cessação por aviso prévio de um contrato de duração indeterminada, que é denúncia (ou revogação, se se aplicarem as regras do mandato por via do art. 1156.º CC); rever a terminologia.",
+   "A afirmação de que as cláusulas contrárias à deontologia «são nulas» não tem norma indicada; confirmar o fundamento (por exemplo, art. 280.º CC) antes de a usar.",
+   "Informar o doente das entidades de RAL disponíveis (Lei n.º 144/2015) e do Livro de Reclamações, se o prestador for privado."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2292A0003&nid=2292&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2292A0005&nid=2292&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2292A0009&nid=2292&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=3118A0029&nid=3118&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=3118A0066&nid=3118&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://publications.europa.eu/resource/celex/32016R0679",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=726&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=837A0019&nid=837&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=837A0020&nid=837&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0071&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0095&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0104&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+  ]
+ }
+]

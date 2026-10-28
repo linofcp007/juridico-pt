@@ -3,20 +3,22 @@ codigo: SAU-045
 area: "Direito da Saúde e Responsabilidade Médica"
 titulo: "Conformidade Jurídica de Clínica Privada — Checklist e Auditoria"
 titulo_en: "Legal Compliance of a Private Clinic — Checklist and Audit"
-descricao: "Realiza uma auditoria jurídica completa de conformidade de uma clínica privada ou centro de diagnóstico, verificando o licenciamento (ERS, DL 76/2013 / Portaria 153/2017), os requisitos da Lei n.º 15/2014 (direitos do utente), as obrigações do RGPD em saúde, o CDOM, o seguro de responsabilidade civil profissional e os contratos de trabalho com profissionais de saúde. Produz relatório de não conformidades e plano de ação."
-descricao_en: "Carries out a full legal compliance audit of a private clinic or diagnostic centre, checking licensing (ERS, Decree-Law 76/2013 / Ministerial Order 153/2017), the requirements of Law No. 15/2014 (users' rights), GDPR obligations in healthcare, the CDOM, professional civil liability insurance and employment contracts with health professionals. It produces a non-compliance report and an action plan."
+descricao: "Realiza uma auditoria jurídica completa de conformidade de uma clínica privada ou centro de diagnóstico, verificando o licenciamento (licença de funcionamento da ERS, DL 127/2014 e portarias de requisitos por tipologia), os requisitos da Lei n.º 15/2014 (direitos do utente), as obrigações do RGPD em saúde, o CDOM, o seguro de responsabilidade civil profissional e os contratos de trabalho com profissionais de saúde. Produz relatório de não conformidades e plano de ação."
+descricao_en: "Carries out a full legal compliance audit of a private clinic or diagnostic centre, checking licensing (ERS operating licence, Decree-Law 127/2014 and the ministerial orders setting the requirements for each type of establishment), the requirements of Law No. 15/2014 (users' rights), GDPR obligations in healthcare, the CDOM, professional civil liability insurance and employment contracts with health professionals. It produces a non-compliance report and an action plan."
 ambito: nacional
-estado_citacoes: "conferidas 7 · corrigidas 0 · por conferir 3"
+estado_citacoes: "conferidas 10 · corrigidas 0 · por conferir 7"
+revisao_tecnica: "2026-10-28 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
 # Conformidade Jurídica de Clínica Privada — Checklist e Auditoria
 
 > **Âmbito:** nacional · **Área:** Direito da Saúde e Responsabilidade Médica · **Código:** SAU-045
-> **EN:** Legal Compliance of a Private Clinic — Checklist and Audit. Carries out a full legal compliance audit of a private clinic or diagnostic centre, checking licensing (ERS, Decree-Law 76/2013 / Ministerial Order 153/2017), the requirements of Law No. 15/2014 (users' rights), GDPR obligations in healthcare, the CDOM, professional civil liability insurance and employment contracts with health professionals. It produces a non-compliance report and an action plan.
-> **Citações:** conferidas 7 · corrigidas 0 · por conferir 3. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **EN:** Legal Compliance of a Private Clinic — Checklist and Audit. Carries out a full legal compliance audit of a private clinic or diagnostic centre, checking licensing (ERS operating licence, Decree-Law 127/2014 and the ministerial orders setting the requirements for each type of establishment), the requirements of Law No. 15/2014 (users' rights), GDPR obligations in healthcare, the CDOM, professional civil liability insurance and employment contracts with health professionals. It produces a non-compliance report and an action plan.
+> **Citações:** conferidas 10 · corrigidas 0 · por conferir 7. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-28 — corrigida (3 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
-Realiza uma auditoria jurídica completa de conformidade de uma clínica privada ou centro de diagnóstico, verificando o licenciamento (ERS, DL 76/2013 / Portaria 153/2017), os requisitos da Lei n.º 15/2014 (direitos do utente), as obrigações do RGPD em saúde, o CDOM, o seguro de responsabilidade civil profissional e os contratos de trabalho com profissionais de saúde. Produz relatório de não conformidades e plano de ação.
+Realiza uma auditoria jurídica completa de conformidade de uma clínica privada ou centro de diagnóstico, verificando o licenciamento (licença de funcionamento da ERS, DL 127/2014 e portarias de requisitos por tipologia), os requisitos da Lei n.º 15/2014 (direitos do utente), as obrigações do RGPD em saúde, o CDOM, o seguro de responsabilidade civil profissional e os contratos de trabalho com profissionais de saúde. Produz relatório de não conformidades e plano de ação.
 
 ## Método
 
@@ -31,17 +33,17 @@ Ficha de trabalho para preparar este documento. As regras da casa prevalecem sob
 
 ### ETAPA 1 — LICENCIAMENTO E AUTORIZAÇÃO
 Apresenta em <licenciamento>:
-- Alvará ERS em vigor (DL 76/2013 / Portaria 153/2017)
-- Licença de utilização / autorização de funcionamento
+- Licença de funcionamento emitida pela ERS para cada tipologia exercida, afixada em local bem visível (arts. 2.º, 9.º e 11.º do DL 127/2014, que revogou o DL 279/2009; requisitos técnicos nas portarias de cada tipologia). A Portaria 153/2017 não regula o licenciamento: fixa os TMRG do SNS
+- Título de utilização do edifício ou fração compatível com a prestação de cuidados de saúde (art. 7.º, n.º 1, DL 127/2014; arts. 62.º e ss. RJUE, que desde o DL 10/2024 sujeitam a utilização a comunicação prévia ou a comunicação prévia com prazo) [■ VERIFICAR: regime aplicável ao imóvel, na redação dada pelo DL 108/2026]
 - Diretor clínico com especialidade adequada e inscrição ativa na Ordem
 - Registo na ERS atualizado (mudanças de instalações, serviços, direção clínica)
 - Legalização de equipamentos médicos (marcação CE; registo INFARMED para dispositivos médicos)
 
 ### ETAPA 2 — DIREITOS DOS UTENTES (LEI 15/2014)
 Apresenta em <direitos_utentes>:
-- Formulários de consentimento informado específicos por tipo de ato (arts. 5.º e 6.º)
+- Formulários de consentimento informado específicos por tipo de ato (art. 3.º Lei 15/2014)
 - Livro de reclamações (físico e eletrónico) — DL 156/2005
-- Acesso ao processo clínico: procedimento documentado, prazo de 10 dias úteis (art. 4.º)
+- Acesso ao processo clínico: procedimento documentado (art. 3.º, n.os 2 e 3, da Lei 12/2005; art. 15.º RGPD), com resposta sem demora injustificada e no prazo de um mês, prorrogável até dois meses (art. 12.º, n.º 3, RGPD). O prazo de 10 dias do art. 15.º da LADA (Lei 26/2016) só vale para as entidades abrangidas pelo art. 4.º da mesma lei, não, em regra, para uma clínica privada
 - Informação ao utente: carta de serviços, tabela de preços visível
 - Direito ao acompanhante (art. 12.º)
 - Sigilo médico: procedimentos internos
@@ -85,9 +87,16 @@ Apresenta em <relatorio_nao_conformidades>:
 
 | Citação | Estado | Nota |
 |---|---|---|
-| arts. 5.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| art. 4.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| arts. 2.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 7.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| arts. 62.º e ss. RJUE | conferida (epígrafe) — Âmbito |  |
+| art. 3.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 3.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 15.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 15.º RGPD | conferida (epígrafe) — Direito de acesso do titular dos dados |  |
+| art. 12.º, n.º 3, RGPD | conferida (epígrafe) — Transparência das informações, das comunicações e das regras para exercício dos direitos d |  |
 | art. 12.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 4.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 13.º RGPD | conferida (índice) |  |
 | art. 30.º RGPD | conferida (epígrafe) — Registos das atividades de tratamento |  |
 | art. 9.º, n.º 2, al. h), RGPD | conferida (epígrafe) — Tratamento de categorias especiais de dados pessoais |  |

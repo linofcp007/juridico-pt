@@ -1,0 +1,693 @@
+[
+ {
+  "codigo": "CIV-028",
+  "veredicto": "corrigida",
+  "resumo": "A ficha dava a interpelação extrajudicial como causa de interrupção da prescrição, apresentava a caducidade como sempre de conhecimento oficioso, atribuía ao art. 498.º, n.º 3, CC um prazo de um ano e ao art. 917.º CC um prazo de um ano, e descrevia o art. 317.º CC como «responsabilidade de profissionais». Corrigi segundo os arts. 303.º, 304.º, 316.º a 327.º, 333.º, 498.º e 916.º-917.º CC: interrupção só por citação ou notificação judicial (incluindo a notificação judicial avulsa), compromisso arbitral ou reconhecimento; caducidade oficiosa só em matéria indisponível; prescrições presuntivas ilidíveis só por confissão; novo prazo após citação só depois do trânsito em julgado.",
+  "substituicoes": [
+   {
+    "de": "extingue o direito de ação por inércia; pode ser interrompida (recomeça do zero) ou suspensa (fica parada); deve ser invocada pela parte.",
+    "para": "completado o prazo, o beneficiário tem a faculdade de recusar o cumprimento ou de se opor ao exercício do direito prescrito (art. 304.º, n.º 1, CC), mas não pode ser repetida a prestação realizada espontaneamente (n.º 2); pode ser interrompida (recomeça do zero) ou suspensa (fica parada); o tribunal não a supre de ofício: tem de ser invocada, judicial ou extrajudicialmente, por quem dela beneficia (art. 303.º CC).",
+    "motivo": "A prescrição não extingue o «direito de ação»: dá ao beneficiário a faculdade de recusar o cumprimento (art. 304.º CC) e tem de ser invocada (art. 303.º CC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0304&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "em geral não se suspende nem interrompe; conhecida oficiosamente pelo tribunal.",
+    "para": "não se suspende nem se interrompe senão nos casos em que a lei o determine (art. 328.º CC); em direito disponível, o reconhecimento do direito impede-a (art. 331.º, n.º 2, CC); só é apreciada oficiosamente pelo tribunal quando estabelecida em matéria excluída da disponibilidade das partes — nos restantes casos tem de ser invocada (art. 333.º CC).",
+    "motivo": "A caducidade só é de conhecimento oficioso em matéria excluída da disponibilidade das partes (art. 333.º CC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0333&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "2 anos (art. 317.º CC), 1 ano (arts. 287.º, 498.º n.º 3 CC).",
+    "para": "2 anos (art. 317.º CC) e 6 meses (art. 316.º CC), prescrições presuntivas, 1 ano para arguir a anulabilidade, prazo de caducidade (art. 287.º, n.º 1, CC); se o facto ilícito constituir crime com prescrição mais longa, é esta a aplicável à indemnização (art. 498.º, n.º 3, CC).",
+    "motivo": "O art. 498.º, n.º 3, CC não fixa um prazo de um ano: manda aplicar o prazo mais longo da prescrição do crime; os 2 anos do art. 317.º CC são prescrição presuntiva.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0498&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "— Causas de interrupção: citação judicial, reconhecimento do direito pelo devedor, interpelação (art. 323.º CC).",
+    "para": "— Causas de interrupção: citação ou notificação judicial de qualquer ato que exprima a intenção de exercer o direito, incluindo a notificação judicial avulsa (art. 323.º, n.ºs 1 e 4, CC — se a citação não se fizer nos 5 dias seguintes ao requerimento, por causa não imputável ao requerente, a prescrição tem-se por interrompida decorridos esses 5 dias, n.º 2), compromisso arbitral (art. 324.º CC) e reconhecimento do direito por aquele contra quem pode ser exercido (art. 325.º CC). A interpelação extrajudicial (carta, email) não interrompe a prescrição.",
+    "motivo": "A interpelação extrajudicial não interrompe a prescrição; só a citação ou notificação judicial (ou meio judicial equiparado), o compromisso arbitral e o reconhecimento (arts. 323.º a 325.º CC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0323&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "— Causas de suspensão: relação conjugal, parentesco, menoridade (arts. 318.º e ss. CC).",
+    "para": "— Causas de suspensão: entre cônjuges, entre quem exerça o poder paternal e as pessoas a ele sujeitas, entre tutor e tutelado ou curador e curatelado e os demais casos do art. 318.º CC (não o parentesco em geral); contra menores e maiores acompanhados sem quem os represente (art. 320.º CC); força maior ou dolo do obrigado nos últimos três meses do prazo (art. 321.º CC).",
+    "motivo": "O art. 318.º CC não prevê o parentesco em geral como causa de suspensão; a menoridade e a força maior estão nos arts. 320.º e 321.º CC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0318&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Causas de interrupção ocorridas (citação, reconhecimento, interpelação)",
+    "para": "- Causas de interrupção ocorridas (citação ou notificação judicial, incluindo a notificação judicial avulsa, compromisso arbitral, reconhecimento do direito — a interpelação extrajudicial não interrompe)",
+    "motivo": "A interpelação extrajudicial não interrompe a prescrição (arts. 323.º a 325.º CC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0323&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Art. 317.º CC (prazo de 2 anos — responsabilidade de profissionais, comerciantes)",
+    "para": "- Art. 317.º CC (prescrição presuntiva de 2 anos — créditos de estabelecimentos de ensino, educação, assistência ou tratamento, de comerciantes por vendas a quem não seja comerciante, de quem exerça profissionalmente uma indústria e de profissões liberais; funda-se na presunção de cumprimento, que só a confissão do devedor ilide — arts. 312.º a 314.º CC; 6 meses para alojamento, comidas ou bebidas — art. 316.º CC)",
+    "motivo": "O art. 317.º CC não regula a responsabilidade de profissionais: prevê prescrições presuntivas de créditos, ilidíveis só por confissão (arts. 312.º a 314.º CC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0316&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Arts. 323.º e ss. CC (interrupção: citação, reconhecimento, interpelação)",
+    "para": "- Arts. 323.º a 325.º CC (interrupção: citação ou notificação judicial, incluindo a notificação judicial avulsa; compromisso arbitral; reconhecimento do direito — a interpelação extrajudicial não interrompe)",
+    "motivo": "A interpelação extrajudicial não está entre as causas de interrupção (arts. 323.º a 325.º CC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0323&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Art. 326.º CC (efeito da interrupção — reinício do prazo)",
+    "para": "- Arts. 326.º e 327.º CC (efeito da interrupção — inutiliza o tempo decorrido e começa a correr novo prazo; se a interrupção resultar de citação, notificação ou ato equiparado, o novo prazo só começa a correr depois de passar em julgado a decisão que puser termo ao processo, salvo desistência, absolvição ou deserção da instância)",
+    "motivo": "Na interrupção por citação, o novo prazo não corre logo: só após o trânsito em julgado da decisão que puser termo ao processo (art. 327.º CC) — decisivo para a contagem.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0326&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Arts. 328.º a 333.º CC (caducidade — prazo fatal, conhecimento oficioso)",
+    "para": "- Arts. 328.º a 333.º CC (caducidade — não se suspende nem se interrompe salvo previsão legal; conhecimento oficioso só em matéria excluída da disponibilidade das partes, art. 333.º CC)",
+    "motivo": "A caducidade só é de conhecimento oficioso em matéria indisponível (art. 333.º CC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0333&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "art. 917.º CC (1 ano — garantia de vício em venda), prazo cambiário (3 anos — art. 70.º LULL)",
+    "para": "art. 917.º CC (caducidade da ação de anulação por vício da coisa vendida, se a denúncia não for feita nos prazos do art. 916.º CC — 30 dias depois de conhecido o defeito e 6 meses após a entrega; 1 e 5 anos nos imóveis — ou decorridos 6 meses sobre a denúncia) [■ VERIFICAR: na venda a consumidor, os prazos próprios do DL n.º 84/2021], prazo cambiário (3 anos — art. 70.º LULL — nas ações contra o aceitante, a contar do vencimento) [■ VERIFICAR: prazos mais curtos das ações de regresso no art. 70.º LULL]",
+    "motivo": "O art. 917.º CC não fixa um prazo de um ano: a ação caduca sem denúncia nos prazos do art. 916.º CC ou 6 meses após a denúncia.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0916&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "  - Interpelação escrita: [sim — data / não]",
+    "para": "  - Notificação judicial avulsa ou compromisso arbitral: [sim — data / não]\n  - Interpelação extrajudicial (carta, email): [sim — data / não] — não interrompe a prescrição",
+    "motivo": "A interpelação extrajudicial não interrompe a prescrição; a notificação judicial avulsa e o compromisso arbitral sim (arts. 323.º e 324.º CC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0323&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar, no caso concreto, se o prazo é de prescrição ou de caducidade (art. 298.º, n.º 2, CC): a qualificação muda a contagem, a suspensão e a invocação.",
+   "Nos créditos sujeitos a prescrição presuntiva, verificar se houve confissão do devedor (arts. 313.º e 314.º CC) ou se sobreveio sentença ou outro título executivo (art. 311.º CC).",
+   "Na interrupção por citação, confirmar os efeitos da desistência, da absolvição ou da deserção da instância (art. 327.º, n.ºs 2 e 3, CC).",
+   "Os prazos cambiários (art. 70.º LULL) e os da venda a consumidor (DL n.º 84/2021) não foram conferidos na fonte oficial."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0296&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0303&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0304&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0309&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0312&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0316&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0318&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0320&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0323&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0326&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0329&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0333&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0287&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0482&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0498&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0916&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+  ]
+ },
+ {
+  "codigo": "CIV-032",
+  "veredicto": "corrigida",
+  "resumo": "A ficha inventava um prazo de 30 dias para imóveis no art. 416.º CC (o prazo geral é de 8 dias, sob pena de caducidade, para qualquer bem; os 30 dias só valem para o arrendatário, art. 1091.º, n.º 4, CC), tratava o silêncio como renúncia presumida (é caducidade), admitia preferência na permuta, atribuía ao art. 421.º CC a caducidade (trata da eficácia real) e ao art. 228.º CSC uma preferência legal dos sócios que não existe. Corrigi também a ação de preferência (conhecimento dos elementos essenciais e depósito do preço em 15 dias, art. 1410.º CC), o requisito dos dois anos de arrendamento e a forma da comunicação ao arrendatário.",
+  "substituicoes": [
+   {
+    "de": "— Prazo de resposta do preferente: 8 dias para móveis; 30 dias para imóveis (art. 416.º, n.º 1 CC) — salvo prazo diferente em lei especial.",
+    "para": "— Prazo de resposta do preferente: 8 dias a contar da receção da comunicação, sob pena de caducidade, seja o bem móvel ou imóvel, salvo se o preferente estiver vinculado a prazo mais curto ou o obrigado lhe assinar prazo mais longo (art. 416.º, n.º 2, CC) — e salvo prazo diferente em lei especial (ex.: 30 dias para o arrendatário, art. 1091.º, n.º 4, CC).",
+    "motivo": "O art. 416.º, n.º 2, CC fixa 8 dias para qualquer bem; não há regra geral de 30 dias para imóveis.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0416&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "— NRAU: arrendatário tem direito de preferência na venda (art. 1091.º CC) com prazo de 30 dias.",
+    "para": "— Arrendatário: tem direito de preferência na compra e venda ou dação em cumprimento do local arrendado há mais de dois anos (art. 1091.º, n.º 1, al. a), CC); a comunicação é expedida por carta registada com aviso de receção e o prazo de resposta é de 30 dias a contar da receção (art. 1091.º, n.º 4, CC).",
+    "motivo": "Faltavam o requisito dos dois anos de arrendamento e a forma obrigatória da comunicação (carta registada com aviso de receção).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1091&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "— Falta de notificação: o preferente pode instaurar ação de preferência em 6 meses a contar do conhecimento do negócio (art. 1410.º CC para imóveis).",
+    "para": "— Falta de notificação: o preferente pode instaurar ação de preferência no prazo de 6 meses a contar da data em que teve conhecimento dos elementos essenciais da alienação, depositando o preço devido nos 15 dias seguintes à propositura da ação (art. 1410.º, n.º 1, CC — compropriedade; aplicável ao arrendatário por força do art. 1091.º, n.º 5, CC e à preferência convencional com eficácia real por força do art. 421.º, n.º 2, CC). Sem eficácia real, a preferência convencional não dá lugar a ação de preferência.",
+    "motivo": "O art. 1410.º CC não se restringe a imóveis, conta o prazo do conhecimento dos elementos essenciais e exige o depósito do preço em 15 dias.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1409&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Negócio projetado: venda, dação, outro ato oneroso (permuta — sim; doação — não)",
+    "para": "- Negócio projetado: nas preferências legais do comproprietário e do arrendatário, só a venda e a dação em cumprimento (arts. 1409.º, n.º 1, e 1091.º, n.º 1, al. a), CC); na preferência convencional, a venda e outros contratos com ela compatíveis (art. 423.º CC) [■ VERIFICAR: compatibilidade da permuta — o preferente tem de poder realizar a mesma contraprestação]; a doação não dá lugar a preferência",
+    "motivo": "As preferências legais do comproprietário e do arrendatário só abrangem a venda e a dação em cumprimento; a permuta não está incluída.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1409&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Prazo de resposta: 8 dias (móveis) ou 30 dias (imóveis) ou prazo especial",
+    "para": "- Prazo de resposta: 8 dias (art. 416.º, n.º 2, CC), 30 dias se o preferente for arrendatário (art. 1091.º, n.º 4, CC), prazo mais longo assinado pelo obrigado ou prazo especial",
+    "motivo": "O prazo geral é de 8 dias para qualquer bem; os 30 dias são do arrendatário.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0416&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Consequências da falta de notificação: ação de preferência (art. 1410.º CC para imóveis)",
+    "para": "- Consequências da falta de notificação: ação de preferência (art. 1410.º CC — preferências legais e preferência convencional com eficácia real)",
+    "motivo": "A ação de preferência não depende de o bem ser imóvel, mas de a preferência ser legal ou ter eficácia real (art. 421.º, n.º 2, CC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0421&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Arts. 414.º a 426.º CC (direito de preferência — regime geral)",
+    "para": "- Arts. 414.º a 423.º CC (pacto de preferência — regime geral)",
+    "motivo": "Os arts. 424.º a 426.º CC regulam a cessão da posição contratual, não a preferência.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0421&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Art. 421.º CC (caducidade da preferência convencional)",
+    "para": "- Art. 421.º CC (eficácia real da preferência convencional — bens imóveis ou móveis sujeitos a registo, observados a forma e a publicidade do art. 413.º CC; aplicação do art. 1410.º CC)",
+    "motivo": "O art. 421.º CC trata da eficácia real; a caducidade do direito resulta do art. 416.º, n.º 2, CC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0421&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Art. 1091.º CC (preferência do arrendatário na venda — NRAU)",
+    "para": "- Art. 1091.º CC (preferência do arrendatário na compra e venda ou dação em cumprimento do local arrendado há mais de dois anos; carta registada com aviso de receção e prazo de resposta de 30 dias — n.º 4; remissão para os arts. 416.º a 418.º e 1410.º CC — n.º 5)",
+    "motivo": "Faltavam o requisito dos dois anos, a forma da comunicação e o prazo especial do arrendatário.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1091&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Art. 1410.º CC (ação de preferência no prazo de 6 meses)",
+    "para": "- Arts. 1409.º e 1410.º CC (preferência do comproprietário; ação de preferência no prazo de 6 meses a contar do conhecimento dos elementos essenciais da alienação, com depósito do preço nos 15 dias seguintes à propositura)",
+    "motivo": "O art. 1410.º CC exige o depósito do preço nos 15 dias seguintes à propositura da ação.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1409&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- CSC — art. 228.º (preferência de sócios na transmissão de quotas)",
+    "para": "- CSC — art. 228.º (cessão de quotas: forma escrita e consentimento da sociedade, dispensado na cessão entre cônjuges, entre ascendentes e descendentes ou entre sócios; não confere aos sócios direito legal de preferência, que só existe se o contrato de sociedade o previr [■ VERIFICAR: cláusula do contrato de sociedade])",
+    "motivo": "O art. 228.º CSC não prevê preferência dos sócios: regula a forma e o consentimento da sociedade na cessão de quotas.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0228&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Consequências do silêncio (presumida renúncia após prazo)",
+    "para": "- Consequências do silêncio (caducidade do direito no termo do prazo — art. 416.º, n.º 2, CC)",
+    "motivo": "O silêncio não gera renúncia presumida: o direito caduca (art. 416.º, n.º 2, CC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0416&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "Informa-se V. Exa. que o signatário projeta [vender / trocar / ceder] o bem",
+    "para": "Informa-se V. Exa. que o signatário projeta [vender / dar em cumprimento / ceder] o bem",
+    "motivo": "As preferências legais só abrangem a venda e a dação em cumprimento, não a troca (arts. 1409.º e 1091.º CC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1409&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "a) Comprador/adquirente: [nome e NIF, se legalmente obrigado a indicar, ou \"terceiro\" se a lei não exigir]",
+    "para": "a) Comprador/adquirente: [nome e NIF] [■ VERIFICAR: se, no caso, a identidade do adquirente integra «o projeto de venda e as cláusulas do respetivo contrato» a comunicar (art. 416.º, n.º 1, CC) — omiti-la pode pôr em causa a eficácia da comunicação]",
+    "motivo": "A ficha sugeria indicar só «terceiro»; o art. 416.º, n.º 1, CC manda comunicar o projeto de venda e as cláusulas do contrato, e a omissão do adquirente é arriscada.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0416&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "Nos termos do art. 416.º do Código Civil, V. Exa. dispõe do prazo de [8 / 30] dias a contar da receção desta notificação para exercer ou renunciar ao direito de preferência.",
+    "para": "Nos termos do art. 416.º, n.º 2, do Código Civil [se arrendatário: e do art. 1091.º, n.º 4, do Código Civil], V. Exa. dispõe do prazo de [8 dias / 30 dias, se arrendatário / prazo mais longo assinado pelo signatário] a contar da receção desta notificação para exercer ou renunciar ao direito de preferência, sob pena de caducidade.",
+    "motivo": "O prazo é de 8 dias para qualquer bem (art. 416.º, n.º 2, CC); 30 dias só para o arrendatário (art. 1091.º, n.º 4, CC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0416&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "A falta de resposta no prazo indicado presumir-se-á como renúncia ao direito de preferência para este negócio concreto, nos termos do art. 416.º, n.º 2, do Código Civil.",
+    "para": "Decorrido o prazo indicado sem que V. Exa. declare preferir, o direito de preferência caduca quanto a este negócio concreto, nos termos do art. 416.º, n.º 2, do Código Civil.",
+    "motivo": "O art. 416.º, n.º 2, CC comina a caducidade, não uma renúncia presumida.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0416&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- [ ] Prazo de resposta: 8 dias (móveis) ou 30 dias (imóveis) — art. 416.º CC\n- [ ] Consequências do silêncio (renúncia presumida) — art. 416.º, n.º 2 CC\n- [ ] Forma de envio: correio registado com AR [■ VERIFICAR]\n- [ ] NRAU: se arrendatário — art. 1091.º CC, prazo de 30 dias",
+    "para": "- [ ] Prazo de resposta: 8 dias (art. 416.º, n.º 2, CC) ou 30 dias se arrendatário (art. 1091.º, n.º 4, CC)\n- [ ] Consequências do silêncio (caducidade do direito) — art. 416.º, n.º 2 CC\n- [ ] Forma de envio: carta registada com AR — obrigatória se o preferente for arrendatário (art. 1091.º, n.º 4, CC); nos restantes casos, recomendável para prova da receção\n- [ ] Se arrendatário: local arrendado há mais de dois anos, carta registada com AR e prazo de 30 dias — art. 1091.º, n.ºs 1 e 4, CC",
+    "motivo": "Prazo geral de 8 dias, caducidade e forma obrigatória da comunicação ao arrendatário (arts. 416.º e 1091.º CC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1091&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Tipo: [venda / dação em cumprimento / permuta / outro]",
+    "para": "- Tipo: [venda / dação em cumprimento / outro — confirmar se compatível com a preferência]",
+    "motivo": "As preferências legais só abrangem a venda e a dação em cumprimento (arts. 1409.º e 1091.º CC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1409&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Bem móvel (8 dias) ou imóvel (30 dias): [qual]",
+    "para": "- Prazo aplicável: [8 dias — regra geral / 30 dias — arrendatário / prazo mais longo assinado pelo obrigado]",
+    "motivo": "O prazo não depende de o bem ser móvel ou imóvel (art. 416.º, n.º 2, CC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0416&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar se há lei especial com prazo ou forma próprios para a preferência em causa (por exemplo, entidades públicas, prédios confinantes ou património classificado).",
+   "Confirmar a vigência e a constitucionalidade do art. 1091.º, n.º 8, CC (arrendatário de parte de prédio não constituído em propriedade horizontal) antes de o invocar.",
+   "Avaliar, à luz da jurisprudência, se a identidade do adquirente e as prestações acessórias têm de constar da comunicação (arts. 416.º, n.º 1, e 418.º CC).",
+   "Havendo vários preferentes, aplicar o art. 419.º CC e, na compropriedade, o art. 1409.º, n.º 3, CC."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0414&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0416&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0421&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1091&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1409&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0228&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+  ]
+ },
+ {
+  "codigo": "CIV-040",
+  "veredicto": "corrigida",
+  "resumo": "A ficha fixava sempre 120 dias de antecedência na oposição à renovação, quando o art. 1097.º, n.º 1, CC gradua 240, 120 ou 60 dias ou 1/3 do prazo, e omitia a regra de que a oposição à primeira renovação só produz efeitos três anos após a celebração (n.º 3). Na denúncia para habitação incluía o cônjuge (a lei só prevê o senhorio e os descendentes em 1.º grau), previa «1 ano / 2 anos» de renda (o art. 1102.º, n.º 1, CC exige o pagamento de um ano de renda; os dois anos são da denúncia para obras, art. 1103.º, n.º 6) e omitia a antecedência de seis meses e o fundamento expresso (art. 1103.º, n.º 1). Corrigi ainda as descrições dos arts. 1094.º, 1099.º e 1102.º CC e do art. 9.º NRAU (forma das comunicações; o regime transitório está nos arts. 26.º a 28.º NRAU).",
+  "descricao": "Redige a comunicação do senhorio de oposição à renovação (contrato com prazo certo — art. 1097.º do Código Civil) ou de denúncia (contrato de duração indeterminada — arts. 1101.º a 1103.º do Código Civil) do arrendamento urbano para habitação, nos termos do Novo Regime do Arrendamento Urbano (NRAU, Lei n.º 6/2006, de 27 de fevereiro, com alterações). Identifica as antecedências obrigatórias e os fundamentos legais da denúncia, com ou sem causa justificativa.",
+  "descricao_en": "Drafts the landlord's notice opposing the renewal (fixed-term lease — Article 1097 of the Civil Code) or terminating (open-ended lease — Articles 1101 to 1103 of the Civil Code) a residential urban lease, under the New Urban Lease Regime (NRAU, Law No. 6/2006 of 27 February, as amended). Identifies the mandatory notice periods and the legal grounds for termination with or without justified cause.",
+  "substituicoes": [
+   {
+    "de": "- Pré-aviso exigível: art. 1097.º CC (ao arrendatário: mínimo 120 dias antes do término)\n- Indemnização devida se denúncia por necessidade habitacional (art. 1102.º CC)",
+    "para": "- Antecedência exigível na oposição à renovação (prazo certo — art. 1097.º, n.º 1, CC), contada do termo do prazo inicial ou da renovação: 240 dias (prazo igual ou superior a 6 anos), 120 dias (de 1 a 6 anos), 60 dias (de 6 meses a 1 ano) ou 1/3 do prazo (menos de 6 meses); a oposição à primeira renovação só produz efeitos decorridos 3 anos da celebração (n.º 3), salvo necessidade de habitação do senhorio ou de descendente em 1.º grau (n.º 4)\n- Antecedência na denúncia (duração indeterminada): 6 meses, com o fundamento expresso, na denúncia para habitação ou para obras (art. 1103.º, n.º 1, CC); 5 anos na denúncia sem fundamento (art. 1101.º, al. c), CC), confirmada com a antecedência máxima de 15 meses e mínima de 1 ano (art. 1104.º CC)\n- Pagamento do montante equivalente a um ano de renda, de que depende a denúncia para habitação (art. 1102.º, n.º 1, CC); na denúncia para demolição ou obras profundas, indemnização de dois anos de renda ou realojamento (art. 1103.º, n.ºs 6 e 7, CC)",
+    "motivo": "A antecedência não é sempre de 120 dias: depende da duração do contrato (art. 1097.º, n.º 1, CC); faltavam a regra dos 3 anos (n.º 3) e as antecedências e montantes da denúncia (arts. 1101.º a 1104.º CC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1097&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Art. 1094.º CC: duração do contrato e renovação automática",
+    "para": "- Art. 1094.º CC: tipos de contrato (prazo certo ou duração indeterminada; no silêncio das partes, prazo certo de 5 anos)\n- Art. 1096.º CC: renovação automática por períodos sucessivos de igual duração ou de 3 anos, se esta for inferior",
+    "motivo": "A renovação automática está no art. 1096.º CC; o art. 1094.º CC trata dos tipos de contrato.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1094&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Art. 1099.º CC: efeitos da oposição",
+    "para": "- Art. 1099.º CC: o contrato de duração indeterminada cessa por denúncia de uma das partes (princípio geral)",
+    "motivo": "O art. 1099.º CC é o princípio geral da denúncia nos contratos de duração indeterminada, não os efeitos da oposição.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1099&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Art. 1101.º CC: denúncia por necessidade habitacional ou obras\n- Art. 1102.º CC: direito de indemnização do arrendatário\n- Art. 9.º NRAU: regime transitório de contratos antigos",
+    "para": "- Art. 1101.º CC: denúncia pelo senhorio do contrato de duração indeterminada — necessidade de habitação do próprio ou dos descendentes em 1.º grau (al. a)), demolição ou obras de remodelação ou restauro profundos (al. b)) ou comunicação com antecedência não inferior a 5 anos (al. c))\n- Art. 1102.º CC: requisitos da denúncia para habitação — pagamento do montante equivalente a um ano de renda; senhorio proprietário, comproprietário ou usufrutuário há mais de 2 anos (ou por sucessão); falta de casa própria há mais de 1 ano\n- Art. 1103.º CC: comunicação com 6 meses de antecedência e fundamento expresso, sob pena de ineficácia (n.º 1); documentos na denúncia para obras (n.ºs 2 e 3); utilização do locado para habitação no prazo de 3 meses e por 2 anos, sob pena de indemnização de 10 anos de renda (n.ºs 5 e 9)\n- Art. 9.º NRAU: forma das comunicações (carta registada com aviso de receção ou entrega em mão)\n- Arts. 26.º a 28.º NRAU: regime transitório dos contratos anteriores ao NRAU",
+    "motivo": "O art. 1102.º CC fixa os requisitos da denúncia para habitação (incluindo o pagamento de um ano de renda) e o art. 9.º NRAU a forma das comunicações; o regime transitório está nos arts. 26.º a 28.º NRAU.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1101&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "Vem pela presente comunicar-lhe que o Senhorio se opõe à renovação do contrato",
+    "para": "Vem pela presente comunicar-lhe que o Senhorio [se opõe à renovação do / denuncia o] contrato",
+    "motivo": "A minuta serve a oposição à renovação (opção A) e a denúncia (opção B), que são figuras distintas (arts. 1097.º e 1101.º CC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1101&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "comunicando com antecedência mínima de [120/240] dias relativamente ao termo do prazo [em curso / que terminará em DATA].",
+    "para": "comunicando com antecedência mínima de [240 dias / 120 dias / 60 dias / um terço do prazo — consoante o prazo do contrato ou da renovação, art. 1097.º, n.º 1, als. a) a d)] relativamente ao termo do prazo [em curso / que terminará em DATA]. [Se se tratar da primeira renovação: a oposição só produz efeitos decorridos três anos da celebração do contrato, mantendo-se este em vigor até essa data (art. 1097.º, n.º 3, do Código Civil).]",
+    "motivo": "Faltavam as antecedências de 60 dias e de 1/3 do prazo e a regra dos três anos na oposição à primeira renovação (art. 1097.º, n.ºs 1 e 3, CC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1097&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "[OPÇÃO B — Denúncia por necessidade habitacional:]\nNos termos do art. 1101.º, al. a), do Código Civil, o Senhorio denuncia o contrato por necessidade de habitação própria e permanente [do próprio / do cônjuge / de descendente em 1.º grau], nos termos e com os fundamentos seguintes: [DESCRIÇÃO DA NECESSIDADE].",
+    "para": "[OPÇÃO B — Denúncia por necessidade habitacional — contrato de duração indeterminada; num contrato com prazo certo, este fundamento só serve para afastar o limite de três anos da oposição à primeira renovação (art. 1097.º, n.º 4, do Código Civil):]\nNos termos do art. 1101.º, al. a), do Código Civil, o Senhorio denuncia o contrato por necessidade de habitação [do próprio / de descendente em 1.º grau], verificados os requisitos do art. 1102.º do Código Civil, com antecedência não inferior a seis meses sobre a data pretendida para a desocupação e com os fundamentos seguintes, que se indicam expressamente (art. 1103.º, n.º 1, do Código Civil): [DESCRIÇÃO DA NECESSIDADE].",
+    "motivo": "A lei não prevê a denúncia para habitação do cônjuge (art. 1101.º, al. a), CC); faltavam a antecedência de 6 meses e o fundamento expresso, sob pena de ineficácia (art. 1103.º, n.º 1, CC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1101&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "O contrato cessará em [DATA], correspondendo ao término do prazo em curso.",
+    "para": "O contrato cessará em [DATA], correspondendo [opção A: ao termo do prazo em curso ou, tratando-se da primeira renovação, à data em que se completam três anos sobre a celebração / opção B: à data pretendida para a desocupação, com pelo menos seis meses de antecedência].",
+    "motivo": "A data de cessação depende da figura: termo do prazo (art. 1097.º CC) ou data indicada com 6 meses de antecedência (art. 1103.º, n.º 1, CC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1103&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "**IV — INDEMNIZAÇÃO** [se aplicável — art. 1102.º CC]\nNos termos do art. 1102.º do CC, o Senhorio informa que lhe será paga indemnização no montante correspondente a [1 ano / 2 anos] de renda [■ VERIFICAR prazo de contrato aplicável], no valor de € [CÁLCULO].",
+    "para": "**IV — INDEMNIZAÇÃO** [só na opção B — art. 1102.º CC]\nNos termos do art. 1102.º, n.º 1, do CC, o Senhorio procederá ao pagamento do montante equivalente a um ano de renda, no valor de € [CÁLCULO = 12 × renda mensal] [■ VERIFICAR: nos contratos sem duração limitada celebrados na vigência do RAU, a renda a considerar segue o art. 26.º, n.º 4, al. b), NRAU].",
+    "motivo": "Na denúncia para habitação o montante é de um ano de renda (art. 1102.º, n.º 1, CC); os dois anos de renda respeitam à denúncia para obras (art. 1103.º, n.º 6, CC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1101&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- [ ] Pré-aviso de 120 dias (ou superior se contrato o exige) respeitado",
+    "para": "- [ ] Antecedência respeitada: 240 / 120 / 60 dias ou 1/3 do prazo, consoante a duração (art. 1097.º, n.º 1, CC), ou 6 meses na denúncia para habitação (art. 1103.º, n.º 1, CC); primeira renovação: efeitos só decorridos 3 anos da celebração (art. 1097.º, n.º 3, CC)",
+    "motivo": "A antecedência varia com a duração do contrato e com a figura (arts. 1097.º e 1103.º CC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1097&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- [ ] Indemnização mencionada se denúncia por necessidade (art. 1102.º CC)",
+    "para": "- [ ] Se denúncia por necessidade: requisitos e pagamento de um ano de renda (art. 1102.º CC) e fundamento expresso na comunicação (art. 1103.º, n.º 1, CC)",
+    "motivo": "O pagamento é de um ano de renda e a comunicação tem de indicar o fundamento, sob pena de ineficácia.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1103&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar o tipo de contrato (prazo certo ou duração indeterminada) e, nos contratos anteriores ao NRAU, o regime transitório (arts. 26.º a 28.º NRAU) — a denúncia sem fundamento não se aplica a arrendatário com 65 ou mais anos ou com deficiência com grau de incapacidade igual ou superior a 60 % (art. 26.º, n.º 4, al. c), NRAU).",
+   "A denúncia para demolição ou obras profundas (art. 1101.º, al. b), CC) exige os documentos do art. 1103.º, n.ºs 2 e 3, e remete para legislação especial (n.º 11): a minuta não a cobre.",
+   "Da denúncia pelo senhorio não pode resultar uma duração total do contrato inferior a dois anos (art. 1103.º, n.º 10, CC).",
+   "Se o locado for casa de morada de família, dirigir a comunicação a cada um dos cônjuges (art. 12.º, n.º 1, NRAU)."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1094&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1096&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1097&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1099&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1101&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1103&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=691A0009&nid=691&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=691A0026&nid=691&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+  ]
+ },
+ {
+  "codigo": "CIV-046",
+  "veredicto": "corrigida",
+  "resumo": "A ficha descrevia mal a cláusula de reversão: dizia que opera se o donatário morrer primeiro e que o art. 960.º, n.º 2, CC declara nula a reversão a favor de terceiro, quando esse número dispõe que, no silêncio, a reversão só se dá se o doador sobreviver ao donatário e a todos os descendentes deste (e o n.º 3 exige registo). Contava ainda o prazo da ação de redução a partir da partilha (conta-se da aceitação da herança pelo herdeiro legitimário, art. 2178.º CC), tratava o art. 2158.º CC (legítima do cônjuge) como «quota disponível» e calculava a inoficiosidade só sobre o acervo deixado, ignorando as doações (art. 2162.º CC). Corrigi também os pressupostos da colação (arts. 2104.º e 2105.º CC) e a imputação na quota hereditária (art. 2108.º CC).",
+  "substituicoes": [
+   {
+    "de": "— Distingue quota disponível (art. 2158.º CC) de quota legitimária (art. 2156.º CC).",
+    "para": "— Distingue quota disponível (a porção da herança que excede a legítima) de quota legitimária (art. 2156.º CC; legítimas nos arts. 2158.º a 2161.º CC, calculadas nos termos do art. 2162.º CC).",
+    "motivo": "O art. 2158.º CC fixa a legítima do cônjuge, não a quota disponível, que resulta por exclusão.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2156&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Art. 960.º CC: cláusula de reversão (doação volta ao doador se donatário morrer primeiro)",
+    "para": "- Art. 960.º CC: cláusula de reversão — a coisa doada regressa ao doador se este sobreviver ao donatário, ou ao donatário e a todos os descendentes deste; no silêncio da cláusula, só neste último caso (n.º 2); carece de registo quanto a imóveis e móveis sujeitos a registo (n.º 3)\n- Art. 961.º CC: os bens revertidos regressam livres dos encargos impostos enquanto estiveram em poder do donatário ou de terceiros",
+    "motivo": "Na falta de estipulação, a reversão só opera se o doador sobreviver ao donatário e a todos os descendentes deste (art. 960.º, n.º 2, CC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0960&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Art. 2104.º CC: obrigação de colacionar (descendentes que herdem juntamente com outros)",
+    "para": "- Arts. 2104.º e 2105.º CC: obrigação de colacionar dos descendentes que pretendam entrar na sucessão do ascendente e que eram, à data da doação, presuntivos herdeiros legitimários do doador",
+    "motivo": "Pressupostos da colação segundo os arts. 2104.º e 2105.º CC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2104&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Art. 2156.º CC: quota legitimária dos descendentes\n- Art. 2158.º CC: quota disponível",
+    "para": "- Art. 2156.º CC: noção de legítima\n- Arts. 2158.º a 2161.º CC: legítimas do cônjuge, dos filhos e dos ascendentes (cônjuge e filhos: dois terços da herança; só filhos: metade ou dois terços — art. 2159.º CC); a quota disponível é o remanescente\n- Art. 2162.º CC: cálculo da legítima (bens existentes à data da morte, mais bens doados e despesas sujeitas a colação, menos dívidas da herança)\n- Art. 2114.º CC: a doação dispensada de colação é imputada na quota disponível",
+    "motivo": "O art. 2156.º CC define a legítima e o art. 2158.º CC a legítima do cônjuge; a legítima dos filhos está no art. 2159.º CC e calcula-se pelo art. 2162.º CC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2156&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "prazo de caducidade da ação de redução (2 anos após a partilha)",
+    "para": "prazo de caducidade da ação de redução (2 anos a contar da aceitação da herança pelo herdeiro legitimário)",
+    "motivo": "O prazo conta-se da aceitação da herança pelo herdeiro legitimário, não da partilha (art. 2178.º CC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2178&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "A cláusula de reversão convenciona o retorno do bem doado ao doador se o donatário falecer antes daquele (art. 960.º, n.º 1, CC). Nos termos do art. 960.º, n.º 2, CC, a reversão em favor de terceiro é nula. [Analisar se o donatário já faleceu e se a reversão opera.]",
+    "para": "A cláusula de reversão faz regressar o bem doado ao doador se este sobreviver ao donatário ou, conforme o estipulado, ao donatário e a todos os descendentes deste; na falta de estipulação, a reversão só se verifica neste último caso (art. 960.º, n.ºs 1 e 2, CC). Tratando-se de imóvel ou de móvel sujeito a registo, a cláusula carece de ser registada (art. 960.º, n.º 3, CC). Os bens revertidos regressam ao doador livres dos encargos entretanto constituídos (art. 961.º CC). [Analisar se o donatário e, sendo caso disso, os seus descendentes já faleceram e se a reversão opera.]",
+    "motivo": "O art. 960.º, n.º 2, CC não trata da reversão a favor de terceiro: fixa quando a reversão opera; faltavam o registo (n.º 3) e os efeitos (art. 961.º CC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0960&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "Sendo [DONATÁRIO] descendente do doador e tendo de concorrer à herança com outros herdeiros legitimários, está sujeito à obrigação de colação (art. 2104.º, n.º 1, CC), salvo se o doador o tiver dispensado (art. 2113.º CC).",
+    "para": "Sendo [DONATÁRIO] descendente do doador e presuntivo herdeiro legitimário à data da doação (art. 2105.º CC), e pretendendo entrar na sucessão, está sujeito à obrigação de colação (art. 2104.º, n.º 1, CC), salvo se o doador o tiver dispensado (art. 2113.º CC — no ato da doação ou posteriormente, pela mesma forma da doação ou por testamento; a dispensa presume-se nas doações manuais e remuneratórias).",
+    "motivo": "Pressupostos da colação (arts. 2104.º e 2105.º CC) e regime da dispensa (art. 2113.º CC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2113&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "imputando-o na sua quota legitimária (art. 2108.º CC)",
+    "para": "imputando-o na sua quota hereditária (art. 2108.º, n.º 1, CC), ou restituindo os próprios bens doados, se houver acordo de todos os herdeiros",
+    "motivo": "O art. 2108.º, n.º 1, CC manda imputar na quota hereditária e admite a restituição dos bens por acordo.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2108&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "[Calcular:] Acervo hereditário estimado: € [VALOR];",
+    "para": "[Calcular:] Valor para o cálculo da legítima (art. 2162.º CC): bens existentes à data da morte € [VALOR] + bens doados € [VALOR] + despesas sujeitas a colação € [VALOR] − dívidas da herança € [VALOR] = € [VALOR];",
+    "motivo": "A legítima calcula-se somando aos bens existentes os bens doados e as despesas sujeitas a colação (art. 2162.º CC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2162&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "no prazo de 2 anos após a partilha (art. 2172.º CC)",
+    "para": "no prazo de caducidade de 2 anos a contar da aceitação da herança pelo herdeiro legitimário (art. 2178.º CC)",
+    "motivo": "O prazo conta-se da aceitação da herança pelo herdeiro legitimário, não da partilha (art. 2178.º CC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2178&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- [ ] Cláusula de reversão analisada (art. 960.º CC)\n- [ ] Quota disponível calculada (art. 2158.º CC)",
+    "para": "- [ ] Cláusula de reversão analisada, incluindo o registo (art. 960.º CC)\n- [ ] Legítima e quota disponível calculadas (arts. 2159.º e 2162.º CC)",
+    "motivo": "A quota disponível resulta do cálculo da legítima (arts. 2159.º e 2162.º CC); o art. 2158.º CC é a legítima do cônjuge.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2156&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar a imputação da doação dispensada de colação que exceda a quota disponível e, havendo cônjuge sobrevivo, se este beneficia da colação — questões discutidas na doutrina e na jurisprudência.",
+   "A redução começa pelas disposições testamentárias e só depois atinge as doações, a começar pela mais recente (arts. 2171.º e 2173.º CC); a redução das doações sujeitas a colação é um ónus real, registado com a doação de imóveis (art. 2118.º CC).",
+   "Doação em dinheiro: o valor é atualizado nos termos do art. 551.º CC (art. 2109.º, n.º 3, CC).",
+   "Confirmar se a cláusula de reversão foi registada e se houve alienações ou onerações do bem pelo donatário (art. 961.º CC)."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0946&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0960&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2104&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2108&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2113&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2156&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2159&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2162&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2168&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2178&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+  ]
+ },
+ {
+  "codigo": "CIV-053",
+  "veredicto": "corrigida",
+  "resumo": "A cláusula de título executivo era errada: o mútuo assinado pelo mutuário e por duas testemunhas não é título executivo; o art. 703.º, n.º 1, al. b), CPC exige documento exarado ou autenticado por notário ou outra entidade competente. A forma estava incompleta (o art. 1143.º CC admite documento particular autenticado acima de €25.000 e exige documento assinado pelo mutuário acima de €2.500), o art. 1145.º CC era descrito com uma «aplicação subsidiária do Código Comercial» que não existe, os limites da usura não distinguiam a garantia real nem a cláusula penal, e a taxa legal era atribuída ao Banco de Portugal (é fixada por portaria — Portaria n.º 291/2003, 4 %). Corrigi também a forma e o registo da hipoteca (arts. 714.º e 687.º CC).",
+  "descricao": "Redige contrato de mútuo civil entre particulares (arts. 1142.º a 1151.º CC), com estabelecimento de juro convencional dentro dos limites legais (art. 1146.º CC), cláusula de garantia pessoal (fiança) ou real (hipoteca ou penhor), e forma de restituição do capital. Inclui análise de usura (art. 1146.º CC) e advertência sobre a forma exigida: escritura pública ou documento particular autenticado quando o valor excede €25.000 e documento assinado pelo mutuário quando excede €2.500 (art. 1143.º CC).",
+  "descricao_en": "Drafts a civil loan agreement between private individuals (Articles 1142 to 1151 CC), setting conventional interest within the statutory limits (Article 1146 CC), a personal (suretyship) or real (mortgage or pledge) security clause, and the method of repayment of the principal. Includes a usury analysis (Article 1146 CC) and a warning on the required form: a public deed or an authenticated private document where the amount exceeds €25,000, and a document signed by the borrower where it exceeds €2,500 (Article 1143 CC).",
+  "substituicoes": [
+   {
+    "de": "— Verifica sempre se o mútuo exige escritura pública (valor > €25.000 — art. 1143.º CC).",
+    "para": "— Verifica sempre a forma exigida (art. 1143.º CC): acima de €25.000, escritura pública ou documento particular autenticado; acima de €2.500, documento assinado pelo mutuário — o mútuo só é válido se observar essa forma.",
+    "motivo": "O art. 1143.º CC admite o documento particular autenticado acima de €25.000 e exige documento assinado pelo mutuário acima de €2.500.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1143&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Valor do empréstimo: acima ou abaixo de €25.000 (determina a forma exigida)",
+    "para": "- Valor do empréstimo: acima de €25.000 ou de €2.500 (determina a forma exigida — art. 1143.º CC)",
+    "motivo": "Há dois limiares de forma no art. 1143.º CC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1143&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Art. 1143.º CC: forma — escritura pública se valor > €25.000\n- Art. 1145.º CC: juros convencionais e aplicação subsidiária do Código Comercial\n- Art. 1146.º CC: usura — taxa convencional não pode exceder a taxa legal em mais de 3% (ou 5% conforme o tipo)",
+    "para": "- Art. 1143.º CC: forma — escritura pública ou documento particular autenticado se valor > €25.000; documento assinado pelo mutuário se valor > €2.500\n- Art. 1145.º CC: juros convencionais como retribuição do mútuo; em caso de dúvida, o mútuo presume-se oneroso\n- Art. 1146.º CC: usura — juros anuais que excedam os juros legais acrescidos de 3% ou 5%, conforme exista ou não garantia real (n.º 1); cláusula penal pela mora acima de 7% ou 9% sobre os juros legais (n.º 2); redução automática a esses máximos (n.º 3)\n- Art. 559.º CC: juros acima da taxa legal só são devidos, nessa medida, se estipulados por escrito (n.º 2)",
+    "motivo": "O art. 1145.º CC não remete para o Código Comercial; os limites do art. 1146.º CC dependem da existência de garantia real e abrangem a cláusula penal.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1145&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Portaria n.º [■ VERIFICAR: portaria vigente de taxas legais do Banco de Portugal]",
+    "para": "- Portaria n.º 291/2003, de 8 de abril: juros legais civis de 4% (art. 559.º, n.º 1, CC) [■ VERIFICAR: que se mantém em vigor à data do contrato]",
+    "motivo": "A taxa dos juros legais civis é fixada por portaria do Governo (art. 559.º, n.º 1, CC), não pelo Banco de Portugal.",
+    "fonte": "https://e-justice.europa.eu/topics/taking-legal-action/where-and-how/interest-rates/pt_pt"
+   },
+   {
+    "de": "- Forma do contrato (escritura se > €25.000)",
+    "para": "- Forma do contrato (escritura pública ou documento particular autenticado se > €25.000; documento assinado pelo mutuário se > €2.500)",
+    "motivo": "Forma do art. 1143.º CC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1143&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "a formalizar por escritura pública.",
+    "para": "a formalizar por escritura pública ou documento particular autenticado (art. 714.º CC) e a registar, sob pena de não produzir efeitos, mesmo em relação às partes (art. 687.º CC).",
+    "motivo": "A hipoteca sobre imóveis pode constar de documento particular autenticado e só produz efeitos com o registo.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0714&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "**CLÁUSULA 6.ª — TÍTULO EXECUTIVO**\nO presente contrato, assinado pelo Mutuário e por [2] testemunhas, constitui título executivo nos termos do art. 703.º, n.º 1, al. b), do Código de Processo Civil, para efeitos de ação executiva em caso de incumprimento.",
+    "para": "**CLÁUSULA 6.ª — TÍTULO EXECUTIVO** [só se o contrato for celebrado por escritura pública ou documento particular autenticado]\nO presente contrato, [exarado / autenticado] por [notário / advogado / solicitador / outra entidade com competência para tal], constitui título executivo nos termos do art. 703.º, n.º 1, al. b), do Código de Processo Civil, para efeitos de ação executiva em caso de incumprimento. [Nota: o documento particular simples, ainda que assinado por testemunhas, não é título executivo; se a quantia for entregue depois da assinatura, a execução exige prova documental da entrega — art. 707.º do Código de Processo Civil.]",
+    "motivo": "O art. 703.º, n.º 1, al. b), CPC só confere força executiva a documentos exarados ou autenticados por notário ou entidade competente; o escrito particular com testemunhas não é título executivo.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0703&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "[Local, data, assinaturas e reconhecimento notarial se exigido]",
+    "para": "[Local, data, assinaturas e termo de autenticação, quando exigido pelo art. 1143.º CC ou pretendido para efeitos do art. 703.º, n.º 1, al. b), CPC]",
+    "motivo": "A lei exige documento particular autenticado (não simples reconhecimento de assinatura) para a forma e para a força executiva.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0703&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- [ ] Forma verificada: escritura pública se valor > €25.000 (art. 1143.º CC)\n- [ ] Taxa de juro dentro dos limites do art. 1146.º CC (verificar portaria vigente)\n- [ ] Garantia constituída (fiança / hipoteca / penhor) conforme exigências legais\n- [ ] Título executivo: assinaturas + 2 testemunhas (art. 703.º CPC)",
+    "para": "- [ ] Forma verificada: escritura pública ou documento particular autenticado se valor > €25.000; documento assinado pelo mutuário se > €2.500 (art. 1143.º CC)\n- [ ] Taxa de juro dentro dos limites do art. 1146.º CC: juros legais (4%, Portaria n.º 291/2003) + 3% com garantia real ou + 5% sem ela\n- [ ] Garantia constituída (fiança / hipoteca / penhor) conforme exigências legais — fiança declarada pela forma exigida para o mútuo (art. 628.º, n.º 1, CC); hipoteca por escritura pública ou documento particular autenticado e registada (arts. 714.º e 687.º CC)\n- [ ] Título executivo: documento exarado ou autenticado por notário ou outra entidade competente (art. 703.º CPC) — o escrito particular com testemunhas não basta",
+    "motivo": "Forma (art. 1143.º CC), limites da usura (art. 1146.º CC), forma das garantias (arts. 628.º, 687.º e 714.º CC) e título executivo (art. 703.º CPC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0703&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- [ ] [■ VERIFICAR] taxa legal do Banco de Portugal vigente para aferir usura",
+    "para": "- [ ] [■ VERIFICAR] taxa dos juros legais civis vigente à data do contrato (portaria do art. 559.º, n.º 1, CC — atualmente a Portaria n.º 291/2003, 4%) para aferir a usura",
+    "motivo": "A taxa legal civil é fixada por portaria (art. 559.º, n.º 1, CC), não pelo Banco de Portugal.",
+    "fonte": "https://e-justice.europa.eu/topics/taking-legal-action/where-and-how/interest-rates/pt_pt"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar que o mutuante não exerce a concessão de crédito a título profissional ou habitual, reservada a entidades habilitadas [■ VERIFICAR: RGICSF], e que não se aplica o regime do crédito aos consumidores.",
+   "Confirmar o Imposto do Selo devido pela utilização do crédito e pelos juros [■ VERIFICAR: verbas 17.1 e 17.2 da TGIS].",
+   "A cláusula de mora à taxa legal pode ficar aquém do art. 806.º, n.º 2, CC (se antes da mora for devido juro mais elevado, é esse o devido): ponderar a redação.",
+   "Se a quantia for entregue depois da assinatura, documentar a entrega para efeitos do art. 707.º CPC."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0559&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0627&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0686&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0714&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0806&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1142&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1143&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1145&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0703&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://e-justice.europa.eu/topics/taking-legal-action/where-and-how/interest-rates/pt_pt"
+  ]
+ },
+ {
+  "codigo": "CIV-056",
+  "veredicto": "corrigida",
+  "resumo": "A ficha afirmava que a notificação extrajudicial interrompe a prescrição (art. 323.º CC só atribui esse efeito à citação ou notificação judicial; acresce o reconhecimento, art. 325.º), atribuía ao art. 1427.º, n.º 2, CC o poder do administrador de ordenar obras urgentes (o art. 1427.º CC permite a qualquer condómino as reparações urgentes na falta ou impedimento do administrador; a intervenção urgente do administrador está no art. 1436.º, n.º 1, al. r), CC) e ao art. 1437.º CC a atuação urgente (é a representação em juízo). Corrigi também a responsabilidade pelas despesas das partes comuns (art. 1424.º CC), acrescentei as presunções de culpa dos arts. 492.º e 493.º, n.º 1, CC e precisei o art. 1422.º, n.º 2, al. a), CC.",
+  "substituicoes": [
+   {
+    "de": "- Urgência: obras urgentes não carecem de deliberação prévia (art. 1427.º CC)",
+    "para": "- Urgência: nas situações de urgência, o administrador intervém de imediato, convocando assembleia extraordinária para ratificação da sua atuação (art. 1436.º, n.º 1, al. r), CC); na falta ou impedimento do administrador, qualquer condómino pode realizar as reparações indispensáveis e urgentes nas partes comuns (art. 1427.º CC)",
+    "motivo": "O art. 1427.º CC regula as reparações urgentes por qualquer condómino na falta ou impedimento do administrador; a intervenção urgente do administrador está no art. 1436.º, n.º 1, al. r), CC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1436&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Art. 1427.º CC: obras nas partes comuns (aprovadas pela assembleia ou urgentes)",
+    "para": "- Art. 1424.º CC: encargos de conservação e fruição das partes comuns, pagos pelos condóminos em proporção do valor das frações\n- Art. 1427.º CC: reparações indispensáveis e urgentes nas partes comuns — na falta ou impedimento do administrador, qualquer condómino pode realizá-las (n.º 1); noção de reparação indispensável e urgente (n.º 2)",
+    "motivo": "O art. 1427.º CC não regula as obras aprovadas pela assembleia: regula as reparações indispensáveis e urgentes.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1427&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Art. 1436.º CC: poderes do administrador\n- Art. 1437.º CC: ação do administrador em caso de urgência",
+    "para": "- Art. 1436.º CC: funções do administrador — atos conservatórios dos direitos relativos aos bens comuns (n.º 1, al. g)), intervenção nas situações de urgência, com ratificação pela assembleia extraordinária (n.º 1, al. r)), e três orçamentos para obras de conservação extraordinária ou inovações (n.º 2)\n- Art. 1437.º CC: representação do condomínio em juízo pelo administrador",
+    "motivo": "O art. 1437.º CC trata da representação do condomínio em juízo, não da atuação urgente (art. 1436.º, n.º 1, al. r), CC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1436&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Art. 483.º CC: responsabilidade delitual por danos causados a vizinhos",
+    "para": "- Art. 483.º CC: responsabilidade delitual por danos causados a vizinhos\n- Arts. 492.º e 493.º, n.º 1, CC: presunção de culpa do proprietário ou possuidor pelos danos causados por edifício que ruir, no todo ou em parte, por vício de construção ou defeito de conservação, e de quem tiver em seu poder coisa imóvel com o dever de a vigiar",
+    "motivo": "Faltavam as presunções de culpa dos arts. 492.º e 493.º, n.º 1, CC, decisivas para o lesado por danos com origem no edifício.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0492&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "A responsabilidade pela sua manutenção e reparação incumbe ao condomínio, representado pelo administrador (art. 1436.º CC). O condomínio responde pelos danos causados ao consulente.",
+    "para": "As despesas com a sua conservação e reparação são encargo dos condóminos, em proporção do valor das frações (art. 1424.º, n.º 1, CC); cabe ao administrador realizar os atos conservatórios (art. 1436.º, n.º 1, al. g), CC) e representar o condomínio em juízo (art. 1437.º CC). O condomínio responde pelos danos causados ao consulente (arts. 483.º e 493.º, n.º 1, CC).",
+    "motivo": "A representação do condomínio em juízo está no art. 1437.º CC e o encargo das partes comuns no art. 1424.º CC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1424&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "salvo se se tratam de obras urgentes — caso em que o administrador pode ordenar a sua realização imediata sem deliberação prévia (art. 1427.º, n.º 2, CC).",
+    "para": "salvo nas situações de urgência — em que o administrador intervém de imediato, convocando assembleia extraordinária para ratificação da sua atuação (art. 1436.º, n.º 1, al. r), CC); na falta ou impedimento do administrador, qualquer condómino pode realizar as reparações indispensáveis e urgentes (art. 1427.º, n.º 1, CC).",
+    "motivo": "O art. 1427.º CC não confere ao administrador o poder de ordenar obras urgentes: permite-as a qualquer condómino na falta ou impedimento do administrador.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1436&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "constituem violação do art. 1422.º, n.º 2, CC e fundamentam ação de indemnização.",
+    "para": "constituem violação do art. 1422.º, n.º 2, al. a), CC, se prejudicarem a segurança, a linha arquitetónica ou o arranjo estético do edifício, e fundamentam ação de indemnização.",
+    "motivo": "O art. 1422.º, n.º 2, al. a), CC só proíbe as obras que prejudiquem a segurança, a linha arquitetónica ou o arranjo estético do edifício.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1421&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "O prazo de prescrição é de 3 anos a contar do conhecimento dos danos. O prazo expira em [DATA]. A notificação extrajudicial interrompe a prescrição (art. 323.º CC).",
+    "para": "O prazo de prescrição é de 3 anos a contar da data em que o lesado teve conhecimento do direito que lhe compete, ainda que desconheça a pessoa do responsável e a extensão integral dos danos (art. 498.º, n.º 1, CC). O prazo expira em [DATA]. A notificação extrajudicial não interrompe a prescrição: interrompem-na a citação ou notificação judicial de ato que exprima a intenção de exercer o direito, incluindo a notificação judicial avulsa (art. 323.º CC), e o reconhecimento do direito pelo responsável (art. 325.º CC).",
+    "motivo": "Só a citação ou notificação judicial (ou o reconhecimento do direito) interrompem a prescrição; a carta ao administrador ou ao condómino não (arts. 323.º e 325.º CC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0323&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- [ ] Notificação extrajudicial ao administrador e/ou condómino prevista",
+    "para": "- [ ] Notificação extrajudicial ao administrador e/ou condómino prevista (não interrompe a prescrição: com o prazo próximo, notificação judicial avulsa ou ação)",
+    "motivo": "A notificação extrajudicial não interrompe a prescrição (art. 323.º CC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0323&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar no título constitutivo se o elemento é parte comum ou está afeto ao uso exclusivo de um condómino (art. 1421.º, n.º 3, CC); as despesas das partes comuns que sirvam exclusivamente algum condómino ficam a cargo deste (art. 1424.º, n.º 3, CC).",
+   "Confirmar na jurisprudência a aplicação dos arts. 492.º e 493.º, n.º 1, CC às infiltrações com origem em partes comuns ou em frações vizinhas.",
+   "Obras que constituam inovações exigem as maiorias do art. 1425.º CC."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0323&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0492&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0498&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1421&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1424&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1427&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1436&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+  ]
+ },
+ {
+  "codigo": "CIV-059",
+  "veredicto": "corrigida",
+  "resumo": "A ficha assentava num regime revogado: exigia mora superior a dois meses, quando o art. 1083.º, n.º 3, CC, na redação em vigor, exige mora igual ou superior a três meses (ou o regime dos atrasos do n.º 4); mandava enviar a resolução por carta registada com AR, quando o art. 9.º, n.º 7, NRAU exige notificação avulsa ou contacto pessoal de advogado, solicitador ou agente de execução (carta só com domicílio convencionado); atribuía ao art. 1041.º CC os juros de mora (prevê a indemnização de 20 %, não devida se o contrato for resolvido) e ao art. 1085.º CC a entrega do locado (é a caducidade de três meses do direito de resolução). Atualizei o BNA para o Balcão do Arrendatário e do Senhorio (art. 15.º-A NRAU), retirei a inexistente conciliação, acrescentei a faculdade de pôr fim à mora num mês (art. 1084.º, n.ºs 3 e 4), a desocupação após um mês (art. 1087.º) e os requisitos do procedimento especial de despejo (art. 15.º NRAU).",
+  "titulo": "Notificação de Resolução de Arrendamento por Falta de Pagamento de Rendas e Requerimento no BAS",
+  "titulo_en": "Notice of Termination of a Lease for Non-Payment of Rent and Application to the BAS",
+  "descricao": "Redige a comunicação de resolução do contrato de arrendamento urbano por falta de pagamento de rendas (arts. 1083.º, n.º 3, e 1084.º, n.º 2, CC; art. 9.º, n.º 7, NRAU) e articula o requerimento de despejo no Balcão do Arrendatário e do Senhorio (BAS), que sucedeu ao Balcão Nacional do Arrendamento (arts. 15.º e 15.º-A NRAU). Calcula as rendas em atraso, os juros de mora (arts. 804.º e 806.º CC) e a indemnização pela não restituição do locado (art. 1045.º CC).",
+  "descricao_en": "Drafts the notice terminating an urban lease for non-payment of rent (Articles 1083(3) and 1084(2) CC; Article 9(7) NRAU) and prepares the eviction application to the Tenant and Landlord Office (Balcão do Arrendatário e do Senhorio — BAS), which replaced the National Lease Office (BNA) (Articles 15 and 15-A NRAU). Calculates the rent arrears, default interest (Articles 804 and 806 CC) and the compensation for failure to return the premises (Article 1045 CC).",
+  "substituicoes": [
+   {
+    "de": "— Verifica sempre o prazo legal de mora antes da resolução (2 meses para habitacional — art. 1083.º, n.º 3, CC).",
+    "para": "— Verifica sempre o prazo legal de mora antes da resolução: mora igual ou superior a três meses no pagamento da renda, encargos ou despesas (art. 1083.º, n.º 3, CC), ou mora superior a oito dias, por mais de quatro vezes, seguidas ou interpoladas, num período de 12 meses, depois de o senhorio ter avisado o arrendatário por carta registada com aviso de receção após o terceiro atraso (art. 1083.º, n.ºs 4 e 6, CC).\n— A resolução deve ser efetivada no prazo de três meses a contar do conhecimento do facto, sob pena de caducidade (art. 1085.º, n.º 2, CC; facto continuado: n.º 3); quando fundada na mora do art. 1083.º, n.º 3, CC, fica sem efeito se o arrendatário puser fim à mora no prazo de um mês — faculdade que só pode usar uma vez por contrato (art. 1084.º, n.ºs 3 e 4, CC) e que não existe na resolução fundada no n.º 4 do art. 1083.º CC.",
+    "motivo": "Na redação em vigor, o art. 1083.º, n.º 3, CC exige mora igual ou superior a três meses, não dois; faltavam a caducidade de três meses (art. 1085.º, n.º 2) e a faculdade de pôr fim à mora (art. 1084.º, n.ºs 3 e 4).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1083&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Via escolhida: BNA (processo simplificado) ou ação judicial tradicional?\n- Possibilidade de conciliação no BNA: arrendatário está contactável?",
+    "para": "- Via escolhida: procedimento especial de despejo no Balcão do Arrendatário e do Senhorio (BAS, que sucedeu ao BNA — art. 15.º-A NRAU) ou ação de despejo?\n- Comunicação de resolução: há domicílio convencionado no contrato escrito? (determina a forma — art. 9.º, n.º 7, NRAU); o locado é casa de morada de família? (art. 12.º NRAU)\n- Requisito do procedimento especial de despejo: imposto do selo liquidado ou rendas declaradas em IRS/IRC (art. 15.º, n.º 5, NRAU)\n- Fiador: notificado da mora e das quantias em dívida nos 90 dias seguintes (art. 1041.º, n.ºs 5 e 6, CC)?",
+    "motivo": "O BNA deu lugar ao BAS (art. 15.º-A NRAU) e o procedimento especial de despejo não tem fase de conciliação; faltavam a forma da comunicação e os requisitos do procedimento.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=691A0015&nid=691&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Art. 1041.º CC: obrigação de pagar renda e juros de mora\n- Art. 1083.º, n.º 3, CC: fundamento de resolução — mora superior a 2 meses (habitacional)\n- Art. 1084.º CC: efeitos da resolução\n- Art. 1085.º CC: prazo para entrega do locado após resolução\n- DL n.º 1/2013: procedimento especial de despejo no BNA\n- Art. 15.º NRAU: notificação prévia obrigatória",
+    "para": "- Art. 1038.º, al. a), CC: obrigação de pagar a renda\n- Art. 1041.º CC: mora do locatário — indemnização de 20% do que for devido, que não é devida se o contrato for resolvido com base na falta de pagamento (n.º 1); notificação do fiador nos 90 dias seguintes (n.ºs 5 e 6)\n- Arts. 804.º e 806.º CC: juros de mora à taxa legal civil\n- Art. 1083.º, n.º 3, CC: fundamento de resolução — mora igual ou superior a três meses (n.º 3), ou mais de quatro atrasos superiores a oito dias em 12 meses (n.ºs 4 e 6)\n- Art. 1084.º CC: modo de operar — resolução por comunicação à contraparte (n.º 2), que, se fundada na mora do art. 1083.º, n.º 3, CC, fica sem efeito se o arrendatário puser fim à mora no prazo de um mês, uma única vez por contrato (n.ºs 3 e 4)\n- Art. 1085.º CC: caducidade do direito de resolução — três meses a contar do conhecimento do facto (n.º 2)\n- Art. 1087.º CC: desocupação exigível após o decurso de um mês a contar da resolução\n- Art. 9.º, n.º 7, NRAU: forma da comunicação de resolução (notificação avulsa; contacto pessoal de advogado, solicitador ou agente de execução; carta registada com aviso de receção só com domicílio convencionado no contrato escrito)\n- Arts. 15.º e seguintes NRAU: procedimento especial de despejo no BAS — na resolução, servem de base o contrato e o comprovativo da comunicação do art. 1084.º, n.º 2, CC (art. 15.º, n.º 2, al. e)); só para contratos com imposto do selo liquidado ou rendas declaradas (n.º 5)",
+    "motivo": "O art. 1041.º CC não regula juros de mora, o art. 1085.º CC é a caducidade da resolução (não a entrega do locado, art. 1087.º CC) e o art. 15.º NRAU define os títulos do procedimento especial de despejo, hoje tramitado no BAS.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1083&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Requerimento inicial no BNA",
+    "para": "- Requerimento de despejo no BAS (art. 15.º-B NRAU)",
+    "motivo": "O requerimento de despejo é apresentado no Balcão do Arrendatário e do Senhorio (arts. 15.º-A e 15.º-B NRAU).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=691A0015&nid=691&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "(Carta registada com aviso de receção)",
+    "para": "(Notificação avulsa ou contacto pessoal de advogado, solicitador ou agente de execução; carta registada com aviso de receção só se o contrato escrito tiver domicílio convencionado — art. 9.º, n.º 7, NRAU)",
+    "motivo": "A comunicação de resolução por falta de pagamento não pode ser feita por simples carta registada, salvo domicílio convencionado (art. 9.º, n.º 7, NRAU).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=691A0009&nid=691&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "Juros de mora à taxa legal civil (art. 1041.º CC): € [TOTAL JUROS]",
+    "para": "Juros de mora à taxa legal civil (arts. 804.º e 806.º CC): € [TOTAL JUROS]",
+    "motivo": "O art. 1041.º CC não regula juros de mora (prevê a indemnização de 20 %, não devida em caso de resolução).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0806&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "Nos termos do art. 1083.º, n.º 3, do CC, o senhorio pode resolver o contrato de arrendamento para habitação quando o arrendatário se constitua em mora superior a dois meses no pagamento da renda. Verificando-se tal mora, o Senhorio resolve o contrato com efeitos imediatos.",
+    "para": "Nos termos do art. 1083.º, n.º 3, do CC, é inexigível ao senhorio a manutenção do arrendamento em caso de mora igual ou superior a três meses no pagamento da renda, encargos ou despesas que corram por conta do arrendatário. Verificando-se tal mora, o Senhorio resolve o contrato, por esta comunicação, nos termos do art. 1084.º, n.º 2, do CC. [Informação facultativa ao arrendatário: a resolução fica sem efeito se V. Exa. puser fim à mora no prazo de um mês, faculdade que só pode ser usada uma vez por contrato (art. 1084.º, n.ºs 3 e 4, do CC).]",
+    "motivo": "Na redação em vigor, o art. 1083.º, n.º 3, CC exige mora igual ou superior a três meses; a resolução fica sem efeito se a mora cessar num mês (art. 1084.º, n.º 3, CC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1083&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "Notifica-se V. Exa. para desocupar e entregar o locado no prazo de [30] dias a contar da receção da presente comunicação. Caso não proceda à entrega voluntária, o Senhorio recorrerá ao Balcão Nacional do Arrendamento para obtenção de título de despejo.",
+    "para": "Notifica-se V. Exa. para desocupar e entregar o locado, o que é exigível após o decurso de um mês a contar da resolução (art. 1087.º do CC) [ou no prazo acordado entre as partes]. Caso não proceda à entrega voluntária, o Senhorio recorrerá ao procedimento especial de despejo no Balcão do Arrendatário e do Senhorio (BAS) para obtenção de título para desocupação do locado.",
+    "motivo": "A desocupação é exigível um mês após a resolução (art. 1087.º CC); o BNA deu lugar ao BAS (art. 15.º-A NRAU).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1087&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "Juros de mora (art. 1041.º, n.º 1, CC — taxa legal civil):\nSoma [€ renda_mês × taxa_diária × dias_em_mora] para cada renda\n[■ VERIFICAR: taxa legal civil vigente — publicada por Portaria]",
+    "para": "Juros de mora (arts. 804.º e 806.º CC — taxa legal civil):\nSoma [€ renda_mês × taxa_diária × dias_em_mora] para cada renda\nTaxa legal civil: 4% ao ano (Portaria n.º 291/2003, de 8 de abril — art. 559.º, n.º 1, CC) [■ VERIFICAR: que se mantém em vigor à data do cálculo]",
+    "motivo": "Os juros de mora resultam dos arts. 804.º e 806.º CC, à taxa da Portaria n.º 291/2003 (4 %).",
+    "fonte": "https://e-justice.europa.eu/topics/taking-legal-action/where-and-how/interest-rates/pt_pt"
+   },
+   {
+    "de": "Indemnização (art. 1041.º, n.º 2, CC): [€ — se aplicável]",
+    "para": "Indemnização de 20% (art. 1041.º, n.º 1, CC): não devida, porque o contrato é resolvido com base na falta de pagamento\nIndemnização pela não restituição do locado após a cessação — valor da renda até à restituição, elevado ao dobro com a mora do arrendatário (art. 1045.º CC): [€ — se aplicável]",
+    "motivo": "A indemnização do art. 1041.º, n.º 1, CC não é devida quando o contrato é resolvido por falta de pagamento; após a cessação aplica-se o art. 1045.º CC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1045&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- [ ] Mora superior a 2 meses para arrendamento habitacional verificada (art. 1083.º, n.º 3, CC)\n- [ ] Comunicação enviada por carta registada com aviso de receção",
+    "para": "- [ ] Mora igual ou superior a 3 meses verificada (art. 1083.º, n.º 3, CC) e resolução efetivada nos 3 meses seguintes ao conhecimento (art. 1085.º, n.º 2, CC)\n- [ ] Comunicação feita por notificação avulsa ou contacto pessoal de advogado, solicitador ou agente de execução, ou por carta registada com aviso de receção se houver domicílio convencionado no contrato escrito (art. 9.º, n.º 7, NRAU); se o locado for casa de morada de família, dirigida a cada um dos cônjuges (art. 12.º, n.º 1, NRAU)",
+    "motivo": "Prazo de mora em vigor (art. 1083.º, n.º 3, CC), caducidade (art. 1085.º, n.º 2, CC) e forma da comunicação de resolução (arts. 9.º, n.º 7, e 12.º NRAU).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=691A0009&nid=691&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- [ ] Prazo de entrega voluntária do locado fixado (min. 1 mês)\n- [ ] Via BNA identificada (DL n.º 1/2013)",
+    "para": "- [ ] Prazo de entrega voluntária do locado indicado (desocupação exigível após um mês a contar da resolução — art. 1087.º CC)\n- [ ] Procedimento especial de despejo no BAS (arts. 15.º e 15.º-A NRAU), com imposto do selo liquidado ou rendas declaradas (art. 15.º, n.º 5, NRAU)",
+    "motivo": "O BNA deu lugar ao BAS (art. 15.º-A NRAU); o procedimento exige imposto do selo liquidado ou rendas declaradas (art. 15.º, n.º 5, NRAU).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=691A0015&nid=691&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Tentativas anteriores de cobrança: [sim/não]",
+    "para": "- Tentativas anteriores de cobrança: [sim/não]\n- Domicílio convencionado no contrato escrito: [sim/não]\n- Casa de morada de família: [sim/não — nome do cônjuge]\n- Fiador (nome, morada) e data da notificação da mora: [dados]\n- Imposto do selo liquidado ou rendas declaradas em IRS/IRC: [sim/não]",
+    "motivo": "Dados de que dependem a forma da comunicação (arts. 9.º, n.º 7, e 12.º NRAU), a responsabilidade do fiador (art. 1041.º, n.ºs 5 e 6, CC) e o acesso ao procedimento especial de despejo (art. 15.º, n.º 5, NRAU).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=691A0009&nid=691&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar a regulamentação em vigor do BAS e do procedimento especial de despejo (modelo do requerimento e taxa) antes de o submeter.",
+   "Pôr fim à mora no prazo de um mês pode exigir também o pagamento da indemnização do art. 1041.º, n.º 1, CC (arts. 1042.º e 1048.º, n.º 4, CC): confirmar a posição da jurisprudência.",
+   "O pedido de pagamento das rendas no procedimento especial de despejo exige que o montante em dívida tenha sido comunicado ao arrendatário (art. 15.º, n.º 6, NRAU).",
+   "Arrendatário não localizado: ver o art. 10.º, n.º 5, NRAU e o art. 15.º, n.º 4, NRAU.",
+   "Contratos anteriores ao NRAU ou não habitacionais: confirmar o regime aplicável."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1038&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1041&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1045&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1048&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1083&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1087&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0806&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=691A0009&nid=691&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=691A0015&nid=691&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://e-justice.europa.eu/topics/taking-legal-action/where-and-how/interest-rates/pt_pt",
+   "https://pgdlisboa.pt/leis/lei_mostra_revogado.php?nid=796"
+  ]
+ }
+]

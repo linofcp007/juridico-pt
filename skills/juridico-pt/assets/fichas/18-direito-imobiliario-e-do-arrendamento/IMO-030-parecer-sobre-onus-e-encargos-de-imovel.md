@@ -6,7 +6,8 @@ titulo_en: "Opinion on Charges and Encumbrances on a Property"
 descricao: "Analisa a certidão predial de um imóvel e elabora um parecer jurídico sobre os ónus e encargos inscritos (hipotecas, penhoras, servidões, usufruto, promessas com eficácia real, ónus reais), avaliando os riscos para o adquirente e as diligências necessárias para o saneamento antes da escritura."
 descricao_en: "Analyses a property's land registry certificate and prepares a legal opinion on the registered charges and encumbrances (mortgages, attachments, easements, usufruct, promises with real effect, real burdens), assessing the risks for the buyer and the steps needed to clear them before the deed."
 ambito: nacional
-estado_citacoes: "conferidas 5 · corrigidas 1 · por conferir 3"
+estado_citacoes: "conferidas 8 · corrigidas 1 · por conferir 2"
+revisao_tecnica: "2026-10-28 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
@@ -14,7 +15,8 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 
 > **Âmbito:** nacional · **Área:** Direito Imobiliário e do Arrendamento · **Código:** IMO-030
 > **EN:** Opinion on Charges and Encumbrances on a Property. Analyses a property's land registry certificate and prepares a legal opinion on the registered charges and encumbrances (mortgages, attachments, easements, usufruct, promises with real effect, real burdens), assessing the risks for the buyer and the steps needed to clear them before the deed.
-> **Citações:** conferidas 5 · corrigidas 1 · por conferir 3. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 8 · corrigidas 1 · por conferir 2. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-28 — corrigida (6 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
 Analisa a certidão predial de um imóvel e elabora um parecer jurídico sobre os ónus e encargos inscritos (hipotecas, penhoras, servidões, usufruto, promessas com eficácia real, ónus reais), avaliando os riscos para o adquirente e as diligências necessárias para o saneamento antes da escritura.
 
@@ -45,13 +47,13 @@ Apresenta dentro de um bloco <analise_do_caso>:
 
 ### ETAPA 2 — ANÁLISE JURÍDICA (Fundamentação)
 Apresenta dentro de um bloco <fundamentos_juridicos>:
-- Art. 879.º CC (efeitos da compra e venda — riscos ao comprador)
-- Art. 905.º CC (evicção — proteção do comprador perante terceiros)
+- Art. 879.º CC (efeitos essenciais da compra e venda: transmissão da propriedade, obrigação de entregar a coisa e de pagar o preço)
+- Art. 905.º CC (venda de bens onerados: anulabilidade por erro ou dolo, com o regime dos arts. 906.º a 912.º CC — convalescença do contrato, expurgação dos ónus e cancelamento dos registos, indemnização e redução do preço)
 - Art. 2.º, n.º 1 CRPredial (factos sujeitos a registo)
-- Art. 4.º CRPredial (oponibilidade — priority of register)
+- Arts. 5.º e 6.º CRPredial (oponibilidade a terceiros e prioridade do registo)
 - Art. 686.º CC (hipoteca — conteúdo)
-- Arts. 832.º e 833.º CC (extinção da hipoteca — distrate) [■ VERIFICAR: os arts. 832.º e 833.º CC tratam da cessão de bens aos credores; a extinção da hipoteca está nos arts. 730.º e 731.º CC]
-- Art. 786.º CC (penhora — efeitos)
+- Arts. 730.º e 731.º CC (extinção da hipoteca, nomeadamente pela renúncia do credor, que deve ser expressa e constar de documento com a assinatura do renunciante reconhecida presencialmente — base do distrate e do cancelamento do registo)
+- Art. 819.º CC (penhora: sem prejuízo das regras do registo, os atos de disposição, oneração ou arrendamento dos bens penhorados são inoponíveis à execução)
 - Arts. 1543.º e 1544.º CC (servidões prediais)
 
 ### ETAPA 3 — CONSTRUÇÃO (Classificação de Riscos)
@@ -85,7 +87,7 @@ Diligências necessárias:
 
 **Ónus 2 — Penhora (processo [número — VERIFICAR])**
 Risco: **MUITO ALTO**
-Análise: "Imóvel com penhora não pode ser transmitido sem autorização do tribunal ou sem levantamento da penhora. A compra de imóvel com penhora é nula ou anulável e o adquirente pode ser atingido pela execução."
+Análise: "A penhora registada não impede a venda, que é válida entre as partes, mas, sem prejuízo das regras do registo, é inoponível à execução (art. 819.º CC): o adquirente recebe o imóvel sujeito à penhora e pode perdê-lo na venda executiva. A compra só é segura com o cancelamento da penhora assegurado antes ou na escritura."
 Diligências necessárias:
 — Identificar o processo de execução [■ VERIFICAR]
 — Consultar o credor exequente sobre a possibilidade de levantamento da penhora mediante pagamento
@@ -142,9 +144,11 @@ Apresenta dentro de um bloco <checklist_validacao>:
 | art. 413.º CC | conferida (epígrafe) — Eficácia real da promessa |  |
 | Art. 879.º CC | conferida (epígrafe) — Efeitos essenciais |  |
 | Art. 905.º CC | conferida (epígrafe) — Anulabilidade por erro ou dolo |  |
+| arts. 906.º a 912.º CC | conferida (epígrafe) — Convalescença do contrato |  |
 | Art. 2.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| Art. 4.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| Arts. 5.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | Art. 686.º CC | corrigida — Noção | o número citado no catálogo não correspondia à epígrafe |
-| Arts. 832.º e 833.º CC | por conferir [■ VERIFICAR] | os arts. 832.º e 833.º CC tratam da cessão de bens aos credores; a extinção da hipoteca está nos arts. 730.º e 731.º CC |
-| Art. 786.º CC | conferida (índice) |  |
+| Arts. 730.º e 731.º CC | conferida (epígrafe) — Causas de extinção |  |
+| Art. 819.º CC | conferida (epígrafe) — Disposição ou oneração dos bens penhorados |  |
 | Arts. 1543.º e 1544.º CC | conferida (epígrafe) — Noção |  |
+| art. 819.º CC | conferida (epígrafe) — Disposição ou oneração dos bens penhorados |  |

@@ -1,0 +1,687 @@
+[
+ {
+  "codigo": "INS-012",
+  "veredicto": "corrigida",
+  "resumo": "A ficha mantinha o período de cessão de 5 anos, que desde a Lei n.º 9/2022 é de 3 anos (arts. 235.º, 237.º e 239.º CIRE), e enumerava impedimentos que não existem no art. 238.º, n.º 1 (oposição à insolvência, «falência ficta», fraude fiscal), omitindo as sete alíneas reais. Os créditos excluídos da exoneração estavam errados (faltavam os créditos tributários e da segurança social, as coimas e multas; «morte/lesão corporal» não é o critério legal). Corrigiram-se ainda o momento do pedido (art. 236.º, n.º 1), os deveres do devedor (art. 239.º, n.º 4), a decisão final (art. 244.º) e acrescentou-se a prorrogação do art. 242.º-A e a declaração do art. 236.º, n.º 3.",
+  "substituicoes": [
+   {
+    "de": "  a) Insolvência culposa declarada no processo\n  b) Condenação por crime de insolvência dolosa, falência ficta, fraude fiscal (10 anos anteriores)\n  c) Beneficiou de EPR nos 10 anos anteriores\n  d) Não entregou documentação exigida\n  e) Deduziu oposição à insolvência em processo iniciado por credor",
+    "para": "  a) Pedido apresentado fora de prazo (art. 236.º, n.º 1, CIRE)\n  b) Informações falsas ou incompletas prestadas por escrito, com dolo ou culpa grave, nos três anos anteriores ao início do processo, para obter crédito ou subsídios de instituições públicas ou evitar pagamentos a essas instituições\n  c) Beneficiou de EPR nos 10 anos anteriores à data do início do processo de insolvência\n  d) Incumprimento do dever de apresentação à insolvência ou, não estando obrigado, abstenção de apresentação nos seis meses seguintes à situação de insolvência, com prejuízo para os credores e sem perspetiva séria de melhoria da situação económica\n  e) Elementos no processo que indiciem com toda a probabilidade culpa do devedor na criação ou agravamento da insolvência (art. 186.º CIRE)\n  f) Condenação, por sentença transitada em julgado, por crime de insolvência dolosa, frustração de créditos, insolvência negligente ou favorecimento de credores (arts. 227.º a 229.º do Código Penal) nos 10 anos anteriores à entrada do pedido de insolvência ou posteriormente\n  g) Violação, com dolo ou culpa grave, dos deveres de informação, apresentação e colaboração no processo de insolvência",
+    "motivo": "Os impedimentos indicados não correspondem ao art. 238.º, n.º 1, CIRE (a «oposição à insolvência» e a «falência ficta» não existem; a fraude fiscal não consta); substituídos pelas sete alíneas legais.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0238&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Período de cessão: 5 anos (art. 239.º CIRE)",
+    "para": "- Período de cessão: 3 anos subsequentes ao encerramento do processo de insolvência (art. 239.º CIRE, na redação da Lei n.º 9/2022), prorrogável uma única vez, até 3 anos, se o devedor violar as suas obrigações (art. 242.º-A CIRE)",
+    "motivo": "Desde a Lei n.º 9/2022 o período de cessão é de 3 anos (art. 239.º, n.º 2, CIRE), com possibilidade de prorrogação (art. 242.º-A).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0239&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Art. 236.º CIRE — momento do pedido: na petição inicial ou até ao encerramento da assembleia de apreciação",
+    "para": "- Art. 236.º CIRE — momento do pedido: no requerimento de apresentação à insolvência ou nos 10 dias posteriores à citação; é sempre rejeitado se deduzido após a assembleia de apreciação do relatório (ou, dispensada esta, após os 60 dias subsequentes à sentença), decidindo o juiz livremente sobre o pedido apresentado no período intermédio (n.º 1)",
+    "motivo": "O prazo do pedido não é «até ao encerramento da assembleia»: é o da apresentação ou dos 10 dias após a citação, com um período intermédio de apreciação livre (art. 236.º, n.º 1, CIRE).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0236&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Art. 239.º CIRE — período de cessão de rendimentos (5 anos); rendimentos excedentários cedidos ao fiduciário",
+    "para": "- Art. 239.º CIRE — período de cessão de rendimentos (3 anos subsequentes ao encerramento do processo, n.º 2); o rendimento disponível é cedido ao fiduciário, excluído o razoavelmente necessário ao sustento minimamente digno do devedor e do agregado familiar (que, salvo decisão fundamentada do juiz, não deve exceder três vezes o salário mínimo nacional) e ao exercício da sua atividade profissional (n.º 3)",
+    "motivo": "Período de cessão de 3 anos desde a Lei n.º 9/2022 e critério legal do rendimento excluído (art. 239.º, n.os 2 e 3, CIRE).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0239&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "— exoneração definitiva após 5 anos",
+    "para": "— decisão final sobre a exoneração nos 10 dias subsequentes ao termo do período de cessão (3 anos) ou da sua prorrogação (art. 242.º-A CIRE)",
+    "motivo": "O art. 244.º CIRE, na redação da Lei n.º 9/2022, prevê a decisão final nos 10 dias após o termo do período de cessão, que é de 3 anos.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0244&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Art. 245.º CIRE — créditos excluídos da exoneração (alimentos, indemnizações por morte/lesão corporal, créditos pós-insolvência)",
+    "para": "- Art. 245.º CIRE — efeitos e créditos excluídos da exoneração (n.º 2): créditos por alimentos; indemnizações devidas por factos ilícitos dolosos do devedor, reclamadas nessa qualidade; multas, coimas e outras sanções pecuniárias por crimes ou contraordenações; créditos tributários e da segurança social. As dívidas constituídas após a declaração de insolvência não são abrangidas por não serem créditos sobre a insolvência (n.º 1)",
+    "motivo": "A lista de exclusões não correspondia ao art. 245.º, n.º 2, CIRE: faltavam os créditos tributários e da segurança social e as multas e coimas; o critério é o facto ilícito doloso, não a «morte/lesão corporal».",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0245&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "3.2. Ausência de impedimentos — arts. 238.º, n.º 1, als. a) a f) CIRE:\n   - Não foi declarada insolvência culposa no presente processo\n   - Não foi condenado por crimes de insolvência dolosa, falência ficta ou fraude fiscal nos últimos 10 anos\n   - Não beneficiou de EPR nos últimos 10 anos\n   - Entregou toda a documentação exigida\n   - [Outros impedimentos — verificar e afastar todos]",
+    "para": "3.2. Ausência de motivos de indeferimento liminar — art. 238.º, n.º 1, als. a) a g), CIRE:\n   - O pedido é tempestivo (art. 236.º, n.º 1, CIRE)\n   - Não constam do processo elementos que indiciem culpa do Requerente na criação ou agravamento da situação de insolvência\n   - Não foi condenado por crimes de insolvência dolosa, frustração de créditos, insolvência negligente ou favorecimento de credores (arts. 227.º a 229.º do Código Penal) nos últimos 10 anos\n   - Não beneficiou de EPR nos 10 anos anteriores ao início do processo de insolvência\n   - Não prestou por escrito, nos três anos anteriores, informações falsas ou incompletas para obter crédito ou subsídios públicos\n   - Não se verifica a situação da al. d): falta ou atraso na apresentação à insolvência com prejuízo para os credores, sabendo não existir perspetiva séria de melhoria da situação económica\n   - Cumpriu os deveres de informação, apresentação e colaboração no processo",
+    "motivo": "O art. 238.º, n.º 1, CIRE tem as alíneas a) a g); a «falência ficta», a fraude fiscal e a «documentação exigida» não são os fundamentos legais.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0238&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Comunicar ao fiduciário qualquer mudança de residência, emprego ou variação de rendimento\n- Entregar ao fiduciário o rendimento cedível\n- Não pagar aos credores da insolvência fora do processo",
+    "para": "- Não ocultar nem dissimular rendimentos e informar o tribunal e o fiduciário sobre os seus rendimentos e património, na forma e no prazo em que tal lhe seja requisitado\n- Informar o tribunal e o fiduciário de qualquer mudança de domicílio ou de condições de emprego, no prazo de 10 dias após a respetiva ocorrência\n- Entregar imediatamente ao fiduciário a parte dos rendimentos objeto de cessão\n- Não fazer pagamentos aos credores da insolvência senão através do fiduciário, nem criar vantagens especiais para algum deles\n\nO Requerente declara ainda, para os efeitos do pedido de exoneração (art. 236.º, n.º 3, do CIRE), que preenche os requisitos e se dispõe a observar todas as condições legalmente exigidas.",
+    "motivo": "Os deveres seguem o art. 239.º, n.º 4, CIRE (a informação é devida também ao tribunal, no prazo de 10 dias); o requerimento tem de conter a declaração expressa do art. 236.º, n.º 3.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0239&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "(art. 245.º CIRE — alimentos, etc.)",
+    "para": "(art. 245.º CIRE — alimentos, indemnizações por factos ilícitos dolosos, multas e coimas, créditos tributários e da segurança social)",
+    "motivo": "Completar as exclusões do art. 245.º, n.º 2, CIRE, em especial os créditos tributários e da segurança social.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0245&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Insolvência culposa declarada neste processo? [sim/não]\n- Condenação por insolvência dolosa, falência ficta ou fraude fiscal nos últimos 10 anos? [sim/não]\n- Beneficiou de EPR nos últimos 10 anos? [sim/não]\n- Entregou toda a documentação exigida? [sim/não]\n- Deduziu oposição em processo iniciado por credor? [sim/não]",
+    "para": "- Data da citação ou da apresentação à insolvência (prazo do pedido): [data]\n- Há no processo elementos que indiciem insolvência culposa? [sim/não]\n- Condenação por crime dos arts. 227.º a 229.º do Código Penal (insolvência dolosa, frustração de créditos, insolvência negligente, favorecimento de credores) nos últimos 10 anos? [sim/não]\n- Beneficiou de EPR nos 10 anos anteriores ao início do processo? [sim/não]\n- Prestou por escrito, nos 3 anos anteriores, informações falsas ou incompletas para obter crédito ou subsídios públicos? [sim/não]\n- Apresentou-se à insolvência a tempo (ou, não estando obrigado, nos 6 meses seguintes à situação de insolvência)? [sim/não]\n- Cumpriu os deveres de informação, apresentação e colaboração no processo? [sim/não]",
+    "motivo": "A entrevista perguntava por impedimentos inexistentes; passa a seguir as alíneas do art. 238.º, n.º 1, CIRE.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0238&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Existem créditos de alimentos a pagar? [sim/não — EPR não os exonera]",
+    "para": "- Existem créditos por alimentos, créditos tributários ou da segurança social, multas ou coimas? [sim/não — a EPR não os abrange]",
+    "motivo": "O art. 245.º, n.º 2, CIRE exclui também os créditos tributários e da segurança social e as sanções pecuniárias.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0245&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "A descrição da ficha (frontmatter, PT e EN) ainda fala em «cinco anos»: tem de passar a três anos.",
+   "Confirmar o regime transitório da Lei n.º 9/2022 para processos com despacho inicial anterior à sua entrada em vigor (períodos de cessão em curso).",
+   "Confirmar o critério do rendimento indisponível na comarca (prática do juízo quanto ao limite de três vezes o salário mínimo nacional)."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0235&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0236&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0237&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0238&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0239&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0242A&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0243&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0244&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0245&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+  ]
+ },
+ {
+  "codigo": "INS-013",
+  "veredicto": "corrigida",
+  "resumo": "Os fundamentos de cessação antecipada eram inventados («melhoria substancial da situação económica», «condenação por crime durante a cessão») e a lista de impedimentos do art. 238.º, n.º 1, CIRE não correspondia à lei. Passam a seguir o art. 243.º, n.º 1 (violação dolosa ou com negligência grave das obrigações do art. 239.º, circunstâncias das als. b), e) e f) do art. 238.º conhecidas depois do despacho inicial, insolvência culposa), com a legitimidade do n.º 1 e o prazo de seis meses do n.º 2. Corrigiu-se a fase inicial (pronúncia dos credores, art. 236.º, n.º 4) e retirou-se a afirmação, sem base legal, de que a recusa impede novo pedido por 10 anos.",
+  "substituicoes": [
+   {
+    "de": "- Fase do processo: oposição ao despacho inicial (art. 237.º CIRE) OU incidente de cessação antecipada (art. 241.º)",
+    "para": "- Fase do processo: pronúncia sobre o pedido antes do despacho inicial (art. 236.º, n.º 4, CIRE; despacho inicial — art. 237.º CIRE) OU requerimento de cessação antecipada durante o período de cessão (art. 243.º CIRE)",
+    "motivo": "Antes do despacho inicial, credores e administrador pronunciam-se nos termos do art. 236.º, n.º 4; a cessação antecipada está no art. 243.º CIRE (o art. 241.º trata das funções do fiduciário).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0236&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "  a) Impedimento do art. 238.º CIRE não detetado inicialmente (insolvência culposa, condenação penal, EPR anterior)\n  b) Incumprimento de deveres durante o período de cessão (art. 240.º + art. 241.º CIRE)",
+    "para": "  a) Motivo de indeferimento liminar do art. 238.º CIRE: antes do despacho inicial, qualquer das als. a) a g) do n.º 1; depois dele, só as circunstâncias das als. b), e) e f) conhecidas pelo requerente após o despacho inicial ou supervenientes (art. 243.º, n.º 1, al. b), CIRE)\n  b) Violação, com dolo ou negligência grave, das obrigações do devedor durante o período de cessão, com prejuízo para a satisfação dos créditos sobre a insolvência (art. 239.º, n.º 4, CIRE; art. 243.º, n.º 1, al. a), CIRE)",
+    "motivo": "Depois do despacho inicial só relevam as als. b), e) e f) do art. 238.º, n.º 1 (não a EPR anterior); a violação de deveres exige dolo ou negligência grave e prejuízo (art. 243.º, n.º 1, CIRE); os deveres estão no art. 239.º, n.º 4.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0243&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "  d) Pagamento indevido a credores fora do processo durante a cessão",
+    "para": "  d) Pagamento indevido a credores fora do processo durante a cessão (art. 239.º, n.º 4, al. e), CIRE)\n  e) Insolvência qualificada como culposa no incidente de qualificação (art. 243.º, n.º 1, al. c), CIRE)\n- Prazo: o requerimento de cessação antecipada só pode ser apresentado nos seis meses seguintes à data em que o requerente teve ou poderia ter tido conhecimento dos fundamentos, com a prova (art. 243.º, n.º 2, CIRE)",
+    "motivo": "Falta o fundamento da al. c) do art. 243.º, n.º 1, e o prazo de seis meses do n.º 2.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0243&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "  a) Insolvência culposa\n  b) Condenação por crime de insolvência dolosa, falência ficta, fraude fiscal (nos 10 anos anteriores)\n  c) Benefício de EPR nos 10 anos anteriores\n  d) Não entrega de documentação\n  e) Oposição à insolvência em processo por credor\n  f) Fornecimento de informação falsa ou incompleta",
+    "para": "  a) Pedido apresentado fora de prazo\n  b) Informações falsas ou incompletas prestadas por escrito, com dolo ou culpa grave, nos três anos anteriores ao início do processo, para obter crédito ou subsídios de instituições públicas ou evitar pagamentos a essas instituições\n  c) Benefício de EPR nos 10 anos anteriores à data do início do processo de insolvência\n  d) Incumprimento do dever de apresentação à insolvência ou, não estando obrigado, abstenção de apresentação nos seis meses seguintes à situação de insolvência, com prejuízo para os credores e sem perspetiva séria de melhoria\n  e) Elementos que indiciem com toda a probabilidade culpa do devedor na criação ou agravamento da insolvência (art. 186.º CIRE)\n  f) Condenação, por sentença transitada em julgado, por crime de insolvência dolosa, frustração de créditos, insolvência negligente ou favorecimento de credores (arts. 227.º a 229.º do Código Penal) nos 10 anos anteriores à entrada do pedido de insolvência ou posteriormente\n  g) Violação, com dolo ou culpa grave, dos deveres de informação, apresentação e colaboração no processo de insolvência",
+    "motivo": "As alíneas não correspondiam ao art. 238.º, n.º 1, CIRE (a «oposição à insolvência», a «falência ficta» e a fraude fiscal não constam; faltavam as als. a), d) e g)).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0238&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "  a) Violação culposa dos deveres do art. 240.º\n  b) Condenação por crime durante o período de cessão\n  c) Melhoria substancial da situação económica não comunicada",
+    "para": "  a) Violação, com dolo ou negligência grave, das obrigações do art. 239.º, n.º 4, CIRE, com prejuízo para a satisfação dos créditos sobre a insolvência\n  b) Circunstâncias das als. b), e) e f) do n.º 1 do art. 238.º CIRE conhecidas pelo requerente após o despacho inicial ou supervenientes\n  c) Qualificação da insolvência como culposa no respetivo incidente",
+    "motivo": "Os fundamentos indicados não estão na lei; são os das als. a) a c) do art. 243.º, n.º 1, CIRE.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0243&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "— legitimidade para requerer a cessação",
+    "para": "— prazo de seis meses a contar da data em que o requerente teve ou poderia ter tido conhecimento dos fundamentos, oferecendo logo a prova; têm legitimidade (n.º 1) qualquer credor da insolvência, o administrador da insolvência, se ainda estiver em funções, e o fiduciário incumbido de fiscalizar o cumprimento das obrigações do devedor",
+    "motivo": "O n.º 2 do art. 243.º CIRE fixa o prazo; a legitimidade está no n.º 1.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0243&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Consequências para o devedor: perda do benefício sem direito a novo pedido por 10 anos",
+    "para": "- Consequências para o devedor: recusa da exoneração, mantendo-se os créditos sobre a insolvência não satisfeitos [■ VERIFICAR: efeitos sobre um novo pedido — o art. 238.º, n.º 1, al. c), CIRE só impede quem já tenha beneficiado da exoneração nos 10 anos anteriores]",
+    "motivo": "A lei não prevê um impedimento de 10 anos para quem viu a exoneração recusada; a al. c) do art. 238.º, n.º 1, refere-se a quem dela já beneficiou.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0238&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "\"a) Declarar a cessação antecipada da exoneração nos termos do",
+    "para": "\"a) Recusar a exoneração, declarando a cessação antecipada do procedimento de exoneração, nos termos do",
+    "motivo": "O art. 243.º, n.º 1, CIRE manda o juiz «recusar a exoneração» (cessação antecipada do procedimento).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0243&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- [ ] Legitimidade do oponente verificada (",
+    "para": "- [ ] Legitimidade do oponente verificada (art. 243.º, n.º 1, CIRE) e prazo de seis meses respeitado (",
+    "motivo": "A legitimidade está no n.º 1 do art. 243.º CIRE; o n.º 2, que segue citado, é o prazo.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0243&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- [ ] Prazo verificado",
+    "para": "- [ ] Prazo verificado (na fase inicial, pronúncia na assembleia de apreciação do relatório ou, sendo dispensada, nos 10 dias subsequentes ao prazo de 60 dias após a sentença — art. 236.º, n.º 4, CIRE)",
+    "motivo": "Indicar o momento legal da pronúncia dos credores sobre o pedido (art. 236.º, n.º 4, CIRE).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0236&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Incumprimento art. 240.º: qual dever violado e como",
+    "para": "- Violação das obrigações do art. 239.º, n.º 4, CIRE: qual a obrigação violada, como, o prejuízo para os credores e a data em que o requerente teve conhecimento (prazo de seis meses)",
+    "motivo": "Os deveres do devedor estão no art. 239.º, n.º 4, CIRE (o art. 240.º trata do fiduciário); o prazo de seis meses do art. 243.º, n.º 2, depende da data do conhecimento.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0239&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "A descrição da ficha (frontmatter) cita os «artigos 238.º e 241.º»: a cessação antecipada é o art. 243.º CIRE.",
+   "Confirmar se, após a recusa da exoneração, o devedor pode formular novo pedido noutro processo (o art. 238.º, n.º 1, al. c), só refere quem já beneficiou da exoneração).",
+   "Na fase inicial a peça é uma pronúncia sobre o pedido (art. 236.º, n.º 4, CIRE) e não um articulado autónomo de oposição: adaptar o título se for o caso."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0236&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0237&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0238&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0239&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0240&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0241&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0243&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+  ]
+ },
+ {
+  "codigo": "INS-030",
+  "veredicto": "corrigida",
+  "resumo": "As causas de indeferimento liminar estão no n.º 1 do art. 238.º (não no n.º 2) e a pronúncia dos credores sobre o pedido rege-se pelo art. 236.º, n.º 4, CIRE, não pelo art. 239.º, n.º 4. Os créditos excluídos da EPR omitiam os créditos tributários e da segurança social. Corrigiram-se ainda o cabeçalho («Tribunal de Comércio» já não existe: juízo de comércio do tribunal judicial da comarca), a formulação do rendimento a excluir (art. 239.º, n.º 3) e a nomeação do fiduciário, que não é facultativa (art. 239.º, n.º 2).",
+  "substituicoes": [
+   {
+    "de": "(art. 236.º, n.º 2, CIRE — causas de indeferimento liminar)",
+    "para": "(art. 238.º, n.º 1, CIRE — causas de indeferimento liminar; prazo do pedido — art. 236.º, n.º 1, CIRE)",
+    "motivo": "As causas de indeferimento liminar estão no art. 238.º, n.º 1, CIRE; o n.º 2 trata do momento do despacho.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0238&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Oposição previsível de credores (art. 239.º, n.º 4, CIRE)",
+    "para": "- Oposição previsível de credores e do administrador da insolvência, que se pronunciam sobre o pedido na assembleia de apreciação do relatório ou, sendo dispensada, nos 10 dias subsequentes ao prazo de 60 dias (art. 236.º, n.º 4, CIRE)",
+    "motivo": "A pronúncia dos credores está no art. 236.º, n.º 4, CIRE; o art. 239.º, n.º 4, fixa os deveres do devedor.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0236&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "): alimentos, indemnizações por crimes, multas",
+    "para": "): créditos por alimentos; indemnizações por factos ilícitos dolosos do devedor, reclamadas nessa qualidade; multas, coimas e outras sanções pecuniárias por crimes ou contraordenações; créditos tributários e da segurança social (n.º 2)",
+    "motivo": "Faltavam os créditos tributários e da segurança social e as coimas (art. 245.º, n.º 2, CIRE); o critério é o facto ilícito doloso, não o «crime».",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0245&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "**AO [TRIBUNAL DE COMÉRCIO / JUÍZO DE COMÉRCIO]**",
+    "para": "**AO TRIBUNAL JUDICIAL DA COMARCA DE [COMARCA] — JUÍZO DE COMÉRCIO DE [LOCALIDADE]** (o juízo onde corre o processo de insolvência)",
+    "motivo": "Os tribunais de comércio deram lugar aos juízos de comércio dos tribunais judiciais de comarca (art. 128.º, n.º 1, al. a), da Lei n.º 62/2013).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1974A0128&nid=1974&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "Agreagdo familiar: [composição]",
+    "para": "Agregado familiar: [composição]",
+    "motivo": "Gralha.",
+    "fonte": "https://dicionario.priberam.org/agregado"
+   },
+   {
+    "de": "Propõe-se que o rendimento disponível seja fixado em [€ X/mês], ficando excluído o necessário ao sustento digno do devedor",
+    "para": "Propõe-se que seja excluído do rendimento disponível o montante de [€ X/mês] (que, salvo decisão fundamentada do juiz, não deve exceder três vezes o salário mínimo nacional), por ser o razoavelmente necessário ao sustento minimamente digno do devedor",
+    "motivo": "O juiz fixa o montante excluído do rendimento disponível (razoavelmente necessário ao sustento minimamente digno, em regra até três vezes o salário mínimo nacional) — art. 239.º, n.º 3, al. b), CIRE.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0239&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "b) A fixação do rendimento disponível nos termos propostos;\nc) A nomeação de fiduciário (se aplicável).",
+    "para": "b) A fixação do montante excluído do rendimento disponível nos termos propostos;\nc) A nomeação de fiduciário (art. 239.º, n.º 2, CIRE).",
+    "motivo": "O despacho inicial nomeia sempre o fiduciário a quem o rendimento disponível se considera cedido (art. 239.º, n.º 2, CIRE).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0239&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Indicar no requerimento o período de cessão de 3 anos (Lei n.º 9/2022) se for útil ao cliente; confirmar o regime transitório nos processos antigos.",
+   "Confirmar a prática do juízo quanto ao montante excluído do rendimento disponível acima de três vezes o salário mínimo nacional."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0236&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0238&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0239&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0245&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1974A0128&nid=1974&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://dicionario.priberam.org/agregado"
+  ]
+ },
+ {
+  "codigo": "INS-004",
+  "veredicto": "corrigida",
+  "resumo": "A ficha seguia o regime anterior ao DL n.º 79/2017 e à Lei n.º 9/2022: bastaria um credor, a negociação duraria 3 meses e o plano seria facultativo. Hoje a declaração tem de ser subscrita por credores não especialmente relacionados com, pelo menos, 10 % dos créditos não subordinados (art. 17.º-C, n.º 1), exige-se a declaração de contabilista certificado ou ROC (art. 17.º-A, n.º 2) e a proposta de plano (art. 17.º-C, n.º 3), as negociações duram dois meses prorrogáveis por um (art. 17.º-D, n.º 7) e a suspensão das execuções tem o máximo de quatro meses (art. 17.º-E). O requerimento é da empresa, e o tribunal competente é o juízo de comércio (ou, na sua falta, o juízo central cível).",
+  "substituicoes": [
+   {
+    "de": "- Credores participantes no requerimento — pelo menos um credor deve assinar",
+    "para": "- Credores que subscrevem a declaração de início de negociações: um ou mais credores não especialmente relacionados com a empresa, titulares de, pelo menos, 10 % dos créditos não subordinados relacionados (art. 17.º-C, n.º 1, CIRE); o juiz pode reduzir esse limite a requerimento fundamentado (n.º 9)",
+    "motivo": "Desde o DL n.º 79/2017 já não basta um credor: exige-se 10 % dos créditos não subordinados (art. 17.º-C, n.º 1, CIRE).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0017C&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Prazo do PER: negociação máxima de 3 meses, prorrogável 1 mês (art. 17.º-D)",
+    "para": "- Prazo do PER: negociações de dois meses a contar do fim do prazo de impugnação da lista provisória de créditos, prorrogável uma só vez por um mês, por acordo escrito entre o administrador judicial provisório e a empresa (art. 17.º-D, n.º 7, CIRE); suspensão das ações executivas pelo período máximo de quatro meses, prorrogável por um mês (art. 17.º-E, n.os 1 e 2, CIRE)",
+    "motivo": "O prazo de negociação é de dois meses + um (art. 17.º-D, n.º 7, CIRE) e a suspensão das execuções tem o limite de quatro meses desde a Lei n.º 9/2022 (art. 17.º-E).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0017D&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Art. 17.º-A, n.º 2 CIRE — requisitos: devedor em situação económica difícil/insolvência iminente + viabilidade económica",
+    "para": "- Art. 17.º-A, n.º 2 CIRE — requisitos de acesso: declaração escrita e assinada da empresa de que reúne as condições necessárias para a sua recuperação e declaração de contabilista certificado ou de revisor oficial de contas (quando a revisão de contas seja legalmente exigida), com não mais de 30 dias, que ateste que a empresa não está em situação de insolvência atual; a situação económica difícil ou de insolvência meramente iminente e a suscetibilidade de recuperação resultam do n.º 1 (noção de situação económica difícil no artigo 17.º-B do CIRE)",
+    "motivo": "O n.º 2 do art. 17.º-A CIRE exige as duas declarações (empresa e contabilista certificado ou ROC); os pressupostos materiais estão no n.º 1 e no art. 17.º-B.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0017A&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "— início: requerimento conjunto do devedor e de um credor",
+    "para": "— início: declaração escrita da empresa e de credores não especialmente relacionados com ela, titulares de, pelo menos, 10 % dos créditos não subordinados, de encetarem negociações; a empresa apresenta o requerimento com essa declaração, cópia dos documentos do art. 24.º, n.º 1, do CIRE, a proposta de plano de recuperação e, salvo se for micro, pequena ou média empresa, a proposta de classificação dos credores em categorias",
+    "motivo": "O PER inicia-se pela declaração da empresa e de credores com 10 % dos créditos não subordinados; o requerimento é da empresa e leva os elementos do n.º 3 do art. 17.º-C CIRE.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0017C&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "JUÍZO DE COMÉRCIO / JUÍZO LOCAL CÍVEL DE [LOCALIDADE]",
+    "para": "JUÍZO DE COMÉRCIO DE [LOCALIDADE] (onde não haja juízo de comércio, juízo central cível — art. 117.º, n.º 2, da Lei n.º 62/2013)",
+    "motivo": "O PER é da competência dos juízos de comércio (art. 128.º, n.º 1, al. a), da Lei n.º 62/2013); na sua falta, dos juízos centrais cíveis (art. 117.º, n.º 2), não dos locais cíveis.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1974A0117&nid=1974&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "**2. IDENTIFICAÇÃO DAS PARTES**\n[Nome/Firma do devedor], [NIF/NIPC], [morada], e\n[Nome/Firma do credor participante], [NIF/NIPC], [morada],\nvêm, nos termos do",
+    "para": "**2. IDENTIFICAÇÃO DA REQUERENTE**\n[Firma da empresa], [NIPC], [sede], comunicando a manifestação de vontade, sua e dos credores [identificação dos credores declarantes], de encetarem negociações conducentes à sua revitalização, vem, nos termos do",
+    "motivo": "É a empresa que apresenta o requerimento, comunicando a manifestação de vontade conjunta (art. 17.º-C, n.º 3, CIRE).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0017C&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Art. 17.º-C — efeitos da decisão de nomeação do administrador judicial provisório",
+    "para": "- Art. 17.º-E, n.º 1, CIRE — efeitos da decisão de nomeação do administrador judicial provisório: obsta à instauração e suspende as ações executivas contra a empresa, pelo período máximo de quatro meses",
+    "motivo": "Os efeitos da nomeação estão no art. 17.º-E CIRE; o art. 17.º-C trata do requerimento.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0017E&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "contra o devedor durante o período de negociação",
+    "para": "contra a empresa pelo período máximo de quatro meses, prorrogável por um mês",
+    "motivo": "Desde a Lei n.º 9/2022 a suspensão tem o limite de quatro meses, prorrogável por um mês (art. 17.º-E, n.os 1 e 2, CIRE).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0017E&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Declaração conjunta do devedor e credor (",
+    "para": "- Declaração escrita da empresa e dos credores titulares de, pelo menos, 10 % dos créditos não subordinados, assinada por todos e com a data da assinatura (",
+    "motivo": "Conteúdo da declaração exigida pelo art. 17.º-C, n.os 1 e 2, CIRE.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0017C&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Demonstrações financeiras recentes [■ VERIFICAR: exigências do tribunal]\n- [Esboço do plano de revitalização, se disponível]",
+    "para": "- Cópia dos documentos do art. 24.º, n.º 1, do CIRE (relação de credores, ações e execuções pendentes, bens, contas dos três últimos exercícios, mapa de pessoal, entre outros)\n- Proposta de plano de recuperação, com a descrição da situação patrimonial, financeira e reditícia da empresa (art. 17.º-C, n.º 3, al. c), CIRE) — obrigatória\n- Proposta de classificação dos credores em categorias (art. 17.º-C, n.º 3, al. d), CIRE), dispensada para micro, pequenas e médias empresas (n.º 4)\n- Declaração da empresa e declaração de contabilista certificado ou de revisor oficial de contas, com não mais de 30 dias (art. 17.º-A, n.º 2, CIRE)",
+    "motivo": "O plano deixou de ser facultativo e o requerimento tem de ir acompanhado dos elementos do art. 17.º-C, n.º 3, e das declarações do art. 17.º-A, n.º 2, CIRE.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0017C&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "[Assinaturas do devedor e do credor participante]",
+    "para": "[Assinatura do mandatário da empresa; a declaração de início de negociações, junta, é assinada pela empresa e pelos credores declarantes, com a data da assinatura — art. 17.º-C, n.º 2, CIRE]",
+    "motivo": "Quem assina com o devedor é a declaração, não o requerimento (art. 17.º-C, n.os 2 e 3, CIRE).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0017C&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- [ ] Requerimento assinado por devedor e por pelo menos um credor",
+    "para": "- [ ] Declaração subscrita pela empresa e por credores não especialmente relacionados com, pelo menos, 10 % dos créditos não subordinados (art. 17.º-C, n.º 1, CIRE)\n- [ ] Declaração de contabilista certificado ou ROC com não mais de 30 dias (art. 17.º-A, n.º 2, CIRE)\n- [ ] Proposta de plano de recuperação junta (art. 17.º-C, n.º 3, al. c), CIRE)",
+    "motivo": "Requisitos do art. 17.º-C, n.os 1 e 3, e do art. 17.º-A, n.º 2, CIRE.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0017C&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Volume de negócios anual: [€ valor]",
+    "para": "- Volume de negócios anual: [€ valor]\n- Micro, pequena ou média empresa? [sim/não — dispensa a proposta de categorias de credores]\n- Contabilista certificado ou ROC que emite a declaração do art. 17.º-A, n.º 2: [nome]",
+    "motivo": "Dados necessários para os arts. 17.º-A, n.º 2, e 17.º-C, n.º 4, CIRE.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0017C&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Natureza: [bancário / fornecedor / fiscal / outro]",
+    "para": "- Natureza: [bancário / fornecedor / fiscal / outro]\n- Percentagem dos créditos não subordinados que os credores declarantes representam, em conjunto (mínimo: 10 %): [%]\n- Algum credor declarante é especialmente relacionado com a empresa (art. 49.º CIRE)? [sim/não]",
+    "motivo": "Apurar o limiar de 10 % de credores não especialmente relacionados (art. 17.º-C, n.º 1, CIRE).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0017C&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "A descrição da ficha (frontmatter, PT e EN) ainda refere a «declaração conjunta do devedor e de pelo menos um credor»: corrigir para os 10 % do art. 17.º-C, n.º 1, CIRE.",
+   "Confirmar com o contabilista certificado ou ROC a data da declaração do art. 17.º-A, n.º 2 (não mais de 30 dias à data do requerimento).",
+   "Verificar se a empresa tem PER encerrado nos últimos dois anos (arts. 17.º-F, n.º 14, e 17.º-G, n.º 8, CIRE)."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0017A&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0017C&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0017D&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0017E&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0017F&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0017G&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0024&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1974A0117&nid=1974&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1974A0128&nid=1974&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+  ]
+ },
+ {
+  "codigo": "INS-005",
+  "veredicto": "corrigida",
+  "resumo": "A ficha remetia a tramitação do PEAP para as regras do PER, quando o PEAP tem regime próprio (arts. 222.º-D a 222.º-J CIRE), e situava os efeitos sobre as execuções no art. 222.º-D, que trata da tramitação (os efeitos estão no art. 222.º-E). O cabeçalho indicava o juízo de família e menores, que não é competente: o requerimento vai ao tribunal competente para declarar a insolvência. Corrigiram-se ainda o autor do requerimento (o devedor), os documentos obrigatórios do art. 222.º-C, n.º 3, e a afirmação, sem base legal, de que o capital do crédito hipotecário não pode ser reduzido.",
+  "substituicoes": [
+   {
+    "de": "— tramitação; remissão para as regras do PER com as necessárias adaptações",
+    "para": "— requerimento e documentos: declaração escrita do devedor e de pelo menos um credor; lista de todas as ações de cobrança pendentes, comprovativos da declaração de rendimentos e da situação profissional ou de desemprego e cópia dos documentos das als. a), d) e e) do n.º 1 do art. 24.º; nomeação imediata de administrador judicial provisório (n.º 4)",
+    "motivo": "O art. 222.º-C CIRE trata do requerimento e não remete em geral para o PER; o PEAP tem tramitação própria (art. 222.º-D).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0222C&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Art. 222.º-D CIRE — efeitos: suspensão de execuções",
+    "para": "- Art. 222.º-D CIRE — tramitação: reclamação de créditos em 20 dias, lista provisória, impugnação em cinco dias úteis e negociações por dois meses, prorrogáveis uma só vez por um mês\n- Art. 222.º-E, n.º 1, CIRE — efeitos: obsta à instauração e suspende as ações executivas contra o devedor enquanto durarem as negociações; suspende também os processos de insolvência e os prazos de prescrição e caducidade (n.os 6 a 8)",
+    "motivo": "Os efeitos sobre as execuções estão no art. 222.º-E CIRE; o art. 222.º-D regula a tramitação.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0222E&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Crédito hipotecário (habitação): tratamento especial — impossibilidade de redução do capital em regra",
+    "para": "- Crédito hipotecário (habitação): o acordo só afeta a garantia se o previr expressamente (art. 197.º, al. a), CIRE) e o credor que se tenha oposto pode pedir a não homologação se ficar em situação previsivelmente menos favorável do que na ausência de acordo (art. 216.º CIRE, aplicável por força do art. 222.º-F, n.º 5) — na prática, a redução do capital exige a adesão do banco",
+    "motivo": "A lei não proíbe a redução do capital do crédito garantido; protege-o pela exigência de estatuição expressa (art. 197.º) e pela não homologação a pedido (art. 216.º), aplicáveis ao PEAP pelo art. 222.º-F, n.º 5, CIRE.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0222F&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "JUÍZO LOCAL CÍVEL / JUÍZO DE FAMÍLIA E MENORES DE [LOCALIDADE]",
+    "para": "JUÍZO DE COMÉRCIO DE [LOCALIDADE] (tribunal competente para declarar a insolvência do devedor — art. 222.º-C, n.º 3, CIRE; onde não haja juízo de comércio, juízo central cível — art. 117.º, n.º 2, da Lei n.º 62/2013)",
+    "motivo": "O PEAP é requerido no tribunal competente para declarar a insolvência do devedor (art. 222.º-C, n.º 3, CIRE), que é o juízo de comércio (art. 128.º, n.º 1, al. a), da Lei n.º 62/2013), não o de família e menores.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0222C&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "**2. IDENTIFICAÇÃO DAS PARTES**\n[Nome completo do devedor], [NIF], [morada], e\n[Nome/Firma do credor participante], [NIF/NIPC], [morada],\nvêm, nos termos do",
+    "para": "**2. IDENTIFICAÇÃO DO REQUERENTE**\n[Nome completo do devedor], [NIF], [morada], comunicando a manifestação de vontade, sua e do(s) credor(es) [identificação do(s) credor(es) declarante(s)], de encetarem negociações conducentes a um acordo de pagamento, vem, nos termos do",
+    "motivo": "É o devedor que apresenta o requerimento, comunicando a manifestação de vontade conjunta (art. 222.º-C, n.º 3, CIRE).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0222C&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Art. 222.º-D CIRE — efeitos (suspensão de execuções)",
+    "para": "- Art. 222.º-E, n.º 1, CIRE — efeitos (suspensão de execuções)",
+    "motivo": "Os efeitos sobre as execuções estão no art. 222.º-E CIRE.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0222E&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Declaração conjunta do devedor e credor\n- Listagem completa de credores\n- Prova de rendimentos (declaração de IRS, recibos de vencimento)\n- Extratos bancários recentes\n- [■ VERIFICAR: outros documentos exigidos pelo tribunal]",
+    "para": "- Declaração escrita do devedor e de pelo menos um credor, assinada por todos e com a data da assinatura (art. 222.º-C, n.os 1 e 2, CIRE)\n- Declaração escrita e assinada do devedor de que preenche os requisitos do PEAP (art. 222.º-A, n.º 2, CIRE)\n- Lista de todas as ações de cobrança de dívida pendentes contra o devedor (art. 222.º-C, n.º 3, al. b), CIRE)\n- Comprovativo da declaração de rendimentos (IRS) e da situação profissional ou de desemprego\n- Cópia dos documentos das als. a), d) e e) do n.º 1 do art. 24.º CIRE (relação de credores, com montantes, vencimentos, natureza e garantias; relação de bens)\n- Extratos bancários recentes [■ VERIFICAR: outros documentos pedidos pelo juízo]",
+    "motivo": "Os documentos obrigatórios são os do art. 222.º-C, n.º 3, CIRE, com a declaração do art. 222.º-A, n.º 2.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0222C&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "[Assinaturas do devedor e do credor participante]",
+    "para": "[Assinatura do mandatário do devedor; a declaração de início de negociações, junta, é assinada pelo devedor e pelo(s) credor(es) declarante(s), com a data da assinatura — art. 222.º-C, n.º 2, CIRE]",
+    "motivo": "Quem assina com o devedor é a declaração, não o requerimento (art. 222.º-C, n.os 2 e 3, CIRE).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0222C&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- [ ] Requerimento assinado por devedor e pelo menos um credor",
+    "para": "- [ ] Declaração de início de negociações assinada pelo devedor e por pelo menos um credor, com a data da assinatura (art. 222.º-C, n.os 1 e 2, CIRE)\n- [ ] Lista das ações de cobrança pendentes e comprovativos da situação profissional juntos (art. 222.º-C, n.º 3, al. b), CIRE)",
+    "motivo": "Requisitos do art. 222.º-C CIRE.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0222C&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "O art. 222.º-A, n.º 1, CIRE abrange o devedor «que não seja uma empresa»; confirmar o enquadramento do empresário em nome individual e de pessoas coletivas que não sejam empresa.",
+   "Confirmar se o devedor teve PEAP encerrado nos últimos dois anos (arts. 222.º-F, n.º 11, e 222.º-G, n.º 8, CIRE).",
+   "A descrição da ficha limita o PEAP a «pessoas singulares não titulares de empresa»; a lei fala em devedor que não seja empresa."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0222A&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0222C&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0222D&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0222E&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0222F&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0222G&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0024&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0197&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0215&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1974A0117&nid=1974&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1974A0128&nid=1974&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+  ]
+ },
+ {
+  "codigo": "INS-006",
+  "veredicto": "corrigida",
+  "resumo": "As maiorias de aprovação do plano estavam erradas («mais de metade dos créditos não subordinados»): o art. 17.º-F, n.º 5, CIRE, na redação da Lei n.º 9/2022, exige quórum de um terço, mais de dois terços dos votos emitidos e mais de metade dos votos emitidos de créditos não subordinados, com as alternativas das als. a) e c). A regra sobre créditos garantidos dizia que não podiam ser afetados «sem acordo do credor», quando o art. 197.º apenas exige estatuição expressa. Corrigiram-se ainda as normas aplicáveis por remissão (art. 17.º-F, n.º 7), o conteúdo mínimo e as projeções do plano (art. 17.º-F, n.º 1) e as consequências da não aprovação (art. 17.º-G).",
+  "substituicoes": [
+   {
+    "de": "- Arts. 195.º a 199.º CIRE — conteúdo e limites do plano de insolvência (aplicáveis por remissão ao PER)",
+    "para": "- Arts. 194.º a 197.º, 198.º, n.º 1, e 200.º a 202.º, 215.º e 216.º CIRE — regras do plano de insolvência aplicáveis à homologação do plano de recuperação (art. 17.º-F, n.º 7, CIRE)\n- Art. 17.º-F, n.º 1, CIRE — conteúdo mínimo obrigatório da versão final do plano (als. a) a j)): identificação, situação patrimonial, partes afetadas e não afetadas, categorias de credores, medidas e sua duração, informação aos trabalhadores, fluxos financeiros previsionais, novo financiamento e exposição de motivos\n- Art. 17.º-C, n.º 3, al. d), CIRE — classificação dos credores em categorias (dispensada para micro, pequenas e médias empresas — n.º 4)",
+    "motivo": "A remissão do PER para o plano de insolvência é a do art. 17.º-F, n.º 7, CIRE (arts. 194.º a 197.º, 198.º, n.º 1, 200.º a 202.º, 215.º e 216.º); a Lei n.º 9/2022 fixou o conteúdo mínimo do plano e as categorias de credores.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0017F&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "— aprovação pelos credores (maioria de 2/3 dos votos expressos e mais de metade dos créditos não subordinados)",
+    "para": "— aprovação pelos credores (n.º 5): havendo categorias de credores, mais de dois terços dos votos emitidos em cada categoria e voto favorável de todas as categorias ou da maioria delas nas condições da al. a); nos demais casos, quórum de um terço dos créditos com direito de voto, mais de dois terços dos votos emitidos e mais de metade dos votos emitidos correspondentes a créditos não subordinados (al. b)), ou voto favorável de credores com mais de metade da totalidade dos créditos com direito de voto e de mais de metade dos votos emitidos correspondentes a créditos não subordinados (al. c)), sem contar as abstenções",
+    "motivo": "As maiorias do art. 17.º-F, n.º 5, CIRE referem-se aos votos emitidos (não aos créditos não subordinados no seu todo) e exigem quórum de um terço; a Lei n.º 9/2022 acrescentou a votação por categorias.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0017F&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "— não afetação de créditos garantidos sem acordo do credor (regra geral)",
+    "para": "— na falta de estatuição expressa em contrário no plano, os direitos decorrentes de garantias reais e de privilégios creditórios não são afetados; o plano pode afetá-los se o previr expressamente, podendo o credor que se tenha oposto pedir a não homologação se ficar em situação previsivelmente menos favorável do que na ausência de plano (art. 216.º CIRE)",
+    "motivo": "O art. 197.º CIRE não exige o acordo do credor garantido, apenas estatuição expressa; a proteção do credor dissidente é a do art. 216.º.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0197&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "[■ VERIFICAR: Demonstração de resultados projetada para 3 anos com as medidas do plano]",
+    "para": "[■ VERIFICAR: plano de investimentos, conta de exploração previsional e demonstração previsional de fluxos de caixa pelo período de ocorrência dos pagamentos, com os principais pressupostos fundamentados, e balanço pró-forma — art. 17.º-F, n.º 1, al. h), CIRE]",
+    "motivo": "A lei não fixa um horizonte de 3 anos; exige os elementos previsionais do art. 17.º-F, n.º 1, al. h), CIRE pelo período dos pagamentos.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0017F&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "Quórum necessário; prazo de votação; modo de submissão dos votos",
+    "para": "Quórum e maiorias necessários (art. 17.º-F, n.º 5, CIRE); prazo de votação de 10 dias a contar da publicação do anúncio no portal Citius (n.º 3); votação por escrito, com os votos remetidos ao administrador judicial provisório (n.º 6)",
+    "motivo": "Concretizar o prazo e o modo de votação do art. 17.º-F, n.os 3 e 6, CIRE.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0017F&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "Conversão em processo de insolvência — ",
+    "para": "Encerramento do processo negocial; se o administrador judicial provisório concluir pela insolvência e a empresa não se opuser no prazo de cinco dias, a insolvência é declarada no prazo de três dias úteis; impedimento de recorrer a novo PER durante dois anos — ",
+    "motivo": "A não aprovação não converte automaticamente o PER em insolvência: depende do parecer do administrador e da falta de oposição da empresa (art. 17.º-G, n.os 3 a 8, CIRE).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0017G&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar se a empresa é micro, pequena ou média empresa (dispensa das categorias de credores — art. 17.º-C, n.º 4, CIRE).",
+   "Confirmar o tratamento dos créditos tributários e da Segurança Social no plano (art. 30.º, n.os 2 e 3, LGT e jurisprudência sobre a sua vinculação ao plano homologado).",
+   "A descrição da ficha cita «artigos 195.º a 228.º do CIRE aplicáveis por remissão»; a remissão correta é a do art. 17.º-F, n.º 7."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0017C&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0017F&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0017G&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0194&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0197&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0215&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=253A0030&nid=253&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+  ]
+ },
+ {
+  "codigo": "INS-022",
+  "veredicto": "corrigida",
+  "resumo": "A moratória era fundada no art. 778.º CC, que trata do prazo dependente da possibilidade ou do arbítrio do devedor; a base é a liberdade contratual e a modificação do contrato por mútuo consentimento (arts. 405.º e 406.º, n.º 1, CC). Acrescentou-se o aviso de que o standstill não afasta o dever de apresentação à insolvência em 30 dias se a empresa já estiver insolvente (art. 18.º CIRE). Corrigiu-se uma gralha.",
+  "substituicoes": [
+   {
+    "de": "- Pode ser formalizado como moratória (art. 778.º Código Civil) — dá carácter vinculativo",
+    "para": "- Pode ser formalizado como acordo de moratória (prorrogação convencional do prazo de vencimento, ao abrigo da liberdade contratual e da modificação do contrato por mútuo consentimento — arts. 405.º e 406.º, n.º 1, do Código Civil), o que lhe dá carácter vinculativo",
+    "motivo": "O art. 778.º CC regula o prazo dependente da possibilidade ou do arbítrio do devedor, não a moratória convencional.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0405&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Linha vermelha: o que acontece se o credor não aceitar (apresentação à insolvência / PER)",
+    "para": "- Linha vermelha: o que acontece se o credor não aceitar (apresentação à insolvência / PER). Atenção: se a empresa já estiver em situação de insolvência atual, o standstill não afasta o dever de requerer a declaração de insolvência nos 30 dias seguintes ao conhecimento dessa situação (art. 18.º, n.º 1, CIRE), salvo durante a suspensão das medidas de execução de um PER (n.º 2, al. a))",
+    "motivo": "A carta não suspende o dever legal de apresentação à insolvência (art. 18.º CIRE), que só cede durante a suspensão do PER.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0018&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "**Parágrafo 4 — Compromisos do devedor durante o standstill:**",
+    "para": "**Parágrafo 4 — Compromissos do devedor durante o standstill:**",
+    "motivo": "Gralha.",
+    "fonte": "https://dicionario.priberam.org/compromisso"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "O reconhecimento da dívida na carta interrompe a prescrição (art. 325.º CC): ponderar a redação conforme o interesse do cliente.",
+   "Ponderar o Regime Extrajudicial de Recuperação de Empresas (RERE, Lei n.º 8/2018) como alternativa formal ao standstill [■ VERIFICAR: efeitos do protocolo de negociação].",
+   "Não admitir insolvência na carta não pode servir para ocultar uma insolvência atual: a falta de apresentação pode relevar na qualificação da insolvência como culposa."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0405&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0777&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0325&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0018&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0017E&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://dicionario.priberam.org/compromisso"
+  ]
+ },
+ {
+  "codigo": "INS-024",
+  "veredicto": "corrigida",
+  "resumo": "As maiorias de aprovação estavam erradas (falava-se em «quórum de 2/3» e em «mais de metade do total de créditos não subordinados»): o art. 17.º-F, n.º 5, CIRE exige quórum de um terço dos créditos com direito de voto, mais de dois terços dos votos emitidos e mais de metade dos votos emitidos de créditos não subordinados, com as alternativas das als. a) e c). O prazo de negociação é de dois meses prorrogável por um (não três). Os números do art. 17.º-F estavam trocados: a homologação é o n.º 7, o pedido de não homologação corre no prazo de votação do n.º 3 e a publicidade está no n.º 11.",
+  "substituicoes": [
+   {
+    "de": "  a) Maioria de 2/3 dos votos expressos pelos credores (",
+    "para": "  a) Quórum: votos de credores titulares de, pelo menos, um terço do total dos créditos com direito de voto; e mais de 2/3 dos votos expressos pelos credores (",
+    "motivo": "O art. 17.º-F, n.º 5, al. b), CIRE exige quórum de um terço e mais de dois terços dos votos emitidos.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0017F&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "  b) Votos favoráveis representam mais de metade do total de créditos não subordinados",
+    "para": "  b) Mais de metade dos votos emitidos correspondentes a créditos não subordinados com direito de voto são favoráveis; em alternativa (al. c)), voto favorável de credores com mais de metade da totalidade dos créditos com direito de voto e de mais de metade dos votos emitidos correspondentes a créditos não subordinados; havendo classificação dos credores em categorias, aplica-se a al. a); as abstenções não contam",
+    "motivo": "A maioria de créditos não subordinados conta-se sobre os votos emitidos, não sobre o total desses créditos (art. 17.º-F, n.º 5, CIRE).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0017F&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "(máx. 3 meses + 1 mês prorrogação)",
+    "para": "(dois meses após o termo do prazo de impugnação da lista provisória de créditos, prorrogável uma só vez por um mês — art. 17.º-D, n.º 7, CIRE)",
+    "motivo": "O prazo de negociação é de dois meses, prorrogável por um (art. 17.º-D, n.º 7, CIRE).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0017D&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "(quórum de 2/3)",
+    "para": "(quórum e maiorias do n.º 5)",
+    "motivo": "O quórum é de um terço; dois terços é a maioria dos votos emitidos (art. 17.º-F, n.º 5, CIRE).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0017F&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "  n.º 1: o juiz homologa se não houver fundamento de recusa\n  n.º 3: fundamentos de recusa (ilegalidade, violação de normas imperativas)",
+    "para": "  n.º 3: prazo de votação de 10 dias, durante o qual qualquer interessado pode pedir a não homologação (arts. 215.º e 216.º CIRE)\n  n.º 7: o juiz decide nos 10 dias seguintes à receção da documentação, aplicando os arts. 194.º a 197.º, 198.º, n.º 1, 200.º a 202.º, 215.º e 216.º CIRE e aferindo, entre outros, se o plano foi aprovado nos termos do n.º 5, se os credores da mesma categoria são tratados de forma igual e se o plano apresenta perspetivas razoáveis de evitar a insolvência ou garantir a viabilidade da empresa",
+    "motivo": "O n.º 1 do art. 17.º-F CIRE trata do depósito da versão final do plano; a decisão de homologação e os seus critérios estão no n.º 7 e o pedido de não homologação no n.º 3.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0017F&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Efeitos da homologação: vincula todos os credores, incluindo os que não participaram e os dissidentes\n- Art. 17.º-F, n.º 4 CIRE — publicidade da homologação (registo)",
+    "para": "- Efeitos da homologação: vincula a empresa e todos os credores, incluindo os que não reclamaram créditos ou não participaram nas negociações e os dissidentes, quanto aos créditos constituídos à data da decisão de nomeação do administrador judicial provisório\n- Art. 17.º-F, n.º 11, CIRE — efeitos vinculativos e publicidade: a decisão de homologação é notificada, publicitada e registada pela secretaria do tribunal",
+    "motivo": "O n.º 4 do art. 17.º-F CIRE trata da aprovação unânime; a eficácia vinculativa e a publicidade estão no n.º 11, limitadas aos créditos constituídos à data da nomeação do administrador.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0017F&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Documentos a juntar: ata de votação, acordo assinado, relação de votantes e percentagens",
+    "para": "- Documentos: versão final do plano depositada (art. 17.º-F, n.º 1, CIRE), documento do administrador judicial provisório com o resultado da votação e o seu parecer sobre as perspetivas de viabilidade (n.º 6), relação de votantes e percentagens",
+    "motivo": "Na votação por escrito, o resultado é apurado e remetido ao tribunal pelo administrador judicial provisório, com parecer (art. 17.º-F, n.º 6, CIRE).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0017F&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "   - % dos votos expressos favoráveis: [valor — necessário: 2/3]\n   - % dos créditos não subordinados favoráveis: [valor — necessário: > 50%]",
+    "para": "   - % dos créditos com direito de voto que votaram: [valor — necessário: pelo menos 1/3]\n   - % dos votos emitidos favoráveis: [valor — necessário: mais de 2/3]\n   - % dos votos emitidos correspondentes a créditos não subordinados que são favoráveis: [valor — necessário: mais de 50 %]\n   - [Em alternativa, al. c): voto favorável de credores com mais de 50 % da totalidade dos créditos com direito de voto; havendo categorias, resultado por categoria nos termos da al. a)]",
+    "motivo": "Maiorias do art. 17.º-F, n.º 5, CIRE.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0017F&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- [ ] Quórum de 2/3 dos votos expressos verificado\n- [ ] Mais de 50% dos créditos não subordinados favoráveis",
+    "para": "- [ ] Quórum de um terço dos créditos com direito de voto e mais de 2/3 dos votos expressos verificados (ou maioria da al. c) do n.º 5 do art. 17.º-F CIRE / categorias da al. a))\n- [ ] Mais de 50 % dos votos emitidos correspondentes a créditos não subordinados favoráveis",
+    "motivo": "Maiorias do art. 17.º-F, n.º 5, CIRE.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0017F&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Abstensões: [N]\n- % dos créditos não subordinados favoráveis: [%]",
+    "para": "- Abstenções (não contam como votos emitidos): [N]\n- % dos créditos com direito de voto que votaram: [%]\n- % dos votos emitidos favoráveis: [%]\n- % dos votos emitidos correspondentes a créditos não subordinados que são favoráveis: [%]\n- Classificação dos credores em categorias? [sim/não — resultado por categoria]",
+    "motivo": "Recolher os dados para as maiorias do art. 17.º-F, n.º 5, CIRE (e corrigir a gralha «Abstensões»).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0017F&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "No PER, o resultado da votação é remetido ao tribunal pelo administrador judicial provisório (art. 17.º-F, n.º 6, CIRE); o requerimento da empresa serve para instruir e pedir a homologação — confirmar a prática do juízo.",
+   "Confirmar se a empresa estava obrigada a classificar os credores em categorias (não sendo PME) e, nesse caso, aplicar a al. a) do n.º 5 e os critérios das als. b) a d) do n.º 7."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0017C&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0017D&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0017F&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0215&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+  ]
+ },
+ {
+  "codigo": "COM-048",
+  "veredicto": "rever de raiz",
+  "resumo": "Toda a ficha assentava num direito legal de preferência dos sócios na cessão de quotas (art. 228.º CSC, «30 dias», cessão «ineficaz» pelo n.º 4) que não existe: o art. 228.º CSC só tem três números e prevê a forma escrita e o consentimento da sociedade; a preferência só existe se o contrato de sociedade ou um acordo parassocial a previr. Reescreveram-se a análise, a notificação, a declaração de exercício, a ação de preferência (prazo de seis meses e depósito do preço nos 15 dias seguintes à propositura, só com eficácia real — arts. 421.º e 1410.º CC) e a checklist, acrescentou-se o pedido de consentimento (arts. 228.º a 231.º CSC) e substituiu-se a «escritura» pelo contrato escrito. Fica por confirmar, caso a caso, a eficácia real da cláusula e o regime da cláusula concreta.",
+  "substituicoes": [
+   {
+    "de": "## Regras obrigatórias\n— NUNCA inventes artigos ou prazos sem base legal.",
+    "para": "**Atenção (revisão técnica):** a lei não confere aos sócios direito de preferência na cessão de quotas; o regime legal é o do consentimento da sociedade (arts. 228.º, n.º 2, e 229.º a 231.º CSC). A preferência só existe se o contrato de sociedade ou um acordo parassocial a previr, nos termos e prazos aí fixados. A eficácia real dessa preferência, e com ela a ação de preferência, depende da cláusula concreta e fica por confirmar. O título e a descrição da ficha ainda pressupõem uma notificação legal obrigatória.\n\n## Regras obrigatórias\n— NUNCA inventes artigos ou prazos sem base legal.",
+    "motivo": "A ficha partia de um direito legal de preferência inexistente; aviso para quem a usar.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0228&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Identificação dos sócios com direito de preferência (todos os sócios, salvo estatuto diferente)\n- Condições da cessão proposta (preço, prazo de pagamento, outras condições)\n- Prazo de exercício da preferência (art. 228.º, n.º 2 CSC — 30 dias a contar da notificação)\n- Existência de acordo parassocial com preferências adicionais",
+    "para": "- Fonte do direito de preferência: a lei não confere aos sócios preferência na cessão de quotas (art. 228.º CSC); verificar se o contrato de sociedade ou um acordo parassocial a prevê e transcrever a cláusula (titulares, prazo, forma da comunicação, preço, efeito do silêncio)\n- Consentimento da sociedade: necessário para a cessão produzir efeitos perante a sociedade, salvo cessão entre cônjuges, entre ascendentes e descendentes ou entre sócios, ou dispensa no contrato de sociedade (arts. 228.º, n.º 2, e 229.º, n.os 2 e 3, CSC)\n- Condições da cessão proposta (preço, prazo de pagamento, outras condições)\n- Prazo de exercício da preferência: o fixado na cláusula; na sua falta, ponderar o prazo supletivo de oito dias do pacto de preferência (art. 416.º, n.º 2, CC) [■ VERIFICAR: aplicação à cláusula estatutária ou parassocial]\n- Acordo parassocial com preferência: só produz efeitos entre os intervenientes (art. 17.º, n.º 1, CSC)",
+    "motivo": "Não há preferência legal nem prazo legal de 30 dias no art. 228.º CSC; a cessão depende do consentimento da sociedade, salvo as exceções legais ou estatutárias.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0228&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Art. 228.º, n.º 1 CSC: nos 30 dias seguintes à comunicação, qualquer sócio pode exercer o direito de preferência\n- Conteúdo obrigatório da notificação: identidade do adquirente, preço, condições de pagamento e demais cláusulas (art. 228.º, n.º 1 CSC)\n- Preferência parcial: qualquer sócio prefere na parte proporcional à sua quota\n- Cessão sem notificação: ineficaz em relação à sociedade e aos sócios (art. 228.º, n.º 4 CSC); ação de preferência no prazo de 6 meses a contar do conhecimento (art. 1410.º CC)\n- Renúncia à preferência: declaração escrita, não sujeita a forma especial\n- Registo da cessão na Conservatória: art. 15.º CRCom",
+    "para": "- Art. 228.º CSC: a transmissão de quotas entre vivos deve ser reduzida a escrito (n.º 1); a cessão não produz efeitos para com a sociedade enquanto esta não a consentir, salvo entre cônjuges, entre ascendentes e descendentes ou entre sócios (n.º 2); torna-se eficaz para com a sociedade logo que lhe seja comunicada por escrito ou por ela reconhecida (n.º 3). Não prevê qualquer direito legal de preferência dos sócios\n- Art. 229.º CSC: o contrato de sociedade pode proibir a cessão, dispensar ou exigir o consentimento e condicioná-lo a requisitos específicos, mas a cessão não pode ficar dependente da vontade individual de um ou mais sócios (n.º 5, al. a)) [■ VERIFICAR: validade e alcance da cláusula de preferência concreta à luz desta regra]\n- Art. 230.º CSC: o consentimento é pedido por escrito, com indicação do cessionário e de todas as condições da cessão, e dado por deliberação dos sócios; se a sociedade não deliberar nos 60 dias seguintes à receção do pedido, a eficácia da cessão deixa de depender dele (n.º 4)\n- Art. 231.º CSC: a recusa do consentimento tem de incluir proposta de amortização ou de aquisição da quota, sob pena de a cessão se tornar livre; se a sociedade deliberar a aquisição, o direito de adquirir cabe aos sócios que o declarem, na proporção das suas quotas (n.º 4); o disposto nos n.os 1 e 2 só se aplica se a quota estiver há mais de três anos na titularidade do cedente, do seu cônjuge ou de quem lhes tenha sucedido por morte (n.º 3)\n- Conteúdo da comunicação ao preferente: o projeto de cessão e as cláusulas do contrato — identidade do adquirente, preço, condições de pagamento e demais cláusulas (cláusula de preferência; art. 416.º, n.º 1, CC)\n- Preferência parcial ou proporcional: só nos termos da cláusula\n- Cessão sem comunicação ao preferente: se a preferência tiver eficácia real, ação de preferência no prazo de seis meses a contar do conhecimento dos elementos essenciais da alienação, com depósito do preço nos 15 dias seguintes à propositura da ação (arts. 421.º, n.º 2, e 1410.º, n.º 1, CC); sem eficácia real, o preferente preterido só pode pedir indemnização [■ VERIFICAR: eficácia real da cláusula estatutária ou parassocial; registo dos pactos de preferência com eficácia real sobre quotas — art. 3.º, n.º 1, al. d), CRCom]\n- Renúncia à preferência: declaração escrita, nos termos da cláusula\n- Registo da transmissão da quota (art. 3.º, n.º 1, al. c), CRCom), obrigatório no prazo de dois meses a contar do título (art. 15.º, n.º 2, CRCom), promovido pela sociedade a pedido do cedente ou do cessionário (art. 242.º-B CSC); até ser pedida a promoção do registo, os factos relativos a quotas são ineficazes perante a sociedade (art. 242.º-A CSC)",
+    "motivo": "O art. 228.º CSC não tem n.º 4 nem prevê preferência ou prazo de 30 dias; o regime legal é o do consentimento (arts. 228.º a 231.º CSC) e a ação de preferência depende da eficácia real (arts. 421.º e 1410.º CC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0228&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Notificação pelo cedente aos sócios preferentes\n- Declaração de exercício de preferência\n- Declaração de renúncia à preferência\n- Minuta da escritura de cessão (se todos renunciam ou nenhum prefere)\n- Petição de ação de preferência (se cessão efetuada sem notificação)",
+    "para": "- Notificação pelo cedente aos titulares da preferência convencional\n- Declaração de exercício de preferência\n- Declaração de renúncia à preferência\n- Pedido de consentimento à sociedade (art. 230.º, n.º 1, CSC), quando necessário\n- Minuta do contrato de cessão, por escrito (art. 228.º, n.º 1, CSC), se todos renunciarem ou nenhum preferir\n- Petição de ação de preferência (cessão efetuada sem comunicação ao preferente, e só se a preferência tiver eficácia real)",
+    "motivo": "A cessão de quotas basta-se com documento escrito (art. 228.º, n.º 1, CSC); falta o pedido de consentimento à sociedade.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0228&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "Vim por este meio notificá-lo(a), nos termos do art. 228.º, n.º 1, do Código das Sociedades Comerciais (CSC), de que tenciono ceder",
+    "para": "Vim por este meio notificá-lo(a), nos termos da cláusula [n.º] do contrato de sociedade [ou: do acordo parassocial de [data]], que lhe confere direito de preferência, de que tenciono ceder",
+    "motivo": "A preferência resulta da cláusula, não do art. 228.º CSC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0228&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "Nos termos do art. 228.º, n.º 2, do CSC, tem o prazo de **30 (trinta) dias** a contar da receção desta notificação para exercer o seu direito de preferência, nas mesmas condições acima indicadas.\n\nO não exercício do direito no referido prazo equivale a renúncia.",
+    "para": "Nos termos da referida cláusula, tem o prazo de **[prazo fixado na cláusula] dias** a contar da receção desta notificação para exercer o seu direito de preferência, nas mesmas condições acima indicadas.\n\n[Efeito do silêncio, nos termos da cláusula — na falta de estipulação, o direito caduca findo o prazo (art. 416.º, n.º 2, CC)].",
+    "motivo": "O art. 228.º, n.º 2, CSC trata do consentimento, não de um prazo de preferência; o prazo e o efeito do silêncio são os da cláusula (supletivamente, art. 416.º, n.º 2, CC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0414&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "declara, nos termos e para os efeitos do art. 228.º do CSC, que EXERCE",
+    "para": "declara, nos termos da cláusula [n.º] do contrato de sociedade [ou: do acordo parassocial de [data]], que EXERCE",
+    "motivo": "O direito exercido é o convencional, não um direito do art. 228.º CSC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0228&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "**D) MINUTA DE PETIÇÃO DE AÇÃO DE PREFERÊNCIA** (cessão sem notificação)\n\nAo Juízo [Comercial / Cível] do Tribunal [comarca]\n\n[Nome do sócio preferente preterido], NIF [número], vem intentar AÇÃO DE PREFERÊNCIA, nos termos do art. 1410.º do Código Civil, aplicado por analogia ao art. 228.º do CSC, contra [nome do cedente], [nome do adquirente] e [firma], Lda., NIPC [número], com os seguintes fundamentos:\n\n1. O Autor é sócio da sociedade Ré, titular de quota de €[X] ([Y]% do capital).\n2. Em [data], o 1.º Réu cedeu a sua quota de €[X] ([Z]% do capital) ao 2.º Réu, pelo preço de €[valor], sem notificar previamente o Autor nos termos do art. 228.º, n.º 1, do CSC.\n3. O Autor apenas teve conhecimento da cessão em [data do conhecimento], prazo de 6 meses ainda em curso (art. 1410.º, n.º 1, CC).\n4. Nos termos dos arts. 228.º, n.º 4, CSC e 1410.º CC, o Autor tem o direito de se substituir ao adquirente, depositando o preço e demais encargos.\n\n**PEDIDO:** Que a cessão seja declarada ineficaz perante o Autor e que este seja reconhecido como titular da quota, mediante depósito de €[preço + encargos] no prazo que o Tribunal fixar.\n\nJunta: [certidão de registo comercial, notificação enviada, prova de conhecimento tardio]",
+    "para": "**D) MINUTA DE PETIÇÃO DE AÇÃO DE PREFERÊNCIA** (cessão sem comunicação ao preferente; só se a preferência tiver eficácia real [■ VERIFICAR: eficácia real da cláusula e respetivo registo — arts. 421.º CC e 3.º, n.º 1, al. d), CRCom])\n\nAo Juízo [Comercial / Cível] do Tribunal [comarca] [■ VERIFICAR: juízo competente]\n\n[Nome do sócio preferente preterido], NIF [número], vem intentar AÇÃO DE PREFERÊNCIA, nos termos dos arts. 421.º, n.º 2, e 1410.º do Código Civil e da cláusula [n.º] do contrato de sociedade [ou: do acordo parassocial de [data]], contra [nome do cedente], [nome do adquirente] e [firma], Lda., NIPC [número], com os seguintes fundamentos:\n\n1. O Autor é sócio da sociedade Ré, titular de quota de €[X] ([Y]% do capital), e titular do direito de preferência previsto na cláusula [n.º] [do contrato de sociedade / do acordo parassocial], com eficácia real [■ VERIFICAR: fundamento e registo da eficácia real].\n2. Em [data], o 1.º Réu cedeu a sua quota de €[X] ([Z]% do capital) ao 2.º Réu, pelo preço de €[valor], sem comunicar previamente ao Autor o projeto de cessão e as respetivas cláusulas, como impunha a referida cláusula.\n3. O Autor apenas teve conhecimento dos elementos essenciais da cessão em [data do conhecimento], não tendo ainda decorrido o prazo de seis meses (art. 1410.º, n.º 1, CC).\n4. Nos termos dos arts. 421.º, n.º 2, e 1410.º, n.º 1, CC, o Autor tem o direito de haver para si a quota alienada, depositando o preço devido nos 15 dias seguintes à propositura da ação.\n\n**PEDIDO:** Que seja reconhecido ao Autor o direito de haver para si a quota cedida, substituindo-se ao 2.º Réu na posição de cessionário, mediante o depósito do preço devido, de €[valor], nos 15 dias seguintes à propositura da ação (art. 1410.º, n.º 1, CC).\n\nJunta: [certidão do registo comercial, contrato de sociedade ou acordo parassocial com a cláusula de preferência, prova da data do conhecimento]; o comprovativo do depósito do preço junta-se nos 15 dias seguintes à propositura.\n\n---\n\n**E) PEDIDO DE CONSENTIMENTO À SOCIEDADE** (art. 230.º CSC — se a cessão não for livre)\n\nÀ gerência de [firma], Lda., NIPC [número]\n\n[Nome do cedente], sócio titular de quota de valor nominal de €[X], vem, nos termos do art. 230.º, n.º 1, do CSC, pedir o consentimento da sociedade para a cessão dessa quota a [nome do cessionário], NIF [número], pelo preço de €[valor], pago nos seguintes termos: [condições], e com as demais condições seguintes: [descrever todas].\n\n[Local], [data]\n[Assinatura]\n\nNota: o consentimento expresso é dado por deliberação dos sócios (art. 230.º, n.º 2, CSC); se a sociedade não deliberar nos 60 dias seguintes à receção do pedido, a eficácia da cessão deixa de depender dele (n.º 4).",
+    "motivo": "A ação de preferência não se funda no art. 228.º CSC (que não tem n.º 4); exige preferência com eficácia real (art. 421.º, n.º 2, CC) e o depósito do preço nos 15 dias seguintes à propositura (art. 1410.º, n.º 1, CC), não «no prazo que o Tribunal fixar». Acrescenta-se o pedido de consentimento do art. 230.º CSC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1410&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- [ ] Notificação inclui todos os elementos do art. 228.º, n.º 1 CSC (identidade, preço, condições)\n- [ ] Prazo de 30 dias claramente indicado\n- [ ] Todos os sócios preferentes notificados (não apenas alguns)\n- [ ] Exercício de preferência por escrito e dentro do prazo\n- [ ] Renúncias recolhidas antes da outorga da escritura\n- [ ] Escritura de cessão registada na Conservatória (art. 15.º CRCom)\n- [ ] Se ação de preferência: prazo de 6 meses verificado (art. 1410.º CC)",
+    "para": "- [ ] Cláusula de preferência identificada (contrato de sociedade ou acordo parassocial) e transcrita — sem ela, não há preferência a notificar\n- [ ] Notificação inclui o projeto de cessão e todas as cláusulas (identidade do adquirente, preço, condições), nos termos da cláusula\n- [ ] Prazo da cláusula claramente indicado\n- [ ] Todos os titulares da preferência notificados (não apenas alguns)\n- [ ] Exercício de preferência por escrito e dentro do prazo\n- [ ] Consentimento da sociedade pedido por escrito (art. 230.º CSC), salvo cessão livre (art. 228.º, n.º 2, CSC) ou dispensa no contrato de sociedade\n- [ ] Renúncias recolhidas antes da celebração do contrato de cessão\n- [ ] Contrato de cessão reduzido a escrito (art. 228.º, n.º 1, CSC) e comunicado à sociedade\n- [ ] Promoção do registo pedida à sociedade (art. 242.º-B CSC), no prazo de dois meses (art. 15.º, n.º 2, CRCom)\n- [ ] Se ação de preferência: eficácia real confirmada, prazo de seis meses verificado e depósito do preço nos 15 dias seguintes à propositura (art. 1410.º, n.º 1, CC)",
+    "motivo": "Checklist alinhada com o regime legal (consentimento, forma escrita, registo promovido pela sociedade) e com a natureza convencional da preferência.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=506A0015&nid=506&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Situação (notificação prévia / cessão já efetuada / exercício de preferência / renúncia): [indicar]",
+    "para": "- Situação (notificação prévia / cessão já efetuada / exercício de preferência / renúncia): [indicar]\n- Cláusula de preferência (contrato de sociedade / acordo parassocial — transcrever, com o prazo e a data de registo, se houver): [texto]\n- Cessão livre (entre cônjuges, ascendentes e descendentes ou entre sócios) ou sujeita a consentimento da sociedade: [indicar]\n- Há quanto tempo o cedente é titular da quota (art. 231.º, n.º 3, CSC): [anos]",
+    "motivo": "Dados necessários para apurar a fonte da preferência e o regime do consentimento (arts. 228.º, n.º 2, e 231.º, n.º 3, CSC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0231&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "O título, a descrição (PT e EN) e o índice da ficha falam numa «notificação obrigatória» de preferência (art. 228.º CSC), em «escritura» e em ação de preferência «por analogia»: têm de ser revistos.",
+   "Confirmar, para a cláusula concreta, se a preferência estatutária ou parassocial tem eficácia real e se está registada (arts. 421.º CC e 3.º, n.º 1, al. d), CRCom) — disso depende a ação de preferência.",
+   "Confirmar a validade da cláusula de preferência à luz do art. 229.º, n.º 5, al. a), CSC (a cessão não pode depender da vontade individual de sócios).",
+   "Confirmar o juízo competente para a ação de preferência sobre quotas (juízo de comércio ou cível)."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0017&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0228&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0229&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0230&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0231&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0242B&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0414&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0421&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1410&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=506A0003&nid=506&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=506A0015&nid=506&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+  ]
+ }
+]

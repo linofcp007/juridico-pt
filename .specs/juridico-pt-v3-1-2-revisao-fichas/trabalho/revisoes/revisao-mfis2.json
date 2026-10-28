@@ -1,0 +1,539 @@
+[
+  {
+    "codigo": "FIS-022",
+    "veredicto": "corrigida",
+    "resumo": "A ficha usava os escalões antigos do RFAI (25% até 10 M€), quando a dedução é hoje de 30% até 15 M€ e 10% acima nas regiões da al. a) do art. 107.º, n.º 3, TFUE (10% nas da al. c)), e aplicava a todos os benefícios um limite de 50% da coleta atribuído ao art. 92.º CIRC: esse limite é próprio do RFAI (art. 23.º CFI, com a totalidade da coleta no início de atividade e reporte por 10 períodos), o SIFIDE II deduz-se até à concorrência da coleta com reporte até ao 12.º período, o mecenato é majoração de gastos e o RFAI e o SIFIDE II estão excluídos da tributação mínima do art. 92.º CIRC. Substituí o inexistente «RGAF» pelo requisito de não ser empresa em dificuldade do art. 22.º, n.º 4, al. e), CFI e corrigi o prazo de manutenção dos bens (3 anos para as PME, 5 para as restantes, e não móvel/imóvel). Acrescentei a candidatura do SIFIDE II à Agência para a Investigação e Inovação e o incremento face à média dos dois exercícios anteriores.",
+    "substituicoes": [
+      {
+        "de": "- RFAI: DL n.º 162/2014 (CFI — Código Fiscal do Investimento), arts. 22.º ss [■ VERIFICAR: norma atual após atualizações]\n  * Crédito fiscal de 25% dos investimentos elegíveis até € 10M; 10% acima [■ VERIFICAR: limites atuais]\n  * Setores excluídos: siderurgia, fibras sintéticas, carvão, financeiro, seguros, imobiliário [■ VERIFICAR: lista atual]\n- SIFIDE: CFI, arts. 35.º ss — dedução de 32,5% das despesas de I&D + majoração de 50% do incremento [■ VERIFICAR: taxas atuais]\n- Mecenato: EBF, arts. 61.º ss — donativos com majoração de 120% a 150% conforme destinatário [■ VERIFICAR: regime atual]\n- Limites: créditos fiscais não podem exceder 50% da coleta de IRC (art. 92.º CIRC) [■ VERIFICAR: limite atual]",
+        "para": "- RFAI: DL n.º 162/2014 (CFI — Código Fiscal do Investimento), arts. 22.º ss\n  * Dedução à coleta do IRC, nas regiões elegíveis da al. a) do n.º 3 do art. 107.º TFUE: 30% das aplicações relevantes até 15 000 000 € e 10% na parte que exceda esse montante; nas regiões da al. c) do mesmo número: 10% (art. 23.º, n.º 1, al. a), CFI). Acrescem a isenção ou redução de IMI e de IMT, dependentes de reconhecimento pela assembleia municipal, e a isenção de Imposto do Selo na aquisição de prédios que sejam aplicações relevantes (art. 23.º, n.ºs 1, als. b) a d), e 4, CFI)\n  * Limite: 50% da coleta de cada período; nos investimentos do período de início de atividade e dos dois seguintes, a totalidade da coleta; o remanescente deduz-se nos 10 períodos seguintes (art. 23.º, n.ºs 2 e 3, CFI)\n  * Setores: só as atividades previstas no n.º 2 do art. 2.º CFI (códigos de atividade fixados por portaria), excluídas as que estão fora do âmbito setorial das orientações relativas aos auxílios com finalidade regional e do Regulamento Geral de Isenção por Categoria (art. 22.º, n.º 1, CFI) [■ VERIFICAR: lista de CAE e exclusões em vigor]\n- SIFIDE II: CFI, arts. 35.º ss — dedução à coleta de 32,5% das despesas de I&D (taxa de base) e de 50% do acréscimo face à média aritmética simples dos dois exercícios anteriores, até 1 500 000 € (taxa incremental), até à concorrência da coleta e com reporte até ao 12.º período seguinte (art. 38.º, n.ºs 1 e 4, CFI); exige declaração comprovativa da Agência para a Investigação e Inovação, com candidatura até ao final do 5.º mês do ano seguinte ao do exercício (art. 40.º, n.ºs 1 e 3, CFI); vigora para os períodos de tributação de 2014 a 2026 (art. 35.º CFI)\n- Mecenato: EBF, arts. 61.º ss — não é dedução à coleta: os donativos são considerados gastos do exercício, majorados entre 120% e 150% conforme o destinatário e o fim, em certos casos até um limite fixado em função do volume de vendas ou dos serviços prestados (arts. 62.º, 62.º-A e 62.º-B EBF, alterados em 2026) [■ VERIFICAR: majoração e limite aplicáveis ao destinatário concreto]\n- Tributação mínima: o RFAI e o SIFIDE II estão excluídos do limite do art. 92.º, n.º 1, CIRC (art. 92.º, n.º 2, als. b) e e), CIRC); o limite de 50% da coleta é próprio do RFAI",
+        "motivo": "Escalões do RFAI desatualizados e limite de 50% da coleta atribuído ao art. 92.º CIRC e estendido a todos os benefícios; SIFIDE II e mecenato com regime próprio",
+        "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cfi/Pages/cfi-23.aspx"
+      },
+      {
+        "de": "- A empresa é elegível? (não pode estar em dificuldade financeira nos termos do RGAF)",
+        "para": "- A empresa é elegível? (contabilidade regularmente organizada, lucro tributável não determinado por métodos indiretos, situação tributária e contributiva regularizada e não ser empresa em dificuldade nos termos das Orientações da Comissão relativas aos auxílios estatais de emergência e à reestruturação, JO C 249, de 31/07/2014 — art. 22.º, n.º 4, CFI)",
+        "motivo": "O «RGAF» não existe; os requisitos de acesso ao RFAI estão no art. 22.º, n.º 4, CFI",
+        "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cfi/Pages/cfi-22.aspx"
+      },
+      {
+        "de": "- Para RFAI: qual o investimento (imobilizado corpóreo ou incorpóreo), localização e setor de atividade?",
+        "para": "- Para RFAI: qual o investimento (ativos fixos tangíveis adquiridos em estado de novo, ativos intangíveis de transferência de tecnologia ou custos salariais com a criação de postos de trabalho qualificados — art. 22.º, n.º 2, CFI), a localização (região elegível) e o setor de atividade? Foram criados postos de trabalho, a manter até ao fim do período mínimo (art. 22.º, n.º 4, al. f), CFI)?",
+        "motivo": "Aplicações relevantes e requisito de criação de emprego do RFAI na redação em vigor",
+        "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cfi/Pages/cfi-22.aspx"
+      },
+      {
+        "de": "- CFI — Código Fiscal do Investimento (RFAI: arts. 22.º ss; SIFIDE: arts. 35.º ss) [■ VERIFICAR: versão atual]\n- EBF, arts. 61.º ss — mecenato\n- Art. 92.º CIRC — limitação geral aos créditos fiscais (50% da coleta)\n- RGAF — Regulamento Geral de Apoio a Atividades Financeiras (requisito de empresa não em dificuldade)",
+        "para": "- CFI — Código Fiscal do Investimento (RFAI: arts. 22.º ss; SIFIDE II: arts. 35.º ss)\n- EBF, arts. 61.º ss — mecenato\n- Art. 23.º, n.ºs 2 e 3, CFI — limite do RFAI (50% da coleta, ou a totalidade no início de atividade) e reporte por 10 períodos; art. 38.º, n.º 4, CFI — reporte do SIFIDE II até ao 12.º período; art. 92.º, n.º 2, CIRC — RFAI e SIFIDE II fora da tributação mínima\n- Art. 22.º, n.º 4, al. e), CFI — requisito de não ser empresa em dificuldade (Orientações da Comissão, JO C 249, de 31/07/2014)",
+        "motivo": "O art. 92.º CIRC fixa a tributação mínima e exclui o RFAI e o SIFIDE II; o «RGAF» não existe",
+        "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/CIRC_2R/Pages/irc92.aspx"
+      },
+      {
+        "de": "- Eventuais requisitos de comunicação prévia ou reconhecimento pela AT\n- Prazo para manutenção dos ativos (RFAI: 3 anos para imobilizado móvel, 5 anos para imobilizado imóvel)",
+        "para": "- Requisitos procedimentais: no SIFIDE II, candidatura à Agência para a Investigação e Inovação até ao final do 5.º mês do ano seguinte e declaração comprovativa no processo de documentação fiscal (art. 40.º CFI); no RFAI, reconhecimento pela assembleia municipal para as isenções de IMI e IMT (art. 23.º, n.º 4, CFI)\n- Prazo de manutenção dos bens e dos postos de trabalho (RFAI): três anos para as micro, pequenas e médias empresas e cinco anos para as restantes, ou o período mínimo de vida útil, se inferior (art. 22.º, n.º 4, als. c) e f), CFI)",
+        "motivo": "O prazo de manutenção depende da dimensão da empresa, não da natureza móvel ou imóvel do bem; o SIFIDE II depende de candidatura",
+        "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cfi/Pages/cfi-40.aspx"
+      },
+      {
+        "de": "[Verificação dos requisitos: setor de atividade elegível; investimento em imobilizado corpóreo ou incorpóreo elegível; criação/manutenção de emprego; manutenção dos investimentos por 3/5 anos]",
+        "para": "[Verificação dos requisitos: setor de atividade elegível; aplicações relevantes (art. 22.º, n.º 2, CFI); criação e manutenção de postos de trabalho; manutenção dos bens por 3 anos (micro, pequenas e médias empresas) ou 5 anos (restantes); empresa não em dificuldade]",
+        "motivo": "Requisitos do art. 22.º CFI na redação em vigor",
+        "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cfi/Pages/cfi-22.aspx"
+      },
+      {
+        "de": "Investimento elegível até € 10M: € [min(total investido, 10M)] × 25% = € [crédito a 25%]\nInvestimento elegível acima de € 10M: € [excesso] × 10% = € [crédito a 10%]",
+        "para": "Região: [al. a) / al. c) do n.º 3 do art. 107.º TFUE]\nInvestimento elegível até € 15M: € [min(total investido, 15M)] × 30% = € [crédito a 30%] (na região da al. c), 10% sobre todo o investimento)\nInvestimento elegível acima de € 15M: € [excesso] × 10% = € [crédito a 10%]",
+        "motivo": "Taxa de 30% e limiar de 15 M€ (Lei n.º 24-D/2022 e Lei n.º 71/2018)",
+        "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cfi/Pages/cfi-23.aspx"
+      },
+      {
+        "de": "**IV — LIMITE (50% DA COLETA)**",
+        "para": "**IV — LIMITE (50% DA COLETA; A TOTALIDADE NO PERÍODO DE INÍCIO DE ATIVIDADE E NOS DOIS SEGUINTES — ART. 23.º, N.º 2, CFI)**",
+        "motivo": "O limite do RFAI é a totalidade da coleta nos investimentos do início de atividade",
+        "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cfi/Pages/cfi-23.aspx"
+      },
+      {
+        "de": "Crédito a reportar para exercícios seguintes: € [remanescente]",
+        "para": "Crédito a reportar para os 10 períodos de tributação seguintes (art. 23.º, n.º 3, CFI): € [remanescente]",
+        "motivo": "Prazo de reporte do RFAI",
+        "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cfi/Pages/cfi-23.aspx"
+      },
+      {
+        "de": "Majoração aplicável: [120% / 130% / 150%] (EBF art. [X])\nGasto fiscal aceite: € [valor × majoração]",
+        "para": "Majoração aplicável: [120% / 130% / 140% / 150%] (EBF art. [X])\nGasto fiscal aceite: € [valor × majoração, dentro do limite fixado em função do volume de vendas ou dos serviços prestados, quando aplicável — art. 62.º EBF]",
+        "motivo": "O EBF prevê também a majoração de 140% e limites em função do volume de vendas ou serviços",
+        "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/bf_rep/Pages/ebf-artigo-62-ordm-.aspx"
+      },
+      {
+        "de": "- [ ] Cálculo do crédito por escalão (25% / 10%)\n- [ ] Limite de 50% da coleta aplicado (art. 92.º CIRC)\n- [ ] Para SIFIDE: despesas de I&D documentadas e elegíveis",
+        "para": "- [ ] Cálculo do crédito por escalão (30% até 15 M€ / 10%) e por região\n- [ ] Limite do RFAI aplicado (50% da coleta, ou a totalidade no início de atividade — art. 23.º, n.º 2, CFI); SIFIDE II deduzido até à concorrência da coleta (art. 38.º CFI)\n- [ ] Para SIFIDE: despesas de I&D documentadas e elegíveis e candidatura apresentada à Agência para a Investigação e Inovação (art. 40.º CFI)",
+        "motivo": "Escalões e limites corretos de cada benefício",
+        "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cfi/Pages/cfi-38.aspx"
+      },
+      {
+        "de": "- Incremento face ao ano anterior: € [valor]",
+        "para": "- Acréscimo face à média aritmética simples dos dois exercícios anteriores: € [valor]\n- Candidatura à Agência para a Investigação e Inovação: [apresentada em ___ / por apresentar]",
+        "motivo": "A taxa incremental do SIFIDE II mede-se face à média dos dois exercícios anteriores",
+        "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cfi/Pages/cfi-38.aspx"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "O SIFIDE II está previsto para os períodos de tributação de 2014 a 2026 (art. 35.º CFI, na redação de agosto de 2026): confirmar se foi prorrogado antes de o invocar para 2027.",
+      "Confirmar a região do investimento e a intensidade máxima de auxílio do mapa de auxílios com finalidade regional (art. 23.º, n.º 5, e art. 43.º CFI), bem como a cumulação com outros auxílios.",
+      "Confirmar a lista de CAE elegíveis (Portaria n.º 297/2015 e alterações) e, nas grandes empresas em regiões da al. c), a exigência de nova atividade económica (art. 22.º, n.º 7, CFI).",
+      "No mecenato, confirmar o enquadramento do destinatário e a majoração após as alterações de agosto de 2026 ao EBF (arts. 62.º a 62.º-B)."
+    ],
+    "fontes": [
+      "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cfi/Pages/cfi-22.aspx",
+      "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cfi/Pages/cfi-23.aspx",
+      "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cfi/Pages/cfi-35.aspx",
+      "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cfi/Pages/cfi-38.aspx",
+      "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cfi/Pages/cfi-40.aspx",
+      "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/bf_rep/Pages/ebf-artigo-62-ordm-.aspx",
+      "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/bf_rep/Pages/ebf-artigo-62-ordm-a.aspx",
+      "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/bf_rep/Pages/ebf-artigo-62-ordm-b.aspx",
+      "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/CIRC_2R/Pages/irc92.aspx"
+    ]
+  },
+  {
+    "codigo": "FIS-023",
+    "veredicto": "corrigida",
+    "resumo": "O critério dos 183 dias estava mal enunciado («em 31/12, permanecer mais de 183 dias no ano»): o art. 16.º, n.º 1, CIRS exige mais de 183 dias, seguidos ou interpolados, em qualquer período de 12 meses com início ou fim no ano, e a habitação releva em qualquer dia desse período; o dia 31 de dezembro só conta para os tripulantes. Acrescentei a noção de dia de presença, a residência parcial (n.ºs 3 e 4) e a regra dos nacionais que se mudam para paraísos fiscais (n.º 6), corrigi a residência das pessoas coletivas (sede ou direção efetiva, art. 2.º, n.º 3, CIRC), substituí a inexistente «modelo 20» pelo anexo J da declaração modelo 3 e eliminei as formas do Brasil («patrimônio»).",
+    "substituicoes": [
+      {
+        "de": "  * Pessoa singular: residente se, em 31/12, permanecer >183 dias em Portugal no ano, ou tiver habitação em condições que façam supor intenção de manter e ocupar como residência habitual (art. 16.º, n.º 1 CIRS)\n  * Critério alternativo: sede em Portugal (pessoas coletivas — art. 2.º CIRC)",
+        "para": "  * Pessoa singular: residente se, no ano a que respeitam os rendimentos, tiver permanecido em Portugal mais de 183 dias, seguidos ou interpolados, em qualquer período de 12 meses com início ou fim nesse ano, ou se, tendo permanecido menos tempo, dispuser, num qualquer dia desse período, de habitação em condições que façam supor a intenção atual de a manter e ocupar como residência habitual (art. 16.º, n.º 1, als. a) e b), CIRS); é dia de presença qualquer dia, completo ou parcial, que inclua dormida (n.º 2); a residência começa no primeiro dia de permanência e cessa no último (n.ºs 3 e 4, com as exceções dos n.ºs 14 e 16); o dia 31 de dezembro só releva para os tripulantes de navios ou aeronaves (al. c)); os nacionais que mudem a residência para território com regime fiscal claramente mais favorável continuam residentes nesse ano e nos quatro seguintes, salvo razões atendíveis (n.º 6)\n  * Pessoas coletivas: residentes as que tenham sede ou direção efetiva em território português (art. 2.º, n.º 3, CIRC)",
+        "motivo": "Critério dos 183 dias e residência das pessoas coletivas mal enunciados",
+        "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cirs_rep/Pages/irs16.aspx"
+      },
+      {
+        "de": "- Regras de desempate CDT (art. 4.º Modelo OCDE): (1) habitação permanente; (2) centro de interesses vitais; (3) habitação habitual; (4) nacionalidade; (5) acordo entre Estados",
+        "para": "- Regras de desempate CDT (art. 4.º Modelo OCDE), para as pessoas singulares: (1) habitação permanente; (2) centro de interesses vitais; (3) habitação habitual; (4) nacionalidade; (5) acordo entre Estados; para as pessoas coletivas, a regra da CDT concreta (direção efetiva ou acordo entre autoridades competentes) [■ VERIFICAR: n.º 3 do art. 4.º da CDT aplicável]",
+        "motivo": "A ordem de desempate enunciada só vale para pessoas singulares",
+        "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/CIRC_2R/Pages/irc2.aspx"
+      },
+      {
+        "de": "- Dias de permanência em Portugal no ano (para o critério de 183 dias)?\n- Tem habitação em Portugal em condições de residência habitual?\n- Onde está o centro de interesses vitais (família, conta bancária, emprego, patrimônio)?",
+        "para": "- Dias de presença em Portugal (com dormida) em qualquer período de 12 meses com início ou fim no ano em causa (critério dos 183 dias)?\n- Tem habitação em Portugal em condições de residência habitual?\n- Onde está o centro de interesses vitais (família, conta bancária, emprego, património)?",
+        "motivo": "O prazo conta-se em qualquer período de 12 meses, não no ano civil; forma do Brasil «patrimônio»",
+        "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cirs_rep/Pages/irs16.aspx"
+      },
+      {
+        "de": "- Obrigações declarativas: modelo 3 IRS, modelo 20 (rendimentos estrangeiros) [■ VERIFICAR]",
+        "para": "- Obrigações declarativas: declaração modelo 3 do IRS, com o anexo J para os rendimentos obtidos no estrangeiro por residentes [■ VERIFICAR: obrigações no caso de não residente ou de residência parcial no ano]",
+        "motivo": "Não existe «modelo 20» para rendimentos estrangeiros; declaram-se no anexo J da modelo 3",
+        "fonte": "https://info.portaldasfinancas.gov.pt/pt/apoio_contribuinte/questoes_frequentes/pages/faqs-00653.aspx"
+      },
+      {
+        "de": "- Dias de permanência em Portugal no ano: [número]\n- Habitação em Portugal: [sim — tipo, se é de uso regular / não]\n- Habitação no outro país: [sim — tipo / não]\n- Família: [cônjuge/filhos em Portugal / no outro país / ambos]\n- Atividade profissional: [em Portugal / no outro país / ambos]\n- Patrimônio principal: [em Portugal / no outro país / ambos]",
+        "para": "- Dias de presença em Portugal (com dormida) em qualquer período de 12 meses com início ou fim no ano: [número e datas de entrada e saída]\n- Habitação em Portugal: [sim — tipo, se é de uso regular / não]\n- Habitação no outro país: [sim — tipo / não]\n- Família: [cônjuge/filhos em Portugal / no outro país / ambos]\n- Atividade profissional: [em Portugal / no outro país / ambos]\n- Património principal: [em Portugal / no outro país / ambos]",
+        "motivo": "Dados necessários para o critério do art. 16.º, n.º 1, CIRS; forma do Brasil «patrimônio»",
+        "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cirs_rep/Pages/irs16.aspx"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Confirmar se o cliente teve residência parcial no ano (art. 16.º, n.ºs 3, 4, 14 e 16, CIRS) e as consequências declarativas.",
+      "Confirmar no texto da CDT concreta a redação do art. 4.º (algumas CDT mais antigas usam a direção efetiva para as pessoas coletivas).",
+      "Se o cliente tiver beneficiado do antigo regime dos residentes não habituais ou pretender o regime que lhe sucedeu, confirmar o regime transitório do art. 236.º da Lei n.º 82/2023."
+    ],
+    "fontes": [
+      "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cirs_rep/Pages/irs16.aspx",
+      "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/CIRC_2R/Pages/irc2.aspx",
+      "https://info.portaldasfinancas.gov.pt/pt/apoio_contribuinte/questoes_frequentes/pages/faqs-00653.aspx"
+    ]
+  },
+  {
+    "codigo": "FIS-027",
+    "veredicto": "corrigida",
+    "resumo": "A ficha misturava crimes e contraordenações: tratava a fraude e o abuso de confiança como infrações a defender no Serviço de Finanças e atribuía o abuso de confiança ao art. 114.º e a fraude aos arts. 87.º ss RGIT; são crimes (arts. 103.º a 105.º RGIT) investigados em inquérito do Ministério Público (art. 40.º), e o art. 114.º é a contraordenação de falta de entrega da prestação tributária. Corrigi também a troca de normas entre dispensa (art. 29.º), redução (art. 30.º) e atenuação especial (art. 32.º RGIT), as causas de exclusão (arts. 8.º e 9.º RGCO e art. 34.º CP, e não «art. 20.º»), os critérios do art. 27.º, o destinatário da defesa (art. 52.º RGIT) e a falsa base do pagamento em prestações (o art. 28.º RGIT trata das sanções acessórias).",
+    "substituicoes": [
+      {
+        "de": "- A defesa deve ser apresentada no prazo de 30 dias após a notificação (art. 70.º RGIT) [■ VERIFICAR: prazo atual]",
+        "para": "- A defesa deve ser apresentada no prazo de 30 dias após a notificação (art. 70.º RGIT); no mesmo prazo pode o arguido pagar antecipadamente a coima pelo mínimo legal (art. 75.º RGIT), pedir a atenuação especial (art. 32.º RGIT) ou a dispensa da coima (art. 29.º, n.º 2, RGIT) e, até à decisão, pagar voluntariamente (art. 78.º RGIT)\n- O RGIT abrange crimes e contraordenações: a fraude (arts. 103.º e 104.º RGIT) e o abuso de confiança (art. 105.º RGIT) são crimes, investigados em inquérito dirigido pelo Ministério Público (art. 40.º RGIT) — esta ficha serve só para contraordenações",
+        "motivo": "Prazo de 30 dias confirmado na redação da Lei n.º 7/2021; separação entre crimes e contraordenações",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=259&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- Causas de exclusão da responsabilidade: erro sobre a factualidade típica (art. 16.º), erro sobre a ilicitude (art. 17.º), direito de necessidade (art. 20.º) — aplicáveis por remissão\n- Critérios de graduação (art. 27.º RGIT): gravidade, culpa, benefício económico, situação económica do infrator, comportamento anterior",
+        "para": "- Causas de exclusão da responsabilidade: erro sobre elementos do tipo, que exclui o dolo (art. 8.º, n.º 2, RGCO), erro não censurável sobre a ilicitude (art. 9.º RGCO) e, subsidiariamente, as causas de exclusão do Código Penal, como o direito de necessidade (art. 34.º CP) — aplicáveis por remissão do art. 3.º, al. b), RGIT e do art. 32.º RGCO\n- Critérios de graduação (art. 27.º RGIT): gravidade do facto, culpa do agente, situação económica e benefício económico retirado; nas omissões, o tempo decorrido desde a data em que o facto devia ter sido praticado (n.º 2)",
+        "motivo": "Normas sem diploma e «art. 20.º» errado (direito de necessidade é o art. 34.º CP); o art. 27.º RGIT não refere o comportamento anterior",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=166&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- Qual a infração imputada? (falta de entrega de declaração, falta de pagamento, fraude fiscal, abuso de confiança, outra)",
+        "para": "- Qual a infração imputada? (falta ou atraso de declarações, falta de entrega da prestação tributária, omissões ou inexatidões nas declarações, outra) Se os factos indiciarem crime (fraude ou abuso de confiança), não há processo de contraordenação mas inquérito criminal (art. 40.º RGIT): encaminhar para a defesa em processo penal",
+        "motivo": "Fraude e abuso de confiança são crimes, fora do processo de contraordenação",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=259&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- Artigo do RGIT correspondente à infração imputada (ex: art. 116.º — falta de entrega de declaração; art. 114.º — abuso de confiança; arts. 87.º ss — fraude fiscal)\n- Art. 27.º RGIT — critérios de graduação da coima\n- Art. 29.º RGIT — atenuação especial\n- Art. 30.º RGIT — dispensa de coima (regularização voluntária)",
+        "para": "- Artigo do RGIT correspondente à infração imputada (ex.: art. 116.º RGIT — falta ou atraso de declarações; art. 114.º RGIT — falta de entrega da prestação tributária; art. 119.º RGIT — omissões e inexatidões nas declarações)\n- Art. 27.º RGIT — critérios de graduação da coima\n- Art. 29.º, n.ºs 2 a 4, RGIT — dispensa da coima (sem prejuízo efetivo à receita tributária e com a falta regularizada, requerida e regularizada no prazo da defesa)\n- Art. 30.º RGIT — redução da coima paga a pedido do agente antes do auto de notícia ou da inspeção, ou até ao termo do prazo de audição prévia na inspeção (só antes do processo de contraordenação)\n- Art. 32.º RGIT — atenuação especial (pedida no prazo da defesa, com reconhecimento da responsabilidade e regularização da situação tributária: limites reduzidos a metade ou admoestação)\n- Arts. 75.º e 78.º RGIT — pagamento antecipado no prazo da defesa (mínimo legal e custas reduzidas a metade) e pagamento voluntário depois de fixada a coima (75% do montante fixado)",
+        "motivo": "O art. 114.º não é abuso de confiança e os arts. 87.º ss não são fraude; dispensa, redução e atenuação especial estavam trocadas",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=259&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "**EXMO(A). SENHOR(A) DIRETOR(A) DO SERVIÇO DE FINANÇAS DE [LOCALIDADE]**",
+        "para": "**EXMO(A). SENHOR(A) CHEFE DO SERVIÇO DE FINANÇAS DE [LOCALIDADE]**\n[ou DIRETOR(A) DE FINANÇAS DE [ÁREA], nas coimas da sua competência — art. 52.º, al. b), RGIT]",
+        "motivo": "A competência reparte-se entre o dirigente do serviço local e o diretor de finanças (art. 52.º RGIT)",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=259&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- Comportamento anterior: [sem antecedentes contraordenacionais]",
+        "para": "- Tempo decorrido (nas omissões): [desde a data em que o facto devia ter sido praticado — art. 27.º, n.º 2, RGIT]\n- Antecedentes: [sem condenações por infrações tributárias nem dispensa ou redução de coima nos cinco anos anteriores — relevante para a dispensa do art. 29.º, n.º 1, RGIT]",
+        "motivo": "Critério legal do art. 27.º, n.º 2, e relevância dos antecedentes na dispensa",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=259&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "3.3. DISPENSA DE COIMA OU ATENUAÇÃO ESPECIAL (art. 29.º e 30.º RGIT)\n[Se aplicável: condições da regularização voluntária antes da notificação]",
+        "para": "3.3. DISPENSA OU ATENUAÇÃO ESPECIAL DA COIMA (arts. 29.º e 32.º RGIT)\n[Dispensa (art. 29.º, n.º 2, RGIT): a infração não causou prejuízo efetivo à receita tributária (há sempre prejuízo na falta de entrega da prestação tributária — n.º 3) e a falta foi regularizada até ao termo do prazo da defesa (n.º 4). Atenuação especial (art. 32.º RGIT): reconhecimento da responsabilidade e regularização da situação tributária no prazo da defesa — limites reduzidos a metade (n.º 2) ou admoestação (n.º 3)]",
+        "motivo": "A regularização antes da notificação dá redução (art. 30.º), não dispensa; a atenuação especial é o art. 32.º",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=259&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "b) Reduza a coima ao mínimo legal face aos critérios do art. 27.º RGIT\nc) Autorize pagamento da coima em prestações (art. 28.º RGIT) se condenado",
+        "para": "b) Subsidiariamente, dispense a coima (art. 29.º, n.º 2, RGIT), a atenue especialmente ou a substitua por admoestação (art. 32.º RGIT) ou, ainda, reduza a coima ao mínimo legal face aos critérios do art. 27.º RGIT\nc) Autorize o pagamento da coima em prestações, se condenado [■ VERIFICAR: base legal — art. 88.º, n.ºs 4 e 5, RGCO, aplicável por remissão do art. 3.º, al. b), RGIT, e prática da AT]",
+        "motivo": "O art. 28.º RGIT trata das sanções acessórias; o pagamento em prestações da coima está no RGCO",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=166&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- [ ] Critérios do art. 27.º RGIT aplicados (atenuantes)",
+        "para": "- [ ] Factos sem indícios de crime (arts. 103.º a 105.º RGIT)\n- [ ] Critérios do art. 27.º RGIT aplicados (atenuantes)\n- [ ] Dispensa (art. 29.º, n.º 2, RGIT) ou atenuação especial (art. 32.º RGIT) requerida no prazo da defesa, com a situação tributária regularizada",
+        "motivo": "Verificações que dependem do prazo da defesa",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=259&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Confirmar o alcance do art. 29.º, n.º 1, RGIT, na redação da Lei n.º 7/2021.",
+      "Confirmar no auto de notícia o tipo imputado e a moldura concreta (há molduras especiais nos arts. 114.º, 116.º e 119.º RGIT) e a duplicação dos limites para pessoas coletivas (art. 26.º, n.º 4, RGIT).",
+      "Da decisão que aplicar a coima cabe recurso para o tribunal tributário em 30 dias, apresentado no serviço onde corre o processo (art. 80.º RGIT).",
+      "Havendo indícios de crime, o processo é penal: recomendar advogado com prática em direito penal tributário."
+    ],
+    "fontes": [
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=259&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=166&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=109&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+    ]
+  },
+  {
+    "codigo": "FIS-030",
+    "veredicto": "corrigida",
+    "resumo": "A ficha mandava contar novo prazo de prescrição a partir da «última interrupção» e atribuía a regra da interrupção única a uma «reforma de 2012» limitada aos atos do sujeito passivo: pelo art. 49.º, n.º 3, LGT (Lei n.º 53-A/2006) a interrupção tem lugar uma única vez, com o primeiro facto, qualquer que seja. Retirei o pedido de prestações das causas de interrupção (as prestações autorizadas suspendem — n.º 4, al. a)) e o «pedido de informação vinculativa» das causas de suspensão da caducidade, que reescrevi segundo o art. 46.º LGT; acrescentei os prazos especiais do art. 45.º (3 e 12 anos, inquérito criminal), a contagem no IVA e na retenção definitiva e as restantes causas de suspensão. Ao contrário do que a triagem supunha, a cessação do efeito interruptivo por paragem do processo durante mais de um ano (antigo n.º 2) foi revogada em 2007 e só vale em regime transitório.",
+    "substituicoes": [
+      {
+        "de": "  * Prazo geral: 4 anos\n  * Conta a partir do: início do ano seguinte àquele em que se verificou o facto tributário (impostos periódicos) ou da data do facto (outros)\n  * Suspensão: durante pedido de informação vinculativa, durante inspeção notificada, durante impugnação de ato de avaliação\n  * A liquidação NOTIFICADA dentro do prazo interrompe/impede a caducidade\n- PRESCRIÇÃO (arts. 48.º e 49.º LGT):\n  * Prazo: 8 anos\n  * Conta a partir do: início do ano seguinte ao do facto tributário (impostos periódicos)\n  * INTERRUPÇÃO (reinicia o prazo):\n    - Citação pessoal do devedor na execução fiscal\n    - Reclamação graciosa, recurso hierárquico, impugnação judicial, pedido de revisão\n    - Pedido de pagamento em prestações\n    - Nota: desde a reforma de 2012, a interrupção só produz efeito UMA vez quanto a atos do sujeito passivo [■ VERIFICAR: jurisprudência do STA sobre limite de interrupção]\n  * SUSPENSÃO (pausa no prazo, sem reinício):\n    - Reclamação, recurso, impugnação ou oposição à execução que tiver efeito suspensivo\n    - Pagamento em prestações autorizado\n    - Insolvência ou processo de recuperação",
+        "para": "  * Prazo geral: 4 anos (art. 45.º, n.º 1, LGT); 3 anos em caso de erro evidenciado na declaração do sujeito passivo (n.º 2); 12 anos nos factos conexos com territórios de regime fiscal claramente mais favorável ou com contas no estrangeiro não declaradas (n.º 7); alargado até ao arquivamento ou trânsito em julgado, acrescido de um ano, se houver inquérito criminal sobre os factos (n.º 5)\n  * Conta a partir do: termo do ano em que se verificou o facto tributário (impostos periódicos) ou da data do facto (impostos de obrigação única); no IVA e na retenção na fonte a título definitivo, do início do ano civil seguinte ao da exigibilidade do imposto ou do facto tributário (art. 45.º, n.º 4, LGT)\n  * Suspensão (art. 46.º LGT): notificação do início de inspeção externa (o efeito cessa se a inspeção ultrapassar seis meses, acrescidos do período de suspensão do prazo do procedimento — n.º 1); litígio judicial de que dependa a liquidação; benefícios fiscais contratuais ou condicionados; liquidação que resulte de reclamação ou impugnação; pedido de revisão da matéria coletável (n.º 2); procedimento de perda de benefícios fiscais (n.º 3)\n  * A liquidação validamente NOTIFICADA dentro do prazo impede a caducidade; as notificações sob registo consideram-se feitas no 3.º dia posterior ao registo (art. 45.º, n.ºs 1 e 6, LGT)\n- PRESCRIÇÃO (arts. 48.º e 49.º LGT):\n  * Prazo: 8 anos (15 anos nos casos do n.º 7 do art. 45.º — art. 48.º, n.º 4, LGT)\n  * Conta a partir do: termo do ano em que se verificou o facto tributário (impostos periódicos) ou da data do facto (impostos de obrigação única); no IVA e na retenção na fonte a título definitivo, do início do ano civil seguinte (art. 48.º, n.º 1, LGT)\n  * INTERRUPÇÃO (art. 49.º, n.º 1, LGT — inutiliza o tempo decorrido):\n    - Citação na execução fiscal\n    - Reclamação graciosa, recurso hierárquico, impugnação judicial, pedido de revisão oficiosa da liquidação\n    - A interrupção tem lugar UMA ÚNICA VEZ, com o facto que se verificar em primeiro lugar, seja qual for (art. 49.º, n.º 3, LGT, na redação da Lei n.º 53-A/2006); a cessação do efeito interruptivo por paragem do processo durante mais de um ano (antigo n.º 2) foi revogada e só releva nos prazos em que, à data da revogação, já tivesse decorrido mais de um ano de paragem (art. 91.º da Lei n.º 53-A/2006)\n    - Se o primeiro facto interruptivo for a citação, ponderar se o novo prazo só corre após o fim do processo (art. 327.º, n.º 1, CC) [■ VERIFICAR: jurisprudência do STA sobre o efeito duradouro da citação na execução fiscal]\n    - A interrupção quanto ao devedor principal não produz efeitos quanto ao responsável subsidiário citado depois do 5.º ano posterior ao da liquidação (art. 48.º, n.º 3, LGT)\n  * SUSPENSÃO (pausa no prazo, sem reinício — art. 49.º, n.ºs 4 e 5, LGT):\n    - Pagamento em prestações legalmente autorizadas\n    - Reclamação, impugnação, recurso ou oposição, enquanto não houver decisão definitiva, quando determinem a suspensão da cobrança da dívida\n    - Impugnação pauliana intentada pelo Ministério Público; impedimento legal à venda de imóvel afeto a habitação própria e permanente; reclamação do art. 276.º CPPT que impeça atos coercivos; prazo do n.º 3 do art. 169.º CPPT; inquérito criminal, até ao arquivamento ou trânsito em julgado\n    - Declaração de insolvência do devedor, durante o processo (art. 100.º CIRE)",
+        "motivo": "Interrupção única com o primeiro facto (não a última); prestações suspendem, não interrompem; causas de suspensão da caducidade inexistentes; prazos especiais omitidos",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=253&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "Causas de interrupção: [descrição e datas — reiniciam o prazo de 8 anos]\nNovo prazo após última interrupção: 8 anos desde [data da interrupção]\nPrescreve em: [data]",
+        "para": "Facto interruptivo relevante — só o primeiro (art. 49.º, n.º 3, LGT): [descrição e data — inutiliza o tempo decorrido]\nNovo prazo de 8 anos a partir desse facto: [data] [■ VERIFICAR: se o facto for a citação, efeito duradouro (art. 327.º, n.º 1, CC) segundo a jurisprudência do STA]\nPeríodos de suspensão (art. 49.º, n.ºs 4 e 5, LGT): [causa, início e fim de cada um]\nPrescreve em: [data]",
+        "motivo": "O cálculo a partir da «última interrupção» contraria o art. 49.º, n.º 3, LGT",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_busca_art_velho.php?nid=253&artigonum=253A0049&n_versao=3&so_miolo="
+      },
+      {
+        "de": "- [ ] Efeito de cada interrupção analisado (reinício do prazo de 8 anos)",
+        "para": "- [ ] Só o primeiro facto interruptivo considerado (art. 49.º, n.º 3, LGT) e períodos de suspensão somados (art. 49.º, n.ºs 4 e 5, LGT)",
+        "motivo": "A interrupção só opera uma vez",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=253&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "**SUSPENSÕES DA CADUCIDADE:**\n- Pedido de informação vinculativa: [data início — data fim]\n- Notificação de inspeção tributária: [data início — data fim]",
+        "para": "**SUSPENSÕES DA CADUCIDADE (art. 46.º LGT):**\n- Inspeção externa: [data da notificação do início — data da conclusão]\n- Litígio judicial de que dependa a liquidação / pedido de revisão da matéria coletável: [data início — data fim]",
+        "motivo": "O pedido de informação vinculativa não suspende a caducidade",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=253&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Confirmar a jurisprudência do STA sobre o efeito duradouro da citação na execução fiscal (art. 327.º, n.º 1, CC) e a sua articulação com o art. 49.º, n.º 3, LGT.",
+      "Nos prazos já interrompidos em 2006, confirmar a aplicação transitória do antigo n.º 2 do art. 49.º LGT (art. 91.º da Lei n.º 53-A/2006).",
+      "Para o responsável subsidiário, confirmar a data da sua citação face ao art. 48.º, n.º 3, LGT.",
+      "Confirmar se a inspeção externa excedeu seis meses (art. 46.º, n.º 1, LGT) e se a notificação da liquidação foi válida dentro do prazo."
+    ],
+    "fontes": [
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=253&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://www.pgdlisboa.pt/leis/lei_busca_art_velho.php?nid=253&artigonum=253A0049&n_versao=3&so_miolo=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0327&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0100&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+    ]
+  },
+  {
+    "codigo": "FIS-042",
+    "veredicto": "corrigida",
+    "resumo": "A ficha dizia que o RFAI e o SIFIDE «reduzem a base» das derramas: são deduções à coleta e não tocam no lucro tributável sobre que incidem as derramas; só o reduzem os benefícios que operam no seu apuramento, e o art. 19.º EBF (criação de emprego) está revogado. A repartição da derrama municipal entre municípios faz-se pela massa salarial (art. 18.º, n.º 2, da Lei n.º 73/2013), não pelo volume de negócios. A regra do RETGS (derrama sobre o lucro tributável individual de cada sociedade) está certa, ao contrário do que a triagem supunha, mas consta do n.º 3 do art. 87.º-A CIRC, não do n.º 6, e vale também para a derrama municipal (n.º 16). Acrescentei o prazo de 2 anos da reclamação da autoliquidação (art. 131.º CPPT).",
+    "substituicoes": [
+      {
+        "de": "- Integração em grupo fiscal (RETGS) — cálculo da derrama ao nível individual ou consolidado",
+        "para": "- Integração em grupo fiscal (RETGS) — as derramas estadual e municipal incidem sobre o lucro tributável individual de cada sociedade, incluindo a dominante (art. 87.º-A, n.º 3, CIRC, e art. 18.º, n.º 16, da Lei n.º 73/2013)",
+        "motivo": "No RETGS as derramas são sempre apuradas individualmente",
+        "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/CIRC_2R/Pages/irc87a.aspx"
+      },
+      {
+        "de": "- Deduções que reduzem a base: RFAI, SIFIDE, criação de emprego (art. 19.º EBF) — analisar se foram corretamente abatidas antes de calcular a derrama\n- Derrama municipal: art. 18.º Lei 73/2013 — taxa deliberada por cada município; sujeito passivo com atividade em vários municípios deve repartir o lucro pelo volume de negócios\n- RETGS: derrama calculada sobre o lucro tributável individual de cada sociedade (art. 87.º-A, n.º 6, CIRC)",
+        "para": "- Base: as derramas incidem sobre o lucro tributável sujeito e não isento, não sobre a coleta; o RFAI e o SIFIDE II são deduções à coleta (arts. 23.º e 38.º do Código Fiscal do Investimento) e não reduzem a base; só a reduzem os benefícios que operam no apuramento do lucro tributável, como as majorações de gastos (por exemplo, a valorização salarial do art. 19.º-B EBF); o art. 19.º EBF (criação de emprego) foi revogado pela Lei n.º 43/2018 — analisar se a base foi corretamente apurada\n- Derrama municipal: art. 18.º da Lei n.º 73/2013 — taxa até 1,5% deliberada por cada município (n.º 1), com eventual isenção ou taxa reduzida (n.ºs 22 a 24); o sujeito passivo com estabelecimentos estáveis ou representações locais em mais de um município e matéria coletável superior a 50 000 € reparte o lucro tributável pela massa salarial de cada município (n.ºs 2 e 14); nos restantes casos, o rendimento imputa-se ao município da sede ou da direção efetiva (n.º 13); regras especiais para a exploração de recursos naturais e o tratamento de resíduos (n.ºs 3 a 10)\n- RETGS: derrama estadual calculada sobre o lucro tributável individual de cada sociedade do grupo, incluindo a dominante (art. 87.º-A, n.º 3, CIRC); o mesmo vale para a derrama municipal (art. 18.º, n.º 16, da Lei n.º 73/2013)",
+        "motivo": "RFAI e SIFIDE deduzem-se à coleta; art. 19.º EBF revogado; repartição pela massa salarial; número do art. 87.º-A errado",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1989A0018&nid=1989&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Meio: reclamação graciosa (art. 68.º ss. CPPT) ou direito de audição",
+        "para": "- Meio: as derramas são autoliquidadas na declaração periódica (art. 87.º-A, n.º 4, CIRC; art. 18.º, n.º 15, da Lei n.º 73/2013), pelo que o meio é a reclamação graciosa da autoliquidação, no prazo de 2 anos após a apresentação da declaração e necessária antes da impugnação (art. 131.º, n.º 1, CPPT; tramitação nos termos do art. 68.º ss. CPPT); se a derrama resultar de liquidação adicional da AT, reclamação graciosa em 120 dias (art. 70.º, n.º 1, CPPT) ou direito de audição no procedimento",
+        "motivo": "Faltava o prazo e o regime da reclamação de autoliquidação",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=256A0131&nid=256&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "Requer-se a anulação parcial da liquidação na parte correspondente ao excesso de derrama no montante de €[___] e a restituição do imposto indevidamente pago com juros indemnizatórios.",
+        "para": "Requer-se a anulação parcial da liquidação na parte correspondente ao excesso de derrama no montante de €[___] e a restituição do imposto indevidamente pago com juros indemnizatórios [nos termos do art. 43.º LGT — na autoliquidação, só se houver erro imputável aos serviços, por exemplo por ter seguido orientações genéricas da AT (n.º 2)].",
+        "motivo": "Os juros indemnizatórios dependem de erro imputável aos serviços",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=253&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- [ ] Repartição do lucro entre municípios calculada (se atividade em vários concelhos)\n- [ ] RETGS: cálculo individual vs. consolidado verificado",
+        "para": "- [ ] Repartição do lucro entre municípios pela massa salarial (art. 18.º, n.º 2, da Lei n.º 73/2013), se houver estabelecimentos em vários concelhos\n- [ ] RETGS: derramas calculadas sobre o lucro tributável individual de cada sociedade (art. 87.º-A, n.º 3, CIRC)\n- [ ] Prazo de 2 anos da reclamação da autoliquidação verificado (art. 131.º, n.º 1, CPPT)",
+        "motivo": "Critério legal de repartição, regra do RETGS e prazo do meio",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1989A0018&nid=1989&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Deduções ao lucro tributável aplicadas: [RFAI/SIFIDE/outra — €___]",
+        "para": "- Benefícios aplicados: [majorações de gastos no lucro tributável — €___ / deduções à coleta (RFAI, SIFIDE II) — €___]\n- Massa salarial por município (se houver estabelecimentos em vários): [___]\n- Data de apresentação da declaração modelo 22: [dd/mm/aaaa]",
+        "motivo": "RFAI e SIFIDE não são deduções ao lucro tributável; dados necessários à repartição e ao prazo",
+        "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cfi/Pages/cfi-23.aspx"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Confirmar a taxa de derrama municipal e eventuais taxas reduzidas em vigor a 31 de dezembro do período (art. 18.º, n.ºs 19 e 22 a 24, da Lei n.º 73/2013).",
+      "No RETGS, confirmar a articulação com o art. 115.º CIRC para o pagamento da derrama municipal (art. 18.º, n.º 16).",
+      "Confirmar se as derramas estaduais e os escalões não foram alterados pelo Orçamento do Estado para 2026."
+    ],
+    "fontes": [
+      "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/CIRC_2R/Pages/irc87a.aspx",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1989A0018&nid=1989&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/bf_rep/Pages/ebf-artigo-19-ordm-.aspx",
+      "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/bf_rep/Pages/ebf19b.aspx",
+      "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cfi/Pages/cfi-23.aspx",
+      "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cfi/Pages/cfi-38.aspx",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=256A0131&nid=256&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=253&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+    ]
+  },
+  {
+    "codigo": "FIS-048",
+    "veredicto": "corrigida",
+    "resumo": "A revisão por injustiça grave ou notória do art. 78.º, n.º 4, LGT é autorizada pelo dirigente máximo do serviço, não pelo Ministro das Finanças, só abrange a matéria tributável e exige que o erro não seja imputável a negligência do contribuinte. A ficha dizia que a AT pode rever «a todo o tempo»: pode fazê-lo em 4 anos após a liquidação, ou a todo o tempo só se o tributo não estiver pago; e atribuía ao n.º 1 «in fine» um prazo de 4 anos a pedido do contribuinte que resulta do pedido de revisão oficiosa e do efeito interruptivo do n.º 7. Corrigi ainda os juros indemnizatórios (art. 43.º, n.º 3, al. c), LGT, quando a revisão se faz mais de um ano após o pedido) e o destinatário do pedido.",
+    "substituicoes": [
+      {
+        "de": "- Verificação do prazo: contagem dos 4 anos / 3 anos a partir da liquidação",
+        "para": "- Verificação do prazo: 4 anos após a liquidação (art. 78.º, n.º 1, LGT) ou três anos posteriores ao do ato tributário (art. 78.º, n.º 4, LGT); o pedido do contribuinte interrompe o prazo (art. 78.º, n.º 7, LGT)",
+        "motivo": "O prazo do n.º 4 conta-se de modo diferente e o pedido interrompe o prazo",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=253&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- Art. 78.º, n.º 1, LGT: revisão no prazo de reclamação graciosa (120 dias) a pedido do contribuinte, ou a todo o tempo por iniciativa da AT\n- Art. 78.º, n.º 1, in fine: por iniciativa do contribuinte, no prazo de 4 anos, quando o erro seja imputável aos serviços",
+        "para": "- Art. 78.º, n.º 1, LGT: revisão por iniciativa do sujeito passivo no prazo da reclamação administrativa (120 dias — art. 70.º, n.º 1, CPPT), com fundamento em qualquer ilegalidade; ou por iniciativa da AT no prazo de 4 anos após a liquidação, ou a todo o tempo se o tributo ainda não tiver sido pago, com fundamento em erro imputável aos serviços\n- Art. 78.º, n.º 7, LGT: o pedido do contribuinte dirigido ao órgão competente para a revisão oficiosa interrompe esse prazo; é por esta via que o contribuinte, passado o prazo da reclamação, pede a revisão por erro imputável aos serviços dentro dos 4 anos [■ VERIFICAR: jurisprudência do STA que admite o pedido e o dever de decidir]",
+        "motivo": "A revisão «a todo o tempo» só vale se o tributo não estiver pago; o prazo de 4 anos a pedido do contribuinte resulta do n.º 7 e da jurisprudência",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=253&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- Art. 78.º, n.º 4, LGT: injustiça grave e notória — prazo de 3 anos, depende de autorização do Ministro das Finanças\n- Consequência: anulação total ou parcial da liquidação + juros indemnizatórios (art. 43.º LGT se erro dos serviços)",
+        "para": "- Art. 78.º, n.º 4, LGT: injustiça grave ou notória — o dirigente máximo do serviço pode autorizar, excecionalmente, nos três anos posteriores ao do ato tributário, a revisão da matéria tributável, desde que o erro não seja imputável a comportamento negligente do contribuinte; notória é a injustiça ostensiva e inequívoca, e grave a resultante de tributação manifestamente exagerada e desproporcionada com a realidade ou de que tenha resultado elevado prejuízo para a Fazenda Nacional (n.º 5)\n- Consequência: anulação total ou parcial da liquidação + juros indemnizatórios (art. 43.º LGT): desde o pagamento, se houver erro imputável aos serviços (n.º 1); no pedido de revisão do contribuinte, quando a revisão se efetuar mais de um ano após o pedido, salvo atraso não imputável à AT (n.º 3, al. c)) [■ VERIFICAR: termo inicial dos juros na jurisprudência do STA]",
+        "motivo": "A autorização é do dirigente máximo do serviço, não do Ministro; regime dos juros na revisão a pedido",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=253&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- Destinatário: Diretor de Finanças competente / Diretor-Geral da AT",
+        "para": "- Destinatário: a entidade que praticou o ato (art. 78.º, n.º 1, LGT), em regra o Diretor de Finanças competente [■ VERIFICAR: órgão competente para o imposto em causa]; no pedido do n.º 4, o dirigente máximo do serviço (Diretor-Geral da AT)",
+        "motivo": "A revisão compete à entidade que praticou o ato e, no n.º 4, ao dirigente máximo",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=253&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "Exmo. Sr. Diretor de Finanças de [___]",
+        "para": "Exmo. Sr. Diretor de Finanças de [___] [no pedido do n.º 4: Exmo. Sr. Diretor-Geral da Autoridade Tributária e Aduaneira]",
+        "motivo": "No n.º 4 a competência é do dirigente máximo do serviço",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=253&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "[Contagem do prazo de 4 anos a partir da liquidação]",
+        "para": "[Contagem do prazo de 4 anos a partir da liquidação (art. 78.º, n.º 1, LGT) ou, no pedido do n.º 4, dos três anos posteriores ao do ato tributário; se o tributo não estiver pago, a revisão pode ter lugar a todo o tempo]",
+        "motivo": "Prazos dos n.ºs 1 e 4 do art. 78.º LGT",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=253&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "[Art. 43.º LGT — erro dos serviços]",
+        "para": "[Art. 43.º, n.º 1, LGT — erro imputável aos serviços; subsidiariamente, art. 43.º, n.º 3, al. c), LGT — revisão efetuada mais de um ano após o pedido]",
+        "motivo": "Os juros na revisão a pedido do contribuinte seguem o n.º 3, al. c)",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=253&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "acrescida de juros indemnizatórios desde [data do pagamento indevido].",
+        "para": "acrescida de juros indemnizatórios desde [data do pagamento indevido, se houver erro imputável aos serviços / termo do prazo de um ano após o pedido — art. 43.º, n.º 3, al. c), LGT].",
+        "motivo": "Termo inicial dos juros depende do fundamento",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=253&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Confirmar a jurisprudência do STA que admite o pedido de revisão oficiosa do contribuinte no prazo de 4 anos e o termo inicial dos juros indemnizatórios nesse caso.",
+      "Na autoliquidação, confirmar se o erro é imputável aos serviços (art. 43.º, n.º 2, LGT) e se ainda cabe a reclamação de 2 anos do art. 131.º CPPT.",
+      "No pedido do n.º 4, demonstrar que o erro não resulta de negligência do contribuinte e que a injustiça é grave ou notória nos termos do n.º 5."
+    ],
+    "fontes": [
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=253&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=256&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+    ]
+  },
+  {
+    "codigo": "FIS-052",
+    "veredicto": "corrigida",
+    "resumo": "O cálculo da garantia não tinha base legal (juros «estimados a 18 meses» e «encargos de 10%»): o art. 199.º, n.º 6, CPPT manda garantir a dívida exequenda, os juros de mora até ao termo do prazo de pagamento voluntário ou à data do pedido, quando posterior, com o limite de cinco anos, e as custas, tudo acrescido de 25%, valendo o valor da citação se a garantia for apresentada nos 30 dias seguintes (art. 169.º, n.º 14). Corrigi também a «suspensão automática» (só se opera com a garantia, a prestar ou pedir a dispensa em 15 dias, sob pena de penhora), os pressupostos da dispensa (prejuízo irreparável ou manifesta falta de meios, art. 52.º, n.º 4, LGT) e as espécies de garantia, que estão no art. 199.º e não no art. 195.º CPPT (hipoteca legal e penhor constituídos pela AT).",
+    "substituicoes": [
+      {
+        "de": "- Cálculo do montante da garantia: dívida exequenda + juros de mora (estimativa 18 meses) + encargos (10% — art. 199.º, n.º 1, CPPT)\n- Verificação de eventual dispensa (art. 170.º CPPT — prejuízo irreversível, insuficiência de meios)",
+        "para": "- Cálculo do montante da garantia: dívida exequenda + juros de mora contados até ao termo do prazo de pagamento voluntário ou à data do pedido, quando posterior, com o limite de cinco anos + custas na totalidade, tudo acrescido de 25% (art. 199.º, n.º 6, CPPT); se a garantia for apresentada nos 30 dias posteriores à citação, vale o valor que dela consta (art. 169.º, n.º 14, CPPT)\n- Verificação de eventual dispensa (art. 52.º, n.º 4, LGT, e art. 170.º CPPT — prejuízo irreparável ou manifesta falta de meios económicos revelada pela insuficiência de bens penhoráveis, sem fortes indícios de atuação dolosa do interessado)",
+        "motivo": "Os 18 meses e os 10% não têm base legal; pressupostos da dispensa",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=256A0199&nid=256&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Art. 169.º, n.º 1, CPPT: suspensão automática da execução com prestação de garantia idónea quando esteja pendente reclamação, impugnação ou recurso\n- Art. 199.º CPPT: montante da garantia = dívida + juros de mora até trânsito + encargos do processo (até 10%)\n- Art. 170.º CPPT: dispensa de garantia — insuficiência de meios ou prejuízo irreversível para o devedor\n- Art. 195.º CPPT: tipos de garantia idónea — garantia bancária, seguro-caução, hipoteca, fiança, penhores",
+        "para": "- Art. 169.º, n.º 1, CPPT: a execução fica suspensa até à decisão do pleito em caso de reclamação graciosa, impugnação judicial ou recurso judicial que tenham por objeto a legalidade da dívida exequenda, desde que constituída ou prestada garantia ou a penhora garanta a totalidade da quantia exequenda e do acrescido; a suspensão não é automática e só se opera com a efetiva prestação da garantia (n.º 7); na oposição à execução, n.º 12; garantia ou pedido de dispensa no prazo de 15 dias a contar da apresentação do meio, sob pena de penhora (n.º 8)\n- Art. 199.º, n.º 6, CPPT: montante da garantia = dívida exequenda + juros de mora até ao termo do prazo de pagamento voluntário ou à data do pedido, quando posterior (limite de cinco anos) + custas na totalidade, acrescido de 25% da soma\n- Art. 170.º CPPT: dispensa de garantia, requerida ao órgão da execução fiscal no prazo de 15 dias a contar da apresentação do meio de reação (ou 30 dias após fundamento superveniente), com os pressupostos do art. 52.º, n.º 4, LGT — prejuízo irreparável ou manifesta falta de meios económicos, sem fortes indícios de atuação dolosa\n- Art. 199.º, n.ºs 1, 2 e 4, CPPT: garantia idónea — garantia bancária, caução, seguro-caução ou qualquer meio suscetível de assegurar os créditos do exequente (por exemplo, fiança); penhor ou hipoteca voluntária, com concordância da AT; penhora já feita; avaliação nos termos do art. 199.º-A CPPT; o art. 195.º CPPT regula a hipoteca legal e o penhor constituídos pelo órgão da execução fiscal",
+        "motivo": "Suspensão dependente de garantia, montante legal, prazo de 15 dias e espécies de garantia",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=256A0169&nid=256&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Juros de mora estimados (18 meses à taxa legal): €[___]\n- Encargos (máx. 10% da dívida): €[___]",
+        "para": "- Juros de mora até ao termo do prazo de pagamento voluntário ou à data do pedido, quando posterior (limite de cinco anos): €[___]\n- Custas na totalidade: €[___]\n- Acréscimo de 25% da soma dos valores anteriores (art. 199.º, n.º 6, CPPT): €[___]",
+        "motivo": "Componentes legais da garantia",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=256A0199&nid=256&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "[Dívida: €___ + juros estimados 18 meses: €___ + encargos 10%: €___ = TOTAL: €___]",
+        "para": "[(Dívida: €___ + juros de mora: €___ + custas: €___) × 1,25 = TOTAL: €___ — art. 199.º, n.º 6, CPPT; ou o valor indicado na citação, se a garantia for apresentada nos 30 dias posteriores (art. 169.º, n.º 14, CPPT)]",
+        "motivo": "Fórmula legal da garantia",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=256A0199&nid=256&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- [ ] Garantia idónea ao abrigo do art. 195.º CPPT",
+        "para": "- [ ] Garantia idónea ao abrigo do art. 199.º CPPT, prestada ou pedida a dispensa no prazo de 15 dias a contar da apresentação do meio de reação (art. 169.º, n.º 8, CPPT)",
+        "motivo": "As espécies de garantia estão no art. 199.º CPPT; prazo para evitar a penhora",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=256A0169&nid=256&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Valor estimado da garantia necessária: €[___]",
+        "para": "- Valor da garantia indicado na citação ou no Portal das Finanças (art. 169.º, n.ºs 7 e 14, CPPT): €[___]\n- Data da citação e data de apresentação do meio de reação: [dd/mm/aaaa]",
+        "motivo": "Dados necessários ao valor e ao prazo da garantia",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=256A0169&nid=256&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Nas dívidas até 5 000 € (pessoas singulares) ou 10 000 € (pessoas coletivas), verificar a suspensão por 120 dias sem garantia (art. 169.º, n.º 3, CPPT).",
+      "Na arbitragem tributária, confirmar o efeito suspensivo do pedido de constituição do tribunal arbitral e o regime da garantia no RJAT.",
+      "Se a garantia for de terceiro que não seja banco ou seguradora (por exemplo, fiança), confirmar a avaliação do art. 199.º-A CPPT."
+    ],
+    "fontes": [
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=256A0169&nid=256&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=256A0195&nid=256&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=256A0199&nid=256&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=253&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+    ]
+  },
+  {
+    "codigo": "FIS-053",
+    "veredicto": "corrigida",
+    "resumo": "A isenção do art. 7.º, n.º 1, al. g), CIS estava descrita com requisitos que a lei não tem (domínio de 75% nos termos do art. 69.º CIRC, relação vigente há um ano, financiadora obrigatoriamente dominante): abrange empréstimos por prazo não superior a um ano, exclusivamente para carência de tesouraria, de SCR a participadas, de sociedades a dominadas ou a participadas em pelo menos 10% (ou com valor de aquisição não inferior a 5 M€) e a favor de sociedade em relação de domínio ou de grupo, com as restrições dos n.ºs 2 e 3; o ano de detenção é requisito dos suprimentos (al. i)), e o cash pooling tem a al. h). Corrigi a taxa da verba 17.1.1 (0,04% por mês ou fração, não por trimestre), a verba 17.3 (juros e comissões de instituições financeiras, não «abertura de crédito»; as garantias estão na verba 10) e o sujeito passivo (a entidade concedente; o sujeito ativo é o Estado e o encargo é do utilizador do crédito).",
+    "substituicoes": [
+      {
+        "de": "- Relação societária: domínio direto/indireto ≥ 75% ou relação de grupo (art. 69.º CIRC)\n- Montante e prazo da operação",
+        "para": "- Relação societária: sociedade de capital de risco e participada; sociedade dominante e dominada; participação de pelo menos 10% do capital com direito de voto ou com valor de aquisição não inferior a 5 000 000 €; ou relação de domínio ou de grupo entre mutuante e mutuária (art. 7.º, n.º 1, al. g), CIS); nos suprimentos, participação direta de pelo menos 10% detida há um ano (al. i)); na gestão centralizada de tesouraria, relação de domínio ou de grupo (al. h))\n- Montante, prazo (não superior a um ano, nas als. g) e h)) e finalidade da operação (exclusivamente cobertura de carência de tesouraria, na al. g))",
+        "motivo": "A isenção não exige 75% nem remete para o art. 69.º CIRC; prazo e finalidade são requisitos",
+        "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/selo/Pages/selo7.aspx"
+      },
+      {
+        "de": "- Verba 17.1 TGIS: IS sobre empréstimos (taxa variável consoante prazo: 0,04%/trimestre até 1 ano; 0,5% > 1 ano; 0,6% > 5 anos) — e verba 17.3 (abertura de crédito)\n- Art. 7.º, al. g), CIS: isenção para operações de financiamento realizadas por sociedade dominante ou que se encontre em relação de domínio ou grupo, nos termos do art. 69.º do CIRC\n- Requisitos da isenção: (i) relação de domínio ou grupo ≥ 75%; (ii) vigente há pelo menos 1 ano antes da operação; (iii) a entidade financiadora deve ser a dominante (não a dominada)\n- Risco: AT contesta frequentemente o requisito do prazo de 1 ano ou a direção do financiamento\n- Sujeito ativo do IS: entidade financiadora (art. 2.º CIS)",
+        "para": "- Verba 17.1 TGIS: IS sobre a utilização de crédito, em função do prazo: inferior a um ano — 0,04% por cada mês ou fração (17.1.1); igual ou superior a um ano — 0,5% (17.1.2); igual ou superior a cinco anos — 0,6% (17.1.3); conta corrente ou prazo não determinado nem determinável — 0,04% sobre a média mensal dos saldos em dívida (17.1.4); a prorrogação do prazo conta como nova concessão de crédito; a verba 17.3 tributa os juros e as comissões das operações realizadas por ou com intermediação de instituições de crédito ou financeiras (4%; comissões por garantias, 3%) e as garantias estão na verba 10\n- Art. 7.º, n.º 1, al. g), CIS: isenção dos empréstimos, incluindo juros, por prazo não superior a um ano, exclusivamente destinados à cobertura de carência de tesouraria, efetuados por SCR a favor de participadas, por sociedades a favor de sociedades por elas dominadas ou em que detenham pelo menos 10% do capital com direito de voto (ou participação com valor de aquisição não inferior a 5 000 000 €) e a favor de sociedade com a qual se encontrem em relação de domínio ou de grupo; al. h): empréstimos até um ano no âmbito de contrato de gestão centralizada de tesouraria (cash pooling) entre sociedades em relação de domínio ou de grupo; al. i): suprimentos de sócios com participação direta não inferior a 10% detida há um ano consecutivo (ou desde a constituição)\n- Requisitos da isenção da al. g): (i) prazo do empréstimo não superior a um ano; (ii) finalidade exclusiva de cobertura de carência de tesouraria; (iii) relação societária qualificada; (iv) intervenientes com sede ou direção efetiva em Portugal ou, quanto ao credor ou ao devedor, noutro Estado-Membro da UE ou em Estado com convenção para evitar a dupla tributação, com a ressalva final do art. 7.º, n.º 2, CIS; (v) nenhum interveniente domiciliado em território de regime fiscal privilegiado (n.º 3); a lei não exige participação de 75% nem que a relação dure há um ano (o ano de detenção é requisito dos suprimentos da al. i))\n- Risco: a AT contesta frequentemente o prazo da operação (as prorrogações contam como nova concessão de crédito) e a finalidade de tesouraria\n- Sujeito passivo do IS: a entidade concedente do crédito (art. 2.º, n.º 1, al. b), CIS), que o liquida (art. 23.º, n.º 1, CIS); o encargo é do utilizador do crédito (art. 3.º, n.º 3, al. f), CIS); o sujeito ativo é o Estado",
+        "motivo": "Taxa da verba 17.1.1 por mês e não por trimestre; verba 17.3 mal descrita; requisitos da isenção inexistentes; sujeito passivo e não sujeito ativo",
+        "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/selo/Pages/ccod-selo-tabgiselo.aspx"
+      },
+      {
+        "de": "- Meio: reclamação graciosa (120 dias) ou direito de audição",
+        "para": "- Meio: reclamação graciosa da liquidação adicional (120 dias, art. 70.º, n.º 1, CPPT) ou direito de audição; se o imposto foi liquidado pela própria financiadora (art. 23.º, n.º 1, CIS) [■ VERIFICAR: meio e prazo próprios da autoliquidação — art. 131.º CPPT]",
+        "motivo": "O IS sobre o crédito é liquidado pelo sujeito passivo; o meio depende de quem liquidou",
+        "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/selo/Pages/selo23.aspx"
+      },
+      {
+        "de": "2.1 Relação de domínio ou grupo:\n[Demonstração: percentagem de detenção ≥ 75%, data de aquisição, cadeia de participações]\n\n2.2 Vigência há pelo menos 1 ano:\n[Data de aquisição da participação qualificante vs. data da operação]\n\n2.3 Sentido do financiamento (dominante → dominada):\n[Identificação da entidade financiadora como dominante ou do sentido da operação]",
+        "para": "2.1 Relação societária qualificada:\n[Demonstração: domínio, participação de pelo menos 10% do capital com direito de voto ou valor de aquisição não inferior a 5 000 000 €, ou relação de domínio ou de grupo entre mutuante e mutuária; cadeia de participações]\n\n2.2 Prazo e finalidade da operação:\n[Prazo não superior a um ano, sem prorrogação; destino exclusivo à cobertura de carência de tesouraria]\n\n2.3 Sede ou direção efetiva dos intervenientes:\n[Portugal, outro Estado-Membro da UE ou Estado com convenção para evitar a dupla tributação; nenhum em território de regime fiscal privilegiado (art. 7.º, n.ºs 2 e 3, CIS)]",
+        "motivo": "Estrutura da defesa alinhada com os requisitos reais da al. g)",
+        "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/selo/Pages/selo7.aspx"
+      },
+      {
+        "de": "- [ ] Percentagem de participação ≥ 75% documentada\n- [ ] Data de aquisição: relação de domínio há pelo menos 1 ano antes da operação\n- [ ] Sentido do financiamento compatível com a isenção",
+        "para": "- [ ] Relação societária qualificada documentada (art. 7.º, n.º 1, al. g), CIS)\n- [ ] Prazo da operação não superior a um ano e finalidade de tesouraria demonstrados\n- [ ] Nos suprimentos (al. i)): participação direta de pelo menos 10% detida há um ano consecutivo\n- [ ] Sede ou direção efetiva dos intervenientes verificada (art. 7.º, n.ºs 2 e 3, CIS)",
+        "motivo": "Requisitos reais da isenção",
+        "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/selo/Pages/selo7.aspx"
+      },
+      {
+        "de": "- Montante e prazo: €[___] por [prazo]",
+        "para": "- Montante, prazo e eventuais prorrogações: €[___] por [prazo]\n- Finalidade do financiamento (carência de tesouraria?): [___]\n- Sede ou direção efetiva das partes: [___]",
+        "motivo": "Dados necessários aos requisitos da isenção",
+        "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/selo/Pages/selo7.aspx"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Confirmar o conceito de «relação de domínio ou de grupo» aplicável (o CIS não o define) e a posição da AT nas operações entre sociedades irmãs.",
+      "Nas contas correntes e no cash pooling, confirmar se o prazo é determinável e se a operação cabe na al. h) ou na verba 17.1.4.",
+      "Confirmar a ressalva final do art. 7.º, n.º 2, CIS quando o credor se financiou junto de instituições de crédito no estrangeiro."
+    ],
+    "fontes": [
+      "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/selo/Pages/selo2.aspx",
+      "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/selo/Pages/selo3.aspx",
+      "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/selo/Pages/selo7.aspx",
+      "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/selo/Pages/selo23.aspx",
+      "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/selo/Pages/ccod-selo-tabgiselo.aspx"
+    ]
+  },
+  {
+    "codigo": "FIS-056",
+    "veredicto": "corrigida",
+    "resumo": "A ficha apresentava como alternativa vigente o regime especial das SGPS do art. 32.º EBF («SGPS registadas antes de 2003», encargos financeiros não dedutíveis), que foi revogado pela Lei n.º 83-C/2013: desde 2014 as SGPS estão no regime geral dos arts. 51.º e 51.º-C CIRC. Corrigi os requisitos do art. 51.º (não exige residência na UE nem CDT, mas sujeição a imposto com taxa legal não inferior a 60% da taxa do IRC e não residência em paraíso fiscal), a exclusão imobiliária do art. 51.º-C, n.º 4 (imóveis situados em Portugal com mais de 50% do ativo, com exceções), o falso «limite» do n.º 2 do art. 51.º-C (que estende o regime às prestações suplementares) e a dedutibilidade dos gastos de financiamento (só o art. 67.º CIRC).",
+    "substituicoes": [
+      {
+        "de": "— Cita artigos concretos do CIRC (arts. 51.º, 51.º-C, 23.º, 67.º) e do EBF (art. 32.º).\n— Distingue o regime geral de participation exemption (art. 51.º/51.º-C CIRC) do regime especial das SGPS (art. 32.º EBF — SGPS registadas antes de 2003).",
+        "para": "— Cita artigos concretos do CIRC (arts. 51.º, 51.º-C, 23.º, 67.º).\n— O regime especial das SGPS do art. 32.º EBF foi revogado pela Lei n.º 83-C/2013 (Orçamento do Estado para 2014): as SGPS estão hoje sujeitas ao regime geral de participation exemption (arts. 51.º e 51.º-C CIRC); o art. 32.º EBF só releva para factos anteriores [■ VERIFICAR: disposições transitórias da Lei n.º 83-C/2013].",
+        "motivo": "O art. 32.º EBF está revogado e não há regime para «SGPS registadas antes de 2003»",
+        "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/bf_rep/Pages/ebf-artigo-32-ordm-.aspx"
+      },
+      {
+        "de": "- Regime aplicável: participation exemption geral (art. 51.º/51.º-C CIRC) ou regime especial SGPS (art. 32.º EBF)",
+        "para": "- Regime aplicável: participation exemption (arts. 51.º e 51.º-C CIRC), o único em vigor para as SGPS desde 2014; o art. 32.º EBF (revogado) só para factos anteriores",
+        "motivo": "Regime especial das SGPS revogado",
+        "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/bf_rep/Pages/ebf-artigo-32-ordm-.aspx"
+      },
+      {
+        "de": "- Art. 51.º CIRC: isenção de dividendos — requisitos: participação ≥ 10%, detida há pelo menos 1 ano, participada residente em Portugal ou EM com CDT, não sujeita a regime de tributação privilegiada\n- Art. 51.º-C CIRC: isenção de mais-valias — mesmo regime que dividendos + mais-valia não pode resultar de bens imóveis em mais de 50%\n- Limite: anos de tributação de menos-valias correspondentes — art. 51.º-C, n.º 2, CIRC\n- Art. 32.º EBF (SGPS especial — regime histórico para SGPS registadas antes de 2003): encargos financeiros não dedutíveis; mais-valias e menos-valias não relevam\n- Encargos financeiros da SGPS: art. 67.º CIRC (limitação de encargos de financiamento) + eventual não dedutibilidade pelo art. 32.º EBF",
+        "para": "- Art. 51.º CIRC: lucros e reservas distribuídos não concorrem para o lucro tributável — requisitos cumulativos (n.º 1): participação direta, ou direta e indireta, não inferior a 10% do capital social ou dos direitos de voto; detida ininterruptamente durante o ano anterior à distribuição (ou mantida até completar esse período); sujeito passivo não abrangido pela transparência fiscal; participada sujeita e não isenta de IRC, de imposto do art. 2.º da Diretiva 2011/96/UE ou de imposto idêntico ou similar com taxa legal não inferior a 60% da taxa do IRC (requisito dispensável nos termos do n.º 2); participada sem residência em território com regime fiscal claramente mais favorável; não se exige CDT; exclusões do n.º 10 e cláusula antiabuso dos n.ºs 13 e 14\n- Art. 51.º-C CIRC: as mais-valias e menos-valias de partes sociais detidas ininterruptamente há pelo menos um ano não concorrem para o lucro tributável, cumpridos os requisitos das als. a), c) e e) e da al. d) do n.º 1 (ou do n.º 2) do art. 51.º, qualquer que seja a percentagem transmitida (n.º 1); o regime não se aplica quando os imóveis situados em Portugal (salvo os afetos a atividade agrícola, industrial ou comercial que não consista na compra e venda de imóveis) representem, direta ou indiretamente, mais de 50% do ativo (n.º 4)\n- Menos-valias e outros instrumentos: as menos-valias também ficam fora do lucro tributável (art. 51.º-C, n.º 1, CIRC); o regime abrange as prestações suplementares (n.º 2); as perdas por imparidade de partes sociais que tenham concorrido para o lucro tributável são acrescidas no período da transmissão (n.º 6)\n- Art. 32.º EBF: revogado pela Lei n.º 83-C/2013; deixou de haver regime especial das SGPS\n- Encargos financeiros da SGPS: art. 67.º CIRC — gastos de financiamento líquidos dedutíveis até ao maior de 1 000 000 € ou 30% do resultado antes de depreciações, amortizações, gastos de financiamento líquidos e impostos, com reporte por cinco períodos",
+        "motivo": "Requisitos do art. 51.º mal descritos (não exige CDT); exclusão imobiliária e n.º 2 do art. 51.º-C errados; art. 32.º EBF revogado",
+        "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/CIRC_2R/Pages/irc51.aspx"
+      },
+      {
+        "de": "2.3 Participada residente em: [Portugal / EM com CDT] ✓\n2.4 Participada não sujeita a regime de tributação privilegiada: [demonstração] ✓\n2.5 Ativos imobiliários da participada: [___]% < 50% ✓ (para mais-valias)",
+        "para": "2.3 Participada sujeita e não isenta de IRC ou de imposto idêntico ou similar com taxa legal não inferior a 60% da taxa do IRC: [país, imposto e taxa] ✓\n2.4 Participada sem residência em território com regime fiscal claramente mais favorável (lista da portaria): [demonstração] ✓\n2.5 Imóveis situados em Portugal no ativo da participada (excluídos os afetos a atividade agrícola, industrial ou comercial que não seja a compra e venda de imóveis): [___]% ≤ 50% ✓ (para mais-valias — art. 51.º-C, n.º 4, CIRC)",
+        "motivo": "Requisitos reais dos arts. 51.º, n.º 1, als. d) e e), e 51.º-C, n.º 4, CIRC",
+        "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/CIRC_2R/Pages/irc51c.aspx"
+      },
+      {
+        "de": "- [ ] Residência fiscal da participada verificada\n- [ ] Regime de tributação da participada analisado (não privilegiado)\n- [ ] Para mais-valias: composição do ativo da participada verificada (imóveis ≤ 50%)",
+        "para": "- [ ] Residência fiscal da participada verificada (fora da lista de territórios com regime fiscal claramente mais favorável)\n- [ ] Sujeição da participada a imposto com taxa legal não inferior a 60% da taxa do IRC verificada (art. 51.º, n.º 1, al. d), CIRC)\n- [ ] Para mais-valias: imóveis situados em Portugal no ativo da participada verificados (art. 51.º-C, n.º 4, CIRC)\n- [ ] Cláusula antiabuso (art. 51.º, n.ºs 13 e 14, CIRC) ponderada",
+        "motivo": "Verificações alinhadas com os requisitos legais",
+        "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/CIRC_2R/Pages/irc51.aspx"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Se a correção respeitar a períodos anteriores a 2014 ou a mais-valias de participações adquiridas antes, confirmar as disposições transitórias da Lei n.º 83-C/2013 e da Lei n.º 2/2014.",
+      "Confirmar a taxa do IRC do período para aferir o limiar de 60% (art. 51.º, n.º 1, al. d), CIRC) e a eventual dispensa do n.º 2.",
+      "Nas participações adquiridas antes de 2016, confirmar a contagem do período de detenção desde a aquisição dos 10% (Lei n.º 7-A/2016)."
+    ],
+    "fontes": [
+      "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/bf_rep/Pages/ebf-artigo-32-ordm-.aspx",
+      "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/CIRC_2R/Pages/irc51.aspx",
+      "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/CIRC_2R/Pages/irc51c.aspx",
+      "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/CIRC_2R/Pages/irc67.aspx"
+    ]
+  }
+]

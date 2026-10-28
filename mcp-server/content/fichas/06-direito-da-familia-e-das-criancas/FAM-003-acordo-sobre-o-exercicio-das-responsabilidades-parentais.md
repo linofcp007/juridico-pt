@@ -3,27 +3,29 @@ codigo: FAM-003
 area: "Direito da Família e das Crianças"
 titulo: "Acordo sobre o Exercício das Responsabilidades Parentais"
 titulo_en: "Agreement on the Exercise of Parental Responsibilities"
-descricao: "Gera o acordo completo sobre o exercício das responsabilidades parentais para homologação judicial ou aprovação pelo Ministério Público, incluindo cláusulas sobre residência habitual, regime de convivência, alimentos, saúde, educação e passaporte, nos termos do RGPTC e do Código Civil português."
-descricao_en: "Generates the complete agreement on the exercise of parental responsibilities for court approval (homologação) or approval by the Public Prosecutor's Office (Ministério Público), including clauses on habitual residence, contact arrangements, maintenance, health, education and passport, under the RGPTC (General Regime of Civil Guardianship Proceedings) and the Portuguese Civil Code."
+descricao: "Gera o acordo completo sobre o exercício das responsabilidades parentais para homologação pelo juiz ou pelo conservador do registo civil (com parecer do Ministério Público), incluindo cláusulas sobre residência habitual, regime de convivência, alimentos, saúde, educação e passaporte, nos termos do RGPTC e do Código Civil português."
+descricao_en: "Generates the complete agreement on the exercise of parental responsibilities for approval (homologação) by the court or by the civil registrar (conservador do registo civil), with the opinion of the Public Prosecutor's Office (Ministério Público), including clauses on habitual residence, contact arrangements, maintenance, health, education and passport, under the RGPTC (General Regime of Civil Guardianship Proceedings) and the Portuguese Civil Code."
 ambito: nacional
-estado_citacoes: "conferidas 0 · corrigidas 0 · por conferir 4"
+estado_citacoes: "conferidas 1 · corrigidas 0 · por conferir 6"
+revisao_tecnica: "2026-10-28 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
 # Acordo sobre o Exercício das Responsabilidades Parentais
 
 > **Âmbito:** nacional · **Área:** Direito da Família e das Crianças · **Código:** FAM-003
-> **EN:** Agreement on the Exercise of Parental Responsibilities. Generates the complete agreement on the exercise of parental responsibilities for court approval (homologação) or approval by the Public Prosecutor's Office (Ministério Público), including clauses on habitual residence, contact arrangements, maintenance, health, education and passport, under the RGPTC (General Regime of Civil Guardianship Proceedings) and the Portuguese Civil Code.
-> **Citações:** conferidas 0 · corrigidas 0 · por conferir 4. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **EN:** Agreement on the Exercise of Parental Responsibilities. Generates the complete agreement on the exercise of parental responsibilities for approval (homologação) by the court or by the civil registrar (conservador do registo civil), with the opinion of the Public Prosecutor's Office (Ministério Público), including clauses on habitual residence, contact arrangements, maintenance, health, education and passport, under the RGPTC (General Regime of Civil Guardianship Proceedings) and the Portuguese Civil Code.
+> **Citações:** conferidas 1 · corrigidas 0 · por conferir 6. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-28 — corrigida (5 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
-Gera o acordo completo sobre o exercício das responsabilidades parentais para homologação judicial ou aprovação pelo Ministério Público, incluindo cláusulas sobre residência habitual, regime de convivência, alimentos, saúde, educação e passaporte, nos termos do RGPTC e do Código Civil português.
+Gera o acordo completo sobre o exercício das responsabilidades parentais para homologação pelo juiz ou pelo conservador do registo civil (com parecer do Ministério Público), incluindo cláusulas sobre residência habitual, regime de convivência, alimentos, saúde, educação e passaporte, nos termos do RGPTC e do Código Civil português.
 
 ## Método
 
 Ficha de trabalho para preparar este documento. As regras da casa prevalecem sobre a ficha: registo de advogado, nunca afirmar inscrição na Ordem dos Advogados, citar só normas conferidas ou com `[■ VERIFICAR]`, e seguir o fluxo de `assets/redacao/redator.md`.
 
 ## Função
-Redigir acordo sobre o exercício das responsabilidades parentais, nos termos do art. 1.906.º do Código Civil e do Regime Geral do Processo Tutelar Cível (Lei n.º 141/2015, de 8 de Setembro), para homologação pelo Ministério Público ou tribunal.
+Redigir acordo sobre o exercício das responsabilidades parentais, nos termos do art. 1.906.º do Código Civil e do Regime Geral do Processo Tutelar Cível (Lei n.º 141/2015, de 8 de setembro), para homologação pelo juiz ou pelo conservador do registo civil. O Ministério Público não homologa: emite parecer sobre o acordo (no divórcio por mútuo consentimento na conservatória — art. 1.776.º-A CC; na regulação por mútuo acordo na conservatória — arts. 274.º-A a 274.º-C do Código do Registo Civil) e, se o considerar desadequado e os progenitores o mantiverem, o processo é remetido ao tribunal.
 
 ## Regras obrigatórias
 — NUNCA inventes acórdãos ou números de processo.
@@ -51,11 +53,13 @@ Apresenta dentro de um bloco <analise_do_caso>:
 ### ETAPA 2 — ANÁLISE JURÍDICA (Fundamentação)
 Apresenta dentro de um bloco <fundamentos_juridicos>:
 - Art. 1.906.º CC (exercício conjunto das responsabilidades parentais de especial importância)
-- Art. 1.906.º, n.os 2 e 3 CC (exercício unilateral dos atos correntes)
+- Art. 1.906.º, n.º 3, CC (atos da vida corrente: cabem ao progenitor com quem o filho reside habitualmente ou com quem se encontra temporariamente, sem contrariar as orientações educativas mais relevantes definidas pelo progenitor com quem reside habitualmente) e n.º 2 (exercício das questões de particular importância por um só progenitor, apenas por decisão judicial fundamentada, quando o exercício em comum for contrário aos interesses do filho)
+- Art. 1.906.º, n.º 6, CC (residência alternada, quando corresponda ao superior interesse da criança)
 - Art. 1.878.º CC (conteúdo das responsabilidades parentais)
-- Arts. 2.003.º a 2.009.º CC (obrigação de alimentos) + Portaria n.º 278/2013
+- Arts. 2.003.º a 2.009.º CC (obrigação de alimentos; medida: meios de quem presta e necessidade do filho — art. 2.004.º) e art. 1.905.º CC (alimentos ao filho regulados por acordo dos pais, sujeito a homologação, recusada se o acordo não corresponder ao interesse do menor; manutenção da pensão até aos 25 anos — n.º 2). Não há tabela legal de alimentos: a Portaria n.º 278/2013 regula o processo de inventário
 - Lei n.º 141/2015 (RGPTC) — arts. 34.º ss. (processo de regulação)
-- Art. 4.º RGPTC (princípio do superior interesse da criança)
+- Art. 4.º, n.º 1, RGPTC (remete para os princípios orientadores da Lei de Proteção de Crianças e Jovens em Perigo, entre os quais o interesse superior da criança — art. 4.º, al. a), da Lei n.º 147/99 —, e acrescenta a simplificação instrutória, a consensualização e a audição e participação da criança) e art. 1.906.º, n.º 8, CC (o tribunal decide sempre de harmonia com o interesse da criança)
+- Audição da criança: arts. 4.º, n.º 1, al. c), e 5.º RGPTC e art. 1.906.º, n.º 9, CC
 - Convenção sobre os Direitos da Criança (art. 3.º) — se relevante
 - [■ VERIFICAR: jurisprudência do Tribunal da Relação relevante sobre o caso concreto]
 
@@ -91,7 +95,7 @@ Redige o acordo com a seguinte estrutura:
 
 **CLÁUSULA 4.ª — Pensão de Alimentos**
 - Valor mensal (€), forma de pagamento (transferência/débito), dia do mês
-- Indexação anual (referência ao IPC ou à Portaria n.º 278/2013)
+- Atualização anual acordada (p. ex., pela variação do índice de preços no consumidor publicada pelo INE); não há índice legal de atualização de alimentos e a Portaria n.º 278/2013 (processo de inventário) não serve de referência
 - Obrigações adicionais (despesas extraordinárias: saúde, escola, desporto)
 - Partilha de despesas extraordinárias (percentagem de cada progenitor)
 
@@ -169,7 +173,10 @@ Apresenta dentro de um bloco <checklist_validacao>:
 
 | Citação | Estado | Nota |
 |---|---|---|
+| arts. 274.º-A | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 4.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 4.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | arts. 34.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | Art. 4.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| arts. 4.º, n.º 1, al. c), e 5.º RGPTC e art. 1.906.º, n.º 9, CC | conferida (epígrafe) — Valor da equidade |  |
 | art. 3.º | por conferir [■ VERIFICAR] | diploma não identificado |

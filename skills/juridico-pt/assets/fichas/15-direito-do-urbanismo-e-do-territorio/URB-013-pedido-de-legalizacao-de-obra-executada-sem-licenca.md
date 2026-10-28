@@ -3,20 +3,22 @@ codigo: URB-013
 area: "Direito do Urbanismo e do Território"
 titulo: "Pedido de Legalização de Obra Executada sem Licença"
 titulo_en: "Application to Regularise Works Carried Out without a Licence"
-descricao: "Gera o requerimento de legalização de obra executada sem licença ou em desconformidade com a licença existente, ao abrigo do art. 102.º, n.º 4, e seguintes do RJUE, pedindo à câmara municipal que aprecie a possibilidade de regularização mediante concessão de licença ou aceitação de comunicação prévia com os elementos atuais da obra."
-descricao_en: "Generates the application for regularisation (legalização) of works carried out without a licence or not in conformity with the existing licence, under Article 102(4) et seq. of the RJUE, asking the municipal council to consider the possibility of regularisation by granting a licence or accepting a prior notification based on the works as they currently stand."
+descricao: "Gera o requerimento de legalização de obra executada sem licença ou em desconformidade com a licença existente, ao abrigo do art. 102.º-A do RJUE, pedindo à câmara municipal que aprecie a possibilidade de regularização mediante concessão de licença ou aceitação de comunicação prévia com os elementos atuais da obra."
+descricao_en: "Generates the application for regularisation (legalização) of works carried out without a licence or not in conformity with the existing licence, under Article 102-A of the RJUE, asking the municipal council to consider the possibility of regularisation by granting a licence or accepting a prior notification based on the works as they currently stand."
 ambito: nacional
-estado_citacoes: "conferidas 2 · corrigidas 3 · por conferir 3"
+estado_citacoes: "conferidas 16 · corrigidas 0 · por conferir 0"
+revisao_tecnica: "2026-10-28 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
 # Pedido de Legalização de Obra Executada sem Licença
 
 > **Âmbito:** nacional · **Área:** Direito do Urbanismo e do Território · **Código:** URB-013
-> **EN:** Application to Regularise Works Carried Out without a Licence. Generates the application for regularisation (legalização) of works carried out without a licence or not in conformity with the existing licence, under Article 102(4) et seq. of the RJUE, asking the municipal council to consider the possibility of regularisation by granting a licence or accepting a prior notification based on the works as they currently stand.
-> **Citações:** conferidas 2 · corrigidas 3 · por conferir 3. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **EN:** Application to Regularise Works Carried Out without a Licence. Generates the application for regularisation (legalização) of works carried out without a licence or not in conformity with the existing licence, under Article 102-A of the RJUE, asking the municipal council to consider the possibility of regularisation by granting a licence or accepting a prior notification based on the works as they currently stand.
+> **Citações:** conferidas 16 · corrigidas 0 · por conferir 0. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-28 — corrigida (9 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
-Gera o requerimento de legalização de obra executada sem licença ou em desconformidade com a licença existente, ao abrigo do art. 102.º, n.º 4, e seguintes do RJUE, pedindo à câmara municipal que aprecie a possibilidade de regularização mediante concessão de licença ou aceitação de comunicação prévia com os elementos atuais da obra.
+Gera o requerimento de legalização de obra executada sem licença ou em desconformidade com a licença existente, ao abrigo do art. 102.º-A do RJUE, pedindo à câmara municipal que aprecie a possibilidade de regularização mediante concessão de licença ou aceitação de comunicação prévia com os elementos atuais da obra.
 
 ## Método
 
@@ -26,7 +28,7 @@ Ficha de trabalho para preparar este documento. As regras da casa prevalecem sob
 — NUNCA inventes parâmetros do PDM ou legislação inexistente.
 — Se faltarem dados, assinala [■ VERIFICAR].
 — Usa linguagem administrativa formal em português europeu (pt-PT).
-— Analisa sempre a conformidade da obra com o PDM atual (não com o PDM em vigor à data de construção, se diferente).
+— Analisa sempre a conformidade da obra com as normas legais e regulamentares em vigor à data da legalização, incluindo o PDM atual, e não com as vigentes à data de construção (art. 102.º-A, n.º 1, RJUE). Só as normas técnicas de construção cujo cumprimento se tenha tornado impossível ou não seja razoável exigir podem ser dispensadas, se o requerente provar que cumpriu as vigentes à data da obra (art. 102.º-A, n.º 5, RJUE).
 
 ---
 
@@ -44,9 +46,9 @@ Apresenta dentro de um bloco <analise_do_caso>:
 
 ### ETAPA 2 — ANÁLISE JURÍDICA (Fundamentação)
 Apresenta dentro de um bloco <fundamentos_juridicos>:
-- Art. 102.º-A, n.º 4, RJUE — dever da câmara de verificar a legalizabilidade antes de ordenar a demolição
-- Art. 102.º-A RJUE — legalização de obras
-- Art. 107.º RJUE [■ VERIFICAR: o art. 107.º RJUE trata da posse administrativa; o fim do embargo após decisão definitiva está no art. 104.º; confirmar] — levantamento do embargo após legalização
+- Art. 102.º-A RJUE — legalização: a câmara notifica os interessados para legalizar quando seja possível assegurar a conformidade da obra com as normas legais e regulamentares em vigor (n.º 1); dispensa de elementos instrutórios quando não haja obras de ampliação ou de alteração a realizar (n.º 4); regulamento municipal de legalização (n.º 7)
+- Art. 106.º, n.º 2, RJUE — a demolição pode ser evitada se a obra for suscetível de licença ou de comunicação prévia
+- Art. 104.º RJUE — o embargo caduca com a decisão que defina a situação jurídica da obra com caráter definitivo ou no termo do prazo fixado (sem prazo fixado, seis meses, prorrogáveis uma vez); o pedido de legalização não levanta o embargo
 - Disposições do PDM atual aplicáveis [■ VERIFICAR: classe de espaço, parâmetros]
 - Art. 7.º CPA (proporcionalidade) — argumento subsidiário contra demolição
 
@@ -54,7 +56,7 @@ Apresenta dentro de um bloco <fundamentos_juridicos>:
 Define em <estrategia>:
 - Demonstração de conformidade com o PDM atual
 - Pedido de legalização por licença ou comunicação prévia
-- Pedido de suspensão de processo de contraordenação/embargo durante apreciação do pedido
+- Pedido de que não se ordene a demolição enquanto se aprecia a legalização (art. 106.º, n.º 2, RJUE) e, se for o caso, de suspensão do processo de contraordenação (pedido sem efeito automático: o RJUE não prevê essa suspensão)
 - Compromisso de adaptações (se necessárias) para conformidade com o projeto
 
 ### ETAPA 4 — EXPOSIÇÃO ESTRUTURADA (O Requerimento)
@@ -62,7 +64,7 @@ Redige o requerimento completo:
 
 **EXMO. SENHOR PRESIDENTE DA CÂMARA MUNICIPAL DE [MUNICÍPIO]**
 
-[NOME / FIRMA], NIF/NIPC n.º [número], proprietário do prédio sito em [morada, artigo matricial], vem, ao abrigo do disposto nos artigos 102.º, n.º 4, e 106.º do Regime Jurídico da Urbanização e Edificação (RJUE) [■ VERIFICAR: o artigo certo é o 102.º-A RJUE; confirmar a citação], requerer a V.ª Ex.ª a LEGALIZAÇÃO DA OBRA adiante descrita, com os seguintes fundamentos:
+[NOME / FIRMA], NIF/NIPC n.º [número], proprietário do prédio sito em [morada, artigo matricial], vem, ao abrigo do disposto no art. 102.º-A do RJUE (Regime Jurídico da Urbanização e Edificação), requerer a V.ª Ex.ª a LEGALIZAÇÃO DA OBRA adiante descrita, com os seguintes fundamentos:
 
 **I. IDENTIFICAÇÃO DO REQUERENTE E DO PRÉDIO**
 [Dados completos do requerente e do prédio]
@@ -82,7 +84,7 @@ A obra descrita está em conformidade com:
 Junta-se declaração de conformidade assinada pelo técnico responsável [■ VERIFICAR: quem assina].
 
 **IV. PROCESSO PENDENTE** (se aplicável)
-Encontra-se pendente o processo de contraordenação n.º [número] / auto de embargo de [data]. Requer-se que o presente pedido de legalização seja apreciado com prioridade e que, durante a sua apreciação, seja suspensa a instrução do processo de contraordenação / levantado o embargo (art. 107.º RJUE [■ VERIFICAR: o art. 107.º RJUE trata da posse administrativa; o fim do embargo após decisão definitiva está no art. 104.º; confirmar]).
+Encontra-se pendente o processo de contraordenação n.º [número] / auto de embargo de [data]. Requer-se que o presente pedido de legalização seja apreciado com prioridade, que, enquanto estiver pendente, não seja ordenada a demolição, por a obra ser suscetível de legalização (art. 106.º, n.º 2, RJUE), e que seja ponderada a suspensão da instrução do processo de contraordenação. O embargo caduca com a decisão que defina a situação jurídica da obra com caráter definitivo ou no termo do prazo fixado (art. 104.º RJUE).
 
 **V. DOCUMENTOS QUE SE JUNTAM**
 1. Projeto de telas finais assinado pelo técnico [■ VERIFICAR: quem elabora]
@@ -94,8 +96,8 @@ Encontra-se pendente o processo de contraordenação n.º [número] / auto de em
 Requer a V.ª Ex.ª que:
 a) Aprecie o presente pedido de legalização ao abrigo do art. 102.º-A RJUE;
 b) Conceda licença de construção / aceite a comunicação prévia para a obra descrita;
-c) Em caso de deferimento, emita o respetivo alvará de utilização após vistoria;
-d) Suspenda o processo de contraordenação / levante o embargo durante a apreciação [se aplicável].
+c) Em caso de deferimento, informe os termos da subsequente comunicação prévia de utilização, que titula a utilização do edifício sem alvará (arts. 62.º-A e 4.º-A, n.º 4, RJUE) [■ VERIFICAR: se o regulamento municipal de legalização integra a utilização no mesmo procedimento];
+d) Não ordene a demolição enquanto o pedido estiver pendente e pondere a suspensão do processo de contraordenação [se aplicável].
 
 [Localidade], [data]
 O Requerente,
@@ -106,9 +108,9 @@ Apresenta dentro de um bloco <checklist_validacao>:
 - [ ] Conformidade com o PDM atual verificada [■ VERIFICAR parâmetros]
 - [ ] Técnico responsável identificado
 - [ ] Telas finais ou levantamento arquitetónico preparados
-- [ ] Pedido de suspensão do processo de contraordenação/embargo incluído (se aplicável)
+- [ ] Pedido de não demolição durante a apreciação (art. 106.º, n.º 2, RJUE) e, se aplicável, de suspensão do processo de contraordenação incluído
 - [ ] Documentos instrutórios listados
-- [ ] Pedido claro: legalização + alvará de utilização
+- [ ] Pedido claro: legalização (art. 102.º-A RJUE) e, depois, comunicação prévia de utilização (art. 62.º-A RJUE)
 - [ ] Pontos que exigem atenção especial: [liste]
 
 ---
@@ -160,11 +162,19 @@ Requerimento de legalização de obra completo, com descrição da obra, demonst
 
 | Citação | Estado | Nota |
 |---|---|---|
+| art. 102.º-A, n.º 1, RJUE | conferida (epígrafe) — Legalização |  |
+| art. 102.º-A, n.º 5, RJUE | conferida (epígrafe) — Legalização |  |
 | art. 4.º RJUE | conferida (epígrafe) — Licença, comunicação prévia e comunicação prévia com prazo |  |
-| Art. 102.º-A, n.º 4, RJUE | corrigida — Legalização | o número citado no catálogo não correspondia à epígrafe |
-| Art. 102.º-A RJUE | corrigida — Legalização | o número citado no catálogo não correspondia à epígrafe |
-| Art. 107.º RJUE | por conferir [■ VERIFICAR] | o art. 107.º RJUE trata da posse administrativa; o fim do embargo após decisão definitiva está no art. 104.º; confirmar |
-| art. 107.º RJUE | por conferir [■ VERIFICAR] | o art. 107.º RJUE trata da posse administrativa; o fim do embargo após decisão definitiva está no art. 104.º; confirmar |
+| Art. 102.º-A RJUE | conferida (epígrafe) — Legalização |  |
+| Art. 106.º, n.º 2, RJUE | conferida (epígrafe) — Demolição da obra e reposição do terreno |  |
+| Art. 104.º RJUE | conferida (epígrafe) — Caducidade do embargo |  |
 | Art. 7.º CPA | conferida (epígrafe) — Princípio da proporcionalidade |  |
-| artigos 102.º, n.º 4, e 106.º do Regime Jurídico da Urbanização e Edificação | por conferir [■ VERIFICAR] | o artigo certo é o 102.º-A RJUE; confirmar a citação |
-| art. 102.º-A RJUE | corrigida — Legalização | o número citado no catálogo não correspondia à epígrafe |
+| art. 106.º, n.º 2, RJUE | conferida (epígrafe) — Demolição da obra e reposição do terreno |  |
+| art. 106.º, n.º 2, RJUE | conferida (epígrafe) — Demolição da obra e reposição do terreno |  |
+| art. 106.º, n.º 2, RJUE | conferida (epígrafe) — Demolição da obra e reposição do terreno |  |
+| art. 102.º-A do RJUE | conferida (epígrafe) — Legalização |  |
+| art. 104.º RJUE | conferida (epígrafe) — Caducidade do embargo |  |
+| art. 102.º-A RJUE | conferida (epígrafe) — Legalização |  |
+| art. 102.º-A RJUE | conferida (epígrafe) — Legalização |  |
+| arts. 62.º-A e 4.º-A, n.º 4, RJUE | conferida (epígrafe) — Utilização ou alteração de uso de edifício ou fração sujeita a comunicação prévia |  |
+| art. 62.º-A RJUE | conferida (epígrafe) — Utilização ou alteração de uso de edifício ou fração sujeita a comunicação prévia |  |

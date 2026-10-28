@@ -6,7 +6,8 @@ titulo_en: "Maintenance between Spouses in Proceedings for Judicial Separation o
 descricao: "Elabora o pedido de alimentos entre cônjuges no âmbito de processo de separação judicial de pessoas e bens ou de divórcio sem consentimento, ao abrigo dos arts. 1675.º a 1677.º-D do CC e do art. 2016.º CC (alimentos ao cônjuge divorciado), incluindo a fundamentação da necessidade e os critérios de fixação."
 descricao_en: "Prepares the claim for maintenance between spouses in proceedings for judicial separation of persons and property (separação judicial de pessoas e bens) or divorce without consent, under Arts. 1675 to 1677-D of the CC and Art. 2016 CC (maintenance for the divorced spouse), including the grounds of need and the criteria for setting the amount."
 ambito: nacional
-estado_citacoes: "conferidas 5 · corrigidas 4 · por conferir 3"
+estado_citacoes: "conferidas 14 · corrigidas 3 · por conferir 0"
+revisao_tecnica: "2026-10-28 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
@@ -14,7 +15,8 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 
 > **Âmbito:** nacional · **Área:** Direito da Família e das Crianças · **Código:** FAM-055
 > **EN:** Maintenance between Spouses in Proceedings for Judicial Separation of Persons and Property. Prepares the claim for maintenance between spouses in proceedings for judicial separation of persons and property (separação judicial de pessoas e bens) or divorce without consent, under Arts. 1675 to 1677-D of the CC and Art. 2016 CC (maintenance for the divorced spouse), including the grounds of need and the criteria for setting the amount.
-> **Citações:** conferidas 5 · corrigidas 4 · por conferir 3. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 14 · corrigidas 3 · por conferir 0. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-28 — corrigida (5 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
 Elabora o pedido de alimentos entre cônjuges no âmbito de processo de separação judicial de pessoas e bens ou de divórcio sem consentimento, ao abrigo dos arts. 1675.º a 1677.º-D do CC e do art. 2016.º CC (alimentos ao cônjuge divorciado), incluindo a fundamentação da necessidade e os critérios de fixação.
 
@@ -36,14 +38,15 @@ Dentro de <analise_situacao>:
 - Situação económica do cônjuge obrigado: rendimentos, bens
 - Duração do casamento e razão da situação de necessidade (abandono de carreira, doença)
 - Outros dependentes do cônjuge obrigado
-- Culpa no divórcio: tem implicações no art. 2016.º-A CC [■ VERIFICAR: desde 2008 a culpa deixou de relevar; o art. 2016.º-A CC fixa o montante e a recusa por equidade está no art. 2016.º CC]
+- Culpa: no divórcio deixou de relevar — o direito a alimentos existe independentemente do tipo de divórcio e só pode ser negado por razões manifestas de equidade (art. 2016.º, n.os 2 e 3, CC); durante a separação de facto, a imputabilidade da separação ainda conta para o dever de assistência (art. 1675.º, n.º 3, CC)
 
 ### ETAPA 2 — FUNDAMENTOS JURÍDICOS
 Dentro de <fundamentos_juridicos>:
 - Art. 1675.º CC: dever de assistência durante o casamento
 - Art. 2009.º CC: obrigação de alimentos entre parentes e cônjuges
 - Art. 2016.º CC: alimentos ao cônjuge divorciado — critérios de necessidade e possibilidade
-- Art. 2016.º-A CC [■ VERIFICAR: desde 2008 a culpa deixou de relevar; o art. 2016.º-A CC fixa o montante e a recusa por equidade está no art. 2016.º CC]: limitação ou exclusão por conduta do cônjuge
+- Art. 2016.º-A, n.os 1 a 3, CC: fatores de fixação do montante (duração do casamento, colaboração na economia do casal, idade, saúde, qualificações e possibilidades de emprego, tempo dedicado aos filhos comuns, rendimentos, novo casamento ou união de facto); prevalência dos alimentos devidos a filhos do devedor; sem direito à manutenção do padrão de vida do casamento
+- Art. 2016.º, n.º 3, CC: o direito a alimentos só pode ser negado por razões manifestas de equidade
 - Art. 2019.º CC: cessação dos alimentos — novo casamento, UF, desnecessidade
 - Art. 2006.º CC: momento de início do pagamento
 - Art. 2005.º CC: modalidades de cumprimento (prestação em dinheiro ou espécie)
@@ -52,7 +55,7 @@ Dentro de <fundamentos_juridicos>:
 Dentro de <criterios>:
 - Necessidades do beneficiário: habitação, alimentação, saúde, despesas correntes
 - Possibilidade do obrigado: rendimento líquido após impostos e encargos próprios
-- Padrão de vida durante o casamento (referência do art. 2016.º-A CC)
+- O cônjuge credor não tem direito a manter o padrão de vida do casamento (art. 2016.º-A, n.º 3, CC); atender aos fatores do n.º 1 do mesmo artigo e dar prevalência aos alimentos devidos a filhos do devedor (n.º 2)
 - Perspetivas de reinserção laboral do beneficiário (fator de provisoriedade)
 
 ### ETAPA 4 — PEDIDO DE ALIMENTOS
@@ -70,13 +73,13 @@ III. DOS CRITÉRIOS DE FIXAÇÃO
 [...]
 
 IV. DO MONTANTE PEDIDO
-Requer-se a fixação de alimentos no montante de €[VALOR] mensais, a transferir para o IBAN [■ VERIFICAR] até ao dia 8 de cada mês, a partir da data da sentença.
+Requer-se a fixação de alimentos no montante de €[VALOR] mensais, a transferir para o IBAN [■ VERIFICAR] até ao dia 8 de cada mês, devidos desde a proposição do pedido (art. 2006.º CC), e a fixação de alimentos provisórios enquanto não forem fixados os definitivos (art. 2007.º CC; na ação de divórcio ou de separação sem consentimento, regime provisório do art. 931.º, n.º 9, CPC).
 
 ### ETAPA 5 — CHECKLIST DE VALIDAÇÃO
 - [ ] Necessidade do beneficiário documentada (declaração IRS, extratos bancários)
 - [ ] Capacidade económica do obrigado documentada
 - [ ] Duração do casamento e razão da necessidade alegadas
-- [ ] Conduta do cônjuge (art. 2016.º-A CC [■ VERIFICAR: desde 2008 a culpa deixou de relevar; o art. 2016.º-A CC fixa o montante e a recusa por equidade está no art. 2016.º CC]): algum comportamento que possa limitar os alimentos?
+- [ ] Razões manifestas de equidade que possam levar a negar os alimentos (art. 2016.º, n.º 3, CC) — a culpa no divórcio já não releva
 - [ ] Carácter provisório ou definitivo dos alimentos pedidos
 - [ ] [■ VERIFICAR] itens sinalizados
 
@@ -107,14 +110,19 @@ Requer-se a fixação de alimentos no montante de €[VALOR] mensais, a transfer
 | Citação | Estado | Nota |
 |---|---|---|
 | art. 2016.º CC | conferida (epígrafe) — Divórcio e separação judicial de pessoas e bens |  |
-| art. 2016.º-A CC | por conferir [■ VERIFICAR] | desde 2008 a culpa deixou de relevar; o art. 2016.º-A CC fixa o montante e a recusa por equidade está no art. 2016.º CC |
-| art. 2016.º-A CC | corrigida — Montante dos alimentos | o número citado no catálogo não correspondia à epígrafe |
-| art. 2016.º-A CC | por conferir [■ VERIFICAR] | desde 2008 a culpa deixou de relevar; o art. 2016.º-A CC fixa o montante e a recusa por equidade está no art. 2016.º CC |
+| art. 2016.º, n.os 2 e 3, CC | conferida (epígrafe) — Divórcio e separação judicial de pessoas e bens |  |
+| art. 1675.º, n.º 3, CC | conferida (epígrafe) — Dever de assistência |  |
 | Art. 1675.º CC | conferida (epígrafe) — Dever de assistência |  |
 | Art. 2009.º CC | conferida (epígrafe) — Pessoas obrigadas a alimentos |  |
 | Art. 2016.º CC | conferida (epígrafe) — Divórcio e separação judicial de pessoas e bens |  |
-| Art. 2016.º-A CC | por conferir [■ VERIFICAR] | desde 2008 a culpa deixou de relevar; o art. 2016.º-A CC fixa o montante e a recusa por equidade está no art. 2016.º CC |
+| Art. 2016.º-A, n.os 1 a 3, CC | conferida (epígrafe) — Montante dos alimentos |  |
+| Art. 2016.º, n.º 3, CC | conferida (epígrafe) — Divórcio e separação judicial de pessoas e bens |  |
 | Art. 2019.º CC | corrigida — Cessação da obrigação alimentar | o número citado no catálogo não correspondia à epígrafe |
 | Art. 2006.º CC | corrigida — Desde quando são devidos | o número citado no catálogo não correspondia à epígrafe |
 | Art. 2005.º CC | corrigida — Modo de os prestar | o número citado no catálogo não correspondia à epígrafe |
+| art. 2016.º-A, n.º 3, CC | conferida (epígrafe) — Montante dos alimentos |  |
 | art. 2016.º do Código Civil | conferida (epígrafe) — Divórcio e separação judicial de pessoas e bens |  |
+| art. 2006.º CC | conferida (epígrafe) — Desde quando são devidos |  |
+| art. 2007.º CC | conferida (epígrafe) — Alimentos provisórios |  |
+| art. 931.º, n.º 9, CPC | conferida (epígrafe) — Tentativa de conciliação |  |
+| art. 2016.º, n.º 3, CC | conferida (epígrafe) — Divórcio e separação judicial de pessoas e bens |  |

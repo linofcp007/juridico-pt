@@ -1,0 +1,241 @@
+[
+  {
+    "codigo": "SAU-001",
+    "triagem": "rever",
+    "gravidade": "media",
+    "motivos": [
+      "Apresenta a prescrição de 3 anos (art. 498.º CC) como prazo único, inclusive na checklist, mas a ficha manda fundar o pedido também na responsabilidade contratual (clínica/médico com contrato): nesse caso o prazo é o ordinário de 20 anos (art. 309.º CC); os 3 anos valem só para a extracontratual. A SAU-028 diz 20 anos, o que contradiz esta ficha.",
+      "Pede a condenação dos réus «nas custas e nos honorários de advogado (art. 527.º CPC)»: não existe condenação em honorários de advogado como tal; só custas de parte, que incluem uma compensação limitada (art. 533.º CPC e art. 26.º RCP). Os honorários só podem ser reclamados como dano, com prova e dificuldades jurisprudenciais.",
+      "Juros de mora «desde a citação» sem a ressalva de que, se a indemnização por danos não patrimoniais for calculada a valores atualizados (art. 566.º n.º 2 CC), os juros contam-se só desde a decisão (AUJ 4/2002)."
+    ]
+  },
+  {
+    "codigo": "SAU-002",
+    "triagem": "rever",
+    "gravidade": "media",
+    "motivos": [
+      "Indica a forma «Ação Administrativa Comum (art. 37.º CPTA)», designação anterior à revisão do CPTA de 2015 (DL 214-G/2015), que unificou as formas na «ação administrativa»; repete-o na checklist.",
+      "Tese subsidiária da «responsabilidade pelo risco (art. 9.º RRCEE) quando não há culpa mas há dano anormal»: o art. 9.º da Lei 67/2007 trata da ilicitude; o risco é o art. 11.º e exige atividades, coisas ou serviços administrativos especialmente perigosos (difícil de aplicar ao ato médico comum); o «dano anormal» é requisito da responsabilidade por facto lícito (art. 16.º). Também a responsabilidade solidária por dolo ou culpa grave é o art. 8.º (não o art. 10.º, que trata da culpa).",
+      "Refere «contra-ordenação prévia ou reclamação administrativa» como etapa a ponderar: não há reclamação prévia obrigatória nem contraordenação nesta ação de responsabilidade; a distinção culpa leve do profissional / culpa grave da instituição está invertida face aos arts. 7.º e 8.º (Estado responde sozinho pela culpa leve e por funcionamento anormal do serviço; solidariedade só em dolo ou culpa grave do agente)."
+    ]
+  },
+  {
+    "codigo": "SAU-004",
+    "triagem": "rever",
+    "gravidade": "media",
+    "motivos": [
+      "A Portaria n.º 679/2009 é apresentada como «tabela nacional de avaliação de incapacidades»: não é. É a portaria que alterou a Portaria 377/2008 (critérios e valores orientadores da proposta razoável em danos corporais do seguro automóvel). A tabela de avaliação do dano corporal em direito civil (défice funcional em pontos, quantum doloris, dano estético, RADL, em escalas de 1 a 7) é o Anexo II do DL 352/2007.",
+      "Refere «pontos de Pereira Coelho / escala EBI» para o défice funcional permanente: não corresponde a nenhuma escala legal ou pericial reconhecida (Pereira Coelho é um civilista); a referência são os pontos do défice funcional permanente da integridade físico-psíquica do DL 352/2007, Anexo II.",
+      "Mistura IPP (conceito do regime laboral) com défice funcional permanente (conceito civil) como se fossem a mesma base de cálculo."
+    ]
+  },
+  {
+    "codigo": "SAU-005",
+    "triagem": "rever",
+    "gravidade": "media",
+    "motivos": [
+      "A Portaria n.º 679/2009 é indicada como referência para a avaliação do dano corporal e da IPP: está no diploma errado (é a alteração à Portaria 377/2008 sobre proposta razoável do seguro automóvel); a tabela civil é o Anexo II do DL 352/2007 e a TNI laboral é o DL 352/2007, Anexo I.",
+      "Assume como período de vida ativa até aos 66 anos (idade fixa): a idade legal da reforma já é de 66 anos e 9 meses em 2026 (a confirmar), e a jurisprudência do STJ calcula em regra o dano patrimonial futuro até à esperança média de vida ou idade próxima (cerca de 70 anos ou mais), não apenas até à reforma.",
+      "Apresenta a dedução da pensão de invalidez como ajuste de rotina («- [valor] €»); na jurisprudência a dedução de pensões da segurança social é, em regra, controversa/afastada, por terem causa própria."
+    ]
+  },
+  {
+    "codigo": "SAU-006",
+    "triagem": "rever",
+    "gravidade": "media",
+    "motivos": [
+      "Descreve o art. 563.º CC como «formulação negativa: só é adequada a causa que, segundo o curso normal das coisas, era apta a produzir o dano»: isto é a formulação positiva. A formulação negativa (adotada na doutrina portuguesa, Antunes Varela) diz que o facto deixa de ser causa adequada apenas se for indiferente para o dano em abstrato e só o tiver produzido por circunstâncias anormais ou extraordinárias.",
+      "Cita o art. 342.º n.º 2 CC como fundamento de «inversão do ónus da prova»: é a regra da repartição do ónus quanto a factos impeditivos, modificativos ou extintivos, não uma inversão. A inversão relevante em matéria clínica é a do art. 344.º n.º 2 (impossibilitação culposa da prova, p. ex. processo clínico em falta) e a presunção de culpa do art. 799.º, que não é presunção de nexo causal."
+    ]
+  },
+  {
+    "codigo": "SAU-007",
+    "triagem": "ok"
+  },
+  {
+    "codigo": "SAU-008",
+    "triagem": "ok"
+  },
+  {
+    "codigo": "SAU-009",
+    "triagem": "rever",
+    "gravidade": "media",
+    "motivos": [
+      "Indica como via contra entidade pública a «ação judicial de intimação para comportamento (CPTA)»: essa figura não existe; o meio é a intimação para prestação de informações, consulta de processos ou passagem de certidões (art. 104.º CPTA), precedida de queixa à CADA.",
+      "Omite a LADA (Lei 26/2016) e a CADA para estabelecimentos públicos do SNS (documento administrativo com dados de saúde; resposta em 10 dias, art. 15.º LADA) e fixa em geral 10 dias úteis como prazo «razoável», sem base legal para estabelecimentos privados (aí valem o RGPD, 1 mês, e a Lei 12/2005).",
+      "A advertência na carta ameaça queixa à CNPD «por violação do art. 15.º do RGPD» mesmo em pedidos feitos por advogado ou herdeiro; o RGPD só se aplica a pessoas falecidas através do art. 17.º da Lei 58/2019 (herdeiros ou designado)."
+    ]
+  },
+  {
+    "codigo": "SAU-010",
+    "triagem": "ok"
+  },
+  {
+    "codigo": "SAU-011",
+    "triagem": "rever",
+    "gravidade": "media",
+    "motivos": [
+      "Manda citar o «Decreto-Lei n.º 127/2009 — Estatutos da ERS» como diploma vigente: esses estatutos foram revogados e substituídos pelos Estatutos aprovados pelo DL 126/2014, de 22 de agosto (como a própria SAU-030 reconhece).",
+      "Limita a competência da ERS a «estabelecimentos de saúde privados, IPSS e algumas entidades do SNS» e a checklist exige «privado/IPSS»: a ERS regula todos os prestadores de cuidados de saúde, incluindo o setor público (hospitais EPE, ULS, ACES), privado, cooperativo e social. Seguir a ficha levaria a não queixar à ERS contra estabelecimentos públicos.",
+      "Morada da ERS (Rua São Sebastião da Pedreira, Lisboa) duvidosa: a sede da ERS é no Porto e as queixas fazem-se hoje pelo portal/livro de reclamações eletrónico (a confirmar)."
+    ]
+  },
+  {
+    "codigo": "SAU-012",
+    "triagem": "rever",
+    "gravidade": "baixa",
+    "motivos": [
+      "Cita o Código Deontológico dos Enfermeiros nos «arts. 83.º, 84.º e 85.º» do «DL 104/98, atualizado»: é a numeração anterior à Lei 156/2015, que aprovou e republicou o Estatuto da Ordem dos Enfermeiros com renumeração (o Código Deontológico passou a ter outra numeração). Os artigos indicados podem já não corresponder aos deveres descritos.",
+      "Também os artigos do Regulamento de Deontologia Médica (8.º, 37.º, 38.º, 70.º do Regulamento 707/2016) são dados sem confirmação e a ficha só os marca como a verificar."
+    ]
+  },
+  {
+    "codigo": "SAU-013",
+    "triagem": "ok"
+  },
+  {
+    "codigo": "SAU-014",
+    "triagem": "ok"
+  },
+  {
+    "codigo": "SAU-015",
+    "triagem": "rever",
+    "gravidade": "media",
+    "motivos": [
+      "A Portaria n.º 679/2009 é apresentada como «tabela nacional de avaliação de incapacidades» (referência para IPP, QD, DE) e a checklist exige que a IPP esteja «fundamentada na Portaria 679/2009»: diploma errado. É a alteração da Portaria 377/2008 (proposta razoável no seguro automóvel); a tabela civil é o Anexo II do DL 352/2007 (défice funcional permanente, quantum doloris, dano estético, RADL).",
+      "A análise crítica do relatório pericial medirá a perícia contra uma norma que não contém essas escalas, e a IPP é conceito laboral (TNI) e não o parâmetro da perícia civil (défice funcional permanente)."
+    ]
+  },
+  {
+    "codigo": "SAU-016",
+    "triagem": "rever",
+    "gravidade": "media",
+    "motivos": [
+      "O quesito 6 pede o grau de IPP «de acordo com a Portaria n.º 679/2009»: diploma errado (alteração da Portaria 377/2008 sobre proposta razoável); a perícia civil usa o Anexo II do DL 352/2007 (défice funcional permanente em pontos).",
+      "O texto-tipo do requerimento invoca os «arts. 388.º e 476.º do Código de Processo Civil»: o art. 388.º é do Código Civil (noção de prova pericial); o requerimento deve apoiar-se nos arts. 467.º e ss. CPC. A ficha deixa o erro dentro do texto a entregar, com a nota de verificação no meio.",
+      "O quesito 1 pergunta ao perito se o ato foi «causa adequada»: causalidade adequada é conceito jurídico; ao perito pergunta-se a existência e a probabilidade do nexo médico-legal."
+    ]
+  },
+  {
+    "codigo": "SAU-017",
+    "triagem": "ok"
+  },
+  {
+    "codigo": "SAU-018",
+    "triagem": "rever",
+    "gravidade": "baixa",
+    "motivos": [
+      "Descreve o limite das diretivas como não poderem «causar a morte por omissão de tratamento urgente»: o limite da Lei 25/2012 é a ineficácia das diretivas contrárias à lei ou à ordem pública, ou cujo cumprimento provoque deliberadamente a morte não natural e evitável nos termos da lei penal. A recusa de tratamento de suporte vital é precisamente o conteúdo típico do testamento vital.",
+      "Prazo de eficácia de 5 anos, renovável, e requisitos de forma (notário ou funcionário do RENTEV) dados como regime fixo: o regime foi alterado/atualizado (Lei 49/2018 do maior acompanhado, tramitação eletrónica do RENTEV) e o prazo pode ter sido modificado depois do conhecimento do modelo; confirmar a versão consolidada.",
+      "A ficha refere a «obrigatoriedade de consulta do RENTEV pelos serviços de saúde» sem base legal indicada."
+    ]
+  },
+  {
+    "codigo": "SAU-019",
+    "triagem": "rever",
+    "gravidade": "media",
+    "motivos": [
+      "Cita a «Lei n.º 67/98 (proteção de dados)» como diploma aplicável: foi revogada pela Lei 58/2019 (que executa o RGPD). A própria cláusula 6.2 cita a Lei 58/2019, o que contradiz a lista de fundamentos.",
+      "Nas regras obrigatórias manda aplicar o «Código do Consumidor» ao contrato com o doente: não existe Código do Consumidor em vigor em Portugal; o regime é a Lei de Defesa do Consumidor (Lei 24/96), o DL 446/85 (LCCG) e o DL 156/2005 (livro de reclamações).",
+      "Cláusula 9.ª fixa foro convencional na comarca do prestador sem ressalva: em contratos com consumidores, cláusulas de foro que dificultem o acesso à justiça são proibidas (LCCG, art. 19.º)."
+    ]
+  },
+  {
+    "codigo": "SAU-020",
+    "triagem": "rever",
+    "gravidade": "baixa",
+    "motivos": [
+      "Atribui ao «art. 9.º RRCEE» a responsabilidade pelo risco: o art. 9.º da Lei 67/2007 é a ilicitude; o risco é o art. 11.º, que exige atividades, coisas ou serviços especialmente perigosos, requisito dificilmente preenchido por uma IACS; a via habitual contra hospital público é a ilicitude/funcionamento anormal do serviço com presunção de culpa leve (arts. 7.º e 10.º).",
+      "Enquadra as IACS que ocorrem com protocolos cumpridos como «responsabilidade pelo risco vs. por culpa» sem distinguir: no setor privado não há responsabilidade pelo risco aplicável a estabelecimentos de saúde (o regime é contratual, com presunção de culpa do art. 799.º CC)."
+    ]
+  },
+  {
+    "codigo": "SAU-021",
+    "triagem": "rever",
+    "gravidade": "media",
+    "motivos": [
+      "Define como «tabela de referência a Portaria n.º 679/2009 (NTAI — Nova Tabela Nacional de Avaliação de Incapacidades)»: «NTAI» não existe e a Portaria 679/2009 não é uma tabela de incapacidades (é a alteração da Portaria 377/2008, proposta razoável do seguro automóvel). A tabela é a Tabela Nacional de Incapacidades do DL 352/2007 (a que a própria ficha refere em separado como «aprovação da NTAI»).",
+      "Não identifica o regime próprio do atestado médico de incapacidade multiuso (DL 202/96 e alterações), que prevê reclamação/recurso para junta médica de recurso com prazo próprio; atribui a emissão de atestados ao INR, que não os emite (são as juntas médicas dos ACES/ARS), e fala de «NSNS/ISS», sigla inexistente.",
+      "O pedido final b) e c) pede a avaliação segundo uma portaria errada e a «anulação do atestado»: o procedimento correto é pedir reavaliação/junta de recurso, não anulação."
+    ]
+  },
+  {
+    "codigo": "SAU-022",
+    "triagem": "rever",
+    "gravidade": "media",
+    "motivos": [
+      "Lista a «Lei n.º 59/2007» como alteração à Lei da PMA que introduziu a gestação de substituição (com referência ao art. 277.º CP): a Lei 59/2007 é a revisão do Código Penal e não alterou a Lei 32/2006. As alterações relevantes são as Leis 17/2016, 25/2016, 58/2017, 48/2019, 72/2021 (inseminação post mortem) e 90/2021 (gestação de substituição e anonimato dos dadores, após o Ac. TC 225/2018).",
+      "Descreve a gestação de substituição como «regime especial e temporário» e o anonimato dos dadores como questão a verificar, sem refletir que o anonimato foi declarado inconstitucional pelo Acórdão do TC 225/2018 e a lei foi alterada em seguida; um parecer assente neste quadro daria conclusões desatualizadas."
+    ]
+  },
+  {
+    "codigo": "SAU-023",
+    "triagem": "rever",
+    "gravidade": "media",
+    "motivos": [
+      "Indica o «Decreto-Lei n.º 156/99 — estabelecimentos de saúde privados (base do regime)»: o regime de abertura, modificação e funcionamento das unidades privadas de serviços de saúde é o DL 279/2009, de 6 de outubro (alterado pelo DL 127/2014), com licenciamento pela ERS; o DL 156/99 não é o regime aplicável.",
+      "Livro de reclamações eletrónico «no Portal da Queixa»: o Livro de Reclamações Eletrónico é o do portal oficial livroreclamacoes.pt; o Portal da Queixa é uma plataforma privada. A «renovação anual do registo na ERS» também não está suportada (há taxas anuais de regulação, não renovação do registo).",
+      "«Licença de utilização» emitida pela câmara: o regime foi alterado pelo RJUE revisto (DL 10/2024, simplificação urbanística, e diplomas posteriores), pelo que a exigência de licença/autorização de utilização deve ser reapreciada; refere ainda «livro de ponto IRS» (inexistente) e «comunicação ao Centro de Emprego de admissões», prática que deixou de ser exigida (comunicação à Segurança Social)."
+    ]
+  },
+  {
+    "codigo": "SAU-024",
+    "triagem": "rever",
+    "gravidade": "media",
+    "motivos": [
+      "Cita o «Decreto-Lei n.º 67/2012» como normas de funcionamento dos lares: é a Portaria n.º 67/2012, de 21 de março (condições de organização e funcionamento das estruturas residenciais para pessoas idosas); o licenciamento é o DL 64/2007 (alterado pelo DL 33/2014).",
+      "Diz que o lar privado é «regulado pela ERS e ISS» e faz da ERS o primeiro passo de escalada: a ERS só regula prestadores de cuidados de saúde (incluindo as unidades da RNCCI); as estruturas residenciais para idosos são licenciadas e fiscalizadas pela Segurança Social (ISS), não pela ERS.",
+      "Invoca a Lei 15/2014 como fonte dos «direitos do utente» nos lares: aplica-se aos serviços de saúde; o utente de ERPI beneficia do contrato de alojamento, da Portaria 67/2012 e da legislação do apoio social."
+    ]
+  },
+  {
+    "codigo": "SAU-025",
+    "triagem": "ok"
+  },
+  {
+    "codigo": "SAU-026",
+    "triagem": "ok"
+  },
+  {
+    "codigo": "SAU-027",
+    "triagem": "rever",
+    "gravidade": "baixa",
+    "motivos": [
+      "Fixa o tribunal competente como o «TAC da área da sede do réu (art. 16.º ETAF)»: para a competência territorial vale o art. 20.º CPTA, que nas ações de responsabilidade civil atende em regra à residência habitual ou sede do autor (a confirmar); o art. 16.º ETAF não é a norma de competência territorial.",
+      "Distingue «gestão pública / gestão privada» com base no art. 1.º da Lei 67/2007 sem esclarecer que, para os hospitais públicos, a atividade clínica é tratada como função administrativa (aplicação plena da Lei 67/2007) e que atos de gestão privada ficariam fora desta ação; o art. 4.º n.º 1 al. g) ETAF indicado difere da alínea f) usada na SAU-002 para o mesmo ponto."
+    ]
+  },
+  {
+    "codigo": "SAU-028",
+    "triagem": "rever",
+    "gravidade": "baixa",
+    "motivos": [
+      "Manda citar a «Lei 31/2018» como fonte para a responsabilidade civil de clínicas: a Lei 31/2018 regula os direitos das pessoas em contexto de doença avançada e em fim de vida; não é diploma sobre responsabilidade civil médica.",
+      "Apresenta como inversão do ónus da prova a «doutrina da res ipsa loquitur (aplicação jurisprudencial em Portugal)»: é figura de common law; no direito português fala-se em prova de primeira aparência/presunções judiciais (art. 349.º CC), que não invertem o ónus."
+    ]
+  },
+  {
+    "codigo": "SAU-029",
+    "triagem": "ok"
+  },
+  {
+    "codigo": "SAU-030",
+    "triagem": "rever",
+    "gravidade": "media",
+    "motivos": [
+      "Afirma que ficam excluídos da ERS os «estabelecimentos públicos integrados na administração direta do Estado (competência da IGAS)»: os Estatutos da ERS (DL 126/2014) sujeitam à regulação todos os prestadores de cuidados de saúde, independentemente da natureza jurídica; não existe essa exclusão e a IGAS tem competência inspetiva própria, que não afasta a da ERS.",
+      "Contradiz a SAU-011 (que limita a ERS a privados/IPSS e cita o DL 127/2009 revogado) e a regra «cita os artigos reais do Estatuto ERS» não é cumprida: nenhum artigo concreto é dado de forma verificável (art. 3.º dado como âmbito é duvidoso).",
+      "Fala em direito de «audiência prévia (art. 121.º CPA)» do queixoso: a audiência pertence ao visado no processo de contraordenação, que segue o RGCO com os Estatutos da ERS, e não o CPA geral."
+    ]
+  },
+  {
+    "codigo": "SAU-031",
+    "triagem": "rever",
+    "gravidade": "media",
+    "motivos": [
+      "Manda citar «o art. 4.º da Lei 15/2014 (prazo: 10 dias úteis)»: a Lei 15/2014 não fixa prazo de 10 dias úteis para o acesso ao processo clínico. O prazo de 10 dias vem da LADA (art. 15.º, só para entidades públicas), o do RGPD é 1 mês (art. 12.º n.º 3) e a Lei 12/2005 não fixa prazo; a carta de interpelação com «10 dias úteis» invocaria um prazo legal inexistente contra estabelecimentos privados.",
+      "O artigo da Lei 15/2014 indicado (art. 4.º) é incoerente com as restantes fichas da área (arts. 5.º, 7.º, 9.º...); o acesso do titular à informação de saúde tem como base própria o art. 3.º da Lei 12/2005, que a ficha nem cita.",
+      "Dá como via contra estabelecimento público a intimação junto do «TAC» sem referir o pedido prévio à CADA e a legitimidade condicionada do herdeiro (art. 17.º da Lei 58/2019)."
+    ]
+  }
+]

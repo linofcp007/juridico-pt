@@ -6,7 +6,8 @@ titulo_en: "Legal Opinion on a Member's Conflict of Interest in a Resolution"
 descricao: "Elabora um parecer jurídico sobre a existência ou não de conflito de interesses de sócio em deliberação social, a obrigação de abstenção de voto, as consequências do voto em conflito de interesses e a anulabilidade da deliberação, ao abrigo dos arts. 251.º e 384.º do CSC."
 descricao_en: "Drafts a legal opinion on whether a member has a conflict of interest in a company resolution, the duty to abstain from voting, the consequences of a vote cast in conflict of interest and the voidability of the resolution, under Articles 251 and 384 CSC."
 ambito: nacional
-estado_citacoes: "conferidas 1 · corrigidas 0 · por conferir 1"
+estado_citacoes: "conferidas 9 · corrigidas 0 · por conferir 4"
+revisao_tecnica: "2026-10-28 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
@@ -14,7 +15,8 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 
 > **Âmbito:** nacional · **Área:** Direito Comercial e das Sociedades · **Código:** COM-039
 > **EN:** Legal Opinion on a Member's Conflict of Interest in a Resolution. Drafts a legal opinion on whether a member has a conflict of interest in a company resolution, the duty to abstain from voting, the consequences of a vote cast in conflict of interest and the voidability of the resolution, under Articles 251 and 384 CSC.
-> **Citações:** conferidas 1 · corrigidas 0 · por conferir 1. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 9 · corrigidas 0 · por conferir 4. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-28 — corrigida (7 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
 Elabora um parecer jurídico sobre a existência ou não de conflito de interesses de sócio em deliberação social, a obrigação de abstenção de voto, as consequências do voto em conflito de interesses e a anulabilidade da deliberação, ao abrigo dos arts. 251.º e 384.º do CSC.
 
@@ -44,19 +46,20 @@ Analise em <analise_do_caso>:
 
 ### ETAPA 2 — ANÁLISE JURÍDICA
 Identifique em <fundamentos_juridicos>:
-- Art. 251/1 CSC — proibição de voto do sócio em Lda. quando a deliberação incida diretamente sobre ato seu como gerente, conflito de interesses com a sociedade, ou outro caso de interesse especial
-- Art. 251/2 CSC — o voto contrário à proibição não é necessariamente nulo; a deliberação é anulável se o voto tiver sido determinante
-- Art. 384/6 CSC — proibição de voto em SA nas mesmas situações
-- Art. 58/1/b CSC — anulabilidade por abuso de maioria (quando o sócio maioritário usa o seu voto para benefício próprio em prejuízo da sociedade ou dos minoritários)
+- Art. 251/1 CSC — impedimento de voto do sócio em Lda.: o sócio não pode votar, nem por si, nem por representante, nem em representação de outrem, quando, relativamente à matéria da deliberação, se encontre em situação de conflito de interesses com a sociedade (cláusula geral); as als. a) a g) enumeram, a título exemplificativo («designadamente»), as situações típicas — liberação de obrigação ou responsabilidade própria (também como gerente ou membro do órgão de fiscalização), litígio com a sociedade, perda de parte da quota (art. 204.º, n.º 2), exclusão do sócio, consentimento do art. 254.º, n.º 1, destituição por justa causa da gerência ou do cargo no órgão de fiscalização e qualquer relação entre a sociedade e o sócio estranha ao contrato de sociedade
+- Art. 251/2 CSC — o disposto nas alíneas do n.º 1 não pode ser afastado pelo contrato de sociedade (este número não regula as consequências do voto impedido)
+- Art. 58/1/a CSC — a deliberação tomada com votos impedidos é anulável por violação da lei; entende-se correntemente que só o é quando, descontados esses votos, não se formaria a maioria exigida [■ VERIFICAR: doutrina e jurisprudência sobre a «prova de resistência» no voto impedido]
+- Art. 384/6 CSC — impedimento de voto em SA: sem cláusula geral, apenas quando a lei expressamente o proíba e nas als. a) a d) (liberação de obrigação ou responsabilidade própria, litígio com a sociedade, destituição por justa causa do cargo de titular de órgão social e relação estranha ao contrato de sociedade), inafastáveis pelo contrato (n.º 7); fora destes casos, o conflito de interesses do acionista é tratado pelo art. 58.º, n.º 1, al. b)
+- Art. 58/1/b CSC — anulabilidade das deliberações apropriadas para satisfazer o propósito de um dos sócios de conseguir, através do voto, vantagens especiais para si ou para terceiros, em prejuízo da sociedade ou de outros sócios, ou simplesmente de prejudicar aquela ou estes, a menos que se prove que teriam sido tomadas mesmo sem os votos abusivos; os sócios que formaram essa maioria respondem solidariamente pelos prejuízos (art. 58.º, n.º 3)
 - Art. 59 CSC — prazo de 30 dias para ação de anulação
-- Art. 72 CSC — responsabilidade do gerente por conflito de interesses não declarado
+- Art. 72 CSC — se o sócio em conflito também for gerente: responsabilidade para com a sociedade por atos ou omissões praticados com preterição dos deveres legais ou contratuais, incluindo o dever de lealdade (art. 64.º, n.º 1, al. b), CSC)
 - [■ VERIFICAR: cláusula estatutária sobre impedimentos de voto]
 
 ### ETAPA 3 — CONSTRUÇÃO
 Defina em <estrategia>:
 - Verificação do conflito: o interesse do sócio é contrário ao da sociedade na deliberação?
 - Teste do "voto determinante": sem o voto do sócio em conflito, a deliberação teria o mesmo resultado?
-- Distinção entre anulabilidade (art. 251/2 CSC) e nulidade (art. 56 CSC — objeto proibido)
+- Distinção entre anulabilidade (art. 58.º, n.º 1, als. a) e b), CSC) e nulidade (art. 56.º CSC — p. ex., deliberação cujo conteúdo ofenda os bons costumes ou preceitos legais inderrogáveis, al. d))
 - Se o conflito ainda não ocorreu: recomendar abstenção voluntária, declaração expressa de conflito ou impugnação preventiva?
 - Se o conflito já ocorreu: impugnar a deliberação (Skill 32) ou aceitar o resultado e prosseguir?
 
@@ -89,19 +92,19 @@ Elabore o documento completo com esta estrutura:
 
 **3.1 — Âmbito da proibição de voto (art. 251 CSC)**
 
-Nos termos do art. 251.º/1 do CSC, o sócio não pode votar nas deliberações em que, por conta própria ou alheia, tenha interesse em conflito com o da sociedade. A norma visa proteger o interesse social contra o risco de o sócio usar o seu poder de voto para beneficiar a si próprio em detrimento da sociedade.
+Nos termos do art. 251.º/1 do CSC, o sócio não pode votar, nem por si, nem por representante, nem em representação de outrem, quando, relativamente à matéria da deliberação, se encontre em situação de conflito de interesses com a sociedade; as als. a) a g) indicam, a título exemplificativo, as situações em que esse conflito se verifica. A norma visa proteger o interesse social contra o risco de o sócio usar o seu poder de voto para beneficiar a si próprio em detrimento da sociedade.
 
 **3.2 — Conflito de interesses no caso concreto**
 
 [Análise: o interesse do sócio [Nome] é contrário ao da sociedade na deliberação sobre [objeto]? Fundamentar com os factos]
 
-**3.3 — Consequências do voto em situação de conflito (art. 251/2 CSC)**
+**3.3 — Consequências do voto em situação de conflito (art. 58.º/1/a CSC)**
 
-A violação da proibição de voto não acarreta automaticamente a nulidade da deliberação. Nos termos do art. 251.º/2 do CSC [■ VERIFICAR: o art. 251.º, n.º 2 CSC não trata da anulabilidade; esta resulta do art. 58.º CSC; confirmar], a deliberação é anulável se o voto do sócio em conflito tiver sido determinante para o resultado. [Analisar se sem o voto do sócio em conflito a deliberação teria resultado diferente]
+A violação do impedimento de voto não gera a nulidade da deliberação: a deliberação tomada com votos impedidos é anulável, por violação da lei (art. 58.º/1/a do CSC), entendendo-se correntemente que só o é quando os votos impedidos tenham sido determinantes para formar a maioria [■ VERIFICAR: jurisprudência sobre a «prova de resistência»]. [Analisar se sem o voto do sócio em conflito a deliberação teria resultado diferente]
 
 **3.4 — Abuso de maioria (art. 58/1/b CSC)**
 
-Independentemente da proibição formal de voto, a deliberação é também anulável se o sócio maioritário a tiver aprovado com o propósito de obter vantagem especial para si ou para terceiro em prejuízo da sociedade (abuso de maioria). [Aplicar ao caso]
+Independentemente do impedimento de voto, a deliberação é também anulável se for apropriada para satisfazer o propósito de um dos sócios de conseguir, através do voto, vantagens especiais para si ou para terceiros, em prejuízo da sociedade ou de outros sócios, ou simplesmente de prejudicar aquela ou estes, a menos que se prove que teria sido tomada mesmo sem os votos abusivos (art. 58.º/1/b do CSC). [Aplicar ao caso]
 
 ---
 
@@ -121,7 +124,7 @@ Independentemente da proibição formal de voto, a deliberação é também anul
 **V. RECOMENDAÇÃO**
 
 **[Se parecer prospetivo — deliberação ainda não tomada:]**
-Recomenda-se que o sócio [Nome] se abstenha de votar na deliberação sobre [objeto], declarando expressamente o conflito de interesses perante a mesa. Esta abstenção voluntária: (i) protege a validade da deliberação; (ii) evita responsabilidade pessoal por voto em conflito; (iii) não impede o sócio de participar no debate e de exprimir a sua posição.
+Recomenda-se que o sócio [Nome] se abstenha de votar na deliberação sobre [objeto], declarando expressamente o conflito de interesses perante a mesa; se a situação couber no art. 251.º/1 do CSC, não votar é um dever legal e não uma opção. A abstenção: (i) protege a validade da deliberação; (ii) evita a responsabilidade solidária pelos prejuízos dos sócios que formem maioria com votos abusivos (art. 58.º/3 do CSC); (iii) não impede o sócio de participar no debate e de exprimir a sua posição.
 
 **[Se parecer retrospetivo — deliberação já tomada:]**
 [Analisar se a deliberação é anulável e se convém intentar ação de anulação (Skill 32) no prazo de 30 dias]
@@ -169,5 +172,16 @@ Apresente em <checklist_validacao>:
 
 | Citação | Estado | Nota |
 |---|---|---|
+| art. 204.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 254.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 58.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 58.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 64.º, n.º 1, al. b), CSC | conferida (epígrafe) — Deveres fundamentais |  |
+| art. 58.º, n.º 1, als. a) e b), CSC | conferida (epígrafe) — Deliberações anuláveis |  |
+| art. 56.º CSC | conferida (epígrafe) — Deliberações nulas |  |
 | art. 251.º/1 do CSC | conferida (epígrafe) — Impedimento de voto |  |
-| art. 251.º/2 do CSC | por conferir [■ VERIFICAR] | o art. 251.º, n.º 2 CSC não trata da anulabilidade; esta resulta do art. 58.º CSC; confirmar |
+| art. 251.º/1 do CSC | conferida (epígrafe) — Impedimento de voto |  |
+| art. 58.º/1/a CSC | conferida (epígrafe) — Deliberações anuláveis |  |
+| art. 58.º/1/a do CSC | conferida (epígrafe) — Deliberações anuláveis |  |
+| art. 58.º/1/b do CSC | conferida (epígrafe) — Deliberações anuláveis |  |
+| art. 58.º/3 do CSC | conferida (epígrafe) — Deliberações anuláveis |  |

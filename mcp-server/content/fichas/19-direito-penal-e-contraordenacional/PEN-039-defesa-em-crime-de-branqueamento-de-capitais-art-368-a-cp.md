@@ -6,7 +6,8 @@ titulo_en: "Defence in Money Laundering Proceedings (Art. 368-A CP)"
 descricao: "Elabora a contestação ou a defesa do arguido acusado de branqueamento de capitais ao abrigo do art. 368.º-A do Código Penal português, articulando com a Lei n.º 83/2017, de 18 de agosto (prevenção e repressão do branqueamento), e com as exigências probatórias específicas deste tipo legal, incluindo a questão do crime subjacente (crime precedente)."
 descricao_en: "Prepares the defence of an accused charged with money laundering under Article 368-A of the Portuguese Criminal Code, in conjunction with Law No. 83/2017 of 18 August (prevention and suppression of money laundering) and the specific evidentiary requirements of this offence, including the question of the underlying (predicate) offence."
 ambito: nacional
-estado_citacoes: "conferidas 5 · corrigidas 0 · por conferir 0"
+estado_citacoes: "conferidas 8 · corrigidas 0 · por conferir 0"
+revisao_tecnica: "2026-10-28 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
@@ -14,7 +15,8 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 
 > **Âmbito:** nacional · **Área:** Direito Penal e Contraordenacional · **Código:** PEN-039
 > **EN:** Defence in Money Laundering Proceedings (Art. 368-A CP). Prepares the defence of an accused charged with money laundering under Article 368-A of the Portuguese Criminal Code, in conjunction with Law No. 83/2017 of 18 August (prevention and suppression of money laundering) and the specific evidentiary requirements of this offence, including the question of the underlying (predicate) offence.
-> **Citações:** conferidas 5 · corrigidas 0 · por conferir 0. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 8 · corrigidas 0 · por conferir 0. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-28 — corrigida (6 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
 Elabora a contestação ou a defesa do arguido acusado de branqueamento de capitais ao abrigo do art. 368.º-A do Código Penal português, articulando com a Lei n.º 83/2017, de 18 de agosto (prevenção e repressão do branqueamento), e com as exigências probatórias específicas deste tipo legal, incluindo a questão do crime subjacente (crime precedente).
 
@@ -31,18 +33,19 @@ Ficha de trabalho para preparar este documento. As regras da casa prevalecem sob
 
 ### ETAPA 1 — ANÁLISE DO TIPO LEGAL
 Apresenta em <analise_tipo>:
-- Identificação dos atos imputados (conversão, transferência, dissimulação, aquisição — art. 368.º-A, n.º 2, CP)
+- Identificação dos atos imputados: conversão ou transferência de vantagens com o fim de dissimular a sua origem ilícita ou de evitar a perseguição criminal do autor do facto de origem (art. 368.º-A, n.º 3, CP), ocultação ou dissimulação da sua natureza, origem, localização, movimentação ou titularidade (n.º 4) ou aquisição, detenção ou utilização por quem não é autor do facto de origem (n.º 5)
 - Crime precedente alegado e se está concretamente identificado na acusação
 - Elemento subjetivo: dolo direto, necessário ou eventual; conhecimento da origem ilícita
-- Modalidade qualificada (art. 368.º-A, n.º 4, CP): exercício de atividade financeira; valor elevado ou consideravelmente elevado
-- Moldura penal: 2 a 12 anos de prisão (forma simples); agravada se qualificada
+- Agravação (art. 368.º-A, n.º 8, CP): a pena é agravada em um terço se o agente praticar as condutas de forma habitual ou se for uma entidade obrigada nos termos da Lei n.º 83/2017, de 18 de agosto, e a infração tiver sido cometida no exercício das suas atividades profissionais; a lei não prevê qualificação em função do valor
+- Moldura penal: prisão até 12 anos (art. 368.º-A, n.ºs 3 a 5, CP), agravada em um terço nos casos do n.º 8; a pena aplicada não pode ser superior ao limite máximo da pena mais elevada prevista para os factos ilícitos típicos de onde provêm as vantagens (n.º 12)
+- Atenuação especial: reparação integral do dano causado ao ofendido pelo facto de origem até ao início da audiência de julgamento em 1.ª instância (n.º 9; facultativa se a reparação for parcial — n.º 10) ou auxílio concreto na recolha das provas decisivas para a identificação ou captura dos responsáveis pelo facto de origem (n.º 11)
 
 ### ETAPA 2 — PONTOS DE DEFESA
 Apresenta em <pontos_defesa>:
-- Crime precedente não provado ou não identificado na acusação: vício que afeta o tipo legal
+- Facto ilícito típico de origem não provado, não identificado na acusação ou fora do catálogo do art. 368.º-A, n.º 1, CP: vício que afeta o tipo legal (a lei basta-se com o facto ilícito típico, e a punição tem lugar ainda que se ignore o local da sua prática ou a identidade dos autores — n.º 6 — ou que falte a queixa de que dependa — n.º 7)
 - Falta de dolo: arguido desconhecia a origem ilícita dos fundos
 - Licitude das operações: origem dos fundos documentada (rendimentos, empréstimos, heranças)
-- Auto-branqueamento: discussão sobre se o arguido principal pode ser autor do branqueamento dos próprios proventos
+- Autobranqueamento: a lei pune a conversão ou transferência de vantagens «obtidas por si ou por terceiro» (art. 368.º-A, n.º 3, CP); só a aquisição, detenção ou utilização (n.º 5) exclui o autor do facto de origem — avaliar o fim de dissimulação exigido e o concurso com o facto de origem [■ VERIFICAR jurisprudência aplicável]
 - Atipicidade: condutas meramente preparatórias ou posteriores ao esgotamento do crime precedente
 
 ### ETAPA 3 — CONTESTAÇÃO / DEFESA ESCRITA
@@ -77,7 +80,7 @@ Apresenta em <checklist>:
 - [ ] Crime precedente concretamente identificado na acusação
 - [ ] Elemento subjetivo (dolo) corretamente analisado
 - [ ] Origem lícita dos fundos documentada
-- [ ] Modalidade qualificada avaliada (valor elevado: superior a €5.100; consideravelmente elevado: superior a €20.400 — cfr. art. 202.º CP ex vi art. 368.º-A CP)
+- [ ] Agravação do n.º 8 avaliada (habitualidade ou entidade obrigada pela Lei n.º 83/2017) e limite do n.º 12 aplicado (art. 368.º-A CP); o valor das vantagens não qualifica o crime
 - [ ] Prescrição do procedimento criminal verificada
 - [ ] [■ VERIFICAR] itens sinalizados
 
@@ -88,7 +91,7 @@ Apresenta em <checklist>:
 **ARGUIDO:**
 - Nome: [nome completo]
 - NIF: [número]
-- Profissão: [indicar — relevante para modalidade qualificada]
+- Profissão: [indicar — relevante para a agravação do art. 368.º-A, n.º 8, CP (entidade obrigada pela Lei n.º 83/2017)]
 
 **PROCESSO:**
 - Tribunal: [identificação completa]
@@ -112,8 +115,11 @@ Apresenta em <checklist>:
 
 | Citação | Estado | Nota |
 |---|---|---|
-| art. 368.º-A, n.º 2, CP | conferida (epígrafe) — Branqueamento |  |
-| art. 368.º-A, n.º 4, CP | conferida (epígrafe) — Branqueamento |  |
+| art. 368.º-A, n.º 3, CP | conferida (epígrafe) — Branqueamento |  |
+| art. 368.º-A, n.º 3, CP | conferida (epígrafe) — Branqueamento |  |
+| art. 368.º-A, n.º 8, CP | conferida (epígrafe) — Branqueamento |  |
+| art. 368.º-A, n.º 8, CP | conferida (epígrafe) — Branqueamento |  |
+| art. 368.º-A, n.ºs 3 a 5, CP | conferida (epígrafe) — Branqueamento |  |
+| art. 368.º-A, n.º 1, CP | conferida (epígrafe) — Branqueamento |  |
 | art. 202.º CPP | conferida (epígrafe) — Prisão preventiva |  |
-| art. 202.º CP | conferida (epígrafe) — Definições legais |  |
 | art. 368.º-A CP | conferida (epígrafe) — Branqueamento |  |

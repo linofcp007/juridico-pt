@@ -3,20 +3,22 @@ codigo: AMB-001
 area: "Direito do Ambiente e Energia"
 titulo: "Requerimento de Licença Ambiental"
 titulo_en: "Application for an Environmental Licence"
-descricao: "Elabora o requerimento de licença ambiental dirigido à Agência Portuguesa do Ambiente (APA) ou à entidade licenciadora competente, com identificação da atividade, caracterização do projeto, enquadramento legal no Regime de Licenciamento Ambiental (DL n.º 127/2013, de 30 de Agosto) e pedido de concessão/renovação/alteração de licença."
-descricao_en: "Drafts the application for an environmental licence addressed to the Portuguese Environment Agency (APA) or the competent licensing authority, identifying the activity, describing the project, setting out the legal framework under the Environmental Licensing Regime (Decree-Law No. 127/2013 of 30 August) and requesting the grant, renewal or amendment of the licence."
+descricao: "Elabora o pedido de licença ambiental (LA) de uma instalação abrangida pelo anexo I do regime de emissões industriais (REI, DL n.º 127/2013, de 30 de agosto), apresentado à entidade coordenadora do licenciamento para decisão da Agência Portuguesa do Ambiente (APA), com identificação da atividade, caracterização da instalação, conformidade com as melhores técnicas disponíveis e pedido de emissão, alteração ou atualização da licença."
+descricao_en: "Drafts the application for an environmental licence (LA) for an installation covered by Annex I of the Industrial Emissions Regime (REI, Decree-Law No. 127/2013 of 30 August), filed with the coordinating licensing authority for decision by the Portuguese Environment Agency (APA), identifying the activity, describing the installation, showing compliance with best available techniques and requesting the grant, amendment or update of the licence."
 ambito: nacional
-estado_citacoes: "conferidas 0 · corrigidas 0 · por conferir 3"
+estado_citacoes: "conferidas 0 · corrigidas 0 · por conferir 13"
+revisao_tecnica: "2026-10-28 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
 # Requerimento de Licença Ambiental
 
 > **Âmbito:** nacional · **Área:** Direito do Ambiente e Energia · **Código:** AMB-001
-> **EN:** Application for an Environmental Licence. Drafts the application for an environmental licence addressed to the Portuguese Environment Agency (APA) or the competent licensing authority, identifying the activity, describing the project, setting out the legal framework under the Environmental Licensing Regime (Decree-Law No. 127/2013 of 30 August) and requesting the grant, renewal or amendment of the licence.
-> **Citações:** conferidas 0 · corrigidas 0 · por conferir 3. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **EN:** Application for an Environmental Licence. Drafts the application for an environmental licence (LA) for an installation covered by Annex I of the Industrial Emissions Regime (REI, Decree-Law No. 127/2013 of 30 August), filed with the coordinating licensing authority for decision by the Portuguese Environment Agency (APA), identifying the activity, describing the installation, showing compliance with best available techniques and requesting the grant, amendment or update of the licence.
+> **Citações:** conferidas 0 · corrigidas 0 · por conferir 13. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-28 — corrigida (13 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
-Elabora o requerimento de licença ambiental dirigido à Agência Portuguesa do Ambiente (APA) ou à entidade licenciadora competente, com identificação da atividade, caracterização do projeto, enquadramento legal no Regime de Licenciamento Ambiental (DL n.º 127/2013, de 30 de Agosto) e pedido de concessão/renovação/alteração de licença.
+Elabora o pedido de licença ambiental (LA) de uma instalação abrangida pelo anexo I do regime de emissões industriais (REI, DL n.º 127/2013, de 30 de agosto), apresentado à entidade coordenadora do licenciamento para decisão da Agência Portuguesa do Ambiente (APA), com identificação da atividade, caracterização da instalação, conformidade com as melhores técnicas disponíveis e pedido de emissão, alteração ou atualização da licença.
 
 ## Método
 
@@ -24,10 +26,10 @@ Ficha de trabalho para preparar este documento. As regras da casa prevalecem sob
 
 ## Regras obrigatórias
 - NUNCA inventes legislação, números de diploma ou jurisprudência
-- Cita diplomas reais: DL n.º 127/2013 (RLA/PCIP), Lei n.º 19/2014 (LBA), DL n.º 165/2014 (licenciamento industrial), Diretiva 2010/75/UE (IED)
+- Cita diplomas reais: DL n.º 127/2013 (regime de emissões industriais — REI; a licença ambiental é a do capítulo II, para as instalações do anexo I — prevenção e controlo integrados da poluição, PCIP), DL n.º 75/2015 (Licenciamento Único de Ambiente — LUA; a licença ambiental integra o título único ambiental — TUA), Lei n.º 19/2014 (LBA), DL n.º 169/2012 (Sistema da Indústria Responsável — SIR, se a atividade for industrial), Diretiva 2010/75/UE (IED)
 - Se faltarem dados concretos, marca [■ VERIFICAR: descrição do dado em falta]
 - Usa terminologia técnica ambiental correta (pt-PT)
-- O requerimento destina-se a Portugal — entidade APA ou CCDR territorialmente competente
+- O pedido de licença ambiental (LA) é apresentado pelo operador à entidade coordenadora do licenciamento (EC) da atividade, que o envia à APA, I.P., a quem compete decidir; a CCDR não emite a LA, só dá parecer sobre emissões atmosféricas (arts. 4.º, 35.º, n.os 1 e 3, e 40.º, n.º 1, do DL 127/2013)
 
 ---
 
@@ -35,9 +37,9 @@ Ficha de trabalho para preparar este documento. As regras da casa prevalecem sob
 
 ### ETAPA 1 — PROBLEMATIZAÇÃO
 Antes de redigir, analisa em <analise_do_caso>:
-- Tipo de licença pretendida (nova / renovação / alteração substancial / não substancial)
+- Tipo de pedido (nova LA / alteração substancial / alteração não substancial / atualização da LA — art. 19.º do DL 127/2013); desde o DL 11/2023 a LA não tem prazo de validade nem está sujeita a renovação (art. 40.º, n.º 8) [■ VERIFICAR: revisão periódica obrigatória da LA (art. 19.º-A, aditado pelo DL n.º 89/2025, de 12 de agosto) — prazos e efeitos no Diário da República]
 - Categoria da instalação (Anexo I do DL 127/2013 — atividades PCIP)
-- Entidade licenciadora competente (APA ou CCDR?)
+- Entidade coordenadora do licenciamento (EC) a quem se apresenta o pedido (decisão da APA, I.P.)
 - Existência de licença anterior e seu estado
 - Necessidade de procedimento de AIA prévio (DL 151-B/2013)
 - Condicionantes ambientais já conhecidas
@@ -47,7 +49,7 @@ Antes de redigir, analisa em <analise_do_caso>:
 Identifica em <fundamentos_juridicos>:
 - Enquadramento no DL n.º 127/2013 (transposição Diretiva IED 2010/75/UE)
 - Atividade constante do Anexo I e respetiva categoria
-- Artigos aplicáveis do RLA (arts. 19.º a 35.º para instrução do processo)
+- Artigos aplicáveis do REI: arts. 34.º a 41.º (pedido, instrução, avaliação técnica, participação do público, decisão e conteúdo da LA), art. 19.º (alteração e atualização) e art. 22.º (caducidade)
 - Requisitos MTD (Melhores Técnicas Disponíveis) aplicáveis ao setor
 - Lei de Bases do Ambiente (Lei n.º 19/2014) — princípios relevantes
 - Regime de AIA se a instalação estiver também sujeita (DL 151-B/2013)
@@ -58,12 +60,12 @@ Define em <estrategia>:
 - Estrutura do requerimento e anexos necessários
 - Pontos de ênfase (conformidade com MTD, histórico ambiental positivo)
 - Documentação de suporte a juntar
-- Prazo de decisão esperado (art. 27.º DL 127/2013)
+- Prazo de decisão da APA: 80 dias a contar da receção do pedido, 50 dias se houve AIA prévia, reduzidos a metade se o pedido for instruído por entidade acreditada (art. 40.º, n.os 1 a 3, DL 127/2013); sem decisão no prazo, deferimento tácito (art. 23.º) [■ VERIFICAR: redação do art. 40.º depois do DL n.º 89/2025]
 
 ### ETAPA 4 — O REQUERIMENTO
 Redige o documento completo com esta estrutura:
 
-**EXMO. SENHOR PRESIDENTE DA AGÊNCIA PORTUGUESA DO AMBIENTE / [CCDR competente]**
+**EXMO. SENHOR PRESIDENTE DA [ENTIDADE COORDENADORA DO LICENCIAMENTO DA ATIVIDADE]** [■ VERIFICAR: qual é a EC no regime de licenciamento da atividade; o pedido de LA segue pela EC para decisão da APA, I.P.]
 
 **IDENTIFICAÇÃO DO REQUERENTE**
 - Firma/denominação social, NIPC, sede social, representante legal
@@ -76,7 +78,7 @@ Redige o documento completo com esta estrutura:
 - Atividade principal (código CAE) e atividades secundárias
 
 **OBJETO DO REQUERIMENTO**
-Pedido expresso de [nova licença / renovação / alteração] ao abrigo do art. [X] do DL 127/2013
+Pedido expresso de [nova licença / alteração / atualização] ao abrigo do art. [X] do DL 127/2013
 
 **FUNDAMENTAÇÃO**
 - Descrição sumária da atividade e instalação
@@ -89,20 +91,20 @@ Pedido expresso de [nova licença / renovação / alteração] ao abrigo do art.
 Lista numerada de todos os documentos que acompanham o requerimento
 
 **PEDIDO FINAL**
-"Requer a V. Exa. que se digne apreciar o presente requerimento e conceder/renovar/alterar a Licença Ambiental nos termos da legislação aplicável."
+"Requer a V. Exa. que se digne apreciar o presente requerimento e remeter o pedido à Agência Portuguesa do Ambiente, I.P., para emissão/alteração/atualização da Licença Ambiental nos termos da legislação aplicável."
 
 **Data, assinatura, carimbo**
 
 ### ETAPA 5 — VALIDAÇÃO
 Apresenta em <checklist_validacao>:
-- [ ] Entidade destinatária correta (APA vs. CCDR)
+- [ ] Entidade destinatária correta (EC da atividade; decisão da APA, I.P.)
 - [ ] Atividade corretamente enquadrada no Anexo I DL 127/2013
 - [ ] Tipo de pedido claramente identificado
 - [ ] Representação legal e mandato do advogado indicados
 - [ ] Coordenadas geográficas da instalação incluídas
 - [ ] Referência às MTD do setor
 - [ ] Lista de documentação de suporte completa
-- [ ] Prazo de renovação respeitado (60 dias antes do término — art. 35.º DL 127/2013) [■ VERIFICAR]
+- [ ] Prazos de atualização e de revisão da LA verificados: não há renovação (art. 40.º, n.º 8, DL 127/2013); a atualização é pedida até 4 anos após a publicação das conclusões MTD da atividade principal (art. 19.º, n.º 7, alínea a)) [■ VERIFICAR: revisão periódica do art. 19.º-A, aditado pelo DL n.º 89/2025 — antecedência do pedido e prazo transitório para as LA mais antigas]
 - [ ] Pontos [■ VERIFICAR] sinalizados para confirmação do cliente
 
 ---
@@ -130,9 +132,9 @@ Apresenta em <checklist_validacao>:
 - Dimensão/capacidade produtiva: [dados relevantes]
 
 **PEDIDO:**
-- Tipo: [nova licença / renovação / alteração substancial / não substancial]
+- Tipo: [nova licença / alteração substancial / alteração não substancial / atualização / revisão]
 - Licença anterior n.º: [se aplicável]
-- Validade da licença atual: [data]
+- Data de emissão e da última alteração ou revisão da licença atual: [data]
 - Alterações previstas: [se alteração — descrever]
 
 **CONTEXTO AMBIENTAL:**
@@ -145,6 +147,16 @@ Apresenta em <checklist_validacao>:
 
 | Citação | Estado | Nota |
 |---|---|---|
-| arts. 19.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| art. 27.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| art. 35.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| arts. 4.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 19.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 19.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 19.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 40.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 40.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 40.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 40.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 19.º-A | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 19.º-A | por conferir [■ VERIFICAR] | diploma não identificado |
+| arts. 34.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 22.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 23.º | por conferir [■ VERIFICAR] | diploma não identificado |

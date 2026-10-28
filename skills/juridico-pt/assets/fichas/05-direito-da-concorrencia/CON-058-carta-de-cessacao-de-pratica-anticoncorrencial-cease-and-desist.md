@@ -6,7 +6,8 @@ titulo_en: "Letter Demanding Cessation of Anti-Competitive Conduct (Cease and De
 descricao: "Elabora notificação extrajudicial dirigida a uma empresa que pratica conduta anticoncorrencial (cartel, abuso de posição dominante, cláusula proibida), exigindo a cessação imediata e reservando o direito de denúncia à AdC e de ação de indemnização ao abrigo da Lei n.º 23/2018, de 5 de junho, e dos artigos 9.º e 11.º da Lei n.º 19/2012 (NRJC)."
 descricao_en: "Prepares an out-of-court notice addressed to an undertaking engaged in anti-competitive conduct (cartel, abuse of a dominant position, prohibited clause), demanding that it cease immediately and reserving the right to complain to the AdC and to bring an action for damages under Law No. 23/2018 of 5 June and Articles 9 and 11 of Law No. 19/2012 (NRJC)."
 ambito: nacional
-estado_citacoes: "conferidas 1 · corrigidas 0 · por conferir 6"
+estado_citacoes: "conferidas 1 · corrigidas 0 · por conferir 7"
+revisao_tecnica: "2026-10-28 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
@@ -14,7 +15,8 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 
 > **Âmbito:** nacional · **Área:** Direito da Concorrência · **Código:** CON-058
 > **EN:** Letter Demanding Cessation of Anti-Competitive Conduct (Cease and Desist). Prepares an out-of-court notice addressed to an undertaking engaged in anti-competitive conduct (cartel, abuse of a dominant position, prohibited clause), demanding that it cease immediately and reserving the right to complain to the AdC and to bring an action for damages under Law No. 23/2018 of 5 June and Articles 9 and 11 of Law No. 19/2012 (NRJC).
-> **Citações:** conferidas 1 · corrigidas 0 · por conferir 6. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 1 · corrigidas 0 · por conferir 7. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-28 — corrigida (3 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
 Elabora notificação extrajudicial dirigida a uma empresa que pratica conduta anticoncorrencial (cartel, abuso de posição dominante, cláusula proibida), exigindo a cessação imediata e reservando o direito de denúncia à AdC e de ação de indemnização ao abrigo da Lei n.º 23/2018, de 5 de junho, e dos artigos 9.º e 11.º da Lei n.º 19/2012 (NRJC).
 
@@ -41,7 +43,7 @@ Dentro de <caracterizacao>:
 Dentro de <objetivos>:
 - Cessação imediata da prática
 - Reconhecimento informal (sem litígio)
-- Documentação do conhecimento para interrupção da prescrição
+- Prova da data em que a notificante teve conhecimento da prática, do infrator e do dano (relevante para o prazo de prescrição de 5 anos do art. 6.º, n.º 1, da Lei n.º 23/2018, que só começa a correr depois de cessar a infração — n.º 2); a notificação não interrompe a prescrição
 - Abertura de negociação extrajudicial
 - Reserva expressa de recurso à AdC e ao Tribunal da Concorrência
 
@@ -84,11 +86,11 @@ c) A disponibilidade para reparar os danos causados.
 
 **IV — RESERVA DE DIREITOS**
 A Notificante reserva expressamente os seguintes direitos:
-a) Apresentar denúncia à Autoridade da Concorrência (AdC), ao abrigo dos artigos 27.º e seguintes da Lei n.º 19/2012;
+a) Apresentar denúncia à Autoridade da Concorrência (AdC), nos termos do artigo 8.º da Lei n.º 19/2012;
 b) Propor ação de indemnização no Tribunal da Concorrência, Regulação e Supervisão, ao abrigo da Lei n.º 23/2018, de 5 de junho;
 c) Queixar-se à Comissão Europeia, ao abrigo do artigo 7.º do Regulamento (CE) n.º 1/2003.
 
-A presente notificação interrompe o prazo de prescrição da ação de indemnização nos termos do artigo 10.º da Lei n.º 23/2018.
+[Nota de redação — não incluir na carta: uma notificação extrajudicial não interrompe a prescrição. O direito de indemnização prescreve em 5 anos a contar do conhecimento do comportamento, do infrator e do dano (art. 6.º, n.º 1, da Lei n.º 23/2018); o prazo suspende-se durante a investigação da autoridade de concorrência e durante a resolução extrajudicial do litígio (n.ºs 4 a 6) e só se interrompe pela citação ou notificação judicial ao infrator (n.º 7). Se o prazo estiver próximo, propor a ação ou requerer a notificação judicial avulsa.]
 
 [Local, data, mandatário]
 
@@ -129,7 +131,8 @@ Dentro de <checklist>:
 | art. 9.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 11.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 4.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 6.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 6.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | artigo 101.º/102.º do TFUE | conferida (epígrafe) — São incompatíveis com o mercado interno e proibidos todos os acordos entre empresas, todas |  |
-| artigos 27.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| artigo 8.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | artigo 7.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| artigo 10.º | por conferir [■ VERIFICAR] | diploma não identificado |

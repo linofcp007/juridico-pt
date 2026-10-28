@@ -1,0 +1,271 @@
+[
+  {
+    "codigo": "CNS-034",
+    "veredicto": "corrigida",
+    "resumo": "A ficha inventava uma «responsabilidade subsidiária da plataforma» e uma regra do «art. 6.º-B» do DL 84/2021, que não existe, e omitia o regime real: a responsabilidade solidária do prestador de mercado em linha que seja parceiro contratual do vendedor e o seu dever especial de informação (arts. 44.º e 45.º DL 84/2021), bem como o art. 4.º-A do DL 24/2014 e o art. 6.º, n.º 3, do DSA. Remetia ainda para a plataforma ODR, encerrada em 20/07/2025, e indicava o CNCS como destinatário da participação, quando o Coordenador dos Serviços Digitais é a ANACOM (Lei 12-A/2026). A responsabilidade do vendedor foi ligada ao art. 12.º do DL 84/2021.",
+    "substituicoes": [
+      {
+        "de": "— Em caso de dúvida sobre a qualidade de consumidor ou profissional do vendedor, o DL 84/2021 aplica-se se a plataforma não identificar corretamente o vendedor (art. 6.º-B, interpretação conforme).",
+        "para": "— O prestador de mercado em linha que seja parceiro contratual do vendedor, por exercer influência predominante na celebração do contrato (p. ex., contrato ou pagamento feitos exclusivamente pelos meios da plataforma, termos ou preço por ela determinados, publicidade focada na plataforma), responde solidariamente perante o consumidor pela falta de conformidade (art. 44.º DL 84/2021). Se não for parceiro contratual, tem de informar o consumidor, antes da celebração, de que contrata com o vendedor e não com a plataforma, da identidade e da qualidade de profissional do vendedor (ou de que, não o sendo, não se aplicam os direitos do DL 84/2021) e dos contactos deste; se não o fizer, responde nos termos do art. 44.º (art. 45.º DL 84/2021).",
+        "motivo": "O DL 84/2021 não tem art. 6.º-B; o regime das plataformas está nos arts. 44.º e 45.º.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=3471A0044&nid=3471&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- DL 84/2021, arts. 3.º, n.º 1 e 5.º: responsabilidade do vendedor por conformidade",
+        "para": "- DL 84/2021, arts. 3.º, n.º 1, 5.º e 12.º: âmbito, dever de conformidade e responsabilidade do vendedor pela falta de conformidade que se manifeste no prazo de três anos a contar da entrega",
+        "motivo": "Os arts. 3.º e 5.º definem o âmbito e o dever de conformidade; a responsabilidade do profissional está no art. 12.º.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=3471A0012&nid=3471&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- DL 24/2014, arts. 4.º e 5.º: informação pré-contratual obrigatória",
+        "para": "- DL 24/2014, arts. 4.º, 4.º-A e 5.º: informação pré-contratual obrigatória, incluindo a específica dos mercados em linha (se o terceiro que vende é ou não profissional, não aplicação dos direitos do consumidor se não o for e repartição das obrigações entre o terceiro e a plataforma)",
+        "motivo": "Falta o art. 4.º-A (aditado pelo DL 109-G/2021), que regula a informação própria dos mercados em linha.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2062&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- Responsabilidade subsidiária da plataforma quando o vendedor é inidentificável",
+        "para": "- DL 84/2021, arts. 44.º e 45.º: responsabilidade solidária do prestador de mercado em linha que seja parceiro contratual do vendedor ou que incumpra o dever especial de informação (não há regra geral de responsabilidade subsidiária da plataforma)\n- DSA, art. 6.º, n.º 3: a isenção de responsabilidade do alojamento virtual não vale, no direito do consumo, quando a plataforma apresenta a oferta de modo a levar o consumidor médio a crer que o produto é fornecido por ela própria ou por comerciante sob a sua autoridade ou controlo",
+        "motivo": "Não existe responsabilidade subsidiária geral da plataforma; os fundamentos reais são os arts. 44.º e 45.º do DL 84/2021 e o art. 6.º, n.º 3, do DSA.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=3471A0045&nid=3471&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Plataforma ODR se vendedor noutro Estado-Membro",
+        "para": "- Se o vendedor estiver noutro Estado-Membro: Centro Europeu do Consumidor, que ajuda a aceder à entidade de RAL competente desse Estado (art. 20.º, n.º 1, Lei 144/2015); a plataforma europeia de resolução de litígios em linha (ODR) foi encerrada em 20/07/2025 (Reg. (UE) 2024/3228)",
+        "motivo": "A plataforma ODR foi descontinuada e o Reg. 524/2013 revogado com efeitos a 20/07/2025.",
+        "fonte": "https://publications.europa.eu/resource/celex/32024R3228"
+      },
+      {
+        "de": "Identificação → Obrigações DSA art. 30.º → Pedido de identificação do vendedor e/ou intervenção → Prazo → Participação à CNCS/DGC",
+        "para": "Identificação → Obrigações DSA art. 30.º e arts. 44.º e 45.º DL 84/2021 → Pedido de identificação do vendedor e/ou intervenção → Prazo → Reclamação ao Coordenador dos Serviços Digitais, a ANACOM (art. 53.º DSA; arts. 5.º e 11.º da Lei 12-A/2026), e participação à DGC/ASAE",
+        "motivo": "O CNCS não tem competência no DSA; o Coordenador dos Serviços Digitais é a ANACOM e a fiscalização do DL 84/2021 cabe à ASAE.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=4004A0005&nid=4004&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Os deveres de rastreabilidade (arts. 30.º a 32.º DSA) não se aplicam às plataformas que sejam micro ou pequenas empresas, salvo se forem de muito grande dimensão (art. 29.º DSA): confirmar a dimensão da plataforma antes de invocar o art. 30.º.",
+      "A responsabilidade solidária do art. 44.º DL 84/2021 depende da prova da influência predominante da plataforma (n.os 2 e 3); recolher prova de onde se pagou, quem fixou os termos e o preço e como a oferta era apresentada.",
+      "Nas vendas entre particulares (p. ex., OLX) o DL 84/2021 não se aplica ao vendedor; confirmar a informação dada pela plataforma sobre a qualidade do vendedor (art. 4.º-A DL 24/2014 e art. 45.º DL 84/2021).",
+      "O chargeback depende das regras do emitente e da rede do cartão, não de um direito legal do consumidor; confirmar prazos junto do banco."
+    ],
+    "fontes": [
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=3471A0044&nid=3471&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=3471A0045&nid=3471&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=3471A0012&nid=3471&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=3471A0047&nid=3471&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3471&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2062&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=726A0008&nid=726&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2425A0020&nid=2425&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=4004&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=4004A0005&nid=4004&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=4004A0011&nid=4004&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://publications.europa.eu/resource/celex/32022R2065",
+      "https://publications.europa.eu/resource/celex/32024R3228"
+    ]
+  },
+  {
+    "codigo": "CNS-035",
+    "veredicto": "corrigida",
+    "resumo": "A ficha apresentava um «Regulamento (UE) 2023/2673» como proibição geral de dark patterns: é uma diretiva sobre serviços financeiros à distância, que cria a função de retratação e só proíbe interfaces manipuladoras nos serviços financeiros, e não é o «Digital Fairness Act». Atribuía ao art. 9.º da Lei 24/96 um direito de rescisão que não consagra, citava o art. 13.º do DL 24/2014 (efeitos) em vez do art. 10.º e o art. 7.º do DL 57/2008 (ações enganosas) para as omissões, que estão no art. 9.º. A regra da simetria subscrição/cancelamento foi reconduzida ao art. 11.º, n.º 2, alínea d), do DL 57/2008 e ao art. 25.º do DSA; a descrição do índice foi corrigida.",
+    "descricao": "Redige comunicação para cancelar subscrições com renovação automática (ginásios, revistas digitais, software, serviços em linha) e exigir reembolso de cobranças indevidas após cancelamento, ao abrigo do DL n.º 24/2014, da Lei n.º 24/96 e do DL n.º 57/2008 (práticas comerciais desleais), com referência ao Regulamento (UE) 2022/2065 (Regulamento dos Serviços Digitais) quanto às interfaces das plataformas em linha.",
+    "descricao_en": "Drafts a communication to cancel automatically renewing subscriptions (gyms, digital magazines, software, online services) and to demand a refund of undue charges after cancellation, under Decree-Law No. 24/2014, Law No. 24/96 and Decree-Law No. 57/2008 (unfair commercial practices), with reference to Regulation (EU) 2022/2065 (Digital Services Act) on the interfaces of online platforms.",
+    "substituicoes": [
+      {
+        "de": "— O cancelamento deve ser tão fácil quanto a subscrição — obstáculos constituem dark patterns proibidos.",
+        "para": "— Entraves não contratuais onerosos ou desproporcionados ao cancelamento podem constituir prática comercial agressiva (art. 11.º, n.º 2, alínea d), DL 57/2008). Nas plataformas em linha, o art. 25.º do DSA proíbe interfaces enganosas ou manipuladoras, mas não se aplica às práticas abrangidas pelo DL 57/2008 (Diretiva 2005/29/CE); a Comissão pode emitir diretrizes sobre tornar o cancelamento mais difícil do que a subscrição (art. 25.º, n.º 3, alínea c), DSA). Não há regra geral expressa que imponha simetria entre subscrição e cancelamento [■ VERIFICAR: regimes setoriais aplicáveis, p. ex. comunicações eletrónicas].",
+        "motivo": "Não existe proibição geral de «dark patterns» com esse conteúdo; a base é o art. 11.º, n.º 2, alínea d), do DL 57/2008 e, nas plataformas, o art. 25.º do DSA.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1067A0011&nid=1067&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- DL 24/2014, art. 13.º: direito de livre resolução em contratos à distância",
+        "para": "- DL 24/2014, art. 10.º: direito de livre resolução em contratos à distância (14 dias)",
+        "motivo": "O art. 13.º trata das obrigações do consumidor após a resolução; o direito está no art. 10.º.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2062A0010&nid=2062&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- DL 57/2008, art. 7.º: práticas comerciais enganosas por omissão (não aviso da renovação)",
+        "para": "- DL 57/2008, art. 9.º: omissões enganosas (não aviso da renovação)",
+        "motivo": "O art. 7.º regula as ações enganosas; as omissões enganosas estão no art. 9.º.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1067A0009&nid=1067&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Lei 24/96, art. 9.º: direito a rescisão de contratos de execução continuada",
+        "para": "- Lei 24/96, art. 9.º: proteção dos interesses económicos — lealdade e boa-fé na vigência dos contratos (n.º 1), controlo das cláusulas pré-elaboradas (n.os 2 e 3) e não pagamento de serviços não solicitados ou que não constituam cumprimento de contrato válido (n.º 4); não consagra um direito geral de denúncia dos contratos de execução continuada",
+        "motivo": "O art. 9.º da Lei 24/96 não prevê um direito de rescisão de contratos de execução continuada.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=726A0009&nid=726&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Regulamento (UE) 2023/2673: proibição de dark patterns em interfaces digitais",
+        "para": "- Regulamento (UE) 2022/2065 (DSA), art. 25.º: proibição de interfaces enganosas ou manipuladoras nas plataformas em linha, fora das práticas abrangidas pelo DL 57/2008\n- Diretiva (UE) 2023/2673 (é uma diretiva, não um regulamento, e não é o «Digital Fairness Act»): altera a Diretiva 2011/83/UE nos contratos de serviços financeiros à distância; impõe uma função de retratação (livre resolução) nos contratos à distância celebrados através de interface em linha (art. 11.º-A da Diretiva 2011/83/UE) e só proíbe interfaces manipuladoras nos serviços financeiros (art. 16.º-E), com aplicação a partir de 19/06/2026 [■ VERIFICAR: transposição para o DL 24/2014]",
+        "motivo": "A Diretiva (UE) 2023/2673 respeita aos serviços financeiros à distância e à função de retratação; não proíbe dark patterns em geral.",
+        "fonte": "https://publications.europa.eu/resource/celex/32023L2673"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Não encontrámos na versão consolidada do DL 24/2014 (última alteração: Lei 10/2023) a transposição da Diretiva (UE) 2023/2673 (função de retratação, aplicável desde 19/06/2026); confirmar no Diário da República antes de a invocar.",
+      "O «Digital Fairness Act» não está em vigor; não o citar como fundamento.",
+      "Nas comunicações eletrónicas, ginásios e outros setores pode haver regras próprias sobre renovação, fidelização e denúncia; confirmar o regime setorial aplicável.",
+      "O direito de livre resolução de 14 dias respeita à celebração do contrato à distância; para a renovação contestada, analisar o contrato, o DL 446/85 e o art. 9.º, n.º 4, da Lei 24/96."
+    ],
+    "fontes": [
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1067A0011&nid=1067&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1067A0009&nid=1067&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1067A0019&nid=1067&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1067&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2062A0010&nid=2062&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2062&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=726A0009&nid=726&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=726&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://publications.europa.eu/resource/celex/32022R2065",
+      "https://publications.europa.eu/resource/celex/32023L2673"
+    ]
+  },
+  {
+    "codigo": "CNS-037",
+    "veredicto": "corrigida",
+    "resumo": "Os limites da comissão de reembolso antecipado estavam em dobro: o art. 19.º, n.º 4, do DL 133/2009 fixa 0,5 % e 0,25 % (os 1 % e 0,5 % são da diretiva), só em período de taxa fixa, com teto nos juros e exceções (seguro, descoberto). A ficha citava o art. 18.º (crédito coligado) para o reembolso antecipado, o art. 20.º (incumprimento) para a livre revogação, que está no art. 17.º, a «FINE» do crédito à habitação e o Aviso do BdP n.º 10/2014 como regra de cálculo da TAEG (está no art. 24.º e no anexo I). Acrescentou-se o pré-aviso de 30 dias, a correção das exclusões do art. 2.º e a nota sobre a Diretiva (UE) 2023/2225.",
+    "substituicoes": [
+      {
+        "de": "— O DL 133/2009 aplica-se a créditos entre €200 e €75.000, excluindo crédito à habitação e leasing (art. 2.º).",
+        "para": "— O DL 133/2009 aplica-se a créditos entre €200 e €75.000, excluindo, entre outros, os créditos garantidos por hipoteca ou outro direito sobre imóvel, os destinados a adquirir ou manter direitos sobre terrenos ou edifícios e a locação de bens móveis sem direito nem obrigação de compra (art. 2.º, n.º 1, DL 133/2009); a locação com direito ou obrigação de compra não é excluída por esta alínea.",
+        "motivo": "O art. 2.º não exclui o «leasing» em geral, só a locação sem direito nem obrigação de compra.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1107A0002&nid=1107&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "— A compensação por reembolso antecipado não pode exceder 1% (se prazo >1 ano) ou 0,5% (se prazo ≤1 ano) do montante reembolsado (art. 19.º, n.º 2).",
+        "para": "— A comissão de reembolso antecipado só é devida se o reembolso ocorrer em período de taxa nominal fixa e não pode exceder 0,5 % do capital reembolsado, se faltar mais de um ano para o termo do contrato, ou 0,25 %, se faltar um ano ou menos, nem o montante dos juros que o consumidor pagaria até ao termo do período de taxa fixa; não é devida no reembolso feito em execução de seguro destinado a garantir o crédito nem na facilidade de descoberto (art. 19.º, n.os 3 a 6, DL 133/2009).",
+        "motivo": "Os limites legais são 0,5 % e 0,25 % (art. 19.º, n.º 4), só em taxa fixa e com as exceções e o teto dos n.os 5 e 6.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1107A0019&nid=1107&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "— O credor deve reduzir os juros e encargos do período remanescente (art. 18.º, n.º 1).",
+        "para": "— O consumidor pode reembolsar antecipadamente, total ou parcialmente, a todo o tempo, com redução dos juros e encargos do período remanescente, mediante pré-aviso não inferior a 30 dias de calendário, em papel ou noutro suporte duradouro (art. 19.º, n.os 1 e 2, DL 133/2009).\n— A Diretiva (UE) 2023/2225 revoga a Diretiva 2008/48/CE a partir de 20/11/2026; os contratos em vigor nessa data continuam sujeitos ao regime anterior até à sua cessação [■ VERIFICAR: diploma português de transposição e regime dos contratos celebrados a partir de 20/11/2026].",
+        "motivo": "O reembolso antecipado está no art. 19.º (o art. 18.º é o crédito coligado); faltava o pré-aviso de 30 dias e a mudança de regime europeu em 20/11/2026.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1107A0019&nid=1107&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Deveres de informação (FIN/FINE) cumpridos à data da celebração",
+        "para": "- Deveres de informação pré-contratual (ficha «Informação normalizada europeia em matéria de crédito a consumidores», anexo II do DL 133/2009) cumpridos à data da celebração\n- Regime da taxa nominal (fixa ou variável) no período em que ocorre o reembolso",
+        "motivo": "A FINE é a ficha do crédito à habitação; no crédito aos consumidores é a do anexo II (art. 6.º). O tipo de taxa decide se há comissão.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1107A0006&nid=1107&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- DL 133/2009, art. 18.º: direito de reembolso antecipado",
+        "para": "- DL 133/2009, art. 19.º, n.os 1 e 2: direito de reembolso antecipado e pré-aviso mínimo de 30 dias de calendário",
+        "motivo": "O art. 18.º regula o contrato de crédito coligado; o reembolso antecipado é o art. 19.º.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1107A0019&nid=1107&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Art. 19.º: compensação máxima (1%/0,5%) e condições de exigência",
+        "para": "- Art. 19.º, n.os 3 a 6: comissão máxima (0,5 %/0,25 % do capital reembolsado), só em período de taxa fixa, limite dos juros até ao termo desse período e exceções",
+        "motivo": "Limites errados: 0,5 % e 0,25 % no DL 133/2009.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1107A0019&nid=1107&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Arts. 6.º e 7.º: deveres de informação pré-contratual (FINE)",
+        "para": "- Arts. 6.º e 7.º: informação pré-contratual (ficha de informação normalizada europeia, anexo II) e dever de assistência ao consumidor",
+        "motivo": "A FINE pertence ao crédito à habitação; o art. 7.º é o dever de assistência.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1107A0006&nid=1107&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Art. 20.º: direito de desistência (14 dias — para contratos novos)",
+        "para": "- Art. 17.º: direito de livre revogação (14 dias de calendário — para contratos recentes)",
+        "motivo": "O art. 20.º regula o incumprimento pelo consumidor; a livre revogação está no art. 17.º.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1107A0017&nid=1107&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Banco de Portugal: Aviso n.º 10/2014 (cálculo da TAEG)",
+        "para": "- Art. 24.º e anexo I: cálculo da TAEG\n- Aviso do Banco de Portugal n.º 10/2014: informação a prestar durante a vigência do contrato, incluindo a informação específica em caso de reembolso antecipado (art. 5.º, n.º 1, alínea c))",
+        "motivo": "O Aviso n.º 10/2014 regula a informação na vigência do contrato; a TAEG calcula-se pelo art. 24.º e anexo I do DL 133/2009.",
+        "fonte": "https://files.diariodarepublica.pt/2s/2014/12/234000000/3039930401.pdf"
+      },
+      {
+        "de": "- Compensação máxima legal: [€] (1% ou 0,5% × montante reembolsado)",
+        "para": "- Comissão máxima legal: [€] (0,5 % ou 0,25 % × capital reembolsado, só em período de taxa fixa e sem exceder os juros até ao termo desse período — art. 19.º, n.os 4 a 6)",
+        "motivo": "Limites e condições do art. 19.º do DL 133/2009.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1107A0019&nid=1107&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "Assunto: Reembolso Antecipado de Crédito — Art. 18.º DL n.º 133/2009",
+        "para": "Assunto: Reembolso Antecipado de Crédito — Art. 19.º DL n.º 133/2009",
+        "motivo": "Artigo errado: o reembolso antecipado é o art. 19.º.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1107A0019&nid=1107&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "**II. Exercício do direito de reembolso antecipado** (data e montante)",
+        "para": "**II. Exercício do direito de reembolso antecipado** (data, com pré-aviso mínimo de 30 dias de calendário, e montante)",
+        "motivo": "O pré-aviso não pode ser inferior a 30 dias de calendário (art. 19.º, n.º 2).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1107A0019&nid=1107&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- **TAEG:** [%]",
+        "para": "- **TAEG e tipo de taxa nominal (fixa/variável):** [%]",
+        "motivo": "Sem taxa fixa não há comissão de reembolso (art. 19.º, n.os 3 e 5).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1107A0019&nid=1107&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Confirmar a data de celebração do contrato: aos contratos em vigor a 20/11/2026 continua a aplicar-se o regime da Diretiva 2008/48/CE (DL 133/2009); para os posteriores, verificar se já existe diploma de transposição da Diretiva (UE) 2023/2225 (não encontrado na consulta).",
+      "Verificar no contrato se a taxa nominal é fixa no período do reembolso; em taxa variável não há comissão.",
+      "O DL 133/2009 foi alterado pelo DL 103/2025 (art. 21.º, cessão de créditos); confirmar se o crédito foi cedido e a quem dirigir a comunicação."
+    ],
+    "fontes": [
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1107&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1107A0002&nid=1107&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1107A0006&nid=1107&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1107A0017&nid=1107&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1107A0018&nid=1107&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1107A0019&nid=1107&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1107A0020&nid=1107&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1107A0024&nid=1107&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://files.diariodarepublica.pt/2s/2014/12/234000000/3039930401.pdf",
+      "https://publications.europa.eu/resource/celex/32023L2225"
+    ]
+  },
+  {
+    "codigo": "CNS-044",
+    "veredicto": "corrigida",
+    "resumo": "O mapa dos centros de RAL estava errado: o CIAB é um centro territorial do Norte (Braga, Viana do Castelo e outros municípios), não de telecomunicações, seguros e banca; o TRIAVE é o centro do Ave, Tâmega e Sousa, não de turismo; o CNIACC é supletivo nacional; o «CACCVS» não consta da lista; custos e prazos médios eram inventados. A gratuitidade categórica atribuída ao art. 15.º da Lei 144/2015 (que designa a DGC como autoridade competente) foi substituída pelo art. 10.º, n.º 3, e pelas taxas do Regulamento Harmonizado. A plataforma ODR, encerrada em 20/07/2025, foi substituída pelo Centro Europeu do Consumidor, também na descrição do índice.",
+    "descricao": "Identifica o centro de arbitragem de consumo competente para o litígio concreto, prepara o requerimento de RAL e guia o consumidor na submissão online junto dos centros de arbitragem de conflitos de consumo autorizados pelo Ministério da Justiça e inscritos na lista de entidades de RAL da Direção-Geral do Consumidor (a plataforma ODR da Comissão Europeia foi encerrada em 20/07/2025), ao abrigo da Lei n.º 144/2015, de 8 de setembro.",
+    "descricao_en": "Identifies the consumer arbitration centre competent for the specific dispute, prepares the ADR (RAL) application and guides the consumer through online filing with the consumer arbitration centres authorised by the Ministry of Justice and listed by the Directorate-General for Consumer Affairs (the European Commission's ODR platform closed on 20/07/2025), under Law No. 144/2015 of 8 September.",
+    "substituicoes": [
+      {
+        "de": "— Identifica sempre o centro competente com base no setor (telecomunicações → CIAB/ANACOM; turismo → TRIAVE; Lisboa → CACCL; geral online → CNIACC; serviços essenciais → vários) e na morada do consumidor.",
+        "para": "— Identifica sempre a entidade competente na lista de entidades de RAL da Direção-Geral do Consumidor (art. 17.º Lei 144/2015). Os centros de arbitragem de conflitos de consumo de competência genérica têm âmbito territorial e são competentes quando o domicílio do consumidor ou o local da contratação se situam na sua área: CACCL (Lisboa), CICAP (Área Metropolitana do Porto), CIAB (Braga, Viana do Castelo e outros municípios do Norte), TRIAVE (Ave, Tâmega e Sousa), CACRC (região de Coimbra), CIMAAL (Algarve), CIMARA (Açores) e o centro da Madeira [■ VERIFICAR]; o CNIACC funciona supletivamente em todo o território nacional, nas áreas não cobertas pelos restantes. Há ainda entidades setoriais [■ VERIFICAR: setores e entidades na lista da DGC]. A ANACOM é o regulador das comunicações eletrónicas, não um centro de arbitragem.",
+        "motivo": "A competência dos centros genéricos é territorial, não setorial; o CIAB e o TRIAVE não são centros de telecomunicações nem de turismo.",
+        "fonte": "https://dgpj.justica.gov.pt/resolucao-de-litigios/arbitragem/centros-de-arbitragem-apoiados"
+      },
+      {
+        "de": "— A arbitragem é GRATUITA para o consumidor nos litígios de serviços essenciais (Lei 144/2015, art. 15.º).",
+        "para": "— Os procedimentos de RAL são gratuitos ou sujeitos a taxa de valor reduzido (art. 10.º, n.º 3, Lei 144/2015). Nos centros de competência genérica, o Regulamento Harmonizado prevê taxa de arbitragem por escalões de valor e isenta os processos de serviços públicos essenciais abrangidos por protocolos com os reguladores setoriais e os beneficiários de apoio judiciário; o limite de valor é, em regra, de €30.000, sem limite nos serviços públicos essenciais. Confirmar sempre no regulamento e na tabela do centro escolhido.",
+        "motivo": "O art. 15.º da Lei 144/2015 designa a DGC como autoridade competente; a regra de custo é o art. 10.º, n.º 3, e a isenção depende do regulamento do centro.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2425A0010&nid=2425&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "| Centro | Competência | Custo | Prazo médio | Como submeter |\n|--------|------------|-------|-------------|---------------|\n| CACCL | Litígios de consumo em Lisboa | Gratuito (serv. essenciais); taxa simbólica outros | 90 dias | lisboaarbitragem.pt |\n| CIAB | Telecomunicações, seguros, banca | Gratuito consumidor | 60-90 dias | ciab.pt |\n| CNIACC | Litígios nacionais online | Gratuito | 90 dias | cniacc.pt |\n| TRIAVE | Turismo e viagens | Gratuito consumidor | 70 dias | triave.pt |\n| CACCVS | Vale do Sousa | Gratuito | 90 dias | |\n| ODR UE | Profissional noutro EM | Gratuito | Variável | ec.europa.eu/consumers/odr |",
+        "para": "| Centro | Competência | Custo | Prazo legal | Como submeter |\n|--------|------------|-------|-------------|---------------|\n| CACCL — Centro de Arbitragem de Conflitos de Consumo de Lisboa | Territorial: Lisboa [■ VERIFICAR: municípios abrangidos] | Taxa de arbitragem por escalão de valor, com as isenções do regulamento [■ VERIFICAR: tabela do centro] | Decisão até 90 dias após o processo completo, prorrogável até duas vezes (art. 10.º, n.os 5 e 6, Lei 144/2015) | centroarbitragemlisboa.pt |\n| CICAP — Centro de Informação de Consumo e Arbitragem do Porto | Territorial: Área Metropolitana do Porto | Idem [■ VERIFICAR: tabela do centro] | Idem | cicap.pt |\n| CIAB — Centro de Informação, Mediação e Arbitragem de Consumo | Territorial: Braga, Viana do Castelo e outros municípios do Norte | Idem [■ VERIFICAR: tabela do centro] | Idem | ciab.pt |\n| TRIAVE — Centro de Arbitragem de Conflitos de Consumo do Ave, Tâmega e Sousa | Territorial: Ave, Tâmega e Sousa | Taxa de €10 a €100 por escalão de valor; isenção nos serviços públicos essenciais abrangidos por protocolo | Idem | triave.pt |\n| CNIACC — Centro Nacional de Informação e Arbitragem de Conflitos de Consumo | Supletiva em todo o território nacional, nas áreas sem centro regional | [■ VERIFICAR: tabela de preços do centro] | Idem | cniacc.pt |\n| Outros centros e entidades setoriais | CACRC (Coimbra), CIMAAL (Algarve), CIMARA (Açores), Madeira e entidades setoriais [■ VERIFICAR: lista da DGC] | [■ VERIFICAR] | Idem | Lista de entidades de RAL da DGC |\n| Centro Europeu do Consumidor | Profissional noutro Estado-Membro: ajuda a aceder à entidade de RAL competente (art. 20.º, n.º 1, Lei 144/2015); a plataforma ODR da UE foi encerrada em 20/07/2025 (Reg. (UE) 2024/3228) | [■ VERIFICAR] | Variável | [■ VERIFICAR: sítio do CEC] |",
+        "motivo": "Competências, custos e prazos médios inventados; centro «CACCVS» inexistente na lista; plataforma ODR encerrada.",
+        "fonte": "https://dgpj.justica.gov.pt/resolucao-de-litigios/arbitragem/centros-de-arbitragem-apoiados"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Confirmar a área geográfica de cada centro nos despachos publicados no sítio da DGPJ (houve alargamentos em 2025: Despachos n.os 3076, 3077 e 3078/2025) e o sítio e contactos atuais de cada centro.",
+      "A lista de entidades de RAL da DGC não pôde ser consultada (acesso automático bloqueado); confirmar as entidades setoriais (p. ex., seguros, setor automóvel, agências de viagens) e as respetivas taxas.",
+      "Nos serviços públicos essenciais, ponderar a arbitragem necessária por opção do consumidor [■ VERIFICAR: art. 15.º da Lei 23/96].",
+      "A participação do profissional é voluntária fora da arbitragem necessária e da adesão plena ao centro; confirmar se o profissional aderiu ao centro."
+    ],
+    "fontes": [
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2425&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2425A0010&nid=2425&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2425A0015&nid=2425&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2425A0017&nid=2425&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2425A0020&nid=2425&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://dgpj.justica.gov.pt/resolucao-de-litigios/arbitragem/centros-de-arbitragem-apoiados",
+      "https://dgpj.justica.gov.pt/Noticias-da-DGPJ/Ampliacao-da-competencia-territorial-de-Centros-de-Arbitragem",
+      "https://www.triave.pt/wp-content/uploads/2026/03/TRIAVE-Regulamento-Harmonizado.pdf",
+      "https://www.cniacc.pt/pt",
+      "https://www.triave.pt/",
+      "https://publications.europa.eu/resource/celex/32024R3228"
+    ]
+  }
+]

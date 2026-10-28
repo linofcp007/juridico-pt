@@ -1,0 +1,160 @@
+[
+ {
+  "codigo": "BAN-050",
+  "veredicto": "corrigida",
+  "resumo": "A ficha atribuía ao art. 4.º do Aviso 8/2009 um pré-aviso de 60 dias (o art. 4.º trata da afixação do preçário; o Aviso fixa 30 dias no art. 5.º, n.º 2, e nas contas de pagamento o pré-aviso é de dois meses, pelo art. 93.º do RJSPME), localizava as comissões proibidas do crédito à habitação no art. 22.º do DL 74-A/2017 (estão nos arts. 23.º, 25.º e 28.º-A) e dava os serviços mínimos bancários como gratuitos ao abrigo do DL 107/2017, quando o regime é o do DL 27-C/2000, com teto anual de 1 % do IAS. Substituiu-se também a referência a uma «tabela de comissões máximas» do Banco de Portugal pelos limites legais concretos (DL 3/2010).",
+  "substituicoes": [
+   {
+    "de": "- Comunicação prévia: foi o cliente informado com antecedência mínima de 60 dias (art. 4.º Aviso 8/2009)?",
+    "para": "- Comunicação prévia: foi o cliente informado da alteração com a antecedência mínima aplicável? Nas contas de pagamento (contas à ordem), a alteração do contrato-quadro tem de ser proposta até dois meses antes da data de aplicação, podendo o cliente rejeitá-la e resolver o contrato sem encargos (art. 93.º, n.ºs 1, 2 e 4, do Regime Jurídico dos Serviços de Pagamento e da Moeda Eletrónica, anexo ao DL 91/2018); nos restantes casos, a alteração do preçário é comunicada com 30 dias de antecedência, salvo prazo legal diferente (art. 5.º, n.º 2, do Aviso do Banco de Portugal n.º 8/2009). Só podem ser cobradas as comissões previstas no Folheto de Comissões e Despesas e até ao montante aí indicado (art. 6.º, n.º 4, do Aviso 8/2009)",
+    "motivo": "O art. 4.º do Aviso 8/2009 trata da divulgação do preçário e não fixa 60 dias; o pré-aviso é de 30 dias (art. 5.º, n.º 2, do Aviso) e, nas contas de pagamento, de dois meses (art. 93.º do RJSPME).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2954&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Conformidade com os limites do Banco de Portugal: Tabela de comissões máximas (se aplicável)",
+    "para": "- Conformidade com os limites legais: tetos e proibições de comissões fixados por lei, p. ex. nos arts. 3.º-B a 3.º-D do DL 3/2010 (habilitação de herdeiros até 10 % do IAS; alteração da titularidade da conta nas situações do art. 3.º-C, como divórcio ou óbito; fotocópias de documentos e segundas vias de extratos; depósito de moedas até 2 % do valor da operação)",
+    "motivo": "Os tetos e proibições de comissões resultam da lei (DL 3/2010, aditado pela Lei 24/2023), não de uma tabela de comissões máximas do Banco de Portugal.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3645&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Comissões proibidas em crédito à habitação (art. 22.º DL 74-A/2017): renegociação, transferência, amortização antecipada (limites estritos)",
+    "para": "- Comissões proibidas ou limitadas no crédito à habitação (DL 74-A/2017): reembolso antecipado, parcial ou total, incluindo para transferência do crédito, com comissão máxima de 0,5 % do capital reembolsado em taxa variável e de 2 % em taxa fixa, e sem comissão em caso de morte, desemprego ou deslocação profissional (art. 23.º, n.ºs 5 e 9); análise da renegociação (art. 25.º, n.º 1); processamento de prestações, emissão do distrate e declarações de dívida para acesso a apoios sociais (art. 28.º-A, n.º 1); [■ VERIFICAR: se ainda vigora a suspensão temporária da comissão de reembolso antecipado nos contratos a taxa variável (DL 80-A/2022 e prorrogações)]",
+    "motivo": "O art. 22.º do DL 74-A/2017 trata da informação durante e após o contrato; os limites e proibições de comissões estão nos arts. 23.º, 25.º e 28.º-A.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2842&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Comissões em serviços mínimos bancários: zero (art. 3.º DL 107/2017 — conta básica gratuita)",
+    "para": "- Comissões em serviços mínimos bancários (DL 27-C/2000): a conta não é necessariamente gratuita, mas o conjunto anual de comissões, despesas e encargos não pode exceder 1 % do IAS, montante que já abrange as transferências indicadas no n.º 2 (art. 3.º, n.ºs 1 e 2, do DL 27-C/2000; valor do IAS do ano em `references/valores-2026.md`)",
+    "motivo": "O regime dos serviços mínimos bancários é o DL 27-C/2000, que limita as comissões a 1 % do IAS por ano; não há gratuitidade geral nem esse regime está no art. 3.º do DL 107/2017.",
+    "fonte": "https://www.bportugal.pt/sites/default/files/anexos/legislacoes/437658111_1.doc.pdf"
+   },
+   {
+    "de": "- [ ] Comunicações do banco sobre alteração de comissões (verificar prazo de 60 dias)",
+    "para": "- [ ] Comunicações do banco sobre alteração de comissões (verificar o pré-aviso: dois meses nas contas de pagamento; 30 dias nos restantes casos, salvo prazo legal diferente)",
+    "motivo": "Coerência com o pré-aviso legal corrigido (art. 93.º, n.º 1, do RJSPME; art. 5.º, n.º 2, do Aviso 8/2009).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2954&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar se a conta em causa é conta de pagamento sujeita ao RJSPME e se o cliente é consumidor ou microempresa: fora desses casos, as partes podem afastar o regime da informação e da alteração do contrato-quadro (art. 76.º, n.ºs 2 e 3, do RJSPME).",
+   "Confirmar se o Aviso do Banco de Portugal n.º 8/2009 sofreu alterações (consultou-se a versão publicada em 2009, ainda citada nos preçários de 2026).",
+   "Confirmar a redação atual do DL 27-C/2000 e do DL 3/2010 depois da Lei 24/2023 (última alteração encontrada) e o valor do IAS de 2026.",
+   "Confirmar se se mantém a suspensão da comissão de reembolso antecipado nos créditos à habitação a taxa variável (DL 80-A/2022 e prorrogações).",
+   "A devolução de comissões indevidas segue a repetição do indevido; os juros de mora contam-se da interpelação (arts. 805.º e 806.º CC)."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2954&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.bportugal.pt/sites/default/files/anexos/legislacoes/335415275_3.docx.pdf",
+   "https://www.bportugal.pt/sites/default/files/anexos/cartas-circulares/8-2009a.pdf",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2842&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.bportugal.pt/sites/default/files/anexos/legislacoes/447011722_4.doc.pdf",
+   "https://www.bportugal.pt/sites/default/files/anexos/legislacoes/437658111_1.doc.pdf",
+   "https://www.bportugal.pt/sites/default/files/anexos/legislacoes/305422229_2.doc.pdf",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3645&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.madeira.gov.pt//Portals/33/Documentos/Legislacao/Lei%20n.%2024-2023%2C%20de%2029%20de%20maio.pdf"
+  ]
+ },
+ {
+  "codigo": "BAN-052",
+  "veredicto": "corrigida",
+  "resumo": "A ficha atribuía ao art. 102.º LCS um prazo de 30 dias para «proposta de regularização» e «juros de mora qualificados»: o art. 102.º fixa a obrigação de prestar após o apuramento do sinistro e o vencimento a 30 dias está no art. 104.º, sendo a proposta razoável e os juros em dobro próprios do seguro automóvel (DL 291/2007). Corrigiu-se a venda associada (é o art. 26.º do regime anexo à Lei 7/2019, não o art. 58.º, que trata do certificado de registo) e o prazo de 20 dias úteis, que diz respeito à resposta da seguradora e não ao Provedor do Cliente, ficando este em verificação. A descrição do índice citava regimes revogados (DL 94-B/98, alterado pelo DL 2/2009, substituído pela Lei 147/2015; DL 176/95, quase todo revogado pelo DL 72/2008).",
+  "descricao": "Elabora reclamação formal dirigida à Autoridade de Supervisão de Seguros e Fundos de Pensões (ASF), abrangendo seguros de ramo vida e não vida, fundos de pensões e distribuição (mediação) de seguros, por violação de deveres de informação, recusa de cobertura, incumprimento de prazos de resposta ou práticas comerciais desleais, ao abrigo do Regime Jurídico do Contrato de Seguro (DL 72/2008), do Regime Jurídico de Acesso e Exercício da Atividade Seguradora e Resseguradora (Lei 147/2015) e do Regime Jurídico da Distribuição de Seguros e de Resseguros (Lei 7/2019).",
+  "descricao_en": "Prepares a formal complaint to the Insurance and Pension Funds Supervisory Authority (Autoridade de Supervisão de Seguros e Fundos de Pensões, ASF), covering life and non-life insurance, pension funds and insurance distribution (mediation), for breach of information duties, refusal of cover, failure to meet response deadlines or unfair commercial practices, under the Insurance Contract Law (Decree-Law 72/2008), the Legal Regime for Access to and Exercise of Insurance and Reinsurance Activity (Law 147/2015) and the Legal Regime for Insurance and Reinsurance Distribution (Law 7/2019).",
+  "substituicoes": [
+   {
+    "de": "- Prazos legais violados: art. 102.º LCS (30 dias para proposta de regularização de sinistro não vida)",
+    "para": "- Prazos legais violados: a prestação do segurador vence-se 30 dias depois de apurados o sinistro e as suas causas, circunstâncias e consequências (arts. 102.º, n.º 1, e 104.º LCS); no seguro automóvel, prazos próprios de regularização e de proposta razoável de indemnização (arts. 36.º a 39.º do DL 291/2007)",
+    "motivo": "O art. 102.º LCS não fixa prazo para proposta de regularização; o vencimento a 30 dias está no art. 104.º e os prazos de regularização com proposta razoável são do seguro automóvel.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2657A0107&nid=2657&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Dever de regularização célere (art. 102.º LCS) e suas consequências (juros de mora qualificados)",
+    "para": "- Dever de realizar a prestação após o apuramento do sinistro (arts. 102.º e 104.º LCS); a mora do segurador dá lugar a juros de mora nos termos gerais (art. 806.º CC); juros no dobro da taxa legal só no seguro automóvel, quando falte ou seja manifestamente insuficiente a proposta razoável (arts. 38.º, n.ºs 2 e 3, e 39.º do DL 291/2007)",
+    "motivo": "A LCS não prevê juros de mora agravados; os juros no dobro da taxa legal são do regime do seguro automóvel obrigatório.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=973A0038&nid=973&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Regras sobre venda associada (art. 58.º Lei 7/2019 — não obrigatória salvo exceções)",
+    "para": "- Regras sobre vendas associadas (art. 26.º do regime anexo à Lei 7/2019): informar se os componentes do pacote podem ser adquiridos separadamente, com os custos de cada um; sendo o seguro acessório de um bem ou serviço, oferecer a compra desse bem ou serviço em separado, salvo quando o seguro é acessório de crédito à habitação, de serviço de investimento ou de conta de pagamento (n.ºs 1, 3 e 4)",
+    "motivo": "O art. 58.º do regime anexo à Lei 7/2019 trata do certificado de registo; as vendas associadas estão no art. 26.º, com o conteúdo indicado.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2990&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Provedor do Cliente da seguradora: obrigação de resposta em 20 dias úteis",
+    "para": "- Gestão de reclamações e Provedor do Cliente da seguradora: o provedor aprecia as reclamações a que a seguradora não respondeu no prazo ou cuja resposta o reclamante não aceita [■ VERIFICAR: na Norma Regulamentar da ASF n.º 7/2022-R, o prazo de resposta da seguradora (20 dias úteis, prorrogável para 30 nos casos complexos) e o prazo de apreciação pelo provedor]",
+    "motivo": "O prazo de 20 dias úteis refere-se, segundo as fontes secundárias, à resposta da seguradora à reclamação, não ao provedor; o texto da norma da ASF não pôde ser lido (sítio da ASF com verificação de segurança).",
+    "fonte": ""
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Ler a Norma Regulamentar da ASF n.º 7/2022-R (o sítio da ASF não foi acessível) e confirmar os prazos de resposta da seguradora e do Provedor do Cliente e se a reclamação à ASF exige reclamação prévia à seguradora.",
+   "Seguro de grupo vendido por banco: a distribuição de seguros por entidades com sede em Portugal é supervisionada pela ASF (art. 5.º, n.º 1, do regime anexo à Lei 7/2019); se o banco for tomador do seguro de grupo, ver também os seus deveres de informação aos aderentes (arts. 78.º e 79.º LCS).",
+   "Seguros associados a crédito: confirmar o efeito da Lei 14/2026 e do DL 79/2026, que alteraram o DL 74-A/2017 e a LCS.",
+   "A ASF supervisiona e sanciona, mas não fixa indemnizações: para obter o pagamento, RAL de seguros ou tribunal.",
+   "Os deveres do mediador estão nos arts. 24.º a 35.º do regime anexo à Lei 7/2019 (a ficha cita os arts. 24.º a 30.º): confirmar quais se aplicam ao caso."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2657&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2657A0107&nid=2657&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=973A0038&nid=973&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2990&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675",
+   "https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2009-396962",
+   "https://www.gov.pt/entidades/autoridade-de-supervisao-de-seguros-e-fundos-de-pensoes",
+   "https://www.asf.com.pt/documents/114053/114092/Norman72022Rde7dejunho.pdf/541245b5-b598-bcb1-a74a-0728ce211385?version=2.33&t=1704906754204"
+  ]
+ },
+ {
+  "codigo": "BAN-055",
+  "veredicto": "corrigida",
+  "resumo": "A ficha fundava o seguro de RC dos mediadores no art. 29.º do regime anexo à Lei 7/2019 (que trata dos deveres para com as seguradoras) e indicava o capital de 2019 (1 300 380 € por sinistro), sem o limite anual; corrigiu-se para os arts. 16.º e 18.º, com os montantes em vigor desde 9/10/2024 (Regulamento Delegado (UE) 2024/896), e acrescentou-se o art. 15.º do DL 81-C/2017 para os intermediários de crédito. A ação direta do lesado no seguro obrigatório está no art. 146.º LCS, não no art. 140.º, que só a admite no facultativo se prevista ou com negociações diretas. A descrição citava o DL 148/2006 como regime dos mediadores de crédito, quando é o DL 81-C/2017, autorizado pelo Banco de Portugal.",
+  "descricao": "Analisa contratos de seguro de responsabilidade civil profissional (RC Profissional) obrigatórios para mediadores de seguros, gestores de patrimónios, consultores de investimento e intermediários de crédito, verificando adequação das coberturas, limites e exclusões, e elabora participação de sinistro ou contestação de recusa, ao abrigo da Lei 7/2019 (distribuição de seguros), do DL 81-C/2017 (intermediários de crédito) e da regulamentação da ASF, da CMVM e do Banco de Portugal.",
+  "descricao_en": "Analyses the compulsory professional indemnity insurance (RC Profissional) contracts of insurance intermediaries, asset managers, investment advisers and credit intermediaries, checking whether cover, limits and exclusions are adequate, and prepares a claim notification or a challenge to a refusal, under Law 7/2019 (insurance distribution), Decree-Law 81-C/2017 (credit intermediaries) and the regulations of the ASF, the CMVM and the Banco de Portugal.",
+  "substituicoes": [
+   {
+    "de": "- Exigência legal de RC profissional: art. 29.º Lei 7/2019 (mediadores de seguros — capital mínimo €1.300.380 por sinistro)",
+    "para": "- Exigência legal de RC profissional: agentes e corretores de seguros — arts. 16.º, n.º 1, al. c), e 18.º, n.º 1, al. c), do regime anexo à Lei 7/2019 (montantes-base de 1 250 000 € por sinistro e 1 850 000 € por anuidade, revistos periodicamente pela Comissão Europeia; desde 9/10/2024, 1 564 610 € por sinistro e 2 315 610 € por anuidade, nos termos do Regulamento Delegado (UE) 2024/896); o agente fica dispensado se a cobertura estiver incluída em seguro da empresa de seguros por conta da qual atua; intermediários de crédito — art. 15.º do DL 81-C/2017 (no crédito à habitação, montantes mínimos fixados pela Comissão Europeia; nos restantes contratos de crédito, por portaria)",
+    "motivo": "O art. 29.º trata dos deveres do mediador para com as seguradoras; a exigência de RC está nos arts. 16.º e 18.º, e o capital de 1 300 380 € foi atualizado em 2024, com limite anual que a ficha omitia.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2990&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Ação direta do lesado contra o seguro RC (art. 140.º LCS — possível no RC obrigatório)",
+    "para": "- Ação direta do lesado contra o segurador: no seguro obrigatório de RC, o lesado pode exigir a indemnização diretamente ao segurador (art. 146.º, n.º 1, LCS); no seguro facultativo, só se o contrato o previr ou se o segurado o tiver informado do seguro e se tiverem iniciado negociações diretas (art. 140.º, n.ºs 2 e 3, LCS)",
+    "motivo": "O direito do lesado no seguro obrigatório de RC está no art. 146.º LCS; o art. 140.º regula a defesa jurídica e a ação direta no seguro facultativo.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2657A0150&nid=2657&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "[Invocação do art. 140.º LCS — ação direta no RC obrigatório]",
+    "para": "[Invocação do art. 146.º, n.º 1, LCS — direito do lesado no seguro obrigatório de RC (no facultativo, art. 140.º, n.ºs 2 e 3, LCS)]",
+    "motivo": "Mesma correção da norma da ação direta.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2657A0150&nid=2657&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Prova do registo/autorização do profissional (ASF ou CMVM)",
+    "para": "- [ ] Prova do registo/autorização do profissional (ASF, CMVM ou, no caso dos intermediários de crédito, Banco de Portugal)",
+    "motivo": "Os intermediários de crédito são autorizados pelo Banco de Portugal (art. 19.º, n.º 1, do DL 81-C/2017).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=3247A0015&nid=3247&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- N.º de registo ASF/CMVM: [■ VERIFICAR]",
+    "para": "- N.º de registo ASF/CMVM/Banco de Portugal: [■ VERIFICAR]",
+    "motivo": "Coerência com a entidade que autoriza os intermediários de crédito.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=3247A0015&nid=3247&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar a divulgação, pela ASF, dos montantes atualizados de RC dos mediadores (art. 16.º, n.º 2, e art. 18.º, n.º 4, do regime anexo à Lei 7/2019) e se o DL 171/2026, que alterou a Lei 7/2019, mexeu nesta matéria.",
+   "Intermediários de crédito: confirmar a portaria que fixa as condições mínimas do seguro e os montantes em vigor para o crédito à habitação, e a dispensa dos vinculados quando o mutuante assume a responsabilidade (art. 15.º do DL 81-C/2017).",
+   "Gestores de patrimónios e consultores para investimento: confirmar no respetivo regime (CVM e CMVM) se o seguro de RC é obrigatório e com que montantes; sem obrigatoriedade legal, a ação direta segue o art. 140.º LCS.",
+   "Apólices claims-made: confirmar o período de cobertura e a retroatividade à luz do art. 139.º LCS e os meios de defesa oponíveis ao lesado no seguro obrigatório (art. 147.º LCS)."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2990&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://publications.europa.eu/resource/celex/32024R0896",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=3247A0015&nid=3247&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2657&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2657A0145&nid=2657&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2657A0150&nid=2657&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+  ]
+ }
+]

@@ -3,20 +3,22 @@ codigo: FAM-032
 area: "Direito da Família e das Crianças"
 titulo: "Cálculo da Partilha de Bens Comuns do Casal (Meação)"
 titulo_en: "Calculation of the Division of the Couple's Common Property (Meação)"
-descricao: "Gera o cálculo detalhado da meação do casal após o divórcio ou dissolução da união de facto, identificando os bens comuns e os bens próprios de cada cônjuge, apurando o valor ativo e passivo da comunhão, calculando as tornas devidas e estruturando a relação de bens para inventário ou escritura de partilha, nos termos do Código Civil e do Código de Processo Civil."
-descricao_en: "Generates a detailed calculation of the couple's half shares (meação) after divorce or dissolution of a de facto union, identifying the common property and each spouse's separate property, determining the assets and liabilities of the community, calculating the equalisation payments (tornas) due and structuring the list of assets for inventory proceedings or a deed of division, under the Civil Code and the Code of Civil Procedure."
+descricao: "Gera o cálculo detalhado da meação do casal após o divórcio, a separação judicial de pessoas e bens ou a declaração de nulidade ou anulação do casamento, identificando os bens comuns e os bens próprios de cada cônjuge, apurando o valor ativo e passivo da comunhão, calculando as tornas devidas e estruturando a relação de bens para inventário ou escritura de partilha, nos termos do Código Civil e do Código de Processo Civil. A união de facto não tem regime de bens nem meação."
+descricao_en: "Generates a detailed calculation of the spouses' half shares (meação) after divorce, judicial separation or annulment of the marriage, identifying the common property and each spouse's separate property, determining the assets and liabilities of the community, calculating the equalisation payments (tornas) due and structuring the list of assets for inventory proceedings or a deed of division, under the Civil Code and the Code of Civil Procedure. A de facto union has no matrimonial property regime and no meação."
 ambito: nacional
-estado_citacoes: "conferidas 0 · corrigidas 1 · por conferir 0"
+estado_citacoes: "conferidas 2 · corrigidas 0 · por conferir 0"
+revisao_tecnica: "2026-10-28 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
 # Cálculo da Partilha de Bens Comuns do Casal (Meação)
 
 > **Âmbito:** nacional · **Área:** Direito da Família e das Crianças · **Código:** FAM-032
-> **EN:** Calculation of the Division of the Couple's Common Property (Meação). Generates a detailed calculation of the couple's half shares (meação) after divorce or dissolution of a de facto union, identifying the common property and each spouse's separate property, determining the assets and liabilities of the community, calculating the equalisation payments (tornas) due and structuring the list of assets for inventory proceedings or a deed of division, under the Civil Code and the Code of Civil Procedure.
-> **Citações:** conferidas 0 · corrigidas 1 · por conferir 0. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **EN:** Calculation of the Division of the Couple's Common Property (Meação). Generates a detailed calculation of the spouses' half shares (meação) after divorce, judicial separation or annulment of the marriage, identifying the common property and each spouse's separate property, determining the assets and liabilities of the community, calculating the equalisation payments (tornas) due and structuring the list of assets for inventory proceedings or a deed of division, under the Civil Code and the Code of Civil Procedure. A de facto union has no matrimonial property regime and no meação.
+> **Citações:** conferidas 2 · corrigidas 0 · por conferir 0. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-28 — corrigida (8 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
-Gera o cálculo detalhado da meação do casal após o divórcio ou dissolução da união de facto, identificando os bens comuns e os bens próprios de cada cônjuge, apurando o valor ativo e passivo da comunhão, calculando as tornas devidas e estruturando a relação de bens para inventário ou escritura de partilha, nos termos do Código Civil e do Código de Processo Civil.
+Gera o cálculo detalhado da meação do casal após o divórcio, a separação judicial de pessoas e bens ou a declaração de nulidade ou anulação do casamento, identificando os bens comuns e os bens próprios de cada cônjuge, apurando o valor ativo e passivo da comunhão, calculando as tornas devidas e estruturando a relação de bens para inventário ou escritura de partilha, nos termos do Código Civil e do Código de Processo Civil. A união de facto não tem regime de bens nem meação.
 
 ## Método
 
@@ -41,7 +43,7 @@ Calcular a partilha de bens comuns do casal (meação), identificando bens comun
 Antes de calcular, analisa os factos e apresenta dentro de um bloco <analise_do_caso>:
 - Qual é o regime de bens do casamento? (comunhão de adquiridos / comunhão geral / separação)
 - Quando foi celebrado o casamento? (relevante para bens adquiridos antes)
-- Existem bens recebidos por herança ou doação durante o casamento? (bens próprios no regime de comunhão de adquiridos — art. 1.733.º CC)
+- Existem bens recebidos por herança ou doação durante o casamento? (próprios na comunhão de adquiridos — art. 1.722.º, n.º 1, al. b), CC; na comunhão geral são comuns, salvo cláusula de incomunicabilidade, de reversão ou fideicomissária — art. 1.733.º, n.º 1, als. a) e b), CC)
 - Há bens adquiridos antes do casamento ainda na esfera comum? (bens próprios — art. 1.722.º CC)
 - Existem dívidas comuns a considerar no passivo?
 - Há benfeitorias em bens próprios pagas com dinheiro comum (direito a compensação)?
@@ -53,16 +55,18 @@ Apresenta dentro de um bloco <fundamentos_juridicos>:
 - Regime de bens aplicável: arts. 1.717.º ss. CC (regimes de bens)
 - Art. 1.724.º CC (bens comuns no regime de comunhão de adquiridos)
 - Arts. 1.722.º e 1.723.º CC (bens próprios de cada cônjuge)
-- Art. 1.733.º CC (bens próprios no regime de comunhão geral: doações, heranças, etc.)
-- Arts. 1.689.º e 1.690.º CC (liquidação da comunhão)
+- Art. 1.733.º CC (bens incomunicáveis na comunhão geral: só as doações e deixas com cláusula de incomunicabilidade, de reversão ou fideicomissária; o usufruto, uso ou habitação e direitos estritamente pessoais; certas indemnizações e seguros; os objetos de uso pessoal; as recordações de família de diminuto valor; os animais de companhia anteriores ao casamento)
+- Art. 1.689.º CC (partilha do casal: cada cônjuge recebe os bens próprios e a meação no património comum, conferindo o que dever a este; pagam-se primeiro as dívidas comunicáveis)
+- Art. 1.730.º CC (participação por metade no ativo e no passivo da comunhão)
+- Art. 1.790.º CC (em caso de divórcio, nenhum cônjuge pode receber na partilha mais do que receberia se o casamento tivesse sido celebrado em comunhão de adquiridos — limita a meação na comunhão geral)
 - Arts. 1.691.º e 1.692.º CC (dívidas comuns e dívidas próprias)
-- Art. 1.697.º CC (direito de compensação entre o patrimônio comum e o próprio)
-- Arts. 2.101.º ss. CC e arts. 1082.º ss. CPC (inventário e partilha)
+- Art. 1.697.º CC (compensações pelo pagamento de dívidas do casal) e arts. 1.722.º, n.º 2, 1.726.º, n.º 2, 1.727.º e 1.728.º, n.º 1, CC (compensações entre o património comum e os patrimónios próprios)
+- Art. 1133.º CPC (inventário para partilha dos bens comuns em consequência de separação, divórcio, declaração de nulidade ou anulação do casamento; cabeça de casal: o cônjuge mais velho) e arts. 1082.º e ss. CPC (regime geral do inventário)
 
 ### ETAPA 3 — CONSTRUÇÃO ARGUMENTATIVA (Metodologia de Cálculo)
 Apresenta dentro de um bloco <estrategia>:
 - Qualificação de cada bem listado (comum ou próprio) com fundamentação
-- Identificação de compensações devidas entre patrimónios (art. 1.697.º CC)
+- Identificação de compensações devidas entre patrimónios (arts. 1.689.º, n.º 1, 1.697.º e 1.726.º, n.º 2, CC)
 - Metodologia para calcular o valor do quinhão de cada cônjuge
 - Identificação de bens que podem ser difíceis de avaliar ou de partilhar (empresa, quotas sociais)
 - Estratégia de negociação: atribuição direta de bens vs. venda e divisão do produto
@@ -86,10 +90,10 @@ Para cada bem próprio:
 | Ativo total dos bens comuns | |
 | Passivo (dívidas comuns) | |
 | **Ativo líquido da comunhão** | |
-| **Meação de cada cônjuge (50%)** | |
+| **Meação de cada cônjuge (50% — art. 1.730.º CC; no divórcio em comunhão geral, com o limite do art. 1.790.º CC)** | |
 
 **COMPENSAÇÕES (se aplicável)**
-- Compensação devida pelo patrimônio comum ao cônjuge A / B: [valor e fundamento]
+- Compensação devida pelo património comum ao cônjuge A / B, ou por este àquele: [valor e fundamento]
 
 **PARTILHA PROPOSTA**
 - Bens atribuídos ao Cônjuge A: [lista e valor total]
@@ -100,6 +104,7 @@ Para cada bem próprio:
 ### ETAPA 5 — FORMULAÇÃO FINAL (Validação)
 Apresenta dentro de um bloco <checklist_validacao>:
 - [ ] Regime de bens corretamente identificado?
+- [ ] Divórcio em comunhão geral: limite do art. 1.790.º CC aplicado?
 - [ ] Todos os bens qualificados (comum vs. próprio)?
 - [ ] Dívidas comuns deduzidas do ativo?
 - [ ] Compensações entre patrimónios calculadas?
@@ -116,7 +121,7 @@ Apresenta dentro de um bloco <checklist_validacao>:
 **CASAMENTO:**
 - Regime de bens: [comunhão de adquiridos | comunhão geral | separação de bens]
 - Data do casamento: [dd/mm/aaaa]
-- Data da dissolução (divórcio / separação de facto): [dd/mm/aaaa]
+- Data da dissolução (divórcio / separação de facto): [dd/mm/aaaa] (os efeitos patrimoniais do divórcio retroagem à data da proposição da ação ou, a pedido, à do início da separação de facto provada no processo — art. 1.789.º, n.os 1 e 2, CC)
 
 **CÔNJUGE A:**
 - Nome: [nome]
@@ -155,4 +160,5 @@ Apresenta dentro de um bloco <checklist_validacao>:
 
 | Citação | Estado | Nota |
 |---|---|---|
-| arts. 1082.º ss. CPC | corrigida — Função do inventário | o número citado no catálogo não correspondia à epígrafe |
+| Art. 1133.º CPC | conferida (epígrafe) — Separação, divórcio, declaração de nulidade ou anulação de casamento |  |
+| arts. 1082.º e ss. CPC | conferida (epígrafe) — Função do inventário |  |

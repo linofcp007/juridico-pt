@@ -1,0 +1,154 @@
+[
+  {"codigo": "PEN-001", "triagem": "ok"},
+  {
+    "codigo": "PEN-002",
+    "triagem": "rever",
+    "gravidade": "media",
+    "motivos": [
+      "A minuta (secção III) afirma que o ofendido se pode constituir assistente «em qualquer fase do processo, até ao encerramento da audiência de discussão e julgamento»; o art. 68.º, n.º 3, al. a), CPP exige o requerimento até 5 dias antes do início do debate instrutório ou da audiência de julgamento (e nos crimes particulares, art. 68.º, n.º 2/3, prazo de 10 dias após a advertência/queixa). A regra obrigatória repete «até ao encerramento da audiência» e só ressalva com VERIFICAR.",
+      "Seguir a ficha pode levar a pedir a constituição fora de prazo e vê-la indeferida por extemporânea."
+    ]
+  },
+  {
+    "codigo": "PEN-003",
+    "triagem": "rever",
+    "gravidade": "baixa",
+    "motivos": [
+      "Pergunta sobre a «competência do JIC para pronunciar (crimes não da competência do tribunal do júri ou coletivo...)»: a instrução é sempre da competência do juiz de instrução criminal, seja qual for o tribunal de julgamento (arts. 17.º e 288.º CPP); a ressalva induz em erro.",
+      "A regra obrigatória diz que o RAI descreve factos que fundamentam «a aplicação de uma medida de coação ou a pronúncia»; o art. 287.º, n.º 2, CPP exige as razões de facto e de direito da discordância e, para o assistente, os requisitos do art. 283.º, n.º 3, al. b) e c) (factos e qualificação), nada tendo a ver com medidas de coação."
+    ]
+  },
+  {
+    "codigo": "PEN-004",
+    "triagem": "rever",
+    "gravidade": "media",
+    "motivos": [
+      "A ficha manda arguir na contestação (prazo de 20 dias) as «nulidades dos atos do inquérito e instrução»; o art. 120.º, n.º 3, al. c), CPP obriga a arguir as nulidades do inquérito/instrução até ao encerramento do debate instrutório ou, não havendo instrução, até 5 dias após a notificação do despacho que encerrou o inquérito/designa julgamento. Arguidas só na contestação ficam sanadas (contradiz a PEN-008, que refere o art. 120.º, n.º 3).",
+      "O prazo de 20 dias do art. 315.º, n.º 1, CPP conta-se da notificação do despacho que designa dia para julgamento (e não genericamente «da notificação da acusação») - a confirmar."
+    ]
+  },
+  {"codigo": "PEN-005", "triagem": "ok"},
+  {
+    "codigo": "PEN-006",
+    "triagem": "rever",
+    "gravidade": "media",
+    "motivos": [
+      "Prazo errado: a regra obrigatória diz que o pedido se deduz «até ao encerramento da audiência de instrução ou, na sua falta, nos 20 dias seguintes à notificação da acusação». O art. 77.º CPP fixa 20 dias a contar da notificação da acusação (ou, não a havendo, do despacho de pronúncia), tendo o lesado manifestado o propósito de deduzir (art. 75.º, n.º 2), ou, nos crimes dependentes de queixa/acusação particular, o prazo da acusação; não existe prazo «até ao encerramento da audiência de instrução».",
+      "Juros: sugere juros «desde a data do facto (art. 806.º CC)»; na responsabilidade por facto ilícito a mora conta-se, em regra, desde a citação (art. 805.º, n.º 3, CC), salvo crédito líquido, e com o AUJ 4/2002 desde a decisão se a indemnização for atualizada - a confirmar.",
+      "Referência a tabela de incapacidades do DL 352/2007 (acidentes de trabalho): a tabela de direito civil é a da Portaria 377/2008 (alt. Portaria 679/2009) - a confirmar."
+    ]
+  },
+  {"codigo": "PEN-007", "triagem": "ok"},
+  {
+    "codigo": "PEN-008",
+    "triagem": "rever",
+    "gravidade": "alta",
+    "motivos": [
+      "A ficha assume que a pronúncia é recorrível para a Relação; o art. 310.º, n.º 1, CPP declara irrecorrível a decisão instrutória que pronuncia o arguido pelos factos da acusação (mesmo quanto a nulidades e questões prévias ou incidentais). Só em casos excecionais (pronúncia por factos diversos da acusação, ou despacho com alteração substancial dos factos - art. 309.º, que se arguiu perante o JIC em 8 dias) há remédio, e não por este recurso.",
+      "Afirma que o recurso da pronúncia tem efeito suspensivo (art. 408.º, n.º 2, CPP): o art. 408.º não inclui a pronúncia e o julgamento não aguarda decisão da Relação; regra inventada.",
+      "Seguir a ficha produz uma peça processualmente inadmissível e cria falsa expectativa de suspensão do julgamento."
+    ]
+  },
+  {
+    "codigo": "PEN-009",
+    "triagem": "rever",
+    "gravidade": "media",
+    "motivos": [
+      "Duração «de 1 a 2 anos» (art. 282.º, n.º 1, CPP): a lei só fixa o máximo (até 2 anos, com exceções); não há mínimo de 1 ano.",
+      "A lista de «requisitos cumulativos» não corresponde ao art. 281.º, n.º 1, CPP: faltam a ausência de aplicação anterior de SPP por crime da mesma natureza, a ausência de grau de culpa elevado e a prognose de que as injunções satisfazem as exigências de prevenção; e acrescenta como pressuposto a «reparação do dano ou declaração de impossibilidade», que é uma injunção possível, não um requisito.",
+      "O arguido pode requerer, mas a decisão é do MP com concordância do JIC (art. 281.º, n.º 1); nos crimes de violência doméstica aplica-se o regime especial do n.º 8 (requerimento livre e esclarecido da vítima)."
+    ]
+  },
+  {"codigo": "PEN-010", "triagem": "ok"},
+  {"codigo": "PEN-011", "triagem": "ok"},
+  {"codigo": "PEN-012", "triagem": "ok"},
+  {"codigo": "PEN-013", "triagem": "ok"},
+  {
+    "codigo": "PEN-014",
+    "triagem": "rever",
+    "gravidade": "media",
+    "motivos": [
+      "Diz que a impugnação «é apresentada no tribunal competente»; nos termos do art. 59.º, n.º 3, RGCO é dirigida ao tribunal mas apresentada à autoridade administrativa que aplicou a coima, que a remete ao MP e este ao juiz (art. 62.º RGCO), valendo como acusação.",
+      "Afirma, como «regra geral», que a impugnação não suspende a decisão; em regra a impugnação judicial impede que a decisão administrativa se torne definitiva e exequível (a coima só é devida após decisão definitiva ou trânsito - arts. 88.º e 89.º RGCO) e os regimes setoriais (ex. Código da Estrada, sanções acessórias) têm regras próprias - regra apresentada como certa e duvidosa; a confirmar.",
+      "Art. 72.º RGCO apontado como base do requerimento de prova e art. 8.º para erro sobre a ilicitude (que é o art. 9.º RGCO) - a confirmar."
+    ]
+  },
+  {
+    "codigo": "PEN-016",
+    "triagem": "rever",
+    "gravidade": "media",
+    "motivos": [
+      "A ficha prevê a impugnação da matéria de facto e o «erro de julgamento» com indicação de prova (secção III), mas no recurso para a Relação em contraordenações esta só conhece de matéria de direito (art. 75.º, n.º 1, RGCO); a Relação só pode apreciar os vícios do art. 410.º, n.º 2, CPP, que são questões de direito.",
+      "Omite a admissibilidade do recurso: só cabe se a coima exceder 249,40 EUR, houver sanções acessórias, a impugnação tiver sido rejeitada ou a decisão tiver sido por despacho (art. 73.º, n.º 1, RGCO), ou por aceitação da Relação (n.º 2). A ficha trata o recurso como sempre admissível.",
+      "Prazo de 20 dias úteis e remissão para o art. 74.º RGCO - a confirmar."
+    ]
+  },
+  {
+    "codigo": "PEN-017",
+    "triagem": "rever",
+    "gravidade": "baixa",
+    "motivos": [
+      "A ficha assenta em «redução de 50%» com base no DL 44/2005 para contraordenações rodoviárias; esse diploma alterou o Código da Estrada e o regime de pagamento voluntário está hoje nos arts. 172.º e ss. do Código da Estrada (pagamento pelo mínimo da coima no prazo legal), sem desconto percentual automático - percentagem não confirmada, a confirmar.",
+      "No RGCO o pagamento voluntário (art. 50.º-A) faz-se pelo mínimo da coima, em qualquer altura antes da decisão, e equivale a decisão condenatória definitiva; a ficha trata-o como desconto percentual e pede «extinção da responsabilidade e arquivamento», o que não prejudica sanções acessórias (ex. inibição de conduzir) - a confirmar.",
+      "A ressalva de «não confissão para efeitos civis» é afirmação sem base legal indicada."
+    ]
+  },
+  {
+    "codigo": "PEN-018",
+    "triagem": "rever",
+    "gravidade": "alta",
+    "motivos": [
+      "Prazos do art. 118.º, n.º 1, CP errados: o escalão de 5 anos é para crimes com limite máximo igual ou superior a 1 ano e inferior a 5 anos (não «2 a 5 anos inclusive»), o de 10 anos para limite máximo igual ou superior a 5 e até 10 anos, e o de 2 anos só para os restantes (limite inferior a 1 ano ou multa); a ficha dá 2 anos a crimes com máximo entre 1 e 2 anos e sobrepõe os 5 anos nos escalões c) e b).",
+      "Causas de interrupção (art. 121.º CP) mal listadas: inclui «prisão preventiva» e «acusação particular» como causas autónomas, que não existem; as reais são constituição de arguido, notificação da acusação (ou pronúncia, se não houve instrução), declaração de contumácia e notificação do despacho que designa dia para julgamento.",
+      "Causas de suspensão (art. 120.º CP) descritas como «extradição, cumprimento de pena noutra jurisdição», o que não corresponde ao artigo (contumácia, SPP, sentença não notificada a ausente, pendência desde a notificação da acusação até ao trânsito com limite de 3 anos, recurso ao TC...). O limite máximo do art. 121.º, n.º 3, ressalva o tempo de suspensão, ignorado no cálculo da peça. O resultado do parecer sai errado."
+    ]
+  },
+  {
+    "codigo": "PEN-019",
+    "triagem": "rever",
+    "gravidade": "alta",
+    "motivos": [
+      "Atenuação especial (art. 73.º CP): a ficha manda reduzir o mínimo a 1/5 e fixar o máximo a «1/4 acima do novo mínimo». Regime real: o limite máximo da prisão é reduzido de 1/3 e o mínimo reduz-se a 1/5 apenas se igual ou superior a 3 anos (se inferior, passa ao mínimo legal); na multa, máximo reduzido de 1/3 e mínimo ao legal.",
+      "Reincidência: diz que se agrava 1/3 «nos limites mínimo e máximo» (art. 75.º) e exige crime «da mesma espécie»; o art. 76.º, n.º 1, CP eleva só o limite mínimo de 1/3 e mantém o máximo, e o art. 75.º exige apenas crime doloso anterior com prisão efetiva superior a 6 meses (sem «mesma espécie») e juízo de censura.",
+      "Concurso (art. 77.º CP): descreve a pena única como «soma das penas... ou o mais elevado + metade dos restantes» e refere «8 anos para prisão efetiva»; a moldura é entre a pena parcelar mais elevada e a soma de todas (máximo 25 anos em prisão, 900 dias na multa). Regras inventadas que produzem pena única errada."
+    ]
+  },
+  {
+    "codigo": "PEN-020",
+    "triagem": "rever",
+    "gravidade": "media",
+    "motivos": [
+      "Os requisitos do art. 61.º CP estão deturpados: omite o consentimento do condenado (n.º 1) e o requisito de compatibilidade com a defesa da ordem e da paz social para a liberdade condicional a metade da pena (n.º 2, al. b), mínimo de 6 meses); ignora a fase de 2/3 (n.º 3).",
+      "Apresenta a liberdade condicional obrigatória aos 5/6 como regra geral (cita n.º 3), quando só se aplica a penas superiores a 6 anos (n.º 4); e inventa o requisito «para penas longas (> 6 anos): no mínimo 6 anos efetivos cumpridos».",
+      "Fórmulas de remissão (art. 64.º para revogação e para extinção; art. 61.º, n.º 1, al. c) para prognose) incoerentes - a confirmar."
+    ]
+  },
+  {"codigo": "PEN-021", "triagem": "ok"},
+  {
+    "codigo": "PEN-022",
+    "triagem": "rever",
+    "gravidade": "baixa",
+    "motivos": [
+      "A ficha mistura «reabilitação» com cancelamento do registo criminal e trata-o como pedido a «decretar» pela DGAJ; na Lei 37/2015 (art. 11.º e ss.) o cancelamento é oficioso/automático após os prazos (5, 7 ou 10 anos conforme a pena, a confirmar), pelo que um «requerimento de cancelamento» só faz sentido se o serviço não o tiver feito - a confirmar.",
+      "A ressalva de que a condenação «pode constar para fins específicos» após o cancelamento é duvidosa: o cancelamento definitivo elimina o registo; a restrição de acesso para certos fins prende-se com a não transcrição nos certificados e com o acesso de entidades judiciárias, não com o cancelamento - a confirmar.",
+      "Não indica os prazos nem o fundamento de cada tipo de pena (ficha sem citação conferida)."
+    ]
+  },
+  {"codigo": "PEN-023", "triagem": "ok"},
+  {"codigo": "PEN-024", "triagem": "ok"},
+  {"codigo": "PEN-025", "triagem": "ok"},
+  {
+    "codigo": "PEN-026",
+    "triagem": "rever",
+    "gravidade": "baixa",
+    "motivos": [
+      "Chama «medidas acessórias obrigatórias» às consequências do art. 152.º, n.ºs 4-6, CP; são penas acessórias facultativas («pode ser aplicada»), distintas das medidas de coação urgentes (art. 200.º CPP, Lei 112/2009) - a confirmar quanto à obrigatoriedade.",
+      "A lista das relações do art. 152.º, n.º 1, CP indica «descendente/ascendente», que não consta; as alíneas são cônjuge/ex-cônjuge, relação análoga à dos cônjuges (mesmo sem coabitação), progenitor de descendente comum e pessoa particularmente indefesa que coabite.",
+      "Contactos de urgência desatualizados ou duvidosos («APAV 707 200 077», «SOS Vítima 116 006»): a linha APAV é a 116 006 - a confirmar."
+    ]
+  },
+  {"codigo": "PEN-027", "triagem": "ok"},
+  {"codigo": "PEN-028", "triagem": "ok"},
+  {"codigo": "PEN-030", "triagem": "ok"},
+  {"codigo": "PEN-031", "triagem": "ok"}
+]

@@ -6,8 +6,9 @@ titulo_en: "Defence in Administrative Offence Proceedings for Breach of the GDPR
 descricao: "Gera a defesa em processo contraordenacional instaurado pela CNPD por violação do RGPD, incluindo audiência prévia, contestação à acusação, invocação de circunstâncias atenuantes e, se necessário, recurso de impugnação judicial da decisão final."
 descricao_en: "Generates the defence in administrative offence (contraordenação) proceedings brought by the National Data Protection Commission (CNPD) for breach of the GDPR, including the prior hearing, the response to the charges, the invocation of mitigating circumstances and, if necessary, a judicial appeal against the final decision."
 ambito: nacional
-estado_citacoes: "conferidas 16 · corrigidas 1 · por conferir 7"
+estado_citacoes: "conferidas 21 · corrigidas 1 · por conferir 22"
 remete_para: "assets/templates/defesa-contraordenacao"
+revisao_tecnica: "2026-10-28 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
@@ -16,7 +17,8 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 > **Âmbito:** nacional · **Área:** Proteção de Dados e Direito Digital · **Código:** DIG-013
 > **EN:** Defence in Administrative Offence Proceedings for Breach of the GDPR. Generates the defence in administrative offence (contraordenação) proceedings brought by the National Data Protection Commission (CNPD) for breach of the GDPR, including the prior hearing, the response to the charges, the invocation of mitigating circumstances and, if necessary, a judicial appeal against the final decision.
 > **Ver também:** `assets/templates/defesa-contraordenacao` — conteúdo do plugin sobre o mesmo tema. Usa-o primeiro.
-> **Citações:** conferidas 16 · corrigidas 1 · por conferir 7. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 21 · corrigidas 1 · por conferir 22. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-28 — corrigida (8 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
 Gera a defesa em processo contraordenacional instaurado pela CNPD por violação do RGPD, incluindo audiência prévia, contestação à acusação, invocação de circunstâncias atenuantes e, se necessário, recurso de impugnação judicial da decisão final.
 
@@ -59,17 +61,17 @@ Apresenta dentro de um bloco <fundamentos_juridicos>:
   n.º 2, al. j): adesão a código de conduta aprovado (art. 40.º RGPD)
   n.º 2, al. k): outras circunstâncias agravantes ou atenuantes
 - RGCO (DL n.º 433/82): subsidiariamente aplicável — princípio da culpa, prescrição, recurso
-- Lei n.º 58/2019, art. 37.º: especificidades do processo contraordenacional CNPD
-- Prazo de prescrição: [■ VERIFICAR: art. 27.º ss. RGCO aplicado ao processo CNPD]
-- Direito de audição prévia: art. 50.º RGCO + art. 83.º, n.º 3 RGPD (ouvir o arguido)
-- Recurso judicial: art. 78.º RGPD + art. 59.º RGCO → Tribunal Administrativo de Círculo de Lisboa
+- Lei n.º 58/2019, arts. 37.º a 45.º: contraordenações muito graves (art. 37.º) e graves (art. 38.º), medida da coima (art. 39.º), prescrição (arts. 40.º e 41.º) e aplicação subsidiária do RGCO (art. 45.º). A CNPD desaplica, por contrariarem o RGPD, os arts. 37.º, n.º 2, 38.º, n.º 2, e 39.º, n.º 1 (molduras por dimensão da empresa e critérios adicionais de medida da coima), salvo quanto às infrações que o art. 83.º RGPD não sanciona, e o art. 39.º, n.º 3 (advertência prévia nas infrações negligentes) (Deliberação da CNPD 2019/494)
+- Prazo de prescrição do procedimento: três anos (contraordenação muito grave) ou dois anos (contraordenação grave) sobre a prática da infração (art. 40.º da Lei n.º 58/2019); suspensão e interrupção: arts. 27.º-A e 28.º RGCO, por força do art. 45.º da Lei n.º 58/2019
+- Direito de audição e defesa: art. 50.º RGCO, por força do art. 45.º da Lei n.º 58/2019 (o art. 83.º, n.º 3, RGPD não regula a audição: limita o montante total da coima, quando são violadas várias disposições nas mesmas operações de tratamento ou em operações ligadas entre si, ao da violação mais grave)
+- Recurso judicial: impugnação judicial da decisão da CNPD nos tribunais administrativos (art. 78.º RGPD; art. 34.º, n.ºs 1 e 2, da Lei n.º 58/2019), apresentada à CNPD (art. 59.º, n.º 3, RGCO) [■ VERIFICAR: tribunal administrativo territorialmente competente]
 
 ### ETAPA 3 — CONSTRUÇÃO (Estratégia de Defesa)
 Define em <estrategia_defesa>:
 - Contestação de factos (se os factos imputados não são exatos)
 - Contestação de enquadramento jurídico (se a norma invocada não é aplicável)
 - Mitigação de coima (reconhecimento da infração + invocação de atenuantes)
-- Pedido de substituição de coima por advertência (art. 83.º, n.º 2 in fine RGPD)
+- Pedido de repreensão em vez de coima (art. 58.º, n.º 2, al. b), e art. 83.º, n.º 2, 1.º período, RGPD; considerando 148 RGPD) ou, subsidiariamente, de admoestação (art. 51.º RGCO) [■ VERIFICAR: admissibilidade da admoestação do RGCO nas infrações sancionadas pelo RGPD]
 - Parcelamento da coima (se for aplicada — art. 88.º RGCO)
 
 ### ETAPA 4 — A DEFESA / RESPOSTA DE AUDIÊNCIA PRÉVIA
@@ -85,7 +87,7 @@ Processo n.º [número] — [Nome da Entidade], NIF [número]
 
 Exmos. Senhores,
 
-[Nome da Entidade], pessoa coletiva com NIF [número], com sede em [endereço], notificada em [data] da intenção de aplicação de coima no processo acima identificado, vem, por intermédio do seu mandatário [nome, OA n.º], nos termos do art. 50.º do DL n.º 433/82 (RGCO) e do art. 83.º, n.º 3 RGPD, apresentar a seguinte DEFESA:
+[Nome da Entidade], pessoa coletiva com NIF [número], com sede em [endereço], notificada em [data] da intenção de aplicação de coima no processo acima identificado, vem, por intermédio do seu mandatário [nome, OA n.º], nos termos do art. 50.º do DL n.º 433/82 (RGCO), aplicável por força do art. 45.º da Lei n.º 58/2019, apresentar a seguinte DEFESA:
 
 **I. FACTOS RELEVANTES**
 
@@ -127,21 +129,21 @@ d) Ausência de violações anteriores — al. e): A [entidade] não tem registo
 
 e) Cooperação plena com a CNPD — al. f): A [entidade] cooperou em pleno com V. Exas. ao longo de toda a investigação, respondendo atempadamente a todos os pedidos e disponibilizando toda a documentação solicitada.
 
-f) Ausência de dano real — al. k): Não há evidência de dano real sofrido pelos titulares em consequência da infração. [Justificação concreta.]
+f) Ausência de dano real — al. a) (nível de danos sofridos pelos titulares): Não há evidência de dano real sofrido pelos titulares em consequência da infração. [Justificação concreta.]
 
 g) Pequena dimensão da empresa — al. k): A [entidade] é uma [PME / microempresa] com [N] colaboradores e volume de negócios de [€X], devendo a coima ser proporcionada à sua capacidade económica.
 
 h) Remediação integral — al. k): A [entidade] procedeu à correção integral da situação, encontrando-se hoje em plena conformidade com [artigo em causa]. [Documentação em Anexo [Y].]
 
-**V. PEDIDO DE SUBSTITUIÇÃO POR ADVERTÊNCIA** (se aplicável)
+**V. PEDIDO DE REPREENSÃO EM VEZ DE COIMA** (se aplicável)
 
-Atendendo à gravidade reduzida da infração, ao carácter negligente da conduta, à ausência de danos reais para titulares, à remediação imediata e à cooperação plena com V. Exas., a [entidade] requer que, em vez de coima, seja proferida mera advertência, nos termos do art. 83.º, n.º 2, in fine RGPD, que prevê essa possibilidade quando "as circunstâncias do caso concreto" o justifiquem.
+Atendendo à gravidade reduzida da infração, ao carácter negligente da conduta, à ausência de danos reais para titulares, à remediação imediata e à cooperação plena com V. Exas., a [entidade] requer que, em vez de coima, lhe seja dirigida uma repreensão, nos termos do art. 58.º, n.º 2, al. b), do RGPD, uma vez que, consoante as circunstâncias de cada caso, as coimas são aplicadas para além ou em vez das medidas corretivas (art. 83.º, n.º 2, 1.º período, RGPD) e que, em caso de infração menor, pode ser feita uma repreensão em vez de ser aplicada uma coima (considerando 148 do RGPD). Subsidiariamente, requer que seja proferida admoestação (art. 51.º RGCO, aplicável por força do art. 45.º da Lei n.º 58/2019). [■ VERIFICAR: admissibilidade da admoestação do RGCO nas infrações sancionadas pelo RGPD]
 
 **VI. PEDIDO DE REDUÇÃO DA COIMA** (alternativo ou subsidiário)
 
 Subsidiariamente, caso V. Exas. entendam aplicar coima, solicita-se que:
-— A coima seja fixada no limite mínimo da moldura aplicável, atendendo às atenuantes invocadas;
-— Seja concedida a redução de [X%] pela cooperação e remediação.
+— A coima seja fixada em montante reduzido, proporcionado às atenuantes invocadas (art. 83.º, n.ºs 1 e 2, RGPD);
+— A cooperação com a CNPD e a remediação sejam ponderadas na determinação do montante (art. 83.º, n.º 2, als. c) e f), RGPD).
 
 **VII. DOCUMENTAÇÃO JUNTA**
 Anexo A: [descrição]
@@ -158,7 +160,7 @@ Em representação de [Nome da Entidade]
 ---
 
 **[RECURSO JUDICIAL — Estrutura para uso posterior]**
-Se a CNPD aplicar coima: recurso para o Tribunal Administrativo de Círculo de Lisboa (art. 78.º RGPD + art. 59.º RGCO), no prazo de 20 dias úteis (art. 59.º, n.º 3 RGCO).
+Se a CNPD aplicar coima: impugnação judicial para os tribunais administrativos (art. 78.º RGPD; art. 34.º, n.ºs 1 e 2, da Lei n.º 58/2019), feita por escrito, com alegações e conclusões, e apresentada à CNPD no prazo de 20 dias após o conhecimento da decisão (art. 59.º, n.º 3, RGCO), prazo que se suspende aos sábados, domingos e feriados (art. 60.º RGCO). [■ VERIFICAR: tribunal administrativo territorialmente competente]
 
 ### ETAPA 5 — VALIDAÇÃO
 Apresenta dentro de um bloco <checklist_validacao>:
@@ -167,7 +169,7 @@ Apresenta dentro de um bloco <checklist_validacao>:
 - [ ] Contestação factual fundamentada (se os factos são inexatos)
 - [ ] Contestação jurídica fundamentada (se a norma é incorreta)
 - [ ] Todas as circunstâncias atenuantes do art. 83.º, n.º 2 invocadas e documentadas
-- [ ] Pedido de advertência (art. 83.º in fine) ou redução de coima formulado
+- [ ] Pedido de repreensão (arts. 58.º, n.º 2, al. b), e 83.º, n.º 2, RGPD) ou de redução da coima formulado
 - [ ] Documentação probatória identificada e junta como anexos
 - [ ] Advogado responsável pela validação e apresentação
 - [ ] Pontos [■ VERIFICAR] sinalizados
@@ -224,20 +226,40 @@ Apresenta dentro de um bloco <checklist_validacao>:
 | art. 83.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 83.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 83.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| art. 83.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | Art. 83.º RGPD | conferida (epígrafe) — Condições gerais para a aplicação de coimas |  |
 | art. 40.º RGPD | conferida (epígrafe) — Códigos de conduta |  |
+| art. 40.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| arts. 37.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| arts. 37.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 37.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| art. 27.º ss. RGCO | conferida (epígrafe) — Prescrição do procedimento |  |
+| art. 38.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 39.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 39.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| arts. 40.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 45.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 45.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 45.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 45.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 45.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 83.º RGPD | conferida (epígrafe) — Condições gerais para a aplicação de coimas |  |
+| arts. 27.º-A e 28.º RGCO | conferida (epígrafe) — Suspensão da prescrição |  |
 | art. 50.º RGCO | conferida (epígrafe) — Direito de audição e defesa do arguido |  |
-| art. 83.º, n.º 3 RGPD | conferida (epígrafe) — Condições gerais para a aplicação de coimas |  |
-| art. 83.º, n.º 3 RGPD | conferida (epígrafe) — Condições gerais para a aplicação de coimas |  |
+| art. 83.º, n.º 3, RGPD | conferida (epígrafe) — Condições gerais para a aplicação de coimas |  |
 | art. 78.º RGPD | conferida (epígrafe) — Direito à ação judicial contra uma autoridade de controlo |  |
-| art. 78.º RGPD | conferida (epígrafe) — Direito à ação judicial contra uma autoridade de controlo |  |
-| art. 59.º RGCO | conferida (epígrafe) — Forma e prazo |  |
-| art. 59.º RGCO | conferida (epígrafe) — Forma e prazo |  |
-| art. 83.º, n.º 2 in fine RGPD | conferida (epígrafe) — Condições gerais para a aplicação de coimas |  |
+| art. 78.º RGPD | por conferir [■ VERIFICAR] | o assunto descrito não coincide com a epígrafe; confirmar |
+| art. 34.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 34.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 59.º, n.º 3, RGCO | conferida (epígrafe) — Forma e prazo |  |
+| art. 59.º, n.º 3, RGCO | conferida (epígrafe) — Forma e prazo |  |
+| art. 58.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 83.º, n.º 2, 1.º período, RGPD | conferida (epígrafe) — Condições gerais para a aplicação de coimas |  |
+| art. 83.º, n.º 2, 1.º período, RGPD | conferida (epígrafe) — Condições gerais para a aplicação de coimas |  |
+| art. 51.º RGCO | conferida (epígrafe) — Admoestação |  |
+| art. 51.º RGCO | conferida (epígrafe) — Admoestação |  |
 | art. 88.º RGCO | corrigida — Pagamento da coima | o número citado no catálogo não correspondia à epígrafe |
 | art. 50.º do DL n.º 433/82 (RGCO | conferida (epígrafe) — Direito de audição e defesa do arguido |  |
-| art. 83.º, n.º 2, in fine RGPD | conferida (epígrafe) — Condições gerais para a aplicação de coimas |  |
-| art. 59.º, n.º 3 RGCO | conferida (epígrafe) — Forma e prazo |  |
+| art. 58.º, n.º 2, al. b), do RGPD | conferida (epígrafe) — Poderes |  |
+| art. 83.º, n.ºs 1 e 2, RGPD | conferida (epígrafe) — Condições gerais para a aplicação de coimas |  |
+| art. 83.º, n.º 2, als. c) e f), RGPD | conferida (epígrafe) — Condições gerais para a aplicação de coimas |  |
+| art. 60.º RGCO | conferida (epígrafe) — Contagem do prazo para impugnação |  |
+| arts. 58.º, n.º 2, al. b), e 83.º, n.º 2, RGPD | conferida (epígrafe) — Poderes |  |

@@ -3,20 +3,22 @@ codigo: BAN-016
 area: "Direito Bancário e dos Mercados"
 titulo: "Petição de Ação contra Seguradora por Incumprimento do Contrato de Seguro"
 titulo_en: "Statement of Claim against an Insurer for Breach of the Insurance Contract"
-descricao: "Redige petição inicial de ação de incumprimento contratual contra seguradora, pedindo condenação no pagamento da indemnização devida e juros de mora, ao abrigo da LCS (Lei n.º 72/2008), do Código Civil e do CPC, com estrutura adequada para apresentação em tribunal judicial ou arbitragem."
-descricao_en: "Drafts the statement of claim (petição inicial) in an action for breach of contract against an insurer, seeking an order to pay the compensation due plus default interest, under the LCS (Law No. 72/2008), the Civil Code and the CPC, structured for filing in a court of law or in arbitration."
+descricao: "Redige petição inicial de ação de incumprimento contratual contra seguradora, pedindo condenação no pagamento da indemnização devida e juros de mora, ao abrigo da LCS (regime jurídico do contrato de seguro, aprovado pelo Decreto-Lei n.º 72/2008), do Código Civil e do CPC, com estrutura adequada para apresentação em tribunal judicial ou arbitragem."
+descricao_en: "Drafts the statement of claim (petição inicial) in an action for breach of contract against an insurer, seeking an order to pay the compensation due plus default interest, under the LCS (insurance contract regime approved by Decree-Law No. 72/2008), the Civil Code and the CPC, structured for filing in a court of law or in arbitration."
 ambito: nacional
-estado_citacoes: "conferidas 0 · corrigidas 0 · por conferir 18"
+estado_citacoes: "conferidas 5 · corrigidas 0 · por conferir 25"
+revisao_tecnica: "2026-10-28 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
 # Petição de Ação contra Seguradora por Incumprimento do Contrato de Seguro
 
 > **Âmbito:** nacional · **Área:** Direito Bancário e dos Mercados · **Código:** BAN-016
-> **EN:** Statement of Claim against an Insurer for Breach of the Insurance Contract. Drafts the statement of claim (petição inicial) in an action for breach of contract against an insurer, seeking an order to pay the compensation due plus default interest, under the LCS (Law No. 72/2008), the Civil Code and the CPC, structured for filing in a court of law or in arbitration.
-> **Citações:** conferidas 0 · corrigidas 0 · por conferir 18. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **EN:** Statement of Claim against an Insurer for Breach of the Insurance Contract. Drafts the statement of claim (petição inicial) in an action for breach of contract against an insurer, seeking an order to pay the compensation due plus default interest, under the LCS (insurance contract regime approved by Decree-Law No. 72/2008), the Civil Code and the CPC, structured for filing in a court of law or in arbitration.
+> **Citações:** conferidas 5 · corrigidas 0 · por conferir 25. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-28 — corrigida (9 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
-Redige petição inicial de ação de incumprimento contratual contra seguradora, pedindo condenação no pagamento da indemnização devida e juros de mora, ao abrigo da LCS (Lei n.º 72/2008), do Código Civil e do CPC, com estrutura adequada para apresentação em tribunal judicial ou arbitragem.
+Redige petição inicial de ação de incumprimento contratual contra seguradora, pedindo condenação no pagamento da indemnização devida e juros de mora, ao abrigo da LCS (regime jurídico do contrato de seguro, aprovado pelo Decreto-Lei n.º 72/2008), do Código Civil e do CPC, com estrutura adequada para apresentação em tribunal judicial ou arbitragem.
 
 ## Método
 
@@ -36,33 +38,34 @@ Em <analise_do_caso>:
 - Qual o sinistro? Está coberto pela apólice?
 - Qual o fundamento da recusa da seguradora?
 - Qual o valor pedido? (indemnização + juros de mora)
-- Tribunal competente? (valor da causa → competência: Juízo Local Cível ≤ €30.000 / Juízo Central Cível acima)
-- Há prazo de prescrição a considerar? (art. 121.º LCS — 2 anos para sinistro de vida; VERIFICAR prazo para outros ramos)
+- Tribunal competente? (valor da causa → competência: Juízo Local Cível ou de competência genérica até €50.000 / Juízo Central Cível se superior a €50.000 — art. 117.º, n.º 1, alínea a), da LOSJ)
+- Há prazo de prescrição a considerar? (art. 121.º, n.º 2, LCS — os direitos emergentes do contrato prescrevem em 5 anos a contar da data em que o titular teve conhecimento do direito, sem prejuízo da prescrição ordinária a contar do facto que lhe deu causa; o prazo de 2 anos do n.º 1 respeita só ao direito do segurador ao prémio)
 - Foram esgotadas as vias extrajudiciais? (pré-requisito recomendado)
 
 ### ETAPA 2 — ANÁLISE JURÍDICA
 Em <fundamentos_juridicos>:
-- LCS (Lei n.º 72/2008):
-  - Art. 37.º e 38.º: dever de comunicação e exclusões não comunicadas
-  - Art. 44.º: exclusões — requisitos
-  - Art. 100.º e 104.º: sinistro e liquidação
-  - Art. 106.º: mora da seguradora e juros
-  - Art. 121.º: prescrição [■ VERIFICAR prazo aplicável ao tipo de seguro]
+- LCS (regime jurídico do contrato de seguro, aprovado pelo Decreto-Lei n.º 72/2008, de 16 de abril):
+  - Art. 3.º: aplicação ao contrato de seguro da legislação sobre cláusulas contratuais gerais e defesa do consumidor
+  - Arts. 18.º, alínea c), 21.º, 22.º e 23.º: deveres de informação e de esclarecimento do segurador sobre as exclusões e limitações de cobertura, e consequências do seu incumprimento
+  - Art. 37.º, n.º 3, alínea b): as cláusulas de exclusão ou limitação das coberturas têm de constar da apólice em caracteres destacados e de maior dimensão
+  - Art. 44.º: inexistência do risco (sinistro anterior conhecido) — relevante se a seguradora o invocar
+  - Arts. 100.º, 102.º e 104.º: participação do sinistro, realização da prestação e vencimento — a obrigação do segurador vence-se decorridos 30 dias sobre o apuramento dos factos
+  - Art. 121.º, n.º 2: prescrição de 5 anos a contar do conhecimento do direito, sem prejuízo da prescrição ordinária a contar do facto
 - Código Civil:
   - Art. 798.º: responsabilidade do devedor por incumprimento
   - Art. 804.º ss: mora do devedor — juros
   - Art. 562.º: obrigação de indemnizar — restauração natural ou compensação
 - CPC:
   - Art. 552.º ss: petição inicial — requisitos
-  - Art. 41.º ss: competência territorial
-  - Art. 44.º: competência em razão do valor
+  - Art. 71.º, n.º 1, e art. 81.º, n.º 2, CPC: competência territorial (domicílio ou sede do réu; sendo o réu pessoa coletiva, o credor pode optar pelo tribunal do lugar em que a obrigação deveria ser cumprida)
+- LOSJ (Lei n.º 62/2013): art. 117.º, n.º 1, alínea a) — juízos centrais cíveis para as ações declarativas cíveis de processo comum de valor superior a €50.000; nas restantes, juízo local cível ou de competência genérica (art. 130.º)
 - DL n.º 446/85: exclusões por falta de comunicação
 
 ### ETAPA 3 — CONSTRUÇÃO
 Em <estrategia>:
 - Tese principal: incumprimento do contrato de seguro (recusa indevida ou demora)
 - Tese subsidiária: invalidade da exclusão invocada
-- Pedidos: indemnização + juros de mora (art. 106.º LCS) + custas
+- Pedidos: indemnização + juros de mora (vencimento da obrigação do segurador nos termos do art. 104.º LCS; mora e juros nos termos dos arts. 805.º e 806.º CC) + custas
 - Providência cautelar: se urgência (p.e. seguro de saúde, seguro de vida em situação grave)
 
 ### ETAPA 4 — A PETIÇÃO
@@ -106,7 +109,7 @@ Nos termos do art. [X.º] das Condições Gerais da apólice, "[transcrição da
 
 B — DA INVALIDADE DA EXCLUSÃO INVOCADA
 
-[Se aplicável] Nos termos do art. 38.º da LCS (Lei n.º 72/2008, de 16 de abril): "[transcrição]". A exclusão invocada não foi comunicada ao Autor antes da celebração do contrato, pelo que não o vincula.
+[Se aplicável] Nos termos do art. 3.º da LCS (aprovada pelo Decreto-Lei n.º 72/2008, de 16 de abril), aplica-se ao contrato de seguro a legislação sobre cláusulas contratuais gerais, pelo que se consideram excluídas do contrato as cláusulas não comunicadas ou comunicadas com violação do dever de informação (arts. 5.º, 6.º e 8.º, alíneas a) e b), do DL n.º 446/85): "[transcrição]". Acresce que as cláusulas que estabeleçam a exclusão ou limitação das coberturas têm de constar da apólice em caracteres destacados e de maior dimensão do que os restantes (art. 37.º, n.º 3, alínea b), da LCS). A exclusão invocada não foi comunicada ao Autor antes da celebração do contrato, pelo que não o vincula.
 
 C — DO INCUMPRIMENTO DA RÉ
 
@@ -114,7 +117,7 @@ Nos termos do art. 104.º da LCS: "[transcrição do prazo de liquidação]". A 
 
 D — DA MORA E JUROS
 
-Nos termos do art. 106.º da LCS: "[transcrição]". O Autor tem direito a juros de mora desde [data] à taxa legal.
+Vencida a obrigação da Ré nos termos do art. 104.º da LCS, a falta de pagamento constitui-a em mora (art. 805.º CC), sendo devidos juros a contar do dia da constituição em mora (art. 806.º, n.º 1, CC): "[transcrição]". O Autor tem direito a juros de mora desde [data] à taxa legal.
 
 **III. DOS PEDIDOS**
 
@@ -136,11 +139,11 @@ Em <checklist_validacao>:
 - [ ] Partes identificadas com NIF/NIPC e morada
 - [ ] Factos numerados e cronológicos
 - [ ] Cobertura da apólice demonstrada
-- [ ] Fundamento de invalidade da exclusão (se aplicável — art. 38.º LCS)
-- [ ] Mora da seguradora fundamentada (art. 106.º LCS)
+- [ ] Fundamento de invalidade da exclusão (se aplicável — arts. 3.º e 37.º, n.º 3, LCS; arts. 5.º, 6.º e 8.º DL 446/85)
+- [ ] Mora da seguradora fundamentada (art. 104.º LCS; arts. 805.º e 806.º CC)
 - [ ] Pedidos discriminados (indemnização + juros + custas)
 - [ ] Valor da causa indicado
-- [ ] Prescrição verificada [■ VERIFICAR prazo]
+- [ ] Prescrição verificada (5 anos a contar do conhecimento do direito — art. 121.º, n.º 2, LCS)
 - [ ] Esgotamento de vias extrajudiciais referenciado
 - [ ] Pontos [■ VERIFICAR] sinalizados
 - [ ] Disclaimer incluído
@@ -185,21 +188,33 @@ Em <checklist_validacao>:
 
 | Citação | Estado | Nota |
 |---|---|---|
+| art. 117.º, n.º 1, alínea a), da LOSJ | por conferir [■ VERIFICAR] | diploma sem epígrafes locais |
+| art. 117.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 121.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 121.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| Art. 3.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| Arts. 18.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | Art. 37.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | Art. 44.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| Art. 44.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| Art. 100.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| Art. 106.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| Arts. 100.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | Art. 121.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | Art. 798.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | Art. 804.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | Art. 562.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | Art. 552.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| Art. 41.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| art. 106.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| art. 106.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| art. 106.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| art. 38.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| art. 38.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| Art. 71.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 81.º, n.º 2, CPC | conferida (epígrafe) — Regra geral para as pessoas coletivas e sociedades |  |
+| art. 130.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 104.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 104.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 104.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 104.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| arts. 805.º e 806.º CC | conferida (índice) |  |
+| arts. 805.º e 806.º CC | conferida (índice) |  |
+| art. 3.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| arts. 5.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| arts. 5.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 37.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 805.º CC | conferida (índice) |  |
+| art. 806.º, n.º 1, CC | conferida (índice) |  |
+| arts. 3.º | por conferir [■ VERIFICAR] | diploma não identificado |

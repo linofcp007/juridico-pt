@@ -6,7 +6,8 @@ titulo_en: "Analysis of Non-Compete Clauses in a Commercial Contract"
 descricao: "Gera um parecer jurídico sobre a validade e conformidade de cláusulas de não concorrência (non-compete) num contrato comercial — de compra e venda de empresa, de distribuição, de franchising, de agência ou de sociedade — face ao Direito da Concorrência português e da UE, com avaliação dos limites de duração, âmbito e proporcionalidade."
 descricao_en: "Generates a legal opinion on the validity and compliance of non-compete clauses in a commercial contract — sale of a business, distribution, franchising, agency or company agreement — under Portuguese and EU competition law, assessing the limits on duration, scope and proportionality."
 ambito: nacional
-estado_citacoes: "conferidas 2 · corrigidas 0 · por conferir 2"
+estado_citacoes: "conferidas 2 · corrigidas 0 · por conferir 7"
+revisao_tecnica: "2026-10-28 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
@@ -14,7 +15,8 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 
 > **Âmbito:** nacional · **Área:** Direito da Concorrência · **Código:** CON-009
 > **EN:** Analysis of Non-Compete Clauses in a Commercial Contract. Generates a legal opinion on the validity and compliance of non-compete clauses in a commercial contract — sale of a business, distribution, franchising, agency or company agreement — under Portuguese and EU competition law, assessing the limits on duration, scope and proportionality.
-> **Citações:** conferidas 2 · corrigidas 0 · por conferir 2. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 2 · corrigidas 0 · por conferir 7. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-28 — corrigida (1 correção com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
 Gera um parecer jurídico sobre a validade e conformidade de cláusulas de não concorrência (non-compete) num contrato comercial — de compra e venda de empresa, de distribuição, de franchising, de agência ou de sociedade — face ao Direito da Concorrência português e da UE, com avaliação dos limites de duração, âmbito e proporcionalidade.
 
@@ -49,8 +51,8 @@ Apresenta dentro de um bloco <fundamentos_juridicos>:
   * Venda de empresa: não concorrência até 3 anos (com clientela/know-how) ou 2 anos (só clientela)
   * Âmbito: limitado à atividade alienada, zona geográfica e mercado de produto
 - Regulamento (UE) 2022/720 — cláusulas de não concorrência em acordos verticais:
-  * Pós-contratuais: máximo 1 ano, limitadas a bens/serviços concorrentes
-  * Durante contrato: admitidas se necessárias para proteção do know-how fornecido
+  * Durante o contrato: isentas só se a duração não for indefinida nem ultrapassar 5 anos (art. 5.º, n.º 1, al. a)); o limite não se aplica quando o comprador vende a partir de instalações e terrenos do fornecedor, enquanto os ocupar (art. 5.º, n.º 2); conta também como não concorrência a obrigação de comprar ao fornecedor mais de 80 % das compras (art. 1.º, n.º 1, al. f))
+  * Pós-contratuais: excluídas da isenção (art. 5.º, n.º 1, al. b)), salvo se cumprirem cumulativamente as quatro condições do art. 5.º, n.º 3: bens ou serviços concorrentes com os contratuais; limitação às instalações e terrenos a partir dos quais o comprador operou; indispensabilidade para proteger o saber-fazer transferido pelo fornecedor; duração máxima de 1 ano após o termo. A restrição ao uso e à divulgação de saber-fazer que não seja do domínio público pode ser por tempo indeterminado
 - Artigo 334.º Código Civil — abuso de direito em cláusulas excessivamente restritivas
 - Código do Trabalho — art. 136.º (pactos de não concorrência pós-laborais) [■ VERIFICAR: aplicável se houver trabalhadores afetados]
 
@@ -133,5 +135,10 @@ Parecer de validade com classificação de risco e redação alternativa da clá
 |---|---|---|
 | Artigo 9.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 101.º TFUE | conferida (epígrafe) — São incompatíveis com o mercado interno e proibidos todos os acordos entre empresas, todas |  |
+| art. 5.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 5.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 5.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 5.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 1.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | Artigo 334.º Código Civil | conferida (epígrafe) — Abuso do direito |  |
 | art. 136.º | por conferir [■ VERIFICAR] | diploma não identificado |

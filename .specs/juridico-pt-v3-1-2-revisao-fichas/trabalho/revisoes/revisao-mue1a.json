@@ -1,0 +1,350 @@
+[
+  {
+    "codigo": "UE-012",
+    "veredicto": "corrigida",
+    "resumo": "A ficha tratava como terceiro regime um «Reconhecimento Profissional Europeu (RPE)» que não existe: o instituto dos arts. 4.º-A a 4.º-E da Diretiva 2005/36/CE é a carteira profissional europeia, procedimento eletrónico alternativo e só para cinco profissões (sem os guias turísticos). Corrigiu-se também a declaração prévia e a verificação prévia na prestação de serviços (art. 7.º, n.ºs 1 e 4; arts. 5.º e 6.º da Lei n.º 9/2009) e afirmou-se que, no reconhecimento para estabelecimento, não há deferimento tácito: a falta de decisão é impugnável (art. 51.º, n.º 3, da Diretiva; art. 47.º, n.º 5, da Lei n.º 9/2009).",
+    "descricao": "Elabora um parecer jurídico e/ou auxilia na preparação de requerimento de reconhecimento de qualificações profissionais obtidas noutro Estado-Membro da UE, ao abrigo da Diretiva 2005/36/CE (Diretiva Qualificações Profissionais) e da Lei n.º 9/2009, analisando o regime aplicável (reconhecimento automático ou regime geral, e a carteira profissional europeia nas profissões abrangidas), os procedimentos, os prazos e as eventuais medidas de compensação.",
+    "descricao_en": "Prepares a legal opinion and/or assists in preparing an application for recognition of professional qualifications obtained in another EU Member State, under Directive 2005/36/EC (Professional Qualifications Directive) and Law No 9/2009, analysing the applicable regime (automatic recognition or general system, and the European Professional Card for the professions covered), the procedures, the time limits and any compensation measures.",
+    "substituicoes": [
+      {
+        "de": "(c) Reconhecimento Profissional Europeu (RPE — para certas profissões via IMI).",
+        "para": "(c) carteira profissional europeia (CPE — procedimento eletrónico via IMI, que o profissional pode escolher em vez dos procedimentos comuns, disponível só para as profissões fixadas por ato de execução; arts. 4.º-A a 4.º-E da Diretiva).",
+        "motivo": "O «Reconhecimento Profissional Europeu» não existe; o instituto da Diretiva é a carteira profissional europeia (arts. 4.º-A a 4.º-E, aditados pela Diretiva 2013/55/UE).",
+        "fonte": "https://publications.europa.eu/resource/celex/32013L0055"
+      },
+      {
+        "de": "- Declaração prévia (art. 7.º): obrigatória para profissões com implicações de saúde ou segurança pública\n- Verificação de qualificações pela autoridade de acolhimento",
+        "para": "- Declaração prévia (art. 7.º, n.º 1): na primeira deslocação, o EM de acolhimento pode exigi-la, renovável anualmente; em Portugal, é exigida nas profissões reguladas por associação pública profissional ou cujo exercício deva ser comunicado por razões imperiosas de interesse público (art. 5.º, n.º 1, da Lei n.º 9/2009)\n- Verificação prévia das qualificações (art. 7.º, n.º 4): só nas profissões regulamentadas com impacto na saúde ou segurança públicas que não beneficiem do reconhecimento automático (art. 6.º da Lei n.º 9/2009); se a autoridade não se pronunciar nos prazos legais, a pretensão considera-se deferida (art. 6.º, n.º 11, da Lei n.º 9/2009)",
+        "motivo": "A ficha confundia a declaração prévia (facultativa para o EM e de âmbito geral) com a verificação prévia das qualificações, que é a que se restringe às profissões com impacto na saúde ou segurança públicas.",
+        "fonte": "https://diariodarepublica.pt/dr/detalhe/lei/31-2021-163866213"
+      },
+      {
+        "de": "*Reconhecimento Profissional Europeu (art. 4.º-A Diretiva):*\n- Procedimento eletrónico via IMI (Internal Market Information System)\n- Disponível para certas profissões (enfermeiros, fisioterapeutas, guias de montanha, guias turísticos, mediadores imobiliários [■ VERIFICAR lista atualizada])",
+        "para": "*Carteira profissional europeia (arts. 4.º-A a 4.º-E Diretiva):*\n- Procedimento eletrónico via IMI (Sistema de Informação do Mercado Interno), que o profissional pode escolher em vez dos procedimentos dos Títulos II e III (art. 4.º-A, n.º 2)\n- Disponível só para as profissões do Regulamento de Execução (UE) 2015/983: enfermeiros responsáveis por cuidados gerais, farmacêuticos (formação de base), fisioterapeutas, guias de montanha e agentes imobiliários [■ VERIFICAR se a lista foi alargada]\n- Se o EM de acolhimento não decidir nos prazos do art. 4.º-D, n.ºs 2 e 3, a carteira considera-se emitida (art. 4.º-D, n.º 5)",
+        "motivo": "Nome do instituto errado e lista de profissões errada: os guias turísticos não estão abrangidos e faltavam os farmacêuticos.",
+        "fonte": "https://publications.europa.eu/resource/celex/32015R0983"
+      },
+      {
+        "de": "- Regime geral: autoridade tem 1 mês para confirmar receção + 3 meses para decidir (art. 51.º Diretiva) [■ VERIFICAR prazo exato]\n- Silêncio: considera-se aprovação [■ VERIFICAR se direito nacional confirma este efeito]",
+        "para": "- Estabelecimento: a autoridade acusa a receção e pede os documentos em falta em 1 mês e decide em 3 meses a contar do processo completo, prorrogáveis por 1 mês nos casos dos capítulos I e II do Título III (art. 51.º, n.ºs 1 e 2, Diretiva; art. 47.º, n.ºs 3 e 4, da Lei n.º 9/2009)\n- Silêncio: no pedido de reconhecimento para estabelecimento não há deferimento tácito — a falta de decisão no prazo é suscetível de recurso judicial (art. 51.º, n.º 3, Diretiva; art. 47.º, n.º 5, da Lei n.º 9/2009); o deferimento tácito só está previsto na verificação prévia da prestação de serviços (art. 6.º, n.º 11, da Lei n.º 9/2009) e na carteira profissional europeia (art. 4.º-D, n.º 5, Diretiva)",
+        "motivo": "Nem a Diretiva nem a Lei n.º 9/2009 atribuem ao silêncio o efeito de aprovação no reconhecimento para estabelecimento; faltava a prorrogação de 1 mês.",
+        "fonte": "https://diariodarepublica.pt/dr/detalhe/lei/31-2021-163866213"
+      },
+      {
+        "de": "- Qual o regime aplicável (automático / geral / RPE)?",
+        "para": "- Qual o regime aplicável (automático / geral) e se convém usar a carteira profissional europeia?",
+        "motivo": "Remissão para o instituto inexistente «RPE».",
+        "fonte": "https://publications.europa.eu/resource/celex/32013L0055"
+      },
+      {
+        "de": "3.1. Identificação do regime: automático / geral / RPE",
+        "para": "3.1. Identificação do regime: automático / geral (e, se a profissão o permitir, carteira profissional europeia)",
+        "motivo": "Remissão para o instituto inexistente «RPE».",
+        "fonte": "https://publications.europa.eu/resource/celex/32013L0055"
+      },
+      {
+        "de": "- [ ] Regime correto determinado (automático / geral / RPE)",
+        "para": "- [ ] Regime correto determinado (automático / geral; carteira profissional europeia, se aplicável)",
+        "motivo": "Remissão para o instituto inexistente «RPE».",
+        "fonte": "https://publications.europa.eu/resource/celex/32013L0055"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Confirmar que a Lei n.º 9/2009 não foi alterada depois da Lei n.º 31/2021 (republicação lida no Diário da República de 24-5-2021).",
+      "Verificar se a profissão consta das listas publicadas ao abrigo do art. 51.º, n.º 1, da Lei n.º 9/2009 (verificação prévia na prestação de serviços) e qual a autoridade competente designada por portaria.",
+      "O reconhecimento automático abrange também a experiência profissional (atividades do anexo IV, capítulo II do Título III) e os princípios comuns de formação (capítulo III-A); a ficha só enumera as profissões setoriais.",
+      "Confirmar se o Regulamento de Execução (UE) 2015/983 foi alterado para alargar a carteira profissional europeia a outras profissões."
+    ],
+    "fontes": [
+      "https://publications.europa.eu/resource/celex/32005L0036",
+      "https://publications.europa.eu/resource/celex/32013L0055",
+      "https://publications.europa.eu/resource/celex/32015R0983",
+      "https://diariodarepublica.pt/dr/detalhe/lei/31-2021-163866213",
+      "https://www.ipl.pt/sites/default/files/legislacao%20e%20documentos/lei_31_2021.pdf"
+    ]
+  },
+  {
+    "codigo": "UE-017",
+    "veredicto": "corrigida",
+    "resumo": "O efeito da oposição estava invertido: havendo oposição, a ação prossegue no Estado-Membro de origem (processo europeu para ações de pequeno montante ou processo civil nacional) e só termina se o requerente o tiver pedido expressamente (arts. 7.º, n.º 4, e 17.º, na redação do Regulamento (UE) 2015/2421). Corrigiram-se as exclusões do art. 2.º, o requisito do crédito (art. 4.º), a dispensa de exequatur (art. 19.º, não 21.º), a declaração de executoriedade pelo tribunal (art. 18.º) e o tribunal competente em Portugal, que é o Juízo Central Cível do Tribunal da Comarca do Porto, e não o de Lisboa.",
+    "substituicoes": [
+      {
+        "de": "— O crédito deve ser líquido (valor determinado ou determinável), certo (não contestado) e exigível.",
+        "para": "— O crédito deve ser pecuniário, líquido e exigível na data em que é apresentado o requerimento (art. 4.º); o Regulamento não exige que o crédito não tenha sido contestado antes — se o devedor deduzir oposição, aplica-se o art. 17.º.",
+        "motivo": "O art. 4.º exige crédito pecuniário líquido e exigível; não exige crédito «não contestado» nem admite montante apenas determinável.",
+        "fonte": "https://publications.europa.eu/resource/celex/32006R1896"
+      },
+      {
+        "de": "— Se o devedor apresentar declaração de oposição (Formulário F) no prazo de 30 dias, o processo converte-se em processo civil ordinário (ou é extinto se o requerente não o solicitar).",
+        "para": "— Se o devedor apresentar declaração de oposição (Formulário F) no prazo de 30 dias a contar da citação ou notificação (art. 16.º, n.º 2), a ação prossegue nos tribunais competentes do EM de origem, segundo o processo europeu para ações de pequeno montante (Regulamento (CE) n.º 861/2007), se aplicável, ou o processo civil nacional adequado — salvo se o requerente tiver pedido expressamente que, nesse caso, se ponha termo ao processo (arts. 7.º, n.º 4, e 17.º, n.ºs 1 e 2, na redação do Regulamento (UE) 2015/2421).",
+        "motivo": "Efeito invertido: o processo só termina se o requerente o pedir expressamente; desde 14-7-2017 pode prosseguir no processo europeu para ações de pequeno montante.",
+        "fonte": "https://publications.europa.eu/resource/celex/32015R2421"
+      },
+      {
+        "de": "- Art. 2.º: âmbito — matéria civil e comercial; exclusões (estado civil, falência, segurança social, arbitragem, responsabilidade extracontratual não contratual [■ VERIFICAR])",
+        "para": "- Art. 2.º: âmbito — matéria civil e comercial em casos transfronteiriços, com exclusão das matérias fiscal, aduaneira e administrativa e da responsabilidade do Estado por atos *jure imperii*; exclusões do n.º 2: direitos patrimoniais decorrentes de regimes matrimoniais ou análogos, testamentos e sucessões; falências, concordatas e procedimentos análogos; segurança social; créditos de obrigações não contratuais, salvo acordo das partes ou reconhecimento da dívida, ou dívidas líquidas decorrentes da compropriedade de bens; a Dinamarca não está abrangida (n.º 3)",
+        "motivo": "A lista de exclusões não corresponde ao art. 2.º: o estado civil e a arbitragem não constam e as obrigações não contratuais têm exceções.",
+        "fonte": "https://publications.europa.eu/resource/celex/32006R1896"
+      },
+      {
+        "de": "2. Tribunal analisa em 30 dias → Emite injunção (Formulário E) ou rejeita",
+        "para": "2. Tribunal analisa e emite a injunção (Formulário E) no prazo mais curto possível e, regra geral, em 30 dias (art. 12.º, n.º 1), ou recusa o requerimento (Formulário D; a recusa não admite recurso, mas não impede novo requerimento — art. 11.º)",
+        "motivo": "O prazo de 30 dias é indicativo («regra geral») e a recusa tem regime próprio.",
+        "fonte": "https://publications.europa.eu/resource/celex/32006R1896"
+      },
+      {
+        "de": "5. Se sem oposição: injunção torna-se executória automaticamente [art. 18.º]\n6. Se com oposição: conversão para processo civil ordinário [art. 17.º]",
+        "para": "5. Se sem oposição: o tribunal declara imediatamente a injunção executória (Formulário G) [art. 18.º]\n6. Se com oposição: a ação prossegue no EM de origem, no processo europeu para ações de pequeno montante ou no processo civil nacional adequado, salvo pedido expresso do requerente para pôr termo ao processo [art. 17.º]",
+        "motivo": "A executoriedade depende de declaração do tribunal (art. 18.º, n.º 1); regime da oposição na redação atual do art. 17.º.",
+        "fonte": "https://publications.europa.eu/resource/celex/32015R2421"
+      },
+      {
+        "de": "- Art. 21.º: injunção executória é reconhecida e executada nos outros EM sem necessidade de exequatur\n- Apresentar ao tribunal de execução: injunção + certificado de executoriedade (Formulário G) + tradução (se necessária)",
+        "para": "- Art. 19.º: a injunção que adquiriu força executiva no EM de origem é reconhecida e executada nos outros EM sem declaração de executoriedade (exequatur)\n- Art. 21.º: a execução rege-se pela lei do EM de execução; apresentar às autoridades de execução cópia autêntica da injunção declarada executória pelo tribunal de origem (Formulário G) e, se necessário, tradução (n.º 2)",
+        "motivo": "A abolição do exequatur está no art. 19.º; o art. 21.º trata da execução e dos documentos a apresentar.",
+        "fonte": "https://publications.europa.eu/resource/celex/32006R1896"
+      },
+      {
+        "de": "- Se o devedor se opuser, convém pedir a conversão para processo ordinário? Em que EM?",
+        "para": "- Se o devedor se opuser, convém que a ação prossiga (e em que processo: ações de pequeno montante ou processo civil nacional — art. 7.º, n.º 4) ou que se lhe ponha termo? A ação prossegue sempre nos tribunais do EM de origem (art. 17.º, n.º 1).",
+        "motivo": "A escolha faz-se no apêndice do Formulário A e a ação prossegue no EM de origem; não há escolha de outro EM.",
+        "fonte": "https://publications.europa.eu/resource/celex/32015R2421"
+      },
+      {
+        "de": "[Tribunal competente em Portugal — ex: Juízo Central Cível de Lisboa]",
+        "para": "[Em Portugal, o tribunal designado para emitir a injunção de pagamento europeia é o Juízo Central Cível do Tribunal da Comarca do Porto (informação comunicada ao abrigo do art. 29.º, n.º 1, al. a)); a competência internacional dos tribunais portugueses tem de resultar do art. 6.º]",
+        "motivo": "Portugal concentrou a emissão da injunção de pagamento europeia no Juízo Central Cível do Porto; o exemplo de Lisboa leva a requerimento em tribunal incompetente.",
+        "fonte": "https://e-justice.europa.eu/topics/taking-legal-action/european-judicial-atlas-civil-matters/european-payment-order/pt_pt"
+      },
+      {
+        "de": "- [ ] Litígio transfronteiriço confirmado (partes em EM diferentes)",
+        "para": "- [ ] Caso transfronteiriço confirmado (pelo menos uma das partes com domicílio ou residência habitual num EM diferente do do tribunal — art. 3.º)",
+        "motivo": "O critério do art. 3.º é o EM do tribunal, não a diferença entre os EM das partes.",
+        "fonte": "https://publications.europa.eu/resource/celex/32006R1896"
+      },
+      {
+        "de": "- EM de domicílio/sede: [país — deve ser diferente do EM do tribunal]",
+        "para": "- EM de domicílio/sede: [país — basta que uma das partes tenha domicílio ou residência habitual num EM diferente do do tribunal (art. 3.º)]",
+        "motivo": "Pelo art. 3.º, n.º 1, não é necessário que seja o requerido a estar noutro EM.",
+        "fonte": "https://publications.europa.eu/resource/celex/32006R1896"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Confirmar no Portal Europeu da Justiça (última atualização lida: 28-4-2025) que a designação do Juízo Central Cível do Tribunal da Comarca do Porto se mantém e os meios de apresentação aceites (art. 144.º, n.º 7, CPC).",
+      "Confirmar a competência internacional do tribunal português (art. 6.º; Regulamento (UE) n.º 1215/2012) — sem ela, o requerimento é recusado.",
+      "Verificar as custas aplicáveis (art. 25.º, na redação do Regulamento (UE) 2015/2421) e o limite de 5 000 € do processo europeu para ações de pequeno montante, para escolher o processo subsequente à oposição."
+    ],
+    "fontes": [
+      "https://publications.europa.eu/resource/celex/32006R1896",
+      "https://publications.europa.eu/resource/celex/32015R2421",
+      "https://e-justice.europa.eu/topics/taking-legal-action/european-judicial-atlas-civil-matters/european-payment-order/pt_pt"
+    ]
+  },
+  {
+    "codigo": "UE-019",
+    "veredicto": "corrigida",
+    "resumo": "O critério do caráter transfronteiriço estava errado: o art. 3.º do Regulamento (UE) n.º 655/2014 atende ao EM da conta face ao EM do tribunal ou ao do domicílio do credor, não ao domicílio das partes. Corrigiram-se o pedido de informações sobre contas (art. 14.º: exige decisão, transação ou instrumento autêntico), o fumus boni iuris (só sem título, art. 7.º, n.º 2), a garantia (art. 12.º), o processo ex parte (art. 11.º, não 8.º), o fundamento do pedido (arts. 7.º e 8.º, não 12.º), o prazo para instaurar a ação principal (art. 10.º) e o uso obrigatório do formulário.",
+    "substituicoes": [
+      {
+        "de": "— O DEAC só se aplica a litígios transfronteiriços (credor e devedor em EM diferentes ou conta bancária num EM diferente).",
+        "para": "— A DEAC só se aplica a processos transfronteiriços: basta que a conta ou contas a arrestar sejam mantidas num EM diferente do EM do tribunal a que é apresentado o pedido ou num EM diferente do do domicílio do credor (art. 3.º, n.º 1); o domicílio do devedor noutro EM, por si só, não releva.",
+        "motivo": "O art. 3.º define o caso transfronteiriço pela localização da conta, não pelo domicílio das partes.",
+        "fonte": "https://publications.europa.eu/resource/celex/32014R0655"
+      },
+      {
+        "de": "— Demonstrar obrigatoriamente os dois pressupostos: fumus boni iuris (aparência de direito) e periculum in mora (urgência — risco de o devedor dissipar os fundos).",
+        "para": "— Demonstrar os pressupostos: periculum in mora (necessidade urgente — risco real de a execução subsequente do crédito ser frustrada ou consideravelmente dificultada, art. 7.º, n.º 1) e, se o credor ainda não tiver decisão judicial, transação judicial ou instrumento autêntico, fumus boni iuris (probabilidade de obter ganho de causa no processo principal, art. 7.º, n.º 2).",
+        "motivo": "O fumus boni iuris só é exigido ao credor que ainda não tem título (art. 7.º, n.º 2).",
+        "fonte": "https://publications.europa.eu/resource/celex/32014R0655"
+      },
+      {
+        "de": "— O credor tem obrigação de prestar garantia (caução) para cobrir danos do devedor se o arresto for injustificado — art. 12.º [■ VERIFICAR montante].",
+        "para": "— Sem decisão judicial, transação judicial ou instrumento autêntico, o tribunal exige ao credor uma garantia (caução) suficiente para prevenir a utilização abusiva e assegurar a indemnização dos prejuízos do devedor, só a podendo dispensar a título excecional (art. 12.º, n.º 1); com esses títulos, a garantia só é exigida se o tribunal a considerar necessária e adequada (art. 12.º, n.º 2) [■ VERIFICAR montante].",
+        "motivo": "A garantia não é obrigatória em todos os casos: o regime depende de o credor ter ou não título.",
+        "fonte": "https://publications.europa.eu/resource/celex/32014R0655"
+      },
+      {
+        "de": "- O litígio é transfronteiriço (credor e devedor em EM diferentes, ou conta num EM diferente)?",
+        "para": "- O processo é transfronteiriço (conta a arrestar num EM diferente do EM do tribunal ou do EM do domicílio do credor — art. 3.º, n.º 1)?",
+        "motivo": "Critério do art. 3.º.",
+        "fonte": "https://publications.europa.eu/resource/celex/32014R0655"
+      },
+      {
+        "de": "- A matéria está excluída do âmbito do Regulamento (estado civil, insolvência, segurança social)?",
+        "para": "- A matéria está excluída do âmbito do Regulamento (regimes matrimoniais e análogos, testamentos e sucessões, devedor em processo de insolvência, segurança social, arbitragem; contas impenhoráveis — art. 2.º)?",
+        "motivo": "O estado civil não é exclusão do art. 2.º; faltavam os regimes matrimoniais, as sucessões e a arbitragem.",
+        "fonte": "https://publications.europa.eu/resource/celex/32014R0655"
+      },
+      {
+        "de": "* Fumus boni iuris: prova suficiente de que o credor tem uma alegação de crédito fundada contra o devedor",
+        "para": "* Fumus boni iuris: só se o credor ainda não tiver decisão judicial, transação judicial ou instrumento autêntico — prova suficiente de que é provável que obtenha ganho de causa no processo principal (art. 7.º, n.º 2)",
+        "motivo": "Redação e âmbito do art. 7.º, n.º 2.",
+        "fonte": "https://publications.europa.eu/resource/celex/32014R0655"
+      },
+      {
+        "de": "- Art. 8.º: procedimento unilateral (inaudita altera parte)",
+        "para": "- Art. 8.º: pedido no formulário normalizado (Regulamento de Execução (UE) 2016/1823), com as menções do n.º 2 e os documentos comprovativos (n.º 3)\n- Art. 11.º: processo ex parte (inaudita altera parte) — o devedor não é notificado do pedido nem ouvido antes da decisão",
+        "motivo": "O art. 8.º regula o pedido; o processo ex parte está no art. 11.º.",
+        "fonte": "https://publications.europa.eu/resource/celex/32014R0655"
+      },
+      {
+        "de": "- Art. 14.º: pedido de informação sobre contas bancárias (quando o credor não conhece o banco/conta do devedor — tribunal solicita à autoridade nacional)",
+        "para": "- Art. 14.º: pedido de informações sobre contas (quando o credor não conhece o banco nem o IBAN/BIC) — só se já tiver obtido decisão executória, transação judicial ou instrumento autêntico; se o título ainda não tiver força executória, só quando o montante a arrestar for avultado e houver necessidade urgente das informações (n.º 1, 2.º parágrafo); antes de obtido o título, não está disponível. O tribunal transmite o pedido à autoridade de informação do EM de execução",
+        "motivo": "Faltava a condição principal do art. 14.º, n.º 1: o pedido de informações pressupõe título.",
+        "fonte": "https://publications.europa.eu/resource/celex/32014R0655"
+      },
+      {
+        "de": "- O credor conhece o banco e conta do devedor? Se não, pode pedir informação ao tribunal (art. 14.º).",
+        "para": "- O credor conhece o banco e conta do devedor? Se não, só pode pedir informação ao tribunal se já tiver decisão judicial, transação judicial ou instrumento autêntico (art. 14.º, n.º 1).",
+        "motivo": "Condição do art. 14.º, n.º 1.",
+        "fonte": "https://publications.europa.eu/resource/celex/32014R0655"
+      },
+      {
+        "de": "**AO [TRIBUNAL COMPETENTE — confirmar competência para o processo principal]**",
+        "para": "[Nota: o pedido é apresentado no formulário normalizado (art. 8.º, n.º 1; Regulamento de Execução (UE) 2016/1823); a estrutura seguinte serve para preparar o seu conteúdo e a fundamentação a juntar.]\n\n**AO [TRIBUNAL COMPETENTE — confirmar competência para o processo principal; com decisão judicial ou transação, o tribunal do EM onde foi proferida ou homologada (art. 6.º)]**",
+        "motivo": "O pedido tem de ser apresentado no formulário normalizado (art. 8.º, n.º 1); a competência depende de haver ou não título (art. 6.º).",
+        "fonte": "https://publications.europa.eu/resource/celex/32016R1823"
+      },
+      {
+        "de": "ao abrigo do art. 12.º do Regulamento (UE) n.º 655/2014, bem como",
+        "para": "ao abrigo dos arts. 7.º e 8.º do Regulamento (UE) n.º 655/2014, bem como",
+        "motivo": "O art. 12.º trata da garantia do credor, não da concessão da decisão de arresto.",
+        "fonte": "https://publications.europa.eu/resource/celex/32014R0655"
+      },
+      {
+        "de": "[O requerente compromete-se a prestar caução / indica que está isento por existência de sentença executória — art. 12.º, n.º 2]",
+        "para": "[O requerente compromete-se a prestar a garantia que o tribunal fixar / ou indica as razões pelas quais deve ser dispensado (art. 8.º, n.º 2, al. k)): sem título, a dispensa é excecional (art. 12.º, n.º 1, 2.º parágrafo); com decisão judicial, transação judicial ou instrumento autêntico, a garantia só é exigida se o tribunal a considerar necessária e adequada (art. 12.º, n.º 2)]",
+        "motivo": "O art. 12.º, n.º 2, não isenta o credor com título: deixa a garantia ao critério do tribunal, e não exige sentença executória.",
+        "fonte": "https://publications.europa.eu/resource/celex/32014R0655"
+      },
+      {
+        "de": "- [ ] Processo principal: se ainda não instaurado, prazo de 30 dias mencionado",
+        "para": "- [ ] Processo principal: se ainda não instaurado, prazo do art. 10.º, n.º 1, mencionado (30 dias a contar do pedido ou 14 dias a contar da decisão de arresto, o que terminar mais tarde)",
+        "motivo": "O prazo do art. 10.º, n.º 1, tem dois termos alternativos.",
+        "fonte": "https://publications.europa.eu/resource/celex/32014R0655"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Confirmar o método de obtenção de informações sobre contas previsto na lei portuguesa e noutros EM (art. 14.º, n.º 5) e as contas impenhoráveis na lei do EM da conta (art. 2.º, n.º 3).",
+      "Confirmar o tribunal competente em Portugal e o formulário em vigor no Portal Europeu da Justiça.",
+      "A Dinamarca não participa no Regulamento; confirmar no caso concreto o EM da conta."
+    ],
+    "fontes": [
+      "https://publications.europa.eu/resource/celex/32014R0655",
+      "https://publications.europa.eu/resource/celex/32016R1823"
+    ]
+  },
+  {
+    "codigo": "UE-026",
+    "veredicto": "corrigida",
+    "resumo": "A ficha aplicava o Regulamento (UE) 2021/1060 também ao PRR, que assenta no Regulamento (UE) 2021/241 e no art. 10.º-A do Decreto-Lei n.º 29-B/2021, e citava um «Regulamento Delegado (UE) 2022/677» que não existe (o ato com esse número é uma decisão sobre cosméticos). O conceito de irregularidade está no art. 2.º, ponto 31 (não 36), o art. 104.º RDC regula as correções da Comissão ao Estado-Membro e o art. 103.º, n.º 2, não trata do prejuízo. Acrescentou-se a base nacional do PT2030 (arts. 33.º e 34.º do Decreto-Lei n.º 20-A/2023), os prazos de restituição e de impugnação e o pagamento em prestações.",
+    "descricao": "Elabora a defesa do beneficiário de apoio PT2030 ou PRR (Plano de Recuperação e Resiliência) contra uma decisão de reposição total ou parcial do financiamento, incluindo a impugnação administrativa e, se necessário, a ação administrativa de impugnação. Cobre, no PT2030, o Regulamento (UE) 2021/1060 (Disposições Comuns) e o Decreto-Lei n.º 20-A/2023 e, no PRR, o Regulamento (UE) 2021/241 e o Decreto-Lei n.º 29-B/2021.",
+    "descricao_en": "Prepares the defence of a beneficiary of PT2030 or PRR (Recovery and Resilience Plan) support against a decision ordering total or partial repayment of the funding, including the administrative challenge and, if necessary, the action for annulment before the administrative courts. It covers, for PT2030, Regulation (EU) 2021/1060 (Common Provisions) and Decree-Law No 20-A/2023 and, for the PRR, Regulation (EU) 2021/241 and Decree-Law No 29-B/2021.",
+    "substituicoes": [
+      {
+        "de": "(FEDER, FSE+, FC, FRR)",
+        "para": "(FEDER, FSE+, FC; no PRR, o Mecanismo de Recuperação e Resiliência — MRR)",
+        "motivo": "«FRR» não designa nenhum fundo; o PRR é financiado pelo Mecanismo de Recuperação e Resiliência.",
+        "fonte": "https://publications.europa.eu/resource/celex/32021R0241"
+      },
+      {
+        "de": "- Conceito de irregularidade (art. 2.º, n.º 36, RDC 2021) e requisitos de uma correção financeira válida\n- Princípio da proporcionalidade das correções financeiras (art. 104.º RDC 2021 e Regulamento Delegado (UE) 2022/677)\n- Direito de audiência prévia: CPA arts. 121.º e ss.\n- Vias de impugnação: reclamação / recurso hierárquico à autoridade de gestão; recurso ao Tribunal Administrativo\n- Prazos: verificar despacho/regulamento específico do programa\n- Causas de exclusão da irregularidade: erros formais sem impacto financeiro real; ausência de prejuízo para o orçamento da UE (art. 103.º RDC 2021)",
+        "para": "- Quadro aplicável: no PT2030, o Regulamento (UE) 2021/1060 (RDC), o Decreto-Lei n.º 5/2023, o Decreto-Lei n.º 20-A/2023 (redução ou revogação no art. 33.º; recuperação no art. 34.º), a regulamentação específica e o aviso; no PRR, o Regulamento (UE) 2021/241 (art. 22.º, proteção dos interesses financeiros da União), o Decreto-Lei n.º 29-B/2021 (recuperação no art. 10.º-A, aditado pelo Decreto-Lei n.º 61/2023) e o contrato de financiamento ou termo de aceitação — o RDC e o Decreto-Lei n.º 20-A/2023 não regem o PRR\n- Conceito de irregularidade (art. 2.º, ponto 31, RDC 2021; art. 3.º, al. j), do Decreto-Lei n.º 20-A/2023): violação do direito aplicável que tem, ou pode ter, por efeito lesar o orçamento da União pela imputação de uma despesa indevida; requisitos de uma correção financeira válida\n- Correções financeiras: o Estado-Membro cancela total ou parcialmente o apoio quando a despesa declarada é irregular (art. 103.º, n.º 1, RDC 2021); o art. 104.º RDC 2021 regula as correções da Comissão ao Estado-Membro, não a decisão dirigida ao beneficiário\n- Proporcionalidade: no PT2030, a violação de regras de contratação pública, de conflito de interesses ou de instrumentos financeiros dá lugar a uma redução proporcional à gravidade do incumprimento, tendo em conta a tabela de correções financeiras aprovada pela Comissão Europeia (art. 33.º, n.º 2, al. e), do Decreto-Lei n.º 20-A/2023); princípio da proporcionalidade (art. 7.º CPA) [■ VERIFICAR: tabela da Comissão aplicável à data dos factos]\n- Direito de audiência prévia: CPA arts. 121.º e ss.; no PT2030, a redução ou revogação exige decisão fundamentada da autoridade de gestão após audiência de interessados (art. 33.º, n.º 1, do Decreto-Lei n.º 20-A/2023)\n- Vias de impugnação: reclamação e recurso administrativo (CPA) [■ VERIFICAR: órgão competente para o recurso da decisão da autoridade de gestão, do organismo intermédio ou da estrutura de missão «Recuperar Portugal»]; ação administrativa de impugnação no tribunal administrativo, no prazo de 3 meses (art. 58.º, n.º 1, al. b), CPTA)\n- Prazos: verificar a notificação, a regulamentação específica e o aviso; a restituição faz-se em 30 dias úteis a contar da notificação para restituir, acrescendo depois juros de mora (PT2030: arts. 9.º e 34.º, n.º 4, do Decreto-Lei n.º 20-A/2023; PRR: art. 10.º-A, n.º 7, do Decreto-Lei n.º 29-B/2021); sem pagamento, segue-se a execução fiscal\n- Causas de exclusão da irregularidade: erros formais sem impacto financeiro real; ausência de prejuízo, efetivo ou potencial, para o orçamento da UE (art. 2.º, ponto 31, RDC 2021)",
+        "motivo": "O RDC não se aplica ao PRR; a irregularidade está no art. 2.º, ponto 31; o art. 104.º respeita às correções da Comissão; o «Regulamento Delegado (UE) 2022/677» não existe; o art. 103.º não trata do prejuízo; faltava a base nacional (arts. 33.º e 34.º do DL 20-A/2023; art. 10.º-A do DL 29-B/2021).",
+        "fonte": "https://thinktank-fundosue.ministeriopublico.pt/sites/default/files/2023-03/dl20-a-2023-22marco.pdf"
+      },
+      {
+        "de": "[Art. 104.º RDC 2021 + Regulamento Delegado (UE) 2022/677: a taxa de correção aplicada é excessiva face ao risco real e ao impacto financeiro concreto; cálculo alternativo fundamentado]",
+        "para": "[Art. 33.º, n.º 2, al. e), do Decreto-Lei n.º 20-A/2023 (no PT2030, redução proporcional à gravidade do incumprimento, tendo em conta a tabela de correções financeiras da Comissão Europeia) e princípio da proporcionalidade (art. 7.º CPA): a taxa de correção aplicada é excessiva face ao risco real e ao impacto financeiro concreto; cálculo alternativo fundamentado]",
+        "motivo": "O art. 104.º RDC não se aplica à decisão contra o beneficiário e o Regulamento Delegado citado não existe.",
+        "fonte": "https://thinktank-fundosue.ministeriopublico.pt/sites/default/files/2023-03/dl20-a-2023-22marco.pdf"
+      },
+      {
+        "de": "[Art. 103.º, n.º 2, RDC 2021: demonstração de que o objetivo da operação foi cumprido e o dinheiro foi aplicado na finalidade prevista]",
+        "para": "[Art. 2.º, ponto 31, RDC 2021 e art. 3.º, al. j), do Decreto-Lei n.º 20-A/2023: sem lesão, efetiva ou potencial, do orçamento da União não há irregularidade — demonstração de que o objetivo da operação foi cumprido e o dinheiro foi aplicado na finalidade prevista; no PRR, [■ VERIFICAR: fundamento equivalente no contrato de financiamento]]",
+        "motivo": "O art. 103.º, n.º 2, RDC só regula o registo contabilístico das correções; o elemento do prejuízo está no conceito de irregularidade.",
+        "fonte": "https://publications.europa.eu/resource/celex/32021R1060"
+      },
+      {
+        "de": "c) Subsidiariamente, fixação de plano de reembolso faseado.",
+        "para": "c) Subsidiariamente, autorização da restituição faseada (no PT2030, até 36 prestações mensais, a requerer à Agência, I. P., dentro do prazo de restituição — art. 34.º, n.º 6, do Decreto-Lei n.º 20-A/2023; no PRR, [■ VERIFICAR: regime das prestações nas orientações técnicas da estrutura de missão «Recuperar Portugal»]).",
+        "motivo": "O pagamento em prestações tem regime legal próprio no PT2030 e é pedido à Agência, I. P., não à autoridade de gestão.",
+        "fonte": "https://thinktank-fundosue.ministeriopublico.pt/sites/default/files/2023-03/dl20-a-2023-22marco.pdf"
+      },
+      {
+        "de": "- Autoridade de gestão: [ex. Compete 2030, Norte 2020, IAPMEI]",
+        "para": "- Autoridade de gestão: [ex. Compete 2030, Norte 2030; organismo intermédio, se houver (ex. IAPMEI); no PRR, a estrutura de missão «Recuperar Portugal» ou o beneficiário intermediário]",
+        "motivo": "O Norte 2020 é do período 2014-2020 e o IAPMEI não é autoridade de gestão; no PRR decide a estrutura de missão «Recuperar Portugal».",
+        "fonte": "https://portugal2030.pt/wp-content/uploads/sites/3/2023/03/Decreto-Lei-5_2023.pdf"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "O Decreto-Lei n.º 20-A/2023 foi alterado pelo Decreto-Lei n.º 40/2026 e pelo Decreto-Lei n.º 165/2026 (este alterou os arts. 12.º, 14.º, 20.º, 21.º e 28.º); confirmar que os arts. 3.º, 33.º e 34.º mantêm a redação lida (original de 22-3-2023).",
+      "Confirmar a redação em vigor do art. 10.º-A do Decreto-Lei n.º 29-B/2021 (aditado pelo Decreto-Lei n.º 61/2023 e com alterações posteriores ao diploma) e o regime de prestações do PRR nas orientações técnicas.",
+      "Confirmar que a numeração do art. 2.º, ponto 31, do Regulamento (UE) 2021/1060 se mantém na versão consolidada.",
+      "Identificar caso a caso quem é o superior hierárquico (ou a tutela) da autoridade de gestão ou da estrutura de missão, para saber se cabe recurso hierárquico e com que efeitos.",
+      "Na execução fiscal, a legalidade da dívida pode não ser discutível se havia meio próprio para impugnar a decisão de restituição (art. 204.º, n.º 1, al. h), CPPT) — reagir à decisão a tempo."
+    ],
+    "fontes": [
+      "https://publications.europa.eu/resource/celex/32021R1060",
+      "https://publications.europa.eu/resource/celex/32021R0241",
+      "https://publications.europa.eu/resource/celex/32022D0677",
+      "https://thinktank-fundosue.ministeriopublico.pt/sites/default/files/2023-03/dl20-a-2023-22marco.pdf",
+      "https://portugal2030.pt/wp-content/uploads/sites/3/2026/08/dl165_2026.pdf",
+      "https://portugal2030.pt/wp-content/uploads/sites/3/2023/03/Decreto-Lei-5_2023.pdf",
+      "https://portugal2030.pt/wp-content/uploads/sites/3/2023/03/dl29b_2021-1.pdf",
+      "https://diariodarepublica.pt/dr/detalhe/decreto-lei/61-2023-216055961",
+      "https://thinktank-fundosue.ministeriopublico.pt/sites/default/files/2023-07/dl61_2023_altmodelogovprr.pdf",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=439A0058&nid=439&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+    ]
+  },
+  {
+    "codigo": "UE-030",
+    "veredicto": "corrigida",
+    "resumo": "A ficha apoiava a interpretação estrita das exceções no acórdão do Tribunal Geral Bavarian Lager (T-194/04), que foi anulado pelo Tribunal de Justiça (C-28/08 P, de 29-6-2010) e respeita à proteção de dados pessoais; passou a citar-se Suécia e Turco/Conselho (C-39/05 P e C-52/05 P, n.º 36). O prazo do recurso de anulação passou a incluir a dilação de 10 dias em razão da distância e a advertência de que a queixa ao Provedor não o interrompe. Completaram-se as exceções do art. 4.º (faltava o processo decisório) e os beneficiários do art. 2.º.",
+    "substituicoes": [
+      {
+        "de": "- Âmbito do direito de acesso (art. 2.º Reg. 1049/2001): qualquer cidadão da UE ou residente; documentos elaborados ou recebidos e na posse da instituição",
+        "para": "- Âmbito do direito de acesso (art. 2.º Reg. 1049/2001): qualquer cidadão da União e qualquer pessoa singular ou coletiva que resida ou tenha a sede social num EM (n.º 1); a outras pessoas, a instituição pode conceder acesso (n.º 2); documentos elaborados ou recebidos e na posse da instituição (n.º 3)",
+        "motivo": "O art. 2.º, n.º 1, abrange também as pessoas coletivas com sede social num EM.",
+        "fonte": "https://publications.europa.eu/resource/celex/32001R1049"
+      },
+      {
+        "de": "- Exceções ao acesso (art. 4.º Reg. 1049/2001): segurança pública, relações internacionais, processo judicial, inspeções/investigações, interesses comerciais, privacidade; distinguir exceções absolutas vs. relativas (ponderação com interesse público)",
+        "para": "- Exceções ao acesso (art. 4.º Reg. 1049/2001): absolutas (n.º 1) — interesse público (segurança pública, defesa e questões militares, relações internacionais, política financeira, monetária ou económica) e vida privada e integridade do indivíduo, em especial a proteção de dados pessoais; relativas, que cedem perante um interesse público superior na divulgação (n.ºs 2 e 3) — interesses comerciais, incluindo a propriedade intelectual, processos judiciais e consultas jurídicas, objetivos de atividades de inspeção, inquérito e auditoria, e processo decisório da instituição",
+        "motivo": "A lista omitia a exceção do processo decisório (art. 4.º, n.º 3), das mais invocadas, e não separava as exceções absolutas das relativas.",
+        "fonte": "https://publications.europa.eu/resource/celex/32001R1049"
+      },
+      {
+        "de": "- Vias de impugnação em caso de recusa confirmativa: Provedor de Justiça Europeu (art. 228.º TFUE) ou recurso de anulação perante o Tribunal Geral (art. 263.º TFUE, prazo 2 meses)",
+        "para": "- Vias de impugnação em caso de recusa confirmativa ou de falta de resposta (art. 8.º, n.ºs 1 e 3): queixa ao Provedor de Justiça Europeu (art. 228.º TFUE) e/ou recurso de anulação perante o Tribunal Geral (art. 263.º TFUE), no prazo de 2 meses a contar da notificação, acrescido do prazo de dilação em razão da distância de 10 dias (art. 60.º do Regulamento de Processo do Tribunal Geral); a queixa ao Provedor não interrompe esse prazo (art. 2.º, n.º 8, do Regulamento (UE, Euratom) 2021/1163)",
+        "motivo": "Faltavam a dilação de 10 dias e a advertência de que a queixa ao Provedor não interrompe o prazo; as duas vias são cumuláveis («e/ou», art. 8.º).",
+        "fonte": "https://publications.europa.eu/resource/celex/32015Q0423(01)"
+      },
+      {
+        "de": "- Jurisprudência relevante: princípio da interpretação restrita das exceções (Caso Bavarian Lager, T-194/04)",
+        "para": "- Jurisprudência relevante: as exceções do art. 4.º devem ser interpretadas e aplicadas estritamente (acórdão do Tribunal de Justiça de 1 de julho de 2008, Suécia e Turco/Conselho, C-39/05 P e C-52/05 P, n.º 36); não citar o acórdão do Tribunal Geral Bavarian Lager (T-194/04), anulado pelo Tribunal de Justiça em recurso (C-28/08 P, de 29 de junho de 2010), que respeita à exceção da proteção de dados pessoais",
+        "motivo": "O acórdão T-194/04 foi anulado pelo Tribunal de Justiça e não é a referência para a interpretação estrita das exceções.",
+        "fonte": "https://publications.europa.eu/resource/celex/62005CJ0039"
+      },
+      {
+        "de": "- [ ] Prazo de 2 meses para recurso ao Tribunal Geral calendarizado",
+        "para": "- [ ] Prazo de 2 meses + 10 dias de dilação para recurso ao Tribunal Geral calendarizado (a queixa ao Provedor não o interrompe)",
+        "motivo": "Dilação em razão da distância (art. 60.º do Regulamento de Processo do Tribunal Geral).",
+        "fonte": "https://publications.europa.eu/resource/celex/32015Q0423(01)"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Confirmar o termo inicial do prazo do art. 263.º, sexto parágrafo, TFUE no caso concreto (notificação da decisão confirmativa ou formação do indeferimento tácito do art. 8.º, n.º 3).",
+      "Confirmar que o art. 60.º do Regulamento de Processo do Tribunal Geral não foi alterado nas revisões posteriores a 2015.",
+      "Para agências e organismos, confirmar no ato fundador a remissão para o Regulamento (CE) n.º 1049/2001 e as regras de execução próprias."
+    ],
+    "fontes": [
+      "https://publications.europa.eu/resource/celex/32001R1049",
+      "https://publications.europa.eu/resource/celex/62005CJ0039",
+      "https://publications.europa.eu/resource/celex/62008CJ0028",
+      "https://publications.europa.eu/resource/celex/32015Q0423(01)",
+      "https://publications.europa.eu/resource/celex/32021R1163"
+    ]
+  }
+]

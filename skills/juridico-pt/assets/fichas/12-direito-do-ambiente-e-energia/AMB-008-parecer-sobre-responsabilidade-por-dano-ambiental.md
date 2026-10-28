@@ -6,7 +6,8 @@ titulo_en: "Legal Opinion on Liability for Environmental Damage"
 descricao: "Elabora parecer jurídico sobre a responsabilidade civil por danos ao ambiente ao abrigo do Regime da Responsabilidade Ambiental (DL n.º 147/2008, de 29 de Julho, transpondo a Diretiva 2004/35/CE), analisando a imputabilidade, o nexo de causalidade, as obrigações de prevenção e reparação, e o regime de responsabilidade objetiva ou subjetiva aplicável."
 descricao_en: "Drafts a legal opinion on civil liability for environmental damage under the Environmental Liability Regime (Decree-Law No. 147/2008 of 29 July, transposing Directive 2004/35/EC), analysing attribution, causation, prevention and remediation obligations, and the applicable strict or fault-based liability regime."
 ambito: nacional
-estado_citacoes: "conferidas 3 · corrigidas 0 · por conferir 10"
+estado_citacoes: "conferidas 3 · corrigidas 0 · por conferir 24"
+revisao_tecnica: "2026-10-28 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
@@ -14,7 +15,8 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 
 > **Âmbito:** nacional · **Área:** Direito do Ambiente e Energia · **Código:** AMB-008
 > **EN:** Legal Opinion on Liability for Environmental Damage. Drafts a legal opinion on civil liability for environmental damage under the Environmental Liability Regime (Decree-Law No. 147/2008 of 29 July, transposing Directive 2004/35/EC), analysing attribution, causation, prevention and remediation obligations, and the applicable strict or fault-based liability regime.
-> **Citações:** conferidas 3 · corrigidas 0 · por conferir 10. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 3 · corrigidas 0 · por conferir 24. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-28 — corrigida (16 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
 Elabora parecer jurídico sobre a responsabilidade civil por danos ao ambiente ao abrigo do Regime da Responsabilidade Ambiental (DL n.º 147/2008, de 29 de Julho, transpondo a Diretiva 2004/35/CE), analisando a imputabilidade, o nexo de causalidade, as obrigações de prevenção e reparação, e o regime de responsabilidade objetiva ou subjetiva aplicável.
 
@@ -25,7 +27,7 @@ Ficha de trabalho para preparar este documento. As regras da casa prevalecem sob
 ## Regras obrigatórias
 - NUNCA inventes jurisprudência, valores de indemnização ou dados técnicos
 - Base legal: DL n.º 147/2008 (RRA) — transposição da Diretiva 2004/35/CE
-- Distinção fundamental: responsabilidade administrativa (RRA) vs. responsabilidade civil (arts. 483.º ss. CC) vs. responsabilidade penal (crimes ambientais)
+- Distinção fundamental: responsabilidade administrativa pela prevenção e reparação dos danos ambientais (capítulo III do DL 147/2008, arts. 11.º e ss.) vs. responsabilidade civil pelos danos causados a terceiros por via de um componente ambiental (capítulo II do DL 147/2008, arts. 7.º a 10.º, e, em geral, arts. 483.º ss. CC) vs. responsabilidade penal (crimes ambientais)
 - Danos cobertos pelo RRA: danos às espécies e habitats naturais protegidos, à água e ao solo
 - Operadores cobertos: Anexo III (responsabilidade objetiva) e outros (responsabilidade subjetiva)
 - Marca [■ VERIFICAR: dado em falta] quando informação estiver ausente
@@ -43,22 +45,22 @@ Analisa em <analise_do_caso>:
 - Nexo de causalidade: direta ou múltiplos operadores?
 - Ameaça iminente vs. dano consumado
 - Medidas de prevenção e reparação já adoptadas
-- Autoridade competente: APA (art. 12.º DL 147/2008)
+- Autoridade competente: APA (art. 29.º DL 147/2008)
 - Interface com responsabilidade civil/penal
 
 ### ETAPA 2 — ANÁLISE JURÍDICA
 Identifica em <fundamentos_juridicos>:
 - DL n.º 147/2008 — estrutura e campo de aplicação (arts. 1.º a 5.º)
-- Anexo III — atividades de responsabilidade objetiva (cita categorias relevantes)
-- Art. 11.º — obrigação de prevenção de ameaças iminentes
-- Art. 13.º — obrigação de reparação de danos causados
-- Art. 15.º — legitimidade para solicitar ação à APA (associações ambientais, particulares)
-- Arts. 20.º e ss. — responsabilidade solidária de múltiplos operadores
-- Critérios de reparação (Anexo IV): reparação primária, complementar e compensatória
-- Interface com art. 483.º CC (responsabilidade civil subjetiva)
-- Lei n.º 19/2014 — princípio do poluidor-pagador (art. 16.º)
+- Anexo III — atividades de responsabilidade objetiva (arts. 7.º e 12.º); fora do Anexo III, responsabilidade subjetiva, com dolo ou negligência, por qualquer dano ambiental (arts. 8.º e 13.º); os operadores do Anexo III têm de constituir garantia financeira (art. 22.º) (cita categorias relevantes)
+- Art. 14.º — obrigação de prevenção de ameaças iminentes (medidas imediatas e informação à APA)
+- Arts. 15.º e 16.º — obrigação de reparação: informar a APA no prazo máximo de 24 horas, conter os danos e propor as medidas de reparação no prazo de 10 dias a contar do dano
+- Art. 18.º — pedido de intervenção à APA por qualquer interessado (afetado ou que possa vir a ser afetado, com interesse suficiente no processo de decisão ou que invoque a violação de um direito ou interesse legítimo); a APA aprecia a viabilidade em 20 dias e ouve o operador em 10 dias
+- Art. 4.º — comparticipação: responsabilidade solidária de vários responsáveis, com direito de regresso; art. 3.º — responsabilidade solidária dos diretores, gerentes ou administradores da pessoa coletiva e, havendo abuso da personalidade jurídica ou fraude à lei, da sociedade-mãe ou dominante
+- Critérios de reparação (Anexo V): reparação primária, complementar e compensatória; o Anexo IV fixa os critérios do caráter significativo dos danos às espécies e habitats
+- Interface com a responsabilidade civil: arts. 7.º (objetiva, Anexo III) e 8.º (subjetiva) do DL 147/2008 e art. 483.º CC; proibição de dupla reparação (art. 10.º do DL 147/2008)
+- Lei n.º 19/2014 — princípio do poluidor-pagador (art. 3.º, alínea d))
 - Diretiva 2004/35/CE — âmbito e mecanismo de responsabilidade
-- Regime de exceções: ato de terceiro, força maior, ato de autoridade (art. 19.º DL 147/2008)
+- Exclusões e causas de exoneração: conflito armado, fenómenos naturais de caráter totalmente excecional, imprevisíveis ou inevitáveis, e as demais exclusões do âmbito do capítulo III (art. 2.º, n.º 2, DL 147/2008); exclusão da obrigação de pagar os custos quando o dano foi causado por terceiro apesar de adotadas medidas de segurança adequadas, resultou de ordem de autoridade pública ou, sem dolo nem negligência, de emissão expressamente autorizada ou de atividade não considerada danosa segundo o estado do conhecimento científico e técnico (art. 20.º, n.os 1 e 3), sem dispensa de executar as medidas (art. 20.º, n.º 2); prescrição dos danos de emissões ocorridas há mais de 30 anos (art. 33.º)
 
 ### ETAPA 3 — CONSTRUÇÃO
 Define em <estrategia>:
@@ -87,19 +89,19 @@ III.1 — Aplicabilidade do Regime da Responsabilidade Ambiental (DL 147/2008)
 
 III.2 — Regime de Responsabilidade Aplicável
 - Objetiva (Anexo III): dispensa prova de culpa
-- Subjetiva (outras): arts. 483.º e ss. CC
+- Subjetiva (outras atividades): exige dolo ou negligência — art. 13.º DL 147/2008 (prevenção e reparação); art. 8.º DL 147/2008 e arts. 483.º e ss. CC (indemnização dos lesados)
 
 III.3 — Obrigações do Operador
-- Prevenção de ameaças iminentes (art. 11.º)
-- Notificação à APA
-- Medidas de reparação (Anexo IV: primária, complementar, compensatória)
+- Prevenção de ameaças iminentes (art. 14.º)
+- Notificação à APA (imediata na ameaça iminente; no prazo máximo de 24 horas após o dano — arts. 14.º, n.º 4, e 15.º, n.º 1, alínea a))
+- Medidas de reparação (Anexo V: primária, complementar, compensatória)
 
 III.4 — Exceções e Causas de Exclusão
 - Análise de aplicabilidade ao caso concreto
 
 III.5 — Legitimidade e Procedimento
 - Papel da APA como autoridade competente
-- Legitimidade de terceiros para solicitar ação (art. 15.º)
+- Legitimidade de terceiros para solicitar ação (art. 18.º)
 
 **IV. CONCLUSÕES E RECOMENDAÇÕES**
 - Qualificação da situação jurídica do cliente
@@ -153,16 +155,30 @@ Apresenta em <checklist_validacao>:
 
 | Citação | Estado | Nota |
 |---|---|---|
+| arts. 11.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| arts. 7.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| arts. 7.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| arts. 7.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | arts. 483.º ss. CC | conferida (índice) |  |
-| art. 12.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 29.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | arts. 1.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| Art. 11.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| Art. 13.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| Art. 15.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| Arts. 20.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| arts. 8.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 22.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| Art. 14.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| Arts. 15.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| Art. 18.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| Art. 4.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 3.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 3.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 483.º CC | conferida (índice) |  |
-| art. 16.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| art. 19.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 10.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 2.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 20.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 20.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 33.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 13.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 8.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | arts. 483.º e ss. CC | conferida (índice) |  |
-| art. 11.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| art. 15.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 14.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| arts. 14.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 18.º | por conferir [■ VERIFICAR] | diploma não identificado |

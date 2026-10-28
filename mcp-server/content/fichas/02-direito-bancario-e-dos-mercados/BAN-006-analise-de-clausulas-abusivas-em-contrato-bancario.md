@@ -6,7 +6,8 @@ titulo_en: "Review of Unfair Terms in a Banking Contract"
 descricao: "Analisa cláusulas de contratos bancários — crédito, conta bancária, cartão, depósito — identificando cláusulas nulas, proibidas ou potencialmente abusivas ao abrigo do regime das cláusulas contratuais gerais (DL n.º 446/85), do RGICSF e da legislação setorial aplicável, com enquadramento legal preciso e recomendação de via de impugnação."
 descricao_en: "Reviews the terms of banking contracts — credit, bank account, card, deposit — identifying void, prohibited or potentially unfair terms under the standard contract terms regime (cláusulas contratuais gerais, Decree-Law No. 446/85), the RGICSF and the applicable sector legislation, with a precise legal framework and a recommended route for challenge."
 ambito: nacional
-estado_citacoes: "conferidas 0 · corrigidas 0 · por conferir 9"
+estado_citacoes: "conferidas 0 · corrigidas 0 · por conferir 22"
+revisao_tecnica: "2026-10-28 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
@@ -14,7 +15,8 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 
 > **Âmbito:** nacional · **Área:** Direito Bancário e dos Mercados · **Código:** BAN-006
 > **EN:** Review of Unfair Terms in a Banking Contract. Reviews the terms of banking contracts — credit, bank account, card, deposit — identifying void, prohibited or potentially unfair terms under the standard contract terms regime (cláusulas contratuais gerais, Decree-Law No. 446/85), the RGICSF and the applicable sector legislation, with a precise legal framework and a recommended route for challenge.
-> **Citações:** conferidas 0 · corrigidas 0 · por conferir 9. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 0 · corrigidas 0 · por conferir 22. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-28 — corrigida (3 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
 Analisa cláusulas de contratos bancários — crédito, conta bancária, cartão, depósito — identificando cláusulas nulas, proibidas ou potencialmente abusivas ao abrigo do regime das cláusulas contratuais gerais (DL n.º 446/85), do RGICSF e da legislação setorial aplicável, com enquadramento legal preciso e recomendação de via de impugnação.
 
@@ -45,19 +47,19 @@ Em <fundamentos_juridicos>:
   - Art. 5.º: dever de comunicação prévia
   - Art. 6.º: dever de informação
   - Art. 8.º: cláusulas excluídas por falta de comunicação
-  - Art. 12.º e ss: controlo do conteúdo
-  - Art. 15.º: cláusulas absolutamente proibidas (lista negra)
-  - Art. 16.º: cláusula geral — boa fé
-  - Art. 17.º e ss: cláusulas proibidas em contratos com consumidores (lista cinzenta)
-  - Art. 21.º: lista cinzenta de consumidores — exemplos
-- RGICSF art. 73.º: dever de transparência
+  - Art. 12.º: as cláusulas proibidas são nulas; art. 13.º: o aderente pode optar pela manutenção do contrato
+  - Arts. 15.º e 16.º: cláusula geral — proibição das cláusulas contrárias à boa fé e sua concretização (aplica-se a todos os contratos)
+  - Arts. 17.º a 19.º: relações entre empresários ou profissionais liberais — art. 18.º (cláusulas absolutamente proibidas — lista negra) e art. 19.º (relativamente proibidas, consoante o quadro negocial padronizado — lista cinzenta)
+  - Arts. 20.º a 22.º: relações com consumidores finais — aplicam-se também os arts. 18.º e 19.º e ainda o art. 21.º (absolutamente proibidas — lista negra) e o art. 22.º (relativamente proibidas — lista cinzenta; nos serviços financeiros, ver as ressalvas do art. 22.º, n.ºs 2 a 4)
+  - Art. 24.º: as nulidades são invocáveis nos termos gerais; arts. 25.º e 26.º: ação inibitória e legitimidade ativa
+- RGICSF art. 77.º: dever de informação sobre o preço dos serviços e outros encargos (n.º 1) e contratos redigidos de forma clara e concisa (n.º 5)
 - DL n.º 74-A/2017 / DL n.º 133/2009 (conforme o tipo de crédito)
 - Diretiva 93/13/CEE (cláusulas abusivas — camada UE): standard de controlo nas relações B2C
 
 ### ETAPA 3 — CONSTRUÇÃO
 Em <estrategia>:
 - Priorizar as cláusulas com maior impacto financeiro
-- Distinguir nulidade absoluta (qualquer pessoa pode invocar) de nulidade relativa
+- Distinguir as cláusulas absolutamente proibidas (nulas em qualquer caso) das relativamente proibidas (nulas consoante o quadro negocial padronizado, o que exige fundamentação concreta); a nulidade é invocável nos termos gerais (art. 24.º) e o aderente pode manter o contrato sem a cláusula (art. 13.º); a cláusula não comunicada ou não informada nem chega a integrar o contrato (art. 8.º) — é exclusão, não nulidade
 - Identificar via: declaração de nulidade extrajudicial → reclamação interna → Banco de Portugal → CACCL → ação judicial declarativa
 - Avaliar se a prova de não-comunicação é exequível
 
@@ -94,7 +96,7 @@ Para cada cláusula identificada, apresenta:
 Em <checklist_validacao>:
 - [ ] Tipo de contrato e aderente identificados
 - [ ] Cada cláusula classificada com fundamento legal
-- [ ] Artigos do DL 446/85 aplicados corretamente (lista negra vs cinzenta)
+- [ ] Artigos do DL 446/85 aplicados corretamente (lista negra: arts. 18.º e 21.º; lista cinzenta: arts. 19.º e 22.º; regime conforme o aderente seja consumidor ou empresário)
 - [ ] Impacto prático de cada cláusula avaliado
 - [ ] Tabela resumo incluída
 - [ ] Recomendações de via indicadas
@@ -134,8 +136,21 @@ Cláusula Y.ª: "[texto integral]"
 | Art. 6.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | Art. 8.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | Art. 12.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| Art. 15.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| Art. 16.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| Art. 17.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| Art. 21.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| art. 73.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 13.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 13.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| Arts. 15.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| Arts. 17.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 18.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 19.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| Arts. 20.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| arts. 18.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| arts. 18.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 21.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 22.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 22.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| Art. 24.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| arts. 25.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 77.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 24.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 8.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| arts. 19.º | por conferir [■ VERIFICAR] | diploma não identificado |

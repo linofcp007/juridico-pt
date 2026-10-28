@@ -1,0 +1,635 @@
+[
+ {
+  "codigo": "FAM-006",
+  "veredicto": "corrigida",
+  "resumo": "A ficha mandava calcular os alimentos «com referência à Portaria n.º 278/2013», que regulamenta o processo de inventário e nada tem que ver com alimentos, e fixava nos 12 anos a audição da criança, limite que o RGPTC não prevê (conta a capacidade de compreensão, aferida pelo juiz caso a caso). Atribuía ainda o relatório social à DGRSP, quando no processo tutelar cível a assessoria cabe às equipas multidisciplinares de assessoria técnica, e endereçava a um «Tribunal de Família e Menores», figura substituída pelos juízos de família e menores. Corrigiram-se estes pontos, o intervalo dos artigos do processo (34.º a 40.º), a «isenção» por apoio judiciário (é dispensa de taxa de justiça) e a grafia do mês.",
+  "substituicoes": [
+   {
+    "de": "(Lei n.º 141/2015, de 8 de Setembro)",
+    "para": "(Lei n.º 141/2015, de 8 de setembro)",
+    "motivo": "Grafia do AO90: nomes dos meses em minúscula (Base XIX).",
+    "fonte": "https://www.portaldalinguaportuguesa.org/acordo.php?action=acordo&version=1990"
+   },
+   {
+    "de": "- Arts. 34.º a 38.º RGPTC (processo de regulação)",
+    "para": "- Arts. 34.º a 40.º RGPTC (processo de regulação: homologação do acordo, conferência, falta de acordo, termos posteriores e sentença)",
+    "motivo": "O processo de regulação não termina no art. 38.º: os arts. 39.º (termos posteriores) e 40.º (sentença) fazem parte dele.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2428&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Art. 5.º RGPTC (direito de audição da criança — a partir dos 12 anos; antes se maturidade)",
+    "para": "- Arts. 4.º, n.º 1, al. c), e n.º 2, e 5.º RGPTC (audição da criança — sem limite de idade fixo: é ouvida a criança com capacidade de compreensão dos assuntos em discussão, aferida casuisticamente pelo juiz em função da idade e da maturidade)",
+    "motivo": "O RGPTC não fixa a idade de 12 anos: a criança com capacidade de compreensão é sempre ouvida, e o juiz afere essa capacidade caso a caso, por despacho.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2428A0004&nid=2428&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Arts. 2.003.º a 2.009.º CC + Portaria n.º 278/2013 (alimentos)",
+    "para": "- Arts. 1.905.º e 2.003.º a 2.009.º CC (alimentos devidos ao filho, proporcionais aos meios de quem os presta e às necessidades de quem os recebe — art. 2.004.º CC)",
+    "motivo": "A Portaria n.º 278/2013, de 26 de agosto, regulamenta o processo de inventário; não há portaria de cálculo de alimentos. O critério legal é o do art. 2004.º CC, e o art. 1905.º CC rege os alimentos devidos ao filho.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1966&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao= | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2003&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "relatório social da DGRSP se disponível",
+    "para": "informação ou relatório da equipa multidisciplinar de assessoria técnica ao tribunal — arts. 20.º e 21.º RGPTC",
+    "motivo": "No processo tutelar cível, a assessoria técnica ao tribunal (informações e relatórios) cabe às equipas técnicas multidisciplinares previstas no RGPTC, não à DGRSP.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2428A0020&nid=2428&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "1. Endereçamento — Tribunal de Família e Menores competente",
+    "para": "1. Endereçamento — Juízo de Família e Menores do tribunal judicial da comarca da residência da criança no momento da instauração (art. 9.º RGPTC) [■ VERIFICAR: juízo competente na área]",
+    "motivo": "Na LOSJ os tribunais de comarca desdobram-se em juízos, entre eles os de família e menores; a competência territorial é a da residência da criança à data da instauração (art. 9.º RGPTC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2428A0009&nid=2428&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao= | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1974A0081&nid=1974&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "e) Custas (isenção se apoio judiciário)",
+    "para": "e) Custas (dispensa de taxa de justiça e demais encargos com o processo, se beneficiar de apoio judiciário)",
+    "motivo": "O apoio judiciário não é uma isenção de custas: a modalidade é a dispensa de taxa de justiça e demais encargos com o processo (art. 16.º da Lei n.º 34/2004).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=80A0016&nid=80&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- [ ] Alimentos calculados com referência à Portaria n.º 278/2013?",
+    "para": "- [ ] Alimentos fundamentados nos meios do progenitor obrigado e nas necessidades da criança (art. 2.004.º CC)?",
+    "motivo": "A Portaria n.º 278/2013 regulamenta o processo de inventário; o critério dos alimentos está no art. 2004.º CC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1966&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao= | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2003&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- [ ] Audição do menor requerida (se +12 anos ou maturidade suficiente)?",
+    "para": "- [ ] Audição da criança requerida, se tiver capacidade de compreensão dos assuntos em discussão (art. 4.º, n.º 1, al. c), RGPTC)?",
+    "motivo": "O RGPTC não prevê o limite dos 12 anos; o critério é a capacidade de compreensão.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2428A0004&nid=2428&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Relatório social DGRSP disponível? [sim/não]",
+    "para": "- Informação ou relatório da assessoria técnica ao tribunal já existente (p. ex., de processo anterior)? [sim/não]",
+    "motivo": "A assessoria técnica no processo tutelar cível cabe às equipas multidisciplinares do art. 20.º RGPTC, não à DGRSP.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2428A0020&nid=2428&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Idade: tem mais de 12 anos? [sim/não]",
+    "para": "- Capacidade de compreensão dos assuntos em discussão (idade e maturidade — releva para a audição): [descreve]",
+    "motivo": "A audição não depende de idade fixa, mas da capacidade de compreensão (art. 4.º, n.ºs 1, al. c), e 2, RGPTC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2428A0004&nid=2428&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar qual a entidade que presta a assessoria técnica no juízo concreto (equipas multidisciplinares da segurança social ou, em Lisboa, da Santa Casa da Misericórdia).",
+   "Pais não casados: o exercício das responsabilidades parentais segue os arts. 1911.º e 1912.º CC, que remetem para os arts. 1905.º a 1908.º.",
+   "Valor da causa: confirmar o critério aplicável aos interesses imateriais (art. 303.º, n.º 1, CPC).",
+   "Se houver violência doméstica, ponderar a regulação urgente (art. 44.º-A RGPTC) e as limitações à audição técnica especializada e à mediação (art. 24.º-A RGPTC)."
+  ],
+  "fontes": [
+   "https://www.portaldalinguaportuguesa.org/acordo.php?action=acordo&version=1990",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2428&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2428A0004&nid=2428&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2428A0009&nid=2428&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2428A0020&nid=2428&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1974A0081&nid=1974&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1904&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2003&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1966&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=80A0016&nid=80&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+  ]
+ },
+ {
+  "codigo": "EST-003",
+  "veredicto": "corrigida",
+  "resumo": "A ficha assentava num regime revogado: exigia «autorização prévia», «parecer favorável» ou «inscrição do empregador» no IEFP e a prova de que o posto não podia ser preenchido por trabalhador nacional ou da UE. O contingente e a verificação do mercado de trabalho do art. 59.º da Lei n.º 23/2007 foram revogados, e a AR sem visto por «manifestação de interesse» acabou com o DL n.º 37-A/2024. Substituiu-se tudo isso pelo requisito atual: visto de residência válido ou visto para procura de trabalho (art. 77.º, n.º 1, al. a)). Corrigiram-se ainda o artigo dos requisitos gerais (77.º, e não 52.º, que é o dos vistos), a «portaria de modelo de contrato» (o regime está no art. 5.º do CT), o inexistente «Regulamento (UE) sobre portabilidade de qualificações», a inscrição na segurança social (obrigatória, e não alternativa a seguro de saúde) e o prazo da AR (art. 75.º, n.º 1).",
+  "substituicoes": [
+   {
+    "de": "- Verifica sempre se há necessidade de autorização prévia do IEFP (mercado de trabalho)",
+    "para": "- Verifica sempre a posse de visto de residência válido ou de visto para procura de trabalho (art. 77.º, n.º 1, al. a), da Lei n.º 23/2007): a lei em vigor não exige autorização prévia do IEFP nem verificação do mercado de trabalho (o contingente do art. 59.º foi revogado), e a autorização de residência sem visto, por «manifestação de interesse», foi revogada pelo Decreto-Lei n.º 37-A/2024, de 3 de junho",
+    "motivo": "O contingente e a verificação prévia do mercado de trabalho (n.ºs 1 a 3 do art. 59.º) estão revogados; o IEFP só mantém o sistema de informação de ofertas de emprego. O DL n.º 37-A/2024 revogou os n.ºs 2 dos arts. 88.º e 89.º (manifestação de interesse), e o requisito geral é a posse de visto (art. 77.º, n.º 1, al. a)).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=920A0059&nid=920&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao= | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=920A0077&nid=920&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao= | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3807&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Inclui referência à Portaria que aprova o modelo de contrato de trabalho para estrangeiros [■ VERIFICAR]",
+    "para": "- O contrato de trabalho com trabalhador estrangeiro está sujeito a forma escrita e às menções do art. 5.º do Código do Trabalho (incluindo a referência ao visto ou ao título de residência); não cites portaria de «modelo de contrato» sem a conferir",
+    "motivo": "A forma e o conteúdo do contrato com trabalhador estrangeiro constam do art. 5.º do CT. A regra mandava citar uma portaria de modelo que a lei não refere, em contradição com a regra anterior («nunca inventes portarias»).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0005&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Necessidade de verificação do mercado de trabalho nacional (IEFP) — quando exigível",
+    "para": "- Posse de visto de residência válido ou de visto para procura de trabalho (art. 77.º, n.º 1, al. a)) — já não há verificação prévia do mercado de trabalho pelo IEFP",
+    "motivo": "A verificação do mercado de trabalho (contingente do art. 59.º, n.ºs 1 a 3) foi revogada; o requisito atual é o visto.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=920A0059&nid=920&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao= | https://www.pgdlisboa.pt/leis/lei_busca_art_velho.php?nid=920&artigonum=920A0059&n_versao=3&so_miolo="
+   },
+   {
+    "de": "- Art. 52.º (requisitos gerais de admissão)",
+    "para": "- Art. 77.º (condições gerais de concessão de autorização de residência temporária: visto válido, meios de subsistência, alojamento, inscrição na segurança social, ausência de condenação por crime punível com pena de prisão superior a um ano, entre outras)",
+    "motivo": "O art. 52.º regula as condições gerais de concessão de vistos. Os arts. 88.º e 89.º remetem para os requisitos gerais do art. 77.º.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=920A0077&nid=920&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao= | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=920A0052&nid=920&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Isenção ou não de autorização IEFP [■ VERIFICAR: categorias profissionais isentas]",
+    "para": "- Art. 75.º, n.º 1 (a autorização de residência temporária vale por dois anos e é renovável por períodos sucessivos de três anos)",
+    "motivo": "Não há autorização do IEFP de que isentar. Em seu lugar fica a norma que fixa a validade da AR pedida.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=920A0075&nid=920&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao= | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=920A0059&nid=920&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Regulamento (UE) sobre portabilidade de qualificações profissionais, se aplicável",
+    "para": "- Habilitação para a atividade e, quando exigível, declaração da ordem profissional (art. 89.º, n.º 1, als. b) e e)) [■ VERIFICAR: regime de reconhecimento de qualificações aplicável à profissão]",
+    "motivo": "Não existe um «Regulamento (UE) sobre portabilidade de qualificações profissionais». A habilitação profissional é requisito do art. 89.º, n.º 1, als. b) e e).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=920A0089&nid=920&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Como demonstrar que o posto de trabalho não pode ser preenchido por trabalhador nacional ou comunitário (se exigido)",
+    "para": "- Como demonstrar a existência de contrato de trabalho celebrado nos termos da lei e a inscrição na segurança social (art. 88.º, n.º 1) — já não se exige provar que o posto não pode ser preenchido por trabalhador nacional ou da UE",
+    "motivo": "A prova da indisponibilidade de trabalhadores nacionais ou da UE pertencia ao contingente do art. 59.º, entretanto revogado. O art. 88.º, n.º 1, exige contrato de trabalho e inscrição na segurança social.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=920A0088&nid=920&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao= | https://www.pgdlisboa.pt/leis/lei_busca_art_velho.php?nid=920&artigonum=920A0059&n_versao=3&so_miolo="
+   },
+   {
+    "de": "**V. DA AUTORIZAÇÃO DO IEFP (se exigível)**\n[Referência ao parecer favorável do IEFP — Doc. X — ou justificação de isenção]",
+    "para": "**V. DO VISTO DE RESIDÊNCIA**\n[Visto de residência válido, concedido para a finalidade, ou visto para procura de trabalho — art. 77.º, n.º 1, al. a), da Lei n.º 23/2007 — Doc. X]",
+    "motivo": "Não há parecer do IEFP no procedimento de AR. A secção passa a provar o requisito geral em vigor: o visto.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=920A0077&nid=920&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao= | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=920A0059&nid=920&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "pelo prazo de [duração], ao abrigo do artigo [88.º/89.º]",
+    "para": "temporária, válida por dois anos e renovável por períodos sucessivos de três anos (artigo 75.º, n.º 1), ao abrigo do artigo [88.º/89.º]",
+    "motivo": "A duração da AR temporária é fixada por lei, não pelo requerente.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=920A0075&nid=920&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- [ ] Inscrição do empregador no IEFP (quando exigível) [■ VERIFICAR]",
+    "para": "- [ ] Comprovativo de inscrição do trabalhador na segurança social (art. 88.º, n.º 1)",
+    "motivo": "A inscrição do empregador no IEFP não é requisito; a inscrição do trabalhador na segurança social é (art. 88.º, n.º 1).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=920A0088&nid=920&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- [ ] Seguro de saúde ou inscrição no regime de segurança social dos trabalhadores independentes",
+    "para": "- [ ] Comprovativo de inscrição na segurança social (requisito obrigatório — art. 89.º, n.º 1, al. d))",
+    "motivo": "A inscrição na segurança social é requisito cumulativo do art. 89.º, n.º 1, al. d), e não alternativa a um seguro de saúde.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=920A0089&nid=920&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- [ ] Necessidade de autorização IEFP avaliada",
+    "para": "- [ ] Visto de residência válido ou visto para procura de trabalho comprovado (art. 77.º, n.º 1, al. a))",
+    "motivo": "Não há autorização do IEFP a avaliar; o requisito a validar é o visto.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=920A0077&nid=920&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "A Lei n.º 23/2007 foi alterada várias vezes desde 2024 (DL n.º 37-A/2024, Lei n.º 9/2025, Lei n.º 61/2025 e Lei n.º 62/2026). Confirmar a redação em vigor dos arts. 75.º, 77.º, 88.º e 89.º à data do pedido, o regime transitório do DL n.º 37-A/2024 (manifestações de interesse pendentes) e o n.º 7 do art. 88.º (visto para procura de trabalho).",
+   "Confirmar o valor da taxa e a forma de submissão do pedido na AIMA, I. P. (portal ou agendamento).",
+   "Nacionais de países da CPLP: ver o regime próprio (art. 75.º, n.ºs 2 e 3).",
+   "Atividade altamente qualificada: ver se se aplica o cartão azul UE (arts. 121.º-A e ss.)."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=920A0052&nid=920&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=920A0059&nid=920&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_busca_art_velho.php?nid=920&artigonum=920A0059&n_versao=3&so_miolo=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=920A0075&nid=920&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=920A0077&nid=920&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=920A0088&nid=920&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=920A0089&nid=920&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3807&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0005&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=920&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+  ]
+ },
+ {
+  "codigo": "SAU-003",
+  "veredicto": "corrigida",
+  "resumo": "Os artigos da Lei n.º 15/2014 estavam trocados: o direito a cuidados adequados está no art. 4.º (o 5.º é o dos dados pessoais), e o consentimento está no art. 3.º (o 9.º é o das queixas e reclamações). A Lei de Bases da Saúde organiza-se em Bases, não em artigos, e os direitos dos utentes estão na Base 2 (as Bases 6 a 8 tratam do Estado, das regiões autónomas e das autarquias). A Lei n.º 12/2005 foi alterada pela Lei n.º 26/2016, e não pela «Lei n.º 26/2015». Acrescentou-se o enquadramento da ERS e do livro de reclamações (prazos de 10 dias úteis) e corrigiu-se a grafia «adoptar».",
+  "substituicoes": [
+   {
+    "de": "- Lei n.º 15/2014, art. 5.º — direito a cuidados adequados e de qualidade",
+    "para": "- Lei n.º 15/2014, art. 4.º — direito a cuidados adequados e tecnicamente corretos, prestados com prontidão, humanamente e com respeito pelo utente",
+    "motivo": "O direito à adequação dos cuidados está no art. 4.º; o art. 5.º trata dos dados pessoais e da vida privada.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2292A0004&nid=2292&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Lei n.º 15/2014, art. 9.º — direito ao consentimento informado",
+    "para": "- Lei n.º 15/2014, art. 3.º — consentimento ou recusa, livres e esclarecidos; art. 9.º — direito a reclamar e a apresentar queixa (livro de reclamações ou modo avulso, com resposta obrigatória) e a ser indemnizado pelos prejuízos sofridos",
+    "motivo": "O consentimento está no art. 3.º; o art. 9.º regula as queixas e reclamações, que é precisamente a base desta peça.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2292A0002&nid=2292&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao= | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2292A0008&nid=2292&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Lei n.º 95/2019 (Lei de Bases da Saúde): arts. 6.º, 7.º, 8.º",
+    "para": "- Lei de Bases da Saúde (anexa à Lei n.º 95/2019): Base 2, n.º 1, als. b), e), f), g) e i) — cuidados adequados e atempados, informação, decisão livre e esclarecida, acesso à própria informação de saúde, reclamação e resposta",
+    "motivo": "A Lei de Bases da Saúde está organizada em Bases; os direitos das pessoas estão na Base 2. As Bases 6 a 8 tratam da responsabilidade do Estado, das regiões autónomas e das autarquias.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=3197B0002&nid=3197&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "(art. 3.º da Lei n.º 12/2005, alterada pela Lei n.º 26/2015)",
+    "para": "(art. 3.º da Lei n.º 12/2005, alterada pela Lei n.º 26/2016)",
+    "motivo": "O art. 3.º da Lei n.º 12/2005 foi alterado pela Lei n.º 26/2016, de 22 de agosto.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1660A0002&nid=1660&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- [■ VERIFICAR: normas específicas da ERS ou circulares normativas relevantes]",
+    "para": "- Estatutos da ERS (Decreto-Lei n.º 126/2014), art. 30.º: o estabelecimento remete à ERS, em 10 dias úteis, cópia das reclamações e do seguimento dado; no livro de reclamações eletrónico, os prestadores dos setores privado, cooperativo e social respondem ao reclamante em 10 dias úteis (art. 5.º-B, n.º 4, do Decreto-Lei n.º 156/2005 e arts. 9.º e 10.º do Regulamento da ERS n.º 65/2015) [■ VERIFICAR: regime aplicável ao estabelecimento concreto]",
+    "motivo": "Faltava o enquadramento da ERS e do livro de reclamações, com os prazos de 10 dias úteis.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2194A0030&nid=2194&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao= | https://ers.pt/media/fuam0eaw/alerta_supervisao_05_2024_lre.pdf"
+   },
+   {
+    "de": "- Tom a adoptar: firme mas não agressivo",
+    "para": "- Tom a adotar: firme mas não agressivo",
+    "motivo": "Grafia do AO90 (Base IV: «adotar»).",
+    "fonte": "https://www.portaldalinguaportuguesa.org/acordo.php?action=acordo&version=1990"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "O prazo de 15 dias úteis pedido no fecho é convencional. Os prestadores têm prazos legais próprios (10 dias úteis) quando a reclamação segue pelo livro de reclamações, e convém articular o prazo pedido com esses.",
+   "Estabelecimento do SNS: confirmar o meio de reclamação aplicável e se a responsabilidade é extracontratual do Estado (Lei n.º 67/2007).",
+   "A Lei n.º 15/2014 foi alterada em 2025 e 2026 (Leis n.ºs 33/2025, 19/2026 e 57/2026). Confirmar a redação em vigor dos artigos citados.",
+   "Acesso ao processo clínico em estabelecimento público: ver também a Lei n.º 26/2016 (LADA)."
+  ],
+  "fontes": [
+   "https://www.portaldalinguaportuguesa.org/acordo.php?action=acordo&version=1990",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2292A0002&nid=2292&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2292A0004&nid=2292&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2292A0008&nid=2292&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2292&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=3197B0002&nid=3197&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3197&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1660A0002&nid=1660&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2194A0030&nid=2194&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://ers.pt/media/fuam0eaw/alerta_supervisao_05_2024_lre.pdf"
+  ]
+ },
+ {
+  "codigo": "DES-001",
+  "veredicto": "corrigida",
+  "resumo": "A ficha seguia o regime revogado da Lei n.º 28/98 (máximo de 8 épocas) e numerava os artigos da Lei n.º 54/2017 de forma errada. Pela lei atual, a duração máxima é de 5 épocas (3 se menor) no art. 9.º; a capacidade está no art. 5.º, a forma e o registo nos arts. 6.º e 7.º, os deveres nos arts. 11.º e 13.º e a cessação nos arts. 23.º a 26.º. Dizia ainda que a resolução com justa causa pelo praticante não dava indemnização, quando é a entidade empregadora que o indemniza (art. 24.º). Corrigiram-se também o seguro (de acidentes de trabalho, art. 7.º, n.º 4, e Lei n.º 48/2023), a «compensação por formação» (art. 19.º), a cláusula do TAD, e acrescentou-se a menção obrigatória do empresário desportivo.",
+  "substituicoes": [
+   {
+    "de": "- Duração (mínimo 1 época / máximo 8 épocas — art. 8.º LCTD)?",
+    "para": "- Duração (mínimo 1 época / máximo 5 épocas; máximo 3 épocas se o praticante for menor — art. 9.º, n.ºs 1 e 4, LCTD)?",
+    "motivo": "Na Lei n.º 54/2017, o máximo é de 5 épocas (3 para menores), no art. 9.º. As 8 épocas eram do regime revogado da Lei n.º 28/98.",
+    "fonte": "https://dre.pt/application/file/a/107688307"
+   },
+   {
+    "de": "- Atleta menor? (requer autorização especial — art. 10.º LCTD)",
+    "para": "- Atleta menor? (só a partir dos 16 anos; o contrato é também subscrito pelo representante legal, sob pena de anulabilidade — art. 5.º LCTD)",
+    "motivo": "A capacidade dos menores está no art. 5.º; o art. 10.º trata do período experimental. Não há «autorização especial».",
+    "fonte": "https://dre.pt/application/file/a/107688307"
+   },
+   {
+    "de": "- Art. 2.º LCTD: noção de praticante desportivo profissional",
+    "para": "- Art. 2.º, al. a), LCTD: noção de contrato de trabalho desportivo",
+    "motivo": "O art. 2.º define o contrato de trabalho desportivo, e não o «praticante desportivo profissional».",
+    "fonte": "https://dre.pt/application/file/a/107688307"
+   },
+   {
+    "de": "- Art. 8.º LCTD: duração do contrato (mínimo e máximo)",
+    "para": "- Art. 9.º LCTD: duração do contrato (mínimo de uma época e máximo de cinco; três se o praticante for menor)",
+    "motivo": "A duração está no art. 9.º; o art. 8.º trata da promessa de contrato.",
+    "fonte": "https://dre.pt/application/file/a/107688307"
+   },
+   {
+    "de": "- Art. 12.º LCTD: forma escrita obrigatória e registo na federação",
+    "para": "- Arts. 6.º e 7.º LCTD: forma escrita, em triplicado e com as menções obrigatórias, e registo na federação (condição para participar em competições)",
+    "motivo": "A forma está no art. 6.º e o registo no art. 7.º; o art. 12.º trata dos direitos de personalidade e do assédio.",
+    "fonte": "https://dre.pt/application/file/a/107688307"
+   },
+   {
+    "de": "- Art. 17.º LCTD: deveres do praticante",
+    "para": "- Art. 13.º LCTD: deveres do praticante",
+    "motivo": "Os deveres do praticante estão no art. 13.º; o art. 17.º trata de férias, feriados e descanso.",
+    "fonte": "https://dre.pt/application/file/a/107688307"
+   },
+   {
+    "de": "- Art. 18.º LCTD: deveres da entidade empregadora desportiva",
+    "para": "- Art. 11.º LCTD: deveres da entidade empregadora desportiva",
+    "motivo": "Os deveres da entidade empregadora estão no art. 11.º; o art. 18.º trata do poder disciplinar.",
+    "fonte": "https://dre.pt/application/file/a/107688307"
+   },
+   {
+    "de": "- Art. 26.º a 28.º LCTD: rescisão com e sem justa causa; indemnizações",
+    "para": "- Arts. 23.º a 26.º LCTD: formas de cessação e justa causa; indemnização pelo valor das retribuições até ao termo, ou superior se provados danos maiores; denúncia pelo praticante mediante cláusula convencionada; responsabilidade solidária da nova entidade empregadora",
+    "motivo": "A cessação está nos arts. 23.º a 26.º; os arts. 28.º e seguintes regulam o contrato de formação desportiva.",
+    "fonte": "https://dre.pt/application/file/a/107688307"
+   },
+   {
+    "de": "- Art. 34.º LCTD: compensação por formação",
+    "para": "- Art. 19.º LCTD: liberdade de trabalho após o termo do contrato; compensação por promoção ou valorização de jovem praticante só se prevista em convenção coletiva (ou, na falta de interlocutor sindical, em regulamento federativo)",
+    "motivo": "A compensação está no art. 19.º e depende de convenção coletiva ou regulamento federativo. O art. 34.º não trata dela.",
+    "fonte": "https://dre.pt/application/file/a/107688307"
+   },
+   {
+    "de": "- Praticante Desportivo: nome completo, nacionalidade, NIF, morada, data de nascimento",
+    "para": "- Praticante Desportivo: nome completo, nacionalidade, NIF, morada, data de nascimento\n- Empresário desportivo interveniente (identificação e parte que representa) ou menção expressa de que o contrato foi celebrado sem intervenção de empresário desportivo (art. 6.º, n.º 3, al. b), LCTD)",
+    "motivo": "Menção obrigatória do contrato (art. 6.º, n.º 3, al. b)), em falta no modelo.",
+    "fonte": "https://dre.pt/application/file/a/107688307"
+   },
+   {
+    "de": "Mínimo 1 época / máximo 8 épocas (art. 8.º, n.º 1 LCTD).",
+    "para": "Mínimo 1 época / máximo 5 épocas — 3 se o praticante for menor (art. 9.º, n.ºs 1 e 4, LCTD).",
+    "motivo": "Limite máximo da Lei n.º 54/2017 (art. 9.º).",
+    "fonte": "https://dre.pt/application/file/a/107688307"
+   },
+   {
+    "de": "Nos termos do art. 17.º LCTD: participar em treinos e competições",
+    "para": "Nos termos do art. 13.º LCTD: participar em treinos e competições",
+    "motivo": "Os deveres do praticante estão no art. 13.º.",
+    "fonte": "https://dre.pt/application/file/a/107688307"
+   },
+   {
+    "de": "Nos termos do art. 18.º LCTD: pagar a remuneração; garantir condições de treino adequadas; assegurar seguro desportivo obrigatório; respeitar o regulamento de competição; não exigir esforço excessivo.",
+    "para": "Nos termos do art. 11.º LCTD: registar o contrato e as suas modificações na federação; proporcionar as condições necessárias à participação desportiva e a participação efetiva nos treinos; submeter o praticante aos exames e tratamentos clínicos necessários; permitir a integração nas seleções nacionais; promover a ética desportiva. Pagar pontualmente a retribuição (art. 15.º LCTD) e manter o seguro de acidentes de trabalho (art. 7.º, n.º 4, LCTD).",
+    "motivo": "Os deveres da entidade empregadora estão no art. 11.º; o seguro exigido é o de acidentes de trabalho, cuja prova condiciona o registo (art. 7.º, n.º 4).",
+    "fonte": "https://dre.pt/application/file/a/107688307"
+   },
+   {
+    "de": "**CLÁUSULA 8.ª — SEGURO DESPORTIVO**",
+    "para": "**CLÁUSULA 8.ª — SEGURO DE ACIDENTES DE TRABALHO**",
+    "motivo": "O praticante profissional está coberto por seguro de acidentes de trabalho (art. 7.º, n.º 4, LCTD; Lei n.º 48/2023).",
+    "fonte": "https://dre.pt/application/file/a/107688307"
+   },
+   {
+    "de": "A entidade empregadora obriga-se a manter seguro de acidentes desportivos nos termos do art. 18.º, n.º 1, al. e) LCTD e legislação aplicável [■ VERIFICAR: Portaria de seguros obrigatórios vigente].",
+    "para": "A entidade empregadora obriga-se a manter seguro de acidentes de trabalho, cuja prova é condição do registo do contrato (art. 7.º, n.º 4, LCTD), nos termos do regime de reparação dos acidentes de trabalho dos praticantes desportivos profissionais (Lei n.º 48/2023, de 22 de agosto) [■ VERIFICAR: condições da apólice].",
+    "motivo": "O art. 18.º não tem n.º 1, al. e), sobre seguros (trata do poder disciplinar). O seguro devido é o de acidentes de trabalho (art. 7.º, n.º 4), com o regime especial da Lei n.º 48/2023, que revogou a Lei n.º 27/2011.",
+    "fonte": "https://dre.pt/application/file/a/107688307 | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3699&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Rescisão com justa causa pelo praticante: nos termos do art. 26.º LCTD, sem indemnização",
+    "para": "- Resolução com justa causa pelo praticante (art. 23.º, n.º 1, al. d), e n.º 3, LCTD): a entidade empregadora indemniza o praticante pelo valor das retribuições que lhe seriam devidas até ao termo do contrato, ou em valor superior se ele provar danos mais elevados (art. 24.º LCTD)",
+    "motivo": "Erro de substância: na resolução com justa causa pelo praticante, a entidade empregadora deve indemnizá-lo (art. 24.º). O art. 26.º trata da responsabilidade solidária da nova entidade empregadora.",
+    "fonte": "https://dre.pt/application/file/a/107688307"
+   },
+   {
+    "de": "- Rescisão sem justa causa pela entidade: indemnização = [n.º de meses restantes × salário mensal base] (art. 28.º LCTD) [■ VERIFICAR: contrato coletivo pode majorar]",
+    "para": "- Despedimento sem justa causa (cessação promovida indevidamente pela entidade empregadora): indemnização pelo valor das retribuições que seriam devidas até ao termo do contrato — e não só do salário base —, ou superior se provados danos mais elevados (art. 24.º LCTD) [■ VERIFICAR: convenção coletiva aplicável]",
+    "motivo": "A medida legal é o valor das retribuições até ao termo, que pode ser excedido se provados danos maiores (art. 24.º, n.ºs 1 e 2). O art. 28.º é sobre a capacidade no contrato de formação.",
+    "fonte": "https://dre.pt/application/file/a/107688307"
+   },
+   {
+    "de": "- Cláusula de rescisão unilateral pelo praticante: indemnização de € [valor] [■ VERIFICAR: proporcionalidade ao investimento do clube]",
+    "para": "- Denúncia sem justa causa pelo praticante, se convencionada (art. 25.º LCTD): indemnização de € [valor], que o tribunal pode reduzir segundo a equidade se for manifestamente excessiva, atendendo designadamente ao período de execução já decorrido; presume-se a intervenção da nova entidade empregadora, que responde solidariamente pela indemnização se não ilidir a presunção (art. 26.º LCTD)",
+    "motivo": "O critério legal de controlo é o do art. 25.º, n.º 2 (redução equitativa se manifestamente excessiva), e não a «proporcionalidade ao investimento do clube».",
+    "fonte": "https://dre.pt/application/file/a/107688307"
+   },
+   {
+    "de": "Litígios submetidos ao Tribunal Arbitral do Desporto (TAD), nos termos da Lei n.º 74/2013, de 6 de setembro, sem prejuízo da competência dos tribunais laborais para matéria não desportiva.",
+    "para": "Os litígios emergentes do presente contrato, incluindo a apreciação da regularidade e licitude do despedimento, são submetidos à arbitragem voluntária do Tribunal Arbitral do Desporto (TAD), nos termos dos arts. 6.º e 7.º da Lei do TAD, aprovada pela Lei n.º 74/2013, de 6 de setembro [■ VERIFICAR: convenção coletiva aplicável — art. 4.º LCTD].",
+    "motivo": "A arbitragem voluntária do TAD abrange os litígios emergentes de contratos de trabalho desportivo, incluindo a licitude do despedimento (art. 7.º da Lei do TAD); a ressalva de «matéria não desportiva» não tem apoio na lei.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1988A0006&nid=1988&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- [ ] Forma escrita e registo na federação (art. 12.º LCTD)",
+    "para": "- [ ] Forma escrita, em triplicado, e registo na federação (arts. 6.º e 7.º LCTD)",
+    "motivo": "Numeração da Lei n.º 54/2017.",
+    "fonte": "https://dre.pt/application/file/a/107688307"
+   },
+   {
+    "de": "- [ ] Duração dentro dos limites legais (1 a 8 épocas)",
+    "para": "- [ ] Duração dentro dos limites legais (1 a 5 épocas; até 3 se menor — art. 9.º LCTD)",
+    "motivo": "Limite máximo da Lei n.º 54/2017.",
+    "fonte": "https://dre.pt/application/file/a/107688307"
+   },
+   {
+    "de": "- [ ] Seguro desportivo obrigatório previsto",
+    "para": "- [ ] Seguro de acidentes de trabalho previsto (art. 7.º, n.º 4, LCTD)",
+    "motivo": "O seguro exigido é o de acidentes de trabalho.",
+    "fonte": "https://dre.pt/application/file/a/107688307"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar no Diário da República que a Lei n.º 54/2017 não sofreu alterações (conferiu-se a redação original publicada).",
+   "Período experimental: só existe se estipulado expressamente, e com os limites de 15 ou 30 dias do art. 10.º. Se for o caso, o contrato tem de o mencionar (art. 6.º, n.º 3, al. g)).",
+   "Verificar a convenção coletiva da modalidade (no futebol, o CCT Liga/SJPF): pode prever arbitragem, compensação de promoção e regras mais favoráveis (art. 3.º, n.º 2).",
+   "Retribuição: confirmar se se quer fracionar junho, julho e os subsídios (art. 15.º, n.º 4), o que deve constar do contrato (art. 6.º, n.º 3, al. d))."
+  ],
+  "fontes": [
+   "https://dre.pt/application/file/a/107688307",
+   "https://www.dgert.gov.pt/publicadas-as-leis-n-os-542017-de-14-de-julho-e-552017-de-17-de-julho",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3699&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1988A0006&nid=1988&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+  ]
+ },
+ {
+  "codigo": "CIV-006",
+  "veredicto": "corrigida",
+  "resumo": "A ficha importava dois institutos alheios ao direito português do comodato. Primeiro, a «restituição antecipada por necessidade urgente e imprevista do comodante», que vem do Código Civil brasileiro (art. 581.º); no CC português, havendo prazo, o comodante só pode resolver o contrato com justa causa (art. 1140.º). Segundo, um «registo do comodato no Registo Predial se o prazo exceder 6 anos»: o comodato não consta do art. 2.º do CRPredial, cuja al. m) (seis anos) respeita ao arrendamento e cuja al. u) trata da renúncia a indemnização por expropriação. Corrigiram-se também a descrição da caducidade por morte do comodatário (art. 1141.º, sem a condição «se de carácter pessoal») e a norma das despesas (benfeitorias no art. 1138.º; conservação no art. 1135.º, al. a)).",
+  "substituicoes": [
+   {
+    "de": "— Se o bem for imóvel e o prazo for superior a 6 anos, sinaliza [■ VERIFICAR: necessidade de registo do comodato no Registo Predial — art. 2.º, n.º 1, al. u) CRPredial].",
+    "para": "— O comodato não consta dos factos sujeitos a registo predial (art. 2.º, n.º 1, do Código do Registo Predial): a regra dos seis anos da al. m) respeita ao arrendamento e a al. u) à renúncia à indemnização por expropriação — não sinalizes registo do comodato.",
+    "motivo": "O art. 2.º, n.º 1, do CRPredial não inclui o comodato; a al. u) trata da renúncia à indemnização por expropriação, e os 6 anos são do arrendamento (al. m)).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=488A0002&nid=488&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Prazo: determinado ou indeterminado; se imóvel acima de 6 anos — registo",
+    "para": "- Prazo: determinado ou indeterminado — sem prazo nem uso determinado, o comodatário restitui a coisa logo que lhe seja exigida (art. 1137.º, n.º 2, CC)",
+    "motivo": "Não há registo predial do comodato. Em seu lugar fica a regra de restituição, que depende do prazo.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1135&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao= | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=488A0002&nid=488&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Restituição antecipada: necessidade urgente e imprevista do comodante (art. 1137.º CC)",
+    "para": "- Restituição antecipada: havendo prazo, só por resolução do comodante com justa causa (art. 1140.º CC)",
+    "motivo": "A «necessidade urgente e imprevista» é o critério do art. 581.º do Código Civil brasileiro. No CC português, havendo prazo, o comodante só pode resolver o contrato com justa causa (art. 1140.º).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1135&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Art. 1132.º CC (despesas)",
+    "para": "- Art. 1138.º CC (benfeitorias: o comodatário é equiparado ao possuidor de má-fé) e art. 1135.º, al. a), CC (dever de guardar e conservar a coisa)",
+    "motivo": "O art. 1132.º CC trata dos frutos da coisa. O regime aplicável às despesas resulta do art. 1138.º (benfeitorias) e do dever de conservação do art. 1135.º, al. a).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1135&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "(restituição antecipada por necessidade urgente do comodante)",
+    "para": "(resolução pelo comodante com justa causa, ainda que haja prazo)",
+    "motivo": "Descrição conforme o art. 1140.º CC, para que a revisão de citações já remete esta linha.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1135&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "(morte do comodatário — extinção do comodato se de carácter pessoal)",
+    "para": "(caducidade do contrato por morte do comodatário)",
+    "motivo": "O art. 1141.º CC faz caducar o contrato pela morte do comodatário, sem a condição de «carácter pessoal».",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1141&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Art. 2.º, n.º 1, al. u) CRPredial (registo de comodato de imóvel se > 6 anos)",
+    "para": "- Art. 2.º, n.º 1, CRPredial: o comodato não é facto sujeito a registo (a al. m) respeita ao arrendamento por mais de seis anos)",
+    "motivo": "O comodato não figura entre os factos sujeitos a registo predial.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=488A0002&nid=488&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "Direito do comodante de pedir restituição imediata em caso de necessidade urgente e imprevista (art. 1137.º CC); prazo de entrega.",
+    "para": "Direito do comodante de resolver o contrato com justa causa, ainda que haja prazo (art. 1140.º CC); prazo de entrega.",
+    "motivo": "A restituição imediata por necessidade urgente e imprevista é instituto do direito brasileiro; no direito português vale o art. 1140.º CC (resolução com justa causa).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1135&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- [ ] Restituição antecipada por necessidade urgente prevista (art. 1137.º CC)",
+    "para": "- [ ] Resolução pelo comodante com justa causa prevista (art. 1140.º CC)",
+    "motivo": "A restituição antecipada só se dá por resolução com justa causa (art. 1140.º CC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1135&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- [ ] Se imóvel e prazo > 6 anos: registo predial sinalizado [■ VERIFICAR]",
+    "para": "- [ ] Imóvel: não confundido com arrendamento — o comodato não está sujeito a registo predial (art. 2.º, n.º 1, CRPredial)",
+    "motivo": "O comodato não é facto sujeito a registo predial.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=488A0002&nid=488&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Imóvel para habitação de familiares: a jurisprudência discute o que é «uso determinado» (art. 1137.º, n.º 1, CC) e o que constitui justa causa (art. 1140.º CC). Confirmar a jurisprudência atual antes de fixar prazo e fim.",
+   "Repartição de despesas ordinárias e extraordinárias: é estipulação contratual (o CC não a prevê). Articulá-la com o art. 1138.º CC (benfeitorias) e com o art. 1137.º, n.º 3, CC (manutenção e restituição, por remissão para o art. 1043.º)."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1129&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1135&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1141&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=488A0002&nid=488&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+  ]
+ },
+ {
+  "codigo": "PEN-029",
+  "veredicto": "corrigida",
+  "resumo": "A ficha descrevia mal os tipos e as penas. A insolvência negligente (art. 228.º CP) é punida com prisão até 1 ano ou multa até 120 dias, e não «até 2 anos». A insolvência dolosa (art. 227.º CP) não consiste em «determinar ou agravar» a insolvência: exige uma das condutas típicas das als. a) a d) do n.º 1, intenção de prejudicar os credores e o reconhecimento judicial da insolvência (condição de punibilidade), com pena de prisão até 5 anos ou multa até 600 dias. A falsificação (art. 256.º CP) não exige só intenção de causar prejuízo, porque também basta a de obter benefício ilegítimo ou de encobrir outro crime, o que muda a linha de defesa. Corrigiram-se ainda as descrições do branqueamento, do documento autêntico (art. 256.º, n.º 3), do art. 71.º CP (medida da pena) e da independência entre a qualificação da insolvência e o processo penal (art. 185.º CIRE).",
+  "substituicoes": [
+   {
+    "de": "devedor que dolosamente determina ou agrava a insolvência para prejudicar credores; pena até 5 anos.",
+    "para": "devedor que, com intenção de prejudicar os credores, destrói, danifica, inutiliza ou faz desaparecer parte do património, diminui ficticiamente o ativo (incluindo por contabilidade inexata, falso balanço ou falta de contabilidade devida), cria ou agrava artificialmente prejuízos ou reduz lucros, ou compra mercadorias a crédito para as vender abaixo do preço corrente; só é punível se a insolvência ocorrer e for reconhecida judicialmente; pena de prisão até 5 anos ou multa até 600 dias.",
+    "motivo": "O tipo de insolvência dolosa (art. 227.º CP) assenta em condutas típicas determinadas e no reconhecimento judicial da insolvência como condição de punibilidade, e não em «determinar ou agravar» a insolvência. A pena alternativa de multa estava omitida.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=109A0227&nid=109&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "atuação gravemente culposa que causa ou agrava a insolvência; pena até 2 anos.",
+    "para": "devedor que, por grave incúria ou imprudência, prodigalidade, despesas manifestamente exageradas, especulações ruinosas ou grave negligência, cria um estado de insolvência, ou que, conhecendo as dificuldades económicas e financeiras da empresa, não requer em tempo providência de recuperação; só é punível se a insolvência for reconhecida judicialmente; pena de prisão até 1 ano ou multa até 120 dias.",
+    "motivo": "A pena da insolvência negligente (art. 228.º CP) é de prisão até 1 ano ou multa até 120 dias, e não até 2 anos.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=109A0227&nid=109&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "fabricação, contrafação ou alteração de documentos com intenção de causar prejuízo; pena até 3 anos.",
+    "para": "fabrico, falsificação, alteração ou uso de documento falso (entre as condutas do n.º 1), com intenção de causar prejuízo a outra pessoa ou ao Estado, de obter benefício ilegítimo ou de preparar, facilitar, executar ou encobrir outro crime; pena de prisão até 3 anos ou multa (documento autêntico ou com igual força: prisão de 6 meses a 5 anos ou multa de 60 a 600 dias — n.º 3).",
+    "motivo": "O elemento subjetivo do art. 256.º CP compreende três intenções alternativas, e não só a de causar prejuízo. Há também pena alternativa de multa e a agravação do n.º 3.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=109A0256&nid=109&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "utilização de bens provenientes de crime; pena até 12 anos.",
+    "para": "conversão, transferência, ocultação ou dissimulação de vantagens provenientes dos factos ilícitos típicos do n.º 1, ou sua aquisição, detenção ou utilização por quem não é autor do facto e conhece essa origem; pena de prisão até 12 anos.",
+    "motivo": "O tipo não abrange «bens provenientes de crime» em geral: só vantagens de certos factos ilícitos típicos (n.º 1), e a mera utilização só é punida a quem não é autor do facto e conhece a origem (n.º 5).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=109A0368A&nid=109&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "— A insolvência dolosa exige: a) devedor em situação de insolvência; b) atuação dolosa; c) finalidade de prejudicar credores.",
+    "para": "— A insolvência dolosa exige: a) a prática de uma das condutas das als. a) a d) do n.º 1 do art. 227.º CP; b) a intenção de prejudicar os credores; c) a ocorrência da situação de insolvência e o seu reconhecimento judicial (condição objetiva de punibilidade).",
+    "motivo": "Faltava o elemento central do tipo (a conduta típica), e a insolvência é condição objetiva de punibilidade, dependente de reconhecimento judicial.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=109A0227&nid=109&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "havia dolo específico de prejudicar credores? Ou a insolvência resultou de causas económicas legítimas?",
+    "para": "que conduta típica das als. a) a d) do n.º 1 é imputada e havia intenção de prejudicar os credores? Ou a insolvência resultou de causas económicas legítimas?",
+    "motivo": "Sem uma das condutas típicas não há crime, ainda que a insolvência tenha sido mal gerida.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=109A0227&nid=109&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "(elementos: dolo específico, agravamento da insolvência, prejuízo de credores)",
+    "para": "(elementos: conduta típica das als. a) a d) do n.º 1, intenção de prejudicar os credores e insolvência reconhecida judicialmente; n.º 3: responde também quem exerça de facto a gestão)",
+    "motivo": "Elementos do tipo segundo o texto do art. 227.º CP.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=109A0227&nid=109&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "(elementos: falsidade, intenção de causar prejuízo)",
+    "para": "(elementos: conduta do n.º 1 e intenção de causar prejuízo a outra pessoa ou ao Estado, de obter benefício ilegítimo ou de preparar, facilitar, executar ou encobrir outro crime)",
+    "motivo": "Intenções alternativas do art. 256.º, n.º 1, CP.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=109A0256&nid=109&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "— falsificação de documentos autênticos (pena agravada)",
+    "para": "— falsificação de documento autêntico ou com igual força (n.º 3: prisão de 6 meses a 5 anos ou multa de 60 a 600 dias)",
+    "motivo": "A falsificação de documento autêntico está no n.º 3 do art. 256.º CP (o art. 262.º é a contrafação de moeda).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=109A0256&nid=109&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- CIRE — art. 186.º: insolvência culposa (procedimento civil vs. criminal: são independentes)",
+    "para": "- CIRE — art. 186.º: insolvência culposa; a qualificação da insolvência como culposa ou fortuita não vincula a decisão penal (art. 185.º CIRE)",
+    "motivo": "A não vinculação do processo penal à qualificação da insolvência está no art. 185.º CIRE.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0185&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "— responsabilidade pessoal dos administradores (critérios)",
+    "para": "— determinação da medida da pena (circunstâncias que depõem a favor do arguido, n.º 2); a atuação em nome de outrem está no art. 12.º CP e a do gestor de facto no art. 227.º, n.º 3, CP",
+    "motivo": "O art. 71.º CP trata da medida da pena (útil para as atenuantes); a responsabilidade de quem age por uma sociedade está no art. 12.º CP e no art. 227.º, n.º 3, CP.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=109A0071&nid=109&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao= | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=109A0012&nid=109&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Agravação de um terço das penas dos arts. 227.º e 228.º se ficarem frustrados créditos laborais (art. 229.º-A CP).",
+   "Peça processual: a contestação em processo penal tem prazo próprio (art. 315.º CPP). Ponderar em alternativa o requerimento de abertura de instrução (art. 287.º CPP), consoante a fase.",
+   "Confirmar se o crime imputado é a insolvência dolosa ou a frustração de créditos (art. 227.º-A CP) ou o favorecimento de credores (art. 229.º CP), que têm elementos diferentes."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=109A0227&nid=109&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=109A0256&nid=109&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=109A0368A&nid=109&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=109A0071&nid=109&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=109A0012&nid=109&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0185&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+  ]
+ },
+ {
+  "codigo": "DIG-015",
+  "veredicto": "corrigida",
+  "resumo": "As descrições do CT sobre vigilância estavam erradas. O art. 21.º CT não exige «acordo ou negociação coletiva»: exige necessidade, adequação e proporcionalidade e parecer da comissão de trabalhadores, e prevê uma autorização da CNPD de subsistência duvidosa face ao RGPD. O art. 20.º proíbe usar a vigilância para controlar o desempenho e impõe o dever de informar. Para a biometria, a ficha exigia «autorização da CNPD» (o art. 18.º CT fala em notificação) e omitia o art. 28.º, n.º 6, da Lei n.º 58/2019. A conservação das imagens (30 dias) é regra legal (art. 31.º, n.º 2, da Lei n.º 34/2013, por remissão do art. 19.º da Lei n.º 58/2019) e não «boa prática». No teletrabalho, o «consentimento» para câmaras dá lugar à proibição de captura de imagem e som do art. 170.º, n.º 5, CT. Acrescentou-se o registo dos processos de recrutamento por 5 anos (art. 32.º CT).",
+  "substituicoes": [
+   {
+    "de": "meios de vigilância a distância — proibição de controlo sistemático com câmaras",
+    "para": "meios de vigilância a distância — proibidos para controlar o desempenho profissional; lícitos para proteção e segurança de pessoas e bens ou quando particulares exigências da atividade o justifiquem",
+    "motivo": "O que o art. 20.º, n.ºs 1 e 2, CT proíbe é a finalidade de controlo do desempenho; a lei não fala de «controlo sistemático».",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0018&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "utilização de meios de vigilância a distância — com comunicação prévia",
+    "para": "dever de informar o trabalhador da existência e da finalidade dos meios de vigilância (aviso afixado nos locais vigiados — n.º 3)",
+    "motivo": "O conteúdo do art. 20.º CT relevante aqui é o dever de informação do n.º 3; a «utilização de meios de vigilância» é a epígrafe do art. 21.º.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0018&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "sistemas de controlo à distância — exige acordo ou negociação coletiva",
+    "para": "utilização de meios de vigilância a distância — só se necessária, adequada e proporcional; dados conservados só pelo período necessário e destruídos na transferência ou cessação; parecer da comissão de trabalhadores [■ VERIFICAR: subsistência da autorização prévia da CNPD prevista no n.º 1 face ao RGPD]",
+    "motivo": "O art. 21.º CT não exige acordo nem negociação coletiva; prevê autorização da CNPD, proporcionalidade, limites de conservação e parecer da comissão de trabalhadores.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0018&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": " + autorização da CNPD [■ VERIFICAR: regime específico]",
+    "para": " + art. 18.º CT (necessidade, adequação e proporcionalidade; destruição na transferência ou cessação) + art. 28.º, n.º 6, da Lei n.º 58/2019 (só para controlo de assiduidade e de acessos, com representações não reversíveis) [■ VERIFICAR: subsistência da notificação prévia à CNPD do art. 18.º, n.º 1, CT face ao RGPD]",
+    "motivo": "O art. 18.º CT fala em notificação, não em autorização, da CNPD. O limite material da biometria está no art. 28.º, n.º 6, da Lei n.º 58/2019.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=3118A0028&nid=3118&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao= | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0018&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "[Duração do processo de recrutamento + X meses para candidaturas não seleccionadas — especificar / obter consentimento para base de candidatos se pretendido]",
+    "para": "[Duração do processo de recrutamento + X meses para candidaturas não selecionadas — especificar; o registo dos processos de recrutamento (dados agregados por sexo) é mantido 5 anos — art. 32.º CT / obter consentimento para base de candidatos se pretendido]",
+    "motivo": "Grafia do AO90 («selecionadas»). Faltava a obrigação legal de conservar 5 anos o registo dos processos de recrutamento.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0031&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao= | https://www.portaldalinguaportuguesa.org/acordo.php?action=acordo&version=1990"
+   },
+   {
+    "de": "(proibição de controlo sistemático do trabalhador com câmaras)",
+    "para": "(proibição de utilização para controlar o desempenho profissional do trabalhador)",
+    "motivo": "Formulação do art. 20.º, n.º 1, CT.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0018&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "*Conservação:* [30 dias — prazo máximo de boa prática / prazo legal aplicável].",
+    "para": "*Conservação:* [30 dias — art. 31.º, n.º 2, da Lei n.º 34/2013, aplicável por remissão do art. 19.º, n.º 1, da Lei n.º 58/2019; destruição no prazo máximo de 48 horas após esse período].",
+    "motivo": "O prazo de 30 dias é legal e não uma mera boa prática.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1924A0031&nid=1924&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao= | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=3118A0018&nid=3118&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "Câmaras em reuniões online apenas com consentimento informado do trabalhador.",
+    "para": "É vedada a captura e utilização de imagem, de som, de escrita, de histórico ou o recurso a outros meios de controlo que possam afetar a privacidade do trabalhador (art. 170.º, n.º 5, CT) [■ VERIFICAR: regras internas sobre o uso de câmara em reuniões online].",
+    "motivo": "O art. 170.º, n.º 5, CT proíbe a captura de imagem e som que afete a privacidade. O consentimento, aliás, raramente é base válida na relação laboral (art. 28.º, n.º 3, da Lei n.º 58/2019).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0170&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Videovigilância: as imagens só podem ser usadas no processo penal e, na medida em que o sejam, para apurar responsabilidade disciplinar (art. 28.º, n.ºs 4 e 5, da Lei n.º 58/2019). Ponderar dizê-lo no aviso, sob a finalidade «prevenção e deteção de infrações».",
+   "Medicina do trabalho: além do art. 9.º, n.º 2, al. b), RGPD, ponderar a al. h) e o n.º 3 (tratamento por profissional sujeito a sigilo; art. 29.º da Lei n.º 58/2019).",
+   "Câmaras: não podem incidir sobre zonas de refeição, vestiários, ginásios, instalações sanitárias e zonas de descanso (art. 19.º, n.º 2, al. d), da Lei n.º 58/2019); a captação de som está em regra proibida (n.º 4).",
+   "Confirmar a posição atual da CNPD sobre as autorizações e notificações previstas nos arts. 18.º e 21.º CT e a necessidade de avaliação de impacto (art. 35.º RGPD) para biometria e videovigilância."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0018&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0031&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0170&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=3118A0028&nid=3118&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=3118A0018&nid=3118&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1924A0031&nid=1924&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.portaldalinguaportuguesa.org/acordo.php?action=acordo&version=1990"
+  ]
+ }
+]

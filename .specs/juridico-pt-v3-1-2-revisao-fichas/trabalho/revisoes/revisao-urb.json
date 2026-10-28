@@ -1,0 +1,555 @@
+[
+  {
+    "codigo": "URB-002",
+    "veredicto": "corrigida",
+    "resumo": "A ficha seguia o regime anterior ao DL n.º 136/2014: prazo de 20 dias úteis e oposição ao abrigo do art. 36.º RJUE, que está revogado. Hoje a comunicação prévia permite realizar a obra após o pagamento das taxas e a informação sobre o início dos trabalhos (arts. 34.º, n.º 2, e 80.º-A RJUE), com controlo sucessivo (art. 35.º, n.ºs 8 a 11). Corrigiram-se ainda a inclusão das obras de conservação (isentas — art. 6.º, n.º 1, al. a)), a referência à Portaria n.º 113/2015 e o destinatário (presidente da câmara, via plataforma eletrónica).",
+    "substituicoes": [
+      {
+        "de": "- Tipo de obra (ampliação, alteração, conservação, construção em área abrangida por alvará)",
+        "para": "- Tipo de operação abrangida pelo art. 4.º, n.º 4, RJUE (construção, alteração, ampliação ou demolição em área abrangida por plano de pormenor, unidade de execução ou operação de loteamento; construção, alteração ou ampliação em zona urbana consolidada; piscinas associadas a edificação principal); as obras de conservação e as obras de alteração no interior nas condições do art. 6.º, n.º 1, al. b), estão isentas de licença e de comunicação prévia (art. 6.º, n.º 1, als. a) e b), RJUE)",
+        "motivo": "As obras de conservação estão isentas de controlo prévio; o elenco da comunicação prévia é o do art. 4.º, n.º 4, RJUE.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=625&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- Prazo para início das obras após comunicação (20 dias úteis — art. 36.º RJUE)",
+        "para": "- Início das obras: a comunicação prévia permite realizar a operação após o pagamento das taxas e demais encargos devidos e a informação sobre o início dos trabalhos, prestada até cinco dias antes destes (arts. 34.º, n.º 2, e 80.º-A, n.º 1, RJUE); não há prazo de 20 dias nem oposição da câmara — o art. 36.º RJUE está revogado",
+        "motivo": "O art. 36.º RJUE (rejeição/oposição) foi revogado pelo DL n.º 136/2014; a obra pode iniciar-se após o pagamento das taxas e a comunicação do início dos trabalhos.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=625A0080A&nid=625&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- Regime dos elementos instrutórios (Portaria n.º 113/2015 ou legislação em vigor) [■ VERIFICAR: portaria atual]",
+        "para": "- Regime dos elementos instrutórios (portaria prevista no art. 35.º, n.º 4, RJUE) e modelo obrigatório de comunicação prévia (portaria prevista no art. 4.º-A, n.º 1, RJUE) [■ VERIFICAR: portarias em vigor depois do DL n.º 108/2026 — não usar a Portaria n.º 113/2015 sem confirmar a sua vigência]",
+        "motivo": "Os elementos e o modelo da comunicação prévia constam de portarias próprias, de uso obrigatório; a portaria de 2015 não deve ser dada como vigente sem confirmação.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=625A0004A&nid=625&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- Consequência do decurso do prazo de 20 dias (art. 36.º RJUE)",
+        "para": "- Controlo sucessivo: notificação, por uma única vez, para suprir elementos em falta no prazo de 10 dias, sob pena de ineptidão (art. 35.º, n.ºs 8 e 9, RJUE); caducidade desse controlo no prazo de um ano (art. 35.º, n.º 10, RJUE), sem prejuízo da fiscalização (art. 35.º, n.º 11, RJUE)",
+        "motivo": "Revogado o art. 36.º, a comunicação prévia não tem prazo de oposição: o controlo é sucessivo, nos termos do art. 35.º RJUE.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=625A0035&nid=625&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "**Serviço de Urbanismo / AUGI**",
+        "para": "**Exmo. Senhor Presidente da Câmara Municipal — submissão na plataforma eletrónica (art. 35.º, n.º 1, RJUE)**",
+        "motivo": "A comunicação prévia é dirigida ao presidente da câmara e efetuada na plataforma eletrónica; a referência às AUGI (áreas urbanas de génese ilegal) não tem cabimento.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=625A0035&nid=625&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "Tipo de operação: [ex: ampliação / alteração / conservação]",
+        "para": "Tipo de operação: [ex: construção / ampliação / alteração / demolição — art. 4.º, n.º 4, RJUE]",
+        "motivo": "As obras de conservação estão isentas de comunicação prévia (art. 6.º, n.º 1, al. a), RJUE).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=625&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "Ao abrigo do disposto nos artigos 34.º e seguintes do RJUE, o comunicante informa a Câmara Municipal de [município] da sua intenção de iniciar as obras descritas no prazo de 20 dias úteis a contar da presente comunicação, caso não haja oposição nos termos do art. 36.º RJUE.",
+        "para": "Ao abrigo do disposto nos artigos 34.º e seguintes do RJUE, o comunicante apresenta à Câmara Municipal de [município] a comunicação prévia das obras descritas, que realizará após o pagamento das taxas e demais encargos devidos e a informação sobre o início dos trabalhos prevista no artigo 80.º-A do RJUE (art. 34.º, n.º 2, RJUE), indicando como prazo de execução [meses] (art. 35.º, n.º 2, RJUE).",
+        "motivo": "Sem prazo de 20 dias nem oposição (art. 36.º revogado); o comunicante indica o prazo de execução das obras.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=625A0035&nid=625&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- [ ] Prazo de 20 dias úteis verificado",
+        "para": "- [ ] Taxas pagas (ou autoliquidadas) e informação sobre o início dos trabalhos prestada até cinco dias antes destes (arts. 34.º, n.ºs 2 e 3, e 80.º-A, n.º 1, RJUE)",
+        "motivo": "O prazo de 20 dias deixou de existir; a verificação relevante é o pagamento das taxas e a comunicação do início dos trabalhos.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=625A0080A&nid=625&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- Tipo de operação: [ampliação / alteração / conservação / outra]",
+        "para": "- Tipo de operação: [construção / ampliação / alteração / demolição / outra — as obras de conservação estão isentas]",
+        "motivo": "As obras de conservação estão isentas de comunicação prévia (art. 6.º, n.º 1, al. a), RJUE).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=625&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "Comunicação prévia completa, pronta para entrega na câmara municipal ou plataforma eletrónica",
+        "para": "Comunicação prévia completa, pronta para submissão na plataforma eletrónica do município (art. 35.º, n.º 1, RJUE)",
+        "motivo": "A comunicação prévia é efetuada através da plataforma eletrónica, não por entrega em papel.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=625A0035&nid=625&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "O DL n.º 108/2026, de 29 de maio, que reviu o RJUE, entrou em vigor a 1 de outubro de 2026 (DL n.º 155-B/2026): confirmar o regime transitório para comunicações apresentadas antes dessa data.",
+      "Confirmar que a operação concreta cabe numa alínea do art. 4.º, n.º 4, RJUE e não está sujeita a licença (art. 4.º, n.º 2, nomeadamente imóveis classificados e áreas com servidões).",
+      "Havendo consultas externas obrigatórias, a comunicação só pode ser feita com as consultas já obtidas ou promovidas pelo interessado (art. 34.º, n.º 5, e art. 13.º-B RJUE).",
+      "Confirmar o modelo obrigatório e a portaria de elementos instrutórios em vigor, e o prazo de pagamento por autoliquidação (art. 34.º, n.º 3, RJUE)."
+    ],
+    "fontes": [
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=625&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=625A0004A&nid=625&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=625A0035&nid=625&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=625A0080A&nid=625&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://files.diariodarepublica.pt/1s/2026/07/14705/0000200003.pdf"
+    ]
+  },
+  {
+    "codigo": "URB-003",
+    "veredicto": "corrigida",
+    "resumo": "A ficha assentava na autorização de utilização (arts. 62.º a 65.º RJUE na redação antiga), com vistoria e alvará, e citava um art. 5.º-A que não existe. Após o DL n.º 10/2024 e o DL n.º 108/2026 (em vigor desde 1 de outubro de 2026), a utilização após obra depende de comunicação prévia (art. 62.º-A RJUE), sem vistoria, podendo iniciar-se logo após a submissão; o título é o modelo submetido com os comprovativos (art. 4.º-A, n.º 4). Reescreveram-se o enquadramento, o pedido e a lista de documentos nesse sentido.",
+    "substituicoes": [
+      {
+        "de": "- Necessidade de vistoria (art. 64.º RJUE)",
+        "para": "- Procedimento aplicável: com obra sujeita a licença ou comunicação prévia (ou isenta ao abrigo do art. 6.º, n.º 1, al. h)), a utilização depende de comunicação prévia e pode iniciar-se logo após a submissão, sem vistoria prévia (art. 62.º-A, n.ºs 1 e 2, RJUE); sem essa obra, segue-se a comunicação prévia com prazo (arts. 62.º-B, 63.º e 64.º RJUE), em que o presidente da câmara pode, em dez dias, rejeitar a comunicação ou determinar vistoria",
+        "motivo": "A autorização de utilização, e a vistoria que a podia preceder, foram substituídas por comunicação prévia (art. 62.º-A) ou comunicação prévia com prazo (arts. 62.º-B a 64.º).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=625A0062A&nid=625&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- Arts. 62.º a 65.º RJUE (autorização de utilização)\n- Art. 5.º-A RJUE (utilização dos edifícios)",
+        "para": "- Arts. 62.º e 62.º-A RJUE (comunicação prévia de utilização após obra — a autorização de utilização deixou de existir) e art. 4.º, n.º 4, al. k), RJUE\n- Art. 4.º-A, n.º 4, RJUE (título: modelo preenchido, comprovativo da submissão e comprovativo do pagamento das taxas)",
+        "motivo": "Não há autorização de utilização no RJUE em vigor, nem art. 5.º-A; a utilização após obra rege-se pelo art. 62.º-A e o título pelo art. 4.º-A, n.º 4.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=625A0004A&nid=625&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- Prazo previsível para emissão do alvará de utilização",
+        "para": "- Início da utilização logo após a submissão (art. 62.º-A, n.º 2, RJUE) e controlo sucessivo: notificação, por uma única vez, para suprir elementos em 10 dias, sob pena de ineptidão (art. 62.º-A, n.º 3, e art. 35.º, n.ºs 8 e 9, RJUE)",
+        "motivo": "Já não é emitido alvará de utilização; a utilização é possível após a submissão, com controlo sucessivo.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=625A0062A&nid=625&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "vem, ao abrigo do disposto nos artigos 62.º e seguintes do Regime Jurídico da Urbanização e Edificação (RJUE), requerer a V.ª Ex.ª a concessão de AUTORIZAÇÃO DE UTILIZAÇÃO para o prédio/fração a seguir identificado.",
+        "para": "vem, ao abrigo do disposto no artigo 62.º-A do Regime Jurídico da Urbanização e Edificação (RJUE), apresentar a V.ª Ex.ª COMUNICAÇÃO PRÉVIA DE UTILIZAÇÃO do prédio/fração a seguir identificado. [■ VERIFICAR: modelo obrigatório aprovado pela portaria prevista no art. 4.º-A, n.º 1, RJUE e submissão na plataforma eletrónica do município]",
+        "motivo": "A utilização após obra depende de comunicação prévia, em modelo obrigatório, e não de autorização.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=625A0062A&nid=625&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "2. Termo de responsabilidade do diretor de obra",
+        "para": "2. Termo de responsabilidade do diretor de obra ou do diretor de fiscalização de obra que declare a conformidade da obra com o projeto e a conformidade legal e regulamentar de eventuais alterações em obra (art. 62.º-A, n.º 1, al. b), RJUE)",
+        "motivo": "O art. 62.º-A, n.º 1, al. b), define quem subscreve o termo e o que este declara.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=625A0062A&nid=625&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "Requer, ao abrigo do art. 62.º RJUE, que seja concedida autorização de utilização para [uso pretendido] do imóvel identificado, sendo para o efeito realizada a vistoria prevista no art. 64.º RJUE.",
+        "para": "Comunica, ao abrigo do art. 62.º-A RJUE, a utilização do imóvel identificado para [uso pretendido], a iniciar após a submissão da presente comunicação e dos respetivos elementos instrutórios (art. 62.º-A, n.º 2, RJUE), e requer a emissão do comprovativo da submissão, que, com o comprovativo do pagamento das taxas, titula a utilização (art. 4.º-A, n.º 4, RJUE).",
+        "motivo": "Não há autorização a conceder nem vistoria prévia na utilização após obra; o título resulta da comunicação submetida.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=625A0004A&nid=625&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "Requerimento de autorização de utilização completo, pronto para entrega na câmara municipal",
+        "para": "Comunicação prévia de utilização (art. 62.º-A RJUE) completa, pronta para submissão na plataforma eletrónica do município",
+        "motivo": "O documento a produzir é a comunicação prévia de utilização.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=625A0062A&nid=625&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "O título da ficha («Requerimento de Autorização de Utilização») está desatualizado: sugere-se renomear para «Comunicação prévia de utilização» no índice.",
+      "DL n.º 108/2026 em vigor desde 1 de outubro de 2026 (DL n.º 155-B/2026): confirmar o regime transitório para pedidos de autorização pendentes nessa data.",
+      "Se a utilização não foi precedida de obra sujeita a controlo prévio, o procedimento é a comunicação prévia com prazo (arts. 62.º-B, 63.º e 64.º RJUE), com termo de responsabilidade de técnico habilitado a ser autor de projeto de arquitetura.",
+      "Confirmar a portaria do modelo obrigatório e a dos elementos instrutórios (arts. 4.º-A, n.º 1, e 9.º, n.º 4, RJUE), e a vigência dos diplomas citados nos documentos (DL n.º 68/2004, SCE, RTIEBT, RJSCIE)."
+    ],
+    "fontes": [
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=625&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=625A0004A&nid=625&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=625A0062A&nid=625&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=625A0035&nid=625&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://files.diariodarepublica.pt/1s/2026/07/14705/0000200003.pdf"
+    ]
+  },
+  {
+    "codigo": "URB-027",
+    "veredicto": "corrigida",
+    "resumo": "A finalidade A pedia a vistoria do art. 64.º RJUE para «autorização de utilização», que deixou de existir; hoje a vistoria de utilização é determinada pelo presidente da câmara e o interessado só requer a nova vistoria após obras de alteração impostas (art. 65.º, n.ºs 5 e 6). Atribuía-se ainda ao art. 1.º do NRAU a obrigação de conservação, que está nos arts. 1031.º e 1074.º do Código Civil, e os pedidos de conservação e urgência ficavam sem norma: preencheram-se com os arts. 89.º e 90.º RJUE.",
+    "substituicoes": [
+      {
+        "de": "  A) Autorização de utilização após obra (art. 64.º RJUE)",
+        "para": "  A) Nova vistoria após obras de alteração impostas em vistoria de utilização (art. 65.º, n.º 5, RJUE) — a autorização de utilização deixou de existir e a primeira vistoria é determinada pelo presidente da câmara na comunicação prévia com prazo (art. 64.º, n.º 2, al. b), RJUE), não requerida pelo interessado",
+        "motivo": "Desde o DL n.º 10/2024 (e na redação do DL n.º 108/2026) não há autorização de utilização; o interessado só requer a nova vistoria do art. 65.º, n.º 5.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=625&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- Art. 64.º RJUE (vistoria para autorização de utilização)",
+        "para": "- Arts. 64.º, n.º 2, al. b), e 65.º RJUE (vistoria no âmbito da comunicação prévia com prazo de utilização; nova vistoria a requerer pelo interessado após obras de alteração — art. 65.º, n.ºs 5 e 6)",
+        "motivo": "O art. 64.º regula a comunicação prévia com prazo; a vistoria rege-se pelo art. 65.º.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=625&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- Art. 1.º NRAU — Novo Regime do Arrendamento Urbano: obrigação de manutenção [■ VERIFICAR: arts. específicos]\n- Lei n.º 6/2006 (NRAU) — direito do arrendatário a vistoria municipal [■ VERIFICAR: art. aplicável]",
+        "para": "- Arts. 1031.º, al. b), e 1074.º, n.º 1, do Código Civil (obrigação do senhorio de assegurar o gozo do locado e de executar as obras de conservação)\n- Art. 89.º, n.º 2, RJUE (a câmara determina as obras a requerimento de qualquer interessado) e Decreto-Lei n.º 266-B/2012 (determinação do nível de conservação, para que remete o art. 90.º, n.º 5, RJUE) [■ VERIFICAR: norma do DL n.º 266-B/2012 que permite ao arrendatário requerer a determinação do nível de conservação]",
+        "motivo": "O art. 1.º do NRAU (Lei n.º 6/2006) só define o objeto da lei; a obrigação de conservação do senhorio está no Código Civil e a iniciativa de qualquer interessado no art. 89.º, n.º 2, RJUE.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1074&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "**A) Autorização de utilização (art. 64.º RJUE)**\nO requerente concluiu as obras de [descrição] ao abrigo do alvará de construção n.º [número] / comunicação prévia n.º [número] em [data] e solicita que seja realizada a vistoria prevista no art. 64.º RJUE para efeitos de emissão da autorização de utilização.",
+        "para": "**A) Nova vistoria após obras de alteração impostas (art. 65.º, n.º 5, RJUE)**\nNa sequência da vistoria realizada em [data] no âmbito da comunicação prévia com prazo de utilização n.º [número], foram impostas obras de alteração, que o requerente concluiu em [data]. Requer a realização de nova vistoria, que deve decorrer no prazo de 10 dias a contar do presente requerimento, sob pena de não oposição à utilização (art. 65.º, n.ºs 5 e 6, RJUE).",
+        "motivo": "Não há vistoria a requerer para «emissão da autorização de utilização»; o pedido que cabe ao interessado é o da nova vistoria do art. 65.º, n.º 5.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=625&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "(art. [■ VERIFICAR] NRAU / art. 89.º RJUE)",
+        "para": "(art. 1074.º, n.º 1, do Código Civil; art. 89.º, n.º 2, RJUE)",
+        "motivo": "A obrigação de obras de conservação do senhorio está no art. 1074.º CC; a determinação camarária a requerimento do interessado no art. 89.º, n.º 2, RJUE.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=625A0089&nid=625&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "Solicita-se vistoria urgente ao abrigo do art. [■ VERIFICAR] RJUE.",
+        "para": "Solicita-se vistoria urgente ao abrigo dos arts. 89.º, n.ºs 2 e 3, e 90.º RJUE, com preterição das formalidades se houver risco iminente de desmoronamento ou grave perigo para a saúde pública (art. 90.º, n.º 8, RJUE).",
+        "motivo": "A vistoria por razões de segurança e salubridade rege-se pelos arts. 89.º e 90.º RJUE, que admitem a preterição de formalidades em caso de risco iminente.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=625A0089&nid=625&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "   — Para autorização de utilização: emissão do respetivo alvará;",
+        "para": "   — Para nova vistoria de utilização: declaração de conformidade do edifício ou fração (art. 65.º, n.º 4, RJUE);",
+        "motivo": "Já não há alvará de autorização de utilização; a vistoria conclui por declaração de conformidade ou imposição de obras.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=625&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "[ ] Autorização de utilização após obra (art. 64.º RJUE)",
+        "para": "[ ] Nova vistoria após obras de alteração impostas (art. 65.º, n.º 5, RJUE)",
+        "motivo": "A autorização de utilização deixou de existir.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=625&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "**OBRA (se autorização de utilização):**\n- Alvará n.º: [número]",
+        "para": "**OBRA (se nova vistoria de utilização):**\n- Comunicação prévia com prazo n.º / data da vistoria anterior: [número / data]",
+        "motivo": "Dados ajustados ao único pedido de vistoria de utilização que cabe ao interessado (art. 65.º, n.º 5, RJUE).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=625&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Confirmar no DL n.º 266-B/2012 quem pode requerer a determinação do nível de conservação e os seus efeitos no arrendamento, e se o caso convoca o regime das obras em prédios arrendados (DL n.º 157/2006).",
+      "As medidas dos n.ºs 2 e 3 do art. 89.º RJUE são deliberações da câmara precedidas de vistoria com três técnicos (art. 90.º, n.º 1); o proprietário pode indicar perito e formular quesitos (art. 90.º, n.º 3).",
+      "DL n.º 108/2026 em vigor desde 1 de outubro de 2026: confirmar o regime transitório se houver procedimento de utilização pendente."
+    ],
+    "fontes": [
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=625&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=625A0089&nid=625&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1074&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1031&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://files.diariodarepublica.pt/1s/2026/07/14705/0000200003.pdf"
+    ]
+  },
+  {
+    "codigo": "URB-040",
+    "veredicto": "corrigida",
+    "resumo": "Toda a ficha assentava na autorização de utilização, com prazo de decisão, deferimento tácito, vistoria obrigatória e fundamentos de recusa no art. 63.º, e situava a ficha técnica da habitação no art. 67.º RJUE. No regime em vigor (DL n.º 10/2024 e DL n.º 108/2026), há comunicação prévia após obra (art. 62.º-A) ou comunicação prévia com prazo (arts. 62.º-B a 65.º), com rejeição nos termos do art. 64.º, n.º 2, e título nos termos do art. 4.º-A, n.º 4. Corrigiram-se ainda os meios de reação (reclamação do CPA e art. 114.º, n.º 3, RJUE) e as consequências: a escritura não fica impedida, mas tem de mencionar o título (art. 4.º-A, n.º 14).",
+    "substituicoes": [
+      {
+        "de": "— Distingue autorização de utilização de certificação energética e de inspeção de gás.",
+        "para": "— Distingue a comunicação prévia de utilização após obra (art. 62.º-A RJUE) da comunicação prévia com prazo (arts. 62.º-B, 63.º e 64.º RJUE) — a autorização de utilização deixou de existir — e ambas da certificação energética e da inspeção de gás.",
+        "motivo": "A autorização de utilização foi substituída por comunicação prévia ou comunicação prévia com prazo.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=625A0062A&nid=625&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- Documentação necessária: termo de responsabilidade do técnico, telas finais, certificado de desempenho energético, ficha técnica de habitação (art. 67.º RJUE), outros",
+        "para": "- Documentação necessária: elementos da portaria instrutória e termo de responsabilidade — do diretor de obra ou do diretor de fiscalização de obra, se houve obra (art. 62.º-A, n.º 1, RJUE), ou de técnico habilitado a ser autor de projeto de arquitetura, na comunicação prévia com prazo (art. 63.º, n.ºs 1 e 2, RJUE) —, telas finais, certificado de desempenho energético, ficha técnica da habitação (Decreto-Lei n.º 68/2004) [■ VERIFICAR: regime em vigor e exigência no caso], outros",
+        "motivo": "O art. 67.º RJUE trata da validade das licenças, não da ficha técnica da habitação; o termo de responsabilidade e o seu subscritor constam dos arts. 62.º-A e 63.º.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=625&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- Vistoria municipal: quando é obrigatória e como é agendada\n- Prazo de decisão (art. 64.º RJUE) e possibilidade de deferimento tácito",
+        "para": "- Vistoria municipal: só na comunicação prévia com prazo, quando o presidente da câmara a determine por haver indícios sérios de que o edifício não é idóneo para o fim pretendido (art. 64.º, n.º 2, al. b), RJUE); realiza-se em 15 dias, sempre que possível em data acordada com o interessado (art. 65.º, n.º 1, RJUE)\n- Início da utilização: logo após a submissão, se houve obra (art. 62.º-A, n.º 2, RJUE); decorridos dez dias após a submissão, na comunicação prévia com prazo, salvo rejeição ou vistoria (art. 64.º, n.º 1, RJUE). Não há decisão a aguardar nem deferimento tácito: o título é o modelo submetido com o comprovativo da submissão e do pagamento das taxas (art. 4.º-A, n.º 4, RJUE)",
+        "motivo": "Sem autorização de utilização não há prazo de decisão nem deferimento tácito; a utilização decorre da comunicação e a vistoria é excecional.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=625A0004A&nid=625&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- Fundamentos legais de recusa (art. 63.º RJUE): desconformidade com o projeto aprovado, inobservância de norma técnica de segurança, habitabilidade ou salubridade",
+        "para": "- Fundamentos legais de rejeição da comunicação prévia com prazo (art. 64.º, n.º 2, al. a), RJUE): comunicação não devidamente instruída; utilização manifestamente contrária às normas legais ou regulamentares aplicáveis; sobrecarga incomportável, comprovada, para as infraestruturas ou serviços gerais existentes. Havendo vistoria, segue-se declaração de conformidade ou imposição de obras de alteração (art. 65.º, n.º 4, RJUE). Na comunicação prévia após obra o controlo é sucessivo: notificação, por uma única vez, para suprir elementos em 10 dias, sob pena de ineptidão (art. 62.º-A, n.º 3, e art. 35.º, n.ºs 8 e 9, RJUE)",
+        "motivo": "O art. 63.º trata da instrução da comunicação prévia com prazo; os fundamentos de rejeição estão no art. 64.º, n.º 2, al. a).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=625&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- Verificar se a câmara realizou vistoria antes de recusar (obrigação legal)",
+        "para": "- Verificar se a rejeição foi proferida dentro dos dez dias (art. 64.º, n.ºs 1 e 2, RJUE) e, havendo vistoria, se foi realizada em 15 dias com notificação da data ao interessado (art. 65.º, n.ºs 1 e 3, RJUE); a vistoria não é pressuposto da rejeição",
+        "motivo": "O art. 64.º, n.º 2, permite rejeitar ou determinar vistoria em alternativa; não há obrigação legal de vistoria antes da rejeição.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=625&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- Reclamação graciosa para o presidente da câmara\n- Recurso hierárquico",
+        "para": "- Reclamação para o autor do ato, no prazo de 15 dias (art. 191.º, n.ºs 1 e 3, CPA)\n- Impugnação administrativa, a decidir no prazo de 30 dias, findo o qual se considera deferida (art. 114.º, n.º 3, RJUE) [■ VERIFICAR: recurso cabível consoante o autor do ato — presidente da câmara ou vereador com competência delegada]",
+        "motivo": "«Reclamação graciosa» é figura do procedimento tributário; no RJUE a impugnação administrativa tem prazo de decisão e efeito positivo próprios (art. 114.º, n.º 3).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2248A0191&nid=2248&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- Ação administrativa de impugnação no TAF (3 meses)\n- Ação administrativa de condenação à prática de ato devido (se o prazo tácito decorreu)",
+        "para": "- Ação administrativa de impugnação do despacho de rejeição no TAF (3 meses — art. 58.º, n.º 1, al. b), CPTA)\n- Inércia da câmara: decorridos os dez dias sem rejeição nem vistoria, a utilização é admitida e titulada pelo modelo submetido com o comprovativo da submissão e do pagamento das taxas (arts. 64.º, n.º 1, e 4.º-A, n.º 4, al. b), RJUE); a falta da nova vistoria no prazo de 10 dias implica a não oposição à utilização (art. 65.º, n.ºs 5 e 6, RJUE)",
+        "motivo": "Na comunicação prévia com prazo o silêncio não exige ação de condenação: a lei atribui-lhe diretamente efeito habilitante.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=625A0004A&nid=625&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "### ETAPA 4 — CONSEQUÊNCIAS DA UTILIZAÇÃO SEM AUTORIZAÇÃO",
+        "para": "### ETAPA 4 — CONSEQUÊNCIAS DA UTILIZAÇÃO SEM TÍTULO",
+        "motivo": "A autorização de utilização deixou de existir; o que releva é o título de utilização (art. 4.º-A RJUE).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=625A0004A&nid=625&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- Contraordenação urbanística (art. 98.º RJUE) com coimas pesadas\n- Impossibilidade de escritura de compra e venda sem autorização de utilização",
+        "para": "- Contraordenação urbanística: utilização sem a comunicação dos arts. 62.º-A ou 62.º-B, ou em desconformidade com a utilização comunicada ou com o título existente (art. 98.º, n.º 1, al. d), RJUE), punível com a coima do art. 98.º, n.º 4, RJUE; ordem de cessação da utilização e despejo administrativo (art. 109.º RJUE)\n- Transmissão do imóvel: o documento que titula o negócio menciona a existência do título urbanístico ou a declaração do transmitente de que dele dispõe ou não dispõe, sob pena de anulabilidade (art. 4.º-A, n.º 14, RJUE) — a falta de título não impede a escritura, mas tem de constar dela",
+        "motivo": "O tipo e a moldura constam do art. 98.º, n.º 1, al. d), e n.º 4; a lei já não impede a escritura sem título, exige a menção do art. 4.º-A, n.º 14.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=625A0098&nid=625&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- Impossibilidade de constituição de propriedade horizontal sem autorização",
+        "para": "- Propriedade horizontal: a certificação camarária dos requisitos para a sua constituição pode acompanhar a comunicação de utilização (art. 66.º, n.º 3, RJUE) [■ VERIFICAR: exigências notariais e registais no caso concreto]",
+        "motivo": "Não existe autorização de utilização; o RJUE prevê a certificação camarária para a propriedade horizontal (art. 66.º, n.º 3).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=625&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- Pedido de autorização já submetido: [sim/não — data]\n- Resposta da câmara: [ainda não / indeferimento — fundamento]",
+        "para": "- Comunicação de utilização já submetida (art. 62.º-A ou 62.º-B RJUE): [sim/não — data]\n- Resposta da câmara: [ainda não / rejeição / vistoria determinada / notificação para suprir elementos — fundamento]",
+        "motivo": "Dados ajustados ao regime de comunicação prévia.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=625A0062A&nid=625&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "O título da ficha («Autorização de Utilização: Pedido, Recusa e Impugnação (arts. 62.º a 67.º RJUE)») e a descrição estão desatualizados: sugere-se renomear para «Comunicação prévia de utilização: rejeição e reação».",
+      "DL n.º 108/2026 em vigor desde 1 de outubro de 2026 (DL n.º 155-B/2026): confirmar o regime transitório para pedidos de autorização de utilização pendentes nessa data.",
+      "Confirmar se, contra o despacho de rejeição, é preferível a impugnação (anulação) ou a condenação à prática do ato devido (art. 67.º, n.º 1, al. b), CPTA), e se há lugar a audiência prévia (arts. 121.º e 124.º CPA) no prazo de dez dias.",
+      "Confirmar a vigência e o âmbito do DL n.º 68/2004 (ficha técnica da habitação) e as portarias do modelo e dos elementos instrutórios."
+    ],
+    "fontes": [
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=625&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=625A0004A&nid=625&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=625A0062A&nid=625&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=625A0098&nid=625&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=625A0109&nid=625&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2248A0191&nid=2248&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=439A0058&nid=439&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://files.diariodarepublica.pt/1s/2026/07/14705/0000200003.pdf"
+    ]
+  },
+  {
+    "codigo": "URB-011",
+    "veredicto": "corrigida",
+    "resumo": "A ficha classificava as contraordenações do art. 98.º RJUE em leves, graves e muito graves, o que o artigo não faz (cada alínea do n.º 1 tem a moldura dos n.ºs 2 a 7), e remetia as molduras para portarias. Atribuía ainda ao art. 50.º RGCO um prazo de defesa de 15 dias úteis, quando a norma só exige «prazo razoável», e situava a jurisprudência nos tribunais judiciais, quando a impugnação destas coimas cabe aos tribunais administrativos (art. 4.º, n.º 1, al. l), ETAF).",
+    "substituicoes": [
+      {
+        "de": "- Grau de gravidade: leve, grave ou muito grave (art. 98.º RJUE) [■ VERIFICAR classificação]",
+        "para": "- Moldura aplicável: o art. 98.º RJUE não classifica as contraordenações em leves, graves e muito graves — cada alínea do n.º 1 tem a moldura fixada nos n.ºs 2 a 7, em regra distinta para pessoas singulares e coletivas",
+        "motivo": "O art. 98.º RJUE fixa molduras por alínea, sem classificação por gravidade.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=625A0098&nid=625&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- Coima proposta: valor e moldura legal aplicável [■ VERIFICAR: art. 98.º RJUE e portarias]",
+        "para": "- Coima proposta: valor e moldura legal aplicável (art. 98.º, n.ºs 2 a 7, RJUE, consoante a alínea imputada; a tentativa e a negligência são puníveis — n.º 9) [■ VERIFICAR: moldura da alínea imputada]",
+        "motivo": "As molduras constam do próprio art. 98.º RJUE, não de portarias.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=625A0098&nid=625&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- Art. 50.º RGCO (direito de defesa — prazo e forma)",
+        "para": "- Art. 50.º RGCO (direito de audição e defesa, em prazo razoável fixado pela autoridade administrativa)",
+        "motivo": "O art. 50.º RGCO não fixa prazo nem forma; exige apenas a possibilidade de pronúncia em prazo razoável.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=166&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "no prazo legal, apresentar a sua DEFESA ESCRITA",
+        "para": "no prazo que lhe foi fixado, apresentar a sua DEFESA ESCRITA",
+        "motivo": "Não há prazo legal de defesa no RGCO; vale o fixado na notificação.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=166&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- [ ] Prazo de defesa verificado (normalmente 15 dias úteis — art. 50.º RGCO)",
+        "para": "- [ ] Prazo de defesa verificado (o fixado na notificação — o art. 50.º RGCO não fixa prazo, exige apenas «prazo razoável»)",
+        "motivo": "O art. 50.º RGCO não estabelece 15 dias úteis.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=166&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- Grau: [leve / grave / muito grave]",
+        "para": "- Alínea do art. 98.º, n.º 1, RJUE imputada e moldura correspondente (n.ºs 2 a 7): [indicar]",
+        "motivo": "O art. 98.º RJUE não gradua as contraordenações em leves, graves e muito graves.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=625A0098&nid=625&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- Jurisprudência dos tribunais judiciais sobre contraordenações urbanísticas [■ VERIFICAR]",
+        "para": "- Jurisprudência dos tribunais administrativos sobre contraordenações urbanísticas — competentes para a impugnação judicial destas coimas (art. 4.º, n.º 1, al. l), ETAF) [■ VERIFICAR]",
+        "motivo": "A impugnação de coimas por violação de normas de direito administrativo em matéria de urbanismo cabe à jurisdição administrativa.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=418A0004&nid=418&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Prescrição: as molduras máximas do art. 98.º RJUE apontam, em regra, para o prazo de cinco anos (art. 27.º, al. a), RGCO) e, nas als. o) e u) (n.º 7), para três anos (al. b)); limite do prazo acrescido de metade, ressalvada a suspensão (art. 28.º, n.º 3, RGCO). Confirmar no caso, incluindo o efeito da negligência na moldura (art. 17.º, n.º 4, RGCO).",
+      "O DL n.º 108/2026 (em vigor desde 1 de outubro de 2026) aditou o art. 99.º-A RJUE: aplicação subsidiária do RGCO, responsabilidade de quem pratica o facto ou omite a ação adequada e impugnação judicial das decisões interlocutórias. Ponderar a aplicação da lei mais favorável a factos anteriores.",
+      "Confirmar o tribunal e o juízo competentes para a eventual impugnação judicial (art. 4.º, n.º 1, al. l), ETAF, e art. 61.º RGCO)."
+    ],
+    "fontes": [
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=625A0098&nid=625&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=625A0099A&nid=625&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=166&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=418A0004&nid=418&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://files.diariodarepublica.pt/1s/2026/07/14705/0000200003.pdf"
+    ]
+  },
+  {
+    "codigo": "URB-058",
+    "veredicto": "corrigida",
+    "resumo": "A ficha graduava as contraordenações do art. 98.º RJUE em leves, graves e muito graves (classificação inexistente), atribuía ao art. 98.º, n.º 3, a responsabilidade do empreiteiro (o número fixa a coima da al. b)) e ao art. 59.º RGCO as formalidades do auto. Tratava a defesa como «resposta à nota de culpa», figura disciplinar, com prazo de 10 dias que o art. 50.º RGCO não fixa, e indicava o tribunal de comarca, quando a impugnação destas coimas cabe aos tribunais administrativos (art. 4.º, n.º 1, al. l), ETAF). Corrigiu-se também o efeito da impugnação, atribuído ao art. 60.º RGCO.",
+    "substituicoes": [
+      {
+        "de": "— Distingue infração leve, grave e muito grave (art. 98.º RJUE — tabela de coimas).",
+        "para": "— Identifica a alínea do n.º 1 do art. 98.º RJUE imputada e a moldura correspondente (n.ºs 2 a 7) — o RJUE não classifica as contraordenações em leves, graves e muito graves.",
+        "motivo": "O art. 98.º RJUE fixa molduras por alínea, sem classificação por gravidade.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=625A0098&nid=625&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- Graduação: leve / grave / muito grave (com referência à moldura de coima)",
+        "para": "- Moldura aplicável à alínea imputada (art. 98.º, n.ºs 2 a 7, RJUE), em regra distinta para pessoas singulares e coletivas, e critérios da medida da coima (art. 18.º RGCO)",
+        "motivo": "O art. 98.º RJUE não gradua as contraordenações em leves, graves e muito graves.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=625A0098&nid=625&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- Cumprimento das formalidades do auto (art. 59.º RGCO)",
+        "para": "- Cumprimento das formalidades do auto de notícia (art. 243.º CPP, ex vi art. 41.º, n.º 1, RGCO) [■ VERIFICAR: requisitos aplicáveis ao auto lavrado pela fiscalização municipal]",
+        "motivo": "O art. 59.º RGCO regula a forma e o prazo da impugnação judicial, não o auto de notícia.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=166&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- Erro na qualificação: os factos integram infração de menor gravidade",
+        "para": "- Erro na qualificação: os factos integram outra alínea do art. 98.º, n.º 1, RJUE, com moldura inferior",
+        "motivo": "Sem classificação por gravidade, o erro de qualificação reporta-se à alínea e à moldura.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=625A0098&nid=625&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- Responsabilidade do empreiteiro e não do dono da obra (art. 98.º, n.º 3 RJUE)",
+        "para": "- Autoria: responde quem pratica o facto ou, na omissão, não pratica a ação adequada a evitá-lo (art. 99.º-A, n.º 3, RJUE) — discutir se o facto é imputável ao empreiteiro ou ao diretor de obra e não ao dono da obra [■ VERIFICAR: factos da autoria]",
+        "motivo": "O art. 98.º, n.º 3, fixa a coima da al. b); a imputação do facto rege-se pelo art. 99.º-A, n.º 3, aditado pelo DL n.º 108/2026.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=625A0099A&nid=625&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "### ETAPA 3 — RESPOSTA À NOTA DE CULPA",
+        "para": "### ETAPA 3 — DEFESA ESCRITA (ART. 50.º RGCO)",
+        "motivo": "A «nota de culpa» é figura do procedimento disciplinar; no processo de contraordenação o arguido exerce o direito de audição e defesa do art. 50.º RGCO.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=166&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- Prazo de resposta (art. 50.º RGCO): 10 dias após notificação",
+        "para": "- Prazo de defesa: o fixado na notificação — o art. 50.º RGCO não fixa prazo, exige apenas «prazo razoável»",
+        "motivo": "O art. 50.º RGCO não estabelece 10 dias.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=166&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- Tribunal competente: Tribunal de Comarca com competência contraordenacional",
+        "para": "- Tribunal competente: tribunal administrativo (art. 4.º, n.º 1, al. l), ETAF — impugnação de coimas por violação de normas de direito administrativo em matéria de urbanismo), da área em que se consumou a infração (art. 61.º RGCO) [■ VERIFICAR: tribunal e juízo competentes no caso concreto]",
+        "motivo": "A impugnação judicial de coimas urbanísticas pertence à jurisdição administrativa, não aos tribunais judiciais.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=418A0004&nid=418&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- Efeito suspensivo da impugnação sobre a coima (art. 60.º RGCO)",
+        "para": "- Efeito da impugnação: a coima só é paga depois de a decisão se tornar definitiva ou transitar em julgado (art. 88.º, n.º 1, RGCO; art. 98.º, n.º 12, RJUE)",
+        "motivo": "O art. 60.º RGCO trata da contagem do prazo de impugnação; a exigibilidade da coima depende do caráter definitivo da decisão.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=166&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "### ETAPA 5 — MINUTA DE RESPOSTA À NOTA DE CULPA\nRedigir dentro de <minuta>:\n- Resposta à nota de culpa com identificação do arguido",
+        "para": "### ETAPA 5 — MINUTA DE DEFESA ESCRITA\nRedigir dentro de <minuta>:\n- Defesa escrita com identificação do arguido",
+        "motivo": "No processo de contraordenação não há nota de culpa; a peça é a defesa escrita (art. 50.º RGCO).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=166&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "O título e a descrição da ficha falam em «graduação das coimas»: rever o texto do índice pelo mesmo critério.",
+      "Prescrição: em regra cinco anos (art. 27.º, al. a), RGCO) face às molduras máximas do art. 98.º RJUE; três anos nas als. o) e u) (n.º 7); limite do art. 28.º, n.º 3, RGCO. Confirmar no caso.",
+      "O art. 99.º-A RJUE (DL n.º 108/2026, em vigor desde 1 de outubro de 2026) admite impugnação judicial de decisões interlocutórias que colidam com direitos do arguido (n.º 4); ponderar a lei mais favorável a factos anteriores.",
+      "Confirmar o juízo competente no tribunal administrativo e a contagem do prazo de 20 dias (arts. 59.º, n.º 3, e 60.º RGCO)."
+    ],
+    "fontes": [
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=625A0098&nid=625&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=625A0099A&nid=625&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=166&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=418A0004&nid=418&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://files.diariodarepublica.pt/1s/2026/07/14705/0000200003.pdf"
+    ]
+  },
+  {
+    "codigo": "ADM-052",
+    "veredicto": "corrigida",
+    "resumo": "A ficha seguia o CPA de 1991 e o CPTA anterior a 2015: dava o silêncio como indeferimento tácito (art. 130.º CPA), um prazo geral de decisão de 30 dias e um prazo de 1 ano no art. 58.º, n.º 2, al. c), CPTA, e pedia a anulação do ato tácito. No regime em vigor, o prazo geral é de 60 dias (art. 128.º, n.º 1, CPA), a falta de decisão é incumprimento do dever de decisão (art. 129.º) — o art. 130.º só prevê deferimento tácito — e a via é a ação de condenação à prática do ato devido, no prazo de 1 ano do art. 69.º, n.º 1, CPTA. Reescreveram-se as regras, a análise, a petição e a checklist.",
+    "substituicoes": [
+      {
+        "de": "— O prazo geral de decisão é de 30 dias úteis (art. 128.º, n.º 1, CPA); o silêncio após esse prazo forma indeferimento tácito (art. 130.º CPA).\n— O prazo de impugnação do ato tácito é de 1 ano a contar da formação do silêncio (art. 58.º, n.º 2, al. c), CPTA).",
+        "para": "— O prazo geral de decisão dos procedimentos de iniciativa particular é de 60 dias, salvo prazo legal diferente, prorrogável em circunstâncias excecionais até ao limite de 90 dias (art. 128.º, n.º 1, CPA), contado em dias úteis (art. 87.º, al. c), CPA); a falta de decisão nesse prazo constitui incumprimento do dever de decisão (art. 129.º CPA) e não forma indeferimento tácito — só há ato tácito, de deferimento, quando a lei ou regulamento o determine (art. 130.º, n.º 1, CPA).\n— Em caso de inércia, a ação de condenação à prática do ato devido deve ser proposta no prazo de 1 ano contado do termo do prazo legal de decisão (art. 69.º, n.º 1, CPTA).",
+        "motivo": "O prazo do art. 128.º, n.º 1, CPA é de 60 dias; o CPA de 2015 eliminou o indeferimento tácito; o prazo de 1 ano em caso de inércia está no art. 69.º, n.º 1, CPTA.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2248A0128&nid=2248&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- Prazo legal de decisão aplicável (30 dias gerais / prazo especial)\n- Data de formação do silêncio/indeferimento tácito\n- Prazo de impugnação: 1 ano a contar do silêncio\n- Tipo de ação: impugnação do ato tácito + condenação à prática do ato devido",
+        "para": "- Prazo legal de decisão aplicável (60 dias gerais — art. 128.º, n.º 1, CPA / prazo especial)\n- Termo do prazo legal de decisão (incumprimento do dever de decisão — art. 129.º CPA)\n- Prazo da ação: 1 ano a contar do termo do prazo legal de decisão (art. 69.º, n.º 1, CPTA)\n- Tipo de ação: ação administrativa de condenação à prática do ato devido (arts. 66.º e 67.º, n.º 1, al. a), CPTA) — não há ato tácito de indeferimento a impugnar",
+        "motivo": "Prazo geral de 60 dias; sem indeferimento tácito, a omissão é pressuposto da condenação à prática do ato devido (art. 67.º, n.º 1, al. a), CPTA).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=439A0066&nid=439&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- Formação do silêncio negativo (art. 130.º CPA)\n- Exceções: casos em que o silêncio tem efeito positivo (art. 130.º, n.º 2, CPA)",
+        "para": "- Incumprimento do dever de decisão (art. 129.º CPA) — o CPA de 2015 não prevê indeferimento tácito\n- Exceções: casos em que a lei ou regulamento atribui ao silêncio o valor de deferimento (art. 130.º, n.º 1, CPA)",
+        "motivo": "O art. 130.º CPA só regula o deferimento tácito, cuja fonte está no n.º 1; o silêncio sem esse efeito é incumprimento do dever de decisão (art. 129.º).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2248A0128&nid=2248&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- Prazo de impugnação do ato tácito: 1 ano (art. 58.º, n.º 2, al. c), CPTA)\n- Fundamentos de ilegalidade do indeferimento tácito",
+        "para": "- Prazo da ação em caso de inércia: 1 ano (art. 69.º, n.º 1, CPTA)\n- Fundamentos do direito à prática do ato pretendido e da ilegalidade da omissão",
+        "motivo": "O art. 58.º CPTA não tem n.º 2, al. c), com esse conteúdo; o prazo de 1 ano em caso de inércia está no art. 69.º, n.º 1.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=439A0066&nid=439&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- Pedido de impugnação do ato tácito\n- Pedido de condenação à prática do ato devido",
+        "para": "- Pedido de condenação à prática do ato devido (sem pedido de anulação: não há ato a impugnar)",
+        "motivo": "Em caso de inércia não se forma ato de indeferimento; o pedido é só o de condenação.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=439A0066&nid=439&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "contra [ENTIDADE RÉ], pedindo a anulação do ato tácito de indeferimento e a condenação à prática do ato administrativo devido, com os seguintes fundamentos:",
+        "para": "contra [ENTIDADE RÉ], pedindo a condenação à prática do ato administrativo ilegalmente omitido (artigos 66.º e 67.º, n.º 1, alínea a), do CPTA), com os seguintes fundamentos:",
+        "motivo": "Não há ato tácito de indeferimento a anular no regime do CPA de 2015.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=439A0066&nid=439&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "3. Decorridos [Y] dias sem resposta, formou-se o ato tácito de indeferimento em [data], nos termos do artigo 130.º, n.º 1, do CPA.",
+        "para": "3. Esse prazo terminou em [data] sem que tenha sido proferida decisão, o que constitui incumprimento do dever de decisão (artigo 129.º do CPA) e preenche o pressuposto da alínea a) do n.º 1 do artigo 67.º do CPTA.",
+        "motivo": "O art. 130.º, n.º 1, CPA regula o deferimento tácito; a falta de decisão é tratada no art. 129.º.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2248A0128&nid=2248&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "[Fundamentos jurídicos da ilegalidade do indeferimento]",
+        "para": "[Fundamentos jurídicos do direito à prática do ato e da ilegalidade da omissão]",
+        "motivo": "Não há indeferimento; discute-se a omissão e o direito ao ato.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=439A0066&nid=439&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "1. A anulação do ato tácito de indeferimento;\n2. A condenação da Ré a praticar o ato de [especificar] no prazo de [X] dias;\n3. [Se aplicável]",
+        "para": "1. A condenação da Ré a praticar o ato de [especificar] no prazo de [X] dias;\n2. [Se aplicável]",
+        "motivo": "Sem ato tácito de indeferimento não há pedido de anulação.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=439A0066&nid=439&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- [ ] Data de formação do silêncio calculada\n- [ ] Prazo de impugnação de 1 ano verificado (art. 58.º, n.º 2, al. c), CPTA)\n- [ ] Fundamento de ilegalidade do indeferimento identificado",
+        "para": "- [ ] Termo do prazo legal de decisão calculado (dias úteis — art. 87.º, al. c), CPA)\n- [ ] Prazo de 1 ano da ação verificado (art. 69.º, n.º 1, CPTA)\n- [ ] Fundamento do direito ao ato pretendido identificado",
+        "motivo": "Checklist alinhada com os arts. 129.º CPA e 69.º, n.º 1, CPTA.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2248A0087&nid=2248&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "**DATA DE FORMAÇÃO DO SILÊNCIO:** [calcular]\n\n**FUNDAMENTOS DE ILEGALIDADE DO INDEFERIMENTO:**",
+        "para": "**TERMO DO PRAZO DE DECISÃO:** [calcular]\n\n**FUNDAMENTOS DO DIREITO AO ATO PRETENDIDO:**",
+        "motivo": "Não há formação de ato tácito de indeferimento.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2248A0128&nid=2248&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "O título da ficha («Impugnação de Ato Tácito de Indeferimento — Formação do Silêncio Administrativo (art. 130.º CPA)») está desatualizado: sugere-se «Ação de condenação à prática de ato devido por omissão (art. 129.º CPA)».",
+      "Verificar se há prazo especial de decisão e se a lei especial atribui ao silêncio o valor de deferimento (art. 130.º, n.º 1, CPA) — nesse caso não há omissão a reagir.",
+      "Confirmar que não se aplica a exceção do art. 13.º, n.º 2, CPA (ato sobre o mesmo pedido, do mesmo particular e com os mesmos fundamentos, há menos de dois anos).",
+      "Ponderar a cumulação do pedido indemnizatório e a fixação de prazo e de sanção pecuniária compulsória na condenação."
+    ],
+    "fontes": [
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2248A0128&nid=2248&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2248A0087&nid=2248&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=439A0066&nid=439&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=439A0058&nid=439&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+    ]
+  },
+  {
+    "codigo": "ADM-002",
+    "veredicto": "corrigida",
+    "resumo": "A ficha está, no essencial, conforme aos arts. 121.º a 125.º do CPA de 2015. O único ponto inexato era o prazo de pronúncia, apresentado como «normalmente 10 dias úteis», quando a lei fixa um mínimo (art. 122.º, n.º 1, CPA: prazo não inferior a 10 dias, contado em dias úteis — art. 87.º, al. c)); um prazo inferior é ilegalidade a invocar. Corrigiu-se esse ponto.",
+    "substituicoes": [
+      {
+        "de": "normalmente 10 dias úteis",
+        "para": "o fixado na notificação, nunca inferior a 10 dias úteis",
+        "motivo": "O art. 122.º, n.º 1, CPA fixa um prazo mínimo de 10 dias (úteis — art. 87.º, al. c)), não um prazo normal.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2248A0121&nid=2248&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Desde o DL n.º 11/2023 só pode haver uma audiência prévia, que deve incluir toda a matéria de facto e de direito, salvo factos supervenientes (art. 121.º, n.ºs 3 e 4, CPA), e a audiência não suspende a contagem dos prazos do procedimento (n.º 5).",
+      "Se a audiência foi dispensada, verificar se a decisão indica as razões (art. 124.º, n.º 2, CPA).",
+      "Ao invocar a falta de audiência, contar com a possível não produção do efeito anulatório (art. 163.º, n.º 5, CPA), sobretudo em atos de conteúdo vinculado."
+    ],
+    "fontes": [
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2248A0121&nid=2248&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2248A0087&nid=2248&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2248A0163&nid=2248&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+    ]
+  }
+]

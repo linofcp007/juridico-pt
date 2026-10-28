@@ -1,0 +1,265 @@
+[
+  {
+    "codigo": "URB-013",
+    "veredicto": "corrigida",
+    "resumo": "A ficha fundava a legalização no art. 102.º, n.º 4, RJUE, que está revogado, e no art. 106.º, que regula a demolição; o regime está no art. 102.º-A (na redação do DL n.º 108/2026) e no art. 106.º, n.º 2. Atribuía ao art. 107.º (posse administrativa) o levantamento do embargo, que caduca nos termos do art. 104.º, e apresentava a suspensão do embargo e da contraordenação como efeito do pedido, o que o RJUE não prevê. Substituiu-se o alvará de utilização após vistoria pela comunicação prévia de utilização (art. 62.º-A) e precisou-se a regra do PDM atual com a dispensa de normas técnicas do art. 102.º-A, n.º 5.",
+    "descricao": "Gera o requerimento de legalização de obra executada sem licença ou em desconformidade com a licença existente, ao abrigo do art. 102.º-A do RJUE, pedindo à câmara municipal que aprecie a possibilidade de regularização mediante concessão de licença ou aceitação de comunicação prévia com os elementos atuais da obra.",
+    "descricao_en": "Generates the application for regularisation (legalização) of works carried out without a licence or not in conformity with the existing licence, under Article 102-A of the RJUE, asking the municipal council to consider the possibility of regularisation by granting a licence or accepting a prior notification based on the works as they currently stand.",
+    "substituicoes": [
+      {
+        "de": "— Analisa sempre a conformidade da obra com o PDM atual (não com o PDM em vigor à data de construção, se diferente).",
+        "para": "— Analisa sempre a conformidade da obra com as normas legais e regulamentares em vigor à data da legalização, incluindo o PDM atual, e não com as vigentes à data de construção (art. 102.º-A, n.º 1, RJUE). Só as normas técnicas de construção cujo cumprimento se tenha tornado impossível ou não seja razoável exigir podem ser dispensadas, se o requerente provar que cumpriu as vigentes à data da obra (art. 102.º-A, n.º 5, RJUE).",
+        "motivo": "A regra do PDM atual decorre do art. 102.º-A, n.º 1, mas o n.º 5 admite a dispensa de normas técnicas de construção supervenientes.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=625A0102A&nid=625&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Art. 102.º, n.º 4, RJUE — dever da câmara de verificar a legalizabilidade antes de ordenar a demolição\n- Art. 106.º RJUE — legalização de obras\n- Art. 107.º RJUE — levantamento do embargo após legalização",
+        "para": "- Art. 102.º-A RJUE — legalização: a câmara notifica os interessados para legalizar quando seja possível assegurar a conformidade da obra com as normas legais e regulamentares em vigor (n.º 1); dispensa de elementos instrutórios quando não haja obras de ampliação ou de alteração a realizar (n.º 4); regulamento municipal de legalização (n.º 7)\n- Art. 106.º, n.º 2, RJUE — a demolição pode ser evitada se a obra for suscetível de licença ou de comunicação prévia\n- Art. 104.º RJUE — o embargo caduca com a decisão que defina a situação jurídica da obra com caráter definitivo ou no termo do prazo fixado (sem prazo fixado, seis meses, prorrogáveis uma vez); o pedido de legalização não levanta o embargo",
+        "motivo": "O art. 102.º, n.º 4, está revogado; o art. 106.º regula a demolição e o art. 107.º a posse administrativa; a legalização está no art. 102.º-A e a caducidade do embargo no art. 104.º.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=625A0102A&nid=625&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Pedido de suspensão de processo de contraordenação/embargo durante apreciação do pedido",
+        "para": "- Pedido de que não se ordene a demolição enquanto se aprecia a legalização (art. 106.º, n.º 2, RJUE) e, se for o caso, de suspensão do processo de contraordenação (pedido sem efeito automático: o RJUE não prevê essa suspensão)",
+        "motivo": "O pedido de legalização não suspende o embargo nem o processo de contraordenação; o embargo só cessa nos termos do art. 104.º.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=625A0106&nid=625&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "vem, ao abrigo do disposto nos artigos 102.º, n.º 4, e 106.º do Regime Jurídico da Urbanização e Edificação (RJUE), requerer",
+        "para": "vem, ao abrigo do disposto no art. 102.º-A do RJUE (Regime Jurídico da Urbanização e Edificação), requerer",
+        "motivo": "Norma revogada (art. 102.º, n.º 4) e norma da demolição (art. 106.º) em vez da norma da legalização.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=625A0102&nid=625&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "Requer-se que o presente pedido de legalização seja apreciado com prioridade e que, durante a sua apreciação, seja suspensa a instrução do processo de contraordenação / levantado o embargo (art. 107.º RJUE).",
+        "para": "Requer-se que o presente pedido de legalização seja apreciado com prioridade, que, enquanto estiver pendente, não seja ordenada a demolição, por a obra ser suscetível de legalização (art. 106.º, n.º 2, RJUE), e que seja ponderada a suspensão da instrução do processo de contraordenação. O embargo caduca com a decisão que defina a situação jurídica da obra com caráter definitivo ou no termo do prazo fixado (art. 104.º RJUE).",
+        "motivo": "O art. 107.º trata da posse administrativa e execução coerciva; o embargo caduca nos termos do art. 104.º e não é levantado pelo pedido.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=625A0104&nid=625&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "a) Aprecie o presente pedido de legalização ao abrigo do art. 106.º RJUE;",
+        "para": "a) Aprecie o presente pedido de legalização ao abrigo do art. 102.º-A RJUE;",
+        "motivo": "A legalização está no art. 102.º-A; o art. 106.º regula a demolição.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=625A0102A&nid=625&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "c) Em caso de deferimento, emita o respetivo alvará de utilização após vistoria;\nd) Suspenda o processo de contraordenação / levante o embargo durante a apreciação [se aplicável].",
+        "para": "c) Em caso de deferimento, informe os termos da subsequente comunicação prévia de utilização, que titula a utilização do edifício sem alvará (arts. 62.º-A e 4.º-A, n.º 4, RJUE) [■ VERIFICAR: se o regulamento municipal de legalização integra a utilização no mesmo procedimento];\nd) Não ordene a demolição enquanto o pedido estiver pendente e pondere a suspensão do processo de contraordenação [se aplicável].",
+        "motivo": "Desde o DL n.º 10/2024 a utilização após obra titula-se por comunicação prévia, sem alvará nem vistoria; o embargo não se levanta a pedido durante a apreciação.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=625A0062A&nid=625&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- [ ] Pedido de suspensão do processo de contraordenação/embargo incluído (se aplicável)",
+        "para": "- [ ] Pedido de não demolição durante a apreciação (art. 106.º, n.º 2, RJUE) e, se aplicável, de suspensão do processo de contraordenação incluído",
+        "motivo": "Coerência com o regime do embargo (art. 104.º) e da demolição (art. 106.º, n.º 2).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=625A0106&nid=625&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- [ ] Pedido claro: legalização + alvará de utilização",
+        "para": "- [ ] Pedido claro: legalização (art. 102.º-A RJUE) e, depois, comunicação prévia de utilização (art. 62.º-A RJUE)",
+        "motivo": "O alvará de utilização foi eliminado; a utilização titula-se por comunicação prévia.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=625A0062A&nid=625&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "O DL n.º 108/2026 alterou o art. 102.º-A RJUE (em vigor desde 1/10/2026, segundo outros revisores): confirmar o regime transitório se o procedimento de legalização ou o embargo forem anteriores a essa data.",
+      "Confirmar se o município tem regulamento de legalização (art. 102.º-A, n.º 7, RJUE) e que elementos exige, em especial quanto à utilização.",
+      "A legalização não extingue a contraordenação já praticada; avaliar a defesa no processo de contraordenação separadamente (arts. 98.º e 99.º-A RJUE).",
+      "Se a obra for anterior à exigência de licenciamento no local, ponderar se há sequer lugar a legalização."
+    ],
+    "fontes": [
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=625A0102&nid=625&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=625A0102A&nid=625&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=625A0104&nid=625&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=625A0106&nid=625&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=625A0107&nid=625&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=625A0062A&nid=625&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=625A0004A&nid=625&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=625A0098&nid=625&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1217&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+    ]
+  },
+  {
+    "codigo": "URB-015",
+    "veredicto": "corrigida",
+    "resumo": "A ficha classificava o solo como «urbano / rústico / urbanizável», quando o RJIGT só conhece duas classes, solo urbano e solo rústico (art. 71.º), e remetia a classificação para os «arts. 10.º a 25.º» do RJIGT, quando está nos arts. 70.º a 74.º. Acrescentou-se o efeito do art. 199.º do RJIGT: nos planos não adaptados até 31/12/2024, as normas das áreas urbanizáveis ou de urbanização programada podem ser suspensas pela CCDR, o que impede a edificação. Corrigiu-se ainda a «certidão de informação prévia» para pedido de informação prévia (art. 14.º RJUE). O cálculo COS × área está certo na terminologia antiga (o DR n.º 5/2019 indica que o COS corresponde ao atual índice de utilização do solo).",
+    "substituicoes": [
+      {
+        "de": "- Classificação do solo: urbano / rústico / urbanizável?",
+        "para": "- Classificação do solo: urbano ou rústico (art. 71.º do RJIGT); se o PDM ainda não estiver adaptado e qualificar a área como urbanizável ou de urbanização programada, verificar se essas normas foram suspensas (art. 199.º do RJIGT)",
+        "motivo": "Só existem as classes de solo urbano e rústico; o solo urbanizável dos planos não adaptados está sujeito ao regime de suspensão do art. 199.º do RJIGT.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2333A0071&nid=2333&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- RJIGT — classificação e qualificação do solo (arts. 10.º a 25.º)",
+        "para": "- RJIGT (DL n.º 80/2015) — classificação e qualificação do solo (arts. 70.º a 74.º) e regime dos planos que não incluíram as novas regras até 31/12/2024 (art. 199.º)",
+        "motivo": "A classificação e a qualificação do solo estão nos arts. 70.º a 74.º do RJIGT, não nos arts. 10.º a 25.º.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2333A0199&nid=2333&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Classe de solo: [urbano / rústico / urbanizável] [■ VERIFICAR no PDM]",
+        "para": "- Classe de solo: [urbano / rústico] (art. 71.º do RJIGT) [■ VERIFICAR no PDM; se o PDM não estiver adaptado e a área for urbanizável ou de urbanização programada, confirmar junto da CCDR se as respetivas normas estão suspensas, o que impede atos de ocupação, uso e transformação do solo, salvo as exceções do art. 199.º, n.ºs 4 e 6, do RJIGT]",
+        "motivo": "A classe «urbanizável» deixou de existir; nos planos não adaptados, as normas das áreas urbanizáveis podem estar suspensas, sob pena de nulidade dos atos (art. 199.º, n.º 3).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2333A0199&nid=2333&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "1. Solicitar certidão de informação prévia à câmara municipal (Skill 05)",
+        "para": "1. Apresentar pedido de informação prévia à câmara municipal sobre a viabilidade da operação (art. 14.º RJUE)",
+        "motivo": "O instrumento é o pedido de informação prévia do art. 14.º RJUE, não uma certidão; retirou-se a remissão interna sem correspondência.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=625&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Confirmar na CCDR se foi decretada a suspensão do art. 199.º, n.ºs 3 e 7, do RJIGT para o PDM em causa e se a operação cabe numa das exceções (n.ºs 4 e 6, incluindo a reclassificação dos arts. 72.º-A e 72.º-B).",
+      "Confirmar a redação atual dos regimes da REN (DL n.º 166/2008) e da RAN (DL n.º 73/2009) antes de os citar.",
+      "Nos PDM posteriores ao DR n.º 5/2019 usa-se o índice de utilização do solo (área de construção) e o índice de ocupação do solo (área de implantação); confirmar que parâmetro o regulamento do plano fixa antes de calcular o potencial construtivo."
+    ],
+    "fontes": [
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2333A0071&nid=2333&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2333A0074&nid=2333&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2333A0199&nid=2333&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2333&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=625&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://www.madeira.gov.pt//Portals/51/OrdenamentoUrbanismo/Documentos/Legislacao/DR%20n%c2%ba5_2019%20de%2027%20de%20setembro.pdf"
+    ]
+  },
+  {
+    "codigo": "URB-019",
+    "veredicto": "corrigida",
+    "resumo": "A ficha atribuía ao art. 49.º RJRU um «procedimento simplificado de licenciamento» (o artigo isenta de controlo prévio só as operações da entidade gestora; o procedimento simplificado está nos arts. 53.º-A a 53.º-G e exige plano de pormenor de reabilitação urbana) e ao art. 51.º «derrogações ao RGEU», quando consagra a proteção do existente face a normas supervenientes, com requisitos e declaração dos autores dos projetos. Os benefícios fiscais estavam nos diplomas errados (CIMI art. 45.º, CIMT art. 71.º): estão no art. 45.º do EBF, com os requisitos de conservação e o reconhecimento pedido com a licença ou a comunicação prévia, e o IVA a 6% assenta na verba 2.23 da Lista I do CIVA, na redação da Lei n.º 56/2023. Corrigiram-se ainda a inexistente «licença de reabilitação urbana» e a «Certidão de Reabilitação Urbana».",
+    "substituicoes": [
+      {
+        "de": "— Identifica os benefícios do regime especial (simplificação procedimental, derrogações do RGEU).",
+        "para": "— Identifica os benefícios do regime especial (procedimento simplificado, quando aplicável, e proteção do existente — art. 51.º RJRU).",
+        "motivo": "O RJRU não prevê derrogações ao RGEU, mas a proteção do existente face a normas supervenientes à construção originária.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1197&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- Art. 14.º RJRU (delimitação de ARU)\n- Arts. 49.º e ss. RJRU (regime simplificado de licenciamento em ARU)\n- Art. 51.º RJRU (derrogações ao RGEU em ARU)\n- Benefícios fiscais: CIMI art. 45.º (isenção IMI), CIMT art. 71.º (isenção IMT), CIVA art. 18.º n.º 1 al. a) (IVA 6%) [■ VERIFICAR: normas fiscais vigentes]",
+        "para": "- Arts. 13.º e 14.º RJRU (delimitação de ARU pela assembleia municipal e efeitos, incluindo o acesso aos benefícios fiscais)\n- Art. 45.º RJRU (o controlo prévio das obras em ARU segue o RJUE em tudo o que o RJRU não preveja especialmente) e arts. 53.º-A a 53.º-G RJRU (procedimento simplificado de comunicação prévia, só para obras conformes com plano de pormenor de reabilitação urbana); o art. 49.º RJRU só isenta de controlo prévio as operações promovidas pela entidade gestora\n- Art. 51.º RJRU (proteção do existente: a licença ou a comunicação prévia não pode ser recusada com fundamento em normas supervenientes à construção originária, verificados os requisitos)\n- Benefícios fiscais: art. 45.º do Estatuto dos Benefícios Fiscais (EBF) (isenções de IMI e de IMT); art. 18.º, n.º 1, al. a), do CIVA e verba 2.23 da Lista I anexa (IVA a 6%, na redação da Lei n.º 56/2023); o art. 71.º EBF, quase todo revogado pela Lei n.º 56/2023, mantém a dedução em IRS do n.º 4 [■ VERIFICAR: redação em vigor]",
+        "motivo": "A delimitação está no art. 13.º e os efeitos no art. 14.º; o art. 49.º é isenção de controlo prévio da entidade gestora; o art. 51.º é proteção do existente; as isenções de IMI e IMT estão no art. 45.º EBF e o IVA a 6% na verba 2.23.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1197&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- Invocação das derrogações ao RGEU justificadas pelas características do edifício histórico",
+        "para": "- Invocação da proteção do existente (art. 51.º RJRU), com a declaração dos autores dos projetos sobre as normas não aplicadas",
+        "motivo": "O art. 51.º RJRU não consagra derrogações ao RGEU e exige a declaração do n.º 4.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1197&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "a concessão de LICENÇA DE REABILITAÇÃO URBANA / ACEITAR A COMUNICAÇÃO PRÉVIA para as obras a seguir descritas.",
+        "para": "a concessão de LICENÇA (ou apresentar a COMUNICAÇÃO PRÉVIA) das obras de reabilitação a seguir descritas, bem como o reconhecimento da intervenção de reabilitação para efeitos fiscais (art. 45.º, n.º 4, do EBF).",
+        "motivo": "Não existe uma «licença de reabilitação urbana» própria (o art. 45.º, n.º 1, RJRU remete para o RJUE); o reconhecimento fiscal tem de ser pedido com a licença ou a comunicação prévia.",
+        "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/bf_rep/Pages/ebf-artigo-45-ordm.aspx"
+      },
+      {
+        "de": "Ao abrigo do art. 49.º RJRU, as obras em ARU beneficiam de procedimento simplificado de licenciamento. O requerente invoca ainda as derrogações ao RGEU previstas no art. 51.º RJRU para [ex: pé-direito mínimo, iluminação natural, acesso de pessoas com mobilidade reduzida] — as características originais do edifício histórico não permitem o cumprimento integral dos requisitos gerais do RGEU.",
+        "para": "Às obras aplica-se o RJUE em tudo o que o RJRU não preveja especialmente (art. 45.º, n.º 1, RJRU) [se as obras forem conformes com plano de pormenor de reabilitação urbana e sujeitas a comunicação prévia: procedimento simplificado dos arts. 53.º-A a 53.º-G RJRU]. O requerente invoca a proteção do existente (art. 51.º, n.º 1, RJRU): a licença ou a admissão da comunicação prévia não pode ser recusada com fundamento em normas legais ou regulamentares supervenientes à construção originária [ex: pé-direito mínimo, iluminação natural], porque as obras não originam nem agravam a desconformidade com as normas em vigor ou melhoram as condições de segurança e de salubridade do edifício, e observam as opções de construção adequadas à segurança estrutural e sísmica [se houver ampliação: art. 51.º, n.º 2, RJRU]. Junta-se a declaração dos autores dos projetos que identifica as normas não aplicadas e fundamenta a sua não observância (art. 51.º, n.º 4, RJRU).",
+        "motivo": "O art. 49.º RJRU isenta de controlo prévio as operações da entidade gestora; o procedimento simplificado está nos arts. 53.º-A a 53.º-G; o art. 51.º regula a proteção do existente, com requisitos cumulativos e declaração dos projetistas.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1197&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "O requerente solicita que seja certificada a operação de reabilitação para efeitos de:\na) Aplicação da taxa reduzida de IVA (6%) ao abrigo do n.º 1 al. a) do art. 18.º do CIVA [■ VERIFICAR]\nb) Isenção de IMI pelo prazo de [3/5] anos (art. 45.º CIMI) [■ VERIFICAR]\nc) Isenção de IMT na transmissão futura do imóvel reabilitado (art. 71.º CIMT) [■ VERIFICAR]",
+        "para": "O requerente requer o reconhecimento da intervenção de reabilitação, que deve ser pedido conjuntamente com a licença ou a comunicação prévia (art. 45.º, n.º 4, do EBF), e a certificação da localização do edifício em ARU, para efeitos de:\na) Aplicação da taxa reduzida de IVA (6%) às empreitadas de reabilitação de edifícios localizados em ARU (art. 18.º, n.º 1, al. a), do CIVA e verba 2.23 da Lista I anexa, na redação da Lei n.º 56/2023; a redação anterior só se aplica aos pedidos submetidos antes de 7/10/2023 ou ao abrigo de informação prévia favorável — art. 50.º, n.º 9, da Lei n.º 56/2023);\nb) Isenção de IMI por três anos a contar do ano, inclusive, da conclusão das obras, renovável a requerimento por mais cinco anos se o imóvel for afeto a arrendamento para habitação permanente ou a habitação própria e permanente (art. 45.º, n.º 2, al. a), do EBF);\nc) Isenção de IMT na primeira transmissão subsequente à reabilitação, se o imóvel for afeto a arrendamento para habitação permanente ou, por estar em ARU, também a habitação própria e permanente (art. 45.º, n.º 2, al. c), do EBF), que fica sem efeito nos casos do n.º 8 do mesmo artigo.\nEstes benefícios exigem que o prédio esteja concluído há mais de 30 anos ou se localize em ARU e que, após a intervenção, o estado de conservação suba dois níveis, com o mínimo de «bom», e se cumpram os requisitos de eficiência energética aplicáveis (art. 45.º, n.º 1, do EBF) [■ VERIFICAR: redação em vigor do EBF].",
+        "motivo": "As isenções de IMI e IMT na reabilitação estão no art. 45.º EBF (não no CIMI nem no CIMT), com requisitos e prazos próprios; o IVA a 6% resulta da verba 2.23 da Lista I, alterada pela Lei n.º 56/2023.",
+        "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/bf_rep/Pages/ebf-artigo-45-ordm.aspx"
+      },
+      {
+        "de": "c) Emita a Certidão de Reabilitação Urbana após conclusão das obras.",
+        "para": "c) Após a conclusão das obras, determine o estado de conservação e comunique o reconhecimento da intervenção de reabilitação ao serviço de finanças (art. 45.º, n.º 4, do EBF).",
+        "motivo": "Não existe uma «Certidão de Reabilitação Urbana» legal; o EBF prevê a determinação do estado de conservação e a comunicação do reconhecimento às Finanças.",
+        "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/bf_rep/Pages/ebf-artigo-45-ordm.aspx"
+      },
+      {
+        "de": "- [ ] Procedimento simplificado do RJRU invocado\n- [ ] Derrogações ao RGEU identificadas e fundamentadas (art. 51.º RJRU)\n- [ ] Benefícios fiscais identificados e requeridos\n- [ ] Certidão de Reabilitação Urbana pedida (para efeito de IVA e outros)",
+        "para": "- [ ] Procedimento simplificado do RJRU invocado, só se aplicável (arts. 53.º-A a 53.º-G RJRU)\n- [ ] Normas supervenientes não aplicadas identificadas e fundamentadas na declaração dos autores dos projetos (art. 51.º, n.º 4, RJRU)\n- [ ] Benefícios fiscais identificados e requeridos\n- [ ] Reconhecimento da intervenção de reabilitação requerido com a licença ou a comunicação prévia (art. 45.º, n.º 4, do EBF) e certidão de localização em ARU pedida (verba 2.23 da Lista I do CIVA)",
+        "motivo": "Coerência com os arts. 51.º e 53.º-A a 53.º-G RJRU e com o art. 45.º, n.º 4, EBF.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1197&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- Derrogações ao RGEU necessárias: [quais]",
+        "para": "- Normas supervenientes à construção originária que não se cumprem: [quais]",
+        "motivo": "A proteção do existente (art. 51.º RJRU) incide sobre normas supervenientes, não sobre «derrogações ao RGEU».",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1197&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Confirmar a redação em vigor do art. 45.º EBF (o Portal das Finanças mostra a redação da Lei n.º 12/2022) e se o município fixou benefícios próprios nos termos do art. 14.º, al. a), RJRU.",
+      "A verba 2.23 exige que o empreiteiro prove que o imóvel está em ARU delimitada; verificar se há outras verbas aplicáveis (habitação) e o regime transitório do art. 50.º, n.º 9, da Lei n.º 56/2023.",
+      "O RJRU foi alterado pelo DL n.º 108/2026: confirmar o regime transitório se o procedimento for anterior a 1/10/2026.",
+      "As exceções às normas de acessibilidade têm regime próprio (DL n.º 163/2006), fora do art. 51.º RJRU [■ VERIFICAR]."
+    ],
+    "fontes": [
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1197&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/bf_rep/Pages/ebf-artigo-45-ordm.aspx",
+      "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/bf_rep/Pages/ebf-artigo-71-ordm.aspx",
+      "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/informacoes_vinculativas/despesa/civa/Documents/PIV_29812.pdf",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=625&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+    ]
+  },
+  {
+    "codigo": "URB-020",
+    "veredicto": "corrigida",
+    "resumo": "A ficha atribuía o princípio da equivalência ao art. 4.º do RFALEI, que consagra o princípio da legalidade; a regra está no art. 4.º do Regime Geral das Taxas das Autarquias Locais (Lei n.º 53-E/2006) e abrange o custo da atividade ou o benefício do particular, admitindo critérios de desincentivo. Citava o art. 49.º RJRU como fonte de isenções de taxas em ARU (é isenção de controlo prévio; o regime especial de taxas está no art. 67.º RJRU) e mencionava a autorização de utilização, que deixou de existir. Acrescentaram-se as normas das isenções (art. 8.º, n.º 2, al. d), RGTAL; art. 16.º RFALEI) e o prazo de 30 dias da reclamação da liquidação (art. 16.º RGTAL), de que depende a impugnação judicial.",
+    "descricao": "Gera o requerimento de isenção ou redução de taxas urbanísticas devidas no âmbito de procedimentos de licenciamento, comunicação prévia ou comunicação prévia com prazo (incluindo a utilização de edifícios), com fundamentação nos regulamentos municipais de taxas, no Regime Geral das Taxas das Autarquias Locais (RGTAL), no Regime Financeiro das Autarquias Locais (RFALEI) e, em área de reabilitação urbana, no regime especial de taxas do RJRU.",
+    "descricao_en": "Generates the application for exemption from or reduction of the planning fees payable in licensing, prior notification or time-limited prior notification procedures (including the use of buildings), based on municipal fee regulations, the General Regime of Local Authority Fees (RGTAL), the Local Authorities Financial Regime (RFALEI) and, in urban rehabilitation areas, the special fee regime of the RJRU.",
+    "substituicoes": [
+      {
+        "de": "- Prazo para pagamento e para contestação [■ VERIFICAR: regulamento municipal]",
+        "para": "- Prazo para pagamento [■ VERIFICAR: regulamento municipal] e prazo de reclamação da liquidação: 30 dias a contar da notificação (art. 16.º, n.º 2, do RGTAL — Lei n.º 53-E/2006); a impugnação judicial depende de reclamação prévia (art. 16.º, n.ºs 4 e 5, do RGTAL)",
+        "motivo": "O prazo de reclamação da liquidação está fixado na lei (RGTAL), não no regulamento municipal, e condiciona a impugnação judicial.",
+        "fonte": "https://files.diariodarepublica.pt/1s/2006/12/24904/03930395.pdf"
+      },
+      {
+        "de": "- RFALEI — isenções e reduções de taxas por decisão dos municípios [■ VERIFICAR: arts. aplicáveis]",
+        "para": "- RGTAL (Lei n.º 53-E/2006) — o regulamento que cria as taxas contém obrigatoriamente as isenções e a sua fundamentação (art. 8.º, n.º 2, al. d)); as taxas urbanísticas são as do art. 6.º, n.º 1, als. a) e b), para que remete o art. 116.º, n.ºs 3 e 4, RJUE\n- RFALEI (Lei n.º 73/2013) — a assembleia municipal aprova o regulamento com os critérios e condições das isenções totais ou parciais dos tributos próprios e o reconhecimento cabe à câmara municipal (art. 16.º, n.ºs 2 e 9); as taxas criam-se nos termos do RGTAL (art. 20.º)",
+        "motivo": "Identificam-se as normas que fundam as isenções de taxas municipais (RGTAL e RFALEI), em vez da remissão genérica.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1989A0016&nid=1989&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- RJRU art. 49.º (redução ou isenção em ARU) [■ VERIFICAR]",
+        "para": "- Art. 67.º RJRU (DL n.º 307/2009) — regime especial de taxas municipais para incentivo às operações de reabilitação urbana, a fixar em regulamento municipal [■ VERIFICAR: regulamento do município]",
+        "motivo": "O art. 49.º RJRU trata da isenção de controlo prévio; o regime especial de taxas em reabilitação urbana está no art. 67.º.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1197&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- Princípio da proporcionalidade — taxa excessiva em relação ao custo do serviço prestado (art. 4.º RFALEI)",
+        "para": "- Princípio da equivalência jurídica — o valor da taxa é fixado de acordo com o princípio da proporcionalidade e não deve ultrapassar o custo da atividade pública local ou o benefício auferido pelo particular, podendo atender a critérios de desincentivo (art. 4.º do RGTAL; art. 20.º, n.º 2, RFALEI)",
+        "motivo": "O art. 4.º RFALEI consagra o princípio da legalidade; a equivalência jurídica está no art. 4.º RGTAL e no art. 20.º, n.º 2, RFALEI.",
+        "fonte": "https://files.diariodarepublica.pt/1s/2006/12/24904/03930395.pdf"
+      },
+      {
+        "de": "violando o princípio estabelecido no art. 4.º do RFALEI, que exige equivalência entre taxa e serviço [fundamenta].",
+        "para": "violando o princípio da equivalência jurídica do art. 4.º, n.º 1, do Regime Geral das Taxas das Autarquias Locais (Lei n.º 53-E/2006, de 29 de dezembro), segundo o qual o valor das taxas não deve ultrapassar o custo da atividade pública local ou o benefício auferido pelo particular [fundamenta].",
+        "motivo": "Norma no diploma errado; o critério legal é o custo da atividade ou o benefício do particular, não só o custo do serviço.",
+        "fonte": "https://files.diariodarepublica.pt/1s/2006/12/24904/03930395.pdf"
+      },
+      {
+        "de": "- [ ] Prazo de contestação verificado [■ VERIFICAR regulamento]",
+        "para": "- [ ] Prazo de reclamação da liquidação verificado (30 dias a contar da notificação — art. 16.º, n.º 2, do RGTAL); se houver erro de cálculo, apresentar o pedido também como reclamação da liquidação dentro desse prazo",
+        "motivo": "Sem reclamação no prazo legal perde-se a impugnação judicial (art. 16.º, n.º 5, RGTAL).",
+        "fonte": "https://files.diariodarepublica.pt/1s/2006/12/24904/03930395.pdf"
+      },
+      {
+        "de": "- Tipo: [licença de construção / comunicação prévia / autorização de utilização]",
+        "para": "- Tipo: [licença / comunicação prévia / comunicação prévia com prazo / comunicação prévia de utilização]",
+        "motivo": "A autorização de utilização deixou de existir; a utilização titula-se por comunicação prévia ou comunicação prévia com prazo (arts. 62.º-A e 62.º-B RJUE).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=625A0062A&nid=625&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Confirmar na versão consolidada do Diário da República a redação atual dos arts. 4.º, 8.º e 16.º do RGTAL (consultou-se o texto publicado em 2006).",
+      "A decisão sobre a reclamação pode ser impugnada no tribunal administrativo e fiscal (art. 16.º, n.º 4, RGTAL); confirmar o meio e o prazo no caso concreto.",
+      "Confirmar no regulamento municipal se a isenção tem de ser requerida antes da liquidação ou com o pedido de licença ou a comunicação prévia."
+    ],
+    "fontes": [
+      "https://files.diariodarepublica.pt/1s/2006/12/24904/03930395.pdf",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1989&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1989A0016&nid=1989&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1989A0020&nid=1989&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=625A0116&nid=625&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=625A0062A&nid=625&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1197&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+    ]
+  }
+]

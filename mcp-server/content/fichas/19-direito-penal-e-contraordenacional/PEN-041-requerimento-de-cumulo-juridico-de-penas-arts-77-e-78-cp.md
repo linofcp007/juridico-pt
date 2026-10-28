@@ -6,7 +6,8 @@ titulo_en: "Application for Aggregation of Sentences (Arts. 77 and 78 CP)"
 descricao: "Redige o requerimento de realização do cúmulo jurídico de penas (superveniente ou no mesmo processo) ao abrigo dos arts. 77.º e 78.º do Código Penal português, incluindo a memória de cálculo da pena única, a arguição de trânsito em julgado das sentenças anteriores e os critérios de determinação da pena única pelo tribunal."
 descricao_en: "Drafts the application for the legal aggregation of sentences (cúmulo jurídico — supervening or in the same proceedings) under Articles 77 and 78 of the Portuguese Criminal Code, including the calculation statement for the single sentence, the assertion that the previous judgments are final (res judicata) and the criteria for the court's determination of the single sentence."
 ambito: nacional
-estado_citacoes: "conferidas 4 · corrigidas 2 · por conferir 0"
+estado_citacoes: "conferidas 10 · corrigidas 2 · por conferir 0"
+revisao_tecnica: "2026-10-28 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
@@ -14,7 +15,8 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 
 > **Âmbito:** nacional · **Área:** Direito Penal e Contraordenacional · **Código:** PEN-041
 > **EN:** Application for Aggregation of Sentences (Arts. 77 and 78 CP). Drafts the application for the legal aggregation of sentences (cúmulo jurídico — supervening or in the same proceedings) under Articles 77 and 78 of the Portuguese Criminal Code, including the calculation statement for the single sentence, the assertion that the previous judgments are final (res judicata) and the criteria for the court's determination of the single sentence.
-> **Citações:** conferidas 4 · corrigidas 2 · por conferir 0. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 10 · corrigidas 2 · por conferir 0. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-28 — corrigida (3 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
 Redige o requerimento de realização do cúmulo jurídico de penas (superveniente ou no mesmo processo) ao abrigo dos arts. 77.º e 78.º do Código Penal português, incluindo a memória de cálculo da pena única, a arguição de trânsito em julgado das sentenças anteriores e os critérios de determinação da pena única pelo tribunal.
 
@@ -39,7 +41,7 @@ Apresenta em <identificacao_penas>:
 ### ETAPA 2 — CÁLCULO DA PENA ÚNICA
 Apresenta em <calculo_pena_unica>:
 - Soma material das penas parcelares: [total]
-- Pena máxima do crime mais grave: [valor]
+- Pena parcelar concreta mais elevada: [valor]
 - Limites legais da pena única (art. 77.º, n.º 2, CP):
   — Limite mínimo: pena parcelar mais grave
   — Limite máximo: menor valor entre (soma das parcelares) e (25 anos de prisão / 900 dias de multa)
@@ -52,8 +54,8 @@ Redige o requerimento completo:
 
 **REQUERIMENTO DE REALIZAÇÃO DE CÚMULO JURÍDICO**
 
-**Ao Meritíssimo Juiz do [tribunal de execução de penas / tribunal da condenação mais grave]**
-**Processo n.º:** [número — pode ser o do processo onde foi decretada a pena mais grave]
+**Ao Meritíssimo Juiz do [tribunal da última condenação — art. 471.º, n.º 2, CPP; tribunal coletivo ou singular, conforme os casos — art. 471.º, n.º 1, CPP]**
+**Processo n.º:** [número — o do processo da última condenação]
 **Requerente:** [nome do condenado, NIF, estabelecimento prisional ou morada]
 **Mandatário:** Dr./Dra. [NOME], n.º [NÚMERO] O.A.
 
@@ -75,7 +77,7 @@ Termos em que se requer que seja realizado o cúmulo jurídico e fixada a pena �
 ### ETAPA 4 — IMPACTO NA EXECUÇÃO
 Apresenta em <impacto_execucao>:
 - Pena a cumprir após cúmulo (menos penas já cumpridas — art. 78.º CP)
-- Data prevista de liberdade condicional com pena única (metade, dois terços — CEPMPL)
+- Data prevista de liberdade condicional com pena única: metade da pena e no mínimo seis meses (art. 61.º, n.º 2, CP), dois terços e no mínimo seis meses (art. 61.º, n.º 3, CP) e, na pena superior a seis anos, cinco sextos (art. 61.º, n.º 4, CP); depende do consentimento do condenado (art. 61.º, n.º 1, CP) e é decidida pelo tribunal de execução das penas, nos termos do CEPMPL
 - Eventual viabilidade de liberdade condicional imediata
 
 ### ETAPA 5 — CHECKLIST
@@ -115,6 +117,12 @@ Apresenta em <checklist>:
 | art. 77.º, n.º 1, CP | conferida (epígrafe) — Regras da punição do concurso |  |
 | art. 77.º, n.º 1, CP | conferida (epígrafe) — Regras da punição do concurso |  |
 | art. 77.º, n.º 2, CP | conferida (epígrafe) — Regras da punição do concurso |  |
+| art. 471.º, n.º 2, CPP | conferida (epígrafe) — Conhecimento superveniente do concurso |  |
+| art. 471.º, n.º 1, CPP | conferida (epígrafe) — Conhecimento superveniente do concurso |  |
 | art. 78.º CP | corrigida — Conhecimento superveniente do concurso | o número citado no catálogo não correspondia à epígrafe |
 | art. 78.º CP | corrigida — Conhecimento superveniente do concurso | o número citado no catálogo não correspondia à epígrafe |
+| art. 61.º, n.º 2, CP | conferida (epígrafe) — Pressupostos e duração |  |
+| art. 61.º, n.º 3, CP | conferida (epígrafe) — Pressupostos e duração |  |
+| art. 61.º, n.º 4, CP | conferida (epígrafe) — Pressupostos e duração |  |
+| art. 61.º, n.º 1, CP | conferida (epígrafe) — Pressupostos e duração |  |
 | art. 471.º CPP | conferida (epígrafe) — Conhecimento superveniente do concurso |  |

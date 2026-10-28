@@ -367,7 +367,8 @@ export function importar({ origem, skill = SKILL_PADRAO }) {
     importado_em ??= campos.extraido_em || null;
     let texto = aplicarPersona(remeterGrandezas(normalizarGrafia(corpoUtil(corpo))));
     // Revisão técnica: as correções de conteúdo entram antes das citações, que as conferem como às outras.
-    if (rev) texto = aplicarCorrecoes(item.codigo, texto, rev);
+    // O texto novo da revisão passa pelas mesmas regras (AO90, valores do ano remetidos para valores-2026).
+    if (rev) texto = remeterGrandezas(normalizarGrafia(aplicarCorrecoes(item.codigo, texto, rev)));
     const conf = conferirCitacoes(item.codigo, texto, rev ? { ...ctx, introduzidas: citacoesIntroduzidas(rev, registoDaFicha(ctx.reg, texto)) } : ctx);
     texto = conf.texto;
     const estado = contar(conf.citacoes);

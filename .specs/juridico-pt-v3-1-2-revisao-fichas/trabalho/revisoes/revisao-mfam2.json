@@ -1,0 +1,458 @@
+[
+ {
+  "codigo": "FAM-015",
+  "veredicto": "corrigida",
+  "resumo": "A ficha fundava a atribuição no art. 1793.º-A CC, que trata dos animais de companhia, e pedia um «direito de uso e habitação» que a lei não prevê: o art. 1793.º CC permite ao tribunal dar a casa de arrendamento ao cônjuge, comum ou própria do outro, com renda e condições fixadas pelo tribunal; sendo a casa arrendada, aplica-se o art. 1105.º CC (os arts. 57.º e ss. do NRAU são a transmissão por morte). Substituiu-se a «indemnização pelo uso exclusivo» pela renda do art. 1793.º, n.º 2, CC, corrigiu-se a hierarquia de critérios que a lei não estabelece e acrescentaram-se o processo do art. 990.º CPC, a via da conservatória (DL n.º 272/2001) e o regime provisório do art. 931.º, n.º 9, CPC.",
+  "descricao": "Gera a petição de atribuição da casa de morada de família ao cônjuge ou membro de união de facto que pretende permanecer no imóvel após o divórcio, a separação ou a rutura da união de facto — por arrendamento constituído a seu favor, sendo a casa comum ou própria do outro, ou por transmissão ou concentração do arrendamento, sendo a casa arrendada —, considerando as necessidades de cada um e o interesse dos filhos, nos termos dos artigos 1.793.º e 1.105.º do Código Civil e do artigo 990.º do Código de Processo Civil.",
+  "descricao_en": "Generates the application for the allocation of the family home to the spouse or de facto partner who wishes to remain in the property after divorce, separation or the breakdown of the de facto union — by means of a lease granted in that person's favour where the home is common property or belongs to the other spouse, or by transfer or concentration of the lease where the home is rented —, taking into account each party's needs and the children's interests, under Articles 1793 and 1105 of the Civil Code and Article 990 of the Code of Civil Procedure.",
+  "substituicoes": [
+   {
+    "de": "Redigir petição de atribuição da casa de morada de família, nos termos dos arts. 1.793.º e 1.793.º-A do Código Civil português, com os pedidos acessórios necessários (prazo de desocupação pelo outro cônjuge; indemnização pelo uso exclusivo).",
+    "para": "Redigir petição de atribuição da casa de morada de família, nos termos do art. 1.793.º do Código Civil português (casa comum ou própria do outro cônjuge, dada de arrendamento ao requerente) ou, sendo a casa arrendada, do art. 1.105.º do mesmo Código (transmissão ou concentração do arrendamento), com os pedidos acessórios necessários (prazo de desocupação pelo outro cônjuge; fixação da renda e das condições do arrendamento pelo tribunal).",
+    "motivo": "O art. 1793.º-A CC trata dos animais de companhia; a atribuição da casa faz-se por arrendamento (art. 1793.º CC) ou, sendo arrendada, pelo art. 1105.º CC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1793&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "— O critério de atribuição é o superior interesse dos filhos menores (primário) ou as necessidades habitacionais do cônjuge mais carenciado (subsidiário).",
+    "para": "— Critérios de atribuição: as necessidades de cada um dos cônjuges e o interesse dos filhos do casal, entre outros fatores relevantes (art. 1.793.º, n.º 1, CC; art. 1.105.º, n.º 2, CC); a lei não estabelece hierarquia entre eles.",
+    "motivo": "Os arts. 1793.º, n.º 1, e 1105.º, n.º 2, CC enumeram os critérios sem os hierarquizar.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1793&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Art. 1.793.º CC (atribuição do arrendamento — cônjuge ou pessoa com quem cônjuge viveu)\n- Art. 1.793.º-A CC (atribuição do direito de habitação da casa própria — critérios)",
+    "para": "- Art. 1.793.º CC (o tribunal pode dar de arrendamento a qualquer dos cônjuges, a seu pedido, a casa de morada da família, quer seja comum quer própria do outro, considerando as necessidades de cada um e o interesse dos filhos; o arrendamento segue as regras do arrendamento para habitação, mas o tribunal define as condições do contrato, incluindo a renda)\n- Art. 990.º CPC (processo de atribuição da casa de morada de família: tentativa de conciliação, decisão com apelação de efeito suspensivo; por apenso, se estiver pendente ou tiver corrido ação de divórcio ou separação)",
+    "motivo": "O art. 1793.º CC dá a casa de arrendamento (não constitui direito de habitação) e o art. 1793.º-A CC é sobre animais de companhia; o processo é o do art. 990.º CPC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1793&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=& | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0990&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "(providências cautelares — se urgência)",
+    "para": "(procedimento cautelar comum — se urgência; pendente ação de divórcio ou de separação sem consentimento, o regime provisório de utilização da casa pode ser fixado no próprio processo, art. 931.º, n.º 9, CPC)",
+    "motivo": "O art. 931.º, n.º 9, CPC permite fixar regime provisório quanto à utilização da casa de morada da família na ação de divórcio.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0931&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Lei n.º 6/2006 (NRAU) — arts. 57.º ss. (transmissão do arrendamento por divórcio ou dissolução de UF)",
+    "para": "- Casa arrendada: art. 1.105.º CC (em caso de divórcio ou separação, transmissão ou concentração do arrendamento a favor de um dos cônjuges, por acordo ou, na falta dele, por decisão do tribunal, notificada oficiosamente ao senhorio; aplicável à rutura da união de facto por força do art. 4.º da Lei n.º 7/2001). A transmissão por morte do NRAU não se aplica aqui.",
+    "motivo": "Os arts. 57.º e ss. do NRAU regulam a transmissão por morte; a transmissão por divórcio ou rutura da união de facto é a do art. 1105.º CC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1105&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=& | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=691A0057&nid=691&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=& | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=901&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Compensação justa: indemnização pelo uso exclusivo ao cônjuge que sai",
+    "para": "- Contrapartida: renda a fixar pelo tribunal no arrendamento constituído a favor do requerente (art. 1.793.º, n.º 2, CC); uma compensação autónoma pelo uso exclusivo da casa não tem base no art. 1.793.º CC [■ VERIFICAR: jurisprudência sobre compensação pelo uso exclusivo de bem comum antes da partilha]",
+    "motivo": "No art. 1793.º CC a contrapartida do uso é a renda fixada pelo tribunal; não prevê indemnização pelo uso exclusivo.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1793&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "1. Endereçamento — Tribunal competente (Família e Menores / Juízo de Família)",
+    "para": "1. Endereçamento — pendente ou finda ação de divórcio ou de separação em tribunal: juízo de família e menores, por apenso (art. 990.º, n.º 4, CPC); pedido autónomo, sem ação pendente: procedimento na conservatória do registo civil (art. 5.º, n.º 1, al. b), e arts. 6.º a 8.º do DL n.º 272/2001), remetido ao tribunal se houver oposição e não for possível o acordo [■ VERIFICAR: articulação com o art. 990.º, n.º 4, CPC quando a ação de divórcio já correu termos]",
+    "motivo": "O pedido segue por apenso à ação de divórcio ou separação (art. 990.º, n.º 4, CPC); o pedido autónomo de atribuição da casa corre na conservatória (DL n.º 272/2001).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0990&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=& | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=581&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "4. II — DO DIREITO — Arts. 1.793.º-A CC; critérios de atribuição; superior interesse dos filhos; necessidade habitacional comparativa",
+    "para": "4. II — DO DIREITO — Art. 1.793.º CC (ou art. 1.105.º CC, se a casa for arrendada; art. 4.º da Lei n.º 7/2001, na união de facto); art. 990.º CPC; critérios de atribuição: necessidades de cada um e interesse dos filhos; necessidade habitacional comparativa",
+    "motivo": "O art. 1793.º-A CC trata dos animais de companhia.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1793&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=& | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=901&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "   a) Atribuição do direito de uso e habitação da casa ao requerente\n   b) Prazo para o réu desocupar o imóvel\n   c) Indemnização pelo uso exclusivo da casa de morada de família (a partir de determinada data)",
+    "para": "   a) Atribuição da casa de morada de família ao requerente, mediante arrendamento a seu favor (art. 1.793.º CC) — ou, sendo a casa arrendada, transmissão ou concentração do arrendamento a seu favor (art. 1.105.º CC)\n   b) Prazo para o réu desocupar o imóvel\n   c) Fixação da renda e das demais condições do arrendamento pelo tribunal (art. 1.793.º, n.º 2, CC), com proposta do requerente",
+    "motivo": "A lei prevê a atribuição por arrendamento, com renda e condições fixadas pelo tribunal, e não um direito de uso e habitação nem uma indemnização pelo uso exclusivo.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1793&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=& | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1105&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Indemnização pelo uso exclusivo: pedida com fundamento?",
+    "para": "- [ ] Renda e condições do arrendamento propostas (art. 1.793.º, n.º 2, CC)?",
+    "motivo": "Alinhado com o pedido corrigido.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1793&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Atribuição do direito de uso: [pretendida pelo requerente]\n- Prazo para o réu desocupar: [meses pretendidos]\n- Indemnização: [sim/não — desde quando; valor/mês pretendido]",
+    "para": "- Atribuição da casa (arrendamento a favor do requerente ou transmissão/concentração do arrendamento): [pretendida pelo requerente]\n- Prazo para o réu desocupar: [meses pretendidos]\n- Renda proposta e condições do arrendamento: [€/mês; condições]",
+    "motivo": "Alinhado com o regime do art. 1793.º CC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1793&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar o meio e o local: apenso à ação de divórcio ou separação (art. 990.º, n.º 4, CPC) ou procedimento na conservatória (DL n.º 272/2001), sobretudo quando o divórcio já transitou.",
+   "Pedidos de compensação pelo uso exclusivo da casa comum antes da partilha: confirmar a jurisprudência antes de os formular fora do quadro do art. 1793.º CC.",
+   "Sendo a casa bem próprio do requerente, ponderar se o meio adequado é antes a restituição com base na propriedade, e não o art. 1793.º CC."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1793&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1105&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0990&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0931&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=691A0057&nid=691&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=901&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=581&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+  ]
+ },
+ {
+  "codigo": "FAM-020",
+  "veredicto": "corrigida",
+  "resumo": "A ficha atribuía ao art. 1684.º CC números que não tem (o n.º 1 exige consentimento especial e o n.º 2 a forma da procuração; o suprimento por injusta recusa ou impossibilidade está no n.º 3) e afirmava que a casa de morada exige «autorização judicial e não mero suprimento». Para os filhos usava o art. 1903.º CC, que é o impedimento de um dos pais: o desacordo em questão de particular importância resolve-se pelos arts. 1901.º, n.º 2, e 1906.º, n.º 1, CC e art. 44.º RGPTC. Acrescentou-se que o suprimento com causa de pedir na menoridade, no acompanhamento ou na ausência é da competência exclusiva do Ministério Público (art. 2.º, n.º 1, al. a), do DL n.º 272/2001) e o processo dos arts. 1000.º e 1001.º CPC.",
+  "descricao": "Gera a petição de suprimento judicial do consentimento do outro cônjuge para atos que carecem do consentimento de ambos (alienação, oneração ou arrendamento de imóveis, atos sobre a casa de morada da família, estabelecimento comercial, repúdio da herança), por injusta recusa ou impossibilidade de o prestar, nos termos do artigo 1.684.º, n.º 3, do Código Civil português, ou o requerimento de resolução do desacordo entre os progenitores em questão de particular importância para os filhos (artigo 44.º do RGPTC).",
+  "descricao_en": "Generates the application for the court to supply the consent of the other spouse to acts that require the consent of both (sale, encumbrance or lease of immovable property, acts concerning the family home, a commercial establishment, renunciation of an inheritance), on grounds of unjustified refusal or inability to give it, under Article 1684(3) of the Portuguese Civil Code, or the application for the court to resolve a disagreement between the parents on a matter of particular importance for the children (Article 44 of the RGPTC).",
+  "substituicoes": [
+   {
+    "de": "Redigir petição de suprimento judicial do consentimento, nos termos do art. 1.684.º do Código Civil (bens do casal) ou do art. 1.903.º CC (atos sobre os filhos), conforme o caso.",
+    "para": "Redigir petição de suprimento judicial do consentimento conjugal, nos termos do art. 1.684.º, n.º 3, do Código Civil, ou, quanto aos filhos, requerimento de resolução do desacordo entre os pais em questão de particular importância (arts. 1.901.º, n.º 2, e 1.906.º, n.º 1, CC e art. 44.º do RGPTC — Lei n.º 141/2015), conforme o caso.",
+    "motivo": "O art. 1903.º CC regula o impedimento de um ou de ambos os pais; o desacordo dos pais resolve-se pelo art. 44.º RGPTC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1684&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=& | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1903&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=& | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2428&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "— O tribunal só supre o consentimento se: (a) a recusa for injustificada; ou (b) houver impossibilidade de obter o consentimento por ausência ou incapacidade.",
+    "para": "— O consentimento conjugal é suprido havendo (a) injusta recusa ou (b) impossibilidade, por qualquer causa, de o prestar (art. 1.684.º, n.º 3, CC). Se a causa de pedir for a menoridade, o acompanhamento ou a ausência da pessoa, a decisão é da competência exclusiva do Ministério Público (art. 2.º, n.º 1, al. a), do DL n.º 272/2001), e não do tribunal.",
+    "motivo": "O art. 1684.º, n.º 3, CC admite a impossibilidade por qualquer causa; o DL n.º 272/2001 atribui ao MP a decisão quando a causa é a menoridade, o acompanhamento ou a ausência.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1684&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=& | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=581&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Art. 1.684.º CC (suprimento do consentimento — bens do casal)\n  - n.º 1: impossibilidade de obter consentimento\n  - n.º 2: recusa sem fundamento sério e prejuízo para o casal\n- Art. 1.903.º CC (suprimento do consentimento — atos sobre os filhos)\n- Arts. 1.906.º ss. CC (responsabilidades parentais — atos de especial importância)\n- Art. 1.684.º, n.º 3 CC (limitações — atos de disposição da casa de morada da família requerem autorização judicial, não mero suprimento)\n- Lei n.º 141/2015 RGPTC (processo tutelar cível — procedimentos urgentes)",
+    "para": "- Art. 1.684.º CC (forma do consentimento conjugal e seu suprimento)\n  - n.os 1 e 2: o consentimento é especial para cada ato e tem a forma exigida para a procuração\n  - n.º 3: suprimento judicial havendo injusta recusa ou impossibilidade, por qualquer causa, de o prestar\n- Arts. 1.682.º, 1.682.º-A, 1.682.º-B e 1.683.º, n.º 2, CC (atos que carecem do consentimento de ambos os cônjuges; quanto à casa de morada da família o consentimento é sempre exigido, mesmo na separação de bens — art. 1.682.º-A, n.º 2, CC —, e é suprível nos mesmos termos do art. 1.684.º, n.º 3, CC)\n- Arts. 1000.º e 1001.º CPC (processo de suprimento do consentimento: recusa; incapacidade, ausência ou acompanhamento; outros casos)\n- Art. 2.º, n.º 1, al. a), do DL n.º 272/2001 (suprimento com causa de pedir na menoridade, no acompanhamento ou na ausência: competência exclusiva do Ministério Público)\n- Atos sobre os filhos: na falta de acordo dos pais em questão de particular importância, qualquer deles pode pedir ao tribunal a resolução do diferendo (art. 1.901.º, n.os 2 e 3, CC; art. 1.906.º, n.º 1, CC; art. 44.º RGPTC — tentativa de conciliação, audição do filho e decisão); em caso de urgência manifesta, qualquer dos progenitores pode agir sozinho, informando o outro logo que possível (art. 1.906.º, n.º 1, CC)\n- Art. 1.903.º CC (só se um dos pais estiver impedido por ausência, incapacidade ou outro impedimento decretado pelo tribunal: o exercício cabe ao outro progenitor)\n- Lei n.º 141/2015 (RGPTC): art. 28.º (decisões provisórias e cautelares)",
+    "motivo": "Os n.os 1 e 2 do art. 1684.º CC não tratam do suprimento; o consentimento para a casa de morada também é suprível; o art. 1903.º CC não é um meio de suprimento.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1684&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=& | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1903&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=& | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A1000&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=& | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=581&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=& | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2428&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "1. Endereçamento — Tribunal de Família e Menores",
+    "para": "1. Endereçamento — Juízo de Família e Menores (art. 122.º, n.º 1, al. a), e art. 123.º, n.º 1, al. d), da Lei n.º 62/2013 — LOSJ); se a causa de pedir for a menoridade, o acompanhamento ou a ausência, requerimento ao Ministério Público (arts. 2.º e 3.º do DL n.º 272/2001)",
+    "motivo": "Nesses casos a decisão cabe ao Ministério Público, não ao tribunal.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1974A0122&nid=1974&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=& | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=581&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "4. II — DO DIREITO — Art. 1.684.º ou 1.903.º CC; fundamento do suprimento (recusa injustificada ou impossibilidade); demonstração de que o ato é benéfico",
+    "para": "4. II — DO DIREITO — Art. 1.684.º, n.º 3, CC (ou, quanto aos filhos, arts. 1.901.º, n.º 2, e 1.906.º, n.º 1, CC e art. 44.º RGPTC); fundamento do suprimento (injusta recusa ou impossibilidade); demonstração de que o ato é benéfico",
+    "motivo": "O art. 1903.º CC não é fundamento de suprimento.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1684&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=& | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2428&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Tipo de suprimento correto (art. 1.684.º ou 1.903.º CC)?",
+    "para": "- [ ] Meio correto: suprimento do consentimento conjugal (art. 1.684.º, n.º 3, CC) ou resolução do desacordo entre os pais (art. 44.º RGPTC)? Sendo a causa de pedir a menoridade, o acompanhamento ou a ausência, pedido dirigido ao Ministério Público (art. 2.º, n.º 1, al. a), do DL n.º 272/2001)?",
+    "motivo": "Alinhado com as correções anteriores.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1684&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=& | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=581&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=& | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2428&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar se o ato concreto exige mesmo o consentimento de ambos os cônjuges (arts. 1682.º a 1683.º CC; na separação de bens só a casa de morada da família).",
+   "Atos sobre os filhos (passaporte, saída do país, cirurgia, escola): confirmar se se trata de questão de particular importância e o meio adequado (art. 44.º RGPTC ou providência do art. 28.º RGPTC).",
+   "Ausência ou acompanhamento do cônjuge: confirmar a competência do Ministério Público (DL n.º 272/2001) e a possibilidade de reapreciação judicial (art. 3.º, n.º 6)."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1684&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1903&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A1000&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=581&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2428&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1974A0122&nid=1974&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+  ]
+ },
+ {
+  "codigo": "FAM-026",
+  "veredicto": "corrigida",
+  "resumo": "A ficha dava como pressupostos do art. 138.º CC os da antiga interdição e inabilitação (anomalia psíquica, surdez-mudez, cegueira), revogados pela Lei n.º 49/2018, e sugeria um «gestor de lista» como acompanhante, figura que não existe. Corrigiu-se o art. 138.º, indicou-se a escolha do acompanhante nos termos do art. 143.º CC, acrescentou-se a regra de legitimidade do art. 141.º CC (os familiares só com autorização do beneficiário, suprível pelo tribunal no mesmo processo) e substituiu-se a dúvida sobre a tramitação pelo processo especial dos arts. 891.º a 904.º CPC.",
+  "substituicoes": [
+   {
+    "de": "- Quem é o acompanhante proposto? (familiar; pessoa de confiança; gestor de lista — VERIFICAR existência em Portugal)",
+    "para": "- Quem é o acompanhante proposto? (escolhido pelo próprio beneficiário ou pelo seu representante legal; na falta de escolha, a pessoa que melhor salvaguarde o interesse imperioso do beneficiário, designadamente pela ordem do art. 143.º, n.º 2, CC: cônjuge não separado, unido de facto, pais, pessoa designada pelos pais, filhos maiores, avós, pessoa indicada pela instituição, mandatário com poderes de representação ou outra pessoa idónea)",
+    "motivo": "O «gestor de lista» não existe no direito português; o acompanhante é escolhido nos termos do art. 143.º CC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0138&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Art. 138.º CC (pressupostos: anomalia psíquica, surdez-mudez, cegueira, impossibilidade de governar bens e pessoa)",
+    "para": "- Art. 138.º CC (pressupostos: maior impossibilitado, por razões de saúde, deficiência ou pelo seu comportamento, de exercer, plena, pessoal e conscientemente, os seus direitos ou de cumprir os seus deveres)\n- Art. 141.º CC (legitimidade: o próprio; o cônjuge, o unido de facto ou qualquer parente sucessível, mediante autorização do beneficiário, que o tribunal pode suprir, podendo o pedido de suprimento ser cumulado com o de acompanhamento; o Ministério Público, independentemente de autorização)",
+    "motivo": "Os pressupostos indicados são os da interdição e inabilitação revogadas pela Lei n.º 49/2018; faltava a regra de legitimidade do art. 141.º CC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0138&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [■ VERIFICAR: regulamentação processual — onde o processo corre (CPC ou lei especial)]",
+    "para": "- Arts. 891.º a 904.º CPC (processo especial de acompanhamento de maiores: caráter urgente e medidas cautelares a todo o tempo, art. 891.º; requerimento inicial com os elementos do art. 892.º — factos da legitimidade, medidas pedidas, acompanhante, publicidade e elementos clínicos; audição pessoal e direta obrigatória, art. 897.º, n.º 2)",
+    "motivo": "A tramitação está regulada no CPC (título do acompanhamento de maiores, na redação da Lei n.º 49/2018).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0891&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "2. Identificação do requerente (beneficiário, familiar, MP)",
+    "para": "2. Identificação do requerente (o próprio beneficiário; o cônjuge, o unido de facto ou um parente sucessível, com autorização do beneficiário ou pedido de suprimento dessa autorização; ou o Ministério Público — art. 141.º CC)",
+    "motivo": "O pedido de familiares depende de autorização do beneficiário (art. 141.º CC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0138&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "   c) Medidas cautelares urgentes (se aplicável)",
+    "para": "   c) Medidas provisórias e urgentes (se aplicável — art. 139.º, n.º 2, CC e art. 891.º, n.º 2, CPC)\n   d) Suprimento da autorização do beneficiário (se o requerente for familiar e a autorização faltar — art. 141.º, n.os 2 e 3, CC)",
+    "motivo": "O suprimento da autorização pode ser cumulado com o pedido de acompanhamento (art. 141.º, n.º 3, CC; art. 892.º, n.º 2, CPC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0138&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=& | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0891&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Audição do beneficiário prevista?",
+    "para": "- [ ] Audição do beneficiário prevista?\n- [ ] Legitimidade: autorização do beneficiário junta ou suprimento pedido (art. 141.º CC)?",
+    "motivo": "Requisito de legitimidade do art. 141.º CC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0138&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Qualidade: [filho/a; cônjuge; irmão/ã; outro familiar; MP]",
+    "para": "- Qualidade: [filho/a; cônjuge; unido de facto; irmão/ã; outro parente sucessível; MP]\n- Autorização do beneficiário: [sim — junta | não — pedir suprimento cumulado (art. 141.º, n.os 2 e 3, CC)]",
+    "motivo": "Legitimidade e autorização do beneficiário (art. 141.º CC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0138&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar o tribunal competente (em regra, o da residência do beneficiário) e a publicidade a pedir (art. 153.º CC; art. 892.º, n.º 1, al. d), CPC).",
+   "Os atos de disposição de bens imóveis carecem de autorização judicial prévia e específica (art. 145.º, n.º 3, CC): ponderar pedi-la logo, se houver um negócio em vista."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0138&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0149&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0155&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0891&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0899&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+  ]
+ },
+ {
+  "codigo": "FAM-028",
+  "veredicto": "corrigida",
+  "resumo": "A ficha mandava aferir os alimentos pela Portaria n.º 278/2013, que regula o processo de inventário: não há tabela legal de alimentos e o critério é o do art. 2004.º CC. Ancorava a validade e eficácia do acordo no art. 35.º da Lei n.º 29/2013, que trata da duração do procedimento nos sistemas públicos; o regime é o do art. 9.º (força executiva sem homologação só quando a lei não a exija). Corrigiu-se também a ideia de «homologação pelo MP»: o Ministério Público emite parecer e a homologação cabe ao juiz (art. 24.º, n.º 3, RGPTC) ou ao conservador (arts. 274.º-A a 274.º-C CRCivil), e assinalou-se que a mediação não é admitida nos casos de violência doméstica do art. 24.º-A RGPTC.",
+  "descricao": "Gera o acordo resultante de mediação familiar (ou a minuta de acordo a submeter à mediação), para regularização das responsabilidades parentais, alimentos e destino da casa de morada de família de forma amigável, com vista à homologação pelo juiz ou pelo conservador do registo civil, precedida de parecer do Ministério Público quando o acordo é apresentado na conservatória, nos termos da Lei n.º 29/2013, de 19 de abril (Lei da Mediação), e do Regime Geral do Processo Tutelar Cível.",
+  "descricao_en": "Generates the agreement resulting from family mediation (or the draft agreement to be submitted to mediation) to settle parental responsibilities, maintenance and the allocation of the family home amicably, with a view to approval by the court or by the civil registrar, preceded by an opinion of the Public Prosecutor's Office where the agreement is filed with the civil registry, under Law No. 29/2013 of 19 April (Mediation Law) and the General Regime of Civil Guardianship Proceedings (RGPTC).",
+  "substituicoes": [
+   {
+    "de": "— O acordo de mediação tem de ser exequível: termos precisos, sem ambiguidades que o MP possa recusar homologar.",
+    "para": "— O acordo de mediação tem de ser exequível: termos precisos, sem ambiguidades que levem o Ministério Público a emitir parecer desfavorável ou o juiz ou o conservador a recusar a homologação.",
+    "motivo": "O Ministério Público pronuncia-se sobre o acordo; a homologação cabe ao juiz ou ao conservador.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=682A0274&nid=682&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=& | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2428&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Há menores cujos interesses o MP vai verificar?",
+    "para": "- Há menores cujos interesses o MP vai verificar?\n- Há medida de coação ou pena acessória de proibição de contacto entre os progenitores, ou risco grave para vítimas de violência doméstica? (a mediação não é admitida — art. 24.º-A RGPTC)",
+    "motivo": "O art. 24.º-A RGPTC (Lei n.º 24/2017) exclui a mediação nesses casos.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2428&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Art. 35.º Lei n.º 29/2013 (acordo de mediação — requisitos de validade e eficácia)\n- Arts. 1.906.º ss. CC (responsabilidades parentais)\n- Portaria n.º 278/2013 (alimentos a menores — referência para o MP)\n- RGPTC (Lei n.º 141/2015) — homologação de acordo pelo MP ou tribunal",
+    "para": "- Art. 9.º Lei n.º 29/2013 (força executiva do acordo de mediação sem homologação judicial só quando a lei não exija homologação, as partes sejam capazes, a mediação respeite a lei, o conteúdo não viole a ordem pública e o mediador conste da lista do Ministério da Justiça — esta última exigência não se aplica nos sistemas públicos de mediação); art. 14.º (homologação facultativa do acordo obtido em mediação pré-judicial)\n- Arts. 1.906.º ss. CC (responsabilidades parentais)\n- Arts. 2.003.º e 2.004.º CC (alimentos proporcionados aos meios de quem os presta e à necessidade do menor; não existe tabela legal de alimentos)\n- Homologação do acordo sobre responsabilidades parentais: pelo juiz, se satisfizer o interesse da criança (art. 24.º, n.º 3, RGPTC — Lei n.º 141/2015); ou na conservatória do registo civil, com parecer do Ministério Público e homologação pelo conservador (arts. 274.º-A a 274.º-C do Código do Registo Civil; no divórcio por mútuo consentimento, art. 1.776.º-A CC)",
+    "motivo": "O art. 35.º da Lei n.º 29/2013 trata da duração do procedimento nos sistemas públicos; a Portaria n.º 278/2013 regula o processo de inventário; o MP não homologa.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1907&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=& | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2003&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=& | https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2013-34581175 | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2428&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=& | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=682A0274&nid=682&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "(valor de alimentos abaixo do mínimo; convivência que prejudica o menor)",
+    "para": "(valor de alimentos desproporcionado às necessidades do menor ou aos meios do obrigado — não há mínimo legal; convivência que prejudica o menor)",
+    "motivo": "Não existe montante mínimo legal de alimentos; o critério é o do art. 2004.º CC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2003&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Alimentos: valor adequado (referência à Portaria 278/2013)?",
+    "para": "- [ ] Alimentos: valor fundamentado nos meios do obrigado e nas necessidades do menor (art. 2.004.º CC)?",
+    "motivo": "A Portaria n.º 278/2013 regula o processo de inventário e não contém critérios de alimentos.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2003&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=& | https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2013-34581175"
+   },
+   {
+    "de": "- [ ] Acordo suscetível de homologação pelo MP?",
+    "para": "- [ ] Acordo suscetível de parecer favorável do MP e de homologação (juiz ou conservador)?",
+    "motivo": "O Ministério Público emite parecer; a homologação é do juiz ou do conservador.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=682A0274&nid=682&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=& | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2428&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar se a mediação decorreu num sistema público (Sistema de Mediação Familiar) ou com mediador inscrito na lista do Ministério da Justiça (art. 9.º, n.os 1, al. e), e 2, da Lei n.º 29/2013).",
+   "Escolher a via de homologação: processo judicial pendente (art. 24.º, n.º 3, RGPTC), conservatória (arts. 274.º-A e ss. CRCivil) ou divórcio por mútuo consentimento (art. 1776.º-A CC)."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1907&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2428&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=682A0274&nid=682&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2003&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2013-34581175",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1775&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+  ]
+ },
+ {
+  "codigo": "FAM-032",
+  "veredicto": "corrigida",
+  "resumo": "A ficha qualificava as doações e heranças como bens próprios «no regime de comunhão de adquiridos — art. 1733.º CC» e, na comunhão geral, como bens próprios em geral: o art. 1733.º só exclui da comunhão geral as liberalidades com cláusula de incomunicabilidade, de reversão ou fideicomissária, e na comunhão de adquiridos a base é o art. 1722.º, n.º 1, al. b). Omitia o limite do art. 1790.º CC na partilha por divórcio, citava o art. 1690.º (legitimidade para dívidas) como liquidação, apresentava o art. 1697.º como regra geral de compensações e remetia o inventário para o art. 2101.º CC (herança) em vez do art. 1133.º CPC. A descrição do índice aplicava a meação à união de facto, que não tem regime de bens. Corrigiram-se ainda as formas «patrimônio».",
+  "descricao": "Gera o cálculo detalhado da meação do casal após o divórcio, a separação judicial de pessoas e bens ou a declaração de nulidade ou anulação do casamento, identificando os bens comuns e os bens próprios de cada cônjuge, apurando o valor ativo e passivo da comunhão, calculando as tornas devidas e estruturando a relação de bens para inventário ou escritura de partilha, nos termos do Código Civil e do Código de Processo Civil. A união de facto não tem regime de bens nem meação.",
+  "descricao_en": "Generates a detailed calculation of the spouses' half shares (meação) after divorce, judicial separation or annulment of the marriage, identifying the common property and each spouse's separate property, determining the assets and liabilities of the community, calculating the equalisation payments (tornas) due and structuring the list of assets for inventory proceedings or a deed of division, under the Civil Code and the Code of Civil Procedure. A de facto union has no matrimonial property regime and no meação.",
+  "substituicoes": [
+   {
+    "de": "- Existem bens recebidos por herança ou doação durante o casamento? (bens próprios no regime de comunhão de adquiridos — art. 1.733.º CC)",
+    "para": "- Existem bens recebidos por herança ou doação durante o casamento? (próprios na comunhão de adquiridos — art. 1.722.º, n.º 1, al. b), CC; na comunhão geral são comuns, salvo cláusula de incomunicabilidade, de reversão ou fideicomissária — art. 1.733.º, n.º 1, als. a) e b), CC)",
+    "motivo": "Na comunhão de adquiridos a base é o art. 1722.º CC; o art. 1733.º CC é da comunhão geral e só exclui as liberalidades com cláusula.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1720&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=& | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1733&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Art. 1.733.º CC (bens próprios no regime de comunhão geral: doações, heranças, etc.)",
+    "para": "- Art. 1.733.º CC (bens incomunicáveis na comunhão geral: só as doações e deixas com cláusula de incomunicabilidade, de reversão ou fideicomissária; o usufruto, uso ou habitação e direitos estritamente pessoais; certas indemnizações e seguros; os objetos de uso pessoal; as recordações de família de diminuto valor; os animais de companhia anteriores ao casamento)",
+    "motivo": "Na comunhão geral as doações e heranças sem cláusula são comuns (arts. 1732.º e 1733.º CC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1733&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Arts. 1.689.º e 1.690.º CC (liquidação da comunhão)\n- Arts. 1.691.º e 1.692.º CC (dívidas comuns e dívidas próprias)\n- Art. 1.697.º CC (direito de compensação entre o patrimônio comum e o próprio)\n- Arts. 2.101.º ss. CC e arts. 1083.º ss. CPC (inventário e partilha)",
+    "para": "- Art. 1.689.º CC (partilha do casal: cada cônjuge recebe os bens próprios e a meação no património comum, conferindo o que dever a este; pagam-se primeiro as dívidas comunicáveis)\n- Art. 1.730.º CC (participação por metade no ativo e no passivo da comunhão)\n- Art. 1.790.º CC (em caso de divórcio, nenhum cônjuge pode receber na partilha mais do que receberia se o casamento tivesse sido celebrado em comunhão de adquiridos — limita a meação na comunhão geral)\n- Arts. 1.691.º e 1.692.º CC (dívidas comuns e dívidas próprias)\n- Art. 1.697.º CC (compensações pelo pagamento de dívidas do casal) e arts. 1.722.º, n.º 2, 1.726.º, n.º 2, 1.727.º e 1.728.º, n.º 1, CC (compensações entre o património comum e os patrimónios próprios)\n- Art. 1133.º CPC (inventário para partilha dos bens comuns em consequência de separação, divórcio, declaração de nulidade ou anulação do casamento; cabeça de casal: o cônjuge mais velho) e arts. 1082.º e ss. CPC (regime geral do inventário)",
+    "motivo": "O art. 1690.º CC é a legitimidade para contrair dívidas; o art. 1697.º CC só trata das compensações por pagamento de dívidas; faltava o limite do art. 1790.º CC; o inventário do casal é o do art. 1133.º CPC, não o da herança.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1689&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=& | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1697&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=& | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1726&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=& | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1790&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=& | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A1133&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Identificação de compensações devidas entre patrimónios (art. 1.697.º CC)",
+    "para": "- Identificação de compensações devidas entre patrimónios (arts. 1.689.º, n.º 1, 1.697.º e 1.726.º, n.º 2, CC)",
+    "motivo": "O art. 1697.º CC cobre só as compensações por pagamento de dívidas.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1689&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=& | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1726&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "| **Meação de cada cônjuge (50%)** | |",
+    "para": "| **Meação de cada cônjuge (50% — art. 1.730.º CC; no divórcio em comunhão geral, com o limite do art. 1.790.º CC)** | |",
+    "motivo": "Em caso de divórcio, nenhum cônjuge recebe mais do que receberia na comunhão de adquiridos (art. 1790.º CC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1733&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=& | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1790&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Compensação devida pelo patrimônio comum ao cônjuge A / B: [valor e fundamento]",
+    "para": "- Compensação devida pelo património comum ao cônjuge A / B, ou por este àquele: [valor e fundamento]",
+    "motivo": "Forma do Brasil («patrimônio»); as compensações podem ser devidas nos dois sentidos (art. 1726.º, n.º 2, CC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1726&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Regime de bens corretamente identificado?",
+    "para": "- [ ] Regime de bens corretamente identificado?\n- [ ] Divórcio em comunhão geral: limite do art. 1.790.º CC aplicado?",
+    "motivo": "Limite legal da partilha em caso de divórcio.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1790&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Data da dissolução (divórcio / separação de facto): [dd/mm/aaaa]",
+    "para": "- Data da dissolução (divórcio / separação de facto): [dd/mm/aaaa] (os efeitos patrimoniais do divórcio retroagem à data da proposição da ação ou, a pedido, à do início da separação de facto provada no processo — art. 1.789.º, n.os 1 e 2, CC)",
+    "motivo": "A data relevante para delimitar os bens comuns resulta do art. 1789.º CC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1790&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Na comunhão geral, confirmar no título de cada doação ou herança se existe cláusula de incomunicabilidade, de reversão ou fideicomissária.",
+   "União de facto: não há meação; a divisão de bens em compropriedade segue a divisão de coisa comum e eventuais pretensões de enriquecimento sem causa — confirmar o enquadramento antes de usar esta ficha.",
+   "Confirmar a data a partir da qual retroagem os efeitos patrimoniais do divórcio (art. 1789.º CC)."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1720&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1733&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1689&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1697&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1726&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1790&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A1133&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=901&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+  ]
+ },
+ {
+  "codigo": "FAM-033",
+  "veredicto": "corrigida",
+  "resumo": "A ficha situava a passagem do regime supletivo da comunhão geral para a comunhão de adquiridos em 1/9/1977: a comunhão de adquiridos é supletiva desde o Código Civil de 1966, em vigor a 1 de junho de 1967 (art. 2.º do DL n.º 47 344; o art. 1717.º nunca foi alterado), e os casamentos até 31/5/1967 regem-se pela lei anterior (art. 15.º do mesmo DL). Indicava a Convenção da Haia de 1978 para os casamentos anteriores a 29/1/2019, mas Portugal só a assinou: aplica-se o art. 53.º CC. A recomendação admitia um «acordo de separação» de bens, contrário à imutabilidade do regime (arts. 1714.º e 1715.º CC). Acrescentaram-se o regime imperativo da separação (art. 1720.º CC) e o limite do art. 1790.º CC no divórcio.",
+  "substituicoes": [
+   {
+    "de": "— Atenção: casamentos após 1.º/9/1977 (reforma do CC) — regime supletivo mudou de comunhão geral para comunhão de adquiridos. Para casamentos anteriores, verifica qual era o regime.",
+    "para": "— Atenção: a comunhão de adquiridos é o regime supletivo desde a entrada em vigor do Código Civil de 1966, em 1 de junho de 1967 (art. 2.º do DL n.º 47 344, de 25 de novembro de 1966); aos casamentos celebrados até 31 de maio de 1967 os arts. 1.717.º a 1.752.º CC só se aplicam na medida em que sejam interpretativos do direito anterior (art. 15.º do mesmo DL). Para esses casamentos sem convenção, verifica o regime no assento de casamento e na lei então vigente (no Código Civil de 1867 o regime supletivo era a comunhão geral [■ VERIFICAR: confirmar no texto do Código de 1867]). A reforma de 1977 (DL n.º 496/77) não alterou o regime supletivo.",
+    "motivo": "O art. 1717.º CC (comunhão de adquiridos) consta da versão original do Código de 1966, em vigor desde 1/6/1967; o DL n.º 496/77 não o alterou.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=& | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1720&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "— Casamento com estrangeiro: aplica-se o Regulamento (UE) 2016/1103 (em vigor desde 29/1/2019) ou a Convenção de Haia de 1978 para casamentos anteriores.",
+    "para": "— Casamento com elemento internacional: as regras de lei aplicável do Regulamento (UE) 2016/1103 (aplicável desde 29/1/2019) só valem para os cônjuges casados, ou que tenham designado a lei aplicável, após essa data (art. 69.º, n.º 3, do Regulamento); para os casamentos anteriores aplica-se a regra de conflitos do art. 53.º CC (lei nacional comum dos nubentes ao tempo do casamento; na falta, a da residência habitual comum e, depois, a da primeira residência conjugal). Portugal assinou mas não ratificou a Convenção da Haia de 1978 sobre a lei aplicável aos regimes matrimoniais, que por isso não se aplica.",
+    "motivo": "Portugal é apenas signatário da Convenção da Haia de 1978; para casamentos anteriores a 29/1/2019 vale o art. 53.º CC.",
+    "fonte": "https://www.hcch.net/en/instruments/conventions/status-table/?cid=87 | https://publications.europa.eu/resource/celex/32016R1103 | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0053&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- O casamento foi celebrado antes ou depois de 1.º/9/1977?",
+    "para": "- O casamento foi celebrado antes ou depois de 1 de junho de 1967 (entrada em vigor do Código Civil de 1966)? Algum dos nubentes tinha 60 anos completos, ou o casamento foi celebrado sem processo preliminar (art. 1.720.º CC)?",
+    "motivo": "Data correta da mudança do regime supletivo; regime imperativo da separação.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=& | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1720&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Arts. 1.732.º a 1.734.º CC (comunhão geral — bens próprios excepcionados)\n- Arts. 1.735.º a 1.736.º CC (separação de bens)\n- Arts. 1.688.º a 1.697.º CC (liquidação do regime de bens)",
+    "para": "- Arts. 1.732.º a 1.734.º CC (comunhão geral — bens incomunicáveis)\n- Arts. 1.735.º a 1.736.º CC (separação de bens)\n- Art. 1.720.º CC (regime imperativo da separação de bens: casamento celebrado sem precedência do processo preliminar ou por quem tenha completado 60 anos)\n- Arts. 1.714.º e 1.715.º CC (imutabilidade do regime de bens depois do casamento e exceções)\n- Arts. 1.688.º e 1.689.º CC (cessação das relações patrimoniais e partilha do casal) e arts. 1.690.º a 1.697.º CC (dívidas dos cônjuges e compensações)\n- Art. 1.790.º CC (em caso de divórcio, nenhum cônjuge pode receber na partilha mais do que receberia em comunhão de adquiridos)",
+    "motivo": "Faltavam o regime imperativo da separação, a imutabilidade e o limite do art. 1790.º CC; os arts. 1690.º a 1697.º tratam das dívidas, não da liquidação.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1714&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=& | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1720&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=& | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1689&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=& | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1790&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Regulamento (UE) 2016/1103 (lei aplicável a regimes matrimoniais com elemento internacional)",
+    "para": "- Regulamento (UE) 2016/1103 (lei aplicável a regimes matrimoniais com elemento internacional, para casamentos ou designações de lei posteriores a 29/1/2019 — art. 69.º, n.º 3) e art. 53.º CC (casamentos anteriores)",
+    "motivo": "Âmbito temporal do Regulamento (art. 69.º, n.º 3).",
+    "fonte": "https://publications.europa.eu/resource/celex/32016R1103 | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0053&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Recomendação justificada (manter, alterar — mediante nova convenção antenupcial enquanto ainda não casaram, ou acordo de separação)",
+    "para": "- Recomendação justificada (antes do casamento: convenção antenupcial, revogável ou modificável até à celebração — art. 1.712.º CC; depois do casamento, o regime é imutável fora dos casos previstos na lei — art. 1.714.º CC —, só se alterando pela simples separação judicial de bens, pela separação judicial de pessoas e bens ou noutros casos legais de separação — art. 1.715.º CC; não há «acordo de separação» de bens entre cônjuges)",
+    "motivo": "Princípio da imutabilidade (arts. 1714.º e 1715.º CC): os cônjuges não podem mudar o regime por acordo.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1714&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Data do casamento verificada (antes/depois de 1977)?",
+    "para": "- [ ] Data do casamento verificada (antes/depois de 1 de junho de 1967)? Regime imperativo da separação (art. 1.720.º CC) afastado?",
+    "motivo": "Data correta da mudança do regime supletivo.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=& | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1720&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Casamentos anteriores a 1/6/1967 sem convenção: confirmar o regime no assento de casamento e no Código Civil de 1867.",
+   "Elemento internacional: confirmar a data do casamento e eventual designação de lei para escolher entre o Regulamento (UE) 2016/1103 e o art. 53.º CC.",
+   "Simples separação judicial de bens: só com fundamento em perigo de perda de bens pela má administração do outro cônjuge (art. 1767.º CC) — confirmar se se verifica."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1714&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1720&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1733&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1689&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1790&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0053&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.hcch.net/en/instruments/conventions/status-table/?cid=87",
+   "https://publications.europa.eu/resource/celex/32016R1103"
+  ]
+ },
+ {
+  "codigo": "FAM-035",
+  "veredicto": "corrigida",
+  "resumo": "A ficha fundava a ação no art. 182.º da OTM «em vigor por remissão do RGPTC», mas a OTM foi revogada pela Lei n.º 141/2015 (art. 6.º, al. a)) e a alteração do regime está no art. 42.º do RGPTC; usava o art. 1907.º CC (filho confiado a terceira pessoa) como base da alteração. Citava ainda artigos do RGPTC que não existem (arts. 78.º e 92.º; o regime tem 67 artigos) para a competência e as providências urgentes, e o art. 4.º CRP (cidadania) para o superior interesse da criança. Corrigiram-se a fundamentação, a competência (arts. 9.º e 42.º RGPTC), as decisões provisórias (art. 28.º RGPTC) e o texto-tipo da petição.",
+  "descricao": "Redige o requerimento de alteração do exercício das responsabilidades parentais ao abrigo do art. 42.º do Regime Geral do Processo Tutelar Cível (RGPTC, aprovado pela Lei n.º 141/2015, que revogou a Organização Tutelar de Menores) e do art. 1906.º do Código Civil (CC), invocando incumprimento do regime ou circunstâncias supervenientes que justifiquem a modificação do regime homologado ou fixado.",
+  "descricao_en": "Drafts the application to vary the exercise of parental responsibilities under Art. 42 of the General Regime of Civil Guardianship Proceedings (RGPTC, approved by Law No. 141/2015, which repealed the former Organização Tutelar de Menores) and Art. 1906 of the Civil Code (CC), invoking non-compliance with the arrangements or subsequent circumstances that justify modifying the approved or court-ordered arrangements.",
+  "substituicoes": [
+   {
+    "de": "- Natureza da alteração de circunstâncias invocada (art. 182.º OTM / art. 1907.º CC)",
+    "para": "- Natureza da alteração invocada: circunstâncias supervenientes que tornem necessário alterar o regime, ou incumprimento do acordo ou da decisão por ambos os pais (art. 42.º, n.º 1, RGPTC)",
+    "motivo": "A OTM foi revogada pela Lei n.º 141/2015; a alteração rege-se pelo art. 42.º RGPTC; o art. 1907.º CC trata do filho confiado a terceira pessoa.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2428&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Urgência: necessidade de providência cautelar prévia (art. 92.º RGPTC)?",
+    "para": "- Urgência: necessidade de decisão provisória ou cautelar (art. 28.º RGPTC)? Há situação de violência doméstica que imponha regulação urgente (art. 44.º-A RGPTC)?",
+    "motivo": "O RGPTC tem 67 artigos; as decisões provisórias e cautelares estão no art. 28.º.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2428&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Princípio do superior interesse da criança (art. 4.º CRP + art. 3.º CDC ONU + art. 4.º RGPTC)",
+    "para": "- Princípio do superior interesse da criança (art. 69.º CRP + art. 3.º CDC ONU + art. 4.º RGPTC, que remete para os princípios orientadores da lei de proteção de crianças e jovens em perigo)",
+    "motivo": "O art. 4.º CRP trata da cidadania portuguesa; a proteção da infância está no art. 69.º CRP.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=4A0069&nid=4&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=& | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2428&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Art. 1906.º CC: exercício conjunto vs. unilateral em caso de desacordo\n- Art. 1907.º CC: alteração por acordo ou por decisão judicial superveniente\n- Art. 182.º OTM (em vigor por remissão do RGPTC): fundamento da ação de alteração\n- Arts. 78.º e ss. RGPTC: tramitação do processo tutelar cível",
+    "para": "- Art. 1906.º CC: questões de particular importância exercidas em comum, salvo decisão fundamentada que as atribua a um só progenitor (n.º 2); residência, residência alternada e convívios fixados de acordo com o interesse do filho (n.os 5, 6 e 8)\n- Art. 42.º RGPTC (Lei n.º 141/2015): fundamento e tramitação da alteração — incumprimento do regime por ambos os pais ou circunstâncias supervenientes; requerimento por apenso ao processo em que o regime foi fixado; citação do requerido para alegar em 10 dias; arquivamento se o pedido for infundado ou a alteração desnecessária; caso contrário, termos dos arts. 35.º a 40.º RGPTC\n- A Organização Tutelar de Menores (DL n.º 314/78) foi revogada pela Lei n.º 141/2015 (art. 6.º, al. a)): não a invoques",
+    "motivo": "O art. 182.º OTM foi revogado; a alteração está no art. 42.º RGPTC; o art. 1907.º CC não regula a alteração; não existe art. 78.º RGPTC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2428&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=& | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1906&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Tribunal competente: Juízo de Família e Menores da comarca da residência habitual do menor (art. 78.º RGPTC)",
+    "para": "- Tribunal competente: o que for territorialmente competente no momento (art. 42.º, n.º 1, RGPTC), em regra o da residência da criança (art. 9.º RGPTC); se o regime foi fixado pelo tribunal, o requerimento é autuado por apenso ao processo anterior (art. 42.º, n.º 2, al. b), RGPTC); se resultou de acordo extrajudicial, juntar as certidões referidas no art. 42.º, n.º 2, al. a), RGPTC",
+    "motivo": "A competência territorial está no art. 9.º RGPTC e o apenso no art. 42.º, n.º 2, RGPTC; o art. 78.º RGPTC não existe.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2428&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "vem, ao abrigo do art. 182.º da OTM e do art. 1907.º do CC, requerer",
+    "para": "vem, ao abrigo do art. 42.º do Regime Geral do Processo Tutelar Cível (RGPTC), aprovado pela Lei n.º 141/2015, de 8 de setembro, e do art. 1906.º do Código Civil, requerer",
+    "motivo": "Base legal em vigor da alteração do regime.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2428&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=& | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1906&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar se o regime vigente resultou de acordo homologado na conservatória (art. 274.º-A CRCivil) ou de decisão judicial, para cumprir o art. 42.º, n.º 2, RGPTC.",
+   "Confirmar a audição da criança (arts. 4.º, 5.º e 35.º, n.º 3, RGPTC) e a eventual inadmissibilidade de mediação ou audição técnica em contexto de violência doméstica (art. 24.º-A RGPTC)."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2428&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1906&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=4A0069&nid=4&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=682A0274&nid=682&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+  ]
+ }
+]

@@ -1,0 +1,233 @@
+[
+  {
+    "codigo": "BAN-004",
+    "veredicto": "corrigida",
+    "resumo": "A ficha atribuía ao DL 227/2012 artigos e prazos que não correspondem ao diploma: a definição no art. 2.º (é o art. 3.º), o PARI no art. 6.º (são os arts. 9.º a 11.º-C), um prazo de 15 dias para a integração no PERSI (a integração é obrigatória entre o 31.º e o 60.º dia, ou na própria data do pedido escrito do cliente já em mora, art. 14.º), a «suspensão de execução» no art. 17.º (o art. 17.º regula a extinção; as garantias do cliente estão no art. 18.º e consistem no impedimento de resolver o contrato, intentar ações e ceder o crédito) e uma transcrição inexistente do art. 12.º, n.º 1. Corrigiram-se a análise jurídica, a fundamentação e o pedido da carta e a checklist, com transcrição literal dos arts. 14.º e 18.º; a «Portaria n.º 312-A/2012», não confirmada, foi substituída pela regulamentação do Banco de Portugal com [■ VERIFICAR].",
+    "descricao": "Redige carta de pedido de renegociação de crédito à habitação no âmbito do PARI (Plano de Ação para o Risco de Incumprimento) e do PERSI (Procedimento Extrajudicial de Regularização de Situações de Incumprimento), ao abrigo do DL n.º 227/2012, explorando as soluções previstas no diploma — carência de capital, alargamento do prazo, diferimento de capital, redução temporária da taxa de juro, refinanciamento ou consolidação de créditos.",
+    "descricao_en": "Drafts a letter requesting renegotiation of a home loan under PARI (Action Plan for Default Risk) and PERSI (out-of-court procedure for regularising defaults), pursuant to Decree-Law No. 227/2012, exploring the solutions provided for in that decree-law — capital grace period, extension of the repayment term, deferral of part of the capital, temporary reduction of the interest rate, refinancing or consolidation of loans.",
+    "substituicoes": [
+      {
+        "de": "  - Art. 2.º: definições (incumprimento, risco de incumprimento)\n  - Art. 6.º: PARI — obrigação do banco de monitorizar sinais de dificuldade\n  - Art. 12.º e ss: PERSI — ativação, prazo de resposta (15 dias), negociação\n  - Art. 17.º: suspensão de execução durante PERSI\n  - Art. 20.º e ss: medidas de reestruturação (extensão de prazo, carência de capital, redução de spread, refinanciamento)\n- Portaria n.º 312-A/2012 (PERSI — procedimento e documentação)",
+        "para": "  - Art. 2.º: âmbito — abrange os contratos de crédito relativos a imóveis do DL n.º 74-A/2017 e o crédito aos consumidores; art. 3.º: definições («cliente bancário» é o consumidor que intervém como mutuário; «suporte duradouro»)\n  - Arts. 9.º a 11.º-C: PARI — plano interno do banco: acompanhamento da execução dos contratos (art. 9.º), elaboração e aplicação do PARI (art. 11.º), avaliação do risco quando o cliente comunica dificuldades, com 10 dias para o cliente entregar os documentos (art. 11.º-A), e propostas em 15 dias (art. 11.º-B); art. 6.º: direito a informação e acompanhamento gratuitos pela rede extrajudicial de apoio a clientes bancários\n  - Arts. 12.º a 17.º: PERSI — o banco informa o cliente do atraso até 15 dias após o vencimento (art. 13.º); integração obrigatória entre o 31.º e o 60.º dia após o vencimento, ou na própria data em que o banco recebe o pedido escrito do cliente já em mora (art. 14.º, n.ºs 1 e 2); comunicação da integração em 5 dias (art. 14.º, n.º 4); avaliação e propostas em 30 dias (art. 15.º, n.º 4); resposta do cliente em 15 dias (art. 16.º, n.º 3); extinção, em regra no 91.º dia após a integração, salvo prorrogação acordada (art. 17.º)\n  - Art. 18.º: garantias do cliente — durante o PERSI o banco não pode resolver o contrato com fundamento em incumprimento, intentar ações judiciais para satisfação do crédito nem ceder o crédito (com as exceções do n.º 2)\n  - Art. 15.º, n.º 5: soluções de regularização (refinanciamento, alargamento do prazo, carência de capital, diferimento de capital, redução temporária da taxa de juro, consolidação de créditos); art. 8.º: proibição de comissões pela renegociação e de agravamento da taxa de juro\n- Regulamentação do Banco de Portugal prevista no próprio diploma (avisos referidos nos arts. 14.º, n.º 5, 15.º, n.º 2, e 17.º, n.º 5) [■ VERIFICAR o aviso em vigor; não se confirmou a existência de uma «Portaria n.º 312-A/2012» sobre o PERSI]",
+        "motivo": "Artigos e prazos do DL 227/2012 trocados (definições no art. 3.º, PARI nos arts. 9.º-11.º-C, integração no PERSI no art. 14.º, garantias no art. 18.º, soluções no art. 15.º, n.º 5); portaria não confirmada.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1821&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Lei n.º 58/2012 (regime extraordinário de proteção de devedores de crédito à habitação) [■ VERIFICAR se ainda aplicável]",
+        "para": "- Lei n.º 58/2012 (regime extraordinário de proteção de devedores de crédito à habitação) [■ VERIFICAR se ainda aplicável: na redação original vigorava até 31/12/2015 (art. 38.º, n.º 1); não se confirmou prorrogação]",
+        "motivo": "Regime temporário: a redação original fixava o termo da vigência em 31/12/2015.",
+        "fonte": "https://www.bportugal.pt/sites/default/files/anexos/legislacoes/252845652_1.doc.pdf"
+      },
+      {
+        "de": "- Alertar para consequências de não ativação do PERSI (suspensão de execução hipotecária)",
+        "para": "- Alertar para as garantias do PERSI: enquanto decorre, o banco não pode resolver o contrato, intentar ações judiciais para satisfação do crédito nem ceder o crédito (art. 18.º, n.º 1, DL 227/2012); a ação ou execução intentada sem integração prévia no PERSI pode ser contestada com esse fundamento [■ VERIFICAR a jurisprudência atual em dgsi.pt sobre a natureza e os efeitos desta exceção]",
+        "motivo": "O diploma não prevê «suspensão de execução hipotecária»; o efeito é o impedimento de resolver, demandar e ceder do art. 18.º.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1821&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "Nos termos do art. 12.º, n.º 1 do DL n.º 227/2012, de 25 de outubro, \"as instituições de crédito integram no PERSI os mutuários que se encontrem em mora no cumprimento de obrigações decorrentes de contratos de crédito.\"\n\nO art. 17.º do mesmo diploma determina que, durante o PERSI, a instituição de crédito não pode \"instaurar ações judiciais para cobrança do crédito hipotecário em mora.\"",
+        "para": "Nos termos do art. 14.º, n.º 2, alínea a), do DL n.º 227/2012, de 25 de outubro, a instituição de crédito está obrigada a iniciar o PERSI sempre que \"o cliente bancário se encontre em mora relativamente ao cumprimento das obrigações decorrentes do contrato de crédito e solicite, através de comunicação em suporte duradouro, a sua integração no PERSI, devendo a instituição de crédito assegurar que essa integração ocorre na data em que recebe a referida comunicação\".\n\n[Se ainda não houver prestações em mora: o pedido funda-se no PARI — o banco avalia a situação do cliente que lhe comunique o risco de incumprimento e apresenta propostas adequadas (arts. 11.º-A e 11.º-B do mesmo diploma); se o cliente vier a entrar em mora, a integração no PERSI ocorre na data do incumprimento (art. 14.º, n.º 2, alínea b)).]\n\nO art. 18.º, n.º 1, do mesmo diploma determina que, entre a data de integração no PERSI e a extinção deste procedimento, a instituição de crédito está impedida de \"[r]esolver o contrato de crédito com fundamento em incumprimento\", de \"[i]ntentar ações judiciais tendo em vista a satisfação do seu crédito\" e de ceder o crédito ou transmitir a sua posição contratual a terceiro, sem prejuízo das exceções do n.º 2.",
+        "motivo": "A transcrição atribuída ao art. 12.º, n.º 1, não existe (o art. 12.º não tem números) e a do art. 17.º também não; transcrevem-se os arts. 14.º, n.º 2, al. a), e 18.º, n.º 1.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1821&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "a) Integre o subscritor no PERSI no prazo de 15 dias (art. 12.º DL 227/2012);\nb) Apresente proposta de reestruturação das condições do crédito;\nc) Suspenda qualquer processo de cobrança judicial durante a negociação.",
+        "para": "a) Integre o subscritor no PERSI na data da receção da presente comunicação e lho comunique, em suporte duradouro, no prazo máximo de 5 dias (art. 14.º, n.º 2, alínea a), e n.º 4, DL 227/2012);\nb) Apresente, no prazo máximo de 30 dias após a integração, proposta de regularização adequada à situação financeira do subscritor (art. 15.º, n.º 4, alínea b), DL 227/2012);\nc) Se abstenha, enquanto durar o PERSI, de resolver o contrato, de intentar ações judiciais para satisfação do crédito e de ceder o crédito (art. 18.º, n.º 1, DL 227/2012).",
+        "motivo": "Não há prazo de 15 dias para a integração: é imediata a pedido do cliente em mora, com comunicação em 5 dias; propostas em 30 dias; o efeito é o do art. 18.º, não uma suspensão.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1821&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- [ ] Art. 12.º e 17.º DL 227/2012 citados",
+        "para": "- [ ] Arts. 14.º e 18.º DL 227/2012 citados (integração no PERSI e garantias do cliente)",
+        "motivo": "Os artigos relevantes são o 14.º e o 18.º.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1821&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- [ ] Prazo de 15 dias para ativação do PERSI referenciado",
+        "para": "- [ ] Integração no PERSI na data da receção do pedido e comunicação em 5 dias (art. 14.º, n.ºs 2 e 4, DL 227/2012) referenciadas",
+        "motivo": "O prazo de 15 dias para a integração não existe.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1821&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "O PERSI só abrange o «cliente bancário» consumidor (art. 3.º, al. a), DL 227/2012); crédito contraído para a atividade profissional fica de fora.",
+      "Confirmar o aviso do Banco de Portugal em vigor sobre o PARI e o PERSI e os elementos que devem acompanhar as comunicações do banco.",
+      "Confirmar em dgsi.pt a orientação atual sobre a falta de integração prévia no PERSI como exceção na ação ou execução.",
+      "Confirmar se a Lei n.º 58/2012 foi prorrogada para além de 31/12/2015 e se há medidas temporárias de apoio ao crédito à habitação ainda em vigor."
+    ],
+    "fontes": [
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1821&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.bportugal.pt/sites/default/files/anexos/legislacoes/252845652_1.doc.pdf"
+    ]
+  },
+  {
+    "codigo": "BAN-006",
+    "veredicto": "corrigida",
+    "resumo": "A ficha trocava a sistemática do DL 446/85: indicava o art. 15.º como lista negra (é a cláusula geral da boa fé), o art. 17.º e seguintes como lista cinzenta dos consumidores (os arts. 17.º a 19.º regem as relações entre empresários) e o art. 21.º como lista cinzenta (é a lista negra das relações com consumidores; a cinzenta é o art. 22.º). Indicava ainda o art. 73.º do RGICSF como dever de transparência (é a competência técnica; o dever de informação está no art. 77.º) e uma distinção entre nulidade absoluta e relativa que o diploma não faz. Corrigiram-se a análise jurídica, a estratégia e a checklist.",
+    "substituicoes": [
+      {
+        "de": "  - Art. 12.º e ss: controlo do conteúdo\n  - Art. 15.º: cláusulas absolutamente proibidas (lista negra)\n  - Art. 16.º: cláusula geral — boa fé\n  - Art. 17.º e ss: cláusulas proibidas em contratos com consumidores (lista cinzenta)\n  - Art. 21.º: lista cinzenta de consumidores — exemplos\n- RGICSF art. 73.º: dever de transparência",
+        "para": "  - Art. 12.º: as cláusulas proibidas são nulas; art. 13.º: o aderente pode optar pela manutenção do contrato\n  - Arts. 15.º e 16.º: cláusula geral — proibição das cláusulas contrárias à boa fé e sua concretização (aplica-se a todos os contratos)\n  - Arts. 17.º a 19.º: relações entre empresários ou profissionais liberais — art. 18.º (cláusulas absolutamente proibidas — lista negra) e art. 19.º (relativamente proibidas, consoante o quadro negocial padronizado — lista cinzenta)\n  - Arts. 20.º a 22.º: relações com consumidores finais — aplicam-se também os arts. 18.º e 19.º e ainda o art. 21.º (absolutamente proibidas — lista negra) e o art. 22.º (relativamente proibidas — lista cinzenta; nos serviços financeiros, ver as ressalvas do art. 22.º, n.ºs 2 a 4)\n  - Art. 24.º: as nulidades são invocáveis nos termos gerais; arts. 25.º e 26.º: ação inibitória e legitimidade ativa\n- RGICSF art. 77.º: dever de informação sobre o preço dos serviços e outros encargos (n.º 1) e contratos redigidos de forma clara e concisa (n.º 5)",
+        "motivo": "Listas do DL 446/85 trocadas (art. 15.º é a cláusula geral; lista negra nos arts. 18.º e 21.º; lista cinzenta nos arts. 19.º e 22.º); o art. 73.º do RGICSF é a competência técnica.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=837&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Distinguir nulidade absoluta (qualquer pessoa pode invocar) de nulidade relativa",
+        "para": "- Distinguir as cláusulas absolutamente proibidas (nulas em qualquer caso) das relativamente proibidas (nulas consoante o quadro negocial padronizado, o que exige fundamentação concreta); a nulidade é invocável nos termos gerais (art. 24.º) e o aderente pode manter o contrato sem a cláusula (art. 13.º); a cláusula não comunicada ou não informada nem chega a integrar o contrato (art. 8.º) — é exclusão, não nulidade",
+        "motivo": "O DL 446/85 não distingue nulidade absoluta e relativa: distingue proibição absoluta e relativa, e a exclusão por falta de comunicação.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=837&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- [ ] Artigos do DL 446/85 aplicados corretamente (lista negra vs cinzenta)",
+        "para": "- [ ] Artigos do DL 446/85 aplicados corretamente (lista negra: arts. 18.º e 21.º; lista cinzenta: arts. 19.º e 22.º; regime conforme o aderente seja consumidor ou empresário)",
+        "motivo": "Concretiza a correspondência correta entre as listas e os artigos.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=837&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "O Banco de Portugal aprecia reclamações (art. 77.º-A RGICSF), mas não declara a nulidade de cláusulas nem fixa indemnizações: essa declaração cabe ao tribunal ou, por acordo, a uma entidade de resolução alternativa de litígios.",
+      "Confirmar se a entidade de RAL indicada (CACCL ou outra) é competente para o litígio e o valor em causa.",
+      "Nos contratos com consumidores, verificar também a regra do tamanho mínimo de letra do art. 21.º, al. i), DL 446/85."
+    ],
+    "fontes": [
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=837&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.bportugal.pt/sites/default/files/anexos/legislacoes/rgicsf_pt.pdf"
+    ]
+  },
+  {
+    "codigo": "BAN-016",
+    "veredicto": "corrigida",
+    "resumo": "A ficha fixava em 30 000 € a fronteira entre juízo local e juízo central cível (é 50 000 €, art. 117.º, n.º 1, al. a), LOSJ), dava ao seguro de vida uma prescrição de 2 anos (o art. 121.º LCS prevê 5 anos a contar do conhecimento do direito; os 2 anos são só do prémio) e atribuía à LCS artigos com outro conteúdo: os arts. 37.º e 38.º como dever de comunicação (são o texto da apólice e a apólice nominativa), o art. 44.º como requisitos das exclusões (é a inexistência do risco) e o art. 106.º como mora da seguradora (são os efeitos da cessação). Também citava os arts. 41.º e 44.º do CPC para a competência (são do patrocínio judiciário) e chamava «Lei» ao Decreto-Lei n.º 72/2008. Corrigiram-se a análise, a petição e a checklist.",
+    "descricao": "Redige petição inicial de ação de incumprimento contratual contra seguradora, pedindo condenação no pagamento da indemnização devida e juros de mora, ao abrigo da LCS (regime jurídico do contrato de seguro, aprovado pelo Decreto-Lei n.º 72/2008), do Código Civil e do CPC, com estrutura adequada para apresentação em tribunal judicial ou arbitragem.",
+    "descricao_en": "Drafts the statement of claim (petição inicial) in an action for breach of contract against an insurer, seeking an order to pay the compensation due plus default interest, under the LCS (insurance contract regime approved by Decree-Law No. 72/2008), the Civil Code and the CPC, structured for filing in a court of law or in arbitration.",
+    "substituicoes": [
+      {
+        "de": "- Tribunal competente? (valor da causa → competência: Juízo Local Cível ≤ €30.000 / Juízo Central Cível acima)",
+        "para": "- Tribunal competente? (valor da causa → competência: Juízo Local Cível ou de competência genérica até €50.000 / Juízo Central Cível se superior a €50.000 — art. 117.º, n.º 1, alínea a), da LOSJ)",
+        "motivo": "O limiar dos juízos centrais cíveis é 50 000 €, não 30 000 € (alçada da Relação).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1974A0117&nid=1974&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Há prazo de prescrição a considerar? (art. 121.º LCS — 2 anos para sinistro de vida; VERIFICAR prazo para outros ramos)",
+        "para": "- Há prazo de prescrição a considerar? (art. 121.º, n.º 2, LCS — os direitos emergentes do contrato prescrevem em 5 anos a contar da data em que o titular teve conhecimento do direito, sem prejuízo da prescrição ordinária a contar do facto que lhe deu causa; o prazo de 2 anos do n.º 1 respeita só ao direito do segurador ao prémio)",
+        "motivo": "O art. 121.º LCS não prevê 2 anos para o seguro de vida: 2 anos é a prescrição do prémio; os restantes direitos prescrevem em 5 anos.",
+        "fonte": "https://files.diariodarepublica.pt/gratuitos/1s/2008/04/07500.pdf"
+      },
+      {
+        "de": "- LCS (Lei n.º 72/2008):\n  - Art. 37.º e 38.º: dever de comunicação e exclusões não comunicadas\n  - Art. 44.º: exclusões — requisitos\n  - Art. 100.º e 104.º: sinistro e liquidação\n  - Art. 106.º: mora da seguradora e juros\n  - Art. 121.º: prescrição [■ VERIFICAR prazo aplicável ao tipo de seguro]",
+        "para": "- LCS (regime jurídico do contrato de seguro, aprovado pelo Decreto-Lei n.º 72/2008, de 16 de abril):\n  - Art. 3.º: aplicação ao contrato de seguro da legislação sobre cláusulas contratuais gerais e defesa do consumidor\n  - Arts. 18.º, alínea c), 21.º, 22.º e 23.º: deveres de informação e de esclarecimento do segurador sobre as exclusões e limitações de cobertura, e consequências do seu incumprimento\n  - Art. 37.º, n.º 3, alínea b): as cláusulas de exclusão ou limitação das coberturas têm de constar da apólice em caracteres destacados e de maior dimensão\n  - Art. 44.º: inexistência do risco (sinistro anterior conhecido) — relevante se a seguradora o invocar\n  - Arts. 100.º, 102.º e 104.º: participação do sinistro, realização da prestação e vencimento — a obrigação do segurador vence-se decorridos 30 dias sobre o apuramento dos factos\n  - Art. 121.º, n.º 2: prescrição de 5 anos a contar do conhecimento do direito, sem prejuízo da prescrição ordinária a contar do facto",
+        "motivo": "Diploma é um decreto-lei; os arts. 37.º/38.º, 44.º e 106.º LCS têm outro conteúdo (texto da apólice, apólice nominativa, inexistência do risco, efeitos da cessação); a LCS não regula a mora em artigo próprio.",
+        "fonte": "https://files.diariodarepublica.pt/gratuitos/1s/2008/04/07500.pdf"
+      },
+      {
+        "de": "  - Art. 41.º ss: competência territorial\n  - Art. 44.º: competência em razão do valor",
+        "para": "  - Art. 71.º, n.º 1, e art. 81.º, n.º 2, CPC: competência territorial (domicílio ou sede do réu; sendo o réu pessoa coletiva, o credor pode optar pelo tribunal do lugar em que a obrigação deveria ser cumprida)\n- LOSJ (Lei n.º 62/2013): art. 117.º, n.º 1, alínea a) — juízos centrais cíveis para as ações declarativas cíveis de processo comum de valor superior a €50.000; nas restantes, juízo local cível ou de competência genérica (art. 130.º)",
+        "motivo": "Os arts. 41.º e 44.º CPC tratam da falta de constituição de advogado e do mandato; a competência territorial está nos arts. 71.º e 81.º CPC e a competência em razão do valor no art. 117.º LOSJ.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0071&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Pedidos: indemnização + juros de mora (art. 106.º LCS) + custas",
+        "para": "- Pedidos: indemnização + juros de mora (vencimento da obrigação do segurador nos termos do art. 104.º LCS; mora e juros nos termos dos arts. 805.º e 806.º CC) + custas",
+        "motivo": "O art. 106.º LCS regula os efeitos da cessação do contrato, não a mora.",
+        "fonte": "https://files.diariodarepublica.pt/gratuitos/1s/2008/04/07500.pdf"
+      },
+      {
+        "de": "[Se aplicável] Nos termos do art. 38.º da LCS (Lei n.º 72/2008, de 16 de abril): \"[transcrição]\". A exclusão invocada não foi comunicada ao Autor antes da celebração do contrato, pelo que não o vincula.",
+        "para": "[Se aplicável] Nos termos do art. 3.º da LCS (aprovada pelo Decreto-Lei n.º 72/2008, de 16 de abril), aplica-se ao contrato de seguro a legislação sobre cláusulas contratuais gerais, pelo que se consideram excluídas do contrato as cláusulas não comunicadas ou comunicadas com violação do dever de informação (arts. 5.º, 6.º e 8.º, alíneas a) e b), do DL n.º 446/85): \"[transcrição]\". Acresce que as cláusulas que estabeleçam a exclusão ou limitação das coberturas têm de constar da apólice em caracteres destacados e de maior dimensão do que os restantes (art. 37.º, n.º 3, alínea b), da LCS). A exclusão invocada não foi comunicada ao Autor antes da celebração do contrato, pelo que não o vincula.",
+        "motivo": "O art. 38.º LCS regula a apólice nominativa, à ordem e ao portador; a exclusão por falta de comunicação resulta do art. 3.º LCS e do DL 446/85, com o art. 37.º, n.º 3, LCS.",
+        "fonte": "https://files.diariodarepublica.pt/gratuitos/1s/2008/04/07500.pdf"
+      },
+      {
+        "de": "Nos termos do art. 106.º da LCS: \"[transcrição]\". O Autor tem direito a juros de mora desde [data] à taxa legal.",
+        "para": "Vencida a obrigação da Ré nos termos do art. 104.º da LCS, a falta de pagamento constitui-a em mora (art. 805.º CC), sendo devidos juros a contar do dia da constituição em mora (art. 806.º, n.º 1, CC): \"[transcrição]\". O Autor tem direito a juros de mora desde [data] à taxa legal.",
+        "motivo": "A mora e os juros resultam do vencimento do art. 104.º LCS e dos arts. 805.º e 806.º CC, não do art. 106.º LCS.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0805&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- [ ] Fundamento de invalidade da exclusão (se aplicável — art. 38.º LCS)\n- [ ] Mora da seguradora fundamentada (art. 106.º LCS)",
+        "para": "- [ ] Fundamento de invalidade da exclusão (se aplicável — arts. 3.º e 37.º, n.º 3, LCS; arts. 5.º, 6.º e 8.º DL 446/85)\n- [ ] Mora da seguradora fundamentada (art. 104.º LCS; arts. 805.º e 806.º CC)",
+        "motivo": "Alinha a checklist com os artigos corretos.",
+        "fonte": "https://files.diariodarepublica.pt/gratuitos/1s/2008/04/07500.pdf"
+      },
+      {
+        "de": "- [ ] Prescrição verificada [■ VERIFICAR prazo]",
+        "para": "- [ ] Prescrição verificada (5 anos a contar do conhecimento do direito — art. 121.º, n.º 2, LCS)",
+        "motivo": "O prazo está confirmado no art. 121.º, n.º 2, LCS.",
+        "fonte": "https://files.diariodarepublica.pt/gratuitos/1s/2008/04/07500.pdf"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Se o crédito indemnizatório for ilíquido, não há mora enquanto não se tornar líquido (art. 805.º, n.º 3, CC): definir a data de início dos juros com cuidado.",
+      "Se o autor for terceiro lesado num seguro obrigatório (p. ex., automóvel), a ação direta e a prescrição seguem regime próprio; a ficha está pensada para o tomador ou segurado.",
+      "Confirmar na versão consolidada atual da LCS (alterada desde 2015) que os arts. 3.º, 37.º, 102.º, 104.º e 121.º mantêm a redação citada.",
+      "Confirmar a designação do provedor do cliente da seguradora e da entidade de RAL competente antes de alegar o esgotamento das vias extrajudiciais."
+    ],
+    "fontes": [
+      "https://files.diariodarepublica.pt/gratuitos/1s/2008/04/07500.pdf",
+      "https://diariodarepublica.pt/redirect/LinkFicheiroAntigo.aspx?conteudoId=70237675",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1974A0117&nid=1974&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1974A0130&nid=1974&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0071&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0081&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0805&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0806&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+    ]
+  },
+  {
+    "codigo": "BAN-023",
+    "veredicto": "corrigida",
+    "resumo": "A ficha invocava como regime atual o DL 317/2009, revogado pelo DL 91/2018 (RJSPME, que transpôs a PSD2), classificava o art. 22.º do DL 446/85 como lista negra (é a lista das cláusulas relativamente proibidas; a alteração unilateral está na alínea c) do n.º 1, não na b)), citava o Aviso do Banco de Portugal n.º 5/2013 (que tratava do branqueamento de capitais e foi revogado; o preçário rege-se pelo Aviso n.º 8/2009) e o Regulamento (UE) 2015/751 (taxas de intercâmbio dos cartões). Atribuía ainda ao art. 77.º do RGICSF uma «proibição de práticas» (é o dever de informação) e fazia depender os serviços mínimos bancários de rendimento. Corrigiu-se a base legal, com o pré-aviso de 2 meses do art. 93.º do RJSPME e o teto de 1 % do IAS do art. 3.º do DL 27-C/2000.",
+    "substituicoes": [
+      {
+        "de": "  - Art. 73.º ss: deveres de conduta — informação sobre comissões\n  - Art. 77.º: proibição de determinadas práticas",
+        "para": "  - Arts. 73.º a 77.º-D: normas de conduta e relações com os clientes\n  - Art. 77.º: dever de informação sobre o preço dos serviços e outros encargos (n.º 1), contratos claros e concisos (n.º 5) e fatura-recibo anual, enviada em janeiro e sem custos, com todas as comissões e despesas da conta de depósito à ordem do ano anterior (n.ºs 8 a 10)\n  - Art. 77.º-A: reclamação direta ao Banco de Portugal",
+        "motivo": "O art. 77.º RGICSF é o dever de informação e de assistência, não uma proibição de práticas.",
+        "fonte": "https://www.bportugal.pt/sites/default/files/anexos/legislacoes/rgicsf_pt.pdf"
+      },
+      {
+        "de": "- DL n.º 27-C/2000 (serviços mínimos bancários): direito a conta básica, sem comissão de manutenção excessiva, para cidadãos elegíveis [■ VERIFICAR condições de elegibilidade atuais]\n- Aviso do Banco de Portugal n.º 5/2013 [■ VERIFICAR versão atual]: tabela de preços, deveres de informação sobre comissões\n- Portaria sobre serviços mínimos bancários [■ VERIFICAR diploma vigente]\n- DL n.º 446/85: art. 22.º — alteração unilateral de condições (lista negra)\n- Regulamento (UE) 2015/751 (serviços de pagamento) [■ VERIFICAR aplicabilidade]\n- DL n.º 317/2009 (serviços de pagamento — PSPD): direito a informação sobre comissões",
+        "para": "- DL n.º 27-C/2000 (serviços mínimos bancários): acesso de qualquer pessoa singular que não seja titular de outra conta de depósito à ordem (art. 4.º, n.º 1), com possibilidade de conversão da conta existente (art. 4.º-A) e exceção para o contitular com mais de 65 anos ou dependente de terceiros (art. 4.º-B, n.º 3); comissões, despesas e encargos anuais, no seu conjunto, limitados a 1 % do indexante dos apoios sociais (art. 3.º, n.º 1) [■ VERIFICAR alterações posteriores à Lei n.º 44/2020]\n- Aviso do Banco de Portugal n.º 8/2009 (preçário — folheto de comissões e despesas) [■ VERIFICAR versão atual]; o Aviso n.º 5/2013 respeitava à prevenção do branqueamento de capitais e foi revogado pelo Aviso n.º 2/2018\n- Regulamentação do Banco de Portugal sobre serviços mínimos bancários [■ VERIFICAR aviso vigente]\n- DL n.º 446/85: art. 22.º, n.º 1, alínea c) — alteração unilateral dos termos do contrato (cláusula relativamente proibida nas relações com consumidores — lista cinzenta), com as ressalvas para serviços financeiros do art. 22.º, n.ºs 2 a 4\n- DL n.º 107/2017 (transpõe a Diretiva 2014/92/UE): comparabilidade das comissões das contas de pagamento, mudança de conta e contas de pagamento com características básicas\n- RJSPME (DL n.º 91/2018, que revogou o regime do DL n.º 317/2009 e transpôs a PSD2): informação sobre comissões e alteração das condições do contrato-quadro proposta com 2 meses de antecedência, com direito de rejeitar e de resolver o contrato sem encargos (art. 93.º do RJSPME)",
+        "motivo": "DL 317/2009 revogado pelo DL 91/2018; art. 22.º DL 446/85 é lista cinzenta; Aviso 5/2013 era de branqueamento e foi revogado (preçário: Aviso 8/2009); Reg. 2015/751 trata de taxas de intercâmbio; SMB sem requisito de rendimento.",
+        "fonte": "https://www.bportugal.pt/sites/default/files/anexos/legislacoes/335415275_3.docx.pdf"
+      },
+      {
+        "de": "Nos termos do art. 22.º, al. b) do DL n.º 446/85: \"[transcrição]\"\nA alteração unilateral de comissões sem aviso prévio é proibida.\nAviso prévio exigido: [■ VERIFICAR prazo na legislação e no contrato]",
+        "para": "Nos termos do art. 22.º, n.º 1, alínea c), do DL n.º 446/85 (cláusulas relativamente proibidas nas relações com consumidores), são proibidas, consoante o quadro negocial padronizado, as cláusulas que \"[a]tribuam a quem as predisponha o direito de alterar unilateralmente os termos do contrato, excepto se existir razão atendível que as partes tenham convencionado\"; nos serviços financeiros, ver as ressalvas do n.º 2, alínea a), e dos n.ºs 3 e 4.\nNa conta à ordem (conta de pagamento), a alteração das condições do contrato-quadro, incluindo as comissões, tem de ser proposta ao cliente o mais tardar 2 meses antes da data da sua aplicação, podendo o cliente rejeitá-la e resolver o contrato imediatamente e sem encargos (art. 93.º, n.ºs 1, 2 e 4, do RJSPME, aprovado pelo DL n.º 91/2018).\nAviso prévio exigido: 2 meses (art. 93.º, n.º 1, do RJSPME) [■ VERIFICAR o prazo previsto no contrato e a data de receção da comunicação]",
+        "motivo": "A alteração unilateral está na al. c) do n.º 1 do art. 22.º (a al. b) trata da denúncia e resolução); o pré-aviso de 2 meses resulta do art. 93.º do RJSPME.",
+        "fonte": "https://www.bportugal.pt/sites/default/files/anexos/legislacoes/335415275_3.docx.pdf"
+      },
+      {
+        "de": "Vantagem: conta básica sem comissão de manutenção / com comissão máxima fixada por lei.\nElegibilidade: [■ VERIFICAR condições vigentes — rendimento, situação tributária]",
+        "para": "Vantagem: comissões, despesas e outros encargos anuais, no seu conjunto, não superiores a 1 % do indexante dos apoios sociais (art. 3.º, n.º 1, do DL n.º 27-C/2000).\nElegibilidade: qualquer pessoa singular que não seja titular de outra conta de depósito à ordem (art. 4.º, n.º 1), podendo converter a conta existente (art. 4.º-A); a lei não exige requisito de rendimento [■ VERIFICAR alterações posteriores à Lei n.º 44/2020]",
+        "motivo": "O acesso aos serviços mínimos bancários não depende de rendimento nem de situação tributária; o teto é de 1 % do IAS por ano.",
+        "fonte": "https://www.bportugal.pt/sites/default/files/anexos/legislacoes/437658111_1.doc.pdf"
+      },
+      {
+        "de": "d) [Se alteração sem aviso: invocar art. 22.º DL 446/85 e exigir restituição]",
+        "para": "d) [Se alteração sem aviso: invocar o art. 93.º do RJSPME e o art. 22.º, n.º 1, alínea c), do DL 446/85 e exigir restituição]",
+        "motivo": "Indica a norma do pré-aviso e a alínea correta.",
+        "fonte": "https://www.bportugal.pt/sites/default/files/anexos/legislacoes/335415275_3.docx.pdf"
+      },
+      {
+        "de": "- [ ] Alteração unilateral verificada (art. 22.º DL 446/85)",
+        "para": "- [ ] Alteração unilateral verificada (art. 93.º RJSPME; art. 22.º, n.º 1, alínea c), DL 446/85)",
+        "motivo": "Alinha a checklist com as normas corretas.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=837&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Na conta empresarial não se aplica o art. 22.º DL 446/85 (relações com consumidores), mas os arts. 15.º a 19.º; e o RJSPME admite que se afastem certas regras com quem não seja consumidor nem microempresa.",
+      "Confirmar a versão consolidada atual do DL 27-C/2000 e do RJSPME (alterados depois das versões consultadas) e o aviso do Banco de Portugal sobre serviços mínimos bancários.",
+      "Para comissões em levantamentos em caixas automáticas e em transferências por aplicações, confirmar os limites legais em vigor (DL 3/2010 e DL 27-C/2000) antes de qualificar a comissão como indevida."
+    ],
+    "fontes": [
+      "https://www.bportugal.pt/sites/default/files/anexos/legislacoes/rgicsf_pt.pdf",
+      "https://www.bportugal.pt/sites/default/files/anexos/legislacoes/437658111_1.doc.pdf",
+      "https://www.bportugal.pt/sites/default/files/anexos/legislacoes/335415275_3.docx.pdf",
+      "https://www.bportugal.pt/sites/default/files/anexos/legislacoes/457461739_2.doc.pdf",
+      "https://www.bportugal.pt/sites/default/files/anexos/cartas-circulares/8-2009a.pdf",
+      "https://www.bportugal.pt/sites/default/files/anexos/pdf-boletim/bo_102018.pdf",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=837&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+    ]
+  }
+]

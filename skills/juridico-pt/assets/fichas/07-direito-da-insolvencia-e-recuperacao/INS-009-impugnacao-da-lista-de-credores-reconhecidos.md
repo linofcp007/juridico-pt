@@ -6,7 +6,8 @@ titulo_en: "Challenge to the List of Recognised Creditors"
 descricao: "Gera o requerimento de impugnação da lista de credores reconhecidos apresentada pelo administrador da insolvência, contestando a inclusão, exclusão ou classificação indevida de créditos, nos termos do artigo 130.º do CIRE."
 descricao_en: "Generates the application challenging the list of recognised creditors submitted by the insolvency administrator, contesting the improper inclusion, exclusion or classification of claims, under Article 130 of the CIRE."
 ambito: nacional
-estado_citacoes: "conferidas 8 · corrigidas 1 · por conferir 5"
+estado_citacoes: "conferidas 12 · corrigidas 1 · por conferir 7"
+revisao_tecnica: "2026-10-28 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
@@ -14,7 +15,8 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 
 > **Âmbito:** nacional · **Área:** Direito da Insolvência e Recuperação · **Código:** INS-009
 > **EN:** Challenge to the List of Recognised Creditors. Generates the application challenging the list of recognised creditors submitted by the insolvency administrator, contesting the improper inclusion, exclusion or classification of claims, under Article 130 of the CIRE.
-> **Citações:** conferidas 8 · corrigidas 1 · por conferir 5. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 12 · corrigidas 1 · por conferir 7. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-28 — corrigida (5 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
 Gera o requerimento de impugnação da lista de credores reconhecidos apresentada pelo administrador da insolvência, contestando a inclusão, exclusão ou classificação indevida de créditos, nos termos do artigo 130.º do CIRE.
 
@@ -41,7 +43,7 @@ Apresenta dentro de um bloco <analise_do_caso>:
   d) Crédito indevido incluído na lista
   e) Garantia não reconhecida ou mal descrita
 - Documentação de suporte disponível
-- Prazo de 15 dias após publicação da lista (art. 130.º, n.º 1 CIRE)
+- Prazo: 10 dias seguintes ao termo do prazo de 15 dias de que o administrador dispõe, depois do termo do prazo das reclamações, para apresentar a lista (arts. 129.º, n.º 1, e 130.º, n.º 1 CIRE); para os credores avisados por carta registada, os 10 dias contam-se a partir do 3.º dia útil posterior à data da expedição (art. 130.º, n.º 2 CIRE)
 
 ### ETAPA 2 — ANÁLISE JURÍDICA (Fundamentação)
 Apresenta dentro de um bloco <fundamentos_juridicos>:
@@ -49,7 +51,8 @@ Apresenta dentro de um bloco <fundamentos_juridicos>:
 - Art. 47.º CIRE — classificação dos créditos (argumento central se for questão de classificação)
 - Para omissão de crédito reclamado: art. 128.º CIRE — reclamação tempestiva
 - Para crédito indevido: art. 129.º CIRE — poderes do administrador de não reconhecer créditos
-- Art. 135.º CIRE [■ VERIFICAR: o art. 135.º CIRE trata do parecer da comissão de credores; a decisão das impugnações está nos arts. 136.º e 140.º] — decisão judicial sobre as impugnações
+- Art. 131.º CIRE — resposta à impugnação, nos 10 dias subsequentes, pelo administrador ou por interessado com posição contrária (se a impugnação se fundar na indevida inclusão de um crédito, na omissão das suas condições, em montante excessivo ou em qualificação de grau superior, só o titular pode responder), sob pena de a impugnação ser julgada procedente
+- Arts. 136.º a 139.º CIRE — saneamento (tentativa de conciliação e despacho saneador, com valor de sentença quanto aos créditos reconhecidos), diligências instrutórias e audiência de julgamento
 - Art. 140.º CIRE — sentença de verificação e graduação de créditos
 - [■ VERIFICAR: legislação específica conforme o tipo de crédito em causa]
 
@@ -74,7 +77,7 @@ PROCESSO N.º [número] — INSOLVÊNCIA DE [nome do insolvente]
 IMPUGNAÇÃO DA LISTA DE CREDORES RECONHECIDOS
 
 **3. DOS FUNDAMENTOS**
-Artigo 1.º — [Tempestividade: data de publicação da lista e prazo de 15 dias]
+Artigo 1.º — [Tempestividade: termo do prazo das reclamações, termo do prazo de 15 dias do administrador para apresentar a lista (art. 129.º, n.º 1) e prazo de 10 dias para impugnar (art. 130.º, n.os 1 e 2)]
 Artigo 2.º — [Descrição do crédito impugnado: credor, montante, classificação constante da lista]
 Artigo 3.º — [Fundamento da impugnação com prova]
 Artigo 4.º — [Consequência pretendida: reconhecimento, exclusão ou reclassificação]
@@ -100,7 +103,7 @@ Cédula Profissional n.º [número]
 
 ### ETAPA 5 — FORMULAÇÃO FINAL (Validação)
 Apresenta dentro de um bloco <checklist_validacao>:
-- [ ] Prazo de 15 dias após publicação da lista cumprido
+- [ ] Prazo de 10 dias do art. 130.º, n.os 1 e 2 CIRE cumprido (contado do termo do prazo do art. 129.º, n.º 1, ou do 3.º dia útil posterior à expedição da carta registada)
 - [ ] Legitimidade do impugnante verificada (art. 130.º, n.º 1 CIRE)
 - [ ] Crédito impugnado claramente identificado
 - [ ] Fundamento da impugnação objetivo e documentado
@@ -122,7 +125,8 @@ Apresenta dentro de um bloco <checklist_validacao>:
 **PROCESSO:**
 - Tribunal e número: [dados]
 - Insolvente: [nome/firma]
-- Data de publicação da lista de credores: [data — prazo de 15 dias conta daqui]
+- Termo do prazo das reclamações: [data — o administrador tem 15 dias para apresentar a lista e os 10 dias para impugnar contam-se do termo desses 15 dias]
+- Aviso por carta registada, se o houve: [data da expedição — os 10 dias contam-se do 3.º dia útil posterior]
 
 **CRÉDITO IMPUGNADO:**
 - Credor em causa: [nome]
@@ -149,16 +153,22 @@ Apresenta dentro de um bloco <checklist_validacao>:
 | Citação | Estado | Nota |
 |---|---|---|
 | art. 130.º, n.º 1 CIRE | conferida (índice) |  |
+| art. 130.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 130.º, n.º 1 CIRE | conferida (índice) |  |
-| art. 130.º, n.º 1 CIRE | conferida (índice) |  |
+| arts. 129.º, n.º 1, e 130.º, n.º 1 CIRE | conferida (índice) |  |
+| art. 130.º, n.º 2 CIRE | conferida (índice) |  |
 | Art. 130.º CIRE | conferida (índice) |  |
 | Art. 47.º CIRE | conferida (índice) |  |
 | art. 128.º CIRE | conferida (índice) |  |
 | art. 129.º CIRE | conferida (índice) |  |
-| Art. 135.º CIRE | por conferir [■ VERIFICAR] | o art. 135.º CIRE trata do parecer da comissão de credores; a decisão das impugnações está nos arts. 136.º e 140.º |
+| art. 129.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 129.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| Art. 131.º CIRE | conferida (índice) |  |
+| Arts. 136.º a 139.º CIRE | conferida (epígrafe) — Saneamento do processo |  |
 | Art. 140.º CIRE | corrigida — Sentença | o número citado no catálogo não correspondia à epígrafe |
 | art. 130.º do CIRE | conferida (índice) |  |
 | Artigo 1.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | Artigo 2.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | Artigo 3.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | Artigo 4.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 130.º, n.os 1 e 2 CIRE | conferida (índice) |  |

@@ -1,0 +1,216 @@
+[
+  {
+    "codigo": "SUC-002",
+    "triagem": "ok"
+  },
+  {
+    "codigo": "SUC-003",
+    "triagem": "ok"
+  },
+  {
+    "codigo": "SUC-004",
+    "triagem": "rever",
+    "gravidade": "media",
+    "motivos": [
+      "Mantém na fundamentação, na checklist e na recolha de dados um «prazo máximo de 25 anos» para o fideicomisso quando o fideicomissário não é nascituro; a própria ficha admite que o CC não prevê esse prazo (o art. 2293.º regula a devolução ao fideicomissário). Regra inventada, a retirar ou a confirmar.",
+      "Impõe ao fiduciário deveres sem base legal clara (prestação de contas anuais ao fideicomissário, inventário «no prazo de [prazo]», administração dos bens do fideicomissário menor «sob fiscalização do Ministério Público») e fixa a alienação «com autorização judicial»; poderes e deveres do fiduciário (arts. 2290.º e 2291.º CC) a confirmar.",
+      "Não alerta para as limitações reais da substituição fideicomissária no CC (admissível só nos casos e para as pessoas previstos na lei, um só grau e sem poder onerar a legítima); a confirmar na fonte oficial."
+    ]
+  },
+  {
+    "codigo": "SUC-005",
+    "triagem": "rever",
+    "gravidade": "alta",
+    "motivos": [
+      "Diz que o herdeiro que aceita pura e simplesmente responde pelas dívidas «ultra vires hereditatis». O regime português é de responsabilidade limitada ao valor dos bens herdados (arts. 2068.º e 2071.º CC), com ónus da prova a cargo do herdeiro; a ficha assinala o erro numa nota mas deixa-o no texto.",
+      "Indica que o direito de aceitar caduca em 20 anos (art. 2059.º CC); o prazo é de 10 anos. A nota [VERIFICAR] reconhece-o, mas o corpo e a análise mantêm os 20 anos.",
+      "Remete o inventário para o «art. 78.º e ss. da Lei n.º 23/2013» (inventário notarial). O regime foi reformulado pela Lei n.º 117/2019, que o repôs no CPC (arts. 1082.º e ss.); a confirmar o regime e a entidade competente."
+    ]
+  },
+  {
+    "codigo": "SUC-006",
+    "triagem": "rever",
+    "gravidade": "media",
+    "motivos": [
+      "Apresenta o art. 2067.º CC como «proibição de repúdio em prejuízo dos credores», dando-lhes o direito de «impugnar» o repúdio, e repete-o na declaração-tipo. O art. 2067.º atribui aos credores do repudiante a faculdade de aceitar a herança em nome dele (sub-rogação, com prazo curto), não uma impugnação judicial do repúdio; a confirmar."
+    ]
+  },
+  {
+    "codigo": "SUC-007",
+    "triagem": "rever",
+    "gravidade": "media",
+    "motivos": [
+      "Funda a habilitação de herdeiros no «processo notarial — arts. 78.º e ss. da Lei n.º 23/2013 (inventário notarial)»: confunde habilitação (escritura notarial, via administrativa nas conservatórias ou incidente judicial) com inventário. Além disso, a Lei n.º 23/2013 foi reformulada pela Lei n.º 117/2019 (inventário no CPC, arts. 1082.º e ss.); a confirmar.",
+      "Exige escritura «com duas testemunhas» (arts. 46.º e ss. CN) e pede, para qualquer testamento, «auto de abertura e publicação» (próprio do testamento cerrado). As testemunhas instrumentais só se exigem hoje em casos especiais; a confirmar."
+    ]
+  },
+  {
+    "codigo": "SUC-008",
+    "triagem": "rever",
+    "gravidade": "media",
+    "motivos": [
+      "O requerimento assenta na Lei n.º 23/2013 (arts. 7.º, 50.º), dirigido «ao Notário», e trata a Lei n.º 117/2019 como simples alteração. Esta lei repôs o regime do inventário no CPC (arts. 1082.º e ss.), pelo que a base legal e a entidade competente (tribunal ou cartório) têm de ser reconfirmadas; mistura ainda a numeração «art. 1098.º CPC» com a Lei n.º 23/2013.",
+      "«Administrador provisório» (art. 7.º da Lei n.º 23/2013) como providência urgente: instituto sem correspondência segura; a administração da herança cabe ao cabeça-de-casal. A confirmar.",
+      "Ordem de nomeação do cabeça-de-casal simplificada («cônjuge, descendentes, ascendentes») e minuta com «descendente mais velho». O art. 2080.º CC prevê o cônjuge meeiro, o testamenteiro, os parentes herdeiros legais (preferindo quem vivia com o falecido, depois o grau mais próximo e o mais velho) e os herdeiros testamentários; a confirmar."
+    ]
+  },
+  {
+    "codigo": "SUC-009",
+    "triagem": "rever",
+    "gravidade": "baixa",
+    "motivos": [
+      "Dá a colação como aplicável a todos os «herdeiros legitimários»; o art. 2104.º CC impõe-na só aos descendentes (não ao cônjuge nem aos ascendentes).",
+      "Descreve a sonegação (art. 2096.º CC) como se bastasse o herdeiro «omitir» bens; a sanção exige ocultação dolosa (a própria SUC-022 o diz).",
+      "Manda citar a Lei n.º 23/2013 como regime do inventário (reformulado pela Lei n.º 117/2019); a confirmar."
+    ]
+  },
+  {
+    "codigo": "SUC-010",
+    "triagem": "rever",
+    "gravidade": "media",
+    "motivos": [
+      "Pede a notificação do Ministério Público «para efeitos do art. 2096.º CC» em caso de suspeita de sonegação. A sonegação é uma sanção civil (perda do direito sobre os bens sonegados) arguida pelos herdeiros no processo; não há intervenção do MP prevista. A confirmar.",
+      "Fala em «responsabilidade civil e disciplinar» do cabeça-de-casal que não relaciona todos os bens: as consequências legais são a remoção (art. 2086.º CC) e a sonegação, não uma responsabilidade «disciplinar». A confirmar.",
+      "Baseia a impugnação nos arts. 50.º e 51.º da Lei n.º 23/2013 (regime reformulado pela Lei n.º 117/2019; a reclamação contra a relação de bens consta hoje do CPC); a confirmar."
+    ]
+  },
+  {
+    "codigo": "SUC-011",
+    "triagem": "rever",
+    "gravidade": "baixa",
+    "motivos": [
+      "Baseia a reclamação nos «arts. 52.º e ss. da Lei n.º 23/2013» e na impugnação judicial «arts. 1123.º e ss. CPC», sem indicar o prazo. O regime do inventário foi reformulado pela Lei n.º 117/2019 (CPC, arts. 1082.º e ss.); a confirmar o prazo, o meio (reclamação contra o mapa, emenda ou anulação da partilha) e a entidade."
+    ]
+  },
+  {
+    "codigo": "SUC-012",
+    "triagem": "rever",
+    "gravidade": "alta",
+    "motivos": [
+      "Quotas legitimárias erradas no corpo, que é o que alimenta o cálculo. «Só cônjuge: 1/3 ou metade» está errado: a legítima do cônjuge sem descendentes nem ascendentes é 1/2 (art. 2158.º) e, com ascendentes, 2/3 (art. 2161.º, n.º 1). «Só ascendentes: 1/3» também: é 1/2 se forem os pais e 1/3 se forem avós ou ascendentes de grau superior (art. 2161.º, n.º 2). A ficha assinala o erro em notas, mas deixa a quota errada no texto.",
+      "A verificação de inoficiosidade compara apenas o «donatum» com a quota disponível, ignorando legados e instituições testamentárias; é o conjunto das liberalidades que se confronta com a quota disponível (arts. 2168.º e ss.)."
+    ]
+  },
+  {
+    "codigo": "SUC-013",
+    "triagem": "rever",
+    "gravidade": "alta",
+    "motivos": [
+      "Avalia a doação pelo «valor à data da doação atualizado pelo índice de preços». Para a colação, os bens doados valem pelo estado à data da doação e pelo valor à data da abertura da sucessão (art. 2109.º CC). É o critério central do cálculo e a ficha deixa-o em [VERIFICAR], com uma coluna de «valor atualizado» que induz o erro.",
+      "Afirma que, na deterioração ou perda da coisa doada, «riscos por conta do donatário»; a coisa perecida por causa não imputável ao donatário não se colaciona (art. 2112.º CC). A ficha assinala a norma, mas mantém a regra errada.",
+      "Aplica a colação a todos os «herdeiros legitimários» (o art. 2104.º CC só a impõe aos descendentes). O «valor a conferir = mínimo entre doação e quota» não tem base legal: a doação é conferida pelo valor integral, imputada na quota do donatário, e o excesso só se restitui se for inoficioso. A confirmar."
+    ]
+  },
+  {
+    "codigo": "SUC-014",
+    "triagem": "ok"
+  },
+  {
+    "codigo": "SUC-015",
+    "triagem": "ok"
+  },
+  {
+    "codigo": "SUC-016",
+    "triagem": "rever",
+    "gravidade": "baixa",
+    "motivos": [
+      "Dá a «falta de testemunhas» como vício formal do testamento público (art. 2205.º CC). Desde o DL n.º 76-A/2006 as testemunhas instrumentais só são exigidas em casos especiais (CN, art. 67.º), pelo que o vício, tal como descrito, pode estar desatualizado; a confirmar."
+    ]
+  },
+  {
+    "codigo": "SUC-018",
+    "triagem": "rever",
+    "gravidade": "media",
+    "motivos": [
+      "Ordem de preferência errada na fundamentação e na minuta: «cônjuge > descendentes > ascendentes > outros herdeiros». O art. 2080.º CC prevê o cônjuge sobrevivo (meeiro, não separado), o testamenteiro, os parentes herdeiros legais (preferindo quem vivia com o falecido, depois o grau mais próximo e o mais velho) e os herdeiros testamentários. O fundamento do pedido de nomeação fica assim errado; a confirmar.",
+      "«Administrador provisório» (art. 7.º da Lei n.º 23/2013) e nomeação «pelo notário no inventário notarial — Lei n.º 23/2013»: instituto não confirmado e regime reformulado pela Lei n.º 117/2019 (CPC, arts. 1082.º e ss.); a confirmar."
+    ]
+  },
+  {
+    "codigo": "SUC-019",
+    "triagem": "ok"
+  },
+  {
+    "codigo": "SUC-020",
+    "triagem": "rever",
+    "gravidade": "media",
+    "motivos": [
+      "A ficha cobre «sucessões e doações», mas trata os beneficiários isentos (cônjuge ou unido de facto, descendentes, ascendentes) como IS = 0 em ambos os casos. Na doação de imóveis há Imposto do Selo de 0,8% sobre o VPT (verba 1.1 TGIS) mesmo para esses beneficiários (não na herança); o cálculo-tipo não o prevê (ver references/valores-2026.md)."
+    ]
+  },
+  {
+    "codigo": "SUC-021",
+    "triagem": "ok"
+  },
+  {
+    "codigo": "SUC-022",
+    "triagem": "ok"
+  },
+  {
+    "codigo": "SUC-023",
+    "triagem": "rever",
+    "gravidade": "alta",
+    "motivos": [
+      "Parte do princípio de que os co-herdeiros são «co-proprietários» dos bens da herança indivisa e propõe a ação de divisão de coisa comum (art. 1412.º CC; CPC, arts. 925.º e ss.). Enquanto a herança está indivisa não há compropriedade sobre os bens concretos (a herança é um património autónomo e o direito é à herança no seu todo); o meio é o inventário/partilha (art. 2101.º CC). A ação seria improcedente por inadequação do meio; a divisão de coisa comum só é possível depois da partilha, se o bem ficar em compropriedade."
+    ]
+  },
+  {
+    "codigo": "SUC-024",
+    "triagem": "rever",
+    "gravidade": "media",
+    "motivos": [
+      "Diz que, sem notificação, os co-herdeiros podem «remir a cessão». O meio é a ação de preferência (arts. 2130.º, n.º 2, e 1410.º CC), no prazo de 6 meses desde o conhecimento dos elementos essenciais da alienação, com depósito do preço; «remição» não é o meio da lei sucessória portuguesa. Os prazos ficam em branco (8 dias para a preferência, art. 416.º, n.º 2, CC; a confirmar).",
+      "Admite a cessão de quinhão «em bem determinado»: o quinhão é a fração da herança no seu todo, e a disposição de um bem concreto da herança indivisa exige todos os herdeiros; a confirmar.",
+      "Forma: «escritura pública obrigatória» se houver imóveis; desde o DL n.º 116/2008 é admitido também o documento particular autenticado (art. 2126.º CC); a confirmar."
+    ]
+  },
+  {
+    "codigo": "SUC-025",
+    "triagem": "rever",
+    "gravidade": "media",
+    "motivos": [
+      "A consequência da falta de notificação é descrita como direito de «remir a cessão»; o meio é a ação de preferência (arts. 2130.º, n.º 2, e 1410.º CC), no prazo de 6 meses, com depósito do preço. A carta repete o erro ao avisar o destinatário.",
+      "Deixa em branco o prazo para exercer a preferência, que é o elemento operativo da notificação (8 dias, art. 416.º, n.º 2, CC; a confirmar)."
+    ]
+  },
+  {
+    "codigo": "SUC-026",
+    "triagem": "ok"
+  },
+  {
+    "codigo": "SUC-027",
+    "triagem": "rever",
+    "gravidade": "alta",
+    "motivos": [
+      "Fixa 17 de agosto de 2014 como data a partir da qual o Reg. (UE) n.º 650/2012 se aplica (regras, etapa 1, parecer-tipo e checklist). O Regulamento só é aplicável às sucessões de pessoas falecidas em ou após 17 de agosto de 2015 (art. 84.º); o erro de um ano levaria a aplicar o regulamento a óbitos anteriores.",
+      "Remete a competência para inventário para o «cartório notarial nos termos da Lei n.º 23/2013», regime reformulado pela Lei n.º 117/2019; a confirmar."
+    ]
+  },
+  {
+    "codigo": "SUC-028",
+    "triagem": "rever",
+    "gravidade": "baixa",
+    "motivos": [
+      "Descreve o CSE como «título autêntico». O certificado não é um instrumento autêntico nem constitui título executivo (art. 62.º, n.º 3, do Reg. 650/2012); é um documento probatório, com presunção de veracidade (art. 69.º). A confirmar."
+    ]
+  },
+  {
+    "codigo": "SUC-029",
+    "triagem": "rever",
+    "gravidade": "media",
+    "motivos": [
+      "Manda obter o documento de herdeiro estrangeiro no «SEF», entidade extinta em 2023 (funções transferidas para a AIMA, e para a PSP no controlo de fronteiras).",
+      "Indica o inventário notarial como «Lei n.º 23/2013 + art. 78.º e ss. CN»: o CN não contém o regime do inventário, e a Lei n.º 23/2013 foi reformulada pela Lei n.º 117/2019; a confirmar.",
+      "Pede «licença de utilização» do imóvel e «cédula pessoal» do menor: a primeira é terminologia anterior ao DL n.º 10/2024 (RJUE) e não é exigida para a sucessão; a cédula pessoal já não é emitida. A confirmar."
+    ]
+  },
+  {
+    "codigo": "SUC-030",
+    "triagem": "rever",
+    "gravidade": "baixa",
+    "motivos": [
+      "A carta ameaça com «inventário notarial nos termos da Lei n.º 23/2013», regime reformulado pela Lei n.º 117/2019; a confirmar o meio e a entidade competente.",
+      "Descreve a herança indivisa como situação de «compropriedade» dos herdeiros; antes da partilha não há compropriedade sobre os bens concretos (o direito é à herança no seu todo)."
+    ]
+  }
+]

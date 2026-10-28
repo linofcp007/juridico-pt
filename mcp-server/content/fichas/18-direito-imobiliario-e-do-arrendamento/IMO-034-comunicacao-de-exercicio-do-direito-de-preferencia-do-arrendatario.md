@@ -6,7 +6,8 @@ titulo_en: "Notice Exercising the Tenant's Pre-Emption Right"
 descricao: "Redige a comunicação formal pelo qual o arrendatário exerce o direito de preferência na compra do imóvel arrendado, em resposta à notificação do senhorio, declarando a intenção de adquirir o bem nas exatas condições comunicadas, com indicação dos fundamentos legais, prazo de exercício e consequências do incumprimento pelo senhorio."
 descricao_en: "Drafts the formal notice by which the tenant exercises the pre-emption right (direito de preferência) to buy the leased property, in response to the landlord's notification, declaring the intention to acquire the property on exactly the terms notified, stating the legal grounds, the time limit for exercise and the consequences of non-compliance by the landlord."
 ambito: nacional
-estado_citacoes: "conferidas 1 · corrigidas 2 · por conferir 5"
+estado_citacoes: "conferidas 19 · corrigidas 2 · por conferir 0"
+revisao_tecnica: "2026-10-28 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
@@ -14,7 +15,8 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 
 > **Âmbito:** nacional · **Área:** Direito Imobiliário e do Arrendamento · **Código:** IMO-034
 > **EN:** Notice Exercising the Tenant's Pre-Emption Right. Drafts the formal notice by which the tenant exercises the pre-emption right (direito de preferência) to buy the leased property, in response to the landlord's notification, declaring the intention to acquire the property on exactly the terms notified, stating the legal grounds, the time limit for exercise and the consequences of non-compliance by the landlord.
-> **Citações:** conferidas 1 · corrigidas 2 · por conferir 5. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 19 · corrigidas 2 · por conferir 0. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-28 — corrigida (11 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
 Redige a comunicação formal pelo qual o arrendatário exerce o direito de preferência na compra do imóvel arrendado, em resposta à notificação do senhorio, declarando a intenção de adquirir o bem nas exatas condições comunicadas, com indicação dos fundamentos legais, prazo de exercício e consequências do incumprimento pelo senhorio.
 
@@ -26,9 +28,9 @@ Ficha de trabalho para preparar este documento. As regras da casa prevalecem sob
 — NUNCA inventes jurisprudência ou números de acórdão.
 — Se faltar dado, marca [■ VERIFICAR: o que é necessário].
 — Cita artigos reais do Código Civil e do NRAU.
-— O prazo de exercício do direito de preferência é de 8 dias úteis a contar da notificação do senhorio (art. 1028.º, n.º 3 CC [■ VERIFICAR: a preferência do arrendatário está no art. 1091.º CC e o prazo de resposta no art. 416.º, n.º 2, CC; confirmar]) [■ VERIFICAR: prazo em vigor].
+— O arrendatário de local arrendado há mais de dois anos tem direito de preferência na compra e venda ou dação em cumprimento (art. 1091.º, n.º 1, al. a), CC). A comunicação do senhorio é expedida por carta registada com aviso de receção e o prazo de resposta é de 30 dias a contar da data da receção (art. 1091.º, n.º 4, CC) — prazo contínuo, que, se terminar em domingo ou feriado, passa para o primeiro dia útil (art. 279.º, al. e), CC). A declaração de preferência só é eficaz quando chega ao poder do senhorio ou é dele conhecida (art. 224.º, n.º 1, CC): tem de lá chegar dentro do prazo.
 — A comunicação deve aceitar as exatas condições comunicadas pelo senhorio.
-— Se o arrendatário exercer o direito e o senhorio não cumprir, cabe ação de preferência por expropriação ou direito a indemnização.
+— Se o senhorio vender a terceiro sem dar preferência, ou em condições diferentes das comunicadas, o arrendatário pode propor ação de preferência (arts. 1091.º, n.º 5, e 1410.º CC), no prazo de seis meses a contar da data em que teve conhecimento dos elementos essenciais da alienação, depositando o preço devido nos 15 dias seguintes à propositura da ação. [■ VERIFICAR: meios de reação se, exercida a preferência, o senhorio se recusar a vender ao arrendatário]
 — Usa linguagem jurídica pt-PT.
 
 ---
@@ -41,17 +43,18 @@ Apresenta dentro de um bloco <analise_do_caso>:
 - Qual o prazo legal de resposta e quando termina?
 - Quais as condições comunicadas (preço, forma de pagamento, data de escritura)?
 - O arrendatário tem capacidade financeira para adquirir nas mesmas condições?
-- Há outros preferentes concorrentes (cônjuge, comproprietários)?
+- O arrendamento dura há mais de dois anos (art. 1091.º, n.º 1, al. a), CC)?
+- Há outros preferentes legais concorrentes (comproprietários — art. 1409.º CC; proprietário do solo — art. 1535.º CC; preferências legais de entidades públicas)? O direito do arrendatário é graduado imediatamente acima do direito do proprietário do solo (art. 1091.º, n.º 3, CC) [■ VERIFICAR: preferências concorrentes no caso concreto]
 - Há condições suspensivas ou cláusulas especiais na notificação do senhorio?
 - Informações em falta.
 
 ### ETAPA 2 — ANÁLISE JURÍDICA (Fundamentação)
 Apresenta dentro de um bloco <fundamentos_juridicos>:
-- Art. 1028.º CC (direito de preferência do arrendatário na venda do locado) [■ VERIFICAR: o art. 1028.º CC trata da pluralidade de fins; a preferência do arrendatário está no art. 1091.º CC]
-- Art. 1029.º CC (forma da comunicação e prazo) [■ VERIFICAR: o art. 1029.º CC não trata da preferência; a comunicação ao preferente e o prazo estão no art. 416.º CC]
+- Art. 1091.º, n.º 1, al. a), CC (direito de preferência do arrendatário há mais de dois anos na compra e venda ou dação em cumprimento do locado)
+- Art. 1091.º, n.º 4, CC (comunicação por carta registada com aviso de receção; prazo de resposta de 30 dias a contar da receção) e n.ºs 6 e 7 (venda do locado juntamente com outros imóveis)
 - Art. 1410.º CC (consequências do incumprimento — direito de sequela / ação de preferência)
 - Arts. 414.º a 416.º CC (regime geral do direito de preferência)
-- Arts. 1535.º e ss. CPC (ação de preferência — prazo de 6 meses) [■ VERIFICAR: o art. 1535.º não existe no CPC; a ação de preferência e o prazo de 6 meses estão no art. 1410.º CC]
+- Art. 1091.º, n.º 5, CC (remissão para os arts. 416.º a 418.º e 1410.º CC: ação de preferência no prazo de seis meses a contar do conhecimento dos elementos essenciais da alienação, com depósito do preço nos 15 dias seguintes à propositura)
 - NRAU — disposições aplicáveis ao tipo de arrendamento
 
 ### ETAPA 3 — CONSTRUÇÃO (Estrutura da Comunicação)
@@ -82,9 +85,9 @@ II. REFERÊNCIA À NOTIFICAÇÃO
 Referência expressa à notificação recebida em [data], pela qual V.ª Ex.ª comunicou a intenção de vender o imóvel identificado nas condições [preço, forma de pagamento, data de escritura].
 
 III. EXERCÍCIO DO DIREITO DE PREFERÊNCIA
-Declaração inequívoca de exercício do direito de preferência nos termos do art. 1028.º CC [■ VERIFICAR: o art. 1028.º CC trata da pluralidade de fins; a preferência do arrendatário está no art. 1091.º CC], nas exatas condições comunicadas, sem reservas nem alterações.
+Declaração inequívoca de exercício do direito de preferência nos termos do art. 1091.º, n.º 1, al. a), CC, nas exatas condições comunicadas, sem reservas nem alterações.
 
-IV. CONDIÇÕES ACEITAS
+IV. CONDIÇÕES ACEITES
 - Preço: €[valor]
 - Forma de pagamento: [conforme notificado]
 - Data de outorga da escritura: [conforme notificado ou proposta de data]
@@ -94,7 +97,7 @@ V. DISPONIBILIDADE PARA ESCRITURA
 Declaração de disponibilidade para comparecer à escritura notarial na data e local indicados, comprometendo-se a apresentar os documentos necessários.
 
 VI. ADVERTÊNCIA LEGAL
-Caso V.ª Ex.ª não cumpra a obrigação de transmitir o imóvel nas condições comunicadas, o/a abaixo assinado/a reserva-se o direito de intentar ação de preferência nos termos dos arts. 1410.º CC e 1535.º e ss. CPC, no prazo de seis meses a contar do conhecimento da alienação.
+Caso V.ª Ex.ª aliene o imóvel a terceiro sem respeitar a preferência ora exercida, ou em condições diferentes das comunicadas, o/a abaixo assinado/a reserva-se o direito de intentar ação de preferência nos termos dos arts. 1410.º CC, aplicável por remissão do art. 1091.º, n.º 5, CC, no prazo de seis meses a contar da data em que teve conhecimento dos elementos essenciais da alienação, com depósito do preço devido nos 15 dias seguintes à propositura da ação.
 
 **FECHO**
 Atenciosamente,
@@ -107,10 +110,10 @@ Carta registada com aviso de receção — n.º [■ VERIFICAR: número de envio
 
 ### ETAPA 5 — FORMULAÇÃO FINAL (Validação)
 Apresenta dentro de um bloco <checklist_validacao>:
-- [ ] Comunicação enviada dentro do prazo legal (8 dias úteis da notificação do senhorio [■ VERIFICAR])
+- [ ] Comunicação recebida pelo senhorio dentro do prazo legal (30 dias a contar da receção da comunicação do senhorio — art. 1091.º, n.º 4, CC; art. 224.º, n.º 1, CC)
 - [ ] Referência expressa à notificação recebida e sua data
 - [ ] Declaração de exercício do direito de preferência clara e inequívoca
-- [ ] Condições aceitas em conformidade exata com a notificação do senhorio
+- [ ] Condições aceites em conformidade exata com a notificação do senhorio
 - [ ] Disponibilidade para escritura manifestada
 - [ ] Advertência sobre ação de preferência incluída
 - [ ] Enviada por carta registada com aviso de receção
@@ -143,17 +146,30 @@ Apresenta dentro de um bloco <checklist_validacao>:
 - Outras condições: [descreve]
 
 **PRAZO:**
-- Data-limite para exercer preferência: [dd/mm/aaaa — calcular 8 dias úteis]
+- Data-limite para exercer preferência: [dd/mm/aaaa — 30 dias a contar da receção da comunicação do senhorio (art. 1091.º, n.º 4, CC)]
 
 ## Citações desta ficha
 
 | Citação | Estado | Nota |
 |---|---|---|
-| art. 1028.º, n.º 3 CC | por conferir [■ VERIFICAR] | a preferência do arrendatário está no art. 1091.º CC e o prazo de resposta no art. 416.º, n.º 2, CC; confirmar |
-| Art. 1028.º CC | por conferir [■ VERIFICAR] | o art. 1028.º CC trata da pluralidade de fins; a preferência do arrendatário está no art. 1091.º CC |
-| art. 1028.º CC | por conferir [■ VERIFICAR] | o art. 1028.º CC trata da pluralidade de fins; a preferência do arrendatário está no art. 1091.º CC |
-| Art. 1029.º CC | por conferir [■ VERIFICAR] | o art. 1029.º CC não trata da preferência; a comunicação ao preferente e o prazo estão no art. 416.º CC |
+| art. 1091.º, n.º 1, al. a), CC | conferida (índice) |  |
+| art. 1091.º, n.º 1, al. a), CC | conferida (índice) |  |
+| art. 1091.º, n.º 1, al. a), CC | conferida (índice) |  |
+| art. 1091.º, n.º 4, CC | conferida (índice) |  |
+| art. 1091.º, n.º 4, CC | conferida (índice) |  |
+| art. 1091.º, n.º 4, CC | conferida (índice) |  |
+| art. 279.º, al. e), CC | conferida (epígrafe) — Cômputo do termo |  |
+| art. 224.º, n.º 1, CC | conferida (índice) |  |
+| art. 224.º, n.º 1, CC | conferida (índice) |  |
+| arts. 1091.º, n.º 5, e 1410.º CC | conferida (índice) |  |
+| art. 1409.º CC | conferida (epígrafe) — Direito de preferência |  |
+| art. 1535.º CC | conferida (epígrafe) — Direito de preferência |  |
+| art. 1091.º, n.º 3, CC | conferida (índice) |  |
+| Art. 1091.º, n.º 1, al. a), CC | conferida (índice) |  |
+| Art. 1091.º, n.º 4, CC | conferida (índice) |  |
 | Art. 1410.º CC | corrigida — Ação de preferência | o número citado no catálogo não correspondia à epígrafe |
 | Arts. 414.º a 416.º CC | conferida (epígrafe) — Noção |  |
-| Arts. 1535.º e ss. CPC | por conferir [■ VERIFICAR] | o art. 1535.º não existe no CPC; a ação de preferência e o prazo de 6 meses estão no art. 1410.º CC |
+| Art. 1091.º, n.º 5, CC | conferida (índice) |  |
+| arts. 416.º a 418.º e 1410.º CC | conferida (epígrafe) — Conhecimento do preferente |  |
 | arts. 1410.º CC | corrigida — Ação de preferência | o número citado no catálogo não correspondia à epígrafe |
+| art. 1091.º, n.º 5, CC | conferida (índice) |  |

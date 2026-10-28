@@ -6,7 +6,8 @@ titulo_en: "Legal Opinion on Joint Purchasing and Horizontal Cooperation Agreeme
 descricao: "Gera um parecer jurídico sobre a compatibilidade de acordos de cooperação horizontal entre empresas concorrentes — compras conjuntas, acordos de produção conjunta, partilha de infraestrutura, I&D conjunto e acordos de normalização — com o Direito da Concorrência português e da UE, ao abrigo das Orientações da Comissão Europeia sobre acordos de cooperação horizontal."
 descricao_en: "Generates a legal opinion on the compatibility with Portuguese and EU competition law of horizontal cooperation agreements between competing undertakings — joint purchasing, joint production agreements, infrastructure sharing, joint R&D and standardisation agreements — under the European Commission's Guidelines on horizontal cooperation agreements."
 ambito: nacional
-estado_citacoes: "conferidas 1 · corrigidas 0 · por conferir 3"
+estado_citacoes: "conferidas 2 · corrigidas 0 · por conferir 8"
+revisao_tecnica: "2026-10-28 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
@@ -14,7 +15,8 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 
 > **Âmbito:** nacional · **Área:** Direito da Concorrência · **Código:** CON-022
 > **EN:** Legal Opinion on Joint Purchasing and Horizontal Cooperation Agreements. Generates a legal opinion on the compatibility with Portuguese and EU competition law of horizontal cooperation agreements between competing undertakings — joint purchasing, joint production agreements, infrastructure sharing, joint R&D and standardisation agreements — under the European Commission's Guidelines on horizontal cooperation agreements.
-> **Citações:** conferidas 1 · corrigidas 0 · por conferir 3. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 2 · corrigidas 0 · por conferir 8. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-28 — corrigida (6 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
 Gera um parecer jurídico sobre a compatibilidade de acordos de cooperação horizontal entre empresas concorrentes — compras conjuntas, acordos de produção conjunta, partilha de infraestrutura, I&D conjunto e acordos de normalização — com o Direito da Concorrência português e da UE, ao abrigo das Orientações da Comissão Europeia sobre acordos de cooperação horizontal.
 
@@ -27,7 +29,7 @@ Ficha de trabalho para preparar este documento. As regras da casa prevalecem sob
 - Se faltarem dados, marca [■ VERIFICAR: obter de análise de mercado]
 - Distingue acordos de compras conjuntas (mercado a montante) de acordos de comercialização conjunta (mercado a jusante)
 - Identifica sempre o risco de derrame de informação (spillover) entre as partes para outros mercados
-- As Orientações horizontais 2023 da Comissão são o principal guia; cita os parágrafos relevantes quando possível [■ VERIFICAR]
+- As Orientações horizontais da Comissão (2023/C 259/01) são o principal guia; cita os pontos relevantes quando possível [■ VERIFICAR: número do ponto citado]
 
 ---
 
@@ -46,14 +48,14 @@ Apresenta dentro de um bloco <analise_do_caso>:
 ### ETAPA 2 — ANÁLISE JURÍDICA (Fundamentação)
 Apresenta dentro de um bloco <fundamentos_juridicos>:
 - Artigo 9.º, n.º 1, Lei 19/2012 / art. 101.º TFUE — proibição geral
-- Artigo 9.º, n.º 3, Lei 19/2012 / art. 101.º, n.º 3 — isenção individual (quatro condições)
-- Orientações da Comissão sobre acordos de cooperação horizontal (2023) [■ VERIFICAR]:
-  * Compras conjuntas: critérios de compatibilidade (quota combinada a montante < ?)
+- Artigo 10.º, n.º 1, Lei 19/2012 / art. 101.º, n.º 3, TFUE — justificação (isenção individual): quatro condições cumulativas, cuja prova cabe às empresas (art. 10.º, n.º 2); os regulamentos de isenção por categoria da UE aplicam-se também aos acordos sem efeito no comércio entre Estados-Membros (art. 10.º, n.º 3)
+- Orientações da Comissão sobre acordos de cooperação horizontal (2023/C 259/01):
+  * Compras conjuntas: em regra sem poder de mercado se a quota combinada não exceder 15 % nos mercados de compra e 15 % nos mercados de venda (ponto 291)
   * Produção conjunta: análise de eficiências e poder de mercado
-  * I&D: Regulamento de isenção por categoria para I&D [■ VERIFICAR: vigente]
+  * I&D: Regulamento (UE) 2023/1066 (aplicável até 30/6/2035; limiar de 25 % de quota combinada, art. 6.º)
   * Normalização: acesso aberto a normas, procedimentos transparentes
-- Regulamento (UE) de isenção para especialização [■ VERIFICAR: vigente]
-- Safe harbour: quotas de mercado < 20% (horizontais) para acordos de cooperação [■ VERIFICAR: limiar nas Orientações 2023]
+- Regulamento (UE) 2023/1067 — especialização, incluindo a produção conjunta (aplicável até 30/6/2035; limiar de 20 %, art. 3.º)
+- Não há um porto seguro geral: o limiar depende do tipo de cooperação — 15 % nas compras conjuntas (ponto 291) e na comercialização conjunta (ponto 339 das Orientações), 20 % na especialização e produção conjunta (Reg. 2023/1067), 25 % na I&D (Reg. 2023/1066); a normalização não tem limiar de quota [■ VERIFICAR: condições de salvaguarda da normalização nas Orientações]
 
 ### ETAPA 3 — ANÁLISE DO ACORDO
 Define em <analise_acordo>:
@@ -83,7 +85,7 @@ Redige o documento com esta estrutura:
 3.3. Quotas de mercado combinadas
 
 **4. ANÁLISE DE COMPATIBILIDADE**
-4.1. Safe harbour (quotas <20%?)
+4.1. Safe harbour (limiar aplicável ao tipo de cooperação)
 4.2. Eficiências geradas
 4.3. Risco de spillover
 4.4. Condições de isenção individual (se necessário)
@@ -96,7 +98,7 @@ Redige o documento com esta estrutura:
 **6. CONCLUSÃO E RECOMENDAÇÕES**
 6.1. Classificação de risco
 6.2. Cláusulas obrigatórias para mitigar o risco
-6.3. Necessidade de notificação à AdC
+6.3. Autoavaliação (os acordos não se notificam à AdC); notificação prévia só se a cooperação constituir uma concentração — empresa comum de pleno exercício (art. 36.º, n.º 2, Lei 19/2012) que atinja os limiares do art. 37.º
 
 ### ETAPA 5 — FORMULAÇÃO FINAL (Validação)
 Apresenta dentro de um bloco <checklist_validacao>:
@@ -144,6 +146,12 @@ Parecer de conformidade de acordo de cooperação horizontal, com cláusulas de 
 | Citação | Estado | Nota |
 |---|---|---|
 | Artigo 9.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| Artigo 9.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 101.º TFUE | conferida (epígrafe) — São incompatíveis com o mercado interno e proibidos todos os acordos entre empresas, todas |  |
-| art. 101.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| Artigo 10.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 101.º, n.º 3, TFUE | conferida (epígrafe) — São incompatíveis com o mercado interno e proibidos todos os acordos entre empresas, todas |  |
+| art. 10.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 10.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 6.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 3.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 36.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 37.º | por conferir [■ VERIFICAR] | diploma não identificado |

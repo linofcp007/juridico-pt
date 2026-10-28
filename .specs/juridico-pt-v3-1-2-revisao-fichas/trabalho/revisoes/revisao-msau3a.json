@@ -1,0 +1,222 @@
+[
+ {
+  "codigo": "SAU-038",
+  "veredicto": "corrigida",
+  "resumo": "A ficha citava seis artigos do CDOM que não correspondem ao Código Deontológico em vigor (Regulamento n.º 707/2016), dava como sanções a repreensão, a multa e a cassação e apontava um prazo de prescrição de 3 anos. Corrigi as remissões do CDOM, as sanções (advertência, censura, suspensão até 10 anos e expulsão), o prazo de prescrição (5 anos) e o órgão competente: o conselho disciplinar regional da região onde os factos foram praticados, e não o conselho regional, que é órgão executivo. Ajustei também as fases do processo, a legitimidade para participar, o acesso do queixoso ao processo e a suspensão preventiva, segundo o EOM e as Regras disciplinares em anexo, na redação da Lei 9/2024.",
+  "substituicoes": [
+   {
+    "de": "- Deveres CDOM violados (lista dos artigos aplicáveis):\n  * Art. 22.º CDOM — cuidado e competência (desvio das leges artis)\n  * Art. 38.º CDOM — dever de informação\n  * Art. 39.º CDOM — consentimento informado\n  * Art. 44.º CDOM — recusa de cuidados urgentes\n  * Art. 85.º CDOM — sigilo médico\n  * Art. 13.º CDOM — abandono do doente\n- Gravidade: leve / grave / muito grave\n- Sanções aplicáveis (art. X EOM): repreensão, multa, suspensão, cassação",
+    "para": "- Deveres CDOM violados (lista dos artigos aplicáveis; CDOM aprovado pelo Regulamento n.º 707/2016, de 21 de julho):\n  * Arts. 4.º, n.º 1, e 5.º CDOM — exercício segundo as leges artis e qualidade dos cuidados\n  * Art. 19.º CDOM — dever de esclarecimento do doente\n  * Arts. 20.º a 23.º CDOM — consentimento do doente\n  * Art. 4.º, n.º 6, CDOM — dever de prestar tratamento de urgência a pessoas em perigo imediato\n  * Arts. 29.º a 35.º CDOM — segredo médico\n  * Art. 16.º CDOM — recusa de assistência e abandono do doente\n- Gravidade: leve / grave / muito grave (art. 1.º, n.º 2, do anexo ao EOM — Regras disciplinares)\n- Sanções aplicáveis (art. 15.º do anexo ao EOM): advertência, censura, suspensão até 10 anos, expulsão",
+    "motivo": "Os artigos citados do CDOM não correspondem ao Código Deontológico em vigor (o 22.º é o consentimento presumido, o 38.º a responsabilidade dos médicos com funções diretivas, o 44.º o atestado médico, o 85.º a experimentação em indivíduo saudável e o 13.º a objeção técnica); as sanções do EOM são advertência, censura, suspensão e expulsão, não repreensão, multa e cassação.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?ficha=101&artigo_id=&nid=868&pagina=2&tabela=leis&nversao=&so_miolo="
+   },
+   {
+    "de": "- Quem pode apresentar queixa: o doente, representante legal, qualquer pessoa com interesse legítimo\n- Onde apresentar: Conselho Regional da OM competente (região onde o médico está inscrito)\n- Prazo de prescrição disciplinar: [■ VERIFICAR no Regulamento Disciplinar da OM — em geral 3 anos]",
+    "para": "- Quem pode apresentar queixa (participação): qualquer pessoa ou entidade, independentemente de ser direta ou indiretamente afetada pelos factos (art. 8.º, n.º 2, al. b), do anexo ao EOM); a participação é escrita em português, sem formalismos, com relato concretizado dos factos e identificação e contacto do participante (art. 9.º do anexo)\n- Onde apresentar: conselho disciplinar regional da OM (Norte, Centro ou Sul) da região onde os factos foram praticados (arts. 65.º e 67.º, n.º 3, EOM) — não o conselho regional, que é órgão executivo\n- Prazo de prescrição do procedimento disciplinar: 5 anos a contar da prática do facto ou do último ato, se continuado; mais, se o facto for também crime com prazo de prescrição mais longo (art. 6.º, n.ºs 1 e 2, do anexo ao EOM). Prescreve ainda se o procedimento não for instaurado no prazo de 1 ano a contar do conhecimento pelo órgão competente ou da participação (art. 6.º, n.º 5, do anexo)",
+    "motivo": "A participação é aberta a qualquer pessoa ou entidade; a competência disciplinar é dos conselhos disciplinares regionais, pela área onde os factos ocorreram; o prazo de prescrição é de 5 anos, não de 3.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=868A0067&nid=868&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Cabeçalho: \"Exmo. Sr. Presidente do Conselho Regional [X] da Ordem dos Médicos\"",
+    "para": "- Cabeçalho: \"Exmo. Sr. Presidente do Conselho Disciplinar Regional [do Norte / do Centro / do Sul] da Ordem dos Médicos\"",
+    "motivo": "O destinatário é o conselho disciplinar regional, órgão com competência disciplinar na redação da Lei 9/2024 (arts. 65.º e 67.º EOM).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=868A0067&nid=868&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Pedido: instauração de processo disciplinar; medida cautelar (se urgente)",
+    "para": "- Pedido: instauração de processo disciplinar; suspensão preventiva, se urgente — só depois de ouvido o médico, por maioria de dois terços, havendo indícios de infração punível com suspensão ou expulsão, e por 6 meses no máximo (art. 30.º do anexo ao EOM)",
+    "motivo": "A única medida cautelar prevista é a suspensão preventiva, com pressupostos e limite próprios.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?ficha=101&artigo_id=&nid=868&pagina=2&tabela=leis&nversao=&so_miolo="
+   },
+   {
+    "de": "- Fases: inquérito preliminar → acusação → defesa do médico → audiência → decisão → recurso para o Conselho Nacional de Disciplina\n- Direito de informação do queixoso sobre o andamento",
+    "para": "- Fases: processo de averiguação, quando os factos ou o infrator não estejam claramente identificados (arts. 11.º, n.º 2, e 28.º do anexo ao EOM) → processo disciplinar: instrução → defesa do arguido → decisão → execução (art. 29.º do anexo) → recurso para o conselho nacional de disciplina, restrito a questões de legalidade (art. 32.º do anexo; art. 64.º-C, n.ºs 1, al. a), e 2, EOM)\n- Informação do queixoso: o processo é secreto até à acusação ou ao arquivamento, podendo o relator autorizar a consulta pelo participante (art. 31.º do anexo ao EOM); quem tenha interesse direto, pessoal e legítimo nos factos pode pedir para intervir no processo (art. 12.º do anexo)",
+    "motivo": "As fases e o recurso seguem as Regras disciplinares anexas ao EOM; o processo é secreto até à acusação e o queixoso não tem um direito geral de informação sobre o andamento.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?ficha=101&artigo_id=&nid=868&pagina=2&tabela=leis&nversao=&so_miolo="
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar se o Código Deontológico (Regulamento n.º 707/2016, alterado pelo Regulamento n.º 498/2020) já foi substituído: em 2024 a OM anunciou a sua revisão para o adaptar à Lei 9/2024 (Deliberação n.º 675/2024).",
+   "Confirmar no regulamento disciplinar da OM a tramitação de pormenor (prazos de defesa, audiência pública nas sanções mais graves) e se o participante tem legitimidade para recorrer do arquivamento para o conselho nacional de disciplina (art. 32.º do anexo ao EOM).",
+   "Os artigos das Regras disciplinares são os do anexo ao EOM, na redação da Lei 9/2024; citar sempre «do anexo ao EOM» para não os confundir com os artigos do Estatuto."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=868&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?ficha=101&artigo_id=&nid=868&pagina=2&tabela=leis&nversao=&so_miolo=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=868A0067&nid=868&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.omsul.pt/Portals/0/docs/regulamento-de-deontologia-medica.pdf",
+   "https://vlex.pt/vid/regulamento-n-707-2016-760477993",
+   "https://diariodarepublica.pt/dr/detalhe/deliberacao/675-2024-865334884",
+   "https://diariodarepublica.pt/dr/detalhe/lei/9-2024-837135329"
+  ]
+ },
+ {
+  "codigo": "SAU-039",
+  "veredicto": "corrigida",
+  "resumo": "A ficha indicava como base do dever de informação os arts. 5.º e 6.º da Lei 15/2014, que tratam de dados pessoais e sigilo, e os arts. 38.º a 40.º do CDOM, que tratam de funções diretivas, informação médica e processo clínico. Apresentava ainda como regime de licenciamento a Portaria 153/2017, que fixa os tempos máximos de resposta garantidos no SNS, e um DL 76/2013 que não se confirma. Corrigi para os arts. 3.º e 7.º da Lei 15/2014, os arts. 19.º e 20.º do CDOM e a licença de funcionamento da ERS do DL 127/2014. Retirei a «responsabilidade civil agravada» e pus o art. 800.º CC como base da responsabilidade contratual da clínica pelos médicos que utiliza.",
+  "descricao": "Analisa o regime de responsabilidade civil específico da cirurgia e medicina estética em Portugal, com foco na qualificação da obrigação como obrigação de resultado (posição dominante para cirurgia estética de fins meramente embelezadores), nos deveres de informação reforçados (Lei 15/2014, arts. 3.º e 7.º; CDOM, arts. 19.º e 20.º) e nos requisitos de licenciamento das clínicas (licença de funcionamento emitida pela ERS, DL n.º 127/2014).",
+  "descricao_en": "Analyses the specific civil liability regime for cosmetic surgery and aesthetic medicine in Portugal, focusing on the characterisation of the obligation as an obligation of result (the prevailing view for purely cosmetic surgery), the enhanced duties to inform (Law 15/2014, Articles 3 and 7; CDOM, Articles 19 and 20) and the licensing requirements for clinics (operating licence issued by the ERS under Decree-Law No. 127/2014).",
+  "substituicoes": [
+   {
+    "de": "- Arts. 5.º e 6.º Lei 15/2014 + arts. 38.º a 40.º CDOM",
+    "para": "- Arts. 3.º e 7.º Lei 15/2014 (consentimento e direito à informação) + arts. 19.º e 20.º CDOM (esclarecimento e consentimento do doente)",
+    "motivo": "Os arts. 5.º e 6.º da Lei 15/2014 tratam de dados pessoais e sigilo; os arts. 38.º a 40.º do CDOM tratam de funções diretivas, informação médica e processo clínico.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2292&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- DL 76/2013: estabelecimentos de saúde com internamento; Portaria 153/2017: estabelecimentos sem internamento (consultas e pequena cirurgia)\n- Médico responsável deve ter especialidade adequada (Cirurgia Plástica Reconstrutiva e Estética ou Dermatologia, consoante o ato)\n- Clínica sem licenciamento adequado: responsabilidade civil agravada + contraordenação ERS\n- Verificar alvará ERS e especialidade do médico",
+    "para": "- DL 127/2014: a abertura e o funcionamento de estabelecimento prestador de cuidados de saúde dependem de licença de funcionamento emitida pela ERS, segundo os requisitos técnicos da respetiva tipologia fixados por portaria (arts. 2.º e 9.º) [■ VERIFICAR: portaria de requisitos da tipologia aplicável à clínica]; o registo na ERS é obrigatório e condição de abertura (art. 26.º dos Estatutos da ERS, DL 126/2014). A Portaria 153/2017 não trata de licenciamento: fixa os tempos máximos de resposta garantidos no SNS\n- Médico com qualificação adequada ao ato (especialidade de Cirurgia Plástica, Reconstrutiva e Estética ou de Dermatovenereologia, consoante o ato); o médico não pode ultrapassar os limites das suas qualificações (art. 11.º CDOM) [■ VERIFICAR: exigências de direção clínica e de qualificação na portaria da tipologia]\n- Clínica sem licença de funcionamento: contraordenação, com processo instaurado e decidido pela ERS (art. 17.º, n.ºs 1, al. a), e 3, DL 127/2014); não há um regime de responsabilidade civil agravada, mas a falta de licença pode relevar como indício de violação dos deveres de organização e segurança\n- Verificar a licença de funcionamento e o registo da clínica na ERS e a especialidade do médico",
+    "motivo": "O licenciamento rege-se pelo DL 127/2014 (que revogou o DL 279/2009), com licença de funcionamento da ERS; a Portaria 153/2017 é a dos tempos máximos de resposta garantidos e o DL 76/2013 não se confirma como diploma de licenciamento; a «responsabilidade civil agravada» não existe.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2207A0017&nid=2207&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- OU petição inicial (partes, factos, direito: arts. 798.º, 799.º, 500.º CC + Lei 15/2014; pedido discriminado)",
+    "para": "- OU petição inicial (partes, factos, direito: arts. 798.º, 799.º e 800.º CC — a clínica responde pelos atos dos médicos que utilize no cumprimento — e, subsidiariamente, arts. 483.º e 500.º CC + Lei 15/2014; pedido discriminado)",
+    "motivo": "Na responsabilidade contratual, a clínica responde pelos auxiliares nos termos do art. 800.º CC; o art. 500.º CC é norma da responsabilidade extracontratual.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0800&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Alvará ERS da clínica e especialidade do médico",
+    "para": "- [ ] Licença de funcionamento e registo da clínica na ERS e especialidade do médico",
+    "motivo": "O título emitido pela ERS é a licença de funcionamento (DL 127/2014), não um alvará.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2207&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "A qualificação como obrigação de resultado na cirurgia puramente estética tem acolhimento no STJ (por vezes como «quase resultado»), mas com análise casuística e decisões em sentido contrário; ver STJ 18-01-2022, proc. 19473/17.6T8LSB.L1.S1, e confirmar no dgsi.pt antes de a usar.",
+   "Identificar a portaria de requisitos técnicos da tipologia da clínica (consultório, clínica médica, unidade de cirurgia de ambulatório, com ou sem internamento) e confirmar a licença no registo público da ERS.",
+   "A Lei 15/2014 foi alterada em 2025 e 2026 (Leis 33/2025, 19/2026 e 57/2026); confirmar a redação em vigor dos arts. 3.º e 7.º."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2292&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.omsul.pt/Portals/0/docs/regulamento-de-deontologia-medica.pdf",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2207&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2207A0017&nid=2207&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2194&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2017-953449980",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0800&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://jurisprudencia.pt/acordao/205224/pdf",
+   "https://vlex.pt/vid/portaria-n-153-2017-760738853"
+  ]
+ },
+ {
+  "codigo": "SAU-040",
+  "veredicto": "corrigida",
+  "resumo": "A ficha apresentava o DL 74-A/2017, que regula o crédito aos consumidores para imóveis, como regime do seguro de saúde. Dava ao art. 121.º RJCS um prazo de prescrição de 2 anos para os sinistros, quando esse é o prazo do direito do segurador ao prémio (os restantes direitos prescrevem em 5 anos). Atribuía ao art. 120.º RJCS uma regra sobre condições gerais e particulares, apontava um «Centro de Arbitragem de Seguros» gratuito e um prazo de resposta de 15 dias sem base identificada. Corrigi para os arts. 213.º a 217.º e 37.º, n.º 3, RJCS e para o art. 7.º LCCG, o prazo de 5 anos, o efeito do art. 8.º LCCG (exclusão, não nulidade) e o regime das doenças preexistentes (art. 216.º RJCS). Indiquei o CIMPAS e as suas taxas e assinalei o prazo de resposta da seguradora para confirmar.",
+  "substituicoes": [
+   {
+    "de": "— Cita os artigos reais do RJCS, da LCCG e do DL 74-A/2017.",
+    "para": "— Cita os artigos reais do RJCS (DL 72/2008) e da LCCG (DL 446/85).",
+    "motivo": "O DL 74-A/2017 é o regime do crédito aos consumidores para imóveis; as regras próprias do seguro de saúde estão nos arts. 213.º a 217.º RJCS.",
+    "fonte": "https://files.diariodarepublica.pt/gratuitos/1s/2008/04/07500.pdf"
+   },
+   {
+    "de": "— Alerta para o prazo de prescrição (art. 121.º RJCS: 2 anos para sinistros).",
+    "para": "— Alerta para o prazo de prescrição (art. 121.º, n.º 2, RJCS: 5 anos a contar da data em que o titular teve conhecimento do direito, sem prejuízo da prescrição ordinária a contar do facto que lhe deu causa; os 2 anos do n.º 1 são só os do direito do segurador ao prémio).",
+    "motivo": "O prazo de 2 anos do art. 121.º, n.º 1, RJCS é o do direito ao prémio; os direitos do segurado prescrevem em 5 anos (n.º 2).",
+    "fonte": "https://files.diariodarepublica.pt/gratuitos/1s/2008/04/07500.pdf"
+   },
+   {
+    "de": "- Identificação de eventual proibição de exclusão: art. 120.º RJCS (condições gerais vs. particulares)\n- DL 74-A/2017: regras específicas para seguro de saúde (renovação, portabilidade, carências)",
+    "para": "- Verificação se a exclusão consta da apólice em caracteres destacados e de maior dimensão (art. 37.º, n.º 3, al. b), RJCS) e se não é contrariada por condições particulares ou cláusulas especificamente acordadas, que prevalecem (art. 7.º LCCG)\n- Regras próprias do seguro de saúde (arts. 213.º a 217.º RJCS): menções obrigatórias no seguro anual renovável (art. 214.º), doenças preexistentes e carência máxima de um ano (art. 216.º), prestações devidas nos dois anos seguintes à não renovação (art. 217.º)",
+    "motivo": "O art. 120.º RJCS trata das comunicações; a prevalência das cláusulas especificamente acordadas está no art. 7.º LCCG e o destaque das exclusões no art. 37.º, n.º 3, RJCS; o DL 74-A/2017 não regula o seguro de saúde.",
+    "fonte": "https://files.diariodarepublica.pt/gratuitos/1s/2008/04/07500.pdf"
+   },
+   {
+    "de": "- Exclusão não comunicada ou não clara: art. 8.º LCCG (nulidade de cláusula não comunicada)\n- Exclusão abusiva: arts. 15.º e 16.º LCCG (cláusulas proibidas em geral e em particular)\n- Exclusão de doença pré-existente sem questionário de saúde prévio: art. 24.º RJCS",
+    "para": "- Exclusão não comunicada ou não clara: art. 8.º LCCG (a cláusula não comunicada, ou comunicada sem a informação devida, considera-se excluída do contrato; a prova da comunicação cabe à seguradora — art. 5.º, n.º 3, LCCG)\n- Exclusão abusiva: arts. 15.º e 16.º LCCG (proibição geral das cláusulas contrárias à boa-fé) e, com consumidores, arts. 21.º e 22.º LCCG (cláusulas absoluta e relativamente proibidas); as cláusulas proibidas são nulas (art. 12.º LCCG)\n- Exclusão de doença preexistente: as doenças preexistentes conhecidas da pessoa segura estão cobertas, salvo exclusão acordada, genérica ou especificada, podendo o contrato prever carência até um ano (art. 216.º RJCS); o segurador que aceitou o contrato não pode prevalecer-se de omissões de resposta ao questionário, de respostas imprecisas a perguntas demasiado genéricas nem de circunstâncias que conhecia (art. 24.º, n.º 3, RJCS)",
+    "motivo": "O art. 8.º LCCG determina a exclusão da cláusula, não a nulidade; os arts. 15.º e 16.º são a cláusula geral da boa-fé, estando as listas de cláusulas proibidas nos arts. 21.º e 22.º; o regime das doenças preexistentes está no art. 216.º RJCS.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=837&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Prazo de resposta (15 dias — art. 4.º DL 2/2011 / Norma ASF)",
+    "para": "- Prazo de resposta: [■ VERIFICAR: prazo de resposta às reclamações na Norma Regulamentar da ASF n.º 7/2022-R — 20 dias úteis, segundo resumos não oficiais — e no regulamento de gestão de reclamações da seguradora]",
+    "motivo": "O prazo de 15 dias e o art. 4.º do DL 2/2011 não têm base identificada; a gestão de reclamações pelas seguradoras rege-se pela Norma Regulamentar da ASF n.º 7/2022-R, cujo texto oficial não consegui ler.",
+    "fonte": "https://www.cuatrecasas.com/resources/legal-flash-norma-regulamentar-asf-no-7-2022-r-62bdf41219a9f809160013.pdf"
+   },
+   {
+    "de": "- Centro de Arbitragem de Seguros (CAS): resolução alternativa de litígios de seguros — gratuita para o consumidor\n- Ação judicial: tribunal comum (valor da causa); prazo de prescrição 2 anos (art. 121.º RJCS) a contar do conhecimento da recusa",
+    "para": "- CIMPAS — Centro de Informação, Mediação e Arbitragem de Seguros: mediação e arbitragem de litígios de contratos de seguro, incluindo o seguro de saúde; não é gratuita — as fases de mediação e arbitragem têm taxa de 3 % do valor do pedido, com mínimo de 70 € e máximo de 700 € [■ VERIFICAR: tabela em vigor e adesão da seguradora]\n- Ação judicial: tribunal comum (valor da causa); prazo de prescrição de 5 anos a contar do conhecimento do direito, sem prejuízo da prescrição ordinária a contar do facto (art. 121.º, n.º 2, RJCS)",
+    "motivo": "O centro de arbitragem do setor é o CIMPAS e cobra taxa nas fases de mediação e arbitragem; o prazo de prescrição dos direitos do segurado é de 5 anos.",
+    "fonte": "https://www.cimpas.pt/pt/custos-2"
+   },
+   {
+    "de": "- [ ] Prazo de prescrição (2 anos — art. 121.º RJCS) verificado",
+    "para": "- [ ] Prazo de prescrição (5 anos — art. 121.º, n.º 2, RJCS) verificado",
+    "motivo": "O prazo de 2 anos é só o do direito do segurador ao prémio.",
+    "fonte": "https://files.diariodarepublica.pt/gratuitos/1s/2008/04/07500.pdf"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Li o RJCS na publicação original (DR, 16-04-2008); confirmar na versão consolidada que os arts. 24.º, 37.º, 121.º e 213.º a 217.º não foram alterados.",
+   "Confirmar no texto oficial da Norma Regulamentar da ASF n.º 7/2022-R o prazo de resposta da seguradora às reclamações e o regime do provedor do cliente.",
+   "Confirmar se a seguradora aderiu ao CIMPAS (a arbitragem depende da adesão ou de aceitação caso a caso) e a tabela de custos em vigor; ponderar também o julgado de paz nas causas de valor reduzido."
+  ],
+  "fontes": [
+   "https://files.diariodarepublica.pt/gratuitos/1s/2008/04/07500.pdf",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=837&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.cimpas.pt/pt/custos-2",
+   "https://www.cimpas.pt/",
+   "https://www.cuatrecasas.com/resources/legal-flash-norma-regulamentar-asf-no-7-2022-r-62bdf41219a9f809160013.pdf",
+   "https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2008-249804"
+  ]
+ },
+ {
+  "codigo": "SAU-041",
+  "veredicto": "corrigida",
+  "resumo": "A ficha tratava a Lei 22/2023 como regime aplicável, mas a lei só entra em vigor 30 dias após a regulamentação (art. 34.º), que em maio de 2026 continuava por publicar. Além disso, o Acórdão do TC n.º 307/2025 declarou inconstitucionais, com força obrigatória geral, o art. 3.º, n.º 1, o art. 6.º, n.º 1, e segmentos dos arts. 9.º, 16.º, 19.º e 21.º. A ficha dizia também que a lei admite em pé de igualdade eutanásia e suicídio assistido (a eutanásia só é admitida quando o suicídio assistido é impossível por incapacidade física) e usava requisitos com outra redação. Atribuía ainda ao objetor um dever de referenciação e previa vias de impugnação que a lei não consagra. Corrigi estes pontos, preenchi o prazo mínimo de dois meses e o artigo da objeção de consciência (21.º) e pus um alerta sobre o estado da lei.",
+  "descricao": "Analisa o regime jurídico da morte medicamente assistida (MMA) em Portugal, previsto na Lei n.º 22/2023, de 25 de maio, que regula as condições em que a morte medicamente assistida não é punível. A lei ainda não está em vigor, por falta de regulamentação, e o Acórdão do Tribunal Constitucional n.º 307/2025 declarou inconstitucionais algumas das suas normas. Orienta o advogado e o cidadão sobre os requisitos, o processo clínico e ético, os direitos do doente e do médico objetor e o estado de aplicação da lei.",
+  "descricao_en": "Analyses the legal regime of medically assisted death (morte medicamente assistida, MMA) in Portugal under Law No. 22/2023 of 25 May, which sets out the conditions in which medically assisted death is not punishable. The law is not yet in force, as its implementing regulations have not been adopted, and Constitutional Court Ruling No. 307/2025 struck down some of its provisions. It guides lawyers and citizens on the requirements, the clinical and ethical process, the rights of the patient and of the conscientious objector doctor, and the current status of the law.",
+  "substituicoes": [
+   {
+    "de": "— Distingue eutanásia (administração pelo médico) de suicídio medicamente assistido (auto-administração pelo doente) — a Lei 22/2023 admite ambas.\n— Alerta para as condições cumulativas exigidas: doença grave e incurável OU lesão definitiva de extrema gravidade + sofrimento duradouro e insuportável + pedido reiterado, sério e esclarecido.",
+    "para": "— Distingue eutanásia (administração de fármacos letais pelo médico ou profissional de saúde habilitado) de suicídio medicamente assistido (autoadministração pelo doente, sob supervisão médica) — a Lei 22/2023 só admite a eutanásia quando o suicídio medicamente assistido for impossível por incapacidade física do doente (art. 3.º, n.º 5).\n— Alerta para as condições cumulativas exigidas: doença grave e incurável OU lesão definitiva de gravidade extrema + sofrimento de grande intensidade + vontade atual e reiterada, séria, livre e esclarecida (arts. 2.º e 3.º).\n— Alerta para o estado da lei: só entra em vigor 30 dias após a publicação da regulamentação (art. 34.º), que o Governo devia aprovar em 90 dias (art. 31.º) e que, em maio de 2026, continuava por publicar; e o Acórdão do Tribunal Constitucional n.º 307/2025 declarou inconstitucionais, com força obrigatória geral, o art. 3.º, n.º 1, o art. 6.º, n.º 1, e segmentos dos arts. 9.º, n.º 1, 16.º, n.º 1, al. e), 19.º, al. c), e 21.º, n.º 2. Sem regulamentação e sem alteração da lei, não há procedimento de morte medicamente assistida que possa ser pedido ou concretizado [■ VERIFICAR: regulamentação ou alteração legislativa publicada depois de maio de 2026].",
+    "motivo": "A lei só admite a eutanásia quando o suicídio assistido é fisicamente impossível; os requisitos têm outra redação legal; a lei não está em vigor e o TC declarou inconstitucionais normas essenciais.",
+    "fonte": "https://www.tribunalconstitucional.pt/tc/acordaos/20250307.html"
+   },
+   {
+    "de": "- Requisitos cumulativos (arts. 2.º e 3.º Lei 22/2023):\n  * Cidadão português ou residente legal em Portugal\n  * Maior de 18 anos com plena capacidade de decisão\n  * Doença grave e incurável OU lesão definitiva de extrema gravidade permanente\n  * Situação de sofrimento duradouro e insuportável\n  * Pedido sério, reiterado e esclarecido, não resultado de pressão\n- O que NÃO constitui requisito: não é necessário estar em fase terminal imediata",
+    "para": "- Requisitos cumulativos (arts. 2.º e 3.º Lei 22/2023; o art. 3.º, n.º 1, que os enunciava, foi declarado inconstitucional pelo Acórdão do TC n.º 307/2025):\n  * Cidadão nacional ou legalmente residente em território nacional (art. 3.º, n.º 2)\n  * Maior, com vontade atual e reiterada, séria, livre e esclarecida; não são admitidos pedidos enquanto estiver pendente processo de maior acompanhado (art. 4.º, n.º 4)\n  * Doença grave e incurável OU lesão definitiva de gravidade extrema (art. 3.º, n.º 3, e art. 2.º, als. d) e e))\n  * Sofrimento de grande intensidade: persistente, continuado ou permanente e considerado intolerável pela própria pessoa (art. 2.º, al. f))\n  * Pedido escrito, datado e assinado, livremente revogável a qualquer momento (arts. 3.º, n.º 7, 4.º, n.º 1, e 12.º)\n- Fase terminal: não é exigida, mas a «doença grave e incurável» é a que ameaça a vida, em fase avançada e progressiva, incurável e irreversível (art. 2.º, al. d))",
+    "motivo": "Os requisitos e as definições legais têm outra redação (gravidade extrema, sofrimento de grande intensidade, vontade atual, séria, livre e esclarecida) e o art. 3.º, n.º 1, foi declarado inconstitucional.",
+    "fonte": "https://diariodarepublica.pt/dr/detalhe/lei/22-2023-213498831"
+   },
+   {
+    "de": "- Médico orientador: recebe o pedido, avalia os requisitos, reencaminha para segundo médico especialista\n- Segundo médico: verifica independentemente os requisitos\n- Comissão de Verificação e Avaliação (CVA): verifica a legalidade a priori (antes do ato) e a posteriori\n- Prazo mínimo entre pedidos e realização: [■ VERIFICAR prazo na Lei 22/2023]\n- Registo e documentação obrigatórios",
+    "para": "- Médico orientador (escolhido pelo doente): parecer fundamentado em 20 dias úteis; se favorável, consulta o médico especialista (arts. 4.º, n.º 2, e 5.º)\n- Médico especialista na patologia, fora da equipa do orientador: parecer em 15 dias úteis (art. 6.º); o n.º 1 do art. 6.º foi declarado inconstitucional pelo Acórdão do TC n.º 307/2025 por não exigir que o especialista examine o doente. Parecer de psiquiatra obrigatório se houver dúvidas sobre a capacidade (art. 7.º)\n- Comissão de Verificação e Avaliação (CVA): parecer prévio em 5 dias úteis (art. 8.º) e avaliação posterior do relatório final, com remessa ao Ministério Público e às ordens profissionais em caso de desconformidade (art. 26.º); fiscalização pela IGAS (art. 23.º)\n- Prazo mínimo: a morte medicamente assistida não pode ter lugar antes de decorridos dois meses a contar do pedido de abertura do procedimento (art. 4.º, n.º 5)\n- Registo clínico especial (RCE) obrigatório (arts. 4.º, n.º 1, e 16.º)",
+    "motivo": "O prazo mínimo é de dois meses (art. 4.º, n.º 5); os prazos dos pareceres e o papel da CVA e da IGAS constam da lei; o art. 6.º, n.º 1, foi declarado inconstitucional.",
+    "fonte": "https://diariodarepublica.pt/dr/detalhe/lei/22-2023-213498831"
+   },
+   {
+    "de": "- Direito do médico, enfermeiro e farmacêutico a recusar participação por objeção de consciência (art. X Lei 22/2023)\n- Obrigações do objetor: referenciar o doente para médico não objetor\n- Obrigações do estabelecimento: garantir acesso ao doente independentemente da objeção dos seus profissionais\n- Limites: a objeção não pode impedir o acesso do doente ao processo",
+    "para": "- Direito de qualquer profissional de saúde a recusar praticar ou ajudar ao ato por objeção de consciência, invocável a todo o tempo e sem necessidade de fundamentação (art. 21.º, n.ºs 1 e 5, Lei 22/2023)\n- Obrigações do objetor: comunicar a recusa ao doente no prazo de 24 horas (art. 21.º, n.º 2 — o segmento que lhe impunha especificar a natureza das razões foi declarado inconstitucional pelo Acórdão do TC n.º 307/2025) e manifestá-la em documento assinado, dirigido ao responsável do estabelecimento, com cópia à ordem profissional (art. 21.º, n.º 3); a objeção vale em todos os estabelecimentos onde exerça (art. 21.º, n.º 4)\n- Referenciação e acesso: a lei não impõe ao objetor o dever de referenciar o doente nem regula a objeção do estabelecimento; o doente escolhe o médico orientador e o local (arts. 4.º, n.º 2, e 13.º) [■ VERIFICAR: deveres dos estabelecimentos na regulamentação]",
+    "motivo": "A objeção de consciência está no art. 21.º e abrange qualquer profissional de saúde; a lei não prevê o dever de referenciação nem a garantia de acesso pelo estabelecimento; parte do n.º 2 foi declarada inconstitucional.",
+    "fonte": "https://www.tribunalconstitucional.pt/tc/acordaos/20250307.html"
+   },
+   {
+    "de": "- Fundamentos de recusa legítima vs. recusa ilegal (avaliação incorreta dos requisitos, objeção de instituição pública sem fundamento legal)\n- Vias de impugnação: CVA + queixa à ERS + ação judicial (arguição de violação de direito à autodeterminação)",
+    "para": "- A lei não prevê recurso dos pareceres desfavoráveis: o parecer desfavorável do médico orientador, do especialista, do psiquiatra ou da CVA cancela o procedimento, que pode ser reiniciado com novo pedido (arts. 5.º, n.º 3, 6.º, n.º 3, 7.º, n.º 2, e 8.º, n.º 3); a CVA não é instância de recurso\n- Vias possíveis: novo pedido; queixa à ERS ou à IGAS sobre a atuação do estabelecimento; ação judicial [■ VERIFICAR: meio processual e tribunal competente — a lei não os prevê e ainda não está em vigor]",
+    "motivo": "Os pareceres desfavoráveis cancelam o procedimento e permitem novo pedido; a lei não prevê recurso para a CVA nem regula a objeção institucional.",
+    "fonte": "https://diariodarepublica.pt/dr/detalhe/lei/22-2023-213498831"
+   },
+   {
+    "de": "- [ ] Médico orientador identificado",
+    "para": "- [ ] Médico orientador identificado\n- [ ] Entrada em vigor da lei e regulamentação confirmadas no Diário da República",
+    "motivo": "A aplicação da lei depende da regulamentação (art. 34.º).",
+    "fonte": "https://rr.pt/noticia/politica/2026/05/01/governo-mantem-falta-de-seguranca-juridica-para-avancar-com-regulamentacao-da-eutanasia/469089/"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar no Diário da República se, depois de maio de 2026, foi publicada a regulamentação (art. 31.º) ou uma alteração da Lei 22/2023 para responder ao Acórdão do TC n.º 307/2025; sem isso a lei não está em vigor (art. 34.º).",
+   "A eliminação do art. 3.º, n.º 1, e do art. 6.º, n.º 1, deixa a lei sem a norma central de não punibilidade; não aconselhar a prática de qualquer ato antes de o regime ser reposto.",
+   "O texto da lei foi lido numa reprodução da publicação no DR (1.ª série, n.º 101, 25-05-2023); confirmar na versão consolidada.",
+   "Os meios de reação contra a recusa (natureza dos pareceres da CVA, tribunal competente) não estão definidos na lei e dependem da regulamentação."
+  ],
+  "fontes": [
+   "https://diariodarepublica.pt/dr/detalhe/lei/22-2023-213498831",
+   "https://biodiritto.org/ocmultibinary/download/4581/53486/2/fbd8b55ff3cbfa5df7c7fbde52262143/file/Ley+n.+22%3A2023.pdf",
+   "https://www.tribunalconstitucional.pt/tc/acordaos/20250307.html",
+   "https://rr.pt/noticia/politica/2026/05/01/governo-mantem-falta-de-seguranca-juridica-para-avancar-com-regulamentacao-da-eutanasia/469089/",
+   "https://eco.sapo.pt/2025/04/22/tc-declara-inconstitucionais-algumas-normas-do-diploma-da-eutanasia/"
+  ]
+ }
+]

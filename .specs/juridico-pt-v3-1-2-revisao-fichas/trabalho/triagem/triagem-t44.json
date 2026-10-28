@@ -1,0 +1,128 @@
+[
+  { "codigo": "DIG-035", "triagem": "ok" },
+  { "codigo": "DIG-036", "triagem": "ok" },
+  { "codigo": "DIG-037", "triagem": "ok" },
+  { "codigo": "DIG-038", "triagem": "ok" },
+  {
+    "codigo": "DIG-039",
+    "triagem": "rever",
+    "gravidade": "media",
+    "motivos": [
+      "Descreve a proibição de pontuação social (art. 5.º AI Act) como aplicável só a 'entidades públicas'. Era a redação da proposta de 2021; no texto final do Regulamento 2024/1689 a proibição abrange qualquer operador, público ou privado. Uma classificação feita por esta ficha deixaria passar o social scoring privado.",
+      "Inclui os sistemas GPAI com risco sistémico na categoria 'risco específico de transparência (art. 50.º)' e remete para a 'Secção 5 AI Act'. Os modelos GPAI têm regime próprio (Capítulo V, arts. 51.º a 56.º), distinto da transparência do art. 50.º; a 'Secção 5' é a numeração do DSA (a confirmar).",
+      "Faz assentar os deveres do deployer nos 'arts. 26.º e 29.º' (o art. 29.º era dos 'utilizadores' na proposta de 2021) e trata os logs como obrigação só do provider. No texto final o deployer tem de conservar os logs que controla durante pelo menos 6 meses (art. 26.º, n.º 6), e os organismos públicos e certos privados têm de fazer a avaliação de impacto nos direitos fundamentais (art. 27.º), omitida na ficha.",
+      "Associa a explicabilidade ao art. 22.º, n.º 3 RGPD, que trata do direito a intervenção humana e a contestar a decisão; o direito a explicação vem do art. 86.º AI Act e dos arts. 13.º a 15.º RGPD."
+    ]
+  },
+  {
+    "codigo": "DIG-040",
+    "triagem": "rever",
+    "gravidade": "baixa",
+    "motivos": [
+      "Atribui a todas as plataformas online a 'opção sem perfilagem' nos sistemas de recomendação (art. 27.º DSA). O art. 27.º só exige transparência dos parâmetros e opções de os modificar; a opção não baseada em perfilagem é do art. 38.º e só vale para VLOP/VLOSE.",
+      "Manda 'registar' a plataforma junto da ANACOM, como se existisse um registo geral de plataformas. O DSA não prevê essa obrigação; a ANACOM é o coordenador dos serviços digitais e o prestador comunica o número de utilizadores ativos quando lhe é pedido (a confirmar).",
+      "Remete os prestadores de acesso à Internet e de caching para os 'arts. 16.º-18.º DSA'. Esses artigos são deveres dos prestadores de alojamento (notificação e ação, fundamentação, suspeitas de crime); os de simples transporte e caching têm só as isenções dos arts. 4.º e 5.º. A ficha também não refere a dispensa das micro e pequenas empresas (art. 19.º) para as obrigações das plataformas."
+    ]
+  },
+  {
+    "codigo": "DIG-041",
+    "triagem": "rever",
+    "gravidade": "media",
+    "motivos": [
+      "Apresenta o DL 65/2021 (regulamentação do RJSC, Lei 46/2018, que transpôs a NIS 1) como base nacional, só com uma 'atualização de transposição' por identificar. A NIS2 foi transposta em Portugal por novo regime jurídico da cibersegurança (DL 125/2025, de 4 de dezembro, a confirmar), que substitui o regime anterior; a ficha deve remeter para o diploma atual e para a data de entrada em vigor.",
+      "Limiares dimensionais errados: entidade essencial 'grande empresa (>250 trabalhadores ou >€50M faturação ou >€43M balanço)'. Pela Recomendação 2003/361 o critério é 250 trabalhadores OU (volume de negócios >€50M E balanço >€43M); com o 'ou' da ficha uma média empresa com faturação alta passaria a essencial. O mesmo para o limiar das importantes.",
+      "Dá os prestadores de cloud como essenciais 'independentemente da dimensão'. A exceção de dimensão (art. 2.º, n.º 2 NIS2) abrange prestadores de serviços fiduciários qualificados, registos de TLD e DNS e certas redes e serviços de comunicações eletrónicas; o cloud depende dos limiares.",
+      "Trata a divulgação coordenada de vulnerabilidades (art. 12.º NIS2) como dever da entidade; é obrigação dos Estados-Membros e das CSIRT."
+    ]
+  },
+  {
+    "codigo": "DIG-042",
+    "triagem": "rever",
+    "gravidade": "baixa",
+    "motivos": [
+      "Fala em 'dever de apresentar queixa-crime' contra desconhecidos para 'preservar prazos'. Uma empresa vítima não tem esse dever legal (a denúncia obrigatória do art. 242.º CPP é de entidades policiais e funcionários), e o acesso ilegítimo da Lei 109/2009 é crime público, sem prazo de queixa a preservar (a confirmar). É uma recomendação, não uma obrigação.",
+      "Fixa 'mínimo 1 ano' de conservação dos logs forenses como se fosse regra legal; não existe tal prazo para este fim (a Lei 32/2008 dos metadados vale para operadores de comunicações e foi em parte declarada inconstitucional)."
+    ]
+  },
+  {
+    "codigo": "DIG-043",
+    "triagem": "rever",
+    "gravidade": "media",
+    "motivos": [
+      "Lista como PROIBIDA (art. 5.º AI Act) a identificação biométrica remota 'a posteriori' por autoridades de aplicação da lei. A identificação a posteriori não é proibida: é sistema de alto risco (Anexo III, ponto 1, al. a)), sujeito a autorização judicial ou administrativa prévia nos termos do art. 26.º, n.º 10. A proibição do art. 5.º, n.º 1, al. h) só abrange a identificação em tempo real e para fins de aplicação da lei; a regra obrigatória que fala em 'espaços públicos' em geral é demasiado ampla.",
+      "Confunde a categorização biométrica para inferir dados sensíveis (proibida, art. 5.º, n.º 1, al. g)) com a categorização biométrica listada como alto risco no Anexo III, ponto 1, al. b); o reconhecimento de emoções no trabalho (proibido) aparece misturado na lista de alto risco.",
+      "Sobre o art. 28.º da Lei 58/2019 só pede para 'verificar a redação' e se existe norma para a biometria laboral. A regra é que os dados biométricos dos trabalhadores só podem ser usados para controlo de assiduidade e de acesso às instalações, e por meio de representações (templates) dos dados (a confirmar). Sem isto, a ficha deixa a porta aberta a finalidades que a lei exclui."
+    ]
+  },
+  { "codigo": "DIG-044", "triagem": "ok" },
+  { "codigo": "DIG-045", "triagem": "ok" },
+  { "codigo": "DIG-046", "triagem": "ok" },
+  {
+    "codigo": "DIG-047",
+    "triagem": "rever",
+    "gravidade": "baixa",
+    "motivos": [
+      "Afirma que a 'IA diagnóstica' é alto risco pelo Anexo III, ponto 5 do AI Act. O ponto 5 trata de serviços essenciais (acesso a prestações de saúde, crédito, seguros, triagem de emergência); a IA de diagnóstico é de alto risco por ser componente de segurança de dispositivo médico (art. 6.º, n.º 1 e Anexo I, MDR/IVDR), com prazo de aplicação diferente (a confirmar).",
+      "Diz que numa violação de dados de saúde há 'risco elevado presumido' com comunicação aos titulares. Não há presunção legal: o art. 34.º RGPD exige avaliação do risco caso a caso (embora os dados de saúde agravem o risco), e as exceções do art. 34.º, n.º 3 mantêm-se."
+    ]
+  },
+  {
+    "codigo": "DIG-048",
+    "triagem": "rever",
+    "gravidade": "baixa",
+    "motivos": [
+      "Remete a verificação de idoneidade no setor financeiro para a Lei 83/2017, que é o regime do branqueamento de capitais e financiamento do terrorismo. A idoneidade dos administradores e dos titulares de participações qualificadas está no RGICSF (DL 298/92, arts. 30.º a 33.º e 103.º e ss.) e na regulamentação do Banco de Portugal (a confirmar).",
+      "Dá o DL 171/2015 como o 'Registo Criminal PT'; o regime da identificação criminal é a Lei 37/2015, de 5 de maio, e o DL 171/2015 é o seu regulamento (a confirmar). Quem usar a ficha para ver quem pode pedir o certificado precisa da lei, não só do regulamento."
+    ]
+  },
+  {
+    "codigo": "DIG-049",
+    "triagem": "rever",
+    "gravidade": "media",
+    "motivos": [
+      "Descreve a aprovação das BCRs como cooperação da autoridade líder nos termos do art. 60.º RGPD (balcão único). As BCRs são aprovadas pela autoridade competente através do mecanismo de coerência (art. 47.º, n.º 1 e arts. 63.º e 64.º, n.º 1, al. f)), com parecer do CEPD; a ficha omite essa fase e cita o procedimento errado.",
+      "Inventa um critério de decisão: 'BCRs para grupos com ≥10 entidades em países terceiros'. Não há limiar legal nem orientação do CEPD nesse sentido.",
+      "Usa os WP256/WP257 como referenciais; para as controller BCRs estão substituídos pela Recomendação 1/2022 do CEPD, e o prazo de '12-24 meses' é estimativa de prática, não prazo legal (a confirmar)."
+    ]
+  },
+  { "codigo": "DIG-050", "triagem": "ok" },
+  { "codigo": "DIG-051", "triagem": "ok" },
+  { "codigo": "DIG-052", "triagem": "ok" },
+  {
+    "codigo": "DIG-053",
+    "triagem": "rever",
+    "gravidade": "media",
+    "motivos": [
+      "Admite o interesse legítimo como base para a localização precisa. Pela Lei 41/2004 (transposição do art. 9.º da Diretiva ePrivacy) os dados de localização que não sejam dados de tráfego só podem ser tratados se anonimizados ou com consentimento; o acesso ao GPS do terminal também exige consentimento (art. 5.º), salvo se estritamente necessário para o serviço pedido. O interesse legítimo não serve (a confirmar).",
+      "Dá os analíticos como dispensados de consentimento 'salvo anonimização efetiva'. A dispensa do art. 5.º, n.º 3 ePrivacy é só para armazenamento ou acesso estritamente necessário; tornar os dados anónimos depois não afasta o consentimento para o cookie.",
+      "Chama às 'Guidelines 05/2020' do CEPD orientações sobre cookies (são sobre o consentimento no RGPD) e às 'Guidelines 04/2021' orientações sobre dados de localização (são sobre códigos de conduta para transferências; a localização está nas Guidelines 04/2020 e as de cookies nas Guidelines 2/2023 e no relatório da cookie banner taskforce).",
+      "Diz que o Consent Mode v2 é 'obrigatório na UE desde março 2024'. É uma exigência contratual da Google para publicidade no EEE, não uma obrigação legal."
+    ]
+  },
+  { "codigo": "DIG-054", "triagem": "ok" },
+  { "codigo": "DIG-055", "triagem": "ok" },
+  {
+    "codigo": "DIG-056",
+    "triagem": "rever",
+    "gravidade": "media",
+    "motivos": [
+      "Na Etapa 5 afirma 'risco de sanção solidária: qualquer parte responde pela totalidade perante a CNPD'. A solidariedade do RGPD é civil, perante os titulares (art. 82.º, n.º 4); as coimas do art. 83.º são aplicadas a cada responsável pela sua infração, não há responsabilidade solidária pela coima. Quem aconselhar com base na ficha pode sobrestimar o risco de coima ou estruturar mal a repartição de responsabilidades.",
+      "Define o responsável conjunto como o que 'determina finalidades distintas para os mesmos dados'. Finalidades distintas e independentes dão responsáveis autónomos; a corresponsabilidade (art. 26.º, Fashion ID, Wirtschaftsakademie, Orientações CEPD 07/2020) exige decisões conjuntas ou convergentes, com finalidades pelo menos estreitamente ligadas (a confirmar).",
+      "A Cláusula 3.ª atribui ao art. 26.º, n.º 1 o direito de os titulares exercerem os direitos junto de qualquer responsável; a regra está no art. 26.º, n.º 3."
+    ]
+  },
+  {
+    "codigo": "DIG-057",
+    "triagem": "rever",
+    "gravidade": "media",
+    "motivos": [
+      "Calendário do AI Act: chama 'Anexo II' aos sistemas de alto risco de produtos (dispositivos médicos, etc.) com aplicação a 2 de agosto de 2027; o anexo é o Anexo I (art. 6.º, n.º 1). O Anexo II lista infrações penais, relevantes para o Anexo III.",
+      "Apresenta 2 de agosto de 2026 como data firme para os sistemas de alto risco do Anexo III. Está em curso (e pode já ter sido adotado) o pacote 'Digital Omnibus' que adia essas obrigações para dezembro de 2027 (Anexo III) e agosto de 2028 (Anexo I); o calendário tem de ser conferido antes de ser usado (a confirmar).",
+      "Diz que identificação biométrica e reconhecimento de emoções exigem sempre organismo notificado. Pelo art. 43.º, n.º 1, nos pontos 1 do Anexo III o provider escolhe entre o controlo interno e a avaliação com organismo notificado, e só tem de usar o organismo notificado se não aplicar normas harmonizadas ou as aplicar em parte.",
+      "Dá a designação da autoridade nacional portuguesa (art. 70.º) como ainda por fazer; pode já ter sido designada por diploma nacional (a confirmar), pelo que esta parte da ficha pode estar desatualizada."
+    ]
+  },
+  { "codigo": "DIG-058", "triagem": "ok" },
+  { "codigo": "DIG-059", "triagem": "ok" },
+  { "codigo": "DIG-060", "triagem": "ok" }
+]
