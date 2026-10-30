@@ -1,0 +1,646 @@
+[
+ {
+  "codigo": "IMO-029",
+  "veredicto": "corrigida",
+  "resumo": "A ficha confundia os declarantes da justificação com «testemunhas instrumentárias» (exigia duas, «sob juramento»), quando o art. 96.º do Código do Notariado exige três declarantes; atribuía a escritura ao DL 273/2001, que criou antes o processo de justificação na conservatória; descrevia a publicação no Diário da República com afixação na junta e um «prazo de impugnação de 30 dias»; e excluía a justificação sempre que houvesse registo a favor de terceiro. Corrigi segundo os arts. 89.º a 101.º do Código do Notariado e o art. 116.º do Código do Registo Predial: publicação por extrato em jornal do concelho; os 30 dias são o prazo após o qual se passam certidões se não for comunicada impugnação; havendo registo a favor de terceiro, a justificação serve para reatar o trato sucessivo ou estabelecer novo trato, com notificação prévia do titular inscrito.",
+  "descricao": "Prepara as instruções para a celebração de escritura de justificação notarial para aquisição de imóvel por usucapião ou por título não documentado, ao abrigo do Código do Notariado (arts. 89.º a 101.º) e do art. 116.º do Código do Registo Predial, incluindo os requisitos, a documentação necessária, os três declarantes, a publicação e a impugnação e as limitações face à ação judicial.",
+  "descricao_en": "Prepares the instructions for executing a notarial deed of justification (escritura de justificação notarial) to acquire property by adverse possession or under an undocumented title, under the Notarial Code (Arts. 89 to 101) and Art. 116 of the Land Registry Code, including the requirements, the documents required, the three confirming declarants, publication and challenge and the limitations compared with court proceedings.",
+  "substituicoes": [
+   {
+    "de": "— Indica os limites da justificação notarial: não pode ser usada se há oposição conhecida ou registo em nome de terceiro identificável.\n— A justificação está sujeita a publicação (Diário da República e afixação) e prazo de impugnação de 30 dias.\n— Cita legislação real: DL 273/2001, Código do Notariado.\n— Usa terminologia pt-PT: \"justificação notarial\", \"escritura pública\", \"testemunhas instrumentárias\", \"publicação\".",
+    "para": "— Indica os limites da justificação notarial: o direito a justificar tem de estar inscrito na matriz (art. 92.º, n.º 1, do Código do Notariado); havendo registo a favor de terceiro, a justificação só serve para reatar o trato sucessivo ou estabelecer novo trato (art. 116.º, n.ºs 2 e 3, do Código do Registo Predial; arts. 90.º e 91.º do Código do Notariado) e, faltando título em que tenha intervindo o titular inscrito, a escritura não pode ser lavrada sem a notificação prévia deste pelo notário (art. 99.º do Código do Notariado); havendo oposição conhecida de terceiros, a via judicial é, em regra, mais segura.\n— A escritura é publicada por extrato num dos jornais mais lidos do concelho da situação do prédio (art. 100.º do Código do Notariado); as certidões só podem ser passadas decorridos 30 dias sobre a publicação, se nesse prazo não for comunicada ao notário a pendência de impugnação judicial (art. 101.º, n.º 2, do Código do Notariado).\n— Cita legislação real: Código do Notariado (arts. 89.º a 101.º) e Código do Registo Predial (art. 116.º); o DL 273/2001 criou a alternativa do processo de justificação na conservatória (arts. 117.º-A e seguintes do Código do Registo Predial).\n— Usa terminologia pt-PT: \"justificação notarial\", \"escritura pública\", \"justificante\", \"declarantes\", \"publicação\".",
+    "motivo": "Três declarantes e não testemunhas instrumentárias; publicação em jornal e não no Diário da República; os 30 dias são o prazo para passar certidões; o registo a favor de terceiro não impede a justificação para o trato sucessivo.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=457&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- O imóvel tem registo em nome de terceiro identificável? (Se sim, justificação notarial não é via adequada)",
+    "para": "- O imóvel tem registo a favor de terceiro? (Se sim, a justificação serve para reatar o trato sucessivo ou estabelecer novo trato e, faltando título em que o titular inscrito tenha intervindo, exige a sua notificação prévia pelo notário — arts. 90.º, 91.º e 99.º do Código do Notariado)\n- O direito a justificar está inscrito na matriz (art. 92.º, n.º 1, do Código do Notariado)?",
+    "motivo": "O registo a favor de terceiro não exclui a justificação: o art. 116.º, n.º 2, do Código do Registo Predial admite-a para suprir a falta de intervenção do titular inscrito.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=488A0116&nid=488&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- DL n.º 273/2001, de 13 de outubro (escrituras de justificação notarial)\n- Código do Notariado — arts. relevantes para a escritura pública",
+    "para": "- Código do Notariado, arts. 89.º a 101.º (escritura de justificação notarial: declarações do justificante, três declarantes, documentos, notificação prévia, publicação e impugnação)\n- Código do Registo Predial, art. 116.º (justificação para a primeira inscrição e para o trato sucessivo); o DL n.º 273/2001, de 13 de outubro, criou a alternativa do processo de justificação na conservatória (arts. 117.º-A e seguintes do Código do Registo Predial)",
+    "motivo": "A escritura de justificação rege-se pelo Código do Notariado; o DL 273/2001 aditou ao Código do Registo Predial o processo de justificação na conservatória.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=488A0117A&nid=488&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Art. 7.º CRPredial (registo e oponibilidade a terceiros)\n- Prazo de impugnação: 30 dias após publicação",
+    "para": "- Arts. 5.º e 7.º do Código do Registo Predial (oponibilidade a terceiros e presunção derivada do registo)\n- Art. 101.º do Código do Notariado (impugnação: o artigo não fixa prazo para a ação, mas as certidões da escritura só são passadas decorridos 30 dias sobre a publicação do extrato, se nesse prazo não for comunicada ao notário a pendência da impugnação) [■ VERIFICAR: ónus da prova do justificante na ação de impugnação — AUJ do STJ n.º 1/2008]",
+    "motivo": "O art. 7.º do Código do Registo Predial é a presunção derivada do registo (a oponibilidade é o art. 5.º); os 30 dias do art. 101.º do Código do Notariado contam para a passagem de certidões.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=457A0101&nid=457&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Escolha das testemunhas instrumentárias (não podem ser familiares do requerente)",
+    "para": "- Escolha dos três declarantes (art. 96.º do Código do Notariado), sem incapacidade ou inabilidade (arts. 68.º e 84.º do Código do Notariado)",
+    "motivo": "O art. 96.º do Código do Notariado exige três declarantes, a quem se aplica o art. 84.º.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=457A0096&nid=457&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "□ O imóvel não tem registo em nome de terceiro vivo e identificável",
+    "para": "□ Situação registal apurada: prédio omisso, descrito sem inscrição de aquisição ou com inscrição a favor de terceiro (neste caso, notificação prévia do titular inscrito — art. 99.º do Código do Notariado)\n□ O direito a justificar está inscrito na matriz (art. 92.º, n.º 1, do Código do Notariado)",
+    "motivo": "A inscrição a favor de terceiro não torna a justificação inviável; a inscrição matricial é condição de admissibilidade.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=457&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "□ Há pelo menos 2 testemunhas dispostas a confirmar a posse sob juramento",
+    "para": "□ Há três declarantes dispostos a confirmar as declarações do justificante (art. 96.º, n.º 1, do Código do Notariado)",
+    "motivo": "São três declarantes e não prestam juramento.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=457A0096&nid=457&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "□ Identificação das 2 testemunhas instrumentárias (CC e NIF)",
+    "para": "□ Identificação dos 3 declarantes (CC e NIF)",
+    "motivo": "Art. 96.º, n.º 1, do Código do Notariado: três declarantes.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=457A0096&nid=457&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "**3. AS TESTEMUNHAS INSTRUMENTÁRIAS**\nSão obrigatórias 2 testemunhas instrumentárias que declarem conhecer o requerente e a situação de posse. Requisitos:\n— Maiores de idade, sem incapacidade\n— Não podem ser familiares do requerente em linha reta [■ VERIFICAR: restrições legais]",
+    "para": "**3. OS DECLARANTES**\nAs declarações do justificante são confirmadas por três declarantes (art. 96.º, n.º 1, do Código do Notariado), que devem conhecer o requerente e a situação de posse. Requisitos:\n— Não podem ser declarantes os que não podem ser testemunhas instrumentárias (art. 68.º, n.º 1, do Código do Notariado: entre outros, os menores não emancipados, quem não saiba ou não possa assinar, quem adquira vantagem patrimonial por efeito do ato e o cônjuge, os parentes e afins na linha reta ou em 2.º grau da linha colateral do notário ou de qualquer dos outorgantes), nem os demais excluídos pelo art. 84.º, aplicável por remissão do art. 96.º, n.º 2, do Código do Notariado",
+    "motivo": "Três declarantes, com as incapacidades e inabilidades dos arts. 68.º e 84.º do Código do Notariado.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=457&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "As testemunhas confirmam sob juramento ter conhecimento direto da situação descrita.",
+    "para": "Os três declarantes confirmam as declarações do justificante; os outorgantes são advertidos das penas aplicáveis ao crime de falsas declarações perante oficial público, devendo a advertência constar da escritura (art. 97.º do Código do Notariado).",
+    "motivo": "Não há juramento: há confirmação por três declarantes e a advertência do art. 97.º do Código do Notariado.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=457A0096&nid=457&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "— A escritura é publicada no Diário da República e afixada na Junta de Freguesia da área do imóvel\n— Prazo de impugnação: 30 dias após a publicação\n— Se não houver impugnação: o requerente pode registar a aquisição na CRP\n— Se houver impugnação: a via judicial (ação de usucapião) torna-se necessária",
+    "para": "— A escritura é publicada por meio de extrato, a passar no prazo de cinco dias a contar da sua celebração, num dos jornais mais lidos do concelho da situação do prédio ou, se aí não houver jornal, da região (art. 100.º do Código do Notariado)\n— Quem impugnar em juízo o facto justificado deve requerer ao tribunal a comunicação imediata ao notário da pendência da ação (art. 101.º, n.º 1, do Código do Notariado); as certidões da escritura só podem ser passadas decorridos 30 dias sobre a publicação do extrato, se nesse prazo não for recebida essa comunicação (n.º 2)\n— Se não for comunicada impugnação: passada a certidão, o requerente pode registar a aquisição na CRP\n— Se houver impugnação: o facto justificado é discutido na ação de impugnação e as certidões só podem ser passadas depois de averbada a decisão definitiva (art. 101.º, n.º 4, do Código do Notariado) [■ VERIFICAR: ónus da prova do justificante nessa ação]",
+    "motivo": "Publicação por extrato em jornal (art. 100.º) e regime de impugnação e de certidões do art. 101.º do Código do Notariado.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=457A0100&nid=457&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "Após o prazo de impugnação sem oposição, procede ao registo",
+    "para": "Decorridos 30 dias sobre a publicação sem comunicação de impugnação e obtida a certidão da escritura (art. 101.º, n.º 2, do Código do Notariado), procede ao registo",
+    "motivo": "O registo faz-se com a certidão, que só é passada nos termos do art. 101.º, n.º 2, do Código do Notariado.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=457A0101&nid=457&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "— Publicação no DR: [■ VERIFICAR]",
+    "para": "— Publicação do extrato em jornal: [■ VERIFICAR]",
+    "motivo": "A publicação é em jornal (art. 100.º do Código do Notariado).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=457A0100&nid=457&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Viabilidade da justificação notarial confirmada (sem registo em nome de terceiro, sem oposição)",
+    "para": "- [ ] Viabilidade da justificação notarial confirmada (inscrição matricial, situação registal, notificação prévia do titular inscrito se for o caso, oposição previsível)",
+    "motivo": "Adapta a verificação aos requisitos dos arts. 92.º e 99.º do Código do Notariado.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=457&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- [ ] Testemunhas instrumentárias identificadas e disponíveis",
+    "para": "- [ ] Três declarantes identificados e disponíveis (sem incapacidade ou inabilidade)",
+    "motivo": "Art. 96.º do Código do Notariado.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=457A0096&nid=457&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "**TESTEMUNHAS:**\n- [Nome 1, CC, relação]\n- [Nome 2, CC, relação]",
+    "para": "**DECLARANTES (três):**\n- [Nome 1, CC, relação]\n- [Nome 2, CC, relação]\n- [Nome 3, CC, relação]",
+    "motivo": "Art. 96.º, n.º 1, do Código do Notariado: três declarantes.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=457A0096&nid=457&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar se a publicação do extrato continua a fazer-se apenas em jornal (art. 100.º do Código do Notariado) ou se o cartório usa outro meio admitido.",
+   "Confirmar o alcance atual da advertência penal do art. 97.º do Código do Notariado, que foi apreciada pelo Tribunal Constitucional (Acórdão n.º 96/2015).",
+   "Confirmar a doutrina do AUJ do STJ n.º 1/2008 sobre o ónus da prova na ação de impugnação da justificação.",
+   "Ponderar o processo de justificação na conservatória (arts. 117.º-A e seguintes do Código do Registo Predial) como alternativa à escritura."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=457&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=457A0096&nid=457&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=457A0100&nid=457&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=457A0101&nid=457&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=488A0116&nid=488&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=488A0117A&nid=488&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=488A0005&nid=488&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=488A0007&nid=488&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+  ]
+ },
+ {
+  "codigo": "IMO-030",
+  "veredicto": "corrigida",
+  "resumo": "O texto-tipo do parecer dizia que o imóvel penhorado não pode ser vendido sem autorização do tribunal e que a compra é «nula ou anulável»; pelo art. 819.º CC, a venda é válida entre as partes mas inoponível à execução. Corrigi também os descritores errados: o art. 905.º CC não é «evicção» mas a anulabilidade da venda de bens onerados, o art. 879.º CC trata dos efeitos essenciais da compra e venda, a oponibilidade e a prioridade do registo estão nos arts. 5.º e 6.º do Código do Registo Predial (o art. 4.º é a eficácia entre as partes), a extinção da hipoteca está nos arts. 730.º e 731.º CC (não nos arts. 832.º e 833.º, cessão de bens aos credores) e os efeitos da penhora no art. 819.º CC (não no art. 786.º).",
+  "substituicoes": [
+   {
+    "de": "- Art. 879.º CC (efeitos da compra e venda — riscos ao comprador)",
+    "para": "- Art. 879.º CC (efeitos essenciais da compra e venda: transmissão da propriedade, obrigação de entregar a coisa e de pagar o preço)",
+    "motivo": "O art. 879.º CC enuncia os efeitos essenciais da compra e venda; não trata do risco.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0879&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Art. 905.º CC (evicção — proteção do comprador perante terceiros)",
+    "para": "- Art. 905.º CC (venda de bens onerados: anulabilidade por erro ou dolo, com o regime dos arts. 906.º a 912.º CC — convalescença do contrato, expurgação dos ónus e cancelamento dos registos, indemnização e redução do preço)",
+    "motivo": "O art. 905.º CC regula a venda de bens onerados (anulabilidade por erro ou dolo), não a «evicção».",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0905&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Art. 4.º CRPredial (oponibilidade — priority of register)",
+    "para": "- Arts. 5.º e 6.º CRPredial (oponibilidade a terceiros e prioridade do registo)",
+    "motivo": "O art. 4.º do Código do Registo Predial é a eficácia entre as partes; a oponibilidade e a prioridade estão nos arts. 5.º e 6.º.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=488A0005&nid=488&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Arts. 832.º e 833.º CC (extinção da hipoteca — distrate)",
+    "para": "- Arts. 730.º e 731.º CC (extinção da hipoteca, nomeadamente pela renúncia do credor, que deve ser expressa e constar de documento com a assinatura do renunciante reconhecida presencialmente — base do distrate e do cancelamento do registo)",
+    "motivo": "Os arts. 832.º e 833.º CC tratam da cessão de bens aos credores; a extinção e a renúncia à hipoteca estão nos arts. 730.º e 731.º CC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0730&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Art. 786.º CC (penhora — efeitos)",
+    "para": "- Art. 819.º CC (penhora: sem prejuízo das regras do registo, os atos de disposição, oneração ou arrendamento dos bens penhorados são inoponíveis à execução)",
+    "motivo": "O art. 786.º CC trata das presunções de cumprimento; os efeitos da penhora sobre a disposição do bem estão no art. 819.º CC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0819&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "Imóvel com penhora não pode ser transmitido sem autorização do tribunal ou sem levantamento da penhora. A compra de imóvel com penhora é nula ou anulável e o adquirente pode ser atingido pela execução.",
+    "para": "A penhora registada não impede a venda, que é válida entre as partes, mas, sem prejuízo das regras do registo, é inoponível à execução (art. 819.º CC): o adquirente recebe o imóvel sujeito à penhora e pode perdê-lo na venda executiva. A compra só é segura com o cancelamento da penhora assegurado antes ou na escritura.",
+    "motivo": "A venda de bem penhorado não é nula nem anulável nem depende de autorização do tribunal: é inoponível à execução (art. 819.º CC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0819&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar no processo executivo concreto os termos do levantamento e do cancelamento do registo da penhora (pagamento, extinção da execução ou substituição).",
+   "Confirmar, na data da escritura, a ordem das inscrições na certidão permanente (prioridade do registo, art. 6.º do Código do Registo Predial)."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0879&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0905&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0730&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0819&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=488A0004&nid=488&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=488A0005&nid=488&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+  ]
+ },
+ {
+  "codigo": "IMO-031",
+  "veredicto": "corrigida",
+  "resumo": "A checklist fundava a preferência do arrendatário no art. 1410.º CC (a ação de preferência) em vez do art. 1091.º CC, citava o DL 306/2007 (qualidade da água) como diploma da certificação energética, que é o DL 101-D/2020, exigia na escritura a licença de utilização e a ficha técnica da habitação, dispensadas desde 1/1/2024 pelo DL 10/2024, dizia que as quotas de condomínio em atraso «passam para o comprador» sem a regra do art. 1424.º-A CC e indicava um sítio inexistente para a certidão permanente. Corrigi esses pontos e o descritor «evicção» do art. 905.º CC.",
+  "substituicoes": [
+   {
+    "de": "- Há arrendatário que precisa de notificação para preferência (art. 1410.º CC)?",
+    "para": "- Há arrendatário com direito de preferência (local arrendado há mais de dois anos — art. 1091.º, n.º 1, al. a), CC), a quem deva ser feita a comunicação do art. 416.º CC, por carta registada com aviso de receção e com 30 dias para responder (art. 1091.º, n.º 4, CC)?",
+    "motivo": "O direito de preferência do arrendatário está no art. 1091.º CC; o art. 1410.º CC regula a ação de preferência.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1091&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- NRAU (preferência do arrendatário — art. 1410.º CC)",
+    "para": "- Código Civil (preferência do arrendatário — art. 1091.º CC; ação de preferência — art. 1410.º CC)",
+    "motivo": "A preferência do arrendatário está no Código Civil (art. 1091.º), não no NRAU.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1091&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "(venda de bens alheios — evicção)",
+    "para": "(venda de bens alheios — nulidade)",
+    "motivo": "A «evicção» não é figura do Código Civil português; a venda de bens alheios é nula.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0892&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- DL 306/2007 (certificação energética — SCE)",
+    "para": "- DL 101-D/2020, de 7 de dezembro (Sistema de Certificação Energética dos Edifícios — SCE; certificado obrigatório na venda — art. 18.º, n.º 1, al. e))",
+    "motivo": "O DL 306/2007 é o regime da qualidade da água para consumo humano; o SCE consta do DL 101-D/2020.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3359&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- DL 268/94 (dívidas de condomínio)",
+    "para": "- Art. 1424.º-A CC (declaração do administrador sobre encargos e dívidas da fração, documento instrutório obrigatório da escritura) e DL 268/94 (dívidas de condomínio)",
+    "motivo": "A responsabilidade pelas dívidas de condomínio na venda da fração rege-se pelo art. 1424.º-A CC (Lei 8/2022).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1424A&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "□ 1.1 Certidão permanente atualizada (predial.inci.pt) [RISCO ALTO se desatualizada]\n    — Onde: predial.inci.pt com código de acesso",
+    "para": "□ 1.1 Certidão permanente atualizada [RISCO ALTO se desatualizada]\n    — Onde: plataforma de serviços digitais de registo (conservatoria.justica.gov.pt), com código de acesso válido por seis meses",
+    "motivo": "O endereço indicado não é o serviço oficial da certidão permanente do registo predial.",
+    "fonte": "https://portugal.gov.pt/pt/gc25/comunicacao/comunicados/ministerio-da-justica-lanca-novo-servico-online-de-emissao-imediata-de-certidoes-de-registo-predial"
+   },
+   {
+    "de": "□ 4.1 Ausência de quotas de condomínio em atraso [RISCO MÉDIO — passam para o comprador]\n    — Solicitar declaração do administrador do condomínio",
+    "para": "□ 4.1 Ausência de quotas de condomínio em atraso [RISCO MÉDIO — as dívidas respondem segundo o momento em que deviam ter sido pagas, salvo se o comprador declarar na escritura que prescinde da declaração do administrador, aceitando então a responsabilidade por qualquer dívida do vendedor ao condomínio; os encargos que se vencem depois da transmissão são do novo proprietário — art. 1424.º-A, n.ºs 3 e 4, CC]\n    — Exigir ao vendedor a declaração do administrador sobre os encargos e as dívidas da fração, que é emitida em 10 dias e é documento instrutório obrigatório da escritura (art. 1424.º-A, n.ºs 1 e 2, CC)",
+    "motivo": "As dívidas de condomínio não passam, sem mais, para o comprador: art. 1424.º-A CC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1424A&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "verificar contrato, estado do arrendamento, notificar arrendatário para preferência (art. 1410.º CC)",
+    "para": "verificar contrato e estado do arrendamento (o comprador sucede na posição do senhorio — art. 1057.º CC) e comunicar ao arrendatário o projeto de venda para preferência (art. 1091.º CC, com a comunicação do art. 416.º CC)",
+    "motivo": "A preferência do arrendatário está no art. 1091.º CC; o arrendamento transmite-se ao comprador (art. 1057.º CC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1057&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "□ 6.3 Licença de utilização\n□ 6.4 Ficha técnica de habitação (se posterior a 2004)",
+    "para": "□ 6.3 Autorização de utilização — desde 1/1/2024 já não é exibida na escritura (DL 10/2024, arts. 24.º, al. b), e 26.º, al. f)), mas deve ser verificada no bloco 2 (uso legal do imóvel, financiamento)\n□ 6.4 Ficha técnica da habitação — também dispensada na escritura desde 1/1/2024 (revogação do art. 9.º do DL 68/2004 pelo art. 24.º, al. d), do DL 10/2024); pedir ao vendedor, se existir",
+    "motivo": "O DL 10/2024 revogou o DL 281/99 e o art. 9.º do DL 68/2004: a escritura deixou de exigir a autorização de utilização e a ficha técnica.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3737&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "□ 6.5 Certificado de desempenho energético e QAI (SCE) — obrigatório",
+    "para": "□ 6.5 Certificado energético (SCE — DL 101-D/2020) — obrigatório na venda; o notário ou quem autentica o documento consigna o seu número (art. 31.º)\n□ 6.5-A Declaração do administrador do condomínio sobre encargos e dívidas da fração (art. 1424.º-A, n.º 2, CC), salvo se o comprador declarar na escritura que prescinde dela (n.º 3)",
+    "motivo": "O SCE vigente (DL 101-D/2020) não tem o certificado de QAI; a declaração do condomínio é documento instrutório da escritura.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3359&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar se o RJUE, na redação do DL 108/2026, ou legislação posterior alterou de novo os documentos a exibir na escritura.",
+   "Confirmar, no caso concreto, se o arrendamento tem mais de dois anos (art. 1091.º, n.º 1, al. a), CC) e se há outros preferentes legais.",
+   "Confirmar a validade exigida na prática para a certidão permanente e para a caderneta predial na data da escritura."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1091&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0892&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3359&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1424A&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1057&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3737&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://portugal.gov.pt/pt/gc25/comunicacao/comunicados/ministerio-da-justica-lanca-novo-servico-online-de-emissao-imediata-de-certidoes-de-registo-predial",
+   "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cimt/Pages/cimt12.aspx"
+  ]
+ },
+ {
+  "codigo": "IMO-032",
+  "veredicto": "corrigida",
+  "resumo": "A ficha fazia incidir o Imposto do Selo sobre a hipoteca pela verba 17.3 TGIS e o valor do empréstimo, quando o crédito à habitação paga selo pela verba 17.1 (0,6 % para prazo igual ou superior a cinco anos), os juros pela verba 17.3.1 e a hipoteca constituída em simultâneo não é tributada à parte (verba 10); dizia que as tabelas do IMT são publicadas por portaria (estão no art. 17.º CIMT, atualizado pela Lei do Orçamento) e omitia o IMT Jovem (art. 9.º, n.ºs 2 a 5, CIMT). A suspeita de que o art. 9.º CIMT não seria a isenção da habitação própria e permanente estava errada: o n.º 1 é essa isenção.",
+  "substituicoes": [
+   {
+    "de": "— Habitação própria permanente até determinado valor: isenção ou redução [■ VERIFICAR: limites em vigor — atualizados anualmente].",
+    "para": "— Habitação própria permanente até determinado valor: isenção ou redução [■ VERIFICAR: limites em vigor — atualizados anualmente].\n— IMT Jovem: na primeira aquisição de habitação própria e permanente por quem tenha até 35 anos e não seja dependente para efeitos de IRS, isenção até ao limite do 1.º escalão da tabela da al. b) do n.º 1 do art. 17.º CIMT e tributação só do excedente por essa tabela (art. 9.º, n.ºs 2 a 5, CIMT), excluídos os que sejam ou tenham sido, nos três anos anteriores, titulares de prédio urbano habitacional (n.º 3); no Imposto do Selo há a dedução correspondente (art. 7.º-A do Código do Imposto do Selo) [■ VERIFICAR: limites em vigor].",
+    "motivo": "A ficha omitia a isenção do IMT Jovem (DL 48-A/2024).",
+    "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cimt/Pages/cimt9.aspx"
+   },
+   {
+    "de": "— Para hipoteca: verba 17.3 TGIS: [■ VERIFICAR taxa em vigor] × valor do empréstimo.",
+    "para": "— Para o crédito à habitação: verba 17.1 TGIS sobre o capital utilizado (0,6 % se o prazo for igual ou superior a cinco anos — verba 17.1.3), liquidado pelo banco; os juros pagam Imposto do Selo à parte (verba 17.3.1, 4 %); a hipoteca constituída em simultâneo com o crédito não é tributada autonomamente (verba 10 TGIS).",
+    "motivo": "A verba 17.3 incide sobre juros e comissões; o crédito é tributado pela verba 17.1 e a garantia simultânea está excluída da verba 10.",
+    "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/selo/Pages/ccod-selo-tabgiselo.aspx"
+   },
+   {
+    "de": "- Art. 9.º CIMT (isenções — habitação própria permanente até limite legal [■ VERIFICAR])",
+    "para": "- Art. 9.º CIMT (isenção da aquisição para habitação própria e permanente até ao limite do 1.º escalão — n.º 1; IMT Jovem — n.ºs 2 a 5) [■ VERIFICAR: limites em vigor]",
+    "motivo": "Acrescenta o IMT Jovem, previsto nos n.ºs 2 a 5 do art. 9.º CIMT.",
+    "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cimt/Pages/cimt9.aspx"
+   },
+   {
+    "de": "- Verba 17.3 TGIS (IS sobre hipoteca — [■ VERIFICAR taxa])",
+    "para": "- Verba 17.1 TGIS (IS sobre a utilização do crédito — 0,6 % no prazo igual ou superior a cinco anos, verba 17.1.3) e verba 10 TGIS (garantias, como a hipoteca: não tributadas quando materialmente acessórias do crédito tributado e constituídas em simultâneo)",
+    "motivo": "A verba aplicável ao capital do crédito é a 17.1, não a 17.3.",
+    "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/selo/Pages/ccod-selo-tabgiselo.aspx"
+   },
+   {
+    "de": "- IS na hipoteca (se aplicável)",
+    "para": "- IS sobre o crédito (se aplicável)",
+    "motivo": "A hipoteca simultânea não é tributada à parte (verba 10 TGIS).",
+    "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/selo/Pages/ccod-selo-tabgiselo.aspx"
+   },
+   {
+    "de": "[■ VERIFICAR: tabelas IMT em vigor para o ano de [ano] — publicadas por Portaria]",
+    "para": "[■ VERIFICAR: tabelas do art. 17.º CIMT em vigor para o ano de [ano] — atualizadas pela Lei do Orçamento do Estado (para 2026, pela Lei n.º 73-A/2025)]",
+    "motivo": "As tabelas do IMT constam do art. 17.º CIMT e são atualizadas pela Lei do Orçamento, não por portaria.",
+    "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cimt/Pages/cimt17.aspx"
+   },
+   {
+    "de": "IMT = €0,00 — ISENTO\"",
+    "para": "IMT = €0,00 — ISENTO\"\n\n[Se IMT Jovem (art. 9.º, n.ºs 2 a 5, CIMT):]\n\"Primeira aquisição de habitação própria e permanente por adquirente com idade igual ou inferior a 35 anos: isenção até €[limite do 1.º escalão da al. b) do n.º 1 do art. 17.º CIMT — VERIFICAR]; acima desse valor, IMT segundo a tabela da al. b) do n.º 1 do art. 17.º CIMT; Imposto do Selo com a dedução do art. 7.º-A do Código do Imposto do Selo.\"",
+    "motivo": "Acrescenta o cálculo do IMT Jovem.",
+    "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/selo/Pages/selo7a.aspx"
+   },
+   {
+    "de": "**3. IMPOSTO DO SELO — HIPOTECA (Verba 17.3 TGIS)** [Se aplicável]\nIS (hipoteca) = [■ VERIFICAR: taxa verba 17.3] × €[valor do empréstimo] = €[calcular]",
+    "para": "**3. IMPOSTO DO SELO — CRÉDITO À HABITAÇÃO (Verba 17.1 TGIS)** [Se aplicável]\nIS (crédito) = 0,6 % (verba 17.1.3, prazo igual ou superior a cinco anos) × €[valor do empréstimo] = €[calcular] — liquidado pelo banco; a hipoteca simultânea não paga selo autónomo (verba 10 TGIS); os juros pagam 4 % ao longo do contrato (verba 17.3.1)",
+    "motivo": "O selo do crédito é o da verba 17.1.3 sobre o capital; a verba 17.3 incide sobre juros e comissões.",
+    "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/selo/Pages/ccod-selo-tabgiselo.aspx"
+   },
+   {
+    "de": "| IS — Hipoteca | [valor ou \"N/A\"] |",
+    "para": "| IS — Crédito (verba 17.1.3) | [valor ou \"N/A\"] |",
+    "motivo": "A hipoteca simultânea não é tributada à parte.",
+    "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/selo/Pages/ccod-selo-tabgiselo.aspx"
+   },
+   {
+    "de": "- [ ] IS sobre hipoteca calculado (se aplicável)",
+    "para": "- [ ] IS sobre o crédito calculado (verba 17.1.3, se aplicável)",
+    "motivo": "Verba 17.1 TGIS.",
+    "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/selo/Pages/ccod-selo-tabgiselo.aspx"
+   },
+   {
+    "de": "- Pessoa singular ou coletiva: [singular / coletiva]",
+    "para": "- Pessoa singular ou coletiva: [singular / coletiva]\n- Idade e primeira aquisição de habitação própria e permanente (IMT Jovem): [idade / sim ou não]",
+    "motivo": "Dados necessários para o IMT Jovem (art. 9.º, n.ºs 2 e 3, CIMT).",
+    "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cimt/Pages/cimt9.aspx"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar se o crédito beneficia de alguma isenção de Imposto do Selo no caso concreto e se o banco liquida o selo do capital de uma só vez.",
+   "Confirmar os limites de 2026 da tabela do art. 17.º CIMT e as tabelas próprias das Regiões Autónomas, quando o imóvel aí se situe."
+  ],
+  "fontes": [
+   "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cimt/Pages/cimt9.aspx",
+   "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cimt/Pages/cimt12.aspx",
+   "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cimt/Pages/cimt17.aspx",
+   "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/selo/Pages/ccod-selo-tabgiselo.aspx",
+   "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/selo/Pages/selo7a.aspx"
+  ]
+ },
+ {
+  "codigo": "IMO-033",
+  "veredicto": "corrigida",
+  "resumo": "A ficha apresentava a autorização do senhorio como possível condição da cessão de exploração, quando o art. 1109.º, n.º 2, CC a dispensa e exige apenas comunicação no prazo de um mês; citava o art. 1118.º CC (revogado) para a resolução e o art. 285.º CC (invalidade do negócio) para a distinção entre trespasse e cessão; e admitia a «exclusão expressa» da transmissão dos trabalhadores, que o art. 285.º CT impõe também na cessão da exploração. Corrigi esses pontos e o descritor dos arts. 1109.º e 1112.º CC.",
+  "substituicoes": [
+   {
+    "de": "— Verifica se o estabelecimento está instalado em espaço arrendado — a cessão pode estar sujeita a autorização do senhorio (arts. 1109.º e 1112.º CC).",
+    "para": "— Verifica se o estabelecimento está instalado em espaço arrendado — a cessão de exploração não carece de autorização do senhorio, mas deve ser-lhe comunicada no prazo de um mês; o trespasse também dispensa autorização, mas exige forma escrita, comunicação ao senhorio e dá-lhe direito de preferência no trespasse por venda ou dação em cumprimento (arts. 1109.º e 1112.º CC).",
+    "motivo": "O art. 1109.º, n.º 2, CC dispensa a autorização do senhorio na locação de estabelecimento, exigindo comunicação no prazo de um mês.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1109&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- É necessária autorização prévia do senhorio?",
+    "para": "- Foi (ou será) feita a comunicação ao senhorio no prazo de um mês (art. 1109.º, n.º 2, CC)? O contrato de arrendamento restringe o fim ou o uso do locado?",
+    "motivo": "A cessão de exploração não depende de autorização do senhorio.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1109&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Arts. 1109.º e 1112.º CC (subarrendamento e cessão em espaço arrendado)",
+    "para": "- Arts. 1109.º e 1112.º CC (locação de estabelecimento — cessão de exploração — e trespasse em local arrendado)",
+    "motivo": "Os arts. 1109.º e 1112.º CC regulam a locação de estabelecimento e a transmissão da posição do arrendatário, não o subarrendamento.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1112&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Arts. 1118.º e ss. CC (resolução por incumprimento do arrendatário)",
+    "para": "- Art. 1083.º, n.º 2, al. e), CC (resolução do arrendamento pelo senhorio quando a cessão do gozo do prédio seja ilícita, inválida ou ineficaz perante ele) [■ VERIFICAR: efeitos da falta de comunicação no prazo do art. 1109.º, n.º 2, CC]",
+    "motivo": "O art. 1118.º CC está revogado; a resolução do arrendamento por cessão ilícita ou ineficaz está no art. 1083.º, n.º 2, al. e), CC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1083&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Código Comercial — arts. 230.º e ss. (atos de comércio, estabelecimento)",
+    "para": "- Código Comercial — arts. 230.º e ss. [■ VERIFICAR: estas normas qualificam as empresas comerciais e não regulam a cessão de exploração do estabelecimento, que segue o art. 1109.º CC]",
+    "motivo": "O Código Comercial não regula a cessão de exploração; os atos de comércio estão no art. 2.º desse Código.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1109&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Art. 285.º CC (trespasse vs. cessão de exploração — diferença)",
+    "para": "- Art. 1109.º, n.º 1, CC (cessão de exploração: transferência temporária e onerosa do gozo do prédio com a exploração do estabelecimento) e art. 1112.º, n.º 2, CC (casos em que não há trespasse) — distinção entre trespasse e cessão de exploração",
+    "motivo": "O art. 285.º CC é a disposição geral sobre a invalidade do negócio jurídico; a distinção resulta dos arts. 1109.º e 1112.º CC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1112&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "Identificação do contrato de arrendamento subjacente; autorização do senhorio (se obtida); responsabilidade pelo pagamento da renda durante a cessão.",
+    "para": "Identificação do contrato de arrendamento subjacente; comunicação da cessão ao senhorio no prazo de um mês, que não depende da sua autorização (art. 1109.º, n.º 2, CC), e quem a faz; responsabilidade pelo pagamento da renda durante a cessão.",
+    "motivo": "Art. 1109.º, n.º 2, CC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1109&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "Regime de transmissão de trabalhadores nos termos do art. 285.º CT [■ VERIFICAR: aplicabilidade] ou exclusão expressa com fundamentação.",
+    "para": "Transmissão para o cessionário da posição de empregador nos contratos de trabalho dos trabalhadores afetos ao estabelecimento, que a lei impõe também na cessão e na reversão da exploração e que as partes não podem afastar por cláusula do contrato (art. 285.º CT), com responsabilidade solidária de quem explorava imediatamente antes (n.º 2 do mesmo artigo) e do transmitente pelos créditos vencidos até à cessão, durante os dois anos seguintes (n.º 6); informação e consulta dos trabalhadores e seus representantes (art. 286.º CT) e direito de oposição do trabalhador (art. 286.º-A CT).",
+    "motivo": "O art. 285.º, n.º 2, CT aplica a transmissão dos contratos de trabalho à cessão e à reversão da exploração; não há «exclusão expressa» por acordo.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0285&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Autorização do senhorio obtida (se espaço arrendado)",
+    "para": "- [ ] Comunicação ao senhorio no prazo de um mês prevista (se espaço arrendado — art. 1109.º, n.º 2, CC)",
+    "motivo": "A cessão de exploração não depende de autorização do senhorio.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1109&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar se o contrato de arrendamento contém cláusulas sobre o uso do locado ou a cessão do gozo que condicionem a cessão de exploração.",
+   "Confirmar o enquadramento em IVA da contrapartida: a locação de imóvel de que resulte a transferência onerosa da exploração de estabelecimento não beneficia da isenção (art. 9.º, n.º 29, al. c), do CIVA)."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1109&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1112&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1083&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1118&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0285&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0285&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/civa_rep/Pages/iva9.aspx"
+  ]
+ },
+ {
+  "codigo": "IMO-038",
+  "veredicto": "corrigida",
+  "resumo": "A ficha descrevia o alojamento local anterior ao DL 76/2024: oposição dos condóminos num inexistente art. 9.º-A RJAL por maioria de três quartos, «cessação obrigatória em 60 dias», transmissão do título num inexistente art. 7.º-A, segurança pela Portaria 517/2008 (regime anterior a 2014), registo pelo «Balcão do Empreendedor» e isenção de IVA pelo art. 9.º CIVA. Corrigi segundo o DL 128/2014 na redação do DL 76/2024: oposição por mais de metade da permilagem e decisão do presidente da câmara (art. 9.º), proibição por dois terços da permilagem (art. 6.º-B), áreas de contenção e de crescimento sustentável no regulamento municipal (arts. 15.º-A a 15.º-C), requisitos de segurança do art. 13.º, seguro obrigatório (art. 13.º-A) e isenção de IVA apenas pelo art. 53.º CIVA; atualizei também a descrição do índice, que citava um inexistente DL 24/2021.",
+  "descricao": "Orienta o processo de registo de estabelecimento de alojamento local (AL) ao abrigo do Decreto-Lei n.º 128/2014, de 29 de agosto (RJAL), alterado por último pelo Decreto-Lei n.º 76/2024, de 23 de outubro, incluindo as áreas de contenção e de crescimento sustentável definidas em regulamento municipal e a oposição dos condóminos.",
+  "descricao_en": "Guides the process of registering a local accommodation (alojamento local, AL) establishment under Decree-Law No. 128/2014 of 29 August (RJAL), as last amended by Decree-Law No. 76/2024 of 23 October, including the containment and sustainable growth areas set by municipal regulation and opposition by the condominium owners.",
+  "substituicoes": [
+   {
+    "de": "- Modalidade pretendida: apartamento, moradia, quartos, hostel (art. 3.º RJAL)",
+    "para": "- Modalidade pretendida: moradia, apartamento, estabelecimento de hospedagem (incluindo hostel) ou quartos (art. 3.º RJAL)",
+    "motivo": "O hostel é uma forma de estabelecimento de hospedagem, não uma modalidade autónoma (art. 3.º, n.ºs 1, 5 e 6, RJAL).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3085&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Localização: Área de Contenção declarada pela câmara municipal?",
+    "para": "- Localização: área de contenção ou de crescimento sustentável prevista no regulamento municipal de AL, ou suspensão temporária de novos registos (arts. 15.º-A a 15.º-C RJAL)?",
+    "motivo": "Desde o DL 76/2024, as áreas são definidas no regulamento municipal (art. 15.º-A RJAL).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3085&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Registo obrigatório: art. 6.º RJAL (comunicação prévia ao município via Balcão do Empreendedor)",
+    "para": "- Registo obrigatório: arts. 5.º e 6.º RJAL (comunicação prévia com prazo dirigida ao presidente da câmara municipal, apresentada exclusivamente no Balcão Único Eletrónico; o presidente da câmara pode opor-se em 60 dias, ou em 90 dias em área de contenção — art. 6.º, n.º 9)",
+    "motivo": "A comunicação prévia com prazo é feita exclusivamente no Balcão Único Eletrónico (art. 5.º, n.º 2, RJAL), com prazo de oposição do art. 6.º, n.º 9.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3085&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Áreas de Contenção: art. 15.º-A RJAL (municípios podem suspender novos registos)",
+    "para": "- Áreas de contenção e de crescimento sustentável: arts. 15.º-A a 15.º-C RJAL (definidas no regulamento municipal de AL, que pode limitar ou condicionar novos registos; até à entrada em vigor do regulamento, a assembleia municipal pode suspender novos registos em áreas delimitadas por um ano, no máximo — art. 15.º-B, n.º 2)",
+    "motivo": "Regime das áreas de contenção e de crescimento sustentável na redação do DL 76/2024.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3085&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Oposição de condóminos: art. 9.º-A RJAL (maioria de ¾ do capital do condomínio)\n- Efeitos da oposição: cessação obrigatória do AL no prazo de 60 dias (n.º 5)\n- Transmissão do título: art. 7.º-A RJAL",
+    "para": "- Oposição de condóminos: art. 9.º, n.º 2, RJAL (deliberação fundamentada da assembleia, aprovada por mais de metade da permilagem do edifício, com base na prática reiterada e comprovada de atos que perturbem a normal utilização do prédio ou causem incómodo e afetem o descanso dos condóminos, pedindo decisão ao presidente da câmara)\n- Proibição do AL no título constitutivo, no regulamento do condomínio ou por deliberação posterior aprovada por dois terços da permilagem, esta só para os pedidos de registo posteriores (art. 6.º-B, n.ºs 4 e 5, RJAL)\n- Efeitos da oposição: o presidente da câmara decide o cancelamento do registo, precedido de audiência prévia (art. 9.º, n.ºs 1 e 5), podendo antes convidar as partes a um acordo, em procedimento a concluir em 60 dias (n.ºs 12 e 13); o cancelamento determina a cessação imediata da exploração e pode impedir a exploração do imóvel como AL pelo período fixado na decisão, até cinco anos (n.ºs 6 e 8)\n- Transmissão do registo: a regra que tornava o número de registo pessoal e intransmissível (art. 7.º, n.ºs 2 a 4, RJAL, na redação da Lei 56/2023) foi revogada pelo DL 76/2024; o regulamento municipal pode limitar a transmissibilidade dos novos registos nas áreas de contenção (art. 15.º-B, n.º 1, al. e)) [■ VERIFICAR: regulamento municipal aplicável]",
+    "motivo": "Os arts. 9.º-A e 7.º-A não existem; a oposição dos condóminos e os seus efeitos estão no art. 9.º e a proibição no art. 6.º-B RJAL.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3085&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Regime fiscal: categoria F ou B IRS, IVA (isenção art. 9.º CIVA ou tributação)",
+    "para": "- Regime fiscal: IRS, categoria B [■ VERIFICAR: opção pelas regras da categoria F e coeficientes do regime simplificado]; IVA: o alojamento não beneficia da isenção da locação de imóveis (art. 9.º, n.º 29, al. a), CIVA) — só há isenção no regime especial do art. 53.º CIVA (volume de negócios no ano civil anterior não superior a 15 000 €); acima, liquida-se IVA [■ VERIFICAR: taxa aplicável]",
+    "motivo": "O art. 9.º, n.º 29, al. a), CIVA exclui da isenção o alojamento em atividade hoteleira ou análoga; a isenção possível é a do art. 53.º CIVA.",
+    "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/civa_rep/Pages/iva9.aspx"
+   },
+   {
+    "de": "- Requisitos de segurança: Portaria n.º 517/2008 (equipamentos de segurança)",
+    "para": "- Requisitos de segurança: art. 13.º RJAL (regras de segurança contra incêndio em edifícios do DL 220/2008 ou, com capacidade até 10 utentes, extintor e manta de incêndio, equipamento de primeiros socorros e indicação do número 112); a Portaria n.º 517/2008 pertence ao regime anterior ao DL 128/2014\n- Seguro obrigatório de responsabilidade civil extracontratual, com capital mínimo de 75 000 € por sinistro (art. 13.º-A RJAL); a falta de seguro válido é fundamento de cancelamento do registo (art. 9.º, n.º 1, al. d))",
+    "motivo": "Os requisitos de segurança constam do art. 13.º RJAL; faltava o seguro obrigatório do art. 13.º-A.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3085&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "**B) Se resposta a oposição de condóminos:** comunicação fundamentada a contestar ou aceitar a oposição, com prazos.",
+    "para": "**B) Se resposta a oposição de condóminos:** pronúncia em audiência prévia no procedimento de cancelamento do registo conduzido pelo presidente da câmara, ou proposta de acordo com compromissos e condições (art. 9.º, n.ºs 1, 4, 5, 12 e 13, RJAL).",
+    "motivo": "Quem decide é o presidente da câmara, com audiência prévia e possibilidade de acordo (art. 9.º RJAL).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3085&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- [ ] Requisitos de segurança verificados (extintores, detetor de fumo, kit de primeiros socorros)",
+    "para": "- [ ] Requisitos de segurança verificados (art. 13.º RJAL: extintor e manta de incêndio, equipamento de primeiros socorros e indicação do 112, ou o regime geral de segurança contra incêndio acima de 10 utentes)\n- [ ] Seguro de responsabilidade civil obrigatório em vigor (art. 13.º-A RJAL)",
+    "motivo": "Lista do art. 13.º, n.º 2, RJAL e seguro do art. 13.º-A.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3085&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar no município o regulamento de AL em vigor, as áreas de contenção ou de crescimento sustentável e eventuais suspensões de novos registos.",
+   "Confirmar se houve alteração ao DL 128/2014 posterior ao DL 76/2024 (ou prorrogação de prazos para os municípios) em 2025 ou 2026.",
+   "Confirmar a opção pelas regras da categoria F e os coeficientes do regime simplificado de IRS aplicáveis à modalidade."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3085&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_busca_art_velho.php?nid=3085&artigonum=3085A0007&n_versao=3&so_miolo=",
+   "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/civa_rep/Pages/iva9.aspx",
+   "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/civa_rep/Pages/artigo-53-o-do-civa.aspx"
+  ]
+ },
+ {
+  "codigo": "IMO-040",
+  "veredicto": "corrigida",
+  "resumo": "A ficha dava à denúncia para habitação própria um pré-aviso de dois anos (são seis meses, art. 1103.º, n.º 1, CC), punha a denúncia para obras na al. c) do art. 1101.º CC (é a al. b); a al. c) é a denúncia sem fundamento com cinco anos de antecedência, que faltava), reduzia a oposição à renovação a 120 ou 240 dias, sem os 60 dias, o terço do prazo e a regra dos três anos na primeira renovação (art. 1097.º, n.ºs 1 a 4), e fundava a proteção dos arrendatários idosos ou com deficiência num inexistente «art. 1091.º e ss. NRAU» (arts. 26.º, 28.º e 36.º NRAU). Completei os requisitos e as indemnizações dos arts. 1102.º e 1103.º CC, o regime dos contratos não habitacionais (art. 1110.º CC) e corrigi a descrição do índice, que invocava o art. 1098.º CC (oposição e denúncia pelo arrendatário).",
+  "descricao": "Elabora comunicação de denúncia ou de oposição à renovação do contrato de arrendamento pelo senhorio, ao abrigo dos arts. 1097.º e 1101.º a 1103.º do Código Civil e do NRAU, com as antecedências legalmente exigidas conforme a duração do contrato e o fundamento da denúncia.",
+  "descricao_en": "Prepares the landlord's notice of termination (denúncia) or of opposition to renewal of the lease agreement, under Arts. 1097 and 1101 to 1103 of the Civil Code and the NRAU, with the notice periods required by law according to the duration of the contract and the ground for termination.",
+  "substituicoes": [
+   {
+    "de": "- Oposição à renovação pelo senhorio: art. 1097.º CC (pré-aviso de 120 ou 240 dias consoante a duração)",
+    "para": "- Oposição à renovação pelo senhorio: art. 1097.º CC (antecedência mínima, reportada ao termo do prazo inicial ou da renovação, de 240 dias se o prazo for igual ou superior a seis anos, 120 dias se for de um a seis anos, 60 dias se for de seis meses a um ano, ou um terço do prazo se inferior a seis meses — n.ºs 1 e 2; a oposição à primeira renovação só produz efeitos decorridos três anos da celebração, mantendo-se o contrato em vigor até essa data, salvo necessidade de habitação do senhorio ou de descendente em 1.º grau — n.ºs 3 e 4)",
+    "motivo": "O art. 1097.º CC prevê quatro antecedências e a regra dos três anos na primeira renovação.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1097&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Denúncia para habitação própria: art. 1101.º CC (pré-aviso de 2 anos; requisitos formais estritos)",
+    "para": "- Denúncia para habitação própria: art. 1101.º CC, al. a) (só nos contratos de duração indeterminada; comunicação com antecedência não inferior a seis meses sobre a data pretendida para a desocupação e com indicação expressa do fundamento, sob pena de ineficácia — art. 1103.º, n.º 1, CC; requisitos do art. 1102.º CC; da denúncia não pode resultar duração total do contrato inferior a dois anos — art. 1103.º, n.º 10, CC)",
+    "motivo": "A antecedência da denúncia justificada é de seis meses (art. 1103.º, n.º 1, CC); os dois anos do art. 1102.º são o tempo mínimo de titularidade do senhorio.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1103&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Denúncia para obras de demolição/reabilitação profunda: art. 1101.º CC, al. c)",
+    "para": "- Denúncia para obras de demolição/reabilitação profunda: art. 1101.º CC, al. b) (comunicação com seis meses de antecedência, acompanhada do comprovativo do início do procedimento de controlo prévio da operação urbanística e do termo de responsabilidade do técnico autor do projeto, e depois confirmada com o título da operação urbanística — art. 1103.º, n.ºs 1 a 4, CC; indemnização de dois anos de renda ou realojamento por período não inferior a três anos — n.ºs 6 a 8; legislação especial: DL 157/2006)\n- Denúncia sem fundamento: art. 1101.º, al. c), CC (comunicação com antecedência não inferior a cinco anos sobre a data pretendida para a cessação)",
+    "motivo": "A denúncia para obras é a al. b) do art. 1101.º CC; a al. c) é a denúncia sem fundamento com cinco anos de antecedência.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1101&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Regime de proteção de arrendatários com mais de 65 anos ou deficiência ≥ 60%: art. 1091.º e ss. NRAU",
+    "para": "- Proteção de arrendatários com idade igual ou superior a 65 anos ou deficiência com grau de incapacidade igual ou superior a 60 % nos contratos anteriores ao NRAU: a denúncia sem fundamento do art. 1101.º, al. c), CC não se aplica aos contratos sem duração limitada celebrados na vigência do RAU com esses arrendatários (art. 26.º, n.º 4, al. c), NRAU) nem aos contratos para habitação celebrados antes do RAU (art. 28.º, n.º 2, NRAU); nos contratos que transitaram para o NRAU nos termos dos arts. 30.º e seguintes, o arrendatário que tivesse essa idade ou deficiência à data da transição e resida no locado há mais de 15 anos só pode ver a renovação recusada com o fundamento da al. b) do art. 1101.º CC (art. 36.º, n.º 10, NRAU)",
+    "motivo": "Não existe «art. 1091.º NRAU»; a proteção destes arrendatários está nos arts. 26.º, 28.º e 36.º NRAU.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=691A0026&nid=691&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Indemnização devida ao arrendatário em caso de denúncia para habitação própria (art. 1102.º CC)",
+    "para": "- Indemnização devida ao arrendatário em caso de denúncia para habitação própria: um ano de renda (art. 1102.º, n.º 1, CC), além dos requisitos de titularidade e de falta de casa própria; o senhorio deve dar ao locado a utilização invocada em três meses e por, pelo menos, dois anos, sob pena de indemnização de dez anos de renda, salvo motivo que não lhe seja imputável (art. 1103.º, n.ºs 5 e 9, CC)",
+    "motivo": "Concretiza o montante (art. 1102.º, n.º 1, CC) e as obrigações posteriores do senhorio (art. 1103.º, n.ºs 5 e 9, CC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1102&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Forma da comunicação: carta registada com aviso de receção (art. 9.º NRAU)",
+    "para": "- Forma da comunicação: escrito assinado, enviado por carta registada com aviso de receção (art. 9.º, n.º 1, NRAU) ou entregue em mão, com nota de receção assinada pelo destinatário na cópia (n.º 6)\n- Contratos não habitacionais: duração, denúncia e oposição à renovação livremente estipuladas, com aplicação supletiva das regras da habitação; nos cinco primeiros anos após o início do contrato o senhorio não pode opor-se à renovação (art. 1110.º CC)",
+    "motivo": "Acrescenta a entrega em mão (art. 9.º, n.º 6, NRAU) e o regime dos contratos não habitacionais (art. 1110.º CC), que a ficha abrange.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1110&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "Estrutura idêntica, com fundamentação de necessidade habitacional própria ou para descendente de 1.º grau, pré-aviso de 2 anos e indicação da indemnização devida.",
+    "para": "Estrutura idêntica, só para contratos de duração indeterminada (nos de prazo certo, ver o art. 1097.º, n.º 4, CC), com indicação expressa do fundamento — necessidade de habitação própria ou de descendente em 1.º grau —, antecedência não inferior a seis meses sobre a data da desocupação (art. 1103.º, n.º 1, CC) e indicação da indemnização de um ano de renda (art. 1102.º, n.º 1, CC).",
+    "motivo": "A antecedência é de seis meses e a indemnização de um ano de renda.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1103&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "**C) DENÚNCIA PARA OBRAS (art. 1101.º, al. c), CC)**\nIdentificar licença de obras, comunicar pré-aviso e direito de preferência do arrendatário na readmissão.",
+    "para": "**C) DENÚNCIA PARA OBRAS (art. 1101.º, al. b), CC)**\nComunicar com antecedência não inferior a seis meses, juntando o comprovativo de que foi iniciado o procedimento de controlo prévio da operação urbanística e o termo de responsabilidade do técnico autor do projeto (art. 1103.º, n.ºs 1 e 2, CC); confirmar depois a denúncia com o alvará de licença ou o título da comunicação prévia (n.ºs 3 e 4); indicar a indemnização de dois anos de renda ou o realojamento por período não inferior a três anos (n.ºs 6 a 8) e o direito de preferência do arrendatário em novo arrendamento durante dois anos (art. 9.º-A do DL 157/2006).\n\n**D) DENÚNCIA SEM FUNDAMENTO (art. 1101.º, al. c), CC)**\nSó nos contratos de duração indeterminada, com antecedência não inferior a cinco anos sobre a data pretendida para a cessação; verificar se o contrato é anterior ao NRAU (arts. 26.º, n.º 4, al. c), e 28.º, n.º 2, NRAU).",
+    "motivo": "A denúncia para obras é a al. b) do art. 1101.º CC, com os documentos e as indemnizações do art. 1103.º; a preferência é em novo arrendamento (art. 9.º-A do DL 157/2006).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=912&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- [ ] Data de envio da carta garante cumprimento do pré-aviso legal",
+    "para": "- [ ] Data de envio da carta garante cumprimento do pré-aviso legal (e, na oposição à primeira renovação, o contrato só cessa decorridos três anos da celebração — art. 1097.º, n.º 3, CC)",
+    "motivo": "Regra do art. 1097.º, n.º 3, CC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1097&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Tipo de comunicação: [oposição à renovação / denúncia habitação própria / denúncia para obras]",
+    "para": "- Tipo de comunicação: [oposição à renovação / denúncia habitação própria / denúncia para obras / denúncia sem fundamento com cinco anos de antecedência]",
+    "motivo": "Acrescenta a denúncia do art. 1101.º, al. c), CC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1101&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar a data de celebração do contrato e o regime transitório aplicável (RAU ou anterior) antes de escolher a via de cessação.",
+   "Na denúncia para obras, confirmar os requisitos do DL 157/2006 em vigor e o título urbanístico exigível.",
+   "Confirmar a data de receção da carta para contar as antecedências (art. 1097.º, n.º 2, CC)."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1097&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1101&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1102&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1103&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1110&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=691A0009&nid=691&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=691A0026&nid=691&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=691A0028&nid=691&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=691A0036&nid=691&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=912&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+  ]
+ },
+ {
+  "codigo": "IMO-044",
+  "veredicto": "corrigida",
+  "resumo": "A ficha dava como prazo de reinvestimento «o ano anterior, o próprio ano ou até 2 anos seguintes», quando o art. 10.º, n.º 5, al. b), CIRS fixa os 24 meses anteriores e os 36 posteriores; tributava a 100 % os terrenos para construção, quando a regra é 50 % e o saldo só é considerado por inteiro no caso de apoio público do art. 43.º, n.º 2, al. a); usava a numeração do art. 10.º anterior ao DL 97/2026 (o reinvestimento de reformados e maiores de 65 anos está agora nos n.ºs 10 e 11, e não abrange «PPR» como tal); remetia o valor de aquisição para o art. 44.º (valor de realização) e apresentava o regime de 1989 como isenção geral. Corrigi segundo os arts. 10.º, 43.º, 45.º, 46.º e 50.º CIRS e o art. 5.º do DL 442-A/88.",
+  "substituicoes": [
+   {
+    "de": "- Isenção pré-1989: bens adquiridos antes de 1 de janeiro de 1989 estão isentos (art. 5.º DL 442-A/88)",
+    "para": "- Regime transitório pré-1989 (art. 5.º do DL 442-A/88): não ficam sujeitos a IRS os ganhos que não estavam sujeitos ao antigo imposto de mais-valias, se a aquisição for anterior a 1 de janeiro de 1989 — o que exclui os terrenos para construção, cujos ganhos já eram tributados nesse imposto (entendimento da AT; há jurisprudência divergente sobre o momento relevante para qualificar o prédio)",
+    "motivo": "O art. 5.º do DL 442-A/88 não isenta todos os imóveis adquiridos antes de 1989: excluídos ficam os ganhos que já eram tributados em imposto de mais-valias, como os de terrenos para construção.",
+    "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/informacoes_vinculativas/rendimento/cirs/Documents/PIV_22122.pdf"
+   },
+   {
+    "de": "- Valor de aquisição: art. 44.º CIRS (compra = preço escriturado; herança = VPT à data da transmissão)",
+    "para": "- Valor de aquisição: arts. 45.º e 46.º CIRS (aquisição onerosa = valor que serviu de base à liquidação do IMT, ou que lhe serviria de base se não fosse devido — art. 46.º, n.ºs 1 e 2; herança ou doação = valor considerado para a liquidação do Imposto do Selo, ou que lhe serviria de base — art. 45.º)",
+    "motivo": "O art. 44.º CIRS é o valor de realização; o valor de aquisição está nos arts. 45.º e 46.º e não é o preço escriturado, mas o valor do IMT.",
+    "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cirs_rep/Pages/irs46.aspx"
+   },
+   {
+    "de": "- Correção monetária: art. 50.º CIRS (coeficiente de desvalorização monetária publicado anualmente)",
+    "para": "- Correção monetária: art. 50.º CIRS (coeficientes aprovados por portaria, aplicáveis quando tenham decorrido mais de 24 meses entre a aquisição e a alienação)",
+    "motivo": "A correção monetária só se aplica se tiverem decorrido mais de 24 meses (art. 50.º, n.º 1, CIRS).",
+    "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cirs_rep/Pages/irs50.aspx"
+   },
+   {
+    "de": "- Tributação: 50% da mais-valia englobada (art. 43.º, n.º 2, CIRS) ou 100% se terreno para construção",
+    "para": "- Tributação: saldo considerado em 50 % e englobado (art. 43.º, n.º 2, al. b), CIRS); considerado por inteiro só quando o imóvel tenha beneficiado de apoio público não reembolsável superior a 30 % do VPT e seja vendido antes de decorridos 10 anos (al. a))",
+    "motivo": "A regra dos 50 % abrange os terrenos para construção; a tributação por inteiro é só a do art. 43.º, n.º 2, al. a), CIRS.",
+    "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cirs_rep/Pages/irs43.aspx"
+   },
+   {
+    "de": "- Reinvestimento em habitação: art. 10.º, n.ºs 5 a 7, CIRS (exclusão total ou parcial)\n- Reinvestimento em PPR: art. 10.º, n.º 9, CIRS (novidade 2023)",
+    "para": "- Reinvestimento em habitação própria e permanente: art. 10.º, n.ºs 5 e 6, CIRS (exclusão total ou, se o reinvestimento for parcial, proporcional — n.º 12)\n- Reinvestimento noutros imóveis destinados a arrendamento habitacional com renda dentro dos limites do DL 97/2026: art. 10.º, n.ºs 7 a 9, CIRS (transmissões de 1 de janeiro de 2026 a 31 de dezembro de 2029)\n- Reinvestimento por reformados ou maiores de 65 anos (sujeito passivo, cônjuge ou unido de facto) em seguro financeiro do ramo vida, fundo de pensões aberto, regime público de capitalização ou Produto Individual de Poupança Pan-Europeu, nos seis meses seguintes à venda da habitação própria e permanente: art. 10.º, n.ºs 10 e 11, CIRS (numeração do DL 97/2026)",
+    "motivo": "O DL 97/2026 renumerou o art. 10.º CIRS e aditou o reinvestimento em imóveis para arrendamento; o regime dos maiores de 65 anos abrange produtos enumerados na lei, não «PPR» em geral.",
+    "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cirs_rep/Pages/irs10.aspx"
+   },
+   {
+    "de": "**9. Mais-valia tributável (50%):** [€] (ou 100% se terreno)",
+    "para": "**9. Mais-valia tributável (50%):** [€] (100 % só no caso do art. 43.º, n.º 2, al. a), CIRS)",
+    "motivo": "Os terrenos para construção seguem a regra dos 50 %.",
+    "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cirs_rep/Pages/irs43.aspx"
+   },
+   {
+    "de": "- Prazo: reinvestimento no ano anterior, no próprio ano ou até 2 anos seguintes (art. 10.º, n.º 6, CIRS)",
+    "para": "- Prazo: reinvestimento entre os 24 meses anteriores e os 36 meses posteriores à data da realização (art. 10.º, n.º 5, al. b), CIRS), com a intenção de reinvestir declarada na declaração do ano da alienação (al. c)); o imóvel vendido tem de ter sido habitação própria e permanente nos 12 meses anteriores (al. e)) e o adquirido tem de ser afeto à habitação própria e permanente nos 12 meses seguintes ao reinvestimento (n.º 6, al. a))",
+    "motivo": "O prazo de reinvestimento é de 24 meses antes a 36 meses depois da realização (art. 10.º, n.º 5, al. b), CIRS).",
+    "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cirs_rep/Pages/irs10.aspx"
+   },
+   {
+    "de": "- [ ] Data de aquisição anterior a 1989 verificada (se aplicável: isenção total)",
+    "para": "- [ ] Data de aquisição anterior a 1989 verificada (se aplicável: não sujeição pelo regime transitório do art. 5.º do DL 442-A/88, salvo terrenos para construção)",
+    "motivo": "O regime de 1989 não abrange os terrenos para construção.",
+    "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/informacoes_vinculativas/rendimento/cirs/Documents/PIV_22122.pdf"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar, no caso de imóvel adquirido antes de 1989, a natureza do prédio à data relevante, dada a divergência entre a AT e a jurisprudência do STA.",
+   "Confirmar os limites de renda do DL 97/2026 antes de recorrer ao reinvestimento do art. 10.º, n.ºs 7 a 9, CIRS.",
+   "Confirmar o coeficiente de desvalorização monetária da portaria do ano da alienação."
+  ],
+  "fontes": [
+   "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cirs_rep/Pages/irs10.aspx",
+   "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cirs_rep/Pages/irs43.aspx",
+   "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cirs_rep/Pages/irs45.aspx",
+   "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cirs_rep/Pages/irs46.aspx",
+   "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cirs_rep/Pages/irs50.aspx",
+   "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/informacoes_vinculativas/rendimento/cirs/Documents/PIV_22122.pdf"
+  ]
+ }
+]

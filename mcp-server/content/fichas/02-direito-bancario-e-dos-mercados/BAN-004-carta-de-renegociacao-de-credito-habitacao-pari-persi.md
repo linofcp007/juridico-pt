@@ -3,20 +3,22 @@ codigo: BAN-004
 area: "Direito Bancário e dos Mercados"
 titulo: "Carta de Renegociação de Crédito Habitação (PARI / PERSI)"
 titulo_en: "Letter Requesting Renegotiation of a Home Loan (PARI / PERSI)"
-descricao: "Redige carta de pedido de renegociação de crédito à habitação no âmbito do PARI (Plano de Ação para o Risco de Incumprimento) e do PERSI (Procedimento Extrajudicial de Regularização de Situações de Incumprimento), ao abrigo do DL n.º 227/2012, explorando todas as medidas de apoio disponíveis — carência de capital, redução de prazo, bonificação de taxa ou financiamento complementar."
-descricao_en: "Drafts a letter requesting renegotiation of a home loan under PARI (Action Plan for Default Risk) and PERSI (out-of-court procedure for regularising defaults), pursuant to Decree-Law No. 227/2012, exploring all available support measures — capital grace period, reduction of the term, interest rate subsidy or supplementary financing."
+descricao: "Redige carta de pedido de renegociação de crédito à habitação no âmbito do PARI (Plano de Ação para o Risco de Incumprimento) e do PERSI (Procedimento Extrajudicial de Regularização de Situações de Incumprimento), ao abrigo do DL n.º 227/2012, explorando as soluções previstas no diploma — carência de capital, alargamento do prazo, diferimento de capital, redução temporária da taxa de juro, refinanciamento ou consolidação de créditos."
+descricao_en: "Drafts a letter requesting renegotiation of a home loan under PARI (Action Plan for Default Risk) and PERSI (out-of-court procedure for regularising defaults), pursuant to Decree-Law No. 227/2012, exploring the solutions provided for in that decree-law — capital grace period, extension of the repayment term, deferral of part of the capital, temporary reduction of the interest rate, refinancing or consolidation of loans."
 ambito: nacional
-estado_citacoes: "conferidas 0 · corrigidas 0 · por conferir 9"
+estado_citacoes: "conferidas 0 · corrigidas 0 · por conferir 30"
+revisao_tecnica: "2026-10-28 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
 # Carta de Renegociação de Crédito Habitação (PARI / PERSI)
 
 > **Âmbito:** nacional · **Área:** Direito Bancário e dos Mercados · **Código:** BAN-004
-> **EN:** Letter Requesting Renegotiation of a Home Loan (PARI / PERSI). Drafts a letter requesting renegotiation of a home loan under PARI (Action Plan for Default Risk) and PERSI (out-of-court procedure for regularising defaults), pursuant to Decree-Law No. 227/2012, exploring all available support measures — capital grace period, reduction of the term, interest rate subsidy or supplementary financing.
-> **Citações:** conferidas 0 · corrigidas 0 · por conferir 9. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **EN:** Letter Requesting Renegotiation of a Home Loan (PARI / PERSI). Drafts a letter requesting renegotiation of a home loan under PARI (Action Plan for Default Risk) and PERSI (out-of-court procedure for regularising defaults), pursuant to Decree-Law No. 227/2012, exploring the solutions provided for in that decree-law — capital grace period, extension of the repayment term, deferral of part of the capital, temporary reduction of the interest rate, refinancing or consolidation of loans.
+> **Citações:** conferidas 0 · corrigidas 0 · por conferir 30. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-28 — corrigida (7 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
-Redige carta de pedido de renegociação de crédito à habitação no âmbito do PARI (Plano de Ação para o Risco de Incumprimento) e do PERSI (Procedimento Extrajudicial de Regularização de Situações de Incumprimento), ao abrigo do DL n.º 227/2012, explorando todas as medidas de apoio disponíveis — carência de capital, redução de prazo, bonificação de taxa ou financiamento complementar.
+Redige carta de pedido de renegociação de crédito à habitação no âmbito do PARI (Plano de Ação para o Risco de Incumprimento) e do PERSI (Procedimento Extrajudicial de Regularização de Situações de Incumprimento), ao abrigo do DL n.º 227/2012, explorando as soluções previstas no diploma — carência de capital, alargamento do prazo, diferimento de capital, redução temporária da taxa de juro, refinanciamento ou consolidação de créditos.
 
 ## Método
 
@@ -42,14 +44,14 @@ Em <analise_do_caso>:
 ### ETAPA 2 — ANÁLISE JURÍDICA
 Em <fundamentos_juridicos>:
 - DL n.º 227/2012, de 25 de outubro:
-  - Art. 2.º: definições (incumprimento, risco de incumprimento)
-  - Art. 6.º: PARI — obrigação do banco de monitorizar sinais de dificuldade
-  - Art. 12.º e ss: PERSI — ativação, prazo de resposta (15 dias), negociação
-  - Art. 17.º: suspensão de execução durante PERSI
-  - Art. 20.º e ss: medidas de reestruturação (extensão de prazo, carência de capital, redução de spread, refinanciamento)
-- Portaria n.º 312-A/2012 (PERSI — procedimento e documentação)
+  - Art. 2.º: âmbito — abrange os contratos de crédito relativos a imóveis do DL n.º 74-A/2017 e o crédito aos consumidores; art. 3.º: definições («cliente bancário» é o consumidor que intervém como mutuário; «suporte duradouro»)
+  - Arts. 9.º a 11.º-C: PARI — plano interno do banco: acompanhamento da execução dos contratos (art. 9.º), elaboração e aplicação do PARI (art. 11.º), avaliação do risco quando o cliente comunica dificuldades, com 10 dias para o cliente entregar os documentos (art. 11.º-A), e propostas em 15 dias (art. 11.º-B); art. 6.º: direito a informação e acompanhamento gratuitos pela rede extrajudicial de apoio a clientes bancários
+  - Arts. 12.º a 17.º: PERSI — o banco informa o cliente do atraso até 15 dias após o vencimento (art. 13.º); integração obrigatória entre o 31.º e o 60.º dia após o vencimento, ou na própria data em que o banco recebe o pedido escrito do cliente já em mora (art. 14.º, n.ºs 1 e 2); comunicação da integração em 5 dias (art. 14.º, n.º 4); avaliação e propostas em 30 dias (art. 15.º, n.º 4); resposta do cliente em 15 dias (art. 16.º, n.º 3); extinção, em regra no 91.º dia após a integração, salvo prorrogação acordada (art. 17.º)
+  - Art. 18.º: garantias do cliente — durante o PERSI o banco não pode resolver o contrato com fundamento em incumprimento, intentar ações judiciais para satisfação do crédito nem ceder o crédito (com as exceções do n.º 2)
+  - Art. 15.º, n.º 5: soluções de regularização (refinanciamento, alargamento do prazo, carência de capital, diferimento de capital, redução temporária da taxa de juro, consolidação de créditos); art. 8.º: proibição de comissões pela renegociação e de agravamento da taxa de juro
+- Regulamentação do Banco de Portugal prevista no próprio diploma (avisos referidos nos arts. 14.º, n.º 5, 15.º, n.º 2, e 17.º, n.º 5) [■ VERIFICAR o aviso em vigor; não se confirmou a existência de uma «Portaria n.º 312-A/2012» sobre o PERSI]
 - DL n.º 74-A/2017 (crédito imobiliário): deveres de acompanhamento
-- Lei n.º 58/2012 (regime extraordinário de proteção de devedores de crédito à habitação) [■ VERIFICAR se ainda aplicável]
+- Lei n.º 58/2012 (regime extraordinário de proteção de devedores de crédito à habitação) [■ VERIFICAR se ainda aplicável: na redação original vigorava até 31/12/2015 (art. 38.º, n.º 1); não se confirmou prorrogação]
 
 ### ETAPA 3 — CONSTRUÇÃO
 Em <estrategia>:
@@ -57,7 +59,7 @@ Em <estrategia>:
 - Propor medidas concretas de reestruturação (não apenas pedir)
 - Demonstrar capacidade de cumprir com a reestruturação
 - Referir obrigação legal do banco de ativar o PERSI
-- Alertar para consequências de não ativação do PERSI (suspensão de execução hipotecária)
+- Alertar para as garantias do PERSI: enquanto decorre, o banco não pode resolver o contrato, intentar ações judiciais para satisfação do crédito nem ceder o crédito (art. 18.º, n.º 1, DL 227/2012); a ação ou execução intentada sem integração prévia no PERSI pode ser contestada com esse fundamento [■ VERIFICAR a jurisprudência atual em dgsi.pt sobre a natureza e os efeitos desta exceção]
 
 ### ETAPA 4 — A CARTA
 Redige a carta com esta estrutura:
@@ -89,9 +91,11 @@ Contacto: [email] / [telefone]
 
 **Fundamento Jurídico**
 
-Nos termos do art. 12.º, n.º 1 do DL n.º 227/2012, de 25 de outubro, "as instituições de crédito integram no PERSI os mutuários que se encontrem em mora no cumprimento de obrigações decorrentes de contratos de crédito."
+Nos termos do art. 14.º, n.º 2, alínea a), do DL n.º 227/2012, de 25 de outubro, a instituição de crédito está obrigada a iniciar o PERSI sempre que "o cliente bancário se encontre em mora relativamente ao cumprimento das obrigações decorrentes do contrato de crédito e solicite, através de comunicação em suporte duradouro, a sua integração no PERSI, devendo a instituição de crédito assegurar que essa integração ocorre na data em que recebe a referida comunicação".
 
-O art. 17.º do mesmo diploma determina que, durante o PERSI, a instituição de crédito não pode "instaurar ações judiciais para cobrança do crédito hipotecário em mora."
+[Se ainda não houver prestações em mora: o pedido funda-se no PARI — o banco avalia a situação do cliente que lhe comunique o risco de incumprimento e apresenta propostas adequadas (arts. 11.º-A e 11.º-B do mesmo diploma); se o cliente vier a entrar em mora, a integração no PERSI ocorre na data do incumprimento (art. 14.º, n.º 2, alínea b)).]
+
+O art. 18.º, n.º 1, do mesmo diploma determina que, entre a data de integração no PERSI e a extinção deste procedimento, a instituição de crédito está impedida de "[r]esolver o contrato de crédito com fundamento em incumprimento", de "[i]ntentar ações judiciais tendo em vista a satisfação do seu crédito" e de ceder o crédito ou transmitir a sua posição contratual a terceiro, sem prejuízo das exceções do n.º 2.
 
 Requer-se, por isso, a ativação imediata do PERSI e o início do processo de negociação.
 
@@ -111,9 +115,9 @@ O subscritor tem capacidade de cumprir a prestação reestruturada de aproximada
 
 **Pedido**
 Requer-se que o banco:
-a) Integre o subscritor no PERSI no prazo de 15 dias (art. 12.º DL 227/2012);
-b) Apresente proposta de reestruturação das condições do crédito;
-c) Suspenda qualquer processo de cobrança judicial durante a negociação.
+a) Integre o subscritor no PERSI na data da receção da presente comunicação e lho comunique, em suporte duradouro, no prazo máximo de 5 dias (art. 14.º, n.º 2, alínea a), e n.º 4, DL 227/2012);
+b) Apresente, no prazo máximo de 30 dias após a integração, proposta de regularização adequada à situação financeira do subscritor (art. 15.º, n.º 4, alínea b), DL 227/2012);
+c) Se abstenha, enquanto durar o PERSI, de resolver o contrato, de intentar ações judiciais para satisfação do crédito e de ceder o crédito (art. 18.º, n.º 1, DL 227/2012).
 
 Atentamente,
 [Nome do mutuário / Advogado constituído]
@@ -123,11 +127,11 @@ Em <checklist_validacao>:
 - [ ] Referência ao contrato e identificação do mutuário
 - [ ] Causa da dificuldade financeira explicada
 - [ ] Montante em mora indicado (se aplicável)
-- [ ] Art. 12.º e 17.º DL 227/2012 citados
+- [ ] Arts. 14.º e 18.º DL 227/2012 citados (integração no PERSI e garantias do cliente)
 - [ ] Medidas concretas de reestruturação propostas
 - [ ] Estimativa de prestação com reestruturação
 - [ ] Documentos a anexar listados
-- [ ] Prazo de 15 dias para ativação do PERSI referenciado
+- [ ] Integração no PERSI na data da receção do pedido e comunicação em 5 dias (art. 14.º, n.ºs 2 e 4, DL 227/2012) referenciadas
 - [ ] Pontos [■ VERIFICAR] sinalizados
 
 ---
@@ -168,11 +172,32 @@ Em <checklist_validacao>:
 | Citação | Estado | Nota |
 |---|---|---|
 | Art. 2.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| Art. 6.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| Art. 12.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| Art. 12.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| Art. 17.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| Art. 20.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| art. 12.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| art. 12.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 3.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| Arts. 9.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 9.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 11.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 11.º-A | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 11.º-B | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 6.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| Arts. 12.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 13.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 14.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 14.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 14.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 14.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 14.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 14.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 15.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 15.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 16.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 17.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| Art. 18.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| Art. 15.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 8.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| arts. 14.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 38.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 18.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 18.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 18.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| arts. 11.º-A | por conferir [■ VERIFICAR] | diploma não identificado |
+| Arts. 14.º | por conferir [■ VERIFICAR] | diploma não identificado |

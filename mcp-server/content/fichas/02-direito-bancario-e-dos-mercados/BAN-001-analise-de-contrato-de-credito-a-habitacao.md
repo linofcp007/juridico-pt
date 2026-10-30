@@ -6,7 +6,8 @@ titulo_en: "Review of a Home Loan Agreement"
 descricao: "Analisa minuciosamente um contrato de crédito à habitação — taxas de juro (TAN/TAEG), spread, indexante (Euribor), comissões, encargos acessórios, seguros associados, cláusulas de amortização antecipada e garantias —, identificando cláusulas abusivas, irregularidades face ao RGICSF e ao DL n.º 74-A/2017, e sugerindo negociação ou impugnação."
 descricao_en: "Thoroughly reviews a home loan (crédito à habitação) agreement — interest rates (TAN/TAEG, i.e. nominal annual rate and APR), spread, reference index (Euribor), fees, ancillary charges, associated insurance, early repayment clauses and security —, identifying unfair terms and irregularities under the RGICSF (Legal Framework of Credit Institutions and Financial Companies) and Decree-Law No. 74-A/2017, and suggesting negotiation or a challenge."
 ambito: nacional
-estado_citacoes: "conferidas 0 · corrigidas 0 · por conferir 6"
+estado_citacoes: "conferidas 1 · corrigidas 0 · por conferir 15"
+revisao_tecnica: "2026-10-30 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
@@ -14,7 +15,8 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 
 > **Âmbito:** nacional · **Área:** Direito Bancário e dos Mercados · **Código:** BAN-001
 > **EN:** Review of a Home Loan Agreement. Thoroughly reviews a home loan (crédito à habitação) agreement — interest rates (TAN/TAEG, i.e. nominal annual rate and APR), spread, reference index (Euribor), fees, ancillary charges, associated insurance, early repayment clauses and security —, identifying unfair terms and irregularities under the RGICSF (Legal Framework of Credit Institutions and Financial Companies) and Decree-Law No. 74-A/2017, and suggesting negotiation or a challenge.
-> **Citações:** conferidas 0 · corrigidas 0 · por conferir 6. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 1 · corrigidas 0 · por conferir 15. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-30 — corrigida (9 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
 Analisa minuciosamente um contrato de crédito à habitação — taxas de juro (TAN/TAEG), spread, indexante (Euribor), comissões, encargos acessórios, seguros associados, cláusulas de amortização antecipada e garantias —, identificando cláusulas abusivas, irregularidades face ao RGICSF e ao DL n.º 74-A/2017, e sugerindo negociação ou impugnação.
 
@@ -42,11 +44,11 @@ Em <analise_preliminar>:
 
 ### ETAPA 2 — ANÁLISE JURÍDICA
 Em <fundamentos_juridicos>:
-- DL n.º 74-A/2017: deveres de informação (FINE, ESIS), avaliação de solvabilidade (art. 10.º ss), taxa anual efetiva global (art. 23.º), amortização antecipada (art. 30.º)
+- DL n.º 74-A/2017: deveres de informação (FINE, ESIS — art. 13.º), avaliação de solvabilidade (art. 16.º), taxa anual de encargos efetiva global (art. 15.º), reembolso antecipado (art. 23.º), vendas associadas e seguros (art. 11.º), taxa variável e indexante (art. 21.º)
 - RGICSF: condições de exercício, supervisão do Banco de Portugal
 - DL n.º 446/85: cláusulas contratuais gerais — listas negra e cinzenta
-- Decreto-Lei n.º 349/98: fixação de taxas de juro
-- Aviso do Banco de Portugal n.º 5/2013 (informação pré-contratual)
+- Decreto-Lei n.º 349/98: regime de concessão de crédito à habitação (regime geral e regimes bonificados; a taxa de juro é livremente negociada entre as partes)
+- Informação pré-contratual: FINE (art. 13.º DL 74-A/2017) e regulamentação do Banco de Portugal [■ VERIFICAR: aviso do Banco de Portugal em vigor sobre deveres de informação no crédito à habitação]
 - Jurisprudência dos tribunais superiores portugueses se relevante [■ VERIFICAR: acórdão específico]
 
 ### ETAPA 3 — CONSTRUÇÃO
@@ -70,7 +72,7 @@ Estrutura o output assim:
 - TAN atual: [%] (indexante [Euribor] + spread [%])
 - TAEG: [%]
 - Prestação mensal: [€]
-- Comissão de amortização antecipada parcial: [%] (limite legal: 0,5% taxa variável / 2% taxa fixa — art. 30.º DL 74-A/2017)
+- Comissão de amortização antecipada parcial: [%] (limite legal, no reembolso parcial ou total: 0,5 % do capital reembolsado em período de taxa variável / 2 % em período de taxa fixa; sem comissão em caso de morte, desemprego ou deslocação profissional — art. 23.º, n.ºs 5 e 9, DL 74-A/2017)
 - Comissão de amortização antecipada total: [%]
 
 **3. CLÁUSULAS IDENTIFICADAS COMO PROBLEMÁTICAS**
@@ -82,8 +84,8 @@ Para cada cláusula:
 - Impacto financeiro estimado: [€ ou indicação qualitativa]
 
 **4. SEGUROS ASSOCIADOS**
-- Seguro de vida: obrigatório mas de livre escolha (art. 14.º DL 74-A/2017) — banco pode exigir nível de cobertura mas não impor seguradora
-- Seguro multirriscos: idem
+- Seguro de vida: não é imposto por lei; o mutuante pode exigi-lo, mas só com cobertura do risco de morte, e tem de aceitar a apólice de outra seguradora com nível de garantia equivalente; nos empréstimos para aquisição ou construção de habitação, o mutuário pode substituí-lo por hipoteca sobre outro imóvel, fiança ou outra garantia prevista na lei (art. 11.º, n.º 2, al. b), e n.ºs 7 e 8, DL 74-A/2017)
+- Seguro multirriscos: pode ser exigido pelo mutuante, com a mesma liberdade de escolha da seguradora (art. 11.º, n.º 2, al. b), DL 74-A/2017); nas frações em propriedade horizontal, o seguro contra o risco de incêndio é obrigatório por lei (art. 1429.º CC)
 - O banco cobra prémio embutido na prestação? [■ VERIFICAR]
 - Existe vínculo ilegal ao produto de seguro do banco?
 
@@ -96,12 +98,12 @@ Para cada cláusula:
 a) Ações imediatas (sem custo):
    - Solicitar extrato discriminado de comissões cobradas
    - Pedir histórico de taxa de juro aplicada
-   - Verificar correspondência entre indexante publicado pelo BCE/Banco de Portugal e taxa cobrada
+   - Verificar a correspondência entre o indexante e a taxa cobrada: média aritmética simples das cotações diárias do mês anterior ao início do período de contagem de juros, arredondada à milésima, com o histórico do indexante disponibilizado gratuitamente pelo mutuante (art. 21.º DL 74-A/2017)
 b) Reclamação extrajudicial:
-   - Reclamação ao Provedor do Cliente do banco (prazo de resposta: 20 dias úteis)
-   - Reclamação ao Banco de Portugal (Portal do Cliente Bancário)
+   - Reclamação escrita ao banco e, se a instituição o tiver, ao Provedor do Cliente [■ VERIFICAR: prazo de resposta previsto no regulamento do Provedor da instituição]
+   - Reclamação ao Banco de Portugal (Portal do Cliente Bancário — art. 41.º DL 74-A/2017 e art. 77.º-A RGICSF)
 c) Via contenciosa:
-   - CACCL (Centro de Arbitragem de Conflitos de Consumo de Lisboa) se valor ≤ €5.000
+   - Centro de arbitragem de conflitos de consumo competente (p. ex., o CACCL, em Lisboa) ou outra entidade de resolução alternativa de litígios a que o mutuante tenha aderido — tem de aderir a pelo menos duas (art. 38.º DL 74-A/2017) [■ VERIFICAR: limite de valor no regulamento do centro escolhido; o Regulamento Harmonizado dos centros de competência genérica, em vigor desde 1/1/2026, admite litígios até 30 000 €]
    - Ação declarativa no tribunal judicial
 
 **7. CHECKLIST DE DOCUMENTOS A OBTER**
@@ -115,7 +117,7 @@ c) Via contenciosa:
 ### ETAPA 5 — VALIDAÇÃO
 Em <checklist_validacao>:
 - [ ] Indexante e spread identificados
-- [ ] Limites legais de comissão de amortização verificados (art. 30.º DL 74-A/2017)
+- [ ] Limites legais de comissão de amortização verificados (art. 23.º DL 74-A/2017)
 - [ ] Livre escolha de seguros analisada
 - [ ] Cláusulas CCG avaliadas (DL 446/85)
 - [ ] Deveres de informação pré-contratual verificados
@@ -158,9 +160,19 @@ Em <checklist_validacao>:
 
 | Citação | Estado | Nota |
 |---|---|---|
-| art. 10.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 13.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 13.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 16.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 15.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 23.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| art. 30.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| art. 30.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| art. 30.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| art. 14.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 23.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 23.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 11.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 11.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 11.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 21.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 21.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 1429.º CC | conferida (epígrafe) — Seguro obrigatório |  |
+| art. 41.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 77.º-A | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 38.º | por conferir [■ VERIFICAR] | diploma não identificado |

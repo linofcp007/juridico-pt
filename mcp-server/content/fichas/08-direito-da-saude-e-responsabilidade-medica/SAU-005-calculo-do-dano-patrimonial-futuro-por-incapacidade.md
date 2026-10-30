@@ -6,7 +6,8 @@ titulo_en: "Calculation of Future Pecuniary Loss Due to Incapacity"
 descricao: "Calcula detalhadamente o dano patrimonial futuro decorrente de incapacidade permanente para o trabalho, com aplicação das fórmulas atuariais reconhecidas pelos tribunais portugueses, distinção entre incapacidade parcial e total, e ajuste às circunstâncias pessoais do lesado."
 descricao_en: "Calculates in detail the future pecuniary loss resulting from permanent incapacity for work, applying the actuarial formulae recognised by the Portuguese courts, distinguishing between partial and total incapacity and adjusting to the injured party's personal circumstances."
 ambito: nacional
-estado_citacoes: "conferidas 3 · corrigidas 0 · por conferir 0"
+estado_citacoes: "conferidas 3 · corrigidas 0 · por conferir 2"
+revisao_tecnica: "2026-10-28 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
@@ -14,7 +15,8 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 
 > **Âmbito:** nacional · **Área:** Direito da Saúde e Responsabilidade Médica · **Código:** SAU-005
 > **EN:** Calculation of Future Pecuniary Loss Due to Incapacity. Calculates in detail the future pecuniary loss resulting from permanent incapacity for work, applying the actuarial formulae recognised by the Portuguese courts, distinguishing between partial and total incapacity and adjusting to the injured party's personal circumstances.
-> **Citações:** conferidas 3 · corrigidas 0 · por conferir 0. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 3 · corrigidas 0 · por conferir 2. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-28 — corrigida (5 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
 Calcula detalhadamente o dano patrimonial futuro decorrente de incapacidade permanente para o trabalho, com aplicação das fórmulas atuariais reconhecidas pelos tribunais portugueses, distinção entre incapacidade parcial e total, e ajuste às circunstâncias pessoais do lesado.
 
@@ -28,7 +30,7 @@ Ficha de trabalho para preparar este documento. As regras da casa prevalecem sob
 - Distingue claramente IPP (parcial) de IPT (total)
 - Apresenta o cálculo passo a passo, com cada variável identificada
 - Indica sempre a fonte do fator de capitalização utilizado
-- Considera a esperança média de vida ativa (até 66 anos em Portugal — [■ VERIFICAR atualização]) e a esperança de vida total
+- Considera o período de vida ativa (até à idade normal de acesso à pensão de velhice: 66 anos e 9 meses em 2026, nos termos da Portaria n.º 358/2024/1, revista todos os anos) e a esperança de vida total, que a jurisprudência também pondera na perda da capacidade de ganho
 
 ---
 
@@ -49,8 +51,8 @@ Apresenta dentro de um bloco <fundamentos_juridicos>:
 - Art. 566.º n.º 2 CC — diferença entre situação patrimonial atual e hipotética
 - Art. 566.º n.º 3 CC — equidade quando não é possível calcular o valor exato
 - Jurisprudência do STJ: dano biológico como categoria autónoma [■ VERIFICAR: acórdão de referência atualizado]
-- Portaria n.º 679/2009 — avaliação do dano corporal (referência para a IPP)
-- Tabela financeira de capitalização: [■ VERIFICAR fonte e data atualizada — INE/ISP]
+- Decreto-Lei n.º 352/2007 — Anexo I (Tabela Nacional de Incapacidades por Acidentes de Trabalho e Doenças Profissionais: IPP/IPT) e Anexo II (Tabela Nacional para Avaliação de Incapacidades Permanentes em Direito Civil: défice funcional permanente, em pontos); a Portaria n.º 377/2008, alterada pela Portaria n.º 679/2009, só fixa os critérios e valores orientadores da proposta razoável no seguro automóvel e não vincula os tribunais
+- Tabela financeira de capitalização: [■ VERIFICAR fonte e data atualizada — INE/ASF]
 - Distinção entre perda de rendimento efetiva e dano à capacidade de ganho (dano biológico)
 
 ### ETAPA 3 — CONSTRUÇÃO DO CÁLCULO
@@ -66,8 +68,8 @@ Apresenta o cálculo em blocos:
 
 **VARIÁVEIS BASE:**
 - Idade à data da consolidação: [x] anos
-- Idade de reforma prevista: [66] anos [■ VERIFICAR atualização legislativa]
-- Anos de atividade profissional remanescente: [66 - x] anos
+- Idade de reforma prevista: [idade normal de acesso à pensão de velhice no ano relevante — 66 anos e 9 meses em 2026, Portaria n.º 358/2024/1]
+- Anos de atividade profissional remanescente: [idade de reforma - x] anos
 - Rendimento mensal líquido de referência: [valor] €
 - Rendimento anual líquido: [valor] × 14 meses = [valor] €
   (ou × 12 se não houver subsídios)
@@ -92,7 +94,7 @@ Estimativa para o período pós-reforma (anos esperados × fator de equidade):
 [■ VERIFICAR: valores de referência da jurisprudência]
 
 **AJUSTES:**
-- Dedução de pensão de invalidez já atribuída (se aplicável): - [valor] €
+- Pensão de invalidez da segurança social (se atribuída): não é dedução automática — a instituição de segurança social fica sub-rogada nos direitos do lesado até ao valor das prestações (art. 70.º da Lei n.º 4/2007) e pode exigir o reembolso ao responsável: [valor] € [■ VERIFICAR: pedido de reembolso no processo e jurisprudência sobre a cumulação]
 - Majoração por perda de progressão na carreira: + [valor] € [■ VERIFICAR: base factual]
 - Outros ajustes: [descrever]
 
@@ -104,7 +106,7 @@ Apresenta dentro de um bloco <checklist_validacao>:
 - [ ] IPP confirmada em relatório pericial
 - [ ] Fator de capitalização com fonte e data indicadas
 - [ ] Distinção entre vida ativa e vida total (dano biológico pós-reforma)
-- [ ] Dedução de pensão de invalidez verificada
+- [ ] Pensão de invalidez e sub-rogação da segurança social (art. 70.º da Lei n.º 4/2007) analisadas
 - [ ] Natureza estimativa dos valores expressamente ressalvada
 - [ ] Pontos [■ VERIFICAR] sinalizados
 
@@ -139,3 +141,5 @@ Apresenta dentro de um bloco <checklist_validacao>:
 | Art. 564.º n.º 2 CC | conferida (epígrafe) — Cálculo da indemnização |  |
 | Art. 566.º n.º 2 CC | conferida (epígrafe) — Indemnização em dinheiro |  |
 | Art. 566.º n.º 3 CC | conferida (epígrafe) — Indemnização em dinheiro |  |
+| art. 70.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 70.º | por conferir [■ VERIFICAR] | diploma não identificado |

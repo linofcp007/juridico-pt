@@ -1,0 +1,105 @@
+[
+  {"codigo": "ADM-001", "triagem": "ok"},
+  {"codigo": "ADM-003", "triagem": "ok"},
+  {"codigo": "ADM-004", "triagem": "ok"},
+  {
+    "codigo": "ADM-005",
+    "triagem": "rever",
+    "gravidade": "baixa",
+    "motivos": [
+      "A descrição fala em «ação administrativa especial», designação do CPTA anterior à revisão de 2015 (DL 214-G/2015), que unificou os meios na «ação administrativa»; o título e o corpo já usam a designação atual.",
+      "Pergunta se a impugnação graciosa prévia «interrompeu» o prazo: no CPTA em vigor (art. 59.º, n.º 4) a impugnação administrativa suspende o prazo de impugnação contenciosa, não o interrompe."
+    ]
+  },
+  {
+    "codigo": "ADM-006",
+    "triagem": "rever",
+    "gravidade": "media",
+    "motivos": [
+      "A ficha abrange omissão e indeferimento/recusa, mas manda verificar sempre o prazo de «1 ano» (art. 69.º CPTA). Esse prazo vale para a omissão do dever de decidir; havendo indeferimento ou recusa de apreciação, o prazo de propositura é de 3 meses (art. 69.º, n.º 2, remetendo para o regime da impugnação). Seguir a ficha pode levar a deixar caducar o direito de ação no caso de indeferimento expresso."
+    ]
+  },
+  {"codigo": "ADM-007", "triagem": "ok"},
+  {
+    "codigo": "ADM-008",
+    "triagem": "rever",
+    "gravidade": "media",
+    "motivos": [
+      "Manda indicar «30 dias» para propor a ação principal (art. 123.º CPTA). O prazo de 30 dias é o do art. 373.º do CPC; no CPTA o prazo para a ação principal após a providência antecipada é de 3 meses (a confirmar na redação atual do art. 123.º). Prazo possivelmente errado, embora por defeito."
+    ]
+  },
+  {"codigo": "ADM-009", "triagem": "ok"},
+  {"codigo": "ADM-010", "triagem": "ok"},
+  {
+    "codigo": "ADM-013",
+    "triagem": "rever",
+    "gravidade": "baixa",
+    "motivos": [
+      "O modelo da peça afirma que o recurso administrativo «tem efeito suspensivo da adjudicação» (com o artigo por preencher). No CCP e no CPA a impugnação administrativa não suspende, em regra, o procedimento nem a adjudicação; o efeito suspensivo automático que existe é o do art. 103.º-A do CPTA, associado à citação na ação de contencioso pré-contratual, e não ao recurso graciuso. Afirmação a confirmar.",
+      "A ficha traz notas internas «[■ VERIFICAR]» sobre arts. 100.º a 103.º do CCP (minuta do contrato) que ficam por resolver; o remédio de revisão não está na Diretiva 2014/24/UE mas na Diretiva 89/665/CEE."
+    ]
+  },
+  {
+    "codigo": "ADM-014",
+    "triagem": "rever",
+    "gravidade": "media",
+    "motivos": [
+      "Afirma que a ação tem «efeito suspensivo automático do procedimento de contratação» e que «o procedimento fica suspenso enquanto a ação não for decidida». O art. 103.º-A do CPTA prevê a proibição de celebrar/executar o contrato após a citação na impugnação do ato de adjudicação (e a entidade pode emitir resolução fundamentada, art. 103.º-B); não suspende o procedimento nem abrange exclusão ou peças ilegais. O utilizador pode dispensar a providência cautelar quando ela é necessária.",
+      "Cita o art. 47.º da Diretiva 2014/24/UE como «controlo e revisão»: esse artigo trata de prazos; os meios de recurso estão na Diretiva 89/665/CEE (alterada pela 2007/66/CE)."
+    ]
+  },
+  {"codigo": "ADM-015", "triagem": "ok"},
+  {"codigo": "ADM-016", "triagem": "ok"},
+  {"codigo": "ADM-017", "triagem": "ok"},
+  {"codigo": "ADM-018", "triagem": "ok"},
+  {"codigo": "ADM-019", "triagem": "ok"},
+  {"codigo": "ADM-020", "triagem": "ok"},
+  {
+    "codigo": "ADM-021",
+    "triagem": "rever",
+    "gravidade": "baixa",
+    "motivos": [
+      "O Código das Expropriações não prevê uma «reclamação» autónoma do expropriado contra a avaliação: o meio é o recurso da decisão arbitral (art. 52.º CE) ou, já em fase judicial, a reclamação/pedido de esclarecimentos contra o laudo pericial (CPC). A ficha não situa o momento processual nem o órgão destinatário, pelo que a peça pode ser dirigida a quem não tem competência."
+    ]
+  },
+  {
+    "codigo": "ADM-023",
+    "triagem": "rever",
+    "gravidade": "baixa",
+    "motivos": [
+      "A peça-modelo diz que «o silêncio é equiparado a recusa tácita». No CPA em vigor (2015) o silêncio da Administração não equivale, em regra, a indeferimento tácito (art. 129.º); o meio é a queixa à CADA e a intimação para prestação de informações (arts. 104.º ss. CPTA). A formulação como indeferimento tácito é herança do CPA de 1991 e deve ser confirmada na LADA."
+    ]
+  },
+  {"codigo": "ADM-024", "triagem": "ok"},
+  {"codigo": "ADM-025", "triagem": "ok"},
+  {
+    "codigo": "ADM-026",
+    "triagem": "rever",
+    "gravidade": "alta",
+    "motivos": [
+      "Dá como prazo de prescrição do procedimento disciplinar «1 ano após conhecimento dos factos (art. 178.º LTFP)». O regime da LTFP é diferente (prescrição passados 18 meses sobre a infração, prescrição se o procedimento não for instaurado em 30 dias após o conhecimento da infração pelo dirigente, e prescrição do procedimento instaurado e parado), pelo que a análise de prescrição, a primeira linha de defesa, sairia errada (a confirmar no texto vigente).",
+      "Indica o EDTFP (Lei n.º 58/2008) como fonte «se vigente»: foi revogado pela LTFP (Lei n.º 35/2014), que passou a conter o regime disciplinar; deve ser retirado e não citado."
+    ]
+  },
+  {
+    "codigo": "ADM-027",
+    "triagem": "rever",
+    "gravidade": "baixa",
+    "motivos": [
+      "Dá como único prazo da anulação administrativa «5 anos» (art. 168.º CPA); a regra do art. 168.º inclui o prazo mais curto de 6 meses a contar do conhecimento da causa de invalidade pelo órgão competente, sendo os 5 anos apenas o limite máximo desde a emissão do ato (a confirmar). Seguir a ficha pode levar a pedir uma anulação já inadmissível.",
+      "Fala em «revogação de ato nulo a qualquer tempo»: o ato nulo não se revoga, é declarada a sua nulidade (art. 162.º CPA); e o regime de revogação de atos constitutivos de direitos (art. 167.º) é mais complexo que «só antes de criar direitos a terceiros»."
+    ]
+  },
+  {"codigo": "ADM-028", "triagem": "ok"},
+  {"codigo": "ADM-029", "triagem": "ok"},
+  {"codigo": "ADM-030", "triagem": "ok"},
+  {
+    "codigo": "ADM-031",
+    "triagem": "rever",
+    "gravidade": "baixa",
+    "motivos": [
+      "Impõe como regra obrigatória um «prazo de 1 ano para intentar a execução (art. 157.º, n.º 2, CPTA)» que a própria ficha assinala como por confirmar. O CPTA tem prazos e regimes diferentes consoante o tipo de sentença executada (anulação, ato devido, quantia certa), pelo que a regra única de 1 ano é duvidosa e pode induzir o utilizador em erro sobre a caducidade."
+    ]
+  },
+  {"codigo": "ADM-032", "triagem": "ok"}
+]

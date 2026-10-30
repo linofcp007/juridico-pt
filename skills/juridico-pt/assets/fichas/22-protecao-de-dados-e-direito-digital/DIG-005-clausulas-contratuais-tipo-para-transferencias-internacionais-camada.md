@@ -3,7 +3,7 @@ codigo: DIG-005
 area: "Proteção de Dados e Direito Digital"
 titulo: "Cláusulas Contratuais-Tipo para Transferências Internacionais (camada UE)"
 titulo_en: "Standard Contractual Clauses for International Transfers (EU Layer)"
-descricao: "Gera um parecer jurídico sobre a utilização das Cláusulas Contratuais-Tipo (CCT) adoptadas pela Comissão Europeia para transferências de dados para países terceiros, incluindo a Transfer Impact Assessment (TIA) obrigatória pós-Schrems II, e redata as cláusulas suplementares necessárias para cada situação concreta."
+descricao: "Gera um parecer jurídico sobre a utilização das Cláusulas Contratuais-Tipo (CCT) adotadas pela Comissão Europeia para transferências de dados para países terceiros, incluindo a Transfer Impact Assessment (TIA) obrigatória pós-Schrems II, e redata as cláusulas suplementares necessárias para cada situação concreta."
 descricao_en: "Generates a legal opinion on the use of the Standard Contractual Clauses (SCCs) adopted by the European Commission for data transfers to third countries, including the Transfer Impact Assessment (TIA) required since Schrems II, and drafts the supplementary clauses needed for each specific situation."
 ambito: nacional
 estado_citacoes: "conferidas 3 · corrigidas 0 · por conferir 5"
@@ -16,7 +16,7 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 > **EN:** Standard Contractual Clauses for International Transfers (EU Layer). Generates a legal opinion on the use of the Standard Contractual Clauses (SCCs) adopted by the European Commission for data transfers to third countries, including the Transfer Impact Assessment (TIA) required since Schrems II, and drafts the supplementary clauses needed for each specific situation.
 > **Citações:** conferidas 3 · corrigidas 0 · por conferir 5. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
 
-Gera um parecer jurídico sobre a utilização das Cláusulas Contratuais-Tipo (CCT) adoptadas pela Comissão Europeia para transferências de dados para países terceiros, incluindo a Transfer Impact Assessment (TIA) obrigatória pós-Schrems II, e redata as cláusulas suplementares necessárias para cada situação concreta.
+Gera um parecer jurídico sobre a utilização das Cláusulas Contratuais-Tipo (CCT) adotadas pela Comissão Europeia para transferências de dados para países terceiros, incluindo a Transfer Impact Assessment (TIA) obrigatória pós-Schrems II, e redata as cláusulas suplementares necessárias para cada situação concreta.
 
 ## Método
 
@@ -27,7 +27,7 @@ Ficha de trabalho para preparar este documento. As regras da casa prevalecem sob
 — Se o estatuto de adequação de um país for incerto ou em revisão, marca [■ VERIFICAR: consultar a lista atualizada da Comissão em https://commission.europa.eu].
 — Cita normas reais: RGPD arts. 44.º a 49.º, Decisão CCT 2021/914, Recomendações EDPB 01/2020.
 — A TIA é obrigatória desde Schrems II (Julho 2020) — não pode ser omitida.
-— O acórdão Schrems II invalidou o Privacy Shield; o EU-US Data Privacy Framework (DPF) foi adoptado em Julho 2023 — verificar se a empresa americana está certificada.
+— O acórdão Schrems II invalidou o Privacy Shield; o EU-US Data Privacy Framework (DPF) foi adotado em Julho 2023 — verificar se a empresa americana está certificada.
 
 ---
 
@@ -73,10 +73,10 @@ Define em <estrutura>:
 A transferência de [categorias de dados] para [país / entidade] constitui uma transferência para país terceiro nos termos do art. 44.º RGPD, requerendo uma garantia adequada prevista no Capítulo V RGPD.
 
 **2. MECANISMO RECOMENDADO**
-[Selecciona o mecanismo adequado:]
+[Seleciona o mecanismo adequado:]
 — [Se país com adequação:] O país [X] é abrangido por decisão de adequação da Comissão [número/data — VERIFICAR atualização]. A transferência é lícita sem garantias adicionais.
-— [Se EUA com DPF:] O EU-US Data Privacy Framework (DPF), adoptado pela Decisão (UE) 2023/1795, é aplicável se a entidade recetora estiver certificada no DPF. Verificar em https://www.dataprivacyframework.gov/s/participant-search. [■ VERIFICAR: confirmação de certificação]
-— [Se CCT:] Recomenda-se a celebração das CCT adoptadas pela Decisão (UE) 2021/914, Módulo [X], com as cláusulas opcionais [Y] e as medidas suplementares descritas abaixo.
+— [Se EUA com DPF:] O EU-US Data Privacy Framework (DPF), adotado pela Decisão (UE) 2023/1795, é aplicável se a entidade recetora estiver certificada no DPF. Verificar em https://www.dataprivacyframework.gov/s/participant-search. [■ VERIFICAR: confirmação de certificação]
+— [Se CCT:] Recomenda-se a celebração das CCT adotadas pela Decisão (UE) 2021/914, Módulo [X], com as cláusulas opcionais [Y] e as medidas suplementares descritas abaixo.
 
 **3. TRANSFER IMPACT ASSESSMENT (TIA)**
 Em cumprimento das Recomendações EDPB 01/2020, realiza-se a TIA em 6 passos:
@@ -116,7 +116,7 @@ As partes comprometem-se a rever a TIA anualmente ou sempre que ocorra alteraç�
 ### ETAPA 5 — VALIDAÇÃO
 Apresenta dentro de um bloco <checklist_validacao>:
 - [ ] País terceiro identificado e estatuto de adequação verificado
-- [ ] Mecanismo de transferência seleccionado e fundamentado (art. 44.º ss. RGPD)
+- [ ] Mecanismo de transferência selecionado e fundamentado (art. 44.º ss. RGPD)
 - [ ] TIA realizada em 6 passos (Recomendações EDPB 01/2020)
 - [ ] Risco de acesso por autoridades públicas avaliado
 - [ ] Medidas suplementares proporcionais ao risco

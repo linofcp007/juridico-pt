@@ -3,20 +3,22 @@ codigo: PI-056
 area: "Propriedade Intelectual e Industrial"
 titulo: "Resposta a Oposição em Processo de Registo de Marca (INPI e EUIPO)"
 titulo_en: "Reply to an Opposition in Trade Mark Registration Proceedings (INPI and EUIPO)"
-descricao: "Elabora a resposta à oposição apresentada contra pedido de registo de marca, contestando os fundamentos invocados pelo oponente (risco de confusão, renome, má-fé), ao abrigo dos artigos 232.º a 240.º do CPI (DL n.º 110/2018) e das Diretrizes do EUIPO."
-descricao_en: "Prepares the reply to an opposition filed against a trade mark application, contesting the grounds invoked by the opponent (likelihood of confusion, reputation, bad faith), under Articles 232 to 240 of the CPI (Decree-Law No. 110/2018) and the EUIPO Guidelines."
+descricao: "Elabora a resposta à oposição apresentada contra pedido de registo de marca, contestando os fundamentos invocados pelo oponente (risco de confusão, renome, má-fé), ao abrigo dos artigos 17.º, 227.º, 231.º, n.º 6, 232.º, 234.º, 235.º e 238.º do CPI (DL n.º 110/2018) e das Diretrizes do EUIPO."
+descricao_en: "Prepares the reply to an opposition filed against a trade mark application, contesting the grounds invoked by the opponent (likelihood of confusion, reputation, bad faith), under Articles 17, 227, 231(6), 232, 234, 235 and 238 of the CPI (Decree-Law No. 110/2018) and the EUIPO Guidelines."
 ambito: nacional
-estado_citacoes: "conferidas 0 · corrigidas 2 · por conferir 1"
+estado_citacoes: "conferidas 1 · corrigidas 2 · por conferir 2"
+revisao_tecnica: "2026-10-30 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
 # Resposta a Oposição em Processo de Registo de Marca (INPI e EUIPO)
 
 > **Âmbito:** nacional · **Área:** Propriedade Intelectual e Industrial · **Código:** PI-056
-> **EN:** Reply to an Opposition in Trade Mark Registration Proceedings (INPI and EUIPO). Prepares the reply to an opposition filed against a trade mark application, contesting the grounds invoked by the opponent (likelihood of confusion, reputation, bad faith), under Articles 232 to 240 of the CPI (Decree-Law No. 110/2018) and the EUIPO Guidelines.
-> **Citações:** conferidas 0 · corrigidas 2 · por conferir 1. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **EN:** Reply to an Opposition in Trade Mark Registration Proceedings (INPI and EUIPO). Prepares the reply to an opposition filed against a trade mark application, contesting the grounds invoked by the opponent (likelihood of confusion, reputation, bad faith), under Articles 17, 227, 231(6), 232, 234, 235 and 238 of the CPI (Decree-Law No. 110/2018) and the EUIPO Guidelines.
+> **Citações:** conferidas 1 · corrigidas 2 · por conferir 2. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-30 — corrigida (5 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
-Elabora a resposta à oposição apresentada contra pedido de registo de marca, contestando os fundamentos invocados pelo oponente (risco de confusão, renome, má-fé), ao abrigo dos artigos 232.º a 240.º do CPI (DL n.º 110/2018) e das Diretrizes do EUIPO.
+Elabora a resposta à oposição apresentada contra pedido de registo de marca, contestando os fundamentos invocados pelo oponente (risco de confusão, renome, má-fé), ao abrigo dos artigos 17.º, 227.º, 231.º, n.º 6, 232.º, 234.º, 235.º e 238.º do CPI (DL n.º 110/2018) e das Diretrizes do EUIPO.
 
 ## Método
 
@@ -36,14 +38,14 @@ Apresenta em <analise_oposicao_resposta>:
 - Pontos fortes da oposição: o que pode ser difícil de rebater
 - Pontos fracos da oposição: o que pode ser contestado eficazmente
 - Prova disponível para a defesa
-- Possibilidade de exigir prova de uso sério (marca com > 5 anos)
+- Possibilidade de exigir prova de uso sério (marca anterior registada há pelo menos 5 anos na data do pedido contestado ou da sua prioridade)
 
 ### ETAPA 2 — ESTRATÉGIA DE DEFESA
 Define em <estrategia_defesa>:
 - Contestar semelhança dos sinais: pontos de diferenciação nos três planos
 - Contestar afinidade dos produtos/serviços: mercados distintos, consumidores diferentes
 - Contestar renome: exigir prova de notoriedade concreta; marca de baixo renome não tem proteção alargada
-- Exigir prova de uso sério (art. 227.º CPI): se a anterioridade tem mais de 5 anos
+- Exigir prova de uso sério (art. 227.º CPI): se, na data do pedido contestado ou da prioridade reivindicada, a anterioridade estava registada há pelo menos 5 anos
 - Contestar má-fé: demonstrar desconhecimento da anterioridade, uso independente legítimo
 - Argumento de coexistência: marcas coexistiram no mercado sem confusão real
 
@@ -61,13 +63,13 @@ Define em <prova_defesa>:
 
 **RESPOSTA À OPOSIÇÃO N.º [número]**
 
-**Requerente (Oponido):** [identificação completa — firma/nome, NIF/NIPC, mandatário]
+**Requerente (contestante):** [identificação completa — firma/nome, NIF/NIPC, mandatário]
 **Oponente:** [identificação]
 **Pedido de registo:** [n.º do pedido, sinal, classes]
 **Anterioridade invocada:** [n.º de registo, sinal, classes]
 
 **I. TEMPESTIVIDADE**
-[Verificação do prazo de resposta e cumprimento]
+[Verificação do prazo de resposta e cumprimento — no INPI, contestação no prazo de dois meses a contar da notificação da reclamação, prorrogável uma única vez por um mês (art. 17.º, n.os 2 e 4, CPI); no EUIPO, o prazo fixado pelo Instituto (art. 47.º, n.º 1, do RMUE)]
 
 **II. DA AUSÊNCIA DE RISCO DE CONFUSÃO**
 
@@ -87,7 +89,7 @@ C. Apreciação global
 [Demonstrar o desenvolvimento independente e a boa-fé do requerente]
 
 **V. DO PEDIDO DE PROVA DE USO SÉRIO (SE APLICÁVEL)**
-Nos termos do artigo 227.º do CPI [/ artigo 47.º, n.º 2, do RMUE], o Requerente solicita que seja exigida ao Oponente a prova do uso sério da(s) marca(s) anterior(es) n.º [números] nas classes [lista] durante os cinco anos anteriores à data de publicação do pedido [data], uma vez que essas marcas foram concedidas há mais de cinco anos.
+Nos termos do artigo 227.º do CPI [/ artigo 47.º, n.º 2, do RMUE], o Requerente solicita que seja exigida ao Oponente a prova do uso sério da(s) marca(s) anterior(es) n.º [números] nas classes [lista] durante o período de cinco anos consecutivos anterior à data de apresentação do pedido de registo [data] ou, sendo o caso, à data da prioridade reivindicada, ou a prova de que existiu justo motivo para a falta desse uso, uma vez que, nessa data, essas marcas se encontravam registadas há pelo menos cinco anos. Na falta dessa prova, a oposição deve ser julgada improcedente (no INPI, o reclamante é notificado para a apresentar no prazo de um mês, prorrogável por outro).
 
 **VI. DO PEDIDO**
 Nestes termos, requer-se que a oposição seja julgada improcedente e que o pedido de registo n.º [número] seja deferido na sua totalidade.
@@ -126,5 +128,7 @@ Apresenta em <checklist_resposta_oposicao>:
 | Citação | Estado | Nota |
 |---|---|---|
 | art. 227.º CPI | corrigida — Invocação da falta de uso sério de marca em processo de oposição | o número citado no catálogo não correspondia à epígrafe |
+| art. 17.º, n.os 2 e 4, CPI | conferida (epígrafe) — Prazos de reclamação e de contestação |  |
+| art. 47.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | artigo 227.º do CPI | corrigida — Invocação da falta de uso sério de marca em processo de oposição | o número citado no catálogo não correspondia à epígrafe |
 | artigo 47.º | por conferir [■ VERIFICAR] | diploma não identificado |

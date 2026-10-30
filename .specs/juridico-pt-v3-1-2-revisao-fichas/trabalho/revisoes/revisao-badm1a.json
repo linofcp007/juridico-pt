@@ -1,0 +1,258 @@
+[
+  {
+    "codigo": "ADM-005",
+    "veredicto": "corrigida",
+    "resumo": "A ficha está, no essencial, conforme ao CPTA revisto em 2015. Corrigiu-se a pergunta sobre a impugnação administrativa prévia, que suspende (e não interrompe) o prazo de impugnação contenciosa (art. 59.º, n.º 4, CPTA), a parte demandada nos processos contra o Estado (o ministério, art. 10.º, n.º 2, CPTA), a referência à «comarca» no endereçamento (a competência territorial segue o art. 16.º CPTA), a frase truncada sobre os pedidos cumuláveis (art. 4.º, n.º 2, CPTA) e acrescentaram-se os contrainteressados (art. 57.º CPTA). A descrição do índice ainda falava em «ação administrativa especial».",
+    "descricao": "Gera a petição inicial da ação administrativa de impugnação de ato administrativo nos tribunais administrativos, com endereçamento, legitimidade, tempestividade, exposição dos factos, fundamentação dos vícios e pedido de anulação ou declaração de nulidade, ao abrigo do CPTA.",
+    "descricao_en": "Generates the statement of claim in the administrative action challenging an administrative act before the administrative courts, covering the court addressed, standing, timeliness, the facts, the grounds of invalidity and a request for annulment or a declaration of nullity, under the CPTA.",
+    "substituicoes": [
+      {
+        "de": "- Houve impugnação graciosa prévia? Interrompeu o prazo?",
+        "para": "- Houve impugnação administrativa prévia (reclamação ou recurso)? Suspendeu o prazo de impugnação contenciosa (art. 59.º, n.º 4, CPTA)?",
+        "motivo": "A utilização de meios de impugnação administrativa suspende, e não interrompe, o prazo de impugnação contenciosa.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=439A0059&nid=439&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Se aplicável: pedido de condenação em reconstituição da situação ou em forma de omissão",
+        "para": "- Se aplicável: pedidos cumulados de condenação da Administração ao restabelecimento da situação que existiria se o ato não tivesse sido praticado, à prática do ato legalmente devido ou à reparação dos danos (art. 4.º, n.º 2, als. a), c) e f), CPTA)",
+        "motivo": "A frase estava truncada; os pedidos cumuláveis com a impugnação constam do art. 4.º, n.º 2, CPTA.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=439A0004&nid=439&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "Exmo. Sr. Juiz Presidente do Tribunal Administrativo de Círculo de [Comarca]",
+        "para": "Exmo. Sr. Juiz Presidente do Tribunal Administrativo de Círculo de [sede do tribunal da área da residência habitual ou da sede do autor — art. 16.º CPTA, salvo as regras especiais dos artigos seguintes]",
+        "motivo": "Os tribunais administrativos não se organizam por comarcas; a competência territorial segue, em regra, a residência ou sede do autor.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=439A0016&nid=439&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "contra o [Estado Português / entidade pública], representado pela [entidade], com sede em [morada], nos seguintes termos:",
+        "para": "contra [a pessoa coletiva de direito público demandada ou, nos processos contra o Estado relativos a atos de órgãos integrados num ministério, o Ministério a cujos órgãos o ato é imputável — art. 10.º, n.º 2, CPTA], com sede em [morada], nos seguintes termos:",
+        "motivo": "Nos processos contra o Estado relativos a órgãos de um ministério, a parte demandada é o ministério, não o «Estado Português».",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=439A0010&nid=439&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Legitimidade passiva (art. 10.º CPTA)",
+        "para": "- Legitimidade passiva (art. 10.º CPTA) e contrainteressados, que são obrigatoriamente demandados (art. 57.º CPTA)",
+        "motivo": "Na impugnação de atos, os contrainteressados identificáveis têm de ser demandados; a ficha omitia-os.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=439A0057&nid=439&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Confirmar o tribunal territorialmente competente quando o ato respeite a bens imóveis ou haja outra regra especial (arts. 17.º a 22.º CPTA).",
+      "Identificar os contrainteressados a partir do processo administrativo antes de propor a ação.",
+      "As remissões «Arts. 44.º a 50.º do ETAF» e «Arts. 163.º a 176.º do CPA» são amplas: os arts. 45.º a 50.º do ETAF tratam da organização e dos tribunais tributários e os arts. 175.º e 176.º do CPA da execução do ato."
+    ],
+    "fontes": [
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=439A0059&nid=439&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=439A0004&nid=439&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=439A0016&nid=439&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=439A0010&nid=439&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=439A0057&nid=439&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2248A0162&nid=2248&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2248A0168&nid=2248&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=418&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+    ]
+  },
+  {
+    "codigo": "ADM-013",
+    "veredicto": "corrigida",
+    "resumo": "O modelo afirmava que o recurso administrativo «tem efeito suspensivo da adjudicação». No CCP a impugnação administrativa é facultativa, não suspende as operações subsequentes e só impede a qualificação, a negociação e a adjudicação enquanto não for decidida (art. 272.º CCP); a suspensão automática da adjudicação resulta da ação de contencioso pré-contratual proposta em 10 dias úteis (art. 103.º-A CPTA). Substituiu-se também a remissão errada para os arts. 100.º a 103.º CCP (minuta do contrato) pelas normas da audiência prévia e das impugnações administrativas, e indicou-se o destinatário e o prazo da impugnação.",
+    "substituicoes": [
+      {
+        "de": "- Indica o efeito suspensivo do recurso quando aplicável",
+        "para": "- Indica os efeitos da impugnação: não suspende as operações subsequentes do procedimento, mas, enquanto não for decidida ou não decorrer o prazo para a decisão, impede a decisão de qualificação, o início da negociação e a adjudicação (art. 272.º CCP)",
+        "motivo": "A impugnação administrativa não tem efeito suspensivo geral; o art. 272.º CCP só impede certas decisões enquanto estiver pendente.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2063A0272&nid=2063&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Qual o prazo de recurso e está ainda em curso?",
+        "para": "- Qual o prazo de impugnação (cinco dias a contar da notificação — art. 270.º CCP) e está ainda em curso? A impugnação administrativa é facultativa (art. 268.º CCP) e suspende o prazo de um mês da ação de contencioso pré-contratual (art. 101.º CPTA, que remete para o art. 59.º CPTA)",
+        "motivo": "A ficha não indicava o prazo de cinco dias nem a natureza facultativa da impugnação.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2063A0270&nid=2063&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Arts. 100.º a 103.º do CCP (audiência prévia e reclamação — verificar redação atual)",
+        "para": "- Arts. 123.º e 147.º do CCP (audiência prévia)\n- Arts. 267.º a 274.º do CCP (impugnações administrativas: natureza facultativa — art. 268.º CCP; prazo — art. 270.º CCP; efeitos — art. 272.º CCP)",
+        "motivo": "Os arts. 100.º a 103.º CCP tratam da minuta do contrato; a audiência prévia está nos arts. 123.º e 147.º e as impugnações administrativas nos arts. 267.º a 274.º.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2063A0267&nid=2063&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "Exmo./Exma. Sr./Sra. [cargo do responsável pelo procedimento],",
+        "para": "Exmo./Exma. Sr./Sra. [órgão competente para decidir a impugnação: na reclamação, o autor da decisão; no recurso das deliberações do júri, o órgão competente para a decisão de contratar — art. 271.º, n.º 2, CCP],",
+        "motivo": "O recurso das deliberações do júri é dirigido ao órgão competente para a decisão de contratar, não a um «responsável pelo procedimento».",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2063A0271&nid=2063&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "**4. DO EFEITO SUSPENSIVO**\nO presente recurso tem efeito suspensivo da adjudicação nos termos do artigo [■ VERIFICAR] do CCP.",
+        "para": "**4. DOS EFEITOS DA IMPUGNAÇÃO**\nEnquanto a presente impugnação não for decidida ou não decorrer o prazo para a decisão, não pode ser proferida a decisão de adjudicação (art. 272.º, n.º 2, CCP), embora a impugnação não suspenda as demais operações do procedimento (art. 272.º, n.º 1, CCP). Se a decisão impugnada já for a adjudicação, a impugnação administrativa não a suspende: a suspensão automática dos efeitos da adjudicação ou da execução do contrato decorre apenas da ação de contencioso pré-contratual proposta no prazo de 10 dias úteis a contar da notificação da adjudicação a todos os concorrentes, nos procedimentos abrangidos (art. 103.º-A, n.º 1, CPTA).",
+        "motivo": "O recurso administrativo não tem efeito suspensivo da adjudicação; o efeito suspensivo automático é o da ação de contencioso pré-contratual.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=439A0103A&nid=439&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- [ ] Efeito suspensivo invocado (se aplicável)",
+        "para": "- [ ] Efeitos da impugnação indicados (art. 272.º CCP) e, se se pretender suspender a adjudicação, prazo de 10 dias úteis da ação de contencioso pré-contratual controlado (art. 103.º-A CPTA)",
+        "motivo": "Coerência com a correção do regime dos efeitos da impugnação.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=439A0103A&nid=439&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "O DL 177/2026 alterou o art. 274.º CCP (decisão da impugnação) para os procedimentos iniciados a partir de 1/10/2026: confirmar a redação aplicável ao procedimento em causa.",
+      "O prazo de 10 dias úteis do art. 103.º-A CPTA conta-se da notificação da adjudicação e não é suspenso pela impugnação administrativa: se se pretender o efeito suspensivo automático, não esperar pela decisão da impugnação.",
+      "Confirmar se o procedimento está abrangido pelo art. 95.º, n.º 3, ou pelo art. 104.º, n.º 1, al. a), CCP, de que depende o efeito suspensivo automático."
+    ],
+    "fontes": [
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2063A0267&nid=2063&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2063A0268&nid=2063&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2063A0269&nid=2063&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2063A0270&nid=2063&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2063A0271&nid=2063&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2063A0272&nid=2063&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2063A0274&nid=2063&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=439A0101&nid=439&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=439A0103A&nid=439&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+    ]
+  },
+  {
+    "codigo": "ADM-021",
+    "veredicto": "corrigida",
+    "resumo": "O Código das Expropriações não prevê uma reclamação autónoma contra o valor fixado: contra a decisão arbitral o meio é o recurso (art. 52.º CE), contra irregularidades a reclamação do art. 54.º CE e, na fase judicial, a avaliação por cinco peritos pode ser objeto de reclamação nos termos do CPC. Acrescentou-se uma regra que situa a peça no momento processual, corrigiu-se a descrição dos arts. 29.º e 30.º CE (expropriações parciais e arrendamento, não benfeitorias nem lucros cessantes) com remissão para os arts. 23.º, n.º 2, al. c), e 31.º CE, e afastou-se o pedido de «nova avaliação», que a lei exclui (art. 61.º, n.º 6, CE).",
+    "substituicoes": [
+      {
+        "de": "- Apresenta sempre a contra-avaliação fundamentada nos critérios do CE",
+        "para": "- Apresenta sempre a contra-avaliação fundamentada nos critérios do CE\n- Situa a peça no momento processual: o Código das Expropriações não prevê reclamação autónoma contra o valor fixado. Contra o valor da decisão arbitral, o meio é o recurso, no prazo de 20 dias a contar da notificação feita pelo juiz (art. 51.º, n.º 5, e art. 52.º, n.º 1, CE); contra irregularidades do procedimento, da arbitragem ou dos laudos ou acórdão dos árbitros, a reclamação para o juiz de direito da comarca, no prazo de 10 dias a contar do conhecimento (art. 54.º, n.º 1, CE); contra o relatório da avaliação feita pelos cinco peritos na fase de recurso (art. 61.º, n.º 2, e art. 62.º CE), a reclamação por deficiência, obscuridade, contradição ou falta de fundamentação das conclusões (art. 485.º, n.º 2, CPC) [■ VERIFICAR: aplicação subsidiária ao processo de expropriação e prazo da reclamação]; concluída a prova, as alegações (art. 64.º CE)",
+        "motivo": "A ficha não situava o meio processual nem o destinatário; o CE não prevê reclamação autónoma contra a avaliação.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=477&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- Art. 29.º CE (benfeitorias)",
+        "para": "- Art. 29.º CE (expropriações parciais: depreciação e prejuízos da parte não expropriada)\n- art. 23.º, n.º 2, al. c), CE (não se consideram as benfeitorias voluptuárias ou úteis posteriores à notificação da resolução de expropriar prevista no art. 10.º, n.º 5, CE)",
+        "motivo": "O art. 29.º CE trata das expropriações parciais; as benfeitorias constam do art. 23.º, n.º 2, al. c), CE.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=477&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- Art. 30.º CE (danos emergentes e lucros cessantes)",
+        "para": "- Art. 30.º CE (indemnização respeitante ao arrendamento)\n- art. 31.º CE (prejuízos da cessação ou da interrupção da atividade comercial, industrial, liberal ou agrícola)",
+        "motivo": "O art. 30.º CE trata do arrendamento; a interrupção da atividade está no art. 31.º CE.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=477&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "**5. DO PEDIDO** — nova avaliação ou valor diferente",
+        "para": "**5. DO PEDIDO** — esclarecimento ou complemento do relatório pericial, ou fixação de valor diferente (na fase de recurso não há segunda avaliação — art. 61.º, n.º 6, CE)",
+        "motivo": "O art. 61.º, n.º 6, CE exclui a segunda avaliação.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=477&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Confirmar em que fase está o processo (arbitragem ou recurso judicial) antes de escolher o meio e o destinatário.",
+      "Confirmar o prazo da reclamação contra o relatório pericial e a jurisprudência sobre a aplicação do art. 485.º CPC à avaliação do art. 61.º CE (que remete para os arts. 578.º e 588.º do CPC de 1961).",
+      "O DL 160/2026 alterou o Código das Expropriações (art. 14.º); as normas citadas na ficha não foram alteradas."
+    ],
+    "fontes": [
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=477&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0485&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+    ]
+  },
+  {
+    "codigo": "ADM-023",
+    "veredicto": "corrigida",
+    "resumo": "O modelo dizia que o silêncio da entidade «é equiparado a recusa tácita»; a LADA não o prevê: a falta de resposta no prazo do art. 15.º permite a queixa à CADA em 20 dias (art. 16.º LADA) ou a intimação judicial em 20 dias (arts. 104.º e 105.º CPTA). Corrigiram-se ainda a base do pedido (o art. 7.º LADA trata dos dados de saúde; o direito de acesso está nos arts. 5.º, 12.º e 13.º), a norma das taxas (art. 14.º, não 17.º) e a exigência de um interesse, que só existe para documentos nominativos ou com segredos de empresa (arts. 5.º, n.º 1, e 6.º, n.ºs 5 e 6, LADA).",
+    "substituicoes": [
+      {
+        "de": "- Menciona as exceções da LADA que podem ser invocadas pela entidade (segredo de Estado, dados pessoais de terceiros) para que o pedido as antecipe",
+        "para": "- Menciona as exceções da LADA que podem ser invocadas pela entidade (segredo de Estado, dados pessoais de terceiros) para que o pedido as antecipe\n- O acesso não depende da invocação de qualquer interesse (art. 5.º, n.º 1, LADA); só nos documentos nominativos de terceiros ou com segredos comerciais, industriais ou sobre a vida interna de uma empresa é preciso autorização escrita do titular ou demonstrar um interesse direto, pessoal, legítimo e constitucionalmente protegido suficientemente relevante (art. 6.º, n.ºs 5 e 6, LADA)",
+        "motivo": "A ficha pedia sempre a fundamentação do interesse, que a LADA dispensa em regra.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2591&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- Jurisprudência da CADA [■ VERIFICAR se disponível]",
+        "para": "- Pareceres da CADA e jurisprudência dos tribunais administrativos [■ VERIFICAR se disponível]",
+        "motivo": "A CADA aprecia queixas e emite pareceres (art. 30.º LADA); não produz jurisprudência.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2591&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "vem, ao abrigo do artigo 7.º e seguintes da Lei n.º 26/2016, de 22 de agosto (LADA), requerer:",
+        "para": "vem, ao abrigo dos artigos 5.º, 12.º e 13.º da Lei n.º 26/2016, de 22 de agosto (LADA), requerer:",
+        "motivo": "O art. 7.º LADA trata do acesso a dados de saúde; o direito de acesso, o pedido e a forma do acesso estão nos arts. 5.º, 12.º e 13.º.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2591&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "Interesse do requerente; fundamento constitucional e legal.",
+        "para": "Fundamento constitucional e legal (art. 268.º, n.º 2, CRP; art. 5.º LADA). Interesse do requerente só quando o pedido abranja documentos nominativos de terceiros ou segredos de empresa (art. 6.º, n.ºs 5 e 6, LADA).",
+        "motivo": "O direito de acesso exerce-se sem necessidade de enunciar qualquer interesse, salvo nos casos do art. 6.º, n.ºs 5 e 6, LADA.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2591&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "Indicação sobre pagamento das taxas legais (art. 17.º LADA).",
+        "para": "Indicação sobre pagamento das taxas legais (art. 14.º LADA); a reprodução por meio eletrónico, designadamente por correio eletrónico, não está sujeita a taxa (art. 14.º, n.º 1, al. d), LADA).",
+        "motivo": "Os encargos de reprodução estão no art. 14.º LADA; o art. 17.º trata da informação ambiental.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2591&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "O silêncio é equiparado a recusa tácita, permitindo recurso à CADA ou aos tribunais.\"",
+        "para": "Na falta de resposta nesse prazo, o requerente pode apresentar queixa à CADA no prazo de 20 dias (artigo 16.º, n.º 1, da LADA), o que interrompe o prazo da intimação judicial (artigo 16.º, n.º 2, da LADA), ou requerer ao tribunal administrativo, no prazo de 20 dias, a intimação para a prestação de informações, consulta de processos ou passagem de certidões (artigos 104.º e 105.º do CPTA).\"",
+        "motivo": "A LADA não equipara o silêncio a recusa tácita; prevê a queixa à CADA contra a falta de resposta e a intimação judicial.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=439A0105&nid=439&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "O prazo de resposta do art. 15.º LADA pode ser prorrogado até dois meses em casos excecionais (n.º 4), com informação ao requerente.",
+      "Confirmar as taxas de reprodução e certidão aplicáveis à entidade (tabela do Governo ou tabela própria, art. 14.º, n.ºs 2 e 3, LADA)."
+    ],
+    "fontes": [
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2591&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=439A0104&nid=439&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=439A0105&nid=439&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+    ]
+  },
+  {
+    "codigo": "ADM-027",
+    "veredicto": "corrigida",
+    "resumo": "A ficha dava o prazo da anulação administrativa como «5 anos»: o art. 168.º CPA fixa seis meses desde o conhecimento da invalidade, com o limite de cinco anos desde a emissão, e um ano para os atos constitutivos de direitos, salvo as exceções do n.º 4. Corrigiram-se também a «revogação de ato nulo» (os atos nulos não são revogáveis nem anuláveis: declara-se a nulidade, art. 166.º, n.º 1, al. a), e art. 162.º, n.º 2, CPA), o regime da revogação de atos constitutivos de direitos (art. 167.º CPA) e acrescentou-se que o pedido do interessado se faz por reclamação ou recurso administrativo (art. 169.º, n.º 1, CPA), com os respetivos prazos.",
+    "substituicoes": [
+      {
+        "de": "  - Revogação por mérito (art. 165.º CPA): ato lícito mas inoportuno; só antes de criar direitos a terceiros",
+        "para": "  - Revogação por mérito (art. 165.º CPA): cessação dos efeitos de um ato por razões de mérito, conveniência ou oportunidade; não é possível quando a irrevogabilidade resulte de vinculação legal e, nos atos constitutivos de direitos, só nos casos do art. 167.º, n.º 2, CPA (parte desfavorável aos beneficiários, concordância de todos eles, superveniência de conhecimentos técnicos e científicos ou alteração objetiva das circunstâncias — no prazo de um ano, art. 167.º, n.º 4, CPA — ou reserva de revogação)",
+        "motivo": "O limite à revogação não é «criar direitos a terceiros»: o art. 167.º CPA admite a revogação de atos constitutivos de direitos em casos tipificados.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2248A0167&nid=2248&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "  - Anulação administrativa por ilegalidade (art. 168.º CPA): ato inválido; prazo de 5 anos",
+        "para": "  - Anulação administrativa por ilegalidade (art. 168.º CPA): ato inválido; prazo de seis meses a contar do conhecimento da causa de invalidade pelo órgão competente, desde que não tenham decorrido cinco anos desde a emissão do ato (n.º 1); os atos constitutivos de direitos só podem ser anulados no prazo de um ano desde a emissão (n.º 2), salvo os casos de cinco anos do n.º 4; o ato que já se tornou inimpugnável contenciosamente só pode ser anulado oficiosamente (n.º 5)",
+        "motivo": "Os cinco anos são apenas o limite máximo; o prazo-regra é de seis meses desde o conhecimento e de um ano para atos constitutivos de direitos.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2248A0168&nid=2248&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "  - Revogação de ato nulo: a qualquer tempo",
+        "para": "  - Ato nulo: não é suscetível de revogação nem de anulação (art. 166.º, n.º 1, al. a), CPA); pede-se a declaração de nulidade, que os órgãos competentes para a anulação podem fazer a todo o tempo (art. 162.º, n.º 2, CPA)",
+        "motivo": "Os atos nulos não se revogam; a nulidade é declarada a todo o tempo.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2248A0162&nid=2248&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Indica quem tem legitimidade para pedir e quem é o órgão competente para decidir",
+        "para": "- Indica quem tem legitimidade para pedir e quem é o órgão competente para decidir; o pedido do interessado faz-se mediante reclamação ou recurso administrativo (art. 169.º, n.º 1, CPA), pelo que se confirmam também os prazos destes meios: 15 dias para a reclamação (art. 191.º, n.º 3, CPA); 30 dias para o recurso hierárquico necessário e o prazo de impugnação contenciosa para o facultativo (art. 193.º, n.º 2, CPA)",
+        "motivo": "O art. 169.º, n.º 1, CPA canaliza o pedido dos interessados para a reclamação ou o recurso administrativo, com prazos próprios.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2248A0169&nid=2248&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Art. 168.º do CPA (anulação administrativa — prazo de 5 anos)",
+        "para": "- Art. 168.º do CPA (anulação administrativa — seis meses desde o conhecimento da invalidade, com o limite de cinco anos desde a emissão; um ano para os atos constitutivos de direitos)",
+        "motivo": "O prazo da anulação administrativa não é de cinco anos sem mais.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2248A0168&nid=2248&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Se os prazos da reclamação e do recurso já tiverem passado, ponderar se o pedido ainda obriga o órgão a decidir ou vale apenas como sugestão de anulação oficiosa (art. 168.º, n.º 5, CPA).",
+      "Na anulação de atos constitutivos de direitos, avaliar a indemnização dos beneficiários de boa-fé (art. 168.º, n.º 6, CPA)."
+    ],
+    "fontes": [
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2248A0162&nid=2248&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2248A0165&nid=2248&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2248A0166&nid=2248&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2248A0167&nid=2248&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2248A0168&nid=2248&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2248A0169&nid=2248&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2248A0191&nid=2248&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2248A0193&nid=2248&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+    ]
+  }
+]

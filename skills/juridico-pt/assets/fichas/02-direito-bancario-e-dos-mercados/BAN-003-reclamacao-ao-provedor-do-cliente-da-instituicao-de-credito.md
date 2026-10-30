@@ -3,20 +3,22 @@ codigo: BAN-003
 area: "Direito Bancário e dos Mercados"
 titulo: "Reclamação ao Provedor do Cliente da Instituição de Crédito"
 titulo_en: "Complaint to the Credit Institution's Customer Ombudsman"
-descricao: "Redige uma reclamação formal ao Provedor do Cliente do banco ou instituição financeira, explorando o mecanismo de resolução alternativa de litígios interno obrigatório, com fundamentação técnica, pedido concreto e prazo de resposta exigível, ao abrigo do Aviso do Banco de Portugal n.º 5/2013 e das normas de conduta do RGICSF."
-descricao_en: "Drafts a formal complaint to the Customer Ombudsman (Provedor do Cliente) of the bank or financial institution, using the mandatory internal alternative dispute resolution mechanism, with technical grounds, a specific request and an enforceable response deadline, under Bank of Portugal Notice (Aviso) No. 5/2013 and the RGICSF conduct rules."
+descricao: "Redige uma reclamação formal ao Provedor do Cliente do banco ou instituição financeira, no quadro dos procedimentos internos de tratamento de reclamações da instituição, com fundamentação técnica, pedido concreto e prazo de resposta, ao abrigo das normas de conduta do RGICSF e com escalada para o Banco de Portugal (art. 77.º-A RGICSF) ou para a resolução alternativa de litígios."
+descricao_en: "Drafts a formal complaint to the Customer Ombudsman (Provedor do Cliente) of the bank or financial institution, within the institution's internal complaints-handling procedures, with technical grounds, a specific request and a response deadline, under the RGICSF conduct rules and with escalation to the Bank of Portugal (Article 77-A RGICSF) or to alternative dispute resolution."
 ambito: nacional
-estado_citacoes: "conferidas 0 · corrigidas 0 · por conferir 2"
+estado_citacoes: "conferidas 0 · corrigidas 0 · por conferir 5"
+revisao_tecnica: "2026-10-30 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
 # Reclamação ao Provedor do Cliente da Instituição de Crédito
 
 > **Âmbito:** nacional · **Área:** Direito Bancário e dos Mercados · **Código:** BAN-003
-> **EN:** Complaint to the Credit Institution's Customer Ombudsman. Drafts a formal complaint to the Customer Ombudsman (Provedor do Cliente) of the bank or financial institution, using the mandatory internal alternative dispute resolution mechanism, with technical grounds, a specific request and an enforceable response deadline, under Bank of Portugal Notice (Aviso) No. 5/2013 and the RGICSF conduct rules.
-> **Citações:** conferidas 0 · corrigidas 0 · por conferir 2. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **EN:** Complaint to the Credit Institution's Customer Ombudsman. Drafts a formal complaint to the Customer Ombudsman (Provedor do Cliente) of the bank or financial institution, within the institution's internal complaints-handling procedures, with technical grounds, a specific request and a response deadline, under the RGICSF conduct rules and with escalation to the Bank of Portugal (Article 77-A RGICSF) or to alternative dispute resolution.
+> **Citações:** conferidas 0 · corrigidas 0 · por conferir 5. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-30 — corrigida (3 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
-Redige uma reclamação formal ao Provedor do Cliente do banco ou instituição financeira, explorando o mecanismo de resolução alternativa de litígios interno obrigatório, com fundamentação técnica, pedido concreto e prazo de resposta exigível, ao abrigo do Aviso do Banco de Portugal n.º 5/2013 e das normas de conduta do RGICSF.
+Redige uma reclamação formal ao Provedor do Cliente do banco ou instituição financeira, no quadro dos procedimentos internos de tratamento de reclamações da instituição, com fundamentação técnica, pedido concreto e prazo de resposta, ao abrigo das normas de conduta do RGICSF e com escalada para o Banco de Portugal (art. 77.º-A RGICSF) ou para a resolução alternativa de litígios.
 
 ## Método
 
@@ -40,7 +42,8 @@ Em <analise_do_caso>:
 
 ### ETAPA 2 — ANÁLISE JURÍDICA
 Em <fundamentos_juridicos>:
-- Aviso do Banco de Portugal n.º 5/2013: obrigatoriedade do Provedor do Cliente, prazo de resposta (20 dias úteis), requisitos da resposta
+- Provedor do Cliente: a existência, a competência e o prazo de resposta constam do regulamento da própria instituição; os códigos de conduta devem divulgar os procedimentos internos de apreciação de reclamações (art. 77.º-B RGICSF) [■ VERIFICAR: regulamento do Provedor na instituição reclamada]
+- Reclamação ao Banco de Portugal (art. 77.º-A RGICSF; no crédito à habitação, art. 41.º DL n.º 74-A/2017): quando o Banco de Portugal lhe remete a reclamação, a instituição responde ao reclamante em 20 dias úteis a contar da receção (Carta-Circular n.º 25/2008/DSB) [■ VERIFICAR: prazo único de 15 dias úteis noticiado para a Carta Circular n.º CC/2026/00000018, de 15/5/2026]
 - RGICSF art. 73.º ss: deveres gerais de conduta das instituições de crédito
 - DL n.º 446/85: cláusulas contratuais gerais (se cláusula abusiva)
 - DL n.º 74-A/2017 ou DL n.º 133/2009: conforme o tipo de crédito
@@ -90,7 +93,7 @@ Nos termos do art. [X.º] do [diploma], "[transcrição do trecho relevante]", a
 O subscritor vem solicitar a V.ª Ex.ª:
 a) [Pedido principal — concreto e quantificado]
 b) [Pedido subsidiário, se aplicável]
-c) Resposta fundamentada no prazo máximo de 20 dias úteis, ao abrigo do Aviso do Banco de Portugal n.º 5/2013.
+c) Resposta fundamentada no prazo máximo de [prazo] dias úteis [■ VERIFICAR: prazo fixado no regulamento do Provedor do Cliente da instituição ou na norma aplicável ao produto].
 
 Na ausência de resposta satisfatória, o subscritor reserva-se o direito de apresentar reclamação junto do Banco de Portugal e de recorrer ao [CACCL / tribunal competente / Centro de Arbitragem aplicável].
 
@@ -105,7 +108,7 @@ Em <checklist_validacao>:
 - [ ] Fundamento jurídico com artigo transcrito
 - [ ] Referência à reclamação prévia e resposta obtida
 - [ ] Pedido concreto e quantificado
-- [ ] Prazo de resposta exigido (20 dias úteis)
+- [ ] Prazo de resposta exigido (o do regulamento do Provedor ou da norma aplicável ao produto)
 - [ ] Consequência de falta de resposta mencionada
 - [ ] Pontos [■ VERIFICAR] sinalizados
 
@@ -147,5 +150,8 @@ Em <checklist_validacao>:
 
 | Citação | Estado | Nota |
 |---|---|---|
+| art. 77.º-B | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 77.º-A | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 41.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 73.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | arts. 12.º | por conferir [■ VERIFICAR] | diploma não identificado |

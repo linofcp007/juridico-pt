@@ -6,7 +6,8 @@ titulo_en: "Legal Due Diligence on the Acquisition of a Sports Club or SAD"
 descricao: "Elabora checklist e relatório de due diligence jurídica para aquisição de participação maioritária ou controlo de um clube desportivo ou SAD, cobrindo a estrutura corporativa, os contratos com atletas e treinadores, os litígios pendentes (FIFA DRC, TAD, tribunal laboral), as licenças federativas, os ativos imobiliários (estádio, centro de treinos) e o compliance financeiro (FSR/FFP)."
 descricao_en: "Prepares a legal due diligence checklist and report for the acquisition of a majority stake in, or control of, a sports club or SAD, covering the corporate structure, contracts with athletes and coaches, pending disputes (FIFA DRC, TAD, labour court), federation licences, real estate assets (stadium, training centre) and financial compliance (FSR/FFP)."
 ambito: nacional
-estado_citacoes: "sem citações"
+estado_citacoes: "conferidas 0 · corrigidas 0 · por conferir 6"
+revisao_tecnica: "2026-10-30 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
@@ -14,7 +15,8 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 
 > **Âmbito:** nacional · **Área:** Direito Desportivo · **Código:** DES-049
 > **EN:** Legal Due Diligence on the Acquisition of a Sports Club or SAD. Prepares a legal due diligence checklist and report for the acquisition of a majority stake in, or control of, a sports club or SAD, covering the corporate structure, contracts with athletes and coaches, pending disputes (FIFA DRC, TAD, labour court), federation licences, real estate assets (stadium, training centre) and financial compliance (FSR/FFP).
-> **Citações:** sem citações. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 0 · corrigidas 0 · por conferir 6. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-30 — corrigida (1 correção com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
 Elabora checklist e relatório de due diligence jurídica para aquisição de participação maioritária ou controlo de um clube desportivo ou SAD, cobrindo a estrutura corporativa, os contratos com atletas e treinadores, os litígios pendentes (FIFA DRC, TAD, tribunal laboral), as licenças federativas, os ativos imobiliários (estádio, centro de treinos) e o compliance financeiro (FSR/FFP).
 
@@ -39,7 +41,7 @@ Apresenta dentro de um bloco <analise_da_situacao>:
 
 ### ETAPA 2 — ANÁLISE JURÍDICA
 Apresenta dentro de um bloco <fundamentos_juridicos>:
-- Lei n.º 10/2013 (regime das sociedades desportivas)
+- Lei n.º 39/2023, de 4 de agosto (regime jurídico das sociedades desportivas, que revogou o Decreto-Lei n.º 10/2013, de 25 de janeiro — art. 51.º): acordos parassociais (art. 5.º), proibição de deter participação qualificada em mais de uma sociedade desportiva da mesma modalidade nas competições nacionais (art. 16.º), transmissão de participações sociais (art. 18.º), comunicação dos titulares de participação qualificada e do beneficiário efetivo (art. 22.º) e idoneidade, capacidade económica e origem dos fundos do adquirente de participação qualificada (art. 32.º, n.ºs 1, 5, 6 e 8)
 - CSC (responsabilidade de sócios e administradores)
 - Regulamentos FPF/LPFP sobre transferência de controlo
 - Regras FIFA/UEFA MCO
@@ -80,3 +82,14 @@ Apresenta recomendações sobre:
 **DÍVIDAS CONHECIDAS:** [lista]
 **PRAZO DA DUE DILIGENCE:** [semanas]
 **OBSERVAÇÕES:** [dados relevantes]
+
+## Citações desta ficha
+
+| Citação | Estado | Nota |
+|---|---|---|
+| art. 51.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 5.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 16.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 18.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 22.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 32.º | por conferir [■ VERIFICAR] | diploma não identificado |

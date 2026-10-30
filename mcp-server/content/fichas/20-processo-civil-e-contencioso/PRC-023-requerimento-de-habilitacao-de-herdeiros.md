@@ -92,7 +92,7 @@ desde o óbito de [nome], aguardando a habilitação dos sucessores."
 
 **6. DO PEDIDO**
 "Nestes termos, requer a V. Exa. se digne:
-1.º Admitir a habilitação dos herdeiros supra-identificados como sucessores de
+1.º Admitir a habilitação dos herdeiros supraidentificados como sucessores de
    [nome do falecido] na posição de [autor/réu] nos presentes autos;
 2.º Retomar a marcha do processo com os herdeiros habilitados."
 

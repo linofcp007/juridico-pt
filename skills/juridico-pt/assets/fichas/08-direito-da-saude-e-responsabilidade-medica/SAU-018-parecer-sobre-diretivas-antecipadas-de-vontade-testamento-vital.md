@@ -6,7 +6,8 @@ titulo_en: "Legal Opinion on Advance Healthcare Directives / Living Will"
 descricao: "Elabora um parecer jurídico sobre a validade, o âmbito e os efeitos das diretivas antecipadas de vontade (testamento vital) em Portugal, incluindo a sua redação, os requisitos de validade, o registo no RENTEV e as consequências do seu desrespeito por profissionais de saúde."
 descricao_en: "Drafts a legal opinion on the validity, scope and effects of advance healthcare directives (diretivas antecipadas de vontade, or living will) in Portugal, including their drafting, the validity requirements, registration with RENTEV (National Living Will Register) and the consequences of their disregard by health professionals."
 ambito: nacional
-estado_citacoes: "conferidas 0 · corrigidas 0 · por conferir 7"
+estado_citacoes: "conferidas 1 · corrigidas 0 · por conferir 16"
+revisao_tecnica: "2026-10-30 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
@@ -14,7 +15,8 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 
 > **Âmbito:** nacional · **Área:** Direito da Saúde e Responsabilidade Médica · **Código:** SAU-018
 > **EN:** Legal Opinion on Advance Healthcare Directives / Living Will. Drafts a legal opinion on the validity, scope and effects of advance healthcare directives (diretivas antecipadas de vontade, or living will) in Portugal, including their drafting, the validity requirements, registration with RENTEV (National Living Will Register) and the consequences of their disregard by health professionals.
-> **Citações:** conferidas 0 · corrigidas 0 · por conferir 7. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 1 · corrigidas 0 · por conferir 16. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-30 — corrigida (4 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
 Elabora um parecer jurídico sobre a validade, o âmbito e os efeitos das diretivas antecipadas de vontade (testamento vital) em Portugal, incluindo a sua redação, os requisitos de validade, o registo no RENTEV e as consequências do seu desrespeito por profissionais de saúde.
 
@@ -26,7 +28,7 @@ Ficha de trabalho para preparar este documento. As regras da casa prevalecem sob
 - NUNCA inventes legislação ou factos
 - Se faltar dado, marca [■ VERIFICAR: o que é necessário]
 - A Lei n.º 25/2012 é o diploma central; cita sempre os artigos concretos
-- Distingue o testamento vital (diretivas de recusa de tratamento) do procurador de cuidados de saúde
+- Distingue o testamento vital (diretivas sobre os cuidados de saúde que a pessoa deseja ou não receber) do procurador de cuidados de saúde
 - Indica os requisitos formais obrigatórios para a validade do documento
 - Analisa as consequências do desrespeito das diretivas pelo profissional de saúde
 
@@ -45,11 +47,14 @@ Apresenta dentro de um bloco <analise_do_caso>:
 ### ETAPA 2 — ANÁLISE JURÍDICA (Fundamentação)
 Apresenta dentro de um bloco <fundamentos_juridicos>:
 - Lei n.º 25/2012, art. 2.º — diretivas antecipadas de vontade: conceito
-- Lei n.º 25/2012, art. 3.º — requisitos de validade formal: maior, capaz, por escrito, perante notário ou reconhecimento presencial
-- Lei n.º 25/2012, art. 4.º — prazo de validade (5 anos, renovável) e revogação a qualquer momento
-- Lei n.º 25/2012, art. 5.º — limites das diretivas: não podem violar a lei, a ordem pública ou causar a morte por omissão de tratamento urgente
-- Lei n.º 25/2012, art. 7.º e ss. — procurador de cuidados de saúde
-- RENTEV — Registo Nacional do Testamento Vital: obrigatoriedade de consulta pelos serviços de saúde
+- Lei n.º 25/2012, art. 3.º — forma: documento escrito, assinado presencialmente perante funcionário habilitado do RENTEV ou notário, com as menções do n.º 1 (identificação do outorgante, lugar, data e hora, situações clínicas abrangidas, opções e instruções)
+- Lei n.º 25/2012, art. 4.º — capacidade: maior de idade e capaz de dar consentimento consciente, livre e esclarecido (a al. b), relativa a interditos e inabilitados, foi revogada)
+- Lei n.º 25/2012, art. 7.º — prazo de eficácia de 5 anos a contar da assinatura, sucessivamente renovável por declaração de confirmação com a forma do art. 3.º; o documento mantém-se em vigor se a incapacidade sobrevier durante o prazo
+- Lei n.º 25/2012, art. 8.º — modificação ou revogação a qualquer momento, também por simples declaração oral ao responsável pela prestação de cuidados (n.º 4)
+- Lei n.º 25/2012, art. 5.º — limites: são juridicamente inexistentes as diretivas contrárias à lei, à ordem pública ou às boas práticas, aquelas cujo cumprimento possa provocar deliberadamente a morte não natural e evitável prevista nos arts. 134.º e 135.º CP e aquelas em que a vontade não foi expressa de forma clara e inequívoca
+- Lei n.º 25/2012, art. 6.º — eficácia: a equipa de saúde deve respeitar as diretivas registadas no RENTEV ou que lhe sejam entregues, salvo nos casos do n.º 2 e em urgência ou perigo imediato para a vida (n.º 4); art. 9.º — objeção de consciência do profissional, cabendo ao estabelecimento garantir o cumprimento das diretivas
+- Lei n.º 25/2012, arts. 11.º a 14.º — procurador de cuidados de saúde
+- RENTEV — Registo Nacional do Testamento Vital (arts. 15.º a 17.º): registo meramente declarativo (art. 16.º, n.º 1); o médico responsável por pessoa incapaz de exprimir a sua vontade verifica no RENTEV se existem diretivas ou procuração (art. 17.º, n.º 1)
 - [■ VERIFICAR: Portaria que regula o RENTEV — número e data atualizados]
 - Consequências do desrespeito: responsabilidade disciplinar do profissional; [■ VERIFICAR: responsabilidade civil ou criminal por violação das diretivas]
 - Carta dos Direitos Fundamentais da UE, art. 3.º — integridade da pessoa e consentimento
@@ -92,8 +97,8 @@ Redige o parecer completo:
 
 ### ETAPA 5 — FORMULAÇÃO FINAL (Validação)
 Apresenta dentro de um bloco <checklist_validacao>:
-- [ ] Requisitos formais verificados (forma escrita, capacidade do outorgante, assinatura, notário ou reconhecimento)
-- [ ] Prazo de validade verificado (5 anos — art. 4.º da Lei n.º 25/2012)
+- [ ] Requisitos formais verificados (forma escrita, capacidade do outorgante, assinatura presencial perante notário ou funcionário do RENTEV — art. 3.º, n.º 1, da Lei n.º 25/2012)
+- [ ] Prazo de eficácia verificado (5 anos, renovável — art. 7.º da Lei n.º 25/2012)
 - [ ] Registo no RENTEV verificado ou recomendado
 - [ ] Limites das diretivas analisados
 - [ ] Procurador de cuidados de saúde identificado (se nomeado)
@@ -138,7 +143,17 @@ Apresenta dentro de um bloco <checklist_validacao>:
 | art. 2.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 3.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 3.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 3.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 3.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 4.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| art. 4.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| art. 5.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 7.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 7.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 8.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 5.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| arts. 134.º e 135.º CP | conferida (epígrafe) — Homicídio a pedido da vítima [A presente versão entra em vigor 30 dias após a publicação d |  |
+| art. 6.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 9.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| arts. 11.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| arts. 15.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 16.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 17.º | por conferir [■ VERIFICAR] | diploma não identificado |

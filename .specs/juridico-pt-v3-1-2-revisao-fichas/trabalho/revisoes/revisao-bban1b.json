@@ -1,0 +1,182 @@
+[
+  {
+    "codigo": "BAN-018",
+    "veredicto": "corrigida",
+    "resumo": "A ficha atribuía aos arts. 50.º a 54.º do DL n.º 291/2007 conteúdos que não têm (o art. 50.º trata do fundado conflito, o 51.º dos limites especiais, o 52.º das exclusões e o 53.º das competências no âmbito do título II) e afirmava que, com veículo não identificado, o FGA só cobre danos corporais. Foi reposto o regime vigente (redação do DL n.º 26/2025): âmbito material no art. 49.º, incluindo danos materiais com veículo não identificado quando haja danos corporais significativos e a cobertura da insolvência ou liquidação da seguradora (arts. 49.º, n.º 1, al. d), e 57.º-A ss), limites do art. 51.º, prazos de regularização aplicáveis ao FGA (art. 32.º, n.º 4) e legitimidade (art. 62.º). Corrigida também a descrição do índice: o FGA é gerido pela ASF, não pelo Fundo de Acidentes de Trabalho.",
+    "descricao": "Redige requerimento de indemnização ao Fundo de Garantia Automóvel (FGA), cuja gestão é assegurada pela ASF, em casos de acidente causado por veículo não identificado, por veículo sem seguro válido e eficaz ou por veículo seguro em empresa de seguros sujeita a processo de insolvência ou de liquidação, ao abrigo do DL n.º 291/2007, de 21 de agosto (arts. 47.º a 62.º).",
+    "descricao_en": "Drafts a compensation claim to the Motor Guarantee Fund (Fundo de Garantia Automóvel, FGA), managed by the ASF (the Portuguese insurance and pension funds supervisory authority), in cases of accidents caused by an unidentified vehicle, an uninsured vehicle or a vehicle insured with a company subject to insolvency or winding-up proceedings, under Decree-Law No. 291/2007 of 21 August (Articles 47 to 62).",
+    "substituicoes": [
+      {
+        "de": "- A vítima tem seguro próprio de danos pessoais (acidentes pessoais)?",
+        "para": "- A vítima tem seguro automóvel de danos próprios, o acidente é também de trabalho ou há prestações da segurança social? (o FGA só responde pelo excedente ou pelo que essas coberturas não abranjam, e a indemnização não se cumula com a de seguro de pessoas transportadas — art. 51.º do DL n.º 291/2007)",
+        "motivo": "Os limites à responsabilidade do FGA são os do art. 51.º (acidente de trabalho, seguro de danos próprios, segurança social, seguro de pessoas transportadas).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=973&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- DL n.º 291/2007:\n  - Art. 49.º ss: Fundo de Garantia Automóvel — âmbito de cobertura\n  - Art. 50.º: veículo não identificado — cobertura apenas de danos corporais [■ VERIFICAR se há limitação para danos materiais]\n  - Art. 51.º: veículo não segurado\n  - Art. 52.º: insolvência da seguradora\n  - Art. 53.º: sub-rogação do FGA\n  - Art. 54.º ss: procedimento de reclamação",
+        "para": "- DL n.º 291/2007, de 21 de agosto (na redação do DL n.º 26/2025, de 20 de março):\n  - Art. 47.º: Fundo de Garantia Automóvel — autonomia administrativa e financeira; gestão assegurada pela ASF\n  - Art. 48.º: âmbito geográfico e veículos relevantes\n  - Art. 49.º: âmbito material, até ao valor do capital mínimo do seguro obrigatório — danos corporais causados por veículo não identificado ou sem seguro válido e eficaz (n.º 1, al. a)); danos materiais causados por veículo sem seguro válido e eficaz (al. b)); danos materiais causados por veículo não identificado só quando exista, em simultâneo, direito a indemnização por danos corporais significativos (al. c)), isto é, morte ou internamento hospitalar igual ou superior a 7 dias, incapacidade temporária absoluta igual ou superior a 60 dias ou incapacidade parcial permanente igual ou superior a 15 % (n.º 2); danos corporais e materiais causados por veículo seguro em empresa de seguros sujeita a processo de insolvência ou de liquidação (al. d))\n  - Art. 51.º: limites especiais à responsabilidade do Fundo (acidente que seja também de trabalho ou de serviço, seguro automóvel de danos próprios, prestações da segurança social, seguro de pessoas transportadas)\n  - Art. 52.º: exclusões (entre outras, os danos materiais dos incumpridores da obrigação de seguro e os danos dos passageiros que sabiam que o veículo não estava seguro)\n  - Art. 54.º: sub-rogação do FGA\n  - Arts. 57.º-A a 57.º-H: pedido ao FGA em caso de insolvência ou liquidação da empresa de seguros (acidente ocorrido em Portugal e lesado residente em Portugal)\n  - Art. 32.º, n.os 4 e 5: os procedimentos de regularização de sinistros (arts. 36.º e 37.º) aplicam-se ao FGA, com as devidas adaptações\n  - Art. 61.º: dos atos e decisões do FGA cabe recurso para os tribunais comuns\n  - Art. 62.º: a ação é proposta contra o FGA e o responsável civil quando este seja conhecido e não tenha seguro válido e eficaz, sob pena de ilegitimidade; sendo o responsável desconhecido, o lesado demanda diretamente o FGA",
+        "motivo": "Os arts. 50.º a 54.º não têm o conteúdo indicado; o âmbito da cobertura está no art. 49.º, que admite danos materiais com veículo não identificado quando haja danos corporais significativos.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=973&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- Verificar se o FGA cobre danos materiais (regra: veículo não identificado → só danos corporais; veículo não segurado → danos materiais + corporais)\n- Prazo de resposta do FGA: [■ VERIFICAR prazo legal]",
+        "para": "- Verificar se o FGA cobre danos materiais (art. 49.º do DL n.º 291/2007: veículo não identificado → danos corporais e, só havendo em simultâneo danos corporais significativos, também danos materiais; veículo sem seguro válido e eficaz → danos corporais + materiais; seguradora em insolvência ou liquidação → danos corporais + materiais; sempre até ao capital mínimo do seguro obrigatório)\n- Prazo de resposta do FGA: aplicam-se, com as devidas adaptações, os prazos de regularização de sinistros (art. 32.º, n.º 4, do DL n.º 291/2007): comunicação da assunção ou não da responsabilidade em 30 dias úteis nos danos materiais (art. 36.º, n.º 1, al. e)) e em 45 dias a contar do pedido de indemnização nos danos corporais, havendo alta clínica e dano totalmente quantificável (art. 37.º, n.º 1, al. c)) [■ VERIFICAR a contagem no caso concreto]",
+        "motivo": "Com veículo não identificado, o FGA também cobre danos materiais se houver danos corporais significativos; os prazos de regularização do capítulo III aplicam-se ao FGA.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=973&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "tinha seguro na [seguradora], declarada insolvente em [data]]",
+        "para": "tinha seguro na [seguradora], sujeita a processo de insolvência ou de liquidação desde [data]]",
+        "motivo": "A garantia do FGA abrange a insolvência e a liquidação da empresa de seguros (art. 49.º, n.º 1, al. d)).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=973&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "[  ] Veículo causador não identificado (art. 50.º DL 291/2007)\n[  ] Veículo causador não segurado (art. 51.º DL 291/2007)\n[  ] Seguradora do causador insolvente (art. 52.º DL 291/2007)",
+        "para": "[  ] Veículo causador não identificado (art. 49.º, n.º 1, als. a) e c), DL 291/2007)\n[  ] Veículo causador sem seguro válido e eficaz (art. 49.º, n.º 1, als. a) e b), DL 291/2007)\n[  ] Empresa de seguros do causador sujeita a processo de insolvência ou de liquidação (art. 49.º, n.º 1, al. d), e art. 57.º-A DL 291/2007)",
+        "motivo": "Os fundamentos do pedido estão nas alíneas do art. 49.º, n.º 1, e não nos arts. 50.º a 52.º.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=973&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "Nos termos do art. [50.º / 51.º / 52.º] do DL n.º 291/2007, de 21 de agosto:",
+        "para": "Nos termos do art. 49.º, n.º 1, al. [a) / b) / c) / d)], do DL n.º 291/2007, de 21 de agosto:",
+        "motivo": "A norma a transcrever é a alínea aplicável do art. 49.º, n.º 1.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=973&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Confirmar a redação do art. 49.º aplicável à data do acidente: o DL n.º 26/2025 alterou o regime (n.º 3 revogado), e os acidentes anteriores à sua entrada em vigor podem reger-se pela redação anterior.",
+      "Prescrição: confirmar o prazo do art. 498.º CC (3 anos a contar do conhecimento do direito, ou o prazo mais longo do n.º 3 se o facto constituir crime) e a jurisprudência sobre a sua aplicação ao FGA.",
+      "Confirmar na ASF o endereço, o canal de apresentação do pedido e eventual regulamentação emitida ao abrigo do art. 57.º-H.",
+      "Se o acidente for também de trabalho, apurar quem paga cada prestação (seguradora de acidentes de trabalho, empregador ou Fundo de Acidentes de Trabalho) antes de quantificar o pedido ao FGA (art. 51.º, n.º 1)."
+    ],
+    "fontes": [
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=973&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://www.pgdlisboa.pt/leis/lei_busca.php?busca=codigo&buscacodigo=Regime+do+Sistema+de+Seguro+Obrigat%F3rio+de+Responsabilidade+Civil+Autom%F3vel&codigoprincipal=codigoprincipal&pagina=1&ficha=1&so_miolo="
+    ]
+  },
+  {
+    "codigo": "BAN-021",
+    "veredicto": "corrigida",
+    "resumo": "A base legal do CVM estava trocada: o art. 304.º-A é a responsabilidade civil (não a categorização de clientes), o 314.º é a avaliação do caráter adequado (não organização ou conflitos de interesses), o 321.º trata dos contratos com investidores, o 323.º da informação contratual e periódica e o 328.º do tratamento de ordens; a carta invocava ainda o art. 304.º-B (códigos deontológicos) como fonte da responsabilidade. Foram repostos os artigos certos (arts. 312.º ss, 314.º, 314.º-A, 314.º-D, 304.º-A, 317.º ss, 309.º ss e 324.º, n.º 2), assinalada a transposição da MiFID II pela Lei n.º 35/2018 em vez do DL n.º 357-A/2007 e corrigida a natureza do Regulamento Delegado (UE) 2017/565, que é diretamente aplicável. A descrição do índice referia um inexistente «CSMVM» e o regime da MiFID I.",
+    "descricao": "Redige reclamação formal por comercialização inadequada (mis-selling) de produto financeiro — fundo de investimento, produto estruturado, swaps de taxa de juro, depósito a prazo com capital não garantido — identificando a violação dos deveres de adequação e informação impostos pelo Código dos Valores Mobiliários (na redação da Lei n.º 35/2018, que transpôs a MiFID II), pelo Regulamento Delegado (UE) 2017/565 e pelas normas da CMVM, e solicitando restituição das perdas sofridas.",
+    "descricao_en": "Drafts a formal complaint for mis-selling (comercialização inadequada) of a financial product — investment fund, structured product, interest rate swaps, term deposit without a capital guarantee — identifying the breach of the suitability and information duties imposed by the Securities Code (Código dos Valores Mobiliários, as amended by Law No. 35/2018, which transposed MiFID II), Delegated Regulation (EU) 2017/565 and the rules of the Portuguese Securities Market Commission (CMVM), and requesting repayment of the losses suffered.",
+    "substituicoes": [
+      {
+        "de": "  - Art. 304.º-A: categorização de clientes\n  - Art. 314.º: requisitos de organização (conflitos de interesses)\n  - Art. 321.º ss: comercialização — deveres de adequação (suitability) e de apropriação (appropriateness)\n  - Art. 323.º: dever de informação — produto, riscos, custos\n  - Art. 328.º: responsabilidade civil (arts. 485.º ss CC por analogia)\n- DL n.º 357-A/2007: transposição MiFID I\n- Regulamento Delegado (UE) 2017/565 (MiFID II, transposto): deveres de avaliação de adequação",
+        "para": "  - Art. 304.º-A: responsabilidade civil do intermediário financeiro (culpa presumida nas relações contratuais e pré-contratuais e sempre que o dano resulte da violação de deveres de informação — n.º 2)\n  - Arts. 30.º e 317.º a 317.º-D: categorização de clientes (investidor não profissional, investidor profissional, contraparte elegível)\n  - Arts. 309.º a 309.º-C: conflitos de interesses\n  - Arts. 309.º-I a 309.º-L: deveres de quem produz ou distribui instrumentos financeiros\n  - Art. 312.º ss: deveres de informação — intermediário, instrumentos financeiros, riscos e custos (arts. 312.º-A, 312.º-E e 312.º-G)\n  - Art. 314.º: avaliação do caráter adequado da operação (conhecimentos e experiência; advertência escrita se não for adequada)\n  - Art. 314.º-A: consultoria para investimento e gestão de carteiras — situação financeira, capacidade para suportar perdas, objetivos de investimento e tolerância ao risco; proibição de recomendar o que não seja adequado (n.º 3)\n  - Art. 314.º-D: receção e transmissão ou execução de ordens sem avaliação (só instrumentos não complexos, por iniciativa do cliente e com advertência escrita)\n  - Art. 324.º, n.º 2: prescrição da responsabilidade (salvo dolo ou culpa grave, 10 anos para investidor não profissional e 2 anos para investidor profissional ou contraparte elegível, a contar do conhecimento da conclusão do negócio e dos seus termos)\n  - Art. 33.º: mediação voluntária de conflitos pela CMVM (investidores não profissionais)\n- Lei n.º 35/2018, de 20 de julho: transpôs a Diretiva 2014/65/UE (MiFID II) para o CVM, substituindo o regime do DL n.º 357-A/2007 (MiFID I) [■ VERIFICAR a redação aplicável à data da subscrição]\n- Regulamento Delegado (UE) 2017/565 (diretamente aplicável, não carece de transposição): arts. 54.º a 56.º — avaliação da adequação",
+        "motivo": "Os artigos do CVM indicados não correspondiam ao seu conteúdo; a MiFID I foi substituída pela MiFID II (Lei n.º 35/2018) e o regulamento delegado é diretamente aplicável.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?ficha=401&artigo_id=&nid=450&pagina=5&tabela=leis&nversao=&so_miolo="
+      },
+      {
+        "de": "Nos termos do art. 321.º, n.º 1 do CVM: \"[transcrição do trecho relevante]\"\nA instituição estava obrigada a verificar se o produto era adequado ao perfil do reclamante em termos de: (i) conhecimento e experiência; (ii) situação financeira; (iii) objetivos de investimento.",
+        "para": "Nos termos dos arts. 314.º, n.º 1, e 314.º-A, n.os 1 e 3, do CVM: \"[transcrição do trecho relevante]\"\nTendo havido recomendação do produto (consultoria para investimento), a instituição estava obrigada a obter informação e a verificar se o produto era adequado ao perfil do reclamante em termos de: (i) conhecimentos e experiência; (ii) situação financeira, incluindo a capacidade para suportar perdas; (iii) objetivos de investimento, incluindo a tolerância ao risco — e não o podia recomendar se o considerasse inadequado. Sem consultoria, devia pelo menos avaliar se o reclamante compreendia os riscos e adverti-lo por escrito da inadequação da operação (art. 314.º, n.os 1 e 2, do CVM).",
+        "motivo": "O dever de adequação está nos arts. 314.º e 314.º-A do CVM; o art. 321.º trata da forma dos contratos com investidores.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=450A0314&nid=450&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "Nos termos do art. 323.º do CVM: \"[transcrição]\"",
+        "para": "Nos termos do art. 312.º, n.os 1, als. d), e) e h), e 2, do CVM: \"[transcrição]\"",
+        "motivo": "O dever de informação pré-contratual sobre instrumentos, riscos e custos é o do art. 312.º; o art. 323.º trata da informação contratual e periódica.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?ficha=401&artigo_id=&nid=450&pagina=5&tabela=leis&nversao=&so_miolo="
+      },
+      {
+        "de": "Nos termos do art. 304.º-B do CVM e art. 227.º CC, a instituição é responsável",
+        "para": "Nos termos do art. 304.º-A do CVM (cujo n.º 2 presume a culpa do intermediário financeiro nas relações contratuais ou pré-contratuais e sempre que o dano resulte da violação de deveres de informação) e do art. 227.º CC, a instituição é responsável",
+        "motivo": "A responsabilidade civil do intermediário financeiro está no art. 304.º-A; o art. 304.º-B trata dos códigos deontológicos.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?ficha=401&artigo_id=&nid=450&pagina=5&tabela=leis&nversao=&so_miolo="
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Confirmar a categorização efetiva do cliente (arts. 30.º e 317.º ss do CVM) e se houve consultoria para investimento, de que depende a aplicação do art. 314.º-A.",
+      "Se a subscrição for anterior a 2018, aplicar a redação do CVM então vigente (DL n.º 357-A/2007), com a numeração e o conteúdo dessa época.",
+      "Nexo de causalidade: confirmar o AUJ do STJ n.º 8/2022, que, segundo as fontes consultadas, faz recair sobre o investidor o ónus de provar que, com a informação devida, não teria investido.",
+      "Se o produto for um depósito (incluindo depósito estruturado), confirmar o regime e a autoridade de supervisão competente antes de dirigir a reclamação à CMVM [■ VERIFICAR]."
+    ],
+    "fontes": [
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=450&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?ficha=401&artigo_id=&nid=450&pagina=5&tabela=leis&nversao=&so_miolo=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?ficha=501&artigo_id=&nid=450&pagina=6&tabela=leis&nversao=&so_miolo=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=450A0314&nid=450&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://publications.europa.eu/resource/celex/32017R0565",
+      "https://vlex.pt/vid/lei-n-35-2018-1034386310",
+      "https://vlex.pt/vid/acordao-do-supremo-tribunal-913662980",
+      "https://www.pgdlisboa.pt/leis/lei_busca.php?busca=codigo&buscacodigo=C%F3digo+dos+Valores+Mobili%E1rios&codigoprincipal=codigoprincipal&pagina=1&ficha=1&so_miolo="
+    ]
+  },
+  {
+    "codigo": "BAN-022",
+    "veredicto": "corrigida",
+    "resumo": "A petição assentava em artigos do CVM trocados: atribuía a responsabilidade civil e a presunção de culpa ao art. 304.º-B (códigos deontológicos), quando constam do art. 304.º-A, n.º 2; dava o art. 304.º-A como categorias de clientes, o 321.º como avaliação de adequação, o 323.º como deveres de informação e o 325.º-A (inexistente) como conflitos de interesses. Foram repostos os arts. 304.º-A, 312.º, 314.º, 314.º-A, 317.º ss e 309.º ss, assinalada a transposição da MiFID II pela Lei n.º 35/2018 e acrescentado o prazo especial de prescrição do art. 324.º, n.º 2, do CVM (10 anos para investidor não profissional, 2 anos para profissional, salvo dolo ou culpa grave).",
+    "substituicoes": [
+      {
+        "de": "- Está dentro do prazo de prescrição? [■ VERIFICAR arts. 498.º e 309.º CC]",
+        "para": "- Está dentro do prazo de prescrição? Salvo dolo ou culpa grave, a responsabilidade do intermediário financeiro por negócio em que haja intervindo prescreve em 10 anos (investidor não profissional) ou em 2 anos (investidor profissional ou contraparte elegível), a contar da data em que o cliente teve conhecimento da conclusão do negócio e dos seus termos (art. 324.º, n.º 2, CVM); confrontar com os arts. 498.º e 309.º CC [■ VERIFICAR a redação do art. 324.º aplicável à data do negócio, sobretudo se anterior à Lei n.º 99-A/2021]",
+        "motivo": "O CVM tem prazo especial de prescrição para a responsabilidade do intermediário financeiro (art. 324.º, n.º 2, na redação da Lei n.º 99-A/2021).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?ficha=501&artigo_id=&nid=450&pagina=6&tabela=leis&nversao=&so_miolo="
+      },
+      {
+        "de": "  - Art. 304.º-A: categorias de clientes\n  - Art. 304.º-B: responsabilidade civil do intermediário\n  - Art. 321.º ss: avaliação de adequação e apropriação\n  - Art. 323.º: deveres de informação\n  - Art. 325.º-A ss: conflitos de interesses\n- DL n.º 357-A/2007: transposição MiFID",
+        "para": "  - Art. 304.º-A: responsabilidade civil do intermediário (culpa presumida — n.º 2)\n  - Arts. 30.º e 317.º a 317.º-D: categorias de clientes\n  - Arts. 314.º, 314.º-A e 314.º-D: avaliação do caráter adequado da operação (consultoria para investimento e gestão de carteiras: art. 314.º-A)\n  - Art. 312.º ss: deveres de informação\n  - Arts. 309.º a 309.º-C: conflitos de interesses\n  - Art. 324.º, n.º 2: prescrição da responsabilidade do intermediário\n- Lei n.º 35/2018, de 20 de julho: transpôs a Diretiva 2014/65/UE (MiFID II) para o CVM, substituindo o regime do DL n.º 357-A/2007 (MiFID I) [■ VERIFICAR a redação aplicável à data da subscrição]\n- Regulamento Delegado (UE) 2017/565 (diretamente aplicável): arts. 54.º a 56.º — avaliação da adequação",
+        "motivo": "Os artigos do CVM indicados não correspondiam ao seu conteúdo (o art. 304.º-B trata dos códigos deontológicos e não há art. 325.º-A); a MiFID I foi substituída pela MiFID II.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?ficha=401&artigo_id=&nid=450&pagina=5&tabela=leis&nversao=&so_miolo="
+      },
+      {
+        "de": "- Presunção de culpa (art. 304.º-B CVM): o intermediário tem de fazer prova de que não houve culpa",
+        "para": "- Presunção de culpa (art. 304.º-A, n.º 2, CVM): o intermediário tem de fazer prova de que não houve culpa; o nexo de causalidade entre a falta de informação e a decisão de investir tem de ser alegado e provado pelo Autor [■ VERIFICAR AUJ do STJ n.º 8/2022]",
+        "motivo": "A presunção de culpa está no art. 304.º-A, n.º 2; a presunção não abrange o nexo de causalidade.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?ficha=401&artigo_id=&nid=450&pagina=5&tabela=leis&nversao=&so_miolo="
+      },
+      {
+        "de": "I) Dever de adequação (art. 321.º CVM)\n\nNos termos do art. 321.º, n.º 1 do CVM: \"[transcrição]\". A Ré estava obrigada a verificar se o produto era adequado ao perfil do Autor (conhecimento, experiência, situação financeira, objetivos).",
+        "para": "I) Dever de adequação (arts. 314.º e 314.º-A CVM)\n\nNos termos dos arts. 314.º, n.º 1, e 314.º-A, n.os 1 e 3, do CVM: \"[transcrição]\". A Ré estava obrigada a verificar se o produto era adequado ao perfil do Autor (conhecimentos e experiência e, tendo havido consultoria para investimento, situação financeira, capacidade para suportar perdas, objetivos de investimento e tolerância ao risco), não o podendo recomendar se o considerasse inadequado.",
+        "motivo": "O dever de adequação está nos arts. 314.º e 314.º-A do CVM; o art. 321.º trata dos contratos com investidores.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=450A0314&nid=450&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "II) Dever de informação (art. 323.º CVM)\n\nNos termos do art. 323.º do CVM: \"[transcrição]\".",
+        "para": "II) Dever de informação (art. 312.º CVM)\n\nNos termos do art. 312.º, n.os 1, als. d), e) e h), e 2, do CVM: \"[transcrição]\".",
+        "motivo": "O dever de informação sobre instrumentos, riscos e custos é o do art. 312.º; o art. 323.º trata da informação contratual e periódica.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?ficha=401&artigo_id=&nid=450&pagina=5&tabela=leis&nversao=&so_miolo="
+      },
+      {
+        "de": "Nos termos do art. 304.º-B do CVM: \"[transcrição]\". Presume-se a culpa do intermediário financeiro que viola deveres de conduta.",
+        "para": "Nos termos do art. 304.º-A do CVM: \"[transcrição]\". A culpa do intermediário financeiro presume-se quando o dano seja causado no âmbito de relações contratuais ou pré-contratuais e, em qualquer caso, quando seja originado pela violação de deveres de informação (n.º 2).",
+        "motivo": "A responsabilidade civil e a presunção de culpa constam do art. 304.º-A, com o alcance do seu n.º 2.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?ficha=401&artigo_id=&nid=450&pagina=5&tabela=leis&nversao=&so_miolo="
+      },
+      {
+        "de": "- Facto ilícito: violação dos deveres dos arts. 321.º e 323.º CVM\n- Culpa: presumida (art. 304.º-B CVM)",
+        "para": "- Facto ilícito: violação dos deveres dos arts. 312.º, 314.º e 314.º-A CVM\n- Culpa: presumida (art. 304.º-A, n.º 2, CVM)",
+        "motivo": "Remissão para os artigos corretos do CVM.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?ficha=401&artigo_id=&nid=450&pagina=5&tabela=leis&nversao=&so_miolo="
+      },
+      {
+        "de": "- [ ] Presunção de culpa (art. 304.º-B CVM) invocada",
+        "para": "- [ ] Presunção de culpa (art. 304.º-A, n.º 2, CVM) invocada",
+        "motivo": "A presunção de culpa está no art. 304.º-A, n.º 2.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?ficha=401&artigo_id=&nid=450&pagina=5&tabela=leis&nversao=&so_miolo="
+      },
+      {
+        "de": "- [ ] Prescrição verificada [■ VERIFICAR]",
+        "para": "- [ ] Prescrição verificada (art. 324.º, n.º 2, CVM) [■ VERIFICAR]",
+        "motivo": "Prazo especial de prescrição do CVM.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?ficha=501&artigo_id=&nid=450&pagina=6&tabela=leis&nversao=&so_miolo="
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Nexo de causalidade: confirmar no Diário da República o AUJ do STJ n.º 8/2022, que, segundo as fontes consultadas, faz recair sobre o investidor, mesmo não qualificado, o ónus de provar que, com a informação devida, não teria investido.",
+      "Confirmar a redação do CVM aplicável à data da subscrição (antes da Lei n.º 35/2018 vigorava o regime do DL n.º 357-A/2007) e a do art. 324.º antes da Lei n.º 99-A/2021, para efeitos de prescrição.",
+      "Confirmar a categorização do Autor e se houve consultoria para investimento, de que depende a aplicação do art. 314.º-A."
+    ],
+    "fontes": [
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=450&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?ficha=401&artigo_id=&nid=450&pagina=5&tabela=leis&nversao=&so_miolo=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?ficha=501&artigo_id=&nid=450&pagina=6&tabela=leis&nversao=&so_miolo=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=450A0314&nid=450&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://publications.europa.eu/resource/celex/32017R0565",
+      "https://vlex.pt/vid/lei-n-35-2018-1034386310",
+      "https://vlex.pt/vid/acordao-do-supremo-tribunal-913662980",
+      "https://www.pgdlisboa.pt/leis/lei_busca.php?busca=codigo&buscacodigo=C%F3digo+dos+Valores+Mobili%E1rios&codigoprincipal=codigoprincipal&pagina=1&ficha=1&so_miolo="
+    ]
+  }
+]

@@ -7,6 +7,7 @@ descricao: "Elabora um parecer jurídico que avalia se uma diretiva da UE foi co
 descricao_en: "Prepares a legal opinion assessing whether an EU directive has been correctly transposed into Portuguese law, identifying gaps or incorrect transposition and analysing the legal consequences, namely the possibility of direct effect, the duty of consistent interpretation and State liability for failure to transpose or defective transposition."
 ambito: ue
 estado_citacoes: "conferidas 3 · corrigidas 0 · por conferir 2"
+revisao_tecnica: "2026-10-30 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
@@ -15,6 +16,7 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 > **Âmbito:** UE · **Área:** Direito da União Europeia · **Código:** UE-004
 > **EN:** Legal Opinion on the Transposition (or Non-Transposition) of a Directive. Prepares a legal opinion assessing whether an EU directive has been correctly transposed into Portuguese law, identifying gaps or incorrect transposition and analysing the legal consequences, namely the possibility of direct effect, the duty of consistent interpretation and State liability for failure to transpose or defective transposition.
 > **Citações:** conferidas 3 · corrigidas 0 · por conferir 2. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-30 — corrigida (2 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
 Elabora um parecer jurídico que avalia se uma diretiva da UE foi corretamente transposta para o direito português, identifica lacunas ou transposições incorretas e analisa as consequências jurídicas, nomeadamente a possibilidade de efeito direto, a obrigação de interpretação conforme e a responsabilidade do Estado por omissão ou transposição deficiente.
 
@@ -55,8 +57,8 @@ Apresenta dentro de um bloco <fundamentos_juridicos>:
 - Efeito direto (se prazo expirado + critérios Van Gend: clara, precisa, incondicional [■ VERIFICAR])
 - Interpretação conforme: obrigação do tribunal nacional de interpretar o direito nacional de acordo com a diretiva (Von Colson [■ VERIFICAR]; Marleasing [■ VERIFICAR]; Pfeiffer [■ VERIFICAR])
 - Responsabilidade do Estado por violação do direito da UE:
-  * Critérios Francovich [■ VERIFICAR proc. C-6/90 e C-9/90]: norma confere direitos a particulares; violação suficientemente caracterizada; nexo causal entre a violação e o dano
-  * Critérios Brasserie du Pêcheur [■ VERIFICAR]
+  * Critérios Francovich (proc. apensos C-6/90 e C-9/90, acórdão de 19/11/1991), para a falta de transposição: o resultado prescrito pela diretiva implica a atribuição de direitos a particulares; o conteúdo desses direitos pode ser identificado com base nas disposições da diretiva; nexo de causalidade entre a violação da obrigação do Estado e o dano sofrido
+  * Critérios Brasserie du Pêcheur (proc. apensos C-46/93 e C-48/93, acórdão de 5/3/1996, n.º 51): a norma violada tem por objeto conferir direitos aos particulares; violação suficientemente caracterizada; nexo de causalidade direto entre a violação e o dano
 
 **Análise artigo a artigo (baseada nos dados fornecidos):**
 - Para cada artigo relevante da diretiva: o que impõe, o que o direito nacional prevê, e se há conformidade, lacuna ou divergência
@@ -129,7 +131,7 @@ Apresenta dentro de um bloco <checklist_validacao>:
 - Artigos essenciais a analisar: [lista]
 
 **LEGISLAÇÃO NACIONAL:**
-- Diploma de transposição (se existente): [ex: Lei n.º 47/2022, de 9 de julho]
+- Diploma de transposição (se existente): [ex: Decreto-Lei n.º 84/2021, de 18 de outubro]
 - Artigos nacionais a comparar: [lista]
 - Data de publicação: [data]
 

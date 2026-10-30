@@ -1,0 +1,202 @@
+[
+ {
+  "codigo": "BAN-034",
+  "veredicto": "corrigida",
+  "resumo": "A ficha atribuía ao art. 30.º DL 133/2009 a «redução dos encargos» (é o artigo das contraordenações; as consequências da falta de requisitos estão no art. 13.º), indicava uma comissão de reembolso antecipado de «0,5% ou 1%» (a lei portuguesa fixa 0,5% / 0,25% no art. 19.º, n.º 4) e chamava FINE à ficha pré-contratual, que no crédito aos consumidores é a «Informação normalizada europeia em matéria de crédito a consumidores». Corrigiu-se ainda a cessão do crédito (o art. 21.º foi revogado pelo DL 103/2025, que aprovou o regime da cessão e gestão de créditos bancários), precisou-se o início do prazo de revogação e acrescentou-se a ressalva da Diretiva (UE) 2023/2225, aplicável a partir de 20/11/2026, com a transposição portuguesa por confirmar.",
+  "substituicoes": [
+   {
+    "de": "- Âmbito de aplicação do DL 133/2009 — verificar valor do crédito (entre €200 e €75.000) e finalidade",
+    "para": "- Âmbito de aplicação do DL 133/2009 — verificar valor do crédito (entre €200 e €75.000 — art. 2.º, n.º 1, al. c); acima de €75.000 aplica-se ainda ao crédito sem garantia sobre imóvel destinado a obras em imóveis — art. 2.º, n.º 5) e finalidade\n- Contratos celebrados a partir de 20/11/2026: a Diretiva (UE) 2023/2225 revoga nessa data a Diretiva 2008/48/CE, alarga o âmbito aos créditos até €100.000, sem o limite mínimo de €200, e mantém a diretiva anterior para os contratos em vigor nessa data [■ VERIFICAR: transposição portuguesa da Diretiva (UE) 2023/2225 e regime aplicável ao contrato]",
+    "motivo": "Âmbito confirmado no art. 2.º; a Diretiva (UE) 2023/2225 aplica-se a partir de 20/11/2026 e não foi encontrada a transposição portuguesa.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1107A0002&nid=1107&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "ficha de informação normalizada europeia (FINE) fornecida? (art. 6.º DL 133/2009)",
+    "para": "ficha «Informação normalizada europeia em matéria de crédito a consumidores» (anexo II) fornecida em papel ou noutro suporte duradouro? (art. 6.º, n.º 2, DL 133/2009; não confundir com a FINE do crédito à habitação, DL 74-A/2017)",
+    "motivo": "No crédito aos consumidores a ficha pré-contratual é a do anexo II do DL 133/2009; a FINE é a do crédito à habitação.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1107A0006&nid=1107&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Consequências do incumprimento dos deveres de informação (art. 30.º DL 133/2009 — redução dos encargos)",
+    "para": "- Consequências da falta dos requisitos do contrato (art. 13.º DL 133/2009): nulidade (n.º 1), anulabilidade (n.º 3) ou inexigibilidade das garantias e seguros não mencionados (n.º 4), invocáveis só pelo consumidor (n.º 5); se o consumidor provar o contrato sem invocar a invalidade, a obrigação reduz-se ao preço a contado ou ao montante do crédito concedido (n.ºs 6 e 7). O art. 30.º DL 133/2009 prevê as contraordenações, não a redução dos encargos",
+    "motivo": "O art. 30.º trata das contraordenações; as consequências civis da falta de requisitos estão no art. 13.º.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1107A0013&nid=1107&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Reembolso antecipado — direito incondicional e cálculo da indemnização máxima (art. 19.º DL 133/2009 — 0,5% ou 1%)",
+    "para": "- Reembolso antecipado — direito a todo o tempo, com pré-aviso mínimo de 30 dias de calendário (art. 19.º, n.ºs 1 e 2, DL 133/2009); comissão só em período de taxa fixa, até 0,5% do capital reembolsado se faltar mais de um ano para o termo do contrato ou 0,25% se faltar um ano ou menos, nunca acima dos juros do período remanescente de taxa fixa, e sem comissão no reembolso feito por seguro ou na facilidade de descoberto (art. 19.º, n.ºs 3 a 6)",
+    "motivo": "Os tetos portugueses são 0,5% e 0,25% (não 1% e 0,5%, que são os da Diretiva 2008/48/CE), com pré-aviso de 30 dias e só em taxa fixa.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1107A0019&nid=1107&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Direito de revogação (art. 17.º) — se ainda no prazo ou se houve irregularidade que reabre o prazo",
+    "para": "- Direito de livre revogação (art. 17.º DL 133/2009) — 14 dias de calendário, contados da celebração ou, se posterior, da receção pelo consumidor do exemplar do contrato e das informações do art. 12.º (art. 17.º, n.º 2); verificar se o prazo chegou a começar a correr",
+    "motivo": "A lei não prevê a «reabertura» do prazo: o prazo só começa com a entrega do exemplar e das informações do art. 12.º.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1107A0017&nid=1107&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Cessão do crédito a entidade terceira — notificação do cedente e efeitos",
+    "para": "- Cessão do crédito a entidade terceira — o art. 21.º DL 133/2009 foi revogado pelo DL 103/2025; nas cessões posteriores à entrada em vigor deste, aplica-se o regime da cessão e gestão de créditos bancários (anexo I ao DL 103/2025): o gestor de créditos comunica a cessão ao devedor no prazo de 10 dias e antes da primeira cobrança (art. 28.º, n.º 1), a cessão só produz efeitos com essa comunicação (art. 7.º, n.º 2, al. b)), o cessionário fica sujeito às mesmas regras de proteção do consumidor (art. 6.º, n.º 1) e a cessão não dispensa a prévia observância do PERSI, quando aplicável (art. 5.º, n.º 2); nas cessões anteriores, ver o art. 21.º DL 133/2009 na redação então vigente",
+    "motivo": "O DL 103/2025 revogou o art. 21.º DL 133/2009 e passou a regular a cessão de créditos bancários e a comunicação ao devedor.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3946&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Indemnização máxima por reembolso antecipado (art. 19.º DL 133/2009): €[X]",
+    "para": "- Comissão máxima de reembolso antecipado (art. 19.º, n.ºs 4 e 6, DL 133/2009): €[X]",
+    "motivo": "A lei fala em comissão de reembolso antecipado, com os tetos dos n.ºs 4 e 6.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1107A0019&nid=1107&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] FINE fornecida antes da celebração",
+    "para": "- [ ] Ficha «Informação normalizada europeia em matéria de crédito a consumidores» fornecida antes da celebração",
+    "motivo": "A FINE é a ficha do crédito à habitação, não a do crédito aos consumidores.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1107A0006&nid=1107&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar se Portugal já transpôs a Diretiva (UE) 2023/2225 e, nos contratos celebrados a partir de 20/11/2026, qual o regime aplicável.",
+   "Verificar se o credor integrou o consumidor no PERSI (DL 227/2012) antes de declarar o vencimento antecipado ou de avançar judicialmente: é argumento de defesa relevante que a ficha não refere.",
+   "Comparar a TAEG contratada com as TAEG máximas divulgadas trimestralmente pelo Banco de Portugal (usura, art. 28.º DL 133/2009).",
+   "Em caso de cessão, confirmar a data da cessão face à entrada em vigor do DL 103/2025 (90 dias após 11/9/2025) para saber se se aplica o novo regime ou o antigo art. 21.º DL 133/2009."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1107&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1107A0002&nid=1107&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1107A0006&nid=1107&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1107A0013&nid=1107&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1107A0017&nid=1107&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1107A0019&nid=1107&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1107A0020&nid=1107&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3946&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://publications.europa.eu/resource/celex/32023L2225"
+  ]
+ },
+ {
+  "codigo": "BAN-049",
+  "veredicto": "corrigida",
+  "resumo": "Quase todas as remissões do RGICSF estavam erradas: as exclusões estão no art. 165.º (não no 168.º, que trata dos serviços do Fundo), o prazo de 7 dias úteis no art. 167.º, n.º 1 (não no 169.º) e as contas conjuntas no art. 166.º, n.º 4. A proteção acima de €100.000 dura um ano (não seis meses) e abrange só as três categorias do art. 166.º, n.º 2; a lista de exclusões foi reescrita segundo o art. 165.º, n.º 1 (administradores só com a ressalva da al. d); sem exclusão de «empresas relacionadas»). Precisou-se ainda que o reembolso não depende de pedido, o destino do excedente (privilégio do art. 166.º-A, n.º 4) e marcou-se a morada do FGD para confirmar.",
+  "substituicoes": [
+   {
+    "de": "- Depósitos excluídos (art. 168.º RGICSF):\n  a) Depósitos de outras instituições de crédito\n  b) Depósitos de fundos próprios do banco\n  c) Depósitos de empresas de seguros, fundos de investimento\n  d) Depósitos de administradores e diretores da instituição\n  e) Depósitos de empresas relacionadas com a instituição",
+    "para": "- Depósitos excluídos (art. 165.º, n.º 1, RGICSF):\n  a) Depósitos em nome e por conta de instituições de crédito, empresas de investimento, instituições financeiras, empresas de seguros e de resseguros, instituições de investimento coletivo, fundos de pensões (salvo os de pequenas e médias empresas), entidades do setor público administrativo (salvo autarquias locais com orçamento anual até €500.000) e organismos supranacionais ou internacionais\n  b) Depósitos decorrentes de operações com condenação penal transitada em julgado por branqueamento de capitais\n  c) Depósitos cujo titular não esteja identificado nos termos da Lei 83/2017 à data da indisponibilidade\n  d) Depósitos de quem, nos dois anos anteriores, teve participação igual ou superior a 2% do capital ou foi membro do órgão de administração da instituição, salvo prova de que não esteve na origem das dificuldades financeiras nem as agravou\n  e) Não são depósitos garantidos os saldos de operações de investimento, ainda que o capital esteja garantido por compromisso contratual específico (art. 155.º, n.º 6, RGICSF)\n  Havendo dúvidas fundadas, o FGD suspende o reembolso até decisão judicial (art. 165.º, n.º 2)",
+    "motivo": "As exclusões estão no art. 165.º; a lista não correspondia à lei (administradores só com a ressalva da al. d); não há exclusão de empresas relacionadas).",
+    "fonte": "https://www.bportugal.pt/sites/default/files/anexos/legislacoes/rgicsf_pt.pdf"
+   },
+   {
+    "de": "- Contas conjuntas: o limite aplica-se individualmente a cada titular (art. 167.º, n.º 2)",
+    "para": "- Contas conjuntas: salvo disposição em contrário, o saldo presume-se pertencer em partes iguais aos titulares, e a parte de cada um soma-se aos seus outros depósitos na mesma instituição para o limite de €100.000 (art. 166.º, n.º 4, als. a), d) e f), RGICSF)",
+    "motivo": "A regra das contas coletivas está no art. 166.º, n.º 4; o art. 167.º, n.º 2 trata do prazo de 90 dias.",
+    "fonte": "https://www.bportugal.pt/sites/default/files/anexos/legislacoes/rgicsf_pt.pdf"
+   },
+   {
+    "de": "- Depósitos temporariamente acima de €100.000 protegidos (art. 166.º, n.º 4): imóvel nos últimos 6 meses, casamento/divórcio/invalidade, herança, indemnizações",
+    "para": "- Depósitos protegidos acima de €100.000 durante um ano a contar da data em que o montante foi creditado na conta (art. 166.º, n.º 2, RGICSF): transações imobiliárias relativas a prédios urbanos habitacionais privados; depósitos com objetivos sociais determinados em diploma próprio; prestações de seguros ou indemnizações por danos resultantes de crime ou de condenação indevida [■ VERIFICAR: se existe diploma próprio que abranja casamento, divórcio, herança ou outros eventos]",
+    "motivo": "A proteção dura um ano e abrange só as categorias do art. 166.º, n.º 2.",
+    "fonte": "https://www.bportugal.pt/sites/default/files/anexos/legislacoes/rgicsf_pt.pdf"
+   },
+   {
+    "de": "- Prazo: 7 dias úteis após determinação da indisponibilidade (Diretiva DGS; art. 169.º, n.º 1, RGICSF)",
+    "para": "- Prazo: 7 dias úteis a contar da data em que se verifica a indisponibilidade dos depósitos, sem necessidade de pedido do depositante (art. 167.º, n.º 1, RGICSF); 90 dias nos casos das als. e) e f) do n.º 4 do art. 166.º (art. 167.º, n.º 2); o prazo pode ser diferido, p. ex., nos depósitos protegidos acima do limite (art. 167.º, n.º 3); findos os prazos, o depositante pode ainda reclamar do FGD o que lhe for devido, salvo prescrição (art. 167.º, n.º 4)",
+    "motivo": "O prazo está no art. 167.º, n.º 1 (o art. 169.º trata dos períodos de exercício) e o reembolso não depende de pedido.",
+    "fonte": "https://www.bportugal.pt/sites/default/files/anexos/legislacoes/rgicsf_pt.pdf"
+   },
+   {
+    "de": "- O que acontece ao excedente acima de €100.000: crédito sobre a massa insolvente ou banco de transição",
+    "para": "- O que acontece ao excedente acima de €100.000: crédito sobre a instituição em liquidação, com privilégio creditório para pessoas singulares e micro, pequenas e médias empresas (art. 166.º-A, n.º 4, RGICSF); em resolução, se os depósitos garantidos forem transferidos para outra instituição em montante igual ou superior ao limite, não há crédito sobre o FGD pela parte não transferida (art. 167.º-B, n.º 4, RGICSF)",
+    "motivo": "Acrescenta o privilégio do excedente e o efeito da transferência em resolução previstos no RGICSF.",
+    "fonte": "https://www.bportugal.pt/sites/default/files/anexos/legislacoes/rgicsf_pt.pdf"
+   },
+   {
+    "de": "[Morada: Av. da República n.º 57, 4.º, 1050-189 Lisboa]",
+    "para": "[Morada: Av. da República, n.º 57, 1050-189 Lisboa] [■ VERIFICAR: andar e morada atual em www.fgd.pt]",
+    "motivo": "O sítio do FGD não respondeu e as fontes secundárias indicam outro andar (8.º).",
+    "fonte": ""
+   },
+   {
+    "de": "[Pedido de pagamento do montante garantido (até €100.000)]\n[Reclamação do excedente como credor da massa insolvente]",
+    "para": "[Pedido de pagamento do montante garantido (até €100.000): o reembolso não depende de pedido; a carta serve quando o FGD não pagou no prazo ou se contesta o montante (art. 167.º, n.ºs 1 e 4, RGICSF)]\n[Excedente acima de €100.000: não é pago pelo FGD; reclama-se no processo de liquidação da instituição, com o privilégio do art. 166.º-A, n.º 4, RGICSF, quando aplicável] [■ VERIFICAR: regime e prazo da reclamação de créditos na liquidação]",
+    "motivo": "O excedente não se reclama ao FGD, mas na liquidação da instituição; o reembolso garantido é automático.",
+    "fonte": "https://www.bportugal.pt/sites/default/files/anexos/legislacoes/rgicsf_pt.pdf"
+   },
+   {
+    "de": "(escritura, certidão de óbito, sentença)",
+    "para": "(escritura, documento do pagamento do seguro ou da indemnização, sentença, extrato com a data do crédito na conta)",
+    "motivo": "Herança não é categoria do art. 166.º, n.º 2; conta-se um ano desde o crédito na conta.",
+    "fonte": "https://www.bportugal.pt/sites/default/files/anexos/legislacoes/rgicsf_pt.pdf"
+   },
+   {
+    "de": "[sim/não — origem: imóvel/herança/outro]",
+    "para": "[sim/não — origem: venda de habitação/seguro ou indemnização/outro — data do crédito na conta]",
+    "motivo": "Alinhar com as categorias e o prazo de um ano do art. 166.º, n.º 2.",
+    "fonte": "https://www.bportugal.pt/sites/default/files/anexos/legislacoes/rgicsf_pt.pdf"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar a morada atual (andar) do Fundo de Garantia de Depósitos em www.fgd.pt.",
+   "Confirmar se existe diploma próprio que defina «depósitos com objetivos sociais» para efeitos do art. 166.º, n.º 2, al. b), RGICSF.",
+   "O texto foi conferido na versão consolidada do Banco de Portugal (até à Lei 73/2025); confirmar no Diário da República se houve alterações em 2026 aos arts. 165.º a 167.º-B RGICSF.",
+   "Confirmar o regime e o prazo de reclamação de créditos na liquidação da instituição para o excedente."
+  ],
+  "fontes": [
+   "https://www.bportugal.pt/sites/default/files/anexos/legislacoes/rgicsf_pt.pdf",
+   "https://www.fgd.pt/pt-PT/Contactos/Paginas/default.aspx"
+  ]
+ },
+ {
+  "codigo": "BAN-059",
+  "veredicto": "corrigida",
+  "resumo": "A ficha falava em infrações «graves vs. muito graves» e citava o art. 212.º para o máximo de €5M e o art. 215.º para a audição: no RGICSF há infrações graves (art. 210.º, até €1,5M) e especialmente graves (art. 211.º, até €5M ou 10% do volume de negócios), o art. 212.º trata das sanções acessórias e a defesa está no art. 219.º-A (10 a 30 dias úteis). Retiraram-se os sistemas de reporte não identificáveis («STE», «ILTIS», BPstat), acrescentou-se o regime sancionatório próprio da CRC (anexo II ao DL 103/2025) e o da Lei 83/2017, a impugnação judicial para o Tribunal da Concorrência, Regulação e Supervisão e a correção de irregularidades (art. 209.º-A).",
+  "descricao": "Elabora análise das obrigações de reporte e informação das instituições de crédito ao Banco de Portugal (COREP, FINREP, limites de grandes riscos, Central de Responsabilidades de Crédito, reportes estatísticos, branqueamento), identifica falhas e elabora defesa em processo de supervisão ou contraordenação por incumprimento, ao abrigo do RGICSF (DL 298/92), do regime da Central de Responsabilidades de Crédito (DL 103/2025) e das normas técnicas de execução sobre reporte para fins de supervisão.",
+  "descricao_en": "Analyses credit institutions' reporting and information obligations to the Bank of Portugal (COREP, FINREP, large exposure limits, Central Credit Register, statistical reporting, money laundering), identifies failures and prepares a defence in supervisory or administrative offence (contraordenação) proceedings for non-compliance, under the RGICSF (Decree-Law 298/92), the Central Credit Register regime (Decree-Law 103/2025) and the implementing technical standards on supervisory reporting.",
+  "substituicoes": [
+   {
+    "de": "  c) Estatístico: BPstat, STE (sistema de títulos), ILTIS (informação de liquidez)",
+    "para": "  c) Estatístico: reportes para as estatísticas do Banco de Portugal e do BCE (p. ex., carteiras de títulos, título a título) [■ VERIFICAR: instrução do Banco de Portugal que rege o reporte em causa e respetivos prazos]",
+    "motivo": "«STE» e «ILTIS» não são identificáveis como sistemas de reporte ao Banco de Portugal.",
+    "fonte": ""
+   },
+   {
+    "de": "- Quadro sancionatório (arts. 210.º a 212.º RGICSF): infração grave vs. muito grave\n- Montante máximo da coima (art. 212.º, n.º 1, RGICSF): até €5M para pessoas coletivas",
+    "para": "- Quadro sancionatório: infrações graves (art. 210.º RGICSF — p. ex., omissão de informações e comunicações devidas ao Banco de Portugal nos prazos estabelecidos e prestação de informações incompletas, al. i)) vs. infrações especialmente graves (art. 211.º RGICSF — p. ex., prestação de informações falsas ou incompletas suscetíveis de induzir em erro, n.º 1, al. p)); sanções acessórias no art. 212.º\n- Molduras da coima para entes coletivos: €3.000 a €1.500.000 nas infrações graves (art. 210.º RGICSF) e €10.000 a €5.000.000 nas especialmente graves (art. 211.º, n.º 1), podendo o máximo destas subir a 10% do volume de negócios anual líquido (art. 211.º, n.º 2); o máximo eleva-se ao dobro do benefício económico, se for superior (art. 211.º-A)\n- Falhas de reporte à Central de Responsabilidades de Crédito: regime sancionatório próprio do regime da CRC (anexo II ao DL 103/2025) — a falta de comunicação ou de informação completa, verdadeira, exata e tempestiva é contraordenação muito grave, com coima de €10.000 a €1.000.000 para entes coletivos (arts. 13.º, n.º 1, e 14.º, n.º 1, als. b) e c)); falhas de reporte em prevenção do branqueamento de capitais seguem o regime sancionatório da Lei 83/2017 [■ VERIFICAR: artigos e molduras aplicáveis da Lei 83/2017]",
+    "motivo": "O RGICSF distingue infrações graves (art. 210.º) e especialmente graves (art. 211.º); o art. 212.º é das sanções acessórias; a CRC tem regime sancionatório próprio desde o DL 103/2025.",
+    "fonte": "https://www.bportugal.pt/sites/default/files/anexos/legislacoes/rgicsf_pt.pdf"
+   },
+   {
+    "de": "- Circunstâncias atenuantes: primeiro incumprimento",
+    "para": "- Circunstâncias atenuantes (art. 206.º, n.ºs 2 e 4, RGICSF): primeiro incumprimento",
+    "motivo": "Os critérios de graduação da sanção constam do art. 206.º.",
+    "fonte": "https://www.bportugal.pt/sites/default/files/anexos/legislacoes/rgicsf_pt.pdf"
+   },
+   {
+    "de": "- Circunstâncias agravantes: reincidência",
+    "para": "- Circunstâncias agravantes (art. 206.º, n.ºs 2 e 4, RGICSF): reincidência",
+    "motivo": "Os critérios de graduação da sanção constam do art. 206.º.",
+    "fonte": "https://www.bportugal.pt/sites/default/files/anexos/legislacoes/rgicsf_pt.pdf"
+   },
+   {
+    "de": "- Direito de audição (art. 215.º RGICSF): prazo de 10 a 30 dias para resposta\n- Possibilidade de regularização voluntária antes da sanção",
+    "para": "- Direito de defesa (art. 219.º-A, n.º 1, RGICSF): prazo fixado pelo Banco de Portugal entre 10 e 30 dias úteis para defesa escrita e meios de prova (até 3 testemunhas por infração e 12 no total — n.º 3)\n- Correção de irregularidades de pequena gravidade e decisão de não instauração do processo (art. 209.º-A RGICSF); processo sumaríssimo, com admoestação ou coima reduzida (art. 227.º-A), e suspensão da execução da sanção (art. 223.º)\n- Impugnação judicial da decisão: 15 dias úteis a contar do seu conhecimento, com petição apresentada na sede do Banco de Portugal (art. 228.º, n.º 1, RGICSF), para o Tribunal da Concorrência, Regulação e Supervisão (art. 229.º); efeito suspensivo só com garantia de metade da coima, prestada em 20 dias (art. 228.º-A)",
+    "motivo": "A defesa está no art. 219.º-A e o prazo é em dias úteis (o art. 215.º trata da recolha de elementos); faltavam a correção de irregularidades e a impugnação judicial.",
+    "fonte": "https://www.bportugal.pt/sites/default/files/anexos/legislacoes/rgicsf_pt.pdf"
+   },
+   {
+    "de": "Ao Banco de Portugal — Departamento de Supervisão",
+    "para": "Ao Banco de Portugal — [■ VERIFICAR: departamento e referência indicados na notificação]",
+    "motivo": "O processo contraordenacional não corre necessariamente pelo departamento de supervisão; usar o indicado na notificação.",
+    "fonte": ""
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Identificar a instrução do Banco de Portugal ou o regulamento de execução da UE que rege o reporte concreto e o respetivo prazo.",
+   "Confirmar os artigos e as molduras da Lei 83/2017 se a falha respeitar a deveres de prevenção do branqueamento de capitais.",
+   "Na CRC, verificar se a falha ocorreu antes ou depois da entrada em vigor do DL 103/2025 (90 dias após 11/9/2025), para saber se se aplica o novo regime da CRC ou o DL 204/2008.",
+   "O RGICSF foi conferido na versão consolidada do Banco de Portugal (até à Lei 73/2025); confirmar no Diário da República se houve alterações em 2026 ao título XI."
+  ],
+  "fontes": [
+   "https://www.bportugal.pt/sites/default/files/anexos/legislacoes/rgicsf_pt.pdf",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3946&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.bportugal.pt/sites/default/files/anexos/pdf-boletim/bo_7_2022_2s.pdf",
+   "https://www.bportugal.pt/instrucao/132022"
+  ]
+ }
+]

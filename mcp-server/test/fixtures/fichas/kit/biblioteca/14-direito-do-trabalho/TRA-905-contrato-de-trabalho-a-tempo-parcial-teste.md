@@ -32,6 +32,7 @@ extraido_em: 2026-10-27
 - Que actividade exerce o trabalhador e qual o objecto do contrato?
 - Os factos e o contacto do trabalhador; a secção do regulamento interno; o impacto no sector.
 - Cláusula de opt-out e contrato de factoring não se tocam.
+- A contra-ordenação laboral não se confunde com a adopção de regras pelo accionista; prazo peremptório.
 - Retribuição mínima: salário mínimo nacional (€870) proporcional.
 
 ### ETAPA 2 — ANÁLISE JURÍDICA (Fundamentação)
@@ -39,6 +40,10 @@ extraido_em: 2026-10-27
 - Art. 154.º CT (conteúdo do contrato — menção obrigatória do horário)
 - Art. 156.º CT (retribuição proporcional)
 - Art. 157.º CT (proibição de trabalho suplementar habitual)
+- Art. 208.º-A CT (banco de horas individual por acordo com o trabalhador)
+- O banco de horas individual do art. 208.º-A CT foi revogado pela Lei n.º 93/2019: não o propor.
+- Art. 151 CT (liberdade de celebração de contrato de trabalho a tempo parcial)
+- Artigo 1 — Objeto do contrato
 
 ## Disclaimer
 Ferramenta de auxílio profissional. Não substitui o juízo do advogado nem constitui aconselhamento jurídico.

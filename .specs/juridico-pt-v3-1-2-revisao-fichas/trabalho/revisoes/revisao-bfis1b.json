@@ -1,0 +1,312 @@
+[
+  {
+    "codigo": "FIS-018",
+    "veredicto": "corrigida",
+    "resumo": "A ficha sugeria uma «dedução de crédito hipotecário» que o AIMI não prevê, confundia a dedução do AIMI em IRS e em IRC e apresentava os escalões do passo 3 de forma ambígua (o 3.º escalão começava a € 1.000.000 do valor já deduzido). Corrigiram-se as exclusões (art. 135.º-B, n.º 2, CIMI), acrescentaram-se as taxas especiais das pessoas coletivas (0,7 %/1 %/1,5 % e 7,5 %) e o regime das heranças indivisas, reescreveram-se os escalões sobre a soma dos VPT e a dedução em IRS e IRC (arts. 135.º-I e 135.º-J CIMI).",
+    "substituicoes": [
+      {
+        "de": "- NÃO incide sobre: imóveis comerciais, industriais, logísticos, outros imóveis (código T, E, etc.)",
+        "para": "- NÃO incide sobre: prédios urbanos classificados como «comerciais, industriais ou para serviços» e «outros» (art. 6.º, n.º 1, b) e d), CIMI), nem prédios habitacionais enquadrados no Programa de Apoio ao Arrendamento (art. 135.º-B, n.º 2, CIMI); também não se contabilizam, entre outros, os prédios que no ano anterior estiveram isentos ou não sujeitos a IMI (art. 135.º-C, n.º 3, CIMI)",
+        "motivo": "As exclusões são as do art. 135.º-B, n.º 2, CIMI; «logísticos» e «código T, E» não são categorias legais.",
+        "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cimi/Pages/cimi135b.aspx"
+      },
+      {
+        "de": "- Pessoas coletivas: taxa flat de 0,4% sobre VPT total (sem limiar de isenção) [■ VERIFICAR]",
+        "para": "- Pessoas coletivas: taxa de 0,4% sobre o VPT total, sem dedução (art. 135.º-F, n.º 1, CIMI), salvo os prédios afetos ao uso pessoal dos titulares do capital, dos membros dos órgãos sociais ou dos seus cônjuges, ascendentes e descendentes, sujeitos a 0,7% / 1% / 1,5% (art. 135.º-F, n.º 4, CIMI), e os prédios de entidades sujeitas a regime fiscal mais favorável (art. 63.º-D, n.º 1, LGT), sujeitos a 7,5% (art. 135.º-F, n.º 5, CIMI)\n- Heranças indivisas: equiparadas a pessoa coletiva (art. 135.º-A, n.º 2, CIMI), mas com dedução de € 600.000 e taxa de 0,7%, sem taxas marginais (arts. 135.º-C, n.º 2, b), e 135.º-F, n.º 1, CIMI); a equiparação pode ser afastada por declaração do cabeça de casal confirmada pelos herdeiros, somando-se a quota de cada herdeiro aos seus prédios (art. 135.º-E CIMI)",
+        "motivo": "A taxa de 0,4% tem as exceções do art. 135.º-F, n.ºs 4 e 5, CIMI; faltava o regime das heranças indivisas.",
+        "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cimi/Pages/cimi135f.aspx"
+      },
+      {
+        "de": "- Existe dedução de dívida (hipoteca) no caso de pessoas singulares? [■ VERIFICAR: se aplicável]",
+        "para": "- Há prédios excluídos ou não contabilizados (arts. 135.º-B, n.º 2, e 135.º-C, n.º 3, CIMI) ou prédios devolutos, em ruínas ou parcialmente devolutos, aos quais não se aplica a dedução (art. 135.º-C, n.º 4, CIMI, por remissão para o art. 112.º, n.º 3, a) e b), CIMI)? O AIMI não admite a dedução de dívidas, designadamente hipotecárias.",
+        "motivo": "O art. 135.º-C CIMI só prevê a dedução de € 600.000 (singulares e heranças indivisas); não há dedução de dívida hipotecária.",
+        "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cimi/Pages/cimi135c.aspx"
+      },
+      {
+        "de": "- Opções de otimização: tributação conjunta vs individual; eventual dedução de crédito hipotecário",
+        "para": "- Opções de otimização: tributação conjunta vs individual (art. 135.º-D CIMI); afastamento da equiparação da herança indivisa a pessoa coletiva (art. 135.º-E CIMI); dedução do AIMI à coleta de IRS ou de IRC (arts. 135.º-I e 135.º-J CIMI)",
+        "motivo": "A dedução de crédito hipotecário não existe no AIMI; as opções legais são as dos arts. 135.º-D, 135.º-E, 135.º-I e 135.º-J CIMI.",
+        "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cimi/Pages/cimi135c.aspx"
+      },
+      {
+        "de": "Escalão 1: € [min de (VPT tributável, 400.000)] × 0,7% = € [valor]\nEscalão 2: € [excesso acima de 400.000, até 1.000.000] × 1% = € [valor]\nEscalão 3: € [excesso acima de 1.000.000] × 1,5% = € [valor]",
+        "para": "Escalão 1: € [parte do VPT sujeito entre 600.000 e 1.000.000, no máximo 400.000] × 0,7% = € [valor]\nEscalão 2: € [parte do VPT sujeito acima de 1.000.000 e até 2.000.000] × 1% = € [valor]\nEscalão 3: € [parte do VPT sujeito acima de 2.000.000] × 1,5% = € [valor]\n(Os limiares de € 1.000.000 e € 2.000.000 reportam-se à soma dos VPT antes da dedução, por remissão do art. 135.º-F, n.ºs 2 e 3, CIMI para o n.º 1 do art. 135.º-C CIMI; em tributação conjunta, a dedução é de € 1.200.000 e os limiares passam a € 2.000.000 e € 4.000.000 — arts. 135.º-D, n.º 1, e 135.º-F, n.ºs 2 e 3, CIMI. Heranças indivisas: 0,7% sobre todo o valor tributável.)",
+        "motivo": "Os 2.º e 3.º escalões estavam mal delimitados: as taxas marginais de 1% e 1,5% aplicam-se à soma dos VPT acima de € 1.000.000 e de € 2.000.000 (o dobro na tributação conjunta).",
+        "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cimi/Pages/cimi135f.aspx"
+      },
+      {
+        "de": "O AIMI pode ser deduzido à coleta de IRS/IRC como custo, em determinadas condições [■ VERIFICAR: condições atuais]",
+        "para": "IRS: o AIMI é dedutível à coleta do IRS dos sujeitos passivos com rendimentos imputáveis aos prédios sobre que incide, até à parte da coleta proporcional aos rendimentos líquidos da categoria F, no englobamento, ou até à coleta resultante da taxa especial dos rendimentos prediais, nos demais casos; aplica-se também aos rendimentos da categoria B obtidos em arrendamento ou hospedagem (art. 135.º-I CIMI).\nIRC: os sujeitos passivos podem optar por deduzir à coleta o AIMI pago no exercício, limitado à fração correspondente aos rendimentos dos imóveis sujeitos gerados em arrendamento ou hospedagem; a opção afasta a dedução do AIMI na determinação do lucro tributável e não se aplica a imóveis detidos, direta ou indiretamente, por entidade residente em país, território ou região com regime fiscal claramente mais favorável (art. 135.º-J CIMI).",
+        "motivo": "A dedução em IRS é à coleta e limitada aos rendimentos prediais (art. 135.º-I CIMI); em IRC é uma opção de dedução à coleta alternativa à dedução como gasto (art. 135.º-J CIMI).",
+        "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cimi/Pages/cimi135j.aspx"
+      },
+      {
+        "de": "- [ ] Taxa flat aplicada (coletivos: 0,4%)",
+        "para": "- [ ] Taxa aplicada às pessoas coletivas (0,4%; 0,7% / 1% / 1,5% para prédios afetos a uso pessoal; 7,5% para entidades sujeitas a regime fiscal mais favorável — art. 135.º-F CIMI)",
+        "motivo": "A taxa das pessoas coletivas não é única (art. 135.º-F, n.ºs 4 e 5, CIMI).",
+        "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cimi/Pages/cimi135f.aspx"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Os limiares das taxas marginais (€ 1.000.000 e € 2.000.000) leem-se, na letra do art. 135.º-F, n.ºs 2 e 3, CIMI, sobre a soma dos VPT antes da dedução; conferir o cálculo com a nota de liquidação da AT.",
+      "Confirmar se há prédios devolutos, em ruínas ou parcialmente devolutos (sem dedução — art. 135.º-C, n.º 4, CIMI) e se as declarações de tributação conjunta (1 de abril a 31 de maio — art. 135.º-D CIMI) e de herança indivisa (março e abril — art. 135.º-E CIMI) foram apresentadas a tempo.",
+      "Prazos de liquidação e pagamento (arts. 135.º-G e 135.º-H CIMI) e dedutibilidade do AIMI como gasto em IRC quando não se exerce a opção do art. 135.º-J CIMI: confirmar antes de concluir."
+    ],
+    "fontes": [
+      "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cimi/Pages/cimi135a.aspx",
+      "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cimi/Pages/cimi135b.aspx",
+      "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cimi/Pages/cimi135c.aspx",
+      "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cimi/Pages/cimi135d.aspx",
+      "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cimi/Pages/cimi135e.aspx",
+      "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cimi/Pages/cimi135f.aspx",
+      "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cimi/Pages/cimi135i.aspx",
+      "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cimi/Pages/cimi135j.aspx",
+      "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cimi/Pages/cimi112.aspx",
+      "https://www.cgd.pt/Site/Saldo-Positivo/leis-e-impostos/Pages/o-que-e-AIMI.aspx"
+    ]
+  },
+  {
+    "codigo": "FIS-041",
+    "veredicto": "corrigida",
+    "resumo": "As taxas do RFAI estavam erradas (o art. 23.º CFI não distingue PME e grandes empresas: 30 % até € 15 000 000 e 10 % no excedente, ou 10 % nas regiões do art. 107.º, n.º 3, c), TFUE) e o reporte não é de 8 anos (RFAI: 10 períodos; SIFIDE II: 12 períodos). O art. 2.º, n.º 2, CFI enumera as atividades elegíveis, não setores excluídos; as despesas do SIFIDE II foram alinhadas com o art. 37.º CFI e a sua vigência com o Decreto-Lei n.º 170/2026. Esclareceu-se que o RFAI não depende de reconhecimento prévio da AT e que o SIFIDE II depende de candidatura à Agência para a Investigação e Inovação, E. P. E.",
+    "descricao": "Elabora a fundamentação e a defesa em inspeção (direito de audição) dos benefícios fiscais RFAI (Regime Fiscal de Apoio ao Investimento, artigos 22.º a 26.º do CFI) e SIFIDE II (Sistema de Incentivos Fiscais em Investigação e Desenvolvimento Empresarial, artigos 35.º a 42.º do CFI), ao abrigo do Código Fiscal do Investimento (Decreto-Lei n.º 162/2014).",
+    "descricao_en": "Prepares the supporting case and the defence in an inspection (right to be heard) of the RFAI (Tax Regime for Investment Support, Articles 22 to 26 of the CFI) and SIFIDE II (Tax Incentive System for Business Research and Development, Articles 35 to 42 of the CFI) tax benefits, under the Investment Tax Code (Decree-Law No. 162/2014).",
+    "substituicoes": [
+      {
+        "de": "- RFAI: elegibilidade setorial (art. 2.º, n.º 2, CFI — setores excluídos), tipos de investimento elegíveis (art. 22.º, n.º 2, CFI — AFT/AI novos), taxa de benefício e limites (art. 23.º CFI: 25%/10% para grandes empresas; 30%/15% para PME)",
+        "para": "- RFAI: elegibilidade setorial (art. 22.º, n.º 1, CFI — atividades enumeradas no art. 2.º, n.º 2, CFI e na portaria dos códigos CAE, com exceção das excluídas do âmbito setorial das OAR e do RGIC); aplicações relevantes (art. 22.º, n.º 2, CFI — ativos fixos tangíveis adquiridos em estado de novo, com as exceções aí previstas, ativos intangíveis de transferência de tecnologia e custos salariais com a criação de postos de trabalho de nível 7 ou 8 do QNQ; nas empresas que não sejam PME, estes dois últimos não podem exceder 50 % das aplicações relevantes — art. 22.º, n.º 3, CFI); condições de acesso, incluindo a criação e manutenção de postos de trabalho (art. 22.º, n.º 4, CFI); dedução à coleta (art. 23.º CFI: nas regiões do art. 107.º, n.º 3, a), TFUE, 30 % do investimento até € 15 000 000 e 10 % do excedente; nas regiões do art. 107.º, n.º 3, c), TFUE, 10 % — sem taxas diferentes por dimensão da empresa), até 50 % da coleta, ou até à totalidade no período de início de atividade e nos dois seguintes (art. 23.º, n.º 2, CFI), e dentro dos limites dos auxílios com finalidade regional (arts. 23.º, n.º 5, e 43.º CFI); nas regiões do art. 107.º, n.º 3, c), TFUE, as empresas que não sejam PME só beneficiam quanto a investimento numa nova atividade económica (art. 22.º, n.º 7, CFI)",
+        "motivo": "O art. 2.º, n.º 2, CFI enumera atividades elegíveis; o art. 23.º CFI fixa 30 %/10 % por região, sem distinguir PME e grandes empresas.",
+        "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cfi/Pages/cfi-23.aspx"
+      },
+      {
+        "de": "- SIFIDE II: despesas elegíveis (art. 37.º CFI — pessoal, materiais, equipamentos, patentes, consultoria), taxa base (32,5%) e taxa incremental (50%), limite de crédito (art. 38.º CFI)",
+        "para": "- SIFIDE II: despesas elegíveis (art. 37.º CFI — ativos fixos tangíveis novos afetos a I&D, exceto edifícios e terrenos; pessoal com habilitações mínimas de nível 4 do QNQ diretamente envolvido em I&D; despesas de funcionamento até 55 % das despesas com esse pessoal; contratação de I&D a entidades públicas, de utilidade pública ou de idoneidade reconhecida; participação no capital de instituições de I&D; registo, manutenção e aquisição de patentes; auditorias à I&D; ações de demonstração), taxa base (32,5%) e taxa incremental (50% do acréscimo face à média dos dois exercícios anteriores, até € 1 500 000), com majoração de 15 % da taxa base para PME com menos de dois exercícios (art. 38.º, n.ºs 1 e 2, CFI); aplica-se às despesas dos períodos de tributação iniciados entre 1 de janeiro de 2014 e 31 de dezembro de 2026 (art. 38.º, n.º 1, CFI, na redação do Decreto-Lei n.º 170/2026, de 21 de agosto)",
+        "motivo": "As categorias de despesas são as do art. 37.º, n.º 1, CFI («materiais» e «consultoria» não o são); o SIFIDE II vigora até aos períodos iniciados em 2026.",
+        "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cfi/Pages/cfi-38.aspx"
+      },
+      {
+        "de": "- Reporte de créditos não utilizados: 8 anos (RFAI art. 23.º, n.º 2, CFI)",
+        "para": "- Reporte da dedução não utilizada por insuficiência de coleta: RFAI — 10 períodos de tributação seguintes (art. 23.º, n.º 3, CFI); SIFIDE II — até ao 12.º período seguinte (art. 38.º, n.º 4, CFI, na redação da Lei n.º 21/2023, de 25 de maio) [■ VERIFICAR: prazo aplicável às despesas de períodos anteriores a 2024]",
+        "motivo": "O reporte do RFAI é de 10 períodos (art. 23.º, n.º 3, CFI) e o do SIFIDE II de 12 (art. 38.º, n.º 4, CFI).",
+        "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cfi/Pages/cfi-23.aspx"
+      },
+      {
+        "de": "- Documentação de suporte (faturas, mapas de ativos, relatórios de I&D certificados pela ANI)",
+        "para": "- Documentação de suporte (faturas, mapas de ativos e o documento do processo de documentação fiscal que identifique as aplicações relevantes e o cálculo do benefício — art. 25.º CFI; no SIFIDE II, a declaração comprovativa emitida pela Agência para a Investigação e Inovação, E. P. E., ou a prova do pedido da sua emissão — art. 40.º, n.º 1, CFI)",
+        "motivo": "A justificação do RFAI é a do art. 25.º CFI; a declaração do SIFIDE II é emitida pela Agência para a Investigação e Inovação, E. P. E. (art. 40.º, n.º 1, CFI).",
+        "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cfi/Pages/cfi-40.aspx"
+      },
+      {
+        "de": "- Articulação com o Quadro 074 da Modelo 22 IRC",
+        "para": "- Articulação com o anexo D da declaração Modelo 22 de IRC [■ VERIFICAR: quadros do RFAI e do SIFIDE II nas instruções de preenchimento em vigor]",
+        "motivo": "Não se confirmou que o quadro 074 sirva os dois benefícios; o SIFIDE II é declarado noutro quadro do anexo D.",
+        "fonte": ""
+      },
+      {
+        "de": "**EXERCÍCIO DO DIREITO DE AUDIÇÃO / REQUERIMENTO DE RECONHECIMENTO DE BENEFÍCIO FISCAL**",
+        "para": "**EXERCÍCIO DO DIREITO DE AUDIÇÃO / FUNDAMENTAÇÃO DO BENEFÍCIO FISCAL**\n\n(O RFAI não depende de reconhecimento prévio pela AT: a dedução à coleta é feita na declaração de rendimentos e justificada no processo de documentação fiscal — art. 25.º CFI; só as isenções ou reduções de IMI e de IMT dependem do reconhecimento do interesse do investimento pela assembleia municipal — art. 23.º, n.º 4, CFI. O SIFIDE II depende de candidatura à Agência para a Investigação e Inovação, E. P. E., até ao final do 5.º mês do ano seguinte ao do exercício, e da declaração comprovativa por esta emitida — art. 40.º, n.ºs 1 e 3, CFI.)",
+        "motivo": "O RFAI não tem procedimento de reconhecimento pela AT (art. 25.º CFI); o SIFIDE II depende de candidatura e declaração da agência (art. 40.º CFI).",
+        "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cfi/Pages/cfi-25.aspx"
+      },
+      {
+        "de": "- [ ] Setor de atividade não excluído (art. 2.º, n.º 2, CFI)",
+        "para": "- [ ] Atividade enumerada no art. 2.º, n.º 2, CFI e na portaria dos códigos CAE, e não excluída do âmbito setorial das OAR e do RGIC (art. 22.º, n.º 1, CFI)",
+        "motivo": "O art. 2.º, n.º 2, CFI enumera atividades elegíveis; as exclusões resultam das OAR e do RGIC (art. 22.º, n.º 1, CFI).",
+        "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cfi/Pages/cfi-22.aspx"
+      },
+      {
+        "de": "- [ ] Para SIFIDE: certificação de I&D pela ANI obtida",
+        "para": "- [ ] Para SIFIDE II: candidatura submetida até ao final do 5.º mês do ano seguinte e declaração comprovativa da Agência para a Investigação e Inovação, E. P. E., obtida ou pedida (art. 40.º, n.ºs 1 e 3, CFI)",
+        "motivo": "O CFI, na redação do Decreto-Lei n.º 170/2026, atribui a declaração à Agência para a Investigação e Inovação, E. P. E., com prazo de candidatura no art. 40.º, n.º 3.",
+        "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cfi/Pages/cfi-40.aspx"
+      },
+      {
+        "de": "- [ ] Créditos reportáveis dentro do prazo de 8 anos",
+        "para": "- [ ] Dedução reportada dentro do prazo legal (RFAI: 10 períodos — art. 23.º, n.º 3, CFI; SIFIDE II: até ao 12.º período — art. 38.º, n.º 4, CFI)",
+        "motivo": "Os prazos de reporte são de 10 (RFAI) e 12 (SIFIDE II) períodos de tributação.",
+        "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cfi/Pages/cfi-38.aspx"
+      },
+      {
+        "de": "- [ ] Quadro 074 da Modelo 22 preenchido",
+        "para": "- [ ] Anexo D da Modelo 22 preenchido no quadro próprio de cada benefício [■ VERIFICAR: quadros do RFAI e do SIFIDE II nas instruções em vigor]",
+        "motivo": "O quadro indicado não foi confirmado para os dois benefícios.",
+        "fonte": ""
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Confirmar nas instruções do anexo D da Modelo 22 o quadro do RFAI e o do SIFIDE II (fontes secundárias indicam o quadro 073 para o SIFIDE II).",
+      "SIFIDE II: o reporte de 12 períodos vem da Lei n.º 21/2023, com efeitos a 1 de janeiro de 2024; confirmar o regime das despesas de períodos anteriores. Confirmar também se o regime foi prorrogado para lá dos períodos iniciados em 2026 e o regime transitório do Decreto-Lei n.º 170/2026 para contribuições para fundos de investimento.",
+      "Confirmar a entidade competente: o CFI, na redação do Decreto-Lei n.º 170/2026, refere a Agência para a Investigação e Inovação, E. P. E., e não a ANI.",
+      "RFAI: verificar a cumulação com outros auxílios e os limites regionais (arts. 23.º, n.ºs 5 a 7, 24.º e 43.º CFI) e as consequências do incumprimento (art. 26.º CFI)."
+    ],
+    "fontes": [
+      "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cfi/Pages/cfi-02.aspx",
+      "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cfi/Pages/cfi-22.aspx",
+      "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cfi/Pages/cfi-23.aspx",
+      "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cfi/Pages/cfi-25.aspx",
+      "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cfi/Pages/cfi-37.aspx",
+      "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cfi/Pages/cfi-37a.aspx",
+      "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cfi/Pages/cfi-38.aspx",
+      "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cfi/Pages/cfi-39.aspx",
+      "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cfi/Pages/cfi-40.aspx",
+      "https://files.diariodarepublica.pt/1s/2026/08/16200/0000300011.pdf",
+      "https://occ.pt/pt-pt/noticias/irc-beneficios-fiscais-sifide-ii"
+    ]
+  },
+  {
+    "codigo": "FIS-045",
+    "veredicto": "corrigida",
+    "resumo": "O prazo de 12 anos não é dos «crimes fiscais» nem do n.º 3 do art. 45.º LGT: é do n.º 7 (factos conexos com regimes fiscais claramente mais favoráveis ou contas no estrangeiro não declarados); o inquérito criminal alarga o prazo até ao arquivamento ou trânsito, mais um ano (n.º 5). A contagem está no n.º 4 (não no n.º 2, que fixa 3 anos para o erro evidenciado), a suspensão por inspeção externa não é «até 6 meses» e a oposição não interrompe a prescrição (só a suspende se suspender a cobrança — art. 49.º, n.º 4, LGT). Corrigiu-se ainda a referência à data da liquidação, que tem de ser validamente notificada dentro do prazo, e o meio processual.",
+    "substituicoes": [
+      {
+        "de": "  - Caducidade: inspeção tributária notificada (art. 46.º, n.º 1, LGT — suspensão até 6 meses), impugnação, reclamação",
+        "para": "  - Caducidade: notificação do início da inspeção externa (art. 46.º, n.º 1, LGT — o efeito suspensivo cessa, contando-se o prazo desde o início, se a inspeção ultrapassar seis meses após a notificação, acrescidos do período de suspensão do prazo do procedimento); litígio judicial de que dependa a liquidação; reclamação ou impugnação de que resulte o direito à liquidação; pedido de revisão da matéria coletável (art. 46.º, n.º 2, LGT)",
+        "motivo": "A suspensão por inspeção externa não tem duração máxima de 6 meses: perde-se toda se a inspeção exceder esse prazo (art. 46.º, n.º 1, LGT); reclamação e impugnação só suspendem nos termos do n.º 2, d).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=253A0045&nid=253&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "  - Prescrição: citação do executado, reclamação, impugnação, oposição (art. 49.º LGT)",
+        "para": "  - Prescrição: interrupção, uma única vez, pelo primeiro destes factos — citação, reclamação, recurso hierárquico, impugnação ou pedido de revisão oficiosa (art. 49.º, n.ºs 1 e 3, LGT); suspensão, nomeadamente, pelo pagamento em prestações e pela reclamação, impugnação, recurso ou oposição que determinem a suspensão da cobrança (art. 49.º, n.º 4, LGT) e durante o inquérito criminal (art. 49.º, n.º 5, LGT)",
+        "motivo": "A oposição não interrompe a prescrição; só a suspende se determinar a suspensão da cobrança (art. 49.º, n.º 4, b), LGT).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=253A0049&nid=253&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Prazo aplicável: regra geral 4 anos (caducidade) / 8 anos (prescrição); exceção 12 anos (crimes fiscais — art. 45.º, n.º 3, LGT)",
+        "para": "- Prazo aplicável: regra geral 4 anos (caducidade) / 8 anos (prescrição); exceções: 3 anos no erro evidenciado na declaração (art. 45.º, n.º 2, LGT); o prazo do exercício do direito quando tenha sido efetuada dedução ou crédito de imposto (art. 45.º, n.º 3, LGT); alargamento até ao arquivamento ou trânsito em julgado, acrescido de um ano, se foi instaurado inquérito criminal (art. 45.º, n.º 5, LGT); 12 anos para factos conexos com país, território ou região de regime fiscal claramente mais favorável não declarados, ou com contas fora da UE não declaradas (art. 45.º, n.º 7, LGT), com prescrição de 15 anos (art. 48.º, n.º 4, LGT)",
+        "motivo": "O prazo de 12 anos é o do art. 45.º, n.º 7, LGT e não depende de crime; o inquérito criminal rege-se pelo n.º 5.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=253A0045&nid=253&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Art. 45.º, n.º 1, LGT: prazo de 4 anos para liquidação (regra geral)",
+        "para": "- Art. 45.º, n.º 1, LGT: prazo de 4 anos (regra geral), dentro do qual a liquidação tem de ser validamente notificada; as notificações registadas consideram-se feitas no 3.º dia posterior ao do registo ou no 1.º dia útil seguinte (art. 45.º, n.º 6, LGT)",
+        "motivo": "A caducidade afere-se pela notificação válida da liquidação, não pela sua emissão.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=253A0045&nid=253&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Art. 45.º, n.º 2, LGT: contagem — a partir do termo do ano em que se verificou o facto tributário; nos impostos periódicos, a partir do termo do período de tributação",
+        "para": "- Art. 45.º, n.º 4, LGT: contagem — nos impostos periódicos, a partir do termo do ano em que se verificou o facto tributário; nos impostos de obrigação única, a partir da data do facto tributário; no IVA e nos impostos sobre o rendimento retidos na fonte a título definitivo, a partir do início do ano civil seguinte ao da exigibilidade do imposto ou do facto tributário",
+        "motivo": "A contagem está no art. 45.º, n.º 4, LGT (o n.º 2 fixa 3 anos para o erro evidenciado) e distingue impostos periódicos, de obrigação única, IVA e retenções definitivas.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=253A0045&nid=253&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Art. 46.º LGT: causas de suspensão da caducidade (inspeção externa notificada: máx. 6 meses; pendência de processo judicial: até trânsito em julgado)",
+        "para": "- Art. 46.º LGT: causas de suspensão da caducidade (inspeção externa: desde a notificação do seu início, efeito que cessa se a inspeção ultrapassar seis meses após a notificação, acrescidos do período de suspensão do prazo do procedimento; litígio judicial de que dependa a liquidação: até ao trânsito em julgado; benefícios fiscais contratuais ou condicionados; reclamação ou impugnação de que resulte o direito à liquidação: até à decisão; pedido de revisão da matéria coletável: até à notificação da decisão; procedimento de perda de benefícios fiscais: até à decisão final — n.º 3)",
+        "motivo": "O art. 46.º LGT não fixa um máximo de 6 meses de suspensão e prevê outras causas.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=253A0045&nid=253&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Art. 49.º LGT: causas de interrupção (citação, reclamação, impugnação, oposição) e suspensão (pagamento prestacional, garantia, processo judicial)",
+        "para": "- Art. 49.º LGT: causas de interrupção (citação, reclamação, recurso hierárquico, impugnação e pedido de revisão oficiosa — n.º 1; a interrupção só ocorre uma vez, com o facto que se verificar primeiro — n.º 3) e de suspensão (pagamento em prestações autorizadas; reclamação, impugnação, recurso ou oposição quando determinem a suspensão da cobrança; impugnação pauliana intentada pelo Ministério Público; impedimento legal à venda de imóvel de habitação própria e permanente; reclamação do art. 276.º CPPT que impeça atos coercivos, entre outras — n.º 4; inquérito criminal — n.º 5); a interrupção quanto ao devedor principal não produz efeitos quanto ao responsável subsidiário citado após o 5.º ano posterior ao da liquidação (art. 48.º, n.º 3, LGT)",
+        "motivo": "A oposição não é causa de interrupção; a garantia, por si, não suspende a prescrição; faltavam o recurso hierárquico, a revisão oficiosa e a regra da interrupção única.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=253A0049&nid=253&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Meio adequado: arguição na reclamação graciosa / oposição à execução / requerimento autónomo",
+        "para": "- Meio adequado: caducidade — reclamação graciosa ou impugnação judicial da liquidação, ou oposição à execução com fundamento na falta de notificação da liquidação no prazo de caducidade (art. 204.º, n.º 1, e), CPPT); prescrição — oposição à execução (art. 204.º, n.º 1, d), CPPT) ou requerimento ao órgão da execução fiscal, sendo de conhecimento oficioso (art. 175.º CPPT)",
+        "motivo": "Na oposição, a caducidade só releva como falta de notificação da liquidação no prazo (art. 204.º, n.º 1, e), CPPT); a prescrição é de conhecimento oficioso (art. 175.º CPPT).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=256A0204&nid=256&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Início da contagem (art. 45.º, n.º 2, LGT): [data]",
+        "para": "- Início da contagem (art. 45.º, n.º 4, LGT): [data]",
+        "motivo": "A contagem rege-se pelo art. 45.º, n.º 4, LGT.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=253A0045&nid=253&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Data da liquidação contestada: [data]\n- Conclusão: liquidação emitida [antes / após] a caducidade",
+        "para": "- Data da notificação válida da liquidação contestada (art. 45.º, n.ºs 1 e 6, LGT): [data]\n- Conclusão: liquidação validamente notificada [antes / após] o termo do prazo de caducidade",
+        "motivo": "O que releva é a notificação válida da liquidação dentro do prazo (art. 45.º, n.º 1, LGT).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=253A0045&nid=253&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- [ ] Prazo aplicável identificado (regra geral ou exceção 12 anos)",
+        "para": "- [ ] Prazo aplicável identificado (regra geral ou exceções do art. 45.º, n.ºs 2, 3, 5 e 7, e do art. 48.º, n.º 4, LGT)",
+        "motivo": "Há várias exceções ao prazo geral, não só a dos 12 anos.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=253A0045&nid=253&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Data da liquidação contestada ou da citação para execução: [dd/mm/aaaa]",
+        "para": "- Data da notificação da liquidação contestada ou da citação para execução: [dd/mm/aaaa]",
+        "motivo": "A caducidade afere-se pela data da notificação da liquidação.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=253A0045&nid=253&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Existência de suspeita de crime fiscal: [Sim/Não]",
+        "para": "- Instauração de inquérito criminal sobre os factos (data e estado): [Sim/Não]\n- Factos conexos com país, território ou região de regime fiscal claramente mais favorável, ou contas fora da UE, não declarados: [Sim/Não]",
+        "motivo": "O alargamento depende da instauração de inquérito (art. 45.º, n.º 5, LGT), não de mera suspeita; o prazo de 12 anos depende dos factos do n.º 7.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=253A0045&nid=253&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Nas contagens que atravessem 2020 e 2021, confirmar as suspensões extraordinárias dos prazos de caducidade e prescrição decretadas na pandemia (Lei n.º 1-A/2020 e diplomas seguintes).",
+      "Confirmar em dgsi.pt a jurisprudência do STA sobre a cessação do efeito suspensivo da inspeção externa (art. 46.º, n.º 1, LGT) e sobre a interrupção única da prescrição (art. 49.º, n.º 3, LGT) antes de a invocar.",
+      "Confirmar os prazos do meio escolhido (reclamação graciosa, impugnação judicial ou oposição à execução) no CPPT."
+    ],
+    "fontes": [
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=253A0045&nid=253&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=253A0048&nid=253&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=253A0049&nid=253&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=256A0175&nid=256&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=256A0204&nid=256&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+    ]
+  },
+  {
+    "codigo": "FIS-059",
+    "veredicto": "corrigida",
+    "resumo": "A ficha afirmava que a omissão da audição causa nulidade do ato: é vício de forma gerador de anulabilidade (art. 163.º CPA, aplicável por força do art. 2.º, c), LGT). O prazo da audição na inspeção é o fixado na notificação, entre 15 e 25 dias, ou 30 dias com cláusula geral antiabuso (art. 60.º, n.º 2, RCPITA), e não «15 dias prorrogáveis por 10». O art. 61.º do RCPITA trata da conclusão dos atos, não da consulta do processo (art. 30.º, n.º 1, CPPT), e a valorização de inventários está no art. 26.º CIRC.",
+    "substituicoes": [
+      {
+        "de": "- Prazo de exercício do direito de audição: 15 dias a contar da notificação (art. 60.º, n.º 6, LGT) — pode ser prorrogado por 10 dias",
+        "para": "- Prazo de exercício do direito de audição: o fixado na notificação do projeto de conclusões, entre 15 e 25 dias, ou 30 dias se incluir a aplicação da cláusula geral antiabuso do art. 38.º, n.º 2, LGT (art. 60.º, n.º 2, do RCPITA); regra geral de 15 dias, que a AT pode alargar até ao máximo de 25 dias em função da complexidade da matéria (art. 60.º, n.º 6, LGT)",
+        "motivo": "Na inspeção, o prazo é fixado na notificação entre 15 e 25 dias (30 com cláusula antiabuso); o alargamento do art. 60.º, n.º 6, LGT é até 25 dias e cabe à AT.",
+        "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/rcpit/Pages/rcpit60.aspx"
+      },
+      {
+        "de": "- Art. 60.º LGT: direito de audição prévia antes da decisão — obrigatório; omissão causa nulidade do ato",
+        "para": "- Art. 60.º LGT: direito de audição antes da conclusão do relatório da inspeção tributária (n.º 1, e)); os elementos novos suscitados são obrigatoriamente tidos em conta na fundamentação da decisão (n.º 7); a preterição da audição é vício de forma que gera a anulabilidade, e não a nulidade, do ato (art. 163.º, n.º 1, CPA, aplicável por força do art. 2.º, c), LGT), podendo o efeito anulatório ser afastado nos casos do art. 163.º, n.º 5, CPA",
+        "motivo": "A preterição da audição prévia não consta das nulidades; gera anulabilidade (art. 163.º, n.º 1, CPA).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2248A0163&nid=2248&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- RCPITA: direito de consultar o processo de inspeção (art. 61.º RCPITA), juntar documentos, apresentar testemunhos",
+        "para": "- RCPITA: pronúncia por escrito ou oral, reduzida a termo (art. 60.º, n.º 3, do RCPITA), com junção de documentos e outros meios de prova admitidos (art. 72.º LGT); direito de consultar o processo (art. 30.º, n.º 1, CPPT)",
+        "motivo": "O art. 61.º do RCPITA regula a conclusão dos atos de inspeção; a consulta do processo rege-se pelo art. 30.º, n.º 1, CPPT.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=256A0030&nid=256&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Valorização de inventários, provisões (arts. 28.º e 39.º CIRC), depreciações (art. 31.º CIRC)",
+        "para": "- Valorização de inventários (art. 26.º CIRC), imparidades em inventários e provisões (arts. 28.º e 39.º CIRC), depreciações (art. 31.º CIRC)",
+        "motivo": "O art. 28.º CIRC trata das perdas por imparidade em inventários; a valorização de inventários está no art. 26.º CIRC.",
+        "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/CIRC_2R/Pages/irc26.aspx"
+      },
+      {
+        "de": "- [ ] Prazo de 15 dias para audição verificado (+ possível prorrogação)",
+        "para": "- [ ] Prazo fixado na notificação verificado (15 a 25 dias; 30 dias com cláusula geral antiabuso — art. 60.º, n.º 2, do RCPITA)",
+        "motivo": "O prazo da audição na inspeção é o fixado na notificação, dentro dos limites do art. 60.º, n.º 2, do RCPITA.",
+        "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/rcpit/Pages/rcpit60.aspx"
+      },
+      {
+        "de": "- [ ] Processo de inspeção consultado (art. 61.º RCPITA)",
+        "para": "- [ ] Processo de inspeção consultado (art. 30.º, n.º 1, CPPT)",
+        "motivo": "O art. 61.º do RCPITA não regula a consulta do processo.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=256A0030&nid=256&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Confirmar em dgsi.pt a jurisprudência do STA sobre a preterição da audição prévia e o aproveitamento do ato (art. 163.º, n.º 5, CPA) antes de a invocar.",
+      "Correções por métodos indiretos: confirmar o pedido de revisão da matéria tributável (art. 91.º LGT) como condição de impugnação; o ónus dos pressupostos é da AT e o do excesso de quantificação é do sujeito passivo (art. 74.º, n.º 3, LGT).",
+      "Se o projeto aplicar a cláusula geral antiabuso (art. 38.º, n.º 2, LGT), confirmar o procedimento próprio do CPPT e o prazo de 30 dias."
+    ],
+    "fontes": [
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=253A0060&nid=253&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=253A0002&nid=253&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=253A0074&nid=253&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/rcpit/Pages/rcpit60.aspx",
+      "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/rcpit/Pages/rcpit61.aspx",
+      "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/rcpit/Pages/rcpit62.aspx",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=256A0030&nid=256&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2248A0163&nid=2248&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/CIRC_2R/Pages/irc26.aspx"
+    ]
+  }
+]

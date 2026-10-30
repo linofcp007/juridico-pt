@@ -3,20 +3,22 @@ codigo: BAN-031
 area: "Direito Bancário e dos Mercados"
 titulo: "Execução de Hipoteca — Oposição e Defesa do Devedor Hipotecário"
 titulo_en: "Mortgage Enforcement — Opposition and Defence of the Mortgage Debtor"
-descricao: "Elabora a defesa do devedor em processo executivo em que o banco credor acciona a hipoteca para cobrança de crédito à habitação ou outro crédito hipotecado, ao abrigo do RGICSF (DL 298/92) e do Código de Processo Civil, invocando nulidades processuais, excesso de execução, falta de interpelação prévia nos termos do DL 74-A/2017 e eventuais cláusulas abusivas."
-descricao_en: "Prepares the debtor's defence in enforcement proceedings in which the creditor bank enforces the mortgage to recover a home loan or other mortgage-secured credit, under the RGICSF (Decree-Law 298/92) and the Code of Civil Procedure, invoking procedural nullities, excessive enforcement, lack of prior formal demand under Decree-Law 74-A/2017 and any unfair terms."
+descricao: "Elabora a defesa do devedor em processo executivo em que o banco credor aciona a hipoteca para cobrança de crédito à habitação ou outro crédito hipotecado, ao abrigo do Código de Processo Civil, do DL 227/2012 (PARI/PERSI) e do DL 74-A/2017, invocando nulidades processuais, excesso de execução, falta de integração no PERSI, falta da interpelação prévia ao vencimento antecipado exigida pelo DL 74-A/2017 e eventuais cláusulas abusivas."
+descricao_en: "Prepares the debtor's defence in enforcement proceedings in which the creditor bank enforces the mortgage to recover a home loan or other mortgage-secured credit, under the Code of Civil Procedure, Decree-Law 227/2012 (PARI/PERSI) and Decree-Law 74-A/2017, invoking procedural nullities, excessive enforcement, failure to include the debtor in PERSI, lack of the prior formal demand required by Decree-Law 74-A/2017 before acceleration, and any unfair terms."
 ambito: nacional
-estado_citacoes: "conferidas 2 · corrigidas 0 · por conferir 5"
+estado_citacoes: "conferidas 5 · corrigidas 0 · por conferir 5"
+revisao_tecnica: "2026-10-28 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
 # Execução de Hipoteca — Oposição e Defesa do Devedor Hipotecário
 
 > **Âmbito:** nacional · **Área:** Direito Bancário e dos Mercados · **Código:** BAN-031
-> **EN:** Mortgage Enforcement — Opposition and Defence of the Mortgage Debtor. Prepares the debtor's defence in enforcement proceedings in which the creditor bank enforces the mortgage to recover a home loan or other mortgage-secured credit, under the RGICSF (Decree-Law 298/92) and the Code of Civil Procedure, invoking procedural nullities, excessive enforcement, lack of prior formal demand under Decree-Law 74-A/2017 and any unfair terms.
-> **Citações:** conferidas 2 · corrigidas 0 · por conferir 5. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **EN:** Mortgage Enforcement — Opposition and Defence of the Mortgage Debtor. Prepares the debtor's defence in enforcement proceedings in which the creditor bank enforces the mortgage to recover a home loan or other mortgage-secured credit, under the Code of Civil Procedure, Decree-Law 227/2012 (PARI/PERSI) and Decree-Law 74-A/2017, invoking procedural nullities, excessive enforcement, failure to include the debtor in PERSI, lack of the prior formal demand required by Decree-Law 74-A/2017 before acceleration, and any unfair terms.
+> **Citações:** conferidas 5 · corrigidas 0 · por conferir 5. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-28 — corrigida (5 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
-Elabora a defesa do devedor em processo executivo em que o banco credor acciona a hipoteca para cobrança de crédito à habitação ou outro crédito hipotecado, ao abrigo do RGICSF (DL 298/92) e do Código de Processo Civil, invocando nulidades processuais, excesso de execução, falta de interpelação prévia nos termos do DL 74-A/2017 e eventuais cláusulas abusivas.
+Elabora a defesa do devedor em processo executivo em que o banco credor aciona a hipoteca para cobrança de crédito à habitação ou outro crédito hipotecado, ao abrigo do Código de Processo Civil, do DL 227/2012 (PARI/PERSI) e do DL 74-A/2017, invocando nulidades processuais, excesso de execução, falta de integração no PERSI, falta da interpelação prévia ao vencimento antecipado exigida pelo DL 74-A/2017 e eventuais cláusulas abusivas.
 
 ## Método
 
@@ -32,9 +34,9 @@ Ficha de trabalho para preparar este documento. As regras da casa prevalecem sob
 ### ETAPA 1 — ANÁLISE DO TÍTULO EXECUTIVO E PROCEDIMENTO PRÉ-EXECUTIVO
 Apresenta dentro de <analise_titulo>:
 - Verificação da existência e validade do título executivo (escritura pública de mútuo com hipoteca)
-- Cumprimento das obrigações de PARI (art. 12.º e ss. DL 227/2012) — o banco tomou medidas preventivas?
+- Cumprimento das obrigações de PARI (arts. 9.º a 11.º-C DL 227/2012) — o banco acompanhou a execução do contrato e apresentou propostas perante os indícios de risco de incumprimento?
 - Inclusão em PERSI (art. 14.º e ss. DL 227/2012) — foi o devedor integrado e notificado?
-- Cláusula de vencimento antecipado — prazo de incumprimento e conformidade com o art. 24.º DL 74-A/2017
+- Cláusula de vencimento antecipado — no crédito abrangido pelo DL 74-A/2017, o banco só pode invocar a perda do benefício do prazo ou a resolução com falta de pagamento de três prestações sucessivas e concessão de prazo suplementar mínimo de 30 dias, com advertência expressa dos efeitos (art. 27.º, n.º 1, DL 74-A/2017) [■ VERIFICAR: regime aplicável aos contratos celebrados antes de 1 de janeiro de 2018]
 - Montante exequendo — capital, juros contratuais, juros de mora, comissões — verificar excesso
 - Notificações prévias ao devedor e ao fiador/hipotecante (se aplicável)
 - Prazo de prescrição do crédito (art. 309.º e 310.º do Código Civil)
@@ -42,12 +44,12 @@ Apresenta dentro de <analise_titulo>:
 ### ETAPA 2 — FUNDAMENTOS DE OPOSIÇÃO
 Apresenta dentro de <fundamentos_oposicao>:
 - Nulidades do título ou do requerimento executivo
-- Incumprimento das obrigações de PARI/PERSI como fundamento de oposição ou de suspensão
-- Excesso de execução (art. 729.º, al. e) CPC [■ VERIFICAR: o art. 729.º CPC rege a execução de sentença; na execução por escritura de hipoteca valem os fundamentos do art. 731.º CPC]) — cálculo detalhado da diferença
+- Falta de integração no PERSI, ou execução instaurada antes da extinção do PERSI, contra o impedimento de intentar ações judiciais (arts. 14.º, 17.º e 18.º, n.º 1, al. b), DL 227/2012) — o incumprimento do PARI, por si só, é matéria de supervisão e não fundamento autónomo de oposição [■ VERIFICAR: qualificação da falta de PERSI como exceção dilatória na jurisprudência atual, em dgsi.pt]
+- Excesso de execução (art. 731.º CPC: na execução baseada em escritura podem invocar-se, além dos fundamentos do art. 729.º CPC aplicáveis, como a inexigibilidade ou iliquidez da obrigação, quaisquer outros que pudessem ser deduzidos no processo de declaração) — cálculo detalhado da diferença
 - Cláusulas abusivas no contrato (taxa de juro, comissões, spread) — regime das CCG (DL 446/85)
 - Compensação ou pagamento parcial não reconhecido
 - Acordo de moratória ou reestruturação posterior ao vencimento antecipado
-- Inexigibilidade da dívida por pendência de reclamação no Banco de Portugal
+- Reclamação pendente no Banco de Portugal: não é fundamento de oposição nem suspende a execução (a suspensão depende dos requisitos do art. 733.º CPC, como a prestação de caução); serve apenas como meio de prova dos factos alegados
 
 ### ETAPA 3 — MINUTA DE EMBARGOS DE EXECUTADO / OPOSIÇÃO
 Redige o articulado completo:
@@ -112,10 +114,13 @@ Apresenta dentro de <checklist>:
 
 | Citação | Estado | Nota |
 |---|---|---|
-| art. 12.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| arts. 9.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 14.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| art. 24.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 27.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 309.º e 310.º do Código Civil | conferida (índice) |  |
-| art. 729.º, al. e) CPC | por conferir [■ VERIFICAR] | o art. 729.º CPC rege a execução de sentença; na execução por escritura de hipoteca valem os fundamentos do art. 731.º CPC |
+| arts. 14.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 731.º CPC | conferida (epígrafe) — Fundamentos de oposição à execução baseada noutro título |  |
+| art. 729.º CPC | conferida (epígrafe) — Fundamentos de oposição à execução baseada em sentença |  |
+| art. 733.º CPC | conferida (epígrafe) — Efeito do recebimento dos embargos |  |
 | art. 728.º CPC | conferida (epígrafe) — Oposição mediante embargos |  |
 | art. 18.º | por conferir [■ VERIFICAR] | diploma não identificado |

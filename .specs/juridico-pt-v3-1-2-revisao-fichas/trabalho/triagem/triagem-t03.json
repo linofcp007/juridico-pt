@@ -1,0 +1,203 @@
+[
+  {
+    "codigo": "BAN-001",
+    "triagem": "rever",
+    "gravidade": "baixa",
+    "motivos": [
+      "Apresenta como limites legais fixos da comissão de reembolso antecipado 0,5% (taxa variável) e 2% (taxa fixa) do DL 74-A/2017; confirmar se as medidas de 2022-2023 sobre crédito à habitação com taxa variável alteraram ou suspenderam estes limites.",
+      "Apresenta o seguro de vida como «obrigatório» no crédito habitação; a lei só impõe o seguro multirriscos, o seguro de vida é exigência do banco, com livre escolha da seguradora."
+    ]
+  },
+  {
+    "codigo": "BAN-002",
+    "triagem": "ok"
+  },
+  {
+    "codigo": "BAN-003",
+    "triagem": "rever",
+    "gravidade": "baixa",
+    "motivos": [
+      "Apresenta o Provedor do Cliente como mecanismo «interno obrigatório» com prazo de 20 dias úteis fixado por aviso do Banco de Portugal; a figura é em regra facultativa nas instituições de crédito e o prazo de resposta decorre do regime geral de tratamento de reclamações. Confirmar a base da obrigatoriedade antes de a invocar na carta."
+    ]
+  },
+  {
+    "codigo": "BAN-004",
+    "triagem": "rever",
+    "gravidade": "media",
+    "motivos": [
+      "Prazo errado: o DL 227/2012 manda integrar o cliente no PERSI entre o 31.º e o 60.º dia após o vencimento da prestação em mora, e não «em 15 dias»; a carta exige um prazo inexistente.",
+      "Cita como transcrição legal um trecho do art. 12.º que não corresponde ao diploma; o art. 12.º e seguintes tratam do PARI e o PERSI começa no art. 14.º.",
+      "O PARI é um plano interno da instituição, o mutuário não o pode «ativar»; o efeito da integração no PERSI é impedir o banco de intentar ações (e de resolver o contrato), não uma «suspensão de execução» já pendente."
+    ]
+  },
+  {
+    "codigo": "BAN-005",
+    "triagem": "rever",
+    "gravidade": "alta",
+    "motivos": [
+      "O parecer mede o cumprimento do banco por um prazo de ativação do PERSI de «15 dias após a mora»; a lei fixa a integração entre o 31.º e o 60.º dia após o vencimento. Conclusões de incumprimento do banco assentariam num prazo inexistente.",
+      "Atribui os artigos de forma trocada: o PARI está nos arts. 12.º-13.º, o PERSI começa no art. 14.º, a extinção e os efeitos da integração têm artigos próprios; transcrições do art. 12.º/17.º não correspondem ao texto.",
+      "Recomenda «requerimento de suspensão da execução hipotecária» com base no art. 17.º; a falta de integração no PERSI opera como exceção dilatória (obstáculo à ação/execução), não como suspensão da execução."
+    ]
+  },
+  {
+    "codigo": "BAN-006",
+    "triagem": "rever",
+    "gravidade": "media",
+    "motivos": [
+      "Troca as listas do DL 446/85: indica o art. 15.º como lista negra e o art. 21.º como lista cinzenta; o art. 15.º é a cláusula geral (boa fé) e, nas relações com consumidores finais, o art. 21.º é a lista das cláusulas absolutamente proibidas (negra) e o art. 22.º a das relativamente proibidas (cinzenta).",
+      "A classificação NULA/ABUSIVA-negra/cinzenta, central na ficha, fica por isso errada."
+    ]
+  },
+  {
+    "codigo": "BAN-007",
+    "triagem": "ok"
+  },
+  {
+    "codigo": "BAN-008",
+    "triagem": "ok"
+  },
+  {
+    "codigo": "BAN-009",
+    "triagem": "ok"
+  },
+  {
+    "codigo": "BAN-010",
+    "triagem": "rever",
+    "gravidade": "baixa",
+    "motivos": [
+      "Designa a proibição da cláusula comissória como «pacto marciano»; são figuras distintas (o pacto marciano é a variante com avaliação e restituição do excesso, de validade discutida). A nulidade do art. 694.º CC refere-se ao pacto comissório.",
+      "Inclui «licença de utilização» na lista de documentos da escritura; após o DL 10/2024 (Simplex urbanístico) esse título deixou de ser exigido na generalidade dos casos."
+    ]
+  },
+  {
+    "codigo": "BAN-011",
+    "triagem": "ok"
+  },
+  {
+    "codigo": "BAN-012",
+    "triagem": "ok"
+  },
+  {
+    "codigo": "BAN-013",
+    "triagem": "ok"
+  },
+  {
+    "codigo": "BAN-015",
+    "triagem": "ok"
+  },
+  {
+    "codigo": "BAN-016",
+    "triagem": "rever",
+    "gravidade": "media",
+    "motivos": [
+      "Competência em razão do valor errada: indica Juízo Local Cível até 30.000 EUR e Juízo Central Cível acima; na LOSJ o limiar de competência dos juízos centrais cíveis é 50.000 EUR (30.000 EUR é a alçada da Relação). Petição dirigida ao juízo errado.",
+      "Prazo de prescrição do seguro de vida indicado como 2 anos sem base segura; o art. 121.º LCS tem prazos próprios (2 anos do conhecimento, 5 do facto) com regime específico para o beneficiário. Confirmar antes de usar."
+    ]
+  },
+  {
+    "codigo": "BAN-017",
+    "triagem": "rever",
+    "gravidade": "baixa",
+    "motivos": [
+      "Remete para uma «tabela do INE/ANSR para danos corporais» que não existe; o referencial é a Tabela Nacional de Incapacidades (DL 352/2007) e a Portaria 377/2008 (valores orientadores para a proposta razoável), a par da jurisprudência.",
+      "Prazos e artigos do regime de sinistros do DL 291/2007 (proposta razoável, perda total) a conferir contra o texto vigente."
+    ]
+  },
+  {
+    "codigo": "BAN-018",
+    "triagem": "rever",
+    "gravidade": "baixa",
+    "motivos": [
+      "Diz que o FGA é «gerido pelo Fundo de Acidentes de Trabalho (FAT)»; são fundos distintos, o FGA funciona junto da ASF e o FAT é outra entidade do domínio dos acidentes de trabalho.",
+      "Cobertura de danos materiais para veículo não identificado apresentada como «só danos corporais»; o DL 291/2007 admite danos materiais em certas condições (lesões graves e franquia). Confirmar."
+    ]
+  },
+  {
+    "codigo": "BAN-019",
+    "triagem": "ok"
+  },
+  {
+    "codigo": "BAN-020",
+    "triagem": "ok"
+  },
+  {
+    "codigo": "BAN-021",
+    "triagem": "rever",
+    "gravidade": "baixa",
+    "motivos": [
+      "Funda a ficha no DL 357-A/2007 (MiFID I, regime superado) como diploma de referência; o regime vigente é o CVM com a transposição da MiFID II (Lei 35/2018 e legislação posterior) e o Regulamento Delegado 2017/565. Atualizar a base legal."
+    ]
+  },
+  {
+    "codigo": "BAN-022",
+    "triagem": "rever",
+    "gravidade": "baixa",
+    "motivos": [
+      "Cita o DL 357-A/2007 (MiFID I) como a transposição aplicável; o regime vigente é a MiFID II transposta pela Lei 35/2018 (CVM). A petição não deve assentar num diploma de transposição superado."
+    ]
+  },
+  {
+    "codigo": "BAN-023",
+    "triagem": "rever",
+    "gravidade": "media",
+    "motivos": [
+      "Invoca o DL 317/2009 (serviços de pagamento) como regime atual; foi revogado pelo DL 91/2018 (RJSPME), que transpôs a PSD2.",
+      "Classifica o art. 22.º do DL 446/85 como «lista negra»; o art. 22.º é a lista das cláusulas relativamente proibidas (cinzenta) nas relações com consumidores.",
+      "Regulamento (UE) 2015/751 refere-se a taxas de intercâmbio de cartões, não a comissões de contas de pagamento."
+    ]
+  },
+  {
+    "codigo": "BAN-024",
+    "triagem": "rever",
+    "gravidade": "baixa",
+    "motivos": [
+      "A descrição assenta no DL 317/2009, revogado pelo DL 91/2018; o corpo da ficha usa o DL 91/2018 mas a numeração dos artigos sobre operações não autorizadas (reembolso, responsabilidade do ordenante, prazo de 13 meses) está trocada e deve ser conferida."
+    ]
+  },
+  {
+    "codigo": "BAN-026",
+    "triagem": "rever",
+    "gravidade": "baixa",
+    "motivos": [
+      "Dá como «exemplos históricos de comissões proibidas pelo Banco de Portugal» (cheque para pagamento de empréstimo, débito direto, comunicação de incumprimento) casos que não correspondem a proibições identificáveis; risco de afirmações inventadas num parecer.",
+      "O regime concreto das comissões por incumprimento está no DL 58/2013 e no regime de crédito ao consumo/imobiliário, e não é referido."
+    ]
+  },
+  {
+    "codigo": "BAN-027",
+    "triagem": "ok"
+  },
+  {
+    "codigo": "BAN-028",
+    "triagem": "ok"
+  },
+  {
+    "codigo": "BAN-029",
+    "triagem": "rever",
+    "gravidade": "media",
+    "motivos": [
+      "Prazo de conservação de documentos de 5 anos; a Lei 83/2017 fixa 7 anos contados da identificação ou do termo da relação de negócio.",
+      "Atribui a transposição da 5.ª Diretiva e o regime do beneficiário efetivo a um «DL 144/2019»; a 5.ª Diretiva foi transposta pela Lei 58/2020 e o RCBE consta da Lei 89/2017. O diploma e o art. 11.º citados não correspondem.",
+      "Revisão anual obrigatória da avaliação de risco apresentada como exigência legal; é boa prática, não imposição expressa."
+    ]
+  },
+  {
+    "codigo": "BAN-030",
+    "triagem": "rever",
+    "gravidade": "baixa",
+    "motivos": [
+      "Chama «direito de retratação» ao direito de livre revogação de 14 dias do DL 133/2009 (termo brasileiro/inexistente); a ficha propõe a «retratação do contrato» como consequência do incumprimento do dever de informação.",
+      "Atribui prazo de reflexão ao crédito ao consumo (DL 133/2009), que a lei não prevê; o prazo de reflexão (mínimo 7 dias) é do crédito imobiliário (DL 74-A/2017). A informação normalizada do crédito ao consumo é a INE, não a «FIN»."
+    ]
+  },
+  {
+    "codigo": "BAN-031",
+    "triagem": "rever",
+    "gravidade": "media",
+    "motivos": [
+      "Propõe como fundamento de oposição a «inexigibilidade da dívida por pendência de reclamação no Banco de Portugal»; essa regra não existe, a reclamação ao supervisor não suspende nem torna inexigível o crédito.",
+      "Trata o incumprimento do PARI como fundamento de oposição; o PARI é um dever organizativo supervisionado, o que impede a ação é a falta de integração/extinção regular do PERSI (art. 14.º e seguintes do DL 227/2012), a configurar como exceção dilatória."
+    ]
+  }
+]

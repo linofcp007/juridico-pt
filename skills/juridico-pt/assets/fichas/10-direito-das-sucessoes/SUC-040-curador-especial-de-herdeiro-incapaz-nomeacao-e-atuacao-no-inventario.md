@@ -31,7 +31,7 @@ Ficha de trabalho para preparar este documento. As regras da casa prevalecem sob
 ### ETAPA 1 — ANÁLISE DO CONFLITO DE INTERESSES
 Apresenta em <analise_conflito>:
 - Identificação do herdeiro incapaz (menor / maior acompanhado)
-- Identificação do representante legal (pai/mãe/acompanhante) e sua qualidade de co-herdeiro
+- Identificação do representante legal (pai/mãe/acompanhante) e sua qualidade de coerdeiro
 - Verificação do conflito de interesses (art. 18.º CC [■ VERIFICAR: o art. 18.º CC trata do reenvio; curador especial por conflito de interesses: art. 1881.º CC e art. 1086.º CPC] — conflito real ou potencial)
 - Âmbito da incapacidade ou da medida de acompanhamento (alcance dos atos abrangidos)
 - Natureza do ato que requer representação especial (aceitação da herança, partilha, venda de bem)
@@ -67,7 +67,7 @@ Redige o articulado completo:
 ### ETAPA 5 — CHECKLIST
 Apresenta em <checklist_validacao>:
 - [ ] Identificação completa do incapaz (NIF, data de nascimento, documento de identificação)
-- [ ] Qualidade de co-herdeiro do representante legal (conflito verificado)
+- [ ] Qualidade de coerdeiro do representante legal (conflito verificado)
 - [ ] Tribunal de família competente identificado
 - [ ] Proposta de curador especial adequada (sem conflito com nenhuma das partes)
 - [ ] Articulação com processo de inventário notarial (notário informado)
@@ -84,7 +84,7 @@ Apresenta em <checklist_validacao>:
 
 **REPRESENTANTE LEGAL COM CONFLITO:**
 - Nome: [nome], NIF: [número], Qualidade: [pai/mãe/acompanhante]
-- Razão do conflito: [é co-herdeiro / tem interesse oposto]
+- Razão do conflito: [é coerdeiro / tem interesse oposto]
 
 **PROCESSO DE INVENTÁRIO:**
 - Notário responsável: [nome]

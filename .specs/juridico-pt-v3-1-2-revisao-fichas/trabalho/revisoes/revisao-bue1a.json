@@ -1,0 +1,222 @@
+[
+  {
+    "codigo": "UE-004",
+    "veredicto": "corrigida",
+    "resumo": "O exemplo de diploma de transposição da Diretiva (UE) 2019/771 indicava uma «Lei n.º 47/2022, de 9 de julho», que não corresponde à transposição: a diretiva foi transposta pelo Decreto-Lei n.º 84/2021, de 18 de outubro. Os critérios atribuídos ao acórdão Francovich incluíam a «violação suficientemente caracterizada», que só foi formulada em Brasserie du Pêcheur; separaram-se as três condições de cada acórdão, conforme o texto oficial. O resto do quadro (art. 288.º TFUE, interpretação conforme, ação por incumprimento) está correto.",
+    "substituicoes": [
+      {
+        "de": "- Diploma de transposição (se existente): [ex: Lei n.º 47/2022, de 9 de julho]",
+        "para": "- Diploma de transposição (se existente): [ex: Decreto-Lei n.º 84/2021, de 18 de outubro]",
+        "motivo": "A Diretiva (UE) 2019/771 foi transposta pelo DL 84/2021, de 18 de outubro (art. 1.º, n.º 1, al. a)); a «Lei n.º 47/2022, de 9 de julho» não é o diploma de transposição.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=3471A0001&nid=3471&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "  * Critérios Francovich [■ VERIFICAR proc. C-6/90 e C-9/90]: norma confere direitos a particulares; violação suficientemente caracterizada; nexo causal entre a violação e o dano\n  * Critérios Brasserie du Pêcheur [■ VERIFICAR]",
+        "para": "  * Critérios Francovich (proc. apensos C-6/90 e C-9/90, acórdão de 19/11/1991), para a falta de transposição: o resultado prescrito pela diretiva implica a atribuição de direitos a particulares; o conteúdo desses direitos pode ser identificado com base nas disposições da diretiva; nexo de causalidade entre a violação da obrigação do Estado e o dano sofrido\n  * Critérios Brasserie du Pêcheur (proc. apensos C-46/93 e C-48/93, acórdão de 5/3/1996, n.º 51): a norma violada tem por objeto conferir direitos aos particulares; violação suficientemente caracterizada; nexo de causalidade direto entre a violação e o dano",
+        "motivo": "Em Francovich as três condições são a atribuição de direitos, a identificabilidade do seu conteúdo e o nexo causal; a «violação suficientemente caracterizada» é condição fixada em Brasserie du Pêcheur (n.º 51).",
+        "fonte": "https://publications.europa.eu/resource/celex/61990CJ0006"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Confirmar, para a diretiva concreta, se a falta de transposição no prazo é, por si só, violação suficientemente caracterizada (jurisprudência Dillenkofer, proc. C-178/94 e outros) [■ VERIFICAR: curia.europa.eu].",
+      "Confirmar a versão em vigor do diploma de transposição em causa (o DL 84/2021 já pode ter sido alterado) e se há transposição dispersa por vários diplomas.",
+      "Conferir no texto oficial do TUE o art. 4.º, n.º 3 (cooperação leal), que a ficha cita."
+    ],
+    "fontes": [
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=3471A0001&nid=3471&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://publications.europa.eu/resource/celex/61990CJ0006",
+      "https://publications.europa.eu/resource/celex/61993CJ0046",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3471&tabela=leis&so_miolo="
+    ]
+  },
+  {
+    "codigo": "UE-013",
+    "veredicto": "corrigida",
+    "resumo": "A regra obrigatória incluía a «litispendência» entre os fundamentos de recusa do art. 45.º do Regulamento (UE) n.º 1215/2012, que não a prevê; a ficha citava o art. 43.º como regra de competência do tribunal português, quando este trata da notificação da certidão ao executado antes da primeira medida de execução (a execução rege-se pela lei do Estado-Membro requerido — art. 41.º, n.º 1). Corrigiram-se ainda a citação do art. 36.º, n.º 1 (texto oficial: «sem quaisquer formalidades»), as condições das alíneas b), d) e e) do art. 45.º, n.º 1, e o regime da tradução (art. 42.º, n.ºs 3 e 4).",
+    "substituicoes": [
+      {
+        "de": "— Analisa sempre os fundamentos de recusa do art. 45.º (ordem pública, citação, decisões inconciliáveis, litispendência).",
+        "para": "— Analisa sempre os fundamentos de recusa do art. 45.º (ordem pública, falta de citação do requerido revel, decisões inconciliáveis e desrespeito das regras de competência em matéria de seguros, consumo, trabalho e competência exclusiva); a litispendência não é fundamento de recusa.",
+        "motivo": "O art. 45.º, n.º 1, do Regulamento 1215/2012 não inclui a litispendência; prevê as alíneas a) a e) listadas.",
+        "fonte": "https://publications.europa.eu/resource/celex/32012R1215"
+      },
+      {
+        "de": "- Art. 36.º, n.º 1: \"As decisões proferidas num Estado-Membro são reconhecidas nos outros Estados-Membros sem necessidade de qualquer procedimento especial.\"",
+        "para": "- Art. 36.º, n.º 1: \"As decisões proferidas num Estado-Membro são reconhecidas nos outros Estados-Membros sem quaisquer formalidades.\"",
+        "motivo": "Citação textual conforme a versão portuguesa oficial do art. 36.º, n.º 1.",
+        "fonte": "https://publications.europa.eu/resource/celex/32012R1215"
+      },
+      {
+        "de": "- b) Revelia: decisão proferida sem que o réu em revelia tivesse sido notificado em tempo útil e de forma a poder apresentar defesa\n- c) Decisão inconciliável com decisão proferida no EM requerido entre as mesmas partes\n- d) Decisão inconciliável com decisão anterior proferida noutro EM ou país terceiro entre as mesmas partes\n- e) Conflito com regras especiais de competência em matéria de seguros, consumidores, trabalhadores ou competência exclusiva",
+        "para": "- b) Revelia: decisão proferida à revelia sem que o ato que iniciou a instância (ou equivalente) tenha sido citado ou notificado ao requerido em tempo útil e de modo a permitir-lhe deduzir a defesa, salvo se o requerido não tiver recorrido da decisão podendo fazê-lo\n- c) Decisão inconciliável com decisão proferida no EM requerido entre as mesmas partes\n- d) Decisão inconciliável com decisão anterior proferida noutro EM ou Estado terceiro entre as mesmas partes, em ação com a mesma causa de pedir, desde que essa decisão anterior reúna as condições para ser reconhecida no EM requerido\n- e) Desrespeito das regras de competência em matéria de seguros, consumo ou contratos de trabalho (Capítulo II, Secções 3 a 5), quando o requerido seja o tomador do seguro, o segurado, o beneficiário, o lesado, o consumidor ou o trabalhador, ou das regras de competência exclusiva (Capítulo II, Secção 6)",
+        "motivo": "As alíneas b), d) e e) do art. 45.º, n.º 1, têm condições que a ficha omitia (ressalva do recurso não interposto, mesma causa de pedir, proteção só quando a parte fraca é o requerido).",
+        "fonte": "https://publications.europa.eu/resource/celex/32012R1215"
+      },
+      {
+        "de": "- Qual o tribunal competente em Portugal para a execução (art. 43.º — tribunal de comarca do lugar de execução)?",
+        "para": "- Qual o tribunal competente em Portugal para a execução? O processo de execução rege-se pela lei portuguesa (art. 41.º, n.º 1) [■ VERIFICAR: competência territorial e juízo de execução segundo o CPC e a LOSJ].\n- A certidão do art. 53.º tem de ser notificada ao executado antes da primeira medida de execução, acompanhada da decisão se esta ainda não lhe tiver sido notificada (art. 43.º, n.º 1): como se articula com a penhora prévia à citação na execução portuguesa?",
+        "motivo": "O art. 43.º não fixa o tribunal competente: impõe a notificação da certidão antes da primeira medida de execução; o processo rege-se pela lei do EM requerido (art. 41.º, n.º 1).",
+        "fonte": "https://publications.europa.eu/resource/celex/32012R1215"
+      },
+      {
+        "de": "(c) tradução para português [se exigida — art. 57.º, n.º 1].",
+        "para": "(c) tradução para português [se exigida pela autoridade de execução — art. 42.º, n.ºs 3 e 4, e art. 57.º].",
+        "motivo": "A exigência de tradução resulta do art. 42.º, n.ºs 3 e 4; o art. 57.º regula a língua e quem a faz.",
+        "fonte": "https://publications.europa.eu/resource/celex/32012R1215"
+      },
+      {
+        "de": "- [ ] Tradução para português verificada (necessária se certificado não estiver em português)",
+        "para": "- [ ] Tradução para português verificada (do conteúdo da certidão, se a autoridade de execução a exigir; da decisão, só se sem ela não puder dar seguimento ao processo — art. 42.º, n.ºs 3 e 4)",
+        "motivo": "A tradução não é automática: a autoridade de execução pode exigi-la nos termos do art. 42.º, n.ºs 3 e 4.",
+        "fonte": "https://publications.europa.eu/resource/celex/32012R1215"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Na prática portuguesa, o requerimento executivo segue o modelo e a entrega eletrónica do CPC (art. 724.º CPC); adaptar o cabeçalho «Exmo. Senhor Juiz do Tribunal de Comarca» à designação oficial «Tribunal Judicial da Comarca de [comarca] — Juízo de Execução de [local]» [■ VERIFICAR].",
+      "Confirmar o tribunal que Portugal comunicou à Comissão para o pedido de recusa de execução (arts. 47.º, n.º 1, e 75.º, al. a)) no Portal Europeu da Justiça.",
+      "Avaliar o pedido de declaração de inexistência de fundamentos de recusa (art. 36.º, n.º 2) quando se pretenda apenas o reconhecimento."
+    ],
+    "fontes": [
+      "https://publications.europa.eu/resource/celex/32012R1215"
+    ]
+  },
+  {
+    "codigo": "UE-015",
+    "veredicto": "corrigida",
+    "resumo": "Vários artigos e formulários não correspondiam ao Regulamento (UE) 2020/1784: o prazo de sete dias é o do aviso de receção (art. 10.º, n.º 1), a citação ou notificação deve ser feita no prazo de um mês (art. 11.º, n.º 2); a via postal é o art. 18.º e não depende de autorização do EM (o art. 19.º é a via eletrónica); a data da citação ou notificação está no art. 13.º, não no art. 23.º; os formulários são A a L do anexo I (o pedido é o Formulário A, o do direito de recusa o Formulário L), não «Anexos I a VII» nem «Anexo II». Corrigiram-se também as exclusões do âmbito (art. 1.º), a posição da Dinamarca e um endereço do Portal Europeu da Justiça que já não existe.",
+    "substituicoes": [
+      {
+        "de": "— Distingue: (a) transmissão direta entre entidades transmissoras/recetoras (canal principal), (b) serviço consular ou diplomático (canal subsidiário), (c) serviço postal direto (possível em muitos EM).",
+        "para": "— Distingue: (a) transmissão direta entre entidades transmissoras/recetoras (canal principal), (b) via diplomática ou consular (canal subsidiário — arts. 16.º e 17.º), (c) citação ou notificação pelos serviços postais, por carta registada com aviso de receção ou equivalente (art. 18.º), (d) citação ou notificação eletrónica, com consentimento prévio expresso do destinatário (art. 19.º), e (e) citação ou notificação direta por oficiais de justiça ou pessoas competentes do EM de destino, se o direito deste a permitir (art. 20.º).",
+        "motivo": "A via postal (art. 18.º) está disponível em todos os EM; o Regulamento prevê ainda a via eletrónica (art. 19.º) e a citação ou notificação direta (art. 20.º).",
+        "fonte": "https://publications.europa.eu/resource/celex/32020R1784"
+      },
+      {
+        "de": "— Os formulários normalizados (Anexos I a VII do Regulamento) são obrigatórios para transmissão entre entidades.",
+        "para": "— Os formulários normalizados (Formulários A a L do anexo I do Regulamento) são obrigatórios para a transmissão entre entidades; o pedido segue no Formulário A (art. 8.º, n.º 2).",
+        "motivo": "Todos os formulários constam do anexo I (Formulários A a L); o anexo II é o regulamento revogado e o anexo III a tabela de correspondência.",
+        "fonte": "https://publications.europa.eu/resource/celex/32020R1784"
+      },
+      {
+        "de": "destinatário num EM da UE (exceto Dinamarca [■ VERIFICAR se ainda aplicável])",
+        "para": "destinatário num EM da UE (a Dinamarca não fica vinculada ao Regulamento, mas aplica o seu conteúdo por força do Acordo CE–Dinamarca de 2005, conforme a notificação de 22/12/2020)",
+        "motivo": "A Dinamarca notificou em 22/12/2020 a decisão de aplicar o conteúdo do Regulamento 2020/1784 ao abrigo do Acordo de 2005.",
+        "fonte": "https://publications.europa.eu/resource/celex/22021A0121(01)"
+      },
+      {
+        "de": "- Exclusões: atos sem valor jurídico ou já notificados diretamente",
+        "para": "- Exclusões: matéria fiscal, aduaneira ou administrativa e responsabilidade do Estado por atos e omissões no exercício do poder público («acta iure imperii») (art. 1.º, n.º 1); endereço do destinatário desconhecido, sem prejuízo da assistência na determinação do endereço do art. 7.º (art. 1.º, n.º 2); citação ou notificação, no EM do foro, ao mandatário do destinatário (art. 1.º, n.º 3)",
+        "motivo": "As exclusões indicadas não existem no Regulamento; as do art. 1.º são as enunciadas.",
+        "fonte": "https://publications.europa.eu/resource/celex/32020R1784"
+      },
+      {
+        "de": "- Formulário I (Pedido de transmissão — Anexo I do Regulamento)\n- Prazo de entrega: o mais curto possível; entidade recetora notifica no prazo de 7 dias (art. 10.º) [■ VERIFICAR]\n- Certificado de notificação: Formulário de atestado do Anexo I enviado de volta à entidade transmissora",
+        "para": "- Formulário A do anexo I (Pedido de citação ou notificação de atos — art. 8.º, n.º 2), preenchido na língua oficial do EM requerido ou noutra que este tenha declarado aceitar\n- Prazos: transmissão no mais breve prazo possível (art. 8.º, n.º 1); a entidade recetora envia aviso de receção logo que possível e, se não usar o sistema informático descentralizado, no prazo de sete dias (Formulário D — art. 10.º, n.º 1); a citação ou notificação deve ser feita logo que possível e, em todo o caso, no prazo de um mês a contar da receção, devendo a entidade recetora comunicar se não o conseguir (art. 11.º, n.º 2)\n- Certidão de citação ou notificação (ou de não citação/notificação): Formulário K do anexo I, enviado à entidade transmissora (art. 14.º)",
+        "motivo": "O pedido é o Formulário A; os sete dias são o prazo do aviso de receção e o prazo de um mês é o da citação ou notificação (arts. 10.º e 11.º); a certidão é o Formulário K (art. 14.º).",
+        "fonte": "https://publications.europa.eu/resource/celex/32020R1784"
+      },
+      {
+        "de": "**Canal postal (art. 19.º):**\n- Os EM podem autorizar o envio postal direto ao destinatário\n- Portugal e maioria dos EM autorizam; verificar as declarações de cada EM em e-justice.europa.eu",
+        "para": "**Canal postal (art. 18.º):**\n- A citação ou notificação pode ser feita diretamente pelos serviços postais a pessoas que estejam noutro EM, por carta registada com aviso de receção ou equivalente; o art. 18.º não depende de autorização do EM de destino\n- A citação ou notificação eletrónica (art. 19.º) exige consentimento prévio expresso do destinatário; verificar no Portal Europeu da Justiça (e-justice.europa.eu) as condições adicionais comunicadas por cada EM (art. 19.º, n.º 2)",
+        "motivo": "A via postal é o art. 18.º e não prevê autorização nem oposição dos EM; o art. 19.º é a via eletrónica.",
+        "fonte": "https://publications.europa.eu/resource/celex/32020R1784"
+      },
+      {
+        "de": "- Obrigação de informar o destinatário do seu direito de recusa (formulário específico)",
+        "para": "- A entidade recetora informa o destinatário do direito de recusa juntando o Formulário L do anexo I (art. 12.º, n.º 2); a recusa pode ser feita no momento da citação ou notificação ou no prazo de duas semanas, por declaração escrita (art. 12.º, n.º 3); a entidade transmissora avisa o requerente deste risco (art. 9.º, n.º 1)",
+        "motivo": "Identifica o Formulário L e o prazo de duas semanas para a recusa (art. 12.º, n.ºs 2 e 3).",
+        "fonte": "https://publications.europa.eu/resource/celex/32020R1784"
+      },
+      {
+        "de": "- Art. 23.º: a data relevante para efeitos de prazo é a data de entrega ao destinatário (EM de destino) ou, se mais favorável para o requerente, a data de transmissão (conforme o direito processual do EM do tribunal)",
+        "para": "- Art. 13.º: a data da citação ou notificação é a data em que o ato foi citado ou notificado de acordo com o direito do EM requerido (n.º 1); todavia, se o direito de um EM exigir que o ato seja citado ou notificado dentro de um prazo determinado, a data a considerar relativamente ao requerente é a determinada pelo direito desse EM (n.º 2)\n- Art. 22.º: se o demandado não comparecer, o juiz sobrestá na decisão até se apurar que a citação ou notificação foi feita em tempo útil para a defesa",
+        "motivo": "A data da citação ou notificação está no art. 13.º (o art. 23.º trata da alteração do anexo I); o art. 22.º rege a não comparência do demandado.",
+        "fonte": "https://publications.europa.eu/resource/celex/32020R1784"
+      },
+      {
+        "de": "- Qual o impacto nos prazos processuais (prazo de contestação começa a correr quando? — art. 23.º)?",
+        "para": "- Qual o impacto nos prazos processuais (prazo de contestação começa a correr quando? — art. 13.º)?",
+        "motivo": "A data da citação ou notificação é regulada no art. 13.º.",
+        "fonte": "https://publications.europa.eu/resource/celex/32020R1784"
+      },
+      {
+        "de": "1. Formulário normalizado — Pedido de Transmissão (Formulário/Anexo I do Regulamento)\n   [Identifica os campos a preencher: secção A — entidade transmissora; secção B — entidade recetora; secção C — destinatário; secção D — ato a notificar; secção E — método de entrega]",
+        "para": "1. Formulário normalizado — Pedido de citação ou notificação de atos (Formulário A do anexo I do Regulamento)\n   [Identifica os campos a preencher: 1 — entidade de origem (transmissora); 2 — entidade requerida (recetora); 3 — requerente; 4 — destinatário; 5 — forma da citação ou notificação; 6 — ato a citar ou notificar; 7 — língua da informação ao destinatário sobre o direito de recusa; 8 — devolução de cópia do ato com a certidão]",
+        "motivo": "O pedido é o Formulário A, cujos pontos são numerados como indicado.",
+        "fonte": "https://publications.europa.eu/resource/celex/32020R1784"
+      },
+      {
+        "de": "4. Formulário de informação ao destinatário sobre o direito de recusa (art. 12.º + Anexo II)",
+        "para": "4. Formulário L do anexo I (informação ao destinatário sobre o direito de recusa — art. 12.º, n.º 2): é a entidade recetora que o junta ao ato; no ponto 7 do Formulário A indica-se a língua em que deve ser facultado",
+        "motivo": "O formulário do direito de recusa é o Formulário L do anexo I e é junto pela entidade requerida (art. 12.º, n.º 2).",
+        "fonte": "https://publications.europa.eu/resource/celex/32020R1784"
+      },
+      {
+        "de": "[Identificar a entidade recetora competente no EM de destino — consultar e-justice.europa.eu/content/service-requests-member-states]",
+        "para": "[Identificar a entidade recetora competente no EM de destino — consultar o Atlas Judiciário Europeu no Portal Europeu da Justiça: https://e-justice.europa.eu/topics/taking-legal-action/european-judicial-atlas-civil-matters/serving-documents-recast/serving-documents_pt]",
+        "motivo": "O endereço indicado já não existe (erro 404); a informação está na página do Atlas Judiciário Europeu sobre a citação ou notificação de atos (reformulação).",
+        "fonte": "https://e-justice.europa.eu/topics/taking-legal-action/european-judicial-atlas-civil-matters/serving-documents-recast/serving-documents_pt"
+      },
+      {
+        "de": "- [ ] Formulário normalizado (Anexo I) preenchido",
+        "para": "- [ ] Formulário normalizado (Formulário A do anexo I) preenchido",
+        "motivo": "O pedido é o Formulário A do anexo I.",
+        "fonte": "https://publications.europa.eu/resource/celex/32020R1784"
+      },
+      {
+        "de": "- [ ] Formulário de direito de recusa (Anexo II) incluído",
+        "para": "- [ ] Língua do Formulário L (direito de recusa — anexo I) indicada no ponto 7 do Formulário A",
+        "motivo": "O Formulário L consta do anexo I e é junto pela entidade requerida.",
+        "fonte": "https://publications.europa.eu/resource/celex/32020R1784"
+      },
+      {
+        "de": "- [ ] Impacto nos prazos processuais analisado (art. 23.º)",
+        "para": "- [ ] Impacto nos prazos processuais analisado (arts. 13.º e 22.º)",
+        "motivo": "A data da citação ou notificação e a não comparência do demandado estão nos arts. 13.º e 22.º.",
+        "fonte": "https://publications.europa.eu/resource/celex/32020R1784"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "A versão portuguesa oficial usa «entidade de origem» e «entidade requerida» (art. 3.º); a ficha mantém «transmissora/recetora» como sinónimos.",
+      "Confirmar as entidades de origem designadas por Portugal e se o requerimento deve ser dirigido ao juiz do processo, que ordena a citação, ou à secretaria; a DGAJ funciona como organismo central (art. 4.º) [■ VERIFICAR: Portal Europeu da Justiça].",
+      "Os arts. 5.º, 8.º e 10.º (sistema informático descentralizado) só se aplicam a partir da data fixada no art. 37.º, n.º 2; confirmar se a transmissão já é obrigatoriamente eletrónica.",
+      "Conjugar com o CPC português (citação de residentes no estrangeiro e dilação do prazo de contestação) [■ VERIFICAR]."
+    ],
+    "fontes": [
+      "https://publications.europa.eu/resource/celex/32020R1784",
+      "https://publications.europa.eu/resource/celex/22021A0121(01)",
+      "https://e-justice.europa.eu/topics/taking-legal-action/european-judicial-atlas-civil-matters/serving-documents-recast/serving-documents_pt",
+      "https://e-justice.europa.eu/content/service-requests-member-states"
+    ]
+  },
+  {
+    "codigo": "UE-021",
+    "veredicto": "corrigida",
+    "resumo": "A ficha afirmava que a Carta «não cria efeito horizontal pleno entre particulares sem intermediação», o que contraria a jurisprudência do TJUE: as disposições da Carta que bastam por si sós para conferir um direito (art. 21.º, n.º 1, art. 31.º, n.º 2, e art. 47.º CDFUE) podem ser invocadas num litígio entre particulares num domínio abrangido pelo direito da União (Egenberger, C-414/16; Bauer e Willmeroth, C-569/16 e C-570/16), ao contrário das que precisam de concretização, como o art. 27.º (AMS, C-176/12). Corrigiu-se esse ponto e acrescentou-se esta via às regras obrigatórias; o resto (Marshall, Faccini Dori, Foster, Mangold, Kücükdeveci, interpretação conforme e responsabilidade do Estado) está correto.",
+    "substituicoes": [
+      {
+        "de": "(Mangold [■ VERIFICAR]; Kücükdeveci [■ VERIFICAR]) — estes TÊM efeito horizontal.",
+        "para": "(Mangold [■ VERIFICAR]; Kücükdeveci [■ VERIFICAR]) — estes TÊM efeito horizontal; (4) disposições da Carta que bastam, por si sós, para conferir um direito invocável (art. 21.º, n.º 1, art. 31.º, n.º 2, e art. 47.º CDFUE — Egenberger, proc. C-414/16; Bauer e Willmeroth, proc. apensos C-569/16 e C-570/16), invocáveis entre particulares num domínio abrangido pelo direito da União.",
+        "motivo": "O TJUE reconhece que certas disposições da Carta podem ser invocadas em litígios entre particulares.",
+        "fonte": "https://publications.europa.eu/resource/celex/62016CJ0414"
+      },
+      {
+        "de": "- Direitos da Carta: a Carta pode ter efeito horizontal quando o Estado está a aplicar direito da UE (art. 51.º CDFUE) — mas não cria efeito horizontal pleno entre particulares sem intermediação",
+        "para": "- Direitos da Carta: a Carta aplica-se aos Estados-Membros apenas quando apliquem o direito da União (art. 51.º, n.º 1, CDFUE). Nesse domínio, as disposições da Carta que bastam, por si sós, para conferir aos particulares um direito invocável enquanto tal podem ser invocadas num litígio entre particulares, se necessário afastando a norma nacional contrária: o art. 21.º, n.º 1, CDFUE (não discriminação) e o art. 47.º CDFUE (tutela jurisdicional efetiva) (Egenberger, proc. C-414/16, n.ºs 76 a 79 e 82) e o art. 31.º, n.º 2, CDFUE (férias anuais remuneradas), também contra empregador particular (Bauer e Willmeroth, proc. apensos C-569/16 e C-570/16). As disposições que têm de ser concretizadas pelo direito da União ou nacional não o permitem: o art. 27.º CDFUE não pode, enquanto tal, ser invocado num litígio entre particulares (AMS, proc. C-176/12, n.ºs 45 a 48)",
+        "motivo": "A afirmação de que a Carta não tem efeito horizontal sem intermediação contraria Egenberger e Bauer; o critério é a suficiência da disposição por si só (AMS).",
+        "fonte": "https://publications.europa.eu/resource/celex/62016CJ0414"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Confirmar, para o direito concreto, se a disposição da Carta é suficiente por si só ou se, como o art. 27.º, precisa de concretização (AMS, C-176/12).",
+      "Avaliar a jurisprudência posterior a Bauer (por exemplo Max-Planck, C-684/16, e Cresco, C-193/17) e a evolução sobre o efeito horizontal dos arts. 21.º e 31.º CDFUE [■ VERIFICAR: curia.europa.eu].",
+      "Considerar também a interpretação de Foster (C-188/89) à luz de Farrell (C-413/15) quanto ao conceito de «Estado» em sentido lato [■ VERIFICAR]."
+    ],
+    "fontes": [
+      "https://publications.europa.eu/resource/celex/12016P/TXT",
+      "https://publications.europa.eu/resource/celex/62016CJ0414",
+      "https://publications.europa.eu/resource/celex/62016CJ0569",
+      "https://publications.europa.eu/resource/celex/62012CJ0176"
+    ]
+  }
+]

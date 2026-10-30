@@ -6,7 +6,8 @@ titulo_en: "Out-of-Court Notice Letter on Non-Payment of Maintenance"
 descricao: "Gera a carta de notificação extrajudicial dirigida ao progenitor em falta no pagamento da pensão de alimentos, intimando-o a regularizar os valores em dívida e advertindo das consequências legais do incumprimento — incluindo a execução de alimentos, o requerimento ao Fundo de Garantia de Alimentos Devidos a Menores (FGADM) e a responsabilidade criminal por crime de violação da obrigação de alimentos — nos termos do Código Civil e do Código Penal português."
 descricao_en: "Generates an out-of-court notice letter to the parent in arrears with maintenance, requiring payment of the amounts owed and warning of the legal consequences of non-payment — including enforcement of maintenance, an application to the Guarantee Fund for Maintenance Owed to Minors (FGADM) and criminal liability for the offence of breach of the maintenance obligation — under the Portuguese Civil Code and Criminal Code."
 ambito: nacional
-estado_citacoes: "conferidas 4 · corrigidas 4 · por conferir 0"
+estado_citacoes: "conferidas 5 · corrigidas 4 · por conferir 4"
+revisao_tecnica: "2026-10-30 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
@@ -14,7 +15,8 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 
 > **Âmbito:** nacional · **Área:** Direito da Família e das Crianças · **Código:** FAM-034
 > **EN:** Out-of-Court Notice Letter on Non-Payment of Maintenance. Generates an out-of-court notice letter to the parent in arrears with maintenance, requiring payment of the amounts owed and warning of the legal consequences of non-payment — including enforcement of maintenance, an application to the Guarantee Fund for Maintenance Owed to Minors (FGADM) and criminal liability for the offence of breach of the maintenance obligation — under the Portuguese Civil Code and Criminal Code.
-> **Citações:** conferidas 4 · corrigidas 4 · por conferir 0. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 5 · corrigidas 4 · por conferir 4. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-30 — corrigida (5 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
 Gera a carta de notificação extrajudicial dirigida ao progenitor em falta no pagamento da pensão de alimentos, intimando-o a regularizar os valores em dívida e advertindo das consequências legais do incumprimento — incluindo a execução de alimentos, o requerimento ao Fundo de Garantia de Alimentos Devidos a Menores (FGADM) e a responsabilidade criminal por crime de violação da obrigação de alimentos — nos termos do Código Civil e do Código Penal português.
 
@@ -50,19 +52,19 @@ Antes de redigir, analisa os factos e apresenta dentro de um bloco <analise_do_c
 ### ETAPA 2 — ANÁLISE JURÍDICA (Fundamentação)
 Apresenta dentro de um bloco <fundamentos_juridicos>:
 - Arts. 2.003.º a 2.009.º CC (obrigação de alimentos — conteúdo e fixação)
-- Art. 2.012.º CC (variação e cessação da obrigação de alimentos)
-- Art. 933.º CPC (processo de execução de alimentos — incidente de incumprimento)
+- Art. 2.012.º CC (alteração dos alimentos fixados; a cessação da obrigação consta do art. 2013.º CC)
+- Art. 933.º CPC (execução especial por alimentos; tratando-se de filhos menores, há também o incidente de incumprimento e os meios do art. 48.º RGPTC — desconto no vencimento, salário, pensões ou outros rendimentos)
 - Art. 724.º ss. CPC (execução para pagamento de quantia certa — aplicável a alimentos)
 - Lei n.º 75/98, de 19 de Novembro (FGADM — Fundo de Garantia de Alimentos Devidos a Menores)
 - Decreto-Lei n.º 164/99, de 13 de Maio (regulamentação do FGADM)
-- Art. 250.º do Código Penal (crime de violação da obrigação de alimentos — pena de prisão até 2 anos ou multa)
+- Art. 250.º do Código Penal (crime de violação da obrigação de alimentos: incumprimento nos dois meses seguintes ao vencimento por quem está em condições de cumprir — multa até 120 dias; prática reiterada — prisão até um ano ou multa até 120 dias; incumprimento que põe em perigo as necessidades fundamentais do credor — prisão até dois anos ou multa até 240 dias; o procedimento depende de queixa e o cumprimento pode levar à dispensa ou extinção da pena)
 
 ### ETAPA 3 — CONSTRUÇÃO ARGUMENTATIVA (Estratégia)
 Apresenta dentro de um bloco <estrategia>:
 - Sequência de passos após a notificação (execução / FGADM / queixa criminal)
 - Prazo adequado a conceder ao devedor para regularizar (geralmente 5 a 15 dias)
 - Valor total a reclamar: prestações em atraso + juros de mora (art. 805.º CC)
-- Para menores: informar sobre o FGADM como mecanismo alternativo
+- Para menores: informar sobre o FGADM como mecanismo subsidiário — só intervém se a pensão não for satisfeita pelos meios do art. 48.º RGPTC, a pedido nos autos de incumprimento, e não paga as prestações já vencidas (arts. 1.º, n.º 1, e 3.º, n.º 1, da Lei n.º 75/98; art. 4.º, n.º 4, do Decreto-Lei n.º 164/99)
 - Oportunidade de negociar plano de pagamento (evita litigância, garante os alimentos)
 
 ### ETAPA 4 — EXPOSIÇÃO ESTRUTURADA (A Carta)
@@ -79,10 +81,10 @@ Redige a carta completa com:
 1. **Identificação da obrigação** — Referência ao acordo ou sentença que fixa a pensão (data, tribunal/conservatória, valor mensal)
 2. **Descrição do incumprimento** — Prestações em falta (meses e valores); valor total em dívida
 3. **Interpelação para pagamento** — Prazo para regularizar (VERIFICAR: prazo a indicar) e forma de pagamento (IBAN)
-4. **Consequências do incumprimento** — Listagem das vias legais que serão accionadas:
+4. **Consequências do incumprimento** — Listagem das vias legais que serão acionadas:
    - Execução de alimentos (art. 933.º CPC) com penhora de salário/bens
    - Requerimento ao FGADM (se menor)
-   - Queixa por crime de violação da obrigação de alimentos (art. 250.º CP)
+   - Queixa por crime de violação da obrigação de alimentos (art. 250.º CP), se o devedor estiver em condições de cumprir
 5. **Abertura para acordo** — Indicação de disponibilidade para negociar plano de regularização, se pertinente
 
 **Encerramento**
@@ -141,9 +143,14 @@ Apresenta dentro de um bloco <checklist_validacao>:
 |---|---|---|
 | art. 933.º do CPC | corrigida — Termos que segue | o número citado no catálogo não correspondia à epígrafe |
 | art. 250.º do Código Penal | conferida (epígrafe) — Violação da obrigação de alimentos |  |
+| art. 2013.º CC | conferida (epígrafe) — Cessação da obrigação alimentar |  |
 | Art. 933.º CPC | corrigida — Termos que segue | o número citado no catálogo não correspondia à epígrafe |
+| art. 48.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 48.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | Art. 724.º ss. CPC | corrigida — Requerimento executivo | o número citado no catálogo não correspondia à epígrafe |
 | Art. 250.º do Código Penal | conferida (epígrafe) — Violação da obrigação de alimentos |  |
 | art. 805.º CC | conferida (índice) |  |
+| arts. 1.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 4.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 933.º CPC | corrigida — Termos que segue | o número citado no catálogo não correspondia à epígrafe |
 | art. 250.º CP | conferida (epígrafe) — Violação da obrigação de alimentos |  |

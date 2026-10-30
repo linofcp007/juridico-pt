@@ -6,7 +6,8 @@ titulo_en: "Secured vs. Unsecured Claims — Strategy for Proof and Ranking"
 descricao: "Elabora a estratégia de reclamação de créditos na insolvência diferenciando as categorias legais — garantidos, privilegiados, comuns e subordinados — ao abrigo dos artigos 47.º a 59.º e 172.º a 184.º do CIRE, com análise dos privilégios creditórios gerais e especiais e da ordem de pagamento na liquidação da massa."
 descricao_en: "Prepares the strategy for lodging claims in insolvency, differentiating the statutory categories — secured, preferential, unsecured and subordinated — under Articles 47 to 59 and 172 to 184 of the CIRE, with an analysis of general and special creditor privileges and the order of payment in the liquidation of the estate."
 ambito: nacional
-estado_citacoes: "conferidas 14 · corrigidas 0 · por conferir 1"
+estado_citacoes: "conferidas 23 · corrigidas 0 · por conferir 2"
+revisao_tecnica: "2026-10-28 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
@@ -14,7 +15,8 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 
 > **Âmbito:** nacional · **Área:** Direito da Insolvência e Recuperação · **Código:** INS-046
 > **EN:** Secured vs. Unsecured Claims — Strategy for Proof and Ranking. Prepares the strategy for lodging claims in insolvency, differentiating the statutory categories — secured, preferential, unsecured and subordinated — under Articles 47 to 59 and 172 to 184 of the CIRE, with an analysis of general and special creditor privileges and the order of payment in the liquidation of the estate.
-> **Citações:** conferidas 14 · corrigidas 0 · por conferir 1. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 23 · corrigidas 0 · por conferir 2. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-28 — corrigida (5 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
 Elabora a estratégia de reclamação de créditos na insolvência diferenciando as categorias legais — garantidos, privilegiados, comuns e subordinados — ao abrigo dos artigos 47.º a 59.º e 172.º a 184.º do CIRE, com análise dos privilégios creditórios gerais e especiais e da ordem de pagamento na liquidação da massa.
 
@@ -39,10 +41,11 @@ Apresenta dentro de um bloco <analise_dos_creditos>:
 
 ### ETAPA 2 — ANÁLISE JURÍDICA
 Apresenta dentro de um bloco <fundamentos_juridicos>:
-- Dívidas da massa (art. 51.º CIRE): pagamento prioritário antes de qualquer crédito
+- Dívidas da massa (art. 51.º CIRE): deduzidas antes do pagamento dos créditos sobre a insolvência; a imputação ao produto de bens onerados com garantia real não excede, em regra, 10 % (art. 172.º, n.os 1 e 2, CIRE)
 - Créditos garantidos (art. 47.º, n.º 4, al. a), CIRE): hipoteca, penhor, privilégio especial imobiliário ou mobiliário; pagos pelo produto dos bens sobre que incidem
-- Créditos privilegiados (art. 47.º, n.º 4, al. b), CIRE): privilégios gerais — laborais (art. 333.º CT), fiscais (art. 736.º CC), SS (art. 204.º CRCSPSS)
-- Conflito hipoteca vs. privilégios laborais: o art. 333.º CT prevalece sobre a hipoteca
+- Créditos privilegiados (art. 47.º, n.º 4, al. a), CIRE): privilégios gerais — laborais, quanto ao privilégio mobiliário geral (art. 333.º, n.º 1, al. a), CT), fiscais (art. 736.º CC), SS (art. 204.º CRCSPSS); pagos pelos bens não afetos a garantias reais prevalecentes (art. 175.º CIRE)
+- Créditos laborais: gozam de privilégio mobiliário geral e de privilégio imobiliário especial sobre o imóvel do empregador no qual o trabalhador presta a sua atividade (art. 333.º, n.º 1, CT); quanto a esse imóvel, o crédito é garantido e prefere à hipoteca, ainda que anterior (art. 751.º CC; art. 333.º, n.º 2, al. b), CT); sobre os demais imóveis não há privilégio laboral
+- Privilégios do Estado, das autarquias locais e da segurança social: extinguem-se com a declaração de insolvência os privilégios gerais constituídos mais de 12 meses antes do início do processo, os privilégios especiais de créditos vencidos mais de 12 meses antes dessa data e as hipotecas legais cujo registo tenha sido requerido nos dois meses anteriores (art. 97.º, n.º 1, als. a) a c), CIRE)
 - Créditos comuns (art. 47.º, n.º 4, al. c), CIRE): sem garantia ou privilégio; pagos proporcionalmente ao remanescente
 - Créditos subordinados (art. 48.º CIRE): pagos só após integral satisfação dos comuns
 - Ordem de pagamento na liquidação (arts. 172.º a 184.º CIRE)
@@ -70,14 +73,15 @@ Define em <analise_pagamento>:
 [Para cada crédito: categoria a reclamar, documentação necessária, alertas]
 
 **IV — ALERTAS ESPECÍFICOS**
-[Conflito hipoteca vs. privilégios laborais; créditos fiscais; prazo de reclamação]
+[Privilégio imobiliário especial dos trabalhadores vs. hipoteca; créditos fiscais e da segurança social e extinção de privilégios (art. 97.º CIRE); prazo de reclamação]
 
 ### ETAPA 5 — CHECKLIST DE VALIDAÇÃO
 Apresenta dentro de um bloco <checklist_validacao>:
 - [ ] Todas as categorias de crédito do art. 47.º CIRE analisadas
-- [ ] Conflito entre privilégios laborais e hipoteca verificado (art. 333.º CT)
+- [ ] Privilégio imobiliário especial dos trabalhadores sobre o imóvel onde prestam atividade confrontado com a hipoteca (art. 333.º CT; art. 751.º CC)
+- [ ] Extinção de privilégios e hipotecas legais do Estado, das autarquias e da segurança social verificada (art. 97.º CIRE)
 - [ ] Créditos subordinados identificados (art. 48.º CIRE)
-- [ ] Prazo de reclamação de créditos respeitado (30 dias após publicação no Citius — art. 128.º CIRE)
+- [ ] Prazo de reclamação de créditos respeitado: o fixado na sentença, até 30 dias (art. 36.º, n.º 1, al. j), CIRE), contado depois de finda a dilação de cinco dias a partir da publicação do anúncio no Citius (art. 37.º, n.os 7 e 8, CIRE); requerimento dirigido ao administrador da insolvência (art. 128.º CIRE)
 - [ ] Projeção de taxa de recuperação elaborada
 - [ ] [■ VERIFICAR] itens sinalizados
 
@@ -97,17 +101,27 @@ Apresenta dentro de um bloco <checklist_validacao>:
 | Citação | Estado | Nota |
 |---|---|---|
 | art. 51.º CIRE | conferida (epígrafe) — Dívidas da massa insolvente |  |
+| art. 172.º, n.os 1 e 2, CIRE | conferida (epígrafe) — Pagamento das dívidas da massa |  |
 | art. 47.º, n.º 4, al. a), CIRE | conferida (índice) |  |
-| art. 47.º, n.º 4, al. b), CIRE | conferida (índice) |  |
-| art. 333.º CT | conferida (epígrafe) — Privilégios creditórios |  |
-| art. 333.º CT | conferida (epígrafe) — Privilégios creditórios |  |
-| art. 333.º CT | conferida (epígrafe) — Privilégios creditórios |  |
+| art. 47.º, n.º 4, al. a), CIRE | conferida (índice) |  |
+| art. 333.º, n.º 1, al. a), CT | conferida (epígrafe) — Privilégios creditórios |  |
 | art. 736.º CC | conferida (epígrafe) — Créditos do Estado e das autarquias locais |  |
 | art. 204.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 175.º CIRE | conferida (epígrafe) — Pagamento aos credores privilegiados |  |
+| art. 333.º, n.º 1, CT | conferida (epígrafe) — Privilégios creditórios |  |
+| art. 751.º CC | conferida (epígrafe) — Privilégio imobiliário especial e direitos de terceiro |  |
+| art. 751.º CC | conferida (epígrafe) — Privilégio imobiliário especial e direitos de terceiro |  |
+| art. 333.º, n.º 2, al. b), CT | conferida (epígrafe) — Privilégios creditórios |  |
+| art. 97.º, n.º 1, als. a) a c), CIRE | conferida (epígrafe) — Extinção de privilégios creditórios e garantias reais |  |
 | art. 47.º, n.º 4, al. c), CIRE | conferida (índice) |  |
 | art. 48.º CIRE | conferida (índice) |  |
 | art. 48.º CIRE | conferida (índice) |  |
 | arts. 172.º a 184.º CIRE | conferida (epígrafe) — Pagamento das dívidas da massa |  |
 | art. 140.º CIRE | conferida (epígrafe) — Sentença |  |
+| art. 97.º CIRE | conferida (epígrafe) — Extinção de privilégios creditórios e garantias reais |  |
+| art. 97.º CIRE | conferida (epígrafe) — Extinção de privilégios creditórios e garantias reais |  |
 | art. 47.º CIRE | conferida (índice) |  |
+| art. 333.º CT | por conferir [■ VERIFICAR] | o assunto descrito não coincide com a epígrafe; confirmar |
+| art. 36.º, n.º 1, al. j), CIRE | conferida (índice) |  |
+| art. 37.º, n.os 7 e 8, CIRE | conferida (índice) |  |
 | art. 128.º CIRE | conferida (índice) |  |

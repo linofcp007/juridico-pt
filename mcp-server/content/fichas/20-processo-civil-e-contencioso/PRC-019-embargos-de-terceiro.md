@@ -6,7 +6,8 @@ titulo_en: "Third-Party Opposition (Embargos de Terceiro)"
 descricao: "Gera os embargos de terceiro, nos termos dos arts. 342.º a 349.º do CPC, para defesa de bens de terceiro indevidamente penhorados ou apreendidos em processo em que este não é parte, demonstrando o direito ou a posse sobre os bens e requerendo o levantamento da penhora."
 descricao_en: "Generates a third-party opposition (embargos de terceiro), under Articles 342 to 349 CPC, to protect the assets of a third party wrongly attached or seized in proceedings to which it is not a party, demonstrating its right to or possession of the assets and seeking the release of the attachment."
 ambito: nacional
-estado_citacoes: "conferidas 5 · corrigidas 1 · por conferir 1"
+estado_citacoes: "conferidas 20 · corrigidas 0 · por conferir 3"
+revisao_tecnica: "2026-10-28 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
@@ -14,7 +15,8 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 
 > **Âmbito:** nacional · **Área:** Processo Civil e Contencioso · **Código:** PRC-019
 > **EN:** Third-Party Opposition (Embargos de Terceiro). Generates a third-party opposition (embargos de terceiro), under Articles 342 to 349 CPC, to protect the assets of a third party wrongly attached or seized in proceedings to which it is not a party, demonstrating its right to or possession of the assets and seeking the release of the attachment.
-> **Citações:** conferidas 5 · corrigidas 1 · por conferir 1. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 20 · corrigidas 0 · por conferir 3. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-28 — corrigida (10 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
 Gera os embargos de terceiro, nos termos dos arts. 342.º a 349.º do CPC, para defesa de bens de terceiro indevidamente penhorados ou apreendidos em processo em que este não é parte, demonstrando o direito ou a posse sobre os bens e requerendo o levantamento da penhora.
 
@@ -27,9 +29,11 @@ Ficha de trabalho para preparar este documento. As regras da casa prevalecem sob
 - Nunca inventes jurisprudência ou artigos inexistentes
 - Sinaliza [■ VERIFICAR: o que é necessário] se faltarem dados
 - Legitimidade: terceiro = pessoa que não é parte na execução (art. 342.º, n.º 1 CPC)
-- Fundamento: direito incompatível com a penhora (propriedade, usufruto, posse, hipoteca) ou posse que deva ser tutelada
-- Prazo: antes do início da venda dos bens (art. 344.º, n.º 2 CPC)
-- Efeito: suspende a venda dos bens até à decisão
+- Fundamento: penhora ou outro ato judicial de apreensão ou entrega de bens que ofenda a posse ou qualquer direito incompatível com a realização ou o âmbito da diligência (art. 342.º, n.º 1, CPC) — ex.: propriedade, posse, usufruto; os titulares de direitos reais de garantia (hipoteca, penhor) não embargam: são citados para reclamar o crédito na execução (arts. 786.º, n.º 1, al. b), e 788.º CPC) e o seu direito transfere-se para o produto da venda (art. 824.º, n.os 2 e 3, CC)
+- Prazo: 30 dias subsequentes àquele em que a diligência foi efetuada ou em que o embargante teve conhecimento da ofensa, mas nunca depois de os bens terem sido judicialmente vendidos ou adjudicados (art. 344.º, n.º 2, CPC); os embargos correm por apenso à causa (n.º 1) e as provas são oferecidas logo com a petição
+- Os embargos podem ser deduzidos a título preventivo, depois de ordenada e antes de realizada a diligência (art. 350.º CPC)
+- Efeito: não é a petição que suspende a execução; realizadas as diligências probatórias da fase introdutória (art. 345.º CPC), o despacho que recebe os embargos determina a suspensão dos termos do processo quanto aos bens a que respeitam e, se requerida, a restituição provisória da posse, que o juiz pode condicionar à prestação de caução (art. 347.º CPC)
+- Não são admitidos embargos de terceiro contra a apreensão de bens no processo de insolvência (art. 342.º, n.º 2, CPC)
 
 ---
 
@@ -39,7 +43,7 @@ Ficha de trabalho para preparar este documento. As regras da casa prevalecem sob
 Analisa em <analise_do_caso>:
 - O embargante é efetivamente terceiro (não é parte na execução)?
 - Qual o direito ou a posse que é incompatível com a penhora?
-- O direito foi constituído antes ou depois da penhora? (relevante para boa-fé)
+- O direito foi constituído antes ou depois da penhora? (relevante para a oponibilidade à execução: os atos de disposição, oneração ou arrendamento dos bens penhorados são-lhe inoponíveis, sem prejuízo das regras do registo — art. 819.º CC; nos bens sujeitos a registo, ver o art. 5.º do Código do Registo Predial)
 - Estão reunidos documentos que provam o direito/posse?
 - A venda já foi marcada? (urgência)
 
@@ -90,10 +94,11 @@ embargos são apresentados com carácter de urgência."
 
 **7. DO PEDIDO**
 "Nestes termos, requer a V. Exa. se digne:
-1.º Admitir os presentes embargos;
-2.º Suspender imediatamente a venda do bem penhorado;
+1.º Receber os presentes embargos;
+2.º Em consequência, determinar a suspensão dos termos da execução quanto ao bem embargado
+   [e, tendo o Embargante a posse, a sua restituição provisória] (art. 347.º CPC);
 3.º Julgar os embargos procedentes e determinar o levantamento da penhora;
-4.º Condenar o Exequente em custas e honorários."
+4.º Condenar o Exequente nas custas, incluindo as custas de parte (art. 533.º CPC)."
 
 **8. MEIOS DE PROVA**
 Certidão de registo predial / escritura / documentos de posse.
@@ -103,8 +108,9 @@ Apresenta em <checklist_validacao>:
 - [ ] Terceiro (não parte na execução) confirmado
 - [ ] Bem penhorado identificado com precisão
 - [ ] Direito anterior à penhora demonstrado
-- [ ] Registo do direito anterior ao registo da penhora (se imóvel)
-- [ ] Pedido de suspensão da venda formulado
+- [ ] Prazo de 30 dias contado da diligência ou do conhecimento da ofensa, e bens ainda não vendidos nem adjudicados (art. 344.º, n.º 2, CPC)
+- [ ] Datas do título e dos registos do direito e da penhora comparadas (se o bem estiver sujeito a registo) [■ VERIFICAR: se o exequente é terceiro, para efeitos de registo, perante o embargante — art. 5.º, n.º 4, do Código do Registo Predial e jurisprudência posterior ao DL n.º 533/99]
+- [ ] Pedido de suspensão dos termos da execução quanto ao bem e, havendo posse, de restituição provisória formulado (art. 347.º CPC)
 - [ ] Pedido de levantamento da penhora formulado
 - [ ] Pontos [■ VERIFICAR] sinalizados
 
@@ -115,7 +121,7 @@ Apresenta em <checklist_validacao>:
 **EMBARGANTE:**
 - Nome: [nome]
 - NIF: [número]
-- Relação com o executado: [cônjuge / adquirente / credor hipotecário / outro]
+- Relação com o executado: [cônjuge (art. 343.º CPC) / adquirente / outro — o credor hipotecário não embarga: reclama o crédito na execução]
 
 **EXECUÇÃO:**
 - N.º do processo: [número]
@@ -127,11 +133,12 @@ Apresenta em <checklist_validacao>:
 - Identificação: [artigo predial / matrícula / etc.]
 
 **DIREITO DO EMBARGANTE:**
-- Tipo: [propriedade / posse / usufruto / hipoteca / outro]
+- Tipo: [propriedade / posse / usufruto / outro direito incompatível com a penhora]
 - Título: [escritura / contrato / herança / etc.]
 - Data de aquisição: [data]
 - Data de registo: [data]
 - Data de registo da penhora: [data — se posterior ao registo do direito]
+- Data da penhora e data em que o embargante dela teve conhecimento: [datas — prazo de 30 dias, art. 344.º, n.º 2, CPC]
 
 **DOCUMENTOS:**
 [Certidão predial, escritura, outros]
@@ -147,9 +154,25 @@ Apresenta em <checklist_validacao>:
 | Citação | Estado | Nota |
 |---|---|---|
 | art. 342.º, n.º 1 CPC | conferida (epígrafe) — Fundamento dos embargos de terceiro |  |
-| art. 344.º, n.º 2 CPC | corrigida — Dedução dos embargos | o número citado no catálogo não correspondia à epígrafe |
+| art. 342.º, n.º 1, CPC | conferida (epígrafe) — Fundamento dos embargos de terceiro |  |
+| arts. 786.º, n.º 1, al. b), e 788.º CPC | conferida (epígrafe) — Citações |  |
+| art. 824.º, n.os 2 e 3, CC | conferida (epígrafe) — Venda em execução |  |
+| art. 344.º, n.º 2, CPC | conferida (epígrafe) — Dedução dos embargos |  |
+| art. 344.º, n.º 2, CPC | conferida (epígrafe) — Dedução dos embargos |  |
+| art. 344.º, n.º 2, CPC | conferida (epígrafe) — Dedução dos embargos |  |
+| art. 350.º CPC | conferida (epígrafe) — Embargos de terceiro com função preventiva |  |
+| art. 345.º CPC | conferida (epígrafe) — Fase introdutória dos embargos |  |
+| art. 347.º CPC | conferida (epígrafe) — Efeitos do recebimento dos embargos |  |
+| art. 347.º CPC | conferida (epígrafe) — Efeitos do recebimento dos embargos |  |
+| art. 347.º CPC | conferida (epígrafe) — Efeitos do recebimento dos embargos |  |
+| art. 342.º, n.º 2, CPC | conferida (epígrafe) — Fundamento dos embargos de terceiro |  |
+| art. 819.º CC | conferida (epígrafe) — Disposição ou oneração dos bens penhorados |  |
+| art. 5.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 5.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 5.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | Arts. 342.º a 349.º CPC | conferida (epígrafe) — Fundamento dos embargos de terceiro |  |
 | Art. 1305.º CC | conferida (epígrafe) — Propriedade das coisas |  |
 | Art. 1251.º e ss. CC | conferida (epígrafe) — Noção |  |
-| art. 5.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | arts. 342.º e ss. do CPC | conferida (epígrafe) — Fundamento dos embargos de terceiro |  |
+| art. 533.º CPC | conferida (epígrafe) — Custas de parte |  |
+| art. 343.º CPC | conferida (epígrafe) — Embargos de terceiro por parte dos cônjuges |  |

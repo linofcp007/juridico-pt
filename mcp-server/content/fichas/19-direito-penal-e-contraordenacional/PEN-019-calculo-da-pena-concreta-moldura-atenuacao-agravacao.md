@@ -6,7 +6,8 @@ titulo_en: "Calculation of the Specific Sentence (Range, Mitigation, Aggravation
 descricao: "Gera uma análise detalhada da determinação da pena concreta em processo penal português, identificando a moldura penal abstrata, as circunstâncias modificativas agravantes e atenuantes, o cálculo da pena de substituição e a justificação da escolha da sanção, nos termos dos arts. 40.º a 80.º do Código Penal."
 descricao_en: "Generates a detailed analysis of the determination of the specific sentence in Portuguese criminal proceedings, identifying the abstract sentencing range, the aggravating and mitigating modifying circumstances, the calculation of the substitute penalty and the justification for the choice of sanction, under Articles 40 to 80 of the Criminal Code."
 ambito: nacional
-estado_citacoes: "conferidas 28 · corrigidas 2 · por conferir 0"
+estado_citacoes: "conferidas 32 · corrigidas 2 · por conferir 1"
+revisao_tecnica: "2026-10-28 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
@@ -14,7 +15,8 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 
 > **Âmbito:** nacional · **Área:** Direito Penal e Contraordenacional · **Código:** PEN-019
 > **EN:** Calculation of the Specific Sentence (Range, Mitigation, Aggravation). Generates a detailed analysis of the determination of the specific sentence in Portuguese criminal proceedings, identifying the abstract sentencing range, the aggravating and mitigating modifying circumstances, the calculation of the substitute penalty and the justification for the choice of sanction, under Articles 40 to 80 of the Criminal Code.
-> **Citações:** conferidas 28 · corrigidas 2 · por conferir 0. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 32 · corrigidas 2 · por conferir 1. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-28 — corrigida (6 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
 Gera uma análise detalhada da determinação da pena concreta em processo penal português, identificando a moldura penal abstrata, as circunstâncias modificativas agravantes e atenuantes, o cálculo da pena de substituição e a justificação da escolha da sanção, nos termos dos arts. 40.º a 80.º do Código Penal.
 
@@ -49,11 +51,11 @@ Apresenta em <analise_do_caso>:
 Apresenta em <fundamentos_juridicos>:
 - Art. 40.º CP — fins das penas (prevenção + culpa como limite máximo)
 - Art. 71.º CP — determinação da pena concreta (lista de circunstâncias)
-- Art. 72.º CP — atenuação especial (circunstâncias excepcionais; efeitos na moldura: reduz mínimo a 1/5 e máximo a 1/4 acima do mínimo — [■ VERIFICAR redação atual])
-- Art. 73.º CP — efeitos da atenuação especial na moldura
-- Art. 75.º CP — reincidência (agrava a moldura em 1/3 nos limites mínimo e máximo)
-- Art. 76.º CP — medida da pena em caso de reincidência
-- Art. 77.º CP — concurso de crimes (pena única: soma das penas com limite máximo de 25 anos ou o mais elevado + metade dos restantes)
+- Art. 72.º CP — atenuação especial (circunstâncias anteriores, posteriores ou contemporâneas do crime que diminuam por forma acentuada a ilicitude do facto, a culpa do agente ou a necessidade da pena; exemplos no n.º 2)
+- Art. 73.º CP — efeitos da atenuação especial na moldura: limite máximo da prisão reduzido de 1/3; limite mínimo da prisão reduzido a 1/5 se for igual ou superior a 3 anos, e ao mínimo legal se for inferior; na multa, máximo reduzido de 1/3 e mínimo reduzido ao mínimo legal; se o máximo da prisão não for superior a 3 anos, pode ser substituída por multa (n.º 1, als. a) a d))
+- Art. 75.º CP — reincidência (crime doloso a punir com prisão efetiva superior a 6 meses, depois de condenação transitada em prisão efetiva superior a 6 meses por outro crime doloso, sendo o agente de censurar por a condenação anterior não lhe ter servido de suficiente advertência; não releva o crime anterior se entre os dois decorreram mais de 5 anos)
+- Art. 76.º CP — efeitos da reincidência: o limite mínimo é elevado de 1/3 e o máximo permanece inalterado; a agravação não pode exceder a medida da pena mais grave aplicada nas condenações anteriores
+- Art. 77.º CP — concurso de crimes (pena única: entre a mais elevada das penas parcelares e a soma de todas, sem ultrapassar 25 anos na prisão e 900 dias na multa — n.º 2; na medida da pena consideram-se, em conjunto, os factos e a personalidade do agente — n.º 1)
 - Art. 78.º CP — conhecimento superveniente do concurso
 - Art. 50.º CP — suspensão (pena ≤ 5 anos; prognose favorável)
 - Art. 45.º CP — multa de substituição (pena ≤ 1 ano)
@@ -76,15 +78,15 @@ O crime de [tipo] (art. [X.º] CP) tem moldura penal de:
 **II. MODIFICAÇÕES ESPECIAIS DA MOLDURA (se aplicáveis)**
 
 A) **Atenuação especial (art. 72.º CP)**:
-Verificam-se circunstâncias que tornam a ilicitude ou a culpa sensivelmente diminuídas:
+Verificam-se circunstâncias que diminuem por forma acentuada a ilicitude do facto, a culpa do agente ou a necessidade da pena (art. 72.º, n.º 1, CP):
 [Enumerar: confissão relevante, arrependimento sincero, tempo decorrido desde o crime, reparação do dano, colaboração com a investigação]
 Com atenuação especial (art. 73.º CP):
-— Novo mínimo: [calcular — 1/5 do mínimo original]
-— Novo máximo: [calcular — 1/4 acima do novo mínimo, nunca superior ao original]
-[■ VERIFICAR a fórmula atual do art. 73.º CP]
+— Novo máximo: [calcular — máximo original reduzido de 1/3] (art. 73.º, n.º 1, al. a), CP)
+— Novo mínimo: [calcular — 1/5 do mínimo original, se este for igual ou superior a 3 anos; mínimo legal, se for inferior] (art. 73.º, n.º 1, al. b), CP)
+— Pena de multa: máximo reduzido de 1/3 e mínimo reduzido ao mínimo legal (art. 73.º, n.º 1, al. c), CP); se o máximo da prisão não for superior a 3 anos, pode ser substituída por multa (al. d))
 
 B) **Reincidência (art. 75.º CP)** (se aplicável):
-O arguido já foi condenado por crime da mesma espécie, com pena superior a 6 meses, e os factos foram praticados nos 5 anos seguintes. Agravação de 1/3 do mínimo e do máximo.
+O arguido comete crime doloso que deva ser punido com prisão efetiva superior a 6 meses, depois de ter sido condenado, por sentença transitada em julgado, em prisão efetiva superior a 6 meses por outro crime doloso (não se exige que seja da mesma espécie); entre a prática do crime anterior e a do atual não decorreram mais de 5 anos, sem contar o tempo de cumprimento de medida processual, pena ou medida de segurança privativas da liberdade; e o arguido é de censurar por a condenação anterior não lhe ter servido de suficiente advertência contra o crime (art. 75.º, n.ºs 1 e 2, CP). Efeito: o limite mínimo da moldura é elevado de 1/3 e o máximo permanece inalterado; a agravação não pode exceder a medida da pena mais grave aplicada nas condenações anteriores (art. 76.º, n.º 1, CP).
 
 **III. DETERMINAÇÃO DA PENA CONCRETA (art. 71.º CP)**
 Dentro da moldura resultante, a pena concreta é determinada em função de:
@@ -109,7 +111,7 @@ Dentro da moldura resultante, a pena concreta é determinada em função de:
 **IV. CONCURSO DE CRIMES (se aplicável — art. 77.º CP)**
 Crimes em concurso: [lista]
 Penas parcelares: [lista]
-Pena única (art. 77.º CP): entre o máximo mais elevado e a soma das penas, com limite de [25 anos / 8 anos para prisão efetiva — VERIFICAR].
+Pena única (art. 77.º CP): moldura entre a mais elevada das penas parcelares concretamente aplicadas e a soma de todas, sem ultrapassar 25 anos na prisão e 900 dias na multa (n.º 2); na medida da pena única consideram-se, em conjunto, os factos e a personalidade do agente (n.º 1).
 Pena única proposta: [X] anos.
 
 **V. DA MODALIDADE DE EXECUÇÃO**
@@ -129,7 +131,7 @@ Apresenta em <checklist_validacao>:
 - [ ] Pena concreta dentro da moldura resultante justificada
 - [ ] Concurso de crimes calculado (se aplicável — art. 77.º CP)
 - [ ] Modalidade de execução e seus requisitos analisados
-- [ ] Fundamento constitucional da culpa como limite (art. 40.º, n.º 2 CP)
+- [ ] Culpa como limite inultrapassável da pena (art. 40.º, n.º 2 CP)
 - [ ] Itens [■ VERIFICAR] sinalizados
 
 ---
@@ -162,7 +164,7 @@ Apresenta em <checklist_validacao>:
 | Citação | Estado | Nota |
 |---|---|---|
 | art. 40.º, n.º 2 CP | conferida (epígrafe) — Finalidades das penas e das medidas de segurança |  |
-| art. 40.º, n.º 2 CP | conferida (epígrafe) — Finalidades das penas e das medidas de segurança |  |
+| art. 40.º, n.º 2 CP | por conferir [■ VERIFICAR] | o assunto descrito não coincide com a epígrafe; confirmar |
 | art. 72.º CP | conferida (epígrafe) — Atenuação especial da pena |  |
 | art. 72.º CP | conferida (epígrafe) — Atenuação especial da pena |  |
 | art. 75.º CP | conferida (epígrafe) — Pressupostos |  |
@@ -185,8 +187,13 @@ Apresenta em <checklist_validacao>:
 | Art. 50.º CP | conferida (epígrafe) — Pressupostos e duração |  |
 | Art. 45.º CP | corrigida — Substituição da prisão por multa | o número citado no catálogo não correspondia à epígrafe |
 | Art. 58.º CP | conferida (epígrafe) — Prestação de trabalho a favor da comunidade |  |
+| art. 72.º, n.º 1, CP | conferida (epígrafe) — Atenuação especial da pena |  |
 | art. 73.º CP | conferida (epígrafe) — Termos da atenuação especial |  |
-| art. 73.º CP | conferida (epígrafe) — Termos da atenuação especial |  |
+| art. 73.º, n.º 1, al. a), CP | conferida (epígrafe) — Termos da atenuação especial |  |
+| art. 73.º, n.º 1, al. b), CP | conferida (epígrafe) — Termos da atenuação especial |  |
+| art. 73.º, n.º 1, al. c), CP | conferida (epígrafe) — Termos da atenuação especial |  |
+| art. 75.º, n.ºs 1 e 2, CP | conferida (epígrafe) — Pressupostos |  |
+| art. 76.º, n.º 1, CP | conferida (epígrafe) — Efeitos |  |
 | art. 71.º CP | conferida (epígrafe) — Determinação da medida da pena |  |
 | art. 50.º CP | conferida (epígrafe) — Pressupostos e duração |  |
 | art. 45.º CP | corrigida — Substituição da prisão por multa | o número citado no catálogo não correspondia à epígrafe |

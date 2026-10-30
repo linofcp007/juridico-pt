@@ -1,0 +1,256 @@
+[
+  {
+    "codigo": "SAU-045",
+    "veredicto": "corrigida",
+    "resumo": "A ficha indicava como regime de licenciamento o «DL 76/2013 / Portaria 153/2017»: o licenciamento rege-se pelo DL 127/2014 (licença de funcionamento da ERS), e a Portaria 153/2017 fixa os TMRG do SNS. A «licença de utilização» do edifício foi alinhada com o RJUE após o DL 10/2024. Na Lei 15/2014, o consentimento está no art. 3.º (os arts. 5.º e 6.º tratam de dados e sigilo), e o acesso ao processo clínico não tem um prazo de 10 dias úteis no art. 4.º: rege-se pela Lei 12/2005 e pelo RGPD (um mês); os 10 dias são os da LADA, que não se aplica, em regra, a uma clínica privada.",
+    "descricao": "Realiza uma auditoria jurídica completa de conformidade de uma clínica privada ou centro de diagnóstico, verificando o licenciamento (licença de funcionamento da ERS, DL 127/2014 e portarias de requisitos por tipologia), os requisitos da Lei n.º 15/2014 (direitos do utente), as obrigações do RGPD em saúde, o CDOM, o seguro de responsabilidade civil profissional e os contratos de trabalho com profissionais de saúde. Produz relatório de não conformidades e plano de ação.",
+    "descricao_en": "Carries out a full legal compliance audit of a private clinic or diagnostic centre, checking licensing (ERS operating licence, Decree-Law 127/2014 and the ministerial orders setting the requirements for each type of establishment), the requirements of Law No. 15/2014 (users' rights), GDPR obligations in healthcare, the CDOM, professional civil liability insurance and employment contracts with health professionals. It produces a non-compliance report and an action plan.",
+    "substituicoes": [
+      {
+        "de": "- Alvará ERS em vigor (DL 76/2013 / Portaria 153/2017)\n- Licença de utilização / autorização de funcionamento",
+        "para": "- Licença de funcionamento emitida pela ERS para cada tipologia exercida, afixada em local bem visível (arts. 2.º, 9.º e 11.º do DL 127/2014, que revogou o DL 279/2009; requisitos técnicos nas portarias de cada tipologia). A Portaria 153/2017 não regula o licenciamento: fixa os TMRG do SNS\n- Título de utilização do edifício ou fração compatível com a prestação de cuidados de saúde (art. 7.º, n.º 1, DL 127/2014; arts. 62.º e ss. RJUE, que desde o DL 10/2024 sujeitam a utilização a comunicação prévia ou a comunicação prévia com prazo) [■ VERIFICAR: regime aplicável ao imóvel, na redação dada pelo DL 108/2026]",
+        "motivo": "O licenciamento dos estabelecimentos de saúde rege-se pelo DL 127/2014 (licença de funcionamento da ERS); a Portaria 153/2017 fixa os TMRG, e a «licença de utilização» deixou de ser o título geral de utilização com o DL 10/2024.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2207&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- Formulários de consentimento informado específicos por tipo de ato (arts. 5.º e 6.º)",
+        "para": "- Formulários de consentimento informado específicos por tipo de ato (art. 3.º Lei 15/2014)",
+        "motivo": "Na Lei 15/2014, o consentimento ou recusa está no art. 3.º; os arts. 5.º e 6.º tratam dos dados pessoais e do sigilo.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2292&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- Acesso ao processo clínico: procedimento documentado, prazo de 10 dias úteis (art. 4.º)",
+        "para": "- Acesso ao processo clínico: procedimento documentado (art. 3.º, n.os 2 e 3, da Lei 12/2005; art. 15.º RGPD), com resposta sem demora injustificada e no prazo de um mês, prorrogável até dois meses (art. 12.º, n.º 3, RGPD). O prazo de 10 dias do art. 15.º da LADA (Lei 26/2016) só vale para as entidades abrangidas pelo art. 4.º da mesma lei, não, em regra, para uma clínica privada",
+        "motivo": "O art. 4.º da Lei 15/2014 trata da adequação dos cuidados e não fixa prazo de acesso; o acesso à informação de saúde rege-se pela Lei 12/2005 e pelo RGPD (um mês); os 10 dias são da LADA, aplicável a entidades públicas.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1660A0003&nid=1660&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Identificar a tipologia da clínica e a portaria de requisitos técnicos aplicável (art. 2.º, n.º 1, DL 127/2014), e se a licença segue a mera comunicação prévia ou o procedimento ordinário.",
+      "Confirmar o título urbanístico de utilização do imóvel no regime do RJUE em vigor (DL 10/2024 e DL 108/2026).",
+      "Confirmar o registo na ERS e a atualização em 30 dias após qualquer alteração (art. 26.º, n.º 3, dos Estatutos da ERS, aprovados pelo DL 126/2014).",
+      "Confirmar as obrigações da clínica, enquanto utilizadora profissional, quanto a dispositivos médicos (Regulamento (UE) 2017/745 e regime nacional); o «registo no INFARMED» indicado na ficha pode não se aplicar ao utilizador.",
+      "Verificar se a clínica tem convenção ou contrato com o SNS que a sujeite à LADA quanto a certos documentos."
+    ],
+    "fontes": [
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2207&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2194&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=625A0062&nid=625&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2292&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1660A0003&nid=1660&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2961A0012&nid=2961&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2591A0015&nid=2591&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2591A0004&nid=2591&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://files.dre.pt/1s/2017/05/08600/0220402209.pdf"
+    ]
+  },
+  {
+    "codigo": "SAU-048",
+    "veredicto": "corrigida",
+    "resumo": "A Diretiva 2011/24/UE foi transposta pela Lei 52/2014, não pelo DL 44/2017, e a autorização prévia é decidida pela ACSS (não pela ARS, extinta pelo DL 54/2024); acrescentou-se a via do art. 20.º do Regulamento 883/2004 (S2). A «LNFCM» não existe: o instrumento hospitalar é o Formulário Nacional de Medicamentos, e a AUE do art. 92.º DL 176/2006 é pedida pelo hospital, não pelo doente. O art. 9.º da Lei 15/2014 trata de reclamações, não de segunda opinião, e a «ação administrativa urgente» foi substituída pela intimação ou pela providência cautelar do CPTA.",
+    "descricao": "Orienta o doente oncológico e a família na defesa do direito de acesso atempado a tratamento, ao abrigo da Lei n.º 15/2014, da Lei n.º 95/2019 (Lei de Bases da Saúde) e dos programas da DGS para a doença oncológica. Aborda o acesso a medicamentos oncológicos fora do Formulário Nacional de Medicamentos (autorização de utilização excecional do INFARMED), os prazos máximos de espera, a segunda opinião, os cuidados de saúde transfronteiriços e o litígio administrativo por recusa ou demora de tratamento.",
+    "descricao_en": "Guides cancer patients and their families in defending the right to timely access to treatment, under Law No. 15/2014, Law No. 95/2019 (Basic Health Law) and the DGS cancer programmes. It addresses access to cancer medicines outside the National Medicines Formulary (INFARMED exceptional use authorisation), maximum waiting times, second opinions, cross-border healthcare and administrative litigation over refusal or delay of treatment.",
+    "substituicoes": [
+      {
+        "de": "— Distingue o acesso via SNS do acesso via saúde transfronteiriça (Diretiva 2011/24/UE, transposta pelo DL 44/2017).",
+        "para": "— Distingue o acesso via SNS do acesso a cuidados de saúde transfronteiriços (Diretiva 2011/24/UE, transposta pela Lei 52/2014, de 25 de agosto) e da autorização ao abrigo do art. 20.º do Regulamento (CE) 883/2004 (documento S2).",
+        "motivo": "A Diretiva 2011/24/UE foi transposta pela Lei 52/2014; o DL 44/2017 apenas alterou a Lei 15/2014 (TMRG e SIGA).",
+        "fonte": "https://diariodarepublica.pt/dr/detalhe/lei/52-2014-56346572"
+      },
+      {
+        "de": "- Direito à segunda opinião médica: Lei 15/2014, art. 9.º\n- Direito de acesso: Lei 95/2019 + Programa Nacional de Controlo do Cancro\n- Medicamentos oncológicos: LNFCM (Lista Nacional de Medicamentos de Uso Humano) + acesso a medicamentos off-label ou fora da lista via CFT hospitalar",
+        "para": "- Segunda opinião médica: sem norma expressa na Lei 15/2014 nem na Lei 95/2019; fundamentar no direito à informação e à escolha do prestador (arts. 2.º e 7.º Lei 15/2014; Base 2, n.º 1, als. c) e e), Lei 95/2019) [■ VERIFICAR: norma ou orientação específica sobre a segunda opinião]\n- Direito de acesso em tempo clinicamente aceitável: Base 2, n.º 1, al. b), Lei 95/2019 e art. 4.º, n.º 1, Lei 15/2014 + programas da DGS para a doença oncológica [■ VERIFICAR: designação e instrumento em vigor]\n- Medicamentos oncológicos em meio hospitalar: Formulário Nacional de Medicamentos (FNM) [■ VERIFICAR: regime do FNM no DL 118/2026, que substituiu o SiNATS do DL 97/2015] + acesso a medicamentos off-label ou fora do FNM via CFT hospitalar",
+        "motivo": "O art. 9.º da Lei 15/2014 regula queixas e reclamações, não a segunda opinião; a «LNFCM» não é um instrumento existente (o hospitalar é o Formulário Nacional de Medicamentos).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2292&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "### ETAPA 2 — ACESSO A MEDICAMENTOS NÃO INCLUÍDOS NA LNFCM\nApresenta em <medicamentos_fora_lista>:\n- Pedido de autorização excecional ao INFARMED (art. 92.º DL 176/2006)\n- Uso compassivo / Autorização de Utilização Excecional (AUE) — art. 92.º DL 176/2006\n- Pedido de comparticipação individual ao SNS\n- Via judicial: ação administrativa urgente para obrigar o SNS a fornecer o medicamento [■ VERIFICAR: jurisprudência TAC]",
+        "para": "### ETAPA 2 — ACESSO A MEDICAMENTOS NÃO INCLUÍDOS NO FNM OU SEM COMERCIALIZAÇÃO EM PORTUGAL\nApresenta em <medicamentos_fora_lista>:\n- Autorização de utilização excecional (AUE) do INFARMED (art. 92.º DL 176/2006): medicamento imprescindível sem alternativa autorizada ou, em casos excecionais, adquirido pelos serviços farmacêuticos para um doente específico; o pedido é feito pelo hospital (serviços farmacêuticos), não pelo doente, nos termos do regulamento do INFARMED (art. 92.º, n.º 3, DL 176/2006)\n- Uso compassivo / programa de acesso precoce [■ VERIFICAR: regime aplicável — art. 83.º do Regulamento (CE) 726/2004 e regime nacional de acesso precoce]\n- Pedido de comparticipação individual ao SNS [■ VERIFICAR: se existe esta via para o medicamento em causa; a dispensa em farmácia hospitalar do SNS segue regime próprio]\n- Via judicial: intimação para proteção de direitos, liberdades e garantias (arts. 109.º a 111.º CPTA), quando estejam em causa a vida ou a integridade física e a providência cautelar não baste, ou providência cautelar com pedido de decretamento provisório (arts. 112.º e 131.º CPTA), no tribunal administrativo de círculo competente [■ VERIFICAR: jurisprudência dos tribunais administrativos sobre o acesso a medicamentos]",
+        "motivo": "A AUE (art. 92.º DL 176/2006) é uma só figura, concedida pelo INFARMED a pedido do hospital; o CPTA não prevê uma «ação administrativa urgente» genérica: os meios urgentes são a intimação (art. 109.º) e as providências cautelares (art. 112.º).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1884A0092&nid=1884&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Diretiva 2011/24/UE, transposta pelo DL 44/2017: direito a receber tratamento noutro EM da UE e obter reembolso pelo SNS português\n- Condições: tratamento disponível noutro EM + tratamento não disponível em tempo útil no SNS PT\n- Procedimento: autorização prévia da ARS (para internamento) ou reembolso posterior (para ambulatório)",
+        "para": "- Diretiva 2011/24/UE, transposta pela Lei 52/2014: direito a receber tratamento noutro EM da UE e obter reembolso pelo SNS português dos cuidados que o SNS teria de garantir (art. 8.º, n.º 1, Lei 52/2014)\n- Condições: sem autorização prévia, o reembolso pressupõe avaliação prévia por médico de medicina geral e familiar do SNS (art. 8.º, n.º 4, Lei 52/2014); a autorização prévia pode ser recusada se o tratamento puder ser prestado em Portugal num prazo útil fundamentado do ponto de vista clínico (art. 14.º, n.º 3, al. d), Lei 52/2014)\n- Procedimento: autorização prévia para cirurgia com internamento de pelo menos uma noite ou com equipamentos altamente onerosos (art. 11.º Lei 52/2014), pedida no portal do utente junto da unidade hospitalar da área de residência e decidida pela ACSS em 15 dias úteis após a avaliação clínica (arts. 12.º e 14.º Lei 52/2014); nos restantes casos, reembolso posterior pedido à ACSS (art. 9.º Lei 52/2014)\n- Alternativa: autorização ao abrigo do art. 20.º do Regulamento (CE) 883/2004 (documento S2), que deve ser concedida quando o tratamento consta das prestações do SNS e não pode ser prestado em Portugal num prazo clinicamente justificável; o doente recebe os cuidados como se estivesse seguro no Estado de tratamento, a cargo do SNS [■ VERIFICAR: entidade competente em Portugal para emitir o S2]",
+        "motivo": "A transposição é da Lei 52/2014, que define as condições de reembolso e de autorização prévia (decidida pela ACSS; as ARS foram extintas); a via do Regulamento 883/2004 é distinta e, em regra, mais favorável.",
+        "fonte": "https://diariodarepublica.pt/dr/detalhe/lei/52-2014-56346572"
+      },
+      {
+        "de": "- Requerimento de uso compassivo / AUE ao INFARMED\n- Carta à ARS exigindo alternativa dentro dos TMRG\n- Petição de ação administrativa urgente ao TAC",
+        "para": "- Requerimento ao hospital (direção clínica / serviços farmacêuticos) para que peça ao INFARMED a AUE (art. 92.º DL 176/2006)\n- Carta ao hospital ou à ULS exigindo alternativa dentro dos TMRG, com reclamação para a ERS (art. 28.º Lei 15/2014); as ARS foram extintas pelo DL 54/2024, com efeitos a 1 de outubro de 2024\n- Requerimento de intimação para proteção de direitos, liberdades e garantias (art. 109.º CPTA) ou de providência cautelar (art. 112.º CPTA) no tribunal administrativo de círculo competente",
+        "motivo": "As ARS foram extintas pelo DL 54/2024; a AUE é pedida pelo hospital; os meios urgentes do CPTA são a intimação e a providência cautelar.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3858&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- Medicamento fora da LNFCM: [DCI, indicação, evidência disponível]",
+        "para": "- Medicamento fora do FNM ou sem comercialização em Portugal: [DCI, indicação, evidência disponível]",
+        "motivo": "A «LNFCM» não existe; o critério relevante para a AUE é a falta de autorização ou de comercialização em Portugal.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1884A0092&nid=1884&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Peça pretendida: [requerimento AUE / carta ARS / petição TAC / outro]",
+        "para": "- Peça pretendida: [requerimento ao hospital para AUE / carta ao hospital ou ULS / intimação ou providência cautelar no tribunal administrativo / outro]",
+        "motivo": "Alinhar com as ARS extintas (DL 54/2024) e com os meios urgentes do CPTA.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3858&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Confirmar a redação em vigor da Lei 52/2014 (lida na versão publicada em 2014) e a portaria que define os cuidados sujeitos a autorização prévia (art. 11.º, n.º 3).",
+      "Confirmar o regime do Formulário Nacional de Medicamentos e das comissões de farmácia e terapêutica no DL 118/2026 (novo SiNATS), que não foi lido.",
+      "Confirmar o regulamento do INFARMED sobre os pedidos de AUE (art. 92.º, n.º 3, DL 176/2006) e os programas de acesso precoce.",
+      "A admissibilidade da intimação do art. 109.º CPTA para o acesso a cuidados de saúde depende de estar em causa um direito, liberdade ou garantia (vida, integridade física): confirmar jurisprudência recente.",
+      "Os TACs mantêm-se na lei (art. 9.º ETAF), funcionando muitas vezes agregados como TAF: identificar o tribunal territorialmente competente."
+    ],
+    "fontes": [
+      "https://diariodarepublica.pt/dr/detalhe/lei/52-2014-56346572",
+      "https://www.omd.pt/content/uploads/2017/12/lei-52-2014.pdf",
+      "https://publications.europa.eu/resource/celex/32004R0883",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2292&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3197&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1884A0092&nid=1884&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=439A0109&nid=439&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=418A0009&nid=418&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3858&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2663&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://files.dre.pt/1s/2017/05/08600/0220402209.pdf",
+      "https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-2026-1133485780"
+    ]
+  },
+  {
+    "codigo": "SAU-052",
+    "veredicto": "corrigida",
+    "resumo": "A ficha remetia para a OTM, revogada pela Lei 141/2015 (RGPTC), e para uma «Lei Tutelar de Menores» inexistente; os procedimentos urgentes estão nos arts. 91.º e 92.º da LPCJP e o desacordo entre pais no art. 1901.º, n.º 2, CC e no art. 44.º RGPTC. O interesse superior está no art. 4.º, al. a), LPCJP (não no art. 7.º); a restrição do consentimento do maior de 16 anos a atos «sem internamento prolongado ou risco de vida» não está na lei (art. 38.º, n.º 3, CP); a urgência sem consentimento é a do art. 156.º, n.º 2, CP, não a do art. 38.º, n.º 3. Corrigiram-se as remissões da Lei 15/2014 (arts. 7.º, 11.º, 12.º, n.º 5, e 19.º).",
+    "descricao": "Orienta os pais, representante legal ou advogado na defesa dos direitos da criança doente, incluindo o consentimento informado por representantes, o conflito entre recusa dos pais e interesse superior da criança, o acesso do menor a informação adequada à sua maturidade, e os direitos do menor internado (Lei n.º 15/2014, Lei de Proteção de Crianças e Jovens em Perigo, Regime Geral do Processo Tutelar Cível e CDOM). Aborda os casos de recusa de tratamento por parte dos pais.",
+    "descricao_en": "Guides parents, legal representatives or lawyers in defending the rights of the sick child, including informed consent by representatives, conflict between parental refusal and the best interests of the child, the minor's access to information appropriate to their maturity, and the rights of the hospitalised minor (Law No. 15/2014, the Law on the Protection of Children and Young People at Risk, the General Regime of Civil Guardianship Proceedings and the CDOM). It addresses cases of refusal of treatment by the parents.",
+    "substituicoes": [
+      {
+        "de": "(art. 3.º CDC + art. 7.º Lei 147/99)",
+        "para": "(art. 3.º CDC + art. 4.º, al. a), Lei 147/99)",
+        "motivo": "O princípio do interesse superior da criança está no art. 4.º, al. a), da LPCJP; o art. 7.º trata da intervenção das entidades com competência em matéria de infância e juventude.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=545&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- Menor com 16 anos ou mais: pode consentir autonomamente em atos médicos que não impliquem internamento prolongado ou risco de vida (art. 38.º CP; art. 6.º Lei 15/2014)\n- Conflito entre pais: ambos os progenitores têm responsabilidades parentais — se em desacordo, ato urgente segue o que mais protege a criança; ato não urgente pode requerer suprimento judicial",
+        "para": "- Menor com mais de 16 anos: o seu consentimento é eficaz se tiver o discernimento necessário para avaliar o sentido e o alcance do ato no momento em que o presta (art. 38.º, n.º 3, CP); a lei não limita esta regra a atos sem internamento prolongado ou risco de vida. A Lei 15/2014 remete para lei própria as condições em que os representantes legais exercem os direitos dos menores, incluindo a recusa de assistência (art. 11.º Lei 15/2014) [■ VERIFICAR: regras especiais para o ato em causa]\n- Conflito entre pais: nas questões de particular importância as responsabilidades parentais exercem-se de comum acordo e, na falta dele, qualquer dos pais pode recorrer ao tribunal (art. 1901.º, n.º 2, CC; art. 44.º RGPTC); com pais separados, em caso de urgência manifesta qualquer deles pode agir sozinho, informando o outro logo que possível (art. 1906.º, n.º 1, CC)",
+        "motivo": "O art. 38.º, n.º 3, CP exige mais de 16 anos e discernimento, sem a restrição indicada; o art. 6.º da Lei 15/2014 trata do sigilo (os menores estão no art. 11.º); o desacordo entre pais resolve-se pelos arts. 1901.º, n.º 2, CC e 44.º RGPTC.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=109A0038&nid=109&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Recusa que coloca em risco a vida ou saúde grave do menor: hospital pode e deve atuar sem consentimento dos pais (situação de urgência — art. 38.º, n.º 3, CP) + comunicação imediata ao Ministério Público\n- MP pode requerer providência tutelar urgente (Lei 147/99)",
+        "para": "- Recusa que coloca em perigo atual ou iminente a vida ou a integridade física ou psíquica do menor: o hospital, como entidade com competência em matéria de infância e juventude, toma as medidas adequadas à proteção imediata da criança, solicita a intervenção do tribunal ou das entidades policiais e dá conhecimento imediato ao Ministério Público (art. 91.º, n.os 1 e 2, LPCJP). A intervenção médica sem consentimento só não é punível nos casos do art. 156.º, n.º 2, CP [■ VERIFICAR: aplicação perante recusa expressa dos pais, dado o segmento final do n.º 2]\n- O MP requer de imediato o procedimento judicial urgente e o tribunal profere decisão provisória em 48 horas (arts. 91.º, n.º 4, e 92.º LPCJP); fora da urgência, o tribunal pode decretar as providências adequadas quando a saúde do menor esteja em perigo (art. 1918.º CC)",
+        "motivo": "O art. 38.º, n.º 3, CP trata da idade do consentimento, não da urgência; a atuação sem consentimento dos pais em perigo para a vida segue os arts. 91.º e 92.º LPCJP, e a não punibilidade da intervenção médica o art. 156.º, n.º 2, CP.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=545&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- Direito a acompanhante permanente (art. 12.º Lei 15/2014, adaptado a menores)\n- Direito a informação adequada à sua maturidade (art. 3.º, n.º 2, Lei 15/2014)",
+        "para": "- Direito ao acompanhamento permanente e gratuito do pai e da mãe ou de quem os substitua, até aos 18 anos; o menor com mais de 16 anos pode designar o acompanhante ou prescindir dele (arts. 12.º, n.º 5, e 19.º Lei 15/2014)\n- Direito a informação adequada à sua maturidade (art. 7.º Lei 15/2014, que exige informação acessível e inteligível) [■ VERIFICAR: norma específica sobre a informação ao menor]",
+        "motivo": "O acompanhamento da criança internada tem regra própria nos arts. 12.º, n.º 5, e 19.º da Lei 15/2014; o art. 3.º, n.º 2, trata da revogação do consentimento, e a informação está no art. 7.º.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2292&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- Proibição de contenção de menores salvo urgência documentada",
+        "para": "- Proibição de contenção de menores salvo urgência documentada [■ VERIFICAR: fonte normativa ou orientação da DGS aplicável]",
+        "motivo": "Regra afirmada sem fonte; não foi possível confirmar uma norma legal com este conteúdo."
+      },
+      {
+        "de": "- Requerimento de providência tutelar urgente (arts. 91.º e ss. OTM / RGPTC)",
+        "para": "- Comunicação ao MP para procedimento judicial urgente de promoção e proteção (arts. 91.º e 92.º LPCJP) ou, havendo desacordo entre os pais, requerimento ao tribunal (art. 44.º RGPTC); a OTM foi revogada pela Lei 141/2015, que aprovou o RGPTC",
+        "motivo": "A OTM (DL 314/78) foi revogada pelo art. 6.º, al. a), da Lei 141/2015; os arts. 91.º e 92.º que regulam os procedimentos urgentes são da LPCJP.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2428&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- [ ] Contacto com o MP (se risco de vida) — linha de urgência do Ministério Público",
+        "para": "- [ ] Contacto com o MP (se risco de vida) — serviço de turno do Ministério Público [■ VERIFICAR: contacto do turno na comarca]",
+        "motivo": "Não se confirmou a existência de uma «linha de urgência do Ministério Público»."
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Confirmar o enquadramento da atuação médica perante recusa expressa dos pais: o art. 156.º, n.º 2, CP exclui a não punibilidade quando se possa concluir com segurança que o consentimento seria recusado; ponderar o art. 91.º LPCJP e a jurisprudência.",
+      "Verificar se o hospital atua como entidade com competência em matéria de infância e juventude (art. 5.º, al. d), LPCJP) e o papel do respetivo núcleo hospitalar de apoio a crianças e jovens em risco.",
+      "Confirmar a capacidade do menor para atos médicos específicos (interrupção da gravidez, ensaios clínicos, dádiva) e a Convenção de Oviedo (art. 6.º).",
+      "Confirmar se o art. 1906.º, n.º 1, CC (urgência manifesta) se aplica aos pais separados ou não casados no caso concreto (arts. 1911.º e 1912.º CC)."
+    ],
+    "fontes": [
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=545&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2428&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1901&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1906&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1918&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=109A0038&nid=109&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=109A0156&nid=109&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2292&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+    ]
+  },
+  {
+    "codigo": "SAU-053",
+    "veredicto": "corrigida",
+    "resumo": "A «Portaria 1/2015» não é a portaria dos TMRG: vigora a Portaria 153/2017, que aprova também a Carta dos Direitos de Acesso. O reembolso de cirurgia feita no privado «com base no DL 44/2017» não tem apoio (o DL 44/2017 só alterou a Lei 15/2014); o custo só pode ser pedido como dano. A culpa do serviço não se presume no art. 10.º da Lei 67/2007: rege o funcionamento anormal (art. 7.º, n.os 3 e 4). As ARS foram extintas pelo DL 54/2024, pelo que os requerimentos passam a dirigir-se ao hospital ou à ULS.",
+    "substituicoes": [
+      {
+        "de": "— Cita os artigos reais da Lei 67/2007, da Portaria 1/2015 e do DL 44/2017.",
+        "para": "— Cita os artigos reais da Lei 67/2007 (regime anexo), da Lei 15/2014 (arts. 25.º a 28.º) e da Portaria 153/2017 (TMRG e Carta dos Direitos de Acesso).",
+        "motivo": "Os TMRG e a Carta dos Direitos de Acesso constam da Portaria 153/2017, ao abrigo dos arts. 25.º a 27.º da Lei 15/2014; o DL 44/2017 limitou-se a alterar a Lei 15/2014.",
+        "fonte": "https://files.dre.pt/1s/2017/05/08600/0220402209.pdf"
+      },
+      {
+        "de": "— O doente tem direito legal a receber proposta de estabelecimento alternativo quando o TMRG é ultrapassado (Portaria 1/2015).",
+        "para": "— O doente tem direito a ser informado quando a instituição não tenha capacidade para responder dentro do TMRG e a serviço alternativo de qualidade comparável, por referenciação para outra entidade do SNS ou do setor convencionado (Portaria 153/2017, anexo III, ponto II, 3)).",
+        "motivo": "O direito a alternativa consta da Carta dos Direitos de Acesso, anexo III da Portaria 153/2017.",
+        "fonte": "https://files.dre.pt/1s/2017/05/08600/0220402209.pdf"
+      },
+      {
+        "de": "- Portaria 1/2015 e portarias de TMRG: valores por patologia/grupo de intervenção [■ VERIFICAR valores atuais no portal SNS]\n- Como verificar o tempo de espera real: portal SIGLIC do SNS — extrato do utente",
+        "para": "- Portaria 153/2017 (TMRG): na versão de 2017, 180 dias após a indicação para cirurgia, com prazos mais curtos por nível de prioridade e na doença oncológica e cardíaca (anexo I, ponto 5) [■ VERIFICAR: valores atuais e alterações posteriores no portal SNS]\n- Como verificar o tempo de espera real: inscrição na Lista de Inscritos para Cuidados de Saúde Hospitalares, gerida no SIGA SNS, que integra o SIGIC (arts. 4.º, n.º 1, al. c), e 9.º, n.os 2 e 3, da Portaria 147/2017) — pedir ao hospital o comprovativo da inscrição e da data da indicação cirúrgica",
+        "motivo": "A portaria dos TMRG em vigor é a Portaria 153/2017; a gestão da lista de inscritos para cirurgia faz-se no SIGA SNS (Portaria 147/2017).",
+        "fonte": "https://files.dre.pt/1s/2017/05/08600/0220402209.pdf"
+      },
+      {
+        "de": "- Após ultrapassagem do TMRG: o SNS deve propor estabelecimento do setor convencionado ou privado com os mesmos direitos\n- Se o SNS não propõe: o doente pode requerer a transferência (requerimento à ARS)\n- Cirurgia realizada privado antes de proposta do SNS: possibilidade de reembolso (DL 44/2017 — análogo à saúde transfronteiriça)",
+        "para": "- Quando o hospital de origem não consegue responder dentro do TMRG: o utente tem direito a ser informado e a serviço alternativo de qualidade comparável, por referenciação para outra entidade do SNS ou do setor convencionado (Portaria 153/2017, anexo III, ponto II, 3)); no SIGIC, a transferência faz-se por nota de transferência ou vale cirurgia, emitidos nos termos dos regulamentos do SIGA SNS (Portaria 147/2017) [■ VERIFICAR: regulamento em vigor e percentagem do TMRG que desencadeia a emissão]\n- Se a alternativa não é proposta: requerimento ao hospital ou à ULS responsável e reclamação para a ERS (art. 28.º Lei 15/2014); as ARS foram extintas pelo DL 54/2024, com efeitos a 1 de outubro de 2024\n- Cirurgia feita no privado por iniciativa do doente, sem nota de transferência ou vale cirurgia: não se identifica base legal para reembolso (o DL 44/2017 apenas alterou a Lei 15/2014 e não regula reembolsos, e a Lei 52/2014 só respeita a cuidados transfronteiriços); o custo só pode ser pedido como dano na ação de responsabilidade civil (Lei 67/2007), provando ilicitude, culpa e nexo causal [■ VERIFICAR: jurisprudência dos tribunais administrativos]",
+        "motivo": "A alternativa decorre da Carta dos Direitos de Acesso e do SIGA SNS; as ARS foram extintas; o DL 44/2017 não prevê qualquer reembolso, pelo que o custo do privado só pode ser pedido a título de indemnização.",
+        "fonte": "https://files.dre.pt/1s/2017/05/08600/0220402209.pdf"
+      },
+      {
+        "de": "- Culpa: presunção de culpa do serviço (art. 10.º Lei 67/2007)",
+        "para": "- Culpa: no funcionamento anormal do serviço não é preciso identificar o agente; basta provar que, atendendo às circunstâncias e a padrões médios de resultado, era razoavelmente exigível ao serviço uma atuação que evitasse o dano (art. 7.º, n.os 3 e 4, e art. 9.º, n.º 2, do regime anexo à Lei 67/2007). A presunção de culpa leve (art. 10.º, n.os 2 e 3, do regime anexo à Lei 67/2007) só abrange atos jurídicos ilícitos e o incumprimento de deveres de vigilância",
+        "motivo": "O art. 10.º só presume culpa leve na prática de atos jurídicos ilícitos e no incumprimento de deveres de vigilância; a «culpa do serviço» é o funcionamento anormal do art. 7.º, n.os 3 e 4.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2073&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- Requerimento à ARS de proposta de estabelecimento alternativo imediato\n- OU petição inicial de responsabilidade civil no TAC",
+        "para": "- Requerimento ao hospital ou à ULS responsável de proposta de estabelecimento alternativo imediato (as ARS foram extintas pelo DL 54/2024)\n- OU petição inicial de ação administrativa de responsabilidade civil no tribunal administrativo de círculo competente, contra a ULS ou o hospital E.P.E. responsável [■ VERIFICAR: legitimidade passiva]; prescrição nos termos do art. 498.º CC, por remissão do art. 5.º do regime anexo à Lei 67/2007",
+        "motivo": "As ARS foram extintas pelo DL 54/2024 e as suas atribuições repartidas (art. 2.º); a prescrição segue o art. 498.º CC por remissão do art. 5.º do regime da Lei 67/2007.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3858&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- [ ] Comunicações com o hospital / ARS sobre a espera",
+        "para": "- [ ] Comunicações com o hospital / ULS sobre a espera",
+        "motivo": "As ARS foram extintas pelo DL 54/2024.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3858&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- ARS responsável: [nome]\n- Peça pretendida: [requerimento ARS / petição TAC]",
+        "para": "- ULS responsável: [nome]\n- Peça pretendida: [requerimento ao hospital ou ULS / petição no tribunal administrativo]",
+        "motivo": "As ARS foram extintas pelo DL 54/2024.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3858&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Confirmar a redação atual da Portaria 153/2017 (há notícia de alteração em 2026, não lida) e os TMRG aplicáveis ao grupo de intervenção.",
+      "Confirmar o regulamento do SIGIC/SIGA SNS em vigor sobre notas de transferência e vales cirurgia, e qual a entidade que hoje os emite (as competências das URGA das ARS transitaram, em regra, para a ACSS — art. 2.º, n.º 3, DL 54/2024).",
+      "Confirmar a legitimidade passiva (ULS, E.P.E., criada pelo DL 102/2023, ou hospital E.P.E.) e o tribunal administrativo territorialmente competente.",
+      "O nexo causal entre a demora e o agravamento exige prova pericial médica; confirmar jurisprudência dos tribunais administrativos sobre listas de espera."
+    ],
+    "fontes": [
+      "https://files.dre.pt/1s/2017/05/08600/0220402209.pdf",
+      "https://diariodarepublica.pt/dr/detalhe/portaria/153-2017-106970981",
+      "https://ers.pt/uploads/writer_file/document/2041/Portaria_147_2017_SIGA.pdf",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2292&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2663&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3858&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2073&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://diariodarepublica.pt/dr/detalhe/lei/52-2014-56346572",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=418A0009&nid=418&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+    ]
+  }
+]

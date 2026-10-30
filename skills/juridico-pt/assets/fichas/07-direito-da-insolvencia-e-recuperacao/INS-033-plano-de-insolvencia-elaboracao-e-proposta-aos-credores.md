@@ -3,20 +3,22 @@ codigo: INS-033
 area: "Direito da Insolvência e Recuperação"
 titulo: "Plano de Insolvência — Elaboração e Proposta aos Credores"
 titulo_en: "Insolvency Plan — Preparation and Proposal to Creditors"
-descricao: "Elabora o plano de insolvência a submeter à assembleia de credores, ao abrigo dos artigos 195.º a 234.º do CIRE, estruturando as medidas de recuperação ou liquidação ordenada, os mecanismos de votação por classes, os critérios de igualdade de tratamento e o pedido de homologação judicial."
-descricao_en: "Prepares the insolvency plan to be submitted to the creditors' meeting, under Articles 195 to 234 of the CIRE, structuring the recovery or orderly liquidation measures, voting by class, the equal treatment criteria and the application for court approval."
+descricao: "Elabora o plano de insolvência a submeter à assembleia de credores, ao abrigo dos artigos 192.º a 234.º do CIRE, estruturando as medidas de recuperação ou liquidação ordenada, a votação e as maiorias exigidas, os critérios de igualdade de tratamento e o pedido de homologação judicial."
+descricao_en: "Prepares the insolvency plan to be submitted to the creditors' meeting, under Articles 192 to 234 of the CIRE, structuring the recovery or orderly liquidation measures, the vote and the required majorities, the equal treatment criteria and the application for court approval."
 ambito: nacional
-estado_citacoes: "conferidas 6 · corrigidas 1 · por conferir 2"
+estado_citacoes: "conferidas 19 · corrigidas 0 · por conferir 4"
+revisao_tecnica: "2026-10-28 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
 # Plano de Insolvência — Elaboração e Proposta aos Credores
 
 > **Âmbito:** nacional · **Área:** Direito da Insolvência e Recuperação · **Código:** INS-033
-> **EN:** Insolvency Plan — Preparation and Proposal to Creditors. Prepares the insolvency plan to be submitted to the creditors' meeting, under Articles 195 to 234 of the CIRE, structuring the recovery or orderly liquidation measures, voting by class, the equal treatment criteria and the application for court approval.
-> **Citações:** conferidas 6 · corrigidas 1 · por conferir 2. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **EN:** Insolvency Plan — Preparation and Proposal to Creditors. Prepares the insolvency plan to be submitted to the creditors' meeting, under Articles 192 to 234 of the CIRE, structuring the recovery or orderly liquidation measures, the vote and the required majorities, the equal treatment criteria and the application for court approval.
+> **Citações:** conferidas 19 · corrigidas 0 · por conferir 4. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-28 — corrigida (5 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
-Elabora o plano de insolvência a submeter à assembleia de credores, ao abrigo dos artigos 195.º a 234.º do CIRE, estruturando as medidas de recuperação ou liquidação ordenada, os mecanismos de votação por classes, os critérios de igualdade de tratamento e o pedido de homologação judicial.
+Elabora o plano de insolvência a submeter à assembleia de credores, ao abrigo dos artigos 192.º a 234.º do CIRE, estruturando as medidas de recuperação ou liquidação ordenada, a votação e as maiorias exigidas, os critérios de igualdade de tratamento e o pedido de homologação judicial.
 
 ## Método
 
@@ -34,25 +36,26 @@ Apresenta dentro de um bloco <analise_da_viabilidade>:
 - Natureza do plano (recuperação vs. liquidação ordenada)
 - Composição e estrutura dos créditos por categoria
 - Viabilidade económica da empresa (indicadores-chave)
-- Posição previsível de cada classe de credores
-- Risco de veto e mecanismos de imposição forçada (cramdown)
+- Posição previsível dos credores com direito de voto (os créditos não modificados pelo plano não votam — art. 212.º, n.º 2, CIRE)
+- Risco de rejeição na votação e de pedidos de não homologação (art. 216.º CIRE [■ VERIFICAR: o art. 216.º CIRE trata da recusa a pedido dos interessados; confirmar a norma sobre homologação forçada]); o plano de insolvência não tem votação por categorias nem imposição entre categorias (cross-class cram-down), que só existe no PER (art. 17.º-F, n.º 5, CIRE)
 - Medidas operacionais previstas (reestruturação, cessão de ativos, injeção de capital)
 
 ### ETAPA 2 — ANÁLISE JURÍDICA
 Apresenta dentro de um bloco <fundamentos_juridicos>:
 - Conteúdo obrigatório do plano (art. 195.º, n.º 2, CIRE)
-- Classificação de credores em classes (art. 212.º CIRE [■ VERIFICAR: o art. 212.º CIRE trata do quórum de aprovação; confirmar a norma sobre classes de credores])
-- Regras de votação: maioria de ²/³ dos votos emitidos (art. 212.º, n.º 1, CIRE)
-- Princípio da igualdade de tratamento de credores na mesma classe (art. 194.º CIRE)
-- Mecanismo de homologação forçada / cramdown (art. 216.º CIRE [■ VERIFICAR: o art. 216.º CIRE trata da recusa a pedido dos interessados; confirmar a norma sobre homologação forçada])
-- Causa de recusa de homologação (art. 215.º e 216.º CIRE): violação de normas imperativas, tratamento desigual
+- Legitimidade para apresentar a proposta: administrador da insolvência, devedor, responsável legal pelas dívidas ou credores com pelo menos um quinto dos créditos não subordinados (art. 193.º, n.º 1, CIRE)
+- Sem classes de voto: votam em conjunto os credores com direito de voto; não votam os créditos não modificados pelo plano nem, nos casos da lei, certos subordinados (art. 212.º, n.º 2, CIRE)
+- Regras de votação (art. 212.º, n.º 1, CIRE): presentes ou representados credores com pelo menos um terço dos créditos com direito de voto; mais de 50 % dos votos emitidos e, nestes, mais de metade dos votos correspondentes a créditos não subordinados; as abstenções não contam
+- Princípio da igualdade dos credores da insolvência, com diferenciações justificadas por razões objetivas; o tratamento mais desfavorável depende do consentimento do credor afetado, que se considera prestado com o voto favorável (art. 194.º CIRE)
+- Não há homologação forçada entre classes: aprovado nos termos do art. 212.º e homologado, o plano vincula todos os credores, incluindo os que votaram contra (art. 217.º, n.º 1, CIRE); o devedor ou o credor que se tenha oposto pode pedir a não homologação se demonstrar que fica previsivelmente em pior situação do que sem plano ou que o plano dá a algum credor mais do que o valor nominal do seu crédito (art. 216.º, n.º 1, CIRE)
+- Causa de recusa de homologação (art. 215.º e 216.º CIRE): violação não negligenciável de regras procedimentais ou das normas aplicáveis ao conteúdo do plano, ou falta de verificação das condições suspensivas (art. 215.º); pedido dos interessados nos termos do art. 216.º
 - Efeitos do plano homologado sobre todos os credores (art. 217.º CIRE)
-- Requisitos do relatório de viabilidade económica (art. 195.º, n.º 2, al. c), CIRE)
+- Meios de satisfação dos credores — liquidação da massa, recuperação do titular da empresa ou transmissão da empresa (art. 195.º, n.º 2, al. c), CIRE); havendo continuidade da empresa, plano de investimentos, conta de exploração previsional, demonstração previsional de fluxos de caixa e balanço pró-forma (al. d)); impacte por comparação com a ausência de plano (al. f))
 
 ### ETAPA 3 — ESTRUTURA DO PLANO
 Define em <estrutura_do_plano>:
 - Secções obrigatórias do documento
-- Classes de credores propostas e critérios de classificação
+- Grupos de credores para efeitos de tratamento (garantidos, privilegiados, comuns, subordinados) e razões objetivas de qualquer diferenciação (art. 194.º CIRE) — não são classes de voto
 - Medidas de reestruturação previstas
 - Mecanismo de supervisão do cumprimento
 
@@ -83,8 +86,8 @@ Define em <estrutura_do_plano>:
 **CAPÍTULO IV — GARANTIAS DE CUMPRIMENTO**
 [Mecanismos de monitorização e consequências do incumprimento]
 
-**CAPÍTULO V — RELATÓRIO DE VIABILIDADE ECONÓMICA**
-[Análise de fluxos de caixa, indicadores de sustentabilidade, cenário alternativo de liquidação]
+**CAPÍTULO V — ELEMENTOS ECONÓMICO-FINANCEIROS (art. 195.º, n.º 2, als. d) e f), CIRE)**
+[Plano de investimentos, conta de exploração previsional, demonstração previsional de fluxos de caixa e balanço pró-forma, se houver continuidade da empresa; impacte das medidas por comparação com a situação sem plano (cenário de liquidação)]
 
 **CAPÍTULO VI — DISPOSIÇÕES GERAIS**
 [Administração durante o plano, alteração, incumprimento]
@@ -92,10 +95,9 @@ Define em <estrutura_do_plano>:
 ### ETAPA 5 — CHECKLIST DE VALIDAÇÃO
 Apresenta dentro de um bloco <checklist_validacao>:
 - [ ] Conteúdo obrigatório do art. 195.º, n.º 2, CIRE incluído
-- [ ] Classes de credores definidas com critério objetivo
-- [ ] Princípio de igualdade dentro de cada classe respeitado
-- [ ] Relatório de viabilidade económica elaborado
-- [ ] Mecanismo de cramdown analisado (se previsível veto de classe)
+- [ ] Diferenciações entre credores justificadas por razões objetivas, ou consentidas pelos credores afetados (art. 194.º CIRE)
+- [ ] Elementos económico-financeiros do art. 195.º, n.º 2, als. d) e f), CIRE incluídos (se houver continuidade da empresa)
+- [ ] Maiorias do art. 212.º, n.º 1, CIRE simuladas e risco de pedidos de não homologação (art. 216.º, n.º 1, CIRE) analisado
 - [ ] Efeitos sobre créditos não participantes no processo verificados
 - [ ] [■ VERIFICAR] itens sinalizados
 
@@ -119,12 +121,26 @@ Apresenta dentro de um bloco <checklist_validacao>:
 
 | Citação | Estado | Nota |
 |---|---|---|
-| art. 195.º, n.º 2, CIRE | conferida (epígrafe) — Conteúdo do plano |  |
-| art. 195.º, n.º 2, CIRE | conferida (epígrafe) — Conteúdo do plano |  |
-| art. 212.º CIRE | por conferir [■ VERIFICAR] | o art. 212.º CIRE trata do quórum de aprovação; confirmar a norma sobre classes de credores |
-| art. 212.º, n.º 1, CIRE | conferida (epígrafe) — Quórum |  |
-| art. 194.º CIRE | corrigida — Princípio da igualdade | o número citado no catálogo não correspondia à epígrafe |
+| art. 212.º, n.º 2, CIRE | conferida (epígrafe) — Quórum |  |
+| art. 212.º, n.º 2, CIRE | conferida (epígrafe) — Quórum |  |
+| art. 212.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 216.º CIRE | por conferir [■ VERIFICAR] | o art. 216.º CIRE trata da recusa a pedido dos interessados; confirmar a norma sobre homologação forçada |
+| art. 216.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 17.º-F, n.º 5, CIRE | conferida (índice) |  |
+| art. 195.º, n.º 2, CIRE | conferida (epígrafe) — Conteúdo do plano |  |
+| art. 195.º, n.º 2, CIRE | conferida (epígrafe) — Conteúdo do plano |  |
+| art. 193.º, n.º 1, CIRE | conferida (epígrafe) — Legitimidade |  |
+| art. 212.º, n.º 1, CIRE | conferida (epígrafe) — Quórum |  |
+| art. 212.º, n.º 1, CIRE | conferida (epígrafe) — Quórum |  |
+| art. 194.º CIRE | conferida (epígrafe) — Princípio da igualdade |  |
+| art. 194.º CIRE | conferida (epígrafe) — Princípio da igualdade |  |
+| art. 194.º CIRE | conferida (epígrafe) — Princípio da igualdade |  |
+| art. 217.º, n.º 1, CIRE | conferida (epígrafe) — Efeitos gerais |  |
+| art. 216.º, n.º 1, CIRE | conferida (epígrafe) — Não homologação a solicitação dos interessados |  |
+| art. 216.º, n.º 1, CIRE | conferida (epígrafe) — Não homologação a solicitação dos interessados |  |
+| art. 215.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 215.º e 216.º CIRE | conferida (epígrafe) — Não homologação oficiosa |  |
 | art. 217.º CIRE | conferida (epígrafe) — Efeitos gerais |  |
 | art. 195.º, n.º 2, al. c), CIRE | conferida (epígrafe) — Conteúdo do plano |  |
+| art. 195.º, n.º 2, als. d) e f), CIRE | conferida (epígrafe) — Conteúdo do plano |  |
+| art. 195.º, n.º 2, als. d) e f), CIRE | conferida (epígrafe) — Conteúdo do plano |  |

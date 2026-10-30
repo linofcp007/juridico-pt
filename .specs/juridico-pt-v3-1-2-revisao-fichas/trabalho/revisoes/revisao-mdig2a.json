@@ -1,0 +1,308 @@
+[
+  {
+    "codigo": "DIG-030",
+    "veredicto": "corrigida",
+    "resumo": "A ficha apresentava o registo de atividades de tratamento como obrigatório só a partir de 250 trabalhadores e meramente recomendado abaixo disso; o art. 30.º, n.º 5, RGPD afasta a isenção sempre que o tratamento não seja ocasional, implique risco ou abranja categorias especiais, pelo que a generalidade das PME está obrigada. Corrigiram-se ainda a remissão do prazo de conservação (al. e) do art. 5.º, n.º 1, é a limitação da conservação, não a minimização), o recorte dos casos de designação obrigatória de EPD (art. 37.º) e o critério de notificação de violações (art. 33.º), com referência à comunicação aos titulares (art. 34.º).",
+    "substituicoes": [
+      {
+        "de": "- Registo de atividades de tratamento: obrigatório para empresas com 250+ trabalhadores; recomendado (e obrigatório se tratamentos de risco) para todas — art. 30.º, n.º 5 RGPD",
+        "para": "- Registo de atividades de tratamento: obrigatório para empresas com 250 ou mais trabalhadores e, abaixo desse limiar, sempre que o tratamento seja suscetível de implicar risco para os titulares, não seja ocasional ou abranja categorias especiais de dados ou dados relativos a condenações penais — art. 30.º, n.º 5 RGPD. Como o tratamento dos dados dos trabalhadores (processamento salarial) e dos clientes não é ocasional, a generalidade das PME está obrigada ao registo [■ VERIFICAR: estado da proposta de simplificação «Omnibus IV», que eleva o limiar para 750 trabalhadores — enquanto não for adotada e publicada, vale o texto atual]",
+        "motivo": "O art. 30.º, n.º 5, RGPD só isenta as organizações com menos de 250 trabalhadores se o tratamento for ocasional, sem risco e sem categorias especiais; o tratamento de dados de trabalhadores e clientes não é ocasional.",
+        "fonte": "https://publications.europa.eu/resource/celex/32016R0679"
+      },
+      {
+        "de": "- DPO/EPD: obrigatório apenas em casos específicos (autoridade pública, tratamento em grande escala de categorias especiais, monitorização sistemática) — art. 37.º RGPD",
+        "para": "- DPO/EPD: obrigatório apenas em casos específicos (autoridade ou organismo público; atividades principais que consistam no controlo regular e sistemático de titulares em grande escala ou no tratamento em grande escala de categorias especiais ou de dados relativos a condenações penais) — art. 37.º RGPD",
+        "motivo": "O art. 37.º, n.º 1, als. b) e c), RGPD exige que se trate das atividades principais e de controlo regular e sistemático em grande escala, não de qualquer monitorização sistemática.",
+        "fonte": "https://publications.europa.eu/resource/celex/32016R0679"
+      },
+      {
+        "de": "- Notificação de violações: art. 33.º RGPD — 72h à CNPD se risco para titulares",
+        "para": "- Notificação de violações: art. 33.º RGPD — à CNPD sem demora injustificada e, sempre que possível, até 72h após o conhecimento, salvo se a violação não for suscetível de resultar num risco para os titulares; comunicação aos titulares quando o risco for elevado (art. 34.º RGPD)",
+        "motivo": "O art. 33.º, n.º 1, RGPD impõe a notificação salvo se a violação não for suscetível de resultar em risco (o ónus está na exclusão do risco); a comunicação aos titulares consta do art. 34.º.",
+        "fonte": "https://publications.europa.eu/resource/celex/32016R0679"
+      },
+      {
+        "de": "| 2.1 | Tem Registo de Atividades de Tratamento (RAT) atualizado, mesmo que não obrigatório (art. 30.º RGPD) |",
+        "para": "| 2.1 | Tem Registo de Atividades de Tratamento (RAT) atualizado — obrigatório para a generalidade das PME, por o tratamento de dados de trabalhadores e clientes não ser ocasional (art. 30.º, n.º 5 RGPD) |",
+        "motivo": "Coerência com o art. 30.º, n.º 5, RGPD: o registo é, em regra, obrigatório também para as PME.",
+        "fonte": "https://publications.europa.eu/resource/celex/32016R0679"
+      },
+      {
+        "de": "(minimização — art. 5.º, n.º 1, al. e) RGPD)",
+        "para": "(limitação da conservação — art. 5.º, n.º 1, al. e) RGPD)",
+        "motivo": "A al. e) do art. 5.º, n.º 1, RGPD consagra a limitação da conservação; a minimização dos dados é a al. c).",
+        "fonte": "https://publications.europa.eu/resource/celex/32016R0679"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Confirmar se a proposta «Omnibus IV» de alteração do art. 30.º, n.º 5, RGPD (limiar de 750 trabalhadores, isenção salvo risco elevado) foi entretanto adotada e publicada no Jornal Oficial; à data da revisão só se encontrou como proposta em negociação.",
+      "Confirmar a lista vigente da CNPD de tratamentos sujeitos a AIPD (art. 35.º, n.º 4, RGPD).",
+      "Videovigilância (item 8.2): confirmar no caso concreto os requisitos do art. 19.º da Lei n.º 58/2019 e dos arts. 20.º e 21.º do Código do Trabalho."
+    ],
+    "fontes": [
+      "https://publications.europa.eu/resource/celex/32016R0679",
+      "https://www.arthurcox.com/knowledge/proposed-changes-to-the-gdpr-under-omnibus-iv/"
+    ]
+  },
+  {
+    "codigo": "DIG-031",
+    "veredicto": "corrigida",
+    "resumo": "A ficha atribuía à Lei n.º 58/2019 conteúdos que não constam dos artigos citados: os arts. 26.º e 27.º regulam o acesso a documentos administrativos e a contratação pública, e o art. 28.º não proíbe a biometria laboral — admite-a só para controlo de assiduidade e de acessos, com representações não reversíveis (n.º 6). Substituíram-se as remissões pelos arts. 28.º, 29.º (dados de saúde e genéticos) e 31.º (investigação científica e estatística), completou-se a definição de dados biométricos (identificação única), precisou-se a proibição do art. 5.º do AI Act (que não abrange todo o reconhecimento facial em espaços públicos) e afinou-se o critério da AIPD obrigatória.",
+    "substituicoes": [
+      {
+        "de": "- Art. 26.º: dados de saúde tratados por profissionais de saúde sujeitos a sigilo\n- Art. 27.º: tratamento para investigação científica — requisitos adicionais\n- Art. 28.º: dados biométricos — proibição de uso para controlo de trabalhadores salvo exceções específicas",
+        "para": "- Art. 29.º: dados de saúde e dados genéticos — acesso segundo o princípio da necessidade de conhecer; nos casos das als. h) e i) do art. 9.º, n.º 2 RGPD, tratamento por profissional obrigado a sigilo ou por pessoa sujeita a dever de confidencialidade; dever de sigilo de quem acede; notificação ao titular de qualquer acesso aos seus dados (n.º 6)\n- Art. 31.º: fins arquivísticos de interesse público, de investigação científica ou histórica ou estatísticos — minimização, anonimização ou pseudonimização sempre que os fins o permitam, limitação dos direitos dos titulares na medida do necessário e consentimento para investigação que pode abranger diversas áreas (n.º 4)\n- Art. 28.º: relações laborais — o consentimento do trabalhador não é requisito de legitimidade quando o tratamento lhe traga vantagem jurídica ou económica ou seja necessário à execução do contrato (n.º 3); os dados biométricos dos trabalhadores só podem ser tratados para controlo de assiduidade e de acessos às instalações do empregador (n.º 6)",
+        "motivo": "Na Lei n.º 58/2019 o art. 26.º trata do acesso a documentos administrativos e o art. 27.º da contratação pública; os dados de saúde e genéticos estão no art. 29.º, a investigação científica no art. 31.º e a biometria laboral no art. 28.º, n.º 6, que a admite em termos limitados.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3118&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- Controlo de acesso biométrico de trabalhadores: Lei n.º 58/2019, art. 28.º — só permitido se não for possível usar meios menos intrusivos [■ VERIFICAR: fundamento concreto]\n- Proibição de videovigilância para reconhecimento facial em espaços públicos: AI Act, art. 5.º (prática proibida)",
+        "para": "- Controlo biométrico de trabalhadores: art. 28.º, n.º 6, da Lei n.º 58/2019 — só é legítimo para controlo de assiduidade e de acessos às instalações do empregador, usando apenas representações dos dados biométricos, recolhidas por processo que não permita a reversibilidade; e art. 18.º CT — dados necessários, adequados e proporcionais, conservados só enquanto necessários e destruídos na transferência do trabalhador para outro local de trabalho ou na cessação do contrato\n- Reconhecimento facial e AI Act (art. 5.º): são proibidas a identificação biométrica à distância em «tempo real» em espaços acessíveis ao público para efeitos de aplicação da lei, salvo exceções taxativas (n.º 1, al. h)), a criação de bases de dados de reconhecimento facial por recolha aleatória de imagens da Internet ou de televisão em circuito fechado (al. e)), o reconhecimento de emoções no local de trabalho e no ensino (al. f)) e a categorização biométrica para inferir dados sensíveis (al. g)); fora destes casos, a identificação biométrica à distância é sistema de risco elevado (Anexo III, ponto 1, AI Act) e fica sujeita ao RGPD",
+        "motivo": "O art. 28.º, n.º 6, da Lei n.º 58/2019 delimita as finalidades admitidas (assiduidade e acessos) e exige representações não reversíveis; o art. 5.º do AI Act não proíbe genericamente o reconhecimento facial em espaços públicos, só as práticas que enumera.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=3118A0028&nid=3118&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- AIPD obrigatória (art. 35.º RGPD + lista CNPD para dados de saúde)",
+        "para": "- AIPD obrigatória no tratamento em grande escala de categorias especiais (art. 35.º, n.º 3, al. b), RGPD) e nos tratamentos da lista da CNPD (art. 35.º, n.º 4, RGPD) [■ VERIFICAR: lista vigente da CNPD]",
+        "motivo": "A AIPD não é obrigatória em todo o tratamento de categorias especiais: o art. 35.º, n.º 3, al. b), RGPD exige grande escala, a par dos casos de risco elevado e da lista da autoridade de controlo.",
+        "fonte": "https://publications.europa.eu/resource/celex/32016R0679"
+      },
+      {
+        "de": "- Dados biométricos (art. 4.º, n.º 14): \"dados pessoais resultantes de um tratamento técnico específico relativo às características físicas, fisiológicas ou comportamentais de uma pessoa singular\"",
+        "para": "- Dados biométricos (art. 4.º, n.º 14): \"dados pessoais resultantes de um tratamento técnico específico relativo às características físicas, fisiológicas ou comportamentais de uma pessoa singular que permitam ou confirmem a identificação única dessa pessoa singular, nomeadamente imagens faciais ou dados dactiloscópicos\"",
+        "motivo": "A definição estava truncada no elemento decisivo: só são dados biométricos os que permitem ou confirmam a identificação única (art. 4.º, n.º 14, RGPD).",
+        "fonte": "https://publications.europa.eu/resource/celex/32016R0679"
+      },
+      {
+        "de": "- Lei n.º 58/2019, arts. 26.º a 28.º (habilitações nacionais)",
+        "para": "- Lei n.º 58/2019, arts. 28.º (relações laborais), 29.º (dados de saúde e dados genéticos) e 31.º (investigação científica ou histórica e fins estatísticos)",
+        "motivo": "Os arts. 26.º e 27.º da Lei n.º 58/2019 não respeitam a categorias especiais; as normas relevantes são os arts. 28.º, 29.º e 31.º.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3118&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- [ ] Habilitações nacionais da Lei n.º 58/2019 analisadas (arts. 26.º a 28.º)",
+        "para": "- [ ] Habilitações nacionais da Lei n.º 58/2019 analisadas (arts. 28.º, 29.º e 31.º)",
+        "motivo": "Mesma correção das remissões para a Lei n.º 58/2019.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3118&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- [ ] Para dados biométricos: conformidade com art. 28.º Lei 58/2019 analisada",
+        "para": "- [ ] Para dados biométricos de trabalhadores: conformidade com o art. 28.º, n.º 6, Lei 58/2019 e com o art. 18.º CT analisada",
+        "motivo": "A regra laboral está no n.º 6 do art. 28.º da Lei n.º 58/2019, complementada pelo art. 18.º do Código do Trabalho.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0018&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Confirmar se já foi publicada a portaria dos requisitos técnicos mínimos de segurança prevista no art. 29.º, n.º 7, da Lei n.º 58/2019.",
+      "Confirmar a legislação setorial de saúde aplicável ao caso (p. ex., o regime da informação genética pessoal e da informação de saúde).",
+      "O art. 18.º, n.os 1 e 4, CT ainda refere a notificação prévia à CNPD e o parecer da comissão de trabalhadores; confirmar o seu alcance depois do RGPD, que eliminou a notificação prévia.",
+      "Confirmar a lista vigente da CNPD de tratamentos sujeitos a AIPD."
+    ],
+    "fontes": [
+      "https://publications.europa.eu/resource/celex/32016R0679",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3118&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=3118A0028&nid=3118&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=3118A0029&nid=3118&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0018&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://publications.europa.eu/resource/celex/32024R1689"
+    ]
+  },
+  {
+    "codigo": "DIG-039",
+    "veredicto": "corrigida",
+    "resumo": "A ficha seguia em vários pontos a proposta de 2021 e não o texto final do Regulamento (UE) 2024/1689: limitava a classificação social a entidades públicas, assentava os deveres do deployer nos «arts. 26.º e 29.º» (o art. 29.º trata da notificação de organismos de avaliação), omitia a avaliação de impacto sobre os direitos fundamentais (art. 27.º) e a conservação dos registos pelo deployer durante seis meses (art. 26.º, n.º 6), metia os modelos GPAI na transparência do art. 50.º e ligava a explicabilidade ao art. 22.º, n.º 3, RGPD. Reescreveram-se as listas de práticas proibidas, de alto risco e de transparência, a etapa dos deveres do deployer e a conjugação com o RGPD, e acrescentou-se o calendário na redação do Reg. (UE) 2026/1744 (Omnibus Digital).",
+    "descricao": "Analisa a conformidade de um sistema de inteligência artificial com o Regulamento UE 2024/1689 (AI Act), determinando a categoria de risco aplicável, os deveres específicos do deployer (utilizador do sistema AI) ao abrigo dos artigos 26.º e 27.º do AI Act, e as obrigações adicionais decorrentes da conjugação com o RGPD, especialmente para sistemas de alto risco que tratam dados pessoais.",
+    "descricao_en": "Analyses the compliance of an artificial intelligence system with Regulation (EU) 2024/1689 (AI Act), determining the applicable risk category, the specific duties of the deployer (user of the AI system) under Articles 26 and 27 of the AI Act, and the additional obligations arising from its interplay with the GDPR, especially for high-risk systems that process personal data.",
+    "substituicoes": [
+      {
+        "de": "— Não afirmes que um sistema é de \"risco mínimo\" sem análise dos critérios do Anexo III do AI Act.",
+        "para": "— Não afirmes que um sistema é de \"risco mínimo\" sem análise das regras de classificação do art. 6.º e dos Anexos I e III do AI Act.",
+        "motivo": "O risco elevado resulta também do Anexo I (produtos regulados), nos termos do art. 6.º, n.º 1, e não só do Anexo III.",
+        "fonte": "https://publications.europa.eu/resource/celex/32024R1689"
+      },
+      {
+        "de": "**PROIBIDO (art. 5.º AI Act):**\n- Sistemas de pontuação social por entidades públicas\n- Manipulação subliminar ou exploração de vulnerabilidades\n- Identificação biométrica remota em tempo real em espaços públicos (com exceções)\n- Inferência de emoções no trabalho ou educação\n- Categorização biométrica com dados sensíveis (orientação sexual, convicções políticas)",
+        "para": "**PROIBIDO (art. 5.º AI Act, aplicável desde 2/2/2025):**\n- Classificação social (*social scoring*) de pessoas singulares que conduza a tratamento prejudicial ou desfavorável, por entidades públicas ou privadas (n.º 1, al. c))\n- Técnicas subliminares, manipuladoras ou enganadoras e exploração de vulnerabilidades (als. a) e b))\n- Avaliação do risco de uma pessoa cometer uma infração penal baseada exclusivamente na definição de perfis (al. d))\n- Criação ou expansão de bases de dados de reconhecimento facial por recolha aleatória de imagens faciais da Internet ou de televisão em circuito fechado (al. e))\n- Inferência de emoções no local de trabalho e nas instituições de ensino, salvo por razões médicas ou de segurança (al. f))\n- Categorização biométrica para deduzir raça, opiniões políticas, filiação sindical, convicções religiosas ou filosóficas, vida sexual ou orientação sexual (al. g))\n- Identificação biométrica à distância em «tempo real» em espaços acessíveis ao público para efeitos de aplicação da lei, salvo as exceções taxativas da al. h)\n- A partir de 2/12/2026: geração ou manipulação não consentida de imagens íntimas realistas de pessoa identificável e de material de abuso sexual de crianças (als. b-A) e b-B), aditadas pelo Reg. (UE) 2026/1744)",
+        "motivo": "No texto final, a proibição da classificação social abrange operadores públicos e privados; faltavam as proibições das als. d) e e) e as novas als. b-A) e b-B) aditadas pelo Omnibus Digital, aplicáveis desde 2/12/2026.",
+        "fonte": "https://publications.europa.eu/resource/celex/32026R1744"
+      },
+      {
+        "de": "**ALTO RISCO (Anexo III AI Act):**\n- Infraestruturas críticas\n- Educação e formação profissional (acesso, avaliação)\n- Emprego: recrutamento, triagem, avaliação de desempenho, promoção, despedimento\n- Serviços essenciais privados e públicos: scoring de crédito, seguro, benefícios sociais\n- Aplicação da lei (identificação, avaliação de risco)\n- Migração e asilo\n- Administração da justiça",
+        "para": "**ALTO RISCO (art. 6.º e Anexos I e III AI Act):**\n- Componentes de segurança de produtos, ou produtos, abrangidos pela legislação de harmonização do Anexo I e sujeitos a avaliação da conformidade por terceiros (art. 6.º, n.º 1)\n- Biometria: identificação biométrica à distância (não a mera verificação de identidade), categorização biométrica por atributos sensíveis ou protegidos e reconhecimento de emoções, quando permitidos (Anexo III, ponto 1)\n- Infraestruturas críticas\n- Educação e formação profissional (acesso, avaliação)\n- Emprego: recrutamento, triagem, avaliação de desempenho, promoção, despedimento\n- Serviços essenciais privados e públicos: avaliação de crédito, avaliação de risco e fixação de preços em seguros de vida e de saúde, elegibilidade para prestações públicas, triagem de chamadas de emergência\n- Aplicação da lei (identificação, avaliação de risco)\n- Migração, asilo e controlo das fronteiras\n- Administração da justiça e processos democráticos\n- Um sistema do Anexo III não é de risco elevado se não representar risco significativo (art. 6.º, n.º 3), mas é-o sempre que faça a definição de perfis de pessoas singulares",
+        "motivo": "Faltavam a via do Anexo I (art. 6.º, n.º 1), o domínio da biometria (Anexo III, ponto 1) e a exceção do art. 6.º, n.º 3; os seguros abrangidos são só os de vida e de saúde (Anexo III, ponto 5, al. c)).",
+        "fonte": "https://publications.europa.eu/resource/celex/32024R1689"
+      },
+      {
+        "de": "**RISCO ESPECÍFICO DE TRANSPARÊNCIA (art. 50.º AI Act):**\n- Chatbots (obrigação de revelar natureza artificial)\n- Geração de deep fakes (obrigação de marcação)\n- Sistemas GPAI com risco sistémico (Secção 5 AI Act)",
+        "para": "**RISCO ESPECÍFICO DE TRANSPARÊNCIA (art. 50.º AI Act, aplicável desde 2/8/2026):**\n- Chatbots e outros sistemas que interagem diretamente com pessoas (o provider assegura que estas sabem que interagem com IA — n.º 1)\n- Conteúdos sintéticos: marcação legível por máquina pelo provider (n.º 2; para sistemas colocados no mercado antes de 2/8/2026, até 2/12/2026 — art. 111.º, n.º 4, aditado pelo Reg. (UE) 2026/1744) e divulgação das falsificações profundas (*deep fakes*) pelo deployer (n.º 4)\n- Reconhecimento de emoções e categorização biométrica (o deployer informa as pessoas expostas — n.º 3)\n\n**MODELOS DE IA DE FINALIDADE GERAL (GPAI):** não são uma categoria de risco do sistema, mas um regime próprio do fornecedor do modelo (Capítulo V, arts. 51.º a 56.º AI Act, aplicável desde 2/8/2025), com obrigações reforçadas para os modelos com risco sistémico",
+        "motivo": "Os modelos GPAI têm regime próprio no Capítulo V (arts. 51.º a 56.º), distinto da transparência do art. 50.º, e não existe «Secção 5» que os regule; o art. 50.º distribui deveres entre provider e deployer e tem o regime transitório do art. 111.º, n.º 4.",
+        "fonte": "https://publications.europa.eu/resource/celex/32026R1744"
+      },
+      {
+        "de": "### ETAPA 3 — DEVERES DO DEPLOYER (arts. 26.º e 29.º AI Act)\nPara sistemas de ALTO RISCO, avalia conformidade com:\n1. Medidas técnicas e organizacionais para utilização conforme as instruções do provider (art. 26.º, n.º 1)\n2. Supervisão humana efetiva (art. 26.º, n.º 2) — responsável identificado, capacitado e com poderes para suspender\n3. Monitorização do sistema em operação (art. 26.º, n.º 5) — deteção de anomalias e incidentes\n4. Notificação de incidentes sérios ao provider e à autoridade nacional (art. 73.º AI Act)\n5. Registo de logs pelo período adequado (art. 12.º AI Act — obrigação do provider que o deployer deve exigir)\n6. Realização de DPIA (art. 26.º, n.º 9 AI Act — para sistemas de alto risco que tratam dados pessoais)\n7. Informação aos trabalhadores afetados (art. 26.º, n.º 7 AI Act — obrigação específica no contexto laboral)",
+        "para": "### ETAPA 3 — DEVERES DO DEPLOYER (arts. 26.º e 27.º AI Act)\nPara sistemas de ALTO RISCO (aplicáveis a partir de 2/12/2027 aos sistemas do Anexo III e de 2/8/2028 aos do Anexo I — art. 113.º, na redação do Reg. (UE) 2026/1744), avalia conformidade com:\n1. Medidas técnicas e organizativas para utilização conforme as instruções do provider (art. 26.º, n.º 1)\n2. Supervisão humana efetiva (art. 26.º, n.º 2) — pessoas singulares com as competências, a formação e a autoridade necessárias, e com poderes para suspender\n3. Dados de entrada sob controlo do deployer pertinentes e suficientemente representativos (art. 26.º, n.º 4)\n4. Monitorização do sistema em operação (art. 26.º, n.º 5) — informar o provider e, se o sistema apresentar risco, suspender a utilização e informar a autoridade de fiscalização do mercado\n5. Incidentes graves: informar imediatamente o provider e, em seguida, o importador ou distribuidor e as autoridades de fiscalização do mercado (art. 26.º, n.º 5, e art. 73.º AI Act)\n6. Conservação dos registos (logs) gerados automaticamente que estejam sob o seu controlo durante pelo menos seis meses (art. 26.º, n.º 6 AI Act); a capacidade de registo é requisito do sistema, a cargo do provider (art. 12.º AI Act)\n7. AIPD: usar as informações do provider (art. 13.º) para cumprir a obrigação de AIPD do art. 35.º RGPD, se for o caso (art. 26.º, n.º 9 AI Act) — o AI Act não cria uma AIPD autónoma\n8. Informação prévia aos representantes dos trabalhadores e aos trabalhadores afetados, antes da colocação em serviço no local de trabalho (art. 26.º, n.º 7 AI Act)\n9. Informação às pessoas singulares sujeitas a decisões tomadas ou apoiadas por sistemas do Anexo III (art. 26.º, n.º 11 AI Act)\n10. Avaliação de impacto sobre os direitos fundamentais (art. 27.º AI Act) — para organismos de direito público, entidades privadas que prestam serviços públicos e deployers de sistemas de avaliação de crédito e de seguros de vida e de saúde (Anexo III, ponto 5, als. b) e c)); pode remeter para a AIPD já feita (art. 27.º, n.º 4, na redação do Reg. (UE) 2026/1744)\n\nPara qualquer sistema de IA: medidas para promover a literacia no domínio da IA do pessoal que o opera (art. 4.º AI Act, na redação do Reg. (UE) 2026/1744)",
+        "motivo": "No texto final o art. 29.º regula o pedido de notificação dos organismos de avaliação da conformidade; os deveres do deployer estão nos arts. 26.º e 27.º, incluindo a conservação dos registos por seis meses (n.º 6), a informação às pessoas afetadas (n.º 11) e a avaliação de impacto sobre os direitos fundamentais (art. 27.º); o art. 26.º, n.º 9, remete para a AIPD do RGPD.",
+        "fonte": "https://publications.europa.eu/resource/celex/32024R1689"
+      },
+      {
+        "de": "- DPIA obrigatória tanto pelo art. 35.º RGPD como pelo art. 26.º, n.º 9 AI Act → realizar DPIA integrada",
+        "para": "- DPIA exigida pelo art. 35.º RGPD (tratamento suscetível de implicar risco elevado), instruída com as informações do provider (art. 26.º, n.º 9 AI Act) e, quando também seja devida a avaliação de impacto sobre os direitos fundamentais, articulada com esta (art. 27.º, n.º 4 AI Act) → realizar avaliação integrada",
+        "motivo": "O art. 26.º, n.º 9, do AI Act não cria uma obrigação autónoma de AIPD: manda usar as informações do art. 13.º para cumprir a do art. 35.º RGPD.",
+        "fonte": "https://publications.europa.eu/resource/celex/32024R1689"
+      },
+      {
+        "de": "- Explicabilidade (art. 22.º, n.º 3 RGPD) vs. transparência (art. 13.º AI Act) → mecanismo único de explicação",
+        "para": "- Explicabilidade: informações úteis sobre a lógica subjacente (arts. 13.º, n.º 2, al. f), 14.º, n.º 2, al. g), e 15.º, n.º 1, al. h), RGPD), direito de obter intervenção humana, manifestar o ponto de vista e contestar a decisão (art. 22.º, n.º 3 RGPD) e direito a explicações sobre decisões individuais (art. 86.º AI Act) vs. transparência perante o deployer (art. 13.º AI Act) → mecanismo único de explicação",
+        "motivo": "O art. 22.º, n.º 3, RGPD garante intervenção humana e contestação; a informação sobre a lógica subjacente vem dos arts. 13.º a 15.º RGPD e o direito a explicações do art. 86.º do AI Act.",
+        "fonte": "https://publications.europa.eu/resource/celex/32024R1689"
+      },
+      {
+        "de": "- Declaração CE de conformidade + documentação técnica acessível (art. 11.º AI Act)",
+        "para": "- Declaração UE de conformidade (art. 47.º AI Act) + documentação técnica acessível (art. 11.º AI Act)",
+        "motivo": "A declaração UE de conformidade está regulada no art. 47.º; o art. 11.º respeita à documentação técnica.",
+        "fonte": "https://publications.europa.eu/resource/celex/32024R1689"
+      },
+      {
+        "de": "- Prazos de aplicação do AI Act para o tipo de sistema",
+        "para": "- Prazos de aplicação do AI Act para o tipo de sistema (art. 113.º, na redação do Reg. (UE) 2026/1744: práticas proibidas desde 2/2/2025, e as novas als. b-A) e b-B) do art. 5.º, n.º 1, desde 2/12/2026; GPAI desde 2/8/2025; transparência do art. 50.º desde 2/8/2026; alto risco do Anexo III a partir de 2/12/2027 e do Anexo I a partir de 2/8/2028)",
+        "motivo": "O Reg. (UE) 2026/1744, em vigor desde 27/7/2026, alterou o calendário do art. 113.º do AI Act.",
+        "fonte": "https://publications.europa.eu/resource/celex/32026R1744"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Confirmar a designação, em Portugal, da autoridade de fiscalização do mercado prevista no art. 70.º do AI Act (à data, sem diploma publicado conhecido).",
+      "Verificar se o deployer passa a ser tratado como provider (art. 25.º AI Act: marca própria, modificação substancial ou alteração da finalidade prevista).",
+      "Confirmar as orientações e atos delegados da Comissão sobre a classificação de risco (art. 6.º) e os modelos do Serviço para a IA para a avaliação de impacto sobre os direitos fundamentais (art. 27.º, n.º 5)."
+    ],
+    "fontes": [
+      "https://publications.europa.eu/resource/celex/32024R1689",
+      "https://publications.europa.eu/resource/celex/32026R1744",
+      "https://publications.europa.eu/resource/celex/32016R0679"
+    ]
+  },
+  {
+    "codigo": "DIG-041",
+    "veredicto": "corrigida",
+    "resumo": "A ficha (e o índice) remetiam para o DL n.º 65/2021, revogado pelo DL n.º 125/2025, que transpôs a NIS2 e aprovou o Regime Jurídico da Cibersegurança (RJC), em vigor desde 3/4/2026; o regime de notificação de incidentes descrito era o da diretiva, não o português (notificação inicial em 24 horas, fim do impacto em 24 horas, relatório final em 30 dias úteis). Corrigiram-se ainda os limiares de dimensão (o «ou» da ficha alargava indevidamente as entidades essenciais), a afirmação de que a computação em nuvem é essencial qualquer que seja a dimensão e a atribuição à entidade do dever do art. 12.º NIS2, que é dos Estados-Membros e das CSIRT; acrescentaram-se as remissões para o RJC (âmbito, medidas, governação, autoidentificação na plataforma do CNCS).",
+    "descricao": "Avalia as obrigações de cibersegurança e gestão de risco de uma organização ao abrigo da Diretiva UE 2022/2555 (NIS2) e do Regime Jurídico da Cibersegurança aprovado pelo Decreto-Lei n.º 125/2025, que a transpôs, com identificação da categoria da entidade (essencial ou importante), das medidas de gestão de risco obrigatórias (art. 27.º do regime; art. 21.º NIS2), das obrigações de notificação de incidentes à autoridade competente (CNCS em Portugal), e das responsabilidades dos órgãos de gestão (art. 25.º do regime; art. 20.º NIS2).",
+    "descricao_en": "Assesses an organisation's cybersecurity and risk management obligations under Directive (EU) 2022/2555 (NIS2) and the Legal Framework for Cybersecurity approved by Decree-Law No. 125/2025, which transposed it, identifying the entity's category (essential or important), the mandatory risk management measures (Art. 27 of the framework; Art. 21 NIS2), the obligations to report incidents to the competent authority (the National Cybersecurity Centre, CNCS, in Portugal), and the responsibilities of management bodies (Art. 25 of the framework; Art. 20 NIS2).",
+    "substituicoes": [
+      {
+        "de": "— Sinaliza [■ VERIFICAR] quando a transposição portuguesa for relevante e a norma exata não estiver confirmada.",
+        "para": "— A NIS2 foi transposta pelo Decreto-Lei n.º 125/2025, de 4 de dezembro, que aprova o Regime Jurídico da Cibersegurança (RJC), em vigor desde 3/4/2026, e revogou a Lei n.º 46/2018 e o Decreto-Lei n.º 65/2021: aplica-se o RJC e a regulamentação do CNCS; a diretiva serve de referência interpretativa.\n— Sinaliza [■ VERIFICAR] quando a transposição portuguesa for relevante e a norma exata não estiver confirmada.",
+        "motivo": "O DL n.º 125/2025 transpôs a NIS2, entrou em vigor 120 dias após a publicação (art. 11.º) e revogou a Lei n.º 46/2018 e o DL n.º 65/2021.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3985&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "Verifica se a organização está abrangida pela NIS2 (arts. 2.º e 3.º NIS2):",
+        "para": "Verifica se a organização está abrangida (arts. 3.º, 4.º e 6.º do RJC; arts. 2.º e 3.º NIS2):",
+        "motivo": "O âmbito e a qualificação das entidades resultam, em Portugal, dos arts. 3.º, 4.º e 6.º do RJC.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3985&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- Entidade ESSENCIAL: setor Anexo I + grande empresa (>250 trabalhadores ou >€50M faturação ou >€43M balanço)\n- Entidade IMPORTANTE: setor Anexo I/II + média empresa (>50 trabalhadores ou >€10M faturação/balanço)\n- Exceções: algumas entidades são essenciais independentemente da dimensão (ex: prestadores de serviços DNS, TLD, cloud)",
+        "para": "- Âmbito: entidades dos tipos dos Anexos I ou II que sejam pelo menos médias empresas, segundo a Recomendação 2003/361/CE (anexo III do RJC) — média empresa: 50 ou mais trabalhadores, ou volume de negócios e balanço ambos acima de €10M; grande empresa: 250 ou mais trabalhadores, ou volume de negócios acima de €50M e balanço acima de €43M (art. 3.º, n.º 1, RJC)\n- Entidade ESSENCIAL: tipo do Anexo I que exceda os limiares de média empresa, isto é, grande empresa (art. 6.º, n.º 1, al. a), RJC)\n- Entidade IMPORTANTE: as restantes entidades abrangidas — tipo do Anexo II (média ou grande empresa) ou tipo do Anexo I que seja média empresa (art. 6.º, n.º 2, RJC)\n- Exceções à dimensão: são essenciais, qualquer que seja a dimensão, os prestadores qualificados de serviços de confiança, os registos de TLD e os prestadores de serviços de DNS (art. 6.º, n.º 1, al. b), RJC) e as entidades críticas (al. e)); as comunicações eletrónicas são abrangidas qualquer que seja a dimensão (art. 3.º, n.º 2, RJC) e são essenciais se forem médias empresas (art. 6.º, n.º 1, al. c)); a computação em nuvem e os centros de dados seguem os limiares gerais\n- Administração Pública: regime próprio (art. 3.º, n.º 3, art. 6.º, n.º 1, al. d), e art. 7.º RJC — entidades públicas relevantes dos Grupos A e B)",
+        "motivo": "Pela Recomendação 2003/361/CE (anexo III do RJC) os critérios financeiros são cumulativos entre si e alternativos ao número de trabalhadores; a exceção à dimensão do art. 6.º, n.º 1, al. b), RJC (art. 3.º, n.º 1, al. b), NIS2) não abrange a computação em nuvem.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3985&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "### ETAPA 2 — MEDIDAS DE GESTÃO DE RISCO (art. 21.º NIS2)\nAvalia conformidade (IMPLEMENTADO / PARCIAL / AUSENTE) para cada medida:",
+        "para": "### ETAPA 2 — MEDIDAS DE GESTÃO DE RISCO (art. 27.º RJC; art. 21.º NIS2)\nAvalia conformidade (IMPLEMENTADO / PARCIAL / AUSENTE) para cada medida (as medidas do art. 27.º, n.os 1 e 2, e os arts. 28.º a 30.º do RJC só produzem efeitos 24 meses após a publicação da regulamentação do CNCS — art. 10.º, n.º 2, do DL n.º 125/2025 [■ VERIFICAR: data de publicação dessa regulamentação]):",
+        "motivo": "As medidas estão no art. 27.º do RJC e a sua eficácia foi diferida pelo art. 10.º, n.º 2, do DL n.º 125/2025.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3985&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "### ETAPA 3 — RESPONSABILIDADE DOS ÓRGÃOS DE GESTÃO (art. 20.º NIS2)\nApresenta dentro de um bloco <responsabilidade_gestao>:\n- Obrigação de aprovação das medidas de gestão de risco pelos órgãos de gestão\n- Obrigação de formação específica em cibersegurança para membros dos órgãos de gestão\n- Responsabilidade pessoal dos gestores por incumprimento (art. 32.º e 33.º NIS2 + transposição PT)\n- Registo e supervisão por parte do CNCS",
+        "para": "### ETAPA 3 — RESPONSABILIDADE DOS ÓRGÃOS DE GESTÃO (art. 25.º RJC; art. 20.º NIS2)\nApresenta dentro de um bloco <responsabilidade_gestao>:\n- Aprovação e supervisão das medidas de gestão dos riscos pelos órgãos de gestão, direção e administração (art. 25.º, n.º 1, als. a) e b), RJC)\n- Realização regular de ações de formação em cibersegurança (art. 25.º, n.º 1, al. d), RJC; art. 20.º, n.º 2, NIS2)\n- Responsabilidade dos titulares dos órgãos de gestão, por ação ou omissão, com dolo ou culpa grave, pelas infrações previstas no RJC (art. 25.º, n.º 2, RJC; art. 20.º, n.º 1, e art. 32.º, n.º 6, NIS2); responsabilidade indelegável, salvo num dos titulares desses órgãos (art. 25.º, n.º 3, RJC)\n- Designação do responsável de cibersegurança e do ponto de contacto permanente (arts. 31.º e 32.º RJC) [■ VERIFICAR: prazos de comunicação na regulamentação do CNCS]\n- Supervisão pelo CNCS: medidas próprias para as entidades essenciais e supervisão ex post para as importantes (arts. 54.º e 55.º RJC)",
+        "motivo": "A responsabilidade dos gestores consta do art. 25.º do RJC (dolo ou culpa grave); os arts. 32.º e 33.º NIS2 regulam a supervisão, e a responsabilidade pessoal na diretiva está no art. 20.º, n.º 1, e no art. 32.º, n.º 6.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3985&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "### ETAPA 4 — NOTIFICAÇÃO DE INCIDENTES (art. 23.º NIS2)\nDescreve o regime de notificação:\n- **Alerta precoce:** 24 horas após conhecimento de incidente significativo → ao CNCS\n- **Notificação de incidente:** 72 horas → avaliação inicial, indicadores de compromisso\n- **Relatório final:** 1 mês → análise completa, causa raiz, medidas adotadas\n\nCritérios de \"incidente significativo\":\n- Impacto operacional grave (interrupção dos serviços)\n- Impacto financeiro significativo\n- Afeta outros setores ou entidades\n- Causa ou pode causar danos graves a pessoas",
+        "para": "### ETAPA 4 — NOTIFICAÇÃO DE INCIDENTES (arts. 40.º a 44.º RJC; art. 23.º NIS2)\nDescreve o regime português de notificação à autoridade de cibersegurança competente (CNCS ou autoridade setorial), submetida na plataforma eletrónica do CNCS (art. 40.º, n.º 6, RJC):\n- **Notificação inicial:** sem demora injustificada e até 24 horas depois de a entidade concluir que existe, ou pode vir a existir, um incidente significativo (art. 42.º, n.º 1, RJC)\n- **Atualização da notificação inicial:** quando necessário, até 72 horas após essa verificação, com avaliação inicial da gravidade e do impacto e, se disponíveis, os indicadores de exposição (art. 42.º, n.º 3, RJC)\n- **Notificação do fim do impacto significativo:** até 24 horas após o fim do impacto (art. 43.º RJC); se o incidente for resolvido nas duas horas seguintes à deteção, basta esta notificação (art. 41.º, n.º 2, RJC)\n- **Relatório final:** 30 dias úteis a contar da notificação do fim do impacto; relatório intercalar semanal, a pedido, se o incidente ainda estiver em curso (art. 44.º RJC)\n- Nota: a diretiva prevê alerta precoce em 24 horas, notificação em 72 horas e relatório final em 1 mês (art. 23.º NIS2), mas aplica-se o regime português\n\nParâmetros para aferir o \"incidente significativo\" (art. 40.º, n.os 3 e 4, RJC):\n- Número de utilizadores afetados e número total de utilizadores do serviço perturbado\n- Duração do incidente\n- Gravidade da perturbação do funcionamento do serviço\n- Dimensão do impacto nas atividades económicas e sociais\n- Parâmetros e limiares da instrução técnica do CNCS e dos atos de execução da Comissão (art. 23.º, n.º 11, NIS2) [■ VERIFICAR: instrução técnica vigente]",
+        "motivo": "O RJC fixou prazos e tipos de notificação próprios (arts. 41.º a 44.º), distintos dos da diretiva, e parâmetros nacionais para o incidente significativo (art. 40.º).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3985&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- Gap analysis por medida do art. 21.º NIS2\n- Registo junto do CNCS (obrigação de auto-identificação — [■ VERIFICAR prazo PT])\n- Cadeia de abastecimento: contratos com fornecedores críticos de TIC\n- Política de divulgação responsável de vulnerabilidades (art. 12.º NIS2)",
+        "para": "- Gap analysis por medida do art. 27.º RJC (art. 21.º NIS2)\n- Autoidentificação na plataforma eletrónica do CNCS: 30 dias após o início da atividade ou, para as entidades já em atividade à entrada em vigor do RJC, 60 dias após a disponibilização da plataforma, mantendo a informação atualizada (art. 8.º, n.º 1, RJC) [■ VERIFICAR: data de abertura da plataforma e termo do prazo transitório no sítio do CNCS]\n- Cadeia de abastecimento: contratos com fornecedores críticos de TIC (art. 28.º RJC)\n- Tratamento e divulgação de vulnerabilidades, como parte das medidas de segurança (art. 27.º, n.º 1, al. d), RJC; art. 21.º, n.º 2, al. e), NIS2), articulando com o CERT.PT, coordenador nacional da divulgação coordenada de vulnerabilidades (art. 38.º RJC; o art. 12.º NIS2 é dever dos Estados-Membros e das CSIRT, não da entidade)",
+        "motivo": "O prazo de autoidentificação consta do art. 8.º, n.º 1, do RJC; o art. 12.º NIS2 (e o art. 38.º RJC) atribui a divulgação coordenada à CSIRT coordenadora, cabendo à entidade o tratamento de vulnerabilidades nas suas medidas.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3985&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Confirmar a data de publicação da regulamentação do CNCS de que depende o prazo de 24 meses do art. 10.º, n.º 2, do DL n.º 125/2025, a data de abertura da plataforma de autoidentificação e o termo do prazo transitório de 60 dias do art. 8.º, n.º 1, RJC (dias corridos ou úteis).",
+      "Conferir os anexos I e II do RJC (publicados no original do Diário da República) com os da NIS2, em especial quanto à Administração Pública, que o RJC trata à parte (arts. 3.º, n.º 3, e 7.º).",
+      "No cálculo dos limiares de dimensão, ter em conta a agregação de empresas parceiras e associadas da Recomendação 2003/361/CE.",
+      "Confirmar os prazos de comunicação do responsável de cibersegurança e do ponto de contacto permanente (arts. 31.º e 32.º RJC) e as molduras das coimas (arts. 61.º a 66.º RJC)."
+    ],
+    "fontes": [
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3985&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://publications.europa.eu/resource/celex/32022L2555",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=3985A0008&nid=3985&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+    ]
+  },
+  {
+    "codigo": "DIG-043",
+    "veredicto": "corrigida",
+    "resumo": "A ficha classificava como proibida pelo art. 5.º do AI Act a identificação biométrica à distância a posteriori (é de risco elevado, com autorização do art. 26.º, n.º 10), misturava na lista de alto risco o reconhecimento de emoções no trabalho (proibido) e não distinguia a categorização proibida da de alto risco; a regra inicial estendia a proibição a todo o reconhecimento facial em espaços públicos. Sobre a biometria laboral, deixava por verificar a norma que existe: o art. 28.º, n.º 6, da Lei n.º 58/2019 só a admite para controlo de assiduidade e de acessos, com representações não reversíveis, e o art. 18.º CT impõe proporcionalidade e a destruição dos dados na transferência ou cessação do contrato. Corrigiu-se também o alcance da al. g) do art. 9.º, n.º 2, RGPD, que não se limita a entidades públicas.",
+    "substituicoes": [
+      {
+        "de": "— O reconhecimento facial em tempo real em espaços públicos é proibido pelo AI Act (art. 5.º) com exceções muito estritas.",
+        "para": "— A identificação biométrica à distância em «tempo real» em espaços acessíveis ao público para efeitos de aplicação da lei é proibida pelo AI Act (art. 5.º, n.º 1, al. h)), com exceções muito estritas; fora desse caso, o reconhecimento facial não é proibido em geral, mas fica sujeito ao RGPD e, se for identificação biométrica à distância, ao regime de risco elevado (Anexo III, ponto 1, AI Act).",
+        "motivo": "A proibição do art. 5.º, n.º 1, al. h), do AI Act só abrange a identificação em tempo real em espaços acessíveis ao público para efeitos de aplicação da lei.",
+        "fonte": "https://publications.europa.eu/resource/celex/32024R1689"
+      },
+      {
+        "de": "- **Al. b) — Obrigações de direito do trabalho/segurança social:** exige norma legal específica PT que o preveja — [■ VERIFICAR se existe para biometria laboral]\n- **Al. g) — Interesse público:** aplicável a entidades públicas com base jurídica adequada",
+        "para": "- **Al. b) — Obrigações de direito do trabalho/segurança social:** exige norma de direito da União ou nacional que o preveja; em Portugal, o art. 28.º, n.º 6, da Lei n.º 58/2019 só considera legítimo o tratamento de dados biométricos dos trabalhadores para controlo de assiduidade e de acessos às instalações do empregador, e o art. 18.º, n.º 2, CT exige que os dados sejam necessários, adequados e proporcionais — fica excluída qualquer outra finalidade laboral\n- **Al. g) — Interesse público importante:** exige base no direito da União ou nacional, proporcional e com medidas adequadas de salvaguarda; não se limita a entidades públicas, mas pressupõe essa base legal específica",
+        "motivo": "A norma nacional existe (art. 28.º, n.º 6, da Lei n.º 58/2019, e art. 18.º CT) e delimita as finalidades; a al. g) do art. 9.º, n.º 2, RGPD exige interesse público importante com base legal, não a natureza pública do responsável.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=3118A0028&nid=3118&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- **Art. 28.º Lei 58/2019:** condições adicionais PT para tratamento de dados biométricos [■ VERIFICAR redação vigente]",
+        "para": "- **Art. 28.º, n.º 6, Lei 58/2019:** nas relações laborais, só controlo de assiduidade e de acessos às instalações, usando apenas representações dos dados biométricos (templates) recolhidas por processo que não permita a reversibilidade; o consentimento do trabalhador não é requisito de legitimidade quando o tratamento lhe traga vantagem jurídica ou económica ou seja necessário à execução do contrato (n.º 3)",
+        "motivo": "Redação vigente do art. 28.º da Lei n.º 58/2019 confirmada no PGDL.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=3118A0028&nid=3118&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "  - Risco de missioncreep: utilização para finalidades além da original",
+        "para": "  - Risco de desvio de finalidade («function creep»): utilização para finalidades além da original",
+        "motivo": "Termo corrigido; o conceito é o desvio de finalidade.",
+        "fonte": "https://publications.europa.eu/resource/celex/32016R0679"
+      },
+      {
+        "de": "**PROIBIDO (art. 5.º AI Act):**\n- Identificação biométrica remota em **tempo real** em espaços públicos para fins de aplicação da lei (com exceções muito estritas: terrorismo, desaparecidos, crimes graves — autorização judicial prévia)\n- Categorização biométrica para inferir características sensíveis (raça, orientação sexual, convicções políticas)\n- Identificação biométrica remota a **posteriori** por autoridades de aplicação da lei (exceto autorização judicial + casos específicos)\n\n**ALTO RISCO (Anexo III, ponto 1 AI Act):**\n- Sistemas de identificação biométrica remota em tempo real (quando permitidos — exceções)\n- Sistemas de categorização biométrica\n- Reconhecimento de emoções em locais de trabalho ou educação → PROIBIDO (art. 5.º, n.º 1, al. f))",
+        "para": "**PROIBIDO (art. 5.º AI Act, aplicável desde 2/2/2025):**\n- Identificação biométrica à distância em **tempo real** em espaços acessíveis ao público para efeitos de aplicação da lei (n.º 1, al. h)), salvo exceções taxativas — busca de vítimas de rapto, tráfico ou exploração sexual e de pessoas desaparecidas; ameaça específica e iminente à vida ou de ataque terrorista; localização de suspeitos de crimes do Anexo II puníveis com pena máxima não inferior a 4 anos — e com autorização prévia de autoridade judiciária ou de autoridade administrativa independente cuja decisão seja vinculativa (n.º 3)\n- Categorização biométrica para deduzir raça, opiniões políticas, filiação sindical, convicções religiosas ou filosóficas, vida sexual ou orientação sexual (al. g))\n- Criação ou expansão de bases de dados de reconhecimento facial por recolha aleatória de imagens faciais da Internet ou de televisão em circuito fechado (al. e))\n- Reconhecimento de emoções no local de trabalho e nas instituições de ensino, salvo por razões médicas ou de segurança (al. f))\n\n**ALTO RISCO (Anexo III, ponto 1 AI Act — aplicável a partir de 2/12/2027, na redação do Reg. (UE) 2026/1744):**\n- Sistemas de identificação biométrica à distância, em tempo real (quando permitidos) ou em diferido; a identificação em diferido numa investigação criminal exige autorização prévia, ou no prazo máximo de 48 horas, de autoridade judiciária ou administrativa (art. 26.º, n.º 10)\n- Excluída a verificação biométrica com o único propósito de confirmar que a pessoa é quem alega ser (Anexo III, ponto 1, al. a)): não é de risco elevado por esta via, mas continua sujeita ao RGPD e à Lei n.º 58/2019\n- Sistemas de categorização biométrica segundo atributos sensíveis ou protegidos, fora dos casos proibidos\n- Sistemas de reconhecimento de emoções fora do trabalho e do ensino (aí são proibidos — art. 5.º, n.º 1, al. f))\n- Transparência: o deployer de reconhecimento de emoções ou de categorização biométrica informa as pessoas expostas (art. 50.º, n.º 3)",
+        "motivo": "A identificação a posteriori não é proibida: é de risco elevado e sujeita a autorização (art. 26.º, n.º 10); o reconhecimento de emoções no trabalho é proibido e não de risco elevado; a categorização para inferir dados sensíveis (proibida) distingue-se da de alto risco; o Omnibus Digital fixou a aplicação do Anexo III em 2/12/2027.",
+        "fonte": "https://publications.europa.eu/resource/celex/32024R1689"
+      },
+      {
+        "de": "- **Consulta de trabalhadores/representantes:** recomendada antes de implementar no contexto laboral",
+        "para": "- **Consulta de trabalhadores/representantes:** o art. 18.º, n.º 4, CT liga à notificação à CNPD o parecer da comissão de trabalhadores [■ VERIFICAR: alcance atual, dado que o RGPD eliminou a notificação prévia]; pedir esse parecer é prudente; se o sistema for de IA de risco elevado, a informação prévia aos representantes dos trabalhadores e aos trabalhadores afetados é obrigatória (art. 26.º, n.º 7, AI Act)",
+        "motivo": "O Código do Trabalho prevê o parecer da comissão de trabalhadores (art. 18.º, n.º 4) e o AI Act impõe a informação prévia aos trabalhadores nos sistemas de risco elevado (art. 26.º, n.º 7).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0018&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- **Eliminação:** plano de eliminação segura de templates quando o tratamento cessar ou o titular sair",
+        "para": "- **Eliminação:** plano de eliminação segura de templates quando o tratamento cessar ou o titular sair; no contexto laboral, os dados biométricos são destruídos na transferência do trabalhador para outro local de trabalho ou na cessação do contrato, e a violação deste dever é contraordenação grave (art. 18.º, n.os 3 e 5, CT)",
+        "motivo": "O art. 18.º, n.º 3, CT fixa o momento da destruição dos dados biométricos do trabalhador e o n.º 5 qualifica a infração.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0018&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Confirmar o alcance atual do art. 18.º, n.os 1 e 4, CT (notificação à CNPD e parecer da comissão de trabalhadores) depois do RGPD.",
+      "Confirmar a lista vigente da CNPD de tratamentos sujeitos a AIPD e as orientações da CNPD sobre biometria em contexto laboral.",
+      "Para o AI Act, confirmar no caso concreto se o sistema é de identificação «à distância» ou de mera verificação 1:1, pois disso depende a qualificação como de risco elevado."
+    ],
+    "fontes": [
+      "https://publications.europa.eu/resource/celex/32016R0679",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3118&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=3118A0028&nid=3118&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0018&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://publications.europa.eu/resource/celex/32024R1689",
+      "https://publications.europa.eu/resource/celex/32026R1744"
+    ]
+  }
+]

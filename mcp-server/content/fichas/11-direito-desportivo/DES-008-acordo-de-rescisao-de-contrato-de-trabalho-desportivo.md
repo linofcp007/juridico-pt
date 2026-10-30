@@ -6,8 +6,9 @@ titulo_en: "Agreement Terminating a Sports Employment Contract"
 descricao: "Redige um acordo de rescisão por mútuo consentimento de contrato de trabalho desportivo, nos termos do artigo 23.º da Lei n.º 54/2017 (LCTD) e do artigo 349.º do Código do Trabalho, estruturando a compensação devida, quitação mútua, obrigações remanescentes (direitos de imagem, transferência de documentos) e registo na federação."
 descricao_en: "Drafts an agreement terminating a sports employment contract by mutual consent under Article 23 of Law No. 54/2017 (LCTD) and Article 349 of the Labour Code, structuring the compensation due, mutual discharge, remaining obligations (image rights, transfer of documents) and registration with the federation."
 ambito: nacional
-estado_citacoes: "conferidas 4 · corrigidas 0 · por conferir 4"
+estado_citacoes: "conferidas 8 · corrigidas 0 · por conferir 12"
 remete_para: "assets/modelos/acordo-de-revogacao-do-contrato-de-trabalho"
+revisao_tecnica: "2026-10-28 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
@@ -16,7 +17,8 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 > **Âmbito:** nacional · **Área:** Direito Desportivo · **Código:** DES-008
 > **EN:** Agreement Terminating a Sports Employment Contract. Drafts an agreement terminating a sports employment contract by mutual consent under Article 23 of Law No. 54/2017 (LCTD) and Article 349 of the Labour Code, structuring the compensation due, mutual discharge, remaining obligations (image rights, transfer of documents) and registration with the federation.
 > **Ver também:** `assets/modelos/acordo-de-revogacao-do-contrato-de-trabalho` — contrato de trabalho desportivo. Usa-o primeiro.
-> **Citações:** conferidas 4 · corrigidas 0 · por conferir 4. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 8 · corrigidas 0 · por conferir 12. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-28 — corrigida (9 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
 Redige um acordo de rescisão por mútuo consentimento de contrato de trabalho desportivo, nos termos do artigo 23.º da Lei n.º 54/2017 (LCTD) e do artigo 349.º do Código do Trabalho, estruturando a compensação devida, quitação mútua, obrigações remanescentes (direitos de imagem, transferência de documentos) e registo na federação.
 
@@ -46,11 +48,12 @@ Em <analise_rescisao>:
 
 ### ETAPA 2 — ANÁLISE JURÍDICA
 Em <fundamentos_juridicos>:
-- Art. 23.º LCTD: cessação por acordo — forma escrita, registo, efeitos
-- Art. 349.º Código do Trabalho: rescisão por mútuo acordo — compensação mínima de 20 dias/ano [■ VERIFICAR: LCTD estabelece regime especial?]
-- Art. 350.º CT: quitação — o prazo de 7 dias úteis para retratação aplica-se ao desporto profissional? [■ VERIFICAR]
-- Art. 394.º CT: resolução com justa causa (para distinguir do mútuo acordo e fundamentar estratégia)
-- Lei n.º 54/2017, art. 28.º: indemnização por rescisão — serve de referência para calcular o "mínimo" do acordo
+- Art. 23.º, n.º 1, alínea b), LCTD: a revogação por acordo das partes é uma das formas de cessação do contrato de trabalho desportivo; a LCTD não lhe dá regime próprio, pelo que se aplica o Código do Trabalho, subsidiariamente (art. 3.º, n.º 1, LCTD)
+- Art. 27.º LCTD: a eficácia da cessação depende da comunicação à federação em que o contrato está registado (art. 7.º LCTD), com indicação da forma de extinção; o vínculo desportivo extingue-se com essa comunicação
+- Art. 349.º Código do Trabalho: o acordo de revogação consta de documento assinado por ambas as partes, ficando cada uma com um exemplar, e menciona expressamente a data de celebração, a do início dos efeitos e o prazo legal para o trabalhador o fazer cessar (n.ºs 2 e 3). Não há compensação mínima legal: o montante é livremente acordado; se for fixada uma compensação pecuniária global, presume-se que inclui os créditos vencidos à data da cessação ou exigíveis em virtude dela (n.º 5)
+- Art. 350.º CT: o praticante pode fazer cessar o acordo por comunicação escrita até ao sétimo dia seguinte à data da celebração (dias seguidos), entregando ou pondo à disposição a totalidade das compensações pecuniárias recebidas; não o pode fazer se o acordo estiver datado e as assinaturas tiverem reconhecimento notarial presencial (n.º 4) [■ VERIFICAR: compatibilidade com a especificidade do contrato de trabalho desportivo, art. 3.º, n.º 1, LCTD]
+- Art. 23.º, n.º 1, alínea d), e n.º 3, LCTD (e, subsidiariamente, art. 394.º CT): resolução com justa causa pelo praticante (para distinguir do mútuo acordo e fundamentar estratégia)
+- Lei n.º 54/2017, art. 24.º, n.º 1: no despedimento promovido indevidamente pelo clube ou na resolução com justa causa pelo praticante, a indemnização corresponde às retribuições que seriam devidas até ao termo do contrato — serve de referência negocial, não de mínimo legal do acordo
 
 ### ETAPA 3 — CONSTRUÇÃO
 Em <estrategia_acordo>:
@@ -74,7 +77,8 @@ Que ambas as partes pretendem cessar o contrato por mútuo consentimento;
 Que as partes acordaram nas condições de cessação constantes do presente acordo.
 
 **CLÁUSULA 1.ª — OBJETO E DATA DE CESSAÇÃO**
-As partes acordam na cessação do Contrato de Trabalho Desportivo por mútuo consentimento, nos termos do art. 23.º LCTD e art. 349.º CT, com efeitos imediatos a partir de [data].
+As partes acordam na cessação do Contrato de Trabalho Desportivo por mútuo consentimento, nos termos do art. 23.º, n.º 1, alínea b), LCTD e do art. 349.º CT. O presente acordo é celebrado em [data de celebração] e produz efeitos a partir de [data de início dos efeitos].
+O Praticante pode fazer cessar o presente acordo, mediante comunicação escrita dirigida à Entidade Empregadora, até ao sétimo dia seguinte à data da sua celebração, nos termos do art. 350.º CT [suprimir este parágrafo se o acordo for datado e as assinaturas forem objeto de reconhecimento notarial presencial — art. 350.º, n.º 4, CT].
 
 **CLÁUSULA 2.ª — CRÉDITOS LABORAIS PENDENTES**
 À data de cessação, a Entidade Empregadora reconhece dever ao Praticante:
@@ -91,7 +95,7 @@ Total de créditos pendentes: € [valor]
 As partes acordam numa compensação global de rescisão por mútuo acordo no valor de € [valor], que inclui / acresce aos créditos laborais pendentes da Cláusula 2.ª [definir claramente].
 Pagamento: € [valor] no prazo de [prazo] dias úteis após assinatura.
 Em caso de atraso: juros de mora à taxa legal.
-[■ VERIFICAR: este valor pode ser negociado; referência: art. 28.º LCTD — indemnização por rescisão unilateral seria de X meses restantes × salário base]
+[■ VERIFICAR: o valor é livremente negociado; referência: art. 24.º, n.º 1, LCTD — a indemnização por despedimento sem justa causa ou por resolução com justa causa do praticante corresponde às retribuições vincendas até ao termo do contrato (todas as prestações retributivas, não só o salário base). Se a compensação for global, presume-se que inclui os créditos vencidos (art. 349.º, n.º 5, CT): dizer expressamente se inclui ou acresce aos créditos da Cláusula 2.ª]
 
 **CLÁUSULA 4.ª — DEVOLUÇÃO DE BENS**
 O Praticante devolve à Entidade Empregadora, na data de cessação:
@@ -101,7 +105,7 @@ O Praticante devolve à Entidade Empregadora, na data de cessação:
 A Entidade Empregadora emite recibo de devolução.
 
 **CLÁUSULA 5.ª — REGISTO FEDERATIVO**
-As partes comprometem-se a realizar, nos [prazo] dias subsequentes, todos os atos necessários ao cancelamento do registo do Praticante na federação desportiva, de modo a libertar o Praticante para nova inscrição.
+A cessação só produz efeitos depois de comunicada à federação em que o contrato está registado, com indicação de que se trata de revogação por acordo (art. 27.º, n.ºs 1 e 2, LCTD). A [Entidade Empregadora / ambas as partes] faz essa comunicação no prazo de [prazo] dias após a assinatura e entrega cópia à outra parte; com ela extingue-se o vínculo desportivo e o Praticante pode registar novo contrato (art. 27.º, n.º 3, LCTD).
 A Entidade Empregadora não pode opor-se ao registo do Praticante noutro clube após a data de cessação.
 
 **CLÁUSULA 6.ª — CONTRATOS DE IMAGEM**
@@ -127,7 +131,8 @@ Em <checklist_validacao>:
 - [ ] Inventário completo de créditos laborais pendentes
 - [ ] Compensação distinguida dos créditos laborais (ou incluída — definir)
 - [ ] Prazo de pagamento com consequência de atraso
-- [ ] Registo federativo tratado expressamente
+- [ ] Comunicação da cessação à federação prevista, com prazo e responsável (art. 27.º LCTD)
+- [ ] Datas de celebração e de início dos efeitos e menção do prazo legal para o praticante fazer cessar o acordo (art. 349.º, n.º 3, CT)
 - [ ] Quitação mútua clara e abrangente
 - [ ] Devolução de bens prevista
 - [ ] Contratos de imagem com tratamento expresso
@@ -163,10 +168,22 @@ Em <checklist_validacao>:
 | Citação | Estado | Nota |
 |---|---|---|
 | Art. 23.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| Art. 23.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 3.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 3.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| Art. 27.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 7.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | Art. 349.º Código do Trabalho | conferida (índice) |  |
 | Art. 350.º CT | conferida (índice) |  |
-| Art. 394.º CT | conferida (epígrafe) — Justa causa de resolução |  |
-| art. 28.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| art. 28.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 394.º CT | conferida (epígrafe) — Justa causa de resolução |  |
+| art. 24.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 24.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 23.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 349.º CT | conferida (índice) |  |
+| art. 350.º CT | conferida (índice) |  |
+| art. 350.º, n.º 4, CT | conferida (índice) |  |
+| art. 349.º, n.º 5, CT | conferida (índice) |  |
+| art. 27.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 27.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 27.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 349.º, n.º 3, CT | conferida (índice) |  |

@@ -6,7 +6,8 @@ titulo_en: "Application for a Residence Permit (General Regime, AIMA)"
 descricao: "Gera um requerimento completo de autorização de residência para apresentar na AIMA (Agência para a Integração, Migrações e Asilo), com fundamentação na Lei n.º 23/2007, identificação dos requisitos aplicáveis, lista de documentação e argumentação para casos onde possam existir dificuldades."
 descricao_en: "Generates a complete application for a residence permit (autorização de residência) to be submitted to the Agency for Integration, Migration and Asylum (AIMA), grounded in Law No. 23/2007, identifying the applicable requirements, listing the documentation and providing arguments for cases where difficulties may arise."
 ambito: nacional
-estado_citacoes: "conferidas 0 · corrigidas 0 · por conferir 4"
+estado_citacoes: "conferidas 1 · corrigidas 0 · por conferir 9"
+revisao_tecnica: "2026-10-30 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
@@ -14,7 +15,8 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 
 > **Âmbito:** nacional · **Área:** Direito dos Estrangeiros e Nacionalidade · **Código:** EST-002
 > **EN:** Application for a Residence Permit (General Regime, AIMA). Generates a complete application for a residence permit (autorização de residência) to be submitted to the Agency for Integration, Migration and Asylum (AIMA), grounded in Law No. 23/2007, identifying the applicable requirements, listing the documentation and providing arguments for cases where difficulties may arise.
-> **Citações:** conferidas 0 · corrigidas 0 · por conferir 4. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 1 · corrigidas 0 · por conferir 9. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-30 — corrigida (6 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
 Gera um requerimento completo de autorização de residência para apresentar na AIMA (Agência para a Integração, Migrações e Asilo), com fundamentação na Lei n.º 23/2007, identificação dos requisitos aplicáveis, lista de documentação e argumentação para casos onde possam existir dificuldades.
 
@@ -28,7 +30,7 @@ Ficha de trabalho para preparar este documento. As regras da casa prevalecem sob
 - Cita os artigos reais da Lei n.º 23/2007 na redação vigente
 - Usa português europeu rigoroso — sem brasileirismos
 - O requerimento deve ser formal, objetivo e completo
-- Inclui sempre referência ao título legal de permanência que permite o pedido (visto, entrada legal, etc.)
+- Inclui sempre referência ao título que permite o pedido: em regra, visto de residência válido para a finalidade pretendida ou visto para procura de trabalho (art. 77.º, n.º 1, alínea a), da Lei n.º 23/2007), salvo dispensa de visto (art. 122.º) ou regime especial; a mera entrada legal não basta
 - Termina com checklist de documentos atualizado
 
 ---
@@ -50,7 +52,7 @@ Apresente dentro de um bloco <fundamentos_juridicos>:
 - Artigos aplicáveis da Lei n.º 23/2007 (condições de concessão, artigos 74.º e ss.)
 - Requisitos gerais do art. 77.º (meios de subsistência, alojamento, ausência de condenações)
 - Portaria regulamentar aplicável [■ VERIFICAR: portaria em vigor]
-- Princípio da proporcionalidade (art. 3.º da Lei n.º 23/2007) se houver dificuldades
+- Princípio da proporcionalidade (art. 7.º CPA) se houver dificuldades
 - Jurisprudência dos tribunais administrativos se aplicável [■ VERIFICAR]
 - Efeitos da autorização de residência: acesso ao trabalho, segurança social, etc.
 
@@ -70,7 +72,7 @@ Redige o requerimento completo na seguinte estrutura:
 **REQUERIMENTO DE AUTORIZAÇÃO DE RESIDÊNCIA**
 [Tipo: regime geral / trabalho subordinado / etc.]
 
-[NOME COMPLETO], de nacionalidade [país], [estado civil], nascido/a em [data] em [local], titular do documento de identificação n.º [número], com autorização de permanência ao abrigo de [tipo de visto/título], válida até [data], residente em [morada em Portugal], vem requerer a V. Ex.ª a concessão/renovação de AUTORIZAÇÃO DE RESIDÊNCIA, ao abrigo do artigo [X.º] da Lei n.º 23/2007, de 4 de julho, pelos seguintes fundamentos:
+[NOME COMPLETO], de nacionalidade [país], [estado civil], nascido/a em [data] em [local], titular do documento de identificação n.º [número], portador de [visto de residência / visto para procura de trabalho / outro título que legitima o pedido], válido até [data], residente em [morada em Portugal], vem requerer a V. Ex.ª a concessão/renovação de AUTORIZAÇÃO DE RESIDÊNCIA, ao abrigo do artigo [X.º] da Lei n.º 23/2007, de 4 de julho, pelos seguintes fundamentos:
 
 **I. DA IDENTIFICAÇÃO**
 [Dados completos do requerente]
@@ -88,13 +90,13 @@ Redige o requerimento completo na seguinte estrutura:
 [Lista numerada]
 
 **VI. DO PEDIDO**
-Requer-se a concessão de autorização de residência [tipo], pelo período de [duração], com renovação automática nos termos legais.
+Requer-se a concessão de autorização de residência [tipo], pelo período de [duração] (art. 75.º, n.º 1, da Lei n.º 23/2007, salvo regime especial), renovável a pedido do titular nos termos do art. 78.º da mesma lei.
 
 [Local e data]
 [Nome do advogado — Cédula OA n.º]
 
 **CHECKLIST DE DOCUMENTOS:**
-- [ ] Formulário de pedido preenchido (Portal Ático / AIMA)
+- [ ] Formulário de pedido preenchido (portal ou balcão da AIMA) [■ VERIFICAR: canal de submissão em vigor para o tipo de autorização]
 - [ ] Passaporte válido e fotocópia integral
 - [ ] Título de permanência que fundamenta o pedido (visto de residência ou equivalente)
 - [ ] Fotografia atualizada tipo passe
@@ -102,8 +104,8 @@ Requer-se a concessão de autorização de residência [tipo], pelo período de 
 - [ ] Comprovativo de meios de subsistência (salário mínimo nacional × [■ VERIFICAR: multiplicador atual])
 - [ ] NIF — Número de Identificação Fiscal (AT)
 - [ ] NISS — Número de Identificação da Segurança Social (se aplicável)
-- [ ] Certificado de registo criminal português (Conservatória do Registo Criminal)
-- [ ] Certificado de registo criminal do país de origem (apostilado/legalizado)
+- [ ] Antecedentes criminais em Portugal: comprovados por consulta da AIMA ao sistema de informação do registo criminal português (art. 42.º-D do Decreto Regulamentar n.º 84/2007)
+- [ ] Certificado de registo criminal do país da nacionalidade ou do país onde resida há mais de um ano (apostilado/legalizado), se a AIMA não o puder consultar (art. 42.º-C do Decreto Regulamentar n.º 84/2007)
 - [ ] Declaração de IRS ou comprovativo de isenção (se aplicável)
 - [ ] Documentos específicos do motivo de residência (contrato de trabalho, matrícula universitária, etc.)
 - [ ] Taxa de concessão [■ VERIFICAR: valor atual]
@@ -164,7 +166,13 @@ Apresente dentro de um bloco <checklist_validacao>:
 
 | Citação | Estado | Nota |
 |---|---|---|
+| art. 77.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 77.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 77.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 122.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | artigos 74.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| art. 77.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| art. 77.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| art. 3.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 7.º CPA | conferida (epígrafe) — Princípio da proporcionalidade |  |
+| art. 75.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 78.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 42.º-D | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 42.º-C | por conferir [■ VERIFICAR] | diploma não identificado |

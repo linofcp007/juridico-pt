@@ -3,20 +3,22 @@ codigo: URB-012
 area: "Direito do Urbanismo e do Território"
 titulo: "Petição de Impugnação de Indeferimento de Licença de Construção"
 titulo_en: "Claim Challenging the Refusal of a Building Licence"
-descricao: "Gera a petição inicial de ação administrativa especial no Tribunal Administrativo de Círculo para impugnação judicial do ato de indeferimento de licença de construção, esgotados os meios administrativos, ao abrigo do CPTA, com pedido de anulação e de condenação da câmara a emitir a licença."
-descricao_en: "Generates the statement of claim in a special administrative action before the Administrative Circuit Court (Tribunal Administrativo de Círculo) challenging the decision refusing a building licence, once administrative remedies have been exhausted, under the CPTA, seeking annulment and an order requiring the municipal council to issue the licence."
+descricao: "Gera a petição inicial da ação administrativa no tribunal administrativo competente contra o indeferimento de licença de construção, ao abrigo do CPTA, com pedido de condenação do município à prática do ato devido (o deferimento da licença), sem necessidade de esgotar previamente os meios administrativos."
+descricao_en: "Generates the statement of claim in the administrative action (ação administrativa) before the competent administrative court against the refusal of a building licence, under the CPTA, seeking an order requiring the municipality to perform the act legally due (granting the licence), without any need to exhaust administrative remedies first."
 ambito: nacional
-estado_citacoes: "conferidas 14 · corrigidas 0 · por conferir 0"
+estado_citacoes: "conferidas 26 · corrigidas 0 · por conferir 1"
+revisao_tecnica: "2026-10-28 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
 # Petição de Impugnação de Indeferimento de Licença de Construção
 
 > **Âmbito:** nacional · **Área:** Direito do Urbanismo e do Território · **Código:** URB-012
-> **EN:** Claim Challenging the Refusal of a Building Licence. Generates the statement of claim in a special administrative action before the Administrative Circuit Court (Tribunal Administrativo de Círculo) challenging the decision refusing a building licence, once administrative remedies have been exhausted, under the CPTA, seeking annulment and an order requiring the municipal council to issue the licence.
-> **Citações:** conferidas 14 · corrigidas 0 · por conferir 0. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **EN:** Claim Challenging the Refusal of a Building Licence. Generates the statement of claim in the administrative action (ação administrativa) before the competent administrative court against the refusal of a building licence, under the CPTA, seeking an order requiring the municipality to perform the act legally due (granting the licence), without any need to exhaust administrative remedies first.
+> **Citações:** conferidas 26 · corrigidas 0 · por conferir 1. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-28 — corrigida (12 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
-Gera a petição inicial de ação administrativa especial no Tribunal Administrativo de Círculo para impugnação judicial do ato de indeferimento de licença de construção, esgotados os meios administrativos, ao abrigo do CPTA, com pedido de anulação e de condenação da câmara a emitir a licença.
+Gera a petição inicial da ação administrativa no tribunal administrativo competente contra o indeferimento de licença de construção, ao abrigo do CPTA, com pedido de condenação do município à prática do ato devido (o deferimento da licença), sem necessidade de esgotar previamente os meios administrativos.
 
 ## Método
 
@@ -25,8 +27,8 @@ Ficha de trabalho para preparar este documento. As regras da casa prevalecem sob
 ## Regras obrigatórias
 — NUNCA inventes jurisprudência, acórdãos ou pareceres inexistentes; assinala [■ VERIFICAR].
 — Usa linguagem jurídico-processual formal em português europeu (pt-PT).
-— Distingue o pedido de anulação do ato (art. 50.º CPTA) do pedido de condenação à prática do ato (art. 67.º CPTA).
-— Verifica sempre se os meios administrativos foram esgotados (se obrigatório).
+— Contra um indeferimento, o pedido adequado é o de condenação à prática do ato devido (arts. 66.º e 67.º, n.º 1, al. b), CPTA): o objeto do processo é a pretensão do interessado, e a eliminação do indeferimento resulta da própria condenação (art. 66.º, n.º 2, CPTA); perante um pedido de mera anulação, o tribunal convida o autor a substituir a petição (art. 51.º, n.º 4, CPTA).
+— A reclamação ou o recurso administrativo são, em regra, facultativos (art. 185.º, n.º 2, CPA) e não são pressuposto da ação; se tiverem sido usados, suspendem o prazo da ação até à decisão ou ao termo do prazo para decidir (art. 59.º, n.º 4, CPTA).
 
 ---
 
@@ -38,14 +40,14 @@ Apresenta dentro de um bloco <analise_do_caso>:
 - Histórico administrativo: indeferimento, reclamação, recurso hierárquico (e respetivos sentidos)
 - Fundamentos do indeferimento final: quais os vícios de direito ou factuais invocados
 - Vícios jurídicos contestáveis: ilegalidade substantiva (má interpretação do PDM, violação do RJUE), ilegalidade formal (fundamentação, audiência prévia)
-- Prazo de impugnação judicial (3 meses — art. 58.º CPTA) — verificar se ainda está dentro do prazo
-- Pedido de condenação à prática de ato (emissão da licença) — art. 67.º CPTA — viável?
+- Prazo da ação (3 meses — arts. 58.º, n.º 1, al. b), e 69.º, n.º 2, CPTA), suspenso enquanto pender impugnação administrativa (art. 59.º, n.º 4, CPTA) — verificar se ainda está dentro do prazo
+- Pedido de condenação à prática do ato devido (deferimento do pedido de licença) — arts. 66.º, 67.º, n.º 1, al. b), e 71.º CPTA
 - Urgência de providência cautelar: existe?
 
 ### ETAPA 2 — ANÁLISE JURÍDICA (Fundamentação)
 Apresenta dentro de um bloco <fundamentos_juridicos>:
-- Arts. 50.º e 67.º CPTA (impugnação de atos e condenação à prática de ato)
-- Art. 58.º CPTA (prazo de impugnação)
+- Arts. 66.º, 67.º, n.º 1, al. b), e 71.º CPTA (condenação à prática do ato devido na sequência de indeferimento e poderes de pronúncia do tribunal) e art. 51.º, n.º 4, CPTA (insuficiência do pedido de mera anulação)
+- Arts. 58.º e 69.º, n.º 2, CPTA (prazo da ação)
 - Artigos do RJUE violados no indeferimento
 - Disposições do PDM incorretamente aplicadas [■ VERIFICAR]
 - Art. 152.º CPA (fundamentação insuficiente) — se aplicável
@@ -54,28 +56,29 @@ Apresenta dentro de um bloco <fundamentos_juridicos>:
 
 ### ETAPA 3 — CONSTRUÇÃO ARGUMENTATIVA
 Define em <estrategia>:
-- Pedido 1: anulação do ato de indeferimento por vício de legalidade
-- Pedido 2 (se viável): condenação da câmara à emissão da licença (art. 67.º CPTA) — só possível se não houver margem de livre apreciação da câmara
+- Pedido: condenação do Município à prática do ato devido — o deferimento do pedido de licença (arts. 66.º e 67.º, n.º 1, al. b), CPTA) —, com fundamento na ilegalidade do indeferimento; a eliminação do indeferimento resulta da condenação (art. 66.º, n.º 2, CPTA)
+- Se a decisão envolver valorações próprias da função administrativa e não houver uma única solução legalmente possível, o tribunal não fixa o conteúdo do ato, mas condena à sua prática e explicita as vinculações a observar (art. 71.º, n.ºs 2 e 3, CPTA)
 - Argumentos técnicos: pareceres, plantas, certidões que demonstram conformidade com o PDM
 - Prova documental e pericial a requerer
 
 ### ETAPA 4 — EXPOSIÇÃO ESTRUTURADA (A Petição Inicial)
 Redige a petição inicial completa:
 
-**AO TRIBUNAL ADMINISTRATIVO DE CÍRCULO DE [COMARCA]**
+**AO TRIBUNAL ADMINISTRATIVO E FISCAL DE [SEDE] [ou: AO TRIBUNAL ADMINISTRATIVO DE CÍRCULO DE LISBOA]**
+[Tribunal da área da situação do imóvel — art. 17.º CPTA] [■ VERIFICAR: tribunal com jurisdição sobre o concelho e juízo competente, se o tribunal estiver desdobrado em juízos (art. 9.º do ETAF)]
 
 [NOME / FIRMA], NIF/NIPC n.º [número], representado pelo mandatário [nome, n.º OA, morada, email, telefone], vem intentar
 
-**AÇÃO ADMINISTRATIVA ESPECIAL**
-(art. 37.º, n.º 1, al. a) e b), CPTA)
+**AÇÃO ADMINISTRATIVA DE CONDENAÇÃO À PRÁTICA DE ATO DEVIDO**
+(arts. 37.º, n.º 1, al. b), 66.º e 67.º, n.º 1, al. b), CPTA)
 
 contra o MUNICÍPIO DE [MUNICÍPIO], com os seguintes fundamentos:
 
 **I. PARTES**
 [Identificação completa do Autor e do Réu]
 
-**II. OBJETO DA AÇÃO — ATO IMPUGNADO**
-É impugnada a decisão de indeferimento do pedido de licença de [tipo] para a operação [descrição], referente ao processo urbanístico n.º [número], na sua última expressão após esgotamento dos meios administrativos: [identificação da decisão final].
+**II. OBJETO DA AÇÃO — PRETENSÃO E ATO DE INDEFERIMENTO**
+O Autor pretende a condenação do Réu à prática do ato devido — o deferimento do pedido de licença de [tipo] para a operação [descrição], referente ao processo urbanístico n.º [número] —, que foi recusado por [identificação da decisão de indeferimento e, se tiver havido reclamação ou recurso administrativo, da decisão que sobre eles recaiu]; a eliminação do indeferimento resulta da pronúncia condenatória (art. 66.º, n.º 2, do CPTA).
 
 **III. DOS FACTOS**
 [Narração cronológica: pedido de licença, instrução do processo, decisão de indeferimento, reclamação, recurso hierárquico, decisão final de indeferimento]
@@ -93,8 +96,8 @@ contra o MUNICÍPIO DE [MUNICÍPIO], com os seguintes fundamentos:
 
 **V. DOS PEDIDOS**
 Requer-se ao Tribunal que:
-a) Anule o ato de indeferimento, por padecer dos vícios de ilegalidade supra identificados;
-b) Condene o Município Réu a emitir a licença de [tipo] requerida, no prazo de [X] dias (art. 67.º CPTA) [se aplicável — verificar se há margem de discricionariedade];
+a) Condene o Município Réu a deferir o pedido de licença de [tipo] formulado no processo urbanístico n.º [número], no prazo de [X] dias (art. 66.º, n.º 1, do CPTA), por ser ilegal o indeferimento, pelos vícios supra identificados;
+b) Subsidiariamente, se a decisão envolver valorações próprias da função administrativa, condene o Município Réu a praticar novo ato, com observância das vinculações que o Tribunal explicitar (art. 71.º, n.ºs 2 e 3, do CPTA);
 c) Condene o Município Réu nas custas.
 
 [Valor da ação]
@@ -107,13 +110,13 @@ O Mandatário,
 
 ### ETAPA 5 — FORMULAÇÃO FINAL (Validação)
 Apresenta dentro de um bloco <checklist_validacao>:
-- [ ] Prazo de 3 meses verificado (art. 58.º CPTA)
-- [ ] Meios administrativos esgotados (reclamação e/ou recurso hierárquico)
-- [ ] Ato impugnado claramente identificado (decisão final)
+- [ ] Prazo de 3 meses verificado (arts. 58.º e 69.º, n.º 2, CPTA), tendo em conta a suspensão por impugnação administrativa (art. 59.º, n.º 4, CPTA)
+- [ ] Reclamação ou recurso administrativo, se usados, identificados — não são pressuposto da ação (art. 185.º, n.º 2, CPA)
+- [ ] Ato de indeferimento claramente identificado
 - [ ] Ilegalidade substantiva fundamentada (art. por art.)
 - [ ] Ilegalidade formal identificada (se existir)
 - [ ] Conformidade do projeto com PDM demonstrada
-- [ ] Pedido de condenação à prática de ato avaliado (art. 67.º CPTA)
+- [ ] Pedido de condenação à prática do ato devido formulado (arts. 66.º, 67.º, n.º 1, al. b), e 71.º CPTA)
 - [ ] Meios de prova indicados (documentos, peritos)
 - [ ] Valor da ação calculado
 - [ ] Jurisprudência relevante referenciada [■ VERIFICAR]
@@ -147,7 +150,7 @@ Apresenta dentro de um bloco <checklist_validacao>:
 - Vícios de legalidade substantiva: [quais]
 - Vícios formais: [quais]
 - Conformidade do projeto com o PDM: [como demonstra]
-- Condenação à prática de ato (art. 67.º CPTA): [viável? — há discricionariedade?]
+- Margem de apreciação da câmara na decisão (art. 71.º, n.º 2, CPTA): [há valorações próprias da função administrativa? — descrever]
 
 **DOCUMENTOS A JUNTAR:**
 [Lista]
@@ -156,23 +159,36 @@ Apresenta dentro de um bloco <checklist_validacao>:
 [Informações adicionais]
 
 ## Resultado esperado
-Petição inicial de ação administrativa especial de impugnação de indeferimento de licença de construção, com pedido de anulação e, se viável, de condenação à emissão da licença.
+Petição inicial de ação administrativa de condenação à prática do ato devido, na sequência do indeferimento de licença de construção, com pedido de condenação ao deferimento da licença e, subsidiariamente, à prática de novo ato segundo as vinculações fixadas pelo tribunal.
 
 ## Citações desta ficha
 
 | Citação | Estado | Nota |
 |---|---|---|
-| art. 50.º CPTA | conferida (epígrafe) — Objeto e efeitos da impugnação |  |
-| art. 67.º CPTA | conferida (epígrafe) — Pressupostos |  |
-| art. 67.º CPTA | conferida (epígrafe) — Pressupostos |  |
-| art. 67.º CPTA | conferida (epígrafe) — Pressupostos |  |
-| art. 67.º CPTA | conferida (epígrafe) — Pressupostos |  |
-| art. 67.º CPTA | conferida (epígrafe) — Pressupostos |  |
-| art. 67.º CPTA | conferida (epígrafe) — Pressupostos |  |
-| art. 58.º CPTA | conferida (epígrafe) — Prazos |  |
-| art. 58.º CPTA | conferida (epígrafe) — Prazos |  |
-| Arts. 50.º e 67.º CPTA | conferida (epígrafe) — Objeto e efeitos da impugnação |  |
-| Art. 58.º CPTA | conferida (epígrafe) — Prazos |  |
+| arts. 66.º e 67.º, n.º 1, al. b), CPTA | conferida (epígrafe) — Objeto |  |
+| arts. 66.º e 67.º, n.º 1, al. b), CPTA | conferida (epígrafe) — Objeto |  |
+| art. 66.º, n.º 2, CPTA | conferida (epígrafe) — Objeto |  |
+| art. 66.º, n.º 2, CPTA | conferida (epígrafe) — Objeto |  |
+| art. 51.º, n.º 4, CPTA | conferida (epígrafe) — Atos impugnáveis |  |
+| art. 51.º, n.º 4, CPTA | conferida (epígrafe) — Atos impugnáveis |  |
+| art. 185.º, n.º 2, CPA | conferida (epígrafe) — Natureza e fundamentos |  |
+| art. 185.º, n.º 2, CPA | conferida (epígrafe) — Natureza e fundamentos |  |
+| art. 59.º, n.º 4, CPTA | conferida (epígrafe) — Início dos prazos de impugnação |  |
+| art. 59.º, n.º 4, CPTA | conferida (epígrafe) — Início dos prazos de impugnação |  |
+| art. 59.º, n.º 4, CPTA | conferida (epígrafe) — Início dos prazos de impugnação |  |
+| arts. 58.º, n.º 1, al. b), e 69.º, n.º 2, CPTA | conferida (epígrafe) — Prazos |  |
+| arts. 66.º, 67.º, n.º 1, al. b), e 71.º CPTA | conferida (epígrafe) — Objeto |  |
+| arts. 66.º, 67.º, n.º 1, al. b), e 71.º CPTA | conferida (epígrafe) — Objeto |  |
+| Arts. 66.º, 67.º, n.º 1, al. b), e 71.º CPTA | conferida (epígrafe) — Objeto |  |
+| Arts. 58.º e 69.º, n.º 2, CPTA | conferida (epígrafe) — Prazos |  |
 | Art. 152.º CPA | conferida (epígrafe) — Dever de fundamentação |  |
 | arts. 7.º e 10.º CPA | conferida (epígrafe) — Princípio da proporcionalidade |  |
-| art. 37.º, n.º 1, al. a) e b), CPTA | conferida (epígrafe) — Objeto |  |
+| art. 71.º, n.ºs 2 e 3, CPTA | conferida (epígrafe) — Poderes de pronúncia do tribunal |  |
+| art. 17.º CPTA | conferida (epígrafe) — Processos relacionados com bens imóveis |  |
+| art. 9.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| arts. 37.º, n.º 1, al. b), 66.º e 67.º, n.º 1, al. b), CPTA | conferida (epígrafe) — Objeto |  |
+| art. 66.º, n.º 2, do CPTA | conferida (epígrafe) — Objeto |  |
+| art. 66.º, n.º 1, do CPTA | conferida (epígrafe) — Objeto |  |
+| art. 71.º, n.ºs 2 e 3, do CPTA | conferida (epígrafe) — Poderes de pronúncia do tribunal |  |
+| arts. 58.º e 69.º, n.º 2, CPTA | conferida (epígrafe) — Prazos |  |
+| art. 71.º, n.º 2, CPTA | conferida (epígrafe) — Poderes de pronúncia do tribunal |  |

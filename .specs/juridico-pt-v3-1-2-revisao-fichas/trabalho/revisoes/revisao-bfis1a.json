@@ -1,0 +1,289 @@
+[
+ {
+  "codigo": "FIS-004",
+  "veredicto": "corrigida",
+  "resumo": "A ficha e o índice tratavam como objeto da ação administrativa todos os atos «não liquidatórios», incluindo os atos de fixação de valores patrimoniais. O art. 97.º, n.º 1, do CPPT reserva a ação administrativa (al. p)) aos atos que não comportem a apreciação da legalidade da liquidação e sujeita à impugnação judicial a fixação de valores patrimoniais (al. f) e art. 134.º) e da matéria tributável sem liquidação (al. b)). Corrigiram-se a regra obrigatória e a descrição do índice; o resto (art. 97.º, n.º 2, CPPT; prazo de 3 meses do art. 58.º, n.º 1, al. b), CPTA) está certo.",
+  "descricao": "Gera uma petição inicial de ação administrativa tributária dirigida ao tribunal tributário, para impugnar atos administrativos em matéria tributária que não comportem a apreciação da legalidade do ato de liquidação ou obter a condenação à prática do ato devido, designadamente atos de indeferimento de requerimentos e de indeferimento ou revogação de isenções e outros benefícios fiscais, nos termos do artigo 97.º, n.º 1, alínea p), e n.º 2 do CPPT. Os atos de fixação de valores patrimoniais seguem a impugnação judicial (artigo 134.º do CPPT).",
+  "descricao_en": "Generates a statement of claim in a tax administrative action addressed to the tax court, to challenge administrative acts in tax matters that do not involve reviewing the legality of an assessment, or to obtain an order to issue the act legally due, namely refusals of applications and refusals or revocations of exemptions and other tax benefits, under Article 97(1)(p) and (2) of the CPPT. Acts fixing property values are challenged by judicial challenge instead (Article 134 of the CPPT).",
+  "substituicoes": [
+   {
+    "de": "— a ação administrativa tutela atos não liquidatórios",
+    "para": "— a ação administrativa tutela os atos administrativos em matéria tributária que não comportem a apreciação da legalidade do ato de liquidação (art. 97.º, n.º 1, al. p), CPPT); os atos de fixação de valores patrimoniais e a fixação da matéria tributável que não dê origem a liquidação seguem a impugnação judicial (art. 97.º, n.º 1, als. b) e f), e art. 134.º CPPT)",
+    "motivo": "Nem todo o ato não liquidatório cabe na ação administrativa: a fixação de valores patrimoniais e da matéria tributável sem liquidação segue a impugnação judicial.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=256A0097&nid=256&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Entidade demandada: confirmar se se indica a AT ou o Ministério das Finanças (art. 10.º CPTA) e a representação pela Fazenda Pública.",
+   "Contra um indeferimento, o objeto do processo é a pretensão e a eliminação do ato resulta da condenação (art. 66.º, n.º 2, CPTA): formular o pedido de condenação à prática do ato devido.",
+   "Prazo: 3 meses para atos anuláveis, contados nos termos do art. 279.º do Código Civil, com transferência do termo que caia em férias judiciais (art. 58.º, n.ºs 1 e 2, CPTA); atos nulos sem prazo; inércia da Administração: 1 ano (art. 69.º, n.º 1, CPTA). Confirmar a articulação com o indeferimento tácito presumido do art. 57.º, n.º 5, LGT.",
+   "Tribunal: fora de Lisboa, o competente é o tribunal administrativo e fiscal da área (juízo tributário)."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=256A0097&nid=256&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=256A0134&nid=256&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=439A0058&nid=439&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=439A0066&nid=439&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=439A0069&nid=439&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+  ]
+ },
+ {
+  "codigo": "FIS-007",
+  "veredicto": "corrigida",
+  "resumo": "A ficha propunha o pedido de revisão da matéria tributável e de perito independente (art. 91.º LGT) na própria resposta ao projeto de relatório; esse pedido é uma fase posterior, a apresentar em 30 dias após a notificação da decisão de fixação por métodos indiretos, e é condição da impugnação (art. 86.º, n.º 5, LGT). Corrigiram-se ainda o ónus da prova do art. 74.º, n.º 3, LGT (à AT cabem os pressupostos, ao sujeito passivo o excesso na quantificação), os artigos do CIRC (preços de transferência é o art. 63.º e os métodos indiretos os arts. 57.º e 59.º; o 64.º e o 86.º tratam de outras matérias) e o nome do RCPITA; acrescentou-se o prazo da audição (art. 60.º, n.º 2, RCPITA).",
+  "descricao": "Gera uma resposta técnica ao projeto de relatório de inspeção tributária, com foco nos vícios do método e nos erros de substância das correções propostas, preparando argumentos que, se não forem acolhidos na audição, fundamentarão o pedido de revisão da matéria tributável fixada por métodos indiretos e a reclamação graciosa e a impugnação judicial subsequentes.",
+  "descricao_en": "Generates a technical response to the draft tax inspection report, focusing on methodological defects and substantive errors in the proposed corrections, and preparing arguments that, if not accepted at the hearing, will ground the request for review of a tax base fixed by indirect methods and the subsequent administrative tax complaint (reclamação graciosa) and judicial challenge.",
+  "substituicoes": [
+   {
+    "de": "- O ónus da prova em avaliação indireta cabe à AT (art. 74.º, n.º 3 LGT)",
+    "para": "- Em avaliação indireta, cabe à AT o ónus da prova da verificação dos pressupostos da sua aplicação e ao sujeito passivo o ónus da prova do excesso na quantificação (art. 74.º, n.º 3 LGT)",
+    "motivo": "O art. 74.º, n.º 3, LGT reparte o ónus da prova: não o atribui todo à AT.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=253A0074&nid=253&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Referencia o Regime Complementar do Procedimento de Inspeção Tributária (RCPIT — DL n.º 413/98) nos procedimentos formais",
+    "para": "- Referencia o Regime Complementar do Procedimento de Inspeção Tributária e Aduaneira (RCPITA — DL n.º 413/98) nos procedimentos formais\n- A resposta é apresentada no prazo fixado na notificação do projeto de conclusões do relatório: entre 15 e 25 dias, ou 30 dias se estiver em causa a cláusula geral antiabuso (art. 60.º, n.º 2, RCPITA)",
+    "motivo": "Designação atual do regime (Lei n.º 75-A/2014) e prazo da audição, que a ficha não indicava.",
+    "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/rcpit/Pages/rcpit60.aspx"
+   },
+   {
+    "de": "- Art. 91.º LGT — pedido de revisão da matéria coletável por perito independente",
+    "para": "- Art. 91.º LGT — pedido de revisão da matéria tributável fixada por métodos indiretos: fase posterior à resposta, a apresentar no prazo de 30 dias contados da notificação da decisão, com indicação do perito do sujeito passivo (pode pedir-se também perito independente — n.º 4); é condição da impugnação por erro na quantificação ou nos pressupostos (art. 86.º, n.º 5, LGT)",
+    "motivo": "A revisão é feita por debate entre peritos e só cabe depois da decisão de fixação, em 30 dias; o perito independente é facultativo.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=253A0091&nid=253&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "art. 64.º (preços de transferência), art. 86.º (métodos indiretos) se aplicável",
+    "para": "art. 63.º CIRC (preços de transferência), arts. 57.º e 59.º CIRC (métodos indiretos) se aplicável",
+    "motivo": "No CIRC, os preços de transferência estão no art. 63.º e os métodos indiretos nos arts. 57.º e 59.º; o art. 64.º trata do valor de transmissão de imóveis e o art. 86.º da neutralidade fiscal.",
+    "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/CIRC_2R/Pages/irc63.aspx"
+   },
+   {
+    "de": "- Pedido de designação de perito independente (art. 91.º LGT) se adequado\n- Preparar terreno para reclamação graciosa e impugnação judicial",
+    "para": "- Se a AT mantiver a avaliação indireta no relatório final: preparar o pedido de revisão da matéria tributável (art. 91.º LGT), com o perito do sujeito passivo e, se adequado, perito independente\n- Preparar terreno para a reclamação graciosa e a impugnação judicial das correções técnicas e, quanto à avaliação indireta, para a impugnação após o pedido de revisão (art. 86.º, n.º 5, LGT)",
+    "motivo": "O pedido de revisão não se formula na audição: é a fase seguinte, condição da impugnação da avaliação indireta.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=253A0086&nid=253&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "(art. 36.º RCPIT)",
+    "para": "(art. 36.º, n.ºs 2 a 4, RCPITA; ultrapassado o prazo, cessa a suspensão do prazo de caducidade — art. 46.º, n.º 1, LGT) [■ VERIFICAR: se a ultrapassagem do prazo invalida o procedimento, segundo a jurisprudência atual]",
+    "motivo": "Indicar a consequência legal da ultrapassagem do prazo da inspeção.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=253A0046&nid=253&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "3.4. Pedido de perícia independente (art. 91.º LGT), se adequado",
+    "para": "3.4. Reserva do pedido de revisão da matéria tributável (art. 91.º LGT), a apresentar no prazo de 30 dias após a notificação da decisão de fixação por métodos indiretos — não nesta resposta",
+    "motivo": "O pedido de revisão não se apresenta na resposta ao projeto de relatório.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=253A0091&nid=253&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Pedido de perito independente (art. 91.º LGT) considerado",
+    "para": "- [ ] Prazo do pedido de revisão da matéria tributável (art. 91.º LGT — 30 dias após a notificação da decisão) anotado para a fase seguinte",
+    "motivo": "Alinhar a verificação final com o momento próprio do pedido de revisão.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=253A0091&nid=253&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar na jurisprudência do STA o efeito da ultrapassagem do prazo do art. 36.º, n.º 2, RCPITA (a lei só prevê a cessação da suspensão da caducidade — art. 46.º, n.º 1, LGT).",
+   "Ponderar o pedido de regularização da situação tributária no prazo da audição (arts. 58.º e 58.º-A RCPITA, redação do DL 49/2025): aceitar e cumprir o documento de regularização preclude a contestação dessas correções.",
+   "A matéria tributável fixada por métodos indiretos está excluída da arbitragem tributária (Portaria 112-A/2011) — confirmar antes de escolher a via."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=253A0074&nid=253&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=253A0086&nid=253&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=253A0091&nid=253&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=253A0046&nid=253&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/rcpit/Pages/rcpit1.aspx",
+   "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/rcpit/Pages/rcpit36.aspx",
+   "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/rcpit/Pages/rcpit60.aspx",
+   "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/CIRC_2R/Pages/irc57.aspx",
+   "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/CIRC_2R/Pages/irc59.aspx",
+   "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/CIRC_2R/Pages/irc63.aspx"
+  ]
+ },
+ {
+  "codigo": "FIS-009",
+  "veredicto": "corrigida",
+  "resumo": "O prazo de 10 dias estava atribuído a um n.º 2 do art. 276.º CPPT que não existe e contado do conhecimento: está no art. 277.º, n.º 1, e conta-se da notificação da decisão; a reclamação apresenta-se no órgão da execução fiscal (art. 277.º, n.º 2). Corrigiram-se as remissões erradas (o art. 245.º trata da graduação de créditos, não da habitação própria; os arts. 247.º e 248.º não regulam a graduação), descreveu-se o regime do art. 244.º (impede a venda, não a penhora) e a subida imediata com efeito suspensivo do art. 278.º, n.ºs 3 e 6, em lugar de uma «medida cautelar», e remeteu-se o terceiro titular do bem penhorado para os embargos de terceiro (art. 237.º).",
+  "substituicoes": [
+   {
+    "de": "- O prazo de reclamação é de 10 dias após o conhecimento do ato (art. 276.º, n.º 2 CPPT)",
+    "para": "- O prazo de reclamação é de 10 dias após a notificação da decisão (art. 277.º, n.º 1, CPPT)",
+    "motivo": "O art. 276.º não tem n.º 2; o prazo está no art. 277.º, n.º 1, e conta-se da notificação.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=256A0277&nid=256&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- A reclamação é dirigida ao tribunal tributário que supervisiona a execução",
+    "para": "- A reclamação é dirigida ao tribunal tributário de 1.ª instância (art. 276.º CPPT), mas é apresentada no órgão da execução fiscal, que pode revogar o ato reclamado no prazo de 10 dias (art. 277.º, n.º 2, CPPT)",
+    "motivo": "A ficha omitia que a reclamação se apresenta no órgão da execução fiscal.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=256A0277&nid=256&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "vs dívida exequenda (oposição — art. 203.º)",
+    "para": "vs dívida exequenda (oposição — art. 203.º) vs posse ou direito de terceiro incompatível com a penhora (embargos de terceiro, no prazo de 30 dias — art. 237.º CPPT)",
+    "motivo": "O terceiro titular do bem penhorado defende-se por embargos de terceiro.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=256A0237&nid=256&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Para penhora de habitação própria permanente: verificar regime do art. 244.º e 245.º CPPT",
+    "para": "- Imóvel destinado exclusivamente a habitação própria e permanente: a penhora é possível, mas não há lugar à venda, salvo nos casos do n.º 3 (art. 244.º, n.ºs 2 a 6, CPPT)",
+    "motivo": "O art. 245.º trata da verificação e graduação de créditos; o art. 244.º impede a venda, não a penhora.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=256A0244&nid=256&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "É de terceiro? É impenhorável (art. 736.º CPC ex vi CPPT)?",
+    "para": "É impenhorável (art. 736.º CPC ex vi CPPT)? É de terceiro? (nesse caso, o meio próprio do terceiro são, em regra, os embargos de terceiro — art. 237.º CPPT)",
+    "motivo": "A propriedade de terceiro sobre o bem penhorado faz-se valer por embargos de terceiro.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=256A0237&nid=256&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Art. 244.º, 245.º CPPT — penhora de imóveis (habitação própria e permanente)",
+    "para": "- Art. 244.º, n.ºs 2 a 6, CPPT — impedimento à venda de imóvel destinado a habitação própria e permanente",
+    "motivo": "Remissão corrigida: o art. 245.º não trata da habitação própria.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=256A0244&nid=256&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Art. 247.º, 248.º CPPT — reclamação de créditos e graduação",
+    "para": "- Art. 245.º CPPT — verificação e graduação de créditos pelo órgão da execução fiscal, reclamável nos termos dos arts. 276.º e seguintes (n.º 3); o erro na verificação ou graduação admite subida imediata (art. 278.º, n.º 3, al. e), CPPT)",
+    "motivo": "Os arts. 247.º e 248.º tratam da devolução do processo e da regra geral da venda; a graduação está no art. 245.º.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=256A0244&nid=256&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Necessidade de medida cautelar urgente (suspensão da venda)",
+    "para": "- Subida imediata: invocar o prejuízo irreparável causado por uma das ilegalidades do art. 278.º, n.º 3, CPPT; sem ela, o tribunal só conhece da reclamação a final (n.º 1). A reclamação com subida imediata suspende os efeitos do ato reclamado e segue as regras dos processos urgentes (n.º 6)",
+    "motivo": "A suspensão obtém-se pelo regime da subida imediata do art. 278.º, não por uma medida cautelar autónoma.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=256A0278&nid=256&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "**AO TRIBUNAL TRIBUTÁRIO DE [LOCALIDADE]**",
+    "para": "**AO TRIBUNAL TRIBUTÁRIO DE [LOCALIDADE]**\n(apresentada no Serviço de Finanças de [localidade], órgão da execução fiscal — art. 277.º, n.º 2, CPPT)",
+    "motivo": "A peça é apresentada no órgão da execução fiscal.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=256A0277&nid=256&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "[Data do conhecimento do ato + 10 dias = prazo; demonstrar que está dentro do prazo]",
+    "para": "[Data da notificação da decisão + 10 dias = prazo (art. 277.º, n.º 1, CPPT); sem notificação, data do conhecimento do ato [■ VERIFICAR: contagem a partir do conhecimento]; demonstrar que está dentro do prazo]",
+    "motivo": "O prazo conta-se da notificação da decisão.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=256A0277&nid=256&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Qualidade: [executado / terceiro cujos bens foram penhorados]",
+    "para": "- Qualidade: [executado / terceiro afetado pela decisão — se o terceiro for titular do bem penhorado, ver embargos de terceiro (art. 237.º CPPT)]",
+    "motivo": "Encaminhar o terceiro titular do bem para o meio próprio.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=256A0237&nid=256&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar se o terceiro cujo bem foi penhorado pode, no caso, usar a reclamação do art. 276.º (que admite reclamação de terceiro) ou só os embargos de terceiro (30 dias, nunca depois da venda — art. 237.º, n.º 3, CPPT).",
+   "Confirmar a contagem do prazo de 10 dias (prazo judicial, regras do CPC por remissão do art. 20.º CPPT) e o caso de falta de notificação.",
+   "Fora de Lisboa, o tribunal competente é o tribunal administrativo e fiscal da área."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=256A0276&nid=256&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=256A0277&nid=256&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=256A0278&nid=256&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=256A0237&nid=256&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=256A0244&nid=256&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=256A0203&nid=256&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+  ]
+ },
+ {
+  "codigo": "FIS-011",
+  "veredicto": "corrigida",
+  "resumo": "A ficha exigia que o valor do bem cobrisse a totalidade da dívida e que os bens estivessem livres de ónus, quando o art. 201.º, n.º 1, al. b), CPPT proíbe, em regra, bens de valor superior à dívida exequenda e acrescido e a lei não exige bens livres (os encargos são informados e ponderados). Omitia o prazo (o da oposição), a limitação da dação antes da execução ao acordo de recuperação de créditos do Estado (art. 87.º, n.º 1) e o circuito (requerimento ao membro do Governo, apresentado no órgão da execução fiscal). Corrigiram-se as regras, a peça, a verificação final e a descrição do índice; confirmou-se a isenção de IMT do Estado (art. 6.º, al. a), CIMT).",
+  "descricao": "Gera um requerimento de dação em pagamento de bens imóveis para extinção de dívidas fiscais em execução fiscal, nos termos do artigo 201.º do CPPT, com identificação dos bens propostos, demonstração de que o seu valor não excede a dívida exequenda e acrescido e pedido de autorização ao membro do Governo responsável pela área das finanças, apresentado no órgão da execução fiscal.",
+  "descricao_en": "Generates an application for payment in kind (dação em pagamento) with immovable property to extinguish tax debts in tax enforcement proceedings, under Article 201 of the CPPT, identifying the assets offered, showing that their value does not exceed the enforced debt and additions, and requesting authorisation from the member of Government responsible for finance, filed with the tax enforcement body.",
+  "substituicoes": [
+   {
+    "de": "- A dação em pagamento está prevista no art. 201.º do CPPT",
+    "para": "- A dação em pagamento está prevista no art. 201.º do CPPT: na execução fiscal, o executado ou um terceiro requerem-na no prazo de oposição (30 dias a contar da citação pessoal ou, na falta desta, da primeira penhora — art. 203.º, n.º 1, CPPT); antes da execução fiscal, só é admissível no âmbito de processo conducente à celebração de acordo de recuperação de créditos do Estado (art. 87.º, n.º 1, CPPT)",
+    "motivo": "A ficha omitia o prazo do requerimento e o limite da dação antes da execução.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=256A0201&nid=256&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Os bens devem ser livres de ónus ou encargos, salvo acordo em contrário",
+    "para": "- A lei não exige que os bens estejam livres de ónus ou encargos: o órgão da execução fiscal informa os encargos que sobre eles incidam e a decisão tem-nos em conta (art. 201.º, n.º 2, e art. 87.º, n.º 2, CPPT)",
+    "motivo": "Requisito sem base legal; a lei manda informar e ponderar os encargos.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=256A0201&nid=256&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- O valor proposto deve ser suficiente para cobrir a totalidade da dívida em dívida",
+    "para": "- Os bens não podem ter valor superior à dívida exequenda e acrescido, salvo se se demonstrar a possibilidade da sua imediata utilização para fins de interesse público ou social ou se a dação se efetuar no âmbito de acordo de recuperação de créditos do Estado (art. 201.º, n.º 1, al. b), CPPT); aceite a dação de bens de valor superior, o excesso constitui um crédito a favor do devedor (art. 201.º, n.º 9, CPPT)",
+    "motivo": "A lei limita o valor dos bens à dívida, em vez de exigir que a cubra.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=256A0201&nid=256&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Mencionar a avaliação do bem: valor patrimonial tributário (VPT) e valor de mercado",
+    "para": "- Mencionar a avaliação do bem: valor patrimonial tributário (VPT) e valor de mercado; a avaliação oficial, quando determinada, é feita pelo valor de mercado (art. 201.º, n.ºs 3 a 5, CPPT) e o devedor faz o preparo das despesas em 5 dias, sob pena de o pedido não prosseguir (art. 201.º, n.º 6, CPPT)",
+    "motivo": "Critério legal da avaliação e ónus do preparo, que a ficha omitia.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=256A0201&nid=256&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- O valor de mercado cobre a totalidade da dívida?",
+    "para": "- O valor de mercado excede a dívida exequenda e acrescido? (só admissível nos casos do art. 201.º, n.º 1, al. b), CPPT)",
+    "motivo": "Alinhar a análise com o limite legal do valor dos bens.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=256A0201&nid=256&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- A dívida está em execução fiscal ou ainda em fase voluntária?",
+    "para": "- A dívida está em execução fiscal ou ainda em fase voluntária? (antes da execução, a dação só cabe no âmbito de acordo de recuperação de créditos do Estado — art. 87.º, n.º 1, CPPT); em execução, o prazo de oposição ainda está a correr?",
+    "motivo": "Limite da dação em fase voluntária e prazo do requerimento.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=256A0087&nid=256&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Art. 201.º CPPT — dação em pagamento",
+    "para": "- Art. 201.º CPPT — dação em pagamento na execução fiscal; art. 87.º CPPT — dação em pagamento antes da execução fiscal",
+    "motivo": "Indicar o regime próprio da dação antes da execução.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=256A0087&nid=256&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- CIMT: a transmissão de imóveis ao Estado por dação pode ter isenção [■ VERIFICAR: art. 6.º do CIMT]",
+    "para": "- CIMT: o Estado está isento de IMT (art. 6.º, al. a), do CIMT) [■ VERIFICAR: que o adquirente é o Estado e o Imposto do Selo da transmissão]",
+    "motivo": "Isenção confirmada no texto oficial do CIMT.",
+    "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/CIMT/Pages/cimt6.aspx"
+   },
+   {
+    "de": "**EXMO(A). SENHOR(A) SECRETÁRIO(A) DE ESTADO DOS ASSUNTOS FISCAIS**\n(Via Autoridade Tributária e Aduaneira — Direção de Serviços de Gestão de Créditos Tributários)",
+    "para": "**EXMO(A). SENHOR(A) MEMBRO DO GOVERNO RESPONSÁVEL PELA ÁREA DAS FINANÇAS** [■ VERIFICAR: designação atual e eventual delegação no Secretário de Estado dos Assuntos Fiscais]\n(Apresentado no Serviço de Finanças de [localidade], órgão da execução fiscal do processo n.º [número], que o remete ao dirigente máximo do serviço — art. 201.º, n.ºs 1 e 2, CPPT)",
+    "motivo": "O requerimento é dirigido ao ministro e apresentado no órgão da execução fiscal.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=256A0201&nid=256&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "**III — SUFICIÊNCIA DO BEM PARA COBRIR A DÍVIDA**\n[Demonstrar que VPT ou valor de mercado ≥ montante total da dívida]",
+    "para": "**III — VALOR DO BEM FACE À DÍVIDA**\n[Demonstrar que o valor do bem não excede a dívida exequenda e acrescido ou, se exceder, a possibilidade da sua imediata utilização para fins de interesse público ou social (art. 201.º, n.º 1, al. b), CPPT)]",
+    "motivo": "A lei limita o valor dos bens à dívida.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=256A0201&nid=256&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] VPT e valor de mercado apresentados e suficientes para cobrir a dívida",
+    "para": "- [ ] VPT e valor de mercado apresentados e não superiores à dívida exequenda e acrescido (ou exceção do art. 201.º, n.º 1, al. b), CPPT demonstrada)",
+    "motivo": "Alinhar a verificação final com o limite legal.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=256A0201&nid=256&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Identificação completa das dívidas fiscais",
+    "para": "- [ ] Identificação completa das dívidas fiscais\n- [ ] Requerimento apresentado no prazo de oposição (art. 201.º, n.º 1, e art. 203.º CPPT)",
+    "motivo": "Verificar o prazo do requerimento.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=256A0203&nid=256&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Total: € [valor]",
+    "para": "- Total: € [valor]\n- Processo de execução fiscal n.º: [número] — data da citação: [dd/mm/aaaa]",
+    "motivo": "Dados necessários para o prazo e para a apresentação no órgão da execução fiscal.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=256A0201&nid=256&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar quem decide (ministro ou membro do Governo com competência delegada) e o despacho de delegação em vigor.",
+   "Se o valor dos bens for inferior à dívida, confirmar que a dação extingue a dívida só até esse valor e que a execução prossegue pelo remanescente.",
+   "Confirmar o Imposto do Selo da transmissão e o regime da desistência (até 5 dias após a notificação do despacho, com pagamento integral — art. 201.º, n.º 15, CPPT)."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=256A0201&nid=256&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=256A0202&nid=256&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=256A0087&nid=256&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=256A0203&nid=256&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/CIMT/Pages/cimt6.aspx"
+  ]
+ }
+]

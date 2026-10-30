@@ -3,20 +3,22 @@ codigo: DES-037
 area: "Direito Desportivo"
 titulo: "E-Sports — Contrato de Jogador Profissional e Regime Jurídico Aplicável"
 titulo_en: "E-Sports — Professional Player Contract and Applicable Legal Regime"
-descricao: "Elabora contrato de prestação de serviços ou de trabalho para jogador profissional de e-sports (desporto eletrónico), analisando o enquadramento jurídico em Portugal face à Lei n.º 54/2017 (LCTD), ao Código do Trabalho e ao reconhecimento do desporto eletrónico como modalidade desportiva pela FPD (Federação Portuguesa de Desportos Eletrónicos), incluindo cláusulas de exclusividade de equipa, streaming pessoal, direitos de imagem e regras de transferência."
-descricao_en: "Prepares a services or employment contract for a professional e-sports (electronic sports) player, analysing the legal framework in Portugal in light of Law No. 54/2017 (LCTD), the Labour Code and the recognition of electronic sport as a sporting discipline by the FPD (Portuguese Electronic Sports Federation), including clauses on team exclusivity, personal streaming, image rights and transfer rules."
+descricao: "Elabora contrato de prestação de serviços ou de trabalho para jogador profissional de e-sports (desporto eletrónico), analisando o enquadramento jurídico em Portugal face à Lei n.º 54/2017 (LCTD) e ao Código do Trabalho, e a questão, ainda em aberto, do reconhecimento do desporto eletrónico como modalidade desportiva (a Federação Portuguesa de Desportos Eletrónicos não tem estatuto de utilidade pública desportiva), incluindo cláusulas de exclusividade de equipa, streaming pessoal, direitos de imagem e regras de transferência."
+descricao_en: "Prepares a services or employment contract for a professional e-sports (electronic sports) player, analysing the legal framework in Portugal in light of Law No. 54/2017 (LCTD) and the Labour Code, and the still open question of whether electronic sport is recognised as a sporting discipline (the Portuguese Electronic Sports Federation does not hold sports public-utility status), including clauses on team exclusivity, personal streaming, image rights and transfer rules."
 ambito: nacional
-estado_citacoes: "conferidas 1 · corrigidas 0 · por conferir 0"
+estado_citacoes: "conferidas 4 · corrigidas 0 · por conferir 3"
+revisao_tecnica: "2026-10-30 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
 # E-Sports — Contrato de Jogador Profissional e Regime Jurídico Aplicável
 
 > **Âmbito:** nacional · **Área:** Direito Desportivo · **Código:** DES-037
-> **EN:** E-Sports — Professional Player Contract and Applicable Legal Regime. Prepares a services or employment contract for a professional e-sports (electronic sports) player, analysing the legal framework in Portugal in light of Law No. 54/2017 (LCTD), the Labour Code and the recognition of electronic sport as a sporting discipline by the FPD (Portuguese Electronic Sports Federation), including clauses on team exclusivity, personal streaming, image rights and transfer rules.
-> **Citações:** conferidas 1 · corrigidas 0 · por conferir 0. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **EN:** E-Sports — Professional Player Contract and Applicable Legal Regime. Prepares a services or employment contract for a professional e-sports (electronic sports) player, analysing the legal framework in Portugal in light of Law No. 54/2017 (LCTD) and the Labour Code, and the still open question of whether electronic sport is recognised as a sporting discipline (the Portuguese Electronic Sports Federation does not hold sports public-utility status), including clauses on team exclusivity, personal streaming, image rights and transfer rules.
+> **Citações:** conferidas 4 · corrigidas 0 · por conferir 3. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-30 — corrigida (3 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
-Elabora contrato de prestação de serviços ou de trabalho para jogador profissional de e-sports (desporto eletrónico), analisando o enquadramento jurídico em Portugal face à Lei n.º 54/2017 (LCTD), ao Código do Trabalho e ao reconhecimento do desporto eletrónico como modalidade desportiva pela FPD (Federação Portuguesa de Desportos Eletrónicos), incluindo cláusulas de exclusividade de equipa, streaming pessoal, direitos de imagem e regras de transferência.
+Elabora contrato de prestação de serviços ou de trabalho para jogador profissional de e-sports (desporto eletrónico), analisando o enquadramento jurídico em Portugal face à Lei n.º 54/2017 (LCTD) e ao Código do Trabalho, e a questão, ainda em aberto, do reconhecimento do desporto eletrónico como modalidade desportiva (a Federação Portuguesa de Desportos Eletrónicos não tem estatuto de utilidade pública desportiva), incluindo cláusulas de exclusividade de equipa, streaming pessoal, direitos de imagem e regras de transferência.
 
 ## Método
 
@@ -35,7 +37,7 @@ Apresenta dentro de um bloco <analise_da_situacao>:
 - Natureza da relação (subordinação vs. autonomia)
 - Receitas do jogador (salário de equipa + streaming pessoal + prémios)
 - Exclusividade e restrições de streaming
-- Reconhecimento da modalidade pela FPD/IPDJ
+- Estatuto da modalidade: a Federação Portuguesa de Desportos Eletrónicos (FPDE) não consta da lista de federações com utilidade pública desportiva publicada pelo IPDJ, pelo que não há registo do contrato em federação nos termos do art. 7.º da Lei n.º 54/2017 [■ VERIFICAR: situação à data e qualificação do jogo em causa como atividade desportiva]
 - Dados em falta
 
 ### ETAPA 2 — ANÁLISE JURÍDICA
@@ -52,8 +54,8 @@ Apresenta dentro de um bloco <estrutura_contrato>:
 - Remuneração base e prémios
 - Exclusividade (jogo, equipa, streaming)
 - Direitos de imagem e marca pessoal
-- Transferência e buy-out clause
-- Cláusula de não concorrência pós-contratual
+- Transferência e cláusula de rescisão (buy-out): na LCTD, direito de o praticante denunciar o contrato sem justa causa mediante indemnização convencionada, que o tribunal pode reduzir se for manifestamente excessiva (art. 25.º da Lei n.º 54/2017); no regime do CT [■ VERIFICAR: validade face ao direito de denúncia com aviso prévio (art. 400.º CT) e aos limites do pacto de permanência (art. 137.º CT)]
+- Cláusula de não concorrência pós-contratual: nula se se aplicar a LCTD (art. 19.º, n.º 1, da Lei n.º 54/2017); no regime do CT, só é lícita nos termos do art. 136.º CT (acordo escrito, atividade cujo exercício possa causar prejuízo ao empregador, compensação durante a limitação, até dois anos — três nos casos do n.º 5)
 
 ### ETAPA 4 — CONTRATO
 Redige contrato completo.
@@ -84,4 +86,10 @@ Apresenta dentro de um bloco <checklist_validacao>:
 
 | Citação | Estado | Nota |
 |---|---|---|
+| art. 7.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 12.º CT | conferida (índice) |  |
+| art. 25.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 400.º CT | conferida (epígrafe) — Denúncia com aviso prévio |  |
+| art. 137.º CT | conferida (epígrafe) — Pacto de permanência |  |
+| art. 19.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 136.º CT | conferida (epígrafe) — Pacto de não concorrência |  |

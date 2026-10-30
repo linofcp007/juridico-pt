@@ -3,20 +3,22 @@ codigo: CNS-035
 area: "Direito do Consumo"
 titulo: "Subscrições e Renovação Automática: Cancelamento e Reembolso"
 titulo_en: "Subscriptions and Automatic Renewal: Cancellation and Refund"
-descricao: "Redige comunicação para cancelar subscrições com renovação automática (ginásios, revistas digitais, software, serviços em linha) e exigir reembolso de cobranças indevidas após cancelamento, ao abrigo do DL n.º 24/2014, da Lei n.º 24/96 e do DL n.º 57/2008 (práticas comerciais desleais), com referência às obrigações do Regulamento (UE) 2023/2673 (Digital Fairness Act, quando aplicável)."
-descricao_en: "Drafts a communication to cancel automatically renewing subscriptions (gyms, digital magazines, software, online services) and to demand a refund of undue charges after cancellation, under Decree-Law No. 24/2014, Law No. 24/96 and Decree-Law No. 57/2008 (unfair commercial practices), with reference to the obligations under Regulation (EU) 2023/2673 (Digital Fairness Act, where applicable)."
+descricao: "Redige comunicação para cancelar subscrições com renovação automática (ginásios, revistas digitais, software, serviços em linha) e exigir reembolso de cobranças indevidas após cancelamento, ao abrigo do DL n.º 24/2014, da Lei n.º 24/96 e do DL n.º 57/2008 (práticas comerciais desleais), com referência ao Regulamento (UE) 2022/2065 (Regulamento dos Serviços Digitais) quanto às interfaces das plataformas em linha."
+descricao_en: "Drafts a communication to cancel automatically renewing subscriptions (gyms, digital magazines, software, online services) and to demand a refund of undue charges after cancellation, under Decree-Law No. 24/2014, Law No. 24/96 and Decree-Law No. 57/2008 (unfair commercial practices), with reference to Regulation (EU) 2022/2065 (Digital Services Act) on the interfaces of online platforms."
 ambito: nacional
-estado_citacoes: "conferidas 0 · corrigidas 0 · por conferir 4"
+estado_citacoes: "conferidas 0 · corrigidas 0 · por conferir 10"
+revisao_tecnica: "2026-10-28 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
 # Subscrições e Renovação Automática: Cancelamento e Reembolso
 
 > **Âmbito:** nacional · **Área:** Direito do Consumo · **Código:** CNS-035
-> **EN:** Subscriptions and Automatic Renewal: Cancellation and Refund. Drafts a communication to cancel automatically renewing subscriptions (gyms, digital magazines, software, online services) and to demand a refund of undue charges after cancellation, under Decree-Law No. 24/2014, Law No. 24/96 and Decree-Law No. 57/2008 (unfair commercial practices), with reference to the obligations under Regulation (EU) 2023/2673 (Digital Fairness Act, where applicable).
-> **Citações:** conferidas 0 · corrigidas 0 · por conferir 4. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **EN:** Subscriptions and Automatic Renewal: Cancellation and Refund. Drafts a communication to cancel automatically renewing subscriptions (gyms, digital magazines, software, online services) and to demand a refund of undue charges after cancellation, under Decree-Law No. 24/2014, Law No. 24/96 and Decree-Law No. 57/2008 (unfair commercial practices), with reference to Regulation (EU) 2022/2065 (Digital Services Act) on the interfaces of online platforms.
+> **Citações:** conferidas 0 · corrigidas 0 · por conferir 10. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-28 — corrigida (5 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
-Redige comunicação para cancelar subscrições com renovação automática (ginásios, revistas digitais, software, serviços em linha) e exigir reembolso de cobranças indevidas após cancelamento, ao abrigo do DL n.º 24/2014, da Lei n.º 24/96 e do DL n.º 57/2008 (práticas comerciais desleais), com referência às obrigações do Regulamento (UE) 2023/2673 (Digital Fairness Act, quando aplicável).
+Redige comunicação para cancelar subscrições com renovação automática (ginásios, revistas digitais, software, serviços em linha) e exigir reembolso de cobranças indevidas após cancelamento, ao abrigo do DL n.º 24/2014, da Lei n.º 24/96 e do DL n.º 57/2008 (práticas comerciais desleais), com referência ao Regulamento (UE) 2022/2065 (Regulamento dos Serviços Digitais) quanto às interfaces das plataformas em linha.
 
 ## Método
 
@@ -24,7 +26,7 @@ Ficha de trabalho para preparar este documento. As regras da casa prevalecem sob
 
 ## Regras obrigatórias
 — A renovação automática sem aviso prévio adequado pode configurar prática comercial desleal (DL 57/2008).
-— O cancelamento deve ser tão fácil quanto a subscrição — obstáculos constituem dark patterns proibidos.
+— Entraves não contratuais onerosos ou desproporcionados ao cancelamento podem constituir prática comercial agressiva (art. 11.º, n.º 2, alínea d), DL 57/2008). Nas plataformas em linha, o art. 25.º do DSA proíbe interfaces enganosas ou manipuladoras, mas não se aplica às práticas abrangidas pelo DL 57/2008 (Diretiva 2005/29/CE); a Comissão pode emitir diretrizes sobre tornar o cancelamento mais difícil do que a subscrição (art. 25.º, n.º 3, alínea c), DSA). Não há regra geral expressa que imponha simetria entre subscrição e cancelamento [■ VERIFICAR: regimes setoriais aplicáveis, p. ex. comunicações eletrónicas].
 — NUNCA inventes normas. Usa pt-PT rigoroso. Disclaimer no final.
 
 ## Framework P.A.C.E.F:
@@ -40,11 +42,12 @@ Dentro de <analise_da_situacao>:
 
 ### ETAPA 2 — ANÁLISE JURÍDICA
 Dentro de <fundamentos_juridicos>:
-- DL 24/2014, art. 13.º: direito de livre resolução em contratos à distância
+- DL 24/2014, art. 10.º: direito de livre resolução em contratos à distância (14 dias)
 - DL 57/2008, art. 11.º: práticas comerciais agressivas (obstaculização ao cancelamento)
-- DL 57/2008, art. 7.º: práticas comerciais enganosas por omissão (não aviso da renovação)
-- Lei 24/96, art. 9.º: direito a rescisão de contratos de execução continuada
-- Regulamento (UE) 2023/2673: proibição de dark patterns em interfaces digitais
+- DL 57/2008, art. 9.º: omissões enganosas (não aviso da renovação)
+- Lei 24/96, art. 9.º: proteção dos interesses económicos — lealdade e boa-fé na vigência dos contratos (n.º 1), controlo das cláusulas pré-elaboradas (n.os 2 e 3) e não pagamento de serviços não solicitados ou que não constituam cumprimento de contrato válido (n.º 4); não consagra um direito geral de denúncia dos contratos de execução continuada
+- Regulamento (UE) 2022/2065 (DSA), art. 25.º: proibição de interfaces enganosas ou manipuladoras nas plataformas em linha, fora das práticas abrangidas pelo DL 57/2008
+- Diretiva (UE) 2023/2673 (é uma diretiva, não um regulamento, e não é o «Digital Fairness Act»): altera a Diretiva 2011/83/UE nos contratos de serviços financeiros à distância; impõe uma função de retratação (livre resolução) nos contratos à distância celebrados através de interface em linha (art. 11.º-A da Diretiva 2011/83/UE) e só proíbe interfaces manipuladoras nos serviços financeiros (art. 16.º-E), com aplicação a partir de 19/06/2026 [■ VERIFICAR: transposição para o DL 24/2014]
 - Eventuais cláusulas abusivas no contrato de adesão (DL 446/85)
 
 ### ETAPA 3 — ESTRATÉGIA
@@ -96,7 +99,13 @@ Dentro de <checklist_validacao>:
 
 | Citação | Estado | Nota |
 |---|---|---|
-| art. 13.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 11.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| art. 7.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 11.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 25.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 25.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 25.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 10.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 9.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 9.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 11.º-A | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 16.º-E | por conferir [■ VERIFICAR] | diploma não identificado |

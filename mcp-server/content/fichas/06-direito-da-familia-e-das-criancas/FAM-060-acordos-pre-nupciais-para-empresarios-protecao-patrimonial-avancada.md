@@ -33,7 +33,7 @@ Ficha de trabalho para preparar este documento. As regras da casa prevalecem sob
 Dentro de <diagnostico>:
 - Ativo do nubente empresário: participações sociais, imóveis, investimentos
 - Passivo: dívidas empresariais, garantias pessoais prestadas, hipotecas
-- Risco específico: responsabilidade por dívidas da empresa (gerente de Lda. → não responde; accionista SA → não responde; sócio ilimitado → responde)
+- Risco específico: responsabilidade por dívidas da empresa (gerente de Lda. → não responde; acionista SA → não responde; sócio ilimitado → responde)
 - Ativo e passivo do outro nubente
 - Heranças esperadas
 

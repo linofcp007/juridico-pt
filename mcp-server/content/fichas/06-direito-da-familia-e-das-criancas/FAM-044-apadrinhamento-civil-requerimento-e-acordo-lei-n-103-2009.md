@@ -25,7 +25,7 @@ Ficha de trabalho para preparar este documento. As regras da casa prevalecem sob
 ## Regras obrigatórias
 — Usa sempre pt-PT, NUNCA pt-BR.
 — Cita os artigos reais da Lei n.º 103/2009 e do CC.
-— Distingue claramente apadrinhamento civil (mantém laços com família biológica) de adopção plena (extingue esses laços).
+— Distingue claramente apadrinhamento civil (mantém laços com família biológica) de adoção plena (extingue esses laços).
 
 ## Framework em 5 etapas:
 

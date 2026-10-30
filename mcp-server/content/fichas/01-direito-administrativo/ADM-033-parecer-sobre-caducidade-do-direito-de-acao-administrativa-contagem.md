@@ -6,7 +6,8 @@ titulo_en: "Legal Opinion on the Time Bar of the Right to Bring an Administrativ
 descricao: "Elabora parecer jurídico sobre a contagem de prazos de impugnação em contencioso administrativo, verificando se o direito de ação ainda existe ou se caducou, com análise dos diferentes prazos aplicáveis (ação de impugnação, ação de condenação, contencioso pré-contratual, responsabilidade civil) e dos eventos que os iniciam, suspendem ou interrompem."
 descricao_en: "Prepares a legal opinion on calculating the time limits for challenges in administrative litigation, checking whether the right of action still exists or has lapsed (caducidade), with an analysis of the different applicable time limits (action to challenge an act, action for an order to act, pre-contractual litigation, civil liability) and of the events that start, suspend or interrupt them."
 ambito: nacional
-estado_citacoes: "conferidas 2 · corrigidas 0 · por conferir 1"
+estado_citacoes: "conferidas 8 · corrigidas 0 · por conferir 2"
+revisao_tecnica: "2026-10-30 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
@@ -14,7 +15,8 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 
 > **Âmbito:** nacional · **Área:** Direito Administrativo · **Código:** ADM-033
 > **EN:** Legal Opinion on the Time Bar of the Right to Bring an Administrative Action (Calculation of Time Limits). Prepares a legal opinion on calculating the time limits for challenges in administrative litigation, checking whether the right of action still exists or has lapsed (caducidade), with an analysis of the different applicable time limits (action to challenge an act, action for an order to act, pre-contractual litigation, civil liability) and of the events that start, suspend or interrupt them.
-> **Citações:** conferidas 2 · corrigidas 0 · por conferir 1. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 8 · corrigidas 0 · por conferir 2. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-30 — corrigida (7 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
 Elabora parecer jurídico sobre a contagem de prazos de impugnação em contencioso administrativo, verificando se o direito de ação ainda existe ou se caducou, com análise dos diferentes prazos aplicáveis (ação de impugnação, ação de condenação, contencioso pré-contratual, responsabilidade civil) e dos eventos que os iniciam, suspendem ou interrompem.
 
@@ -49,17 +51,18 @@ Apresenta dentro de um bloco <prazos_legais>:
 | Tipo de ação | Prazo | Fonte | Início |
 |---|---|---|---|
 | Impugnação de ato anulável | 3 meses | Art. 58.º, n.º 1, al. b), CPTA | Notificação |
-| Impugnação de ato nulo | Sem prazo | Art. 58.º, n.º 4, CPTA | — |
-| Condenação à prática de ato devido | 1 ano | Art. 69.º CPTA | Decurso do prazo de decisão |
+| Impugnação de ato nulo | Sem prazo | Art. 58.º, n.º 1, CPTA | — |
+| Condenação à prática de ato devido — inércia da Administração | 1 ano | Art. 69.º, n.º 1, CPTA | Termo do prazo legal de emissão do ato omitido |
+| Condenação à prática de ato devido — indeferimento, recusa de apreciação do requerimento ou pretensão de substituição de ato de conteúdo positivo | 3 meses | Art. 69.º, n.º 2, e art. 58.º, n.º 1, al. b), CPTA | Notificação do ato (art. 59.º CPTA) |
 | Contencioso pré-contratual | 1 mês | Art. 101.º CPTA | Notificação do ato |
-| Responsabilidade civil do Estado | 3 anos | Art. 498.º CC + art. 5.º RRCEE | Conhecimento do dano |
-| Recurso jurisdicional (1.ª instância) | 30 dias | Art. 141.º CPTA | Notificação da sentença |
-| Anulação administrativa | 5 anos | Art. 168.º CPA | Data do ato |
+| Responsabilidade civil do Estado (prazo de prescrição, com suspensão e interrupção nos termos do CC; não há prazo de caducidade da ação — art. 41.º, n.º 1, CPTA) | 3 anos | Art. 498.º, n.º 1, CC + art. 5.º RRCEE (Lei 67/2007) | Conhecimento, pelo lesado, do direito que lhe compete |
+| Recurso jurisdicional (1.ª instância) | 30 dias (15 dias nos processos urgentes — art. 147.º, n.º 1, CPTA) | Art. 144.º, n.º 1, CPTA | Notificação da decisão recorrida |
+| Anulação administrativa (poder da Administração, oficioso ou a pedido do interessado mediante reclamação ou recurso administrativo — art. 169.º, n.º 1, CPA; não é prazo de ação judicial) | 6 meses a contar do conhecimento da causa de invalidade pelo órgão competente, desde que não tenham decorrido 5 anos desde a emissão; atos constitutivos de direitos: 1 ano desde a emissão, salvo os casos do n.º 4 (5 anos) | Art. 168.º, n.os 1, 2 e 4, CPA | Conhecimento da causa de invalidade / emissão do ato |
 
 **Suspensão do prazo:**
 - Impugnação graciosa (reclamação, recurso hierárquico) suspende o prazo (art. 59.º, n.º 4, CPTA)
-- Férias judiciais suspendem prazos processuais (verificar CPC — arts. 138.º e 139.º)
-- Força maior (art. 140.º CPC — subsidiário)
+- Férias judiciais: os prazos de impugnação do art. 58.º, n.º 1, CPTA (também aplicáveis à condenação em caso de indeferimento — art. 69.º, n.º 2) contam-se nos termos do art. 279.º CC e não se suspendem em férias judiciais; se terminarem em férias ou em dia em que os tribunais estejam encerrados, o termo transfere-se para o 1.º dia útil seguinte (art. 58.º, n.º 2, CPTA). A suspensão em férias (art. 138.º, n.º 1, CPC) vale para os prazos processuais, salvo nos processos urgentes [■ VERIFICAR: regime de contagem dos prazos dos arts. 69.º, n.º 1, e 101.º CPTA, que não remetem para o n.º 2 do art. 58.º]
+- Justo impedimento e atraso desculpável: a impugnação é admitida para além do prazo de 3 meses quando ocorra justo impedimento, nos termos da lei processual civil (art. 58.º, n.º 3, al. a), CPTA, e art. 140.º CPC); o mesmo n.º 3 admite-a ainda no prazo de 3 meses após a cessação do erro induzido pela conduta da Administração (al. b)) e, enquanto não tiver decorrido 1 ano sobre a prática ou a publicação do ato, quando o atraso seja desculpável (al. c))
 
 ### ETAPA 3 — CONSTRUÇÃO DO PARECER
 Apresenta dentro de um bloco <calculo_de_prazos>:
@@ -129,6 +132,13 @@ Apresenta dentro de um bloco <checklist_validacao>:
 
 | Citação | Estado | Nota |
 |---|---|---|
+| art. 58.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 59.º, n.º 4, CPTA | conferida (epígrafe) — Início dos prazos de impugnação |  |
-| arts. 138.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 58.º, n.º 1, CPTA | conferida (epígrafe) — Prazos |  |
+| art. 69.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 279.º CC | conferida (epígrafe) — Cômputo do termo |  |
+| art. 58.º, n.º 2, CPTA | conferida (epígrafe) — Prazos |  |
+| art. 138.º, n.º 1, CPC | conferida (índice) |  |
+| arts. 69.º, n.º 1, e 101.º CPTA | conferida (epígrafe) — Prazos |  |
+| art. 58.º, n.º 3, al. a), CPTA | conferida (epígrafe) — Prazos |  |
 | art. 140.º CPC | conferida (epígrafe) — Justo impedimento |  |

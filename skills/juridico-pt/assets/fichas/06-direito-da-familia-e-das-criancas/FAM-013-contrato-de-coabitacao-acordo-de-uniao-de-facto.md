@@ -53,7 +53,7 @@ Apresenta dentro de um bloco <fundamentos_juridicos>:
 - Art. 2.º-A Lei 7/2001 (prova da união de facto — declaração emitida pela Junta de Freguesia)
 - Arts. 2.º e 3.º Lei 7/2001 (direitos dos membros da UF: proteção da casa de morada, alimentos, beneficiário em seguro)
 - Art. 4.º Lei 7/2001 (dissolução da união de facto — causas; proteção da casa)
-- Arts. 1.978.º ss. CC (adopção por membros de UF — VERIFICAR se relevante)
+- Arts. 1.978.º ss. CC (adoção por membros de UF — VERIFICAR se relevante)
 - Código do IRS: deduções para membros de UF (equiparação a casados — VERIFICAR situação atual)
 - Regime jurídico da compropriedade (arts. 1.403.º ss. CC) — para bens adquiridos em comum
 - Impossibilidade de criar direitos sucessórios legítimos por contrato: apenas por testamento

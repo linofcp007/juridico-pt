@@ -1,0 +1,568 @@
+[
+  {
+    "codigo": "PRC-028",
+    "veredicto": "corrigida",
+    "resumo": "A ficha descrevia mal o regime das custas de parte: mandava reclamar honorários pela tabela da Ordem dos Advogados e uma «taxa de justiça reembolsável de 50 %», contava o prazo da notificação e pedia ao juiz que «aprovasse» a nota e condenasse a parte vencida. Pelos arts. 25.º, 26.º e 26.º-A do RCP, a nota é remetida até 10 dias após o trânsito em julgado ao tribunal, à parte vencida e, se for o caso, ao agente de execução; a compensação de honorários é 50 % do somatório das taxas de justiça pagas por ambas as partes, reduzida aos honorários efetivamente pagos; a parte vencida paga diretamente ou reclama em 10 dias com depósito do valor da nota. Corrigi as regras, a análise, a estrutura da nota (rubricas do art. 25.º, n.º 2), o pedido, a checklist e a entrevista. A suspeita da triagem de um prazo de 5 dias úteis estava errada: o prazo é de 10 dias.",
+    "substituicoes": [
+      {
+        "de": "- Custas de parte incluem: (1) taxa de justiça paga pela parte vencedora; (2) 50% da taxa de justiça paga (reembolsável); (3) encargos suportados; (4) honorários de advogado\n- Honorários: limitados nos termos da tabela indicativa da Ordem dos Advogados e proporcionalidade ao valor da causa",
+        "para": "- Prazo: até 10 dias após o trânsito em julgado (na ação executiva, após a notificação de que foi obtida a totalidade do pagamento ou do produto da penhora), a parte remete a nota discriminativa e justificativa ao tribunal, à parte vencida e, quando aplicável, ao agente de execução; a nota pode ser retificada até 10 dias após a notificação da conta de custas (art. 25.º, n.º 1, RCP)\n- Custas de parte (art. 26.º, n.º 3, RCP): (a) taxas de justiça pagas pela parte vencedora, na proporção do vencimento; (b) encargos pagos pela parte vencedora, incluindo as despesas do agente de execução; (c) 50 % do somatório das taxas de justiça pagas pela parte vencida e pela parte vencedora, para compensação das despesas com honorários do mandatário judicial; (d) honorários do agente de execução\n- Honorários do mandatário: não se reclamam pelo valor da nota de honorários nem por qualquer tabela da Ordem dos Advogados. A compensação é a da al. c) do n.º 3 do art. 26.º RCP, reduzida ao valor dos honorários efetivamente pagos quando este for inferior, e não é devida se não tiver sido constituído mandatário (art. 26.º, n.º 5, RCP)\n- A nota não é aprovada pelo juiz: a parte vencida paga diretamente à parte credora (art. 26.º, n.º 2, RCP) ou reclama da nota no prazo de 10 dias, com depósito da totalidade do seu valor (art. 26.º-A, n.os 1 e 2, RCP)",
+        "motivo": "Composição das custas de parte, cálculo da compensação de honorários, prazo e procedimento descritos fora do regime do RCP",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=967A0025&nid=967&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Qual o valor da causa e a tabela aplicável?\n- Há honorários fixados na sentença ou em acordo?\n- Qual o prazo de apresentação (10 dias após notificação)?",
+        "para": "- Qual o valor da causa e quais as taxas de justiça pagas por cada uma das partes (incluindo as dos procedimentos e incidentes, mas não multas, penalidades, taxa sancionatória ou agravamentos — art. 26.º, n.º 4, RCP)?\n- Qual a proporção do vencimento fixada na decisão?\n- Quanto foi efetivamente pago ao mandatário a título de honorários (a compensação reduz-se a esse valor se for inferior)?\n- Quando transitou em julgado a decisão (a nota é remetida até 10 dias após o trânsito)?",
+        "motivo": "Prazo conta-se do trânsito em julgado, não da notificação; a tabela da OA e os honorários fixados não relevam",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=967A0025&nid=967&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Art. 25.º RCP — custas de parte\n- Art. 26.º RCP — conteúdo das custas de parte\n- Tabela de honorários OA — valores indicativos conforme o valor da causa",
+        "para": "- Art. 25.º RCP — nota justificativa: prazo, destinatários e elementos obrigatórios\n- Art. 26.º RCP — conteúdo das custas de parte\n- Art. 26.º-A RCP — reclamação da nota pela parte vencida (10 dias, com depósito da totalidade do valor da nota)",
+        "motivo": "A tabela da OA não é base legal das custas de parte; falta a reclamação do art. 26.º-A",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=967A0025&nid=967&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Calcular honorários proporcionais ao valor e à complexidade\n- Verificar o limite aplicável",
+        "para": "- Calcular a compensação de honorários: 50 % do somatório das taxas de justiça pagas pela parte vencida e pela parte vencedora (art. 26.º, n.º 3, al. c), RCP), reduzida aos honorários efetivamente pagos se estes forem inferiores (art. 26.º, n.º 5, RCP)\n- Aplicar à taxa de justiça paga pela parte vencedora a proporção do vencimento (art. 26.º, n.º 3, al. a), RCP)",
+        "motivo": "A compensação de honorários é um valor legal, não proporcional ao valor e à complexidade",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=967A0025&nid=967&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "[Aplicar art. 25.º, n.º 1, al. a) RCP — taxa de justiça paga × percentagem]",
+        "para": "[Rubrica autónoma — art. 25.º, n.º 2, al. b), RCP; valor a receber na proporção do vencimento — art. 26.º, n.º 3, al. a), RCP]",
+        "motivo": "O n.º 1 do art. 25.º não tem alíneas; a proporção do vencimento está no art. 26.º, n.º 3, al. a)",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=967A0025&nid=967&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "c) Honorários de Advogado\n\"Honorários devidos ao mandatário da Parte Vencedora: € ___\n(Calculados com base no valor da causa de € ___, nos termos da tabela indicativa da OA,\ntendo em conta a complexidade do processo e as diligências realizadas)\"\n[Lista de diligências: petição inicial, conferência de partes, audiência de julgamento, alegações, etc.]\n\nd) Despesas Diversas\n\"Despesas com notificações, transportes e outros encargos documentados: € ___\"",
+        "para": "c) Compensação pelas despesas com honorários do mandatário\n\"Honorários pagos ao mandatário da Parte Vencedora: € ___ (Doc. n.º ___)\nTaxas de justiça pagas pela Parte Vencida (€ ___) e pela Parte Vencedora (€ ___): somatório de € ___\nCompensação: 50 % do somatório = € ___ (art. 26.º, n.º 3, al. c), RCP)\"\n[Rubrica autónoma — art. 25.º, n.º 2, al. d), RCP; a quantia paga ao mandatário pode não ser indicada quando seja superior à compensação. Se os honorários pagos forem inferiores, a compensação reduz-se a esse valor (art. 26.º, n.º 5, RCP). Sem mandatário constituído não há compensação.]\n\nd) Agente de execução (só na ação executiva)\n\"Despesas e honorários pagos ao agente de execução: € ___ (Doc. n.º ___)\"\n[Art. 26.º, n.º 3, als. b) e d), RCP. Só entram nas custas de parte as quantias das als. a) a d) do n.º 3 do art. 26.º RCP; despesas da parte que não tenham sido pagas a título de encargos do processo (art. 16.º RCP) não são custas de parte.]",
+        "motivo": "Honorários não se calculam pela tabela da OA nem pelas diligências; despesas diversas da parte não são custas de parte",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=967A0016&nid=967&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "\"Nestes termos, requer a V. Exa. se digne aprovar a presente nota de custas\ne condenar a Parte Vencida a pagar à Parte Vencedora a quantia de € ___.\"",
+        "para": "\"Nestes termos, requer a V. Exa. a junção aos autos da presente nota, que nesta data\né também remetida à Parte Vencida [e ao agente de execução] (art. 25.º, n.º 1, RCP),\ndevendo a Parte Vencida pagar diretamente à Parte Vencedora a quantia de € ___\n(art. 26.º, n.º 2, RCP).\"\n[A nota não carece de aprovação judicial; a Parte Vencida pode reclamar dela no prazo de 10 dias, com depósito da totalidade do seu valor (art. 26.º-A RCP).]",
+        "motivo": "O RCP não prevê aprovação da nota nem nova condenação; a parte vencida paga diretamente ou reclama",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=967A0025&nid=967&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- [ ] Honorários calculados com referência à tabela OA e ao valor da causa",
+        "para": "- [ ] Compensação de honorários calculada em 50 % do somatório das taxas de justiça de ambas as partes e limitada aos honorários pagos (art. 26.º, n.os 3, al. c), e 5, RCP)",
+        "motivo": "Critério de cálculo da compensação de honorários",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=967A0025&nid=967&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- [ ] Prazo de 10 dias respeitado",
+        "para": "- [ ] Nota remetida até 10 dias após o trânsito em julgado ao tribunal, à parte vencida e, quando aplicável, ao agente de execução (art. 25.º, n.º 1, RCP)",
+        "motivo": "Termo inicial e destinatários da nota",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=967A0025&nid=967&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Data de notificação: [data]\n\n**VALOR DA CAUSA:**\n[€ valor]\n\n**TAXA DE JUSTIÇA PAGA:**\n[€ valor — juntar DUC/comprovativo]\n\n**HONORÁRIOS:**\n[€ valor pretendido — lista das diligências realizadas]\n\n**ENCARGOS:**\n[Lista de despesas documentadas: certidões, perícias, deslocações, etc.]",
+        "para": "- Data de notificação: [data]\n- Data do trânsito em julgado: [data]\n\n**VALOR DA CAUSA:**\n[€ valor]\n\n**TAXAS DE JUSTIÇA PAGAS:**\n[€ valor pago pela parte vencedora — juntar DUC/comprovativo]\n[€ valor pago pela parte vencida — consultar os autos]\n[proporção do vencimento fixada na decisão]\n\n**HONORÁRIOS PAGOS AO MANDATÁRIO:**\n[€ valor — nota de honorários e recibo]\n\n**ENCARGOS:**\n[Lista dos encargos pagos: perícias, certidões, compensações de testemunhas, despesas de transporte de diligências do processo, despesas do agente de execução, etc.]",
+        "motivo": "Dados necessários ao cálculo legal: trânsito, taxas de ambas as partes, proporção do vencimento e honorários efetivamente pagos",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=967A0025&nid=967&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Confirmar na decisão a proporção do vencimento e se alguma das partes beneficia de isenção ou de apoio judiciário (art. 26.º, n.os 6 e 7, RCP: o reembolso passa a correr pelo IGFEJ ou reverte a seu favor).",
+      "O RCP foi alterado pela Lei n.º 34/2026, de 27 de julho (24.ª versão no PGDL); os arts. 25.º, 26.º e 26.º-A não constam como alterados por ela, mas convém confirmar no Diário da República.",
+      "Confirmar a contagem do prazo de 10 dias no caso concreto (férias judiciais) e, na ação executiva, qual o facto que lhe dá início.",
+      "Se a nota for reclamada, a decisão só admite recurso, em um grau, se o valor da nota exceder 50 UC (art. 26.º-A, n.º 3, RCP).",
+      "Confirmar o meio de cobrança se a parte vencida não pagar as custas de parte."
+    ],
+    "fontes": [
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=967A0025&nid=967&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=967A0016&nid=967&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+    ]
+  },
+  {
+    "codigo": "PRC-034",
+    "veredicto": "corrigida",
+    "resumo": "A ficha seguia o regime do CPC de 1961: um pedido autónomo de «aclaração» de obscuridades e ambiguidades, com prazo de 10 dias, e a omissão de pronúncia suprida por retificação. No CPC de 2013 não há aclaração: o art. 614.º só permite retificar erros materiais (nome das partes, custas, elementos do art. 607.º, n.º 6, erros de escrita ou de cálculo, lapsos manifestos), antes de o recurso subir ou, sem recurso, a todo o tempo; a ambiguidade ou obscuridade que torne a decisão ininteligível e a omissão de pronúncia são nulidades (art. 615.º, n.º 1, als. c) e d)), arguidas perante o juiz só se a sentença não admitir recurso ordinário (n.º 4); a reforma está no art. 616.º. Reescrevi as regras, a análise, as opções da peça (com uma opção de reforma), o pedido, a checklist, a entrevista e o título e a descrição do índice.",
+    "titulo": "Pedido de Retificação / Reforma de Sentença",
+    "titulo_en": "Request for Rectification / Amendment of a Judgment",
+    "descricao": "Gera o requerimento de retificação de erros materiais da sentença (art. 614.º do CPC) — erros de escrita ou de cálculo, omissões quanto ao nome das partes ou a custas, lapsos manifestos —, de reforma (art. 616.º do CPC) ou de arguição de nulidades (art. 615.º do CPC) perante o juiz que a proferiu, distinguindo o que só pode ser invocado em recurso.",
+    "descricao_en": "Generates the application to rectify clerical errors in a judgment (Article 614 CPC) — clerical or arithmetical errors, omissions as to the names of the parties or costs, manifest slips —, to amend it (Article 616 CPC) or to raise its nullity (Article 615 CPC) before the judge who delivered it, distinguishing what can only be raised on appeal.",
+    "substituicoes": [
+      {
+        "de": "- Art. 614.º CPC: o juiz pode retificar erros materiais ou de cálculo; aclarar obscuridades; suprir omissões — MAS NÃO pode alterar o fundo da decisão\n- Prazo: 10 dias (n.º 1) para pedido das partes; o juiz pode retificar de ofício a qualquer momento (n.º 2)\n- Nulidades da sentença (art. 615.º CPC) são diferentes da aclaração: vão para recurso, não para aclaração",
+        "para": "- Proferida a sentença, esgota-se o poder jurisdicional do juiz quanto à matéria da causa; pode ainda retificar erros materiais, suprir nulidades e reformar a sentença (art. 613.º, n.os 1 e 2, CPC). O CPC de 2013 não prevê um pedido autónomo de aclaração\n- Art. 614.º CPC: retificação por simples despacho, a requerimento de qualquer das partes ou por iniciativa do juiz, se a sentença omitir o nome das partes, for omissa quanto a custas ou a algum dos elementos do art. 607.º, n.º 6, CPC, ou contiver erros de escrita ou de cálculo ou inexatidões devidas a outra omissão ou lapso manifesto — sem alterar o sentido da decisão\n- Prazo da retificação: não há prazo de 10 dias; havendo recurso, só antes de ele subir (art. 614.º, n.º 2, CPC); não havendo recurso, a todo o tempo (art. 614.º, n.º 3, CPC)\n- Nulidades da sentença (art. 615.º CPC), entre elas a ambiguidade ou obscuridade que torne a decisão ininteligível (n.º 1, al. c)) e a omissão de pronúncia (n.º 1, al. d)): as das als. b) a e) só se arguem perante o tribunal que proferiu a sentença se esta não admitir recurso ordinário; cabendo recurso, são fundamento do recurso (art. 615.º, n.º 4, CPC) e o juiz aprecia-as no despacho sobre a admissão do recurso (art. 617.º, n.º 1, CPC)\n- Reforma (art. 616.º CPC): quanto a custas e multa (n.º 1; cabendo recurso, pede-se na alegação, n.º 3); e, só se a decisão não admitir recurso, por manifesto lapso do juiz na determinação da norma aplicável ou na qualificação jurídica dos factos, ou quando constem do processo documentos ou outro meio de prova plena que, só por si, impliquem necessariamente decisão diversa (n.º 2)\n- A arguição de nulidade e o pedido de reforma deduzidos perante o juiz seguem o prazo geral de 10 dias (art. 149.º, n.º 1, CPC) [■ VERIFICAR: efeito do requerimento sobre o prazo de recurso — o CPC não prevê que suspenda o prazo de 30 dias do art. 638.º, n.º 1, CPC]",
+        "motivo": "Regime do CPC de 1961 (aclaração com prazo de 10 dias); no CPC de 2013 a retificação, as nulidades e a reforma têm regimes e prazos próprios",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0613&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- O vício é de aclaração (obscuridade, ambiguidade) ou de reforma (erro material, cálculo, omissão)?\n- O vício pode ser corrigido sem alterar o fundo da decisão?\n- Ou é uma nulidade da sentença (art. 615.º) que deve ir a recurso?\n- O prazo de 10 dias está a ser respeitado?",
+        "para": "- O vício é um erro material (art. 614.º CPC: nome das partes, custas, elementos do art. 607.º, n.º 6, CPC, erro de escrita ou de cálculo, lapso manifesto), uma nulidade (art. 615.º CPC: incluindo a ambiguidade ou obscuridade que torne a decisão ininteligível e a omissão de pronúncia) ou fundamento de reforma (art. 616.º CPC)?\n- Sendo erro material, a correção deixa intocado o sentido da decisão? (se o altera, é erro de julgamento, a atacar por recurso)\n- A sentença admite recurso ordinário? (se admite, as nulidades das als. b) a e) do n.º 1 do art. 615.º e a reforma quanto a custas e multa invocam-se no recurso — arts. 615.º, n.º 4, e 616.º, n.º 3, CPC)\n- Que prazo corre? (retificação: antes de o recurso subir ou, sem recurso, a todo o tempo; nulidade ou reforma perante o juiz: 10 dias, art. 149.º, n.º 1, CPC; acautelar o prazo do recurso, art. 638.º, n.º 1, CPC)",
+        "motivo": "Qualificação do vício e prazos segundo o CPC de 2013",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0613&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Art. 614.º CPC — aclaração e reforma\n- Art. 615.º CPC — nulidades da sentença (para distinguir)\n- Jurisprudência sobre o âmbito da aclaração vs recurso",
+        "para": "- Art. 613.º CPC — extinção do poder jurisdicional e suas limitações\n- Art. 614.º CPC — retificação de erros materiais\n- Art. 615.º CPC — nulidades da sentença (para distinguir)\n- Art. 616.º CPC — reforma da sentença\n- Art. 617.º CPC — processamento subsequente (apreciação no despacho de admissão do recurso)\n- Jurisprudência sobre a fronteira entre erro material, nulidade e erro de julgamento (citar só acórdãos confirmados em dgsi.pt)",
+        "motivo": "O art. 614.º não regula a aclaração nem a reforma; a reforma está no art. 616.º",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0613&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Demonstrar que a correção não altera o fundo",
+        "para": "- Na retificação, demonstrar que a correção não altera o sentido da decisão (lapso manifesto, não erro de julgamento)",
+        "motivo": "Só a retificação está limitada a não alterar a decisão; a reforma do art. 616.º, n.º 2, altera-a",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0613&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Se há nulidade (art. 615.º), decidir se vai por aclaração ou recurso",
+        "para": "- Se há nulidade (art. 615.º) ou fundamento de reforma (art. 616.º), confirmar se a sentença admite recurso ordinário: se admite, invocá-los na alegação de recurso; se não admite, arguir perante o juiz no prazo de 10 dias",
+        "motivo": "Não há via de aclaração; a escolha é entre arguição perante o juiz e recurso, conforme a recorribilidade",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0613&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "[Nome da parte] vem, ao abrigo do art. 614.º do CPC, requerer a\n\nACLARAÇÃO / REFORMA DA SENTENÇA",
+        "para": "[Nome da parte] vem, ao abrigo do art. 614.º do CPC [ou, não admitindo a sentença recurso ordinário, do art. 615.º, n.º 4, do CPC ou do art. 616.º, n.os 1 ou 2, do CPC], requerer a\n\nRETIFICAÇÃO DA SENTENÇA [ou ARGUIÇÃO DE NULIDADE / REFORMA DA SENTENÇA]",
+        "motivo": "A aclaração não existe no CPC de 2013",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0613&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "\"A sentença proferida em [data] contém [obscuridade / ambiguidade / erro\nmaterial / erro de cálculo / omissão], nos seguintes termos:\"",
+        "para": "\"A sentença proferida em [data] contém [erro de escrita / erro de cálculo /\nomissão quanto a custas / ambiguidade que torna a decisão ininteligível / omissão de pronúncia], nos seguintes termos:\"",
+        "motivo": "Tipologia dos vícios segundo os arts. 614.º e 615.º",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0613&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "Opção A — Obscuridade / Ambiguidade:\n\"No ponto ___ da sentença, lê-se: [transcrição]. Esta passagem é obscura\n/ ambígua porque [razão]. A Parte necessita de aclaração para saber se\n[interpretação A] ou [interpretação B].\"",
+        "para": "Opção A — Ambiguidade ou obscuridade que torne a decisão ininteligível (nulidade — art. 615.º, n.º 1, al. c), CPC; perante o juiz só se a sentença não admitir recurso ordinário, art. 615.º, n.º 4, CPC):\n\"No ponto ___ da sentença, lê-se: [transcrição]. Esta passagem é [obscura\n/ ambígua] porque [razão], não sendo possível apreender se o tribunal decidiu\n[interpretação A] ou [interpretação B], o que torna a decisão ininteligível.\"",
+        "motivo": "A obscuridade ou ambiguidade só releva como nulidade da al. c) do n.º 1 do art. 615.º",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0613&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "Opção B — Erro de cálculo:",
+        "para": "Opção B — Erro de cálculo (retificação — art. 614.º, n.º 1, CPC):",
+        "motivo": "Base legal da retificação do erro de cálculo",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0613&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "Opção C — Omissão de pronúncia:\n\"A sentença não se pronunciou sobre o pedido de [descrição do pedido\nformulado no artigo ___ da petição], omissão que pode ser suprida ao\nabrigo do art. 614.º, n.º 1 do CPC.\"",
+        "para": "Opção C — Omissão de pronúncia (nulidade — art. 615.º, n.º 1, al. d), CPC; perante o juiz só se a sentença não admitir recurso ordinário, art. 615.º, n.º 4, CPC):\n\"A sentença não se pronunciou sobre o pedido de [descrição do pedido\nformulado no artigo ___ da petição], questão que devia apreciar, o que\nconstitui a nulidade prevista no art. 615.º, n.º 1, al. d), do CPC, que se\nargui por a sentença não admitir recurso ordinário (art. 615.º, n.º 4, do CPC).\"\n[Se a omissão respeitar ao nome das partes, a custas ou aos elementos do art. 607.º, n.º 6, CPC, é caso de retificação (art. 614.º, n.º 1, CPC).]\n\nOpção D — Reforma (art. 616.º CPC):\n\"[Quanto a custas e multa: a condenação em [custas / multa] deve ser reformada porque ___.]\n[Só se a sentença não admitir recurso: por manifesto lapso, a sentença [aplicou a norma ___ /\nqualificou os factos como ___], quando ___; ou o documento [Doc. ___], com força probatória\nplena, implica necessariamente decisão diversa da proferida.]\"",
+        "motivo": "A omissão de pronúncia é nulidade do art. 615.º, n.º 1, al. d), e não erro material retificável; faltava a via da reforma",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0613&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "\"Nestes termos, requer a V. Exa. se digne [aclarar a passagem / retificar\no cálculo / suprir a omissão], no sentido de [resultado pretendido], sem\nalterar o fundo da decisão.\"",
+        "para": "\"Nestes termos, requer a V. Exa. se digne [retificar o erro de escrita ou de\ncálculo / declarar a nulidade e supri-la / reformar a sentença quanto a ___],\nno sentido de [resultado pretendido].\"",
+        "motivo": "Pedidos possíveis no CPC de 2013; a reforma do art. 616.º, n.º 2, altera a decisão",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0613&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- [ ] Prazo de 10 dias respeitado\n- [ ] Vício identificado com transcrição exata da passagem\n- [ ] Demonstrado que não altera o fundo da decisão\n- [ ] Interpretação ou cálculo correto proposto\n- [ ] Pedido de aclaração / reforma formulado",
+        "para": "- [ ] Prazo verificado (retificação: antes de o recurso subir ou, sem recurso, a todo o tempo; nulidade ou reforma perante o juiz: 10 dias, art. 149.º, n.º 1, CPC) e prazo do recurso acautelado\n- [ ] Confirmado se a sentença admite recurso ordinário (se admite, nulidades e reforma quanto a custas e multa vão na alegação)\n- [ ] Vício identificado com transcrição exata da passagem\n- [ ] Na retificação, demonstrado que se trata de lapso manifesto e não de erro de julgamento\n- [ ] Interpretação ou cálculo correto proposto\n- [ ] Pedido de retificação, de suprimento da nulidade ou de reforma formulado",
+        "motivo": "Prazos e vias do CPC de 2013",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0149&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- Tipo: [obscuridade / ambiguidade / erro de cálculo / omissão de pronúncia]",
+        "para": "- Tipo: [erro de escrita ou de cálculo / omissão quanto ao nome das partes, a custas ou a elementos do art. 607.º, n.º 6, CPC / ambiguidade ou obscuridade que torne a decisão ininteligível / omissão de pronúncia / custas e multa / lapso manifesto na norma aplicável ou na prova plena]\n- A sentença admite recurso ordinário: [sim/não — valor da causa e sucumbência]",
+        "motivo": "A recorribilidade decide a via a seguir",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0613&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Confirmar na jurisprudência se o requerimento de retificação, a arguição de nulidade ou o pedido de reforma afetam o prazo de 30 dias do recurso (art. 638.º, n.º 1, CPC); na dúvida, interpor o recurso dentro do prazo e invocar ali as nulidades.",
+      "Confirmar o termo inicial do prazo de 10 dias para arguir a nulidade ou pedir a reforma perante o juiz (notificação da sentença).",
+      "A fronteira entre erro material retificável e erro de julgamento é casuística: confirmar a jurisprudência em dgsi.pt antes de optar pela retificação.",
+      "O título e a descrição do índice passaram de «aclaração» a «retificação»: confirmar que a mudança não afeta remissões noutros documentos."
+    ],
+    "fontes": [
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0613&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0149&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0638&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+    ]
+  },
+  {
+    "codigo": "PRC-046",
+    "veredicto": "corrigida",
+    "resumo": "No regime da UE a ficha redigia um requerimento ao Juízo Central Cível para «declarar a executoriedade» da decisão, procedimento do Regulamento (CE) n.º 44/2001 que o Regulamento (UE) n.º 1215/2012 suprimiu: a decisão executória no Estado-Membro de origem executa-se sem declaração (art. 39.º), apresentando à autoridade de execução cópia autêntica da decisão e a certidão do art. 53.º (art. 42.º), e os fundamentos de recusa são invocados pelo executado (arts. 45.º a 47.º). Reescrevi essa peça como requerimento executivo, com os documentos, a notificação prévia da certidão (art. 43.º) e o regime transitório (art. 66.º). Na revisão de decisões de Estados terceiros, corrigi o tribunal competente, o conteúdo dos arts. 981.º, 982.º e 984.º CPC e os requisitos do art. 980.º, e esclareci que a execução só se instaura depois da confirmação (art. 706.º CPC). Corrigi também a descrição do índice.",
+    "descricao": "Gera, para decisões de Estados-Membros da UE, o requerimento executivo ao abrigo do Regulamento (UE) n.º 1215/2012 (Bruxelas I-bis), que dispensa qualquer declaração de executoriedade, e, para decisões de Estados terceiros, o pedido de revisão e confirmação de sentença estrangeira ao Tribunal da Relação (artigos 978.º e ss. do CPC).",
+    "descricao_en": "Generates, for judgments from EU Member States, the enforcement application under Regulation (EU) No. 1215/2012 (Brussels I bis), which requires no declaration of enforceability, and, for judgments from third States, the application for review and confirmation of a foreign judgment to the Court of Appeal (Tribunal da Relação) (Articles 978 et seq. CPC).",
+    "substituicoes": [
+      {
+        "de": "— Distingue rigorosamente o regime UE (Bruxelas I-bis, automático) do regime de exequatur nacional (art. 978.º CPC, para Estados terceiros).\n— Usa terminologia correta: «declaração de executoriedade» (UE) vs. «revisão e confirmação de sentença estrangeira» (terceiros).",
+        "para": "— Distingue rigorosamente o regime UE (Bruxelas I-bis: reconhecimento sem quaisquer formalidades e execução sem declaração de executoriedade) do regime de revisão e confirmação (art. 978.º CPC, para decisões de Estados terceiros, sem prejuízo de tratados, convenções e leis especiais).\n— Usa terminologia correta: no regime UE não há exequatur nem «declaração de executoriedade» (arts. 36.º, n.º 1, e 39.º do Regulamento (UE) n.º 1215/2012) — executa-se diretamente; «revisão e confirmação de sentença estrangeira» é o regime de Estados terceiros.\n— O Regulamento (UE) n.º 1215/2012 só se aplica a ações intentadas em 10 de janeiro de 2015 ou depois; às decisões proferidas em ações anteriores continua a aplicar-se o Regulamento (CE) n.º 44/2001 (art. 66.º do Regulamento (UE) n.º 1215/2012), que tem procedimento próprio, não tratado nesta ficha.",
+        "motivo": "A «declaração de executoriedade» foi suprimida pelo Regulamento 1215/2012; falta o regime transitório",
+        "fonte": "https://publications.europa.eu/resource/celex/32012R1215"
+      },
+      {
+        "de": "- Documentos obrigatórios (art. 37.º Bruxelas I-bis ou art. 981.º CPC)\n- Tribunal competente em Portugal (Juízo Central Cível competente)",
+        "para": "- Documentos: para executar, cópia autêntica da decisão e certidão do art. 53.º (art. 42.º, n.º 1, Bruxelas I-bis); para invocar a decisão noutro processo, os do art. 37.º Bruxelas I-bis; na revisão, o documento de que conste a decisão a rever, apresentado com a petição (art. 981.º CPC)\n- Tribunal competente em Portugal: regime UE — o tribunal de execução, em regra o do domicílio do executado (arts. 86.º e 90.º CPC) ou, não tendo domicílio em Portugal, o da situação dos bens (art. 89.º, n.º 3, CPC); Estado terceiro — o Tribunal da Relação da área em que esteja domiciliada a pessoa contra quem se pretende fazer valer a sentença (art. 979.º CPC)\n- Data de instauração da ação no Estado de origem (antes de 10 de janeiro de 2015: Regulamento (CE) n.º 44/2001)",
+        "motivo": "Documentos da execução estão no art. 42.º; o Juízo Central Cível não é competente nem para a execução UE nem para a revisão",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0978&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Regulamento (UE) n.º 1215/2012, arts. 36.º a 44.º (reconhecimento automático e execução)\n- Artigo 39.º Bruxelas I-bis (executoriedade automática — sem exequatur prévio)\n- Artigo 46.º Bruxelas I-bis (recusa de reconhecimento — ordem pública, etc.)",
+        "para": "- Regulamento (UE) n.º 1215/2012, arts. 36.º a 44.º (reconhecimento sem formalidades e execução)\n- Artigo 39.º Bruxelas I-bis (a decisão executória no Estado-Membro de origem executa-se noutro Estado-Membro sem declaração de executoriedade)\n- Artigos 41.º a 43.º Bruxelas I-bis (execução segundo a lei do Estado-Membro requerido; documentos a facultar à autoridade de execução; notificação da certidão ao executado antes da primeira medida de execução)\n- Artigos 45.º a 47.º Bruxelas I-bis (fundamentos de recusa — ordem pública, revelia sem citação regular e em tempo útil, decisões inconciliáveis, regras de competência protetoras e exclusivas — invocados pelo executado em pedido de recusa da execução)",
+        "motivo": "O art. 46.º regula a recusa da execução a pedido do executado; faltavam os arts. 41.º a 43.º e 47.º",
+        "fonte": "https://publications.europa.eu/resource/celex/32012R1215"
+      },
+      {
+        "de": "- Artigo 984.º CPC (decisão do tribunal de revisão)",
+        "para": "- Artigo 981.º CPC (petição com o documento de que conste a decisão a rever; oposição em 15 dias e resposta em 10 dias)\n- Artigo 982.º CPC (discussão e julgamento, segundo as regras próprias da apelação)\n- Artigo 983.º CPC (fundamentos da impugnação do pedido)\n- Artigo 984.º CPC (atividade oficiosa do tribunal: verifica as als. a) e f) do art. 980.º e nega a confirmação se apurar a falta das als. b) a e))",
+        "motivo": "O art. 984.º trata da atividade oficiosa do tribunal; a discussão e julgamento estão no art. 982.º",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0984&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Documentos a juntar (certidão da decisão, tradução, certidão do art. 53.º Bruxelas I-bis)\n- Pedido de declaração de executoriedade ou de revisão e confirmação\n- Indicação dos bens a executar em Portugal",
+        "para": "- Documentos a juntar (cópia autêntica da decisão, certidão do art. 53.º Bruxelas I-bis; tradução só se exigida — art. 42.º, n.os 3 e 4, Bruxelas I-bis)\n- Regime UE: requerimento executivo, com indicação dos bens a penhorar em Portugal\n- Estado terceiro: pedido de revisão e confirmação; a execução só se instaura depois de a decisão estar revista e confirmada (art. 706.º, n.º 1, CPC)",
+        "motivo": "Não há pedido de declaração de executoriedade; na revisão a execução é posterior à confirmação",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0706&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "**[REGIME UE — Bruxelas I-bis]**\n\n**AO JUÍZO CENTRAL CÍVEL DE [COMARCA]**\n\n[NOME DO REQUERENTE], [identificação], vem, ao abrigo dos artigos 36.º e ss. do Regulamento (UE) n.º 1215/2012 do Parlamento Europeu e do Conselho, de 12 de dezembro de 2012 (Bruxelas I-bis), requerer a declaração de executoriedade em Portugal da seguinte decisão estrangeira:\n\n**I — A DECISÃO ESTRANGEIRA**\n- Tribunal de origem: [nome do tribunal e Estado-membro]\n- Referência do processo: [número]\n- Data da decisão: [data]\n- Tipo: [sentença / despacho / transação homologada]\n- Objeto: condenação do Requerido [nome] no pagamento de [€/moeda][valor] a título de [capital, juros, custas]\n- Trânsito em julgado: [data] / já executória no Estado de origem\n\n**II — DOCUMENTOS JUNTOS**\nAo abrigo do artigo 37.º, n.º 1, e artigo 53.º do Regulamento Bruxelas I-bis:\na) Cópia da decisão com os requisitos de autenticidade (Doc. 1);\nb) Certidão prevista no Anexo I do Regulamento, emitida pelo tribunal de origem (Doc. 2);\nc) Tradução para português dos documentos supra, certificada por tradutor oficial (Doc. 3) — [se necessário, art. 37.º, n.º 2].\n\n**III — INEXISTÊNCIA DE FUNDAMENTOS DE RECUSA**\nNão existe qualquer fundamento de recusa ao abrigo do artigo 45.º do Regulamento:\n— A decisão não é contrária à ordem pública internacional portuguesa;\n— O requerido foi regularmente citado no processo de origem;\n— Não existe decisão portuguesa incompatível;\n— Não existe litispendência anterior de processo português.\n\n**IV — PEDIDO**\nRequer-se que V. Exa. se digne:\na) Declarar a executoriedade da decisão identificada no ponto I;\nb) Ordenar os registos e averbamentos necessários;\nc) [Se aplicável] Ordenar penhora dos bens identificados (Docs. [X]).",
+        "para": "**[REGIME UE — Bruxelas I-bis: execução direta, sem declaração de executoriedade]**\n\n[Não há requerimento de exequatur nem de declaração de executoriedade: a decisão executória no Estado-Membro de origem executa-se em Portugal em condições iguais às de uma decisão portuguesa (arts. 39.º e 41.º, n.º 1, do Regulamento (UE) n.º 1215/2012). A peça é o requerimento executivo (art. 724.º CPC), instruído com os documentos do art. 42.º do Regulamento.]\n\n**AO [■ VERIFICAR: juízo de execução competente — tribunal do domicílio do executado (arts. 86.º e 90.º CPC) ou, sem domicílio em Portugal, da situação dos bens (art. 89.º, n.º 3, CPC)]**\n\n[NOME DO EXEQUENTE], [identificação], vem, ao abrigo dos artigos 39.º, 41.º e 42.º do Regulamento (UE) n.º 1215/2012 do Parlamento Europeu e do Conselho, de 12 de dezembro de 2012 (Bruxelas I-bis), instaurar execução para pagamento de quantia certa, com base na seguinte decisão proferida noutro Estado-Membro:\n\n**I — A DECISÃO EXEQUENDA**\n- Tribunal de origem: [nome do tribunal e Estado-Membro]\n- Referência do processo: [número]\n- Data da decisão: [data]\n- Tipo: [sentença / despacho / transação judicial — esta com a certidão do Anexo II (arts. 59.º e 60.º do Regulamento)]\n- Objeto: condenação do Executado [nome] no pagamento de [€/moeda][valor] a título de [capital, juros, custas]\n- Data de instauração da ação no Estado de origem: [data — 10 de janeiro de 2015 ou posterior (art. 66.º do Regulamento)]\n- Força executória no Estado-Membro de origem: [atestada na certidão do art. 53.º]\n\n**II — DOCUMENTOS JUNTOS**\nAo abrigo do artigo 42.º, n.º 1, do Regulamento Bruxelas I-bis:\na) Cópia da decisão que satisfaz as condições necessárias para atestar a sua autenticidade (Doc. 1);\nb) Certidão emitida pelo tribunal de origem nos termos do artigo 53.º (formulário do Anexo I), que comprova que a decisão é executória e inclui um extrato da decisão e, se for caso disso, os custos processuais reembolsáveis e o cálculo dos juros (Doc. 2);\nc) [Só se a autoridade de execução a exigir] Tradução do conteúdo da certidão (art. 42.º, n.º 3) e, só se sem ela não puder dar seguimento ao processo, da própria decisão (art. 42.º, n.º 4), feita por pessoa qualificada para traduzir num dos Estados-Membros (art. 57.º, n.º 3) (Doc. 3).\nNão é exigida legalização (art. 61.º do Regulamento).\n\n**III — NOTIFICAÇÃO DA CERTIDÃO AO EXECUTADO**\nA certidão do art. 53.º, acompanhada da decisão se esta ainda não lhe tiver sido notificada, é notificada ao Executado antes da primeira medida de execução (art. 43.º, n.º 1, do Regulamento). [Se o Executado estiver domiciliado num Estado-Membro que não o de origem, pode pedir a tradução da decisão, ficando entretanto vedadas medidas de execução que não sejam cautelares (art. 43.º, n.º 2).]\n\n**IV — FUNDAMENTOS DE RECUSA**\n[Não alegar no requerimento: cabe ao Executado pedir a recusa da execução com fundamento no art. 45.º (art. 46.º), perante o tribunal que Portugal comunicou à Comissão (art. 47.º, n.º 1). A decisão não pode ser revista quanto ao mérito (art. 52.º). Antecipar a resposta: citação regular e em tempo útil no processo de origem, inexistência de decisões inconciliáveis, conformidade com a ordem pública.]\n\n**V — PEDIDO**\nRequer-se:\na) O prosseguimento da execução contra o Executado para pagamento de [€ valor], acrescido de [juros / custas, conforme a certidão];\nb) A penhora dos bens identificados (Docs. [X]), pelo agente de execução designado [nome] (art. 724.º, n.º 1, al. c), CPC).",
+        "motivo": "Procedimento de declaração de executoriedade inexistente no Regulamento 1215/2012; documentos da execução (art. 42.º), notificação da certidão (art. 43.º) e recusa a pedido do executado (arts. 45.º a 47.º)",
+        "fonte": "https://publications.europa.eu/resource/celex/32012R1215"
+      },
+      {
+        "de": "[I a V em formato equivalente, com fundamento nos requisitos do art. 980.º CPC: trânsito, competência, citação, certeza da decisão, não evasão à lei portuguesa, não contrária à ordem pública internacional]",
+        "para": "[I a V em formato equivalente, juntando com a petição o documento de que conste a decisão a rever (art. 981.º CPC) e demonstrando os requisitos do art. 980.º CPC: a) que não haja dúvidas sobre a autenticidade do documento nem sobre a inteligência da decisão; b) trânsito em julgado segundo a lei do país em que foi proferida; c) competência do tribunal estrangeiro não provocada em fraude à lei e matéria que não seja da exclusiva competência dos tribunais portugueses; d) que não possa invocar-se litispendência ou caso julgado com fundamento em causa afeta a tribunal português, exceto se o tribunal estrangeiro preveniu a jurisdição; e) citação regular do réu segundo a lei do país de origem e observância do contraditório e da igualdade das partes; f) resultado não manifestamente incompatível com os princípios da ordem pública internacional do Estado Português. O pedido é só de revisão e confirmação; a execução instaura-se depois de a decisão estar confirmada (art. 706.º, n.º 1, CPC).]",
+        "motivo": "Requisitos do art. 980.º enunciados de forma inexata («certeza da decisão», «não evasão à lei portuguesa»)",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0978&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- [ ] Certidão do Anexo I (art. 53.º Bruxelas I-bis) ou documentos equivalentes juntos\n- [ ] Tradução certificada junta (quando exigida)\n- [ ] Trânsito em julgado demonstrado\n- [ ] Ausência de fundamentos de recusa analisada (art. 45.º Bruxelas I-bis / art. 980.º CPC)",
+        "para": "- [ ] Regime UE: ação de origem intentada em 10 de janeiro de 2015 ou depois (art. 66.º Bruxelas I-bis)\n- [ ] Regime UE: cópia autêntica da decisão e certidão do Anexo I (arts. 42.º e 53.º Bruxelas I-bis); Estado terceiro: documento de que conste a decisão (art. 981.º CPC)\n- [ ] Tradução junta só quando exigida (art. 42.º, n.os 3 e 4, Bruxelas I-bis)\n- [ ] Regime UE: força executória no Estado-Membro de origem atestada na certidão; Estado terceiro: trânsito em julgado demonstrado (art. 980.º, al. b), CPC)\n- [ ] Fundamentos de recusa antecipados (arts. 45.º e 46.º Bruxelas I-bis — invocados pelo executado) / requisitos do art. 980.º CPC demonstrados",
+        "motivo": "Exigências próprias de cada regime; a recusa no regime UE é invocada pelo executado",
+        "fonte": "https://publications.europa.eu/resource/celex/32012R1215"
+      },
+      {
+        "de": "- Estado-membro UE: [sim → Bruxelas I-bis / não → art. 978.º CPC]",
+        "para": "- Estado-membro UE: [sim → Bruxelas I-bis / não → art. 978.º CPC]\n- Data de instauração da ação no Estado de origem: [data — antes de 10 de janeiro de 2015 aplica-se o Regulamento (CE) n.º 44/2001]\n- Estado terceiro com tratado ou convenção aplicável: [sim/não — ex.: Convenção de Lugano de 2007] [■ VERIFICAR: regime aplicável às decisões de Estados vinculados por tratado ou convenção]",
+        "motivo": "O regime transitório e os tratados afastam o regime geral",
+        "fonte": "https://publications.europa.eu/resource/celex/32012R1215"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Confirmar no Portal Europeu da Justiça (e-Justice) qual o tribunal que Portugal comunicou à Comissão para o pedido de recusa da execução (arts. 47.º, n.º 1, e 75.º, al. a), do Regulamento).",
+      "Confirmar o juízo competente para a execução na comarca (juízo de execução, se existir — art. 129.º da LOSJ — ou juízo cível) e se a regra dos arts. 86.º e 90.º CPC se aplica às decisões executadas sem revisão.",
+      "Decisões da Suíça, da Noruega e da Islândia (Convenção de Lugano) e de Estados com convenção bilateral seguem regime próprio: confirmar antes de usar a peça.",
+      "Na revisão, se a sentença foi proferida contra pessoa de nacionalidade portuguesa, a impugnação pode fundar-se em que o direito material português lhe seria mais favorável (art. 983.º, n.º 2, CPC).",
+      "O Regulamento não exige tradução certificada por tradutor oficial: basta pessoa qualificada para traduzir num Estado-Membro (art. 57.º, n.º 3); confirmar a prática do tribunal."
+    ],
+    "fontes": [
+      "https://publications.europa.eu/resource/celex/32012R1215",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0978&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0984&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0706&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0090&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0724&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:32012R1215"
+    ]
+  },
+  {
+    "codigo": "PRC-050",
+    "veredicto": "corrigida",
+    "resumo": "A ficha confundia a intervenção principal espontânea com a oposição: assentava no art. 311.º CPC para um terceiro com direito «incompatível ou concorrente» com o do autor e pedia a improcedência da ação, que é pedido de opoente (arts. 333.º e ss. CPC). Pelo art. 311.º intervém quem tem interesse igual ao do autor ou do réu (litisconsórcio, arts. 32.º a 34.º), fazendo valer um direito próprio paralelo (art. 312.º). Estavam também errados o prazo (com articulado próprio, só até ao termo da fase dos articulados — art. 314.º; por mera adesão, a todo o tempo — art. 313.º), o conteúdo dos arts. 312.º e 315.º e a noção de intervenção acessória (art. 321.º: chamamento pelo réu de quem responda em regresso; o «mero interesse» é assistência, art. 326.º). Reorientei a ficha, a peça, a checklist, a entrevista e a descrição do índice para a verdadeira intervenção principal e remeti o direito incompatível para a oposição espontânea.",
+    "descricao": "Gera o requerimento de intervenção principal espontânea de terceiro que tem, em relação ao objeto da causa, interesse igual ao do autor ou do réu e faz valer um direito próprio paralelo (litisconsórcio), ao abrigo dos artigos 311.º e ss. do CPC (Lei n.º 41/2013), com análise da legitimidade, da tempestividade e da distinção face à oposição espontânea (direito incompatível).",
+    "descricao_en": "Generates the application for voluntary principal intervention (intervenção principal espontânea) by a third party who has, regarding the subject matter of the case, an interest equal to that of the claimant or the defendant and asserts its own parallel right (joinder of parties), under Articles 311 et seq. CPC (Law No. 41/2013), analysing standing, timeliness and the distinction from voluntary opposition (incompatible right).",
+    "substituicoes": [
+      {
+        "de": "— Distingue intervenção principal (art. 311.º CPC — direito próprio incompatível) de intervenção acessória (art. 321.º CPC — mero interesse em que a parte ganhe).",
+        "para": "— Distingue a intervenção principal espontânea (arts. 311.º e 312.º CPC — interesse igual ao do autor ou do réu, nos termos dos arts. 32.º, 33.º e 34.º CPC; o interveniente faz valer um direito próprio, paralelo ao do autor ou do réu) da oposição espontânea (art. 333.º CPC — direito próprio, total ou parcialmente incompatível com a pretensão do autor ou do reconvinte), da assistência (art. 326.º CPC — interesse jurídico em que a decisão seja favorável a uma das partes) e da intervenção acessória provocada (art. 321.º CPC — chamamento, pelo réu, de terceiro contra quem tenha ação de regresso).\n— Se o terceiro se arroga um direito incompatível com o do autor, esta ficha não serve: a via é a oposição espontânea, deduzida por petição (art. 334.º CPC) enquanto não estiver designado dia para a audiência final em 1.ª instância (art. 333.º, n.º 2, CPC).",
+        "motivo": "O direito incompatível é objeto de oposição, não de intervenção principal; o «mero interesse» é assistência, e a intervenção acessória é o chamamento pelo réu com direito de regresso",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0333&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Direito do interveniente: incompatível ou concorrente com o do autor?\n- Tempestividade: art. 314.º CPC (até ao encerramento da discussão em 1.ª instância)\n- Efeito na instância: o processo passa a ter pluralidade de partes (litisconsórcio ou coligação)\n- Necessidade de contestar o pedido do autor",
+        "para": "- Direito do interveniente: paralelo ao do autor ou do réu, com interesse igual quanto ao objeto da causa (intervenção principal), ou incompatível com a pretensão do autor (oposição espontânea, arts. 333.º e ss. CPC — esta ficha não serve)?\n- Tempestividade: com articulado próprio, só até ao termo da fase dos articulados (art. 314.º CPC); por mera adesão aos articulados da parte com quem se associa, a todo o tempo enquanto a causa não estiver definitivamente julgada, aceitando-a no estado em que se encontrar (art. 313.º CPC)\n- Efeito na instância: o processo passa a ter pluralidade de partes (litisconsórcio)\n- Lado da intervenção: ativa (associa-se ao autor e formula a sua própria petição) ou passiva (associa-se ao réu e contesta a pretensão do autor) — art. 314.º CPC",
+        "motivo": "Pressuposto, prazo e modos de intervenção dos arts. 311.º a 314.º CPC",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0311&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Artigo 311.º CPC (intervenção principal espontânea)\n- Artigo 312.º CPC (admissibilidade: direito incompatível ou concorrente)\n- Artigo 314.º CPC (prazo: até encerramento da discussão)\n- Artigo 315.º CPC (forma: petição articulada + notificação das partes)",
+        "para": "- Artigo 311.º CPC (intervenção de litisconsorte: interesse igual ao do autor ou do réu, nos termos dos arts. 32.º, 33.º e 34.º CPC)\n- Artigo 312.º CPC (posição do interveniente: direito próprio, paralelo ao do autor ou do réu; articulado próprio ou adesão)\n- Artigo 313.º CPC (intervenção por mera adesão: a todo o tempo, aceitando a causa no estado em que se encontrar)\n- Artigo 314.º CPC (intervenção mediante articulado próprio: só até ao termo da fase dos articulados)\n- Artigo 315.º CPC (processamento: notificação das partes primitivas para responderem e decisão sobre a admissibilidade; admitido o articulado próprio, seguem-se os demais articulados)\n- Artigos 333.º a 337.º CPC (oposição espontânea — para o direito incompatível)",
+        "motivo": "Conteúdo dos arts. 311.º a 315.º CPC descrito de forma errada",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0311&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Demonstração da incompatibilidade ou concorrência com o direito do autor\n- Articulado dos factos constitutivos do direito próprio\n- Pedido autónomo do interveniente",
+        "para": "- Demonstração do interesse igual ao do autor ou do réu (direito próprio paralelo) e da posição de litisconsorte\n- Articulado dos factos constitutivos do direito próprio\n- Pedido do interveniente (intervenção ativa) ou contestação da pretensão do autor (intervenção passiva)",
+        "motivo": "A intervenção principal pressupõe direito paralelo, não incompatível",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0311&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "O ora Interveniente é titular de [direito real / obrigacional / outro] sobre [objeto do litígio] que é [incompatível / concorrente] com o direito que o Autor pretende ver reconhecido nos presentes autos.\n\nCom efeito:\n1.º O Autor reclama [síntese do pedido do autor].\n2.º O Interveniente é, porém, o verdadeiro titular de [direito — ex.: proprietário do imóvel / credor privilegiado / co-titular], com base nos seguintes factos:\n[Articular os factos constitutivos do direito do interveniente]\n3.º A sentença a proferir nestes autos produzirá caso julgado extensível ao Interveniente, pelo que o seu interesse jurídico próprio é manifesto (art. 312.º CPC).",
+        "para": "O ora Interveniente tem, em relação ao objeto da causa, um interesse igual ao do [Autor / Réu], nos termos do art. [32.º / 33.º / 34.º] do CPC, e faz valer um direito próprio, paralelo ao do [Autor / Réu] (arts. 311.º e 312.º CPC).\n\nCom efeito:\n1.º O Autor reclama [síntese do pedido do autor].\n2.º O Interveniente é [contitular do direito invocado pelo Autor / condevedor da obrigação exigida ao Réu / outro — ex.: comproprietário do imóvel, credor solidário], com base nos seguintes factos:\n[Articular os factos constitutivos do direito do interveniente]\n3.º Sendo o Interveniente litisconsorte [voluntário / necessário] do [Autor / Réu], tem legitimidade para intervir na causa como parte principal (art. 311.º CPC).",
+        "motivo": "O interveniente principal não é «verdadeiro titular» contra o autor (isso é oposição); o fundamento é o interesse igual de litisconsorte",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0311&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "O pedido de intervenção é tempestivo, sendo apresentado antes do encerramento da discussão em 1.ª instância (art. 314.º CPC).",
+        "para": "A intervenção mediante articulado próprio é tempestiva, por ser deduzida antes do termo da fase dos articulados (art. 314.º CPC).\n[Se a fase dos articulados já terminou: intervenção por mera adesão aos articulados do [Autor / Réu], em simples requerimento, aceitando o Interveniente a causa no estado em que se encontrar (art. 313.º CPC).]",
+        "motivo": "Com articulado próprio, o limite é o termo da fase dos articulados, não o encerramento da discussão",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0311&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "O Interveniente vem deduzir pedido autónomo nos seguintes termos:\n— Que seja declarado [título / direito / preferência] do Interveniente sobre [objeto];\n— Que seja, consequentemente, [julgado improcedente o pedido do Autor na parte que conflitua / reconhecida a preferência do Interveniente].",
+        "para": "[Intervenção ativa] Associando-se ao Autor, o Interveniente formula a sua própria petição (art. 314.º CPC):\n— Que seja reconhecido [direito] do Interveniente sobre [objeto], paralelo ao do Autor;\n— Que o Réu seja condenado [a ___] também perante o Interveniente.\n[Intervenção passiva] Associando-se ao Réu, o Interveniente contesta a pretensão do Autor nos seguintes termos: [defesa].",
+        "motivo": "Pedir a improcedência do pedido do autor por direito conflituante é próprio da oposição; o interveniente principal pede ao lado do autor ou contesta ao lado do réu",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0311&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "b) Notificar as partes originais do requerimento;\nc) Julgar procedente o pedido do Interveniente.",
+        "para": "b) Ordenar a notificação das partes primitivas para responderem (art. 315.º, n.º 1, CPC);\nc) [Intervenção ativa] Julgar procedente o pedido do Interveniente / [Intervenção passiva] Julgar a ação improcedente, absolvendo do pedido o Réu e o Interveniente.",
+        "motivo": "Processamento do art. 315.º e pedido conforme o lado da intervenção",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0311&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- [ ] Modalidade correta: intervenção principal (direito próprio) e não acessória\n- [ ] Incompatibilidade ou concorrência com direito do autor demonstrada\n- [ ] Tempestividade verificada: antes do encerramento da discussão (art. 314.º CPC)\n- [ ] Pedido autónomo do interveniente claramente formulado",
+        "para": "- [ ] Modalidade correta: intervenção principal (interesse igual, direito paralelo) e não oposição (direito incompatível), assistência ou intervenção acessória\n- [ ] Interesse igual ao do autor ou do réu demonstrado (arts. 32.º a 34.º CPC)\n- [ ] Tempestividade verificada: com articulado próprio, até ao termo da fase dos articulados (art. 314.º CPC); depois, só por mera adesão (art. 313.º CPC)\n- [ ] Pedido próprio (intervenção ativa) ou contestação (intervenção passiva) claramente formulados",
+        "motivo": "Pressupostos e prazo da intervenção principal",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0311&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Fase: [ex. após contestação, antes de audiência final]",
+        "para": "- Fase: [a fase dos articulados já terminou? — ex. antes ou depois da contestação]",
+        "motivo": "O termo da fase dos articulados decide o modo de intervenção",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0311&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Incompatibilidade com pedido do Autor: [descrever]",
+        "para": "- Relação com o direito do Autor ou do Réu: [interesse igual / direito paralelo — descrever; se o direito for incompatível com o do Autor, a via é a oposição espontânea]",
+        "motivo": "Pressuposto da intervenção principal",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0333&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "**PEDIDO AUTÓNOMO:**\n- O que pede o interveniente: [descrição]",
+        "para": "**PEDIDO:**\n- Lado: [ativo — associa-se ao Autor / passivo — associa-se ao Réu]\n- O que pede ou contesta o interveniente: [descrição]",
+        "motivo": "Pedido conforme o lado da intervenção",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0311&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "A qualificação do interesse (paralelo ou incompatível) decide a via: na dúvida, ponderar a oposição espontânea e o seu prazo (até à designação de dia para a audiência final — art. 333.º, n.º 2, CPC).",
+      "O art. 311.º CPC de 2013 remete só para os arts. 32.º a 34.º (litisconsórcio); confirmar na doutrina e na jurisprudência se ainda é admissível a intervenção espontânea de quem apenas poderia coligar-se com o autor.",
+      "Confirmar a extensão do caso julgado ao interveniente admitido e os efeitos da intervenção por mera adesão (o interveniente é considerado revel quanto aos atos anteriores — art. 313.º, n.º 3, CPC).",
+      "A intervenção por adesão não é admitida se a parte contrária alegar fundadamente que já não pode fazer valer defesa pessoal contra o interveniente (art. 313.º, n.º 4, CPC)."
+    ],
+    "fontes": [
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0311&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0321&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0326&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0333&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+    ]
+  },
+  {
+    "codigo": "PRC-051",
+    "veredicto": "corrigida",
+    "resumo": "A ficha fundava a providência num «art. 380.º do CSC» inexistente: a suspensão de deliberações sociais está nos arts. 380.º a 382.º do CPC. Omitia o prazo essencial de 10 dias (contado da assembleia ou, se o sócio não foi regularmente convocado, do conhecimento — art. 380.º, n.os 1 e 3, CPC), dava legitimidade a administradores e «qualquer interessado» (só o sócio a tem), usava os pressupostos da providência comum em vez do «dano apreciável» e da ponderação do art. 381.º, n.º 2, pedia dispensa de caução ao abrigo do art. 374.º (o n.º 2 só se aplica ao arresto e ao embargo de obra nova — art. 376.º, n.º 2) e um prazo de anulação de «1 ano» que o CSC não prevê. Corrigi a base legal, o prazo, a legitimidade, os pressupostos, a competência (juízo de comércio), a citação com proibição de executar a deliberação (art. 381.º, n.º 3), o pedido, a checklist, a entrevista e a descrição do índice.",
+    "descricao": "Gera o requerimento de providência cautelar de suspensão de deliberação social ao abrigo dos artigos 380.º a 382.º do CPC (Lei n.º 41/2013), a apresentar pelo sócio no prazo de 10 dias, com pedido de suspensão da execução da deliberação e articulação com a ação principal de anulação ou de declaração de nulidade.",
+    "descricao_en": "Generates the application for an interim measure suspending a company resolution under Articles 380 to 382 CPC (Law No. 41/2013), to be filed by a shareholder within 10 days, seeking suspension of the resolution's implementation and linking it with the main action for annulment or declaration of nullity.",
+    "substituicoes": [
+      {
+        "de": "— A providência é cautelar (não anula a deliberação); a anulação compete à ação principal.",
+        "para": "— A providência é cautelar (não anula a deliberação); a anulação compete à ação principal.\n— Base legal: arts. 380.º a 382.º do CPC; o CSC não regula a suspensão. Legitimidade: só o sócio, que justifica essa qualidade (art. 380.º, n.º 1, CPC).\n— Prazo: 10 dias, contados da data da assembleia em que as deliberações foram tomadas ou, se o requerente não tiver sido regularmente convocado, da data em que delas teve conhecimento (art. 380.º, n.os 1 e 3, CPC).\n— Pressupostos próprios: deliberação contrária à lei, aos estatutos ou ao contrato e dano apreciável que a sua execução pode causar (art. 380.º, n.º 1, CPC); mesmo havendo vício, o juiz pode não suspender se o prejuízo da suspensão for superior ao da execução (art. 381.º, n.º 2, CPC).\n— Competência: juízos de comércio (art. 128.º, n.º 1, al. d), da Lei n.º 62/2013, de 26 de agosto — LOSJ).",
+        "motivo": "Faltavam a base legal correta, o prazo de 10 dias, a legitimidade exclusiva do sócio, os pressupostos próprios e o tribunal competente",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0380&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Fumus boni iuris: probabilidade séria do vício\n- Periculum in mora: dano grave decorrente da execução imediata\n- Legitimidade: sócio, administrador ou qualquer interessado (art. 380.º, n.º 1, CSC)\n- Prazo para propositura da ação principal (art. 373.º CPC)",
+        "para": "- Deliberação contrária à lei, aos estatutos ou ao contrato (art. 380.º, n.º 1, CPC): probabilidade séria do vício\n- Dano apreciável que a execução da deliberação pode causar (art. 380.º, n.º 1, CPC), ponderado com o prejuízo da suspensão (art. 381.º, n.º 2, CPC)\n- Legitimidade: só o sócio, que deve justificar essa qualidade (art. 380.º, n.º 1, CPC)\n- Prazo de 10 dias para requerer a suspensão, contado da assembleia ou do conhecimento, se o sócio não foi regularmente convocado (art. 380.º, n.os 1 e 3, CPC)\n- Cópia da ata (que a direção deve fornecer em 24 horas) ou, se a lei dispensar a reunião, documento comprovativo da deliberação (art. 380.º, n.º 2, CPC)\n- Prazo para propositura da ação principal (art. 373.º CPC) e prazo de 30 dias da ação de anulação (art. 59.º, n.º 2, CSC)",
+        "motivo": "Pressupostos, legitimidade, prazo e instrução do art. 380.º CPC",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0380&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Artigo 380.º CSC (providência cautelar de suspensão de deliberação social)\n- Artigos 56.º e 58.º CSC (nulidade e anulabilidade das deliberações)\n- Artigo 368.º CPC (requisitos gerais das providências cautelares)\n- Artigo 366.º CPC (decretamento sem contraditório prévio)\n- Artigo 373.º CPC (prazo para propositura da ação principal)\n- Artigos 59.º e 60.º CSC (prazo de anulação: 30 dias / 1 ano)",
+        "para": "- Artigos 380.º a 382.º CPC (suspensão de deliberações sociais: pressupostos e formalidades, contestação e decisão, inversão do contencioso)\n- Artigos 56.º e 58.º CSC (nulidade e anulabilidade das deliberações)\n- Artigo 368.º CPC (requisitos gerais das providências cautelares; o n.º 2 não se aplica — art. 376.º, n.º 1, CPC — valendo a ponderação do art. 381.º, n.º 2, CPC)\n- Artigo 366.º CPC (contraditório do requerido — aplicação subsidiária, art. 376.º, n.º 1, CPC; ver o art. 381.º CPC)\n- Artigo 373.º CPC (caducidade da providência: ação principal nos 30 dias seguintes à notificação do trânsito em julgado da decisão que a ordenou)\n- Artigos 59.º e 60.º CSC (ação de anulação: 30 dias contados nos termos do art. 59.º, n.º 2, CSC; proposta contra a sociedade, art. 60.º, n.º 1, CSC); a nulidade é invocável a todo o tempo (art. 286.º CC). O prazo de caducidade da anulação não se suspende com o procedimento cautelar (art. 328.º CC), salvo se for pedida a inversão do contencioso, que o interrompe (art. 369.º, n.º 3, CPC)",
+        "motivo": "Base legal inexistente no CSC; o CSC não prevê prazo de 1 ano para a anulação; regras de aplicação subsidiária do art. 376.º CPC",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0368&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "**AO JUÍZO [CENTRAL/LOCAL] CÍVEL DE [COMARCA]**",
+        "para": "**AO JUÍZO DE COMÉRCIO DE [COMARCA]**",
+        "motivo": "As ações de suspensão de deliberações sociais são da competência dos juízos de comércio",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1974A0128&nid=1974&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "[NOME DO REQUERENTE], [sócio / administrador / outro], titular de [X]% do capital social de [NOME DA SOCIEDADE], [identificação completa da sociedade — NIPC, sede], representado pelo mandatário que subscreve, vem, ao abrigo do artigo 380.º do Código das Sociedades Comerciais (CSC) e dos artigos 362.º e ss. do Código de Processo Civil, requerer",
+        "para": "[NOME DO REQUERENTE], sócio, titular de [X]% do capital social de [NOME DA SOCIEDADE], [identificação completa da sociedade — NIPC, sede], representado pelo mandatário que subscreve, vem, ao abrigo dos artigos 380.º e seguintes do Código de Processo Civil (CPC) e, subsidiariamente, dos artigos 362.º e ss. do Código de Processo Civil (art. 376.º, n.º 1, CPC), requerer",
+        "motivo": "Só o sócio tem legitimidade; a base legal é o CPC",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0380&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "Em assembleia geral realizada em [data], a assembleia geral de [NOME DA SOCIEDADE] deliberou [descrição exata do objeto da deliberação] (Doc. 1 — ata da assembleia).",
+        "para": "Em assembleia geral realizada em [data], a assembleia geral de [NOME DA SOCIEDADE] deliberou [descrição exata do objeto da deliberação] (Doc. 1 — cópia da ata da assembleia, art. 380.º, n.º 2, CPC).\nO Requerente é sócio da Requerida, como resulta de [certidão do registo comercial / outro documento] (Doc. 2).\nO presente requerimento é apresentado no prazo de 10 dias contados da data da assembleia [ou: da data em que o Requerente teve conhecimento das deliberações, por não ter sido regularmente convocado] (art. 380.º, n.os 1 e 3, CPC).",
+        "motivo": "A qualidade de sócio tem de ser justificada e o prazo de 10 dias demonstrado",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0380&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "b) [Vício 2 — ex.: o sócio requerente não foi notificado da convocatória, violando o art. 248.º, n.º 1, CSC];",
+        "para": "b) [Vício 2 — ex.: o sócio requerente não foi convocado por carta registada, como exige o art. 248.º, n.º 3, CSC; confirmar se o vício gera nulidade (art. 56.º, n.º 1, al. a), CSC) ou anulabilidade];",
+        "motivo": "O art. 248.º, n.º 1, CSC é a remissão para o regime das sociedades anónimas; a convocação por carta registada está no n.º 3",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0248&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "**III — PERICULUM IN MORA**\n\nA execução imediata da deliberação causará os seguintes danos graves e de difícil reparação:",
+        "para": "**III — DANO APRECIÁVEL DECORRENTE DA EXECUÇÃO**\n\nA execução da deliberação pode causar dano apreciável (art. 380.º, n.º 1, CPC), superior ao prejuízo que a suspensão pode causar à Requerida (art. 381.º, n.º 2, CPC), nos seguintes termos:",
+        "motivo": "O pressuposto específico é o dano apreciável, não a lesão grave e dificilmente reparável da providência comum (art. 362.º CPC)",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0380&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "**IV — DISPENSA DE CONTRADITÓRIO PRÉVIO**\nRequer-se que a providência seja decretada sem prévia audição da Requerida (art. 366.º, n.º 1, CPC), porquanto a notificação prévia permitiria a execução imediata da deliberação, frustrando completamente o efeito cautelar pretendido.",
+        "para": "**IV — CITAÇÃO DA REQUERIDA E PROIBIÇÃO DE EXECUÇÃO**\nRequer-se a citação urgente da Requerida, com a advertência de que, a partir da citação e enquanto não for julgado em 1.ª instância o pedido de suspensão, não lhe é lícito executar a deliberação impugnada (art. 381.º, n.º 3, CPC).\n[Se a cópia da ata não tiver sido fornecida no prazo de 24 horas: citação com a cominação de que a contestação não é recebida sem a cópia ou o documento em falta (art. 381.º, n.º 1, CPC).]\n[■ VERIFICAR: admissibilidade da dispensa de audiência prévia (art. 366.º, n.º 1, CPC) neste procedimento, cuja proteção imediata nasce da citação (art. 381.º, n.º 3, CPC); pedi-la só se a citação puser em risco sério o fim da providência.]",
+        "motivo": "Neste procedimento a sociedade é citada e fica proibida de executar a deliberação desde a citação; a dispensa do contraditório é de admissibilidade duvidosa",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0380&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "a) Decretar a suspensão da deliberação social de [data] da assembleia geral de [nome da sociedade] com o objeto identificado no ponto I;\nb) Ordenar a notificação da sociedade da providência decretada;\nc) [Se aplicável] Dispensar a prestação de caução (art. 374.º CPC — fundamentar).\n\nJunta: [ata, estatutos, convocatórias, documentação relevante]",
+        "para": "a) Ordenar a citação urgente da Requerida, com a advertência referida no ponto IV;\nb) Decretar a suspensão da execução da deliberação social de [data] da assembleia geral de [nome da sociedade] com o objeto identificado no ponto I;\nc) [Se aplicável e se a prova o permitir] Dispensar o Requerente do ónus de propositura da ação principal (inversão do contencioso — arts. 369.º, 376.º, n.º 4, e 382.º CPC).\n\nJunta: [cópia da ata ou documento comprovativo da deliberação (art. 380.º, n.º 2, CPC), prova da qualidade de sócio, contrato de sociedade, convocatórias, documentação relevante]",
+        "motivo": "A caução do art. 374.º, n.º 2, CPC só se aplica ao arresto e ao embargo de obra nova (art. 376.º, n.º 2, CPC); a inversão do contencioso é aplicável a este procedimento",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0373&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- [ ] Periculum com danos específicos e irreversíveis (não genérico)\n- [ ] Legitimidade do requerente verificada (art. 380.º, n.º 1, CSC)\n- [ ] Tribunal competente para ações societárias identificado\n- [ ] Prazo de 30 dias para ação principal previsto (art. 373.º CPC)",
+        "para": "- [ ] Dano apreciável da execução concretizado (não genérico) e ponderado com o prejuízo da suspensão (arts. 380.º, n.º 1, e 381.º, n.º 2, CPC)\n- [ ] Legitimidade: qualidade de sócio justificada (art. 380.º, n.º 1, CPC)\n- [ ] Requerimento apresentado no prazo de 10 dias (art. 380.º, n.os 1 e 3, CPC)\n- [ ] Cópia da ata ou documento comprovativo da deliberação junto (art. 380.º, n.º 2, CPC)\n- [ ] Juízo de comércio competente identificado (art. 128.º, n.º 1, al. d), da LOSJ)\n- [ ] Prazo da ação principal previsto (art. 373.º CPC), sem deixar passar os 30 dias da ação de anulação (art. 59.º, n.º 2, CSC)",
+        "motivo": "Pressupostos, prazo, instrução e competência do procedimento",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0380&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Qualidade: [sócio / administrador / outro]",
+        "para": "- Qualidade de sócio: [como se prova — certidão do registo comercial, contrato de sociedade, outro]",
+        "motivo": "Só o sócio tem legitimidade",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0380&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Data da assembleia: [data]",
+        "para": "- Data da assembleia: [data]\n- Requerente regularmente convocado: [sim/não — se não, data em que teve conhecimento da deliberação]\n- Cópia da ata pedida/obtida: [sim/não — data]",
+        "motivo": "Termo inicial do prazo de 10 dias e instrução do requerimento",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0380&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Caução: [dispensa pedida / sim — montante]",
+        "para": "- Inversão do contencioso: [pedir / não pedir]",
+        "motivo": "A caução do art. 374.º, n.º 2, CPC não se aplica a este procedimento",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0373&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Confirmar a natureza e a contagem do prazo de 10 dias do art. 380.º CPC (a jurisprudência trata-o como prazo de caducidade) e a data relevante no caso concreto.",
+      "Confirmar na jurisprudência se é admissível decretar a suspensão sem audiência prévia da sociedade, face ao regime do art. 381.º CPC.",
+      "Confirmar se a comarca tem juízo de comércio; se não tiver, determinar o juízo competente segundo a LOSJ.",
+      "Deliberações já executadas: confirmar a jurisprudência sobre a utilidade da suspensão.",
+      "Confirmar na jurisprudência que a pendência do procedimento cautelar não suspende o prazo de 30 dias da ação de anulação (art. 59.º, n.º 2, CSC; art. 328.º CC), salvo o pedido de inversão do contencioso (art. 369.º, n.º 3, CPC).",
+      "Na ação principal de anulação, a legitimidade cabe ao órgão de fiscalização ou ao sócio que não votou no sentido que fez vencimento nem aprovou depois a deliberação (art. 59.º, n.º 1, CSC): confirmar que o requerente a tem."
+    ],
+    "fontes": [
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0380&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0362&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0368&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0373&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0056&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0248&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0286&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0328&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1974A0128&nid=1974&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+    ]
+  },
+  {
+    "codigo": "PRC-055",
+    "veredicto": "corrigida",
+    "resumo": "A ficha atribuía ao devedor um «direito de retrato» do crédito litigioso cedido (reembolso do preço com extinção da dívida, art. 589.º CC) e mandava o requerente alertar o tribunal para ele: o Código Civil não prevê esse direito — o art. 589.º regula a sub-rogação pelo credor e o regime especial dos direitos litigiosos (arts. 579.º a 581.º) é só a proibição da cessão a juízes, magistrados, funcionários de justiça, mandatários judiciais, peritos e auxiliares da justiça. Também afirmava que o art. 578.º CC exige forma escrita (remete para o negócio de base, salvo créditos hipotecários) e ignorava a posição da parte contrária na habilitação (notificação para contestar e recusa da substituição só se a transmissão visou dificultar a sua posição — arts. 356.º e 263.º CPC). Eliminei o retrato, corrigi a forma, o processamento do incidente (por apenso, arts. 356.º e 357.º; o art. 358.º trata da liquidação), o pedido, a checklist, a entrevista, uma regra escrita em inglês e a descrição do índice.",
+    "descricao": "Gera o requerimento de habilitação do cessionário de crédito litigioso para substituição processual do cedente nos autos pendentes, ao abrigo dos artigos 263.º, 356.º e 357.º do CPC (Lei n.º 41/2013) e dos artigos 577.º a 588.º do Código Civil, com notificação da parte contrária para contestar e continuidade da instância.",
+    "descricao_en": "Generates the application for substitution (habilitação) of the assignee of a disputed claim (crédito litigioso) in place of the assignor in pending proceedings, under Articles 263, 356 and 357 CPC (Law No. 41/2013) and Articles 577 to 588 of the Civil Code, with notice to the opposing party to contest it and continuity of the proceedings.",
+    "substituicoes": [
+      {
+        "de": "— Distingue cessão de crédito litigioso (art. 578.º CC — onerosamente) de cessão de crédito simples (art. 577.º CC) para efeito do regime especial de retrato (art. 589.º CC).\n— Distinguish habilitação de cessionário (substituição de parte) de intervenção principal (direito próprio novo).",
+        "para": "— Crédito litigioso é o que tiver sido contestado em juízo contencioso, ainda que arbitral, por qualquer interessado (art. 579.º, n.º 3, CC). O Código Civil não confere ao devedor qualquer direito de retrato ou de remição do crédito litigioso cedido: o regime especial é a nulidade da cessão de créditos litigiosos a juízes, magistrados do Ministério Público, funcionários de justiça e mandatários judiciais, na área em que exercem a atividade, e a peritos e outros auxiliares da justiça com intervenção no processo (arts. 579.º a 581.º CC); no mais, aplica-se o regime geral da cessão (arts. 577.º e ss. CC).\n— Distingue a habilitação do cessionário (substituição da parte transmitente, arts. 263.º e 356.º CPC) da intervenção principal (arts. 311.º e ss. CPC).",
+        "motivo": "O «direito de retrato» não existe no Código Civil (o art. 589.º regula a sub-rogação pelo credor); a regra estava escrita em inglês",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0577&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Natureza da cessão: crédito litigioso (já em litígio) ou crédito simples cedido antes do processo?\n- Instrumento de cessão: contrato escrito (art. 578.º CC exige forma escrita)",
+        "para": "- Natureza da cessão: o crédito já tinha sido contestado em juízo à data da cessão (art. 579.º, n.º 3, CC)? O cessionário é juiz, magistrado do Ministério Público, funcionário de justiça, mandatário judicial, perito ou auxiliar da justiça abrangido pela proibição do art. 579.º CC (cessão nula, art. 580.º CC, salvo as exceções do art. 581.º CC)?\n- Instrumento de cessão: os requisitos e a forma seguem o negócio que lhe serve de base (art. 578.º, n.º 1, CC); a cessão de créditos hipotecários sobre imóveis exige escritura pública ou documento particular autenticado (art. 578.º, n.º 2, CC); para a habilitação junta-se o título da cessão ou lavra-se o termo no processo (art. 356.º, n.º 1, al. a), CPC)",
+        "motivo": "O art. 578.º CC não impõe forma escrita: remete para o negócio de base, salvo os créditos hipotecários",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0577&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Oposição previsível do devedor (direito de retrato do art. 589.º CC)",
+        "para": "- Oposição previsível da parte contrária: impugnar a validade do ato ou alegar que a transmissão foi feita para tornar mais difícil a sua posição no processo (art. 356.º, n.º 1, al. a), CPC); a substituição é admitida havendo acordo e, na falta dele, só se recusa com esse fundamento (art. 263.º, n.º 2, CPC)",
+        "motivo": "A oposição possível é a do incidente de habilitação, não um direito de retrato",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0356&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Artigos 356.º a 358.º CPC (habilitação do cessionário)",
+        "para": "- Artigos 356.º e 357.º CPC (habilitação do adquirente ou cessionário; habilitação perante os tribunais superiores)\n- Artigo 263.º CPC (o cedente mantém a legitimidade enquanto o cessionário não for habilitado; substituição e sua recusa; efeitos da sentença em relação ao cessionário)",
+        "motivo": "O art. 358.º CPC trata do ónus de liquidação; faltava o art. 263.º CPC",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0263&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Artigo 589.º CC (direito de retrato do devedor — apenas crédito litigioso cedido onerosamente)\n- Artigo 356.º, n.º 1, CPC (habilitação mediante apresentação do instrumento de cessão)",
+        "para": "- Artigos 580.º e 581.º CC (sanções da cessão proibida e exceções) — o Código Civil não confere ao devedor direito de retrato do crédito litigioso cedido\n- Artigo 585.º CC (meios de defesa que o devedor pode opor ao cessionário)\n- Artigo 356.º, n.º 1, CPC (termo da cessão lavrado no processo ou título junto ao requerimento, autuado por apenso; notificação da parte contrária para contestar; sem contestação, declara-se habilitado o cessionário se o documento provar a cessão)",
+        "motivo": "Instituto inexistente; processamento do incidente descrito de forma incompleta",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0583&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "**II — HABILITAÇÃO**\nNos termos do artigo 356.º, n.º 1, do CPC, o cessionário que pretenda ser habilitado nos autos apresenta o instrumento de cessão e solicita ao tribunal que ordene a sua substituição como parte.",
+        "para": "**II — HABILITAÇÃO**\nNos termos do artigo 356.º, n.º 1, do CPC, junta-se o título da cessão, devendo o requerimento ser autuado por apenso e notificada a parte contrária para contestar; na falta de contestação, verificado que o documento prova a cessão, declara-se habilitado o cessionário (art. 356.º, n.º 1, al. b), CPC). A habilitação pode ser promovida pelo cessionário (art. 356.º, n.º 2, CPC).",
+        "motivo": "Processamento do incidente: apenso, contestação da parte contrária e decisão",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0356&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "O Requerente passa a assumir nos autos a posição processual de [Autor/Exequente] que era do cedente, prosseguindo a instância nos seus exatos termos, sem necessidade de qualquer outra modificação.",
+        "para": "Até à habilitação, o cedente mantém a legitimidade para a causa (art. 263.º, n.º 1, CPC). Uma vez habilitado, o Requerente passa a ocupar nos autos a posição processual de [Autor/Exequente] que era do cedente, prosseguindo a instância nos seus exatos termos.",
+        "motivo": "Efeito da transmissão na legitimidade até à habilitação",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0263&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "**IV — DIREITO DE RETRATO** *(alertar quando aplicável)*\nO Requerente informa que o devedor [nome] pode, nos termos do artigo 589.º do Código Civil, exercer o direito de retrato mediante o reembolso do preço pago pela cessão (€[valor]) acrescido de juros legais, no prazo a fixar pelo tribunal. Caso o direito seja exercido, a obrigação exequenda extinguir-se-á.",
+        "para": "**IV — ADMISSIBILIDADE DA SUBSTITUIÇÃO**\nA cessão não foi feita para tornar mais difícil, no processo, a posição da parte contrária (arts. 263.º, n.º 2, e 356.º, n.º 1, al. a), CPC): [razões — ex.: cessão onerosa no âmbito de uma operação de venda de créditos, sem alteração da posição processual do devedor]. O Requerente não se encontra abrangido pela proibição do artigo 579.º do Código Civil.",
+        "motivo": "Eliminado o «direito de retrato», inexistente no direito português e prejudicial ao cliente; substituído pelos fundamentos de admissão da substituição",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0263&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Alerta sobre direito de retrato se aplicável",
+        "para": "- Fundamentos de admissão da substituição (art. 263.º, n.º 2, CPC) e não sujeição à proibição do art. 579.º CC",
+        "motivo": "O «direito de retrato» não existe no Código Civil",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0263&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "a) Admitir a habilitação do Requerente como cessionário;\nb) Ordenar a substituição processual do cedente [nome] pelo Requerente;\nc) Notificar as partes da habilitação;\nd) Prosseguir a instância com o Requerente no lugar do cedente.",
+        "para": "a) Ordenar a autuação por apenso e a notificação da parte contrária para contestar (art. 356.º, n.º 1, al. a), CPC);\nb) Declarar habilitado o Requerente como cessionário e ordenar a substituição processual do cedente [nome] pelo Requerente;\nc) Prosseguir a instância com o Requerente no lugar do cedente.",
+        "motivo": "Pedido conforme a tramitação do art. 356.º CPC",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0356&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- [ ] Contrato de cessão em forma escrita junto (art. 578.º CC)",
+        "para": "- [ ] Título da cessão junto, na forma exigida pelo negócio de base (art. 578.º, n.º 1, CC) ou, sendo crédito hipotecário sobre imóveis, por escritura pública ou documento particular autenticado (art. 578.º, n.º 2, CC)",
+        "motivo": "O art. 578.º CC não impõe forma escrita",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0577&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- [ ] Consentimento do cedente expresso ou tacitamente manifesto",
+        "para": "- [ ] Posição da parte contrária ponderada: acordo ou fundamento para recusar a substituição (art. 263.º, n.º 2, CPC)",
+        "motivo": "Na habilitação releva a posição da parte contrária, não o consentimento do cedente",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0263&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- [ ] Alerta sobre direito de retrato analisado (art. 589.º CC)",
+        "para": "- [ ] Cessionário não abrangido pela proibição dos arts. 579.º a 581.º CC",
+        "motivo": "Instituto inexistente",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0577&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Crédito litigioso (cedido após instauração da ação): [sim/não]",
+        "para": "- Crédito litigioso (contestado em juízo à data da cessão — art. 579.º, n.º 3, CC): [sim/não]\n- Cessionário é juiz, magistrado, funcionário de justiça, mandatário judicial, perito ou auxiliar da justiça: [sim/não]\n- Posição previsível da parte contrária quanto à substituição: [acordo / oposição]",
+        "motivo": "Noção legal de direito litigioso e dados para a admissão da substituição",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0577&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Se a cessão for anterior à propositura da ação ou à instauração da execução, não há habilitação: confirmar quem tem legitimidade e, na execução, o regime da sucessão no direito (art. 54.º CPC).",
+      "Confirmar se a cessão integra uma operação sujeita a regime especial (por exemplo, titularização ou venda de carteiras de crédito bancário) com regras próprias de notificação do devedor.",
+      "O devedor pode opor ao cessionário os meios de defesa que tinha contra o cedente, salvo os que provenham de facto posterior ao conhecimento da cessão (art. 585.º CC)."
+    ],
+    "fontes": [
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0577&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0583&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0356&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0263&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+    ]
+  }
+]

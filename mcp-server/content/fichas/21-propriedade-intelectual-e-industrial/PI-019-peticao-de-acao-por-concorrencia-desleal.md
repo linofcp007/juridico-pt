@@ -6,7 +6,8 @@ titulo_en: "Statement of Claim for Unfair Competition"
 descricao: "Elabora a petição inicial de ação por concorrência desleal, abrangendo práticas como a imitação servil de produtos, a apropriação de segredos comerciais, a publicidade comparativa enganosa e o aproveitamento da reputação alheia, ao abrigo do Código da Propriedade Industrial e da Diretiva (UE) 2016/943 sobre segredos comerciais."
 descricao_en: "Prepares the statement of claim in an action for unfair competition, covering practices such as slavish imitation of products, misappropriation of trade secrets, misleading comparative advertising and free-riding on another's reputation, under the Industrial Property Code and Directive (EU) 2016/943 on trade secrets."
 ambito: nacional
-estado_citacoes: "conferidas 1 · corrigidas 6 · por conferir 9"
+estado_citacoes: "conferidas 27 · corrigidas 6 · por conferir 2"
+revisao_tecnica: "2026-10-28 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
@@ -14,7 +15,8 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 
 > **Âmbito:** nacional · **Área:** Propriedade Intelectual e Industrial · **Código:** PI-019
 > **EN:** Statement of Claim for Unfair Competition. Prepares the statement of claim in an action for unfair competition, covering practices such as slavish imitation of products, misappropriation of trade secrets, misleading comparative advertising and free-riding on another's reputation, under the Industrial Property Code and Directive (EU) 2016/943 on trade secrets.
-> **Citações:** conferidas 1 · corrigidas 6 · por conferir 9. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 27 · corrigidas 6 · por conferir 2. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-28 — corrigida (11 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
 Elabora a petição inicial de ação por concorrência desleal, abrangendo práticas como a imitação servil de produtos, a apropriação de segredos comerciais, a publicidade comparativa enganosa e o aproveitamento da reputação alheia, ao abrigo do Código da Propriedade Industrial e da Diretiva (UE) 2016/943 sobre segredos comerciais.
 
@@ -25,9 +27,9 @@ Ficha de trabalho para preparar este documento. As regras da casa prevalecem sob
 ## Regras obrigatórias
 - NUNCA inventes jurisprudência, números de processo ou disposições legais inexistentes
 - Se faltarem dados, assinala [■ VERIFICAR: o que é necessário]
-- O regime de concorrência desleal no CPI está nos arts. 317.º a 328.º CPI [■ VERIFICAR: os arts. 317.º a 328.º CPI tratam de ilícitos criminais; a concorrência desleal está nos arts. 311.º e 330.º CPI]
-- Distingue: atos de confusão (art. 311.º CPI), denigração (art. 311.º CPI), aproveitamento da reputação alheia, atos de descrédito, apropriação de segredos comerciais (Lei 93/2021)
-- Para segredos comerciais: verificar os requisitos de proteção da Lei 93/2021 (secretismo, valor económico, medidas de proteção)
+- O regime da concorrência desleal está no art. 311.º CPI (contraordenação no art. 330.º CPI) e o dos segredos comerciais nos arts. 313.º a 315.º CPI (contraordenação no art. 331.º CPI; medidas e procedimentos nos arts. 338.º a 358.º CPI)
+- Distingue: atos de confusão (art. 311.º CPI), denigração (art. 311.º CPI), aproveitamento da reputação alheia, atos de descrédito, apropriação de segredos comerciais (arts. 313.º e 314.º CPI)
+- Para segredos comerciais: verificar os requisitos cumulativos do art. 313.º, n.º 1, CPI (informação secreta, com valor comercial por ser secreta e objeto de diligências razoáveis para a manter secreta)
 - A ação de concorrência desleal pode ser intentada mesmo sem direito de PI registado
 
 ## Framework P.A.C.E.F — Segue estas 5 etapas obrigatoriamente:
@@ -45,18 +47,18 @@ Apresenta dentro de um bloco <analise_do_caso>:
 Apresenta dentro de um bloco <fundamentos_juridicos>:
 - Art. 311.º CPI: noção de concorrência desleal e atos constitutivos
 - Art. 311.º CPI: atos que constituem concorrência desleal (lista não taxativa)
-- Art. 327.º CPI [■ VERIFICAR: o art. 327.º CPI trata de registo com ocultação da verdade; a indemnização segue os arts. 483.º e ss. CC]: responsabilidade civil por atos de concorrência desleal
-- Art. 328.º CPI [■ VERIFICAR: o art. 328.º CPI trata da queixa; confirmar a norma das providências cautelares (art. 345.º CPI ou CPC)]: medidas cautelares em matéria de concorrência desleal
-- Lei n.º 93/2021: proteção de segredos comerciais (se aplicável)
-  - Art. 2.º Lei 93/2021: definição de segredo comercial
-  - Art. 4.º Lei 93/2021: obtenção, utilização ou divulgação ilícita
-  - Art. 11.º Lei 93/2021: medidas, procedimentos e vias de recurso
+- Arts. 483.º e ss. CC: responsabilidade civil por atos de concorrência desleal
+- Art. 311.º, n.º 2, e art. 345.º CPI: providências cautelares, aplicáveis com as necessárias adaptações aos atos de concorrência desleal
+- Arts. 313.º a 315.º CPI: proteção de segredos comerciais (se aplicável), que transpõem a Diretiva (UE) 2016/943
+  - Art. 313.º CPI: definição de segredo comercial
+  - Art. 314.º CPI: obtenção, utilização ou divulgação ilícitas; art. 315.º CPI: atos lícitos
+  - Arts. 338.º a 358.º CPI: medidas e procedimentos (prova, providências cautelares, indemnização do art. 347.º CPI, medidas inibitórias, publicação, limites e exceções do art. 351.º CPI, confidencialidade no processo do art. 352.º CPI); prescrição em cinco anos (art. 353.º CPI)
 - Decreto-Lei n.º 57/2008: práticas comerciais desleais (se publicidade enganosa)
 - [■ VERIFICAR: jurisprudência portuguesa sobre concorrência desleal — tribunais cíveis]
 
 ### ETAPA 3 — CONSTRUÇÃO ARGUMENTATIVA
 Define em <estrategia>:
-- Enquadramento jurídico principal: CPI ou Lei 93/2021?
+- Enquadramento jurídico principal: concorrência desleal (art. 311.º CPI), violação de segredo comercial (arts. 313.º e 314.º CPI) ou ambos?
 - Prova da prática desleal: documentos, testemunhos, peritagem técnica
 - Prova dos danos: perda de clientes identificáveis, declínio de faturação, vantagem indevida do Réu
 - Nexo de causalidade entre a prática desleal e os danos
@@ -67,7 +69,7 @@ Redige a petição:
 
 **PETIÇÃO INICIAL — AÇÃO POR CONCORRÊNCIA DESLEAL**
 
-AO [TRIBUNAL JUDICIAL DA COMARCA DE [localidade] / TRIBUNAL DA PROPRIEDADE INTELECTUAL]
+AO [TRIBUNAL DA PROPRIEDADE INTELECTUAL — competente para as ações sobre atos de concorrência desleal ou de infração de segredos comerciais em matéria de propriedade industrial (art. 111.º, n.º 1, al. n), da Lei n.º 62/2013 — LOSJ) / TRIBUNAL JUDICIAL DA COMARCA DE [localidade], fora desse âmbito] [■ VERIFICAR: competência em razão da matéria no caso concreto]
 
 [Nome/Denominação], [NIF/NIPC], com sede em [morada], representada pelo mandatário [nome], advogado(a), OA n.º [número], vem propor a presente
 
@@ -88,7 +90,7 @@ O Autor e o Réu atuam no mesmo mercado [descrição do setor], em situação de
 
 [OU]
 
-03. [Apropriação de segredo comercial]: O Réu utiliza [fórmula / lista de clientes / processo de negócio / tecnologia] que constitui segredo comercial do Autor, obtida [de forma ilícita — por: ex-colaborador do Autor que levou informação para o Réu / espionagem industrial / violação de acordo de confidencialidade], em violação do art. 4.º da Lei n.º 93/2021.
+03. [Apropriação de segredo comercial]: O Réu utiliza [fórmula / lista de clientes / processo de negócio / tecnologia] que constitui segredo comercial do Autor, obtida [de forma ilícita — por: ex-colaborador do Autor que levou informação para o Réu / espionagem industrial / violação de acordo de confidencialidade], em violação do art. 314.º do CPI.
 
 [OU]
 
@@ -103,9 +105,9 @@ c) Danos à reputação e imagem comercial: [descrição].
 
 **III. DO DIREITO**
 
-Os atos praticados pelo Réu consubstanciam concorrência desleal nos termos dos arts. 317.º e 318.º do CPI [■ VERIFICAR: a concorrência desleal está no art. 311.º CPI; os arts. 317.º e 318.º tratam de outras matérias], constituindo [imitação servil / denigração / aproveitamento da reputação alheia / violação de segredo comercial], práticas contrárias às normas e usos honestos de qualquer ramo de atividade económica.
+Os atos praticados pelo Réu consubstanciam concorrência desleal nos termos do art. 311.º do CPI [e, quanto ao segredo comercial, violação dos arts. 313.º e 314.º do CPI], constituindo [imitação servil / denigração / aproveitamento da reputação alheia / violação de segredo comercial], práticas contrárias às normas e usos honestos de qualquer ramo de atividade económica.
 
-O Réu é responsável pela indemnização dos danos causados ao Autor, nos termos do art. 327.º do CPI [■ VERIFICAR: o art. 327.º CPI trata de registo com ocultação da verdade; a indemnização segue os arts. 483.º e ss. CC] e dos arts. 483.º e ss. do Código Civil.
+O Réu é responsável pela indemnização dos danos causados ao Autor, nos termos dos arts. 483.º e ss. do Código Civil [e, havendo violação de segredo comercial, do art. 347.º do CPI].
 
 **IV. DOS PEDIDOS**
 
@@ -115,7 +117,7 @@ a) CESSAR os atos de concorrência desleal identificados, abstendo-se de repetir
 b) PAGAR ao Autor indemnização pelos danos patrimoniais e não patrimoniais causados, no valor de € [valor estimado], acrescida de juros legais desde a citação;
 c) [Se imitação de produtos]: RETIRAR e DESTRUIR os produtos imitados existentes em armazém e em circulação;
 d) [Se segredo comercial]: ABSTER-SE de utilizar ou divulgar o segredo comercial e restituir os suportes que o contenham;
-e) PUBLICAR a decisão condenatória, a expensas do Réu, nos termos do art. [■ VERIFICAR: CPI].
+e) PUBLICAR a decisão condenatória, a expensas do Réu [se houver violação de segredo comercial: arts. 350.º e 357.º CPI] [■ VERIFICAR: fundamento da publicação nos restantes atos de concorrência desleal].
 
 **V. VALOR DA CAUSA**
 € [valor] ([por extenso]).
@@ -137,7 +139,7 @@ Apresenta dentro de um bloco <checklist_validacao>:
 - [ ] Notificação extrajudicial prévia referida
 - [ ] Pedidos: cessação, indemnização, medidas acessórias
 - [ ] Sanção compulsória para o pedido de cessação
-- [ ] Prazo de prescrição verificado [■ VERIFICAR]
+- [ ] Prazo de prescrição verificado (violação de segredos comerciais: cinco anos — art. 353.º CPI) [■ VERIFICAR: prazo aplicável à responsabilidade por concorrência desleal]
 - [ ] Pontos que exigem atenção especial: [liste]
 
 ---
@@ -181,19 +183,38 @@ Petição inicial de ação por concorrência desleal completa, com identificaç
 
 | Citação | Estado | Nota |
 |---|---|---|
-| arts. 317.º a 328.º CPI | por conferir [■ VERIFICAR] | os arts. 317.º a 328.º CPI tratam de ilícitos criminais; a concorrência desleal está nos arts. 311.º e 330.º CPI |
+| art. 311.º CPI | conferida (epígrafe) — Concorrência desleal |  |
 | art. 311.º CPI | corrigida — Concorrência desleal | o número citado no catálogo não correspondia à epígrafe |
 | art. 311.º CPI | corrigida — Concorrência desleal | o número citado no catálogo não correspondia à epígrafe |
+| art. 311.º CPI | conferida (epígrafe) — Concorrência desleal |  |
 | art. 311.º CPI | corrigida — Concorrência desleal | o número citado no catálogo não correspondia à epígrafe |
+| art. 330.º CPI | conferida (epígrafe) — Concorrência desleal |  |
+| arts. 313.º a 315.º CPI | conferida (epígrafe) — Objeto de proteção |  |
+| art. 331.º CPI | conferida (epígrafe) — Violação de segredo comercial protegido |  |
+| arts. 338.º a 358.º CPI | conferida (epígrafe) — Legitimidade |  |
+| arts. 313.º e 314.º CPI | conferida (epígrafe) — Objeto de proteção |  |
+| arts. 313.º e 314.º CPI | conferida (epígrafe) — Objeto de proteção |  |
+| art. 313.º, n.º 1, CPI | conferida (epígrafe) — Objeto de proteção |  |
 | Art. 311.º CPI | corrigida — Concorrência desleal | o número citado no catálogo não correspondia à epígrafe |
 | Art. 311.º CPI | corrigida — Concorrência desleal | o número citado no catálogo não correspondia à epígrafe |
-| Art. 327.º CPI | por conferir [■ VERIFICAR] | o art. 327.º CPI trata de registo com ocultação da verdade; a indemnização segue os arts. 483.º e ss. CC |
-| Art. 328.º CPI | por conferir [■ VERIFICAR] | o art. 328.º CPI trata da queixa; confirmar a norma das providências cautelares (art. 345.º CPI ou CPC) |
-| Art. 2.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| Art. 4.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| Art. 11.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| Art. 311.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| Arts. 483.º e ss. CC | conferida (índice) |  |
+| art. 345.º CPI | conferida (epígrafe) — Providências cautelares |  |
+| Arts. 313.º a 315.º CPI | conferida (epígrafe) — Objeto de proteção |  |
+| Art. 313.º CPI | conferida (epígrafe) — Objeto de proteção |  |
+| Art. 314.º CPI | conferida (epígrafe) — Atos ilícitos |  |
+| art. 315.º CPI | conferida (epígrafe) — Aquisição, utilização e divulgação lícitas de segredos comerciais |  |
+| Arts. 338.º a 358.º CPI | conferida (epígrafe) — Legitimidade |  |
+| art. 347.º CPI | conferida (epígrafe) — Indemnização por perdas e danos |  |
+| art. 351.º CPI | conferida (epígrafe) — Limites e exceções |  |
+| art. 352.º CPI | conferida (epígrafe) — Preservação da confidencialidade dos segredos comerciais em processos judiciais |  |
+| art. 353.º CPI | conferida (epígrafe) — Prescrição |  |
+| art. 353.º CPI | conferida (epígrafe) — Prescrição |  |
+| art. 111.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 311.º do CPI | corrigida — Concorrência desleal | o número citado no catálogo não correspondia à epígrafe |
-| art. 4.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| arts. 317.º e 318.º do CPI | por conferir [■ VERIFICAR] | a concorrência desleal está no art. 311.º CPI; os arts. 317.º e 318.º tratam de outras matérias |
-| art. 327.º do CPI | por conferir [■ VERIFICAR] | o art. 327.º CPI trata de registo com ocultação da verdade; a indemnização segue os arts. 483.º e ss. CC |
+| art. 311.º do CPI | conferida (epígrafe) — Concorrência desleal |  |
+| art. 314.º do CPI | conferida (epígrafe) — Atos ilícitos |  |
+| arts. 313.º e 314.º do CPI | conferida (epígrafe) — Objeto de proteção |  |
 | arts. 483.º e ss. do Código Civil | conferida (índice) |  |
+| art. 347.º do CPI | conferida (epígrafe) — Indemnização por perdas e danos |  |
+| arts. 350.º e 357.º CPI | conferida (epígrafe) — Publicação das decisões judiciais |  |

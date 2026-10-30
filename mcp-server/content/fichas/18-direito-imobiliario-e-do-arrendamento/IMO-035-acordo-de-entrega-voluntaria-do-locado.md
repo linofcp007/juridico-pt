@@ -3,20 +3,22 @@ codigo: IMO-035
 area: "Direito Imobiliário e do Arrendamento"
 titulo: "Acordo de Entrega Voluntária do Locado"
 titulo_en: "Agreement for Voluntary Surrender of the Leased Property"
-descricao: "Redige um acordo de entrega voluntária do locado, pelo qual o arrendatário e o senhorio estabelecem os termos e condições em que o arrendatário devolve o imóvel, incluindo data de entrega, estado de conservação exigido, acerto de rendas e obrigações mútuas, evitando o recurso ao despejo judicial ou ao BNA."
-descricao_en: "Drafts an agreement for the voluntary surrender of the leased property, by which the tenant and the landlord set the terms and conditions on which the tenant returns the property, including the handover date, the required state of repair, settlement of rent and mutual obligations, avoiding recourse to court eviction or the BNA."
+descricao: "Redige um acordo de entrega voluntária do locado, pelo qual o arrendatário e o senhorio estabelecem os termos e condições em que o arrendatário devolve o imóvel, incluindo data de entrega, estado de conservação exigido, acerto de rendas e obrigações mútuas, evitando o recurso ao despejo judicial ou ao Balcão do Arrendatário e do Senhorio (BAS)."
+descricao_en: "Drafts an agreement for the voluntary surrender of the leased property, by which the tenant and the landlord set the terms and conditions on which the tenant returns the property, including the handover date, the required state of repair, settlement of rent and mutual obligations, avoiding recourse to court eviction or the Balcão do Arrendatário e do Senhorio (BAS, formerly the BNA)."
 ambito: nacional
-estado_citacoes: "conferidas 7 · corrigidas 0 · por conferir 2"
+estado_citacoes: "conferidas 12 · corrigidas 0 · por conferir 0"
+revisao_tecnica: "2026-10-30 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
 # Acordo de Entrega Voluntária do Locado
 
 > **Âmbito:** nacional · **Área:** Direito Imobiliário e do Arrendamento · **Código:** IMO-035
-> **EN:** Agreement for Voluntary Surrender of the Leased Property. Drafts an agreement for the voluntary surrender of the leased property, by which the tenant and the landlord set the terms and conditions on which the tenant returns the property, including the handover date, the required state of repair, settlement of rent and mutual obligations, avoiding recourse to court eviction or the BNA.
-> **Citações:** conferidas 7 · corrigidas 0 · por conferir 2. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **EN:** Agreement for Voluntary Surrender of the Leased Property. Drafts an agreement for the voluntary surrender of the leased property, by which the tenant and the landlord set the terms and conditions on which the tenant returns the property, including the handover date, the required state of repair, settlement of rent and mutual obligations, avoiding recourse to court eviction or the Balcão do Arrendatário e do Senhorio (BAS, formerly the BNA).
+> **Citações:** conferidas 12 · corrigidas 0 · por conferir 0. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-30 — corrigida (5 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
-Redige um acordo de entrega voluntária do locado, pelo qual o arrendatário e o senhorio estabelecem os termos e condições em que o arrendatário devolve o imóvel, incluindo data de entrega, estado de conservação exigido, acerto de rendas e obrigações mútuas, evitando o recurso ao despejo judicial ou ao BNA.
+Redige um acordo de entrega voluntária do locado, pelo qual o arrendatário e o senhorio estabelecem os termos e condições em que o arrendatário devolve o imóvel, incluindo data de entrega, estado de conservação exigido, acerto de rendas e obrigações mútuas, evitando o recurso ao despejo judicial ou ao Balcão do Arrendatário e do Senhorio (BAS).
 
 ## Método
 
@@ -50,11 +52,11 @@ Apresenta dentro de um bloco <analise_do_caso>:
 Apresenta dentro de um bloco <fundamentos_juridicos>:
 - Arts. 1038.º e 1043.º CC (obrigações do arrendatário — conservação e restituição)
 - Art. 1031.º CC (obrigações do senhorio — manutenção do gozo da coisa locada)
-- Art. 1076.º CC (cessação do contrato por acordo)
-- NRAU — arts. 1097.º a 1099.º CC (denúncia pelo arrendatário) ou arts. 1100.º a 1102.º CC (denúncia pelo senhorio), conforme o caso
+- Art. 1082.º CC (revogação do contrato por acordo das partes; o acordo é celebrado por escrito quando não seja imediatamente executado ou contenha cláusulas compensatórias ou outras cláusulas acessórias)
+- Arts. 1097.º e 1098.º CC (oposição à renovação pelo senhorio e oposição à renovação ou denúncia pelo arrendatário, nos contratos com prazo certo), arts. 1100.º a 1103.º CC (denúncia pelo arrendatário e pelo senhorio, nos contratos de duração indeterminada) e art. 1110.º CC (arrendamento não habitacional), conforme o caso
 - Arts. 1083.º e 1084.º CC (resolução por incumprimento — se aplicável)
-- Art. 289.º CPC (acordo com força de título executivo) [■ VERIFICAR: o art. 289.º CPC trata dos limites da transação; os títulos executivos estão no art. 703.º CPC; confirmar]
-- DL 157/2006 — se localização em área de reabilitação urbana relevante
+- Art. 15.º, n.ºs 1 e 2, al. a), do NRAU (se o arrendatário não desocupar o locado na data acordada, o senhorio pode recorrer ao procedimento especial de despejo no Balcão do Arrendatário e do Senhorio — BAS —, com base no contrato de arrendamento acompanhado do acordo de revogação escrito)
+- DL n.º 157/2006, de 8 de agosto (regime jurídico das obras em prédios arrendados) — se a entrega decorrer de denúncia para demolição ou para obras de remodelação ou restauro profundos (art. 1101.º, al. b), CC)
 
 ### ETAPA 3 — CONSTRUÇÃO (Estrutura do Acordo)
 Define em <estrutura>:
@@ -81,7 +83,7 @@ Identificação completa das partes (nome, NIF, residência do senhorio; nome, N
 Identificação do locado: morada completa, descrição, artigo matricial (se relevante).
 
 **CLÁUSULA 2.ª — CESSAÇÃO DO CONTRATO**
-Data a partir da qual o contrato de arrendamento se considera cessado por acordo entre as partes (art. 1076.º CC).
+Data a partir da qual o contrato de arrendamento se considera cessado por acordo entre as partes (art. 1082.º CC).
 
 **CLÁUSULA 3.ª — DATA E CONDIÇÕES DE ENTREGA**
 Data-limite para entrega do locado livre e devoluto. Estado de conservação exigido na entrega (limpeza, reparações, pintura se deteriorada). Entrega de todas as chaves, incluindo [■ VERIFICAR: cópias, chaves de portão, caixas de correio].
@@ -102,13 +104,13 @@ O arrendatário obriga-se a liquidar, antes da entrega, os seguintes encargos: [
 Após o cumprimento integral das obrigações previstas no presente acordo, as partes concedem reciprocamente quitação total e final por todos os créditos e obrigações emergentes do contrato de arrendamento identificado nos considerandos, nada mais tendo a reclamar uma da outra em relação à referida relação locatícia.
 
 **CLÁUSULA 9.ª — INCUMPRIMENTO DO ACORDO**
-Em caso de incumprimento do presente acordo pelo arrendatário (designadamente, não entrega do locado na data acordada), o senhorio fica habilitado a requerer o despejo executivo com base no presente documento, nos termos do art. 289.º CPC [■ VERIFICAR: o art. 289.º CPC trata dos limites da transação; os títulos executivos estão no art. 703.º CPC; confirmar] [■ VERIFICAR: verificar se reunidos os requisitos de título executivo].
+Em caso de incumprimento do presente acordo pelo arrendatário (designadamente, não entrega do locado na data acordada), o senhorio pode recorrer ao procedimento especial de despejo no Balcão do Arrendatário e do Senhorio (BAS), servindo de base o contrato de arrendamento acompanhado do presente acordo de revogação (art. 15.º, n.ºs 1 e 2, al. a), do NRAU).
 
 **CLÁUSULA 10.ª — FORO**
 Tribunal competente para dirimir litígios emergentes do presente acordo.
 
 **ASSINATURAS**
-Data, local, assinaturas das partes, reconhecimento notarial (se pretendido para efeitos executivos).
+Data, local, assinaturas das partes. O acordo escrito basta para o procedimento especial de despejo; o reconhecimento das assinaturas não lhe confere força executiva (só o documento exarado ou autenticado é título executivo — art. 703.º, n.º 1, al. b), CPC).
 
 ### ETAPA 5 — FORMULAÇÃO FINAL (Validação)
 Apresenta dentro de um bloco <checklist_validacao>:
@@ -164,10 +166,13 @@ Apresenta dentro de um bloco <checklist_validacao>:
 |---|---|---|
 | Arts. 1038.º e 1043.º CC | conferida (epígrafe) — Enumeração |  |
 | Art. 1031.º CC | conferida (epígrafe) — Enumeração |  |
-| Art. 1076.º CC | conferida (índice) |  |
-| arts. 1097.º a 1099.º CC | conferida (índice) |  |
-| arts. 1100.º a 1102.º CC | conferida (epígrafe) — Denúncia pelo arrendatário |  |
+| Art. 1082.º CC | conferida (epígrafe) — Revogação |  |
+| Arts. 1097.º e 1098.º CC | conferida (índice) |  |
+| arts. 1100.º a 1103.º CC | conferida (epígrafe) — Denúncia pelo arrendatário |  |
+| art. 1110.º CC | conferida (epígrafe) — Duração, denúncia ou oposição à renovação |  |
 | Arts. 1083.º e 1084.º CC | conferida (índice) |  |
-| Art. 289.º CPC | por conferir [■ VERIFICAR] | o art. 289.º CPC trata dos limites da transação; os títulos executivos estão no art. 703.º CPC; confirmar |
-| art. 289.º CPC | por conferir [■ VERIFICAR] | o art. 289.º CPC trata dos limites da transação; os títulos executivos estão no art. 703.º CPC; confirmar |
-| art. 1076.º CC | conferida (índice) |  |
+| Art. 15.º, n.ºs 1 e 2, al. a), do NRAU | conferida (índice) |  |
+| art. 1101.º, al. b), CC | conferida (epígrafe) — Denúncia pelo senhorio |  |
+| art. 1082.º CC | conferida (epígrafe) — Revogação |  |
+| art. 15.º, n.ºs 1 e 2, al. a), do NRAU | conferida (índice) |  |
+| art. 703.º, n.º 1, al. b), CPC | conferida (índice) |  |

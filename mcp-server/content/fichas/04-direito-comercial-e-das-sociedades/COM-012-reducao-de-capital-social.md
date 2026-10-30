@@ -6,7 +6,7 @@ titulo_en: "Share Capital Reduction"
 descricao: "Elabora a deliberação e documentação de redução do capital social, cobrindo as modalidades de cobertura de prejuízos, reembolso aos sócios e cancelamento de participações, com as salvaguardas de proteção de credores exigidas pelo CSC."
 descricao_en: "Drafts the resolution and documentation for a reduction of share capital, covering the methods of offsetting losses, repayment to members and cancellation of holdings, with the creditor-protection safeguards required by the CSC."
 ambito: nacional
-estado_citacoes: "conferidas 2 · corrigidas 0 · por conferir 0"
+estado_citacoes: "conferidas 3 · corrigidas 0 · por conferir 12"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
@@ -14,7 +14,7 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 
 > **Âmbito:** nacional · **Área:** Direito Comercial e das Sociedades · **Código:** COM-012
 > **EN:** Share Capital Reduction. Drafts the resolution and documentation for a reduction of share capital, covering the methods of offsetting losses, repayment to members and cancellation of holdings, with the creditor-protection safeguards required by the CSC.
-> **Citações:** conferidas 2 · corrigidas 0 · por conferir 0. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 3 · corrigidas 0 · por conferir 12. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
 
 Elabora a deliberação e documentação de redução do capital social, cobrindo as modalidades de cobertura de prejuízos, reembolso aos sócios e cancelamento de participações, com as salvaguardas de proteção de credores exigidas pelo CSC.
 
@@ -150,5 +150,18 @@ Apresente em <checklist_validacao>:
 
 | Citação | Estado | Nota |
 |---|---|---|
+| art. 96 CSC | por conferir [■ VERIFICAR] | o assunto descrito não coincide com a epígrafe; confirmar |
+| art. 96 CSC | por conferir [■ VERIFICAR] | o assunto descrito não coincide com a epígrafe; confirmar |
+| art. 96 CSC | por conferir [■ VERIFICAR] | o assunto descrito não coincide com a epígrafe; confirmar |
+| art. 201 CSC | conferida (epígrafe) — Capital social livre |  |
+| art. 94, n.º 1, al. a) CSC | por conferir [■ VERIFICAR] | o assunto descrito não coincide com a epígrafe; confirmar |
+| art. 94, n.º 1, al. b) CSC | por conferir [■ VERIFICAR] | o assunto descrito não coincide com a epígrafe; confirmar |
+| art. 94, n.º 1, al. c) CSC | por conferir [■ VERIFICAR] | o assunto descrito não coincide com a epígrafe; confirmar |
+| Art. 94 CSC | por conferir [■ VERIFICAR] | o assunto descrito não coincide com a epígrafe; confirmar |
+| Art. 95 CSC | por conferir [■ VERIFICAR] | o assunto descrito não coincide com a epígrafe; confirmar |
+| Art. 96 CSC | por conferir [■ VERIFICAR] | o assunto descrito não coincide com a epígrafe; confirmar |
+| Art. 213 CSC | por conferir [■ VERIFICAR] | o assunto descrito não coincide com a epígrafe; confirmar |
+| Art. 443 CSC | por conferir [■ VERIFICAR] | o assunto descrito não coincide com a epígrafe; confirmar |
+| Art. 445 CSC | por conferir [■ VERIFICAR] | o assunto descrito não coincide com a epígrafe; confirmar |
 | art. 96.º do CSC | conferida (epígrafe) — Tutela dos credores |  |
 | art. 96.º, n.º 1 do CSC | conferida (epígrafe) — Tutela dos credores |  |

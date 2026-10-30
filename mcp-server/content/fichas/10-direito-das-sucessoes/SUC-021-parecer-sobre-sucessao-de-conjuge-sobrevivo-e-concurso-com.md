@@ -97,7 +97,7 @@ A quota mínima garantida ao cônjuge em concurso com filhos é de ¼ da heranç
 **V — DIREITO ESPECIAL À CASA DE MORADA DE FAMÍLIA**
 Nos termos do art. 2103.º-A CC, o cônjuge sobrevivo pode requerer que lhe seja atribuída, no âmbito da partilha, a casa onde o casal tinha o seu lar, bem como o respetivo recheio.
 [■ VERIFICAR: confirmar que o imóvel era a casa de morada de família e que integra a herança (não apenas a meação)]
-Se o valor do imóvel exceder a quota do cônjuge na herança, este deverá pagar tornas aos co-herdeiros (filhos) pelo excesso.
+Se o valor do imóvel exceder a quota do cônjuge na herança, este deverá pagar tornas aos coerdeiros (filhos) pelo excesso.
 
 **VI — SÍNTESE DOS DIREITOS DO CÔNJUGE SOBREVIVO**
 

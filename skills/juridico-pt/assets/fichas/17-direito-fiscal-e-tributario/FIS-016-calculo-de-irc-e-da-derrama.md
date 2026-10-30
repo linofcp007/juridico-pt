@@ -6,7 +6,8 @@ titulo_en: "Calculation of IRC and the Surcharge (Derrama)"
 descricao: "Produz um cálculo orientativo de IRC (Imposto sobre o Rendimento das Pessoas Coletivas) e da Derrama Municipal e Estadual, partindo do resultado líquido contabilístico e percorrendo as correções fiscais, deduções, taxas e limitações previstas no CIRC, com identificação das normas aplicáveis."
 descricao_en: "Produces an indicative calculation of Corporate Income Tax (IRC) and of the Municipal and State Surcharges (derrama), starting from the net accounting profit and working through the tax adjustments, deductions, rates and limitations provided for in the CIRC, identifying the applicable provisions."
 ambito: nacional
-estado_citacoes: "conferidas 17 · corrigidas 3 · por conferir 2"
+estado_citacoes: "conferidas 21 · corrigidas 3 · por conferir 3"
+revisao_tecnica: "2026-10-28 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
@@ -14,7 +15,8 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 
 > **Âmbito:** nacional · **Área:** Direito Fiscal e Tributário · **Código:** FIS-016
 > **EN:** Calculation of IRC and the Surcharge (Derrama). Produces an indicative calculation of Corporate Income Tax (IRC) and of the Municipal and State Surcharges (derrama), starting from the net accounting profit and working through the tax adjustments, deductions, rates and limitations provided for in the CIRC, identifying the applicable provisions.
-> **Citações:** conferidas 17 · corrigidas 3 · por conferir 2. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 21 · corrigidas 3 · por conferir 3. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-28 — corrigida (8 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
 Produz um cálculo orientativo de IRC (Imposto sobre o Rendimento das Pessoas Coletivas) e da Derrama Municipal e Estadual, partindo do resultado líquido contabilístico e percorrendo as correções fiscais, deduções, taxas e limitações previstas no CIRC, com identificação das normas aplicáveis.
 
@@ -26,11 +28,11 @@ Ficha de trabalho para preparar este documento. As regras da casa prevalecem sob
 - NUNCA inventes gastos não aceites, limitações ou taxas sem base legal
 - Marca [■ VERIFICAR: o que falta] para dados a confirmar
 - Cita os artigos do CIRC aplicáveis a cada correção
-- Taxa geral de IRC: 21% (art. 87.º, n.º 1 CIRC) [■ VERIFICAR: taxa do ano fiscal]
-- PME: taxa reduzida de 17% nos primeiros € 25.000 (art. 87.º, n.º 2 CIRC) [■ VERIFICAR: limites atuais]
+- Taxa geral de IRC: 19% nos períodos de tributação iniciados em 2026, 18% nos iniciados em 2027 e 17% a partir de 2028 (art. 87.º, n.º 1 CIRC; art. 3.º da Lei n.º 64/2025, de 7 de novembro)
+- PME e Small Mid Cap: taxa reduzida de 15% nos primeiros € 50.000 de matéria coletável, aplicando-se ao excedente a taxa geral (art. 87.º, n.º 2 CIRC); 12,5% para as startups que cumpram os requisitos (art. 87.º, n.º 8, CIRC) [■ VERIFICAR: taxas do período de tributação em causa]
 - Derrama Municipal: taxa variável por município, max. 1,5% sobre lucro tributável (art. 18.º Lei n.º 73/2013) [■ VERIFICAR: taxa do município]
 - Derrama Estadual: escalões sobre lucro tributável acima de € 1,5M (art. 87.º-A CIRC) [■ VERIFICAR: escalões atuais]
-- Pagamento especial por conta: art. 106.º CIRC [■ VERIFICAR: o art. 106.º CIRC (pagamento especial por conta) foi revogado; confirmar se a menção ainda se aplica] [■ VERIFICAR: regras atuais]
+- Pagamento especial por conta: o art. 106.º CIRC [■ VERIFICAR: o art. 106.º CIRC (pagamento especial por conta) foi revogado; confirmar se a menção ainda se aplica] foi revogado pela Lei n.º 12/2022, de 27 de junho, com efeitos nos períodos de tributação iniciados em ou após 1 de janeiro de 2022 — já não entra no cálculo; mantêm-se os pagamentos por conta e os pagamentos adicionais por conta (arts. 104.º, 105.º e 105.º-A CIRC)
 
 ---
 
@@ -39,7 +41,7 @@ Ficha de trabalho para preparar este documento. As regras da casa prevalecem sob
 ### ETAPA 1 — PROBLEMATIZAÇÃO
 Analisa em <analise_do_caso>:
 - Qual o período tributário e o exercício fiscal da empresa?
-- É PME (Pequena e Média Empresa)? (relevante para taxa reduzida)
+- É PME (Pequena e Média Empresa) ou Small Mid Cap? (relevante para a taxa reduzida do art. 87.º, n.º 2, CIRC)
 - Qual o resultado líquido contabilístico antes de IRC?
 - Quais as principais correções fiscais conhecidas (gastos não aceites, variações patrimoniais)?
 - A empresa tem prejuízos fiscais de anos anteriores a deduzir?
@@ -52,7 +54,7 @@ Identifica em <fundamentos_juridicos>:
 - Art. 23.º CIRC — gastos dedutíveis
 - Art. 23.º-A CIRC — gastos não dedutíveis
 - Art. 29.º ss CIRC — depreciações e amortizações
-- Art. 67.º CIRC — limitação à dedução de gastos de financiamento (30% do EBITDA) [■ VERIFICAR: regra atual]
+- Art. 67.º CIRC — limitação à dedução de gastos de financiamento (gastos de financiamento líquidos dedutíveis até ao maior de € 1.000.000 ou 30% do resultado antes de depreciações, amortizações, gastos de financiamento líquidos e impostos)
 - Art. 52.º CIRC — dedução de prejuízos fiscais
 - Art. 87.º CIRC — taxas de IRC
 - Art. 87.º-A CIRC — Derrama Estadual
@@ -96,8 +98,8 @@ Prejuízo utilizado: − € [valor]
 Matéria coletável: € [lucro tributável − prejuízo]
 
 **PASSO 7 — APLICAÇÃO DAS TAXAS**
-Primeiros € 25.000 (PME) × 17% = € [valor] [■ VERIFICAR]
-Restante × 21% = € [valor]
+Primeiros € 50.000 (PME / Small Mid Cap) × 15% = € [valor]
+Restante × 19% (períodos iniciados em 2026; 18% em 2027; 17% a partir de 2028) = € [valor]
 Coleta de IRC: € [total]
 
 **PASSO 8 — DEDUÇÕES À COLETA**
@@ -119,9 +121,9 @@ Tributações autónomas: € [valor]
 **PASSO 12 — TOTAL DE IMPOSTO**
 IRC + Derrama Municipal + Derrama Estadual + Tributações Autónomas = € [total]
 
-**PASSO 13 — PAGAMENTOS POR CONTA E PEC**
+**PASSO 13 — PAGAMENTOS POR CONTA E RETENÇÕES**
 Pagamentos por conta: − € [valor]
-Pagamento especial por conta (PEC): − € [valor]
+Pagamentos adicionais por conta (derrama estadual — art. 105.º-A CIRC): − € [valor]
 RETIDO NA FONTE: − € [valor]
 Imposto a pagar / a receber: € [resultado]
 
@@ -144,7 +146,7 @@ Apresenta em <checklist_validacao>:
 - Denominação social: [nome]
 - NIPC: [número]
 - Sede: [município]
-- PME (Micro/Pequena/Média): [sim / não]
+- PME (Micro/Pequena/Média) ou Small Mid Cap: [sim / não]
 - Período tributário: [ano]
 
 **RESULTADO CONTABILÍSTICO:**
@@ -167,7 +169,7 @@ Apresenta em <checklist_validacao>:
 
 **PAGAMENTOS EFETUADOS:**
 - Pagamentos por conta: € [valor]
-- PEC: € [valor]
+- Pagamentos adicionais por conta: € [valor]
 - Retenções na fonte sofridas: € [valor]
 
 **TRIBUTAÇÕES AUTÓNOMAS:**
@@ -180,11 +182,15 @@ Apresenta em <checklist_validacao>:
 | Citação | Estado | Nota |
 |---|---|---|
 | art. 87.º, n.º 1 CIRC | conferida (epígrafe) — Taxas |  |
+| art. 3.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 87.º, n.º 2 CIRC | conferida (epígrafe) — Taxas |  |
+| art. 87.º, n.º 8, CIRC | conferida (epígrafe) — Taxas |  |
 | art. 18.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 87.º-A CIRC | conferida (epígrafe) — Derrama Estadual |  |
 | art. 87.º-A CIRC | conferida (epígrafe) — Derrama Estadual |  |
 | art. 106.º CIRC | por conferir [■ VERIFICAR] | o art. 106.º CIRC (pagamento especial por conta) foi revogado; confirmar se a menção ainda se aplica |
+| arts. 104.º, 105.º e 105.º-A CIRC | conferida (epígrafe) — Regras de pagamento |  |
+| art. 87.º, n.º 2, CIRC | conferida (epígrafe) — Taxas |  |
 | Art. 17.º ss CIRC | conferida (epígrafe) — Determinação do lucro tributável |  |
 | Art. 23.º CIRC | conferida (epígrafe) — Gastos e perdas |  |
 | Art. 23.º-A CIRC | conferida (epígrafe) — Encargos não dedutíveis para efeitos fiscais |  |
@@ -200,4 +206,5 @@ Apresenta em <checklist_validacao>:
 | art. 52.º CIRC | conferida (epígrafe) — Dedução de prejuízos fiscais |  |
 | art. 88.º CIRC | conferida (epígrafe) — Taxas de tributação autónoma |  |
 | art. 88.º CIRC | conferida (epígrafe) — Taxas de tributação autónoma |  |
+| art. 105.º-A CIRC | conferida (epígrafe) — Cálculo do pagamento adicional por conta |  |
 | art. 67.º CIRC | corrigida — Limitação à dedutibilidade de gastos de financiamento | o número citado no catálogo não correspondia à epígrafe |

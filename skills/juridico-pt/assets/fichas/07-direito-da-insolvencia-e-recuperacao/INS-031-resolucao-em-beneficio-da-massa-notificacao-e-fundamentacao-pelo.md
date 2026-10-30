@@ -6,7 +6,8 @@ titulo_en: "Avoidance for the Benefit of the Estate — Notice and Grounds by th
 descricao: "Elabora a notificação de resolução de atos em benefício da massa insolvente, ao abrigo dos artigos 120.º a 127.º do CIRE, identificando os pressupostos do direito de resolução (prejudicialidade e má-fé), os prazos e os efeitos restitutórios, destinada ao administrador de insolvência ou ao advogado que o aconselha."
 descricao_en: "Prepares the notice avoiding transactions for the benefit of the insolvent estate (resolução em benefício da massa), under Articles 120 to 127 of the CIRE, identifying the requirements of the right of avoidance (prejudice and bad faith), the time limits and the restitutionary effects, intended for the insolvency administrator or the lawyer advising them."
 ambito: nacional
-estado_citacoes: "conferidas 10 · corrigidas 0 · por conferir 10"
+estado_citacoes: "conferidas 14 · corrigidas 0 · por conferir 12"
+revisao_tecnica: "2026-10-28 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
@@ -14,7 +15,8 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 
 > **Âmbito:** nacional · **Área:** Direito da Insolvência e Recuperação · **Código:** INS-031
 > **EN:** Avoidance for the Benefit of the Estate — Notice and Grounds by the Administrator. Prepares the notice avoiding transactions for the benefit of the insolvent estate (resolução em benefício da massa), under Articles 120 to 127 of the CIRE, identifying the requirements of the right of avoidance (prejudice and bad faith), the time limits and the restitutionary effects, intended for the insolvency administrator or the lawyer advising them.
-> **Citações:** conferidas 10 · corrigidas 0 · por conferir 10. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 14 · corrigidas 0 · por conferir 12. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-28 — corrigida (7 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
 Elabora a notificação de resolução de atos em benefício da massa insolvente, ao abrigo dos artigos 120.º a 127.º do CIRE, identificando os pressupostos do direito de resolução (prejudicialidade e má-fé), os prazos e os efeitos restitutórios, destinada ao administrador de insolvência ou ao advogado que o aconselha.
 
@@ -32,7 +34,7 @@ Ficha de trabalho para preparar este documento. As regras da casa prevalecem sob
 ### ETAPA 1 — PROBLEMATIZAÇÃO
 Apresenta dentro de um bloco <analise_do_ato>:
 - Natureza do ato a resolver (gratuito, oneroso, garantia, pagamento antecipado)
-- Data do ato e data da declaração de insolvência (cálculo do prazo retroativo)
+- Data do ato e data do início do processo de insolvência (os prazos retroativos dos arts. 120.º e 121.º contam-se do início do processo e abrangem o período até à declaração — art. 4.º, n.º 2, CIRE)
 - Identificação do terceiro beneficiário
 - Prejuízo para a massa (quantificação)
 - Indicadores de má-fé do terceiro (art. 120.º, n.º 4, CIRE)
@@ -40,13 +42,13 @@ Apresenta dentro de um bloco <analise_do_ato>:
 
 ### ETAPA 2 — ANÁLISE JURÍDICA
 Apresenta dentro de um bloco <fundamentos_juridicos>:
-- Pressupostos da resolução condicional (art. 120.º CIRE): ato prejudicial + má-fé do terceiro
-- Pressupostos da resolução incondicional (art. 121.º CIRE): atos gratuitos (2 anos), pagamentos antecipados, garantias constituídas no período suspeito
+- Pressupostos da resolução condicional (art. 120.º CIRE): ato prejudicial à massa praticado nos dois anos anteriores ao início do processo + má-fé do terceiro (presumida quando no ato tenha participado ou dele tenha aproveitado pessoa especialmente relacionada com o insolvente — n.º 4); não são resolúveis os negócios celebrados no âmbito de PER, PEAP ou RERE destinados a financiar a recuperação (n.º 6)
+- Pressupostos da resolução incondicional (art. 121.º CIRE), sem outros requisitos: partilha no ano anterior (al. a)); atos gratuitos nos dois anos anteriores (al. b)); garantias reais para obrigações preexistentes nos seis meses anteriores (al. c)) ou simultâneas, nos 60 dias anteriores (al. e)); fianças, avais e mandatos de crédito sem real interesse, nos seis meses anteriores (al. d)); pagamentos antecipados e pagamentos em termos não usuais, nos seis meses anteriores (als. f) e g)); atos onerosos manifestamente desequilibrados e reembolso de suprimentos no ano anterior (als. h) e i)) — prazos contados do início do processo
 - Prazo para exercício do direito de resolução (art. 123.º CIRE: 6 meses a contar do conhecimento + 2 anos da declaração)
-- Forma da resolução: notificação ao terceiro (art. 123.º, n.º 1, CIRE)
-- Efeitos restitutórios: devolução das prestações com juros (art. 126.º CIRE)
-- Direito de impugnação pelo terceiro (art. 125.º CIRE [■ VERIFICAR: o prazo de impugnação do art. 125.º CIRE conta-se em meses, não em 30 dias; confirmar o prazo em vigor]: 30 dias para deduzir oposição)
-- Má-fé: conhecimento da situação de insolvência ou do prejuízo (art. 120.º, n.º 4, CIRE)
+- Forma da resolução: declaração do administrador por carta registada com aviso de receção (art. 123.º, n.º 1, CIRE); enquanto o negócio não estiver cumprido, pode ser declarada por via de exceção, sem dependência de prazo (n.º 2)
+- Efeitos restitutórios: efeitos retroativos, devendo reconstituir-se a situação que existiria se o ato não tivesse sido praticado (art. 126.º, n.º 1, CIRE); a restituição do objeto prestado pelo terceiro só tem lugar se puder ser identificado e separado, sendo o valor dívida da massa na medida do enriquecimento (n.os 4 e 5); o adquirente a título gratuito de boa-fé só restitui na medida do seu enriquecimento (n.º 6)
+- Direito de impugnação pelo terceiro (art. 125.º CIRE [■ VERIFICAR: o prazo de impugnação do art. 125.º CIRE conta-se em meses, não em 30 dias; confirmar o prazo em vigor]: ação proposta contra a massa insolvente, como dependência do processo de insolvência; o direito caduca no prazo de três meses)
+- Má-fé: conhecimento, à data do ato, da situação de insolvência, do caráter prejudicial do ato e da insolvência iminente, ou do início do processo (art. 120.º, n.º 5, CIRE)
 
 ### ETAPA 3 — ESTRUTURA DA NOTIFICAÇÃO
 Define em <estrutura_notificacao>:
@@ -69,18 +71,19 @@ Na qualidade de Administrador de Insolvência nomeado nos autos de insolvência 
 
 **II — FUNDAMENTO LEGAL**
 [Art. 120.º (prejudicial + má-fé) / Art. 121.º, n.º 1, al. [X] (incondicional)]
-O ato foi celebrado em [data], [X] meses/anos antes da declaração de insolvência proferida em [data], enquadrando-se no período retroativo de [2/4] anos previsto no art. [X] do CIRE.
+O ato foi praticado em [data], [X] meses/anos antes do início do presente processo de insolvência, em [data], enquadrando-se no período de [dois anos — art. 120.º, n.º 1 / prazo da alínea aplicável do art. 121.º, n.º 1] do CIRE.
 
 **III — PREJUÍZO PARA A MASSA**
 [Quantificação do prejuízo e sua demonstração]
 
 **IV — EFEITOS RESTITUTÓRIOS**
-Nos termos do artigo 126.º do CIRE, V.ª Ex.ª fica obrigado(a) a restituir à massa insolvente [descrição das prestações + juros legais desde a data do ato].
+Nos termos do artigo 126.º do CIRE, a resolução tem efeitos retroativos, devendo V.ª Ex.ª restituir à massa insolvente [descrição dos bens ou valores a restituir, de modo a reconstituir a situação que existiria se o ato não tivesse sido praticado] [■ VERIFICAR: fundamento de eventuais frutos ou juros].
 
-**V — PRAZO DE OPOSIÇÃO**
-Nos termos do artigo 125.º do CIRE [■ VERIFICAR: o prazo de impugnação do art. 125.º CIRE conta-se em meses, não em 30 dias; confirmar o prazo em vigor], V.ª Ex.ª dispõe de **30 dias** a contar da receção da presente notificação para deduzir oposição judicial.
+**V — IMPUGNAÇÃO DA RESOLUÇÃO**
+Nos termos do artigo 125.º do CIRE [■ VERIFICAR: o prazo de impugnação do art. 125.º CIRE conta-se em meses, não em 30 dias; confirmar o prazo em vigor], o direito de impugnar a presente resolução caduca no prazo de **três meses**, mediante ação proposta contra a massa insolvente, que corre como dependência do processo de insolvência.
 
 Data e assinatura do Administrador de Insolvência.
+[Enviar por carta registada com aviso de receção — art. 123.º, n.º 1, CIRE]
 
 ### ETAPA 5 — CHECKLIST DE VALIDAÇÃO
 Apresenta dentro de um bloco <checklist_validacao>:
@@ -88,7 +91,8 @@ Apresenta dentro de um bloco <checklist_validacao>:
 - [ ] Enquadramento correto (resolução condicional vs. incondicional)
 - [ ] Má-fé do terceiro demonstrada (se resolução condicional)
 - [ ] Efeitos restitutórios calculados (art. 126.º CIRE)
-- [ ] Prazo de oposição do terceiro indicado (30 dias — art. 125.º CIRE [■ VERIFICAR: o prazo de impugnação do art. 125.º CIRE conta-se em meses, não em 30 dias; confirmar o prazo em vigor])
+- [ ] Prazo de impugnação do terceiro indicado (três meses, por ação contra a massa — art. 125.º CIRE)
+- [ ] Carta registada com aviso de receção (art. 123.º, n.º 1, CIRE)
 - [ ] [■ VERIFICAR] itens sinalizados
 
 ---
@@ -97,6 +101,7 @@ Apresenta dentro de um bloco <checklist_validacao>:
 - Administrador de insolvência: [nome]
 - Devedor insolvente: [firma/nome e NIPC/NIF]
 - Tribunal e processo: [dados]
+- Data do início do processo (entrada da petição inicial): [data]
 - Data da declaração de insolvência: [data]
 - Ato a resolver: [descrição]
 - Data do ato: [data]
@@ -111,9 +116,11 @@ Apresenta dentro de um bloco <checklist_validacao>:
 
 | Citação | Estado | Nota |
 |---|---|---|
+| arts. 120.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 4.º, n.º 2, CIRE | conferida (epígrafe) — Data da declaração de insolvência e início do processo |  |
 | art. 120.º, n.º 4, CIRE | conferida (epígrafe) — Princípios gerais |  |
 | art. 120.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| art. 120.º, n.º 4, CIRE | conferida (epígrafe) — Princípios gerais |  |
+| art. 120.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 120.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 120.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 121.º | por conferir [■ VERIFICAR] | diploma não identificado |
@@ -123,11 +130,15 @@ Apresenta dentro de um bloco <checklist_validacao>:
 | art. 123.º CIRE | conferida (epígrafe) — Forma de resolução e prescrição do direito |  |
 | art. 123.º CIRE | conferida (epígrafe) — Forma de resolução e prescrição do direito |  |
 | art. 123.º, n.º 1, CIRE | conferida (epígrafe) — Forma de resolução e prescrição do direito |  |
-| art. 126.º CIRE | conferida (epígrafe) — Efeitos da resolução |  |
-| art. 126.º CIRE | conferida (epígrafe) — Efeitos da resolução |  |
+| art. 123.º, n.º 1, CIRE | conferida (epígrafe) — Forma de resolução e prescrição do direito |  |
+| art. 123.º, n.º 1, CIRE | conferida (epígrafe) — Forma de resolução e prescrição do direito |  |
+| art. 126.º, n.º 1, CIRE | conferida (epígrafe) — Efeitos da resolução |  |
 | art. 125.º CIRE | por conferir [■ VERIFICAR] | o prazo de impugnação do art. 125.º CIRE conta-se em meses, não em 30 dias; confirmar o prazo em vigor |
-| art. 125.º CIRE | por conferir [■ VERIFICAR] | o prazo de impugnação do art. 125.º CIRE conta-se em meses, não em 30 dias; confirmar o prazo em vigor |
+| art. 125.º CIRE | por conferir [■ VERIFICAR] | o assunto descrito não coincide com a epígrafe; confirmar |
+| art. 120.º, n.º 5, CIRE | conferida (epígrafe) — Princípios gerais |  |
 | Art. 120.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | Art. 121.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 121.º, n.º 1] do CIRE | conferida (epígrafe) — Resolução incondicional |  |
 | artigo 126.º do CIRE | conferida (epígrafe) — Efeitos da resolução |  |
 | artigo 125.º do CIRE | por conferir [■ VERIFICAR] | o prazo de impugnação do art. 125.º CIRE conta-se em meses, não em 30 dias; confirmar o prazo em vigor |
+| art. 126.º CIRE | conferida (epígrafe) — Efeitos da resolução |  |

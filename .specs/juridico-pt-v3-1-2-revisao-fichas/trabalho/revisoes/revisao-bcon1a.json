@@ -1,0 +1,313 @@
+[
+ {
+  "codigo": "CON-002",
+  "veredicto": "corrigida",
+  "resumo": "A ficha fundava o pedido de informações no art. 18.º da Lei 19/2012 (buscas) e o privilégio advogado-cliente no art. 19.º (busca domiciliária); o pedido rege-se pelo art. 15.º e a coima pela alínea h) do n.º 1 do art. 68.º, não por um inexistente n.º 2, alínea j). Tratava ainda como privilegiados os pareceres jurídicos internos, quando o acórdão Akzo Nobel só protege a correspondência com advogado independente, e limitava a confidencialidade aos dados de terceiros. Corrigiram-se as normas, o pedido de confidencialidade (art. 15.º, n.º 3, alínea c)) e a nota sobre a clemência.",
+  "substituicoes": [
+   {
+    "de": "- Distingue o que é obrigatório fornecer do que pode ser recusado (privilegiado advogado-cliente, documentos internos de análise jurídica)",
+    "para": "- Distingue o que é obrigatório fornecer do que pode ser recusado (correspondência com advogado independente protegida pelo segredo profissional; os documentos internos de análise jurídica e os pareceres de juristas da empresa não estão, em regra, protegidos no direito da UE [■ VERIFICAR: alcance da proteção no direito nacional])",
+    "motivo": "Só a correspondência com advogado independente está protegida (acórdãos AM & S e Akzo Nobel); os documentos internos não o estão, por si.",
+    "fonte": "https://publications.europa.eu/resource/celex/62007CJ0550"
+   },
+   {
+    "de": "- Nota: confissão de infração ou fornecimento de prova auto-incriminatória pode excluir benefício de clemência",
+    "para": "- Nota: se a empresa participou num cartel, avalia antes de responder a apresentação de pedido de dispensa ou redução da coima (arts. 75.º e seguintes, Lei n.º 19/2012): as provas entregues só na resposta passam a estar na posse da AdC e podem deixar de ter o valor adicional significativo exigido para a redução (art. 78.º, n.º 1, alínea a)); a resposta não vale como pedido de clemência, que exige requerimento próprio (art. 80.º-A)",
+    "motivo": "A clemência pressupõe que a empresa revele a participação e entregue provas; o risco real é a perda do valor adicional face às provas já na posse da AdC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1705&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Artigo 18.º Lei n.º 19/2012 — dever de colaboração e poderes de investigação",
+    "para": "- Artigo 15.º Lei n.º 19/2012 — pedidos de informação: elementos obrigatórios do pedido (base jurídica, qualidade do destinatário, objetivo e prazo), prazo de resposta não inferior a 10 dias úteis, salvo decisão fundamentada (n.º 4), e identificação fundamentada das informações confidenciais (n.º 3, alínea c)); as informações de pessoa singular não podem ser usadas como prova para a sancionar nem aos familiares próximos (n.º 5)",
+    "motivo": "Os pedidos de informação regem-se pelo art. 15.º; o art. 18.º regula as buscas, o exame, a recolha e a apreensão.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1705&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Artigo 19.º Lei n.º 19/2012 — privilégio advogado-cliente (legal professional privilege)",
+    "para": "- Segredo profissional do advogado (legal professional privilege): a Lei n.º 19/2012 só o prevê expressamente na apreensão em escritório de advogado (art. 20.º, n.os 4 e 5; o art. 19.º regula a busca domiciliária) [■ VERIFICAR: fundamento e alcance da proteção na resposta a pedidos de informação (Estatuto da Ordem dos Advogados) e situação dos juristas internos inscritos na Ordem]",
+    "motivo": "O art. 19.º da Lei 19/2012 regula a busca domiciliária, não o segredo profissional.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1705&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Acórdão AM&S/Comissão (proteção de correspondência advogado-cliente)",
+    "para": "- Acórdão do TJ de 18 de maio de 1982, AM & S Europe/Comissão (155/79), e acórdão do TJ de 14 de setembro de 2010, Akzo Nobel Chemicals e Akcros Chemicals/Comissão (C-550/07 P): só está protegida a correspondência com advogado independente, sem vínculo laboral ao cliente, ligada ao exercício do direito de defesa",
+    "motivo": "O acórdão Akzo Nobel exclui da proteção, no direito da UE, as comunicações com juristas internos.",
+    "fonte": "https://publications.europa.eu/resource/celex/62007CJ0550"
+   },
+   {
+    "de": "- Coima por não colaboração: art. 68.º, n.º 2, alínea j), Lei 19/2012",
+    "para": "- Coima pela não prestação de informações no prazo fixado ou por informações falsas, inexatas ou incompletas: art. 68.º, n.º 1, alínea h), Lei 19/2012 [■ VERIFICAR: limite máximo da coima aplicável às empresas, art. 69.º]; para pessoas singulares, 10 a 50 UC (art. 69.º, n.º 9)",
+    "motivo": "A falta de resposta a pedido de informação é a alínea h) do n.º 1 do art. 68.º; o n.º 2 não tem alíneas.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1705&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "**VI. PEDIDO DE CONFIDENCIALIDADE**\n[Se houver informação comercialmente sensível de terceiros]",
+    "para": "**VI. PEDIDO DE CONFIDENCIALIDADE**\n[Identificação fundamentada das informações que constituem segredos de negócio, da empresa ou de terceiros, com cópia não confidencial expurgada e descrição concisa da informação omitida (art. 15.º, n.º 3, alínea c), Lei n.º 19/2012)]",
+    "motivo": "O art. 15.º, n.º 3, alínea c), exige identificação fundamentada e versão não confidencial, também para os segredos da própria empresa.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1705&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- [ ] Pedido de confidencialidade para dados de terceiros (se aplicável)",
+    "para": "- [ ] Segredos de negócio (da empresa ou de terceiros) identificados de forma fundamentada, com versão não confidencial (art. 15.º, n.º 3, alínea c))",
+    "motivo": "A confidencialidade abrange os segredos de negócio da própria empresa e exige versão não confidencial.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1705&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "[Correspondência com advogados externos, pareceres jurídicos internos]",
+    "para": "[Correspondência com advogados externos; pareceres de juristas internos, indicando se estão inscritos na Ordem dos Advogados [■ VERIFICAR: se estão protegidos]]",
+    "motivo": "Os pareceres internos não são, por si, privilegiados (acórdão Akzo Nobel).",
+    "fonte": "https://publications.europa.eu/resource/celex/62007CJ0550"
+   }
+  ],
+  "descricao": "Gera uma resposta formal e estrategicamente calibrada a um pedido de informações emitido pela Autoridade da Concorrência (AdC) ao abrigo do artigo 15.º da Lei n.º 19/2012, com gestão do risco de auto-incriminação, seleção criteriosa dos elementos a disponibilizar e fundamentação das recusas legalmente admissíveis.",
+  "descricao_en": "Generates a formal, strategically calibrated response to a request for information issued by the Portuguese Competition Authority (AdC) under Article 15 of Law No. 19/2012, managing the risk of self-incrimination, carefully selecting the material to be disclosed and stating the grounds for any legally permissible refusals.",
+  "pontos_para_o_advogado": [
+   "Confirmar o limite máximo da coima aplicável às empresas pela infração do art. 68.º, n.º 1, alínea h), da Lei 19/2012: a versão consolidada consultada (PGDL) não o fixa no art. 69.º.",
+   "Confirmar se, nos processos da AdC, o segredo profissional abrange os pareceres de juristas internos inscritos na Ordem dos Advogados (no direito da UE, o acórdão Akzo Nobel exclui-os).",
+   "Confirmar o alcance do direito de não se autoincriminar na resposta a pedidos de informação (jurisprudência nacional e do TJUE).",
+   "Avaliar com o cliente, antes de responder, um pedido de dispensa ou redução da coima."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1705&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://publications.europa.eu/resource/celex/62007CJ0550"
+  ]
+ },
+ {
+  "codigo": "CON-003",
+  "veredicto": "corrigida",
+  "resumo": "A ficha situava a exceção de eficiência num inexistente n.º 3 do art. 9.º da Lei 19/2012 (está no art. 10.º), citava o Regulamento 330/2010, que caducou em 31/5/2022, e remetia para as orientações da Comissão sobre coimas em vez das Linhas de Orientação da AdC (julho de 2024). Previa também umas «alegações finais» que não existem na instrução da AdC. Corrigiram-se as normas, a peça passou a ser a pronúncia do art. 25.º, com os prazos mínimos, e o art. 69.º passou a ser o critério principal da medida da coima.",
+  "substituicoes": [
+   {
+    "de": "- Artigo 9.º, n.º 3, Lei 19/2012 — exceção de eficiência (block exemption ou individual)",
+    "para": "- Artigo 10.º Lei 19/2012 — justificação por ganhos de eficiência: individual, com prova das condições cumulativas a cargo da empresa (n.os 1 e 2), ou por aplicação de regulamento de isenção por categoria (n.º 3)",
+    "motivo": "A justificação (exceção de eficiência) está no art. 10.º; o art. 9.º só tem dois números.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1705&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "**IV.3. Exceção de eficiência (art. 9.º, n.º 3)**",
+    "para": "**IV.3. Exceção de eficiência (art. 10.º)**",
+    "motivo": "A justificação está no art. 10.º da Lei 19/2012.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1705&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Regulamento (CE) n.º 330/2010 [■ VERIFICAR: substituído] — restrições verticais",
+    "para": "- Regulamento (UE) 2022/720 — acordos verticais (em vigor desde 1 de junho de 2022, caduca em 31 de maio de 2034); para condutas anteriores, o Regulamento (UE) n.º 330/2010, que caducou em 31 de maio de 2022, e o período transitório até 31 de maio de 2023 (art. 10.º do Regulamento (UE) 2022/720)",
+    "motivo": "O Reg. 330/2010 caducou em 31/5/2022 e foi substituído pelo Reg. (UE) 2022/720; o regime depende do período da conduta.",
+    "fonte": "https://publications.europa.eu/resource/celex/32022R0720"
+   },
+   {
+    "de": "- Orientações da Comissão para o cálculo de coimas [■ VERIFICAR: versão vigente]",
+    "para": "- Linhas de Orientação da AdC sobre a metodologia a utilizar na aplicação de coimas (art. 69.º, n.º 13, Lei 19/2012): as de julho de 2024 nos processos cujo inquérito foi aberto após a sua entrada em vigor; nos anteriores, as de dezembro de 2012, adaptadas à Lei n.º 17/2022 nos inquéritos abertos já ao abrigo desta (ponto 13) [■ VERIFICAR: versão aplicável ao processo]; as Orientações da Comissão Europeia não vinculam a AdC",
+    "motivo": "Num processo da AdC aplicam-se as Linhas de Orientação da AdC sobre coimas, não as da Comissão.",
+    "fonte": "https://www.concorrencia.pt/sites/default/files/documentos/legislacao/LdO%20Coimas.pdf"
+   },
+   {
+    "de": "- Princípio da proporcionalidade (art. 18.º RGCO)",
+    "para": "- Critérios de determinação da medida da coima (art. 69.º, n.º 1, Lei 19/2012) e princípio da proporcionalidade; o art. 18.º RGCO só se aplica subsidiariamente (art. 13.º, n.º 1, Lei 19/2012)",
+    "motivo": "A medida da coima rege-se pelo art. 69.º da Lei 19/2012; o RGCO é direito subsidiário.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1705&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "**RESPOSTA À NOTA DE ILICITUDE / ALEGAÇÕES FINAIS**",
+    "para": "**PRONÚNCIA ESCRITA SOBRE A NOTA DE ILICITUDE (art. 25.º, n.º 1, Lei n.º 19/2012) / PRONÚNCIA SOBRE NOVOS ELEMENTOS DE PROVA (art. 25.º, n.º 5)**",
+    "motivo": "Na instrução da AdC não há alegações finais: o visado pronuncia-se sobre a nota de ilicitude e sobre as provas complementares (art. 25.º).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1705&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- [ ] Prazo de resposta respeitado",
+    "para": "- [ ] Prazo de pronúncia respeitado (o fixado pela AdC, não inferior a 30 dias úteis — art. 25.º, n.º 1; não inferior a 10 dias úteis para novos elementos de prova — n.º 5) e pedida, se útil, audição oral (n.º 2)",
+    "motivo": "O art. 25.º fixa prazos mínimos de pronúncia e permite pedir audição oral.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1705&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   }
+  ],
+  "descricao": "Gera uma peça de defesa (pronúncia escrita sobre a nota de ilicitude ou sobre novos elementos de prova) em processo contraordenacional instaurado pela Autoridade da Concorrência (AdC) por infração ao artigo 9.º da Lei n.º 19/2012 e/ou artigo 101.º do TFUE, com refutação factual, impugnação jurídica e argumentos de atenuação da coima.",
+  "descricao_en": "Generates a defence submission (written reply to the statement of objections (nota de ilicitude) or to new evidence) in administrative offence proceedings brought by the Portuguese Competition Authority (AdC) for infringement of Article 9 of Law No. 19/2012 and/or Article 101 TFEU, with factual rebuttal, legal challenge and arguments for mitigating the fine.",
+  "pontos_para_o_advogado": [
+   "Confirmar, pela data de abertura do inquérito, que versão das Linhas de Orientação sobre coimas da AdC se aplica (julho de 2024 ou dezembro de 2012).",
+   "Verificar a prescrição do procedimento (art. 74.º da Lei 19/2012) e o efeito da Lei n.º 51/2026, de 17 de agosto, noticiada como aplicando a Lei n.º 17/2022 aos processos pendentes (texto oficial não lido).",
+   "Fixar o período da conduta para escolher o regulamento de isenção aplicável (Reg. 330/2010 ou Reg. 2022/720; regulamentos horizontais, se a prática for entre concorrentes).",
+   "Ponderar o procedimento de transação na instrução (art. 27.º) e a audição oral (art. 25.º, n.º 2)."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1705&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://publications.europa.eu/resource/celex/32022R0720",
+   "https://www.concorrencia.pt/sites/default/files/documentos/legislacao/LdO%20Coimas.pdf",
+   "https://www.concorrencia.pt/pt/artigos/autoridade-da-concorrencia-aprova-linhas-de-orientacao-sobre-fixacao-de-coimas",
+   "https://apcmc.pt/legislacao/concorrencia-aplicacao-da-lei-17-2022-aos-processos-pendentes/"
+  ]
+ },
+ {
+  "codigo": "CON-020",
+  "veredicto": "corrigida",
+  "resumo": "A ficha situava os poderes de inspeção nos arts. 20.º a 27.º da Lei 19/2012 (estão nos arts. 17.º-A a 20.º) e o privilégio advogado-cliente no art. 19.º (busca domiciliária), e punha o «mandato» como emitido pela AdC, quando as buscas dependem de autorização da autoridade judiciária. Mandava ainda não mostrar documentos até o advogado chegar, prometia uma espera de 15-30 minutos sem base legal e limitava as buscas ao horário laboral. Corrigiram-se as normas, a verificação da credencial e do despacho, o primeiro minuto (sem obstrução), a coima (art. 68.º, n.º 1, alíneas i) e j)) e o regime das inquirições.",
+  "substituicoes": [
+   {
+    "de": "- Cita corretamente: Lei n.º 19/2012 (arts. 20.º a 27.º — poderes de inspeção), Regulamento (CE) 1/2003 (art. 20.º — inspeções da Comissão)",
+    "para": "- Cita corretamente: Lei n.º 19/2012 (arts. 17.º-A a 20.º — poderes de inquirição, busca, exame, recolha e apreensão), Regulamento (CE) 1/2003 (art. 20.º — inspeções da Comissão)",
+    "motivo": "Os poderes de inquirição e busca estão nos arts. 17.º-A a 20.º; os arts. 21.º a 27.º tratam de competência, transação e instrução.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1705&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- O advogado externo deve ser contactado imediatamente e presente antes de qualquer ato relevante",
+    "para": "- O advogado externo deve ser contactado imediatamente; a sua ausência não suspende as diligências, a que a empresa é obrigada a sujeitar-se (art. 18.º, n.º 9, Lei 19/2012)",
+    "motivo": "A empresa é obrigada a sujeitar-se às diligências autorizadas; não há direito de as suspender até o advogado chegar.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1705&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Artigos 20.º a 27.º Lei 19/2012 — poderes de inspeção da AdC:",
+    "para": "- Artigos 17.º-A a 20.º Lei 19/2012 — poderes de inquirição, busca, exame, recolha e apreensão da AdC (as diligências do art. 18.º, n.º 1, alíneas a) a d), dependem de autorização da autoridade judiciária competente, n.º 2):",
+    "motivo": "Os poderes de inspeção estão nos arts. 17.º-A a 20.º e dependem de autorização judiciária.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1705&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Artigo 19.º Lei 19/2012 — privilégio advogado-cliente (não entregues documentos protegidos)",
+    "para": "- Segredo profissional do advogado: a Lei 19/2012 só prevê expressamente a nulidade da apreensão de documentos abrangidos pelo segredo profissional em escritório de advogado (art. 20.º, n.os 4 e 5; o art. 19.º regula a busca domiciliária) [■ VERIFICAR: alcance da proteção da correspondência com advogado encontrada nas instalações da empresa]; nas inspeções da Comissão, só está protegida a correspondência com advogado independente (acórdão do TJ de 14 de setembro de 2010, Akzo Nobel, C-550/07 P)",
+    "motivo": "O art. 19.º regula a busca domiciliária; o segredo profissional consta do art. 20.º, n.os 4 e 5.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1705&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- O que a empresa PODE recusar: documentos protegidos pelo privilégio; respostas auto-incriminatórias",
+    "para": "- O que a empresa PODE recusar: documentos protegidos pelo segredo profissional do advogado. A falta ou recusa de resposta, ou a resposta falsa, inexata ou incompleta, durante as diligências é contraordenação (art. 68.º, n.º 1, alínea i), Lei 19/2012) [■ VERIFICAR: alcance do direito de não responder a perguntas que impliquem admitir a infração]",
+    "motivo": "A recusa de resposta nas diligências é contraordenação autónoma; não há um direito geral de recusar respostas.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1705&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Coima por obstrução: artigo 68.º, n.º 2, alínea k), Lei 19/2012 — até 1% do VN",
+    "para": "- Coima por não colaboração ou obstrução: artigo 68.º, n.º 1, alínea j), Lei 19/2012 [■ VERIFICAR: limite máximo da coima aplicável às empresas, art. 69.º]; para pessoas singulares, 10 a 50 UC (art. 69.º, n.º 9)",
+    "motivo": "A obstrução é a alínea j) do n.º 1 do art. 68.º (a alínea k) é a falta de comparência); o limite de 1 % não consta da versão consolidada do art. 69.º.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1705&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Verificação do mandato de inspeção",
+    "para": "- Verificação da credencial e do despacho de autorização (ou da decisão da Comissão)",
+    "motivo": "Nas buscas da AdC há credencial da AdC e despacho da autoridade judiciária, não um mandato da AdC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1705&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "4. Não entregar nem mostrar qualquer documento antes de o advogado chegar.\n5. Pedir uma curta pausa para contactar o advogado — a AdC geralmente concede 15-30 minutos.",
+    "para": "4. Não impedir nem atrasar o início das diligências à espera do advogado: a empresa é obrigada a sujeitar-se às diligências autorizadas (art. 18.º, n.º 9, Lei 19/2012) e a obstrução é contraordenação (art. 68.º, n.º 1, alínea j)).\n5. Pedir aos inspetores que aguardem um curto período pela chegada do advogado; a lei não prevê esse direito e a espera depende da AdC [■ VERIFICAR: prática atual da AdC].",
+    "motivo": "Reter documentos até o advogado chegar pode ser obstrução; a espera de 15-30 minutos não tem base na Lei 19/2012.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1705&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "**VERIFICAÇÃO DO MANDATO**\nSolicitar e copiar o mandato de inspeção da AdC. Verificar:\n- Autoridade emissora (AdC ou Comissão?)\n- Âmbito: quais documentos, sistemas, períodos?\n- Identificação dos inspetores",
+    "para": "**VERIFICAÇÃO DA CREDENCIAL E DO DESPACHO DE AUTORIZAÇÃO**\nSolicitar e copiar a credencial dos inspetores e o despacho de autorização. Verificar:\n- Quem inspeciona e com que título: na AdC, credencial emitida pela AdC com a finalidade da diligência e despacho de autorização da autoridade judiciária competente (Ministério Público ou juiz de instrução), notificado à empresa no momento da diligência (art. 18.º, n.os 2 e 5, Lei 19/2012); na Comissão Europeia, mandado escrito ou decisão de inspeção (art. 20.º, n.os 3 e 4, Regulamento (CE) 1/2003)\n- Âmbito: objeto e finalidade da diligência, instalações, sistemas, períodos\n- Identificação dos inspetores e de quem os acompanha (art. 18.º, n.º 7)",
+    "motivo": "As buscas da AdC dependem de despacho da autoridade judiciária; a credencial da AdC indica a finalidade da diligência.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1705&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "✅ Aceder às instalações durante o horário laboral\n✅ Examinar e copiar documentos em papel e digital\n✅ Interrogar trabalhadores sobre factos (mas não obrigar a autoincriminação)\n✅ Selar sistemas ou salas para continuar no dia seguinte",
+    "para": "✅ Aceder sem aviso prévio às instalações, terrenos, meios de transporte, dispositivos e equipamentos da empresa (art. 18.º, n.º 1, alínea a)); a lei não limita estas diligências ao horário laboral (a busca em casa habitada só entre as 7 e as 21 horas, art. 19.º, n.º 6)\n✅ Inspecionar livros e registos em qualquer suporte, tirar cópias e continuar a pesquisa e a seleção de cópias nas instalações da AdC (alíneas b) e c))\n✅ Pedir esclarecimentos e inquirir representantes e trabalhadores sobre factos ou documentos relacionados com o objeto e a finalidade da busca (alíneas e) e f))\n✅ Selar instalações, livros ou registos durante o período necessário às diligências (alínea d))",
+    "motivo": "O art. 18.º, n.º 1, não limita o acesso ao horário laboral e permite continuar a seleção de cópias nas instalações da AdC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1705&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "❌ Documentos protegidos pelo privilégio advogado-cliente (comunicações com advogado externo sobre situação legal da empresa)\n❌ Acesso fora das horas do mandato\n❌ Acesso a locais não cobertos pelo mandato",
+    "para": "❌ Documentos protegidos pelo segredo profissional do advogado (comunicações com advogado externo sobre a situação jurídica da empresa) [■ VERIFICAR: alcance da proteção fora do escritório de advogado]\n⚠️ Diligências que excedam o objeto e a finalidade do despacho de autorização: não as impedir; registar a objeção por escrito e pedir que conste do auto (art. 18.º, n.os 9 e 11)",
+    "motivo": "A empresa é obrigada a sujeitar-se às diligências autorizadas; recusar o acesso pode ser obstrução, pelo que a objeção se regista sem impedir.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1705&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Qualquer trabalhador interrogado tem direito a estar acompanhado por advogado.\n- Não é obrigado a responder a perguntas auto-incriminatórias.",
+    "para": "- Qualquer pessoa inquirida pode fazer-se acompanhar de advogado, que a informa dos seus direitos sem intervir na inquirição (art. 17.º-A, n.º 6, Lei 19/2012).\n- As declarações de pessoa singular não podem ser usadas como prova para a sancionar nem aos familiares próximos (art. 15.º, n.º 5, por remissão do art. 17.º-A, n.º 5); a recusa de resposta ou a resposta falsa ou incompleta é contraordenação (art. 68.º, n.º 1, alínea i)) [■ VERIFICAR: alcance do direito de não responder a perguntas que impliquem admitir a infração].",
+    "motivo": "O advogado acompanha sem intervir; a recusa de resposta é contraordenação e a proteção da pessoa singular está no art. 15.º, n.º 5.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1705&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "1. Listar todos os documentos copiados.",
+    "para": "1. Listar todos os documentos copiados e conferi-los com o auto da diligência notificado à empresa (art. 18.º, n.os 10 e 11, Lei 19/2012).",
+    "motivo": "A empresa é notificada do auto da diligência e do auto de apreensão.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1705&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "5. Preparar resposta ao processo que será aberto.",
+    "para": "5. Preparar a defesa no processo de contraordenação em curso e avaliar logo a apresentação de pedido de dispensa ou redução da coima (arts. 75.º e seguintes, Lei 19/2012).",
+    "motivo": "As buscas fazem-se já no exercício de poderes sancionatórios, com o inquérito aberto (arts. 17.º e 18.º).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1705&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- [ ] Mandato de inspeção verificado e copiado",
+    "para": "- [ ] Credencial e despacho de autorização (ou decisão da Comissão) verificados e copiados",
+    "motivo": "Nas buscas da AdC há credencial e despacho judiciário, não um mandato da AdC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1705&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar o limite máximo da coima para as empresas por obstrução ou resposta falsa (art. 68.º, n.º 1, alíneas i) e j)): a versão consolidada consultada não o fixa no art. 69.º.",
+   "Confirmar o alcance do segredo profissional sobre a correspondência com advogado encontrada nas instalações da empresa (o art. 20.º, n.º 5, só o prevê para o escritório de advogado) e o estado da jurisprudência sobre a apreensão de correio eletrónico.",
+   "Confirmar a prática atual da AdC quanto a aguardar a chegada do advogado.",
+   "Nas inspeções da Comissão, adaptar o protocolo ao art. 20.º do Reg. (CE) 1/2003 e ao acórdão Akzo Nobel (juristas internos sem proteção)."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1705&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://publications.europa.eu/resource/celex/32003R0001",
+   "https://publications.europa.eu/resource/celex/62007CJ0550",
+   "https://diariodarepublica.pt/dr/detalhe/lei/17-2022-187538042"
+  ]
+ },
+ {
+  "codigo": "CON-024",
+  "veredicto": "corrigida",
+  "resumo": "A ficha atribuía os níveis de redução ao art. 77.º do NRJC (que regula a dispensa; a redução está no art. 78.º), omitia a redução a metade após a nota de ilicitude e citava o art. 7.º da Lei 23/2018 como «proteção limitada» das declarações de clemência, quando o art. 14.º, n.º 5, as exclui da exibição. Sugeria também reservar provas para fases posteriores e admitia uma mera promessa de cessar a infração, ambas contrárias às condições do art. 77.º, n.º 2, aplicáveis por força do art. 78.º. Corrigiram-se as normas, a estratégia de cooperação (com a posição na ordem dos pedidos dos arts. 80.º-C e 80.º-D), o conteúdo obrigatório do requerimento (art. 80.º-A) e a checklist.",
+  "substituicoes": [
+   {
+    "de": "- Estimar a faixa de redução expetável: 1.º qualificado (30-50%), 2.º qualificado (20-30%), 3.º qualificado (até 20%) — art. 77.º NRJC",
+    "para": "- Estimar a faixa de redução expetável: 1.º qualificado (30-50%), 2.º qualificado (20-30%), seguintes (até 20%) — art. 78.º, n.º 2, NRJC; se o pedido for apresentado após a notificação da nota de ilicitude, os níveis são reduzidos a metade (art. 78.º, n.º 5)",
+    "motivo": "A redução está no art. 78.º (o art. 77.º regula a dispensa) e os níveis caem para metade após a nota de ilicitude.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1705&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Decidir o que revelar no pedido inicial vs. o que reservar para fases posteriores",
+    "para": "- Não reservar provas para fases posteriores: a requerente tem de fornecer todas as informações e provas na sua posse ou sob o seu controlo (art. 77.º, n.º 2, alínea a), i), aplicável por força do art. 78.º, n.º 1, alínea b), e art. 80.º-A, n.º 3, NRJC); se precisar de tempo, pode pedir uma posição na ordem dos pedidos, com prazo não inferior a 15 dias para completar o requerimento (arts. 80.º-C, n.º 1, e 80.º-D, n.º 1)",
+    "motivo": "Reservar provas viola o dever de cooperação plena, que é condição da redução.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1705&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Avaliar impacto em litígios de private enforcement futuros (art. 7.º, n.º 3, Lei 23/2018 — proteção limitada de declarações de clemência)",
+    "para": "- Avaliar impacto em litígios de private enforcement futuros: o tribunal não pode ordenar a apresentação das declarações de clemência (art. 14.º, n.º 5, alínea a), Lei 23/2018), mas os restantes meios de prova do processo da AdC podem ser exibidos (n.os 6 e 9); quem obtém só redução continua solidariamente responsável pelos danos (art. 5.º, n.º 1; a limitação do n.º 4 é só para o beneficiário de dispensa)",
+    "motivo": "As declarações de clemência estão excluídas da exibição (art. 14.º, n.º 5, Lei 23/2018); o art. 7.º regula a força probatória das decisões.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2899&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Identificação e posicionamento da requerente no processo",
+    "para": "- Identificação e posicionamento da requerente no processo, com os elementos obrigatórios do requerimento: objeto, identificação da requerente e dos visados (incluindo os membros do órgão de administração, atuais e do período da infração), informação precisa sobre a infração, outras jurisdições onde foi pedida clemência e meios de prova com a respetiva listagem (art. 80.º-A, n.os 2 e 3, NRJC)",
+    "motivo": "O art. 80.º-A fixa o conteúdo obrigatório do requerimento e exige a junção das provas com listagem.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1705&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "A Requerente cessou [ou compromete-se a cessar] a participação na infração e compromete-se a cooperar plena e continuamente, nos termos do artigo 80.º do NRJC.",
+    "para": "A Requerente pôs termo à sua participação na infração em [■ VERIFICAR: data] (salvo o que a AdC considere necessário para preservar a eficácia da investigação) e compromete-se a cooperar plena e continuamente com a AdC, nos termos do artigo 77.º, n.º 2, alíneas a) e b), aplicável por força do artigo 78.º, n.º 1, alínea b), do NRJC.",
+    "motivo": "A cessação tem de ocorrer até à entrega das provas e o dever de cooperação está no art. 77.º, n.º 2; o art. 80.º só remete para o regulamento da AdC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1705&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "requer-se a concessão de uma redução de coima na ordem de [30-50% / 20-30% / até 20%], nos termos do artigo 77.º do NRJC.",
+    "para": "requer-se a concessão de uma redução de coima na ordem de [30-50% / 20-30% / até 20%], nos termos do artigo 78.º, n.º 2, do NRJC.",
+    "motivo": "Os níveis de redução estão no art. 78.º, n.º 2.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1705&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- [ ] Confirmar que a AdC já tem um processo aberto ou investigação em curso",
+    "para": "- [ ] Confirmar se já há pedido de dispensa, processo aberto ou nota de ilicitude notificada (após esta, os níveis de redução são reduzidos a metade — art. 78.º, n.º 5, NRJC)",
+    "motivo": "A redução não depende de processo aberto; o momento do pedido conta para a ordem e para o nível da redução.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1705&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- [ ] Verificar proteção limitada das declarações de clemência em ações de private enforcement",
+    "para": "- [ ] Verificar a proteção das declarações de clemência em ações de private enforcement (exibição vedada — art. 14.º, n.º 5, alínea a), Lei 23/2018) e a manutenção da responsabilidade solidária (art. 5.º, Lei 23/2018)",
+    "motivo": "A exibição das declarações de clemência está vedada; a proteção não é «limitada».",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2899&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar o regulamento da AdC sobre o procedimento de dispensa ou redução da coima em vigor (art. 80.º do NRJC) e os formulários aplicáveis.",
+   "Confirmar a posição da requerente na ordem dos pedidos e se já há pedido de dispensa pendente (art. 80.º-D, n.º 4).",
+   "Lembrar à requerente o dever de não revelar a existência nem o teor do pedido (art. 77.º, n.º 2, alínea a), iv)).",
+   "Se a AdC entender que não há valor adicional significativo, avaliar pedir que as provas contem como colaboração para a medida da coima (art. 80.º-D, n.º 3)."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1705&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2899&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+  ]
+ }
+]

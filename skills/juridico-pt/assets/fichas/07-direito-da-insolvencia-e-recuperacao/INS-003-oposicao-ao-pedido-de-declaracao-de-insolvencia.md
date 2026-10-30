@@ -6,7 +6,8 @@ titulo_en: "Opposition to a Petition for a Declaration of Insolvency"
 descricao: "Gera a oposição do devedor ao pedido de declaração de insolvência formulado por credor, impugnando os factos-índice alegados, contestando a existência ou exigibilidade do crédito e requerendo a improcedência do pedido, nos termos do artigo 30.º do CIRE."
 descricao_en: "Generates the debtor's opposition to a creditor's petition for a declaration of insolvency, challenging the alleged indicative facts, disputing the existence or enforceability of the claim and seeking dismissal of the petition, under Article 30 of the CIRE."
 ambito: nacional
-estado_citacoes: "conferidas 9 · corrigidas 0 · por conferir 5"
+estado_citacoes: "conferidas 19 · corrigidas 0 · por conferir 5"
+revisao_tecnica: "2026-10-30 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
@@ -14,7 +15,8 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 
 > **Âmbito:** nacional · **Área:** Direito da Insolvência e Recuperação · **Código:** INS-003
 > **EN:** Opposition to a Petition for a Declaration of Insolvency. Generates the debtor's opposition to a creditor's petition for a declaration of insolvency, challenging the alleged indicative facts, disputing the existence or enforceability of the claim and seeking dismissal of the petition, under Article 30 of the CIRE.
-> **Citações:** conferidas 9 · corrigidas 0 · por conferir 5. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 19 · corrigidas 0 · por conferir 5. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-30 — corrigida (10 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
 Gera a oposição do devedor ao pedido de declaração de insolvência formulado por credor, impugnando os factos-índice alegados, contestando a existência ou exigibilidade do crédito e requerendo a improcedência do pedido, nos termos do artigo 30.º do CIRE.
 
@@ -43,15 +45,15 @@ Apresenta dentro de um bloco <analise_do_caso>:
   5. Ilegitimidade do credor
   6. Vício processual (incompetência do tribunal, nulidades)
 - Situação financeira real do devedor (liquidez, ativo vs. passivo)
-- Prazo de oposição: 10 dias da notificação (art. 30.º, n.º 1 CIRE) — urgente
+- Prazo de oposição: 10 dias da notificação (art. 30.º, n.º 1 CIRE), contados da citação pessoal do devedor (art. 29.º, n.º 1, CIRE) — processo urgente (art. 9.º, n.º 1, CIRE): o prazo corre em férias judiciais (art. 138.º, n.º 1, CPC)
 
 ### ETAPA 2 — ANÁLISE JURÍDICA (Fundamentação)
 Apresenta dentro de um bloco <fundamentos_juridicos>:
 - Art. 3.º CIRE — conceito de insolvência (impossibilidade de cumprir obrigações vencidas)
 - Art. 20.º CIRE — factos-índice: analisa cada um alegado e contesta
 - Art. 30.º CIRE — prazo e forma da oposição
-- Art. 20.º, n.º 2 CIRE [■ VERIFICAR: o art. 20.º CIRE enumera os factos-índice; o ónus da prova da solvência do devedor está no art. 30.º CIRE] — ónus da prova dos factos-índice cabe ao credor
-- Se aplicável: art. 3.º, n.º 2 CIRE — insolvência iminente como distinção
+- Art. 30.º, n.os 3 e 4, CIRE — a oposição pode basear-se na inexistência do facto-índice ou na inexistência da situação de insolvência; cabe ao credor requerente provar o facto-índice que alega, mas cabe ao devedor provar a sua solvência, com base na escrituração legalmente obrigatória, se for o caso, devidamente organizada e arrumada
+- Sendo o devedor pessoa coletiva ou património autónomo sem responsável pessoal e ilimitado: art. 3.º, n.º 2 CIRE — também é insolvente se o passivo for manifestamente superior ao ativo, salvo se o ativo for superior ao passivo segundo as regras de avaliação do n.º 3; a insolvência meramente iminente só se equipara à atual na apresentação pelo próprio devedor (art. 3.º, n.º 4, CIRE), pelo que não fundamenta o pedido do credor
 - Exceções processuais: incompetência (art. 7.º CIRE), ilegitimidade (arts. 19.º e 20.º CIRE)
 - [■ VERIFICAR: jurisprudência dos tribunais de comércio sobre o facto-índice contestado]
 
@@ -59,8 +61,8 @@ Apresenta dentro de um bloco <fundamentos_juridicos>:
 Apresenta dentro de um bloco <estrategia>:
 - Hierarquia dos fundamentos de oposição (do mais forte ao mais fraco)
 - Documentos de suporte a cada fundamento
-- Se deve oferecer depósito do crédito contestado (para paralisar o processo enquanto litiga)
-- Necessidade de requerer produção de prova (testemunhal, pericial, documental)
+- Se convém pagar ou transigir com o credor requerente, que pode desistir do pedido ou da instância até à sentença (art. 21.º CIRE); o CIRE não prevê o depósito do crédito para suspender o processo
+- Necessidade de requerer produção de prova (testemunhal, pericial, documental) — todos os meios de prova são oferecidos com a oposição, ficando o devedor obrigado a apresentar as testemunhas arroladas (art. 30.º, n.º 1, e art. 25.º, n.º 2, CIRE)
 - Se é caso de propor PER ou PEAP em alternativa (demonstrar viabilidade)
 
 ### ETAPA 4 — A OPOSIÇÃO
@@ -88,7 +90,7 @@ Documentos juntos e meios de prova requeridos
 **5. DOS REQUERIMENTOS**
 "Termos em que requer a V. Ex.ª que se digne julgar a presente oposição procedente e, em consequência:
 a) Absolver o Requerido do pedido formulado, por [fundamento principal];
-[b) Caso assim não se entenda, suspender a instância para produção de prova sobre a situação financeira do Requerido]"
+[b) Admitir os meios de prova oferecidos, a produzir na audiência de discussão e julgamento (art. 35.º CIRE)]"
 
 **6. VALOR DA CAUSA**
 Mesmo valor indicado pelo credor requerente
@@ -96,16 +98,18 @@ Mesmo valor indicado pelo credor requerente
 **7. DOCUMENTOS JUNTOS**
 - Doc. 1: [Prova de pagamento do crédito ou de inexistência]
 - Doc. 2: [Balanço atualizado ou certidão bancária de disponibilidades]
-- Doc. 3: [Outros documentos de suporte]
+- Doc. 3: Lista dos cinco maiores credores do Requerido, com exclusão do requerente, com indicação do domicílio (art. 30.º, n.º 2, CIRE — sob pena de não recebimento da oposição)
+- Doc. 4: [Outros documentos de suporte]
 
-**8. FECHAMENTO**
+**8. FECHO**
 [Localidade], [data].
 [Nome do mandatário]
 Advogado, Cédula Profissional n.º [número]
 
 ### ETAPA 5 — FORMULAÇÃO FINAL (Validação)
 Apresenta dentro de um bloco <checklist_validacao>:
-- [ ] Prazo de 10 dias da notificação cumprido (art. 30.º, n.º 1 CIRE)
+- [ ] Prazo de 10 dias da notificação cumprido (art. 30.º, n.º 1 CIRE), contado da citação e sem suspensão em férias judiciais
+- [ ] Lista dos cinco maiores credores, com exclusão do requerente, junta com a oposição (art. 30.º, n.º 2, CIRE)
 - [ ] Todos os factos-índice alegados contestados ou explicados
 - [ ] Existência/exigibilidade do crédito contestada com prova (se aplicável)
 - [ ] Situação financeira real do devedor demonstrada documentalmente
@@ -132,7 +136,7 @@ Apresenta dentro de um bloco <checklist_validacao>:
 **PROCESSO:**
 - Tribunal: [tribunal e juízo]
 - Número do processo: [número]
-- Data da notificação: [data — o prazo de 10 dias conta daqui]
+- Data da citação: [data — o prazo de 10 dias conta daqui e corre em férias judiciais]
 
 **FACTOS-ÍNDICE ALEGADOS PELO CREDOR:**
 [Transcreve ou resume o que o credor alegou na petição]
@@ -164,15 +168,25 @@ Apresenta dentro de um bloco <checklist_validacao>:
 |---|---|---|
 | art. 20.º CIRE | conferida (epígrafe) — Outros legitimados |  |
 | art. 30.º, n.º 1 CIRE | conferida (epígrafe) — Oposição do devedor |  |
+| art. 30.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 30.º, n.º 1 CIRE | conferida (epígrafe) — Oposição do devedor |  |
+| art. 29.º, n.º 1, CIRE | conferida (epígrafe) — Citação do devedor |  |
+| art. 9.º, n.º 1, CIRE | conferida (índice) |  |
+| art. 138.º, n.º 1, CPC | conferida (índice) |  |
 | Art. 3.º CIRE | conferida (epígrafe) — Situação de insolvência |  |
 | Art. 20.º CIRE | conferida (epígrafe) — Outros legitimados |  |
 | Art. 30.º CIRE | conferida (epígrafe) — Oposição do devedor |  |
-| Art. 20.º, n.º 2 CIRE | por conferir [■ VERIFICAR] | o art. 20.º CIRE enumera os factos-índice; o ónus da prova da solvência do devedor está no art. 30.º CIRE |
+| Art. 30.º, n.os 3 e 4, CIRE | conferida (epígrafe) — Oposição do devedor |  |
 | art. 3.º, n.º 2 CIRE | conferida (epígrafe) — Situação de insolvência |  |
+| art. 3.º, n.º 4, CIRE | conferida (epígrafe) — Situação de insolvência |  |
 | art. 7.º CIRE | conferida (epígrafe) — Tribunal competente |  |
 | arts. 19.º e 20.º CIRE | conferida (epígrafe) — A quem compete o pedido |  |
+| art. 21.º CIRE | conferida (epígrafe) — Desistência do pedido ou da instância no processo de insolvência |  |
+| art. 25.º, n.º 2, CIRE | conferida (epígrafe) — Requerimento por outro legitimado |  |
 | Artigo 1.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | Artigo 2.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | Artigo 3.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | Artigo 4.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 35.º CIRE | conferida (epígrafe) — Audiência de discussão e julgamento |  |
+| art. 30.º, n.º 2, CIRE | conferida (epígrafe) — Oposição do devedor |  |
+| art. 30.º, n.º 2, CIRE | conferida (epígrafe) — Oposição do devedor |  |

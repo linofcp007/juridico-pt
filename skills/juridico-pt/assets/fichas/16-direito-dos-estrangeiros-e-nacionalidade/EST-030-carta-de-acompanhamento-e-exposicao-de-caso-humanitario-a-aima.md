@@ -3,20 +3,22 @@ codigo: EST-030
 area: "Direito dos Estrangeiros e Nacionalidade"
 titulo: "Carta de Acompanhamento e Exposição de Caso Humanitário à AIMA"
 titulo_en: "Cover Letter and Humanitarian Case Statement to AIMA"
-descricao: "Elabora uma carta de acompanhamento e exposição de caso humanitário dirigida à AIMA (Agência para a Integração, Migrações e Asilo), fundamentada em circunstâncias excecionais de natureza humanitária, ao abrigo do artigo 123.º da Lei n.º 23/2007 (autorização de residência por razões humanitárias) ou de outros fundamentos de proteção, com o objetivo de obter tratamento prioritário, concessão ou renovação de autorização de residência, ou suspensão de medida de afastamento."
-descricao_en: "Drafts a cover letter and humanitarian case statement addressed to AIMA (Agency for Integration, Migration and Asylum), based on exceptional humanitarian circumstances, under Article 123 of Law No. 23/2007 (residence permit on humanitarian grounds) or other protection grounds, with a view to obtaining priority treatment, the grant or renewal of a residence permit, or the suspension of a removal measure."
+descricao: "Elabora uma carta de acompanhamento e exposição de caso humanitário dirigida à AIMA (Agência para a Integração, Migrações e Asilo), fundamentada em circunstâncias excecionais de natureza humanitária, ao abrigo do artigo 123.º da Lei n.º 23/2007 (autorização de residência por razões humanitárias, concedida pelo membro do Governo sob proposta da AIMA) ou de outros fundamentos de proteção, com o objetivo de obter tratamento prioritário e a concessão ou renovação de autorização de residência; a suspensão de uma medida de afastamento pede-se em tribunal."
+descricao_en: "Drafts a cover letter and humanitarian case statement addressed to AIMA (Agency for Integration, Migration and Asylum), based on exceptional humanitarian circumstances, under Article 123 of Law No. 23/2007 (residence permit on humanitarian grounds, granted by the member of Government on AIMA's proposal) or other protection grounds, with a view to obtaining priority treatment and the grant or renewal of a residence permit; suspension of a removal measure is sought in court."
 ambito: nacional
-estado_citacoes: "conferidas 0 · corrigidas 0 · por conferir 14"
+estado_citacoes: "conferidas 1 · corrigidas 0 · por conferir 27"
+revisao_tecnica: "2026-10-28 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
 # Carta de Acompanhamento e Exposição de Caso Humanitário à AIMA
 
 > **Âmbito:** nacional · **Área:** Direito dos Estrangeiros e Nacionalidade · **Código:** EST-030
-> **EN:** Cover Letter and Humanitarian Case Statement to AIMA. Drafts a cover letter and humanitarian case statement addressed to AIMA (Agency for Integration, Migration and Asylum), based on exceptional humanitarian circumstances, under Article 123 of Law No. 23/2007 (residence permit on humanitarian grounds) or other protection grounds, with a view to obtaining priority treatment, the grant or renewal of a residence permit, or the suspension of a removal measure.
-> **Citações:** conferidas 0 · corrigidas 0 · por conferir 14. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **EN:** Cover Letter and Humanitarian Case Statement to AIMA. Drafts a cover letter and humanitarian case statement addressed to AIMA (Agency for Integration, Migration and Asylum), based on exceptional humanitarian circumstances, under Article 123 of Law No. 23/2007 (residence permit on humanitarian grounds, granted by the member of Government on AIMA's proposal) or other protection grounds, with a view to obtaining priority treatment and the grant or renewal of a residence permit; suspension of a removal measure is sought in court.
+> **Citações:** conferidas 1 · corrigidas 0 · por conferir 27. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-28 — corrigida (7 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
-Elabora uma carta de acompanhamento e exposição de caso humanitário dirigida à AIMA (Agência para a Integração, Migrações e Asilo), fundamentada em circunstâncias excecionais de natureza humanitária, ao abrigo do artigo 123.º da Lei n.º 23/2007 (autorização de residência por razões humanitárias) ou de outros fundamentos de proteção, com o objetivo de obter tratamento prioritário, concessão ou renovação de autorização de residência, ou suspensão de medida de afastamento.
+Elabora uma carta de acompanhamento e exposição de caso humanitário dirigida à AIMA (Agência para a Integração, Migrações e Asilo), fundamentada em circunstâncias excecionais de natureza humanitária, ao abrigo do artigo 123.º da Lei n.º 23/2007 (autorização de residência por razões humanitárias, concedida pelo membro do Governo sob proposta da AIMA) ou de outros fundamentos de proteção, com o objetivo de obter tratamento prioritário e a concessão ou renovação de autorização de residência; a suspensão de uma medida de afastamento pede-se em tribunal.
 
 ## Método
 
@@ -47,27 +49,29 @@ Apresente dentro de um bloco <analise_do_caso>:
 
 ### ETAPA 2 — ANÁLISE JURÍDICA (Fundamentação)
 Apresente dentro de um bloco <fundamentos_juridicos>:
-- Art. 123.º da Lei n.º 23/2007 — autorização de residência por razões humanitárias (fundamentos excecionais, condições de concessão)
+- Art. 123.º da Lei n.º 23/2007 — regime excecional: autorização de residência temporária por razões humanitárias, designadamente atendendo ao superior interesse da criança (n.º 1, al. b)), mediante proposta do conselho diretivo da AIMA, I. P., ou por iniciativa do membro do Governo responsável pelas migrações, que decide fundamentadamente (n.ºs 1 e 3); só se aplica quando não couber o art. 122.º
+- Art. 122.º, n.º 1, al. g), da Lei n.º 23/2007 — autorização de residência com dispensa de visto para quem sofra de doença que requeira assistência médica prolongada que obste ao retorno ao país, extensível ao acompanhante ou cuidador informal (n.º 8) [se aplicável]
 - Art. 8.º da Convenção Europeia dos Direitos Humanos (CEDH) — direito ao respeito pela vida privada e familiar [■ VERIFICAR: se aplicável ao caso]
 - Art. 3.º da CEDH — proibição de tortura e tratamentos desumanos ou degradantes — non-refoulement reforçado [■ VERIFICAR: se aplicável]
 - Convenção das Nações Unidas sobre os Direitos da Criança (art. 3.º) — interesse superior da criança — [se houver menores]
 - Convenção de Istambul (CETS n.º 210) — proteção de vítimas de violência doméstica [se aplicável]
-- Lei n.º 61/2008 (violência doméstica) e art. 209.º da Lei n.º 23/2007 — estatuto de vítima de tráfico/violência [se aplicável]
-- Diretiva 2011/95/UE (Diretiva Qualificação) e Lei n.º 27/2008 (proteção internacional) — articulação com proteção subsidiária [se aplicável]
+- Lei n.º 112/2009, de 16 de setembro (prevenção da violência doméstica e proteção das vítimas; estatuto de vítima — art. 14.º) e art. 107.º, n.º 4, da Lei n.º 23/2007 (autorização de residência autónoma do familiar reagrupado, designadamente após acusação pelo Ministério Público pela prática de violência doméstica) [se aplicável]
+- Arts. 109.º e ss. da Lei n.º 23/2007 — autorização de residência a vítimas de tráfico de pessoas ou de auxílio à imigração ilegal [se aplicável]
+- Regulamento (UE) 2024/1347 (Regulamento Qualificação, que revogou a Diretiva 2011/95/UE com efeitos a partir de 12 de junho de 2026) e Lei n.º 27/2008, alterada pela Lei n.º 62/2026, de 10 de setembro (proteção internacional) — articulação com proteção subsidiária [se aplicável; aos pedidos pendentes à data da entrada em vigor da Lei n.º 62/2026 aplica-se o regime anterior — art. 10.º desta lei]
 
 ### ETAPA 3 — CONSTRUÇÃO ARGUMENTATIVA
 Apresente dentro de um bloco <estrategia>:
 - Hierarquização dos fundamentos humanitários: qual o argumento mais forte?
 - Documentação de suporte prioritária e como obtê-la
 - Articulação com outras entidades de apoio (APAV, Santa Casa, ACNUR, Centro de Saúde, Escola)
-- Eventual pedido de efeito suspensivo se existir decisão de afastamento em curso
+- Se existir decisão de afastamento coercivo (competência do diretor nacional da PSP — arts. 140.º, n.º 1, e 149.º, n.º 1, da Lei n.º 23/2007): este pedido não suspende a sua execução; a impugnação judicial tem efeito devolutivo e a suspensão pede-se em tribunal, por processo urgente ou providência cautelar (art. 150.º, n.ºs 1 e 2; arts. 112.º e ss. do CPTA)
 - Prazo de urgência: existe risco imediato? Deve ser pedido tratamento urgente?
 
 ### ETAPA 4 — EXPOSIÇÃO ESTRUTURADA
 Redige a carta na seguinte estrutura:
 
-**AGÊNCIA PARA A INTEGRAÇÃO, MIGRAÇÕES E ASILO (AIMA)**
-Direção de Serviços [competente — VERIFICAR]
+**AGÊNCIA PARA A INTEGRAÇÃO, MIGRAÇÕES E ASILO, I. P. (AIMA, I. P.)**
+Ao Conselho Diretivo (art. 123.º, n.º 1, da Lei n.º 23/2007) [■ VERIFICAR: serviço de receção e canal de submissão]
 [Morada]
 
 **Ref.ª:** [referência interna do escritório]
@@ -94,8 +98,8 @@ Exmos. Senhores,
 
 **VI. DO PEDIDO**
 Face ao exposto, requer-se a V. Ex.as que se dignem:
-a) Conceder ao/à requerente autorização de residência por razões humanitárias, ao abrigo do art. 123.º da Lei n.º 23/2007; [e/ou]
-b) Suspender a medida de afastamento em curso, até decisão final sobre o presente pedido; [se aplicável]
+a) Propor ao membro do Governo responsável pela área das migrações a concessão ao/à requerente de autorização de residência temporária por razões humanitárias, ao abrigo do art. 123.º, n.º 1, al. b), da Lei n.º 23/2007; [e/ou]
+b) [Se aplicável] Dar conhecimento do presente pedido à PSP, competente no procedimento de afastamento coercivo em curso (arts. 140.º e 149.º da Lei n.º 23/2007) [■ VERIFICAR: o pedido não suspende a execução; a suspensão pede-se em tribunal — art. 150.º, n.º 2];
 c) Considerar o presente caso com a celeridade que a situação de vulnerabilidade impõe.
 
 [Local e data]
@@ -118,12 +122,12 @@ c) Considerar o presente caso com a celeridade que a situação de vulnerabilida
 
 ### ETAPA 5 — FORMULAÇÃO FINAL (Validação)
 Apresente dentro de um bloco <checklist_validacao>:
-- [ ] Art. 123.º da Lei n.º 23/2007 identificado como fundamento principal
+- [ ] Art. 123.º da Lei n.º 23/2007 identificado como fundamento principal, depois de excluídas as vias próprias (art. 122.º; arts. 107.º, n.º 4, e 109.º)
 - [ ] Factos humanitários expostos de forma objetiva e documentada
 - [ ] Risco concreto em caso de retorno avaliado e fundamentado
 - [ ] Artigos da CEDH aplicáveis identificados (art. 3.º e/ou art. 8.º)
 - [ ] Interesse superior da criança abordado (se menores envolvidos)
-- [ ] Pedido de efeito suspensivo incluído (se decisão de afastamento em curso)
+- [ ] Tutela judicial urgente ou cautelar ponderada (se houver decisão de afastamento coercivo — art. 150.º, n.º 2, da Lei n.º 23/2007)
 - [ ] Celeridade/urgência solicitada (se situação de risco imediato)
 - [ ] Documentação de suporte listada e disponível
 - [ ] Itens [■ VERIFICAR] sinalizados
@@ -182,13 +186,27 @@ Apresente dentro de um bloco <checklist_validacao>:
 | art. 123.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 123.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 123.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 123.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | Art. 123.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | Art. 123.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | Art. 123.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 122.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 122.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| Art. 122.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | Art. 8.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | Art. 3.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 3.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 3.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 3.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| art. 209.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 14.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 107.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| Arts. 109.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 10.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| arts. 140.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| arts. 140.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 150.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 150.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 150.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| arts. 112.º e ss. do CPTA | conferida (epígrafe) — Providências cautelares |  |
+| arts. 107.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 8.º | por conferir [■ VERIFICAR] | diploma não identificado |

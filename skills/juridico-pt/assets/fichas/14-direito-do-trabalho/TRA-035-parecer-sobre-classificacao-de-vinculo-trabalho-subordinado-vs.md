@@ -6,7 +6,8 @@ titulo_en: "Opinion on the Classification of a Working Relationship (Employment 
 descricao: "Analisa a relação jurídica entre uma empresa e um prestador de serviços (ou \"recibo verde\") e emite parecer fundamentado sobre se a relação configura verdadeira prestação de serviços (art. 1154.º CC) ou trabalho subordinado dissimulado (art. 11.º e 12.º CT), identificando os indícios determinantes e os riscos de requalificação pela ACT ou pelos tribunais."
 descricao_en: "Analyses the legal relationship between a company and a service provider (or \"recibo verde\" self-employed worker) and gives a reasoned opinion on whether the relationship is a genuine contract for services (Art. 1154 CC) or disguised subordinate employment (Arts. 11 and 12 CT), identifying the decisive indicators and the risk of reclassification by the ACT or the courts."
 ambito: nacional
-estado_citacoes: "conferidas 9 · corrigidas 0 · por conferir 0"
+estado_citacoes: "conferidas 16 · corrigidas 0 · por conferir 1"
+revisao_tecnica: "2026-10-28 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
@@ -14,7 +15,8 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 
 > **Âmbito:** nacional · **Área:** Direito do Trabalho · **Código:** TRA-035
 > **EN:** Opinion on the Classification of a Working Relationship (Employment vs. Contract for Services). Analyses the legal relationship between a company and a service provider (or "recibo verde" self-employed worker) and gives a reasoned opinion on whether the relationship is a genuine contract for services (Art. 1154 CC) or disguised subordinate employment (Arts. 11 and 12 CT), identifying the decisive indicators and the risk of reclassification by the ACT or the courts.
-> **Citações:** conferidas 9 · corrigidas 0 · por conferir 0. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 16 · corrigidas 0 · por conferir 1. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-28 — corrigida (6 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
 Analisa a relação jurídica entre uma empresa e um prestador de serviços (ou "recibo verde") e emite parecer fundamentado sobre se a relação configura verdadeira prestação de serviços (art. 1154.º CC) ou trabalho subordinado dissimulado (art. 11.º e 12.º CT), identificando os indícios determinantes e os riscos de requalificação pela ACT ou pelos tribunais.
 
@@ -34,7 +36,7 @@ Ficha de trabalho para preparar este documento. As regras da casa prevalecem sob
 
 ### ETAPA 1 — PROBLEMATIZAÇÃO (Análise da situação)
 Apresenta dentro de um bloco <analise_da_situacao>:
-- Número de indícios do art. 12.º CT verificados (contar de 1 a 6)
+- Características do art. 12.º, n.º 1, CT verificadas (als. a) a e)) e outros indícios de subordinação jurídica (ordens e instruções, integração na estrutura, poder disciplinar, exclusividade, ausência de risco económico)
 - Indícios de autonomia real que apontam para prestação de serviços
 - Situação fiscal e contributiva atual
 - Risco de requalificação: baixo / médio / alto
@@ -47,7 +49,8 @@ Apresenta dentro de um bloco <fundamentos_juridicos>:
 - Art. 12.º CT (presunção de laboralidade — indícios)
 - Art. 1154.º CC (contrato de prestação de serviços)
 - Critérios de distinção — autonomia, resultado vs. atividade, integração
-- Consequências da requalificação (créditos laborais, contribuições SS, coimas)
+- Consequências da requalificação (créditos laborais, contribuições SS, contraordenação muito grave do art. 12.º, n.º 2, CT e sanções acessórias em caso de reincidência, art. 12.º, n.º 3, CT; procedimento da ACT do art. 15.º-A da Lei n.º 107/2009 — auto, notificação para regularizar em 10 dias e participação ao Ministério Público para a ação de reconhecimento da existência de contrato de trabalho)
+- Atividade prestada através de plataforma digital: presunção própria do art. 12.º-A CT
 
 ### ETAPA 3 — ANÁLISE DOS INDÍCIOS
 Define em <analise_indicios>:
@@ -73,12 +76,14 @@ a) Local de trabalho definido pela empresa: [sim/não — factos]
 b) Equipamentos e instrumentos de trabalho da empresa: [sim/não — factos]
 c) Horário de trabalho imposto pela empresa: [sim/não — factos]
 d) Retribuição certa e periódica: [sim/não — factos]
-e) Desempenha função de chefia ou faz parte de estrutura orgânica: [sim/não — factos]
-f) Exclusividade: [sim/não — factos]
+e) Desempenha funções de direção ou chefia na estrutura orgânica da empresa: [sim/não — factos]
+
+Outros indícios (não constam do art. 12.º, n.º 1, CT, mas relevam na apreciação global da subordinação jurídica — art. 11.º CT): exclusividade, ordens e instruções, integração na equipa, poder disciplinar, possibilidade de recusar trabalho ou de se fazer substituir, risco económico: [factos]
 
 **V. AVALIAÇÃO DO RISCO**
-- Número de indícios verificados: ___
-- Risco de requalificação: baixo (0-1 indícios) / médio (2-3 indícios) / alto (4+ indícios)
+- Características do art. 12.º, n.º 1, CT verificadas: ___ (a lei não fixa um número: basta que se verifiquem «algumas»)
+- Outros indícios relevantes: ___
+- Risco de requalificação: baixo / médio / alto, fundamentado na apreciação global dos indícios e na possibilidade de o beneficiário ilidir a presunção mediante prova em contrário (art. 350.º, n.º 2, CC) [■ VERIFICAR: orientação jurisprudencial atual sobre o número de características que basta para a presunção]
 - Consequências financeiras estimadas de uma requalificação
 
 **VI. CONCLUSÃO E RECOMENDAÇÕES**
@@ -87,7 +92,7 @@ f) Exclusividade: [sim/não — factos]
 
 ### ETAPA 5 — VALIDAÇÃO
 Apresenta dentro de um bloco <checklist_validacao>:
-- [ ] Todos os 6 indícios do art. 12.º CT analisados
+- [ ] As cinco características do art. 12.º, n.º 1, CT analisadas e os demais indícios ponderados globalmente
 - [ ] Nível de risco avaliado
 - [ ] Consequências financeiras estimadas
 - [ ] Recomendações de regularização (se aplicável)
@@ -109,6 +114,7 @@ Apresenta dentro de um bloco <checklist_validacao>:
 - Equipamentos: [do prestador / da empresa]
 - Exclusividade: [sim / não — tem outros clientes]
 - Integração em equipa ou estrutura: [sim/não]
+- Funções de direção ou chefia na estrutura orgânica: [sim/não]
 - Ordens e instruções de como trabalhar: [sim/não — de quem]
 - Resultado ou atividade: [pago por projeto/resultado / por tempo/disponibilidade]
 - Pode recusar trabalho? [sim/não]
@@ -124,8 +130,16 @@ Apresenta dentro de um bloco <checklist_validacao>:
 | art. 12.º CT | conferida (índice) |  |
 | art. 12.º CT | conferida (índice) |  |
 | art. 12.º CT | conferida (índice) |  |
-| art. 12.º CT | conferida (índice) |  |
-| art. 12.º CT | conferida (índice) |  |
+| art. 12.º, n.º 1, CT | conferida (índice) |  |
+| art. 12.º, n.º 1, CT | conferida (índice) |  |
+| art. 12.º, n.º 1, CT | conferida (índice) |  |
+| art. 12.º, n.º 1, CT | conferida (índice) |  |
 | Art. 11.º CT | conferida (epígrafe) — Noção de contrato de trabalho |  |
 | Art. 12.º CT | conferida (índice) |  |
 | Art. 1154.º CC | conferida (índice) |  |
+| art. 12.º, n.º 2, CT | conferida (índice) |  |
+| art. 12.º, n.º 3, CT | conferida (índice) |  |
+| art. 15.º-A | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 12.º-A CT | conferida (epígrafe) — Presunção de contrato de trabalho no âmbito de plataforma digital |  |
+| art. 11.º CT | conferida (epígrafe) — Noção de contrato de trabalho |  |
+| art. 350.º, n.º 2, CC | conferida (epígrafe) — Presunções legais |  |

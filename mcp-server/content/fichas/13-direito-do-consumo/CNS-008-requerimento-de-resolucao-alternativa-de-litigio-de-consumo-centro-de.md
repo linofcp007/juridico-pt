@@ -3,20 +3,22 @@ codigo: CNS-008
 area: "Direito do Consumo"
 titulo: "Requerimento de Resolução Alternativa de Litígio de Consumo (centro de arbitragem)"
 titulo_en: "Application for Alternative Resolution of a Consumer Dispute (Arbitration Centre)"
-descricao: "Redige o requerimento de abertura de processo de Resolução Alternativa de Litígios (RAL) de consumo, a apresentar junto do centro de arbitragem competente (CIMAAL, CNIACC, CICAP, TRIAVE, CACCL, CACCBRAGA, etc.), ao abrigo da Lei n.º 144/2015 (que transpôs a Diretiva 2013/11/UE sobre RAL em litígios de consumo). A RAL é gratuita para o consumidor e tendencialmente vinculativa quando o profissional adere."
-descricao_en: "Drafts the application to open consumer Alternative Dispute Resolution (ADR, RAL) proceedings, to be filed with the competent arbitration centre (CIMAAL, CNIACC, CICAP, TRIAVE, CACCL, CACCBRAGA, etc.), under Law No. 144/2015 (which transposed Directive 2013/11/EU on ADR for consumer disputes). ADR is free of charge for the consumer and generally binding where the trader has adhered to it."
+descricao: "Redige o requerimento de abertura de processo de Resolução Alternativa de Litígios (RAL) de consumo, a apresentar junto do centro de arbitragem competente (CACCL, CICAP, CIAB, TRIAVE, CIMAAL, CNIACC, etc.), ao abrigo da Lei n.º 144/2015 (que transpôs a Diretiva 2013/11/UE sobre RAL em litígios de consumo). A RAL é gratuita para o consumidor ou tem uma taxa de valor reduzido, e a decisão arbitral vincula o profissional que aderiu ao centro ou que está sujeito a arbitragem necessária."
+descricao_en: "Drafts the application to open consumer Alternative Dispute Resolution (ADR, RAL) proceedings, to be filed with the competent arbitration centre (CACCL, CICAP, CIAB, TRIAVE, CIMAAL, CNIACC, etc.), under Law No. 144/2015 (which transposed Directive 2013/11/EU on ADR for consumer disputes). ADR is free of charge for the consumer or subject to a nominal fee, and the arbitral decision binds a trader that has adhered to the centre or is subject to mandatory arbitration."
 ambito: nacional
-estado_citacoes: "conferidas 0 · corrigidas 0 · por conferir 2"
+estado_citacoes: "conferidas 0 · corrigidas 0 · por conferir 8"
+revisao_tecnica: "2026-10-28 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
 # Requerimento de Resolução Alternativa de Litígio de Consumo (centro de arbitragem)
 
 > **Âmbito:** nacional · **Área:** Direito do Consumo · **Código:** CNS-008
-> **EN:** Application for Alternative Resolution of a Consumer Dispute (Arbitration Centre). Drafts the application to open consumer Alternative Dispute Resolution (ADR, RAL) proceedings, to be filed with the competent arbitration centre (CIMAAL, CNIACC, CICAP, TRIAVE, CACCL, CACCBRAGA, etc.), under Law No. 144/2015 (which transposed Directive 2013/11/EU on ADR for consumer disputes). ADR is free of charge for the consumer and generally binding where the trader has adhered to it.
-> **Citações:** conferidas 0 · corrigidas 0 · por conferir 2. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **EN:** Application for Alternative Resolution of a Consumer Dispute (Arbitration Centre). Drafts the application to open consumer Alternative Dispute Resolution (ADR, RAL) proceedings, to be filed with the competent arbitration centre (CACCL, CICAP, CIAB, TRIAVE, CIMAAL, CNIACC, etc.), under Law No. 144/2015 (which transposed Directive 2013/11/EU on ADR for consumer disputes). ADR is free of charge for the consumer or subject to a nominal fee, and the arbitral decision binds a trader that has adhered to the centre or is subject to mandatory arbitration.
+> **Citações:** conferidas 0 · corrigidas 0 · por conferir 8. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-28 — corrigida (5 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
-Redige o requerimento de abertura de processo de Resolução Alternativa de Litígios (RAL) de consumo, a apresentar junto do centro de arbitragem competente (CIMAAL, CNIACC, CICAP, TRIAVE, CACCL, CACCBRAGA, etc.), ao abrigo da Lei n.º 144/2015 (que transpôs a Diretiva 2013/11/UE sobre RAL em litígios de consumo). A RAL é gratuita para o consumidor e tendencialmente vinculativa quando o profissional adere.
+Redige o requerimento de abertura de processo de Resolução Alternativa de Litígios (RAL) de consumo, a apresentar junto do centro de arbitragem competente (CACCL, CICAP, CIAB, TRIAVE, CIMAAL, CNIACC, etc.), ao abrigo da Lei n.º 144/2015 (que transpôs a Diretiva 2013/11/UE sobre RAL em litígios de consumo). A RAL é gratuita para o consumidor ou tem uma taxa de valor reduzido, e a decisão arbitral vincula o profissional que aderiu ao centro ou que está sujeito a arbitragem necessária.
 
 ## Método
 
@@ -24,8 +26,8 @@ Ficha de trabalho para preparar este documento. As regras da casa prevalecem sob
 
 ## Regras obrigatórias
 - Identifica o centro de arbitragem competente para o setor/área geográfica
-- Verifica se o profissional tem obrigação de adesão ao RAL (setores regulados: energia, telecomunicações, serviços financeiros, transportes, turismo)
-- Para litígios transfronteiriços UE: menciona a plataforma ODR (ec.europa.eu/consumers/odr)
+- Verifica se o profissional aderiu ao centro ou se o litígio está sujeito a arbitragem necessária por opção do consumidor: serviços públicos essenciais (art. 15.º Lei n.º 23/96) e conflitos de consumo de valor até à alçada dos tribunais de 1.ª instância (art. 14.º, n.ºs 2 e 3, Lei n.º 24/96) [■ VERIFICAR: deveres setoriais de adesão a entidades RAL, por exemplo nos serviços financeiros]
+- Para litígios transfronteiriços UE: a plataforma europeia ODR foi encerrada em 20/07/2025 (Reg. (UE) 2024/3228, que revogou o Reg. (UE) n.º 524/2013); não a mencionar e encaminhar o consumidor para o Centro Europeu do Consumidor, que o auxilia a aceder à entidade RAL competente noutro Estado-Membro (art. 20.º, n.º 1, Lei n.º 144/2015)
 - NUNCA inventes decisões ou acordos de arbitragem
 - Usa português europeu (pt-PT)
 - Marca [■ VERIFICAR] quando faltam dados
@@ -39,19 +41,19 @@ Analisa em <analise_do_caso>:
 - Qual o litígio de consumo concreto?
 - Qual o valor em disputa?
 - Qual o centro de arbitragem competente?
-  - CIMAAL (Lisboa — geral)
-  - CNIACC (nacional — viagens e turismo)
-  - CICAP (Porto — geral norte)
-  - TRIAVE (Minho)
-  - CACCL (Lisboa — geral)
-  - CACCBRAGA (Braga)
-  - Centros setoriais: ERSE (energia), ANACOM (telecomunicações) [■ VERIFICAR: centro específico]
+  - CACCL — Centro de Arbitragem de Conflitos de Consumo de Lisboa
+  - CICAP — Tribunal Arbitral de Consumo (Porto)
+  - CIAB — Tribunal Arbitral de Consumo (Braga)
+  - TRIAVE — Centro de Arbitragem de Conflitos de Consumo do Vale do Ave
+  - CIMAAL — Centro de Arbitragem de Conflitos de Consumo do Algarve
+  - CNIACC — Centro Nacional de Informação e Arbitragem de Conflitos de Consumo (âmbito nacional; não é um centro de viagens e turismo)
+  - Centros especializados de âmbito nacional (por exemplo, setor automóvel e seguros); a ERSE e a ANACOM são reguladores com protocolos com os centros, não centros de arbitragem [■ VERIFICAR: lista oficial das entidades RAL publicada pela DGC (art. 17.º Lei n.º 144/2015), incluindo os centros de Coimbra e da Madeira, e a área territorial de cada centro]
 - O profissional aderiu ao RAL? É obrigado a aderir (setor regulado)?
 - Há documentação suficiente para instruir o processo?
 
 ### ETAPA 2 — ANÁLISE JURÍDICA
 Identifica em <fundamentos_juridicos>:
-- Lei n.º 144/2015 (RAL de consumo — art. 2.º: âmbito; art. 10.º: prazo de resposta do profissional)
+- Lei n.º 144/2015 (RAL de consumo — art. 2.º: âmbito; art. 10.º: procedimento gratuito ou com taxa de valor reduzido e decisão no prazo máximo de 90 dias a contar da receção do processo completo; art. 11.º: motivos de recusa, entre eles a falta de contacto prévio com o profissional e a pendência do litígio em tribunal)
 - Diretiva 2013/11/UE (interpretação conforme)
 - Legislação setorial se o litígio for em setor regulado
 - Direitos invocados na reclamação subjacente (DL 84/2021, Lei 24/96, etc.)
@@ -61,7 +63,7 @@ Define em <estrategia>:
 - Estrutura do requerimento: identificação → relação de consumo → factos → pretensão → documentos
 - Valor do pedido (patrimonial + não patrimonial se aplicável)
 - Documentos obrigatórios a juntar (fatura, reclamações, correspondência, fotografias)
-- Prazo esperado de resposta (os centros têm tendencialmente 90 dias para o processo)
+- Prazo esperado (decisão no prazo máximo de 90 dias a contar da receção do processo de reclamação completo, prorrogável no máximo duas vezes por iguais períodos em litígios de especial complexidade — art. 10.º, n.ºs 5 e 6, Lei n.º 144/2015)
 
 ### ETAPA 4 — O REQUERIMENTO
 Redige o documento nesta estrutura:
@@ -97,7 +99,7 @@ c) Os dados fornecidos são verdadeiros."
 Apresenta em <checklist_validacao>:
 - [ ] Centro de arbitragem correto identificado
 - [ ] Litígio dentro do âmbito da Lei n.º 144/2015 (litígio de consumo)
-- [ ] Adesão do profissional ao RAL verificada (ou setor regulado)
+- [ ] Adesão do profissional ao centro verificada (ou arbitragem necessária por opção do consumidor)
 - [ ] Pretensão claramente quantificada
 - [ ] Todos os documentos listados
 - [ ] Declaração de não instauração de ação judicial incluída
@@ -144,5 +146,11 @@ Apresenta em <checklist_validacao>:
 
 | Citação | Estado | Nota |
 |---|---|---|
+| art. 15.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 14.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 20.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 17.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 2.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 10.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 10.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 11.º | por conferir [■ VERIFICAR] | diploma não identificado |

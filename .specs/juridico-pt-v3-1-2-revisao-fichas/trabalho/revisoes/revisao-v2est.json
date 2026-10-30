@@ -1,0 +1,580 @@
+[
+  {
+    "codigo": "EST-019",
+    "veredicto": "corrigida",
+    "resumo": "A ficha fundamentava todo o requerimento no «Decreto-Lei n.º 3/2008, de 4 de janeiro», que não regula a residência de cidadãos da União: a Diretiva 2004/38/CE foi transposta pela Lei n.º 37/2006, de 9 de agosto (art. 1.º). Substituíram-se as remissões pelos artigos certos (art. 7.º, condições de residência; art. 14.º, registo na câmara municipal; art. 10.º, residência permanente), retirou-se o SEF (extinto) do cabeçalho, corrigiu-se a prova exigida (documento de identificação e declaração sob compromisso de honra, art. 14.º, n.º 5) e o encaminhamento dos familiares de países terceiros, que pedem o cartão de residência na AIMA (art. 15.º). Acrescentou-se a coima do registo tardio (art. 30.º) e o prazo de naturalização de 7 anos para cidadãos da UE (Lei Orgânica n.º 1/2026).",
+    "descricao": "Gera um requerimento de certificado de registo de cidadão da União Europeia para apresentar na Câmara Municipal da área de residência, fundamentado na Lei n.º 37/2006, de 9 de agosto (que transpõe a Diretiva 2004/38/CE), com identificação dos requisitos aplicáveis e documentação necessária.",
+    "descricao_en": "Generates an application for an EU citizen registration certificate to be submitted to the Municipal Council (Câmara Municipal) of the area of residence, grounded in Law No. 37/2006 of 9 August (transposing Directive 2004/38/EC), identifying the applicable requirements and the necessary documentation.",
+    "substituicoes": [
+      {
+        "de": "- Aborda os direitos que o certificado de registo confere, incluindo para efeitos de naturalização",
+        "para": "- Aborda os direitos ligados ao registo, incluindo para efeitos de naturalização: o certificado é declarativo — o direito de residência decorre do art. 7.º da Lei n.º 37/2006 e a posse do certificado não é condição para exercer direitos (art. 21.º da mesma lei)",
+        "motivo": "O certificado de registo não constitui o direito de residência; a lei di-lo expressamente (art. 21.º da Lei n.º 37/2006).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=873&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Familiares nacionais de países terceiros a incluir no registo (cônjuge, filhos)",
+        "para": "- Familiares: os que sejam cidadãos da União fazem também o registo na câmara municipal (art. 14.º, n.º 6, da Lei n.º 37/2006); os nacionais de países terceiros não entram neste registo — pedem o cartão de residência de familiar na AIMA (art. 15.º)",
+        "motivo": "Os familiares nacionais de Estado terceiro não são inscritos no registo municipal: pedem cartão de residência à AIMA (art. 15.º, n.ºs 1 e 2, da Lei n.º 37/2006).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=873&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Decreto-Lei n.º 3/2008, de 4 de janeiro — transposição para o direito português\n- Arts. 12.º a 15.º do Decreto-Lei n.º 3/2008 — condições de residência superior a 3 meses por categoria\n- Art. 18.º do Decreto-Lei n.º 3/2008 — residência permanente (5 anos de residência legal contínua)\n- Lei n.º 37/81 (Lei da Nacionalidade) — contagem do tempo de residência legal para naturalização",
+        "para": "- Lei n.º 37/2006, de 9 de agosto — transposição para o direito português (art. 1.º)\n- Art. 7.º, n.º 1, da Lei n.º 37/2006 — condições de residência superior a 3 meses por categoria (trabalhador subordinado ou independente; recursos suficientes e seguro de saúde; estudante); art. 14.º — registo na câmara municipal da área de residência, no prazo de 30 dias após decorridos 3 meses da entrada, com emissão de certificado de registo válido por 5 anos\n- Art. 10.º da Lei n.º 37/2006 — residência permanente (5 anos consecutivos de residência legal); certificado de residência permanente emitido pela AIMA (art. 16.º)\n- Lei n.º 37/81 (Lei da Nacionalidade) — contagem do tempo de residência legal para naturalização (art. 15.º; para cidadãos da UE, 7 anos de residência legal — art. 6.º, n.º 1, al. b), na redação da Lei Orgânica n.º 1/2026, de 18 de maio)",
+        "motivo": "O DL n.º 3/2008 não é o diploma da livre circulação (era o regime da educação especial, já revogado); a transposição da Diretiva 2004/38/CE é a Lei n.º 37/2006, e os artigos citados não correspondiam. A Lei da Nacionalidade foi alterada em 2026 (7 anos para cidadãos da UE).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=873&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=& | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=614&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Como justificar a apresentação tardia do pedido (se o prazo de 30 dias foi ultrapassado)\n- Documentação de suporte para familiares de países terceiros",
+        "para": "- Como justificar a apresentação tardia do pedido (se o prazo de 30 dias foi ultrapassado): o incumprimento do prazo do art. 14.º, n.º 1, da Lei n.º 37/2006 é contraordenação punível com coima de 400 € a 1500 €, reduzida a metade em caso de negligência (art. 30.º, n.ºs 1, 3 e 4)\n- Documentação de suporte para familiares: cidadãos da União — art. 14.º, n.º 6; nacionais de países terceiros — cartão de residência pedido na AIMA (art. 15.º, n.º 4)",
+        "motivo": "A ficha não indicava a consequência legal do registo tardio (art. 30.º da Lei n.º 37/2006) e misturava os familiares de países terceiros no registo municipal.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=873&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "[Serviço de Atendimento ao Cidadão / Serviço de Estrangeiros e Fronteiras — conforme município]\n\n**REQUERIMENTO DE CERTIFICADO DE REGISTO DE CIDADÃO DA UNIÃO EUROPEIA**\n**Ao abrigo do artigo 11.º do Decreto-Lei n.º 3/2008, de 4 de janeiro**",
+        "para": "[Serviço municipal competente — o registo faz-se na câmara municipal da área de residência (art. 14.º, n.º 2, da Lei n.º 37/2006); o SEF já não existe]\n\n**REQUERIMENTO DE CERTIFICADO DE REGISTO DE CIDADÃO DA UNIÃO EUROPEIA**\n**Ao abrigo do artigo 14.º da Lei n.º 37/2006, de 9 de agosto**",
+        "motivo": "O registo é municipal (art. 14.º, n.º 2, da Lei n.º 37/2006); o SEF foi extinto e as suas atribuições administrativas passaram para a AIMA (DL n.º 41/2023). Diploma e artigo corrigidos.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=873&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=& | https://aima.gov.pt/media/pages/documents/fa233e86c7-1750429842/portaria-307.pdf"
+      },
+      {
+        "de": "vem requerer a emissão do CERTIFICADO DE REGISTO DE CIDADÃO DA UNIÃO EUROPEIA, ao abrigo do artigo 11.º do Decreto-Lei n.º 3/2008, de 4 de janeiro, pelos seguintes fundamentos:",
+        "para": "vem requerer a emissão do CERTIFICADO DE REGISTO DE CIDADÃO DA UNIÃO EUROPEIA, ao abrigo do artigo 14.º da Lei n.º 37/2006, de 9 de agosto, pelos seguintes fundamentos:",
+        "motivo": "Diploma errado: o certificado de registo está no art. 14.º da Lei n.º 37/2006.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=873&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "[Diretiva 2004/38/CE e Decreto-Lei n.º 3/2008 — direito de residência de cidadãos da UE em Portugal]",
+        "para": "[Diretiva 2004/38/CE e Lei n.º 37/2006 — direito de residência de cidadãos da UE em Portugal]",
+        "motivo": "Diploma de transposição errado.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=873&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "*[Trabalhador subordinado (art. 12.º, al. a)):]*",
+        "para": "*[Trabalhador subordinado (art. 7.º, n.º 1, al. a)):]*",
+        "motivo": "As condições de residência por categoria estão no art. 7.º, n.º 1, da Lei n.º 37/2006.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=873&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "*[Trabalhador independente (art. 12.º, al. a)):]*",
+        "para": "*[Trabalhador independente (art. 7.º, n.º 1, al. a)):]*",
+        "motivo": "As condições de residência por categoria estão no art. 7.º, n.º 1, da Lei n.º 37/2006.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=873&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "*[Estudante (art. 12.º, al. c)):]*\nO/A requerente está matriculado/a na [instituição de ensino], curso de [nome], ano letivo [X], (Doc. [N]), e dispõe de meios de subsistência suficientes (Doc. [N]).",
+        "para": "*[Estudante (art. 7.º, n.º 1, al. c)):]*\nO/A requerente está matriculado/a na [instituição de ensino], curso de [nome], ano letivo [X], (Doc. [N]), e dispõe de recursos financeiros suficientes para si e para os seus familiares, comprovados por declaração ou outro meio de prova à sua escolha, e de seguro de saúde, quando exigível (Doc. [N]).",
+        "motivo": "Artigo corrigido; a lei admite a prova dos recursos por declaração ou outro meio à escolha do estudante e exige seguro de saúde nos termos da al. c) do n.º 1 do art. 7.º.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=873&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "*[Autossuficiente / inativo (art. 12.º, al. b)):]*\nO/A requerente dispõe de meios de subsistência suficientes (mínimo: [■ VERIFICAR: montante exigido]) e de seguro de saúde válido em Portugal (Docs. [N] e [N]).",
+        "para": "*[Autossuficiente / inativo (art. 7.º, n.º 1, al. b)):]*\nO/A requerente dispõe de recursos suficientes para si e para os seus familiares — a lei não fixa um montante: são suficientes os recursos não inferiores ao nível abaixo do qual o Estado concede apoios sociais aos nacionais, atendendo à situação pessoal (art. 2.º, al. f)) [■ VERIFICAR: referência usada pela câmara municipal] — e de seguro de saúde, quando exigível nos termos do art. 7.º, n.º 1, al. b) (Docs. [N] e [N]).",
+        "motivo": "Artigo corrigido; a lei define «recursos suficientes» por referência ao nível dos apoios sociais, sem montante fixo (art. 2.º, al. f), da Lei n.º 37/2006).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=873&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "Requer-se a emissão do Certificado de Registo de Cidadão da União Europeia, ao abrigo do artigo 11.º do Decreto-Lei n.º 3/2008.",
+        "para": "Requer-se a emissão do Certificado de Registo de Cidadão da União Europeia, ao abrigo do artigo 14.º da Lei n.º 37/2006, de 9 de agosto.",
+        "motivo": "Diploma e artigo errados.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=873&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- [ ] Prova do estatuto:\n",
+        "para": "- [ ] Declaração, sob compromisso de honra, de que preenche as condições do art. 7.º, n.º 1, al. a), b) ou c) — com o documento de identificação, é o que o art. 14.º, n.º 5, da Lei n.º 37/2006 exige; a verificação das condições só é admissível em casos específicos de dúvida razoável e não de forma sistemática (art. 9.º, n.º 2)\n- [ ] Prova do estatuto (só se for pedida):\n",
+        "motivo": "A lei exige para o certificado apenas o documento de identificação e a declaração sob compromisso de honra (art. 14.º, n.º 5, da Lei n.º 37/2006); a prova documental do estatuto não é exigência sistemática (art. 9.º, n.º 2).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=873&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- [ ] *Para familiares de países terceiros:* certidões de estado civil apostiladas + passaporte + taxa adicional",
+        "para": "- [ ] *Familiares cidadãos da União:* documento de identificação, prova da relação familiar e, se for o caso, de estarem a cargo, e o certificado de registo do titular (art. 14.º, n.º 6); *familiares nacionais de países terceiros:* não entram neste registo — pedem o cartão de residência na AIMA (art. 15.º)",
+        "motivo": "Os familiares nacionais de Estado terceiro pedem cartão de residência à AIMA (art. 15.º da Lei n.º 37/2006), não o registo municipal; os documentos dos familiares cidadãos da União estão no art. 14.º, n.º 6.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=873&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- [ ] Regime correto: cidadão UE (Decreto-Lei n.º 3/2008) — não a Lei n.º 23/2007",
+        "para": "- [ ] Regime correto: cidadão UE (Lei n.º 37/2006, de 9 de agosto) — não a Lei n.º 23/2007",
+        "motivo": "Diploma de transposição errado.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=873&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- [ ] Familiares de países terceiros identificados (se aplicável)",
+        "para": "- [ ] Familiares de países terceiros identificados e encaminhados para o cartão de residência na AIMA (se aplicável)",
+        "motivo": "Encaminhamento correto dos familiares nacionais de Estado terceiro (art. 15.º da Lei n.º 37/2006).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=873&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "**FAMILIARES DE PAÍSES TERCEIROS A INCLUIR:**",
+        "para": "**FAMILIARES DE PAÍSES TERCEIROS (cartão de residência a pedir na AIMA — art. 15.º da Lei n.º 37/2006):**",
+        "motivo": "Os familiares nacionais de Estado terceiro não se incluem no registo municipal.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=873&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Confirmar na câmara municipal competente a taxa do certificado de registo (fixada por portaria ao abrigo do art. 29.º da Lei n.º 37/2006) e o modelo de declaração sob compromisso de honra em uso.",
+      "Confirmar a referência prática de «recursos suficientes» (art. 2.º, al. f), da Lei n.º 37/2006) para inativos e estudantes, que a lei não quantifica.",
+      "A Lei n.º 37/2006 só tem, na versão consolidada da PGDL, a alteração do DL n.º 41/2023; confirmar no Diário da República se houve alteração posterior."
+    ],
+    "fontes": [
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=873&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=614&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=4016&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://aima.gov.pt/media/pages/documents/fa233e86c7-1750429842/portaria-307.pdf",
+      "https://aima.gov.pt/media/pages/documents/e7da7e2e85-1750429301/lei-37_2006.pdf"
+    ]
+  },
+  {
+    "codigo": "EST-020",
+    "veredicto": "corrigida",
+    "resumo": "O requerimento assentava nos «arts. 19.º e seguintes do Decreto-Lei n.º 3/2008», diploma que não regula a residência de familiares de cidadãos da União; o regime é o da Lei n.º 37/2006 (cartão de residência no art. 15.º, pedido na AIMA). Corrigiram-se a definição de familiar (descendentes com menos de 21 anos ou a cargo, parceiro, outros familiares do art. 3.º, n.º 2), o prazo de emissão (3 meses, não 6), a residência permanente (arts. 10.º e 17.º) e a relação com a Lei n.º 23/2007, que não se aplica a estes familiares salvo subsidiariamente (art. 4.º, n.º 2, al. c)). Retiraram-se como requisitos a «residência conjunta» e o registo criminal, que não constam dos documentos do art. 15.º, n.º 4.",
+    "descricao": "Gera um requerimento de cartão de residência para familiar de cidadão da União Europeia que seja nacional de um país terceiro, fundamentado no artigo 15.º da Lei n.º 37/2006, de 9 de agosto, com identificação do vínculo familiar elegível e documentação necessária para apresentar na AIMA.",
+    "descricao_en": "Generates an application for a residence card for a family member of an EU citizen who is a third-country national, grounded in Article 15 of Law No. 37/2006 of 9 August, identifying the eligible family relationship and the documentation to be submitted to AIMA.",
+    "substituicoes": [
+      {
+        "de": "- Distingue familiares elegíveis do Decreto-Lei n.º 3/2008: cônjuge, filhos menores, ascendentes dependentes",
+        "para": "- Distingue os familiares do art. 2.º, al. e), da Lei n.º 37/2006 (cônjuge; parceiro em união de facto ou em relação permanente certificada; descendentes diretos com menos de 21 anos ou a cargo, também do cônjuge ou parceiro; ascendentes diretos a cargo) dos outros familiares a cargo ou em comunhão de habitação, cuja entrada e residência é apenas facilitada (art. 3.º, n.º 2); o regime estende-se aos familiares de cidadãos portugueses (art. 3.º, n.º 5)",
+        "motivo": "Diploma errado e definição incompleta: a lei abrange o parceiro e os descendentes com menos de 21 anos ou a cargo, não só os «filhos menores» (art. 2.º, al. e), da Lei n.º 37/2006).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=873&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Aborda o direito de trabalhar em Portugal que o cartão de residência confere",
+        "para": "- Aborda o direito de trabalhar em Portugal (art. 19.º da Lei n.º 37/2006): decorre do direito de residência; o cartão é declarativo e a sua posse não é condição para exercer direitos (art. 21.º)",
+        "motivo": "O direito de exercer atividade profissional decorre do direito de residência (art. 19.º), e o cartão não é condição prévia (art. 21.º da Lei n.º 37/2006).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=873&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Vínculo familiar: cônjuge, filho menor, ascendente dependente, ou outro familiar dependente",
+        "para": "- Vínculo familiar: cônjuge, parceiro, descendente direto com menos de 21 anos ou a cargo, ascendente direto a cargo, ou outro familiar a cargo ou em comunhão de habitação (art. 3.º, n.º 2)",
+        "motivo": "Categorias de familiares conforme o art. 2.º, al. e), e o art. 3.º, n.º 2, da Lei n.º 37/2006.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=873&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Art. 19.º do Decreto-Lei n.º 3/2008 — cartão de residência de familiar de cidadão UE\n- Art. 2.º do Decreto-Lei n.º 3/2008 — definição de \"membros da família\" (al. a) a d))\n- Art. 5.º — condições de entrada do familiar no território português\n- Art. 20.º — prazo de emissão do cartão de residência (6 meses)\n- Art. 18.º — residência permanente após 5 anos\n- Diretiva 2004/38/CE — proteção contra expulsão de familiar de cidadão UE\n- Art. 98.º da Lei n.º 23/2007 — pode haver sobreposição com o regime de reagrupamento familiar [■ VERIFICAR: qual regime é mais favorável]",
+        "para": "- Art. 15.º da Lei n.º 37/2006, de 9 de agosto — cartão de residência de familiar do cidadão da União nacional de Estado terceiro: pedido na AIMA no prazo de 30 dias após decorridos 3 meses da entrada (n.º 2), com emissão de certificado comprovativo do pedido (n.º 3) e os documentos do n.º 4\n- Art. 2.º, al. e), da Lei n.º 37/2006 — definição de «familiar» (subalíneas i) a iv)); art. 3.º, n.ºs 2 e 5 — outros familiares e familiares de cidadãos portugueses\n- Art. 4.º — entrada do familiar no território português (passaporte válido; visto só quando o direito da UE o exija, gratuito e com tramitação célere)\n- Art. 15.º, n.ºs 5 e 6 — emissão do cartão no prazo máximo de 3 meses, válido por 5 anos (ou pelo período previsto de residência do cidadão da União, se inferior)\n- Arts. 10.º, n.º 2, e 17.º — residência permanente após 5 anos consecutivos de residência legal com o cidadão da União e cartão de residência permanente\n- Arts. 22.º e seguintes da Lei n.º 37/2006 e Diretiva 2004/38/CE — o afastamento só por razões de ordem pública, segurança pública ou saúde pública\n- Art. 4.º, n.º 2, al. c), da Lei n.º 23/2007 — a lei geral, incluindo o reagrupamento familiar do art. 98.º, não se aplica aos familiares de cidadão português ou da União, salvo a título subsidiário",
+        "motivo": "Diploma errado (DL n.º 3/2008); o prazo de emissão é de 3 meses (art. 15.º, n.º 5, da Lei n.º 37/2006), não 6; a Lei n.º 23/2007 exclui estes familiares do seu âmbito, salvo aplicação subsidiária (art. 4.º, n.º 2, al. c)).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=873&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=& | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=920&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "**Ao abrigo do artigo 19.º do Decreto-Lei n.º 3/2008, de 4 de janeiro**",
+        "para": "**Ao abrigo do artigo 15.º da Lei n.º 37/2006, de 9 de agosto**",
+        "motivo": "Diploma e artigo errados.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=873&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "ao abrigo do artigo 19.º do Decreto-Lei n.º 3/2008, de 4 de janeiro, pelos seguintes fundamentos:",
+        "para": "ao abrigo do artigo 15.º da Lei n.º 37/2006, de 9 de agosto, pelos seguintes fundamentos:",
+        "motivo": "Diploma e artigo errados.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=873&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "[Art. 19.º do Decreto-Lei n.º 3/2008 — transcrição do preceito]",
+        "para": "[Arts. 7.º, n.º 2, e 15.º da Lei n.º 37/2006 — transcrição dos preceitos]",
+        "motivo": "Diploma e artigo errados.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=873&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "**V. DA RESIDÊNCIA CONJUNTA EM PORTUGAL**\n[Comprovativo de residência conjunta: contrato de arrendamento, declaração de coabitação]",
+        "para": "**V. DA RESIDÊNCIA EM PORTUGAL**\n[Comprovativo de que acompanha o titular ou se lhe reúne em Portugal (art. 7.º, n.º 2, da Lei n.º 37/2006): morada em Portugal (contrato de arrendamento, declaração de alojamento); a coabitação não consta das condições legais nem dos documentos do art. 15.º, n.º 4]",
+        "motivo": "A lei exige que o familiar acompanhe ou se reúna ao cidadão da União (art. 7.º, n.º 2), não a coabitação; esta não figura nos documentos do art. 15.º, n.º 4, da Lei n.º 37/2006.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=873&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "Requer-se a emissão do Cartão de Residência de Familiar de Cidadão da UE, ao abrigo do artigo 19.º do Decreto-Lei n.º 3/2008.",
+        "para": "Requer-se a emissão do Cartão de Residência de Familiar de Cidadão da UE, ao abrigo do artigo 15.º da Lei n.º 37/2006, de 9 de agosto.",
+        "motivo": "Diploma e artigo errados.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=873&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- [ ] Comprovativo de residência conjunta com o titular UE em Portugal\n- [ ] Certificado de registo criminal do país de origem (apostilado, recente)",
+        "para": "- [ ] Comprovativo de morada em Portugal (a lei não exige coabitação com o titular)\n- [ ] [■ VERIFICAR: certificado de registo criminal — não consta dos documentos do art. 15.º, n.º 4, da Lei n.º 37/2006 e a consulta de antecedentes não pode ter caráter regular (art. 22.º, n.ºs 5 e 6); juntar só se a AIMA o pedir]",
+        "motivo": "Os documentos exigíveis para o cartão são os do art. 15.º, n.º 4, da Lei n.º 37/2006; o registo criminal não está entre eles e a consulta de antecedentes não pode ser regular (art. 22.º, n.ºs 5 e 6).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=873&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "*Para ascendentes dependentes:*",
+        "para": "*Para descendentes com 21 anos ou mais e ascendentes a cargo (art. 15.º, n.º 4, al. d)):*",
+        "motivo": "A prova de estar a cargo exige-se também aos descendentes com 21 anos ou mais (art. 2.º, al. e), iii), e art. 15.º, n.º 4, al. d), da Lei n.º 37/2006).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=873&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- [ ] Regime correto: Decreto-Lei n.º 3/2008 (não Lei n.º 23/2007)",
+        "para": "- [ ] Regime correto: Lei n.º 37/2006, de 9 de agosto (não Lei n.º 23/2007)",
+        "motivo": "Diploma errado.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=873&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- [ ] Residência conjunta com o titular UE demonstrada\n- [ ] Certificado de registo criminal do familiar",
+        "para": "- [ ] Acompanhamento ou reunião ao titular UE em Portugal demonstrado (art. 7.º, n.º 2)\n- [ ] Pedido feito na AIMA no prazo de 30 dias após decorridos 3 meses da entrada (art. 15.º, n.º 2) — o incumprimento é contraordenação punível com coima de 400 € a 1500 € (art. 30.º, n.º 1)",
+        "motivo": "A coabitação e o registo criminal não são requisitos legais do cartão; o prazo do pedido e a coima constam dos arts. 15.º, n.º 2, e 30.º, n.º 1, da Lei n.º 37/2006.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=873&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Confirmar a taxa do cartão de residência de familiar (portaria prevista no art. 29.º da Lei n.º 37/2006) e o canal de submissão na AIMA.",
+      "Confirmar se a AIMA pede, na prática, documentos além dos do art. 15.º, n.º 4 (registo criminal, prova de meios), e reagir se forem exigidos como condição.",
+      "Se o familiar estiver sujeito a visto, confirmar no direito da UE aplicável se o visto é exigível e o regime de entrada (art. 4.º da Lei n.º 37/2006)."
+    ],
+    "fontes": [
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=873&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=920&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://aima.gov.pt/media/pages/documents/e7da7e2e85-1750429301/lei-37_2006.pdf"
+    ]
+  },
+  {
+    "codigo": "EST-025",
+    "veredicto": "corrigida",
+    "resumo": "O parecer apresentava a manifestação de interesse (arts. 88.º, n.º 2, e 89.º, n.º 2, da Lei n.º 23/2007) como via disponível; foi revogada pelo Decreto-Lei n.º 37-A/2024 e o regime transitório do seu art. 3.º só abrange procedimentos iniciados até 4 de junho de 2024 e pedidos apresentados até 31 de dezembro de 2025. Corrigiram-se ainda o diploma do regime dos familiares de cidadãos da União (Lei n.º 37/2006, não o DL n.º 3/2008), a norma da proibição de reentrada (art. 144.º, não o 185.º, que é crime de angariação de mão de obra ilegal) e os requisitos do reagrupamento familiar após a Lei n.º 61/2025 (autorização de residência há 2 anos). Acrescentou-se a dispensa de visto do art. 122.º e a alteração da Lei do Asilo pela Lei n.º 62/2026.",
+    "descricao": "Gera um parecer jurídico estruturado sobre as vias de regularização da situação migratória de um cidadão estrangeiro em situação irregular em Portugal, identificando as opções disponíveis (regime transitório da extinta manifestação de interesse, só para procedimentos pendentes; autorização de residência com dispensa de visto; regularização excecional; pedido de asilo; reagrupamento familiar; visto consular) e as vantagens e riscos de cada caminho.",
+    "descricao_en": "Generates a structured legal opinion on the routes for regularising the immigration status of a foreign national staying irregularly in Portugal, identifying the available options (the transitional regime of the abolished expression of interest (manifestação de interesse), for pending procedures only; residence permit with visa exemption; exceptional regularisation; asylum application; family reunification; consular visa) and the advantages and risks of each route.",
+    "substituicoes": [
+      {
+        "de": "- Manifestação de interesse (art. 88.º, n.º 2 ou 89.º, n.º 2 da Lei n.º 23/2007) [■ VERIFICAR: regime atual em vigor]\n- Regularização excecional (art. 123.º da Lei n.º 23/2007) [■ VERIFICAR: condições e prazo]\n- Pedido de proteção internacional (asilo) — Lei n.º 27/2008\n- Reagrupamento familiar com cidadão estrangeiro residente (arts. 98.º e ss.)\n- Reagrupamento familiar com cidadão português ou UE — Decreto-Lei n.º 3/2008\n- Obtenção de visto de residência consular (regresso ao país de origem — mais seguro mas com risco de proibição de reentrada)\n- Art. 185.º da Lei n.º 23/2007 — proibição de reentrada se foi afastado",
+        "para": "- Manifestação de interesse (art. 88.º, n.º 2, e art. 89.º, n.º 2, da Lei n.º 23/2007): revogada pelo Decreto-Lei n.º 37-A/2024, de 3 de junho; só subsistem os procedimentos abrangidos pelo regime transitório do seu art. 3.º, n.ºs 2 e 3 — procedimentos iniciados até 4 de junho de 2024 e pedidos de quem já estava inscrito na segurança social e a descontar antes dessa data, que tinham de ser apresentados até 31 de dezembro de 2025, sob pena de caducidade\n- Autorização de residência com dispensa de visto (art. 122.º da Lei n.º 23/2007 — casos taxativos, p. ex. progenitores de menores portugueses residentes, com responsabilidades parentais efetivas, al. k), ou vítimas de infração laboral grave que a denunciem e colaborem com as autoridades, al. m))\n- Regularização excecional (art. 123.º da Lei n.º 23/2007 — razões de interesse nacional, humanitárias ou de interesse público, por proposta do conselho diretivo da AIMA ou por iniciativa do membro do Governo responsável pelas migrações) [■ VERIFICAR: procedimento atual]\n- Pedido de proteção internacional (asilo) — Lei n.º 27/2008, alterada pela Lei n.º 62/2026, de 10 de setembro, que executa os regulamentos do Pacto em matéria de Migração e Asilo [■ VERIFICAR: regime aplicável ao pedido, incluindo o procedimento na fronteira]\n- Reagrupamento familiar com cidadão estrangeiro residente (arts. 98.º e ss. da Lei n.º 23/2007): o residente tem de ter autorização de residência válida há pelo menos 2 anos, salvo as exceções dos n.ºs 2 e 3 do art. 98.º; para familiares que já estejam em Portugal, só nos casos do art. 103.º, n.º 2\n- Familiar de cidadão português ou da União — Lei n.º 37/2006, de 9 de agosto (art. 3.º, n.º 5, e art. 15.º: cartão de residência pedido na AIMA)\n- Obtenção de visto de residência consular (regresso ao país de origem — mais seguro mas com risco de proibição de reentrada)\n- Art. 144.º da Lei n.º 23/2007 — interdição de entrada e de permanência (até 5 anos, ou mais em caso de ameaça grave) após decisão de afastamento; art. 52.º, n.º 10 — recusa de visto a quem tenha entrado ou permanecido ilegalmente, nos termos do n.º 1 do art. 144.º",
+        "motivo": "Manifestação de interesse revogada pelo DL n.º 37-A/2024 (regime transitório no art. 3.º, prazo final a 31/12/2025 fixado pela Lei n.º 61/2025); o DL n.º 3/2008 não regula familiares de cidadãos da UE (Lei n.º 37/2006); o art. 185.º é o crime de angariação de mão de obra ilegal, e a interdição de reentrada está no art. 144.º; reagrupamento alterado pela Lei n.º 61/2025 (2 anos de residência; pedido em território só no art. 103.º, n.º 2).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3807&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=& | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?ficha=101&artigo_id=&nid=920&pagina=2&tabela=leis&nversao=&so_miolo=& | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?ficha=201&artigo_id=&nid=920&pagina=3&tabela=leis&nversao=&so_miolo=& | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=873&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=& | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=4056&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Riscos de cada via (ex: manifestação de interesse pode gerar processo de afastamento se indeferida)",
+        "para": "- Riscos de cada via (ex.: um pedido indeferido, ou apresentado sem base legal — como uma manifestação de interesse fora do regime transitório —, pode expor ao afastamento)",
+        "motivo": "A manifestação de interesse deixou de ser via autónoma (DL n.º 37-A/2024).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3807&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "*3.1. Manifestação de Interesse (art. 88.º, n.º 2 / art. 89.º, n.º 2 da Lei n.º 23/2007)*\n[Condições: contrato de trabalho ou promessa de contrato; integração na comunidade; [■ VERIFICAR: requisitos atuais após reformas]]\n[Vantagens: regularização sem sair do país]\n[Riscos: indeferimento pode expor ao afastamento]\n\n*3.2. Regularização Excecional (art. 123.º)*\n[Condições: [■ VERIFICAR: requisitos e procedimento atual]]",
+        "para": "*3.1. Regime transitório da extinta manifestação de interesse (art. 3.º do Decreto-Lei n.º 37-A/2024)*\n[Só para procedimentos iniciados até 4 de junho de 2024 ou pedidos ao abrigo da al. b) do n.º 2 apresentados até 31 de dezembro de 2025; fora destes casos a via não existe — os n.ºs 2 dos arts. 88.º e 89.º da Lei n.º 23/2007 foram revogados]\n[Vantagens: regularização sem sair do país, se o procedimento estiver pendente]\n[Riscos: indeferimento pode expor ao afastamento]\n\n*3.2. Dispensa de visto (art. 122.º) e regularização excecional (art. 123.º)*\n[Condições: casos taxativos do art. 122.º, n.º 1; no art. 123.º, razões de interesse nacional, humanitárias ou de interesse público, por proposta do conselho diretivo da AIMA ou iniciativa do membro do Governo [■ VERIFICAR: requisitos e procedimento atual]]",
+        "motivo": "A secção apresentava a manifestação de interesse como via disponível; foi revogada pelo DL n.º 37-A/2024, com regime transitório encerrado a 31/12/2025. Acrescentada a dispensa de visto do art. 122.º.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3807&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=& | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?ficha=101&artigo_id=&nid=920&pagina=2&tabela=leis&nversao=&so_miolo=&"
+      },
+      {
+        "de": "*3.4. Reagrupamento Familiar*\n[Condições: familiar residente legal em Portugal; vínculo documentável]",
+        "para": "*3.4. Reagrupamento Familiar*\n[Condições: familiar titular de autorização de residência válida há pelo menos 2 anos, salvo as exceções do art. 98.º, n.ºs 2 e 3, com alojamento e meios de subsistência (art. 101.º); se o familiar for cidadão português ou da União, regime da Lei n.º 37/2006; vínculo documentável]",
+        "motivo": "A Lei n.º 61/2025 passou a exigir autorização de residência há pelo menos 2 anos para o reagrupamento (art. 98.º, n.º 1, da Lei n.º 23/2007).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?ficha=101&artigo_id=&nid=920&pagina=2&tabela=leis&nversao=&so_miolo=& | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3951&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "| Manifestação de interesse | [X meses] | Médio | Contrato de trabalho | [Sim/Não/Condicional] |",
+        "para": "| Regime transitório da manifestação de interesse (só procedimentos pendentes) | [X meses] | Médio | Procedimento abrangido pelo art. 3.º do DL n.º 37-A/2024 | [Sim/Não/Condicional] |",
+        "motivo": "A manifestação de interesse foi revogada; só subsiste o regime transitório.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3807&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "| Reagrupamento | [X meses] | Baixo | Familiar residente legal | [Sim/Não/Condicional] |",
+        "para": "| Reagrupamento | [X meses] | Baixo | Familiar com autorização de residência há ≥ 2 anos (ou cidadão português/da UE) | [Sim/Não/Condicional] |",
+        "motivo": "Requisito de 2 anos de autorização de residência (art. 98.º, n.º 1, da Lei n.º 23/2007, redação da Lei n.º 61/2025).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?ficha=101&artigo_id=&nid=920&pagina=2&tabela=leis&nversao=&so_miolo=&"
+      },
+      {
+        "de": "- Processo de afastamento em curso: [sim/não]",
+        "para": "- Procedimento pendente na AIMA (manifestação de interesse ou pedido do regime transitório do DL n.º 37-A/2024): [sim/não — n.º e data]\n- Processo de afastamento em curso: [sim/não]",
+        "motivo": "Dado necessário para aferir o regime transitório do DL n.º 37-A/2024.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3807&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Confirmar o regime do pedido de proteção internacional depois da Lei n.º 62/2026 e dos regulamentos do Pacto (procedimento na fronteira, direito de permanência durante o procedimento).",
+      "Confirmar no art. 103.º, n.º 2, da Lei n.º 23/2007 (Diário da República) as condições de entrada e permanência exigidas aos familiares que já estejam em Portugal.",
+      "Confirmar o procedimento atual do regime excecional do art. 123.º, depois da revogação do seu n.º 2 pela Lei n.º 61/2025.",
+      "Num procedimento transitório pendente, verificar em que alínea do art. 3.º, n.º 2, do DL n.º 37-A/2024 se enquadra e se foi apresentado a tempo."
+    ],
+    "fontes": [
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=920&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?ficha=101&artigo_id=&nid=920&pagina=2&tabela=leis&nversao=&so_miolo=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?ficha=201&artigo_id=&nid=920&pagina=3&tabela=leis&nversao=&so_miolo=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3807&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3951&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=4056&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=873&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+    ]
+  },
+  {
+    "codigo": "EST-028",
+    "veredicto": "corrigida",
+    "resumo": "O parecer assentava na manifestação de interesse dos arts. 88.º e 89.º da Lei n.º 23/2007 como via em vigor; o Decreto-Lei n.º 37-A/2024 revogou-a (n.ºs 2 e 6 do art. 88.º e n.º 2 do art. 89.º, entre outros) e o regime transitório do seu art. 3.º só abrange procedimentos iniciados até 4 de junho de 2024 e pedidos apresentados até 31 de dezembro de 2025, sob pena de caducidade (Lei n.º 61/2025). Reescreveram-se as regras, o enquadramento e as secções 4.1 e 4.2: regime transitório de um lado e, do outro, as vias atuais (arts. 88.º, n.º 1, e 89.º, n.º 1, com visto — art. 77.º, n.º 1, al. a); dispensa de visto do art. 122.º; art. 123.º). Corrigiu-se também a remissão para o art. 52.º (é o dos vistos; o das autorizações de residência é o 77.º) e acrescentou-se o prazo de naturalização da Lei Orgânica n.º 1/2026.",
+    "descricao": "Elabora um parecer jurídico que avalia as vias de regularização da situação de um cidadão estrangeiro em Portugal, com análise do regime transitório da extinta manifestação de interesse (antigos arts. 88.º, n.º 2, e 89.º, n.º 2, da Lei n.º 23/2007, revogados pelo Decreto-Lei n.º 37-A/2024), dos requisitos legais em vigor e das alternativas disponíveis, orientando o advogado e o cliente sobre o caminho mais adequado ao caso concreto.",
+    "descricao_en": "Drafts a legal opinion assessing the routes for regularising a foreign national's situation in Portugal, analysing the transitional regime of the abolished expression of interest (manifestação de interesse; former Articles 88(2) and 89(2) of Law No. 23/2007, repealed by Decree-Law No. 37-A/2024), the legal requirements in force and the available alternatives, guiding the lawyer and the client on the route best suited to the specific case.",
+    "substituicoes": [
+      {
+        "de": "- Cita os artigos reais da Lei n.º 23/2007 — em especial os arts. 88.º, 89.º e 123.º",
+        "para": "- Cita os artigos reais da Lei n.º 23/2007 na redação em vigor (última alteração: Lei n.º 62/2026, de 10 de setembro) — em especial os arts. 77.º, 88.º, 89.º, 122.º e 123.º — e o art. 3.º do Decreto-Lei n.º 37-A/2024 (regime transitório)",
+        "motivo": "A Lei n.º 23/2007 foi alterada pelo DL n.º 37-A/2024 e pelas Leis n.ºs 9/2025, 55-C/2025, 61/2025 e 62/2026; o regime transitório está no DL n.º 37-A/2024.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=920&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=& | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3807&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Distingue claramente as vias disponíveis (art. 88.º vs. art. 89.º vs. outras vias)",
+        "para": "- Parte sempre de que a manifestação de interesse foi revogada: o Decreto-Lei n.º 37-A/2024, de 3 de junho, revogou, entre outros, os n.ºs 2 e 6 do art. 88.º e o n.º 2 do art. 89.º; só subsistem os procedimentos abrangidos pelo regime transitório do seu art. 3.º, n.ºs 2 e 3 (iniciados até 4 de junho de 2024, ou pedidos ao abrigo da al. b) do n.º 2 apresentados até 31 de dezembro de 2025, sob pena de caducidade)\n- Distingue claramente esse regime transitório das vias atuais (arts. 88.º, n.º 1, e 89.º, n.º 1, com visto — art. 77.º, n.º 1, al. a); dispensa de visto do art. 122.º; regime excecional do art. 123.º; reagrupamento familiar; proteção internacional)",
+        "motivo": "A ficha tratava a manifestação de interesse como via em vigor; foi revogada pelo DL n.º 37-A/2024 (art. 2.º) e o prazo do regime transitório terminou a 31/12/2025 (art. 3.º, n.º 3, redação da Lei n.º 61/2025).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3807&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=& | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3951&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Art. 88.º da Lei n.º 23/2007 — autorização de residência para exercício de atividade profissional subordinada (manifestação de interesse por contrato de trabalho)\n- Art. 89.º da Lei n.º 23/2007 — autorização de residência para exercício de atividade profissional independente (manifestação de interesse por atividade independente)\n- Art. 123.º da Lei n.º 23/2007 — regularização excecional (fundamentos humanitários ou de interesse público) [■ VERIFICAR: aplicabilidade ao caso]\n- Requisitos de admissão do art. 52.º — afastamentos, inadmissibilidades\n- Impacto da irregularidade no cálculo da contagem de tempo de residência para efeitos de residência permanente ou naturalização",
+        "para": "- Art. 88.º da Lei n.º 23/2007 — autorização de residência para exercício de atividade profissional subordinada: contrato de trabalho celebrado nos termos da lei e inscrição na segurança social (n.º 1), além das condições gerais do art. 77.º, entre elas a posse de visto de residência ou de visto para procura de trabalho (art. 77.º, n.º 1, al. a)); a manifestação de interesse (n.º 2) e a presunção de entrada legal (n.º 6) foram revogadas pelo Decreto-Lei n.º 37-A/2024\n- Art. 89.º da Lei n.º 23/2007 — autorização de residência para exercício de atividade profissional independente: requisitos do n.º 1 e condições gerais do art. 77.º; a manifestação de interesse (n.º 2) foi revogada pelo mesmo decreto-lei\n- Art. 3.º, n.ºs 2 e 3, do Decreto-Lei n.º 37-A/2024 (redação da Lei n.º 40/2024 e da Lei n.º 61/2025) — regime transitório: procedimentos iniciados até à entrada em vigor (4 de junho de 2024) e pedidos de quem já estava inscrito na segurança social e a descontar antes dessa data, a apresentar até 31 de dezembro de 2025, sob pena de caducidade\n- Art. 122.º da Lei n.º 23/2007 — autorização de residência com dispensa de visto (casos taxativos do n.º 1)\n- Art. 123.º da Lei n.º 23/2007 — regularização excecional (razões de interesse nacional, humanitárias ou de interesse público, por proposta do conselho diretivo da AIMA ou por iniciativa do membro do Governo) [■ VERIFICAR: aplicabilidade ao caso]\n- Condições gerais do art. 77.º (autorização de residência) e do art. 52.º (vistos) — interdição de entrada após afastamento, indicações no SIS, condenações penais\n- Impacto da irregularidade no cálculo da contagem de tempo de residência para efeitos de residência permanente ou naturalização (só conta a residência legal — art. 15.º da Lei n.º 37/81; 10 anos para nacionais de países que não sejam de língua oficial portuguesa nem da UE — art. 6.º, n.º 1, al. b), na redação da Lei Orgânica n.º 1/2026)",
+        "motivo": "Os arts. 88.º e 89.º já não preveem a manifestação de interesse (DL n.º 37-A/2024); a autorização de residência exige visto (art. 77.º, n.º 1, al. a)); o art. 52.º é o das condições dos vistos; a Lei da Nacionalidade foi alterada pela Lei Orgânica n.º 1/2026.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?ficha=101&artigo_id=&nid=920&pagina=2&tabela=leis&nversao=&so_miolo=& | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3807&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=& | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=614&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "[Artigos aplicáveis da Lei n.º 23/2007 — arts. 88.º, 89.º, 52.º e outros relevantes]",
+        "para": "[Artigos aplicáveis da Lei n.º 23/2007 — arts. 77.º, 88.º, 89.º, 122.º, 123.º e outros relevantes — e art. 3.º do Decreto-Lei n.º 37-A/2024]",
+        "motivo": "Enquadramento atualizado: requisitos gerais da autorização de residência no art. 77.º e regime transitório no DL n.º 37-A/2024.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?ficha=101&artigo_id=&nid=920&pagina=2&tabela=leis&nversao=&so_miolo=& | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3807&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "**4.1. Manifestação de interesse — Atividade subordinada (art. 88.º)**\n[Requisitos; cumprimento pelo cliente; documentação necessária; prazo estimado]\n\n**4.2. Manifestação de interesse — Atividade independente (art. 89.º)**\n[Requisitos; cumprimento pelo cliente; documentação necessária; prazo estimado]\n\n**4.3. Outras vias (regularização excecional, reagrupamento familiar, etc.)**",
+        "para": "**4.1. Regime transitório da extinta manifestação de interesse (art. 3.º do Decreto-Lei n.º 37-A/2024)**\n[Há procedimento iniciado até 4 de junho de 2024, ou pedido ao abrigo da al. b) do n.º 2 apresentado até 31 de dezembro de 2025? Estado do procedimento; documentação em falta. Fora destes casos, a via não existe]\n\n**4.2. Autorização de residência para atividade subordinada ou independente (arts. 88.º, n.º 1, e 89.º, n.º 1, com visto — art. 77.º, n.º 1, al. a))**\n[Requisitos; visto de residência ou visto para procura de trabalho; cumprimento pelo cliente; documentação necessária; prazo estimado]\n\n**4.3. Outras vias (dispensa de visto do art. 122.º, regularização excecional, reagrupamento familiar, etc.)**",
+        "motivo": "As secções analisavam como vias atuais as manifestações de interesse dos arts. 88.º e 89.º, revogadas pelo DL n.º 37-A/2024.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3807&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=& | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?ficha=101&artigo_id=&nid=920&pagina=2&tabela=leis&nversao=&so_miolo=&"
+      },
+      {
+        "de": "- [ ] Comprovativo de entrada legal em Portugal (carimbo no passaporte, cartão de embarque, etc.) [se disponível]",
+        "para": "- [ ] Visto de residência ou visto para procura de trabalho válido (art. 77.º, n.º 1, al. a)) ou, no regime transitório, comprovativo do procedimento pendente e da entrada em Portugal (carimbo no passaporte, cartão de embarque, etc.)",
+        "motivo": "Fora do regime transitório, a autorização de residência exige visto (art. 77.º, n.º 1, al. a), da Lei n.º 23/2007).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?ficha=101&artigo_id=&nid=920&pagina=2&tabela=leis&nversao=&so_miolo=&"
+      },
+      {
+        "de": "- [ ] Requisitos do art. 88.º ou 89.º verificados ponto a ponto",
+        "para": "- [ ] Regime transitório do Decreto-Lei n.º 37-A/2024 verificado (procedimento pendente ou não) — sem ele, não aconselhar a manifestação de interesse\n- [ ] Requisitos do art. 88.º ou 89.º verificados ponto a ponto",
+        "motivo": "Verificação necessária depois da revogação da manifestação de interesse.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3807&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Processos anteriores na AIMA: [sim/não — descreva]",
+        "para": "- Processos anteriores na AIMA: [sim/não — descreva; manifestação de interesse apresentada até 4/6/2024? pedido do regime transitório apresentado até 31/12/2025?]",
+        "motivo": "Dados necessários para aferir o regime transitório do DL n.º 37-A/2024.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3807&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Num procedimento transitório pendente, confirmar a alínea do art. 3.º, n.º 2, do DL n.º 37-A/2024 em que se enquadra, a data de apresentação e a redação da Lei n.º 23/2007 aplicável ao procedimento.",
+      "Confirmar as orientações atuais da AIMA sobre os procedimentos de manifestação de interesse ainda pendentes e o seu agendamento.",
+      "Confirmar o procedimento atual do regime excecional do art. 123.º, depois da revogação do seu n.º 2 pela Lei n.º 61/2025."
+    ],
+    "fontes": [
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=920&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?ficha=101&artigo_id=&nid=920&pagina=2&tabela=leis&nversao=&so_miolo=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3807&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3951&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=4056&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=614&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=4016&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+    ]
+  },
+  {
+    "codigo": "EST-031",
+    "veredicto": "corrigida",
+    "resumo": "O limiar de rendimentos estava desatualizado (820 €, salário mínimo de 2024) e mal calculado («+ 50 % por dependente»): a referência é a retribuição mínima mensal garantida, 920 € em 2026, com 100 % para o primeiro adulto, 50 % por cada adulto adicional e 30 % por menor ou filho maior a cargo (Portaria n.º 1563/2007). A Portaria n.º 1334-E/2010 citada fixava taxas e foi revogada pela Portaria n.º 307/2023; o art. 6.º da Lei n.º 23/2007 é o do controlo fronteiriço, não o dos meios de subsistência; e o seguro exigido é o de viagem do art. 12.º, n.º 1, al. e), do Decreto Regulamentar n.º 84/2007, sem o «mínimo de 30 000 €». Corrigiu-se a designação do visto (reformados e titulares de rendimentos, art. 24.º, n.º 1, als. b) a d), do Decreto Regulamentar n.º 84/2007) e a nota fiscal (o IFICI não abrange pensões nem rendimentos passivos).",
+    "substituicoes": [
+      {
+        "de": "— Cita apenas legislação real: Lei n.º 23/2007 (Lei de Estrangeiros), Portaria n.º 1334-E/2010, circulares AIMA em vigor.",
+        "para": "— Cita apenas legislação real: Lei n.º 23/2007 (Lei de Estrangeiros), Decreto Regulamentar n.º 84/2007, Portaria n.º 1563/2007 (meios de subsistência) e as orientações em vigor do posto consular e da AIMA.",
+        "motivo": "A Portaria n.º 1334-E/2010 fixava taxas e foi revogada pela Portaria n.º 307/2023; os meios de subsistência constam da Portaria n.º 1563/2007.",
+        "fonte": "https://aima.gov.pt/media/pages/documents/fa233e86c7-1750429842/portaria-307.pdf | https://aima.gov.pt/pt/temas-transversais/meios-de-subsistencia"
+      },
+      {
+        "de": "- Montante mensal líquido demonstrável vs. limiar AIMA (atualmente 820 €/mês para titular + 50 % por dependente)",
+        "para": "- Montante mensal líquido demonstrável vs. meios de subsistência da Portaria n.º 1563/2007, por referência à retribuição mínima mensal garantida (920 € em 2026), líquida de quotizações: 100 % para o primeiro adulto, 50 % por cada adulto adicional e 30 % por cada menor ou filho maior a cargo",
+        "motivo": "820 € era a RMMG de 2024; em 2026 é 920 € (DL n.º 139/2025). Os menores e os filhos maiores a cargo contam 30 %, não 50 %.",
+        "fonte": "https://vistos.mne.gov.pt/pt/vistos-nacionais/documentacao-instrutoria/meios-de-subsistencia | https://www.dgert.gov.pt/retribuicao-minima-mensal-garantida-para-2026 | https://aima.gov.pt/pt/temas-transversais/meios-de-subsistencia"
+      },
+      {
+        "de": "- Art. 58.º Lei 23/2007: condições gerais do visto de residência\n- Art. 6.º Lei 23/2007: meios de subsistência\n- Portaria n.º 1334-E/2010: valor do índice de referência\n- Regulamento Consular aplicável ao posto consular competente\n- Regime do Residente Não Habitual (NHR) / IFICI — articulação fiscal relevante (não confundir com requisito do visto)",
+        "para": "- Art. 58.º Lei 23/2007: visto de residência (finalidade, duas entradas e permanência de 4 meses, decisão em 60 dias); condições gerais do art. 52.º\n- Art. 52.º, n.º 1, al. d), Lei 23/2007 e art. 24.º, n.º 1, als. b) a d), do Decreto Regulamentar n.º 84/2007: meios de subsistência de reformados e de quem vive de rendimentos de bens móveis ou imóveis, da propriedade intelectual ou de aplicações financeiras\n- Portaria n.º 1563/2007, de 11 de dezembro: meios de subsistência (referência: retribuição mínima mensal garantida)\n- Regulamento Consular aplicável ao posto consular competente\n- Articulação fiscal (não confundir com requisito do visto): o regime dos residentes não habituais deixou de admitir novas inscrições, salvo regime transitório [■ VERIFICAR: Lei n.º 82/2023 e requisitos do regime transitório]; o IFICI (art. 58.º-A do EBF) só abrange rendimentos das categorias A e B de atividades qualificadas, não pensões nem rendimentos passivos",
+        "motivo": "O art. 6.º da Lei n.º 23/2007 é o do controlo fronteiriço; os meios de subsistência estão no art. 52.º, n.º 1, al. d), e na Portaria n.º 1563/2007; a Portaria n.º 1334-E/2010 (taxas) foi revogada; o IFICI tributa a 20 % só rendimentos das categorias A e B de atividades qualificadas.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=920&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=& | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=940&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=& | https://aima.gov.pt/media/pages/documents/fa233e86c7-1750429842/portaria-307.pdf | https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/bf_rep/Pages/EBF58A.aspx"
+      },
+      {
+        "de": "- Prova de meios de subsistência: extratos bancários (últimos 3 meses), comprovativos de rendimentos (declaração fiscal, contrato de arrendamento, recibos de pensão)",
+        "para": "- Prova de meios de subsistência: extratos bancários (últimos 3 meses), comprovativos de rendimentos (declaração fiscal, contrato de arrendamento, recibos de pensão) e prova da garantia do recebimento ou da disponibilidade desses rendimentos em território nacional",
+        "motivo": "Os postos consulares exigem, para reformados e titulares de rendimentos, a prova da disponibilidade dos rendimentos em Portugal.",
+        "fonte": "https://vistos.mne.gov.pt/pt/vistos-nacionais/documentacao-instrutoria/residencia | https://vistos.mne.gov.pt/pt/vistos-nacionais/documentacao-instrutoria/meios-de-subsistencia"
+      },
+      {
+        "de": "- Seguro de saúde com cobertura em Portugal (mínimo 30 000 €)",
+        "para": "- Seguro de viagem válido que cubra despesas médicas, incluindo assistência médica urgente e repatriamento (art. 12.º, n.º 1, al. e), do Decreto Regulamentar n.º 84/2007) [■ VERIFICAR: capital mínimo exigido pelo posto consular — a lei não fixa valor para o visto de residência]",
+        "motivo": "O seguro exigido é o de viagem do art. 12.º, n.º 1, al. e), do DR n.º 84/2007; nem a lei nem o MNE fixam o «mínimo de 30 000 €» para o visto de residência.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=940&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=& | https://vistos.mne.gov.pt/pt/vistos-nacionais/documentacao-instrutoria/residencia"
+      },
+      {
+        "de": "Visto de Residência para Exercício de Atividade não Subordinada / Titular de Rendimentos Próprios (Visto D7), nos termos do artigo 58.º da Lei n.º 23/2007, de 4 de julho, pelos fundamentos seguintes:",
+        "para": "Visto de Residência para Fixação de Residência de Reformado / Titular de Rendimentos Próprios (Visto D7), nos termos do artigo 58.º da Lei n.º 23/2007, de 4 de julho, e do artigo 24.º, n.º 1, al. [b), c) ou d)], do Decreto Regulamentar n.º 84/2007, de 5 de novembro, pelos fundamentos seguintes:",
+        "motivo": "O visto D7 é o de reformados e de quem vive de rendimentos (art. 24.º, n.º 1, als. b) a d), do DR n.º 84/2007; MNE), não um visto para «atividade não subordinada», que tem regime próprio.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=940&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=& | https://vistos.mne.gov.pt/pt/vistos-nacionais/documentacao-instrutoria/residencia"
+      },
+      {
+        "de": "- [ ] Rendimentos mensais ≥ 820 € (titular) + 50 % por dependente",
+        "para": "- [ ] Rendimentos mensais ≥ 100 % da RMMG (920 € em 2026) para o requerente + 50 % por adulto adicional + 30 % por menor ou filho maior a cargo",
+        "motivo": "Limiar de 2026 e percentagens da Portaria n.º 1563/2007, como indicados pelo MNE e pela AIMA.",
+        "fonte": "https://vistos.mne.gov.pt/pt/vistos-nacionais/documentacao-instrutoria/meios-de-subsistencia | https://www.dgert.gov.pt/retribuicao-minima-mensal-garantida-para-2026"
+      },
+      {
+        "de": "- [ ] Seguro de saúde com cobertura ≥ 30 000 €",
+        "para": "- [ ] Seguro de viagem com cobertura de despesas médicas e repatriamento [■ VERIFICAR: capital exigido pelo posto consular]",
+        "motivo": "A lei não fixa capital mínimo para o seguro do visto de residência (art. 12.º, n.º 1, al. e), do DR n.º 84/2007).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=940&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Confirmar com o posto consular competente a lista de documentos e o capital de seguro que aceita, e se exige prova de rendimentos para 12 meses.",
+      "Confirmar o valor da RMMG em vigor na data do pedido (920 € em 2026 — ver valores-2026.md) e se a Portaria n.º 1563/2007 teve alteração.",
+      "Se o cliente pretender um regime fiscal especial, confirmar o regime transitório dos residentes não habituais (Lei n.º 82/2023) — o IFICI não serve a pensionistas."
+    ],
+    "fontes": [
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=920&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=940&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://aima.gov.pt/pt/temas-transversais/meios-de-subsistencia",
+      "https://vistos.mne.gov.pt/pt/vistos-nacionais/documentacao-instrutoria/meios-de-subsistencia",
+      "https://vistos.mne.gov.pt/pt/vistos-nacionais/documentacao-instrutoria/residencia",
+      "https://www.dgert.gov.pt/retribuicao-minima-mensal-garantida-para-2026",
+      "https://aima.gov.pt/media/pages/documents/fa233e86c7-1750429842/portaria-307.pdf",
+      "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/bf_rep/Pages/EBF58A.aspx"
+    ]
+  },
+  {
+    "codigo": "EST-038",
+    "veredicto": "corrigida",
+    "resumo": "A ficha construía um pedido novo de naturalização ao abrigo do art. 6.º, n.º 7, da Lei n.º 37/81 e atribuía a uma inexistente «Lei Orgânica n.º 1/2022» a criação de um prazo transitório. O n.º 7 foi revogado pela Lei Orgânica n.º 1/2026, de 18 de maio (em vigor a 19 de maio de 2026), que manda aplicar a redação anterior só aos procedimentos pendentes; as alterações de 2022 vieram do Decreto-Lei n.º 26/2022 (Regulamento da Nacionalidade) e as de 2024 da Lei Orgânica n.º 1/2024 (3 anos de residência legal e regime de pedidos pendentes). Reescreveram-se as regras, o enquadramento e a minuta, que passa a servir só procedimentos pendentes e é dirigida ao membro do Governo responsável pela justiça (não ao diretor do IRN), e corrigiu-se o papel do certificado da comunidade judaica (há meios de prova alternativos, art. 24.º-A, n.ºs 5 e 6, do Regulamento).",
+    "titulo": "Naturalização Sefardita — Procedimentos Pendentes (Regime Revogado pela Lei Orgânica 1/2026)",
+    "titulo_en": "Sephardic Naturalisation — Pending Applications (Regime Repealed by Organic Law 1/2026)",
+    "descricao": "Prepara a exposição ou a junção de documentos num procedimento de naturalização de descendente de judeus sefarditas portugueses que estivesse pendente a 19 de maio de 2026. O regime do art. 6.º, n.º 7, da Lei n.º 37/81 (introduzido pela Lei Orgânica n.º 1/2013 e alterado pela Lei Orgânica n.º 1/2024) foi revogado pela Lei Orgânica n.º 1/2026, de 18 de maio, que manda aplicar a redação anterior aos procedimentos pendentes. Inclui a identificação da redação aplicável pela data do pedido, a análise da tradição de pertença à comunidade sefardita de origem portuguesa e a documentação genealógica exigida.",
+    "descricao_en": "Prepares a submission or the filing of documents in a naturalisation procedure of a descendant of Portuguese Sephardic Jews that was pending on 19 May 2026. The regime of Article 6(7) of Law No. 37/81 (introduced by Organic Law No. 1/2013 and amended by Organic Law No. 1/2024) was repealed by Organic Law No. 1/2026 of 18 May, which applies the previous wording to pending procedures. It includes identifying the applicable wording by the date of the application, analysis of the tradition of belonging to a Sephardic community of Portuguese origin and the genealogical documentation required.",
+    "substituicoes": [
+      {
+        "de": "## Regras obrigatórias\n— Cita art. 6.º, n.º 7 Lei 37/81 (redação Lei Orgânica 1/2013 com alterações da Lei Orgânica 1/2022).\n— Informa sobre os prazos de transição introduzidos pela Lei Orgânica 1/2022 — este regime já não é de duração indefinida.\n— Nunca garantes o deferimento — o IRN tem poder discricionário.",
+        "para": "## Regras obrigatórias\n— O n.º 7 do art. 6.º da Lei n.º 37/81 (naturalização de descendentes de judeus sefarditas portugueses, introduzido pela Lei Orgânica n.º 1/2013) foi revogado pela Lei Orgânica n.º 1/2026, de 18 de maio, em vigor desde 19 de maio de 2026: já não se podem apresentar pedidos novos ao abrigo deste regime.\n— Aos procedimentos pendentes a 19 de maio de 2026 aplica-se a Lei n.º 37/81 na redação anterior (art. 7.º, n.º 2, da Lei Orgânica n.º 1/2026). Identifica a redação aplicável pela data do pedido: pedidos anteriores à entrada em vigor do Decreto-Lei n.º 26/2022, o regime então vigente; pedidos apresentados entre 1 de setembro de 2022 e a entrada em vigor da Lei Orgânica n.º 1/2024 (1 de abril de 2024), o art. 6.º desta lei (tradição de pertença e ainda direitos herdados sobre imóveis ou participações sociais em Portugal, deslocações regulares a Portugal ou autorização de residência há mais de um ano); pedidos posteriores, o n.º 7 do art. 6.º na redação da Lei Orgânica n.º 1/2024 (tradição de pertença e residência legal em Portugal de pelo menos 3 anos, seguidos ou interpolados, com homologação da certificação por uma comissão de avaliação — n.º 13) [■ VERIFICAR: data de apresentação do pedido e redação aplicável].\n— Não existe uma «Lei Orgânica n.º 1/2022»: o endurecimento de 2022 veio do Decreto-Lei n.º 26/2022, de 18 de março, que alterou o art. 24.º-A do Regulamento da Nacionalidade.\n— Nunca garantes o deferimento: a decisão cabe ao membro do Governo responsável pela área da justiça (art. 7.º, n.º 1, da Lei n.º 37/81; art. 24.º-A, n.º 1, do Regulamento), e a lei dizia «o Governo pode conceder».\n— Sem procedimento pendente, encaminha para as vias em vigor (p. ex., naturalização pelo art. 6.º, n.º 1, da Lei n.º 37/81).",
+        "motivo": "O art. 6.º, n.º 7, foi revogado pela Lei Orgânica n.º 1/2026 (art. 5.º), com aplicação da redação anterior aos procedimentos pendentes (art. 7.º, n.º 2); não há Lei Orgânica n.º 1/2022 entre as alterações da Lei da Nacionalidade (a de 2022 foi o DL n.º 26/2022 ao Regulamento); a decisão é do membro do Governo, não do IRN.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=4016&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=& | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3798&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=& | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=614&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=& | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=895&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Estado do pedido: novo ou pedido anterior pendente ao abrigo do regime pré-2022?",
+        "para": "- Estado do pedido: há procedimento pendente, apresentado antes de 19 de maio de 2026? Em que data foi apresentado (antes da entrada em vigor do Decreto-Lei n.º 26/2022; entre 1 de setembro de 2022 e 1 de abril de 2024; depois)? Um pedido novo já não é admissível",
+        "motivo": "Com a revogação do art. 6.º, n.º 7 (Lei Orgânica n.º 1/2026), só os procedimentos pendentes subsistem, e a redação aplicável depende da data do pedido.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=4016&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=& | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3798&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Art. 6.º, n.º 7 Lei 37/81: aquisição por naturalização de «descendentes de judeus sefarditas portugueses» mediante prova de tradição de pertença a comunidade de origem portuguesa, caracterizada por existência de apelidos, língua familiar ou outros elementos de ligação a Portugal\n- Lei Orgânica n.º 1/2022: alterações ao regime — introdução de prazo transitório (verificar prazo vigente e se admite novos pedidos)\n- Decreto-Lei 237-A/2006 (Regulamento da Nacionalidade): procedimento e documentação\n- Certidão das Comunidades Israelitas (CIL/CIP): documento fundamental — não é mero parecer, é condição de admissibilidade na prática",
+        "para": "- Art. 6.º, n.º 7, Lei 37/81 — revogado pela Lei Orgânica n.º 1/2026 e aplicável só aos procedimentos pendentes a 19 de maio de 2026 (art. 7.º, n.º 2, dessa lei): naturalização de descendentes de judeus sefarditas portugueses, com dispensa dos requisitos das als. b) e c) do n.º 1, mediante demonstração da tradição de pertença a uma comunidade sefardita de origem portuguesa, com base em requisitos objetivos comprovados de ligação a Portugal (apelidos, idioma familiar, descendência direta ou colateral) e, na redação da Lei Orgânica n.º 1/2024, residência legal em Portugal de pelo menos 3 anos\n- Art. 6.º da Lei Orgânica n.º 1/2024 (pedidos pendentes): requerimentos apresentados entre 1 de setembro de 2022 e a entrada em vigor dessa lei — tradição de pertença e ainda direitos herdados sobre imóveis ou participações sociais em Portugal, deslocações regulares a Portugal ou autorização de residência há mais de um ano\n- Decreto-Lei 237-A/2006 (Regulamento da Nacionalidade), arts. 18.º, 24.º-A e 27.º (redação do Decreto-Lei n.º 26/2022): requerimento dirigido ao membro do Governo responsável pela área da justiça, instrução e tramitação na Conservatória dos Registos Centrais [■ VERIFICAR: alterações ao Regulamento posteriores à Lei Orgânica n.º 1/2026]\n- Certificado de comunidade judaica com estatuto de pessoa coletiva religiosa radicada em Portugal (na prática, CIL ou CIP): documento de instrução do art. 24.º-A, n.º 3, al. c), do Regulamento; na sua falta, admitem-se outros meios de prova (n.ºs 5 e 6)",
+        "motivo": "Regime revogado (Lei Orgânica n.º 1/2026); a «Lei Orgânica n.º 1/2022» não existe; o certificado da comunidade judaica não é condição absoluta — o Regulamento admite outros meios de prova na sua falta (art. 24.º-A, n.ºs 5 e 6).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=4016&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=& | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3798&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=& | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=895&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Passaporte do requerente",
+        "para": "- Conforme a data do pedido: prova de residência legal em Portugal há pelo menos 3 anos (redação da Lei Orgânica n.º 1/2024) ou documentos do art. 24.º-A, n.º 3, al. d), do Regulamento (direitos herdados sobre imóveis ou participações sociais em Portugal; deslocações regulares a Portugal) [■ VERIFICAR: documentos exigidos para a redação aplicável]\n- Passaporte do requerente",
+        "motivo": "Requisitos acrescentados pelo DL n.º 26/2022 (Regulamento, art. 24.º-A, n.º 3, al. d)) e pela Lei Orgânica n.º 1/2024 (3 anos de residência legal).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=895&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=& | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3798&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "**REQUERIMENTO DE NATURALIZAÇÃO — DESCENDENTE DE JUDEU SEFARDITA PORTUGUÊS**\n\nExmo. Sr. Diretor do Instituto dos Registos e do Notariado,\n\n[NOME_COMPLETO], nacional de [NACIONALIDADE], nascido(a) em [DATA_NASCIMENTO] em [LOCALIDADE], filho(a) de [NOME_PAI] e [NOME_MÃE], portador(a) do passaporte n.º [N_PASSAPORTE], vem requerer, nos termos do artigo 6.º, n.º 7, da Lei n.º 37/81, de 3 de outubro, a aquisição da nacionalidade portuguesa por naturalização, com fundamento na sua qualidade de descendente de judeus sefarditas de origem portuguesa, pelos seguintes fundamentos:",
+        "para": "> Só para procedimento pendente a 19 de maio de 2026 (p. ex., exposição, junção de documentos ou resposta a notificação da Conservatória dos Registos Centrais). Um pedido novo ao abrigo do art. 6.º, n.º 7, não tem base legal.\n\n**EXPOSIÇÃO EM PROCEDIMENTO DE NATURALIZAÇÃO PENDENTE — DESCENDENTE DE JUDEU SEFARDITA PORTUGUÊS**\n**Processo n.º [N_PROCESSO], apresentado em [DATA_APRESENTAÇÃO]**\n\nExmo.(a) Senhor(a) Ministro(a) da Justiça,\n(por intermédio da Conservatória dos Registos Centrais)\n\n[NOME_COMPLETO], nacional de [NACIONALIDADE], nascido(a) em [DATA_NASCIMENTO] em [LOCALIDADE], filho(a) de [NOME_PAI] e [NOME_MÃE], portador(a) do passaporte n.º [N_PASSAPORTE], requerente no procedimento acima identificado, apresentado nos termos do artigo 6.º, n.º 7, da Lei n.º 37/81, de 3 de outubro, na redação anterior à Lei Orgânica n.º 1/2026, de 18 de maio (aplicável aos procedimentos pendentes por força do artigo 7.º, n.º 2, desta lei), vem expor e requerer a concessão da nacionalidade portuguesa por naturalização, com fundamento na sua qualidade de descendente de judeus sefarditas de origem portuguesa, pelos seguintes fundamentos:",
+        "motivo": "Um pedido novo deixou de ter base legal (Lei Orgânica n.º 1/2026); o requerimento de naturalização é dirigido ao membro do Governo responsável pela área da justiça e tramitado pela Conservatória dos Registos Centrais (Regulamento, arts. 18.º, n.º 1, e 27.º).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=4016&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=& | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=895&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "4. O Requerente não regista antecedentes criminais, conforme atestam os certificados juntos.",
+        "para": "4. O Requerente não regista antecedentes criminais, conforme atestam os certificados juntos.\n5. [Conforme a redação aplicável: o Requerente reside legalmente em Portugal desde [DATA], ao abrigo de [TÍTULO] (Doc. [N]) / é titular de direitos herdados sobre imóveis ou participações sociais em Portugal, ou desloca-se regularmente a Portugal (Doc. [N])].",
+        "motivo": "Os requisitos de ligação a Portugal acrescentados em 2022 e 2024 têm de constar da exposição, conforme a data do pedido.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3798&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=& | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=895&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- [ ] Verificar prazo de transição da Lei Orgânica 1/2022 — pedido ainda admissível?",
+        "para": "- [ ] Procedimento pendente a 19 de maio de 2026 confirmado (número e data de apresentação) e redação aplicável identificada — sem procedimento pendente, não apresentar pedido ao abrigo do art. 6.º, n.º 7",
+        "motivo": "A «Lei Orgânica 1/2022» não existe; o regime foi revogado pela Lei Orgânica n.º 1/2026, que só salvaguarda os procedimentos pendentes.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=4016&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Observações: [OUTROS_ELEMENTOS]",
+        "para": "- Procedimento pendente: [N.º DO PROCESSO — DATA DE APRESENTAÇÃO]\n- Observações: [OUTROS_ELEMENTOS]",
+        "motivo": "Dado indispensável depois da revogação do regime.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=4016&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Confirmar a data de entrada em vigor do DL n.º 26/2022 (1 de setembro de 2022, data usada pela Lei Orgânica n.º 1/2024) e a redação aplicável a cada pedido pendente.",
+      "Confirmar se o Governo já alterou o Regulamento da Nacionalidade (art. 4.º da Lei Orgânica n.º 1/2026 dava 90 dias) e se o art. 24.º-A foi revogado ou mantido para os pendentes.",
+      "Confirmar se a homologação pela comissão de avaliação (art. 6.º, n.º 13, na redação da Lei Orgânica n.º 1/2024) se aplica ao pedido concreto.",
+      "Procurar jurisprudência dos tribunais administrativos sobre a «tradição de pertença» antes de a citar."
+    ],
+    "fontes": [
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=614&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=4016&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3798&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=895&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+    ]
+  },
+  {
+    "codigo": "EST-055",
+    "veredicto": "rever de raiz",
+    "resumo": "A ficha reproduz a via extinta da manifestação de interesse: pedir autorização de residência pelo art. 88.º, sem visto, com base em contrato, promessa ou descontos para a segurança social. Os n.ºs 2 e 6 do art. 88.º foram revogados pelo Decreto-Lei n.º 37-A/2024 e o regime transitório só abrange procedimentos iniciados até 4 de junho de 2024 e pedidos apresentados até 31 de dezembro de 2025; hoje o art. 77.º, n.º 1, al. a), exige visto. Corrigiram-se as normas erradas (não há art. 88.º-A — o regime CPLP é o art. 87.º-A e exige visto de residência; a «Lei 5/2014» não é o regime do trabalho sazonal, que está nos arts. 51.º-A e 56.º; a contraordenação do empregador está no art. 198.º-A da Lei n.º 23/2007 e não na Lei n.º 113/2009, que trata da proteção de menores) e retirou-se a sugestão de usar a contraordenação como «alavanca». A minuta só serve a quem tenha visto ou procedimento transitório pendente; a via para trabalhadores explorados sem título (art. 122.º, n.º 1, al. m)) não está desenvolvida, e por isso fica o aviso no topo.",
+    "titulo": "Pedido de Autorização de Residência para Trabalho Subordinado — Vínculo Laboral Precário (Regime após o Fim da Manifestação de Interesse)",
+    "titulo_en": "Residence Permit Application for Subordinate Work — Precarious Employment (Regime after the End of the Expression of Interest)",
+    "descricao": "Prepara o requerimento de autorização de residência para exercício de atividade profissional subordinada (art. 88.º da Lei n.º 23/2007) de trabalhadores com vínculo laboral precário ou sazonal (agricultura, construção, restauração), que hoje exige visto de residência ou visto para procura de trabalho; a regularização sem visto por manifestação de interesse foi revogada pelo Decreto-Lei n.º 37-A/2024 e só subsiste para procedimentos pendentes no regime transitório. Assinala as vias alternativas, como a dispensa de visto para vítimas de infração laboral grave (art. 122.º, n.º 1, al. m)).",
+    "descricao_en": "Prepares the application for a residence permit for subordinate work (Article 88 of Law No. 23/2007) for workers in precarious or seasonal employment (agriculture, construction, hospitality), which now requires a residence visa or a job-seeker visa; regularisation without a visa through the expression of interest (manifestação de interesse) was repealed by Decree-Law No. 37-A/2024 and survives only for procedures pending under the transitional regime. It flags the alternative routes, such as the visa exemption for victims of serious labour offences (Article 122(1)(m)).",
+    "substituicoes": [
+      {
+        "de": "## Regras obrigatórias\n— Cita art. 88.º Lei 23/2007 (autorização de residência para exercício de atividade profissional) e legislação conexa.\n— O historial de contribuições para a Segurança Social é prova forte mesmo na ausência de contrato formal.\n— Sinaliza o risco de empregador que não quer formalizar — nesse caso o trabalhador tem outras vias.",
+        "para": "**Atenção (revisão técnica):** esta ficha foi escrita para a regularização, sem visto, de quem trabalha em Portugal sem título de residência, com base no contrato ou nos descontos para a segurança social. Essa via — a manifestação de interesse e a presunção de entrada legal dos n.ºs 2 e 6 do art. 88.º da Lei n.º 23/2007 — foi revogada pelo Decreto-Lei n.º 37-A/2024, de 3 de junho, e o regime transitório do seu art. 3.º só abrange procedimentos iniciados até 4 de junho de 2024 e pedidos apresentados até 31 de dezembro de 2025, sob pena de caducidade. Hoje a autorização de residência para trabalho exige visto de residência ou visto para procura de trabalho (art. 77.º, n.º 1, al. a)), e o trabalho sazonal faz-se com visto pedido no posto consular antes da entrada. A minuta abaixo só serve a quem tenha esse visto ou um procedimento transitório pendente; para quem não o tenha, as vias a estudar são outras (dispensa de visto do art. 122.º, em especial a al. m) do n.º 1 para vítimas de infração laboral grave que a denunciem; regime excecional do art. 123.º) e não estão desenvolvidas nesta ficha.\n\n## Regras obrigatórias\n— Cita o art. 88.º Lei 23/2007 na redação em vigor: a autorização de residência para atividade subordinada exige contrato de trabalho celebrado nos termos da lei, inscrição na segurança social e as condições gerais do art. 77.º, incluindo visto de residência ou visto para procura de trabalho (n.º 1, al. a)).\n— O historial de contribuições para a Segurança Social só dispensava o visto no regime transitório do art. 3.º, n.º 2, al. b), do Decreto-Lei n.º 37-A/2024 (inscrição e descontos anteriores a 4 de junho de 2024, com pedido até 31 de dezembro de 2025); fora dele, prova a relação de trabalho mas não substitui o visto.\n— Sinaliza o risco de empregador que não quer formalizar; se o trabalhador for vítima de infração laboral grave ou muito grave (desproteção social, exploração salarial ou de horário, condições de trabalho particularmente abusivas), com indícios comprovados pelo serviço inspetivo do trabalho, e a denunciar e colaborar com as autoridades, avalia a autorização de residência com dispensa de visto do art. 122.º, n.º 1, al. m), e n.º 2, da Lei n.º 23/2007.",
+        "motivo": "A via de regularização sem visto com base em contrato ou descontos (art. 88.º, n.ºs 2 e 6) foi revogada pelo DL n.º 37-A/2024; o regime transitório terminou a 31/12/2025 (Lei n.º 61/2025); o art. 77.º, n.º 1, al. a), exige visto; a alternativa legal para trabalhadores explorados é o art. 122.º, n.º 1, al. m).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3807&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=& | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3951&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=& | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?ficha=101&artigo_id=&nid=920&pagina=2&tabela=leis&nversao=&so_miolo=&"
+      },
+      {
+        "de": "- Qual o país de origem e qual a via de entrada em Portugal?",
+        "para": "- Qual o país de origem e qual a via de entrada em Portugal? Tem visto de residência ou visto para procura de trabalho válido?\n- Há procedimento pendente na AIMA (manifestação de interesse até 4 de junho de 2024 ou pedido do regime transitório até 31 de dezembro de 2025)?",
+        "motivo": "Pressupostos da autorização de residência em vigor (art. 77.º, n.º 1, al. a)) e do regime transitório do DL n.º 37-A/2024.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?ficha=101&artigo_id=&nid=920&pagina=2&tabela=leis&nversao=&so_miolo=& | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3807&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Art. 88.º Lei 23/2007: AR para exercício de atividade profissional — base: contrato de trabalho ou promessa\n- Art. 88.º-A Lei 23/2007 (regime CPLP): alternativa se o cliente é nacional CPLP\n- Decreto Regulamentar 84/2007 (e atualizações): procedimento de pedido de AR fora do país de origem\n- Prova de atividade laboral: NISS + extrato de contribuições da Segurança Social é prova forte mesmo sem contrato escrito\n- Lei 5/2014 (trabalhadores sazonais): regime específico [■ VERIFICAR se ainda vigente e aplicável]\n- Risco de contra-ordenação do empregador (Lei 113/2009) — pode ser usado como alavanca para obter contrato formal",
+        "para": "- Art. 88.º, n.º 1, Lei 23/2007: AR para exercício de atividade profissional subordinada — contrato de trabalho celebrado nos termos da lei e inscrição na segurança social, além das condições gerais do art. 77.º (visto: n.º 1, al. a)); a promessa de contrato serve para o visto de residência pedido no posto consular (art. 59.º, n.º 5), não para a autorização de residência\n- Art. 3.º, n.ºs 2 e 3, do Decreto-Lei n.º 37-A/2024: regime transitório da extinta manifestação de interesse (procedimentos iniciados até 4 de junho de 2024; pedidos ao abrigo da al. b) apresentados até 31 de dezembro de 2025)\n- Art. 87.º-A Lei 23/2007 (autorização de residência CPLP): só para nacionais de Estados abrangidos pelo Acordo CPLP titulares de visto de residência (redação da Lei n.º 61/2025)\n- Decreto Regulamentar 84/2007 (e atualizações): instrução dos pedidos de visto e de autorização de residência\n- Prova de atividade laboral: NISS + extrato de contribuições da Segurança Social — prova da relação de trabalho; só dispensava o visto no regime transitório\n- Trabalho sazonal: visto de curta duração (até 90 dias — art. 51.º-A) ou visto de estada temporária (mais de 90 dias — art. 56.º) da Lei 23/2007, pedidos no posto consular antes da entrada; não são via de regularização em território nacional\n- Art. 122.º, n.º 1, al. m), e n.º 2, Lei 23/2007: autorização de residência com dispensa de visto para vítimas de infração penal ou contraordenacional laboral grave ou muito grave, com indícios comprovados pelo serviço inspetivo do trabalho, que a tenham denunciado e colaborem com as autoridades\n- Responsabilidade do empregador que utiliza trabalho de estrangeiro sem título: contraordenação (art. 198.º-A Lei 23/2007) e, se habitual, crime (art. 185.º-A); a denúncia faz-se às autoridades competentes e não deve ser usada como meio de pressão sobre o empregador",
+        "motivo": "Não existe art. 88.º-A (o regime CPLP é o art. 87.º-A, que exige visto de residência desde a Lei n.º 61/2025); o trabalho sazonal está nos arts. 51.º-A e 56.º da Lei n.º 23/2007, não numa «Lei 5/2014»; a Lei n.º 113/2009 trata da proteção de menores — a contraordenação do empregador é a do art. 198.º-A; usar a denúncia como «alavanca» levanta questão deontológica.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?ficha=101&artigo_id=&nid=920&pagina=2&tabela=leis&nversao=&so_miolo=& | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=920&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=& | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?ficha=201&artigo_id=&nid=920&pagina=3&tabela=leis&nversao=&so_miolo=& | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3807&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Contrato de trabalho ou promessa de contrato (principal documento)",
+        "para": "- Contrato de trabalho (principal documento; a promessa de contrato só serve para instruir o visto consular — art. 59.º, n.º 5)",
+        "motivo": "A autorização de residência do art. 88.º, n.º 1, exige contrato de trabalho celebrado; a promessa releva para o visto de residência (art. 59.º, n.º 5, da Lei n.º 23/2007).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?ficha=101&artigo_id=&nid=920&pagina=2&tabela=leis&nversao=&so_miolo=& | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=920&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Se sem contrato: extrato de contribuições SS (NISS obrigatório) + declaração do empregador",
+        "para": "- Se sem contrato (só em procedimento transitório pendente): extrato de contribuições SS anteriores a 4 de junho de 2024 (NISS obrigatório) + declaração do empregador\n- Visto de residência ou visto para procura de trabalho válido (fora do regime transitório)",
+        "motivo": "Fora do regime transitório do DL n.º 37-A/2024, o extrato da segurança social não substitui o visto nem o contrato.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3807&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=& | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?ficha=101&artigo_id=&nid=920&pagina=2&tabela=leis&nversao=&so_miolo=&"
+      },
+      {
+        "de": "**REQUERIMENTO DE AUTORIZAÇÃO DE RESIDÊNCIA PARA EXERCÍCIO DE ATIVIDADE PROFISSIONAL**",
+        "para": "> Só para quem tenha visto de residência ou visto para procura de trabalho (art. 77.º, n.º 1, al. a), da Lei n.º 23/2007) ou um procedimento pendente no regime transitório do Decreto-Lei n.º 37-A/2024. Sem esses pressupostos, o pedido não tem base legal.\n\n**REQUERIMENTO DE AUTORIZAÇÃO DE RESIDÊNCIA PARA EXERCÍCIO DE ATIVIDADE PROFISSIONAL**",
+        "motivo": "A minuta pressupunha a via revogada da manifestação de interesse.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?ficha=101&artigo_id=&nid=920&pagina=2&tabela=leis&nversao=&so_miolo=& | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3807&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "1. O Requerente exerce atividade laboral em Portugal como [FUNÇÃO]",
+        "para": "1. O Requerente é titular de [visto de residência / visto para procura de trabalho] n.º [N_VISTO], válido até [DATA_VALIDADE] [ou: é requerente no procedimento n.º [N_PROCEDIMENTO], pendente ao abrigo do artigo 3.º do Decreto-Lei n.º 37-A/2024] e exerce atividade laboral em Portugal como [FUNÇÃO]",
+        "motivo": "O visto (ou o procedimento transitório pendente) é pressuposto do pedido (art. 77.º, n.º 1, al. a), da Lei n.º 23/2007).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?ficha=101&artigo_id=&nid=920&pagina=2&tabela=leis&nversao=&so_miolo=& | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3807&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- [ ] Contrato ou promessa de contrato obtido (ou extrato SS como alternativa)",
+        "para": "- [ ] Visto de residência / para procura de trabalho válido, ou procedimento pendente no regime transitório, identificado\n- [ ] Contrato de trabalho celebrado e inscrição na segurança social (art. 88.º, n.º 1)",
+        "motivo": "A autorização de residência exige contrato de trabalho e inscrição na segurança social (art. 88.º, n.º 1) e visto (art. 77.º, n.º 1, al. a)); a promessa serve só para o visto consular.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?ficha=101&artigo_id=&nid=920&pagina=2&tabela=leis&nversao=&so_miolo=&"
+      },
+      {
+        "de": "- Tempo em Portugal: [PERÍODO]",
+        "para": "- Tempo em Portugal: [PERÍODO]\n- Visto ou procedimento pendente na AIMA: [TIPO E N.º — DATA]",
+        "motivo": "Dado indispensável no regime em vigor.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?ficha=101&artigo_id=&nid=920&pagina=2&tabela=leis&nversao=&so_miolo=& | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3807&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Para trabalhadores sem visto e sem procedimento transitório pendente, a ficha não tem minuta: estudar caso a caso o art. 122.º, n.º 1, al. m), e n.º 2 (com denúncia e colaboração, e indícios comprovados pela ACT) e o art. 123.º da Lei n.º 23/2007.",
+      "Confirmar o procedimento e a documentação da autorização de residência do art. 122.º, n.º 1, al. m), junto da AIMA.",
+      "Confirmar a lista de setores de trabalho sazonal (art. 51.º-A, n.º 5) e os requisitos do visto consular se o cliente puder regressar ao país de origem.",
+      "Ponderar as regras deontológicas antes de qualquer contacto com o empregador a propósito da contraordenação ou do crime dos arts. 198.º-A e 185.º-A."
+    ],
+    "fontes": [
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=920&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?ficha=101&artigo_id=&nid=920&pagina=2&tabela=leis&nversao=&so_miolo=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?ficha=201&artigo_id=&nid=920&pagina=3&tabela=leis&nversao=&so_miolo=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3807&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3951&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=940&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://diariodarepublica.pt/dr/detalhe/lei/113-2009-490258"
+    ]
+  }
+]

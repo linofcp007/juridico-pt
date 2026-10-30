@@ -40,7 +40,7 @@ Apresenta em <analise_necessidade>:
 Explica em <regime_substituicao>:
 - Art. 2281.º CC: substituição vulgar — substituto chamado quando o primeiro não pode ou não quer aceitar
 - Art. 2281.º, n.º 2 CC: presunção de que a substituição opera em ambos os casos (pré-morte E repúdio) salvo interpretação diversa do testamento
-- Art. 2283.º CC: substituição recíproca entre co-herdeiros
+- Art. 2283.º CC: substituição recíproca entre coerdeiros
 - Art. 2297.º CC: substituição pupilar — pai substitui filho menor para o caso de este morrer antes de atingir a maioridade
 - Art. 2298.º CC: substituição quási-pupilar — para herdeiro com incapacidade permanente
 - Art. 2285.º CC [■ VERIFICAR: o art. 2285.º CC estende a substituição direta aos legados; confirmar a norma invocada]: a substituição não pode ultrapassar os limites do poder de disposição do testador

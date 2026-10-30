@@ -3,20 +3,22 @@ codigo: CIV-009
 area: "Direito Civil e dos Contratos"
 titulo: "Contrato de Cessão de Créditos"
 titulo_en: "Assignment of Claims Agreement (Cessão de Créditos)"
-descricao: "Gera um contrato de cessão de créditos entre cedente e cessionário, com identificação precisa do crédito cedido, preço ou gratuitidade, condições de validade (notificação ao devedor cedido), garantias e responsabilidade do cedente — ao abrigo dos arts. 577.º e seguintes do Código Civil português."
-descricao_en: "Generates an assignment of claims agreement between assignor and assignee, with precise identification of the claim assigned, the price or gratuitous nature of the assignment, conditions of validity (notice to the assigned debtor), warranties and the assignor's liability — under Articles 577 et seq. of the Portuguese Civil Code."
+descricao: "Gera um contrato de cessão de créditos entre cedente e cessionário, com identificação precisa do crédito cedido, preço ou gratuitidade, eficácia perante o devedor cedido (notificação ou aceitação), garantias e responsabilidade do cedente — ao abrigo dos arts. 577.º e seguintes do Código Civil português."
+descricao_en: "Generates an assignment of claims agreement between assignor and assignee, with precise identification of the claim assigned, the price or gratuitous nature of the assignment, effectiveness against the assigned debtor (notice or acceptance), warranties and the assignor's liability — under Articles 577 et seq. of the Portuguese Civil Code."
 ambito: nacional
-estado_citacoes: "conferidas 14 · corrigidas 3 · por conferir 3"
+estado_citacoes: "conferidas 19 · corrigidas 3 · por conferir 2"
+revisao_tecnica: "2026-10-28 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
 # Contrato de Cessão de Créditos
 
 > **Âmbito:** nacional · **Área:** Direito Civil e dos Contratos · **Código:** CIV-009
-> **EN:** Assignment of Claims Agreement (Cessão de Créditos). Generates an assignment of claims agreement between assignor and assignee, with precise identification of the claim assigned, the price or gratuitous nature of the assignment, conditions of validity (notice to the assigned debtor), warranties and the assignor's liability — under Articles 577 et seq. of the Portuguese Civil Code.
-> **Citações:** conferidas 14 · corrigidas 3 · por conferir 3. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **EN:** Assignment of Claims Agreement (Cessão de Créditos). Generates an assignment of claims agreement between assignor and assignee, with precise identification of the claim assigned, the price or gratuitous nature of the assignment, effectiveness against the assigned debtor (notice or acceptance), warranties and the assignor's liability — under Articles 577 et seq. of the Portuguese Civil Code.
+> **Citações:** conferidas 19 · corrigidas 3 · por conferir 2. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-28 — corrigida (8 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
-Gera um contrato de cessão de créditos entre cedente e cessionário, com identificação precisa do crédito cedido, preço ou gratuitidade, condições de validade (notificação ao devedor cedido), garantias e responsabilidade do cedente — ao abrigo dos arts. 577.º e seguintes do Código Civil português.
+Gera um contrato de cessão de créditos entre cedente e cessionário, com identificação precisa do crédito cedido, preço ou gratuitidade, eficácia perante o devedor cedido (notificação ou aceitação), garantias e responsabilidade do cedente — ao abrigo dos arts. 577.º e seguintes do Código Civil português.
 
 ## Método
 
@@ -26,9 +28,9 @@ Ficha de trabalho para preparar este documento. As regras da casa prevalecem sob
 — NUNCA inventes jurisprudência, acórdãos ou números de processo.
 — Se faltarem dados, marca [■ VERIFICAR: o que é necessário].
 — Cita os artigos reais do Código Civil (arts. 577.º e ss.).
-— Alerta para o art. 583.º CC: a cessão só é eficaz perante o devedor cedido após notificação ou aceitação; devedor que pague ao cedente antes de ser notificado fica liberto.
+— Alerta para o art. 583.º CC: a cessão só é eficaz perante o devedor cedido após notificação ou aceitação; o devedor que, antes da notificação ou aceitação, pague ao cedente fica liberado, salvo se o cessionário provar que ele tinha conhecimento da cessão (art. 583.º, n.º 2, CC).
 — Atenção ao art. 587.º CC: responsabilidade do cedente — se onerosa, garante apenas a existência e exigibilidade do crédito, não a solvência do devedor (salvo garantia expressa).
-— Se o crédito for litigioso: alerta para o regime de retracto (art. 579.º CC) e para as restrições à cessão de créditos litigiosos para certas pessoas (advogados, juízes — art. 579.º CC).
+— Se o crédito for litigioso: a lei portuguesa não prevê um direito de «retracto» do devedor cedido; alerta para a nulidade da cessão de créditos ou direitos litigiosos (contestados em juízo, ainda que arbitral), feita diretamente ou por interposta pessoa, a juízes, magistrados do Ministério Público, funcionários de justiça e mandatários judiciais, se o processo correr na área em que exercem habitualmente a atividade, e a peritos ou outros auxiliares da justiça que nele intervenham (nulidade e dever de indemnizar no art. 580.º CC; exceções no art. 581.º CC; proibição no art. 579.º CC).
 
 ---
 
@@ -41,8 +43,9 @@ Apresenta dentro de um bloco <analise_do_caso>:
 - Documentação do crédito: fatura, título, contrato, sentença
 - Necessidade de notificação ao devedor cedido (art. 583.º CC)
 - Garantias acessórias que acompanham o crédito (hipoteca, fiança — art. 582.º CC)
+- Crédito hipotecário com hipoteca sobre imóveis: a cessão tem de constar de escritura pública ou de documento particular autenticado (art. 578.º, n.º 2, CC)
 - Responsabilidade do cedente: existência vs. solvência do devedor
-- Crédito litigioso: retracto pelo devedor (art. 579.º CC [■ VERIFICAR: o art. 579.º CC proíbe a cessão de créditos litigiosos a certas pessoas, não prevê retrato pelo devedor; confirmar])
+- Crédito litigioso: nulidade da cessão a juízes, magistrados do Ministério Público, funcionários de justiça, mandatários judiciais, peritos e outros auxiliares da justiça (art. 579.º CC); não há «retracto» do devedor cedido
 - Informações em falta
 
 ### ETAPA 2 — ANÁLISE JURÍDICA (Fundamentação)
@@ -50,11 +53,12 @@ Apresenta dentro de um bloco <fundamentos_juridicos>:
 - Arts. 577.º a 588.º CC (cessão de créditos — regime geral)
 - Art. 577.º CC (noção e admissibilidade — créditos incedíveis por lei ou natureza)
 - Art. 579.º CC (cessão de créditos litigiosos — quem não pode adquirir)
-- Art. 579.º CC (retracto no crédito litigioso) [■ VERIFICAR: o art. 579.º CC proíbe a cessão de créditos litigiosos a certas pessoas, não prevê retrato pelo devedor; confirmar]
+- Art. 578.º, n.º 2, CC (cessão de créditos hipotecários sobre imóveis: escritura pública ou documento particular autenticado)
+- Arts. 580.º e 581.º CC (nulidade da cessão proibida e dever de indemnizar; exceções à proibição) — a lei portuguesa não prevê «retracto» do devedor no crédito litigioso
 - Art. 582.º CC (acessórios do crédito — hipotecas, fianças transmitidas com o crédito)
 - Art. 583.º CC (eficácia da cessão face ao devedor — notificação ou aceitação)
 - Art. 585.º CC (meios de defesa do devedor cedido)
-- Arts. 587.º e 588.º CC (responsabilidade do cedente: existência e exigibilidade; garantia de solvência apenas se expressa)
+- Art. 587.º CC (responsabilidade do cedente: existência e exigibilidade do crédito ao tempo da cessão, nos termos do negócio, gratuito ou oneroso, em que a cessão se integra; garantia de solvência apenas se expressa)
 
 ### ETAPA 3 — CONSTRUÇÃO ARGUMENTATIVA / ESTRUTURA
 Define a estrutura do contrato:
@@ -85,7 +89,7 @@ Valor pago pelo cessionário ao cedente; forma e data de pagamento; ou declaraç
 Garantias e privilégios que acompanham o crédito cedido (art. 582.º CC): hipoteca, fiança, penhor.
 
 **Cláusula 4.ª — Responsabilidade do Cedente**
-Garantia da existência e exigibilidade do crédito; exclusão ou inclusão da garantia de solvência do devedor (art. 587.º e 588.º CC).
+Garantia da existência e exigibilidade do crédito; exclusão ou inclusão da garantia de solvência do devedor (art. 587.º, n.ºs 1 e 2, CC).
 
 **Cláusula 5.ª — Notificação ao Devedor Cedido**
 Forma e prazo de notificação; quem notifica; modelo de carta de notificação em anexo.
@@ -106,7 +110,8 @@ Apresenta dentro de um bloco <checklist_validacao>:
 - [ ] Responsabilidade do cedente: existência vs. solvência definida
 - [ ] Notificação ao devedor cedido prevista (art. 583.º CC)
 - [ ] Documentação comprovativa do crédito a entregar
-- [ ] Crédito litigioso: retracto e restrições tratados (se aplicável)
+- [ ] Crédito litigioso: cessionário não abrangido pela proibição de cessão de direitos litigiosos (se aplicável)
+- [ ] Crédito hipotecário sobre imóveis: escritura pública ou documento particular autenticado
 - [ ] Pontos [■ VERIFICAR] sinalizados
 
 ---
@@ -152,19 +157,23 @@ Apresenta dentro de um bloco <checklist_validacao>:
 | art. 583.º CC | conferida (epígrafe) — Efeitos em relação ao devedor |  |
 | art. 583.º CC | conferida (epígrafe) — Efeitos em relação ao devedor |  |
 | art. 583.º CC | conferida (epígrafe) — Efeitos em relação ao devedor |  |
+| art. 583.º, n.º 2, CC | conferida (epígrafe) — Efeitos em relação ao devedor |  |
 | art. 587.º CC | conferida (epígrafe) — Garantia da existência do crédito e da solvência do devedor |  |
+| art. 580.º CC | conferida (epígrafe) — Sanções |  |
+| art. 581.º CC | conferida (epígrafe) — Exceções |  |
 | art. 579.º CC | corrigida — Proibição da cessão de direitos litigiosos | o número citado no catálogo não correspondia à epígrafe |
-| art. 579.º CC | conferida (epígrafe) — Proibição da cessão de direitos litigiosos |  |
-| art. 579.º CC | por conferir [■ VERIFICAR] | o art. 579.º CC proíbe a cessão de créditos litigiosos a certas pessoas, não prevê retrato pelo devedor; confirmar |
+| art. 579.º CC | por conferir [■ VERIFICAR] | o assunto descrito não coincide com a epígrafe; confirmar |
 | art. 582.º CC | conferida (epígrafe) — Transmissão de garantias e outros acessórios |  |
 | art. 582.º CC | conferida (epígrafe) — Transmissão de garantias e outros acessórios |  |
 | art. 582.º CC | conferida (epígrafe) — Transmissão de garantias e outros acessórios |  |
+| art. 578.º, n.º 2, CC | conferida (epígrafe) — Regime aplicável |  |
 | Arts. 577.º a 588.º CC | conferida (epígrafe) — Admissibilidade da cessão |  |
 | Art. 577.º CC | conferida (epígrafe) — Admissibilidade da cessão |  |
 | Art. 579.º CC | corrigida — Proibição da cessão de direitos litigiosos | o número citado no catálogo não correspondia à epígrafe |
-| Art. 579.º CC | por conferir [■ VERIFICAR] | o art. 579.º CC proíbe a cessão de créditos litigiosos a certas pessoas, não prevê retrato pelo devedor; confirmar |
+| Art. 578.º, n.º 2, CC | conferida (epígrafe) — Regime aplicável |  |
+| Arts. 580.º e 581.º CC | conferida (epígrafe) — Sanções |  |
 | Art. 582.º CC | conferida (epígrafe) — Transmissão de garantias e outros acessórios |  |
 | Art. 583.º CC | conferida (epígrafe) — Efeitos em relação ao devedor |  |
 | Art. 585.º CC | corrigida — Meios de defesa oponíveis pelo devedor | o número citado no catálogo não correspondia à epígrafe |
-| Arts. 587.º e 588.º CC | conferida (epígrafe) — Garantia da existência do crédito e da solvência do devedor |  |
-| art. 587.º e 588.º CC | conferida (epígrafe) — Garantia da existência do crédito e da solvência do devedor |  |
+| Art. 587.º CC | conferida (epígrafe) — Garantia da existência do crédito e da solvência do devedor |  |
+| art. 587.º, n.ºs 1 e 2, CC | conferida (epígrafe) — Garantia da existência do crédito e da solvência do devedor |  |

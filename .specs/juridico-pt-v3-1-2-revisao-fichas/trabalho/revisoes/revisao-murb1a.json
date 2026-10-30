@@ -1,0 +1,382 @@
+[
+ {
+  "codigo": "URB-006",
+  "veredicto": "corrigida",
+  "resumo": "A pronúncia assentava nos arts. 100.º e 101.º do CPA de 1991; no CPA em vigor, a audiência dos interessados está nos arts. 121.º e 122.º (prazo nunca inferior a 10 dias úteis, audiência única). Acrescentou-se o regime próprio do licenciamento no RJUE, na redação do DL n.º 108/2026: uma única entrega de elementos de alteração ao projeto, limitada nas obras de edificação à junção de elementos em falta, e prorrogação do prazo por uma vez (art. 24.º-A), bem como a reapreciação com compromisso de realizar as infraestruturas (art. 25.º, n.º 1). Corrigiu-se a descrição do índice, que remetia para o art. 100.º do CPA.",
+  "descricao": "Gera a pronúncia em sede de audiência prévia, nos termos dos arts. 121.º e 122.º do Código do Procedimento Administrativo (CPA) e do art. 24.º-A do RJUE, quando a câmara municipal notifica o requerente de que tenciona indeferir o pedido de licença urbanística ou condicioná-la com imposições gravosas, permitindo contrariar os fundamentos do projeto de decisão e corrigir as desconformidades antes da decisão final.",
+  "descricao_en": "Generates the submission in the prior hearing (audiência prévia) under Articles 121 and 122 of the Code of Administrative Procedure (CPA) and Article 24-A of the RJUE, when the municipal council notifies the applicant that it intends to refuse the planning licence application or to make it subject to onerous conditions, allowing the grounds of the draft decision to be rebutted and the non-conformities to be corrected before the final decision.",
+  "substituicoes": [
+   {
+    "de": "- Prazo de audiência prévia fixado (verificar notificação)",
+    "para": "- Prazo de audiência prévia fixado (verificar notificação): nunca inferior a 10 dias, contados em dias úteis (arts. 122.º, n.º 1, e 87.º, al. c), CPA), e prorrogável uma única vez mediante requerimento fundamentado (art. 24.º-A, n.º 3, RJUE)",
+    "motivo": "Faltava o prazo mínimo legal da audiência e a prorrogação prevista no RJUE após o DL n.º 108/2026.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=625&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Art. 100.º e 101.º CPA (direito de audiência)",
+    "para": "- Arts. 121.º e 122.º CPA (direito de audiência prévia e notificação para a audiência); a audiência é única e deve abranger toda a matéria de facto e de direito que sustenta o sentido provável da decisão (art. 121.º, n.º 3, CPA)\n- Art. 24.º-A RJUE (audiência prévia no licenciamento): na sequência da audiência, é admitida uma única entrega de elementos de alteração ao projeto que vise corrigir as desconformidades detetadas ou com elas conexas (n.º 1); na audiência da deliberação final sobre obras de edificação e de demolição (art. 23.º, n.º 1, al. a), RJUE) só podem juntar-se elementos em falta, sem alterações ao projeto (n.º 2)\n- Art. 25.º, n.º 1, RJUE (reapreciação do pedido): se o projeto de indeferimento se fundar na sobrecarga ou falta de infraestruturas (art. 24.º, n.º 2, al. b), e n.º 5, RJUE), o pedido pode ser deferido se o requerente, na audiência prévia, se comprometer a realizar os trabalhos necessários ou a assumir os respetivos encargos",
+    "motivo": "Os arts. 100.º e 101.º são do CPA de 1991; no CPA de 2015 a audiência está nos arts. 121.º e 122.º. Acrescenta-se o regime especial do RJUE na redação do DL n.º 108/2026.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2248A0121&nid=2248&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Proposta alternativa (se houver — ex: projeto alternativo conforme)",
+    "para": "- Proposta alternativa (se houver): elementos de alteração ao projeto que corrijam as desconformidades apontadas, admitidos uma única vez (art. 24.º-A, n.º 1, RJUE; nas obras de edificação e de demolição, ver o limite do n.º 2), ou compromisso de realizar as infraestruturas em falta (art. 25.º, n.º 1, RJUE)",
+    "motivo": "Na audiência não se apresenta um projeto novo: o RJUE admite uma única entrega de elementos de alteração (art. 24.º-A) ou o compromisso do art. 25.º.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=625&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "vem, ao abrigo do disposto nos artigos 100.º e 101.º do Código do Procedimento Administrativo (CPA), no prazo fixado",
+    "para": "vem, ao abrigo do disposto nos artigos 121.º e 122.º do Código do Procedimento Administrativo (CPA) e no artigo 24.º-A do Regime Jurídico da Urbanização e Edificação (RJUE), no prazo fixado",
+    "motivo": "Base legal da audiência no CPA em vigor e no RJUE.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2248A0122&nid=2248&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Pronúncia apresentada dentro do prazo fixado",
+    "para": "- [ ] Pronúncia apresentada dentro do prazo fixado (ou prorrogação requerida a tempo — art. 24.º-A, n.º 3, RJUE)",
+    "motivo": "O RJUE permite uma prorrogação do prazo, a requerer fundamentadamente.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=625&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar a redação do RJUE aplicável: o DL n.º 108/2026 (que aditou o art. 24.º-A) aplica-se aos procedimentos iniciados a partir de 1/10/2026 e aos anteriores que ainda estivessem na fase de saneamento e apreciação liminar (art. 12.º, n.º 1, do DL n.º 108/2026); nos restantes vale a redação anterior.",
+   "A audiência não suspende a contagem dos prazos do procedimento (art. 121.º, n.º 5, CPA): verificar se o prazo de deliberação do art. 23.º, n.º 1, RJUE já tinha decorrido, caso em que pode haver deferimento tácito.",
+   "O órgão só pode realizar uma audiência prévia, salvo factos supervenientes que alterem o sentido da decisão (art. 121.º, n.ºs 3 e 4, CPA): fundamentos novos na decisão final, sem nova audiência, são vício a invocar depois.",
+   "Confirmar se a deliberação em causa é a deliberação final sobre obras de edificação e de demolição (art. 23.º, n.º 1, al. a), RJUE), em que a pronúncia só pode juntar elementos em falta (art. 24.º-A, n.º 2).",
+   "Jurisprudência dos tribunais administrativos sobre audiência prévia no licenciamento: confirmar em dgsi.pt."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2248A0121&nid=2248&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2248A0122&nid=2248&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2248A0087&nid=2248&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2248A0124&nid=2248&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=625&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=4024&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+  ]
+ },
+ {
+  "codigo": "URB-008",
+  "veredicto": "corrigida",
+  "resumo": "A ficha dirigia um «recurso hierárquico» ao presidente da câmara, como superior hierárquico, ou ao Governo, mas entre a câmara municipal e o presidente não há hierarquia e a tutela do Governo sobre as autarquias é só de legalidade (art. 242.º, n.º 1, CRP), sem recurso tutelar que a lei não preveja. O meio próprio é o recurso para a câmara municipal das decisões tomadas pelo presidente, pelos vereadores ou por dirigentes no uso de competências delegadas ou subdelegadas (art. 34.º, n.ºs 2 e 3, e art. 38.º, n.º 5, do Anexo I à Lei n.º 75/2013; art. 199.º, n.ºs 2 e 5, CPA); das deliberações da câmara só cabe reclamação ou ação. Corrigiram-se ainda o prazo (o recurso é facultativo: prazo de impugnação contenciosa, não 30 dias), o efeito não suspensivo (art. 189.º, n.º 2, CPA) e acrescentou-se o prazo de decisão de 30 dias do art. 114.º, n.º 3, do RJUE na redação do DL n.º 108/2026.",
+  "titulo": "Recurso para a Câmara Municipal de Decisão Urbanística Tomada por Delegação",
+  "titulo_en": "Appeal to the Municipal Council against a Planning Decision Taken under Delegated Powers",
+  "descricao": "Gera o recurso administrativo para a câmara municipal das decisões em matéria de licenciamento urbanístico tomadas pelo presidente, pelos vereadores ou por dirigentes no exercício de competências delegadas ou subdelegadas (art. 34.º, n.º 2, do Anexo I à Lei n.º 75/2013 e art. 199.º, n.º 2, do CPA), com aplicação do regime do recurso hierárquico (artigos 193.º e seguintes do CPA). Das deliberações da câmara municipal não há recurso administrativo.",
+  "descricao_en": "Generates the administrative appeal to the municipal council against planning-licensing decisions taken by the mayor, by councillors or by department heads under delegated or sub-delegated powers (Article 34(2) of Annex I to Law 75/2013 and Article 199(2) of the CPA), governed by the rules on hierarchical appeals (Articles 193 et seq. of the CPA). Decisions of the municipal council itself cannot be appealed administratively.",
+  "substituicoes": [
+   {
+    "de": "— Identifica o órgão superior competente para apreciar o recurso.",
+    "para": "— Identifica o autor do ato e a que título decidiu: entre a câmara municipal e o presidente não há hierarquia. Só há recurso para a câmara municipal das decisões do presidente, dos vereadores ou dos dirigentes tomadas no exercício de competências delegadas ou subdelegadas (art. 34.º, n.ºs 2 e 3, e art. 38.º, n.º 5, do Anexo I à Lei n.º 75/2013; art. 199.º, n.º 2, CPA). Das deliberações da câmara municipal e dos atos do presidente em competência própria só cabe reclamação para o autor (art. 191.º CPA) ou ação administrativa. A tutela do Governo sobre as autarquias é de legalidade (art. 242.º, n.º 1, CRP) e não há recurso tutelar sem lei expressa (art. 199.º, n.º 1, al. c), CPA).",
+    "motivo": "Não existe hierarquia entre os órgãos municipais nem recurso tutelar genérico; o recurso previsto na lei é o das decisões tomadas por delegação ou subdelegação, para a câmara municipal.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1990&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Órgão hierarquicamente superior competente para apreciar o recurso [■ VERIFICAR: estrutura da câmara]",
+    "para": "- Título em que o autor decidiu (competência própria ou delegada/subdelegada — verificar o despacho ou a deliberação de delegação e a sua publicação) e órgão competente para o recurso: a câmara municipal, nas decisões tomadas por delegação ou subdelegação (art. 34.º, n.º 2, do Anexo I à Lei n.º 75/2013; a competência para a licença é da câmara, delegável no presidente e subdelegável nos vereadores e dirigentes — art. 5.º, n.º 1, RJUE); se a decisão for da câmara municipal ou do presidente em competência própria, não há recurso administrativo",
+    "motivo": "O órgão do recurso é a câmara municipal (delegante), não um superior hierárquico.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=625A0005&nid=625&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Prazo de recurso (30 dias a contar da notificação — art. 193.º, n.º 2, CPA)\n- Efeito suspensivo ou meramente devolutivo [■ VERIFICAR: art. 189.º CPA]",
+    "para": "- Prazo de recurso: o recurso para a câmara municipal é facultativo («sem prejuízo da sua impugnação contenciosa» — art. 34.º, n.º 2, do Anexo I à Lei n.º 75/2013; art. 185.º, n.º 2, CPA), pelo que se interpõe no prazo de impugnação contenciosa do ato (art. 193.º, n.º 2, CPA), em regra 3 meses (art. 58.º, n.º 1, al. b), CPTA); o prazo de 30 dias só vale para o recurso necessário. A interposição suspende o prazo da ação administrativa (art. 59.º, n.º 4, CPTA)\n- Efeito: o recurso facultativo não suspende a decisão, salvo se o autor do ato ou o órgão competente para o recurso, oficiosamente ou a pedido, considerar que a execução imediata causa prejuízos irreparáveis ou de difícil reparação e que a suspensão não causa prejuízo de maior gravidade para o interesse público (art. 189.º, n.º 2, CPA)",
+    "motivo": "O prazo de 30 dias do art. 193.º, n.º 2, CPA é o do recurso necessário; o recurso facultativo tem o prazo da impugnação contenciosa e não tem efeito suspensivo automático.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2248A0193&nid=2248&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Arts. 193.º a 198.º CPA (recurso hierárquico)",
+    "para": "- Art. 34.º, n.ºs 2 e 3, do Anexo I à Lei n.º 75/2013 (recurso para a câmara municipal das decisões tomadas por delegação ou subdelegação, com fundamento na ilegalidade ou inconveniência; apreciação no prazo máximo de 30 dias) e art. 199.º, n.ºs 2 e 5, CPA (aplica-se o regime do recurso hierárquico — arts. 193.º a 198.º CPA)\n- Art. 114.º, n.º 3, RJUE: a impugnação administrativa de atos praticados ao abrigo do RJUE deve ser decidida no prazo de 30 dias contados da apresentação, findo o qual se considera deferida [■ VERIFICAR: alcance do deferimento no caso concreto]",
+    "motivo": "Base legal do recurso para o delegante e prazo de decisão do RJUE na redação do DL n.º 108/2026.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=625A0114&nid=625&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Pedido de efeito suspensivo (se houver urgência — art. 189.º, n.º 3, CPA) [■ VERIFICAR]",
+    "para": "- Pedido de suspensão da execução (se houver urgência): pode ser feito a todo o tempo e é decidido em 5 dias (art. 189.º, n.ºs 2 a 4, CPA); não prejudica o pedido de suspensão de eficácia ao tribunal administrativo (art. 189.º, n.º 5, CPA; art. 59.º, n.º 5, CPTA)",
+    "motivo": "Critérios e prazo da suspensão confirmados no art. 189.º CPA.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2248A0189&nid=2248&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "**EXMO. SENHOR PRESIDENTE DA CÂMARA MUNICIPAL DE [MUNICÍPIO]**\n(na qualidade de órgão superior hierárquico)\n\n[NOME / FIRMA], NIF/NIPC n.º [número], notificado da decisão [identificação] em [data], vem, ao abrigo dos artigos 193.º e seguintes do Código do Procedimento Administrativo (CPA), interpor RECURSO HIERÁRQUICO da referida decisão, com os fundamentos seguintes:",
+    "para": "**À CÂMARA MUNICIPAL DE [MUNICÍPIO]**\n(órgão delegante, competente para conhecer do recurso — art. 34.º, n.º 2, do Anexo I à Lei n.º 75/2013, de 12 de setembro; requerimento apresentado ao autor do ato ou à Câmara Municipal — art. 194.º, n.º 2, do CPA)\n\n[NOME / FIRMA], NIF/NIPC n.º [número], notificado em [data] da decisão [identificação], proferida por [Presidente da Câmara Municipal / Vereador / dirigente] no uso de competência [delegada / subdelegada] pela Câmara Municipal ([despacho ou deliberação de delegação, data e publicação]), vem, ao abrigo do art. 34.º, n.ºs 2 e 3, do Anexo I à Lei n.º 75/2013 e dos artigos 199.º, n.ºs 2 e 5, e 193.º e seguintes do Código do Procedimento Administrativo (CPA), interpor RECURSO para a Câmara Municipal da referida decisão, com os fundamentos seguintes:",
+    "motivo": "O presidente não é superior hierárquico; o recurso das decisões tomadas por delegação é dirigido à câmara municipal.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1990&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "O presente recurso é admissível nos termos do art. 193.º, n.º 1, do CPA, e tempestivo, tendo sido interposto no prazo de 30 dias a contar da notificação da decisão recorrida (art. 193.º, n.º 2, do CPA).",
+    "para": "O presente recurso é admissível, por a decisão recorrida ter sido tomada no exercício de competência [delegada / subdelegada] da Câmara Municipal (art. 34.º, n.º 2, do Anexo I à Lei n.º 75/2013; art. 199.º, n.º 2, do CPA), e tempestivo, por ser facultativo e ter sido interposto dentro do prazo de impugnação contenciosa do ato (art. 193.º, n.º 2, do CPA; art. 58.º, n.º 1, al. b), do CPTA).",
+    "motivo": "Fundamento de admissibilidade e prazo do recurso facultativo.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2248A0193&nid=2248&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "[Art. 189.º, n.º 3, CPA — fundamentação da urgência, se aplicável]",
+    "para": "[Pedido de suspensão da execução (art. 189.º, n.ºs 2 a 4, CPA): prejuízos irreparáveis ou de difícil reparação para o recorrente, ausência de prejuízo de maior gravidade para o interesse público e prova que revele uma probabilidade séria de veracidade dos factos alegados]",
+    "motivo": "Os pressupostos da suspensão estão nos n.ºs 2 e 4 do art. 189.º CPA; o n.º 3 só fixa o momento e o prazo de decisão.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2248A0189&nid=2248&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Prazo de 30 dias verificado (art. 193.º, n.º 2, CPA)\n- [ ] Órgão superior corretamente identificado",
+    "para": "- [ ] Prazo verificado: recurso facultativo, no prazo de impugnação contenciosa (art. 193.º, n.º 2, CPA; art. 58.º, n.º 1, al. b), CPTA), e prazo da ação administrativa controlado (art. 59.º, n.ºs 4 e 5, CPTA)\n- [ ] Competência delegada ou subdelegada confirmada e câmara municipal identificada como órgão do recurso (art. 34.º, n.º 2, do Anexo I à Lei n.º 75/2013)",
+    "motivo": "Prazo e órgão do recurso corrigidos.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2248A0193&nid=2248&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Órgão que decidiu: [presidente CM ou câmara municipal colegial]",
+    "para": "- Órgão que decidiu e a que título: [presidente / vereador / dirigente, com competência própria ou delegada/subdelegada — despacho ou deliberação de delegação; se for deliberação da câmara municipal, não há recurso administrativo]",
+    "motivo": "A admissibilidade do recurso depende de a decisão ter sido tomada por delegação ou subdelegação.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1990&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar no despacho ou na deliberação de delegação (e na sua publicação) que a decisão foi tomada por delegação ou subdelegação; sem delegação não há recurso para a câmara municipal, só reclamação (art. 191.º CPA) ou ação administrativa.",
+   "Decisões de dirigentes com competências do art. 5.º RJUE delegadas ou subdelegadas (art. 38.º, n.º 3, al. n), do Anexo I à Lei n.º 75/2013): o art. 38.º, n.º 5, manda aplicar o art. 34.º, n.ºs 2 e 3, «com as devidas adaptações» — confirmar o órgão a quem se dirige o recurso.",
+   "Art. 114.º, n.º 3, RJUE (redação do DL n.º 108/2026): a impugnação não decidida em 30 dias considera-se deferida — confirmar o alcance desse deferimento (p. ex., se equivale à prática do ato pretendido) e a sua articulação com o art. 34.º, n.º 3, do Anexo I à Lei n.º 75/2013.",
+   "O recurso é facultativo: ponderar propor logo a ação administrativa e, se houver urgência, a providência cautelar (art. 59.º, n.º 5, CPTA).",
+   "Procedimentos iniciados antes de 1/10/2026: confirmar a redação do RJUE aplicável (art. 12.º do DL n.º 108/2026)."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1990&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=4A0242&nid=4&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2248A0185&nid=2248&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2248A0189&nid=2248&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2248A0191&nid=2248&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2248A0193&nid=2248&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2248A0194&nid=2248&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2248A0199&nid=2248&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=439A0058&nid=439&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=439A0059&nid=439&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=625A0005&nid=625&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=625A0114&nid=625&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=4024&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+  ]
+ },
+ {
+  "codigo": "URB-010",
+  "veredicto": "corrigida",
+  "resumo": "A ficha ignorava que a ação de impugnação da ordem de demolição tem efeito suspensivo por força da lei (art. 115.º RJUE, na redação do DL n.º 108/2026) e construía toda a proteção sobre um pedido de suspensão de eficácia formulado dentro da petição, quando a providência cautelar se pede em requerimento próprio (art. 114.º CPTA). Fundava a audiência nos arts. 100.º e 101.º do CPA de 1991, omitindo a audição de 15 dias do art. 106.º, n.º 3, RJUE e os arts. 121.º e 122.º do CPA; atribuía ao art. 106.º um «dever de legalização» que está no art. 102.º-A, n.º 1, e remetia a legalização para o art. 102.º, n.º 4, revogado. Corrigiram-se ainda o tribunal (tribunal administrativo da situação do imóvel — art. 17.º CPTA), a identificação do ato impugnado e a descrição do índice (ação administrativa, não «especial»).",
+  "descricao": "Gera a petição inicial da ação administrativa de impugnação da ordem municipal de demolição de obra ou de parte de obra, ao abrigo do CPTA e do RJUE, contestando os seus fundamentos legais e pedindo a anulação do ato; a ação tem efeito suspensivo por força da lei (art. 115.º do RJUE), sem prejuízo de providência cautelar quando a demolição for iminente.",
+  "descricao_en": "Generates the statement of claim in the administrative action (ação administrativa) challenging a municipal order to demolish works or part of works, under the CPTA and the RJUE, disputing its legal grounds and seeking annulment of the act; by law the action has suspensive effect (Article 115 of the RJUE), without prejudice to interim relief where demolition is imminent.",
+  "substituicoes": [
+   {
+    "de": "— Inclui pedido de suspensão de eficácia (art. 120.º CPTA) dado o carácter irreversível da demolição.",
+    "para": "— A ação administrativa de impugnação da ordem de demolição tem efeito suspensivo por força da lei (art. 115.º, n.º 1, RJUE): invoca-o sempre. Pondera ainda requerimento cautelar autónomo de suspensão de eficácia (arts. 114.º e 120.º CPTA), com pedido de decretamento provisório (art. 131.º CPTA), quando a demolição estiver iminente antes da citação ou houver risco de ser atribuído efeito meramente devolutivo à ação (art. 115.º, n.º 3, RJUE).",
+    "motivo": "O RJUE atribui efeito suspensivo à ação de impugnação dos atos do art. 106.º; a providência cautelar é complementar e pede-se em requerimento próprio.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=625A0115&nid=625&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Possibilidade de legalização: a obra pode ser legalizada (art. 102.º, n.º 4, RJUE)?",
+    "para": "- Possibilidade de legalização: a obra pode ser legalizada ou tornada conforme por trabalhos de correção ou de alteração (arts. 102.º-A, n.º 1, e 106.º, n.º 2, RJUE)? A câmara notificou o interessado para a legalização, fixando prazo (art. 102.º-A, n.º 1, RJUE)?",
+    "motivo": "O art. 102.º, n.º 4, RJUE está revogado; a legalização rege-se pelo art. 102.º-A, n.º 1, e a alternativa à demolição pelo art. 106.º, n.º 2.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=625A0102A&nid=625&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Vícios da ordem de demolição (falta de audiência prévia, falta de fundamentação, desproporção)",
+    "para": "- Vícios da ordem de demolição (falta da audição prévia do interessado, com 15 dias para se pronunciar — art. 106.º, n.º 3, RJUE —, falta de fundamentação, desproporção)",
+    "motivo": "O RJUE prevê uma audição própria, com prazo de 15 dias, antes da ordem de demolição.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=625A0106&nid=625&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Urgência extrema: a demolição foi agendada? Prazo iminente?",
+    "para": "- Urgência extrema: a demolição foi agendada? Prazo iminente? (o efeito suspensivo da ação só obriga a entidade a impedir a execução a partir da citação — art. 115.º, n.º 2, RJUE)",
+    "motivo": "Momento a partir do qual opera o efeito suspensivo legal.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=625A0115&nid=625&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Art. 106.º RJUE — dever de legalização antes de ordenar a demolição\n- Arts. 100.º e 101.º CPA (audiência prévia — omissão é vício invalidante)",
+    "para": "- Arts. 102.º-A, n.º 1, e 106.º, n.º 2, RJUE — a demolição pode ser evitada se a obra for suscetível de ser licenciada ou objeto de comunicação prévia, ou puder ser corrigida, e a câmara deve notificar o interessado para a legalização quando esta for possível\n- Art. 106.º, n.º 3, RJUE (audição do interessado, com 15 dias para se pronunciar, antes da ordem de demolição) e arts. 121.º e 122.º CPA (audiência prévia); a omissão gera, em regra, anulabilidade, salvo os casos em que não se produz o efeito anulatório (art. 163.º, n.º 5, CPA)",
+    "motivo": "O dever de notificar para a legalização está no art. 102.º-A, n.º 1; a audiência rege-se pelo art. 106.º, n.º 3, RJUE e pelos arts. 121.º e 122.º do CPA de 2015 (os arts. 100.º e 101.º são do CPA de 1991).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=625A0106&nid=625&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Art. 120.º CPTA (suspensão de eficácia cautelar)",
+    "para": "- Art. 115.º RJUE (efeito suspensivo da ação de impugnação da ordem de demolição; o juiz pode atribuir-lhe efeito meramente devolutivo — n.º 3) e arts. 114.º, 120.º e 131.º CPTA (requerimento cautelar de suspensão de eficácia, critérios de decisão e decretamento provisório)",
+    "motivo": "Falta a norma que dá efeito suspensivo à ação; a providência cautelar é complementar.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=625A0115&nid=625&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Argumento principal: a obra pode ser legalizada — a câmara não cumpriu o dever de providenciar pela legalização antes de ordenar a demolição (art. 106.º RJUE)",
+    "para": "- Argumento principal: a obra pode ser legalizada — a câmara não cumpriu o dever de notificar o interessado para a legalização antes de ordenar a demolição (arts. 102.º-A, n.º 1, e 106.º, n.º 2, RJUE)",
+    "motivo": "O dever de notificar para a legalização está no art. 102.º-A, n.º 1, RJUE.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=625A0102A&nid=625&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Argumento formal: omissão de audiência prévia (arts. 100.º e 101.º CPA)\n- Pedido cautelar urgente: suspensão imediata da eficácia da ordem de demolição",
+    "para": "- Argumento formal: omissão da audição prévia (art. 106.º, n.º 3, RJUE; arts. 121.º e 122.º CPA)\n- Efeito suspensivo: invocar o efeito suspensivo da ação (art. 115.º, n.º 1, RJUE); requerimento cautelar autónomo de suspensão de eficácia, com pedido de decretamento provisório, se a demolição estiver marcada para antes da citação ou se for pedido o efeito meramente devolutivo (art. 115.º, n.º 3, RJUE; arts. 114.º, 120.º e 131.º CPTA)",
+    "motivo": "Base legal da audiência e efeito suspensivo legal da ação.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=625A0115&nid=625&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "**AO TRIBUNAL ADMINISTRATIVO DE CÍRCULO DE [COMARCA]**\n\n[NOME / FIRMA], NIF/NIPC n.º [número], representado pelo mandatário [nome, n.º OA], vem intentar\n\n**AÇÃO ADMINISTRATIVA DE IMPUGNAÇÃO**\ncom pedido urgente de **SUSPENSÃO DE EFICÁCIA** (art. 120.º CPTA)",
+    "para": "**AO TRIBUNAL ADMINISTRATIVO E FISCAL DE [SEDE] [ou: AO TRIBUNAL ADMINISTRATIVO DE CÍRCULO DE LISBOA]**\n[Tribunal da área da situação do imóvel — art. 17.º CPTA] [■ VERIFICAR: tribunal com jurisdição sobre o concelho e juízo competente, se o tribunal estiver desdobrado em juízos (art. 9.º do ETAF)]\n\n[NOME / FIRMA], NIF/NIPC n.º [número], representado pelo mandatário [nome, n.º OA], vem intentar\n\n**AÇÃO ADMINISTRATIVA DE IMPUGNAÇÃO DE ATO ADMINISTRATIVO**\n(arts. 37.º, n.º 1, al. a), e 50.º e seguintes do CPTA), com **EFEITO SUSPENSIVO** (art. 115.º, n.º 1, RJUE)",
+    "motivo": "Os tribunais administrativos de círculo não se organizam por comarcas (funcionam muitas vezes agregados como tribunais administrativos e fiscais) e os processos relativos a imóveis correm no tribunal da situação dos bens; a proteção principal é o efeito suspensivo legal da ação, e a suspensão de eficácia pede-se em requerimento próprio.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=439A0017&nid=439&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "O ato impugnado é a notificação de ordem de demolição enviada ao Autor em [data],",
+    "para": "O ato impugnado é a ordem de demolição proferida por [Presidente da Câmara Municipal de [MUNICÍPIO] / titular de competência delegada] em [data] e notificada ao Autor em [data] (art. 106.º, n.º 1, RJUE),",
+    "motivo": "Impugna-se o ato administrativo (a ordem de demolição, da competência do presidente da câmara), não a sua notificação.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=625A0106&nid=625&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "**III.1 — Da Violação do Dever de Legalização (art. 106.º RJUE)**\nNos termos do art. 106.º do RJUE, antes de ordenar a demolição, a câmara municipal deve verificar se a obra pode ser legalizada mediante aprovação do projeto, concessão de licença ou prática de comunicação prévia. Só na impossibilidade de legalização é que a demolição pode ser ordenada.",
+    "para": "**III.1 — Da Violação do Dever de Legalização (arts. 102.º-A e 106.º RJUE)**\nNos termos do art. 106.º, n.º 2, do RJUE, a demolição pode ser evitada se a obra for suscetível de ser licenciada ou objeto de comunicação prévia, ou se for possível assegurar a sua conformidade com as disposições legais e regulamentares aplicáveis mediante trabalhos de correção ou de alteração; e, sendo possível assegurar essa conformidade, a câmara municipal notifica os interessados para a legalização, fixando um prazo para o efeito (art. 102.º-A, n.º 1, do RJUE). A demolição é, assim, a última medida de reposição da legalidade urbanística, só legítima quando a legalização ou a correção não forem possíveis.",
+    "motivo": "O art. 106.º, n.º 2, diz que a demolição pode ser evitada; o dever de notificar para a legalização está no art. 102.º-A, n.º 1.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=625A0102A&nid=625&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "**III.3 — Da Omissão de Audiência Prévia (arts. 100.º e 101.º CPA)** (se aplicável)\nA ordem de demolição foi emitida sem notificação prévia ao Autor para se pronunciar, violando o disposto nos arts. 100.º e 101.º do CPA. Esta omissão constitui preterição de formalidade essencial, determinante da anulabilidade do ato.",
+    "para": "**III.3 — Da Omissão da Audição Prévia (art. 106.º, n.º 3, RJUE; arts. 121.º e 122.º CPA)** (se aplicável)\nA ordem de demolição foi emitida sem que o Autor tivesse sido ouvido sobre o seu conteúdo, no prazo de 15 dias que a lei lhe assegura (art. 106.º, n.º 3, do RJUE), em violação também do direito de audiência prévia (arts. 121.º e 122.º do CPA). Esta omissão constitui preterição de formalidade essencial, determinante da anulabilidade do ato (art. 163.º, n.º 1, do CPA), não se verificando nenhuma das situações em que o efeito anulatório se não produz (art. 163.º, n.º 5, do CPA) [demonstrar, p. ex., que a pronúncia do Autor podia ter conduzido a decisão diferente].",
+    "motivo": "Os arts. 100.º e 101.º são do CPA de 1991; a audição prévia da ordem de demolição tem regra própria no art. 106.º, n.º 3, RJUE, e a anulabilidade está sujeita ao art. 163.º, n.º 5, CPA.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2248A0163&nid=2248&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "**IV. DA URGÊNCIA E DO PEDIDO CAUTELAR**\nA demolição iminente causará danos graves e irreversíveis: [descrição dos danos — valor da construção, perturbação da posse, impossibilidade de reposição]. Requer-se a suspensão de eficácia da ordem de demolição nos termos do art. 120.º CPTA, até decisão final.\n\n**V. DOS PEDIDOS**\na) Seja concedida a suspensão de eficácia da ordem de demolição;\nb) Seja julgada procedente a ação e anulada a ordem de demolição;\nc) Seja o Município Réu condenado nas custas.",
+    "para": "**IV. DO EFEITO SUSPENSIVO DA AÇÃO**\nA presente ação tem por objeto um ato previsto no art. 106.º do RJUE e tem, por isso, efeito suspensivo (art. 115.º, n.º 1, do RJUE): com a citação, o Réu fica obrigado a impedir, com urgência, o início ou a prossecução da demolição (art. 115.º, n.º 2). A demolição causaria danos graves e irreversíveis: [descrição dos danos — valor da construção, perturbação da posse, impossibilidade de reposição], o que se alega também para o caso de vir a ser pedida a atribuição de efeito meramente devolutivo (art. 115.º, n.º 3, do RJUE). [Se a demolição estiver marcada para antes da citação: requerimento cautelar autónomo de suspensão de eficácia, apresentado juntamente com esta petição, com pedido de decretamento provisório — arts. 114.º, n.º 1, al. b), 120.º e 131.º do CPTA.]\n\n**V. DOS PEDIDOS**\na) Seja a ação recebida com o efeito suspensivo previsto no art. 115.º, n.º 1, do RJUE;\nb) Seja julgada procedente a ação e anulada a ordem de demolição;\nc) Seja o Município Réu condenado nas custas.",
+    "motivo": "A suspensão de eficácia é uma providência cautelar pedida em requerimento próprio (art. 114.º CPTA), não um pedido da petição; a ação contra a ordem de demolição já tem efeito suspensivo legal (art. 115.º RJUE).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=439A0114&nid=439&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Urgência da providência cautelar identificada (demolição iminente)",
+    "para": "- [ ] Efeito suspensivo da ação invocado (art. 115.º RJUE) e necessidade de requerimento cautelar autónomo ponderada (demolição marcada para antes da citação)",
+    "motivo": "Efeito suspensivo legal da ação.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=625A0115&nid=625&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Audiência prévia omitida identificada (arts. 100.º e 101.º CPA)",
+    "para": "- [ ] Omissão da audição prévia identificada (art. 106.º, n.º 3, RJUE; arts. 121.º e 122.º CPA)",
+    "motivo": "Base legal da audiência no RJUE e no CPA em vigor.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2248A0121&nid=2248&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Pedido cautelar separado do pedido principal",
+    "para": "- [ ] Pedido cautelar, se houver, em requerimento próprio (art. 114.º, n.º 1, CPTA)",
+    "motivo": "A providência cautelar pede-se em requerimento próprio, antes, com ou depois da petição.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=439A0114&nid=439&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "O efeito suspensivo do art. 115.º RJUE só obriga a entidade a impedir a execução a partir da citação; se a demolição estiver marcada para antes, ponderar requerimento cautelar com decretamento provisório (art. 131.º CPTA) e confirmar a jurisprudência sobre o interesse em agir na providência perante o efeito suspensivo legal.",
+   "Confirmar o tribunal administrativo com jurisdição sobre o concelho onde se situa o imóvel e se existe juízo especializado (art. 9.º, n.ºs 4 e 5, do ETAF).",
+   "A omissão de audição pode não levar à anulação nos casos do art. 163.º, n.º 5, CPA (p. ex., ato de conteúdo vinculado sem alternativa legal): preparar a demonstração de que a pronúncia podia mudar a decisão.",
+   "Na legalização, pode ser dispensado o cumprimento de normas técnicas cujo cumprimento se tornou impossível ou não razoável, se cumpridas as vigentes à data da obra (art. 102.º-A, n.º 5, RJUE): verificar a data da construção.",
+   "Prazo: 3 meses para atos anuláveis; a impugnação de atos nulos não está sujeita a prazo (art. 58.º, n.º 1, CPTA)."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=625A0102&nid=625&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=625A0102A&nid=625&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=625A0106&nid=625&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=625A0115&nid=625&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=4024&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2248A0121&nid=2248&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2248A0122&nid=2248&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2248A0163&nid=2248&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=439A0017&nid=439&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=439A0037&nid=439&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=439A0058&nid=439&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=439A0114&nid=439&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=439A0120&nid=439&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=439A0128&nid=439&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=418A0009&nid=418&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+  ]
+ },
+ {
+  "codigo": "URB-012",
+  "veredicto": "corrigida",
+  "resumo": "A ficha seguia o CPTA anterior a 2015: «ação administrativa especial», pedido principal de anulação do indeferimento e condenação só «se não houver margem de livre apreciação», e o esgotamento dos meios administrativos como pressuposto. No regime em vigor, contra um indeferimento o pedido adequado é a condenação à prática do ato devido, sendo o objeto do processo a pretensão do interessado (arts. 51.º, n.º 4, 66.º e 67.º, n.º 1, al. b), CPTA), e mesmo havendo discricionariedade o tribunal condena e explicita as vinculações (art. 71.º, n.ºs 2 e 3); a impugnação administrativa é, em regra, facultativa (art. 185.º, n.º 2, CPA) e só suspende o prazo (art. 59.º, n.º 4, CPTA). Corrigiram-se ainda o tribunal (art. 17.º CPTA) e a descrição do índice.",
+  "descricao": "Gera a petição inicial da ação administrativa no tribunal administrativo competente contra o indeferimento de licença de construção, ao abrigo do CPTA, com pedido de condenação do município à prática do ato devido (o deferimento da licença), sem necessidade de esgotar previamente os meios administrativos.",
+  "descricao_en": "Generates the statement of claim in the administrative action (ação administrativa) before the competent administrative court against the refusal of a building licence, under the CPTA, seeking an order requiring the municipality to perform the act legally due (granting the licence), without any need to exhaust administrative remedies first.",
+  "substituicoes": [
+   {
+    "de": "— Distingue o pedido de anulação do ato (art. 50.º CPTA) do pedido de condenação à prática do ato (art. 67.º CPTA).\n— Verifica sempre se os meios administrativos foram esgotados (se obrigatório).",
+    "para": "— Contra um indeferimento, o pedido adequado é o de condenação à prática do ato devido (arts. 66.º e 67.º, n.º 1, al. b), CPTA): o objeto do processo é a pretensão do interessado, e a eliminação do indeferimento resulta da própria condenação (art. 66.º, n.º 2, CPTA); perante um pedido de mera anulação, o tribunal convida o autor a substituir a petição (art. 51.º, n.º 4, CPTA).\n— A reclamação ou o recurso administrativo são, em regra, facultativos (art. 185.º, n.º 2, CPA) e não são pressuposto da ação; se tiverem sido usados, suspendem o prazo da ação até à decisão ou ao termo do prazo para decidir (art. 59.º, n.º 4, CPTA).",
+    "motivo": "No CPTA de 2015 o meio contra o indeferimento é a condenação à prática do ato devido, e a impugnação administrativa só é necessária quando a lei o diga.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=439A0066&nid=439&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Prazo de impugnação judicial (3 meses — art. 58.º CPTA) — verificar se ainda está dentro do prazo\n- Pedido de condenação à prática de ato (emissão da licença) — art. 67.º CPTA — viável?",
+    "para": "- Prazo da ação (3 meses — arts. 58.º, n.º 1, al. b), e 69.º, n.º 2, CPTA), suspenso enquanto pender impugnação administrativa (art. 59.º, n.º 4, CPTA) — verificar se ainda está dentro do prazo\n- Pedido de condenação à prática do ato devido (deferimento do pedido de licença) — arts. 66.º, 67.º, n.º 1, al. b), e 71.º CPTA",
+    "motivo": "O prazo da ação de condenação após indeferimento resulta do art. 69.º, n.º 2, que remete para os arts. 58.º a 60.º; a condenação é o pedido adequado, não uma opção eventual.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=439A0069&nid=439&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Arts. 50.º e 67.º CPTA (impugnação de atos e condenação à prática de ato)\n- Art. 58.º CPTA (prazo de impugnação)",
+    "para": "- Arts. 66.º, 67.º, n.º 1, al. b), e 71.º CPTA (condenação à prática do ato devido na sequência de indeferimento e poderes de pronúncia do tribunal) e art. 51.º, n.º 4, CPTA (insuficiência do pedido de mera anulação)\n- Arts. 58.º e 69.º, n.º 2, CPTA (prazo da ação)",
+    "motivo": "Base legal do pedido de condenação e do respetivo prazo.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=439A0067&nid=439&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Pedido 1: anulação do ato de indeferimento por vício de legalidade\n- Pedido 2 (se viável): condenação da câmara à emissão da licença (art. 67.º CPTA) — só possível se não houver margem de livre apreciação da câmara",
+    "para": "- Pedido: condenação do Município à prática do ato devido — o deferimento do pedido de licença (arts. 66.º e 67.º, n.º 1, al. b), CPTA) —, com fundamento na ilegalidade do indeferimento; a eliminação do indeferimento resulta da condenação (art. 66.º, n.º 2, CPTA)\n- Se a decisão envolver valorações próprias da função administrativa e não houver uma única solução legalmente possível, o tribunal não fixa o conteúdo do ato, mas condena à sua prática e explicita as vinculações a observar (art. 71.º, n.ºs 2 e 3, CPTA)",
+    "motivo": "A existência de discricionariedade não impede a condenação: limita apenas a determinação do conteúdo do ato (art. 71.º, n.ºs 2 e 3, CPTA).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=439A0071&nid=439&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "**AO TRIBUNAL ADMINISTRATIVO DE CÍRCULO DE [COMARCA]**",
+    "para": "**AO TRIBUNAL ADMINISTRATIVO E FISCAL DE [SEDE] [ou: AO TRIBUNAL ADMINISTRATIVO DE CÍRCULO DE LISBOA]**\n[Tribunal da área da situação do imóvel — art. 17.º CPTA] [■ VERIFICAR: tribunal com jurisdição sobre o concelho e juízo competente, se o tribunal estiver desdobrado em juízos (art. 9.º do ETAF)]",
+    "motivo": "Os tribunais administrativos de círculo não se organizam por comarcas e os processos relacionados com imóveis correm no tribunal da situação dos bens.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=439A0017&nid=439&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "**AÇÃO ADMINISTRATIVA ESPECIAL**\n(art. 37.º, n.º 1, al. a) e b), CPTA)",
+    "para": "**AÇÃO ADMINISTRATIVA DE CONDENAÇÃO À PRÁTICA DE ATO DEVIDO**\n(arts. 37.º, n.º 1, al. b), 66.º e 67.º, n.º 1, al. b), CPTA)",
+    "motivo": "A «ação administrativa especial» desapareceu com a revisão do CPTA de 2015; a forma é a ação administrativa (art. 37.º).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=439A0037&nid=439&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "**II. OBJETO DA AÇÃO — ATO IMPUGNADO**\nÉ impugnada a decisão de indeferimento do pedido de licença de [tipo] para a operação [descrição], referente ao processo urbanístico n.º [número], na sua última expressão após esgotamento dos meios administrativos: [identificação da decisão final].",
+    "para": "**II. OBJETO DA AÇÃO — PRETENSÃO E ATO DE INDEFERIMENTO**\nO Autor pretende a condenação do Réu à prática do ato devido — o deferimento do pedido de licença de [tipo] para a operação [descrição], referente ao processo urbanístico n.º [número] —, que foi recusado por [identificação da decisão de indeferimento e, se tiver havido reclamação ou recurso administrativo, da decisão que sobre eles recaiu]; a eliminação do indeferimento resulta da pronúncia condenatória (art. 66.º, n.º 2, do CPTA).",
+    "motivo": "O objeto do processo é a pretensão do interessado, não o ato de indeferimento, e não se exige o esgotamento dos meios administrativos.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=439A0066&nid=439&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "a) Anule o ato de indeferimento, por padecer dos vícios de ilegalidade supra identificados;\nb) Condene o Município Réu a emitir a licença de [tipo] requerida, no prazo de [X] dias (art. 67.º CPTA) [se aplicável — verificar se há margem de discricionariedade];",
+    "para": "a) Condene o Município Réu a deferir o pedido de licença de [tipo] formulado no processo urbanístico n.º [número], no prazo de [X] dias (art. 66.º, n.º 1, do CPTA), por ser ilegal o indeferimento, pelos vícios supra identificados;\nb) Subsidiariamente, se a decisão envolver valorações próprias da função administrativa, condene o Município Réu a praticar novo ato, com observância das vinculações que o Tribunal explicitar (art. 71.º, n.ºs 2 e 3, do CPTA);",
+    "motivo": "Pedido adequado contra o indeferimento e regime da condenação quando há discricionariedade.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=439A0071&nid=439&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Prazo de 3 meses verificado (art. 58.º CPTA)\n- [ ] Meios administrativos esgotados (reclamação e/ou recurso hierárquico)\n- [ ] Ato impugnado claramente identificado (decisão final)",
+    "para": "- [ ] Prazo de 3 meses verificado (arts. 58.º e 69.º, n.º 2, CPTA), tendo em conta a suspensão por impugnação administrativa (art. 59.º, n.º 4, CPTA)\n- [ ] Reclamação ou recurso administrativo, se usados, identificados — não são pressuposto da ação (art. 185.º, n.º 2, CPA)\n- [ ] Ato de indeferimento claramente identificado",
+    "motivo": "A impugnação administrativa é facultativa; só influi no prazo.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2248A0185&nid=2248&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Pedido de condenação à prática de ato avaliado (art. 67.º CPTA)",
+    "para": "- [ ] Pedido de condenação à prática do ato devido formulado (arts. 66.º, 67.º, n.º 1, al. b), e 71.º CPTA)",
+    "motivo": "A condenação é o pedido adequado contra o indeferimento (art. 51.º, n.º 4, CPTA).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=439A0051&nid=439&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Condenação à prática de ato (art. 67.º CPTA): [viável? — há discricionariedade?]",
+    "para": "- Margem de apreciação da câmara na decisão (art. 71.º, n.º 2, CPTA): [há valorações próprias da função administrativa? — descrever]",
+    "motivo": "A discricionariedade só condiciona o conteúdo da condenação, não a sua viabilidade.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=439A0071&nid=439&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "Petição inicial de ação administrativa especial de impugnação de indeferimento de licença de construção, com pedido de anulação e, se viável, de condenação à emissão da licença.",
+    "para": "Petição inicial de ação administrativa de condenação à prática do ato devido, na sequência do indeferimento de licença de construção, com pedido de condenação ao deferimento da licença e, subsidiariamente, à prática de novo ato segundo as vinculações fixadas pelo tribunal.",
+    "motivo": "Forma de processo e pedido do CPTA em vigor.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=439A0066&nid=439&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Verificar se o prazo de deliberação do art. 23.º, n.º 1, RJUE (fixado «sob pena de deferimento tácito») já tinha decorrido quando foi proferido o indeferimento expresso: pode haver deferimento tácito, o que muda a estratégia [■ VERIFICAR: contagem do prazo e efeitos no caso concreto].",
+   "Se houve reclamação ou recurso administrativo, o art. 114.º, n.º 3, RJUE (redação do DL n.º 108/2026) considera deferida a impugnação não decidida em 30 dias: confirmar o alcance desse deferimento.",
+   "Confirmar o tribunal administrativo com jurisdição sobre o concelho onde se situa o imóvel e o juízo competente (art. 9.º do ETAF).",
+   "Procedimentos iniciados antes de 1/10/2026: confirmar a redação do RJUE aplicável ao indeferimento (art. 12.º do DL n.º 108/2026).",
+   "Jurisprudência do STA e dos TCA sobre licenciamento: confirmar em dgsi.pt."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=439A0017&nid=439&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=439A0037&nid=439&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=439A0051&nid=439&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=439A0058&nid=439&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=439A0059&nid=439&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=439A0066&nid=439&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=439A0067&nid=439&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=439A0069&nid=439&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=439A0071&nid=439&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2248A0185&nid=2248&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=625&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=625A0114&nid=625&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=4024&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=418A0009&nid=418&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+  ]
+ }
+]

@@ -1,0 +1,253 @@
+[
+ {
+  "codigo": "DIG-018",
+  "veredicto": "corrigida",
+  "resumo": "A ficha remetia o procedimento de reclamação para os «arts. 63.º e seguintes da Lei n.º 58/2019», que só alteram e republicam a Lei n.º 43/2004; a apresentação das queixas rege-se pelo art. 17.º da Lei n.º 43/2004 (formulário no sítio da CNPD; correio só excecionalmente). Corrigiram-se a morada da CNPD (Av. D. Carlos I, 134, 1.º), o canal de apresentação e o «prazo» (o RGPD não fixa prazo; releva a prescrição do art. 40.º da Lei n.º 58/2019, não o art. 27.º do RGCO). Alargou-se a referência às transferências internacionais aos arts. 44.º-49.º RGPD.",
+  "substituicoes": [
+   {
+    "de": "Rua de São Bento, 148-3.º, 1200-821 Lisboa",
+    "para": "Av. D. Carlos I, 134, 1.º, 1200-651 Lisboa",
+    "motivo": "Morada desatualizada; a sede atual da CNPD é na Av. D. Carlos I.",
+    "fonte": "https://www.cnpd.pt/"
+   },
+   {
+    "de": "[Ou através do formulário de reclamação em www.cnpd.pt]",
+    "para": "[Por regra, através do formulário de queixa no sítio da CNPD (www.cnpd.pt, «Apresentar queixa»); por correio eletrónico ou postal só excecionalmente e com fundamentação — art. 17.º, n.º 1, da Lei n.º 43/2004, de 18 de agosto, republicada pela Lei n.º 58/2019]",
+    "motivo": "As queixas apresentam-se, por regra, no local próprio do sítio da CNPD; o correio postal é excecional e tem de ser fundamentado.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3118&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Lei n.º 58/2019, arts. 63.º ss.: procedimento de reclamação e competência territorial da CNPD",
+    "para": "- Lei n.º 43/2004, de 18 de agosto (organização e funcionamento da CNPD, republicada pela Lei n.º 58/2019), arts. 17.º e 18.º: apresentação das queixas e participações e formalidades; a CNPD é a autoridade de controlo nacional (art. 3.º da Lei n.º 58/2019); nos tratamentos transfronteiriços, arts. 55.º e 56.º RGPD (autoridade de controlo principal)",
+    "motivo": "Os arts. 63.º ss. da Lei n.º 58/2019 alteram e republicam a Lei n.º 43/2004; não regulam a reclamação.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3118&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Prazo: [■ VERIFICAR legislação nacional aplicável — RGCO art. 27.º?]",
+    "para": "- Prazo: o RGPD não fixa prazo para apresentar a reclamação, mas o procedimento por contraordenação prescreve em três anos (contraordenação muito grave) ou dois anos (grave) sobre a prática da infração (art. 40.º da Lei n.º 58/2019); convém reclamar sem demora",
+    "motivo": "A prescrição do procedimento consta de norma própria da Lei n.º 58/2019; o RGCO só se aplica subsidiariamente (art. 45.º).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3118&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "Nos termos do artigo 77.º do RGPD e dos artigos 63.º e seguintes da Lei n.º 58/2019",
+    "para": "Nos termos do artigo 77.º do RGPD e do artigo 17.º da Lei n.º 43/2004, de 18 de agosto, republicada pela Lei n.º 58/2019, de 8 de agosto",
+    "motivo": "Base legal errada: os arts. 63.º ss. da Lei n.º 58/2019 não regulam a reclamação.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3118&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "— Transferência ilegal para país terceiro: art. 46.º RGPD",
+    "para": "— Transferência ilegal para país terceiro: arts. 44.º-49.º RGPD (princípio geral no art. 44.º; garantias adequadas no art. 46.º)",
+    "motivo": "A transferência pode ser ilícita à luz de qualquer dos fundamentos do capítulo V, não só do art. 46.º.",
+    "fonte": "https://publications.europa.eu/resource/celex/32016R0679"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar se a Lei n.º 43/2004 sofreu alterações depois da republicação pela Lei n.º 58/2019 (o texto consultado é o republicado em 2019).",
+   "Confirmar no sítio da CNPD qual dos formulários (geral, spam, videovigilância, dados biométricos) se aplica ao caso.",
+   "Em tratamentos transfronteiriços (responsável estabelecido noutro Estado-Membro), a CNPD recebe a queixa mas a instrução pode caber à autoridade de controlo principal (arts. 56.º e 60.º RGPD).",
+   "A CNPD não fixa indemnizações: o dano do titular pede-se em tribunal (art. 82.º RGPD e art. 33.º da Lei n.º 58/2019)."
+  ],
+  "fontes": [
+   "https://www.cnpd.pt/",
+   "https://www.cnpd.pt/cidadaos/participacoes/",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3118&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://publications.europa.eu/resource/celex/32016R0679",
+   "https://diariodarepublica.pt/dr/detalhe/lei/43-2004-480712"
+  ]
+ },
+ {
+  "codigo": "DIG-024",
+  "veredicto": "corrigida",
+  "resumo": "A ficha fundava a proibição de câmaras em vestiários e instalações sanitárias no art. 20.º, n.º 1, CT (que proíbe o controlo do desempenho) e no art. 28.º da Lei n.º 34/2013 (que trata de uniformes); a norma é o art. 19.º da Lei n.º 58/2019. Retirou-se a «Deliberação CNPD n.º 7/2014», que não se encontrou, e remeteu-se o aviso para o art. 31.º, n.os 5 e 6, da Lei n.º 34/2013. Corrigiram-se ainda a «autorização da PSP» (é um registo na Direção Nacional da PSP), a «autorização da comissão de trabalhadores» (emite parecer), o prazo de conservação (30 dias, sem exceção por mera fundamentação) e os casos de AIPD (art. 35.º, n.º 3, al. c), RGPD e lista da CNPD).",
+  "substituicoes": [
+   {
+    "de": "- Proibição de videovigilância em locais especialmente sensíveis (vestiários, casas de banho, refeitórios — art. 20.º, n.º 1 do Código do Trabalho; art. 28.º da Lei 34/2013)",
+    "para": "- Proibição de as câmaras incidirem sobre: vias públicas e propriedades limítrofes (salvo o estritamente necessário para cobrir os acessos ao imóvel), a zona de digitação de códigos de terminais de pagamento, as áreas reservadas a clientes onde deva ser respeitada a privacidade (instalações sanitárias, zonas de espera, provadores) e as áreas reservadas aos trabalhadores (refeitórios, vestiários, ginásios, instalações sanitárias, zonas de descanso) — art. 19.º, n.º 2, da Lei n.º 58/2019; em estabelecimentos de ensino, só perímetros externos, acessos e espaços com bens que requeiram especial proteção (n.º 3); captação de som proibida, salvo com as instalações encerradas ou com autorização prévia da CNPD (n.º 4). O art. 20.º, n.º 1, do Código do Trabalho proíbe, por seu lado, a vigilância a distância para controlar o desempenho profissional",
+    "motivo": "A proibição dos locais sensíveis está no art. 19.º da Lei n.º 58/2019; o art. 20.º, n.º 1, CT trata do controlo do desempenho e o art. 28.º da Lei 34/2013 de uniformes.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3118&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Obrigação de afixação de sinalética (art. 13.º RGPD + Deliberação CNPD 7/2014)",
+    "para": "- Obrigação de afixação de aviso de videovigilância (art. 13.º RGPD; art. 31.º, n.os 5 e 6, da Lei 34/2013 e art. 115.º e anexo VIII da portaria regulamentar [■ VERIFICAR: Portaria n.º 273/2013, de 20 de agosto, na redação em vigor]; no contexto laboral, também art. 20.º, n.º 3, CT)",
+    "motivo": "Não se encontrou a «Deliberação CNPD 7/2014»; a CNPD remete o aviso para o art. 31.º, n.os 5 e 6, da Lei 34/2013 e para a portaria regulamentar.",
+    "fonte": "https://www.cnpd.pt/organizacoes/areas-tematicas/videovigilancia/"
+   },
+   {
+    "de": "- Prazo máximo de conservação: 30 dias (regra geral — art. 31.º, n.º 2 da Lei 34/2013); exceções com fundamentação",
+    "para": "- Prazo máximo de conservação: 30 dias a contar da captação, com destruição nas 48 horas seguintes (art. 31.º, n.º 2 da Lei 34/2013); prazo superior só se imposto por legislação setorial ou para processo penal em curso",
+    "motivo": "O prazo de 30 dias não admite prorrogação por mera fundamentação do responsável.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1924&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Obrigação de autorização da PSP para sistemas de segurança privada (Lei 34/2013)",
+    "para": "- Registo obrigatório na Direção Nacional da PSP dos sistemas de videovigilância das entidades titulares de alvará ou de licença de segurança privada (art. 31.º, n.º 1, da Lei 34/2013) — é um registo, não uma autorização do sistema",
+    "motivo": "A Lei 34/2013 exige registo do sistema na Direção Nacional da PSP, não autorização.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1924&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- AIPD obrigatória para videovigilância sistemática de espaços públicos ou de trabalhadores (Diretriz CNPD)",
+    "para": "- AIPD obrigatória no controlo sistemático de zonas acessíveis ao público em grande escala (art. 35.º, n.º 3, al. c), RGPD) e nos casos da lista da CNPD (Regulamento n.º 1/2018, publicado como Regulamento n.º 798/2018 — p. ex., n.º 5: rastreio de comportamentos de trabalhadores, clientes ou transeuntes com efeito de avaliação ou classificação)",
+    "motivo": "O RGPD exige «grande escala»; a lista da CNPD é um regulamento publicado, não uma diretriz.",
+    "fonte": "https://diariodarepublica.pt/redirect/LinkFicheiroAntigo.aspx?conteudoId=117182365"
+   },
+   {
+    "de": "- Lei n.º 58/2019, de 8 de agosto\n- Lei n.º 34/2013, de 16 de maio (segurança privada)\n- Deliberação CNPD n.º 7/2014",
+    "para": "- Lei n.º 58/2019, de 8 de agosto (em especial art. 19.º — videovigilância — e art. 28.º — relações laborais)\n- Lei n.º 34/2013, de 16 de maio (segurança privada), em especial art. 31.º\n- Regulamento da CNPD n.º 1/2018 (Regulamento n.º 798/2018 — lista de tratamentos sujeitos a AIPD)",
+    "motivo": "Retira-se a deliberação não encontrada e indicam-se as normas aplicáveis.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3118&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "[■ VERIFICAR: se a finalidade é controlo de trabalhadores, analisar art. 20.º CT — pode exigir autorização da comissão de trabalhadores]",
+    "para": "[■ VERIFICAR: se a finalidade é controlar o desempenho profissional dos trabalhadores, o art. 20.º, n.º 1, CT proíbe-o; a vigilância só é lícita para proteção e segurança de pessoas e bens ou por exigências particulares da atividade (n.º 2). A comissão de trabalhadores emite parecer, não autoriza (art. 21.º, n.º 4, CT); a autorização prévia da CNPD do art. 21.º, n.º 1, CT é tida pela CNPD como incompatível com o RGPD]",
+    "motivo": "A comissão de trabalhadores não autoriza: dá parecer; e o controlo do desempenho é proibido.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0021&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "excede o limite legal — fundamentar exceção",
+    "para": "excede o limite legal — só admissível se imposto por legislação setorial ou para processo penal em curso",
+    "motivo": "O prazo de 30 dias não cede perante mera fundamentação do responsável.",
+    "fonte": "https://www.cnpd.pt/organizacoes/areas-tematicas/videovigilancia/"
+   },
+   {
+    "de": "- [ ] Prazo de conservação dentro de 30 dias ou exceção fundamentada",
+    "para": "- [ ] Prazo de conservação dentro de 30 dias, com destruição nas 48 horas seguintes (salvo prazo superior imposto por legislação setorial ou processo penal)",
+    "motivo": "Coerência com o art. 31.º, n.º 2, da Lei 34/2013.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1924&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- [ ] Sinalética de aviso adequada e visível afixada (art. 13.º RGPD + Deliberação CNPD 7/2014)",
+    "para": "- [ ] Aviso de videovigilância adequado e visível afixado (art. 13.º RGPD; art. 31.º, n.os 5 e 6, da Lei 34/2013)",
+    "motivo": "Deliberação não encontrada; o aviso rege-se pela Lei 34/2013.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1924&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- [ ] Autorização PSP obtida se sistema de segurança privada (Lei 34/2013)",
+    "para": "- [ ] Registo na Direção Nacional da PSP, se o sistema for de entidade com alvará ou licença de segurança privada (art. 31.º, n.º 1, da Lei 34/2013)",
+    "motivo": "É um registo, não uma autorização.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1924&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Tem autorização PSP (Lei 34/2013)? [sim/não — n.º se tiver]",
+    "para": "- Sistema registado na Direção Nacional da PSP (art. 31.º, n.º 1, da Lei 34/2013)? [sim/não — n.º se tiver]",
+    "motivo": "É um registo, não uma autorização.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1924&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar o número e a redação em vigor da portaria regulamentar da Lei 34/2013 que fixa o modelo do aviso (art. 115.º e anexo VIII).",
+   "No contexto laboral, as imagens só podem ser usadas em processo penal e, na mesma medida, para apurar responsabilidade disciplinar (art. 28.º, n.os 4 e 5, da Lei n.º 58/2019).",
+   "O art. 21.º, n.º 1, CT continua a prever autorização da CNPD; a CNPD considera-a incompatível com o RGPD e não a exige, mas a questão não é pacífica na doutrina.",
+   "Confirmar se as Orientações 3/2019 do CEPD (versão 2.0) continuam a ser a versão mais recente."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3118&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1924&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0020&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0021&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.cnpd.pt/organizacoes/areas-tematicas/videovigilancia/",
+   "https://diariodarepublica.pt/redirect/LinkFicheiroAntigo.aspx?conteudoId=117182365",
+   "https://publications.europa.eu/resource/celex/32016R0679",
+   "https://diariodarepublica.pt/dr/detalhe/portaria/273-2013-499243"
+  ]
+ },
+ {
+  "codigo": "DIG-033",
+  "veredicto": "corrigida",
+  "resumo": "O 9.º «critério WP248» (transferências para fora da UE) não existe: o WP248 rev.01 indica como 9.º critério o tratamento que impede o titular de exercer um direito ou de utilizar um serviço ou um contrato. A «lista CNPD» da ficha não correspondia ao Regulamento n.º 1/2018 da CNPD (publicado como Regulamento n.º 798/2018), que se transcreveu em síntese. Acrescentaram-se os casos de AIPD sempre obrigatória do art. 35.º, n.º 3 RGPD e a ressalva do WP248 sobre a regra dos dois critérios.",
+  "substituicoes": [
+   {
+    "de": "9. Transferência de dados para fora da UE com risco para titulares",
+    "para": "9. Tratamento que, por si só, impede os titulares de exercer um direito ou de utilizar um serviço ou um contrato (art. 22.º e considerando 91 RGPD)",
+    "motivo": "O 9.º critério do WP248 rev.01 é o impedimento do exercício de direitos ou do acesso a serviço ou contrato, não as transferências internacionais.",
+    "fonte": "https://ec.europa.eu/newsroom/article29/redirection/document/47711"
+   },
+   {
+    "de": "Verifica se o tratamento consta da lista de tipos publicada pela CNPD (art. 35.º, n.º 4 RGPD):\n- Tratamentos por entidades públicas a larga escala\n- Videovigilância em espaços públicos\n- Dados de localização em larga escala\n- Dados biométricos para identificação única\n- [outros constantes da lista vigente — [■ VERIFICAR lista atual CNPD]]",
+    "para": "Verifica, primeiro, se o tratamento cabe num dos casos em que o art. 35.º, n.º 3 RGPD impõe sempre a AIPD:\n- Avaliação sistemática e completa de aspetos pessoais, baseada em tratamento automatizado (incluindo a definição de perfis), que fundamente decisões com efeitos jurídicos ou que afetem significativamente o titular de forma similar\n- Tratamento em grande escala de categorias especiais de dados (art. 9.º, n.º 1 RGPD) ou de dados relativos a condenações penais e infrações (art. 10.º RGPD)\n- Controlo sistemático de zonas acessíveis ao público em grande escala\n\nVerifica depois se consta da lista da CNPD (Regulamento n.º 1/2018, publicado como Regulamento n.º 798/2018, Diário da República, 2.ª série, de 30 de novembro de 2018; art. 35.º, n.º 4 RGPD), que acresce àqueles casos:\n- Dados de saúde transmitidos por dispositivos eletrónicos através de redes de comunicação\n- Interconexão de dados do art. 9.º, n.º 1, ou do art. 10.º RGPD, ou de dados de natureza altamente pessoal\n- Tratamento desses dados recolhidos indiretamente, quando não seja possível ou exequível informar o titular (art. 14.º, n.º 5, al. b) RGPD)\n- Criação de perfis em grande escala\n- Rastreio da localização ou dos comportamentos dos titulares (p. ex., trabalhadores, clientes ou transeuntes) com efeito de avaliação ou classificação, salvo se indispensável ao serviço que eles próprios pediram\n- Tratamento desses dados para as finalidades do art. 89.º RGPD (interesse público, investigação científica ou histórica, fins estatísticos), salvo tratamentos previstos e regulados por lei com garantias adequadas\n- Dados biométricos para identificação inequívoca de pessoas vulneráveis, salvo tratamentos previstos e regulados por lei precedida de AIPD\n- Dados genéticos de pessoas vulneráveis, com a mesma ressalva\n- Tratamento desses dados com novas tecnologias ou nova utilização de tecnologias já existentes\n- [A lista não é exaustiva e é atualizável — [■ VERIFICAR se a CNPD publicou versão posterior]]",
+    "motivo": "Os itens indicados não constam da lista da CNPD (Regulamento n.º 798/2018), e faltavam os casos do art. 35.º, n.º 3 RGPD.",
+    "fonte": "https://diariodarepublica.pt/redirect/LinkFicheiroAntigo.aspx?conteudoId=117182365"
+   },
+   {
+    "de": "- **DPIA OBRIGATÓRIA** se: consta da lista CNPD OU dois ou mais critérios WP248 presentes",
+    "para": "- **DPIA OBRIGATÓRIA** se: cabe no art. 35.º, n.º 3 RGPD OU consta da lista CNPD OU dois ou mais critérios WP248 presentes (neste último caso, o WP248 admite que o responsável conclua pela inexistência de elevado risco, desde que justifique e documente as razões e registe a opinião do EPD)",
+    "motivo": "Faltavam os casos do art. 35.º, n.º 3 RGPD; a regra dos dois critérios é uma presunção do WP248.",
+    "fonte": "https://ec.europa.eu/newsroom/article29/redirection/document/47711"
+   },
+   {
+    "de": "- **DPIA DISPENSADA** se: nenhum critério presente e não consta da lista CNPD",
+    "para": "- **DPIA DISPENSADA** se: nenhum critério presente, não cabe no art. 35.º, n.º 3 RGPD e não consta da lista CNPD",
+    "motivo": "A dispensa exige também que o tratamento não caiba no art. 35.º, n.º 3 RGPD.",
+    "fonte": "https://publications.europa.eu/resource/celex/32016R0679"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar se a CNPD atualizou a lista do Regulamento n.º 1/2018 (a própria CNPD diz que é uma lista dinâmica).",
+   "O WP248 foi adotado pelo Grupo de Trabalho do Artigo 29.º e assumido pelo CEPD; a descrição da ficha atribui-o ao CEPD, o que é aceitável mas impreciso.",
+   "Se o tratamento usar um sistema de IA de risco elevado, articular a AIPD com a avaliação de impacto nos direitos fundamentais do AI Act (art. 27.º do Regulamento (UE) 2024/1689), quando aplicável."
+  ],
+  "fontes": [
+   "https://ec.europa.eu/newsroom/article29/redirection/document/47711",
+   "https://diariodarepublica.pt/redirect/LinkFicheiroAntigo.aspx?conteudoId=117182365",
+   "https://publications.europa.eu/resource/celex/32016R0679"
+  ]
+ },
+ {
+  "codigo": "DIG-040",
+  "veredicto": "corrigida",
+  "resumo": "A ficha atribuía aos prestadores de simples transporte e de caching os deveres dos arts. 16.º-18.º DSA (próprios do alojamento virtual), dava a todas as plataformas a opção sem perfilagem (só do art. 38.º, para VLOP/VLOSE), tratava a rastreabilidade do art. 30.º como dever de todas as plataformas (só dos marketplaces) e mandava «registar» a plataforma na ANACOM, registo que não existe. Corrigiu-se ainda a remissão da publicidade com categorias especiais (art. 26.º, n.º 3), acrescentou-se a dispensa das micro e pequenas empresas (arts. 15.º, n.º 2, 19.º e 29.º) e indicou-se a Lei n.º 12-A/2026, que designa a ANACOM como Coordenador dos Serviços Digitais.",
+  "substituicoes": [
+   {
+    "de": "- **Prestador de acesso à Internet / caching / alojamento simples (arts. 16.º-18.º DSA):** deveres mínimos",
+    "para": "- **Serviços intermediários de simples transporte (p. ex., acesso à Internet) e de armazenagem temporária («caching»):** isenções de responsabilidade dos arts. 4.º e 5.º DSA e só os deveres gerais dos arts. 11.º-15.º DSA (pontos de contacto, representante legal, termos e condições, relatórios de transparência)\n- **Serviços de alojamento virtual** (art. 6.º DSA): acrescem os arts. 16.º-18.º DSA (notificação e ação, exposição de motivos, notificação de suspeitas de crime)",
+    "motivo": "Os arts. 16.º-18.º DSA aplicam-se aos prestadores de alojamento virtual, não aos de simples transporte ou caching.",
+    "fonte": "https://publications.europa.eu/resource/celex/32022R2065"
+   },
+   {
+    "de": "+45M utilizadores mensais ativos na UE → sujeita a Secção 5 DSA",
+    "para": "número médio mensal de destinatários ativos na UE igual ou superior a 45 milhões e designação pela Comissão (art. 33.º DSA) → sujeita a Secção 5 DSA",
+    "motivo": "A Secção 5 só se aplica após a designação pela Comissão.",
+    "fonte": "https://publications.europa.eu/resource/celex/32022R2065"
+   },
+   {
+    "de": "Avalia conformidade (CONFORME / NÃO CONFORME / PARCIAL):",
+    "para": "Avalia conformidade (CONFORME / NÃO CONFORME / PARCIAL). As micro e pequenas empresas (Recomendação 2003/361/CE) que não sejam VLOP estão dispensadas das obrigações próprias das plataformas (arts. 20.º-28.º DSA, salvo o art. 24.º, n.º 3 — art. 19.º DSA), da rastreabilidade dos comerciantes (arts. 30.º-32.º — art. 29.º DSA) e do relatório do art. 15.º, n.º 1 (art. 15.º, n.º 2 DSA):",
+    "motivo": "A ficha omitia a dispensa das micro e pequenas empresas.",
+    "fonte": "https://publications.europa.eu/resource/celex/32022R2065"
+   },
+   {
+    "de": "2. **Contas de vendedores/profissionais** (art. 30.º DSA): verificação de identidade (\"know your business customer\") + base de dados acessível",
+    "para": "2. **Rastreabilidade dos comerciantes** (art. 30.º DSA — só nas plataformas que permitem aos consumidores celebrar contratos à distância com comerciantes, como os marketplaces): obtenção dos dados de identificação do comerciante e verificação da sua fiabilidade, com todos os esforços, através de bases de dados oficiais em linha ou de documentos comprovativos (\"know your business customer\") + disponibilização aos destinatários, na interface onde o produto ou serviço é apresentado, do nome e contactos, do registo comercial e da autocertificação do comerciante (art. 30.º, n.º 7)",
+    "motivo": "O art. 30.º só se aplica às plataformas que permitem contratos à distância entre consumidores e comerciantes, e o dever é de disponibilizar a informação na interface.",
+    "fonte": "https://publications.europa.eu/resource/celex/32022R2065"
+   },
+   {
+    "de": "7. **Proibição de publicidade direcionada a menores** (art. 28.º, n.º 2 DSA): e com base em categorias especiais RGPD",
+    "para": "7. **Proibição de publicidade baseada na definição de perfis** dirigida a quem se saiba, com certeza razoável, ser menor (art. 28.º, n.º 2 DSA) e com base em categorias especiais de dados do art. 9.º, n.º 1 RGPD (art. 26.º, n.º 3 DSA)",
+    "motivo": "A proibição com categorias especiais está no art. 26.º, n.º 3 DSA; a do art. 28.º, n.º 2 é da publicidade baseada em perfis.",
+    "fonte": "https://publications.europa.eu/resource/celex/32022R2065"
+   },
+   {
+    "de": "9. **Sistemas de recomendação** (art. 27.º DSA): explicação dos parâmetros + opção sem perfilagem",
+    "para": "9. **Sistemas de recomendação** (art. 27.º DSA): explicação, nos termos e condições, dos principais parâmetros e das opções para os alterar + funcionalidade para escolher a opção preferida, quando haja várias; a opção não baseada na definição de perfis só é obrigatória para VLOP/VLOSE (art. 38.º DSA)",
+    "motivo": "A opção sem perfilagem é do art. 38.º DSA e só vincula as VLOP/VLOSE.",
+    "fonte": "https://publications.europa.eu/resource/celex/32022R2065"
+   },
+   {
+    "de": "- Registo junto da ANACOM (coordenador português)",
+    "para": "- Coordenador dos Serviços Digitais em Portugal: a ANACOM (art. 5.º, n.º 1, da Lei n.º 12-A/2026, de 15 de abril, que revogou o Decreto-Lei n.º 20-B/2024); a ERC supervisiona os arts. 14.º, n.º 3, 26.º, n.os 1 e 2, e 28.º, n.º 1 DSA, e a CNPD os arts. 26.º, n.º 3, e 28.º, n.º 2 DSA (art. 5.º, n.os 5 e 6). O DSA não prevê registo das plataformas: o fornecedor comunica ao coordenador do estabelecimento, a pedido, o número médio mensal de destinatários ativos (art. 24.º, n.º 3 DSA) e, salvo se for micro ou pequena empresa, publica-o de seis em seis meses (n.º 2)",
+    "motivo": "Não há registo geral das plataformas na ANACOM; o regime nacional é o da Lei n.º 12-A/2026.",
+    "fonte": "https://files.diariodarepublica.pt/1s/2026/04/07301/0000200025.pdf"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar onde está o estabelecimento principal do prestador: a supervisão cabe ao coordenador desse Estado-Membro (art. 56.º DSA) e, para as VLOP/VLOSE, também à Comissão.",
+   "Na proteção de menores (art. 28.º, n.º 1 DSA), ter em conta as diretrizes da Comissão sobre o art. 28.º e as soluções de verificação de idade que recomendam.",
+   "Rever o regime sancionatório nacional da Lei n.º 12-A/2026 aplicável ao caso concreto."
+  ],
+  "fontes": [
+   "https://publications.europa.eu/resource/celex/32022R2065",
+   "https://files.diariodarepublica.pt/1s/2026/04/07301/0000200025.pdf",
+   "https://diariodarepublica.pt/dr/detalhe/lei/12-a-2026-1086140524"
+  ]
+ }
+]

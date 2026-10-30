@@ -1,0 +1,361 @@
+[
+ {
+  "codigo": "CIV-029",
+  "veredicto": "corrigida",
+  "resumo": "A ficha atribuía ao art. 228.º CC um «prazo razoável» supletivo que a lei não prevê: na falta de prazo, a proposta mantém-se pelo tempo das alíneas b) e c) do n.º 1. Também tratava a interpelação como meio de o proponente fixar livremente nova data, esquecendo que a proposta recebida é irrevogável, salvo declaração em contrário (art. 230.º, n.º 1, CC). Corrigiu-se a regra, acrescentou-se o limite (a data não pode ser anterior ao termo da proposta ainda em curso; se esse termo já passou, a interpelação vale como renovação da proposta) e ajustaram-se a análise, o modelo, a checklist e a recolha de dados.",
+  "substituicoes": [
+   {
+    "de": "— Art. 228.º CC: o prazo de aceitação é o fixado pelo proponente, ou, na sua falta, o prazo razoável face às circunstâncias (natureza do negócio, meio de comunicação).",
+    "para": "— Art. 228.º CC: o prazo de aceitação é o fixado pelo proponente ou convencionado pelas partes, e a proposta mantém-se até ele findar; sem prazo fixado, se o proponente pedir resposta imediata, mantém-se até que, em condições normais, a proposta e a aceitação cheguem ao destino; sem prazo nem pedido de resposta imediata, sendo feita a pessoa ausente ou, por escrito, a pessoa presente, mantém-se até cinco dias depois desse tempo.",
+    "motivo": "O art. 228.º, n.º 1, CC não prevê um «prazo razoável» supletivo: fixa a duração da proposta nas alíneas b) e c).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0228&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "— Interpelação: fixa um prazo para resposta expressa; sem resposta, a proposta caduca e o proponente fica livre.",
+    "para": "— Interpelação: fixa um prazo para resposta expressa; sem resposta, a proposta caduca e o proponente fica livre. Limite: depois de recebida pelo destinatário, a proposta é irrevogável, salvo declaração em contrário (art. 230.º, n.º 1, CC), pelo que a interpelação não pode encurtar o prazo de uma proposta ainda em curso — a data fixada não pode ser anterior ao termo que resulta do art. 228.º CC. Se esse termo já passou, a proposta já caducou e a interpelação vale como renovação da proposta, com novo prazo de aceitação.",
+    "motivo": "Durante o seu prazo a proposta é irrevogável (art. 230.º, n.º 1, CC); o proponente não pode antecipar unilateralmente a caducidade.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0230&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Prazo razoável a fixar: depende da natureza do negócio",
+    "para": "- Prazo a fixar: verificar se a proposta inicial fixou prazo de aceitação e se ele ainda está a correr (arts. 228.º e 230.º CC) — a nova data não pode ser anterior a esse termo; de resto, depende da natureza do negócio",
+    "motivo": "A data da interpelação depende do prazo da proposta inicial, que não pode ser encurtado.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0230&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "até ao dia [data = hoje + prazo razoável], comunicar expressamente:",
+    "para": "até ao dia [data — não anterior ao termo do prazo de aceitação da proposta, se ainda estiver a correr], comunicar expressamente:",
+    "motivo": "A data não pode antecipar o termo da proposta irrevogável (arts. 228.º e 230.º CC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0228&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Prazo de resposta fixado com data concreta",
+    "para": "- [ ] Prazo de resposta fixado com data concreta, não anterior ao termo do prazo da proposta ainda em curso (art. 230.º CC)",
+    "motivo": "Verificação do limite do art. 230.º, n.º 1, CC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0230&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Conteúdo resumido: [o que foi proposto]",
+    "para": "- Conteúdo resumido: [o que foi proposto]\n- Prazo de aceitação fixado na proposta: [data / nenhum / foi pedida resposta imediata]",
+    "motivo": "O dado é necessário para aplicar o art. 228.º, n.º 1, CC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0228&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar se a proposta inicial continha declaração que admitisse a revogação (art. 230.º, n.º 1, CC: «salvo declaração em contrário»); só então o proponente pode encurtar o prazo.",
+   "Se o prazo da proposta já terminou, a aceitação posterior não conclui o contrato; ponderar a receção tardia de aceitação expedida a tempo (art. 229.º CC).",
+   "O art. 229.º CC citado no modelo de carta trata da receção tardia; a caducidade da proposta decorre do art. 228.º CC (a correção do número já consta da revisão das citações)."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0228&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0230&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+  ]
+ },
+ {
+  "codigo": "CIV-036",
+  "veredicto": "corrigida",
+  "resumo": "A ficha deixava a forma em aberto e terminava com «reconhecimento notarial (se exigido para registo)», quando a constituição de servidão sobre imóveis só é válida por escritura pública ou documento particular autenticado com depósito eletrónico (arts. 22.º, alínea a), e 24.º, n.º 2, do DL n.º 116/2008); o n.º 1 do art. 80.º do Código do Notariado está revogado. Corrigiram-se ainda a extensão da servidão (art. 1565.º CC, não o 1546.º), os modos de constituição (art. 1547.º CC), as causas de extinção (art. 1569.º CC: a desnecessidade exige declaração judicial e só vale para servidões legais e por usucapião), a oponibilidade das servidões aparentes sem registo (art. 5.º, n.º 2, alínea b), do Código do Registo Predial) e o regime do registo obrigatório (arts. 8.º-A a 8.º-C).",
+  "substituicoes": [
+   {
+    "de": "- Intenção de registo predial",
+    "para": "- Registo predial (obrigatório: art. 8.º-A do Código do Registo Predial)",
+    "motivo": "A constituição de servidão está sujeita a registo obrigatório.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=488&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Art. 1547.º CC — modos de constituição: negócio jurídico (contrato), usucapião, destinação de pai de família, sentença judicial",
+    "para": "- Art. 1547.º CC — modos de constituição: contrato, testamento, usucapião ou destinação do pai de família; as servidões legais, na falta de constituição voluntária, por sentença judicial ou decisão administrativa",
+    "motivo": "Enumeração incompleta do art. 1547.º CC (faltavam o testamento e a decisão administrativa).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1547&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Art. 1569.º CC — extinção da servidão: não uso por 20 anos, confusão, desnecessidade",
+    "para": "- Art. 1569.º CC — extinção da servidão: reunião dos prédios no domínio da mesma pessoa, não uso durante 20 anos, usucapião da liberdade do prédio, renúncia, decurso do prazo; nas servidões constituídas por usucapião e nas servidões legais, qualquer que tenha sido o título, declaração judicial de extinção por desnecessidade, a requerimento do proprietário do prédio serviente (n.ºs 2 e 3)",
+    "motivo": "A desnecessidade não extingue a servidão por si: exige declaração judicial e só vale para as servidões dos n.ºs 2 e 3 do art. 1569.º CC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1569&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Arts. 2.º, 4.º e 5.º do Código do Registo Predial — necessidade de registo para eficácia perante terceiros\n- Arts. 80.º e ss. do Código do Notariado — escritura pública para constituição de direitos reais sobre imóveis [■ VERIFICAR se exigida]",
+    "para": "- Arts. 2.º, 4.º e 5.º do Código do Registo Predial — necessidade de registo para eficácia perante terceiros, exceto nas servidões aparentes (art. 5.º, n.º 2, alínea b)); registo obrigatório, a pedir pela entidade que celebra a escritura ou autentica o documento, no prazo de dois meses (arts. 8.º-A, 8.º-B e 8.º-C do Código do Registo Predial)\n- Art. 22.º, alínea a), do Decreto-Lei n.º 116/2008, de 4 de julho — a constituição de servidão sobre imóveis só é válida por escritura pública ou documento particular autenticado (o n.º 1 do art. 80.º do Código do Notariado está revogado); a autenticação só é válida com o depósito eletrónico do documento (art. 24.º, n.º 2, do mesmo diploma); a falta de forma gera nulidade (art. 220.º CC)",
+    "motivo": "O n.º 1 do art. 80.º do Código do Notariado foi revogado; a forma consta do art. 22.º do DL n.º 116/2008. As servidões aparentes são oponíveis a terceiros sem registo.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=997A0022&nid=997&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "A servidão aproveita a todas as instalações e estruturas eventualmente existentes ou futuras no prédio dominante, nos termos do art. 1546.º CC. [■ VERIFICAR se há ampliações previstas].",
+    "para": "A servidão compreende tudo o que é necessário para o seu uso e conservação (art. 1565.º, n.º 1, CC) e aproveita a [todo o prédio dominante, incluindo as construções existentes e futuras / indicar]. Em caso de dúvida quanto à extensão ou ao modo de exercício, entende-se constituída por forma a satisfazer as necessidades normais e previsíveis do prédio dominante com o menor prejuízo para o prédio serviente (art. 1565.º, n.º 2, CC). [■ VERIFICAR se há ampliações previstas].",
+    "motivo": "O art. 1546.º CC trata da indivisibilidade das servidões; a extensão da servidão consta do art. 1565.º CC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1565&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "O presente acordo será levado ao Registo Predial nas descrições de ambos os prédios, a expensas do 2.º Outorgante, no prazo de [30] dias após a assinatura. Até ao registo, a servidão produz efeitos entre as partes mas não é oponível a terceiros.",
+    "para": "O presente acordo será levado ao Registo Predial nas descrições de ambos os prédios, a expensas do 2.º Outorgante, devendo o registo ser pedido pela entidade que celebrar a escritura ou autenticar o documento, no prazo de dois meses a contar da titulação (arts. 8.º-B, n.º 1, e 8.º-C, n.º 1, do Código do Registo Predial). Até ao registo, a servidão produz efeitos entre as partes (art. 4.º, n.º 1, do Código do Registo Predial), mas só é oponível a terceiros depois de registada, salvo se for aparente, isto é, se se revelar por sinais visíveis e permanentes (art. 5.º, n.º 2, alínea b), do Código do Registo Predial; art. 1548.º, n.º 2, CC).",
+    "motivo": "O registo é obrigatório e cabe à entidade tituladora, em dois meses; as servidões aparentes são oponíveis a terceiros sem registo.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=488&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "designadamente: não uso por 20 anos; cessação do encrave por nova via pública ou outro acesso direto; acordo escrito das partes.",
+    "para": "designadamente: reunião dos dois prédios no domínio da mesma pessoa; não uso durante 20 anos; renúncia do proprietário do prédio dominante, por escritura pública ou documento particular autenticado (art. 22.º, alínea a), do Decreto-Lei n.º 116/2008); decurso do prazo, se tiver sido constituída temporariamente. Tratando-se de servidão legal de passagem (prédio encravado), a cessação do encrave não a extingue automaticamente: o proprietário do prédio serviente pode pedir que seja judicialmente declarada extinta por desnecessidade, sendo a indemnização recebida restituída, no todo ou em parte, conforme as circunstâncias (art. 1569.º, n.ºs 2 e 3, CC).",
+    "motivo": "A cessação do encrave não é causa automática de extinção; a extinção por acordo exige a forma legal.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1569&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "Data, local, assinaturas dos outorgantes e reconhecimento notarial (se exigido para registo).",
+    "para": "Data, local e assinaturas dos outorgantes. Forma obrigatória: escritura pública ou documento particular autenticado, com termo de autenticação e depósito eletrónico (arts. 22.º, alínea a), e 24.º, n.º 2, do Decreto-Lei n.º 116/2008); o simples reconhecimento das assinaturas não basta e a falta de forma gera nulidade (art. 220.º CC).",
+    "motivo": "Um documento só com assinaturas reconhecidas não cumpre a forma legal; o acordo seria nulo.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=997A0024&nid=997&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Forma do acordo compatível com registo predial [■ VERIFICAR se exige escritura pública]",
+    "para": "- [ ] Forma do acordo: escritura pública ou documento particular autenticado com depósito eletrónico (arts. 22.º, alínea a), e 24.º, n.º 2, do Decreto-Lei n.º 116/2008)",
+    "motivo": "A forma está fixada na lei; não fica por verificar.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=997A0022&nid=997&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar se o prédio dominante é efetivamente encravado (art. 1550.º CC): disso depende a aplicação do n.º 3 do art. 1569.º CC (extinção judicial por desnecessidade) a uma servidão constituída por contrato.",
+   "Confirmar com a conservatória a prática de inscrição e anotação nas descrições dos dois prédios.",
+   "A Cláusula 5.ª remete para o art. 1564.º CC; o encargo das obras está no art. 1567.º CC (a correção do número já consta da revisão das citações); o regime supletivo põe as obras a cargo do proprietário do prédio dominante, salvo convenção.",
+   "A cláusula de horário tem «— VERIFICAR» sem o marcador da casa; rever na redação final."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1546&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1547&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1548&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1565&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1567&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1569&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=997A0022&nid=997&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=997A0024&nid=997&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=457A0080&nid=457&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=488&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=488A0004&nid=488&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=488A0005&nid=488&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://portal.oa.pt/media/119959/simpl-actos-reg-predial-e-conexos-dl-116-2008.pdf"
+  ]
+ },
+ {
+  "codigo": "CIV-037",
+  "veredicto": "corrigida",
+  "resumo": "A checklist trocava prazos e artigos em pontos determinantes para o contencioso: a garantia na compra e venda (art. 917.º CC não fixa «1 ano para móveis»; a denúncia é do art. 916.º CC), a empreitada (o art. 1225.º CC não tem «2 anos para móveis»; os prazos gerais são dos arts. 1220.º e 1224.º CC), e a prescrição de 2 anos do preço (é presuntiva e consta do art. 317.º CC, não do 310.º). Corrigiram-se também a qualificação do DL n.º 446/85, a forma da compra e venda de imóveis (também documento particular autenticado), o termo inicial do prazo de anulação (art. 287.º CC), a fraude à lei (art. 294.º CC, não 284.º), o art. 564.º CC, o efeito da convenção de arbitragem (art. 5.º LAV), a ideia de «condenação em honorários» (há só compensação tabelada nas custas de parte), um registo inexistente («RORN») e alguns termos do Brasil.",
+  "substituicoes": [
+   {
+    "de": "- Régua de validade formal: arts. 217.º a 221.º CC (forma dos negócios jurídicos)",
+    "para": "- Régua de validade formal: arts. 219.º a 223.º CC (forma dos negócios jurídicos)",
+    "motivo": "Os arts. 217.º e 218.º CC tratam da declaração tácita e do silêncio; a forma está nos arts. 219.º a 223.º CC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0219&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Prescrição ordinária: art. 309.º CC (20 anos); prescrições especiais: arts. 310.º a 326.º CC",
+    "para": "- Prescrição ordinária: art. 309.º CC (20 anos); prescrições especiais: arts. 310.º a 317.º CC (presuntivas: arts. 316.º e 317.º CC); suspensão e interrupção: arts. 318.º a 327.º CC",
+    "motivo": "Os arts. 318.º a 327.º CC regulam a suspensão e a interrupção, não prescrições especiais.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0317&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Forma legalmente exigida cumprida? (ex: imóveis — escritura pública; art. 875.º CC)",
+    "para": "- [ ] Forma legalmente exigida cumprida? (ex: compra e venda de imóveis — escritura pública ou documento particular autenticado; art. 875.º CC)",
+    "motivo": "O art. 875.º CC admite também o documento particular autenticado.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0875&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Fundamento (causa): sem simulação nem negócio em fraude à lei? (arts. 240.º e 284.º CC)",
+    "para": "- [ ] Fundamento (causa): sem simulação nem negócio em fraude à lei? (simulação: art. 240.º CC; fraude à lei: art. 294.º CC)",
+    "motivo": "O art. 284.º CC trata da usura criminosa; o negócio em fraude à lei é nulo por contrariar norma imperativa (art. 294.º CC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0294&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Prazo de caducidade para anulação por vício da vontade já decorrido? (art. 287.º CC — 1 ano)\n  [■ VERIFICAR: data em que o vício foi ou podia ter sido conhecido]",
+    "para": "- [ ] Prazo de caducidade para anulação por vício da vontade já decorrido? (art. 287.º CC — 1 ano a contar da cessação do vício; enquanto o negócio não estiver cumprido, a anulabilidade pode ser arguida sem dependência de prazo, por ação ou por exceção — n.º 2)\n  [■ VERIFICAR: data da cessação do vício e se o negócio já foi cumprido]",
+    "motivo": "O prazo conta-se da cessação do vício, não da cognoscibilidade; faltava a regra do n.º 2 do art. 287.º CC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0287&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Cláusulas abusivas em contratos de adesão? (Lei n.º 446/85 — LCCG)",
+    "para": "- [ ] Cláusulas abusivas em contratos de adesão? (Decreto-Lei n.º 446/85 — LCCG)",
+    "motivo": "O regime das cláusulas contratuais gerais é um decreto-lei.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=837&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- [ ] Mora ou incumprimento definitivo? (art. 808.º CC — prazo razoável ou declaração de perda de interesse)",
+    "para": "- [ ] Mora ou incumprimento definitivo? (art. 808.º CC — prazo razoavelmente fixado pelo credor ou perda do interesse na prestação, apreciada objetivamente)",
+    "motivo": "A perda do interesse é apreciada objetivamente (art. 808.º, n.º 2, CC); não basta uma declaração do credor.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0808&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Quantificação dos danos: danos emergentes, lucros cessantes, danos não patrimoniais (arts. 563.º e 496.º CC)",
+    "para": "- [ ] Quantificação dos danos: danos emergentes, lucros cessantes, danos não patrimoniais (arts. 564.º e 496.º CC)",
+    "motivo": "Danos emergentes e lucros cessantes constam do art. 564.º CC; o art. 563.º CC trata do nexo de causalidade.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0564&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Prazo de garantia de vícios: art. 917.º CC (1 ano p/ bens móveis); DL n.º 84/2021 (bens de consumo)?",
+    "para": "- [ ] Prazos dos vícios na compra e venda: denúncia até 30 dias depois de conhecido o defeito e dentro de 6 meses após a entrega (imóveis: 1 ano e 5 anos) — art. 916.º CC; ação: 6 meses após a denúncia — art. 917.º CC; bens de consumo: DL n.º 84/2021 (móveis: 3 anos a contar da entrega; imóveis: 10 anos para faltas de conformidade em elementos construtivos estruturais e 5 anos para as restantes)?",
+    "motivo": "O art. 917.º CC não fixa «1 ano para móveis»: a denúncia segue o art. 916.º CC e a ação caduca 6 meses após a denúncia; prazos do DL n.º 84/2021 nos arts. 12.º e 23.º.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0916&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Prazo de garantia de empreitada: art. 1225.º CC (5 anos p/ imóveis, 2 anos p/ móveis)?",
+    "para": "- [ ] Prazos dos defeitos na empreitada: denúncia nos 30 dias seguintes ao descobrimento (art. 1220.º CC); exercício dos direitos no prazo de 1 ano a contar da recusa da aceitação ou da aceitação com reserva, ou da denúncia se os defeitos eram desconhecidos, nunca depois de 2 anos sobre a entrega (art. 1224.º CC); imóveis destinados a longa duração: 5 anos a contar da entrega (ou o prazo de garantia convencionado), denúncia no prazo de 1 ano e indemnização pedida no ano seguinte à denúncia (art. 1225.º CC)?",
+    "motivo": "O art. 1225.º CC só abrange imóveis destinados a longa duração; o limite de 2 anos é o do art. 1224.º, n.º 2, CC, para qualquer obra.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1224&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Prescrição do direito ao preço: art. 310.º CC (2 anos — comerciantes e profissionais liberais)?",
+    "para": "- [ ] Prescrição presuntiva do direito ao preço: art. 317.º, alíneas b) e c), CC (2 anos — créditos de comerciantes por vendas a quem não seja comerciante ou não destine os bens ao seu comércio, e de profissionais liberais); funda-se na presunção de cumprimento, só ilidível por confissão do devedor (arts. 312.º a 314.º CC)?",
+    "motivo": "O art. 310.º CC fixa prescrições de cinco anos; a de dois anos é a presuntiva do art. 317.º CC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0317&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Relatórios periciais ou laudos técnicos (vícios, defeitos, avaliações)?",
+    "para": "- [ ] Relatórios periciais ou pareceres técnicos (vícios, defeitos, avaliações)?",
+    "motivo": "«Laudo» é termo do Brasil; em PT-PT, parecer técnico.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0426&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Registo predial, registo comercial, registo de garantias (RORN): certidões atualizadas?",
+    "para": "- [ ] Registo predial, registo comercial, registo automóvel e outros registos das garantias: certidões atualizadas? [■ VERIFICAR: registo próprio de cada garantia]",
+    "motivo": "Não se encontrou nenhum registo português com a sigla «RORN».",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=488&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "  - Providência cautelar urgente (arresto, providência cautelar inominada) — dissipação de ativo?",
+    "para": "  - Providência cautelar urgente (arresto — art. 391.º CPC; procedimento cautelar comum — art. 362.º CPC) — dissipação de ativo?",
+    "motivo": "«Cautelar inominada» é designação do Brasil; o CPC prevê o procedimento cautelar comum (providências não especificadas).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0362&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Cláusula compromissória (arbitragem) no contrato? → obrigatória se válida (art. 5.º LAV)",
+    "para": "- [ ] Cláusula compromissória (arbitragem) no contrato? → se o réu a invocar até ao primeiro articulado sobre o fundo da causa, o tribunal estadual absolve-o da instância, salvo se a convenção for manifestamente nula, ineficaz ou inexequível (art. 5.º LAV)",
+    "motivo": "O efeito negativo da convenção depende de requerimento do réu no prazo do art. 5.º, n.º 1, LAV.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1579A0005&nid=1579&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Tribunal competente: material (valor e tipo) e territorial (art. 70.º e 80.º CPC)?",
+    "para": "- [ ] Tribunal competente: material (valor e tipo) e territorial (art. 70.º e 80.º CPC; cumprimento, indemnização por incumprimento e resolução do contrato: art. 71.º CPC)?",
+    "motivo": "A regra territorial própria das ações contratuais é o art. 71.º CPC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0071&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Condenação em honorários de advogado da parte vencida: art. 533.º CPC?",
+    "para": "- [ ] Custas de parte a cargo da parte vencida (art. 533.º CPC): incluem só uma compensação tabelada dos honorários do mandatário — 50 % do somatório das taxas de justiça pagas pelas partes (art. 26.º, n.º 3, alínea c), do Regulamento das Custas Processuais) —, não os honorários efetivos?",
+    "motivo": "Não há condenação nos honorários efetivos do advogado da parte vencedora: só a compensação tabelada das custas de parte.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=967A0026&nid=967&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Cláusula de limitação de responsabilidade que reduce a indemnização?",
+    "para": "- [ ] Cláusula de limitação de responsabilidade que reduz a indemnização? (é nula a renúncia antecipada do credor aos seus direitos — art. 809.º CC)",
+    "motivo": "Correção de linguagem («reduce») e indicação da regra aplicável.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0809&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "O art. 917.º CC refere-se à ação de anulação por simples erro; confirmar na jurisprudência atual a sua aplicação às restantes ações (reparação, substituição, redução do preço, indemnização).",
+   "Nas relações de consumo, confirmar os prazos de denúncia e de exercício de direitos do DL n.º 84/2021 aplicáveis ao caso.",
+   "Confirmar a remissão do art. 724.º CPC para o art. 703.º CPC (títulos executivos), já tratada na revisão das citações.",
+   "A fraude à lei não tem preceito próprio no CC (fora do art. 21.º, sobre normas de conflitos); a remissão para o art. 294.º CC segue a doutrina e a jurisprudência dominantes."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0219&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0287&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0294&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0317&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0313&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0564&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0808&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0809&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0875&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0916&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0917&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1220&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1224&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1225&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0071&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0362&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0391&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0426&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0533&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=967A0026&nid=967&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1579A0005&nid=1579&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=3471A0012&nid=3471&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=3471A0023&nid=3471&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=837&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=488&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+  ]
+ },
+ {
+  "codigo": "CIV-050",
+  "veredicto": "corrigida",
+  "resumo": "A ficha apresentava os arts. 21.º e 22.º do DL n.º 446/85 como o catálogo geral, quando só se aplicam nas relações com consumidores finais (art. 20.º); nas relações entre empresários aplicam-se só os arts. 18.º e 19.º (art. 17.º), que valem também para consumidores. O exemplo de exclusão de responsabilidade estava no art. 21.º, al. b), quando pertence ao art. 18.º, al. c). Atribuía ainda ao art. 12.º a manutenção do contrato, que resulta da opção do aderente (art. 13.º) ou da redução (art. 14.º). Acrescentaram-se a qualificação da relação, a cláusula geral da boa-fé (arts. 15.º e 16.º) e o art. 9.º, e atualizaram-se a descrição do índice, a análise, a checklist e a recolha de dados.",
+  "descricao": "Analisa sistematicamente as cláusulas de um contrato de adesão ao abrigo do Decreto-Lei n.º 446/85, de 25 de outubro (Regime das Cláusulas Contratuais Gerais — RCCG), identificando cláusulas absolutamente proibidas (art. 18.º e, nas relações com consumidores finais, art. 21.º) e relativamente proibidas (art. 19.º e, nas relações com consumidores finais, art. 22.º), e avaliando a conformidade com o dever de comunicação (art. 5.º) e informação (art. 6.º). Propõe a eliminação ou substituição das cláusulas nulas (art. 12.º RCCG) e indica se o contrato se mantém ou se reduz (arts. 13.º e 14.º RCCG).",
+  "descricao_en": "Systematically analyses the clauses of a standard-form contract (contrato de adesão) under Decree-Law No. 446/85 of 25 October (Standard Contract Terms Regime — RCCG), identifying absolutely prohibited clauses (Article 18 and, in dealings with final consumers, Article 21) and relatively prohibited clauses (Article 19 and, in dealings with final consumers, Article 22), and assessing compliance with the duty to communicate (Article 5) and to inform (Article 6). Proposes the removal or replacement of void clauses (Article 12 RCCG) and states whether the contract is maintained or reduced (Articles 13 and 14 RCCG).",
+  "substituicoes": [
+   {
+    "de": "— Distingue cláusulas absolutamente proibidas (art. 21.º RCCG) de relativamente proibidas (art. 22.º RCCG).",
+    "para": "— Distingue cláusulas absolutamente proibidas (art. 18.º RCCG, em todas as relações; acrescem as do art. 21.º RCCG nas relações com consumidores finais) de relativamente proibidas (art. 19.º RCCG, em todas as relações; acrescem as do art. 22.º RCCG nas relações com consumidores finais).\n— Qualifica primeiro a relação: entre empresários ou profissionais liberais, no âmbito da sua atividade, aplicam-se só os arts. 18.º e 19.º RCCG (art. 17.º RCCG); nas relações com consumidores finais e nas demais, também os arts. 21.º e 22.º RCCG (art. 20.º RCCG).",
+    "motivo": "Os arts. 21.º e 22.º só se aplicam nas relações com consumidores finais e nas não abrangidas pelo art. 17.º; os arts. 18.º e 19.º valem para todas.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=837&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "— Identifica o efeito da nulidade: cláusula eliminada, contrato mantido no resto (art. 12.º RCCG).",
+    "para": "— Identifica o efeito da nulidade: a cláusula proibida é nula (art. 12.º RCCG); o aderente pode optar pela manutenção do contrato, vigorando na parte afetada as normas supletivas (art. 13.º RCCG); se não o fizer, ou se a manutenção conduzir a desequilíbrio de prestações gravemente atentatório da boa-fé, vigora o regime da redução (art. 14.º RCCG).",
+    "motivo": "O art. 12.º só comina a nulidade; a subsistência do contrato depende da opção do aderente (art. 13.º) ou da redução (art. 14.º).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=837&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Posição do consulente: aderente (não negociou o contrato) ou predisponente (quer verificar conformidade)",
+    "para": "- Posição do consulente: aderente (não negociou o contrato) ou predisponente (quer verificar conformidade)\n- Natureza da relação: entre empresários ou profissionais liberais (arts. 17.º a 19.º RCCG) ou com consumidores finais (arts. 20.º a 22.º RCCG)",
+    "motivo": "A natureza da relação determina o catálogo de proibições aplicável.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=837&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Art. 8.º RCCG: cláusulas excluídas por incumprimento dos deveres de comunicação/informação",
+    "para": "- Art. 8.º RCCG: cláusulas excluídas por incumprimento dos deveres de comunicação/informação (o contrato mantém-se com as normas supletivas, salvo indeterminação insuprível ou desequilíbrio grave — art. 9.º RCCG)",
+    "motivo": "O efeito da exclusão no contrato consta do art. 9.º.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=837&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Art. 12.º RCCG: nulidade das cláusulas proibidas; contrato mantido sem elas\n- Arts. 21.º-22.º RCCG: cláusulas proibidas (absoluta e relativamente)",
+    "para": "- Art. 12.º RCCG: nulidade das cláusulas proibidas\n- Arts. 13.º e 14.º RCCG: manutenção do contrato por opção do aderente, com as normas supletivas na parte afetada; caso contrário, redução\n- Arts. 15.º e 16.º RCCG: proibição das cláusulas contrárias à boa-fé (princípio geral)\n- Arts. 17.º a 19.º RCCG: nas relações entre empresários ou profissionais liberais, cláusulas absolutamente (art. 18.º) e relativamente (art. 19.º) proibidas, que valem também nas relações com consumidores\n- Arts. 20.º a 22.º RCCG: nas relações com consumidores finais, acrescem as cláusulas absolutamente (art. 21.º) e relativamente (art. 22.º) proibidas",
+    "motivo": "Faltavam o regime das relações entre empresários, a cláusula geral da boa-fé e o regime de subsistência do contrato.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=837&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "**Fundamento:** [art. 21.º, al. ___ / art. 22.º, al. ___ RCCG]",
+    "para": "**Fundamento:** [art. 18.º, al. ___ / art. 19.º, al. ___ / art. 21.º, al. ___ / art. 22.º, al. ___ RCCG]",
+    "motivo": "Os arts. 18.º e 19.º aplicam-se em todas as relações.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=837&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "**Motivo:** [Explicação: ex.: «exclui ou limita de forma desproporcionada a responsabilidade do predisponente» — art. 21.º, al. b)]",
+    "para": "**Motivo:** [Explicação: ex.: «exclui ou limita a responsabilidade do predisponente por não cumprimento definitivo, mora ou cumprimento defeituoso, em caso de dolo ou de culpa grave» — art. 18.º, al. c)]",
+    "motivo": "O art. 21.º, al. b), trata da faculdade exclusiva de verificar a qualidade; a exclusão de responsabilidade consta do art. 18.º, als. a) a d).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=837&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "**Efeito:** Nula de pleno direito; eliminada do contrato (art. 12.º RCCG); demais cláusulas mantêm-se.",
+    "para": "**Efeito:** Nula (art. 12.º RCCG); o contrato mantém-se se o aderente o preferir, vigorando na parte afetada as normas supletivas (art. 13.º RCCG); caso contrário, ou havendo desequilíbrio de prestações gravemente atentatório da boa-fé, aplica-se a redução (art. 14.º RCCG).",
+    "motivo": "A subsistência do contrato rege-se pelos arts. 13.º e 14.º.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=837&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- [ ] Cláusulas absolutamente proibidas identificadas (art. 21.º)\n- [ ] Cláusulas relativamente proibidas identificadas (art. 22.º)\n- [ ] Efeito de nulidade e manutenção do contrato explicado (art. 12.º)",
+    "para": "- [ ] Relação qualificada: entre empresários (art. 17.º) ou com consumidores finais (art. 20.º)\n- [ ] Cláusulas absolutamente proibidas identificadas (art. 18.º e, com consumidores finais, art. 21.º)\n- [ ] Cláusulas relativamente proibidas identificadas (art. 19.º e, com consumidores finais, art. 22.º)\n- [ ] Efeito de nulidade e manutenção do contrato explicado (arts. 12.º a 14.º)",
+    "motivo": "Checklist alinhada com os arts. 13.º, 14.º e 17.º a 22.º.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=837&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Aderente/consulente (nome, NIF): [dados]",
+    "para": "- Aderente/consulente (nome, NIF; consumidor final ou empresário/profissional liberal): [dados]",
+    "motivo": "Dado necessário para escolher o catálogo de proibições.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=837&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "O art. 21.º, al. i), proíbe nas relações com consumidores as cláusulas redigidas com letra inferior a 11 ou a 2,5 mm e espaçamento inferior a 1,15; verificar a apresentação gráfica do contrato.",
+   "O DL n.º 446/85 prevê hoje contraordenações e um sistema administrativo de controlo e prevenção de cláusulas abusivas (arts. 34.º-A e seguintes); confirmar se interessam ao caso.",
+   "As listas dos arts. 18.º, 19.º, 21.º e 22.º são exemplificativas («designadamente»); cláusulas fora delas podem ser nulas pela cláusula geral da boa-fé (arts. 15.º e 16.º)."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=837&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+  ]
+ }
+]

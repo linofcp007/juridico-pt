@@ -1,0 +1,655 @@
+[
+  {
+    "codigo": "TRA-029",
+    "veredicto": "corrigida",
+    "descricao": "Gera a petição inicial na fase contenciosa do processo emergente de acidente de trabalho, depois de frustrada a tentativa de conciliação no Ministério Público, para contestar a posição da seguradora, obter o reconhecimento do nexo de causalidade entre o acidente e as lesões, fixar o grau de incapacidade e calcular as prestações devidas (prestações em espécie, indemnização por incapacidade temporária, pensão ou capital de remição), ao abrigo da Lei n.º 98/2009 e do Código de Processo do Trabalho.",
+    "descricao_en": "Generates the statement of claim in the contentious stage of workplace accident proceedings, after the conciliation attempt before the Public Prosecutor has failed, to challenge the insurer's position, obtain recognition of the causal link between the accident and the injuries, set the degree of incapacity and calculate the benefits due (benefits in kind, temporary incapacity allowance, pension or lump-sum commutation), under Law No. 98/2009 and the Code of Labour Procedure.",
+    "resumo": "A ficha atribuía a caducidade ao art. 49.º da Lei n.º 98/2009 (que define «pessoa a cargo») e não dizia de onde se conta: o prazo de 1 ano é o do art. 179.º, n.º 1, e corre da alta clínica formalmente comunicada ou da morte. A taxa da incapacidade temporária estava errada («75 % após 30 dias»): o art. 48.º, n.º 3, al. d), fixa 70 % nos primeiros 12 meses e 75 % depois; a incapacidade permanente dá pensão anual e vitalícia (ou capital de remição, art. 75.º), não «capital ou renda». Tratava ainda a petição como primeiro ato: o processo é urgente, começa com a participação e uma fase conciliatória no Ministério Público, e a petição só surge na fase contenciosa, nos mesmos autos (arts. 26.º, 99.º, 117.º e 119.º CPT); corrigi também o tribunal (juízo do trabalho, art. 15.º CPT) e a terminologia das prestações.",
+    "substituicoes": [
+      {
+        "de": "— Verifica sempre o prazo de 1 ano de caducidade (art. 49.º Lei 98/2009).\n— A ação deve ser proposta no tribunal do trabalho da área onde ocorreu o acidente.",
+        "para": "— Verifica sempre o prazo de caducidade de 1 ano do direito de ação, contado da data da alta clínica formalmente comunicada ao sinistrado ou, se do acidente resultar a morte, da data desta (art. 179.º, n.º 1, Lei n.º 98/2009).\n— O processo corre no juízo do trabalho do lugar onde o acidente ocorreu (art. 15.º, n.º 1, CPT); é também competente o juízo do trabalho do domicílio do sinistrado ou beneficiário, se este o requerer até à fase contenciosa ou aí tiver apresentado a participação (art. 15.º, n.º 4, CPT); se o acidente ocorreu no estrangeiro, o juízo do trabalho do domicílio do sinistrado (art. 15.º, n.º 2, CPT).\n— O processo emergente de acidente de trabalho é urgente, corre oficiosamente e a instância inicia-se com o recebimento da participação (art. 26.º, n.os 1, al. e), 3 e 4, CPT); começa por uma fase conciliatória dirigida pelo Ministério Público (art. 99.º, n.º 1, CPT). A petição inicial só tem lugar na fase contenciosa, quando não há acordo na tentativa de conciliação ou este não é homologado, e é apresentada nos autos em que correu a fase conciliatória (arts. 117.º, n.os 1, al. a), e 3, e 119.º, n.º 1, CPT). Se o interessado só discordar do resultado da perícia médica da fase conciliatória, a fase contenciosa inicia-se por requerimento para fixação da incapacidade, e não por petição (art. 117.º, n.º 1, al. b), CPT).",
+        "motivo": "O art. 49.º da Lei n.º 98/2009 define «pessoa a cargo»; a caducidade é a do art. 179.º, n.º 1, contada da alta clínica; a petição não é o primeiro ato do processo (fase conciliatória obrigatória no Ministério Público) e a competência é do juízo do trabalho (art. 15.º CPT)",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1156A0179&nid=1156&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- Prazo de 1 ano: ainda dentro do prazo?",
+        "para": "- Prazo de caducidade de 1 ano a contar da alta clínica formalmente comunicada (art. 179.º, n.º 1, Lei n.º 98/2009): ainda dentro do prazo?\n- Fase do processo: participação, tentativa de conciliação no Ministério Público (data e pontos de desacordo) ou fase contenciosa já iniciada?",
+        "motivo": "O prazo conta-se da alta clínica, não do acidente; a petição pressupõe a fase conciliatória frustrada",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=487A0117&nid=487&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- Prestações em dívida (tratamentos, subsídio de incapacidade temporária, capital ou renda)",
+        "para": "- Prestações em dívida (prestações em espécie, indemnização por incapacidade temporária, pensão anual e vitalícia ou capital de remição)",
+        "motivo": "A Lei n.º 98/2009 prevê indemnização (não subsídio) por incapacidade temporária e pensão anual e vitalícia ou capital de remição (não renda) por incapacidade permanente",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1156A0047&nid=1156&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- Art. 47.º Lei 98/2009 (incapacidade temporária — 70% da retribuição; 75% após 30 dias)\n- Art. 48.º Lei 98/2009 (incapacidade permanente — capital ou renda)\n- Art. 49.º Lei 98/2009 (prazo de 1 ano)",
+        "para": "- Art. 47.º Lei 98/2009 (modalidades das prestações em dinheiro)\n- Art. 48.º, n.º 3, als. d) e e), Lei 98/2009 (incapacidade temporária absoluta — indemnização diária de 70 % da retribuição nos primeiros 12 meses e de 75 % no período subsequente; incapacidade temporária parcial — 70 % da redução sofrida na capacidade geral de ganho)\n- Art. 48.º, n.º 3, als. a) a c), e art. 75.º Lei 98/2009 (incapacidade permanente — pensão anual e vitalícia; remição obrigatória em capital da pensão por incapacidade permanente parcial inferior a 30 % cujo valor anual não exceda seis vezes a retribuição mínima mensal garantida)\n- Art. 71.º Lei 98/2009 (cálculo com base na retribuição anual ilíquida normalmente devida ao sinistrado à data do acidente)\n- Art. 179.º, n.º 1, Lei 98/2009 (caducidade do direito de ação — 1 ano a contar da alta clínica formalmente comunicada ou da morte)\n- Arts. 15.º, 26.º, 99.º, 117.º, 119.º e 120.º CPT (competência territorial, natureza urgente, fase conciliatória, fase contenciosa e valor da causa)",
+        "motivo": "Taxa errada (70 % nos primeiros 12 meses e 75 % depois, não após 30 dias); a incapacidade permanente dá pensão ou capital de remição; o prazo de 1 ano está no art. 179.º, não no art. 49.º",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1156A0047&nid=1156&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- Tabela Nacional de Incapacidades [■ VERIFICAR: versão em vigor]",
+        "para": "- Tabela Nacional de Incapacidades por Acidentes de Trabalho e Doenças Profissionais (anexo I do Decreto-Lei n.º 352/2007, de 23 de outubro) [■ VERIFICAR: versão em vigor]",
+        "motivo": "Identificação do diploma que aprova a Tabela",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1179&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "**EXMO. SR. JUIZ DO TRIBUNAL DO TRABALHO DE [COMARCA]**\n\n**Processo Emergente de Acidente de Trabalho**",
+        "para": "**EXMO. SR. JUIZ DE DIREITO DO JUÍZO DO TRABALHO DE [LOCALIDADE] — TRIBUNAL JUDICIAL DA COMARCA DE [COMARCA]**\n\n**Processo Emergente de Acidente de Trabalho n.º [número] — fase contenciosa (petição apresentada nos autos em que correu a fase conciliatória — art. 117.º, n.º 3, CPT)**",
+        "motivo": "Desde a Lei n.º 62/2013 a competência é dos juízos do trabalho dos tribunais de comarca; a petição entra nos autos da fase conciliatória",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1974A0126&nid=1974&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "(Cálculo do subsídio de incapacidade temporária; capital ou renda por incapacidade permanente)",
+        "para": "(Cálculo da indemnização por incapacidade temporária; pensão anual e vitalícia ou capital de remição por incapacidade permanente — arts. 48.º, 71.º e 75.º Lei 98/2009)",
+        "motivo": "Terminologia e regime da Lei n.º 98/2009",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1156A0075&nid=1156&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "c) Pagamento do subsídio de incapacidade temporária em dívida (€___)\nd) Pagamento de capital de reparação por incapacidade permanente (€___)",
+        "para": "c) Pagamento da indemnização por incapacidade temporária em dívida (€___)\nd) Pagamento da pensão anual e vitalícia por incapacidade permanente ou, sendo obrigatória a remição, do capital de remição (€___)",
+        "motivo": "A incapacidade permanente dá pensão anual e vitalícia; o capital só existe na remição (art. 75.º)",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1156A0048&nid=1156&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "Valor da causa: [€]",
+        "para": "Valor da causa: [€] (art. 120.º CPT)",
+        "motivo": "Regra especial do valor da causa nos processos de acidente de trabalho",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=487A0117&nid=487&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- [ ] Prazo de 1 ano respeitado (art. 49.º Lei 98/2009)",
+        "para": "- [ ] Prazo de caducidade de 1 ano respeitado (art. 179.º, n.º 1, Lei 98/2009) [■ VERIFICAR: prazo para apresentar a petição na fase contenciosa quando o sinistrado tem mandatário constituído — o art. 119.º, n.º 1, CPT fixa 20 dias para o Ministério Público]",
+        "motivo": "Norma errada (art. 49.º) e prazo da fase contenciosa por confirmar",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=487A0117&nid=487&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- Prazo da ação: [data do acidente → data da ação → dentro do prazo?]",
+        "para": "- Prazo da ação: [data da alta clínica formalmente comunicada → data da ação → dentro do prazo de 1 ano?]\n- Fase do processo: [participação / tentativa de conciliação (data e resultado) / fase contenciosa]",
+        "motivo": "O prazo de caducidade conta-se da alta clínica, não do acidente",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1156A0179&nid=1156&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Confirmar o prazo para o sinistrado com mandatário próprio apresentar a petição na fase contenciosa (o art. 119.º CPT regula o patrocínio pelo Ministério Público, com 20 dias).",
+      "Se a discordância for só quanto ao grau de incapacidade, a via é o requerimento de junta médica (art. 117.º, n.º 1, al. b), CPT), não a petição.",
+      "Confirmar a versão em vigor da Tabela Nacional de Incapacidades e os montantes da retribuição mínima mensal garantida relevantes para a remição (art. 75.º)."
+    ],
+    "fontes": [
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1156A0008&nid=1156&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1156A0047&nid=1156&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1156A0049&nid=1156&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1156A0071&nid=1156&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1156A0075&nid=1156&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1156A0179&nid=1156&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=487A0014&nid=487&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=487A0026&nid=487&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=487A0099&nid=487&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=487A0117&nid=487&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1974A0126&nid=1974&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1179&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+    ]
+  },
+  {
+    "codigo": "TRA-034",
+    "veredicto": "corrigida",
+    "descricao": "Gera o mapa de férias anual da empresa e as comunicações individuais de marcação de férias aos trabalhadores, cumprindo o prazo de elaboração e afixação do mapa e as regras de marcação na falta de acordo (audição dos representantes dos trabalhadores, época de 1 de maio a 31 de outubro fora das microempresas, rateio dos períodos mais pretendidos e férias em idêntico período para cônjuges e unidos de facto), ao abrigo dos artigos 237.º a 246.º do Código do Trabalho.",
+    "descricao_en": "Generates the company's annual holiday schedule (mapa de férias) and the individual notices to employees setting their holiday dates, meeting the deadline for drawing up and posting the schedule and the rules for setting holidays where there is no agreement (consulting the employee representatives, the 1 May to 31 October window outside micro-enterprises, rotation of the most requested periods and the same holiday period for spouses and unmarried partners), under Articles 237 to 246 of the Labour Code.",
+    "resumo": "A ficha assentava em duas regras que o art. 241.º CT não contém — proibição de marcar férias em janeiro e fevereiro sem acordo e prioridade de pais de filhos até 12 anos — e omitia a regra decisiva da marcação unilateral: na falta de acordo, o empregador ouve a comissão de trabalhadores e, fora das microempresas, só pode marcar entre 1 de maio e 31 de outubro (n.os 2 a 4). Atribuía ainda ao art. 243.º a interpolação (que é do art. 241.º, n.º 8, com o mínimo de 10 dias úteis consecutivos) e ao art. 245.º um «direito a pecuniarizar» as férias, que o art. 237.º, n.º 3, proíbe. Reescrevi as regras, a fundamentação, a comunicação, a checklist e a entrevista com os critérios legais (rateio e cônjuges na mesma empresa, n.os 6 e 7), o prazo do mapa (n.º 9) e o regime do ano da admissão (art. 239.º).",
+    "substituicoes": [
+      {
+        "de": "— O mínimo legal de férias é de 22 dias úteis por ano (pode ser superior por IRCT).\n— O mapa de férias deve ser publicado até 15 de abril (art. 241.º CT).\n— A empresa não pode fixar férias de forma a prejudicar trabalhadores com prioridade legal (pais de menores em idade escolar com filhos até 12 anos — art. 241.º, n.º 7, CT).\n— As férias não podem ser marcadas em janeiro e fevereiro sem acordo do trabalhador (art. 241.º, n.º 6, CT).",
+        "para": "— O mínimo legal de férias é de 22 dias úteis por ano (art. 238.º, n.º 1, CT), podendo ser superior por IRCT; no ano da admissão, o trabalhador tem direito a 2 dias úteis por cada mês de duração do contrato, até 20 dias (art. 239.º, n.º 1, CT).\n— O mapa de férias deve ser elaborado até 15 de abril de cada ano e mantido afixado nos locais de trabalho entre essa data e 31 de outubro (art. 241.º, n.º 9, CT).\n— As férias são marcadas por acordo (art. 241.º, n.º 1, CT). Na falta de acordo, o empregador marca-as, sem início em dia de descanso semanal do trabalhador, ouvindo a comissão de trabalhadores ou, na sua falta, a comissão intersindical ou a comissão sindical representativa do trabalhador (n.º 2); em pequena, média ou grande empresa, só as pode marcar entre 1 de maio e 31 de outubro, salvo se o IRCT ou o parecer dos representantes dos trabalhadores admitir época diferente (n.º 3); na atividade ligada ao turismo, tem de marcar 25 % das férias (ou a percentagem superior do IRCT) entre 1 de maio e 31 de outubro, em gozo consecutivo (n.º 4).\n— O art. 241.º CT não dá prioridade na escolha a pais de filhos menores nem proíbe a marcação em janeiro ou fevereiro (confirmar o IRCT aplicável). Os critérios legais são outros: os períodos mais pretendidos são rateados, sempre que possível, beneficiando alternadamente os trabalhadores em função dos períodos gozados nos dois anos anteriores (n.º 6), e os cônjuges, unidos de facto ou pessoas em economia comum que trabalhem na mesma empresa ou estabelecimento têm direito a gozar férias em idêntico período, salvo prejuízo grave para a empresa (n.º 7).\n— O gozo das férias só pode ser interpolado por acordo e desde que sejam gozados, no mínimo, 10 dias úteis consecutivos (art. 241.º, n.º 8, CT).",
+        "motivo": "As regras de janeiro/fevereiro e da prioridade dos pais não existem no art. 241.º CT; faltava a regra da marcação unilateral (n.os 2 a 4), os critérios reais (n.os 6 e 7) e a interpolação (n.º 8)",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0241&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- Algum trabalhador tem prioridade legal (filhos até 12 anos em idade escolar)?",
+        "para": "- Há cônjuges, unidos de facto ou pessoas em economia comum a trabalhar na mesma empresa ou estabelecimento (direito a férias em idêntico período — art. 241.º, n.º 7, CT)? O IRCT aplicável prevê critérios de preferência?\n- Dimensão da empresa (microempresa ou não) e atividade ligada ao turismo: na falta de acordo, determinam a época em que o empregador pode marcar as férias (art. 241.º, n.os 3 e 4, CT)",
+        "motivo": "A prioridade legal invocada não existe; os fatores relevantes são os dos n.os 3, 4 e 7 do art. 241.º CT",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0241&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- Art. 237.º CT (direito a férias — 22 dias úteis)",
+        "para": "- Art. 237.º CT (direito a férias — vence-se a 1 de janeiro; é irrenunciável e não pode ser substituído por compensação, salvo o art. 238.º, n.º 5)\n- Arts. 238.º, n.º 1, e 239.º CT (duração mínima de 22 dias úteis; regime do ano da admissão e dos contratos de duração inferior a seis meses)",
+        "motivo": "A duração mínima está no art. 238.º, n.º 1; o art. 237.º regula o direito e a sua irrenunciabilidade",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0238&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- Art. 241.º, n.º 6, CT (proibição de férias em jan/fev sem acordo)\n- Art. 241.º, n.º 7, CT (prioridade de trabalhadores com filhos até 12 anos)\n- Art. 243.º CT (férias em mais de um período — requisitos)\n- Art. 245.º CT (impossibilidade de gozar férias — direito a pecuniarizar)",
+        "para": "- Art. 241.º, n.os 2 a 4, CT (marcação pelo empregador na falta de acordo — audição dos representantes dos trabalhadores; época de 1 de maio a 31 de outubro, salvo microempresa, IRCT ou parecer; turismo)\n- Art. 241.º, n.os 6 e 7, CT (rateio dos períodos mais pretendidos; férias em idêntico período para cônjuges, unidos de facto e pessoas em economia comum na mesma empresa)\n- Art. 241.º, n.º 8, CT (gozo interpolado, por acordo, com o mínimo de 10 dias úteis consecutivos)\n- Arts. 243.º e 244.º CT (alteração do período de férias por motivo relativo à empresa ou ao trabalhador)\n- Arts. 237.º, n.º 3, 238.º, n.º 5, 245.º e 246.º CT (as férias não podem ser substituídas por compensação, salvo a renúncia aos dias que excedam 20 dias úteis, sem redução da retribuição e do subsídio; na cessação do contrato são pagas as férias vencidas e não gozadas e as proporcionais; se o empregador obstar culposamente ao gozo, o trabalhador tem direito a compensação no triplo da retribuição do período em falta)",
+        "motivo": "Os n.os 6 e 7 do art. 241.º dizem outra coisa; o art. 243.º trata da alteração por motivo da empresa (a interpolação é do art. 241.º, n.º 8); o art. 245.º regula a cessação e não há direito a «pecuniarizar» férias (art. 237.º, n.º 3)",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0246&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "Nota: O presente mapa foi elaborado [com acordo dos trabalhadores / na ausência de acordo, com respeito pelas prioridades legais], nos termos do artigo 241.º do Código do Trabalho.",
+        "para": "Nota: O presente mapa foi elaborado [com acordo dos trabalhadores / na falta de acordo, ouvida a comissão de trabalhadores (ou, na sua falta, a comissão intersindical ou sindical) e com respeito pela época e pelos critérios legais de marcação], nos termos do artigo 241.º do Código do Trabalho, e fica afixado nos locais de trabalho até 31 de outubro.",
+        "motivo": "Não há «prioridades legais»; na falta de acordo, a lei exige a audição dos representantes e a afixação até 31 de outubro (art. 241.º, n.os 2 e 9)",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0241&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "[Caso se apliquem prioridades: \"a marcação respeita a prioridade\nlegal prevista no art. 241.º, n.º 7, CT\"]",
+        "para": "[Se aplicável: \"a marcação assegura o gozo de férias em idêntico\nperíodo ao do seu cônjuge / unido de facto que trabalha nesta empresa,\nnos termos do art. 241.º, n.º 7, CT\"]",
+        "motivo": "O n.º 7 do art. 241.º CT respeita a cônjuges e equiparados na mesma empresa, não a uma prioridade de escolha",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0241&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- [ ] Mínimo de 22 dias úteis por trabalhador\n- [ ] Mapa publicado (ou a publicar) até 15 de abril\n- [ ] Trabalhadores com prioridade legal identificados e respeitados\n- [ ] Janeiro e fevereiro não incluídos sem acordo expresso\n- [ ] Divisão em mais de um período com fundamento (art. 243.º CT)",
+        "para": "- [ ] Mínimo de 22 dias úteis por trabalhador (ou o regime do ano da admissão e dos contratos de duração inferior a seis meses — art. 239.º CT)\n- [ ] Mapa elaborado até 15 de abril e afixado nos locais de trabalho até 31 de outubro (art. 241.º, n.º 9, CT)\n- [ ] Na falta de acordo: comissão de trabalhadores (ou comissão intersindical ou sindical) ouvida, férias sem início em dia de descanso semanal e, salvo microempresa, IRCT ou parecer em contrário, marcadas entre 1 de maio e 31 de outubro (art. 241.º, n.os 2 a 4, CT)\n- [ ] Períodos mais pretendidos rateados e férias em idêntico período para cônjuges e equiparados na mesma empresa (art. 241.º, n.os 6 e 7, CT)\n- [ ] Gozo interpolado só por acordo e com, pelo menos, 10 dias úteis consecutivos (art. 241.º, n.º 8, CT)",
+        "motivo": "A checklist verificava regras inexistentes e omitia as condições legais da marcação unilateral e da interpolação",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0241&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- Denominação, NIPC: [dados]",
+        "para": "- Denominação, NIPC: [dados]\n- Dimensão (micro, pequena, média ou grande empresa) e atividade ligada ao turismo: [dados]\n- Comissão de trabalhadores ou estrutura sindical na empresa: [sim/não]",
+        "motivo": "Dados necessários para aplicar o art. 241.º, n.os 2 a 4, CT",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0241&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "| Férias pretendidas: [período preferido] | Prioridade legal (filhos <12 anos): [sim/não]",
+        "para": "| Férias pretendidas: [período preferido] | Cônjuge ou unido de facto na mesma empresa: [sim/não — quem]",
+        "motivo": "A prioridade legal por filhos não existe; o critério legal é o do art. 241.º, n.º 7, CT",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0241&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "| Prioridade legal: [sim/não]",
+        "para": "| Cônjuge ou unido de facto na mesma empresa: [sim/não — quem]",
+        "motivo": "Idem",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0241&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Confirmar o IRCT aplicável: pode prever dias de férias acima do mínimo, outra época de marcação ou critérios de preferência.",
+      "Confirmar a classificação da empresa (microempresa ou não) para efeitos do art. 241.º, n.º 3, CT.",
+      "Confirmar se a Proposta de Lei n.º 77/XVII («Trabalho XXI»), pendente na Assembleia da República em 2026, foi aprovada e publicada e se altera os arts. 237.º a 246.º CT."
+    ],
+    "fontes": [
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0238&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0239&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0241&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0245&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0246&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://portugal.gov.pt/gc25/comunicacao/noticias/governo-apresenta-proposta-que-altera-a-lei-laboral"
+    ]
+  },
+  {
+    "codigo": "TRA-036",
+    "veredicto": "corrigida",
+    "resumo": "O prazo da ficha (30 dias; 15 nos processos urgentes) está certo: é o do art. 80.º CPT, na redação da Lei n.º 107/2019 — a suspeita de que seriam 20 dias assentava na redação antiga. Faltavam, porém, o acréscimo de 10 dias quando o recurso tem por objeto a reapreciação da prova gravada (art. 80.º, n.º 3), a regra do art. 81.º, n.º 1, CPT (o requerimento de interposição contém a alegação e as conclusões indicam o fundamento específico da recorribilidade) e os casos em que o recurso para a Relação é sempre admissível, independentemente do valor (art. 79.º CPT). Acrescentei-os, bem como o ónus de indicar as passagens exatas da gravação (art. 640.º, n.º 2, al. a), CPC), e atualizei «secção» para juízo do trabalho.",
+    "substituicoes": [
+      {
+        "de": "— O prazo de 30 dias conta da notificação da sentença; nos processos urgentes (impugnação de despedimento) é de 15 dias.",
+        "para": "— O prazo de interposição é de 30 dias a contar da notificação da sentença; nos processos com natureza urgente (entre outros, a ação de impugnação da regularidade e licitude do despedimento, a de impugnação de despedimento coletivo e as ações emergentes de acidente de trabalho — art. 26.º, n.º 1, CPT) é de 15 dias; se o recurso tiver por objeto a reapreciação da prova gravada, acrescem 10 dias (art. 80.º CPT).\n— O requerimento de interposição contém obrigatoriamente a alegação do recorrente, e das conclusões tem de constar o fundamento específico da recorribilidade e a identificação da decisão recorrida (art. 81.º, n.º 1, CPT).",
+        "motivo": "Faltava o acréscimo de 10 dias para a reapreciação da prova gravada e a regra do modo de interposição do processo laboral",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=487A0079&nid=487&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- Valor da causa — admissibilidade do recurso (montante mínimo)",
+        "para": "- Admissibilidade: valor da causa superior à alçada do tribunal de 1.ª instância (€ 5.000) e decaimento superior a metade dessa alçada (art. 629.º, n.º 1, CPC; art. 44.º, n.º 1, da Lei n.º 62/2013), salvo nas ações em que o recurso para a Relação é sempre admissível, independentemente do valor e da sucumbência (despedimento, categoria profissional, reintegração, validade ou subsistência do contrato, acidente de trabalho e doença profissional, entre outras — art. 79.º CPT)",
+        "motivo": "A admissibilidade não depende só do valor: o art. 79.º CPT admite sempre recurso nas ações laborais mais frequentes",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=487A0079&nid=487&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- Artigos do CPT sobre recursos laborais",
+        "para": "- Arts. 79.º, 79.º-A, 80.º e 81.º CPT (decisões que admitem sempre recurso, recurso de apelação, prazo e modo de interposição)",
+        "motivo": "Identificação das normas do CPT aplicáveis",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=487A0079&nid=487&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "**ALEGAÇÕES DE RECURSO DE APELAÇÃO**\n\n[Ao Tribunal da Relação de ___]",
+        "para": "**REQUERIMENTO DE INTERPOSIÇÃO DE RECURSO E ALEGAÇÕES DE APELAÇÃO**\n\n[Requerimento dirigido ao juiz do tribunal recorrido, que contém obrigatoriamente a alegação (art. 81.º, n.º 1, CPT); alegações dirigidas ao Tribunal da Relação de ___]",
+        "motivo": "No processo laboral a alegação integra o requerimento de interposição (art. 81.º, n.º 1, CPT)",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=487A0079&nid=487&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "**IV. CONCLUSÕES** (obrigatórias — síntese numerada)",
+        "para": "**IV. CONCLUSÕES** (obrigatórias — síntese numerada; delas consta o fundamento específico da recorribilidade e a identificação da decisão recorrida — art. 81.º, n.º 1, CPT)",
+        "motivo": "Conteúdo obrigatório das conclusões no processo laboral",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=487A0079&nid=487&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- [ ] Prazo de recurso verificado",
+        "para": "- [ ] Prazo de recurso verificado (30 dias; 15 nos processos urgentes; mais 10 se houver reapreciação da prova gravada — art. 80.º CPT)",
+        "motivo": "Prazos do art. 80.º CPT, incluindo o acréscimo da prova gravada",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=487A0079&nid=487&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- [ ] Impugnação de facto com indicação específica dos meios de prova (art. 640.º CPC)",
+        "para": "- [ ] Impugnação de facto com os concretos pontos de facto, os concretos meios probatórios e a decisão pretendida (art. 640.º, n.º 1, CPC) e, sendo a prova gravada, as passagens exatas da gravação (art. 640.º, n.º 2, al. a), CPC)",
+        "motivo": "Sem a indicação exata das passagens da gravação, o recurso é imediatamente rejeitado nessa parte",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0640&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- Tribunal: [comarca e secção]",
+        "para": "- Tribunal: [Tribunal Judicial da Comarca de ___ — Juízo do Trabalho de ___]",
+        "motivo": "A organização judiciária em vigor (Lei n.º 62/2013) tem juízos do trabalho, não secções",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1974A0126&nid=1974&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Confirmar se o processo tem natureza urgente (art. 26.º, n.º 1, CPT) antes de contar o prazo de 15 dias.",
+      "Verificar o efeito do recurso e, se for caso disso, a prestação de caução para obter o efeito suspensivo.",
+      "Confirmar se houve alterações ao CPT posteriores ao Decreto-Lei n.º 87/2024 (última versão consultada)."
+    ],
+    "fontes": [
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=487A0026&nid=487&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=487A0079&nid=487&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0629&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0640&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1974A0044&nid=1974&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1974A0126&nid=1974&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+    ]
+  },
+  {
+    "codigo": "TRA-049",
+    "veredicto": "rever de raiz",
+    "descricao": "Gera a documentação de suporte e o requerimento para obtenção do visto de residência e da autorização de residência para trabalho subordinado de nacional de país terceiro em Portugal, ao abrigo da Lei n.º 23/2007, de 4 de julho (Lei de Estrangeiros), do Decreto Regulamentar n.º 84/2007, de 5 de novembro, e das normas do Código do Trabalho em matéria de contratação de trabalhadores estrangeiros. Cobre o procedimento consular e o procedimento perante a AIMA; a manifestação de interesse foi revogada pelo Decreto-Lei n.º 37-A/2024.",
+    "descricao_en": "Generates the supporting documentation and application for the residence visa and residence permit for salaried work of a third-country national in Portugal, under Law No. 23/2007 of 4 July (Foreigners Act), Regulatory Decree No. 84/2007 of 5 November and the Labour Code rules on hiring foreign workers. Covers the consular procedure and the procedure before the Agency for Integration, Migration and Asylum (AIMA); the expression of interest (manifestação de interesse) route was repealed by Decree-Law No. 37-A/2024.",
+    "resumo": "A ficha apresentava como via em vigor a autorização de residência por manifestação de interesse (art. 88.º, n.º 2, Lei n.º 23/2007), revogada pelo Decreto-Lei n.º 37-A/2024, com requisitos sem base identificada («empresa inscrita na SS há mais de 1 ano», declaração do IEFP de não preenchimento da vaga — o contingente do art. 59.º, n.os 1 a 3, está revogado), um dever de comunicar a contratação ao IEFP e às Finanças e uma «lista de carências» que não encontrei na lei. Corrigi o que está confirmado: vias de acesso (visto do art. 59.º, n.º 5, e autorização de residência do art. 88.º, n.º 1, válida por dois anos e renovável por três, art. 75.º), regime CPLP, deveres do art. 5.º CT (a comunicação à ACT foi revogada pela Lei n.º 13/2023) e a referência ao Decreto Regulamentar n.º 84/2007. A Lei n.º 23/2007 voltou a ser alterada pelas Leis n.os 61/2025 e 62/2026; os documentos, o regime de quem já está em Portugal e o CPLP ficam marcados para confirmação, com aviso no topo.",
+    "substituicoes": [
+      {
+        "de": "## Regras obrigatórias",
+        "para": "**Atenção (revisão técnica):** o regime de entrada e residência de trabalhadores de países terceiros mudou várias vezes desde 2024: o Decreto-Lei n.º 37-A/2024, de 3 de junho, revogou a autorização de residência por manifestação de interesse, e a Lei n.º 23/2007 foi de novo alterada pela Lei n.º 61/2025, de 22 de outubro, e pela Lei n.º 62/2026, de 10 de setembro. Esta ficha foi corrigida nos pontos confirmados na versão em vigor, mas os requisitos e documentos do visto, eventuais diligências junto do IEFP, a situação de quem já está em Portugal e o regime CPLP não foram confirmados por inteiro: verificar na versão consolidada da Lei n.º 23/2007 e do Decreto Regulamentar n.º 84/2007 e junto da AIMA antes de usar o documento.\n\n## Regras obrigatórias",
+        "motivo": "Regime alterado em 2024, 2025 e 2026; parte da ficha não pôde ser confirmada",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=920A0088&nid=920&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "— Distingue vias de acesso: Visto D para trabalho subordinado, Autorização de Residência via manifestação de interesse (art. 88.º Lei 23/2007), e trabalhadores de países com acordo bilateral.\n— O empregador tem obrigação de comunicar a contratação ao IEFP e ao serviço de finanças competente.",
+        "para": "— Distingue as vias de acesso: (i) visto de residência para exercício de atividade profissional subordinada, pedido no posto consular por quem tenha contrato ou promessa de contrato de trabalho ou, tendo habilitações, competências ou qualificações reconhecidas e adequadas, manifestação individualizada de interesse da entidade empregadora (art. 59.º, n.º 5, Lei n.º 23/2007), seguido de autorização de residência, que exige contrato de trabalho e inscrição na segurança social (art. 88.º, n.º 1, Lei n.º 23/2007); (ii) trabalhador que já está em Portugal com título que o permita; (iii) cidadãos de Estados abrangidos pelo Acordo CPLP titulares de visto de residência, que podem requerer na AIMA autorização de residência CPLP (art. 87.º-A, n.º 1, Lei n.º 23/2007). A autorização de residência por manifestação de interesse (antigo art. 88.º, n.º 2) foi revogada pelo Decreto-Lei n.º 37-A/2024, de 3 de junho, e não serve para pedidos novos [■ VERIFICAR: regime transitório para quem reunia as condições antes dessa revogação].\n— O contrato com trabalhador estrangeiro tem forma escrita e as menções do art. 5.º, n.º 1, CT (incluindo a referência ao visto ou ao título de residência), e o exemplar do empregador tem apensos os comprovativos da entrada e da permanência ou residência regular (art. 5.º, n.º 4, CT); a comunicação à ACT do antigo art. 5.º, n.º 5, CT foi revogada pela Lei n.º 13/2023. A concessão da autorização de residência é comunicada pela AIMA à inspeção do trabalho, à administração fiscal e à segurança social (art. 88.º, n.º 4, Lei n.º 23/2007) [■ VERIFICAR: outros deveres de comunicação do empregador — designadamente a comunicação de admissão à segurança social —, que a ficha atribuía, sem base identificada, ao IEFP e ao serviço de finanças].",
+        "motivo": "A manifestação de interesse foi revogada (art. 88.º, n.º 2, revogado pelo Decreto-Lei n.º 37-A/2024); o dever de comunicar ao IEFP e às Finanças não tem base identificada e a comunicação à ACT (art. 5.º, n.º 5, CT) foi revogada",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=920A0088&nid=920&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- Nationalidade: existe acordo bilateral PT-país de origem que simplifica o processo?\n- Tipo de vínculo pretendido: contrato sem termo, a termo, prestação de serviços (inaplicável para AT)\n- Profissão incluída em lista de carências de mão de obra (facilita processo)?\n- Oferta de emprego: contrato de trabalho assinado é necessário para Visto D?",
+        "para": "- Nacionalidade: abrangido pelo Acordo CPLP ou por outro acordo de mobilidade? [■ VERIFICAR: regime aplicável à nacionalidade em causa]\n- Tipo de vínculo pretendido: contrato de trabalho sem termo ou a termo (a prestação de serviços não segue esta via, mas a do visto e da autorização de residência para atividade profissional independente — arts. 60.º e 89.º Lei n.º 23/2007)\n- [■ VERIFICAR: se existe, no regime em vigor, lista de profissões ou contingente que condicione ou facilite o visto — o contingente global do art. 59.º, n.os 1 a 3, Lei n.º 23/2007 está revogado]\n- Oferta de emprego: o visto exige contrato ou promessa de contrato de trabalho ou, para quem tenha habilitações, competências ou qualificações reconhecidas e adequadas, manifestação individualizada de interesse da entidade empregadora (art. 59.º, n.º 5, Lei n.º 23/2007) — figura distinta da manifestação de interesse revogada",
+        "motivo": "Requisitos do visto confirmados no art. 59.º, n.º 5; contingente revogado; a prestação de serviços segue outro regime (arts. 60.º e 89.º); «lista de carências» sem base identificada",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=920A0059&nid=920&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "**Via A — Visto D (trabalhador no estrangeiro):**\n- Pedido consular de Visto D para trabalho subordinado\n- Documentos: contrato de trabalho assinado, prova de alojamento, seguro de saúde, registo criminal\n- Após entrada: pedido de AR de 2 anos, renovável\n\n**Via B — Manifestação de Interesse (trabalhador em PT em situação regular):**\n- Art. 88.º Lei 23/2007: trabalhador em Portugal com entrada regular pode pedir AR para trabalho subordinado\n- Contrato de trabalho com empresa inscrita na SS há mais de 1 ano\n- Apresentação na AIMA ou por agendamento\n\n**Via C — Acordos bilaterais (CPLP, etc.):**\n- Procedimento simplificado para nacionais de países com acordo de mobilidade (ex: Brasil, Cabo Verde)",
+        "para": "**Via A — Visto de residência para trabalho subordinado (trabalhador no estrangeiro):**\n- Pedido no posto consular do visto de residência para exercício de atividade profissional subordinada (art. 59.º, n.º 5, Lei n.º 23/2007), com as condições gerais do art. 52.º\n- Documentos: contrato ou promessa de contrato de trabalho (ou manifestação individualizada de interesse), prova de alojamento, seguro de saúde, registo criminal [■ VERIFICAR: lista em vigor no posto consular e no Decreto Regulamentar n.º 84/2007]\n- Após a entrada: pedido na AIMA de autorização de residência temporária, que exige contrato de trabalho e inscrição na segurança social (art. 88.º, n.º 1, Lei n.º 23/2007), válida por dois anos e renovável por períodos sucessivos de três anos (art. 75.º, n.º 1)\n\n**Via B — Trabalhador que já está em Portugal:**\n- A manifestação de interesse (antigo art. 88.º, n.º 2, Lei n.º 23/2007) foi revogada pelo Decreto-Lei n.º 37-A/2024: a permanência sem visto de residência adequado já não permite pedir, por essa via, autorização de residência para trabalho\n- Verificar o título que o trabalhador já tem (visto de residência, visto para procura de trabalho qualificado — art. 57.º-A —, autorização de residência para outro fim) e se permite o trabalho subordinado ou a substituição do título [■ VERIFICAR: regime em vigor após a Lei n.º 61/2025 e a Lei n.º 62/2026]\n- Agendamento e pedido na AIMA\n\n**Via C — Cidadãos da CPLP:**\n- Os cidadãos de Estados abrangidos pelo Acordo CPLP titulares de visto de residência podem requerer em território nacional, junto da AIMA, autorização de residência CPLP, que depende das condições de concessão do visto de residência e da autorização de residência CPLP (art. 87.º-A, n.os 1 e 2, Lei n.º 23/2007; ver também o art. 75.º, n.º 2) [■ VERIFICAR: condições em vigor após a Lei n.º 61/2025]",
+        "motivo": "A via B assentava na manifestação de interesse, revogada, e num requisito («empresa inscrita na SS há mais de 1 ano») sem base; confirmados os prazos da autorização de residência (art. 75.º, n.º 1) e a autorização de residência CPLP (art. 87.º-A)",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=920A0075&nid=920&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "4. A empresa procedeu, previamente à contratação, à comunicação ao IEFP para verificação da situação do mercado de trabalho, tendo sido emitida declaração de não preenchimento por trabalhador nacional/comunitário ([■ VERIFICAR: obtenção de declaração IEFP]);",
+        "para": "4. [■ VERIFICAR: incluir apenas se o regime em vigor exigir alguma diligência prévia junto do IEFP — o contingente global e a verificação prévia das ofertas de emprego do art. 59.º, n.os 1 a 3, Lei n.º 23/2007 estão revogados];",
+        "motivo": "A declaração de não preenchimento pertencia ao regime do contingente, hoje revogado",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=920A0059&nid=920&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- Declaração de não dívidas à AT e à SS\n- Contrato de trabalho assinado\n- Declaração IEFP (ou pedido de verificação)",
+        "para": "- Declaração de não dívida à AT e à SS [■ VERIFICAR: se é exigida no regime em vigor]\n- Contrato de trabalho escrito, com as menções do art. 5.º, n.º 1, CT, ou promessa de contrato de trabalho",
+        "motivo": "A declaração do IEFP não tem base no regime em vigor; o contrato tem as menções obrigatórias do art. 5.º CT",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0005&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- [ ] Via processual correta identificada (Visto D / AR manifestação interesse / acordo bilateral)\n- [ ] Contrato de trabalho assinado e com retribuição mínima legal\n- [ ] Comunicação ao IEFP realizada ou em curso (verificação do mercado de trabalho)",
+        "para": "- [ ] Via processual correta identificada (visto de residência para trabalho subordinado / título já detido em Portugal / regime CPLP) — sem recurso à manifestação de interesse, revogada\n- [ ] Contrato de trabalho escrito, com as menções do art. 5.º, n.º 1, CT e retribuição não inferior à mínima legal\n- [ ] Comprovativos da entrada e da permanência ou residência regular apensos ao exemplar do contrato do empregador (art. 5.º, n.º 4, CT)",
+        "motivo": "Manifestação de interesse revogada; comunicação ao IEFP sem base; deveres reais do art. 5.º CT",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0005&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- [ ] Empregador sem dívidas à AT e à SS (condição de admissibilidade)",
+        "para": "- [ ] Situação tributária e contributiva do empregador regularizada [■ VERIFICAR: se é condição legal no regime em vigor]",
+        "motivo": "Condição apresentada como legal sem base identificada"
+      },
+      {
+        "de": "- Via pretendida: [Visto D / Manifestação de interesse / Acordo bilateral]",
+        "para": "- Via pretendida: [visto de residência para trabalho subordinado / título já detido em Portugal / regime CPLP]",
+        "motivo": "Manifestação de interesse revogada",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=920A0088&nid=920&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- Comunicação IEFP já realizada: [sim/não]",
+        "para": "- Título de que o trabalhador já dispõe (se estiver em Portugal) e respetiva validade: [tipo e data]",
+        "motivo": "A comunicação ao IEFP não tem base no regime em vigor; o título atual é que define a via",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=920A0059&nid=920&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Ler a versão consolidada da Lei n.º 23/2007 depois da Lei n.º 61/2025 e da Lei n.º 62/2026 (vistos, autorização de residência para trabalho, art. 57.º-A, regime CPLP dos arts. 75.º e 87.º-A).",
+      "Confirmar o regime transitório do Decreto-Lei n.º 37-A/2024 (e alterações) para quem reunia as condições da manifestação de interesse antes de 3 de junho de 2024.",
+      "Confirmar a lista de documentos exigida pelo posto consular e pelo Decreto Regulamentar n.º 84/2007, e se a situação contributiva e tributária do empregador é condição legal.",
+      "Confirmar a comunicação de admissão à segurança social e o respetivo prazo no Código dos Regimes Contributivos."
+    ],
+    "fontes": [
+      "https://www.pgdlisboa.pt/leis/lei_busca_art_velho.php?nid=920&artigonum=920A0059&n_versao=3&so_miolo=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=920A0057A&nid=920&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=920A0059&nid=920&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=920A0075&nid=920&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=920A0087A&nid=920&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=920A0088&nid=920&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0005&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=940&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://www.garrigues.com/pt/pt-PT/news/deixa-ser-possivel-obter-autorizacao-residencia-temporaria-trabalhar-manifestacao-interesse"
+    ]
+  },
+  {
+    "codigo": "TRA-052",
+    "veredicto": "corrigida",
+    "descricao": "Gera o requerimento de exercício dos direitos de parentalidade — incluindo licença parental inicial, licença parental complementar (alargada), licença por adoção e licença para assistência a filho — ao abrigo dos arts. 33.º a 65.º do Código do Trabalho e do Decreto-Lei n.º 91/2009, de 9 de abril (prestações de parentalidade da segurança social). O documento assegura o cumprimento de todos os prazos de comunicação ao empregador.",
+    "descricao_en": "Generates the application to exercise parenthood rights — including initial parental leave, supplementary (extended) parental leave, adoption leave and leave to care for a child — under Arts. 33 to 65 of the Labour Code and Decree-Law No. 91/2009 of 9 April (social security parenthood benefits). The document ensures that all deadlines for notifying the employer are met.",
+    "resumo": "A tabela de direitos estava desatualizada ou errada: a licença exclusiva do pai é de 28 dias obrigatórios mais 7 facultativos desde a Lei n.º 13/2023 (não «20 dias úteis + 5»); a licença por adoção de menor de 15 anos é a licença parental inicial de 120 ou 150 dias (art. 44.º, n.º 1), não «30 dias»; a licença parental alargada é uma das modalidades da licença parental complementar, gozável em até três períodos (não «até 2 vezes»), e tem subsídio parental alargado (não «sem subsídio SS»); o art. 49.º CT regula faltas, e a licença para filho com deficiência, doença crónica ou oncológica é a do art. 53.º. O prazo de «10 dias» para pedir o subsídio não tem base: ficou marcado para confirmação. Acrescentei os prazos de comunicação ao empregador de cada licença (arts. 40.º, 41.º, 43.º, 44.º, 51.º e 52.º CT) e corrigi o intervalo de artigos da descrição (a parentalidade são os arts. 33.º a 65.º).",
+    "substituicoes": [
+      {
+        "de": "— Os prazos de comunicação ao empregador variam por tipo de licença — alerta para cada um.",
+        "para": "— Os prazos de comunicação ao empregador variam por tipo de licença — alerta para cada um: partilha da licença parental inicial, até sete dias após o parto, com declaração conjunta (art. 40.º, n.º 10, CT; sem partilha, n.º 12); gozo pela mãe antes do parto, com 10 dias de antecedência e atestado médico (art. 41.º, n.º 3, CT); licença exclusiva do pai, com a antecedência possível e, quanto aos 7 dias facultativos, não inferior a cinco dias (art. 43.º, n.º 5, CT); adoção, com 10 dias de antecedência (art. 44.º, n.os 7, 12 e 13, CT); licença parental complementar e licença para assistência a filho, por escrito e com 30 dias de antecedência (arts. 51.º, n.º 5, e 52.º, n.º 6, CT).",
+        "motivo": "A ficha anunciava os prazos de comunicação mas não os indicava",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0040&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- Bónus aplicável (ex: partilha parental com bónus de 30 dias — art. 40.º, n.º 3, CT)",
+        "para": "- Acréscimo aplicável (ex.: mais 30 dias de licença parental inicial se cada um dos progenitores gozar, em exclusivo, 30 dias consecutivos ou dois períodos de 15 dias consecutivos, após o gozo obrigatório da mãe — art. 40.º, n.º 3, CT)",
+        "motivo": "Condição do acréscimo de 30 dias na redação em vigor",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0040&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- Licença parental inicial: 120 ou 150 dias (art. 40.º CT), partilhável; bónus de 30 dias se pai gozar ≥30 dias",
+        "para": "- Licença parental inicial: 120 ou 150 dias consecutivos (art. 40.º, n.º 1, CT), partilhável após o parto; acréscimo de 30 dias se cada um dos progenitores gozar, em exclusivo, 30 dias consecutivos ou dois períodos de 15 dias consecutivos após o gozo obrigatório da mãe (n.º 3); após 120 dias consecutivos, os restantes dias podem ser cumulados com trabalho a tempo parcial (n.os 4 e 5); acréscimos por nascimentos múltiplos, internamento da criança e parto até às 33 semanas (n.os 6 a 9)",
+        "motivo": "O acréscimo não depende só do pai: exige o gozo exclusivo por cada um dos progenitores",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0040&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- Licença parental exclusiva do pai: 20 dias úteis obrigatórios + 5 dias facultativos (art. 43.º CT)\n- Licença parental alargada: até 3 meses (pode ser pedida até 2 vezes) — art. 51.º CT; sem subsídio SS\n- Licença por adoção: 30 dias para criança com menos de 15 anos (art. 44.º CT)\n- Assistência a filho com doença ou deficiência: art. 49.º CT",
+        "para": "- Licença parental exclusiva do pai: 28 dias obrigatórios, seguidos ou em períodos interpolados de no mínimo 7 dias, nos 42 dias seguintes ao nascimento, 7 dos quais gozados de modo consecutivo imediatamente a seguir a este, e mais 7 dias facultativos, seguidos ou interpolados, em simultâneo com a licença parental inicial da mãe (art. 43.º, n.os 1 e 2, CT, na redação da Lei n.º 13/2023)\n- Licença parental complementar, para assistência a filho ou adotado com idade não superior a seis anos (art. 51.º CT): licença parental alargada por três meses ou, em alternativa, trabalho a tempo parcial (12 meses, ou 3 meses se exercido na totalidade por cada um dos progenitores), períodos intercalados ou ausências interpoladas previstas em IRCT (n.º 1), gozada de modo consecutivo ou em até três períodos interpolados (n.º 2); a licença parental alargada confere subsídio parental alargado da Segurança Social (Decreto-Lei n.º 91/2009) [■ VERIFICAR: montante em vigor — segundo a Segurança Social, 30 % da remuneração de referência, ou 40 % se ambos os progenitores gozarem a totalidade]\n- Licença por adoção de menor de 15 anos: a licença parental inicial de 120 ou 150 dias, com o eventual acréscimo de 30 dias (art. 44.º, n.º 1, CT, que remete para o art. 40.º, n.os 1 a 3), e a licença exclusiva do pai (art. 44.º, n.º 2); até 30 dias podem ser gozados no período de transição e acompanhamento (n.º 6); não há licença na adoção de filho do cônjuge ou de unido de facto (n.º 5)\n- Faltas para assistência a filho em caso de doença ou acidente: até 30 dias por ano (filho menor de 12 anos ou, independentemente da idade, com deficiência ou doença crónica) ou até 15 dias (filho com 12 ou mais anos) — art. 49.º CT\n- Licença para assistência a filho com deficiência, doença crónica ou doença oncológica: até seis meses, prorrogável até quatro anos — art. 53.º CT\n- Licença para assistência a filho, depois de esgotada a licença parental complementar: até dois anos (três a partir do terceiro filho) — art. 52.º CT",
+        "motivo": "Licença do pai na redação anterior à Lei n.º 13/2023; adoção com duração errada (é a do art. 40.º); a licença alargada tem subsídio e gozo em até três períodos; o art. 49.º regula faltas e a licença por deficiência ou doença é a do art. 53.º",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0043&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- [ ] Pedido de subsídio à Segurança Social preparado (prazo: 10 dias após início da licença)",
+        "para": "- [ ] Pedido de subsídio à Segurança Social preparado [■ VERIFICAR: prazo de requerimento no Decreto-Lei n.º 91/2009 — segundo a Segurança Social, seis meses, sob pena de perda do direito]",
+        "motivo": "O prazo de 10 dias não tem base identificada no regime das prestações de parentalidade"
+      },
+      {
+        "de": "- [ ] Bónus de partilha calculado se ambos os progenitores partilharem a licença",
+        "para": "- [ ] Acréscimo de 30 dias verificado, se cada progenitor gozar em exclusivo o período exigido (art. 40.º, n.º 3, CT)",
+        "motivo": "Condição legal do acréscimo",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0040&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Confirmar no Decreto-Lei n.º 91/2009 (versão consolidada) o montante dos subsídios parentais e o prazo de requerimento — não consegui ler o texto consolidado numa fonte oficial.",
+      "Verificar o IRCT aplicável (ausências interpoladas da licença parental complementar e eventuais complementos).",
+      "Confirmar se a Proposta de Lei n.º 77/XVII («Trabalho XXI»), pendente na Assembleia da República em 2026, foi aprovada e publicada e se altera os arts. 40.º a 65.º CT."
+    ],
+    "fontes": [
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0040&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0043&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0044&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0049&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0051&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0052&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0053&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://www.gov.pt/servicos/requerer-o-subsidio-parental-alargado",
+      "https://portugal.gov.pt/gc25/comunicacao/noticias/governo-apresenta-proposta-que-altera-a-lei-laboral"
+    ]
+  },
+  {
+    "codigo": "TRA-054",
+    "veredicto": "corrigida",
+    "resumo": "Os critérios de seleção estavam errados e no artigo errado: a ordem legal é a do art. 368.º, n.º 2, CT (redação da Lei n.º 27/2014) — pior avaliação de desempenho com parâmetros conhecidos, menores habilitações, maior onerosidade do vínculo, menor experiência na função e menor antiguidade na empresa —, e não «antiguidade na categoria», nem desempate livre do empregador. O prazo de parecer é de 15 dias (art. 370.º, n.º 1, na redação da Lei n.º 93/2019), não «10 dias úteis»; o aviso prévio é de 15, 30, 60 ou 75 dias consoante a antiguidade (art. 371.º, n.º 3), não «60 ou 15»; a compensação é de 14 dias por ano desde a Lei n.º 13/2023 (art. 366.º, por remissão do art. 372.º), sem o «mínimo de três meses». Corrigi ainda os requisitos do art. 368.º, n.º 1, o posto compatível (n.º 4), a decisão (art. 371.º) e a ilicitude por falta de pagamento até ao termo do aviso prévio (art. 384.º).",
+    "substituicoes": [
+      {
+        "de": "— Os critérios de seleção do art. 371.º CT são obrigatórios e têm ordem de preferência legal — o seu desrespeito determina a ilicitude do despedimento.\n— A tentativa de recolocação (art. 368.º, n.º 2, CT) é requisito de validade se existir posto de trabalho compatível disponível — alerta para este ponto.",
+        "para": "— Havendo na secção ou estrutura equivalente uma pluralidade de postos de trabalho de conteúdo funcional idêntico, os critérios de seleção do art. 368.º, n.º 2, CT são obrigatórios e têm ordem legal — o seu desrespeito determina a ilicitude do despedimento (art. 384.º, al. b), CT).\n— O despedimento só é lícito se for praticamente impossível a subsistência da relação de trabalho, o que se verifica quando o empregador não disponha de outro posto compatível com a categoria profissional do trabalhador (art. 368.º, n.os 1, al. b), e 4, CT) — se existir posto compatível disponível, o despedimento é ilícito; alerta para este ponto.",
+        "motivo": "Os critérios estão no art. 368.º, n.º 2 (o art. 371.º regula a decisão); a regra do posto compatível é a do n.º 4",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0368&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- O motivo é real, sério e não imputável ao trabalhador? (controlo judicial — art. 368.º, n.º 1, CT)",
+        "para": "- Estão preenchidos os requisitos do art. 368.º, n.º 1, CT: motivos não devidos a conduta culposa do empregador ou do trabalhador; impossibilidade prática de subsistência da relação de trabalho; inexistência, na empresa, de contratos a termo para tarefas correspondentes às do posto extinto; não aplicabilidade do despedimento coletivo?",
+        "motivo": "A ficha omitia dois dos quatro requisitos legais (als. c) e d)), cuja falta torna o despedimento ilícito (art. 384.º, al. a))",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0368&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- Existem outros trabalhadores na mesma secção ou unidade económica com funções idênticas ou similares? (obrigação de aplicar critérios de seleção — art. 371.º CT)\n- Existe posto de trabalho compatível disponível na empresa para recolocação? (art. 368.º, n.º 2, CT)",
+        "para": "- Há, na secção ou estrutura equivalente, uma pluralidade de postos de trabalho de conteúdo funcional idêntico? (obrigação de aplicar os critérios de seleção — art. 368.º, n.º 2, CT)\n- Existe posto de trabalho compatível com a categoria profissional do trabalhador disponível na empresa? (art. 368.º, n.º 4, CT)\n- O trabalhador foi transferido para o posto a extinguir nos três meses anteriores ao procedimento? (direito a ser reafetado ao posto anterior, se ainda existir — art. 368.º, n.º 3, CT)",
+        "motivo": "O pressuposto legal é o conteúdo funcional idêntico (não «similar»); normas certas: art. 368.º, n.os 2, 3 e 4",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0368&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- Art. 371.º CT — ordem obrigatória dos critérios:\n  1.º Menor antiguidade na categoria\n  2.º Menor antiguidade na empresa\n  3.º Menor nível de qualificação\n  4.º Menor nível de desempenho\n  5.º Em caso de igualdade: o empregador escolhe com a obrigação de fundamentar",
+        "para": "- Art. 368.º, n.º 2, CT (redação da Lei n.º 27/2014) — ordem obrigatória dos critérios, relevantes e não discriminatórios, por referência aos titulares dos postos:\n  1.º Pior avaliação de desempenho, com parâmetros previamente conhecidos pelo trabalhador\n  2.º Menores habilitações académicas e profissionais\n  3.º Maior onerosidade pela manutenção do vínculo laboral do trabalhador para a empresa\n  4.º Menor experiência na função\n  5.º Menor antiguidade na empresa\n  (a lei não prevê critério de desempate: fundamentar a escolha [■ VERIFICAR: jurisprudência sobre empate após o 5.º critério])",
+        "motivo": "Critérios e ordem errados e desempate inventado; o regime em vigor é o do art. 368.º, n.º 2, na redação da Lei n.º 27/2014",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0368&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "**A:** [NOME DO TRABALHADOR]",
+        "para": "**A:** [NOME DO TRABALHADOR]; [comissão de trabalhadores ou, na sua falta, comissão intersindical ou comissão sindical]; [associação sindical, se o trabalhador for representante sindical] (art. 369.º, n.º 1, CT)",
+        "motivo": "A comunicação é dirigida também às estruturas representativas (art. 369.º, n.º 1, CT)",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0368&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "[Aplicação dos critérios de seleção do art. 371.º CT, com resultado fundamentado.]",
+        "para": "[Critérios para seleção dos trabalhadores a despedir (art. 369.º, n.º 1, al. c), CT) e aplicação dos critérios do art. 368.º, n.º 2, CT, com resultado fundamentado.]",
+        "motivo": "Os critérios estão no art. 368.º, n.º 2; a sua indicação na comunicação é exigida pelo art. 369.º, n.º 1, al. c)",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0368&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "[Informação sobre o direito do trabalhador a pronunciar-se no prazo de 10 dias úteis (art. 370.º, n.º 1, CT).]",
+        "para": "[Informação de que, nos 15 dias posteriores à comunicação, a estrutura representativa dos trabalhadores, o trabalhador e, sendo este representante sindical, a associação sindical podem transmitir ao empregador parecer fundamentado (art. 370.º, n.º 1, CT), e de que, nos cinco dias úteis posteriores à comunicação, podem pedir à ACT a verificação dos requisitos das als. c) e d) do n.º 1 e do n.º 2 do art. 368.º (art. 370.º, n.º 2, CT).]",
+        "motivo": "O prazo é de 15 dias desde a Lei n.º 93/2019 (e não são dias úteis); faltava a faculdade de pedir a verificação à ACT",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0368&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "[Carta de despedimento com data de cessação, compensação calculada e prazo de aviso prévio (art. 369.º CT: 60 dias se antiguidade ≥ 1 ano, 15 dias se < 1 ano).]",
+        "para": "[Decisão escrita, proferida decorridos cinco dias sobre o termo do prazo de 15 dias do art. 370.º, n.º 1 (ou sobre a receção do relatório da ACT ou o termo do prazo para o seu envio), com: motivo da extinção do posto; confirmação dos requisitos do art. 368.º, n.º 1; prova da aplicação dos critérios de determinação do posto a extinguir, se tiver havido oposição; montante, forma, momento e lugar do pagamento da compensação e dos créditos vencidos e exigíveis por efeito da cessação; data da cessação (art. 371.º, n.os 1 e 2, CT). Comunicada ao trabalhador, às entidades do art. 369.º, n.º 1, e à ACT com a antecedência mínima de 15 dias (antiguidade inferior a um ano), 30 dias (de um a menos de cinco anos), 60 dias (de cinco a menos de 10 anos) ou 75 dias (10 ou mais anos) (art. 371.º, n.º 3, CT). A compensação e os créditos têm de ser pagos até ao termo do aviso prévio (art. 371.º, n.º 4, CT), sob pena de ilicitude (arts. 368.º, n.º 5, e 384.º, al. d), CT).]",
+        "motivo": "Aviso prévio errado (são quatro escalões, no art. 371.º, n.º 3, não no art. 369.º) e faltavam o conteúdo e o momento da decisão",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0368&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- Art. 372.º CT: compensação = 12 dias de retribuição base + diuturnidades por cada ano completo de antiguidade (fração de ano proporcionalmente)\n- Mínimo: valor de 3 meses de retribuição base + diuturnidades",
+        "para": "- Art. 366.º CT, aplicável por remissão do art. 372.º: compensação de 14 dias de retribuição base e diuturnidades por cada ano completo de antiguidade, com a fração de ano calculada proporcionalmente; valor diário = (retribuição base mensal + diuturnidades) / 30 (n.os 1 e 2, als. c) e d))\n- Limites (art. 366.º, n.º 2, als. a) e b), CT): retribuição base e diuturnidades consideradas até 20 vezes a retribuição mínima mensal garantida; montante global até 12 vezes a retribuição base mensal e diuturnidades do trabalhador ou, se aplicável o limite anterior, 240 vezes a retribuição mínima mensal garantida; a lei em vigor não prevê montante mínimo [■ VERIFICAR: regime transitório para a antiguidade anterior a 1 de maio de 2023 e a 1 de outubro de 2013 — Lei n.º 13/2023 e Lei n.º 69/2013; calcular com a calculadora de compensação do plugin]",
+        "motivo": "A compensação é de 14 dias por ano desde a Lei n.º 13/2023 (art. 366.º, n.º 1) e o art. 366.º não prevê mínimo de três meses, mas tetos",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0366&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- [ ] Critérios de seleção do art. 371.º CT aplicados sequencialmente e documentados\n- [ ] Tentativa de recolocação realizada ou inexistência documentada (art. 368.º, n.º 2, CT)\n- [ ] Comunicação prévia ao trabalhador com prazo de 10 dias para pronúncia\n- [ ] Comunicação à comissão de trabalhadores ou delegado sindical\n- [ ] Compensação calculada corretamente (art. 372.º CT)\n- [ ] Prazo de aviso prévio respeitado (art. 369.º CT)",
+        "para": "- [ ] Critérios de seleção do art. 368.º, n.º 2, CT aplicados pela ordem legal e documentados\n- [ ] Inexistência de posto compatível com a categoria profissional documentada (art. 368.º, n.º 4, CT) e inexistência de contratos a termo para tarefas correspondentes (art. 368.º, n.º 1, al. c), CT)\n- [ ] Comunicação prévia escrita ao trabalhador e às estruturas representativas (art. 369.º, n.º 1, CT), com prazo de 15 dias para parecer (art. 370.º, n.º 1, CT)\n- [ ] Decisão comunicada ao trabalhador, às estruturas do art. 369.º, n.º 1, e à ACT (art. 371.º, n.º 3, CT)\n- [ ] Compensação calculada corretamente (arts. 366.º e 372.º CT) e paga, com os créditos vencidos e exigíveis, até ao termo do aviso prévio (art. 371.º, n.º 4, CT)\n- [ ] Prazo de aviso prévio respeitado (art. 371.º, n.º 3, CT)",
+        "motivo": "Normas e prazos errados (art. 371.º por 368.º, n.º 2; 10 por 15 dias; aviso prévio no art. 371.º, n.º 3) e falta do pagamento até ao termo do aviso prévio",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0368&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- Nível de qualificação: [nível]\n- Última avaliação de desempenho: [resultado]",
+        "para": "- Habilitações académicas e profissionais: [descrever]\n- Avaliação de desempenho e parâmetros previamente conhecidos pelo trabalhador: [resultado e documento]\n- Experiência na função: [anos]\n- Custo da manutenção do vínculo (para o critério da onerosidade): [descrever]",
+        "motivo": "Dados necessários para aplicar os critérios do art. 368.º, n.º 2, CT",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0368&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- [Nome, cargo, data de admissão, qualificação, desempenho — para aplicação dos critérios]",
+        "para": "- [Nome, cargo, data de admissão, habilitações, avaliação de desempenho, experiência na função, custo do vínculo — para aplicação dos critérios do art. 368.º, n.º 2, CT]",
+        "motivo": "Idem",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0368&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Calcular a compensação com as datas de admissão e cessação, aplicando o regime transitório da antiguidade anterior a 1/10/2013 e a 1/5/2023.",
+      "Confirmar se a avaliação de desempenho usada cumpre o requisito de parâmetros previamente conhecidos pelo trabalhador.",
+      "Confirmar se a Proposta de Lei n.º 77/XVII («Trabalho XXI»), pendente na Assembleia da República em 2026, foi aprovada e publicada e se altera os arts. 366.º a 372.º CT."
+    ],
+    "fontes": [
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0366&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0368&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0384&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://portugal.gov.pt/gc25/comunicacao/noticias/governo-apresenta-proposta-que-altera-a-lei-laboral"
+    ]
+  },
+  {
+    "codigo": "TRA-059",
+    "veredicto": "corrigida",
+    "titulo": "Cálculo e Reclamação de Créditos Laborais — Prazo de Prescrição e Estratégia de Recuperação",
+    "titulo_en": "Calculation and Claim of Employment Credits — Limitation Period and Recovery Strategy",
+    "resumo": "O erro central era tratar a carta extrajudicial como ato que interrompe a prescrição: o art. 323.º CC só atribui esse efeito à citação ou notificação judicial (incluindo a notificação judicial avulsa), com a regra dos cinco dias do n.º 2, e ao reconhecimento do devedor (art. 325.º CC). Corrigi também o art. 337.º CT (o n.º 2 trata da prova documental dos créditos vencidos há mais de cinco anos, não da suspensão do prazo; o n.º 3 proíbe a remissão abdicativa, não regula juros), eliminei os «prazos especiais» de férias e trabalho noturno, que não existem, corrigi os juros (juros civis de 4 %, Portaria n.º 291/2003, não «taxa de referência + 3 pp»), a competência (juízo do trabalho, art. 126.º da Lei n.º 62/2013 e art. 14.º CPT, em vez do «art. 85.º CPT») e a reclamação na insolvência (arts. 36.º e 128.º CIRE; privilégios do art. 333.º CT). O título falava de créditos «prescritos», quando a ficha serve para os reclamar antes da prescrição.",
+    "substituicoes": [
+      {
+        "de": "— O prazo de prescrição geral dos créditos laborais é de 1 ano a contar da cessação do contrato (art. 337.º, n.º 1, CT); durante a vigência, a prescrição não corre (art. 337.º, n.º 2, CT).\n— Créditos com prazo especial (férias — art. 245.º CT; trabalho noturno — art. 266.º CT) são tratados de forma autónoma.",
+        "para": "— Os créditos do empregador ou do trabalhador emergentes do contrato de trabalho, da sua violação ou cessação prescrevem decorrido um ano a partir do dia seguinte àquele em que cessou o contrato (art. 337.º, n.º 1, CT); por isso, durante a vigência do contrato o prazo não começa a correr.\n— Não há prazos especiais de prescrição para férias ou trabalho noturno: o crédito de compensação por violação do direito a férias, de indemnização por sanção abusiva ou de pagamento de trabalho suplementar, vencido há mais de cinco anos, só pode ser provado por documento idóneo (art. 337.º, n.º 2, CT).\n— Os créditos do trabalhador não podem ser extintos por remissão abdicativa, salvo através de transação judicial (art. 337.º, n.º 3, CT, na redação da Lei n.º 13/2023).",
+        "motivo": "O n.º 2 do art. 337.º CT regula a prova dos créditos antigos, não a contagem do prazo; os arts. 245.º e 266.º CT não fixam prazos de prescrição",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0337&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- Data de cessação do contrato (se já cessou): a partir desta data corre o prazo geral de 1 ano",
+        "para": "- Data de cessação do contrato (se já cessou): o prazo de 1 ano corre a partir do dia seguinte (art. 337.º, n.º 1, CT)",
+        "motivo": "Início do prazo segundo o art. 337.º, n.º 1, CT",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0337&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- Durante a vigência do contrato: a prescrição não corre (art. 337.º, n.º 2, CT) — mas atenção a créditos com prazo especial",
+        "para": "- Durante a vigência do contrato: o prazo de prescrição não começa a correr (art. 337.º, n.º 1, CT) — mas atenção à prova dos créditos vencidos há mais de cinco anos (art. 337.º, n.º 2, CT)",
+        "motivo": "Norma e regime certos do art. 337.º CT",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0337&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "  — Férias não gozadas: direito caduca no final do ano seguinte (art. 245.º CT), mas o crédito pecuniário prescreve em 1 ano após cessação\n  — Créditos de natureza civil (responsabilidade civil laboral): 3 anos (art. 498.º CC)\n- Atos interruptivos da prescrição: notificação extrajudicial (art. 323.º CC), reconhecimento pelo devedor, propositura de ação",
+        "para": "  — Férias: são gozadas no ano civil em que se vencem, podendo sê-lo até 30 de abril do ano seguinte, por acordo (art. 240.º CT); se o empregador obstar culposamente ao gozo, o trabalhador tem direito a compensação no triplo da retribuição do período em falta (art. 246.º, n.º 1, CT); na cessação, são devidas a retribuição e o subsídio das férias vencidas e não gozadas e dos proporcionais (art. 245.º CT); todos estes créditos prescrevem nos termos do art. 337.º, n.º 1, CT\n  — Indemnizações emergentes do contrato, da sua violação ou cessação: também o prazo do art. 337.º, n.º 1, CT; o prazo de 3 anos do art. 498.º CC respeita à responsabilidade extracontratual [■ VERIFICAR: enquadramento do pedido concreto e jurisprudência sobre a concorrência dos dois prazos]\n- Atos interruptivos da prescrição: citação ou notificação judicial de ato que exprima a intenção de exercer o direito, incluindo a notificação judicial avulsa (art. 323.º, n.os 1 e 4, CC; art. 256.º CPC); se a citação não se fizer nos cinco dias seguintes a ter sido requerida, por causa não imputável ao requerente, a prescrição tem-se por interrompida decorridos esses cinco dias (art. 323.º, n.º 2, CC) — propor a ação com, pelo menos, cinco dias de antecedência sobre o termo do prazo; reconhecimento do direito pelo devedor perante o titular (art. 325.º CC). Uma carta ou notificação extrajudicial não interrompe a prescrição",
+        "motivo": "O art. 323.º CC só dá efeito interruptivo a atos judiciais; o art. 245.º CT não fixa caducidade das férias; os créditos emergentes do contrato, incluindo indemnizações, seguem o art. 337.º CT",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0323&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "| Férias não gozadas | [ano(s)] | 22 dias × €[X]/dia | €[X] | [dias] | €[X] |",
+        "para": "| Férias vencidas e não gozadas (art. 245.º CT; triplo se o empregador obstou culposamente ao gozo — art. 246.º CT) | [ano(s)] | [dias] × €[X]/dia | €[X] | [dias] | €[X] |",
+        "motivo": "O valor depende dos dias em falta e é triplicado quando o empregador obstou ao gozo (art. 246.º, n.º 1, CT)",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0246&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "Juros de mora: taxa legal (Portaria do MF vigente, geralmente indexada à taxa de referência + 3pp) sobre cada crédito desde a data de vencimento.",
+        "para": "Juros de mora: à taxa dos juros civis, de 4 % ao ano (art. 559.º, n.º 1, CC; Portaria n.º 291/2003, de 8 de abril), sobre cada crédito desde a data do respetivo vencimento (arts. 805.º, n.º 2, al. a), e 806.º CC).",
+        "motivo": "Os créditos laborais vencem juros civis (4 %); a taxa «de referência + pontos» é a dos juros comerciais",
+        "fonte": "https://e-justice.europa.eu/topics/taking-legal-action/where-and-how/interest-rates/pt_pt"
+      },
+      {
+        "de": "[Invoca a prescrição do prazo (art. 337.º CT) e a interrupção pela presente notificação (art. 323.º CC).]",
+        "para": "[Não invocar efeito interruptivo da carta: a notificação extrajudicial não interrompe a prescrição (art. 323.º, n.º 1, CC). Se faltar pouco para o termo do prazo do art. 337.º, n.º 1, CT, requerer notificação judicial avulsa (art. 256.º CPC) ou propor a ação com, pelo menos, cinco dias de antecedência (art. 323.º, n.º 2, CC). A carta serve para interpelar o devedor e pode levar ao reconhecimento da dívida, que interrompe a prescrição (art. 325.º CC).]",
+        "motivo": "Uma carta não interrompe a prescrição; afirmá-lo pode fazer perder o crédito",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0323&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "[Informa que, findo o prazo sem pagamento, o trabalhador intentará ação no Tribunal do Trabalho competente ao abrigo do art. 85.º CPT, reclamará os juros moratórios devidos e solicitará condenação em custas e honorários.]",
+        "para": "[Informa que, findo o prazo sem pagamento, o trabalhador intentará ação no juízo do trabalho competente (art. 126.º, n.º 1, al. b), da Lei n.º 62/2013; competência territorial: lugar da prestação de trabalho ou domicílio do autor — art. 14.º, n.º 1, CPT), reclamará os juros moratórios devidos e pedirá a condenação em custas, incluindo as custas de parte (art. 533.º CPC).]",
+        "motivo": "A competência dos juízos do trabalho está na Lei n.º 62/2013 e a territorial no art. 14.º CPT; os honorários entram nas custas de parte",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1974A0126&nid=1974&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- [ ] Ato interruptivo da prescrição realizado (notificação extrajudicial ou ação)\n- [ ] Cálculo de juros de mora incluído (art. 323.º CC e art. 337.º, n.º 3, CT)\n- [ ] Via de cobrança mais adequada escolhida (extrajudicial / Tribunal do Trabalho / insolvência)\n- [ ] Em caso de insolvência: reclamação de créditos privilegiados no prazo legal (Lei de Insolvência)",
+        "para": "- [ ] Ato interruptivo da prescrição realizado a tempo (ação proposta ou notificação judicial avulsa requerida com, pelo menos, cinco dias de antecedência — art. 323.º CC); a carta extrajudicial não interrompe\n- [ ] Cálculo de juros de mora incluído (arts. 804.º a 806.º e 559.º CC; Portaria n.º 291/2003 — 4 %)\n- [ ] Via de cobrança mais adequada escolhida (extrajudicial / juízo do trabalho / insolvência)\n- [ ] Em caso de insolvência: reclamação de créditos no prazo fixado na sentença de declaração de insolvência, até 30 dias (arts. 36.º, n.º 1, al. j), e 128.º CIRE), invocando os privilégios creditórios do art. 333.º CT; ponderar o Fundo de Garantia Salarial [■ VERIFICAR: requisitos e prazos]",
+        "motivo": "A notificação extrajudicial não interrompe; normas dos juros erradas; regime da reclamação no CIRE e privilégios do art. 333.º CT",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0128&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Contar o prazo de 1 ano a partir do dia seguinte à cessação e, se estiver perto do fim, requerer notificação judicial avulsa ou propor a ação com pelo menos cinco dias de margem.",
+      "Confirmar o enquadramento de pedidos indemnizatórios (art. 337.º CT ou art. 498.º CC) à luz da jurisprudência.",
+      "Confirmar os requisitos e prazos do Fundo de Garantia Salarial, se o empregador estiver insolvente."
+    ],
+    "fontes": [
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0337&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0240&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0245&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0246&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0333&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0323&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0325&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0559&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0805&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0806&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0256&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0533&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=487A0014&nid=487&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1974A0126&nid=1974&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0036&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0128&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://e-justice.europa.eu/topics/taking-legal-action/where-and-how/interest-rates/pt_pt"
+    ]
+  },
+  {
+    "codigo": "TRA-060",
+    "veredicto": "corrigida",
+    "resumo": "O prazo de 30 dias está certo, mas é o do art. 80.º, n.º 1, CPT (não do art. 79.º, que trata das decisões que admitem sempre recurso); faltavam os 15 dias dos processos urgentes e o acréscimo de 10 dias para a reapreciação da prova gravada. A alçada estava errada: os € 5.000 são a alçada da 1.ª instância (a da Relação é de € 30.000), e a apelação depende do valor da causa e da sucumbência (art. 629.º, n.º 1, CPC), salvo nas ações do art. 79.º CPT; a «dupla conforme» só limita a revista. Corrigi ainda o modo de interposição (requerimento com a alegação e conclusões com o fundamento da recorribilidade, art. 81.º, n.º 1, CPT), o ónus das passagens da gravação (art. 640.º, n.º 2, al. a), CPC) e a designação do tribunal (juízo do trabalho).",
+    "substituicoes": [
+      {
+        "de": "— A impugnação da matéria de facto exige indicação expressa dos pontos de facto contestados, dos meios de prova admissíveis e da decisão de facto que o recorrente considera correta (art. 640.º CPC) — sob pena de rejeição do recurso.",
+        "para": "— A impugnação da matéria de facto exige a especificação dos concretos pontos de facto incorretamente julgados, dos concretos meios probatórios que impunham decisão diversa e da decisão que deve ser proferida (art. 640.º, n.º 1, CPC) e, sendo a prova gravada, a indicação exata das passagens da gravação (art. 640.º, n.º 2, al. a), CPC) — sob pena de rejeição.\n— O requerimento de interposição contém obrigatoriamente a alegação do recorrente, e das conclusões tem de constar o fundamento específico da recorribilidade e a identificação da decisão recorrida (art. 81.º, n.º 1, CPT).",
+        "motivo": "O ónus é de indicar os meios que impunham decisão diversa e as passagens exatas da gravação; faltava a regra do art. 81.º, n.º 1, CPT",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0640&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- Valor do recurso: a decisão ultrapassa a alçada do Tribunal da Relação (€5.000)?\n- Prazo de recurso: 30 dias a contar da notificação da sentença (art. 79.º, n.º 1, CPT) ou prazo urgente?\n- Admissibilidade: existe algum obstáculo à admissão do recurso (dupla conforme, valor, legitimidade)?",
+        "para": "- Valor e sucumbência: a causa tem valor superior à alçada do tribunal de 1.ª instância (€ 5.000) e a decisão é desfavorável ao recorrente em valor superior a metade dessa alçada (art. 629.º, n.º 1, CPC; art. 44.º, n.º 1, da Lei n.º 62/2013)? Nas ações do art. 79.º CPT (despedimento, categoria profissional, reintegração, validade ou subsistência do contrato, acidente de trabalho e doença profissional, entre outras), o recurso para a Relação é sempre admissível\n- Prazo de recurso: 30 dias a contar da notificação da sentença; 15 dias nos processos com natureza urgente (art. 26.º, n.º 1, CPT); em ambos os casos, mais 10 dias se o recurso tiver por objeto a reapreciação da prova gravada (art. 80.º CPT)\n- Admissibilidade: existe algum obstáculo à admissão do recurso (valor, sucumbência, legitimidade — art. 631.º CPC)? A dupla conforme só limita a revista para o STJ (art. 671.º, n.º 3, CPC), não a apelação",
+        "motivo": "€ 5.000 é a alçada da 1.ª instância (a da Relação é € 30.000); o prazo está no art. 80.º CPT, com 15 dias nos urgentes e mais 10 para a prova gravada; a dupla conforme não se aplica à apelação",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=487A0079&nid=487&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "— Indicação dos meios de prova: testemunho de [nome] em ata de [data], documento de fls. [X], etc.",
+        "para": "— Indicação dos concretos meios probatórios: depoimento de [nome], com indicação exata das passagens da gravação em que se funda o recurso (art. 640.º, n.º 2, al. a), CPC), documento [n.º / referência], etc.",
+        "motivo": "A falta de indicação exata das passagens da gravação leva à rejeição imediata do recurso nessa parte",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0640&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "**AO TRIBUNAL DA RELAÇÃO DE [NOME DA RELAÇÃO]**\n\n**Processo n.º [NÚMERO]**\n**Tribunal do Trabalho de [COMARCA] — [N.º DE JUÍZO]**\n\n**[RECORRENTE]**, representado pelo seu mandatário, vem apresentar as suas\n\n**ALEGAÇÕES DE RECURSO DE APELAÇÃO**",
+        "para": "**EXMO. SR. JUIZ DE DIREITO DO JUÍZO DO TRABALHO DE [LOCALIDADE] — TRIBUNAL JUDICIAL DA COMARCA DE [COMARCA] — JUIZ [N.º]**\n\n**Processo n.º [NÚMERO]**\n\n**[RECORRENTE]**, representado pelo seu mandatário, notificado da sentença e não se conformando com ela, vem dela interpor recurso de apelação para o Tribunal da Relação de [NOME DA RELAÇÃO], apresentando no próprio requerimento a respetiva alegação (art. 81.º, n.º 1, CPT):\n\n**ALEGAÇÕES DE RECURSO DE APELAÇÃO**\n\n**Venerandos Juízes Desembargadores do Tribunal da Relação de [NOME DA RELAÇÃO]**",
+        "motivo": "No processo laboral o requerimento de interposição, dirigido ao tribunal recorrido, contém a alegação (art. 81.º, n.º 1, CPT); os tribunais do trabalho são hoje juízos do trabalho dos tribunais de comarca",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=487A0079&nid=487&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "[Confirma que a sentença foi notificada em [DATA], que o prazo de 30 dias termina em [DATA] e que o recurso é tempestivo. Valor da causa: [€]. Alçada do Tribunal da Relação: [€5.000]. O recurso é admissível.]",
+        "para": "[Confirma que a sentença foi notificada em [DATA], que o prazo de [30 dias / 15 dias, se o processo for urgente], acrescido de 10 dias se houver reapreciação da prova gravada (art. 80.º CPT), termina em [DATA] e que o recurso é tempestivo. Valor da causa: [€], superior à alçada do tribunal de 1.ª instância (€ 5.000), com decaimento do recorrente superior a metade dessa alçada (art. 629.º, n.º 1, CPC) — ou: recurso sempre admissível nos termos do art. 79.º, al. [__], CPT. O recurso é admissível.]",
+        "motivo": "A alçada relevante é a do tribunal recorrido (€ 5.000), a da Relação é € 30.000; prazos do art. 80.º CPT",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1974A0044&nid=1974&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "*(numeradas, claras e sintéticas — delimitam o objeto do recurso)*",
+        "para": "*(numeradas, claras e sintéticas — delimitam o objeto do recurso; delas consta o fundamento específico da recorribilidade e a identificação da decisão recorrida — art. 81.º, n.º 1, CPT)*",
+        "motivo": "Conteúdo obrigatório das conclusões no processo laboral",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=487A0079&nid=487&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- [ ] Tempestividade verificada (30 dias da notificação — art. 79.º CPT)\n- [ ] Admissibilidade verificada (valor, dupla conforme, legitimidade)",
+        "para": "- [ ] Tempestividade verificada (30 dias da notificação; 15 nos processos urgentes; mais 10 se houver reapreciação da prova gravada — art. 80.º CPT)\n- [ ] Admissibilidade verificada (valor e sucumbência — art. 629.º, n.º 1, CPC — ou recurso sempre admissível — art. 79.º CPT; legitimidade)",
+        "motivo": "Norma do prazo errada (art. 80.º, não 79.º) e dupla conforme alheia à apelação",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=487A0079&nid=487&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- [ ] Meios de prova indicados com referência a ata ou documento (art. 640.º CPC)",
+        "para": "- [ ] Meios de prova indicados, com as passagens exatas da gravação quando a prova foi gravada (art. 640.º, n.º 2, al. a), CPC)",
+        "motivo": "Ónus específico da prova gravada",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0640&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- [ ] Valor da causa e alçada da Relação verificados",
+        "para": "- [ ] Valor da causa e alçada do tribunal de 1.ª instância (€ 5.000 — art. 44.º, n.º 1, da Lei n.º 62/2013) verificados",
+        "motivo": "A alçada que condiciona a apelação é a da 1.ª instância",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1974A0044&nid=1974&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- Tribunal a quo: [Tribunal do Trabalho de — comarca e juízo]",
+        "para": "- Tribunal a quo: [Tribunal Judicial da Comarca de ___ — Juízo do Trabalho de ___ — Juiz ___]",
+        "motivo": "Designação dos tribunais na organização judiciária em vigor",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1974A0126&nid=1974&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- Valor da causa: [€]",
+        "para": "- Valor da causa: [€]\n- Natureza do processo: [urgente (art. 26.º, n.º 1, CPT) / comum]",
+        "motivo": "A natureza urgente reduz o prazo de recurso para 15 dias (art. 80.º, n.º 2, CPT)",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=487A0026&nid=487&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Confirmar se o processo tem natureza urgente (art. 26.º, n.º 1, CPT) antes de contar o prazo.",
+      "Verificar o efeito do recurso e, se for caso disso, a caução para obter o efeito suspensivo.",
+      "Confirmar se houve alterações ao CPT posteriores ao Decreto-Lei n.º 87/2024 (última versão consultada)."
+    ],
+    "fontes": [
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=487A0026&nid=487&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=487A0079&nid=487&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0629&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0640&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0671&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1974A0044&nid=1974&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1974A0126&nid=1974&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+    ]
+  }
+]

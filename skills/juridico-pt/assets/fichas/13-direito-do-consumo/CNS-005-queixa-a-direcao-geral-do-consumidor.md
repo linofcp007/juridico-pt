@@ -3,20 +3,22 @@ codigo: CNS-005
 area: "Direito do Consumo"
 titulo: "Queixa à Direção-Geral do Consumidor"
 titulo_en: "Complaint to the Directorate-General for Consumers"
-descricao: "Redige uma queixa formal dirigida à Direção-Geral do Consumidor (DGC), entidade de supervisão da defesa do consumidor em Portugal, descrevendo a infração, qualificando juridicamente a violação, solicitando a abertura de processo de contraordenação contra o profissional e a intervenção fiscalizadora da DGC. A queixa pode ser enviada também à ASAE ou ao regulador setorial competente (ERSE, ANACOM, Banco de Portugal, etc.) conforme o setor."
-descricao_en: "Drafts a formal complaint addressed to the Directorate-General for Consumers (DGC), the consumer protection supervisory body in Portugal, describing the infringement, setting out its legal characterisation and requesting the opening of administrative offence proceedings against the trader and supervisory action by the DGC. The complaint may also be sent to the ASAE or to the competent sector regulator (ERSE, ANACOM, Banco de Portugal, etc.) depending on the sector."
+descricao: "Redige uma queixa formal dirigida à Direção-Geral do Consumidor (DGC) ou, conforme a matéria, à ASAE ou ao regulador setorial competente (ERSE, ANACOM, Banco de Portugal, etc.), descrevendo a infração, qualificando-a juridicamente e pedindo a abertura de processo de contraordenação pela entidade competente e, se for o caso, medidas cautelares. A DGC é a autoridade competente em matéria de publicidade; nas restantes práticas comerciais desleais, a fiscalização e a instrução cabem à ASAE ou ao regulador do setor."
+descricao_en: "Drafts a formal complaint addressed to the Directorate-General for Consumers (DGC) or, depending on the subject matter, to the ASAE or the competent sector regulator (ERSE, ANACOM, Banco de Portugal, etc.), describing the infringement, setting out its legal characterisation and requesting the opening of administrative offence proceedings by the competent authority and, where appropriate, interim measures. The DGC is the competent authority for advertising; for other unfair commercial practices, supervision and investigation fall to the ASAE or the sector regulator."
 ambito: nacional
-estado_citacoes: "conferidas 0 · corrigidas 0 · por conferir 3"
+estado_citacoes: "conferidas 0 · corrigidas 0 · por conferir 10"
+revisao_tecnica: "2026-10-28 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
 # Queixa à Direção-Geral do Consumidor
 
 > **Âmbito:** nacional · **Área:** Direito do Consumo · **Código:** CNS-005
-> **EN:** Complaint to the Directorate-General for Consumers. Drafts a formal complaint addressed to the Directorate-General for Consumers (DGC), the consumer protection supervisory body in Portugal, describing the infringement, setting out its legal characterisation and requesting the opening of administrative offence proceedings against the trader and supervisory action by the DGC. The complaint may also be sent to the ASAE or to the competent sector regulator (ERSE, ANACOM, Banco de Portugal, etc.) depending on the sector.
-> **Citações:** conferidas 0 · corrigidas 0 · por conferir 3. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **EN:** Complaint to the Directorate-General for Consumers. Drafts a formal complaint addressed to the Directorate-General for Consumers (DGC) or, depending on the subject matter, to the ASAE or the competent sector regulator (ERSE, ANACOM, Banco de Portugal, etc.), describing the infringement, setting out its legal characterisation and requesting the opening of administrative offence proceedings by the competent authority and, where appropriate, interim measures. The DGC is the competent authority for advertising; for other unfair commercial practices, supervision and investigation fall to the ASAE or the sector regulator.
+> **Citações:** conferidas 0 · corrigidas 0 · por conferir 10. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-28 — corrigida (5 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
-Redige uma queixa formal dirigida à Direção-Geral do Consumidor (DGC), entidade de supervisão da defesa do consumidor em Portugal, descrevendo a infração, qualificando juridicamente a violação, solicitando a abertura de processo de contraordenação contra o profissional e a intervenção fiscalizadora da DGC. A queixa pode ser enviada também à ASAE ou ao regulador setorial competente (ERSE, ANACOM, Banco de Portugal, etc.) conforme o setor.
+Redige uma queixa formal dirigida à Direção-Geral do Consumidor (DGC) ou, conforme a matéria, à ASAE ou ao regulador setorial competente (ERSE, ANACOM, Banco de Portugal, etc.), descrevendo a infração, qualificando-a juridicamente e pedindo a abertura de processo de contraordenação pela entidade competente e, se for o caso, medidas cautelares. A DGC é a autoridade competente em matéria de publicidade; nas restantes práticas comerciais desleais, a fiscalização e a instrução cabem à ASAE ou ao regulador do setor.
 
 ## Método
 
@@ -38,13 +40,13 @@ Ficha de trabalho para preparar este documento. As regras da casa prevalecem sob
 Analisa em <analise_do_caso>:
 - Qual o setor e qual a infração concreta?
 - Qual o regulador competente para este tipo de queixa?
-  - DGC: proteção geral do consumidor
-  - ASAE: segurança alimentar, práticas comerciais, publicidade enganosa
+  - DGC: publicidade, incluindo a publicidade enganosa (art. 19.º, n.º 3, DL n.º 57/2008); pedidos de informação e medidas cautelares ao abrigo do art. 21.º, n.º 2, da Lei n.º 24/96
+  - ASAE: segurança alimentar e económica; práticas comerciais desleais fora dos setores regulados (arts. 19.º, n.º 1, e 21.º, n.º 8, DL n.º 57/2008); garantias de bens (art. 47.º DL n.º 84/2021)
   - ERSE: eletricidade, gás, serviços energéticos
   - ANACOM: telecomunicações, correios, TV
   - Banco de Portugal: crédito, serviços bancários
   - ASF: seguros e fundos de pensões
-  - ERC: media e publicidade
+  - ERC: comunicação social
 - Qual a legislação violada?
 - Qual o dano e extensão (individual ou coletivo)?
 
@@ -52,9 +54,9 @@ Analisa em <analise_do_caso>:
 Identifica em <fundamentos_juridicos>:
 - Lei n.º 24/96 (Lei de Defesa do Consumidor) — direitos violados
 - Legislação específica do setor (se aplicável)
-- Regime contraordenacional: DL n.º 57/2008 (art. 20.º), Lei n.º 24/96 (art. 27.º) ou lei setorial
-- Poderes de fiscalização da DGC: Lei Orgânica da DGC [■ VERIFICAR: número do decreto atual]
-- Poderes cautelares do regulador setorial (se aplicável)
+- Regime contraordenacional: DL n.º 57/2008 (art. 21.º: contraordenação económica grave, punível nos termos do Regime Jurídico das Contraordenações Económicas, aprovado pelo DL n.º 9/2021; fiscalização e instrução pela ASAE ou pela autoridade setorialmente competente — art. 21.º, n.º 8) ou lei setorial; a Lei n.º 24/96 não prevê contraordenações
+- Poderes da DGC: art. 21.º, n.º 2, Lei n.º 24/96 (pedidos de informação, representação em juízo dos interesses coletivos e difusos, medidas cautelares) e art. 19.º, n.º 3, DL n.º 57/2008 (publicidade); Lei Orgânica da DGC [■ VERIFICAR: número do decreto atual]
+- Medidas cautelares: qualquer interessado pode pedir à autoridade competente a cessação temporária da prática comercial desleal (art. 20.º DL n.º 57/2008)
 
 ### ETAPA 3 — CONSTRUÇÃO
 Define em <estrategia>:
@@ -83,10 +85,10 @@ Redige o documento nesta estrutura:
 - Coima aplicável (indicar o escalão)
 
 **5. PEDIDOS À DGC / REGULADOR**
-- Abertura de processo contraordenacional
+- Abertura de processo contraordenacional pela entidade competente para a instrução (ou remessa da queixa a essa entidade)
 - Notificação do reclamante do resultado do processo
 - Medidas cautelares se risco de dano continuado
-- Publicação de alerta de consumidor se prática sistémica (art. 24.º LDC)
+- Se a prática for sistémica: pedido de que a DGC pondere a propositura de ação inibitória (arts. 10.º, 13.º, alínea c), e 21.º, n.º 2, alínea c), da Lei n.º 24/96)
 
 **6. DOCUMENTOS JUNTOS**
 - Lista dos anexos
@@ -146,6 +148,13 @@ Apresenta em <checklist_validacao>:
 
 | Citação | Estado | Nota |
 |---|---|---|
+| art. 19.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 19.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 21.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 21.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 21.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 21.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| arts. 19.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 47.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 20.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| art. 27.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| art. 24.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| arts. 10.º | por conferir [■ VERIFICAR] | diploma não identificado |

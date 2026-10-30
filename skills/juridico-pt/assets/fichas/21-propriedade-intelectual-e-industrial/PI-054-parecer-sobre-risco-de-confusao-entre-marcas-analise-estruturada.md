@@ -3,20 +3,22 @@ codigo: PI-054
 area: "Propriedade Intelectual e Industrial"
 titulo: "Parecer sobre Risco de Confusão entre Marcas (Análise Estruturada)"
 titulo_en: "Legal Opinion on Likelihood of Confusion between Trade Marks (Structured Analysis)"
-descricao: "Elabora parecer jurídico estruturado sobre o risco de confusão entre duas marcas, seguindo a metodologia do TJUE e do EUIPO, ao abrigo do artigo 231.º do CPI (DL n.º 110/2018) e do artigo 8.º, n.º 1, al. b), do RMUE (Regulamento (UE) 2017/1001), para suportar uma oposição, defesa ou ação de contrafação."
-descricao_en: "Prepares a structured legal opinion on the likelihood of confusion between two trade marks, following the CJEU and EUIPO methodology, under Article 231 of the CPI (Decree-Law No. 110/2018) and Article 8(1)(b) of the EUTMR (Regulation (EU) 2017/1001), to support an opposition, a defence or an infringement action."
+descricao: "Elabora parecer jurídico estruturado sobre o risco de confusão entre duas marcas, seguindo a metodologia do TJUE e do EUIPO, ao abrigo dos artigos 232.º, n.º 1, al. b), e 238.º do CPI (DL n.º 110/2018) e do artigo 8.º, n.º 1, al. b), do RMUE (Regulamento (UE) 2017/1001), para suportar uma oposição, defesa ou ação de contrafação."
+descricao_en: "Prepares a structured legal opinion on the likelihood of confusion between two trade marks, following the CJEU and EUIPO methodology, under Articles 232(1)(b) and 238 of the CPI (Decree-Law No. 110/2018) and Article 8(1)(b) of the EUTMR (Regulation (EU) 2017/1001), to support an opposition, a defence or an infringement action."
 ambito: nacional
-estado_citacoes: "sem citações"
+estado_citacoes: "conferidas 1 · corrigidas 0 · por conferir 0"
+revisao_tecnica: "2026-10-30 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
 # Parecer sobre Risco de Confusão entre Marcas (Análise Estruturada)
 
 > **Âmbito:** nacional · **Área:** Propriedade Intelectual e Industrial · **Código:** PI-054
-> **EN:** Legal Opinion on Likelihood of Confusion between Trade Marks (Structured Analysis). Prepares a structured legal opinion on the likelihood of confusion between two trade marks, following the CJEU and EUIPO methodology, under Article 231 of the CPI (Decree-Law No. 110/2018) and Article 8(1)(b) of the EUTMR (Regulation (EU) 2017/1001), to support an opposition, a defence or an infringement action.
-> **Citações:** sem citações. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **EN:** Legal Opinion on Likelihood of Confusion between Trade Marks (Structured Analysis). Prepares a structured legal opinion on the likelihood of confusion between two trade marks, following the CJEU and EUIPO methodology, under Articles 232(1)(b) and 238 of the CPI (Decree-Law No. 110/2018) and Article 8(1)(b) of the EUTMR (Regulation (EU) 2017/1001), to support an opposition, a defence or an infringement action.
+> **Citações:** conferidas 1 · corrigidas 0 · por conferir 0. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-30 — corrigida (3 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
-Elabora parecer jurídico estruturado sobre o risco de confusão entre duas marcas, seguindo a metodologia do TJUE e do EUIPO, ao abrigo do artigo 231.º do CPI (DL n.º 110/2018) e do artigo 8.º, n.º 1, al. b), do RMUE (Regulamento (UE) 2017/1001), para suportar uma oposição, defesa ou ação de contrafação.
+Elabora parecer jurídico estruturado sobre o risco de confusão entre duas marcas, seguindo a metodologia do TJUE e do EUIPO, ao abrigo dos artigos 232.º, n.º 1, al. b), e 238.º do CPI (DL n.º 110/2018) e do artigo 8.º, n.º 1, al. b), do RMUE (Regulamento (UE) 2017/1001), para suportar uma oposição, defesa ou ação de contrafação.
 
 ## Método
 
@@ -31,7 +33,7 @@ Ficha de trabalho para preparar este documento. As regras da casa prevalecem sob
 
 ### ETAPA 1 — IDENTIFICAÇÃO DOS SINAIS
 Apresenta em <identificacao_sinais>:
-- Marca A (anterioridade): sinal, classes de Nice, território, data de concessão, carácter distintivo inerente e adquirido
+- Marca A (anterioridade): sinal, classes de Nice, território, data do pedido ou de prioridade e data de concessão, carácter distintivo inerente e adquirido
 - Marca B (sinal posterior): sinal, classes, território, data de pedido ou uso
 - Tipo de marcas: nominativa / figurativa / mista / tridimensional / sonora
 
@@ -55,8 +57,8 @@ Apresenta em <comparacao_sinais>:
 
 ### ETAPA 3 — COMPARAÇÃO DOS PRODUTOS/SERVIÇOS
 Define em <comparacao_produtos>:
-- Fatores de afinidade (Canon, C-39/97): natureza, destino, uso, canais de distribuição, consumidores, grau de concorrência ou complementaridade
-- Classes de Nice: identidade vs. afinidade vs. diferença
+- Fatores de afinidade: natureza, destino, utilização e carácter concorrente ou complementar (Canon, C-39/97, n.º 23); canais de distribuição e público relevante [■ VERIFICAR: jurisprudência posterior do TJUE ou do Tribunal Geral, ou Diretrizes do EUIPO, a citar para estes fatores]
+- Classes de Nice: meramente indicativas — produtos da mesma classe podem não ser afins e produtos de classes diferentes podem sê-lo (art. 238.º, n.º 2, CPI)
 - Conclusão por classe: [idênticos / afins / diferentes]
 
 ### ETAPA 4 — APRECIAÇÃO GLOBAL DO RISCO DE CONFUSÃO
@@ -108,3 +110,9 @@ Apresenta em <checklist_risco>:
 
 **CONTEXTO:** [oposição / ação contrafação / due diligence / resposta a cease and desist]
 **Observações:** [qualquer dado relevante]
+
+## Citações desta ficha
+
+| Citação | Estado | Nota |
+|---|---|---|
+| art. 238.º, n.º 2, CPI | conferida (epígrafe) — Conceito de imitação ou de usurpação |  |

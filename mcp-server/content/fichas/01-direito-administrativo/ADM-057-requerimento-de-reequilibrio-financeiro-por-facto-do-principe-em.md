@@ -42,7 +42,7 @@ Apresenta em <analise_da_situacao>:
 ### ETAPA 2 — ANÁLISE JURÍDICA
 Apresenta em <fundamentos_juridicos>:
 - Facto do príncipe (art. 282.º, n.º 1, CCP): conduta da entidade adjudicante fora do exercício do poder contratual que afeta o equilíbrio previsto
-- Alteração anormal e imprevisível (art. 282.º, n.º 2, CCP + art. 437.º CC): requisitos — imprevisibilidade, anormalidade, não imputabilidade ao co-contratante, desequilíbrio grave
+- Alteração anormal e imprevisível (art. 282.º, n.º 2, CCP + art. 437.º CC): requisitos — imprevisibilidade, anormalidade, não imputabilidade ao cocontratante, desequilíbrio grave
 - Modalidades de reequilíbrio (art. 282.º CCP): ajustamento de preços, prorrogação do prazo, alteração das condições de exploração
 - Prazo de comunicação à entidade adjudicante: sem prazo preclusivo legal, mas exige-se diligência
 - Distinção de revisão de preços (DL n.º 6/2004): o reequilíbrio cobre situações não previstas nos índices de revisão
@@ -61,7 +61,7 @@ Redige o requerimento completo:
 **À [ENTIDADE ADJUDICANTE]**
 (Ref.ª do contrato: [número])
 
-[CO-CONTRATANTE], com o NIPC [número], sede em [morada], vem requerer a **REPOSIÇÃO DO EQUILÍBRIO FINANCEIRO** do contrato de [tipo] n.º [referência], celebrado em [data], ao abrigo do artigo 282.º do Código dos Contratos Públicos, expondo:
+[COCONTRATANTE], com o NIPC [número], sede em [morada], vem requerer a **REPOSIÇÃO DO EQUILÍBRIO FINANCEIRO** do contrato de [tipo] n.º [referência], celebrado em [data], ao abrigo do artigo 282.º do Código dos Contratos Públicos, expondo:
 
 I — IDENTIFICAÇÃO DO CONTRATO
 [Descrição do objeto, valor e prazo do contrato]
@@ -94,7 +94,7 @@ Apresenta em <checklist_validacao>:
 
 ## Dados a recolher (entrevista numa só mensagem)
 
-**CO-CONTRATANTE:**
+**COCONTRATANTE:**
 - Firma: [nome]
 - NIPC: [número]
 - Sede: [morada]
@@ -139,7 +139,7 @@ Apresenta em <checklist_validacao>:
 | art. 437.º CC | conferida (epígrafe) — Condições de admissibilidade |  |
 | art. 437.º CC | conferida (epígrafe) — Condições de admissibilidade |  |
 | art. 282.º CCP | corrigida — Reposição do equilíbrio financeiro do contrato | o número citado no catálogo não correspondia à epígrafe |
-| art. 332.º CCP | corrigida — Resolução do contrato por iniciativa do co-contratante | o número citado no catálogo não correspondia à epígrafe |
+| art. 332.º CCP | corrigida — Resolução do contrato por iniciativa do cocontratante | o número citado no catálogo não correspondia à epígrafe |
 | artigo 282.º do Código dos Contratos Públicos | conferida (epígrafe) — Reposição do equilíbrio financeiro do contrato |  |
 | Artigos 282.º e 283.º CCP | por conferir [■ VERIFICAR] | o reequilíbrio está no art. 282.º CCP; o art. 283.º trata da invalidade consequente e não se aplica |
 | art. 333.º, n.º 1, al. c), CCP | por conferir [■ VERIFICAR] | a resolução pelo cocontratante está no art. 332.º CCP, não no 333.º; confirmar a alínea |

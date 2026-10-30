@@ -77,7 +77,7 @@ Para cada nulidade invocada:
 **4. RESPOSTA AO ERRO DE DIREITO** (se invocado)
 "A sentença aplicou corretamente o direito:"
 - A norma foi corretamente identificada e interpretada
-- Acórdãos que confirmam a interpretação adoptada
+- Acórdãos que confirmam a interpretação adotada
 - Refutação da interpretação proposta pelo recorrente
 
 **5. RESPOSTA À IMPUGNAÇÃO DE FACTO** (se aplicável)

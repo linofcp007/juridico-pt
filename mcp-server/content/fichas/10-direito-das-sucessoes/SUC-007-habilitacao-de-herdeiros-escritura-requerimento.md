@@ -6,7 +6,8 @@ titulo_en: "Qualification of Heirs (Deed / Application)"
 descricao: "Redige o requerimento ou a minuta para a escritura de habilitação de herdeiros — documento que comprova quem são os sucessores do falecido, necessário para o registo de bens, levantamento de saldos bancários, transferência de veículos e demais atos pós-mortem."
 descricao_en: "Drafts the application or the draft deed of qualification of heirs (habilitação de herdeiros) — the document proving who the deceased's successors are, needed to register assets, withdraw bank balances, transfer vehicles and carry out other post-mortem acts."
 ambito: nacional
-estado_citacoes: "conferidas 4 · corrigidas 0 · por conferir 2"
+estado_citacoes: "conferidas 7 · corrigidas 0 · por conferir 4"
+revisao_tecnica: "2026-10-28 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
@@ -14,7 +15,8 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 
 > **Âmbito:** nacional · **Área:** Direito das Sucessões · **Código:** SUC-007
 > **EN:** Qualification of Heirs (Deed / Application). Drafts the application or the draft deed of qualification of heirs (habilitação de herdeiros) — the document proving who the deceased's successors are, needed to register assets, withdraw bank balances, transfer vehicles and carry out other post-mortem acts.
-> **Citações:** conferidas 4 · corrigidas 0 · por conferir 2. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 7 · corrigidas 0 · por conferir 4. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-28 — corrigida (5 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
 Redige o requerimento ou a minuta para a escritura de habilitação de herdeiros — documento que comprova quem são os sucessores do falecido, necessário para o registo de bens, levantamento de saldos bancários, transferência de veículos e demais atos pós-mortem.
 
@@ -25,7 +27,7 @@ Ficha de trabalho para preparar este documento. As regras da casa prevalecem sob
 ## Regras obrigatórias
 — NUNCA inventes legislação ou jurisprudência.
 — Se faltar dado, marca [■ VERIFICAR: o que é necessário].
-— Cita artigos reais do Código Civil (CC) e do Código do Registo Civil (CRC).
+— Cita artigos reais do Código Civil (CC), do Código do Notariado (CN) e do Código do Registo Civil.
 — Identifica a ordem de vocação hereditária aplicável (arts. 2133.º e ss. CC).
 — Lista os documentos necessários para a escritura de habilitação.
 — Linguagem jurídica formal, portuguesa.
@@ -52,9 +54,10 @@ Apresenta dentro de um bloco <fundamentos_juridicos>:
   4.º — outros colaterais até ao 4.º grau
   5.º — Estado
 - Concurso do cônjuge sobrevivo com descendentes: arts. 2139.º e ss. CC
-- União de facto: [■ VERIFICAR: Lei n.º 7/2001, de 11 de Maio, com alterações — direitos sucessórios do unido de facto]
-- Habilitação de herdeiros: processo notarial — arts. 78.º e ss. da Lei n.º 23/2013, de 5 de Março (inventário notarial) [■ VERIFICAR: legislação vigente em matéria de inventário notarial]
-- Habilitação por escritura pública: instrumento notarial com duas testemunhas (arts. 46.º e ss. CN)
+- União de facto: o unido de facto não integra as classes de sucessíveis (art. 2133.º CC) [■ VERIFICAR: Lei n.º 7/2001, de 11 de Maio, com alterações — direitos sucessórios do unido de facto]
+- Habilitação notarial: escritura pública com a declaração, feita por três pessoas que o notário considere dignas de crédito ou, em alternativa, pelo cabeça-de-casal, de que os habilitandos são herdeiros do falecido e não há quem lhes prefira na sucessão ou com eles concorra (arts. 82.º e 83.º do Código do Notariado); não podem ser declarantes os parentes sucessíveis dos habilitandos nem o cônjuge de qualquer deles (art. 84.º do Código do Notariado)
+- Habilitação nas conservatórias: procedimento simplificado de habilitação de herdeiros, com ou sem registos, promovido pelo cabeça-de-casal até ao final do terceiro mês seguinte ao da morte (arts. 210.º-A a 210.º-C do Código do Registo Civil)
+- A habilitação não se confunde com o inventário (arts. 1082.º e seguintes do CPC, desde a Lei n.º 117/2019, que revogou o regime da Lei n.º 23/2013), necessário só para a partilha nos casos do art. 2102.º, n.º 2, CC
 - Documentos obrigatórios: certidão de óbito, certidão de casamento / nascimento dos herdeiros, testamento (se existir)
 
 ### ETAPA 3 — CONSTRUÇÃO ARGUMENTATIVA / ESTRUTURA
@@ -77,7 +80,7 @@ Define:
 
 À data do óbito, o(a) falecido(a) encontrava-se [solteiro(a) / casado(a) com [nome do cônjuge] no regime de [regime de bens] / divorciado(a) / viúvo(a)].
 
-[Se casado(a):]
+[Se casado(a) em regime de comunhão geral ou de adquiridos:]
 Em consequência, metade dos bens comuns do casal constitui a meação do cônjuge sobrevivo [nome], não integrando a herança. A outra metade, acrescida dos bens próprios do falecido, constitui a herança a partilhar.
 
 **III. HERDEIROS**
@@ -97,7 +100,7 @@ Para a outorga da escritura de habilitação, devem ser apresentados:
 - Certidão de casamento (se casado(a)) — com averbamentos
 - Certidão de nascimento dos descendentes
 - Certidão de nascimento do(a) falecido(a) [■ VERIFICAR: se necessário para identificar ascendentes]
-- Testamento (se existir) — com auto de abertura e publicação
+- Certidão de teor do testamento ou da escritura de doação por morte, se existirem (art. 85.º, n.º 1, al. c), do Código do Notariado), e, sendo testamento cerrado ou internacional, o instrumento de abertura
 - Declarações de aceitação ou repúdio (se já formalizadas)
 - Documento de identificação dos outorgantes (CC e NIF)
 
@@ -155,6 +158,11 @@ Apresenta dentro de um bloco <checklist_validacao>:
 | arts. 2133.º e ss. CC | conferida (epígrafe) — Classes de sucessíveis |  |
 | arts. 2133.º e ss. CC | conferida (epígrafe) — Classes de sucessíveis |  |
 | art. 2133.º CC | conferida (epígrafe) — Classes de sucessíveis |  |
+| art. 2133.º CC | conferida (epígrafe) — Classes de sucessíveis |  |
 | arts. 2139.º e ss. CC | conferida (epígrafe) — Regras gerais |  |
-| arts. 78.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| arts. 46.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| arts. 82.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 84.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| arts. 210.º-A | por conferir [■ VERIFICAR] | diploma não identificado |
+| arts. 1082.º e seguintes do CPC | conferida (epígrafe) — Função do inventário |  |
+| art. 2102.º, n.º 2, CC | conferida (epígrafe) — Forma |  |
+| art. 85.º | por conferir [■ VERIFICAR] | diploma não identificado |

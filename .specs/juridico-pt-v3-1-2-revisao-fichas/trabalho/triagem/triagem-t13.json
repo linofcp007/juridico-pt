@@ -1,0 +1,207 @@
+[
+  {
+    "codigo": "INS-001",
+    "triagem": "rever",
+    "gravidade": "baixa",
+    "motivos": [
+      "Valor da causa indicado como o passivo total declarado; no processo de insolvência o valor processual é o do ativo do devedor indicado na petição (art. 15.º CIRE). A regra errada fica no corpo da ficha e só é corrigida no [VERIFICAR].",
+      "Na apresentação pelo devedor a declaração de insolvência segue o art. 28.º CIRE (sentença imediata); o pedido remete só para o art. 36.º.",
+      "Apresenta o dever de apresentação em 30 dias como regra geral, sem ressalvar que não abrange a pessoa singular que não seja titular de empresa (art. 18.º, n.º 2 CIRE). O PEAP referido como alternativa pode já não existir (confirmar)."
+    ]
+  },
+  {
+    "codigo": "INS-002",
+    "triagem": "rever",
+    "gravidade": "media",
+    "motivos": [
+      "A enumeração dos factos-índice do art. 20.º, n.º 1 CIRE está errada: o preceito tem só as alíneas a) a h) e a ficha cria uma alínea i) e reordena as letras (a insuficiência de bens penhoráveis é a al. e), não a b); o incumprimento de plano é a al. f); a falta de cumprimento de obrigação reveladora de impossibilidade de pagar (al. b) não consta).",
+      "'Constituição de garantias a favor de credores de dívidas não vencidas' não é facto-índice do art. 20.º; é ato resolúvel (art. 121.º CIRE). Citar alíneas erradas na petição fragiliza o pedido.",
+      "Caução do credor (isenção do Estado e da Segurança Social, 'outros credores podem ter de prestar'): o CIRE não prevê caução para o pedido de insolvência pelo credor; regra aparentemente inventada. O art. 21.º trata da desistência.",
+      "Valor da causa 'montante do crédito ou passivo estimado': o valor processual no processo de insolvência é o do ativo do devedor (art. 15.º CIRE)."
+    ]
+  },
+  {
+    "codigo": "INS-003",
+    "triagem": "rever",
+    "gravidade": "baixa",
+    "motivos": [
+      "Sugere 'oferecer depósito do crédito contestado para paralisar o processo': o CIRE não prevê este mecanismo (o pagamento do crédito leva à desistência/inutilidade, art. 21.º CIRE), pelo que a estratégia não tem base legal.",
+      "Invoca a insolvência iminente (art. 3.º CIRE) como 'distinção'; a insolvência iminente só se equipara à atual na apresentação pelo próprio devedor (art. 3.º, n.º 4), logo não releva na oposição a pedido de credor.",
+      "A ficha centra a defesa no 'ativo suficiente' e no ónus do credor, sem referir que, sendo o facto-índice provado, cabe ao devedor provar a solvência com base na escrituração (art. 30.º, n.º 4 CIRE); para pessoas coletivas o teste é também o passivo manifestamente superior ao ativo. PEAP como alternativa pode já não existir (confirmar)."
+    ]
+  },
+  {
+    "codigo": "INS-007",
+    "triagem": "rever",
+    "gravidade": "baixa",
+    "motivos": [
+      "Maioria de aprovação do plano descrita como '2/3 dos votos expressos' (art. 212.º, n.º 1 CIRE); falta a segunda exigência cumulativa: mais de metade dos votos emitidos correspondentes a créditos não subordinados (abstenções não contam). O 'quórum calculado' da checklist ficaria errado.",
+      "Descrição da parte do plano ('parte normativa') e da consequência do incumprimento ('resolução do plano e prosseguimento da liquidação') não corresponde ao regime do CIRE (art. 218.º: o perdão/moratória ficam sem efeito quanto aos créditos em mora); confirmar a terminologia e o regime."
+    ]
+  },
+  {
+    "codigo": "INS-009",
+    "triagem": "rever",
+    "gravidade": "alta",
+    "motivos": [
+      "Prazo de impugnação da lista de credores indicado como 15 dias após publicação (art. 130.º, n.º 1 CIRE): o prazo é de 10 dias, contados do termo do prazo de 15 dias de que o administrador dispõe para apresentar a lista (art. 129.º, n.º 1). Os 15 dias são do administrador, não do impugnante; a peça apresentada ao 11.º dia seria extemporânea. A ficha INS-032 indica corretamente 10 dias.",
+      "Repete o prazo errado na tempestividade da peça (artigo 1.º dos fundamentos), na checklist e na entrevista ('prazo de 15 dias conta daqui')."
+    ]
+  },
+  {
+    "codigo": "INS-010",
+    "triagem": "rever",
+    "gravidade": "alta",
+    "motivos": [
+      "A verificação ulterior de créditos (art. 146.º CIRE) não é um requerimento dirigido ao administrador da insolvência: é uma ação proposta contra a massa insolvente, os credores e o devedor, que corre por apenso ao processo de insolvência (processo comum). A ficha dirige a peça 'Ao Administrador da Insolvência'.",
+      "Prazo omitido e regra errada: a ficha diz que é admissível 'enquanto o processo não estiver encerrado'; o art. 146.º, n.º 1 fixa o prazo de seis meses subsequentes ao trânsito em julgado da sentença de declaração de insolvência (com regra própria para direitos supervenientes). Passado esse prazo o crédito já não pode ser verificado.",
+      "A estrutura de 'requerimento' (admitir o requerimento, reconhecer o crédito) tem de ser substituída por petição inicial de ação de verificação ulterior, com pedido de condenação no reconhecimento do crédito."
+    ]
+  },
+  {
+    "codigo": "INS-011",
+    "triagem": "rever",
+    "gravidade": "media",
+    "motivos": [
+      "Privilégios dos trabalhadores mal descritos: o art. 333.º, n.º 1 CT confere privilégio mobiliário geral e privilégio imobiliário especial (sobre o imóvel onde o trabalhador presta atividade); não existe privilégio 'geral imobiliário' dos trabalhadores, como a ficha indica na alínea b).",
+      "Omite a limitação do art. 97.º CIRE: os privilégios creditórios gerais do Estado, autarquias e Segurança Social só são atendidos na graduação quanto aos créditos vencidos nos 12 meses anteriores ao início do processo. Aplicar o art. 736.º CC sem este limite sobrestima a recuperação do Estado e subestima a dos comuns.",
+      "Ordem de pagamento simplificada: os privilégios gerais (mobiliário) só recaem sobre os bens não afetos a garantias reais/privilégios especiais e a graduação entre hipoteca, privilégio especial imobiliário e retenção (arts. 751.º, 759.º CC) tem regras próprias; o mapa 'Classe 1 garantidos / Classe 2 privilegiados' pode produzir graduação incorreta."
+    ]
+  },
+  {
+    "codigo": "INS-014",
+    "triagem": "rever",
+    "gravidade": "alta",
+    "motivos": [
+      "Art. 186.º, n.º 1 CIRE apresentado como 'presunção'; é a cláusula geral (insolvência criada ou agravada por atuação dolosa ou com culpa grave nos três anos anteriores). As presunções estão nos n.os 2 (inilidíveis) e 3 (ilidíveis).",
+      "A lista de 'presunções inilidíveis' do n.º 2 está errada: inclui 'especulação em mercadorias ou títulos a prazo', 'falta de cumprimento dos deveres contabilísticos' e 'distribuição de lucros ilegais', que não constam do n.º 2 (a falta de contas/de apresentação são presunções ilidíveis de culpa grave do n.º 3, als. a) e b)), e omite as reais (dissipação do património, agravamento artificial do passivo, compras a crédito revendidas abaixo do preço corrente, disposição de bens em proveito pessoal, uso do crédito ou bens da empresa em proveito pessoal ou de terceiros, exploração deficitária, incumprimento reiterado dos deveres de apresentação e colaboração).",
+      "O n.º 3 é descrito como 'situação de incapacidade de cumprimento'; são o incumprimento do dever de requerer a insolvência e do dever de elaborar/depositar as contas. Um parecer que conclua 'culposa inevitável' com base nestes factos classificaria mal as presunções.",
+      "Efeitos do art. 189.º, n.º 2 resumidos sem referir a identificação das pessoas afetadas e do grau de culpa, a inibição também para cargos em órgãos de sociedades/associações, nem a responsabilidade solidária entre afetados (n.º 4)."
+    ]
+  },
+  {
+    "codigo": "INS-015",
+    "triagem": "rever",
+    "gravidade": "alta",
+    "motivos": [
+      "Mecanismo errado: a resolução em benefício da massa não é um 'requerimento' ao tribunal para 'declarar resolvido o ato'; é um ato extrajudicial do administrador, feito por carta registada com aviso de receção (art. 123.º, n.º 1 CIRE). Só depois haverá impugnação judicial pelo terceiro (art. 125.º) ou ação de restituição se este não entregar o bem. A peça proposta não é a adequada.",
+      "Prazos errados no corpo: '2 anos/5 anos' e 'prazo de resolução'. O art. 123.º, n.º 1 fixa seis meses a contar do conhecimento do ato pelo administrador e dois anos a contar da declaração de insolvência; o período suspeito dos arts. 120.º e 121.º é de dois anos anteriores ao início do processo. O [VERIFICAR] contradiz o texto.",
+      "Lista do art. 121.º com critério inventado: 'atos onerosos com valor superior a 50% do ativo com pessoas relacionadas' não existe; o CIRE resolve sem outros requisitos os atos onerosos celebrados com pessoas especialmente relacionadas no período de dois anos, sem limiar de 50% do ativo. Os períodos de seis meses atribuídos a cada alínea também têm de ser conferidos.",
+      "Art. 124.º descrito como proteção do terceiro de boa-fé na resolução condicional: trata dos efeitos em relação a terceiros subadquirentes; a má-fé do beneficiário é requisito do art. 120.º, n.º 4."
+    ]
+  },
+  {
+    "codigo": "INS-016",
+    "triagem": "rever",
+    "gravidade": "alta",
+    "motivos": [
+      "Prazo de impugnação de 30 dias e peça de 'impugnação' a requerer a 'ineficácia da resolução': o art. 125.º CIRE prevê ação proposta contra a massa insolvente, por apenso ao processo, em prazo contado em meses (não 30 dias) a partir da receção da carta de resolução. Seguir a ficha leva a escolher o meio e o prazo errados.",
+      "Prazos da resolução descritos como '2 anos do conhecimento, máximo 5 anos do ato'; o art. 123.º, n.º 1 fixa seis meses a contar do conhecimento pelo administrador e dois anos a contar da declaração de insolvência. A defesa 'prazo expirado' sairia errada.",
+      "Boa-fé do impugnante invocada com base no art. 124.º: o art. 124.º trata de terceiros subadquirentes. A má-fé do beneficiário é requisito da resolução condicional (art. 120.º, n.º 4); na resolução incondicional (art. 121.º) a boa-fé é irrelevante, o que a ficha não esclarece. A ficha também refere 'ato fora dos prazos' como fundamento sem os prazos corretos."
+    ]
+  },
+  {
+    "codigo": "INS-021",
+    "triagem": "rever",
+    "gravidade": "media",
+    "motivos": [
+      "A cláusula 5.ª propõe como condição resolutiva automática o devedor 'apresentar-se à insolvência ou ser declarado insolvente'. Nos termos do art. 119.º, n.º 1 CIRE é ineficaz a cláusula que atribua à insolvência de uma das partes o valor de condição resolutiva ou de direito de resolução; a cláusula seria inoperante face à massa insolvente.",
+      "A ficha não distingue o acordo extrajudicial puramente contratual (vincula só os credores que o assinam, sem efeitos erga omnes) do regime extrajudicial estruturado de recuperação de empresas e do PER; a pergunta 'credores que não participam' fica sem consequência jurídica e o acordo pode ser resolvido ou atacado em insolvência subsequente (arts. 120.º e ss. CIRE: resolução de pagamentos e garantias do período suspeito)."
+    ]
+  },
+  {
+    "codigo": "INS-023",
+    "triagem": "rever",
+    "gravidade": "media",
+    "motivos": [
+      "A lista do art. 24.º CIRE é dada como 'completa' mas não corresponde ao preceito: inclui documentos que o artigo não exige (ata de deliberação dos sócios a autorizar a apresentação; certidões de dívidas à AT e Segurança Social) e omite os exigidos (relação de credores com natureza, vencimento e garantias, identificação dos cinco maiores credores, relação das ações e execuções pendentes, contas anuais e documentos de prestação de contas dos últimos três exercícios, relação de pessoas especialmente relacionadas e de trabalhadores).",
+      "Consequência da falta de documentos descrita como 'possível indeferimento liminar'; o art. 27.º, n.º 1 CIRE prevê primeiro um convite ao aperfeiçoamento (prazo curto) para suprir vícios sanáveis, só havendo indeferimento se não forem corrigidos.",
+      "O dever de apresentação em 30 dias (art. 18.º) não se aplica à pessoa singular que não seja titular de empresa; a ficha trata-o como regra para todos os tipos de devedor."
+    ]
+  },
+  {
+    "codigo": "INS-026",
+    "triagem": "rever",
+    "gravidade": "media",
+    "motivos": [
+      "Art. 39.º CIRE descrito como permitindo ao juiz 'não declarar a insolvência' ('dispensar o processo antes da declaração'): havendo insuficiência presumida da massa, o juiz declara a insolvência, faz menção da insuficiência na sentença e o processo é encerrado após o trânsito, salvo se algum interessado, no prazo legal, requerer o prosseguimento depositando a quantia fixada para as custas.",
+      "Consequências do encerramento: indica 'libertação do devedor singular'. O encerramento não exonera a pessoa singular: os credores recuperam o direito de executar o devedor (art. 233.º CIRE), salvo concessão da exoneração do passivo restante.",
+      "Encerramento 'por cumprimento do plano': o art. 230.º, n.º 1 prevê o encerramento com o trânsito da homologação do plano (não com o seu cumprimento integral), pelo que a ficha situa o fundamento no momento errado.",
+      "A tabela de fundamentos de encerramento mistura os arts. 39.º, 230.º e 234.º (este trata dos efeitos nas sociedades) e deixa de fora o encerramento por insuficiência superveniente (art. 232.º) e a pedido do devedor (art. 230.º, n.º 1, c))."
+    ]
+  },
+  {
+    "codigo": "INS-027",
+    "triagem": "rever",
+    "gravidade": "media",
+    "motivos": [
+      "Exoneração do passivo restante com prazo de 5 anos ('EPR após 5 anos limpa as dívidas residuais'): desatualizado. Desde a Lei n.º 9/2022 o período de cessão é de 3 anos (art. 239.º, n.º 2 CIRE). Aconselhar o devedor singular com 5 anos conduz a uma estratégia errada.",
+      "Pressuposto do PER descrito como 'insolvência iminente ou dificuldade económica'; deve ser verificado face à redação vigente do art. 17.º-A (situação económica difícil ou insolvência, ainda que atual, desde que o devedor seja suscetível de recuperação).",
+      "Prazo do PER ('3 meses + 1 mês') e quórum de aprovação ('2/3 dos votos expressos + > 50% créditos não subordinados') devem ser conferidos com o art. 17.º-D e o art. 17.º-F vigentes, que têm também uma exigência de participação mínima (credores com pelo menos um terço dos créditos com direito de voto) e regras de classes após a reforma de 2022."
+    ]
+  },
+  {
+    "codigo": "INS-028",
+    "triagem": "rever",
+    "gravidade": "media",
+    "motivos": [
+      "Privilégios dos créditos laborais mal descritos: o art. 333.º, n.º 1 CT confere privilégio mobiliário geral e privilégio imobiliário especial; não há privilégio 'geral imobiliário' dos trabalhadores. A ficha classifica em 'privilégio geral sobre móveis e imóveis'.",
+      "Limites inventados: 'retribuições em atraso até 6 meses e indemnizações até 1 ano' como âmbito do privilégio do art. 333.º CT. O privilégio abrange os créditos emergentes do contrato, da sua violação ou cessação sem esse limite; o limite de seis meses pertence ao Fundo de Garantia Salarial (DL n.º 59/2015: créditos vencidos nos seis meses anteriores ao pedido, com teto), não ao privilégio.",
+      "Art. 347.º CT apresentado como 'caducidade do contrato por declaração de insolvência': o n.º 1 diz o contrário, a declaração de insolvência não faz cessar os contratos de trabalho; é o administrador que, após encerramento do estabelecimento ou quanto a postos não indispensáveis, faz cessar os contratos (com compensação nos termos do art. 366.º CT). A natureza do crédito (sobre a insolvência ou dívida da massa) depende do momento da cessão e deve ser tratada."
+    ]
+  },
+  {
+    "codigo": "INS-029",
+    "triagem": "rever",
+    "gravidade": "media",
+    "motivos": [
+      "Trata as presunções do art. 186.º, n.º 2 CIRE como ilidíveis e constrói a defesa na 'ilisão' de cada uma ('lista dos 9 critérios'). Essas presunções são inilidíveis (a insolvência é 'sempre culposa'); as ilidíveis são as do n.º 3 (culpa grave por falta de apresentação e de contas). A defesa tem de impugnar os factos, não ilidir a presunção, e o nexo causal não é exigível quanto aos factos do n.º 2.",
+      "Descreve como 'critérios do n.º 1' a destruição de bens, desvio de ativos, créditos fictícios e contabilidade; o n.º 1 é a cláusula geral (dolo ou culpa grave nos três anos anteriores) e a lista concreta está no n.º 2, que tem oito alíneas, não nove.",
+      "Qualifica a responsabilidade do art. 189.º, n.º 2, al. e) como 'subsidiária'; a indemnização aos credores é fixada na sentença de qualificação, até ao montante dos créditos não satisfeitos, e as pessoas afetadas respondem solidariamente (art. 189.º, n.º 4). Falta o prazo da oposição do afetado no incidente (art. 188.º) e o peça é chamada 'contestação'."
+    ]
+  },
+  {
+    "codigo": "INS-031",
+    "triagem": "rever",
+    "gravidade": "media",
+    "motivos": [
+      "A notificação do administrador informa o terceiro de que dispõe de 30 dias para 'deduzir oposição judicial'. O art. 125.º CIRE prevê impugnação por ação contra a massa insolvente, por apenso, com prazo em meses a contar da receção da carta de resolução. O prazo e o meio indicados ao terceiro estão errados num ato a emitir pelo administrador.",
+      "Período retroativo '[2/4] anos': o CIRE não prevê 4 anos para o período suspeito dos arts. 120.º e 121.º (dois anos anteriores ao início do processo); a ficha deve usar dois anos. A exigência de juros legais 'desde a data do ato' no efeito restitutório (art. 126.º) não tem base clara no preceito, que manda reconstituir a situação como se o ato não tivesse sido praticado.",
+      "Forma da resolução: o art. 123.º, n.º 1 exige carta registada com aviso de receção (a ficha fala em 'notificação' genérica); a ficha deve incluir esta formalidade e o prazo de seis meses a contar do conhecimento do ato."
+    ]
+  },
+  {
+    "codigo": "INS-033",
+    "triagem": "rever",
+    "gravidade": "media",
+    "motivos": [
+      "Aponta o art. 216.º CIRE como 'homologação forçada / cramdown': o art. 216.º trata da recusa de homologação a pedido de interessado (proteção da minoria que fica pior do que na liquidação). O plano de insolvência do CIRE não prevê votação por classes com imposição a classes dissidentes (cross-class cramdown), que existe só no PER após a reforma de 2022. A ficha cria um mecanismo que o CIRE não tem para o plano de insolvência.",
+      "Regra de votação descrita como 'maioria de 2/3 dos votos emitidos' (art. 212.º, n.º 1); falta a segunda maioria cumulativa: mais de metade dos votos emitidos correspondentes a créditos não subordinados, com as abstenções excluídas.",
+      "Exige um 'relatório de viabilidade económica' como conteúdo obrigatório (art. 195.º, n.º 2, al. c)) e 'classes de credores' (art. 212.º) que o CIRE não impõe com esse sentido; o plano de insolvência assenta no conteúdo do art. 195.º e no tratamento dos créditos dos arts. 194.º e seguintes, sem classes de voto."
+    ]
+  },
+  {
+    "codigo": "INS-017",
+    "triagem": "ok"
+  },
+  {
+    "codigo": "INS-018",
+    "triagem": "ok"
+  },
+  {
+    "codigo": "INS-019",
+    "triagem": "ok"
+  },
+  {
+    "codigo": "INS-020",
+    "triagem": "ok"
+  },
+  {
+    "codigo": "INS-025",
+    "triagem": "ok"
+  },
+  {
+    "codigo": "INS-032",
+    "triagem": "ok"
+  }
+]

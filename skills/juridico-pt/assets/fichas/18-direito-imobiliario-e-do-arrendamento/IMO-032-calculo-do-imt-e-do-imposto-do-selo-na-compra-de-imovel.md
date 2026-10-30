@@ -6,7 +6,8 @@ titulo_en: "Calculation of IMT and Stamp Duty on a Property Purchase"
 descricao: "Elabora o cálculo estimado do Imposto Municipal sobre as Transmissões Onerosas de Imóveis (IMT) e do Imposto do Selo devidos na compra de um imóvel em Portugal, com base no preço de compra ou no Valor Patrimonial Tributário (VPT), identificando a taxa aplicável, o escalão, as isenções e o total a pagar."
 descricao_en: "Prepares an estimated calculation of the Municipal Property Transfer Tax (Imposto Municipal sobre as Transmissões Onerosas de Imóveis, IMT) and the Stamp Duty due on buying a property in Portugal, based on the purchase price or the Tax Asset Value (Valor Patrimonial Tributário, VPT), identifying the applicable rate, the bracket, exemptions and the total payable."
 ambito: nacional
-estado_citacoes: "conferidas 0 · corrigidas 0 · por conferir 7"
+estado_citacoes: "conferidas 0 · corrigidas 0 · por conferir 15"
+revisao_tecnica: "2026-10-28 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
@@ -14,7 +15,8 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 
 > **Âmbito:** nacional · **Área:** Direito Imobiliário e do Arrendamento · **Código:** IMO-032
 > **EN:** Calculation of IMT and Stamp Duty on a Property Purchase. Prepares an estimated calculation of the Municipal Property Transfer Tax (Imposto Municipal sobre as Transmissões Onerosas de Imóveis, IMT) and the Stamp Duty due on buying a property in Portugal, based on the purchase price or the Tax Asset Value (Valor Patrimonial Tributário, VPT), identifying the applicable rate, the bracket, exemptions and the total payable.
-> **Citações:** conferidas 0 · corrigidas 0 · por conferir 7. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 0 · corrigidas 0 · por conferir 15. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-28 — corrigida (11 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
 Elabora o cálculo estimado do Imposto Municipal sobre as Transmissões Onerosas de Imóveis (IMT) e do Imposto do Selo devidos na compra de um imóvel em Portugal, com base no preço de compra ou no Valor Patrimonial Tributário (VPT), identificando a taxa aplicável, o escalão, as isenções e o total a pagar.
 
@@ -26,8 +28,9 @@ Ficha de trabalho para preparar este documento. As regras da casa prevalecem sob
 — As taxas de IMT variam com o valor e o tipo de imóvel (habitação própria permanente vs. outros) [■ VERIFICAR: tabelas em vigor — art. 17.º CIMT].
 — O IMT incide sobre o maior valor entre o preço de compra e o VPT (art. 12.º CIMT).
 — Habitação própria permanente até determinado valor: isenção ou redução [■ VERIFICAR: limites em vigor — atualizados anualmente].
+— IMT Jovem: na primeira aquisição de habitação própria e permanente por quem tenha até 35 anos e não seja dependente para efeitos de IRS, isenção até ao limite do 1.º escalão da tabela da al. b) do n.º 1 do art. 17.º CIMT e tributação só do excedente por essa tabela (art. 9.º, n.ºs 2 a 5, CIMT), excluídos os que sejam ou tenham sido, nos três anos anteriores, titulares de prédio urbano habitacional (n.º 3); no Imposto do Selo há a dedução correspondente (art. 7.º-A do Código do Imposto do Selo) [■ VERIFICAR: limites em vigor].
 — Imposto do Selo verba 1.1 TGIS: 0,8% sobre o valor tributável (mesmo que IMT).
-— Para hipoteca: verba 17.3 TGIS: [■ VERIFICAR taxa em vigor] × valor do empréstimo.
+— Para o crédito à habitação: verba 17.1 TGIS sobre o capital utilizado (0,6 % se o prazo for igual ou superior a cinco anos — verba 17.1.3), liquidado pelo banco; os juros pagam Imposto do Selo à parte (verba 17.3.1, 4 %); a hipoteca constituída em simultâneo com o crédito não é tributada autonomamente (verba 10 TGIS).
 — NUNCA inventas tabelas ou taxas que não existam — usa [■ VERIFICAR] quando não tens o valor exato.
 
 ---
@@ -48,9 +51,9 @@ Apresenta dentro de um bloco <analise_do_caso>:
 Apresenta dentro de um bloco <fundamentos_juridicos>:
 - Art. 12.º CIMT (valor tributável — maior entre preço e VPT)
 - Art. 17.º CIMT (tabelas de taxas — habitação própria permanente vs. outros)
-- Art. 9.º CIMT (isenções — habitação própria permanente até limite legal [■ VERIFICAR])
+- Art. 9.º CIMT (isenção da aquisição para habitação própria e permanente até ao limite do 1.º escalão — n.º 1; IMT Jovem — n.ºs 2 a 5) [■ VERIFICAR: limites em vigor]
 - Verba 1.1 TGIS (Imposto do Selo na transmissão — 0,8%)
-- Verba 17.3 TGIS (IS sobre hipoteca — [■ VERIFICAR taxa])
+- Verba 17.1 TGIS (IS sobre a utilização do crédito — 0,6 % no prazo igual ou superior a cinco anos, verba 17.1.3) e verba 10 TGIS (garantias, como a hipoteca: não tributadas quando materialmente acessórias do crédito tributado e constituídas em simultâneo)
 - Art. 2.º CIMT (incidência objetiva)
 
 ### ETAPA 3 — CONSTRUÇÃO (Mapa de Cálculo)
@@ -61,7 +64,7 @@ Define em <plano_calculo>:
 - Parcela a abater
 - IMT final
 - IS na transmissão
-- IS na hipoteca (se aplicável)
+- IS sobre o crédito (se aplicável)
 - Total de impostos
 
 ### ETAPA 4 — EXPOSIÇÃO ESTRUTURADA (O Cálculo)
@@ -79,7 +82,7 @@ Financiamento: [€ valor / "sem financiamento"]
 
 **1. IMPOSTO MUNICIPAL SOBRE TRANSMISSÕES (IMT)**
 
-[■ VERIFICAR: tabelas IMT em vigor para o ano de [ano] — publicadas por Portaria]
+[■ VERIFICAR: tabelas do art. 17.º CIMT em vigor para o ano de [ano] — atualizadas pela Lei do Orçamento do Estado (para 2026, pela Lei n.º 73-A/2025)]
 
 Para habitação própria permanente:
 Escalão aplicável: de €[X] a €[Y]
@@ -92,6 +95,9 @@ IMT = €[calcular]
 "Para habitação própria permanente com valor tributável até €[limite legal VERIFICAR], há isenção total de IMT nos termos do art. 9.º, n.º 1 CIMT.
 IMT = €0,00 — ISENTO"
 
+[Se IMT Jovem (art. 9.º, n.ºs 2 a 5, CIMT):]
+"Primeira aquisição de habitação própria e permanente por adquirente com idade igual ou inferior a 35 anos: isenção até €[limite do 1.º escalão da al. b) do n.º 1 do art. 17.º CIMT — VERIFICAR]; acima desse valor, IMT segundo a tabela da al. b) do n.º 1 do art. 17.º CIMT; Imposto do Selo com a dedução do art. 7.º-A do Código do Imposto do Selo."
+
 [Se sem isenção:]
 "Valor tributável superior ao limiar de isenção. IMT calculado conforme tabela:
 IMT = €[calcular]"
@@ -103,8 +109,8 @@ IS (transmissão) = 0,8% × €[valor tributável] = €[calcular]
 
 ---
 
-**3. IMPOSTO DO SELO — HIPOTECA (Verba 17.3 TGIS)** [Se aplicável]
-IS (hipoteca) = [■ VERIFICAR: taxa verba 17.3] × €[valor do empréstimo] = €[calcular]
+**3. IMPOSTO DO SELO — CRÉDITO À HABITAÇÃO (Verba 17.1 TGIS)** [Se aplicável]
+IS (crédito) = 0,6 % (verba 17.1.3, prazo igual ou superior a cinco anos) × €[valor do empréstimo] = €[calcular] — liquidado pelo banco; a hipoteca simultânea não paga selo autónomo (verba 10 TGIS); os juros pagam 4 % ao longo do contrato (verba 17.3.1)
 
 ---
 
@@ -114,7 +120,7 @@ IS (hipoteca) = [■ VERIFICAR: taxa verba 17.3] × €[valor do empréstimo] = 
 |------|-----------|
 | IMT | [valor ou "Isento"] |
 | IS — Transmissão | [valor] |
-| IS — Hipoteca | [valor ou "N/A"] |
+| IS — Crédito (verba 17.1.3) | [valor ou "N/A"] |
 | Emolumentos notariais | [■ VERIFICAR] |
 | Emolumentos registo predial | [■ VERIFICAR] |
 | **TOTAL ESTIMADO DE CUSTOS DE TRANSAÇÃO** | **€[soma]** |
@@ -125,7 +131,7 @@ Apresenta dentro de um bloco <checklist_validacao>:
 - [ ] Isenção de IMT verificada (se habitação própria permanente)
 - [ ] Escalão de IMT identificado com taxa e parcela a abater
 - [ ] IS sobre transmissão: 0,8% do valor tributável
-- [ ] IS sobre hipoteca calculado (se aplicável)
+- [ ] IS sobre o crédito calculado (verba 17.1.3, se aplicável)
 - [ ] Emolumentos notariais e de registo referenciados [■ VERIFICAR]
 - [ ] Total estimado apresentado
 
@@ -146,6 +152,7 @@ Apresenta dentro de um bloco <checklist_validacao>:
 
 **COMPRADOR:**
 - Pessoa singular ou coletiva: [singular / coletiva]
+- Idade e primeira aquisição de habitação própria e permanente (IMT Jovem): [idade / sim ou não]
 - Residência fiscal em Portugal: [sim/não]
 
 ## Citações desta ficha
@@ -153,9 +160,17 @@ Apresenta dentro de um bloco <checklist_validacao>:
 | Citação | Estado | Nota |
 |---|---|---|
 | art. 17.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 17.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 17.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 17.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 17.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 12.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 9.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 9.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 9.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 7.º-A | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 7.º-A | por conferir [■ VERIFICAR] | diploma não identificado |
 | Art. 12.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | Art. 17.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | Art. 9.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | Art. 2.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| art. 9.º | por conferir [■ VERIFICAR] | diploma não identificado |

@@ -1,0 +1,205 @@
+[
+ {
+  "codigo": "DIG-007",
+  "veredicto": "corrigida",
+  "resumo": "A lista dos nove critérios não correspondia às Orientações WP248 rev.01: incluía as transferências internacionais (retiradas na revisão de outubro de 2017), omitia o tratamento em grande escala como critério autónomo e acrescentava a «larga escala» ao controlo sistemático e aos dados sensíveis; corrigiu-se a lista e a regra dos dois critérios. O parecer do EPD estava atribuído ao art. 35.º, n.º 9, quando consta do n.º 2 (o n.º 9 é a opinião dos titulares), e a consulta prévia à CNPD era apresentada como recomendação, quando o art. 36.º, n.º 1, a torna obrigatória. Corrigiu-se ainda a citação literal do art. 35.º, n.º 1.",
+  "substituicoes": [
+   {
+    "de": "— A AIPD só é obrigatória se o tratamento for \"suscetível de resultar num elevado risco\" — avalia primeiro se é necessária.",
+    "para": "— A AIPD só é obrigatória se o tratamento for \"suscetível de implicar um elevado risco para os direitos e liberdades das pessoas singulares\" (art. 35.º, n.º 1, RGPD) — avalia primeiro se é necessária.",
+    "motivo": "Citação entre aspas desconforme com o texto oficial do art. 35.º, n.º 1, RGPD.",
+    "fonte": "https://publications.europa.eu/resource/celex/32016R0679"
+   },
+   {
+    "de": "— Se o risco residual for alto após mitigação: recomendar consulta prévia à CNPD (art. 36.º RGPD).",
+    "para": "— Se o risco residual for alto após mitigação: a consulta prévia à CNPD é obrigatória antes de iniciar o tratamento (art. 36.º, n.º 1, RGPD).",
+    "motivo": "O art. 36.º, n.º 1, RGPD impõe a consulta prévia («consulta a autoridade de controlo antes de proceder ao tratamento»); não é mera recomendação.",
+    "fonte": "https://publications.europa.eu/resource/celex/32016R0679"
+   },
+   {
+    "de": "- Aplica-se algum dos 9 critérios WP29 para identificar \"elevado risco\"?:\n  1. Avaliação/perfilagem sistemática\n  2. Decisão automatizada com efeitos jurídicos\n  3. Monitorização sistemática em larga escala\n  4. Dados sensíveis (art. 9.º/10.º) em larga escala\n  5. Dados de titulares vulneráveis (menores, doentes, idosos)\n  6. Tratamento inovador ou uso de novas tecnologias\n  7. Tratamentos que impedem titulares de exercer direitos/serviços\n  8. Transferência além-fronteiras com riscos adicionais\n  9. Combinação de conjuntos de dados além das expetativas razoáveis\n- A AIPD é obrigatória (2+ critérios) ou recomendada (1 critério)?",
+    "para": "- Aplica-se algum dos 9 critérios das Orientações WP248 rev.01 (WP29) para identificar \"elevado risco\"?:\n  1. Avaliação ou classificação, incluindo a definição de perfis e a previsão\n  2. Decisão automatizada com efeitos jurídicos ou efeitos similares significativos\n  3. Controlo sistemático dos titulares\n  4. Dados sensíveis ou de natureza muito pessoal (art. 9.º e art. 10.º RGPD)\n  5. Dados tratados em grande escala\n  6. Correspondência ou combinação de conjuntos de dados além das expetativas razoáveis do titular\n  7. Dados de titulares vulneráveis (menores, trabalhadores, doentes, idosos)\n  8. Utilização inovadora ou aplicação de novas soluções tecnológicas ou organizativas\n  9. Tratamentos que impedem os titulares de exercer um direito ou de utilizar um serviço ou um contrato\n- Em regra, 2 ou mais critérios indicam que a AIPD é necessária; um só critério pode bastar, consoante o caso. Se, apesar dos critérios, se concluir que não há elevado risco, justificar e documentar a decisão de não fazer a AIPD, com o parecer do EPD.",
+    "motivo": "A lista não seguia o WP248 rev.01: as transferências para fora da UE não são critério, o tratamento em grande escala é critério autónomo e o controlo sistemático e os dados sensíveis não exigem grande escala; o WP248 diz que dois critérios bastam «na maioria dos casos» e que um só pode bastar, e não distingue AIPD obrigatória de recomendada.",
+    "fonte": "https://ec.europa.eu/newsroom/just/document.cfm?doc_id=47711"
+   },
+   {
+    "de": "- Art. 35.º, n.º 9 RGPD: consulta do EPD",
+    "para": "- Art. 35.º, n.º 2 RGPD: parecer do EPD, quando tenha sido designado\n- Art. 35.º, n.º 9 RGPD: opinião dos titulares ou dos seus representantes, se for adequado",
+    "motivo": "O parecer do EPD está no art. 35.º, n.º 2; o n.º 9 trata da opinião dos titulares ou dos seus representantes.",
+    "fonte": "https://publications.europa.eu/resource/celex/32016R0679"
+   },
+   {
+    "de": "[ ] Alto — Recomenda-se consulta prévia à CNPD nos termos do art. 36.º RGPD antes de iniciar o tratamento.",
+    "para": "[ ] Alto — É obrigatória a consulta prévia à CNPD nos termos do art. 36.º RGPD antes de iniciar o tratamento.",
+    "motivo": "O art. 36.º, n.º 1, RGPD torna a consulta prévia obrigatória quando o risco elevado subsiste.",
+    "fonte": "https://publications.europa.eu/resource/celex/32016R0679"
+   },
+   {
+    "de": "- [ ] Consulta prévia CNPD recomendada se risco residual alto (art. 36.º)",
+    "para": "- [ ] Consulta prévia à CNPD feita antes do início do tratamento, se o risco residual for alto (art. 36.º RGPD — obrigatória)",
+    "motivo": "A consulta prévia do art. 36.º RGPD é obrigatória, não recomendada.",
+    "fonte": "https://publications.europa.eu/resource/celex/32016R0679"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar no Diário da República a lista vigente da CNPD de tratamentos sujeitos a AIPD (art. 35.º, n.º 4, RGPD; art. 6.º, n.º 1, al. c), da Lei n.º 58/2019), que fontes secundárias identificam como o Regulamento n.º 798/2018, de 30 de novembro.",
+   "O CEPD adotou em 10/3/2026, para consulta pública, um modelo de AIPD («Template [2026]», versão 1.0), de uso facultativo; ponderar alinhar a estrutura do documento com esse modelo.",
+   "A escala probabilidade × gravidade é uma metodologia possível (considerandos 76 e 90 RGPD), não imposta pelo WP248; o responsável pode usar outra, desde que documentada."
+  ],
+  "fontes": [
+   "https://publications.europa.eu/resource/celex/32016R0679",
+   "https://ec.europa.eu/newsroom/article29/items/611236",
+   "https://ec.europa.eu/newsroom/just/document.cfm?doc_id=47711",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3118&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.edpb.europa.eu/system/files/2026-05/edpb_dpia_template_explainer_2026_v1_en.pdf"
+  ]
+ },
+ {
+  "codigo": "DIG-011",
+  "veredicto": "corrigida",
+  "resumo": "A morada da CNPD estava desatualizada (a sede é na Av. D. Carlos I, 134, 1.º, 1200-651 Lisboa). O conteúdo mínimo da comunicação era atribuído às alíneas a) a d) do art. 34.º, n.º 2, RGPD, que não tem alíneas: o n.º 2 exige a natureza da violação em linguagem clara e simples e remete para o art. 33.º, n.º 3, als. b), c) e d); corrigiu-se o enquadramento e a checklist. Precisou-se também o critério do n.º 1 (elevado risco, sem demora injustificada) e o direito nacional (contraordenação grave do art. 38.º, n.º 1, al. k), da Lei n.º 58/2019).",
+  "substituicoes": [
+   {
+    "de": "- Art. 34.º, n.º 1: critério — \"risco elevado para os direitos e liberdades\"",
+    "para": "- Art. 34.º, n.º 1 RGPD: critério — violação \"suscetível de implicar um elevado risco para os direitos e liberdades das pessoas singulares\"; a comunicação é feita \"sem demora injustificada\"",
+    "motivo": "Citação conformada com o texto oficial do art. 34.º, n.º 1, RGPD, que também fixa o momento da comunicação.",
+    "fonte": "https://publications.europa.eu/resource/celex/32016R0679"
+   },
+   {
+    "de": "- Art. 34.º, n.º 2: conteúdo mínimo obrigatório:\n  (a) Natureza da violação\n  (b) Contactos do EPD ou outro ponto de contacto\n  (c) Provável consequências da violação\n  (d) Medidas adoptadas pelo responsável para remediar",
+    "para": "- Art. 34.º, n.º 2 RGPD: conteúdo mínimo obrigatório, em linguagem clara e simples:\n  (i) Natureza da violação\n  (ii) Nome e contactos do EPD ou de outro ponto de contacto (art. 33.º, n.º 3, al. b), RGPD)\n  (iii) Consequências prováveis da violação (art. 33.º, n.º 3, al. c), RGPD)\n  (iv) Medidas adotadas ou propostas pelo responsável para reparar a violação e, se for caso disso, atenuar os seus eventuais efeitos negativos (art. 33.º, n.º 3, al. d), RGPD)",
+    "motivo": "O art. 34.º, n.º 2, RGPD não tem alíneas: exige a descrição da natureza da violação em linguagem clara e simples e remete para as als. b), c) e d) do art. 33.º, n.º 3, que incluem as medidas propostas e as de atenuação.",
+    "fonte": "https://publications.europa.eu/resource/celex/32016R0679"
+   },
+   {
+    "de": "- Direito nacional (Lei n.º 58/2019): eventuais requisitos adicionais",
+    "para": "- Direito nacional: a Lei n.º 58/2019 não acrescenta requisitos de conteúdo, mas o incumprimento do dever de informar o titular nas situações do art. 34.º RGPD é contraordenação grave (art. 38.º, n.º 1, al. k), da Lei n.º 58/2019) [■ VERIFICAR: deveres de notificação setoriais aplicáveis ao caso, p. ex. comunicações eletrónicas (Lei n.º 41/2004) ou cibersegurança (DL n.º 125/2025)]",
+    "motivo": "A Lei n.º 58/2019 só se refere ao art. 34.º RGPD para tipificar a contraordenação grave do art. 38.º, n.º 1, al. k); os regimes setoriais ficam por confirmar.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3118&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "— Endereço: Rua de São Bento, 148-3º, 1200-821 Lisboa",
+    "para": "— Endereço: Av. D. Carlos I, 134, 1.º, 1200-651 Lisboa",
+    "motivo": "Morada desatualizada: a sede atual da CNPD, indicada no sítio oficial, é na Av. D. Carlos I, 134, 1.º, 1200-651 Lisboa.",
+    "fonte": "https://www.cnpd.pt/"
+   },
+   {
+    "de": "- [ ] Natureza da violação descrita de forma clara (art. 34.º, n.º 2, al. a))\n- [ ] Contactos do EPD ou ponto de contacto incluídos (al. b))\n- [ ] Consequências prováveis para o titular descritas de forma concreta (al. c))\n- [ ] Medidas adoptadas pelo responsável indicadas (al. d))",
+    "para": "- [ ] Natureza da violação descrita em linguagem clara e simples (art. 34.º, n.º 2, RGPD)\n- [ ] Nome e contactos do EPD ou de outro ponto de contacto incluídos (art. 33.º, n.º 3, al. b), RGPD)\n- [ ] Consequências prováveis para o titular descritas de forma concreta (art. 33.º, n.º 3, al. c), RGPD)\n- [ ] Medidas adotadas ou propostas pelo responsável indicadas, incluindo as de atenuação (art. 33.º, n.º 3, al. d), RGPD)",
+    "motivo": "As alíneas citadas são as do art. 33.º, n.º 3, RGPD, para as quais remete o art. 34.º, n.º 2, que não tem alíneas.",
+    "fonte": "https://publications.europa.eu/resource/celex/32016R0679"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar se o responsável está sujeito a deveres setoriais de notificação de incidentes (p. ex. prestadores de comunicações eletrónicas, Lei n.º 41/2004; entidades abrangidas pelo DL n.º 125/2025, notificação ao CNCS), que acrescem ao RGPD.",
+   "A proposta de «Omnibus Digital» que altera o art. 33.º RGPD (prazo de 96 horas e notificação só em caso de risco elevado) não estava adotada à data da revisão; vale o texto atual (72 horas).",
+   "Confirmar no sítio da CNPD o canal atual de reclamação (formulário em linha) antes de o indicar ao titular."
+  ],
+  "fontes": [
+   "https://publications.europa.eu/resource/celex/32016R0679",
+   "https://www.cnpd.pt/",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3118&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+  ]
+ },
+ {
+  "codigo": "DIG-012",
+  "veredicto": "corrigida",
+  "resumo": "A carta dirigia-se à CNPD na morada antiga; corrigiu-se para a Av. D. Carlos I, 134, 1.º, 1200-651 Lisboa. Os «arts. 13.º ss.» da Lei n.º 58/2019 não regulam a inspeção da CNPD (o art. 13.º trata do EPD em entidades privadas): as normas pertinentes são o art. 6.º (atribuições e competências) e o art. 8.º (dever de colaboração), sendo a recusa de colaboração contraordenação muito grave (art. 37.º, n.º 1, al. k)); corrigiram-se o texto e a descrição do índice. Precisou-se ainda que, segundo as Orientações 04/2022 do CEPD, a cooperação ordinária é neutra e só atenua quando limita os danos para os titulares.",
+  "descricao": "Gera uma resposta formal e juridicamente fundamentada a pedidos de informações, inquéritos e inspeções da CNPD no âmbito dos seus poderes de investigação (art. 58.º RGPD e arts. 6.º e 8.º da Lei n.º 58/2019), maximizando a posição da entidade inspecionada e demonstrando conformidade com o RGPD.",
+  "descricao_en": "Generates a formal, legally reasoned response to requests for information, inquiries and inspections by the National Data Protection Commission (CNPD) in the exercise of its investigative powers (Art. 58 GDPR and Arts. 6 and 8 of Law No. 58/2019), maximising the inspected entity's position and demonstrating compliance with the GDPR.",
+  "substituicoes": [
+   {
+    "de": "- Lei n.º 58/2019, arts. 13.º ss.: procedimento de inspeção e investigação da CNPD",
+    "para": "- Lei n.º 58/2019, art. 6.º (atribuições da CNPD, incluindo fiscalizar, corrigir e sancionar; n.º 2: exerce os poderes do art. 58.º RGPD) e art. 8.º (dever de colaboração: facultar as informações pedidas e permitir o exame do sistema informático, dos ficheiros e da documentação); a recusa de colaboração é contraordenação muito grave (art. 37.º, n.º 1, al. k), da Lei n.º 58/2019); dever de cooperação também no art. 31.º RGPD",
+    "motivo": "O art. 13.º da Lei n.º 58/2019 respeita aos encarregados de proteção de dados em entidades privadas; os poderes e o dever de colaboração com a CNPD constam dos arts. 6.º e 8.º, e a recusa de colaboração do art. 37.º, n.º 1, al. k).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3118&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Diretrizes EDPB sobre aplicação de coimas: cooperação como fator atenuante",
+    "para": "- Orientações 04/2022 do CEPD sobre o cálculo das coimas (n.os 96 e 97): a cooperação ordinária é obrigatória (art. 31.º RGPD) e conta como fator neutro; só atenua a coima quando limita ou evita consequências negativas para os titulares (art. 83.º, n.º 2, al. f), RGPD)",
+    "motivo": "As Orientações 04/2022 do CEPD consideram neutra a cooperação ordinária, por ser obrigatória; só a que limita ou evita danos para os titulares é atenuante.",
+    "fonte": "https://www.edpb.europa.eu/system/files/2023-06/edpb_guidelines_042022_calculationofadministrativefines_en.pdf"
+   },
+   {
+    "de": "Rua de São Bento, 148-3.º\n1200-821 Lisboa",
+    "para": "Av. D. Carlos I, 134, 1.º\n1200-651 Lisboa",
+    "motivo": "Morada desatualizada: a sede atual da CNPD, indicada no sítio oficial, é na Av. D. Carlos I, 134, 1.º, 1200-651 Lisboa.",
+    "fonte": "https://www.cnpd.pt/"
+   },
+   {
+    "de": "- [ ] Tom cooperante e proativo (fator atenuante em coimas)",
+    "para": "- [ ] Tom cooperante e proativo (a cooperação que limite os danos para os titulares pode atenuar a coima — art. 83.º, n.º 2, al. f), RGPD)",
+    "motivo": "A mera cooperação devida é neutra na medida da coima (Orientações 04/2022 do CEPD, n.os 96 e 97).",
+    "fonte": "https://www.edpb.europa.eu/system/files/2023-06/edpb_guidelines_042022_calculationofadministrativefines_en.pdf"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar se a CNPD continua a desaplicar a advertência prévia do art. 39.º, n.º 3, da Lei n.º 58/2019 (Deliberação 2019/494) antes de a invocar na resposta.",
+   "Confirmar na Lei n.º 43/2004 (organização e funcionamento da CNPD) e no regulamento interno da CNPD as regras procedimentais aplicáveis ao pedido em causa, incluindo a prorrogação do prazo.",
+   "Na fase contraordenacional, assegurar o direito de audição e defesa sobre o projeto de decisão (regime subsidiário do art. 45.º da Lei n.º 58/2019 e RGCO)."
+  ],
+  "fontes": [
+   "https://www.cnpd.pt/",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3118&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://publications.europa.eu/resource/celex/32016R0679",
+   "https://www.edpb.europa.eu/system/files/2023-06/edpb_guidelines_042022_calculationofadministrativefines_en.pdf"
+  ]
+ },
+ {
+  "codigo": "DIG-014",
+  "veredicto": "corrigida",
+  "resumo": "O teste do interesse legítimo era atribuído às «Orientações EDPB 6/2020», que tratam da interação entre a DSP2 e o RGPD; passou a remeter para a jurisprudência do TJUE (C-13/16 e C-252/21), o Parecer 06/2014 do WP29 e as Orientações 1/2024 do CEPD (versão para consulta pública). Corrigiram-se as implicações práticas: na base contratual há direito de portabilidade (art. 20.º, n.º 1, RGPD) e não há oposição do art. 21.º, e a oposição nos interesses legítimos depende da situação particular do titular, salvo no marketing direto. Moderou-se ainda a afirmação de que a relação laboral invalida o consentimento (só excecionalmente é livre) e separaram-se os dados penais (art. 10.º) das categorias especiais.",
+  "substituicoes": [
+   {
+    "de": "- Problema: revogável a qualquer momento; desequilíbrio de poder (relação empregador/colaborador torna-o inválido — WP29/2017)",
+    "para": "- Problema: revogável a qualquer momento; desequilíbrio de poder (na relação laboral, o consentimento raramente é livre e só excecionalmente pode servir de base — Parecer 2/2017 do WP29 e Orientações 05/2020 do CEPD, n.os 21 e 22)",
+    "motivo": "O WP29 e o CEPD não consideram o consentimento do trabalhador sempre inválido: admitem-no em circunstâncias excecionais, sem consequências adversas para quem recusa.",
+    "fonte": "https://www.edpb.europa.eu/system/files/documents/files/file1/edpb_guidelines_202005_consent_en.pdf"
+   },
+   {
+    "de": "- Requisitos (teste em 3 passos — Orientações EDPB 6/2020):",
+    "para": "- Requisitos (três condições cumulativas — TJUE, C-13/16, Rīgas satiksme, e C-252/21, Meta Platforms; Parecer 06/2014 do WP29; Orientações 1/2024 do CEPD, versão 1.0 para consulta pública):",
+    "motivo": "As Orientações 06/2020 do CEPD tratam da interação entre a DSP2 e o RGPD; o teste do interesse legítimo resulta da jurisprudência do TJUE, do Parecer 06/2014 do WP29 e das Orientações 1/2024 do CEPD.",
+    "fonte": "https://www.edpb.europa.eu/system/files/2024-10/edpb_guidelines_202401_legitimateinterest_en.pdf"
+   },
+   {
+    "de": "— Consentimento: [motivo específico — p. ex. \"A relação de emprego cria desequilíbrio de poder que invalida o consentimento — WP29/2017, confirmado pelo EDPB\"]",
+    "para": "— Consentimento: [motivo específico — p. ex. \"A relação de emprego cria um desequilíbrio de poder que, em regra, impede que o consentimento seja livre — Parecer 2/2017 do WP29; Orientações 05/2020 do CEPD\"]",
+    "motivo": "As Orientações 05/2020 do CEPD (n.os 21 e 22) afirmam que o consentimento do trabalhador é, em regra, problemático, mas não que seja sempre inválido.",
+    "fonte": "https://www.edpb.europa.eu/system/files/documents/files/file1/edpb_guidelines_202005_consent_en.pdf"
+   },
+   {
+    "de": "— [Se contrato (al. b)): sem direito de portabilidade para dados tratados antes do contrato; direito de apagamento limitado enquanto contrato vigente]",
+    "para": "— [Se contrato (al. b)): direito de portabilidade dos dados fornecidos pelo titular e tratados por meios automatizados (art. 20.º, n.º 1, RGPD); não há direito de oposição ao abrigo do art. 21.º, n.º 1, RGPD; o apagamento é limitado enquanto os dados forem necessários à execução do contrato (art. 17.º, n.º 1, al. a), RGPD)]",
+    "motivo": "O art. 20.º, n.º 1, al. a), RGPD confere a portabilidade quando o tratamento se baseia num contrato do art. 6.º, n.º 1, al. b); o direito de oposição do art. 21.º, n.º 1, só abrange as als. e) e f).",
+    "fonte": "https://publications.europa.eu/resource/celex/32016R0679"
+   },
+   {
+    "de": "— [Se interesses legítimos (al. f)): direito de oposição em qualquer momento (art. 21.º) — deve ser garantida esta opção]",
+    "para": "— [Se interesses legítimos (al. f)): direito de oposição a qualquer momento, por motivos relacionados com a situação particular do titular, que só cede perante razões imperiosas e legítimas do responsável (art. 21.º, n.º 1, RGPD); no marketing direto, a oposição é incondicional (art. 21.º, n.os 2 e 3, RGPD) — deve ser garantida esta opção]",
+    "motivo": "O art. 21.º, n.º 1, RGPD liga a oposição à situação particular do titular e permite ao responsável prosseguir com razões imperiosas e legítimas; só no marketing direto a oposição é incondicional.",
+    "fonte": "https://publications.europa.eu/resource/celex/32016R0679"
+   },
+   {
+    "de": "- [sim/não — se sim, que categoria: saúde / biometria / origem étnica / religião / orientação sexual / dados penais]",
+    "para": "- [sim/não — se sim, que categoria: saúde / dados biométricos / origem étnica / religião / orientação sexual — e, à parte, dados penais (art. 10.º RGPD, regime próprio)]",
+    "motivo": "Os dados relativos a condenações penais e infrações não são categoria especial do art. 9.º; têm regime próprio no art. 10.º RGPD.",
+    "fonte": "https://publications.europa.eu/resource/celex/32016R0679"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "As Orientações 1/2024 do CEPD sobre o art. 6.º, n.º 1, al. f), RGPD só se encontraram na versão 1.0, para consulta pública (8/10/2024); confirmar se já há versão final.",
+   "Nos tratamentos laborais, ponderar o art. 28.º, n.º 3, da Lei n.º 58/2019 (o consentimento do trabalhador não é requisito de legitimidade quando o tratamento lhe confere vantagem jurídica ou económica ou cabe no art. 6.º, n.º 1, al. b), RGPD) e confirmar a posição da CNPD sobre essa norma (Deliberação 2019/494).",
+   "Confirmar se a portabilidade do art. 20.º RGPD abrange os dados tratados em diligências pré-contratuais a pedido do titular.",
+   "A regra da ficha de tratar o consentimento como «último recurso» é critério de prudência: o art. 6.º, n.º 1, RGPD não estabelece hierarquia entre as bases."
+  ],
+  "fontes": [
+   "https://publications.europa.eu/resource/celex/32016R0679",
+   "https://www.edpb.europa.eu/system/files/2024-10/edpb_guidelines_202401_legitimateinterest_en.pdf",
+   "https://www.edpb.europa.eu/our-work-tools/documents/public-consultations/2024/guidelines-12024-processing-personal-data-based_en",
+   "https://www.edpb.europa.eu/our-work-tools/our-documents/guidelines/guidelines-062020-interplay-second-payment-services_en",
+   "https://www.edpb.europa.eu/system/files/documents/files/file1/edpb_guidelines_202005_consent_en.pdf",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3118&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+  ]
+ }
+]

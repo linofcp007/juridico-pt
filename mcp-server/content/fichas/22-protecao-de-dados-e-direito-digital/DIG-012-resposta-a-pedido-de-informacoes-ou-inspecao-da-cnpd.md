@@ -3,20 +3,22 @@ codigo: DIG-012
 area: "Proteção de Dados e Direito Digital"
 titulo: "Resposta a Pedido de Informações ou Inspeção da CNPD"
 titulo_en: "Response to a Request for Information or Inspection by the CNPD"
-descricao: "Gera uma resposta formal e juridicamente fundamentada a pedidos de informações, inquéritos e inspeções da CNPD no âmbito dos seus poderes de investigação (art. 58.º RGPD e arts. 13.º ss. Lei n.º 58/2019), maximizando a posição da entidade inspeccionada e demonstrando conformidade com o RGPD."
-descricao_en: "Generates a formal, legally reasoned response to requests for information, inquiries and inspections by the National Data Protection Commission (CNPD) in the exercise of its investigative powers (Art. 58 GDPR and Arts. 13 et seq. of Law No. 58/2019), maximising the inspected entity's position and demonstrating compliance with the GDPR."
+descricao: "Gera uma resposta formal e juridicamente fundamentada a pedidos de informações, inquéritos e inspeções da CNPD no âmbito dos seus poderes de investigação (art. 58.º RGPD e arts. 6.º e 8.º da Lei n.º 58/2019), maximizando a posição da entidade inspecionada e demonstrando conformidade com o RGPD."
+descricao_en: "Generates a formal, legally reasoned response to requests for information, inquiries and inspections by the National Data Protection Commission (CNPD) in the exercise of its investigative powers (Art. 58 GDPR and Arts. 6 and 8 of Law No. 58/2019), maximising the inspected entity's position and demonstrating compliance with the GDPR."
 ambito: nacional
-estado_citacoes: "conferidas 5 · corrigidas 0 · por conferir 2"
+estado_citacoes: "conferidas 10 · corrigidas 0 · por conferir 4"
+revisao_tecnica: "2026-10-30 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
 # Resposta a Pedido de Informações ou Inspeção da CNPD
 
 > **Âmbito:** nacional · **Área:** Proteção de Dados e Direito Digital · **Código:** DIG-012
-> **EN:** Response to a Request for Information or Inspection by the CNPD. Generates a formal, legally reasoned response to requests for information, inquiries and inspections by the National Data Protection Commission (CNPD) in the exercise of its investigative powers (Art. 58 GDPR and Arts. 13 et seq. of Law No. 58/2019), maximising the inspected entity's position and demonstrating compliance with the GDPR.
-> **Citações:** conferidas 5 · corrigidas 0 · por conferir 2. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **EN:** Response to a Request for Information or Inspection by the CNPD. Generates a formal, legally reasoned response to requests for information, inquiries and inspections by the National Data Protection Commission (CNPD) in the exercise of its investigative powers (Art. 58 GDPR and Arts. 6 and 8 of Law No. 58/2019), maximising the inspected entity's position and demonstrating compliance with the GDPR.
+> **Citações:** conferidas 10 · corrigidas 0 · por conferir 4. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-30 — corrigida (4 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
-Gera uma resposta formal e juridicamente fundamentada a pedidos de informações, inquéritos e inspeções da CNPD no âmbito dos seus poderes de investigação (art. 58.º RGPD e arts. 13.º ss. Lei n.º 58/2019), maximizando a posição da entidade inspeccionada e demonstrando conformidade com o RGPD.
+Gera uma resposta formal e juridicamente fundamentada a pedidos de informações, inquéritos e inspeções da CNPD no âmbito dos seus poderes de investigação (art. 58.º RGPD e arts. 6.º e 8.º da Lei n.º 58/2019), maximizando a posição da entidade inspecionada e demonstrando conformidade com o RGPD.
 
 ## Método
 
@@ -46,9 +48,9 @@ Apresenta dentro de um bloco <analise_pedido>:
 Apresenta dentro de um bloco <fundamentos_juridicos>:
 - Art. 58.º RGPD, n.º 1: poderes de investigação da CNPD (pedido de informações, acesso a instalações, acesso a dados)
 - Art. 58.º, n.º 2: poderes corretivos (advertência, repreensão, limitação de tratamento, coima)
-- Lei n.º 58/2019, arts. 13.º ss.: procedimento de inspeção e investigação da CNPD
+- Lei n.º 58/2019, art. 6.º (atribuições da CNPD, incluindo fiscalizar, corrigir e sancionar; n.º 2: exerce os poderes do art. 58.º RGPD) e art. 8.º (dever de colaboração: facultar as informações pedidas e permitir o exame do sistema informático, dos ficheiros e da documentação); a recusa de colaboração é contraordenação muito grave (art. 37.º, n.º 1, al. k), da Lei n.º 58/2019); dever de cooperação também no art. 31.º RGPD
 - Art. 83.º RGPD: moldura contraordenacional (atenuantes: boa-fé, cooperação, remediação)
-- Diretrizes EDPB sobre aplicação de coimas: cooperação como fator atenuante
+- Orientações 04/2022 do CEPD sobre o cálculo das coimas (n.os 96 e 97): a cooperação ordinária é obrigatória (art. 31.º RGPD) e conta como fator neutro; só atenua a coima quando limita ou evita consequências negativas para os titulares (art. 83.º, n.º 2, al. f), RGPD)
 - Direitos da entidade: audição prévia, prazo para resposta, assistência jurídica
 
 ### ETAPA 3 — CONSTRUÇÃO (Estratégia de Resposta)
@@ -61,8 +63,8 @@ Define em <estrategia_resposta>:
 ### ETAPA 4 — A RESPOSTA À CNPD
 
 **À Comissão Nacional de Proteção de Dados**
-Rua de São Bento, 148-3.º
-1200-821 Lisboa
+Av. D. Carlos I, 134, 1.º
+1200-651 Lisboa
 [Referência do processo: CNPD-[número]]
 
 Lisboa/[cidade], [data]
@@ -136,7 +138,7 @@ Apresenta dentro de um bloco <checklist_validacao>:
 - [ ] Conformidade demonstrada com documentação em anexo
 - [ ] Não conformidades reconhecidas com plano de remediação e prazos
 - [ ] Factos contestáveis fundamentados juridicamente (sem admitir o que não é verdade)
-- [ ] Tom cooperante e proativo (fator atenuante em coimas)
+- [ ] Tom cooperante e proativo (a cooperação que limite os danos para os titulares pode atenuar a coima — art. 83.º, n.º 2, al. f), RGPD)
 - [ ] Compromisso de conformidade explicitado
 - [ ] Advogado validou antes do envio (crítico — implicações legais)
 - [ ] Pontos [■ VERIFICAR] sinalizados
@@ -182,8 +184,15 @@ Ponto 1: [reproduzir]
 |---|---|---|
 | Art. 58.º RGPD | conferida (epígrafe) — Poderes |  |
 | Art. 58.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| arts. 13.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 6.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 58.º RGPD | conferida (epígrafe) — Poderes |  |
+| art. 8.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 37.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 31.º RGPD | conferida (epígrafe) — Cooperação com a autoridade de controlo |  |
+| art. 31.º RGPD | conferida (epígrafe) — Cooperação com a autoridade de controlo |  |
 | Art. 83.º RGPD | conferida (epígrafe) — Condições gerais para a aplicação de coimas |  |
+| art. 83.º, n.º 2, al. f), RGPD | conferida (epígrafe) — Condições gerais para a aplicação de coimas |  |
+| art. 83.º, n.º 2, al. f), RGPD | conferida (epígrafe) — Condições gerais para a aplicação de coimas |  |
 | art. 37.º RGPD | conferida (epígrafe) — Designação do encarregado da proteção de dados |  |
 | art. 4.º, n.º 1 RGPD | conferida (epígrafe) — Definições |  |
 | art. 6.º, n.º 1, al. b) RGPD | conferida (índice) |  |

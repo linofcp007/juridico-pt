@@ -3,20 +3,22 @@ codigo: COM-019
 area: "Direito Comercial e das Sociedades"
 titulo: "Contrato de Consórcio"
 titulo_en: "Consortium Agreement"
-descricao: "Elabora o contrato de consórcio entre duas ou mais empresas para execução conjunta de um empreendimento ou atividade, sem criação de pessoa jurídica, definindo a liderança, a repartição de responsabilidades e receitas, a coordenação e as relações com terceiros, em conformidade com o Decreto-Lei n.º 231/81 (regime jurídico dos consórcios e subcontratos em empreendimentos comuns)."
-descricao_en: "Drafts the consortium agreement between two or more undertakings for the joint performance of a project or activity without creating a legal entity, defining leadership, the allocation of responsibilities and revenue, coordination and relations with third parties, in accordance with Decree-Law No. 231/81 (legal regime for consortia and subcontracts in joint undertakings)."
+descricao: "Elabora o contrato de consórcio entre duas ou mais empresas para execução conjunta de um empreendimento ou atividade, sem criação de pessoa jurídica, definindo o chefe do consórcio, a repartição de responsabilidades e receitas, o conselho de orientação e fiscalização e as relações com terceiros, em conformidade com o Decreto-Lei n.º 231/81, de 28 de julho (regime jurídico dos contratos de consórcio e de associação em participação)."
+descricao_en: "Drafts the consortium agreement between two or more undertakings for the joint performance of a project or activity without creating a legal entity, defining the consortium leader (chefe do consórcio), the allocation of responsibilities and revenue, the steering and supervisory board and relations with third parties, in accordance with Decree-Law No. 231/81 of 28 July (legal regime for consortium and profit-sharing association agreements)."
 ambito: nacional
-estado_citacoes: "conferidas 0 · corrigidas 0 · por conferir 8"
+estado_citacoes: "conferidas 4 · corrigidas 0 · por conferir 38"
+revisao_tecnica: "2026-10-28 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
 # Contrato de Consórcio
 
 > **Âmbito:** nacional · **Área:** Direito Comercial e das Sociedades · **Código:** COM-019
-> **EN:** Consortium Agreement. Drafts the consortium agreement between two or more undertakings for the joint performance of a project or activity without creating a legal entity, defining leadership, the allocation of responsibilities and revenue, coordination and relations with third parties, in accordance with Decree-Law No. 231/81 (legal regime for consortia and subcontracts in joint undertakings).
-> **Citações:** conferidas 0 · corrigidas 0 · por conferir 8. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **EN:** Consortium Agreement. Drafts the consortium agreement between two or more undertakings for the joint performance of a project or activity without creating a legal entity, defining the consortium leader (chefe do consórcio), the allocation of responsibilities and revenue, the steering and supervisory board and relations with third parties, in accordance with Decree-Law No. 231/81 of 28 July (legal regime for consortium and profit-sharing association agreements).
+> **Citações:** conferidas 4 · corrigidas 0 · por conferir 38. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-28 — corrigida (14 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
-Elabora o contrato de consórcio entre duas ou mais empresas para execução conjunta de um empreendimento ou atividade, sem criação de pessoa jurídica, definindo a liderança, a repartição de responsabilidades e receitas, a coordenação e as relações com terceiros, em conformidade com o Decreto-Lei n.º 231/81 (regime jurídico dos consórcios e subcontratos em empreendimentos comuns).
+Elabora o contrato de consórcio entre duas ou mais empresas para execução conjunta de um empreendimento ou atividade, sem criação de pessoa jurídica, definindo o chefe do consórcio, a repartição de responsabilidades e receitas, o conselho de orientação e fiscalização e as relações com terceiros, em conformidade com o Decreto-Lei n.º 231/81, de 28 de julho (regime jurídico dos contratos de consórcio e de associação em participação).
 
 ## Método
 
@@ -24,7 +26,7 @@ Ficha de trabalho para preparar este documento. As regras da casa prevalecem sob
 
 ## Regras obrigatórias
 - Aplicar DL 231/81 de 28 de Julho (regime jurídico dos consórcios em Portugal)
-- O consórcio não tem personalidade jurídica — esclarecer responsabilidade dos membros
+- O consórcio não tem personalidade jurídica — esclarecer responsabilidade dos membros: nas relações com terceiros não se presume solidariedade (art. 19.º, n.º 1, do DL 231/81); só existe se estipulada com o terceiro ou imposta por lei (por exemplo, a manutenção da proposta pelos membros de um agrupamento concorrente — art. 54.º, n.º 3, CCP)
 - NUNCA inventar normas, jurisprudência ou valores
 - Marcar [■ VERIFICAR: o que falta]
 - Valores em euros; português europeu formal
@@ -35,24 +37,29 @@ Ficha de trabalho para preparar este documento. As regras da casa prevalecem sob
 
 ### ETAPA 1 — PROBLEMATIZAÇÃO
 Analise em <analise_do_caso>:
-- Consórcio externo (art. 2 DL 231/81 — atuação conjunta perante terceiros) vs. interno (art. 3 — partilha de resultados sem exposição conjunta perante terceiros)?
-- Projeto: concurso público (CCP — [■ VERIFICAR]), obra, prestação de serviços?
+- Consórcio externo (art. 5.º, n.º 2, do DL 231/81 — atividades ou bens fornecidos diretamente a terceiros por cada membro, com expressa invocação dessa qualidade) vs. interno (art. 5.º, n.º 1 — atividades ou bens fornecidos a um dos membros, que é o único a relacionar-se com terceiros, ou fornecidos a terceiros sem invocação da qualidade de membro)? O objeto tem de ser um dos previstos no art. 2.º do DL 231/81
+- Projeto: procedimento de contratação pública (agrupamento concorrente — art. 54.º CCP; em caso de adjudicação, os membros associam-se, antes da celebração do contrato, na modalidade jurídica prevista no programa do procedimento — n.º 4), obra, prestação de serviços?
 - Membros: capacidade técnica e financeira de cada um; contribuição percentual
-- Líder do consórcio ("leader"): empresa com maior quota ou capacidade técnica dominante
-- Responsabilidade solidária ou conjunta? (art. 16 DL 231/81 — solidária em consórcio externo por defeito)
+- Chefe do consórcio (designação obrigatória no consórcio externo — art. 12.º do DL 231/81): empresa com maior quota ou capacidade técnica dominante; os poderes de representação são-lhe conferidos por procuração (art. 14.º)
+- Responsabilidade solidária ou conjunta? (no consórcio externo não se presume solidariedade perante terceiros — art. 19.º, n.º 1, do DL 231/81; tem de ser estipulada com o terceiro; a obrigação de indemnizar por responsabilidade civil é só do membro a quem for imputável — art. 19.º, n.º 3)
 - Duração: até conclusão do projeto ou por prazo determinado?
 - Litígios internos: mecanismo de resolução entre os membros
 
 ### ETAPA 2 — ANÁLISE JURÍDICA
 Identifique em <fundamentos_juridicos>:
 - DL 231/81 de 28 de Julho:
-  - Art. 2.º — consórcio externo: atuação conjunta e responsabilidade
-  - Art. 3.º — consórcio interno: partilha de resultados sem exposição perante terceiros
-  - Art. 4.º — forma: escritura pública ou documento particular com assinaturas reconhecidas [■ VERIFICAR: requisito atual]
-  - Art. 6.º — representação do consórcio (líder)
-  - Art. 16.º — responsabilidade solidária dos membros no consórcio externo
-  - Art. 17.º — dissolução e liquidação
-- Código dos Contratos Públicos (CCP) — requisitos de consórcios em concursos públicos [■ VERIFICAR: artigos aplicáveis]
+  - Art. 1.º — noção; art. 2.º — objetos admitidos
+  - Art. 3.º — forma: basta a forma escrita, salvo se houver transmissão de bens imóveis entre os membros (escritura pública)
+  - Art. 4.º — conteúdo livre, sem prejuízo das normas imperativas; contribuições em coisa corpórea ou no seu uso, e em dinheiro só se todas o forem (n.º 2)
+  - Art. 5.º — modalidades: consórcio interno (n.º 1) e externo (n.º 2)
+  - Art. 7.º — conselho de orientação e fiscalização do consórcio externo (no silêncio do contrato, delibera por unanimidade)
+  - Arts. 8.º a 11.º — deveres dos membros, exoneração, resolução quanto a algum membro por justa causa e extinção (sem outra causa, decorridos dez anos — art. 11.º, n.º 2)
+  - Arts. 12.º a 14.º — chefe do consórcio: designação obrigatória no consórcio externo, funções internas e poderes de representação por procuração (procuração especial para celebrar, modificar ou resolver contratos com terceiros e para representar em juízo — art. 14.º, n.º 2)
+  - Art. 15.º — denominação do consórcio externo («Consórcio de …» ou «… em consórcio»)
+  - Arts. 16.º e 17.º — repartição dos valores recebidos e do produto da atividade dos consórcios externos
+  - Art. 19.º — relações com terceiros: não se presume solidariedade ativa ou passiva
+  - Art. 20.º — proibição de fundos comuns
+- Código dos Contratos Públicos (CCP) — agrupamentos concorrentes (art. 54.º CCP) [■ VERIFICAR: modalidade jurídica de associação exigida no programa do procedimento]
 - Código Civil — regime geral dos contratos
 - CIRC — tributação dos membros do consórcio (cada membro tributado individualmente)
 
@@ -60,8 +67,8 @@ Identifique em <fundamentos_juridicos>:
 Defina em <estrategia>:
 - Repartição das atividades: o que faz cada membro (pacotes de trabalho — work packages)
 - Sistema de faturação: cada membro fatura diretamente ao dono da obra ou através do líder?
-- Conta bancária conjunta ou separada?
-- Comité de Gestão do Consórcio: composição, competências, unanimidade ou maioria?
+- Conta bancária: não é permitida a constituição de fundos comuns (art. 20.º, n.º 1, do DL 231/81); no consórcio externo, as importâncias entregues ao chefe do consórcio ou por ele retidas consideram-se fornecidas nos termos do art. 1167.º, al. a), do Código Civil (art. 20.º, n.º 2)
+- Comité de Gestão (conselho de orientação e fiscalização — art. 7.º do DL 231/81): composição (todos os membros), competências, unanimidade (regra supletiva) ou maioria prevista no contrato; no silêncio do contrato, não pode deliberar a modificação ou resolução de contratos com terceiros nem transações
 - Transferência de know-how e confidencialidade entre membros
 - Entrada e saída de membros: limitações durante o projeto
 
@@ -81,15 +88,15 @@ a) Os Membros do Consórcio pretendem colaborar na execução de [descrição do
 b) A colaboração far-se-á sob a forma de consórcio [externo / interno], sem criação de pessoa jurídica, nos termos do DL 231/81;
 
 **CLÁUSULA 1.ª — OBJETO E MODALIDADE**
-Os Membros constituem um consórcio [externo / interno] nos termos do art. [2.º / 3.º] do DL 231/81, com o objetivo exclusivo de participar e, se adjudicado, executar o Projeto.
+Os Membros constituem um consórcio [externo / interno] nos termos do art. 5.º, n.º [2 / 1], do DL 231/81, tendo por objeto [a realização de atos preparatórios e a execução do Projeto — art. 2.º, als. a) e b), do DL 231/81], com o objetivo exclusivo de participar e, se adjudicado, executar o Projeto.
 
-O consórcio não tem personalidade jurídica. Cada Membro atua em nome próprio, sendo responsável pelas obrigações que assumir no âmbito da sua quota-parte, [/ respondendo todos solidariamente perante o Dono da Obra/Cliente — art. 16.º DL 231/81 — se consórcio externo].
+O consórcio não tem personalidade jurídica. Cada Membro atua em nome próprio, sendo responsável pelas obrigações que assumir no âmbito da sua quota-parte, sem solidariedade presumida perante terceiros (art. 19.º, n.º 1, do DL 231/81) [/ respondendo todos solidariamente perante o Dono da Obra/Cliente, por o terem estipulado no contrato com este] [■ VERIFICAR: solidariedade estipulada com o Dono da Obra/Cliente ou exigida pelo programa do procedimento].
 
 **CLÁUSULA 2.ª — DENOMINAÇÃO**
-O consórcio adoptará a designação "[Nome A + Nome B], ACE" [ou outra denominação acordada — VERIFICAR: se ACE é adequado ou apenas consórcio informal].
+[Consórcio externo:] Os Membros fazem-se designar coletivamente como "Consórcio de [Nome A] e [Nome B]" [ou "[Nome A] e [Nome B] em consórcio"], nos termos do art. 15.º do DL 231/81, sendo responsável perante terceiros apenas o Membro que tenha assinado o documento onde a denominação for usada ou aquele por quem o chefe do consórcio tenha assinado. Não é usada a sigla «ACE», que identifica o agrupamento complementar de empresas, figura distinta do consórcio [■ VERIFICAR: se as partes pretendem antes constituir um ACE, sujeito a regime e registo próprios].
 
 **CLÁUSULA 3.ª — LÍDER DO CONSÓRCIO**
-O Membro A é designado líder do consórcio ("Líder"), com poderes para: (a) representar os Membros perante o Dono da Obra/Cliente; (b) submeter propostas e assinar contratos em nome do consórcio; (c) coordenar a execução do Projeto. O Líder não pode assumir obrigações que excedam [€X / o âmbito do Projeto] sem aprovação do Comité de Gestão.
+O Membro A é designado chefe do consórcio ("Líder"), nos termos do art. 12.º do DL 231/81, competindo-lhe: (a) organizar a cooperação entre os Membros e promover as medidas necessárias à execução do contrato (art. 13.º); (b) representar os Membros perante o Dono da Obra/Cliente, com os poderes que lhe forem conferidos por procuração (art. 14.º, n.º 1); (c) apresentar propostas e celebrar, modificar ou resolver contratos em nome e por conta de todos os Membros, bem como representá-los em juízo, apenas mediante procuração especial (art. 14.º, n.º 2). O Líder não pode assumir obrigações que excedam [€X / o âmbito do Projeto] sem aprovação do Comité de Gestão.
 
 **CLÁUSULA 4.ª — REPARTIÇÃO**
 As atividades, responsabilidades e receitas do Projeto são repartidas da seguinte forma:
@@ -98,10 +105,10 @@ As atividades, responsabilidades e receitas do Projeto são repartidas da seguin
 Cada Membro fatura diretamente ao Dono da Obra/Cliente a parte que lhe corresponde [/ através do Líder — VERIFICAR: forma de faturação acordada].
 
 **CLÁUSULA 5.ª — COMITÉ DE GESTÃO**
-O consórcio é gerido por um Comité de Gestão composto por um representante de cada Membro. As decisões são tomadas por [unanimidade / maioria ponderada]. Reúne [mensalmente / na convocação de qualquer Membro com X dias de pré-aviso].
+O consórcio dispõe de um Comité de Gestão, que funciona como conselho de orientação e fiscalização (art. 7.º do DL 231/81), composto por um representante de cada Membro. As decisões são tomadas por [unanimidade / maioria ponderada]. Reúne [mensalmente / na convocação de qualquer Membro com X dias de pré-aviso].
 
 **CLÁUSULA 6.ª — RECURSOS PARTILHADOS E CUSTOS COMUNS**
-Os custos comuns do consórcio (ex.: seguros, coordenação técnica) são repartidos proporcionalmente à participação de cada Membro, salvo acordo diferente do Comité de Gestão.
+Os custos comuns do consórcio (ex.: seguros, coordenação técnica) são repartidos proporcionalmente à participação de cada Membro, salvo acordo diferente do Comité de Gestão. Não é constituído qualquer fundo comum (art. 20.º, n.º 1, do DL 231/81).
 
 **CLÁUSULA 7.ª — CONFIDENCIALIDADE**
 Os Membros mantêm confidenciais as informações técnicas, financeiras e comerciais trocadas no âmbito do consórcio, durante a vigência e por [X] anos após a cessação.
@@ -110,7 +117,7 @@ Os Membros mantêm confidenciais as informações técnicas, financeiras e comer
 O consórcio vigora até à conclusão e aceitação definitiva do Projeto pelo Dono da Obra/Cliente [/ por prazo de [X] anos].
 
 **CLÁUSULA 9.ª — DISSOLUÇÃO**
-O consórcio dissolve-se: (a) por acordo unânime dos Membros; (b) pela não adjudicação do Projeto; (c) pela conclusão do Projeto; (d) por incumprimento grave de um Membro — os restantes podem excluí-lo com aprovação unânime, nos termos do art. 17.º DL 231/81.
+O consórcio extingue-se (art. 11.º do DL 231/81): (a) por acordo unânime dos Membros; (b) pela não adjudicação do Projeto; (c) pela conclusão do Projeto ou por este se tornar impossível; (d) pelo decurso do prazo fixado, sem prorrogação; (e) por se extinguir a pluralidade dos Membros. Ocorrendo justa causa quanto a um Membro — designadamente falta grave aos seus deveres ou impossibilidade de cumprir a sua obrigação —, o contrato pode ser resolvido quanto a ele por declarações escritas de todos os outros, sem prejuízo da indemnização devida (art. 10.º do DL 231/81).
 
 **CLÁUSULA 10.ª — LEI E LITÍGIOS**
 Regulado pela lei portuguesa. Litígios submetidos ao [tribunal da comarca de / arbitragem CAC].
@@ -122,7 +129,7 @@ Regulado pela lei portuguesa. Litígios submetidos ao [tribunal da comarca de / 
 Apresente em <checklist_validacao>:
 - [ ] Modalidade de consórcio (externo/interno) identificada com referência ao DL 231/81
 - [ ] Ausência de personalidade jurídica claramente mencionada
-- [ ] Responsabilidade solidária (externo) ou separada (interno) definida
+- [ ] Responsabilidade perante terceiros definida (sem solidariedade presumida — art. 19.º do DL 231/81; solidariedade só se estipulada com o terceiro)
 - [ ] Líder designado com poderes de representação e limites claros
 - [ ] Repartição de atividades e receitas por membro especificada
 - [ ] Comité de Gestão com composição e processo decisório definidos
@@ -156,11 +163,45 @@ Apresente em <checklist_validacao>:
 
 | Citação | Estado | Nota |
 |---|---|---|
-| Art. 2.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 19.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 19.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 19.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 19.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 19.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 54.º, n.º 3, CCP | conferida (epígrafe) — Agrupamentos |  |
+| art. 5.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 5.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 5.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 2.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 2.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 2.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 54.º CCP | conferida (epígrafe) — Agrupamentos |  |
+| art. 54.º CCP | conferida (epígrafe) — Agrupamentos |  |
+| art. 12.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 12.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 14.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 14.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 14.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 14.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| Art. 1.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | Art. 3.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | Art. 4.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| Art. 6.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| Art. 16.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| Art. 17.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| art. 16.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| art. 17.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| Art. 5.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| Art. 7.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| Arts. 8.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 11.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 11.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| Arts. 12.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| Art. 15.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| Arts. 16.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| Art. 19.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| Art. 20.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 20.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 20.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 20.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 1167.º, al. a), do Código Civil | conferida (epígrafe) — Enumeração |  |
+| art. 7.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 7.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 15.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 13.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 10.º | por conferir [■ VERIFICAR] | diploma não identificado |

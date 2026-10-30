@@ -45,10 +45,10 @@
 - Resolução por incumprimento do senhorio
 
 ## Despejo
-- BNA: Balcão Nacional do Arrendamento (procedimento especial de despejo)
+- BAS: Balcão do Arrendatário e do Senhorio (procedimento especial de despejo; antigo BNA, art. 15.º-A NRAU na redação da Lei 56/2023)
 - Requisitos: título de arrendamento, fundamento legal, comunicação prévia ao arrendatário
 - Prazo para oposição: 15 dias
-- Ação de despejo judicial: alternativa quando BNA não é viável
+- Ação de despejo judicial: alternativa quando o procedimento no BAS não é viável
 
 ## Templates
 > Documentos gerados a pedido neste estilo. Os que já existem como ficheiro estão em `assets/templates/` (ver índice); os restantes são redigidos quando pedires.

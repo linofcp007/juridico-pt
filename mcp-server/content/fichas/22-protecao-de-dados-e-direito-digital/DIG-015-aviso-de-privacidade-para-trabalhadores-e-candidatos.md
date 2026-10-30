@@ -62,7 +62,7 @@ Apresenta dentro de um bloco <fundamentos_juridicos>:
 ### ETAPA 3 — CONSTRUÇÃO (Estrutura do Aviso por Fase do Ciclo Laboral)
 Define em <estrutura_aviso>:
 - Secções por fase: candidatura → admissão → execução do contrato → cessação
-- Sub-secções para tratamentos específicos: saúde, biometria, videovigilância, monitorização
+- Subsecções para tratamentos específicos: saúde, biometria, videovigilância, monitorização
 - Linguagem: clara para trabalhador médio, sem excesso de juridiquês
 
 ### ETAPA 4 — O AVISO DE PRIVACIDADE

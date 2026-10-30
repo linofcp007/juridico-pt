@@ -3,20 +3,22 @@ codigo: EST-015
 area: "Direito dos Estrangeiros e Nacionalidade"
 titulo: "Requerimento de Aquisição de Nacionalidade por Tempo de Residência (Casos Especiais)"
 titulo_en: "Application for Nationality by Length of Residence (Special Cases)"
-descricao: "Gera um requerimento de naturalização por prazos reduzidos para casos especiais previstos no artigo 6.º da Lei n.º 37/81: descendentes de portugueses (3 anos), cônjuges e unidos de facto (3 anos), refugiados reconhecidos (3 anos), e apátridas reconhecidos. Verifica os requisitos específicos de cada caso e fundamenta o pedido na legislação aplicável."
-descricao_en: "Generates an application for naturalisation with reduced periods for the special cases provided for in Article 6 of Law No. 37/81: descendants of Portuguese nationals (3 years), spouses and de facto partners (3 years), recognised refugees (3 years) and recognised stateless persons. It checks the specific requirements of each case and grounds the application in the applicable legislation."
+descricao: "Gera um requerimento de naturalização para os casos especiais do artigo 6.º da Lei n.º 37/81, na redação da Lei Orgânica n.º 1/2026: apátridas (4 anos de residência legal, n.º 3), bisnetos de portugueses originários (5 anos, n.º 8) e antigos nacionais que nunca adquiriram outra nacionalidade (n.º 6). Encaminha filhos e netos de portugueses para a atribuição originária (art. 1.º), cônjuges e unidos de facto para o art. 3.º e refugiados para o regime geral."
+descricao_en: "Generates a naturalisation application for the special cases in Article 6 of Law No. 37/81 as amended by Organic Law No. 1/2026: stateless persons (4 years' legal residence, para. 3), great-grandchildren of Portuguese nationals of origin (5 years, para. 8) and former nationals who never acquired another nationality (para. 6). It refers children and grandchildren of Portuguese nationals to attribution of nationality of origin (Article 1), spouses and de facto partners to Article 3 and refugees to the general regime."
 ambito: nacional
-estado_citacoes: "conferidas 0 · corrigidas 0 · por conferir 7"
+estado_citacoes: "conferidas 0 · corrigidas 0 · por conferir 37"
+revisao_tecnica: "2026-10-28 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
 # Requerimento de Aquisição de Nacionalidade por Tempo de Residência (Casos Especiais)
 
 > **Âmbito:** nacional · **Área:** Direito dos Estrangeiros e Nacionalidade · **Código:** EST-015
-> **EN:** Application for Nationality by Length of Residence (Special Cases). Generates an application for naturalisation with reduced periods for the special cases provided for in Article 6 of Law No. 37/81: descendants of Portuguese nationals (3 years), spouses and de facto partners (3 years), recognised refugees (3 years) and recognised stateless persons. It checks the specific requirements of each case and grounds the application in the applicable legislation.
-> **Citações:** conferidas 0 · corrigidas 0 · por conferir 7. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **EN:** Application for Nationality by Length of Residence (Special Cases). Generates a naturalisation application for the special cases in Article 6 of Law No. 37/81 as amended by Organic Law No. 1/2026: stateless persons (4 years' legal residence, para. 3), great-grandchildren of Portuguese nationals of origin (5 years, para. 8) and former nationals who never acquired another nationality (para. 6). It refers children and grandchildren of Portuguese nationals to attribution of nationality of origin (Article 1), spouses and de facto partners to Article 3 and refugees to the general regime.
+> **Citações:** conferidas 0 · corrigidas 0 · por conferir 37. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-28 — corrigida (16 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
-Gera um requerimento de naturalização por prazos reduzidos para casos especiais previstos no artigo 6.º da Lei n.º 37/81: descendentes de portugueses (3 anos), cônjuges e unidos de facto (3 anos), refugiados reconhecidos (3 anos), e apátridas reconhecidos. Verifica os requisitos específicos de cada caso e fundamenta o pedido na legislação aplicável.
+Gera um requerimento de naturalização para os casos especiais do artigo 6.º da Lei n.º 37/81, na redação da Lei Orgânica n.º 1/2026: apátridas (4 anos de residência legal, n.º 3), bisnetos de portugueses originários (5 anos, n.º 8) e antigos nacionais que nunca adquiriram outra nacionalidade (n.º 6). Encaminha filhos e netos de portugueses para a atribuição originária (art. 1.º), cônjuges e unidos de facto para o art. 3.º e refugiados para o regime geral.
 
 ## Método
 
@@ -28,7 +30,9 @@ Ficha de trabalho para preparar este documento. As regras da casa prevalecem sob
 - Distingue claramente cada caso especial e o prazo correspondente
 - Usa português europeu rigoroso — sem brasileirismos
 - Verifica sempre a prova de ascendência portuguesa ou do estatuto especial invocado
-- Aborda sempre os requisitos comuns: ausência de condenações e conhecimento de português
+- Aborda sempre os requisitos comuns aplicáveis (art. 6.º, n.º 1, als. c) a h), da Lei n.º 37/81; nos n.ºs 6 e 8, também as als. a) e i))
+- Usa a Lei n.º 37/81 na redação da Lei Orgânica n.º 1/2026 (em vigor desde 19 de maio de 2026); aos procedimentos pendentes nessa data aplica-se a redação anterior (art. 7.º, n.º 2, da Lei Orgânica n.º 1/2026)
+- Não existe prazo reduzido de 3 anos para descendentes, cônjuges ou refugiados. Os casos especiais de naturalização são: apátridas — 4 anos de residência legal (art. 6.º, n.º 3); bisnetos de portugueses originários — 5 anos de residência legal, com dispensa da al. b) (art. 6.º, n.º 8); quem perdeu a nacionalidade portuguesa, nunca adquiriu outra e mantém laços de ligação efetiva — dispensa da al. b) (art. 6.º, n.º 6). Os filhos e os netos de portugueses têm a via da atribuição originária (art. 1.º, n.º 1, als. c) e d)); o cônjuge ou unido de facto, a aquisição por declaração (art. 3.º); o refugiado segue o regime geral (art. 6.º, n.º 1, al. b): 7 ou 10 anos), contando como residência legal a que tem ao abrigo do regime do asilo (art. 15.º, n.º 1)
 
 ---
 
@@ -36,72 +40,78 @@ Ficha de trabalho para preparar este documento. As regras da casa prevalecem sob
 
 ### ETAPA 1 — PROBLEMATIZAÇÃO (Análise do Caso)
 Apresente dentro de um bloco <analise_do_caso>:
-- Caso especial invocado: descendente de português / refugiado reconhecido / apátrida
-- Prazo reduzido aplicável e fundamento legal
-- Prova da condição especial: ascendência portuguesa documentada / decreto de reconhecimento do estatuto de refugiado / reconhecimento de apatridia
-- Cumprimento do prazo reduzido de residência legal em Portugal
+- Caso especial invocado: apátrida (art. 6.º, n.º 3) / bisneto de português originário (art. 6.º, n.º 8) / antigo nacional que nunca adquiriu outra nacionalidade (art. 6.º, n.º 6); se for filho ou neto de português, encaminhar para a atribuição originária (art. 1.º, n.º 1, als. c) e d)); se for refugiado, para a naturalização geral (art. 6.º, n.º 1)
+- Prazo aplicável e fundamento legal: 4 anos (apátrida); 5 anos (bisneto); sem prazo de residência (antigo nacional); 7 ou 10 anos (refugiado, regime geral); redação anterior nos procedimentos pendentes a 19 de maio de 2026
+- Prova da condição especial: reconhecimento de apatridia / ascendência portuguesa originária em 3.º grau na linha reta documentada / registo da perda da nacionalidade portuguesa
+- Cumprimento do prazo de residência legal em Portugal (somando os períodos dentro do intervalo do art. 15.º, n.º 3)
 - Conhecimento da língua portuguesa: certificado disponível
 - Ausência de condenações criminais
 - Idoneidade cívica
 
 ### ETAPA 2 — ANÁLISE JURÍDICA (Fundamentação)
 Apresente dentro de um bloco <fundamentos_juridicos>:
-- Art. 6.º, n.º 2 da Lei n.º 37/81 — prazo reduzido para descendentes de portugueses [■ VERIFICAR: graus de parentesco elegíveis e prazo atual]
-- Art. 6.º, n.º 3 da Lei n.º 37/81 — prazo reduzido para refugiados e apátridas [■ VERIFICAR: prazo atual]
+- Art. 6.º, n.º 3 da Lei n.º 37/81 — apátridas com residência legal há pelo menos 4 anos e os requisitos das als. c) a h) do n.º 1; procedimento gratuito (n.º 12)
+- Art. 6.º, n.º 8 da Lei n.º 37/81 — descendentes em 3.º grau na linha reta de portugueses originários com residência legal há pelo menos 5 anos (dispensa da al. b) do n.º 1)
+- Art. 6.º, n.º 6 da Lei n.º 37/81 — quem perdeu a nacionalidade portuguesa, nunca adquiriu outra e mantém laços de ligação efetiva (dispensa da al. b) do n.º 1)
+- Art. 1.º, n.º 1, als. c) e d) da Lei n.º 37/81 — filhos e netos de portugueses: atribuição da nacionalidade originária, não naturalização (para os netos, laços de efetiva ligação e requisitos das als. c) a h) do art. 6.º, n.º 1 — art. 1.º, n.º 3)
+- Refugiados: sem prazo especial — art. 6.º, n.º 1, al. b) (7 anos para nacionais de países de língua oficial portuguesa e da UE, 10 anos para os restantes); a residência ao abrigo do regime do asilo é residência legal (art. 15.º, n.º 1)
 - Convenção de Genebra de 1951 (refugiados) e Protocolo de 1967 — estatuto de refugiado
 - Convenção de Nova Iorque de 1954 (apátridas) — estatuto de apátrida
-- Lei n.º 27/2008 — asilo em Portugal e estatuto de refugiado
+- Lei n.º 27/2008 — asilo em Portugal e estatuto de refugiado (alterada pela Lei n.º 62/2026, de 10 de setembro)
 - Regulamento da Nacionalidade [■ VERIFICAR: prazos e documentação exigida]
-- Requisitos comuns: ausência de condenações (art. 6.º, n.º 1, al. c)) e conhecimento do português
+- Requisitos comuns: art. 6.º, n.º 1, als. c) a h) — língua e cultura portuguesas, história e símbolos nacionais (presunção da primeira parte da al. c) para nacionais de países de língua oficial portuguesa — n.º 10); direitos e deveres e organização política do Estado; declaração solene de adesão; inexistência das condenações da al. f); ausência de perigo ou ameaça para a segurança; não ser destinatário de medidas restritivas (nos n.ºs 6 e 8, também a capacidade de subsistência da al. i))
 
 ### ETAPA 3 — CONSTRUÇÃO ARGUMENTATIVA
 Apresente dentro de um bloco <estrategia>:
-- Como documentar a ascendência portuguesa (certidão de nascimento do progenitor/avô português)
-- Como apresentar o decreto de reconhecimento do estatuto de refugiado / apatridia
-- Como demonstrar o cumprimento do prazo reduzido de residência legal
+- Como documentar a ascendência portuguesa originária em 3.º grau (certidões de nascimento do requerente, do progenitor, do avô e do bisavô português)
+- Como apresentar o reconhecimento da apatridia
+- Como demonstrar o cumprimento do prazo de residência legal aplicável
 - Argumento de integração e ligação efetiva à comunidade nacional
 
 ### ETAPA 4 — EXPOSIÇÃO ESTRUTURADA
 Redige o requerimento na seguinte estrutura:
 
-**CONSERVATÓRIA DOS REGISTOS CENTRAIS — SERVIÇO DE NACIONALIDADE**
+**EXMO.(A) SENHOR(A) MINISTRO(A) DA JUSTIÇA**
+(requerimento apresentado na Conservatória dos Registos Centrais, numa conservatória do registo civil ou num posto consular — art. 18.º, n.º 1, do Regulamento da Nacionalidade; art. 7.º, n.º 1, da Lei n.º 37/81)
 
 **REQUERIMENTO DE NATURALIZAÇÃO — CASO ESPECIAL**
-**Ao abrigo do artigo 6.º, n.º [2/3] da Lei n.º 37/81, de 3 de outubro**
+**Ao abrigo do artigo 6.º, n.º [3/6/8] da Lei n.º 37/81, de 3 de outubro**
 
-[NOME COMPLETO], de nacionalidade [país/apátrida], nascido/a em [data], NIF [número], residente em [morada em Portugal], vem requerer a aquisição da NACIONALIDADE PORTUGUESA POR NATURALIZAÇÃO ao abrigo do artigo 6.º, n.º [2/3] da Lei n.º 37/81, por ser [descendente de português/a / refugiado/a reconhecido/a / apátrida reconhecido/a], pelos seguintes fundamentos:
+[NOME COMPLETO], de nacionalidade [país/apátrida], nascido/a em [data], NIF [número], residente em [morada em Portugal], vem requerer a aquisição da NACIONALIDADE PORTUGUESA POR NATURALIZAÇÃO ao abrigo do artigo 6.º, n.º [3/6/8] da Lei n.º 37/81, por ser [apátrida reconhecido/a / antigo/a nacional português/a que nunca adquiriu outra nacionalidade / bisneto/a de português/a originário/a], pelos seguintes fundamentos:
 
 **I. DA IDENTIFICAÇÃO DO REQUERENTE**
 [Dados completos]
 
 **II. DO ENQUADRAMENTO LEGAL**
-[Art. 6.º, n.º [2/3] — transcrição do preceito]
+[Art. 6.º, n.º [3/6/8] — transcrição do preceito]
 
 **III. DA CONDIÇÃO ESPECIAL QUE FUNDAMENTA O PRAZO REDUZIDO**
 
-*[Para descendente de português:]*
-O/A requerente é filho/a (ou neto/a) de [nome], cidadão/ã português/a, conforme certidão de nascimento/filiação (Doc. [N]).
+*[Para bisneto de português originário — n.º 8:]*
+O/A requerente é bisneto/a de [nome], cidadão/ã português/a originário/a, descendente em 3.º grau na linha reta, conforme certidões de nascimento e filiação (Doc. [N]), e reside legalmente em Portugal há pelo menos cinco anos.
 
-*[Para refugiado reconhecido:]*
-O/A requerente é titular do estatuto de refugiado, reconhecido por despacho da AIMA datado de [data] (Doc. [N]).
+*[Para antigo nacional — n.º 6:]*
+O/A requerente teve a nacionalidade portuguesa, perdeu-a em [data] e nunca adquiriu outra, mantendo laços de ligação efetiva à comunidade nacional (Doc. [N]).
+
+> Filhos e netos de portugueses não usam esta minuta: têm a atribuição da nacionalidade originária (art. 1.º, n.º 1, als. c) e d)). O refugiado reconhecido não tem prazo especial: usa a naturalização geral do art. 6.º, n.º 1.
 
 *[Para apátrida:]*
 O/A requerente foi reconhecido/a como apátrida por [entidade] em [data] (Doc. [N]).
 
 **IV. DO CUMPRIMENTO DO PRAZO DE RESIDÊNCIA LEGAL**
-[Histórico de residência legal em Portugal: total de X anos — cumprimento do prazo reduzido de [3] anos]
+[Histórico de residência legal em Portugal: total de X anos — cumprimento do prazo aplicável: [4] anos (apátrida) ou [5] anos (bisneto); no n.º 6, sem prazo de residência]
 
 **V. DO CONHECIMENTO DA LÍNGUA PORTUGUESA**
 [Certificado CAPLE ou equivalente]
 
-**VI. DA IDONEIDADE CÍVICA**
-[Ausência de condenações; regularidade fiscal]
+**VI. DOS DEMAIS REQUISITOS (art. 6.º, n.º 1, als. d) a h); nos n.ºs 6 e 8, também a al. i))**
+[Direitos e deveres e organização política do Estado; declaração solene de adesão; ausência das condenações da al. f); ausência de perigo ou ameaça e de medidas restritivas; capacidade de subsistência e regularidade fiscal, quando exigível]
 
 **VII. DOS DOCUMENTOS JUNTOS**
 [Lista numerada]
 
 **VIII. DO PEDIDO**
-Requer-se a naturalização ao abrigo do artigo 6.º, n.º [2/3] da Lei n.º 37/81.
+Requer-se a naturalização ao abrigo do artigo 6.º, n.º [3/6/8] da Lei n.º 37/81.
 
 [Local e data]
 [Nome do advogado — Cédula OA n.º]
@@ -109,11 +119,11 @@ Requer-se a naturalização ao abrigo do artigo 6.º, n.º [2/3] da Lei n.º 37/
 **CHECKLIST DE DOCUMENTOS:**
 - [ ] Passaporte / documento de identificação (ou declaração de apatridia)
 - [ ] Certidão de nascimento (apostilada, traduzida)
-- [ ] *[Descendente de PT]:* Certidão de nascimento do progenitor/avô português; certidão de nascimento do requerente com filiação inscrita
-- [ ] *[Refugiado]:* Título de residência para refugiado; decreto de reconhecimento do estatuto
-- [ ] *[Apátrida]:* Documento de reconhecimento de apatridia
-- [ ] Todos os títulos de residência em Portugal
-- [ ] Certificado de conhecimento de português (CAPLE B1 ou superior)
+- [ ] *[Bisneto de PT — n.º 8]:* Certidões de nascimento do requerente, do progenitor, do avô e do bisavô português originário, com as filiações inscritas
+- [ ] *[Antigo nacional — n.º 6]:* Prova da perda da nacionalidade portuguesa e de que nunca adquiriu outra
+- [ ] *[Apátrida — n.º 3]:* Documento de reconhecimento de apatridia
+- [ ] Todos os títulos de residência em Portugal (o documento da AIMA é, em regra, obtido oficiosamente — art. 37.º, n.º 7, al. b), do Regulamento da Nacionalidade)
+- [ ] Certificado de conhecimento de português (o Regulamento refere o nível A2 ou superior do QECR — art. 25.º, n.º 2) [■ VERIFICAR: prova da cultura, história e símbolos nacionais depois da revisão do Regulamento]
 - [ ] Certificado de registo criminal português
 - [ ] Certificado de registo criminal do país de origem (apostilado)
 - [ ] Comprovativo de regularização fiscal (AT e SS)
@@ -122,8 +132,8 @@ Requer-se a naturalização ao abrigo do artigo 6.º, n.º [2/3] da Lei n.º 37/
 ### ETAPA 5 — FORMULAÇÃO FINAL (Validação)
 Apresente dentro de um bloco <checklist_validacao>:
 - [ ] Caso especial identificado e fundamentado no artigo correto
-- [ ] Prazo reduzido de residência legal cumprido (3 anos ou prazo vigente)
-- [ ] Prova da condição especial (ascendência, estatuto de refugiado, apatridia) documentada
+- [ ] Prazo de residência legal aplicável cumprido (4 anos — apátrida; 5 anos — bisneto; redação anterior nos procedimentos pendentes)
+- [ ] Prova da condição especial (apatridia, ascendência em 3.º grau, perda anterior da nacionalidade) documentada
 - [ ] Conhecimento do português certificado
 - [ ] Ausência de condenações verificada
 - [ ] Situação fiscal e contributiva regularizada
@@ -143,9 +153,10 @@ Apresente dentro de um bloco <checklist_validacao>:
 - Tempo de residência legal em PT: [X anos e X meses]
 
 **CASO ESPECIAL:**
-- [ ] Descendente de português (pai/mãe/avô/avó): [identificar o ascendente português e documentação]
-- [ ] Refugiado reconhecido: [n.º e data do decreto de reconhecimento]
+- [ ] Bisneto de português originário: [identificar o bisavô português e documentação] (filho ou neto: atribuição originária, art. 1.º)
+- [ ] Antigo nacional português que nunca adquiriu outra nacionalidade: [data e registo da perda]
 - [ ] Apátrida reconhecido: [documento de reconhecimento]
+- [ ] Refugiado reconhecido: [n.º e data do reconhecimento] (regime geral do art. 6.º, n.º 1)
 
 **DOCUMENTAÇÃO DE SUPORTE:**
 [Liste documentos disponíveis para comprovar a condição especial]
@@ -164,10 +175,40 @@ Apresente dentro de um bloco <checklist_validacao>:
 
 | Citação | Estado | Nota |
 |---|---|---|
-| Art. 6.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| Art. 6.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| Art. 6.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 6.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 6.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 6.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 6.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 6.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 6.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 6.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 6.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 6.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 6.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 6.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 6.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 6.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 6.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 6.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 7.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 7.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 1.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 1.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 1.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 1.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 1.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 3.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 15.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 15.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 15.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| Art. 6.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| Art. 6.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| Art. 6.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| Art. 6.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| Art. 1.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 18.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | artigo 6.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | artigo 6.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | artigo 6.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 37.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 25.º | por conferir [■ VERIFICAR] | diploma não identificado |

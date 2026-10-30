@@ -6,7 +6,8 @@ titulo_en: "Analysis of Applicable Law and Jurisdiction in Cross-Border Family D
 descricao: "Analisa a competência internacional e a lei aplicável em litígios de família com elemento de conexão europeu (divórcio, responsabilidades parentais, rapto internacional de menores), ao abrigo do Regulamento (UE) 2019/1111 (Bruxelas II-ter) e das Convenções de Haia aplicáveis, e elabora o requerimento ou a contestação adequados."
 descricao_en: "Analyses international jurisdiction and the applicable law in family disputes with a European connection (divorce, parental responsibilities (responsabilidades parentais), international child abduction), under Regulation (EU) 2019/1111 (Brussels II ter) and the applicable Hague Conventions, and drafts the appropriate application or defence."
 ambito: ue
-estado_citacoes: "conferidas 0 · corrigidas 0 · por conferir 20"
+estado_citacoes: "conferidas 0 · corrigidas 0 · por conferir 27"
+revisao_tecnica: "2026-10-28 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
@@ -14,7 +15,8 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 
 > **Âmbito:** UE · **Área:** Direito da União Europeia · **Código:** UE-034
 > **EN:** Analysis of Applicable Law and Jurisdiction in Cross-Border Family Disputes (Brussels II ter Regulation). Analyses international jurisdiction and the applicable law in family disputes with a European connection (divorce, parental responsibilities (responsabilidades parentais), international child abduction), under Regulation (EU) 2019/1111 (Brussels II ter) and the applicable Hague Conventions, and drafts the appropriate application or defence.
-> **Citações:** conferidas 0 · corrigidas 0 · por conferir 20. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 0 · corrigidas 0 · por conferir 27. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-28 — corrigida (9 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
 Analisa a competência internacional e a lei aplicável em litígios de família com elemento de conexão europeu (divórcio, responsabilidades parentais, rapto internacional de menores), ao abrigo do Regulamento (UE) 2019/1111 (Bruxelas II-ter) e das Convenções de Haia aplicáveis, e elabora o requerimento ou a contestação adequados.
 
@@ -34,18 +36,18 @@ Dentro de <analise_da_situacao>:
 - Identificação das conexões relevantes: nacionalidade(s) dos cônjuges/progenitores; residência habitual (elemento central); localização dos menores; Estado-Membro do casamento
 - Natureza do litígio: divórcio; responsabilidades parentais; rapto; reconhecimento de decisão estrangeira
 - Estados-Membros envolvidos (verificar se são todos EM da UE ou se há Estados terceiros)
-- Urgência (rapto requer ação imediata nos 6 meses — art. 22.º Bruxelas II-ter)
+- Urgência (rapto: agir de imediato — se o pedido der entrada antes de decorrido 1 ano sobre a deslocação ou retenção ilícitas, o regresso é ordenado sem mais, art. 12.º da Convenção de Haia 1980; o tribunal de 1.ª instância decide no prazo de 6 semanas, art. 24.º, n.º 2, Bruxelas II-ter)
 - Dados em falta
 
 ### ETAPA 2 — ANÁLISE JURÍDICA
 Dentro de <fundamentos_juridicos>:
 - Bruxelas II-ter (Reg. 2019/1111):
-  • Competência em matéria matrimonial: art. 3.º — 7 foros alternativos de competência (residência habitual de ambos ou do requerente; última residência habitual comum; residência habitual do requerido; nacionalidade de ambos os cônjuges)
-  • Competência em responsabilidades parentais: art. 7.º — residência habitual da criança; normas de competência de urgência (art. 11.º)
-  • Rapto de criança: obrigação de regresso (arts. 22.º-27.º); prazos; exceções estritas (art. 13.º Convenção de Haia 1980)
+  • Competência em matéria matrimonial: art. 3.º — 7 foros alternativos de competência (residência habitual de ambos; última residência habitual de ambos, se um deles ainda aí residir; residência habitual do requerido; em caso de pedido conjunto, residência habitual de qualquer deles; residência habitual do requerente que aí resida há pelo menos 1 ano, ou 6 meses se for nacional desse Estado; nacionalidade de ambos os cônjuges)
+  • Competência em responsabilidades parentais: art. 7.º — residência habitual da criança; medidas provisórias e cautelares em casos urgentes (art. 15.º); competência baseada na presença da criança (art. 11.º)
+  • Rapto de criança: obrigação de regresso (arts. 22.º a 29.º); prazos (a autoridade central acusa a receção em 5 dias úteis, art. 23.º, n.º 2; decisão em 6 semanas em cada instância, art. 24.º, n.os 2 e 3); exceções estritas (art. 13.º Convenção de Haia 1980)
   • Reconhecimento automático de decisões (art. 30.º); recusa: arts. 38.º-39.º; ordem pública; audição da criança
 - Roma III (Reg. 1259/2010): escolha de lei pelas partes (art. 5.º); lei aplicável na falta de escolha (art. 8.º) — lei da residência habitual comum; lei da última residência habitual comum; lei da nacionalidade comum; lei do foro
-- Convenção de Haia 1980: obrigação de regresso da criança; prazo de 1 ano para aplicação da presunção de integração; autoridade central portuguesa — DGRSP
+- Convenção de Haia 1980: obrigação de regresso da criança; prazo de 1 ano para aplicação da presunção de integração; autoridade central portuguesa — Direção-Geral da Administração da Justiça (DGAJ)
 
 ### ETAPA 3 — MAPA DE COMPETÊNCIA E LEI APLICÁVEL
 Dentro de <estrutura_parecer>:
@@ -70,10 +72,10 @@ Dentro de <estrutura_parecer>:
 [Existência de acordo de escolha de lei (art. 5.º)? Em caso negativo, hierarquia do art. 8.º; resultado: lei aplicável]
 
 **IV. Lei Aplicável às Responsabilidades Parentais**
-[Convenção de Haia 1996, art. 15.º: lei da residência habitual da criança; exceção do art. 15.º, n.º 2]
+[Convenção de Haia 1996, art. 15.º, n.º 1: a autoridade competente aplica a sua própria lei — que, assentando a competência na residência habitual da criança, coincide em regra com a lei dessa residência; exceção do art. 15.º, n.º 2; atribuição ou extinção das responsabilidades parentais por força da lei e o seu exercício: lei da residência habitual da criança (arts. 16.º e 17.º)]
 
 **V. Reconhecimento em Portugal de Eventual Decisão Estrangeira**
-[Arts. 30.º e ss. Bruxelas II-ter: reconhecimento automático; causas de recusa — ordem pública; audição da criança (art. 39.º, al. b))]
+[Arts. 30.º e ss. Bruxelas II-ter: reconhecimento automático; causas de recusa — ordem pública; falta de oportunidade de a criança exprimir a sua opinião (art. 39.º, n.º 2, e art. 21.º)]
 
 **VI. Recomendações Estratégicas**
 [Foro recomendado e fundamentação; urgência de atos a praticar; coordenação com advogado no outro EM]
@@ -82,10 +84,10 @@ Dentro de <estrutura_parecer>:
 Dentro de <checklist_validacao>:
 - [ ] Estados-Membros identificados (verificar aplicabilidade do Bruxelas II-ter — todos EM exceto Dinamarca)
 - [ ] Residência habitual da criança determinada (elemento central)
-- [ ] Urgência de rapto verificada (prazo de 6 meses art. 22.º Bruxelas II-ter)
+- [ ] Urgência de rapto verificada (1 ano desde a deslocação ou retenção ilícitas — art. 12.º da Convenção de Haia 1980; decisão em 6 semanas — art. 24.º Bruxelas II-ter)
 - [ ] Lei aplicável ao divórcio determinada (Roma III)
 - [ ] Foro mais favorável identificado com fundamentação
-- [ ] Autoridade central nacional contactada se rapto (DGRSP)
+- [ ] Autoridade central nacional contactada se rapto (DGAJ)
 - [ ] [■ VERIFICAR] itens sinalizados
 
 ---
@@ -104,14 +106,22 @@ Dentro de <checklist_validacao>:
 
 | Citação | Estado | Nota |
 |---|---|---|
-| art. 22.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| art. 22.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 12.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 12.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 24.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 24.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 24.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 3.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 3.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 7.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 7.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 15.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 15.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 15.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 15.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 11.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | arts. 22.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 23.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 13.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 30.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | arts. 38.º | por conferir [■ VERIFICAR] | diploma não identificado |
@@ -119,8 +129,7 @@ Dentro de <checklist_validacao>:
 | art. 5.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 8.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 8.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| art. 15.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| art. 15.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| art. 15.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| arts. 16.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | Arts. 30.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 39.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 21.º | por conferir [■ VERIFICAR] | diploma não identificado |

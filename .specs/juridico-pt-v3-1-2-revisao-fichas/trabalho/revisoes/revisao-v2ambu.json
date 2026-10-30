@@ -1,0 +1,615 @@
+[
+ {
+  "codigo": "AMB-002",
+  "veredicto": "corrigida",
+  "resumo": "A ficha apresentava o TUA como próprio dos estabelecimentos sem licença ambiental PCIP, quando o LUA integra também a licença ambiental do regime de emissões industriais (art. 2.º, n.º 1, al. c), do DL n.º 75/2015), e dava como componentes ambientais o DL n.º 78/2004 e a Portaria n.º 80/2006 (revogados pelo DL n.º 39/2018) e o ruído, que não é regime integrado no TUA. Corrigiram-se os regimes integrados (licença ambiental, TEGEE, TURH, TEAR), o destinatário e o canal do pedido (balcão eletrónico do SIR, ou SILiAmb com a APA, I. P., como ANLUA — arts. 6.º e 15.º) e a taxa (Taxa Ambiental Única paga à ANLUA — art. 19.º — e não uma tabela do IAPMEI).",
+  "descricao": "Elabora o requerimento de concessão, alteração ou renovação do Título Único Ambiental (TUA), instrumento previsto no DL n.º 75/2015, de 11 de maio (Licenciamento Único de Ambiente), que reúne num único título as licenças e os atos de controlo prévio ambiental a que o estabelecimento está sujeito — incluindo a licença ambiental do regime de emissões industriais (PCIP), o título de emissão de gases com efeito de estufa, o título de utilização dos recursos hídricos e o título de emissões para o ar —, com a articulação com o Sistema da Indústria Responsável (SIR).",
+  "descricao_en": "Drafts the application for the grant, amendment or renewal of the Single Environmental Permit (Título Único Ambiental, TUA), provided for in Decree-Law No. 75/2015 of 11 May (Single Environmental Licensing), which brings together in a single title the environmental licences and prior-control acts to which the establishment is subject — including the environmental licence under the industrial emissions (IPPC) regime, the greenhouse gas emissions permit, the water resources use permit and the air emissions permit — and its coordination with the Responsible Industry System (SIR).",
+  "substituicoes": [
+   {
+    "de": "- Componentes ambientais base do TUA: ar (DL 78/2004), água (DL 236/98 / Lei 58/2005), resíduos (DL 102-D/2020), ruído (Regulamento Geral do Ruído, DL 9/2007)",
+    "para": "- Regimes integrados no TUA (art. 2.º, n.º 1, do DL n.º 75/2015): AIA, prevenção de acidentes graves, emissões industriais — licença ambiental do REI (DL 127/2013), comércio de licenças de emissão — TEGEE (hoje DL 12/2020), gestão de resíduos (hoje DL 102-D/2020), TURH (DL 226-A/2007), aterros, emissões para o ar — TEAR (DL 39/2018, que revogou o DL 78/2004 e a Portaria 80/2006) e água para reutilização (DL 119/2019); o ruído (RGR, DL 9/2007) não é regime integrado no TUA [■ VERIFICAR: remissões do art. 2.º do DL n.º 75/2015 para diplomas entretanto substituídos]",
+    "motivo": "O TUA abrange também a licença ambiental do REI (PCIP) e outros regimes; o DL 78/2004 e a Portaria 80/2006 foram revogados pelo DL 39/2018 (art. 43.º); o ruído não consta do art. 2.º do DL 75/2015.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2328&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "  * Ar: DL n.º 78/2004 e Portaria n.º 80/2006 [■ VERIFICAR valores limite atuais]",
+    "para": "  * Ar: DL n.º 39/2018 (prevenção e controlo das emissões de poluentes para o ar; título de emissões para o ar — TEAR, integrado no TUA), que revogou o DL n.º 78/2004 e a Portaria n.º 80/2006 [■ VERIFICAR: valores-limite e portarias em vigor, incluindo as alterações do DL n.º 124/2026]",
+    "motivo": "O DL 78/2004 e a Portaria 80/2006 foram revogados pelo art. 43.º do DL 39/2018 (alterado pelos DL 11/2023 e DL 124/2026).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2904A0039&nid=2904&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "  * Água: DL n.º 236/98 e Lei n.º 58/2005 (Lei da Água)",
+    "para": "  * Água: Lei n.º 58/2005 (Lei da Água) e DL n.º 226-A/2007 (título de utilização dos recursos hídricos — TURH, integrado no TUA); valores-limite de descarga do DL n.º 236/98 [■ VERIFICAR: normas ainda em vigor]",
+    "motivo": "A componente «água» do TUA é o TURH do DL 226-A/2007 (art. 2.º, n.º 1, al. f), do DL 75/2015).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2328&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "  * Ruído: DL n.º 9/2007 (RGR) e valores limite por zona",
+    "para": "  * Ruído: DL n.º 9/2007 (RGR) e valores limite por zona — não é regime integrado no TUA (art. 2.º, n.º 1, do DL n.º 75/2015); a conformidade acústica é apreciada no procedimento de licenciamento da atividade [■ VERIFICAR]",
+    "motivo": "O RGR não consta dos regimes abrangidos pelo LUA (art. 2.º, n.º 1, do DL 75/2015).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2328&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Taxas aplicáveis [■ VERIFICAR: tabela em vigor no IAPMEI]",
+    "para": "- Taxa Ambiental Única (TAU), paga à APA, I. P. (ANLUA) com o pedido; nos procedimentos SIR é cobrada nesse procedimento e remetida à ANLUA; o prazo de emissão do TUA só corre após o pagamento (arts. 16.º, n.º 2, e 19.º do DL n.º 75/2015) [■ VERIFICAR: portaria que fixa o valor da TAU]",
+    "motivo": "O pedido de TUA está sujeito à Taxa Ambiental Única, paga à ANLUA (APA, I. P.), e não a uma tabela do IAPMEI.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2328&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "**AO IAPMEI — AGÊNCIA PARA A COMPETITIVIDADE E INOVAÇÃO, I.P.**\n(ou entidade coordenadora do SIR territorialmente competente)",
+    "para": "**À ENTIDADE COORDENADORA DO PROCEDIMENTO SIR — [■ VERIFICAR: IAPMEI, CCDR ou câmara municipal, consoante o tipo de estabelecimento e a atividade — art. 13.º do DL n.º 169/2012]**\n(pedido submetido no balcão eletrónico do SIR — art. 15.º, n.º 1, do DL n.º 75/2015; fora de um regime de atividade económica, o pedido é submetido diretamente no SILiAmb e dirigido à APA, I. P., enquanto Autoridade Nacional para o LUA — arts. 6.º e 15.º, n.º 2, do DL n.º 75/2015)",
+    "motivo": "Nas atividades do SIR o pedido segue pelo balcão desse regime e pela respetiva entidade coordenadora; nos restantes casos é submetido no SILiAmb, sendo a APA, I. P., a ANLUA que emite o TUA quando não há entidade coordenadora no domínio do ambiente.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2328&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "Pedido expresso ao abrigo do art. [X] do DL 75/2015",
+    "para": "Pedido expresso ao abrigo do art. 12.º do DL 75/2015 (pedido de TUA mediante entrega do dossier único eletrónico — arts. 12.º e 13.º), com indicação dos atos de licenciamento ou controlo prévio ambiental requeridos (art. 12.º, n.º 2)",
+    "motivo": "O pedido de TUA rege-se pelo art. 12.º do DL 75/2015 e é instruído com o dossier eletrónico do art. 13.º.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2328&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar a entidade coordenadora do SIR para o tipo de estabelecimento e o CAE (art. 13.º do DL n.º 169/2012, na redação em vigor), tendo em conta a integração das antigas direções regionais de economia nas CCDR.",
+   "O art. 2.º do DL n.º 75/2015 ainda remete para diplomas substituídos (DL n.º 38/2013, DL n.º 178/2006, DL n.º 254/2007): confirmar a correspondência com os diplomas em vigor (DL n.º 12/2020, DL n.º 102-D/2020 e regime de prevenção de acidentes graves).",
+   "Confirmar a portaria que fixa a Taxa Ambiental Única e o montante aplicável ao pedido (simulador do SILiAmb).",
+   "Confirmar se cada componente pedida tem prazo de validade ou renovação (segundo o DL n.º 11/2023, a licença ambiental do REI deixou de ter prazo de validade — a confirmar).",
+   "O pedido de TUA faz-se pelo formulário eletrónico (dossier único eletrónico); o requerimento redigido serve de exposição que o acompanha."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2328&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2904A0039&nid=2904&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://pgdlisboa.pt/leis/lei_mostra_articulado.php?ficha=1&nid=3617&pagina=1&so_miolo=&tabela=leis",
+   "https://files.diariodarepublica.pt/1s/2024/12/23500/0004600105.pdf"
+  ]
+ },
+ {
+  "codigo": "AMB-019",
+  "veredicto": "corrigida",
+  "resumo": "A ficha assentava no DL n.º 38/2013, revogado pelo DL n.º 12/2020 (art. 47.º), no Regulamento (UE) n.º 601/2012, revogado pelo Regulamento de Execução (UE) 2018/2066, e no prazo de devolução de licenças de 30 de abril, que passou a 30 de setembro com a Diretiva (UE) 2023/959 (art. 12.º, n.º 3, da Diretiva) e o DL n.º 101/2024 (art. 24.º, n.º 4, do DL n.º 12/2020). Corrigiram-se ainda a designação do título (TEGEE, não «AEGEE»), o registo (RPLE integrado no Registo da União — Regulamento Delegado (UE) 2019/1122) e a penalização (100 €/tCO2e, atualizada pelo índice europeu de preços no consumidor — art. 36.º do DL n.º 12/2020).",
+  "descricao": "Elabora análise jurídica de conformidade de uma instalação industrial com o Regime Europeu de Comércio de Licenças de Emissão (CELE — EU ETS), ao abrigo da Diretiva 2003/87/CE, na redação em vigor, e da transposição portuguesa (DL n.º 12/2020, que revogou o DL n.º 38/2013), incluindo a verificação do âmbito de aplicação, das obrigações de monitorização, comunicação de informações e verificação (MRV), da atribuição de licenças e da conformidade documental.",
+  "descricao_en": "Drafts a legal compliance analysis of an industrial installation under the EU Emissions Trading System (EU ETS), under Directive 2003/87/EC as currently in force and its Portuguese transposition (Decree-Law No. 12/2020, which repealed Decree-Law No. 38/2013), including verification of the scope of application, monitoring, reporting and verification (MRV) obligations, allocation of allowances and documentary compliance.",
+  "substituicoes": [
+   {
+    "de": "- Base legal: Diretiva 2003/87/CE reformada (Diretiva ETS, última versão em vigor) [■ VERIFICAR versão consolidada]; DL n.º 38/2013 (transposição PT) [■ VERIFICAR atualizações]; Regulamento MRR (Regulamento UE n.º 601/2012 e sucessores) [■ VERIFICAR versão atual]; Regulamento de Registo [■ VERIFICAR]",
+    "para": "- Base legal: Diretiva 2003/87/CE, alterada nomeadamente pelas Diretivas (UE) 2018/410 e 2023/959 [■ VERIFICAR versão consolidada]; DL n.º 12/2020 (transposição PT; revogou o DL n.º 38/2013 — art. 47.º), alterado pelo DL n.º 114/2021 e pelo DL n.º 101/2024 [■ VERIFICAR alterações posteriores]; Regulamento de Execução (UE) 2018/2066 (MRR, que revogou o Regulamento (UE) n.º 601/2012 a partir de 1 de janeiro de 2021) e Regulamento de Execução (UE) 2018/2067 (verificação e acreditação); Regulamento Delegado (UE) 2019/1122 (Registo da União)",
+    "motivo": "O DL 38/2013 foi revogado pelo DL 12/2020 e o Regulamento 601/2012 pelo Regulamento de Execução 2018/2066; o registo rege-se pelo Regulamento Delegado 2019/1122.",
+    "fonte": "https://files.diariodarepublica.pt/1s/2024/12/23500/0004600105.pdf"
+   },
+   {
+    "de": "- Operador: quem é? existe autorização de emissão de GEE (AEGEE)?",
+    "para": "- Operador: quem é? existe título de emissão de gases com efeito de estufa (TEGEE) emitido pela APA, I. P. (art. 6.º do DL n.º 12/2020)?",
+    "motivo": "O título exigido é o TEGEE emitido pela APA, I. P.; «AEGEE» não é figura do direito português.",
+    "fonte": "https://files.diariodarepublica.pt/1s/2024/12/23500/0004600105.pdf"
+   },
+   {
+    "de": "- Licenças entregues: cumprimento do prazo anual (30 de Abril) [■ VERIFICAR prazo atual]",
+    "para": "- Licenças devolvidas: cumprimento do prazo anual (30 de setembro — art. 24.º, n.º 4, do DL n.º 12/2020; art. 12.º, n.º 3, da Diretiva 2003/87/CE, na redação da Diretiva (UE) 2023/959)",
+    "motivo": "O prazo de devolução passou de 30 de abril para 30 de setembro (Diretiva 2023/959; DL 101/2024).",
+    "fonte": "https://publications.europa.eu/resource/celex/02003L0087-20240301"
+   },
+   {
+    "de": "- Registo: instalação registada no sistema SELER/SEQE?",
+    "para": "- Registo: conta de depósito de operador no Registo Português de Licenças de Emissão integrado no Registo da União (RPLE-RU — art. 26.º do DL n.º 12/2020; Regulamento Delegado (UE) 2019/1122)?",
+    "motivo": "O registo é o RPLE integrado no Registo da União, regido pelo Regulamento Delegado 2019/1122.",
+    "fonte": "https://files.diariodarepublica.pt/1s/2024/12/23500/0004600105.pdf"
+   },
+   {
+    "de": "- DL n.º 38/2013 (transposição PT): AEGEE, autoridade competente (APA), penalidades",
+    "para": "- DL n.º 12/2020 (transposição PT): TEGEE (arts. 6.º a 10.º), autoridade nacional competente (APA, I. P. — art. 4.º), penalização por emissões excedentárias (art. 36.º) e contraordenações ambientais (art. 37.º), instruídas e decididas pela IGAMAOT (art. 38.º)",
+    "motivo": "O DL 38/2013 foi revogado pelo DL 12/2020, que regula o TEGEE, a autoridade competente, a penalização e as contraordenações.",
+    "fonte": "https://files.diariodarepublica.pt/1s/2024/12/23500/0004600105.pdf"
+   },
+   {
+    "de": "- Regulamento de Registo (ELER): obrigações de registo no sistema europeu",
+    "para": "- Regulamento Delegado (UE) 2019/1122 (Registo da União): contas, transferências, devoluções e anulação de licenças",
+    "motivo": "O registo da União rege-se pelo Regulamento Delegado 2019/1122 (arts. 24.º, n.º 7, e 26.º do DL 12/2020).",
+    "fonte": "https://files.diariodarepublica.pt/1s/2024/12/23500/0004600105.pdf"
+   },
+   {
+    "de": "- Penalidade por falta de entrega: €100/tCO2 + entrega das licenças em falta [■ VERIFICAR valor atual fase 4]",
+    "para": "- Penalização por emissões excedentárias: 100 €/tCO2e, atualizada pelo índice europeu de preços no consumidor, + devolução das licenças em falta (art. 16.º, n.ºs 3 e 4, da Diretiva; art. 36.º do DL n.º 12/2020) [■ VERIFICAR valor atualizado]",
+    "motivo": "O valor de 100 € é atualizado pelo índice europeu de preços no consumidor desde 2013 e a penalização não dispensa a devolução.",
+    "fonte": "https://files.diariodarepublica.pt/1s/2024/12/23500/0004600105.pdf"
+   },
+   {
+    "de": "II.2 — Autorização de Emissão de GEE (AEGEE)\nEstado atual da AEGEE: válida / caducada / em renovação [■ VERIFICAR junto à APA]",
+    "para": "II.2 — Título de Emissão de Gases com Efeito de Estufa (TEGEE)\nEstado atual do TEGEE: válido / caducado / revogado / em atualização (arts. 9.º e 10.º do DL n.º 12/2020) [■ VERIFICAR junto da APA, I. P.]",
+    "motivo": "O título é o TEGEE, que se atualiza, caduca ou é revogado nos termos dos arts. 9.º e 10.º do DL 12/2020.",
+    "fonte": "https://files.diariodarepublica.pt/1s/2024/12/23500/0004600105.pdf"
+   },
+   {
+    "de": "Prazo de submissão: 31 de Março de cada ano [■ VERIFICAR prazo atual]",
+    "para": "Prazo de submissão: 31 de março de cada ano (art. 32.º, n.º 3, do DL n.º 12/2020); a partir dessa data, sem relatório satisfatório, a APA, I. P., veda a transferência de licenças (art. 33.º, n.º 3)",
+    "motivo": "Prazo confirmado no art. 32.º, n.º 3, do DL 12/2020.",
+    "fonte": "https://files.diariodarepublica.pt/1s/2024/12/23500/0004600105.pdf"
+   },
+   {
+    "de": "Licenças entregues até 30 de Abril [■ VERIFICAR prazo] de cada ano: [quantidade vs. emissões verificadas]",
+    "para": "Licenças devolvidas até 30 de setembro de cada ano (art. 24.º, n.º 4, do DL n.º 12/2020): [quantidade vs. emissões verificadas]",
+    "motivo": "O prazo de devolução é 30 de setembro desde a Diretiva 2023/959 e o DL 101/2024.",
+    "fonte": "https://files.diariodarepublica.pt/1s/2024/12/23500/0004600105.pdf"
+   },
+   {
+    "de": "Risco de penalidade: [sim/não — €100/tCO2 em falta + entrega pendente]",
+    "para": "Risco de penalização: [sim/não — 100 €/tCO2e em falta, valor atualizado (art. 36.º do DL n.º 12/2020), + devolução pendente]",
+    "motivo": "O montante é atualizado pelo índice europeu de preços no consumidor (art. 36.º, n.º 4, do DL 12/2020).",
+    "fonte": "https://files.diariodarepublica.pt/1s/2024/12/23500/0004600105.pdf"
+   },
+   {
+    "de": "- [ ] AEGEE válida e Plano de Monitorização aprovado [■ VERIFICAR]",
+    "para": "- [ ] TEGEE válido e plano de monitorização aprovado pela APA, I. P. [■ VERIFICAR]",
+    "motivo": "O título é o TEGEE (DL 12/2020).",
+    "fonte": "https://files.diariodarepublica.pt/1s/2024/12/23500/0004600105.pdf"
+   },
+   {
+    "de": "- AEGEE n.º: [■ VERIFICAR]",
+    "para": "- TEGEE n.º: [■ VERIFICAR]",
+    "motivo": "O título é o TEGEE (DL 12/2020).",
+    "fonte": "https://files.diariodarepublica.pt/1s/2024/12/23500/0004600105.pdf"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar o valor atualizado da penalização por emissões excedentárias para o ano em causa (art. 36.º, n.º 4, do DL n.º 12/2020).",
+   "Confirmar se o DL n.º 12/2020 teve alterações posteriores ao DL n.º 101/2024 e o regime transitório deste para os anos analisados.",
+   "Para emissões até 2020 (fase 3), aplicam-se ainda normas do DL n.º 38/2013 nos termos do art. 46.º do DL n.º 12/2020.",
+   "CBAM: confirmar o fator CBAM aplicável à atribuição gratuita da instalação (Regulamento (UE) 2023/956)."
+  ],
+  "fontes": [
+   "https://files.diariodarepublica.pt/1s/2024/12/23500/0004600105.pdf",
+   "https://publications.europa.eu/resource/celex/02003L0087-20240301",
+   "https://publications.europa.eu/resource/celex/32023L0959",
+   "https://publications.europa.eu/resource/celex/32018R2066",
+   "https://publications.europa.eu/resource/celex/32018R2067"
+  ]
+ },
+ {
+  "codigo": "AMB-039",
+  "veredicto": "corrigida",
+  "resumo": "A ficha citava como regime nacional o DL n.º 38/2013, revogado pelo DL n.º 12/2020 (art. 47.º), os Regulamentos (UE) n.º 601/2012 e 600/2012, revogados pelos Regulamentos de Execução (UE) 2018/2066 e 2018/2067, o prazo de devolução de 30 de abril (hoje 30 de setembro) e atribuía o CBAM à Diretiva (UE) 2018/410 (foi criado pelo Regulamento (UE) 2023/956). Corrigiu-se ainda a entidade do processo contraordenacional (IGAMAOT, não a APA, I. P.), distinguiu-se a penalização por emissões excedentárias (art. 36.º, liquidada pela APA, I. P.) das contraordenações (art. 37.º) e substituiu-se a SENDECO2 pela plataforma comum de leilões.",
+  "descricao": "Elabora parecer jurídico sobre as obrigações de conformidade de uma instalação industrial no âmbito do Comércio Europeu de Licenças de Emissão de Gases com Efeito de Estufa (CELE/ETS), ao abrigo da Diretiva 2003/87/CE (Diretiva CELE) e do Decreto-Lei n.º 12/2020, de 6 de abril (transposição, que revogou o Decreto-Lei n.º 38/2013), incluindo a análise de défice de licenças, a estratégia de compra no mercado e a defesa contra a penalização por emissões excedentárias e em processo de contraordenação.",
+  "descricao_en": "Drafts a legal opinion on the compliance obligations of an industrial installation under the EU Greenhouse Gas Emissions Trading System (CELE/ETS), under Directive 2003/87/EC (ETS Directive) and Decree-Law No. 12/2020 of 6 April (transposition, which repealed Decree-Law No. 38/2013), including analysis of an allowance shortfall, the strategy for purchasing on the market and the defence against the excess emissions penalty and in administrative offence proceedings.",
+  "substituicoes": [
+   {
+    "de": "— Cita artigos reais da Diretiva CELE, do DL 38/2013 e da LQCA.",
+    "para": "— Cita artigos reais da Diretiva CELE, do DL 12/2020 (que revogou o DL 38/2013 — art. 47.º) e da LQCA.",
+    "motivo": "O DL 38/2013 foi revogado pelo DL 12/2020.",
+    "fonte": "https://files.diariodarepublica.pt/1s/2024/12/23500/0004600105.pdf"
+   },
+   {
+    "de": "- Diretiva 2003/87/CE: obrigações do operador (arts. 12.º e ss.), sanção por excesso de emissões (€100/tCO2 + restituição — art. 16.º)",
+    "para": "- Diretiva 2003/87/CE: obrigações do operador (arts. 12.º e ss.; devolução até 30 de setembro — art. 12.º, n.º 3, na redação da Diretiva (UE) 2023/959), multa por emissões excedentárias (100 EUR/tCO2e, atualizada pelo índice europeu de preços no consumidor, sem dispensa da devolução — art. 16.º, n.ºs 3 e 4)",
+    "motivo": "A Diretiva 2023/959 fixou a devolução em 30 de setembro; a multa de 100 EUR é atualizada pelo índice europeu de preços no consumidor desde 2013.",
+    "fonte": "https://publications.europa.eu/resource/celex/02003L0087-20240301"
+   },
+   {
+    "de": "- DL 38/2013: transposição, regime sancionatório (arts. 22.º e ss.), competência da APA",
+    "para": "- DL 12/2020 (regime CELE 2021-2030, alterado pelo DL 114/2021 e pelo DL 101/2024): APA, I. P., autoridade nacional competente (art. 4.º); TEGEE (arts. 6.º a 10.º); devolução até 30 de setembro (art. 24.º, n.º 4); penalização por emissões excedentárias liquidada pela APA, I. P. (art. 36.º); contraordenações ambientais puníveis nos termos da LQCA, instruídas e decididas pela IGAMAOT (arts. 37.º e 38.º)",
+    "motivo": "O regime aplicável é o do DL 12/2020; o processo contraordenacional cabe à IGAMAOT e a penalização é liquidada pela APA, I. P.",
+    "fonte": "https://files.diariodarepublica.pt/1s/2024/12/23500/0004600105.pdf"
+   },
+   {
+    "de": "- Plano de monitorização: Regulamento (UE) 601/2012 (MRR); obrigações de notificação de melhorias",
+    "para": "- Plano de monitorização: Regulamento de Execução (UE) 2018/2066 (MRR), que revogou o Regulamento (UE) 601/2012 a partir de 1 de janeiro de 2021; relatório de melhoria (art. 69.º do Regulamento 2018/2066)",
+    "motivo": "O Regulamento 601/2012 foi revogado pelo Regulamento de Execução 2018/2066.",
+    "fonte": "https://publications.europa.eu/resource/celex/32018R2066"
+   },
+   {
+    "de": "- Verificação independente: Regulamento (UE) 600/2012 (AVR); acreditação IPAC",
+    "para": "- Verificação independente: Regulamento de Execução (UE) 2018/2067 (AVR), que revogou o Regulamento (UE) 600/2012; verificadores acreditados (art. 33.º do DL 12/2020); acreditação IPAC",
+    "motivo": "O Regulamento 600/2012 foi revogado pelo Regulamento de Execução 2018/2067 (art. 78.º).",
+    "fonte": "https://publications.europa.eu/resource/celex/32018R2067"
+   },
+   {
+    "de": "- CELE IV (Diretiva (UE) 2018/410): benchmark revistos, mercado de carbono (fase 2021-2030), mecanismo de ajustamento carbónico fronteiriço (CBAM)",
+    "para": "- Fase 4 (Diretiva (UE) 2018/410): parâmetros de referência revistos, período 2021-2030; revisão «Objetivo 55» (Diretiva (UE) 2023/959, transposta pelo DL 101/2024); mecanismo de ajustamento carbónico fronteiriço (CBAM), criado pelo Regulamento (UE) 2023/956, com redução progressiva da atribuição gratuita nos setores abrangidos (fator CBAM)",
+    "motivo": "O CBAM não resulta da Diretiva 2018/410: foi criado pelo Regulamento (UE) 2023/956.",
+    "fonte": "https://files.diariodarepublica.pt/1s/2024/12/23500/0004600105.pdf"
+   },
+   {
+    "de": "leilões (SENDECO2)",
+    "para": "leilões na plataforma comum de leilões (Regulamento Delegado (UE) 2023/2830)",
+    "motivo": "A SENDECO2 não realiza os leilões da UE; estes decorrem na plataforma comum de leilões regulada pelo Regulamento Delegado 2023/2830.",
+    "fonte": "https://publications.europa.eu/resource/celex/32023R2830"
+   },
+   {
+    "de": "[síntese do regime: monitorização, verificação, entrega, prazo de 30 de abril]",
+    "para": "[síntese do regime: monitorização, verificação, relatório de emissões verificado até 31 de março (art. 32.º, n.º 3, do DL 12/2020), devolução até 30 de setembro (art. 24.º, n.º 4, do DL 12/2020)]",
+    "motivo": "O prazo de devolução passou de 30 de abril para 30 de setembro.",
+    "fonte": "https://files.diariodarepublica.pt/1s/2024/12/23500/0004600105.pdf"
+   },
+   {
+    "de": "4.1 Sanção por excesso de emissões: €100/tCO2 + obrigação de restituição (art. 16.º Diretiva; art. 22.º DL 38/2013)",
+    "para": "4.1 Penalização por emissões excedentárias: 100 €/tCO2e, atualizada pelo índice europeu de preços no consumidor, e obrigação de devolver as licenças em falta com as do ano seguinte (art. 16.º, n.ºs 3 e 4, da Diretiva; art. 36.º do DL 12/2020); liquidação pela APA, I. P., pagamento em 90 dias e, na falta, cobrança coerciva pela AT (art. 36.º, n.ºs 5 a 7) [■ VERIFICAR: valor atualizado]",
+    "motivo": "A penalização rege-se pelo art. 36.º do DL 12/2020; o DL 38/2013 está revogado.",
+    "fonte": "https://files.diariodarepublica.pt/1s/2024/12/23500/0004600105.pdf"
+   },
+   {
+    "de": "4.3 Processo contraordenacional da APA: prazos, direito de audição",
+    "para": "4.3 Processo contraordenacional da IGAMAOT (arts. 37.º e 38.º do DL 12/2020; Lei 50/2006 — LQCA): prazos, direito de audição e defesa; a penalização do art. 36.º não é coima e é liquidada pela APA, I. P. [■ VERIFICAR: meio de reação contra a nota de liquidação]",
+    "motivo": "A instrução e decisão das contraordenações compete à IGAMAOT; a penalização por emissões excedentárias é distinta da coima.",
+    "fonte": "https://files.diariodarepublica.pt/1s/2024/12/23500/0004600105.pdf"
+   },
+   {
+    "de": "- [ ] Autorização CELE (licença de emissão de GEE) válida",
+    "para": "- [ ] TEGEE (título de emissão de gases com efeito de estufa) válido e atualizado (arts. 6.º e 10.º do DL 12/2020)",
+    "motivo": "O título da instalação é o TEGEE; «licença de emissão» é a unidade transferível (art. 3.º do DL 12/2020).",
+    "fonte": "https://files.diariodarepublica.pt/1s/2024/12/23500/0004600105.pdf"
+   },
+   {
+    "de": "- [ ] Prazo de entrega de licenças (30 abril) confirmado",
+    "para": "- [ ] Prazo de devolução de licenças (30 de setembro — art. 24.º, n.º 4, do DL 12/2020) confirmado",
+    "motivo": "O prazo de devolução passou para 30 de setembro.",
+    "fonte": "https://files.diariodarepublica.pt/1s/2024/12/23500/0004600105.pdf"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar o valor atualizado da penalização (art. 36.º, n.º 4, do DL n.º 12/2020) e o meio de reação contra a nota de liquidação emitida pela APA, I. P.",
+   "Antes de invocar força maior ou proporcionalidade contra a multa, confirmar a jurisprudência do TJUE que afasta a modulação do montante (p. ex. acórdão Billerud, C-203/12 — a confirmar).",
+   "Para emissões até 2020 (fase 3), verificar o regime transitório do art. 46.º do DL n.º 12/2020, que mantém normas do DL n.º 38/2013 para os procedimentos desse período.",
+   "Confirmar se o DL n.º 12/2020 teve alterações posteriores ao DL n.º 101/2024."
+  ],
+  "fontes": [
+   "https://files.diariodarepublica.pt/1s/2024/12/23500/0004600105.pdf",
+   "https://publications.europa.eu/resource/celex/02003L0087-20240301",
+   "https://publications.europa.eu/resource/celex/32023L0959",
+   "https://publications.europa.eu/resource/celex/32018R2066",
+   "https://publications.europa.eu/resource/celex/32018R2067",
+   "https://publications.europa.eu/resource/celex/32023R2830"
+  ]
+ },
+ {
+  "codigo": "AMB-060",
+  "veredicto": "corrigida",
+  "resumo": "A ficha apresentava como vigentes o DL n.º 124/2006 e o DL n.º 10/2018, revogados pelo DL n.º 82/2021 (SGIFR, art. 80.º), chamava à Lei n.º 76/2017 Lei de Bases da Política Florestal (é a Lei n.º 33/96; a Lei n.º 76/2017 alterou o DL n.º 124/2006), fundava nela a obrigação de PGF (que decorre do art. 13.º do DL n.º 16/2009 e do PROF) e fixava o prazo de 30 de junho. Corrigiram-se o enquadramento (DL n.º 82/2021, com o regime transitório do art. 79.º, n.º 4, que mantém até 31/12/2026, enquanto vigorarem os PMDFCI, os deveres de gestão de combustível e as contraordenações do DL n.º 124/2006), as larguras das faixas, o prazo, as contraordenações e a base da responsabilidade civil (arts. 483.º, 486.º e 493.º, n.º 1, CC, em vez do art. 1347.º CC).",
+  "descricao": "Elabora parecer jurídico sobre as obrigações legais do proprietário florestal em matéria de gestão de combustíveis, faixas de gestão de combustível (FGC), plano de gestão florestal (PGF) e responsabilidade civil e contraordenacional por incêndio florestal, ao abrigo da Lei n.º 33/96 (Lei de Bases da Política Florestal), do Decreto-Lei n.º 16/2009 (planos de gestão florestal) e do Decreto-Lei n.º 82/2021 (Sistema de Gestão Integrada de Fogos Rurais — SGIFR), com o regime transitório que mantém aplicáveis normas do Decreto-Lei n.º 124/2006.",
+  "descricao_en": "Drafts a legal opinion on the forest owner's legal obligations regarding fuel management, fuel management strips (FGC), the forest management plan (PGF) and civil and administrative-offence liability for forest fires, under Law No. 33/96 (Forest Policy Framework Law), Decree-Law No. 16/2009 (forest management plans) and Decree-Law No. 82/2021 (Integrated Rural Fire Management System — SGIFR), with the transitional regime that keeps certain rules of Decree-Law No. 124/2006 applicable.",
+  "substituicoes": [
+   {
+    "de": "— Cita artigos reais do DL 124/2006, DL 10/2018 e Lei 76/2017.",
+    "para": "— Cita artigos reais do DL 82/2021 (SGIFR), do DL 16/2009 (planos de gestão florestal) e da Lei 33/96 (Lei de Bases da Política Florestal); o DL 124/2006 está revogado (art. 80.º, al. c), do DL 82/2021) e só se aplica no regime transitório do art. 79.º, n.º 4, do DL 82/2021.",
+    "motivo": "O DL 124/2006 (e com ele o DL 10/2018, que o alterou) foi revogado pelo DL 82/2021; a Lei de Bases da Política Florestal é a Lei 33/96 e a Lei 76/2017 apenas alterou o DL 124/2006.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3453&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Verificar as obrigações de FGC aplicáveis (faixa de 10 m ou 50 m — conforme o caso)",
+    "para": "- Verificar as obrigações de FGC aplicáveis na rede secundária: 50 m em redor de edifícios se a faixa abranger territórios florestais e 10 m se abranger territórios agrícolas; 100 m na envolvente de áreas edificadas confinantes com territórios florestais e de parques de campismo, estabelecimentos industriais e afins; 10 m ao longo da rede viária e ferroviária (art. 49.º, n.ºs 4 a 7, do DL 82/2021), com possível ajustamento até 50 % no programa sub-regional (n.º 2)",
+    "motivo": "As larguras das faixas da rede secundária constam hoje do art. 49.º do DL 82/2021.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3453&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- DL 124/2006: faixas de gestão de combustível (arts. 13.º e ss.), obrigações do proprietário, execução coerciva e cobrança pela câmara (art. 15.º), contraordenações (art. 37.º e ss.)",
+    "para": "- DL 82/2021 (SGIFR, em vigor desde 1 de janeiro de 2022): deveres dos proprietários (art. 21.º), gestão de combustível e rede secundária de FGC (arts. 47.º e 49.º), execução coerciva pela câmara municipal (art. 58.º), contraordenações puníveis nos termos da LQCA (art. 72.º); normas técnicas no regulamento do ICNF, I. P., homologado pelo Despacho n.º 675/2026 (art. 47.º, n.º 3)\n- Regime transitório: enquanto vigorarem os planos municipais de defesa da floresta contra incêndios (até 31 de dezembro de 2026), aplicam-se as normas do DL 124/2006 relativas aos deveres de gestão de combustível na rede secundária (art. 15.º do DL 124/2006) e às respetivas contraordenações (art. 38.º do DL 124/2006) — art. 79.º, n.ºs 1 e 4, do DL 82/2021 [■ VERIFICAR: prorrogação deste prazo e instrumento de planeamento em vigor no concelho]",
+    "motivo": "O DL 124/2006 foi revogado pelo DL 82/2021, que só mantém transitoriamente os deveres de gestão de combustível na rede secundária e as respetivas contraordenações; as contraordenações do DL 124/2006 estavam no art. 38.º.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3453&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- DL 10/2018: FGC específicas para redes viárias e ferroviárias; FGC de parcelas confinantes com infraestruturas",
+    "para": "- DL 10/2018: alterou o DL 124/2006 quanto aos critérios de gestão de combustível na rede secundária (anexo); esses critérios só vigoraram até ao regulamento do ICNF, I. P. (art. 79.º, n.º 7, do DL 82/2021), hoje o homologado pelo Despacho n.º 675/2026, com efeitos a 1 de janeiro de 2026",
+    "motivo": "O DL 10/2018 não criou FGC específicas: clarificou os critérios do anexo do DL 124/2006, entretanto substituídos pelo regulamento do ICNF.",
+    "fonte": "https://diariodarepublica.pt/dr/detalhe/despacho/675-2026-1016754080"
+   },
+   {
+    "de": "- Lei 76/2017: obrigação de plano de gestão florestal para áreas acima de [■ VERIFICAR] ha",
+    "para": "- DL 16/2009: PGF obrigatório para as explorações florestais e agroflorestais privadas de dimensão igual ou superior à definida no PROF respetivo (art. 13.º, n.º 1, al. b)); Lei 33/96 (Lei de Bases da Política Florestal) [■ VERIFICAR: área mínima no PROF aplicável]",
+    "motivo": "A obrigação de PGF decorre do art. 13.º do DL 16/2009 e do PROF, não da Lei 76/2017.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2781&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Código Civil: responsabilidade civil por propagação de incêndio (arts. 483.º e 1347.º CC); culpa in vigilando",
+    "para": "- Código Civil: responsabilidade civil por propagação de incêndio (art. 483.º CC, incluindo a violação de disposições destinadas a proteger interesses alheios, como os deveres de gestão de combustível; art. 486.º CC, omissões; art. 493.º, n.º 1, CC, presunção de culpa de quem tem coisa imóvel com o dever de a vigiar); o art. 1347.º CC (instalações prejudiciais) só releva para obras, instalações ou depósitos de substâncias perigosas [■ VERIFICAR: jurisprudência]",
+    "motivo": "A culpa in vigilando corresponde ao art. 493.º, n.º 1, CC; o art. 1347.º CC respeita a obras, instalações ou depósitos de substâncias corrosivas ou perigosas.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0493&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "[análise das FGC aplicáveis: largura, tipo de vegetação a remover, prazo anual (30 de junho); responsável pela execução]",
+    "para": "[análise das FGC aplicáveis: largura, tipo de vegetação a remover, prazo anual fixado por despacho dos membros do Governo responsáveis pela proteção civil e pelas florestas (art. 49.º, n.º 12, do DL 82/2021) ou, no regime transitório, até 30 de abril (art. 15.º, n.º 3, do DL 124/2006) [■ VERIFICAR: despacho do ano em causa]; responsável pela execução]",
+    "motivo": "Não há prazo legal de 30 de junho: no SGIFR o prazo é fixado por despacho e no regime do DL 124/2006 era 30 de abril.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3453&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "[obrigatoriedade; PROF aplicável; conteúdo mínimo; entidade de elaboração e aprovação (ICNF)]",
+    "para": "[obrigatoriedade (art. 13.º, n.º 1, al. b), do DL 16/2009: explorações privadas de dimensão igual ou superior à definida no PROF); PROF aplicável; conteúdo mínimo; elaboração pelo proprietário ou produtor florestal (art. 14.º, n.º 4) e aprovação pelo ICNF, I. P., em 30 dias, com aprovação tácita na falta de comunicação (art. 21.º, n.ºs 1 e 6)]",
+    "motivo": "Nas explorações privadas o PGF é elaborado pelo proprietário e aprovado pelo ICNF (DL 16/2009).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2781&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "4.1 Responsabilidade civil (arts. 483.º e 1347.º CC): pressupostos, nexo de causalidade",
+    "para": "4.1 Responsabilidade civil (arts. 483.º, 486.º e 493.º, n.º 1, CC): pressupostos, presunção de culpa de quem tem o dever de vigiar o prédio, nexo de causalidade",
+    "motivo": "A base da responsabilidade por propagação de incêndio a partir de prédio não vigiado é o art. 493.º, n.º 1, CC, não o art. 1347.º CC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0493&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "4.2 Responsabilidade contraordenacional (art. 37.º DL 124/2006): moldura da coima",
+    "para": "4.2 Responsabilidade contraordenacional: art. 72.º, n.º 1, als. e) e f), e n.º 2, do DL 82/2021 (contraordenações ambientais graves ou leves, puníveis nos termos da Lei 50/2006 — LQCA) ou, no regime transitório, art. 38.º do DL 124/2006; moldura da coima [■ VERIFICAR: regime aplicável à data dos factos]",
+    "motivo": "As contraordenações por falta de gestão de combustível constam do art. 72.º do DL 82/2021 (e, transitoriamente, do art. 38.º do DL 124/2006, não do art. 37.º).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3453&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "4.3 Responsabilidade criminal (art. 274.º CP): negligência grave na gestão de combustível",
+    "para": "4.3 Responsabilidade criminal (art. 274.º CP): o crime pressupõe que o agente provoque o incêndio; negligência (n.º 4) e negligência grosseira (n.º 5) [■ VERIFICAR: imputação por omissão a quem não fez a gestão de combustível]",
+    "motivo": "O art. 274.º CP pune quem provoca incêndio, com molduras próprias para a negligência e a negligência grosseira; a mera falta de gestão de combustível não é, por si, o crime.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=109A0274&nid=109&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Prazo de 30 de junho confirmado para limpeza",
+    "para": "- [ ] Prazo anual de gestão de combustível confirmado (despacho previsto no art. 49.º, n.º 12, do DL 82/2021 ou, no regime transitório, 30 de abril — art. 15.º, n.º 3, do DL 124/2006)",
+    "motivo": "Não existe prazo legal de 30 de junho.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1931&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar se o plano municipal de defesa da floresta contra incêndios do concelho ainda vigora ou se já há programa sub-regional e programa municipal de execução, e se o prazo de 31/12/2026 do art. 79.º do DL n.º 82/2021 foi prorrogado: disso depende aplicar o DL n.º 124/2006 ou o DL n.º 82/2021.",
+   "Confirmar o despacho que fixa o prazo de execução dos trabalhos de gestão de combustível no ano em causa (art. 49.º, n.º 12, do DL n.º 82/2021).",
+   "Confirmar a área mínima a partir da qual o PGF é obrigatório no PROF aplicável.",
+   "Confirmar a jurisprudência sobre responsabilidade civil por propagação de incêndio (presunção do art. 493.º, n.º 1, CC e relevância da violação dos deveres de gestão de combustível).",
+   "Confirmar os montantes das coimas da Lei n.º 50/2006 para as contraordenações graves e leves e os do art. 38.º do DL n.º 124/2006 no regime transitório."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3453&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1931&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2781&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://diariodarepublica.pt/dr/detalhe/despacho/675-2026-1016754080",
+   "https://www.cm-ilhavo.pt/cmilhavo2020/uploads/document/file/10066/despacho_675_2026.pdf",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0493&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1347&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=109A0274&nid=109&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+  ]
+ },
+ {
+  "codigo": "URB-007",
+  "veredicto": "corrigida",
+  "resumo": "A ficha dava à reclamação o prazo de 30 dias (art. 191.º, n.º 2, CPA); o prazo é de 15 dias (art. 191.º, n.º 3, CPA) e os 30 dias são o prazo para a decisão (art. 192.º, n.º 2). Corrigiu-se a audiência prévia (arts. 121.º e 122.º CPA e art. 24.º-A RJUE; os arts. 100.º e 101.º CPA respeitam aos regulamentos), acrescentou-se o deferimento da impugnação administrativa não decidida em 30 dias (art. 114.º, n.º 3, RJUE, na redação do DL n.º 108/2026) e afastou-se a ideia de recurso hierárquico das deliberações da câmara municipal, indicando que a reclamação se dirige ao autor do ato.",
+  "descricao": "Gera a reclamação para o autor do ato (câmara municipal ou, havendo delegação, presidente da câmara, vereador ou dirigente) contra a decisão de indeferimento de licença urbanística, ao abrigo dos artigos 191.º e seguintes do CPA, com fundamentos de ilegalidade ou de mérito, como passo anterior ou alternativo à impugnação judicial.",
+  "descricao_en": "Generates the administrative complaint (reclamação) to the author of the act (the municipal council or, where powers were delegated, the mayor, a councillor or a senior official) against the decision refusing a planning licence, under Articles 191 et seq. of the CPA, on grounds of unlawfulness or merits, as a step prior or alternative to a court challenge.",
+  "substituicoes": [
+   {
+    "de": "- Prazo para reclamação (30 dias — art. 191.º, n.º 2, CPA) e se ainda está em curso",
+    "para": "- Prazo para reclamação (15 dias — art. 191.º, n.º 3, CPA, contados nos termos do art. 87.º CPA, com suspensão aos sábados, domingos e feriados) e se ainda está em curso",
+    "motivo": "O prazo da reclamação é de 15 dias (art. 191.º, n.º 3, CPA); 30 dias é o prazo de decisão (art. 192.º, n.º 2).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2248A0191&nid=2248&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Estratégia: reclamação vs. recurso hierárquico vs. impugnação judicial",
+    "para": "- Estratégia: reclamação (facultativa; suspende o prazo de impugnação contenciosa — art. 190.º, n.º 3, CPA) vs. impugnação judicial; da deliberação da câmara municipal não cabe recurso hierárquico — se o indeferimento foi proferido por delegação ou subdelegação (art. 5.º, n.º 1, RJUE), ver os recursos administrativos admissíveis (arts. 193.º e 199.º, n.º 2, CPA) [■ VERIFICAR]",
+    "motivo": "A câmara municipal não está sujeita a hierarquia; o recurso para o delegante só existe quando a lei o prevê (art. 199.º, n.º 2, CPA).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2248A0199&nid=2248&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Arts. 191.º e 192.º CPA (reclamação)",
+    "para": "- Arts. 191.º e 192.º CPA (reclamação; decisão em 30 dias — art. 192.º, n.º 2) e art. 114.º, n.º 3, RJUE (a impugnação administrativa de atos praticados ao abrigo do RJUE deve ser decidida em 30 dias contados da apresentação, findos os quais se considera deferida) [■ VERIFICAR: aplicação à reclamação do indeferimento e regime transitório do DL n.º 108/2026]",
+    "motivo": "O RJUE, na redação do DL 108/2026, fixa um prazo de 30 dias para decidir a impugnação administrativa, com deferimento no seu termo.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=625A0114&nid=625&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Arts. 100.º e 101.º CPA (audiência prévia — se foi omitida)",
+    "para": "- Arts. 121.º e 122.º CPA (audiência prévia — se foi omitida) e art. 24.º-A RJUE (audiência prévia no licenciamento: uma única entrega de elementos de alteração ao projeto)",
+    "motivo": "No CPA de 2015 a audiência prévia está nos arts. 121.º e ss.; os arts. 100.º e 101.º respeitam ao procedimento do regulamento; o DL 108/2026 aditou o art. 24.º-A ao RJUE.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=625A0024A&nid=625&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "(ou: AO PLENÁRIO DA CÂMARA MUNICIPAL DE [MUNICÍPIO])",
+    "para": "(a reclamação dirige-se ao autor do ato — art. 191.º, n.º 1, CPA: à câmara municipal, se a deliberação foi sua, ou ao presidente, vereador ou dirigente que decidiu por delegação ou subdelegação — art. 5.º, n.º 1, RJUE)",
+    "motivo": "A reclamação é apresentada ao autor do ato; a competência para a licença é da câmara, delegável no presidente e subdelegável nos vereadores e dirigentes.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=625A0005&nid=625&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "e no prazo legal de 30 dias, apresentar RECLAMAÇÃO",
+    "para": "e no prazo legal de 15 dias (artigo 191.º, n.º 3, do CPA), apresentar RECLAMAÇÃO",
+    "motivo": "O prazo da reclamação é de 15 dias.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2248A0191&nid=2248&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Prazo de 30 dias verificado (art. 191.º, n.º 2, CPA)",
+    "para": "- [ ] Prazo de 15 dias verificado (art. 191.º, n.º 3, CPA)",
+    "motivo": "O prazo da reclamação é de 15 dias.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2248A0191&nid=2248&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar se o deferimento do art. 114.º, n.º 3, RJUE abrange a reclamação contra o indeferimento do licenciamento e se o procedimento, iniciado antes de 1/10/2026, segue o regime transitório do DL n.º 108/2026.",
+   "Confirmar quem praticou o ato (câmara, presidente ou vereador por delegação, dirigente por subdelegação) e os recursos administrativos que daí decorrem.",
+   "A reclamação facultativa suspende o prazo de impugnação contenciosa (art. 190.º, n.º 3, CPA); confirmar a contagem do prazo de 3 meses do art. 58.º CPTA."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2248A0191&nid=2248&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2248A0190&nid=2248&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2248A0199&nid=2248&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2248A0087&nid=2248&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=625A0114&nid=625&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=625A0024A&nid=625&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=625A0005&nid=625&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+  ]
+ },
+ {
+  "codigo": "URB-017",
+  "veredicto": "corrigida",
+  "resumo": "A petição era dirigida ao Tribunal Central Administrativo, que não tem competência em primeira instância para a impugnação de normas de planos municipais: cabe ao tribunal administrativo de círculo (art. 44.º, n.º 1, do ETAF) da área da sede do município (art. 20.º, n.º 1, CPTA). A tempestividade assentava nos 3 meses do art. 58.º CPTA, quando a declaração de ilegalidade de normas pode ser pedida a todo o tempo, salvo ilegalidade formal ou procedimental (6 meses — art. 74.º CPTA). Corrigiram-se ainda os efeitos e os pedidos (força obrigatória geral, ou desaplicação com efeitos circunscritos ao caso quando o fundamento é a inconstitucionalidade — arts. 72.º, n.º 2, e 73.º CPTA) e a remissão indemnizatória (art. 171.º do RJIGT, não o art. 165.º, que trata do reparcelamento).",
+  "descricao": "Gera a petição inicial de ação administrativa de impugnação de norma de plano municipal de ordenamento do território (PDM, PU ou PP), no tribunal administrativo de círculo competente, ao abrigo dos artigos 72.º e seguintes do CPTA, contestando a legalidade de uma norma do plano que afeta negativamente o direito de propriedade ou a viabilidade construtiva de um prédio.",
+  "descricao_en": "Generates the statement of claim in an administrative action challenging a provision of a municipal spatial plan (PDM, PU or PP) before the competent administrative circuit court (tribunal administrativo de círculo), under Articles 72 et seq. of the CPTA, contesting the lawfulness of a plan provision that adversely affects property rights or the building potential of a property.",
+  "substituicoes": [
+   {
+    "de": "- Prazo de impugnação (3 meses da publicação — art. 58.º CPTA, com ressalva do art. 73.º, n.º 2)",
+    "para": "- Prazo de impugnação: a declaração de ilegalidade pode ser pedida a todo o tempo, salvo com fundamento em ilegalidade formal ou procedimental de que não resulte inconstitucionalidade — 6 meses a contar da publicação, exceto carência absoluta de forma legal ou preterição de consulta pública exigida por lei (art. 74.º CPTA)",
+    "motivo": "Os prazos da impugnação de normas constam do art. 74.º CPTA, não do art. 58.º (atos administrativos).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=439A0074&nid=439&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Art. 165.º e ss. RJIGT (indemnização por restrições de utilidade pública)",
+    "para": "- Art. 171.º do RJIGT (DL n.º 80/2015 — dever de indemnizar as restrições impostas pelos planos territoriais quando a compensação não seja possível; segue o regime do Código das Expropriações e caduca em 3 anos a contar da entrada em vigor do plano)",
+    "motivo": "O dever de indemnização consta do art. 171.º do RJIGT; o art. 165.º trata do procedimento de reparcelamento.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2333A0171&nid=2333&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Efeito da declaração de ilegalidade: anulação da norma ou declaração de inconstitucionalidade",
+    "para": "- Efeito pretendido: declaração de ilegalidade com força obrigatória geral (art. 73.º, n.º 1, al. a), CPTA) ou, com fundamento em inconstitucionalidade, desaplicação da norma com efeitos circunscritos ao caso do autor (arts. 72.º, n.º 2, e 73.º, n.º 2, CPTA); a declaração de inconstitucionalidade com força obrigatória geral está excluída deste meio processual",
+    "motivo": "O art. 72.º, n.º 2, CPTA exclui a declaração com força obrigatória geral com fundamento no art. 281.º, n.º 1, CRP; nesse caso só cabe a desaplicação ao caso (art. 73.º, n.º 2).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=439A0072&nid=439&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Pedido de indemnização (se cumulado) pelos prejuízos causados pela norma ilegal",
+    "para": "- Pedido de indemnização (se cumulado) pelos prejuízos causados pela norma ilegal (responsabilidade civil extracontratual — Lei n.º 67/2007 [■ VERIFICAR: artigos aplicáveis]), distinto da indemnização pelas restrições lícitas do plano (art. 171.º do RJIGT)",
+    "motivo": "A indemnização por norma ilegal não se confunde com o dever de indemnizar restrições lícitas do art. 171.º do RJIGT.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2333A0171&nid=2333&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "**AO TRIBUNAL CENTRAL ADMINISTRATIVO [NORTE / SUL]**",
+    "para": "**AO TRIBUNAL ADMINISTRATIVO DE CÍRCULO DE [área da sede do município demandado — art. 20.º, n.º 1, CPTA; art. 44.º, n.º 1, do ETAF]**",
+    "motivo": "O TCA não tem competência em primeira instância para a impugnação de normas municipais (art. 37.º do ETAF); cabe ao tribunal administrativo de círculo da área da sede da entidade demandada.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=418A0044&nid=418&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "A presente ação é intentada dentro do prazo de 3 meses previsto no art. 58.º, n.º 2, al. b), do CPTA. [ou: caso ultrapassado o prazo de 3 meses, invocar o art. 73.º, n.º 2, CPTA — efeitos ainda se produzem]",
+    "para": "A declaração de ilegalidade de normas pode ser pedida a todo o tempo (art. 74.º, n.º 1, do CPTA). [se for invocada ilegalidade formal ou procedimental de que não resulte inconstitucionalidade: a ação é intentada dentro do prazo de seis meses contado da data da publicação, salvo carência absoluta de forma legal ou preterição de consulta pública exigida por lei — art. 74.º, n.º 2, do CPTA]",
+    "motivo": "A tempestividade da impugnação de normas rege-se pelo art. 74.º CPTA; o art. 58.º respeita a atos e o art. 73.º, n.º 2, à desaplicação, não a prazos.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=439A0074&nid=439&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "a) Declare ilegal a norma [identificação] do [nome do plano] de [município];\nb) Determine a não aplicação da norma ao caso do Autor;",
+    "para": "a) Declare a ilegalidade, com força obrigatória geral, da norma [identificação] do [nome do plano] de [município] (art. 73.º, n.º 1, al. a), do CPTA);\nb) Quanto aos fundamentos de inconstitucionalidade (art. 72.º, n.º 2, do CPTA), declare a ilegalidade da norma com efeitos circunscritos ao caso do Autor, desaplicando-a (art. 73.º, n.º 2, do CPTA);",
+    "motivo": "Com fundamento em inconstitucionalidade o tribunal administrativo só pode desaplicar a norma ao caso; a força obrigatória geral está reservada aos fundamentos de ilegalidade.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=439&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- [ ] Prazo de impugnação verificado (3 meses ou art. 73.º, n.º 2, CPTA)",
+    "para": "- [ ] Prazo verificado: a todo o tempo, ou 6 meses a contar da publicação para vícios formais ou procedimentais (art. 74.º CPTA)",
+    "motivo": "O prazo da impugnação de normas consta do art. 74.º CPTA.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=439A0074&nid=439&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] TCA competente identificado [■ VERIFICAR: Norte ou Sul]",
+    "para": "- [ ] Tribunal administrativo de círculo da área da sede do município identificado (art. 44.º, n.º 1, do ETAF; art. 20.º, n.º 1, CPTA)",
+    "motivo": "A competência em primeira instância é do tribunal administrativo de círculo, não do TCA.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=418A0037&nid=418&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar a articulação entre o art. 17.º CPTA (bens imóveis — tribunal da situação dos bens) e o art. 20.º, n.º 1, CPTA (normas das autarquias — sede da entidade demandada), bem como o juízo competente dentro do tribunal.",
+   "Confirmar os artigos da Lei n.º 67/2007 aplicáveis ao pedido indemnizatório cumulado e a caducidade de 3 anos do direito à indemnização do art. 171.º, n.º 9, do RJIGT.",
+   "Para pedir a declaração com força obrigatória geral, garantir que os fundamentos invocados são de ilegalidade (p. ex. violação do RJIGT) e não apenas de inconstitucionalidade (art. 72.º, n.º 2, CPTA)."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=439&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=439A0074&nid=439&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=439A0072&nid=439&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=418A0044&nid=418&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=418A0037&nid=418&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2333&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2333A0171&nid=2333&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+  ]
+ },
+ {
+  "codigo": "URB-045",
+  "veredicto": "corrigida",
+  "resumo": "A ficha tinha vários erros de regime: caducidade da DUP em «2 anos» (art. 13.º, n.º 3, CE: arbitragem não promovida em 1 ano ou processo não remetido a tribunal em 18 meses), impugnação em 30 dias (3 meses — art. 58.º, n.º 1, al. b), CPTA), perito do expropriado na arbitragem (os árbitros são designados pelo presidente da Relação; o perito de parte surge no recurso — art. 62.º CE), recurso do valor para o TAF (é para o tribunal da comarca da situação dos bens — arts. 38.º, 51.º e 52.º CE), atualização por juros desde a posse (índice de preços no consumidor desde a DUP — art. 24.º, n.º 1, CE) e reversão por fim não executado em 20 anos (2 anos após a adjudicação — art. 5.º CE). Atualizou-se ainda a competência para a DUP, alterada pelo DL n.º 160/2026 (assembleia municipal nas expropriações de iniciativa municipal).",
+  "substituicoes": [
+   {
+    "de": "- Base legal da declaração de utilidade pública (DUP): lei especial ou portaria ministerial",
+    "para": "- Competência e forma da declaração de utilidade pública (DUP): membro do Governo competente (art. 14.º, n.º 1, CE) ou, nas expropriações da iniciativa das autarquias locais, a assembleia municipal, sob proposta fundamentada da câmara municipal (art. 14.º, n.º 2, CE, na redação do DL n.º 160/2026); a DUP resultante genericamente de lei ou regulamento tem de ser concretizada em ato administrativo que individualize os bens (art. 13.º, n.º 2, CE)",
+    "motivo": "A competência para a DUP consta do art. 14.º CE, alterado pelo DL 160/2026; a DUP não é, em regra, feita por portaria.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=477A0014&nid=477&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Prazo de caducidade da DUP (art. 13.º CE: 2 anos para posse administrativa)",
+    "para": "- Caducidade da DUP (art. 13.º, n.º 3, CE): se não for promovida a constituição da arbitragem no prazo de 1 ano ou se o processo não for remetido ao tribunal competente no prazo de 18 meses, ambos a contar da publicação da DUP; pode ser requerida pelo expropriado (n.º 4) e a DUP caducada pode ser renovada no prazo máximo de 1 ano (n.º 5)",
+    "motivo": "O art. 13.º, n.º 3, CE fixa os prazos de 1 ano e 18 meses; não há prazo de 2 anos para a posse administrativa.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=477A0013&nid=477&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Prazo de impugnação: 30 dias a contar da notificação ou publicação (art. 58.º CPTA)",
+    "para": "- Prazo de impugnação: 3 meses, se a DUP for anulável (art. 58.º, n.º 1, al. b), CPTA, contado nos termos dos arts. 58.º, n.º 2, e 59.º CPTA); sem prazo, se for nula (art. 58.º, n.º 1, CPTA)",
+    "motivo": "O art. 58.º CPTA fixa 3 meses para a impugnação de atos anuláveis por particulares, não 30 dias.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=439&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Tribunal competente: TAC de Lisboa (expropriações por entidade nacional) ou TAF local",
+    "para": "- Tribunal competente: tribunal administrativo de círculo (art. 44.º, n.º 1, do ETAF); territorialmente, o da situação dos bens (art. 17.º CPTA) ou, sendo a DUP de órgão autárquico, o da área da sede da entidade demandada (art. 20.º, n.º 1, CPTA) [■ VERIFICAR: regra territorial aplicável à impugnação da DUP]",
+    "motivo": "Não há regra que atribua ao TAC de Lisboa as expropriações de entidades nacionais; a competência territorial resulta dos arts. 16.º a 20.º CPTA.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=439&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Impugnação da resolução de expropriar (art. 13.º CE)",
+    "para": "- Resolução de expropriar (art. 10.º CE): é, em regra, ato preparatório; o ato lesivo a impugnar é a DUP (art. 13.º CE) [■ VERIFICAR: jurisprudência sobre a impugnabilidade autónoma da resolução de expropriar]",
+    "motivo": "A resolução de expropriar está no art. 10.º CE; o art. 13.º trata da DUP.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=477&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Direito a perito da parte do expropriado no processo de arbitragem (art. 37.º CE)",
+    "para": "- Arbitragem: três árbitros designados pelo presidente do tribunal da Relação da situação dos prédios (art. 45.º CE); as partes podem apresentar quesitos ao árbitro presidente no prazo de 15 dias a contar da notificação (art. 48.º CE); o perito designado pelo expropriado só intervém na avaliação em sede de recurso (art. 62.º, n.º 1, CE)",
+    "motivo": "O art. 37.º CE trata do conteúdo da escritura ou do auto de acordo; na arbitragem não há perito de parte.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=477&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Componentes da indemnização: valor do bem + lucros cessantes + dano de privação do imóvel + juros (art. 24.º CE)",
+    "para": "- Componentes da indemnização: valor real e corrente do bem (art. 23.º CE); depreciação da parte não expropriada nas expropriações parciais (art. 29.º, n.º 2, CE); indemnização pela cessação inevitável ou interrupção e transferência da atividade comercial, industrial, liberal ou agrícola (art. 31.º CE); encargos autónomos dos arrendatários (art. 30.º CE); atualização pelo índice de preços no consumidor (art. 24.º CE); juros moratórios só pelos atrasos imputáveis à entidade expropriante (art. 70.º CE)",
+    "motivo": "O CE não prevê «lucros cessantes» nem «dano de privação» como componentes autónomas; os juros são só os moratórios do art. 70.º.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=477&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Reclamação contra o laudo arbitral (arts. 52.º a 55.º CE)",
+    "para": "- Reclamação contra irregularidades no procedimento, incluindo na constituição ou funcionamento da arbitragem e nos laudos dos árbitros, no prazo de 10 dias a contar do seu conhecimento (art. 54.º CE)",
+    "motivo": "A reclamação do art. 54.º CE visa irregularidades (incluindo nos laudos) e tem prazo de 10 dias; o valor discute-se no recurso do art. 52.º.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=477&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Recurso para o TAF do valor da indemnização",
+    "para": "- Recurso da decisão arbitral para o tribunal da comarca da situação dos bens, no prazo de 20 dias a contar da notificação, com efeito meramente devolutivo (arts. 38.º, n.º 3, 51.º, n.º 1, e 52.º, n.º 1, CE); o recorrente expõe logo as razões da discordância e oferece a prova (art. 58.º CE)",
+    "motivo": "O recurso da decisão arbitral vai para os tribunais comuns (art. 38.º, n.º 1, CE), não para a jurisdição administrativa.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=477&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Prova pericial em sede judicial: instruções ao perito nomeado pelo tribunal",
+    "para": "- Prova pericial em sede judicial: avaliação obrigatória por cinco peritos, um designado por cada parte e três nomeados pelo tribunal de entre os da lista oficial (arts. 61.º, n.º 2, e 62.º, n.º 1, CE); quesitos e orientação do perito designado pelo expropriado",
+    "motivo": "A avaliação é feita por cinco peritos e a parte designa o seu; os peritos nomeados pelo tribunal não recebem instruções das partes.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=477&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Atualização do valor por juros desde a data da posse administrativa (art. 24.º, n.º 1 CE)",
+    "para": "- Atualização do montante, calculado à data da DUP, até à decisão final, de acordo com a evolução do índice de preços no consumidor, com exclusão da habitação (art. 24.º, n.º 1, CE); juros moratórios pelos atrasos imputáveis à entidade expropriante, à taxa do art. 559.º CC (art. 70.º CE)",
+    "motivo": "O art. 24.º, n.º 1, CE atualiza pelo índice de preços no consumidor desde a DUP, não por juros desde a posse.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=477&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Condições de reversão do bem expropriado (art. 74.º CE): fim não executado em 20 anos ou utilização para fim diferente",
+    "para": "- Condições de reversão (art. 5.º, n.º 1, CE): bens não aplicados ao fim que determinou a expropriação no prazo de 2 anos após a adjudicação, ou cessação das finalidades da expropriação; o direito cessa decorridos 20 anos sobre a adjudicação, com novo destino por nova DUP, por renúncia ou por renovação da DUP (art. 5.º, n.º 4, CE)",
+    "motivo": "As condições da reversão estão no art. 5.º CE (2 anos após a adjudicação); os 20 anos são o limite do direito.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=477A0005&nid=477&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Procedimento de exercício do direito de reversão",
+    "para": "- Procedimento de exercício do direito de reversão: requerimento à entidade que declarou a utilidade pública (art. 74.º, n.º 1, CE); sem decisão favorável em 90 dias, ação administrativa no tribunal administrativo de círculo da situação do prédio, no prazo de 1 ano, com pedido de adjudicação cumulado (art. 74.º, n.ºs 4 e 5, CE)",
+    "motivo": "O art. 74.º CE regula o requerimento e a ação de reversão.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=477A0074&nid=477&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Valor de reversão: diferença entre indemnização recebida e valor atual do bem",
+    "para": "- Montante a restituir pelo reversionário: na falta de acordo, fixado pelo juiz, com avaliação obrigatória (art. 78.º, n.º 2, CE), tendo em conta a indemnização satisfeita indicada no pedido de adjudicação (art. 77.º, n.º 1, al. d), CE) [■ VERIFICAR: critérios de cálculo e de atualização]",
+    "motivo": "O CE não fixa o valor de reversão como diferença entre a indemnização e o valor atual: o montante a restituir é acordado ou fixado pelo juiz após avaliação.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=477A0078&nid=477&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Prazo de prescrição do direito de reversão",
+    "para": "- Prazos: a reversão deve ser requerida no prazo de 3 anos a contar do facto que a originou, sob pena de caducidade (não de prescrição); decorrido esse prazo, fica o direito de preferência na primeira alienação dos bens até ao termo dos 20 anos (art. 5.º, n.º 5, CE); pedido de adjudicação no prazo de 120 dias a contar da notificação da autorização (art. 77.º, n.º 1, CE)",
+    "motivo": "O prazo do art. 5.º, n.º 5, CE é de caducidade (3 anos).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=477A0005&nid=477&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar o regime transitório do DL n.º 160/2026 (competência da assembleia municipal para a DUP das expropriações municipais) para procedimentos iniciados antes da sua entrada em vigor.",
+   "Confirmar a aplicação do art. 26.º, n.º 12, CE (solos classificados como zona verde, de lazer ou para equipamentos por plano posterior à aquisição) como argumento de valorização.",
+   "Confirmar a regra de competência territorial para impugnar a DUP e o juízo competente, no tribunal da comarca, para o recurso da decisão arbitral.",
+   "Confirmar a jurisprudência sobre a impugnabilidade autónoma da resolução de expropriar."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=477&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=477A0005&nid=477&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=477A0013&nid=477&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=477A0014&nid=477&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=477A0074&nid=477&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=477A0078&nid=477&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://files.diariodarepublica.pt/1s/2026/08/14900/0000800009.pdf",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=439&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=418A0044&nid=418&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+  ]
+ }
+]

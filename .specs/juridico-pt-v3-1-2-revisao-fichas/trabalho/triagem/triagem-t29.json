@@ -1,0 +1,190 @@
+[
+  {"codigo": "URB-001", "triagem": "ok"},
+  {"codigo": "URB-004", "triagem": "ok"},
+  {"codigo": "URB-005", "triagem": "ok"},
+  {
+    "codigo": "URB-006",
+    "triagem": "rever",
+    "gravidade": "media",
+    "motivos": [
+      "Audiência prévia fundamentada nos arts. 100.º e 101.º do CPA, que são do CPA de 1991; no CPA vigente (DL 4/2015) a audiência dos interessados está nos arts. 121.º e ss. A base legal central da pronúncia (descrição, corpo do requerimento e fundamentação) está errada; a nota [VERIFICAR] existe mas o texto-base mantém a citação revogada.",
+      "A descrição da ficha refere apenas o 'art. 100.º CPA' como regime aplicável, sem aviso de que está desatualizado."
+    ]
+  },
+  {
+    "codigo": "URB-007",
+    "triagem": "rever",
+    "gravidade": "alta",
+    "motivos": [
+      "Prazo da reclamação dado como 30 dias (corpo do requerimento, etapa 1 e checklist). No CPA vigente o prazo da reclamação é de 15 dias (art. 191.º); os 30 dias são do recurso hierárquico (art. 193.º). Seguir a ficha pode levar a apresentar a reclamação fora de prazo (a nota [VERIFICAR] contradiz o texto, mas o requerimento afirma 'no prazo legal de 30 dias').",
+      "Audiência prévia citada nos arts. 100.º/101.º do CPA de 1991; no CPA vigente é o art. 121.º e ss.",
+      "O n.º 2 do art. 191.º CPA é citado como fonte do prazo de 30 dias, o que não corresponde ao regime vigente (a confirmar)."
+    ]
+  },
+  {
+    "codigo": "URB-008",
+    "triagem": "rever",
+    "gravidade": "media",
+    "motivos": [
+      "O recurso é dirigido ao 'Presidente da Câmara Municipal na qualidade de órgão superior hierárquico' e menciona o 'membro do governo responsável pela tutela'. Entre os órgãos municipais (câmara, presidente, assembleia) não há hierarquia, e a tutela sobre autarquias é meramente inspetiva (Lei 27/96); só há recurso tutelar se a lei o previr expressamente (art. 199.º CPA). O recurso hierárquico só faz sentido, em regra, para atos de delegado/subdelegado dirigido ao delegante (a confirmar). A ficha apresenta como regra um meio impugnatório que, em regra, não existe.",
+      "Pedido de efeito suspensivo com base no art. 189.º CPA apresentado sem distinguir impugnação necessária de facultativa (a impugnação administrativa em matéria urbanística é facultativa, logo sem efeito suspensivo automático) - a confirmar."
+    ]
+  },
+  {
+    "codigo": "URB-009",
+    "triagem": "rever",
+    "gravidade": "baixa",
+    "motivos": [
+      "A descrição fala em 'ação administrativa especial' (nomenclatura do CPTA de 2002; desde a reforma de 2015 existe apenas a 'ação administrativa'). O corpo da petição usa 'Ação Administrativa de Impugnação', pelo que há incoerência interna.",
+      "Tribunal indicado como 'TAC de [COMARCA]' / 'TAC da comarca': os tribunais administrativos de círculo não se organizam por comarca (a confirmar o círculo competente).",
+      "Os arts. 112.º e ss. CPTA citados na descrição regem as providências cautelares, não a impugnação (apenas nota de inconsistência)."
+    ]
+  },
+  {
+    "codigo": "URB-010",
+    "triagem": "rever",
+    "gravidade": "media",
+    "motivos": [
+      "Audiência prévia fundamentada nos arts. 100.º e 101.º do CPA de 1991 (repetido na fundamentação, estratégia, corpo da petição e checklist); no CPA vigente é o art. 121.º e ss.",
+      "Descrição e título falam em 'ação administrativa especial' (CPTA de 2002); desde 2015 é 'ação administrativa'.",
+      "Tribunal indicado como TAC 'de [COMARCA]' (os círculos não coincidem com comarcas)."
+    ]
+  },
+  {
+    "codigo": "URB-012",
+    "triagem": "rever",
+    "gravidade": "media",
+    "motivos": [
+      "Petição intitulada 'Ação Administrativa Especial (art. 37.º, n.º 1, al. a) e b), CPTA)': forma processual do CPTA de 2002; desde a reforma de 2015 a impugnação de atos segue a forma da 'ação administrativa' (arts. 50.º e ss.), sem 'ação administrativa especial'.",
+      "Apresenta como pressuposto o 'esgotamento dos meios administrativos' (reclamação/recurso hierárquico) na descrição e na checklist; em matéria de licenciamento municipal a impugnação administrativa é facultativa (art. 51.º CPTA e CPA), pelo que não é requisito para a ação (apenas suspende o prazo contencioso se utilizada - a confirmar).",
+      "Tribunal indicado como TAC 'de [COMARCA]'."
+    ]
+  },
+  {
+    "codigo": "URB-013",
+    "triagem": "rever",
+    "gravidade": "media",
+    "motivos": [
+      "Pede a emissão de 'alvará de utilização após vistoria' e a checklist inclui 'legalização + alvará de utilização'. Após o DL 10/2024 (Simplex Urbanístico) a autorização/alvará de utilização foi eliminada ou substituída; regime desatualizado, a confirmar à luz do DL 10/2024 e de diplomas posteriores.",
+      "Impõe sempre a conformidade com o PDM 'atual' e nunca com o vigente à data da construção, como regra absoluta; o art. 102.º-A RJUE e o art. 60.º RJUE (edificações existentes) admitem ponderação das normas vigentes à data da realização da obra (a confirmar).",
+      "Pede o levantamento de embargo e a suspensão do processo de contraordenação durante a apreciação como se fosse efeito automático da legalização; o embargo só cessa nos termos do RJUE (a confirmar)."
+    ]
+  },
+  {
+    "codigo": "URB-014",
+    "triagem": "rever",
+    "gravidade": "baixa",
+    "motivos": [
+      "As definições de COS, CUS e área bruta de construção são remetidas para 'RJIGT e portarias'. Os conceitos técnicos do ordenamento do território e urbanismo estão no Decreto Regulamentar n.º 5/2019 (que revogou o DR 9/2009 e substituiu COS/CUS por índices de implantação, de utilização do solo, etc.); a terminologia COS/CUS só subsiste nos PDM ainda não revistos (a confirmar)."
+    ]
+  },
+  {
+    "codigo": "URB-015",
+    "triagem": "rever",
+    "gravidade": "media",
+    "motivos": [
+      "Classifica o solo como 'urbano / rústico / urbanizável' (etapa 1 e II do parecer). Desde a Lei 31/2014 e o RJIGT (DL 80/2015) existem apenas duas classes: solo rústico e solo urbano; 'solo urbanizável' deixou de existir. Seguir a ficha pode levar a conclusões erradas sobre edificabilidade (nos PDM anteriores à adaptação, a categoria persiste só como remissão transitória)."
+    ]
+  },
+  {"codigo": "URB-016", "triagem": "ok"},
+  {
+    "codigo": "URB-017",
+    "triagem": "rever",
+    "gravidade": "alta",
+    "motivos": [
+      "Petição dirigida ao 'Tribunal Central Administrativo [Norte/Sul]'. A impugnação de normas de planos municipais (emitidas por órgãos municipais) é da competência em 1.ª instância dos tribunais administrativos de círculo (art. 44.º ETAF; a confirmar), não dos TCA. Tribunal incompetente na hierarquia (a confirmar).",
+      "Petição intitulada 'Ação Administrativa Especial' (CPTA de 2002); desde 2015 é 'ação administrativa' (arts. 72.º e ss. CPTA para normas).",
+      "Tempestividade fundada em 3 meses do art. 58.º CPTA; para normas regem os arts. 73.º-74.º (a todo o tempo em regra); o texto mantém a regra errada e remete o art. 73.º, n.º 2, para prazo, o que é incorreto (existe aviso [VERIFICAR] mas o corpo da petição afirma o prazo de 3 meses).",
+      "Pedido de 'indemnização pela norma ilegal' e referência a 'art. 165.º RJIGT' para indemnização por restrições: a indemnização cumulada obedece ao regime da responsabilidade civil extracontratual (Lei 67/2007) e à Lei 31/2014 (a confirmar)."
+    ]
+  },
+  {"codigo": "URB-018", "triagem": "ok"},
+  {
+    "codigo": "URB-019",
+    "triagem": "rever",
+    "gravidade": "media",
+    "motivos": [
+      "Benefícios fiscais atribuídos aos diplomas errados: isenção de IMT na reabilitação indicada como 'art. 71.º CIMT' (está no EBF, art. 45.º, n.º 2); isenção de IMI como 'CIMI art. 45.º' (idem, EBF); IVA a 6% como 'art. 18.º, n.º 1, al. a) CIVA' (a taxa reduzida em empreitadas de reabilitação urbana resulta da Verba 2.23 da Lista I anexa ao CIVA). Só a nota do IMI está sinalizada.",
+      "Isenção de IMT descrita como aplicável à 'transmissão futura do imóvel reabilitado' sem os requisitos (primeira transmissão onerosa após a reabilitação, destino a habitação própria e permanente).",
+      "Invoca derrogações ao RGEU como regime atual; o RGEU e as derrogações para reabilitação foram alterados (DL 95/2019, DL 10/2024) - a confirmar o regime em vigor."
+    ]
+  },
+  {
+    "codigo": "URB-020",
+    "triagem": "rever",
+    "gravidade": "media",
+    "motivos": [
+      "Princípio da equivalência/proporcionalidade das taxas atribuído ao 'art. 4.º do RFALEI' (Lei 73/2013). A norma é do Regime Geral das Taxas das Autarquias Locais (RGTAL, Lei 53-E/2006, art. 4.º); o mesmo vale para o regime de isenções e reduções de taxas, que remete para o RGTAL e os regulamentos municipais (a confirmar). Regra no diploma errado, usada num argumento do requerimento.",
+      "A descrição refere procedimentos de 'autorização de utilização', figura eliminada ou substituída pelo DL 10/2024 (a confirmar).",
+      "Refere o 'art. 49.º do RJRU' como fonte de redução ou isenção de taxas em ARU; não é norma de taxas (a confirmar)."
+    ]
+  },
+  {
+    "codigo": "URB-021",
+    "triagem": "rever",
+    "gravidade": "baixa",
+    "motivos": [
+      "Princípio da equivalência das taxas atribuído ao 'RFALEI (art. 4.º)'; o regime geral das taxas locais é o RGTAL (Lei 53-E/2006) - diploma errado (a confirmar).",
+      "Remete para uma 'Portaria que fixa os parâmetros de cálculo da TMU': a taxa (TRIU/TMU) é fixada em regulamento municipal (art. 116.º RJUE + RGTAL), não por portaria nacional (a confirmar)."
+    ]
+  },
+  {"codigo": "URB-022", "triagem": "ok"},
+  {"codigo": "URB-023", "triagem": "ok"},
+  {"codigo": "URB-024", "triagem": "ok"},
+  {
+    "codigo": "URB-025",
+    "triagem": "rever",
+    "gravidade": "baixa",
+    "motivos": [
+      "Cita o 'DL n.º 26852' (Regulamento de Licenças para Instalações Elétricas, de 1936) como fonte das servidões das linhas elétricas; diploma muito antigo e provavelmente revogado/substituído (regime do Sistema Elétrico Nacional, DL 15/2022, e regulamentação de segurança de linhas de alta tensão) - a confirmar.",
+      "Indica 'ZPE (zona de proteção especial)' dentro do património classificado; as zonas de proteção de imóveis classificados são a zona geral de proteção e a ZEP (Lei 107/2001); ZPE é conceito de Rede Natura 2000 (aves). Confusão de figuras."
+    ]
+  },
+  {
+    "codigo": "URB-026",
+    "triagem": "rever",
+    "gravidade": "media",
+    "motivos": [
+      "Trata como impugnada a 'deliberação da Câmara Municipal' que constitui a ARU. Segundo o RJRU (art. 13.º, n.º 1), a delimitação da ARU é aprovada pela assembleia municipal, sob proposta da câmara. Réu/ato impugnado e fundamentação de competência ficam errados (a confirmar).",
+      "Petição intitulada 'Ação Administrativa Especial de Impugnação' (CPTA de 2002); desde 2015 é 'ação administrativa'. Tribunal indicado como TAC 'de [COMARCA]'.",
+      "Alterna entre impugnação de ato (prazo de 3 meses) e de norma (arts. 72.º e ss. CPTA) sem fixar a natureza da deliberação, de que depende o prazo e a forma do processo; a ficha reconhece a dúvida apenas em nota."
+    ]
+  },
+  {
+    "codigo": "URB-028",
+    "triagem": "rever",
+    "gravidade": "media",
+    "motivos": [
+      "Indica a Portaria 162/2011 como lista de usos e ações compatíveis com a REN; a lista atual consta da Portaria 336/2019 e do anexo II do DL 166/2008 alterado pelo DL 124/2019 (a confirmar). A Portaria 419/2012 não é a que define esses usos. Regime desatualizado.",
+      "Entidade competente para a exceção na REN indicada como 'ICNF / CCDR'; o reconhecimento de relevante interesse público é por despacho dos membros do Governo e os usos compatíveis sujeitos a comunicação prévia/autorização são da CCDR; o ICNF só intervém nas áreas protegidas/Rede Natura (a confirmar).",
+      "Interdições na REN indicadas no 'art. 6.º do DL 166/2008' (a norma das interdições é o art. 20.º); indemnização 'justa' assumida como possível por 'inviabilização' da edificação pela REN/RAN sem referir que, em regra, estas restrições decorrem da lei geral e não conferem indemnização (Lei 31/2014; a confirmar)."
+    ]
+  },
+  {
+    "codigo": "URB-029",
+    "triagem": "rever",
+    "gravidade": "baixa",
+    "motivos": [
+      "Data do DL 10/2024 dada como 'de 9 de janeiro'; o diploma é de 8 de janeiro (a confirmar).",
+      "O regime 'pós-Simplex' parte apenas do DL 10/2024; pode ter sido alterado por diploma posterior (DL 108/2026, a confirmar). Refere um 'procedimento simplificado BIT (Balcão do Investidor e do Território)' que não identifico como figura do RJUE (a confirmar)."
+    ]
+  },
+  {
+    "codigo": "URB-030",
+    "triagem": "rever",
+    "gravidade": "baixa",
+    "motivos": [
+      "Prevê 'recurso hierárquico' contra a recusa da câmara em reconhecer o deferimento tácito; os órgãos municipais não têm relação hierárquica entre si (recurso tutelar só se previsto - art. 199.º CPA). A ficha admite a dúvida em nota, mas mantém o recurso na etapa de reação.",
+      "Pede a 'emissão de alvará' após o deferimento tácito; o alvará foi eliminado ou substituído pelo Simplex Urbanístico (DL 10/2024) - a confirmar."
+    ]
+  },
+  {
+    "codigo": "URB-031",
+    "triagem": "rever",
+    "gravidade": "baixa",
+    "motivos": [
+      "Afirma sempre a conformidade com o PDM 'em vigor à data do pedido (não à data da construção)'; o art. 102.º-A RJUE e o art. 60.º RJUE admitem considerar as normas vigentes à data da realização da obra (a confirmar).",
+      "Prevê a 'emissão de alvará de legalização'; o alvará foi eliminado ou substituído pelo DL 10/2024 (a confirmar). Não distingue o regime após o Simplex Urbanístico."
+    ]
+  }
+]

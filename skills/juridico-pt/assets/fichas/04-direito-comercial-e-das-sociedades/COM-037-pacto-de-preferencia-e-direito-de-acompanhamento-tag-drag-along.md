@@ -6,7 +6,8 @@ titulo_en: "Pre-emption Agreement and Tag-Along / Drag-Along Rights"
 descricao: "Elabora cláusulas contratuais ou documento autónomo regulando o pacto de preferência na transmissão de quotas ou ações, o direito de acompanhamento (tag along) e o direito de arrasto (drag along), para integração no pacto social, nos estatutos ou num acordo parassocial."
 descricao_en: "Drafts contractual clauses or a standalone document governing the pre-emption agreement (pacto de preferência) on the transfer of quotas or shares, the tag-along right (direito de acompanhamento) and the drag-along right (direito de arrasto), for inclusion in the articles of association (pacto social or estatutos) or in a shareholders' agreement."
 ambito: nacional
-estado_citacoes: "sem citações"
+estado_citacoes: "conferidas 12 · corrigidas 0 · por conferir 5"
+revisao_tecnica: "2026-10-28 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
@@ -14,7 +15,8 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 
 > **Âmbito:** nacional · **Área:** Direito Comercial e das Sociedades · **Código:** COM-037
 > **EN:** Pre-emption Agreement and Tag-Along / Drag-Along Rights. Drafts contractual clauses or a standalone document governing the pre-emption agreement (pacto de preferência) on the transfer of quotas or shares, the tag-along right (direito de acompanhamento) and the drag-along right (direito de arrasto), for inclusion in the articles of association (pacto social or estatutos) or in a shareholders' agreement.
-> **Citações:** sem citações. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 12 · corrigidas 0 · por conferir 5. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-28 — corrigida (2 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
 Elabora cláusulas contratuais ou documento autónomo regulando o pacto de preferência na transmissão de quotas ou ações, o direito de acompanhamento (tag along) e o direito de arrasto (drag along), para integração no pacto social, nos estatutos ou num acordo parassocial.
 
@@ -45,12 +47,13 @@ Analise em <analise_do_caso>:
 
 ### ETAPA 2 — ANÁLISE JURÍDICA
 Identifique em <fundamentos_juridicos>:
-- Arts. 228-235 CSC — regime de cessão de quotas (Lda.): consentimento, preferência legal dos sócios
-- Art. 229 CSC — direito de preferência dos sócios na cessão de quotas a terceiros (direito legal supletivo)
-- Art. 232 CSC — penhor de quotas
-- Para SA: arts. 328-332 CSC — transmissão de ações nominativas; cláusulas de consentimento e preferência
+- Arts. 228.º a 231.º CSC — transmissão e cessão de quotas (Lda.): forma escrita (art. 228.º, n.º 1); a cessão não produz efeitos para com a sociedade enquanto não for consentida por esta, salvo entre cônjuges, entre ascendentes e descendentes ou entre sócios (art. 228.º, n.º 2); cláusulas do contrato de sociedade sobre a cessão e seus limites (art. 229.º)
+- O CSC não confere aos sócios de uma Lda. um direito legal de preferência na cessão de quotas a terceiros: a preferência só existe se for estipulada no contrato de sociedade ou em acordo parassocial [■ VERIFICAR: articulação de uma cláusula estatutária de preferência com os limites do art. 229.º, n.º 5, CSC]
+- Art. 23.º CSC — usufruto e penhor de participações
+- Para SA: arts. 328.º e 329.º CSC — o contrato de sociedade pode subordinar a transmissão de ações nominativas ao consentimento da sociedade e estabelecer um direito de preferência dos outros acionistas (art. 328.º, n.º 2); as limitações têm de constar dos títulos ou das contas de registo, sob pena de serem inoponíveis a adquirentes de boa-fé (art. 328.º, n.º 4)
+- Art. 17.º CSC — acordos parassociais: produzem efeitos entre os intervenientes, mas com base neles não podem ser impugnados atos da sociedade ou dos sócios para com a sociedade (n.º 1); são nulos os acordos de voto previstos no n.º 3
 - Art. 405 CC — liberdade contratual (fundamento para cláusulas parassociais)
-- Lei 99/2017 — segredos de negócio (se o acordo parassocial for confidencial)
+- Confidencialidade do acordo parassocial: resulta de cláusula contratual; o regime dos segredos comerciais (arts. 313.º e seguintes do Código da Propriedade Industrial, DL n.º 110/2018) só protege a informação que reúna os seus requisitos
 - [■ VERIFICAR: outras restrições na lei do investimento estrangeiro, se relevante]
 
 ### ETAPA 3 — CONSTRUÇÃO
@@ -91,7 +94,7 @@ B.5 **Preço:** O preço de preferência é igual ao preço acordado com o terce
 
 B.6 **Transmissão a terceiro após caducidade:** Se a preferência não for exercida no prazo, o Transmitente pode transmitir as participações ao terceiro identificado na Notificação, nas mesmas condições e no prazo de [60] dias. Decorrido este prazo ou alteradas as condições, o procedimento reinicia.
 
-B.7 **Incumprimento:** A transmissão efetuada em violação do presente pacto de preferência é ineficaz perante a sociedade e os demais sócios. [■ VERIFICAR: para Lda., a ineficácia resulta dos arts. 228-229 CSC; para SA, verificar eficácia perante terceiro de boa-fé]
+B.7 **Incumprimento:** [Em acordo parassocial:] O Transmitente que transmita participações em violação do presente pacto de preferência indemniza os demais Sócios pelos danos causados [e paga-lhes, a título de cláusula penal, €[valor]]. O acordo parassocial só produz efeitos entre as Partes e com base nele não podem ser impugnados atos da sociedade (art. 17.º, n.º 1, CSC). [■ VERIFICAR: eficácia perante o terceiro adquirente — a eficácia real do pacto de preferência está limitada aos casos do art. 421.º CC] [No contrato de sociedade de uma Lda.: articular a preferência com a cláusula de consentimento da sociedade, que é o que condiciona a eficácia da cessão para com esta (arts. 228.º, n.º 2, e 229.º CSC). No contrato de sociedade de uma SA: a preferência sobre ações nominativas (art. 328.º, n.º 2, al. b), CSC) só é oponível a adquirentes de boa-fé se constar dos títulos ou das contas de registo (art. 328.º, n.º 4, CSC).]
 
 ---
 
@@ -162,3 +165,25 @@ Apresente em <checklist_validacao>:
 
 **OBSERVAÇÕES:**
 [investidor de capital de risco, MBO, afiliadas excluídas do lockup, outros mecanismos]
+
+## Citações desta ficha
+
+| Citação | Estado | Nota |
+|---|---|---|
+| Arts. 228.º a 231.º CSC | conferida (epígrafe) — Transmissão entre vivos e cessão de quotas |  |
+| art. 228.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 228.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 229.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 229.º, n.º 5, CSC | conferida (epígrafe) — Cláusulas contratuais |  |
+| Art. 23.º CSC | conferida (epígrafe) — Usufruto e penhor de participações |  |
+| arts. 328.º e 329.º CSC | conferida (epígrafe) — Limitações à transmissão de ações |  |
+| art. 328.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 328.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| Art. 17.º CSC | conferida (epígrafe) — Acordos parassociais |  |
+| Art. 405 CC | conferida (índice) |  |
+| arts. 313.º e seguintes do Código da Propriedade Industrial | conferida (epígrafe) — Objeto de proteção |  |
+| art. 17.º, n.º 1, CSC | conferida (epígrafe) — Acordos parassociais |  |
+| art. 421.º CC | conferida (epígrafe) — Eficácia real |  |
+| arts. 228.º, n.º 2, e 229.º CSC | conferida (epígrafe) — Transmissão entre vivos e cessão de quotas |  |
+| art. 328.º, n.º 2, al. b), CSC | conferida (epígrafe) — Limitações à transmissão de ações |  |
+| art. 328.º, n.º 4, CSC | conferida (epígrafe) — Limitações à transmissão de ações |  |

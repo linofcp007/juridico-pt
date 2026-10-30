@@ -1,0 +1,226 @@
+[
+  {
+    "codigo": "AMB-051",
+    "veredicto": "corrigida",
+    "resumo": "A ficha assentava no DL 38/2013, revogado pelo DL 12/2020 (art. 47.º), e afirmava que o CELE pago na UE era dedutível ao CBAM, o que não existe: o Regulamento (UE) 2023/956 ajusta os certificados à atribuição gratuita de licenças do CELE (art. 31.º) e só deduz o preço do carbono pago num país terceiro (art. 9.º). Atualizou-se o CBAM com as alterações do Regulamento (UE) 2025/2083 (isenção de minimis de 50 toneladas, venda de certificados a partir de 1/2/2027, declaração e devolução até 30 de setembro), identificou-se a «taxa de carbono» como o adicionamento sobre as emissões de CO2 do art. 92.º-A do CIEC e corrigiu-se a grafia «hidrogénio».",
+    "substituicoes": [
+      {
+        "de": "— Cita artigos reais do CIEC, DL 38/2013 e Regulamento CBAM.",
+        "para": "— Cita artigos reais do CIEC, do DL 12/2020 (CELE, que revogou o DL 38/2013) e do Regulamento CBAM.",
+        "motivo": "O DL 38/2013 foi revogado pelo DL 12/2020 (art. 47.º).",
+        "fonte": "https://diariodarepublica.pt/redirect/LinkFicheiroAntigo.aspx?conteudoId=131124444"
+      },
+      {
+        "de": "ISP — taxa de carbono (art. [■ VERIFICAR])",
+        "para": "ISP — adicionamento sobre as emissões de CO2, a chamada «taxa de carbono» (art. 92.º-A do CIEC; taxa fixada anualmente por portaria com base nos preços dos leilões do CELE [■ VERIFICAR portaria em vigor])",
+        "motivo": "A componente de carbono do ISP é o adicionamento sobre as emissões de CO2 do art. 92.º-A do CIEC, cuja taxa é fixada por portaria com base nos leilões do CELE.",
+        "fonte": "https://info-aduaneiro.portaldasfinancas.gov.pt/pt/legislacao_aduaneira/iec_doclib/Documents/Portaria_203_A_2024_1.pdf"
+      },
+      {
+        "de": "- CELE (DL 38/2013): posição da empresa, obrigações de entrega, preço do carbono",
+        "para": "- CELE (DL 12/2020, alterado pelos DL 114/2021 e DL 101/2024, que revogou o DL 38/2013 — art. 47.º): posição da empresa, título de emissão de gases com efeito de estufa (TEGEE), obrigações de devolução de licenças, preço do carbono",
+        "motivo": "O regime do CELE para instalações fixas é o DL 12/2020, na redação do DL 101/2024; o DL 38/2013 está revogado.",
+        "fonte": "https://files.diariodarepublica.pt/1s/2024/12/23500/0004600105.pdf"
+      },
+      {
+        "de": "- CBAM (Reg. (UE) 2023/956): âmbito (cimento, aço, alumínio, fertilizantes, eletricidade, hidrogênio), período transitório (2023-2025), fase definitiva (2026+), declarante autorizado, certificados CBAM",
+        "para": "- CBAM (Reg. (UE) 2023/956, alterado pelo Reg. (UE) 2025/2083): âmbito (cimento, ferro e aço, alumínio, adubos, eletricidade, hidrogénio — anexo I), período transitório (2023-2025), fase definitiva (desde 1/1/2026), isenção de minimis até 50 toneladas de massa líquida importada por importador e por ano civil, salvo eletricidade e hidrogénio (art. 2.º-A e anexo VII), declarante CBAM autorizado (arts. 4.º, 5.º e 17.º), certificados CBAM vendidos a partir de 1/2/2027 (art. 20.º), primeira declaração e devolução até 30/9/2027, relativas a 2026 (arts. 6.º e 22.º)",
+        "motivo": "O Reg. (UE) 2025/2083 criou a isenção de minimis de 50 t e adiou a venda de certificados para 1/2/2027, com declaração e devolução até 30 de setembro; «hidrogênio» é grafia do Brasil.",
+        "fonte": "https://publications.europa.eu/resource/celex/02023R0956-20251020"
+      },
+      {
+        "de": "- Interação CELE-CBAM: crédito pelo CELE pago na UE dedutível ao CBAM",
+        "para": "- Interação CELE-CBAM: o CBAM não dá crédito pelo CELE pago na UE; o número de certificados a devolver é ajustado para refletir a atribuição gratuita de licenças do CELE aos produtores da União (art. 31.º do Reg. (UE) 2023/956), que se elimina progressivamente entre 2026 e 2034 (art. 10.º-A, n.º 1-A, da Diretiva 2003/87/CE), e pode ser reduzido pelo preço do carbono efetivamente pago num país terceiro (art. 9.º do Reg. (UE) 2023/956)",
+        "motivo": "O art. 9.º só permite deduzir o preço do carbono pago num país terceiro; a articulação com o CELE faz-se pelo ajustamento à atribuição gratuita (art. 31.º) e pelo fator CBAM da Diretiva 2003/87/CE.",
+        "fonte": "https://publications.europa.eu/resource/celex/02023R0956-20251020"
+      },
+      {
+        "de": "4.2 Obrigações do importador: registo como declarante autorizado, declaração CBAM, compra de certificados CBAM",
+        "para": "4.2 Obrigações do importador: isenção de minimis (art. 2.º-A) ou estatuto de declarante CBAM autorizado (arts. 4.º e 5.º), declaração CBAM anual (art. 6.º), compra e devolução de certificados CBAM (arts. 20.º e 22.º)",
+        "motivo": "Acrescenta a isenção de minimis do Reg. (UE) 2025/2083 e as normas de cada obrigação.",
+        "fonte": "https://publications.europa.eu/resource/celex/32025R2083"
+      },
+      {
+        "de": "4.3 Custo estimado do CBAM (volume importado × emissões incorporadas × preço ETS)\n4.4 Crédito pelo CELE já pago: mecanismo de dedução",
+        "para": "4.3 Custo estimado do CBAM (volume importado × emissões incorporadas × preço dos certificados CBAM, indexado aos leilões do CELE — art. 21.º)\n4.4 Reduções: ajustamento pela atribuição gratuita de licenças do CELE (art. 31.º) e preço do carbono efetivamente pago no país de origem (art. 9.º); não há dedução do CELE pago na UE",
+        "motivo": "Não existe crédito pelo CELE pago na UE; as reduções são as dos arts. 9.º e 31.º e o preço dos certificados segue o art. 21.º.",
+        "fonte": "https://publications.europa.eu/resource/celex/02023R0956-20251020"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Confirmar a taxa do adicionamento sobre as emissões de CO2 em vigor em 2026 (portaria publicada ao abrigo do art. 92.º-A, n.º 4, do CIEC) e as isenções do art. 89.º do CIEC aplicáveis à instalação.",
+      "Confirmar se a proposta de alargamento do CBAM a produtos a jusante e de medidas antievasão (COM(2025) 989) já foi aprovada e publicada no JO.",
+      "Confirmar se foi publicado o diploma de transposição do CELE para edifícios, transporte rodoviário e setores adicionais (Diretiva (UE) 2023/959) e se a empresa, fora do CELE das instalações fixas, suporta esse custo através dos fornecedores de combustíveis.",
+      "Confirmar a autoridade nacional competente para o CBAM e o procedimento do pedido de autorização de declarante.",
+      "Confirmar a elegibilidade e o regime em vigor do RFAI e do SIFIDE (Código Fiscal do Investimento)."
+    ],
+    "fontes": [
+      "https://diariodarepublica.pt/redirect/LinkFicheiroAntigo.aspx?conteudoId=131124444",
+      "https://files.diariodarepublica.pt/1s/2024/12/23500/0004600105.pdf",
+      "https://publications.europa.eu/resource/celex/02023R0956-20251020",
+      "https://publications.europa.eu/resource/celex/32025R2083",
+      "https://publications.europa.eu/resource/celex/02003L0087-20240301",
+      "https://info-aduaneiro.portaldasfinancas.gov.pt/pt/legislacao_aduaneira/iec_doclib/Documents/Portaria_203_A_2024_1.pdf"
+    ]
+  },
+  {
+    "codigo": "AMB-056",
+    "veredicto": "corrigida",
+    "resumo": "A ficha atribuía ao DL 68-A/2015 o regime das ESE (requisitos, registo na DGEG, garantia de poupança e M&V), que ali não está: o registo das ESE era do DL 29/2011, revogado pelo DL 50/2021, que regula só os contratos de gestão de eficiência energética com a Administração Pública (sistema de qualificação, protocolo de medição e verificação, partilha de riscos). Citava ainda o DL 118/2013, revogado pelo DL 101-D/2020 (art. 45.º), associando-lhe o PREn, que é do SGCIE (DL 71/2008), e a Diretiva 2012/27/UE, revogada pela Diretiva (UE) 2023/1791 com efeitos a 12/10/2025 (art. 38.º). Corrigiram-se o enquadramento, os dados da ESE e a descrição do índice.",
+    "descricao": "Elabora contrato de prestação de serviços de eficiência energética entre uma Empresa de Serviços Energéticos (ESE) e um cliente (empresa ou edifício público), com financiamento baseado em resultados (EPC — Energy Performance Contract), tendo em conta o Decreto-Lei n.º 68-A/2015 (eficiência energética), o Decreto-Lei n.º 50/2021 (contratos de gestão de eficiência energética com a Administração Pública), o Decreto-Lei n.º 101-D/2020 (SCE) e a Diretiva (UE) 2023/1791 (Eficiência Energética), incluindo a metodologia IPMVP de medição e verificação.",
+    "descricao_en": "Drafts an energy efficiency services agreement between an Energy Services Company (ESE/ESCO) and a client (company or public building), with results-based financing (EPC — Energy Performance Contract), taking into account Decree-Law No. 68-A/2015 (energy efficiency), Decree-Law No. 50/2021 (energy efficiency management contracts with the Public Administration), Decree-Law No. 101-D/2020 (SCE — Energy Certification System) and Directive (EU) 2023/1791 (Energy Efficiency), including the IPMVP measurement and verification methodology.",
+    "substituicoes": [
+      {
+        "de": "— Cita artigos reais do DL 68-A/2015, SCE e Diretiva EED.",
+        "para": "— Cita artigos reais do DL 68-A/2015, do DL 50/2021 (se o cliente for público), do SCE (DL 101-D/2020) e da Diretiva (UE) 2023/1791 (EED).",
+        "motivo": "O SCE é hoje o DL 101-D/2020 e a EED é a Diretiva (UE) 2023/1791; os contratos com a Administração Pública regem-se pelo DL 50/2021.",
+        "fonte": "https://files.diariodarepublica.pt/1s/2021/06/11400/0000700013.pdf"
+      },
+      {
+        "de": "- Confirmar o registo da ESE na DGEG (obrigatório ao abrigo do DL 68-A/2015)",
+        "para": "- Se o cliente for serviço ou organismo da Administração Pública, confirmar a qualificação da ESE no sistema de qualificação gerido pela DGEG (art. 4.º do DL 50/2021); o registo prévio das ESE na DGEG previsto no art. 3.º do DL 29/2011 deixou de existir com a revogação deste diploma (art. 20.º do DL 50/2021) [■ VERIFICAR se subsiste algum registo de ESE exigível a quem contrata com clientes privados]",
+        "motivo": "O DL 68-A/2015 não prevê registo de ESE; o registo era do art. 3.º do DL 29/2011, revogado pelo art. 20.º do DL 50/2021, que só prevê a qualificação para contratos públicos (art. 4.º).",
+        "fonte": "https://files.diariodarepublica.pt/1s/2021/06/11400/0000700013.pdf"
+      },
+      {
+        "de": "- DL 68-A/2015: requisitos das ESE (arts. 3.º e ss.), contrato de desempenho energético (art. 2.º), garantia de poupança (art. 11.º), M&V (art. 12.º)",
+        "para": "- DL 68-A/2015 (eficiência energética): noções de «contrato de gestão de eficiência energética», «serviço energético» e «prestador de serviços energéticos» (art. 2.º) e auditorias energéticas das empresas que não sejam PME (art. 12.º) [■ VERIFICAR redação em vigor]; o diploma não fixa requisitos das ESE nem regula a garantia de poupança ou a M&V, pelo que, com cliente privado, o contrato é atípico e vale o que as partes estipularem (art. 405.º CC)\n- Cliente público: DL 50/2021 (revogou o DL 29/2011): sistema de qualificação das ESE gerido pela DGEG (art. 4.º), preço contratual calculado a partir das economias de energia garantidas (art. 7.º), conteúdo obrigatório do contrato, sob pena de nulidade, incluindo os critérios de avaliação do desempenho energético segundo o protocolo de medição e verificação (art. 11.º), partilha de riscos (art. 12.º), prazo (art. 13.º) e aplicação subsidiária do CCP (art. 3.º)",
+        "motivo": "No DL 68-A/2015 o art. 3.º trata dos objetivos de eficiência energética, o art. 11.º de «outras entidades» e o art. 12.º das auditorias energéticas; a qualificação das ESE, a M&V e a partilha de riscos estão no DL 50/2021 e só para contratos com a Administração Pública.",
+        "fonte": "https://files.diariodarepublica.pt/1s/2015/04/08401/0000200052.pdf"
+      },
+      {
+        "de": "- DL 118/2013 (SCE): certificação energética de edifícios, auditorias energéticas, PREen",
+        "para": "- DL 101-D/2020 (SCE; revogou o DL 118/2013 — art. 45.º): certificação energética dos edifícios (arts. 18.º e ss.) e avaliações periódicas dos grandes edifícios de comércio e serviços (art. 12.º); as auditorias energéticas e o Plano de Racionalização do Consumo de Energia (PREn) das instalações consumidoras intensivas de energia pertencem ao SGCIE (DL 71/2008) [■ VERIFICAR redação em vigor]",
+        "motivo": "O DL 118/2013 foi revogado pelo DL 101-D/2020 (art. 45.º, com efeitos a 1/7/2021); o PREn é do SGCIE (DL 71/2008), não do SCE.",
+        "fonte": "https://files.diariodarepublica.pt/1s/2020/12/23701/0002100045.pdf"
+      },
+      {
+        "de": "- Diretiva 2012/27/UE (EED): obrigações de eficiência energética em edifícios públicos, contratos EPC no setor público",
+        "para": "- Diretiva (UE) 2023/1791 (EED reformulada, que revogou a Diretiva 2012/27/UE com efeitos a partir de 12/10/2025 — art. 38.º): papel exemplar dos edifícios dos organismos públicos (art. 6.º), contratação pública (art. 7.º), serviços energéticos e contratos de desempenho energético no setor público, com os elementos mínimos do anexo XV (art. 29.º); transposição ainda parcial (DL 84/2024, centros de dados) [■ VERIFICAR estado da transposição]",
+        "motivo": "A Diretiva 2012/27/UE foi revogada pela Diretiva (UE) 2023/1791 a partir de 12/10/2025; em Portugal, o DL 84/2024 só a transpôs parcialmente.",
+        "fonte": "https://publications.europa.eu/resource/celex/32023L1791"
+      },
+      {
+        "de": "ESE: [nome/firma, NIPC, sede, n.º registo DGEG]",
+        "para": "ESE: [nome/firma, NIPC, sede, qualificação DGEG, se o cliente for público]",
+        "motivo": "Já não existe registo obrigatório de ESE na DGEG; a qualificação só é exigida nos contratos com a Administração Pública (art. 4.º do DL 50/2021).",
+        "fonte": "https://files.diariodarepublica.pt/1s/2021/06/11400/0000700013.pdf"
+      },
+      {
+        "de": "- [ ] ESE registada na DGEG verificada",
+        "para": "- [ ] Qualificação da ESE na DGEG verificada (cliente público — art. 4.º do DL 50/2021)",
+        "motivo": "O registo do DL 29/2011 caiu com a revogação pelo DL 50/2021; para contratos públicos vale a qualificação do art. 4.º.",
+        "fonte": "https://files.diariodarepublica.pt/1s/2021/06/11400/0000700013.pdf"
+      },
+      {
+        "de": "- **ESE:** [nome, NIPC, n.º registo DGEG]",
+        "para": "- **ESE:** [nome, NIPC, qualificação DGEG, se o cliente for público]",
+        "motivo": "Já não existe registo obrigatório de ESE na DGEG (DL 29/2011 revogado pelo DL 50/2021).",
+        "fonte": "https://files.diariodarepublica.pt/1s/2021/06/11400/0000700013.pdf"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Confirmar a redação em vigor do DL 68-A/2015 (alterado, entre outros, pelos DL 64/2020 e 101-D/2020), em especial a numeração do art. 2.º e o regime das auditorias energéticas do art. 12.º.",
+      "Confirmar se o DL 50/2021 foi alterado e se a qualificação de ESE (sistema gerido pela DGEG) é exigida no procedimento concreto.",
+      "Confirmar se Portugal já completou a transposição da Diretiva (UE) 2023/1791 (prazo de 11/10/2025) e se o diploma de transposição cria lista ou registo de prestadores de serviços energéticos (art. 29.º, n.º 3, da Diretiva).",
+      "Com cliente público, o contrato segue o CCP e o caderno de encargos tipo aprovado ao abrigo do DL 50/2021; adaptar as cláusulas 3.ª, 5.ª, 10.ª, 11.ª e 12.ª."
+    ],
+    "fontes": [
+      "https://files.diariodarepublica.pt/1s/2015/04/08401/0000200052.pdf",
+      "https://files.diariodarepublica.pt/1s/2011/02/04100/0120901216.pdf",
+      "https://files.diariodarepublica.pt/1s/2021/06/11400/0000700013.pdf",
+      "https://files.diariodarepublica.pt/1s/2020/12/23701/0002100045.pdf",
+      "https://files.diariodarepublica.pt/1s/2008/04/07400/0222202226.pdf",
+      "https://publications.europa.eu/resource/celex/32023L1791",
+      "https://files.diariodarepublica.pt/1s/2024/11/21300/0000300007.pdf"
+    ]
+  },
+  {
+    "codigo": "AMB-059",
+    "veredicto": "corrigida",
+    "resumo": "A ficha citava o art. 20.º do DL 147/2008 como regra de transmissão da responsabilidade ambiental na M&A (trata da exclusão da obrigação de pagamento), afirmava a «imprescritibilidade» dos danos ecológicos (o art. 33.º fixa 30 anos), situava a prescrição contraordenacional nos arts. 47.º e ss. da LQCA (é o art. 40.º) e dava as licenças ambientais como em regra intransmissíveis (são transmissíveis por requerimento, comunicação ou autorização e averbamento). Substituiu-se o DL 38/2013 pelo DL 12/2020 (TEGEE, art. 10.º), a licença de descarga do DL 236/98 pelo TURH e o «registo SNIRH» de locais contaminados por uma verificação junto da APA e da CCDR, e acrescentou-se a autorização exigida na transmissão do domínio de sociedade titular de TURH do domínio público (art. 72.º, n.º 5, da Lei 58/2005).",
+    "substituicoes": [
+      {
+        "de": "- Transmissão de responsabilidade ambiental na M&A: art. 20.º DL 147/2008 (RRA), princípio do poluidor-pagador",
+        "para": "- Responsabilidade ambiental na M&A (DL 147/2008 — RRA; princípio do poluidor-pagador): o diploma não regula a transmissão do passivo, que se reparte no SPA; relevam a responsabilidade solidária dos diretores, gerentes ou administradores e a extensão à sociedade-mãe ou dominante em caso de utilização abusiva da personalidade jurídica ou fraude à lei (art. 3.º), as causas de exclusão da obrigação de pagamento dos custos (art. 20.º) e a garantia financeira obrigatória (art. 22.º)",
+        "motivo": "O art. 20.º do DL 147/2008 trata da exclusão da obrigação de pagamento, não da transmissão da responsabilidade; o diploma não regula a M&A.",
+        "fonte": "https://files.diariodarepublica.pt/1s/2008/07/14500/0502705038.pdf"
+      },
+      {
+        "de": "- Licenças ambientais: intransmissibilidade em regra; notificação obrigatória à APA/CCDR na mudança de operador",
+        "para": "- Licenças e títulos ambientais: em regra transmissíveis, mas só por requerimento, comunicação prévia ou autorização e averbamento — licença ambiental do REI (art. 20.º do DL 127/2013); TURH (art. 72.º da Lei 58/2005, na redação do DL 11/2023): mera comunicação prévia, com 10 dias de antecedência, nos recursos hídricos particulares e autorização nos do domínio público, exigida também na transmissão de participações sociais que assegurem o domínio da sociedade titular, sob pena de nulidade; confirmar o regime de cada título inscrito no TUA [■ VERIFICAR]",
+        "motivo": "A licença ambiental (art. 20.º do DL 127/2013) e os TURH (art. 72.º da Lei 58/2005) são transmissíveis; no TURH do domínio público a transmissão do domínio da sociedade titular carece de autorização.",
+        "fonte": "https://files.diariodarepublica.pt/1s/2023/02/03000/0000300192.pdf"
+      },
+      {
+        "de": "- CELE: transferência de autorização de emissão de GEE na mudança de operador (art. [■ VERIFICAR] DL 38/2013)",
+        "para": "- CELE: atualização do título de emissão de gases com efeito de estufa (TEGEE) pela APA na transmissão, a qualquer título, da exploração ou da propriedade da instalação, com o comprovativo do averbamento do licenciamento (art. 10.º, n.º 2, al. b), e n.º 4, do DL 12/2020, que revogou o DL 38/2013)",
+        "motivo": "O DL 38/2013 foi revogado pelo DL 12/2020; a transmissão da instalação obriga à atualização do TEGEE (art. 10.º, mantido na republicação do DL 101/2024).",
+        "fonte": "https://files.diariodarepublica.pt/1s/2024/12/23500/0004600105.pdf"
+      },
+      {
+        "de": "- Responsabilidade ambiental histórica: prescrição (arts. 47.º e ss. LQCA) vs. imprescritibilidade de danos ecológicos",
+        "para": "- Responsabilidade ambiental histórica: o procedimento contraordenacional prescreve em 5 anos (contraordenações graves e muito graves) ou 3 anos (leves) e a coima em 3 ou 2 anos (art. 40.º da Lei 50/2006 — LQCA); no RRA, prescrevem os danos causados por emissões, acontecimentos ou incidentes ocorridos há mais de 30 anos (art. 33.º do DL 147/2008), e a responsabilidade administrativa de prevenção e reparação (capítulo III) não abrange danos de emissões, acontecimentos ou incidentes anteriores à entrada em vigor do diploma (art. 35.º); não há imprescritibilidade dos danos ecológicos",
+        "motivo": "A prescrição na LQCA está no art. 40.º; o RRA fixa o limite de 30 anos (art. 33.º) e exclui factos anteriores à sua vigência (art. 35.º).",
+        "fonte": "https://files.diariodarepublica.pt/1s/2008/07/14500/0502705038.pdf"
+      },
+      {
+        "de": "- [ ] A1. Licença ambiental/TUA (DL 75/2015): referência, validade, condicionantes críticas",
+        "para": "- [ ] A1. Licença ambiental (REI — DL 127/2013) e TUA (LUA — DL 75/2015): referência, validade, condicionantes críticas",
+        "motivo": "A licença ambiental rege-se pelo DL 127/2013; o DL 75/2015 regula o TUA que a integra.",
+        "fonte": "https://files.diariodarepublica.pt/1s/2025/08/15400/0000200011.pdf"
+      },
+      {
+        "de": "- [ ] A2. Condições de transmissibilidade da licença: notificação à APA/CCDR obrigatória",
+        "para": "- [ ] A2. Condições de transmissibilidade de cada licença e título (requerimento, comunicação prévia ou autorização, averbamento); TURH do domínio público hídrico: autorização também para a aquisição do domínio da sociedade titular (art. 72.º, n.º 5, da Lei 58/2005)",
+        "motivo": "Cada título tem regime próprio de transmissão; no TURH do domínio público a aquisição do domínio da sociedade titular carece de autorização, sob pena de nulidade (art. 72.º, n.ºs 5 e 8).",
+        "fonte": "https://files.diariodarepublica.pt/1s/2023/02/03000/0000300192.pdf"
+      },
+      {
+        "de": "- [ ] A5. Autorização CELE (DL 38/2013): plano de monitorização, estado das licenças",
+        "para": "- [ ] A5. TEGEE (DL 12/2020): título atualizado, plano de monitorização aprovado, estado das licenças de emissão",
+        "motivo": "O título do CELE é o TEGEE do DL 12/2020, que revogou o DL 38/2013.",
+        "fonte": "https://diariodarepublica.pt/redirect/LinkFicheiroAntigo.aspx?conteudoId=131124444"
+      },
+      {
+        "de": "- [ ] A6. Licença de descarga de efluentes (DL 236/98): parâmetros, validade",
+        "para": "- [ ] A6. Licença de rejeição de águas residuais (TURH — arts. 50.º a 55.º do DL 226-A/2007; valores-limite de emissão aplicáveis, incluindo os do DL 236/98 [■ VERIFICAR]): parâmetros, validade",
+        "motivo": "A rejeição de águas residuais exige título de utilização dos recursos hídricos (art. 55.º do DL 226-A/2007); o DL 236/98 releva para as normas de descarga.",
+        "fonte": "https://files.diariodarepublica.pt/1s/2007/05/10502/00240049.pdf"
+      },
+      {
+        "de": "- [ ] C2. Registo no SNIRH/APA de locais contaminados",
+        "para": "- [ ] C2. Informação da APA e da CCDR sobre contaminação de solos e águas subterrâneas no local (inventários, processos de remediação) [■ VERIFICAR: o SNIRH é o Sistema Nacional de Informação de Recursos Hídricos, não um registo de locais contaminados; confirmar se já existe regime nacional de solos contaminados]",
+        "motivo": "O SNIRH é o sistema de informação de recursos hídricos da APA, não um registo de locais contaminados.",
+        "fonte": "https://snirh.apambiente.pt/"
+      },
+      {
+        "de": "- [ ] H2. Transferência da autorização CELE",
+        "para": "- [ ] H2. Pedido de atualização do TEGEE (transmissão da exploração ou da propriedade da instalação — art. 10.º do DL 12/2020)",
+        "motivo": "No CELE não há «transferência de autorização»: o TEGEE é atualizado na transmissão da instalação.",
+        "fonte": "https://files.diariodarepublica.pt/1s/2024/12/23500/0004600105.pdf"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Numa aquisição de participações sociais o operador não muda: o TEGEE e a licença ambiental mantêm o titular, mas confirmar cláusulas de mudança de controlo nos títulos e a autorização do art. 72.º, n.º 5, da Lei 58/2005 para TURH do domínio público.",
+      "Confirmar a redação em vigor do art. 72.º da Lei 58/2005 depois do DL 11/2023 e do art. 20.º do DL 127/2013 depois do DL 89/2025.",
+      "Confirmar o estado do regime nacional de solos contaminados e da transposição da diretiva europeia sobre monitorização e resiliência dos solos.",
+      "Confirmar o significado da sigla «ZAR» no bloco G (não identificada na legislação consultada).",
+      "Confirmar o calendário da CSRD depois das alterações europeias de 2025-2026 e da transposição portuguesa.",
+      "A prescrição da responsabilidade civil geral (art. 498.º CC) e a responsabilidade contratual no SPA seguem regimes próprios; confirmar os prazos aplicáveis ao caso."
+    ],
+    "fontes": [
+      "https://files.diariodarepublica.pt/1s/2008/07/14500/0502705038.pdf",
+      "https://apambiente.pt/sites/default/files/_Avaliacao_Gestao_Ambiental/Responsabilidade_ambiental/FAQ_RA_Versao_2022_02.pdf",
+      "https://www.madeira.gov.pt//Portals/12/Documentos/Noticias/Lei_Quadro_Contraordenacoes_Ambientais_jan_2022.pdf",
+      "https://files.diariodarepublica.pt/1s/2024/11/21600/0001500031.pdf",
+      "https://diariodarepublica.pt/redirect/LinkFicheiroAntigo.aspx?conteudoId=131124444",
+      "https://files.diariodarepublica.pt/1s/2024/12/23500/0004600105.pdf",
+      "https://files.diariodarepublica.pt/1s/2013/08/16700/0532405389.pdf",
+      "https://files.diariodarepublica.pt/1s/2023/02/03000/0000300192.pdf",
+      "https://files.diariodarepublica.pt/1s/2025/08/15400/0000200011.pdf",
+      "https://files.diariodarepublica.pt/1s/2007/05/10502/00240049.pdf",
+      "https://snirh.apambiente.pt/"
+    ]
+  }
+]

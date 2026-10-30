@@ -1,0 +1,194 @@
+[
+ {
+  "codigo": "DIG-042",
+  "veredicto": "corrigida",
+  "resumo": "A ficha apresentava a queixa-crime como um dever da vítima, dava a notificação à CNPD como mera recomendação e fixava um prazo legal de 1 ano para os logs forenses, que não existe. Os prazos NIS2 não eram os do regime português (DL n.º 125/2025: 24 horas, atualização em 72 horas, fim do impacto em 24 horas, relatório final em 30 dias úteis). Corrigiram-se estes pontos, o nome da UNC3T e o modelo de comunicação aos titulares, a que faltavam as consequências prováveis (art. 34.º, n.º 2, RGPD).",
+  "substituicoes": [
+   {
+    "de": "**RGPD — Violação de dados pessoais (art. 4.º, n.º 12):**",
+    "para": "**RGPD — Violação de dados pessoais (art. 4.º, n.º 12, RGPD):**",
+    "motivo": "Identifica o diploma da definição de violação de dados pessoais.",
+    "fonte": "https://publications.europa.eu/resource/celex/32016R0679"
+   },
+   {
+    "de": "- Dever de apresentar queixa-crime contra desconhecidos (preserva prazos e permite investigação)",
+    "para": "- Apresentar queixa-crime contra desconhecidos (recomendação, não dever legal da vítima): o acesso ilegítimo depende de queixa nas formas dos n.ºs 1 e 4 e na tentativa (art. 6.º, n.º 7, da Lei n.º 109/2009), e o direito de queixa extingue-se em 6 meses a contar do conhecimento do facto e dos seus autores (art. 115.º, n.º 1, CP); só as formas agravadas do n.º 5 são crime público",
+    "motivo": "A vítima não tem dever legal de queixa; o acesso ilegítimo é, em regra, crime semipúblico.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1137A0006&nid=1137&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Entidade competente: Polícia Judiciária (Unidade Nacional de Combate ao Cibercrime — UNC3T)",
+    "para": "- Entidade competente: Polícia Judiciária (Unidade Nacional de Combate ao Cibercrime e à Criminalidade Tecnológica — UNC3T) ou Ministério Público",
+    "motivo": "Designação oficial da unidade (DL n.º 81/2016); a queixa pode também ser apresentada no MP.",
+    "fonte": "https://diariodarepublica.pt/redirect/LinkFicheiroAntigo.aspx?conteudoId=105263934"
+   },
+   {
+    "de": "**NIS2 (se entidade abrangida):**\n- Incidente significativo? → alertar CNCS em 24 horas\n- Relatório completo em 1 mês",
+    "para": "**NIS2 — Regime Jurídico da Cibersegurança (anexo ao DL n.º 125/2025), se entidade abrangida:**\n- Incidente significativo? → notificação inicial à autoridade de cibersegurança competente (em regra, o CNCS), sem demora injustificada e até 24 horas após concluir que existe ou pode existir (art. 42.º, n.º 1, do regime)\n- Atualização até 72 horas, quando necessário (art. 42.º, n.º 3); notificação do fim do impacto significativo até 24 horas depois de este terminar (art. 43.º); se o incidente for resolvido nas 2 horas seguintes à deteção, basta esta última (art. 41.º, n.º 2)\n- Relatório final em 30 dias úteis a contar da notificação do fim do impacto (art. 44.º, n.º 1)\n- A notificação ao CNCS não dispensa a da CNPD nem as comunicações ao MP e à PJ (art. 40.º, n.º 5)",
+    "motivo": "Prazos do regime português da NIS2 (DL n.º 125/2025, em vigor desde 3/4/2026), que diferem dos da diretiva.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3985&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- **Notificação à CNPD (art. 33.º RGPD):** prazo 72h desde conhecimento — recomendada salvo risco improvável",
+    "para": "- **Notificação à CNPD (art. 33.º RGPD):** obrigatória, sem demora injustificada e, sempre que possível, até 72 horas após o conhecimento, salvo se a violação não for suscetível de resultar num risco para os direitos e liberdades dos titulares (art. 33.º, n.º 1, RGPD); se for feita depois das 72 horas, indica os motivos do atraso",
+    "motivo": "A notificação é uma obrigação, não uma recomendação; só é dispensada se não houver risco.",
+    "fonte": "https://publications.europa.eu/resource/celex/32016R0679"
+   },
+   {
+    "de": "não de uma falha nos nossos sistemas.",
+    "para": "não de uma falha nos nossos sistemas [afirmar só se a análise forense o confirmar].",
+    "motivo": "Evita afirmar na comunicação ao titular um facto ainda não apurado.",
+    "fonte": "https://publications.europa.eu/resource/celex/32016R0679"
+   },
+   {
+    "de": "Os dados potencialmente acedidos incluem: [listar especificamente].",
+    "para": "Os dados potencialmente acedidos incluem: [listar especificamente].\n\nConsequências prováveis: [descrever, p. ex., risco de phishing, fraude ou utilização indevida da conta].",
+    "motivo": "A comunicação ao titular deve descrever as consequências prováveis da violação (art. 34.º, n.º 2, e art. 33.º, n.º 3, al. c), RGPD).",
+    "fonte": "https://publications.europa.eu/resource/celex/32016R0679"
+   },
+   {
+    "de": "- Prazo de conservação dos logs forenses: mínimo 1 ano (ou conforme instrução de investigação criminal)",
+    "para": "- Prazo de conservação dos logs forenses: não há prazo legal fixo para este fim; definir na política interna o prazo necessário à investigação, à defesa da organização e à documentação do art. 33.º, n.º 5 RGPD, respeitando a limitação da conservação (art. 5.º, n.º 1, al. e), RGPD), e conservar enquanto houver processo-crime ou ordem de preservação expedita de dados (art. 12.º da Lei n.º 109/2009)",
+    "motivo": "O prazo mínimo de 1 ano não tem base legal.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1137&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar se o credential stuffing preenche a forma agravada do art. 6.º, n.º 4, al. a), da Lei n.º 109/2009 (violação de regras de segurança); a queixa continua a ser necessária.",
+   "Confirmar se a entidade está abrangida pelo DL n.º 125/2025 e qual a autoridade de cibersegurança competente (CNCS ou autoridade setorial), e as instruções técnicas do CNCS sobre a taxonomia e a MyCiber.",
+   "Validar com a análise forense a afirmação de que não houve falha dos sistemas antes de a incluir na comunicação aos titulares."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1137A0006&nid=1137&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1137&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=109A0115&nid=109&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://diariodarepublica.pt/redirect/LinkFicheiroAntigo.aspx?conteudoId=105263934",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3985&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://publications.europa.eu/resource/celex/32016R0679"
+  ]
+ },
+ {
+  "codigo": "DIG-047",
+  "veredicto": "corrigida",
+  "resumo": "A ficha remetia a investigação e a pseudonimização para o art. 28.º da Lei n.º 58/2019 (relações laborais), quando a norma é o art. 31.º, e omitia o art. 29.º (dados de saúde); citava o art. 7.º da Lei n.º 12/2005 (bases de dados genéticos) para o acesso do titular, que está no art. 3.º. Classificava a IA de diagnóstico no anexo III, ponto 5, do AI Act, quando o risco elevado resulta do art. 6.º, n.º 1, e do anexo I (MDR/IVDR), e afirmava um risco elevado presumido nas violações de dados de saúde. Corrigiram-se estes pontos, as datas do EHDS e a descrição do índice.",
+  "descricao": "Analisa os requisitos específicos para o tratamento de dados de saúde como categoria especial ao abrigo do artigo 9.º do RGPD, dos artigos 29.º e 31.º da Lei n.º 58/2019, da Lei n.º 12/2005 (informação genética e de saúde), e das regras de partilha no contexto do Espaço Europeu de Dados de Saúde (EHDS, Regulamento UE 2025/327), com atenção a plataformas de saúde digital e investigação clínica.",
+  "descricao_en": "Analyses the specific requirements for processing health data as a special category under Article 9 of the GDPR, Articles 29 and 31 of Law No. 58/2019 and Law No. 12/2005 (genetic and health information), and the sharing rules in the context of the European Health Data Space (EHDS, Regulation (EU) 2025/327), with attention to digital health platforms and clinical research.",
+  "substituicoes": [
+   {
+    "de": "- **Al. j) — Investigação:** art. 89.º RGPD + art. 28.º Lei 58/2019",
+    "para": "- **Al. j) — Investigação:** art. 89.º RGPD + art. 31.º da Lei n.º 58/2019",
+    "motivo": "O art. 28.º da Lei n.º 58/2019 trata das relações laborais; a investigação está no art. 31.º.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3118&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Art. 7.º Lei n.º 12/2005: acesso à informação de saúde pelo titular ou mandatário",
+    "para": "- Art. 3.º, n.ºs 2 e 3, da Lei n.º 12/2005: acesso à informação de saúde pelo titular ou por terceiro com o seu consentimento [■ VERIFICAR a redação em vigor do n.º 3 quanto à intermediação por médico (alterações da Lei n.º 26/2016)]",
+    "motivo": "O art. 7.º da Lei n.º 12/2005 trata das bases de dados genéticos; o acesso do titular está no art. 3.º.",
+    "fonte": "https://diariodarepublica.pt/redirect/LinkFicheiroAntigo.aspx?conteudoId=624463"
+   },
+   {
+    "de": "1. Segredo profissional: colaboradores vinculados por confidencialidade (art. 9.º, n.º 3 RGPD)",
+    "para": "1. Segredo profissional: colaboradores vinculados por confidencialidade (art. 9.º, n.º 3 RGPD e art. 29.º, n.ºs 2 e 4, da Lei n.º 58/2019)",
+    "motivo": "A Lei n.º 58/2019 impõe o dever de sigilo a quem acede a dados de saúde.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3118&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "2. Controlos de acesso: need-to-know + logs auditáveis",
+    "para": "2. Controlos de acesso: princípio da necessidade de conhecer (art. 29.º, n.º 1, da Lei n.º 58/2019) + logs auditáveis; o titular deve ser notificado de qualquer acesso aos seus dados (art. 29.º, n.º 6, da Lei n.º 58/2019)",
+    "motivo": "Regras nacionais específicas de acesso a dados de saúde que a ficha omitia.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3118&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "4. Pseudonimização para investigação (art. 89.º + art. 28.º, n.º 3 Lei 58/2019)",
+    "para": "4. Anonimização ou pseudonimização para investigação, sempre que os fins o permitam (art. 89.º, n.º 1, RGPD + art. 31.º, n.º 1, da Lei n.º 58/2019)",
+    "motivo": "A norma nacional é o art. 31.º, n.º 1, não o art. 28.º, n.º 3 (relações laborais).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3118&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Base: art. 89.º RGPD + art. 28.º Lei 58/2019",
+    "para": "- Base: art. 89.º RGPD + art. 31.º da Lei n.º 58/2019",
+    "motivo": "A investigação está no art. 31.º da Lei n.º 58/2019.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3118&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "**EHDS (Regulamento 2025/327) — utilização secundária:**\n- Novos direitos de acesso e portabilidade para titulares\n- Infraestrutura HealthData@EU para investigação\n- Implementação faseada [■ VERIFICAR prazo PT]",
+    "para": "**EHDS (Regulamento (UE) 2025/327):**\n- Aplicação geral a partir de 26/3/2027, com datas escalonadas (art. 105.º)\n- Utilização primária: novos direitos de acesso e portabilidade para titulares, a partir de 26/3/2029 ou 26/3/2031, consoante a categoria de dados\n- Utilização secundária (capítulo IV, aplicável a partir de 26/3/2029): infraestrutura HealthData@EU para investigação\n- [■ VERIFICAR as entidades designadas em Portugal e a legislação nacional de execução]",
+    "motivo": "Os direitos de acesso e portabilidade são de utilização primária; datas de aplicação do art. 105.º.",
+    "fonte": "https://publications.europa.eu/resource/celex/32025R0327"
+   },
+   {
+    "de": "- IA diagnóstica = alto risco AI Act (Anexo III, ponto 5)",
+    "para": "- IA diagnóstica que seja dispositivo médico, ou seu componente de segurança, sujeito a avaliação da conformidade por terceiros = risco elevado (art. 6.º, n.º 1, e anexo I do AI Act), com obrigações aplicáveis a partir de 2/8/2028 (redação do Reg. (UE) 2026/1744); o anexo III, ponto 5, só abrange a elegibilidade para cuidados de saúde públicos, os seguros de saúde e a triagem de emergência (a partir de 2/12/2027)",
+    "motivo": "O anexo III, ponto 5, não abrange o diagnóstico; datas do Reg. (UE) 2026/1744.",
+    "fonte": "https://publications.europa.eu/resource/celex/32026R1744"
+   },
+   {
+    "de": "- Violações de dados de saúde: risco elevado presumido → comunicação a titulares",
+    "para": "- Violações de dados de saúde: não há presunção legal; avaliar o risco caso a caso, que tende a ser elevado → comunicação a titulares (art. 34.º RGPD), salvo as exceções do art. 34.º, n.º 3",
+    "motivo": "O art. 34.º RGPD exige avaliação do risco e prevê exceções.",
+    "fonte": "https://publications.europa.eu/resource/celex/32016R0679"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar a redação em vigor do art. 3.º da Lei n.º 12/2005 após a Lei n.º 26/2016 e o prazo de resposta ao pedido de acesso (RGPD ou LADA, conforme a entidade).",
+   "Confirmar se a CNPD desaplicou alguma norma do art. 29.º da Lei n.º 58/2019 (Deliberação 2019/494) antes de invocar o dever de notificação de acessos.",
+   "Confirmar a classe do software ao abrigo do MDR/IVDR para saber se cai no art. 6.º, n.º 1, do AI Act."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3118&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://diariodarepublica.pt/redirect/LinkFicheiroAntigo.aspx?conteudoId=624463",
+   "https://publications.europa.eu/resource/celex/32025R0327",
+   "https://publications.europa.eu/resource/celex/32024R1689",
+   "https://publications.europa.eu/resource/celex/32026R1744",
+   "https://publications.europa.eu/resource/celex/32016R0679"
+  ]
+ },
+ {
+  "codigo": "DIG-048",
+  "veredicto": "corrigida",
+  "resumo": "A ficha dava o DL n.º 171/2015 como o regime do registo criminal, quando este é a Lei n.º 37/2015 (o decreto-lei é o regulamento), e limitava o pedido de certificado ao titular ou a advogado com procuração. Remetia o recrutamento para o art. 8.º CT (destacamento) em vez do art. 17.º CT, e a idoneidade no setor financeiro para a Lei n.º 83/2017 (branqueamento) em vez do RGICSF. A descrição do índice citava o art. 27.º da Lei n.º 58/2019, que trata da contratação pública. Tudo corrigido.",
+  "descricao": "Analisa as condições restritas de licitude do tratamento de dados relativos a condenações penais e infrações nos termos do artigo 10.º do RGPD e das normas nacionais habilitantes (Lei n.º 37/2015, da identificação criminal, Código do Trabalho e regimes setoriais), com foco em due diligence empresarial, verificação de antecedentes em recrutamento, plataformas de economia colaborativa e requisitos de idoneidade no setor financeiro.",
+  "descricao_en": "Analyses the restrictive conditions for the lawful processing of data relating to criminal convictions and offences under Article 10 of the GDPR and the national enabling rules (Law No. 37/2015 on criminal records, the Labour Code and sectoral regimes), focusing on corporate due diligence, background checks in recruitment, collaborative economy platforms and fit-and-proper requirements in the financial sector.",
+  "substituicoes": [
+   {
+    "de": "- A organização é autoridade pública para efeitos do art. 10.º RGPD?",
+    "para": "- O tratamento é feito sob o controlo de uma autoridade pública ou está autorizado por norma da União ou nacional com garantias adequadas (art. 10.º RGPD)?",
+    "motivo": "O art. 10.º exige controlo de autoridade pública ou autorização legal, não que o responsável seja autoridade pública.",
+    "fonte": "https://publications.europa.eu/resource/celex/32016R0679"
+   },
+   {
+    "de": "**Registo Criminal PT (DL n.º 171/2015):**\n- Quem pode pedir CRC de terceiro: entidades expressamente previstas por lei\n- Regra geral: apenas o titular ou advogado com procuração\n- Exceções: profissões com acesso a menores, funções de segurança [■ VERIFICAR lista DL 171/2015]",
+    "para": "**Registo Criminal PT (Lei n.º 37/2015, de 5 de maio, regulamentada pelo DL n.º 171/2015):**\n- Regra geral: tem acesso o titular ou quem prove efetuar o pedido em nome ou no interesse dele (art. 8.º, n.º 1, da Lei n.º 37/2015)\n- Acesso de terceiros: só as entidades enumeradas no art. 8.º, n.ºs 2 e 3 (magistrados, órgãos de polícia criminal e entidades públicas, para as finalidades aí previstas)\n- O certificado pedido pelo titular para fins de emprego só contém as decisões que proíbam ou interditem o exercício de função, profissão ou atividade; contém todas as decisões vigentes quando a lei exija a ausência de antecedentes ou a avaliação da idoneidade (art. 10.º, n.ºs 5 e 6, da Lei n.º 37/2015)\n- Exceções com norma própria: funções com contacto regular com menores, em que a entidade recrutadora tem de pedir o certificado ao candidato e, depois, anualmente (art. 2.º da Lei n.º 113/2009); outras funções [■ VERIFICAR a lei especial aplicável, p. ex. segurança privada]",
+    "motivo": "O regime é a Lei n.º 37/2015; o DL n.º 171/2015 é o seu regulamento. O acesso não se limita a advogado com procuração.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2321A0010&nid=2321&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "**Recrutamento (art. 8.º Código do Trabalho):**\n- Proibição de perguntar sobre antecedentes não relacionados com a função",
+    "para": "**Recrutamento (art. 17.º CT):**\n- O empregador só pode exigir ao candidato informações sobre a vida privada quando estritamente necessárias e relevantes para avaliar a aptidão para a função, com fundamentação escrita (art. 17.º, n.º 1, al. a), CT); antecedentes sem relação com a função não podem ser pedidos",
+    "motivo": "O art. 8.º CT trata do destacamento; a norma é o art. 17.º CT.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0017&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "**Setor financeiro (Lei n.º 83/2017 + Aviso BdP idoneidade):**\n- Verificação de idoneidade de administradores e titulares de participações qualificadas",
+    "para": "**Setor financeiro (RGICSF, DL n.º 298/92):**\n- Idoneidade dos membros dos órgãos de administração e de fiscalização (art. 30.º-D do RGICSF) e apreciação dos titulares de participações qualificadas pelo Banco de Portugal (arts. 102.º e 103.º do RGICSF) [■ VERIFICAR a regulamentação do Banco de Portugal em vigor]\n- A Lei n.º 83/2017 é o regime de prevenção do branqueamento de capitais e do financiamento do terrorismo, não a sede da idoneidade",
+    "motivo": "A idoneidade de administradores e participantes qualificados está no RGICSF, não na Lei n.º 83/2017.",
+    "fonte": "https://www.bportugal.pt/sites/default/files/anexos/legislacoes/rgicsf_pt.pdf"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar se há outras leis especiais que exijam o certificado (segurança privada, TVDE, setor segurador) para a função em causa.",
+   "Confirmar a legitimidade de exigir o certificado ao candidato fora dos casos legais, à luz do art. 17.º CT e da orientação da CNPD.",
+   "Confirmar o instrumento regulamentar do Banco de Portugal sobre a avaliação da idoneidade em vigor."
+  ],
+  "fontes": [
+   "https://publications.europa.eu/resource/celex/32016R0679",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2321A0010&nid=2321&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://diariodarepublica.pt/redirect/LinkFicheiroAntigo.aspx?conteudoId=67142147",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1139A0002&nid=1139&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0017&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.bportugal.pt/sites/default/files/anexos/legislacoes/rgicsf_pt.pdf",
+   "https://diariodarepublica.pt/dr/detalhe/lei/83-2017-108021178",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3118&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+  ]
+ }
+]

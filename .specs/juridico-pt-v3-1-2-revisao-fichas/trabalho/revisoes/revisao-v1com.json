@@ -1,0 +1,648 @@
+[
+ {
+  "codigo": "COM-020",
+  "veredicto": "corrigida",
+  "descricao": "Elabora o contrato de associação em participação entre o associante (que exerce a atividade) e o associado (que entra com uma contribuição patrimonial), regulando a participação nos lucros e, se não for dispensada, nas perdas, a autonomia do associante, a informação e a prestação de contas devidas ao associado e as condições de cessação, em conformidade com os artigos 21.º a 31.º do Decreto-Lei n.º 231/81, de 28 de julho.",
+  "descricao_en": "Drafts the profit-sharing association agreement (associação em participação) between the principal party (associante), who carries on the business, and the participating party (associado), who makes a contribution in money or kind, governing participation in profits and, unless waived, in losses, the associante's autonomy, the information and accounts owed to the associado and the termination conditions, in accordance with Articles 21 to 31 of Decree-Law No. 231/81 of 28 July.",
+  "resumo": "A ficha assentava num regime inexistente: citava os «arts. 21.º a 29.º do Código Comercial», quando a associação em participação está regulada nos arts. 21.º a 31.º do Decreto-Lei n.º 231/81, de 28 de julho, que revogou os arts. 224.º a 227.º do Código Comercial (conta em participação). Corrigi a base legal nas regras, na fundamentação (agora artigo a artigo do DL 231/81: noção, forma, contribuição, lucros e perdas limitadas à contribuição, deveres do associante, extinção, resolução e prestação de contas), no cabeçalho e na cláusula 1.ª do contrato e na checklist, e reformulei a regra que atribuía ao associado a falta de personalidade jurídica. Assinalei ainda a contradição da opção sem participação nas perdas.",
+  "substituicoes": [
+   {
+    "de": "- Aplicar arts. 21-29 do Código Comercial português\n- Esclarecer que o associado não tem personalidade jurídica e não é visível perante terceiros",
+    "para": "- Aplicar os arts. 21.º a 31.º do Decreto-Lei n.º 231/81, de 28 de julho (contrato de associação em participação); o Código Comercial já não regula esta figura — os seus arts. 224.º a 227.º (conta em participação) foram revogados pelo art. 32.º desse decreto-lei\n- Esclarecer que a associação em participação não cria uma pessoa jurídica nem um património comum: a atividade económica é exercida pelo associante (art. 21.º, n.º 1, do DL 231/81), que atua em nome próprio perante terceiros; o associado participa nos lucros (elemento essencial) e, salvo dispensa, nas perdas (art. 21.º, n.º 2)",
+    "motivo": "Base legal errada: o regime está no DL 231/81 (arts. 21.º-31.º), que revogou as normas do Código Comercial; quem não tem personalidade jurídica é a associação, não o associado",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=705A0030&nid=705&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Arts. 21-29 Código Comercial — associação em participação:\n  - Art. 21 — noção e forma\n  - Art. 22 — o associante age em nome próprio; o associado não aparece perante terceiros\n  - Art. 23 — direito do associado à informação sobre a gestão\n  - Art. 25 — partilha de lucros e perdas\n  - Art. 28 — cessação",
+    "para": "- DL n.º 231/81, de 28 de julho, arts. 21.º a 31.º — associação em participação:\n  - Art. 21.º — noção: associação de uma pessoa a uma atividade económica exercida por outra, com participação nos lucros ou nos lucros e perdas; a participação nos lucros é elemento essencial e a participação nas perdas pode ser dispensada (n.º 2)\n  - Art. 22.º — pluralidade de associados (a solidariedade não se presume)\n  - Art. 23.º — forma: não há forma especial, salvo a exigida pela natureza dos bens com que o associado contribui; as cláusulas que excluam a participação do associado nas perdas ou que a tornem ilimitada só podem ser provadas por escrito (n.º 2)\n  - Art. 24.º — contribuição do associado: ingressa no património do associante e o contrato deve atribuir-lhe um valor em dinheiro (n.º 4)\n  - Art. 25.º — participação nos lucros e nas perdas: na falta de estipulação, proporcional ao valor da contribuição (n.º 3); a participação nas perdas é limitada à contribuição (n.º 4)\n  - Art. 26.º — deveres do associante: gestão com a diligência de um gestor criterioso e ordenado, manutenção das bases essenciais da associação, não concorrência e prestação das informações justificadas; o contrato pode exigir a audição ou o consentimento do associado para certos atos (n.º 2)\n  - Arts. 27.º a 30.º — extinção e resolução (por justa causa; nos contratos sem prazo nem objeto determinados, por vontade de qualquer das partes, decorridos dez anos sobre a celebração — art. 30.º, n.º 3)\n  - Art. 31.º — prestação de contas, pelo menos relativamente a cada ano civil",
+    "motivo": "As normas citadas não regulam a figura; substituídas pelas do DL 231/81, conferidas artigo a artigo",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=705A0021&nid=705&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "(nos termos dos artigos 21.º e seguintes do Código Comercial)",
+    "para": "(nos termos dos artigos 21.º e seguintes do Decreto-Lei n.º 231/81, de 28 de julho)",
+    "motivo": "Base legal do contrato: DL 231/81, não o Código Comercial",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=705A0021&nid=705&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "nos termos dos arts. 21.º e seguintes do Código Comercial, destinada",
+    "para": "nos termos dos arts. 21.º e seguintes do Decreto-Lei n.º 231/81, de 28 de julho, destinada",
+    "motivo": "Base legal do contrato: DL 231/81, não o Código Comercial",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=705A0021&nid=705&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "O Associado não participa nas perdas geradas pelo Negócio; a sua exposição máxima é a perda da Contribuição.",
+    "para": "O Associado não participa nas perdas geradas pelo Negócio (art. 21.º, n.º 2, do DL 231/81); no termo do contrato tem direito à restituição da Contribuição. [■ VERIFICAR: risco de insolvência do Associante e regime do art. 117.º do CIRE]",
+    "motivo": "Contradição: sem participação nas perdas, o associado não suporta a perda da contribuição por resultados negativos",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=705A0021&nid=705&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- [ ] Modalidade (arts. 21-29 Código Comercial) identificada",
+    "para": "- [ ] Regime aplicável (arts. 21.º a 31.º do DL n.º 231/81) identificado; exclusão da participação nas perdas, se houver, estipulada por escrito (art. 23.º, n.º 2)",
+    "motivo": "Base legal errada na checklist",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=705A0021&nid=705&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "(art. 23 Cód. Comercial)",
+    "para": "(arts. 26.º, n.º 1, e 31.º do DL n.º 231/81)",
+    "motivo": "A informação e a prestação de contas ao associado resultam dos arts. 26.º e 31.º do DL 231/81",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=705A0030&nid=705&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar o enquadramento fiscal dos rendimentos do associado (IRS, categoria E, e IRC do associante) — a ficha mantém o [■ VERIFICAR].",
+   "Na opção sem participação nas perdas, confirmar os efeitos da insolvência do associante sobre a contribuição (art. 117.º do CIRE).",
+   "O art. 31.º, n.º 4, do DL 231/81 remete para o processo especial de prestação de contas do CPC de 1961; confirmar a correspondência no CPC atual."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=705A0021&nid=705&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=705A0030&nid=705&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://pgdlisboa.pt/jurel/stj_mostra_doc.php?nid=5298"
+  ]
+ },
+ {
+  "codigo": "COM-032",
+  "veredicto": "corrigida",
+  "resumo": "O prazo de 30 dias da ação de anulação contava-se «da deliberação (presentes) ou do conhecimento (ausentes)», com o art. 59.º, n.º 1: pelo art. 59.º, n.º 2, conta-se do encerramento da assembleia, do 3.º dia após o envio da ata no voto escrito ou, só se o assunto não constava da convocatória, do conhecimento. Corrigi ainda a legitimidade (o gerente não pode pedir a anulação), o conteúdo atribuído aos arts. 56.º, 57.º e 60.º CSC (a nulidade invocável a todo o tempo resulta do art. 286.º CC; os efeitos retroativos, do art. 289.º CC, com a ressalva dos terceiros de boa-fé do art. 61.º, n.º 2, CSC), a falsa oposição entre nulidade retroativa e anulação ex nunc e o pedido de suspensão embutido na petição, que é procedimento cautelar próprio com prazo de 10 dias (art. 380.º CPC).",
+  "substituicoes": [
+   {
+    "de": "- Prazo de 30 dias para anulação conta da data da deliberação (presentes) ou do seu conhecimento (ausentes) — art. 59/1 CSC",
+    "para": "- Prazo de 30 dias para a ação de anulação (art. 59.º, n.º 2, CSC), contado: a) da data em que foi encerrada a assembleia geral; b) do 3.º dia subsequente à data do envio da ata da deliberação por voto escrito; c) da data em que o sócio teve conhecimento da deliberação, só se esta incidir sobre assunto que não constava da convocatória. O sócio ausente que foi regularmente convocado não ganha prazo por ter conhecido a deliberação mais tarde; a deliberação tomada em assembleia não convocada é nula (art. 56.º, n.º 1, al. a), CSC)",
+    "motivo": "Termo inicial do prazo errado; o prazo e a sua contagem estão no n.º 2 do art. 59.º",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0056&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "pedido de suspensão cautelar se urgente",
+    "para": "suspensão da deliberação, se urgente, em procedimento cautelar próprio, no prazo de 10 dias (art. 380.º CPC)",
+    "motivo": "A suspensão é um procedimento cautelar autónomo, com prazo de 10 dias",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1959&tabela=leis&pagina=18&ficha=361&so_miolo=&nversao="
+   },
+   {
+    "de": "- PRAZO: data da deliberação vs. data de entrada da petição — está dentro de 30 dias? (anulabilidade)\n- Qualidade do impugnante: sócio com voto contra? Sócio ausente? Gerente?\n- Necessidade de suspensão cautelar da deliberação (art. 380 CPC) — especialmente se produz efeitos imediatos",
+    "para": "- PRAZO: termo inicial do art. 59.º, n.º 2, CSC (encerramento da assembleia; 3.º dia após o envio da ata, na deliberação por voto escrito; conhecimento, só se o assunto não constava da convocatória) vs. data de entrada da petição — está dentro de 30 dias? (anulabilidade)\n- Qualidade do impugnante: na anulação, o órgão de fiscalização ou o sócio que não votou no sentido que fez vencimento nem aprovou depois a deliberação, expressa ou tacitamente (art. 59.º, n.º 1, CSC); na nulidade, qualquer interessado (art. 286.º CC), cabendo ao órgão de fiscalização ou, na sua falta, a qualquer gerente a iniciativa do art. 57.º CSC. O gerente, enquanto tal, não tem legitimidade para a ação de anulação\n- Necessidade de suspensão cautelar da deliberação (art. 380 CPC) — especialmente se produz efeitos imediatos; o requerimento tem de entrar no prazo de 10 dias a contar da data da assembleia (ou do conhecimento, se o requerente não foi regularmente convocado), com prova da qualidade de sócio e de que a execução pode causar dano apreciável",
+    "motivo": "Termo inicial do prazo e legitimidade errados; faltava o prazo de 10 dias da suspensão",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0056&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Art. 56 CSC — deliberações nulas (objeto proibido, violação de normas imperativas, decisões de órgão incompetente)\n- Art. 57 CSC — ação de declaração de nulidade (qualquer interessado, imprescritível)\n- Art. 58 CSC — deliberações anuláveis (violação da lei não imperativa, violação do contrato de sociedade, abuso de maioria)\n- Art. 59 CSC — ação de anulação (prazo de 30 dias; legitimidade: sócios, gerentes, membros do órgão de fiscalização)\n- Art. 60 CSC — efeitos da declaração de nulidade ou anulação\n- Art. 381 CPC — suspensão de deliberações sociais como providência cautelar",
+    "para": "- Art. 56 CSC — deliberações nulas: tomadas em assembleia geral não convocada (salvo se todos os sócios tiverem estado presentes ou representados) ou por voto escrito sem que todos os sócios com direito de voto tenham sido convidados a exercê-lo; cujo conteúdo não esteja, por natureza, sujeito a deliberação dos sócios; ou cujo conteúdo ofenda os bons costumes ou preceitos legais inderrogáveis (n.º 1); o n.º 2 indica as assembleias que se têm por não convocadas\n- Art. 57 CSC — iniciativa do órgão de fiscalização (ou, na sua falta, de qualquer gerente — n.º 4) quanto a deliberações nulas; a nulidade é invocável a todo o tempo por qualquer interessado (art. 286.º CC)\n- Art. 58 CSC — deliberações anuláveis: violação da lei, quando ao caso não caiba a nulidade, ou do contrato de sociedade; deliberações apropriadas para satisfazer o propósito de um sócio de obter vantagens especiais ou de prejudicar a sociedade ou outros sócios (votos abusivos); falta de elementos mínimos de informação\n- Art. 59 CSC — ação de anulação: legitimidade do órgão de fiscalização e de qualquer sócio que não tenha votado no sentido que fez vencimento nem posteriormente tenha aprovado a deliberação (n.º 1); prazo de 30 dias (n.º 2)\n- Art. 60 CSC — as ações de nulidade e de anulação são propostas contra a sociedade; art. 61.º CSC — a sentença é eficaz contra e a favor de todos os sócios e órgãos, mas não prejudica os direitos adquiridos de boa-fé por terceiros; ambas têm efeito retroativo (art. 289.º, n.º 1, CC)\n- Art. 380.º CPC — suspensão de deliberações sociais: procedimento cautelar próprio, como preliminar ou incidente da ação, por apenso (art. 364.º CPC), requerido no prazo de 10 dias",
+    "motivo": "Conteúdo dos arts. 56.º a 60.º CSC mal descrito (o art. 57.º trata da iniciativa do órgão de fiscalização; o gerente não tem legitimidade para a anulação; o art. 60.º não trata dos efeitos); a suspensão está no art. 380.º CPC",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0056&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Efeitos da procedência: nulidade retroativa vs. anulação com efeitos ex nunc?",
+    "para": "- Efeitos da procedência: tanto a declaração de nulidade como a anulação têm efeito retroativo (art. 289.º, n.º 1, CC), sem prejuízo dos direitos adquiridos de boa-fé por terceiros (art. 61.º, n.º 2, CSC)",
+    "motivo": "A anulação também tem efeito retroativo",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0289&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "vem, ao abrigo do art. [59.º / 57.º] do CSC, intentar",
+    "para": "vem, ao abrigo do [art. 59.º do CSC / art. 56.º do CSC e art. 286.º do Código Civil], intentar",
+    "motivo": "O art. 57.º CSC não dá ao sócio a ação de nulidade; esta funda-se no art. 286.º CC",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0289&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "[nome completo, NIF, morada, qualidade: sócio/gerente]",
+    "para": "[nome completo, NIF, morada, qualidade: sócio — ou gerente, só na ação de nulidade em sociedade sem órgão de fiscalização (art. 57.º, n.º 4, do CSC)]",
+    "motivo": "O gerente não tem legitimidade para a ação de anulação (art. 59.º, n.º 1, CSC)",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0057&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "1. O(A) Autor(a) é sócio(a)/gerente da [Firma]",
+    "para": "1. O(A) Autor(a) é sócio(a) [ou gerente — só na ação de nulidade, art. 57.º, n.º 4, do CSC] da [Firma]",
+    "motivo": "O gerente não tem legitimidade para a ação de anulação (art. 59.º, n.º 1, CSC)",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0057&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "5. O(A) Autor(a) [votou contra a deliberação / estava ausente e tomou conhecimento em [data] / protestou na ata — VERIFICAR].",
+    "para": "5. O(A) Autor(a) [votou contra a deliberação / absteve-se / esteve ausente — VERIFICAR] e não a aprovou posteriormente, expressa ou tacitamente (art. 59.º, n.º 1, do CSC). [Se esteve ausente: foi regularmente convocado(a)? A falta de convocatória gera nulidade (art. 56.º, n.º 1, al. a), do CSC); se a deliberação incidiu sobre assunto que não constava da convocatória, indicar a data do conhecimento (art. 59.º, n.º 2, al. c))]",
+    "motivo": "A legitimidade depende de não ter votado no sentido vencedor nem aprovado depois; o conhecimento só releva se o assunto não constava da convocatória",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0056&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "previsto no art. 248/1 CSC",
+    "para": "previsto no art. 248.º, n.º 3, do CSC (15 dias, por carta registada, salvo se a lei ou o contrato exigirem outras formalidades ou prazo mais longo)",
+    "motivo": "A antecedência mínima da convocatória da assembleia de uma Lda. está no n.º 3 do art. 248.º",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0251&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "A presente ação é proposta dentro do prazo de 30 dias previsto no art. 59.º/1 do CSC, contado de [data da deliberação / data do conhecimento pelo autor].",
+    "para": "A presente ação é proposta dentro do prazo de 30 dias previsto no art. 59.º, n.º 2, do CSC, contado de [data em que foi encerrada a assembleia geral / 3.º dia subsequente ao envio da ata da deliberação por voto escrito / data do conhecimento pelo autor, por a deliberação incidir sobre assunto que não constava da convocatória].",
+    "motivo": "Prazo e termo inicial estão no art. 59.º, n.º 2; não se conta da deliberação nem, em regra, do conhecimento",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0056&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "nos termos do art. 57.º/1 do CSC.",
+    "para": "nos termos do art. 286.º do Código Civil.",
+    "motivo": "O art. 57.º CSC trata da iniciativa do órgão de fiscalização; a nulidade invocável a todo o tempo resulta do art. 286.º CC",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0289&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "12. Nos termos do art. 60.º do CSC, a declaração de nulidade ou a anulação produz efeitos retroativos, devendo a sociedade restituir as prestações já efetuadas ao abrigo da deliberação impugnada.",
+    "para": "12. A declaração de nulidade ou a anulação tem efeito retroativo, devendo ser restituído tudo o que tiver sido prestado ao abrigo da deliberação impugnada (art. 289.º, n.º 1, do Código Civil), sem prejuízo dos direitos adquiridos de boa-fé por terceiros (art. 61.º, n.º 2, do CSC).",
+    "motivo": "O art. 60.º CSC não trata dos efeitos; a retroatividade resulta do art. 289.º CC, com a ressalva do art. 61.º, n.º 2, CSC",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0289&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "[Requer ainda, a título cautelar, a suspensão imediata da eficácia da deliberação impugnada, ao abrigo do art. 381.º do CPC, dado que a sua execução causaria dano de difícil reparação — VERIFICAR: necessidade de providência cautelar]",
+    "para": "[Nota: a suspensão da execução da deliberação não se pede nesta petição. Requer-se em procedimento cautelar próprio (art. 380.º do CPC), antes ou na pendência desta ação, por apenso (art. 364.º do CPC), no prazo de 10 dias a contar da data da assembleia (ou do conhecimento das deliberações, se o requerente não foi regularmente convocado), juntando cópia da ata e justificando a qualidade de sócio e que a execução pode causar dano apreciável.] [■ VERIFICAR: se o prazo de 10 dias ainda corre]",
+    "motivo": "A suspensão de deliberações sociais é procedimento cautelar autónomo (art. 380.º CPC), com prazo de 10 dias e requisito de dano apreciável",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1959&tabela=leis&pagina=18&ficha=361&so_miolo=&nversao="
+   },
+   {
+    "de": "- [ ] PRAZO: 30 dias contados da deliberação (presentes) ou do conhecimento (ausentes) — VERIFICAR primeiro",
+    "para": "- [ ] PRAZO: 30 dias contados nos termos do art. 59.º, n.º 2, CSC (encerramento da assembleia; 3.º dia após o envio da ata, no voto escrito; conhecimento, só se o assunto não constava da convocatória) — VERIFICAR primeiro",
+    "motivo": "Termo inicial do prazo errado",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0056&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- [ ] Providência cautelar de suspensão incluída se urgente",
+    "para": "- [ ] Suspensão, se urgente: procedimento cautelar próprio, requerido no prazo de 10 dias (art. 380.º CPC)",
+    "motivo": "A suspensão não se inclui na petição; tem prazo próprio",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1959&tabela=leis&pagina=18&ficha=361&so_miolo=&nversao="
+   },
+   {
+    "de": "- Sentido do voto do autor: [contra / ausente — data de conhecimento]",
+    "para": "- Sentido do voto do autor: [contra / abstenção / ausente — foi regularmente convocado?] e data do conhecimento (só releva se o assunto não constava da convocatória)",
+    "motivo": "Dados necessários para a legitimidade e o termo inicial do prazo (art. 59.º CSC)",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0056&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar a qualificação do vício concreto: a convocatória com antecedência insuficiente gera anulabilidade, mas as situações do art. 56.º, n.º 2, CSC equivalem a falta de convocatória (nulidade).",
+   "O prazo de 10 dias da suspensão é tratado pela jurisprudência como prazo de caducidade; confirmar a contagem no caso.",
+   "Confirmar o critério do valor da causa (art. 296.º CPC ou art. 303.º CPC, se o interesse for imaterial).",
+   "Competência: juízos de comércio para as ações de suspensão e de anulação de deliberações sociais (art. 128.º, n.º 1, al. d), da LOSJ); ajustar o endereçamento."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0056&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0057&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0251&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0289&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1959&tabela=leis&pagina=18&ficha=361&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1974A0128&nid=1974&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+  ]
+ },
+ {
+  "codigo": "COM-034",
+  "veredicto": "corrigida",
+  "descricao": "Gera uma petição inicial para ação de exclusão judicial de sócio de sociedade por quotas, ao abrigo dos arts. 241.º e 242.º do CSC, proposta pela sociedade depois de os sócios deliberarem a propositura da ação (com o sócio a excluir impedido de votar), com fundamento em comportamento desleal ou gravemente perturbador do funcionamento da sociedade que lhe tenha causado ou possa causar prejuízos relevantes, quando o contrato de sociedade não permite a exclusão por deliberação.",
+  "descricao_en": "Generates a statement of claim for an action seeking the judicial expulsion of a member of a private limited company under Articles 241 and 242 CSC, brought by the company after the members resolve to bring it (the member to be expelled being barred from voting), on the ground of disloyal conduct or conduct seriously disrupting the company's operation that has caused or may cause it significant harm, where the articles of association do not allow expulsion by resolution.",
+  "resumo": "A ficha punha a ação nas mãos de «qualquer sócio» e tratava-a como saída para a falta de maioria ou para o sócio maioritário. Pelo art. 242.º CSC, a ação é proposta pela sociedade, depois de os sócios deliberarem a sua propositura (n.º 2), com o sócio a excluir impedido de votar (art. 251.º, n.º 1, al. d)). Corrigi também o fundamento legal (comportamento desleal ou gravemente perturbador que cause ou possa causar prejuízos relevantes, em vez da inexigibilidade), a data de cálculo do valor da quota (data da proposição da ação, n.º 4) e o prazo de 30 dias da sociedade após o trânsito (n.º 3). Reescrevi a secção III da petição, o pedido de amortização dirigido ao tribunal, a checklist e a entrevista.",
+  "substituicoes": [
+   {
+    "de": "- Justa causa de exclusão: comportamento gravemente lesivo, incumprimento de entradas ou prestações acessórias, outros fundamentos estatutários",
+    "para": "- Fundamento da exclusão judicial: comportamento desleal ou gravemente perturbador do funcionamento da sociedade, que lhe tenha causado ou possa vir a causar prejuízos relevantes (art. 242.º, n.º 1, CSC); o incumprimento da obrigação de entrada tem regime próprio (art. 204.º CSC) e os fundamentos fixados no contrato permitem a exclusão por deliberação (art. 241.º CSC)\n- Legitimidade: a ação é proposta pela sociedade, mediante deliberação prévia dos sócios, que podem nomear representantes especiais (art. 242.º, n.º 2, CSC); o sócio a excluir está impedido de votar nessa deliberação (art. 251.º, n.º 1, al. d), CSC). Um sócio não pode propor a ação em nome próprio",
+    "motivo": "Fundamento legal mal enunciado e omissão da legitimidade da sociedade e da deliberação prévia",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0240&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Por que razão a exclusão por deliberação (art. 241 CSC) não é possível? O sócio a excluir é maioritário?\n- Valor da quota: o sócio excluído tem direito a receber o valor da quota (art. 242/3 CSC)? Quem avalia?",
+    "para": "- Por que razão a via é judicial? O contrato de sociedade prevê o comportamento em causa como fundamento de exclusão por deliberação (art. 241 CSC)? Se não prevê, a exclusão só pode ser judicial. Ser o sócio a excluir maioritário não é obstáculo: está impedido de votar na deliberação de propor a ação (art. 251.º, n.º 1, al. d), CSC)\n- Deliberação dos sócios que aprova a propositura da ação e, se for o caso, nomeia representantes especiais (art. 242.º, n.º 2, CSC): já existe? Há ata?\n- Valor da quota: salvo cláusula do contrato em sentido diverso, o sócio excluído tem direito ao valor da quota, calculado com referência à data da proposição da ação (art. 242.º, n.º 4, CSC). Quem avalia?",
+    "motivo": "A via judicial não resolve a falta de maioria: a própria ação exige deliberação, sem o voto do visado; data de cálculo do valor errada",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0240&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Art. 241 CSC — exclusão por deliberação dos sócios (fundamentos previstos no pacto social)\n- Art. 242/1 CSC — exclusão judicial por justa causa (qualquer sócio pode requerer)\n- Art. 242/2 CSC — o sócio excluído não pode participar na deliberação que delibere a proposta de exclusão\n- Art. 242/3 CSC — direito do sócio excluído a receber o valor da quota calculado à data da exclusão\n- Art. 204 CSC — consequências do não pagamento de entradas\n- Art. 209 CSC — incumprimento de prestações acessórias\n- Art. 64 CSC — deveres de lealdade (pode ser fundamento de justa causa)",
+    "para": "- Art. 241 CSC — exclusão por deliberação dos sócios, nos casos previstos na lei e nos casos respeitantes à pessoa ou ao comportamento do sócio fixados no contrato\n- Art. 242/1 CSC — exclusão judicial do sócio que, com o seu comportamento desleal ou gravemente perturbador do funcionamento da sociedade, lhe tenha causado ou possa vir a causar-lhe prejuízos relevantes\n- Art. 242/2 CSC — a propositura da ação deve ser deliberada pelos sócios, que podem nomear representantes especiais para esse efeito; a autora é a sociedade\n- Art. 251.º, n.º 1, al. d), CSC — o sócio a excluir está impedido de votar\n- Art. 242/3 CSC — transitada a sentença, a sociedade tem 30 dias para amortizar a quota, adquiri-la ou fazê-la adquirir, sob pena de a exclusão ficar sem efeito\n- Art. 242.º, n.º 4, CSC — salvo cláusula do contrato em sentido diverso, o sócio excluído tem direito ao valor da quota, calculado com referência à data da proposição da ação e pago nos termos prescritos para a amortização de quotas\n- Art. 204 CSC — sócio remisso: aviso e exclusão (regime próprio)\n- Art. 209 CSC — prestações acessórias: salvo disposição do contrato de sociedade, a falta de cumprimento não afeta a situação do sócio como tal (n.º 4)\n- Art. 64 CSC — deveres fundamentais dos gerentes (relevante se o sócio a excluir for também gerente) [■ VERIFICAR: fundamento do dever de lealdade do sócio enquanto tal]",
+    "motivo": "Conteúdo do art. 242.º mal descrito (legitimidade, impedimento de voto, data do valor da quota); impedimento de voto está no art. 251.º; o art. 209.º, n.º 4, afasta, por regra, efeitos do incumprimento de prestações acessórias",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0240&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Quem propõe: a sociedade? Os demais sócios? (legitimidade — art. 242/1 CSC)",
+    "para": "- Quem propõe: a sociedade, mediante deliberação prévia dos sócios (legitimidade — art. 242.º, n.º 2, CSC); os demais sócios não podem propor a ação em nome próprio",
+    "motivo": "Legitimidade ativa da sociedade",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0240&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Consequências patrimoniais: a quota excluída reverte para a sociedade; amortização ou aquisição pelos demais sócios?",
+    "para": "- Consequências patrimoniais: depois do trânsito em julgado, a sociedade tem 30 dias para amortizar a quota, adquiri-la ou fazê-la adquirir, sob pena de a exclusão ficar sem efeito (art. 242.º, n.º 3, CSC) — prever já como vai pagar a contrapartida",
+    "motivo": "A quota não reverte para a sociedade; há prazo de 30 dias com cominação",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0240&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "**[AUTORA — FIRMA DA SOCIEDADE / SÓCIOS AUTORES]**, [identificação completa], representada(os) pelo mandatário infra-assinado, vem(êm) intentar a presente",
+    "para": "**[AUTORA — FIRMA DA SOCIEDADE]**, [identificação completa], representada [pelos seus gerentes / pelo(s) representante(s) especial(ais) nomeado(s) na deliberação de [data] (art. 242.º, n.º 2, do CSC)], com o patrocínio do mandatário infra-assinado, vem intentar a presente",
+    "motivo": "Só a sociedade tem legitimidade ativa",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0240&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "3. O Réu tem vindo a adoptar comportamentos gravemente prejudiciais para a sociedade Autora, a saber:",
+    "para": "3. O Réu tem vindo a adotar comportamentos desleais [e gravemente perturbadores do funcionamento da sociedade], com prejuízo para a Autora, a saber:",
+    "motivo": "Alinhar a alegação com o critério do art. 242.º, n.º 1, CSC (e grafia do AO90)",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0240&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "**III — IMPOSSIBILIDADE DE EXCLUSÃO POR DELIBERAÇÃO**\n\n7. Nos termos do art. 242.º/2 do CSC, o Réu não pode participar na deliberação de exclusão. Contudo, [o Réu detém maioria do capital / não foi possível reunir a maioria qualificada / os demais sócios não atingem o quórum necessário — VERIFICAR].\n\n8. [Se houve tentativa de deliberação:] Em [data], a Autora convocou assembleia geral para deliberar sobre a exclusão do Réu, tendo a deliberação sido [frustrada por falta de quórum / rejeitada — VERIFICAR: ata em anexo].",
+    "para": "**III — A DELIBERAÇÃO DE PROPOSITURA DA AÇÃO**\n\n7. Em [data], a assembleia geral da Autora deliberou propor a presente ação de exclusão do Réu [e nomear [nome] como representante especial para esse efeito], nos termos do art. 242.º, n.º 2, do CSC (Doc. [X] — ata). O Réu não votou, por estar impedido (art. 251.º, n.º 1, al. d), do CSC).\n\n8. O contrato de sociedade não prevê o comportamento descrito como fundamento de exclusão por deliberação dos sócios (art. 241.º, n.º 1, do CSC), pelo que a exclusão só pode ser decretada pelo tribunal. [■ VERIFICAR: cláusulas de exclusão do contrato de sociedade]",
+    "motivo": "A ação pressupõe deliberação dos sócios a aprová-la; a deliberação frustrada ou rejeitada impede a ação em vez de a justificar",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0251&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "qualquer sócio pode requerer ao tribunal a exclusão de outro sócio com fundamento em justa causa.",
+    "para": "pode ser excluído por decisão judicial o sócio que, com o seu comportamento desleal ou gravemente perturbador do funcionamento da sociedade, lhe tenha causado ou possa vir a causar-lhe prejuízos relevantes.",
+    "motivo": "Enunciado errado do art. 242.º, n.º 1 (legitimidade e fundamento)",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0240&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "10. Constitui justa causa de exclusão o comportamento do sócio que, pela sua gravidade ou reiteração, torne inexigível, para os demais sócios, a manutenção da relação societária.",
+    "para": "10. A lei não exige que o prejuízo já se tenha verificado: basta que o comportamento desleal ou gravemente perturbador possa vir a causar prejuízos relevantes à sociedade (art. 242.º, n.º 1, do CSC).",
+    "motivo": "O critério legal não é a inexigibilidade da relação societária",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0240&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "integram justa causa de exclusão, pois constituem violação grave dos deveres de lealdade que recaem sobre o sócio (art. 64.º CSC, aplicável por analogia) e causam prejuízo manifesto à sociedade.",
+    "para": "constituem comportamento desleal [e gravemente perturbador do funcionamento da sociedade], que causou [e pode vir a causar] prejuízos relevantes à Autora, nos termos do art. 242.º, n.º 1, do CSC. [■ VERIFICAR: se o Réu for também gerente, invocar ainda a violação dos deveres do art. 64.º CSC]",
+    "motivo": "Subsunção ao critério legal do art. 242.º, n.º 1; o art. 64.º CSC dirige-se aos gerentes",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0240&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "12. Nos termos do art. 242.º/3 do CSC, o Réu terá direito a receber o valor da sua quota calculado à data da exclusão, por peritagem a realizar no processo. [■ VERIFICAR: regime estatutário sobre avaliação]",
+    "para": "12. Nos termos do art. 242.º, n.º 4, do CSC, salvo cláusula do contrato de sociedade em sentido diverso, o Réu terá direito ao valor da sua quota, calculado com referência à data da proposição da presente ação e pago nos termos prescritos para a amortização de quotas; transitada a sentença, a Autora dispõe de 30 dias para amortizar a quota, adquiri-la ou fazê-la adquirir, sob pena de a exclusão ficar sem efeito (art. 242.º, n.º 3, do CSC). [■ VERIFICAR: regime estatutário sobre avaliação]",
+    "motivo": "O valor reporta-se à data da proposição da ação (n.º 4), não à da exclusão",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0240&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- **Perícia:** Peritagem para avaliação do valor da quota do Réu à data da exclusão",
+    "para": "- **Perícia:** [Facultativa] Avaliação da quota do Réu com referência à data da proposição da ação (art. 242.º, n.º 4, do CSC) [■ VERIFICAR: se convém pedi-la já ou deixá-la para a liquidação da participação — arts. 1068.º e 1069.º do CPC]",
+    "motivo": "Data de referência do valor errada",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A1068&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "b) Seja determinada a amortização / aquisição da quota do Réu, com pagamento do respetivo valor apurado por peritagem;",
+    "para": "b) [Facultativo] Seja fixado o valor da quota do Réu, com referência à data da proposição da presente ação (art. 242.º, n.º 4, do CSC); [■ VERIFICAR: a amortização ou aquisição da quota é ato da sociedade, a praticar nos 30 dias seguintes ao trânsito em julgado (art. 242.º, n.º 3), e não se pede ao tribunal]",
+    "motivo": "A amortização ou aquisição cabe à sociedade depois do trânsito, não ao tribunal",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0240&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- [ ] Impossibilidade de exclusão por deliberação explicada\n- [ ] Pedido de peritagem para avaliação da quota incluído\n- [ ] Legitimidade ativa verificada (art. 242/1 CSC)",
+    "para": "- [ ] Deliberação dos sócios que aprova a propositura da ação junta (art. 242.º, n.º 2 CSC), com o sócio a excluir impedido de votar (art. 251.º, n.º 1, al. d) CSC)\n- [ ] Falta de cláusula do contrato que permita a exclusão por deliberação explicada (art. 241 CSC)\n- [ ] Avaliação da quota: pedir já ou deixar para depois — decidido\n- [ ] Legitimidade ativa verificada: a autora é a sociedade (art. 242.º, n.º 2 CSC)",
+    "motivo": "Checklist alinhada com a legitimidade da sociedade e a deliberação prévia",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0240&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "**A SOCIEDADE / OS AUTORES:**",
+    "para": "**A SOCIEDADE (AUTORA):**",
+    "motivo": "Só a sociedade tem legitimidade ativa",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0240&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "**RAZÃO DA VIA JUDICIAL:**\n- [Por que razão a exclusão por deliberação não é possível]",
+    "para": "**DELIBERAÇÃO E VIA JUDICIAL:**\n- [Data da deliberação dos sócios que aprova a propositura da ação, votação e representantes especiais nomeados]\n- [O contrato de sociedade prevê causas de exclusão por deliberação? Quais?]",
+    "motivo": "Recolha dos dados da deliberação exigida pelo art. 242.º, n.º 2",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0240&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Os arts. 241.º e 242.º CSC não fixam prazo para deliberar ou propor a ação; confirmar a jurisprudência sobre a aplicação analógica dos 90 dias do art. 186.º, n.º 2, CSC e agir sem demora.",
+   "O pedido subsidiário de dissolução (Etapa 3) não se ajusta a uma ação proposta pela própria sociedade contra o sócio; rever antes de o incluir.",
+   "Se o sócio a excluir for o único gerente, nomear representantes especiais na deliberação (art. 242.º, n.º 2, CSC).",
+   "Confirmar o critério do valor da causa e se o valor da quota deve ser fixado nesta ação ou na liquidação da participação (arts. 1068.º e 1069.º CPC)."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0240&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0251&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0186&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A1068&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+  ]
+ },
+ {
+  "codigo": "COM-037",
+  "veredicto": "corrigida",
+  "resumo": "A fundamentação atribuía ao art. 229.º CSC um direito legal supletivo de preferência dos sócios na cessão de quotas, que não existe (o regime legal é o do consentimento da sociedade, arts. 228.º e 229.º), dava o art. 232.º como penhor de quotas (trata da amortização) e invocava a Lei n.º 99/2017 como lei dos segredos de negócio (respeita a tecidos e células de origem humana). A cláusula B.7 declarava a transmissão ineficaz perante a sociedade, o que um acordo parassocial não consegue (art. 17.º, n.º 1, CSC). Reescrevi a fundamentação (com o art. 328.º para as SA e o art. 17.º para os acordos parassociais) e a cláusula B.7, distinguindo acordo parassocial e contrato de sociedade.",
+  "substituicoes": [
+   {
+    "de": "- Arts. 228-235 CSC — regime de cessão de quotas (Lda.): consentimento, preferência legal dos sócios\n- Art. 229 CSC — direito de preferência dos sócios na cessão de quotas a terceiros (direito legal supletivo)\n- Art. 232 CSC — penhor de quotas\n- Para SA: arts. 328-332 CSC — transmissão de ações nominativas; cláusulas de consentimento e preferência\n- Art. 405 CC — liberdade contratual (fundamento para cláusulas parassociais)\n- Lei 99/2017 — segredos de negócio (se o acordo parassocial for confidencial)",
+    "para": "- Arts. 228.º a 231.º CSC — transmissão e cessão de quotas (Lda.): forma escrita (art. 228.º, n.º 1); a cessão não produz efeitos para com a sociedade enquanto não for consentida por esta, salvo entre cônjuges, entre ascendentes e descendentes ou entre sócios (art. 228.º, n.º 2); cláusulas do contrato de sociedade sobre a cessão e seus limites (art. 229.º)\n- O CSC não confere aos sócios de uma Lda. um direito legal de preferência na cessão de quotas a terceiros: a preferência só existe se for estipulada no contrato de sociedade ou em acordo parassocial [■ VERIFICAR: articulação de uma cláusula estatutária de preferência com os limites do art. 229.º, n.º 5, CSC]\n- Art. 23.º CSC — usufruto e penhor de participações\n- Para SA: arts. 328.º e 329.º CSC — o contrato de sociedade pode subordinar a transmissão de ações nominativas ao consentimento da sociedade e estabelecer um direito de preferência dos outros acionistas (art. 328.º, n.º 2); as limitações têm de constar dos títulos ou das contas de registo, sob pena de serem inoponíveis a adquirentes de boa-fé (art. 328.º, n.º 4)\n- Art. 17.º CSC — acordos parassociais: produzem efeitos entre os intervenientes, mas com base neles não podem ser impugnados atos da sociedade ou dos sócios para com a sociedade (n.º 1); são nulos os acordos de voto previstos no n.º 3\n- Art. 405 CC — liberdade contratual (fundamento para cláusulas parassociais)\n- Confidencialidade do acordo parassocial: resulta de cláusula contratual; o regime dos segredos comerciais (arts. 313.º e seguintes do Código da Propriedade Industrial, DL n.º 110/2018) só protege a informação que reúna os seus requisitos",
+    "motivo": "Não há preferência legal dos sócios na cessão de quotas; o art. 232.º trata da amortização; a Lei n.º 99/2017 não é a lei dos segredos de negócio; faltava o art. 17.º CSC",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0229&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "B.7 **Incumprimento:** A transmissão efetuada em violação do presente pacto de preferência é ineficaz perante a sociedade e os demais sócios. [■ VERIFICAR: para Lda., a ineficácia resulta dos arts. 228-229 CSC; para SA, verificar eficácia perante terceiro de boa-fé]",
+    "para": "B.7 **Incumprimento:** [Em acordo parassocial:] O Transmitente que transmita participações em violação do presente pacto de preferência indemniza os demais Sócios pelos danos causados [e paga-lhes, a título de cláusula penal, €[valor]]. O acordo parassocial só produz efeitos entre as Partes e com base nele não podem ser impugnados atos da sociedade (art. 17.º, n.º 1, CSC). [■ VERIFICAR: eficácia perante o terceiro adquirente — a eficácia real do pacto de preferência está limitada aos casos do art. 421.º CC] [No contrato de sociedade de uma Lda.: articular a preferência com a cláusula de consentimento da sociedade, que é o que condiciona a eficácia da cessão para com esta (arts. 228.º, n.º 2, e 229.º CSC). No contrato de sociedade de uma SA: a preferência sobre ações nominativas (art. 328.º, n.º 2, al. b), CSC) só é oponível a adquirentes de boa-fé se constar dos títulos ou das contas de registo (art. 328.º, n.º 4, CSC).]",
+    "motivo": "Um acordo parassocial não torna a transmissão ineficaz perante a sociedade (art. 17.º, n.º 1, CSC); a eficácia perante a sociedade depende da cláusula estatutária e do consentimento",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0017&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Validade e execução do drag along: em contrato de sociedade de Lda., confrontar com os limites do art. 229.º, n.º 5, CSC; em acordo parassocial, confirmar a execução específica.",
+   "D.3 (silêncio como aceitação do arrasto): o silêncio vale como declaração quando a convenção lho atribua (art. 218.º CC); confirmar a razoabilidade do prazo e a forma da notificação.",
+   "D.4 (preço mínimo pelo valor contabilístico): confirmar a adequação face à boa-fé e à proteção do minoritário.",
+   "Lockup no contrato de sociedade de uma Lda.: a proibição de cessão dá direito à exoneração decorridos dez anos (art. 229.º, n.º 1, CSC)."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0229&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0017&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=524&tabela=leis&pagina=12&ficha=330&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0313&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://trc.pt/destaques-do-diario-da-republica-de-agosto-de-2017/"
+  ]
+ },
+ {
+  "codigo": "COM-045",
+  "veredicto": "corrigida",
+  "resumo": "A ficha invertia o art. 24.º, n.º 1, LGT: na al. a) (facto constitutivo no período do cargo ou prazo de pagamento terminado depois dele) não há presunção de culpa e a prova cabe à AT; na al. b) (prazo de pagamento terminado no exercício do cargo) presume-se a culpa e o gestor tem de a ilidir. Inventava ainda uma «inversão do ónus» para dívidas anteriores ao cargo, quando estas (facto e prazo anteriores) não geram responsabilidade e o fundamento é a ilegitimidade (art. 204.º, n.º 1, al. b), CPPT). Corrigi a fundamentação, a estratégia e os fundamentos (a) a (c) da minuta (acrescentando a falta de gerência de facto), o prazo de oposição a contar da citação e o endereçamento (art. 207.º CPPT).",
+  "substituicoes": [
+   {
+    "de": "- Art. 24.º, n.º 1, LGT: responsabilidade por dívidas cujo prazo de pagamento terminou durante o exercício do cargo — presunção ilidível de culpa; inversão do ónus se dívida anterior ao cargo\n- Art. 24.º, n.º 1, al. a): dívidas vencidas durante o exercício — responsável se provar ausência de culpa\n- Art. 24.º, n.º 1, al. b): dívidas vencidas antes do exercício — AT tem de provar culpa",
+    "para": "- Art. 24.º, n.º 1, LGT: os administradores, diretores e gerentes, e quem exerça, ainda que só de facto, funções de administração ou gestão, são subsidiariamente responsáveis em relação à sociedade e solidariamente entre si\n- Art. 24.º, n.º 1, al. a): dívidas cujo facto constitutivo se verificou no período do exercício do cargo, ou cujo prazo legal de pagamento ou entrega terminou depois deste — o gestor só responde se tiver sido por culpa sua que o património da sociedade se tornou insuficiente; não há presunção de culpa, pelo que a prova cabe à AT (art. 74.º, n.º 1, LGT)\n- Art. 24.º, n.º 1, al. b): dívidas cujo prazo legal de pagamento ou entrega terminou no período do exercício do cargo — presunção de culpa: o gestor responde, salvo se provar que não lhe foi imputável a falta de pagamento\n- Dívidas cujo facto constitutivo e cujo prazo de pagamento são ambos anteriores ao início de funções (ou ambos posteriores à cessação) não cabem no art. 24.º, n.º 1: o fundamento de oposição é a ilegitimidade (art. 204.º, n.º 1, al. b), CPPT)\n- Art. 23.º, n.os 2 e 4, LGT: a reversão depende da fundada insuficiência dos bens penhoráveis do devedor principal e é precedida de audição do responsável subsidiário",
+    "motivo": "Regime das als. a) e b) invertido e «inversão do ónus» para dívidas anteriores ao cargo sem base legal",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=253A0024&nid=253&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Possibilidade de ilisão da presunção de culpa (art. 24.º, n.º 1, al. a) LGT)",
+    "para": "- Possibilidade de ilisão da presunção de culpa (art. 24.º, n.º 1, al. b) LGT); nos casos da al. a), verificar se a AT alegou e provou a culpa do gestor",
+    "motivo": "A presunção de culpa é a da al. b)",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=253A0024&nid=253&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "Ao [Tribunal Administrativo e Fiscal de / Serviço de Finanças de] [localidade]",
+    "para": "Exmo. Senhor Juiz do Tribunal Administrativo e Fiscal de [localidade]\n(petição apresentada no Serviço de Finanças de [localidade], órgão da execução fiscal onde pende a execução — art. 207.º, n.º 1, CPPT)",
+    "motivo": "A petição é dirigida ao juiz do tribunal tributário e apresentada no órgão da execução fiscal",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=256A0204&nid=256&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "1. O Oponente foi notificado da reversão da execução fiscal em [data], dentro do prazo de 30 dias para deduzir oposição.",
+    "para": "1. O Oponente foi citado, por reversão, para a execução fiscal em [data], pelo que a presente oposição é deduzida dentro do prazo de 30 dias a contar da citação pessoal (art. 203.º, n.º 1, al. a), CPPT).",
+    "motivo": "O prazo de oposição conta-se da citação pessoal (art. 203.º, n.º 1, al. a), CPPT)",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=256A0204&nid=256&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "(a) INEXISTÊNCIA DE CULPA — A dívida exequenda respeita ao período de [X] a [Y], durante o qual o Oponente exerceu funções de gerente. Todavia, a insuficiência do património da sociedade não resultou de ato culposo do Oponente, porquanto [descrever: mercado, crise setorial, decisões de sócios, fatores externos]. Assim, ilide-se a presunção do art. 24.º, n.º 1, al. a), LGT. [■ VERIFICAR: juntar documentação de suporte]\n\n(b) DÍVIDA ANTERIOR AO CARGO — A dívida exequenda reporta-se ao período de [X], anterior à designação do Oponente como gerente em [data], cabendo à AT o ónus de provar a culpa (art. 24.º, n.º 1, al. b), LGT). A AT não fez essa prova.\n\n(c) ILEGITIMIDADE — O Oponente cessou funções em [data], antes do vencimento da dívida. [Juntar: ata de destituição / registo comercial.]",
+    "para": "(a) INEXISTÊNCIA DE CULPA — [Variante 1 — dívida cujo prazo legal de pagamento ou entrega terminou no período do cargo, art. 24.º, n.º 1, al. b), LGT:] O prazo legal de pagamento da dívida exequenda terminou em [data], quando o Oponente exercia funções de gerente. Todavia, a falta de pagamento não lhe é imputável, porquanto [descrever: mercado, crise setorial, decisões de sócios, fatores externos]. Assim, ilide-se a presunção de culpa do art. 24.º, n.º 1, al. b), LGT. [Variante 2 — dívida cujo facto constitutivo ocorreu no período do cargo, mas cujo prazo de pagamento terminou depois dele, art. 24.º, n.º 1, al. a), LGT:] A responsabilidade depende de ter sido por culpa do Oponente que o património da sociedade se tornou insuficiente, culpa que cabia à AT alegar e provar (art. 74.º, n.º 1, LGT) e que não provou. Em ambos os casos, o Oponente não é responsável pelo pagamento da dívida — ilegitimidade (art. 204.º, n.º 1, al. b), CPPT). [■ VERIFICAR: juntar documentação de suporte]\n\n(b) DÍVIDA FORA DO PERÍODO DO CARGO — O facto constitutivo da dívida exequenda ocorreu em [data] e o respetivo prazo legal de pagamento terminou em [data], ambos [antes da designação do Oponente como gerente, em [data] / depois da cessação das suas funções, em [data]]. A dívida não cabe em nenhuma das alíneas do art. 24.º, n.º 1, LGT, pelo que o Oponente não é responsável pelo seu pagamento — ilegitimidade (art. 204.º, n.º 1, al. b), CPPT). [Juntar: ata de designação / destituição / renúncia; certidão do registo comercial.]\n\n(c) ILEGITIMIDADE — FALTA DE GERÊNCIA DE FACTO — Embora inscrito no registo como gerente, o Oponente não exerceu de facto funções de gestão no período relevante [descrever]. A responsabilidade do art. 24.º, n.º 1, LGT pressupõe o exercício efetivo do cargo (art. 204.º, n.º 1, al. b), CPPT). [■ VERIFICAR: jurisprudência do STA sobre a prova da gerência de facto]",
+    "motivo": "Ónus da prova invertido entre as als. a) e b); a dívida com facto e prazo anteriores ao cargo não gera responsabilidade (ilegitimidade); a cessação antes do vencimento não basta se o facto constitutivo ocorreu no cargo",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=253A0024&nid=253&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Fundamento de defesa pretendido: [ilisão de culpa / dívida anterior / ilegitimidade / prescrição]",
+    "para": "- Fundamento de defesa pretendido: [falta de culpa / dívida fora do período do cargo / falta de gerência de facto / prescrição]\n- Datas do facto constitutivo e do termo do prazo legal de pagamento de cada dívida: [dd/mm/aaaa]",
+    "motivo": "Os fundamentos e as datas que determinam a alínea aplicável do art. 24.º, n.º 1, LGT",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=253A0024&nid=253&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Prescrição: a interrupção quanto à sociedade não aproveita contra o responsável subsidiário citado depois do 5.º ano posterior ao da liquidação (art. 48.º, n.º 3, LGT); verificar as datas.",
+   "Coimas (art. 8.º RGIT): confirmar a jurisprudência do STA e do Tribunal Constitucional sobre a sua exigência por reversão em execução fiscal.",
+   "Dívidas à Segurança Social: confirmar o regime de reversão aplicável e o tribunal competente.",
+   "Verificar também os vícios do despacho de reversão (fundamentação, prova da insuficiência do património do devedor principal e audição prévia — art. 23.º LGT)."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=253A0024&nid=253&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=253A0048&nid=253&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/lgt/Pages/lgt74.aspx",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=256A0204&nid=256&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+  ]
+ },
+ {
+  "codigo": "COM-046",
+  "veredicto": "corrigida",
+  "descricao": "Prepara a deliberação social e o acordo de prestações acessórias (art. 209.º CSC) ou de prestações suplementares (arts. 210.º a 213.º CSC) de sociedade por quotas, distinguindo os dois regimes — ambos dependem de cláusula do contrato de sociedade —, definindo as condições de exigência, remuneração e restituição, e articulando com o regime dos suprimentos (art. 243.º CSC) e com as implicações fiscais (tratamento como capital próprio ou dívida).",
+  "descricao_en": "Prepares the company resolution and the agreement on ancillary contributions (prestações acessórias, Article 209 CSC) or supplementary contributions (prestações suplementares, Articles 210 to 213 CSC) in a private limited company, distinguishing the two regimes — both require a clause in the articles of association —, setting the conditions for calling, remunerating and repaying them, and linking them with the shareholder loan regime (suprimentos, Article 243 CSC) and the tax implications (treatment as equity or debt).",
+  "resumo": "A ficha dava como facultativa a previsão das prestações suplementares no contrato de sociedade, quando o art. 210.º CSC só as admite se o contrato o permitir e fixar o montante global; situava a proibição de juros no art. 213.º (está no art. 210.º, n.º 5), atribuía às prestações acessórias os arts. 209.º a 212.º (só o art. 209.º) e às suplementares uma subordinação na insolvência ao abrigo da al. b) do art. 48.º CIRE (trata de juros; os suprimentos estão na al. g); as suplementares não podem ser restituídas depois da declaração, art. 213.º, n.º 3). Corrigi ainda o limite da restituição (situação líquida não inferior à soma do capital e da reserva legal, com a quota liberada), o prazo mínimo de 30 dias da exigência (art. 211.º) e as citações do acordo de prestações acessórias.",
+  "substituicoes": [
+   {
+    "de": "- Existência de cláusula no pacto social que permita prestações acessórias (exigida pelo art. 209.º CSC)",
+    "para": "- Existência de cláusula no pacto social que imponha prestações acessórias e fixe os seus elementos essenciais e se são onerosas ou gratuitas (exigida pelo art. 209.º CSC) ou que permita prestações suplementares e fixe o seu montante global (art. 210.º, n.os 1, 3 e 4, CSC)",
+    "motivo": "As prestações suplementares também exigem cláusula do contrato com o montante global",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0210&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "| Base legal | Arts. 210.º-213.º CSC | Arts. 209.º-212.º CSC | Art. 243.º CSC |\n| Previsão no pacto | Facultativa | OBRIGATÓRIA | Não exigida |\n| Remuneração | PROIBIDA (art. 213.º, n.º 1 CSC) | Possível | Possível (juros) |",
+    "para": "| Base legal | Arts. 210.º-213.º CSC | Art. 209.º CSC | Art. 243.º CSC |\n| Previsão no pacto | OBRIGATÓRIA, com o montante global (art. 210.º, n.os 1, 3 e 4 CSC) | OBRIGATÓRIA (art. 209.º, n.º 1 CSC) | Não exigida |\n| Remuneração | Não vencem juros (art. 210.º, n.º 5 CSC) | Onerosas ou gratuitas, conforme o pacto (art. 209.º, n.º 1 CSC) | Possível (juros) |",
+    "motivo": "Previsão no pacto obrigatória para as suplementares; proibição de juros no art. 210.º, n.º 5; prestações acessórias só no art. 209.º",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0210&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "| Subordinação em insolvência | Sim (art. 48.º, n.º 1, al. b) CIRE) | Conforme | Sim (art. 48.º CIRE) |",
+    "para": "| Na insolvência | Não podem ser restituídas depois de declarada a insolvência (art. 213.º, n.º 3 CSC, que ainda fala em «falência») | Conforme o regime convencionado [■ VERIFICAR] | Créditos subordinados (art. 48.º, al. g) CIRE) |",
+    "motivo": "A al. b) do art. 48.º CIRE trata de juros; os suprimentos estão na al. g); as suplementares não são restituíveis depois da declaração",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0048&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "nos termos dos arts. 210.º e 211.º do CSC, chamar prestações suplementares no montante total de €[valor], a efetuar pelos sócios na proporção das respetivas quotas, no prazo de [X] dias a contar da presente deliberação.\n\nAs prestações suplementares chamadas não são remuneradas (art. 213.º, n.º 1 CSC) e serão reembolsadas mediante deliberação posterior da assembleia geral, desde que os capitais próprios não fiquem reduzidos abaixo do capital social.",
+    "para": "nos termos dos arts. 210.º e 211.º do CSC e da cláusula [X].ª do contrato de sociedade (que fixa o montante global das prestações suplementares em €[valor]), exigir prestações suplementares no montante de €[valor], dentro daquele montante global, a efetuar pelos sócios [obrigados nos termos da cláusula / na proporção das respetivas quotas, se o contrato nada disser — art. 210.º, n.º 4], no prazo de [X] dias, não inferior a 30 dias, a contar da comunicação aos sócios (art. 211.º, n.º 1). [■ VERIFICAR: todos os sócios foram previamente interpelados para a integral liberação das suas quotas — art. 211.º, n.º 2]\n\nAs prestações suplementares exigidas não vencem juros (art. 210.º, n.º 5, do CSC) e só poderão ser restituídas por deliberação dos sócios, desde que a situação líquida não fique inferior à soma do capital e da reserva legal e o sócio já tenha liberado a sua quota (art. 213.º, n.os 1 e 2, do CSC).",
+    "motivo": "Faltavam o montante global do contrato, o prazo mínimo de 30 dias e a interpelação prévia; o limite da restituição é a soma do capital e da reserva legal",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0210&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "sendo condição que, após o reembolso, os capitais próprios não fiquem inferiores à soma do capital social e das reservas legais (art. 213.º, n.º 2 CSC, aplicável por analogia).",
+    "para": "sendo condição, aqui convencionada, que, após o reembolso, a situação líquida da Sociedade não fique inferior à soma do capital social e da reserva legal (critério retirado do art. 213.º, n.º 1, do CSC, que rege as prestações suplementares). [■ VERIFICAR: as prestações acessórias regem-se pelo contrato de sociedade (art. 209.º, n.º 1, CSC); a aplicação analógica do art. 213.º às prestações acessórias é discutida]",
+    "motivo": "O art. 213.º rege as suplementares (o limite está no n.º 1); nas acessórias, o regime é o convencionado",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0210&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "salvo convenção em contrário (art. 212.º, n.º 1 CSC).",
+    "para": "salvo convenção em contrário [■ VERIFICAR: o art. 212.º CSC rege as prestações suplementares, não as acessórias; confirmar o regime na cláusula do contrato de sociedade].",
+    "motivo": "O art. 212.º CSC não trata das prestações acessórias",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0210&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Alteração do pacto social (se prestações acessórias sem cláusula prévia)",
+    "para": "- Alteração do pacto social (se não houver cláusula prévia que imponha as prestações acessórias ou que permita as prestações suplementares e fixe o seu montante global — arts. 209.º e 210.º CSC)",
+    "motivo": "As prestações suplementares também exigem cláusula do contrato",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0210&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- [ ] Pacto social contém cláusula de prestações acessórias (se aplicável — art. 209.º CSC)",
+    "para": "- [ ] Pacto social contém cláusula de prestações acessórias (se aplicável — art. 209.º CSC) ou cláusula que permita prestações suplementares e fixe o montante global (art. 210.º CSC)\n- [ ] Prazo de realização das prestações suplementares não inferior a 30 dias a contar da comunicação aos sócios (art. 211.º, n.º 1 CSC)",
+    "motivo": "Requisitos legais das prestações suplementares em falta na checklist",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0210&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- [ ] Subordinação em insolvência comunicada ao sócio (art. 48.º CIRE)",
+    "para": "- [ ] Efeitos na insolvência comunicados ao sócio (suprimentos subordinados — art. 48.º CIRE; prestações suplementares não restituíveis depois da declaração — art. 213.º, n.º 3 CSC)",
+    "motivo": "As prestações suplementares não são créditos subordinados: não podem ser restituídas",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0048&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Cláusula de prestações acessórias no pacto: [sim / não]",
+    "para": "- Cláusula no pacto social: [prestações acessórias (elementos essenciais, onerosas ou gratuitas) / prestações suplementares (montante global) / nenhuma]",
+    "motivo": "Ambos os regimes dependem de cláusula do contrato",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0210&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar o tratamento contabilístico (NCRF 27, conta 53) e fiscal das prestações no caso concreto; a ficha refere ainda «TOC», hoje contabilista certificado.",
+   "Prestações acessórias pecuniárias: confirmar o regime de restituição aplicável na falta de cláusula e a posição atual sobre a aplicação analógica do art. 213.º CSC.",
+   "Confirmar a maioria necessária para a deliberação de exigência das prestações suplementares e se há cláusula do contrato que a agrave."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0210&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0048&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+  ]
+ },
+ {
+  "codigo": "COM-056",
+  "veredicto": "corrigida",
+  "descricao": "Prepara a petição inicial de ação de exclusão judicial de sócio de sociedade por quotas, proposta pela sociedade depois de deliberação dos sócios, ao abrigo dos arts. 241.º e 242.º do CSC, fundamentando o comportamento desleal ou gravemente perturbador que justifica a exclusão e tratando o valor da quota a pagar ao sócio excluído, com análise dos requisitos processuais e da questão do prazo para agir.",
+  "descricao_en": "Prepares the statement of claim in an action for the judicial expulsion of a member of a private limited company, brought by the company after a resolution of the members, under Articles 241 and 242 CSC, setting out the disloyal or seriously disruptive conduct justifying the expulsion and dealing with the value of the quota to be paid to the expelled member, with an analysis of the procedural requirements and of the question of the time limit for acting.",
+  "resumo": "A ficha dava legitimidade a «qualquer sócio» e montava a petição com sócios como autores, quando o art. 242.º CSC exige que a propositura seja deliberada pelos sócios e a ação é da sociedade, com o sócio a excluir impedido de votar (art. 251.º, n.º 1, al. d)); por isso, o pedido de condenação da sociedade, que não era parte, não tinha sentido. Corrigi o fundamento legal (comportamento desleal ou gravemente perturbador, em vez da inexigibilidade), os números e o conteúdo do art. 242.º (valor da quota à data da proposição da ação, n.º 4; 30 dias para amortizar ou adquirir, n.º 3), a competência (art. 128.º LOSJ, não «LOJ») e o prazo, que a lei não fixa (discute-se a analogia com os 90 dias do art. 186.º, n.º 2, CSC).",
+  "substituicoes": [
+   {
+    "de": "- Prazo: a ação deve ser intentada sem demora após conhecimento dos factos (analogia com caducidade; jurisprudência: demora pode ser interpretada como tolerância)",
+    "para": "- Deliberação dos sócios que aprove a propositura da ação (art. 242.º, n.º 2 CSC), com o sócio a excluir impedido de votar (art. 251.º, n.º 1, al. d) CSC), e nomeação de representantes especiais (útil se o sócio a excluir for gerente)\n- Prazo: os arts. 241.º e 242.º CSC não fixam prazo para deliberar a propositura nem para propor a ação; discute-se a aplicação analógica do prazo de 90 dias do art. 186.º, n.º 2, CSC (sociedades em nome coletivo, a contar do conhecimento do facto por algum dos gerentes) [■ VERIFICAR: jurisprudência atual]. Por prudência, deliberar e propor sem demora após o conhecimento dos factos (a demora pode ser invocada como tolerância)",
+    "motivo": "Faltava a deliberação prévia; o prazo não resulta da lei para as Lda. e a analogia possível é a do art. 186.º, n.º 2",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0186&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Art. 242.º, n.º 1 CSC: exclusão judicial — qualquer sócio pode exigi-la quando outro sócio, por atos ou omissões graves, tornou inexigível a manutenção do vínculo social",
+    "para": "- Art. 242.º, n.º 1 CSC: exclusão judicial do sócio que, com o seu comportamento desleal ou gravemente perturbador do funcionamento da sociedade, lhe tenha causado ou possa vir a causar-lhe prejuízos relevantes",
+    "motivo": "Enunciado errado do art. 242.º, n.º 1 (legitimidade e critério)",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0240&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Art. 242.º, n.º 2 CSC: o sócio excluído tem direito ao valor da quota (art. 105.º CSC — valor calculado à data da exclusão, salvo convenção)\n- Art. 241.º CSC: exclusão extrajudicial só se prevista nos estatutos\n- Competência: Juízo Comercial (art. 128.º LOJ) ou tribunal cível se sem juízo comercial\n- Legitimidade ativa: qualquer sócio (individualmente ou a sociedade representada por sócios maioritários)",
+    "para": "- Art. 242.º, n.º 2 CSC: a propositura da ação deve ser deliberada pelos sócios, que podem nomear representantes especiais para esse efeito\n- Art. 242.º, n.º 3 CSC: transitada a sentença, a sociedade tem 30 dias para amortizar a quota, adquiri-la ou fazê-la adquirir, sob pena de a exclusão ficar sem efeito\n- Art. 242.º, n.º 4 CSC: salvo cláusula do contrato em sentido diverso, o sócio excluído tem direito ao valor da quota, calculado com referência à data da proposição da ação e pago nos termos prescritos para a amortização de quotas (arts. 235.º e 105.º, n.º 2, CSC)\n- Art. 241.º CSC: exclusão por deliberação dos sócios nos casos previstos na lei e nos casos respeitantes à pessoa ou ao comportamento do sócio fixados no contrato\n- Competência: juízo de comércio (art. 128.º, n.º 1, al. c), da Lei n.º 62/2013, de 26 de agosto — LOSJ: ações relativas ao exercício de direitos sociais) [■ VERIFICAR: enquadramento da ação de exclusão nesta alínea]; onde não houver juízo de comércio, o juízo cível competente\n- Legitimidade ativa: a sociedade, mediante deliberação prévia dos sócios (art. 242.º, n.º 2 CSC); um sócio não pode propor a ação em nome próprio. Legitimidade passiva: o sócio a excluir",
+    "motivo": "O n.º 2 do art. 242.º trata da deliberação de propositura; o valor reporta-se à data da proposição da ação (n.º 4); a lei é a LOSJ; a legitimidade ativa é da sociedade",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0240&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "[Nome(s) do(s) Autor(es)/Requerente(s)], NIF(s) [número(s)], sócio(s) de [firma], Lda., NIPC [número], com sede em [morada], vem intentar AÇÃO DE EXCLUSÃO DE SÓCIO contra [nome do sócio a excluir], NIF [número], residente em [morada], também sócio da mesma sociedade, com os seguintes fundamentos:",
+    "para": "[Firma], Lda., NIPC [número], com sede em [morada], representada [pelos seus gerentes / pelo(s) representante(s) especial(ais) nomeado(s) na deliberação de [data] (art. 242.º, n.º 2, do CSC)], vem intentar AÇÃO DE EXCLUSÃO DE SÓCIO contra [nome do sócio a excluir], NIF [número], residente em [morada], sócio da Autora, com os seguintes fundamentos:",
+    "motivo": "A autora é a sociedade, não os sócios",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0240&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "1. O Autor é titular de quota de €[X] ([Y]% do capital) em [firma], Lda., NIPC [número], com sede em [morada], matriculada na Conservatória do Registo Comercial de [Conservatória] sob o n.º [matrícula].\n2. O Réu é titular de quota de €[X] ([Z]% do capital) na mesma sociedade.",
+    "para": "1. A Autora é uma sociedade por quotas com o capital social de €[X], com sede em [morada], matriculada na Conservatória do Registo Comercial de [Conservatória] sob o n.º [matrícula].\n2. O Réu é titular de quota de €[X] ([Z]% do capital) na Autora. Por deliberação de [data], a assembleia geral da Autora deliberou propor a presente ação (art. 242.º, n.º 2, do CSC), não tendo o Réu votado, por estar impedido (art. 251.º, n.º 1, al. d), do CSC) (Doc. [X] — ata).",
+    "motivo": "A autora é a sociedade e a deliberação de propositura é pressuposto da ação",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0251&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "5. O Autor alertou o Réu",
+    "para": "5. A Autora alertou o Réu",
+    "motivo": "A autora é a sociedade",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0240&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "6. Os factos descritos constituem violação grave e reiterada dos deveres de lealdade (art. 64.º CSC) e tornam inexigível ao Autor a manutenção da relação social com o Réu, nos termos e para os efeitos do art. 242.º, n.º 1, do CSC.",
+    "para": "6. Os factos descritos constituem comportamento desleal [e gravemente perturbador do funcionamento da sociedade], que causou [e pode vir a causar] prejuízos relevantes à Autora, nos termos e para os efeitos do art. 242.º, n.º 1, do CSC. [■ VERIFICAR: se o Réu for também gerente, invocar ainda a violação dos deveres do art. 64.º CSC]",
+    "motivo": "O critério legal não é a inexigibilidade; o art. 64.º CSC dirige-se aos gerentes",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0240&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "8. Nos termos do art. 242.º, n.º 2, do CSC, o valor da quota do Réu deve ser calculado à data da exclusão, ao abrigo do art. 105.º CSC.\n9. Requer-se que o Tribunal nomeie perito para avaliação da sociedade e determinação do valor da quota, caso as partes não cheguem a acordo.",
+    "para": "8. Nos termos do art. 242.º, n.º 4, do CSC, salvo cláusula do contrato de sociedade em sentido diverso, o Réu tem direito ao valor da sua quota, calculado com referência à data da proposição da presente ação e pago nos termos prescritos para a amortização de quotas (arts. 235.º e 105.º, n.º 2, do CSC). Transitada a sentença, a Autora dispõe de 30 dias para amortizar a quota, adquiri-la ou fazê-la adquirir, sob pena de a exclusão ficar sem efeito (art. 242.º, n.º 3, do CSC).\n9. [Facultativo] Requer-se que o Tribunal nomeie perito para avaliação da sociedade e determinação do valor da quota, com referência à data da proposição da ação. [■ VERIFICAR: se convém pedir já a avaliação ou deixá-la para a liquidação da participação — arts. 1068.º e 1069.º do CPC]",
+    "motivo": "Número e data errados: o valor reporta-se à data da proposição da ação (art. 242.º, n.º 4)",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0240&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "b) Determine o valor da quota do Réu, à data do trânsito em julgado da sentença, ao abrigo do art. 105.º CSC, e condene a sociedade ao respetivo pagamento no prazo de [X] dias;",
+    "para": "b) [Facultativo] Fixe o valor da quota do Réu, com referência à data da proposição da presente ação (art. 242.º, n.º 4, do CSC); [■ VERIFICAR: o pagamento cabe à Autora, nos termos prescritos para a amortização de quotas, depois de amortizada ou adquirida a quota — art. 242.º, n.os 3 e 4, do CSC]",
+    "motivo": "Data de referência errada e condenação da sociedade, que é a autora",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0240&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- [ ] Competência do tribunal verificada (art. 128.º LOJ)",
+    "para": "- [ ] Deliberação dos sócios que aprova a propositura da ação junta (art. 242.º, n.º 2 CSC)\n- [ ] Competência do tribunal verificada (art. 128.º, n.º 1, al. c), da LOSJ)",
+    "motivo": "Deliberação prévia em falta na checklist; a lei é a LOSJ",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1974A0128&nid=1974&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Autores: [nomes, NIFs, quotas]",
+    "para": "- Deliberação de propositura da ação: [data, votação, representantes especiais nomeados]\n- Restantes sócios: [nomes, NIFs, quotas]",
+    "motivo": "A autora é a sociedade; recolher a deliberação exigida pelo art. 242.º, n.º 2",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0240&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Prazo para agir: confirmar a jurisprudência atual sobre a aplicação analógica dos 90 dias do art. 186.º, n.º 2, CSC.",
+   "Competência: confirmar que a ação de exclusão cabe na al. c) do n.º 1 do art. 128.º da LOSJ e ajustar o endereçamento («Juízo de Comércio de …»).",
+   "Decidir se o valor da quota se fixa nesta ação ou na liquidação da participação (arts. 1068.º e 1069.º CPC).",
+   "Se o sócio a excluir for gerente, prever na deliberação representantes especiais para a ação."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0240&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0251&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0186&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1974A0128&nid=1974&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A1068&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+  ]
+ },
+ {
+  "codigo": "COM-057",
+  "veredicto": "corrigida",
+  "descricao": "Prepara a declaração de exoneração de sócio de sociedade por quotas (saída por iniciativa do sócio), ao abrigo do art. 240.º do CSC, identificando os fundamentos legais (aumento de capital a subscrever por terceiros, mudança do objeto social, prorrogação da sociedade, transferência da sede para o estrangeiro, regresso à atividade da sociedade dissolvida e não exclusão de sócio havendo justa causa, sempre contra o voto expresso do sócio), o prazo de 90 dias, o cálculo da contrapartida da quota e a comunicação formal à sociedade.",
+  "descricao_en": "Prepares a member's declaration of withdrawal (exoneração) from a private limited company (exit at the member's own initiative), under Article 240 CSC, identifying the legal grounds (capital increase to be subscribed by third parties, change of corporate object, extension of the company's duration, transfer of the registered office abroad, return to activity of a dissolved company, and failure to expel a member where there is just cause, always against the member's express vote), the 90-day time limit, the calculation of the consideration for the quota and the formal notice to the company.",
+  "resumo": "A ficha dava 30 dias (art. 240.º, n.º 2) para exercer a exoneração, quando o art. 240.º, n.º 3, CSC dá 90 dias a contar do conhecimento do facto (o n.º 2 exige as quotas inteiramente liberadas); listava fundamentos que não são os do art. 240.º, n.º 1 (agravamento de obrigações, transformação) e omitia outros (aumento de capital por terceiros, regresso à atividade, não exclusão de sócio com justa causa); admitia a abstenção, quando a lei exige voto expresso contra; e dava o sócio por desvinculado com a receção da comunicação, quando a sociedade tem 30 dias para amortizar ou adquirir a quota, sob pena de dissolução administrativa (n.º 4). Corrigi também o cálculo da contrapartida (art. 105.º, n.º 2: revisor oficial de contas, com referência à data da declaração) e reescrevi a petição B como requerimento de avaliação judicial (arts. 1068.º e 1069.º CPC).",
+  "substituicoes": [
+   {
+    "de": "- Voto do sócio na deliberação contestada (exigido que tenha votado contra ou se tenha abstido — art. 240.º, n.º 1 CSC)\n- Prazo de 30 dias para exercer o direito (art. 240.º, n.º 2 CSC) — verificar se ainda em curso\n- Valor estimado da quota (art. 105.º CSC — acordo ou avaliação judicial)",
+    "para": "- Voto do sócio na deliberação contestada (exigido o voto expresso contra — art. 240.º, n.º 1 CSC: «contra o voto expresso daquele»; a abstenção não basta)\n- Quotas do sócio inteiramente liberadas (art. 240.º, n.º 2 CSC)\n- Prazo de 90 dias seguintes ao conhecimento do facto que atribui o direito, para declarar por escrito à sociedade a intenção de se exonerar (art. 240.º, n.º 3 CSC) — verificar se ainda em curso\n- Valor estimado da quota (art. 240.º, n.º 5, e art. 105.º, n.º 2 CSC — calculado nos termos do art. 1021.º CC, com referência à data da declaração, por revisor oficial de contas designado por acordo ou, na falta deste, pela respetiva Ordem)",
+    "motivo": "Prazo é de 90 dias (n.º 3); o n.º 2 exige quotas liberadas; a lei exige voto expresso contra; o valor é fixado por ROC",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0240&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Art. 240.º, n.º 1 CSC: fundamentos de exoneração:\n  (a) alteração do contrato de sociedade que implique agravamento das obrigações do sócio ou restrição dos seus direitos\n  (b) transformação da sociedade\n  (c) transferência da sede para o estrangeiro\n  (d) prorrogação da sociedade\n  (e) outros previstos no pacto social\n- Art. 240.º, n.º 2 CSC: prazo de 30 dias a contar do conhecimento da deliberação\n- Art. 240.º, n.º 3 CSC: a exoneração não depende do consentimento da sociedade ou dos restantes sócios\n- Art. 105.º CSC: valor de reembolso calculado por acordo ou, na falta, por avaliação judicial; base: valor real da quota à data do exercício do direito\n- Art. 240.º, n.º 4 CSC: a quota do exonerado é amortizada ou adquirida pela sociedade ou pelos sócios",
+    "para": "- Art. 240.º, n.º 1 CSC: o sócio pode exonerar-se nos casos previstos na lei e no contrato e ainda quando, contra o seu voto expresso:\n  (a) a sociedade deliberar um aumento de capital a subscrever total ou parcialmente por terceiros, a mudança do objeto social, a prorrogação da sociedade, a transferência da sede para o estrangeiro ou o regresso à atividade da sociedade dissolvida;\n  (b) havendo justa causa de exclusão de um sócio, a sociedade não deliberar excluí-lo ou não promover a sua exclusão judicial\n- Outros casos legais têm regime próprio, com requisitos e prazos diferentes — p. ex., fusão (art. 105.º CSC) e transformação (art. 137.º CSC) [■ VERIFICAR: requisitos e prazo do caso concreto]\n- Art. 240.º, n.º 2 CSC: a exoneração só pode ter lugar se estiverem inteiramente liberadas todas as quotas do sócio\n- Art. 240.º, n.º 3 CSC: declaração escrita à sociedade nos 90 dias seguintes ao conhecimento do facto que atribui o direito\n- Art. 240.º, n.º 4 CSC: recebida a declaração, a sociedade deve, em 30 dias, amortizar a quota, adquiri-la ou fazê-la adquirir por sócio ou terceiro, sob pena de o sócio poder requerer a dissolução da sociedade por via administrativa; até lá, o sócio mantém a quota [■ VERIFICAR: momento em que a exoneração produz efeitos]\n- Art. 240.º, n.º 5 CSC e art. 105.º, n.os 2 e 3, CSC: contrapartida calculada nos termos do art. 1021.º CC, com referência à data da declaração de exoneração, por revisor oficial de contas designado por acordo ou, na falta deste, pela respetiva Ordem; segunda avaliação nos termos do CPC (liquidação de participações sociais — arts. 1068.º e 1069.º CPC); pagamento em duas prestações, a seis meses e a um ano da fixação definitiva (art. 235.º, n.º 1, al. b), CSC)\n- Art. 240.º, n.º 8 CSC: nos casos legais, o contrato não pode fixar valor inferior ao resultante do n.º 5",
+    "motivo": "Fundamentos, números e conteúdo do art. 240.º errados; o valor não é fixado por avaliação judicial direta nem à data do «exercício»",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0240&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Petição de fixação judicial do valor (se não houver acordo)",
+    "para": "- Requerimento de avaliação judicial da quota (se não houver acordo e a avaliação por revisor oficial de contas não resolver o diferendo)",
+    "motivo": "A fixação do valor passa pela avaliação por ROC (art. 105.º, n.º 2, CSC) e, depois, pela liquidação judicial da participação",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0105&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "vem, nos termos do art. 240.º, n.os 1 e 2, do Código das Sociedades Comerciais (CSC), exercer o **DIREITO DE EXONERAÇÃO** da sociedade [firma], Lda., com os seguintes fundamentos:",
+    "para": "vem, nos termos do art. 240.º, n.os 1 e 3, do Código das Sociedades Comerciais (CSC), declarar a sua intenção de se **EXONERAR** da sociedade [firma], Lda., com os seguintes fundamentos:",
+    "motivo": "A declaração escrita de exoneração está no n.º 3 do art. 240.º",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0240&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "«a transformação da sociedade por quotas em sociedade anónima»], com o voto desfavorável do exponente [ou: contra a sua abstenção].",
+    "para": "«um aumento de capital a subscrever por terceiros»], contra o voto expresso do exponente (Doc. [X] — ata). As quotas do exponente estão inteiramente liberadas (art. 240.º, n.º 2, do CSC).",
+    "motivo": "A transformação não é fundamento do art. 240.º; a abstenção não basta; exige-se a liberação integral das quotas",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0240&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "e exerce o presente direito dentro do prazo de 30 dias exigido pelo art. 240.º, n.º 2, do CSC.",
+    "para": "e faz a presente declaração dentro do prazo de 90 dias previsto no art. 240.º, n.º 3, do CSC.",
+    "motivo": "O prazo é de 90 dias a contar do conhecimento do facto (art. 240.º, n.º 3)",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0240&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "Caso não haja acordo no prazo de [X] dias, reserva-se o direito de requerer a fixação judicial ao abrigo do art. 105.º, n.º 2, do CSC.",
+    "para": "Salvo acordo das partes, a contrapartida é calculada por revisor oficial de contas designado por mútuo acordo ou, na falta deste, designado pela Ordem dos Revisores Oficiais de Contas a pedido de qualquer interessado, nos termos do art. 1021.º do Código Civil e com referência à data desta declaração (arts. 240.º, n.º 5, e 105.º, n.º 2, do CSC), reservando-se o exponente o direito de requerer segunda avaliação nos termos do Código de Processo Civil (art. 105.º, n.º 3, do CSC).",
+    "motivo": "O art. 105.º, n.º 2, não prevê fixação judicial: o valor é calculado por ROC; a via judicial é a segunda avaliação do n.º 3",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0105&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "A partir da receção da presente comunicação, o exponente considera-se desvinculado da sociedade para todos os efeitos legais, sem prejuízo do pagamento do valor de reembolso.",
+    "para": "Nos termos do art. 240.º, n.º 4, do CSC, a sociedade deve, no prazo de 30 dias a contar da receção desta declaração, amortizar a quota do exponente, adquiri-la ou fazê-la adquirir por sócio ou terceiro, sob pena de o exponente poder requerer a dissolução da sociedade por via administrativa. [■ VERIFICAR: até à amortização ou aquisição da quota, o exponente mantém a qualidade de sócio]",
+    "motivo": "A desvinculação não é imediata: depende da amortização ou aquisição da quota (art. 240.º, n.º 4)",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0240&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "**B) PETIÇÃO DE FIXAÇÃO JUDICIAL DO VALOR DE REEMBOLSO** (se não houver acordo)\n\nAo Juízo [Comercial / do Tribunal de] [comarca]\n\n[Nome do sócio exonerado], NIF [número], vem requerer, nos termos do art. 105.º, n.º 2, do CSC, a **FIXAÇÃO JUDICIAL DO VALOR DE REEMBOLSO** da quota, na ação que opõe ao Réu [firma], Lda., NIPC [número], pelos seguintes fundamentos:\n\n1. O Autor exerceu o direito de exoneração por comunicação de [data] (Doc. 1), ao abrigo do art. 240.º, n.º 1, al. [X], do CSC.\n2. A Ré não reconheceu o valor proposto de €[X] nem efetuou qualquer pagamento.\n3. Requer-se a nomeação de perito avaliador para determinação do valor real da quota à data de [data do exercício], nos termos do art. 105.º, n.º 2, do CSC.\n4. A Ré deve ser condenada ao pagamento do valor apurado, acrescido de juros de mora à taxa legal desde [data da comunicação de exoneração].\n\nPEDIDO: fixação do valor de reembolso e condenação da Ré ao pagamento.\nValor da causa: €[estimativa]",
+    "para": "**B) REQUERIMENTO DE AVALIAÇÃO JUDICIAL DA QUOTA** (se não houver acordo — liquidação de participação social, arts. 1068.º e 1069.º do CPC)\n\nAo Juízo de Comércio de [comarca] [■ VERIFICAR: competência — art. 128.º, n.º 1, al. c), da LOSJ]\n\n[Nome do sócio], NIF [número], vem, nos termos do art. 105.º, n.º 3, do CSC e dos arts. 1068.º e 1069.º do Código de Processo Civil, requerer a **AVALIAÇÃO JUDICIAL** da sua quota na sociedade [firma], Lda., NIPC [número], com sede em [morada], pelos seguintes fundamentos:\n\n1. O Requerente declarou por escrito à sociedade, em [data] (Doc. 1), a intenção de se exonerar, ao abrigo do art. 240.º, n.º 1, al. [X], do CSC, dentro do prazo do n.º 3 do mesmo artigo.\n2. [A avaliação feita por revisor oficial de contas fixou a contrapartida em €[X] (Doc. 2), valor de que o Requerente discorda por [motivos] / A sociedade não ofereceu qualquer contrapartida.] [■ VERIFICAR: prazo e pressupostos da segunda avaliação — art. 105.º, n.os 3 e 4, do CSC]\n3. Requer-se a nomeação de perito para avaliação da quota segundo os critérios do art. 1021.º do Código Civil, com referência à data da declaração de exoneração (art. 240.º, n.º 5, do CSC), e a fixação judicial do seu valor (art. 1068.º, n.os 3 e 4, do CPC).\n4. [■ VERIFICAR: o pagamento da contrapartida segue o art. 235.º, n.º 1, al. b), do CSC (duas prestações, a seis meses e a um ano da fixação definitiva); se a sociedade não amortizar nem adquirir a quota no prazo de 30 dias, o sócio pode requerer a dissolução por via administrativa (art. 240.º, n.º 4, do CSC); a condenação no pagamento e nos juros de mora pede-se em ação própria]\n\nPEDIDO: avaliação judicial e fixação do valor da quota.\nValor da causa: €[estimativa]",
+    "motivo": "O art. 105.º, n.º 2, não prevê fixação judicial; a via é a liquidação judicial da participação (arts. 1068.º e 1069.º CPC); a data de referência é a da declaração; os juros desde a comunicação não têm base, porque o pagamento é fracionado após a fixação definitiva",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A1068&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- [ ] Voto contra ou abstenção na deliberação documentado (ata da assembleia)\n- [ ] Prazo de 30 dias verificado (art. 240.º, n.º 2 CSC)",
+    "para": "- [ ] Voto expresso contra a deliberação documentado (ata da assembleia)\n- [ ] Quotas do sócio inteiramente liberadas (art. 240.º, n.º 2 CSC)\n- [ ] Prazo de 90 dias a contar do conhecimento do facto verificado (art. 240.º, n.º 3 CSC)",
+    "motivo": "Prazo de 90 dias; voto expresso contra; quotas liberadas",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0240&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Voto do sócio: [contra / abstenção]",
+    "para": "- Voto do sócio: [contra / outro — o art. 240.º, n.º 1, exige voto expresso contra]\n- Quotas inteiramente liberadas: [sim / não]",
+    "motivo": "A abstenção não confere o direito; exige-se a liberação das quotas",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0240&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Nos casos legais com regime próprio (fusão — art. 105.º, n.º 1: um mês a contar da deliberação; transformação — art. 137.º), confirmar requisitos e prazos antes de usar esta minuta.",
+   "Confirmar a posição da doutrina e da jurisprudência sobre o momento em que a exoneração produz efeitos e sobre o sócio ausente da assembleia.",
+   "Confirmar a tramitação da segunda avaliação (art. 105.º, n.os 3 e 4, CSC) e a sua articulação com os arts. 1068.º e 1069.º CPC."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0240&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0105&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A1068&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1974A0128&nid=1974&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+  ]
+ }
+]

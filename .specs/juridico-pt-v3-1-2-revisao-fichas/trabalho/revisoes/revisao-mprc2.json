@@ -1,0 +1,916 @@
+[
+ {
+  "codigo": "PRC-035",
+  "veredicto": "corrigida",
+  "resumo": "A ficha apresentava a «força maior» como fundamento autónomo de suspensão, atribuía ao art. 272.º, n.º 4, CPC os efeitos da suspensão e afirmava que a suspensão não suspende o prazo de recurso. O art. 272.º CPC admite a suspensão por causa prejudicial ou outro motivo justificado (n.º 1) e por acordo das partes até três meses no total, sem adiamento da audiência final (n.º 4); os efeitos estão no art. 275.º CPC, segundo o qual os prazos judiciais não correm durante a suspensão. Corrigi as regras, os fundamentos da peça, o pedido, a checklist, a entrevista e a descrição do índice, e distingui o justo impedimento (art. 140.º CPC).",
+  "descricao": "Gera o requerimento de suspensão da instância, ao abrigo dos arts. 269.º a 272.º do CPC, invocando fundamento legal adequado — acordo das partes, dependência de outro processo (causa prejudicial) ou outro motivo justificado — e solicitando ao tribunal que ordene a paragem do andamento do processo pelo período fixado ou até à decisão da causa prejudicial.",
+  "descricao_en": "Generates the application for a stay of proceedings (suspensão da instância), under Articles 269 to 272 CPC, invoking an appropriate legal ground — agreement of the parties, dependence on other proceedings (causa prejudicial) or another justified reason — and asking the court to order that the proceedings be halted for a fixed period or until the related case is decided.",
+  "substituicoes": [
+   {
+    "de": "- Art. 272.º, n.º 1: suspensão por acordo das partes até 3 meses; por dependência de outro processo; por motivo de força maior\n- Art. 272.º, n.º 4: durante a suspensão não podem ser praticados atos processuais (com exceções)\n- A suspensão não suspende o prazo de recurso já iniciado — alertar se aplicável",
+    "para": "- Art. 272.º, n.º 1, CPC: o tribunal pode ordenar a suspensão quando a decisão da causa estiver dependente do julgamento de outra já proposta (causa prejudicial) ou quando ocorrer outro motivo justificado; não sendo o fundamento a causa prejudicial, o despacho fixa o prazo da suspensão (art. 272.º, n.º 3, CPC)\n- Art. 272.º, n.º 4, CPC: as partes podem acordar na suspensão por períodos que, no total, não excedam três meses, desde que dela não resulte o adiamento da audiência final\n- A «força maior» não é fundamento autónomo: ou constitui outro motivo justificado (art. 272.º, n.º 1, CPC) ou, se impediu a prática atempada de um ato, justo impedimento, com regime próprio (art. 140.º CPC); a morte ou a impossibilidade absoluta do advogado, nos processos com patrocínio obrigatório, suspende a instância por força da lei (art. 269.º, n.º 1, al. b), CPC)\n- Art. 275.º, n.º 1, CPC: durante a suspensão só podem praticar-se validamente os atos urgentes destinados a evitar dano irreparável; na suspensão por acordo, não ficam prejudicados os atos de instrução nem as diligências preparatórias da audiência final (art. 275.º, n.º 4, CPC)\n- Os prazos judiciais não correm enquanto durar a suspensão (art. 275.º, n.º 2, CPC), mas o simples requerimento não suspende os prazos em curso: alertar para os que estejam a correr [■ VERIFICAR: momento a partir do qual a suspensão requerida produz efeitos]",
+    "motivo": "O art. 272.º CPC não prevê a força maior como fundamento; os efeitos da suspensão estão no art. 275.º CPC, que faz parar os prazos judiciais.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0275&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- É por acordo das partes, dependência de causa ou força maior?\n- Por quanto tempo se pretende suspender?\n- O prazo de recurso está em curso? (a suspensão não o suspende)",
+    "para": "- É por acordo das partes (art. 272.º, n.º 4, CPC), por dependência de causa prejudicial ou por outro motivo justificado (art. 272.º, n.º 1, CPC)?\n- Por quanto tempo se pretende suspender? (no acordo, até três meses no total)\n- Há prazos em curso (contestação, recurso, outros)? Enquanto durar a suspensão, os prazos judiciais não correm (art. 275.º, n.º 2, CPC), mas o requerimento, por si, não os suspende",
+    "motivo": "Fundamentos e limite temporal do art. 272.º CPC; os prazos judiciais não correm durante a suspensão (art. 275.º, n.º 2, CPC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0272&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Art. 269.º CPC — extinção vs suspensão (distinção importante)",
+    "para": "- Art. 269.º CPC — causas de suspensão da instância; art. 277.º CPC — causas de extinção da instância (distinção importante)",
+    "motivo": "O art. 269.º CPC enumera as causas de suspensão; as de extinção estão no art. 277.º CPC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0277&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "\"As partes acordaram em suspender a instância por um período de ___ meses, com vista a negociar uma solução extrajudicial para o litígio. A contraparte manifesta a sua concordância, conforme declaração junta como Doc. n.º ___.\"",
+    "para": "\"As partes acordaram em suspender a instância por um período de ___ [no total, não superior a três meses, e sem que dele resulte o adiamento da audiência final — art. 272.º, n.º 4, CPC], com vista a negociar uma solução extrajudicial para o litígio. O presente requerimento é subscrito por ambas as partes [ou: a contraparte manifesta a sua concordância, conforme declaração junta como Doc. n.º ___].\"\n[Se as partes optarem pela mediação: a suspensão, pelo mesmo prazo máximo, verifica-se automaticamente, sem despacho, com a comunicação por qualquer das partes do recurso a sistemas de mediação — art. 273.º, n.os 2 e 3, CPC.]",
+    "motivo": "A suspensão por acordo tem o limite de três meses no total e não pode adiar a audiência final; na mediação, a suspensão é automática.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0273&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "Fundamento C — Força maior:\n\"O Requerente encontra-se impossibilitado de praticar atos processuais por motivo de [força maior — descrever], situação que cessará em [■ VERIFICAR — data estimada].\"",
+    "para": "Fundamento C — Outro motivo justificado (art. 272.º, n.º 1, CPC):\n\"Ocorre motivo justificado para a suspensão da instância: [descrever o facto e por que torna inconveniente o prosseguimento da causa], situação que cessará em [■ VERIFICAR — data estimada]. Requer-se que o despacho fixe o prazo da suspensão (art. 272.º, n.º 3, CPC).\"\n[Se o que está em causa é a impossibilidade de praticar um ato concreto dentro do prazo, o meio é o justo impedimento (art. 140.º CPC), e não a suspensão.]",
+    "motivo": "A lei não prevê a força maior como fundamento de suspensão; o art. 272.º, n.º 1, CPC admite outro motivo justificado, com prazo fixado no despacho (n.º 3).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0272&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "ao abrigo do art. 272.º, n.º 1 do CPC.\"",
+    "para": "ao abrigo do art. 272.º, n.º 1 do CPC [na suspensão por acordo: n.º 4 do mesmo artigo].\"",
+    "motivo": "A suspensão por acordo das partes funda-se no n.º 4 do art. 272.º CPC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0272&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Fundamento legal identificado (acordo / dependência / força maior)",
+    "para": "- [ ] Fundamento legal identificado (acordo das partes / causa prejudicial / outro motivo justificado)",
+    "motivo": "Fundamentos do art. 272.º CPC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0272&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Prazo de recurso em curso verificado",
+    "para": "- [ ] Prazos em curso verificados: só deixam de correr com a suspensão (art. 275.º, n.º 2, CPC)\n- [ ] Na suspensão por acordo: total não superior a três meses e sem adiamento da audiência final (art. 272.º, n.º 4, CPC)",
+    "motivo": "Os prazos judiciais não correm durante a suspensão; limite da suspensão por acordo.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0275&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Tipo: [acordo das partes / dependência de causa / força maior]",
+    "para": "- Tipo: [acordo das partes / dependência de causa prejudicial / outro motivo justificado]",
+    "motivo": "Fundamentos do art. 272.º CPC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0272&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "**SE FORÇA MAIOR:**",
+    "para": "**SE OUTRO MOTIVO JUSTIFICADO:**",
+    "motivo": "Fundamento do art. 272.º, n.º 1, CPC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0272&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar a partir de quando a suspensão requerida produz efeitos (despacho ou, no acordo, apresentação do requerimento) e praticar até lá os atos com prazo em curso.",
+   "Na suspensão por acordo, somar os períodos já acordados no processo: o total não pode exceder três meses nem adiar a audiência final.",
+   "Na causa prejudicial, ponderar o art. 272.º, n.º 2, CPC: a suspensão não é ordenada se a causa prejudicial tiver sido intentada só para a obter ou se a causa dependente estiver tão adiantada que os prejuízos superem as vantagens."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0272&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0275&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0269&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0140&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0273&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0277&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+  ]
+ },
+ {
+  "codigo": "PRC-037",
+  "veredicto": "corrigida",
+  "resumo": "A ficha descrevia a arbitrabilidade como «patrimonial, salvo exceções (matéria criminal, estado das pessoas)», apresentava o CAAD e a APA como centros para litígios comerciais e propunha uma cláusula que «exclui o recurso» da sentença ao abrigo do art. 39.º, n.º 4, LAV. O critério está no art. 1.º, n.os 1 e 2, LAV; a sentença arbitral é irrecorrível salvo se as partes previrem expressamente o recurso (art. 39.º, n.º 4), e o direito de pedir a anulação é irrenunciável (art. 46.º, n.º 5). Corrigi as regras, a lista de centros, a cláusula facultativa de recurso, a checklist e a entrevista.",
+  "substituicoes": [
+   {
+    "de": "- Art. 2.º LAV: matérias arbitráveis — litígios respeitantes a interesses de natureza patrimonial, salvo exceções (matéria criminal, estado das pessoas, etc.)",
+    "para": "- Art. 1.º, n.os 1 e 2, LAV: matérias arbitráveis — qualquer litígio respeitante a interesses de natureza patrimonial, desde que lei especial não o submeta exclusivamente aos tribunais do Estado ou a arbitragem necessária; os litígios sem natureza patrimonial, só se as partes puderem celebrar transação sobre o direito controvertido",
+    "motivo": "O critério de arbitrabilidade está no art. 1.º, n.os 1 e 2, LAV, e não numa lista de exceções.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1579A0001&nid=1579&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- As partes preferem arbitragem institucional (CAAD, CAC, APA, etc.) ou ad hoc?",
+    "para": "- As partes preferem arbitragem institucional (por exemplo, o Centro de Arbitragem Comercial da Câmara de Comércio e Indústria Portuguesa ou um centro especializado como o ARBITRARE, na propriedade industrial, nomes de domínio, firmas e denominações) ou ad hoc? O CAAD é um centro de arbitragem administrativa e tributária e a APA é uma associação, não um centro que administre processos [■ VERIFICAR: centro escolhido, âmbito e regulamento em vigor]",
+    "motivo": "O CAAD trata de arbitragem administrativa e tributária; a Associação Portuguesa de Arbitragem não administra processos arbitrais.",
+    "fonte": "https://arbitragem.pt/"
+   },
+   {
+    "de": "- Regulamento do centro de arbitragem escolhido (CAAD, CAC, APA, ARBITRARE, etc.)",
+    "para": "- Regulamento do centro de arbitragem escolhido (Centro de Arbitragem Comercial, ARBITRARE ou outro) [■ VERIFICAR: regulamento em vigor]",
+    "motivo": "O CAAD e a APA não servem para a arbitragem comercial entre particulares.",
+    "fonte": "https://www.caad.org.pt/"
+   },
+   {
+    "de": "- Exclusão de recursos: \"As partes excluem o recurso da sentença arbitral para o tribunal estadual, nos termos do art. 39.º, n.º 4 da LAV.\" [■ VERIFICAR se aplicável]",
+    "para": "- Recurso da sentença (só se as partes o quiserem): a sentença arbitral é irrecorrível, salvo se a convenção previr expressamente o recurso para o tribunal estadual e a causa não for decidida segundo a equidade ou por composição amigável (art. 39.º, n.º 4 da LAV). Para admitir o recurso: \"Da sentença arbitral que se pronuncie sobre o fundo da causa cabe recurso para o tribunal estadual competente.\" Não é preciso «excluir» o recurso, e o direito de requerer a anulação da sentença arbitral é irrenunciável (art. 46.º, n.º 5, LAV).",
+    "motivo": "Pelo art. 39.º, n.º 4, LAV a irrecorribilidade é a regra e o recurso só existe se previsto; a anulação não pode ser afastada (art. 46.º, n.º 5).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1579A0039&nid=1579&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Matéria é arbitrável (patrimonial, excluídas as restrições legais)",
+    "para": "- [ ] Matéria é arbitrável (patrimonial ou, não o sendo, transacionável; sem reserva legal aos tribunais do Estado nem arbitragem necessária — art. 1.º, n.os 1 e 2, LAV)",
+    "motivo": "Critério do art. 1.º, n.os 1 e 2, LAV.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1579A0001&nid=1579&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Centro: [CAAD / CAC Lisboa / APA / ARBITRARE / ad hoc / VERIFICAR]",
+    "para": "- Centro: [Centro de Arbitragem Comercial / ARBITRARE / outro centro / ad hoc / VERIFICAR]",
+    "motivo": "O CAAD e a APA não administram arbitragens comerciais entre particulares.",
+    "fonte": "https://arbitragem.pt/"
+   },
+   {
+    "de": "- Excluir recurso da sentença: [sim / não]",
+    "para": "- Admitir recurso da sentença para o tribunal estadual: [não (regra legal) / sim]",
+    "motivo": "A sentença arbitral só é recorrível se as partes o previrem (art. 39.º, n.º 4, LAV).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1579A0039&nid=1579&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar o centro de arbitragem e o regulamento em vigor, incluindo as regras sobre custos e nomeação de árbitros.",
+   "Se a cláusula constar de contrato de adesão, conferir o regime das cláusulas contratuais gerais (art. 2.º, n.º 4, LAV).",
+   "Prever o recurso só se for querido e não houver julgamento segundo a equidade (art. 39.º, n.º 4, LAV)."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1579A0001&nid=1579&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1579A0002&nid=1579&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1579A0005&nid=1579&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1579A0020&nid=1579&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1579A0039&nid=1579&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1579A0046&nid=1579&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.caad.org.pt/",
+   "https://arbitragem.pt/"
+  ]
+ },
+ {
+  "codigo": "PRC-038",
+  "veredicto": "corrigida",
+  "resumo": "A ficha indicava sistemas públicos de mediação que não existem (SMTSS e SMAL), reduzia a força executiva do acordo à assinatura e à disponibilidade da matéria, atribuía a confidencialidade ao art. 13.º da Lei n.º 29/2013 e a suspensão da prescrição ao art. 273.º CPC, e chamava decretos-leis às leis dos julgados de paz. Os sistemas públicos geridos pela DGPJ são o familiar, o laboral e o penal; a força executiva depende dos requisitos do art. 9.º; a confidencialidade está no art. 5.º e a suspensão dos prazos de caducidade e prescrição no art. 13.º da Lei n.º 29/2013. Corrigi as regras, a base legal, a cláusula de força executiva, a checklist, a entrevista e a descrição do índice.",
+  "descricao": "Gera o requerimento de início de mediação junto dos sistemas públicos de mediação (SMF ou SML), dos julgados de paz ou de mediador privado, bem como o acordo de mediação final, nos termos da Lei n.º 29/2013, de 19 de abril, com cláusula de força executiva quando verificados os requisitos do art. 9.º.",
+  "descricao_en": "Generates the request to initiate mediation with the public mediation systems (family or labour — SMF or SML), the justices of the peace courts or a private mediator, as well as the final mediation agreement, under Law No. 29/2013 of 19 April, with an enforceability clause where the requirements of Article 9 are met.",
+  "substituicoes": [
+   {
+    "de": "- Sistemas públicos: SMF (família), SMTSS (trabalho e segurança social), SMAL (arrendamento)\n- Mediação privada: entidades credenciadas pelo Ministério da Justiça\n- Art. 9.º Lei 29/2013: o acordo de mediação tem força executiva se assinado pelas partes e pelo mediador e se a matéria for disponível",
+    "para": "- Sistemas públicos de mediação geridos pela DGPJ: Sistema de Mediação Familiar (SMF), Sistema de Mediação Laboral (SML) e Sistema de Mediação Penal (SMP); os julgados de paz têm serviço de mediação próprio. Não há sistema público de mediação para o arrendamento nem para a segurança social\n- Mediação privada: mediador de conflitos escolhido pelas partes; para o acordo ter força executiva, o mediador tem de estar inscrito na lista de mediadores de conflitos organizada pelo Ministério da Justiça (art. 9.º, n.º 1, al. e), da Lei n.º 29/2013)\n- Art. 9.º, n.º 1, da Lei n.º 29/2013: o acordo de mediação tem força executiva, sem homologação judicial, se respeitar a litígio que possa ser objeto de mediação e para o qual a lei não exija homologação judicial, se as partes tiverem capacidade, se a mediação tiver sido realizada nos termos legais, se o conteúdo não violar a ordem pública e se nela tiver participado mediador inscrito na lista do Ministério da Justiça (requisito dispensado nos sistemas públicos — n.º 2); fora destes casos, as partes podem requerer em conjunto a homologação judicial do acordo obtido em mediação pré-judicial (art. 14.º da Lei n.º 29/2013)",
+    "motivo": "Os sistemas públicos são o familiar, o laboral e o penal; a força executiva depende dos cinco requisitos do art. 9.º, n.º 1, da Lei n.º 29/2013.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1907A0009&nid=1907&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Art. 13.º Lei 29/2013: confidencialidade — o mediador e as partes não podem divulgar o conteúdo das sessões",
+    "para": "- Art. 5.º da Lei n.º 29/2013: confidencialidade — o mediador guarda sigilo sobre as informações de que tenha conhecimento no procedimento, e o conteúdo das sessões não pode ser valorado em tribunal ou em arbitragem, salvo nas situações do n.º 3 e quanto ao acordo obtido\n- Art. 13.º da Lei n.º 29/2013: o recurso à mediação pré-judicial suspende os prazos de caducidade e prescrição a partir da assinatura do protocolo de mediação ou, nos sistemas públicos, da concordância de todas as partes; os prazos retomam-se com a conclusão do procedimento nos casos do n.º 3",
+    "motivo": "A confidencialidade está no art. 5.º; o art. 13.º trata da suspensão dos prazos de caducidade e prescrição.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1907A0005&nid=1907&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Qual o sistema de mediação adequado (SMF, SMTSS, SMAL, privado)?\n- A matéria é disponível pelas partes (requisito para acordo com força executiva)?",
+    "para": "- Qual o sistema de mediação adequado (SMF, SML, mediação nos julgados de paz ou mediação privada)?\n- O acordo terá força executiva? (art. 9.º, n.º 1, da Lei n.º 29/2013: litígio mediável sem homologação legalmente exigida, capacidade, mediação nos termos legais, ordem pública e, fora dos sistemas públicos, mediador inscrito na lista do Ministério da Justiça)",
+    "motivo": "Sistemas públicos existentes e requisitos legais da executoriedade do acordo.",
+    "fonte": "https://dgpj.justica.gov.pt/Resolucao-de-Litigios/Mediacao/Sistemas-Publicos-de-Mediacao/Sistema-de-Mediacao-Familiar"
+   },
+   {
+    "de": "- Há prazo de prescrição ou caducidade a suspender?",
+    "para": "- Há prazo de prescrição ou caducidade a correr? A suspensão só opera desde a assinatura do protocolo de mediação ou, nos sistemas públicos, desde a concordância de todas as partes (art. 13.º, n.º 2, da Lei n.º 29/2013)",
+    "motivo": "Momento em que se suspendem os prazos (art. 13.º, n.º 2, da Lei n.º 29/2013).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1907A0013&nid=1907&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Portaria n.º 283/2018 (SMF — Sistema de Mediação Familiar) [■ VERIFICAR — portaria atual]\n- DL n.º 78/2001 e DL n.º 54/2013 — Julgados de Paz e mediação prévia\n- Art. 273.º CPC — suspensão do prazo de prescrição durante a mediação",
+    "para": "- Despacho Normativo n.º 13/2018 (SMF — Sistema de Mediação Familiar) [■ VERIFICAR: data do despacho e ato regulador do SML]; Portarias n.os 282/2010 e 283/2018 (seleção de mediadores dos sistemas públicos e dos julgados de paz)\n- Lei n.º 78/2001, de 13 de julho, alterada pela Lei n.º 54/2013, de 31 de julho — Julgados de Paz e respetivo serviço de mediação\n- Art. 13.º da Lei n.º 29/2013 — suspensão dos prazos de caducidade e prescrição durante a mediação pré-judicial\n- Art. 273.º CPC — mediação com processo pendente: remessa pelo juiz ou opção das partes, com suspensão da instância",
+    "motivo": "O SMF é regulado por despacho normativo; a Portaria n.º 283/2018 respeita à seleção de mediadores; os julgados de paz regem-se por leis; o art. 273.º CPC trata da suspensão da instância.",
+    "fonte": "https://dgpj.justica.gov.pt/Resolucao-de-Litigios/Mediacao/Sistemas-Publicos-de-Mediacao/Sistema-de-Mediacao-Familiar"
+   },
+   {
+    "de": "- Arts. 1249.º a 1250.º CC — transação (acordo extrajudicial com força contratual)",
+    "para": "- Arts. 1248.º a 1250.º CC — transação (noção, matérias insuscetíveis de transação e forma)",
+    "motivo": "A noção de transação está no art. 1248.º CC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1248&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "5.ª CLÁUSULA — FORÇA EXECUTIVA [se matéria disponível]\nO presente acordo, nos termos do art. 9.º da Lei n.º 29/2013, tem a\nforça de título executivo, podendo ser executado nos termos gerais de\ndireito em caso de incumprimento.",
+    "para": "5.ª CLÁUSULA — FORÇA EXECUTIVA [só se verificados os requisitos do art. 9.º, n.º 1, da Lei n.º 29/2013]\nO presente acordo foi obtido em mediação realizada nos termos legais, com a\nparticipação de mediador de conflitos [inscrito na lista organizada pelo\nMinistério da Justiça / do sistema público de mediação], respeita a litígio\nque pode ser objeto de mediação e para o qual a lei não exige homologação\njudicial, e as partes têm capacidade para o celebrar; tem, por isso, força\nexecutiva, nos termos do art. 9.º da Lei n.º 29/2013.\n[Se a lei exigir homologação judicial ou faltar algum requisito: as partes\nrequerem em conjunto a homologação judicial do acordo — art. 14.º da Lei\nn.º 29/2013.]",
+    "motivo": "A força executiva resulta da lei e só existe com os requisitos do art. 9.º, n.º 1; a homologação judicial é a alternativa (art. 14.º).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1907A0009&nid=1907&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Cláusula de força executiva incluída se matéria disponível",
+    "para": "- [ ] Força executiva só se verificados os requisitos do art. 9.º, n.º 1, da Lei n.º 29/2013 (incluindo mediador inscrito na lista do Ministério da Justiça, fora dos sistemas públicos); caso contrário, homologação judicial (art. 14.º)",
+    "motivo": "Requisitos da executoriedade do acordo de mediação.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1907A0009&nid=1907&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [SMF (família) / SMTSS (trabalho) / SMAL (arrendamento) / privado / VERIFICAR]",
+    "para": "- [SMF (família) / SML (laboral) / julgado de paz / mediação privada / VERIFICAR]",
+    "motivo": "Não existem os sistemas SMTSS e SMAL.",
+    "fonte": "https://dgpj.justica.gov.pt/Resolucao-de-Litigios/Mediacao/Sistemas-Publicos-de-Mediacao/Sistema-de-Mediacao-Familiar"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar a data e o texto do Despacho Normativo n.º 13/2018 (SMF) e o ato que regula o SML.",
+   "Em matéria de família, verificar se a lei exige homologação do acordo (por exemplo, responsabilidades parentais), o que afasta a força executiva sem homologação.",
+   "Na mediação privada, confirmar a inscrição do mediador na lista do Ministério da Justiça antes de prometer força executiva ao cliente."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1907A0005&nid=1907&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1907A0009&nid=1907&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1907A0013&nid=1907&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1907A0014&nid=1907&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://dgpj.justica.gov.pt/Resolucao-de-Litigios/Mediacao/Sistemas-Publicos-de-Mediacao/Sistema-de-Mediacao-Familiar",
+   "https://e-justice.europa.eu/topics/find-legal-professional/mediators/pt_pt",
+   "https://diariodarepublica.pt/dr/detalhe/despacho-normativo/13-2018-116929980",
+   "https://diariodarepublica.pt/dr/detalhe/portaria/283-2018-116734771",
+   "https://diariodarepublica.pt/dr/detalhe/lei/54-2013-498679",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0273&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1248&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+  ]
+ },
+ {
+  "codigo": "PRC-042",
+  "veredicto": "corrigida",
+  "resumo": "A ficha pedia um «efeito suspensivo» do valor probatório do documento que o CPC não prevê, atribuía a participação ao Ministério Público ao art. 447.º CPC (arguição pelo apresentante) e não distinguia a impugnação da letra ou assinatura de documento particular (art. 444.º CPC; ónus do apresentante, art. 374.º, n.º 2, CC) da arguição de falsidade (art. 446.º CPC). Pelos arts. 448.º a 450.º CPC, o documento não é atendido se a parte contrária não responder, a prova e a decisão correm com a causa, que só se suspende quando necessário, e a decisão é notificada ao Ministério Público. Corrigi as regras, a análise, a base legal, a peça, o pedido, a checklist, a entrevista e a descrição do índice.",
+  "descricao": "Gera o articulado de impugnação da genuinidade ou de arguição da falsidade de documento junto aos autos, nos termos dos artigos 444.º a 451.º do CPC (Lei n.º 41/2013), distinguindo a impugnação da letra ou assinatura de documento particular da falsidade de documento autêntico ou de autoria reconhecida, com pedido de exame pericial.",
+  "descricao_en": "Generates the pleading challenging the genuineness of, or alleging the forgery of, a document filed in the proceedings, under Articles 444 to 451 CPC (Law No. 41/2013), distinguishing the challenge to the handwriting or signature of a private document from the forgery of an authentic document or of a document of acknowledged authorship, with a request for an expert examination.",
+  "substituicoes": [
+   {
+    "de": "— Distingue rigorosamente falsidade material (art. 256.º CP), falsidade ideológica e falsidade de assinatura.",
+    "para": "— Distingue rigorosamente a impugnação da genuinidade da letra ou da assinatura de documento particular (art. 444.º CPC), em que cabe a quem apresentou o documento provar a sua veracidade (art. 374.º, n.º 2, CC), da arguição da falsidade de documento autêntico ou de documento particular de autoria reconhecida (art. 446.º, n.º 1, CPC; arts. 372.º e 376.º, n.º 1, CC); a falsificação de documento é também crime (art. 256.º CP).",
+    "motivo": "O CPC distingue a impugnação da letra ou assinatura (art. 444.º) da arguição de falsidade (art. 446.º), com ónus da prova diferentes.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0446&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Tipo de documento (autêntico vs. particular — arts. 369.º e 374.º CC)\n- Modalidade de falsidade (material, ideológica, de assinatura)\n- Momento processual adequado para arguição (art. 444.º, n.º 1, CPC — prazo de 10 dias)\n- Efeito suspensivo da apreciação do documento (art. 446.º CPC)\n- Necessidade de exame pericial (art. 445.º CPC)\n- Participação criminal ao Ministério Público (art. 447.º CPC)",
+    "para": "- Tipo de documento (autêntico vs. particular — art. 363.º CC)\n- Meio próprio: impugnação da letra ou assinatura de documento particular (art. 444.º CPC) ou arguição de falsidade (art. 446.º, n.º 1, CPC); a força probatória do documento autêntico só pode ser ilidida com base na sua falsidade (art. 372.º, n.º 1, CC)\n- Momento processual adequado para arguição (art. 444.º, n.º 1, CPC — prazo de 10 dias a contar da apresentação do documento, se a parte estiver presente, ou da notificação da junção; documento junto com articulado que não seja o último: no articulado seguinte, n.º 2; conhecimento superveniente: 10 dias a contar do conhecimento, art. 446.º, n.º 2, CPC)\n- Efeitos: se a parte contrária não responder ou declarar que não quer fazer uso do documento, este não é atendido na causa (art. 448.º, n.º 2, CPC); a prova e a decisão têm lugar com as da causa, cujos termos só se suspendem quando necessário (art. 449.º, n.º 3, CPC)\n- Necessidade de exame pericial (art. 445.º CPC; art. 449.º, n.º 1, CPC)\n- Comunicação ao Ministério Público: a decisão sobre a arguição é-lhe notificada (art. 449.º, n.º 4, CPC)",
+    "motivo": "O CPC não prevê efeito suspensivo do valor probatório; os efeitos estão nos arts. 448.º e 449.º CPC; o art. 447.º trata da arguição pelo apresentante.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0448&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Artigos 444.º a 447.º CPC (incidente de falsidade)\n- Artigos 369.º, 374.º e 376.º CC (força probatória dos documentos)",
+    "para": "- Artigos 444.º a 451.º CPC (impugnação da genuinidade e arguição de falsidade de documento)\n- Artigos 371.º, 372.º, 374.º e 376.º CC (força probatória dos documentos; falsidade; autoria da letra e da assinatura)",
+    "motivo": "O regime do incidente vai até ao art. 451.º CPC; a força probatória e a falsidade estão nos arts. 371.º, 372.º, 374.º e 376.º CC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0372&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Artigo 446.º CPC (suspensão da apreciação da prova enquanto pendente o incidente)",
+    "para": "- Artigos 448.º e 449.º CPC (resposta; instrução e julgamento com a causa, cujos termos só se suspendem quando necessário; notificação da decisão ao Ministério Público)",
+    "motivo": "O art. 446.º CPC não suspende a apreciação da prova; regula a arguição.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0449&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "vem, nos termos do artigo 444.º, n.º 1, do Código de Processo Civil, arguir o presente",
+    "para": "vem, nos termos do artigo 444.º, n.º 1, do Código de Processo Civil [impugnação da letra ou assinatura de documento particular] [ou: do artigo 446.º, n.º 1, do mesmo Código — falsidade de documento autêntico ou de documento particular de autoria reconhecida], deduzir o presente",
+    "motivo": "A base legal depende do meio: impugnação (art. 444.º) ou arguição de falsidade (art. 446.º).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0444&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "*B) Tipo de falsidade:*\n[Identificar se é material — adulteração física do suporte — ou ideológica — conteúdo não corresponde ao declarado — e o preceito penal correspondente]",
+    "para": "*B) Qualificação:*\n[Documento particular cuja letra ou assinatura se impugna — cabe à parte que o apresentou provar a sua veracidade (artigo 374.º, n.º 2, do Código Civil) — ou falsidade de documento autêntico, quando nele se atesta como percecionado ou praticado pela autoridade ou oficial público facto ou ato que não ocorreu (artigo 372.º, n.º 2, do Código Civil), ou de documento particular de autoria reconhecida (artigo 376.º, n.º 1, do Código Civil); a mera inexatidão das declarações de documento particular não é, em regra, falsidade do documento]",
+    "motivo": "A falsidade relevante é a definida no art. 372.º CC e a impugnação da assinatura segue o art. 374.º CC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0374&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "Requer-se, ao abrigo do artigo 445.º CPC, a realização de exame pericial",
+    "para": "Requer-se, ao abrigo do artigo 445.º CPC [na arguição de falsidade: artigo 449.º, n.º 1, CPC], a realização de exame pericial",
+    "motivo": "Na arguição de falsidade, a prova é requerida com a arguição (art. 449.º, n.º 1, CPC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0449&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "**IV — EFEITO SUSPENSIVO**\nRequer-se que, até à decisão do presente incidente, seja suspenso o valor probatório do documento identificado, nos termos do artigo 446.º CPC.",
+    "para": "**IV — EFEITOS NO PROCESSO**\nSe a parte contrária não responder ou declarar que não quer fazer uso do documento, não pode este ser atendido na causa para efeito algum (artigo 448.º, n.º 2, CPC). A prova e a decisão do incidente têm lugar juntamente com as da causa, cujos termos se suspendem para o efeito quando necessário (artigo 449.º, n.º 3, CPC) [em ação executiva: nenhum credor pode ser pago, na pendência do incidente, sem prestar caução — artigo 450.º, n.º 2, CPC].",
+    "motivo": "Não existe suspensão do valor probatório; os efeitos constam dos arts. 448.º a 450.º CPC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0450&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "Requer-se que, verificada a falsidade, se remeta certidão ao Ministério Público para os efeitos do artigo 447.º CPC e artigos 256.º e ss. do Código Penal.",
+    "para": "A decisão proferida sobre a arguição é notificada ao Ministério Público (artigo 449.º, n.º 4, CPC); requer-se ainda que, verificada a falsidade, se extraia certidão para procedimento criminal (artigos 256.º e ss. do Código Penal).",
+    "motivo": "A notificação ao Ministério Público está no art. 449.º, n.º 4, CPC; o art. 447.º trata da arguição pelo apresentante.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0449&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "c) Suspender a apreciação do documento até decisão do incidente;\nd) [Se aplicável] Remeter certidão ao Ministério Público.",
+    "para": "c) Julgar [não genuína a letra ou a assinatura / falso o documento] e, em consequência, não o atender na decisão da causa [ou, se a parte contrária não responder ou declarar que não quer fazer uso dele, declarar que o documento não pode ser atendido — artigo 448.º, n.º 2, CPC];\nd) [Se aplicável] Mandar extrair certidão para procedimento criminal.",
+    "motivo": "O pedido de suspensão da apreciação do documento não tem base legal.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0448&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Tipo de falsidade qualificado (material/ideológica/assinatura)",
+    "para": "- [ ] Prazo próprio verificado: articulado seguinte, se o documento veio com articulado que não seja o último (art. 444.º, n.º 2, CPC); 10 dias a contar do conhecimento, se o fundamento for superveniente (art. 446.º, n.º 2, CPC)\n- [ ] Meio qualificado: impugnação da letra ou assinatura (art. 444.º CPC) ou arguição de falsidade (art. 446.º, n.º 1, CPC)",
+    "motivo": "Prazos e meios dos arts. 444.º e 446.º CPC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0446&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Efeito suspensivo expressamente pedido (art. 446.º CPC)",
+    "para": "- [ ] Pedido conforme ao regime: não há efeito suspensivo autónomo; o documento não é atendido se a parte contrária não responder ou declarar que não o quer usar (art. 448.º, n.º 2, CPC)",
+    "motivo": "O CPC não prevê efeito suspensivo do documento arguido.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0448&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Tipo: [material / ideológica / assinatura apócrifa]",
+    "para": "- Tipo: [letra ou assinatura não genuína (documento particular) / falsidade de documento autêntico / falsidade de documento particular de autoria reconhecida / documento assinado em branco preenchido contra o ajustado]",
+    "motivo": "Hipóteses dos arts. 444.º e 446.º, n.º 1, CPC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0446&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Se a assinatura de documento particular não foi reconhecida, a simples impugnação (art. 444.º CPC) transfere o ónus da prova para o apresentante: ponderar se a arguição de falsidade é necessária.",
+   "Confirmar se o processo é executivo, especial ou em recurso, caso em que o incidente segue os termos do art. 450.º CPC.",
+   "Avaliar a denúncia criminal autónoma (art. 256.º CP) independentemente da decisão do incidente."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0444&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0445&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0446&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0447&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0448&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0449&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0450&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0363&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0371&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0372&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0374&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0376&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+  ]
+ },
+ {
+  "codigo": "PRC-043",
+  "veredicto": "corrigida",
+  "resumo": "A ficha pedia a nomeação de «curador provisório» ao citando ausente e punha o advogado a atestar consultas às bases da AT, identificação civil, segurança social e recenseamento, e não referia a dilação nem o início do prazo de defesa. As consultas são feitas pela secretaria, mediante prévio despacho (art. 236.º, n.º 1, CPC); a defesa do ausente que não compareça cabe ao Ministério Público (art. 21.º CPC); a citação considera-se feita na data da publicação do anúncio e acresce a dilação de 30 dias (arts. 242.º e 245.º, n.º 3, CPC). Corrigi as regras, a base legal, a peça, o pedido, a checklist, a entrevista e a descrição do índice.",
+  "descricao": "Gera o requerimento de citação edital de réu ou requerido em paradeiro ignorado, ao abrigo dos artigos 236.º e 240.º a 245.º do CPC (Lei n.º 41/2013), com indicação das diligências prévias de averiguação e da defesa do ausente pelo Ministério Público, para uso no sistema Citius.",
+  "descricao_en": "Generates the application for service by public notice (citação edital) on a defendant or respondent whose whereabouts are unknown, under Articles 236 and 240 to 245 CPC (Law No. 41/2013), indicating the prior tracing steps and the defence of the absent party by the Public Prosecutor's Office, for use in the Citius system.",
+  "substituicoes": [
+   {
+    "de": "- Diligências de averiguação já realizadas (art. 241.º, n.º 2, CPC)\n- Modalidade de citação edital adequada: paradeiro desconhecido (art. 240.º CPC) ou incerteza do citando\n- Necessidade de curador provisório (art. 245.º CPC)",
+    "para": "- Diligências de averiguação: frustrada a citação por o citando estar ausente em parte incerta, a secretaria diligencia obter informação sobre o último paradeiro ou residência conhecida, designadamente, mediante prévio despacho judicial, nas bases de dados da identificação civil, da segurança social, da AT e do IMT (art. 236.º, n.º 1, CPC); o autor indica as que ele próprio fez e os elementos de que dispõe\n- Modalidade de citação edital adequada: paradeiro desconhecido (art. 240.º CPC) ou incerteza das pessoas (art. 243.º CPC)\n- Defesa do ausente: se não comparecer nem deduzir oposição, incumbe ao Ministério Público, que é citado, correndo novamente o prazo para a contestação (art. 21.º CPC); não há nomeação de curador provisório (o art. 17.º CPC respeita a incapazes)\n- Prazo de defesa: a citação considera-se feita no dia da publicação do anúncio (art. 242.º, n.º 1, CPC) e acresce a dilação de 30 dias (art. 245.º, n.º 3, CPC)",
+    "motivo": "As consultas são da secretaria (art. 236.º CPC); a defesa do ausente cabe ao Ministério Público (art. 21.º CPC); o art. 245.º CPC trata da dilação.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0236&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Artigo 243.º CPC (prazo para a contestação após a citação edital)\n- Artigo 245.º CPC (curador provisório do ausente)\n- Artigo 20.º CPC (garantia de efetivo acesso ao direito)",
+    "para": "- Artigo 243.º CPC (citação edital por incerteza das pessoas)\n- Artigos 242.º e 245.º, n.º 3, CPC (a citação considera-se feita no dia da publicação do anúncio; dilação de 30 dias, finda a qual corre o prazo de defesa)\n- Artigo 21.º CPC (defesa do ausente pelo Ministério Público)\n- Artigo 20.º CRP (acesso ao direito e tutela jurisdicional efetiva)",
+    "motivo": "O art. 243.º CPC trata da incerteza das pessoas; o prazo e a dilação estão nos arts. 242.º e 245.º; o acesso ao direito consta do art. 20.º CRP.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0245&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Pedido de nomeação de curador provisório",
+    "para": "- Pedido das diligências do art. 236.º, n.º 1, CPC, se ainda não realizadas\n- Referência à defesa do ausente pelo Ministério Público (art. 21.º CPC)",
+    "motivo": "Não há curador provisório do citando ausente; a defesa cabe ao Ministério Público.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0021&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "**I — DILIGÊNCIAS DE AVERIGUAÇÃO REALIZADAS**\nAo abrigo do artigo 241.º, n.º 2, do CPC, o signatário realizou as seguintes diligências para apuramento do paradeiro do Réu/Requerido [nome]:\n\na) Consulta do registo de contribuintes (base AT): morada [■ VERIFICAR — ou «desconhecida»];\nb) Consulta do registo de recenseamento eleitoral: [resultado];\nc) Consulta do registo de identificação civil: [resultado];\nd) Consulta do sistema de segurança social (NISS): [resultado];\ne) Tentativa de citação na última morada conhecida — [morada] — devolvida com indicação «mudou-se/desconhecido» (sobrecarta junta — Doc. [X]);\nf) [Outras diligências: registo predial, comercial, etc.]\n\nNão obstante as diligências supra descritas, não foi possível apurar o atual paradeiro do Réu/Requerido.",
+    "para": "**I — DILIGÊNCIAS DE AVERIGUAÇÃO**\nA citação do Réu/Requerido [nome] na última morada conhecida — [morada] — frustrou-se, tendo a carta sido devolvida com a indicação «mudou-se/desconhecido» (sobrecarta junta — Doc. [X]).\n\nO Autor/Requerente apurou ainda, pelos meios ao seu alcance, o seguinte: [contactos com familiares, empregador ou vizinhos; certidões do registo predial ou comercial; outros — resultado de cada diligência].\n\nNos termos do artigo 236.º, n.º 1, do CPC, compete à secretaria, mediante prévio despacho judicial, obter informação sobre o último paradeiro ou residência conhecida do citando nas bases de dados dos serviços de identificação civil, da segurança social, da Autoridade Tributária e Aduaneira e do Instituto da Mobilidade e dos Transportes Terrestres e, quando o juiz o considere absolutamente indispensável, junto das autoridades policiais. [Se já realizadas: as consultas efetuadas pela secretaria em [data] não permitiram apurar o paradeiro do Réu/Requerido.] [■ VERIFICAR: resultado das consultas oficiosas constante dos autos]",
+    "motivo": "As consultas às bases de dados são feitas pela secretaria, mediante despacho, e não pelo advogado (art. 236.º, n.º 1, CPC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0236&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "Nestes termos, requer-se que, nos termos dos artigos 240.º e 242.º do CPC, seja ordenada a **citação edital** do Réu/Requerido",
+    "para": "Nestes termos, requer-se que, [realizadas sem êxito as diligências do artigo 236.º do CPC,] nos termos dos artigos 240.º e 242.º do CPC, seja ordenada a **citação edital** do Réu/Requerido",
+    "motivo": "A citação edital pressupõe as diligências do art. 236.º CPC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0236&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "O edital deve ser publicado no portal Citius, nos termos do artigo 242.º, n.º 1, CPC.",
+    "para": "O edital é afixado na porta da casa da última residência que o citando teve no País, seguindo-se a publicação de anúncio em página informática de acesso público, nos termos do artigo 240.º, n.os 1 e 2, CPC; o edital indica o prazo para a defesa, a dilação e a cominação (artigo 241.º, n.º 1, al. c), CPC).",
+    "motivo": "As formalidades da citação edital estão no art. 240.º CPC; o art. 242.º trata da contagem do prazo.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0240&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "**III — CURADOR PROVISÓRIO**\nRequer-se, igualmente, a nomeação de curador provisório ao citando ausente, ao abrigo do artigo 245.º, n.º 1, CPC, para representação nos presentes autos até que seja constituído mandatário ou que o réu compareça.",
+    "para": "**III — DEFESA DO AUSENTE**\nFinda a dilação de 30 dias (artigo 245.º, n.º 3, CPC) e o prazo de defesa sem que o Réu/Requerido compareça ou deduza oposição, requer-se que seja citado o Ministério Público para a defesa do ausente, nos termos do artigo 21.º, n.º 1, CPC, cessando essa representação logo que o ausente ou o seu procurador compareça ou seja constituído mandatário judicial (n.º 3).",
+    "motivo": "Não há curador provisório do ausente citado por éditos; a defesa cabe ao Ministério Público (art. 21.º CPC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0021&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "a) Ordenar a citação edital do Réu/Requerido nos termos supra;\nb) Nomear curador provisório;\nc) Ordenar a publicação do edital no Citius.",
+    "para": "a) [Se ainda não realizadas] Ordenar as diligências do artigo 236.º, n.º 1, CPC;\nb) Frustradas estas, ordenar a citação edital do Réu/Requerido nos termos supra, com afixação do edital e publicação do anúncio (artigo 240.º CPC);\nc) Oportunamente, citar o Ministério Público para a defesa do ausente (artigo 21.º, n.º 1, CPC).",
+    "motivo": "Pedido conforme aos arts. 236.º, 240.º e 21.º CPC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0240&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Diligências de averiguação realizadas e documentadas (art. 241.º, n.º 2, CPC)",
+    "para": "- [ ] Diligências oficiosas do art. 236.º, n.º 1, CPC realizadas ou requeridas, e as do autor documentadas",
+    "motivo": "As diligências estão no art. 236.º CPC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0236&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Curador provisório solicitado (art. 245.º CPC)",
+    "para": "- [ ] Dilação de 30 dias e defesa do ausente pelo Ministério Público referidas (arts. 245.º, n.º 3, e 21.º CPC)",
+    "motivo": "Não há curador provisório; o art. 245.º CPC trata da dilação.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0245&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Documentos comprovativos (sobrecarta devolvida, prints das bases consultadas) juntos",
+    "para": "- [ ] Documentos comprovativos (sobrecarta devolvida, certidões e outros elementos das diligências do autor) juntos",
+    "motivo": "O advogado não consulta as bases de dados do art. 236.º CPC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0236&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- AT (registo de contribuintes): [resultado]\n- Recenseamento eleitoral: [resultado]\n- Cartão de Cidadão / identificação civil: [resultado]\n- Segurança Social: [resultado]\n- Tentativa de citação postal: [resultado]\n- Outras: [registo predial, comercial, etc.]",
+    "para": "- Tentativa de citação postal: [resultado]\n- Consultas oficiosas da secretaria (art. 236.º, n.º 1, CPC — identificação civil, segurança social, AT, IMT): [já feitas / por requerer — resultado]\n- Diligências do autor: [contactos, registo predial, comercial, etc. — resultado]",
+    "motivo": "As consultas às bases de dados são oficiosas (art. 236.º, n.º 1, CPC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0236&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Curador provisório necessário: [sim/não]",
+    "para": "- Ausente com procurador conhecido: [sim/não — art. 21.º, n.º 3, CPC]",
+    "motivo": "Não há curador provisório do citando ausente.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0021&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar no processo o resultado das consultas oficiosas do art. 236.º CPC antes de requerer a citação edital.",
+   "Ponderar o efeito na prescrição: se a citação não se fizer em 5 dias por causa não imputável ao requerente, a prescrição tem-se por interrompida (art. 323.º, n.º 2, CC) [■ VERIFICAR no caso concreto].",
+   "Confirmar a portaria que regula a página informática de publicação dos anúncios."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0236&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0240&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0241&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0242&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0243&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0245&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0021&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0020&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0017&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+  ]
+ },
+ {
+  "codigo": "PRC-045",
+  "veredicto": "corrigida",
+  "resumo": "A ficha fundava a oposição em «art. 731.º, n.º 1, al. g)» e «art. 732.º, n.º 1, al. e)» CPC, exigia que o contracrédito fosse certo e líquido e pedia a suspensão da execução como efeito automático do art. 733.º CPC. O contracrédito para compensação é fundamento da oposição à execução baseada em sentença (art. 729.º, al. h), CPC) e, nos outros títulos, cabe também no art. 731.º CPC; a iliquidez não impede a compensação (art. 847.º, n.º 3, CC); e o recebimento dos embargos só suspende a execução nos casos do art. 733.º, n.º 1, CPC, em regra com caução. Corrigi as regras, a análise, a base legal da peça, os requisitos alegados, o pedido, a checklist e a descrição do índice.",
+  "descricao": "Gera articulado de oposição à execução baseado em compensação de créditos do executado sobre o exequente, ao abrigo dos artigos 729.º, alínea h), e 731.º do CPC e dos artigos 847.º a 856.º do Código Civil, com pedido de extinção total ou parcial da execução.",
+  "descricao_en": "Generates the pleading opposing enforcement based on the set-off of claims held by the debtor against the enforcing creditor, under Articles 729(h) and 731 CPC and Articles 847 to 856 of the Civil Code, seeking full or partial termination of the enforcement proceedings.",
+  "substituicoes": [
+   {
+    "de": "— A compensação exige: crédito do oponente sobre o exequente; homogeneidade; exigibilidade; liquidez (ou possibilidade de liquidação imediata).\n— Distingue se o fundamento é admissível como oposição (art. 731.º CPC) ou se deveria ter sido invocado na ação declarativa.",
+    "para": "— A compensação exige créditos recíprocos, crédito do oponente exigível judicialmente e contra o qual não proceda exceção, perentória ou dilatória, de direito material, e obrigações que tenham por objeto coisas fungíveis da mesma espécie e qualidade (art. 847.º, n.º 1, CC). A iliquidez da dívida não impede a compensação (art. 847.º, n.º 3, CC), que se torna efetiva mediante declaração à outra parte (art. 848.º, n.º 1, CC).\n— Distingue o título: na execução baseada em sentença, o contracrédito para compensação é fundamento próprio de oposição (art. 729.º, al. h), CPC); na execução baseada noutro título, além desse, podem alegar-se quaisquer fundamentos de defesa do processo de declaração (art. 731.º CPC).",
+    "motivo": "Os requisitos da compensação estão no art. 847.º CC, que não exige liquidez; os fundamentos de oposição estão nos arts. 729.º, al. h), e 731.º CPC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0729&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Características do crédito a compensar: certeza, exigibilidade, homogeneidade, liquidez\n- Fundamento de admissibilidade da oposição: art. 731.º CPC (título judicial) ou art. 732.º CPC (título extrajudicial)",
+    "para": "- Características do crédito a compensar: reciprocidade, exigibilidade judicial, fungibilidade e homogeneidade (art. 847.º, n.º 1, CC); a iliquidez não impede a compensação (art. 847.º, n.º 3, CC)\n- Fundamento de admissibilidade da oposição: art. 729.º, al. h), CPC (execução baseada em sentença) ou art. 731.º CPC (execução baseada noutro título)",
+    "motivo": "O art. 732.º CPC regula os termos da oposição; os fundamentos estão nos arts. 729.º e 731.º.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0731&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Artigo 847.º, n.º 1, CC (requisitos: crédito certo, exigível, do mesmo género)",
+    "para": "- Artigo 847.º, n.º 1, CC (requisitos: crédito exigível judicialmente e sem exceção de direito material; obrigações de coisas fungíveis da mesma espécie e qualidade); n.º 3: a iliquidez não impede a compensação",
+    "motivo": "Texto do art. 847.º CC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0847&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Artigo 733.º CPC (efeito suspensivo da oposição)",
+    "para": "- Artigo 733.º CPC (efeito do recebimento dos embargos: a execução só se suspende nos casos do n.º 1, em regra com prestação de caução)",
+    "motivo": "O recebimento dos embargos não suspende, por si, a execução (art. 733.º, n.º 1, CPC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0733&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Pedido de suspensão da execução e extinção da obrigação",
+    "para": "- Pedido de extinção, total ou parcial, da execução e, se for o caso, de suspensão com prestação de caução (art. 733.º, n.º 1, al. a), CPC)",
+    "motivo": "A suspensão depende da caução ou dos outros casos do art. 733.º, n.º 1, CPC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0733&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "nos termos do artigo 731.º, n.º 1, al. g) [ou art. 732.º, n.º 1, al. e)], do CPC e artigo 847.º do Código Civil, alegando:",
+    "para": "nos termos do artigo 729.º, alínea h), do CPC [execução baseada em sentença] [ou do artigo 731.º do CPC, execução baseada noutro título] e do artigo 847.º do Código Civil, alegando:",
+    "motivo": "O art. 731.º CPC não tem números nem alíneas e o art. 732.º regula os termos da oposição; o contracrédito é a al. h) do art. 729.º.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0729&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "— É **certo**: resulta de [documento / sentença / acordo] inequívoco;\n— É **exigível**: venceu-se em [data] / não está sujeito a condição ou prazo;\n— É **do mesmo género** que o crédito exequendo: ambos são pecuniários;\n— É **líquido**: no valor de €[valor] (ou liquidável nos termos do art. 856.º CC).",
+    "para": "— É **exigível judicialmente**: venceu-se em [data], não está sujeito a condição nem a prazo, e contra ele não procede exceção, perentória ou dilatória, de direito material;\n— Tem por objeto **coisa fungível da mesma espécie e qualidade** que o crédito exequendo: ambos são pecuniários;\n— Existe e está provado por [documento / sentença / acordo] (Doc. [X]);\n— O seu montante é de €[valor] [ou: ainda que ilíquido, a iliquidez não impede a compensação — art. 847.º, n.º 3, CC].",
+    "motivo": "Requisitos do art. 847.º CC; a liquidez não é requisito e o art. 856.º CC trata da nulidade ou anulabilidade da compensação.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0847&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "c) Ordenar a suspensão da execução até decisão da oposição (art. 733.º CPC);",
+    "para": "c) [Se o Executado prestar caução, no valor de €[valor] e na modalidade de [■ VERIFICAR], ou se verificar outro caso do n.º 1] Ordenar a suspensão da execução até decisão da oposição (art. 733.º CPC);",
+    "motivo": "O recebimento dos embargos só suspende a execução nos casos do art. 733.º, n.º 1, CPC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0733&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Fundamento admissível (art. 731.º ou 732.º CPC conforme o título)\n- [ ] Requisitos da compensação demonstrados: certeza, exigibilidade, homogeneidade, liquidez (art. 847.º CC)",
+    "para": "- [ ] Fundamento admissível (art. 729.º, al. h), ou art. 731.º CPC, conforme o título)\n- [ ] Requisitos da compensação demonstrados: reciprocidade, exigibilidade judicial, fungibilidade e homogeneidade (art. 847.º CC); a iliquidez não impede (n.º 3)",
+    "motivo": "Fundamentos dos arts. 729.º e 731.º CPC e requisitos do art. 847.º CC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0729&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Efeito suspensivo requerido (art. 733.º CPC)",
+    "para": "- [ ] Suspensão da execução pedida só com caução ou noutro caso do n.º 1 (art. 733.º CPC)",
+    "motivo": "Regime do art. 733.º, n.º 1, CPC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0733&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Tipo de título: [sentença / documento particular / escriptura / etc.]",
+    "para": "- Tipo de título: [sentença / documento particular / escritura / etc.]",
+    "motivo": "Grafia.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0729&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Na execução de sentença, confirmar a jurisprudência atual sobre a al. h) do art. 729.º CPC (contracrédito anterior ao encerramento da discussão, necessidade de prova documental).",
+   "Verificar as exclusões da compensação (art. 853.º CC) e a prescrição do contracrédito (art. 850.º CC).",
+   "Confirmar o valor e a modalidade da caução para obter a suspensão."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0728&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0729&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0731&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0732&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0733&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0847&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0848&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0856&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+  ]
+ },
+ {
+  "codigo": "PRC-047",
+  "veredicto": "corrigida",
+  "resumo": "A ficha seguia o regime revogado do RJPI (Lei n.º 23/2013): inventário só no cartório notarial, peça dirigida ao notário, prazo «antes da aprovação do mapa de partilha» e um pedido de «separação de patrimónios» apoiado no art. 2097.º CC. Desde a Lei n.º 117/2019 o inventário corre no tribunal ou, por escolha ou acordo, no cartório notarial (art. 1083.º CPC); os credores da herança reclamam até à conferência de interessados (art. 1088.º CPC) e o passivo é verificado nos termos do art. 1106.º CPC; a proteção dos credores da herança é a preferência do art. 2070.º CC. Corrigi as regras, a base legal, a peça, o pedido, a checklist, a entrevista e a descrição do índice, que citava o DL n.º 1/2013.",
+  "descricao": "Gera o articulado de reclamação de créditos sobre a herança em processo de inventário, judicial ou notarial, nos termos do CPC na redação da Lei n.º 117/2019, de 13 de setembro (arts. 1085.º, 1088.º e 1106.º), com pedido de reconhecimento e pagamento do crédito e invocação da preferência dos credores da herança sobre os credores pessoais dos herdeiros.",
+  "descricao_en": "Generates the pleading lodging claims against the estate in inventory proceedings (processo de inventário), before the court or a notary, under the CPC as amended by Law No. 117/2019 of 13 September (Articles 1085, 1088 and 1106), seeking recognition and payment of the claim and invoking the priority of the estate's creditors over the heirs' personal creditors.",
+  "substituicoes": [
+   {
+    "de": "— O inventário notarial é tramitado no cartório notarial competente, não no tribunal (regra geral pós-2013).",
+    "para": "— Desde a Lei n.º 117/2019, o inventário corre nos tribunais judiciais ou, à escolha do interessado que o instaura ou por acordo de todos, nos cartórios notariais (art. 1083.º, n.º 2, CPC); é da competência exclusiva dos tribunais nos casos do n.º 1 do art. 1083.º CPC, e o processo instaurado no cartório sem acordo de todos é remetido ao tribunal se o requererem interessados diretos que representem mais de metade da herança (n.º 3). Confirma onde corre o inventário antes de endereçar a peça.",
+    "motivo": "O regime do RJPI (Lei n.º 23/2013) foi revogado pela Lei n.º 117/2019; a competência está no art. 1083.º CPC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A1083&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Prazo para reclamar: antes da aprovação do mapa de partilha\n- Competência: cartório notarial onde corre o inventário\n- Regime da Lei 117/2019 (inventário notarial) vs. inventário judicial (casos excepcionais)",
+    "para": "- Prazo para reclamar: os titulares ativos de encargos da herança podem reclamar os seus direitos até à conferência de interessados, mesmo que não tenham sido relacionados (art. 1088.º, n.º 1, CPC); citados pessoalmente com a advertência legal e sem reclamarem, ficam inibidos de exigir o cumprimento pelos meios judiciais comuns (n.º 2)\n- Competência: tribunal ou cartório notarial onde corre o inventário (art. 1083.º CPC)\n- Regime: CPC, arts. 1082.º e seguintes, na redação da Lei n.º 117/2019; no cartório, o regime do inventário notarial [■ VERIFICAR: normas do inventário notarial aplicáveis à reclamação de créditos]",
+    "motivo": "O prazo é o do art. 1088.º, n.º 1, CPC; o inventário judicial deixou de ser excecional (art. 1083.º CPC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A1088&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Artigo 2097.º CC (direito dos credores à separação de patrimónios)",
+    "para": "- Artigo 2097.º CC (responsabilidade da herança indivisa: os seus bens respondem coletivamente pela satisfação dos respetivos encargos); não há «separação de patrimónios» a pedir: a proteção dos credores da herança é a preferência do art. 2070.º CC",
+    "motivo": "O art. 2097.º CC não prevê a separação de patrimónios.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2097&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- RJPI — Lei n.º 23/2013 (normas procedimentais aplicáveis)",
+    "para": "- CPC, arts. 1085.º, n.º 2, al. b) (intervenção dos credores da herança), 1088.º (reclamação até à conferência de interessados), 1106.º (verificação do passivo) e 1111.º, n.º 3 (deliberação sobre o passivo); o RJPI (Lei n.º 23/2013) foi revogado pela Lei n.º 117/2019",
+    "motivo": "O RJPI foi revogado; a reclamação de créditos rege-se pelo CPC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_revogado.php?nid=1895"
+   },
+   {
+    "de": "- Artigo 2070.º CC (prioridade de pagamento de dívidas sobre a partilha)",
+    "para": "- Artigo 2070.º CC (preferência dos credores da herança sobre os credores pessoais do herdeiro, que se mantém nos cinco anos subsequentes à abertura da sucessão, ainda que a herança tenha sido partilhada)",
+    "motivo": "Conteúdo do art. 2070.º CC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2070&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Pedido de reconhecimento e prioridade de pagamento\n- Eventual pedido de separação de patrimónios (art. 2097.º CC)",
+    "para": "- Pedido de reconhecimento do crédito e de pagamento (dívida vencida reconhecida: pagamento imediato, se o credor o exigir — art. 1106.º, n.º 5, CPC)\n- Invocação da preferência dos credores da herança sobre os credores pessoais dos herdeiros (art. 2070.º CC)",
+    "motivo": "Verificação e pagamento do passivo (art. 1106.º CPC); o art. 2097.º CC não prevê separação de patrimónios.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A1106&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "**AO EXMO. SENHOR NOTÁRIO DO CARTÓRIO NOTARIAL DE [LOCALIDADE]**",
+    "para": "**[EXMO. SENHOR JUIZ DE DIREITO DO [JUÍZO] DE [COMARCA] / EXMO. SENHOR NOTÁRIO DO CARTÓRIO NOTARIAL DE [LOCALIDADE]] [■ VERIFICAR: onde corre o inventário]**",
+    "motivo": "O inventário pode correr no tribunal ou no cartório (art. 1083.º CPC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A1083&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "vem reclamar crédito sobre a herança aberta por óbito de [nome do inventariado], nos termos seguintes:",
+    "para": "vem, nos termos dos artigos 1085.º, n.º 2, alínea b), e 1088.º, n.º 1, do Código de Processo Civil, reclamar crédito sobre a herança aberta por óbito de [nome do inventariado], nos termos seguintes:",
+    "motivo": "Base legal da intervenção e da reclamação dos credores da herança.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A1085&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "Nos termos dos artigos 2068.º e 2070.º do Código Civil, as dívidas do falecido são da responsabilidade da herança e devem ser pagas com prioridade sobre a partilha do ativo pelos herdeiros.",
+    "para": "Nos termos dos artigos 2068.º e 2070.º do Código Civil, a herança responde pelo pagamento das dívidas do falecido, e os credores da herança gozam de preferência sobre os credores pessoais dos herdeiros, preferência que se mantém nos cinco anos subsequentes à abertura da sucessão, ainda que a herança tenha sido partilhada. No inventário, as dívidas são deduzidas ao ativo na formação do mapa da partilha (artigo 1120.º, n.º 3, do Código de Processo Civil).",
+    "motivo": "Conteúdo dos arts. 2068.º e 2070.º CC e do art. 1120.º, n.º 3, CPC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2070&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "**IV — PEDIDO DE SEPARAÇÃO DE PATRIMÓNIOS** *(se aplicável)*\nCaso os herdeiros sejam devedores e haja risco de confusão de patrimónios, requer-se a separação ao abrigo do artigo 2097.º do Código Civil.",
+    "para": "**IV — DA PREFERÊNCIA DO RECLAMANTE** *(se aplicável)*\nSendo os herdeiros devedores de terceiros, o Reclamante, como credor da herança, prevalece sobre os credores pessoais destes quanto aos bens hereditários (artigo 2070.º, n.os 1 e 3, do Código Civil). Não há lugar a um pedido autónomo de «separação de patrimónios»: os bens da herança indivisa respondem coletivamente pelos respetivos encargos (artigo 2097.º do Código Civil).",
+    "motivo": "O art. 2097.º CC não prevê a separação de patrimónios; a proteção dos credores da herança é a preferência do art. 2070.º CC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2097&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "b) Ordenar o seu pagamento com prioridade sobre a distribuição do ativo hereditário (art. 2070.º CC);\nc) [Se aplicável] Decretar a separação de patrimónios;\nd) Notificar o cabeça-de-casal e demais interessados.",
+    "para": "b) Ordenar o seu pagamento imediato, por se tratar de dívida vencida (artigo 1106.º, n.os 5 a 7, do CPC), ou, não sendo reconhecido por todos os interessados, apreciar a sua existência e montante pelos documentos juntos (artigo 1106.º, n.º 3, do CPC), com a preferência do art. 2070.º CC;\nc) Notificar o cabeça-de-casal e demais interessados.",
+    "motivo": "Verificação e pagamento do passivo no inventário (art. 1106.º CPC); não há separação de patrimónios a decretar.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A1106&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Pedido apresentado antes da aprovação do mapa de partilha\n- [ ] Cartório notarial corretamente identificado\n- [ ] Separação de patrimónios analisada (art. 2097.º CC)",
+    "para": "- [ ] Reclamação apresentada até à conferência de interessados (art. 1088.º, n.º 1, CPC)\n- [ ] Tribunal ou cartório notarial onde corre o inventário corretamente identificado (art. 1083.º CPC)\n- [ ] Preferência dos credores da herança invocada, se houver credores pessoais dos herdeiros (art. 2070.º CC)",
+    "motivo": "Prazo do art. 1088.º, n.º 1, CPC e competência do art. 1083.º CPC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A1088&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Cartório notarial: [localidade]",
+    "para": "- Tribunal ou cartório notarial onde corre: [identificação]",
+    "motivo": "O inventário pode correr no tribunal (art. 1083.º CPC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A1083&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Separação de patrimónios necessária: [sim/não]",
+    "para": "- Credores pessoais dos herdeiros conhecidos: [sim/não]",
+    "motivo": "Relevante para a preferência do art. 2070.º CC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2070&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar se o inventário foi instaurado antes de 1 de janeiro de 2020 em cartório notarial: o RJPI pode continuar a aplicar-se aos processos pendentes [■ VERIFICAR: norma transitória da Lei n.º 117/2019].",
+   "No inventário notarial, conferir as normas do regime do inventário notarial sobre a reclamação de créditos.",
+   "Se a dívida não for reconhecida nem decidida pelos documentos, ponderar a ação comum e o prazo de cinco anos da preferência (art. 2070.º, n.º 3, CC)."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A1083&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A1085&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A1088&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A1104&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A1106&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A1111&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A1120&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2068&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2070&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2071&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2097&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_revogado.php?nid=1895",
+   "https://diariodarepublica.pt/dr/detalhe/lei/117-2019-124680589"
+  ]
+ },
+ {
+  "codigo": "PRC-048",
+  "veredicto": "corrigida",
+  "resumo": "A ficha afirmava que o despacho que admite prova ilegal é recorrível e que o que indefere prova só é impugnável com a sentença, mandava formular uma «reserva de recurso» e situava a reclamação no art. 151.º CPC (marcação de diligências). O despacho de admissão ou de rejeição de meio de prova admite apelação autónoma, em 15 dias (arts. 644.º, n.º 2, al. d), e 638.º, n.º 1, CPC), e, proferido o despacho, o juiz não o pode revogar a pedido da parte (art. 613.º CPC). Corrigi as regras, a análise, a base legal, a estrutura, a reserva de recurso, o exemplo do mútuo (art. 1143.º CC), o requisito do art. 423.º, n.º 3, CPC, a checklist, a entrevista e a descrição do índice.",
+  "descricao": "Gera a reclamação contra o despacho que admitiu ou rejeitou meio de prova requerido pela parte (oposição no próprio ato ou em requerimento, arguição de nulidade ou pedido de reforma), com fundamento em violação das regras de admissibilidade ou dos direitos de prova, e alerta para a apelação autónoma desse despacho, em 15 dias (arts. 644.º, n.º 2, al. d), e 638.º, n.º 1, do CPC).",
+  "descricao_en": "Generates the complaint against an order admitting or rejecting evidence requested by a party (objection at the hearing or in an application, plea of nullity or request for amendment), on the grounds of breach of the rules on admissibility or of evidentiary rights, and flags the separate appeal against that order, within 15 days (Articles 644(2)(d) and 638(1) CPC).",
+  "substituicoes": [
+   {
+    "de": "— A reclamação é deduzida no próprio ato de audiência (art. 151.º, n.º 3, CPC) ou em requerimento em 10 dias; distinguir os dois momentos.\n— O despacho que admite prova ilegal é recorrível; o que indefere prova é recorrível apenas conjuntamente com o recurso da sentença.",
+    "para": "— Antes da decisão, a oposição ao meio de prova faz-se no requerimento de resposta (prazo geral de 10 dias — art. 149.º, n.º 1, CPC) ou, em audiência, no próprio ato, com registo em ata; a nulidade cometida em ato a que a parte assista pode ser arguida enquanto o ato não terminar (art. 199.º, n.º 1, CPC). Proferido o despacho, fica esgotado o poder jurisdicional do juiz sobre a matéria, salvo retificação de erros materiais, suprimento de nulidades e reforma (art. 613.º, n.os 1 a 3, CPC).\n— O despacho de admissão ou de rejeição de algum meio de prova admite apelação autónoma (art. 644.º, n.º 2, al. d), CPC), no prazo de 15 dias (art. 638.º, n.º 1, CPC); não fica para o recurso da sentença, que só abrange as restantes decisões (art. 644.º, n.º 3, CPC) [■ VERIFICAR: jurisprudência sobre a preclusão quando o despacho não é logo impugnado].",
+    "motivo": "Ambos os despachos (admissão e rejeição de meio de prova) admitem apelação autónoma em 15 dias; o art. 151.º CPC trata da marcação de diligências.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0644&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Forma de reclamação: no ato (art. 151.º, n.º 3, CPC) ou em requerimento posterior\n- Admissibilidade do recurso imediato: despachos que admitem prova ilegalmente são recorríveis (art. 630.º, n.º 2, CPC); os que indeferem, apenas com a sentença",
+    "para": "- Forma: oposição antes da decisão (requerimento de resposta ou, em audiência, no próprio ato, com registo em ata — arts. 149.º, n.º 1, e 199.º, n.º 1, CPC); depois do despacho, o meio próprio é o recurso\n- Recurso: o despacho de admissão ou de rejeição de meio de prova admite apelação autónoma, em 15 dias (arts. 644.º, n.º 2, al. d), e 638.º, n.º 1, CPC); se o despacho for de simplificação, agilização ou adequação formal, só é recorrível se contender com a admissibilidade de meios probatórios ou com os princípios da igualdade ou do contraditório (art. 630.º, n.º 2, CPC)",
+    "motivo": "O art. 630.º, n.º 2, CPC não funda a recorribilidade geral dos despachos sobre prova; a apelação autónoma está no art. 644.º, n.º 2, al. d).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0630&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Artigo 630.º, n.º 2, CPC (recorribilidade de despachos de gestão probatória)\n- Artigo 151.º CPC (reclamações na audiência)",
+    "para": "- Artigo 630.º, n.º 2, CPC (despachos de simplificação, agilização ou adequação formal: recorríveis se contenderem com a admissibilidade de meios probatórios)\n- Artigos 644.º, n.º 2, al. d), e 638.º, n.º 1, CPC (apelação autónoma do despacho de admissão ou rejeição de meio de prova, em 15 dias)\n- Artigos 149.º, 195.º e 199.º CPC (prazo geral; nulidades; arguição no próprio ato)\n- Artigo 613.º CPC (esgotamento do poder jurisdicional, aplicável aos despachos)",
+    "motivo": "O art. 151.º CPC trata da marcação e início pontual das diligências; o regime relevante está nos arts. 644.º, 638.º, 199.º e 613.º CPC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0613&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Pedido de revogação ou retificação\n- Reserva de recurso para a sentença (se o despacho não for imediatamente recorrível)",
+    "para": "- Pedido: antes do despacho, indeferimento ou admissão do meio de prova; depois dele, só retificação, suprimento de nulidade ou reforma (art. 613.º, n.º 2, CPC) — para a revogação, apelação autónoma\n- Sem «reserva de recurso para a sentença»: contar logo os 15 dias da apelação autónoma (art. 638.º, n.º 1, CPC)",
+    "motivo": "O despacho sobre meio de prova não é impugnável só com a sentença (art. 644.º, n.os 2, al. d), e 3, CPC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0638&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "### ETAPA 4 — A PEÇA PROCESSUAL",
+    "para": "### ETAPA 4 — A PEÇA PROCESSUAL\n\n[Antes de usar esta peça: proferido o despacho, o juiz não o pode revogar a pedido da parte (art. 613.º, n.os 1 e 3, CPC). A peça serve para a oposição deduzida antes da decisão, para a arguição de nulidade ou para o pedido de retificação ou reforma. Para a revogação do despacho de admissão ou rejeição de meio de prova, interpor apelação autónoma no prazo de 15 dias (arts. 644.º, n.º 2, al. d), e 638.º, n.º 1, CPC), sem esperar pela resposta a esta peça. ■ VERIFICAR: efeito da reclamação sobre o prazo do recurso.]",
+    "motivo": "Esgotamento do poder jurisdicional quanto aos despachos e apelação autónoma do despacho sobre meio de prova.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0613&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "contrato de mútuo acima de €25.000, sujeito a forma escrita nos termos do art. 1143.º CC",
+    "para": "contrato de mútuo de valor superior a €2.500, que só é válido se constar de documento assinado pelo mutuário — e, acima de €25.000, de escritura pública ou documento particular autenticado —, nos termos do art. 1143.º CC",
+    "motivo": "O art. 1143.º CC exige documento assinado pelo mutuário acima de €2.500 e escritura ou documento particular autenticado acima de €25.000.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1143&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "foi obtido após o encerramento da discussão [ou: a necessidade de juntá-lo só surgiu com o despacho de [data]] — art. 423.º, n.º 3, CPC —",
+    "para": "não pôde ser apresentado até 20 dias antes da data da audiência final [ou: a sua apresentação tornou-se necessária em virtude de ocorrência posterior — o despacho de [data]] — art. 423.º, n.º 3, CPC —",
+    "motivo": "O art. 423.º, n.º 3, CPC refere-se ao limite de 20 dias antes da audiência final; depois do encerramento da discussão só se admitem documentos em recurso (art. 425.º CPC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0423&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "**IV — RESERVA DE RECURSO**\n*(para despacho que indefere prova, não imediatamente recorrível)*\nSem prejuízo do exposto, o reclamante reserva o direito de impugnar o presente despacho em sede do recurso da sentença final, ao abrigo do artigo 630.º, n.º 1, CPC.",
+    "para": "**IV — RECURSO**\n*(nota interna, não incluir na peça)*\nO despacho de admissão ou de rejeição de meio de prova admite apelação autónoma, a interpor no prazo de 15 dias a contar da notificação (artigos 644.º, n.º 2, alínea d), e 638.º, n.º 1, CPC); não há «reserva» para o recurso da sentença final. [■ VERIFICAR: efeito desta reclamação sobre o prazo do recurso]",
+    "motivo": "A reserva de recurso não tem base legal e faria perder o prazo da apelação autónoma.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0644&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Despacho reclamado précisamente identificado (data e objeto)",
+    "para": "- [ ] Despacho reclamado precisamente identificado (data e objeto)",
+    "motivo": "Grafia.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0644&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Distinção entre despacho imediatamente recorrível (admite prova ilegal) e não imediatamente recorrível (indefere prova legal)\n- [ ] Reserva de recurso formulada quando aplicável",
+    "para": "- [ ] Prazo de 15 dias da apelação autónoma contado e acautelado, quer o despacho admita quer rejeite o meio de prova (arts. 644.º, n.º 2, al. d), e 638.º, n.º 1, CPC)\n- [ ] Pedido ao próprio juiz dentro dos limites do art. 613.º CPC (retificação, nulidade, reforma)",
+    "motivo": "Ambos os despachos admitem apelação autónoma em 15 dias.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0638&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Recurso imediato possível: [sim/não]",
+    "para": "- Data da notificação do despacho (conta o prazo de 15 dias da apelação autónoma): [data]",
+    "motivo": "O despacho sobre meio de prova admite sempre apelação autónoma (art. 644.º, n.º 2, al. d), CPC), salvo alçada.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0644&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar a admissibilidade do recurso em função do valor da causa e da sucumbência (alçada).",
+   "Confirmar na jurisprudência se a reclamação ou a arguição de nulidade dirigida ao juiz interfere no prazo de 15 dias da apelação autónoma.",
+   "No caso C, confirmar se a junção foi requerida antes ou depois dos 20 dias anteriores à audiência final e se houve condenação em multa (art. 423.º, n.º 2, CPC)."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0644&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0638&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0630&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0151&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0149&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0195&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0199&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0613&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0423&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1143&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+  ]
+ },
+ {
+  "codigo": "PRC-052",
+  "veredicto": "corrigida",
+  "resumo": "A ficha exigia ao sócio requerente mais de 10 % do capital e fundava a nomeação do administrador judicial provisório no art. 257.º, n.º 5, CSC. Na sociedade por quotas, existindo justa causa, qualquer sócio pode requerer a suspensão e a destituição do gerente (art. 257.º, n.º 4, CSC), em processo no qual o pedido de suspensão é decidido imediatamente (art. 1055.º CPC); o n.º 5 trata das sociedades com dois sócios, o limiar de 10 % é o das sociedades anónimas (art. 403.º, n.º 3, CSC) e o CSC não prevê administrador provisório. Corrigi a legitimidade, a base legal, a competência (juízos de comércio, art. 128.º LOSJ), o prazo de caducidade (art. 373.º CPC), a peça, a checklist e a descrição do índice, deixando marcada a admissibilidade da providência.",
+  "descricao": "Gera o requerimento de providência cautelar não especificada de suspensão do gerente e nomeação de administrador judicial provisório, como preliminar ou incidente da ação de suspensão e destituição judicial de gerente (art. 257.º, n.º 4, do CSC; art. 1055.º do CPC), ao abrigo dos artigos 362.º e ss. do CPC (Lei n.º 41/2013), com fundamento em prejuízo grave para a sociedade.",
+  "descricao_en": "Generates the application for an unspecified interim measure suspending a manager and appointing a provisional judicial administrator, as a preliminary step or incident of the action for the suspension and judicial removal of a manager (Article 257(4) CSC; Article 1055 CPC), under Articles 362 et seq. CPC (Law No. 41/2013), on the grounds of serious harm to the company.",
+  "substituicoes": [
+   {
+    "de": "— A nomeação de administrador judicial provisório é providência cautelar, não a destituição em si.\n— Distingue a ação principal (destituição judicial) da providência cautelar (administrador provisório).",
+    "para": "— A nomeação de administrador judicial provisório é providência cautelar, não a destituição em si; o CSC não a prevê para a destituição de gerentes, pelo que só pode pedir-se como providência cautelar não especificada (arts. 362.º e ss. CPC) [■ VERIFICAR: admissibilidade desta providência e jurisprudência].\n— Distingue a ação principal (suspensão e destituição judicial do gerente, em ação intentada contra a sociedade — art. 257.º, n.º 4, CSC —, com o processo do art. 1055.º CPC, em que o pedido de suspensão do cargo é decidido imediatamente, n.º 2) da providência cautelar (administrador provisório). Se faltarem todos os gerentes, os sócios assumem por lei a gerência (art. 253.º, n.º 1, CSC); a nomeação judicial de gerente só cabe nos casos do art. 253.º, n.º 3, CSC (art. 1053.º CPC).",
+    "motivo": "O CSC não prevê administrador provisório na destituição de gerente; a suspensão é pedida no processo do art. 1055.º CPC e a nomeação judicial de gerente segue o art. 253.º CSC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A1055&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Legitimidade: sócio com mais de 10% do capital (art. 257.º, n.º 5, CSC)\n- Tribunal competente (juízo de comércio ou cível conforme comarca)",
+    "para": "- Legitimidade: qualquer sócio, existindo justa causa (art. 257.º, n.º 4, CSC); na sociedade com dois sócios, a destituição por justa causa só pelo tribunal pode ser decidida (art. 257.º, n.º 5, CSC); o limiar de 10 % do capital é o da destituição judicial de administrador de sociedade anónima (art. 403.º, n.º 3, CSC)\n- Tribunal competente: juízo de comércio, competente para as ações relativas ao exercício de direitos sociais e respetivos incidentes e apensos (art. 128.º, n.os 1, al. c), e 3, da Lei n.º 62/2013) [■ VERIFICAR: juízo de comércio com competência na comarca]",
+    "motivo": "Na sociedade por quotas qualquer sócio tem legitimidade (art. 257.º, n.º 4, CSC); os 10 % são da sociedade anónima (art. 403.º, n.º 3).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0257&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Artigo 257.º, n.ºs 3, 4, 5 e 6, CSC (destituição judicial e administrador provisório)",
+    "para": "- Artigo 257.º, n.ºs 3, 4, 5 e 6, CSC (suspensão e destituição judicial de gerente; o preceito não prevê administrador provisório)\n- Artigos 1053.º a 1055.º CPC (nomeação judicial de titulares de órgãos sociais; suspensão e destituição)\n- Artigo 253.º CSC (substituição de gerentes; nomeação judicial de gerente)\n- Artigo 403.º, n.º 3, CSC (sociedades anónimas: acionistas com 10 % do capital)",
+    "motivo": "O art. 257.º CSC não prevê administrador provisório; o processo está nos arts. 1053.º a 1055.º CPC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0253&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "**AO JUÍZO [CENTRAL CÍVEL / DE COMÉRCIO] DE [COMARCA]**",
+    "para": "**AO JUÍZO DE COMÉRCIO DE [COMARCA]** [■ VERIFICAR: juízo competente na comarca]",
+    "motivo": "As ações relativas ao exercício de direitos sociais e os seus incidentes cabem aos juízos de comércio (art. 128.º, n.os 1, al. c), e 3, LOSJ).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1974A0128&nid=1974&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "vem, ao abrigo do artigo 257.º, n.º 5, do Código das Sociedades Comerciais e dos artigos 362.º e ss. do CPC, requerer",
+    "para": "vem, como preliminar [ou incidente] da ação de suspensão e destituição judicial do gerente (artigo 257.º, n.º 4, do Código das Sociedades Comerciais; artigo 1055.º do CPC), ao abrigo dos artigos 362.º e ss. do CPC, requerer",
+    "motivo": "O art. 257.º, n.º 5, CSC trata das sociedades com dois sócios e não prevê a nomeação de administrador provisório.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0257&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "**PROVIDÊNCIA CAUTELAR DE NOMEAÇÃO DE ADMINISTRADOR JUDICIAL PROVISÓRIO**",
+    "para": "**PROVIDÊNCIA CAUTELAR NÃO ESPECIFICADA DE SUSPENSÃO DO GERENTE E NOMEAÇÃO DE ADMINISTRADOR JUDICIAL PROVISÓRIO** [■ VERIFICAR: admissibilidade; em alternativa, pedir a suspensão do cargo na própria ação de destituição — artigo 1055.º, n.º 2, do CPC]",
+    "motivo": "A providência não tem previsão específica no CSC; o pedido de suspensão é decidido imediatamente no processo do art. 1055.º CPC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A1055&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "para exercer a administração provisória da sociedade nos termos do art. 257.º, n.º 5, CSC.",
+    "para": "para exercer a administração provisória da sociedade [■ VERIFICAR: base legal — o art. 257.º CSC não prevê administrador provisório; a nomeação só como providência não especificada (art. 362.º CPC) ou, faltando definitivamente o gerente, como nomeação judicial de gerente (art. 253.º, n.º 3, CSC; art. 1053.º CPC)].",
+    "motivo": "O art. 257.º, n.º 5, CSC não prevê administrador provisório.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0253&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Legitimidade do requerente verificada (mais de 10% do capital — art. 257.º, n.º 5, CSC)",
+    "para": "- [ ] Legitimidade do requerente verificada (qualquer sócio, existindo justa causa — art. 257.º, n.º 4, CSC)",
+    "motivo": "Não há limiar de capital na sociedade por quotas.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0257&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Articulação com a ação principal de destituição (a instaurar em 30 dias)\n- [ ] Tribunal competente identificado",
+    "para": "- [ ] Articulação com a ação principal de destituição (a propor nos 30 dias contados da notificação do trânsito em julgado da decisão que ordenar a providência, sob pena de caducidade — art. 373.º, n.º 1, al. a), CPC)\n- [ ] Tribunal competente identificado (juízo de comércio — art. 128.º, n.º 1, al. c), da Lei n.º 62/2013)",
+    "motivo": "Prazo de caducidade do art. 373.º, n.º 1, al. a), CPC e competência do art. 128.º LOSJ.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0373&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar na jurisprudência a admissibilidade da nomeação de administrador judicial provisório como providência não especificada, face ao pedido de suspensão previsto no art. 1055.º, n.º 2, CPC.",
+   "Na sociedade anónima, a destituição judicial de administrador exige 10 % do capital e segue o art. 403.º, n.º 3, CSC.",
+   "Confirmar o juízo de comércio competente na comarca e se a ação principal deve ser intentada contra a sociedade (art. 257.º, n.º 4, CSC)."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0253&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0257&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0403&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A1053&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A1055&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0362&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0366&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0368&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0373&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1974A0128&nid=1974&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+  ]
+ },
+ {
+  "codigo": "PRC-056",
+  "veredicto": "corrigida",
+  "resumo": "A ficha tratava a defesa na AECOP como «oposição» no prazo do art. 6.º do regime anexo ao DL 269/98 (revogado) e pedia a conversão em processo comum ao abrigo do art. 10.º (que regula o requerimento de injunção). Na AECOP o réu contesta em 15 ou 20 dias, conforme o valor (art. 1.º, n.º 2, do regime anexo), e a ação segue os seus próprios termos (arts. 3.º e 4.º); a oposição à injunção é de 15 dias (art. 12.º, n.º 1) e os autos seguem a AECOP (art. 17.º), salvo nas transações comerciais acima de metade da alçada da Relação, que seguem o processo comum (art. 10.º, n.º 2, do DL 62/2013). Corrigi também a exceção de não cumprimento (art. 428.º CC), os prazos de prescrição (arts. 309.º, 310.º, 316.º e 317.º CC) e o pedido de condenação na compensação, deixando marcada a via processual da compensação nesta forma de processo.",
+  "titulo": "Ação Especial para Cumprimento de Obrigações Pecuniárias (AECOP) — Contestação e Oposição à Injunção",
+  "titulo_en": "Special Action for the Performance of Pecuniary Obligations (AECOP) — Defence and Opposition to an Order for Payment",
+  "descricao": "Gera a contestação do réu citado na ação especial para cumprimento de obrigações pecuniárias emergentes de contratos (art. 1.º, n.º 2, do regime anexo ao Decreto-Lei n.º 269/98, de 1 de setembro) ou a oposição ao requerimento de injunção (art. 12.º do mesmo regime), com os fundamentos de defesa admissíveis e a indicação da forma que os autos seguem (AECOP ou, nas transações comerciais de valor superior a metade da alçada da Relação, processo comum).",
+  "descricao_en": "Generates the defence of a defendant served in the special action for the performance of pecuniary obligations arising from contracts (Article 1(2) of the regime annexed to Decree-Law No. 269/98 of 1 September) or the opposition to an order-for-payment application (Article 12 of that regime), with the admissible grounds of defence and an indication of the procedure that follows (AECOP or, in commercial transactions above half the Court of Appeal threshold, the ordinary procedure).",
+  "substituicoes": [
+   {
+    "de": "— A AECOP é distinta da injunção (Anexo ao DL 269/98) e da ação executiva; clarificar em qual das modalidades o caso se enquadra.\n— A oposição converte o processo em ação declarativa comum se os fundamentos o justificarem.",
+    "para": "— A AECOP (ação declarativa especial do capítulo I do regime anexo ao DL 269/98) é distinta da injunção (capítulo II do mesmo regime) e da ação executiva; clarificar em qual das modalidades o caso se enquadra.\n— Na AECOP proposta diretamente, o réu contesta no prazo de 15 dias, se o valor da ação não exceder a alçada do tribunal de 1.ª instância, ou de 20 dias, nos restantes casos (art. 1.º, n.º 2, do regime anexo), e a ação segue os termos da própria AECOP (arts. 3.º e 4.º do regime anexo): não há conversão em processo comum.\n— Na injunção, o requerido deduz oposição em 15 dias (art. 12.º, n.º 1, do regime anexo); os autos vão à distribuição (art. 16.º) e seguem os termos da AECOP (art. 17.º, n.º 1), salvo nas transações comerciais de valor superior a metade da alçada da Relação, em que seguem a forma de processo comum (art. 10.º, n.º 2, do DL 62/2013).",
+    "motivo": "Na AECOP há contestação e não conversão; a remessa para processo comum só existe na injunção por transação comercial acima de metade da alçada da Relação.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=574&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Modalidade: AECOP proposta diretamente no tribunal (DL 269/98) ou injunção convertida\n- Prazo de oposição: 15 dias após citação\n- Fundamentos de oposição disponíveis (exceções peremptórias ou dilatórias)\n- Transferência para ação declarativa comum se houver oposição (art. 10.º, n.º 1, do Anexo)",
+    "para": "- Modalidade: AECOP proposta diretamente no tribunal (DL 269/98) ou injunção a que se deduz oposição\n- Prazo: contestação na AECOP em 15 ou 20 dias após a citação, conforme o valor (art. 1.º, n.º 2, do regime anexo); oposição à injunção em 15 dias após a notificação (art. 12.º, n.º 1, do regime anexo); sem dilação (art. 4.º do diploma preambular)\n- Fundamentos de defesa disponíveis (exceções perentórias ou dilatórias)\n- Forma subsequente: AECOP (arts. 3.º, 4.º e 17.º do regime anexo) ou, na injunção por transação comercial de valor superior a metade da alçada da Relação, processo comum (art. 10.º, n.º 2, do DL 62/2013)",
+    "motivo": "Prazos dos arts. 1.º, n.º 2, e 12.º, n.º 1, do regime anexo e art. 4.º do diploma preambular; o art. 10.º do regime anexo regula o requerimento de injunção.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=574&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Artigo 6.º do Anexo ao DL 269/98 (citação e prazo de oposição)\n- Artigo 10.º do Anexo (conversão em processo comum após oposição)",
+    "para": "- Artigo 1.º, n.os 2 e 3, do regime anexo ao DL 269/98 (prazo da contestação; dispensa da forma articulada) e artigos 3.º e 4.º (termos posteriores e audiência; até três ou cinco testemunhas)\n- Artigos 12.º, n.º 1, 16.º e 17.º do regime anexo (oposição à injunção, distribuição e termos subsequentes) e artigo 10.º, n.º 2, do DL 62/2013 (transações comerciais)",
+    "motivo": "O art. 6.º do regime anexo está revogado e o art. 10.º regula o requerimento de injunção.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=574&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Pedido de conversão em ação comum e prosseguimento",
+    "para": "- Prova: na AECOP, as provas são oferecidas na audiência (art. 3.º, n.º 4, do regime anexo)",
+    "motivo": "Não há conversão em ação comum na AECOP.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=574&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "vem, no prazo do artigo 6.º do Anexo ao Decreto-Lei n.º 269/98, de 1 de setembro, deduzir\n\n**OPOSIÇÃO À AECOP**",
+    "para": "vem, no prazo do artigo 1.º, n.º 2, do regime anexo ao Decreto-Lei n.º 269/98, de 1 de setembro, apresentar a sua\n\n**CONTESTAÇÃO**\n\n[Na injunção: «… notificado nos termos do artigo 12.º, n.º 1, do regime anexo ao Decreto-Lei n.º 269/98, de 1 de setembro, vem deduzir OPOSIÇÃO ao requerimento de injunção»]",
+    "motivo": "Na AECOP o réu contesta (art. 1.º, n.º 2, do regime anexo); a oposição é a da injunção (art. 12.º, n.º 1).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=574&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "Tendo o Autor incumprido, o Réu não está obrigado a pagar o preço (art. 428.º CC).",
+    "para": "Não havendo prazos diferentes para o cumprimento das prestações, o Réu pode recusar o pagamento do preço enquanto o Autor não efetuar a sua prestação ou não oferecer o seu cumprimento simultâneo (art. 428.º CC).",
+    "motivo": "A exceção de não cumprimento só permite recusar a prestação enquanto a outra parte não cumprir (art. 428.º, n.º 1, CC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0428&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "por decurso do prazo de [2/5/20] anos previsto no artigo [306.º / 309.º / 310.º] do Código Civil, contado desde [facto interruptivo ou início do prazo].",
+    "para": "por decurso do prazo de [20 anos — artigo 309.º / 5 anos — artigo 310.º / prescrição presuntiva de 6 meses ou 2 anos — artigos 316.º e 317.º] do Código Civil, contado desde [o momento em que o direito pôde ser exercido — artigo 306.º do Código Civil — ou o último facto interruptivo]. [Prescrição presuntiva: funda-se na presunção de cumprimento, que só pode ser ilidida por confissão do devedor (artigos 312.º e 313.º do Código Civil); o Réu alega que pagou e não pode praticar em juízo atos incompatíveis com a presunção (artigo 314.º do Código Civil).]",
+    "motivo": "O art. 306.º CC fixa o início do prazo e não um prazo; o prazo de 2 anos é de prescrição presuntiva (arts. 312.º a 317.º CC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0317&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "certo, vencido e do mesmo género (Doc. [Z]). Nos termos do artigo 847.º CC, declara o Réu compensar esse crédito com o peticionado, extinguindo-se a obrigação até €[menor dos dois valores].",
+    "para": "judicialmente exigível e com objeto fungível da mesma espécie e qualidade (Doc. [Z]). Nos termos dos artigos 847.º e 848.º do Código Civil, declara o Réu compensar esse crédito com o peticionado, extinguindo-se a obrigação até €[menor dos dois valores]. [■ VERIFICAR: via processual da compensação nesta forma de processo — no processo comum, o reconhecimento do crédito para compensação deduz-se em reconvenção (art. 266.º, n.º 2, al. c), CPC); a admissibilidade da reconvenção na AECOP não foi confirmada]",
+    "motivo": "Requisitos do art. 847.º CC; no CPC, o crédito para compensação deduz-se em reconvenção (art. 266.º, n.º 2, al. c)).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0266&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "**V — CONVERSÃO EM PROCESSO COMUM**\nNos termos do artigo 10.º, n.º 1, do Anexo ao DL 269/98, a presente oposição determina a conversão da AECOP em processo declarativo comum, com a necessária instrução.",
+    "para": "**V — PROVA E TERMOS SUBSEQUENTES**\nNa AECOP, as provas são oferecidas na audiência, podendo cada parte apresentar até três testemunhas, se o valor da ação não exceder a alçada do tribunal de 1.ª instância, ou até cinco, nos restantes casos (artigo 3.º, n.º 4, do regime anexo ao DL 269/98). [Na injunção: deduzida a oposição, os autos são apresentados à distribuição (artigo 16.º, n.º 1) e seguem os termos da AECOP (artigo 17.º, n.º 1) ou, tratando-se de transação comercial de valor superior a metade da alçada da Relação, a forma de processo comum (artigo 10.º, n.º 2, do DL 62/2013).]",
+    "motivo": "A contestação não converte a AECOP em processo comum; o art. 10.º do regime anexo regula o requerimento de injunção.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=574&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "b) [Subsidiariamente] Condenar o Autor a pagar ao Réu a compensação declarada no valor de €[valor];\nc) Prosseguir o processo segundo os termos da ação declarativa comum.",
+    "para": "b) [Subsidiariamente] Julgar extinto, por compensação, o crédito do Autor até ao montante do contracrédito do Réu, de €[valor] [a condenação do Autor no excesso só por reconvenção — ■ VERIFICAR: admissibilidade nesta forma de processo];\nc) [Na injunção por transação comercial de valor superior a metade da alçada da Relação] Seguir os autos a forma de processo comum (artigo 10.º, n.º 2, do DL 62/2013).",
+    "motivo": "A compensação extingue os créditos até à concorrência e não gera condenação; não há conversão da AECOP em processo comum.",
+    "fonte": "https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2013-261160"
+   },
+   {
+    "de": "- [ ] Prazo de 15 dias após citação respeitado (art. 6.º Anexo DL 269/98)",
+    "para": "- [ ] Prazo respeitado: 15 ou 20 dias após a citação, conforme o valor (art. 1.º, n.º 2, do regime anexo ao DL 269/98); na injunção, 15 dias após a notificação (art. 12.º, n.º 1)",
+    "motivo": "Prazos dos arts. 1.º, n.º 2, e 12.º, n.º 1, do regime anexo.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=574&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Pedido de conversão em processo comum formulado",
+    "para": "- [ ] Forma subsequente confirmada (AECOP ou, na injunção por transação comercial acima de metade da alçada da Relação, processo comum), sem pedido de «conversão»",
+    "motivo": "Não há conversão da AECOP em processo comum.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=574&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar a via processual da compensação na AECOP (exceção ou reconvenção) e a jurisprudência sobre a admissibilidade da reconvenção nesta forma de processo.",
+   "Confirmar o valor da causa face à alçada (5.000 €) para fixar o prazo de 15 ou 20 dias e o número de testemunhas.",
+   "Na injunção, confirmar se a obrigação emerge de transação comercial entre empresas (DL 62/2013) e o valor, para saber a forma que os autos seguem."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=574&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2013-261160",
+   "https://trc.pt/?p=34237",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0306&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0309&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0310&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0312&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0316&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0317&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0428&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0847&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0848&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0266&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+  ]
+ }
+]

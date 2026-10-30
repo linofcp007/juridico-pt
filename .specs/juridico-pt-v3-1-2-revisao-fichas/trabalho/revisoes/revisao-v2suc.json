@@ -1,0 +1,594 @@
+[
+ {
+  "codigo": "SUC-005",
+  "veredicto": "corrigida",
+  "resumo": "A ficha atribuía à aceitação pura e simples responsabilidade «ultra vires hereditatis», fixava em vinte anos a caducidade do direito de aceitar e em vinte dias o prazo após interpelação, impunha a menores e incapazes a aceitação a benefício de inventário e remetia o inventário para a Lei n.º 23/2013, revogada. Corrigi segundo os arts. 2049.º, 2053.º, 2059.º, 2071.º, 1889.º, 1890.º e 2102.º CC e os arts. 1039.º, 1082.º e 1083.º CPC: o herdeiro responde sempre só até ao valor dos bens herdados (com a prova a seu cargo na aceitação pura e simples), o direito de aceitar caduca em dez anos, o prazo após notificação é o fixado pelo tribunal, e o inventário corre no tribunal ou no cartório notarial conforme o art. 1083.º CPC.",
+  "substituicoes": [
+   {
+    "de": "- Aceitação pura e simples: art. 2050.º CC — herdeiro responde pelas dívidas da herança ultra vires hereditatis",
+    "para": "- Aceitação pura e simples: a responsabilidade pelos encargos da herança também não excede o valor dos bens herdados, mas incumbe ao herdeiro provar que na herança não existem valores suficientes para os cumprir (art. 2071.º, n.º 2, CC); o direito português não consagra a responsabilidade ultra vires hereditatis",
+    "motivo": "Não há responsabilidade ultra vires: na aceitação pura e simples o herdeiro também só responde até ao valor dos bens herdados, com o ónus de provar a insuficiência (art. 2071.º, n.º 2, CC); o art. 2050.º CC trata dos efeitos da aceitação.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2071&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "responsabilidade limitada ao valor dos bens herdados; exige inventário",
+    "para": "só respondem pelos encargos da herança os bens inventariados, salvo se os credores ou legatários provarem a existência de outros bens (art. 2071.º, n.º 1, CC); faz-se requerendo inventário ou intervindo em inventário pendente",
+    "motivo": "A diferença entre as duas espécies de aceitação está no ónus da prova (art. 2071.º CC), e a aceitação a benefício de inventário faz-se requerendo inventário ou intervindo em inventário pendente (art. 2053.º CC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2071&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Prazo: se interpelado judicialmente, 20 dias; se sem interpelação, direito caduca em 20 anos (art. 2059.º CC)",
+    "para": "- Prazo: se o sucessível não aceitar nem repudiar, o tribunal pode, a requerimento do Ministério Público ou de qualquer interessado, mandá-lo notificar para declarar, no prazo que fixar, se aceita ou repudia; na falta de declaração, a herança tem-se por aceita (art. 2049.º CC; art. 1039.º CPC); sem notificação, o direito de aceitar caduca ao fim de dez anos, contados desde que o sucessível tem conhecimento de haver sido chamado à herança (art. 2059.º CC)",
+    "motivo": "O direito de aceitar caduca em dez anos, não em vinte (art. 2059.º, n.º 1, CC); após notificação judicial não há prazo legal de vinte dias: é o que o tribunal fixar (art. 2049.º CC; art. 1039.º, n.º 2, CPC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2059&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Incapacidade do herdeiro: menores e incapazes só podem aceitar a benefício de inventário (art. 2053.º CC)",
+    "para": "- Herdeiro menor ou maior acompanhado: a aceitação a benefício de inventário não é automática. Os pais não podem, sem autorização, aceitar herança com encargos (art. 1889.º, n.º 1, al. l), CC) e devem aceitá-la ou pedir autorização para a aceitar ou rejeitar no prazo de trinta dias (art. 1890.º CC) [■ VERIFICAR: entidade hoje competente para a autorização e regime do maior acompanhado]; há inventário, da competência exclusiva dos tribunais, quando o Ministério Público entenda que o interesse do incapaz implica aceitação beneficiária (art. 2102.º, n.º 2, al. b), CC; art. 1083.º, n.º 1, al. a), CPC)",
+    "motivo": "O art. 2053.º CC regula a forma da aceitação a benefício de inventário e não a impõe a incapazes; é o Ministério Público que avalia se o interesse do incapaz implica aceitação beneficiária (art. 2102.º, n.º 2, al. b), CC), e os pais carecem de autorização para aceitar herança com encargos (arts. 1889.º e 1890.º CC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2102&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "ficando a sua responsabilidade pelas dívidas da herança limitada ao valor dos bens que nela receber.",
+    "para": "pelo que só respondem pelos encargos da herança os bens inventariados, salvo se os credores ou legatários provarem a existência de outros bens (art. 2071.º, n.º 1, do Código Civil).",
+    "motivo": "O efeito da aceitação a benefício de inventário é o do art. 2071.º, n.º 1, CC: respondem os bens inventariados, cabendo aos credores provar a existência de outros.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2071&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "**Requer** que a presente declaração seja junta ao processo de inventário com referência [número, se já aberto] / que seja dado início ao processo de inventário notarial nos termos do art. 78.º e ss. da Lei n.º 23/2013, de 5 de Março [■ VERIFICAR: legislação do inventário notarial em vigor].",
+    "para": "[Na opção B, a aceitação a benefício de inventário faz-se requerendo inventário ou intervindo em inventário pendente (art. 2053.º CC):]\n**Requer** que a presente declaração seja junta ao processo de inventário com referência [número, se já aberto] / que seja instaurado processo de inventário, no tribunal ou no cartório notarial, conforme a repartição de competências do art. 1083.º CPC, nos termos dos arts. 1082.º e ss. CPC (na redação da Lei n.º 117/2019, que revogou o regime da Lei n.º 23/2013).",
+    "motivo": "A Lei n.º 23/2013 (regime do inventário notarial) foi revogada pela Lei n.º 117/2019, que repôs o inventário no CPC (arts. 1082.º e ss.) e repartiu a competência entre tribunais e cartórios notariais (art. 1083.º CPC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A1083&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Herdeiro menor ou incapaz: aceitação forçosamente a benefício de inventário",
+    "para": "- [ ] Herdeiro menor ou maior acompanhado: autorização para aceitar herança com encargos (arts. 1889.º e 1890.º CC) e posição do Ministério Público quanto à aceitação beneficiária (art. 2102.º, n.º 2, al. b), CC)",
+    "motivo": "A lei não impõe a aceitação a benefício de inventário aos incapazes (arts. 1889.º, 1890.º e 2102.º, n.º 2, al. b), CC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1889&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar a entidade hoje competente para autorizar os representantes do menor ou do maior acompanhado a aceitar herança com encargos (o art. 1889.º CC fala do tribunal; ver a competência do Ministério Público no DL n.º 272/2001).",
+   "A aceitação é irrevogável (art. 2061.º CC): havendo risco de passivo, evitar atos que valham como aceitação tácita antes de requerer o inventário.",
+   "O legatário não aceita «a herança», aceita o legado: ajustar a qualidade do declarante se for o caso.",
+   "Nos inventários pendentes em cartório notarial à data da entrada em vigor da Lei n.º 117/2019 pode continuar a aplicar-se a Lei n.º 23/2013 (art. 11.º da Lei n.º 117/2019)."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2049&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2052&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2059&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2068&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2071&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1889&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2101&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2102&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A1039&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A1082&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A1083&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_revogado.php?nid=1895"
+  ]
+ },
+ {
+  "codigo": "SUC-012",
+  "veredicto": "corrigida",
+  "resumo": "As quotas legitimárias do cônjuge sem descendentes e dos ascendentes estavam erradas no corpo que alimenta o cálculo (1/3 ou metade para o cônjuge; 1/3 para os ascendentes), a colação era estendida a todos os herdeiros legitimários e a verificação de inoficiosidade comparava só o donatum com a quota disponível. Corrigi segundo os arts. 2158.º, 2161.º, 2162.º, 2104.º, 2105.º, 2108.º, 2114.º, 2169.º, 2171.º e 2173.º CC: cônjuge só, 1/2; cônjuge e ascendentes, 2/3; só ascendentes, 1/2 (pais) ou 1/3 (avós e seguintes); colação só dos descendentes; inoficiosidade aferida pelas liberalidades imputadas na quota disponível, incluindo as testamentárias.",
+  "substituicoes": [
+   {
+    "de": "  b) Só cônjuge (sem descendentes): 1/3 ou metade conforme concorra com ascendentes (art. 2158.º e 2161.º CC) [■ VERIFICAR: art. correto conforme reforma do CC]",
+    "para": "  b) Cônjuge sem descendentes: 1/2 se não concorrer com ascendentes (art. 2158.º CC); 2/3, em conjunto, se concorrer com ascendentes (art. 2161.º, n.º 1, CC)",
+    "motivo": "A legítima do cônjuge que não concorre com descendentes nem ascendentes é de metade (art. 2158.º CC) e a do cônjuge com ascendentes é de dois terços (art. 2161.º, n.º 1, CC); nunca 1/3.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2158&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "  d) Só ascendentes: 1/3 (art. 2161.º CC)",
+    "para": "  d) Só ascendentes (sem cônjuge nem descendentes): 1/2 se forem chamados os pais; 1/3 se forem chamados os ascendentes do segundo grau e seguintes (art. 2161.º, n.º 2, CC)",
+    "motivo": "Sem cônjuge nem descendentes, a legítima dos ascendentes é de metade se forem chamados os pais e de um terço se forem os ascendentes do segundo grau e seguintes (art. 2161.º, n.º 2, CC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2161&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "— soma do relictum (bens deixados à morte) com o donatum (doações em vida), subtraindo as dívidas da herança",
+    "para": "— atende-se ao valor dos bens existentes no património do autor da sucessão à data da morte (relictum), às dívidas da herança e ao valor dos bens doados e das despesas sujeitas a colação (donatum); não entram as coisas doadas que pereceram em vida do autor da sucessão por facto não imputável ao donatário (arts. 2162.º, n.º 2, e 2112.º CC)",
+    "motivo": "O art. 2162.º CC manda atender também às despesas sujeitas a colação e exclui do cálculo os bens que, nos termos do art. 2112.º CC, não são objeto de colação.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2162&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "doações a herdeiros legitimários conferem-se no inventário",
+    "para": "estão sujeitos à colação os descendentes que eram, à data da doação, presuntivos herdeiros legitimários do doador e que venham à sucessão (arts. 2104.º, n.º 1, e 2105.º CC); a colação faz-se pela imputação do valor da doação na quota hereditária do donatário (art. 2108.º, n.º 1, CC)",
+    "motivo": "A colação só onera os descendentes (arts. 2104.º e 2105.º CC), não o cônjuge nem os ascendentes, e faz-se por imputação na quota hereditária (art. 2108.º CC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2104&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Dispensa de colação: art. 2113.º CC — não impede a redução por inoficiosidade",
+    "para": "- Dispensa de colação: art. 2113.º CC — a doação é imputada na quota disponível (art. 2114.º, n.º 1, CC) e não impede a redução por inoficiosidade",
+    "motivo": "Não havendo lugar à colação, a doação é imputada na quota disponível (art. 2114.º, n.º 1, CC); é essa a base da verificação de inoficiosidade.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2114&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "— disposições que lesam a legítima são redutíveis",
+    "para": "— são inoficiosas as liberalidades, entre vivos ou por morte, que ofendam a legítima; são redutíveis a requerimento dos herdeiros legitimários (art. 2169.º CC), primeiro as deixas a título de herança, depois os legados e, por último, as doações, começando pela mais recente (arts. 2171.º e 2173.º, n.º 1, CC)",
+    "motivo": "A inoficiosidade abrange as liberalidades entre vivos e por morte (art. 2168.º CC) e a redução segue a ordem dos arts. 2171.º e 2173.º CC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2171&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "Donatum total: € [valor]\nQuota disponível: € [valor]\n[Se Donatum > Quota disponível:] ALERTA: As doações em vida excedem a quota disponível em € [diferença]. A diferença é inoficiosa e",
+    "para": "Liberalidades imputadas na quota disponível — doações com dispensa de colação ou não sujeitas a ela (art. 2114.º, n.º 1, CC) e disposições testamentárias (heranças e legados) que nela se imputem: € [valor]\nDoações sujeitas a colação, na parte que exceda a quota hereditária do donatário: € [valor] [■ VERIFICAR: imputação deste excesso na quota disponível, segundo a doutrina e a jurisprudência seguidas]\nQuota disponível: € [valor]\n[Se as liberalidades imputadas excederem a quota disponível:] ALERTA: As liberalidades excedem a quota disponível em € [diferença]. A diferença é inoficiosa e",
+    "motivo": "A inoficiosidade não se afere comparando todo o donatum com a quota disponível: as doações sujeitas a colação imputam-se na quota do donatário, as não sujeitas na quota disponível (art. 2114.º CC), e contam também as liberalidades por morte (art. 2168.º CC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2114&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Na distribuição por herdeiro: na partilha entre o cônjuge e os filhos, a quota do cônjuge não pode ser inferior a um quarto da herança (art. 2139.º, n.º 1, CC).",
+   "Confirmar o critério de imputação do excesso das doações sujeitas a colação e dos legados em substituição ou por conta da legítima.",
+   "A ordem relictum − passivo + donatum segue a doutrina dominante; confirmar a solução quando o passivo excede o relictum."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2104&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2108&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2110&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2114&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2139&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2156&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2158&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2161&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2162&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2168&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2171&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+  ]
+ },
+ {
+  "codigo": "SUC-013",
+  "veredicto": "corrigida",
+  "resumo": "A ficha impunha a colação a todos os herdeiros legitimários, avaliava as doações pelo «valor à data da doação atualizado pelo índice de preços», punha os riscos de perecimento da coisa doada a cargo do donatário, fixava o «valor a conferir» no mínimo entre a doação e a quota e atribuía ao art. 2172.º CC a ordem da redução. Corrigi segundo os arts. 2104.º a 2116.º, 2162.º, 2171.º e 2173.º CC: colação só dos descendentes, imputação do valor integral na quota hereditária, valor à data da abertura da sucessão (com atualização do art. 551.º CC só para o dinheiro), exclusão da coisa perecida sem culpa do donatário e ordem de redução heranças, legados e doações, da mais recente para a mais antiga.",
+  "descricao": "Calcula a colação das doações efetuadas em vida aos descendentes que eram presuntivos herdeiros legitimários do doador, determinando o valor a conferir no inventário por cada donatário, com memória de cálculo detalhada e identificação dos efeitos na partilha — nos termos dos arts. 2104.º a 2122.º do Código Civil.",
+  "descricao_en": "Calculates the collation (colação) of lifetime gifts made to descendants who were the donor's presumptive forced heirs, determining the value each donee must bring into account in the inventory, with a detailed calculation note and identification of the effects on the division — under Articles 2104 to 2122 of the Civil Code.",
+  "substituicoes": [
+   {
+    "de": "  — Obrigação de colação: herdeiros legitimários que receberam doações em vida conferem-nas à massa hereditária (art. 2104.º CC)",
+    "para": "  — Obrigação de colação: os descendentes que pretendam entrar na sucessão do ascendente restituem à massa da herança, para igualação da partilha, os bens ou valores que este lhes doou (art. 2104.º CC); só estão sujeitos os que eram, à data da doação, presuntivos herdeiros legitimários do doador (art. 2105.º CC); não se conferem as doações feitas ao cônjuge do presuntivo herdeiro (art. 2107.º CC)",
+    "motivo": "A colação só onera os descendentes (arts. 2104.º e 2105.º CC); o cônjuge e os ascendentes, embora legitimários, não lhe estão sujeitos.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2104&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "  — Modo de conferir: em espécie (devolução do bem) ou em valor (desconto na quota) — art. 2108.º CC",
+    "para": "  — Modo de conferir: por imputação do valor da doação na quota hereditária do donatário ou, havendo acordo de todos os herdeiros, pela restituição dos próprios bens doados — art. 2108.º CC",
+    "motivo": "A restituição em espécie depende do acordo de todos os herdeiros (art. 2108.º, n.º 1, CC); a regra é a imputação.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2108&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "  — Avaliação: valor à data da doação atualizado pelo índice de preços [■ VERIFICAR: critério de avaliação atual no CC português]",
+    "para": "  — Avaliação: o valor dos bens doados é o que tiverem à data da abertura da sucessão; se o donatário os consumiu, alienou ou onerou, ou se pereceram por culpa sua, atende-se ao valor que teriam nessa data; as doações em dinheiro são atualizadas nos termos do art. 551.º CC (art. 2109.º CC)",
+    "motivo": "Os bens doados valem pelo valor à data da abertura da sucessão (art. 2109.º CC); a atualização pelo art. 551.º CC só se aplica às doações em dinheiro e aos encargos em dinheiro cumpridos.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2109&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "  — Colação de bens deteriorados ou destruídos: art. 2112.º CC — riscos por conta do donatário",
+    "para": "  — Perda e deterioração da coisa doada: art. 2112.º CC — não é objeto de colação a coisa doada que tiver perecido em vida do autor da sucessão por facto não imputável ao donatário (nem entra no cálculo da legítima — art. 2162.º, n.º 2, CC); o donatário responde pelas deteriorações que culposamente tenha causado (art. 2116.º CC) e, quanto a benfeitorias, é equiparado ao possuidor de boa-fé (art. 2115.º CC)",
+    "motivo": "O risco do perecimento fortuito não corre pelo donatário: a coisa perecida sem culpa sua não se colaciona (art. 2112.º CC); só responde pelas deteriorações culposas (art. 2116.º CC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2112&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Redução: primeiro reduz-se o testamento, depois as doações (art. 2172.º CC)",
+    "para": "- Redução: primeiro as disposições testamentárias a título de herança, depois os legados e, por último, as liberalidades feitas em vida (art. 2171.º CC); nestas, começa-se pela última (art. 2173.º, n.º 1, CC); entre disposições testamentárias, a redução é proporcional (art. 2172.º CC)",
+    "motivo": "A ordem da redução está no art. 2171.º CC e a das doações no art. 2173.º CC; o art. 2172.º CC trata da redução proporcional das disposições testamentárias.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2171&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "| N.º | Donatário | Data | Bem / Valor original | Valor atualizado | Colação? | Dispensa? |\n|---|---|---|---|---|---|---|\n| 1 | [nome] | [data] | [bem / € valor] | € [valor atualizado] | [sim/não] | [sim/não] |",
+    "para": "| N.º | Donatário | Data | Bem / Valor original | Valor à abertura da sucessão | Colação? | Dispensa? |\n|---|---|---|---|---|---|---|\n| 1 | [nome] | [data] | [bem / € valor] | € [valor à abertura da sucessão] | [sim/não] | [sim/não] |",
+    "motivo": "A coluna «valor atualizado» induzia a atualização do valor da doação; o critério legal é o valor à data da abertura da sucessão (art. 2109.º CC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2109&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "[■ VERIFICAR: critério de atualização de valores à data da partilha — art. [■ VERIFICAR] CC]",
+    "para": "Critério de avaliação: valor dos bens à data da abertura da sucessão; doações em dinheiro atualizadas nos termos do art. 551.º CC (art. 2109.º CC).",
+    "motivo": "Critério confirmado no art. 2109.º CC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2109&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "+ Donatum total (todas as doações): € [valor]",
+    "para": "+ Donatum total (todas as doações e despesas sujeitas a colação, excluídas as coisas perecidas sem culpa do donatário — art. 2162.º, n.º 2, CC): € [valor]",
+    "motivo": "O cálculo da legítima inclui as despesas sujeitas a colação e exclui as coisas perecidas nos termos do art. 2112.º CC (art. 2162.º CC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2162&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Doação recebida (valor atualizado): € [valor]\n- Quota hereditária a receber: € [quota]\n- Valor a conferir na partilha: € [mínimo entre doação e quota]\n- [Se doação > quota:] O excesso de € [valor] não é devolvido mas é imputado na quota disponível; se exceder também a quota disponível, é inoficioso.",
+    "para": "- Doação recebida (valor à data da abertura da sucessão — art. 2109.º CC): € [valor]\n- Quota hereditária (calculada sobre o relictum acrescido das doações sujeitas a colação): € [quota]\n- Valor imputado na quota hereditária (colação): € [valor integral da doação] (art. 2108.º, n.º 1, CC)\n- Valor a receber em bens: € [quota − doação, se positivo; zero, se a doação igualar ou exceder a quota]\n- [Se doação > quota:] O excesso de € [valor] não é devolvido nem a doação é reduzida por falta de bens para igualar os herdeiros, salvo se houver inoficiosidade (art. 2108.º, n.º 2, CC); o excesso é imputado na quota disponível e, se exceder também esta, é inoficioso [■ VERIFICAR: critério de imputação do excesso seguido na doutrina e na jurisprudência].",
+    "motivo": "Confere-se pela imputação do valor integral da doação na quota hereditária (art. 2108.º, n.º 1, CC), não pelo «mínimo entre doação e quota»; o excesso só se reduz se for inoficioso (art. 2108.º, n.º 2, CC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2108&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "[Se donatum total > quota disponível:]\nALERTA: As doações excedem a quota disponível em € [diferença].",
+    "para": "[Se as liberalidades imputadas na quota disponível — doações com dispensa de colação ou não sujeitas a ela (art. 2114.º, n.º 1, CC), disposições testamentárias que nela se imputem e o excesso das doações sujeitas a colação — excederem a quota disponível:]\nALERTA: As liberalidades excedem a quota disponível em € [diferença].",
+    "motivo": "As doações sujeitas a colação imputam-se primeiro na quota do donatário e só as não sujeitas a colação se imputam na quota disponível (art. 2114.º CC); comparar todo o donatum com a quota disponível dá falsos alertas.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2114&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "Ordem de redução: primeiro testamento, depois doações (da mais recente para a mais antiga — art. 2172.º CC).",
+    "para": "Ordem de redução: primeiro as disposições testamentárias a título de herança, depois os legados e, por último, as doações (art. 2171.º CC), começando pela mais recente (art. 2173.º, n.º 1, CC).",
+    "motivo": "A ordem da redução é a do art. 2171.º CC; a redução das doações a começar pela última é o art. 2173.º, n.º 1, CC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2173&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Valores atualizados corretamente [■ VERIFICAR: critério legal de atualização]",
+    "para": "- [ ] Bens doados avaliados à data da abertura da sucessão e doações em dinheiro atualizadas nos termos do art. 551.º CC (art. 2109.º CC)",
+    "motivo": "Critério legal confirmado no art. 2109.º CC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2109&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar o critério de imputação do excesso das doações sujeitas a colação (na quota disponível) e o recálculo das quotas dos restantes herdeiros quando a doação excede a quota do donatário.",
+   "A colação presume-se dispensada nas doações manuais e remuneratórias (art. 2113.º, n.º 3, CC); a doação de bens comuns feita por ambos os cônjuges confere-se por metade na sucessão de cada um (art. 2117.º CC).",
+   "No inventário, a redução de liberalidades inoficiosas pede-se no requerimento próprio (art. 1118.º CPC)."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2104&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2108&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2109&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2110&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2112&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2113&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2114&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2116&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2162&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2168&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2171&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2173&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+  ]
+ },
+ {
+  "codigo": "SUC-023",
+  "veredicto": "corrigida",
+  "resumo": "A ficha tratava os co-herdeiros como comproprietários dos bens da herança indivisa e propunha a ação de divisão de coisa comum para resolver o desacordo na partilha; enquanto a herança não for partilhada não há compropriedade sobre os bens concretos e o meio é o inventário (a ação de divisão tem levado à absolvição da instância — STJ e TRL). Reformulei a ficha para o caso próprio — bem que ficou em compropriedade depois da partilha —, com o pressuposto verificado no início, e corrigi os pontos de processo: divisão em substância (art. 209.º CC; arts. 926.º a 928.º CPC), adjudicação ou venda na conferência (art. 929.º CPC), foro da situação do bem (art. 70.º CPC) e valor da causa igual ao valor da coisa (art. 302.º, n.º 2, CPC), não ao da quota do autor.",
+  "descricao": "Gera a petição inicial da ação de divisão de coisa comum entre herdeiros que, depois da partilha, ficaram comproprietários de um bem — designadamente um imóvel — quando um deles pretende pôr fim à compropriedade, nos termos dos arts. 1412.º e ss. do Código Civil e arts. 925.º e ss. do Código de Processo Civil; enquanto a herança estiver indivisa, o meio próprio é o inventário.",
+  "descricao_en": "Generates the statement of claim in an action for division of jointly owned property (divisão de coisa comum) between heirs who, after the estate was divided, became co-owners of an asset — notably real estate — where one of them wishes to end the co-ownership, under Articles 1412 et seq. of the Civil Code and Articles 925 et seq. of the Code of Civil Procedure; while the estate remains undivided, the proper remedy is inventory proceedings.",
+  "substituicoes": [
+   {
+    "de": "— Identifica o direito de preferência dos co-herdeiros na aquisição da quota (art. 1409.º CC).",
+    "para": "— Confirma, antes de mais, que a herança já foi partilhada e que o bem ficou em compropriedade: enquanto a herança estiver indivisa, os coerdeiros não são comproprietários dos bens que a integram e o meio próprio é a partilha, por acordo ou por inventário (arts. 2101.º e 2102.º CC; arts. 1082.º e 1083.º CPC), não a ação de divisão de coisa comum.\n— Identifica o direito de preferência dos comproprietários na venda ou dação em cumprimento da quota a estranhos (art. 1409.º CC); com a herança indivisa, a preferência dos coerdeiros na venda ou dação em cumprimento de quinhão hereditário é a do art. 2130.º CC.",
+    "motivo": "Até à partilha, os coerdeiros só têm direito a uma quota da herança, não são comproprietários dos bens concretos, e a ação de divisão de coisa comum é meio impróprio (STJ, 30-01-2013, proc. 1100/11.7TBABT.E1.S1); a preferência do art. 1409.º CC é a dos comproprietários, a dos coerdeiros é a do art. 2130.º CC.",
+    "fonte": "https://www.dgsi.pt/jstj.nsf/954f0ce6ad9dd8b980256b5f003fa814/4ee91ac004a69a7480257b05004f7c7e"
+   },
+   {
+    "de": "- Quem são os co-herdeiros e quais as suas quotas no bem?",
+    "para": "- A herança já foi partilhada (escritura, procedimento simplificado ou inventário) e o bem foi adjudicado em compropriedade? Se a herança estiver indivisa, a via é o inventário, não esta ação.\n- Quem são os comproprietários e quais as suas quotas no bem?",
+    "motivo": "A ação de divisão de coisa comum é reservada à compropriedade que resulte da partilha; antes disso o meio é o inventário (TRL, proc. 4829/17.2T8LSB.L1-2).",
+    "fonte": "https://www.dgsi.pt/jtrl.nsf/-/9FEFFACB808C0702802582A6004F9BEB"
+   },
+   {
+    "de": "- Direito de pôr fim à indivisão: art. 1412.º CC — ninguém é obrigado a permanecer em compropriedade",
+    "para": "- Pressuposto: compropriedade sobre o bem concreto, em regra resultante da partilha já feita. Até à partilha, os coerdeiros têm apenas direito a uma quota da herança, não são donos nem comproprietários dos bens que a integram, e qualquer deles pode exigir partilha (art. 2101.º CC); a ação de divisão de coisa comum sobre bens da herança indivisa tem conduzido à absolvição da instância (STJ, 30-01-2013, proc. 1100/11.7TBABT.E1.S1; TRL, proc. 4829/17.2T8LSB.L1-2)\n- Direito de pôr fim à indivisão: art. 1412.º CC — ninguém é obrigado a permanecer em compropriedade",
+    "motivo": "Falta o pressuposto da ação: com a herança indivisa não há compropriedade e o meio próprio é o inventário (art. 2101.º CC; jurisprudência do STJ e da Relação de Lisboa).",
+    "fonte": "https://www.dgsi.pt/jstj.nsf/954f0ce6ad9dd8b980256b5f003fa814/4ee91ac004a69a7480257b05004f7c7e"
+   },
+   {
+    "de": "arts. 925.º a 930.º CPC [■ VERIFICAR: numeração atual]",
+    "para": "arts. 925.º a 930.º CPC",
+    "motivo": "Numeração confirmada no CPC em vigor.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0925&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Divisão em espécie: quando o bem é fraccionável sem perda de valor (art. 926.º CPC) [■ VERIFICAR]",
+    "para": "- Divisão em substância: quando o bem pode ser fracionado sem alteração da sua substância, diminuição de valor ou prejuízo para o uso a que se destina (art. 209.º CC); a indivisibilidade é conhecida mesmo oficiosamente (art. 926.º, n.º 4, CPC) e os quinhões são formados por perícia (arts. 927.º e 928.º CPC)",
+    "motivo": "O art. 926.º CPC trata da citação e da oposição; o critério de divisibilidade é o do art. 209.º CC e a formação dos quinhões está nos arts. 927.º e 928.º CPC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0926&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Venda judicial: quando o bem não é divisível em espécie (art. 929.º CPC) [■ VERIFICAR]",
+    "para": "- Bem indivisível: na conferência de interessados procura-se o acordo para a adjudicação a algum ou alguns dos consortes, preenchendo-se em dinheiro as quotas dos restantes; na falta de acordo, a coisa é vendida, podendo os consortes concorrer à venda (art. 929.º CPC)",
+    "motivo": "Sendo a coisa indivisível, a venda só tem lugar na falta de acordo sobre a adjudicação na conferência de interessados (art. 929.º, n.º 2, CPC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0929&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "AO TRIBUNAL JUDICIAL DA COMARCA DE [localidade] — [■ VERIFICAR: tribunal competente]",
+    "para": "AO TRIBUNAL JUDICIAL DA COMARCA DE [localidade da situação do imóvel — art. 70.º, n.º 1, CPC] — [■ VERIFICAR: juízo competente (local ou central cível), em função do valor da causa]",
+    "motivo": "A ação de divisão de coisa comum é proposta no tribunal da situação dos bens (art. 70.º, n.º 1, CPC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0070&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "co-herdeiro(a) e co-proprietário(a) do bem identificado abaixo",
+    "para": "comproprietário(a) do bem identificado abaixo, que lhe foi adjudicado em compropriedade na partilha da herança de [nome do falecido]",
+    "motivo": "O autor tem de ser comproprietário do bem, por força da partilha; a qualidade de coerdeiro não basta.",
+    "fonte": "https://www.dgsi.pt/jstj.nsf/954f0ce6ad9dd8b980256b5f003fa814/4ee91ac004a69a7480257b05004f7c7e"
+   },
+   {
+    "de": "[Nomes dos réus — co-herdeiros] [...],",
+    "para": "[Nomes dos réus — restantes comproprietários] [...],",
+    "motivo": "A ação é proposta no confronto dos demais consortes (art. 925.º CPC), não dos coerdeiros enquanto tais.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0925&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "Por óbito de [nome do falecido] em [data], os outorgantes são co-herdeiros e co-proprietários do seguinte bem:",
+    "para": "Por óbito de [nome do falecido] em [data], a respetiva herança foi partilhada por [escritura de partilha / procedimento simplificado de partilha / sentença homologatória da partilha em inventário] de [data], tendo o bem abaixo identificado sido adjudicado em compropriedade ao autor e aos réus, que dele são comproprietários [■ VERIFICAR: título da partilha e inscrição da compropriedade no registo predial]:",
+    "motivo": "A compropriedade nasce da partilha, não do óbito; alegar só a qualidade de coerdeiro conduz à absolvição da instância.",
+    "fonte": "https://www.dgsi.pt/jtrl.nsf/-/9FEFFACB808C0702802582A6004F9BEB"
+   },
+   {
+    "de": "O autor tentou chegar a acordo com os réus para a partilha do bem",
+    "para": "O autor tentou chegar a acordo com os réus para a divisão do bem",
+    "motivo": "Na compropriedade não se fala de partilha, mas de divisão (art. 1413.º CC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1412&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "O autor requer a venda judicial do bem e a repartição do produto pelos co-proprietários em proporção das respetivas quotas (art. [■ VERIFICAR: artigo CPC] CPC).",
+    "para": "O autor requer que, fixadas as quotas, o bem seja adjudicado a algum ou alguns dos consortes, preenchendo-se em dinheiro as quotas dos restantes, ou, na falta de acordo, vendido, com repartição do produto pelos comproprietários na proporção das respetivas quotas (arts. 925.º e 929.º, n.º 2, CPC).",
+    "motivo": "Pedido conforme aos arts. 925.º e 929.º, n.º 2, CPC: a adjudicação por acordo precede a venda.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0925&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "3. [Venda judicial:] Seja ordenada a venda judicial do bem e repartido o produto pelos co-proprietários em proporção das quotas;",
+    "para": "3. [Bem indivisível:] Seja o bem adjudicado a algum ou alguns dos consortes, com preenchimento em dinheiro das quotas dos restantes, ou, na falta de acordo, vendido, repartindo-se o produto pelos comproprietários na proporção das quotas;",
+    "motivo": "A venda só tem lugar na falta de acordo sobre a adjudicação (art. 929.º, n.º 2, CPC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0929&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "**Valor da causa:** € [valor da quota do autor]",
+    "para": "**Valor da causa:** € [valor da coisa a dividir — art. 302.º, n.º 2, CPC]",
+    "motivo": "Na ação de divisão de coisa comum atende-se ao valor da coisa que se pretende dividir, não ao da quota do autor (art. 302.º, n.º 2, CPC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0302&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Quotas de cada co-herdeiro identificadas",
+    "para": "- [ ] Partilha prévia e compropriedade do bem comprovadas (título da partilha, certidão do registo predial)\n- [ ] Quotas de cada comproprietário identificadas",
+    "motivo": "Sem partilha prévia não há compropriedade e a ação é meio impróprio.",
+    "fonte": "https://www.dgsi.pt/jstj.nsf/954f0ce6ad9dd8b980256b5f003fa814/4ee91ac004a69a7480257b05004f7c7e"
+   },
+   {
+    "de": "**RÉUS (outros co-herdeiros):**",
+    "para": "**RÉUS (restantes comproprietários):**",
+    "motivo": "A ação é proposta no confronto dos demais consortes (art. 925.º CPC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0925&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "**TENTATIVAS DE ACORDO:**",
+    "para": "**PARTILHA DA HERANÇA:**\n- Já foi feita? [sim/não — título (escritura, procedimento simplificado, inventário) e data]\n- O bem foi adjudicado em compropriedade? [sim/não — quotas de cada um]\n- Se a herança ainda estiver indivisa, o meio é o inventário (arts. 1082.º e 1083.º CPC), não esta ação\n\n**TENTATIVAS DE ACORDO:**",
+    "motivo": "Recolher o dado de que depende a admissibilidade da ação.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A1082&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Se o bem pertencer em compropriedade à herança indivisa e a terceiros, a ação pode ser dirigida contra a herança, com intervenção de todos os herdeiros (art. 2091.º CC) — ver TRC, proc. 3787/24.1T8CBR.C1; confirmar.",
+   "Com menores, os pais precisam de autorização para requerer a divisão de coisa comum (art. 1889.º, n.º 1, al. n), CC); com incapazes ou ausentes, o acordo na conferência carece de autorização judicial (art. 929.º, n.º 3, CPC).",
+   "Juízo competente (local ou central cível) em função do valor e regime das custas: confirmar.",
+   "O resto da ficha mantém grafias anteriores ao AO90 («fraccionado», «co-herdeiros», «co-proprietário»); não as alterei por não serem de substância."
+  ],
+  "fontes": [
+   "https://www.dgsi.pt/jstj.nsf/954f0ce6ad9dd8b980256b5f003fa814/4ee91ac004a69a7480257b05004f7c7e",
+   "https://www.dgsi.pt/jtrl.nsf/-/9FEFFACB808C0702802582A6004F9BEB",
+   "https://trc.pt/?p=54079",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0209&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1409&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1412&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2101&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2130&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0070&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0302&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0925&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A1082&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+  ]
+ },
+ {
+  "codigo": "SUC-027",
+  "veredicto": "corrigida",
+  "resumo": "A ficha aplicava o Regulamento (UE) n.º 650/2012 aos óbitos «após 17 de agosto de 2014» (é aos de 17 de agosto de 2015 em diante — art. 83.º, n.º 1), remetia a competência portuguesa para inventário para a Lei n.º 23/2013 (revogada pela Lei n.º 117/2019) e deixava por resolver a forma dos testamentos e a autoridade que emite o CSE em Portugal. Corrigi as datas, a nota sobre Irlanda, Dinamarca e Reino Unido, o reenvio (art. 34.º), a forma (art. 27.º e art. 75.º, n.º 1; Portugal não ratificou a Convenção da Haia de 1961), a emissão do CSE (art. 64.º; em Portugal, os conservadores) e a competência interna para o inventário (art. 1083.º CPC).",
+  "substituicoes": [
+   {
+    "de": "— O Regulamento aplica-se apenas a óbitos após 17 de Agosto de 2014.",
+    "para": "— O Regulamento aplica-se às sucessões das pessoas falecidas em 17 de agosto de 2015 ou após essa data (art. 83.º, n.º 1, RSUE); escolhas de lei e disposições por morte anteriores a essa data seguem o art. 83.º, n.os 2 a 4.",
+    "motivo": "O Regulamento aplica-se às sucessões das pessoas falecidas em 17 de agosto de 2015 ou depois (art. 83.º, n.º 1, e art. 84.º), não 2014.",
+    "fonte": "https://publications.europa.eu/resource/celex/32012R0650"
+   },
+   {
+    "de": "— Reino Unido, Irlanda e Dinamarca não participam no Regulamento — alerta para estas exceções.",
+    "para": "— A Irlanda e a Dinamarca não estão vinculadas pelo Regulamento (considerandos 82 e 83) e o Reino Unido, que também não participou, é hoje um Estado terceiro: esses Estados não o aplicam e as decisões e o Certificado Sucessório Europeu não circulam aí ao abrigo dele; as autoridades dos Estados-Membros vinculados aplicam-no ainda assim, e a lei por ele designada aplica-se mesmo que seja a de um Estado não vinculado (art. 20.º RSUE) — alerta para estas exceções.",
+    "motivo": "A não vinculação desses Estados não afasta a aplicação do Regulamento pelas autoridades portuguesas (aplicação universal — art. 20.º); o Reino Unido é Estado terceiro desde a saída da UE.",
+    "fonte": "https://publications.europa.eu/resource/celex/32012R0650"
+   },
+   {
+    "de": "- O óbito ocorreu após 17 de Agosto de 2014?",
+    "para": "- O óbito ocorreu em 17 de agosto de 2015 ou depois (art. 83.º, n.º 1, RSUE)?",
+    "motivo": "Data de aplicação do art. 83.º, n.º 1, do Regulamento.",
+    "fonte": "https://publications.europa.eu/resource/celex/32012R0650"
+   },
+   {
+    "de": "- Os países envolvidos participam no Regulamento (excluir UK, Irlanda, Dinamarca)?",
+    "para": "- Os países envolvidos estão vinculados pelo Regulamento (não estão a Irlanda e a Dinamarca; o Reino Unido é Estado terceiro)? Se a lei designada for a de um Estado terceiro, há reenvio (art. 34.º RSUE)?",
+    "motivo": "Envolver um Estado não vinculado não exclui o Regulamento; pode haver reenvio quando a lei designada é a de um Estado terceiro (art. 34.º).",
+    "fonte": "https://publications.europa.eu/resource/celex/32012R0650"
+   },
+   {
+    "de": "sucessões por morte com elemento transfronteiriço, óbito após 17/08/2014",
+    "para": "sucessões por morte com elemento transfronteiriço; aplica-se aos óbitos ocorridos em ou após 17/08/2015 (art. 83.º, n.º 1)",
+    "motivo": "A data de aplicação está no art. 83.º, n.º 1, e é 17 de agosto de 2015.",
+    "fonte": "https://publications.europa.eu/resource/celex/32012R0650"
+   },
+   {
+    "de": "- Reenvio: art. 34.º RSUE — limitado; não se aplica em regra",
+    "para": "- Reenvio: art. 34.º RSUE — só quando a lei designada é a de um Estado terceiro e as suas normas de conflitos remetem para a lei de um Estado-Membro ou de outro Estado terceiro que aplicaria a sua própria lei; excluído nos casos dos arts. 21.º, n.º 2, 22.º, 27.º, 28.º, al. b), e 30.º",
+    "motivo": "O art. 34.º admite o reenvio quando é designada a lei de um Estado terceiro (relevante, por exemplo, para o Reino Unido) e exclui-o nos casos do n.º 2.",
+    "fonte": "https://publications.europa.eu/resource/celex/32012R0650"
+   },
+   {
+    "de": "[■ VERIFICAR: a escolha de lei deve constar de declaração em forma testamentária]",
+    "para": "A escolha tem de ser feita expressamente numa declaração com a forma de uma disposição por morte ou resultar dos termos dessa disposição (art. 22.º, n.º 2, RSUE).",
+    "motivo": "Requisito de forma confirmado no art. 22.º, n.º 2, do Regulamento.",
+    "fonte": "https://publications.europa.eu/resource/celex/32012R0650"
+   },
+   {
+    "de": "O óbito ocorreu após 17 de Agosto de 2014 — o Regulamento (UE) n.º 650/2012 é aplicável.",
+    "para": "O óbito ocorreu em [data], em 17 de agosto de 2015 ou depois — o Regulamento (UE) n.º 650/2012 é aplicável (art. 83.º, n.º 1).",
+    "motivo": "Data de aplicação do art. 83.º, n.º 1, do Regulamento.",
+    "fonte": "https://publications.europa.eu/resource/celex/32012R0650"
+   },
+   {
+    "de": "[■ VERIFICAR: em Portugal, a competência para inventário recai no cartório notarial nos termos da Lei n.º 23/2013]",
+    "para": "[Se o Estado competente for Portugal: o regime da Lei n.º 23/2013 foi revogado pela Lei n.º 117/2019; o inventário corre nos tribunais judiciais ou, à escolha do interessado que o instaura ou por acordo de todos, nos cartórios notariais, salvo nos casos de competência exclusiva dos tribunais (arts. 1082.º e 1083.º CPC); havendo acordo, a partilha faz-se nas conservatórias ou por via notarial (art. 2102.º, n.º 1, CC).]",
+    "motivo": "A Lei n.º 23/2013 foi revogada pela Lei n.º 117/2019; a competência para o inventário reparte-se entre tribunais e cartórios notariais (art. 1083.º CPC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A1083&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "b) [As questões de forma dos atos (ex.: testamento) são reguladas pela lei do lugar da celebração ou lei da residência habitual — VERIFICAR: Convenção de Haia sobre a lei aplicável à forma dos testamentos, se aplicável]",
+    "para": "b) A validade formal das disposições por morte feitas por escrito afere-se pelo art. 27.º RSUE: basta que a forma respeite a lei do lugar onde a disposição foi feita, a de uma nacionalidade, do domicílio ou da residência habitual do testador (no momento da disposição ou do óbito) ou, quanto a imóveis, a do lugar da sua situação. Os Estados-Membros partes na Convenção da Haia de 5 de outubro de 1961 aplicam-na em vez do art. 27.º (art. 75.º, n.º 1, RSUE); segundo a tabela de estado da HCCH, Portugal assinou-a mas não a ratificou [■ VERIFICAR: estado atual da Convenção e, se o testamento tiver de valer noutro Estado, se este é parte]",
+    "motivo": "A forma rege-se pelo art. 27.º do Regulamento, com conexões alternativas além do lugar e da residência; a Convenção da Haia de 1961 só prevalece nos Estados-Membros que dela sejam partes (art. 75.º, n.º 1), e Portugal só a assinou.",
+    "fonte": "https://publications.europa.eu/resource/celex/32012R0650"
+   },
+   {
+    "de": "O Certificado Sucessório Europeu (CSE — arts. 62.º e ss. RSUE) pode ser emitido pelas autoridades do Estado-Membro competente (Estado da residência habitual) e é reconhecido em todos os Estados-Membros participantes.",
+    "para": "O Certificado Sucessório Europeu (CSE — arts. 62.º e ss. RSUE) é emitido no Estado-Membro cujos órgãos jurisdicionais sejam competentes nos termos dos arts. 4.º, 7.º, 10.º ou 11.º (em regra, o da residência habitual — art. 64.º RSUE) e produz efeitos em todos os Estados-Membros vinculados sem necessidade de qualquer procedimento (art. 69.º, n.º 1); o seu uso não é obrigatório e não substitui os documentos internos (art. 62.º, n.os 2 e 3).",
+    "motivo": "A competência para emitir o CSE segue os arts. 4.º, 7.º, 10.º e 11.º (art. 64.º), e o certificado produz efeitos sem procedimento, sem ser obrigatório nem substituir os documentos internos (arts. 62.º e 69.º).",
+    "fonte": "https://publications.europa.eu/resource/celex/32012R0650"
+   },
+   {
+    "de": "[■ VERIFICAR: autoridade competente para emissão do CSE em Portugal — Conservatória do Registo Civil ou notário]",
+    "para": "Em Portugal, segundo a informação comunicada à Comissão (art. 78.º, n.º 1, al. c), RSUE), são competentes para emitir o CSE os conservadores, nomeadamente os que exercem competências nos procedimentos simplificados de sucessão hereditária (arts. 210.º-A a 210.º-R do Código do Registo Civil) [■ VERIFICAR: lista atual das conservatórias competentes no sítio do IRN].",
+    "motivo": "Segundo o Atlas Judiciário Europeu (ficha de Portugal), emitem o CSE os conservadores, e não os notários.",
+    "fonte": "https://e-justice.europa.eu/topics/taking-legal-action/european-judicial-atlas-civil-matters/succession/pt_pt"
+   },
+   {
+    "de": "- [ ] Óbito após 17/08/2014 — Regulamento aplicável",
+    "para": "- [ ] Óbito em ou após 17/08/2015 — Regulamento aplicável (art. 83.º, n.º 1, RSUE)",
+    "motivo": "Data de aplicação do art. 83.º, n.º 1, do Regulamento.",
+    "fonte": "https://publications.europa.eu/resource/celex/32012R0650"
+   },
+   {
+    "de": "- [ ] Estados envolvidos participam no Regulamento (excluir UK, Irlanda, Dinamarca)",
+    "para": "- [ ] Estados envolvidos vinculados pelo Regulamento (Irlanda e Dinamarca não estão; Reino Unido é Estado terceiro) e eventual reenvio (art. 34.º RSUE)",
+    "motivo": "Envolver um Estado não vinculado não exclui o Regulamento (art. 20.º); verificar o reenvio (art. 34.º).",
+    "fonte": "https://publications.europa.eu/resource/celex/32012R0650"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "A referência da casa (`references/sucessorio-internacional.md`) diz que Portugal é parte na Convenção da Haia de 1961 e que o CSE é emitido em Portugal por notário; as fontes consultadas (tabela de estado da HCCH; Atlas Judiciário Europeu) indicam o contrário — rever também essa referência.",
+   "Bens no Reino Unido: as autoridades portuguesas aplicam o Regulamento, mas os efeitos no Reino Unido (e o reconhecimento do CSE) dependem do direito desse Estado.",
+   "Confirmar se os notários portugueses, no inventário, atuam como «órgão jurisdicional» na aceção do art. 3.º, n.º 2, do Regulamento (a ficha de Portugal no Portal e-Justice ainda remete para a Lei n.º 23/2013)."
+  ],
+  "fontes": [
+   "https://publications.europa.eu/resource/celex/32012R0650",
+   "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:32012R0650",
+   "https://www.hcch.net/en/instruments/conventions/status-table/?cid=40",
+   "https://e-justice.europa.eu/topics/taking-legal-action/european-judicial-atlas-civil-matters/succession/pt_pt",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A1082&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A1083&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2102&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_revogado.php?nid=1895"
+  ]
+ },
+ {
+  "codigo": "SUC-052",
+  "veredicto": "corrigida",
+  "resumo": "A ficha assentava na ideia de que a aceitação pura e simples «confunde os patrimónios» e faz o herdeiro responder com bens próprios, atribuía ao art. 2053.º CC um «prazo», aos arts. 2060.º a 2070.º o procedimento e ao art. 2059.º CC a «separação de patrimónios», e descrevia a aceitação beneficiária como declaração autónoma perante notário ou tribunal num inventário notarial. Corrigi segundo os arts. 2052.º, 2053.º, 2061.º, 2068.º a 2071.º CC e os arts. 1082.º, 1083.º, 1088.º, 1098.º, 1106.º e 1108.º CPC: o herdeiro responde sempre só até ao valor dos bens herdados e a vantagem do benefício de inventário é o ónus da prova; a aceitação beneficiária faz-se requerendo inventário (judicial ou notarial) ou intervindo em inventário pendente, antes de qualquer aceitação pura e simples.",
+  "substituicoes": [
+   {
+    "de": "— Em Portugal, a aceitação a benefício de inventário é o mecanismo de proteção do herdeiro face às dívidas do de cuius; explicar claramente as vantagens e o procedimento.",
+    "para": "— Em Portugal, o herdeiro nunca responde pelos encargos da herança além do valor dos bens herdados; a aceitação a benefício de inventário protege-o porque só respondem os bens inventariados, cabendo aos credores provar a existência de outros, ao passo que na aceitação pura e simples é o herdeiro quem tem de provar a insuficiência da herança (art. 2071.º CC); explicar claramente as vantagens e o procedimento.",
+    "motivo": "A responsabilidade do herdeiro é sempre limitada às forças da herança; a diferença entre as espécies de aceitação está no ónus da prova (art. 2071.º CC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2071&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Impacto da aceitação pura e simples (risco de responder com bens próprios pelas dívidas do de cuius)",
+    "para": "- Impacto da aceitação pura e simples (o herdeiro só responde até ao valor dos bens herdados, mas tem de provar que na herança não existem valores suficientes; sem essa prova, arrisca responder com bens próprios — art. 2071.º, n.º 2, CC)",
+    "motivo": "Na aceitação pura e simples o risco é o da prova da insuficiência da herança (art. 2071.º, n.º 2, CC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2071&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Art. 2071.º CC: a aceitação pura e simples confunde os patrimônios (herdeiro responde com o seu pelo passivo da herança)",
+    "para": "- Art. 2071.º CC: aceita a herança a benefício de inventário, só respondem pelos encargos os bens inventariados, salvo se os credores ou legatários provarem a existência de outros bens (n.º 1); aceita pura e simplesmente, a responsabilidade pelos encargos também não excede o valor dos bens herdados, mas incumbe ao herdeiro provar que na herança não existem valores suficientes (n.º 2)",
+    "motivo": "O art. 2071.º CC não prevê confusão de patrimónios nem responsabilidade ilimitada; limita sempre a responsabilidade ao valor dos bens herdados.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2071&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Art. 2052.º CC: aceitação a benefício de inventário — herdeiro responde APENAS com as forças da herança",
+    "para": "- Art. 2052.º CC: a herança pode ser aceita pura e simplesmente ou a benefício de inventário; têm-se como não escritas as cláusulas testamentárias que imponham uma ou outra espécie de aceitação",
+    "motivo": "O art. 2052.º CC enuncia as espécies de aceitação; a limitação às forças da herança vale para ambas (art. 2071.º CC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2052&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Art. 2053.º CC: prazo — antes de qualquer ato de aceitação (inclusivamente declaração expressa de aceitação)",
+    "para": "- Art. 2053.º CC: forma — a aceitação a benefício de inventário faz-se requerendo inventário ou intervindo em inventário pendente; como a aceitação é irrevogável (art. 2061.º CC), o inventário tem de ser requerido antes de qualquer aceitação pura e simples, expressa ou tácita (art. 2056.º CC)",
+    "motivo": "O art. 2053.º CC fixa a forma, não um prazo; a necessidade de agir antes de aceitar pura e simplesmente decorre da irrevogabilidade da aceitação (art. 2061.º CC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2053&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Arts. 2060.º a 2070.º CC: procedimento, inventário obrigatório, pagamento dos credores",
+    "para": "- Arts. 2068.º a 2070.º CC: encargos por que a herança responde (funeral e sufrágios, testamentaria, administração e liquidação do património hereditário, dívidas do falecido e legados) e ordem por que são satisfeitos",
+    "motivo": "Os arts. 2060.º a 2067.º CC tratam da anulação da aceitação e do repúdio; os encargos da herança e a sua ordem estão nos arts. 2068.º a 2070.º CC, e o procedimento no CPC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2068&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": ": a separação de patrimônios — credores da herança têm preferência sobre os bens da herança; credores pessoais do herdeiro também são protegidos",
+    "para": ": os credores da herança e os legatários gozam de preferência sobre os credores pessoais do herdeiro, e os primeiros sobre os segundos; os encargos são satisfeitos pela ordem do art. 2068.º CC e as preferências mantêm-se nos cinco anos subsequentes à abertura da sucessão ou à constituição da dívida, se posterior, ainda que a herança tenha sido partilhada",
+    "motivo": "Conteúdo do art. 2070.º CC (preferências), para onde a revisão das citações já corrige o número; o art. 2059.º CC trata da caducidade do direito de aceitar.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2070&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Lei n.º 117/2019: o inventário notarial como mecanismo de concretização",
+    "para": "- Arts. 1082.º, al. b), e 1083.º CPC (na redação da Lei n.º 117/2019, que revogou o regime da Lei n.º 23/2013): o inventário pode destinar-se apenas a relacionar os bens e servir de base à liquidação da herança, quando não haja partilha a fazer, e corre no tribunal ou, à escolha do interessado que o instaura ou por acordo de todos, no cartório notarial, salvo nos casos de competência exclusiva dos tribunais",
+    "motivo": "A Lei n.º 117/2019 repôs o inventário no CPC e repartiu a competência entre tribunais e cartórios notariais (art. 1083.º CPC); não instituiu um inventário só notarial.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A1083&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "1. Declaração de aceitação a benefício de inventário junto do cartório notarial ou tribunal\n2. Instauração do processo de inventário notarial (Lei n.º 117/2019)\n3. Elaboração da relação de bens (ativo) e relação de créditos (passivo)\n4. Notificação dos credores para reclamar créditos\n5. Pagamento dos credores pela ordem legal de graduação",
+    "para": "1. Requerimento de inventário (ou intervenção em inventário pendente), que é a forma da aceitação a benefício de inventário (art. 2053.º CC), no tribunal ou no cartório notarial, conforme a repartição de competências (art. 1083.º CPC)\n2. Tramitação do inventário nos termos dos arts. 1082.º e ss. CPC\n3. Relação de bens pelo cabeça de casal, com os créditos e as dívidas relacionados em separado (art. 1098.º CPC)\n4. Citação dos titulares ativos de encargos da herança para reclamarem os seus direitos até à conferência de interessados (art. 1088.º CPC)\n5. Verificação do passivo e pagamento das dívidas reconhecidas pelos bens da herança, com as preferências do art. 2070.º CC (art. 1106.º CPC); se a herança estiver insolvente, a instância é extinta e os interessados são remetidos para o processo de insolvência (art. 1108.º CPC)",
+    "motivo": "Não há declaração autónoma: a aceitação beneficiária faz-se no inventário (art. 2053.º CC); os credores são citados (art. 1088.º CPC), o passivo é verificado no próprio inventário (art. 1106.º CPC) e, havendo insolvência da herança, remete-se para o processo de insolvência (art. 1108.º CPC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A1106&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "reservando-se o direito de só responder pelas dívidas da herança com as forças dos bens que a compõem.",
+    "para": "pelo que só respondem pelos encargos da herança os bens inventariados, salvo se os credores ou legatários provarem a existência de outros bens (artigo 2071.º, n.º 1, do Código Civil), e, para esse efeito, requer a instauração de processo de inventário [ou: intervém no processo de inventário n.º [número], pendente em [tribunal / cartório notarial]], nos termos do artigo 2053.º do Código Civil.\n\n[A declaração só produz efeito se constar do requerimento de inventário ou da intervenção em inventário pendente — art. 2053.º CC.]",
+    "motivo": "A aceitação a benefício de inventário faz-se requerendo inventário ou intervindo em inventário pendente (art. 2053.º CC) e o seu efeito é o do art. 2071.º, n.º 1, CC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2053&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Declaração de aceitação a benefício de inventário feita ANTES de qualquer ato de aceitação",
+    "para": "- [ ] Inventário requerido (ou intervenção em inventário pendente) ANTES de qualquer aceitação pura e simples, expressa ou tácita (arts. 2053.º e 2061.º CC)",
+    "motivo": "A aceitação beneficiária faz-se pelo inventário (art. 2053.º CC) e a aceitação é irrevogável (art. 2061.º CC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2061&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Inventário notarial instaurado ou a instaurar",
+    "para": "- [ ] Inventário (judicial ou notarial — art. 1083.º CPC) instaurado ou a instaurar",
+    "motivo": "O inventário pode correr no tribunal ou no cartório notarial (art. 1083.º CPC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A1083&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Credores da herança notificados (procedimento do inventário)",
+    "para": "- [ ] Titulares de encargos da herança citados no inventário (art. 1088.º CPC)",
+    "motivo": "Os titulares ativos de encargos da herança são citados para reclamar os seus direitos (art. 1088.º CPC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A1088&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Separação de patrimônios em vigor (credores da herança têm preferência nos bens da herança)",
+    "para": "- [ ] Preferência dos credores da herança e dos legatários sobre os credores pessoais do herdeiro tida em conta (art. 2070.º CC)",
+    "motivo": "O regime é o das preferências do art. 2070.º CC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2070&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Prazo de aceitação a benefício de inventário verificado (antes de qualquer ato de aceitação)",
+    "para": "- [ ] Direito de aceitar não caducado (dez anos — art. 2059.º CC) e eventual notificação judicial para aceitar ou repudiar (art. 2049.º CC) verificados",
+    "motivo": "Não há prazo próprio para a aceitação beneficiária; o prazo a vigiar é o de caducidade do direito de aceitar (art. 2059.º CC) e o fixado após notificação judicial (art. 2049.º CC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2059&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Havendo vários herdeiros e partilha a fazer, o inventário segue a função da al. a) do art. 1082.º CPC (partilha), servindo igualmente de aceitação beneficiária: confirmar o enquadramento no caso.",
+   "Inventários pendentes em cartório notarial à data da entrada em vigor da Lei n.º 117/2019: regime transitório (art. 11.º dessa lei).",
+   "Dívidas fiscais e à Segurança Social do de cuius: confirmar a responsabilidade da herança e dos herdeiros perante a AT e a Segurança Social.",
+   "Quando o passivo excede claramente o ativo, ponderar o repúdio (arts. 2062.º e ss. CC)."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2052&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2053&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2059&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2061&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2068&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2070&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2071&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A1082&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A1083&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A1088&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A1098&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A1106&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A1108&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_revogado.php?nid=1895"
+  ]
+ }
+]

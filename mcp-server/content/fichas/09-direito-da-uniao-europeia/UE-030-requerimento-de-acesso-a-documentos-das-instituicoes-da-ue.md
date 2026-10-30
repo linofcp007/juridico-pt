@@ -6,7 +6,8 @@ titulo_en: "Request for Access to Documents of the EU Institutions (Regulation 1
 descricao: "Elabora o pedido de acesso a documentos de instituições, órgãos e organismos da União Europeia (Comissão, Conselho, Parlamento, agências) ao abrigo do Regulamento (CE) n.º 1049/2001, incluindo o pedido confirmativo em caso de recusa e a eventual impugnação judicial perante o Tribunal Geral."
 descricao_en: "Prepares the request for access to documents of the institutions, bodies, offices and agencies of the European Union (Commission, Council, Parliament, agencies) under Regulation (EC) No 1049/2001, including the confirmatory application in the event of refusal and any judicial challenge before the General Court."
 ambito: ue
-estado_citacoes: "conferidas 5 · corrigidas 0 · por conferir 14"
+estado_citacoes: "conferidas 5 · corrigidas 0 · por conferir 18"
+revisao_tecnica: "2026-10-28 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
@@ -14,7 +15,8 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 
 > **Âmbito:** UE · **Área:** Direito da União Europeia · **Código:** UE-030
 > **EN:** Request for Access to Documents of the EU Institutions (Regulation 1049/2001). Prepares the request for access to documents of the institutions, bodies, offices and agencies of the European Union (Commission, Council, Parliament, agencies) under Regulation (EC) No 1049/2001, including the confirmatory application in the event of refusal and any judicial challenge before the General Court.
-> **Citações:** conferidas 5 · corrigidas 0 · por conferir 14. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 5 · corrigidas 0 · por conferir 18. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-28 — corrigida (5 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
 Elabora o pedido de acesso a documentos de instituições, órgãos e organismos da União Europeia (Comissão, Conselho, Parlamento, agências) ao abrigo do Regulamento (CE) n.º 1049/2001, incluindo o pedido confirmativo em caso de recusa e a eventual impugnação judicial perante o Tribunal Geral.
 
@@ -41,11 +43,11 @@ Dentro de <analise_da_situacao>:
 ### ETAPA 2 — ANÁLISE JURÍDICA
 Dentro de <fundamentos_juridicos>:
 - Fundamento: art. 15.º TFUE + Regulamento 1049/2001; art. 42.º Carta dos Direitos Fundamentais
-- Âmbito do direito de acesso (art. 2.º Reg. 1049/2001): qualquer cidadão da UE ou residente; documentos elaborados ou recebidos e na posse da instituição
-- Exceções ao acesso (art. 4.º Reg. 1049/2001): segurança pública, relações internacionais, processo judicial, inspeções/investigações, interesses comerciais, privacidade; distinguir exceções absolutas vs. relativas (ponderação com interesse público)
+- Âmbito do direito de acesso (art. 2.º Reg. 1049/2001): qualquer cidadão da União e qualquer pessoa singular ou coletiva que resida ou tenha a sede social num EM (n.º 1); a outras pessoas, a instituição pode conceder acesso (n.º 2); documentos elaborados ou recebidos e na posse da instituição (n.º 3)
+- Exceções ao acesso (art. 4.º Reg. 1049/2001): absolutas (n.º 1) — interesse público (segurança pública, defesa e questões militares, relações internacionais, política financeira, monetária ou económica) e vida privada e integridade do indivíduo, em especial a proteção de dados pessoais; relativas, que cedem perante um interesse público superior na divulgação (n.ºs 2 e 3) — interesses comerciais, incluindo a propriedade intelectual, processos judiciais e consultas jurídicas, objetivos de atividades de inspeção, inquérito e auditoria, e processo decisório da instituição
 - Procedimento: primeiro pedido à instituição — prazo de resposta 15 dias úteis (art. 7.º); recusa total ou parcial → pedido confirmativo em 15 dias úteis (art. 7.º, n.º 2) → decisão em 15 dias úteis (art. 8.º)
-- Vias de impugnação em caso de recusa confirmativa: Provedor de Justiça Europeu (art. 228.º TFUE) ou recurso de anulação perante o Tribunal Geral (art. 263.º TFUE, prazo 2 meses)
-- Jurisprudência relevante: princípio da interpretação restrita das exceções (Caso Bavarian Lager, T-194/04)
+- Vias de impugnação em caso de recusa confirmativa ou de falta de resposta (art. 8.º, n.ºs 1 e 3): queixa ao Provedor de Justiça Europeu (art. 228.º TFUE) e/ou recurso de anulação perante o Tribunal Geral (art. 263.º TFUE), no prazo de 2 meses a contar da notificação, acrescido do prazo de dilação em razão da distância de 10 dias (art. 60.º do Regulamento de Processo do Tribunal Geral); a queixa ao Provedor não interrompe esse prazo (art. 2.º, n.º 8, do Regulamento (UE, Euratom) 2021/1163)
+- Jurisprudência relevante: as exceções do art. 4.º devem ser interpretadas e aplicadas estritamente (acórdão do Tribunal de Justiça de 1 de julho de 2008, Suécia e Turco/Conselho, C-39/05 P e C-52/05 P, n.º 36); não citar o acórdão do Tribunal Geral Bavarian Lager (T-194/04), anulado pelo Tribunal de Justiça em recurso (C-28/08 P, de 29 de junho de 2010), que respeita à exceção da proteção de dados pessoais
 
 ### ETAPA 3 — ESTRATÉGIA E ESTRUTURA
 Dentro de <estrutura_pedido>:
@@ -100,7 +102,7 @@ Dentro de <checklist_validacao>:
 - [ ] Prazo de 15 dias úteis para pedido confirmativo verificado
 - [ ] Exceções potenciais antecipadas e contra-argumentadas
 - [ ] Via de impugnação seguinte identificada (Provedor / Tribunal Geral)
-- [ ] Prazo de 2 meses para recurso ao Tribunal Geral calendarizado
+- [ ] Prazo de 2 meses + 10 dias de dilação para recurso ao Tribunal Geral calendarizado (a queixa ao Provedor não o interrompe)
 - [ ] [■ VERIFICAR] itens sinalizados
 
 ---
@@ -121,6 +123,8 @@ Dentro de <checklist_validacao>:
 | art. 15.º TFUE | conferida (epígrafe) — A fim de promover a boa governação e assegurar a participação da sociedade civil, a atuaçã |  |
 | art. 42.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 2.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 2.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 4.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 4.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 4.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 4.º | por conferir [■ VERIFICAR] | diploma não identificado |
@@ -128,8 +132,10 @@ Dentro de <checklist_validacao>:
 | art. 7.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 7.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 8.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 8.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 228.º TFUE | conferida (epígrafe) — O Provedor de Justiça Europeu, que é eleito pelo Parlamento Europeu, é competente para rec |  |
 | art. 263.º TFUE | conferida (epígrafe) — O Tribunal de Justiça da União Europeia fiscaliza a legalidade dos atos legislativos, dos  |  |
+| art. 60.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | artigo 15.º do TFUE | conferida (epígrafe) — A fim de promover a boa governação e assegurar a participação da sociedade civil, a atuaçã |  |
 | artigo 2.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | artigo 15.º, n.º 3, do Tratado sobre o Funcionamento da União Europeia | conferida (epígrafe) — A fim de promover a boa governação e assegurar a participação da sociedade civil, a atuaçã |  |

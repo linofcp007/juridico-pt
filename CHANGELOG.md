@@ -4,6 +4,47 @@ Todas as alterações relevantes ao **juridico-pt** (até à 1.2.1, **advogado-p
 [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.0/) e o projeto adere ao
 [Versionamento Semântico](https://semver.org/lang/pt-BR/). A versão refere-se ao plugin como um todo.
 
+## [3.1.2] - 2026-10
+
+**Revisão técnica de todas as fichas que a triagem apontou: 834 fichas, com o regime confirmado na fonte oficial.**
+
+### Fixed
+
+- **Fichas revistas:**
+  - A triagem leu as 1214 fichas que faltavam e apontou 792: 137 de gravidade alta, 419 média e 236 baixa. Todas foram revistas a fundo. Com as 42 da 3.1.1, são 834 fichas e 7157 correções.
+  - Cada correção tem a fonte oficial (PGDL, Diário da República, Portal das Finanças, Serviço de Publicações da UE ou o site do organismo competente) ou um `[■ VERIFICAR]` no texto.
+  - Resultado: 830 fichas corrigidas e 4 a rever de raiz. As outras 422 não tinham, segundo a triagem, problemas de fundo.
+  - O relatório `assets/fichas/revisao-tecnica.md` tem, por ficha, o que mudou e porquê, a fonte e 2863 pontos para o advogado confirmar.
+- **Reformas que passam a constar das fichas:**
+  - **nacionalidade e estrangeiros:** a Lei Orgânica n.º 1/2026 (7 ou 10 anos de residência); as Leis n.º 61/2025 e n.º 62/2026 e o Pacto em matéria de Migração e Asilo; o afastamento coercivo decidido pela PSP (Lei n.º 55-C/2025);
+  - **digital:** o DL n.º 125/2025 (NIS2); o calendário do AI Act segundo o Reg. (UE) 2026/1744; a ANACOM como coordenadora dos serviços digitais (Lei n.º 12-A/2026);
+  - **administrativo e urbanismo:** o CCP segundo o DL n.º 177/2026; o RJUE sem alvará nem autorização de utilização (DL n.º 10/2024 e DL n.º 108/2026);
+  - **concorrência e PI:** o Reg. (UE) 2026/877 (transferência de tecnologia); a 13.ª edição da Classificação de Nice;
+  - **banca:** o DL n.º 103/2025 e a Lei n.º 14/2026 (seguro de vida no crédito à habitação); o MiCA na Lei n.º 69/2025;
+  - **família:** a Autoridade Central da Convenção da Haia de 1980 é a DGAJ; a adoção segue o regime jurídico do processo de adoção (RJPA).
+- **Referências da casa** corrigidas na fonte oficial:
+  - a impugnação judicial de uma coima rodoviária é em 15 dias úteis e entrega-se na autoridade que a aplicou (art. 181.º do Código da Estrada);
+  - o direito de retenção depois do DL n.º 48/2024, em `imobiliario.md`, `insolvencia.md` e no playbook de compra de casa;
+  - Portugal não é parte na Convenção da Haia de 1961 sobre a forma dos testamentos; quem emite o certificado sucessório europeu;
+  - quando o inventário é obrigatório, e a forma do repúdio;
+  - a demolição e a impugnação administrativa no RJUE;
+  - as alterações do DL n.º 74-A/2017.
+- **COM-059:** uma decisão de citação corrigia para o art. 135.º CSC, revogado pelo DL n.º 76-A/2006. Passa a «verificar».
+
+### Added
+
+- **Artigos revogados:**
+  - cada `references/epigrafes/<SIGLA>.json` passa a ter a lista `revogados` (325 artigos nos 25 diplomas), lida no texto oficial: a PGDL só marca o «(Revogado.)» no texto do artigo, não na lista de epígrafes;
+  - o importador marca com `[■ VERIFICAR]` a citação de um artigo revogado, salvo se o texto já diz que está revogado, e falha numa correção que aponte para um revogado;
+  - `gerar-epigrafes.mjs --revogados` refaz só a lista.
+- **Citações sem «º»:** citações como «Art. 882 CC» passam a ser conferidas, quando a sigla vem logo a seguir. Há 150 no catálogo.
+- **Testes:** T-533 (revogados e citações sem «º»), T-534 (lista AO90) e T-535 (as 792 fichas no relatório e as referências corrigidas).
+
+### Changed
+
+- **Lista AO90:** mais 80 formas, por exemplo adopção, accionista, contra-ordenação, peremptório, fraccionado, seleccionar, eléctrico, co-herdeiro e infra-estrutura. Os trechos das correções passam pela mesma normalização.
+- **Citações das fichas:** há 22 298 no catálogo. Das 12 539 com diploma reconhecido, 94,8 % estão conferidas ou corrigidas.
+
 ## [3.1.1] - 2026-10
 
 **Revisão técnica de 42 fichas: o regime, e não só o número do artigo, confirmado na fonte oficial.**

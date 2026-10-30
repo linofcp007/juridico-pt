@@ -1,0 +1,66 @@
+[
+  {"codigo": "BAN-032", "triagem": "ok"},
+  {"codigo": "BAN-033", "triagem": "ok"},
+  {"codigo": "BAN-034", "triagem": "rever", "gravidade": "baixa", "motivos": [
+    "O DL 133/2009 é apresentado como regime em vigor sem ressalva: a Diretiva (UE) 2023/2225 (nova diretiva do crédito aos consumidores) revoga a 2008/48/CE com aplicação a partir de 20/11/2026 e altera o âmbito (desaparece o limite mínimo de 200 EUR e o máximo sobe para 100.000 EUR); confirmar a transposição nacional e o âmbito de «entre 200 e 75.000 EUR».",
+    "Terminologia: no crédito ao consumo a informação pré-contratual é a INE (Informação Normalizada Europeia), não a «FINE», que é a ficha do crédito à habitação (DL 74-A/2017); a própria BAN-060 distingue os dois."
+  ]},
+  {"codigo": "BAN-035", "triagem": "ok"},
+  {"codigo": "BAN-036", "triagem": "rever", "gravidade": "media", "motivos": [
+    "A Diretiva 2014/65/UE (MiFID II) não foi transposta pelo DL 63-A/2013; a transposição nacional é a Lei 35/2018, de 20 de julho (que alterou o CVM e o RGICSF). Diploma errado na descrição da ficha.",
+    "Morada da CMVM desatualizada na minuta de reclamação: Avenida da Liberdade n.º 252 é a antiga sede; a CMVM está na Rua Laura Alves, n.º 4, 1050-138 Lisboa.",
+    "Checklist indica prescrição de 2 anos «art. 324.º CVM» para o dano do investidor: prazo duvidoso; a jurisprudência do STJ aplica o regime do Código Civil (20 anos na responsabilidade contratual, art. 309.º, ou 3 anos na extracontratual, art. 498.º). Confirmar antes de usar."
+  ]},
+  {"codigo": "BAN-037", "triagem": "ok"},
+  {"codigo": "BAN-038", "triagem": "rever", "gravidade": "media", "motivos": [
+    "Checklist de prescrição diz «2 anos do conhecimento do dano» ao abrigo do art. 498.º CC: o prazo do art. 498.º, n.º 1, é de 3 anos (20 anos desde o facto); se a responsabilidade for contratual aplica-se o prazo ordinário de 20 anos (art. 309.º). O texto mantém o prazo errado e só o corrige numa nota [VERIFICAR].",
+    "O «Regime Jurídico dos Produtos Financeiros Complexos (DL 211-A/2008, alterado pelo DL 63-A/2013)», a «notificação ao Banco de Portugal (art. 3.º RJPFC)» e o Aviso do BdP 4/2009 não são identificáveis com segurança como regime autónomo em vigor; hoje a comercialização de depósitos estruturados rege-se pela Lei 35/2018 (MiFID II) e pelo Regulamento PRIIPs. Confirmar a base legal antes de citar."
+  ]},
+  {"codigo": "BAN-039", "triagem": "rever", "gravidade": "media", "motivos": [
+    "O DL 31-A/2012 é apresentado como «transposição da BRRD», o que é errado: é anterior à Diretiva 2014/59/UE, que foi transposta pela Lei 23-A/2015 (nova redação do RGICSF, com o bail-in e os arts. 145.º-A e ss.). Citar o DL 31-A/2012 como regime vigente de resolução (bail-in, NCWO) está desatualizado.",
+    "A impugnação da decisão de resolução do Banco de Portugal é ação administrativa nos tribunais administrativos (regras próprias do RGICSF sobre efeito devolutivo e prazos); a ficha deixa o prazo e o meio processual em dúvida (nota [VERIFICAR]) e a reclamação de créditos «no banco de transição» não corresponde ao tratamento dos créditos não transferidos, que ficam na entidade residual/liquidação."
+  ]},
+  {"codigo": "BAN-040", "triagem": "ok"},
+  {"codigo": "BAN-041", "triagem": "ok"},
+  {"codigo": "BAN-042", "triagem": "rever", "gravidade": "media", "motivos": [
+    "Dever de conservação indicado como 5 anos (art. 51.º Lei 83/2017): o prazo legal é de 7 anos após a execução da operação ou o termo da relação de negócio. Prazo errado numa checklist de compliance."
+  ]},
+  {"codigo": "BAN-043", "triagem": "ok"},
+  {"codigo": "BAN-044", "triagem": "ok"},
+  {"codigo": "BAN-045", "triagem": "rever", "gravidade": "media", "motivos": [
+    "Diz que a seguradora tem «3 anos» para reagir à omissão/inexatidão da declaração de risco (art. 24.º, n.º 5, LCS). O n.º 5 do art. 24.º regula a consequência de o segurador não ter prestado os esclarecimentos do n.º 4; no incumprimento negligente o segurador dispõe de 3 meses a contar do conhecimento (art. 26.º, n.º 1, LCS), e no doloso há anulabilidade (art. 25.º). Prazo e norma errados, com efeito direto no argumento de defesa do segurado.",
+    "Confunde as consequências: a omissão negligente (alteração/cessação do contrato e cobertura proporcional ao prémio) está no art. 26.º LCS e o art. 25.º LCS trata das omissões dolosas (anulabilidade, sem cobertura do sinistro)."
+  ]},
+  {"codigo": "BAN-046", "triagem": "rever", "gravidade": "media", "motivos": [
+    "Entidade errada: remete reclamação por discriminação para a CNPD, que é a autoridade de proteção de dados; a discriminação no acesso a serviços por nacionalidade/origem cabe à CICDR (ACM) / Provedor de Justiça, além do Banco de Portugal (supervisão de conduta).",
+    "Fundamento de recusa mal descrito: o DL 107/2017 (art. 6.º da Diretiva 2014/92/UE) permite recusar se o consumidor já for titular, em Portugal, de conta de pagamento que lhe permita os serviços básicos, não por «pedido de mais de uma conta básica na mesma instituição»; o mesmo erro repete-se no fundamento de encerramento (segunda conta). Faltam ainda o fundamento de perda de residência legal na UE e a regra de que o encerramento por uso ilícito ou informação falsa pode ser imediato."
+  ]},
+  {"codigo": "BAN-047", "triagem": "ok"},
+  {"codigo": "BAN-048", "triagem": "ok"},
+  {"codigo": "BAN-049", "triagem": "rever", "gravidade": "baixa", "motivos": [
+    "Proteção temporária de saldos acima de 100.000 EUR (imóvel, casamento/divórcio, herança, indemnizações) indicada como «nos últimos 6 meses»: a Diretiva 2014/49/UE e o RGICSF fixam a proteção por um período até 12 meses após o crédito do montante; confirmar o prazo (art. 166.º RGICSF) antes de o usar na reclamação."
+  ]},
+  {"codigo": "BAN-050", "triagem": "rever", "gravidade": "media", "motivos": [
+    "Afirma que os serviços mínimos bancários / conta de pagamento básica têm comissões «zero» (conta básica gratuita) ao abrigo do DL 107/2017: a comissão anual da conta de pagamento básica pode ir até 1% do IAS e só é gratuita para consumidores em situação de vulnerabilidade económica. A reclamação pediria a devolução de comissões legalmente cobradas.",
+    "O Aviso do BdP 8/2009 e o prazo de pré-aviso de 60 dias (art. 4.º) não estão confirmados como regime atual de comissões e preçário; confirmar a vigência."
+  ]},
+  {"codigo": "BAN-051", "triagem": "ok"},
+  {"codigo": "BAN-052", "triagem": "rever", "gravidade": "media", "motivos": [
+    "Cita o «Regime de Acesso e Exercício da Atividade Seguradora (DL 2/2009)»: o RJASR em vigor é o aprovado pela Lei 147/2015, de 9 de setembro (Solvência II), que revogou o regime anterior.",
+    "Cita o DL 176/95 (informação e publicidade em seguros), revogado pelo DL 72/2008 (LCS); o dever de informação pré-contratual está nos arts. 18.º a 22.º LCS, como a própria ficha reconhece no corpo."
+  ]},
+  {"codigo": "BAN-053", "triagem": "ok"},
+  {"codigo": "BAN-054", "triagem": "ok"},
+  {"codigo": "BAN-055", "triagem": "rever", "gravidade": "media", "motivos": [
+    "Capital mínimo do seguro RC profissional dos mediadores de seguros indicado em 1.300.380 EUR por sinistro: é o valor de 2019; o limite foi atualizado pela revisão quinquenal da Diretiva (UE) 2016/97 (cerca de 1.564.610 EUR por sinistro e 2.315.610 EUR por ano). Valor desatualizado e a ficha omite o limite anual agregado; os valores devem remeter para valores-2026.",
+    "O «DL 148/2006 (mediadores de crédito)» não corresponde ao regime da intermediação de crédito, que é o DL 81-C/2017 (antes, o DL 144/2009); o DL 144/2006 era o regime dos mediadores de seguros e foi revogado pela Lei 7/2019."
+  ]},
+  {"codigo": "BAN-056", "triagem": "ok"},
+  {"codigo": "BAN-057", "triagem": "ok"},
+  {"codigo": "BAN-058", "triagem": "ok"},
+  {"codigo": "BAN-059", "triagem": "rever", "gravidade": "baixa", "motivos": [
+    "Os sistemas de reporte «STE (sistema de títulos)» e «ILTIS (informação de liquidez)» não são identificáveis como obrigações de reporte ao Banco de Portugal e parecem designações inventadas; confirmar ou retirar.",
+    "Prazo de resposta em audição indicado como «10 a 30 dias» e artigos do quadro sancionatório sem confirmação; o processo contraordenacional do setor financeiro tem regime próprio no RGICSF (defesa em dias úteis e impugnação judicial para o Tribunal da Concorrência, Regulação e Supervisão), que a ficha não refere."
+  ]},
+  {"codigo": "BAN-060", "triagem": "ok"}
+]

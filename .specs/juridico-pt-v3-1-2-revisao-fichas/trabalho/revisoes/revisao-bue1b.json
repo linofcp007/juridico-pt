@@ -1,0 +1,328 @@
+[
+ {
+  "codigo": "UE-029",
+  "veredicto": "corrigida",
+  "resumo": "A ficha situava os limiares de notificação no Anexo I do RGIC, que é a definição de PME: passam a remeter para o art. 4.º. O limite de minimis é de 300 000 EUR em qualquer período de três anos, apreciado em base móvel (já não em três exercícios fiscais), com registo central obrigatório desde 1/1/2026. A publicação do art. 9.º faz-se no Módulo de Transparência da Comissão ou num sítio Web nacional, e não num «registo de transparência da UE». Acrescentou-se o aviso de que o RGIC é aplicável até 31/12/2026 e está em revisão, e precisaram-se as exclusões do art. 1.º.",
+  "substituicoes": [
+   {
+    "de": "— Cita artigos reais do TFUE e do RGIC.",
+    "para": "— Cita artigos reais do TFUE e do RGIC.\n— O RGIC (Regulamento (UE) n.º 651/2014) é aplicável até 31/12/2026 (art. 59.º RGIC). A Comissão prevê adotar um novo RGIC no final de 2026, com entrada em vigor a 1/1/2027: para auxílios concedidos a partir de 2027, confirma o regulamento aplicável à data da concessão e o período de adaptação de seis meses dos regimes já isentos (art. 58.º, n.º 4, RGIC) [■ VERIFICAR: texto e data de aplicação do novo RGIC].",
+    "motivo": "O RGIC caduca a 31/12/2026 e a revisão ainda não foi adotada; a ficha não o assinalava.",
+    "fonte": "https://competition-policy.ec.europa.eu/state-aid/gber-review_en"
+   },
+   {
+    "de": "- Setor de atividade do beneficiário (verificar exclusões do art. 1.º RGIC: pesca, aquicultura, produção agrícola primária, setor de exportação, auxílios condicionados a preferência de produtos nacionais)",
+    "para": "- Setor de atividade e situação do beneficiário (verificar as exclusões do art. 1.º RGIC: pescas e aquicultura e produção agrícola primária, salvo as categorias aí ressalvadas; auxílios a atividades relacionadas com a exportação; auxílios subordinados à utilização de produtos nacionais em detrimento de produtos importados; empresas em dificuldade; empresas sujeitas a injunção de recuperação pendente)",
+    "motivo": "As exclusões do art. 1.º não são totais nos setores agrícola e das pescas, a exclusão é dos auxílios à exportação (não de um «setor de exportação») e faltavam as empresas em dificuldade e as sujeitas a injunção de recuperação.",
+    "fonte": "https://publications.europa.eu/resource/celex/02014R0651-20230701"
+   },
+   {
+    "de": "- Verificação dos limiares de notificação (Anexo I RGIC): montantes máximos de auxílio por beneficiário",
+    "para": "- Verificação dos limiares de notificação (art. 4.º RGIC): montantes máximos de auxílio, por empresa e por projeto, fixados para cada categoria (o Anexo I RGIC contém a definição de PME, relevante para as categorias reservadas às PME)",
+    "motivo": "Os limiares de notificação constam do art. 4.º; o Anexo I é a definição de PME.",
+    "fonte": "https://publications.europa.eu/resource/celex/02014R0651-20230701"
+   },
+   {
+    "de": "- Cumulative test: regras de cumulação (art. 8.º RGIC)",
+    "para": "- Cumulação: regras do art. 8.º RGIC (para os limiares do art. 4.º e as intensidades máximas, conta o montante total de auxílios estatais à atividade, ao projeto ou à empresa)",
+    "motivo": "Expressão em inglês substituída e conteúdo do art. 8.º, n.º 1, precisado.",
+    "fonte": "https://publications.europa.eu/resource/celex/02014R0651-20230701"
+   },
+   {
+    "de": "- Regime de minimis (Regulamento 2023/2831): alternativa se RGIC não aplicável — limite €300.000 em 3 anos fiscais (novo limiar 2024)",
+    "para": "- Regime de minimis (Regulamento (UE) 2023/2831, aplicável de 1/1/2024 a 31/12/2030): alternativa se o RGIC não for aplicável — limite de €300.000 por empresa única e por Estado-Membro em qualquer período de três anos, apreciado numa base móvel (art. 3.º, n.º 2, do Regulamento (UE) 2023/2831)",
+    "motivo": "O Regulamento 2023/2831 abandonou os «três exercícios fiscais» do Regulamento 1407/2013: o período de três anos é móvel.",
+    "fonte": "https://publications.europa.eu/resource/celex/32023R2831"
+   },
+   {
+    "de": "[Montante do auxílio vs. limiar máximo do Anexo I RGIC para a categoria aplicável]",
+    "para": "[Montante do auxílio vs. limiar de notificação do art. 4.º RGIC para a categoria aplicável]",
+    "motivo": "Os limiares estão no art. 4.º, não no Anexo I.",
+    "fonte": "https://publications.europa.eu/resource/celex/02014R0651-20230701"
+   },
+   {
+    "de": "[Publicação no registo de transparência da UE (art. 9.º RGIC): obrigatório para auxílios > €100.000; para alguns setores > €10.000]",
+    "para": "[Publicação, pelo Estado-Membro, no Módulo de Transparência dos Auxílios Estatais da Comissão ou num sítio Web dedicado aos auxílios estatais, a nível nacional ou regional (art. 9.º RGIC): obrigatória para cada auxílio individual superior a €100.000 (€10.000 na produção agrícola primária e nas pescas e aquicultura), no prazo de seis meses a contar da concessão (um ano nos benefícios fiscais)]",
+    "motivo": "O art. 9.º não prevê um «registo de transparência da UE» (designação do registo de grupos de interesse); a publicação é feita pelo Estado-Membro no módulo da Comissão ou num sítio nacional, com prazo próprio.",
+    "fonte": "https://publications.europa.eu/resource/celex/02014R0651-20230701"
+   },
+   {
+    "de": "[Se RGIC não aplicável: verificação do Regulamento 2023/2831; limite €300.000 em 3 exercícios fiscais; declaração do beneficiário; proibição de cumulação com auxílio de Estado para os mesmos custos elegíveis]",
+    "para": "[Se RGIC não aplicável: verificação do Regulamento (UE) 2023/2831; limite de €300.000 por empresa única em qualquer período de três anos (base móvel); consulta do registo central de auxílios de minimis, obrigatório desde 1/1/2026 (art. 6.º), e, enquanto este não abranger três anos, declaração do beneficiário sobre os outros auxílios de minimis recebidos (art. 7.º, n.º 4); proibição de cumulação com auxílios estatais para os mesmos custos elegíveis se a cumulação exceder a intensidade ou o montante máximos aplicáveis (art. 5.º, n.º 3)]",
+    "motivo": "Período de três anos móvel; registo central obrigatório desde 2026; a proibição de cumulação só opera se exceder a intensidade ou o montante máximos.",
+    "fonte": "https://publications.europa.eu/resource/celex/32023R2831"
+   },
+   {
+    "de": "- [ ] Montante dentro do limiar da categoria (Anexo I)",
+    "para": "- [ ] Montante dentro do limiar de notificação da categoria (art. 4.º RGIC)",
+    "motivo": "Os limiares estão no art. 4.º, não no Anexo I.",
+    "fonte": "https://publications.europa.eu/resource/celex/02014R0651-20230701"
+   },
+   {
+    "de": "- [ ] Publicação no registo de transparência prevista se > €100.000",
+    "para": "- [ ] Publicação no Módulo de Transparência da Comissão ou no sítio Web nacional prevista se > €100.000 (art. 9.º RGIC)",
+    "motivo": "Designação correta do meio de publicação do art. 9.º.",
+    "fonte": "https://publications.europa.eu/resource/celex/02014R0651-20230701"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar se o novo RGIC foi adotado e publicado no JO e a sua data de aplicação (prevista para 1/1/2027), bem como o regime transitório para auxílios concedidos ao abrigo do RGIC atual.",
+   "Confirmar a plataforma nacional do registo central de auxílios de minimis e se já abrange três anos (até lá mantém-se a declaração do beneficiário).",
+   "Confirmar, para a categoria concreta, a intensidade máxima e o limiar do art. 4.º na versão consolidada em vigor à data da concessão."
+  ],
+  "fontes": [
+   "https://publications.europa.eu/resource/celex/02014R0651-20230701",
+   "https://competition-policy.ec.europa.eu/state-aid/gber-review_en",
+   "https://publications.europa.eu/resource/celex/32023R2831",
+   "https://competition-policy.ec.europa.eu/public-consultations/2026-gber_en"
+  ]
+ },
+ {
+  "codigo": "UE-035",
+  "veredicto": "corrigida",
+  "resumo": "O calendário estava desatualizado e impreciso: o Regulamento (UE) 2026/1744 («Omnibus Digital») adiou o alto risco para 2/12/2027 (Anexo III) e 2/8/2028 (Anexo I) e acrescentou duas proibições ao art. 5.º, aplicáveis a partir de 2/12/2026; a aplicação geral conta-se da entrada em vigor, não da publicação. A legislação de harmonização está no Anexo I (não no II), os arts. 8.º-15.º são requisitos do sistema e as obrigações do responsável pela implantação estão no art. 26.º. Corrigiram-se ainda a lista do Anexo IV (nove pontos, sem o certificado do organismo notificado), os elementos da declaração UE (Anexo V) e o âmbito do registo do art. 49.º.",
+  "substituicoes": [
+   {
+    "de": "— O AI Act tem calendário de aplicação faseado: proibições (6 meses após entrada em vigor — fevereiro 2025); GPAI (12 meses — agosto 2025); sistemas de alto risco (24/36 meses — 2026/2027); regras plenas em vigor 2 anos após publicação (agosto 2026).",
+    "para": "— O AI Act entrou em vigor a 1/8/2024 e tem calendário de aplicação faseado (art. 113.º, na redação do Regulamento (UE) 2026/1744 — «Omnibus Digital», em vigor desde 27/7/2026): proibições e literacia em IA desde 2/2/2025, com as novas proibições do art. 5.º, n.º 1, als. b-A) e b-B), aplicáveis a partir de 2/12/2026; GPAI desde 2/8/2025; aplicação geral, incluindo a transparência do art. 50.º, desde 2/8/2026 (os sistemas que geram conteúdos sintéticos colocados no mercado antes dessa data têm até 2/12/2026 para cumprir o art. 50.º, n.º 2 — art. 111.º, n.º 4); requisitos e obrigações dos sistemas de alto risco (capítulo III, secções 1 a 3) a partir de 2/12/2027 para os do Anexo III e de 2/8/2028 para os do Anexo I.",
+    "motivo": "O Regulamento 2026/1744 alterou o art. 113.º: o alto risco foi adiado e há novas proibições; a aplicação geral conta-se 2 anos após a entrada em vigor.",
+    "fonte": "https://publications.europa.eu/resource/celex/32026R1744"
+   },
+   {
+    "de": "- Definição de «sistema de IA» (art. 3.º, n.º 1, AI Act): sistema baseado em máquina que gera outputs (previsões, conteúdos, recomendações, decisões) que influenciam ambientes reais ou virtuais",
+    "para": "- Definição de «sistema de IA» (art. 3.º, ponto 1, AI Act): sistema baseado em máquinas, concebido para funcionar com níveis de autonomia variáveis, que pode apresentar capacidade de adaptação após a implantação e que, com base nos dados de entrada que recebe, infere a forma de gerar resultados (previsões, conteúdos, recomendações, decisões) que podem influenciar ambientes físicos ou virtuais",
+    "motivo": "A definição omitia a inferência e a autonomia, elementos decisivos da qualificação.",
+    "fonte": "https://publications.europa.eu/resource/celex/32024R1689"
+   },
+   {
+    "de": "inferência de emoções no trabalho/educação, categorização biométrica por atributos protegidos",
+    "para": "inferência de emoções no trabalho/educação, categorização biométrica por atributos protegidos, avaliação do risco de prática de infrações penais baseada apenas na definição de perfis, recolha não seletiva de imagens faciais para bases de dados de reconhecimento facial; a partir de 2/12/2026, também os sistemas que geram ou manipulam imagens íntimas sem consentimento ou material de abuso sexual de crianças (als. b-A) e b-B), aditadas pelo Regulamento (UE) 2026/1744)",
+    "motivo": "Faltavam as proibições das als. d) e e) do art. 5.º, n.º 1, e as aditadas pelo Regulamento 2026/1744.",
+    "fonte": "https://publications.europa.eu/resource/celex/32026R1744"
+   },
+   {
+    "de": "- Sistemas de alto risco (art. 6.º + Anexos II e III)",
+    "para": "- Sistemas de alto risco (art. 6.º + Anexos I e III, com a derrogação do art. 6.º, n.º 3)",
+    "motivo": "A legislação de harmonização da União está no Anexo I; o Anexo II lista as infrações penais do art. 5.º.",
+    "fonte": "https://publications.europa.eu/resource/celex/32024R1689"
+   },
+   {
+    "de": "- Obrigações dos fornecedores de alto risco (arts. 8.º-15.º): gestão de riscos, governança dos dados, documentação técnica (Anexo IV), registo de eventos, transparência, supervisão humana, robustez e exatidão",
+    "para": "- Requisitos dos sistemas de alto risco (arts. 8.º-15.º), cujo cumprimento cabe ao fornecedor (art. 16.º): gestão de riscos, governação dos dados, documentação técnica (Anexo IV), registo de eventos, transparência, supervisão humana, exatidão, solidez e cibersegurança; o fornecedor tem ainda sistema de gestão da qualidade (art. 17.º), avaliação da conformidade (art. 43.º), declaração UE de conformidade (art. 47.º) e marcação CE (art. 48.º); as obrigações dos responsáveis pela implantação (deployers) estão no art. 26.º",
+    "motivo": "Os arts. 8.º-15.º fixam requisitos do sistema; as obrigações do fornecedor estão no art. 16.º e seguintes e as do responsável pela implantação no art. 26.º.",
+    "fonte": "https://publications.europa.eu/resource/celex/32024R1689"
+   },
+   {
+    "de": "- Sistemas de risco limitado (art. 50.º): obrigações de transparência — informar utilizadores que interagem com IA (chatbots); divulgar deepfakes",
+    "para": "- Sistemas de risco limitado (art. 50.º): obrigações de transparência — informar utilizadores que interagem com IA (chatbots); divulgar deepfakes; marcar os conteúdos sintéticos em formato legível por máquina (art. 50.º, n.º 2)",
+    "motivo": "Faltava a obrigação de marcação dos conteúdos sintéticos do art. 50.º, n.º 2.",
+    "fonte": "https://publications.europa.eu/resource/celex/32024R1689"
+   },
+   {
+    "de": "[Aplicação dos critérios do art. 6.º e Anexo III; resultado: categoria de risco]",
+    "para": "[Aplicação dos critérios do art. 6.º e dos Anexos I e III (incluindo a derrogação do art. 6.º, n.º 3); resultado: categoria de risco]",
+    "motivo": "A classificação de alto risco resulta também do Anexo I (produtos regulados).",
+    "fonte": "https://publications.europa.eu/resource/celex/32024R1689"
+   },
+   {
+    "de": "[Para alto risco: lista das obrigações dos arts. 8.º-15.º;",
+    "para": "[Para alto risco: requisitos dos arts. 8.º-15.º e obrigações do fornecedor (arts. 16.º e seguintes) ou do responsável pela implantação (art. 26.º);",
+    "motivo": "Os arts. 8.º-15.º são requisitos do sistema, não a lista das obrigações.",
+    "fonte": "https://publications.europa.eu/resource/celex/32024R1689"
+   },
+   {
+    "de": "[Estrutura da documentação técnica obrigatória:\n1. Descrição geral do sistema de IA\n2. Descrição dos elementos do sistema: arquitetura, algoritmos, dados de treino\n3. Medidas de supervisão, funcionamento e controlo\n4. Descrição do processo de validação e teste\n5. Normas harmonizadas aplicadas ou especificações comuns\n6. Cópia da declaração de conformidade UE\n7. Cópia do certificado do organismo notificado (se aplicável)]",
+    "para": "[Estrutura mínima da documentação técnica (Anexo IV, nove pontos):\n1. Descrição geral do sistema de IA (finalidade prevista, fornecedor, versão, interação com hardware ou software, formas de colocação no mercado, instruções de utilização)\n2. Descrição pormenorizada dos elementos do sistema e do processo de desenvolvimento: métodos, especificações de conceção, arquitetura, dados de treino, medidas de supervisão humana, procedimentos de validação e teste, cibersegurança\n3. Informações sobre o acompanhamento, o funcionamento e o controlo do sistema (capacidades, limitações, níveis de exatidão)\n4. Adequação dos parâmetros de desempenho\n5. Sistema de gestão de riscos (art. 9.º)\n6. Alterações pertinentes ao longo do ciclo de vida\n7. Normas harmonizadas aplicadas ou, na sua falta, soluções adotadas para cumprir os requisitos\n8. Cópia da declaração UE de conformidade (art. 47.º)\n9. Sistema de avaliação do desempenho na fase de pós-comercialização, incluindo o plano de acompanhamento (art. 72.º)\nAs PME, incluindo as empresas em fase de arranque, e as pequenas empresas de média capitalização podem apresentar estes elementos de forma simplificada, no formulário da Comissão (art. 11.º, n.º 1, na redação do Regulamento (UE) 2026/1744)]",
+    "motivo": "A lista não correspondia ao Anexo IV (nove pontos; o certificado do organismo notificado não faz parte dele) e não refletia a forma simplificada introduzida pelo Regulamento 2026/1744.",
+    "fonte": "https://publications.europa.eu/resource/celex/32024R1689"
+   },
+   {
+    "de": "[Elementos obrigatórios: identificação do fornecedor; identificação do sistema de IA; versão; finalidade prevista; conformidade com o AI Act e outras legislações UE aplicáveis; assinatura]",
+    "para": "[Elementos obrigatórios (Anexo V): nome e tipo do sistema de IA e referências que permitam identificá-lo e rastreá-lo; nome e endereço do fornecedor ou do mandatário; menção de que a declaração é emitida sob a exclusiva responsabilidade do fornecedor; menção de conformidade com o AI Act e com o demais direito da União aplicável; se houver tratamento de dados pessoais, menção de conformidade com o RGPD; normas harmonizadas ou especificações comuns aplicadas; organismo notificado, procedimento de avaliação e certificado, se aplicável; local e data de emissão, nome e cargo do signatário e assinatura]",
+    "motivo": "Os elementos da declaração constam do Anexo V e não incluem a finalidade prevista; faltavam vários elementos obrigatórios.",
+    "fonte": "https://publications.europa.eu/resource/celex/32024R1689"
+   },
+   {
+    "de": "[Para sistemas de alto risco: obrigação de registo antes da colocação no mercado]",
+    "para": "[Sistemas de alto risco do Anexo III, exceto os do ponto 2 (infraestruturas críticas): registo do fornecedor e do sistema na base de dados da UE antes da colocação no mercado ou em serviço (art. 49.º, n.º 1); também os sistemas que o fornecedor concluiu não serem de risco elevado ao abrigo do art. 6.º, n.º 3 (art. 49.º, n.º 2); os responsáveis pela implantação que sejam autoridades públicas registam a utilização (art. 49.º, n.º 3)]",
+    "motivo": "O registo do art. 49.º abrange os sistemas do Anexo III (não os do Anexo I) e também os excluídos pelo art. 6.º, n.º 3.",
+    "fonte": "https://publications.europa.eu/resource/celex/32024R1689"
+   },
+   {
+    "de": "- [ ] Categoria de risco determinada (Anexo III)",
+    "para": "- [ ] Categoria de risco determinada (art. 6.º e Anexos I e III)",
+    "motivo": "A classificação de alto risco resulta também do Anexo I.",
+    "fonte": "https://publications.europa.eu/resource/celex/32024R1689"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar a designação da autoridade nacional de fiscalização do mercado (art. 70.º), ainda não publicada em Portugal segundo as referências da casa.",
+   "Confirmar se a Comissão já publicou o formulário simplificado de documentação técnica para PME e pequenas empresas de média capitalização (art. 11.º, n.º 1).",
+   "Para sistemas já no mercado antes da data de aplicação do capítulo III, verificar o regime transitório do art. 111.º, n.º 2 (alterações significativas de conceção; prazo de 2/8/2030 para sistemas destinados a autoridades públicas)."
+  ],
+  "fontes": [
+   "https://publications.europa.eu/resource/celex/32024R1689",
+   "https://publications.europa.eu/resource/celex/32026R1744"
+  ]
+ },
+ {
+  "codigo": "UE-043",
+  "veredicto": "corrigida",
+  "resumo": "A ficha atribuía a reclamação à «AT/DGO» e remetia para uns inexistentes «arts. 86.º-A e ss. CPPT»: a Diretiva 2017/1852 foi transposta pela Lei n.º 120/2019, de 19 de setembro, cuja autoridade competente é o membro do Governo das finanças, o Diretor-Geral da AT ou os seus representantes. Acrescentou-se a apresentação simultânea a todas as autoridades competentes (com a exceção das pessoas singulares e das empresas de menor dimensão), o prazo de 6 meses para aceitar ou rejeitar e o de 50 dias para pedir a Comissão Consultiva. Corrigiram-se as remissões para a Diretiva (o procedimento amigável é o art. 4.º; a arbitragem, os arts. 6.º a 15.º), o efeito extintivo da reclamação sobre os outros procedimentos e o efeito de uma decisão judicial nacional sobre o procedimento amigável.",
+  "substituicoes": [
+   {
+    "de": "- Prazo: pedido de MAP deve ser apresentado no prazo máximo de 3 anos a partir da primeira notificação da liquidação que causa ou causará a dupla tributação (art. 3.º Diretiva 2017/1852)",
+    "para": "- Prazo: a reclamação deve ser apresentada no prazo de 3 anos a contar da receção da primeira notificação do ato (por exemplo, liquidação ou correção) que dá ou dará origem à questão litigiosa, quer se recorra ou não às vias de recurso internas (art. 3.º, n.º 1, Diretiva 2017/1852; art. 3.º, n.º 3, da Lei n.º 120/2019)",
+    "motivo": "O prazo conta-se da notificação do ato que origina a questão litigiosa, não necessariamente de uma liquidação; acrescentada a lei de transposição.",
+    "fonte": "https://publications.europa.eu/resource/celex/32017L1852"
+   },
+   {
+    "de": "  (1) Reclamação à autoridade competente portuguesa — AT/DGO (art. 3.º): prazo 3 anos\n  (2) Procedimento amigável (MAP) — arts. 4.º-7.º: AT dialoga com autoridade estrangeira; prazo para decisão: 2 anos (prorrogável para 3 anos)\n  (3) Se MAP falhar: arbitragem (arts. 6.º e 10.º-21.º): comissão consultiva ou comissão de resolução alternativa; decisão vinculativa",
+    "para": "  (1) Reclamação à autoridade competente nacional — o membro do Governo responsável pela área das finanças, o Diretor-Geral da AT ou os seus representantes autorizados (art. 2.º, n.º 1, al. b), da Lei n.º 120/2019) —, apresentada em simultâneo e com as mesmas informações às autoridades competentes de todos os Estados-Membros envolvidos (art. 3.º, n.º 1, Diretiva 2017/1852; art. 3.º, n.º 2, da Lei n.º 120/2019); a pessoa singular e a empresa que não seja grande empresa nem faça parte de um grande grupo, residentes em Portugal, podem apresentá-la só à autoridade portuguesa (art. 17.º Diretiva 2017/1852; art. 25.º da Lei n.º 120/2019); prazo de 3 anos; decisão de aceitação ou rejeição em 6 meses (art. 5.º da Lei n.º 120/2019)\n  (2) Procedimento amigável (MAP) — art. 4.º Diretiva 2017/1852; art. 8.º da Lei n.º 120/2019: a autoridade portuguesa procura o acordo com as autoridades dos outros Estados-Membros; prazo de 2 anos a contar da última notificação de aceitação da reclamação, prorrogável até 1 ano\n  (3) Se a reclamação for rejeitada por alguma, mas não por todas as autoridades, ou o MAP terminar sem acordo: pedido de constituição de Comissão Consultiva no prazo de 50 dias (art. 6.º Diretiva 2017/1852; art. 10.º da Lei n.º 120/2019) ou, se as autoridades o acordarem, de Comissão de Resolução Alternativa de Litígios (art. 10.º Diretiva 2017/1852; art. 15.º da Lei n.º 120/2019); excluída se tiverem sido aplicadas sanções por fraude fiscal, incumprimento doloso ou negligência grave (art. 23.º da Lei n.º 120/2019); as autoridades decidem em 6 meses após o parecer, podendo afastar-se dele, mas ficam vinculadas ao parecer se não chegarem a acordo; a decisão definitiva é vinculativa e só é aplicada se o interessado a aceitar e renunciar aos recursos internos no prazo de 60 dias (art. 15.º Diretiva 2017/1852; art. 20.º da Lei n.º 120/2019)",
+    "motivo": "A DGO não é autoridade competente; faltavam a apresentação simultânea e os prazos de aceitação; as remissões para a Diretiva estavam erradas (procedimento amigável no art. 4.º; arbitragem nos arts. 6.º a 15.º).",
+    "fonte": "https://diariodarepublica.pt/redirect/LinkFicheiroAntigo.aspx?conteudoId=124831325"
+   },
+   {
+    "de": "- Convenção de Arbitragem 90/436/CEE: específica para preços de transferência; prazo de 3 anos para apresentação; arbitragem obrigatória",
+    "para": "- Convenção de Arbitragem 90/436/CEE: preços de transferência entre empresas associadas e imputação de lucros a estabelecimentos estáveis; prazo de 3 anos para apresentação (art. 6.º, n.º 1); comissão consultiva obrigatória se não houver acordo em 2 anos (art. 7.º, n.º 1)",
+    "motivo": "A Convenção abrange também a imputação de lucros a estabelecimentos estáveis.",
+    "fonte": "https://publications.europa.eu/resource/celex/41990A0436"
+   },
+   {
+    "de": "- Coexistência: se ambos os instrumentos são disponíveis, o contribuinte escolhe qual usar",
+    "para": "- Coexistência: se mais de um instrumento for aplicável, o contribuinte escolhe e especifica na reclamação o acordo ou convenção aplicado (art. 4.º, n.º 5, da Lei n.º 120/2019); a reclamação apresentada ao abrigo da Diretiva põe termo aos procedimentos amigáveis ou de resolução de litígios em curso ao abrigo de uma CDT ou da Convenção sobre a mesma questão (art. 16.º, n.º 5, Diretiva 2017/1852; art. 22.º, n.os 5 e 6, da Lei n.º 120/2019)",
+    "motivo": "Faltava o efeito extintivo da reclamação ao abrigo da Diretiva sobre os outros procedimentos em curso.",
+    "fonte": "https://diariodarepublica.pt/redirect/LinkFicheiroAntigo.aspx?conteudoId=124831325"
+   },
+   {
+    "de": "- Impacto no processo judicial/administrativo nacional: a reclamação MAP não suspende automaticamente o prazo de recurso judicial — apresentar ambos se necessário",
+    "para": "- Impacto no processo judicial/administrativo nacional: a reclamação não suspende automaticamente os prazos de impugnação ou recurso internos; se o interessado impugnar, os prazos de decisão da reclamação e do procedimento amigável só começam a contar após o trânsito em julgado, a conclusão ou a suspensão desse processo (art. 22.º, n.º 3, da Lei n.º 120/2019), e uma decisão de tribunal nacional proferida antes do acordo extingue o procedimento amigável e afasta o recurso à Comissão Consultiva (art. 22.º, n.º 4) — ponderar se e quando impugnar",
+    "motivo": "Apresentar «ambos» tem consequências: a decisão judicial nacional pode extinguir o procedimento amigável e afastar a arbitragem.",
+    "fonte": "https://diariodarepublica.pt/redirect/LinkFicheiroAntigo.aspx?conteudoId=124831325"
+   },
+   {
+    "de": "- Lei portuguesa: arts. 86.º-A e ss. CPPT (procedimento amigável interno) [■ VERIFICAR]",
+    "para": "- Lei portuguesa: Lei n.º 120/2019, de 19 de setembro, que transpôs a Diretiva 2017/1852 (reclamação, arts. 3.º a 7.º; procedimento amigável, arts. 8.º e 9.º; Comissão Consultiva e Comissão Alternativa, arts. 10.º a 21.º; relação com outros procedimentos e recursos, art. 22.º)",
+    "motivo": "O CPPT não tem art. 86.º-A; a transposição foi feita pela Lei n.º 120/2019.",
+    "fonte": "https://diariodarepublica.pt/redirect/LinkFicheiroAntigo.aspx?conteudoId=124831325"
+   },
+   {
+    "de": "**Para:** Autoridade Tributária e Aduaneira — Direção de Serviços das Relações Internacionais (DSRI)",
+    "para": "**Para:** Autoridade competente nacional — Diretor-Geral da Autoridade Tributária e Aduaneira (art. 2.º, n.º 1, al. b), da Lei n.º 120/2019) [■ VERIFICAR: serviço da AT que instrui o procedimento e forma de entrega]\n\n**Apresentação simultânea (reclamação ao abrigo da Diretiva):** autoridade competente de [Estado-Membro], com as mesmas informações (art. 3.º, n.º 2, da Lei n.º 120/2019), salvo se o interessado beneficiar do art. 25.º da mesma lei",
+    "motivo": "A autoridade competente é definida na Lei n.º 120/2019 e a reclamação tem de ser entregue em simultâneo às autoridades dos outros Estados-Membros.",
+    "fonte": "https://diariodarepublica.pt/redirect/LinkFicheiroAntigo.aspx?conteudoId=124831325"
+   },
+   {
+    "de": "[Diretiva 2017/1852, art. 3.º; e/ou CDT Portugal-[EM], art. [X.º] (procedimento amigável); e/ou Convenção 90/436/CEE (se preços de transferência)]",
+    "para": "[Diretiva 2017/1852, art. 3.º, e Lei n.º 120/2019, art. 3.º; ou CDT Portugal-[EM], art. [X.º] (procedimento amigável); ou Convenção 90/436/CEE (preços de transferência ou imputação de lucros a estabelecimento estável) — a reclamação ao abrigo da Diretiva extingue os procedimentos em curso ao abrigo dos outros instrumentos (art. 22.º, n.os 5 e 6, da Lei n.º 120/2019)]",
+    "motivo": "Os instrumentos não são cumuláveis sem efeitos: a reclamação ao abrigo da Diretiva extingue os outros procedimentos.",
+    "fonte": "https://diariodarepublica.pt/redirect/LinkFicheiroAntigo.aspx?conteudoId=124831325"
+   },
+   {
+    "de": "[Liquidações; correspondência com autoridades fiscais; documentação de preços de transferência (se aplicável); análise jurídica]",
+    "para": "[Liquidações ou relatório de inspeção na origem do litígio; correspondência com autoridades fiscais; documentação de preços de transferência (se aplicável); informação sobre recursos e ações judiciais interpostos e sobre outros procedimentos amigáveis ou de resolução de litígios; compromisso escrito de responder aos pedidos das autoridades competentes (art. 4.º, n.º 3, da Lei n.º 120/2019); análise jurídica]",
+    "motivo": "A reclamação só é aceite com as informações do art. 4.º, n.º 3, incluindo o compromisso escrito.",
+    "fonte": "https://diariodarepublica.pt/redirect/LinkFicheiroAntigo.aspx?conteudoId=124831325"
+   },
+   {
+    "de": "Requer-se que a Autoridade Tributária e Aduaneira inicie o procedimento amigável previsto no artigo 3.º da Diretiva (UE) 2017/1852 / artigo [X.º] da CDT, contacte a autoridade competente do [Estado-Membro] e solucione a dupla tributação no prazo de 2 anos previsto na Diretiva.",
+    "para": "Requer-se que a autoridade competente nacional aceite a presente reclamação, apresentada ao abrigo do artigo 3.º da Diretiva (UE) 2017/1852 e do artigo 3.º da Lei n.º 120/2019 / do artigo [X.º] da CDT, e procure resolver a questão litigiosa com a autoridade competente do [Estado-Membro] por procedimento amigável (artigo 4.º da Diretiva; artigo 8.º da Lei n.º 120/2019), no prazo de 2 anos aí previsto.",
+    "motivo": "O art. 3.º da Diretiva regula a reclamação; o procedimento amigável é o do art. 4.º.",
+    "fonte": "https://publications.europa.eu/resource/celex/32017L1852"
+   },
+   {
+    "de": "- [ ] Instrumento jurídico correto identificado (Diretiva 2017/1852 / CDT / Convenção 90/436)",
+    "para": "- [ ] Instrumento jurídico correto identificado (Diretiva 2017/1852 / CDT / Convenção 90/436)\n- [ ] Reclamação apresentada em simultâneo às autoridades competentes de todos os Estados-Membros envolvidos (salvo art. 25.º da Lei n.º 120/2019)",
+    "motivo": "A falta de apresentação simultânea pode impedir a aceitação da reclamação.",
+    "fonte": "https://diariodarepublica.pt/redirect/LinkFicheiroAntigo.aspx?conteudoId=124831325"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar se a Lei n.º 120/2019 sofreu alterações posteriores (não foi possível consultar uma versão consolidada).",
+   "Confirmar o serviço da AT que instrui os procedimentos amigáveis e a forma de entrega da reclamação.",
+   "Se a via escolhida for a CDT, verificar na convenção concreta o prazo e os requisitos do procedimento amigável convencional."
+  ],
+  "fontes": [
+   "https://publications.europa.eu/resource/celex/32017L1852",
+   "https://diariodarepublica.pt/redirect/LinkFicheiroAntigo.aspx?conteudoId=124831325",
+   "https://diariodarepublica.pt/dr/detalhe/lei/120-2019-124831325",
+   "https://publications.europa.eu/resource/celex/41990A0436"
+  ]
+ },
+ {
+  "codigo": "UE-044",
+  "veredicto": "corrigida",
+  "resumo": "A ficha punha na lista negra do art. 14.º da Diretiva Serviços as restrições quantitativas, que são requisitos a avaliar (art. 15.º, n.º 2, al. a)), e descrevia o art. 16.º como princípio do país de origem, que não foi consagrado: o art. 16.º impõe ao Estado de destino o livre acesso e só admite requisitos não discriminatórios, necessários e proporcionais. Corrigiram-se também as exclusões do art. 2.º (os serviços de interesse económico geral estão abrangidos e só o art. 17.º os afasta do art. 16.º) e a descrição do art. 13.º. Confirmou-se o acórdão Gebhard (C-55/94), que deixa de estar por verificar, e separou-se o estabelecimento (arts. 9.º-15.º) da prestação temporária (art. 16.º).",
+  "substituicoes": [
+   {
+    "de": "- Setor de atividade: verificar se está excluído da Diretiva Serviços (serviços de saúde, transporte, audiovisual, serviços de interesse económico geral em setores específicos)",
+    "para": "- Setor de atividade: verificar se está excluído da Diretiva Serviços (art. 2.º, n.os 2 e 3: serviços de interesse geral sem caráter económico, serviços financeiros, comunicações eletrónicas, transportes, agências de trabalho temporário, cuidados de saúde, audiovisual, jogo a dinheiro, exercício da autoridade pública, certos serviços sociais, segurança privada, notários e oficiais de justiça, fiscalidade); os serviços de interesse económico geral (postal, eletricidade, gás, água) estão abrangidos, mas o art. 17.º afasta-lhes o art. 16.º",
+    "motivo": "Os serviços de interesse económico geral não estão excluídos da Diretiva (só do art. 16.º); a exclusão do art. 2.º é dos serviços de interesse geral sem caráter económico, e faltavam vários setores.",
+    "fonte": "https://publications.europa.eu/resource/celex/32006L0123"
+   },
+   {
+    "de": "- Distinção livre prestação (art. 56.º TFUE) vs. liberdade de estabelecimento (art. 49.º TFUE): temporariedade, regularidade, periodicidade, continuidade — jurisprudência Gebhard [■ VERIFICAR]",
+    "para": "- Distinção livre prestação (art. 56.º TFUE) vs. liberdade de estabelecimento (art. 49.º TFUE): o caráter temporário aprecia-se pela duração, frequência, periodicidade e continuidade da prestação, e não exclui que o prestador se dote de alguma infraestrutura no Estado de acolhimento (acórdão do Tribunal de Justiça de 30/11/1995, Gebhard, C-55/94, n.º 27)",
+    "motivo": "Acórdão Gebhard confirmado no texto oficial; critérios enunciados como no n.º 27.",
+    "fonte": "https://publications.europa.eu/resource/celex/61994CJ0055"
+   },
+   {
+    "de": "- Diretiva Serviços — regime de autorização (arts. 9.º-15.º):",
+    "para": "- Diretiva Serviços — estabelecimento (capítulo III): regimes de autorização e requisitos (arts. 9.º-15.º):",
+    "motivo": "Os arts. 9.º-15.º integram o capítulo da liberdade de estabelecimento; a prestação temporária rege-se pelo art. 16.º.",
+    "fonte": "https://publications.europa.eu/resource/celex/32006L0123"
+   },
+   {
+    "de": "procedimento simplificado (art. 13.º)",
+    "para": "procedimentos claros, previamente publicados, objetivos e não dissuasivos, com prazo de decisão e, em regra, deferimento tácito (art. 13.º)",
+    "motivo": "O art. 13.º não prevê um «procedimento simplificado», mas requisitos dos procedimentos de autorização.",
+    "fonte": "https://publications.europa.eu/resource/celex/32006L0123"
+   },
+   {
+    "de": "  • Art. 14.º: requisitos proibidos (lista negra): autorização condicionada ao número de prestadores; situação económica; proibição de multi-estabelecimento; testes económicos de necessidade",
+    "para": "  • Art. 14.º: requisitos proibidos (lista negra): requisitos discriminatórios em razão da nacionalidade ou da residência; proibição de estabelecimento em mais de um Estado-Membro; restrições à escolha entre estabelecimento principal ou secundário; condições de reciprocidade; aplicação casuística de testes económicos de necessidade; intervenção de concorrentes na concessão de autorizações; garantia financeira ou seguro obrigatoriamente junto de entidade estabelecida no território; inscrição ou exercício prévios no território durante determinado período",
+    "motivo": "As restrições quantitativas são requisitos a avaliar (art. 15.º, n.º 2, al. a)), não proibidos; a lista do art. 14.º estava incompleta e imprecisa.",
+    "fonte": "https://publications.europa.eu/resource/celex/32006L0123"
+   },
+   {
+    "de": "  • Art. 15.º: requisitos que devem ser avaliados (lista cinzenta): restrições de forma jurídica; participação acionista; regime de honorários fixos; numerus clausus",
+    "para": "  • Art. 15.º: requisitos que devem ser avaliados (lista cinzenta): restrições quantitativas ou territoriais (numerus clausus, distâncias mínimas); forma jurídica específica; detenção do capital; atividades reservadas; proibição de mais de um estabelecimento no território; número mínimo de empregados; tarifas mínimas e/ou máximas obrigatórias; obrigação de prestar outros serviços em conjunto — só admitidos se não discriminatórios, necessários e proporcionais (art. 15.º, n.º 3)",
+    "motivo": "Lista completada segundo o art. 15.º, n.º 2, e acrescentado o teste do n.º 3.",
+    "fonte": "https://publications.europa.eu/resource/celex/32006L0123"
+   },
+   {
+    "de": "- Prestação temporária (art. 16.º Diretiva Serviços): prestador sujeito apenas à lei do EM de origem, exceto requisitos do EM de destino justificados por razões de ordem pública, saúde pública, segurança pública ou proteção do ambiente",
+    "para": "- Prestação temporária (art. 16.º Diretiva Serviços): o Estado-Membro de destino deve assegurar o livre acesso e exercício da atividade e só pode impor requisitos não discriminatórios, necessários (justificados por razões de ordem pública, segurança pública, saúde pública ou proteção do ambiente) e proporcionais; não pode exigir, entre outros, estabelecimento no território ou autorização ou inscrição em registo ou ordem profissional, salvo previsão na Diretiva ou noutro ato da União (art. 16.º, n.º 2); o art. 16.º não consagra o princípio do país de origem e não se aplica às matérias do art. 17.º (por exemplo, serviços de interesse económico geral, destacamento de trabalhadores, título II da Diretiva 2005/36/CE)",
+    "motivo": "O art. 16.º não sujeita o prestador «apenas à lei do Estado de origem»; garante o livre acesso e só admite requisitos que passem o triplo teste.",
+    "fonte": "https://publications.europa.eu/resource/celex/32006L0123"
+   },
+   {
+    "de": "[Aplicação dos critérios jurisprudenciais (temporariedade, regularidade, periodicidade, continuidade); conclusão",
+    "para": "[Aplicação dos critérios jurisprudenciais do acórdão Gebhard, C-55/94 (duração, frequência, periodicidade e continuidade); conclusão",
+    "motivo": "Critérios enunciados como no acórdão Gebhard.",
+    "fonte": "https://publications.europa.eu/resource/celex/61994CJ0055"
+   },
+   {
+    "de": "[A) Se regime de autorização (art. 9.º-15.º Diretiva Serviços):",
+    "para": "[A) Se estabelecimento sujeito a regime de autorização ou a requisitos (arts. 9.º-15.º Diretiva Serviços):",
+    "motivo": "Os arts. 9.º-15.º aplicam-se ao estabelecimento.",
+    "fonte": "https://publications.europa.eu/resource/celex/32006L0123"
+   },
+   {
+    "de": "B) Se prestação temporária (art. 16.º):\n— A exigência é discriminatória?",
+    "para": "B) Se prestação temporária (art. 16.º):\n— A exigência consta da lista do art. 16.º, n.º 2 (estabelecimento obrigatório, autorização ou inscrição prévia, proibição de infraestrutura, entre outros)?\n— A exigência é discriminatória?",
+    "motivo": "Faltava o teste dos requisitos que o art. 16.º, n.º 2, proíbe ao Estado de destino.",
+    "fonte": "https://publications.europa.eu/resource/celex/32006L0123"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Verificar a transposição nacional (DL n.º 92/2010, de 26 de julho) e o eventual regime setorial português aplicável à atividade.",
+   "Nas profissões regulamentadas, verificar o regime de prestação temporária da Diretiva 2005/36/CE e da lei nacional, que afasta o art. 16.º.",
+   "Confirmar jurisprudência mais recente do TJUE sobre a razão imperiosa de interesse geral invocada para a medida concreta."
+  ],
+  "fontes": [
+   "https://publications.europa.eu/resource/celex/32006L0123",
+   "https://publications.europa.eu/resource/celex/61994CJ0055"
+  ]
+ }
+]

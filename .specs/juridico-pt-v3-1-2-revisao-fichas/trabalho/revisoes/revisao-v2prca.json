@@ -1,0 +1,556 @@
+[
+ {
+  "codigo": "PRC-009",
+  "veredicto": "corrigida",
+  "resumo": "A ficha admitia a restituição provisória da posse por esbulho «violento ou clandestino» e tratava a audiência do esbulhador como opção. O art. 377.º CPC e o art. 1279.º CC só a admitem no esbulho violento (coação física ou moral, art. 1261.º, n.º 2, CC); fora desse caso resta o procedimento cautelar comum (art. 379.º CPC); e a restituição é sempre ordenada sem citação nem audiência do esbulhador (art. 378.º CPC). Retirei o esbulho clandestino de pressupostos, estratégia, peça, checklist e entrevista, situei o prazo de um ano na ação de restituição (art. 1282.º CC) e acrescentei a tutela possessória dos detentores (arrendatário, comodatário, depositário).",
+  "substituicoes": [
+   {
+    "de": "- Pressupostos (art. 378.º CPC): (1) posse anterior do requerente; (2) esbulho violento ou clandestino; (3) que o esbulho não tenha ocorrido há mais de 1 ano (art. 1282.º CC — caducidade da ação possessória)",
+    "para": "- Pressupostos (arts. 377.º e 378.º CPC; art. 1279.º CC): (1) posse do requerente; (2) esbulho; (3) violência no esbulho — coação física ou moral (art. 1261.º, n.º 2, CC). O esbulho clandestino ou sem violência não dá lugar à restituição provisória: o possuidor só pode recorrer ao procedimento cautelar comum (art. 379.º CPC) e à ação de restituição (art. 1278.º CC)\n- A ação de restituição de que a providência depende caduca se não for intentada dentro do ano subsequente ao esbulho ou, se este foi praticado a ocultas, ao conhecimento dele (art. 1282.º CC — caducidade da ação possessória)",
+    "motivo": "O art. 377.º CPC e o art. 1279.º CC só admitem a restituição provisória no esbulho violento; sem violência, o art. 379.º CPC remete para o procedimento cautelar comum. O prazo de um ano é o da ação de restituição.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0377&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Distingue posse (corpus + animus) de mera detenção",
+    "para": "- Distingue posse (corpus + animus) de mera detenção; o arrendatário, o comodatário e o depositário, embora detentores, podem usar os meios facultados ao possuidor, mesmo contra o locador, o comodante ou o depositante (arts. 1037.º, n.º 2, 1133.º, n.º 2, e 1188.º, n.º 2, CC)",
+    "motivo": "A ficha propõe o arrendamento como título da posse sem advertir que o arrendatário é detentor; a lei estende-lhe expressamente os meios possessórios.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1037&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- O esbulho foi violento ou clandestino?",
+    "para": "- O esbulho foi violento (coação física ou moral sobre o possuidor — art. 1261.º, n.º 2, CC)? Sem violência, a restituição provisória não cabe (art. 379.º CPC).",
+    "motivo": "Só o esbulho violento fundamenta a restituição provisória (art. 377.º CPC; art. 1279.º CC); a violência é a coação física ou moral (art. 1261.º, n.º 2, CC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1261&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Deve ser inaudita altera parte?",
+    "para": "- A restituição é ordenada sem citação nem audiência do esbulhador (art. 378.º CPC): toda a prova da posse, do esbulho e da violência tem de acompanhar o requerimento.",
+    "motivo": "A dispensa de audiência do esbulhador não é uma opção: decorre do art. 378.º CPC e do art. 1279.º CC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0378&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Art. 378.º CPC — restituição provisória da posse",
+    "para": "- Arts. 377.º e 378.º CPC e art. 1279.º CC — restituição provisória da posse, só em caso de esbulho violento\n- Art. 379.º CPC — fora desse caso, defesa da posse pelo procedimento cautelar comum",
+    "motivo": "Os pressupostos estão no art. 377.º CPC (e no art. 1279.º CC); o art. 379.º CPC regula a defesa da posse sem esbulho violento.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0377&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Qualificação do esbulho como violento (uso da força) ou clandestino (sem conhecimento do possuidor)",
+    "para": "- Qualificação do esbulho como violento: coação física ou moral exercida para obter a posse (art. 1261.º, n.º 2, CC); o esbulho clandestino ou pacífico não basta",
+    "motivo": "O esbulho clandestino não fundamenta a restituição provisória (art. 377.º CPC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0377&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Como ocorreu: violento (uso de força física ou coação) ou clandestino (sem o requerente saber)",
+    "para": "- Como ocorreu: factos que constituem a violência — coação física ou moral sobre o possuidor (art. 1261.º, n.º 2, CC); sem violência, a via é o procedimento cautelar comum (art. 379.º CPC)",
+    "motivo": "O requerimento tem de alegar os factos que constituem a posse, o esbulho e a violência (art. 377.º CPC); o esbulho clandestino não basta.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0377&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- [ ] Esbulho qualificado como violento ou clandestino",
+    "para": "- [ ] Esbulho violento demonstrado (factos da coação física ou moral — art. 1261.º, n.º 2, CC)",
+    "motivo": "Só o esbulho violento fundamenta a providência (art. 377.º CPC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0377&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Tipo: [violento / clandestino]",
+    "para": "- Violência: [atos de coação física ou moral sobre o possuidor — sem violência, a restituição provisória não cabe]",
+    "motivo": "Só o esbulho violento fundamenta a providência (art. 377.º CPC; art. 1279.º CC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1279&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar a jurisprudência atual sobre a violência exercida só sobre coisas (mudança de fechaduras, arrombamento na ausência do possuidor): há decisões em sentidos diferentes quanto a bastar para o esbulho violento.",
+   "A ficha não trata da ação principal: propô-la no prazo do art. 373.º, n.º 1, al. a), CPC (30 dias a contar da notificação do trânsito em julgado da decisão que ordene a providência) ou requerer a inversão do contencioso (arts. 369.º e 376.º, n.º 4, CPC).",
+   "Confirmar se o procedimento cautelar, por si, impede a caducidade de um ano da ação de restituição (art. 1282.º CC); a lei só dá expressamente esse efeito interruptivo ao pedido de inversão do contencioso (art. 369.º, n.º 3, CPC).",
+   "Se o requerente for detentor (arrendatário, comodatário, depositário), fundar a legitimidade nos arts. 1037.º, n.º 2, 1133.º, n.º 2, ou 1188.º, n.º 2, CC."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0377&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0378&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0369&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1279&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1282&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1261&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1267&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1037&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1133&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1188&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+  ]
+ },
+ {
+  "codigo": "PRC-014",
+  "veredicto": "corrigida",
+  "resumo": "A ficha invertia o regime da dupla conforme: apresentava-a como requisito da revista normal, quando o art. 671.º, n.º 3, CPC a torna obstáculo à revista, só superável pela revista excecional (art. 672.º CPC). Corrigi a admissibilidade (valor e sucumbência do art. 629.º, n.º 1, CPC, alçada de 30 000 € do art. 44.º da LOSJ), os três pressupostos da revista excecional, a contradição do art. 629.º, n.º 2, al. d), CPC, o destinatário do requerimento (o tribunal que proferiu o acórdão, art. 637.º, n.º 1, CPC), as conclusões (arts. 637.º, n.º 2, 639.º e 641.º CPC) e o prazo de 15 dias nos processos urgentes. Ajustei a descrição do índice, que repetia a dupla conforme como requisito.",
+  "descricao": "Gera as alegações de recurso de revista para o Supremo Tribunal de Justiça, nos termos dos arts. 671.º a 685.º do CPC, identificando as questões de direito em apreciação, demonstrando a admissibilidade (valor da causa e sucumbência face à alçada da Relação e inexistência de dupla conforme, ou fundamento de revista excecional), estruturando as alegações e redigindo as conclusões obrigatórias.",
+  "descricao_en": "Generates the submissions in an appeal on points of law (recurso de revista) to the Supreme Court of Justice, under Articles 671 to 685 CPC, identifying the questions of law under review, demonstrating admissibility (value of the claim and amount of loss against the Court of Appeal's jurisdictional threshold (alçada), and the absence of double conformity (dupla conforme), or grounds for an exceptional appeal (revista excecional)), structuring the submissions and drafting the mandatory conclusions.",
+  "substituicoes": [
+   {
+    "de": "- O STJ aprecia apenas questões de direito (art. 674.º, n.º 1 CPC); não aprecia matéria de facto",
+    "para": "- O STJ aprecia apenas questões de direito (art. 674.º, n.º 1 CPC); o erro na apreciação das provas e na fixação dos factos só pode ser objeto de revista se houver ofensa de disposição expressa de lei que exija certa espécie de prova ou fixe a força de determinado meio de prova (arts. 674.º, n.º 3, e 682.º, n.º 2, CPC)",
+    "motivo": "A exclusão da matéria de facto tem a exceção do art. 674.º, n.º 3, CPC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0674&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Admissibilidade normal: valor > alçada do Tribunal da Relação (€30.000) + dupla conforme adversa (art. 629.º, n.º 1 CPC) [■ VERIFICAR alçada em vigor]",
+    "para": "- Admissibilidade normal: acórdão da Relação que conheça do mérito ou ponha termo ao processo (art. 671.º, n.º 1, CPC); valor da causa superior à alçada da Relação (30 000 € — art. 44.º, n.º 1, LOSJ, Lei n.º 62/2013) e decisão desfavorável ao recorrente em valor superior a metade dessa alçada (art. 629.º, n.º 1 CPC); e inexistência de dupla conforme. A dupla conforme — acórdão da Relação que confirme, sem voto de vencido e sem fundamentação essencialmente diferente, a decisão da 1.ª instância — impede a revista normal (art. 671.º, n.º 3, CPC), salvo nos casos em que o recurso é sempre admissível (art. 629.º, n.º 2, CPC)",
+    "motivo": "A dupla conforme não é requisito da revista: é obstáculo a ela (art. 671.º, n.º 3, CPC). O art. 629.º, n.º 1, CPC exige valor e sucumbência; a alçada da Relação é de 30 000 € (art. 44.º, n.º 1, LOSJ).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0671&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Admissibilidade excepcional: art. 672.º CPC — relevância jurídica de importância fundamental ou contradição com acórdão do STJ",
+    "para": "- Admissibilidade excecional (só havendo dupla conforme): art. 672.º CPC — (a) questão cuja apreciação, pela sua relevância jurídica, seja claramente necessária para uma melhor aplicação do direito; (b) interesses de particular relevância social; (c) contradição com acórdão, já transitado em julgado, de qualquer Relação ou do STJ, no domínio da mesma legislação e sobre a mesma questão fundamental de direito, salvo acórdão de uniformização de jurisprudência conforme com o recorrido. As razões têm de ser indicadas na alegação, sob pena de rejeição (art. 672.º, n.º 2, CPC), e a verificação dos pressupostos cabe a uma formação de três juízes do STJ (art. 672.º, n.º 3, CPC)",
+    "motivo": "O art. 672.º, n.º 1, CPC tem três fundamentos (faltava o da al. b)) e a contradição pode ser com acórdão transitado de qualquer Relação ou do STJ; a revista excecional pressupõe a dupla conforme.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0672&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Conclusões obrigatórias (art. 641.º, n.º 2, al. b) ex vi art. 679.º CPC)",
+    "para": "- Conclusões obrigatórias (art. 639.º CPC): sem elas, o requerimento é indeferido (art. 641.º, n.º 2, al. b), CPC); nas conclusões indica-se o fundamento específico da recorribilidade (art. 637.º, n.º 2, CPC)",
+    "motivo": "O ónus de concluir está no art. 639.º CPC; o art. 641.º CPC é disposição geral dos recursos e aplica-se à revista diretamente (o art. 679.º CPC remete para o julgamento da apelação).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0639&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Existe dupla conforme adversa (dois tribunais decidiram no mesmo sentido contra o recorrente)?",
+    "para": "- Existe dupla conforme (acórdão da Relação que confirma, sem voto de vencido e sem fundamentação essencialmente diferente, a decisão da 1.ª instância — art. 671.º, n.º 3, CPC)? Se existir, a revista normal está vedada e só resta a revista excecional (art. 672.º CPC)",
+    "motivo": "A dupla conforme impede a revista normal (art. 671.º, n.º 3, CPC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0671&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Existe contradição com acórdão do STJ ou outra Relação sobre a mesma questão (art. 629.º, n.º 2, al. d) CPC)?",
+    "para": "- Havendo dupla conforme, existe contradição com acórdão, já transitado em julgado, de qualquer Relação ou do STJ, no domínio da mesma legislação e sobre a mesma questão fundamental de direito (art. 672.º, n.º 1, al. c), CPC)? O art. 629.º, n.º 2, al. d) CPC trata de outra hipótese: acórdão da Relação em contradição com outro, dessa ou de diferente Relação, de que não caiba recurso ordinário por motivo estranho à alçada",
+    "motivo": "O art. 629.º, n.º 2, al. d), CPC só abrange a contradição entre acórdãos da Relação, quando não caiba recurso ordinário por motivo estranho à alçada; a contradição com o STJ releva no art. 672.º, n.º 1, al. c), CPC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0629&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- O prazo de 30 dias está a ser respeitado?",
+    "para": "- O prazo de 30 dias a contar da notificação do acórdão (15 dias nos processos urgentes e nos casos do art. 677.º — art. 638.º, n.º 1, CPC) está a ser respeitado?",
+    "motivo": "O prazo reduz-se a 15 dias nos processos urgentes (art. 638.º, n.º 1, CPC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0638&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "**1. REQUERIMENTO DE INTERPOSIÇÃO**\nEXMO. SENHOR PRESIDENTE DO SUPREMO TRIBUNAL DE JUSTIÇA\n\n[Nome do recorrente] vem interpor RECURSO DE REVISTA do acórdão do\n[Tribunal da Relação], de [data].",
+    "para": "**1. REQUERIMENTO DE INTERPOSIÇÃO** (dirigido ao tribunal que proferiu o acórdão recorrido — art. 637.º, n.º 1, CPC)\nEXMO. SENHOR JUIZ DESEMBARGADOR RELATOR DO TRIBUNAL DA RELAÇÃO DE [___]\n\n[Nome do recorrente] vem interpor RECURSO DE REVISTA para o Supremo Tribunal de Justiça do acórdão do\n[Tribunal da Relação], de [data], [a subir nos próprios autos, com efeito meramente devolutivo — arts. 675.º, n.º 1, e 676.º, n.º 1, CPC],\njuntando as respetivas alegações, dirigidas aos Juízes Conselheiros do Supremo Tribunal de Justiça.",
+    "motivo": "O requerimento de interposição é dirigido ao tribunal que proferiu a decisão recorrida e indica a espécie, o efeito e o modo de subida (art. 637.º, n.º 1, CPC); não ao Presidente do STJ.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0637&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "\"O valor da causa é de € ___, superior à alçada do Tribunal da Relação.\nA decisão de 1.ª instância e o acórdão da Relação decidiram no mesmo sentido\n(dupla conforme adversa — art. 629.º, n.º 1 do CPC). O recurso é admissível.\"",
+    "para": "\"O valor da causa é de € ___, superior à alçada do Tribunal da Relação, e a decisão\nimpugnada é desfavorável ao Recorrente em valor superior a metade dessa alçada\n(art. 629.º, n.º 1 do CPC). Não há dupla conforme: o acórdão recorrido [revogou / alterou\na decisão da 1.ª instância / foi tirado com voto de vencido / assenta em fundamentação\nessencialmente diferente] (art. 671.º, n.º 3, do CPC). O recurso é admissível (art. 671.º, n.º 1, do CPC).\"",
+    "motivo": "A redação afirmava o contrário da lei: a dupla conforme impede a revista normal (art. 671.º, n.º 3, CPC); o art. 629.º, n.º 1, CPC exige valor e sucumbência.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0671&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "Opção B — Admissibilidade excepcional (art. 672.º CPC):\n\"O acórdão recorrido está em contradição com o acórdão [referência], do\n[STJ / Relação de ___], de [data], sobre a mesma questão fundamental de\ndireito. O recurso é admissível ao abrigo do art. 672.º, n.º 1, al. c) CPC.\"\n[Ou: \"A questão apresenta relevância jurídica de importância fundamental\nporque ___ — art. 672.º, n.º 1, al. a) CPC.\"]",
+    "para": "Opção B — Admissibilidade excecional (art. 672.º CPC), havendo dupla conforme (art. 671.º, n.º 3, CPC) e verificados o valor e a sucumbência do art. 629.º, n.º 1, CPC:\n\"O acórdão recorrido está em contradição com o acórdão [referência], do\n[STJ / Relação de ___], de [data], já transitado em julgado, proferido no domínio da mesma\nlegislação e sobre a mesma questão fundamental de direito, sem que tenha sido proferido acórdão\nde uniformização de jurisprudência conforme com o recorrido. Junta-se cópia do acórdão-fundamento\n(art. 672.º, n.º 2, al. c), CPC). O recurso é admissível ao abrigo do art. 672.º, n.º 1, al. c) CPC.\"\n[Ou: \"Está em causa uma questão cuja apreciação, pela sua relevância jurídica, é claramente\nnecessária para uma melhor aplicação do direito, porque ___ — art. 672.º, n.º 1, al. a) CPC.\"]\n[Ou: \"Estão em causa interesses de particular relevância social, porque ___ — art. 672.º, n.º 1, al. b), CPC.\"]",
+    "motivo": "A revista excecional pressupõe a dupla conforme; a contradição exige acórdão-fundamento transitado, da mesma legislação, com cópia junta; a al. a) não fala em «importância fundamental» e faltava a al. b) (art. 672.º, n.os 1 e 2, CPC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0672&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- [ ] Prazo de 30 dias respeitado",
+    "para": "- [ ] Prazo de 30 dias respeitado (15 dias nos processos urgentes — art. 638.º, n.º 1, CPC)",
+    "motivo": "O prazo reduz-se a 15 dias nos processos urgentes (art. 638.º, n.º 1, CPC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0638&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Dupla conforme? [sim/não]",
+    "para": "- Dupla conforme? [sim/não — se sim, só revista excecional (arts. 671.º, n.º 3, e 672.º CPC)]",
+    "motivo": "A dupla conforme impede a revista normal (art. 671.º, n.º 3, CPC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0671&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar o valor da causa fixado e a data de instauração da ação: a admissibilidade por efeito das alçadas rege-se pela lei em vigor nessa data (art. 44.º, n.º 3, LOSJ).",
+   "Confirmar o entendimento atual do STJ sobre «fundamentação essencialmente diferente» e sobre a dupla conforme parcial (quando o acórdão confirma só parte da decisão).",
+   "Verificar se há fundamento de recurso sempre admissível (art. 629.º, n.º 2, CPC), que afasta o obstáculo da dupla conforme (art. 671.º, n.º 3, CPC).",
+   "Confirmar o modo de subida e o efeito no caso concreto (arts. 675.º e 676.º CPC: efeito suspensivo só em questões sobre o estado de pessoas)."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0629&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0637&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0638&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0639&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0641&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0671&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0672&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0674&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0675&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0679&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0682&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1974A0044&nid=1974&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+  ]
+ },
+ {
+  "codigo": "PRC-015",
+  "veredicto": "corrigida",
+  "resumo": "A ficha trocava o pressuposto da al. b) do art. 672.º, n.º 1, CPC (interesses de particular relevância social) por um «erro manifesto» do acórdão, que não é fundamento legal, e apresentava a revista excecional como saída para a falta de dupla conforme ou de valor, quando ela só existe para o acórdão abrangido pela dupla conforme (art. 671.º, n.º 3, CPC) e pressupõe o valor e a sucumbência. Corrigi também a contradição de julgados (acórdão transitado de qualquer Relação ou do STJ, mesma legislação, cópia do acórdão-fundamento) e o pedido: a formação de três juízes só verifica os pressupostos, não julga o mérito. Ajustei a descrição do índice.",
+  "descricao": "Gera a fundamentação específica da admissibilidade do recurso de revista excecional, nos termos do art. 672.º do CPC, contra acórdão da Relação abrangido pela dupla conforme, demonstrando um dos três pressupostos alternativos: questão cuja apreciação, pela sua relevância jurídica, seja claramente necessária para uma melhor aplicação do direito, interesses de particular relevância social, ou contradição com acórdão transitado em julgado de qualquer Relação ou do STJ sobre a mesma questão fundamental de direito.",
+  "descricao_en": "Generates the specific grounds for the admissibility of an exceptional appeal on points of law (revista excecional), under Article 672 CPC, against a Court of Appeal judgment covered by double conformity (dupla conforme), demonstrating one of the three alternative requirements: a question whose consideration, by reason of its legal relevance, is clearly necessary for a better application of the law; interests of particular social relevance; or conflict with a final judgment (acórdão) of any Court of Appeal or of the Supreme Court of Justice (STJ) on the same fundamental question of law.",
+  "substituicoes": [
+   {
+    "de": "- Art. 672.º, n.º 1 CPC: três pressupostos alternativos — al. a) relevância jurídica fundamental; al. b) necessidade de melhor aplicação do direito; al. c) contradição de julgados",
+    "para": "- Art. 672.º, n.º 1 CPC: três pressupostos alternativos — al. a) questão cuja apreciação, pela sua relevância jurídica, seja claramente necessária para uma melhor aplicação do direito; al. b) interesses de particular relevância social; al. c) contradição de julgados\n- A revista excecional só cabe do acórdão da Relação abrangido pela dupla conforme (art. 671.º, n.º 3, CPC) e pressupõe os requisitos gerais de recorribilidade, como o valor da causa e a sucumbência (art. 629.º, n.º 1, CPC)\n- A alegação tem de indicar, sob pena de rejeição, as razões do pressuposto invocado e, na al. c), os aspetos de identidade da contradição, com cópia do acórdão-fundamento (art. 672.º, n.º 2, CPC)",
+    "motivo": "A «melhor aplicação do direito» pertence à al. a); a al. b) são os interesses de particular relevância social. A revista excecional só supera o obstáculo da dupla conforme (arts. 671.º, n.º 3, e 672.º, n.º 1, CPC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0672&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Para contradição de julgados: a questão de direito deve ser idêntica, a solução oposta, entre acórdãos de tribunais de 2.ª instância ou o STJ",
+    "para": "- Para contradição de julgados: a questão fundamental de direito deve ser a mesma, no domínio da mesma legislação, e a solução oposta; o acórdão-fundamento tem de estar transitado em julgado e pode ser de qualquer Relação ou do STJ; não releva se houver acórdão de uniformização de jurisprudência conforme com o acórdão recorrido (art. 672.º, n.º 1, al. c), CPC)",
+    "motivo": "Faltavam o trânsito em julgado do acórdão-fundamento, a mesma legislação e a ressalva da uniformização de jurisprudência (art. 672.º, n.º 1, al. c), CPC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0672&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Para al. b): há uma aplicação manifestamente errada do direito pelo acórdão?",
+    "para": "- Para al. b): estão em causa interesses de particular relevância social? Quais, e porquê?",
+    "motivo": "A al. b) do art. 672.º, n.º 1, CPC são os interesses de particular relevância social; o erro manifesto do acórdão não é fundamento legal.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0672&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Para al. c): existe um acórdão do STJ ou da Relação que decide a mesma questão de forma oposta?",
+    "para": "- Para al. c): existe um acórdão do STJ ou de qualquer Relação, já transitado em julgado, que decide de forma oposta a mesma questão fundamental de direito, no domínio da mesma legislação?",
+    "motivo": "O acórdão-fundamento tem de estar transitado e ser proferido no domínio da mesma legislação (art. 672.º, n.º 1, al. c), CPC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0672&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "\"O presente recurso de revista não é admissível pela via normal, porquanto\n[não existe dupla conforme / o valor não atinge a alçada da Relação — art. 629.º CPC].\nAinda assim, o recurso é admissível ao abrigo do art. 672.º, n.º 1, al. [___] do CPC,\npelos seguintes motivos:\"",
+    "para": "\"O acórdão recorrido confirmou, sem voto de vencido e sem fundamentação essencialmente\ndiferente, a decisão proferida na 1.ª instância, pelo que a revista nos termos gerais está\nvedada pela dupla conforme (art. 671.º, n.º 3, do CPC). Verificam-se, porém, os requisitos gerais\nde recorribilidade: valor da causa superior à alçada da Relação e sucumbência superior a metade\ndessa alçada (art. 629.º CPC).\nAssim, o recurso é admissível ao abrigo do art. 672.º, n.º 1, al. [___] do CPC,\npelos seguintes motivos:\"",
+    "motivo": "A revista excecional existe para o acórdão abrangido pela dupla conforme (arts. 671.º, n.º 3, e 672.º, n.º 1, CPC); sem dupla conforme a revista é a normal, e a falta de valor não é superada pelo art. 672.º CPC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0671&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "Opção A — Al. a) Relevância Jurídica de Importância Fundamental:\n\"A questão jurídica submetida ao STJ reveste relevância jurídica de importância\nfundamental, nos termos do art. 672.º, n.º 1, al. a) CPC, porque:",
+    "para": "Opção A — Al. a) Questão cuja apreciação, pela sua relevância jurídica, é claramente necessária para uma melhor aplicação do direito:\n\"A apreciação da questão jurídica submetida ao STJ é, pela sua relevância jurídica,\nclaramente necessária para uma melhor aplicação do direito, nos termos do art. 672.º, n.º 1, al. a) CPC, porque:",
+    "motivo": "A al. a) do art. 672.º, n.º 1, CPC não fala em «importância fundamental»: exige que a apreciação, pela relevância jurídica, seja claramente necessária para uma melhor aplicação do direito.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0672&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "Opção B — Al. b) Necessidade de Melhor Aplicação do Direito:\n\"A admissão da revista é necessária para melhor aplicação do direito, porque\no acórdão recorrido aplicou de forma manifestamente errada o art. ___, ao:\n[descrever o erro manifesto]\nTal interpretação coloca em causa a certeza e a uniformidade do direito.\"",
+    "para": "Opção B — Al. b) Interesses de Particular Relevância Social:\n\"Estão em causa interesses de particular relevância social, nos termos do art. 672.º, n.º 1, al. b), do CPC, porque:\n[identificar os interesses em jogo e a sua relevância social — ex.: repercussão da decisão num número\nalargado de pessoas, na tranquilidade ou na confiança da comunidade]\"\n[O erro do acórdão recorrido, ainda que manifesto, não é, por si, fundamento autónomo da revista excecional.]",
+    "motivo": "A al. b) do art. 672.º, n.º 1, CPC são os interesses de particular relevância social; o «erro manifesto» do acórdão não consta da lei.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0672&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "\"O acórdão recorrido está em contradição com o acórdão n.º [processo],\ndo [Tribunal da Relação de ___ / STJ], de [data], relatado pelo/a",
+    "para": "\"O acórdão recorrido está em contradição com o acórdão n.º [processo],\ndo [Tribunal da Relação de ___ / STJ], de [data], já transitado em julgado, relatado pelo/a",
+    "motivo": "O acórdão-fundamento tem de estar transitado em julgado (art. 672.º, n.º 1, al. c), CPC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0672&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "— As soluções são opostas: [explicar a contradição]\n\nVerifica-se, assim, o pressuposto do art. 672.º, n.º 1, al. c) do CPC.\"",
+    "para": "— As soluções são opostas: [explicar a contradição]\n— Ambos foram proferidos no domínio da mesma legislação e não foi proferido acórdão de uniformização\nde jurisprudência conforme com o acórdão recorrido\n— Junta-se cópia do acórdão-fundamento (art. 672.º, n.º 2, al. c), do CPC)\n\nVerifica-se, assim, o pressuposto do art. 672.º, n.º 1, al. c) do CPC.\"",
+    "motivo": "A alegação tem de indicar os aspetos de identidade e juntar cópia do acórdão-fundamento, sob pena de rejeição (art. 672.º, n.º 2, al. c), CPC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0672&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "\"Requer-se a admissão do recurso de revista excecional para apreciação do mérito\npela Formação de 3 Juízes, ao abrigo do art. 672.º, n.º 3 do CPC.\"",
+    "para": "\"Requer-se que a formação de três juízes do Supremo Tribunal de Justiça prevista no art. 672.º, n.º 3 do CPC\nadmita o recurso de revista excecional, seguindo-se o julgamento do mérito pelo Supremo Tribunal de Justiça.\"",
+    "motivo": "A formação do art. 672.º, n.º 3, CPC só faz a apreciação preliminar sumária dos pressupostos; não julga o mérito.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0672&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- [ ] Inadmissibilidade normal identificada e explicada",
+    "para": "- [ ] Dupla conforme identificada (art. 671.º, n.º 3, CPC) e requisitos gerais de recorribilidade verificados (valor e sucumbência — art. 629.º, n.º 1, CPC)",
+    "motivo": "A revista excecional pressupõe a dupla conforme (arts. 671.º, n.º 3, e 672.º, n.º 1, CPC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0671&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- [ ] Para al. b): erro manifesto e impacto na uniformidade do direito",
+    "para": "- [ ] Para al. b): interesses de particular relevância social identificados e fundamentados",
+    "motivo": "A al. b) do art. 672.º, n.º 1, CPC são os interesses de particular relevância social.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0672&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- [ ] Para al. c): acórdão em contradição identificado com referência completa",
+    "para": "- [ ] Para al. c): acórdão-fundamento transitado em julgado identificado com referência completa e cópia junta (art. 672.º, n.º 2, al. c), CPC)",
+    "motivo": "A falta de cópia do acórdão-fundamento leva à rejeição (art. 672.º, n.º 2, al. c), CPC; art. 637.º, n.º 2, CPC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0672&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Razão da inadmissibilidade normal: [sem dupla conforme / valor baixo]",
+    "para": "- Dupla conforme: [o acórdão confirmou a 1.ª instância sem voto de vencido e sem fundamentação essencialmente diferente? sim / não — se não, a via é a revista nos termos gerais]\n- Sucumbência: [€ valor — tem de exceder metade da alçada da Relação]",
+    "motivo": "A revista excecional só cabe havendo dupla conforme e pressupõe valor e sucumbência (arts. 629.º, n.º 1, 671.º, n.º 3, e 672.º CPC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0671&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar na jurisprudência da formação do art. 672.º, n.º 3, CPC os critérios atuais de cada alínea; o erro manifesto do acórdão recorrido não figura na lei e a sua relevância na al. a) é discutida.",
+   "Confirmar que os requisitos gerais de recorribilidade (valor e sucumbência — art. 629.º, n.º 1, CPC) estão preenchidos: o STJ entende que a revista excecional os pressupõe.",
+   "Se não houver dupla conforme, a via é a revista nos termos gerais (art. 671.º, n.º 1, CPC); a formação pode remeter o processo ao relator (art. 672.º, n.º 5, CPC).",
+   "Prazo de interposição: 30 dias, ou 15 nos processos urgentes (art. 638.º, n.º 1, CPC)."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0629&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0637&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0638&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0671&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0672&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+  ]
+ },
+ {
+  "codigo": "PRC-019",
+  "veredicto": "corrigida",
+  "resumo": "A ficha dava como prazo «antes do início da venda», com remissão para o art. 342.º, n.º 2, CPC (que trata da insolvência), quando o art. 344.º, n.º 2, CPC fixa 30 dias a contar da diligência ou do conhecimento da ofensa, nunca depois da venda ou adjudicação; atribuía o efeito suspensivo à simples dedução, quando ele decorre do despacho de recebimento (art. 347.º CPC); e incluía a hipoteca entre os direitos que permitem embargar, quando o credor hipotecário reclama o crédito na execução (arts. 786.º e 788.º CPC; art. 824.º CC). Corrigi também o critério de oponibilidade (art. 819.º CC, não a boa-fé), a condenação em «custas e honorários» (custas de parte, art. 533.º CPC) e a checklist do registo.",
+  "substituicoes": [
+   {
+    "de": "- Fundamento: direito incompatível com a penhora (propriedade, usufruto, posse, hipoteca) ou posse que deva ser tutelada",
+    "para": "- Fundamento: penhora ou outro ato judicial de apreensão ou entrega de bens que ofenda a posse ou qualquer direito incompatível com a realização ou o âmbito da diligência (art. 342.º, n.º 1, CPC) — ex.: propriedade, posse, usufruto; os titulares de direitos reais de garantia (hipoteca, penhor) não embargam: são citados para reclamar o crédito na execução (arts. 786.º, n.º 1, al. b), e 788.º CPC) e o seu direito transfere-se para o produto da venda (art. 824.º, n.os 2 e 3, CC)",
+    "motivo": "A hipoteca não é incompatível com a penhora: o credor hipotecário reclama o crédito (arts. 786.º e 788.º CPC) e a garantia caduca com a venda, transferindo-se para o produto (art. 824.º CC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0788&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Prazo: antes do início da venda dos bens (art. 342.º, n.º 2 CPC)",
+    "para": "- Prazo: 30 dias subsequentes àquele em que a diligência foi efetuada ou em que o embargante teve conhecimento da ofensa, mas nunca depois de os bens terem sido judicialmente vendidos ou adjudicados (art. 344.º, n.º 2, CPC); os embargos correm por apenso à causa (n.º 1) e as provas são oferecidas logo com a petição\n- Os embargos podem ser deduzidos a título preventivo, depois de ordenada e antes de realizada a diligência (art. 350.º CPC)",
+    "motivo": "O art. 344.º, n.º 2, CPC fixa 30 dias a contar da diligência ou do conhecimento da ofensa, com o limite da venda ou adjudicação; «antes do início da venda» não é o prazo legal.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0344&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Efeito: suspende a venda dos bens até à decisão",
+    "para": "- Efeito: não é a petição que suspende a execução; realizadas as diligências probatórias da fase introdutória (art. 345.º CPC), o despacho que recebe os embargos determina a suspensão dos termos do processo quanto aos bens a que respeitam e, se requerida, a restituição provisória da posse, que o juiz pode condicionar à prestação de caução (art. 347.º CPC)\n- Não são admitidos embargos de terceiro contra a apreensão de bens no processo de insolvência (art. 342.º, n.º 2, CPC)",
+    "motivo": "A suspensão resulta do despacho de recebimento dos embargos (art. 347.º CPC), não da sua dedução; o art. 342.º, n.º 2, CPC exclui os embargos na insolvência.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0347&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- O direito foi constituído antes ou depois da penhora? (relevante para boa-fé)",
+    "para": "- O direito foi constituído antes ou depois da penhora? (relevante para a oponibilidade à execução: os atos de disposição, oneração ou arrendamento dos bens penhorados são-lhe inoponíveis, sem prejuízo das regras do registo — art. 819.º CC; nos bens sujeitos a registo, ver o art. 5.º do Código do Registo Predial)",
+    "motivo": "O critério não é a boa-fé, mas a inoponibilidade dos atos posteriores à penhora, sem prejuízo das regras do registo (art. 819.º CC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0819&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "1.º Admitir os presentes embargos;\n2.º Suspender imediatamente a venda do bem penhorado;\n3.º Julgar os embargos procedentes e determinar o levantamento da penhora;\n4.º Condenar o Exequente em custas e honorários.\"",
+    "para": "1.º Receber os presentes embargos;\n2.º Em consequência, determinar a suspensão dos termos da execução quanto ao bem embargado\n   [e, tendo o Embargante a posse, a sua restituição provisória] (art. 347.º CPC);\n3.º Julgar os embargos procedentes e determinar o levantamento da penhora;\n4.º Condenar o Exequente nas custas, incluindo as custas de parte (art. 533.º CPC).\"",
+    "motivo": "A suspensão decorre do recebimento dos embargos (art. 347.º CPC); os honorários do mandatário integram as custas de parte (art. 533.º, n.º 2, al. d), CPC), sem condenação autónoma.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0533&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- [ ] Registo do direito anterior ao registo da penhora (se imóvel)",
+    "para": "- [ ] Prazo de 30 dias contado da diligência ou do conhecimento da ofensa, e bens ainda não vendidos nem adjudicados (art. 344.º, n.º 2, CPC)\n- [ ] Datas do título e dos registos do direito e da penhora comparadas (se o bem estiver sujeito a registo) [■ VERIFICAR: se o exequente é terceiro, para efeitos de registo, perante o embargante — art. 5.º, n.º 4, do Código do Registo Predial e jurisprudência posterior ao DL n.º 533/99]",
+    "motivo": "Faltava o prazo do art. 344.º, n.º 2, CPC; e o registo anterior ao da penhora não é, por si, requisito: terceiros, para efeitos de registo, são os que adquirem de um autor comum (art. 5.º, n.º 4, do Código do Registo Predial).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=488A0005&nid=488&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- [ ] Pedido de suspensão da venda formulado",
+    "para": "- [ ] Pedido de suspensão dos termos da execução quanto ao bem e, havendo posse, de restituição provisória formulado (art. 347.º CPC)",
+    "motivo": "O efeito do recebimento é a suspensão dos termos do processo quanto aos bens e, se requerida, a restituição provisória da posse (art. 347.º CPC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0347&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Relação com o executado: [cônjuge / adquirente / credor hipotecário / outro]",
+    "para": "- Relação com o executado: [cônjuge (art. 343.º CPC) / adquirente / outro — o credor hipotecário não embarga: reclama o crédito na execução]",
+    "motivo": "O credor com garantia real reclama o crédito na execução (art. 788.º CPC); não é terceiro embargante.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0788&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Tipo: [propriedade / posse / usufruto / hipoteca / outro]",
+    "para": "- Tipo: [propriedade / posse / usufruto / outro direito incompatível com a penhora]",
+    "motivo": "A hipoteca não é direito incompatível com a penhora (arts. 786.º e 788.º CPC; art. 824.º CC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0824&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Data de registo da penhora: [data — se posterior ao registo do direito]",
+    "para": "- Data de registo da penhora: [data — se posterior ao registo do direito]\n- Data da penhora e data em que o embargante dela teve conhecimento: [datas — prazo de 30 dias, art. 344.º, n.º 2, CPC]",
+    "motivo": "O prazo de 30 dias conta-se da diligência ou do conhecimento da ofensa (art. 344.º, n.º 2, CPC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0344&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar a jurisprudência atual sobre o adquirente com título anterior à penhora mas sem registo, perante o exequente (art. 5.º, n.º 4, do Código do Registo Predial, aditado pelo DL n.º 533/99; acórdãos uniformizadores n.os 15/97 e 3/99).",
+   "Confirmar, no caso, se o usufruto é incompatível com a penhora: registado antes desta, subsiste à venda (art. 824.º, n.º 2, CC) quando a penhora incide só sobre a nua propriedade.",
+   "Os embargos de terceiro valem para qualquer ato judicial de apreensão ou entrega de bens (arresto, arrolamento, entrega), não só para a penhora (art. 342.º, n.º 1, CPC); adaptar o cabeçalho.",
+   "Taxa de justiça dos embargos de terceiro: ver `references/valores-2026.md` (RCP, art. 7.º, n.º 4, e Tabela II)."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0342&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0344&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0347&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0350&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0533&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0786&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0788&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0819&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0824&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=488A0005&nid=488&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+  ]
+ },
+ {
+  "codigo": "PRC-020",
+  "veredicto": "corrigida",
+  "resumo": "A ficha calculava mal a penhora de vencimentos («só 1/3 acima do salário mínimo é penhorável»): o art. 738.º CPC torna impenhoráveis dois terços da parte líquida, entre o mínimo de um e o máximo de três salários mínimos. Descrevia também mal o art. 736.º CPC (que não inclui instrumentos de trabalho, vestuário nem alimentos; os instrumentos de trabalho estão no art. 737.º), dava os bens de terceiro como fundamento da oposição (são matéria de embargos de terceiro; o art. 784.º CPC só abrange bens do executado), dirigia a peça ao agente de execução (julga o juiz, art. 723.º CPC) e fixava um prazo de 20 dias, quando a regra é de 10 dias a contar da notificação da penhora (art. 785.º, n.º 1, CPC), sendo de 20 dias só quando a penhora precede a citação (arts. 856.º e 727.º, n.º 4, CPC).",
+  "substituicoes": [
+   {
+    "de": "- Fundamentos da oposição à penhora (art. 784.º, n.º 1 CPC): (1) impenhorabilidade do bem; (2) penhora excessiva; (3) bens de terceiro",
+    "para": "- Fundamentos da oposição à penhora (art. 784.º, n.º 1 CPC), deduzida pelo executado quanto a bens seus: (a) inadmissibilidade da penhora dos bens concretamente apreendidos ou da extensão com que foi realizada (impenhorabilidade, penhora excessiva); (b) imediata penhora de bens que só subsidiariamente respondem pela dívida exequenda; (c) penhora de bens que, nos termos do direito substantivo, não respondem pela dívida exequenda. Os bens de terceiro defendem-se por embargos de terceiro (art. 342.º, n.º 1, CPC), não por oposição à penhora",
+    "motivo": "O art. 784.º, n.º 1, CPC pressupõe bens do executado e tem três fundamentos diferentes dos enunciados; os bens de terceiro defendem-se por embargos de terceiro (art. 342.º CPC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0784&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Impenhoráveis (art. 736.º CPC): bens destinados a uso público, instrumentos de trabalho, vestuário, alimentos, bens afetos a serviço público",
+    "para": "- Absolutamente impenhoráveis (art. 736.º CPC): coisas ou direitos inalienáveis; bens do domínio público do Estado e das restantes pessoas coletivas públicas; objetos cuja apreensão seja ofensiva dos bons costumes ou careça de justificação económica, pelo seu diminuto valor venal; objetos especialmente destinados ao exercício de culto público; túmulos; instrumentos e objetos indispensáveis aos deficientes e ao tratamento de doentes; animais de companhia\n- Relativamente impenhoráveis (art. 737.º CPC): bens públicos e de concessionárias especialmente afetados a fins de utilidade pública (salvo dívida com garantia real); instrumentos de trabalho e objetos indispensáveis ao exercício da atividade ou formação profissional do executado (salvo as exceções do n.º 2); bens imprescindíveis a qualquer economia doméstica que se encontrem na casa de habitação efetiva do executado (n.º 3)",
+    "motivo": "A lista não correspondia ao art. 736.º CPC; instrumentos de trabalho e bens afetos a fins de utilidade pública são relativamente impenhoráveis (art. 737.º CPC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0736&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Impenhorabilidade parcial: vencimentos — apenas 1/3 acima do salário mínimo é penhorável (art. 738.º CPC)",
+    "para": "- Impenhorabilidade parcial (art. 738.º CPC): são impenhoráveis dois terços da parte líquida dos vencimentos, salários, pensões e prestações que assegurem a subsistência do executado (n.º 1; na parte líquida só se deduzem os descontos legalmente obrigatórios, n.º 2), com o limite máximo de três salários mínimos nacionais à data de cada apreensão e, quando o executado não tenha outro rendimento, o limite mínimo de um salário mínimo nacional (n.º 3); nos créditos de alimentos, só é impenhorável o equivalente à pensão social do regime não contributivo (n.º 4); no saldo bancário, é impenhorável o valor global de um salário mínimo nacional (n.º 5); o juiz pode, excecionalmente, reduzir a parte penhorável ou isentá-la por período até um ano (n.º 6)\n- Prazo: 10 dias a contar da notificação do ato da penhora (art. 785.º, n.º 1, CPC); quando a penhora precede a citação (forma sumária ou dispensa de citação prévia), 20 dias a contar da citação, cumulando-se a oposição com os embargos de executado que sejam deduzidos (arts. 856.º, n.os 1 e 3, e 727.º, n.º 4, CPC). A oposição só suspende a execução se o executado prestar caução (art. 785.º, n.º 3, CPC)",
+    "motivo": "O art. 738.º CPC torna impenhoráveis dois terços da parte líquida (penhorável é um terço), com os limites de um e de três salários mínimos; a regra da ficha dá montantes diferentes. Faltava o prazo do art. 785.º, n.º 1, CPC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0738&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Qual o vício da penhora? (impenhorabilidade, excesso, bens de terceiro)",
+    "para": "- Qual o vício da penhora? (impenhorabilidade, excesso, bens que só subsidiariamente respondem ou que não respondem pela dívida; se os bens forem de terceiro, a via são os embargos de terceiro)",
+    "motivo": "Os bens de terceiro não são fundamento de oposição à penhora (art. 784.º, n.º 1, CPC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0784&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "EXMO. SENHOR AGENTE DE EXECUÇÃO / JUIZ DE DIREITO DO [Juízo]",
+    "para": "EXMO. SENHOR JUIZ DE DIREITO DO [Juízo de Execução]",
+    "motivo": "Julgar a oposição à penhora compete ao juiz (art. 723.º, n.º 1, al. b), CPC), não ao agente de execução.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0723&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "\"O bem penhorado é impenhorável nos termos do art. 736.º, al. ___ do CPC,\npor se tratar de [instrumento de trabalho indispensável / vestuário / alimento / ___].\"",
+    "para": "\"O bem penhorado é impenhorável nos termos do art. 736.º, al. ___ do CPC,\npor se tratar de [coisa ou direito inalienável / bem do domínio público / objeto de diminuto valor venal\n/ objeto destinado ao culto público / túmulo / instrumento ou objeto indispensável a pessoa com deficiência\nou ao tratamento de doente / animal de companhia / ___].\"\n[Ou, impenhorabilidade relativa: \"O bem penhorado está isento de penhora nos termos do art. 737.º, n.º ___ do CPC,\npor se tratar de [instrumento de trabalho ou objeto indispensável ao exercício da atividade ou formação\nprofissional do Executado / bem imprescindível à economia doméstica da casa de habitação efetiva do Executado].\"]",
+    "motivo": "Instrumentos de trabalho não constam do art. 736.º CPC (são relativamente impenhoráveis, art. 737.º, n.º 2); vestuário e alimentos não constam do elenco legal.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0737&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "\"O salário/vencimento mensal do Executado é de € ___. Nos termos do art. 738.º, n.º 1 do CPC,\napenas é penhorável 1/3 da parte que excede 1 salário mínimo nacional (€ ___ [■ VERIFICAR]).\nO montante mensalmente penhorável é de € ___ [CALCULAR]. A penhora no valor de € ___ é excessiva.\"",
+    "para": "\"O salário/vencimento mensal líquido do Executado, deduzidos apenas os descontos legalmente\nobrigatórios, é de € ___. Nos termos do art. 738.º, n.º 1 do CPC, são impenhoráveis dois terços\ndessa parte líquida, com o limite máximo de três salários mínimos nacionais [e, não tendo o Executado\noutro rendimento, com o limite mínimo de um salário mínimo nacional] (art. 738.º, n.os 2 e 3, do CPC;\nsalário mínimo nacional à data da apreensão: € ___ [■ VERIFICAR]).\nO montante mensalmente penhorável é de € ___ [CALCULAR]. A penhora no valor de € ___ é excessiva.\"",
+    "motivo": "A fórmula «1/3 da parte que excede 1 salário mínimo» não é a do art. 738.º CPC: são impenhoráveis 2/3 do líquido, entre um e três salários mínimos.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0738&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- [ ] Prazo de 20 dias respeitado",
+    "para": "- [ ] Prazo respeitado: 10 dias a contar da notificação da penhora (art. 785.º, n.º 1, CPC) ou, se a penhora precedeu a citação, 20 dias a contar desta (art. 856.º, n.º 1, CPC)",
+    "motivo": "A regra é de 10 dias a contar da notificação da penhora (art. 785.º, n.º 1, CPC); os 20 dias valem quando a penhora precede a citação (arts. 856.º e 727.º, n.º 4, CPC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0785&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Calcular a parte impenhorável com o salário mínimo nacional em vigor à data de cada apreensão (art. 738.º, n.º 3, CPC; valor do ano em `references/valores-2026.md`).",
+   "Ponderar o pedido de redução ou de isenção temporária (art. 738.º, n.º 6, CPC) e a prestação de caução para suspender a execução (art. 785.º, n.º 3, CPC).",
+   "Nos rendimentos de atividades da tabela do art. 151.º do CIRS, a parte líquida apura-se com o coeficiente 0,75 (art. 738.º, n.º 8, CPC).",
+   "Se a penhora incidiu sobre a habitação efetiva do executado, ver o art. 733.º, n.º 5, CPC, aplicável por força do art. 785.º, n.º 4, CPC."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0723&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0727&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0735&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0736&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0737&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0738&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0784&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0785&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0856&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+  ]
+ },
+ {
+  "codigo": "PRC-026",
+  "veredicto": "corrigida",
+  "resumo": "A ficha exigia uma «notificação prévia com prazo de 8 dias para pagar», que a lei não prevê: na mora igual ou superior a três meses, o senhorio resolve por comunicação (art. 1084.º, n.º 2, CC, na forma do art. 9.º, n.º 7, NRAU) e a resolução fica sem efeito se o arrendatário puser fim à mora no prazo de um mês (art. 1084.º, n.os 3 e 4, CC). Atualizei o regime: desde a Lei n.º 56/2023 o PED corre no Balcão do Arrendatário e do Senhorio (BAS), regulado pela Portaria n.º 49/2024, e está nos arts. 15.º a 15.º-S do NRAU (não «na Lei 31/2012»). Corrigi também os fundamentos (os do art. 1083.º, n.º 2, CC exigem ação de despejo), o requisito do imposto do selo (art. 15.º, n.º 5, NRAU, em vez do «registo» do contrato), os documentos e o título e a descrição do índice.",
+  "titulo": "Requerimento de Procedimento Especial de Despejo",
+  "titulo_en": "Application in the Special Eviction Procedure",
+  "descricao": "Gera o requerimento de despejo a apresentar no Balcão do Arrendatário e do Senhorio (BAS), no procedimento especial de despejo (PED), nos termos dos arts. 15.º a 15.º-S do NRAU (Lei n.º 6/2006, na redação da Lei n.º 56/2023) e da Portaria n.º 49/2024, para efetivar a cessação do arrendamento quando o arrendatário não desocupa o locado, com identificação do fundamento, junção do título e pedido de entrega do imóvel e, sendo o caso, das rendas em dívida.",
+  "descricao_en": "Generates the eviction application to be filed with the Tenant and Landlord Office (Balcão do Arrendatário e do Senhorio, BAS) in the special eviction procedure (PED), under Articles 15 to 15-S of the NRAU (Law No. 6/2006, as amended by Law No. 56/2023) and Ministerial Order No. 49/2024, to enforce the termination of a lease when the tenant does not vacate the property, identifying the ground, attaching the supporting documents and seeking delivery of the property and, where applicable, the rent owed.",
+  "substituicoes": [
+   {
+    "de": "- O processo especial de despejo (PED) corre no BNA (bna.mj.pt) — lei NRAU e Lei 31/2012",
+    "para": "- O procedimento especial de despejo (PED) corre no Balcão do Arrendatário e do Senhorio (BAS), que sucedeu ao Balcão Nacional do Arrendamento — arts. 15.º a 15.º-S do NRAU (Lei n.º 6/2006), na redação da Lei n.º 56/2023, e Portaria n.º 49/2024; o requerimento é apresentado em modelo próprio e, por advogado ou solicitador, só por via eletrónica, na Área de Serviços Digitais dos Tribunais (art. 15.º-B, n.os 1 e 6, NRAU)\n- O PED só pode ser usado se o imposto do selo do contrato tiver sido liquidado ou as rendas declaradas para efeitos de IRS ou IRC (art. 15.º, n.º 5, NRAU)",
+    "motivo": "A Lei n.º 56/2023 substituiu o BNA pelo BAS (art. 15.º-A NRAU) e a Portaria n.º 49/2024 regulamenta-o, revogando a Portaria n.º 9/2013.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=691A0015&nid=691&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Fundamentos de resolução do contrato: falta de pagamento de renda (art. 1083.º, n.º 3 CC), utilização para fim diferente (n.º 2), cessão ilícita do gozo, outras violações graves",
+    "para": "- Fundamentos de resolução que permitem o PED: só os que operam por comunicação ao arrendatário (art. 1084.º, n.º 2, CC) — mora igual ou superior a três meses no pagamento da renda, encargos ou despesas, ou oposição à realização de obra ordenada por autoridade pública (art. 1083.º, n.º 3 CC), e mora superior a oito dias por mais de quatro vezes em 12 meses, precedida do aviso por carta registada com aviso de receção após o terceiro atraso (art. 1083.º, n.os 4 e 6, CC). A resolução pelos fundamentos do n.º 2 (uso para fim diverso, cessão ilícita do gozo, outras violações graves) é decretada judicialmente, na ação de despejo (art. 1084.º, n.º 1, CC; art. 14.º NRAU)\n- O PED serve também a revogação, a caducidade, a oposição à renovação e a denúncia, com os documentos do art. 15.º, n.º 2, NRAU",
+    "motivo": "A resolução com fundamento no art. 1083.º, n.º 2, CC é decretada nos termos da lei de processo (art. 1084.º, n.º 1, CC), não por PED; só as causas dos n.os 3 e 4 operam por comunicação.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1084&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Antes do PED é obrigatória a comunicação prévia ao arrendatário para pagar em prazo (notificação prévia)",
+    "para": "- Antes do PED, na resolução por falta de pagamento, é obrigatória a comunicação de resolução ao arrendatário, onde fundamentadamente se invoque a obrigação incumprida (art. 1084.º, n.º 2, CC), feita por notificação avulsa, por contacto pessoal de advogado, solicitador ou agente de execução, ou por carta registada com aviso de receção quando haja domicílio convencionado no contrato escrito (art. 9.º, n.º 7, NRAU). A resolução fica sem efeito se o arrendatário puser fim à mora no prazo de um mês — faculdade que só pode usar uma vez em cada contrato (art. 1084.º, n.os 3 e 4, CC). A lei não prevê uma «notificação prévia com prazo de 8 dias para pagar»; os 8 dias do art. 1041.º, n.º 2, CC são o prazo em que o arrendatário pode fazer cessar a mora sem indemnização nem resolução",
+    "motivo": "Não há notificação prévia para pagar em prazo: o senhorio resolve por comunicação (art. 1084.º, n.º 2, CC; art. 9.º, n.º 7, NRAU) e o arrendatário tem um mês para pôr fim à mora (art. 1084.º, n.º 3, CC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1084&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- O contrato de arrendamento está registado? (relevante para oponibilidade)",
+    "para": "- O imposto do selo do contrato foi liquidado ou as rendas foram declaradas para efeitos de IRS ou IRC? (sem isso, o PED não pode ser usado e o requerimento é recusado — arts. 15.º, n.º 5, e 15.º-C, n.º 1, al. i), NRAU)",
+    "motivo": "O registo do contrato não é requisito do PED; é-o a liquidação do imposto do selo ou a declaração das rendas (art. 15.º, n.º 5, NRAU).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=691A0015&nid=691&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Arts. 15.º e ss. Lei 31/2012 — processo especial de despejo",
+    "para": "- Arts. 15.º a 15.º-S do NRAU (Lei n.º 6/2006, aditados pela Lei n.º 31/2012 e alterados pela Lei n.º 56/2023) — procedimento especial de despejo; Portaria n.º 49/2024 — regulamentação do BAS",
+    "motivo": "O PED está no NRAU (arts. 15.º a 15.º-S), na redação da Lei n.º 56/2023, e é regulamentado pela Portaria n.º 49/2024.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3779&tabela=leis&ficha=1&pagina=1"
+   },
+   {
+    "de": "- Notificação prévia obrigatória (art. 1083.º, n.º 3 CC — prazo de 8 dias para pagar)",
+    "para": "- Comunicação de resolução (art. 1084.º, n.º 2, CC; art. 9.º, n.º 7, NRAU) e prazo de um mês para o arrendatário pôr fim à mora (art. 1084.º, n.º 3, CC)",
+    "motivo": "O art. 1083.º, n.º 3, CC não prevê notificação nem prazo de 8 dias; a resolução opera por comunicação e o arrendatário tem um mês para pôr fim à mora (art. 1084.º CC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1083&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Verificar a notificação prévia (requisito de procedibilidade)",
+    "para": "- Verificar a comunicação de resolução e a sua forma (art. 9.º, n.º 7, NRAU), que é, com o contrato, o título do PED (art. 15.º, n.º 2, al. e), NRAU), e o decurso do prazo de um mês sem que o arrendatário pusesse fim à mora (art. 1084.º, n.º 3, CC)",
+    "motivo": "O PED por resolução assenta no contrato e no comprovativo da comunicação do art. 1084.º, n.º 2, CC (art. 15.º, n.º 2, al. e), NRAU).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=691A0015&nid=691&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "Redige o conteúdo do requerimento para o BNA:",
+    "para": "Redige o conteúdo do requerimento de despejo para o BAS (modelo próprio — art. 15.º-B NRAU):",
+    "motivo": "O BNA foi substituído pelo BAS (Lei n.º 56/2023; Portaria n.º 49/2024).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=691A0015&nid=691&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "\"O arrendatário não pagou as rendas referentes aos meses de ___ a ___, no\nmontante total de € ___, apesar de notificado para o efeito em [data],\ncom prazo de 8 dias para regularizar (Doc. n.º ___).\"\nFundamento legal: art. 1083.º, n.º 3 CC.",
+    "para": "\"O arrendatário não pagou as rendas referentes aos meses de ___ a ___, no\nmontante total de € ___, encontrando-se em mora há [três ou mais] meses. O Requerente resolveu\no contrato por comunicação de [data], efetuada por [notificação avulsa / contacto pessoal de\nadvogado, solicitador ou agente de execução / carta registada com aviso de receção para o\ndomicílio convencionado] (art. 9.º, n.º 7, do NRAU) (Doc. n.º ___), sem que o arrendatário\npusesse fim à mora no prazo de um mês (art. 1084.º, n.os 2 e 3, do CC).\"\nFundamento legal: art. 1083.º, n.º 3 CC; título do PED: contrato e comprovativo da comunicação (art. 15.º, n.º 2, al. e), do NRAU).",
+    "motivo": "A resolução por falta de pagamento opera por comunicação na forma do art. 9.º, n.º 7, NRAU, com o prazo de um mês do art. 1084.º, n.º 3, CC; não há prazo de 8 dias para regularizar.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=691A0009&nid=691&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Indemnização por ocupação ilícita (após cessação): € ___",
+    "para": "- Indemnização pela não restituição do locado após a cessação (art. 1045.º CC): € ___ [■ VERIFICAR: admissibilidade deste pedido no PED, que o art. 15.º, n.º 6, do NRAU refere a rendas, encargos ou despesas]",
+    "motivo": "O art. 15.º, n.º 6, NRAU só prevê a cumulação do pedido de rendas, encargos ou despesas; a indemnização do art. 1045.º CC pode não caber no PED.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=691A0015&nid=691&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "1.º A despejo do arrendatário e entrega do imóvel livre e devoluto;\n2.º O pagamento das rendas em falta e encargos no valor de € ___.\"",
+    "para": "1.º O despejo do arrendatário e a entrega do imóvel livre e devoluto;\n2.º O pagamento das rendas em falta e encargos no valor de € ___ (montante em dívida comunicado ao\n   arrendatário — art. 15.º, n.º 6, do NRAU), discriminando capital, juros vencidos e outras quantias\n   (art. 15.º-B, n.º 2, al. g), do NRAU).\"",
+    "motivo": "O pedido de rendas só pode cumular-se no PED se o montante em dívida tiver sido comunicado ao arrendatário (art. 15.º, n.º 6, NRAU) e tem de ser discriminado (art. 15.º-B, n.º 2, al. g), NRAU).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=691A0015&nid=691&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Notificação prévia e prova de receção (Doc. n.º 2)\n- Recibos de renda pagos (últimos meses) e prova de não pagamento (Doc. n.º 3)",
+    "para": "- Comunicação de resolução e comprovativo da sua realização (Doc. n.º 2)\n- Recibos de renda pagos (últimos meses) e prova de não pagamento (Doc. n.º 3)\n- Comprovativo do pagamento do imposto do selo ou da liquidação do IRS ou do IRC dos últimos quatro anos com as rendas do locado, salvo contrato mais recente (Doc. n.º 4 — art. 15.º-B, n.º 2, al. h), do NRAU)",
+    "motivo": "O documento base é o comprovativo da comunicação de resolução (art. 15.º, n.º 2, al. e), NRAU) e o requerimento tem de juntar o comprovativo fiscal (art. 15.º-B, n.º 2, al. h), NRAU).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=691A0015&nid=691&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- [ ] Notificação prévia feita com prazo de 8 dias (art. 1083.º, n.º 3 CC)",
+    "para": "- [ ] Comunicação de resolução feita pela forma do art. 9.º, n.º 7, NRAU e decorrido um mês sem que o arrendatário pusesse fim à mora (art. 1084.º, n.os 2 e 3, CC)\n- [ ] Imposto do selo liquidado ou rendas declaradas para efeitos de IRS ou IRC (art. 15.º, n.º 5, NRAU)",
+    "motivo": "Não há prazo de 8 dias; a resolução opera por comunicação e o arrendatário tem um mês para pôr fim à mora (art. 1084.º CC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1084&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "**NOTIFICAÇÃO PRÉVIA:**\n- Data: [data]\n- Prazo dado: [8 dias ou outro]\n- Resposta do arrendatário: [pagou / não pagou / parcialmente]",
+    "para": "**COMUNICAÇÃO DE RESOLUÇÃO:**\n- Data: [data]\n- Forma: [notificação avulsa / contacto pessoal de advogado, solicitador ou agente de execução / carta registada com aviso de receção para o domicílio convencionado]\n- O arrendatário pôs fim à mora no prazo de um mês? [sim / não / parcialmente — já tinha usado esta faculdade neste contrato?]",
+    "motivo": "A comunicação de resolução tem forma própria (art. 9.º, n.º 7, NRAU) e o arrendatário pode pôr fim à mora no prazo de um mês, uma única vez por contrato (art. 1084.º, n.os 3 e 4, CC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=691A0009&nid=691&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar a forma e a data da comunicação de resolução (arts. 9.º, n.º 7, e 10.º NRAU); se a comunicação se tiver frustrado, o PED ainda é admissível (art. 15.º, n.º 4, NRAU) e o arrendatário pode pôr fim à mora no prazo da oposição (art. 15.º-D, n.º 4, al. g), NRAU).",
+   "Confirmar se o arrendatário já usou, neste contrato, a faculdade de pôr fim à mora (art. 1084.º, n.º 4, CC).",
+   "Confirmar na Área de Serviços Digitais dos Tribunais o modelo do requerimento em vigor (Portaria n.º 49/2024) e a taxa de justiça.",
+   "Confirmar a admissibilidade, no PED, do pedido de indemnização pela não restituição do locado (art. 1045.º CC).",
+   "O PGDL indica a Lei n.º 56/2023 como a alteração mais recente do NRAU; confirmar no Diário da República se houve alterações posteriores."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=691A0009&nid=691&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=691A0015&nid=691&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3779&tabela=leis&ficha=1&pagina=1",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1083&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1084&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1041&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1045&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+  ]
+ }
+]

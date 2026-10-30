@@ -6,7 +6,8 @@ titulo_en: "Application to Set Up an Administrative Arbitral Tribunal under the 
 descricao: "Redige requerimento de constituição de tribunal arbitral para resolução de litígios emergentes de contratos administrativos ou de responsabilidade civil da Administração, ao abrigo da Lei da Arbitragem Voluntária (LAV, Lei n.º 63/2011, de 14 de Dezembro) e dos artigos 180.º a 187.º do CPTA (DL n.º 214-G/2015), incluindo a invocação da convenção de arbitragem, a designação de árbitros e o objeto do litígio."
 descricao_en: "Drafts the application to set up an arbitral tribunal to resolve disputes arising from administrative contracts or from the Administration's civil liability, under the Voluntary Arbitration Law (LAV, Law No. 63/2011 of 14 December) and Articles 180 to 187 of the CPTA (Decree-Law No. 214-G/2015), including reliance on the arbitration agreement, the appointment of arbitrators and the subject matter of the dispute."
 ambito: nacional
-estado_citacoes: "conferidas 8 · corrigidas 2 · por conferir 3"
+estado_citacoes: "conferidas 20 · corrigidas 0 · por conferir 0"
+revisao_tecnica: "2026-10-30 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
@@ -14,7 +15,8 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 
 > **Âmbito:** nacional · **Área:** Direito Administrativo · **Código:** ADM-058
 > **EN:** Application to Set Up an Administrative Arbitral Tribunal under the Voluntary Arbitration Law (Law No. 63/2011). Drafts the application to set up an arbitral tribunal to resolve disputes arising from administrative contracts or from the Administration's civil liability, under the Voluntary Arbitration Law (LAV, Law No. 63/2011 of 14 December) and Articles 180 to 187 of the CPTA (Decree-Law No. 214-G/2015), including reliance on the arbitration agreement, the appointment of arbitrators and the subject matter of the dispute.
-> **Citações:** conferidas 8 · corrigidas 2 · por conferir 3. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 20 · corrigidas 0 · por conferir 0. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-30 — corrigida (8 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
 Redige requerimento de constituição de tribunal arbitral para resolução de litígios emergentes de contratos administrativos ou de responsabilidade civil da Administração, ao abrigo da Lei da Arbitragem Voluntária (LAV, Lei n.º 63/2011, de 14 de Dezembro) e dos artigos 180.º a 187.º do CPTA (DL n.º 214-G/2015), incluindo a invocação da convenção de arbitragem, a designação de árbitros e o objeto do litígio.
 
@@ -27,7 +29,7 @@ Ficha de trabalho para preparar este documento. As regras da casa prevalecem sob
 — Se faltarem dados, marca [■ VERIFICAR: o que é necessário].
 — Cita artigos reais da LAV e do CPTA.
 — A convenção de arbitragem (compromisso ou cláusula compromissória) é o fundamento necessário da arbitragem; sem ela, o tribunal arbitral não tem jurisdição (art. 1.º LAV).
-— A arbitrabilidade em matéria administrativa está limitada ao previsto no art. 180.º CPTA: litígios emergentes de contratos e responsabilidade civil da Administração.
+— A arbitrabilidade em matéria administrativa está limitada ao previsto no art. 180.º CPTA, sem prejuízo de lei especial: questões relativas a contratos (incluindo a anulação ou declaração de nulidade de atos administrativos relativos à sua execução), responsabilidade civil extracontratual, validade de atos administrativos (salvo determinação legal em contrário) e relações jurídicas de emprego público que não envolvam direitos indisponíveis nem resultem de acidente de trabalho ou doença profissional. Não pode ser objeto de compromisso arbitral a responsabilidade por prejuízos do exercício da função política e legislativa ou da função jurisdicional (art. 185.º, n.º 1, CPTA).
 
 ## Framework P.A.C.E.F — 5 etapas obrigatórias:
 
@@ -43,12 +45,12 @@ Apresenta em <analise_da_situacao>:
 ### ETAPA 2 — ANÁLISE JURÍDICA
 Apresenta em <fundamentos_juridicos>:
 - Convenção de arbitragem: requisitos de validade (arts. 1.º a 3.º LAV)
-- Arbitrabilidade de litígios administrativos (art. 180.º CPTA): contratos, responsabilidade, disposições comuns
-- Constituição do tribunal arbitral: nomeação dos árbitros e prazo (arts. 11.º a 16.º LAV [■ VERIFICAR: a designação dos árbitros está no art. 10.º LAV; os arts. 11.º a 16.º tratam de pluralidade, recusa e substituição])
-- Recusa ou bloqueio da nomeação pelo requerido: pedido ao presidente do TAC competente (art. 10.º LAV)
+- Arbitrabilidade de litígios administrativos (art. 180.º CPTA): contratos, responsabilidade civil extracontratual, validade de atos administrativos e emprego público, com aceitação do compromisso pelos contrainteressados, se os houver (art. 180.º, n.º 2, CPTA), e os limites do art. 185.º CPTA
+- Constituição do tribunal arbitral: designação dos árbitros, com o prazo supletivo de 30 dias para cada parte designar o seu (art. 10.º, n.os 3 e 4, LAV); pluralidade de partes, aceitação, recusa e substituição dos árbitros (arts. 11.º a 16.º LAV)
+- Falta de designação pelo requerido: nomeação, a pedido de qualquer das partes, pelo presidente do Tribunal Central Administrativo em cuja circunscrição se situe o lugar da arbitragem (arts. 10.º, n.º 4, e 59.º, n.os 2 e 3, LAV)
 - Medidas cautelares: o tribunal arbitral pode decretá-las (art. 21.º LAV)
-- Sede do tribunal, direito aplicável e língua do processo (art. 16.º LAV [■ VERIFICAR: o art. 16.º LAV trata do árbitro substituto; ver arts. 31.º (lugar), 32.º (língua) e 39.º LAV (direito aplicável)])
-- Prazo para prolação da sentença arbitral: fixado na convenção ou no regulamento
+- Lugar da arbitragem, língua do processo e direito aplicável (arts. 31.º, 32.º e 39.º LAV); nos litígios sobre questões de legalidade, os árbitros decidem segundo o direito constituído e não segundo a equidade (art. 185.º, n.º 2, CPTA)
+- Prazo para a sentença arbitral: o acordado pelas partes até à aceitação do primeiro árbitro (incluindo por remissão para o regulamento do centro) ou, na falta, 12 meses a contar da aceitação do último árbitro, prorrogável por períodos de 12 meses; o decurso do prazo sem sentença põe termo ao processo (art. 43.º LAV)
 
 ### ETAPA 3 — ESTRUTURA DO REQUERIMENTO
 Define em <estrutura_requerimento>:
@@ -84,13 +86,13 @@ IV — ÁRBITRO DESIGNADO PELA REQUERENTE
 V — SEDE E DIREITO APLICÁVEL
 [Sede proposta / Direito material: CCP, CC, CPTA]
 
-REQUER que seja notificada a Requerida para designar o seu árbitro no prazo de [X] dias, sob pena de ser requerida a nomeação judicial ao presidente do TAC competente (art. 10.º LAV).
+REQUER que seja notificada a Requerida para designar o seu árbitro no prazo de 30 dias a contar da receção deste pedido, salvo outro prazo na convenção, sob pena de ser requerida a nomeação ao presidente do Tribunal Central Administrativo territorialmente competente (arts. 10.º, n.º 4, e 59.º, n.º 3, LAV).
 
 ### ETAPA 5 — CHECKLIST
 Apresenta em <checklist_validacao>:
 - [ ] Convenção de arbitragem identificada e transcrita
 - [ ] Matéria do litígio arbitrável (art. 180.º CPTA)
-- [ ] Partes com capacidade para submeter à arbitragem verificada (art. 180.º, n.º 1, CPTA [■ VERIFICAR: o art. 180.º CPTA define as matérias arbitráveis; confirmar a norma sobre a capacidade das partes])
+- [ ] Vinculação da entidade pública à arbitragem verificada: autorização legal (art. 1.º, n.º 5, LAV) e órgão competente para outorgar o compromisso arbitral (art. 184.º CPTA)
 - [ ] Árbitro da Requerente designado (se convenção o exige)
 - [ ] Prazo para nomeação de árbitro pela Requerida e consequência da recusa indicados
 - [ ] Sede, língua e direito aplicável definidos
@@ -139,11 +141,18 @@ Apresenta em <checklist_validacao>:
 | art. 180.º CPTA | conferida (epígrafe) — Tribunal arbitral |  |
 | art. 180.º CPTA | conferida (epígrafe) — Tribunal arbitral |  |
 | art. 180.º CPTA | conferida (epígrafe) — Tribunal arbitral |  |
+| art. 185.º, n.º 1, CPTA | conferida (epígrafe) — Limites da arbitragem |  |
 | arts. 1.º a 3.º LAV | conferida (epígrafe) — Convenção de arbitragem |  |
-| arts. 11.º a 16.º LAV | por conferir [■ VERIFICAR] | a designação dos árbitros está no art. 10.º LAV; os arts. 11.º a 16.º tratam de pluralidade, recusa e substituição |
-| art. 10.º LAV | corrigida — Designação dos árbitros | o número citado no catálogo não correspondia à epígrafe |
-| art. 10.º LAV | corrigida — Designação dos árbitros | o número citado no catálogo não correspondia à epígrafe |
+| art. 180.º, n.º 2, CPTA | conferida (epígrafe) — Tribunal arbitral |  |
+| art. 185.º CPTA | conferida (epígrafe) — Limites da arbitragem |  |
+| art. 10.º, n.os 3 e 4, LAV | conferida (epígrafe) — Designação dos árbitros |  |
+| arts. 11.º a 16.º LAV | conferida (epígrafe) — Pluralidade de demandantes ou de demandados |  |
+| arts. 10.º, n.º 4, e 59.º, n.os 2 e 3, LAV | conferida (epígrafe) — Designação dos árbitros |  |
 | art. 21.º LAV | conferida (epígrafe) — Requisitos para o decretamento de providências cautelares |  |
-| art. 16.º LAV | por conferir [■ VERIFICAR] | o art. 16.º LAV trata do árbitro substituto; ver arts. 31.º (lugar), 32.º (língua) e 39.º LAV (direito aplicável) |
+| arts. 31.º, 32.º e 39.º LAV | conferida (epígrafe) — Lugar da arbitragem |  |
+| art. 185.º, n.º 2, CPTA | conferida (epígrafe) — Limites da arbitragem |  |
+| art. 43.º LAV | conferida (epígrafe) — Prazo para proferir sentença |  |
 | artigo 1.º da Lei n.º 63/2011, de 14 de Dezembro (LAV | conferida (epígrafe) — Convenção de arbitragem |  |
-| art. 180.º, n.º 1, CPTA | por conferir [■ VERIFICAR] | o art. 180.º CPTA define as matérias arbitráveis; confirmar a norma sobre a capacidade das partes |
+| arts. 10.º, n.º 4, e 59.º, n.º 3, LAV | conferida (epígrafe) — Designação dos árbitros |  |
+| art. 1.º, n.º 5, LAV | conferida (epígrafe) — Convenção de arbitragem |  |
+| art. 184.º CPTA | conferida (epígrafe) — Competência para outorgar compromisso arbitral |  |

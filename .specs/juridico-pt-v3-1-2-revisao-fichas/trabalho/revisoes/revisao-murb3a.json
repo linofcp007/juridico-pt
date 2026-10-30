@@ -1,0 +1,300 @@
+[
+  {
+    "codigo": "URB-041",
+    "veredicto": "corrigida",
+    "resumo": "A ficha fazia da autorização de utilização (com remissão para o art. 59.º RJUE, que regula a execução por fases) condição da constituição; a exigência para lavrar o título é o documento camarário ou o projeto aprovado do art. 59.º do Código do Notariado, e o RJUE atual prevê a certificação camarária no art. 66.º, n.º 3. Corrigiram-se ainda as partes comuns imperativas e presumidas do art. 1421.º CC, o critério do regulamento obrigatório (mais de quatro condóminos), a remissão errada do fundo comum de reserva para o art. 1422.º-A CC, a certificação energética apresentada como requisito do título e a fonte dos conceitos de área bruta (art. 40.º CIMI).",
+    "descricao": "Redige e analisa o título constitutivo de propriedade horizontal de um edifício ao abrigo dos arts. 1414.º e ss. do Código Civil, do art. 59.º do Código do Notariado e do art. 66.º do RJUE (DL 555/99), incluindo a descrição das frações, as partes comuns, o valor relativo e o regulamento do condomínio.",
+    "descricao_en": "Drafts and analyses the constitutive title of horizontal property (propriedade horizontal, i.e. condominium ownership) for a building under Articles 1414 et seq. of the Civil Code, Article 59 of the Notarial Code and Article 66 of the RJUE (Decree-Law 555/99), including the description of the units, the common parts, the relative value and the condominium regulations.",
+    "substituicoes": [
+      {
+        "de": "— Cita os artigos do CC e do RJUE aplicáveis.",
+        "para": "— Cita os artigos do CC, do Código do Notariado e do RJUE aplicáveis.",
+        "motivo": "O requisito documental da constituição está no Código do Notariado.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=457A0059&nid=457&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "— Verifica sempre a conformidade com a autorização de utilização (art. 59.º RJUE exige AU prévia).",
+        "para": "— Verifica sempre o documento exigido para lavrar o título: documento passado pela câmara municipal comprovativo de que as frações autónomas satisfazem os requisitos legais ou, em prédio construído para transmissão em frações, o projeto de construção aprovado (art. 59.º do Código do Notariado). A autorização de utilização não é requisito da constituição.",
+        "motivo": "O art. 59.º RJUE regula a execução por fases das obras; a exigência para lavrar o título está no art. 59.º do Código do Notariado e não inclui a autorização de utilização.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=457A0059&nid=457&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Existência de autorização de utilização (condição imprescindível — art. 59.º RJUE)",
+        "para": "- Documento camarário comprovativo de que as frações satisfazem os requisitos legais ou, se o prédio foi construído para transmissão em frações, exibição do projeto de construção e das alterações aprovadas (art. 59.º, n.os 1 e 2, do Código do Notariado); a certificação pela câmara pode ser pedida com a comunicação de utilização (art. 66.º, n.º 3, RJUE). No RJUE atual, a utilização após obras depende de comunicação prévia (art. 62.º-A RJUE) ou de comunicação prévia com prazo (art. 62.º-B RJUE), e não de autorização de utilização",
+        "motivo": "Regime errado: a autorização de utilização não é condição da constituição; valem o art. 59.º do Código do Notariado e, no RJUE em vigor (DL 10/2024 e DL 108/2026), o art. 66.º, n.º 3.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=625A0066&nid=625&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Certificação energética por fração (Decreto-Lei 101-D/2020)",
+        "para": "- Certificação energética: não é requisito do título constitutivo; em propriedade horizontal emite-se um certificado por fração autónoma (art. 19.º, n.º 2, alínea c), do Decreto-Lei 101-D/2020), exigível na construção nova e na venda ou locação de cada fração (art. 18.º, n.º 1, do mesmo diploma)",
+        "motivo": "O DL 101-D/2020 não faz da certificação energética requisito da constituição da propriedade horizontal; impõe-na na construção, venda e locação.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=3359A0018&nid=3359&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "(NRAU — Portaria 1192-B/2006)",
+        "para": "(conceitos do art. 40.º, n.os 2 e 3, CIMI)",
+        "motivo": "Os conceitos de área bruta privativa e de áreas brutas dependentes constam do art. 40.º CIMI; a remissão para o NRAU não foi confirmada.",
+        "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cimi/Pages/cimi40.aspx"
+      },
+      {
+        "de": "- Partes comuns obrigatórias (art. 1421.º, n.º 1 CC): solo, estrutura, cobertura, fachadas, instalações gerais\n- Partes comuns presumidas (art. 1421.º, n.º 2 CC): hall de entrada, escadas, elevadores, garagens comuns",
+        "para": "- Partes comuns obrigatórias (art. 1421.º, n.º 1 CC): solo, alicerces, colunas, pilares, paredes mestras e demais partes da estrutura; telhado ou terraços de cobertura; entradas, vestíbulos, escadas e corredores de uso ou passagem comum a dois ou mais condóminos; instalações gerais de água, eletricidade, aquecimento, ar condicionado, gás e comunicações\n- Partes comuns presumidas (art. 1421.º, n.º 2 CC): pátios e jardins anexos, ascensores, dependências do porteiro, garagens e outros lugares de estacionamento e, em geral, as coisas não afetadas ao uso exclusivo de um condómino",
+        "motivo": "As entradas, vestíbulos e escadas de uso comum são partes comuns imperativas (n.º 1, alínea c)), não presumidas; a enumeração segue o texto do art. 1421.º CC.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1421&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Obrigatoriedade (art. 1429.º-A CC): imóveis com mais de 4 frações",
+        "para": "- Obrigatoriedade (art. 1429.º-A CC): havendo mais de quatro condóminos e se o regulamento não fizer parte do título constitutivo",
+        "motivo": "O critério legal é o número de condóminos, não de frações.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1429A&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Cláusulas obrigatórias: administração, convocação de assembleias, quórum e maioria, fundo comum de reserva (art. 1422.º-A CC), obras",
+        "para": "- Conteúdo: disciplina do uso, fruição e conservação das partes comuns (art. 1429.º-A, n.º 1, CC); pode concretizar, dentro dos limites da lei, as regras de administração e de funcionamento da assembleia (arts. 1430.º e seguintes CC) e de obras. O fundo comum de reserva não é matéria do art. 1422.º-A CC, que trata da junção e divisão de frações [■ VERIFICAR: regime do fundo comum de reserva no art. 4.º do Decreto-Lei n.º 268/94, de 25 de outubro, na redação da Lei 8/2022]",
+        "motivo": "O art. 1422.º-A CC trata da junção e divisão de frações; a lei define o objeto do regulamento, não uma lista de cláusulas obrigatórias.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1429A&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Autorização de utilização: [n.º e data]",
+        "para": "- Documento camarário para a constituição (certidão de que o edifício satisfaz os requisitos da propriedade horizontal) ou projeto aprovado: [n.º e data]\n- Título de utilização, se existir: [n.º e data]",
+        "motivo": "Alinha a entrevista com o requisito do art. 59.º do Código do Notariado.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=457A0059&nid=457&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Confirmar no Diário da República o texto em vigor do art. 4.º do DL 268/94 (fundo comum de reserva), alterado pela Lei 8/2022; não foi possível lê-lo numa fonte oficial nesta revisão.",
+      "Confirmar junto da câmara municipal o procedimento e os elementos da certidão de que o edifício satisfaz os requisitos da propriedade horizontal (art. 66.º, n.º 3, RJUE, na redação do DL 108/2026).",
+      "Se o título for formalizado por documento particular autenticado, confirmar a aplicação das exigências do art. 59.º do Código do Notariado a essa forma."
+    ],
+    "fontes": [
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=457A0059&nid=457&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=625A0066&nid=625&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=625&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3359&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=3359A0018&nid=3359&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cimi/Pages/cimi40.aspx",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1421&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1429A&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1994-144575382"
+    ]
+  },
+  {
+    "codigo": "URB-042",
+    "veredicto": "corrigida",
+    "resumo": "Os meios de reação estavam errados: o art. 15.º RGTAL trata da prescrição, a reclamação da liquidação tem 30 dias e é condição da impugnação judicial (tributária, não ação administrativa), a deduzir em 60 dias no TAF (art. 16.º RGTAL), e o art. 117.º, n.º 3, RJUE remete para o CPPT. Corrigiram-se ainda o princípio da equivalência (custo da atividade ou benefício do particular), o conteúdo do art. 116.º, n.º 4, RJUE (incidência da TRIU, não isenções), o prazo de quatro anos (revisão por erro dos serviços, art. 78.º LGT, aplicável por remissão do RGTAL) e a arbitragem no CAAD, que depende de portaria de vinculação.",
+    "substituicoes": [
+      {
+        "de": "— Analisa o princípio da equivalência (art. 4.º RGTAL) — a taxa não pode exceder o custo do serviço prestado.",
+        "para": "— Analisa o princípio da equivalência jurídica (art. 4.º RGTAL) — o valor da taxa é fixado segundo o princípio da proporcionalidade e não deve ultrapassar o custo da atividade pública local ou o benefício auferido pelo particular, podendo atender a critérios de desincentivo (n.º 2).",
+        "motivo": "O art. 4.º RGTAL refere o custo da atividade pública local ou o benefício do particular e admite critérios de desincentivo.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1995&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Violação do princípio da equivalência (art. 4.º RGTAL): taxa desproporcionada face ao custo do serviço",
+        "para": "- Violação do princípio da equivalência jurídica (art. 4.º RGTAL): taxa desproporcionada face ao custo da atividade pública local ou ao benefício auferido pelo particular",
+        "motivo": "Mesmo critério do art. 4.º, n.º 1, RGTAL.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1995&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Falta de publicação ou irregularidade do regulamento municipal (art. 8.º RGTAL)",
+        "para": "- Falta de publicação do regulamento municipal ou nulidade por omissão dos elementos obrigatórios do art. 8.º, n.º 2, RGTAL, designadamente da fundamentação económico-financeira do valor das taxas (para a TRIU, também art. 116.º, n.º 8, RJUE)",
+        "motivo": "O art. 8.º RGTAL comina a nulidade do regulamento que omita os elementos obrigatórios, incluindo a fundamentação económico-financeira.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1995A0008&nid=1995&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Taxa cobrada por operação isenta (art. 116.º, n.º 4 RJUE lista taxas isentas)",
+        "para": "- Taxa cobrada fora da incidência legal ou por operação isenta: a TRIU incide sobre as operações de loteamento e de impacte relevante ou semelhante a loteamento (art. 116.º, n.º 4 RJUE) e sobre as obras de construção ou ampliação em área não abrangida por loteamento (n.º 5); as isenções constam do regulamento municipal (art. 8.º, n.º 2, alínea d), RGTAL)",
+        "motivo": "O art. 116.º, n.º 4, RJUE não enumera isenções: sujeita à TRIU o loteamento e as operações de impacte semelhante.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=625A0116&nid=625&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Reclamação graciosa (15 dias — art. 15.º RGTAL)\n- Recurso hierárquico\n- Impugnação judicial no TAF competente: ação administrativa (3 meses)",
+        "para": "- Reclamação da liquidação perante o órgão que a efetuou, no prazo de 30 dias a contar da notificação; presume-se indeferida ao fim de 60 dias (art. 16.º, n.os 2 e 3, RGTAL; o art. 15.º RGTAL trata da prescrição, de oito anos)\n- O art. 117.º, n.º 3, RJUE remete a reclamação graciosa e a impugnação judicial da liquidação das taxas urbanísticas para o CPPT (120 dias e três meses — arts. 70.º, n.º 1, e 102.º, n.º 1, CPPT) [■ VERIFICAR: jurisprudência do STA sobre a articulação com o art. 16.º RGTAL; por prudência, reclamar no prazo de 30 dias]\n- Recurso hierárquico [■ VERIFICAR: admissibilidade — o art. 16.º RGTAL só prevê reclamação e impugnação judicial]\n- Impugnação judicial (processo tributário, não ação administrativa) no TAF da área do município, no prazo de 60 dias a contar do indeferimento expresso ou tácito da reclamação, que é condição prévia (art. 16.º, n.os 4 e 5, RGTAL)",
+        "motivo": "Prazos e meio errados: o art. 15.º RGTAL é a prescrição; a reclamação tem 30 dias e é necessária, a impugnação é judicial tributária, em 60 dias; o RJUE remete para o CPPT.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1995A0016&nid=1995&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Pedido de devolução de taxa paga indevidamente (prazo de 4 anos — art. 43.º LGT aplicável por analogia)",
+        "para": "- Pedido de revisão da liquidação e restituição da taxa paga indevidamente: com fundamento em erro imputável aos serviços, no prazo de quatro anos após a liquidação (art. 78.º, n.os 1 e 7, LGT, aplicável por força do art. 2.º, alínea b), RGTAL, e não por analogia); com qualquer outro fundamento, só no prazo da reclamação",
+        "motivo": "O prazo de quatro anos é o da revisão por erro imputável aos serviços (art. 78.º LGT), aplicável subsidiariamente por remissão expressa do RGTAL.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=253A0078&nid=253&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Arbitragem administrativa (CAAD — se previsto em protocolo com o município)",
+        "para": "- Arbitragem tributária (CAAD): depende de portaria de vinculação da administração tributária (art. 4.º, n.º 1, do RJAT — DL 10/2011) [■ VERIFICAR: se a portaria em vigor (Portaria 112-A/2011) ou outro instrumento vincula o município em causa; sem vinculação, a arbitragem não está disponível]",
+        "motivo": "A arbitragem tributária não depende de protocolo com o município, mas de portaria de vinculação.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1414A0004&nid=1414&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Reclamação graciosa dirigida ao presidente da câmara, com identificação da taxa contestada, fundamento legal e valor correto proposto",
+        "para": "- Reclamação da liquidação dirigida ao presidente da câmara (órgão que liquida — art. 117.º, n.º 1, RJUE), no prazo de 30 dias a contar da notificação (art. 16.º, n.º 2, RGTAL), com identificação da taxa contestada, fundamento legal e valor correto proposto",
+        "motivo": "Indica o órgão competente e o prazo legal da reclamação.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=625A0117&nid=625&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Data do pagamento (se já pago): [dd/mm/aaaa]",
+        "para": "- Data da notificação da liquidação: [dd/mm/aaaa] (conta para os prazos de reclamação e impugnação)\n- Data do pagamento (se já pago): [dd/mm/aaaa]",
+        "motivo": "A notificação da liquidação marca o início do prazo de reclamação.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1995A0016&nid=1995&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Confirmar na jurisprudência do STA se, nas taxas urbanísticas, prevalece o art. 117.º, n.º 3, RJUE (CPPT: 120 dias / três meses, reclamação facultativa) ou o art. 16.º RGTAL (30 dias, reclamação necessária, impugnação em 60 dias); na dúvida, reclamar em 30 dias.",
+      "Confirmar se o município está vinculado à arbitragem tributária do CAAD (Portaria 112-A/2011 ou outro instrumento).",
+      "Obter o regulamento municipal de taxas e a respetiva fundamentação económico-financeira (art. 8.º, n.º 2, alínea c), RGTAL)."
+    ],
+    "fontes": [
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1995&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1995A0008&nid=1995&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1995A0016&nid=1995&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=625A0116&nid=625&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=625A0117&nid=625&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=253A0078&nid=253&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1414A0004&nid=1414&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=256A0070&nid=256&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=256A0102&nid=256&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://informador.pt/legislacao/lexit/codigos/direito-fiscal/regime-da-arbitragem-em-materia-tributaria/legislacao-complementar-5/portaria-n-o-112-a-2011-de-22-de-marco/preambulo-8/"
+    ]
+  },
+  {
+    "codigo": "URB-043",
+    "veredicto": "corrigida",
+    "resumo": "Os requisitos do destaque estavam errados: o art. 6.º, n.º 4, RJUE (redação do DL 108/2026) exige que as duas parcelas resultantes confrontem com arruamentos públicos, no perímetro urbano ou em aglomerado rural delimitado, e não que o prédio originário confronte com «dois arruamentos»; fora desses espaços valem as condições do n.º 5 (edifício só habitacional até dois fogos, área mínima da parcela restante). Acrescentaram-se a regra da parcela única, o n.º 10, o prazo de 10 anos e a inscrição do ónus no registo (n.os 6 e 7), a certidão do n.º 9 e as cedências do n.º 13; corrigiram-se a «servidão de passagem como solução» e a classificação do solo («expansão» já não existe: só solo urbano e rústico).",
+    "descricao": "Analisa os requisitos e o procedimento do destaque de uma única parcela de prédio com descrição predial ao abrigo do art. 6.º do RJUE (DL 555/99): no perímetro urbano ou em aglomerado rural, a confrontação das duas parcelas com arruamentos públicos; fora deles, a construção só habitacional até dois fogos e a área mínima da parcela restante; o ónus de não fracionamento por 10 anos e a conformidade com o PDM.",
+    "descricao_en": "Analyses the requirements and procedure for detaching a single plot from a property registered in the land registry under Article 6 of the RJUE (Decree-Law 555/99): within the urban perimeter or a delimited rural settlement, both resulting plots must border public roads; outside them, only a residential building of up to two dwellings and the minimum area of the remaining plot; the 10-year ban on further detachment and conformity with the PDM.",
+    "substituicoes": [
+      {
+        "de": "- Requisito 1: o prédio originário confronta com dois arruamentos públicos (art. 6.º, n.º 4 RJUE) — OU está em zona rural\n- Requisito 2: a parcela destacada fica com acesso direto a via pública\n- Requisito 3: o remanescente do prédio fica também com acesso a via pública",
+        "para": "- Requisito 1: destaque de uma única parcela de prédio com descrição predial\n- Requisito 2 (prédio em perímetro urbano ou em aglomerado rural delimitado em plano municipal): as duas parcelas resultantes — a destacada e a restante — confrontam com arruamentos públicos (art. 6.º, n.º 4 RJUE); não basta que o prédio originário confronte com arruamentos\n- Requisito 3 (fora dos perímetros urbanos e dos aglomerados rurais delimitados): na parcela destacada só pode ser construído edifício exclusivamente habitacional, com o máximo de dois fogos, e a parcela restante respeita a área mínima do projeto de intervenção em espaço rural ou, na falta deste, a unidade de cultura fixada para a região (art. 6.º, n.º 5, RJUE); aqui a lei não exige confrontação com arruamento público, sem prejuízo do PDM\n- Prédio parte dentro e parte fora do perímetro urbano: aplica-se o n.º 4 ou o n.º 5 consoante a localização da parcela a destacar ou, se esta também ficar nas duas zonas, da área maior (art. 6.º, n.º 10, RJUE)\n- Prazo de 10 anos: não é permitido novo destaque na área do prédio originário durante 10 anos contados do destaque anterior (art. 6.º, n.º 6, RJUE)",
+        "motivo": "O n.º 4 exige que as duas parcelas resultantes confrontem com arruamentos públicos (não «dois arruamentos» do prédio originário); fora do perímetro urbano valem as condições do n.º 5; faltavam a parcela única, o n.º 10 e o prazo de 10 anos do n.º 6.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=625A0006&nid=625&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- O destaque não está sujeito a licença de loteamento (art. 6.º, n.º 1 RJUE)",
+        "para": "- O destaque que cumpra os n.os 4 ou 5 está isento de licença e de comunicação prévia, nos termos da alínea d) (art. 6.º, n.º 1 RJUE), sem dispensa das normas legais e regulamentares aplicáveis, designadamente do PDM e das servidões e restrições de utilidade pública (art. 6.º, n.º 8, RJUE)",
+        "motivo": "A isenção é de licença e de comunicação prévia e não dispensa as normas aplicáveis (n.º 8).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=625A0006&nid=625&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Prazo de emissão da certidão e efeitos\n- Registo predial do destaque: art. 95.º do Código do Registo Predial (CRPred)",
+        "para": "- Efeitos da certidão: é documento bastante para o registo predial da parcela destacada (art. 6.º, n.º 9, RJUE); prazo de emissão [■ VERIFICAR: regulamento municipal e regime das certidões do CPA]\n- Registo predial: o condicionamento da construção (n.º 5) e o ónus de não fracionamento (n.º 6) são inscritos sobre as parcelas resultantes, sem o que não pode ser licenciada ou comunicada obra de construção nelas (art. 6.º, n.º 7, RJUE); menção do encargo na inscrição — art. 95.º, n.º 1, alínea z), do Código do Registo Predial\n- Taxas e eventuais cedências, se o regulamento municipal qualificar a operação como de impacte relevante ou semelhante a loteamento (art. 6.º, n.º 13, RJUE)",
+        "motivo": "O art. 95.º CRPredial só fixa menções especiais das inscrições; o regime registal do destaque está no art. 6.º, n.os 7 e 9, RJUE.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=625A0006&nid=625&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Destaque sucessivo: câmaras que recusam porque já houve destaque anterior do mesmo prédio (prática de loteamento disfarçado)\n- Parcela sem acesso direto a via pública: servidão de passagem como solução",
+        "para": "- Destaque sucessivo: a lei proíbe novo destaque na área do prédio originário durante 10 anos contados do destaque anterior (art. 6.º, n.º 6, RJUE); fora do regime do destaque, a divisão destinada à edificação urbana é operação de loteamento (art. 2.º, alínea i), RJUE)\n- Parcela sem confrontação com arruamento público, em perímetro urbano ou aglomerado rural: não cumpre o n.º 4 e a servidão de passagem não supre o requisito; a divisão fica sujeita ao regime do loteamento (art. 2.º, alínea i), RJUE)",
+        "motivo": "A proibição do destaque sucessivo é legal (n.º 6), não prática camarária; a servidão de passagem não preenche a confrontação com arruamento público exigida pelo n.º 4.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=625A0006&nid=625&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Classificação do solo (PDM): [urbano / rústico / expansão]",
+        "para": "- Classificação do solo (PDM): [solo urbano / solo rústico — e se o prédio está em perímetro urbano ou em aglomerado rural delimitado em plano municipal]",
+        "motivo": "A Lei de Bases dos Solos só distingue solo rústico e solo urbano; a localização decide entre os n.os 4 e 5 do art. 6.º RJUE.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2123A0010&nid=2123&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Destaque anteriores deste prédio: [sim/não — se sim, quando]",
+        "para": "- Destaques anteriores deste prédio: [sim/não — se sim, data do destaque anterior, relevante para o prazo de 10 anos do art. 6.º, n.º 6, RJUE]",
+        "motivo": "A data do destaque anterior conta para o prazo legal de 10 anos.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=625A0006&nid=625&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Confirmar no PDM a delimitação do perímetro urbano e dos aglomerados rurais (a referência a aglomerado rural consta da redação em vigor do art. 6.º, n.os 4 e 5, RJUE, alterado por último pelo DL 108/2026).",
+      "Confirmar a área da unidade de cultura aplicável à região ou o projeto de intervenção em espaço rural em vigor (art. 6.º, n.º 5, alínea b), RJUE).",
+      "Confirmar no regulamento municipal o prazo de emissão da certidão de destaque e se o destaque fica sujeito a taxas ou cedências (art. 6.º, n.º 13, RJUE)."
+    ],
+    "fontes": [
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=625A0006&nid=625&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=625&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=488A0095&nid=488&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2123A0010&nid=2123&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+    ]
+  },
+  {
+    "codigo": "URB-044",
+    "veredicto": "corrigida",
+    "resumo": "A ficha descrevia o regime das áreas de contenção anterior ao DL 76/2024: hoje a delimitação faz-se no regulamento municipal de AL (arts. 4.º, n.º 5, e 15.º-A DL 128/2014), a suspensão cautelar de novos registos é de um ano no máximo, por deliberação da assembleia municipal (art. 15.º-B, n.º 2), não existem a quota de 75 % por edifício nem os arts. 9.º-A e 38.º, e a oposição do condomínio está no art. 9.º, n.º 2 (mais de metade da permilagem, decisão do presidente da câmara). Corrigiram-se ainda a renovação do registo (art. 6.º-A revogado), a «recusa/revogação» (oposição ao registo e cancelamento, arts. 6.º, n.º 9, e 9.º), o meio contra o regulamento (impugnação de normas, arts. 72.º e 73.º CPTA) e a «reclamação graciosa» (reclamação do CPA); o título e a descrição do índice foram atualizados.",
+    "titulo": "Alojamento Local em Área de Contenção: Viabilidade e Impugnação da Oposição ao Registo",
+    "titulo_en": "Local Accommodation in a Containment Area: Feasibility and Challenge to the Opposition to Registration",
+    "descricao": "Analisa a viabilidade de instalar alojamento local (AL) em áreas de contenção ou de crescimento sustentável fixadas no regulamento municipal ao abrigo dos arts. 15.º-A a 15.º-C do Decreto-Lei 128/2014 (regime do AL, na redação do DL 76/2024), verificando o título de utilização e o PDM e estruturando a impugnação da oposição ao registo ou do cancelamento de registos existentes.",
+    "descricao_en": "Analyses the feasibility of setting up local accommodation (alojamento local — AL, short-term rentals) in containment or sustainable-growth areas set in the municipal regulation under Articles 15-A to 15-C of Decree-Law 128/2014 (AL regime, as amended by Decree-Law 76/2024), checking the use permit and the PDM and structuring the challenge to the opposition to registration or to the cancellation of existing registrations.",
+    "substituicoes": [
+      {
+        "de": "— Cita os arts. 15.º-A do DL 128/2014 (zonas de contenção) e os artigos do PDM aplicáveis.\n— Distingue suspensão de novos registos de revogação de registos existentes.",
+        "para": "— Cita os arts. 15.º-A a 15.º-C do DL 128/2014 (áreas de contenção e de crescimento sustentável, na redação do DL 76/2024), o regulamento municipal de alojamento local (art. 4.º, n.º 5, do DL 128/2014) e, se for o caso, as normas do PDM aplicáveis.\n— Distingue os limites ou a suspensão de novos registos (art. 15.º-B do DL 128/2014) do cancelamento de registos existentes (art. 9.º do DL 128/2014).",
+        "motivo": "Desde o DL 76/2024 o regime está nos arts. 15.º-A a 15.º-C e no regulamento municipal; o que a lei prevê para registos existentes é o cancelamento.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3085&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Verificar se o imóvel está em zona de contenção delimitada pelo município (consultar deliberação camarária ou plataforma do Turismo de Portugal)\n- Classificação do imóvel no PDM: habitação / turismo / uso misto\n- Existência de regulamento municipal de AL (art. 15.º-A, n.º 8 DL 128/2014)\n- Tipo de AL: moradia, apartamento, estabelecimento de hospedagem ou hostel\n- Estado do registo: inexistente / pendente / ativo / suspenso",
+        "para": "- Verificar se o imóvel está em área de contenção ou de crescimento sustentável fixada no regulamento municipal (art. 15.º-A, n.º 1, do DL 128/2014); o Turismo de Portugal assinala as áreas de contenção no Balcão Único Eletrónico (n.º 4)\n- Título de utilização do imóvel e utilização admitida para AL no regulamento municipal ou pela câmara (arts. 6.º, n.º 1, alínea a), e 6.º-B do DL 128/2014); classificação do imóvel no PDM: habitação / turismo / uso misto\n- Existência de regulamento municipal de AL (art. 4.º, n.º 5, do DL 128/2014) ou de suspensão de novos registos até à sua entrada em vigor (art. 15.º-B, n.º 2)\n- Modalidade de AL: moradia, apartamento, estabelecimento de hospedagem (incluindo hostel) ou quartos (art. 3.º, n.º 1, do DL 128/2014)\n- Estado do registo: inexistente / comunicação pendente / ativo / cancelado / exploração interditada",
+        "motivo": "As áreas de contenção são fixadas no regulamento municipal; o art. 15.º-A não tem n.º 8; faltava a modalidade quartos; a lei prevê cancelamento e interdição, não suspensão do registo.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=3085A015A&nid=3085&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Delimitação de zonas de contenção: competência da câmara municipal por deliberação fundamentada (art. 15.º-A, n.º 1 DL 128/2014)\n- Efeitos na zona de contenção: suspensão de novos registos (não afeta registos válidos à data)\n- Prazo máximo de suspensão: 2 anos renováveis\n- Quota máxima de AL por edifício fora das zonas de contenção (75% das frações — art. 9.º, n.º 4 DL 128/2014)\n- Condominato: direito da assembleia de condóminos de se opor ao AL (art. 9.º-A DL 128/2014)",
+        "para": "- Delimitação de áreas de contenção e de crescimento sustentável: pelo município, no regulamento municipal de AL, por freguesia ou união de freguesias, com base em estudo que fundamente a proporcionalidade (art. 15.º-A, n.os 1 e 6, do DL 128/2014); reavaliação no mínimo de três em três anos (n.º 5)\n- Efeitos na área de contenção: os que o regulamento fixar — limites ao número de novos registos, proibição de novos registos em imóveis arrendados para habitação nos dois anos anteriores, exceções, duração e limites à transmissibilidade dos novos registos (art. 15.º-B, n.º 1, do DL 128/2014); o prazo de oposição ao registo passa a 90 dias (art. 6.º, n.º 9); as restrições incidem sobre novos registos (arts. 15.º-A, n.º 1, e 9.º, n.º 1, alínea b))\n- Suspensão de novos registos até à entrada em vigor do regulamento: por deliberação fundamentada da assembleia municipal, sob proposta da câmara, por um período máximo de um ano, em áreas especificamente delimitadas (art. 15.º-B, n.º 2, do DL 128/2014)\n- Áreas de crescimento sustentável: requisitos adicionais que o regulamento pode fixar, incluindo a manutenção de uma proporção ou de um número mínimo de frações destinadas a habitação no edifício (art. 15.º-C, n.º 2, do DL 128/2014); a lei não fixa uma quota de 75 % por edifício\n- Condomínio: a assembleia de condóminos pode opor-se ao AL numa fração por deliberação fundamentada, aprovada por mais de metade da permilagem, com base na prática reiterada e comprovada de atos que perturbem a normal utilização do prédio ou o descanso dos condóminos, pedindo a decisão do presidente da câmara (art. 9.º, n.os 2 e 5, do DL 128/2014); a proibição do AL por deliberação posterior que altere o regulamento do condomínio exige dois terços da permilagem e só vale para os pedidos de registo posteriores (art. 6.º-B, n.os 4 e 5)",
+        "motivo": "Regime anterior ao DL 76/2024: a delimitação é feita no regulamento municipal, a suspensão cautelar é de um ano, pela assembleia municipal, não há quota legal de 75 % nem art. 9.º-A, e a oposição do condomínio está no art. 9.º, n.º 2.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=3085A015B&nid=3085&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Revogação de registo por razões urbanísticas: exige fundamento expresso e indemnização",
+        "para": "- Cancelamento de registo: só com um dos fundamentos do art. 9.º, n.º 1, do DL 128/2014 e precedido de audiência prévia; a delimitação posterior de uma área de contenção não é, por si, fundamento de cancelamento de registos anteriores (a alínea b) visa o novo AL instalado depois de definida a área); a lei do AL não prevê indemnização [■ VERIFICAR: responsabilidade civil do município] e a confiança dos titulares é tutelada",
+        "motivo": "A lei prevê cancelamento com os fundamentos do art. 9.º, n.º 1, e não uma «revogação» com indemnização.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=3085A0009&nid=3085&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Renovação de registo em zona de contenção: posição da jurisprudência administrativa\n- Suspensão administrativa de registo: fundamento legal exigível (art. 38.º DL 128/2014)",
+        "para": "- Renovação de registo: o regime de renovação do art. 6.º-A do DL 128/2014 (aditado pela Lei 56/2023) foi revogado pelo DL 76/2024; os novos registos em área de contenção podem ter a duração que o regulamento fixar (art. 15.º-B, n.º 1, alínea d))\n- Interdição temporária da exploração: só nos casos do art. 28.º do DL 128/2014 (nos termos do art. 21.º, n.º 5, ou quando estejam em causa a segurança dos utilizadores ou a saúde pública)",
+        "motivo": "O art. 6.º-A foi revogado pelo DL 76/2024; o DL 128/2014 não tem art. 38.º — a interdição temporária está no art. 28.º.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3085&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Impugnação da deliberação de delimitação da zona de contenção (ação administrativa — art. 50.º CPTA)\n- Impugnação da recusa de registo por localização em zona de contenção (fundamento: direito adquirido ou erro na delimitação)",
+        "para": "- Impugnação das normas do regulamento municipal que fixa a área de contenção (impugnação de normas — arts. 72.º e 73.º CPTA); impugnação dos atos de aplicação, como a oposição ao registo ou o cancelamento (ação administrativa — art. 50.º CPTA) [■ VERIFICAR: meio próprio contra a deliberação de suspensão do art. 15.º-B, n.º 2, do DL 128/2014]\n- Impugnação da oposição ao registo por violação das restrições da área de contenção (art. 6.º, n.º 9, alínea c), do DL 128/2014; a oposição obsta à atribuição do número de registo — n.º 10), com fundamento em erro nos pressupostos ou na ilegalidade do regulamento; o interessado pode pedir, uma vez, vistoria para revisão da oposição (n.º 11)",
+        "motivo": "A delimitação consta de regulamento (norma), impugnável nos termos dos arts. 72.º e ss. CPTA; o ato a impugnar é a oposição ao registo do art. 6.º, n.º 9.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=439A0072&nid=439&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Ação de responsabilidade civil pela revogação de registo legítimo",
+        "para": "- Ação de responsabilidade civil pelo cancelamento ilegal do registo",
+        "motivo": "A figura legal é o cancelamento do registo (art. 9.º).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=3085A0009&nid=3085&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Reclamação graciosa contra recusa de registo de AL por zona de contenção, com fundamentos legais",
+        "para": "- Reclamação para o autor do ato (arts. 191.º e 192.º CPA; 15 dias, se a lei não fixar outro prazo) ou petição de impugnação contra a oposição ao registo de AL por violação das restrições da área de contenção, com fundamentos legais",
+        "motivo": "«Reclamação graciosa» é figura tributária; contra a oposição ao registo cabe reclamação do CPA ou impugnação contenciosa.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2248A0191&nid=2248&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- A localização está em zona de contenção: [sim/não — se sim, deliberação n.º]",
+        "para": "- A localização está em área de contenção ou de crescimento sustentável: [sim/não — se sim, regulamento municipal e data de publicação]",
+        "motivo": "As áreas são fixadas no regulamento municipal.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=3085A015A&nid=3085&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Recusa ou suspensão da câmara: [sim/não — fundamento]",
+        "para": "- Oposição ao registo, cancelamento ou interdição: [sim/não — data da notificação e fundamento]",
+        "motivo": "Figuras do regime em vigor (arts. 6.º, n.º 9, 9.º e 28.º).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=3085A0006&nid=3085&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Confirmar se o município aprovou regulamento de AL ou deliberou a suspensão cautelar do art. 15.º-B, n.º 2, e o prazo transitório do DL 76/2024 para os municípios decidirem sobre o regulamento (a referência da casa indica uma prorrogação em 2026, a confirmar).",
+      "Confirmar a eventual responsabilidade civil do município pelo cancelamento ilegal do registo (Lei 67/2007) e o meio próprio contra a deliberação de suspensão de novos registos.",
+      "O PGDL mostra o DL 76/2024 como última alteração do DL 128/2014; confirmar no Diário da República que não há alteração posterior."
+    ],
+    "fontes": [
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3085&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=3085A0006&nid=3085&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=3085A0009&nid=3085&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=3085A015A&nid=3085&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=3085A015B&nid=3085&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=439A0072&nid=439&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2248A0191&nid=2248&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+    ]
+  }
+]

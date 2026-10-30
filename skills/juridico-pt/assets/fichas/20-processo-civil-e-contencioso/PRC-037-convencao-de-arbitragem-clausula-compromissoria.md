@@ -6,7 +6,8 @@ titulo_en: "Arbitration Agreement (Arbitration Clause)"
 descricao: "Gera uma convenção de arbitragem completa — seja como cláusula compromissória inserida num contrato, seja como compromisso arbitral autónomo — nos termos da Lei da Arbitragem Voluntária (Lei n.º 63/2011, de 14 de Dezembro), para submeter litígios presentes ou futuros a arbitragem voluntária institucional ou ad hoc, com definição do centro, sede, lei aplicável, número de árbitros e língua do processo."
 descricao_en: "Generates a complete arbitration agreement — either as an arbitration clause (cláusula compromissória) included in a contract or as a standalone submission agreement (compromisso arbitral) — under the Voluntary Arbitration Law (Law No. 63/2011 of 14 December), to submit present or future disputes to institutional or ad hoc voluntary arbitration, specifying the centre, seat, applicable law, number of arbitrators and language of the proceedings."
 ambito: nacional
-estado_citacoes: "conferidas 4 · corrigidas 3 · por conferir 0"
+estado_citacoes: "conferidas 7 · corrigidas 2 · por conferir 0"
+revisao_tecnica: "2026-10-28 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
@@ -14,7 +15,8 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 
 > **Âmbito:** nacional · **Área:** Processo Civil e Contencioso · **Código:** PRC-037
 > **EN:** Arbitration Agreement (Arbitration Clause). Generates a complete arbitration agreement — either as an arbitration clause (cláusula compromissória) included in a contract or as a standalone submission agreement (compromisso arbitral) — under the Voluntary Arbitration Law (Law No. 63/2011 of 14 December), to submit present or future disputes to institutional or ad hoc voluntary arbitration, specifying the centre, seat, applicable law, number of arbitrators and language of the proceedings.
-> **Citações:** conferidas 4 · corrigidas 3 · por conferir 0. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 7 · corrigidas 2 · por conferir 0. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-28 — corrigida (7 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
 Gera uma convenção de arbitragem completa — seja como cláusula compromissória inserida num contrato, seja como compromisso arbitral autónomo — nos termos da Lei da Arbitragem Voluntária (Lei n.º 63/2011, de 14 de Dezembro), para submeter litígios presentes ou futuros a arbitragem voluntária institucional ou ad hoc, com definição do centro, sede, lei aplicável, número de árbitros e língua do processo.
 
@@ -28,7 +30,7 @@ Ficha de trabalho para preparar este documento. As regras da casa prevalecem sob
 - Sinaliza [■ VERIFICAR: o que é necessário] se faltarem dados
 - Lei n.º 63/2011, de 14 de Dezembro (LAV) — lei aplicável à arbitragem voluntária em Portugal
 - Art. 1.º LAV: convenção de arbitragem inclui cláusula compromissória (litígios futuros) e compromisso arbitral (litígio atual)
-- Art. 1.º LAV: matérias arbitráveis — litígios respeitantes a interesses de natureza patrimonial, salvo exceções (matéria criminal, estado das pessoas, etc.)
+- Art. 1.º, n.os 1 e 2, LAV: matérias arbitráveis — qualquer litígio respeitante a interesses de natureza patrimonial, desde que lei especial não o submeta exclusivamente aos tribunais do Estado ou a arbitragem necessária; os litígios sem natureza patrimonial, só se as partes puderem celebrar transação sobre o direito controvertido
 - A cláusula deve ser escrita (art. 2.º, n.º 1 LAV) e identificar o litígio ou a relação jurídica abrangida
 - Menciona sempre: centro de arbitragem (ou ad hoc), número de árbitros, sede, língua, direito aplicável
 
@@ -40,7 +42,7 @@ Ficha de trabalho para preparar este documento. As regras da casa prevalecem sob
 Analisa em <analise_do_caso>:
 - A matéria é arbitrável nos termos do art. 1.º da LAV?
 - Trata-se de cláusula compromissória (litígios futuros) ou compromisso arbitral (litígio já existente)?
-- As partes preferem arbitragem institucional (CAAD, CAC, APA, etc.) ou ad hoc?
+- As partes preferem arbitragem institucional (por exemplo, o Centro de Arbitragem Comercial da Câmara de Comércio e Indústria Portuguesa ou um centro especializado como o ARBITRARE, na propriedade industrial, nomes de domínio, firmas e denominações) ou ad hoc? O CAAD é um centro de arbitragem administrativa e tributária e a APA é uma associação, não um centro que administre processos [■ VERIFICAR: centro escolhido, âmbito e regulamento em vigor]
 - Qual o valor típico dos litígios esperados? (influi no n.º de árbitros e custo)
 - Há elemento internacional? (sede, partes, lei aplicável)
 - Que temas devem estar excluídos da convenção?
@@ -49,7 +51,7 @@ Analisa em <analise_do_caso>:
 ### ETAPA 2 — ANÁLISE JURÍDICA
 Identifica em <fundamentos_juridicos>:
 - Lei n.º 63/2011, de 14 de Dezembro (LAV) — arbitragem voluntária
-- Regulamento do centro de arbitragem escolhido (CAAD, CAC, APA, ARBITRARE, etc.)
+- Regulamento do centro de arbitragem escolhido (Centro de Arbitragem Comercial, ARBITRARE ou outro) [■ VERIFICAR: regulamento em vigor]
 - Convenção de Nova Iorque de 1958 (reconhecimento de sentenças arbitrais estrangeiras) — se elemento internacional
 - Regulamento Roma I (lei aplicável a contratos internacionais)
 - Arts. 96.º a 108.º CPC — articulação entre arbitragem e tribunais estaduais
@@ -102,11 +104,11 @@ nos seguintes termos:
 **CLÁUSULAS ADICIONAIS FACULTATIVAS:**
 - Medidas cautelares: "As partes reconhecem a competência do tribunal arbitral para decretar medidas cautelares nos termos do art. 20.º da LAV."
 - Confidencialidade: "O processo arbitral e a sentença são confidenciais, salvo acordo em contrário ou imposição legal."
-- Exclusão de recursos: "As partes excluem o recurso da sentença arbitral para o tribunal estadual, nos termos do art. 39.º, n.º 4 da LAV." [■ VERIFICAR se aplicável]
+- Recurso da sentença (só se as partes o quiserem): a sentença arbitral é irrecorrível, salvo se a convenção previr expressamente o recurso para o tribunal estadual e a causa não for decidida segundo a equidade ou por composição amigável (art. 39.º, n.º 4 da LAV). Para admitir o recurso: "Da sentença arbitral que se pronuncie sobre o fundo da causa cabe recurso para o tribunal estadual competente." Não é preciso «excluir» o recurso, e o direito de requerer a anulação da sentença arbitral é irrenunciável (art. 46.º, n.º 5, LAV).
 
 ### ETAPA 5 — VALIDAÇÃO
 Apresenta em <checklist_validacao>:
-- [ ] Matéria é arbitrável (patrimonial, excluídas as restrições legais)
+- [ ] Matéria é arbitrável (patrimonial ou, não o sendo, transacionável; sem reserva legal aos tribunais do Estado nem arbitragem necessária — art. 1.º, n.os 1 e 2, LAV)
 - [ ] Convenção reduzida a escrito
 - [ ] Objeto ou relação jurídica claramente identificados
 - [ ] Centro de arbitragem ou regras ad hoc indicados
@@ -133,11 +135,11 @@ Apresenta em <checklist_validacao>:
 - Valor estimado dos litígios: [€ — influi no n.º de árbitros e no centro]
 
 **PREFERÊNCIAS DE ARBITRAGEM:**
-- Centro: [CAAD / CAC Lisboa / APA / ARBITRARE / ad hoc / VERIFICAR]
+- Centro: [Centro de Arbitragem Comercial / ARBITRARE / outro centro / ad hoc / VERIFICAR]
 - Sede: [Lisboa / Porto / outro]
 - N.º de árbitros: [1 / 3]
 - Lei aplicável: [português / outro — VERIFICAR]
-- Excluir recurso da sentença: [sim / não]
+- Admitir recurso da sentença para o tribunal estadual: [não (regra legal) / sim]
 
 **INFORMAÇÕES ADICIONAIS:**
 [Qualquer dado relevante — elemento internacional, matérias a excluir, etc.]
@@ -147,9 +149,11 @@ Apresenta em <checklist_validacao>:
 | Citação | Estado | Nota |
 |---|---|---|
 | Art. 1.º LAV | conferida (epígrafe) — Convenção de arbitragem |  |
-| Art. 1.º LAV | corrigida — Convenção de arbitragem | o número citado no catálogo não correspondia à epígrafe |
+| Art. 1.º, n.os 1 e 2, LAV | conferida (epígrafe) — Convenção de arbitragem |  |
 | art. 2.º, n.º 1 LAV | conferida (epígrafe) — Requisitos da convenção de arbitragem; sua revogação |  |
 | art. 1.º da LAV | corrigida — Convenção de arbitragem | o número citado no catálogo não correspondia à epígrafe |
 | Arts. 96.º a 108.º CPC | conferida (epígrafe) — Casos de incompetência absoluta |  |
 | art. 20.º da LAV | corrigida — Providências cautelares decretadas pelo tribunal arbitral | o número citado no catálogo não correspondia à epígrafe |
 | art. 39.º, n.º 4 da LAV | conferida (epígrafe) — Direito aplicável, recurso à equidade; irrecorribilidade da decisão |  |
+| art. 46.º, n.º 5, LAV | conferida (epígrafe) — Pedido de anulação |  |
+| art. 1.º, n.os 1 e 2, LAV | conferida (epígrafe) — Convenção de arbitragem |  |

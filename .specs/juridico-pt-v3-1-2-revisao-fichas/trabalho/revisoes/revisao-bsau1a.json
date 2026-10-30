@@ -1,0 +1,204 @@
+[
+  {
+    "codigo": "SAU-012",
+    "veredicto": "corrigida",
+    "resumo": "Os artigos do Código Deontológico da Ordem dos Médicos não correspondiam ao texto em vigor (o 8.º trata das condições de exercício, o 37.º do tratamento da informação de saúde, o 38.º das funções diretivas e o 70.º da procriação medicamente assistida) e os do Código Deontológico dos Enfermeiros seguiam a numeração anterior à republicação pela Lei n.º 156/2015. Corrigiram-se as normas (CDOM: arts. 4.º, 5.º, 19.º, 20.º a 23.º e 29.º a 35.º; Estatuto da Ordem dos Enfermeiros: arts. 104.º a 106.º), atualizou-se o Estatuto da Ordem dos Médicos (Lei n.º 9/2024) e acertou-se o órgão destinatário: nos médicos, o conselho disciplinar regional da região onde os factos foram praticados; nos enfermeiros, o conselho jurisdicional, não um «conselho disciplinar».",
+    "substituicoes": [
+      {
+        "de": "  - Art. 8.º — competência e atualização profissional\n  - Art. 37.º — dever de informação ao doente\n  - Art. 38.º — consentimento informado\n  - Art. 70.º — sigilo profissional",
+        "para": "  - Art. 4.º, n.os 1 e 8, e art. 5.º — exercício segundo as leges artis, dever de atualização científica e técnica e qualidade dos cuidados\n  - Art. 19.º — esclarecimento do médico ao doente\n  - Arts. 20.º a 23.º — consentimento do doente\n  - Arts. 29.º a 35.º — segredo médico",
+        "motivo": "No Código Deontológico em vigor o art. 8.º trata das condições de exercício, o 37.º do tratamento da informação de saúde, o 38.º das funções diretivas e o 70.º da procriação medicamente assistida.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2649&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Estatutos da Ordem dos Médicos (Lei n.º 117/2015): processo disciplinar",
+        "para": "- Estatuto da Ordem dos Médicos (Decreto-Lei n.º 282/77, na redação das Leis n.os 117/2015 e 9/2024): competência disciplinar dos conselhos disciplinares regionais (arts. 65.º e 67.º) e regras disciplinares em anexo (art. 68.º, n.º 2)",
+        "motivo": "O Estatuto é o do Decreto-Lei n.º 282/77, alterado pela Lei n.º 117/2015 e depois pela Lei n.º 9/2024; o processo disciplinar está no anexo.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=868&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Código Deontológico dos Enfermeiros (inserido no Decreto-Lei n.º 104/98, atualizado):\n  - Art. 83.º — direito ao cuidado\n  - Art. 84.º — dever de informação\n  - Art. 85.º — dever de sigilo\n  - [■ VERIFICAR: artigos específicos atualizados]\n- Estatuto da Ordem dos Enfermeiros: regime disciplinar",
+        "para": "- Código Deontológico dos Enfermeiros (capítulo VI do Estatuto da Ordem dos Enfermeiros, aprovado pelo Decreto-Lei n.º 104/98, republicado pela Lei n.º 156/2015 e alterado pela Lei n.º 8/2024):\n  - Art. 104.º — direito ao cuidado\n  - Art. 105.º — dever de informação (incluindo o consentimento informado)\n  - Art. 106.º — dever de sigilo\n  - [■ VERIFICAR: artigos específicos para o tipo de violação em causa]\n- Estatuto da Ordem dos Enfermeiros: regime disciplinar (arts. 71.º e ss.); a decisão final cabe ao conselho jurisdicional (art. 32.º, n.º 1, al. b)) e a instrução ao conselho jurisdicional regional da secção em que o enfermeiro está inscrito (art. 47.º, n.º 2)",
+        "motivo": "Os arts. 83.º a 85.º são a numeração anterior à republicação de 2015; hoje o direito ao cuidado, a informação e o sigilo estão nos arts. 104.º a 106.º, que a Lei n.º 8/2024 não alterou. Na Ordem dos Enfermeiros o órgão disciplinar é o conselho jurisdicional.",
+        "fonte": "https://diariodarepublica.pt/redirect/LinkFicheiroAntigo.aspx?conteudoId=70309896"
+      },
+      {
+        "de": "[Conselho Disciplinar Regional — indicar a região onde o profissional exerce]",
+        "para": "[Médicos: Conselho Disciplinar Regional do Norte, do Centro ou do Sul, da região onde os factos foram praticados (art. 67.º, n.º 3, do Estatuto da Ordem dos Médicos) / Enfermeiros: Conselho Jurisdicional (art. 32.º, n.º 1, al. b), do Estatuto da Ordem dos Enfermeiros)]",
+        "motivo": "Na Ordem dos Médicos a competência territorial é a da região onde os factos foram praticados; a Ordem dos Enfermeiros não tem conselhos disciplinares, mas um conselho jurisdicional.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=868A0067&nid=868&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "\"Requer-se que o Conselho Disciplinar [Regional/Nacional] instaure processo disciplinar",
+        "para": "\"Requer-se que o [Conselho Disciplinar Regional do Norte / do Centro / do Sul da Ordem dos Médicos | Conselho Jurisdicional da Ordem dos Enfermeiros] instaure processo disciplinar",
+        "motivo": "O conselho nacional de disciplina da Ordem dos Médicos decide recursos e os processos dos titulares de órgãos nacionais, não a participação de um utente; nos enfermeiros o órgão é o conselho jurisdicional.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=868&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- [ ] Conselho Disciplinar Regional correto (onde o profissional exerce)",
+        "para": "- [ ] Órgão disciplinar correto (médicos: conselho disciplinar regional da região onde os factos foram praticados; enfermeiros: conselho jurisdicional)",
+        "motivo": "Coerência com o órgão competente em cada Ordem.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=868A0067&nid=868&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Região onde o profissional exerce (para identificar o Conselho Disciplinar): [região]",
+        "para": "- Região onde os factos foram praticados (para identificar o conselho disciplinar regional, no caso dos médicos): [região]",
+        "motivo": "O critério do art. 67.º, n.º 3, do Estatuto da Ordem dos Médicos é o lugar dos factos.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=868A0067&nid=868&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Escolher, no caso concreto, os artigos do Código Deontológico violados; a lista da ficha indica só os deveres mais frequentes.",
+      "Na Ordem dos Enfermeiros, confirmar no regulamento disciplinar em vigor a quem dirigir a participação (o Estatuto manda remeter ao órgão competente qualquer participação recebida, art. 73.º, n.º 1).",
+      "Qualquer pessoa pode participar factos à Ordem dos Médicos (art. 8.º, n.º 2, al. b), do anexo ao Estatuto); na Ordem dos Enfermeiros, a legitimidade é de quem tenha sido direta ou indiretamente afetado (art. 71.º, n.º 1, al. a))."
+    ],
+    "fontes": [
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2649&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=868&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?ficha=101&artigo_id=&nid=868&pagina=2&tabela=leis&nversao=&so_miolo=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=868A0067&nid=868&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://diariodarepublica.pt/redirect/LinkFicheiroAntigo.aspx?conteudoId=70309896",
+      "https://diariodarepublica.pt/redirect/LinkFicheiroAntigo.aspx?conteudoId=837135328"
+    ]
+  },
+  {
+    "codigo": "SAU-018",
+    "veredicto": "corrigida",
+    "resumo": "A ficha atribuía à Lei n.º 25/2012 artigos errados: o prazo de eficácia está no art. 7.º e a revogação no art. 8.º (não no art. 4.º, que trata da capacidade), e o procurador de cuidados de saúde nos arts. 11.º a 14.º (não no art. 7.º). Os limites do art. 5.º estavam mal descritos (não há limite de «morte por omissão de tratamento urgente»; a recusa de suporte artificial de funções vitais é conteúdo típico das diretivas), a forma não admite «reconhecimento presencial» em alternativa ao notário ou ao funcionário do RENTEV, e a consulta do RENTEV é dever do médico responsável (art. 17.º). Corrigiu-se tudo pela versão em vigor, incluindo a revogação da al. b) do art. 4.º.",
+    "substituicoes": [
+      {
+        "de": "(diretivas de recusa de tratamento)",
+        "para": "(diretivas sobre os cuidados de saúde que a pessoa deseja ou não receber)",
+        "motivo": "As diretivas podem também pedir cuidados, como os paliativos (art. 2.º, n.os 1 e 2, al. c)).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1765&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Lei n.º 25/2012, art. 3.º — requisitos de validade formal: maior, capaz, por escrito, perante notário ou reconhecimento presencial\n- Lei n.º 25/2012, art. 4.º — prazo de validade (5 anos, renovável) e revogação a qualquer momento\n- Lei n.º 25/2012, art. 5.º — limites das diretivas: não podem violar a lei, a ordem pública ou causar a morte por omissão de tratamento urgente\n- Lei n.º 25/2012, art. 7.º e ss. — procurador de cuidados de saúde\n- RENTEV — Registo Nacional do Testamento Vital: obrigatoriedade de consulta pelos serviços de saúde",
+        "para": "- Lei n.º 25/2012, art. 3.º — forma: documento escrito, assinado presencialmente perante funcionário habilitado do RENTEV ou notário, com as menções do n.º 1 (identificação do outorgante, lugar, data e hora, situações clínicas abrangidas, opções e instruções)\n- Lei n.º 25/2012, art. 4.º — capacidade: maior de idade e capaz de dar consentimento consciente, livre e esclarecido (a al. b), relativa a interditos e inabilitados, foi revogada)\n- Lei n.º 25/2012, art. 7.º — prazo de eficácia de 5 anos a contar da assinatura, sucessivamente renovável por declaração de confirmação com a forma do art. 3.º; o documento mantém-se em vigor se a incapacidade sobrevier durante o prazo\n- Lei n.º 25/2012, art. 8.º — modificação ou revogação a qualquer momento, também por simples declaração oral ao responsável pela prestação de cuidados (n.º 4)\n- Lei n.º 25/2012, art. 5.º — limites: são juridicamente inexistentes as diretivas contrárias à lei, à ordem pública ou às boas práticas, aquelas cujo cumprimento possa provocar deliberadamente a morte não natural e evitável prevista nos arts. 134.º e 135.º CP e aquelas em que a vontade não foi expressa de forma clara e inequívoca\n- Lei n.º 25/2012, art. 6.º — eficácia: a equipa de saúde deve respeitar as diretivas registadas no RENTEV ou que lhe sejam entregues, salvo nos casos do n.º 2 e em urgência ou perigo imediato para a vida (n.º 4); art. 9.º — objeção de consciência do profissional, cabendo ao estabelecimento garantir o cumprimento das diretivas\n- Lei n.º 25/2012, arts. 11.º a 14.º — procurador de cuidados de saúde\n- RENTEV — Registo Nacional do Testamento Vital (arts. 15.º a 17.º): registo meramente declarativo (art. 16.º, n.º 1); o médico responsável por pessoa incapaz de exprimir a sua vontade verifica no RENTEV se existem diretivas ou procuração (art. 17.º, n.º 1)",
+        "motivo": "O prazo é o do art. 7.º e a revogação a do art. 8.º; o art. 4.º é a capacidade; o procurador está nos arts. 11.º a 14.º; o art. 5.º não prevê o limite indicado; o reconhecimento de assinatura só vale para o envio ao RENTEV por correio (art. 16.º, n.º 2); a consulta do RENTEV é dever do médico (art. 17.º).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1765&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- [ ] Requisitos formais verificados (forma escrita, capacidade do outorgante, assinatura, notário ou reconhecimento)",
+        "para": "- [ ] Requisitos formais verificados (forma escrita, capacidade do outorgante, assinatura presencial perante notário ou funcionário do RENTEV — art. 3.º, n.º 1, da Lei n.º 25/2012)",
+        "motivo": "A lei não admite o reconhecimento de assinatura como forma alternativa do documento.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1765&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- [ ] Prazo de validade verificado (5 anos — art. 4.º da Lei n.º 25/2012)",
+        "para": "- [ ] Prazo de eficácia verificado (5 anos, renovável — art. 7.º da Lei n.º 25/2012)",
+        "motivo": "O prazo de eficácia está no art. 7.º.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1765&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Confirmar o número e a redação em vigor da portaria que regula o RENTEV (a ficha mantém o [■ VERIFICAR]).",
+      "Em outorgante maior acompanhado, apreciar a capacidade em concreto (al. c) do art. 4.º), já que a al. b) foi revogada.",
+      "A invocação da Carta dos Direitos Fundamentais da UE pressupõe aplicação do direito da União (art. 51.º da Carta); ponderar antes a Convenção de Oviedo e a Lei n.º 15/2014."
+    ],
+    "fontes": [
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1765&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://diariodarepublica.pt/redirect/LinkFicheiroAntigo.aspx?conteudoId=179517"
+    ]
+  },
+  {
+    "codigo": "SAU-020",
+    "veredicto": "corrigida",
+    "resumo": "A ficha atribuía ao art. 9.º do RRCEE a responsabilidade pelo risco, mas o art. 9.º é a ilicitude; o risco é o art. 11.º e só abrange atividades, coisas ou serviços administrativos especialmente perigosos. Separaram-se os regimes do setor privado (responsabilidade contratual, com presunção de culpa — arts. 798.º e 799.º CC) e do hospital público (Lei n.º 67/2007: ilicitude, funcionamento anormal do serviço e culpa), e corrigiu-se a ideia de que só o desvio ao protocolo de prevenção gera responsabilidade.",
+    "substituicoes": [
+      {
+        "de": "- As IACS podem ser inevitáveis — a responsabilidade só existe se houver desvio ao protocolo",
+        "para": "- As IACS podem ser inevitáveis — a responsabilidade exige, em regra, um desvio aos protocolos ou às leges artis (na prevenção, no diagnóstico ou no tratamento da infeção)",
+        "motivo": "A ilicitude abrange a violação de regras de ordem técnica e de deveres objetivos de cuidado em qualquer fase, não só o protocolo de prevenção (art. 9.º, n.º 1, RRCEE).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2073&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Art. 483.º CC — responsabilidade por facto ilícito (falha nos protocolos como facto ilícito)\n- Art. 800.º CC — responsabilidade pelos auxiliares (falha de um profissional individualmente)\n- Art. 9.º RRCEE (Lei n.º 67/2007) — responsabilidade pelo risco (se for hospital público)",
+        "para": "- Hospital ou clínica privados: arts. 798.º e 799.º CC — responsabilidade contratual, com presunção de culpa do devedor (art. 799.º, n.º 1, CC)\n- Art. 483.º CC — responsabilidade por facto ilícito (falha nos protocolos como facto ilícito)\n- Art. 800.º CC — responsabilidade pelos auxiliares (falha de um profissional individualmente)\n- Hospital público (SNS): Lei n.º 67/2007 (RRCEE) — ilicitude, incluindo a violação de regras de ordem técnica e de deveres objetivos de cuidado e o funcionamento anormal do serviço (arts. 7.º, n.os 3 e 4, e 9.º RRCEE), e culpa (art. 10.º RRCEE); a responsabilidade pelo risco (art. 11.º RRCEE) só abrange atividades, coisas ou serviços administrativos especialmente perigosos [■ VERIFICAR: aplicação às IACS na jurisprudência administrativa]",
+        "motivo": "O art. 9.º RRCEE é a ilicitude; o risco é o art. 11.º, com requisito próprio. No privado o regime é contratual, com presunção de culpa.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2073&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Limitações: algumas IACS ocorrem mesmo com todos os protocolos cumpridos (responsabilidade pelo risco vs. responsabilidade por culpa)",
+        "para": "- Limitações: algumas IACS ocorrem mesmo com todos os protocolos cumpridos; a responsabilidade assenta, em regra, na culpa (presumida no contrato com estabelecimento privado — art. 799.º, n.º 1, CC); a responsabilidade pelo risco só se discute no hospital público e só para atividades, coisas ou serviços especialmente perigosos (art. 11.º RRCEE)",
+        "motivo": "Não há responsabilidade pelo risco aplicável ao estabelecimento privado; no setor público depende do requisito do art. 11.º RRCEE.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0799&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Confirmar na jurisprudência do STA e do STJ como tem sido tratada a prova da culpa e do nexo causal nas IACS.",
+      "Na responsabilidade contratual, o doente continua a ter de provar o cumprimento defeituoso; a presunção do art. 799.º, n.º 1, CC é só de culpa.",
+      "Confirmar as normas e orientações da DGS e do PPCIRA em vigor à data dos factos."
+    ],
+    "fontes": [
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2073&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0799&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+    ]
+  },
+  {
+    "codigo": "SAU-027",
+    "veredicto": "corrigida",
+    "resumo": "O tribunal competente estava fundado no art. 16.º do ETAF (que trata das sessões de julgamento do STA) e na sede do réu: nas ações de responsabilidade civil extracontratual é competente o tribunal do lugar do facto (art. 18.º, n.º 1, CPTA). A alínea do ETAF para a ação contra a entidade pública é a f) do n.º 1 do art. 4.º (a g) é a dos funcionários), as ARS foram extintas pelo DL n.º 54/2024, o acesso ao processo clínico está no art. 5.º, n.º 3, da Lei n.º 15/2014 (não no art. 4.º) e o «INMLCFlab» não existe (é o INMLCF, I. P.). Precisou-se ainda que a presunção de culpa leve do art. 10.º, n.º 2, vale para atos jurídicos ilícitos.",
+    "substituicoes": [
+      {
+        "de": "— Identifica o tribunal competente: Tribunal Administrativo de Círculo (TAC) da área da sede do réu (art. 16.º ETAF).",
+        "para": "— Identifica o tribunal competente: Tribunal Administrativo de Círculo (TAC) do lugar em que se deu o facto constitutivo da responsabilidade (art. 18.º, n.º 1, CPTA).",
+        "motivo": "Na responsabilidade civil extracontratual é competente o tribunal do lugar do facto; o art. 16.º do ETAF trata das sessões de julgamento do STA.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=439A0018&nid=439&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Entidade demandada (ULS, ARS, hospital EPE ou SPA, Estado — Ministério da Saúde)",
+        "para": "- Entidade demandada (ULS, hospital EPE ou SPA, Estado — Ministério da Saúde); as ARS foram extintas por fusão pelo Decreto-Lei n.º 54/2024 [■ VERIFICAR: entidade que sucedeu à ARS, se os factos lhe forem imputáveis]",
+        "motivo": "As ARS foram extintas por fusão (art. 1.º, n.º 1, al. a), do DL n.º 54/2024).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3858&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Natureza do ato: ato de gestão pública (art. 1.º Lei 67/2007) ou gestão privada",
+        "para": "- Natureza do ato: exercício da função administrativa — ações e omissões no exercício de prerrogativas de poder público ou reguladas por disposições ou princípios de direito administrativo (art. 1.º, n.º 2, Lei 67/2007) — ou gestão privada (art. 501.º CC, fora desta ação)",
+        "motivo": "A Lei n.º 67/2007 define a função administrativa pelo critério do art. 1.º, n.º 2; a gestão privada das pessoas coletivas públicas rege-se pelo art. 501.º CC.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0501&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Culpa: presunção de culpa leve do serviço (art. 10.º, n.º 2 Lei 67/2007) — inversão do ónus?",
+        "para": "- Culpa: apreciada pela diligência de um funcionário zeloso e cumpridor (art. 10.º, n.º 1, Lei 67/2007); a presunção de culpa leve do art. 10.º, n.º 2, vale para a prática de atos jurídicos ilícitos e a sua extensão ao ato médico (operação material) é discutível [■ VERIFICAR: jurisprudência do STA]; presume-se também a culpa leve quando haja incumprimento de deveres de vigilância (art. 10.º, n.º 3); sem autoria individual apurada, funcionamento anormal do serviço (art. 7.º, n.os 3 e 4)",
+        "motivo": "O art. 10.º, n.º 2, presume a culpa leve na prática de atos jurídicos ilícitos, não em qualquer ato do serviço.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2073&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Competência: TAC (ETAF, art. 4.º, n.º 1, al. g))",
+        "para": "- Competência: jurisdição administrativa (art. 4.º, n.º 1, al. f), ETAF, contra a entidade pública; al. g), se for também demandado o médico); TAC do lugar do facto (art. 18.º, n.º 1, CPTA)",
+        "motivo": "A al. f) é a da responsabilidade das pessoas coletivas de direito público; a al. g) é a dos titulares de órgãos, funcionários e agentes.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=418&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- [ ] Processo clínico obtido (art. 4.º Lei 15/2014)",
+        "para": "- [ ] Processo clínico obtido (direito de acesso — art. 5.º, n.º 3, Lei 15/2014)",
+        "motivo": "O art. 4.º da Lei n.º 15/2014 trata da adequação dos cuidados; o direito de acesso aos dados está no art. 5.º, n.º 3.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2292&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- [ ] Declaração de incapacidade (Junta de Saúde / INMLCFlab)",
+        "para": "- [ ] Avaliação do dano corporal e da incapacidade (perícia médico-legal do INMLCF, I. P.) [■ VERIFICAR: outras avaliações já existentes, p. ex. atestado de incapacidade]",
+        "motivo": "O «INMLCFlab» não existe: as perícias médico-legais cabem ao Instituto Nacional de Medicina Legal e Ciências Forenses, I. P.",
+        "fonte": "https://congresso.inmlcf.pt/"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Confirmar o juízo competente dentro do TAC do lugar do facto (juízo administrativo comum ou especializado, se existir).",
+      "Se os factos forem anteriores à extinção das ARS, confirmar no DL n.º 54/2024 a entidade sucessora.",
+      "Juros: nos danos não patrimoniais fixados por valor atualizado, os juros contam-se da decisão e não da citação [■ VERIFICAR: AUJ do STJ n.º 4/2002]."
+    ],
+    "fontes": [
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=439A0018&nid=439&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=439A0016&nid=439&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=439A0020&nid=439&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=418&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2073&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2292&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3858&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0501&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://congresso.inmlcf.pt/",
+      "https://vlex.pt/vid/decreto-lei-n-53-869092327"
+    ]
+  }
+]

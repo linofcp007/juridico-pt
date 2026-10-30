@@ -6,7 +6,8 @@ titulo_en: "Commercial Lease Agreement with Rent Review Clauses"
 descricao: "Redige contrato de arrendamento urbano para fim não habitacional (arrendamento comercial) ao abrigo do NRAU (Lei n.º 6/2006, de 27 de fevereiro) e do Código Civil, com prazo, regime de atualização de renda, obras a cargo do arrendatário, e cláusulas de cessão e sublocação."
 descricao_en: "Drafts an urban lease agreement for non-residential purposes (commercial lease) under the NRAU (Law No. 6/2006 of 27 February) and the Civil Code, with the term, the rent update regime, works to be borne by the tenant, and clauses on assignment and subletting."
 ambito: nacional
-estado_citacoes: "conferidas 7 · corrigidas 1 · por conferir 0"
+estado_citacoes: "conferidas 21 · corrigidas 0 · por conferir 1"
+revisao_tecnica: "2026-10-30 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
@@ -14,7 +15,8 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 
 > **Âmbito:** nacional · **Área:** Direito Imobiliário e do Arrendamento · **Código:** IMO-039
 > **EN:** Commercial Lease Agreement with Rent Review Clauses. Drafts an urban lease agreement for non-residential purposes (commercial lease) under the NRAU (Law No. 6/2006 of 27 February) and the Civil Code, with the term, the rent update regime, works to be borne by the tenant, and clauses on assignment and subletting.
-> **Citações:** conferidas 7 · corrigidas 1 · por conferir 0. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 21 · corrigidas 0 · por conferir 1. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-30 — corrigida (7 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
 Redige contrato de arrendamento urbano para fim não habitacional (arrendamento comercial) ao abrigo do NRAU (Lei n.º 6/2006, de 27 de fevereiro) e do Código Civil, com prazo, regime de atualização de renda, obras a cargo do arrendatário, e cláusulas de cessão e sublocação.
 
@@ -32,7 +34,7 @@ Ficha de trabalho para preparar este documento. As regras da casa prevalecem sob
 ### ETAPA 1 — PROBLEMATIZAÇÃO
 <analise_da_situacao>
 - Tipo de espaço e uso pretendido
-- Prazo pretendido (mínimo legal para não habitacional: sem mínimo legal, mas ponderar prazo para amortizar obras)
+- Prazo pretendido (no não habitacional, a duração é livremente estipulada, mas o senhorio não pode opor-se à renovação nos cinco primeiros anos — art. 1110.º, n.º 4, CC; na falta de estipulação, prazo certo de cinco anos — art. 1110.º, n.º 2, CC; ponderar o prazo para amortizar obras)
 - Regime de atualização de renda: indexação ao IPC (coeficiente publicado anualmente) ou renda variável
 - Obras de adaptação: quem suporta, prazo de execução, destino no fim do contrato
 - Intenção de cessão ou sublocação
@@ -42,12 +44,12 @@ Ficha de trabalho para preparar este documento. As regras da casa prevalecem sob
 ### ETAPA 2 — ANÁLISE JURÍDICA
 <fundamentos_juridicos>
 - Regime do arrendamento não habitacional: arts. 1108.º e ss. CC e NRAU
-- Liberdade de prazo (art. 1095.º CC aplicável por remissão)
-- Atualização de renda: art. 1077.º CC e Portaria anual do coeficiente de atualização
-- Obras do arrendatário: arts. 1074.º e 1081.º CC
-- Cessão da posição contratual: art. 1112.º CC (comunicação ao senhorio, direito de oposição)
+- Liberdade de estipulação da duração, denúncia e oposição à renovação (art. 1110.º, n.º 1, CC), com os limites dos n.ºs 2 a 4 do mesmo artigo; o art. 1095.º CC só se aplica, por remissão, na falta de estipulação
+- Atualização de renda: art. 1077.º CC (regime estipulado por escrito; na falta de estipulação, atualização anual pelo coeficiente) e coeficiente de atualização apurado pelo INE e publicado por aviso no Diário da República até 30 de outubro de cada ano (art. 24.º NRAU)
+- Obras: art. 1111.º CC (regime livremente estipulado; na falta de convenção, as obras de conservação cabem ao senhorio e o arrendatário fica autorizado a realizar as exigidas por lei ou pelo fim do contrato) e art. 1074.º CC (autorização escrita do senhorio para as demais obras; compensação no fim do contrato)
+- Transmissão da posição do arrendatário: dispensa autorização do senhorio no trespasse do estabelecimento e na transmissão a quem continue a exercer no prédio a mesma profissão liberal (art. 1112.º, n.º 1, CC); é celebrada por escrito e comunicada ao senhorio (art. 1112.º, n.º 3, CC), no prazo de 15 dias (art. 1038.º, al. g), CC); o senhorio não tem direito de oposição, mas tem direito de preferência no trespasse por venda ou dação em cumprimento, salvo convenção em contrário (art. 1112.º, n.º 4, CC); fora destes casos, a cessão depende de autorização do senhorio (art. 1038.º, al. f), CC); a cessão de exploração do estabelecimento não carece de autorização, mas deve ser comunicada no prazo de um mês (art. 1109.º, n.º 2, CC)
 - Sublocação: art. 1088.º CC
-- Denúncia e oposição à renovação: arts. 1097.º a 1100.º CC e NRAU
+- Denúncia e oposição à renovação: art. 1110.º CC e, na falta de estipulação, arts. 1097.º a 1100.º CC; o senhorio só pode denunciar nos casos das als. b) e c) do art. 1101.º CC, com dever de indemnizar (art. 1110.º-A CC)
 - Registo do arrendamento: vantagens e obrigatoriedade quando superior a 6 anos
 </fundamentos_juridicos>
 
@@ -86,7 +88,7 @@ Redige o contrato completo:
 - [ ] Fórmula de atualização de renda em conformidade com o NRAU
 - [ ] Obras do arrendatário com autorização por escrito (art. 1074.º CC)
 - [ ] Regime de cessão e sublocação expressamente definido
-- [ ] Caução adequada (prática: 2-3 meses de renda)
+- [ ] Caução não superior ao valor de duas rendas (art. 1076.º, n.º 2, CC)
 - [ ] [■ VERIFICAR] itens sinalizados
 </checklist_validacao>
 
@@ -124,11 +126,25 @@ Redige o contrato completo:
 
 | Citação | Estado | Nota |
 |---|---|---|
+| art. 1110.º, n.º 4, CC | conferida (epígrafe) — Duração, denúncia ou oposição à renovação |  |
+| art. 1110.º, n.º 2, CC | conferida (epígrafe) — Duração, denúncia ou oposição à renovação |  |
 | arts. 1108.º e ss. CC | conferida (índice) |  |
+| art. 1110.º, n.º 1, CC | conferida (epígrafe) — Duração, denúncia ou oposição à renovação |  |
 | art. 1095.º CC | conferida (índice) |  |
 | art. 1077.º CC | conferida (índice) |  |
-| arts. 1074.º e 1081.º CC | conferida (índice) |  |
-| art. 1112.º CC | corrigida — Transmissão da posição do arrendatário | o número citado no catálogo não correspondia à epígrafe |
-| art. 1088.º CC | conferida (índice) |  |
-| arts. 1097.º a 1100.º CC | conferida (índice) |  |
+| art. 24.º NRAU | por conferir [■ VERIFICAR] | diploma sem epígrafes locais |
+| art. 1111.º CC | conferida (índice) |  |
 | art. 1074.º CC | conferida (índice) |  |
+| art. 1074.º CC | conferida (índice) |  |
+| art. 1112.º, n.º 1, CC | conferida (epígrafe) — Transmissão da posição do arrendatário |  |
+| art. 1112.º, n.º 3, CC | conferida (epígrafe) — Transmissão da posição do arrendatário |  |
+| art. 1038.º, al. g), CC | conferida (epígrafe) — Enumeração |  |
+| art. 1112.º, n.º 4, CC | conferida (epígrafe) — Transmissão da posição do arrendatário |  |
+| art. 1038.º, al. f), CC | conferida (epígrafe) — Enumeração |  |
+| art. 1109.º, n.º 2, CC | conferida (epígrafe) — Locação de estabelecimento |  |
+| art. 1088.º CC | conferida (índice) |  |
+| art. 1110.º CC | conferida (epígrafe) — Duração, denúncia ou oposição à renovação |  |
+| arts. 1097.º a 1100.º CC | conferida (índice) |  |
+| art. 1101.º CC | conferida (epígrafe) — Denúncia pelo senhorio |  |
+| art. 1110.º-A CC | conferida (epígrafe) — Disposições especiais relativas à denúncia e oposição da renovação pelo senhorio |  |
+| art. 1076.º, n.º 2, CC | conferida (índice) |  |

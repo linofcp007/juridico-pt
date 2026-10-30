@@ -6,7 +6,7 @@ titulo_en: "Letter of Intent (LOI) and Memorandum of Understanding (MOU)"
 descricao: "Elabora a carta de intenções (Letter of Intent) ou o memorando de entendimento (Memorandum of Understanding) para formalizar os termos essenciais de uma operação (M&A, JV, parceria) antes da negociação do contrato definitivo, distinguindo as cláusulas vinculantes das não vinculantes."
 descricao_en: "Drafts a letter of intent (carta de intenções) or memorandum of understanding (memorando de entendimento) setting out the essential terms of a transaction (M&A, JV, partnership) before the definitive agreement is negotiated, distinguishing binding from non-binding clauses."
 ambito: nacional
-estado_citacoes: "sem citações"
+estado_citacoes: "conferidas 0 · corrigidas 0 · por conferir 5"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
@@ -14,7 +14,7 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 
 > **Âmbito:** nacional · **Área:** Direito Comercial e das Sociedades · **Código:** COM-022
 > **EN:** Letter of Intent (LOI) and Memorandum of Understanding (MOU). Drafts a letter of intent (carta de intenções) or memorandum of understanding (memorando de entendimento) setting out the essential terms of a transaction (M&A, JV, partnership) before the definitive agreement is negotiated, distinguishing binding from non-binding clauses.
-> **Citações:** sem citações. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 0 · corrigidas 0 · por conferir 5. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
 
 Elabora a carta de intenções (Letter of Intent) ou o memorando de entendimento (Memorandum of Understanding) para formalizar os termos essenciais de uma operação (M&A, JV, parceria) antes da negociação do contrato definitivo, distinguindo as cláusulas vinculantes das não vinculantes.
 
@@ -166,3 +166,13 @@ Apresente em <checklist_validacao>:
 
 **OBSERVAÇÕES:**
 [NDA separado já assinado, condições regulatórias especiais]
+
+## Citações desta ficha
+
+| Citação | Estado | Nota |
+|---|---|---|
+| art. 227 CC | por conferir [■ VERIFICAR] | o assunto descrito não coincide com a epígrafe; confirmar |
+| art. 227 CC | por conferir [■ VERIFICAR] | o assunto descrito não coincide com a epígrafe; confirmar |
+| Art. 227 CC | por conferir [■ VERIFICAR] | o assunto descrito não coincide com a epígrafe; confirmar |
+| Art. 228 CC | por conferir [■ VERIFICAR] | o assunto descrito não coincide com a epígrafe; confirmar |
+| Art. 410 CC | por conferir [■ VERIFICAR] | o assunto descrito não coincide com a epígrafe; confirmar |

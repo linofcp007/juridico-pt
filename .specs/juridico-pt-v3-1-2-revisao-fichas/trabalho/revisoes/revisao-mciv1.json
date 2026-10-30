@@ -1,0 +1,598 @@
+[
+  {
+    "codigo": "CIV-004",
+    "veredicto": "corrigida",
+    "resumo": "A ficha atribuía o limite da usura a uma «portaria que fixa a taxa máxima» e ao art. 559.º CC, quando o máximo resulta do art. 1146.º CC (juros legais + 3 % ou + 5 %; cláusula penal moratória + 7 % ou + 9 %, com redução ao máximo), aplicado a toda a estipulação de juros pelo art. 559.º-A CC; a portaria (Portaria n.º 291/2003) só fixa a taxa dos juros legais. Omitia o escalão de €2.500 do art. 1143.º CC e dava o reconhecimento de assinaturas como forma bastante. Corrigi também a alínea do CIRS (art. 5.º, n.º 2, al. a)), a retenção na fonte (só se o devedor tiver contabilidade organizada) e acrescentei o Imposto do Selo da verba 17.1 TGIS.",
+    "substituicoes": [
+      {
+        "de": "— Alerta para os limites legais de taxa de juro (art. 559.º-A CC e Portaria que fixa a taxa máxima) — marca [■ VERIFICAR: confirmar taxa máxima em vigor] se não tiveres acesso à portaria mais recente.",
+        "para": "— Alerta para os limites legais de taxa de juro: é usurário o mútuo com juros anuais acima dos juros legais acrescidos de 3 % ou de 5 %, conforme exista ou não garantia real, e a cláusula penal moratória acima dos juros legais acrescidos de 7 % ou de 9 %; o excesso considera-se reduzido a esses máximos (art. 1146.º CC), regime aplicável a toda a estipulação de juros (art. 559.º-A CC). A portaria do art. 559.º, n.º 1, CC (Portaria n.º 291/2003) fixa apenas a taxa dos juros legais que serve de base a esse cálculo — não há uma portaria de «taxa máxima» (taxa em vigor em `references/valores-2026.md`); juros acima da taxa legal só são devidos se estipulados por escrito (art. 559.º, n.º 2, CC).",
+        "motivo": "O limite da usura está no art. 1146.º CC (aplicável por via do art. 559.º-A CC); a portaria só fixa os juros legais.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1146&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "mútuo de valor superior a €25.000 exige escritura pública ou documento particular autenticado.",
+        "para": "mútuo de valor superior a €25.000 exige escritura pública ou documento particular autenticado; o de valor superior a €2.500 exige documento assinado pelo mutuário (sem prejuízo do disposto em lei especial).",
+        "motivo": "O art. 1143.º CC tem também o escalão de €2.500 (documento assinado pelo mutuário).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1143&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Valor do mútuo — limiar de €25.000 para forma especial (art. 1143.º CC)",
+        "para": "- Valor do mútuo — limiar de €25.000 para forma especial (art. 1143.º CC): acima dele, escritura pública ou documento particular autenticado; acima de €2.500, documento assinado pelo mutuário",
+        "motivo": "Faltava o escalão de €2.500 do art. 1143.º CC.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1143&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Se oneroso: taxa de juro remuneratório dentro dos limites legais (art. 559.º-A CC)",
+        "para": "- Se oneroso: taxa de juro remuneratório dentro dos limites da usura (arts. 559.º-A e 1146.º CC) e estipulada por escrito se superior à taxa legal (art. 559.º, n.º 2, CC)",
+        "motivo": "Os limites constam do art. 1146.º CC; a taxa acima da legal tem de ser escrita (art. 559.º, n.º 2, CC).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0559&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Formalidade: escritura pública ou documento particular com reconhecimento",
+        "para": "- Formalidade: acima de €25.000, escritura pública ou documento particular autenticado (o simples reconhecimento de assinaturas não basta); acima de €2.500, documento assinado pelo mutuário (art. 1143.º CC)",
+        "motivo": "O reconhecimento de assinaturas não equivale ao documento particular autenticado exigido acima de €25.000.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1143&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Implicações fiscais dos juros (IRS — cat. E; retenção na fonte)",
+        "para": "- Implicações fiscais: juros (IRS — cat. E; retenção na fonte só se o mutuário dispuser ou dever dispor de contabilidade organizada) e Imposto do Selo sobre a utilização do crédito (verba 17.1 TGIS)",
+        "motivo": "A retenção liberatória só se aplica a juros pagos por entidades com contabilidade organizada (art. 71.º, n.º 1, al. a), CIRS); o mútuo está sujeito a Imposto do Selo (verba 17.1 TGIS).",
+        "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cirs_rep/Pages/irs71.aspx"
+      },
+      {
+        "de": "(forma: DP autenticado ou escritura pública acima de €25.000)",
+        "para": "(forma: escritura pública ou documento particular autenticado acima de €25.000; documento assinado pelo mutuário acima de €2.500)",
+        "motivo": "Faltava o escalão de €2.500 do art. 1143.º CC.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1143&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Art. 559.º CC (juros convencionais — limite máximo)",
+        "para": "- Art. 559.º CC (taxa dos juros legais, fixada por portaria; a estipulação de juros acima dessa taxa tem de ser feita por escrito)",
+        "motivo": "O art. 559.º CC não fixa um limite máximo: remete os juros legais para portaria e exige forma escrita para taxa superior.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0559&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Art. 559.º-A CC (usura — nulidade de cláusulas usurária)",
+        "para": "- Arts. 559.º-A e 1146.º CC (juros usurários: a taxa ou a cláusula penal que excedam os máximos consideram-se reduzidas a esses máximos, ainda que outra seja a vontade das partes, sem prejuízo dos arts. 282.º a 284.º CC)",
+        "motivo": "A consequência da usura nos juros é a redução ao máximo legal (art. 1146.º, n.º 3, CC), não a nulidade da cláusula.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1146&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Portaria n.º [■ VERIFICAR: portaria mais recente] que fixa a taxa máxima de juro legal",
+        "para": "- Portaria n.º 291/2003 (fixa a taxa dos juros legais civis — não uma taxa máxima; valor em vigor em `references/valores-2026.md`)",
+        "motivo": "A portaria do art. 559.º, n.º 1, CC fixa os juros legais (Portaria n.º 291/2003), não uma taxa máxima.",
+        "fonte": "https://e-justice.europa.eu/topics/taking-legal-action/where-and-how/interest-rates/pt_pt"
+      },
+      {
+        "de": "- CIRS — art. 5.º, n.º 2, al. b) (tributação de juros como rendimentos de capitais — cat. E)",
+        "para": "- CIRS — art. 5.º, n.º 2, al. a) (juros de contratos de mútuo como rendimentos de capitais — cat. E); se o devedor dos juros não dispuser nem dever dispor de contabilidade organizada, não há retenção na fonte (art. 71.º, n.º 1, al. a), CIRS) e os juros são tributados à taxa de 28 % (art. 72.º, n.º 1, al. d), CIRS) [■ VERIFICAR: opção pelo englobamento]\n- Código do Imposto do Selo — verba 17.1 TGIS (utilização de crédito concedido a qualquer título: 0,04 % por mês se o prazo for inferior a um ano; 0,5 % se igual ou superior a um ano; 0,6 % se igual ou superior a cinco anos), sendo sujeito passivo o concedente (art. 2.º, n.º 1, al. b), CIS) e encargo do utilizador do crédito (art. 3.º, n.º 3, al. f), CIS) [■ VERIFICAR: liquidação e entrega no mútuo entre particulares]",
+        "motivo": "Os juros de mútuo estão na al. a), não na al. b), do art. 5.º, n.º 2, CIRS; faltavam o regime de retenção/taxa especial e o Imposto do Selo da verba 17.1 TGIS.",
+        "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cirs_rep/Pages/irs5.aspx"
+      },
+      {
+        "de": "Juros de mora a partir do vencimento; taxa (legal ou convencional) nos limites do art. 559.º CC.",
+        "para": "Juros de mora a partir do vencimento (art. 806.º CC); taxa legal ou convencional — a cláusula penal moratória não pode exceder os juros legais acrescidos de 7 % ou de 9 %, conforme exista ou não garantia real (art. 1146.º, n.º 2, CC).",
+        "motivo": "O limite dos juros moratórios convencionados está no art. 1146.º, n.º 2, CC, não no art. 559.º CC.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1146&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "Reconhecimento das assinaturas / ",
+        "para": "Documento assinado pelo mutuário se acima de €2.500; escritura pública ou documento particular com ",
+        "motivo": "O reconhecimento de assinaturas não basta acima de €25.000 e o art. 1143.º CC exige documento assinado pelo mutuário acima de €2.500.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1143&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "≤ €25.000 (DP simples)",
+        "para": "≤ €2.500 (sem forma especial), > €2.500 e ≤ €25.000 (documento assinado pelo mutuário)",
+        "motivo": "Faltava o escalão de €2.500 do art. 1143.º CC.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1143&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- [ ] Taxa de juro dentro dos limites legais (art. 559.º-A CC) — [■ VERIFICAR: portaria em vigor]",
+        "para": "- [ ] Taxa de juro dentro dos limites da usura (arts. 559.º-A e 1146.º CC: juros legais + 3 % / + 5 %; cláusula penal moratória: juros legais + 7 % / + 9 %) e estipulada por escrito",
+        "motivo": "Os limites resultam do art. 1146.º CC sobre a taxa dos juros legais, não de uma portaria de taxa máxima.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1146&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- [ ] Tributação dos juros sinalizada [■ VERIFICAR: regime fiscal aplicável]",
+        "para": "- [ ] Tributação dos juros (IRS, cat. E) e Imposto do Selo do mútuo (verba 17.1 TGIS) sinalizados",
+        "motivo": "Acrescenta o Imposto do Selo sobre a utilização de crédito, que a ficha omitia.",
+        "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/selo/Pages/ccod-selo-tabgiselo.aspx"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Confirmar a taxa dos juros legais civis em vigor (Portaria n.º 291/2003) em `references/valores-2026.md` antes de calcular os máximos do art. 1146.º CC.",
+      "Mútuo entre particulares: confirmar quem liquida e entrega o Imposto do Selo da verba 17.1 TGIS e em que prazo, e se o mutuante opta pelo englobamento dos juros no IRS.",
+      "Se o mutuário for consumidor e o mutuante agir profissionalmente, verificar se o crédito cai no DL 133/2009 (crédito ao consumo) ou no DL 74-A/2017 (crédito hipotecário).",
+      "Para lá dos máximos do art. 1146.º CC, o negócio pode ainda ser anulável como usurário nos termos dos arts. 282.º a 284.º CC."
+    ],
+    "fontes": [
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1143&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1145&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1146&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1147&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1148&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1150&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0559&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0559A&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0806&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://e-justice.europa.eu/topics/taking-legal-action/where-and-how/interest-rates/pt_pt",
+      "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cirs_rep/Pages/irs5.aspx",
+      "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cirs_rep/Pages/irs71.aspx",
+      "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cirs_rep/Pages/irs72.aspx",
+      "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/selo/Pages/ccod-selo-tabgiselo.aspx",
+      "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/selo/Pages/selo2.aspx",
+      "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/selo/Pages/selo3.aspx",
+      "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/informacoes_vinculativas/patrimonio/selo/Documents/IS_IV_20326.pdf"
+    ]
+  },
+  {
+    "codigo": "CIV-005",
+    "veredicto": "corrigida",
+    "resumo": "A ficha exigia escritura pública para a doação de imóveis e forma escrita para móveis acima de €750; o art. 947.º CC admite escritura pública ou documento particular autenticado para imóveis e, nos móveis, o critério é a tradição (sem tradição, escrito, qualquer que seja o valor). Corrigi o Imposto do Selo (a taxa de 10 % é a verba 1.2 e a isenção do art. 6.º, al. e), CIS só a abrange; nos imóveis acresce 0,8 % da verba 1.1, também para a família) e retirei a remissão para o art. 2.º, n.º 5, al. c), CIMT, que respeita às partilhas. Corrigi ainda a descrição do art. 954.º CC (efeitos essenciais, não promessa), a colação (só descendentes presuntivos herdeiros legitimários), a cláusula de reversão (art. 960.º CC) e a resolução por incumprimento de encargos, que depende de estipulação (art. 966.º CC).",
+    "substituicoes": [
+      {
+        "de": "art. 947.º CC — doação de imóvel exige escritura pública; doação de móvel com valor superior a €750 deve ser por escrito com aceitação expressa.",
+        "para": "art. 947.º CC — a doação de imóvel só é válida por escritura pública ou documento particular autenticado (n.º 1); a doação de móvel não depende de forma se for acompanhada da tradição da coisa e, sem tradição, só pode ser feita por escrito, seja qual for o valor (n.º 2). Se a aceitação não for feita no próprio ato nem houver tradição, deve observar a mesma forma e ser declarada ao doador (art. 945.º, n.º 3, CC).",
+        "motivo": "O art. 947.º CC admite documento particular autenticado para imóveis e não tem limiar de €750 para móveis: o critério é a tradição.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0947&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "— Sinaliza implicações de Imposto do Selo (IS) e regras de isenção para cônjuge, descendentes e ascendentes (art. 6.º, al. e) CIS).",
+        "para": "— Sinaliza implicações de Imposto do Selo (IS): 10 % sobre o valor (verba 1.2 TGIS), com isenção para cônjuge ou unido de facto, descendentes e ascendentes (art. 6.º, al. e), CIS), que só abrange a verba 1.2; na doação de imóveis acresce 0,8 % (verba 1.1 TGIS), devido também pelo cônjuge, descendentes e ascendentes.",
+        "motivo": "A isenção do art. 6.º, al. e), CIS só abrange a verba 1.2; a verba 1.1 (0,8 %) incide sobre a aquisição de imóveis por doação.",
+        "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/selo/Pages/selo6.aspx"
+      },
+      {
+        "de": "- Imposto do Selo: isenção (cônjuge/descendentes/ascendentes) ou taxa de 10% sobre o valor",
+        "para": "- Imposto do Selo: isenção da verba 1.2 (cônjuge ou unido de facto/descendentes/ascendentes) ou taxa de 10% sobre o valor; nos imóveis, mais 0,8% (verba 1.1 TGIS), sem isenção para a família",
+        "motivo": "A verba 1.1 TGIS (0,8 %) incide sobre a doação de imóveis e não é abrangida pela isenção do art. 6.º, al. e), CIS.",
+        "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/selo/Pages/ccod-selo-tabgiselo.aspx"
+      },
+      {
+        "de": "- Colação: se donatário for herdeiro legitimário —",
+        "para": "- Colação: se o donatário for descendente e, à data da doação, presuntivo herdeiro legitimário do doador (art. 2105.º CC) —",
+        "motivo": "Só os descendentes que eram presuntivos herdeiros legitimários à data da doação estão sujeitos à colação (arts. 2104.º e 2105.º CC).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2105&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "(forma: escritura pública para imóveis; escrito para móveis > €750)",
+        "para": "(forma: escritura pública ou documento particular autenticado para imóveis; móveis sem forma se houver tradição, por escrito se não houver)",
+        "motivo": "Redação do art. 947.º CC dada pelo DL 116/2008; não há limiar de valor para móveis.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0947&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Art. 954.º CC (promessa de doação — não vinculativa)",
+        "para": "- Art. 954.º CC (efeitos essenciais da doação: transmissão da propriedade da coisa ou da titularidade do direito, obrigação de entregar a coisa e assunção da obrigação, quando for esse o objeto)",
+        "motivo": "O art. 954.º CC trata dos efeitos essenciais da doação, não da promessa de doação.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0954&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "(revogação da doação por ingratidão ou incumprimento de encargo)",
+        "para": "(resolução por incumprimento de encargos, apenas quando o contrato confira esse direito ao doador ou aos herdeiros, e revogação por ingratidão do donatário)",
+        "motivo": "A resolução por incumprimento de encargos só existe se for conferida pelo contrato (art. 966.º CC); a ingratidão dá lugar a revogação (art. 970.º CC).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0966&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Código do Imposto do Selo — Tabela Geral, verba 1.1 e art. 6.º, al. e) CIS (isenção para cônjuge, descendentes, ascendentes)",
+        "para": "- Código do Imposto do Selo — Tabela Geral, verba 1.2 (10 %) e art. 6.º, al. e), CIS (isenção da verba 1.2 para cônjuge ou unido de facto, descendentes e ascendentes); participação da doação pelo donatário até ao final do 3.º mês seguinte ao nascimento da obrigação tributária (art. 26.º, n.ºs 1 e 3, CIS)",
+        "motivo": "A taxa de 10 % e a isenção familiar respeitam à verba 1.2, não à verba 1.1; acrescenta a obrigação de participação.",
+        "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/selo/Pages/selo26.aspx"
+      },
+      {
+        "de": "- Código do IMT — art. 2.º, n.º 5, al. c) (doação de imóvel sujeita a IMT nas situações taxadas)",
+        "para": "- Tabela Geral do Imposto do Selo — verba 1.1 (0,8 % na aquisição de imóveis por doação, sem a isenção do art. 6.º, al. e), CIS); o art. 2.º, n.º 5, al. c), do CIMT respeita ao excesso de quota em partilhas, não à doação",
+        "motivo": "O art. 2.º, n.º 5, al. c), CIMT trata das partilhas; a doação de imóveis é tributada em Imposto do Selo (verba 1.1, 0,8 %).",
+        "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cimt/Pages/cimt2.aspx"
+      },
+      {
+        "de": "- Forma (escritura pública ou documento particular consoante o bem)",
+        "para": "- Forma (imóveis: escritura pública ou documento particular autenticado; móveis: sem forma se houver tradição, por escrito se não houver)",
+        "motivo": "Precisa a forma exigida pelo art. 947.º CC.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0947&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "Em caso de pré-morte do donatário sem descendência, o bem reverte para o doador",
+        "para": "O bem reverte para o doador se este sobreviver ao donatário ou, na falta de estipulação em contrário, ao donatário e a todos os seus descendentes; a cláusula de reversão de imóveis ou de móveis sujeitos a registo tem de ser registada",
+        "motivo": "O art. 960.º CC prevê as duas modalidades de reversão (supletivamente, a segunda) e exige o registo nos imóveis e móveis registáveis.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0960&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "Descrição do encargo; consequências do incumprimento (resolução da doação — art. 963.º CC).",
+        "para": "Descrição do encargo (o donatário só responde dentro dos limites do valor da coisa ou do direito doado — art. 963.º CC). Para haver resolução por incumprimento do encargo, o contrato tem de conferir expressamente esse direito ao doador ou aos herdeiros (art. 966.º CC).",
+        "motivo": "A resolução por incumprimento de encargos está no art. 966.º CC e depende de estipulação contratual; o art. 963.º CC limita os encargos ao valor doado.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0966&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "Valor declarado para efeitos de IS; isenção aplicável ou taxa de 10%; notificação às Finanças.",
+        "para": "Valor declarado para efeitos de IS; isenção aplicável (verba 1.2) ou taxa de 10%; nos imóveis, 0,8% da verba 1.1; participação da doação ao serviço de finanças (art. 26.º CIS).",
+        "motivo": "Distingue as verbas 1.1 e 1.2 TGIS e identifica a obrigação de participação.",
+        "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/selo/Pages/ccod-selo-tabgiselo.aspx"
+      },
+      {
+        "de": "(art. 2113.º CC — dispensa).",
+        "para": "(art. 2113.º CC — a dispensa pode constar do ato ou ser posterior, mas, se a doação tiver formalidade externa, só pela mesma forma ou por testamento).",
+        "motivo": "Precisa a forma da dispensa de colação (art. 2113.º, n.º 2, CC).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2113&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "Data, local e assinaturas (ou escritura pública se imóvel).",
+        "para": "Data, local e assinaturas (escritura pública ou documento particular autenticado se imóvel).",
+        "motivo": "A doação de imóveis também pode ser feita por documento particular autenticado (art. 947.º, n.º 1, CC).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0947&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- [ ] Tipo de bem: imóvel (escritura pública obrigatória — art. 947.º CC) ou móvel (forma escrita se > €750)",
+        "para": "- [ ] Tipo de bem: imóvel (escritura pública ou documento particular autenticado — art. 947.º, n.º 1, CC) ou móvel (sem forma se houver tradição; por escrito se não houver — n.º 2)",
+        "motivo": "Não há escritura obrigatória nem limiar de €750 no art. 947.º CC.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0947&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- [ ] Implicações fiscais (IS) avaliadas — isenção ou taxa de 10%",
+        "para": "- [ ] Implicações fiscais (IS) avaliadas — isenção da verba 1.2 ou taxa de 10%; 0,8% (verba 1.1) nos imóveis; participação no prazo",
+        "motivo": "Acrescenta a verba 1.1 TGIS e a participação (art. 26.º CIS).",
+        "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/selo/Pages/ccod-selo-tabgiselo.aspx"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Validade e efeitos de uma eventual promessa de doação: não há norma expressa no Código Civil; confirmar doutrina e jurisprudência antes de a redigir.",
+      "Doador casado: verificar o regime de bens e a necessidade de consentimento do cônjuge para doar imóvel (art. 1682.º-A CC) ou bem comum.",
+      "Donatário incapaz: doações puras produzem efeitos sem aceitação; doações com encargos exigem o representante legal (art. 951.º CC).",
+      "Confirmar se o donatário isento está dispensado de participação (art. 26.º, n.º 11, CIS) e o regime dos donativos familiares até €5.000 (art. 1.º, n.º 5, al. g), CIS)."
+    ],
+    "fontes": [
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0945&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0947&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0951&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0954&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0958&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0960&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0963&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0966&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0970&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2104&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2105&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2113&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/selo/Pages/selo6.aspx",
+      "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/selo/Pages/selo26.aspx",
+      "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/selo/Pages/ccod-selo-tabgiselo.aspx",
+      "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cimt/Pages/cimt2.aspx",
+      "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/selo/Pages/selo1.aspx"
+    ]
+  },
+  {
+    "codigo": "CIV-009",
+    "veredicto": "corrigida",
+    "resumo": "A ficha mandava tratar um «retracto» do devedor nos créditos litigiosos, figura que a lei portuguesa não prevê: o art. 579.º CC só declara nula a cessão de direitos litigiosos a juízes, magistrados do Ministério Público, funcionários de justiça, mandatários judiciais, peritos e auxiliares da justiça (sanções e exceções nos arts. 580.º e 581.º CC). Precisei o art. 583.º, n.º 2, CC (o pagamento ao cedente não é oponível se o cessionário provar que o devedor conhecia a cessão), acrescentei a forma da cessão de créditos hipotecários sobre imóveis (art. 578.º, n.º 2, CC) e retirei o art. 588.º CC da garantia do cedente. A descrição do índice tratava a notificação como condição de validade, quando é condição de eficácia perante o devedor.",
+    "descricao": "Gera um contrato de cessão de créditos entre cedente e cessionário, com identificação precisa do crédito cedido, preço ou gratuitidade, eficácia perante o devedor cedido (notificação ou aceitação), garantias e responsabilidade do cedente — ao abrigo dos arts. 577.º e seguintes do Código Civil português.",
+    "descricao_en": "Generates an assignment of claims agreement between assignor and assignee, with precise identification of the claim assigned, the price or gratuitous nature of the assignment, effectiveness against the assigned debtor (notice or acceptance), warranties and the assignor's liability — under Articles 577 et seq. of the Portuguese Civil Code.",
+    "substituicoes": [
+      {
+        "de": "devedor que pague ao cedente antes de ser notificado fica liberto.",
+        "para": "o devedor que, antes da notificação ou aceitação, pague ao cedente fica liberado, salvo se o cessionário provar que ele tinha conhecimento da cessão (art. 583.º, n.º 2, CC).",
+        "motivo": "O art. 583.º, n.º 2, CC torna o pagamento ao cedente inoponível ao cessionário se este provar que o devedor conhecia a cessão.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0583&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "alerta para o regime de retracto (art. 579.º CC) e para as restrições à cessão de créditos litigiosos para certas pessoas (advogados, juízes —",
+        "para": "a lei portuguesa não prevê um direito de «retracto» do devedor cedido; alerta para a nulidade da cessão de créditos ou direitos litigiosos (contestados em juízo, ainda que arbitral), feita diretamente ou por interposta pessoa, a juízes, magistrados do Ministério Público, funcionários de justiça e mandatários judiciais, se o processo correr na área em que exercem habitualmente a atividade, e a peritos ou outros auxiliares da justiça que nele intervenham (nulidade e dever de indemnizar no art. 580.º CC; exceções no art. 581.º CC; proibição no",
+        "motivo": "Não existe retracto do devedor no direito português; o art. 579.º CC só proíbe a cessão de direitos litigiosos a certas pessoas. O «art. 578.º CC» que fecha a frase é corrigido para 579.º pela revisão das citações.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0579&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Responsabilidade do cedente: existência vs. solvência do devedor",
+        "para": "- Crédito hipotecário com hipoteca sobre imóveis: a cessão tem de constar de escritura pública ou de documento particular autenticado (art. 578.º, n.º 2, CC)\n- Responsabilidade do cedente: existência vs. solvência do devedor",
+        "motivo": "A ficha omitia a forma legal da cessão de créditos hipotecários sobre imóveis.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0578&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Crédito litigioso: retracto pelo devedor (art. 579.º CC)",
+        "para": "- Crédito litigioso: nulidade da cessão a juízes, magistrados do Ministério Público, funcionários de justiça, mandatários judiciais, peritos e outros auxiliares da justiça (art. 579.º CC); não há «retracto» do devedor cedido",
+        "motivo": "O art. 579.º CC não prevê retracto pelo devedor.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0579&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Art. 579.º CC (retracto no crédito litigioso)",
+        "para": "- Art. 578.º, n.º 2, CC (cessão de créditos hipotecários sobre imóveis: escritura pública ou documento particular autenticado)\n- Arts. 580.º e 581.º CC (nulidade da cessão proibida e dever de indemnizar; exceções à proibição) — a lei portuguesa não prevê «retracto» do devedor no crédito litigioso",
+        "motivo": "Não existe retracto no crédito litigioso; as normas relevantes são as sanções e exceções dos arts. 580.º e 581.º CC e a forma do art. 578.º, n.º 2, CC.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0581&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Arts. 587.º e 588.º CC (responsabilidade do cedente: existência e exigibilidade; garantia de solvência apenas se expressa)",
+        "para": "- Art. 587.º CC (responsabilidade do cedente: existência e exigibilidade do crédito ao tempo da cessão, nos termos do negócio, gratuito ou oneroso, em que a cessão se integra; garantia de solvência apenas se expressa)",
+        "motivo": "O art. 588.º CC estende as regras da cessão a outros direitos; a garantia do cedente está toda no art. 587.º CC.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0587&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "(art. 587.º e 588.º CC)",
+        "para": "(art. 587.º, n.ºs 1 e 2, CC)",
+        "motivo": "O art. 588.º CC não trata da responsabilidade do cedente.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0588&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- [ ] Crédito litigioso: retracto e restrições tratados (se aplicável)",
+        "para": "- [ ] Crédito litigioso: cessionário não abrangido pela proibição de cessão de direitos litigiosos (se aplicável)\n- [ ] Crédito hipotecário sobre imóveis: escritura pública ou documento particular autenticado",
+        "motivo": "Retira o retracto, que não existe, e acrescenta a forma do art. 578.º, n.º 2, CC.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0578&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Cessão de crédito hipotecário: confirmar o averbamento da transmissão da hipoteca no registo predial.",
+      "Se houver cláusula contratual que proíba ou restrinja a cessão, só é oponível ao cessionário que a conhecia (art. 577.º, n.º 2, CC).",
+      "Se o mesmo crédito puder ter sido cedido a mais de uma pessoa, prevalece a cessão primeiro notificada ou aceite (art. 584.º CC).",
+      "Cessão onerosa com financiamento ao cessionário ou ao devedor: verificar a incidência de Imposto do Selo (verba 17.1 TGIS menciona a cessão de créditos)."
+    ],
+    "fontes": [
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0577&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0578&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0579&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0580&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0581&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0582&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0583&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0584&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0585&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0587&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0588&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0876&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/selo/Pages/ccod-selo-tabgiselo.aspx"
+    ]
+  },
+  {
+    "codigo": "CIV-018",
+    "veredicto": "corrigida",
+    "resumo": "A ficha admitia cumular cumprimento e resolução: só a resolução e a indemnização se cumulam (art. 801.º, n.º 2, CC); cumprimento e resolução só como pedidos principal e subsidiário (arts. 554.º e 555.º CPC). Dava o prazo de 5 anos do art. 310.º CC aos «fornecimentos» e omitia as prescrições presuntivas (arts. 316.º e 317.º CC), descrevia o art. 10.º, n.º 3, CPC pela alínea errada, situava o juízo central cível acima de €5.000 (é acima de €50.000, art. 117.º LOSJ) e pedia «honorários» autonomamente (entram nas custas de parte, art. 533.º CPC). Acrescentei a injunção e a ação especial do DL 269/98 (até €15.000) e a injunção sem limite de valor nas transações comerciais (DL 62/2013).",
+    "substituicoes": [
+      {
+        "de": "— Distingue ação de cumprimento (pedir a condenação a cumprir) de ação de resolução + indemnização; pode cumular ambos (art. 801.º CC) se o incumprimento for definitivo.",
+        "para": "— Distingue ação de cumprimento (pedir a condenação a cumprir) de ação de resolução + indemnização: no incumprimento definitivo, a resolução cumula-se com a indemnização (art. 801.º, n.º 2, CC); cumprimento e resolução são incompatíveis e só podem ser deduzidos como pedido principal e pedido subsidiário (arts. 554.º e 555.º CPC).",
+        "motivo": "Cumprimento e resolução não são cumuláveis; só a resolução e a indemnização se cumulam (art. 801.º, n.º 2, CC).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0554&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "especial 5 anos para fornecimentos/prestações periódicas (art. 310.º CC).",
+        "para": "especial de 5 anos para rendas, juros, quotas de amortização e outras prestações periodicamente renováveis (art. 310.º CC); prescrições presuntivas, fundadas na presunção de cumprimento, de 6 meses e de 2 anos (arts. 312.º, 316.º e 317.º CC — p. ex., créditos de comerciantes por bens vendidos a quem não seja comerciante, ou de quem exerça profissionalmente uma indústria pelo fornecimento de mercadorias, salvo se a prestação se destinar ao exercício industrial do devedor).",
+        "motivo": "O art. 310.º CC não abrange os «fornecimentos» em geral; os créditos de fornecimento podem estar sujeitos a prescrição presuntiva de 2 anos (art. 317.º CC).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0317&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Cumulação: só cumprimento, ou também resolução e/ou indemnização",
+        "para": "- Pedidos: cumprimento (com juros e indemnização moratória) ou resolução + indemnização; cumprimento e resolução só em relação de subsidiariedade (art. 554.º CPC)",
+        "motivo": "Cumprimento e resolução não podem ser pedidos cumulativamente (art. 555.º CPC).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0555&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Art. 10.º, n.º 3, al. a) CPC (formas de processo: declarativo / executivo)",
+        "para": "- Art. 10.º, n.º 3, al. b), CPC (ação declarativa de condenação: exigir a prestação de uma coisa ou de um facto, pressupondo ou prevendo a violação de um direito)",
+        "motivo": "A al. a) do art. 10.º, n.º 3, CPC respeita às ações de simples apreciação; a de condenação é a al. b). O artigo trata das espécies de ações, não das formas de processo.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0010&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Forma de processo: declarativa comum (condenação) + eventual reconversão em execução",
+        "para": "- Forma de processo: declarativa comum (condenação), seguida, se necessário, de execução da decisão condenatória, iniciada mediante requerimento (art. 626.º CPC)\n- Obrigação pecuniária emergente de contrato de valor não superior a €15.000: ponderar a injunção ou a ação especial para cumprimento de obrigações pecuniárias emergentes de contratos (DL 269/98); em transações comerciais (DL 62/2013, excluídos os contratos com consumidores), a injunção é admissível independentemente do valor (art. 10.º, n.º 1, do DL 62/2013)",
+        "motivo": "Não existe «reconversão em execução»; e a ficha omitia a injunção e a ação especial do DL 269/98 para as obrigações pecuniárias contratuais.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1920A0010&nid=1920&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Medida cautelar: arresto de bens (se risco de insolvência)",
+        "para": "- Medida cautelar: arresto de bens, se houver justificado receio de perder a garantia patrimonial do crédito (art. 391.º, n.º 1, CPC)",
+        "motivo": "O fundamento do arresto é o justificado receio de perda da garantia patrimonial (art. 391.º, n.º 1, CPC).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0391&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "Ao Juízo de Competência Cível / Central Cível da Comarca de [Comarca]",
+        "para": "Ao Juízo Local Cível / Juízo Central Cível (ações de processo comum de valor superior a €50.000 — art. 117.º, n.º 1, al. a), LOSJ) / Juízo de Competência Genérica da Comarca de [Comarca]",
+        "motivo": "Os juízos centrais cíveis julgam as ações declarativas de processo comum de valor superior a €50.000 (art. 117.º, n.º 1, al. a), LOSJ).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1974A0117&nid=1974&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "d) [Custas e honorários]",
+        "para": "d) [Custas, incluindo as custas de parte, que abrangem os honorários do mandatário (art. 533.º CPC)]",
+        "motivo": "Os honorários não são pedido autónomo: integram as custas de parte (art. 533.º, n.º 2, al. d), CPC).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0533&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "Valor acima de €5.000 — juízo central?",
+        "para": "Valor acima de €50.000 — juízo central cível?",
+        "motivo": "O limiar do juízo central cível é €50.000 (art. 117.º, n.º 1, al. a), LOSJ); €5.000 é a alçada da 1.ª instância.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1974A0117&nid=1974&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Transação comercial: os juros de mora são os comerciais (DL 62/2013); confirmar a taxa do semestre em `references/valores-2026.md`.",
+      "Se o réu invocar prescrição presuntiva (arts. 316.º e 317.º CC), a presunção de cumprimento só se ilide por confissão.",
+      "Confirmar a forma de processo quando o valor não exceder €15.000 (ação especial do DL 269/98) e o juízo competente na comarca."
+    ],
+    "fontes": [
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0310&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0312&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0316&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0317&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0801&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0806&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0010&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0391&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0533&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0554&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0555&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0626&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1974A0117&nid=1974&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1974A0130&nid=1974&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1920A0010&nid=1920&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1920A0002&nid=1920&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://e-justice.europa.eu/topics/money-monetary-claims/small-claims/pt_pt"
+    ]
+  },
+  {
+    "codigo": "CIV-019",
+    "veredicto": "corrigida",
+    "resumo": "A ficha mandava usar um «NIAT (Novo Instrumento de Avaliação do Dano)», que não existe, e descrevia a Portaria n.º 679/2009 como metodologia médico-legal. A avaliação em direito civil faz-se pela Tabela Nacional para Avaliação de Incapacidades Permanentes em Direito Civil (anexo II do DL 352/2007); a Portaria n.º 377/2008, alterada pela n.º 679/2009, só fixa critérios e valores orientadores da proposta razoável das seguradoras. Corrigi o dano biológico, que a ficha calculava em dias × valor diário e tratava só como «perda de qualidade de vida», e o fundamento do dano de ricochete (o art. 496.º, n.º 3, CC respeita ao unido de facto em caso de morte). Acrescentei a renda do art. 567.º CC.",
+    "substituicoes": [
+      {
+        "de": "— Para incapacidade: usa o NIAT (Novo Instrumento de Avaliação do Dano); fórmula de capitalização para IPP.",
+        "para": "— Para a incapacidade permanente em direito civil: avaliação médico-legal segundo a Tabela Nacional para Avaliação de Incapacidades Permanentes em Direito Civil (anexo II do DL 352/2007), em pontos e com valor indicativo — não existe um «NIAT»; a perda de capacidade de ganho é dano patrimonial futuro (art. 564.º, n.º 2, CC), calculado por capitalização e fixado com recurso à equidade quando o valor exato não puder ser averiguado (art. 566.º, n.º 3, CC) [■ VERIFICAR: critério jurisprudencial atual de cálculo].",
+        "motivo": "O «NIAT» não existe; o instrumento de avaliação em direito civil é a tabela do anexo II do DL 352/2007.",
+        "fonte": "https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf"
+      },
+      {
+        "de": "— Alerta para lucros cessantes futuros (pensão vitalícia) quando incapacidade permanente.",
+        "para": "— Alerta para lucros cessantes futuros quando houver incapacidade permanente: indemnização em capital ou, a requerimento do lesado, em renda vitalícia ou temporária (art. 567.º CC).",
+        "motivo": "A indemnização em renda depende de requerimento do lesado (art. 567.º CC); não é uma «pensão vitalícia» automática.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0567&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Terceiros afetados (dano de ricochete — art. 496.º, n.º 3 CC)",
+        "para": "- Terceiros afetados (dano de ricochete): em caso de morte, art. 496.º, n.ºs 2 a 4, CC (o n.º 3 respeita ao unido de facto); com o lesado vivo, [■ VERIFICAR: jurisprudência uniformizada do STJ sobre os danos não patrimoniais particularmente graves do cônjuge de vítima sobrevivente]",
+        "motivo": "O art. 496.º, n.º 3, CC só atribui a indemnização ao unido de facto em caso de morte; não é o fundamento do dano de familiares de lesado sobrevivo.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0496&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- NIAT — Portaria n.º 679/2009 (metodologia de avaliação médico-legal do dano)",
+        "para": "- DL 352/2007, anexo II — Tabela Nacional para Avaliação de Incapacidades Permanentes em Direito Civil (avaliação médico-legal do dano corporal, em pontos, por peritos médicos, com valor indicativo)\n- Portaria n.º 377/2008, alterada pela Portaria n.º 679/2009 (critérios e valores orientadores da proposta razoável das seguradoras para indemnização do dano corporal em acidente automóvel; não afastam a indemnização de outros danos nem valores superiores — art. 1.º, n.º 2)",
+        "motivo": "A Portaria n.º 679/2009 altera a Portaria n.º 377/2008 (proposta razoável em acidente automóvel); a tabela de avaliação em direito civil é o anexo II do DL 352/2007.",
+        "fonte": "https://files.diariodarepublica.pt/1s/2008/05/10000/0293602942.pdf"
+      },
+      {
+        "de": "- Dano biológico (perda de qualidade de vida)",
+        "para": "- Dano biológico (ofensa à integridade física e psíquica, com ou sem perda da capacidade de ganho): é indemnizável autonomamente e a jurisprudência qualifica-o ora como dano patrimonial, ora como não patrimonial — não o indemnizar em duplicado com os danos futuros do ponto A.3 [■ VERIFICAR: qualificação adotada pela jurisprudência atual]",
+        "motivo": "A Portaria n.º 377/2008 (art. 3.º, al. b)) define o dano biológico como ofensa à integridade física e psíquica, com ou sem perda da capacidade de ganho; não se reduz à perda de qualidade de vida.",
+        "fonte": "https://files.diariodarepublica.pt/1s/2008/05/10000/0293602942.pdf"
+      },
+      {
+        "de": "- Dano biológico: [___ dias × €___ por dia]",
+        "para": "- Dano biológico: défice permanente de ___ pontos (tabela do anexo II do DL 352/2007), idade ___ anos — valor por equidade, com referência orientadora ao anexo IV da Portaria n.º 377/2008 [■ VERIFICAR: não duplicar com o ponto I.3]",
+        "motivo": "O dano biológico calcula-se segundo a idade e a pontuação da tabela de direito civil, não por dias × valor diário.",
+        "fonte": "https://files.diariodarepublica.pt/1s/2008/05/10000/0293602942.pdf"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Confirmar a redação atual dos anexos da Portaria n.º 377/2008 (alterada pela Portaria n.º 679/2009) e lembrar que se destinam à proposta razoável das seguradoras.",
+      "Danos não patrimoniais de familiares de vítima sobrevivente: confirmar o acórdão uniformizador do STJ (citado como AUJ n.º 6/2014) no Diário da República antes de o invocar.",
+      "Acidente de trabalho: a reparação segue a Lei 98/2009 e não se acumula com a indemnização civil pelas mesmas perdas (cf. art. 9.º da Portaria n.º 377/2008 para os acidentes simultaneamente de viação e de trabalho).",
+      "Relatórios médico-legais atuais usam, em direito civil, pontos de défice funcional e escalas de 1 a 7 para o quantum doloris e o dano estético: alinhar a terminologia (ITA/ITP/IPP) com o relatório pericial."
+    ],
+    "fontes": [
+      "https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf",
+      "https://files.diariodarepublica.pt/1s/2008/05/10000/0293602942.pdf",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0496&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0564&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0566&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0567&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+    ]
+  },
+  {
+    "codigo": "CIV-033",
+    "veredicto": "corrigida",
+    "resumo": "A ficha situava o depósito do preço no art. 1410.º, n.º 2, CC sem prazo, quando o n.º 1 exige o depósito nos 15 dias seguintes à propositura da ação, e mandava pedir a nulidade da transmissão (com o art. 289.º CC), uma nova escritura e uma «providência cautelar de anotação» que não existe e não impede a caducidade (só a propositura da ação, art. 331.º, n.º 1, CC). Corrigi também a preferência convencional, que só dá ação contra o terceiro com eficácia real (art. 421.º CC), acrescentei a comunicação do art. 1091.º, n.º 4, CC e o limiar de €50.000 do juízo central cível.",
+    "substituicoes": [
+      {
+        "de": "— PRAZO FATAL, não se suspende nem interrompe; atua com URGÊNCIA.",
+        "para": "— PRAZO FATAL, não se suspende nem interrompe; só a propositura da ação, dentro do prazo, impede a caducidade (art. 331.º, n.º 1, CC); atua com URGÊNCIA.",
+        "motivo": "Só a prática do ato (a propositura da ação) impede a caducidade.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0331&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "— O preferente tem que depositar o preço ou consignar o valor para exercer a preferência (art. 1410.º, n.º 2 CC) — verifica regras processuais.",
+        "para": "— O preferente tem de depositar o preço devido nos 15 dias seguintes à propositura da ação, sob pena de perder o direito (art. 1410.º, n.º 1, CC) — controla este prazo logo após a entrada da petição.",
+        "motivo": "O depósito do preço e o prazo de 15 dias estão no art. 1410.º, n.º 1, CC; o n.º 2 trata da modificação ou distrate da alienação.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1410&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Depósito do preço: o autor tem de pagar ou consignar nas condições do negócio",
+        "para": "- Depósito do preço: nos 15 dias seguintes à propositura da ação (art. 1410.º, n.º 1, CC) — o autor deve ter o montante disponível antes de propor a ação",
+        "motivo": "Faltava o prazo de 15 dias para o depósito do preço.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1410&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Art. 1091.º CC (preferência do arrendatário)",
+        "para": "- Art. 1091.º CC (preferência do arrendatário do local arrendado há mais de dois anos; comunicação por carta registada com aviso de receção e prazo de resposta de 30 dias — n.ºs 1 e 4)",
+        "motivo": "Precisa os requisitos e a comunicação próprios da preferência do arrendatário.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1091&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Art. 414.º CC (preferência convencional)",
+        "para": "- Art. 414.º CC (preferência convencional) — só dá ação de preferência contra o terceiro adquirente se tiver eficácia real (art. 421.º CC: imóveis ou móveis sujeitos a registo, com a forma e a publicidade do art. 413.º CC); sem eficácia real, não é oponível ao terceiro e resta a responsabilidade do obrigado à preferência",
+        "motivo": "O art. 1410.º CC só se aplica à preferência convencional com eficácia real (art. 421.º, n.º 2, CC).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0421&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Art. 1410.º, n.º 2 CC (obrigação do preferente de depositar o preço)",
+        "para": "- Art. 1410.º, n.º 1, CC (depósito do preço devido nos 15 dias seguintes à propositura da ação); o n.º 2 dispõe que a modificação ou o distrate da alienação não prejudicam o direito nem a ação",
+        "motivo": "O depósito do preço está no n.º 1 do art. 1410.º CC, não no n.º 2.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1410&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Art. 289.º CC (efeitos da invalidade — restituição ao adquirente)",
+        "para": "- A ação de preferência não é de nulidade nem de anulação: o preferente substitui-se ao adquirente, sem aplicação do regime do art. 289.º CC [■ VERIFICAR: destino do preço depositado e reembolso das despesas do adquirente]",
+        "motivo": "A ação de preferência é de substituição, não de invalidade; o art. 289.º CC não é o seu fundamento.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1410&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Pedido: substituição nas condições do negócio + declaração de nulidade da transmissão ao adquirente",
+        "para": "- Pedido: reconhecimento do direito de preferência e substituição do adquirente pelo autor nas condições do negócio (não se pede a nulidade nem a anulação da transmissão)",
+        "motivo": "A ação de preferência visa haver para si a coisa alienada, substituindo o adquirente (art. 1410.º, n.º 1, CC), não declarar a nulidade da venda.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1410&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Depósito do preço: preparar o montante para consignação",
+        "para": "- Depósito do preço: nos 15 dias seguintes à propositura da ação (art. 1410.º, n.º 1, CC) — preparar o montante antes de propor a ação",
+        "motivo": "Faltava o prazo legal do depósito.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1410&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "Ao Juízo de Competência Cível da Comarca de [Comarca]",
+        "para": "Ao Juízo Local Cível / Juízo Central Cível (ações de processo comum de valor superior a €50.000 — art. 117.º, n.º 1, al. a), LOSJ) / Juízo de Competência Genérica da Comarca de [Comarca]",
+        "motivo": "Identifica o juízo competente segundo o valor (art. 117.º, n.º 1, al. a), LOSJ).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1974A0117&nid=1974&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "c) Condenação dos Réus a outorgar nova escritura a favor do Autor (ou a sentença fazer as vezes da escritura)",
+        "para": "c) Ordenar-se o cancelamento do registo de aquisição a favor do 2.º Réu e dos registos dele dependentes [■ VERIFICAR: pedidos acessórios adequados ao caso, p. ex. a entrega do bem] — a sentença que julga procedente a preferência opera a substituição, sem necessidade de nova escritura",
+        "motivo": "Na ação de preferência a sentença substitui o adquirente; não há que condenar os réus a outorgar nova escritura.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1410&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "[Citação dos dois réus; depósito/consignação do preço; provas; valor da causa = preço do negócio]",
+        "para": "[Citação dos dois réus; depósito do preço nos 15 dias seguintes à propositura (art. 1410.º, n.º 1, CC); registo da ação, se o bem estiver sujeito a registo [■ VERIFICAR: sujeição a registo predial da ação de preferência]; provas; valor da causa = preço do negócio]",
+        "motivo": "Fixa o prazo do depósito e sinaliza o registo da ação.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1410&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "⚠️ URGÊNCIA — se o prazo de 6 meses estiver próximo do fim, requer providência cautelar de anotação.",
+        "para": "⚠️ URGÊNCIA — se o prazo de 6 meses estiver próximo do fim, propõe a ação de imediato: só a propositura da ação impede a caducidade (art. 331.º, n.º 1, CC) e não há providência cautelar que a substitua.",
+        "motivo": "Não existe «providência cautelar de anotação»; só a propositura da ação impede a caducidade.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0331&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- [ ] Depósito do preço: preparado / requerido nos autos",
+        "para": "- [ ] Depósito do preço efetuado nos 15 dias seguintes à propositura da ação (art. 1410.º, n.º 1, CC)",
+        "motivo": "O depósito tem prazo legal de 15 dias após a propositura.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1410&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "[Registo predial feito em nome do adquirente? Necessidade de anotação cautelar? Depósito disponível?]",
+        "para": "[Registo predial feito em nome do adquirente? Registo da ação? Montante do preço disponível para depósito nos 15 dias seguintes à propositura?]",
+        "motivo": "Retira a «anotação cautelar», que não existe, e sublinha o prazo do depósito.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1410&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Confirmar a sujeição da ação de preferência a registo predial e requerê-lo logo após a propositura.",
+      "Preço a depositar: confirmar se inclui só o preço ou também despesas (IMT, Imposto do Selo, escritura) suportadas pelo adquirente, segundo a jurisprudência atual.",
+      "Preferência do arrendatário em prédio não constituído em propriedade horizontal: verificar o regime dos n.ºs 8 e 9 do art. 1091.º CC e a jurisprudência constitucional sobre o n.º 8.",
+      "Pluralidade de preferentes legais: confirmar a graduação (o comproprietário tem o primeiro lugar, art. 1409.º, n.º 1, CC; arrendatário, art. 1091.º, n.º 3, CC)."
+    ],
+    "fontes": [
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1410&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1409&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1091&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0414&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0416&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0421&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0331&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0289&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1974A0117&nid=1974&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+    ]
+  }
+]

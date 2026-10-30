@@ -3,20 +3,22 @@ codigo: DES-040
 area: "Direito Desportivo"
 titulo: "Requerimento de Inscrição de Atleta e Impugnação de Recusa pela FPF/LPFP"
 titulo_en: "Application to Register an Athlete and Challenge to a Refusal by the FPF/LPFP"
-descricao: "Elabora requerimento de inscrição de atleta junto da FPF ou LPFP e, em caso de recusa, elabora impugnação administrativa e, se necessário, petição para o Tribunal Arbitral do Desporto (TAD), ao abrigo dos artigos 4.º e 5.º da Lei n.º 74/2013 (Estatuto TAD), invocando os direitos do atleta à prática desportiva e os deveres da federação de inscrição."
-descricao_en: "Prepares the application to register an athlete with the FPF or LPFP and, if it is refused, an administrative challenge and, where necessary, a petition to the Sports Arbitration Court (TAD), under Articles 4 and 5 of Law No. 74/2013 (TAD Statute), invoking the athlete's right to practise sport and the federation's duty to register."
+descricao: "Elabora requerimento de inscrição de atleta junto da FPF ou LPFP e, em caso de recusa, elabora impugnação administrativa e, se necessário, petição para o Tribunal Arbitral do Desporto (TAD), ao abrigo do artigo 4.º da Lei do TAD, aprovada pela Lei n.º 74/2013, invocando os direitos do atleta à prática desportiva e os deveres da federação de inscrição."
+descricao_en: "Prepares the application to register an athlete with the FPF or LPFP and, if it is refused, an administrative challenge and, where necessary, a petition to the Sports Arbitration Court (TAD), under Article 4 of the TAD Law approved by Law No. 74/2013, invoking the athlete's right to practise sport and the federation's duty to register."
 ambito: nacional
-estado_citacoes: "conferidas 1 · corrigidas 0 · por conferir 3"
+estado_citacoes: "conferidas 1 · corrigidas 0 · por conferir 10"
+revisao_tecnica: "2026-10-30 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
 # Requerimento de Inscrição de Atleta e Impugnação de Recusa pela FPF/LPFP
 
 > **Âmbito:** nacional · **Área:** Direito Desportivo · **Código:** DES-040
-> **EN:** Application to Register an Athlete and Challenge to a Refusal by the FPF/LPFP. Prepares the application to register an athlete with the FPF or LPFP and, if it is refused, an administrative challenge and, where necessary, a petition to the Sports Arbitration Court (TAD), under Articles 4 and 5 of Law No. 74/2013 (TAD Statute), invoking the athlete's right to practise sport and the federation's duty to register.
-> **Citações:** conferidas 1 · corrigidas 0 · por conferir 3. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **EN:** Application to Register an Athlete and Challenge to a Refusal by the FPF/LPFP. Prepares the application to register an athlete with the FPF or LPFP and, if it is refused, an administrative challenge and, where necessary, a petition to the Sports Arbitration Court (TAD), under Article 4 of the TAD Law approved by Law No. 74/2013, invoking the athlete's right to practise sport and the federation's duty to register.
+> **Citações:** conferidas 1 · corrigidas 0 · por conferir 10. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-30 — corrigida (4 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
-Elabora requerimento de inscrição de atleta junto da FPF ou LPFP e, em caso de recusa, elabora impugnação administrativa e, se necessário, petição para o Tribunal Arbitral do Desporto (TAD), ao abrigo dos artigos 4.º e 5.º da Lei n.º 74/2013 (Estatuto TAD), invocando os direitos do atleta à prática desportiva e os deveres da federação de inscrição.
+Elabora requerimento de inscrição de atleta junto da FPF ou LPFP e, em caso de recusa, elabora impugnação administrativa e, se necessário, petição para o Tribunal Arbitral do Desporto (TAD), ao abrigo do artigo 4.º da Lei do TAD, aprovada pela Lei n.º 74/2013, invocando os direitos do atleta à prática desportiva e os deveres da federação de inscrição.
 
 ## Método
 
@@ -41,9 +43,9 @@ Apresenta dentro de um bloco <analise_da_situacao>:
 Apresenta dentro de um bloco <fundamentos_juridicos>:
 - Regulamento de Inscrição FPF/LPFP (requisitos de inscrição)
 - Princípio do direito à prática desportiva (art. 79.º CRP)
-- Art. 4.º e 5.º Lei n.º 74/2013 (TAD)
-- RSTP, art. 2.º (elegibilidade para jogar) e art. 9.º (ITC)
-- Mecanismo de desbloqueio por dívida do clube anterior (FIFA Clearing House)
+- Lei do TAD, aprovada pela Lei n.º 74/2013: art. 4.º (arbitragem necessária; acesso só em via de recurso da decisão do órgão de justiça da federação ou da decisão final da liga, n.º 3), art. 54.º, n.º 2 (prazo de 10 dias para o requerimento inicial), art. 53.º, n.º 1 (o recurso não tem efeito suspensivo) e art. 41.º (procedimento cautelar, requerido com o requerimento inicial); o art. 5.º respeita só à dopagem
+- RSTP, art. 5.º (só jogadores inscritos podem participar no futebol organizado; o estatuto de amador ou profissional está no art. 2.º) e art. 9.º (ITC, emitido gratuitamente, sem condições nem prazo)
+- Dívidas fixadas pela FIFA: proibição de inscrever novos jogadores imposta ao clube devedor até ao pagamento (art. 24.º RSTP); a FIFA Clearing House só processa o pagamento da compensação por formação e da contribuição de solidariedade, e a falta desse pagamento também gera proibição de inscrição até ao pagamento integral (art. 17.6 do Regulamento da FIFA Clearing House); dívidas no plano nacional: regulamentos da FPF/LPFP [■ VERIFICAR: norma regulamentar invocada na recusa]
 
 ### ETAPA 3 — ESTRATÉGIA
 Apresenta dentro de um bloco <estrategia>:
@@ -60,7 +62,7 @@ Apresenta dentro de um bloco <checklist_validacao>:
 - [ ] Documentação completa verificada
 - [ ] Prazo da janela de transferências verificado
 - [ ] Pedido cautelar formulado se urgente
-- [ ] FIFA Clearing House contactada se dívida inter-clubes
+- [ ] Origem da dívida identificada (decisão da FIFA — art. 24.º RSTP; compensação por formação ou contribuição de solidariedade — FIFA Clearing House; regulamento da FPF/LPFP) e prova de pagamento apresentada
 - [ ] [■ VERIFICAR] itens sinalizados
 
 ---
@@ -80,6 +82,13 @@ Apresenta dentro de um bloco <checklist_validacao>:
 | Citação | Estado | Nota |
 |---|---|---|
 | art. 79.º CRP | conferida (epígrafe) — Cultura física e desporto |  |
-| Art. 4.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 4.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 54.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 53.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 41.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 5.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 5.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 2.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 9.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 24.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 24.º | por conferir [■ VERIFICAR] | diploma não identificado |

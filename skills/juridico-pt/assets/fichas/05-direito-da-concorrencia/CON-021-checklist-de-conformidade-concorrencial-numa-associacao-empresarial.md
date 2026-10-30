@@ -6,7 +6,8 @@ titulo_en: "Competition Compliance Checklist for a Business Association"
 descricao: "Gera uma checklist estruturada de conformidade concorrencial para associações empresariais e as empresas que nelas participam, cobrindo estatutos, processos de decisão, recolha de dados, comunicações e reuniões, com base na Lei n.º 19/2012 e nas orientações da Comissão Europeia sobre organizações de comércio e associações profissionais."
 descricao_en: "Generates a structured competition compliance checklist for business associations and their member companies, covering articles of association, decision-making processes, data collection, communications and meetings, based on Law No. 19/2012 and the European Commission's guidance on trade organisations and professional associations."
 ambito: nacional
-estado_citacoes: "conferidas 1 · corrigidas 0 · por conferir 2"
+estado_citacoes: "conferidas 2 · corrigidas 0 · por conferir 3"
+revisao_tecnica: "2026-10-28 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
@@ -14,7 +15,8 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 
 > **Âmbito:** nacional · **Área:** Direito da Concorrência · **Código:** CON-021
 > **EN:** Competition Compliance Checklist for a Business Association. Generates a structured competition compliance checklist for business associations and their member companies, covering articles of association, decision-making processes, data collection, communications and meetings, based on Law No. 19/2012 and the European Commission's guidance on trade organisations and professional associations.
-> **Citações:** conferidas 1 · corrigidas 0 · por conferir 2. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 2 · corrigidas 0 · por conferir 3. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-28 — corrigida (5 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
 Gera uma checklist estruturada de conformidade concorrencial para associações empresariais e as empresas que nelas participam, cobrindo estatutos, processos de decisão, recolha de dados, comunicações e reuniões, com base na Lei n.º 19/2012 e nas orientações da Comissão Europeia sobre organizações de comércio e associações profissionais.
 
@@ -25,7 +27,7 @@ Ficha de trabalho para preparar este documento. As regras da casa prevalecem sob
 ## Regras obrigatórias
 - NUNCA recomendas atividades que substituam mecanismos de mercado ou coordenem comportamentos comerciais
 - Se faltarem dados, marca [■ VERIFICAR: adaptar ao setor]
-- Cita corretamente: Lei n.º 19/2012 (art. 9.º, n.º 1, alínea c)) e Orientações da Comissão sobre acordos de cooperação horizontal [■ VERIFICAR: versão vigente]
+- Cita corretamente: Lei n.º 19/2012 (art. 9.º, n.º 1, que proíbe as decisões de associações de empresas) e Orientações da Comissão sobre a aplicação do artigo 101.º TFUE aos acordos de cooperação horizontal (2023/C 259/01)
 - O risco aumenta drasticamente quando as associações recolhem e partilham dados individuais de preços ou quantidades de membros
 
 ---
@@ -43,14 +45,14 @@ Apresenta dentro de um bloco <analise_do_caso>:
 
 ### ETAPA 2 — ANÁLISE JURÍDICA (Fundamentação)
 Apresenta dentro de um bloco <fundamentos_juridicos>:
-- Artigo 9.º, n.º 1, alínea c), Lei 19/2012 — decisões de associações de empresas proibidas
-- Artigo 101.º, n.º 1, alínea c), TFUE — idem na dimensão europeia
-- Orientações da Comissão sobre acordos de cooperação horizontal (2023) [■ VERIFICAR: versão vigente]
+- Artigo 9.º, n.º 1, Lei 19/2012 — decisões de associações de empresas proibidas (a alínea c) respeita à repartição de mercados ou de fontes de abastecimento)
+- Artigo 101.º, n.º 1, TFUE — idem, quando possam afetar o comércio entre Estados-Membros
+- Orientações da Comissão sobre acordos de cooperação horizontal (2023/C 259/01, JO C 259 de 21.7.2023)
   * Troca de informações: quando é anticoncorrencial (dados individualizados, recentes, frequentes)
   * Normas técnicas: quando podem restringir a concorrência
   * Compras conjuntas e comercialização conjunta: condições
 - Doutrina do veículo: a associação como mecanismo de transmissão de acordo entre membros
-- Responsabilidade da associação e dos membros: coima até 10% do VN de todos os membros
+- Responsabilidade da associação e dos membros: coima até 10 % do volume de negócios total, a nível mundial, da associação; se a infração estiver relacionada com as atividades dos associados, até 10 % do volume de negócios agregado dos associados que exerçam atividade no mercado afetado (art. 69.º, n.os 4 e 5, Lei 19/2012)
 
 ### ETAPA 3 — MAPA DE RISCO DA ASSOCIAÇÃO
 Define em <mapa_risco>:
@@ -87,8 +89,8 @@ Redige o documento com esta estrutura:
 
 **D. DADOS E ESTATÍSTICAS**
 ☐ Os dados partilhados são agregados (não individualizados)
-☐ Os dados têm pelo menos 3-6 meses de antiguidade (não dados em tempo real)
-☐ Os dados cobrem pelo menos 3-5 membros de forma que nenhum seja identificável
+☐ Os dados são históricos para o setor: a sua antiguidade é várias vezes superior à duração média dos ciclos de fixação de preços ou dos contratos (Orientações horizontais, pontos 393 e 394; não há prazo fixo)
+☐ Os dados estão agregados de forma que a atribuição a uma empresa concreta seja suficientemente difícil ou incerta (Orientações horizontais, ponto 391; não há número mínimo de empresas — definir a regra com o advogado, com mais cautela em mercados concentrados)
 ☐ Os dados não incluem preços de venda, descontos ou margens individuais
 ☐ A metodologia de recolha está documentada e aprovada pelo advogado
 
@@ -146,5 +148,7 @@ Checklist de conformidade completa com classificação de risco por item, em por
 | Citação | Estado | Nota |
 |---|---|---|
 | art. 9.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| artigo 101.º TFUE | conferida (epígrafe) — São incompatíveis com o mercado interno e proibidos todos os acordos entre empresas, todas |  |
 | Artigo 9.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| Artigo 101.º, n.º 1, alínea c), TFUE | conferida (epígrafe) — São incompatíveis com o mercado interno e proibidos todos os acordos entre empresas, todas |  |
+| Artigo 101.º, n.º 1, TFUE | conferida (epígrafe) — São incompatíveis com o mercado interno e proibidos todos os acordos entre empresas, todas |  |
+| art. 69.º | por conferir [■ VERIFICAR] | diploma não identificado |

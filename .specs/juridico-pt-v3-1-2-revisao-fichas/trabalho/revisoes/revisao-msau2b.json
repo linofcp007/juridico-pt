@@ -1,0 +1,321 @@
+[
+  {
+    "codigo": "SAU-031",
+    "veredicto": "corrigida",
+    "resumo": "A ficha assentava o acesso ao processo clínico no art. 4.º da Lei 15/2014, que trata da adequação dos cuidados, e atribuía-lhe um prazo de 10 dias úteis que a lei não fixa. O acesso funda-se no art. 3.º da Lei 12/2005 e no art. 5.º, n.º 3, da Lei 15/2014. O prazo é de 1 mês pelo RGPD (art. 12.º, n.º 3) e de 10 dias só nas entidades sujeitas à LADA (art. 15.º). Corrigi também o fundamento do acesso por herdeiros (art. 17.º da Lei 58/2019 e, nas entidades públicas, art. 6.º, n.º 5, da LADA), a autorização exigida a terceiros e os prazos da queixa à CADA e da intimação (art. 16.º da LADA; art. 105.º, n.º 2, CPTA).",
+    "descricao": "Prepara o requerimento de acesso ao processo clínico ao abrigo do art. 3.º da Lei n.º 12/2005, de 26 de janeiro, do art. 5.º, n.º 3, da Lei n.º 15/2014, de 21 de março, e do art. 15.º do RGPD e, nas entidades públicas, da Lei n.º 26/2016, de 22 de agosto (acesso a documentos administrativos — LADA), e estrutura a resposta jurídica em caso de recusa, entrega parcial ou recusa informal. Inclui a queixa à ERS e à CNPD e, nas entidades públicas, a queixa à CADA (Comissão de Acesso aos Documentos Administrativos) e a intimação judicial.",
+    "descricao_en": "Prepares the request for access to the clinical file under Article 3 of Law No. 12/2005 of 26 January, Article 5(3) of Law No. 15/2014 of 21 March and Article 15 GDPR and, for public bodies, Law No. 26/2016 of 22 August (access to administrative documents — LADA), and structures the legal response in the event of refusal, partial disclosure or informal refusal. It includes complaints to the ERS and the CNPD and, for public bodies, the complaint to the CADA (Commission for Access to Administrative Documents) and the court injunction.",
+    "substituicoes": [
+      {
+        "de": "— Cita sempre o art. 4.º da Lei 15/2014 (prazo: 10 dias úteis), o art. 15.º do RGPD (prazo: 1 mês) e a LADA (quando aplicável a entidades públicas).",
+        "para": "— Cita sempre o art. 3.º, n.º 2, da Lei 12/2005 e o art. 5.º, n.º 3, da Lei 15/2014 (direito de acesso, sem prazo de resposta próprio), o art. 15.º do RGPD (resposta no prazo de 1 mês, prorrogável até mais dois meses — art. 12.º, n.º 3, RGPD) e, nas entidades sujeitas à LADA, o art. 7.º da LADA (resposta no prazo de 10 dias — art. 15.º, n.º 1, LADA).",
+        "motivo": "O art. 4.º da Lei 15/2014 trata da adequação dos cuidados e não fixa prazo; o acesso funda-se no art. 3.º da Lei 12/2005 e no art. 5.º, n.º 3, da Lei 15/2014; o prazo de 1 mês está no art. 12.º, n.º 3, RGPD e o de 10 dias só na LADA.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2292A0005&nid=2292&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Quem pode aceder: o próprio doente (art. 4.º Lei 15/2014); representante legal (menor, maior acompanhado); advogado com procuração com poderes especiais; herdeiro após morte (fundamento na lei sucessória + art. 4.º Lei 15/2014, interpretação extensiva)",
+        "para": "- Quem pode aceder: o próprio doente (art. 3.º, n.º 2, da Lei 12/2005 e art. 5.º, n.º 3, Lei 15/2014), diretamente ou, se o pedir, por intermédio de médico (art. 3.º, n.º 3, da Lei 12/2005); representante legal (menor, maior acompanhado nos termos da decisão de acompanhamento); terceiro, incluindo advogado, com autorização escrita do titular explícita e específica quanto à finalidade e ao tipo de dados (nas entidades públicas: art. 6.º, n.º 5, al. a), e art. 7.º, n.º 3, da LADA); após a morte do doente, quem este tenha designado ou, na falta, os herdeiros (art. 17.º, n.º 2, da Lei 58/2019) e, nas entidades públicas, o terceiro com interesse direto, pessoal, legítimo e constitucionalmente protegido suficientemente relevante (art. 6.º, n.º 5, al. b), da LADA)",
+        "motivo": "O fundamento do acesso não é o art. 4.º da Lei 15/2014; o acesso após a morte tem base legal expressa no art. 17.º da Lei 58/2019 (não na lei sucessória por interpretação extensiva) e o acesso de terceiros exige autorização escrita específica.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=3118A0017&nid=3118&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Fundamento cumulativo: art. 4.º Lei 15/2014 + art. 15.º RGPD",
+        "para": "- Fundamento cumulativo: art. 3.º Lei 12/2005 + art. 5.º, n.º 3, Lei 15/2014 + art. 15.º RGPD",
+        "motivo": "Base legal correta do direito de acesso à informação de saúde.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1660A0003&nid=1660&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Para entidades públicas: LADA (Lei 26/2016, art. 5.º e ss.)",
+        "para": "- Para entidades sujeitas à LADA (art. 4.º — entidades públicas, incluindo as empresas públicas, e entidades no exercício de funções materialmente administrativas): LADA (Lei 26/2016, arts. 5.º e 7.º — acesso e comunicação de dados de saúde)",
+        "motivo": "A LADA tem norma própria para os dados de saúde (art. 7.º) e o seu âmbito subjetivo está no art. 4.º.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2591A0007&nid=2591&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Fundamento legal (art. 4.º Lei 15/2014 + art. 15.º RGPD)\n- Prazo de resposta exigido (10 dias úteis / 1 mês)",
+        "para": "- Fundamento legal (art. 3.º Lei 12/2005 + art. 5.º, n.º 3, Lei 15/2014 + art. 15.º RGPD; nas entidades sujeitas à LADA, também o art. 7.º da LADA)\n- Prazo de resposta exigido (1 mês — art. 12.º, n.º 3, RGPD; 10 dias nas entidades sujeitas à LADA — art. 15.º, n.º 1, LADA)",
+        "motivo": "Não existe prazo de 10 dias úteis na Lei 15/2014; o prazo geral é o do RGPD e o de 10 dias é o da LADA.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2961A0012&nid=2961&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Consequências: queixa ERS + queixa CADA + queixa CNPD (violação RGPD) + intimação judicial (art. 104.º CPTA — intimação para prestação de informações)",
+        "para": "- Consequências: queixa ERS + queixa CNPD (violação RGPD); nas entidades sujeitas à LADA, também queixa à CADA (art. 16.º LADA) e intimação judicial (art. 104.º CPTA — intimação para prestação de informações)",
+        "motivo": "A queixa à CADA e a intimação do CPTA só valem contra entidades sujeitas à LADA, não contra estabelecimentos privados.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2591A0016&nid=2591&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- CADA: reclamação por acesso a documentos administrativos (só entidades públicas ou entidades privadas com funções públicas) — www.cada.pt",
+        "para": "- CADA: queixa por falta de resposta, indeferimento ou satisfação parcial, no prazo de 20 dias (art. 16.º, n.º 1, LADA; só entidades sujeitas à LADA); a queixa interrompe o prazo da intimação judicial (art. 16.º, n.º 2, LADA) — www.cada.pt",
+        "motivo": "A LADA fixa prazo de 20 dias para a queixa à CADA, que interrompe o prazo da intimação.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2591A0016&nid=2591&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- ERS: queixa por violação do art. 4.º Lei 15/2014",
+        "para": "- ERS: queixa por violação do art. 5.º, n.º 3, Lei 15/2014",
+        "motivo": "O direito de acesso aos dados está no art. 5.º, n.º 3, da Lei 15/2014.",
+        "fonte": "https://ers.pt/media/cqopfke0/direito-de-acesso-%C3%A0-informa%C3%A7%C3%A3o-cl%C3%ADnica.pdf"
+      },
+      {
+        "de": "- Tribunal: intimação para prestação de informações (art. 104.º CPTA, TAC)",
+        "para": "- Tribunal: intimação para prestação de informações (arts. 104.º e 105.º CPTA, tribunal administrativo; ⏰ prazo de 20 dias a contar do termo do prazo de resposta, do indeferimento ou da satisfação parcial — art. 105.º, n.º 2, CPTA)",
+        "motivo": "A ficha omitia o prazo de 20 dias para requerer a intimação.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=439A0105&nid=439&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- [ ] Cópia de procuração com poderes especiais (se requerente for advogado)",
+        "para": "- [ ] Procuração ou autorização escrita do titular, explícita e específica quanto à finalidade e ao tipo de dados (se o requerente for advogado ou outro terceiro)",
+        "motivo": "O acesso de terceiros a dados de saúde exige autorização escrita específica (art. 6.º, n.º 5, al. a), LADA).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2591A0006&nid=2591&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- [ ] Certidão de óbito + habilitação de herdeiros (se acesso por herdeiro)",
+        "para": "- [ ] Certidão de óbito + habilitação de herdeiros ou prova da designação feita pelo falecido (art. 17.º, n.º 2, da Lei 58/2019)",
+        "motivo": "A pessoa designada pelo falecido tem preferência sobre os herdeiros.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=3118A0017&nid=3118&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- [ ] Prazo de 10 dias úteis / 1 mês a contar da receção",
+        "para": "- [ ] Prazo de resposta (1 mês pelo RGPD; 10 dias nas entidades sujeitas à LADA) a contar da receção",
+        "motivo": "Prazos legais corretos.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2591A0015&nid=2591&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Confirmar se a entidade requerida está sujeita à LADA (art. 4.º): hospitais e ULS do SNS sim; estabelecimentos privados só se exercerem funções materialmente administrativas (por exemplo, em regime de concessão ou PPP).",
+      "O acesso direto do titular é a regra; a intermediação de médico só ocorre se o titular a pedir ou se não for possível apurar a sua vontade (art. 3.º, n.os 3 e 4, da Lei 12/2005; art. 7.º da LADA).",
+      "A exceção do art. 3.º, n.º 2, da Lei 12/2005 (informação comprovadamente prejudicial ao titular) é estrita: exigir fundamentação concreta de qualquer recusa com esse fundamento.",
+      "Contagem do prazo de 10 dias da LADA: confirmar se em dias úteis (art. 87.º CPA) na prática da CADA.",
+      "Herdeiros: verificar se o falecido deixou declaração a impedir o exercício dos direitos após a morte (art. 17.º, n.º 3, da Lei 58/2019)."
+    ],
+    "fontes": [
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2292&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2292A0005&nid=2292&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1660A0003&nid=1660&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2591&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2591A0004&nid=2591&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2591A0006&nid=2591&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2591A0007&nid=2591&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2591A0015&nid=2591&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2591A0016&nid=2591&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=3118A0017&nid=3118&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2961A0012&nid=2961&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=439A0105&nid=439&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://ers.pt/media/cqopfke0/direito-de-acesso-%C3%A0-informa%C3%A7%C3%A3o-cl%C3%ADnica.pdf"
+    ]
+  },
+  {
+    "codigo": "SAU-033",
+    "veredicto": "corrigida",
+    "resumo": "Toda a ficha assentava na Lei n.º 36/98, revogada pela Lei n.º 35/2023, de 21 de julho (nova Lei da Saúde Mental, em vigor desde 20/8/2023), e citava artigos que já não existem. Também enunciava um prazo inicial de 30 dias que a lei não prevê, uma legitimidade de «parentes até ao 4.º grau» e do médico psiquiatra e um prazo de recurso de 10 dias. Reescrevi as regras e as cinco etapas segundo a Lei 35/2023: pressupostos cumulativos e proporcionalidade (art. 15.º), legitimidade (art. 16.º), processo comum e sessão conjunta (arts. 17.º a 27.º), internamento de urgência com confirmação em 48 horas (arts. 28.º a 33.º), competência (art. 34.º), recurso (art. 35.º), direitos (arts. 8.º, 9.º, 11.º e 12.º) e habeas corpus (art. 45.º). Atualizei o título e a descrição.",
+    "titulo": "Tratamento Involuntário (Internamento Compulsivo) — Lei da Saúde Mental (Lei 35/2023)",
+    "titulo_en": "Involuntary Treatment (Compulsory Admission) — Mental Health Law (Law 35/2023)",
+    "descricao": "Orienta o advogado e o doente/família no processo de tratamento involuntário (o antigo internamento compulsivo), em ambulatório ou em internamento, e na defesa dos direitos da pessoa em tratamento, ao abrigo da Lei n.º 35/2023, de 21 de julho (Lei da Saúde Mental, LSM), que revogou a Lei n.º 36/98, de 24 de julho. Aborda os pressupostos, o processo comum e o internamento de urgência, o direito de defesa, a revisão obrigatória e os meios de impugnação.",
+    "descricao_en": "Guides the lawyer and the patient/family through involuntary treatment proceedings (formerly compulsory admission), whether outpatient or inpatient, and the defence of the rights of the person concerned, under Law No. 35/2023 of 21 July (Mental Health Law, LSM), which repealed Law No. 36/98 of 24 July. It addresses the requirements, the ordinary procedure and emergency admission, the right of defence, mandatory review and the means of challenge.",
+    "substituicoes": [
+      {
+        "de": "## Regras obrigatórias\n— Cita os artigos reais da LSM (Lei 36/1998 com alterações).\n— Distingue internamento compulsivo (arts. 12.º e ss. LSM) de internamento voluntário (art. 8.º LSM) e de situações de urgência (art. 22.º LSM).\n— Destaca sempre os direitos processuais do internado: direito a advogado (art. 13.º LSM), audição pelo tribunal (art. 17.º LSM), revisão periódica (art. 25.º LSM).\n\n## Framework — 5 Etapas:\n\n### ETAPA 1 — PRESSUPOSTOS DO INTERNAMENTO COMPULSIVO\nApresenta em <pressupostos>:\n- Pressupostos legais (art. 12.º LSM): portador de anomalia psíquica grave + recusa tratamento voluntário + perigo para si ou terceiros (não basta a doença isolada)\n- Legitimidade para requerer: representante legal, cônjuge, parentes até 4.º grau, Ministério Público, médico psiquiatra (art. 13.º LSM)\n- Procedimento: requerimento ao tribunal da comarca da residência do doente; MP pode agir oficiosamente\n\n### ETAPA 2 — PROCESSO JUDICIAL\nApresenta em <processo_judicial>:\n- Autuação pelo tribunal; nomeação de defensor ao doente se não tiver (art. 17.º LSM)\n- Exame médico obrigatório por dois psiquiatras (art. 17.º LSM)\n- Audição do doente pelo juiz\n- Decisão: internamento por prazo inicial de 30 dias (prorrogável — art. 25.º LSM)\n- Recurso para o tribunal da relação (art. 24.º LSM)\n\n### ETAPA 3 — PEÇA PROCESSUAL\nRedige a peça indicada nos dados do caso:\n- Requerimento de internamento compulsivo (arts. 12.º e 13.º LSM)\n- OU oposição ao internamento / requerimento de alta (art. 25.º, n.º 2, LSM)\n- OU recurso da decisão de prorrogação\n\n### ETAPA 4 — DIREITOS DO INTERNADO\nApresenta em <direitos_internado>:\n- Direito a advogado constituído ou nomeado (art. 13.º, n.º 3, LSM)\n- Direito a ser ouvido pelo juiz (art. 17.º LSM)\n- Direito a revisão periódica da situação (art. 25.º LSM)\n- Proibição de tratamentos sem consentimento (exceto urgência) — art. 5.º Lei 15/2014\n- Proteção contra contenção ilegal — orientações da DGS\n- Queixa ao Provedor de Justiça e ao Comité para a Prevenção da Tortura (CPT, Conselho da Europa)\n\n### ETAPA 5 — CHECKLIST\nApresenta em <checklist>:\n- [ ] Relatório psiquiátrico atual (não superior a 30 dias)\n- [ ] Identificação do requerente e do doente\n- [ ] Documentação de episódios de risco (relatórios policiais, médicos, declarações de terceiros)\n- [ ] Tribunal de comarca competente (residência do doente)\n- [ ] Prazo de recurso: 10 dias (art. 24.º LSM)\n- [ ] [■ VERIFICAR] itens sinalizados",
+        "para": "## Regras obrigatórias\n— A Lei n.º 36/98, de 24 de julho, foi revogada pela Lei n.º 35/2023, de 21 de julho, que aprovou a nova Lei da Saúde Mental (LSM), em vigor desde 20 de agosto de 2023 (arts. 54.º, al. a), e 55.º). Cita só os artigos da Lei 35/2023: o antigo internamento compulsivo é agora o «tratamento involuntário» (arts. 14.º e ss. LSM), em ambulatório ou em internamento.\n— Distingue o processo comum de tratamento involuntário (arts. 15.º a 27.º LSM) do internamento de urgência (arts. 28.º a 33.º LSM) e do tratamento voluntário (no decurso de internamento voluntário, verificada uma situação de perigo, o responsável clínico pode requerer o tratamento involuntário — arts. 16.º, n.º 1, al. f), e 31.º, n.º 3, LSM).\n— Destaca sempre os direitos processuais do requerido: defensor nomeado ou mandatário constituído (arts. 8.º, n.º 3, al. d), e 18.º, n.º 1, LSM), audição pelo juiz (art. 8.º, n.º 3, al. c), LSM), revisão obrigatória decorridos dois meses (art. 25.º, n.º 2, LSM) e recurso para a Relação (art. 35.º LSM).\n\n## Framework — 5 Etapas:\n\n### ETAPA 1 — PRESSUPOSTOS DO TRATAMENTO INVOLUNTÁRIO\nApresenta em <pressupostos>:\n- Pressupostos cumulativos (art. 15.º, n.º 1, LSM): doença mental + recusa do tratamento medicamente prescrito, necessário para prevenir ou eliminar o perigo + perigo para bens jurídicos pessoais ou patrimoniais de terceiros (em razão da doença e da recusa) ou do próprio (quando não tenha o discernimento necessário para avaliar o sentido e alcance do consentimento) + finalidade terapêutica (art. 14.º LSM); não basta a doença isolada\n- Subsidiariedade e proporcionalidade (art. 15.º, n.º 2, LSM): única forma de garantir o tratamento, adequado a prevenir ou eliminar o perigo e proporcional à gravidade da doença, ao grau do perigo e à relevância do bem jurídico; o tratamento decorre em ambulatório, salvo se o internamento for a única forma de o garantir (art. 15.º, n.º 3, LSM)\n- Legitimidade para requerer (art. 16.º, n.º 1, LSM): representante legal do menor; acompanhante do maior, no âmbito das suas atribuições; qualquer pessoa com legitimidade para requerer o acompanhamento de maior (art. 141.º CC); autoridades de saúde; Ministério Público; responsável clínico da unidade, quando o perigo surja no decurso de internamento voluntário. O médico não requer: comunica a situação de perigo à autoridade de saúde (art. 16.º, n.º 2, LSM); o MP e as autoridades de saúde devem requerer quando dela tenham conhecimento (art. 17.º, n.º 2, LSM)\n- Procedimento: requerimento escrito, sem formalidades especiais, instruído sempre que possível com relatórios clínico-psiquiátricos e psicossociais (art. 17.º, n.º 1, LSM), dirigido ao juízo local criminal da área de residência do requerido (ou ao juízo de competência genérica) ou, se estiver preso ou em internamento preventivo ou a cumprir pena ou medida de segurança privativas da liberdade, ao tribunal de execução das penas (art. 34.º, n.º 1, LSM)\n\n### ETAPA 2 — PROCESSO JUDICIAL\nApresenta em <processo_judicial>:\n- Recebido o requerimento, o juiz notifica o requerido dos seus direitos e deveres processuais e nomeia-lhe defensor (cessa se constituir mandatário); o defensor ou mandatário, o familiar mais próximo que com ele conviva ou a pessoa que com ele viva em união de facto, e o MP podem requerer o que tiverem por conveniente em 5 dias (art. 18.º LSM)\n- Avaliação clínico-psiquiátrica obrigatória por dois psiquiatras do serviço local ou regional de saúde mental da área de residência (excecionalmente, do INMLCF), no prazo de 15 dias, com relatório remetido em 7 dias; o juízo técnico-científico fica subtraído à livre apreciação do juiz (arts. 19.º e 20.º LSM)\n- Sessão conjunta, com presença obrigatória do defensor ou mandatário e do MP; decisão de imediato ou em 5 dias; se o requerido aceitar o tratamento, arquivamento (arts. 21.º e 22.º LSM)\n- Decisão fundamentada que, sob pena de nulidade, indica as razões por referência ao art. 15.º e especifica se o tratamento é em ambulatório ou em internamento (art. 23.º LSM). A lei não fixa duração: o tratamento cessa logo que cessem os pressupostos, por alta do diretor clínico ou por decisão judicial (art. 26.º LSM), e a revisão é obrigatória decorridos dois meses sobre o início do tratamento ou sobre a decisão que o tiver mantido (art. 25.º, n.º 2, LSM)\n- Recurso para o Tribunal da Relação, com efeito meramente devolutivo, decidido em 30 dias (art. 35.º LSM); processo urgente (art. 36.º LSM); CPP como legislação subsidiária (art. 37.º LSM)\n- Internamento de urgência (perigo iminente): condução por mandado da autoridade de polícia ou de saúde (ou sem mandado, havendo perigo na demora) ao serviço de urgência hospitalar com psiquiatria; se o internando se opuser ao internamento, comunicação imediata ao tribunal e decisão judicial de manutenção em 48 horas a contar da privação da liberdade; nova avaliação por dois outros psiquiatras em 5 dias e decisão final após sessão conjunta (arts. 28.º a 33.º LSM)\n\n### ETAPA 3 — PEÇA PROCESSUAL\nRedige a peça indicada nos dados do caso:\n- Requerimento de tratamento involuntário (arts. 15.º a 17.º LSM)\n- OU requerimento em defesa do requerido (art. 18.º, n.º 2, LSM) / pedido de revisão ou de cessação do tratamento involuntário (arts. 25.º, n.os 1 e 3, e 26.º LSM)\n- OU recurso da decisão que decretou, manteve ou confirmou o tratamento involuntário (art. 35.º LSM)\n- OU habeas corpus por privação ilegal da liberdade (art. 45.º LSM)\n\n### ETAPA 4 — DIREITOS DO REQUERIDO E DA PESSOA EM TRATAMENTO INVOLUNTÁRIO\nApresenta em <direitos_internado>:\n- Direito a defensor ou mandatário constituído, com quem pode comunicar em privado (art. 8.º, n.º 3, al. d), e n.º 4, al. d), LSM)\n- Direito a ser ouvido pelo juiz sempre que possa ser tomada decisão que o afete pessoalmente, a participar nos atos que lhe digam respeito e a oferecer provas (art. 8.º, n.º 3, als. b), c) e e), LSM)\n- Direito a recorrer e a requerer a revisão da decisão (art. 8.º, n.º 4, als. f) e g), LSM); revisão obrigatória decorridos dois meses (art. 25.º, n.º 2, LSM); direito a indicar pessoa de confiança (art. 9.º, n.os 4 a 6, LSM)\n- Dever de se submeter aos tratamentos medicamente prescritos (art. 8.º, n.º 5, LSM), mas eletroconvulsivoterapia e estimulação magnética transcraniana só nas condições do art. 12.º LSM e intervenções psicocirúrgicas nunca sem consentimento escrito (art. 8.º, n.º 1, al. c), LSM)\n- Medidas coercivas (isolamento, contenção física ou química) só como último recurso, prescritas por médico e registadas no processo clínico (art. 11.º LSM)\n- Reclamação à comissão para o acompanhamento da execução do regime jurídico do tratamento involuntário (arts. 8.º, n.º 4, al. h), 38.º e 39.º, al. c), LSM) e queixa ao Provedor de Justiça; habeas corpus em caso de privação ilegal da liberdade (art. 45.º LSM)\n\n### ETAPA 5 — CHECKLIST\nApresenta em <checklist>:\n- [ ] Relatórios clínico-psiquiátricos e psicossociais disponíveis (art. 17.º, n.º 1, LSM)\n- [ ] Identificação do requerente e do requerido, e título de legitimidade (art. 16.º LSM)\n- [ ] Documentação de episódios de perigo (relatórios policiais, médicos, declarações de terceiros) e das recusas de tratamento\n- [ ] Tribunal competente: juízo local criminal ou de competência genérica da residência do requerido; tribunal de execução das penas se estiver privado da liberdade (art. 34.º LSM)\n- [ ] ⏰ Prazo de recurso: a LSM não o fixa; aplica-se subsidiariamente o CPP — 30 dias (art. 411.º, n.º 1, CPP, ex vi art. 37.º LSM) [■ VERIFICAR: confirmar na jurisprudência das Relações sobre a LSM de 2023]\n- [ ] Data da próxima revisão obrigatória (dois meses — art. 25.º, n.º 2, LSM)\n- [ ] [■ VERIFICAR] itens sinalizados",
+        "motivo": "A Lei 36/98 foi revogada pela Lei 35/2023 (art. 54.º, al. a)); pressupostos, legitimidade, processo, revisão (dois meses, sem prazo inicial de 30 dias), competência e recurso passaram a ser os da nova lei.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=3679A0054&nid=3679&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Situação atual: [a requerer internamento / a impugnar / a requerer alta]",
+        "para": "- Situação atual: [a requerer tratamento involuntário / a impugnar / a requerer revisão ou cessação / internamento de urgência em curso]",
+        "motivo": "Terminologia e meios da Lei 35/2023.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=3679A0025&nid=3679&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Prazo de recurso: a Lei 35/2023 não o fixa; a aplicação subsidiária do art. 411.º CPP (30 dias) resulta do art. 37.º LSM, mas convém confirmar a jurisprudência das Relações e a contagem em processo urgente.",
+      "Confirmar se a Lei 35/2023 sofreu alterações depois da versão consultada (o PGDL indica que ainda não foi alterada).",
+      "Processos pendentes à data da entrada em vigor (20/8/2023): confirmar o regime transitório aplicável.",
+      "A legitimidade para requerer o acompanhamento de maior (art. 141.º CC) depende, em regra, de autorização do beneficiário: verificar o seu alcance para efeitos do art. 16.º, n.º 1, al. c), LSM."
+    ],
+    "fontes": [
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3679&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=3679A0015&nid=3679&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=3679A0016&nid=3679&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=3679A0025&nid=3679&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=3679A0035&nid=3679&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=3679A0054&nid=3679&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=199A0411&nid=199&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+    ]
+  },
+  {
+    "codigo": "SAU-034",
+    "veredicto": "corrigida",
+    "resumo": "A ficha apresentava uma «Portaria 196/2014» como regime da telemedicina com requisitos técnicos mínimos; não encontrei esse diploma e não há regime legal específico: os requisitos de encriptação, identificação e registo vêm do CDOM (arts. 46.º a 49.º) e do Alerta de Supervisão da ERS n.º 7/2024. Trocava ainda os artigos da Lei 15/2014 (o consentimento está no art. 3.º, a informação no art. 7.º; o art. 6.º é o sigilo), citava os arts. 38.º e ss. do CDOM (funções diretivas e informação médica) e fundava a conservação do consentimento no art. 17.º RGPD (apagamento). Também qualificava a plataforma como responsável pelo tratamento, em contradição com o DPA da etapa 4.",
+    "descricao": "Analisa o regime jurídico da telemedicina em Portugal, à luz do CDOM (Regulamento n.º 707/2016, arts. 46.º a 49.º), dos arts. 3.º e 7.º da Lei n.º 15/2014, do Alerta de Supervisão da ERS n.º 7/2024 e do RGPD, e redige o contrato de prestação de serviços de telemedicina entre clínica/médico e plataforma ou doente. Aborda responsabilidade, consentimento em contexto digital, conservação de registos clínicos e proteção de dados de saúde.",
+    "descricao_en": "Analyses the legal regime of telemedicine in Portugal, in light of the CDOM (Regulation No. 707/2016, Articles 46 to 49), Articles 3 and 7 of Law No. 15/2014, ERS Supervisory Alert No. 7/2024 and the GDPR, and drafts the telemedicine services agreement between the clinic/doctor and the platform or patient. It addresses liability, consent in a digital context, retention of clinical records and protection of health data.",
+    "substituicoes": [
+      {
+        "de": "— Cita os artigos reais da Portaria 196/2014, Lei 15/2014, CDOM e RGPD.",
+        "para": "— Cita os artigos reais do CDOM (Regulamento n.º 707/2016 — telemedicina nos arts. 46.º a 49.º), da Lei 15/2014 e do RGPD. Não há diploma legal com requisitos técnicos próprios da telemedicina: as orientações do regulador constam do Alerta de Supervisão da ERS n.º 7/2024, de 2 de setembro.",
+        "motivo": "Não encontrei a «Portaria 196/2014» com esse conteúdo; os requisitos atribuídos estão no CDOM e no alerta da ERS.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2649A0046&nid=2649&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "(prestador clínico) da responsabilidade da plataforma tecnológica (responsável pelo tratamento de dados).",
+        "para": "(prestador clínico) da responsabilidade da plataforma tecnológica (em regra, subcontratante da clínica no tratamento de dados — art. 28.º RGPD; só é responsável pelo tratamento se determinar as finalidades e os meios).",
+        "motivo": "A ficha qualifica a plataforma como responsável pelo tratamento, em contradição com o DPA da etapa 4, em que é subcontratante.",
+        "fonte": "https://publications.europa.eu/resource/celex/32016R0679"
+      },
+      {
+        "de": "- Portaria 196/2014: requisitos mínimos para telemedicina (identificação das partes, encriptação, registo da sessão)\n- Lei 15/2014: consentimento informado adaptado ao meio digital (art. 6.º); direito à informação (art. 3.º)\n- CDOM: deveres do médico (arts. 38.º e ss.) — aplicam-se integralmente à teleconsulta",
+        "para": "- Sem regime legal específico da telemedicina [■ VERIFICAR: regulamentação publicada depois de 2024]: a teleconsulta é prestação de cuidados de saúde e o estabelecimento que a presta está sob supervisão da ERS; o Alerta de Supervisão da ERS n.º 7/2024 exige informação adequada e consentimento prévio, privacidade, condições técnicas adequadas, registo no processo clínico, acesso do utente à informação, comprovativo de presença, direito ao acompanhamento e cumprimento dos TMRG\n- Lei 15/2014: consentimento ou recusa livre e esclarecido (art. 3.º) — a lei é neutra quanto ao meio; sigilo (art. 6.º); direito à informação (art. 7.º)\n- CDOM (Regulamento n.º 707/2016): os deveres gerais aplicam-se à teleconsulta; no capítulo da telemedicina (arts. 46.º a 49.º), consulta em condições sobreponíveis à presencial (art. 46.º, n.º 2), esclarecimento e consentimento nos termos dos arts. 20.º a 23.º (art. 47.º, n.º 5), segredo médico com encriptação dos dados identificadores (art. 48.º, n.º 3) e registo na ficha clínica dos métodos de identificação do doente e da informação trocada (art. 49.º)",
+        "motivo": "A «Portaria 196/2014» não foi encontrada; o consentimento está no art. 3.º e a informação no art. 7.º da Lei 15/2014; os arts. 38.º e ss. do CDOM não tratam da telemedicina, que está nos arts. 46.º a 49.º.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2649A0048&nid=2649&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Retenção: obrigação de conservar registo do consentimento (arts. 5.º e 17.º RGPD)",
+        "para": "- Registo: a informação clínica da teleconsulta é registada no processo clínico (art. 49.º CDOM; Alerta de Supervisão da ERS n.º 7/2024, al. d)) e o consentimento prévio deve poder ser demonstrado; o art. 17.º RGPD trata do apagamento e não fundamenta a conservação — sobre a prova do cumprimento, art. 5.º, n.º 2, RGPD",
+        "motivo": "O art. 17.º RGPD é o direito ao apagamento; o dever de registo vem do CDOM e das orientações da ERS.",
+        "fonte": "https://ers.pt/media/kgahrh2u/alerta-supervis%C3%A3o07-2024-teleconsultas.pdf"
+      },
+      {
+        "de": "- [ ] Portaria 196/2014 cumprida (encriptação, identificação, registo)",
+        "para": "- [ ] Arts. 48.º e 49.º do CDOM e Alerta de Supervisão da ERS n.º 7/2024 cumpridos (encriptação, identificação do doente, registo no processo clínico, comprovativo de presença)",
+        "motivo": "Substitui a referência a diploma não encontrado pelas fontes reais.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2649A0049&nid=2649&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Não foi encontrada a «Portaria 196/2014» nem outro diploma com requisitos técnicos próprios da telemedicina; confirmar se entretanto foi publicada regulamentação (ERS, DGS ou Governo).",
+      "Confirmar o regulamento de registo de estabelecimentos na ERS em vigor (o alerta de 2024 remete para o Regulamento da ERS n.º 66/2015 para a definição de unidade de telemedicina).",
+      "Base de licitude do tratamento: além da exceção do art. 9.º, n.º 2, al. h), RGPD, identificar o fundamento do art. 6.º, n.º 1, RGPD.",
+      "Confirmar que o Regulamento de Deontologia Médica n.º 707/2016 continua em vigor sem alterações (o PGDL não regista alterações)."
+    ],
+    "fontes": [
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2649&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2649A0046&nid=2649&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2649A0048&nid=2649&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2649A0049&nid=2649&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2292&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2292A0003&nid=2292&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2292A0007&nid=2292&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://ers.pt/media/kgahrh2u/alerta-supervis%C3%A3o07-2024-teleconsultas.pdf",
+      "https://www.cuatrecasas.com/pt/global/farmaceutico-saude/art/regulamentacao-das-unidades-de-telemedicina-primeiros-passos",
+      "https://publications.europa.eu/resource/celex/32016R0679"
+    ]
+  },
+  {
+    "codigo": "SAU-035",
+    "veredicto": "corrigida",
+    "resumo": "A ficha fundava a responsabilidade e o seguro em artigos da LIC que não tratam disso (art. 4.º é sobre boas práticas clínicas; art. 38.º sobre a base de dados). Desde 5/4/2026 os ensaios clínicos de medicamentos regem-se pelo Regulamento 536/2014 e pela Lei n.º 9/2026, que excluiu esses ensaios da LIC. Atribuía ainda ao art. 76.º do Regulamento a responsabilidade do promotor, quando a norma só obriga os Estados a terem um sistema de indemnização, e invertia o ónus da prova. A Lei 9/2026 (art. 12.º) estabelece responsabilidade solidária e objetiva do promotor e do investigador, seguro obrigatório e presunção de que os danos para a saúde ocorridos durante o ensaio e no ano seguinte foram causados por ele. Corrigi o regime, a ação direta contra o segurador (art. 146.º RJCS) e a descrição.",
+    "descricao": "Analisa o regime jurídico dos ensaios clínicos em Portugal, ao abrigo do Regulamento (UE) n.º 536/2014, da Lei n.º 9/2026, de 6 de março (que o executa e regula os ensaios clínicos de medicamentos), da Lei n.º 21/2014, de 16 de abril (Lei da Investigação Clínica, LIC, aplicável aos demais estudos clínicos), e da Lei n.º 15/2014, e orienta na defesa dos participantes lesados, incluindo o regime de responsabilidade civil e o acesso à indemnização prevista na apólice de seguro obrigatória.",
+    "descricao_en": "Analyses the legal regime of clinical trials in Portugal, under Regulation (EU) No. 536/2014, Law No. 9/2026 of 6 March (which implements it and governs clinical trials of medicinal products), Law No. 21/2014 of 16 April (Clinical Research Law, LIC, applicable to other clinical studies) and Law No. 15/2014, and provides guidance on defending injured participants, including the civil liability regime and access to the compensation provided under the mandatory insurance policy.",
+    "substituicoes": [
+      {
+        "de": "— Cita os artigos reais do Regulamento 536/2014, da LIC e da Lei 15/2014.",
+        "para": "— Cita os artigos reais do Regulamento 536/2014, da Lei n.º 9/2026, de 6 de março, que o executa (em vigor desde 5 de abril de 2026), e da Lei 15/2014. Desde então a LIC (Lei 21/2014) não se aplica aos ensaios clínicos de medicamentos (art. 1.º, n.º 4, al. a), LIC), mantendo-se para os demais estudos clínicos que abrange.",
+        "motivo": "A Lei 9/2026 passou a regular os ensaios clínicos de medicamentos e excluiu-os da LIC.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=4002&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "— Distingue a responsabilidade do promotor (art. 76.º Regulamento 536/2014) da responsabilidade do investigador.",
+        "para": "— O promotor e o investigador respondem solidariamente e independentemente de culpa (art. 12.º, n.º 1, da Lei 9/2026); o art. 76.º do Regulamento 536/2014 só obriga os Estados-Membros a assegurar um sistema de indemnização (seguro, garantia ou acordo equivalente). Distingue esta responsabilidade das responsabilidades disciplinar, contraordenacional ou penal, que se mantêm (art. 12.º, n.º 7, da Lei 9/2026).",
+        "motivo": "O art. 76.º do Regulamento não atribui a responsabilidade ao promotor; a lei nacional torna promotor e investigador solidariamente responsáveis.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=4002A0012&nid=4002&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "— O seguro obrigatório (art. 4.º LIC) cobre os danos causados ao participante, mesmo sem culpa do promotor — destaca este regime.",
+        "para": "— O seguro obrigatório do promotor (art. 12.º, n.º 2, da Lei 9/2026) cobre a responsabilidade civil pelos danos causados ao sujeito do ensaio, mesmo sem culpa — destaca este regime e a possível dispensa nos ensaios com intervenção mínima (art. 12.º, n.º 3).",
+        "motivo": "O art. 4.º da LIC trata das boas práticas clínicas; o seguro está no art. 12.º da Lei 9/2026 (antes, art. 15.º LIC).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=4002A0012&nid=4002&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Regulamento 536/2014 (diretamente aplicável desde 31/01/2022): requisitos de consentimento, proteção do participante, responsabilidade do promotor (art. 76.º)\n- LIC (Lei 21/2014): regime nacional complementar, seguro obrigatório (art. 4.º), responsabilidade civil (art. 38.º)\n- INFARMED: autoridade competente para ensaios clínicos de medicamentos em Portugal\n- CEIC: Comissão de Ética para a Investigação Clínica — parecer obrigatório",
+        "para": "- Regulamento 536/2014 (diretamente aplicável desde 31/01/2022): requisitos de consentimento, proteção do participante, obrigação de os Estados-Membros assegurarem um sistema de indemnização (art. 76.º)\n- Lei n.º 9/2026, de 6 de março (execução do Regulamento; em vigor desde 5/4/2026): proteção dos sujeitos e consentimento (arts. 8.º a 11.º); responsabilidade objetiva e solidária do promotor e do investigador, seguro obrigatório e presunção de causalidade (art. 12.º)\n- LIC (Lei 21/2014): deixou de se aplicar aos ensaios clínicos de medicamentos (art. 1.º, n.º 4, al. a), na redação da Lei 9/2026) e continua a reger os demais estudos clínicos, com regime de responsabilidade equivalente (art. 15.º LIC); danos de ensaios anteriores a 5/4/2026 [■ VERIFICAR: lei aplicável no tempo — art. 15.º LIC na redação anterior]\n- INFARMED: autoridade competente; autoriza o ensaio após avaliação técnico-científica e ética (arts. 2.º, n.º 2, e 4.º, n.º 1, da Lei 9/2026)\n- CEIC: Comissão de Ética para a Investigação Clínica — avalia os aspetos éticos do pedido (art. 4.º, n.os 2 e 3, al. b), da Lei 9/2026)",
+        "motivo": "Os arts. 4.º e 38.º da LIC não tratam de seguro nem de responsabilidade, e a LIC deixou de reger os ensaios de medicamentos; o regime nacional está na Lei 9/2026.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=4002A0004&nid=4002&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Populações vulneráveis: menores, incapazes — regime especial (arts. 31.º e 32.º Regulamento)",
+        "para": "- Populações vulneráveis: menores, incapazes — regime especial (arts. 31.º e 32.º Regulamento; arts. 9.º e 10.º da Lei 9/2026)",
+        "motivo": "A Lei 9/2026 acrescenta regras nacionais para menores e maiores incapazes.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=4002&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Promotor responde pelos danos causados ao participante, com ou sem culpa (art. 76.º Regulamento 536/2014 + art. 38.º LIC — responsabilidade objetiva)\n- Seguro obrigatório: o promotor deve manter apólice que cubra a sua responsabilidade civil; participante tem acesso direto à seguradora\n- Prazo: verificar prazo de prescrição (3 anos — art. 498.º CC)\n- Ónus da prova: participante deve provar o dano e o nexo com o ensaio; o promotor pode ilidir provando força maior ou culpa exclusiva do participante",
+        "para": "- Promotor e investigador respondem solidariamente, independentemente de culpa, pelos danos patrimoniais e não patrimoniais que o ensaio cause ao sujeito do ensaio (art. 12.º, n.º 1, da Lei 9/2026 — responsabilidade objetiva); a avaliação do INFARMED ou da CEIC não exclui nem limita essa responsabilidade (art. 12.º, n.º 6)\n- Seguro obrigatório: o promotor deve contratar seguro que cubra essa responsabilidade (art. 12.º, n.º 2, da Lei 9/2026); sendo seguro obrigatório, o lesado pode exigir a indemnização diretamente ao segurador (art. 146.º, n.º 1, do regime jurídico do contrato de seguro — DL 72/2008)\n- Prazo: verificar prazo de prescrição (3 anos — art. 498.º CC)\n- Ónus da prova: o participante prova o dano; presumem-se causados pelo ensaio os danos para a saúde ocorridos durante o ensaio e no ano seguinte à conclusão da sua participação (art. 12.º, n.º 4, da Lei 9/2026; a CEIC pode fixar prazo superior — n.º 5); a presunção é ilidível mediante prova em contrário (art. 350.º, n.º 2, CC); fora desse período, o participante prova o nexo causal",
+        "motivo": "A lei presume o nexo causal (inversão do ónus) e não prevê a exclusão por força maior; o art. 38.º da LIC não trata de responsabilidade; o direito de ação direta contra o segurador resulta do art. 146.º do RJCS.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=4002A0012&nid=4002&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Fundamento: art. 76.º Regulamento 536/2014 + art. 38.º LIC",
+        "para": "- Fundamento: art. 12.º da Lei 9/2026 (ensaios clínicos de medicamentos) ou art. 15.º LIC (outros estudos clínicos), à luz do art. 76.º do Regulamento 536/2014",
+        "motivo": "Fundamento legal correto da pretensão indemnizatória.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2089A0015&nid=2089&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Nexo temporal com a participação no ensaio: [descrever]",
+        "para": "- Nexo temporal com a participação no ensaio: [descrever, com a data de conclusão da participação — presunção de um ano, art. 12.º, n.º 4, da Lei 9/2026]",
+        "motivo": "A data de conclusão da participação determina se opera a presunção de causalidade.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=4002A0012&nid=4002&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Lei aplicável no tempo: para danos de ensaios iniciados ou concluídos antes de 5/4/2026, confirmar se se aplica o art. 15.º da LIC (redação anterior, de conteúdo equivalente) ou o art. 12.º da Lei 9/2026; a Lei 9/2026 só tem norma transitória sobre taxas (art. 33.º).",
+      "Verificar se a CEIC fixou, para o ensaio concreto, prazo de presunção superior a um ano (art. 12.º, n.º 5, da Lei 9/2026) e se o promotor foi dispensado do seguro específico por se tratar de ensaio com intervenção mínima (art. 12.º, n.º 3).",
+      "Confirmar se a apólice tem franquias ou limites oponíveis ao lesado (art. 147.º do RJCS).",
+      "Prazo de prescrição: confirmar o momento em que o lesado teve conhecimento do direito (art. 498.º, n.º 1, CC), sobretudo em danos de manifestação tardia."
+    ],
+    "fontes": [
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=4002&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://diariodarepublica.pt/dr/detalhe/lei/9-2026-1068062486",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=4002A0004&nid=4002&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=4002A0012&nid=4002&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2089&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2089A0001&nid=2089&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2089A0015&nid=2089&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://publications.europa.eu/resource/celex/32014R0536",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2657A0146&nid=2657&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+    ]
+  },
+  {
+    "codigo": "SAU-037",
+    "veredicto": "corrigida",
+    "resumo": "A ficha fundava sempre a ação nos arts. 483.º/798.º CC e propunha demandar o médico e/ou o hospital num só articulado, sem distinguir o setor público. No SNS aplica-se a Lei 67/2007: a entidade pública responde em exclusivo por culpa leve, o médico só responde (solidariamente) por dolo ou culpa grave, e a ação corre nos tribunais administrativos (art. 4.º, n.º 1, als. f) e g), ETAF). Corrigi as partes, o direito aplicável, os dados a recolher e a descrição do índice. Os «arts. 37.º e ss.» do CDOM tratam da informação de saúde: os deveres de leges artis e atualização estão nos arts. 4.º e 5.º.",
+    "descricao": "Prepara a estratégia jurídica e a petição inicial em casos de erro de diagnóstico médico (diagnóstico errado, diagnóstico tardio, diagnóstico por omissão de exames), com fundamento na violação das leges artis, na Lei n.º 15/2014, no CDOM e, no setor privado, nos arts. 483.º ou 798.º do Código Civil ou, no SNS, na Lei n.º 67/2007, de 31 de dezembro (responsabilidade civil extracontratual do Estado e demais entidades públicas), com ação nos tribunais administrativos. Aborda o nexo de causalidade, a prova pericial e a articulação com a teoria da perda de chance.",
+    "descricao_en": "Prepares the legal strategy and the statement of claim in cases of medical diagnostic error (wrong diagnosis, late diagnosis, diagnosis missed through omission of tests), based on breach of the leges artis, Law No. 15/2014, the CDOM and, in the private sector, Articles 483 or 798 of the Civil Code or, in the National Health Service (SNS), Law No. 67/2007 of 31 December (non-contractual liability of the State and other public entities), with proceedings before the administrative courts. It addresses causation, expert evidence and the interplay with the loss-of-chance doctrine.",
+    "substituicoes": [
+      {
+        "de": "- Artigos do CDOM violados (arts. 37.º e ss. — deveres de competência e atualização)",
+        "para": "- Artigos do CDOM violados (Regulamento n.º 707/2016: art. 4.º, n.os 1 e 8 — leges artis e dever de atualização; art. 5.º — qualidade dos cuidados)",
+        "motivo": "Os arts. 37.º e ss. do CDOM tratam da informação de saúde e das funções diretivas; os deveres de leges artis e atualização estão nos arts. 4.º e 5.º.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2649A0004&nid=2649&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Partes (autor, réu — médico e/ou hospital)",
+        "para": "- Partes: no setor privado, autor contra o médico e/ou a clínica ou hospital (responsabilidade contratual, com presunção de culpa — arts. 798.º e 799.º CC — e/ou extracontratual — art. 483.º CC), nos tribunais judiciais; no SNS (hospital, ULS ou centro de saúde públicos), ação contra a entidade pública nos tribunais administrativos (art. 4.º, n.º 1, als. f) e g), ETAF), ao abrigo da Lei 67/2007: a entidade responde em exclusivo pelos atos praticados com culpa leve (art. 7.º, n.º 1) e o médico só responde, solidariamente com ela, por dolo ou culpa grave (art. 8.º, n.os 1 e 2)",
+        "motivo": "No SNS aplica-se a Lei 67/2007 e a jurisdição administrativa; o médico só é demandável por dolo ou culpa grave.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2073A0008&nid=2073&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Direito (arts. 483.º / 798.º CC; Lei 15/2014; CDOM)",
+        "para": "- Direito (setor privado: arts. 483.º / 798.º e 799.º CC; SNS: Lei 67/2007, arts. 7.º a 10.º, incluindo o funcionamento anormal do serviço — art. 7.º, n.os 3 e 4; em ambos: Lei 15/2014; CDOM)",
+        "motivo": "O regime do setor público é o da Lei 67/2007, não o do Código Civil.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2073A0007&nid=2073&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Hospital / Clínica réu: [nome, NIPC]",
+        "para": "- Hospital / Clínica réu: [nome, NIPC, natureza — SNS / privado / social / convencionado]",
+        "motivo": "A natureza do prestador determina o regime e o tribunal competente.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=418A0004&nid=418&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Prestadores privados convencionados, em PPP ou do setor social: confirmar caso a caso se se aplica a Lei 67/2007 (art. 1.º, n.º 5) e a jurisdição administrativa (art. 4.º, n.º 1, al. h), ETAF).",
+      "Juros: sobre as indemnizações fixadas por atualização à data da decisão (art. 566.º, n.º 2, CC), os juros contam-se em regra da decisão e não da citação [■ VERIFICAR: Acórdão de Uniformização de Jurisprudência do STJ n.º 4/2002].",
+      "Prescrição: 3 anos (art. 498.º CC; no SNS por remissão do art. 5.º da Lei 67/2007); contar do conhecimento do direito, que no erro de diagnóstico pode ser tardio.",
+      "Perda de chance: confirmar a jurisprudência atual do STJ sobre a sua admissibilidade e quantificação na responsabilidade médica."
+    ],
+    "fontes": [
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2073&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2073A0007&nid=2073&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2073A0008&nid=2073&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=418A0004&nid=418&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2649&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2649A0004&nid=2649&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+    ]
+  }
+]

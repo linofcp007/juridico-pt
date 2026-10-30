@@ -1,0 +1,281 @@
+[
+  {
+    "codigo": "FAM-011",
+    "veredicto": "corrigida",
+    "resumo": "A ficha atribuía à Lei n.º 64/2012 alterações à Lei n.º 75/98 (aquela alterou o DL n.º 164/99; a Lei n.º 75/98 foi alterada pelas Leis n.os 66-B/2012, 24/2017 e 71/2018), mandava procurar uma portaria do limite (o limite é 1 IAS por devedor, sem exceder a pensão fixada) e reduzia o requisito económico à «carência do progenitor», quando a lei atende ao rendimento do menor e à capitação do agregado face ao IAS. Pedia ainda ao Fundo os alimentos já em dívida, que este não paga (art. 4.º, n.º 4, do DL n.º 164/99). Corrigiram-se os requisitos, o limite, o endereçamento nos autos de incumprimento, os pedidos e a menção à Lei n.º 24/2017 (cessação aos 18 anos, salvo art. 1905.º, n.º 2, CC).",
+    "substituicoes": [
+      {
+        "de": "nos termos da Lei n.º 75/98, de 19 de Novembro (com as alterações introduzidas pela Lei n.º 64/2012, de 20 de Dezembro), para que o Estado garanta o pagamento dos alimentos em falta ao menor.",
+        "para": "nos termos da Lei n.º 75/98, de 19 de novembro (alterada pelas Leis n.os 66-B/2012, de 31 de dezembro, 24/2017, de 24 de maio, e 71/2018, de 31 de dezembro), para que o Estado assegure, em substituição do devedor, as prestações de alimentos ao menor até ao início do efetivo cumprimento da obrigação (o Fundo não paga as prestações já vencidas: art. 4.º, n.º 4, do Decreto-Lei n.º 164/99).",
+        "motivo": "A Lei n.º 64/2012 alterou o DL n.º 164/99, não a Lei n.º 75/98; e o Fundo não cobre os alimentos já em dívida.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=708&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "(2) incumprimento; (3) menor residente em Portugal; (4) carência económica do progenitor com quem reside o menor.",
+        "para": "(2) as quantias em dívida não foram satisfeitas pelas formas do art. 189.º da OTM, a que corresponde hoje o art. 48.º do RGPTC (desconto no vencimento, salário, pensões ou outros rendimentos); (3) menor residente em território nacional; (4) o menor não tem rendimento ilíquido superior ao IAS nem beneficia, nessa medida, de rendimentos de quem o tem à guarda — o que se afere pela capitação do rendimento do agregado familiar, que não pode ser superior ao IAS (art. 1.º, n.º 1, da Lei n.º 75/98; art. 3.º, n.os 1 e 2, do Decreto-Lei n.º 164/99).",
+        "motivo": "O requisito económico é o rendimento do menor e a capitação do agregado face ao IAS, não a carência do progenitor; o incumprimento afere-se pelos meios de cobrança coerciva da pensão.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=709&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- Foi tentada a execução de alimentos? Com que resultado?",
+        "para": "- Foram acionados os meios do art. 48.º RGPTC (desconto no vencimento, salário, pensões ou outros rendimentos) ou a execução? Com que resultado? (o pedido ao Fundo é deduzido nos respetivos autos de incumprimento: art. 3.º, n.º 1, da Lei n.º 75/98)",
+        "motivo": "O pressuposto legal é a não satisfação pelas formas do antigo art. 189.º da OTM (hoje art. 48.º RGPTC), e o pedido corre nos autos de incumprimento.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=708A0003&nid=708&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Qual é a situação económica do progenitor com quem reside o menor? (carência — requisito)",
+        "para": "- Qual é o rendimento do menor e a capitação do rendimento do agregado familiar em que vive? (requisito: não superior ao IAS — art. 3.º, n.os 1, al. b), e 2, do Decreto-Lei n.º 164/99)",
+        "motivo": "O critério legal é a capitação do rendimento do agregado familiar face ao IAS.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=709&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- Qual é o montante máximo que o FGADM pode garantir? [■ VERIFICAR: valor atual da tabela — atualizado anualmente]",
+        "para": "- Qual é o montante máximo que o FGADM pode garantir? (até 1 IAS por mês, por cada devedor, independentemente do número de filhos menores, e nunca acima da pensão fixada: arts. 2.º, n.º 1, e 4.º-A, n.º 1, da Lei n.º 75/98; o valor do IAS do ano está em `references/valores-2026.md`)",
+        "motivo": "O limite está na própria lei (1 IAS por devedor, sem exceder a pensão fixada); não há tabela própria do Fundo.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=708&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- Lei n.º 64/2012, de 20 de Dezembro (alterações ao regime do FGADM)\n- Decreto-Lei n.º 164/99, de 13 de Maio (regulamentação do FGADM)\n- [■ VERIFICAR: Portaria que fixa o limite máximo mensal garantido pelo FGADM — atualizar com valor vigente em 2025/2026]\n- Arts. 2.003.º ss. CC (obrigação de alimentos)\n- Lei n.º 24/2017 (alteração ao regime — [■ VERIFICAR se relevante])",
+        "para": "- Decreto-Lei n.º 164/99, de 13 de maio (regulamentação do FGADM), alterado pelo Decreto-Lei n.º 70/2010, de 16 de junho, pela Lei n.º 64/2012, de 20 de dezembro, e pelo Decreto-Lei n.º 84/2019, de 28 de junho\n- Limite mensal: 1 IAS por devedor, independentemente do número de filhos menores (art. 2.º, n.º 1, da Lei n.º 75/98; art. 3.º, n.º 5, do Decreto-Lei n.º 164/99), sem exceder a pensão fixada (art. 4.º-A da Lei n.º 75/98); não há portaria própria do Fundo — o IAS é atualizado anualmente e o valor do ano está em `references/valores-2026.md`\n- Arts. 2.003.º ss. CC (obrigação de alimentos)\n- Lei n.º 24/2017, de 24 de maio (deu a redação atual ao art. 1.º da Lei n.º 75/98: as prestações do Fundo cessam quando o menor atinge 18 anos, salvo nos casos e circunstâncias do art. 1905.º, n.º 2, CC — pensão fixada na menoridade que se mantém até aos 25 anos)",
+        "motivo": "A Lei n.º 64/2012 alterou o DL n.º 164/99; o limite é o IAS fixado na lei; a Lei n.º 24/2017 é relevante (prestações para lá dos 18 anos).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=709&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- Requisito 4: Carência económica do progenitor residente — rendimentos, despesas, situação laboral",
+        "para": "- Requisito 4: Rendimento do menor e capitação do rendimento do agregado familiar não superiores ao IAS — rendimentos ilíquidos e composição do agregado (art. 3.º, n.os 1 a 4, do Decreto-Lei n.º 164/99)",
+        "motivo": "O requisito legal é a condição de recursos do menor e do agregado, não a carência do progenitor.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=709&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- Limitações: valor máximo garantido pelo FGADM por menor",
+        "para": "- Limitações: valor máximo garantido pelo FGADM — 1 IAS por mês, por cada devedor, independentemente do número de filhos menores, e não superior à pensão fixada; sem prestações já vencidas",
+        "motivo": "O limite é por devedor, não por menor (art. 2.º, n.º 1, da Lei n.º 75/98), e o Fundo não paga prestações vencidas.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=708&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "1. Endereçamento — Tribunal onde foi fixada a pensão",
+        "para": "1. Endereçamento — Tribunal onde foi fixada a pensão, nos respetivos autos de incumprimento (art. 3.º, n.º 1, da Lei n.º 75/98)",
+        "motivo": "O pedido de fixação da prestação a cargo do Estado é deduzido nos autos de incumprimento.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=708A0003&nid=708&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "7. IV — DA CARÊNCIA ECONÓMICA — Rendimentos do requerente, despesas, documentos comprovativos",
+        "para": "7. IV — DA CONDIÇÃO DE RECURSOS — Rendimentos do menor e do agregado familiar, capitação face ao IAS, documentos comprovativos",
+        "motivo": "O requisito legal é a capitação do rendimento do agregado familiar face ao IAS.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=709&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "   a) Intervenção do FGADM para garantia do pagamento dos alimentos em dívida\n   b) Pagamento mensal pelo FGADM até ao limite legal\n   c) Comunicação à Segurança Social para efeitos de sub-rogação",
+        "para": "   a) Fixação do montante que o Estado, através do FGADM, deve prestar em substituição do devedor (art. 3.º, n.º 1, da Lei n.º 75/98), sem prejuízo de decisão provisória se a pretensão for justificada e urgente (art. 3.º, n.º 2, da Lei n.º 75/98)\n   b) Pagamento mensal pelo FGADM até ao limite legal (1 IAS por devedor, sem exceder a pensão fixada); o Fundo não paga as prestações já vencidas e começa a pagar no mês seguinte ao da notificação da decisão (art. 4.º, n.º 4, do Decreto-Lei n.º 164/99)\n   c) Notificação da decisão ao IGFSS, I. P., que paga por conta do Fundo; o Fundo fica sub-rogado nos direitos do menor para obter o reembolso (art. 6.º, n.º 3, da Lei n.º 75/98)",
+        "motivo": "O Fundo não garante os alimentos já em dívida; paga a prestação fixada pelo tribunal a partir do mês seguinte ao da notificação; a sub-rogação é legal.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=709A0004&nid=709&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- [ ] Carência económica do progenitor residente demonstrada?",
+        "para": "- [ ] Rendimento do menor e capitação do rendimento do agregado familiar (não superiores ao IAS) demonstrados?",
+        "motivo": "Alinha a validação com o requisito legal.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=709&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- [ ] Limite máximo do FGADM verificado ([■ VERIFICAR: valor atual])?",
+        "para": "- [ ] Limite máximo do FGADM verificado (1 IAS por devedor, sem exceder a pensão fixada; valor do IAS do ano em `references/valores-2026.md`)?",
+        "motivo": "O limite está na lei; o valor do IAS do ano está na referência da casa.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=708&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "**PROGENITOR REQUERENTE (carência económica):**",
+        "para": "**PROGENITOR REQUERENTE (condição de recursos do agregado):**",
+        "motivo": "Alinha a recolha de dados com o requisito legal.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=709&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- Rendimento mensal líquido: [€ — ou \"sem rendimento\"]",
+        "para": "- Rendimentos ilíquidos do agregado familiar e composição do agregado (para a capitação): [€; n.º de elementos — ou \"sem rendimento\"]\n- Rendimentos próprios do menor: [€ — ou \"nenhum\"]",
+        "motivo": "A lei atende ao rendimento ilíquido do menor e à capitação do rendimento do agregado.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=709&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Confirmar se a pensão foi fixada por decisão judicial ou acordo homologado (a lei fala em pessoa «judicialmente obrigada»); se resultar de acordo na conservatória, ver a jurisprudência sobre a admissibilidade.",
+      "A Lei n.º 75/98 e o DL n.º 164/99 ainda remetem para o art. 189.º da OTM; a correspondência com o art. 48.º do RGPTC é a seguida na prática, mas convém citá-la assim.",
+      "Lembrar ao requerente a renovação anual da prova dos pressupostos, sob pena de cessação (art. 3.º, n.º 6, da Lei n.º 75/98), e o dever de comunicar alterações (art. 4.º)."
+    ],
+    "fontes": [
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=708&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=708A0003&nid=708&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=708A0006&nid=708&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=709&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=709A0004&nid=709&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2428A0048&nid=2428&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1905&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+    ]
+  },
+  {
+    "codigo": "FAM-027",
+    "veredicto": "corrigida",
+    "resumo": "A ficha fixava nos 12 anos a audição do menor, quando o RGPTC manda ouvir a criança com capacidade de compreensão, aferida caso a caso pelo juiz (art. 4.º, n.º 1, al. c), e n.º 2). Endereçava a um «Tribunal de Família e Menores» (hoje juízo de família e menores do tribunal da comarca da residência da criança), atribuía aos arts. 1874.º e 1878.º CC um dever de promover a relação com os ascendentes que é do art. 1887.º-A CC, e remetia para os arts. 34.º ss. RGPTC, que regulam as responsabilidades parentais; a providência é a do art. 3.º, al. l), RGPTC. Corrigiram-se estes pontos.",
+    "substituicoes": [
+      {
+        "de": "- O menor tem mais de 12 anos e pode exprimir opinião?",
+        "para": "- A criança tem capacidade de compreensão dos assuntos em discussão, atendendo à idade e maturidade, para ser ouvida? (não há idade mínima fixa: o juiz afere-a caso a caso — art. 4.º, n.º 1, al. c), e n.º 2, RGPTC)",
+        "motivo": "O RGPTC não fixa idade para a audição: depende da capacidade de compreensão, aferida pelo juiz.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2428A0004&nid=2428&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Arts. 1.874.º e 1.878.º CC (deveres dos pais: promover relação normal com outros ascendentes)",
+        "para": "- Arts. 1.874.º e 1.878.º CC (deveres de pais e filhos; conteúdo das responsabilidades parentais) — a proibição de os pais privarem injustificadamente os filhos do convívio com irmãos e ascendentes está no art. 1887.º-A CC",
+        "motivo": "Os arts. 1874.º e 1878.º CC não preveem o dever de promover a relação com os ascendentes; esse limite é o do art. 1887.º-A CC.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1887&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Arts. 34.º ss. RGPTC (processo tutelar cível)",
+        "para": "- Art. 3.º, al. l), RGPTC (a regulação dos convívios da criança com os irmãos e ascendentes é providência tutelar cível) e art. 67.º RGPTC (ação tutelar comum, para as providências sem forma de processo própria) [■ VERIFICAR: forma de processo seguida pelo juízo]",
+        "motivo": "Os arts. 34.º ss. RGPTC regulam o exercício das responsabilidades parentais; a providência relativa aos avós é a do art. 3.º, al. l).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2428&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "1. Endereçamento — Tribunal de Família e Menores",
+        "para": "1. Endereçamento — Juízo de Família e Menores do Tribunal Judicial da Comarca competente, que é o da residência da criança no momento em que o processo é instaurado (art. 9.º, n.º 1, RGPTC) [■ VERIFICAR: juízo com competência em família e menores na comarca]",
+        "motivo": "Os tribunais de família e menores deram lugar aos juízos de família e menores dos tribunais de comarca; a competência territorial é a da residência da criança.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1974A0081&nid=1974&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "   b) Audição do menor (se +12 anos)",
+        "para": "   b) Audição da criança, se tiver capacidade de compreensão dos assuntos em discussão (art. 4.º, n.º 1, al. c), e art. 5.º RGPTC)",
+        "motivo": "A audição não depende de uma idade fixa.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2428A0004&nid=2428&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- [ ] Audição do menor requerida (se +12 anos)?",
+        "para": "- [ ] Audição da criança requerida, se tiver capacidade de compreensão (sem idade mínima fixa)?",
+        "motivo": "A audição não depende de uma idade fixa.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2428A0004&nid=2428&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Tem mais de 12 anos? [sim/não]",
+        "para": "- Idade e maturidade (para aferir a capacidade de ser ouvida): [idade; observações]",
+        "motivo": "A audição não depende de uma idade fixa.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2428A0004&nid=2428&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Confirmar a forma de processo que o juízo adota para a regulação dos convívios com os avós (ação tutelar comum do art. 67.º RGPTC ou tramitação análoga à das responsabilidades parentais).",
+      "Procurar e conferir no dgsi.pt jurisprudência das Relações sobre o ónus de justificar a privação do convívio (art. 1887.º-A CC) antes de a citar."
+    ],
+    "fontes": [
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1887&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2428&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2428A0004&nid=2428&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2428A0067&nid=2428&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1974A0081&nid=1974&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1974A0122&nid=1974&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+    ]
+  },
+  {
+    "codigo": "FAM-031",
+    "veredicto": "corrigida",
+    "resumo": "Os fundamentos citavam mal o Código Civil: o art. 1916.º é o levantamento da inibição (não a inibição em processo-crime), o art. 1917.º trata dos alimentos (não da incapacidade), o art. 1920.º-A é a revogação de providências (não o levantamento) e a inibição de pleno direito do art. 1913.º era omitida. O art. 1918.º CC prevê providências quando não seja caso de inibição, e a inibição parcial está no art. 1915.º, n.º 2, CC e no art. 52.º RGPTC, que também fixa a legitimidade (não o art. 35.º). A CPCJ não requer a inibição: comunica ao Ministério Público. Corrigiram-se os fundamentos, a urgência (art. 57.º RGPTC) e a prejudicialidade (art. 53.º RGPTC).",
+    "substituicoes": [
+      {
+        "de": "— Distingue inibição total (art. 1.915.º, n.º 1 CC) de inibição parcial/limitação (art. 1.918.º CC) — o pedido deve ser proporcional à gravidade dos factos.",
+        "para": "— Distingue a inibição total da inibição parcial — no Código Civil, limitada à representação e administração dos bens dos filhos (art. 1915.º, n.º 2, CC; art. 52.º RGPTC) — e ambas das providências adequadas em caso de perigo quando não seja caso de inibição (art. 1918.º CC) — o pedido deve ser proporcional à gravidade dos factos.",
+        "motivo": "O alcance total ou limitado da inibição está no art. 1915.º, n.º 2, CC; o art. 1918.º CC prevê providências quando não seja caso de inibição.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1915&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Há processo de promoção e proteção já aberto (CPCJ / tribunal)?",
+        "para": "- Há processo de promoção e proteção já aberto (CPCJ / tribunal)? (o pedido de inibição fica prejudicado se nele estiver promovida a medida de confiança com vista à adoção do art. 35.º, n.º 1, al. g), da LPCJP, até decisão desta: art. 53.º RGPTC)",
+        "motivo": "Prejudicialidade expressa no art. 53.º RGPTC.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2428A0057&nid=2428&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Existe urgência que justifique providência cautelar (suspensão provisória do exercício)?",
+        "para": "- Existe urgência que justifique a suspensão do exercício das responsabilidades parentais e o acolhimento da criança, como preliminar ou incidente da ação (art. 57.º RGPTC — exige relatório sumário que mostre a incapacidade manifesta, física ou moral, do requerido), ou outra decisão provisória (art. 28.º RGPTC)?",
+        "motivo": "O RGPTC regula especificamente a suspensão do exercício e o acolhimento como preliminar ou incidente da ação de inibição.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2428A0057&nid=2428&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Art. 1.915.º CC (inibição total das responsabilidades parentais — comportamentos culposos)\n- Art. 1.916.º CC (inibição por decreto do tribunal em processo-crime ou contraordenacional)\n- Art. 1.917.º CC (inibição por declaração de incapacidade)\n- Art. 1.918.º CC (limitação / inibição parcial — medidas de proteção do menor)\n- Art. 1.920.º-A CC (levantamento da inibição — possibilidade de reabilitação)\n- Arts. 4.º e 35.º RGPTC (interesse superior da criança; legitimidade para pedir inibição)",
+        "para": "- Art. 1913.º CC (inibição de pleno direito: condenados definitivamente por crime a que a lei atribua esse efeito; maiores acompanhados, quando a sentença o declare; ausentes, desde a nomeação do curador provisório)\n- Art. 1915.º CC (inibição decretada pelo tribunal, a requerimento do Ministério Público, de qualquer parente do menor ou de quem o tenha à guarda: infração culposa dos deveres para com os filhos, com grave prejuízo destes, ou falta de condições por inexperiência, enfermidade, ausência ou outras razões; inibição total ou limitada à representação e administração dos bens)\n- Art. 1916.º CC (levantamento da inibição quando cessem as causas; pedido pelo Ministério Público a todo o tempo ou por qualquer dos pais passado um ano sobre o trânsito em julgado)\n- Art. 1917.º CC (a inibição não isenta os pais do dever de alimentar o filho)\n- Art. 1918.º CC (providências adequadas em caso de perigo, quando não seja caso de inibição)\n- Arts. 52.º a 59.º RGPTC (processo de inibição e limitações: legitimidade e fundamentos, prejudicialidade, articulados, sentença, suspensão do exercício e acolhimento, outras medidas limitativas, levantamento)\n- Art. 4.º RGPTC (princípios orientadores, incluindo o interesse superior da criança)",
+        "motivo": "Os arts. 1916.º, 1917.º e 1920.º-A CC estavam descritos com conteúdo que não é o seu; faltava o art. 1913.º CC; a legitimidade está no art. 1915.º CC e no art. 52.º RGPTC, não no art. 35.º RGPTC (conferência).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1913&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "2. (se aplicável) Suspensão provisória cautelar do exercício até decisão final",
+        "para": "2. (se aplicável) Suspensão do exercício das responsabilidades parentais e acolhimento da criança, como incidente da ação, até decisão final (art. 57.º RGPTC)",
+        "motivo": "É a medida específica prevista no RGPTC para a ação de inibição.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2428A0057&nid=2428&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Quem pede a inibição: [outro progenitor | Ministério Público | familiar | CPCJ]",
+        "para": "- Quem pede a inibição: [outro progenitor | Ministério Público | familiar | pessoa a cuja guarda a criança esteja, ainda que de facto] (a CPCJ não requer a inibição: comunica os factos ao Ministério Público — art. 69.º da LPCJP)",
+        "motivo": "A legitimidade é do Ministério Público, de familiar ou de quem tenha a guarda; a CPCJ comunica ao Ministério Público.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=545A0069&nid=545&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "A noção de «inibição parcial» do art. 52.º RGPTC é mais ampla na letra do que a inibição limitada aos bens do art. 1915.º, n.º 2, CC; conferir a jurisprudência antes de pedir uma inibição parcial com outro alcance.",
+      "Confirmar se há processo penal com pena acessória de inibição ou proibição do exercício das responsabilidades parentais (art. 1913.º, n.º 1, al. a), CC) antes de propor a ação."
+    ],
+    "fontes": [
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1913&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1915&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1916&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1918&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2428&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2428A0052&nid=2428&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2428A0057&nid=2428&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=545A0069&nid=545&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=545A0035&nid=545&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+    ]
+  },
+  {
+    "codigo": "FAM-034",
+    "veredicto": "corrigida",
+    "resumo": "A ficha resumia o art. 250.º CP como «prisão até 2 anos ou multa», quando o tipo base (incumprimento nos dois meses seguintes ao vencimento, por quem está em condições de cumprir) é punido só com multa até 120 dias; a prisão até dois anos é das formas que põem em perigo as necessidades fundamentais do credor. Apresentava o FGADM como alternativa direta, quando é subsidiário (pressupõe a frustração dos meios do art. 48.º RGPTC e não paga prestações vencidas), e atribuía ao art. 2012.º CC a cessação, que é do art. 2013.º. Corrigiram-se estes pontos, sem tocar nas citações do CPC já corrigidas.",
+    "substituicoes": [
+      {
+        "de": "- Art. 2.012.º CC (variação e cessação da obrigação de alimentos)",
+        "para": "- Art. 2.012.º CC (alteração dos alimentos fixados; a cessação da obrigação consta do art. 2013.º CC)",
+        "motivo": "O art. 2012.º CC trata da alteração; a cessação é do art. 2013.º CC.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2012&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "(processo de execução de alimentos — incidente de incumprimento)",
+        "para": "(execução especial por alimentos; tratando-se de filhos menores, há também o incidente de incumprimento e os meios do art. 48.º RGPTC — desconto no vencimento, salário, pensões ou outros rendimentos)",
+        "motivo": "O incidente de incumprimento e o desconto nos rendimentos são do RGPTC, não da execução especial do CPC.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2428A0048&nid=2428&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Art. 250.º do Código Penal (crime de violação da obrigação de alimentos — pena de prisão até 2 anos ou multa)",
+        "para": "- Art. 250.º do Código Penal (crime de violação da obrigação de alimentos: incumprimento nos dois meses seguintes ao vencimento por quem está em condições de cumprir — multa até 120 dias; prática reiterada — prisão até um ano ou multa até 120 dias; incumprimento que põe em perigo as necessidades fundamentais do credor — prisão até dois anos ou multa até 240 dias; o procedimento depende de queixa e o cumprimento pode levar à dispensa ou extinção da pena)",
+        "motivo": "A prisão até dois anos só cabe nas formas que põem em perigo as necessidades fundamentais (n.os 3 e 4); o tipo base é punido com multa.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=109A0250&nid=109&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Para menores: informar sobre o FGADM como mecanismo alternativo",
+        "para": "- Para menores: informar sobre o FGADM como mecanismo subsidiário — só intervém se a pensão não for satisfeita pelos meios do art. 48.º RGPTC, a pedido nos autos de incumprimento, e não paga as prestações já vencidas (arts. 1.º, n.º 1, e 3.º, n.º 1, da Lei n.º 75/98; art. 4.º, n.º 4, do Decreto-Lei n.º 164/99)",
+        "motivo": "O Fundo é subsidiário e não cobre as prestações vencidas.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=708&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "   - Queixa por crime de violação da obrigação de alimentos (art. 250.º CP)",
+        "para": "   - Queixa por crime de violação da obrigação de alimentos (art. 250.º CP), se o devedor estiver em condições de cumprir",
+        "motivo": "O crime pressupõe que o obrigado esteja em condições de prestar; evita uma ameaça penal sem base.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=109A0250&nid=109&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Ponderar na carta a referência ao crime: a ameaça de queixa deve ser proporcional e verdadeira (o tipo exige que o devedor esteja em condições de pagar).",
+      "Confirmar o prazo de queixa (seis meses a contar do conhecimento do facto e do seu autor, art. 115.º CP) quando a queixa for uma opção real."
+    ],
+    "fontes": [
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=109A0250&nid=109&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=109A0115&nid=109&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2428A0048&nid=2428&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=708&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=709A0004&nid=709&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2012&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+    ]
+  }
+]

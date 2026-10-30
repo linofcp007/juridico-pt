@@ -6,7 +6,8 @@ titulo_en: "Statement of Claim for Mis-Selling of a Complex Financial Product"
 descricao: "Redige petição inicial de ação de responsabilidade civil contra intermediário financeiro por mis-selling de produto financeiro complexo (produto estruturado, fundo de risco, swap, obrigação subordinada), com pedido de indemnização das perdas sofridas, fundamentada no CVM, no regime MiFID transposto e no Código Civil."
 descricao_en: "Drafts the statement of claim in a civil liability action against a financial intermediary for mis-selling a complex financial product (structured product, high-risk fund, swap, subordinated bond), seeking compensation for the losses suffered, based on the CVM (Securities Code), the transposed MiFID regime and the Civil Code."
 ambito: nacional
-estado_citacoes: "conferidas 1 · corrigidas 0 · por conferir 20"
+estado_citacoes: "conferidas 1 · corrigidas 0 · por conferir 26"
+revisao_tecnica: "2026-10-30 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
@@ -14,7 +15,8 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 
 > **Âmbito:** nacional · **Área:** Direito Bancário e dos Mercados · **Código:** BAN-022
 > **EN:** Statement of Claim for Mis-Selling of a Complex Financial Product. Drafts the statement of claim in a civil liability action against a financial intermediary for mis-selling a complex financial product (structured product, high-risk fund, swap, subordinated bond), seeking compensation for the losses suffered, based on the CVM (Securities Code), the transposed MiFID regime and the Civil Code.
-> **Citações:** conferidas 1 · corrigidas 0 · por conferir 20. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 1 · corrigidas 0 · por conferir 26. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-30 — corrigida (9 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
 Redige petição inicial de ação de responsabilidade civil contra intermediário financeiro por mis-selling de produto financeiro complexo (produto estruturado, fundo de risco, swap, obrigação subordinada), com pedido de indemnização das perdas sofridas, fundamentada no CVM, no regime MiFID transposto e no Código Civil.
 
@@ -37,18 +39,20 @@ Em <analise_do_caso>:
 - Qual o dano patrimonial sofrido?
 - Há violação dos deveres de adequação (suitability) ou de informação?
 - Qual o tribunal competente (valor da causa)?
-- Está dentro do prazo de prescrição? [■ VERIFICAR arts. 498.º e 309.º CC]
+- Está dentro do prazo de prescrição? Salvo dolo ou culpa grave, a responsabilidade do intermediário financeiro por negócio em que haja intervindo prescreve em 10 anos (investidor não profissional) ou em 2 anos (investidor profissional ou contraparte elegível), a contar da data em que o cliente teve conhecimento da conclusão do negócio e dos seus termos (art. 324.º, n.º 2, CVM); confrontar com os arts. 498.º e 309.º CC [■ VERIFICAR a redação do art. 324.º aplicável à data do negócio, sobretudo se anterior à Lei n.º 99-A/2021]
 
 ### ETAPA 2 — ANÁLISE JURÍDICA
 Em <fundamentos_juridicos>:
 - CVM:
   - Art. 304.º: princípios gerais dos intermediários financeiros
-  - Art. 304.º-A: categorias de clientes
-  - Art. 304.º-B: responsabilidade civil do intermediário
-  - Art. 321.º ss: avaliação de adequação e apropriação
-  - Art. 323.º: deveres de informação
-  - Art. 325.º-A ss: conflitos de interesses
-- DL n.º 357-A/2007: transposição MiFID
+  - Art. 304.º-A: responsabilidade civil do intermediário (culpa presumida — n.º 2)
+  - Arts. 30.º e 317.º a 317.º-D: categorias de clientes
+  - Arts. 314.º, 314.º-A e 314.º-D: avaliação do caráter adequado da operação (consultoria para investimento e gestão de carteiras: art. 314.º-A)
+  - Art. 312.º ss: deveres de informação
+  - Arts. 309.º a 309.º-C: conflitos de interesses
+  - Art. 324.º, n.º 2: prescrição da responsabilidade do intermediário
+- Lei n.º 35/2018, de 20 de julho: transpôs a Diretiva 2014/65/UE (MiFID II) para o CVM, substituindo o regime do DL n.º 357-A/2007 (MiFID I) [■ VERIFICAR a redação aplicável à data da subscrição]
+- Regulamento Delegado (UE) 2017/565 (diretamente aplicável): arts. 54.º a 56.º — avaliação da adequação
 - Código Civil:
   - Art. 227.º: culpa in contrahendo (negociações pré-contratuais)
   - Art. 483.º: responsabilidade extracontratual
@@ -60,7 +64,7 @@ Em <fundamentos_juridicos>:
 Em <estrategia>:
 - Tese: violação dos deveres de intermediário financeiro → dano → nexo de causalidade
 - Dano: diferença entre valor investido e valor recuperável + rendimento alternativo
-- Presunção de culpa (art. 304.º-B CVM): o intermediário tem de fazer prova de que não houve culpa
+- Presunção de culpa (art. 304.º-A, n.º 2, CVM): o intermediário tem de fazer prova de que não houve culpa; o nexo de causalidade entre a falta de informação e a decisão de investir tem de ser alegado e provado pelo Autor [■ VERIFICAR AUJ do STJ n.º 8/2022]
 - Pedido: condenação no montante investido não recuperado + juros de mora
 
 ### ETAPA 4 — A PETIÇÃO
@@ -97,21 +101,21 @@ AÇÃO DE CONDENAÇÃO
 
 A — DEVERES VIOLADOS
 
-I) Dever de adequação (art. 321.º CVM)
+I) Dever de adequação (arts. 314.º e 314.º-A CVM)
 
-Nos termos do art. 321.º, n.º 1 do CVM: "[transcrição]". A Ré estava obrigada a verificar se o produto era adequado ao perfil do Autor (conhecimento, experiência, situação financeira, objetivos). O produto [demonstra inadequação].
+Nos termos dos arts. 314.º, n.º 1, e 314.º-A, n.os 1 e 3, do CVM: "[transcrição]". A Ré estava obrigada a verificar se o produto era adequado ao perfil do Autor (conhecimentos e experiência e, tendo havido consultoria para investimento, situação financeira, capacidade para suportar perdas, objetivos de investimento e tolerância ao risco), não o podendo recomendar se o considerasse inadequado. O produto [demonstra inadequação].
 
-II) Dever de informação (art. 323.º CVM)
+II) Dever de informação (art. 312.º CVM)
 
-Nos termos do art. 323.º do CVM: "[transcrição]". A Ré omitiu informação essencial sobre [riscos, comissões, falta de garantia de capital] e prestou informação falsa ao afirmar [afirmação enganosa].
+Nos termos do art. 312.º, n.os 1, als. d), e) e h), e 2, do CVM: "[transcrição]". A Ré omitiu informação essencial sobre [riscos, comissões, falta de garantia de capital] e prestou informação falsa ao afirmar [afirmação enganosa].
 
 B — RESPONSABILIDADE CIVIL
 
-Nos termos do art. 304.º-B do CVM: "[transcrição]". Presume-se a culpa do intermediário financeiro que viola deveres de conduta.
+Nos termos do art. 304.º-A do CVM: "[transcrição]". A culpa do intermediário financeiro presume-se quando o dano seja causado no âmbito de relações contratuais ou pré-contratuais e, em qualquer caso, quando seja originado pela violação de deveres de informação (n.º 2).
 
 Os requisitos da responsabilidade civil estão preenchidos:
-- Facto ilícito: violação dos deveres dos arts. 321.º e 323.º CVM
-- Culpa: presumida (art. 304.º-B CVM)
+- Facto ilícito: violação dos deveres dos arts. 312.º, 314.º e 314.º-A CVM
+- Culpa: presumida (art. 304.º-A, n.º 2, CVM)
 - Dano: €[valor]
 - Nexo de causalidade: se tivesse sido adequadamente informado/avaliado, o Autor não teria subscrito o produto
 
@@ -141,12 +145,12 @@ Em <checklist_validacao>:
 - [ ] Partes identificadas (incluindo registo CMVM da Ré)
 - [ ] Factos numerados e cronológicos
 - [ ] Deveres violados (suitability + informação) claramente expostos
-- [ ] Presunção de culpa (art. 304.º-B CVM) invocada
+- [ ] Presunção de culpa (art. 304.º-A, n.º 2, CVM) invocada
 - [ ] Dano calculado (perda + rendimento alternativo)
 - [ ] Nexo de causalidade demonstrado
 - [ ] Esgotamento de vias extrajudiciais referenciado
 - [ ] Pedidos discriminados
-- [ ] Prescrição verificada [■ VERIFICAR]
+- [ ] Prescrição verificada (art. 324.º, n.º 2, CVM) [■ VERIFICAR]
 - [ ] Pontos [■ VERIFICAR] sinalizados
 - [ ] Disclaimer incluído
 
@@ -188,24 +192,30 @@ Em <checklist_validacao>:
 
 | Citação | Estado | Nota |
 |---|---|---|
+| art. 324.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 324.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 324.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | arts. 498.º e 309.º CC | conferida (epígrafe) — Prescrição |  |
 | Art. 304.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | Art. 304.º-A | por conferir [■ VERIFICAR] | diploma não identificado |
-| Art. 304.º-B | por conferir [■ VERIFICAR] | diploma não identificado |
-| Art. 321.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| Art. 323.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| Art. 325.º-A | por conferir [■ VERIFICAR] | diploma não identificado |
+| Arts. 30.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| Arts. 314.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 314.º-A | por conferir [■ VERIFICAR] | diploma não identificado |
+| Art. 312.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| Arts. 309.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| Art. 324.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| arts. 54.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | Art. 227.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | Art. 483.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | Art. 562.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | Art. 798.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | arts. 552.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| art. 304.º-B | por conferir [■ VERIFICAR] | diploma não identificado |
-| art. 304.º-B | por conferir [■ VERIFICAR] | diploma não identificado |
-| art. 304.º-B | por conferir [■ VERIFICAR] | diploma não identificado |
-| art. 304.º-B | por conferir [■ VERIFICAR] | diploma não identificado |
-| art. 321.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| art. 321.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| art. 323.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| art. 323.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| arts. 321.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 304.º-A | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 304.º-A | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 304.º-A | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 304.º-A | por conferir [■ VERIFICAR] | diploma não identificado |
+| arts. 314.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| arts. 314.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 312.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 312.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| arts. 312.º | por conferir [■ VERIFICAR] | diploma não identificado |

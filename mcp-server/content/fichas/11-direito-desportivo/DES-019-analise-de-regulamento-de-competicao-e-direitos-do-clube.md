@@ -6,7 +6,8 @@ titulo_en: "Analysis of Competition Regulations and Club Rights"
 descricao: "Analisa um regulamento de competição desportiva para identificar os direitos e obrigações dos clubes participantes, as cláusulas potencialmente ilegais ou desproporcionadas, os mecanismos de resolução de litígios previstos, os direitos de transmissão e receitas, e as condições de descida, exclusão ou não participação, com recomendações de negociação ou impugnação."
 descricao_en: "Analyses sports competition regulations to identify the rights and obligations of participating clubs, potentially unlawful or disproportionate clauses, the dispute resolution mechanisms provided for, broadcasting rights and revenues, and the conditions for relegation, exclusion or non-participation, with recommendations for negotiation or challenge."
 ambito: nacional
-estado_citacoes: "conferidas 0 · corrigidas 0 · por conferir 2"
+estado_citacoes: "conferidas 1 · corrigidas 0 · por conferir 7"
+revisao_tecnica: "2026-10-28 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
@@ -14,7 +15,8 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 
 > **Âmbito:** nacional · **Área:** Direito Desportivo · **Código:** DES-019
 > **EN:** Analysis of Competition Regulations and Club Rights. Analyses sports competition regulations to identify the rights and obligations of participating clubs, potentially unlawful or disproportionate clauses, the dispute resolution mechanisms provided for, broadcasting rights and revenues, and the conditions for relegation, exclusion or non-participation, with recommendations for negotiation or challenge.
-> **Citações:** conferidas 0 · corrigidas 0 · por conferir 2. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 1 · corrigidas 0 · por conferir 7. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-28 — corrigida (4 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
 Analisa um regulamento de competição desportiva para identificar os direitos e obrigações dos clubes participantes, as cláusulas potencialmente ilegais ou desproporcionadas, os mecanismos de resolução de litígios previstos, os direitos de transmissão e receitas, e as condições de descida, exclusão ou não participação, com recomendações de negociação ou impugnação.
 
@@ -41,12 +43,12 @@ Em <analise_inicial>:
 
 ### ETAPA 2 — ANÁLISE JURÍDICA
 Em <fundamentos_juridicos>:
-- Lei n.º 99/2021 (Lei de Bases): âmbito da competência das federações e ligas
+- Lei n.º 5/2007, de 16 de janeiro (Lei de Bases da Atividade Física e do Desporto): federações com utilidade pública desportiva e respetivos poderes públicos (arts. 14.º e 19.º) e ligas profissionais, a quem cabe organizar e regulamentar as competições profissionais e aprovar o regulamento de competição (arts. 22.º a 24.º) [■ VERIFICAR: redação em vigor]
 - Lei n.º 54/2017 (LCTD): direitos e obrigações dos clubes como entidades empregadoras
 - Lei n.º 74/2013 (TAD): resolução de litígios emergentes de regulamentos
 - Código Civil: arts. 280.º a 294.º — nulidade de cláusulas contrárias à lei e à ordem pública
 - Lei das Cláusulas Contratuais Gerais (DL n.º 446/85) [■ VERIFICAR: aplicabilidade a regulamentos de competição]
-- Direito da concorrência (Regulamento UE 2022/1925 ou lei nacional): [■ VERIFICAR se é aplicável à organização da competição]
+- Direito da concorrência: arts. 101.º e 102.º TFUE e arts. 9.º e 11.º da Lei n.º 19/2012, de 8 de maio (regime jurídico da concorrência) [■ VERIFICAR: aplicação às regras de organização da competição no caso concreto]
 
 ### ETAPA 3 — CONSTRUÇÃO
 Em <estrategia_analise>:
@@ -106,8 +108,8 @@ Solicitante: [clube]
 **F. Resolução de Litígios**
 8. [Analisar: foro previsto — TAD? Arbitragem privada? Tribunais? Prazos?]
    - Cláusula de arbitragem: [identificar — é vinculativa? Cobre todos os litígios?]
-   - Prazo de recurso: [quantos dias após a decisão?]
-   - [■ VERIFICAR: a cláusula que exclui o recurso para o TAD é válida? Cf. art. 4.º Lei 74/2013]
+   - Prazo de recurso: [quantos dias após a decisão? Para o TAD, 10 dias a contar da notificação — art. 54.º, n.º 2, da Lei do TAD]
+   - [■ VERIFICAR: a cláusula que exclui o recurso para o TAD é válida? Cf. art. 4.º da Lei do TAD (anexo à Lei n.º 74/2013): arbitragem necessária dos litígios emergentes dos atos e omissões das federações e ligas no exercício dos poderes de regulamentação, organização, direção e disciplina, salvo as questões emergentes da aplicação das normas técnicas e disciplinares diretamente respeitantes à prática da própria competição (n.º 6)]
 
 **IV. PONTOS CRÍTICOS PRIORITÁRIOS**
 9. Resumo dos pontos mais problemáticos (por ordem de prioridade):
@@ -122,7 +124,7 @@ Solicitante: [clube]
 10. Antes de aderir / para a próxima época:
     a) [Negociar cláusula X — fundamento e proposta alternativa]
     b) [Impugnar cláusula Y se aprovada sem acordo]
-    c) [Verificar se o regulamento está em conformidade com a lei de bases — art. X Lei 99/2021]
+    c) [Verificar se o regulamento está em conformidade com a lei de bases — arts. 22.º a 24.º da Lei n.º 5/2007]
     d) [Documentar a adesão como reserva de direitos sobre cláusulas contestadas]
 
 **DISCLAIMER**
@@ -163,5 +165,11 @@ Em <checklist_validacao>:
 
 | Citação | Estado | Nota |
 |---|---|---|
+| arts. 14.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| arts. 22.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| arts. 22.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | arts. 280.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| arts. 101.º e 102.º TFUE | conferida (epígrafe) — São incompatíveis com o mercado interno e proibidos todos os acordos entre empresas, todas |  |
+| arts. 9.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 54.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 4.º | por conferir [■ VERIFICAR] | diploma não identificado |

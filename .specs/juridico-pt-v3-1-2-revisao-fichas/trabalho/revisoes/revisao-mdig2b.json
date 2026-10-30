@@ -1,0 +1,249 @@
+[
+ {
+  "codigo": "DIG-049",
+  "veredicto": "corrigida",
+  "resumo": "A ficha descrevia a aprovação das BCRs como cooperação do balcão único (art. 60.º RGPD), quando o art. 47.º, n.º 1, remete para o procedimento de controlo da coerência, com parecer obrigatório do CEPD (art. 64.º, n.º 1, al. f)); citava o WP256, já substituído pelas Recomendações 1/2022, e atribuía a informação aos titulares à al. c) do n.º 1 do art. 47.º, quando está na al. g) do n.º 2. Retirou-se o limiar inventado de «≥10 entidades», esclareceu-se que os 12-24 meses são estimativa de prática, corrigiu-se a descrição das SCC (admitem várias partes e cláusula de adesão) e alinhou-se a manutenção com o regime de atualização anual.",
+  "substituicoes": [
+   {
+    "de": "— O processo é demorado (12-24 meses) — antecipa no planeamento; usa SCCs como instrumento transitório.",
+    "para": "— O processo é demorado e não tem prazo legal (a estimativa habitual de 12-24 meses é de prática, não de lei) — antecipa no planeamento; usa SCCs como instrumento transitório.",
+    "motivo": "O RGPD não fixa prazo para a aprovação das BCRs; só o parecer do CEPD tem prazo (art. 64.º, n.º 3).",
+    "fonte": "https://publications.europa.eu/resource/celex/32016R0679"
+   },
+   {
+    "de": "  - SCCs: mais rápido; um contrato por par + TIA por país",
+    "para": "  - SCCs: mais rápido; contrato entre exportador e importador, que pode ter várias partes e admitir a adesão de novas entidades (cláusula 7 das SCC da Decisão de Execução (UE) 2021/914) + TIA por país",
+    "motivo": "As SCC de 2021 não exigem um contrato por cada par de entidades: admitem várias partes e cláusula de adesão facultativa.",
+    "fonte": "https://publications.europa.eu/resource/celex/32021D0914"
+   },
+   {
+    "de": "- Recomendação: BCRs para grupos com ≥10 entidades em países terceiros com transferências sistemáticas",
+    "para": "- Recomendação: não há limiar legal de dimensão do grupo; as BCRs compensam sobretudo quando há transferências intragrupo sistemáticas e estáveis para vários países terceiros, ponderando o custo e a duração do processo face às SCCs",
+    "motivo": "O limiar de 10 entidades não consta do RGPD nem das orientações do CEPD.",
+    "fonte": "https://publications.europa.eu/resource/celex/32016R0679"
+   },
+   {
+    "de": "### ETAPA 2 — CONTEÚDO MÍNIMO (art. 47.º, n.º 2 RGPD + WP256)",
+    "para": "### ETAPA 2 — CONTEÚDO MÍNIMO (art. 47.º, n.º 2 RGPD + Recomendações 1/2022 do CEPD, que substituíram o WP256 rev.01)",
+    "motivo": "O WP256 rev.01 foi revogado e substituído pelas Recomendações 1/2022 do CEPD (versão final de 20/6/2023).",
+    "fonte": "https://www.edpb.europa.eu/system/files/2023-06/edpb_recommendations_20221_bcr-c_v2_en.pdf"
+   },
+   {
+    "de": "- Cooperação art. 60.º RGPD: APD líder coopera com APDs de todos os EM com entidades do grupo",
+    "para": "- Procedimento de controlo da coerência (arts. 47.º, n.º 1, e 63.º RGPD), não o balcão único do art. 60.º: a autoridade principal para as BCRs (BCR Lead) analisa o pedido com as autoridades interessadas e submete o projeto de decisão a parecer do CEPD (art. 64.º, n.º 1, al. f) RGPD), adotado em 8 semanas a contar de o processo estar completo, prorrogáveis por mais 6 (art. 64.º, n.º 3 RGPD); só depois aprova as BCRs",
+    "motivo": "A aprovação das BCRs segue o procedimento de controlo da coerência com parecer obrigatório do CEPD, não a cooperação do art. 60.º.",
+    "fonte": "https://publications.europa.eu/resource/celex/32016R0679"
+   },
+   {
+    "de": "- Requisitos WP257 + obrigações art. 28.º RGPD",
+    "para": "- Requisitos do WP257 rev.01 (ainda o referencial aplicado nos pareceres do CEPD em outubro de 2026; as Recomendações 1/2026 do CEPD sobre BCR de subcontratantes estiveram em consulta pública até 2/3/2026 [■ VERIFICAR: adoção da versão final e regime transitório]) + obrigações art. 28.º RGPD",
+    "motivo": "O WP257 rev.01 continua a ser aplicado, mas está em curso a sua substituição pelas Recomendações 1/2026.",
+    "fonte": "https://www.edpb.europa.eu/system/files/2026-10/edpb_opinion_262026_snowflake_bcr-p_en.pdf"
+   },
+   {
+    "de": "- Notificar APD de alterações significativas (novas entidades, países, tipos de dados)",
+    "para": "- Comunicar previamente às autoridades, através da autoridade principal, as alterações que possam reduzir o nível de proteção ou afetar significativamente as BCRs; as restantes alterações (incluindo novas entidades) entram na atualização anual (art. 47.º, n.º 2, al. k) RGPD; Recomendações 1/2022, secção 8.1)",
+    "motivo": "As Recomendações 1/2022 distinguem a comunicação prévia das alterações que afetem a proteção e a atualização anual das restantes, incluindo a lista de membros.",
+    "fonte": "https://www.edpb.europa.eu/system/files/2023-06/edpb_recommendations_20221_bcr-c_v2_en.pdf"
+   },
+   {
+    "de": "- Publicação dos elementos essenciais (art. 47.º, n.º 1, al. c) RGPD)",
+    "para": "- Informação aos titulares sobre as BCRs, em especial sobre os princípios, os direitos e a responsabilidade (art. 47.º, n.º 2, al. g) RGPD), com publicação das partes obrigatórias e das versões atualizadas",
+    "motivo": "A al. c) do n.º 1 do art. 47.º remete para os requisitos do n.º 2; a informação aos titulares está na al. g) do n.º 2.",
+    "fonte": "https://publications.europa.eu/resource/celex/32016R0679"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar se o CEPD já adotou a versão final das Recomendações 1/2026 (BCR de subcontratantes) e o prazo de adaptação das BCR-P existentes.",
+   "Confirmar com a autoridade pretendida os critérios de escolha da autoridade principal (WP263 rev.01) e a duração atual do procedimento.",
+   "A aprovação das BCRs só cobre transferências para países sem decisão de adequação (Recomendações 1/2022, ponto 11): verificar os destinos do grupo."
+  ],
+  "fontes": [
+   "https://publications.europa.eu/resource/celex/32016R0679",
+   "https://www.edpb.europa.eu/system/files/2023-06/edpb_recommendations_20221_bcr-c_v2_en.pdf",
+   "https://www.edpb.europa.eu/public-consultations/recommendations-12026-on-the-application-for-approval-and-on-the-elements-and_en",
+   "https://www.edpb.europa.eu/system/files/2026-10/edpb_opinion_262026_snowflake_bcr-p_en.pdf",
+   "https://publications.europa.eu/resource/celex/32021D0914"
+  ]
+ },
+ {
+  "codigo": "DIG-053",
+  "veredicto": "corrigida",
+  "resumo": "A ficha citava o art. 4.º da Lei 41/2004 (inviolabilidade das comunicações) para o consentimento dos cookies, que está no art. 5.º; dispensava de consentimento os analíticos «anonimizados» e os funcionais «não identificativos», o que a lei não prevê; admitia o interesse legítimo para aceder à localização do terminal; atribuía às Orientações CEPD 04/2021 (códigos de conduta para transferências) a matéria da localização; dava o Consent Mode v2 como obrigação legal; e mandava carregar o pixel da Meta antes do consentimento. Corrigiram-se estes pontos com base na Lei 41/2004 republicada, nas Orientações CEPD 05/2020 e 2/2023, e corrigiu-se a descrição do índice, que identificava mal as orientações do CEPD.",
+  "descricao": "Analisa os requisitos de conformidade para o tratamento de dados de localização de dispositivos e de rastreio de utilizadores (cookies, device fingerprinting, SDK móvel) ao abrigo da Lei n.º 41/2004 (transposição da Diretiva ePrivacy em Portugal), do RGPD, e das orientações do CEPD sobre o consentimento (Orientações 05/2020) e sobre o âmbito técnico do art. 5.º, n.º 3, da Diretiva ePrivacy (Orientações 2/2023), com foco no requisito de consentimento prévio e informado.",
+  "descricao_en": "Analyses the compliance requirements for processing device location data and tracking users (cookies, device fingerprinting, mobile SDKs) under Law No. 41/2004 (Portugal's transposition of the ePrivacy Directive), the GDPR, and EDPB guidance on consent (Guidelines 05/2020) and on the technical scope of Article 5(3) of the ePrivacy Directive (Guidelines 2/2023), focusing on the requirement of prior informed consent.",
+  "substituicoes": [
+   {
+    "de": "  - **Funcionais:** preferências de idioma, acessibilidade → isentos de consentimento se não identificativos",
+    "para": "  - **Funcionais:** preferências de idioma, acessibilidade → isentos de consentimento só se estritamente necessários a um serviço expressamente pedido pelo utilizador (art. 5.º, n.º 2, al. b) Lei 41/2004); caso contrário, consentimento necessário",
+    "motivo": "A dispensa de consentimento depende da necessidade estrita para o serviço pedido, não de o cookie ser ou não identificativo.",
+    "fonte": "https://diariodarepublica.pt/redirect/LinkFicheiroAntigo.aspx?conteudoId=174793"
+   },
+   {
+    "de": "  - **Analíticos:** Google Analytics, Matomo → consentimento necessário (salvo anonimização efetiva)",
+    "para": "  - **Analíticos:** Google Analytics, Matomo → consentimento necessário (a Lei 41/2004 não isenta a medição de audiência; anonimizar os dados depois da recolha não dispensa o consentimento para o armazenamento ou o acesso no terminal)",
+    "motivo": "O art. 5.º, n.º 2, da Lei 41/2004 só isenta a transmissão da comunicação e o estritamente necessário ao serviço pedido.",
+    "fonte": "https://diariodarepublica.pt/redirect/LinkFicheiroAntigo.aspx?conteudoId=174793"
+   },
+   {
+    "de": "### ETAPA 2 — VALIDADE DO CONSENTIMENTO (art. 4.º Lei 41/2004 + art. 7.º RGPD)",
+    "para": "### ETAPA 2 — VALIDADE DO CONSENTIMENTO (art. 5.º, n.º 1 Lei 41/2004 + art. 7.º RGPD)",
+    "motivo": "O consentimento para armazenar ou aceder a informação no terminal está no art. 5.º; o art. 4.º trata da inviolabilidade das comunicações.",
+    "fonte": "https://diariodarepublica.pt/redirect/LinkFicheiroAntigo.aspx?conteudoId=174793"
+   },
+   {
+    "de": "### ETAPA 3 — DADOS DE LOCALIZAÇÃO (Orientações CEPD 04/2021)",
+    "para": "### ETAPA 3 — DADOS DE LOCALIZAÇÃO (arts. 5.º e 7.º Lei 41/2004 + RGPD)",
+    "motivo": "As Orientações CEPD 04/2021 tratam de códigos de conduta para transferências, não de dados de localização.",
+    "fonte": "https://www.edpb.europa.eu/our-work-tools/our-documents/guidelines/guidelines-042021-codes-conduct-tools-transfers_en"
+   },
+   {
+    "de": "- Base jurídica: consentimento (art. 7.º RGPD + opt-in explícito no dispositivo) OU interesse legítimo (uso muito restrito para localização precisa)",
+    "para": "- Base jurídica: o acesso à localização guardada ou gerada no terminal (p. ex., GPS lido por app ou SDK e enviado para fora do dispositivo) exige consentimento prévio (art. 5.º, n.º 1 Lei 41/2004), salvo se estritamente necessário ao serviço expressamente pedido pelo utilizador, como a navegação (art. 5.º, n.º 2, al. b) Lei 41/2004); o interesse legítimo não dispensa nem substitui este consentimento. O tratamento posterior tem ainda de ter fundamento de licitude no RGPD (art. 6.º, n.º 1 RGPD)\n- Empresas que oferecem redes ou serviços de comunicações eletrónicas: os dados de localização que não sejam dados de tráfego só podem ser tratados anonimizados ou, para serviços de valor acrescentado, com consentimento prévio e expresso (art. 7.º, n.os 1 e 3 Lei 41/2004)",
+    "motivo": "A Lei 41/2004 exige consentimento para o acesso ao terminal e, para os operadores, anonimização ou consentimento para a localização; o interesse legítimo não serve.",
+    "fonte": "https://diariodarepublica.pt/redirect/LinkFicheiroAntigo.aspx?conteudoId=174793"
+   },
+   {
+    "de": "- Partilha com terceiros (SDKs de publicidade): cada SDK é um responsável separado → consentimento deve ser individual por SDK",
+    "para": "- Partilha com terceiros (SDKs de publicidade): o fornecedor de cada SDK pode ser responsável autónomo, responsável conjunto (art. 26.º RGPD) ou subcontratante, consoante os factos → o consentimento tem de identificar todos os responsáveis que nele se baseiam e ser granular por finalidade",
+    "motivo": "A qualificação do fornecedor do SDK depende dos factos; o CEPD exige que sejam identificados todos os responsáveis que se baseiam no consentimento.",
+    "fonte": "https://www.edpb.europa.eu/system/files/documents/files/file1/edpb_guidelines_202005_consent_en.pdf"
+   },
+   {
+    "de": "- Modo de consentimento (Consent Mode v2): obrigatório na UE desde março 2024",
+    "para": "- Modo de consentimento (Consent Mode v2): exigido pela Google, ao abrigo da sua política de consentimento dos utilizadores da UE, para manter a medição e a personalização de anúncios no tráfego do EEE desde março de 2024 — é exigência contratual da Google, não obrigação legal, e não substitui o consentimento",
+    "motivo": "Nenhuma norma da UE impõe o Consent Mode; é uma condição da Google para utilizar os seus serviços de publicidade no EEE.",
+    "fonte": "https://support.google.com/analytics/answer/14275483?hl=en"
+   },
+   {
+    "de": "- Modo de consentimento limitado: ativar para carregar pixel sem cookies de rastreio antes do consentimento",
+    "para": "- Não carregar o pixel antes do consentimento: o pixel de rastreio cai no âmbito do art. 5.º, n.º 3, da Diretiva ePrivacy (art. 5.º Lei 41/2004) mesmo sem cookies (Orientações CEPD 2/2023) [■ VERIFICAR: opções de consentimento que a Meta disponibiliza para o pixel]",
+    "motivo": "O CEPD considera que o pixel de rastreio implica armazenamento ou acesso no terminal, pelo que precisa de consentimento prévio.",
+    "fonte": "https://www.edpb.europa.eu/system/files/2024-10/edpb_guidelines_202302_technical_scope_art_53_eprivacydirective_v2_en_0.pdf"
+   },
+   {
+    "de": "**Server-side tracking:** pode reduzir dependência de cookies de terceiros mas exige DPIA e avaliação de base jurídica própria",
+    "para": "**Server-side tracking:** pode reduzir a dependência de cookies de terceiros, mas não afasta o consentimento quando há armazenamento ou acesso no terminal (Orientações CEPD 2/2023); exige avaliação de base jurídica própria e DPIA se o tratamento for suscetível de implicar risco elevado (art. 35.º RGPD)",
+    "motivo": "A DPIA só é obrigatória em caso de risco elevado; o rastreio do lado do servidor não afasta, por si, o art. 5.º, n.º 3, da Diretiva ePrivacy.",
+    "fonte": "https://www.edpb.europa.eu/system/files/2024-10/edpb_guidelines_202302_technical_scope_art_53_eprivacydirective_v2_en_0.pdf"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar no Diário da República que os arts. 5.º e 7.º da Lei 41/2004 não foram alterados depois da Lei 16/2022 (que só mudou o art. 7.º, n.º 2).",
+   "Verificar se a CNPD emitiu orientações sobre cookies analíticos ou de medição de audiência.",
+   "As configurações da Google (Consent Mode) e da Meta (pixel) são políticas das plataformas e mudam com frequência; confirmar a versão atual.",
+   "A revalidação a 12 meses e a CMP certificada são boas práticas ou exigências de plataformas, não da lei."
+  ],
+  "fontes": [
+   "https://diariodarepublica.pt/redirect/LinkFicheiroAntigo.aspx?conteudoId=174793",
+   "https://diariodarepublica.pt/redirect/LinkFicheiroAntigo.aspx?conteudoId=187481298",
+   "https://www.edpb.europa.eu/system/files/2024-10/edpb_guidelines_202302_technical_scope_art_53_eprivacydirective_v2_en_0.pdf",
+   "https://www.edpb.europa.eu/system/files/documents/files/file1/edpb_guidelines_202005_consent_en.pdf",
+   "https://www.edpb.europa.eu/our-work-tools/our-documents/guidelines/guidelines-042021-codes-conduct-tools-transfers_en",
+   "https://www.edpb.europa.eu/our-work-tools/our-documents/guidelines/guidelines-042020-use-location-data-and-contact-tracing_en",
+   "https://support.google.com/google-ads/answer/14625550?hl=en",
+   "https://support.google.com/analytics/answer/14275483?hl=en",
+   "https://publications.europa.eu/resource/celex/32016R0679"
+  ]
+ },
+ {
+  "codigo": "DIG-056",
+  "veredicto": "corrigida",
+  "resumo": "A ficha definia como responsáveis conjuntos entidades que determinam «finalidades distintas» para os mesmos dados, o que caracteriza responsáveis autónomos; atribuía ao art. 26.º, n.º 1, o direito de os titulares exercerem os direitos perante qualquer responsável, que está no n.º 3; e afirmava uma «sanção solidária» perante a CNPD, quando a solidariedade do art. 82.º, n.º 4, é civil e as coimas do art. 83.º são aplicadas a cada responsável. Corrigiram-se estes pontos, afinou-se a cláusula de responsabilidade e regresso pelo art. 82.º, n.os 4 e 5, e corrigiu-se a descrição do índice.",
+  "descricao": "Elabora um acordo de responsáveis conjuntos pelo tratamento de dados pessoais nos termos do artigo 26.º do RGPD, determinando quando duas ou mais entidades são responsáveis conjuntas, qual o conteúdo mínimo obrigatório do acordo, como deve ser disponibilizado aos titulares, e a responsabilidade solidária perante os titulares (as coimas são aplicadas a cada responsável pela sua própria infração).",
+  "descricao_en": "Prepares a joint controller agreement for the processing of personal data under Article 26 of the GDPR, determining when two or more entities are joint controllers, the mandatory minimum content of the agreement, how it must be made available to data subjects, and joint and several liability towards data subjects (fines are imposed on each controller for its own infringement).",
+  "substituicoes": [
+   {
+    "de": "- **Responsável conjunto (art. 26.º):** ambas as entidades determinam conjuntamente finalidades E meios; ou cada uma determina finalidades distintas para os mesmos dados",
+    "para": "- **Responsável conjunto (art. 26.º, n.º 1 RGPD):** as entidades participam conjuntamente na determinação das finalidades E dos meios, por decisão comum ou por decisões convergentes que se complementam e são necessárias ao tratamento; as finalidades podem não ser idênticas, mas têm de estar estreitamente ligadas ou ser complementares (Orientações CEPD 07/2020). Se cada entidade prossegue finalidades próprias e independentes sobre os mesmos dados, são responsáveis autónomos, não conjuntos",
+    "motivo": "Finalidades distintas e independentes dão responsáveis autónomos; a corresponsabilidade exige participação conjunta ou decisões convergentes.",
+    "fonte": "https://www.edpb.europa.eu/system/files/2023-10/EDPB_guidelines_202007_controllerprocessor_final_en.pdf"
+   },
+   {
+    "de": "Nos termos do artigo 26.º, n.º 1 RGPD, os titulares podem exercer os seus direitos junto de qualquer das Partes. O ponto de contacto único",
+    "para": "Nos termos do artigo 26.º, n.º 3 RGPD, os titulares podem exercer os seus direitos junto de qualquer das Partes, independentemente dos termos do presente Acordo. O ponto de contacto único, designado nos termos do artigo 26.º, n.º 1 RGPD,",
+    "motivo": "O direito de exercer os direitos perante cada responsável está no n.º 3; o n.º 1 só prevê a designação de um ponto de contacto.",
+    "fonte": "https://publications.europa.eu/resource/celex/32016R0679"
+   },
+   {
+    "de": "4.1. Qualquer das Partes pode ser responsabilizada perante os titulares por incumprimento do RGPD na totalidade (art. 82.º, n.º 4 RGPD).\n4.2. Caso uma das Partes pague indemnização relativa a tratamento da responsabilidade da outra, tem direito de regresso no montante correspondente.",
+    "para": "4.1. Qualquer das Partes pode ser responsabilizada perante os titulares pela totalidade dos danos causados pelo tratamento conjunto que viole o RGPD (art. 82.º, n.º 4 RGPD).\n4.2. A Parte que tenha pago a indemnização integral tem o direito de reclamar à outra a parte da indemnização correspondente à respetiva parte de responsabilidade pelo dano (art. 82.º, n.º 5 RGPD).",
+    "motivo": "A solidariedade respeita à totalidade dos danos e o regresso é proporcional à parte de responsabilidade de cada um (art. 82.º, n.os 4 e 5).",
+    "fonte": "https://publications.europa.eu/resource/celex/32016R0679"
+   },
+   {
+    "de": "- Risco de sanção solidária: qualquer parte responde pela totalidade perante a CNPD",
+    "para": "- Risco de coima: o RGPD não prevê responsabilidade solidária pela coima; as coimas do art. 83.º RGPD são aplicadas a cada responsável pela sua própria infração, ponderando o seu grau de responsabilidade (art. 83.º, n.º 2, al. d) RGPD). A solidariedade do art. 82.º, n.º 4 RGPD é civil, perante os titulares. A falta do acordo exigido pelo art. 26.º é, ela própria, infração punível (art. 83.º, n.º 4, al. a) RGPD)",
+    "motivo": "A responsabilidade solidária do RGPD é só pela indemnização aos titulares; a coima é individual.",
+    "fonte": "https://publications.europa.eu/resource/celex/32016R0679"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar a jurisprudência do TJUE sobre coimas a responsáveis conjuntos e responsabilidade conjunta sem acordo formal (p. ex., acórdão de 5/12/2023, C-683/21) antes de a citar.",
+   "Confirmar, caso a caso, que os factos são de responsabilidade conjunta e não de responsáveis autónomos ou de subcontratação (Orientações CEPD 07/2020).",
+   "No quadro da Cláusula 2.ª, a repartição interna não afasta as obrigações próprias de cada responsável perante a autoridade de controlo."
+  ],
+  "fontes": [
+   "https://publications.europa.eu/resource/celex/32016R0679",
+   "https://www.edpb.europa.eu/system/files/2023-10/EDPB_guidelines_202007_controllerprocessor_final_en.pdf"
+  ]
+ },
+ {
+  "codigo": "DIG-057",
+  "veredicto": "corrigida",
+  "resumo": "O calendário estava desatualizado e errado: o Reg. (UE) 2026/1744 (Omnibus Digital, em vigor desde 27/7/2026) adiou o alto risco do Anexo III para 2/12/2027 e o do Anexo I para 2/8/2028, e a ficha chamava «Anexo II» aos produtos regulados. Corrigiram-se ainda a avaliação da conformidade (o organismo notificado não é sempre obrigatório na biometria: art. 43.º, n.º 1), a norma do registo dos deployers públicos (art. 49.º, n.º 3, e não n.º 2), o registo nacional do Anexo III, ponto 2, a atribuição da DPIA ao deployer, a referência a um domínio não confirmado para a base de dados da UE e a definição de GPAI. A designação da autoridade portuguesa continua por publicar e ficou com [■ VERIFICAR].",
+  "descricao": "Estrutura o registo de um sistema de inteligência artificial de alto risco na base de dados da UE ao abrigo dos artigos 49.º e 71.º do AI Act (Regulamento UE 2024/1689), a documentação e a avaliação da conformidade a preparar, a Declaração UE de Conformidade prevista no artigo 47.º do AI Act para sistemas de alto risco do Anexo III, e a autoridade nacional competente em Portugal (designação a confirmar).",
+  "descricao_en": "Structures the registration of a high-risk artificial intelligence system in the EU database under Articles 49 and 71 of the AI Act (Regulation (EU) 2024/1689), the documentation and conformity assessment to prepare, the EU Declaration of Conformity under Article 47 of the AI Act for Annex III high-risk systems, and the national competent authority in Portugal (designation to be confirmed).",
+  "substituicoes": [
+   {
+    "de": "- 2 agosto 2025: obrigações para GPAI (modelos de linguagem de propósito geral)\n- 2 agosto 2026: obrigações para sistemas de alto risco (Anexo III) em vigor\n- 2 agosto 2027: sistemas de alto risco Anexo II (dispositivos médicos, etc.)",
+    "para": "- 2 agosto 2025: obrigações para GPAI (modelos de IA de finalidade geral)\n- 2 dezembro 2027: obrigações para sistemas de alto risco do Anexo III (art. 113.º AI Act, na redação do Reg. (UE) 2026/1744 — Omnibus Digital, em vigor desde 27/7/2026; a data inicial era 2 agosto 2026)\n- 2 agosto 2028: sistemas de alto risco do Anexo I (produtos regulados: dispositivos médicos, etc.), na mesma redação",
+    "motivo": "O Reg. (UE) 2026/1744 alterou o art. 113.º; os produtos regulados constam do Anexo I, não do Anexo II; GPAI não se limita a modelos de linguagem.",
+    "fonte": "https://publications.europa.eu/resource/celex/32026R1744"
+   },
+   {
+    "de": "4. **DPIA integrada (art. 26.º, n.º 9 AI Act + art. 35.º RGPD)**",
+    "para": "4. **DPIA a cargo do deployer, que usa as informações fornecidas pelo provider nos termos do art. 13.º AI Act (art. 26.º, n.º 9 AI Act + art. 35.º RGPD)**",
+    "motivo": "O art. 26.º, n.º 9, é uma obrigação do responsável pela implantação, não do provider.",
+    "fonte": "https://publications.europa.eu/resource/celex/32024R1689"
+   },
+   {
+    "de": "- Avaliação de conformidade: art. 43.º AI Act — autoevaluação ou organismo notificado\n- Sistemas de auto-avaliação: a maioria dos sistemas Anexo III admite auto-avaliação pelo provider\n- Exceções (organismo notificado obrigatório): sistemas de identificação biométrica, sistemas emocionais",
+    "para": "- Avaliação de conformidade: art. 43.º AI Act — controlo interno (anexo VI) ou procedimento com organismo notificado (anexo VII)\n- Anexo III, pontos 2 a 8: controlo interno obrigatório pelo provider, sem organismo notificado (art. 43.º, n.º 2 AI Act)\n- Anexo III, ponto 1 (biometria, incluindo reconhecimento de emoções): se o provider aplicou normas harmonizadas ou especificações comuns, escolhe entre controlo interno e organismo notificado; o organismo notificado só é obrigatório nos casos do art. 43.º, n.º 1, segundo parágrafo (p. ex., normas inexistentes, não aplicadas ou aplicadas só em parte)\n- Anexo I, secção A (produtos regulados): segue-se a avaliação da conformidade prevista na legislação setorial (art. 43.º, n.º 3 AI Act)",
+    "motivo": "Pelo art. 43.º, n.º 1, na biometria o organismo notificado não é sempre obrigatório; os pontos 2 a 8 do Anexo III seguem obrigatoriamente o controlo interno.",
+    "fonte": "https://publications.europa.eu/resource/celex/32024R1689"
+   },
+   {
+    "de": "- Base de dados: eu-aidb.eu ou portal European AI Office [■ VERIFICAR: URL oficial]",
+    "para": "- Base de dados: a base de dados da UE criada e mantida pela Comissão, em colaboração com os Estados-Membros (art. 71.º AI Act) [■ VERIFICAR: endereço oficial de acesso; não usar domínios não confirmados]",
+    "motivo": "O domínio indicado não foi confirmado como oficial; o art. 71.º atribui a base de dados à Comissão.",
+    "fonte": "https://publications.europa.eu/resource/celex/32024R1689"
+   },
+   {
+    "de": "- Obrigação: providers de sistemas de alto risco registam o sistema antes de colocação no mercado\n- Deployers de entidades públicas: registo na mesma base de dados (art. 49.º, n.º 2 AI Act)",
+    "para": "- Obrigação: providers (ou mandatários) de sistemas de alto risco do Anexo III registam-se e registam o sistema antes da colocação no mercado ou em serviço (art. 49.º, n.º 1 AI Act); os do Anexo III, ponto 2 (infraestruturas críticas), são registados a nível nacional (art. 49.º, n.º 5 AI Act); regista-se também o sistema que o provider concluiu não ser de alto risco ao abrigo do art. 6.º, n.º 3 (art. 49.º, n.º 2 AI Act)\n- Deployers que sejam autoridades públicas ou pessoas que atuem em seu nome: registam-se, selecionam o sistema e registam a sua utilização na mesma base de dados (art. 49.º, n.º 3 AI Act)",
+    "motivo": "O registo dos deployers públicos está no n.º 3 do art. 49.º; o n.º 2 trata dos sistemas do art. 6.º, n.º 3; o Anexo III, ponto 2, tem registo nacional.",
+    "fonte": "https://publications.europa.eu/resource/celex/32024R1689"
+   },
+   {
+    "de": "- Designação da autoridade nacional competente ao abrigo do art. 70.º AI Act em Portugal: [■ VERIFICAR: decreto-lei ou portaria de designação em PT]",
+    "para": "- Designação da autoridade nacional competente ao abrigo do art. 70.º AI Act em Portugal: [■ VERIFICAR: diploma de designação em PT — o Governo anunciou em 19/9/2025 a intenção de designar a ANACOM como autoridade de fiscalização do mercado e ponto de contacto único, mas a designação não estava publicada em outubro de 2026]",
+    "motivo": "O prazo de 2/8/2025 do art. 70.º, n.º 2, passou sem designação publicada; só há o anúncio do Governo.",
+    "fonte": "https://eco.sapo.pt/2025/09/19/anacom-quer-regras-claras-para-implementar-ia-e-promocao-de-ambientes-de-teste/"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar no Diário da República se já foi publicado o diploma que designa a autoridade de fiscalização do mercado e o ponto de contacto único em Portugal (art. 70.º AI Act).",
+   "O AI Act não prevê uma notificação geral do sistema à autoridade nacional: prevê o registo na base de dados da UE (registo nacional para o Anexo III, ponto 2) e a comunicação de incidentes graves às autoridades de fiscalização do mercado (art. 73.º, prazo máximo de 15 dias).",
+   "O Reg. (UE) 2026/1744 alterou outras normas (p. ex., art. 4.º, art. 43.º, n.º 3, e regime das PME e pequenas empresas de média capitalização): rever o texto consolidado antes de usar a ficha.",
+   "Para o Anexo III, ponto 1, confirmar se há normas harmonizadas publicadas, o que determina a necessidade de organismo notificado.",
+   "Ponderar a avaliação de impacto sobre os direitos fundamentais (art. 27.º AI Act) para os deployers abrangidos."
+  ],
+  "fontes": [
+   "https://publications.europa.eu/resource/celex/32024R1689",
+   "https://publications.europa.eu/resource/celex/32026R1744",
+   "https://eco.sapo.pt/2025/09/19/anacom-quer-regras-claras-para-implementar-ia-e-promocao-de-ambientes-de-teste/",
+   "https://eco.sapo.pt/2025/08/25/governo-falha-prazo-para-designar-regulador-da-inteligencia-artificial/"
+  ]
+ }
+]

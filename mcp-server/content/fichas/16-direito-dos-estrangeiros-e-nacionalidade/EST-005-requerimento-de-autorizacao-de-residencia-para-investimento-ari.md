@@ -6,7 +6,8 @@ titulo_en: "Application for a Residence Permit for Investment (ARI / Golden Visa
 descricao: "Gera um requerimento de Autorização de Residência para Investimento (ARI), conhecida como Golden Visa, fundamentado no artigo 90.º-A da Lei n.º 23/2007 e nas portarias regulamentares aplicáveis, identificando a via de investimento utilizada, os requisitos de manutenção e a documentação exigida pela AIMA."
 descricao_en: "Generates an application for a Residence Permit for Investment (ARI), known as the Golden Visa, grounded in Article 90-A of Law No. 23/2007 and the applicable implementing ministerial orders, identifying the investment route used, the maintenance requirements and the documentation required by AIMA."
 ambito: nacional
-estado_citacoes: "conferidas 0 · corrigidas 0 · por conferir 9"
+estado_citacoes: "conferidas 0 · corrigidas 0 · por conferir 19"
+revisao_tecnica: "2026-10-30 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
@@ -14,7 +15,8 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 
 > **Âmbito:** nacional · **Área:** Direito dos Estrangeiros e Nacionalidade · **Código:** EST-005
 > **EN:** Application for a Residence Permit for Investment (ARI / Golden Visa). Generates an application for a Residence Permit for Investment (ARI), known as the Golden Visa, grounded in Article 90-A of Law No. 23/2007 and the applicable implementing ministerial orders, identifying the investment route used, the maintenance requirements and the documentation required by AIMA.
-> **Citações:** conferidas 0 · corrigidas 0 · por conferir 9. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 0 · corrigidas 0 · por conferir 19. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-30 — corrigida (7 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
 Gera um requerimento de Autorização de Residência para Investimento (ARI), conhecida como Golden Visa, fundamentado no artigo 90.º-A da Lei n.º 23/2007 e nas portarias regulamentares aplicáveis, identificando a via de investimento utilizada, os requisitos de manutenção e a documentação exigida pela AIMA.
 
@@ -25,10 +27,10 @@ Ficha de trabalho para preparar este documento. As regras da casa prevalecem sob
 ## Regras obrigatórias
 - NUNCA inventes montantes de investimento ou categorias não previstas na lei
 - Assinala sempre [■ VERIFICAR: portaria/montante atual] onde os valores possam ter sido atualizados
-- A aquisição de imóveis residenciais DEIXOU de ser via elegível para a ARI após a Lei n.º 56/2023 — não incluir como opção sem confirmar o regime transitório aplicável
+- A aquisição de imóveis DEIXOU de ser via elegível para a ARI após a Lei n.º 56/2023, e as vias que se mantêm não se podem destinar, direta ou indiretamente, ao investimento imobiliário (art. 3.º, n.º 5, da Lei n.º 23/2007) — não incluir como opção sem confirmar o regime transitório aplicável
 - Usa português europeu rigoroso — sem brasileirismos
-- Inclui sempre referência ao requisito de permanência mínima em Portugal (7 dias/ano)
-- Aborda o acesso à nacionalidade portuguesa após 5 anos de ARI
+- Inclui sempre referência ao requisito de permanência mínima em Portugal (7 dias no 1.º ano e 14 dias em cada período subsequente de 2 anos — art. 65.º-C do Decreto Regulamentar n.º 84/2007)
+- Aborda o acesso à nacionalidade portuguesa após 7 anos (nacionais de países de língua oficial portuguesa e cidadãos da UE) ou 10 anos (restantes) de residência legal — art. 6.º, n.º 1, alínea b), da Lei n.º 37/81, na redação da Lei Orgânica n.º 1/2026
 
 ---
 
@@ -36,7 +38,7 @@ Ficha de trabalho para preparar este documento. As regras da casa prevalecem sob
 
 ### ETAPA 1 — PROBLEMATIZAÇÃO (Análise do Caso)
 Apresente dentro de um bloco <analise_do_caso>:
-- Via de investimento utilizada ou pretendida (fundos qualificados, criação de emprego, doação cultural, doação científica, etc.)
+- Via de investimento utilizada ou pretendida (art. 3.º, n.º 1, alínea d), da Lei n.º 23/2007: criação de 10 postos de trabalho; 500 000 € em investigação científica; 250 000 € na produção artística ou no património cultural; 500 000 € em organismos de investimento coletivo não imobiliários; 500 000 € na constituição ou reforço de capital de sociedade com criação ou manutenção de postos de trabalho)
 - Montante do investimento e cumprimento dos limiares legais
 - Manutenção do investimento durante o período de validade da ARI
 - Situação migratória atual do requerente
@@ -46,12 +48,13 @@ Apresente dentro de um bloco <analise_do_caso>:
 
 ### ETAPA 2 — ANÁLISE JURÍDICA (Fundamentação)
 Apresente dentro de um bloco <fundamentos_juridicos>:
-- Art. 90.º-A da Lei n.º 23/2007, na redação da Lei n.º 56/2023 — vias de investimento elegíveis
-- Portaria n.º [■ VERIFICAR: número e data da portaria regulamentar em vigor] — montantes mínimos
-- Requisito de manutenção do investimento (art. 90.º-A, n.º 3)
-- Requisito de permanência mínima em território português
+- Art. 90.º-A da Lei n.º 23/2007 — condições de concessão e renovação da ARI (por períodos de dois anos)
+- Art. 3.º, n.º 1, alínea d), e n.ºs 2 a 5, da Lei n.º 23/2007, na redação da Lei n.º 56/2023 — vias de investimento elegíveis e montantes mínimos (redução de 20 % nas subalíneas ii), v) e vi) em territórios de baixa densidade, definidos na Portaria n.º 208/2017)
+- Decreto Regulamentar n.º 84/2007, arts. 65.º-A a 65.º-E — requisitos, prova do investimento e prova para a renovação
+- Requisito de manutenção do investimento por um período mínimo de cinco anos (art. 3.º, n.º 1, alínea d)) e respetiva prova na renovação (art. 90.º-A, n.º 2)
+- Requisito de permanência mínima em território português (art. 65.º-C do Decreto Regulamentar n.º 84/2007)
 - Art. 98.º e ss. da Lei n.º 23/2007 — reagrupamento familiar ao abrigo da ARI
-- Art. 6.º da Lei n.º 37/81 (Lei da Nacionalidade) — acesso à naturalização após 5 anos de residência legal
+- Art. 6.º, n.º 1, alínea b), da Lei n.º 37/81 (Lei da Nacionalidade), na redação da Lei Orgânica n.º 1/2026 — naturalização após 7 anos de residência legal (nacionais de países de língua oficial portuguesa e cidadãos da UE) ou 10 anos (restantes), contados nos termos do art. 15.º
 - Regulamento (UE) 2016/679 (RGPD) — se houver transferência de dados entre países
 
 ### ETAPA 3 — CONSTRUÇÃO ARGUMENTATIVA
@@ -116,9 +119,9 @@ Requer-se a concessão de Autorização de Residência para Investimento, com va
 ### ETAPA 5 — FORMULAÇÃO FINAL (Validação)
 Apresente dentro de um bloco <checklist_validacao>:
 - [ ] Via de investimento correta e elegível ao abrigo do art. 90.º-A vigente
-- [ ] Montante de investimento igual ou superior ao limiar legal (confirmar portaria atual)
+- [ ] Montante de investimento igual ou superior ao limiar legal (art. 3.º, n.º 1, alínea d), da Lei n.º 23/2007)
 - [ ] Manutenção do investimento durante o prazo mínimo verificada
-- [ ] Requisito de permanência mínima (7 dias/ano ou 14 dias/2 anos) cumprido
+- [ ] Requisito de permanência mínima (7 dias no 1.º ano; 14 dias em cada período subsequente de 2 anos) cumprido
 - [ ] Ausência de antecedentes criminais confirmada
 - [ ] Ausência de dívidas à AT e SS documentada
 - [ ] NIF português obtido
@@ -142,7 +145,7 @@ Apresente dentro de um bloco <checklist_validacao>:
 - Contacto: [email e telefone]
 
 **VIA DE INVESTIMENTO:**
-- Tipo: [fundo de capital de risco / fundo de investimento alternativo / criação de emprego / doação cultural / doação científica]
+- Tipo: [criação de postos de trabalho / investigação científica / produção artística ou património cultural / organismo de investimento coletivo não imobiliário / constituição ou reforço de capital de sociedade com postos de trabalho]
 - Montante investido (€): [valor]
 - Entidade gestora/beneficiária: [nome e NIF/NIPC]
 - Data de realização do investimento: [dd/mm/aaaa]
@@ -163,12 +166,22 @@ Apresente dentro de um bloco <checklist_validacao>:
 
 | Citação | Estado | Nota |
 |---|---|---|
+| art. 3.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 3.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 3.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 3.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 65.º-C | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 65.º-C | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 6.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | Art. 90.º-A | por conferir [■ VERIFICAR] | diploma não identificado |
 | Art. 90.º-A | por conferir [■ VERIFICAR] | diploma não identificado |
+| Art. 3.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| arts. 65.º-A | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 90.º-A | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 90.º-A | por conferir [■ VERIFICAR] | diploma não identificado |
 | Art. 98.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | Art. 6.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 15.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | artigo 90.º-A | por conferir [■ VERIFICAR] | diploma não identificado |
 | artigo 90.º-A | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 98.º | por conferir [■ VERIFICAR] | diploma não identificado |

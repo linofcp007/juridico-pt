@@ -6,7 +6,8 @@ titulo_en: "Environmental Legal Compliance Checklist for an M&A Transaction with
 descricao: "Elabora checklist de due diligence jurídico-ambiental a realizar na aquisição de empresa ou ativo industrial, verificando licenças ambientais, histórico de infrações, passivos ambientais, obrigações de monitorização, conformidade CELE, gestão de resíduos e obrigações ESG, ao abrigo da legislação ambiental portuguesa e europeia aplicável ao setor do target."
 descricao_en: "Drafts an environmental legal due diligence checklist for the acquisition of an industrial company or asset, checking environmental licences, offence history, environmental liabilities, monitoring obligations, CELE compliance, waste management and ESG obligations, under the Portuguese and EU environmental legislation applicable to the target's sector."
 ambito: nacional
-estado_citacoes: "conferidas 1 · corrigidas 0 · por conferir 2"
+estado_citacoes: "conferidas 1 · corrigidas 0 · por conferir 12"
+revisao_tecnica: "2026-10-28 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
@@ -14,7 +15,8 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 
 > **Âmbito:** nacional · **Área:** Direito do Ambiente e Energia · **Código:** AMB-059
 > **EN:** Environmental Legal Compliance Checklist for an M&A Transaction with an Industrial Target. Drafts an environmental legal due diligence checklist for the acquisition of an industrial company or asset, checking environmental licences, offence history, environmental liabilities, monitoring obligations, CELE compliance, waste management and ESG obligations, under the Portuguese and EU environmental legislation applicable to the target's sector.
-> **Citações:** conferidas 1 · corrigidas 0 · por conferir 2. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 1 · corrigidas 0 · por conferir 12. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-28 — corrigida (10 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
 Elabora checklist de due diligence jurídico-ambiental a realizar na aquisição de empresa ou ativo industrial, verificando licenças ambientais, histórico de infrações, passivos ambientais, obrigações de monitorização, conformidade CELE, gestão de resíduos e obrigações ESG, ao abrigo da legislação ambiental portuguesa e europeia aplicável ao setor do target.
 
@@ -38,10 +40,10 @@ Dentro de <analise_da_situacao>:
 
 ### ETAPA 2 — ANÁLISE JURÍDICA
 Dentro de <fundamentos_juridicos>:
-- Transmissão de responsabilidade ambiental na M&A: art. 20.º DL 147/2008 (RRA), princípio do poluidor-pagador
-- Licenças ambientais: intransmissibilidade em regra; notificação obrigatória à APA/CCDR na mudança de operador
-- CELE: transferência de autorização de emissão de GEE na mudança de operador (art. [■ VERIFICAR] DL 38/2013)
-- Responsabilidade ambiental histórica: prescrição (arts. 47.º e ss. LQCA) vs. imprescritibilidade de danos ecológicos
+- Responsabilidade ambiental na M&A (DL 147/2008 — RRA; princípio do poluidor-pagador): o diploma não regula a transmissão do passivo, que se reparte no SPA; relevam a responsabilidade solidária dos diretores, gerentes ou administradores e a extensão à sociedade-mãe ou dominante em caso de utilização abusiva da personalidade jurídica ou fraude à lei (art. 3.º), as causas de exclusão da obrigação de pagamento dos custos (art. 20.º) e a garantia financeira obrigatória (art. 22.º)
+- Licenças e títulos ambientais: em regra transmissíveis, mas só por requerimento, comunicação prévia ou autorização e averbamento — licença ambiental do REI (art. 20.º do DL 127/2013); TURH (art. 72.º da Lei 58/2005, na redação do DL 11/2023): mera comunicação prévia, com 10 dias de antecedência, nos recursos hídricos particulares e autorização nos do domínio público, exigida também na transmissão de participações sociais que assegurem o domínio da sociedade titular, sob pena de nulidade; confirmar o regime de cada título inscrito no TUA [■ VERIFICAR]
+- CELE: atualização do título de emissão de gases com efeito de estufa (TEGEE) pela APA na transmissão, a qualquer título, da exploração ou da propriedade da instalação, com o comprovativo do averbamento do licenciamento (art. 10.º, n.º 2, al. b), e n.º 4, do DL 12/2020, que revogou o DL 38/2013)
+- Responsabilidade ambiental histórica: o procedimento contraordenacional prescreve em 5 anos (contraordenações graves e muito graves) ou 3 anos (leves) e a coima em 3 ou 2 anos (art. 40.º da Lei 50/2006 — LQCA); no RRA, prescrevem os danos causados por emissões, acontecimentos ou incidentes ocorridos há mais de 30 anos (art. 33.º do DL 147/2008), e a responsabilidade administrativa de prevenção e reparação (capítulo III) não abrange danos de emissões, acontecimentos ou incidentes anteriores à entrada em vigor do diploma (art. 35.º); não há imprescritibilidade dos danos ecológicos
 - Declarações e garantias ambientais no SPA: risco de representações falsas (art. 253.º CC — dolo)
 
 ### ETAPA 3 — A CHECKLIST
@@ -51,12 +53,12 @@ Dentro de <fundamentos_juridicos>:
 **CHECKLIST DE DUE DILIGENCE JURÍDICO-AMBIENTAL — M&A INDUSTRIAL**
 
 **BLOCO A — LICENÇAS E TÍTULOS AMBIENTAIS**
-- [ ] A1. Licença ambiental/TUA (DL 75/2015): referência, validade, condicionantes críticas
-- [ ] A2. Condições de transmissibilidade da licença: notificação à APA/CCDR obrigatória
+- [ ] A1. Licença ambiental (REI — DL 127/2013) e TUA (LUA — DL 75/2015): referência, validade, condicionantes críticas
+- [ ] A2. Condições de transmissibilidade de cada licença e título (requerimento, comunicação prévia ou autorização, averbamento); TURH do domínio público hídrico: autorização também para a aquisição do domínio da sociedade titular (art. 72.º, n.º 5, da Lei 58/2005)
 - [ ] A3. Licença de operação de gestão de resíduos (DL 102-D/2020): validade
 - [ ] A4. TURH para captações de água (DL 226-A/2007): validade, caudais autorizados
-- [ ] A5. Autorização CELE (DL 38/2013): plano de monitorização, estado das licenças
-- [ ] A6. Licença de descarga de efluentes (DL 236/98): parâmetros, validade
+- [ ] A5. TEGEE (DL 12/2020): título atualizado, plano de monitorização aprovado, estado das licenças de emissão
+- [ ] A6. Licença de rejeição de águas residuais (TURH — arts. 50.º a 55.º do DL 226-A/2007; valores-limite de emissão aplicáveis, incluindo os do DL 236/98 [■ VERIFICAR]): parâmetros, validade
 - [ ] A7. Outras licenças setoriais: [■ VERIFICAR setor específico]
 
 **BLOCO B — HISTÓRICO DE INFRAÇÕES E PROCESSOS**
@@ -68,7 +70,7 @@ Dentro de <fundamentos_juridicos>:
 
 **BLOCO C — PASSIVO AMBIENTAL E CONTAMINAÇÃO**
 - [ ] C1. Estudos de caracterização de solos e águas subterrâneas (Fase I e II)
-- [ ] C2. Registo no SNIRH/APA de locais contaminados
+- [ ] C2. Informação da APA e da CCDR sobre contaminação de solos e águas subterrâneas no local (inventários, processos de remediação) [■ VERIFICAR: o SNIRH é o Sistema Nacional de Informação de Recursos Hídricos, não um registo de locais contaminados; confirmar se já existe regime nacional de solos contaminados]
 - [ ] C3. Histórico de derrames, acidentes e incidentes ambientais
 - [ ] C4. Armazenagem de substâncias perigosas (SEVESO — DL 150/2015)
 - [ ] C5. Lamas e resíduos acumulados no local
@@ -101,7 +103,7 @@ Dentro de <fundamentos_juridicos>:
 
 **BLOCO H — TRANSMISSÃO E OBRIGAÇÕES PÓS-FECHO**
 - [ ] H1. Notificações de mudança de operador às entidades ambientais competentes
-- [ ] H2. Transferência da autorização CELE
+- [ ] H2. Pedido de atualização do TEGEE (transmissão da exploração ou da propriedade da instalação — art. 10.º do DL 12/2020)
 - [ ] H3. Declarações e garantias ambientais do vendedor no SPA
 - [ ] H4. Mecanismo de escrow para passivo ambiental identificado
 - [ ] H5. Seguros de pollution liability para período pós-fecho
@@ -126,6 +128,16 @@ Dentro de <avaliacao_risco>:
 
 | Citação | Estado | Nota |
 |---|---|---|
+| art. 3.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 20.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| arts. 47.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 20.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 22.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 72.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 72.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 10.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 10.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 40.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 33.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 35.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 253.º CC | conferida (epígrafe) — Dolo |  |
+| arts. 50.º | por conferir [■ VERIFICAR] | diploma não identificado |

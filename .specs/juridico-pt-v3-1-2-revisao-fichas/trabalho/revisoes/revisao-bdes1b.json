@@ -1,0 +1,321 @@
+[
+  {
+    "codigo": "DES-012",
+    "veredicto": "corrigida",
+    "resumo": "A ficha citava a Lei n.º 99/2021 (contribuições especiais e custas processuais para 2022) como Lei de Bases do Desporto, que é a Lei n.º 5/2007, remetia a invalidade dos atos para os arts. 52.º e ss. CPA (que tratam dos conflitos de competência; a invalidade está nos arts. 161.º a 163.º) e apresentava o tribunal administrativo como alternativa corrente ao TAD. Pela Lei do TAD (anexo à Lei n.º 74/2013), estes litígios estão sujeitos a arbitragem necessária, com acesso só em via de recurso (art. 4.º, n.º 3), no prazo de 10 dias contínuos (arts. 54.º, n.º 2, e 39.º), sem efeito suspensivo (art. 53.º, n.º 1) e com a suspensão a pedir por providência cautelar com o requerimento inicial (art. 41.º). Corrigiram-se a competência, o prazo, a medida cautelar, a ordem dos pedidos e os elementos obrigatórios do requerimento inicial.",
+    "substituicoes": [
+      {
+        "de": "- Existe prazo de impugnação — já decorrido? [■ VERIFICAR: Lei 74/2013 e estatutos]\n- O TAD é competente ou são os tribunais administrativos? [■ VERIFICAR: art. 4.º Lei 74/2013]",
+        "para": "- Existe prazo de impugnação — já decorrido? No TAD, 10 dias contados da notificação da deliberação ou decisão (art. 54.º, n.º 2, da Lei do TAD, aprovada em anexo à Lei n.º 74/2013), prazo contínuo que não se suspende aos sábados, domingos, feriados nem em férias judiciais (art. 39.º, n.º 1); para os meios internos da federação, [■ VERIFICAR: estatutos e regulamentos]\n- O TAD é competente? Compete-lhe, em arbitragem necessária, conhecer dos litígios emergentes dos atos e omissões das federações no exercício dos poderes de regulamentação, organização, direção e disciplina (art. 4.º, n.º 1, da Lei do TAD), com exclusão das questões emergentes da aplicação das normas técnicas e disciplinares diretamente respeitantes à prática da própria competição (n.º 6); fora desse âmbito, [■ VERIFICAR: tribunal competente]\n- A deliberação é diretamente recorrível para o TAD? Só o são as deliberações do órgão de disciplina e as decisões do órgão de justiça proferidas em recurso de deliberações de outro órgão federativo (art. 4.º, n.º 3, al. a), da Lei do TAD); a deliberação de outro órgão (direção, assembleia geral) é, em regra, impugnada primeiro junto do órgão de justiça da federação [■ VERIFICAR: estatutos]",
+        "motivo": "A competência do TAD é de arbitragem necessária, com acesso só em via de recurso, e o prazo de 10 dias resulta da lei, não dos estatutos",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1988&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- Lei n.º 99/2021 (Lei de Bases da Atividade Física e do Desporto): arts. [■ VERIFICAR] — poderes e limites das federações desportivas\n- Lei n.º 74/2013, art. 4.º: competência do TAD para impugnação de atos de federações",
+        "para": "- Lei n.º 5/2007, de 16 de janeiro (Lei de Bases da Atividade Física e do Desporto): art. 14.º (conceito de federação desportiva), art. 17.º (deliberações sociais: proibição do voto por representação e escrutínio secreto) e art. 19.º (poderes regulamentares, disciplinares e outros de natureza pública conferidos pelo estatuto de utilidade pública desportiva) — poderes e limites das federações desportivas\n- Lei do TAD (anexo à Lei n.º 74/2013, de 6 de setembro, alterada pela Lei n.º 33/2014): art. 4.º (arbitragem necessária), art. 39.º (contagem dos prazos), art. 41.º (procedimento cautelar), arts. 52.º a 54.º (legitimidade, efeito da ação e requerimento inicial) e art. 61.º (aplicação subsidiária do CPTA)",
+        "motivo": "A Lei n.º 99/2021 trata de contribuições especiais e custas processuais; a Lei de Bases é a Lei n.º 5/2007",
+        "fonte": "https://files.diariodarepublica.pt/1s/2007/01/01100/03560363.pdf"
+      },
+      {
+        "de": "- Arts. 52.º e ss. CPA: vícios dos atos administrativos (incompetência, forma, conteúdo, desvio de poder)",
+        "para": "- Arts. 161.º a 163.º CPA: invalidade dos atos administrativos — nulidade (arts. 161.º e 162.º) e anulabilidade (art. 163.º); vícios de incompetência, forma, violação de lei e desvio de poder",
+        "motivo": "Os arts. 52.º e ss. CPA tratam dos conflitos de competência; a invalidade dos atos está nos arts. 161.º a 163.º",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2248A0163&nid=2248&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Pedido principal (anulação) e subsidiário (declaração de nulidade ou de ilegalidade)",
+        "para": "- Pedido principal (declaração de nulidade, quando o vício a gere — art. 161.º CPA) e subsidiário (anulação — art. 163.º CPA)",
+        "motivo": "A ordem dos pedidos estava invertida: a nulidade, invalidade mais grave, é o pedido principal e a anulação o subsidiário",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2248A0161&nid=2248&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "AO TRIBUNAL ARBITRAL DO DESPORTO\n[ou: AO TRIBUNAL ADMINISTRATIVO DE [CIDADE] — conforme o caso]",
+        "para": "AO TRIBUNAL ARBITRAL DO DESPORTO\n[se o litígio estiver fora da arbitragem necessária do art. 4.º da Lei do TAD: tribunal competente [■ VERIFICAR]]",
+        "motivo": "Os litígios do art. 4.º da Lei do TAD não são da competência dos tribunais administrativos em primeira instância; o TCA Sul só conhece do recurso da decisão arbitral (art. 8.º)",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1988&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "vem, nos termos do art. [X] da Lei n.º 74/2013 [ou do art. [X] do CPTA — especificar], impugnar a deliberação identificada infra.",
+        "para": "vem, nos termos dos arts. 4.º, n.ºs 1 e 3, e 54.º da Lei do TAD (aprovada em anexo à Lei n.º 74/2013, de 6 de setembro), apresentar requerimento inicial de arbitragem necessária, impugnando a deliberação identificada infra.",
+        "motivo": "Base legal do requerimento inicial no TAD",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1988&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "4. Competência: o TAD / tribunal administrativo tem competência nos termos do art. [X] da Lei n.º 74/2013 / CPTA [■ VERIFICAR].\n5. Prazo: [■ VERIFICAR: prazo de impugnação previsto na lei e nos estatutos federativos]. A deliberação foi notificada em [data]; o presente requerimento é apresentado em [data].\n6. Legitimidade: o Requerente é destinatário direto da deliberação, com interesse legítimo na sua anulação.",
+        "para": "4. Competência: o TAD é competente, em arbitragem necessária, nos termos do art. 4.º, n.ºs 1 e 3, al. a), da Lei do TAD, por estar em causa ato praticado no exercício de poderes de [regulamentação / organização / direção / disciplina] e não questão emergente da aplicação das normas técnicas e disciplinares diretamente respeitantes à prática da própria competição (n.º 6) [■ VERIFICAR: enquadramento do caso concreto].\n5. Prazo: o requerimento inicial é apresentado no prazo de 10 dias contados da notificação (art. 54.º, n.º 2, da Lei do TAD), prazo contínuo (art. 39.º, n.º 1). A deliberação foi notificada em [data]; o presente requerimento é apresentado em [data].\n6. Legitimidade: o Requerente é destinatário direto da deliberação, com interesse direto em demandar (art. 52.º, n.º 1, da Lei do TAD).",
+        "motivo": "Competência, prazo e legitimidade resultam da Lei do TAD",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1988&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "**IV. MEDIDA CAUTELAR** [se necessária]\n12. Requer-se a suspensão imediata dos efeitos da deliberação impugnada, com fundamento em:",
+        "para": "**IV. MEDIDA CAUTELAR** [se necessária]\n12. Não tendo a instauração da ação efeito suspensivo (art. 53.º, n.º 1, da Lei do TAD), requer-se, juntamente com o presente requerimento inicial (art. 41.º, n.º 4), a providência cautelar de suspensão dos efeitos da deliberação impugnada, por haver fundado receio de lesão grave e de difícil reparação (art. 41.º, n.º 1), com fundamento em:",
+        "motivo": "No TAD a ação não suspende o ato; a suspensão pede-se por providência cautelar com o requerimento inicial",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1988&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "    a) O art. [X] da Lei n.º 99/2021 que estabelece [descrever]: [aplicar ao caso]",
+        "para": "    a) O art. [X] da Lei n.º 5/2007, de 16 de janeiro (Lei de Bases da Atividade Física e do Desporto), que estabelece [descrever]: [aplicar ao caso]",
+        "motivo": "A Lei de Bases é a Lei n.º 5/2007, não a Lei n.º 99/2021",
+        "fonte": "https://files.diariodarepublica.pt/1s/2007/01/01100/03560363.pdf"
+      },
+      {
+        "de": "Testemunhas: [se admissível]",
+        "para": "Testemunhas: [se admissível]\n\nValor da causa: € [valor] [■ VERIFICAR: determinado nos termos do CPTA — art. 77.º, n.º 1, da Lei do TAD]\nÁrbitro designado: [nome, da lista de árbitros do TAD] (art. 54.º, n.º 3, al. f), da Lei do TAD)\nTaxa de arbitragem: paga com o requerimento inicial (art. 54.º, n.º 4, da Lei do TAD)",
+        "motivo": "O valor da causa e a designação do árbitro são elementos obrigatórios do requerimento inicial e a taxa acompanha-o, sob pena de não admissão",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1988&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- [ ] Prazo de impugnação verificado e cumprido",
+        "para": "- [ ] Prazo de 10 dias contínuos verificado e cumprido (arts. 54.º, n.º 2, e 39.º da Lei do TAD)",
+        "motivo": "Prazo legal do requerimento inicial",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1988&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- [ ] Medida cautelar fundamentada com fumus e periculum",
+        "para": "- [ ] Medida cautelar requerida com o requerimento inicial e fundamentada com fumus e periculum (art. 41.º, n.ºs 1 e 4, da Lei do TAD)\n- [ ] Valor da causa indicado, árbitro designado e taxa de arbitragem paga (art. 54.º, n.ºs 3 e 4, da Lei do TAD)",
+        "motivo": "Momento do pedido cautelar e elementos obrigatórios do requerimento inicial",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1988&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Confirmar nos estatutos da federação os meios internos de impugnação e o órgão de justiça competente; se o órgão de justiça não decidir em 45 dias, o interessado pode requerer a avocação pelo TAD no prazo de 10 dias (art. 4.º, n.ºs 4 e 5, da Lei do TAD).",
+      "Avaliar se a matéria está excluída por respeitar à aplicação de normas técnicas e disciplinares diretamente respeitantes à prática da competição (art. 4.º, n.º 6) e, fora da arbitragem necessária, qual o tribunal competente.",
+      "A providência cautelar pode ficar sujeita à prestação de garantia (art. 41.º, n.º 8); a decisão arbitral é recorrível para o Tribunal Central Administrativo Sul, com efeito meramente devolutivo (art. 8.º).",
+      "A Lei n.º 5/2007 foi conferida na redação publicada; confirmar a redação em vigor dos arts. 14.º, 17.º e 19.º (o art. 18.º, sobre justiça desportiva, foi revogado pelo art. 4.º da Lei n.º 74/2013)."
+    ],
+    "fontes": [
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1988&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://files.diariodarepublica.pt/1s/2007/01/01100/03560363.pdf",
+      "https://diariodarepublica.pt/dr/detalhe/lei/99-2021-176907482",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2248A0161&nid=2248&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2248A0162&nid=2248&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2248A0163&nid=2248&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2248A0002&nid=2248&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+    ]
+  },
+  {
+    "codigo": "DES-017",
+    "veredicto": "corrigida",
+    "resumo": "A ficha fundava o registo no art. 12.º da Lei n.º 54/2017 (direitos de personalidade e assédio), quando o registo como condição de participação e a recusa por falta de prova da aptidão médico-desportiva e do seguro de acidentes de trabalho estão no art. 7.º; citava a Lei n.º 99/2021 como Lei de Bases, que é a Lei n.º 5/2007; e apresentava o TAD como «foro alternativo», quando é arbitragem necessária com acesso só em via de recurso das decisões do órgão de justiça ou das decisões finais da liga (art. 4.º, n.º 3, da Lei do TAD). Corrigiu-se também o exemplo do Conselho de Arbitragem da FPF como órgão de inscrições (trata da arbitragem dos jogos) e a qualificação do art. 47.º CRP como direito ao trabalho (é a liberdade de escolha de profissão).",
+    "substituicoes": [
+      {
+        "de": "- Lei n.º 54/2017, art. 12.º: registo na federação como condição de participação\n- Lei de Bases (Lei n.º 99/2021): direito de participação em competições desportivas",
+        "para": "- Lei n.º 54/2017 (LCTD), art. 7.º: a participação do praticante profissional em competições promovidas por federação com utilidade pública desportiva depende do prévio registo do contrato de trabalho desportivo na federação (n.º 1), efetuado nos termos do regulamento federativo (n.º 2); o registo é recusado se a entidade empregadora não fizer prova da aptidão médico-desportiva do praticante e do seguro de acidentes de trabalho (n.º 4)\n- Lei de Bases da Atividade Física e do Desporto (Lei n.º 5/2007, de 16 de janeiro): art. 2.º (direito de todos à atividade física e desportiva, sem discriminação) e art. 19.º (poderes regulamentares de natureza pública das federações com utilidade pública desportiva)",
+        "motivo": "O registo está no art. 7.º da LCTD (o art. 12.º trata dos direitos de personalidade e do assédio) e a Lei de Bases é a Lei n.º 5/2007",
+        "fonte": "https://files.diariodarepublica.pt/1s/2017/07/13500/0374303749.pdf"
+      },
+      {
+        "de": "- Lei n.º 74/2013: TAD como foro alternativo de impugnação urgente",
+        "para": "- Lei do TAD (anexo à Lei n.º 74/2013): arbitragem necessária dos litígios emergentes dos atos das federações e ligas no exercício dos poderes de regulamentação, organização, direção e disciplina (art. 4.º, n.º 1); acesso só em via de recurso das decisões do órgão de justiça da federação ou das decisões finais dos órgãos da liga (art. 4.º, n.º 3), no prazo de 10 dias contínuos a contar da notificação (arts. 54.º, n.º 2, e 39.º, n.º 1); providência cautelar requerida com o requerimento inicial e decidida no prazo máximo de cinco dias (art. 41.º, n.ºs 4 e 6)",
+        "motivo": "O TAD não é foro alternativo: é arbitragem necessária, com acesso só em via de recurso",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1988&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "AO [CONSELHO DE ARBITRAGEM / DEPARTAMENTO DE COMPETIÇÕES / ÓRGÃO COMPETENTE]",
+        "para": "AO [ÓRGÃO COMPETENTE SEGUNDO O REGULAMENTO DE INSCRIÇÕES — ex.: DIREÇÃO / DEPARTAMENTO DE COMPETIÇÕES / SERVIÇOS DE REGISTO E INSCRIÇÕES]",
+        "motivo": "O conselho de arbitragem coordena a arbitragem dos jogos e não decide inscrições de atletas",
+        "fonte": "https://www.fpf.pt/Portals/0/Documentos/Centro%20Documentacao/Estatutos/estatutos.pdf"
+      },
+      {
+        "de": "   a) Direito ao trabalho (art. 47.º CRP): o atleta é profissional",
+        "para": "   a) Liberdade de escolha de profissão (art. 47.º, n.º 1, CRP): o atleta é profissional",
+        "motivo": "O art. 47.º CRP consagra a liberdade de escolha de profissão; o direito ao trabalho é o art. 58.º",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=4A0047&nid=4&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "c) Caso indeferido, a emissão de certidão do indeferimento para efeitos de recurso ao TAD.",
+        "para": "c) Caso indeferido, a emissão de certidão do indeferimento para efeitos de recurso para o órgão de justiça da federação e, da decisão deste ou da decisão final da liga, para o TAD (art. 4.º, n.º 3, da Lei do TAD).",
+        "motivo": "O acesso ao TAD faz-se em via de recurso das decisões do órgão de justiça ou das decisões finais da liga",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1988&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- Órgão que recusou: [ex: Conselho de Arbitragem FPF]",
+        "para": "- Órgão que recusou: [ex: serviços de registo e inscrições ou departamento de competições da federação ou da liga]",
+        "motivo": "O Conselho de Arbitragem da FPF trata da arbitragem dos jogos, não das inscrições",
+        "fonte": "https://www.fpf.pt/Portals/0/Documentos/Centro%20Documentacao/Estatutos/estatutos.pdf"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Identificar no regulamento de inscrições da federação ou da liga o órgão competente, o prazo e a forma da reclamação e do recurso para o órgão de justiça antes do TAD.",
+      "Se o atleta não for praticante profissional, o art. 7.º da LCTD não se aplica: as condições de inscrição resultam dos regulamentos federativos.",
+      "Na liga profissional, as decisões finais dos seus órgãos são diretamente recorríveis para o TAD (art. 4.º, n.º 3, al. b), da Lei do TAD); se o órgão de justiça não decidir em 45 dias, há avocação pelo TAD (n.ºs 4 e 5).",
+      "As Leis n.º 54/2017 e n.º 5/2007 foram conferidas na redação publicada no Diário da República; confirmar se houve alteração posterior."
+    ],
+    "fontes": [
+      "https://files.diariodarepublica.pt/1s/2017/07/13500/0374303749.pdf",
+      "https://files.diariodarepublica.pt/1s/2007/01/01100/03560363.pdf",
+      "https://diariodarepublica.pt/dr/detalhe/lei/99-2021-176907482",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1988&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://www.fpf.pt/Portals/0/Documentos/Centro%20Documentacao/Estatutos/estatutos.pdf",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=4A0047&nid=4&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+    ]
+  },
+  {
+    "codigo": "DES-018",
+    "veredicto": "corrigida",
+    "resumo": "A ficha atribuía à LCTD normas que os artigos citados não contêm (o art. 18.º é o poder disciplinar, o 26.º a responsabilidade solidária e o 28.º a capacidade para o contrato de formação), remetia os acidentes de trabalho para os «arts. 255.º a 284.º CT», afirmava que o CT garante a manutenção da retribuição durante a incapacidade por acidente de trabalho e que seguro e subsídio de doença se cumulam. Reorganizou-se pelo regime dos acidentes de trabalho dos praticantes profissionais (art. 7.º, n.º 4, LCTD; Lei n.º 48/2023, que revogou a Lei n.º 27/2011; Lei n.º 98/2009 subsidiária): perda de retribuição compensada pela indemnização por incapacidade temporária (70 % e 75 %), responsabilidade e contraordenação muito grave pela falta de seguro, justa causa no art. 23.º e indemnização no art. 24.º LCTD, suspensão do contrato sem impedir a caducidade no termo, e prazos de participação do acidente (48 horas ao clube; 24 horas à seguradora).",
+    "substituicoes": [
+      {
+        "de": "- Art. 18.º, n.º 1, al. e) LCTD: obrigação do clube de manter seguro desportivo\n- Art. 255.º a 284.º Código do Trabalho: acidentes de trabalho (subsidiário para atletas) [■ VERIFICAR: aplicação ao desporto profissional]\n- Lei n.º 98/2009 (Regime de reparação de acidentes de trabalho) [■ VERIFICAR: aplicação ao desporto]\n- Art. 26.º LCTD, al. b): justa causa pelo atleta em caso de violação das garantias de segurança\n- [■ VERIFICAR: Portaria ou Decreto-Lei que regula o seguro desportivo obrigatório em Portugal]\n- [■ VERIFICAR: regulamento da federação sobre assistência médica em competição]\n- Segurança Social: prestações por doença e incapacidade temporária — art. 33.º e ss. da Lei de Proteção Social [■ VERIFICAR]",
+        "para": "- Art. 7.º, n.º 4, LCTD (Lei n.º 54/2017): no registo do contrato, o clube tem de fazer prova da aptidão médico-desportiva do praticante e da celebração do seguro de acidentes de trabalho, sob pena de recusa do registo; art. 11.º, al. c), LCTD: dever de submeter o praticante aos exames e tratamentos clínicos necessários\n- Lei n.º 48/2023, de 22 de agosto: regime específico de reparação dos danos emergentes de acidentes de trabalho dos praticantes desportivos profissionais (revogou a Lei n.º 27/2011 e aplica-se aos acidentes ocorridos após a sua entrada em vigor — art. 18.º); o seguro de acidentes de trabalho dispensa a cobertura por seguro de acidentes pessoais ou de grupo (art. 15.º, n.º 2)\n- Lei n.º 98/2009, de 4 de setembro (regime de reparação de acidentes de trabalho), aplicável subsidiariamente (art. 16.º da Lei n.º 48/2023); arts. 283.º e 284.º CT (acidentes de trabalho e doenças profissionais)\n- Art. 23.º, n.º 1, al. d), e n.º 3, LCTD: resolução com justa causa pelo praticante; art. 394.º, n.º 2, al. d), CT (falta culposa de condições de segurança e saúde no trabalho), aplicável subsidiariamente (art. 3.º, n.º 1, LCTD)\n- Agentes desportivos não profissionais: seguro desportivo obrigatório (art. 42.º da Lei n.º 5/2007 e Decreto-Lei n.º 10/2009, de 12 de janeiro) [■ VERIFICAR: âmbito e coberturas mínimas do Decreto-Lei n.º 10/2009]\n- [■ VERIFICAR: regulamento da federação sobre assistência médica em competição]\n- Segurança Social: o subsídio de doença cobre a incapacidade não decorrente de causa profissional (Decreto-Lei n.º 28/2004, de 4 de fevereiro) [■ VERIFICAR: articulação com a reparação por acidente de trabalho]; art. 41.º da Lei n.º 5/2007 (segurança social dos praticantes no regime geral)",
+        "motivo": "Os artigos da LCTD citados tratam de outras matérias; o seguro do praticante profissional é o de acidentes de trabalho (art. 7.º, n.º 4, LCTD e Lei n.º 48/2023) e a «Lei de Proteção Social» não existe",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3699&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "8. Quanto à remuneração durante a incapacidade [■ VERIFICAR: a LCTD prevê expressamente? Se não, aplicar subsidiariamente o CT]:\n   a) Nos termos do art. [X] CT (subsidiário): manutenção da remuneração durante [período] em caso de acidente de trabalho\n   b) O clube pode substituir o pagamento direto pelo pagamento pelo seguro, desde que a cobertura seja equivalente",
+        "para": "8. Quanto à remuneração durante a incapacidade, a LCTD não tem regra própria, aplicando-se subsidiariamente o regime geral (art. 3.º, n.º 1, LCTD):\n   a) A falta por acidente de trabalho é justificada, mas determina a perda de retribuição quando o praticante tenha direito a subsídio ou seguro (art. 255.º, n.º 2, al. b), CT); a perda é compensada pela indemnização por incapacidade temporária a cargo da seguradora — na incapacidade temporária absoluta, 70 % da retribuição nos primeiros 12 meses e 75 % no período subsequente (art. 48.º, n.º 3, al. d), da Lei n.º 98/2009); na incapacidade temporária parcial, o art. 7.º da Lei n.º 48/2023 fixa regras próprias\n   b) Um complemento a cargo do clube até à retribuição por inteiro só existe se previsto na convenção coletiva aplicável ou no contrato [■ VERIFICAR: convenção coletiva da modalidade e contrato]; a apólice pode prever franquias para as incapacidades temporárias (art. 5.º da Lei n.º 48/2023)",
+        "motivo": "O CT não impõe a manutenção da retribuição: a falta por acidente de trabalho determina perda de retribuição, compensada pela indemnização da seguradora",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0255&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "9. O art. 18.º, n.º 1, al. e) LCTD impõe ao clube a obrigação de manter seguro de acidentes desportivos em nome do atleta.",
+        "para": "9. Sendo o atleta praticante desportivo profissional, o clube está obrigado a transferir a responsabilidade pela reparação dos acidentes de trabalho para uma seguradora (art. 79.º, n.º 1, da Lei n.º 98/2009) e tem de fazer prova desse seguro no registo do contrato na federação, sob pena de recusa do registo (art. 7.º, n.º 4, LCTD; art. 15.º, n.º 1, da Lei n.º 48/2023). [Se não for profissional: seguro desportivo obrigatório — art. 42.º da Lei n.º 5/2007 e Decreto-Lei n.º 10/2009 [■ VERIFICAR: tomador e coberturas]]",
+        "motivo": "O art. 18.º LCTD trata do poder disciplinar; a obrigação de seguro resulta do art. 79.º da Lei n.º 98/2009 e do art. 7.º, n.º 4, LCTD",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1156A0079&nid=1156&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "11. [Se o seguro não existe ou é insuficiente]: A ausência ou insuficiência do seguro configura incumprimento grave pelo clube do art. 18.º LCTD, gerando:\n    a) Responsabilidade direta do clube pelos custos médicos e de reabilitação\n    b) Potencial justa causa de rescisão pelo atleta (art. 26.º LCTD)\n    c) Possível responsabilidade contraordenacional [■ VERIFICAR: coimas previstas na LCTD ou legislação complementar]",
+        "para": "11. [Se o seguro não existe ou é insuficiente]: A falta do seguro de acidentes de trabalho viola o art. 79.º, n.º 1, da Lei n.º 98/2009, gerando:\n    a) Responsabilidade direta do clube pela reparação devida ao sinistrado (assistência clínica e reabilitação, indemnizações e pensões); se a retribuição declarada à seguradora for inferior à real, o clube responde pela diferença (art. 79.º, n.ºs 4 e 5, da Lei n.º 98/2009); o Fundo de Acidentes de Trabalho garante as prestações que a entidade responsável não possa pagar (art. 283.º, n.º 6, CT)\n    b) Potencial justa causa de resolução pelo atleta (art. 23.º, n.º 1, al. d), e n.º 3, LCTD)\n    c) Responsabilidade contraordenacional: contraordenação muito grave (art. 171.º, n.º 1, da Lei n.º 98/2009)",
+        "motivo": "A justa causa está no art. 23.º LCTD (o 26.º é a responsabilidade solidária) e a falta de seguro é contraordenação muito grave da Lei n.º 98/2009",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1156A0171&nid=1156&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "12. O atleta tem direito a prestações da Segurança Social por incapacidade temporária para o trabalho [■ VERIFICAR: o atleta profissional está inscrito na Segurança Social? Regime geral ou especial?]:\n    - Subsídio de doença: [percentagem da remuneração de referência, após período de espera] [■ VERIFICAR]\n    - Prazo máximo: [■ VERIFICAR]\n    Nota: o seguro desportivo não substitui as prestações da Segurança Social; podem cumular-se (salvo sobreindemnização).",
+        "para": "12. Se a lesão for acidente de trabalho (sofrida em treino ou competição ao serviço do clube), a incapacidade temporária é reparada pela seguradora de acidentes de trabalho (art. 48.º, n.º 3, als. d) e e), da Lei n.º 98/2009) e não pelo subsídio de doença, que cobre a doença não decorrente de causa profissional [■ VERIFICAR: Decreto-Lei n.º 28/2004 — conceito de doença e eventual proteção provisória enquanto a responsabilidade pelo acidente não estiver assumida]. Se a lesão não for acidente de trabalho (ex.: treino individual fora do tempo e do local de trabalho), o atleta pode ter direito a prestações da Segurança Social [■ VERIFICAR: regime aplicável — art. 41.º da Lei n.º 5/2007]:\n    - Subsídio de doença: [percentagem da remuneração de referência, após período de espera] [■ VERIFICAR]\n    - Prazo máximo: [■ VERIFICAR]\n    Nota: no seguro desportivo dos agentes não profissionais, confirmar na apólice e no Decreto-Lei n.º 10/2009 a articulação com as prestações da Segurança Social [■ VERIFICAR].",
+        "motivo": "No acidente de trabalho a incapacidade temporária é reparada pela seguradora, não pelo subsídio de doença; a cumulação afirmada não tem base",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1156A0048&nid=1156&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "    O clube não pode rescindir o contrato com base na incapacidade do atleta decorrente de lesão sofrida em serviço [■ VERIFICAR: LCTD e CT — princípio de proteção do trabalhador acidentado].\n    A rescisão neste contexto constituiria incumprimento grave, gerando indemnização nos termos do art. 28.º LCTD.",
+        "para": "    A incapacidade temporária não é causa de cessação nem justa causa de despedimento: o impedimento que se prolongue por mais de um mês suspende o contrato (art. 296.º, n.º 1, CT, aplicável por força do art. 3.º, n.º 1, LCTD), e o contrato suspenso só caduca quando seja certo que o impedimento se tornou definitivo (art. 296.º, n.º 4, CT). A suspensão não impede, porém, a caducidade do contrato no seu termo (art. 295.º, n.º 3, CT; art. 23.º, n.º 2, LCTD). Se a lesão reduzir a capacidade de trabalho, o clube deve assegurar ocupação em funções compatíveis (art. 283.º, n.º 10, CT) [■ VERIFICAR: aplicação ao praticante desportivo].\n    O despedimento promovido indevidamente obriga o clube a indemnizar o praticante pelo valor das retribuições que lhe seriam devidas até ao termo do contrato, ou em montante superior se provar danos mais elevados (art. 24.º LCTD).",
+        "motivo": "A indemnização está no art. 24.º LCTD (o 28.º é a capacidade para o contrato de formação); a incapacidade suspende o contrato, sem impedir a caducidade no termo",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0296&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "    b) Participar o sinistro à seguradora no prazo previsto na apólice [■ VERIFICAR: prazo típico — 8 dias? VERIFICAR]",
+        "para": "    b) Participar o acidente ao clube nas 48 horas seguintes, salvo se este o tiver presenciado ou dele tiver tido conhecimento no mesmo período (art. 86.º, n.º 1, da Lei n.º 98/2009); o clube deve participá-lo à seguradora no prazo de 24 horas a contar do conhecimento (art. 87.º, n.º 1, da Lei n.º 98/2009) [■ VERIFICAR: forma de participação prevista na apólice]",
+        "motivo": "Os prazos de participação do acidente de trabalho estão fixados na lei",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1156A0086&nid=1156&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Confirmar a convenção coletiva da modalidade (no futebol, o CCT entre a Liga e o Sindicato dos Jogadores) e o contrato: podem prever complemento da indemnização por incapacidade temporária até à retribuição por inteiro.",
+      "A Lei n.º 48/2023 só se aplica a acidentes ocorridos após a sua entrada em vigor (art. 18.º); para acidentes anteriores rege a Lei n.º 27/2011.",
+      "Não foi possível ler na fonte oficial o Decreto-Lei n.º 10/2009 (seguro desportivo obrigatório) nem o Decreto-Lei n.º 28/2004 (subsídio de doença): confirmar o âmbito e as coberturas do primeiro e a articulação do segundo com a reparação por acidente de trabalho.",
+      "Qualificar a lesão: em treino individual ou fora das instalações do clube, confirmar se é acidente de trabalho nos termos da Lei n.º 98/2009.",
+      "O direito de ação respeitante às prestações caduca um ano após a alta clínica formalmente comunicada ao sinistrado (art. 179.º, n.º 1, da Lei n.º 98/2009)."
+    ],
+    "fontes": [
+      "https://files.diariodarepublica.pt/1s/2017/07/13500/0374303749.pdf",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3699&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://files.diariodarepublica.pt/1s/2007/01/01100/03560363.pdf",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1156A0048&nid=1156&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1156A0079&nid=1156&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1156A0086&nid=1156&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1156A0087&nid=1156&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1156A0171&nid=1156&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1156A0179&nid=1156&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0255&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0283&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0295&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0296&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0394&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2009-397323",
+      "https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2004-592342"
+    ]
+  },
+  {
+    "codigo": "DES-025",
+    "veredicto": "corrigida",
+    "resumo": "A ficha fixava o prazo de recurso em «10 dias úteis» no «art. 5.º, n.º 2, Estatuto TAD», mas o prazo do requerimento inicial é de 10 dias contínuos (art. 54.º, n.º 2, e art. 39.º da Lei do TAD, aprovada em anexo à Lei n.º 74/2013) e o art. 5.º trata da dopagem; atribuía aos arts. 4.º a 6.º os prazos e tratava o efeito suspensivo como próprio do recurso, quando a instauração não suspende a sanção (art. 53.º, n.º 1) e a suspensão se pede por providência cautelar com o requerimento inicial (art. 41.º). Corrigiu-se ainda a referência ao art. 32.º CRP (o n.º 10 aplica diretamente aos processos sancionatórios os direitos de audiência e defesa), acrescentaram-se o valor da causa e a designação do árbitro como elementos obrigatórios e corrigiu-se a descrição do índice.",
+    "descricao": "Elabora petição de recurso de decisão disciplinar desportiva para o Tribunal Arbitral do Desporto (TAD), ao abrigo dos artigos 4.º e 52.º e seguintes da Lei do TAD, aprovada em anexo à Lei n.º 74/2013, de 6 de setembro, com invocação dos fundamentos de anulação (vícios de forma, de competência, violação do princípio da proporcionalidade e dos direitos de defesa).",
+    "descricao_en": "Prepares the appeal petition against a sports disciplinary decision to the Sports Arbitration Court (TAD), under Articles 4 and 52 et seq. of the TAD Law, approved as an annex to Law No. 74/2013 of 6 September, invoking the grounds for annulment (formal defects, lack of competence, breach of the principle of proportionality and of the rights of defence).",
+    "substituicoes": [
+      {
+        "de": "- Prazo de recurso (10 dias úteis — art. 5.º, n.º 2, Estatuto TAD)\n- Competência do TAD (arbitragem necessária vs. voluntária)\n- Efeito suspensivo da sanção durante a pendência do recurso",
+        "para": "- Prazo de recurso: 10 dias contados da notificação da decisão recorrida (art. 54.º, n.º 2, da Lei do TAD, aprovada em anexo à Lei n.º 74/2013); o prazo é contínuo, não se suspende aos sábados, domingos, feriados nem em férias judiciais, conta-se a partir do dia útil seguinte ao da notificação e, se terminar em dia em que o tribunal esteja encerrado, transfere-se para o primeiro dia em que esteja aberto (art. 39.º, n.ºs 1, 2 e 4)\n- Competência do TAD (arbitragem necessária — art. 4.º; dopagem — art. 5.º; arbitragem voluntária — art. 6.º) e recorribilidade da decisão: deliberações do órgão de disciplina das federações e decisões finais dos órgãos das ligas (art. 4.º, n.º 3)\n- Efeito suspensivo: o recurso não suspende a sanção (art. 53.º, n.º 1), salvo nos recursos em matéria de dopagem (n.º 2); a suspensão obtém-se por providência cautelar requerida com o requerimento inicial (art. 41.º, n.ºs 1 e 4)",
+        "motivo": "O prazo é de 10 dias contínuos (arts. 54.º, n.º 2, e 39.º da Lei do TAD), o art. 5.º trata da dopagem e o recurso não tem efeito suspensivo",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1988&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- Arts. 4.º, 5.º e 6.º da Lei n.º 74/2013 (competência e prazos do TAD)\n- Art. 32.º CRP (garantias de defesa aplicáveis por analogia)",
+        "para": "- Arts. 4.º a 6.º da Lei do TAD (competência: arbitragem necessária, dopagem e arbitragem voluntária), art. 39.º (contagem dos prazos), art. 41.º (procedimento cautelar), arts. 52.º a 54.º (legitimidade, efeito da ação e requerimento inicial) e art. 61.º (aplicação subsidiária do CPTA)\n- Art. 32.º, n.º 10, CRP (nos processos sancionatórios são assegurados ao arguido os direitos de audiência e defesa); as demais garantias do art. 32.º CRP, com as devidas adaptações",
+        "motivo": "Os arts. 4.º a 6.º não fixam prazos; o art. 32.º, n.º 10, CRP aplica-se diretamente aos processos sancionatórios",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=4A0032&nid=4&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Valor da causa e documentos juntos",
+        "para": "- Valor da causa, designação do árbitro e documentos juntos (art. 54.º, n.º 3, als. e) e f), da Lei do TAD)",
+        "motivo": "A designação do árbitro é elemento obrigatório do requerimento inicial",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1988&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- [ ] Petição apresentada dentro do prazo de 10 dias úteis\n- [ ] Taxa de arbitragem paga (verificar tabela do TAD)",
+        "para": "- [ ] Requerimento inicial apresentado dentro do prazo de 10 dias contínuos (arts. 54.º, n.º 2, e 39.º da Lei do TAD)\n- [ ] Taxa de arbitragem paga com o requerimento inicial (art. 54.º, n.º 4, da Lei do TAD; verificar tabela do TAD)",
+        "motivo": "O prazo é contínuo e a taxa acompanha o requerimento, sob pena de não admissão",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1988&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- [ ] Pedido de efeito suspensivo formulado se pertinente",
+        "para": "- [ ] Providência cautelar de suspensão requerida com o requerimento inicial, se pertinente (art. 41.º, n.º 4, da Lei do TAD)",
+        "motivo": "A suspensão obtém-se por providência cautelar",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1988&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Confirmar no regulamento disciplinar se há reclamação dentro do próprio órgão de disciplina antes da deliberação recorrível.",
+      "Em matéria de dopagem, confirmar o regime de recurso e de efeitos na lei antidopagem em vigor (a Lei do TAD ainda remete para a Lei n.º 38/2012).",
+      "A providência cautelar pode ficar sujeita à prestação de garantia (art. 41.º, n.º 8, da Lei do TAD); confirmar a tabela da taxa de arbitragem (art. 77.º; redução a 95 % com peças eletrónicas)."
+    ],
+    "fontes": [
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1988&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=4A0032&nid=4&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+    ]
+  },
+  {
+    "codigo": "DES-030",
+    "veredicto": "corrigida",
+    "resumo": "A ficha e o índice situavam o direito de imagem no art. 8.º da Lei n.º 54/2017 (promessa de contrato de trabalho desportivo), quando está no art. 14.º, e enquadravam a imagem explorada através de sociedade como rendimento da categoria B do IRS: a contrapartida é rendimento da sociedade, sujeito a IRC, e o atleta só é tributado no que dela recebe (categoria A como gerente, categoria E como lucros). Acrescentou-se a cláusula geral antiabuso (art. 38.º, n.º 2, LGT) como base do risco de requalificação e substituiu-se a alusão a «certos rácios» por um ponto a verificar, por não se ter identificado na lei um rácio fixo.",
+    "descricao": "Elabora contrato de licença e exploração de direitos de imagem de praticante desportivo profissional, estruturado através de pessoa coletiva própria do atleta (image rights company), em conformidade com o artigo 14.º da Lei n.º 54/2017 (LCTD), o Código do IRS e as orientações da Autoridade Tributária sobre a distinção entre rendimento do trabalho e rendimento de imagem.",
+    "descricao_en": "Prepares a licence and exploitation agreement for the image rights of a professional athlete, structured through the athlete's own company (image rights company), in compliance with Article 14 of Law No. 54/2017 (LCTD), the Personal Income Tax Code (Código do IRS) and the guidance of the Tax and Customs Authority (Autoridade Tributária) on the distinction between employment income and image income.",
+    "substituicoes": [
+      {
+        "de": "— Cita artigos reais da LCTD e do Código Fiscal.",
+        "para": "— Cita artigos reais da LCTD e dos códigos fiscais (CIRS, CIRC, LGT).",
+        "motivo": "Não existe um «Código Fiscal»",
+        "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cirs_rep/Pages/irs2.aspx"
+      },
+      {
+        "de": "- Art. 8.º LCTD (direito de imagem no contrato desportivo)",
+        "para": "- Art. 14.º LCTD (Lei n.º 54/2017): direito do praticante a utilizar a sua imagem pública ligada à prática desportiva e a opor-se à sua exploração comercial por outrem, sem prejuízo da transmissão contratual da respetiva exploração (n.º 1); ficam ressalvados os direitos do clube quanto à imagem do coletivo dos praticantes, que podem ser regulados por contratação coletiva (n.º 2)",
+        "motivo": "O direito de imagem está no art. 14.º da LCTD; o art. 8.º trata da promessa de contrato de trabalho desportivo",
+        "fonte": "https://files.diariodarepublica.pt/1s/2017/07/13500/0374303749.pdf"
+      },
+      {
+        "de": "- Regime fiscal: distinção rendimento categoria A (trabalho) vs. categoria B (imagem via empresa) — Código IRS\n- Risco de requalificação pela AT se a componente de imagem for excessiva",
+        "para": "- Regime fiscal: o que o clube paga ao atleta pelo exercício da atividade é rendimento da categoria A (art. 2.º, n.ºs 1 e 2, CIRS); a contrapartida paga à sociedade de imagem é rendimento dessa sociedade, sujeito a IRC, e o que dela chega ao atleta é tributado segundo a sua natureza — remunerações de gerente ou administrador, categoria A (art. 2.º, n.º 3, al. a), CIRS), ou lucros distribuídos, categoria E (art. 5.º, n.º 2, al. h), CIRS); exploração direta da imagem pelo próprio atleta fora da relação laboral [■ VERIFICAR: enquadramento na categoria B (art. 3.º, n.º 1, al. b), CIRS) ou noutra categoria]\n- Risco de requalificação pela AT se a componente de imagem for excessiva ou a sociedade não tiver substância: cláusula geral antiabuso (art. 38.º, n.º 2, LGT), podendo a AT tributar a contrapartida como remuneração do trabalho do atleta [■ VERIFICAR: jurisprudência do CAAD e dos tribunais tributários]",
+        "motivo": "A imagem explorada através de sociedade não gera rendimento da categoria B do atleta: é rendimento da sociedade (IRC); o risco de requalificação assenta na cláusula geral antiabuso",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=253A0038&nid=253&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- [ ] Proporção imagem/salário razoável (risco de requalificação AT acima de certos rácios)",
+        "para": "- [ ] Proporção imagem/salário justificada pelo valor de mercado da imagem do atleta [■ VERIFICAR: não foi identificado na lei portuguesa um rácio fixo; risco de requalificação ao abrigo do art. 38.º, n.º 2, LGT]",
+        "motivo": "O CIRS não fixa rácios entre a componente de imagem e o salário",
+        "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cirs_rep/Pages/irs2.aspx"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Não se encontrou no CIRS norma especial sobre direitos de imagem de desportistas: confirmar a jurisprudência do CAAD e dos tribunais tributários sobre sociedades de imagem e a requalificação como rendimento do trabalho.",
+      "Articular a licença com o art. 14.º, n.º 2, LCTD e com a convenção coletiva quanto à imagem do coletivo dos praticantes (no futebol, o CCT entre a Liga e o Sindicato dos Jogadores).",
+      "Atleta ou sociedade não residentes: confirmar a retenção na fonte e a convenção para evitar a dupla tributação aplicável.",
+      "A Lei n.º 54/2017 foi conferida na redação publicada no Diário da República; confirmar se houve alteração posterior."
+    ],
+    "fontes": [
+      "https://files.diariodarepublica.pt/1s/2017/07/13500/0374303749.pdf",
+      "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cirs_rep/Pages/irs2.aspx",
+      "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cirs_rep/Pages/irs3.aspx",
+      "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cirs_rep/Pages/irs5.aspx",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=253A0038&nid=253&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+    ]
+  }
+]

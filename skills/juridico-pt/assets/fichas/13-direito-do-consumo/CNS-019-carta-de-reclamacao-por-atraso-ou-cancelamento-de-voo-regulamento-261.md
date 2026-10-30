@@ -6,7 +6,8 @@ titulo_en: "Letter of Complaint for Flight Delay or Cancellation (Regulation 261
 descricao: "Redige uma carta formal de reclamação junto da transportadora aérea e/ou da ANAC (Autoridade Nacional da Aviação Civil), invocando o Regulamento (CE) n.º 261/2004 sobre direitos dos passageiros aéreos. Calcula a indemnização devida, invoca o direito a reembolso ou reencaminhamento, e incluí o pedido de reembolso das despesas adicionais (refeições, alojamento, transporte). Aplica-se a voos partindo de Portugal e a voos chegando a Portugal operados por transportadoras da UE."
 descricao_en: "Drafts a formal letter of complaint to the air carrier and/or the National Civil Aviation Authority (ANAC), invoking Regulation (EC) No 261/2004 on air passenger rights. It calculates the compensation due, invokes the right to reimbursement or re-routing and includes a claim for reimbursement of additional expenses (meals, accommodation, transport); it applies to flights departing from Portugal and to flights arriving in Portugal operated by EU carriers."
 ambito: nacional
-estado_citacoes: "conferidas 0 · corrigidas 0 · por conferir 15"
+estado_citacoes: "conferidas 0 · corrigidas 0 · por conferir 17"
+revisao_tecnica: "2026-10-30 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
@@ -14,7 +15,8 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 
 > **Âmbito:** nacional · **Área:** Direito do Consumo · **Código:** CNS-019
 > **EN:** Letter of Complaint for Flight Delay or Cancellation (Regulation 261/2004). Drafts a formal letter of complaint to the air carrier and/or the National Civil Aviation Authority (ANAC), invoking Regulation (EC) No 261/2004 on air passenger rights. It calculates the compensation due, invokes the right to reimbursement or re-routing and includes a claim for reimbursement of additional expenses (meals, accommodation, transport); it applies to flights departing from Portugal and to flights arriving in Portugal operated by EU carriers.
-> **Citações:** conferidas 0 · corrigidas 0 · por conferir 15. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 0 · corrigidas 0 · por conferir 17. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-30 — corrigida (4 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
 Redige uma carta formal de reclamação junto da transportadora aérea e/ou da ANAC (Autoridade Nacional da Aviação Civil), invocando o Regulamento (CE) n.º 261/2004 sobre direitos dos passageiros aéreos. Calcula a indemnização devida, invoca o direito a reembolso ou reencaminhamento, e incluí o pedido de reembolso das despesas adicionais (refeições, alojamento, transporte). Aplica-se a voos partindo de Portugal e a voos chegando a Portugal operados por transportadoras da UE.
 
@@ -24,9 +26,10 @@ Ficha de trabalho para preparar este documento. As regras da casa prevalecem sob
 
 ## Regras obrigatórias
 - Aplica o Regulamento 261/2004 apenas quando o âmbito de aplicação está preenchido (art. 3.º)
-- Calcula corretamente a indemnização: €250 (≤1.500 km), €400 (1.501-3.500 km), €600 (>3.500 km) — pode ser reduzida 50% se reencaminhamento alternativo oferecido dentro dos tempos do art. 7.º n.º 2
+- Redação aplicável: o Regulamento (UE) 2026/2202, de 16 de setembro de 2026 (JO L de 2/10/2026), altera o Regulamento 261/2004 e é aplicável a partir de 23/10/2027; mantém os montantes de €250/€400/€600 e a indemnização por atraso à chegada superior a três horas, mas altera, entre outras, as regras de redução da indemnização (art. 7.º, n.os 2 e 3, na nova redação) e de reencaminhamento, e acrescenta um anexo com a lista de circunstâncias extraordinárias. Às perturbações anteriores a 23/10/2027 aplica-se a redação original [■ VERIFICAR: data da perturbação e redação aplicável]
+- Calcula corretamente a indemnização (art. 7.º, n.º 1): €250 (voos até 1.500 km); €400 (voos intracomunitários com mais de 1.500 km, qualquer que seja a distância, e restantes voos entre 1.500 e 3.500 km); €600 (voos de ou para país terceiro com mais de 3.500 km) — pode ser reduzida 50% se reencaminhamento alternativo oferecido dentro dos tempos do art. 7.º n.º 2
 - Circunstâncias extraordinárias (art. 5.º n.º 3): condições meteorológicas excecionais, instabilidade política, greve geral NÃO imputável à transportadora, etc. — excluem indemnização
-- Greve dos trabalhadores da própria transportadora: NÃO é circunstância extraordinária (TJUE C-195/17 e outros) [■ VERIFICAR]
+- Greve dos trabalhadores da própria transportadora: em regra, NÃO é circunstância extraordinária (TJUE, acórdão de 17/4/2018, Krüsemann e o., C-195/17 e o.; acórdão de 23/3/2021, Airhelp, C-28/20, sobre greve convocada por sindicato do pessoal da transportadora)
 - NUNCA inventes acórdãos; usa [■ VERIFICAR] para jurisprudência que não tenhas a certeza
 - Usa português europeu (pt-PT)
 
@@ -40,7 +43,7 @@ Analisa em <analise_do_caso>:
   - Voo partindo de aeroporto UE: sempre abrangido
   - Voo chegando a aeroporto UE: só abrangido se transportadora com licença UE
 - Tipo de perturbação: cancelamento / atraso / recusa de embarque / downgrade?
-- Distância do voo: ≤1.500 km / 1.501-3.500 km / >3.500 km?
+- Distância do voo: ≤1.500 km / 1.501-3.500 km / >3.500 km? O voo é intracomunitário ou de/para país terceiro? (acima de 1.500 km, o voo intracomunitário dá €400, mesmo para lá de 3.500 km)
 - Qual o atraso na chegada ao destino final (não na partida)?
 - Houve circunstâncias extraordinárias? A transportadora pode provar isso?
 - Despesas adicionais suportadas (refeições, alojamento, transporte)?
@@ -151,6 +154,8 @@ Apresenta em <checklist_validacao>:
 |---|---|---|
 | art. 3.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 3.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 7.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 7.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 7.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 7.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 7.º | por conferir [■ VERIFICAR] | diploma não identificado |

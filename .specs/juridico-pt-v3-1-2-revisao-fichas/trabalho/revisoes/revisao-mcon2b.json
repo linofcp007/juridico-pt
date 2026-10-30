@@ -1,0 +1,319 @@
+[
+  {
+    "codigo": "CON-048",
+    "veredicto": "corrigida",
+    "resumo": "A ficha remetia os auxílios de minimis a SIEG para o Regulamento 360/2012, substituído pelo Regulamento (UE) 2023/2832 (teto de 750 000 EUR em 3 anos), e contava o teto de minimis por «3 exercícios fiscais», quando o Regulamento (UE) 2023/2831 usa um período móvel de 3 anos. Afirmava ainda que o auxílio compatível mas não notificado corre risco de recuperação: segundo o acórdão CELF (C-199/06), a Comissão não ordena a recuperação de auxílio declarado compatível e o tribunal nacional tem de ordenar o pagamento dos juros do período de ilegalidade. Corrigi estes pontos, assinalei que o RGIC é aplicável até 31/12/2026 (novo RGIC em preparação) e o registo central de minimis obrigatório desde 1/1/2026.",
+    "substituicoes": [
+      {
+        "de": "- **Regra de minimis (Reg. 2023/2831)**: ≤ €300.000 por empresa durante 3 exercícios fiscais → dispensa de notificação (atenção: cumulação de auxílios anteriores)",
+        "para": "- **Regra de minimis (Reg. (UE) 2023/2831, aplicável até 31/12/2030)**: ≤ €300.000 por empresa única, por Estado-Membro, em qualquer período de 3 anos, apreciado numa base móvel (art. 3.º, n.º 2, e considerando 49) → considera-se que a medida não preenche todos os critérios do art. 107.º, n.º 1, TFUE e não está sujeita a notificação (art. 3.º, n.º 1) (atenção: cumulação de auxílios anteriores; desde 1/1/2026, os auxílios de minimis têm de constar de um registo central — art. 6.º, n.º 1)",
+        "motivo": "O teto conta-se em qualquer período de 3 anos (base móvel), não por exercícios fiscais; o de minimis não é isenção, é uma presunção de que não há auxílio; registo central desde 2026",
+        "fonte": "https://publications.europa.eu/resource/celex/32023R2831"
+      },
+      {
+        "de": "- **RGIC (Reg. 651/2014)**: isenções por categoria (PME, I&D, formação, ambiente, emprego, capital de risco) com notificação individual dispensada se cumpridos os limites e condições",
+        "para": "- **RGIC (Reg. 651/2014)**: isenções por categoria (PME, I&D, formação, ambiente, emprego, capital de risco) com notificação individual dispensada se cumpridos os limites e condições — o Reg. 651/2014, prorrogado pelo Reg. (UE) 2023/1315, é aplicável até 31/12/2026 [■ VERIFICAR: se já foi adotado o novo RGIC, cujo projeto a Comissão submeteu a consulta pública em 2026, e qual o regulamento aplicável à data da concessão]",
+        "motivo": "O RGIC tem vigência limitada a 31/12/2026 e está em revisão",
+        "fonte": "https://publications.europa.eu/resource/celex/32023R1315"
+      },
+      {
+        "de": "- **Auxílios de base**: SIEG (Serviços de Interesse Económico Geral) — Regulamento 360/2012",
+        "para": "- **SIEG (Serviços de Interesse Económico Geral)**: o Regulamento 360/2012 foi substituído pelo Reg. (UE) 2023/2832 (de minimis SIEG, em vigor desde 1/1/2024 e aplicável até 31/12/2030): ≤ €750.000 por empresa única que preste SIEG, por Estado-Membro, em qualquer período de 3 anos (art. 3.º, n.º 2) [■ VERIFICAR: regime das compensações de SIEG acima deste limiar — Decisão 2012/21/UE e critérios do acórdão Altmark (C-280/00)]",
+        "motivo": "O Regulamento 360/2012 foi substituído pelo Regulamento (UE) 2023/2832, com teto de 750 000 EUR em 3 anos",
+        "fonte": "https://publications.europa.eu/resource/celex/32023R2832"
+      },
+      {
+        "de": "- Se auxílio compatível mas não notificado: risco de procedimento de investigação formal e recuperação",
+        "para": "- Se auxílio executado sem notificação vier a ser declarado compatível pela Comissão: não há decisão de recuperação (só as decisões negativas a ordenam — art. 16.º, n.º 1, Reg. 2015/1589), mas o tribunal nacional é obrigado a ordenar ao beneficiário o pagamento dos juros relativos ao período de ilegalidade e pode, à luz do direito nacional, ordenar a recuperação do auxílio ou conceder indemnização a terceiros lesados (TJUE, acórdão de 12/2/2008, CELF, C-199/06); enquanto a Comissão não decidir, há risco de procedimento formal de investigação e de decisão negativa com recuperação",
+        "motivo": "Auxílio ilegal mas declarado compatível não é recuperado pela Comissão; o tribunal nacional ordena os juros do período de ilegalidade (CELF)",
+        "fonte": "https://publications.europa.eu/resource/celex/62006CJ0199"
+      },
+      {
+        "de": "☐ Minimis (Reg. 2023/2831): montante €[valor] [≤ / >] €300.000 nos últimos 3 exercícios",
+        "para": "☐ Minimis (Reg. 2023/2831): montante €[valor] [≤ / >] €300.000 nos últimos 3 anos (período móvel, incluindo o novo auxílio)",
+        "motivo": "O teto de minimis conta-se em qualquer período de 3 anos, não por exercícios",
+        "fonte": "https://publications.europa.eu/resource/celex/32023R2831"
+      },
+      {
+        "de": "- Auxílios recebidos nos últimos 3 exercícios: €[valor total]",
+        "para": "- Auxílios de minimis recebidos pela empresa única nos últimos 3 anos (período móvel): €[valor total]",
+        "motivo": "O teto de minimis conta-se por empresa única e em qualquer período de 3 anos",
+        "fonte": "https://publications.europa.eu/resource/celex/32023R2831"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Confirmar se já foi adotado o novo RGIC (o Reg. 651/2014 é aplicável até 31/12/2026) e o regime transitório dos regimes de auxílio existentes.",
+      "Confirmar a plataforma e o funcionamento do registo central nacional de minimis, obrigatório desde 1/1/2026.",
+      "Nas compensações de SIEG acima de 750 000 EUR em 3 anos, verificar a Decisão 2012/21/UE e os critérios Altmark.",
+      "Nos fundos europeus, apurar se os recursos são imputáveis ao Estado (gestão partilhada) ou geridos diretamente pela Comissão."
+    ],
+    "fontes": [
+      "https://publications.europa.eu/resource/celex/32023R2831",
+      "https://publications.europa.eu/resource/celex/32023R2832",
+      "https://publications.europa.eu/resource/celex/32014R0651",
+      "https://publications.europa.eu/resource/celex/32023R1315",
+      "https://competition-policy.ec.europa.eu/public-consultations/2026-gber_en",
+      "https://publications.europa.eu/resource/celex/32015R1589",
+      "https://publications.europa.eu/resource/celex/62006CJ0199"
+    ]
+  },
+  {
+    "codigo": "CON-050",
+    "veredicto": "corrigida",
+    "resumo": "A ficha atribuía a proibição de autoprivilégio ao art. 5.º, n.º 4, do DMA (que é a regra anti-steering) e o uso de dados dos utilizadores profissionais ao art. 6.º, n.º 5; as normas certas são o art. 6.º, n.º 5 (classificação) e o art. 6.º, n.º 2 (dados). Citava o acórdão Google Shopping como do TJUE no processo T-612/17, que é do Tribunal Geral (2021), confirmado pelo TJUE no processo C-48/22 P (10/9/2024), e dizia que a AdC não pode intervir no DMA, sem referir o art. 38.º, n.º 7, nem a aplicação pelos tribunais nacionais. Corrigi ainda a exigência de «prova de dano» no art. 102.º TFUE (o teste é o afastamento da concorrência pelo mérito e a aptidão para produzir efeitos de exclusão) e a descrição do índice.",
+    "descricao": "Avalia a licitude de práticas de autoprivilégio (self-preferencing) por parte de plataformas em posição dominante, ao abrigo do artigo 11.º da Lei n.º 19/2012 (NRJC), do artigo 102.º do TFUE e do artigo 6.º, n.ºs 2 e 5, do Regulamento (UE) 2022/1925 (DMA), à luz do acórdão Google Shopping (Tribunal Geral, T-612/17, confirmado pelo TJUE no processo C-48/22 P) e das orientações da Comissão Europeia.",
+    "descricao_en": "Assesses the lawfulness of self-preferencing (autoprivilégio) by platforms in a dominant position, under Article 11 of Law No. 19/2012 (NRJC), Article 102 TFEU and Article 6(2) and (5) of Regulation (EU) 2022/1925 (DMA), in light of the Google Shopping judgment (General Court, T-612/17, upheld by the Court of Justice in Case C-48/22 P) and the European Commission's guidance.",
+    "substituicoes": [
+      {
+        "de": "— Distingue: self-preferencing como abuso de posição dominante (art. 102.º TFUE — exige prova de dano) vs. self-preferencing como violação do DMA (gatekeeper designado — ex ante, sem prova de dano).",
+        "para": "— Distingue: self-preferencing como abuso de posição dominante (art. 102.º TFUE — exige posição dominante e a demonstração de que a prática se afasta da concorrência pelo mérito e é suscetível de produzir efeitos de exclusão) vs. self-preferencing como violação do DMA (gatekeeper designado — obrigação ex ante, sem necessidade de demonstrar efeitos no mercado).",
+        "motivo": "O art. 102.º TFUE não exige prova de dano, mas aptidão para produzir efeitos de exclusão (Google Shopping, C-48/22 P)",
+        "fonte": "https://publications.europa.eu/resource/celex/62022CJ0048"
+      },
+      {
+        "de": "— Cita o caso Google Shopping (T-612/17 TJUE) e as disposições reais do DMA.",
+        "para": "— Cita o caso Google Shopping (acórdão do Tribunal Geral de 10/11/2021, T-612/17, confirmado pelo acórdão do TJUE de 10/9/2024, C-48/22 P) e as disposições reais do DMA.",
+        "motivo": "O T-612/17 é do Tribunal Geral; o TJUE confirmou-o no processo C-48/22 P",
+        "fonte": "https://publications.europa.eu/resource/celex/62022CJ0048"
+      },
+      {
+        "de": "- Self-preferencing como abuso exclusionário: levanta concorrentes tão eficientes do mercado a jusante?",
+        "para": "- Self-preferencing como abuso exclusionário: afasta, ou é suscetível de afastar, concorrentes tão eficientes do mercado a jusante?",
+        "motivo": "Formulação do teste de exclusão (gralha «levanta»)",
+        "fonte": "https://publications.europa.eu/resource/celex/62022CJ0048"
+      },
+      {
+        "de": "- Acórdão Google Shopping (TJUE T-612/17, 2021): plataforma de pesquisa geral em posição dominante que favorece serviço de comparação de preços próprio = abuso",
+        "para": "- Acórdão Google Shopping (Tribunal Geral, T-612/17, 10/11/2021; confirmado pelo TJUE, C-48/22 P, 10/9/2024): o favorecimento, pelo motor de pesquisa geral em posição dominante, do seu próprio serviço de comparação de produtos na apresentação e no posicionamento dos resultados, em detrimento dos comparadores concorrentes, constituiu abuso",
+        "motivo": "Identificação correta do tribunal e do acórdão de recurso",
+        "fonte": "https://publications.europa.eu/resource/celex/62022CJ0048"
+      },
+      {
+        "de": "- Art. 5.º, n.º 4, DMA: proibição de tratar mais favoravelmente os serviços próprios do que os de terceiros (per se, sem prova de dano)\n- Art. 6.º, n.º 5, DMA: proibição de usar dados de utilizadores do serviço intermediação para favorecer serviço competitivo próprio\n- Competência exclusiva da Comissão Europeia para aplicar o DMA\n- Papel da AdC nacional: apply art. 102.º TFUE em paralelo mas não o DMA",
+        "para": "- Art. 6.º, n.º 5, DMA: o controlador de acesso não pode tratar de forma mais favorável, na classificação e na indexação e rastreamento associados, os seus próprios serviços e produtos do que serviços ou produtos semelhantes de terceiros, e aplica condições transparentes, equitativas e não discriminatórias a essa classificação (obrigação ex ante, sem necessidade de demonstrar efeitos)\n- Art. 6.º, n.º 2, DMA: proibição de utilizar, em concorrência com os utilizadores profissionais, dados não disponíveis publicamente gerados ou disponibilizados por esses utilizadores (e pelos seus clientes) na utilização do serviço essencial de plataforma\n- O art. 5.º, n.º 4, DMA não trata do autoprivilégio: obriga a permitir que os utilizadores profissionais comuniquem e promovam ofertas aos utilizadores finais e celebrem contratos com eles fora da plataforma (anti-steering)\n- A Comissão Europeia é a única entidade responsável pela aplicação do DMA (art. 38.º, n.º 7, DMA); o DMA aplica-se sem prejuízo dos arts. 101.º e 102.º TFUE e das regras nacionais de concorrência (art. 1.º, n.º 6, DMA)\n- Papel da AdC: aplica em paralelo o art. 102.º TFUE e o art. 11.º NRJC; pode investigar no território nacional incumprimentos dos arts. 5.º, 6.º e 7.º DMA, comunicando as conclusões à Comissão, se o direito nacional lhe der essa competência (art. 38.º, n.º 7, DMA) [■ VERIFICAR: se a lei portuguesa já atribuiu esses poderes à AdC]; os tribunais nacionais aplicam o DMA nas ações que lhes sejam submetidas (art. 39.º DMA)",
+        "motivo": "O autoprivilégio na classificação está no art. 6.º, n.º 5, e o uso de dados no art. 6.º, n.º 2; o art. 5.º, n.º 4, é anti-steering; as autoridades e os tribunais nacionais têm papel no DMA",
+        "fonte": "https://publications.europa.eu/resource/celex/32022R1925"
+      },
+      {
+        "de": "☐ DMA (art. 5.º, n.º 4): [empresa é gatekeeper designado — Comissão competente]",
+        "para": "☐ DMA (art. 6.º, n.º 5; uso de dados — art. 6.º, n.º 2): [empresa é gatekeeper designado para o serviço essencial de plataforma em causa — Comissão competente]",
+        "motivo": "Norma do DMA aplicável ao autoprivilégio",
+        "fonte": "https://publications.europa.eu/resource/celex/32022R1925"
+      },
+      {
+        "de": "Ao abrigo do acórdão Google Shopping (T-612/17) e das Orientações de Abuso da Comissão:",
+        "para": "Ao abrigo do acórdão Google Shopping (T-612/17, confirmado no processo C-48/22 P) e das orientações da Comissão sobre abusos de exclusão [■ VERIFICAR: versão em vigor das orientações da Comissão sobre a aplicação do art. 102.º TFUE aos abusos de exclusão — a adoção de novas orientações em setembro de 2026, em substituição da Comunicação de 2009, não foi confirmada em fonte oficial]:",
+        "motivo": "Acórdão de recurso do TJUE e identificação das orientações aplicáveis",
+        "fonte": "https://publications.europa.eu/resource/celex/62022CJ0048"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Confirmar se o direito português já atribuiu à AdC competência para investigar incumprimentos do DMA (art. 38.º, n.º 7, DMA).",
+      "Confirmar a versão em vigor das orientações da Comissão sobre abusos de exclusão (art. 102.º TFUE), que segundo fontes não oficiais foram adotadas em setembro de 2026.",
+      "Confirmar se a empresa foi designada gatekeeper para o serviço essencial de plataforma concreto (lista de designações da Comissão)."
+    ],
+    "fontes": [
+      "https://publications.europa.eu/resource/celex/32022R1925",
+      "https://publications.europa.eu/resource/celex/62022CJ0048",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1705&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1705A0011&nid=1705&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1769"
+    ]
+  },
+  {
+    "codigo": "CON-054",
+    "veredicto": "corrigida",
+    "resumo": "A ficha fixava em 10 anos o período a rever e chamava-lhe prazo de prescrição do private enforcement do «art. 10.º Lei 23/2018»; o art. 10.º trata das ações em diferentes níveis da cadeia e a prescrição está no art. 6.º (5 anos desde o conhecimento, que só correm depois de cessar a infração, com suspensão durante a investigação e o limite de 20 anos do art. 309.º CC). Substituí o critério pelos prazos de prescrição do procedimento contraordenacional (art. 74.º NRJC) e da indemnização, corrigi a referência à reincidência (os antecedentes são critério de medida da coima — art. 69.º, n.º 1, al. h)), precisei o teto da coima (10 % do volume de negócios mundial — art. 69.º, n.º 4), o tribunal competente (TCRS — art. 112.º, n.º 3, LOSJ) e o termo «visada».",
+    "substituicoes": [
+      {
+        "de": "- Verificar se a empresa-alvo é arguida em processo contraordenacional da AdC ou da Comissão Europeia",
+        "para": "- Verificar se a empresa-alvo é visada em processo contraordenacional da AdC ou da Comissão Europeia",
+        "motivo": "No processo da AdC a empresa é «visada» (terminologia do NRJC)",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1705&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- Verificar se o setor foi objeto de investigação nos últimos 10 anos (prazo de prescrição para private enforcement — art. 10.º Lei 23/2018)",
+        "para": "- Verificar se a empresa-alvo ou o setor foram objeto de investigação ou de decisão condenatória num período delimitado pelos prazos de prescrição, e não por um número fixo de anos: (i) procedimento contraordenacional — 5 anos (3 anos nos casos das als. h) a k) do n.º 1 do art. 68.º), contados nos termos do art. 119.º CP, interrompidos pela notificação de atos da AdC e com o limite máximo de 7 anos e meio, a que acresce a suspensão, sem limite, enquanto a decisão estiver em recurso judicial (art. 74.º, n.ºs 1, 3, 8 e 9, NRJC); (ii) indemnização (private enforcement) — 5 anos a contar do conhecimento do comportamento, do infrator e do dano, que só começam a correr depois de cessar a infração e se suspendem durante a investigação da autoridade de concorrência, sem prejuízo do prazo ordinário de 20 anos a contar do facto danoso (art. 6.º Lei 23/2018; art. 309.º CC)",
+        "motivo": "O art. 10.º da Lei 23/2018 não trata da prescrição; o prazo é de 5 anos (art. 6.º) e o procedimento contraordenacional tem regime próprio (art. 74.º NRJC)",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2899A0006&nid=2899&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Verificar se existem ações de indemnização pendentes (Tribunal da Concorrência — Santarém)",
+        "para": "- Verificar se existem ações de indemnização pendentes (Tribunal da Concorrência, Regulação e Supervisão, em Santarém, competente nas ações fundadas exclusivamente em infrações ao direito da concorrência — art. 112.º, n.º 3, LOSJ)",
+        "motivo": "Designação e base legal da competência do tribunal",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1974A0112&nid=1974&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Coimas potenciais: processos em curso (até 10% do VN — art. 69.º NRJC) + risco de processos por práticas identificadas",
+        "para": "- Coimas potenciais: processos em curso (até 10 % do volume de negócios total, a nível mundial, do exercício anterior à decisão final da AdC — art. 69.º, n.º 4, NRJC) + risco de processos por práticas identificadas",
+        "motivo": "O teto é calculado sobre o volume de negócios mundial do exercício anterior à decisão",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1705A0069&nid=1705&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Cumulação: se a empresa é reincidente, as coimas são agravadas",
+        "para": "- Antecedentes: as infrações anteriores às regras da concorrência pesam na determinação da medida da coima (art. 69.º, n.º 1, al. h), e n.º 3, NRJC); o NRJC não prevê uma agravação automática por reincidência",
+        "motivo": "O NRJC trata os antecedentes como critério de medida da coima, sem regime de reincidência",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1705A0069&nid=1705&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "1. Declaração de inexistência de processos: \"O Vendedor declara que a Target não é arguida em qualquer processo de concorrência em Portugal ou noutro Estado-Membro [na data do presente contrato].\"",
+        "para": "1. Declaração de inexistência de processos: \"O Vendedor declara que a Target não é visada em qualquer processo de concorrência em Portugal ou noutro Estado-Membro [na data do presente contrato].\"",
+        "motivo": "Terminologia do NRJC («visada»)",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1705&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- [ ] Accordos com concorrentes identificados e analisados",
+        "para": "- [ ] Acordos com concorrentes identificados e analisados",
+        "motivo": "Gralha",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1705&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Na prática, perante as causas de suspensão (investigação, recurso judicial), pode justificar-se rever um período superior a 5 anos; fixar o período concreto em função da duração das práticas.",
+      "Ponderar a responsabilidade do adquirente pelas infrações anteriores ao closing (sucessão e continuidade económica) e a necessidade de indemnização específica no SPA."
+    ],
+    "fontes": [
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1705&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1705A0069&nid=1705&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1705A0074&nid=1705&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2899&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2899A0006&nid=2899&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1974A0112&nid=1974&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+    ]
+  },
+  {
+    "codigo": "CON-055",
+    "veredicto": "corrigida",
+    "resumo": "A ficha qualificava a MFN ampla como restrição grave do «art. 4.º, al. d)» do Regulamento (UE) 2022/720, com perda da isenção pelo contrato inteiro; é uma restrição excluída do art. 5.º, n.º 1, al. d), e só a cláusula perde a isenção, se dissociável. Invertia também a definição de MFN estreita (é a paridade face aos canais diretos do fornecedor, isenta até 30 % de quota) e criava uma categoria inexistente («MFN de canal próprio»). Corrigi a classificação, a análise, o impacto no contrato e o índice. Acrescentei a proibição nacional das cláusulas de paridade no alojamento turístico e local (art. 9.º, n.º 1, al. f), NRJC) e o acórdão Booking.com (C-264/23).",
+    "descricao": "Avalia a licitude de cláusulas de paridade de preço (Most Favoured Nation — MFN) em contratos de plataformas de intermediação online com fornecedores, ao abrigo do artigo 5.º, n.º 3, do Regulamento (UE) 2022/1925 (DMA), dos artigos 3.º e 5.º, n.º 1, alínea d), do Regulamento (UE) 2022/720 (VBER 2022) e dos artigos 9.º, 10.º e 11.º da Lei n.º 19/2012 (NRJC), incluindo a proibição específica do setor do alojamento.",
+    "descricao_en": "Assesses the lawfulness of price parity clauses (Most Favoured Nation — MFN) in contracts between online intermediation platforms and suppliers, under Article 5(3) of Regulation (EU) 2022/1925 (DMA), Articles 3 and 5(1)(d) of Regulation (EU) 2022/720 (VBER 2022) and Articles 9, 10 and 11 of Law No. 19/2012 (NRJC), including the specific prohibition in the accommodation sector.",
+    "substituicoes": [
+      {
+        "de": "— Distingue: MFN ampla (proibida como restrição grave VBER 2022) vs. MFN estreita (zona cinzenta) vs. MFN de canal próprio (geralmente permitida).\n— Cita o art. 5.º, n.º 3, DMA; art. 4.º, al. d), VBER 2022; art. 9.º/11.º NRJC.",
+        "para": "— Distingue: MFN ampla ou entre plataformas (restrição excluída do VBER 2022 — art. 5.º, n.º 1, al. d): perde a isenção apenas a cláusula, se dissociável, que fica sujeita a apreciação individual) vs. MFN estreita (paridade face aos canais de venda direta do fornecedor: pode beneficiar da isenção do VBER 2022 se as quotas de mercado não excederem 30 %). No alojamento turístico e local, o art. 9.º, n.º 1, al. f), NRJC prevê expressamente estas cláusulas como acordo proibido.\n— Cita o art. 5.º, n.º 3, DMA; arts. 3.º e 5.º, n.º 1, al. d), VBER 2022; arts. 9.º, 10.º e 11.º NRJC.",
+        "motivo": "A MFN ampla é restrição excluída (art. 5.º, n.º 1, al. d)), não restrição grave do art. 4.º, al. d); a MFN estreita é isenta abaixo de 30 %; não existe a categoria «MFN de canal próprio»",
+        "fonte": "https://publications.europa.eu/resource/celex/32022R0720"
+      },
+      {
+        "de": "- **MFN ampla (wide MFN)**: a plataforma proíbe o fornecedor de oferecer preços mais baixos em QUALQUER outro canal (incluindo canais diretos e outras plataformas) → restrição grave ao abrigo do VBER 2022, art. 4.º, al. d)\n- **MFN estreita (narrow MFN)**: a plataforma proíbe oferecer preços mais baixos em outras PLATAFORMAS concorrentes, mas permite preços mais baixos no canal direto do fornecedor → zona cinzenta, análise caso a caso\n- **MFN de canal próprio**: a plataforma proíbe oferecer preços mais baixos no próprio CANAL DIRETO da plataforma (ex.: app vs. website) → habitualmente permitida",
+        "para": "- **MFN ampla (wide MFN) ou paridade entre plataformas**: a plataforma impede o fornecedor de oferecer preços ou condições mais favoráveis através de serviços de intermediação em linha CONCORRENTES (e, em regra, também nos seus canais diretos) → restrição excluída do VBER 2022 (art. 5.º, n.º 1, al. d), Reg. (UE) 2022/720), e não restrição grave do art. 4.º (o art. 4.º, al. d), trata das restrições de território ou de clientela fora da distribuição exclusiva ou seletiva)\n- **MFN estreita (narrow MFN) ou paridade restrita**: a plataforma impede o fornecedor de oferecer preços ou condições mais favoráveis nos seus PRÓPRIOS canais de venda direta (p. ex., o sítio Web do hotel), mas permite-lhe oferecer condições melhores noutras plataformas → pode beneficiar da isenção por categoria se nem a quota da plataforma nem a do fornecedor excederem 30 % (art. 3.º, n.º 1, VBER 2022; Orientações relativas às restrições verticais, ponto 254, al. a)); acima desse limiar, ou se a plataforma concorrer na venda dos bens ou serviços intermediados (plataforma híbrida — art. 2.º, n.º 6, VBER 2022), avaliação individual\n- **Alojamento turístico e alojamento local (regra nacional)**: o art. 9.º, n.º 1, al. f), NRJC (na redação do DL 108/2021) inclui expressamente nos acordos proibidos a cláusula que impeça o estabelecimento ou qualquer outra entidade de oferecer, em plataforma eletrónica ou em espaço físico, preços ou condições mais vantajosas do que as praticadas pelo intermediário que atue através de plataforma eletrónica — abrange a MFN ampla e a estreita [■ VERIFICAR: articulação com a justificação do art. 10.º NRJC, incluindo o n.º 3]",
+        "motivo": "Definições corretas (a MFN estreita respeita aos canais diretos do fornecedor) e regra nacional do alojamento",
+        "fonte": "https://publications.europa.eu/resource/celex/52022XC0630%2801%29"
+      },
+      {
+        "de": "- MFN ampla como restrição grave: retira o benefício do VBER ao contrato na totalidade (art. 4.º, al. d), VBER 2022); sujeita o acordo à proibição do art. 9.º NRJC / art. 101.º TFUE\n- MFN estreita: pode ser analisada como restrição não hardcore; avalia-se o fechamento do mercado e o impacto nos preços\n- Investigações setoriais da CE: o setor de OTAs (Booking.com, Expedia) foi amplamente investigado; as AdC europeias aceitaram compromissos de eliminação de MFN amplas",
+        "para": "- MFN ampla como restrição excluída: a exclusão limita-se à cláusula, se puder ser dissociada do resto do contrato, que continua a beneficiar da isenção; a cláusula não se presume proibida, ficando sujeita a apreciação individual à luz do art. 101.º TFUE / arts. 9.º e 10.º NRJC (Orientações relativas às restrições verticais, ponto 246)\n- MFN estreita: isenta até aos limiares de quota de mercado do art. 3.º do VBER 2022; acima deles, avalia-se o fechamento do mercado e o impacto nas comissões e nos preços (Orientações, pontos 369 a 371); a Comissão e a AdC podem retirar o benefício da isenção em casos individuais (art. 6.º VBER 2022)\n- Jurisprudência e prática decisória: o TJUE declarou que as cláusulas de paridade, ampla ou restrita, das plataformas de reserva hoteleira em linha não escapam ao art. 101.º, n.º 1, TFUE por serem acessórias ao contrato de intermediação (acórdão de 19/9/2024, Booking.com, C-264/23); várias autoridades nacionais da concorrência investigaram as agências de viagens em linha (Booking.com, Expedia) e aceitaram compromissos de eliminação das MFN amplas [■ VERIFICAR: decisões e datas]",
+        "motivo": "Regime da restrição excluída (só a cláusula perde a isenção); a MFN estreita é isenta abaixo de 30 %; as investigações das agências de viagens em linha foram nacionais, não um inquérito setorial da Comissão",
+        "fonte": "https://publications.europa.eu/resource/celex/52022XC0630%2801%29"
+      },
+      {
+        "de": "- Se MFN ampla: cláusula é nula; avaliar se a nulidade contamina o restante do contrato\n- Se MFN estreita: avaliar benefícios para consumidores (informação de preços, transparência) vs. fechamento do mercado para plataformas concorrentes\n- Remediação: reformular para MFN de canal próprio (se a plataforma pretende proteção mínima do seu investimento)",
+        "para": "- Se MFN ampla: não beneficia da isenção; se, na apreciação individual, restringir a concorrência sem preencher as condições do art. 101.º, n.º 3, TFUE / art. 10.º NRJC, é nula (art. 101.º, n.º 2, TFUE; art. 9.º, n.º 2, NRJC); a subsistência do resto do contrato afere-se pela redução do negócio (art. 292.º CC)\n- Se MFN estreita acima dos limiares do art. 3.º do VBER 2022 (ou no alojamento turístico e local, perante o art. 9.º, n.º 1, al. f), NRJC): avaliar benefícios para consumidores (informação de preços, transparência) vs. fechamento do mercado para plataformas concorrentes\n- Remediação: reformular a MFN ampla para MFN estreita, limitada aos canais de venda direta do fornecedor, se as quotas não excederem 30 % e fora do alojamento turístico e local; se a plataforma for gatekeeper designado, eliminar a cláusula (art. 5.º, n.º 3, DMA)",
+        "motivo": "A MFN ampla não é automaticamente nula; a remediação proposta assentava numa categoria inexistente",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1705A0009&nid=1705&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "☐ MFN ampla (wide): RESTRIÇÃO GRAVE — nula ao abrigo do art. 4.º, al. d), VBER 2022\n☐ MFN estreita (narrow): ZONA CINZENTA — análise caso a caso\n☐ MFN de canal próprio: HABITUALMENTE PERMITIDA",
+        "para": "☐ MFN ampla (wide) / entre plataformas: RESTRIÇÃO EXCLUÍDA — sem isenção por categoria (art. 5.º, n.º 1, al. d), VBER 2022); apreciação individual da cláusula\n☐ MFN estreita (narrow): ISENTA se as quotas de mercado não excederem 30 % (art. 3.º VBER 2022); acima disso, análise caso a caso\n☐ Alojamento turístico ou local: acordo proibido nos termos do art. 9.º, n.º 1, al. f), NRJC",
+        "motivo": "Classificação conforme o Regulamento (UE) 2022/720 e o art. 9.º, n.º 1, al. f), NRJC",
+        "fonte": "https://publications.europa.eu/resource/celex/32022R0720"
+      },
+      {
+        "de": "- [ ] Tipo de MFN (ampla/estreita/canal próprio) classificado corretamente",
+        "para": "- [ ] Tipo de MFN (ampla/estreita) classificado corretamente e setor verificado (alojamento turístico ou local — art. 9.º, n.º 1, al. f), NRJC)",
+        "motivo": "Categoria inexistente retirada; regra nacional do alojamento",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1705A0009&nid=1705&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- [ ] Art. 4.º, al. d), VBER 2022 aplicado",
+        "para": "- [ ] Arts. 3.º e 5.º, n.º 1, al. d), VBER 2022 aplicados (quotas de mercado e restrição excluída)",
+        "motivo": "Normas certas do Regulamento (UE) 2022/720",
+        "fonte": "https://publications.europa.eu/resource/celex/32022R0720"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Confirmar a articulação entre a proibição do art. 9.º, n.º 1, al. f), NRJC (alojamento) e a justificação do art. 10.º NRJC, nomeadamente o n.º 3 (acordos abrangidos por regulamento de isenção).",
+      "Definir o mercado relevante para os limiares de 30 % com exame concreto da substituibilidade entre a intermediação em linha e os outros canais de venda (Booking.com, C-264/23).",
+      "Confirmar as decisões das autoridades nacionais sobre as agências de viagens em linha antes de as citar.",
+      "Se a plataforma for gatekeeper designado (p. ex., no setor das reservas de alojamento), confirmar a designação e o serviço essencial de plataforma abrangido."
+    ],
+    "fontes": [
+      "https://publications.europa.eu/resource/celex/32022R0720",
+      "https://publications.europa.eu/resource/celex/52022XC0630%2801%29",
+      "https://publications.europa.eu/resource/celex/62023CJ0264",
+      "https://publications.europa.eu/resource/celex/32022R1925",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1705&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1705A0009&nid=1705&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1705A0010&nid=1705&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+    ]
+  },
+  {
+    "codigo": "CON-060",
+    "veredicto": "corrigida",
+    "resumo": "A ficha confundia o abuso de dependência económica do art. 12.º NRJC (competência da AdC) com as práticas individuais restritivas do comércio, que estão no DL 166/2013 (ASAE) e não exigem efeitos no mercado. Omitia o requisito de o abuso ser suscetível de afetar o funcionamento do mercado ou a estrutura da concorrência e apresentava uma lista de proibições que não é a do n.º 2. Tratava ainda o limiar de 50 % como critério, quando o teste legal é a falta de alternativa equivalente (n.º 3). Corrigi isto, a base da denúncia à AdC (art. 8.º, não o 27.º, que é a transação), a via ASAE/DL 166/2013 (arts. 7.º-B a 7.º-D e 13.º, que transpõem a Diretiva 2019/633), o regime da indemnização (Lei 23/2018 e TCRS) e o índice.",
+    "descricao": "Avalia se uma prática comercial de uma empresa com poder de negociação significativo configura abuso de dependência económica, nos termos do artigo 12.º da Lei n.º 19/2012 (NRJC), ou prática individual restritiva do comércio, nos termos do Decreto-Lei n.º 166/2013, no contexto das relações B2B em Portugal.",
+    "descricao_en": "Assesses whether a commercial practice of an undertaking with significant bargaining power amounts to abuse of economic dependence under Article 12 of Law No. 19/2012 (NRJC), or to an individual restrictive trading practice under Decree-Law No. 166/2013, in B2B relationships in Portugal.",
+    "substituicoes": [
+      {
+        "de": "— Distingue claramente: abuso de posição dominante (art. 11.º NRJC — quota de mercado relevante) vs. práticas individuais restritivas do comércio (art. 12.º NRJC — dependência económica, sem exigir posição dominante no mercado geral).",
+        "para": "— Distingue claramente: abuso de posição dominante (art. 11.º NRJC — posição dominante no mercado relevante) vs. abuso de dependência económica (art. 12.º NRJC — dependência de um fornecedor ou cliente sem alternativa equivalente, sem exigir posição dominante, mas só proibido na medida em que seja suscetível de afetar o funcionamento do mercado ou a estrutura da concorrência; competência da AdC) vs. práticas individuais restritivas do comércio (DL 166/2013 — regime distinto, fiscalizado e decidido pela ASAE, que não exige dependência nem efeitos no mercado).",
+        "motivo": "O art. 12.º NRJC é abuso de dependência económica; as práticas individuais restritivas do comércio estão no DL 166/2013 (ASAE)",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1705A0012&nid=1705&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Percentagem das vendas/compras totais da empresa dependente concentradas no parceiro em causa: > 50% sugere dependência significativa",
+        "para": "- Percentagem das vendas/compras totais da empresa dependente concentradas no parceiro em causa: é um indício, não um critério legal (a lei não fixa percentagem); o teste é a falta de alternativa equivalente — fornecimento assegurado por um número restrito de empresas e impossibilidade de obter idênticas condições de outros parceiros comerciais num prazo razoável (art. 12.º, n.º 3, als. a) e b), NRJC, requisitos cumulativos)",
+        "motivo": "O limiar de 50 % não é critério legal; o n.º 3 do art. 12.º define a falta de alternativa equivalente",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1705A0012&nid=1705&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Art. 12.º, n.º 1, NRJC — proibições específicas:\n  a) Recusa de venda sem fundamento legítimo\n  b) Venda condicionada (tying/bundling)\n  c) Preços e condições não equitativos\n  d) Rutura de relações comerciais estabelecidas sem aviso prévio adequado\n- Diretiva 2019/633 (agroalimentar): lista de práticas sempre proibidas (lista negra) e lista de práticas proibidas salvo acordo claro (lista cinzenta)",
+        "para": "- Art. 12.º, n.º 1, NRJC: a exploração abusiva só é proibida na medida em que seja suscetível de afetar o funcionamento do mercado ou a estrutura da concorrência (sem este requisito, pode haver litígio contratual ou prática individual restritiva do comércio, mas não abuso de dependência económica)\n- Art. 12.º, n.º 2, NRJC — podem ser considerados abuso, entre outros:\n  a) Os comportamentos previstos nas als. a) a d) do n.º 2 do art. 11.º NRJC: impor preços ou outras condições de transação não equitativos; limitar a produção, a distribuição ou o desenvolvimento técnico em prejuízo dos consumidores; aplicar condições desiguais a prestações equivalentes; subordinar a celebração de contratos a prestações suplementares sem ligação com o seu objeto (tying/bundling)\n  b) A rutura injustificada, total ou parcial, de uma relação comercial estabelecida, tendo em conta as relações comerciais anteriores, os usos do ramo e as condições contratuais estabelecidas\n- Setor agroalimentar: a Diretiva 2019/633 foi transposta pelo DL 76/2021, que aditou ao DL 166/2013 a lista de práticas sempre proibidas (art. 7.º-B — lista negra) e a de práticas proibidas salvo acordo prévio claro e inequívoco (art. 7.º-C — lista cinzenta); em todos os setores, o DL 166/2013 proíbe, entre outras, a venda com prejuízo (art. 5.º) e as práticas negociais abusivas (art. 7.º)",
+        "motivo": "Texto do art. 12.º NRJC (requisito de afetação do mercado e lista do n.º 2) e diploma nacional de transposição da Diretiva 2019/633",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1705A0012&nid=1705&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Denúncia à AdC (art. 27.º NRJC) — processo contraordenacional por prática proibida pelo art. 12.º NRJC\n- Se setor agroalimentar: denúncia à Autoridade de Segurança Alimentar e Económica (ASAE) ao abrigo do DL que transpõe a Diretiva 2019/633\n- Ação judicial cível: nulidade das cláusulas abusivas + indemnização ao abrigo do art. 483.º CC",
+        "para": "- Denúncia à AdC (art. 8.º NRJC; a AdC pode não lhe dar seguimento por falta de fundamento ou de prioridade, depois de ouvir o denunciante) — processo contraordenacional por prática proibida pelo art. 12.º NRJC\n- Práticas individuais restritivas do comércio (qualquer setor; no agroalimentar, também os arts. 7.º-B e 7.º-C): queixa à Autoridade de Segurança Alimentar e Económica (ASAE), que fiscaliza, instrui e decide (arts. 7.º-D e 13.º do DL 166/2013), com direito à confidencialidade da identidade do denunciante (art. 7.º-D, n.º 2)\n- Ação judicial cível: nulidade das cláusulas abusivas + indemnização; sendo o abuso de dependência económica infração ao direito da concorrência, aplica-se a Lei n.º 23/2018 (art. 2.º, al. l)), com prescrição em 5 anos a contar do conhecimento (art. 6.º), e é competente o Tribunal da Concorrência, Regulação e Supervisão quando a causa de pedir assente exclusivamente nessa infração (art. 112.º, n.ºs 3 e 4, LOSJ); nos restantes casos, art. 483.º CC",
+        "motivo": "O art. 27.º NRJC trata da transação; a denúncia está no art. 8.º. A via ASAE assenta no DL 166/2013; a indemnização por infração ao art. 12.º segue a Lei 23/2018",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1705A0008&nid=1705&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "A empresa dependente realiza [X]% das suas vendas/compras com a empresa em causa [■ VERIFICAR]. A substituição a curto prazo [é / não é] possível dado [■ VERIFICAR: caracterização do mercado]. Conclui-se que existe [dependência económica significativa / relação de dependência que pode enquadrar o art. 12.º NRJC].",
+        "para": "A empresa dependente realiza [X]% das suas vendas/compras com a empresa em causa [■ VERIFICAR]. A substituição a curto prazo [é / não é] possível dado [■ VERIFICAR: caracterização do mercado]. Conclui-se que existe [dependência económica significativa / relação de dependência que pode enquadrar o art. 12.º NRJC]. A exploração dessa dependência [é / não é] suscetível de afetar o funcionamento do mercado ou a estrutura da concorrência (art. 12.º, n.º 1, NRJC) [■ VERIFICAR: fundamentação].",
+        "motivo": "Requisito de afetação do mercado do art. 12.º, n.º 1, NRJC",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1705A0012&nid=1705&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "| [■ VERIFICAR] | [descrição] | [proibida / zona cinzenta] | [art. 12.º NRJC / Diretiva 2019/633] |",
+        "para": "| [■ VERIFICAR] | [descrição] | [proibida / zona cinzenta] | [art. 12.º NRJC / DL 166/2013] |",
+        "motivo": "A diretiva não se aplica diretamente entre particulares; a base é o DL 166/2013",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- [ ] Regime setorial (Diretiva 2019/633 se setor agroalimentar) verificado",
+        "para": "- [ ] Regime setorial verificado (DL 166/2013, arts. 7.º-B e 7.º-C, que transpõem a Diretiva 2019/633, se setor agroalimentar)",
+        "motivo": "Diploma nacional de transposição",
+        "fonte": "https://sima.gpp.pt/images/Producao_e_Mercados/OrgProducao_CadeiaAlimentar/PARCA/DL_76_2021.pdf"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Fundamentar em concreto a suscetibilidade de afetação do funcionamento do mercado ou da estrutura da concorrência: sem ela, a denúncia à AdC ao abrigo do art. 12.º NRJC não procede.",
+      "Verificar se a prática é também prática individual restritiva do comércio (DL 166/2013), cuja via é a ASAE, e se o setor está excluído (SIEG, setores regulados — art. 2.º, n.º 2).",
+      "Confirmar a base da nulidade das cláusulas e a sua articulação com o regime das cláusulas contratuais gerais."
+    ],
+    "fontes": [
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1705&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1705A0008&nid=1705&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1705A0011&nid=1705&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1705A0012&nid=1705&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://sima.gpp.pt/images/Producao_e_Mercados/OrgProducao_CadeiaAlimentar/PARCA/DL_76_2021.pdf",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2899&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2899A0002&nid=2899&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2899A0006&nid=2899&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1974A0112&nid=1974&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+    ]
+  }
+]

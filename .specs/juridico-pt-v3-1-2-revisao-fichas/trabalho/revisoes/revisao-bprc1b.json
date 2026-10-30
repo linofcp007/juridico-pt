@@ -1,0 +1,297 @@
+[
+  {
+    "codigo": "PRC-053",
+    "veredicto": "corrigida",
+    "resumo": "A ficha tratava o art. 46.º, n.º 4, LAV como fundamentos de conhecimento oficioso (é a renúncia ao direito de impugnar; os fundamentos estão todos no n.º 3, al. a) a demonstrar pela parte e al. b) verificados pelo tribunal), citava uma al. d) do n.º 3 que não existe e indicava a al. c) do art. 59.º, n.º 1, LAV (destituição de árbitro) em vez da al. g). Corrigiu-se também o efeito suspensivo: a impugnação não suspende a execução da sentença arbitral, salvo requerimento com oferta e prestação de caução (art. 47.º, n.º 3, LAV). Acrescentaram-se os requisitos do requerimento (cópia certificada e tradução, prova com o requerimento) e a contagem do prazo após requerimento do art. 45.º LAV.",
+    "descricao": "Gera a petição inicial de ação de anulação de decisão arbitral nos termos do artigo 46.º da Lei de Arbitragem Voluntária (LAV — Lei n.º 63/2011, de 14 de dezembro), com fundamento nos vícios taxativos do artigo 46.º, n.º 3, LAV, para apresentar no tribunal estadual competente no prazo de 60 dias.",
+    "descricao_en": "Generates the statement of claim in an action to set aside (annul) an arbitral award under Article 46 of the Voluntary Arbitration Law (LAV — Law No. 63/2011 of 14 December), on the exhaustive grounds set out in Article 46(3) LAV, to be filed with the competent State court within 60 days.",
+    "substituicoes": [
+      {
+        "de": "— Os fundamentos de anulação são TAXATIVOS (art. 46.º, n.ºs 3 e 4, LAV); não há anulação por erro de julgamento de mérito.",
+        "para": "— Os fundamentos de anulação são TAXATIVOS (art. 46.º, n.º 3, LAV): os da al. a) têm de ser demonstrados pela parte que pede a anulação; os da al. b) (inarbitrabilidade do litígio e ofensa da ordem pública internacional do Estado português) são verificados pelo tribunal. Não há anulação por erro de julgamento de mérito, e o tribunal estadual que anule não conhece do mérito (art. 46.º, n.º 9, LAV).\n— A parte que, sabendo da violação de norma derrogável da LAV ou de condição da convenção, prosseguiu a arbitragem sem deduzir oposição de imediato (ou no prazo previsto) renunciou a impugnar com esse fundamento (art. 46.º, n.º 4, LAV).",
+        "motivo": "O n.º 4 do art. 46.º LAV não enumera fundamentos de anulação: regula a renúncia ao direito de impugnar; os fundamentos estão todos no n.º 3, als. a) e b).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1579&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- Fundamento de anulação: qual das alíneas do art. 46.º, n.º 3 ou n.º 4, LAV?\n- Distinção: fundamentos a alegar pela parte (n.º 3) vs. officiosamente (n.º 4)",
+        "para": "- Fundamento de anulação: qual das subalíneas do art. 46.º, n.º 3, al. a) ou al. b), LAV?\n- Distinção: fundamentos a demonstrar pela parte (n.º 3, al. a)) vs. fundamentos verificados pelo tribunal (n.º 3, al. b)); renúncia ao fundamento não oposto de imediato no processo arbitral (n.º 4)",
+        "motivo": "Os fundamentos oficiosos estão no n.º 3, al. b), e não no n.º 4, que trata da renúncia.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1579&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "após notificação da decisão definitiva (art. 46.º, n.º 6, LAV)",
+        "para": "após notificação da decisão definitiva (art. 46.º, n.º 6, LAV), contados da receção da notificação da sentença ou, se tiver sido feito requerimento ao abrigo do art. 45.º LAV (retificação, esclarecimento ou sentença adicional), da decisão do tribunal arbitral sobre esse requerimento",
+        "motivo": "O n.º 6 do art. 46.º LAV faz correr o prazo da decisão sobre o requerimento do art. 45.º LAV, quando exista.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1579&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- Tribunal competente: Tribunal da Relação (art. 59.º, n.º 1, al. c), LAV)\n- Efeito suspensivo (art. 47.º LAV)",
+        "para": "- Tribunal competente: Tribunal da Relação em cujo distrito se situe o lugar da arbitragem (art. 59.º, n.º 1, al. g), LAV); em litígios da jurisdição dos tribunais administrativos, o Tribunal Central Administrativo (art. 59.º, n.º 2, LAV)\n- Efeito suspensivo (art. 47.º LAV): a sentença arbitral pode servir de base à execução ainda que impugnada; o impugnante só obtém efeito suspensivo da execução se o requerer e se oferecer para prestar caução, ficando esse efeito condicionado à prestação efetiva da caução no prazo fixado pelo tribunal (n.º 3)",
+        "motivo": "A al. c) do art. 59.º, n.º 1, LAV respeita à destituição de árbitro; a impugnação da sentença final está na al. g). A ação de anulação não tem efeito suspensivo automático (art. 47.º, n.º 3, LAV).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1579&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- Artigo 46.º, n.º 3, LAV (fundamentos a alegar — incapacidade, inválida convenção, violação do contraditório, excesso de poderes, composição irregular do tribunal, etc.)\n- Artigo 46.º, n.º 4, LAV (fundamentos de conhecimento oficioso — arbitrabilidade, ordem pública)",
+        "para": "- Artigo 46.º, n.º 3, LAV — al. a) (fundamentos que a parte tem de demonstrar: incapacidade de uma das partes ou invalidade da convenção; violação dos princípios fundamentais do art. 30.º, n.º 1, LAV com influência decisiva na resolução do litígio; litígio não abrangido pela convenção ou decisões que ultrapassam o seu âmbito; composição do tribunal ou processo arbitral desconformes, com influência decisiva; condenação em quantidade superior ou em objeto diverso do pedido, excesso ou omissão de pronúncia; violação dos requisitos do art. 42.º, n.ºs 1 e 3, LAV; notificação da sentença depois do prazo do art. 43.º LAV)\n- Artigo 46.º, n.º 3, LAV — al. b) (fundamentos que o tribunal verifica: litígio não suscetível de ser decidido por arbitragem nos termos do direito português; ofensa dos princípios da ordem pública internacional do Estado português)\n- Artigo 46.º, n.º 4, LAV (renúncia ao direito de impugnar com fundamento em violação que a parte conhecia e não opôs de imediato no processo arbitral)\n- Artigo 46.º, n.º 2, LAV (requerimento acompanhado de cópia certificada da sentença e, se redigida em língua estrangeira, de tradução para português; prova oferecida com o requerimento; segue a tramitação do recurso de apelação)",
+        "motivo": "Os fundamentos oficiosos (inarbitrabilidade e ordem pública internacional) estão no n.º 3, al. b); o n.º 4 regula a renúncia. Acrescentam-se os requisitos do requerimento do n.º 2.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1579&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- Artigo 59.º, n.º 1, al. c), LAV (competência do Tribunal da Relação)\n- Artigo 47.º LAV (efeito suspensivo da ação de anulação)",
+        "para": "- Artigo 59.º, n.º 1, al. g), LAV (competência do Tribunal da Relação em cujo distrito se situe o lugar da arbitragem)\n- Artigo 47.º LAV (n.º 3: a sentença pode ser executada ainda que impugnada; efeito suspensivo da execução só a requerimento do impugnante e mediante prestação de caução)",
+        "motivo": "Alínea errada do art. 59.º, n.º 1, LAV e efeito suspensivo mal descrito (art. 47.º, n.º 3, LAV).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1579&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- Pedido de anulação total ou parcial\n- Pedido de efeito suspensivo",
+        "para": "- Pedido de anulação total ou parcial\n- Pedido de efeito suspensivo da execução, com oferta de caução",
+        "motivo": "O efeito suspensivo depende de oferta e prestação de caução (art. 47.º, n.º 3, LAV).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1579&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "com sede em [localidade].",
+        "para": "sendo o lugar da arbitragem [localidade] (determina a Relação competente).",
+        "motivo": "A competência da Relação afere-se pelo lugar da arbitragem (art. 59.º, n.º 1, LAV), não pela sede do centro.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1579&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "*[Fundamento — ex.: al. d) do n.º 3 — excesso de poderes]*\nNos termos do artigo 46.º, n.º 3, al. d), da LAV, a decisão arbitral pode ser anulada se o tribunal arbitral conheceu de questões que extravasam o âmbito da convenção de arbitragem.",
+        "para": "*[Fundamento — ex.: subalínea iii) da al. a) do n.º 3 — litígio ou decisões fora do âmbito da convenção]*\nNos termos do artigo 46.º, n.º 3, al. a), subalínea iii), da LAV, a sentença arbitral pode ser anulada se a parte que faz o pedido demonstrar que a sentença se pronunciou sobre um litígio não abrangido pela convenção de arbitragem ou contém decisões que ultrapassam o âmbito desta.",
+        "motivo": "O n.º 3 do art. 46.º LAV só tem as als. a) e b); o fundamento invocado é a subalínea iii) da al. a).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1579&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "o que determina a anulação da decisão na parte correspondente.",
+        "para": "o que determina a anulação da sentença na parte correspondente, se for dissociável do resto (art. 46.º, n.º 7, LAV).",
+        "motivo": "A anulação parcial depende de a parte viciada ser dissociável (art. 46.º, n.º 7, LAV).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1579&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "Requer-se que a presente ação de anulação produza efeito suspensivo da decisão arbitral, nos termos do artigo 47.º da LAV, até decisão final.",
+        "para": "O Autor oferece-se para prestar caução, por [depósito / garantia bancária / seguro-caução], no valor de €[valor], e requer que a presente impugnação tenha efeito suspensivo da execução da sentença arbitral, nos termos do artigo 47.º da LAV, até decisão final, ficando esse efeito condicionado à prestação efetiva da caução no prazo que vier a ser fixado. [Sem caução prestada, a sentença arbitral pode servir de base à execução, ainda que impugnada.]",
+        "motivo": "O art. 47.º, n.º 3, LAV não dá efeito suspensivo à ação de anulação: só a requerimento do impugnante, com oferta e prestação de caução.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1579&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "b) Ordenar o efeito suspensivo da decisão (art. 47.º LAV);",
+        "para": "b) Ordenar o efeito suspensivo da decisão (art. 47.º LAV), atribuindo à impugnação efeito suspensivo da execução da sentença arbitral, condicionado à prestação da caução oferecida no prazo que vier a ser fixado;",
+        "motivo": "Efeito suspensivo da execução condicionado à caução (art. 47.º, n.º 3, LAV).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1579&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "Junta: [convenção de arbitragem, decisão arbitral, documentos relevantes]",
+        "para": "Junta: [cópia certificada da sentença arbitral e, se redigida em língua estrangeira, tradução para português (art. 46.º, n.º 2, LAV); convenção de arbitragem; demais documentos e prova]",
+        "motivo": "O pedido de anulação deve ser acompanhado de cópia certificada da sentença e, se for o caso, de tradução; a prova é oferecida com o requerimento (art. 46.º, n.º 2, LAV).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1579&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- [ ] Fundamento de anulação enquadrado numa das alíneas taxativas do art. 46.º, n.ºs 3 ou 4, LAV",
+        "para": "- [ ] Fundamento de anulação enquadrado numa das alíneas taxativas do art. 46.º, n.º 3, LAV, e não precludido por falta de oposição imediata no processo arbitral (art. 46.º, n.º 4, LAV)",
+        "motivo": "Os fundamentos estão só no n.º 3; o n.º 4 é a renúncia.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1579&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- [ ] Tribunal da Relação competente identificado (art. 59.º, n.º 1, al. c), LAV)",
+        "para": "- [ ] Tribunal da Relação competente identificado pelo lugar da arbitragem (art. 59.º, n.º 1, al. g), LAV)",
+        "motivo": "Alínea errada do art. 59.º, n.º 1, LAV.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1579&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- [ ] Efeito suspensivo requerido (art. 47.º LAV)",
+        "para": "- [ ] Efeito suspensivo requerido (art. 47.º LAV), com oferta de caução (modalidade e valor)",
+        "motivo": "O efeito suspensivo depende de caução (art. 47.º, n.º 3, LAV).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1579&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- [ ] Decisão arbitral e convenção de arbitragem juntas",
+        "para": "- [ ] Cópia certificada da sentença arbitral (e tradução, se necessária) e convenção de arbitragem juntas; prova oferecida com o requerimento (art. 46.º, n.º 2, LAV)",
+        "motivo": "Requisitos do requerimento de anulação (art. 46.º, n.º 2, LAV).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1579&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- Data de notificação ao requerente: [data]",
+        "para": "- Data de notificação ao requerente: [data]\n- Requerimento ao abrigo do art. 45.º LAV (retificação, esclarecimento ou sentença adicional): [sim/não — data da decisão]\n- Lugar da arbitragem: [localidade]",
+        "motivo": "Dados necessários para contar o prazo (art. 46.º, n.º 6, LAV) e fixar a Relação competente (art. 59.º, n.º 1, LAV).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1579&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- Efeito suspensivo urgente: [sim/não]",
+        "para": "- Efeito suspensivo da execução: [sim/não — caução oferecida: modalidade e valor]",
+        "motivo": "O efeito suspensivo depende de caução (art. 47.º, n.º 3, LAV).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1579&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "O art. 47.º, n.ºs 3 e 4, LAV remete ainda para os arts. 818.º, n.º 3, 692.º-A e 693.º-A do CPC de 1961; confirmar as normas correspondentes do CPC de 2013 e em que processo (anulação ou execução) se deve requerer o efeito suspensivo e prestar a caução.",
+      "Confirmar se as partes convencionaram recurso da sentença (art. 39.º, n.º 4, LAV), caso em que a impugnação não se limita ao pedido de anulação (art. 46.º, n.º 1, LAV).",
+      "Se o litígio for da jurisdição administrativa, a ação vai para o Tribunal Central Administrativo (art. 59.º, n.º 2, LAV).",
+      "Verificar se houve oposição tempestiva no processo arbitral ao vício invocado, para afastar a renúncia do art. 46.º, n.º 4, LAV."
+    ],
+    "fontes": [
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1579&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+    ]
+  },
+  {
+    "codigo": "PRC-054",
+    "veredicto": "corrigida",
+    "resumo": "A ficha citava um inexistente art. 878.º, n.º 3, CPC com prazo de resposta de 10 dias (o art. 878.º tem um só número; a contestação é apresentada na audiência, marcada num dos 20 dias seguintes, e, havendo decisão provisória sem audição, o réu contesta em 20 dias — art. 879.º CPC), e cumulava o pedido de indemnização no requerimento do processo especial. Corrigiu-se o âmbito do procedimento (ameaça ou ofensa à personalidade de ser humano, não de pessoas coletivas), remeteu-se a indemnização para ação comum autónoma (art. 70.º, n.º 2, CC; arts. 555.º e 37.º CPC) e acrescentaram-se a decisão provisória, a sanção pecuniária compulsória e a execução oficiosa dos arts. 879.º e 880.º CPC. A urgência do processo em 1.ª instância ficou com [■ VERIFICAR].",
+    "substituicoes": [
+      {
+        "de": "— Distingue o procedimento especial (art. 878.º CPC — cessação de ofensa continuada) da ação declarativa comum (indemnização).\n— O procedimento é urgente e decorre em paralelo com eventual pedido indemnizatório.",
+        "para": "— Distingue o procedimento especial (art. 878.º CPC — providências concretamente adequadas a evitar a consumação de ameaça ilícita e direta à personalidade física ou moral de ser humano, ou a atenuar ou fazer cessar os efeitos de ofensa já cometida) da ação declarativa comum (indemnização). Só pessoas singulares podem usar este procedimento; uma pessoa coletiva recorre aos meios comuns.\n— A audiência realiza-se num dos 20 dias subsequentes ao requerimento e a contestação é apresentada na própria audiência (art. 879.º, n.ºs 1 e 2, CPC); os recursos são processados como urgentes (art. 880.º, n.º 1, CPC) [■ VERIFICAR: natureza urgente do processo em 1.ª instância, para efeitos de férias judiciais (art. 138.º, n.º 1, CPC)].\n— A indemnização pelos danos já causados pede-se em ação declarativa comum autónoma, que pode correr em paralelo (art. 70.º, n.º 2, CC); a cumulação neste processo especial esbarra na diferença de formas de processo (art. 555.º, n.º 1, e art. 37.º, n.ºs 1 e 2, CPC) [■ VERIFICAR: jurisprudência atual sobre a cumulação do pedido de indemnização].",
+        "motivo": "O art. 878.º CPC abrange a ameaça e a ofensa à personalidade de ser humano (não só a ofensa continuada); a lei só qualifica como urgentes os recursos (art. 880.º, n.º 1, CPC); a indemnização segue a ação comum.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0878&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Artigo 878.º, n.º 3, CPC (prazo de resposta de 10 dias)",
+        "para": "- Artigo 879.º CPC (audiência num dos 20 dias subsequentes; contestação na própria audiência; decisão provisória sem audição prévia, n.º 5; contestação no prazo de 20 dias após a notificação da decisão provisória, n.º 6)",
+        "motivo": "O art. 878.º CPC tem um só número e não fixa prazo de resposta; a tramitação está no art. 879.º CPC e não há prazo de 10 dias.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0878&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Pedido de injunção de remoção/cessação\n- Pedido subsidiário de indemnização (se cumulado)\n</estrutura_requerimento>",
+        "para": "- Pedido de providências concretas de remoção/cessação, com prazo e sanção pecuniária compulsória (art. 879.º, n.º 4, CPC)\n- Se houver possibilidade de lesão iminente e irreversível: pedido de decisão provisória (art. 879.º, n.º 5, CPC)\n- Sem pedido de indemnização: segue em ação declarativa comum autónoma\n</estrutura_peticao>",
+        "motivo": "Conteúdo da decisão e decisão provisória (art. 879.º, n.ºs 4 e 5, CPC); a indemnização não se cumula neste processo (arts. 555.º, n.º 1, e 37.º CPC). Corrige-se também a etiqueta de fecho.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0878&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "A natureza viral do conteúdo exige cessação imediata.",
+        "para": "A natureza viral do conteúdo exige cessação imediata. [Se a prova permitir reconhecer a possibilidade de lesão iminente e irreversível: requer-se decisão provisória, sem prévia audição do Requerido, por razões de especial urgência (art. 879.º, n.º 5, al. b), CPC).]",
+        "motivo": "A cessação imediata obtém-se pela decisão provisória do art. 879.º, n.º 5, CPC.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0878&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "a) Notificar o Requerido para cessar imediatamente a ofensa, removendo a publicação identificada;\nb) Em caso de incumprimento, ordenar a remoção diretamente à plataforma [Facebook / Google / outra], com comunicação por ofício judicial;\nc) Fixar sanção pecuniária compulsória (art. 829.º-A CC) de €[valor]/dia para cada dia de incumprimento;\nd) [Se cumulado] Condenar o Requerido a pagar indemnização de €[valor] pelos danos já causados.",
+        "para": "a) Decretar as providências concretamente adequadas a fazer cessar a ofensa, determinando que o Requerido remova a publicação identificada no prazo de [X] horas/dias (art. 879.º, n.º 4, CPC);\nb) Em caso de incumprimento, promover a execução oficiosa da decisão nos próprios autos (art. 880.º, n.º 2, CPC), solicitando à plataforma [Facebook / Google / outra], por ofício judicial, a remoção do conteúdo [■ VERIFICAR: admissibilidade de ordem dirigida a prestador intermediário de serviços que não é parte no processo];\nc) Fixar sanção pecuniária compulsória (art. 829.º-A CC) de €[valor] por cada dia de atraso no cumprimento ou por cada infração (art. 879.º, n.º 4, CPC);\nd) [Se houver possibilidade de lesão iminente e irreversível] Proferir decisão provisória, sem prévia audição do Requerido (art. 879.º, n.º 5, CPC).\n[A indemnização pelos danos já causados não se pede neste processo: segue em ação declarativa comum autónoma (art. 70.º, n.º 2, CC).]",
+        "motivo": "O tribunal determina o comportamento concreto, o prazo e a sanção pecuniária compulsória (art. 879.º, n.º 4, CPC) e a execução é oficiosa nos próprios autos (art. 880.º, n.º 2, CPC); o pedido de indemnização corresponde a forma de processo diferente (arts. 555.º, n.º 1, e 37.º, n.º 1, CPC).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0880&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- [ ] Direito de personalidade ofendido corretamente identificado com norma do CC",
+        "para": "- [ ] Requerente é pessoa singular (o art. 878.º CPC só tutela a personalidade de ser humano) e direito de personalidade ofendido corretamente identificado com norma do CC",
+        "motivo": "O procedimento só protege a personalidade física ou moral de ser humano (art. 878.º CPC).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0878&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- [ ] Pedido de injunção de remoção com sanção compulsória",
+        "para": "- [ ] Pedido de providências concretas de remoção, com prazo e sanção pecuniária compulsória (art. 879.º, n.º 4, CPC), sem pedido de indemnização",
+        "motivo": "Conteúdo da decisão (art. 879.º, n.º 4, CPC); a indemnização segue a ação comum.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0878&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Indemnização cumulada: [sim/não — valor]",
+        "para": "- Indemnização pretendida (a pedir em ação declarativa comum autónoma): [sim/não — valor]",
+        "motivo": "O pedido de indemnização não se cumula neste processo especial (arts. 555.º, n.º 1, e 37.º, n.º 1, CPC).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0555&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Confirmar se o processo é urgente em 1.ª instância (corre em férias judiciais?): a lei só qualifica como urgentes os recursos (art. 880.º, n.º 1, CPC).",
+      "Confirmar na jurisprudência atual se o juiz pode autorizar a cumulação do pedido de indemnização (art. 37.º, n.º 2, CPC) ou se deve ser deduzido em ação comum autónoma.",
+      "Confirmar a via para obter a remoção junto da plataforma que não é parte (regime dos prestadores intermediários de serviços em rede) — não conferido.",
+      "O cabeçalho da peça mantém «Procedimento especial urgente»: ajustar se a urgência em 1.ª instância não se confirmar."
+    ],
+    "fontes": [
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0878&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0880&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0070&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0555&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0037&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+    ]
+  },
+  {
+    "codigo": "PRC-060",
+    "veredicto": "corrigida",
+    "resumo": "A ficha confundia os regimes do art. 777.º CC: sem prazo estipulado o credor pode exigir a todo o tempo e constitui o devedor em mora por interpelação (art. 805.º, n.º 1, CC); a fixação judicial só cabe quando o prazo é necessário pela natureza da prestação, pelas circunstâncias ou pelos usos e as partes não acordam (n.º 2), ou quando o credor não usa da faculdade de o determinar (n.º 3, a requerimento do devedor). Corrigiram-se ainda o processo aplicável (arts. 1026.º e 1027.º CPC), o alcance do art. 411.º CC (só a promessa unilateral), o efeito da fixação (mora sem interpelação, art. 805.º, n.º 2, al. a), CC; a sentença não é título executivo da prestação, art. 703.º CPC) e o juízo competente (juízo local cível, não central cível).",
+    "descricao": "Gera o requerimento de fixação judicial de prazo para cumprimento de obrigação sem prazo estipulado, quando a natureza da prestação, as circunstâncias ou os usos tornem necessário um prazo e as partes não acordem na sua determinação, ao abrigo do artigo 777.º, n.ºs 2 e 3, do Código Civil e dos artigos 1026.º e 1027.º do CPC (Lei n.º 41/2013), com análise da natureza da obrigação e da razoabilidade do prazo a fixar.",
+    "descricao_en": "Generates the application for the court to fix a time limit for performance of an obligation with no stipulated time limit, where the nature of the performance, the circumstances or usage make a time limit necessary and the parties do not agree on it, under Article 777(2) and (3) of the Civil Code and Articles 1026 and 1027 CPC (Law No. 41/2013), analysing the nature of the obligation and the reasonableness of the time limit to be fixed.",
+    "substituicoes": [
+      {
+        "de": "— Distingue: obrigação sem prazo estipulado (art. 777.º CC — credor pode exigir a todo o tempo); obrigação com prazo a fixar pelo credor (art. 777.º, n.º 2, CC — prazo razoável); fixação judicial (art. 777.º, n.º 2, in fine, CC + art. 1.º CPC).",
+        "para": "— Distingue: obrigação sem prazo estipulado (art. 777.º, n.º 1, CC — o credor pode exigir o cumprimento a todo o tempo e constitui o devedor em mora pela interpelação, art. 805.º, n.º 1, CC, sem necessidade de tribunal); prazo necessário pela natureza da prestação, pelas circunstâncias ou pelos usos, sem acordo das partes na sua determinação (art. 777.º, n.º 2, CC — fixação pelo tribunal); determinação do prazo deixada ao credor que não a exerce (art. 777.º, n.º 3, CC — fixação pelo tribunal, a requerimento do devedor); prazo dependente da possibilidade ou do arbítrio do devedor (art. 778.º CC — regime próprio). A fixação judicial segue o processo dos arts. 1026.º e 1027.º CPC.",
+        "motivo": "O n.º 2 do art. 777.º CC não respeita ao prazo a fixar pelo credor (que é o n.º 3, com fixação a requerimento do devedor), e a obrigação sem prazo não carece de fixação judicial; o processo é o dos arts. 1026.º e 1027.º CPC.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0777&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Regime do prazo: sem prazo estipulado (art. 777.º, n.º 1, CC) ou com prazo a fixar (n.º 2)",
+        "para": "- Regime do prazo: sem prazo estipulado, o credor pode exigir a todo o tempo (art. 777.º, n.º 1, CC); a fixação judicial só cabe se o prazo for necessário e as partes não acordarem (n.º 2) ou se o credor não usar da faculdade de o determinar (n.º 3, a requerimento do devedor)",
+        "motivo": "Pressupostos da fixação judicial do prazo (art. 777.º, n.ºs 2 e 3, CC).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0777&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Efeito da fixação: a partir da sua ultrapassagem, o devedor entra em mora e pode ser executado",
+        "para": "- Efeito da fixação: decorrido o prazo fixado, o devedor fica em mora sem necessidade de interpelação (art. 805.º, n.º 2, al. a), CC); a sentença que fixa o prazo não o condena a cumprir, pelo que a execução exige título executivo (art. 703.º CPC), obtido, se necessário, em ação de condenação",
+        "motivo": "A sentença de fixação de prazo não é sentença condenatória, único tipo de sentença que serve de título executivo (art. 703.º, n.º 1, al. a), CPC).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0703&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Artigo 777.º CC (prazo das obrigações — sem prazo estipulado)\n- Artigo 411.º CC (fixação judicial de prazo nas condições)\n- Artigo 804.º CC (mora do devedor)\n- Artigos 986.º e ss. CPC (processo de jurisdição voluntária — forma subsidiária)",
+        "para": "- Artigo 777.º CC (determinação do prazo — n.º 1: sem prazo, exigível a todo o tempo; n.ºs 2 e 3: fixação pelo tribunal)\n- Artigo 411.º CC (só na promessa unilateral sem prazo: o tribunal fixa, a requerimento do promitente, prazo para o exercício do direito, findo o qual este caduca)\n- Artigo 804.º CC (mora do devedor)\n- Artigo 805.º, n.º 2, al. a), CC (mora sem interpelação na obrigação com prazo certo)\n- Artigos 1026.º e 1027.º CPC (fixação judicial do prazo: o requerente justifica o pedido e indica o prazo que repute adequado; a parte contrária é citada para responder; na falta de resposta, é fixado o prazo proposto ou o que o juiz considere razoável)\n- Artigos 986.º e ss. CPC (regras gerais dos processos de jurisdição voluntária)",
+        "motivo": "O art. 411.º CC só respeita à promessa unilateral; o processo próprio é o dos arts. 1026.º e 1027.º CPC, e não uma forma subsidiária.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A1026&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "**AO JUÍZO [LOCAL CÍVEL / CENTRAL CÍVEL] DE [COMARCA]**",
+        "para": "**AO JUÍZO LOCAL CÍVEL DE [COMARCA]** [ou juízo de competência genérica, onde não houver juízo local cível]",
+        "motivo": "Os juízos centrais cíveis só julgam ações declarativas de processo comum de valor superior a €50 000 (art. 117.º, n.º 1, LOSJ); a fixação judicial de prazo cabe aos juízos locais cíveis ou de competência genérica (art. 130.º, n.º 1, LOSJ).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1974A0117&nid=1974&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "para cumprimento de obrigação, nos termos do artigo 777.º do Código Civil, com os seguintes fundamentos:",
+        "para": "para cumprimento de obrigação, nos termos do artigo 777.º do Código Civil e dos artigos 1026.º e 1027.º do CPC, com os seguintes fundamentos:",
+        "motivo": "Indica-se o processo próprio da fixação judicial do prazo.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A1026&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "2.º As partes não estipularam prazo para o cumprimento desta obrigação.\n3.º [Ou: O contrato estabelece que o prazo seria fixado pelo Requerente com «antecedência razoável», mas o Requerido recusa aceitar qualquer prazo notificado — Doc. 2].",
+        "para": "2.º As partes não estipularam prazo para o cumprimento desta obrigação.\n3.º Atenta [a própria natureza da prestação / as circunstâncias que a determinaram / os usos do setor], o cumprimento exige o estabelecimento de um prazo, e as partes não acordaram na sua determinação (art. 777.º, n.º 2, CC) — [Doc. 2, se houver].\n[Nota: se o contrato deixou a determinação do prazo ao Requerente (credor), pode este fixá-lo e comunicá-lo ao Requerido sem recurso ao tribunal; a fixação judicial, nesse caso, só cabe a requerimento do devedor, se o credor não usar dessa faculdade (art. 777.º, n.º 3, CC).]",
+        "motivo": "A falta de prazo, por si só, não justifica a fixação judicial (art. 777.º, n.º 1, CC): é preciso alegar a necessidade do prazo e a falta de acordo (n.º 2); o prazo deixado ao credor rege-se pelo n.º 3.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0777&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "Fixado o prazo e não cumprida a obrigação, o Requerido incorria em mora (art. 804.º CC), ficando o Requerente com o direito de [exigir cumprimento coercivo / resolver o contrato / exigir indemnização], nos termos legais.",
+        "para": "Fixado o prazo e não cumprida a obrigação, o Requerido incorrerá em mora (art. 804.º CC), independentemente de interpelação (art. 805.º, n.º 2, al. a), CC), ficando o Requerente com o direito de [exigir judicialmente o cumprimento / exigir indemnização moratória / resolver o contrato, verificado o incumprimento definitivo (art. 808.º CC)], nos termos legais.",
+        "motivo": "Com prazo certo há mora sem interpelação (art. 805.º, n.º 2, al. a), CC); a resolução exige incumprimento definitivo.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0805&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "b) Notificar o Requerido do prazo fixado;",
+        "para": "b) Citar o Requerido para responder, fixando-se, na falta de resposta, o prazo proposto (art. 1027.º CPC), e notificá-lo do prazo fixado;",
+        "motivo": "A parte contrária é citada para responder (art. 1027.º, n.º 1, CPC).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A1026&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- [ ] Ausência de prazo contratual ou impasse na fixação extrajudicial demonstrada",
+        "para": "- [ ] Ausência de prazo contratual, necessidade de prazo (natureza da prestação, circunstâncias ou usos) e falta de acordo das partes demonstradas (art. 777.º, n.º 2, CC)",
+        "motivo": "Pressupostos do art. 777.º, n.º 2, CC.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0777&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- [ ] Base legal correta: art. 777.º CC + processo de jurisdição voluntária",
+        "para": "- [ ] Base legal correta: art. 777.º, n.ºs 2 ou 3, CC + arts. 1026.º e 1027.º CPC (jurisdição voluntária)",
+        "motivo": "Processo próprio da fixação judicial do prazo.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A1026&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Prazo no contrato: [não estipulado / a fixar pelo credor]",
+        "para": "- Prazo no contrato: [não estipulado / deixado ao credor / dependente da possibilidade ou do arbítrio do devedor (art. 778.º CC)]\n- Porque é necessário um prazo: [natureza da prestação / circunstâncias / usos]",
+        "motivo": "Dados para enquadrar o caso no art. 777.º, n.ºs 2 ou 3, ou no art. 778.º CC.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0777&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Antes de requerer a fixação judicial, ponderar se basta interpelar o devedor (art. 777.º, n.º 1, e art. 805.º, n.º 1, CC): só há interesse processual se o prazo for necessário pela natureza da prestação, pelas circunstâncias ou pelos usos (art. 777.º, n.º 2, CC).",
+      "Se o prazo depender da possibilidade ou do arbítrio do devedor («quando puder», «quando quiser»), aplica-se o art. 778.º CC, e não a fixação judicial do art. 777.º CC.",
+      "Confirmar o título executivo disponível para a eventual execução após o prazo fixado (art. 703.º CPC)."
+    ],
+    "fontes": [
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0777&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0805&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0411&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A1026&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0703&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1974A0117&nid=1974&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1974A0130&nid=1974&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+    ]
+  }
+]

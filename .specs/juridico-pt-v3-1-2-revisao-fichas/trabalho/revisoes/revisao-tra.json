@@ -1,0 +1,693 @@
+[
+ {
+  "codigo": "TRA-041",
+  "veredicto": "corrigida",
+  "titulo": "Banco de Horas por Regulamentação Coletiva ou Grupal",
+  "descricao": "Gera o instrumento de banco de horas por instrumento de regulamentação coletiva de trabalho ou o projeto de banco de horas grupal a submeter a referendo dos trabalhadores, nos termos dos arts. 208.º e 208.º-B do Código do Trabalho — o banco de horas individual (art. 208.º-A) foi revogado pela Lei n.º 93/2019. O documento define os limites do acréscimo, a compensação do trabalho prestado em acréscimo, os trabalhadores excluídos e o período de aplicação.",
+  "titulo_en": "Hours Bank by Collective Agreement or Group Scheme",
+  "descricao_en": "Generates the hours bank (banco de horas) instrument under a collective labour agreement, or the draft group hours bank to be put to a workers' referendum, under Arts. 208 and 208-B of the Labour Code — the individual hours bank (Art. 208-A) was repealed by Law No. 93/2019. The document sets the limits on additional hours, the compensation for the extra work, the excluded workers and the period of application.",
+  "resumo": "A ficha assentava no banco de horas individual (art. 208.º-A CT), revogado pela Lei n.º 93/2019 (os regimes em aplicação cessaram no prazo de um ano, art. 11.º, n.º 5), num inexistente banco de horas por acordo com a comissão de trabalhadores e em limites errados (2 h/dia, 50 h/mês, 150 h/ano atribuídos ao art. 208.º). Reescrevi as regras, o diagnóstico, a fundamentação, o instrumento, a checklist e a entrevista para as duas modalidades em vigor — por IRCT (art. 208.º: 4 h/dia, 60 h/semana, 200 h/ano) e grupal (art. 208.º-B: extensão por IRCT ou referendo com 65 %, 2 h/dia, 50 h/semana, 150 h/ano, período até 4 anos). Corrigi também a compensação (art. 208.º, n.º 4: redução do tempo, aumento de férias ou pagamento), o período de referência (média de 48 h do art. 211.º) e as dispensas (arts. 58.º, 74.º e 208.º-B, n.º 13, CT).",
+  "substituicoes": [
+   {
+    "de": "— Distingue sempre banco de horas coletivo (art. 208.º CT) de banco de horas individual (art. 208.º-A CT).\n— Verifica os limites legais imperativos: máximo de 2 horas suplementares por dia, 50 horas por mês e 150 horas por ano (art. 208.º, n.º 2, CT).",
+    "para": "— Distingue sempre o banco de horas por regulamentação coletiva (art. 208.º CT) do banco de horas grupal (art. 208.º-B CT). O banco de horas individual (art. 208.º-A CT) foi revogado pela Lei n.º 93/2019, de 4 de setembro, e os regimes individuais então em aplicação cessaram no prazo de um ano a contar da sua entrada em vigor (art. 11.º, n.º 5, dessa lei): não pode ser instituído por acordo individual.\n— Verifica os limites legais: por IRCT, o período normal de trabalho pode ser aumentado até 4 horas diárias e atingir 60 horas semanais, com o limite de 200 horas de acréscimo por ano (art. 208.º, n.º 2, CT), limite anual que o IRCT pode afastar, durante um período até 12 meses, se o regime visar evitar a redução do número de trabalhadores (art. 208.º, n.º 3, CT); no banco de horas grupal aprovado em referendo, até 2 horas diárias, 50 horas semanais e 150 horas por ano (art. 208.º-B, n.º 3, CT).",
+    "motivo": "Banco de horas individual revogado (Lei n.º 93/2019); os limites citados não são os do art. 208.º (4 h/dia, 60 h/semana, 200 h/ano) e são, aliás, os do grupal por referendo (com 50 h por semana, não por mês)",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0208B&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Modalidade adequada: banco de horas coletivo (requer IRCT ou acordo com comissão de trabalhadores) vs. individual (acordo escrito com trabalhador, art. 208.º-A CT)",
+    "para": "- Modalidade adequada: banco de horas por regulamentação coletiva (exige IRCT — art. 208.º CT) vs. banco de horas grupal, por extensão do regime do IRCT ao conjunto dos trabalhadores de uma equipa, secção ou unidade económica (art. 208.º-B, n.º 1, CT) ou aprovado em referendo por, pelo menos, 65 % dos trabalhadores abrangidos (art. 208.º-B, n.ºs 2 a 6, CT); a lei não admite banco de horas por acordo individual nem por acordo com a comissão de trabalhadores",
+    "motivo": "Não existe banco de horas por acordo com a comissão de trabalhadores; o individual foi revogado; o grupal tem duas vias (IRCT ou referendo)",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0208B&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Trabalhadores excluídos: isenção de horário (incompatível), menores, grávidas e trabalhadores em período de aleitamento (restrições especiais)",
+    "para": "- Trabalhadores excluídos ou com direito a dispensa: trabalhadora grávida, puérpera ou lactante e, em caso de aleitação, qualquer dos progenitores (art. 58.º CT); menor, quando o regime puder prejudicar a sua saúde ou segurança no trabalho, com exame de saúde prévio (art. 74.º CT); no banco de horas grupal, trabalhador abrangido por convenção coletiva em sentido contrário, trabalhador com filho menor de 3 anos ou com filho com deficiência ou doença crónica (salvo concordância escrita) e trabalhador com filho entre 3 e 6 anos nas condições da al. c) (art. 208.º-B, n.º 13, CT); trabalhador isento de horário [■ VERIFICAR: a lei não declara a isenção de horário incompatível com o banco de horas — definir a articulação no caso]",
+    "motivo": "As dispensas legais são as dos arts. 58.º, 74.º e 208.º-B, n.º 13, CT; a «incompatibilidade» da isenção de horário não tem base legal expressa",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Art. 208.º CT: banco de horas por IRCT ou acordo com comissão de trabalhadores\n- Art. 208.º-A CT: banco de horas individual — requisitos de validade\n- Art. 208.º-B CT: banco de horas grupal\n- Direito de compensação: descanso, redução de horário ou pagamento (art. 208.º, n.º 3, CT)\n- Consequências da denúncia ou cessação do acordo",
+    "para": "- Art. 208.º CT: banco de horas instituído por instrumento de regulamentação coletiva de trabalho\n- Art. 208.º-A CT: banco de horas individual — revogado pela Lei n.º 93/2019; não serve de fundamento\n- Art. 208.º-B CT: banco de horas grupal — por IRCT (n.º 1) ou por referendo (n.ºs 2 a 12): projeto do empregador com o âmbito, o período de aplicação (até 4 anos) e as matérias do n.º 4 do art. 208.º CT; publicitação e comunicação aos representantes dos trabalhadores e à ACT com 20 dias de antecedência; aprovação por, pelo menos, 65 % dos trabalhadores abrangidos; referendo sob supervisão da ACT se forem menos de 10; regulação do referendo em legislação específica [■ VERIFICAR: diploma que regula o referendo — art. 208.º-B, n.º 8, CT]\n- Compensação do trabalho prestado em acréscimo: redução equivalente do tempo de trabalho, aumento do período de férias ou pagamento em dinheiro, mais a antecedência da comunicação ao trabalhador e o período e a antecedência da redução compensatória (art. 208.º, n.º 4, CT)\n- Cessação do banco de horas grupal: se, decorrida metade do período de aplicação, um terço dos trabalhadores pedir novo referendo e este não for aprovado ou não se realizar em 60 dias, o regime cessa 60 dias após o referendo, devendo a compensação do acréscimo fazer-se nesse prazo (art. 208.º-B, n.ºs 10 e 11, CT)",
+    "motivo": "Fundamentação apoiada na norma revogada e em requisitos inexistentes; a compensação está no n.º 4 do art. 208.º (o n.º 3 trata do afastamento do limite anual); acrescentado o procedimento do grupal",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0208B&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "**[Modalidade: ACORDO DE BANCO DE HORAS INDIVIDUAL / COLETIVO]**\n\n**Entre:**\n- Empregador: [DENOMINAÇÃO SOCIAL], NIPC [NÚMERO], representada por [NOME E CARGO]\n- Trabalhador(es): [NOME / \"todos os trabalhadores da empresa\" / \"trabalhadores do departamento X\"]",
+    "para": "**[Modalidade: PROJETO DE REGIME DE BANCO DE HORAS GRUPAL A SUBMETER A REFERENDO (art. 208.º-B, n.ºs 2 a 12, CT) / CLÁUSULA DE IRCT (arts. 208.º e 208.º-B, n.º 1, CT)]**\n\n**Identificação:**\n- Empregador: [DENOMINAÇÃO SOCIAL], NIPC [NÚMERO], representada por [NOME E CARGO]\n- Trabalhadores abrangidos: [equipa / secção / unidade económica e grupos profissionais excluídos, se os houver]",
+    "motivo": "Já não há acordo individual de banco de horas: o instrumento é o projeto submetido a referendo ou a cláusula da convenção coletiva",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0208B&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "[Define o período máximo de referência (máx. 12 meses) para efeitos de compensação.]",
+    "para": "[Define o período em que a redução compensatória deve ter lugar e a antecedência com que é comunicada (art. 208.º, n.º 4, al. c), CT); a duração média do trabalho semanal, incluindo o acréscimo, não pode exceder 48 horas no período de referência do art. 211.º, n.º 1, CT — até 12 meses se fixado em IRCT; na falta, 4 meses (ou 6 nos casos do n.º 2 do art. 207.º CT).]",
+    "motivo": "O «máximo de 12 meses» só vale para o período de referência fixado em IRCT; no banco de horas por referendo, sem IRCT, aplica-se o período supletivo do art. 211.º, n.º 1",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0208B&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "[Especifica o máximo diário, mensal e anual de horas a acumular no banco, dentro dos limites do art. 208.º CT.]",
+    "para": "[Especifica o acréscimo máximo diário, semanal e anual, dentro dos limites do art. 208.º CT (IRCT) ou do art. 208.º-B CT (referendo).]",
+    "motivo": "Os limites legais são diários, semanais e anuais (não mensais) e diferem entre o art. 208.º e o art. 208.º-B",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0208B&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "[Define as modalidades de compensação: folga equivalente, redução do período normal de trabalho ou pagamento. Prazo máximo para compensação.]",
+    "para": "[Define as modalidades de compensação do trabalho prestado em acréscimo — redução equivalente do tempo de trabalho, aumento do período de férias ou pagamento em dinheiro (art. 208.º, n.º 4, al. a), CT) — e o período em que a redução compensatória deve ter lugar.]",
+    "motivo": "Modalidades de compensação enumeradas na lei (art. 208.º, n.º 4, al. a))",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0208B&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "**Cláusula 7.ª — Cessação do acordo e saldo de horas**\n[Consequências da denúncia ou cessação: pagamento do saldo positivo ou reposição do saldo negativo.]",
+    "para": "**Cláusula 7.ª — Cessação do regime e saldo de horas**\n[Consequências da cessação, incluindo a do art. 208.º-B, n.ºs 10 e 11, CT (compensação do acréscimo nos 60 dias seguintes ao referendo): pagamento do saldo positivo; tratamento do saldo negativo [■ VERIFICAR: admissibilidade de reposição ou desconto do saldo negativo].]",
+    "motivo": "Não há «acordo» individual a denunciar; a cessação do grupal tem regime próprio; a recuperação do saldo negativo não tem base legal expressa",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0208B&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "**Cláusula 9.ª — Vigência e renovação**\n[Prazo inicial e renovação automática ou denúncia.]\n\nAssinaturas e data.",
+    "para": "**Cláusula 9.ª — Período de aplicação**\n[No banco de horas grupal por referendo, período não superior a 4 anos (art. 208.º-B, n.º 4, al. b), CT), sem renovação automática; se o projeto for rejeitado, novo referendo só um ano depois (n.º 12). No IRCT, vigência da convenção.]\n\nNo projeto submetido a referendo: data e assinatura do empregador; juntar a ata do referendo e os comprovativos da publicitação e da comunicação aos representantes dos trabalhadores e à ACT (art. 208.º-B, n.º 5, CT).",
+    "motivo": "O projeto submetido a referendo tem período máximo de 4 anos; a renovação automática e a assinatura bilateral pressupunham o acordo individual revogado",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0208B&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- [ ] Modalidade (individual/coletivo) corretamente identificada\n- [ ] Limites diários, mensais e anuais dentro dos máximos legais\n- [ ] Período de referência definido (máx. 12 meses)",
+    "para": "- [ ] Modalidade (IRCT / grupal por IRCT / grupal por referendo) corretamente identificada; nenhum banco de horas individual\n- [ ] Acréscimos diário, semanal e anual dentro dos máximos legais (arts. 208.º, n.º 2, e 208.º-B, n.º 3, CT)\n- [ ] Período de aplicação (até 4 anos no referendo) e período da redução compensatória definidos; média de 48 horas semanais respeitada (art. 211.º, n.º 1, CT)\n- [ ] Referendo: projeto publicitado e comunicado aos representantes dos trabalhadores e à ACT com 20 dias de antecedência; aprovação por, pelo menos, 65 % dos abrangidos",
+    "motivo": "Checklist alinhada com as modalidades e os limites em vigor",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0208B&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Modalidade pretendida: [individual / coletivo]\n- Âmbito: [trabalhador X / departamento Y / toda a empresa]\n- Excluídos: [isentos de horário, menores, etc.]",
+    "para": "- Modalidade pretendida: [IRCT / grupal por IRCT / grupal por referendo]\n- Âmbito: [equipa / secção / unidade económica; grupos profissionais excluídos]\n- Excluídos ou com direito a dispensa: [grávidas, puérperas e lactantes; progenitores em aleitação; menores; trabalhadores com filhos nas condições do art. 208.º-B, n.º 13, CT; etc.]",
+    "motivo": "Entrevista sem a modalidade individual revogada e com as dispensas legais",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0208B&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Limite diário de acumulação: [horas — máx. 2h]\n- Limite mensal: [horas — máx. 50h]\n- Limite anual: [horas — máx. 150h]\n- Período de referência para compensação: [meses — máx. 12]",
+    "para": "- Acréscimo diário: [horas — máx. 4h por IRCT / 2h por referendo]\n- Limite semanal: [horas — máx. 60h por IRCT / 50h por referendo]\n- Acréscimo anual: [horas — máx. 200h por IRCT / 150h por referendo]\n- Período da redução compensatória: [período]",
+    "motivo": "Limites legais por modalidade (arts. 208.º, n.º 2, e 208.º-B, n.º 3, CT)",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0208B&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Formas de compensação previstas: [folga / redução horário / pagamento]",
+    "para": "- Formas de compensação previstas: [redução equivalente do tempo de trabalho / aumento do período de férias / pagamento em dinheiro]",
+    "motivo": "Modalidades de compensação do art. 208.º, n.º 4, al. a), CT",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0208&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Vigência do acordo: [período]",
+    "para": "- Período de aplicação: [até 4 anos no banco de horas grupal por referendo]",
+    "motivo": "Período máximo do art. 208.º-B, n.º 4, al. b), CT",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0208B&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar o diploma que regula a realização do referendo (art. 208.º-B, n.º 8, CT).",
+   "Confirmar no IRCT aplicável se institui banco de horas, os limites concretos e se prevê a extensão grupal (art. 208.º-B, n.º 1); ver eventual oposição sindical a portaria de extensão (n.º 13, al. a)).",
+   "Decidir, caso a caso, a articulação com a isenção de horário e o tratamento do saldo negativo de horas."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0208B&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0208&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=3165A0013&nid=3165&tabela=leis&pagina=1&ficha=1&so_miolo=S&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0074&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0226&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0202&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+  ]
+ },
+ {
+  "codigo": "TRA-042",
+  "veredicto": "corrigida",
+  "resumo": "A ficha exigia comunicar o acordo à ACT em 15 dias — dever do n.º 3 do art. 218.º CT na versão de 2009, revogado pela Lei n.º 23/2012 —, descrevia mal as situações de admissibilidade (art. 218.º, n.º 1) e as modalidades b) e c) (art. 219.º, n.º 1), e fixava uma retribuição mínima de 25 % que não está na lei. Substituí pelo texto legal: retribuição específica mínima de uma hora de trabalho suplementar por dia ou de duas por semana na modalidade c), renunciável só por administradores e diretores (art. 265.º), e salvaguarda dos descansos com a exceção do descanso diário para cargos de administração ou direção (arts. 214.º e 219.º, n.º 3). A cláusula da ACT passa a cláusula de registo de tempos (art. 202.º, n.º 1).",
+  "substituicoes": [
+   {
+    "de": "(b) observância de certo número de horas de trabalho por dia ou semana; (c) observância do período normal de trabalho acordado, podendo ser ultrapassado até certo limite.",
+    "para": "(b) possibilidade de determinado aumento do período normal de trabalho, por dia ou por semana; (c) observância do período normal de trabalho acordado. Na falta de estipulação, aplica-se a modalidade (a) (art. 219.º, n.º 2, CT).",
+    "motivo": "Texto das alíneas b) e c) do art. 219.º, n.º 1, CT; a modalidade c) não permite ultrapassar o período normal",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0219&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "— A isenção não dispensa a observância dos períodos de descanso (arts. 214.º e 214.º-A CT) — alerta sempre.",
+    "para": "— A isenção não prejudica o direito a dia de descanso semanal, obrigatório ou complementar, a feriado ou a descanso diário (art. 219.º, n.º 3, CT); mas o descanso diário de 11 horas (art. 214.º, n.º 1, CT) não se aplica ao isento que ocupe cargo de administração ou de direção ou com poder de decisão autónomo, que tem direito a um descanso que permita a sua recuperação (art. 214.º, n.ºs 2, al. a), e 3, CT) — alerta sempre.",
+    "motivo": "O art. 214.º-A CT não existe; a salvaguarda dos descansos está no art. 219.º, n.º 3, com a exceção do art. 214.º, n.º 2, al. a)",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0214&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "  (a) Cargo de direção ou de alta complexidade técnica\n  (b) Cargo de confiança do empregador\n  (c) Trabalhador que executa trabalho fora do estabelecimento sem controlo direto de horário",
+    "para": "  (a) Exercício de cargo de administração ou direção, ou de funções de confiança, fiscalização ou apoio a titular desses cargos\n  (b) Execução de trabalhos preparatórios ou complementares que, pela sua natureza, só possam ser efetuados fora dos limites do horário de trabalho\n  (c) Teletrabalho e outros casos de exercício regular de atividade fora do estabelecimento, sem controlo imediato por superior hierárquico",
+    "motivo": "Alíneas reescritas com o texto do art. 218.º, n.º 1, CT; «alta complexidade técnica» não é fundamento legal",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0218&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Trabalhadores excluídos: menores não podem ter isenção de horário",
+    "para": "- Menores: os limites do período normal de trabalho do menor (art. 73.º CT) e a proibição de trabalho suplementar (art. 75.º CT) são imperativos [■ VERIFICAR: admissibilidade da isenção de horário de menor — os arts. 218.º e 219.º CT não a excluem expressamente]",
+    "motivo": "A proibição afirmada não consta dos arts. 218.º e 219.º CT; o que a lei fixa são os limites dos arts. 73.º e 75.º",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0074&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Direito a retribuição adicional (art. 218.º, n.º 2, CT) — a isenção total confere retribuição mínima de 25% da retribuição base (art. 265.º, n.º 2, CT) ou valor superior se o IRCT assim previr\n- Modalidades parciais podem ter retribuição diferente ou nenhuma, conforme acordo\n- Impacto no cálculo de trabalho suplementar: na isenção total (modalidade a), o trabalho suplementar não confere acréscimos adicionais além da retribuição de isenção",
+    "para": "- Direito a retribuição específica, fixada por IRCT ou, na falta, não inferior a uma hora de trabalho suplementar por dia ou, na isenção com observância do período normal de trabalho, a duas horas de trabalho suplementar por semana (art. 265.º, n.º 1, CT)\n- Só o trabalhador que exerça cargo de administração ou de direção pode renunciar a essa retribuição (art. 265.º, n.º 2, CT); nos demais casos, o acordo não a pode afastar\n- Impacto no cálculo de trabalho suplementar: não é suplementar o trabalho prestado pelo isento em dia normal de trabalho (art. 226.º, n.º 3, al. a), CT); se o acordo limitar a prestação a determinado período diário ou semanal, é suplementar o que o exceda (art. 226.º, n.º 2, CT); o trabalho em dia de descanso semanal ou feriado não beneficia daquela exclusão",
+    "motivo": "Não há mínimo de 25 %: o art. 265.º, n.º 1, fixa uma hora de trabalho suplementar por dia ou duas por semana; a renúncia só cabe a administradores e diretores (n.º 2); o regime do trabalho suplementar do isento está no art. 226.º, n.ºs 2 e 3",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0265&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "[Descreve com precisão o regime: se modalidade b, quantas horas máximas; se modalidade c, qual o limite de ultrapassagem do período normal.]",
+    "para": "[Descreve com precisão o regime: se modalidade b, o aumento máximo do período normal de trabalho por dia ou por semana; se modalidade c, o período normal de trabalho a observar.]",
+    "motivo": "A modalidade c) é a observância do período normal acordado, sem ultrapassagem",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0219&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "nos termos do art. 265.º, n.º 2, CT e do IRCT aplicável.]",
+    "para": "nos termos do art. 265.º, n.º 1, CT e do IRCT aplicável.]",
+    "motivo": "A retribuição mínima está no n.º 1; o n.º 2 trata da renúncia",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0265&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "[Salvaguarda expressa dos períodos mínimos de descanso diário (11 horas — art. 214.º CT) e semanal (art. 232.º CT), não derrogáveis.]",
+    "para": "[Salvaguarda expressa do descanso diário (11 horas — art. 214.º CT, salvo a exceção do n.º 2, al. a), para cargos de administração ou de direção ou com poder de decisão autónomo), do dia de descanso semanal (art. 232.º CT) e dos feriados (art. 219.º, n.º 3, CT).]",
+    "motivo": "O descanso diário de 11 horas é afastado para os isentos com cargos de administração ou direção (art. 214.º, n.º 2, al. a))",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0214&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "**Cláusula 5.ª — Comunicação à ACT**\n[Referência à obrigação de comunicar o acordo à Autoridade para as Condições do Trabalho (art. 218.º, n.º 3, CT) no prazo de 15 dias.]",
+    "para": "**Cláusula 5.ª — Registo de tempos de trabalho**\n[O empregador mantém o registo dos tempos de trabalho também do trabalhador isento (art. 202.º, n.º 1, CT). Não há dever de enviar o acordo à ACT: o n.º 3 do art. 218.º da versão originária do Código, que o impunha, foi revogado pela Lei n.º 23/2012.]",
+    "motivo": "O dever de envio à ACT foi revogado pela Lei n.º 23/2012 e nunca teve prazo de 15 dias; o registo de tempos dos isentos é obrigatório",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_busca_art_velho.php?nid=1047&artigonum=1047A0218&n_versao=1&so_miolo="
+   },
+   {
+    "de": "- [ ] Retribuição adicional igual ou superior ao mínimo legal (25% se modalidade a)",
+    "para": "- [ ] Retribuição específica igual ou superior à do IRCT ou ao mínimo legal (uma hora de trabalho suplementar por dia; duas por semana na modalidade c)), salvo renúncia de administrador ou diretor",
+    "motivo": "Mínimos do art. 265.º CT",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0265&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- [ ] Comunicação à ACT prevista no prazo de 15 dias (art. 218.º, n.º 3, CT)",
+    "para": "- [ ] Nenhum envio do acordo à ACT (dever revogado pela Lei n.º 23/2012); registo de tempos de trabalho assegurado (art. 202.º CT)",
+    "motivo": "Dever revogado",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0218&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Modalidade de isenção: [a — sem limites / b — com X horas máximas / c — ultrapassagem até X horas]",
+    "para": "- Modalidade de isenção: [a — sem sujeição aos limites máximos do período normal de trabalho / b — aumento de X horas por dia ou por semana / c — observância do período normal de trabalho acordado]",
+    "motivo": "Modalidades do art. 219.º, n.º 1, CT",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0219&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar no IRCT aplicável se prevê outras situações de isenção (art. 218.º, n.º 2) e retribuição específica superior.",
+   "Ponderar a admissibilidade da isenção de horário de trabalhador menor.",
+   "Nos cargos de administração ou direção, documentar o descanso que assegura a recuperação do trabalhador (art. 214.º, n.º 3, CT)."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0218&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_busca_art_velho.php?nid=1047&artigonum=1047A0218&n_versao=1&so_miolo=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0219&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0265&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0214&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0226&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0202&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0074&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+  ]
+ },
+ {
+  "codigo": "TRA-005",
+  "veredicto": "corrigida",
+  "descricao": "Gera um contrato de trabalho a tempo parcial com indicação expressa do período normal de trabalho diário e semanal, com referência comparativa ao tempo completo, cálculo proporcional da retribuição e demais condições, em conformidade com os artigos 150.º a 156.º do Código do Trabalho e com o princípio da proporcionalidade.",
+  "descricao_en": "Generates a part-time employment contract expressly stating the normal daily and weekly working hours by comparison with full-time work, the pro rata calculation of pay and the other conditions, in accordance with Articles 150 to 156 of the Labour Code and the principle of proportionality.",
+  "resumo": "A ficha tornava o horário menção obrigatória do contrato e um «direito preferencial» à passagem a tempo completo. A lei exige forma escrita e a indicação do período normal de trabalho diário e semanal, com referência comparativa ao tempo completo (art. 153.º CT); o horário é facultativo e, se acordado, não pode ser alterado unilateralmente (art. 217.º, n.º 4). A passagem a tempo completo faz-se por acordo escrito (art. 155.º), com o dever do empregador de ponderar o pedido (art. 156.º, n.º 1, al. b)). Acrescentei o subsídio de refeição por inteiro, salvo período diário inferior a cinco horas (art. 154.º, n.º 3), e o limite anual de trabalho suplementar do tempo parcial (art. 228.º, n.ºs 1, al. c), e 3).",
+  "substituicoes": [
+   {
+    "de": "— O período normal de trabalho e o horário devem constar expressamente do contrato (art. 154.º CT).",
+    "para": "— O contrato está sujeito a forma escrita e deve indicar o período normal de trabalho diário e semanal, com referência comparativa ao trabalho a tempo completo (art. 154.º CT); sem essa indicação presume-se celebrado a tempo completo e, sem forma escrita, considera-se celebrado a tempo completo. O horário não é menção obrigatória; se for fixado no contrato, não pode ser alterado unilateralmente (art. 217.º, n.º 4, CT).",
+    "motivo": "O art. 153.º CT (para onde a citação é corrigida) exige o período normal diário e semanal, não o horário; o horário individualmente acordado fica protegido contra alteração unilateral",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0153&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "— O trabalhador a tempo parcial tem os mesmos direitos do trabalhador a tempo completo, aplicados proporcionalmente.",
+    "para": "— O trabalhador a tempo parcial não pode ter tratamento menos favorável do que o trabalhador a tempo completo em situação comparável, salvo razões objetivas; a retribuição base e as outras prestações são proporcionais ao período normal de trabalho semanal, mas o subsídio de refeição é devido por inteiro, salvo se o período normal de trabalho diário for inferior a cinco horas (art. 154.º, n.ºs 2 e 3, CT).",
+    "motivo": "Nem todos os direitos são proporcionais: o subsídio de refeição é devido por inteiro com período diário de cinco ou mais horas",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0153&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Art. 154.º CT (conteúdo do contrato — menção obrigatória do horário)",
+    "para": "- Art. 154.º CT (forma escrita e conteúdo do contrato — período normal de trabalho diário e semanal, com referência comparativa ao tempo completo)",
+    "motivo": "O horário não é menção obrigatória (art. 153.º CT)",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0153&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Art. 155.º CT (direito à passagem a tempo completo)",
+    "para": "- Art. 155.º CT (passagem a tempo completo, ou o inverso, por acordo escrito; direito de retomar o tempo completo findo o período determinado de passagem a tempo parcial) e art. 156.º, n.º 1, al. b), CT (dever de tomar em consideração o pedido de passagem a tempo completo)",
+    "motivo": "Não há direito geral à passagem a tempo completo: há acordo escrito (art. 155.º) e dever de ponderar o pedido (art. 156.º, n.º 1, al. b))",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0153&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Art. 157.º CT (proibição de trabalho suplementar habitual)",
+    "para": "- Art. 157.º CT (trabalho suplementar só para acréscimo eventual e transitório de trabalho, força maior ou prejuízo grave) e art. 228.º, n.ºs 1, al. c), e 3, CT (limite de 80 horas por ano para o trabalhador a tempo parcial, ou o proporcional ao tempo completo se for superior, elevável por acordo escrito até 130 horas ou por IRCT até 200 horas)",
+    "motivo": "Acrescenta o limite anual específico do trabalhador a tempo parcial",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0228&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Menção expressa do período de trabalho e horário",
+    "para": "- Menção expressa do período normal de trabalho diário e semanal, com referência comparativa ao tempo completo, e, se acordado, do horário",
+    "motivo": "Conteúdo obrigatório do art. 153.º CT",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0153&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "4.ª — Período normal de trabalho (horas semanais — inferior ao tempo completo)",
+    "para": "4.ª — Período normal de trabalho (diário e semanal, com referência comparativa ao tempo completo — inferior a este)",
+    "motivo": "Conteúdo obrigatório do art. 153.º, n.º 1, al. b), CT",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0153&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "5.ª — Horário de trabalho (dias e horas de início e fim)",
+    "para": "5.ª — Horário de trabalho (dias e horas de início e fim; se fixado no contrato, só alterável por acordo — art. 217.º, n.º 4, CT)",
+    "motivo": "Efeito do horário individualmente acordado",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0217&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "10.ª — Passagem a tempo completo (art. 155.º CT — direito preferencial)",
+    "para": "10.ª — Alteração da duração do trabalho (art. 155.º CT — por acordo escrito, que o trabalhador pode fazer cessar até ao 7.º dia seguinte à celebração, salvo reconhecimento notarial presencial das assinaturas)",
+    "motivo": "O art. 155.º CT não confere direito preferencial; regula a alteração por acordo escrito",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0153&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- [ ] Período normal de trabalho semanal expressamente indicado\n- [ ] Horário completo (dias e horas) constando do contrato\n- [ ] Retribuição calculada proporcionalmente ao tempo completo",
+    "para": "- [ ] Período normal de trabalho diário e semanal expressamente indicado, com referência comparativa ao tempo completo\n- [ ] Horário, se constar do contrato, tratado como individualmente acordado (art. 217.º, n.º 4, CT)\n- [ ] Retribuição calculada proporcionalmente ao tempo completo; subsídio de refeição por inteiro, salvo período normal diário inferior a cinco horas",
+    "motivo": "Checklist alinhada com os arts. 153.º, 154.º e 217.º CT",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0153&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- [ ] Trabalho suplementar habitual proibido (art. 157.º CT)",
+    "para": "- [ ] Trabalho suplementar habitual proibido (art. 157.º CT) e limite anual do tempo parcial respeitado (art. 228.º, n.º 1, al. c), CT)",
+    "motivo": "Limite anual específico do tempo parcial",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0228&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- [ ] Direito preferencial à passagem a tempo completo mencionado",
+    "para": "- [ ] Regime de alteração da duração do trabalho (art. 155.º, n.ºs 1 a 4, CT) e dever de ponderar o pedido de passagem a tempo completo (art. 156.º, n.º 1, al. b), CT) refletidos",
+    "motivo": "Não há direito preferencial legal",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0153&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Período normal de trabalho semanal: [X horas/semana]",
+    "para": "- Período normal de trabalho diário e semanal: [X horas/dia; X horas/semana]",
+    "motivo": "O contrato tem de indicar o período diário e o semanal (art. 153.º, n.º 1, al. b), CT)",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0153&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "A decisão de citação que corrige «art. 154.º CT» para «art. 153.º CT» tem uma nota que ainda fala do horário: rever a nota.",
+   "Trabalho a tempo parcial só em alguns dias por semana (art. 150.º, n.º 3): confirmar a contagem dos dias de férias e a base dos subsídios.",
+   "Confirmar no IRCT aplicável o período normal de referência, preferências de admissão (art. 152.º) e eventuais limites de tempo parcial (art. 150.º, n.º 6)."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0153&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0217&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0227&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0228&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+  ]
+ },
+ {
+  "codigo": "SUC-001",
+  "veredicto": "corrigida",
+  "resumo": "A ficha importava do direito brasileiro as cláusulas de «inalienabilidade, impenhorabilidade e incomunicabilidade» (com «prazo legal» até à vida do beneficiário), o «executor testamentário» e os «herdeiros necessários», e situava os requisitos do testamento público nos arts. 78.º e ss. do Código do Notariado (que tratam de recursos e isenções). Substituí pelo regime português: proibição de dispor havida como fideicomisso, de um só grau (arts. 2295.º e 2288.º CC), exclusão da responsabilidade por dívidas com a eficácia limitada do art. 603.º CC, incomunicabilidade do art. 1733.º, n.º 1, al. a), CC, proibição de encargos sobre a legítima (art. 2163.º CC), testamenteiro (art. 2320.º CC), revogação expressa (art. 2312.º CC) e as formalidades notariais dos arts. 46.º e 67.º CN.",
+  "substituicoes": [
+   {
+    "de": "— Respeita sempre a quota legitimária dos herdeiros necessários (arts. 2156.º a 2178.º CC).",
+    "para": "— Respeita sempre a quota legitimária dos herdeiros legitimários (arts. 2156.º a 2178.º CC).",
+    "motivo": "«Herdeiros necessários» é terminologia brasileira; o CC fala de herdeiros legitimários (art. 2157.º)",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2157&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Requisitos formais do testamento público (art. 2205.º CC, arts. 78.º e ss. CN)",
+    "para": "- Requisitos formais do testamento público (art. 2205.º CC; formalidades comuns dos instrumentos notariais e intervenção de duas testemunhas instrumentárias — arts. 46.º e 67.º, n.ºs 1, al. a), e 3, CN)",
+    "motivo": "Os arts. 78.º e ss. CN tratam de recurso, isenções e escrituras, não do testamento público",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=457A0067&nid=457&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Cláusulas de inalienabilidade, impenhorabilidade e incomunicabilidade se pedidas (art. 2237.º CC)",
+    "para": "- Cláusulas restritivas, se pedidas (não importar o modelo brasileiro de inalienabilidade, impenhorabilidade e incomunicabilidade):\n  - a proibição de o herdeiro dispor dos bens é havida como fideicomisso, sendo fideicomissários os herdeiros legítimos do fiduciário (art. 2295.º, n.ºs 1, al. a), e 2, CC), e é nula para além de um grau (art. 2288.º CC);\n  - a cláusula de exclusão da responsabilidade por dívidas do beneficiário tem eficácia limitada: os bens respondem sempre pelas dívidas posteriores à liberalidade e, sendo bens sujeitos a registo, também pelas anteriores se a penhora for registada antes da cláusula (art. 603.º CC);\n  - a cláusula de incomunicabilidade é admitida, mesmo por conta da legítima (art. 1733.º, n.º 1, al. a), CC), mas, em regra, só releva na comunhão geral, porque na comunhão de adquiridos os bens herdados já são próprios (art. 1722.º, n.º 1, al. b), CC);\n  - o testador não pode impor encargos sobre a legítima contra a vontade do herdeiro (art. 2163.º CC)",
+    "motivo": "Cláusulas brasileiras; o art. 2237.º CC trata de outra matéria; o direito português regula a proibição de dispor como fideicomisso e as demais cláusulas noutros preceitos",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2295&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "[Cláusulas de inalienabilidade / impenhorabilidade / incomunicabilidade — art. 2237.º CC]",
+    "para": "[Proibição de dispor dos bens, havida como fideicomisso (art. 2295.º, n.º 1, al. a), CC); exclusão da responsabilidade por dívidas do beneficiário (art. 603.º CC); cláusula de incomunicabilidade (art. 1733.º, n.º 1, al. a), CC) — sem encargos sobre a legítima contra a vontade do herdeiro (art. 2163.º CC)]",
+    "motivo": "Cláusulas restritivas com os institutos portugueses",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2295&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "[Revogação de testamentos anteriores, nomeação de executor testamentário se pretendido — art. 2320.º CC]",
+    "para": "[Revogação expressa de testamentos anteriores (art. 2312.º CC); nomeação de testamenteiro, se pretendido — art. 2320.º CC]",
+    "motivo": "O CC fala de testamenteiro e testamentaria (arts. 2320.º e ss.); a revogação expressa está no art. 2312.º",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2312&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- [ ] Cláusulas de inalienabilidade com prazo legal (não superior à vida do beneficiário)",
+    "para": "- [ ] Proibição de dispor tratada como fideicomisso (art. 2295.º CC): fideicomissários são os herdeiros legítimos do fiduciário, um só grau (art. 2288.º CC) e sem onerar a legítima (art. 2163.º CC)",
+    "motivo": "Não há «prazo legal» de inalienabilidade no CC; a proibição de dispor segue o regime do fideicomisso",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2295&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Pretende cláusulas de inalienabilidade? [sim/não — a quais bens]",
+    "para": "- Pretende cláusulas restritivas (proibição de dispor, exclusão da responsabilidade por dívidas, incomunicabilidade)? [sim/não — a quais bens]",
+    "motivo": "Terminologia portuguesa",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2295&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Pretende nomear executor testamentário? [sim/não — nome]",
+    "para": "- Pretende nomear testamenteiro? [sim/não — nome]",
+    "motivo": "O CC fala de testamenteiro (arts. 2320.º e ss.)",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2320&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar se a cláusula de exclusão da responsabilidade por dívidas (art. 603.º CC) pode recair sobre bens que preenchem a legítima, à luz do art. 2163.º CC.",
+   "Confirmar com o notário as formalidades do testamento público no Código do Notariado (arts. 46.º e 67.º; dispensa de testemunhas no n.º 2 do art. 67.º).",
+   "Se o testador quiser proteger o herdeiro dos credores, ponderar alternativas (fideicomisso, legados com encargo sobre a quota disponível)."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2157&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2295&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2288&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0603&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1733&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1722&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2163&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2312&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2320&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=457A0067&nid=457&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=457A0046&nid=457&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+  ]
+ },
+ {
+  "codigo": "SUC-035",
+  "veredicto": "corrigida",
+  "descricao": "Analisa a licitude e os limites dos pactos sobre sucessão futura, nulos fora dos casos previstos na lei (art. 2028.º CC), e orienta sobre os mecanismos lícitos que os cônjuges podem usar — em especial a renúncia recíproca à condição de herdeiro legitimário na convenção antenupcial, com separação de bens (arts. 1700.º, n.º 1, al. c), e 1707.º-A do Código Civil, na redação da Lei n.º 48/2018), a instituição contratual de herdeiro, os testamentos separados e as doações.",
+  "descricao_en": "Analyses the lawfulness and limits of agreements on future succession, which are void outside the cases provided for by law (Art. 2028 CC), and advises on the lawful mechanisms available to spouses — in particular the reciprocal waiver of the status of forced heir in the prenuptial agreement under a separation-of-property regime (Arts. 1700(1)(c) and 1707-A of the Civil Code, as amended by Law No. 48/2018), the contractual appointment of an heir, separate wills and gifts.",
+  "resumo": "A ficha dava a legítima do cônjuge como irrenunciável, ignorando a Lei n.º 48/2018 (renúncia recíproca à condição de herdeiro legitimário na convenção antenupcial, só com separação de bens — art. 1700.º, n.ºs 1, al. c), e 3, CC — e regime do art. 1707.º-A CC), e propunha como alternativa um «usufruto vidual legal» que não existe no direito português. Corrigi ainda a alínea do art. 1700.º (a instituição de herdeiro entre esposados é a al. a)), o «testamento mútuo» (o de mão comum é proibido — art. 2181.º CC), o «pacto antenupcial» e a grafia brasileira de «património», o regime do seguro de vida (art. 200.º do RJCS) e a forma da convenção antenupcial, que não exige notário (art. 1710.º CC).",
+  "substituicoes": [
+   {
+    "de": "- Quota legitimária do cônjuge sobrevivo (art. 2157.º CC — obrigatoriamente protegida)",
+    "para": "- Quota legitimária do cônjuge sobrevivo (art. 2157.º CC) — protegida, salvo renúncia recíproca à condição de herdeiro legitimário na convenção antenupcial, só admitida se o regime de bens, convencional ou imperativo, for o da separação (art. 1700.º, n.º 1, al. c), e n.º 3, CC, na redação da Lei n.º 48/2018, de 14 de agosto)",
+    "motivo": "Desde a Lei n.º 48/2018 a legítima do cônjuge pode ser afastada por renúncia recíproca na convenção antenupcial",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1700&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Art. 2028.º, n.º 2 CC: nulidade dos pactos sobre sucessão de terceiro e dos pactos de renúncia à herança de pessoa viva\n- Fundamento da proibição: voracidade successoria; proteção da liberdade de testar\n- Exceções legais: pactos permitidos na convenção antenupcial (art. 1700.º, n.º 1, al. b) CC) — doação por morte e instituição de herdeiro entre nubentes\n- Destrinça entre renúncia preventiva (proibida) e repúdio pós-abertura da sucessão (permitido)",
+    "para": "- Art. 2028.º, n.º 2 CC: os contratos sucessórios — renúncia à sucessão de pessoa viva e disposição da própria sucessão ou da de terceiro ainda não aberta (n.º 1) — só são admitidos nos casos previstos na lei, sendo nulos todos os demais\n- Fundamento da proibição: evitar a especulação sobre a morte de outrem (*votum captandae mortis*) e proteger a liberdade de testar e de revogar o testamento (art. 2311.º CC)\n- Exceções legais na convenção antenupcial (art. 1700.º, n.º 1, CC): instituição de herdeiro ou nomeação de legatário a favor do outro esposado (al. a)) ou de terceiro (al. b)) e, desde a Lei n.º 48/2018, renúncia recíproca à condição de herdeiro legitimário (al. c)), esta só com separação de bens (n.º 3); as doações para casamento com efeitos por morte do doador são havidas como pactos sucessórios (art. 1755.º, n.º 2, CC)\n- Destrinça entre renúncia preventiva (proibida, salvo a renúncia recíproca do art. 1700.º, n.º 1, al. c), CC) e repúdio após a abertura da sucessão (permitido)",
+    "motivo": "O art. 2028.º, n.º 2, admite os contratos previstos na lei; a instituição de herdeiro entre esposados é a al. a) (a al. b) é a favor de terceiro); faltava a al. c) aditada pela Lei n.º 48/2018; «voracidade successoria» não é fundamento reconhecido",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1700&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "1. **Convenção antenupcial com instituição de herdeiro** (art. 1700.º, al. b) CC) — válida apenas antes do casamento\n2. **Testamento mútuo** — dois testamentos separados mas com conteúdo coordenado (cada um testa a favor do outro)\n3. **Seguro de vida com designação de beneficiário** — patrimônio fora da herança",
+    "para": "1. **Convenção antenupcial com instituição de herdeiro** (art. 1700.º, n.º 1, al. a), CC, a favor do outro esposado, ou al. b), a favor de terceiro) — só antes do casamento, porque a convenção não pode ser alterada depois dele (art. 1714.º, n.º 1, CC)\n2. **Testamentos separados de conteúdo coordenado** — cada cônjuge dispõe da sua quota disponível em ato próprio; o testamento de mão comum é proibido (art. 2181.º CC) e cada testamento é livremente revogável (art. 2311.º CC)\n3. **Seguro de vida com designação de beneficiário** — a designação não é afetada pelas relações do tomador com pessoas estranhas ao benefício, mas a colação, a imputação e a redução de liberalidades aplicam-se às quantias prestadas pelo tomador ao segurador (art. 200.º do Regime Jurídico do Contrato de Seguro, aprovado pelo Decreto-Lei n.º 72/2008, de 16 de abril)",
+    "motivo": "Alínea errada; o «testamento mútuo» sugere testamento de mão comum, proibido; «património» estava na grafia brasileira e o seguro não escapa à redução quanto aos prémios pagos",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2181&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "5. **Pacto antenupcial com doação por morte** (art. 1700.º CC)\n6. **Usufruto vidual legal** (art. 2103.º-A CC) — já opera automaticamente se cônjuge concorrer com descendentes",
+    "para": "5. **Convenção antenupcial com doação por morte** (art. 1700.º CC; as doações para casamento com efeitos por morte do doador são havidas como pactos sucessórios — art. 1755.º, n.º 2, CC)\n6. **Renúncia recíproca à condição de herdeiro legitimário na convenção antenupcial** (art. 1700.º, n.º 1, al. c), e n.º 3, CC) — só com separação de bens e antes do casamento; pode ser condicionada à sobrevivência ou não de sucessíveis ou de outras pessoas, não sendo necessário que a condição seja recíproca; não prejudica o direito a alimentos nem as prestações sociais por morte; sendo a casa de morada de família propriedade do falecido, o sobrevivo pode nela permanecer cinco anos como titular de direito real de habitação e de direito de uso do recheio (vitalício se tiver 65 anos à abertura da sucessão), salvo se tiver casa própria no concelho ou, em Lisboa e no Porto, também nos concelhos limítrofes (art. 1707.º-A CC). Não existe usufruto vidual no direito português: o art. 2103.º-A CC apenas permite ao cônjuge herdeiro ser encabeçado, na partilha, no direito de habitação da casa de morada da família e no direito de uso do recheio, com tornas se o valor exceder a sua parte sucessória e meação",
+    "motivo": "«Pacto antenupcial» é terminologia brasileira (o CC fala de convenção antenupcial); o usufruto vidual não existe e o art. 2103.º-A não opera automaticamente; a alternativa lícita que falta é a da Lei n.º 48/2018",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1707A&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- [ ] Calcular a legítima do cônjuge (art. 2157.º CC) — não pode ser afastada",
+    "para": "- [ ] Calcular a legítima do cônjuge (art. 2157.º CC) — só afastável por renúncia recíproca na convenção antenupcial, com separação de bens (art. 1700.º, n.º 1, al. c), e n.º 3, CC)",
+    "motivo": "Lei n.º 48/2018",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1700&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- [ ] Alertar para necessidade de notário na convenção antenupcial",
+    "para": "- [ ] Forma da convenção antenupcial: declaração perante funcionário do registo civil ou escritura pública (art. 1710.º CC); efeitos perante terceiros só depois do registo (art. 1711.º, n.º 1, CC)",
+    "motivo": "A convenção antenupcial não exige notário",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1711&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar na doutrina e na jurisprudência se o cônjuge que renunciou à condição de herdeiro legitimário continua chamado como herdeiro legítimo na falta de testamento; se o objetivo é excluí-lo, completar com testamento.",
+   "Se os cônjuges já estão casados, a renúncia não é possível (imutabilidade — art. 1714.º CC): restam testamentos, doações e seguros, sempre sujeitos à legítima.",
+   "O título da ficha usa «Pacto Corvina»; a forma corrente é «pacto corvino» (pacta corvina)."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1700&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1707A&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2028&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2157&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2181&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2311&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1714&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1755&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2103A&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1711&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2657A0200&nid=2657&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+  ]
+ },
+ {
+  "codigo": "SUC-037",
+  "veredicto": "corrigida",
+  "titulo": "Direito de Habitação da Casa de Morada da Família e de Uso do Recheio do Cônjuge Sobrevivo",
+  "descricao": "Analisa e calcula os direitos do cônjuge sobrevivo em concurso com descendentes — a quota hereditária (art. 2139.º CC) e o direito a ser encabeçado, na partilha, no direito de habitação da casa de morada da família e no direito de uso do recheio, com tornas se exceder a sua parte (arts. 2103.º-A a 2103.º-C do Código Civil, aditados pelo Decreto-Lei n.º 496/77). O direito português não conhece o usufruto vidual.",
+  "titulo_en": "Surviving Spouse's Right of Residence in the Family Home and Use of Its Contents",
+  "descricao_en": "Analyses and calculates the rights of a surviving spouse concurring with descendants — the hereditary share (Art. 2139 CC) and the right to be allotted, in the partition, the right of residence in the family home and the right to use its contents, paying equalisation to the co-heirs if this exceeds the spouse's share (Arts. 2103-A to 2103-C of the Civil Code, added by Decree-Law No. 496/77). Portuguese law has no widow's usufruct.",
+  "resumo": "A ficha tratava o «usufruto vidual» (direito de exigir a quota em usufruto sobre toda a herança) como figura portuguesa, apresentava o direito de habitação como autónomo e independente do valor da quota, inventava a caducidade por novo casamento ou união de facto e datava os arts. 2103.º-A e 2103.º-B CC de 2021 (Lei n.º 48/2021), quando foram aditados pelo DL n.º 496/77. Reescrevi com o regime real: encabeçamento na partilha no direito de habitação e no direito de uso do recheio, por conta da meação e da parte sucessória, com tornas (art. 2103.º-A, n.º 1), caducidade por não habitar a casa mais de um ano e caução (n.ºs 2 e 3), recheio quando a casa não pertence à herança (art. 2103.º-B), e o regime especial do art. 1707.º-A CC no caso de renúncia na convenção antenupcial.",
+  "substituicoes": [
+   {
+    "de": "— Esta matéria foi reformada em 2021: os arts. 2103.º-A e 2103.º-B são de 2021, não anteriores.",
+    "para": "— Os arts. 2103.º-A a 2103.º-C CC foram aditados pelo Decreto-Lei n.º 496/77, de 25 de novembro. Não existe usufruto vidual no direito português: o cônjuge sobrevivo é, em regra, herdeiro legitimário e legítimo, em propriedade plena, e pode ser encabeçado, na partilha, no direito de habitação da casa de morada da família e no direito de uso do recheio.",
+    "motivo": "Os preceitos são de 1977, não de 2021",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2103A&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- **Usufruto vidual** (art. 2103.º-A CC): cônjuge tem direito a exigir que a sua quota seja calculada em usufruto sobre a totalidade da herança\n- **Direito real de habitação** (art. 2103.º-B CC): cônjuge tem direito real de habitação sobre a casa de morada de família e direito de uso do recheio, a título autónomo, independentemente do valor da quota\n- **Limites** (art. 2103.º-B, n.º 2 CC): direito real de habitação caduca se o cônjuge contrair novo casamento ou união de facto; pode ser extinto por acordo",
+    "para": "- **Não há usufruto vidual**: o cônjuge não pode exigir que a sua quota seja convertida em usufruto sobre a totalidade da herança; herda em propriedade plena, como herdeiro legitimário (art. 2157.º CC)\n- **Direito de habitação da casa de morada da família e direito de uso do recheio** (art. 2103.º-B CC): o cônjuge tem direito a ser encabeçado nesses direitos no momento da partilha, por conta da sua meação e parte sucessória, devendo tornas aos coerdeiros se o valor recebido as exceder — não é um direito autónomo nem independente do valor da quota\n- **Casa fora da herança**: se a casa de morada da família não fizer parte da herança, o regime aplica-se só ao recheio (art. 2103.º-B do CC); recheio é o mobiliário e demais objetos ou utensílios destinados ao cómodo, serviço e ornamentação da casa (art. 2103.º-C do CC)\n- **Limites** (art. 2103.º-A, n.ºs 2 e 3, CC): os direitos caducam se o cônjuge não habitar a casa por prazo superior a um ano, salvo nos casos ressalvados no n.º 2; a pedido dos proprietários, o tribunal pode impor ao cônjuge a prestação de caução; a lei não prevê a caducidade por novo casamento ou união de facto\n- **Renúncia na convenção antenupcial** (art. 1700.º, n.º 1, al. c), CC): se os cônjuges, casados em separação de bens, tiverem renunciado reciprocamente à condição de herdeiro legitimário, aplica-se o regime do art. 1707.º-A CC — direito real de habitação e de uso do recheio por cinco anos sobre a casa de morada de família propriedade do falecido, vitalício se o sobrevivo tiver 65 anos à abertura da sucessão, salvo se tiver casa própria no concelho (n.º 6)",
+    "motivo": "O usufruto vidual não existe no direito português; o direito de habitação depende do encabeçamento na partilha e é imputado na meação e na parte sucessória, com tornas; a caducidade legal é por não habitação há mais de um ano",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2103A&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Simulação: usufruto vitalício vs. quota em plena propriedade",
+    "para": "- Simulação: partilha com e sem encabeçamento do cônjuge no direito de habitação e no direito de uso do recheio (valor imputado na meação e na parte sucessória; tornas se a exceder) [■ VERIFICAR: critério de valorização do direito de habitação na partilha]",
+    "motivo": "Não há opção entre usufruto e propriedade plena",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2103A&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Recomendação sobre exercer ou não o usufruto vidual\n- Declaração de exercício do direito real de habitação para o inventário",
+    "para": "- Recomendação sobre requerer ou não o encabeçamento no direito de habitação e no direito de uso do recheio, ponderando as tornas devidas\n- Requerimento de encabeçamento no direito de habitação da casa de morada da família e no direito de uso do recheio, no inventário ou na partilha",
+    "motivo": "O direito exerce-se pedindo o encabeçamento na partilha",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2103A&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- [ ] Arts. 2103.º-A e 2103.º-B CC aplicados (Lei n.º 48/2021)",
+    "para": "- [ ] Arts. 2103.º-A e 2103.º-B CC aplicados (aditados pelo Decreto-Lei n.º 496/77, de 25 de novembro)",
+    "motivo": "Origem dos preceitos",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2103A&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "O art. 2103.º-A, n.º 2, CC ressalva os casos do n.º 2 do art. 1093.º CC na redação originária; confirmar a correspondência atual das causas de ausência justificada.",
+   "Confirmar o critério de avaliação do direito de habitação para a partilha e para o Imposto do Selo, e se o testamento pode condicionar o encabeçamento."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2103A&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2157&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1700&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1707A&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/selo/Pages/selo6.aspx"
+  ]
+ },
+ {
+  "codigo": "FIS-033",
+  "veredicto": "corrigida",
+  "descricao": "Gera um pedido de inscrição no Incentivo Fiscal à Investigação Científica e Inovação (IFICI — art. 58.º-A do EBF e Portaria n.º 352/2024/1) ou, nos casos abrangidos pelo regime transitório do art. 236.º da Lei n.º 82/2023, no regime do Residente Não Habitual (RNH — art. 16.º, n.ºs 8 a 12, do CIRS, na redação anterior a essa lei), com análise dos requisitos de elegibilidade, dos rendimentos abrangidos e das obrigações declarativas associadas.",
+  "descricao_en": "Generates an application for registration under the Tax Incentive for Scientific Research and Innovation (IFICI — Art. 58-A of the EBF and Ordinance No. 352/2024/1) or, where the transitional regime of Art. 236 of Law No. 82/2023 applies, under the Non-Habitual Resident regime (RNH — Art. 16(8) to (12) of the CIRS, as worded before that law), analysing the eligibility requirements, the income covered and the associated reporting obligations.",
+  "resumo": "A ficha apresentava o RNH e o «IFICI+» como assentes no art. 16.º, n.ºs 8 a 12, CIRS, revogados pela Lei n.º 82/2023, fundava o IFICI na lista de «atividades de elevado valor acrescentado» e aplicava a ambos o prazo de 31 de março. Reescrevi: IFICI no art. 58.º-A EBF e na Portaria n.º 352/2024/1 (atividades das als. a) a g) do n.º 1, 20 % sobre A e B, isenção de fonte estrangeira das categorias A, B, E, F e G pelo art. 81.º, n.º 4, CIRS, sem pensões, exclusões do n.º 10, pedido no Portal das Finanças até 15 de janeiro); RNH só no regime transitório do art. 236.º da Lei n.º 82/2023, com o prazo de 31 de março. Corrigi também a base do requisito dos cinco anos e o destinatário do pedido (Portal das Finanças).",
+  "substituicoes": [
+   {
+    "de": "- Regime IFICI+ (aplicável a requerimentos a partir de 01/01/2024):\n  * Requisito: não ter sido residente em Portugal nos 5 anos anteriores (art. 16.º, n.º 11 CIRS)\n  * Atividades elegíveis: lista de atividades de elevado valor acrescentado constante de portaria [■ VERIFICAR: portaria em vigor — OE 2024 atualizou a lista]\n  * Taxa: 20% sobre rendimentos de categoria A e B de fonte portuguesa de atividades elegíveis; rendimentos de fonte estrangeira isentos nas categorias previstas no art. 58.º-A EBF\n  * Duração: 10 anos não prorrogáveis\n- Regime RNH (transitório — em vigor para quem era residente antes de 31/12/2023 ou beneficiava de direito adquirido):",
+    "para": "- Regime IFICI — incentivo fiscal à investigação científica e inovação (art. 58.º-A EBF, aditado pela Lei n.º 82/2023, de 29 de dezembro; Portaria n.º 352/2024/1, de 23 de dezembro), para quem se torne residente a partir de 01/01/2024:\n  * Requisito: tornar-se residente nos termos dos n.ºs 1 e 2 do art. 16.º CIRS e não ter sido residente em Portugal em qualquer dos 5 anos anteriores (art. 58.º-A, n.º 1, EBF); estão excluídos os que beneficiem ou tenham beneficiado do RNH ou tenham optado pelo regime do art. 12.º-A CIRS (n.º 10); o regime só pode ser usado uma vez (n.º 12)\n  * Atividades elegíveis: as das alíneas a) a g) do n.º 1 do art. 58.º-A EBF — docência no ensino superior e investigação científica, postos de trabalho qualificados em entidades com benefícios contratuais ao investimento ou reconhecidas pela AICEP ou pelo IAPMEI, profissões altamente qualificadas definidas na Portaria n.º 352/2024/1, I&D empresarial, startups certificadas e Regiões Autónomas\n  * Taxa: 20% sobre os rendimentos líquidos das categorias A e B auferidos nas atividades elegíveis, sem prejuízo da opção pelo englobamento (art. 58.º-A, n.º 2, EBF); rendimentos de fonte estrangeira das categorias A, B, E, F e G isentos, com englobamento para determinação da taxa (art. 81.º, n.º 4, CIRS); pensões (categoria H) não abrangidas; rendimentos pagos por entidades sediadas em territórios de regime fiscal claramente mais favorável tributados a 35% (art. 81.º, n.º 5, CIRS)\n  * Duração: 10 anos consecutivos a partir do ano da inscrição como residente (art. 58.º-A, n.º 2, EBF), não prorrogáveis\n  * Prazo: pedido no Portal das Finanças até 15 de janeiro do ano seguinte àquele em que se torne residente (art. 2.º, n.º 1, da Portaria n.º 352/2024/1, na redação da Portaria n.º 52-A/2025/1); fora do prazo, produz efeitos a partir do ano da inscrição, pelo período remanescente (art. 58.º-A, n.º 7, EBF)\n- Regime RNH — os n.ºs 8 a 12 do art. 16.º CIRS foram revogados pela Lei n.º 82/2023; o regime mantém-se, na redação anterior e até ao fim dos 10 anos, só para os sujeitos passivos do regime transitório do art. 236.º, n.º 3, dessa lei (já inscritos como RNH à data da sua entrada em vigor; residentes a 31/12/2023; quem se tornou residente até 31/12/2024 com um dos elementos da alínea c), como contrato ou promessa de trabalho celebrado até 31/12/2023 ou visto de residência válido até essa data; membros do agregado familiar):",
+    "motivo": "O art. 16.º, n.ºs 8 a 12, CIRS foi revogado; o IFICI rege-se pelo art. 58.º-A EBF e pela Portaria n.º 352/2024/1 (não pela tabela de atividades de elevado valor acrescentado), com prazo de 15 de janeiro; a isenção de fonte estrangeira está no art. 81.º, n.º 4, CIRS; o RNH transitório tem as condições do art. 236.º, n.º 3",
+    "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/bf_rep/Pages/ebf58A.aspx"
+   },
+   {
+    "de": "  * O prazo de inscrição é até 31 de março do ano seguinte ao da primeira residência\n- Distinção entre regimes: verificar sempre qual o regime aplicável ao caso concreto\n- O pedido de inscrição é efetuado no Portal das Finanças (e-balcão ou modelo específico)",
+    "para": "  * O prazo de inscrição é até 31 de março do ano seguinte ao da primeira residência; inscrita fora do prazo, a tributação produz efeitos a partir do ano da inscrição, pelo período remanescente (art. 236.º, n.ºs 4 e 5, da Lei n.º 82/2023)\n- Distinção entre regimes: verificar sempre qual o regime aplicável ao caso concreto\n- O pedido de inscrição é efetuado por via eletrónica no Portal das Finanças (IFICI: formulário próprio, cabendo a verificação dos requisitos da atividade à FCT, à AICEP, à AT, ao IAPMEI, à ANI ou à Startup Portugal, consoante a alínea — art. 58.º-A, n.º 6, EBF)",
+    "motivo": "Inscrição tardia no RNH transitório; o IFICI não se pede pelo e-balcão e tem verificação pelas entidades do n.º 6",
+    "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cirs_rep/Pages/irs16.aspx"
+   },
+   {
+    "de": "- A atividade exercida consta da lista de atividades de elevado valor acrescentado?\n- Regime a aplicar: IFICI+ (novo) ou RNH (transitório)?",
+    "para": "- A atividade exercida enquadra-se numa das alíneas do n.º 1 do art. 58.º-A EBF (IFICI) ou, no RNH transitório, na tabela de atividades de elevado valor acrescentado?\n- Regime a aplicar: IFICI (novo) ou RNH (transitório — art. 236.º, n.º 3, da Lei n.º 82/2023)? O requerente já beneficiou do RNH ou optou pelo art. 12.º-A CIRS (exclui o IFICI)?",
+    "motivo": "A lista de atividades de elevado valor acrescentado é do RNH; o IFICI tem atividades próprias e exclusões",
+    "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/bf_rep/Pages/ebf58A.aspx"
+   },
+   {
+    "de": "- Art. 16.º, n.ºs 8 a 12 CIRS — residência não habitual e IFICI+\n- Art. 58.º-A EBF — isenção de rendimentos de fonte estrangeira no IFICI+\n- Portaria de atividades de elevado valor acrescentado [■ VERIFICAR: portaria vigente após OE 2024]\n- Art. 81.º CIRS — método de isenção para rendimentos de fonte estrangeira",
+    "para": "- Art. 16.º, n.ºs 8 a 12 CIRS — residência não habitual, na redação anterior à Lei n.º 82/2023 (que os revogou), aplicável só no regime transitório do art. 236.º, n.ºs 3 a 5, dessa lei\n- Art. 58.º-A EBF — requisitos, atividades elegíveis, taxa especial de 20%, duração e exclusões do IFICI\n- Portaria n.º 352/2024/1, de 23 de dezembro, na redação da Portaria n.º 52-A/2025/1 (IFICI: inscrição e profissões altamente qualificadas); no RNH transitório, tabela de atividades de elevado valor acrescentado da Portaria n.º 12/2010, de 7 de janeiro, na redação da Portaria n.º 230/2019, de 23 de julho\n- Art. 81.º CIRS (n.ºs 4 e 5) — método da isenção, com englobamento para determinação da taxa, para os rendimentos de fonte estrangeira das categorias A, B, E, F e G no IFICI; no RNH transitório, n.ºs 4 a 8 na redação anterior à Lei n.º 82/2023",
+    "motivo": "Normas revogadas apresentadas como vigentes; a isenção de fonte estrangeira do IFICI está no art. 81.º, n.º 4, CIRS, não no art. 58.º-A EBF; portarias identificadas",
+    "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cirs_rep/Pages/irs81.aspx"
+   },
+   {
+    "de": "- Circular ou ofício-circulado da AT sobre procedimentos de inscrição [■ VERIFICAR: instrução de serviço mais recente]",
+    "para": "- Ofício-Circulado n.º 20276/2025, de 26 de fevereiro (IFICI — procedimento de inscrição e questões frequentes) [■ VERIFICAR: instruções administrativas posteriores]",
+    "motivo": "Instrução administrativa identificada",
+    "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/legislacao/instrucoes_administrativas/Documents/Oficio_circulado_20276_2025.pdf"
+   },
+   {
+    "de": "- Regime aplicável (IFICI+ ou RNH transitório)\n- Atividade elegível e código de portaria correspondente",
+    "para": "- Regime aplicável (IFICI ou RNH transitório)\n- Atividade elegível (alínea do n.º 1 do art. 58.º-A EBF e, se for o caso, profissão da Portaria n.º 352/2024/1) ou, no RNH transitório, código da tabela de atividades de elevado valor acrescentado",
+    "motivo": "Critério de elegibilidade de cada regime",
+    "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/bf_rep/Pages/ebf58A.aspx"
+   },
+   {
+    "de": "- Prazo de inscrição (até 31 de março do ano seguinte à residência)",
+    "para": "- Prazo de inscrição (IFICI: até 15 de janeiro do ano seguinte ao da residência; RNH transitório: até 31 de março do ano seguinte)",
+    "motivo": "O IFICI tem prazo de 15 de janeiro",
+    "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/legislacao/diplomas_legislativos/Documents/Portaria_352_2024_1.pdf"
+   },
+   {
+    "de": "**PEDIDO DE INSCRIÇÃO NO REGIME [IFICI+ / RNH]**\n\n**Ao Serviço de Finanças de [Localidade]** (ou: submetido eletronicamente no Portal das Finanças — e-Balcão)",
+    "para": "**PEDIDO DE INSCRIÇÃO NO REGIME [IFICI / RNH]**\n\n**Submetido por via eletrónica no Portal das Finanças** (formulário próprio; o texto seguinte serve de fundamentação e de anexo)",
+    "motivo": "Em ambos os regimes a inscrição é pedida por via eletrónica no Portal das Finanças, não no serviço de finanças nem no e-balcão",
+    "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/legislacao/instrucoes_administrativas/Documents/Oficio_circulado_20276_2025.pdf"
+   },
+   {
+    "de": "vem requerer a inscrição no Regime [IFICI+ / RNH] ao abrigo do artigo 16.º, n.º 11 do CIRS [e do art. 58.º-A do EBF], com os seguintes fundamentos:",
+    "para": "vem requerer a inscrição no regime [IFICI, ao abrigo do artigo 58.º-A do EBF e da Portaria n.º 352/2024/1 / RNH, ao abrigo do artigo 16.º, n.ºs 8 a 10, do CIRS, na redação anterior à Lei n.º 82/2023, aplicável por força do artigo 236.º, n.º 3, alínea [__], dessa lei], com os seguintes fundamentos:",
+    "motivo": "Fundamento legal do pedido em cada regime",
+    "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cirs_rep/Pages/irs16.aspx"
+   },
+   {
+    "de": "[Demonstrar que o requerente não foi residente fiscal em Portugal nos 5 anos anteriores à data de inscrição — art. 16.º, n.º 11 CIRS; juntar prova de residência anterior no estrangeiro]",
+    "para": "[Demonstrar que o requerente não foi residente fiscal em Portugal em qualquer dos 5 anos anteriores ao ano em que se tornou residente — art. 58.º-A, n.º 1, EBF (IFICI) ou art. 16.º, n.º 8, CIRS, na redação anterior à Lei n.º 82/2023 (RNH transitório); juntar prova de residência anterior no estrangeiro]",
+    "motivo": "O requisito reporta-se aos 5 anos anteriores à residência e consta do art. 58.º-A, n.º 1, EBF (IFICI) ou do antigo n.º 8 (RNH)",
+    "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cirs_rep/ra/Pages/irs16bra_202312.aspx"
+   },
+   {
+    "de": "**III — ATIVIDADE DE ELEVADO VALOR ACRESCENTADO**\n[Identificar a atividade exercida e o código de portaria correspondente; juntar prova (contrato de trabalho, declaração de início de atividade, outro)]",
+    "para": "**III — ATIVIDADE ELEGÍVEL**\n[IFICI: identificar a alínea do n.º 1 do art. 58.º-A EBF e, se for o caso, a profissão da Portaria n.º 352/2024/1; RNH transitório: atividade de elevado valor acrescentado da tabela aplicável; juntar prova (contrato de trabalho, certidão comercial permanente, contrato de bolsa, comprovativo de habilitações, declaração da entidade empregadora, declaração de início de atividade)]",
+    "motivo": "O IFICI não usa a tabela de atividades de elevado valor acrescentado; documentos indicados pela AT",
+    "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/legislacao/instrucoes_administrativas/Documents/Oficio_circulado_20276_2025.pdf"
+   },
+   {
+    "de": "Requer a V. Ex.ª que se digne deferir a inscrição no Regime [IFICI+ / RNH],",
+    "para": "Requer a V. Ex.ª que se digne deferir a inscrição no regime [IFICI / RNH],",
+    "motivo": "Designação legal do regime",
+    "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/bf_rep/Pages/ebf58A.aspx"
+   },
+   {
+    "de": "- [ ] Atividade elegível identificada com código de portaria\n- [ ] Regime correto indicado (IFICI+ ou RNH transitório)\n- [ ] Prazo de inscrição (31 de março do ano seguinte) verificado",
+    "para": "- [ ] Atividade elegível identificada (alínea do art. 58.º-A, n.º 1, EBF ou código da tabela do RNH)\n- [ ] Regime correto indicado (IFICI ou RNH transitório) e exclusões do IFICI verificadas (RNH anterior, opção pelo art. 12.º-A CIRS, utilização anterior)\n- [ ] Prazo de inscrição verificado (IFICI: 15 de janeiro do ano seguinte; RNH transitório: 31 de março do ano seguinte)",
+    "motivo": "Prazos e exclusões de cada regime",
+    "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/bf_rep/Pages/ebf58A.aspx"
+   },
+   {
+    "de": "- Prazo de inscrição: até [31/03/ano seguinte]",
+    "para": "- Prazo de inscrição: [IFICI: até 15/01 do ano seguinte; RNH transitório: até 31/03 do ano seguinte]",
+    "motivo": "Prazos de cada regime",
+    "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/legislacao/diplomas_legislativos/Documents/Portaria_352_2024_1.pdf"
+   },
+   {
+    "de": "- Código de portaria de atividade de elevado valor acrescentado: [código — VERIFICAR portaria em vigor]",
+    "para": "- Atividade elegível: [alínea do art. 58.º-A, n.º 1, EBF / profissão da Portaria n.º 352/2024/1 / código da tabela do RNH]",
+    "motivo": "Critério de elegibilidade de cada regime",
+    "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/bf_rep/Pages/ebf58A.aspx"
+   },
+   {
+    "de": "- IFICI+ (novo, a partir de 2024): [sim / não]\n- RNH transitório (direito adquirido ou inscrição antes de 31/12/2023): [sim / não]",
+    "para": "- IFICI (residência a partir de 2024): [sim / não]\n- RNH transitório (art. 236.º, n.º 3, da Lei n.º 82/2023 — indicar a alínea e o elemento que a fundamenta): [sim / não]",
+    "motivo": "O RNH transitório abrange também quem se tornou residente até 31/12/2024 nas condições da al. c)",
+    "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cirs_rep/Pages/irs16.aspx"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar a redação em vigor da Portaria n.º 352/2024/1 (alterada pela Portaria n.º 52-A/2025/1) e o modelo de inscrição aprovado pelo Despacho n.º 2416-A/2025.",
+   "No RNH transitório, confirmar a alínea do art. 236.º, n.º 3, da Lei n.º 82/2023 e o elemento de prova; para pensões estrangeiras, confirmar se se aplica a taxa de 10% ou o regime anterior à Lei n.º 2/2020.",
+   "Verificar a convenção para evitar a dupla tributação aplicável e o tratamento de rendimentos de territórios com regime fiscal claramente mais favorável."
+  ],
+  "fontes": [
+   "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cirs_rep/Pages/irs16.aspx",
+   "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cirs_rep/ra/Pages/irs16bra_202312.aspx",
+   "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cirs_rep/Pages/irs81.aspx",
+   "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/bf_rep/Pages/ebf58A.aspx",
+   "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/legislacao/instrucoes_administrativas/Documents/Oficio_circulado_20276_2025.pdf",
+   "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/legislacao/diplomas_legislativos/Documents/Portaria_352_2024_1.pdf",
+   "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/legislacao/diplomas_legislativos/Documents/Portaria_230_2019.pdf"
+  ]
+ },
+ {
+  "codigo": "FIS-037",
+  "veredicto": "corrigida",
+  "descricao": "Elabora o requerimento de inscrição no regime dos residentes não habituais (RNH — art. 16.º CIRS, só no regime transitório do art. 236.º da Lei n.º 82/2023) ou no Incentivo Fiscal à Investigação Científica e Inovação (IFICI — art. 58.º-A EBF, aditado pela Lei n.º 82/2023, e Portaria n.º 352/2024/1), e a resposta a projeto de indeferimento pela AT.",
+  "descricao_en": "Prepares the application for registration under the non-habitual resident regime (RNH — Article 16 CIRS, only under the transitional regime of Article 236 of Law No. 82/2023) or under the Tax Incentive for Scientific Research and Innovation (IFICI — Article 58-A EBF, added by Law No. 82/2023, and Ordinance No. 352/2024/1), and the response to a draft refusal by the AT.",
+  "resumo": "A ficha atribuía o IFICI a uma «Lei n.º 24/2024» (o regime foi aditado ao EBF, como art. 58.º-A, pela Lei n.º 82/2023 e regulamentado pela Portaria n.º 352/2024/1), apresentava o art. 16.º, n.ºs 8 a 12, CIRS como norma habilitante vigente do RNH e aplicava a ambos o prazo de 31 de março. Corrigi: RNH só no regime transitório do art. 236.º, n.º 3, da Lei n.º 82/2023 (que inclui quem se tornou residente até 31/12/2024 em certas condições), prazo de 15 de janeiro para o IFICI, isenção de fonte estrangeira pelo art. 81.º, n.º 4, CIRS, exclusões do art. 58.º-A, n.º 10, EBF e a instrução administrativa da AT (Ofício-Circulado n.º 20276/2025).",
+  "substituicoes": [
+   {
+    "de": "— Cita apenas legislação portuguesa: CIRS, EBF, LGT, Portaria n.º 12/2010 (RNH), Lei n.º 24/2024 (IFICI).\n— Distingue claramente o regime RNH histórico (inscrições anteriores a 31/12/2023) do IFICI (vigente a partir de 01/01/2024).",
+    "para": "— Cita apenas legislação portuguesa: CIRS, EBF, LGT, Portaria n.º 12/2010, na redação da Portaria n.º 230/2019 (RNH), Lei n.º 82/2023 — que aditou o art. 58.º-A EBF e contém, no art. 236.º, o regime transitório do RNH — e Portaria n.º 352/2024/1 (IFICI).\n— Distingue claramente o RNH — n.ºs 8 a 12 do art. 16.º CIRS, revogados pela Lei n.º 82/2023 e aplicáveis só aos sujeitos passivos do regime transitório do art. 236.º, n.º 3, dessa lei, incluindo quem se tornou residente até 31/12/2024 com um dos elementos da alínea c) — do IFICI (residentes a partir de 01/01/2024).",
+    "motivo": "O IFICI foi criado pela Lei n.º 82/2023 (art. 58.º-A EBF) e regulamentado pela Portaria n.º 352/2024/1; o RNH transitório não se limita a inscrições anteriores a 31/12/2023",
+    "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/bf_rep/Pages/ebf58A.aspx"
+   },
+   {
+    "de": "- Regime aplicável: RNH histórico ou IFICI",
+    "para": "- Regime aplicável: RNH transitório (art. 236.º, n.º 3, da Lei n.º 82/2023) ou IFICI",
+    "motivo": "O RNH só subsiste no regime transitório",
+    "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cirs_rep/Pages/irs16.aspx"
+   },
+   {
+    "de": "- Verificação do requisito de não residência nos 5 anos anteriores (art. 16.º, n.º 8, CIRS / art. 58.º-A EBF)",
+    "para": "- Verificação do requisito de não residência nos 5 anos anteriores (art. 16.º, n.º 8, CIRS, na redação anterior à Lei n.º 82/2023 / art. 58.º-A, n.º 1, EBF)",
+    "motivo": "O n.º 8 do art. 16.º CIRS está revogado e só vale no regime transitório",
+    "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cirs_rep/ra/Pages/irs16bra_202312.aspx"
+   },
+   {
+    "de": "- Prazo para requerer o estatuto: até 31 de março do ano seguinte ao da residência",
+    "para": "- Prazo para requerer: IFICI, até 15 de janeiro do ano seguinte ao da residência (art. 2.º, n.º 1, da Portaria n.º 352/2024/1); RNH transitório, até 31 de março do ano seguinte; fora do prazo, efeitos a partir do ano da inscrição, pelo período remanescente (art. 58.º-A, n.º 7, EBF; art. 236.º, n.º 5, da Lei n.º 82/2023)",
+    "motivo": "O IFICI tem prazo de 15 de janeiro; a inscrição tardia não perde o regime, só os anos anteriores",
+    "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/legislacao/diplomas_legislativos/Documents/Portaria_352_2024_1.pdf"
+   },
+   {
+    "de": "- Norma habilitante: art. 16.º, n.ºs 8 a 12 CIRS (RNH) ou art. 58.º-A EBF (IFICI)\n- Regime de tributação aplicável: taxa de 20% para rendimentos de categoria A e B de atividades de elevado valor acrescentado (RNH); taxa de 20% e isenções (IFICI)",
+    "para": "- Norma habilitante: art. 16.º, n.ºs 8 a 12 CIRS (RNH), na redação anterior à Lei n.º 82/2023, aplicável por força do art. 236.º, n.º 3, dessa lei, ou art. 58.º-A EBF (IFICI)\n- Regime de tributação aplicável: taxa de 20% para rendimentos de categoria A e B de atividades de elevado valor acrescentado (RNH); taxa de 20% sobre os rendimentos das categorias A e B das atividades elegíveis (art. 58.º-A, n.º 2, EBF) e isenção, com englobamento para determinação da taxa, dos rendimentos de fonte estrangeira das categorias A, B, E, F e G, sem abranger pensões (art. 81.º, n.º 4, CIRS) (IFICI)",
+    "motivo": "Norma revogada apresentada como vigente; base legal da isenção de fonte estrangeira do IFICI",
+    "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cirs_rep/Pages/irs81.aspx"
+   },
+   {
+    "de": "- Jurisprudência e orientações administrativas da AT [■ VERIFICAR: Circular / Despacho]",
+    "para": "- Jurisprudência e orientações administrativas da AT (IFICI: Ofício-Circulado n.º 20276/2025, de 26 de fevereiro) [■ VERIFICAR: jurisprudência e instruções posteriores]",
+    "motivo": "Instrução administrativa identificada",
+    "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/legislacao/instrucoes_administrativas/Documents/Oficio_circulado_20276_2025.pdf"
+   },
+   {
+    "de": "- Via de submissão (Portal das Finanças — e-balcão)",
+    "para": "- Via de submissão: Portal das Finanças, por via eletrónica (IFICI: formulário próprio, com verificação dos requisitos da atividade pela FCT, pela AICEP, pela AT, pelo IAPMEI, pela ANI ou pela Startup Portugal, consoante a alínea — art. 58.º-A, n.º 6, EBF)",
+    "motivo": "O pedido não se faz pelo e-balcão",
+    "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/legislacao/instrucoes_administrativas/Documents/Oficio_circulado_20276_2025.pdf"
+   },
+   {
+    "de": "- [ ] Prazo de 31 de março do ano seguinte respeitado\n- [ ] Atividade qualificada para IFICI documentada",
+    "para": "- [ ] Prazo respeitado (IFICI: 15 de janeiro do ano seguinte; RNH transitório: 31 de março do ano seguinte)\n- [ ] Atividade qualificada para IFICI documentada; exclusões do art. 58.º-A, n.º 10, EBF afastadas (RNH anterior ou opção pelo art. 12.º-A CIRS)",
+    "motivo": "Prazos e exclusões de cada regime",
+    "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/bf_rep/Pages/ebf58A.aspx"
+   },
+   {
+    "de": "- Regime pretendido: [RNH histórico / IFICI]",
+    "para": "- Regime pretendido: [RNH transitório — art. 236.º, n.º 3, da Lei n.º 82/2023 / IFICI]",
+    "motivo": "O RNH só existe no regime transitório",
+    "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cirs_rep/Pages/irs16.aspx"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar a redação em vigor da Portaria n.º 352/2024/1 (alterada pela Portaria n.º 52-A/2025/1) e os prazos especiais fixados para os residentes de 2024 (Despacho n.º 24/2025-XXIV).",
+   "Na resposta ao projeto de indeferimento, confirmar o prazo e a forma do direito de audição (art. 60.º LGT).",
+   "No RNH transitório, confirmar a alínea do art. 236.º, n.º 3, da Lei n.º 82/2023 e a prova do elemento invocado."
+  ],
+  "fontes": [
+   "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cirs_rep/Pages/irs16.aspx",
+   "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cirs_rep/ra/Pages/irs16bra_202312.aspx",
+   "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cirs_rep/Pages/irs81.aspx",
+   "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/bf_rep/Pages/ebf58A.aspx",
+   "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/legislacao/instrucoes_administrativas/Documents/Oficio_circulado_20276_2025.pdf",
+   "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/legislacao/diplomas_legislativos/Documents/Portaria_352_2024_1.pdf",
+   "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/legislacao/diplomas_legislativos/Documents/Portaria_230_2019.pdf"
+  ]
+ }
+]

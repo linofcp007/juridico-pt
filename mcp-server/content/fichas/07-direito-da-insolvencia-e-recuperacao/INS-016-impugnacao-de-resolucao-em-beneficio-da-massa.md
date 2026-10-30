@@ -3,20 +3,22 @@ codigo: INS-016
 area: "Direito da Insolvência e Recuperação"
 titulo: "Impugnação de Resolução em Benefício da Massa"
 titulo_en: "Challenge to an Avoidance for the Benefit of the Estate"
-descricao: "Gera o requerimento pelo qual o terceiro contratante impugna a resolução do ato declarada pelo administrador da insolvência, alegando a inaplicabilidade do fundamento legal ou a existência de boa-fé, nos termos do artigo 125.º do CIRE."
-descricao_en: "Generates the application by which the third-party counterparty challenges the avoidance of the transaction declared by the insolvency administrator, alleging that the legal ground does not apply or that it acted in good faith, under Article 125 of the CIRE."
+descricao: "Gera a petição inicial da ação pela qual o terceiro impugna a resolução do ato declarada pelo administrador da insolvência, proposta contra a massa insolvente como dependência do processo de insolvência, no prazo de caducidade de três meses do artigo 125.º do CIRE, alegando a falta dos pressupostos da resolução (artigos 120.º, 121.º e 123.º) ou, na resolução condicional, a falta de má-fé."
+descricao_en: "Generates the statement of claim by which the third party challenges the avoidance of the transaction declared by the insolvency administrator, brought against the insolvent estate as a dependency of the insolvency proceedings, within the three-month time bar of Article 125 of the CIRE, alleging that the requirements for avoidance are not met (Articles 120, 121 and 123) or, in conditional avoidance, the absence of bad faith."
 ambito: nacional
-estado_citacoes: "conferidas 5 · corrigidas 0 · por conferir 20"
+estado_citacoes: "conferidas 16 · corrigidas 0 · por conferir 17"
+revisao_tecnica: "2026-10-28 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
 # Impugnação de Resolução em Benefício da Massa
 
 > **Âmbito:** nacional · **Área:** Direito da Insolvência e Recuperação · **Código:** INS-016
-> **EN:** Challenge to an Avoidance for the Benefit of the Estate. Generates the application by which the third-party counterparty challenges the avoidance of the transaction declared by the insolvency administrator, alleging that the legal ground does not apply or that it acted in good faith, under Article 125 of the CIRE.
-> **Citações:** conferidas 5 · corrigidas 0 · por conferir 20. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **EN:** Challenge to an Avoidance for the Benefit of the Estate. Generates the statement of claim by which the third party challenges the avoidance of the transaction declared by the insolvency administrator, brought against the insolvent estate as a dependency of the insolvency proceedings, within the three-month time bar of Article 125 of the CIRE, alleging that the requirements for avoidance are not met (Articles 120, 121 and 123) or, in conditional avoidance, the absence of bad faith.
+> **Citações:** conferidas 16 · corrigidas 0 · por conferir 17. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-28 — corrigida (12 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
-Gera o requerimento pelo qual o terceiro contratante impugna a resolução do ato declarada pelo administrador da insolvência, alegando a inaplicabilidade do fundamento legal ou a existência de boa-fé, nos termos do artigo 125.º do CIRE.
+Gera a petição inicial da ação pela qual o terceiro impugna a resolução do ato declarada pelo administrador da insolvência, proposta contra a massa insolvente como dependência do processo de insolvência, no prazo de caducidade de três meses do artigo 125.º do CIRE, alegando a falta dos pressupostos da resolução (artigos 120.º, 121.º e 123.º) ou, na resolução condicional, a falta de má-fé.
 
 ## Método
 
@@ -38,49 +40,49 @@ Apresenta dentro de um bloco <analise_do_caso>:
   a) O ato não se enquadra na lista do art. 121.º (incondicional)
   b) O ato ocorreu fora dos prazos legais
   c) O ato não causou prejuízo real à massa (resolução condicional)
-  d) O impugnante adquiriu de boa-fé e pagou preço justo (só na resolução condicional — art. 124.º CIRE [■ VERIFICAR: o art. 124.º CIRE trata dos transmissários posteriores; a má-fé do terceiro adquirente é requisito do art. 120.º CIRE])
+  d) Falta de má-fé do impugnante à data do ato (só releva na resolução condicional — art. 120.º, n.os 4 e 5, CIRE; a má-fé presume-se se no ato participou ou dele aproveitou pessoa especialmente relacionada com o insolvente); na resolução incondicional (art. 121.º) a boa-fé é irrelevante
   e) O prazo de resolução (art. 123.º CIRE) já havia expirado
   f) Vício de forma na notificação da resolução
 - Prova disponível (contratos, recibos, avaliações, etc.)
 
 ### ETAPA 2 — ANÁLISE JURÍDICA (Fundamentação)
 Apresenta dentro de um bloco <fundamentos_juridicos>:
-- Art. 125.º CIRE [■ VERIFICAR: o prazo de impugnação do art. 125.º CIRE conta-se em meses, não em 30 dias; confirmar o prazo em vigor] — prazo de impugnação: 30 dias da notificação
+- Art. 125.º do CIRE — o direito de impugnar a resolução caduca no prazo de três meses; a ação é proposta contra a massa insolvente e corre como dependência do processo de insolvência [■ VERIFICAR: termo inicial do prazo — a lei não o fixa; por cautela, contar da receção da carta de resolução]
 - Art. 120.º CIRE — requisitos da resolução condicional: prejudicialidade + má-fé do terceiro
 - Art. 121.º CIRE — lista taxativa da resolução incondicional; o ato deve corresponder exatamente a uma das alíneas
-- Art. 123.º CIRE [■ VERIFICAR: o art. 123.º CIRE fixa 6 meses após o conhecimento do ato e o limite de 2 anos após a declaração; rever os prazos] — prazos da resolução: 2 anos do conhecimento, máximo 5 anos do ato
-- Art. 124.º CIRE — proteção do terceiro de boa-fé na resolução condicional
-- Art. 126.º CIRE [■ VERIFICAR: o art. 126.º CIRE trata dos efeitos da resolução, não da impugnação procedente; confirmar a norma] — efeitos da impugnação procedente
+- Art. 123.º, n.º 1, CIRE — forma e prazo da resolução: carta registada com aviso de receção, nos seis meses seguintes ao conhecimento do ato pelo administrador, nunca depois de decorridos dois anos sobre a data da declaração de insolvência
+- Art. 124.º CIRE — oponibilidade da resolução a transmissários posteriores: pressupõe a má-fé destes, salvo sucessores a título universal ou nova transmissão a título gratuito (relevante se o impugnante for subadquirente)
+- Art. 126.º, n.os 4 a 6, CIRE — se a resolução se mantiver: restituição ao terceiro do que prestou, em espécie se puder ser identificado e separado; não podendo, dívida da massa na medida do enriquecimento à data da declaração da insolvência e dívida da insolvência quanto ao remanescente; o adquirente a título gratuito só restitui na medida do seu enriquecimento, salvo má-fé
 - [■ VERIFICAR: jurisprudência sobre os limites da resolução incondicional]
 
 ### ETAPA 3 — CONSTRUÇÃO ARGUMENTATIVA
 Apresenta dentro de um bloco <estrategia>:
 - Argumento mais forte: qual o fundamento de impugnação mais sólido?
 - Documentos de suporte: avaliação do bem, prova de pagamento, escritura
-- Argumento de boa-fé (art. 124.º): desconhecia a insolvência iminente? Pago preço justo?
-- Consequência da impugnação procedente: o bem não volta à massa, ou o impugnante pode reclamar restituição do que entregou
+- Argumento de falta de má-fé (art. 120.º, n.os 4 e 5 — só na resolução condicional): à data do ato, desconhecia a situação de insolvência, o caráter prejudicial do ato e a insolvência iminente, e o início do processo? Pagou preço justo?
+- Consequência da impugnação procedente: a resolução é declarada ineficaz e o bem não volta à massa; se a resolução se mantiver, o impugnante tem direito à restituição do que entregou nos termos do art. 126.º, n.os 4 e 5, CIRE
 
-### ETAPA 4 — A IMPUGNAÇÃO
-Redige a peça completa nesta estrutura:
+### ETAPA 4 — A AÇÃO DE IMPUGNAÇÃO
+Redige a peça completa nesta estrutura (petição inicial de ação proposta contra a massa insolvente, que corre como dependência do processo de insolvência — art. 125.º do CIRE):
 
 **1. CABEÇALHO**
 AO TRIBUNAL JUDICIAL DA COMARCA DE [COMARCA]
-PROCESSO N.º [número]
+POR APENSO AO PROCESSO N.º [número]
 INSOLVÊNCIA DE [nome do insolvente]
 
-**2. IDENTIFICAÇÃO DO IMPUGNANTE**
-[Nome/Firma], [NIF/NIPC], [morada], terceiro a quem foi notificada resolução em benefício da massa, vem, nos termos do art. 125.º do CIRE, deduzir
+**2. IDENTIFICAÇÃO DAS PARTES**
+[Nome/Firma], [NIF/NIPC], [morada], terceiro a quem foi declarada a resolução em benefício da massa, vem, nos termos do art. 125.º do CIRE, propor contra a MASSA INSOLVENTE DE [nome do insolvente], representada pelo administrador da insolvência, a presente
 
-IMPUGNAÇÃO DA RESOLUÇÃO EM BENEFÍCIO DA MASSA
+AÇÃO DE IMPUGNAÇÃO DA RESOLUÇÃO EM BENEFÍCIO DA MASSA
 
 **3. DOS FUNDAMENTOS DE IMPUGNAÇÃO**
-Artigo 1.º — [Tempestividade: data da notificação e 30 dias]
+Artigo 1.º — [Tempestividade: data da receção da carta de resolução e prazo de caducidade de três meses (art. 125.º do CIRE)]
 Artigo 2.º — [Primeiro fundamento: ato fora dos prazos / não enquadrável no art. 121.º / boa-fé]
 Artigo 3.º — [Segundo fundamento, se aplicável]
 Artigo 4.º — [Inexistência de prejuízo para a massa, se aplicável]
 
 **4. DO DIREITO**
-Art. 124.º e 125.º CIRE [■ VERIFICAR: os requisitos da resolução estão nos arts. 120.º e 121.º CIRE; o art. 124.º trata dos transmissários] — análise dos requisitos e sua não verificação
+Arts. 120.º, 121.º e 123.º CIRE — análise dos requisitos da resolução e sua não verificação; art. 125.º do CIRE — tempestividade da ação
 
 **5. DOS REQUERIMENTOS**
 "Termos em que requer a V. Ex.ª que se digne:
@@ -101,10 +103,10 @@ Cédula Profissional n.º [número]
 
 ### ETAPA 5 — FORMULAÇÃO FINAL (Validação)
 Apresenta dentro de um bloco <checklist_validacao>:
-- [ ] Prazo de 30 dias da notificação cumprido (art. 125.º CIRE [■ VERIFICAR: o prazo de impugnação do art. 125.º CIRE conta-se em meses, não em 30 dias; confirmar o prazo em vigor])
+- [ ] Ação proposta contra a massa insolvente dentro do prazo de caducidade de três meses (art. 125.º do CIRE)
 - [ ] Fundamento de impugnação específico identificado
 - [ ] Ato analisado face à lista taxativa do art. 121.º ou requisitos do art. 120.º
-- [ ] Boa-fé alegada e documentada (se aplicável — art. 124.º)
+- [ ] Falta de má-fé alegada e documentada (só na resolução condicional — art. 120.º, n.os 4 e 5)
 - [ ] Preço justo demonstrado (avaliação independente)
 - [ ] Documentos juntos
 - [ ] Pontos [■ VERIFICAR] assinalados
@@ -124,7 +126,7 @@ Apresenta dentro de um bloco <checklist_validacao>:
 - Data do ato: [data]
 - Valor: [€ valor]
 - Bem em causa: [descrição]
-- Data da notificação da resolução: [data — prazo de 30 dias conta daqui]
+- Data da receção da carta de resolução: [data — prazo de três meses do art. 125.º do CIRE]
 
 **FUNDAMENTO INVOCADO PELO ADMINISTRADOR:**
 [Art. 121.º al. X / art. 120.º — o que disse o administrador]
@@ -132,7 +134,7 @@ Apresenta dentro de um bloco <checklist_validacao>:
 **ARGUMENTOS DE IMPUGNAÇÃO DISPONÍVEIS:**
 [Descreve:
 - O ato não é gratuito (pagou preço justo — quanto?)
-- O ato ocorreu há mais de 6 meses / 2 anos
+- O ato ocorreu fora do período relevante (contado do início do processo: 60 dias, 6 meses, 1 ano ou 2 anos, consoante a alínea do art. 121.º; 2 anos no art. 120.º)
 - O impugnante não conhecia a situação de insolvência
 - O ato não causou prejuízo real à massa
 - Outro argumento]
@@ -152,24 +154,32 @@ Apresenta dentro de um bloco <checklist_validacao>:
 | art. 121.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 121.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 121.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 121.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 121.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 120.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 120.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 120.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| art. 124.º CIRE | por conferir [■ VERIFICAR] | o art. 124.º CIRE trata dos transmissários posteriores; a má-fé do terceiro adquirente é requisito do art. 120.º CIRE |
-| art. 124.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| art. 124.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 120.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 120.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 120.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 120.º, n.os 4 e 5, CIRE | conferida (epígrafe) — Princípios gerais |  |
 | art. 123.º CIRE | conferida (epígrafe) — Forma de resolução e prescrição do direito |  |
-| Art. 125.º CIRE | por conferir [■ VERIFICAR] | o prazo de impugnação do art. 125.º CIRE conta-se em meses, não em 30 dias; confirmar o prazo em vigor |
-| art. 125.º CIRE | por conferir [■ VERIFICAR] | o prazo de impugnação do art. 125.º CIRE conta-se em meses, não em 30 dias; confirmar o prazo em vigor |
+| Art. 125.º do CIRE | conferida (epígrafe) — Impugnação da resolução |  |
 | Art. 120.º CIRE | conferida (epígrafe) — Princípios gerais |  |
 | Art. 121.º CIRE | conferida (epígrafe) — Resolução incondicional |  |
 | Art. 121.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| Art. 123.º CIRE | por conferir [■ VERIFICAR] | o art. 123.º CIRE fixa 6 meses após o conhecimento do ato e o limite de 2 anos após a declaração; rever os prazos |
+| Art. 123.º, n.º 1, CIRE | conferida (epígrafe) — Forma de resolução e prescrição do direito |  |
 | Art. 124.º CIRE | conferida (epígrafe) — Oponibilidade a transmissários |  |
-| Art. 126.º CIRE | por conferir [■ VERIFICAR] | o art. 126.º CIRE trata dos efeitos da resolução, não da impugnação procedente; confirmar a norma |
+| Art. 126.º, n.os 4 a 6, CIRE | conferida (epígrafe) — Efeitos da resolução |  |
+| art. 126.º, n.os 4 e 5, CIRE | conferida (epígrafe) — Efeitos da resolução |  |
+| art. 125.º do CIRE | conferida (epígrafe) — Impugnação da resolução |  |
+| art. 125.º do CIRE | conferida (epígrafe) — Impugnação da resolução |  |
+| art. 125.º do CIRE | conferida (epígrafe) — Impugnação da resolução |  |
+| art. 125.º do CIRE | conferida (epígrafe) — Impugnação da resolução |  |
+| art. 125.º do CIRE | conferida (epígrafe) — Impugnação da resolução |  |
 | art. 125.º do CIRE | conferida (epígrafe) — Impugnação da resolução |  |
 | Artigo 1.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | Artigo 2.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | Artigo 3.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | Artigo 4.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| Art. 124.º e 125.º CIRE | por conferir [■ VERIFICAR] | os requisitos da resolução estão nos arts. 120.º e 121.º CIRE; o art. 124.º trata dos transmissários |
+| Arts. 120.º, 121.º e 123.º CIRE | conferida (epígrafe) — Princípios gerais |  |

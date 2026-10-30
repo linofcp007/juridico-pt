@@ -1,0 +1,197 @@
+[
+  {
+    "codigo": "TRA-003",
+    "triagem": "ok"
+  },
+  {
+    "codigo": "TRA-004",
+    "triagem": "rever",
+    "gravidade": "alta",
+    "motivos": [
+      "Afirma que a cessação da comissão de serviço por iniciativa do empregador 'não dá direito a indemnização, salvo convenção em contrário'. O art. 164.º CT atribui ao trabalhador contratado externamente para a comissão de serviço uma indemnização (calculada nos termos do art. 366.º CT, ou mais favorável) quando a comissão cessa por iniciativa do empregador sem despedimento por facto imputável ao trabalhador (a confirmar o n.º exato).",
+      "Fala em 'suspensão do contrato anterior' do trabalhador da empresa (art. 164.º), instituto que o CT não prevê no setor privado: o trabalhador da empresa mantém o contrato e tem direito a regressar à atividade anterior (art. 164.º n.º 1 a)). A cláusula 7.ª e a checklist ('suspensão ou manutenção') conduzem a um regime que não existe."
+    ]
+  },
+  {
+    "codigo": "TRA-006",
+    "triagem": "ok"
+  },
+  {
+    "codigo": "TRA-008",
+    "triagem": "ok"
+  },
+  {
+    "codigo": "TRA-010",
+    "triagem": "rever",
+    "gravidade": "alta",
+    "motivos": [
+      "Aviso prévio errado (art. 114.º CT): a denúncia durante o período experimental é livre, sem aviso prévio nem indemnização (salvo acordo escrito em contrário); só o EMPREGADOR deve dar aviso prévio quando o período experimental tiver durado mais de 60 dias (7 dias) e mais de 120 dias (15 dias). A ficha diz '7 dias para o trabalhador', que não existe, e omite o escalão de 15 dias acima dos 120 dias.",
+      "A checklist ('0 dias se <=60 dias; 7 dias se >60 dias') e a carta ao abrigo do art. 114.º ficam com o prazo errado para períodos experimentais de 180 e 240 dias, e impõem ao trabalhador um aviso prévio inexistente."
+    ]
+  },
+  {
+    "codigo": "TRA-012",
+    "triagem": "rever",
+    "gravidade": "media",
+    "motivos": [
+      "Mistura o regime do despedimento com o das sanções conservatórias: manda indicar na decisão o 'prazo para recorrer (impugnar judicialmente — art. 387.º CT)'. O prazo de 60 dias do art. 387.º é do despedimento; para sanções conservatórias não há esse prazo de caducidade (aplica-se a prescrição de 1 ano após a cessação do contrato, art. 337.º CT).",
+      "Invoca o art. 357.º CT (decisão do despedimento) como 'conteúdo obrigatório' da decisão disciplinar conservatória; no regime das sanções (arts. 328.º a 332.º CT) a decisão exige audiência prévia do trabalhador e fundamentação, sem o regime do art. 357.º.",
+      "Lista de sanções incompleta/imprecisa face ao art. 328.º n.º 1: omite a sanção pecuniária e a repreensão registada, e o limite da suspensão omite o teto anual (90 dias por ano civil, além dos 30 dias por infração)."
+    ]
+  },
+  {
+    "codigo": "TRA-014",
+    "triagem": "rever",
+    "gravidade": "alta",
+    "motivos": [
+      "Prazo de pronúncia errado: indica '5 dias úteis para se pronunciar (art. 370.º n.º 3)', e a checklist repete '5 dias úteis'. No despedimento por extinção do posto de trabalho a estrutura representativa e o trabalhador podem juntar parecer fundamentado nos 10 dias posteriores à comunicação (art. 370.º n.º 1 CT). Conceder menos tempo do que a lei vicia o procedimento e torna o despedimento ilícito.",
+      "Aviso prévio: indica '15, 30 ou 60 dias conforme antiguidade' e remete para o art. 363.º (despedimento coletivo). O escalão é 15/30/60/75 dias (75 dias para antiguidade de 10 ou mais anos) e, na extinção do posto, a norma é o art. 371.º CT.",
+      "Compensação descrita como '12 dias + antiguidade por cada ano' e apenas por anos completos: o art. 366.º CT prevê 12 dias de retribuição base e diuturnidades por cada ano, com cálculo proporcional da fração de ano, mínimo de 3 meses e tetos (a confirmar)."
+    ]
+  },
+  {
+    "codigo": "TRA-015",
+    "triagem": "rever",
+    "gravidade": "alta",
+    "motivos": [
+      "Inventa um 'período de negociação mínimo de 10 dias' (repetido na checklist e no cronograma). No despedimento coletivo a fase de informações e negociação tem lugar nos 5 dias posteriores à comunicação inicial (art. 361.º n.º 1 CT) e a decisão individual só pode ser comunicada depois de celebrado o acordo ou, na falta deste, decorridos 30 dias sobre a comunicação inicial (art. 363.º n.º 1; prazo mais curto para micro e pequenas empresas, a confirmar). Os 'prazos calculados' da ficha ficam errados.",
+      "Manda comunicar o procedimento 'ao IEFP'; o art. 360.º CT impõe o envio de cópia da comunicação ao serviço do ministério responsável pela área laboral (DGERT) (a confirmar). Omite a intervenção do ministério (art. 362.º).",
+      "Faz do art. 364.º a norma do aviso prévio; o aviso prévio (15/30/60/75 dias) consta do art. 363.º n.º 1, e o art. 364.º trata do crédito de horas (a confirmar)."
+    ]
+  },
+  {
+    "codigo": "TRA-016",
+    "triagem": "ok"
+  },
+  {
+    "codigo": "TRA-017",
+    "triagem": "rever",
+    "gravidade": "alta",
+    "motivos": [
+      "Forma processual errada: a impugnação da regularidade e licitude de despedimento comunicado por escrito segue a ação especial dos arts. 98.º-B e ss. CPT, que se inicia com o requerimento em formulário próprio (art. 98.º-C CPT) apresentado no prazo de 60 dias (art. 387.º n.º 2 CT), seguido de audiência de partes e do articulado motivador do empregador (art. 98.º-J). A ficha manda redigir uma 'petição inicial' de processo comum.",
+      "Regra inventada: 'despedimento irregular — vícios formais; indemnização reduzida de 30-60 dias' (art. 382.º). O art. 382.º CT trata da invalidade do procedimento, que torna o despedimento ilícito (art. 381.º b)). A faixa de 30 a 60 dias é a do art. 392.º n.º 3 (oposição do empregador à reintegração em micro empresa ou cargo de direção/administração), não de vícios formais.",
+      "Indemnização em substituição da reintegração: o art. 391.º fixa 15 a 45 dias de retribuição base e diuturnidades por cada ano completo ou fração de antiguidade (mínimo de 3 meses), não os valores sugeridos; a ficha também exige que ambos os pedidos (reintegração e indemnização) constem da petição, quando a opção pela indemnização pode ser feita até ao termo da discussão em audiência final."
+    ]
+  },
+  {
+    "codigo": "TRA-018",
+    "triagem": "rever",
+    "gravidade": "media",
+    "motivos": [
+      "Forma processual errada: na ação especial de impugnação de despedimento (arts. 98.º-B e ss. CPT) o empregador não apresenta 'contestação' a uma petição inicial; apresenta o articulado motivador do despedimento (art. 98.º-J CPT), no prazo de 15 dias após a audiência de partes, limitado aos factos e fundamentos constantes da decisão final do procedimento disciplinar. A estrutura da peça (exceções, impugnação especificada) não corresponde ao ato processual devido.",
+      "Assenta no conceito inexistente de 'despedimento irregular' (art. 382.º) e em 'vício formal menor' com pedido de 'redução da indemnização'. A invalidade do procedimento (art. 382.º CT) torna o despedimento ilícito (art. 381.º b)); a única consequência atenuada é a possibilidade de renovar o procedimento (art. 389.º n.º 2), a confirmar."
+    ]
+  },
+  {
+    "codigo": "TRA-019",
+    "triagem": "rever",
+    "gravidade": "alta",
+    "motivos": [
+      "Omite o prazo essencial: a suspensão judicial do despedimento tem de ser requerida no prazo de 5 dias úteis contados da receção da comunicação de despedimento (art. 386.º n.º 1 CT; arts. 34.º e ss. CPT). A ficha só monitoriza o prazo de 60 dias da ação principal, pelo que o trabalhador pode perder a providência.",
+      "Os requisitos estão mal enunciados como 'fumus boni iuris + periculum in mora' da providência cautelar comum. O art. 386.º n.º 2 CT só exige que o tribunal conclua pela probabilidade séria de ilicitude do despedimento, ponderadas as circunstâncias relevantes; o periculum in mora não é requisito autónomo (a confirmar). A ficha também descreve o pedido como 'reintegração provisória OU recebimento de salários', quando o efeito da suspensão decorre da lei (a confirmar)."
+    ]
+  },
+  {
+    "codigo": "TRA-020",
+    "triagem": "ok"
+  },
+  {
+    "codigo": "TRA-021",
+    "triagem": "ok"
+  },
+  {
+    "codigo": "TRA-022",
+    "triagem": "rever",
+    "gravidade": "media",
+    "motivos": [
+      "Compensação calculada só por 'anos completos' (12 dias x retribuição/30 x anos completos). O art. 366.º CT manda calcular proporcionalmente a fração de ano, fixa o mínimo de 3 meses e os tetos da compensação e da retribuição de referência (a confirmar o número); omitir a fração subestima o crédito.",
+      "A ficha trata a compensação do art. 366.º como crédito genérico 'por despedimento'; só é devida no despedimento coletivo, extinção do posto de trabalho e inadaptação (e a caducidade de contratos a termo tem regime próprio no art. 344.º/345.º), nunca no despedimento por facto imputável ao trabalhador.",
+      "O aviso prévio em falta tem regra própria consoante a modalidade de cessação (arts. 363.º, 371.º, 378.º, 401.º); a ficha remete tudo para o art. 363.º, que só regula o despedimento coletivo."
+    ]
+  },
+  {
+    "codigo": "TRA-023",
+    "triagem": "rever",
+    "gravidade": "alta",
+    "motivos": [
+      "Cenário B (despedimento ilícito) assenta em 'Base: 30 dias de retribuição por cada ano'. O art. 391.º CT dá ao tribunal a fixação entre 15 e 45 dias de retribuição base e diuturnidades por cada ano completo ou fração de antiguidade, consoante o valor da retribuição e o grau de ilicitude (30 a 60 dias só na oposição à reintegração, art. 392.º n.º 3). A fórmula, e o pedido que dela resulta, ficam errados.",
+      "Apresenta 'despedimento lícito -> compensação' como regra geral. A compensação do art. 366.º só existe no despedimento coletivo, na extinção do posto e na inadaptação; o despedimento lícito por facto imputável ao trabalhador não dá direito a compensação.",
+      "Calcula a compensação por 'anos completos', quando o art. 366.º manda tratar a fração de ano proporcionalmente, e omite os tetos legais.",
+      "Regime transitório sem rigor: a regra 'admitidos antes de 01/11/2012, 30 dias/ano nos primeiros 3 anos e 20 dias/ano no excedente' não corresponde ao regime transitório da Lei n.º 23/2012 e da Lei n.º 69/2013 (data de referência 1/11/2011 para contratos, 31/10/2012 para o corte do período, e regime de 20 dias a rever). A confirmar com a legislação."
+    ]
+  },
+  {
+    "codigo": "TRA-024",
+    "triagem": "rever",
+    "gravidade": "alta",
+    "motivos": [
+      "Acréscimo errado para o dia de descanso semanal complementar: a ficha aplica 25%. O art. 268.º n.º 1 CT fixa 25% na 1.ª hora e 37,5% nas seguintes em dia útil, e 50% por hora em dia de descanso semanal (complementar ou obrigatório) ou feriado.",
+      "Descanso compensatório desatualizado: 'art. 229.º CT — 25% das horas suplementares em dias normais' é regime revogado pela Lei n.º 23/2012. Atualmente existe o descanso compensatório pelo descanso diário em falta e o dia de descanso compensatório pelo trabalho em dia de descanso semanal obrigatório (art. 229.º), não os 25% das horas em dia normal.",
+      "Limite anual de 200 horas apresentado como regra geral; o art. 228.º CT fixa 175/150 horas consoante a dimensão da empresa e permite ao IRCT elevar até 200 (a confirmar os valores)."
+    ]
+  },
+  {
+    "codigo": "TRA-025",
+    "triagem": "rever",
+    "gravidade": "media",
+    "motivos": [
+      "Inverte as categorias do art. 394.º: apresenta o n.º 2 como 'causas objetivas (presunção de culpa do empregador)' e o n.º 3 como 'comportamentos lesivos'. O n.º 2 contém a justa causa subjetiva (comportamento culposo do empregador: falta culposa de pagamento da retribuição, violação de garantias, sanção abusiva, ofensas, etc.) e o n.º 3 a justa causa objetiva (sem culpa: obrigação legal incompatível, alteração substancial das condições, falta não culposa de pagamento). A carta ficaria a invocar a categoria errada, com reflexo na indemnização do art. 396.º, que depende do fundamento.",
+      "A pergunta 'indemnização equivalente ao despedimento sem justa causa?' induz em erro: a indemnização do art. 396.º (15 a 45 dias por ano, a fixar pelo tribunal) só cabe nos fundamentos do n.º 2 do art. 394.º."
+    ]
+  },
+  {
+    "codigo": "TRA-026",
+    "triagem": "ok"
+  },
+  {
+    "codigo": "TRA-027",
+    "triagem": "ok"
+  },
+  {
+    "codigo": "TRA-028",
+    "triagem": "rever",
+    "gravidade": "media",
+    "motivos": [
+      "Classificação inventada de acidente 'leve (menos de 3 dias de baixa)' e 'grave (3 ou mais dias)': a Lei n.º 98/2009 não tem essa classificação, e dela a ficha faz depender as obrigações de participação.",
+      "Prazo de participação à seguradora indicado como '8 dias úteis do conhecimento para graves'. Na Lei n.º 98/2009 o empregador participa o acidente à seguradora por escrito no prazo de 24 horas após o conhecimento (o prazo de 8 dias é da seguradora para participar ao tribunal) — a confirmar o artigo exato. A ficha ignora também a comunicação do sinistrado ao empregador e a participação ao tribunal nos casos de morte ou incapacidade permanente."
+    ]
+  },
+  {
+    "codigo": "TRA-029",
+    "triagem": "rever",
+    "gravidade": "alta",
+    "motivos": [
+      "Percentagem do subsídio por incapacidade temporária errada: a ficha indica '70% da retribuição; 75% após 30 dias'. O art. 48.º n.º 3 da Lei n.º 98/2009 prevê 70% da retribuição nos primeiros 12 meses e 75% no período subsequente (incapacidade temporária absoluta). O cálculo do pedido (alínea c)) sai errado.",
+      "O processo emergente de acidente de trabalho tem uma fase conciliatória obrigatória, perante o Ministério Público, que se inicia pela participação, e só se frustrada essa fase há lugar a petição inicial na fase contenciosa (CPT, arts. 99.º e ss. e 119.º). A ficha trata a petição como o primeiro ato. O prazo de caducidade de 1 ano conta-se da alta clínica formalmente comunicada ao sinistrado ou da morte (a confirmar a norma: art. 71.º da Lei n.º 98/2009, não o art. 49.º)."
+    ]
+  },
+  {
+    "codigo": "TRA-032",
+    "triagem": "rever",
+    "gravidade": "media",
+    "motivos": [
+      "Requisitos da cedência ocasional apresentados em alternativa ('relação de grupo ... OU consentimento escrito do trabalhador'). O art. 289.º CT exige a verificação cumulativa: trabalhador vinculado ao cedente por contrato sem termo, cedência no quadro de colaboração entre empresas jurídica ou financeiramente associadas ou com estruturas organizativas comuns, e acordo do trabalhador (a confirmar as alíneas). O acordo em que bastasse uma das condições seria ilícito (art. 292.º).",
+      "Remete o trabalho temporário para a 'Lei n.º 19/2007', diploma revogado: o regime do trabalho temporário consta hoje dos arts. 172.º e ss. do CT.",
+      "Duração máxima '1 ano prorrogável por mais 1' apresentada como regra legal: não corresponde ao regime atual da cedência ocasional (a confirmar o art. 290.º/289.º)."
+    ]
+  },
+  {
+    "codigo": "TRA-033",
+    "triagem": "rever",
+    "gravidade": "media",
+    "motivos": [
+      "Responsabilidade por créditos anteriores trocada: a ficha atribui a responsabilidade solidária ao 'cedente' (art. 285.º n.º 5). O art. 285.º CT estabelece que o ADQUIRENTE é solidariamente responsável pelas obrigações do transmitente vencidas até à data da transmissão, durante o ano subsequente a esta (n.º 2, a confirmar o número).",
+      "Direito de oposição apresentado como direito geral do trabalhador (e ligado ao art. 286.º). O art. 286.º-A só o admite quando o adquirente não ofereça garantias de solvabilidade ou a política de organização de recursos humanos seja gravemente lesiva, e sujeita-o a prazo e forma; a comunicação aos trabalhadores deve refletir essas condições (a confirmar)."
+    ]
+  },
+  {
+    "codigo": "TRA-034",
+    "triagem": "rever",
+    "gravidade": "alta",
+    "motivos": [
+      "Regras inventadas: 'as férias não podem ser marcadas em janeiro e fevereiro sem acordo (art. 241.º n.º 6)' e 'prioridade legal de pais com filhos até 12 anos em idade escolar (art. 241.º n.º 7)'. O art. 241.º CT não contém nenhuma das duas (só dá preferência a cônjuges/unidos de facto que trabalham na mesma empresa gozarem férias em idêntico período).",
+      "Omite a regra decisiva da marcação unilateral: na falta de acordo, o empregador marca as férias entre 1 de maio e 31 de outubro (art. 241.º n.º 3), ouvindo a comissão de trabalhadores, salvo IRCT ou parecer favorável da CT que permita época diferente. Seguindo a ficha, o empregador poderia comunicar férias em março ou novembro, ilicitamente.",
+      "Refere 'direito a pecuniarizar' as férias no art. 245.º: o direito a férias não pode ser substituído por compensação económica, salvo cessação do contrato (art. 237.º n.º 4, a confirmar). Exige ainda o mínimo de 10 dias úteis consecutivos no gozo interpolado (art. 241.º n.º 8), que a ficha não refere."
+    ]
+  }
+]

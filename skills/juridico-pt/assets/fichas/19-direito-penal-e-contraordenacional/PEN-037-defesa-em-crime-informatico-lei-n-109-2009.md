@@ -6,7 +6,7 @@ titulo_en: "Defence in Cybercrime Proceedings (Law No. 109/2009)"
 descricao: "Elabora a contestação ou as alegações de defesa do arguido acusado de crimes informáticos previstos na Lei do Cibercrime (Lei n.º 109/2009, de 15 de setembro): acesso ilegítimo (art. 6.º), interceção ilegítima (art. 7.º), dano relativo a programas ou outros dados informáticos (art. 4.º), sabotagem informática (art. 5.º) e falsidade informática (art. 3.º). Articula com o Código Penal e com o Código de Processo Penal portugueses."
 descricao_en: "Prepares the defence (contestação) or defence submissions of an accused charged with computer offences under the Cybercrime Law (Law No. 109/2009 of 15 September): unlawful access (Article 6), unlawful interception (Article 7), damage to programs or other computer data (Article 4), computer sabotage (Article 5) and computer forgery (Article 3). Links with the Portuguese Criminal Code and Code of Criminal Procedure."
 ambito: nacional
-estado_citacoes: "conferidas 5 · corrigidas 0 · por conferir 3"
+estado_citacoes: "conferidas 4 · corrigidas 0 · por conferir 4"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
@@ -14,7 +14,7 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 
 > **Âmbito:** nacional · **Área:** Direito Penal e Contraordenacional · **Código:** PEN-037
 > **EN:** Defence in Cybercrime Proceedings (Law No. 109/2009). Prepares the defence (contestação) or defence submissions of an accused charged with computer offences under the Cybercrime Law (Law No. 109/2009 of 15 September): unlawful access (Article 6), unlawful interception (Article 7), damage to programs or other computer data (Article 4), computer sabotage (Article 5) and computer forgery (Article 3). Links with the Portuguese Criminal Code and Code of Criminal Procedure.
-> **Citações:** conferidas 5 · corrigidas 0 · por conferir 3. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 4 · corrigidas 0 · por conferir 4. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
 
 Elabora a contestação ou as alegações de defesa do arguido acusado de crimes informáticos previstos na Lei do Cibercrime (Lei n.º 109/2009, de 15 de setembro): acesso ilegítimo (art. 6.º), interceção ilegítima (art. 7.º), dano relativo a programas ou outros dados informáticos (art. 4.º), sabotagem informática (art. 5.º) e falsidade informática (art. 3.º). Articula com o Código Penal e com o Código de Processo Penal portugueses.
 
@@ -75,7 +75,7 @@ Apresenta em <checklist>:
 - [ ] Tipo legal corretamente identificado (Lei 109/2009 vs. CP)
 - [ ] Validade da prova digital escrutinada (arts. 11.º a 19.º Lei 109/2009)
 - [ ] Competência do tribunal verificada
-- [ ] Prazo de contestação respeitado (art. 315.º CPP)
+- [ ] Prazo de contestação respeitado (art. 315.º CPP [■ VERIFICAR: o artigo 315.º CPP está revogado; confirmar a norma em vigor])
 - [ ] Nulidades arguidas no momento próprio
 - [ ] [■ VERIFICAR] itens sinalizados
 
@@ -118,5 +118,5 @@ Apresenta em <checklist>:
 | art. 17.º CP | conferida (epígrafe) — Erro sobre a ilicitude |  |
 | art. 35.º CP | conferida (epígrafe) — Estado de necessidade desculpante |  |
 | arts. 11.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| art. 315.º CPP | conferida (epígrafe) — Contestação e rol de testemunhas |  |
+| art. 315.º CPP | por conferir [■ VERIFICAR] | o artigo 315.º CPP está revogado; confirmar a norma em vigor |
 | art. 6.º | por conferir [■ VERIFICAR] | diploma não identificado |

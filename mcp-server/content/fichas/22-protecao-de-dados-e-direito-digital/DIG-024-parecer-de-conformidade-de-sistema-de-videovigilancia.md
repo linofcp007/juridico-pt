@@ -6,7 +6,8 @@ titulo_en: "Compliance Opinion on a Video Surveillance System"
 descricao: "Gera um Parecer de Conformidade de Sistema de Videovigilância analisando a licitude do tratamento face ao RGPD, à Lei n.º 34/2013 (segurança privada) e às orientações da CNPD, com recomendações concretas para adequação."
 descricao_en: "Generates a compliance opinion on a video surveillance (CCTV) system, analysing the lawfulness of the processing under the GDPR, Law No. 34/2013 (private security) and CNPD guidance, with specific recommendations for bringing it into compliance."
 ambito: nacional
-estado_citacoes: "conferidas 15 · corrigidas 0 · por conferir 4"
+estado_citacoes: "conferidas 19 · corrigidas 0 · por conferir 13"
+revisao_tecnica: "2026-10-30 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
@@ -14,7 +15,8 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 
 > **Âmbito:** nacional · **Área:** Proteção de Dados e Direito Digital · **Código:** DIG-024
 > **EN:** Compliance Opinion on a Video Surveillance System. Generates a compliance opinion on a video surveillance (CCTV) system, analysing the lawfulness of the processing under the GDPR, Law No. 34/2013 (private security) and CNPD guidance, with specific recommendations for bringing it into compliance.
-> **Citações:** conferidas 15 · corrigidas 0 · por conferir 4. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 19 · corrigidas 0 · por conferir 13. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-30 — corrigida (12 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
 Gera um Parecer de Conformidade de Sistema de Videovigilância analisando a licitude do tratamento face ao RGPD, à Lei n.º 34/2013 (segurança privada) e às orientações da CNPD, com recomendações concretas para adequação.
 
@@ -46,12 +48,12 @@ Apresenta dentro de um bloco <analise_sistema>:
 ### ETAPA 2 — ANÁLISE JURÍDICA (Enquadramento Legal)
 Apresenta dentro de um bloco <fundamentos_juridicos>:
 - Base de licitude do tratamento (art. 6.º RGPD): interesses legítimos (art. 6.º, n.º 1, al. f) — teste de proporcionalidade)
-- Proibição de videovigilância em locais especialmente sensíveis (vestiários, casas de banho, refeitórios — art. 20.º, n.º 1 do Código do Trabalho; art. 28.º da Lei 34/2013)
-- Obrigação de afixação de sinalética (art. 13.º RGPD + Deliberação CNPD 7/2014)
-- Prazo máximo de conservação: 30 dias (regra geral — art. 31.º, n.º 2 da Lei 34/2013); exceções com fundamentação
+- Proibição de as câmaras incidirem sobre: vias públicas e propriedades limítrofes (salvo o estritamente necessário para cobrir os acessos ao imóvel), a zona de digitação de códigos de terminais de pagamento, as áreas reservadas a clientes onde deva ser respeitada a privacidade (instalações sanitárias, zonas de espera, provadores) e as áreas reservadas aos trabalhadores (refeitórios, vestiários, ginásios, instalações sanitárias, zonas de descanso) — art. 19.º, n.º 2, da Lei n.º 58/2019; em estabelecimentos de ensino, só perímetros externos, acessos e espaços com bens que requeiram especial proteção (n.º 3); captação de som proibida, salvo com as instalações encerradas ou com autorização prévia da CNPD (n.º 4). O art. 20.º, n.º 1, do Código do Trabalho proíbe, por seu lado, a vigilância a distância para controlar o desempenho profissional
+- Obrigação de afixação de aviso de videovigilância (art. 13.º RGPD; art. 31.º, n.os 5 e 6, da Lei 34/2013 e art. 115.º e anexo VIII da portaria regulamentar [■ VERIFICAR: Portaria n.º 273/2013, de 20 de agosto, na redação em vigor]; no contexto laboral, também art. 20.º, n.º 3, CT)
+- Prazo máximo de conservação: 30 dias a contar da captação, com destruição nas 48 horas seguintes (art. 31.º, n.º 2 da Lei 34/2013); prazo superior só se imposto por legislação setorial ou para processo penal em curso
 - No contexto laboral: art. 20.º do Código do Trabalho (controlo à distância — limitações específicas) + informação prévia aos trabalhadores e comissão de trabalhadores
-- Obrigação de autorização da PSP para sistemas de segurança privada (Lei 34/2013)
-- AIPD obrigatória para videovigilância sistemática de espaços públicos ou de trabalhadores (Diretriz CNPD)
+- Registo obrigatório na Direção Nacional da PSP dos sistemas de videovigilância das entidades titulares de alvará ou de licença de segurança privada (art. 31.º, n.º 1, da Lei 34/2013) — é um registo, não uma autorização do sistema
+- AIPD obrigatória no controlo sistemático de zonas acessíveis ao público em grande escala (art. 35.º, n.º 3, al. c), RGPD) e nos casos da lista da CNPD (Regulamento n.º 1/2018, publicado como Regulamento n.º 798/2018 — p. ex., n.º 5: rastreio de comportamentos de trabalhadores, clientes ou transeuntes com efeito de avaliação ou classificação)
 - Registo das atividades de tratamento (art. 30.º RGPD)
 
 ### ETAPA 3 — CONSTRUÇÃO ARGUMENTATIVA (Avaliação de Conformidade)
@@ -72,9 +74,9 @@ Análise do sistema de videovigilância de [identificação da entidade], compos
 
 **II. ENQUADRAMENTO NORMATIVO**
 - RGPD (Regulamento (UE) 2016/679), em especial arts. 5.º, 6.º, 13.º, 25.º, 30.º e 35.º
-- Lei n.º 58/2019, de 8 de agosto
-- Lei n.º 34/2013, de 16 de maio (segurança privada)
-- Deliberação CNPD n.º 7/2014
+- Lei n.º 58/2019, de 8 de agosto (em especial art. 19.º — videovigilância — e art. 28.º — relações laborais)
+- Lei n.º 34/2013, de 16 de maio (segurança privada), em especial art. 31.º
+- Regulamento da CNPD n.º 1/2018 (Regulamento n.º 798/2018 — lista de tratamentos sujeitos a AIPD)
 - Orientações EDPB n.º 3/2019 sobre tratamento de dados pessoais por videovigilância
 - [Se contexto laboral:] arts. 20.º e 21.º do Código do Trabalho
 
@@ -85,10 +87,10 @@ Análise do sistema de videovigilância de [identificação da entidade], compos
 
 *3.2 Finalidade e base jurídica*
 A finalidade declarada ([finalidade]) pode fundamentar-se em [base jurídica — p. ex. interesses legítimos, art. 6.º, n.º 1, al. f) RGPD], desde que [condições do teste de proporcionalidade].
-[■ VERIFICAR: se a finalidade é controlo de trabalhadores, analisar art. 20.º CT — pode exigir autorização da comissão de trabalhadores]
+[■ VERIFICAR: se a finalidade é controlar o desempenho profissional dos trabalhadores, o art. 20.º, n.º 1, CT proíbe-o; a vigilância só é lícita para proteção e segurança de pessoas e bens ou por exigências particulares da atividade (n.º 2). A comissão de trabalhadores emite parecer, não autoriza (art. 21.º, n.º 4, CT); a autorização prévia da CNPD do art. 21.º, n.º 1, CT é tida pela CNPD como incompatível com o RGPD]
 
 *3.3 Prazo de conservação*
-O prazo de [x dias] [é conforme ao limite de 30 dias / excede o limite legal — fundamentar exceção / [■ VERIFICAR: justificação necessária]].
+O prazo de [x dias] [é conforme ao limite de 30 dias / excede o limite legal — só admissível se imposto por legislação setorial ou para processo penal em curso / [■ VERIFICAR: justificação necessária]].
 
 *3.4 Informação e transparência*
 [Avaliação da sinalética existente e da política interna]
@@ -110,13 +112,13 @@ Apresenta dentro de um bloco <checklist_validacao>:
 - [ ] Nenhuma câmara aponta para zonas proibidas (casas de banho, vestiários, etc.)
 - [ ] Base jurídica identificada e documentada (art. 6.º RGPD)
 - [ ] Teste de proporcionalidade realizado para interesses legítimos
-- [ ] Prazo de conservação dentro de 30 dias ou exceção fundamentada
-- [ ] Sinalética de aviso adequada e visível afixada (art. 13.º RGPD + Deliberação CNPD 7/2014)
+- [ ] Prazo de conservação dentro de 30 dias, com destruição nas 48 horas seguintes (salvo prazo superior imposto por legislação setorial ou processo penal)
+- [ ] Aviso de videovigilância adequado e visível afixado (art. 13.º RGPD; art. 31.º, n.os 5 e 6, da Lei 34/2013)
 - [ ] Controlo de acesso às gravações (quem acede, quando, log de acessos)
 - [ ] Registo das atividades de tratamento atualizado (art. 30.º RGPD)
 - [ ] Se contexto laboral: conformidade com art. 20.º CT e informação prévia
 - [ ] AIPD realizada se necessária (art. 35.º RGPD + lista CNPD)
-- [ ] Autorização PSP obtida se sistema de segurança privada (Lei 34/2013)
+- [ ] Registo na Direção Nacional da PSP, se o sistema for de entidade com alvará ou licença de segurança privada (art. 31.º, n.º 1, da Lei 34/2013)
 - [ ] Política interna de videovigilância elaborada e comunicada
 - [ ] Pontos [■ VERIFICAR] sinalizados para revisão
 
@@ -151,7 +153,7 @@ Apresenta dentro de um bloco <checklist_validacao>:
 
 **HISTÓRICO REGULATÓRIO:**
 - Já foi notificado pela CNPD? [sim/não]
-- Tem autorização PSP (Lei 34/2013)? [sim/não — n.º se tiver]
+- Sistema registado na Direção Nacional da PSP (art. 31.º, n.º 1, da Lei 34/2013)? [sim/não — n.º se tiver]
 - Observações: [qualquer informação relevante]
 
 ## Citações desta ficha
@@ -163,17 +165,30 @@ Apresenta dentro de um bloco <checklist_validacao>:
 | art. 6.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 6.º RGPD | conferida (índice) |  |
 | art. 6.º RGPD | conferida (índice) |  |
-| art. 20.º, n.º 1 do Código do Trabalho | conferida (epígrafe) — Meios de vigilância a distância |  |
-| art. 28.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 19.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 19.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 20.º, n.º 1, do Código do Trabalho | conferida (epígrafe) — Meios de vigilância a distância |  |
 | art. 13.º RGPD | conferida (índice) |  |
 | art. 13.º RGPD | conferida (índice) |  |
 | art. 31.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 31.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 31.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 31.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 31.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 31.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 31.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 115.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 20.º, n.º 3, CT | conferida (epígrafe) — Meios de vigilância a distância |  |
 | art. 20.º do Código do Trabalho | conferida (epígrafe) — Meios de vigilância a distância |  |
+| art. 35.º, n.º 3, al. c), RGPD | conferida (epígrafe) — Avaliação de impacto sobre a proteção de dados |  |
 | art. 30.º RGPD | conferida (epígrafe) — Registos das atividades de tratamento |  |
 | art. 30.º RGPD | conferida (epígrafe) — Registos das atividades de tratamento |  |
-| art. 20.º CT | conferida (epígrafe) — Meios de vigilância a distância |  |
 | art. 20.º CT | conferida (epígrafe) — Meios de vigilância a distância |  |
 | art. 20.º CT | conferida (epígrafe) — Meios de vigilância a distância |  |
 | arts. 5.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 28.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | arts. 20.º e 21.º do Código do Trabalho | conferida (epígrafe) — Meios de vigilância a distância |  |
 | art. 6.º, n.º 1, al. f) RGPD | conferida (índice) |  |
+| art. 20.º, n.º 1, CT | conferida (epígrafe) — Meios de vigilância a distância |  |
+| art. 21.º, n.º 4, CT | conferida (epígrafe) — Utilização de meios de vigilância a distância |  |
+| art. 21.º, n.º 1, CT | conferida (epígrafe) — Utilização de meios de vigilância a distância |  |

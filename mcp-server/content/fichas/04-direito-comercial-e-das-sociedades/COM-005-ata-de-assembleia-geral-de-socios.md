@@ -3,10 +3,10 @@ codigo: COM-005
 area: "Direito Comercial e das Sociedades"
 titulo: "Ata de Assembleia Geral de Sócios"
 titulo_en: "Minutes of a General Meeting of Members"
-descricao: "Gera a ata completa de uma assembleia geral de sócios (Lda.) ou accionistas (S.A.), com abertura, presenças, ordem de trabalhos, deliberações, fundamentos e encerramento, em conformidade com os artigos 246, 248 e 383 do CSC e demais normas aplicáveis."
+descricao: "Gera a ata completa de uma assembleia geral de sócios (Lda.) ou acionistas (S.A.), com abertura, presenças, ordem de trabalhos, deliberações, fundamentos e encerramento, em conformidade com os artigos 246, 248 e 383 do CSC e demais normas aplicáveis."
 descricao_en: "Generates complete minutes of a general meeting of quotaholders (Lda.) or shareholders (S.A.), with opening, attendance, agenda, resolutions, grounds and closing, in accordance with Articles 246, 248 and 383 CSC and other applicable provisions."
 ambito: nacional
-estado_citacoes: "conferidas 1 · corrigidas 0 · por conferir 0"
+estado_citacoes: "conferidas 6 · corrigidas 0 · por conferir 5"
 remete_para: "assets/templates/ata-aprovacao-contas"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
@@ -16,9 +16,9 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 > **Âmbito:** nacional · **Área:** Direito Comercial e das Sociedades · **Código:** COM-005
 > **EN:** Minutes of a General Meeting of Members. Generates complete minutes of a general meeting of quotaholders (Lda.) or shareholders (S.A.), with opening, attendance, agenda, resolutions, grounds and closing, in accordance with Articles 246, 248 and 383 CSC and other applicable provisions.
 > **Ver também:** `assets/templates/ata-aprovacao-contas` — conteúdo do plugin sobre o mesmo tema. Usa-o primeiro.
-> **Citações:** conferidas 1 · corrigidas 0 · por conferir 0. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 6 · corrigidas 0 · por conferir 5. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
 
-Gera a ata completa de uma assembleia geral de sócios (Lda.) ou accionistas (S.A.), com abertura, presenças, ordem de trabalhos, deliberações, fundamentos e encerramento, em conformidade com os artigos 246, 248 e 383 do CSC e demais normas aplicáveis.
+Gera a ata completa de uma assembleia geral de sócios (Lda.) ou acionistas (S.A.), com abertura, presenças, ordem de trabalhos, deliberações, fundamentos e encerramento, em conformidade com os artigos 246, 248 e 383 do CSC e demais normas aplicáveis.
 
 ## Método
 
@@ -38,7 +38,7 @@ Ficha de trabalho para preparar este documento. As regras da casa prevalecem sob
 ### ETAPA 1 — PROBLEMATIZAÇÃO
 Analise em <analise_do_caso>:
 - Tipo de assembleia: ordinária (anual) ou extraordinária
-- Quórum: verificar se os sócios/accionistas representam capital suficiente para deliberar validamente
+- Quórum: verificar se os sócios/acionistas representam capital suficiente para deliberar validamente
 - Ordem de trabalhos: quais os pontos e qual a maioria exigida para cada um
 - Deliberações que requerem registo comercial obrigatório (art. 3 CRCom)
 - Existência de impedimentos de voto (conflito de interesses — art. 251 CSC para Lda.)
@@ -73,13 +73,13 @@ Redija o documento completo:
 **Local:** [morada completa] / [videoconferência — plataforma — se aplicável]
 
 **ABERTURA**
-Nos termos da convocatória enviada em [data] [por carta registada / por email com aviso de receção / por acordo unânime de dispensa de convocatória, nos termos do art. 248.º, n.º 1 CSC], reuniu a assembleia geral [ordinária/extraordinária] de [sócios/accionistas] da sociedade [Firma], [Lda./S.A.], NIPC [número], com sede em [morada].
+Nos termos da convocatória enviada em [data] [por carta registada / por email com aviso de receção / por acordo unânime de dispensa de convocatória, nos termos do art. 248.º, n.º 1 CSC], reuniu a assembleia geral [ordinária/extraordinária] de [sócios/acionistas] da sociedade [Firma], [Lda./S.A.], NIPC [número], com sede em [morada].
 
 **MESA DA ASSEMBLEIA**
 Assumiu a presidência da mesa [nome], [cargo], e as funções de secretário foram exercidas por [nome].
 
 **PRESENÇAS**
-Compareceram os seguintes [sócios/accionistas], representando [X]% do capital social:
+Compareceram os seguintes [sócios/acionistas], representando [X]% do capital social:
 - [Nome A], titular de quota/ações no valor de €[X] / [N] ações, representando [Y]% do capital
 - [Nome B], titular de quota/ações no valor de €[X] / [N] ações, representando [Y]% do capital
 [■ VERIFICAR: procurações — se algum sócio representado por mandatário, identificar]
@@ -140,8 +140,8 @@ Apresente em <checklist_validacao>:
 - Convocatória: [data de envio / dispensa unânime]
 
 **PRESENÇAS:**
-- Sócio/Accionista A: [nome, quota/ações, %]
-- Sócio/Accionista B: [nome, quota/ações, %]
+- Sócio/Acionista A: [nome, quota/ações, %]
+- Sócio/Acionista B: [nome, quota/ações, %]
 - Ausentes: [nomes, se aplicável]
 
 **ORDEM DE TRABALHOS:**
@@ -158,4 +158,14 @@ Apresente em <checklist_validacao>:
 
 | Citação | Estado | Nota |
 |---|---|---|
+| art. 251 CSC | conferida (epígrafe) — Impedimento de voto |  |
+| Art. 246 CSC | conferida (epígrafe) — Competência dos sócios |  |
+| Art. 248 CSC | por conferir [■ VERIFICAR] | o assunto descrito não coincide com a epígrafe; confirmar |
+| Art. 250 CSC | por conferir [■ VERIFICAR] | o assunto descrito não coincide com a epígrafe; confirmar |
+| Art. 251 CSC | conferida (epígrafe) — Impedimento de voto |  |
+| Art. 265 CSC | por conferir [■ VERIFICAR] | o assunto descrito não coincide com a epígrafe; confirmar |
+| Art. 374 CSC | por conferir [■ VERIFICAR] | o assunto descrito não coincide com a epígrafe; confirmar |
+| Art. 383 CSC | conferida (epígrafe) — Quórum |  |
 | art. 248.º, n.º 1 CSC | conferida (epígrafe) — Assembleias gerais |  |
+| art. 248 CSC | por conferir [■ VERIFICAR] | o assunto descrito não coincide com a epígrafe; confirmar |
+| art. 377 CSC | conferida (epígrafe) — Convocação e forma de realização da assembleia |  |

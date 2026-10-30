@@ -1,0 +1,195 @@
+[
+  {
+    "codigo": "INS-034",
+    "triagem": "ok"
+  },
+  {
+    "codigo": "INS-035",
+    "triagem": "rever",
+    "gravidade": "media",
+    "motivos": [
+      "Apresenta os arts. 249.º a 263.º CIRE como «regime simplificado» e o REQUER pede a «tramitação pelo processo simplificado»: este bloco regula o plano de pagamentos da pessoa singular não titular de empresa (a própria ficha remete o art. 252.º para o plano de pagamentos), não uma tramitação simplificada da insolvência; a petição pode pedir um procedimento que não existe nesses termos.",
+      "«Isenção de custas (apoio judiciário)»: o apoio judiciário não é isenção de custas; a confusão induz o cliente em erro sobre o custo do processo.",
+      "Menciona um «regime especial de apreensão» da casa de morada de família sem base identificada no CIRE (a ficha só marca [VERIFICAR]): não deve ser tratado como regra."
+    ]
+  },
+  {
+    "codigo": "INS-036",
+    "triagem": "ok"
+  },
+  {
+    "codigo": "INS-037",
+    "triagem": "rever",
+    "gravidade": "media",
+    "motivos": [
+      "Pressupostos da reversão indicados como «dolo ou culpa grave»: o art. 24.º, n.º 1, LGT exige culpa na insuficiência do património (al. a)) ou presume a culpa (al. b)); a graduação «dolo ou culpa grave» não consta da lei e contradiz a inversão do ónus da prova que a própria ficha refere.",
+      "Formalidade da reversão descrita como «notificação prévia do devedor principal»: a lei exige a audição prévia do revertido (art. 60.º LGT) e a fundamentada declaração de insuficiência de bens do devedor originário (art. 23.º, n.º 4, LGT); a ficha confunde o destinatário.",
+      "O art. 24.º LGT visa administradores e gerentes de pessoas coletivas; a sujeição do administrador de insolvência a reversão (e se a responsabilidade é subsidiária ou solidária, como gestor de bens alheios) tem de ser confirmada antes de servir de base à defesa.",
+      "A oposição à execução fiscal é dirigida a «Tribunal Administrativo e Fiscal de [COMARCA]», mas a petição apresenta-se no órgão de execução fiscal (art. 207.º CPPT)."
+    ]
+  },
+  {
+    "codigo": "INS-038",
+    "triagem": "rever",
+    "gravidade": "baixa",
+    "motivos": [
+      "Indica a negociação particular «com autorização do juiz»: no art. 164.º CIRE a escolha da modalidade cabe ao administrador da insolvência, com audição do credor garantido e sujeita ao que os credores deliberarem (atos de especial relevo, art. 161.º); a autorização judicial como regra não parece prevista (a confirmar).",
+      "Afirma o direito de preferência do arrendatário por remissão para o art. 1091.º CC nas vendas da insolvência: a ficha já assinala dúvida na norma; a aplicação das preferências à venda no processo de insolvência segue o regime do CIRE e da venda executiva, a confirmar antes de ser invocada."
+    ]
+  },
+  {
+    "codigo": "INS-039",
+    "triagem": "ok"
+  },
+  {
+    "codigo": "INS-040",
+    "triagem": "rever",
+    "gravidade": "alta",
+    "motivos": [
+      "Prazo de negociações dado como «3 meses, prorrogável por 1 mês (art. 17.º-D, n.º 1)»: desde a Lei n.º 9/2022 são 2 meses após o termo do prazo de impugnação da lista provisória, prorrogáveis uma só vez por 1 mês (art. 17.º-D, n.º 7); a suspensão das execuções tem o limite de 4 meses, prorrogável por 1 (art. 17.º-E).",
+      "Maioria de aprovação errada («²/³ dos créditos com direito de voto + mais de ½ dos credores não subordinados»): o art. 17.º-F, n.º 5, exige quórum de 1/3 dos créditos com direito de voto, mais de 2/3 dos votos emitidos e mais de metade dos votos emitidos correspondentes a créditos não subordinados (contados por valor, não por número de credores), com as alternativas por categorias e da al. c).",
+      "Início do PER descrito como declaração «devedor + credor(es)»: desde o DL 79/2017 e a Lei 9/2022 a declaração tem de ser subscrita por credores não especialmente relacionados que representem pelo menos 10 % dos créditos não subordinados (art. 17.º-C, n.º 1), com declaração de contabilista certificado ou ROC (art. 17.º-A, n.º 2) e proposta de plano (art. 17.º-C, n.º 3).",
+      "A oposição à homologação é tratada como peça posterior à votação: o pedido de não homologação corre no prazo de votação de 10 dias (art. 17.º-F, n.º 3), podendo perder-se o prazo."
+    ]
+  },
+  {
+    "codigo": "INS-041",
+    "triagem": "rever",
+    "gravidade": "media",
+    "motivos": [
+      "Prazo de negociações do PEAP dado como 3 meses (art. 222.º-D, n.º 1): o art. 222.º-D prevê 2 meses, prorrogáveis uma só vez por 1 mês.",
+      "Maioria do acordo reduzida a «²/³ dos créditos com voto» (art. 222.º-F): incompleta, pois segue a lógica do art. 17.º-F, n.º 5 (quórum de 1/3, mais de 2/3 dos votos emitidos e mais de metade dos votos emitidos de créditos não subordinados); a confirmar.",
+      "Afirma que o insucesso do PEAP não determina a declaração de insolvência («diferença face ao PER»): afirmação sem base identificada; o art. 222.º-G tem estrutura análoga à do art. 17.º-G, que prevê a declaração de insolvência do devedor insolvente quando o processo termina sem acordo (a confirmar)."
+    ]
+  },
+  {
+    "codigo": "INS-042",
+    "triagem": "rever",
+    "gravidade": "media",
+    "motivos": [
+      "Legitimidade ativa: coloca os credores (art. 78.º CSC) como autores a par do administrador de insolvência, mas durante a pendência da insolvência cabe exclusivamente ao administrador da insolvência exercer o direito de indemnização dos credores por diminuição do património (art. 82.º, n.º 3, CIRE); a ficha cita esta norma e omite a exclusividade, pelo que a ação de credores individuais seria inadmissível nessa fase.",
+      "A indemnização do art. 189.º, n.º 2, al. e), CIRE é efeito da sentença de qualificação da insolvência como culposa (até ao montante dos créditos não satisfeitos), não um «pedido» deduzido pelo credor no incidente nem cumulável livremente com ação autónoma pelo mesmo dano.",
+      "Prescrição de 5 anos «a contar do conhecimento do dano» (art. 174.º CSC): confirmar o termo inicial e o regime aplicável à ação do art. 78.º CSC.",
+      "«Cumulação com ação de insolvência pessoal do administrador» não corresponde a regime identificável."
+    ]
+  },
+  {
+    "codigo": "INS-043",
+    "triagem": "rever",
+    "gravidade": "alta",
+    "motivos": [
+      "Maiorias de aprovação erradas («²/³ dos créditos com voto + mais de ½ dos credores não subordinados» e, na peça, «mais de ½ dos credores não subordinados»): o art. 17.º-F, n.º 5, exige quórum de 1/3 dos créditos com direito de voto, mais de 2/3 dos votos emitidos e mais de metade dos votos emitidos correspondentes a créditos não subordinados; conta-se por valor dos votos, não por número de credores.",
+      "A oposição do credor dissidente é tratada como peça posterior à votação: o pedido de não homologação tem de ser feito no prazo de votação de 10 dias (art. 17.º-F, n.º 3); o tribunal decide depois do parecer do AJP (n.os 6 e 7). Risco de perda do prazo.",
+      "«Cramdown» por «classe» e causas de recusa descritos de forma imprecisa: o regime atual (Lei 9/2022) assenta na votação por categorias de credores e nas alternativas das als. a) e c) do n.º 5, e a recusa de homologação segue o n.º 7 (arts. 215.º e 216.º por remissão); a descrição da ficha não corresponde ao texto."
+    ]
+  },
+  {
+    "codigo": "INS-044",
+    "triagem": "ok"
+  },
+  {
+    "codigo": "INS-045",
+    "triagem": "rever",
+    "gravidade": "media",
+    "motivos": [
+      "Impossibilidade de restituição por alienação do bem: converte o direito em «crédito sobre a insolvência (art. 141.º, n.º 4)», mas o n.º 4 do art. 141.º trata da prova da identidade das coisas móveis reclamadas; o bem de terceiro vendido pelo administrador dá, em regra, direito ao produto da venda ou a dívida da massa (art. 51.º CIRE), pelo que o pedido subsidiário da peça é provavelmente incorreto.",
+      "Reserva de propriedade tratada pelo art. 409.º CC («registo ou cláusula contratual»): na insolvência do comprador só é oponível à massa se estipulada por escrito até à entrega da coisa (art. 104.º, n.º 4, CIRE), com regime próprio de opção do administrador (arts. 102.º e 104.º); a ficha ignora o art. 104.º.",
+      "A distinção entre «restituição» (art. 141.º) e «separação» (art. 142.º) é artificial: ambas se regem pelo art. 141.º (a ficha já marca [VERIFICAR] mas o texto da peça mantém a distinção)."
+    ]
+  },
+  {
+    "codigo": "INS-046",
+    "triagem": "rever",
+    "gravidade": "media",
+    "motivos": [
+      "Classifica os créditos laborais como «privilégios gerais» e diz, em bloco, que o art. 333.º CT «prevalece sobre a hipoteca»: o art. 333.º CT dá privilégio mobiliário geral e privilégio imobiliário especial (sobre o imóvel onde o trabalhador presta atividade); só este, por ser especial, prevalece sobre a hipoteca e coloca o crédito na classe dos garantidos (art. 47.º, n.º 4, al. a)) quanto a esse imóvel. A classificação a pedir na reclamação fica errada.",
+      "Apresenta os privilégios dos créditos tributários e da Segurança Social sem referir que a declaração de insolvência extingue os constituídos mais de 12 meses antes do início do processo (art. 97.º CIRE), ponto essencial para a estratégia de graduação."
+    ]
+  },
+  {
+    "codigo": "INS-047",
+    "triagem": "rever",
+    "gravidade": "media",
+    "motivos": [
+      "Manda articular com o PARI/PERSI (DL 227/2012) a reestruturação de dívida de um devedor pessoa coletiva (firma/NIPC): o PARI/PERSI só protege clientes bancários consumidores (pessoas singulares fora da sua atividade); não se aplica ao crédito de uma empresa nem impede ações contra ela.",
+      "Cita o «Aviso BdP n.º 17/2012» como fonte do PARI/PERSI: a base é o DL 227/2012 (aviso a confirmar).",
+      "Alternativas «PER, PEAP, insolvência»: o PEAP é só para devedores que não são empresas e o PER pressupõe que não haja insolvência atual. Omite o RERE (Lei 8/2018), regime extrajudicial próprio, e o aviso de que o acordo não suspende o dever de apresentação à insolvência em 30 dias se a empresa já estiver insolvente (art. 18.º CIRE)."
+    ]
+  },
+  {
+    "codigo": "INS-048",
+    "triagem": "rever",
+    "gravidade": "media",
+    "motivos": [
+      "A peça de reclamação afirma «privilégio geral e especial mobiliário e imobiliário (art. 333.º CT)»: o CT concede privilégio mobiliário geral e privilégio imobiliário especial (sobre o imóvel onde o trabalhador presta atividade); não existe privilégio especial mobiliário nem imobiliário geral. Contradiz a Etapa 2, cujo [VERIFICAR] fica por resolver no modelo.",
+      "Atribui ao art. 333.º CT os limites de «6 meses» (retribuições) e «2 anos» (outros créditos): o privilégio abrange os créditos emergentes do contrato e da sua violação ou cessação; o limite de 6 meses é do Fundo de Garantia Salarial (DL 59/2015), que tem ainda teto mensal e prazo de requerimento que a ficha não refere.",
+      "A tabela inclui a compensação pela cessação como crédito a reclamar na insolvência sem distinguir o caso de cessação por decisão do administrador após a declaração (art. 347.º CT), em que tende a ser dívida da massa (art. 51.º CIRE); a confirmar."
+    ]
+  },
+  {
+    "codigo": "INS-049",
+    "triagem": "rever",
+    "gravidade": "alta",
+    "motivos": [
+      "Apresenta a verificação ulterior como mero requerimento «possível até ao encerramento do processo»: o art. 146.º, n.º 1, CIRE exige uma ação proposta contra a massa insolvente, os credores e o devedor, e o art. 146.º, n.º 2, só a admite nos 6 meses seguintes ao trânsito em julgado da sentença de declaração de insolvência (ou 3 meses após a constituição do crédito); não está disponível a quem foi avisado nos termos do art. 129.º, salvo créditos de constituição posterior. A ficha ignora o prazo de caducidade.",
+      "Afirma que o crédito reclamado tardiamente é «subordinado (art. 48.º, n.º 1, al. e), CIRE) salvo dispensa» e prevê um «pedido de dispensa de subordinação» (art. 146.º, n.º 2): regra inexistente; o art. 48.º não subordina créditos reclamados fora de prazo e o n.º 2 do art. 146.º fixa os prazos. Toda a Etapa 4 (peça) assenta nesta regra inventada.",
+      "Estrutura a peça como requerimento no processo principal, quando o regime legal é o de uma ação autónoma (processo comum) com citação dos credores por edital."
+    ]
+  },
+  {
+    "codigo": "INS-050",
+    "triagem": "rever",
+    "gravidade": "baixa",
+    "motivos": [
+      "Indica como «alternativas ainda disponíveis» o PER e o PEAP para uma sociedade que se apresenta à insolvência: o PEAP é exclusivo de devedores que não são empresas e o PER exclui a insolvência atual (art. 17.º-A), que é o pressuposto desta petição.",
+      "Documentos do art. 24.º: pede a «identificação dos cinco maiores credores»; a confirmar o número exigido nesse artigo (os cinco maiores credores são os citados pessoalmente nos termos do art. 37.º, n.º 3, e o art. 24.º parece exigir a relação dos 20 maiores)."
+    ]
+  },
+  {
+    "codigo": "INS-051",
+    "triagem": "rever",
+    "gravidade": "alta",
+    "motivos": [
+      "A lista dos factos-índice do art. 20.º, n.º 1, CIRE não corresponde à lei: a al. b) é o incumprimento que, pelo montante ou circunstâncias, revela a impossibilidade de satisfazer pontualmente a generalidade das obrigações (não «execuções sem bens penhoráveis»); a fuga e o abandono do local são a mesma al. c); a dissipação, liquidação ruinosa e constituição fictícia de créditos são a al. d); a insuficiência de bens penhoráveis em execução é a al. e); a al. f) é o incumprimento de plano de insolvência ou de pagamentos; a al. g) é o incumprimento generalizado nos últimos 6 meses de dívidas tributárias, à Segurança Social, laborais ou de rendas e prestações; a al. h) é a manifesta superioridade do passivo ou o atraso superior a 9 meses nas contas.",
+      "Inventa uma «al. g)» de incumprimento de obrigação pecuniária ao abrigo de título executivo por pelo menos 6 meses e uma al. h) de «incumprimento tributário ou contributivo» isolado: seguir a ficha leva a alegar na petição fundamentos inexistentes ou com a alínea errada."
+    ]
+  },
+  {
+    "codigo": "INS-053",
+    "triagem": "rever",
+    "gravidade": "alta",
+    "motivos": [
+      "Trata a impugnação como «oposição» deduzida em incidente no processo, no prazo de 30 dias da notificação: a impugnação da resolução em benefício da massa é uma ação contra a massa insolvente, que caduca em 3 meses (art. 125.º CIRE). Prazo e forma da peça estão errados (a ficha marca [VERIFICAR], mas o texto da peça e a checklist mantêm os 30 dias).",
+      "Atribui ao terceiro de boa-fé direito à restituição «com juros» (art. 126.º, n.º 3): a confirmar; a restituição pela massa depende de a prestação existir na massa ou do enriquecimento, ficando o resto como crédito sobre a insolvência."
+    ]
+  },
+  {
+    "codigo": "INS-054",
+    "triagem": "ok"
+  },
+  {
+    "codigo": "INS-055",
+    "triagem": "rever",
+    "gravidade": "media",
+    "motivos": [
+      "Atribui à Lei n.º 9/2022 um «quadro de reestruturação preventiva» extrajudicial ou com supervisão judicial limitada: essa lei alterou o CIRE (PER, exoneração do passivo restante); o regime extrajudicial de recuperação de empresas é o RERE (Lei n.º 8/2018), que a ficha não menciona.",
+      "Manda articular com o PARI/PERSI «para garantir suspensão de execuções» durante o standstill de uma empresa: o PARI/PERSI (DL 227/2012) aplica-se só a clientes bancários consumidores, não ao financiamento de uma sociedade.",
+      "Omite o aviso de que o standstill não afasta o dever de apresentação à insolvência em 30 dias se a empresa já estiver em insolvência atual (art. 18.º CIRE), erro já corrigido na ficha gémea INS-022."
+    ]
+  },
+  {
+    "codigo": "INS-056",
+    "triagem": "rever",
+    "gravidade": "media",
+    "motivos": [
+      "Maioria de aprovação do PER dada como «²/³ dos créditos + >½ não subordinados»: errada; o art. 17.º-F, n.º 5, exige quórum de 1/3 dos créditos com direito de voto, mais de 2/3 dos votos emitidos e mais de metade dos votos emitidos correspondentes a créditos não subordinados.",
+      "Plano de insolvência com maioria de «²/³ dos créditos por classe»: a aprovação (art. 212.º CIRE) é global, com quórum de 1/3 dos créditos com direito de voto, mais de 2/3 dos votos emitidos e mais de metade dos votos emitidos de créditos não subordinados; não há votação por classes.",
+      "Afirma que o insucesso do PEAP não determina insolvência (diferença face ao PER): sem base identificada; o art. 222.º-G é análogo ao art. 17.º-G (a confirmar).",
+      "A alternativa «negociação extrajudicial» omite o RERE (Lei n.º 8/2018) e a tabela admite o PER em situação de insolvência atual, que o art. 17.º-A exclui."
+    ]
+  },
+  {
+    "codigo": "INS-057",
+    "triagem": "ok"
+  }
+]

@@ -1,0 +1,193 @@
+[
+  {
+    "codigo": "SUC-046",
+    "veredicto": "corrigida",
+    "resumo": "A ficha repartia a sonegação pelos arts. 2096.º a 2099.º CC, quando o instituto está só no art. 2096.º CC (os arts. 2097.º a 2099.º tratam da responsabilidade da herança indivisa, do pagamento dos encargos e da remição de direitos de terceiro); atribuía ao cabeça-de-casal sonegador uma «sanção agravada» com indemnização e dava legitimidade aos credores. Corrigi o enquadramento: perda em benefício dos co-herdeiros e qualidade de mero detentor (art. 2096.º CC), remoção do cabeça-de-casal (art. 2086.º, n.º 1, al. a), CC) e tramitação no inventário (arts. 1104.º, n.º 1, al. d), e 1105.º, n.º 4, CPC). A descrição do índice deixava de anunciar uma «multa» que a lei não prevê.",
+    "descricao": "Redige o requerimento de arguição da sonegação de bens da herança e analisa as suas consequências legais (perda, em benefício dos co-herdeiros, do direito aos bens sonegados e, sendo o sonegante cabeça-de-casal, a sua remoção do cargo), ao abrigo do artigo 2096.º do Código Civil e do regime do processo de inventário (Código de Processo Civil e inventário notarial, Lei n.º 117/2019).",
+    "descricao_en": "Drafts the application raising the concealment of estate assets (sonegação) and analyses its legal consequences (loss, in favour of the co-heirs, of the right to the concealed assets and, where the concealing party is the estate administrator, removal from office), under Article 2096 of the Civil Code and the inventory proceedings regime (Code of Civil Procedure and notarial inventory, Law No. 117/2019).",
+    "substituicoes": [
+      {
+        "de": "consequências específicas (arts. 2096.º a 2099.º CC)",
+        "para": "consequências específicas (art. 2096.º CC e, sendo o sonegante cabeça-de-casal, art. 2086.º, n.º 1, al. a), CC)",
+        "motivo": "A sonegação está só no art. 2096.º CC; os arts. 2097.º a 2099.º CC regulam outras matérias.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2096&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Art. 2096.º CC: obrigação de relacionar todos os bens — sanção de perda do direito ao bem sonegado\n- Art. 2097.º CC: legitimidade para arguir a sonegação (qualquer co-herdeiro ou credor)\n- Art. 2098.º CC: o sonegante perde o quinhão no bem sonegado (que acresce aos outros herdeiros)\n- Art. 2099.º CC: sonegação por cabeça-de-casal — além da perda do quinhão, responde pelos danos\n- Lei n.º 117/2019: impugnação da relação de bens no processo de inventário notarial",
+        "para": "- Art. 2096.º, n.º 1, CC: o herdeiro que sonegar bens da herança, ocultando dolosamente a sua existência, seja ou não cabeça-de-casal, perde em benefício dos co-herdeiros o direito que possa ter a qualquer parte dos bens sonegados, além das demais sanções aplicáveis\n- Art. 2096.º, n.º 2, CC: o sonegador é considerado mero detentor dos bens sonegados\n- Art. 2086.º, n.º 1, al. a), e n.º 2, CC: o cabeça-de-casal que dolosamente ocultou bens da herança pode ser removido do cargo, a pedido de qualquer interessado, sem prejuízo das demais sanções\n- Art. 1104.º, n.º 1, al. d), CPC: os interessados diretos na partilha podem reclamar contra a relação de bens no prazo de 30 dias a contar da citação; os credores da herança só intervêm nas questões relativas aos seus direitos (art. 1085.º, n.º 2, al. b), CPC)\n- Art. 1105.º, n.º 4, CPC: a alegação de sonegação é apreciada conjuntamente com a acusação da falta de bens relacionados e, provada, aplica-se a sanção do art. 2096.º CC\n- Lei n.º 117/2019: o Regime do Inventário Notarial remete para a tramitação do CPC [■ VERIFICAR: art. 2.º, n.º 1, do Regime do Inventário Notarial]",
+        "motivo": "Os arts. 2097.º a 2099.º CC não tratam da sonegação; a sanção do cabeça-de-casal é a remoção (art. 2086.º CC) e a sonegação é apreciada no inventário (art. 1105.º, n.º 4, CPC).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A1104&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "ao abrigo dos artigos 2096.º e seguintes do Código Civil",
+        "para": "ao abrigo do artigo 2096.º do Código Civil e do n.º 4 do artigo 1105.º do Código de Processo Civil",
+        "motivo": "Só o art. 2096.º CC rege a sonegação; o art. 1105.º, n.º 4, CPC é a sede processual.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A1104&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "perda do quinhão do sonegante no bem; indemnização se cabeça-de-casal.",
+        "para": "perda, em benefício dos co-herdeiros, do direito do sonegante a qualquer parte do bem sonegado (art. 2096.º, n.º 1, CC); sendo o sonegante cabeça-de-casal, a sua remoção do cargo (art. 2086.º, n.º 1, al. a), CC).",
+        "motivo": "A lei prevê a remoção do cabeça-de-casal, não uma indemnização própria da sonegação.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2086&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- [ ] Legitimidade do requerente (co-herdeiro ou credor da herança)",
+        "para": "- [ ] Legitimidade do requerente (interessado direto na partilha — art. 1104.º, n.º 1, CPC; a perda opera em benefício dos co-herdeiros)",
+        "motivo": "Os credores da herança não têm legitimidade para arguir a sonegação, que aproveita aos co-herdeiros.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A1085&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- [ ] Verificar se sonegante é cabeça-de-casal (sanção agravada — art. 2099.º CC)",
+        "para": "- [ ] Verificar se o sonegante é cabeça-de-casal (pedido de remoção do cargo — art. 2086.º, n.º 1, al. a), CC)",
+        "motivo": "O art. 2099.º CC trata da remição de direitos de terceiro; a consequência própria é a remoção.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2086&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "Qualidade: [co-herdeiro / credor]",
+        "para": "Qualidade: [co-herdeiro / outro interessado direto na partilha]",
+        "motivo": "O credor da herança não tem legitimidade para arguir a sonegação.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A1085&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Confirmar a remissão do Regime do Inventário Notarial (Lei n.º 117/2019, anexo) para a tramitação do CPC e quando o notário deve remeter a questão da sonegação para os meios comuns (arts. 1092.º e 1093.º CPC).",
+      "Prova do dolo: a sanção do art. 2096.º CC exige ocultação dolosa; a mera omissão na relação de bens resolve-se pela acusação da falta de bens.",
+      "Avaliar outras sanções aplicáveis ao sonegador (responsabilidade civil, eventual relevância penal), que o art. 2096.º, n.º 1, CC ressalva."
+    ],
+    "fontes": [
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2096&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2086&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A1104&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A1085&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://informador.pt/legislacao/diploma/lei-n-o-117-2019/"
+    ]
+  },
+  {
+    "codigo": "SUC-047",
+    "veredicto": "corrigida",
+    "resumo": "A ficha fixava o prazo da participação em «90 dias após o óbito», quando o art. 26.º, n.º 3, CIS manda apresentá-la até ao final do 3.º mês seguinte; indicava a coima de €375 a €3.750 (o RGIT prevê €150 a €3.750); tributava o recheio da habitação a 10 % do VPT, quando os bens de uso pessoal ou doméstico não estão sujeitos (art. 1.º, n.º 5, al. f), CIS); e dava a isenção do unido de facto como nova «a partir de 2024», quando consta do art. 6.º, n.º 1, al. e), CIS desde a Lei n.º 64-A/2008. Corrigi também as regras de valor das participações sociais e dos veículos (arts. 14.º e 15.º CIS), a dedução do passivo (art. 20.º CIS), quem participa (art. 26.º, n.ºs 1 e 4, CIS) e o pagamento (art. 45.º CIS).",
+    "substituicoes": [
+      {
+        "de": "— A isenção para cônjuge, descendentes e ascendentes é uma isenção SUBJETIVA (art. 6.º, al. e) CIS)",
+        "para": "— A isenção para cônjuge ou unido de facto, descendentes e ascendentes é uma isenção SUBJETIVA (art. 6.º, n.º 1, al. e), CIS)",
+        "motivo": "A isenção abrange o unido de facto; desde a Lei n.º 12/2022 a alínea está no n.º 1 do art. 6.º CIS.",
+        "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/selo/Pages/selo6.aspx"
+      },
+      {
+        "de": "- Cônjuge sobrevivo: ISENTO (art. 6.º, al. e) CIS)\n- Descendentes (filhos, netos, bisnetos): ISENTOS (art. 6.º, al. e) CIS)\n- Ascendentes (pais, avós): ISENTOS (art. 6.º, al. e) CIS)\n- Irmãos, sobrinhos, tios, não familiares: SUJEITOS a IS à taxa de 10%\n- Unidades de facto (após 2 anos de vida em comum): ISENTOS a partir de 2024 — verificar legislação",
+        "para": "- Cônjuge sobrevivo: ISENTO (art. 6.º, n.º 1, al. e), CIS)\n- Descendentes (filhos, netos, bisnetos): ISENTOS (art. 6.º, n.º 1, al. e), CIS)\n- Ascendentes (pais, avós): ISENTOS (art. 6.º, n.º 1, al. e), CIS)\n- Irmãos, sobrinhos, tios, não familiares: SUJEITOS a IS à taxa de 10%\n- Unido de facto (união de facto há mais de dois anos — art. 1.º, n.º 2, da Lei n.º 7/2001): ISENTO (art. 6.º, n.º 1, al. e), CIS, na redação da Lei n.º 64-A/2008)",
+        "motivo": "O unido de facto está isento desde a redação da Lei n.º 64-A/2008, não «a partir de 2024»; a união de facto exige mais de dois anos (Lei n.º 7/2001).",
+        "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/selo/Pages/selo6.aspx"
+      },
+      {
+        "de": "- Participações sociais: valor real ou valor nominal (conforme avaliação)\n- Recheio da habitação: 10% do VPT do imóvel habitacional (regra de avaliação simplificada)\n- Veículos: valor do livrete ou de mercado\n- Passivo: as dívidas do de cuius são dedutíveis da base tributável\n- Resultado: base tributável de cada herdeiro sujeito a IS = quinhão líquido de dívidas × 10%",
+        "para": "- Participações sociais: quotas pelo último balanço (art. 15.º, n.º 1, CIS); ações pela cotação na data da transmissão ou, sem cotação oficial, pelo valor nominal (até €500 por sociedade participada) ou pela fórmula do art. 15.º, n.º 3, al. a), CIS\n- Recheio da habitação: os bens de uso pessoal ou doméstico não estão sujeitos a IS pela verba 1.2 (art. 1.º, n.º 5, al. f), CIS)\n- Veículos: o maior entre o valor de mercado e o determinado nos termos do n.º 7 do art. 24.º do CIRS (art. 14.º, n.º 2, CIS)\n- Passivo: deduzem-se os encargos e dívidas existentes à data da abertura da sucessão, constituídos mediante atos ou contratos que onerem os bens relacionados, e os impostos cujo facto tributário tenha ocorrido até essa data (art. 20.º CIS) [■ VERIFICAR: dedutibilidade de cada dívida e prova exigida pelo art. 26.º, n.º 6, al. m), CIS]\n- Resultado: base tributável de cada herdeiro sujeito a IS = quinhão líquido de encargos dedutíveis; IS = base tributável × 10%",
+        "motivo": "O CIS não tem a regra dos 10 % do VPT para o recheio, que não é tributado (art. 1.º, n.º 5, al. f)); valores de participações e veículos e dedução do passivo segundo os arts. 14.º, 15.º e 20.º CIS.",
+        "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/selo/Pages/selo1.aspx"
+      },
+      {
+        "de": "- Prazo: 90 dias após o óbito (art. 26.º CIS)\n- Quem entrega: o cabeça-de-casal ou qualquer interessado\n- Pagamento: notificação pela AT após liquidação\n- Consequências do não cumprimento: coima entre €375 e €3.750",
+        "para": "- Prazo: até ao final do 3.º mês seguinte ao do óbito (art. 26.º, n.º 3, CIS; a obrigação nasce na data da abertura da sucessão — art. 5.º, al. p), CIS); prorrogável até 60 dias, alegando e provando motivo justificado (art. 26.º, n.º 5, CIS)\n- Quem entrega: o cabeça-de-casal e os beneficiários de transmissões sujeitas a imposto (art. 26.º, n.º 1, CIS); se o cabeça-de-casal identificar todos os beneficiários, estes ficam desonerados (art. 26.º, n.º 4, CIS)\n- Pagamento: após liquidação e notificação pela AT, até ao fim do 2.º mês seguinte ao da notificação ou, sendo o imposto superior a €1000, em prestações (art. 45.º, n.ºs 1 e 3, CIS)\n- Consequências do não cumprimento: coima de €150 a €3.750 (art. 116.º, n.º 1, ou art. 117.º, n.º 1, RGIT) [■ VERIFICAR: enquadramento da falta de participação e redução da coima por negligência ou pagamento voluntário]",
+        "motivo": "O prazo é o fim do 3.º mês seguinte (não 90 dias) e a coima do RGIT vai de €150 a €3.750; quem participa e o pagamento seguem os arts. 26.º e 45.º CIS.",
+        "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/selo/Pages/selo26.aspx"
+      },
+      {
+        "de": "- [ ] Isenção verificada para cônjuge, descendentes e ascendentes",
+        "para": "- [ ] Isenção verificada para cônjuge ou unido de facto, descendentes e ascendentes",
+        "motivo": "A isenção do art. 6.º, n.º 1, al. e), CIS abrange o unido de facto.",
+        "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/selo/Pages/selo6.aspx"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Confirmar com a AT o enquadramento contraordenacional da falta de participação Modelo 1 (art. 116.º ou 117.º RGIT) e as reduções aplicáveis.",
+      "Prova da união de facto (mais de dois anos) para efeitos da isenção do art. 6.º, n.º 1, al. e), CIS.",
+      "Verificar, caso a caso, a dedutibilidade das dívidas (art. 20.º CIS) e os documentos de prova (art. 26.º, n.º 6, CIS).",
+      "Exclusões da verba 1.2 a considerar além do recheio: seguros de vida, PPR e outros produtos do art. 1.º, n.º 5, CIS."
+    ],
+    "fontes": [
+      "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/selo/Pages/selo1.aspx",
+      "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/selo/Pages/selo5.aspx",
+      "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/selo/Pages/selo6.aspx",
+      "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/selo/Pages/selo13.aspx",
+      "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/selo/Pages/selo14.aspx",
+      "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/selo/Pages/selo15.aspx",
+      "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/selo/Pages/selo20.aspx",
+      "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/selo/Pages/selo26.aspx",
+      "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/selo/Pages/selo45.aspx",
+      "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/selo/Pages/ccod-selo-tabgiselo.aspx",
+      "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/rgit/Pages/rgit116.aspx",
+      "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/rgit/Pages/rgit117.aspx",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=901A0001&nid=901&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+    ]
+  },
+  {
+    "codigo": "SUC-058",
+    "veredicto": "corrigida",
+    "resumo": "A ficha assentava num «Registo Nacional de Testamentos e Codicilos (RNTC)» regulado pelo «DL n.º 47/2013», com pesquisa em «rntc.rnpc.mj.pt», que não encontrei em nenhuma fonte oficial; o registo central de testamentos (desde 1950: públicos, cerrados e internacionais) está a cargo da Conservatória dos Registos Centrais do IRN, a quem os notários participam os testamentos. Também atribuía ao DL n.º 252/75 a Convenção de Basileia de 1972, quando esse diploma aprovou a Convenção de Washington de 1973 sobre o testamento internacional. Reescrevi o regime e o procedimento com base no gov.pt, no Portal e-Justice e no art. 2209.º CC, deixando com [■ VERIFICAR] os artigos do Código do Notariado que não consegui ler na fonte oficial.",
+    "descricao": "Explica o pedido de informação sobre a existência de testamento à Conservatória dos Registos Centrais do Instituto dos Registos e do Notariado (IRN), a quem os notários participam os testamentos que lavram, incluindo a pesquisa de testamentos após o óbito, o testamento cerrado e a articulação com a habilitação de herdeiros.",
+    "descricao_en": "Explains how to ask the Central Registry Office (Conservatória dos Registos Centrais) of the Institute of Registries and Notary (Instituto dos Registos e do Notariado, IRN), to which notaries report the wills they draw up, whether a will exists, including the search for wills after death, the sealed (closed) will and coordination with the qualification of heirs.",
+    "substituicoes": [
+      {
+        "de": "## Framework R.N.T.C. — 5 etapas:",
+        "para": "## Framework — 5 etapas:",
+        "motivo": "Não existe um «RNTC»; o registo central de testamentos é da Conservatória dos Registos Centrais.",
+        "fonte": "https://e-justice.europa.eu/topics/family-matters-inheritance/inheritance/information-authorities-issuing-ecs/pt_pt"
+      },
+      {
+        "de": "### ETAPA 2 — REGIME LEGAL DO RNTC\nExplica em <regime_rntc>:\n- DL n.º 47/2013, art. 2.º: obrigação de registo pelo notário de TODOS os testamentos públicos e cerrados\n- DL n.º 47/2013, art. 5.º: conteúdo do registo (identificação do testador, data, cartório, tipo)\n- DL n.º 47/2013, art. 7.º: sigilo do registo durante a vida do testador\n- DL n.º 47/2013, art. 8.º: pesquisa após o óbito — acesso pelos herdeiros ou interessados\n- Articulação com registo de testamentos cerrados após abertura (art. 178.º Código do Notariado)\n- Testamentos outorgados no estrangeiro: registo se o testador for português (Convenção de Basileia de 1972 — DL n.º 252/75)",
+        "para": "### ETAPA 2 — REGIME LEGAL DO REGISTO DE TESTAMENTOS\nExplica em <regime_registo_testamentos>:\n- Conservatória dos Registos Centrais (IRN): mantém o registo central de testamentos desde 1950, que abrange os testamentos públicos, cerrados e internacionais; os notários participam-lhe os testamentos que lavram ou revogam [■ VERIFICAR: art. 187.º do Código do Notariado e Portaria n.º 121/2021, na redação em vigor]\n- O que se obtém: certidão sobre a existência de testamento e de escrituras de renúncia ou repúdio de herança ou legado, com indicação do cartório notarial\n- Em vida do testador: informação confidencial, só acessível ao próprio ou a quem o represente legalmente\n- Após o óbito: qualquer pessoa pode pedir a informação, juntando a certidão de óbito; no testamento público pode ser fornecido o conteúdo; no cerrado, só a existência e o cartório (o conteúdo obtém-se pelo instrumento de abertura lavrado pelo notário)\n- Testamento cerrado: quem o tiver em seu poder deve apresentá-lo ao notário da área onde se encontre, no prazo de três dias a contar do conhecimento do falecimento do testador (art. 2209.º, n.º 2, CC); a abertura segue o Código do Notariado [■ VERIFICAR o artigo aplicável]\n- Testamentos outorgados no estrangeiro: podem não constar do registo português; consultar o registo do Estado da outorga, ao abrigo da Convenção relativa ao Estabelecimento de um Sistema de Registo de Testamentos (Basileia, 1972), aprovada para ratificação pelo Decreto n.º 3/82, de 19 de janeiro [■ VERIFICAR: vigência para Portugal e para o Estado da outorga]; o testamento internacional rege-se pela Convenção de Washington de 1973, aprovada pelo Decreto-Lei n.º 252/75",
+        "motivo": "O «RNTC» e o «DL n.º 47/2013» não constam das fontes oficiais; o registo é da Conservatória dos Registos Centrais e o DL n.º 252/75 aprovou a Convenção de Washington, não a de Basileia.",
+        "fonte": "https://e-justice.europa.eu/topics/family-matters-inheritance/inheritance/information-authorities-issuing-ecs/pt_pt"
+      },
+      {
+        "de": "1. **Pesquisa no RNTC** — acesso em rntc.rnpc.mj.pt (autenticação com Cartão de Cidadão ou Chave Móvel Digital); necessário NIF do de cuius e certidão de óbito\n2. **Resultado positivo** — contacto do cartório notarial indicado para obter certidão do testamento",
+        "para": "1. **Pedido de certidão sobre a existência de testamento** — à Conservatória dos Registos Centrais (IRN), em linha (serviço «Saber se uma pessoa que morreu deixou testamento», no gov.pt) ou presencialmente; juntar a certidão de óbito [■ VERIFICAR: elementos de identificação do falecido exigidos no pedido e emolumento]\n2. **Resultado positivo** — contacto do cartório notarial indicado na certidão para obter certidão do testamento público ou, sendo cerrado, o instrumento de abertura",
+        "motivo": "A pesquisa faz-se junto da Conservatória dos Registos Centrais pelo serviço do IRN; o endereço «rntc.rnpc.mj.pt» não existe nas fontes oficiais.",
+        "fonte": "https://www.gov.pt/servicos/saber-se-uma-pessoa-que-morreu-deixou-testamento"
+      },
+      {
+        "de": "- Carta ao cartório notarial identificado no RNTC para obtenção da cópia certificada do testamento",
+        "para": "- Carta ao cartório notarial identificado na certidão da Conservatória dos Registos Centrais para obtenção da cópia certificada do testamento",
+        "motivo": "A indicação do cartório consta da certidão da Conservatória dos Registos Centrais.",
+        "fonte": "https://e-justice.europa.eu/topics/family-matters-inheritance/inheritance/information-authorities-issuing-ecs/pt_pt"
+      },
+      {
+        "de": "conforme registo n.º [■ VERIFICAR no RNTC]",
+        "para": "conforme certidão da Conservatória dos Registos Centrais [■ VERIFICAR: número e data do testamento indicados na certidão]",
+        "motivo": "Não existe registo no «RNTC»; os dados vêm da certidão da Conservatória dos Registos Centrais.",
+        "fonte": "https://e-justice.europa.eu/topics/family-matters-inheritance/inheritance/information-authorities-issuing-ecs/pt_pt"
+      },
+      {
+        "de": "- [ ] Pesquisa RNTC realizada (em linha em rntc.rnpc.mj.pt ou presencialmente no IRN)",
+        "para": "- [ ] Certidão sobre a existência de testamento pedida à Conservatória dos Registos Centrais (em linha ou presencialmente)",
+        "motivo": "O serviço é da Conservatória dos Registos Centrais (IRN).",
+        "fonte": "https://www.gov.pt/servicos/saber-se-uma-pessoa-que-morreu-deixou-testamento"
+      },
+      {
+        "de": "- [ ] Testamento cerrado: verificar se foi aberto e registado após o óbito",
+        "para": "- [ ] Testamento cerrado: verificar se foi apresentado ao notário e aberto após o óbito (art. 2209.º, n.º 2, CC)",
+        "motivo": "Quem tem o testamento cerrado deve apresentá-lo ao notário em três dias desde o conhecimento do óbito.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2209&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- [ ] [■ VERIFICAR] cartório notarial identificado no RNTC",
+        "para": "- [ ] [■ VERIFICAR] cartório notarial identificado na certidão da Conservatória dos Registos Centrais",
+        "motivo": "Não existe «RNTC».",
+        "fonte": "https://e-justice.europa.eu/topics/family-matters-inheritance/inheritance/information-authorities-issuing-ecs/pt_pt"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Não encontrei o «Decreto-Lei n.º 47/2013, de 5 de abril» nem um «RNTC» em fonte oficial; confirmar em diariodarepublica.pt se algum diploma recente alterou o registo central de testamentos.",
+      "Confirmar a redação em vigor do art. 187.º do Código do Notariado (participação à Conservatória dos Registos Centrais) e o artigo sobre a abertura do testamento cerrado.",
+      "Confirmar a vigência da Convenção de Basileia de 1972 para Portugal e para o Estado onde o testamento estrangeiro foi outorgado.",
+      "Confirmar no gov.pt o emolumento e os elementos exigidos no pedido em linha."
+    ],
+    "fontes": [
+      "https://www.gov.pt/servicos/saber-se-uma-pessoa-que-morreu-deixou-testamento",
+      "https://e-justice.europa.eu/topics/family-matters-inheritance/inheritance/information-authorities-issuing-ecs/pt_pt",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2209&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://diariodarepublica.pt/dr/detalhe/decreto/3-1982-601521",
+      "https://diariodarepublica.pt/dr/detalhe/portaria/121-2021-164870237"
+    ]
+  }
+]

@@ -107,7 +107,7 @@ Para participações sociais:
 
 **5. DO PEDIDO**
 "Nestes termos, requer a V. Exa. se digne:
-1.º Ordenar o arresto dos bens supra-identificados, nos termos do art. 391.º do CPC;
+1.º Ordenar o arresto dos bens supraidentificados, nos termos do art. 391.º do CPC;
 2.º Oficiar à Conservatória do Registo Predial / Registo Automóvel / [banco] para
    registo/bloqueio imediato;
 [3.º Dispensar a prestação de caução, nos termos do art. 374.º, n.º 2 CPC, dado que ___]"

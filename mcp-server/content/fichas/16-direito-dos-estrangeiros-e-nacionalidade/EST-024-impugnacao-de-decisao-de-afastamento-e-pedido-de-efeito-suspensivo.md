@@ -6,7 +6,8 @@ titulo_en: "Challenge to a Removal Decision and Request for Suspensive Effect"
 descricao: "Gera uma petição inicial de impugnação judicial de decisão de afastamento coercivo, com pedido de efeito suspensivo ou providência cautelar urgente, perante o Tribunal Administrativo e Fiscal competente, fundamentada no CPTA, na Lei n.º 23/2007 e nos direitos fundamentais da CEDH."
 descricao_en: "Generates a statement of claim for judicial review of a forced removal decision, with a request for suspensive effect or an urgent interim measure (providência cautelar), before the competent Administrative and Tax Court, grounded in the CPTA, Law No. 23/2007 and the fundamental rights under the ECHR."
 ambito: nacional
-estado_citacoes: "conferidas 4 · corrigidas 0 · por conferir 10"
+estado_citacoes: "conferidas 11 · corrigidas 0 · por conferir 17"
+revisao_tecnica: "2026-10-30 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
@@ -14,7 +15,8 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 
 > **Âmbito:** nacional · **Área:** Direito dos Estrangeiros e Nacionalidade · **Código:** EST-024
 > **EN:** Challenge to a Removal Decision and Request for Suspensive Effect. Generates a statement of claim for judicial review of a forced removal decision, with a request for suspensive effect or an urgent interim measure (providência cautelar), before the competent Administrative and Tax Court, grounded in the CPTA, Law No. 23/2007 and the fundamental rights under the ECHR.
-> **Citações:** conferidas 4 · corrigidas 0 · por conferir 10. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 11 · corrigidas 0 · por conferir 17. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-30 — corrigida (8 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
 Gera uma petição inicial de impugnação judicial de decisão de afastamento coercivo, com pedido de efeito suspensivo ou providência cautelar urgente, perante o Tribunal Administrativo e Fiscal competente, fundamentada no CPTA, na Lei n.º 23/2007 e nos direitos fundamentais da CEDH.
 
@@ -37,7 +39,7 @@ Ficha de trabalho para preparar este documento. As regras da casa prevalecem sob
 ### ETAPA 1 — PROBLEMATIZAÇÃO (Análise do Caso)
 Apresente dentro de um bloco <analise_do_caso>:
 - Decisão de afastamento: fundamento, data, prazo de saída notificado
-- Via administrativa percorrida: oposição apresentada? Resultado?
+- Via administrativa percorrida: houve audição e defesa na instrução do processo pela PSP (art. 148.º da Lei n.º 23/2007)? Reclamação apresentada? Resultado?
 - Prazo para a saída do território: quantos dias restam?
 - Fundamentos jurídicos de impugnação: proporcionalidade, art. 135.º, CEDH, non-refoulement
 - Situação pessoal: integração, família, tempo de residência
@@ -52,7 +54,9 @@ Apresente dentro de um bloco <fundamentos_juridicos>:
 - Art. 3.º da CEDH — non-refoulement
 - Art. 7.º do CPA — proporcionalidade
 - Jurisprudência TEDH (Üner, Boultif) [■ VERIFICAR]
-- Arts. 50.º e 58.º do CPTA [■ VERIFICAR: o artigo certo é o 55.º CPTA; confirmar a citação] — legitimidade e prazo
+- Arts. 55.º e 58.º do CPTA — legitimidade ativa e prazo de impugnação (três meses — art. 58.º, n.º 1, al. b), do CPTA)
+- Art. 150.º da Lei n.º 23/2007 — a impugnação judicial da decisão de afastamento coercivo tem efeito devolutivo, sem prejuízo dos processos urgentes e cautelares do CPTA (n.º 2)
+- Arts. 128.º e 131.º do CPTA — proibição de executar o ato após a citação e decretamento provisório da providência em 48 horas
 
 ### ETAPA 3 — CONSTRUÇÃO ARGUMENTATIVA
 Apresente dentro de um bloco <estrategia>:
@@ -69,7 +73,7 @@ Redige a petição inicial completa na seguinte estrutura:
 PETIÇÃO INICIAL COM PEDIDO DE PROVIDÊNCIA CAUTELAR URGENTE
 (Impugnação de Decisão de Afastamento Coercivo)
 
-[NOME COMPLETO], de nacionalidade [país], NIF [número], residente em [morada], representado/a pelo Advogado [nome], Cédula OA n.º [número], vem requerer, com caráter de URGÊNCIA EXTREMA, a decretação de PROVIDÊNCIA CAUTELAR de suspensão de eficácia da decisão de afastamento coercivo, e intentar a competente AÇÃO PRINCIPAL de impugnação, contra a AIMA, pelos fundamentos seguintes:
+[NOME COMPLETO], de nacionalidade [país], NIF [número], residente em [morada], representado/a pelo Advogado [nome], Cédula OA n.º [número], vem requerer, com caráter de URGÊNCIA EXTREMA, a decretação de PROVIDÊNCIA CAUTELAR de suspensão de eficácia da decisão de afastamento coercivo, e intentar a competente AÇÃO PRINCIPAL de impugnação, contra o Ministério da Administração Interna, de que depende a PSP, cujo diretor nacional proferiu a decisão (art. 10.º, n.os 2 e 4, do CPTA; art. 149.º da Lei n.º 23/2007) [■ VERIFICAR: parte demandada], pelos fundamentos seguintes:
 
 **I. DA URGÊNCIA EXTREMA**
 O requerente foi notificado de que o afastamento está agendado para [data — X dias]. Sem a decretação de providência cautelar urgente, o afastamento ocorrerá antes de qualquer decisão judicial, tornando-a absolutamente inútil e produzindo danos irreversíveis.
@@ -85,7 +89,7 @@ O requerente foi notificado de que o afastamento está agendado para [data — X
 *4.1. Da Providência Cautelar — Fumus Boni Iuris*
 
 *(a) Proibição de Expulsão — Art. 135.º da Lei n.º 23/2007*
-[Se aplicável: cônjuge português, filhos menores portugueses, residência permanente]
+[Se aplicável — art. 135.º, n.º 1: nascimento em Portugal e residência há pelo menos cinco anos; filhos menores portugueses a cargo; filhos menores de Estado terceiro, residentes legais, a cargo; residência desde idade inferior a 10 anos; filhos maiores dependentes. O cônjuge português e a residência permanente não constam deste elenco, mas relevam no art. 8.º da CEDH e, no residente de longa duração, no art. 136.º]
 
 *(b) Violação do Princípio da Proporcionalidade — Art. 7.º CPA*
 [Critérios Boultif/Üner aplicados ao caso]
@@ -106,11 +110,11 @@ O afastamento antes da decisão judicial é irreversível: a separação da fam�
 
 Em sede de PROVIDÊNCIA CAUTELAR (urgente):
 a) A suspensão imediata da eficácia da decisão de afastamento coercivo;
-b) A comunicação urgente à AIMA para que se abstenha de proceder ao afastamento até decisão judicial.
+b) A citação urgente da entidade requerida, que fica proibida de iniciar ou prosseguir a execução (art. 128.º do CPTA), e, sendo o afastamento iminente, o decretamento provisório da providência (art. 131.º do CPTA), com comunicação à PSP e à GNR, a quem compete executar o afastamento (art. 159.º da Lei n.º 23/2007).
 
 Em sede de AÇÃO PRINCIPAL:
 a) A anulação da decisão de afastamento por violação dos artigos [liste];
-b) A condenação da AIMA a emitir novo título de residência ao requerente.
+b) [Só se tiver sido requerido à AIMA, I. P., um título de residência, recusado ou não decidido no prazo legal] a condenação da AIMA, I. P., à prática do ato devido (arts. 66.º e 67.º do CPTA) [■ VERIFICAR: pressupostos e cumulação com o pedido de anulação].
 
 [Local e data]
 [Nome do advogado — Cédula OA n.º]
@@ -143,9 +147,9 @@ Apresente dentro de um bloco <checklist_validacao>:
 - Fundamento: [irregular / crime / outro]
 - Data da decisão: [dd/mm/aaaa]
 - Data do afastamento notificada: [dd/mm/aaaa — X dias restantes]
-- Referência AIMA: [número]
+- Referência do processo (PSP): [número]
 
-**OPOSIÇÃO ADMINISTRATIVA:**
+**DEFESA NO PROCESSO ADMINISTRATIVO (audição — art. 148.º da Lei n.º 23/2007) E RECLAMAÇÃO:**
 - Apresentada: [sim/não]
 - Resultado: [indeferida / sem resposta]
 
@@ -162,6 +166,9 @@ Apresente dentro de um bloco <checklist_validacao>:
 
 | Citação | Estado | Nota |
 |---|---|---|
+| art. 148.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 148.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 135.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 135.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 135.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | Arts. 112.º e ss. do CPTA | conferida (epígrafe) — Providências cautelares |  |
@@ -173,6 +180,17 @@ Apresente dentro de um bloco <checklist_validacao>:
 | Art. 8.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | Art. 3.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | Art. 7.º do CPA | conferida (epígrafe) — Princípio da proporcionalidade |  |
-| Arts. 50.º e 58.º do CPTA | por conferir [■ VERIFICAR] | o artigo certo é o 55.º CPTA; confirmar a citação |
+| Arts. 55.º e 58.º do CPTA | conferida (epígrafe) — Legitimidade ativa |  |
+| art. 58.º, n.º 1, al. b), do CPTA | conferida (epígrafe) — Prazos |  |
+| Art. 150.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| Arts. 128.º e 131.º do CPTA | conferida (epígrafe) — Proibição de executar o ato administrativo |  |
+| art. 10.º, n.os 2 e 4, do CPTA | conferida (epígrafe) — Legitimidade passiva |  |
+| art. 149.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 8.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 136.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | Art. 7.º CPA | conferida (epígrafe) — Princípio da proporcionalidade |  |
 | Arts. 3.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 128.º do CPTA | conferida (epígrafe) — Proibição de executar o ato administrativo |  |
+| art. 131.º do CPTA | conferida (epígrafe) — Decretamento provisório da providência |  |
+| art. 159.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| arts. 66.º e 67.º do CPTA | conferida (epígrafe) — Objeto |  |

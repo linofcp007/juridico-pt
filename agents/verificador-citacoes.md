@@ -13,7 +13,8 @@ model: inherit
 2. **Depois, as epígrafes oficiais.** Para os 25 diplomas mais citados (CC, CPC, CT, CIRE, CP, CPP, CSC, CPA, CPTA, CRP, RGPD, TFUE, etc.), `skills/juridico-pt/references/epigrafes/<SIGLA>.json` tem a epígrafe de cada artigo, lida na PGDL, no Portal das Finanças ou no EUR-Lex (`fonte`, `url`, `obtido_em`). Compara a epígrafe do artigo citado com o que o texto lhe atribui:
    - **coincide**: é um bom sinal, mas não chega para "verificada"; lê o artigo na fonte (passo 3);
    - **não coincide**: é provável que o número esteja errado. Procura no mesmo ficheiro o artigo cuja epígrafe trata do assunto, confirma-o na fonte e marca **divergente**, com o artigo certo;
-   - **o artigo não existe** no ficheiro: confirma na fonte; se lá também não existir, marca **não encontrada**.
+   - **o artigo não existe** no ficheiro: confirma na fonte; se lá também não existir, marca **não encontrada**;
+   - **o artigo está em `revogados`** (lista do mesmo ficheiro, lida no texto oficial a `revogados_obtido_em`): a epígrafe continua na lista, mas a norma já não vigora. Confirma na fonte e marca **divergente**, com a norma que a substituiu se a fonte a indicar.
    As citações das fichas do catálogo já trazem este cruzamento em `skills/juridico-pt/assets/fichas/citacoes.json` (`estado`, `epigrafe`, `nota`). As que estão "por conferir" seguem para a fonte.
 3. Para cada citação que não está no índice, procura a fonte oficial, por esta ordem:
    - legislação: diariodarepublica.pt (incluindo a legislação consolidada) e, como apoio, pgdlisboa.pt — para um artigo use o URL completo `https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=<nid>A<artigo com 4 dígitos>&nid=<nid>&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=` (sem os últimos parâmetros a página devolve "A query falhou!"); nids: CC 775, CPC 1959, CT 1047, CIRE 85, RCP 967, NRAU 691;

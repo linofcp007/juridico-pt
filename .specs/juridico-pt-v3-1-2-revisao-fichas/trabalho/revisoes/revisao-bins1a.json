@@ -1,0 +1,438 @@
+[
+  {
+    "codigo": "INS-001",
+    "veredicto": "corrigida",
+    "resumo": "O valor da causa estava fixado pelo passivo, com remissão para o art. 299.º CPC; no processo de insolvência é o valor do ativo indicado na petição (art. 15.º CIRE). A junção do plano de insolvência com a petição remetia para o art. 23.º (é o art. 24.º, n.º 3), os privilégios laborais para os arts. 173.º e ss. CIRE (estão no art. 333.º CT) e a lista de documentos incluía peças que o art. 24.º não exige (balanço, relatório da contabilidade), omitindo várias que exige. Acrescentou-se a exceção ao dever de apresentação da pessoa singular não titular de empresa, a natureza de presunção de culpa grave do art. 186.º, n.º 3, e as indicações obrigatórias da petição (art. 23.º, n.º 2).",
+    "substituicoes": [
+      {
+        "de": "- Dever de apresentação: art. 18.º CIRE — prazo de 30 dias sobre o conhecimento",
+        "para": "- Dever de apresentação: art. 18.º CIRE — prazo de 30 dias sobre o conhecimento da situação de insolvência (ou sobre a data em que o devedor devesse conhecê-la); não abrange a pessoa singular que não seja titular de empresa (art. 18.º, n.º 2, al. b), CIRE); sendo o devedor titular de empresa, o conhecimento presume-se de forma inilidível decorridos três meses sobre o incumprimento generalizado das dívidas referidas no art. 20.º, n.º 1, al. g) (art. 18.º, n.º 3, CIRE)",
+        "motivo": "A ficha abrange devedores singulares e apresentava o dever de 30 dias como regra geral, sem a exceção do n.º 2, al. b), nem a presunção do n.º 3.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0018&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Consequências da falta de apresentação atempada: indício de insolvência culposa — art. 186.º, n.º 3, al. a) CIRE",
+        "para": "- Consequências da falta de apresentação atempada: presunção de culpa grave dos administradores do devedor que não seja pessoa singular, para a qualificação da insolvência como culposa — art. 186.º, n.º 3, al. a) CIRE (aplicável com adaptações à pessoa singular, n.º 4; mas a mera omissão ou o retardamento da apresentação não torna culposa a insolvência da pessoa singular que não estava obrigada a apresentar-se, n.º 5)",
+        "motivo": "O art. 186.º, n.º 3, estabelece uma presunção de culpa grave, não um mero indício, e o n.º 5 afasta-a para a pessoa singular não obrigada a apresentar-se.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0186&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "art. 24.º CIRE (lista de credores, relação de bens, balanço, etc.)",
+        "para": "art. 24.º CIRE (relação de credores, ações e execuções pendentes, atividade dos últimos três anos e causas da insolvência, relação de bens, contas anuais dos três últimos exercícios, mapa de pessoal, entre outros), além da certidão do registo comercial (art. 23.º, n.º 2, al. d), CIRE)",
+        "motivo": "O art. 24.º não exige um balanço atualizado; exige, entre outros, as contas dos três últimos exercícios e os documentos das alíneas a) a j) do n.º 1.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0024&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Decisão entre apresentação simples vs. proposta de plano de insolvência (art. 23.º CIRE)",
+        "para": "- Decisão entre apresentação simples vs. apresentação acompanhada de plano de insolvência (art. 24.º, n.º 3, CIRE) e, havendo empresa na massa, se se requer que a administração da massa seja assegurada pelo devedor (art. 224.º CIRE)",
+        "motivo": "O art. 23.º trata da forma e conteúdo da petição; a junção do plano pelo devedor está no art. 24.º, n.º 3, e a administração pelo devedor no art. 224.º.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0024&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Créditos laborais a destacar (art. 173.º e ss. CIRE — privilégios)",
+        "para": "- Créditos laborais a destacar (privilégio mobiliário geral e privilégio imobiliário especial sobre o imóvel onde o trabalhador presta a atividade — art. 333.º CT; pagamento nos termos dos arts. 173.º e ss. CIRE)",
+        "motivo": "Os arts. 173.º e ss. CIRE regulam o pagamento dos créditos; os privilégios dos créditos laborais constam do art. 333.º CT.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0333&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Documento 2: Lista de credores com indicação dos respetivos créditos\n- Documento 3: Relação de todos os bens do devedor\n- Documento 4: Balanço atualizado\n- Documento 5: Relatório do estado da contabilidade",
+        "para": "- Documento 2: Relação, por ordem alfabética, de todos os credores, com domicílios, montantes, datas de vencimento, natureza e garantias dos créditos e eventuais relações especiais (n.º 1, al. a))\n- Documento 3: Relação dos bens detidos em arrendamento, aluguer, locação financeira ou com reserva de propriedade e de todos os demais bens e direitos do devedor, com natureza, localização, dados registrais, valor de aquisição e valor atual estimado (n.º 1, al. e))\n- Documento 4: Relação e identificação das ações e execuções pendentes contra o devedor (n.º 1, al. b))\n- Documento 5: Documento sobre a atividade dos últimos três anos, os estabelecimentos de que é titular e as causas da situação de insolvência (n.º 1, al. c))\n- Documento 6: Identificação dos sócios, associados ou membros conhecidos ou de quem responda legalmente pelos créditos sobre a insolvência (n.º 1, al. d))\n- Documento 7: Havendo contabilidade organizada, contas anuais dos três últimos exercícios, com os relatórios e documentos de certificação legal, e informação sobre as alterações patrimoniais mais significativas posteriores (n.º 1, al. f))\n- Documento 8: Mapa de pessoal (n.º 1, al. j))\n- Documento 9: Comprovativo dos poderes dos administradores que representam o devedor e ata da deliberação do órgão de administração que decidiu o pedido, se aplicável (art. 24.º, n.º 2, al. a), CIRE)",
+        "motivo": "O balanço atualizado e o relatório do estado da contabilidade não são documentos do art. 24.º; faltavam vários que a lei exige.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0024&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "Equivalente ao passivo total declarado (art. 299.º CPC subsidiariamente aplicável)",
+        "para": "O valor do ativo do devedor indicado na petição, corrigido logo que se verifique ser diferente o valor real (art. 15.º CIRE)",
+        "motivo": "No processo de insolvência o valor da causa é determinado pelo ativo indicado na petição, não pelo passivo.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0015&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "**8. FECHAMENTO**",
+        "para": "**8. FECHO**",
+        "motivo": "Forma do português europeu.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0023&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- [ ] Valor da causa indicado",
+        "para": "- [ ] Valor da causa indicado pelo ativo do devedor (art. 15.º CIRE)\n- [ ] Petição com as indicações do art. 23.º, n.º 2, CIRE: insolvência atual ou meramente iminente, administradores de direito e de facto, cinco maiores credores e, sendo pessoa singular, se pretende a exoneração do passivo restante",
+        "motivo": "O valor da causa segue o art. 15.º e a petição do devedor tem indicações obrigatórias (art. 23.º, n.º 2) que a ficha não previa.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0023&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Na apresentação pelo próprio devedor, a insolvência é declarada até ao 3.º dia útil seguinte à distribuição (art. 28.º CIRE); ponderar citar o art. 28.º a par do art. 36.º no pedido.",
+      "Confirmar, na comarca, se o processo cabe ao juízo de comércio ou, na sua falta, a outro juízo, segundo a LOSJ.",
+      "O pedido de medidas cautelares (art. 31.º CIRE) pressupõe justificado receio de atos de má gestão; avaliar se tem utilidade numa apresentação do próprio devedor."
+    ],
+    "fontes": [
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0015&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0018&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0023&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0024&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0028&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0186&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0333&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+    ]
+  },
+  {
+    "codigo": "INS-003",
+    "veredicto": "corrigida",
+    "resumo": "A ficha atribuía ao art. 20.º, n.º 2, CIRE o ónus da prova (essa regra está no art. 30.º, n.os 3 e 4: cabe ao devedor provar a solvência pela escrituração) e invocava a insolvência iminente (art. 3.º, n.º 2) contra o pedido do credor, quando ela só se equipara à atual na apresentação pelo devedor (art. 3.º, n.º 4). Propunha um depósito do crédito para suspender o processo e um pedido de suspensão da instância para prova, que o CIRE não prevê. Acrescentou-se a junção obrigatória da lista dos cinco maiores credores, sob pena de não recebimento (art. 30.º, n.º 2), a oferta de prova com a oposição e a natureza urgente do processo.",
+    "substituicoes": [
+      {
+        "de": "- Prazo de oposição: 10 dias da notificação (art. 30.º, n.º 1 CIRE) — urgente",
+        "para": "- Prazo de oposição: 10 dias da notificação (art. 30.º, n.º 1 CIRE), contados da citação pessoal do devedor (art. 29.º, n.º 1, CIRE) — processo urgente (art. 9.º, n.º 1, CIRE): o prazo corre em férias judiciais (art. 138.º, n.º 1, CPC)",
+        "motivo": "O devedor é citado pessoalmente (art. 29.º) e, sendo o processo urgente, o prazo não se suspende nas férias judiciais.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0029&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Art. 20.º, n.º 2 CIRE — ónus da prova dos factos-índice cabe ao credor",
+        "para": "- Art. 30.º, n.os 3 e 4, CIRE — a oposição pode basear-se na inexistência do facto-índice ou na inexistência da situação de insolvência; cabe ao credor requerente provar o facto-índice que alega, mas cabe ao devedor provar a sua solvência, com base na escrituração legalmente obrigatória, se for o caso, devidamente organizada e arrumada",
+        "motivo": "O art. 20.º, n.º 2, trata da representação das entidades públicas; o fundamento da oposição e o ónus da prova da solvência estão no art. 30.º, n.os 3 e 4.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0030&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Se aplicável: art. 3.º, n.º 2 CIRE — insolvência iminente como distinção",
+        "para": "- Sendo o devedor pessoa coletiva ou património autónomo sem responsável pessoal e ilimitado: art. 3.º, n.º 2 CIRE — também é insolvente se o passivo for manifestamente superior ao ativo, salvo se o ativo for superior ao passivo segundo as regras de avaliação do n.º 3; a insolvência meramente iminente só se equipara à atual na apresentação pelo próprio devedor (art. 3.º, n.º 4, CIRE), pelo que não fundamenta o pedido do credor",
+        "motivo": "O art. 3.º, n.º 2, não trata da insolvência iminente, mas do critério do passivo manifestamente superior ao ativo; a iminente está no n.º 4 e só releva na apresentação pelo devedor.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0003&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Se deve oferecer depósito do crédito contestado (para paralisar o processo enquanto litiga)",
+        "para": "- Se convém pagar ou transigir com o credor requerente, que pode desistir do pedido ou da instância até à sentença (art. 21.º CIRE); o CIRE não prevê o depósito do crédito para suspender o processo",
+        "motivo": "Não há base legal para paralisar o processo de insolvência com o depósito do crédito; o que a lei prevê é a desistência do requerente.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0021&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Necessidade de requerer produção de prova (testemunhal, pericial, documental)",
+        "para": "- Necessidade de requerer produção de prova (testemunhal, pericial, documental) — todos os meios de prova são oferecidos com a oposição, ficando o devedor obrigado a apresentar as testemunhas arroladas (art. 30.º, n.º 1, e art. 25.º, n.º 2, CIRE)",
+        "motivo": "A oposição está sujeita ao art. 25.º, n.º 2: a prova é oferecida com a peça e as testemunhas são a apresentar.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0030&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "[b) Caso assim não se entenda, suspender a instância para produção de prova sobre a situação financeira do Requerido]",
+        "para": "[b) Admitir os meios de prova oferecidos, a produzir na audiência de discussão e julgamento (art. 35.º CIRE)]",
+        "motivo": "O CIRE não prevê a suspensão da instância para prova; havendo oposição, é logo marcada audiência de discussão e julgamento.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0035&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Doc. 3: [Outros documentos de suporte]",
+        "para": "- Doc. 3: Lista dos cinco maiores credores do Requerido, com exclusão do requerente, com indicação do domicílio (art. 30.º, n.º 2, CIRE — sob pena de não recebimento da oposição)\n- Doc. 4: [Outros documentos de suporte]",
+        "motivo": "A lista dos cinco maiores credores é junção obrigatória, sob pena de não recebimento da oposição.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0030&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "**8. FECHAMENTO**",
+        "para": "**8. FECHO**",
+        "motivo": "Forma do português europeu.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0030&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- [ ] Prazo de 10 dias da notificação cumprido (art. 30.º, n.º 1 CIRE)",
+        "para": "- [ ] Prazo de 10 dias da notificação cumprido (art. 30.º, n.º 1 CIRE), contado da citação e sem suspensão em férias judiciais\n- [ ] Lista dos cinco maiores credores, com exclusão do requerente, junta com a oposição (art. 30.º, n.º 2, CIRE)",
+        "motivo": "O prazo conta da citação de processo urgente e falta a junção obrigatória do art. 30.º, n.º 2.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0030&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Data da notificação: [data — o prazo de 10 dias conta daqui]",
+        "para": "- Data da citação: [data — o prazo de 10 dias conta daqui e corre em férias judiciais]",
+        "motivo": "O devedor é citado pessoalmente (art. 29.º CIRE) e o processo é urgente (art. 9.º CIRE).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0029&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Confirmar o efeito do pagamento só do crédito do requerente sobre a instância (desistência, inutilidade superveniente ou prosseguimento com outro facto-índice) na jurisprudência atual.",
+      "O PER pressupõe empresa em situação económica difícil ou de insolvência meramente iminente, com declaração de contabilista certificado ou ROC de que não está em insolvência atual (art. 17.º-A, n.os 1 e 2, CIRE); o PEAP só serve a devedor que não seja empresa (art. 1.º, n.º 3, CIRE).",
+      "A remissão do art. 25.º, n.º 2, CIRE para o art. 511.º CPC (limite de testemunhas) deve ser conferida no CPC em vigor."
+    ],
+    "fontes": [
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0003&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0009&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0020&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0021&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0025&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0029&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0030&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0035&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0138&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+    ]
+  },
+  {
+    "codigo": "INS-007",
+    "veredicto": "corrigida",
+    "resumo": "A maioria de aprovação do plano estava desatualizada: desde a Lei n.º 9/2022, o art. 212.º, n.º 1, exige mais de 50 % dos votos emitidos (e, nestes, mais de metade dos correspondentes a créditos não subordinados), com quórum de um terço, e não 2/3. O art. 197.º era lido como proibição de afetar garantias sem consentimento, quando é regra supletiva; a consequência do incumprimento («resolução do plano e prosseguimento da liquidação») não corresponde ao art. 218.º; e a divisão «declarativa/normativa» trocava os n.os 1 e 2 do art. 195.º e omitia elementos obrigatórios (demonstrações previsionais, trabalhadores, preceitos derrogados). Precisou-se ainda a legitimidade dos credores (um quinto dos créditos não subordinados), a homologação e a gestão durante a execução do plano.",
+    "substituicoes": [
+      {
+        "de": "ou credores (art. 193.º CIRE)",
+        "para": "ou credores (art. 193.º CIRE) — qualquer credor ou grupo de credores cujos créditos representem, pelo menos, um quinto do total dos créditos não subordinados reconhecidos na sentença de verificação ou, na falta desta, na estimativa do juiz; pode ainda apresentá-lo quem responda legalmente pelas dívidas da insolvência (art. 193.º, n.º 1, CIRE)",
+        "motivo": "Os credores só têm legitimidade se representarem pelo menos um quinto dos créditos não subordinados.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0193&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Art. 195.º CIRE — conteúdo obrigatório do plano (parte declarativa + parte normativa)",
+        "para": "- Art. 195.º CIRE — conteúdo obrigatório do plano: as alterações das posições jurídicas dos credores (n.º 1) e a finalidade, as medidas de execução e os elementos do n.º 2 — identificação da empresa e do administrador da insolvência, situação patrimonial, financeira e reditícia, meio de satisfação dos credores (liquidação, recuperação ou transmissão da empresa), plano de investimentos e demonstrações previsionais se a empresa se mantiver em atividade, posição dos trabalhadores, impacte face à ausência de plano, credores não afetados, novo financiamento e preceitos legais derrogados",
+        "motivo": "O CIRE não usa a divisão parte declarativa/normativa; o art. 195.º enumera os elementos obrigatórios, que a ficha omitia em parte.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0195&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Art. 197.º CIRE — não afetação de garantias reais sem consentimento",
+        "para": "- Art. 197.º CIRE — regra supletiva: na falta de estatuição expressa em sentido diverso no plano, os direitos decorrentes de garantias reais e de privilégios creditórios não são afetados, os créditos subordinados consideram-se objeto de perdão total e o cumprimento do plano exonera o devedor e os responsáveis legais das dívidas da insolvência remanescentes",
+        "motivo": "O art. 197.º não exige o consentimento do credor garantido: estabelece o regime aplicável na falta de previsão expressa do plano.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0197&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Art. 212.º CIRE — aprovação: 2/3 dos votos expressos",
+        "para": "- Art. 212.º CIRE — aprovação: com credores presentes ou representados que detenham, pelo menos, um terço do total dos créditos com direito de voto, a proposta tem de recolher mais de 50 % da totalidade dos votos emitidos e, nestes, mais de metade dos votos correspondentes a créditos não subordinados com direito de voto, não contando as abstenções (n.º 1, na redação da Lei n.º 9/2022); não conferem direito de voto, designadamente, os créditos não modificados pela parte dispositiva do plano (n.º 2)",
+        "motivo": "A Lei n.º 9/2022 substituiu a maioria de dois terços por mais de 50 % dos votos emitidos, com a dupla maioria dos créditos não subordinados.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0212&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Art. 215.º CIRE — homologação judicial",
+        "para": "- Art. 215.º CIRE — recusa oficiosa da homologação por violação não negligenciável de regras procedimentais ou das normas aplicáveis ao conteúdo do plano, ou por não se verificarem as condições suspensivas ou os atos prévios; a sentença de homologação só pode ser proferida decorridos pelo menos 10 dias sobre a aprovação (art. 214.º CIRE)",
+        "motivo": "O art. 215.º regula a não homologação oficiosa; o prazo da homologação está no art. 214.º.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0214&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Gestão da empresa durante o período do plano (manutenção do administrador ou devolução ao devedor)",
+        "para": "- Gestão da empresa durante a execução do plano: transitada a homologação, o processo encerra-se, se o plano a isso não se opuser, e o devedor recupera a livre gestão dos seus negócios (arts. 230.º, n.º 1, al. b), e 233.º, n.º 1, al. a), CIRE); o plano pode prever a fiscalização da execução pelo administrador da insolvência e a necessidade da sua autorização para certos atos, por três anos no máximo (art. 220.º CIRE)",
+        "motivo": "Homologado o plano, o administrador não mantém a gestão: a lei prevê apenas a fiscalização da execução, até três anos.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0220&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "**PARTE I — PARTE DECLARATIVA** (art. 195.º, n.º 1 CIRE)",
+        "para": "**PARTE I — DESCRIÇÃO E FUNDAMENTAÇÃO DO PLANO** (art. 195.º, n.º 2 CIRE)",
+        "motivo": "A descrição da situação e das medidas corresponde ao n.º 2 do art. 195.º, não ao n.º 1.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0195&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "   4.3. Entidade gestora e estrutura após plano",
+        "para": "   4.3. Entidade gestora e estrutura após plano\n   4.4. Se a empresa se mantiver em atividade: plano de investimentos, conta de exploração previsional, demonstração previsional de fluxos de caixa (com os pressupostos fundamentados) e balanço pró-forma (art. 195.º, n.º 2, al. d), CIRE)\n   4.5. Posição dos trabalhadores, formas de informação e consulta dos seus representantes e consequências para o emprego (art. 195.º, n.º 2, al. e), CIRE)\n   4.6. Novo financiamento previsto e razões da sua necessidade (art. 195.º, n.º 2, al. h), CIRE)",
+        "motivo": "Elementos obrigatórios do art. 195.º, n.º 2, que a estrutura omitia.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0195&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "**PARTE II — PARTE NORMATIVA** (art. 195.º, n.º 2 CIRE)",
+        "para": "**PARTE II — PARTE DISPOSITIVA** (art. 195.º, n.º 1 CIRE)",
+        "motivo": "As alterações das posições jurídicas dos credores correspondem ao n.º 1 do art. 195.º; «parte dispositiva» é o termo do CIRE (art. 212.º, n.º 2).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0195&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "— Resolução do plano e prosseguimento da liquidação",
+        "para": "— Salvo disposição expressa do plano em sentido diverso, a moratória ou o perdão ficam sem efeito quanto ao crédito em mora cuja prestação, com juros moratórios, não seja paga nos 15 dias seguintes à interpelação escrita do credor, e quanto a todos os créditos se, antes de findar a execução do plano, o devedor for declarado insolvente em novo processo (art. 218.º, n.º 1, CIRE)",
+        "motivo": "O CIRE não prevê a resolução do plano com prosseguimento da liquidação; o incumprimento tem os efeitos do art. 218.º.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0218&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- [ ] Parte declarativa e parte normativa incluídas (art. 195.º CIRE)",
+        "para": "- [ ] Descrição e fundamentação (n.º 2) e parte dispositiva (n.º 1) incluídas, com todos os elementos obrigatórios (art. 195.º CIRE)",
+        "motivo": "Alinhamento com o conteúdo obrigatório do art. 195.º.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0195&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "E. DISPOSIÇÕES FINAIS",
+        "para": "E. DISPOSIÇÕES FINAIS\n   — Credores não afetados pelo plano e razões (art. 195.º, n.º 2, al. g), CIRE)\n   — Preceitos legais derrogados e âmbito da derrogação (art. 195.º, n.º 2, al. i), CIRE)",
+        "motivo": "Elementos obrigatórios do art. 195.º, n.º 2, que a estrutura omitia.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0195&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Confirmar, para o caso concreto, que créditos não têm direito de voto (art. 212.º, n.os 2 a 4, CIRE) antes de calcular a maioria.",
+      "Um tratamento mais desfavorável de credores em situação idêntica depende do consentimento do credor afetado, tácito no voto favorável (art. 194.º, n.º 2, CIRE).",
+      "Verificar a possibilidade de pedido de não homologação por credor que fique em situação menos favorável do que na ausência de plano (art. 216.º CIRE)."
+    ],
+    "fontes": [
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0192&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0193&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0194&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0195&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0196&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0197&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0212&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0214&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0215&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0216&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0218&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0220&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0230&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0233&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+    ]
+  },
+  {
+    "codigo": "INS-038",
+    "veredicto": "corrigida",
+    "resumo": "A ficha exigia autorização do juiz para a negociação particular e atribuía ao tribunal a fixação do valor base: no CIRE é o administrador da insolvência que escolhe a modalidade (preferencialmente leilão eletrónico) e conduz a venda, dependendo os atos de especial relevo do consentimento da comissão ou da assembleia de credores (arts. 161.º e 164.º). A preferência do arrendatário estava apoiada no art. 163.º CIRE, que trata da eficácia dos atos do administrador; a norma é o art. 165.º, com remissão para a venda executiva. Substituiu-se o inexistente «direito de acompanhamento» pelos direitos do credor garantido do art. 164.º, n.os 2 a 4, e acrescentou-se o efeito do art. 163.º e o pedido de sobrestar na alienação (art. 161.º, n.º 5).",
+    "substituicoes": [
+      {
+        "de": "- Existência de preferências legais (comproprietários, arrendatários, credores hipotecários com prioridade)",
+        "para": "- Existência de direitos de preferência legais ou convencionais com eficácia real (comproprietários, arrendatários, outros preferentes)",
+        "motivo": "A prioridade do credor hipotecário é de pagamento, não um direito de preferência na venda.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0165&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "leilão eletrónico, propostas em carta fechada, negociação particular (com autorização do juiz)",
+        "para": "o administrador da insolvência escolhe a modalidade — preferencialmente o leilão eletrónico, podendo, de forma justificada, optar por qualquer das modalidades admitidas em processo executivo (propostas em carta fechada, negociação particular, entre outras) ou por outra que tenha por mais conveniente; não há autorização judicial prévia, mas os atos de especial relevo (p. ex., venda da empresa, de estabelecimentos ou da totalidade das existências, ou de bem de valor igual ou superior a 10 000 € que represente pelo menos 10 % da massa) dependem do consentimento da comissão de credores ou, não existindo, da assembleia de credores (art. 161.º CIRE)",
+        "motivo": "O CIRE não exige autorização do juiz para a negociação particular; a escolha é do administrador, com preferência pelo leilão eletrónico (Lei n.º 9/2022), e os atos de especial relevo exigem o consentimento dos credores.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0164&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Direito de preferência legal do locatário (art. 1091.º CC por remissão; art. 163.º CIRE)",
+        "para": "- Direitos de preferência legais (p. ex., do arrendatário — art. 1091.º CC; do comproprietário — art. 1409.º CC): os titulares de preferência legal ou convencional com eficácia real exercem-na nos termos previstos para a venda em processo executivo (art. 165.º CIRE; arts. 819.º e 823.º CPC)",
+        "motivo": "O art. 163.º CIRE trata da eficácia dos atos do administrador; o exercício das preferências na liquidação está no art. 165.º, que remete para a venda executiva.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0165&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Preço mínimo e valor de base: definição pelo tribunal, com base em avaliação",
+        "para": "- Valor base: fixado no procedimento de alienação conduzido pelo administrador da insolvência, que dele informa o credor com garantia real (art. 164.º, n.º 2, CIRE), e não pelo tribunal; [■ VERIFICAR: critério do valor base e eventual avaliação — art. 812.º, n.os 3 a 5, CPC, por remissão do art. 164.º, n.º 1, CIRE]",
+        "motivo": "A venda é conduzida pelo administrador da insolvência, que fixa o valor base; não cabe ao tribunal defini-lo.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0164&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Impugnação da venda por irregularidade (arts. 195.º e ss. CPC, por aplicação subsidiária)",
+        "para": "- Impugnação da venda por irregularidade (arts. 195.º e ss. CPC, por aplicação subsidiária) — atenção: a falta do consentimento exigido para os atos de especial relevo não prejudica a eficácia da venda feita pelo administrador, salvo se as obrigações por ele assumidas excederem manifestamente as da contraparte (art. 163.º do CIRE); [■ VERIFICAR: aplicação dos arts. 838.º e 839.º CPC (anulação da venda e casos em que fica sem efeito) à venda na insolvência]",
+        "motivo": "O art. 163.º limita os efeitos da preterição do consentimento dos credores e é determinante para a viabilidade da impugnação.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0163&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Se credor com garantia: participação no procedimento de venda, exercício do direito de acompanhamento",
+        "para": "- Se credor com garantia: audição sobre a modalidade da alienação e informação do valor base ou do preço projetado; faculdade de, no prazo de uma semana ou posteriormente em tempo útil, propor a aquisição do bem, por si ou por terceiro, por preço superior, com caução de 10 % do montante da proposta — se o administrador não aceitar e vender por preço inferior, fica obrigado a colocar o credor na situação que decorreria da venda a esse preço (art. 164.º, n.os 2 a 4, CIRE)",
+        "motivo": "O CIRE não prevê um «direito de acompanhamento»; os direitos do credor garantido estão no art. 164.º, n.os 2 a 4.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0164&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Se irregularidade detetada: impugnação do ato processual",
+        "para": "- Se irregularidade detetada: impugnação do ato processual\n- Se a alienação for ato de especial relevo: requerer ao juiz que mande sobrestar na alienação e convoque a assembleia de credores (art. 161.º, n.º 5, CIRE — legitimidade do devedor ou de credores com, pelo menos, um quinto dos créditos não subordinados, demonstrando a plausibilidade de que a alienação a outro interessado seria mais vantajosa); a intenção de alienar por negociação particular, a identidade do adquirente e as condições devem ser comunicadas com 15 dias de antecedência (art. 161.º, n.º 4, CIRE)",
+        "motivo": "Meio de reação previsto no CIRE para as alienações de especial relevo, que a ficha omitia.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0161&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- [ ] Preferências legais identificadas e notificadas",
+        "para": "- [ ] Preferências legais identificadas e notificadas (art. 165.º CIRE; art. 819.º CPC)\n- [ ] Consentimento da comissão de credores ou da assembleia obtido, se a venda for ato de especial relevo (art. 161.º CIRE)",
+        "motivo": "Base legal da notificação dos preferentes e verificação do consentimento dos credores.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0819&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Confirmar a jurisprudência sobre a aplicação do art. 824.º CC (caducidade dos direitos reais de garantia) à venda na liquidação da insolvência.",
+      "A responsabilidade do administrador da insolvência por venda abaixo do valor deve ser fundamentada no regime da responsabilidade do administrador do CIRE, a conferir.",
+      "Verificar se o preferente foi notificado para o ato de abertura de propostas ou, na negociação particular, nos termos gerais; a frustração da notificação não preclude a ação de preferência (art. 819.º, n.º 4, CPC)."
+    ],
+    "fontes": [
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0161&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0162&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0163&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0164&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0165&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0812&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0819&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0823&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1091&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1409&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+    ]
+  },
+  {
+    "codigo": "INS-050",
+    "veredicto": "corrigida",
+    "resumo": "A ficha afirmava que o art. 19.º CIRE exige deliberação prévia dos sócios (atribui a iniciativa ao órgão de administração, exigindo-se a ata desse órgão, art. 24.º, n.º 2, al. a)) e apresentava o PER e o PEAP como alternativas a uma sociedade em insolvência atual, quando o PER exclui a insolvência atual e o PEAP não serve a empresas. A lista de documentos do art. 24.º estava incompleta e incluía a identificação dos cinco maiores credores, que é menção da petição (art. 23.º, n.º 2, al. b)), e pedia só as últimas contas (são as dos três últimos exercícios). O pedido de «manutenção temporária da atividade» assentava no art. 156.º, que é deliberação da assembleia de credores; substituiu-se pelo pedido de administração pelo devedor (art. 224.º).",
+    "substituicoes": [
+      {
+        "de": "- Alternativas ainda disponíveis: PER, PEAP, negociação extrajudicial",
+        "para": "- Alternativas: só se a insolvência for meramente iminente — o PER exige empresa em situação económica difícil ou de insolvência meramente iminente e declaração de contabilista certificado ou ROC que ateste não estar em insolvência atual (art. 17.º-A, n.os 1 e 2, CIRE); o PEAP não serve a devedor que seja empresa (art. 1.º, n.º 3, CIRE); [■ VERIFICAR: pressupostos do RERE (Lei n.º 8/2018)]; a negociação extrajudicial não afasta o dever de apresentação no prazo de 30 dias, de que só está dispensada a empresa durante a suspensão das medidas de execução do PER (art. 18.º, n.º 2, al. a), CIRE)",
+        "motivo": "O PER pressupõe que a empresa não esteja em insolvência atual e o PEAP destina-se a devedores que não sejam empresas.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "presunções (passivo manifestamente superior ao ativo, art. 3.º, n.º 2, CIRE)",
+        "para": "critério próprio das pessoas coletivas (passivo manifestamente superior ao ativo, art. 3.º, n.º 2, CIRE, que cessa se o ativo for superior ao passivo segundo as regras do n.º 3); na apresentação pelo devedor, a insolvência meramente iminente equipara-se à atual (art. 3.º, n.º 4, CIRE)",
+        "motivo": "O art. 3.º, n.º 2, não é uma presunção, mas um critério alternativo de insolvência das pessoas coletivas; faltava o n.º 4.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0003&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "exposição de causas, relação de credores, lista de bens, balanço, relação de ações pendentes, identificação dos cinco maiores credores, últimas contas aprovadas",
+        "para": "relação alfabética de todos os credores (montantes, vencimentos, natureza, garantias e relações especiais), relação das ações e execuções pendentes, atividade dos últimos três anos e causas da situação, identificação dos sócios conhecidos, relação de bens (incluindo os detidos em locação ou com reserva de propriedade), contas anuais dos três últimos exercícios e respetivos relatórios, sociedades em relação de domínio ou de grupo, mapa de pessoal, comprovativo dos poderes dos administradores e ata da deliberação do órgão de administração (art. 24.º, n.os 1 e 2, CIRE); a identificação dos administradores de direito e de facto e dos cinco maiores credores e a certidão do registo comercial são da petição (art. 23.º, n.º 2, als. b) e d), CIRE)",
+        "motivo": "O art. 24.º exige as contas dos três últimos exercícios e outros documentos omitidos; os cinco maiores credores identificam-se na petição (art. 23.º, n.º 2, al. b)).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0024&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "gerente/administrador com poderes de representação (art. 19.º CIRE)",
+        "para": "gerente/administrador com poderes de representação (art. 19.º CIRE) — a iniciativa cabe ao órgão social incumbido da administração (gerência ou conselho de administração) ou, não sendo o caso, a qualquer dos administradores",
+        "motivo": "O art. 19.º atribui a iniciativa ao órgão de administração, não a um representante isolado.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0019&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Deliberação prévia dos sócios: obrigatoriedade (art. 19.º CIRE) ou desnecessidade em caso de urgência",
+        "para": "- Deliberação dos sócios: o CIRE não a exige — a iniciativa e o dever de apresentação cabem ao órgão de administração (arts. 18.º e 19.º CIRE); junta-se a ata da deliberação desse órgão, se aplicável (art. 24.º, n.º 2, al. a), CIRE)",
+        "motivo": "O art. 19.º não exige deliberação dos sócios; o art. 24.º, n.º 2, al. a), pede a ata do órgão de administração.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0024&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "tendo por objeto [objeto social].",
+        "para": "tendo por objeto [objeto social]. São seus administradores, de direito e de facto, [nomes] e os seus cinco maiores credores [identificação e domicílio] (art. 23.º, n.º 2, al. b), CIRE).",
+        "motivo": "Menção obrigatória da petição.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0023&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "conjuntura económica, etc.].",
+        "para": "conjuntura económica, etc.].\n\nA situação de insolvência é [atual / meramente iminente] (art. 23.º, n.º 2, al. a), CIRE).",
+        "motivo": "O devedor tem de indicar na petição se a insolvência é atual ou iminente.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0023&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "— Doc. 4: Últimas contas aprovadas ([exercício])",
+        "para": "— Doc. 4: Contas anuais dos três últimos exercícios ([exercícios]), com os relatórios de gestão, de fiscalização e de auditoria e a certificação legal, se obrigatórios ou existentes, e informação sobre as alterações patrimoniais significativas posteriores",
+        "motivo": "O art. 24.º, n.º 1, al. f), exige as contas dos três últimos exercícios.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0024&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "— Doc. 6: Identificação dos cinco maiores credores",
+        "para": "— Doc. 6: Identificação dos sócios conhecidos e mapa de pessoal",
+        "motivo": "Os cinco maiores credores identificam-se na petição (art. 23.º, n.º 2, al. b)); o art. 24.º exige a identificação dos sócios e o mapa de pessoal.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0024&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "— Doc. 7: Exposição das causas da situação de insolvência",
+        "para": "— Doc. 7: Documento sobre a atividade dos últimos três anos, os estabelecimentos e as causas da situação de insolvência\n— Doc. 8: Comprovativo dos poderes dos administradores e ata da deliberação do órgão de administração\n— Doc. 9: Certidão do registo comercial (art. 23.º, n.º 2, al. d), CIRE)\n— Doc. 10: Identificação das sociedades em relação de domínio ou de grupo, se for o caso",
+        "motivo": "Documentos exigidos pelos arts. 23.º, n.º 2, al. d), e 24.º, n.os 1, als. c) e i), e 2, al. a), que a lista omitia.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0024&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "c) [Se aplicável] A manutenção temporária da atividade nos termos do art. 156.º do CIRE.",
+        "para": "c) [Se aplicável] Que a administração da massa insolvente seja assegurada pelo devedor (art. 224.º do CIRE), que já apresentou ou se compromete a apresentar, no prazo de 30 dias após a sentença, plano de insolvência que preveja a continuidade da exploração da empresa por si próprio — a manutenção em atividade ou o encerramento do estabelecimento é deliberada depois pela assembleia de apreciação do relatório (art. 156.º do CIRE).",
+        "motivo": "O art. 156.º regula a deliberação da assembleia de credores; o que o devedor pode requerer na petição é a administração pelo devedor (art. 224.º).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0224&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- [ ] Prazo de 30 dias (art. 18.º CIRE) cumprido ou justificativa de urgência",
+        "para": "- [ ] Prazo de 30 dias (art. 18.º CIRE) cumprido — se excedido, ponderar a presunção de culpa grave do art. 186.º, n.º 3, al. a), CIRE",
+        "motivo": "O prazo legal não se justifica por urgência; o seu incumprimento faz presumir culpa grave dos administradores.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0186&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- [ ] Deliberação dos sócios realizada (art. 19.º CIRE) ou desnecessidade fundamentada",
+        "para": "- [ ] Ata da deliberação do órgão de administração e comprovativo dos poderes de representação juntos (art. 24.º, n.º 2, al. a), CIRE)",
+        "motivo": "O CIRE não exige deliberação dos sócios; exige a ata do órgão de administração.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0024&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Confirmar os pressupostos de acesso ao RERE (Lei n.º 8/2018) e se o regime transitório para devedores em insolvência atual já caducou.",
+      "Verificar se o contrato de sociedade contém cláusula sobre a deliberação de apresentação à insolvência e o seu valor face ao dever legal do órgão de administração.",
+      "Confirmar com o cliente se o plano de insolvência previsto para a administração pelo devedor é viável no prazo de 30 dias após a sentença."
+    ],
+    "fontes": [
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0001&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0003&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0018&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0019&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0023&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0024&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0156&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0186&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0224&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://diariodarepublica.pt/dr/detalhe/lei/8-2018-114796179"
+    ]
+  }
+]

@@ -6,7 +6,8 @@ titulo_en: "Legal Opinion on Self-Consumption and Renewable Energy Communities"
 descricao: "Elabora parecer jurídico sobre o regime de autoconsumo de energia renovável (UPAC) e as Comunidades de Energia Renovável (CER), analisando os requisitos legais, o processo de registo, os direitos e obrigações dos membros/participantes, as regras de partilha de energia e as condições de entrada/saída, ao abrigo do DL n.º 15/2022 e da regulamentação da ERSE."
 descricao_en: "Drafts a legal opinion on the renewable energy self-consumption regime (UPAC) and Renewable Energy Communities (CER), analysing the legal requirements, the registration process, the rights and obligations of members/participants, the energy-sharing rules and the conditions for joining and leaving, under Decree-Law No. 15/2022 and ERSE regulations."
 ambito: nacional
-estado_citacoes: "conferidas 0 · corrigidas 0 · por conferir 3"
+estado_citacoes: "conferidas 0 · corrigidas 0 · por conferir 21"
+revisao_tecnica: "2026-10-30 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
@@ -14,7 +15,8 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 
 > **Âmbito:** nacional · **Área:** Direito do Ambiente e Energia · **Código:** AMB-018
 > **EN:** Legal Opinion on Self-Consumption and Renewable Energy Communities. Drafts a legal opinion on the renewable energy self-consumption regime (UPAC) and Renewable Energy Communities (CER), analysing the legal requirements, the registration process, the rights and obligations of members/participants, the energy-sharing rules and the conditions for joining and leaving, under Decree-Law No. 15/2022 and ERSE regulations.
-> **Citações:** conferidas 0 · corrigidas 0 · por conferir 3. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 0 · corrigidas 0 · por conferir 21. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-30 — corrigida (5 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
 Elabora parecer jurídico sobre o regime de autoconsumo de energia renovável (UPAC) e as Comunidades de Energia Renovável (CER), analisando os requisitos legais, o processo de registo, os direitos e obrigações dos membros/participantes, as regras de partilha de energia e as condições de entrada/saída, ao abrigo do DL n.º 15/2022 e da regulamentação da ERSE.
 
@@ -24,7 +26,7 @@ Ficha de trabalho para preparar este documento. As regras da casa prevalecem sob
 
 ## Regras obrigatórias
 - NUNCA inventes tarifas, valores de remuneração ou limites técnicos
-- Base legal: DL n.º 15/2022 (RJAR) e legislação complementar; DL n.º 153/2014 alterado DL 162/2019 [■ VERIFICAR se revogados/substituídos pelo DL 15/2022]; Regulamentos ERSE sobre CER [■ VERIFICAR regulamento específico]
+- Base legal: DL n.º 15/2022 (organização e funcionamento do Sistema Elétrico Nacional), na redação atual (última alteração pelo DL n.º 130/2026, de 29 de junho), e legislação complementar; o DL n.º 153/2014 foi revogado pelo DL n.º 162/2019 (art. 31.º), por sua vez revogado pelo DL n.º 15/2022 (art. 305.º, al. n)); Regulamento do Autoconsumo da ERSE (Regulamento n.º 815/2023)
 - Diretiva (UE) 2018/2001 (RED II) — arts. 21.º (prosumers) e 22.º (CER)
 - Diretiva (UE) 2019/944 (Mercado Interno da Eletricidade) — art. 16.º (comunidades de energia dos cidadãos)
 - Marca [■ VERIFICAR: dado em falta] quando informação estiver ausente
@@ -36,9 +38,9 @@ Ficha de trabalho para preparar este documento. As regras da casa prevalecem sob
 
 ### ETAPA 1 — PROBLEMATIZAÇÃO
 Analisa em <analise_do_caso>:
-- Tipo de projeto: UPAC individual / UPAC coletivo (mesmo edifício) / CER (vários edifícios/propriedades)
+- Tipo de projeto: autoconsumo individual / autoconsumo coletivo (uma ou mais instalações de utilização, com UPAC próximas, ligadas por rede interna, linha direta e/ou RESP) / CER (pessoa coletiva autónoma)
 - Partes envolvidas: particulares / empresas / autarquias / IPSS / condomínio
-- Localização: critério de proximidade (rede partilhada) — requisito legal para CER
+- Localização: critério de proximidade — requisito legal do autoconsumo, individual ou coletivo, e da CER (arts. 83.º e 189.º, n.º 1, al. a), DL 15/2022)
 - Potência pretendida e tecnologia
 - Objetivos: redução de fatura / sustentabilidade / investimento coletivo
 - Questão de governança: quem gere a instalação? como se tomam decisões?
@@ -47,11 +49,11 @@ Analisa em <analise_do_caso>:
 
 ### ETAPA 2 — ANÁLISE JURÍDICA
 Identifica em <fundamentos_juridicos>:
-- DL n.º 15/2022 — regime UPAC e CER [■ VERIFICAR artigos específicos em vigor]
-- DL n.º 153/2014 (UPAC) — regime de base ainda relevante? [■ VERIFICAR status após DL 15/2022]
-- Requisito de proximidade para CER: definição legal e critério de rede [■ VERIFICAR regulamento ERSE]
+- DL n.º 15/2022 — controlo prévio das UPAC e titular do título (arts. 11.º e 81.º), autoconsumo coletivo, regulamento interno e EGAC (art. 86.º), partilha de energia (art. 87.º), CER (arts. 189.º e 190.º) e comunidades de cidadãos para a energia (art. 191.º)
+- DL n.º 153/2014 — revogado; só releva para a conversão em UPAC das unidades de pequena produção registadas ao seu abrigo (art. 277.º DL 15/2022)
+- Requisito de proximidade: art. 83.º DL 15/2022 (linha direta ou rede interna ou, através da RESP, distância máxima à UPAC principal ou ligação à mesma subestação, conforme o nível de tensão; distâncias em dobro nos territórios de baixa densidade)
 - Estatutos da CER: requisitos legais de constituição (associação, cooperativa, etc.)
-- Regras de partilha de energia: algoritmo de repartição [■ VERIFICAR regulamento ERSE]
+- Regras de partilha de energia: modo de partilha (coeficientes fixos ou variáveis, ou gestão dinâmica) comunicado ao operador de rede; na falta de comunicação, rateio pelo consumo medido (arts. 87.º e 189.º, n.º 7, DL 15/2022; Regulamento do Autoconsumo da ERSE)
 - RESP — regras de acesso às redes: tarifas aplicáveis a prosumers
 - Garantias de Origem para energia partilhada [■ VERIFICAR]
 - Benefícios fiscais do autoconsumo: IVA, IRC, IRS [■ VERIFICAR com fiscalista]
@@ -77,13 +79,11 @@ Projeto pretendido, partes, localização, potência
 
 **III. ANÁLISE JURÍDICA**
 
-III.1 — Distinção: UPAC Coletivo vs. Comunidade de Energia Renovável
+III.1 — Distinção: Autoconsumo Coletivo vs. Comunidade de Energia Renovável
 
-UPAC Coletivo: produção e consumo no mesmo edifício ou instalação;
-partilha interna sem necessidade de RESP
+Autoconsumo coletivo (ACC): autoconsumidores de uma ou mais instalações de utilização, com a(s) UPAC nessas instalações ou na sua proximidade, ligadas por rede interna, linha direta e/ou através da RESP (art. 3.º, al. f), e art. 83.º DL 15/2022); não exige pessoa coletiva, mas um regulamento interno carregado na plataforma eletrónica e a designação de uma EGAC (art. 86.º)
 
-CER: produção num local, consumo noutro(s); ligação através da RESP;
-exige registo da CER e algoritmo de partilha aprovado pela ERSE [■ VERIFICAR]
+CER: pessoa coletiva autónoma, de adesão aberta e voluntária, controlada pelos membros ou participantes localizados na proximidade dos projetos, que detém e desenvolve esses projetos e tem por objetivo principal benefícios ambientais, económicos e sociais, e não lucros financeiros (art. 189.º, n.º 1, DL 15/2022); exerce as funções da EGAC (art. 86.º, n.º 4) e aplicam-se-lhe as regras do ACC (art. 190.º); o modo de partilha é escolhido pelos membros e comunicado ao operador de rede, sem aprovação da ERSE, que regula a matéria (arts. 87.º e 189.º, n.º 7)
 
 III.2 — Requisitos de Constituição da CER
 - Personalidade jurídica recomendada (associação / cooperativa / sociedade)
@@ -156,6 +156,24 @@ Apresenta em <checklist_validacao>:
 
 | Citação | Estado | Nota |
 |---|---|---|
+| art. 31.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 305.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | arts. 21.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | arts. 21.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 16.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| arts. 83.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| arts. 11.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 86.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 86.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 86.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 87.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| arts. 189.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 191.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 277.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 83.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 83.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| arts. 87.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| arts. 87.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 3.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 189.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 190.º | por conferir [■ VERIFICAR] | diploma não identificado |

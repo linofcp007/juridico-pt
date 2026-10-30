@@ -1,0 +1,203 @@
+[
+  {
+    "codigo": "FIS-032",
+    "triagem": "rever",
+    "gravidade": "alta",
+    "motivos": [
+      "A graduação de créditos na execução fiscal não é feita pelo órgão de execução fiscal: depois da reclamação de créditos (art. 240.º e ss. CPPT) o processo é remetido ao tribunal tributário, que verifica e gradua os créditos por sentença. A peça «reclamação da graduação» dirigida ao Chefe do Serviço de Finanças, com prazo de 15 dias, está construída sobre o meio errado (o meio de reação à graduação é o recurso da sentença; o prazo de 15 dias é o da reclamação de créditos após a citação).",
+      "Regra contrária à lei: afirma que a hipoteca registada antes do privilégio imobiliário especial do Estado prevalece (art. 751.º CC). O art. 751.º CC diz o contrário: os privilégios imobiliários especiais (p. ex. o do IMI, art. 744.º CC) prevalecem sobre a hipoteca, ainda que anterior. A hipoteca anterior só prevalece sobre o privilégio imobiliário geral (art. 748.º CC).",
+      "Qualifica o art. 748.º CC como privilégio imobiliário «especial» (é o geral) e diz que o privilégio mobiliário geral (art. 736.º CC) «prevalece sobre a hipoteca», o que não faz sentido (incidem sobre bens diferentes, móveis e imóveis).",
+      "Remete para o art. 30.º, n.º 3, LGT como fonte de privilégios, o que a própria ficha reconhece estar errado (a ficha já traz [VERIFICAR])."
+    ]
+  },
+  {
+    "codigo": "FIS-034",
+    "triagem": "rever",
+    "gravidade": "alta",
+    "motivos": [
+      "IVA mensal: indica a declaração periódica e o pagamento até ao dia 20 do 2.º mês seguinte. O art. 41.º CIVA fixa a declaração até ao dia 10 do 2.º mês e o pagamento até ao dia 15 do 2.º mês (a confirmar no calendário em vigor).",
+      "IVA trimestral: dá o mesmo prazo à declaração e ao pagamento. A declaração é até ao dia 15 do 2.º mês seguinte ao trimestre, mas o pagamento tem prazo próprio (dia 25 do 2.º mês; a confirmar).",
+      "IES: indica «até ao último dia de junho» e trata-a como Modelo 22 + anexos. O prazo legal da IES é 15 de julho (art. 121.º CIRC) e é uma declaração autónoma do Modelo 22.",
+      "Modelo 10: indica «até ao final de janeiro»; o prazo legal (art. 119.º CIRS) era o fim de fevereiro (a confirmar o prazo em vigor).",
+      "Apresenta o pagamento especial por conta (PEC, março/outubro) como obrigação em vigor; foi extinto com o OE 2023 (a confirmar). Menciona também «regime simplificado de IRC», extinto em 2014."
+    ]
+  },
+  {
+    "codigo": "FIS-035",
+    "triagem": "ok"
+  },
+  {
+    "codigo": "FIS-036",
+    "triagem": "ok"
+  },
+  {
+    "codigo": "FIS-038",
+    "triagem": "ok"
+  },
+  {
+    "codigo": "FIS-039",
+    "triagem": "ok"
+  },
+  {
+    "codigo": "FIS-040",
+    "triagem": "ok"
+  },
+  {
+    "codigo": "FIS-041",
+    "triagem": "rever",
+    "gravidade": "baixa",
+    "motivos": [
+      "RFAI: taxas «25%/10% grandes empresas; 30%/15% PME» e reporte de 8 anos podem estar errados. O art. 23.º CFI fixa uma dedução à coleta por escalões (25%, depois 30% na redação mais recente, até 15 M€; 10% acima) e o reporte do RFAI é de 10 períodos (os 8 anos são os do SIFIDE) (a confirmar).",
+      "O RFAI é um benefício automático (aplica-se por declaração, sem requerimento de reconhecimento prévio); só o SIFIDE exige candidatura/certificação (ANI). A ficha trata os dois como «requerimento de reconhecimento»."
+    ]
+  },
+  {
+    "codigo": "FIS-042",
+    "triagem": "rever",
+    "gravidade": "media",
+    "motivos": [
+      "Diz que o RFAI e o SIFIDE «reduzem a base» antes de calcular a derrama. São deduções à coleta de IRC (art. 90.º CIRC), não reduzem o lucro tributável sobre o qual incide a derrama estadual (art. 87.º-A CIRC) nem a municipal. Só os benefícios que reduzem o lucro tributável (p. ex. a majoração do art. 19.º EBF) têm esse efeito.",
+      "RETGS: afirma que a derrama estadual é calculada sobre o lucro tributável individual de cada sociedade (art. 87.º-A, n.º 6). Em RETGS a derrama estadual incide sobre o lucro tributável do grupo (art. 70.º CIRC) e só a municipal é apurada por sociedade (a confirmar).",
+      "Derrama municipal em vários municípios: diz que o lucro se reparte pelo volume de negócios; a Lei n.º 73/2013 manda repartir pela massa salarial (a confirmar)."
+    ]
+  },
+  {
+    "codigo": "FIS-043",
+    "triagem": "rever",
+    "gravidade": "alta",
+    "motivos": [
+      "Taxas de tributação autónoma de viaturas ligeiras de passageiros (10%/27,5%/35%, com escalões de 25.000 € e 35.000 €) são as anteriores ao OE 2023. A redação em vigor do art. 88.º, n.º 3, CIRC usa escalões de 37.500 € e 45.000 € e taxas de 8%/25%/32% (híbridos plug-in e elétricos têm taxas próprias); a confirmar os valores vigentes em 2026.",
+      "Um recálculo da reclamação com as taxas antigas produziria um pedido errado."
+    ]
+  },
+  {
+    "codigo": "FIS-044",
+    "triagem": "rever",
+    "gravidade": "alta",
+    "motivos": [
+      "Inverte o regime do art. 24.º, n.º 1, LGT. Na al. a) (dívidas cujo facto constitutivo ocorreu no período do cargo, ou cujo prazo terminou depois) é a AT que tem de provar a culpa do gerente na insuficiência do património; é na al. b) (prazo de pagamento terminado no período do cargo) que a culpa se presume e o gerente tem de provar que não lhe é imputável.",
+      "A ficha atribui a presunção de culpa à al. a) e descreve a al. b) como «dívidas vencidas após cessação de funções», o que não corresponde ao texto. O gerente não responde por dívidas cujo facto constitutivo e prazo de pagamento sejam ambos posteriores à cessação de funções. Uma oposição construída sobre esta distribuição do ónus da prova erra a estratégia.",
+      "A petição de oposição é apresentada no órgão de execução fiscal (que a remete ao tribunal), não diretamente ao TAF; convém confirmar a forma de entrega."
+    ]
+  },
+  {
+    "codigo": "FIS-045",
+    "triagem": "rever",
+    "gravidade": "baixa",
+    "motivos": [
+      "Apresenta como exceção ao prazo de caducidade de 4 anos um prazo de «12 anos (crimes fiscais — art. 45.º, n.º 3, LGT)». O alargamento do prazo de caducidade previsto no art. 45.º LGT é para situações específicas (p. ex. rendimentos ou contas em países ou territórios com regime fiscal claramente mais favorável) e não decorre da existência de crime fiscal (a confirmar).",
+      "Causas de interrupção e suspensão da prescrição (art. 49.º LGT): a lista da ficha mistura as duas (a oposição e a reclamação/impugnação não têm o mesmo efeito); a confirmar no texto em vigor."
+    ]
+  },
+  {
+    "codigo": "FIS-046",
+    "triagem": "rever",
+    "gravidade": "alta",
+    "motivos": [
+      "Instituto que não existe no direito português: uma «isenção de Imposto do Selo para empresa familiar (art. 60.º EBF)» com requisitos de detenção há 5 anos, gestão pelo beneficiário e PME. O EBF não prevê tal isenção, que parece importada de outros ordenamentos. As transmissões gratuitas a cônjuge, descendentes e ascendentes já estão isentas (art. 6.º, al. e), CIS) e as outras pagam 10% (verba 1.2 TGIS).",
+      "Todo o parecer (etapa 4, secção III e checklist) assenta nesta isenção inexistente.",
+      "Doação de quotas ou ações: dizer que o beneficiário herda o valor de aquisição «tributado em IS» é incorreto quando há isenção de IS; nesse caso mantém-se o valor de aquisição do transmitente (a confirmar)."
+    ]
+  },
+  {
+    "codigo": "FIS-047",
+    "triagem": "ok"
+  },
+  {
+    "codigo": "FIS-048",
+    "triagem": "rever",
+    "gravidade": "media",
+    "motivos": [
+      "A revisão por injustiça grave ou notória (art. 78.º, n.º 4, LGT, prazo de 3 anos) é decidida pelo dirigente máximo do serviço (Diretor-Geral da AT), não depende de «autorização do Ministro das Finanças» (a confirmar a redação em vigor).",
+      "Mistura os n.os do art. 78.º, n.º 1, LGT: a revisão por iniciativa do sujeito passivo faz-se no prazo da reclamação (120 dias) com qualquer ilegalidade; a revisão por iniciativa da AT faz-se no prazo de 4 anos por erro imputável aos serviços, ou a todo o tempo apenas se o tributo ainda não estiver pago. A ficha diz «a todo o tempo» sem a condição do não pagamento.",
+      "A ficha apresenta o pedido do contribuinte «no prazo de 4 anos» como regra legal do n.º 1; o prazo resulta da aplicação conjugada da jurisprudência do STA ao pedido de revisão oficiosa (convém referir a fonte)."
+    ]
+  },
+  {
+    "codigo": "FIS-049",
+    "triagem": "ok"
+  },
+  {
+    "codigo": "FIS-050",
+    "triagem": "rever",
+    "gravidade": "alta",
+    "motivos": [
+      "Regime de transparência fiscal (art. 6.º CIRC) apresentado na versão anterior à reforma do IRC de 2014 (Lei n.º 2/2014): inclui as sociedades de simples administração de bens e a sociedade de profissionais com o critério «75% dos rendimentos / maioria dos sócios».",
+      "Na redação em vigor, as sociedades de simples administração de bens saíram do regime e as sociedades de profissionais são definidas de outra forma (atividade da lista do art. 151.º CIRS, sócios pessoas singulares da mesma profissão) e podem optar pelo regime geral (a confirmar).",
+      "A qualificação em IRS (art. 20.º CIRS) depende da natureza do rendimento imputado; a ficha limita-se à categoria B."
+    ]
+  },
+  {
+    "codigo": "FIS-051",
+    "triagem": "rever",
+    "gravidade": "alta",
+    "motivos": [
+      "Prazo de reclamação: indica 30 dias a contar da notificação da liquidação do AIMI. A reclamação graciosa de liquidação de AIMI segue o CPPT: 120 dias a contar do termo do prazo de pagamento voluntário (art. 70.º CPPT); o prazo de 30 dias não existe para este caso. Repete o erro na etapa 3 e no checklist.",
+      "Incidência do AIMI: o imposto incide sobre prédios urbanos habitacionais e terrenos para construção; os prédios comerciais, industriais ou de serviços não estão na incidência. A ficha trata-os como «excluídos por afetação», com prova da atividade exercida no prédio, o que confunde a classificação do prédio (art. 6.º CIMI) com a afetação ao uso (a confirmar o alcance do art. 135.º-B, n.º 2, CIMI)."
+    ]
+  },
+  {
+    "codigo": "FIS-052",
+    "triagem": "rever",
+    "gravidade": "media",
+    "motivos": [
+      "Montante da garantia: calcula-o como dívida + juros de mora estimados a 18 meses + 10% de encargos, citando o art. 199.º CPPT. O art. 199.º CPPT manda garantir a dívida exequenda, os juros de mora e as custas, com o acréscimo de 25% do valor da dívida para juros e custas; os 18 meses e os 10% não têm base na lei (a confirmar).",
+      "A garantia calculada abaixo do legal pode ser recusada pelo órgão de execução fiscal e a execução não se suspende."
+    ]
+  },
+  {
+    "codigo": "FIS-053",
+    "triagem": "rever",
+    "gravidade": "media",
+    "motivos": [
+      "Verba 17.1 TGIS: indica «0,04% por trimestre» para crédito até 1 ano. A taxa de 0,04% é por mês ou fração (verba 17.1.1), pelo que o cálculo sai muito abaixo do correto.",
+      "Chama «sujeito ativo» do IS à entidade financiadora; o sujeito ativo é o Estado e a financiadora é o sujeito passivo (art. 2.º CIS).",
+      "Os requisitos da isenção do art. 7.º, n.º 1, al. g), CIS são apresentados como (i) 75% (ii) 1 ano (iii) financiadora tem de ser a dominante; o desenho exato (incluindo se abrange o financiamento da dominada à dominante e entre sociedades irmãs, e as exclusões) deve ser confirmado no texto em vigor.",
+      "A verba 17.3 TGIS é das garantias, não da «abertura de crédito» (a confirmar)."
+    ]
+  },
+  {
+    "codigo": "FIS-054",
+    "triagem": "rever",
+    "gravidade": "alta",
+    "motivos": [
+      "Prazo da defesa: indica 30 dias (art. 70.º RGIT). O art. 70.º RGIT concede 10 dias, contados da notificação, para o arguido apresentar defesa e juntar prova (a confirmar). Repete o erro na etapa 1 e no checklist; seguir a ficha pode fazer perder o prazo.",
+      "Coimas indicadas: «15% a 50%» do imposto (art. 114.º, n.º 2, RGIT), «€300 a €22.500» (art. 116.º) e «€375 a €22.500» (art. 119.º) não correspondem com segurança às molduras do RGIT e o art. 119.º trata do incumprimento de obrigações acessórias, não de «falsas declarações»; conferir molduras no RGIT em vigor."
+    ]
+  },
+  {
+    "codigo": "FIS-055",
+    "triagem": "ok"
+  },
+  {
+    "codigo": "FIS-056",
+    "triagem": "rever",
+    "gravidade": "media",
+    "motivos": [
+      "Apresenta o «regime especial das SGPS (art. 32.º EBF, SGPS registadas antes de 2003)», com mais-valias e menos-valias que «não relevam» e encargos financeiros não dedutíveis. O regime especial das SGPS foi eliminado com a reforma do IRC de 2014 (Lei n.º 2/2014): as SGPS usam o regime geral dos arts. 51.º e 51.º-C CIRC; a referência a «SGPS registadas antes de 2003» não tem base conhecida (a confirmar).",
+      "Requisitos do art. 51.º CIRC descritos como «participada residente em Portugal ou em EM com CDT»: o requisito legal é a sujeição e não isenção a imposto idêntico ao IRC com taxa não inferior a 60% da taxa do IRC e a não residência em território com regime fiscal claramente mais favorável; não exige CDT."
+    ]
+  },
+  {
+    "codigo": "FIS-057",
+    "triagem": "rever",
+    "gravidade": "alta",
+    "motivos": [
+      "Regras sem base legal, algumas já marcadas pela própria ficha com [VERIFICAR]: «taxa agravada de 35% para contratos não comunicados» (art. 72.º, n.º 8, CIRS) e «limite de 15% das despesas de conservação se imóvel não comunicado» (art. 41.º, n.º 2). Não se conhece nenhuma das duas regras; a falta de comunicação do contrato gera contraordenação, não uma taxa de 35%.",
+      "Lista de deduções do art. 41.º CIRS inclui juros de empréstimos, seguros e rendas de leasing. O art. 41.º CIRS exclui os gastos de natureza financeira e as depreciações e não prevê a dedução de juros do empréstimo; as deduções aceites são IMI, taxas autárquicas, condomínio, conservação e manutenção.",
+      "Taxas dos arrendamentos de longa duração (28%/26%/23%/14%) são as do regime até 2023; deve confirmar-se o regime em vigor em 2026 (a taxa geral do arrendamento habitacional foi reduzida a partir do OE 2026; a confirmar)."
+    ]
+  },
+  {
+    "codigo": "FIS-058",
+    "triagem": "ok"
+  },
+  {
+    "codigo": "FIS-059",
+    "triagem": "rever",
+    "gravidade": "baixa",
+    "motivos": [
+      "Afirma que a omissão do direito de audição «causa nulidade do ato». A jurisprudência do STA trata a preterição da audição prévia como vício de forma que gera anulabilidade (preterição de formalidade essencial), não nulidade; a peça não deve invocar nulidade (a confirmar)."
+    ]
+  }
+]

@@ -1,0 +1,460 @@
+[
+ {
+  "codigo": "COM-035",
+  "veredicto": "corrigida",
+  "resumo": "A ficha trocava os números do art. 240.º CSC e inflacionava as causas de exoneração (qualquer alteração do pacto, fusão, cisão e transformação), contava os 90 dias da deliberação e admitia o sócio ausente. Corrigi as causas, o voto expresso contra, a liberação das quotas, o prazo contado do conhecimento (n.º 3), o dever de a sociedade amortizar ou adquirir em 30 dias sob pena de dissolução por via administrativa (n.º 4) e a contrapartida do art. 105.º, n.º 2, CSC, fixada por revisor oficial de contas e paga em duas prestações. A petição passou a dirigir-se ao juízo de comércio, com o meio processual assinalado para confirmar.",
+  "descricao": "Gera a declaração de exoneração de sócio de sociedade por quotas, fundamentada numa causa de exoneração do art. 240.º do CSC (aumento de capital subscrito por terceiros, mudança do objeto, prorrogação da sociedade, transferência da sede para o estrangeiro, entre outras), e petição inicial quando a sociedade recusa reconhecer o direito ou não paga a contrapartida.",
+  "descricao_en": "Generates a member's declaration of withdrawal (exoneração) from a private limited company, based on a ground for withdrawal under Article 240 CSC (capital increase subscribed by third parties, change of corporate object, extension of the company's duration, transfer of the registered office abroad, among others), and a statement of claim where the company refuses to recognise the right or does not pay the consideration.",
+  "substituicoes": [
+   {
+    "de": "- PRAZO: 90 dias a contar da deliberação (art. 240/2 CSC) — verificar sempre antes de qualquer diligência",
+    "para": "- PRAZO: 90 dias seguintes ao conhecimento do facto que atribui o direito de exoneração (art. 240.º, n.º 3, CSC) — verificar sempre antes de qualquer diligência; na fusão, na cisão e na transformação, quando a lei ou o contrato atribuam o direito, o prazo é de um mês a contar da deliberação (arts. 105.º, n.º 1, 120.º e 137.º, n.º 1, CSC)",
+    "motivo": "O n.º 2 do art. 240.º CSC exige quotas liberadas; o prazo de 90 dias está no n.º 3 e conta-se do conhecimento do facto, não da deliberação; fusão, cisão e transformação têm prazo próprio de um mês.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0240&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Qual a causa de exoneração invocada? (art. 240/1 CSC: alteração do pacto, mudança do objeto, prorrogação, fusão/cisão, ou outras previstas no pacto social)",
+    "para": "- Qual a causa de exoneração invocada? (art. 240.º, n.º 1, CSC: casos previstos na lei ou no contrato e, contra o voto expresso do sócio, aumento de capital a subscrever total ou parcialmente por terceiros, mudança do objeto social, prorrogação da sociedade, transferência da sede para o estrangeiro ou regresso à atividade da sociedade dissolvida; ou não exclusão de sócio havendo justa causa. A fusão, a cisão e a transformação só dão direito de exoneração quando a lei ou o contrato o atribuam: arts. 105.º, 120.º e 137.º CSC)",
+    "motivo": "O art. 240.º, n.º 1, CSC não prevê a exoneração por qualquer alteração do pacto nem por fusão ou cisão; enumera causas fechadas, e a fusão, cisão e transformação regem-se pelos arts. 105.º, 120.º e 137.º CSC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0240&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Data da deliberação que originou o direito: está dentro do prazo de 90 dias?\n- O sócio votou contra a deliberação ou esteve ausente?",
+    "para": "- Data em que o sócio teve conhecimento do facto que lhe atribui o direito: está dentro dos 90 dias (art. 240.º, n.º 3, CSC)?\n- O sócio votou expressamente contra a deliberação? (o art. 240.º, n.º 1, alínea a), CSC exige o voto expresso contra; a ausência ou a abstenção não bastam, salvo outra causa legal ou contratual)\n- As quotas do sócio estão inteiramente liberadas? (art. 240.º, n.º 2, CSC)",
+    "motivo": "A exoneração do art. 240.º, n.º 1, CSC depende do voto expresso contra (não basta a ausência) e da liberação integral das quotas (n.º 2); o prazo conta-se do conhecimento.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0240&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Valor da quota: calculado pela data do exercício do direito — quem avalia?",
+    "para": "- Contrapartida: calculada nos termos do art. 105.º, n.º 2, CSC, com referência à data em que o sócio declara à sociedade a intenção de se exonerar (art. 240.º, n.º 5, CSC) — há acordo sobre o valor ou sobre o revisor oficial de contas que o fixa?",
+    "motivo": "O art. 240.º, n.º 5, CSC remete para o art. 105.º, n.º 2, CSC: avaliação por revisor oficial de contas designado por acordo ou pela respetiva Ordem.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0105&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Art. 240/1 CSC — causas legítimas de exoneração: deliberação de alteração do pacto social que o sócio não aproveu; fusão ou cisão; prorrogação da duração da sociedade; transformação da sociedade; outras causas previstas no pacto\n- Art. 240/2 CSC — prazo de 90 dias contado da deliberação\n- Art. 240/3 CSC — requerimento dirigido à sociedade\n- Art. 240/4 CSC — valor da quota calculado à data do exercício do direito\n- Art. 240/5 CSC — processo de avaliação da quota se não houver acordo",
+    "para": "- Art. 240.º, n.º 1, CSC — causas de exoneração: as previstas na lei ou no contrato e, contra o voto expresso do sócio, a deliberação de aumento de capital a subscrever total ou parcialmente por terceiros, de mudança do objeto social, de prorrogação da sociedade, de transferência da sede para o estrangeiro ou de regresso à atividade da sociedade dissolvida (alínea a)); e, havendo justa causa de exclusão de um sócio, a sociedade não deliberar excluí-lo ou não promover a sua exclusão judicial (alínea b))\n- Arts. 105.º, n.º 1, 120.º e 137.º, n.º 1, CSC — na fusão, na cisão e na transformação, o direito de exoneração só existe se a lei ou o contrato o atribuírem ao sócio que votou contra, e exerce-se no prazo de um mês a contar da deliberação\n- Art. 240.º, n.º 2, CSC — a exoneração só pode ter lugar se estiverem inteiramente liberadas todas as quotas do sócio\n- Art. 240.º, n.º 3, CSC — declaração escrita à sociedade da intenção de se exonerar, nos 90 dias seguintes ao conhecimento do facto que atribui o direito\n- Art. 240.º, n.º 4, CSC — recebida a declaração, a sociedade deve, em 30 dias, amortizar a quota, adquiri-la ou fazê-la adquirir por sócio ou terceiro, sob pena de o sócio poder requerer a dissolução da sociedade por via administrativa\n- Art. 240.º, n.º 5, CSC — contrapartida calculada nos termos do art. 105.º, n.º 2, CSC (critérios do art. 1021.º CC; revisor oficial de contas designado por mútuo acordo ou, na falta deste, pela Ordem dos Revisores Oficiais de Contas), com referência à data da declaração; pagamento em duas prestações, dentro de seis meses e de um ano após a fixação definitiva da contrapartida (art. 235.º, n.º 1, alínea b), CSC)\n- Art. 240.º, n.os 6 a 8, CSC — dissolução por via administrativa se a contrapartida não puder ser paga ou se o adquirente não a pagar; o contrato não pode fixar valor inferior ao do n.º 5 nos casos de exoneração previstos na lei",
+    "motivo": "Os números do art. 240.º CSC estavam trocados e as causas inflacionadas: o n.º 2 trata da liberação das quotas, o n.º 3 do prazo e da declaração, o n.º 4 do dever de amortizar ou adquirir em 30 dias e o n.º 5 da contrapartida.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0240&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Fase 2 (se recusa ou silêncio): ação judicial para reconhecimento do direito e determinação do valor",
+    "para": "- Fase 2: se, em 30 dias, a sociedade não amortizar a quota nem a adquirir ou fizer adquirir, o sócio pode requerer a dissolução da sociedade por via administrativa (art. 240.º, n.º 4, CSC); se a sociedade negar o próprio direito ou a contrapartida não for paga, ação judicial no juízo de comércio (art. 128.º, n.º 1, alínea c), da LOSJ) [■ VERIFICAR: meio processual adequado ao caso concreto]",
+    "motivo": "A consequência legal da inércia da sociedade é a dissolução por via administrativa (art. 240.º, n.º 4, CSC); as ações relativas ao exercício de direitos sociais cabem aos juízos de comércio.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1974A0128&nid=1974&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Necessidade de peritagem para avaliação da quota?",
+    "para": "- Avaliação da quota por revisor oficial de contas (art. 105.º, n.º 2, ex vi art. 240.º, n.º 5, CSC) e eventual segunda avaliação nos termos do CPC (art. 105.º, n.º 3, CSC)?",
+    "motivo": "A lei não prevê peritagem judicial direta: a contrapartida é fixada por revisor oficial de contas, com segunda avaliação nos termos do CPC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0105&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "O ora declarante votou contra a referida deliberação. [■ VERIFICAR: registo na ata ou notificação do ausente]",
+    "para": "O ora declarante votou expressamente contra a referida deliberação. [■ VERIFICAR: voto contra registado na ata]",
+    "motivo": "O art. 240.º, n.º 1, CSC exige o voto expresso contra; o sócio ausente não tem este direito.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0240&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "O presente requerimento é apresentado dentro do prazo de 90 dias a contar da deliberação de [data], nos termos do art. 240.º/2 do CSC. [■ VERIFICAR: calcular prazo exato]",
+    "para": "A presente declaração é feita por escrito dentro dos 90 dias seguintes ao conhecimento, pelo declarante, da deliberação de [data], nos termos do art. 240.º, n.º 3, do CSC. As quotas do declarante estão inteiramente liberadas (art. 240.º, n.º 2, do CSC). [■ VERIFICAR: calcular prazo exato e data do conhecimento]",
+    "motivo": "O prazo está no n.º 3 do art. 240.º CSC e conta-se do conhecimento do facto; o n.º 2 exige a liberação das quotas.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0240&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "Nos termos do art. 240.º/4 do CSC, o ora declarante tem direito a receber o valor real da sua quota, calculado à data do presente exercício do direito de exoneração.\n\nSolicita-se que a sociedade comunique, no prazo de 30 dias, o valor que reconhece à quota e as condições de pagamento, para efeito de acordo extrajudicial.\n\nNa falta de acordo, o declarante reserva o direito de requerer ao tribunal a determinação do valor por peritagem.",
+    "para": "Nos termos do art. 240.º, n.º 5, do CSC, o ora declarante tem direito a receber a contrapartida calculada nos termos do art. 105.º, n.º 2, do mesmo Código, com referência à data da presente declaração.\n\nNos termos do art. 240.º, n.º 4, do CSC, a sociedade deve, no prazo de 30 dias a contar da receção desta declaração, amortizar a quota, adquiri-la ou fazê-la adquirir por sócio ou terceiro, sob pena de o declarante poder requerer a dissolução da sociedade por via administrativa. Solicita-se que, no mesmo prazo, a sociedade comunique a opção tomada, o valor que reconhece à quota e as condições de pagamento.\n\nNa falta de acordo quanto ao valor, este é fixado por revisor oficial de contas designado por mútuo acordo ou, na falta deste, pela Ordem dos Revisores Oficiais de Contas, a solicitação de qualquer dos interessados (art. 105.º, n.º 2, do CSC), podendo qualquer das partes requerer segunda avaliação nos termos do Código de Processo Civil (art. 105.º, n.º 3, do CSC).",
+    "motivo": "A contrapartida está no n.º 5 (não no n.º 4) do art. 240.º CSC; o n.º 4 impõe à sociedade amortizar ou adquirir a quota em 30 dias; a avaliação é feita por revisor oficial de contas (art. 105.º, n.os 2 e 3, CSC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0240&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "**FASE 2 — PETIÇÃO INICIAL (se a sociedade recusar ou não responder)**",
+    "para": "**FASE 2 — PETIÇÃO INICIAL (se a sociedade negar o direito ou não pagar a contrapartida; se apenas não amortizar nem adquirir a quota em 30 dias, ponderar antes a dissolução por via administrativa — art. 240.º, n.º 4, do CSC)**",
+    "motivo": "A lei dá ao sócio, perante a inércia da sociedade, o pedido de dissolução por via administrativa.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0240&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "**EXCELENTÍSSIMO(A) SENHOR(A) JUIZ(A) DO TRIBUNAL JUDICIAL DA COMARCA DE [...]**",
+    "para": "**EXCELENTÍSSIMO(A) SENHOR(A) JUIZ(A) DO TRIBUNAL JUDICIAL DA COMARCA DE [...] — JUÍZO DE COMÉRCIO DE [...]**",
+    "motivo": "As ações relativas ao exercício de direitos sociais são da competência dos juízos de comércio (art. 128.º, n.º 1, alínea c), LOSJ).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1974A0128&nid=1974&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "3. Em [data], o(a) Autor(a) enviou à Ré o requerimento de exoneração (doc. em anexo), dentro do prazo de 90 dias.",
+    "para": "3. Em [data], o(a) Autor(a) declarou por escrito à Ré a intenção de se exonerar (doc. em anexo), nos 90 dias seguintes ao conhecimento da deliberação (art. 240.º, n.º 3, do CSC).",
+    "motivo": "O prazo de 90 dias conta-se do conhecimento do facto e a exoneração exerce-se por declaração escrita (art. 240.º, n.º 3, CSC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0240&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "4. A Ré [recusou reconhecer o direito / não respondeu no prazo de 30 dias / propôs valor manifestamente insuficiente de € X — VERIFICAR].",
+    "para": "4. A Ré [recusou reconhecer o direito / não amortizou a quota, nem a adquiriu ou fez adquirir, no prazo de 30 dias (art. 240.º, n.º 4, do CSC) / não pagou a contrapartida fixada de € X]. [■ VERIFICAR: situação concreta]",
+    "motivo": "O dever da sociedade nos 30 dias é amortizar ou adquirir a quota, não apenas responder (art. 240.º, n.º 4, CSC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0240&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "recebendo o valor real da quota.\n\n6. Requer-se a fixação do valor por peritagem judicial.",
+    "para": "recebendo a contrapartida calculada nos termos dos arts. 240.º, n.º 5, e 105.º, n.º 2, do CSC.\n\n6. [■ VERIFICAR: se o valor ainda não estiver fixado, a avaliação cabe a revisor oficial de contas (art. 105.º, n.º 2, do CSC); a avaliação judicial de participações sociais segue o processo dos arts. 1068.º e 1069.º CPC — confirmar o meio processual e a alternativa da dissolução por via administrativa (art. 240.º, n.º 4, do CSC)]",
+    "motivo": "A contrapartida é fixada por revisor oficial de contas (art. 105.º, n.º 2, CSC); a avaliação judicial de participações sociais tem processo próprio no CPC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A1068&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "b) Seja determinado o valor real da quota por peritagem judicial;\nc) Seja a Ré condenada a pagar ao(à) Autor(a) o valor apurado, acrescido de juros legais desde a data do requerimento de exoneração;",
+    "para": "b) Seja fixado o valor da contrapartida, calculado nos termos dos arts. 240.º, n.º 5, e 105.º, n.º 2, do CSC, com referência à data da declaração de exoneração [■ VERIFICAR: se já não estiver fixado por revisor oficial de contas];\nc) Seja a Ré condenada a pagar ao(à) Autor(a) a contrapartida apurada, nos prazos do art. 235.º, n.º 1, alínea b), do CSC (seis meses e um ano após a fixação definitiva), acrescida de juros de mora desde o vencimento de cada prestação [■ VERIFICAR: devedor da contrapartida — a sociedade, se amortizar; o adquirente, se a quota for adquirida (art. 240.º, n.º 7, do CSC)];",
+    "motivo": "O pagamento da contrapartida é fracionado em duas prestações após a fixação definitiva (art. 240.º, n.º 5, e art. 235.º, n.º 1, alínea b), CSC); os juros não correm desde a declaração.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0235&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] PRAZO: 90 dias contados da deliberação — verificar antes de qualquer diligência",
+    "para": "- [ ] PRAZO: 90 dias seguintes ao conhecimento do facto (art. 240.º, n.º 3, CSC); um mês a contar da deliberação na fusão, cisão ou transformação (arts. 105.º, n.º 1, e 137.º, n.º 1, CSC) — verificar antes de qualquer diligência",
+    "motivo": "O prazo de 90 dias conta-se do conhecimento do facto; na fusão, cisão e transformação é de um mês.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0240&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Registo do voto contra ou comunicação ao ausente documentado",
+    "para": "- [ ] Voto expresso contra registado em ata e quotas inteiramente liberadas (art. 240.º, n.os 1 e 2, CSC)",
+    "motivo": "O ausente não tem direito de exoneração pelo art. 240.º, n.º 1, CSC; falta o requisito da liberação das quotas.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0240&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Pedido de avaliação por peritagem incluído",
+    "para": "- [ ] Avaliação da contrapartida por revisor oficial de contas acautelada (art. 105.º, n.º 2, CSC) e registo da exoneração pedido (art. 3.º, n.º 1, alínea i), do Código do Registo Comercial)",
+    "motivo": "A avaliação cabe a revisor oficial de contas; a exoneração de sócio de sociedade por quotas está sujeita a registo.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=506&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Voto do sócio: [contra / ausente — data de notificação]",
+    "para": "- Voto do sócio: [contra, expresso na ata] e data em que teve conhecimento da deliberação: [data]\n- Quotas inteiramente liberadas: [sim / não]",
+    "motivo": "Só o voto expresso contra confere o direito (art. 240.º, n.º 1, CSC); o prazo conta-se do conhecimento e exige-se a liberação das quotas.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0240&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [alteração do pacto / mudança do objeto / prorrogação / fusão / cisão / transformação / outra prevista no pacto]",
+    "para": "- [aumento de capital a subscrever por terceiros / mudança do objeto / prorrogação / transferência da sede para o estrangeiro / regresso à atividade / não exclusão de sócio havendo justa causa / fusão, cisão ou transformação, se a lei ou o contrato atribuírem o direito (arts. 105.º e 137.º CSC) / outra prevista na lei ou no pacto]",
+    "motivo": "Lista de causas alinhada com o art. 240.º, n.º 1, CSC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0240&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar o meio processual da fase judicial: dissolução por via administrativa (art. 240.º, n.º 4, CSC), ação declarativa no juízo de comércio ou processo de liquidação de participações sociais (arts. 1068.º e 1069.º CPC).",
+   "Confirmar quem é o devedor da contrapartida (sociedade que amortiza ou adquirente da quota) e o vencimento das prestações (art. 235.º, n.º 1, alínea b), CSC).",
+   "Verificar se o pacto prevê causas adicionais de exoneração ou critério de cálculo, que não pode ser inferior ao legal nos casos de exoneração previstos na lei (art. 240.º, n.º 8, CSC).",
+   "Requerer o registo da exoneração e da amortização ou transmissão da quota (art. 3.º, n.º 1, alíneas c) e i), do Código do Registo Comercial)."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0240&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0105&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0120&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0137&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0235&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1974A0128&nid=1974&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A1068&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=506&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+  ]
+ },
+ {
+  "codigo": "COM-049",
+  "veredicto": "corrigida",
+  "resumo": "A ficha fundava o dever de comunicar o conflito e a autorização de negócios com o gerente no art. 254.º CSC, que é a proibição de concorrência; passou a assentar no dever de lealdade (art. 64.º, n.º 1, alínea b), CSC) e no negócio consigo mesmo (art. 261.º, n.º 1, CC). Corrigi também a regra da gerência plural (maioria, e só cláusula do contrato a afasta, art. 261.º, n.º 1, CSC), a inoponibilidade das limitações (art. 260.º, n.º 1, CSC, sem exigir boa-fé), a alínea do impedimento de voto (alínea g) do art. 251.º, n.º 1, CSC), a «sub-gerência» inexistente e a contradição na assinatura conjunta. A deliberação-modelo recebeu uma nota: só vale como modo de vinculação se for levada ao contrato de sociedade e registada.",
+  "descricao": "Regula o exercício de funções em regime de gerência plural, definindo os poderes individuais e conjuntos de cada gerente ao abrigo dos arts. 252.º a 261.º CSC, e prepara a declaração do gerente em situação de conflito de interesses (dever de lealdade do art. 64.º CSC e negócio consigo mesmo do art. 261.º CC) e a deliberação dos sócios que consente no negócio, incluindo a comunicação às partes interessadas e o registo dos atos na Conservatória.",
+  "descricao_en": "Governs the exercise of functions under a plural management arrangement (gerência plural), defining each manager's individual and joint powers under Articles 252 to 261 CSC, and prepares the declaration of a manager with a conflict of interest (duty of loyalty under Article 64 CSC and self-dealing under Article 261 of the Civil Code) and the members' resolution consenting to the transaction, including notice to interested parties and registration of the acts at the Commercial Registry Office.",
+  "substituicoes": [
+   {
+    "de": "- Art. 261.º, n.º 1 CSC: na gerência plural, a representação é conjunta, salvo disposição do pacto social ou deliberação dos sócios em contrário\n- Art. 261.º, n.º 2 CSC: limitações dos poderes de representação são ineficazes em relação a terceiros, mesmo que publicadas — proteção da confiança\n- Art. 254.º CSC: o gerente não pode representar a sociedade em negócios nos quais tenha interesse pessoal conflituante; deve comunicar o conflito e abster-se\n- Art. 254.º, n.º 3 CSC: proibição de auto-contratação salvo autorização expressa dos sócios",
+    "para": "- Art. 261.º, n.º 1 CSC: na gerência plural, salvo cláusula do contrato de sociedade que disponha de modo diverso, os poderes são exercidos conjuntamente, considerando-se válidas as deliberações que reúnam os votos da maioria e a sociedade vinculada pelos negócios concluídos pela maioria dos gerentes ou por ela ratificados; uma simples deliberação dos sócios não afasta este regime\n- Art. 260.º, n.º 1, CSC: os atos praticados pelos gerentes, em nome da sociedade e dentro dos poderes que a lei lhes confere, vinculam-na para com terceiros, não obstante as limitações constantes do contrato social ou resultantes de deliberações dos sócios; só as limitações resultantes do objeto social podem ser opostas, e nos termos estritos do art. 260.º, n.os 2 e 3, CSC\n- Art. 261.º, n.º 1, CC: é anulável o negócio celebrado pelo gerente consigo mesmo, em nome próprio ou em representação de terceiro, salvo se a sociedade tiver especificadamente consentido na sua celebração ou se o negócio excluir, por natureza, a possibilidade de conflito de interesses [■ VERIFICAR: órgão competente para o consentimento — em regra, deliberação dos sócios]\n- Art. 254.º CSC: proibição de concorrência — o gerente não pode, sem consentimento dos sócios, exercer, por conta própria ou alheia, atividade concorrente com a da sociedade (n.º 1), contando como exercício por conta própria a participação de, pelo menos, 20 % no capital ou nos lucros de sociedade em que assuma responsabilidade limitada (n.º 3); não regula os negócios do gerente com a sociedade\n- O art. 397.º CSC (negócios com a sociedade) rege as sociedades anónimas [■ VERIFICAR: aplicação analógica às sociedades por quotas]",
+    "motivo": "O art. 261.º, n.º 1, CSC fixa a regra da maioria e só cede perante cláusula do contrato; a inoponibilidade das limitações está no art. 260.º, n.º 1, CSC; o art. 254.º CSC é a proibição de concorrência e o negócio consigo mesmo rege-se pelo art. 261.º CC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0261&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "delegação de poderes e sub-gerência",
+    "para": "delegação, pelos gerentes, nalgum ou nalguns deles, de competência para determinados negócios ou espécie de negócio, só vinculando os delegados a sociedade se a delegação lhes atribuir expressamente esse poder (n.º 2); os gerentes não podem fazer-se representar no exercício do cargo, sem prejuízo da nomeação de mandatários ou procuradores para determinados atos (art. 252.º, n.os 6 e 7, CSC)",
+    "motivo": "A «sub-gerência» não existe no CSC; a delegação entre gerentes está no art. 261.º, n.º 2, CSC e a proibição de representação no cargo no art. 252.º, n.º 6, CSC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0252&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "**A) DELIBERAÇÃO DOS SÓCIOS — REGIME DE GERÊNCIA PLURAL**",
+    "para": "**A) DELIBERAÇÃO DOS SÓCIOS — REGIME DE GERÊNCIA PLURAL**\n\n> Nota: na falta de cláusula do contrato de sociedade que disponha de modo diverso, a sociedade fica vinculada pelos negócios concluídos pela maioria dos gerentes (art. 261.º, n.º 1, do CSC). Para valer como modo de vinculação, o regime abaixo tem de constar do contrato de sociedade, por deliberação de alteração do contrato tomada por maioria de três quartos dos votos correspondentes ao capital social (art. 265.º, n.º 1, do CSC) e registada (art. 3.º, n.º 1, alínea r), do Código do Registo Comercial). Tomado por simples deliberação, vale apenas como limitação interna dos poderes dos gerentes, inoponível a terceiros (art. 260.º, n.º 1, do CSC). [■ VERIFICAR: oponibilidade a terceiros de cláusulas de assinatura conjunta por escalões de valor]",
+    "motivo": "Só cláusula do contrato de sociedade altera o regime legal da gerência plural; uma deliberação dos sócios é limitação interna, inoponível a terceiros.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0265&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "exige-se a assinatura conjunta de qualquer dos dois gerentes.",
+    "para": "exige-se a assinatura conjunta de dois gerentes [■ VERIFICAR: com apenas dois gerentes, este escalão coincide com o seguinte; ajustar ao número de gerentes].",
+    "motivo": "«Assinatura conjunta de qualquer dos dois gerentes» é contraditório com uma gerência de dois membros.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0261&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "mas não é oponível a terceiros de boa fé nos termos do art. 261.º, n.º 2, do CSC.\"",
+    "para": "mas não é oponível a terceiros, nos termos do art. 260.º, n.º 1, do CSC.\"",
+    "motivo": "A inoponibilidade das limitações resultantes de deliberações dos sócios está no art. 260.º, n.º 1, CSC e não depende da boa-fé do terceiro (a exceção do n.º 2 respeita só ao objeto social).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0260&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "vem, nos termos do art. 254.º do CSC, declarar o seguinte:",
+    "para": "vem, em cumprimento do dever de lealdade (art. 64.º, n.º 1, alínea b), do CSC), declarar o seguinte:",
+    "motivo": "O art. 254.º CSC trata da proibição de concorrência; o dever de revelar o conflito decorre do dever de lealdade.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0064&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "2. Nos termos do art. 254.º, n.º 1 e n.º 3, do CSC, o declarante:",
+    "para": "2. Tendo em conta o regime do negócio consigo mesmo (art. 261.º, n.º 1, do CC), o declarante:",
+    "motivo": "O negócio do gerente com a sociedade rege-se pelo art. 261.º CC (anulabilidade, salvo consentimento específico).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0261&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "(c) solicita autorização prévia e expressa da assembleia geral, nos termos do art. 254.º, n.º 3, do CSC [se pretender celebrar o negócio na qualidade de parte contrária].",
+    "para": "(c) solicita o consentimento prévio e específico dos sócios para a celebração do negócio, nos termos do art. 261.º, n.º 1, do CC [se pretender celebrar o negócio na qualidade de parte contrária]; se o interesse resultar do exercício de atividade concorrente, solicita também o consentimento dos sócios previsto no art. 254.º, n.º 1, do CSC.",
+    "motivo": "O art. 254.º, n.º 3, CSC não prevê autorização de autocontratação; o consentimento relevante é o do art. 261.º, n.º 1, CC (e o do art. 254.º, n.º 1, CSC só para a concorrência).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0261&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "A autorização é conferida ao abrigo do art. 254.º, n.º 3, do CSC, tendo o gerente interessado abstido de votar nos termos do art. 251.º, n.º 1, al. b), do CSC.",
+    "para": "O consentimento é prestado para os efeitos do art. 261.º, n.º 1, do CC, não tendo o gerente interessado, se for sócio, votado na deliberação, por estar impedido nos termos do art. 251.º, n.º 1, alínea g), do CSC [■ VERIFICAR: se a contraparte for entidade em que o sócio tem interesse, aplica-se a cláusula geral do proémio do n.º 1].",
+    "motivo": "O impedimento de voto numa relação entre a sociedade e o sócio estranha ao contrato está na alínea g) do art. 251.º, n.º 1, CSC; a alínea b) respeita a litígios.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0251&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Publicação no registo comercial requerida (art. 3.º CRCom)",
+    "para": "- [ ] Registo requerido, se o regime de vinculação constar de alteração do contrato de sociedade (art. 3.º, n.º 1, alínea r), do Código do Registo Comercial) ou se houver designação ou cessação de funções de gerentes (alínea m) do mesmo número)",
+    "motivo": "Está sujeita a registo a alteração do contrato e a designação ou cessação de gerentes, não a simples deliberação interna.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=506&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- [ ] Autorização da assembleia obtida se negócio com gerente interessado (art. 254.º, n.º 3 CSC)",
+    "para": "- [ ] Consentimento específico dos sócios obtido se houver negócio do gerente com a sociedade (art. 261.º, n.º 1, CC) ou atividade concorrente (art. 254.º, n.º 1, CSC)",
+    "motivo": "O consentimento relevante é o do art. 261.º, n.º 1, CC; o do art. 254.º, n.º 1, CSC respeita à concorrência.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0261&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar se as cláusulas de assinatura conjunta por escalões de valor, inscritas no contrato e registadas, são oponíveis a terceiros ou valem como limitação de poderes inoponível (arts. 260.º e 261.º CSC).",
+   "Confirmar o órgão competente para o consentimento do art. 261.º, n.º 1, CC numa sociedade por quotas e a forma da deliberação.",
+   "Ponderar a aplicação analógica do art. 397.º CSC (nulidade dos contratos com administradores não autorizados) às sociedades por quotas."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0261&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0260&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0254&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0252&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0251&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0064&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0265&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0397&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0261&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=506&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+  ]
+ },
+ {
+  "codigo": "COM-052",
+  "veredicto": "corrigida",
+  "resumo": "A ficha confundia o voto escrito do art. 247.º CSC com a deliberação unânime por escrito (art. 54.º CSC): exigia que todos os sócios votassem, inventava uma exceção para a aprovação de contas e omitia a consulta prévia por carta registada, o prazo mínimo de dez dias, a exclusão havendo sócio impedido de votar e o conteúdo da ata. Acrescentei a consulta prévia, corrigi a ficha de voto (aprovo ou rejeito), a data da deliberação e a ata do n.º 6. Nas sociedades anónimas só há deliberação unânime por escrito, e as decisões do sócio único registam-se em ata por ele assinada (art. 270.º-E CSC).",
+  "descricao": "Prepara a deliberação de sócios sem assembleia: o voto escrito das sociedades por quotas (art. 247.º do CSC) e a deliberação unânime por escrito (art. 54.º do CSC), única via nas sociedades anónimas, incluindo a consulta prévia, a proposta escrita a circular pelos sócios/acionistas, os votos a devolver e a ata de apuramento do resultado, com verificação dos requisitos de unanimidade ou maioria exigidos.",
+  "descricao_en": "Prepares a members' resolution without a meeting: the written vote of private limited companies (Article 247 CSC) and the unanimous written resolution (Article 54 CSC), the only route for public limited companies, including the prior consultation, the written proposal to be circulated to the quotaholders/shareholders, the votes to be returned and the minutes recording the result, checking the unanimity or majority requirements.",
+  "substituicoes": [
+   {
+    "de": "- Matérias que exigem assembleia presencial obrigatória (art. 247.º, n.º 2 CSC para Lda.: aprovação de contas e relatório de gestão quando exigida discussão)",
+    "para": "- Proibição do voto escrito por disposição da lei ou do contrato (art. 247.º, n.º 2 CSC para Lda.) e sócio impedido de votar, em geral ou no caso (art. 247.º, n.º 8, CSC) — nestes casos não pode haver voto escrito",
+    "motivo": "O art. 247.º, n.º 2, CSC não trata da aprovação de contas: admite o voto escrito se nenhuma disposição da lei ou do contrato o proibir; o n.º 8 exclui-o havendo sócio impedido de votar.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0247&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Prazo para devolução dos votos",
+    "para": "- Prazo para devolução dos votos (não inferior a dez dias — art. 247.º, n.º 4, CSC)",
+    "motivo": "O prazo mínimo do voto escrito é de dez dias.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0247&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Art. 247.º, n.º 1 CSC (Lda.): deliberação por escrito é válida se todos os sócios votarem por escrito e a maioria legal ou estatutária for atingida\n- Art. 247.º, n.º 2 CSC: aprovação de contas e relatório de gestão em Lda. pode exigir assembleia presencial se qualquer sócio o exigir",
+    "para": "- Art. 247.º, n.º 1 CSC (Lda.): além das deliberações unânimes por escrito (art. 54.º, n.º 1, CSC), os sócios podem deliberar por voto escrito; neste, a deliberação é tomada pela maioria legal ou contratual e considera-se tomada no dia em que for recebida a última resposta ou no fim do prazo marcado, se algum sócio não responder (art. 247.º, n.º 7, CSC) — não é preciso que todos votem\n- Art. 247.º, n.º 2 CSC: o voto escrito só é lícito se nenhuma disposição da lei ou cláusula do contrato o proibir e depende do acordo dos sócios na dispensa da assembleia, apurado pela consulta do n.º 3 (a falta de resposta nos quinze dias seguintes à expedição vale como assentimento); não pode haver voto escrito se algum sócio estiver impedido de votar (art. 247.º, n.º 8, CSC)",
+    "motivo": "A ficha confundia o voto escrito do art. 247.º CSC com a deliberação unânime por escrito do art. 54.º CSC e inventava uma exceção para a aprovação de contas.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0247&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "deliberação escrita válida por unanimidade ou se os estatutos o permitirem para maioria qualificada",
+    "para": "só há deliberação sem assembleia por deliberação unânime por escrito de todos os acionistas; o CSC não prevê, nas sociedades anónimas, voto escrito por maioria fora de assembleia (o voto por correspondência do art. 384.º, n.º 9, CSC é exercido numa assembleia geral convocada)",
+    "motivo": "Nas sociedades anónimas não há deliberação escrita por maioria qualificada; só a deliberação unânime por escrito (art. 54.º, n.º 1, CSC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0054&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "sócio único delibera por declaração escrita datada e assinada; arquivada na sede",
+    "para": "o sócio único exerce as competências da assembleia geral e as suas decisões de natureza igual às deliberações da assembleia devem ser registadas em ata por ele assinada",
+    "motivo": "O art. 270.º-E CSC exige o registo das decisões em ata assinada pelo sócio único, não uma declaração arquivada.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0270E&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "obrigatória para qualquer deliberação social",
+    "para": "as deliberações só se provam pelas atas ou, quando admitidas deliberações por escrito, pelos documentos donde constem (n.º 1); no voto escrito, o gerente lavra a ata prevista no art. 247.º, n.º 6, CSC",
+    "motivo": "O art. 63.º, n.º 1, CSC é uma regra de prova; a ata do voto escrito tem o conteúdo do art. 247.º, n.º 6, CSC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0063&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Prazo e forma de comunicação da proposta: os sócios devem receber a proposta por carta registada ou outro meio com prova de receção",
+    "para": "- Prazo e forma: a consulta prévia sobre a dispensa da assembleia é feita por carta registada (art. 247.º, n.º 3, CSC); a proposta concreta é enviada a todos os sócios, com os elementos necessários para a esclarecer e prazo de voto não inferior a dez dias (art. 247.º, n.º 4, CSC)",
+    "motivo": "A lei exige carta registada para a consulta prévia e um prazo mínimo de dez dias para o voto.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0247&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Proposta escrita a enviar a todos os sócios",
+    "para": "- Consulta prévia sobre a dispensa da assembleia (carta registada)\n- Proposta escrita a enviar a todos os sócios",
+    "motivo": "Falta a consulta prévia do art. 247.º, n.º 3, CSC, sem a qual não há voto escrito.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0247&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "**A) PROPOSTA ESCRITA (a enviar a cada sócio)**",
+    "para": "**A0) CONSULTA PRÉVIA SOBRE A DISPENSA DA ASSEMBLEIA (carta registada a cada sócio — art. 247.º, n.º 3, CSC)**\n\n[firma], Lda., NIPC [número] — [Local], [data]\n\nExmo. Senhor [nome do sócio],\n\nA Gerência propõe que a deliberação sobre [objeto da deliberação a tomar] seja tomada por voto escrito, sem reunião da assembleia geral. A falta de resposta dentro dos quinze dias seguintes à expedição desta carta será tida como assentimento à dispensa da assembleia (art. 247.º, n.º 3, do CSC).\n\nA Gerência\n[assinatura]\n\n> Nota: o voto escrito só existe nas sociedades por quotas e só é possível se nenhuma disposição da lei ou do contrato o proibir (art. 247.º, n.º 2, do CSC) e se nenhum sócio estiver impedido de votar (art. 247.º, n.º 8, do CSC). Nas sociedades anónimas, ou para dispensar estes passos, usar a deliberação unânime por escrito, assinada por todos os sócios (art. 54.º, n.º 1, do CSC).\n\n---\n\n**A) PROPOSTA ESCRITA (a enviar a cada sócio, com os elementos necessários para a esclarecer — art. 247.º, n.º 4, CSC)**",
+    "motivo": "O voto escrito exige a consulta prévia por carta registada (art. 247.º, n.º 3, CSC) e não se aplica às sociedades anónimas.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0247&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "até ao dia **[data limite]**, por email",
+    "para": "até ao dia **[data limite — prazo não inferior a dez dias, art. 247.º, n.º 4, do CSC]**, por email",
+    "motivo": "O prazo para o voto não pode ser inferior a dez dias.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0247&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "A votação por escrito é válida se todos os sócios votarem antes da data limite, independentemente do sentido do voto (art. 247.º, n.º 1 CSC).",
+    "para": "O voto deve identificar a proposta e conter a sua aprovação ou rejeição; qualquer modificação da proposta ou condicionamento do voto implica a rejeição da proposta (art. 247.º, n.º 5, do CSC). A deliberação considera-se tomada no dia em que for recebida a última resposta ou, se algum sócio não responder, no fim do prazo marcado (art. 247.º, n.º 7, do CSC).",
+    "motivo": "O voto escrito não exige que todos os sócios votem (art. 247.º, n.º 7, CSC); a exigência de todos é própria da deliberação unânime do art. 54.º CSC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0247&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "| 1 | [descrição resumida] | ☐ Aprovado / ☐ Contra / ☐ Abstenção |\n| 2 | [descrição resumida] | ☐ Aprovado / ☐ Contra / ☐ Abstenção |",
+    "para": "| 1 | [descrição resumida] | ☐ Aprovo / ☐ Rejeito |\n| 2 | [descrição resumida] | ☐ Aprovo / ☐ Rejeito |",
+    "motivo": "O voto escrito deve conter a aprovação ou a rejeição da proposta (art. 247.º, n.º 5, CSC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0247&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "Observações (facultativas): ______________________",
+    "para": "Observações (facultativas; qualquer modificação da proposta ou condição implica rejeição — art. 247.º, n.º 5, do CSC): ______________________",
+    "motivo": "Modificar a proposta ou condicionar o voto equivale a rejeitá-la.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0247&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "/ [Z%] abstenção.",
+    "para": "/ [Z%] sem resposta.",
+    "motivo": "No voto escrito o sócio aprova ou rejeita; quem não responde não vota (art. 247.º, n.os 5 e 7, CSC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0247&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "**Declaração de validade:**\nTodos os sócios votaram por escrito antes da data limite de [data], verificando-se os requisitos do art. 247.º, n.º 1, do CSC. A deliberação produz efeitos a partir desta data.",
+    "para": "**Verificação das circunstâncias que permitem o voto escrito (art. 247.º, n.º 6, do CSC):**\nNenhuma disposição da lei ou do contrato proíbe o voto escrito e nenhum sócio está impedido de votar (art. 247.º, n.os 2 e 8, do CSC); a consulta prévia foi feita por carta registada expedida em [data], sem que algum sócio se opusesse à dispensa da assembleia nos quinze dias seguintes (art. 247.º, n.º 3, do CSC); a proposta foi enviada a todos os sócios em [data], com prazo de voto até [data] (art. 247.º, n.º 4, do CSC).\n\n**Proposta (transcrição integral):** [texto da proposta]\n\nA deliberação considera-se tomada em [data da última resposta recebida ou do fim do prazo] (art. 247.º, n.º 7, do CSC). Cópia desta ata é enviada a todos os sócios (art. 247.º, n.º 6, do CSC).",
+    "motivo": "A ata do voto escrito tem de mencionar as circunstâncias que o permitem, transcrever a proposta e o voto de cada sócio e ser enviada a todos (art. 247.º, n.º 6, CSC); a data da deliberação é a do n.º 7.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0247&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "deliberou por declaração escrita de [data], arquivada na sede da sociedade sob a referência [X].",
+    "para": "tomou em [data] a decisão seguinte, registada em ata por ele assinada: [teor da decisão].",
+    "motivo": "As decisões do sócio único são registadas em ata por ele assinada (art. 270.º-E, n.º 2, CSC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0270E&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Todos os sócios receberam a proposta com prova de receção\n- [ ] Todos os sócios votaram por escrito antes da data limite (art. 247.º CSC)\n- [ ] Matéria não exige assembleia presencial obrigatória",
+    "para": "- [ ] Consulta prévia por carta registada a todos os sócios, sem oposição à dispensa da assembleia nos quinze dias seguintes à expedição (art. 247.º, n.º 3, CSC)\n- [ ] Proposta concreta enviada a todos os sócios, com prazo de voto não inferior a dez dias; apurados os votos chegados até ao fim do prazo, sem ser preciso que todos respondam (art. 247.º CSC)\n- [ ] Voto escrito não proibido pela lei ou pelo contrato e nenhum sócio impedido de votar (art. 247.º, n.os 2 e 8, CSC)",
+    "motivo": "Checklist alinhada com os requisitos do art. 247.º, n.os 2 a 8, CSC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0247&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] [Para SUQ]: declaração arquivada na sede",
+    "para": "- [ ] [Para SUQ]: decisão registada em ata assinada pelo sócio único (art. 270.º-E CSC)",
+    "motivo": "Exigência do art. 270.º-E, n.º 2, CSC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0270E&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar se o pacto social proíbe o voto escrito ou fixa maiorias diferentes das legais.",
+   "Se um sócio recusar a dispensa da assembleia na resposta à consulta, convocar a assembleia geral (art. 248.º, n.º 3, CSC).",
+   "Nas sociedades anónimas, confirmar se a matéria pode ser tratada por deliberação unânime por escrito com todos os acionistas identificados."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0247&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0054&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0063&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0377&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0384&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0270E&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+  ]
+ },
+ {
+  "codigo": "COM-055",
+  "veredicto": "corrigida",
+  "resumo": "A ficha acrescentava ao art. 28.º do DL 178/86 um pré-aviso de 6 meses que a lei não prevê, trocava o terceiro requisito da indemnização de clientela (perda de retribuição) pela equidade e pelo teto (que estão no art. 34.º), atribuía ao art. 34.º a indemnização por danos e trocava os n.os 3 e 4 do art. 33.º. Corrigi os prazos de denúncia, o cálculo da falta de pré-aviso (art. 29.º), os requisitos, as exclusões, a extinção do direito (comunicação em um ano e ação no ano seguinte) e o limite de dois anos e a compensação da não concorrência (arts. 9.º e 13.º, alínea g)). Ficou assinalada a questão da denúncia pelo próprio agente (art. 18.º, alínea b), da Diretiva 86/653/CEE).",
+  "descricao": "Prepara a notificação de cessação do contrato de agência e calcula a indemnização de clientela e as indemnizações devidas ao agente, ao abrigo do DL n.º 178/86, de 3 de julho (contrato de agência), com especial atenção aos arts. 28.º e 29.º (pré-aviso e sua falta), 32.º (indemnização por danos), 33.º (indemnização de clientela) e 34.º (cálculo e limite da indemnização de clientela), e à jurisprudência dos tribunais portugueses sobre o método de cálculo.",
+  "descricao_en": "Prepares the notice of termination of the agency agreement and calculates the goodwill indemnity (indemnização de clientela) and the compensation owed to the agent, under Decree-Law No. 178/86 of 3 July (agency agreement), with particular attention to Articles 28 and 29 (notice period and failure to give notice), 32 (compensation for damage), 33 (goodwill indemnity) and 34 (calculation and cap of the goodwill indemnity), and to Portuguese case law on the method for calculating the indemnity.",
+  "substituicoes": [
+   {
+    "de": "- Motivo da cessação (denúncia, resolução, rescisão por acordo, morte/incapacidade do agente)",
+    "para": "- Motivo da cessação (acordo escrito das partes, caducidade — incluindo a morte do agente ou a extinção da pessoa coletiva —, denúncia ou resolução: arts. 24.º a 26.º DL 178/86)",
+    "motivo": "O DL 178/86 prevê acordo, caducidade, denúncia e resolução; a caducidade dá-se por morte do agente ou extinção da pessoa coletiva, não por incapacidade.",
+    "fonte": "https://www.fd.unl.pt/Anexos/Investigacao/4520.pdf"
+   },
+   {
+    "de": "- Art. 28.º DL 178/86: pré-aviso mínimo (1.º ano: 1 mês; 2.º ano: 2 meses; ≥3 anos: 3 meses; se > 6 anos por acordo: até 6 meses)\n- Art. 33.º DL 178/86: compensação de clientela — condições cumulativas: (i) agente angariou novos clientes ou aumentou substancialmente as transações; (ii) o principal continua a beneficiar dos clientes após cessação; (iii) compensação equitativa considerando todas as circunstâncias; (iv) teto máximo de 1 ano de remuneração calculada como média anual dos últimos 5 anos\n- Art. 33.º, n.º 3 DL 178/86: direito caduca se agente não reclamar no prazo de 1 ano após cessação\n- Art. 34.º DL 178/86: indemnização por danos — cumulável com compensação; cobre investimentos não amortizados feitos a pedido do principal\n- Exclusão da compensação: art. 33.º, n.º 4 — cessação por justa causa imputável ao agente; art. 33.º, n.º 4, al. b) — cessão da posição contratual do agente",
+    "para": "- Art. 28.º DL 178/86: a denúncia só é permitida nos contratos por tempo indeterminado, por escrito, com a antecedência mínima de 1 mês (contrato com menos de um ano), 2 meses (iniciado o 2.º ano de vigência) e 3 meses (nos restantes casos) (n.º 1); salvo convenção em contrário, o termo do prazo coincide com o último dia do mês (n.º 2); se as partes estipularem prazos mais longos, o do principal não pode ser inferior ao do agente (n.º 3); no contrato a prazo convertido em contrato por tempo indeterminado, conta também o tempo anterior (n.º 4)\n- Art. 29.º DL 178/86: quem denunciar sem respeitar o pré-aviso indemniza a outra parte pelos danos causados pela sua falta; o agente pode exigir, em vez dessa indemnização, a remuneração média mensal do ano precedente multiplicada pelo tempo em falta (ou a média da vigência, se o contrato durar há menos de um ano)\n- Art. 33.º, n.º 1, DL 178/86: indemnização de clientela, sem prejuízo de outras indemnizações — requisitos cumulativos: (a) o agente angariou novos clientes ou aumentou substancialmente o volume de negócios com a clientela existente; (b) a outra parte vem a beneficiar consideravelmente, após a cessação, da atividade do agente; (c) o agente deixa de receber qualquer retribuição por contratos negociados ou concluídos, após a cessação, com esses clientes\n- Art. 34.º DL 178/86: a indemnização de clientela é fixada em termos equitativos, com o limite de uma indemnização anual calculada pela média anual das remunerações recebidas nos últimos cinco anos (ou no período de vigência, se inferior)\n- Art. 33.º, n.º 4, DL 178/86: o direito extingue-se se o agente ou os herdeiros não comunicarem ao principal, no prazo de um ano a contar da cessação, que pretendem recebê-la; a ação judicial deve ser proposta no ano subsequente a essa comunicação\n- Art. 32.º DL 178/86: indemnização, nos termos gerais, pelos danos resultantes do incumprimento da outra parte (n.º 1) e indemnização segundo a equidade na resolução com base no art. 30.º, alínea b) (n.º 2); cumula com a indemnização de clientela\n- Exclusão da indemnização de clientela (art. 33.º, n.º 3, DL 178/86): contrato cessado por razões imputáveis ao agente, ou cessão a terceiro da posição contratual do agente por acordo com a outra parte [■ VERIFICAR: cessação por denúncia do próprio agente — o art. 18.º, alínea b), da Diretiva 86/653/CEE exclui a indemnização, salvo circunstâncias imputáveis ao principal ou idade, enfermidade ou doença do agente; confirmar como os tribunais portugueses leem o art. 33.º, n.º 3]",
+    "motivo": "O art. 28.º não prevê o escalão de 6 meses; o terceiro requisito do art. 33.º, n.º 1, é a perda de retribuição; o limite e a equidade estão no art. 34.º; a extinção do direito está no n.º 4 e as exclusões no n.º 3 do art. 33.º; a indemnização por danos está nos arts. 29.º e 32.º.",
+    "fonte": "https://www.fd.unl.pt/Anexos/Investigacao/4520.pdf"
+   },
+   {
+    "de": "- Passo 3: aplicar fator de equidade (0 a 1) para circunstâncias especiais",
+    "para": "- Passo 3: aplicar fator de equidade (0 a 1) para circunstâncias especiais — método de trabalho; a lei manda apenas fixar a indemnização em termos equitativos (art. 34.º DL 178/86)",
+    "motivo": "O fator de 0 a 1 não está na lei; o art. 34.º manda fixar em termos equitativos, com teto.",
+    "fonte": "https://www.fd.unl.pt/Anexos/Investigacao/4520.pdf"
+   },
+   {
+    "de": "- Passo 5: calcular indemnização por pré-aviso não cumprido (art. 28.º)\n- Passo 6: calcular indemnização por danos (art. 34.º) se aplicável",
+    "para": "- Passo 5: calcular a indemnização pela falta de pré-aviso (art. 29.º DL 178/86)\n- Passo 6: calcular a indemnização por danos (art. 32.º DL 178/86) se aplicável",
+    "motivo": "A falta de pré-aviso rege-se pelo art. 29.º e a indemnização por incumprimento pelo art. 32.º; o art. 34.º é o cálculo da indemnização de clientela.",
+    "fonte": "https://www.fd.unl.pt/Anexos/Investigacao/4520.pdf"
+   },
+   {
+    "de": "1. **Motivo da cessação:** [denúncia sem justa causa / resolução com justa causa — descrever]",
+    "para": "1. **Motivo da cessação:** [denúncia de contrato por tempo indeterminado (art. 28.º do DL n.º 178/86) / resolução com fundamento no art. 30.º, alínea [a)/b)], do DL n.º 178/86, feita por escrito no prazo de um mês após o conhecimento dos factos e com indicação das razões (art. 31.º) — descrever]",
+    "motivo": "A denúncia não depende de justa causa e só cabe nos contratos por tempo indeterminado; a resolução tem fundamentos e prazo próprios (arts. 30.º e 31.º).",
+    "fonte": "https://www.fd.unl.pt/Anexos/Investigacao/4520.pdf"
+   },
+   {
+    "de": "nos termos do art. 28.º, n.º [1/2], do DL n.º 178/86. O contrato cessará em [data final].",
+    "para": "nos termos do art. 28.º, n.º 1, alínea [a)/b)/c)], do DL n.º 178/86 [ou o prazo convencional mais longo — art. 28.º, n.º 3]. O contrato cessará em [data final — último dia do mês, salvo convenção em contrário, art. 28.º, n.º 2].",
+    "motivo": "Os prazos mínimos estão nas alíneas do n.º 1 do art. 28.º; o n.º 2 fixa o termo no último dia do mês.",
+    "fonte": "https://www.fd.unl.pt/Anexos/Investigacao/4520.pdf"
+   },
+   {
+    "de": "[Se aplicável: o Agente fica sujeito à cláusula de não concorrência por [X] anos, nos termos do art. 9.º DL 178/86.]",
+    "para": "[Se aplicável: o Agente fica sujeito à obrigação de não concorrência acordada por escrito, por [X] meses (no máximo dois anos), circunscrita à zona ou ao círculo de clientes que lhe estava confiado, nos termos do art. 9.º DL 178/86, com direito à compensação prevista no art. 13.º, alínea g), do mesmo diploma.]",
+    "motivo": "A não concorrência pós-contratual tem o limite de dois anos e a zona ou clientela confiada (art. 9.º) e dá direito a compensação (art. 13.º, alínea g)).",
+    "fonte": "https://www.fd.unl.pt/Anexos/Investigacao/4520.pdf"
+   },
+   {
+    "de": "- Teto máximo (art. 33.º, n.º 2 DL 178/86): €[média anual]",
+    "para": "- Teto máximo (art. 34.º DL 178/86): €[média anual]",
+    "motivo": "O teto da indemnização de clientela está no art. 34.º; o art. 33.º, n.º 2, trata dos herdeiros.",
+    "fonte": "https://www.fd.unl.pt/Anexos/Investigacao/4520.pdf"
+   },
+   {
+    "de": "- Indemnização por défice de pré-aviso: comissões que o agente auferiria nos [X-Y] meses de diferença = €[valor estimado]",
+    "para": "- Indemnização pela falta de pré-aviso (art. 29.º DL 178/86): danos causados ou, à escolha do agente, remuneração média mensal do ano precedente × [X-Y] meses em falta = €[valor]",
+    "motivo": "O art. 29.º, n.º 2, fixa o cálculo alternativo pela remuneração média mensal do ano precedente.",
+    "fonte": "https://www.fd.unl.pt/Anexos/Investigacao/4520.pdf"
+   },
+   {
+    "de": "€[compensação + indemnização pré-aviso + danos art. 34.º se aplicável]",
+    "para": "€[compensação + indemnização pela falta de pré-aviso + danos do art. 32.º se aplicável]",
+    "motivo": "A indemnização por danos rege-se pelo art. 32.º.",
+    "fonte": "https://www.fd.unl.pt/Anexos/Investigacao/4520.pdf"
+   },
+   {
+    "de": "- [ ] Teto máximo (1 ano) verificado\n- [ ] Prazo de 1 ano para reclamar compensação verificado (art. 33.º, n.º 3)\n- [ ] Exclusões do art. 33.º, n.º 4 verificadas\n- [ ] Indemnização por danos (art. 34.º) separada e fundamentada",
+    "para": "- [ ] Teto máximo (1 ano) verificado (art. 34.º DL 178/86)\n- [ ] Prazo de 1 ano para comunicar a pretensão e de 1 ano seguinte para a ação verificados (art. 33.º, n.º 4, DL 178/86)\n- [ ] Exclusões do art. 33.º, n.º 3, DL 178/86 verificadas\n- [ ] Indemnização por danos (art. 32.º DL 178/86) e pela falta de pré-aviso (art. 29.º DL 178/86) separadas e fundamentadas",
+    "motivo": "Números do art. 33.º trocados e indemnização por danos mal atribuída ao art. 34.º.",
+    "fonte": "https://www.fd.unl.pt/Anexos/Investigacao/4520.pdf"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "O texto consolidado oficial do DL 178/86 (com o DL 118/93) não foi lido no Diário da República (página dinâmica e PDF digitalizado); os arts. 9.º, 13.º e 24.º a 34.º foram conferidos na versão consolidada da FDUNL e no modelo da casa contrato-agencia.md. Confirmar em diariodarepublica.pt que não há alterações posteriores.",
+   "Confirmar a leitura do art. 33.º, n.º 3, DL 178/86 quando é o agente a denunciar o contrato (art. 18.º, alínea b), da Diretiva 86/653/CEE).",
+   "O método de cálculo (benefício futuro e fator de equidade) é um instrumento de trabalho: conferir com a jurisprudência recente do STJ antes de o usar numa proposta."
+  ],
+  "fontes": [
+   "https://www.fd.unl.pt/Anexos/Investigacao/4520.pdf",
+   "https://files.diariodarepublica.pt/1s/1986/07/15000/15751580.pdf",
+   "https://publications.europa.eu/resource/celex/31986L0653"
+  ]
+ }
+]

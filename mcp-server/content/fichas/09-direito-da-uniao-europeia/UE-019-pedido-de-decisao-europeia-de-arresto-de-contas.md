@@ -6,7 +6,8 @@ titulo_en: "Application for a European Account Preservation Order"
 descricao: "Elabora o requerimento de Decisão Europeia de Arresto de Contas (DEAC) ao abrigo do Regulamento (UE) n.º 655/2014, destinado a bloquear preventivamente contas bancárias de devedor noutro Estado-Membro da UE antes ou durante processo judicial, incluindo a demonstração dos pressupostos (fumus boni iuris e periculum in mora) e o formulário normalizado."
 descricao_en: "Prepares the application for a European Account Preservation Order (DEAC) under Regulation (EU) No 655/2014, designed to freeze a debtor's bank accounts in another EU Member State as a precautionary measure before or during court proceedings, including demonstration of the requirements (fumus boni iuris and periculum in mora) and the standard form."
 ambito: ue
-estado_citacoes: "conferidas 0 · corrigidas 0 · por conferir 15"
+estado_citacoes: "conferidas 0 · corrigidas 0 · por conferir 28"
+revisao_tecnica: "2026-10-28 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
@@ -14,7 +15,8 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 
 > **Âmbito:** UE · **Área:** Direito da União Europeia · **Código:** UE-019
 > **EN:** Application for a European Account Preservation Order. Prepares the application for a European Account Preservation Order (DEAC) under Regulation (EU) No 655/2014, designed to freeze a debtor's bank accounts in another EU Member State as a precautionary measure before or during court proceedings, including demonstration of the requirements (fumus boni iuris and periculum in mora) and the standard form.
-> **Citações:** conferidas 0 · corrigidas 0 · por conferir 15. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 0 · corrigidas 0 · por conferir 28. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-28 — corrigida (13 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
 Elabora o requerimento de Decisão Europeia de Arresto de Contas (DEAC) ao abrigo do Regulamento (UE) n.º 655/2014, destinado a bloquear preventivamente contas bancárias de devedor noutro Estado-Membro da UE antes ou durante processo judicial, incluindo a demonstração dos pressupostos (fumus boni iuris e periculum in mora) e o formulário normalizado.
 
@@ -23,10 +25,10 @@ Elabora o requerimento de Decisão Europeia de Arresto de Contas (DEAC) ao abrig
 Ficha de trabalho para preparar este documento. As regras da casa prevalecem sobre a ficha: registo de advogado, nunca afirmar inscrição na Ordem dos Advogados, citar só normas conferidas ou com `[■ VERIFICAR]`, e seguir o fluxo de `assets/redacao/redator.md`.
 
 ## Regras obrigatórias
-— O DEAC só se aplica a litígios transfronteiriços (credor e devedor em EM diferentes ou conta bancária num EM diferente).
-— Demonstrar obrigatoriamente os dois pressupostos: fumus boni iuris (aparência de direito) e periculum in mora (urgência — risco de o devedor dissipar os fundos).
+— A DEAC só se aplica a processos transfronteiriços: basta que a conta ou contas a arrestar sejam mantidas num EM diferente do EM do tribunal a que é apresentado o pedido ou num EM diferente do do domicílio do credor (art. 3.º, n.º 1); o domicílio do devedor noutro EM, por si só, não releva.
+— Demonstrar os pressupostos: periculum in mora (necessidade urgente — risco real de a execução subsequente do crédito ser frustrada ou consideravelmente dificultada, art. 7.º, n.º 1) e, se o credor ainda não tiver decisão judicial, transação judicial ou instrumento autêntico, fumus boni iuris (probabilidade de obter ganho de causa no processo principal, art. 7.º, n.º 2).
 — O procedimento é unilateral (inaudita altera parte): o devedor não é ouvido antes da emissão da DEAC.
-— O credor tem obrigação de prestar garantia (caução) para cobrir danos do devedor se o arresto for injustificado — art. 12.º [■ VERIFICAR montante].
+— Sem decisão judicial, transação judicial ou instrumento autêntico, o tribunal exige ao credor uma garantia (caução) suficiente para prevenir a utilização abusiva e assegurar a indemnização dos prejuízos do devedor, só a podendo dispensar a título excecional (art. 12.º, n.º 1); com esses títulos, a garantia só é exigida se o tribunal a considerar necessária e adequada (art. 12.º, n.º 2) [■ VERIFICAR montante].
 — NUNCA inventes artigos; usa [■ VERIFICAR: eur-lex.europa.eu].
 — Redige em português europeu formal.
 
@@ -36,12 +38,12 @@ Ficha de trabalho para preparar este documento. As regras da casa prevalecem sob
 
 ### ETAPA 1 — PROBLEMATIZAÇÃO (Análise do Caso)
 Apresenta dentro de um bloco <analise_do_caso>:
-- O litígio é transfronteiriço (credor e devedor em EM diferentes, ou conta num EM diferente)?
+- O processo é transfronteiriço (conta a arrestar num EM diferente do EM do tribunal ou do EM do domicílio do credor — art. 3.º, n.º 1)?
 - Qual o crédito a assegurar (natureza, valor, fundamento)?
 - O devedor tem contas bancárias noutro EM identificadas ou identificáveis?
 - Qual o risco concreto de dissipação de fundos (periculum in mora)?
 - Existe já processo judicial pendente ou está em fase pré-judicial?
-- A matéria está excluída do âmbito do Regulamento (estado civil, insolvência, segurança social)?
+- A matéria está excluída do âmbito do Regulamento (regimes matrimoniais e análogos, testamentos e sucessões, devedor em processo de insolvência, segurança social, arbitragem; contas impenhoráveis — art. 2.º)?
 - Informações em falta
 
 ### ETAPA 2 — ANÁLISE JURÍDICA (Fundamentação)
@@ -49,12 +51,13 @@ Apresenta dentro de um bloco <fundamentos_juridicos>:
 
 **Regulamento (UE) n.º 655/2014:**
 - Art. 7.º: condições de emissão da DEAC
-  * Fumus boni iuris: prova suficiente de que o credor tem uma alegação de crédito fundada contra o devedor
+  * Fumus boni iuris: só se o credor ainda não tiver decisão judicial, transação judicial ou instrumento autêntico — prova suficiente de que é provável que obtenha ganho de causa no processo principal (art. 7.º, n.º 2)
   * Periculum in mora: risco real de que, sem o arresto, a cobrança futura será impossível ou significativamente dificultada (art. 7.º, n.º 1)
   * Crédito pecuniário em matéria civil e comercial; litígio transfronteiriço
-- Art. 8.º: procedimento unilateral (inaudita altera parte)
+- Art. 8.º: pedido no formulário normalizado (Regulamento de Execução (UE) 2016/1823), com as menções do n.º 2 e os documentos comprovativos (n.º 3)
+- Art. 11.º: processo ex parte (inaudita altera parte) — o devedor não é notificado do pedido nem ouvido antes da decisão
 - Art. 12.º: caução (garantia a prestar pelo credor — em regra obrigatória em fase pré-judicial)
-- Art. 14.º: pedido de informação sobre contas bancárias (quando o credor não conhece o banco/conta do devedor — tribunal solicita à autoridade nacional)
+- Art. 14.º: pedido de informações sobre contas (quando o credor não conhece o banco nem o IBAN/BIC) — só se já tiver obtido decisão executória, transação judicial ou instrumento autêntico; se o título ainda não tiver força executória, só quando o montante a arrestar for avultado e houver necessidade urgente das informações (n.º 1, 2.º parágrafo); antes de obtido o título, não está disponível. O tribunal transmite o pedido à autoridade de informação do EM de execução
 - Art. 23.º: execução da DEAC pelo banco do EM de destino
 - Arts. 33.º-36.º: meios de recurso do devedor
 
@@ -65,14 +68,16 @@ Apresenta dentro de um bloco <fundamentos_juridicos>:
 ### ETAPA 3 — CONSTRUÇÃO ARGUMENTATIVA
 Define em <estrategia>:
 - O periculum in mora está suficientemente demonstrado? É o pressuposto mais difícil.
-- O credor conhece o banco e conta do devedor? Se não, pode pedir informação ao tribunal (art. 14.º).
+- O credor conhece o banco e conta do devedor? Se não, só pode pedir informação ao tribunal se já tiver decisão judicial, transação judicial ou instrumento autêntico (art. 14.º, n.º 1).
 - A caução exigida é proporcional ao crédito e às circunstâncias?
 - Após a DEAC, em que prazo deve ser instaurado o processo principal (se ainda não foi — art. 10.º)?
 
 ### ETAPA 4 — EXPOSIÇÃO ESTRUTURADA (O Requerimento)
 Redige o requerimento completo com esta estrutura:
 
-**AO [TRIBUNAL COMPETENTE — confirmar competência para o processo principal]**
+[Nota: o pedido é apresentado no formulário normalizado (art. 8.º, n.º 1; Regulamento de Execução (UE) 2016/1823); a estrutura seguinte serve para preparar o seu conteúdo e a fundamentação a juntar.]
+
+**AO [TRIBUNAL COMPETENTE — confirmar competência para o processo principal; com decisão judicial ou transação, o tribunal do EM onde foi proferida ou homologada (art. 6.º)]**
 
 **REQUERIMENTO DE DECISÃO EUROPEIA DE ARRESTO DE CONTAS**
 **Regulamento (UE) n.º 655/2014, arts. 7.º e 8.º**
@@ -112,10 +117,10 @@ EM de localização da conta: [país]
 Montante a arrestar: €[valor]
 
 **VI. DO PEDIDO**
-"O requerente solicita que o Tribunal emita Decisão Europeia de Arresto de Contas ordenando ao banco [nome] que bloqueie a conta IBAN [número] até ao valor de €[valor], ao abrigo do art. 12.º do Regulamento (UE) n.º 655/2014, bem como [pedido de informação bancária — art. 14.º, se aplicável]."
+"O requerente solicita que o Tribunal emita Decisão Europeia de Arresto de Contas ordenando ao banco [nome] que bloqueie a conta IBAN [número] até ao valor de €[valor], ao abrigo dos arts. 7.º e 8.º do Regulamento (UE) n.º 655/2014, bem como [pedido de informação bancária — art. 14.º, se aplicável]."
 
 **VII. DA CAUÇÃO**
-[O requerente compromete-se a prestar caução / indica que está isento por existência de sentença executória — art. 12.º, n.º 2]
+[O requerente compromete-se a prestar a garantia que o tribunal fixar / ou indica as razões pelas quais deve ser dispensado (art. 8.º, n.º 2, al. k)): sem título, a dispensa é excecional (art. 12.º, n.º 1, 2.º parágrafo); com decisão judicial, transação judicial ou instrumento autêntico, a garantia só é exigida se o tribunal a considerar necessária e adequada (art. 12.º, n.º 2)]
 
 ### ETAPA 5 — FORMULAÇÃO FINAL (Validação)
 Apresenta dentro de um bloco <checklist_validacao>:
@@ -126,7 +131,7 @@ Apresenta dentro de um bloco <checklist_validacao>:
 - [ ] Conta(s) bancária(s) identificada(s) ou pedido de informação incluído
 - [ ] Montante a arrestar indicado
 - [ ] Caução referida (obrigatória em fase pré-judicial)
-- [ ] Processo principal: se ainda não instaurado, prazo de 30 dias mencionado
+- [ ] Processo principal: se ainda não instaurado, prazo do art. 10.º, n.º 1, mencionado (30 dias a contar do pedido ou 14 dias a contar da decisão de arresto, o que terminar mais tarde)
 - [ ] Pontos [■ VERIFICAR] sinalizados
 
 ---
@@ -166,12 +171,20 @@ Apresenta dentro de um bloco <checklist_validacao>:
 
 | Citação | Estado | Nota |
 |---|---|---|
-| art. 12.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| art. 12.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| art. 12.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| Art. 7.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 3.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 3.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 7.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 7.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 7.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 7.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 12.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 12.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 12.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 12.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 2.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| Art. 7.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | Art. 8.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| Art. 11.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | Art. 12.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | Art. 14.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | Art. 23.º | por conferir [■ VERIFICAR] | diploma não identificado |
@@ -180,4 +193,9 @@ Apresenta dentro de um bloco <checklist_validacao>:
 | art. 14.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 14.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 10.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 10.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 8.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 8.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 6.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| arts. 7.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | arts. 7.º | por conferir [■ VERIFICAR] | diploma não identificado |

@@ -6,7 +6,8 @@ titulo_en: "Application for Deprivation of Parental Responsibilities (Inibição
 descricao: "Gera a petição inicial de processo de inibição do exercício das responsabilidades parentais, nos termos do artigo 1.915.º do Código Civil e do RGPTC, quando um progenitor incorre em comportamentos graves que colocam em perigo a segurança, a saúde, a formação moral ou a educação do filho menor."
 descricao_en: "Generates the initial application in proceedings to restrict the exercise of parental responsibilities (inibição), under Article 1915 of the Civil Code and the RGPTC, where a parent engages in serious conduct that endangers the minor child's safety, health, moral development or education."
 ambito: nacional
-estado_citacoes: "conferidas 0 · corrigidas 0 · por conferir 4"
+estado_citacoes: "conferidas 7 · corrigidas 0 · por conferir 12"
+revisao_tecnica: "2026-10-30 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
@@ -14,7 +15,8 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 
 > **Âmbito:** nacional · **Área:** Direito da Família e das Crianças · **Código:** FAM-031
 > **EN:** Application for Deprivation of Parental Responsibilities (Inibição). Generates the initial application in proceedings to restrict the exercise of parental responsibilities (inibição), under Article 1915 of the Civil Code and the RGPTC, where a parent engages in serious conduct that endangers the minor child's safety, health, moral development or education.
-> **Citações:** conferidas 0 · corrigidas 0 · por conferir 4. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 7 · corrigidas 0 · por conferir 12. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-30 — corrigida (6 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
 Gera a petição inicial de processo de inibição do exercício das responsabilidades parentais, nos termos do artigo 1.915.º do Código Civil e do RGPTC, quando um progenitor incorre em comportamentos graves que colocam em perigo a segurança, a saúde, a formação moral ou a educação do filho menor.
 
@@ -28,7 +30,7 @@ Redigir a petição inicial de ação de inibição (total ou parcial) do exerc�
 ## Regras obrigatórias
 — NUNCA inventes factos, jurisprudência ou números de processo.
 — Marca [■ VERIFICAR: o que deve ser confirmado].
-— Distingue inibição total (art. 1.915.º, n.º 1 CC) de inibição parcial/limitação (art. 1.918.º CC) — o pedido deve ser proporcional à gravidade dos factos.
+— Distingue a inibição total da inibição parcial — no Código Civil, limitada à representação e administração dos bens dos filhos (art. 1915.º, n.º 2, CC; art. 52.º RGPTC) — e ambas das providências adequadas em caso de perigo quando não seja caso de inibição (art. 1918.º CC) — o pedido deve ser proporcional à gravidade dos factos.
 — O interesse superior da criança (art. 4.º RGPTC; art. 3.º Convenção dos Direitos da Criança) é o critério central.
 — Usa sempre português europeu (pt-PT).
 
@@ -40,21 +42,22 @@ Redigir a petição inicial de ação de inibição (total ou parcial) do exerc�
 Antes de redigir, analisa os factos e apresenta dentro de um bloco <analise_do_caso>:
 - Qual é o comportamento grave do progenitor? (abuso, abandono, negligência, violência)
 - A situação é continuada ou pontual? (a inibição exige padrão reiterado ou gravidade excepcional)
-- Há processo de promoção e proteção já aberto (CPCJ / tribunal)?
+- Há processo de promoção e proteção já aberto (CPCJ / tribunal)? (o pedido de inibição fica prejudicado se nele estiver promovida a medida de confiança com vista à adoção do art. 35.º, n.º 1, al. g), da LPCJP, até decisão desta: art. 53.º RGPTC)
 - Há processo penal em curso? (pode ser usado como prova)
-- Existe urgência que justifique providência cautelar (suspensão provisória do exercício)?
+- Existe urgência que justifique a suspensão do exercício das responsabilidades parentais e o acolhimento da criança, como preliminar ou incidente da ação (art. 57.º RGPTC — exige relatório sumário que mostre a incapacidade manifesta, física ou moral, do requerido), ou outra decisão provisória (art. 28.º RGPTC)?
 - O Ministério Público já foi notificado ou intervém? (tem legitimidade própria nestes processos)
 - Qual o pedido adequado: inibição total, inibição parcial, ou limitação do exercício?
 - Que meios de prova existem?
 
 ### ETAPA 2 — ANÁLISE JURÍDICA (Fundamentação)
 Apresenta dentro de um bloco <fundamentos_juridicos>:
-- Art. 1.915.º CC (inibição total das responsabilidades parentais — comportamentos culposos)
-- Art. 1.916.º CC (inibição por decreto do tribunal em processo-crime ou contraordenacional)
-- Art. 1.917.º CC (inibição por declaração de incapacidade)
-- Art. 1.918.º CC (limitação / inibição parcial — medidas de proteção do menor)
-- Art. 1.920.º-A CC (levantamento da inibição — possibilidade de reabilitação)
-- Arts. 4.º e 35.º RGPTC (interesse superior da criança; legitimidade para pedir inibição)
+- Art. 1913.º CC (inibição de pleno direito: condenados definitivamente por crime a que a lei atribua esse efeito; maiores acompanhados, quando a sentença o declare; ausentes, desde a nomeação do curador provisório)
+- Art. 1915.º CC (inibição decretada pelo tribunal, a requerimento do Ministério Público, de qualquer parente do menor ou de quem o tenha à guarda: infração culposa dos deveres para com os filhos, com grave prejuízo destes, ou falta de condições por inexperiência, enfermidade, ausência ou outras razões; inibição total ou limitada à representação e administração dos bens)
+- Art. 1916.º CC (levantamento da inibição quando cessem as causas; pedido pelo Ministério Público a todo o tempo ou por qualquer dos pais passado um ano sobre o trânsito em julgado)
+- Art. 1917.º CC (a inibição não isenta os pais do dever de alimentar o filho)
+- Art. 1918.º CC (providências adequadas em caso de perigo, quando não seja caso de inibição)
+- Arts. 52.º a 59.º RGPTC (processo de inibição e limitações: legitimidade e fundamentos, prejudicialidade, articulados, sentença, suspensão do exercício e acolhimento, outras medidas limitativas, levantamento)
+- Art. 4.º RGPTC (princípios orientadores, incluindo o interesse superior da criança)
 - Arts. 3.º e 9.º Convenção dos Direitos da Criança (ratificada por Portugal)
 - Lei de Proteção de Crianças e Jovens em Perigo (LPCJP), Lei n.º 147/99, de 1 de Setembro
 
@@ -87,7 +90,7 @@ Redige a petição inicial completa com:
 
 **IV. DOS PEDIDOS**
 1. Inibição total (ou parcial) do exercício das responsabilidades parentais pelo Réu
-2. (se aplicável) Suspensão provisória cautelar do exercício até decisão final
+2. (se aplicável) Suspensão do exercício das responsabilidades parentais e acolhimento da criança, como incidente da ação, até decisão final (art. 57.º RGPTC)
 3. Regulação provisória da residência e convivência do menor durante o processo
 4. Comunicação ao Ministério Público e demais entidades competentes
 
@@ -112,7 +115,7 @@ Apresenta dentro de um bloco <checklist_validacao>:
 - Residência habitual atual: [localidade]
 
 **REQUERENTE / AUTOR:**
-- Quem pede a inibição: [outro progenitor | Ministério Público | familiar | CPCJ]
+- Quem pede a inibição: [outro progenitor | Ministério Público | familiar | pessoa a cuja guarda a criança esteja, ainda que de facto] (a CPCJ não requer a inibição: comunica os factos ao Ministério Público — art. 69.º da LPCJP)
 - Nome completo (se pessoa singular): [nome]
 - NIF / CC: [■ VERIFICAR]
 - Morada: [morada]
@@ -147,7 +150,22 @@ Apresenta dentro de um bloco <checklist_validacao>:
 
 | Citação | Estado | Nota |
 |---|---|---|
+| art. 1915.º, n.º 2, CC | conferida (epígrafe) — Inibição do exercício das responsabilidades parentais |  |
+| art. 52.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 1918.º CC | conferida (epígrafe) — Perigo para a segurança, saúde, formação moral e educação do filho |  |
 | art. 4.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 3.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| Arts. 4.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 35.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 53.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 57.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 57.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 28.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| Art. 1913.º CC | conferida (epígrafe) — Inibição de pleno direito |  |
+| Art. 1915.º CC | conferida (epígrafe) — Inibição do exercício das responsabilidades parentais |  |
+| Art. 1916.º CC | conferida (epígrafe) — Levantamento da inibição |  |
+| Art. 1917.º CC | conferida (epígrafe) — Alimentos |  |
+| Art. 1918.º CC | conferida (epígrafe) — Perigo para a segurança, saúde, formação moral e educação do filho |  |
+| Arts. 52.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| Art. 4.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | Arts. 3.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 69.º | por conferir [■ VERIFICAR] | diploma não identificado |

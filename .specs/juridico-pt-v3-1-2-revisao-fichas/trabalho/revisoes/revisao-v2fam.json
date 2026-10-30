@@ -1,0 +1,498 @@
+[
+ {
+  "codigo": "FAM-005",
+  "veredicto": "corrigida",
+  "resumo": "A ficha assentava numa «pensão compensatória» por desequilíbrio patrimonial, figura que o direito português não conhece (o art. 1792.º CC é reparação de danos e o art. 1793.º-B CC não existe), mandava atender ao padrão de vida do casamento, que o art. 2016.º-A, n.º 3, CC exclui, remetia para a Portaria n.º 278/2013 (que regula o processo de inventário) e trocava os arts. 2012.º (alteração) e 2013.º (cessação) CC. Reescrevi a fundamentação sobre os arts. 2016.º e 2016.º-A CC (dever de cada cônjuge prover à sua subsistência, fatores de fixação, prevalência dos alimentos a filhos), acrescentei a cessação do art. 2019.º CC e a irrenunciabilidade do art. 2008.º CC, e distingui os alimentos do crédito de compensação do art. 1676.º, n.º 2, CC, exigível na partilha.",
+  "descricao": "Gera o acordo de fixação de alimentos ao ex-cônjuge no âmbito do divórcio, com análise do binómio necessidade/possibilidade e dos fatores do artigo 2.016.º-A do Código Civil, condições de cessação e revisão, e distinção entre os alimentos e o crédito de compensação do artigo 1.676.º, n.º 2, nos termos dos artigos 2.003.º e seguintes e 2.016.º do Código Civil português.",
+  "descricao_en": "Generates the agreement setting maintenance for a former spouse in the context of divorce, analysing the need/means balance (binómio necessidade/possibilidade) and the factors in Article 2016-A of the Civil Code, the conditions for termination and review, and the distinction between maintenance and the compensation claim under Article 1676(2), under Articles 2003 et seq. and 2016 of the Portuguese Civil Code.",
+  "substituicoes": [
+   {
+    "de": "Redigir acordo sobre alimentos entre cônjuges ou pensão compensatória pós-divórcio, nos termos dos arts. 2.003.º a 2.013.º do Código Civil português, com cláusulas de revisão e cessação.",
+    "para": "Redigir acordo sobre alimentos ao ex-cônjuge depois do divórcio (ou da separação judicial de pessoas e bens), nos termos dos arts. 2.003.º a 2.013.º, 2.016.º, 2.016.º-A e 2.019.º do Código Civil português, com cláusulas de revisão e cessação. O direito português não conhece uma «pensão compensatória» autónoma: a compensação de quem contribuiu para os encargos da vida familiar muito acima do devido é um crédito do art. 1.676.º, n.º 2, CC, exigível no momento da partilha, salvo no regime da separação (n.º 3), e não uma prestação periódica.",
+    "motivo": "Não existe «pensão compensatória» no direito português; os alimentos ao ex-cônjuge regem-se pelos arts. 2016.º e 2016.º-A CC e a compensação pelo contributo excessivo é o crédito do art. 1676.º, n.ºs 2 e 3, CC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2016&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "— Distingue claramente: alimentos (necessidade) vs. pensão compensatória (desequilíbrio patrimonial — art. 1.792.º CC).",
+    "para": "— Distingue claramente: alimentos ao ex-cônjuge (fundados na necessidade, em regime excecional — cada cônjuge deve prover à sua subsistência depois do divórcio, art. 2.016.º, n.º 1, CC) vs. crédito de compensação do art. 1.676.º, n.º 2, CC (contribuição para os encargos da vida familiar consideravelmente superior à devida, por renúncia excessiva aos próprios interesses, designadamente à vida profissional, com prejuízos patrimoniais importantes — exigível na partilha, salvo no regime da separação, n.º 3) vs. reparação de danos (art. 1.792.º CC, nos termos gerais da responsabilidade civil). Não existe «pensão compensatória» por desequilíbrio patrimonial.",
+    "motivo": "O art. 1792.º CC trata da reparação de danos, não de uma pensão por desequilíbrio patrimonial; a figura próxima é o crédito do art. 1676.º, n.º 2, CC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1676&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "\"cônjuge credor/devedor\" (não \"alimentando/alimentante\" no sentido brasileiro se soar estranho — usa \"cônjuge que recebe/paga\").",
+    "para": "\"cônjuge credor/devedor\" ou \"cônjuge que recebe/paga\"; \"alimentando\" e \"alimentado\" são termos do próprio Código Civil (arts. 2.007.º e 2.013.º CC) e podem usar-se.",
+    "motivo": "«Alimentando» e «alimentado» não são brasileirismos: são os termos do Código Civil (arts. 2007.º e 2013.º CC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2009&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Há desequilíbrio patrimonial significativo que justifique pensão compensatória?",
+    "para": "- Algum dos cônjuges contribuiu para os encargos da vida familiar consideravelmente acima do devido, por renúncia excessiva à vida profissional, com prejuízos patrimoniais importantes (crédito de compensação do art. 1.676.º, n.ºs 2 e 3, CC, a fazer valer na partilha)?",
+    "motivo": "A «pensão compensatória» não existe; o desequilíbrio só releva pelo crédito do art. 1676.º, n.º 2, CC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1676&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Há filhos menores que afetam a capacidade contributiva do cônjuge devedor?",
+    "para": "- Há filhos menores que afetam a capacidade contributiva do cônjuge devedor? (a obrigação de alimentos a um filho do devedor prevalece sobre a devida ao ex-cônjuge — art. 2.016.º-A, n.º 2, CC)",
+    "motivo": "O art. 2016.º-A, n.º 2, CC dá prevalência aos alimentos devidos a filho do cônjuge devedor.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2016&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Qual o padrão de vida estabelecido durante o casamento?",
+    "para": "- Fatores do art. 2.016.º-A, n.º 1, CC: duração do casamento, colaboração prestada à economia do casal, idade e estado de saúde, qualificações profissionais e possibilidades de emprego, tempo a dedicar à criação de filhos comuns, rendimentos e proventos, novo casamento ou união de facto. O cônjuge credor não tem o direito de exigir a manutenção do padrão de vida de que beneficiou na constância do matrimónio (art. 2.016.º-A, n.º 3, CC).",
+    "motivo": "O art. 2016.º-A, n.º 3, CC exclui o direito à manutenção do padrão de vida do casamento; os fatores de fixação são os do n.º 1.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2016&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Existem bens recebidos na partilha que compensam o desequilíbrio?",
+    "para": "- Existem bens recebidos na partilha que, pelos rendimentos e proventos que geram, reduzam a necessidade de alimentos (art. 2.016.º-A, n.º 1, CC)?",
+    "motivo": "Os bens da partilha relevam pelos rendimentos e proventos (art. 2016.º-A, n.º 1, CC), não por um «desequilíbrio» a compensar.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2016&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Art. 2.004.º CC (medida dos alimentos: necessidade + possibilidade + padrão de vida)\n- Art. 2.012.º CC (extinção da obrigação de alimentos)\n- Art. 2.013.º CC (cessação e modificação da obrigação)\n- Art. 1.792.º CC (pensão compensatória: desequilíbrio patrimonial — figura autónoma)\n- Art. 1.793.º-B CC [■ VERIFICAR: se este artigo existe na redação vigente — confirmar]\n- Acórdão do Tribunal da Relação sobre critérios de fixação: [■ VERIFICAR]\n- Portaria n.º 278/2013 (referência indicativa — aplica-se a menores mas usada como orientação)",
+    "para": "- Art. 2.004.º CC (medida dos alimentos: meios do obrigado e necessidade do alimentando, atendendo à possibilidade de este prover à sua subsistência)\n- Art. 2.009.º, n.º 1, al. a), CC (o cônjuge ou ex-cônjuge é o primeiro vinculado à prestação de alimentos)\n- Art. 2.016.º CC (cada cônjuge deve prover à sua subsistência depois do divórcio; qualquer deles tem direito a alimentos, independentemente do tipo de divórcio; o direito pode ser negado por razões manifestas de equidade; aplica-se à separação judicial de pessoas e bens)\n- Art. 2.016.º-A CC (montante: duração do casamento, colaboração prestada à economia do casal, idade, saúde, qualificações, possibilidades de emprego, filhos comuns, rendimentos, novo casamento ou união de facto; prevalência dos alimentos a filho do devedor; sem direito à manutenção do padrão de vida do casamento)\n- Art. 2.005.º CC (prestações pecuniárias mensais, salvo acordo ou disposição legal em contrário)\n- Art. 2.008.º CC (o direito a alimentos não pode ser renunciado nem cedido; podem renunciar-se as prestações vencidas)\n- Art. 2.012.º CC (alteração dos alimentos fixados, quando se modificam as circunstâncias determinantes da sua fixação)\n- Art. 2.013.º CC (cessação: morte do obrigado ou do alimentado; impossibilidade de continuar a prestar ou desnecessidade do credor; violação grave dos deveres do credor para com o obrigado)\n- Art. 2.019.º CC (cessação se o alimentado contrair novo casamento, iniciar união de facto ou se tornar indigno do benefício pelo seu comportamento moral)\n- Art. 1.775.º, n.º 1, al. c), CC (no divórcio por mútuo consentimento, o acordo sobre alimentos ao cônjuge que deles careça acompanha o requerimento)\n- Art. 1.676.º, n.ºs 2 e 3, CC (crédito de compensação pela contribuição excessiva para os encargos da vida familiar — exigível na partilha, salvo no regime da separação; não é pensão de alimentos)\n- Art. 1.792.º CC (reparação de danos entre cônjuges, nos termos gerais da responsabilidade civil — figura distinta dos alimentos)\n- Acórdão do Tribunal da Relação sobre critérios de fixação: [■ VERIFICAR]\n- Não há tabela legal de alimentos: a Portaria n.º 278/2013 regula o processo de inventário e não deve ser citada",
+    "motivo": "Os arts. 2012.º (alteração) e 2013.º (cessação) CC estavam trocados; o padrão de vida é excluído pelo art. 2016.º-A, n.º 3, CC; o art. 1792.º CC é reparação de danos; o art. 1793.º-B CC não existe (depois do 1793.º só há o 1793.º-A, animais de companhia); a Portaria n.º 278/2013 regula o inventário; faltavam os arts. 2016.º, 2016.º-A e 2019.º CC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2009&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Cálculo indicativo do montante: rendimentos do devedor menos necessidades do credor",
+    "para": "- Cálculo indicativo do montante: necessidades do credor (descontado o que pode prover por si) confrontadas com os meios do devedor (art. 2.004.º CC), ponderados os fatores do art. 2.016.º-A, n.º 1, CC — não há tabela legal",
+    "motivo": "A medida dos alimentos resulta do confronto entre necessidade e meios (art. 2004.º CC) e dos fatores do art. 2016.º-A CC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2016&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Se pensão compensatória: capital único vs. prestação mensal",
+    "para": "- Modo de prestação: prestação pecuniária mensal, salvo acordo em contrário (art. 2.005.º, n.º 1, CC); uma entrega única em capital com renúncia a alimentos futuros choca com a irrenunciabilidade do direito (art. 2.008.º, n.º 1, CC) [■ VERIFICAR: admissibilidade e efeitos de cláusula de capitalização entre ex-cônjuges]",
+    "motivo": "A «pensão compensatória» não existe; os alimentos prestam-se em regra mensalmente (art. 2005.º CC) e o direito é irrenunciável (art. 2008.º CC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2003&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Natureza da prestação (alimentos ou pensão compensatória — distinguir claramente)",
+    "para": "- Natureza da prestação: alimentos ao ex-cônjuge (arts. 2.016.º e 2.016.º-A CC); se as partes acordarem também a compensação do art. 1.676.º, n.º 2, CC, tratá-la em cláusula autónoma, como crédito a liquidar na partilha, e não como prestação alimentar",
+    "motivo": "A natureza possível da prestação é a de alimentos; a compensação do art. 1676.º, n.º 2, CC é um crédito exigível na partilha (n.º 3).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1676&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Mecanismo de revisão por alteração significativa das circunstâncias (art. 2.013.º CC)",
+    "para": "- Mecanismo de revisão por alteração das circunstâncias determinantes da fixação (art. 2.012.º CC)",
+    "motivo": "A alteração dos alimentos fixados está no art. 2012.º CC; o art. 2013.º CC trata da cessação.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2009&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Natureza da prestação claramente identificada (alimentos vs. pensão compensatória)?",
+    "para": "- [ ] Natureza da prestação claramente identificada (alimentos ao ex-cônjuge; eventual crédito do art. 1.676.º, n.º 2, CC tratado à parte)?",
+    "motivo": "Não existe «pensão compensatória» no direito português.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1676&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Tipo de prestação: [alimentos | pensão compensatória | ambas]",
+    "para": "- Tipo de prestação: [alimentos ao ex-cônjuge | alimentos e crédito de compensação do art. 1.676.º, n.º 2, CC, a liquidar na partilha]",
+    "motivo": "Não existe «pensão compensatória» no direito português.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1676&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Padrão de vida durante o casamento: [descreve resumidamente]",
+    "para": "- Colaboração prestada à economia do casal: [descreve resumidamente] (o padrão de vida do casamento não é, por si, medida dos alimentos — art. 2.016.º-A, n.º 3, CC)",
+    "motivo": "O art. 2016.º-A, n.º 3, CC exclui o direito à manutenção do padrão de vida; releva a colaboração prestada à economia do casal (n.º 1).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2016&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar a admissibilidade de cláusulas de capitalização ou de renúncia a alimentos futuros entre ex-cônjuges face à irrenunciabilidade do art. 2008.º CC; não foi conferida jurisprudência.",
+   "Avaliar se há fundamento para o crédito de compensação do art. 1676.º, n.º 2, CC e articulá-lo com a partilha (n.º 3).",
+   "Ponderar se há razões manifestas de equidade para negar o direito a alimentos (art. 2016.º, n.º 3, CC).",
+   "No divórcio por mútuo consentimento na conservatória, o acordo sobre alimentos integra os acordos do art. 1775.º, n.º 1, CC.",
+   "A jurisprudência sobre critérios de fixação continua por conferir."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2016&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2009&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2003&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1792&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1676&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1775&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2013-34581175"
+  ]
+ },
+ {
+  "codigo": "FAM-009",
+  "veredicto": "corrigida",
+  "resumo": "A ficha mandava aplicar «obrigatoriamente» uma fórmula e tabelas de alimentos a menores da Portaria n.º 278/2013, que não existem: essa portaria regula o processo de inventário e Portugal não tem tabela legal de alimentos. Citava ainda o art. 182.º da OTM (revogada pela Lei n.º 141/2015) para uma atualização anual ao IPC e o art. 2009.º CC como fonte do dever dos pais. Reescrevi o cálculo sobre o binómio do art. 2004.º CC, o dever dos pais (arts. 1874.º, 1878.º, 1879.º e 1905.º CC) e o processo dos arts. 42.º e 45.º a 48.º do RGPTC, e acrescentei a prevalência dos alimentos ao filho sobre os do ex-cônjuge (art. 2016.º-A, n.º 2, CC).",
+  "descricao": "Calcula e fundamenta o valor adequado da pensão de alimentos para filho menor, com base no binómio necessidade/possibilidade (artigo 2.004.º do Código Civil), nas despesas concretas do menor e nos meios dos progenitores — sem tabela legal, que não existe em Portugal —, e gera o texto de fundamentação para usar em petição, acordo ou requerimento de alteração.",
+  "descricao_en": "Calculates and justifies the appropriate amount of maintenance for a minor child, based on the need/means balance (Article 2004 of the Civil Code), the child's actual expenses and the parents' means — there is no statutory table in Portugal — and generates the supporting text for use in a claim, agreement or application for variation.",
+  "substituicoes": [
+   {
+    "de": "Calcular e fundamentar o valor da pensão de alimentos para filho(s) menor(es), nos termos dos arts. 2.003.º a 2.009.º do Código Civil português e da Portaria n.º 278/2013, de 26 de Agosto.",
+    "para": "Calcular e fundamentar o valor da pensão de alimentos para filho(s) menor(es), nos termos dos arts. 1.874.º, 1.878.º, 1.879.º, 1.905.º e 2.003.º a 2.007.º do Código Civil português e dos arts. 45.º a 48.º do RGPTC (Lei n.º 141/2015, de 8 de setembro). Não existe em Portugal tabela legal nem fórmula oficial de cálculo: a Portaria n.º 278/2013, de 26 de agosto, regula o processamento do processo de inventário e não trata de alimentos.",
+    "motivo": "A Portaria n.º 278/2013 regula o processo de inventário; o dever dos pais e o processo de alimentos estão no CC e no RGPTC.",
+    "fonte": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2013-34581175"
+   },
+   {
+    "de": "— Aplica obrigatoriamente a fórmula da Portaria n.º 278/2013 como referência base.",
+    "para": "— Não apliques nem cites tabelas, fórmulas ou percentagens como se fossem lei: o montante resulta da ponderação concreta dos meios de quem presta e das necessidades do menor (art. 2.004.º CC).",
+    "motivo": "Não há fórmula legal: a Portaria n.º 278/2013 regula o inventário e a medida dos alimentos é a do art. 2004.º CC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2009&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Há alimentos ao cônjuge que reduzem a capacidade do progenitor obrigado?",
+    "para": "- Há alimentos ao ex-cônjuge a cargo do progenitor obrigado? (a obrigação para com o filho prevalece sobre a devida ao ex-cônjuge — art. 2.016.º-A, n.º 2, CC)",
+    "motivo": "O art. 2016.º-A, n.º 2, CC dá prevalência aos alimentos devidos a filho sobre os do ex-cônjuge.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2016&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Art. 2.003.º CC (obrigação de alimentos — inclui o necessário para sustento, habitação, vestuário, saúde e educação)\n- Art. 2.004.º CC (medida dos alimentos: necessidades do credor + possibilidades do devedor)\n- Art. 2.009.º CC (obrigados à prestação de alimentos — progenitores como primeiros obrigados)\n- Portaria n.º 278/2013, de 26 de Agosto (tabelas indicativas de pensões de alimentos a menores)\n- Art. 182.º OTM (atualização anual da pensão ao IPC — [■ VERIFICAR se em vigor com o RGPTC])\n- [■ VERIFICAR: acórdão do Tribunal da Relação sobre critérios de valoração da Portaria 278/2013]",
+    "para": "- Art. 2.003.º CC (noção de alimentos — tudo o que é indispensável ao sustento, habitação e vestuário e, sendo o alimentado menor, também a instrução e educação)\n- Art. 2.004.º CC (medida dos alimentos: meios do obrigado e necessidade do alimentando, atendendo à possibilidade de este prover à sua subsistência)\n- Arts. 1.874.º, n.º 2, 1.878.º, n.º 1, e 1.879.º CC (dever dos pais de prover ao sustento dos filhos e de assumir as despesas com a sua segurança, saúde e educação, salvo na medida em que os filhos as possam suportar)\n- Art. 1.905.º CC (alimentos ao filho regulados por acordo dos pais sujeito a homologação; a pensão fixada na menoridade mantém-se até aos 25 anos, nos termos do n.º 2 e do art. 1.880.º CC)\n- Art. 2.006.º CC (alimentos devidos desde a proposição da ação) e art. 2.007.º CC (alimentos provisórios)\n- Art. 2.012.º CC e arts. 42.º e 45.º RGPTC (alteração dos alimentos fixados quando se modificam as circunstâncias); a atualização anual (ex.: pelo IPC) deve ficar prevista no acordo ou na decisão — a Organização Tutelar de Menores (DL n.º 314/78), que a ficha citava, foi revogada pelo art. 6.º, al. a), da Lei n.º 141/2015\n- Arts. 45.º a 47.º RGPTC (processo de fixação dos alimentos devidos a criança) e art. 48.º RGPTC (meios de tornar efetiva a prestação: dedução no vencimento, salário ou outros rendimentos)\n- Não existe tabela legal de alimentos a menores; a Portaria n.º 278/2013 regula o processo de inventário e não deve ser citada\n- [■ VERIFICAR: jurisprudência dos tribunais da Relação sobre a fixação de alimentos a menores, designadamente quando o obrigado não tem rendimentos conhecidos]",
+    "motivo": "A Portaria n.º 278/2013 não contém tabelas de alimentos; a OTM foi revogada pela Lei n.º 141/2015; o art. 2009.º CC não faz dos progenitores os primeiros obrigados (o dever dos pais vem dos arts. 1874.º, 1878.º e 1879.º CC); o art. 2003.º CC não menciona a saúde.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2428&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "**Passo 2 — Aplicação da Portaria n.º 278/2013:**\n- Rendimento mensal líquido do progenitor obrigado\n- Número de filhos a cargo\n- Aplicação da tabela da Portaria: percentagem correspondente aplicada ao rendimento\n- Intervalo indicativo (mínimo-máximo) segundo a tabela\n- [■ VERIFICAR: confirma os valores atuais da tabela com a publicação oficial — podem ter sido atualizados]",
+    "para": "**Passo 2 — Meios do progenitor obrigado (art. 2.004.º CC):**\n- Rendimento mensal líquido do progenitor obrigado e outros proventos\n- Encargos relevantes (habitação, outros alimentos devidos)\n- Número de filhos a cargo do obrigado\n- Contributo do progenitor com quem o menor reside, também obrigado na medida dos seus meios (arts. 1.878.º, n.º 1, e 2.004.º CC)\n- Não há tabela legal nem percentagem fixa sobre o rendimento: não apresentes intervalos «indicativos» como se resultassem da lei",
+    "motivo": "Não existe tabela de alimentos na Portaria n.º 278/2013 nem noutro diploma; o critério é o confronto entre meios e necessidades (art. 2004.º CC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2009&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Fatores que justificam valor acima do mínimo da tabela: despesas específicas, padrão de vida anterior, ausência do progenitor obrigado\n- Fatores que justificam valor abaixo: outros filhos a cargo do obrigado, rendimentos reduzidos, partilha igualitária das despesas\n- Proposta de valor final (dentro do intervalo da tabela, ajustado)",
+    "para": "- Fatores que justificam valor mais elevado: despesas específicas, padrão de vida anterior, ausência do progenitor obrigado\n- Fatores que justificam valor mais baixo: outros filhos a cargo do obrigado, rendimentos reduzidos, partilha igualitária das despesas\n- Proposta de valor final, fundamentada nas necessidades apuradas no Passo 1 e nos meios apurados no Passo 2",
+    "motivo": "Não há tabela legal de que partir; o valor fundamenta-se nas necessidades e nos meios (art. 2004.º CC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2009&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "3. Aplicação da Portaria n.º 278/2013 (intervalo indicativo)\n4. Justificação do valor proposto dentro do intervalo",
+    "para": "3. Ponderação dos meios do obrigado e das necessidades do menor (art. 2.004.º CC)\n4. Justificação do valor proposto",
+    "motivo": "A Portaria n.º 278/2013 regula o inventário e não fixa intervalos de alimentos.",
+    "fonte": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2013-34581175"
+   },
+   {
+    "de": "- [ ] Portaria n.º 278/2013 aplicada com os dados corretos?",
+    "para": "- [ ] Binómio necessidades do menor / meios do obrigado (art. 2.004.º CC) fundamentado com dados concretos, sem invocar tabelas inexistentes?",
+    "motivo": "A Portaria n.º 278/2013 não contém tabelas de alimentos.",
+    "fonte": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2013-34581175"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "A jurisprudência das Relações sobre a fixação de alimentos a menores (obrigado sem rendimentos conhecidos, mínimo de subsistência do obrigado) não foi conferida.",
+   "Ponderar o recurso ao Fundo de Garantia de Alimentos Devidos a Menores em caso de incumprimento (regime não conferido nesta revisão).",
+   "Confirmar, no caso, a manutenção da pensão depois da maioridade até aos 25 anos (art. 1905.º, n.º 2, CC) e as exceções aí previstas.",
+   "Redigir a cláusula de atualização anual no acordo ou pedi-la na decisão: não foi encontrada norma de atualização automática."
+  ],
+  "fontes": [
+   "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2013-34581175",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2003&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2009&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2016&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1878&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1906&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2428&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+  ]
+ },
+ {
+  "codigo": "FAM-016",
+  "veredicto": "corrigida",
+  "resumo": "O prazo de caducidade estava mal descrito: vem do art. 1817.º CC (ex vi art. 1873.º CC) — durante a menoridade ou nos 10 anos posteriores à maioridade, mais as janelas de 3 anos do n.º 3 —, e a regra dos «3 primeiros anos de vida» para terceiros não existe (a averiguação oficiosa não é admitida passados 2 anos sobre o nascimento, art. 1866.º, al. b), CC). Ao contrário do que a triagem supunha, o Ac. TC n.º 401/2011 não julgou inconstitucional o prazo de 10 anos. Corrigi também a inversão do ónus da prova (art. 344.º, n.º 2, CC e art. 417.º, n.º 2, CPC, não «art. 344.º CPC»), o art. 1903.º CC (que não trata do registo; o averbamento é do art. 69.º, n.º 1, al. b), CRC), a legitimidade ativa e passiva (arts. 1818.º, 1819.º e 1870.º CC), os alimentos provisórios (art. 1821.º CC) e a designação do tribunal (juízo de família e menores, art. 123.º, n.º 1, al. l), LOSJ).",
+  "substituicoes": [
+   {
+    "de": "— Verifica sempre o prazo de caducidade: art. 1.873.º CC — a ação deve ser proposta dentro de 10 anos após a maioridade do filho (se proposta pelo filho) ou nos primeiros 3 anos de vida do filho (se proposta por terceiros). [■ VERIFICAR redação atual — este prazo pode ter sido alterado].",
+    "para": "— Verifica sempre o prazo de caducidade: art. 1.817.º CC, aplicável por remissão do art. 1.873.º CC — a ação pode ser proposta durante a menoridade do investigante ou nos 10 anos posteriores à sua maioridade (n.º 1), ou ainda nos 3 anos posteriores a algum dos factos do n.º 3, com as necessárias adaptações (impugnação com êxito, por terceiro, da paternidade do investigante; conhecimento, depois daquele prazo, de factos ou circunstâncias que justifiquem a investigação, designadamente a cessação do tratamento como filho pelo pretenso pai; não havendo paternidade determinada, conhecimento superveniente de factos que possibilitem e justifiquem a investigação). O Tribunal Constitucional (Ac. n.º 401/2011, Plenário) não julgou inconstitucional o prazo de 10 anos. Não há prazo de 3 anos de vida para terceiros: a ação a intentar pelo Ministério Público após averiguação oficiosa não é admitida passados 2 anos sobre o nascimento (arts. 1.865.º e 1.866.º, al. b), CC), salvo o caso do art. 1.867.º CC.",
+    "motivo": "O prazo consta do art. 1817.º CC (ex vi art. 1873.º CC): menoridade ou 10 anos após a maioridade, mais os 3 anos do n.º 3; não existe prazo de 3 anos de vida para terceiros (o limite de 2 anos do art. 1866.º, al. b), CC é o da averiguação oficiosa).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1817&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Quem propõe a ação? (o próprio filho, maior; a mãe em nome do filho menor; herdeiros)",
+    "para": "- Quem propõe a ação? (o próprio filho, maior; o filho menor, representado pela mãe — se a mãe for menor, art. 1.870.º CC; o cônjuge não separado judicialmente ou os descendentes do filho, que podem prosseguir a ação se o filho falecer na pendência da causa e só a podem propor se ele morrer antes de terminar o prazo — art. 1.818.º CC; o Ministério Público, após averiguação oficiosa — art. 1.865.º, n.º 5, CC)",
+    "motivo": "Os «herdeiros» em geral não têm legitimidade ativa: só o cônjuge e os descendentes do filho, nos termos do art. 1818.º CC; faltava a ação do Ministério Público.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1817&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Art. 1.873.º CC (prazo de caducidade — VERIFICAR texto vigente)",
+    "para": "- Art. 1.873.º CC (remissão para os arts. 1.817.º a 1.819.º e 1.821.º CC)\n- Art. 1.817.º CC (prazo de caducidade: durante a menoridade ou nos 10 anos posteriores à maioridade; 3 anos nos casos do n.º 3)\n- Art. 1.818.º CC (prossecução e transmissão da ação) e art. 1.819.º CC (legitimidade passiva: pretenso pai ou, se falecido, cônjuge sobrevivo não separado judicialmente e, sucessivamente, descendentes, ascendentes ou irmãos; os herdeiros ou legatários cujos direitos sejam atingidos têm de ser demandados para a sentença produzir efeitos contra eles)\n- Art. 1.821.º CC (alimentos provisórios ao filho menor ou maior acompanhado desde a proposição da ação, se o tribunal considerar provável o reconhecimento)",
+    "motivo": "O art. 1873.º CC é uma remissão; o prazo, a transmissão da ação, a legitimidade passiva e os alimentos provisórios estão nos arts. 1817.º a 1819.º e 1821.º CC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1878&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Art. 1.903.º CC (registo de nascimento com aditamento de paternidade)",
+    "para": "- Art. 69.º, n.º 1, al. b), do Código do Registo Civil (averbamento do estabelecimento da filiação ao assento de nascimento)",
+    "motivo": "O art. 1903.º CC trata do impedimento de um ou de ambos os pais no exercício das responsabilidades parentais; o averbamento da filiação está no art. 69.º, n.º 1, al. b), do Código do Registo Civil.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=682A0069&nid=682&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Se réu recusar o exame: jurisprudência e art. 344.º, n.º 2 CPC (inversão do ónus da prova)",
+    "para": "- Se réu recusar o exame: o tribunal aprecia livremente o valor da recusa para efeitos probatórios (art. 417.º, n.º 2, CPC), sem prejuízo da inversão do ónus da prova quando a parte contrária tiver culposamente tornado impossível a prova ao onerado (art. 344.º, n.º 2, CC); ver jurisprudência (ETAPA 2)",
+    "motivo": "A inversão do ónus da prova está no art. 344.º, n.º 2, do Código Civil; no CPC, o art. 417.º, n.º 2, manda apreciar livremente a recusa da parte.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0417&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Pedido de alimentos provisórios urgentes (se filho menor sem sustento)",
+    "para": "- Pedido de alimentos provisórios (filho menor ou maior acompanhado), devidos desde a proposição da ação se o tribunal considerar provável o reconhecimento (art. 1.821.º CC, ex vi art. 1.873.º CC)",
+    "motivo": "O requisito dos alimentos provisórios é a probabilidade do reconhecimento, não a falta de sustento (art. 1821.º CC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1817&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "1. Endereçamento — Tribunal de Família e Menores competente",
+    "para": "1. Endereçamento — Juízo de Família e Menores do Tribunal Judicial da Comarca competente (art. 123.º, n.º 1, al. l), da Lei n.º 62/2013, de 26 de agosto — LOSJ) [■ VERIFICAR: comarca territorialmente competente]",
+    "motivo": "Na organização judiciária atual a ação é da competência dos juízos de família e menores (art. 123.º, n.º 1, al. l), LOSJ); já não há «tribunais de família e menores».",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1974A0122&nid=1974&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "2. Identificação do autor (filho ou representante) e do réu (pretenso pai ou herdeiros)",
+    "para": "2. Identificação do autor (filho ou representante) e do réu (pretenso pai ou, se falecido, as pessoas indicadas no art. 1.819.º, n.º 1, CC, e ainda os herdeiros ou legatários cujos direitos sejam atingidos — n.º 2)",
+    "motivo": "Falecido o pretenso pai, a ação segue contra o cônjuge sobrevivo e sucessivamente descendentes, ascendentes ou irmãos (art. 1819.º, n.º 1, CC), não contra «herdeiros» em geral.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1817&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Prazo de caducidade verificado (art. 1.873.º CC)?",
+    "para": "- [ ] Prazo de caducidade verificado (art. 1.817.º CC, ex vi art. 1.873.º CC)?",
+    "motivo": "O prazo está no art. 1817.º CC; o art. 1873.º CC é a remissão.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1878&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Alimentos provisórios: pedidos se filho menor sem sustento?",
+    "para": "- [ ] Alimentos provisórios pedidos para o filho menor (art. 1.821.º CC)?",
+    "motivo": "O requisito é a probabilidade do reconhecimento, não a falta de sustento (art. 1821.º CC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1817&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Nome: [nome — se vivo; se falecido: nome e data de morte; herdeiros a citar]",
+    "para": "- Nome: [nome — se vivo; se falecido: nome e data de morte; cônjuge sobrevivo e, sucessivamente, descendentes, ascendentes ou irmãos a demandar (art. 1.819.º, n.º 1, CC); herdeiros ou legatários atingidos (n.º 2)]",
+    "motivo": "A legitimidade passiva por morte do pretenso pai segue o art. 1819.º CC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1817&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar a aplicação, com as necessárias adaptações, das janelas de 3 anos do art. 1817.º, n.º 3, CC ao caso concreto.",
+   "O n.º 1 do art. 1817.º CC foi alterado pela Lei n.º 39/2025, de 1 de abril (o texto consolidado já não refere a emancipação): confirmar a redação no Diário da República.",
+   "A jurisprudência do STJ sobre a recusa injustificada do exame de ADN continua por conferir.",
+   "Confirmar a competência territorial e o valor da causa (ação sobre o estado das pessoas): não conferidos."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1817&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1866&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1878&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0344&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0417&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1974A0122&nid=1974&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=682A0069&nid=682&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1906&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.tribunalconstitucional.pt/tc/acordaos/20110401.html"
+  ]
+ },
+ {
+  "codigo": "FAM-030",
+  "veredicto": "corrigida",
+  "resumo": "A ficha mandava aplicar à mudança de residência para o estrangeiro o art. 1906.º-A CC, com uma «notificação obrigatória com 90 dias de antecedência»: esse artigo trata das responsabilidades parentais em contexto de violência doméstica e o pré-aviso não está no Código Civil. Citava o art. 20.º RGPTC (assessoria técnica) para as providências cautelares (art. 28.º) e o art. 5.º para a audição a partir dos 12 anos (está no art. 35.º, n.º 3, que abrange também a criança mais nova com capacidade de compreensão). Substituí o «suprimento do consentimento» pelos meios do RGPTC (art. 44.º — falta de acordo em questão de particular importância — e art. 42.º — alteração da regulação) e acrescentei que a autorização de saída do país só é exigida ao menor que viaje sem nenhum dos titulares das responsabilidades parentais (art. 23.º do DL n.º 83/2000).",
+  "substituicoes": [
+   {
+    "de": "— Distingue: (a) deslocação temporária (férias/tratamento) vs. (b) mudança de residência permanente para o estrangeiro — as exigências legais diferem substancialmente.",
+    "para": "— Distingue: (a) deslocação temporária (férias/tratamento) vs. (b) mudança de residência permanente para o estrangeiro — as exigências legais diferem substancialmente. A autorização de saída do território nacional (art. 23.º do DL n.º 83/2000, de 11 de maio) só é exigida ao menor residente em Portugal que viaje sem nenhum dos titulares das responsabilidades parentais; viajando com um dos progenitores, as regras de fronteira não exigem autorização escrita do outro, mas a deslocação pode, consoante o destino, a duração e o risco, ser questão de particular importância a decidir por ambos (art. 1.906.º, n.º 1, CC) [■ VERIFICAR: jurisprudência sobre a qualificação da viagem no caso].",
+    "motivo": "Na deslocação temporária com um dos progenitores não é exigida, para efeitos de fronteira, autorização escrita do outro; só o menor que viaja sem nenhum dos titulares das responsabilidades parentais precisa de autorização de saída.",
+    "fonte": "https://www.gov.pt/servicos/dar-autorizacao-de-saida-de-menor-do-territorio-nacional"
+   },
+   {
+    "de": "— Na mudança de residência permanente, aplica o art. 1.906.º-A CC (aditado pela Lei n.º 24/2017).",
+    "para": "— Na mudança de residência permanente para o estrangeiro: é tratada como questão de particular importância, a decidir por ambos os progenitores (art. 1.906.º, n.º 1, CC) [■ VERIFICAR: jurisprudência]; sem acordo, decide o tribunal, a requerimento de qualquer deles (art. 44.º RGPTC), ou altera-se a regulação em vigor (art. 42.º RGPTC). O art. 1.906.º-A CC (aditado pela Lei n.º 24/2017) não trata desta matéria: regula o exercício das responsabilidades parentais em contexto de violência doméstica.",
+    "motivo": "O art. 1906.º-A CC trata da regulação das responsabilidades parentais em caso de violência doméstica; a mudança de residência resolve-se por acordo ou pelos meios dos arts. 42.º e 44.º RGPTC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1906&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Qual a idade do menor? (acima de 12 anos: o tribunal ouve o menor, art. 5.º RGPTC)",
+    "para": "- Qual a idade do menor? (a criança com mais de 12 anos, ou mais nova com capacidade para compreender os assuntos em discussão, é ouvida pelo tribunal — art. 35.º, n.º 3, RGPTC, arts. 4.º, n.º 1, al. c), e 5.º RGPTC e art. 1.906.º, n.º 9, CC)",
+    "motivo": "Os 12 anos estão no art. 35.º, n.º 3, RGPTC, que manda ouvir também a criança mais nova com capacidade de compreensão; o art. 5.º regula o modo da audição.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2428&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Art. 1.906.º-A CC (mudança de residência habitual para o estrangeiro — notificação obrigatória com 90 dias de antecedência)\n- RGPTC, Lei n.º 141/2015, de 8 de Setembro (processo tutelar cível; suprimento de consentimento)",
+    "para": "- Art. 1.906.º-A CC — não se aplica à mudança de residência: trata da regulação das responsabilidades parentais em caso de violência doméstica e de outras formas de violência em contexto familiar; o Código Civil não prevê a «notificação obrigatória com 90 dias de antecedência» [■ VERIFICAR: se o acordo ou a decisão de regulação em vigor preveem aviso prévio]\n- RGPTC, Lei n.º 141/2015, de 8 de setembro (processos tutelares cíveis, de jurisdição voluntária — art. 12.º; falta de acordo dos pais em questão de particular importância — art. 44.º; alteração da regulação — art. 42.º; tribunal da residência da criança — art. 9.º)",
+    "motivo": "O art. 1906.º-A CC não regula a mudança de residência nem impõe pré-aviso de 90 dias; o RGPTC não prevê um «suprimento de consentimento», mas a resolução do diferendo (art. 44.º) e a alteração da regulação (art. 42.º).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1906&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Via adequada: declaração de consentimento (via amigável) ou petição de suprimento (via judicial)",
+    "para": "- Via adequada: declaração de consentimento (via amigável) ou requerimento ao tribunal para resolução do diferendo (art. 44.º RGPTC) ou de alteração da regulação (art. 42.º RGPTC) (via judicial)",
+    "motivo": "O meio do RGPTC para a falta de acordo em questão de particular importância é o do art. 44.º; para mudar o regime fixado, o do art. 42.º.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2428&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Urgência: possibilidade de providência cautelar (art. 20.º RGPTC)",
+    "para": "- Urgência: decisão provisória ou cautelar, a requerimento ou oficiosamente, em qualquer estado da causa (art. 28.º RGPTC); em urgência manifesta, qualquer dos progenitores pode agir sozinho, informando o outro logo que possível (art. 1.906.º, n.º 1, CC); correm em férias os processos cuja demora possa prejudicar a criança (art. 13.º RGPTC)",
+    "motivo": "O art. 20.º RGPTC trata da assessoria técnica; as decisões provisórias e cautelares estão no art. 28.º RGPTC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2428&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "**Situação B — Petição de Suprimento Judicial do Consentimento (via judicial)**",
+    "para": "**Situação B — Requerimento de Resolução do Diferendo (art. 44.º RGPTC) ou de Alteração da Regulação (art. 42.º RGPTC) (via judicial)**",
+    "motivo": "O RGPTC não prevê um «suprimento de consentimento» entre progenitores; prevê a resolução do diferendo (art. 44.º) e a alteração da regulação (art. 42.º).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2428&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Fundamento: interesse superior do menor (art. 4.º RGPTC)",
+    "para": "- Fundamento: interesse superior da criança (art. 4.º, n.º 1, RGPTC, que remete para os princípios da lei de proteção de crianças e jovens em perigo — art. 4.º, al. a), da Lei n.º 147/99; art. 1.906.º, n.ºs 5 e 8, CC)",
+    "motivo": "O art. 4.º RGPTC consagra o superior interesse por remissão para o art. 4.º, al. a), da LPCJP; o critério de decisão está também no art. 1906.º, n.ºs 5 e 8, CC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=545A0004&nid=545&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Pedido: suprimento do consentimento ou autorização de mudança de residência",
+    "para": "- Pedido: que o tribunal resolva o diferendo, autorizando a deslocação ou a mudança de residência (art. 44.º RGPTC), ou que altere a regulação, fixando a residência no estrangeiro e o novo regime de convívios e de alimentos (art. 42.º RGPTC)",
+    "motivo": "O pedido próprio é a resolução do diferendo (art. 44.º RGPTC) ou a nova regulação (art. 42.º RGPTC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2428&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Menor com mais de 12 anos: audição prevista?",
+    "para": "- [ ] Audição da criança prevista (mais de 12 anos ou, abaixo dessa idade, com capacidade de compreensão — art. 35.º, n.º 3, RGPTC)?",
+    "motivo": "O art. 35.º, n.º 3, RGPTC manda ouvir também a criança com menos de 12 anos que tenha capacidade de compreensão.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2428&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar se, no caso, a viagem temporária é questão de particular importância (destino, duração, risco): a jurisprudência não foi conferida.",
+   "Ler o acordo ou a decisão de regulação em vigor: pode conter regras próprias sobre viagens ao estrangeiro ou aviso prévio.",
+   "O texto do art. 23.º do DL n.º 83/2000 foi confirmado só pela página oficial gov.pt, não pelo diploma; a Convenção da Haia de 1980 e o Regulamento (UE) 2019/1111 não foram conferidos nesta revisão.",
+   "Escolher entre o art. 44.º e o art. 42.º RGPTC conforme haja ou não regulação fixada e o pedido altere a residência."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1906&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2428&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=545A0004&nid=545&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.gov.pt/servicos/dar-autorizacao-de-saida-de-menor-do-territorio-nacional"
+  ]
+ },
+ {
+  "codigo": "FAM-037",
+  "veredicto": "corrigida",
+  "resumo": "A ficha previa uma carta de exigência de alimentos ao ex-companheiro com base no art. 2020.º CC, que só dá ao membro sobrevivo o direito de exigir alimentos da herança do falecido (a exercer nos dois anos seguintes à morte); na rutura em vida não há direito a alimentos entre os ex-membros. Aplicava também à rutura o art. 1106.º CC (transmissão por morte), quando o art. 4.º da Lei n.º 7/2001 manda aplicar os arts. 1105.º e 1793.º CC, com notificação oficiosa do senhorio (art. 1105.º, n.º 3, CC) e o processo do art. 990.º CPC. Reescrevi os documentos B e C, a fundamentação e a checklist em conformidade.",
+  "descricao": "Elabora a declaração de dissolução da união de facto e trata dos efeitos patrimoniais consequentes, ao abrigo da Lei n.º 7/2001, de 11 de maio (proteção das uniões de facto), com as alterações da Lei n.º 23/2010, de 30 de agosto — casa de morada comum na rutura (art. 4.º, com remissão para os arts. 1105.º e 1793.º do CC), compropriedade e enriquecimento sem causa (art. 473.º do CC) —, esclarecendo que na rutura não há direito a alimentos entre os ex-membros (o art. 2020.º do CC só vale contra a herança, em caso de morte).",
+  "descricao_en": "Prepares the declaration of dissolution of the de facto union and deals with the resulting property effects under Law No. 7/2001 of 11 May (protection of de facto unions), as amended by Law No. 23/2010 of 30 August — the shared home on breakdown (Art. 4, referring to Arts. 1105 and 1793 of the CC), co-ownership and unjust enrichment (Art. 473 of the CC) — and makes clear that on breakdown there is no right to maintenance between the former partners (Art. 2020 of the CC applies only against the estate, on death).",
+  "substituicoes": [
+   {
+    "de": "- Necessidade de alimentos (art. 2020.º CC)?",
+    "para": "- Alimentos: na rutura em vida não há direito a alimentos entre os ex-membros da união de facto; o direito do membro sobrevivo (art. 2020.º CC) só existe em caso de morte e exerce-se contra a herança do falecido. Alimentos dos filhos comuns: regulação das responsabilidades parentais (art. 43.º RGPTC)",
+    "motivo": "O art. 2020.º CC só confere alimentos ao membro sobrevivo, a exigir da herança; não cobre a rutura em vida.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2016&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Art. 2020.º CC: direito a alimentos após dissolução (condições de necessidade e possibilidade)",
+    "para": "- Art. 2020.º CC: só o membro sobrevivo tem o direito de exigir alimentos da herança do falecido; o direito caduca se não for exercido nos dois anos subsequentes à morte (n.º 2) e cessa nos casos do art. 2019.º CC (n.º 3); na rutura em vida não há direito a alimentos entre os ex-membros",
+    "motivo": "O art. 2020.º CC não dá alimentos «após dissolução» em geral: só ao membro sobrevivo, contra a herança e com prazo de caducidade de dois anos.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2016&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Art. 1106.º CC: transmissão do arrendamento para habitação ao membro sobrevivo ou que permaneça",
+    "para": "- Art. 1106.º CC: transmissão do arrendamento por morte do arrendatário a quem com ele vivesse em união de facto há mais de um ano (n.º 1, al. b); art. 5.º, n.º 10, da Lei n.º 7/2001), com comunicação ao senhorio no prazo de três meses (art. 1107.º, n.º 1, CC)\n- Art. 4.º da Lei n.º 7/2001: em caso de rutura aplicam-se os arts. 1105.º e 1793.º CC (destino do arrendamento da casa de morada de família por acordo ou, na falta dele, por decisão judicial; possibilidade de o tribunal dar de arrendamento a casa comum ou própria do outro) — processo do art. 990.º CPC",
+    "motivo": "O art. 1106.º CC só regula a transmissão por morte; na rutura, o art. 4.º da Lei n.º 7/2001 remete para os arts. 1105.º e 1793.º CC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=901&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Requerimento de transmissão do arrendamento (art. 1106.º CC) ao senhorio\n- Carta de exigência de alimentos ao ex-companheiro",
+    "para": "- Acordo sobre o destino da casa de morada comum (transmissão ou concentração do arrendamento — art. 1105.º CC, ex vi art. 4.º da Lei n.º 7/2001) ou, sem acordo, pedido de atribuição ao tribunal (art. 990.º CPC)\n- Regulação das responsabilidades parentais e dos alimentos dos filhos comuns, se os houver (art. 43.º RGPTC)",
+    "motivo": "Na rutura não se aplica o art. 1106.º CC nem há direito a alimentos entre os ex-membros; aplica-se o art. 1105.º CC (ex vi art. 4.º da Lei n.º 7/2001) e o processo do art. 990.º CPC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0990&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "**B) REQUERIMENTO DE ALIMENTOS (carta):**\n[Nome] notifica [nome] que, ao abrigo do art. 2020.º do Código Civil, se encontra em situação de necessidade e requer a prestação de alimentos no montante de € [valor] mensais, nos termos seguintes: [...]",
+    "para": "**B) ALIMENTOS — NÃO HÁ DIREITO ENTRE EX-MEMBROS DA UNIÃO DE FACTO:**\nNão redigir carta de exigência de alimentos ao ex-companheiro: o art. 2020.º do Código Civil só confere ao membro sobrevivo o direito de exigir alimentos da herança do falecido, nos dois anos subsequentes à morte. Na rutura em vida, os alimentos só podem resultar de acordo voluntário (obrigação alimentar com fonte em negócio jurídico — art. 2014.º, n.º 1, CC). Os alimentos devidos aos filhos comuns fixam-se na regulação das responsabilidades parentais (arts. 43.º e 45.º RGPTC).",
+    "motivo": "O art. 2020.º CC não dá direito a alimentos entre ex-membros da união de facto na rutura em vida; a carta exigiria um direito inexistente.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2016&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "**C) REQUERIMENTO AO SENHORIO (art. 1106.º CC):**\nExmo. Sr./Sra. [nome do senhorio], [...]",
+    "para": "**C) CASA DE MORADA COMUM ARRENDADA (art. 1105.º CC, ex vi art. 4.º da Lei n.º 7/2001):**\nAcordo entre [nome] e [nome] sobre o destino do arrendamento da casa de morada comum sita em [morada]: transmissão ou concentração da posição de arrendatário a favor de [nome] (art. 1105.º, n.º 1, CC). Na falta de acordo, o pedido é deduzido no tribunal (art. 990.º CPC), que decide tendo em conta a necessidade de cada um, os interesses dos filhos e outros fatores relevantes (art. 1105.º, n.º 2, CC). O acordo homologado ou a decisão judicial são notificados oficiosamente ao senhorio (art. 1105.º, n.º 3, CC). [■ VERIFICAR: via de homologação do acordo entre ex-membros da união de facto.] Se o arrendatário tiver falecido, aplica-se o art. 1106.º CC, com comunicação ao senhorio no prazo de três meses (art. 1107.º, n.º 1, CC).",
+    "motivo": "Na rutura não há «requerimento ao senhorio» ao abrigo do art. 1106.º CC: o destino do arrendamento decide-se por acordo ou pelo tribunal e é notificado oficiosamente ao senhorio (art. 1105.º CC, ex vi art. 4.º da Lei n.º 7/2001).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1105&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Arrendamento: notificação ao senhorio dentro do prazo legal",
+    "para": "- [ ] Arrendamento: na rutura, acordo homologado ou decisão judicial notificados oficiosamente ao senhorio (art. 1105.º, n.º 3, CC); por morte do arrendatário, comunicação ao senhorio no prazo de três meses (art. 1107.º, n.º 1, CC)",
+    "motivo": "Na rutura a notificação ao senhorio é oficiosa (art. 1105.º, n.º 3, CC); o prazo de três meses é o da transmissão por morte (art. 1107.º CC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1105&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Alimentos: condições do art. 2020.º CC verificadas (necessidade + possibilidade)",
+    "para": "- [ ] Alimentos: cliente informado de que não há alimentos entre ex-membros na rutura (o art. 2020.º CC só vale contra a herança, em caso de morte); alimentos dos filhos comuns tratados na regulação das responsabilidades parentais",
+    "motivo": "O art. 2020.º CC não cobre a rutura em vida.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2016&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "**ALIMENTOS:** [pretende reclamar alimentos? Situação económica atual]",
+    "para": "**ALIMENTOS:** [há filhos comuns cujos alimentos devam ser fixados ou alterados? Há acordo voluntário de alimentos entre os ex-membros?]",
+    "motivo": "Não há direito legal a alimentos entre ex-membros da união de facto na rutura.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2016&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar a via de homologação do acordo sobre o arrendamento entre ex-membros da união de facto e se convém comunicar também ao senhorio.",
+   "Confirmar a prova da união de facto (art. 2.º-A da Lei n.º 7/2001) e se é necessária declaração judicial da dissolução (art. 8.º, n.ºs 2 e 3).",
+   "Na casa própria de um ou comum, ponderar o pedido do art. 1793.º CC (ex vi art. 4.º da Lei n.º 7/2001).",
+   "Confirmar a subsidiariedade do enriquecimento sem causa no caso (não conferida nesta revisão)."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2016&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=901&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1105&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0990&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1792&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2428&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+  ]
+ },
+ {
+  "codigo": "FAM-048",
+  "veredicto": "corrigida",
+  "resumo": "A ficha citava um art. 8.º-A da Lei n.º 32/2006 que não existe (o contrato está no art. 8.º, n.ºs 13 e 14, e os direitos e deveres da gestante nos arts. 13.º-A e 13.º-B), dava o contrato como «irrevogável após transferência do embrião» (a gestante pode revogar o consentimento até ao registo da criança — arts. 8.º, n.º 10, e 14.º, n.º 5) e descrevia o regime como não revisto depois do Ac. TC n.º 225/2018, quando a Lei n.º 90/2021 o reformulou. Corrigi ainda os requisitos da gestante (mãe «preferencialmente», sem exigência legal de parentesco ou amizade, sem subordinação económica), a filiação (n.º 9, não n.º 8) e a lista de cláusulas do contrato, que passa a seguir as alíneas obrigatórias do art. 8.º, n.º 13 — incluindo a IVG, que a lei manda regular (al. h)), ao contrário do que a triagem supunha.",
+  "titulo": "Gestação de Substituição — Assessoria Jurídica e Contrato (art. 8.º Lei n.º 32/2006)",
+  "titulo_en": "Surrogacy — Legal Advice and Contract (Art. 8 of Law No. 32/2006)",
+  "descricao": "Elabora assessoria jurídica e minuta de contrato de gestação de substituição ao abrigo do art. 8.º da Lei n.º 32/2006, na redação da Lei n.º 90/2021, que reformulou o regime depois do Acórdão do TC n.º 225/2018, com os direitos e deveres da gestante (arts. 13.º-A e 13.º-B), identificando os requisitos legais, a autorização prévia do CNPMA, as cláusulas obrigatórias do contrato e as regras de estabelecimento da filiação.",
+  "descricao_en": "Provides legal advice and a draft surrogacy (gestação de substituição) contract under Art. 8 of Law No. 32/2006, as amended by Law No. 90/2021, which reshaped the regime after Constitutional Court (TC) Ruling No. 225/2018, with the surrogate's rights and duties (Arts. 13-A and 13-B), identifying the legal requirements, the prior authorisation of the National Council for Medically Assisted Reproduction (CNPMA), the mandatory contract clauses and the rules on establishing parentage.",
+  "substituicoes": [
+   {
+    "de": "- Beneficiários: quem pode recorrer à GS (art. 8.º, n.º 2: impossibilidade de gravidez por ausência de útero, lesão ou doença — certificado médico obrigatório)\n- Gestante de substituição: mulher com filhos próprios, relação de parentesco ou amizade com os beneficiários, sem fins lucrativos\n- Gâmetas: os beneficiários devem contribuir com, pelo menos, um gâmeta (a GS não pode ser com gâmetas exclusivos da gestante)\n- Autorização do CNPMA: obrigatória antes de qualquer ato médico\n- Contrato: celebrado antes, título gratuito, irrevogável após transferência do embrião",
+    "para": "- Beneficiários: quem pode recorrer à GS (art. 8.º, n.º 2: ausência de útero, lesão ou doença deste órgão ou outra situação clínica que impeça de forma absoluta e definitiva a gravidez da mulher — comprovada por documentação médica do centro de PMA, art. 8.º, n.º 6, al. c))\n- Gestante de substituição: preferencialmente uma mulher que já tenha sido mãe, sem prejuízo das circunstâncias do caso (art. 8.º, n.º 3); sem relação de subordinação económica, laboral ou de prestação de serviços, com os beneficiários (art. 8.º, n.º 8); a título gratuito, só podendo ser pagas as despesas com o acompanhamento de saúde efetivamente prestado, incluindo transportes, tituladas em documento próprio (art. 8.º, n.º 7). A lei não exige relação de parentesco ou de amizade\n- Gâmetas: com recurso aos gâmetas de, pelo menos, um dos beneficiários; a gestante não pode, em caso algum, ser a dadora de qualquer ovócito usado no procedimento (art. 8.º, n.º 4)\n- Autorização do CNPMA: prévia à celebração do contrato, sempre antecedida de audição da Ordem dos Médicos e da Ordem dos Psicólogos, e só concedida se o contrato observar as cláusulas do art. 8.º, n.º 13 (art. 8.º, n.ºs 5 e 6)\n- Contrato: escrito e gratuito, supervisionado pelo CNPMA (art. 8.º, n.º 13); o consentimento da gestante é livremente revogável até ao registo da criança nascida (art. 8.º, n.º 10, e art. 14.º, n.º 5); o dos beneficiários, até ao início dos processos terapêuticos de PMA (art. 14.º, n.º 4)",
+    "motivo": "O contrato não é irrevogável: a gestante pode revogar o consentimento até ao registo da criança; ser mãe é preferencial e não obrigatório; a lei não exige parentesco ou amizade, mas proíbe a subordinação económica; a gestante não pode doar qualquer ovócito; a autorização do CNPMA é prévia à celebração do contrato.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=903&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Art. 8.º-A Lei n.º 32/2006: contrato de gestação de substituição\n- Art. 8.º, n.º 8 Lei n.º 32/2006: filiação — a criança é filha dos beneficiários\n- Acórdão TC n.º 225/2018: declarou inconstitucional a irrevogabilidade do consentimento pela gestante; regime transitório e incerteza atual\n- Regulamento do CNPMA sobre GS",
+    "para": "- Art. 8.º, n.ºs 13 e 14, Lei n.º 32/2006: contrato de gestação de substituição (cláusulas obrigatórias; proibição de impor à gestante normas que atentem contra os seus direitos)\n- Arts. 13.º-A e 13.º-B Lei n.º 32/2006: direitos e deveres da gestante de substituição (aditados pela Lei n.º 90/2021, de 16 de dezembro)\n- Art. 14.º Lei n.º 32/2006: consentimento (n.º 4: dos beneficiários, revogável até ao início dos processos terapêuticos de PMA; n.º 5: da gestante, revogável até ao registo da criança nascida)\n- Art. 8.º, n.º 9 Lei n.º 32/2006: filiação — a criança é tida como filha dos beneficiários, sem prejuízo da revogação do consentimento da gestante (n.º 10)\n- Art. 39.º Lei n.º 32/2006: crimes (GS a título oneroso; GS gratuita fora dos casos legais; promoção; benefício económico)\n- Acórdão TC n.º 225/2018: declarou inconstitucionais, com força obrigatória geral, várias normas do art. 8.º, incluindo, em conjugação com o art. 14.º, n.º 5, a que não admitia a revogação do consentimento da gestante até à entrega da criança; a Lei n.º 90/2021 reformulou o regime\n- Regulamentação da Lei n.º 32/2006 (art. 48.º) e formulário do CNPMA (art. 8.º, n.º 6) [■ VERIFICAR: diploma regulamentar em vigor para a GS na redação da Lei n.º 90/2021]",
+    "motivo": "O art. 8.º-A não existe; a filiação está no n.º 9 do art. 8.º; o regime foi reformulado pela Lei n.º 90/2021 depois do Ac. TC n.º 225/2018.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=903&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Após o Acórdão TC n.º 225/2018, o legislador não reviu suficientemente a lei\n- ALERTA: verificar sempre a legislação mais atual e se o CNPMA está a autorizar novos processos — o regime passou por suspensão parcial\n- Incerteza jurídica: comunicar claramente ao cliente",
+    "para": "- Após o Acórdão TC n.º 225/2018, a Lei n.º 90/2021, de 16 de dezembro, reformulou o regime da GS (art. 8.º, arts. 13.º-A e 13.º-B e art. 14.º, n.º 5): a gestante pode revogar o consentimento até ao registo da criança\n- ALERTA: verificar sempre a legislação mais atual, a regulamentação e se o CNPMA está a receber e a autorizar pedidos [■ VERIFICAR: estado da regulamentação e da prática do CNPMA à data]\n- Risco a comunicar claramente ao cliente: a revogação do consentimento pela gestante até ao registo da criança",
+    "motivo": "O regime não ficou por rever: a Lei n.º 90/2021 alterou os arts. 8.º e 14.º e aditou os arts. 13.º-A e 13.º-B.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=903&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "O contrato de GS (art. 8.º-A Lei n.º 32/2006) deve incluir:\n1. Identificação dos beneficiários e da gestante\n2. Declaração do médico responsável sobre os requisitos médicos\n3. Reafirmação do carácter gratuito (apenas despesas comprovadas são reembolsáveis)\n4. Obrigações da gestante: cuidados de saúde, comunicações obrigatórias\n5. Obrigações dos beneficiários: suporte emocional e financeiro das despesas\n6. Regime de filiação: criança é filha dos beneficiários\n7. Disposições sobre eventual discordância quanto a IVG durante a gravidez\n8. Cláusula de submissão ao Direito português",
+    "para": "O contrato de GS (art. 8.º, n.º 13, Lei n.º 32/2006) é escrito e inclui obrigatoriamente, entre outras, cláusulas sobre:\n1. Identificação dos beneficiários e da gestante e documentação médica do centro de PMA que comprove os requisitos (art. 8.º, n.º 6)\n2. Obrigações da gestante quanto às orientações médicas do obstetra e à realização dos exames e atos terapêuticos indispensáveis (al. a))\n3. Direitos da gestante na escolha do obstetra, do tipo de parto e do local do parto (al. b)) e a acompanhamento psicológico antes, durante e após o parto (al. c))\n4. Outras obrigações e direitos da gestante, como a possibilidade de recusar exames de diagnóstico (ex.: amniocentese) e as viagens no terceiro trimestre (al. d))\n5. Informação sobre as técnicas e os seus riscos para a saúde e sobre a influência do estilo de vida da gestante no desenvolvimento embrionário e fetal (als. e) e f))\n6. Disposições sobre intercorrências de saúde na gestação (al. g)) e sobre eventual interrupção voluntária da gravidez, em conformidade com a legislação em vigor (al. h)) — sem impor à gestante normas que atentem contra os seus direitos (art. 8.º, n.º 14, e art. 13.º-A)\n7. Denúncia do contrato após um número de tentativas de gravidez falhadas (al. i)) e termos de revogação do consentimento ou do contrato (al. j)), respeitando a revogabilidade do consentimento da gestante até ao registo da criança\n8. Gratuitidade: proibição de qualquer pagamento ou doação além das despesas com o acompanhamento de saúde efetivamente prestado, incluindo transportes, tituladas em documento (al. k); art. 8.º, n.º 7)\n9. Subsistemas ou seguros de saúde associados (al. l))\n10. Forma de resolução de conflitos entre as partes (al. m))\n11. Regime de filiação: a criança é tida como filha dos beneficiários (art. 8.º, n.º 9), sem prejuízo do n.º 10",
+    "motivo": "O art. 8.º-A não existe; as cláusulas obrigatórias do contrato são as do art. 8.º, n.º 13 (sem elas o CNPMA não autoriza, n.º 5), e a da IVG é das que a lei manda prever (al. h)).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=903&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Gestante tem filhos próprios",
+    "para": "- [ ] Gestante já foi mãe (preferencial, não obrigatório — art. 8.º, n.º 3) e sem relação de subordinação económica com os beneficiários (art. 8.º, n.º 8)",
+    "motivo": "Ter sido mãe é preferencial, não requisito (art. 8.º, n.º 3); a subordinação económica impede o contrato (n.º 8).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=903&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Estado atual do regime (pós-TC 225/2018) comunicado ao cliente",
+    "para": "- [ ] Regime da Lei n.º 90/2021 comunicado ao cliente, incluindo a revogabilidade do consentimento da gestante até ao registo da criança",
+    "motivo": "O regime atual é o da Lei n.º 90/2021 (arts. 8.º, n.º 10, e 14.º, n.º 5).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=903&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Relação com os beneficiários: [parentesco / amizade — especificar]",
+    "para": "- Relação com os beneficiários: [parentesco / amizade / outra — especificar; confirmar que não há relação de subordinação económica, laboral ou de prestação de serviços (art. 8.º, n.º 8)]",
+    "motivo": "A lei não exige parentesco ou amizade, mas proíbe a subordinação económica entre as partes (art. 8.º, n.º 8).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=903&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar o diploma regulamentar em vigor para a GS na redação da Lei n.º 90/2021 e se o CNPMA está a receber e a autorizar pedidos.",
+   "Confirmar quem pode ser beneficiário à luz do art. 6.º da Lei n.º 32/2006 e do art. 8.º, n.º 2 (não revisto em detalhe).",
+   "Explicar ao cliente o risco da revogação do consentimento pela gestante até ao registo da criança e as suas consequências na filiação.",
+   "A limitação de efeitos do Ac. TC n.º 225/2018 (al. g)) só releva para contratos autorizados e já em execução nessa data."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=903&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.tribunalconstitucional.pt/tc/acordaos/20180225.html"
+  ]
+ }
+]

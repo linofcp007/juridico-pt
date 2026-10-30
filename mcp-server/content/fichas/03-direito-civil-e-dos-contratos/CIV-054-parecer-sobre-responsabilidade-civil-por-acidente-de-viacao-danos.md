@@ -6,7 +6,8 @@ titulo_en: "Opinion on Civil Liability for a Road Traffic Accident — Personal 
 descricao: "Analisa e quantifica os danos sofridos em acidente de viação, distinguindo danos patrimoniais (dano emergente, lucros cessantes, dano biológico) e não patrimoniais (sofrimento, desfiguração, perda de qualidade de vida), nos termos dos arts. 483.º, 562.º a 566.º e 496.º do Código Civil, com referência à indemnização obrigatória pelo seguro de responsabilidade civil automóvel (DL n.º 291/2007, de 21 de agosto)."
 descricao_en: "Analyses and quantifies the damage sustained in a road traffic accident, distinguishing pecuniary damage (actual loss, loss of profit, biological damage) from non-pecuniary damage (suffering, disfigurement, loss of quality of life), under Articles 483, 562 to 566 and 496 of the Civil Code, with reference to the compensation payable under compulsory motor third-party liability insurance (Decree-Law No. 291/2007 of 21 August)."
 ambito: nacional
-estado_citacoes: "conferidas 11 · corrigidas 1 · por conferir 0"
+estado_citacoes: "conferidas 17 · corrigidas 1 · por conferir 7"
+revisao_tecnica: "2026-10-28 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
@@ -14,7 +15,8 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 
 > **Âmbito:** nacional · **Área:** Direito Civil e dos Contratos · **Código:** CIV-054
 > **EN:** Opinion on Civil Liability for a Road Traffic Accident — Personal Injury and Non-Pecuniary Damage. Analyses and quantifies the damage sustained in a road traffic accident, distinguishing pecuniary damage (actual loss, loss of profit, biological damage) from non-pecuniary damage (suffering, disfigurement, loss of quality of life), under Articles 483, 562 to 566 and 496 of the Civil Code, with reference to the compensation payable under compulsory motor third-party liability insurance (Decree-Law No. 291/2007 of 21 August).
-> **Citações:** conferidas 11 · corrigidas 1 · por conferir 0. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 17 · corrigidas 1 · por conferir 7. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-28 — corrigida (7 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
 Analisa e quantifica os danos sofridos em acidente de viação, distinguindo danos patrimoniais (dano emergente, lucros cessantes, dano biológico) e não patrimoniais (sofrimento, desfiguração, perda de qualidade de vida), nos termos dos arts. 483.º, 562.º a 566.º e 496.º do Código Civil, com referência à indemnização obrigatória pelo seguro de responsabilidade civil automóvel (DL n.º 291/2007, de 21 de agosto).
 
@@ -23,8 +25,8 @@ Analisa e quantifica os danos sofridos em acidente de viação, distinguindo dan
 Ficha de trabalho para preparar este documento. As regras da casa prevalecem sobre a ficha: registo de advogado, nunca afirmar inscrição na Ordem dos Advogados, citar só normas conferidas ou com `[■ VERIFICAR]`, e seguir o fluxo de `assets/redacao/redator.md`.
 
 ## Regras obrigatórias
-— Usa as tabelas de dano corporal e a Portaria n.º 377/2008, de 26 de maio (atualizada), como referência de cálculo.
-— Distingue IPP (incapacidade permanente parcial) de ITA (incapacidade temporária absoluta) e ITP.
+— Usa como referência a tabela de avaliação de incapacidades permanentes em direito civil (anexo II do DL n.º 352/2007, de 23 de outubro) e a Portaria n.º 377/2008, de 26 de maio (na redação em vigor), lembrando que esta fixa critérios e valores orientadores para a proposta razoável das seguradoras e não afasta a indemnização de outros danos nem a fixação de valores superiores (art. 1.º, n.º 2, da Portaria); o tribunal fixa a indemnização segundo os arts. 562.º a 566.º e 496.º CC.
+— Distingue IPP (incapacidade permanente parcial) de ITA (incapacidade temporária absoluta) e ITP; na perícia médico-legal em direito civil, a incapacidade permanente é avaliada como défice funcional permanente da integridade físico-psíquica, em pontos (anexo II do DL n.º 352/2007), e não se confunde com a incapacidade para o trabalho [■ VERIFICAR: parâmetros e terminologia do relatório pericial do caso].
 — Nunca inventes valores de jurisprudência; marca [■ VERIFICAR acórdão] se citar jurisprudência.
 
 ## Framework P.A.C.E.F — 5 Etapas
@@ -41,14 +43,15 @@ Apresenta em <analise_da_situacao>:
 ### ETAPA 2 — ANÁLISE JURÍDICA
 Apresenta em <fundamentos_juridicos>:
 - Art. 483.º CC: responsabilidade civil por factos ilícitos
+- Arts. 503.º a 508.º CC: responsabilidade pelo risco nos acidentes causados por veículos — quem tem a direção efetiva do veículo e o utiliza no seu próprio interesse responde pelos riscos próprios do veículo (art. 503.º, n.º 1, CC); quem conduz por conta de outrem responde, salvo se provar que não houve culpa sua (art. 503.º, n.º 3, CC); colisão de veículos (art. 506.º CC); limites máximos quando não haja culpa do responsável (art. 508.º CC)
 - Art. 562.º CC: reconstituição natural como regra
 - Art. 563.º CC: nexo de causalidade
 - Art. 564.º CC: danos emergentes e lucros cessantes
 - Art. 567.º CC: fixação da indemnização em prestação ou capital
 - Art. 566.º CC: indemnização em dinheiro (quando reconstituição impossível)
 - Art. 496.º CC: danos não patrimoniais e equidade
-- Portaria n.º 377/2008: tabelas de cálculo de dano corporal
-- DL n.º 291/2007: seguro obrigatório, proposta razoável no prazo de 30 dias
+- Portaria n.º 377/2008: critérios e valores orientadores da proposta razoável de indemnização do dano corporal pelas seguradoras; não afasta a indemnização de outros danos nem a fixação de valores superiores (art. 1.º, n.º 2)
+- DL n.º 291/2007: seguro obrigatório e regularização de sinistros — nos danos corporais, a seguradora comunica a assunção ou não da responsabilidade, com proposta razoável, no prazo de 45 dias a contar do pedido de indemnização, se já houver relatório de alta clínica e o dano for totalmente quantificável; caso contrário, apresenta proposta provisória (arts. 37.º, n.ºs 1, al. c), e 2, e 39.º); o prazo de 30 dias úteis do art. 36.º, n.º 1, al. e), respeita aos danos materiais; a proposta manifestamente insuficiente pode dar lugar a juros no dobro da taxa legal sobre a diferença (arts. 38.º, n.º 3, e 39.º, n.º 2), salvo se tiver seguido a tabela indicativa de direito civil (art. 39.º, n.º 3) [■ VERIFICAR: redação destes artigos após a republicação do DL n.º 291/2007 pelo DL n.º 26/2025]
 
 ### ETAPA 3 — ESTRUTURA DO PARECER
 Define em <estrutura_parecer>:
@@ -106,8 +109,8 @@ Total indemnizatório estimado: **€ [TOTAL]**
 - [ ] Rendimento do lesado documentado (recibos de vencimento / IRS)
 - [ ] Dano emergente documentado (recibos, faturas)
 - [ ] Dano não patrimonial quantificado por equidade (art. 496.º CC)
-- [ ] Proposta da seguradora (prazo 30 dias DL n.º 291/2007) analisada
-- [ ] Prescrição verificada: 3 anos da data do acidente (art. 498.º CC)
+- [ ] Proposta razoável da seguradora analisada (danos corporais: 45 dias a contar do pedido de indemnização, havendo relatório de alta clínica, ou proposta provisória — arts. 37.º e 39.º do DL n.º 291/2007) [■ VERIFICAR: redação após o DL n.º 26/2025]
+- [ ] Prescrição verificada (art. 498.º CC): 3 anos a contar da data em que o lesado teve conhecimento do direito, ainda que sem conhecer o responsável nem a extensão integral dos danos (n.º 1); se o facto constituir crime com prescrição sujeita a prazo mais longo, é este o aplicável (n.º 3)
 - [ ] [■ VERIFICAR] itens em falta
 
 ---
@@ -129,13 +132,26 @@ Total indemnizatório estimado: **€ [TOTAL]**
 
 | Citação | Estado | Nota |
 |---|---|---|
+| art. 1.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 1.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| arts. 562.º a 566.º e 496.º CC | conferida (epígrafe) — Princípio geral |  |
 | Art. 483.º CC | conferida (índice) |  |
+| Arts. 503.º a 508.º CC | conferida (epígrafe) — Acidentes causados por veículos |  |
+| art. 503.º, n.º 1, CC | conferida (epígrafe) — Acidentes causados por veículos |  |
+| art. 503.º, n.º 3, CC | conferida (epígrafe) — Acidentes causados por veículos |  |
+| art. 506.º CC | conferida (epígrafe) — Colisão de veículos |  |
+| art. 508.º CC | conferida (epígrafe) — Limites máximos |  |
 | Art. 562.º CC | conferida (epígrafe) — Princípio geral |  |
 | Art. 563.º CC | conferida (epígrafe) — Nexo de causalidade |  |
 | Art. 564.º CC | conferida (epígrafe) — Cálculo da indemnização |  |
 | Art. 567.º CC | corrigida — Indemnização em renda | o número citado no catálogo não correspondia à epígrafe |
 | Art. 566.º CC | conferida (epígrafe) — Indemnização em dinheiro |  |
 | Art. 496.º CC | conferida (epígrafe) — Danos não patrimoniais |  |
+| arts. 37.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| arts. 37.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 36.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| arts. 38.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 39.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | arts. 562.º e 564.º CC | conferida (epígrafe) — Princípio geral |  |
 | art. 496.º CC | conferida (epígrafe) — Danos não patrimoniais |  |
 | art. 496.º CC | conferida (epígrafe) — Danos não patrimoniais |  |

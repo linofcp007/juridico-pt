@@ -1,0 +1,731 @@
+[
+ {
+  "codigo": "INS-035",
+  "veredicto": "corrigida",
+  "resumo": "A ficha tratava os arts. 249.º a 263.º CIRE como um «regime simplificado» e pedia a «tramitação pelo processo simplificado», que não existe: o capítulo prevê o plano de pagamentos aos credores e afasta o plano de insolvência e a administração pelo devedor. Remetia os documentos da petição para o art. 253.º (pedido por terceiro), tratava o apoio judiciário como «isenção de custas», inventava um «regime especial de apreensão» da casa de morada de família (art. 244.º é a decisão final da exoneração) e um «regime de sobreendividamento». Corrigiram-se o âmbito do art. 249.º, os documentos (arts. 23.º e 24.º), as custas (Lei n.º 34/2004 e art. 248.º), os bens impenhoráveis (art. 46.º, n.º 2), a casa de morada de família, a preclusão do art. 254.º, o tribunal competente, o pedido, a checklist e a descrição.",
+  "descricao": "Elabora a petição de apresentação à insolvência de pessoa singular não empresária (consumidor), ao abrigo dos artigos 249.º a 263.º do CIRE, com análise do regime especial aplicável (plano de pagamentos aos credores, inadmissibilidade de plano de insolvência e de administração pelo devedor), das particularidades do processo e da articulação com o pedido de exoneração do passivo restante.",
+  "descricao_en": "Prepares the petition for an individual who is not a trader (consumer) to file for insolvency, under Articles 249 to 263 of the CIRE, analysing the special regime applicable (payment plan to creditors, no insolvency plan and no debtor-in-possession administration), the particular features of the proceedings and the link with the application for discharge of remaining liabilities.",
+  "substituicoes": [
+   {
+    "de": "- Verificação da qualidade de não empresário (art. 249.º CIRE)",
+    "para": "- Verificação do âmbito do art. 249.º CIRE: pessoa singular que não tenha sido titular da exploração de empresa nos três anos anteriores ao início do processo ou, tendo-o sido, que à data do início do processo não tenha dívidas laborais, não tenha mais de 20 credores e cujo passivo global não exceda € 300 000",
+    "motivo": "O art. 249.º não se limita à «qualidade de não empresário»: tem dois critérios alternativos (sem empresa nos três anos anteriores, ou sem dívidas laborais, até 20 credores e passivo até € 300 000).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0249&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Comparação com alternativas: PEAP, negociação extrajudicial, regime de sobreendividamento",
+    "para": "- Comparação com alternativas: PEAP (só em situação económica difícil ou de insolvência meramente iminente — art. 222.º-A CIRE), negociação extrajudicial e, quanto a créditos bancários contraídos como consumidor, o PERSI e a rede de apoio a clientes bancários (Decreto-Lei n.º 227/2012)",
+    "motivo": "Não há um «regime de sobreendividamento» de reestruturação de dívidas; o PEAP exclui a insolvência atual; para o crédito bancário de consumidores existe o PERSI (DL 227/2012).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1821&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Regime simplificado de insolvência de pessoa singular (arts. 249.º a 263.º CIRE)",
+    "para": "- Regime especial da insolvência de não empresários e titulares de pequenas empresas (arts. 249.º a 263.º CIRE): não há processo «simplificado»; as especialidades são a inadmissibilidade de plano de insolvência e de administração pelo devedor (art. 250.º CIRE) e a possibilidade de apresentar, com a petição inicial, um plano de pagamentos aos credores (art. 251.º CIRE), que leva à suspensão do processo de insolvência até à decisão do incidente, salvo se for altamente improvável a sua aprovação (art. 255.º, n.º 1, CIRE)",
+    "motivo": "Os arts. 249.º a 263.º não criam uma tramitação simplificada: regulam o plano de pagamentos e afastam o plano de insolvência e a administração pelo devedor.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0250&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Documentos obrigatórios na petição (art. 253.º CIRE): lista de bens, lista de dívidas, rendimentos",
+    "para": "- Petição e documentos: indicação de que a insolvência é atual ou iminente e de que pretende a exoneração do passivo restante (art. 23.º, n.º 2, al. a), CIRE); relação de credores, relação das ações e execuções pendentes, documento sobre as atividades dos últimos três anos e relação de bens (art. 24.º, n.º 1, CIRE); se apresentar plano de pagamentos, os anexos do art. 252.º, n.º 5, CIRE",
+    "motivo": "O art. 253.º trata do pedido de insolvência apresentado por terceiro; o conteúdo da petição e os documentos estão nos arts. 23.º e 24.º (e no art. 252.º, n.º 5, para o plano de pagamentos).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0024&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Isenção de custas (apoio judiciário) e sua relevância prática",
+    "para": "- Custas: o apoio judiciário não é uma isenção, mas a dispensa ou o pagamento faseado da taxa de justiça e demais encargos e a nomeação de patrono (art. 16.º da Lei n.º 34/2004); quem pede a exoneração beneficia ainda do diferimento do pagamento das custas até à decisão final desse pedido, na parte em que a massa insolvente e o rendimento disponível sejam insuficientes (art. 248.º, n.º 1, CIRE)",
+    "motivo": "O apoio judiciário tem as modalidades do art. 16.º da Lei 34/2004 (não é isenção de custas); o devedor que pede a exoneração tem o diferimento das custas do art. 248.º CIRE.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=80A0016&nid=80&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Bens impenhoráveis (art. 601.º CPC por remissão do art. 46.º CIRE)",
+    "para": "- Bens isentos de penhora (arts. 736.º a 738.º CPC): só integram a massa insolvente se o devedor voluntariamente os apresentar e a impenhorabilidade não for absoluta (art. 46.º, n.º 2, CIRE)",
+    "motivo": "O art. 46.º, n.º 2, CIRE não remete para um artigo concreto: os bens isentos de penhora só entram na massa se o devedor os apresentar e a impenhorabilidade não for absoluta.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0046&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Casa de morada de família: regime especial de apreensão (art. 244.º CIRE)",
+    "para": "- Casa de morada de família: o CIRE não prevê um regime especial de apreensão; sendo própria, integra a massa insolvente (art. 46.º, n.º 1, CIRE) e responde nos termos gerais, a ponderar com a hipoteca e as alternativas (plano de pagamentos, negociação com o credor hipotecário); sendo arrendada, o administrador não pode denunciar o arrendamento, podendo apenas declarar que as rendas vencidas depois de 60 dias não são exigíveis no processo (art. 108.º, n.º 2, CIRE)",
+    "motivo": "O art. 244.º trata da decisão final da exoneração; o CIRE não tem regime especial de apreensão da casa de morada de família (só o regime do arrendamento para habitação do insolvente, art. 108.º, n.º 2).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0108&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Pedido simultâneo de EPR na petição inicial (art. 236.º, n.º 1, CIRE)",
+    "para": "- Pedido simultâneo de EPR na petição inicial (art. 236.º, n.º 1, CIRE)\n- Se apresentar plano de pagamentos, declarar logo que pretende a exoneração para o caso de o plano não ser aprovado, sob pena de preclusão (art. 254.º CIRE)",
+    "motivo": "Falta a regra de preclusão da exoneração para quem apresenta plano de pagamentos sem declarar que a pretende.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0254&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "**AO [TRIBUNAL DE COMÉRCIO / JUÍZO DE COMÉRCIO] DE [COMARCA]**",
+    "para": "**AO TRIBUNAL JUDICIAL DA COMARCA DE [COMARCA] — JUÍZO DE COMÉRCIO DE [LOCALIDADE]** [■ VERIFICAR: juízo competente do domicílio do devedor (art. 7.º CIRE); onde não houver juízo de comércio, o juízo cível competente]",
+    "motivo": "Os tribunais de comércio deram lugar aos juízos de comércio dos tribunais de comarca, competentes para os processos de insolvência (art. 128.º, n.º 1, al. a), da LOSJ).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1974A0128&nid=1974&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "**REQUER:** a declaração de insolvência e a tramitação pelo processo simplificado (arts. 249.º e ss. CIRE).",
+    "para": "**REQUER:** a declaração de insolvência [ou, sendo apresentado plano de pagamentos com a petição (art. 251.º CIRE), a tramitação do incidente de aprovação do plano de pagamentos, com suspensão do processo de insolvência (arts. 255.º e 263.º CIRE)] e a prolação do despacho inicial de exoneração do passivo restante (art. 239.º CIRE).",
+    "motivo": "Não existe «processo simplificado»; o pedido é a declaração de insolvência ou, com plano de pagamentos, o incidente de aprovação deste, e o despacho inicial da exoneração.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0255&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Qualidade de não empresário verificada (art. 249.º CIRE)",
+    "para": "- [ ] Requisitos do art. 249.º CIRE verificados (sem empresa nos três anos anteriores ou, em alternativa, sem dívidas laborais, até 20 credores e passivo até € 300 000)",
+    "motivo": "Âmbito do art. 249.º mal descrito na checklist.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0249&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Documentos do art. 253.º CIRE incluídos",
+    "para": "- [ ] Indicações e documentos dos arts. 23.º, n.º 2, e 24.º, n.º 1, CIRE incluídos (e anexos do art. 252.º, n.º 5, se houver plano de pagamentos)",
+    "motivo": "O art. 253.º não trata dos documentos da petição.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0023&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Profissão atual: [ou desempregado]",
+    "para": "- Profissão atual: [ou desempregado]\n- Exploração de empresa nos três anos anteriores: [sim/não — se sim, dívidas laborais, n.º de credores e passivo global]",
+    "motivo": "Dado necessário para aferir o âmbito do art. 249.º CIRE.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0249&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar o juízo de comércio competente (domicílio do devedor) e a forma de apresentação da petição.",
+   "Decidir se se apresenta plano de pagamentos com a petição e, nesse caso, declarar expressamente que se pretende a exoneração (art. 254.º CIRE).",
+   "Confirmar, bem a bem, a impenhorabilidade (arts. 736.º a 738.º CPC) e se convém apresentar à massa bens relativamente impenhoráveis.",
+   "Verificar se o devedor esteve mais de seis meses sem se apresentar com prejuízo para os credores (art. 238.º, n.º 1, al. d), CIRE)."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0249&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0250&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0251&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0252&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0253&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0254&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0255&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0023&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0024&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0046&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0108&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0236&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0238&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0239&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0244&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0248&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0222A&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=80A0016&nid=80&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1974A0128&nid=1974&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1821&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+  ]
+ },
+ {
+  "codigo": "INS-037",
+  "veredicto": "corrigida",
+  "resumo": "A ficha exigia «dolo ou culpa grave» para a reversão (o art. 24.º, n.º 1, LGT basta-se com culpa, presumida na al. b)), apontava como formalidade a «notificação prévia do devedor principal» (a lei exige a audição prévia do revertido e a fundada insuficiência de bens do devedor originário, art. 23.º LGT), atribuía ao art. 59.º CIRE um dever de cumprir obrigações tributárias (é a responsabilidade civil do administrador), confundia a suspensão da execução com a «garantia indevida» e dirigia a oposição ao tribunal sem dizer que se apresenta no órgão da execução fiscal (art. 207.º CPPT). Acrescentaram-se o art. 65.º, n.os 3 a 5, CIRE (obrigações fiscais na insolvência), o art. 33.º da Lei n.º 8/2018 e a dúvida sobre a aplicação do art. 24.º LGT ao administrador da insolvência; corrigiu-se a descrição.",
+  "descricao": "Analisa os pressupostos e limites da responsabilidade do administrador de insolvência por dívidas tributárias da massa insolvente (artigo 65.º, n.os 3 a 5, do CIRE), a sua eventual reversão em execução fiscal ao abrigo do artigo 24.º da Lei Geral Tributária (LGT), cuja aplicação ao administrador é discutível, e a responsabilidade civil do artigo 59.º do CIRE, com elaboração de defesa em processo de reversão fiscal.",
+  "descricao_en": "Analyses the requirements and limits of the insolvency administrator's liability for tax debts of the insolvent estate (Article 65(3) to (5) of the CIRE), its possible enforcement by tax reversion (reversão fiscal) under Article 24 of the General Tax Law (LGT), whose application to the administrator is debatable, and the civil liability under Article 59 of the CIRE, and prepares a defence in tax reversion proceedings.",
+  "substituicoes": [
+   {
+    "de": "- Verificação dos pressupostos: exercício de funções + nexo causal + dolo ou culpa grave",
+    "para": "- Verificação dos pressupostos: exercício de funções no período relevante + culpa na insuficiência do património (art. 24.º, n.º 1, al. a), LGT, com ónus da prova a cargo da AT) ou culpa presumida quanto às dívidas cujo prazo legal de pagamento terminou no período do cargo (al. b)); a lei não exige dolo nem culpa grave",
+    "motivo": "O art. 24.º, n.º 1, LGT exige culpa (al. a)) ou presume-a (al. b)); não exige dolo ou culpa grave.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=253A0024&nid=253&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Art. 24.º LGT: responsabilidade subsidiária por dívidas tributárias de pessoas coletivas",
+    "para": "- Art. 24.º LGT: responsabilidade subsidiária de quem exerça, ainda que só de facto, funções de administração ou gestão em pessoas coletivas; a sua aplicação ao administrador da insolvência, que administra a massa por força do art. 81.º CIRE e não como gerente da sociedade, é discutível e constitui o primeiro fundamento de defesa [■ VERIFICAR: jurisprudência do STA sobre a reversão contra o administrador da insolvência]\n- Art. 65.º, n.os 3 a 5, CIRE: deliberado o encerramento da atividade do estabelecimento, extinguem-se as obrigações declarativas e fiscais; até lá, as responsabilidades fiscais constituídas entre a declaração de insolvência e essa deliberação cabem a quem tiver a administração da insolvência\n- Art. 33.º da Lei n.º 8/2018 (RERE): os administradores judiciais investidos em funções na sequência de acordo RERE, de plano de revitalização homologado em PER ou de plano de recuperação aprovado em processo de insolvência só respondem subsidiariamente quando, por culpa sua, o património se tornou insuficiente (sem a presunção de culpa do art. 24.º, n.º 1, al. b), LGT)",
+    "motivo": "O art. 24.º LGT visa quem exerce funções de gestão na pessoa coletiva; a norma própria sobre obrigações fiscais na insolvência é o art. 65.º, n.os 3 a 5, CIRE, e o art. 33.º da Lei 8/2018 tem regime próprio para os administradores judiciais.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0065&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Pressupostos da reversão: exercício efetivo de funções no período em que a obrigação se constituiu; nexo causal entre comportamento do AI e não pagamento",
+    "para": "- Pressupostos da reversão: fundada insuficiência dos bens penhoráveis do devedor originário (art. 23.º, n.º 2, LGT); exercício efetivo de funções no período em que se verificou o facto constitutivo da dívida ou em que terminou o prazo legal de pagamento (art. 24.º, n.º 1, LGT); culpa na insuficiência do património ou, no caso da al. b), falta de prova de que a falta de pagamento não lhe é imputável",
+    "motivo": "Faltava a fundada insuficiência de bens do devedor originário (art. 23.º, n.º 2, LGT) e o período relevante do art. 24.º, n.º 1, estava incompleto.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=253A0023&nid=253&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Art. 59.º CIRE: dever do AI de cumprir obrigações tributárias da massa",
+    "para": "- Art. 59.º CIRE: responsabilidade civil do AI pelos danos causados ao devedor e aos credores da insolvência e da massa pela inobservância culposa dos seus deveres (n.º 1) e perante os credores da massa se esta for insuficiente por ato seu (n.º 2); prescreve em dois anos (n.º 5)",
+    "motivo": "O art. 59.º CIRE trata da responsabilidade civil do administrador, não de um dever de cumprir obrigações tributárias.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0059&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Garantia indevida: suspensão da execução com prestação de garantia enquanto decorre oposição",
+    "para": "- Suspensão da execução: a oposição suspende a execução quando for prestada garantia ou a penhora garanta a totalidade da quantia exequenda e do acrescido (arts. 169.º, n.os 1 e 12, e 212.º CPPT); a garantia indevidamente prestada pode dar lugar a indemnização nos termos do art. 53.º LGT",
+    "motivo": "A «garantia indevida» (art. 53.º LGT) é a indemnização pela garantia prestada; a suspensão da execução na oposição rege-se pelos arts. 169.º e 212.º CPPT.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=256A0169&nid=256&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "**AO TRIBUNAL ADMINISTRATIVO E FISCAL DE [COMARCA]**",
+    "para": "**EXMO. SENHOR JUIZ DO TRIBUNAL ADMINISTRATIVO E FISCAL / TRIBUNAL TRIBUTÁRIO DE [■ VERIFICAR: tribunal tributário competente]**\n(petição apresentada no órgão da execução fiscal onde pende a execução — art. 207.º, n.º 1, CPPT)",
+    "motivo": "A petição de oposição apresenta-se no órgão da execução fiscal (art. 207.º CPPT); os tribunais tributários não se organizam por comarca.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=256A0207&nid=256&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "[Verificação de notificação prévia do devedor principal; fundamentação do despacho de reversão]",
+    "para": "[Falta de audição prévia do revertido (arts. 23.º, n.º 4, e 60.º LGT); falta de fundada insuficiência dos bens penhoráveis do devedor originário (art. 23.º, n.º 2, LGT; art. 153.º, n.º 2, CPPT); falta de declaração fundamentada dos pressupostos e da extensão da reversão, a incluir na citação (art. 23.º, n.º 4, LGT)]",
+    "motivo": "A formalidade é a audição prévia do revertido e a declaração fundamentada dos pressupostos, não a notificação do devedor principal.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=253A0023&nid=253&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "[Art. 24.º LGT; art. 59.º CIRE; jurisprudência]",
+    "para": "[Art. 24.º LGT; arts. 65.º, n.os 3 a 5, e 81.º CIRE; art. 33.º da Lei n.º 8/2018, se aplicável; jurisprudência] [■ VERIFICAR: jurisprudência do STA a citar]",
+    "motivo": "O art. 59.º CIRE não fundamenta a defesa na reversão; as normas relevantes são o art. 24.º LGT e o art. 65.º CIRE.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0065&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Formalidades da reversão verificadas (notificação prévia, fundamentação)",
+    "para": "- [ ] Formalidades da reversão verificadas (audição prévia do revertido, fundada insuficiência de bens do devedor originário, declaração fundamentada na citação — arts. 23.º e 60.º LGT)",
+    "motivo": "Formalidades da reversão mal identificadas.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=253A0023&nid=253&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Prazo de oposição respeitado (art. 203.º CPPT: 30 dias)",
+    "para": "- [ ] Prazo de oposição respeitado (art. 203.º, n.º 1, al. a), CPPT: 30 dias a contar da citação pessoal)",
+    "motivo": "Falta o termo inicial do prazo.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=256A0203&nid=256&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar na jurisprudência do STA se o administrador da insolvência pode ser revertido ao abrigo do art. 24.º LGT ou se a sua responsabilidade se rege só pelos arts. 59.º e 65.º CIRE.",
+   "Verificar se houve deliberação de encerramento da atividade do estabelecimento (art. 65.º, n.º 3, CIRE) e em que data.",
+   "Confirmar se o caso cabe no art. 33.º da Lei n.º 8/2018 (administrador investido por plano de recuperação).",
+   "Identificar o tribunal tributário competente e a data da citação pessoal para o prazo do art. 203.º CPPT."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=253A0023&nid=253&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=253A0024&nid=253&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=253A0026&nid=253&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=253A0053&nid=253&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=253A0060&nid=253&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=256A0153&nid=256&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=256A0169&nid=256&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=256A0203&nid=256&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=256A0204&nid=256&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=256A0207&nid=256&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=256A0212&nid=256&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0059&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0065&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0081&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2850&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+  ]
+ },
+ {
+  "codigo": "INS-041",
+  "veredicto": "corrigida",
+  "resumo": "A ficha admitia o PEAP em situação de insolvência (só cabe em situação económica difícil ou de insolvência meramente iminente, art. 222.º-A), dava três meses de negociações (são dois, prorrogáveis uma vez por um mês, art. 222.º-D, n.º 5), reduzia a maioria a «2/3 dos créditos com voto» e afirmava que o insucesso não leva à insolvência, «diferença face ao PER» (o art. 222.º-G tem o mesmo regime do art. 17.º-G: parecer do AJP e declaração da insolvência se o devedor não se opuser). Corrigiram-se ainda os efeitos do despacho, a lista de créditos, o requerimento inicial (art. 222.º-C, n.º 3), a impugnação e o âmbito do PARI/PERSI, que abrange os créditos de consumidores e não só o crédito à habitação; corrigiu-se a descrição.",
+  "descricao": "Elabora a estratégia e as peças processuais do Processo Especial para Acordo de Pagamento (PEAP), ao abrigo dos artigos 222.º-A a 222.º-J do CIRE, destinado a devedores que não sejam empresas, designadamente pessoas singulares não empresárias, que se encontrem em situação económica difícil ou em situação de insolvência meramente iminente, como alternativa à declaração de insolvência.",
+  "descricao_en": "Prepares the strategy and court filings for a Special Procedure for a Payment Agreement (PEAP), under Articles 222-A to 222-J of the CIRE, intended for debtors that are not businesses, notably individuals who are not traders, who are in a difficult economic situation or merely facing imminent insolvency, as an alternative to a declaration of insolvency.",
+  "substituicoes": [
+   {
+    "de": "- Pressupostos do PEAP (art. 222.º-A CIRE): pessoa singular não empresária em insolvência ou situação económica difícil",
+    "para": "- Pressupostos do PEAP (art. 222.º-A CIRE): devedor que não seja uma empresa e que comprovadamente se encontre em situação económica difícil (art. 222.º-B CIRE) ou em situação de insolvência meramente iminente; o devedor já em insolvência atual não pode recorrer ao PEAP (alternativa: insolvência com plano de pagamentos e/ou exoneração do passivo restante)",
+    "motivo": "O PEAP só cabe em situação económica difícil ou de insolvência meramente iminente, não em insolvência atual.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0222A&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Efeitos do despacho de início: suspensão de execuções contra o devedor",
+    "para": "- Efeitos do despacho de nomeação do administrador judicial provisório: impede a instauração e suspende, durante as negociações, as ações executivas para cobrança de dívidas contra o devedor, suspende os processos de insolvência ainda sem sentença e os prazos de prescrição e caducidade oponíveis pelo devedor, e impede a suspensão de serviços públicos essenciais (art. 222.º-E CIRE)",
+    "motivo": "Efeitos do despacho incompletos; o despacho relevante é o de nomeação do AJP (art. 222.º-E).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0222E&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Lista de credores e créditos: elaborada pelo AJP (art. 222.º-D CIRE)\n- Prazo de negociações: 3 meses (art. 222.º-D, n.º 1, CIRE)\n- Maioria para aprovação do acordo: ²/³ dos créditos com voto (art. 222.º-F CIRE)\n- Homologação pelo tribunal e vinculação de todos os credores\n- Insucesso: sem declaração automática de insolvência (diferença face ao PER)",
+    "para": "- Lista de credores e créditos: os credores reclamam em 20 dias contados da publicação do despacho no Citius e o AJP elabora a lista provisória em cinco dias, impugnável em cinco dias úteis (art. 222.º-D, n.os 2 e 3, CIRE)\n- Prazo de negociações: dois meses após o fim do prazo de impugnações, prorrogável uma só vez por um mês, por acordo escrito entre o AJP e o devedor (art. 222.º-D, n.º 5, CIRE)\n- Maioria para aprovação do acordo (art. 222.º-F, n.º 3, CIRE), não se contando as abstenções: (a) votação por credores que representem pelo menos um terço dos créditos com direito de voto, com voto favorável de mais de dois terços dos votos emitidos e de mais de metade dos votos emitidos correspondentes a créditos não subordinados; ou (b) voto favorável de credores que representem mais de metade dos créditos com direito de voto e de mais de metade dos votos emitidos correspondentes a créditos não subordinados\n- Homologação pelo tribunal e vinculação de todos os credores, mesmo os que não reclamaram nem participaram, quanto aos créditos constituídos à data do despacho de nomeação do AJP (art. 222.º-F, n.º 8, CIRE)\n- Insucesso: o AJP emite parecer sobre se o devedor está insolvente; se concluir pela insolvência, o devedor pode opor-se em cinco dias (o que leva ao arquivamento), apresentar plano de pagamentos ou pedir a exoneração do passivo restante; sem oposição, a insolvência é declarada em três dias úteis (art. 222.º-G, n.os 3 a 7, CIRE) — regime idêntico ao do PER (art. 17.º-G CIRE); o devedor fica impedido de recorrer ao PEAP durante dois anos (art. 222.º-G, n.º 8, CIRE)",
+    "motivo": "Prazo de negociações errado (2 meses + 1, art. 222.º-D, n.º 5), maioria incompleta (art. 222.º-F, n.º 3) e insucesso mal descrito: o art. 222.º-G prevê a declaração de insolvência como o art. 17.º-G.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0222G&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "**A) DECLARAÇÃO DE INÍCIO DO PEAP (art. 222.º-C CIRE)**\n[Devedor + credor(es) subscritores comunicam ao tribunal a intenção de negociar; identificação do devedor; lista de credores; situação económica]",
+    "para": "**A) DECLARAÇÃO DE INÍCIO DO PEAP E REQUERIMENTO (art. 222.º-C CIRE)**\n[Declaração escrita, datada e assinada pelo devedor e por pelo menos um credor, de encetarem negociações; requerimento do devedor ao tribunal competente para a insolvência, com essa declaração, a declaração de que preenche os requisitos (art. 222.º-A, n.º 2, CIRE), a lista das ações de cobrança pendentes, o comprovativo da declaração de rendimentos e da situação profissional ou de desemprego e cópia dos documentos das als. a), d) e e) do n.º 1 do art. 24.º CIRE (designadamente a relação de credores e a relação de bens); depois do despacho de nomeação do AJP, comunicação imediata, por carta registada, aos credores que não subscreveram a declaração (art. 222.º-D, n.º 1, CIRE)]",
+    "motivo": "O requerimento inicial tem os elementos fixados no art. 222.º-C, n.º 3, e é apresentado pelo devedor.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0222C&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "[Crédito incorretamente incluído: fundamento + prova + pedido]",
+    "para": "[Impugnação da lista provisória de créditos no prazo de cinco dias úteis após a sua publicação no Citius, com fundamento na indevida inclusão ou exclusão de créditos ou na incorreção do montante ou da qualificação (art. 222.º-D, n.º 3, CIRE): fundamento + prova + pedido]",
+    "motivo": "Faltavam o prazo e os fundamentos da impugnação.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0222D&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "**D) COMUNICAÇÃO AO BANCO AO ABRIGO DO PARI/PERSI**\n[Articulação com o regime bancário de renegociação de crédito à habitação antes ou durante o PEAP]",
+    "para": "**D) COMUNICAÇÃO AO BANCO AO ABRIGO DO PARI/PERSI (Decreto-Lei n.º 227/2012)**\n[Só para contratos de crédito celebrados pelo devedor como consumidor — crédito relativo a imóveis, crédito aos consumidores e descobertos (arts. 2.º e 3.º do decreto-lei): alerta ao banco para o risco de incumprimento ou pedido de integração no PERSI em caso de mora (art. 14.º, n.º 2, do decreto-lei); durante o PERSI o banco não pode resolver o contrato nem intentar ações judiciais (art. 18.º do decreto-lei); o PERSI extingue-se com a declaração de insolvência (art. 17.º, n.º 1, al. d), do decreto-lei)] [■ VERIFICAR: aviso do Banco de Portugal em vigor que regulamenta o PARI/PERSI]",
+    "motivo": "O PARI/PERSI abrange os créditos de consumidores em geral, não só o crédito à habitação, e tem efeitos próprios (proibição de ações, extinção com a insolvência).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1821&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Pressupostos de insolvência ou dificuldade económica demonstrados",
+    "para": "- [ ] Situação económica difícil ou insolvência meramente iminente demonstrada (a insolvência atual exclui o PEAP — art. 222.º-A CIRE)",
+    "motivo": "O PEAP não cabe em insolvência atual.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0222A&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Maioria necessária para aprovação calculada",
+    "para": "- [ ] Maioria necessária para aprovação calculada (art. 222.º-F, n.º 3, CIRE)",
+    "motivo": "Remissão para a norma das maiorias.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0222F&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar que o devedor não está já em insolvência atual (art. 3.º CIRE); se estiver, o caminho é a insolvência com plano de pagamentos e/ou exoneração.",
+   "Confirmar o aviso do Banco de Portugal que hoje regulamenta o PARI/PERSI.",
+   "Calcular as maiorias do art. 222.º-F, n.º 3, sobre a lista definitiva de créditos."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0222A&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0222B&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0222C&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0222D&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0222E&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0222F&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0222G&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0017G&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0024&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1821&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+  ]
+ },
+ {
+  "codigo": "INS-042",
+  "veredicto": "corrigida",
+  "resumo": "A ficha punha os credores a propor a ação do art. 78.º CSC a par do administrador da insolvência, mas durante a pendência do processo só este tem legitimidade para as ações de responsabilidade a favor do devedor e para indemnizar a generalidade dos credores (art. 82.º, n.º 3, CIRE; art. 78.º, n.º 4, CSC), restando ao credor os danos diretos (art. 79.º CSC). Tratava a indemnização do art. 189.º, n.º 2, al. e), CIRE como «pedido» do credor (é efeito da sentença de qualificação), contava a prescrição «do conhecimento do dano» (o art. 174.º CSC conta do termo da conduta ou da sua revelação e da produção do dano) e falava de uma «cumulação com ação de insolvência pessoal do administrador» sem base legal. Corrigiram-se a análise, a peça (tribunal e apenso, partes, direito, pedido) e a checklist.",
+  "substituicoes": [
+   {
+    "de": "- Indemnização no incidente de qualificação (art. 189.º, n.º 2, al. e), CIRE): pedido formulado no incidente",
+    "para": "- Indemnização no incidente de qualificação (art. 189.º, n.º 2, al. e), CIRE): não é um pedido do credor, mas um efeito da sentença que qualifique a insolvência como culposa — o juiz condena as pessoas afetadas a indemnizar os credores até ao montante dos créditos não satisfeitos, fixando o valor ou os critérios para liquidação (art. 189.º, n.º 4, CIRE)",
+    "motivo": "A indemnização do art. 189.º, n.º 2, al. e), é efeito da sentença de qualificação, fixada pelo juiz (n.º 4), não um pedido formulado no incidente.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0189&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Prescrição da ação (art. 174.º CSC): 5 anos a contar do conhecimento do dano\n- Legitimidade ativa: credores (art. 78.º CSC), administrador de insolvência em nome da massa (art. 82.º, n.º 3, CIRE)\n- Cumulação com ação de insolvência pessoal do administrador",
+    "para": "- Prescrição da ação (art. 174.º CSC): 5 anos contados do termo da conduta dolosa ou culposa (ou da sua revelação, se tiver sido ocultada) e da produção do dano, sem necessidade de que este se tenha integralmente verificado (n.º 1, al. b), e n.º 2)\n- Legitimidade ativa: durante a pendência do processo de insolvência, só o administrador da insolvência pode propor as ações de responsabilidade a favor do devedor (art. 72.º CSC) e as destinadas a indemnizar a generalidade dos credores pela diminuição do património da massa (art. 78.º CSC), por apenso ao processo (art. 82.º, n.os 3 e 6, CIRE; art. 78.º, n.º 4, CSC); o credor só age em nome próprio pelos danos que diretamente lhe forem causados (art. 79.º CSC)\n- Articulação com a indemnização fixada na sentença de qualificação (art. 189.º, n.º 2, al. e), e n.º 4, CIRE), para evitar a duplicação do ressarcimento pelo mesmo dano [■ VERIFICAR: jurisprudência sobre a relação entre as duas vias]",
+    "motivo": "Prescrição com termo inicial errado; legitimidade exclusiva do administrador da insolvência na pendência do processo (art. 82.º, n.º 3, CIRE); a «cumulação com ação de insolvência pessoal do administrador» não tem base legal.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0082&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "**AO [TRIBUNAL DE COMÉRCIO / JUÍZO DE COMÉRCIO]**",
+    "para": "**AO TRIBUNAL JUDICIAL DA COMARCA DE [COMARCA] — JUÍZO DE COMÉRCIO DE [LOCALIDADE]**\n**Por apenso ao processo de insolvência n.º [NÚMERO] (art. 82.º, n.º 6, CIRE)** [■ VERIFICAR: na ação de credor por danos diretos (art. 79.º CSC), o tribunal competente]",
+    "motivo": "As ações do art. 82.º, n.º 3, CIRE correm por apenso ao processo de insolvência (n.º 6); os tribunais de comércio deram lugar aos juízos de comércio.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0082&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "[Autores: credores / AI em nome da massa; Réu: gerente/administrador]",
+    "para": "[Autor: administrador da insolvência, durante a pendência do processo (art. 82.º, n.º 3, CIRE), ou credor quanto a danos diretos (art. 79.º CSC); Réu: gerente/administrador]",
+    "motivo": "Os credores não têm legitimidade para a ação do art. 78.º CSC na pendência da insolvência.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0082&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "[Art. 78.º CSC; art. 189.º, n.º 2, al. e), CIRE; prescrição não verificada]",
+    "para": "[Arts. 72.º e 78.º CSC (ação do administrador da insolvência) ou art. 79.º CSC (danos diretos do credor); art. 82.º, n.º 3, CIRE; prescrição não verificada (art. 174.º CSC)]",
+    "motivo": "O art. 189.º, n.º 2, al. e), CIRE não fundamenta uma ação autónoma; a indemnização é fixada na sentença de qualificação.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0078&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "**REQUER:** a condenação do Réu no pagamento de €[X] a título de indemnização, acrescida de juros legais.",
+    "para": "**REQUER:** a condenação do Réu no pagamento de €[X] a título de indemnização [à massa insolvente, na ação proposta pelo administrador da insolvência], acrescida de juros legais.",
+    "motivo": "Na ação do administrador da insolvência a indemnização reverte para a massa.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0082&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Legitimidade ativa verificada (credor / AI / ambos)",
+    "para": "- [ ] Legitimidade ativa verificada (AI durante a pendência da insolvência — art. 82.º, n.º 3, CIRE; credor só por danos diretos — art. 79.º CSC)",
+    "motivo": "Legitimidade ativa mal descrita na checklist.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0082&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar o estado do processo de insolvência (pendente ou encerrado), de que depende a legitimidade dos credores.",
+   "Distinguir o dano direto do credor (art. 79.º CSC) do dano reflexo comum a todos os credores (art. 78.º CSC).",
+   "Verificar se o incidente de qualificação já fixou indemnização (art. 189.º, n.os 2, al. e), e 4, CIRE) para evitar duplicação.",
+   "Fixar a data do termo da conduta ou da sua revelação para a prescrição do art. 174.º CSC."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0072&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0078&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0079&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0174&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0082&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0189&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0018&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1974A0128&nid=1974&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+  ]
+ },
+ {
+  "codigo": "INS-045",
+  "veredicto": "corrigida",
+  "resumo": "A ficha separava a restituição (art. 141.º) da separação (art. 142.º), quando ambas se regem pelo art. 141.º, n.º 1 (als. a) e c)) e o art. 142.º trata da perda de posse; e convertia o bem alienado em crédito sobre a insolvência ao abrigo do art. 141.º, n.º 4, que trata da prova da identidade das coisas móveis — se a posse se perde depois da apreensão, o titular recebe da massa o valor integral (art. 142.º, n.º 2). Ignorava também que a reserva de propriedade só é oponível à massa se estipulada por escrito até à entrega (art. 104.º, n.º 4, CIRE), a opção do administrador (arts. 102.º e 104.º), o regime da locação (art. 108.º) e os meios e prazos (arts. 128.º, 144.º, 145.º e 146.º). Corrigiram-se a análise, a peça, o pedido subsidiário, a checklist e a descrição.",
+  "descricao": "Elabora o requerimento de restituição ou separação de bens pertencentes a terceiros apreendidos para a massa insolvente, ao abrigo dos artigos 141.º a 146.º do CIRE, distinguindo o direito de restituição (bens de que o insolvente era mero possuidor em nome alheio) do direito de separação (bens de terceiro indevidamente apreendidos ou de que o insolvente não tenha a plena e exclusiva propriedade), ambos sujeitos ao regime da reclamação e verificação de créditos.",
+  "descricao_en": "Prepares the application for restitution or separation of third-party assets seized for the insolvent estate, under Articles 141 to 146 of the CIRE, distinguishing the right of restitution (assets the insolvent held merely on behalf of another) from the right of separation (third-party assets wrongly seized or not in the insolvent's full and exclusive ownership), both subject to the rules on lodging and verification of claims.",
+  "substituicoes": [
+   {
+    "de": "- Tipo de direito a exercer: restituição (art. 141.º CIRE) ou separação (art. 142.º CIRE)",
+    "para": "- Tipo de direito a exercer: restituição de bens de que o insolvente era mero possuidor em nome alheio (art. 141.º, n.º 1, al. a), CIRE) ou separação de bens de terceiro indevidamente apreendidos ou de que o insolvente não tenha a plena e exclusiva propriedade (art. 141.º, n.º 1, al. c), CIRE); ambos seguem o regime da reclamação e verificação de créditos",
+    "motivo": "Restituição e separação regem-se ambas pelo art. 141.º, n.º 1; o art. 142.º trata da perda de posse.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0141&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Direito de restituição (art. 141.º CIRE): bens que não deviam integrar a massa (coisa alheia na posse do devedor)\n- Direito de separação (art. 142.º CIRE): bens do credor que se encontram na massa e são separáveis (ex: imóveis registados em nome do devedor)\n- Reserva de propriedade (art. 409.º CC): oponibilidade a terceiros em bens móveis (registo ou cláusula contratual) e imóveis (registo)",
+    "para": "- Direito de restituição (art. 141.º, n.º 1, al. a), CIRE): bens apreendidos para a massa de que o insolvente fosse mero possuidor em nome alheio (ex.: coisa locada, depositada ou emprestada)\n- Direito de separação (art. 141.º, n.º 1, als. b) e c), CIRE): bens de terceiro indevidamente apreendidos, bens de que o insolvente não tenha a plena e exclusiva propriedade ou estranhos à insolvência, e bens próprios e meação do cônjuge; o art. 142.º CIRE trata da perda de posse dos bens a restituir\n- Reserva de propriedade: na insolvência do comprador, só é oponível à massa se tiver sido estipulada por escrito até ao momento da entrega da coisa (art. 104.º, n.º 4, CIRE); tratando-se de imóvel ou de móvel sujeito a registo, só a cláusula registada é oponível a terceiros (art. 409.º, n.º 2, CC); o administrador pode optar pelo cumprimento (pagando o preço em falta) ou recusá-lo, e o vendedor pode fixar-lhe prazo para a opção, que não termina antes de cinco dias após a assembleia de apreciação do relatório, salvo risco de desvalorização considerável (arts. 102.º e 104.º, n.º 3, CIRE)",
+    "motivo": "Separação mal remetida para o art. 142.º (com um exemplo sem sentido); a reserva de propriedade na insolvência do comprador rege-se pelo art. 104.º CIRE (forma escrita até à entrega e opção do administrador), não só pelo art. 409.º CC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0104&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Locação operacional: o locador é proprietário; o bem não integra a massa do locatário insolvente",
+    "para": "- Locação: o locador é proprietário e o bem não integra a massa do locatário insolvente, mas a declaração de insolvência não suspende o contrato; o administrador pode denunciá-lo com pré-aviso de 60 dias e o locador não pode resolvê-lo com fundamento em rendas anteriores à declaração ou na deterioração da situação financeira do locatário (art. 108.º, n.os 1 e 4, CIRE); a restituição pressupõe a cessação do contrato",
+    "motivo": "Faltava o regime do art. 108.º CIRE, que condiciona a restituição do bem locado.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0108&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Bens em consignação: propriedade do consignante; direito de restituição se identificáveis",
+    "para": "- Bens em consignação: propriedade do consignante; direito de restituição, devendo o reclamante provar a identidade das coisas móveis, salvo se forem fungíveis (art. 141.º, n.º 4, CIRE); se as mercadorias já tiverem sido vendidas a crédito, o comitente pode reclamar o preço devido pelo comprador (art. 141.º, n.º 5, CIRE)",
+    "motivo": "Identificação da norma da prova da identidade (art. 141.º, n.º 4) e do regime da consignação vendida a crédito (n.º 5).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0141&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Impossibilidade de restituição por alienação: reconversão em crédito sobre a insolvência (art. 141.º, n.º 4, CIRE)",
+    "para": "- Perda de posse: se a coisa já não estava na posse do insolvente à data da declaração, o titular tem crédito sobre a insolvência pelo valor que tinha nessa data, salvo se o administrador a reaver (art. 142.º, n.º 1, CIRE); se a posse se perder depois da apreensão (incluindo a venda pelo administrador), o titular tem direito a receber da massa o seu valor integral (art. 142.º, n.º 2, CIRE); se os bens já tiverem sido liquidados e houver ação de restituição ou separação com termo de protesto, fica depositada quantia igual ao produto da venda (art. 172.º, n.º 4, CIRE)",
+    "motivo": "O art. 141.º, n.º 4, trata da prova da identidade das coisas móveis; a perda de posse rege-se pelo art. 142.º, que dá direito ao valor integral a pagar pela massa se a posse se perder depois da apreensão.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0142&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Pedido de entrega imediata ou, subsidiariamente, reconversão em crédito",
+    "para": "- Meio e prazo: no prazo de reclamação fixado na sentença, reclamação dirigida ao administrador da insolvência (arts. 128.º e 141.º CIRE); bens apreendidos depois de findo esse prazo, requerimento nos cinco dias posteriores à apreensão (art. 144.º CIRE); fora destes casos, ação de verificação ulterior, que para a restituição e a separação pode ser proposta a todo o tempo (art. 146.º, n.os 1 e 2, CIRE)\n- Pedido de entrega (podendo pedir-se a entrega provisória de coisas móveis determinadas, mediante caução — art. 145.º CIRE) ou, subsidiariamente, pagamento do valor nos termos do art. 142.º CIRE",
+    "motivo": "Faltavam os meios e prazos (arts. 128.º, 144.º e 146.º) e o pedido subsidiário estava mal configurado.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0146&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "vem, ao abrigo do artigo [141.º / 142.º] do CIRE, requerer a **RESTITUIÇÃO / SEPARAÇÃO** do seguinte bem:",
+    "para": "vem, ao abrigo do artigo 141.º, n.º 1, alínea [a) — restituição / c) — separação], do CIRE [e, sendo o caso, do artigo 144.º ou do artigo 146.º do CIRE], requerer a **RESTITUIÇÃO / SEPARAÇÃO** do seguinte bem:",
+    "motivo": "A separação também se funda no art. 141.º, não no art. 142.º.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0141&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "nos termos do artigo [409.º CC / 1031.º CC / outro], sendo a posse pelo devedor meramente detentora.",
+    "para": "nos termos do artigo [409.º do CC e 104.º, n.º 4, do CIRE / 1031.º do CC / outro], sendo o devedor mero possuidor em nome alheio [restituição] ou tendo o bem sido indevidamente apreendido para a massa [separação].",
+    "motivo": "A oponibilidade da reserva à massa depende do art. 104.º, n.º 4, CIRE; a fórmula «posse meramente detentora» não corresponde à lei.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0104&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "b) Subsidiariamente, caso o bem tenha sido alienado, o reconhecimento de crédito sobre a insolvência pelo valor do bem, nos termos do artigo 141.º, n.º 4, do CIRE.",
+    "para": "b) Subsidiariamente, caso o bem tenha sido alienado ou a sua posse se tenha perdido depois da apreensão, o pagamento pela massa insolvente do seu valor integral (artigo 142.º, n.º 2, do CIRE) ou, se a posse já se tinha perdido à data da declaração de insolvência, o reconhecimento de crédito sobre a insolvência pelo valor que o bem tinha nessa data (artigo 142.º, n.º 1, do CIRE).",
+    "motivo": "O pedido subsidiário assentava no art. 141.º, n.º 4 (prova da identidade); a norma é o art. 142.º.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0142&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Oponibilidade da reserva de propriedade a terceiros verificada (registo ou cláusula)",
+    "para": "- [ ] Reserva de propriedade estipulada por escrito até à entrega (art. 104.º, n.º 4, CIRE) e, se o bem estiver sujeito a registo, registada (art. 409.º, n.º 2, CC)",
+    "motivo": "Requisito de oponibilidade à massa (art. 104.º, n.º 4, CIRE).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0104&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Distinção restituição vs. separação aplicada corretamente",
+    "para": "- [ ] Distinção restituição vs. separação aplicada corretamente (art. 141.º, n.º 1, CIRE)\n- [ ] Meio e prazo verificados (reclamação no prazo da sentença, art. 144.º ou art. 146.º CIRE)",
+    "motivo": "Base legal da distinção e verificação do meio e do prazo.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0144&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Pedido subsidiário de crédito sobre a insolvência incluído (se bem pode ter sido alienado)",
+    "para": "- [ ] Pedido subsidiário do valor do bem incluído (art. 142.º CIRE)",
+    "motivo": "O pedido subsidiário rege-se pelo art. 142.º.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0142&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar em que momento se está (prazo de reclamação, apreensão tardia ou verificação ulterior) para escolher o meio (arts. 128.º, 144.º e 146.º CIRE).",
+   "Verificar se a cláusula de reserva de propriedade consta de documento escrito anterior à entrega e se o administrador já optou pelo cumprimento (arts. 102.º e 104.º CIRE).",
+   "Na locação, verificar se o contrato já cessou (art. 108.º CIRE) antes de pedir a restituição."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0141&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0142&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0144&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0145&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0146&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0102&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0104&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0108&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0128&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0172&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0409&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+  ]
+ },
+ {
+  "codigo": "INS-046",
+  "veredicto": "corrigida",
+  "resumo": "A ficha remetia os créditos privilegiados para a al. b) do art. 47.º, n.º 4 (é a al. a); a al. b) são os subordinados), tratava os créditos laborais só como privilégio geral e dizia, em bloco, que o art. 333.º CT prevalece sobre a hipoteca: os trabalhadores têm privilégio mobiliário geral e privilégio imobiliário especial sobre o imóvel onde prestam atividade, e só este, por força do art. 751.º CC, prefere à hipoteca. Omitia a extinção dos privilégios do Estado e da segurança social pelo art. 97.º CIRE e dava o prazo de reclamação como «30 dias após publicação no Citius» (é o fixado na sentença, até 30 dias, contado depois da dilação). Corrigiram-se ainda as dívidas da massa (limite do art. 172.º, n.º 2), os alertas e a checklist.",
+  "substituicoes": [
+   {
+    "de": "- Dívidas da massa (art. 51.º CIRE): pagamento prioritário antes de qualquer crédito",
+    "para": "- Dívidas da massa (art. 51.º CIRE): deduzidas antes do pagamento dos créditos sobre a insolvência; a imputação ao produto de bens onerados com garantia real não excede, em regra, 10 % (art. 172.º, n.os 1 e 2, CIRE)",
+    "motivo": "O pagamento das dívidas da massa tem o limite de imputação de 10 % ao produto dos bens onerados (art. 172.º, n.º 2).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0172&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Créditos privilegiados (art. 47.º, n.º 4, al. b), CIRE): privilégios gerais — laborais (art. 333.º CT), fiscais (art. 736.º CC), SS (art. 204.º CRCSPSS)\n- Conflito hipoteca vs. privilégios laborais: o art. 333.º CT prevalece sobre a hipoteca",
+    "para": "- Créditos privilegiados (art. 47.º, n.º 4, al. a), CIRE): privilégios gerais — laborais, quanto ao privilégio mobiliário geral (art. 333.º, n.º 1, al. a), CT), fiscais (art. 736.º CC), SS (art. 204.º CRCSPSS); pagos pelos bens não afetos a garantias reais prevalecentes (art. 175.º CIRE)\n- Créditos laborais: gozam de privilégio mobiliário geral e de privilégio imobiliário especial sobre o imóvel do empregador no qual o trabalhador presta a sua atividade (art. 333.º, n.º 1, CT); quanto a esse imóvel, o crédito é garantido e prefere à hipoteca, ainda que anterior (art. 751.º CC; art. 333.º, n.º 2, al. b), CT); sobre os demais imóveis não há privilégio laboral\n- Privilégios do Estado, das autarquias locais e da segurança social: extinguem-se com a declaração de insolvência os privilégios gerais constituídos mais de 12 meses antes do início do processo, os privilégios especiais de créditos vencidos mais de 12 meses antes dessa data e as hipotecas legais cujo registo tenha sido requerido nos dois meses anteriores (art. 97.º, n.º 1, als. a) a c), CIRE)",
+    "motivo": "Os privilegiados estão na al. a) do art. 47.º, n.º 4; o privilégio laboral sobre imóvel é especial e só sobre o imóvel onde o trabalhador presta atividade, e é esse que prefere à hipoteca (art. 751.º CC); faltava o art. 97.º CIRE.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0333&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "[Conflito hipoteca vs. privilégios laborais; créditos fiscais; prazo de reclamação]",
+    "para": "[Privilégio imobiliário especial dos trabalhadores vs. hipoteca; créditos fiscais e da segurança social e extinção de privilégios (art. 97.º CIRE); prazo de reclamação]",
+    "motivo": "Alertas alinhados com o regime corrigido.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0097&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Conflito entre privilégios laborais e hipoteca verificado (art. 333.º CT)",
+    "para": "- [ ] Privilégio imobiliário especial dos trabalhadores sobre o imóvel onde prestam atividade confrontado com a hipoteca (art. 333.º CT; art. 751.º CC)\n- [ ] Extinção de privilégios e hipotecas legais do Estado, das autarquias e da segurança social verificada (art. 97.º CIRE)",
+    "motivo": "Só o privilégio imobiliário especial prefere à hipoteca; faltava o art. 97.º CIRE.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0751&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Prazo de reclamação de créditos respeitado (30 dias após publicação no Citius — art. 128.º CIRE)",
+    "para": "- [ ] Prazo de reclamação de créditos respeitado: o fixado na sentença, até 30 dias (art. 36.º, n.º 1, al. j), CIRE), contado depois de finda a dilação de cinco dias a partir da publicação do anúncio no Citius (art. 37.º, n.os 7 e 8, CIRE); requerimento dirigido ao administrador da insolvência (art. 128.º CIRE)",
+    "motivo": "O prazo de reclamação é o fixado na sentença (até 30 dias) e só corre depois da dilação.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0037&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar a redação em vigor do art. 204.º do Código dos Regimes Contributivos (Lei n.º 110/2009) e a existência de outros privilégios da segurança social.",
+   "Confirmar os privilégios próprios do IRS e do IRC nos respetivos códigos, além do art. 736.º CC.",
+   "Identificar o imóvel onde cada trabalhador presta atividade para a graduação do privilégio imobiliário especial."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0047&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0048&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0051&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0097&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0172&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0174&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0175&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0177&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0036&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0037&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0128&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0333&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0735&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0736&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0749&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0751&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+  ]
+ },
+ {
+  "codigo": "INS-047",
+  "veredicto": "corrigida",
+  "resumo": "A ficha mandava articular com o PARI/PERSI a reestruturação de um devedor com firma e NIPC, mas o Decreto-Lei n.º 227/2012 só protege clientes bancários consumidores, e dava como base o «Aviso BdP n.º 17/2012» (a base é o decreto-lei; o aviso terá sido substituído). Omitia o RERE (Lei n.º 8/2018), a homologação judicial do acordo extrajudicial (art. 17.º-I CIRE), os limites do PER (insolvência atual) e do PEAP (só não empresas) e o aviso de que a negociação não suspende o dever de apresentação à insolvência (art. 18.º CIRE). Corrigiram-se a análise, a checklist e a descrição.",
+  "descricao": "Elabora o acordo extrajudicial de reestruturação de dívida entre o devedor em dificuldade económica e os seus credores, ao abrigo do direito contratual português e, querendo as partes, do Regime Extrajudicial de Recuperação de Empresas (RERE, Lei n.º 8/2018), com o PARI/PERSI (Decreto-Lei n.º 227/2012) a considerar apenas quando o devedor seja consumidor, como alternativa ao PER, ao PEAP e ao processo de insolvência.",
+  "descricao_en": "Prepares the out-of-court debt restructuring agreement between a debtor in economic difficulty and its creditors, under Portuguese contract law and, if the parties so choose, the Out-of-Court Business Recovery Regime (RERE, Law 8/2018), with the PARI/PERSI bank default procedures (Decree-Law 227/2012) relevant only where the debtor is a consumer, as an alternative to a PER, a PEAP and insolvency proceedings.",
+  "substituicoes": [
+   {
+    "de": "- Alternativas ao acordo extrajudicial (PER, PEAP, insolvência)",
+    "para": "- Alternativas ao acordo extrajudicial: RERE (Lei n.º 8/2018), PER (só para empresas que não estejam em insolvência atual — art. 17.º-A CIRE), PEAP (só para devedores que não sejam empresas — art. 222.º-A CIRE) e insolvência\n- Se o devedor for empresa ou pessoa singular titular de empresa e já estiver em situação de insolvência atual (art. 3.º CIRE), o dever de apresentação à insolvência nos 30 dias seguintes ao conhecimento dessa situação (art. 18.º CIRE) não fica suspenso pela negociação extrajudicial",
+    "motivo": "Faltavam o RERE, os limites do PER e do PEAP e o dever de apresentação à insolvência (art. 18.º CIRE).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0018&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- PARI (Plano de Ação para o Risco de Incumprimento) e PERSI (Procedimento Extrajudicial de Regularização de Situações de Incumprimento): obrigações dos bancos (Aviso BdP n.º 17/2012)",
+    "para": "- PARI (Plano de Ação para o Risco de Incumprimento) e PERSI (Procedimento Extrajudicial de Regularização de Situações de Incumprimento): obrigações dos bancos previstas no Decreto-Lei n.º 227/2012, que só protegem clientes bancários consumidores (art. 3.º, al. a), do decreto-lei) — não se aplicam ao crédito de uma sociedade nem ao crédito contraído por pessoa singular no âmbito da sua atividade [■ VERIFICAR: aviso do Banco de Portugal em vigor — o Aviso n.º 17/2012 terá sido substituído pelo Aviso n.º 7/2021]",
+    "motivo": "O PARI/PERSI resulta do DL 227/2012 e só abrange clientes bancários consumidores; não se aplica a um devedor empresa.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1821&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Articulação com o PER: o acordo extrajudicial pode preceder ou substituir o PER",
+    "para": "- Articulação com o RERE e o PER: as partes podem sujeitar as negociações e o acordo ao RERE, aplicável a empresas em situação económica difícil ou de insolvência iminente (protocolo de negociação assinado pelo devedor e por credores que representem pelo menos 15 % do passivo não subordinado, depositado na Conservatória do Registo Comercial, com negociações até três meses — arts. 3.º, 6.º e 7.º da Lei n.º 8/2018); o acordo subscrito pelas maiorias do art. 17.º-F, n.º 5, als. b) ou c), CIRE pode ser homologado judicialmente (art. 17.º-I CIRE), passando a vincular também os credores que não o assinaram",
+    "motivo": "Faltava o regime extrajudicial próprio (RERE) e a via de homologação judicial do acordo (art. 17.º-I CIRE).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2850&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Articulação com regime PARI/PERSI verificada (se credores bancários)",
+    "para": "- [ ] PARI/PERSI considerado só se o devedor for consumidor (Decreto-Lei n.º 227/2012); sujeição ao RERE ponderada",
+    "motivo": "O PARI/PERSI não se aplica a devedores empresa.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1821&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Alternativa judicial (PER) analisada como plano B",
+    "para": "- [ ] Alternativa judicial (PER ou homologação do acordo — art. 17.º-I CIRE) analisada como plano B, e dever de apresentação à insolvência verificado (art. 18.º CIRE)",
+    "motivo": "Faltava a homologação do acordo extrajudicial e o dever de apresentação.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0017I&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar o aviso do Banco de Portugal hoje em vigor sobre o PARI/PERSI (o Aviso n.º 17/2012 terá sido substituído pelo Aviso n.º 7/2021).",
+   "Confirmar que o devedor não está em insolvência atual antes de optar pela via extrajudicial, pelo RERE ou pelo PER.",
+   "Avaliar se convém sujeitar o acordo ao RERE (efeitos processuais e fiscais) ou pedir a sua homologação (art. 17.º-I CIRE)."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1821&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2850&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0003&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0018&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0017A&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0017F&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0017I&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0222A&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.bportugal.pt/sites/default/files/anexos/documentos-relacionados/aviso_7_2021.pdf"
+  ]
+ },
+ {
+  "codigo": "INS-048",
+  "veredicto": "corrigida",
+  "resumo": "A ficha atribuía ao trabalhador um «privilégio especial mobiliário» e um privilégio imobiliário sobre todos os imóveis do empregador (o art. 333.º, n.º 1, CT dá privilégio mobiliário geral e privilégio imobiliário especial só sobre o imóvel onde o trabalhador presta atividade), citava um n.º 3 do art. 333.º que não existe (a prevalência sobre a hipoteca resulta do art. 751.º CC) e limitava o privilégio a «6 meses» de retribuições e «2 anos» de outros créditos, limites que não constam do CT. Corrigiram-se o regime do Fundo de Garantia Salarial (créditos abrangidos e limites, a confirmar no texto em vigor), a cessação dos contratos na insolvência (art. 347.º CT), a fórmula da reclamação, o pedido ao FGS e o prazo de reclamação.",
+  "substituicoes": [
+   {
+    "de": "- Privilégio geral do trabalhador (art. 333.º CT): créditos laborais com privilégio geral e especial imobiliário sobre imóveis do empregador\n- Privilégio especial mobiliário (art. 333.º, n.º 1, CT): sobre bens móveis do empregador\n- Prevalência sobre a hipoteca (art. 333.º, n.º 3, CT)\n- Créditos abrangidos: retribuições (6 meses) + outros créditos (2 anos) — art. 333.º CT\n- Fundo de Garantia Salarial: adiantamento de retribuições em atraso (máx. 6 meses) + sub-rogação nos direitos do trabalhador (DL n.º 59/2015, de 21 de abril)\n- Cessação por encerramento da empresa: despedimento coletivo + compensação (art. 366.º CT)",
+    "para": "- Privilégios do trabalhador (art. 333.º, n.º 1, CT): privilégio mobiliário geral (al. a)) e privilégio imobiliário especial sobre o bem imóvel do empregador no qual o trabalhador presta a sua atividade (al. b)); não há privilégio imobiliário sobre os demais imóveis nem privilégio mobiliário especial\n- Graduação (art. 333.º, n.º 2, CT): o privilégio mobiliário geral antes dos créditos do art. 747.º, n.º 1, CC; o imobiliário especial antes dos créditos do art. 748.º CC e das contribuições para a segurança social\n- Prevalência sobre a hipoteca: só o privilégio imobiliário especial, quanto ao imóvel onde o trabalhador presta atividade, prefere à hipoteca, ainda que anterior (art. 751.º CC); nessa medida o crédito é garantido (art. 47.º, n.º 4, al. a), CIRE)\n- Créditos abrangidos: todos os créditos emergentes do contrato de trabalho, da sua violação ou cessação (art. 333.º, n.º 1, CT), sem os limites de «6 meses» ou «2 anos», que não constam desta norma\n- Fundo de Garantia Salarial (art. 336.º CT; Decreto-Lei n.º 59/2015, de 21 de abril): paga créditos emergentes do contrato, da sua violação ou cessação, com limites temporais e de montante próprios e prazo de requerimento, ficando sub-rogado nos direitos do trabalhador [■ VERIFICAR no texto em vigor do regime do FGS: créditos vencidos nos seis meses anteriores à propositura da ação de insolvência ou ao requerimento do PER/PEAP, limite global de seis meses de retribuição com teto mensal de três vezes a retribuição mínima mensal garantida e prazo de um ano a contar do dia seguinte à cessação do contrato]\n- Cessação dos contratos: a declaração de insolvência não faz cessar o contrato de trabalho; antes do encerramento definitivo, o administrador pode fazer cessar o contrato de trabalhador cuja colaboração não seja indispensável, com direito à compensação do art. 366.º CT, e a cessação por encerramento do estabelecimento é precedida do procedimento de despedimento coletivo, salvo em microempresas (art. 347.º CT)",
+    "motivo": "O art. 333.º CT dá privilégio mobiliário geral e imobiliário especial só sobre o imóvel onde o trabalhador presta atividade, não tem n.º 3 nem limites de 6 meses/2 anos; a prevalência sobre a hipoteca é do art. 751.º CC; a cessação na insolvência rege-se pelo art. 347.º CT.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0333&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Créditos laborais como créditos sobre a insolvência se constituídos antes da declaração, ou sobre a massa se constituídos depois (art. 51.º CIRE)",
+    "para": "- Créditos laborais como créditos sobre a insolvência se constituídos antes da declaração, ou sobre a massa se constituídos depois (art. 51.º CIRE); a compensação pela cessação decidida pelo administrador depois da declaração tende a ser tratada como dívida da massa [■ VERIFICAR: jurisprudência sobre a natureza dessa compensação]",
+    "motivo": "A compensação pela cessação decidida pelo administrador (art. 347.º CT) pode não ser crédito sobre a insolvência; a ficha incluía-a sem distinção.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0347&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "Crédito com privilégio geral e especial mobiliário e imobiliário ao abrigo do artigo 333.º do Código do Trabalho.",
+    "para": "Crédito que goza de privilégio mobiliário geral e de privilégio imobiliário especial sobre o imóvel do empregador no qual o trabalhador presta a sua atividade, sito em [identificação e descrição predial], nos termos do artigo 333.º, n.º 1, do Código do Trabalho, a graduar nos termos do n.º 2 do mesmo artigo e do artigo 751.º do Código Civil.",
+    "motivo": "Não existe privilégio mobiliário especial nem imobiliário geral do trabalhador; o imobiliário especial incide só sobre o imóvel onde presta atividade.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0333&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "[Pedido de adiantamento das retribuições em atraso (máx. 6 meses) + documentação necessária (prova da declaração de insolvência + recibos + declaração do AI)]",
+    "para": "[Requerimento de pagamento dos créditos emergentes do contrato, da sua violação ou cessação, dentro dos limites e do prazo do regime do FGS (Decreto-Lei n.º 59/2015) [■ VERIFICAR: limites — seis meses de retribuição, com teto mensal de três vezes a retribuição mínima mensal garantida — e prazo de um ano a contar do dia seguinte à cessação do contrato] + documentação necessária (prova da declaração de insolvência + recibos + declaração do AI)]",
+    "motivo": "O FGS não se limita a «adiantar retribuições»: paga créditos laborais dentro de limites e prazo próprios, a confirmar no texto em vigor.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0336&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Prazo de reclamação respeitado (30 dias após publicação no Citius)",
+    "para": "- [ ] Prazo de reclamação respeitado: o fixado na sentença, até 30 dias (art. 36.º, n.º 1, al. j), CIRE), contado depois de finda a dilação de cinco dias a partir da publicação do anúncio no Citius (art. 37.º, n.os 7 e 8, CIRE)",
+    "motivo": "O prazo de reclamação é o fixado na sentença (até 30 dias) e só corre depois da dilação.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0037&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Pedido ao FGS preparado com documentação exigida",
+    "para": "- [ ] Pedido ao FGS preparado com documentação exigida e dentro do prazo [■ VERIFICAR: prazo de um ano a contar do dia seguinte à cessação do contrato]",
+    "motivo": "Faltava o prazo do pedido ao FGS.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0336&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar no Diário da República o texto em vigor do regime do Fundo de Garantia Salarial (Decreto-Lei n.º 59/2015): período de referência, limites e prazo de requerimento; o Tribunal Constitucional já se pronunciou sobre normas deste regime.",
+   "Confirmar a natureza (crédito sobre a insolvência ou dívida da massa) da compensação pela cessação decidida pelo administrador depois da declaração.",
+   "Identificar o imóvel onde cada trabalhador presta atividade para o privilégio imobiliário especial."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0333&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0336&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0347&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0366&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0747&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0748&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0751&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0036&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0037&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0047&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0051&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0128&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+  ]
+ },
+ {
+  "codigo": "INS-055",
+  "veredicto": "corrigida",
+  "resumo": "A ficha atribuía à Lei n.º 9/2022 um «quadro de reestruturação preventiva» extrajudicial ou com supervisão judicial limitada: essa lei alterou sobretudo o PER (judicial, com administrador judicial provisório) na transposição da Diretiva (UE) 2019/1023, e o regime extrajudicial é o RERE (Lei n.º 8/2018), que a ficha omitia. Mandava também articular com o PARI/PERSI para suspender execuções contra uma empresa (o DL 227/2012 só protege consumidores) e não avisava que o standstill não afasta o dever de apresentação à insolvência (art. 18.º CIRE). Corrigiram-se a análise, as regras, a checklist e a descrição.",
+  "descricao": "Elabora a carta de negociação dirigida aos principais credores propondo um standstill (moratória contratual) e as bases de um acordo de reestruturação extrajudicial de dívida, ao abrigo da liberdade contratual e, querendo as partes, do Regime Extrajudicial de Recuperação de Empresas (RERE, Lei n.º 8/2018), como alternativa ao PER — o processo de reestruturação preventiva alterado pela Lei n.º 9/2022, que transpôs a Diretiva (UE) 2019/1023 — ou à insolvência formal.",
+  "descricao_en": "Prepares the negotiation letter addressed to the main creditors proposing a standstill (contractual moratorium) and the basis for an out-of-court debt restructuring agreement, under freedom of contract and, if the parties so choose, the Out-of-Court Business Recovery Regime (RERE, Law 8/2018), as an alternative to a PER — the preventive restructuring procedure amended by Law 9/2022, which transposed Directive (EU) 2019/1023 — or formal insolvency.",
+  "substituicoes": [
+   {
+    "de": "— Cita as normas reais do CIRE e da Lei n.º 9/2022 aplicáveis.",
+    "para": "— Cita as normas reais do CIRE, da Lei n.º 8/2018 (RERE) e da Lei n.º 9/2022 aplicáveis.",
+    "motivo": "O regime extrajudicial de recuperação de empresas é o RERE (Lei 8/2018).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2850&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Quadro de reestruturação preventiva (Lei n.º 9/2022): processo extrajudicial ou com supervisão judicial limitada",
+    "para": "- Regimes de reestruturação: o RERE (Lei n.º 8/2018), extrajudicial e confidencial, para empresas em situação económica difícil ou de insolvência iminente — protocolo de negociação assinado pelo devedor e por credores que representem pelo menos 15 % do passivo não subordinado, depositado na Conservatória do Registo Comercial, com negociações até três meses e cláusula obrigatória de não instauração, pelas partes, de execuções e de pedidos de insolvência (arts. 3.º, 6.º, 7.º e 8.º); e o PER (arts. 17.º-A a 17.º-J CIRE), processo judicial com administrador judicial provisório e suspensão das medidas de execução por quatro meses, prorrogável por um mês (art. 17.º-E CIRE), cujo regime foi alterado pela Lei n.º 9/2022 na transposição da Diretiva (UE) 2019/1023",
+    "motivo": "A Lei 9/2022 alterou o PER (judicial) na transposição da Diretiva 2019/1023; o regime extrajudicial é o RERE (Lei 8/2018).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2850&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Articulação com PARI/PERSI (crédito bancário) para garantir suspensão de execuções durante a negociação",
+    "para": "- O PARI/PERSI (Decreto-Lei n.º 227/2012) não se aplica ao financiamento de uma empresa: protege só clientes bancários consumidores; a proteção contra execuções durante a negociação resulta apenas do acordo de standstill (que só vincula os signatários), do protocolo de negociação do RERE (arts. 7.º, n.º 1, al. e), e 11.º da Lei n.º 8/2018) ou da suspensão das medidas de execução no PER (art. 17.º-E CIRE)\n- O standstill não afasta o dever de apresentação à insolvência nos 30 dias seguintes ao conhecimento da insolvência atual (art. 18.º CIRE); o RERE e o PER pressupõem que a empresa ainda não esteja em insolvência atual",
+    "motivo": "O PARI/PERSI só protege consumidores; faltava o aviso sobre o dever de apresentação à insolvência.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1821&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Alternativa formal (PER) identificada caso as negociações falhem",
+    "para": "- [ ] Alternativa formal (RERE ou PER) identificada caso as negociações falhem e dever de apresentação à insolvência verificado (art. 18.º CIRE)",
+    "motivo": "Faltavam o RERE e o dever de apresentação.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0018&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar que a empresa não está em insolvência atual (art. 3.º CIRE) antes de propor o standstill; se estiver, corre o prazo do art. 18.º CIRE.",
+   "Ponderar sujeitar a negociação ao RERE para obter a suspensão de processos (art. 11.º da Lei n.º 8/2018) e os efeitos fiscais do acordo.",
+   "Confirmar, se for invocada, a medida concreta das alterações da Lei n.º 9/2022 ao PER."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2850&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1821&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0018&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0017A&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0017C&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0017E&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://diariodarepublica.pt/dr/detalhe/lei/9-2022-177455547"
+  ]
+ },
+ {
+  "codigo": "INS-056",
+  "veredicto": "corrigida",
+  "resumo": "A ficha reduzia a maioria do PER a «2/3 dos créditos + >1/2 não subordinados» (o art. 17.º-F, n.º 5, prevê votação por categorias ou quórum de um terço com mais de dois terços dos votos emitidos, ou mais de metade da totalidade dos créditos), dava ao plano de insolvência uma maioria de «2/3 dos créditos por classe» (o art. 212.º exige quórum de um terço, mais de 50 % dos votos emitidos e mais de metade dos votos de créditos não subordinados, sem classes), admitia o PEAP em insolvência e afirmava que o seu insucesso não leva à insolvência, ao contrário do PER (o art. 222.º-G tem o regime do art. 17.º-G). Corrigiram-se ainda os pressupostos e a suspensão do PER, o prazo, a admissibilidade do plano de insolvência, o RERE na negociação extrajudicial e a exclusão da insolvência atual.",
+  "substituicoes": [
+   {
+    "de": "- Situação: dificuldade económica / insolvência iminente / insolvência atual",
+    "para": "- Situação: dificuldade económica / insolvência iminente / insolvência atual (o PER, o PEAP e o RERE excluem a insolvência atual; nesse caso, salvo pessoa singular não titular de empresa, corre o dever de apresentação à insolvência — art. 18.º CIRE)",
+    "motivo": "Os mecanismos de reestruturação pressupõem que não haja insolvência atual.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0018&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Pressupostos: empresa em dificuldade económica ou insolvência iminente + viabilidade real\n- Publicidade: sim (Citius) — impacto reputacional\n- Suspensão de execuções: sim, desde o despacho do AJP\n- Maioria para aprovação: ²/³ dos créditos + >½ não subordinados\n- Prazo: ~3-4 meses até homologação\n- Risco de insucesso: declaração de insolvência (art. 17.º-G CIRE)",
+    "para": "- Pressupostos: empresa em situação económica difícil ou de insolvência meramente iminente, ainda suscetível de recuperação, com declaração de contabilista certificado ou ROC, emitida há não mais de 30 dias, a atestar que não está em insolvência atual (art. 17.º-A CIRE); declaração inicial subscrita por credores não especialmente relacionados titulares de pelo menos 10 % dos créditos não subordinados (art. 17.º-C, n.º 1, CIRE)\n- Publicidade: sim (Citius) — impacto reputacional\n- Suspensão de execuções: desde o despacho de nomeação do AJP, por quatro meses, prorrogáveis por um mês (art. 17.º-E, n.os 1 e 2, CIRE)\n- Maioria para aprovação (art. 17.º-F, n.º 5, CIRE), sem contar as abstenções: havendo categorias de credores, mais de dois terços dos votos emitidos em cada categoria e as maiorias de categorias da al. a); sem categorias, quórum de um terço dos créditos com direito de voto, mais de dois terços dos votos emitidos e mais de metade dos votos emitidos de créditos não subordinados (al. b)), ou mais de metade da totalidade dos créditos com direito de voto e mais de metade dos votos emitidos de créditos não subordinados (al. c))\n- Prazo: 20 dias para reclamações, lista provisória e impugnações, e dois meses de negociações prorrogáveis por um mês (art. 17.º-D CIRE), a que acrescem a votação e a homologação\n- Risco de insucesso: se o AJP concluir que a empresa está insolvente e esta não se opuser em cinco dias, a insolvência é declarada (art. 17.º-G CIRE); a empresa fica impedida de recorrer a novo PER durante dois anos (art. 17.º-G, n.º 8, CIRE)",
+    "motivo": "Maioria do PER errada (art. 17.º-F, n.º 5); faltavam a declaração do art. 17.º-A, n.º 2, o limiar de 10 % do art. 17.º-C, a duração da suspensão (art. 17.º-E) e o mecanismo do art. 17.º-G.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0017F&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Pressupostos: declaração de insolvência prévia\n- Adequado para: reestruturação com medidas radicais (haircuts elevados, venda da empresa)\n- Maioria: ²/³ dos créditos por classe",
+    "para": "- Pressupostos: processo de insolvência; a proposta pode acompanhar a petição do devedor (art. 24.º, n.º 3, CIRE), mas só é votada depois do trânsito em julgado da sentença de declaração de insolvência (art. 209.º, n.º 2, CIRE); inadmissível para os devedores abrangidos pelo art. 249.º CIRE (art. 250.º CIRE)\n- Adequado para: reestruturação com medidas radicais (haircuts elevados, venda da empresa)\n- Maioria (art. 212.º, n.º 1, CIRE): quórum de um terço dos créditos com direito de voto, mais de 50 % dos votos emitidos e, nestes, mais de metade dos votos correspondentes a créditos não subordinados, sem contar as abstenções; não há votação por classes",
+    "motivo": "O art. 212.º, n.º 1, CIRE não prevê votação por classes nem maioria de 2/3 dos créditos; a assembleia só se reúne depois do trânsito da sentença (art. 209.º, n.º 2).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0212&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Pressupostos: pessoa singular não empresária em dificuldade ou insolvência\n- Insucesso: NÃO determina insolvência automática (diferença face ao PER)",
+    "para": "- Pressupostos: devedor que não seja empresa, em situação económica difícil ou de insolvência meramente iminente (art. 222.º-A CIRE); excluída a insolvência atual\n- Insucesso: regime idêntico ao do PER — se o AJP concluir pela insolvência e o devedor não se opuser em cinco dias, a insolvência é declarada, podendo o devedor apresentar plano de pagamentos ou pedir a exoneração do passivo restante (art. 222.º-G, n.os 3 a 7, CIRE)",
+    "motivo": "O PEAP não cabe em insolvência atual e o art. 222.º-G prevê a declaração de insolvência nos mesmos termos do art. 17.º-G.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0222G&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Sem publicidade; vincula apenas signatários\n- Adequada para: poucos credores, posições homogéneas",
+    "para": "- Sem publicidade; vincula apenas signatários\n- Pode ser sujeita ao RERE (Lei n.º 8/2018): empresas em situação económica difícil ou de insolvência iminente, protocolo de negociação com credores que representem pelo menos 15 % do passivo não subordinado, depositado na Conservatória do Registo Comercial, negociações confidenciais até três meses e acordo que só afeta os credores que nele participem (arts. 3.º, 6.º, 8.º e 19.º, n.º 5); o acordo subscrito pelas maiorias do PER pode ser homologado judicialmente e vincular todos os credores (art. 17.º-I CIRE)\n- Adequada para: poucos credores, posições homogéneas",
+    "motivo": "Faltavam o RERE e a homologação do acordo extrajudicial (art. 17.º-I CIRE).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2850&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar se a empresa é micro, pequena ou média (dispensa da proposta de categorias — art. 17.º-C, n.º 4, CIRE) e se convém formar categorias de credores.",
+   "Confirmar a inexistência de insolvência atual com a declaração do contabilista certificado ou ROC (art. 17.º-A, n.º 2, CIRE).",
+   "Verificar se o devedor recorreu a PER ou PEAP nos dois anos anteriores (arts. 17.º-G, n.º 8, e 222.º-G, n.º 8, CIRE)."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0017A&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0017C&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0017D&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0017E&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0017F&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0017G&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0017I&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0222A&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0222G&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0024&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0209&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0212&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0217&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0250&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0018&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2850&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+  ]
+ }
+]

@@ -3,20 +3,22 @@ codigo: FAM-036
 area: "Direito da Família e das Crianças"
 titulo: "Rapto Parental Internacional — Pedido de Regresso ao Abrigo da Convenção de Haia de 1980"
 titulo_en: "International Parental Child Abduction — Return Application under the 1980 Hague Convention"
-descricao: "Elabora o pedido de regresso de menor ilicitamente deslocado ou retido no estrangeiro, ao abrigo da Convenção sobre os Aspetos Civis do Rapto Internacional de Crianças (Haia, 25 de Outubro de 1980, aprovada pelo DL n.º 316/83, de 2 de Julho), articulando com o Regulamento (CE) n.º 2201/2003 (Bruxelas II-bis) e o art. 1906.º CC."
-descricao_en: "Prepares the application for the return of a child wrongfully removed to or retained abroad, under the Convention on the Civil Aspects of International Child Abduction (The Hague, 25 October 1980, approved by Decree-Law No. 316/83 of 2 July), in conjunction with Regulation (EC) No. 2201/2003 (Brussels II bis) and Art. 1906 CC."
+descricao: "Elabora o pedido de regresso de menor ilicitamente deslocado ou retido no estrangeiro, ao abrigo da Convenção sobre os Aspetos Civis do Rapto Internacional de Crianças (Haia, 25 de outubro de 1980, aprovada pelo Decreto do Governo n.º 33/83, de 11 de maio), articulando com o Regulamento (UE) 2019/1111 (Bruxelas II-ter) e o art. 1906.º CC."
+descricao_en: "Prepares the application for the return of a child wrongfully removed to or retained abroad, under the Convention on the Civil Aspects of International Child Abduction (The Hague, 25 October 1980, approved by Government Decree No. 33/83 of 11 May), in conjunction with Regulation (EU) 2019/1111 (Brussels II ter) and Art. 1906 CC."
 ambito: nacional
-estado_citacoes: "conferidas 0 · corrigidas 0 · por conferir 11"
+estado_citacoes: "conferidas 0 · corrigidas 0 · por conferir 12"
+revisao_tecnica: "2026-10-30 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
 # Rapto Parental Internacional — Pedido de Regresso ao Abrigo da Convenção de Haia de 1980
 
 > **Âmbito:** nacional · **Área:** Direito da Família e das Crianças · **Código:** FAM-036
-> **EN:** International Parental Child Abduction — Return Application under the 1980 Hague Convention. Prepares the application for the return of a child wrongfully removed to or retained abroad, under the Convention on the Civil Aspects of International Child Abduction (The Hague, 25 October 1980, approved by Decree-Law No. 316/83 of 2 July), in conjunction with Regulation (EC) No. 2201/2003 (Brussels II bis) and Art. 1906 CC.
-> **Citações:** conferidas 0 · corrigidas 0 · por conferir 11. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **EN:** International Parental Child Abduction — Return Application under the 1980 Hague Convention. Prepares the application for the return of a child wrongfully removed to or retained abroad, under the Convention on the Civil Aspects of International Child Abduction (The Hague, 25 October 1980, approved by Government Decree No. 33/83 of 11 May), in conjunction with Regulation (EU) 2019/1111 (Brussels II ter) and Art. 1906 CC.
+> **Citações:** conferidas 0 · corrigidas 0 · por conferir 12. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-30 — corrigida (4 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
-Elabora o pedido de regresso de menor ilicitamente deslocado ou retido no estrangeiro, ao abrigo da Convenção sobre os Aspetos Civis do Rapto Internacional de Crianças (Haia, 25 de Outubro de 1980, aprovada pelo DL n.º 316/83, de 2 de Julho), articulando com o Regulamento (CE) n.º 2201/2003 (Bruxelas II-bis) e o art. 1906.º CC.
+Elabora o pedido de regresso de menor ilicitamente deslocado ou retido no estrangeiro, ao abrigo da Convenção sobre os Aspetos Civis do Rapto Internacional de Crianças (Haia, 25 de outubro de 1980, aprovada pelo Decreto do Governo n.º 33/83, de 11 de maio), articulando com o Regulamento (UE) 2019/1111 (Bruxelas II-ter) e o art. 1906.º CC.
 
 ## Método
 
@@ -25,7 +27,7 @@ Ficha de trabalho para preparar este documento. As regras da casa prevalecem sob
 ## Regras obrigatórias
 — NUNCA inventes jurisprudência internacional ou números de processo.
 — Usa sempre pt-PT, NUNCA pt-BR.
-— Cita os artigos reais da Convenção de Haia de 1980, do Regulamento Bruxelas II-bis (ou Bruxelas II-ter, Reg. 2019/1111, vigente desde 01/08/2022) e do CC.
+— Cita os artigos reais da Convenção de Haia de 1980, do Regulamento (UE) 2019/1111 (Bruxelas II-ter, aplicável às ações intentadas a partir de 01/08/2022; o Regulamento (CE) n.º 2201/2003, Bruxelas II-bis, só se aplica às ações intentadas antes dessa data — art. 100.º do Regulamento 2019/1111) e do CC.
 — Identifica claramente o Estado de destino e as suas obrigações como Estado Contratante.
 
 ## Framework em 5 etapas:
@@ -46,7 +48,7 @@ Dentro de <fundamentos_juridicos>:
 - Art. 13.º: exceções ao regresso (grave risco, oposição do menor)
 - Art. 16.º: suspensão de decisões sobre o fundo (guarda) no Estado de refúgio
 - Regulamento (UE) 2019/1111 (Bruxelas II-ter), arts. 22.º a 29.º: relação com a Convenção em casos intra-UE
-- Papel da Autoridade Central Portuguesa (DGRSP — art. 6.º Convenção)
+- Papel da Autoridade Central Portuguesa (art. 6.º Convenção): desde 1/3/2024, a Direção-Geral da Administração da Justiça (DGAJ — Divisão de Cooperação Judiciária Internacional), que sucedeu à DGRSP nessas funções
 
 ### ETAPA 3 — REQUERIMENTO À AUTORIDADE CENTRAL
 Dentro de <estrutura_requerimento>:
@@ -57,8 +59,8 @@ Dentro de <estrutura_requerimento>:
 - Pedido expresso de localização do menor e de instauração de processo de regresso
 
 ### ETAPA 4 — CARTA INICIAL À AUTORIDADE CENTRAL
-Redige a carta/requerimento dirigido à DGRSP (Autoridade Central Portuguesa) com:
-**À Direção-Geral de Reinserção e Serviços Prisionais — Autoridade Central para a Convenção de Haia sobre o Rapto Internacional de Crianças**
+Redige a carta/requerimento dirigido à DGAJ (Autoridade Central Portuguesa desde 1/3/2024) com:
+**À Direção-Geral da Administração da Justiça — Divisão de Cooperação Judiciária Internacional — Autoridade Central para a Convenção de Haia sobre o Rapto Internacional de Crianças**
 
 [Requerente], NIF [NÚMERO], residente em [MORADA], vem solicitar a intervenção da Autoridade Central Portuguesa, ao abrigo do artigo 8.º da Convenção de Haia de 1980 sobre os Aspetos Civis do Rapto Internacional de Crianças, nos termos seguintes: [...]
 
@@ -102,6 +104,7 @@ Redige a carta/requerimento dirigido à DGRSP (Autoridade Central Portuguesa) co
 
 | Citação | Estado | Nota |
 |---|---|---|
+| art. 100.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 12.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 12.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 13.º | por conferir [■ VERIFICAR] | diploma não identificado |

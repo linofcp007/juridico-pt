@@ -40,7 +40,7 @@ Apresenta dentro de um bloco <analise_do_caso>:
 - Quais os bens administrados e as receitas geradas?
 - Quais as despesas efetuadas em nome da herança?
 - Existe saldo em favor da herança ou crédito do cabeça-de-casal?
-- As despesas foram autorizadas pelos co-herdeiros ou são ordinárias de administração?
+- As despesas foram autorizadas pelos coerdeiros ou são ordinárias de administração?
 - Existem despesas pessoais misturadas com despesas da herança?
 
 ### ETAPA 2 — ANÁLISE JURÍDICA (Fundamentação)

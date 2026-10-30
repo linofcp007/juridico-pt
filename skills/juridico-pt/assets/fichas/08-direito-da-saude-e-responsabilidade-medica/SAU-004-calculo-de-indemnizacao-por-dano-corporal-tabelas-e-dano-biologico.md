@@ -7,6 +7,7 @@ descricao: "Estrutura o cálculo da indemnização por dano corporal segundo os 
 descricao_en: "Structures the calculation of compensation for personal injury according to the criteria of Portuguese case law, including biological damage (dano biológico), future pecuniary loss due to incapacity, non-pecuniary damage (pain, suffering, aesthetic damage and loss of amenity (dano à vida de relação)) and the financial tables used by the higher courts."
 ambito: nacional
 estado_citacoes: "conferidas 7 · corrigidas 0 · por conferir 0"
+revisao_tecnica: "2026-10-28 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
@@ -15,6 +16,7 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 > **Âmbito:** nacional · **Área:** Direito da Saúde e Responsabilidade Médica · **Código:** SAU-004
 > **EN:** Calculation of Compensation for Personal Injury (Tables and Biological Damage). Structures the calculation of compensation for personal injury according to the criteria of Portuguese case law, including biological damage (dano biológico), future pecuniary loss due to incapacity, non-pecuniary damage (pain, suffering, aesthetic damage and loss of amenity (dano à vida de relação)) and the financial tables used by the higher courts.
 > **Citações:** conferidas 7 · corrigidas 0 · por conferir 0. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-28 — corrigida (6 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
 Estrutura o cálculo da indemnização por dano corporal segundo os critérios da jurisprudência portuguesa, incluindo dano biológico, dano patrimonial futuro por incapacidade, dano não patrimonial (dor, sofrimento, dano estético e dano à vida de relação) e as tabelas financeiras utilizadas pelos tribunais superiores.
 
@@ -38,9 +40,8 @@ Ficha de trabalho para preparar este documento. As regras da casa prevalecem sob
 Apresenta dentro de um bloco <analise_do_caso>:
 - Dados biográficos do lesado (idade, profissão, rendimento)
 - Tipo e extensão das lesões sofridas
-- Grau de Incapacidade Permanente Parcial (IPP) atribuído em perícia
-- Grau de Incapacidade Permanente Total (IPT) se aplicável
-- Deficit Funcional Permanente (DFP) em pontos de Pereira Coelho / escala EBI
+- Défice Funcional Permanente da Integridade Físico-Psíquica (DFP), em pontos (0 a 100), fixado em perícia segundo a Tabela Nacional para Avaliação de Incapacidades Permanentes em Direito Civil (Anexo II do Decreto-Lei n.º 352/2007)
+- IPP / IPT: conceitos da Tabela Nacional de Incapacidades por Acidentes de Trabalho e Doenças Profissionais (Anexo I do mesmo decreto-lei); só relevam se o facto for também acidente de trabalho e não se confundem com o DFP
 - Dano estético (DE) em pontos ou grau
 - Quantum doloris (QD) em escala de 1 a 7
 - Repercussão nas atividades desportivas e de lazer (RADL)
@@ -53,7 +54,8 @@ Apresenta dentro de um bloco <fundamentos_juridicos>:
 - Art. 564.º CC — dano emergente e lucros cessantes
 - Art. 566.º CC — cálculo da indemnização em dinheiro
 - Art. 496.º CC — danos não patrimoniais
-- Portaria n.º 679/2009 — tabela nacional de avaliação de incapacidades (referência)
+- Decreto-Lei n.º 352/2007, Anexo II — Tabela Nacional para Avaliação de Incapacidades Permanentes em Direito Civil
+- Portaria n.º 377/2008, alterada pela Portaria n.º 679/2009 — critérios e valores orientadores da proposta razoável das seguradoras no seguro automóvel (referência indicativa; não vincula os tribunais)
 - [■ VERIFICAR: acórdão do STJ sobre valoração do dano biológico com IPP semelhante]
 - Fórmula do dano patrimonial futuro: rendimento anual × fator de capitalização
 - Fator de capitalização: [■ VERIFICAR tabela financeira atualizada à data]
@@ -79,8 +81,8 @@ A.2 — Incapacidade Temporária Parcial (ITP)
 
 A.3 — Dano Patrimonial Futuro por IPP
 - Rendimento anual líquido: [valor] €
-- IPP atribuída: [percentagem]%
-- Perda anual: rendimento × IPP% = [valor] €
+- Défice funcional permanente (pontos) ou IPP, se a avaliação for laboral: [valor]
+- Perda anual: rendimento × [percentagem de perda da capacidade de ganho]% = [valor] € [■ VERIFICAR: critério de conversão dos pontos do DFP em percentagem e repercussão concreta na atividade profissional]
 - Fator de capitalização (age [x], taxa [y]%): [fator]
 - Dano patrimonial futuro: perda anual × fator = [valor] €
 [■ VERIFICAR: tabela financeira atualizada]
@@ -111,7 +113,7 @@ B.5 — Dano à Vida de Relação (se autonomizado):
 **C. DANO MORTE (se aplicável)**
 C.1 — Dano próprio da vítima (sofrimento ante mortem): [valor]
 C.2 — Perda do direito à vida (art. 496.º n.º 2 CC): [■ VERIFICAR: valor de referência STJ]
-C.3 — Dano reflexo dos familiares (dor, sofrimento): [por familiar, art. 496.º n.º 3 CC]
+C.3 — Dano reflexo dos familiares (dor, sofrimento): [por familiar, art. 496.º, n.º 4, CC — titulares nos n.os 2 e 3]
 
 **TOTAL ESTIMADO:** [soma de todas as rubricas] €
 
@@ -141,11 +143,10 @@ Apresenta dentro de um bloco <checklist_validacao>:
 - Data da consolidação médico-legal: [data]
 - Incapacidade Temporária Total (ITT): [n] dias
 - Incapacidade Temporária Parcial (ITP): [n] dias a [percentagem]%
-- IPP (Incapacidade Permanente Parcial): [percentagem]%
-- IPT (Incapacidade Permanente Total): [sim/não]
+- IPP / IPT (só se houver também avaliação laboral — Anexo I do Decreto-Lei n.º 352/2007): [percentagem]% / [sim/não]
 - Quantum Doloris: [grau]/7
 - Dano Estético: [grau]/7
-- Défice Funcional Permanente: [pontos] (se avaliado)
+- Défice Funcional Permanente da Integridade Físico-Psíquica: [pontos] (Anexo II do Decreto-Lei n.º 352/2007)
 - RADL (Repercussão em Atividades Desportivas/Lazer): [grau]/7 ou [não avaliado]
 - RPAP (Repercussão Permanente na Atividade Profissional): [sim/não/grau]
 
@@ -175,4 +176,4 @@ Apresenta dentro de um bloco <checklist_validacao>:
 | Art. 496.º CC | conferida (epígrafe) — Danos não patrimoniais |  |
 | art. 566.º n.º 3 CC | conferida (epígrafe) — Indemnização em dinheiro |  |
 | art. 496.º n.º 2 CC | conferida (epígrafe) — Danos não patrimoniais |  |
-| art. 496.º n.º 3 CC | conferida (epígrafe) — Danos não patrimoniais |  |
+| art. 496.º, n.º 4, CC | conferida (epígrafe) — Danos não patrimoniais |  |

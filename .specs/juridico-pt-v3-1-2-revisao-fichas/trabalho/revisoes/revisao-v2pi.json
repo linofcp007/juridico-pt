@@ -1,0 +1,655 @@
+[
+ {
+  "codigo": "PI-005",
+  "veredicto": "corrigida",
+  "resumo": "A ficha estruturava a impugnação como «recurso hierárquico para o Conselho Diretivo do INPI» e «recurso contencioso para o tribunal administrativo», com base nos arts. 267.º e 268.º CPI (uso e caducidade da marca) e nos arts. 67.º e ss. CPA. No CPI em vigor há o pedido de modificação da decisão (art. 22.º), o recurso judicial, de plena jurisdição, para o Tribunal da Propriedade Intelectual, em dois meses a contar da publicação no BPI (arts. 38.º a 46.º), e o recurso arbitral (arts. 47.º a 49.º). Reescrevi as regras, a fundamentação, o cabeçalho, a tempestividade, o pedido (substituição da decisão pela sentença), a checklist e a recolha de dados; o carácter distintivo passou a remeter para os arts. 208.º, 209.º e 231.º CPI.",
+  "descricao": "Elabora o recurso judicial para o Tribunal da Propriedade Intelectual (ou o pedido de modificação da decisão no próprio INPI) de decisão do INPI que recusou o registo de uma marca, julgou procedente uma oposição ou adotou outra decisão desfavorável ao requerente, com fundamentação nos vícios de forma ou de fundo da decisão recorrida.",
+  "descricao_en": "Prepares the judicial appeal to the Intellectual Property Court (or the request to the INPI itself to modify its decision) against an INPI decision refusing registration of a trade mark, upholding an opposition or taking another decision unfavourable to the applicant, on the grounds of procedural or substantive defects in the decision under appeal.",
+  "substituicoes": [
+   {
+    "de": "- Distingue recurso hierárquico (para o Conselho Diretivo do INPI) de recurso contencioso (para o tribunal administrativo)\n- Respeita os prazos legais: [■ VERIFICAR: arts. 267.º e 268.º CPI e prazos do CPA]",
+    "para": "- Distingue o pedido de modificação da decisão, apreciado no próprio INPI por despacho do superior hierárquico de quem a assinou, no prazo de dois meses após a publicação do despacho (art. 22.º CPI), do recurso judicial, de plena jurisdição, para o Tribunal da Propriedade Intelectual (arts. 38.º e 39.º CPI) e do recurso arbitral (arts. 47.º a 49.º CPI). O recurso judicial não segue para os tribunais administrativos\n- Respeita os prazos legais: o recurso judicial é interposto no prazo de dois meses a contar da publicação da decisão no Boletim da Propriedade Industrial, da decisão final proferida ao abrigo do art. 22.º CPI ou da data de emissão das certidões pedidas pelo recorrente, quando anterior (art. 41.º CPI)",
+    "motivo": "O CPI não prevê recurso hierárquico para o Conselho Diretivo nem recurso para os tribunais administrativos: prevê a modificação da decisão (art. 22.º), o recurso judicial para o TPI no prazo de dois meses (arts. 38.º a 41.º) e o recurso arbitral (arts. 47.º e ss.). Os arts. 267.º e 268.º CPI tratam do uso e da caducidade da marca.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0038&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Tipo de recurso mais adequado: hierárquico vs. contencioso",
+    "para": "- Meio mais adequado: pedido de modificação da decisão (art. 22.º CPI), recurso judicial para o Tribunal da Propriedade Intelectual (arts. 38.º a 46.º CPI) ou recurso arbitral (arts. 47.º a 49.º CPI; o requerimento de compromisso arbitral suspende os prazos de recurso judicial — art. 48.º, n.º 2, CPI)",
+    "motivo": "Os meios de reação contra decisões do INPI são os do CPI, não o recurso hierárquico e o contencioso administrativo.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0038&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Art. 267.º CPI: recurso hierárquico das decisões do INPI\n- Art. 268.º CPI: recurso contencioso para os tribunais",
+    "para": "- Art. 22.º CPI: modificação da decisão, por despacho do superior hierárquico de quem a assinou, no prazo de dois meses após a publicação do despacho\n- Arts. 38.º a 46.º CPI: recurso judicial, de plena jurisdição — decisões recorríveis (art. 38.º CPI), tribunal de propriedade intelectual (art. 39.º CPI), legitimidade (art. 40.º CPI), prazo de dois meses (art. 41.º CPI), resposta-remessa do INPI (art. 42.º CPI), citação da parte contrária e substituição da decisão recorrida pela sentença (art. 43.º CPI), recurso para a Relação (art. 45.º CPI)\n- Arts. 47.º a 49.º CPI: recurso arbitral",
+    "motivo": "Os arts. 267.º e 268.º CPI tratam do uso e da caducidade da marca; o regime do recurso das decisões do INPI está nos arts. 22.º e 38.º a 49.º CPI.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0038&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Art. 227.º CPI: carácter distintivo — definição e critérios",
+    "para": "- Arts. 208.º e 209.º CPI: constituição da marca e sinais desprovidos de carácter distintivo, descritivos ou usuais; art. 231.º, n.º 2, CPI: carácter distintivo adquirido pelo uso antes do pedido",
+    "motivo": "O art. 227.º CPI trata da falta de uso sério invocada na oposição; o carácter distintivo resulta dos arts. 208.º, 209.º e 231.º CPI.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0208&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- CPA: arts. 67.º e ss. (recurso hierárquico); princípio da proporcionalidade (art. 7.º CPA)",
+    "para": "- CPA: princípio da proporcionalidade (art. 7.º CPA) [■ VERIFICAR: termos em que o CPA se aplica aos procedimentos do INPI, que o CPI regula, e se, além do art. 22.º CPI, cabe impugnação administrativa nos termos dos arts. 184.º e ss. CPA]",
+    "motivo": "O art. 67.º CPA trata da capacidade procedimental, não do recurso hierárquico; e o CPI tem meios próprios de reação contra as decisões do INPI.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0038&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [■ VERIFICAR: jurisprudência dos tribunais administrativos portugueses sobre recusas do INPI]",
+    "para": "- [■ VERIFICAR: jurisprudência do Tribunal da Propriedade Intelectual e do Tribunal da Relação de Lisboa sobre recusas do INPI]",
+    "motivo": "Os recursos das decisões do INPI são julgados pelo Tribunal da Propriedade Intelectual, com recurso para a Relação (arts. 39.º e 45.º CPI), não pelos tribunais administrativos.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0038&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "**RECURSO HIERÁRQUICO / IMPUGNAÇÃO CONTENCIOSA**\n**[Da decisão do INPI n.º / processo n.º]**\n\n[Nome/Denominação], [NIF/NIPC], com sede/domicílio em [morada], representado(a) pelo mandatário [nome], advogado(a), OA n.º [número], vem, nos termos [do art. 267.º do CPI / do art. 268.º do CPI c/c arts. 67.º e ss. do CPA], interpor o presente RECURSO HIERÁRQUICO / IMPUGNAÇÃO CONTENCIOSA da decisão proferida pelo INPI em [data], notificada em [data], que",
+    "para": "**TRIBUNAL DA PROPRIEDADE INTELECTUAL**\n**Exmo.(a) Senhor(a) Juiz(a) de Direito**\n\n**RECURSO JUDICIAL DE DECISÃO DO INPI, I. P.**\n**[Da decisão do INPI n.º / processo n.º]**\n\n*[Se se optar pelo pedido de modificação da decisão (art. 22.º CPI), a peça é dirigida ao INPI, I. P., dentro dos dois meses seguintes à publicação do despacho, e adaptam-se a tempestividade e o pedido.]*\n\n[Nome/Denominação], [NIF/NIPC], com sede/domicílio em [morada], representado(a) pelo mandatário [nome], advogado(a), OA n.º [número], vem, nos termos dos arts. 38.º a 41.º do CPI, interpor RECURSO JUDICIAL da decisão proferida pelo INPI, I. P., em [data], publicada no Boletim da Propriedade Industrial de [data], que",
+    "motivo": "A peça era dirigida a meios e órgãos que o CPI não prevê; o recurso judicial é interposto no Tribunal da Propriedade Intelectual (arts. 38.º e 39.º CPI) e o prazo conta da publicação no BPI (art. 41.º CPI).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0038&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "O presente recurso é apresentado dentro do prazo legal de [X] dias a contar da notificação da decisão recorrida, ocorrida em [data], sendo, por isso, tempestivo.",
+    "para": "O presente recurso é interposto dentro do prazo de dois meses a contar da publicação da decisão recorrida no Boletim da Propriedade Industrial, ocorrida em [data] [ou da emissão das certidões pedidas pelo recorrente, em [data], se anterior], sendo, por isso, tempestivo (art. 41.º CPI).",
+    "motivo": "O prazo é de dois meses e conta da publicação da decisão no BPI (ou da emissão das certidões, se anterior), não da notificação.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0038&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "[Argumentação detalhada: por que razão o sinal tem carácter distintivo; como deve ser interpretado o art. 227.º CPI; que critérios devem ser aplicados]",
+    "para": "[Argumentação detalhada: por que razão o sinal tem carácter distintivo; como devem ser interpretados os arts. 208.º e 209.º CPI e o art. 231.º CPI; que critérios devem ser aplicados]",
+    "motivo": "O art. 227.º CPI trata da falta de uso sério na oposição, não do carácter distintivo.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0208&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "b) Seja ordenado o prosseguimento do processo de registo da marca n.º [número] para publicação definitiva;",
+    "para": "b) Seja a decisão recorrida substituída por sentença que conceda o registo da marca n.º [número] (art. 43.º, n.º 4, CPI);",
+    "motivo": "O recurso é de plena jurisdição: a sentença que revoga ou altera a decisão do INPI substitui-a (art. 43.º, n.º 4, CPI).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0038&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Tipo de recurso correto (hierárquico vs. contencioso)",
+    "para": "- [ ] Meio correto (pedido de modificação — art. 22.º CPI; recurso judicial para o Tribunal da Propriedade Intelectual — arts. 38.º e 39.º CPI; recurso arbitral — arts. 47.º a 49.º CPI)",
+    "motivo": "Os meios de reação são os do CPI.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0038&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Taxas de recurso verificadas [■ VERIFICAR: valores atuais INPI]",
+    "para": "- [ ] Custos verificados [■ VERIFICAR: taxa de justiça do recurso judicial; taxa do INPI, se houver, no pedido de modificação da decisão]",
+    "motivo": "O recurso judicial corre no tribunal (taxa de justiça), não no INPI.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0038&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Data de notificação: [data]\n- Tipo de decisão:",
+    "para": "- Data de publicação no Boletim da Propriedade Industrial: [data]\n- Data de notificação: [data]\n- Tipo de decisão:",
+    "motivo": "O prazo do recurso conta da publicação no BPI (art. 41.º CPI).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0038&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Recurso hierárquico (para o INPI): [sim/não]\n- Recurso contencioso (para tribunal): [sim/não]",
+    "para": "- Pedido de modificação da decisão no INPI (art. 22.º CPI): [sim/não]\n- Recurso judicial para o Tribunal da Propriedade Intelectual: [sim/não]\n- Recurso arbitral: [sim/não]",
+    "motivo": "Os meios de reação são os do CPI.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0038&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "Recurso hierárquico ou impugnação contenciosa da decisão do INPI, com identificação",
+    "para": "Recurso judicial para o Tribunal da Propriedade Intelectual (ou pedido de modificação) da decisão do INPI, com identificação",
+    "motivo": "Os meios de reação são os do CPI.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0038&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar se, além do pedido de modificação do art. 22.º CPI, é admissível impugnação administrativa ao abrigo do CPA e em que medida o CPA se aplica subsidiariamente aos procedimentos do INPI.",
+   "O prazo de dois meses do art. 41.º CPI conta da publicação no BPI, não da notificação; confirmar a data no BPI antes de dar a peça por tempestiva.",
+   "O requerimento de compromisso arbitral suspende os prazos de recurso judicial (art. 48.º, n.º 2, CPI); ponderar a via arbitral quando não haja contrainteressados (art. 47.º, n.º 2, CPI).",
+   "Confirmar a taxa de justiça do recurso judicial e a jurisprudência do TPI e da Relação de Lisboa sobre carácter distintivo antes de a citar."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0038&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0208&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0231&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+  ]
+ },
+ {
+  "codigo": "PI-010",
+  "veredicto": "corrigida",
+  "resumo": "A ficha aplicava o Regulamento (UE) n.º 316/2014, que vigorou até 30/4/2026 e foi substituído pelo Regulamento (UE) 2026/877 (em vigor desde 1/5/2026, com período transitório até 30/4/2027); atribuía as «cláusulas negras» ao art. 5.º, quando as restrições graves estão no art. 4.º e o art. 5.º trata das restrições excluídas; e indicava a Lei n.º 93/2021 (proteção de denunciantes) como lei dos segredos comerciais, que estão nos arts. 313.º a 315.º CPI. Corrigi também a remissão genérica para os arts. 100.º a 120.º CPI (licenças, averbamento e exploração), a nota sobre o grant-back e a cláusula de foro, que indicava a comarca quando a competência material é do Tribunal da Propriedade Intelectual.",
+  "substituicoes": [
+   {
+    "de": "- Alerta para a questão das cláusulas restritivas e o Regulamento REBT (art. 101.º TFUE)",
+    "para": "- Alerta para a questão das cláusulas restritivas e o regulamento de isenção por categoria dos acordos de transferência de tecnologia (REBT — Regulamento (UE) 2026/877, que substituiu o Regulamento (UE) n.º 316/2014 desde 1 de maio de 2026; art. 101.º TFUE)",
+    "motivo": "O Regulamento (UE) n.º 316/2014 vigorou até 30/4/2026; o regulamento em vigor é o (UE) 2026/877.",
+    "fonte": "https://publications.europa.eu/resource/celex/32026R0877"
+   },
+   {
+    "de": "- Aplicabilidade do REBT (Reg. 316/2014): as quotas de mercado estão abaixo dos limiares?\n- Cláusulas negras (sempre proibidas) vs. cláusulas cinzentas (podem ser isentas)",
+    "para": "- Aplicabilidade do REBT (Regulamento (UE) 2026/877, em vigor desde 1 de maio de 2026): as quotas de mercado estão abaixo dos limiares — 20 % de quota agregada se as partes forem concorrentes, 30 % de cada parte se não forem (art. 3.º)? Os acordos já em vigor a 30 de abril de 2026 que cumpriam o Regulamento (UE) n.º 316/2014 mantêm a isenção até 30 de abril de 2027 (art. 10.º)\n- Restrições graves (art. 4.º — fazem perder a isenção ao acordo inteiro) vs. restrições excluídas (art. 5.º — só a cláusula fica fora da isenção e exige apreciação individual)",
+    "motivo": "Regulamento substituído; limiares, regime transitório e distinção entre restrições graves (art. 4.º) e excluídas (art. 5.º) segundo o Regulamento (UE) 2026/877.",
+    "fonte": "https://publications.europa.eu/resource/celex/32026R0877"
+   },
+   {
+    "de": "- Arts. 100.º a 120.º CPI: regime de exploração de patentes",
+    "para": "- Arts. 29.º a 31.º CPI: averbamento no INPI (a licença só produz efeitos perante terceiros depois do averbamento — art. 29.º CPI), transmissão e licenças contratuais (forma escrita, presunção de não exclusividade e sublicenças só com autorização escrita do titular — art. 31.º CPI)\n- Arts. 101.º a 104.º CPI: indicação da patente, direitos conferidos, limitações e esgotamento; arts. 107.º e ss. CPI: obrigatoriedade de exploração e licenças obrigatórias",
+    "motivo": "O art. 100.º CPI trata da duração da patente; o regime das licenças contratuais e do averbamento está nos arts. 29.º a 31.º e a exploração nos arts. 107.º e ss. CPI.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Regulamento (UE) n.º 316/2014 (REBT): isenção em bloco para acordos de transferência de tecnologia\n- Art. 5.º REBT: cláusulas negras (sempre proibidas — fixação de preços ao cliente, limitação de produção, divisão de mercados entre concorrentes)",
+    "para": "- Regulamento (UE) 2026/877 da Comissão, de 16 de abril de 2026 (REBT): isenção por categoria para acordos de transferência de tecnologia, em vigor de 1 de maio de 2026 a 30 de abril de 2038; substituiu o Regulamento (UE) n.º 316/2014, que vigorou até 30 de abril de 2026 [■ VERIFICAR: referência das novas Orientações da Comissão sobre acordos de transferência de tecnologia]\n- Art. 4.º REBT: restrições graves (entre concorrentes — restrição da capacidade de determinar os preços de venda a terceiros, limitação da produção, repartição de mercados ou de clientes, com as exceções aí previstas; entre não concorrentes — preço de venda fixo ou mínimo, restrição das vendas passivas, com exceções)\n- Art. 5.º REBT: restrições excluídas (obrigação de o licenciado conceder licença exclusiva ou ceder ao licenciante os seus melhoramentos; cláusula de não impugnação da validade dos direitos do licenciante)",
+    "motivo": "O Regulamento (UE) n.º 316/2014 foi substituído pelo Regulamento (UE) 2026/877; as restrições graves estão no art. 4.º e o art. 5.º trata das restrições excluídas.",
+    "fonte": "https://publications.europa.eu/resource/celex/32026R0877"
+   },
+   {
+    "de": "- Lei n.º 93/2021: transposição da Diretiva de Segredos Comerciais para o direito português",
+    "para": "- Arts. 313.º a 315.º CPI: proteção dos segredos comerciais, que transpõem a Diretiva (UE) 2016/943 (Decreto-Lei n.º 110/2018); a Lei n.º 93/2021 é o regime geral de proteção de denunciantes e não regula esta matéria",
+    "motivo": "A Lei n.º 93/2021 é o regime geral de proteção de denunciantes (Diretiva 2019/1937); a Diretiva 2016/943 foi transposta pelo DL 110/2018, no CPI.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0311&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "[grant-back]. [■ VERIFICAR: compatibilidade com REBT — o grant-back de melhorias separáveis pode ser uma cláusula cinzenta]",
+    "para": "[grant-back]. [■ VERIFICAR: compatibilidade com o REBT — só a obrigação de conceder licença exclusiva ou de ceder os melhoramentos ao licenciante fica fora da isenção (art. 5.º, n.º 1, al. a), do Regulamento (UE) 2026/877); a licença de retorno não exclusiva é, em regra, abrangida, desde que respeitados os limiares de quota de mercado]",
+    "motivo": "O art. 5.º, n.º 1, al. a), do Regulamento (UE) 2026/877 só exclui a obrigação de licença exclusiva ou de cessão dos melhoramentos.",
+    "fonte": "https://publications.europa.eu/resource/celex/32026R0877"
+   },
+   {
+    "de": "Lei portuguesa. Foro: [comarca de [localidade] / arbitragem — [■ VERIFICAR: câmara arbitral]].",
+    "para": "Lei portuguesa. Foro: [Tribunal da Propriedade Intelectual, competente em razão da matéria para os litígios sobre contratos de licença de direitos de propriedade industrial (art. 111.º, n.º 1, al. c), da Lei n.º 62/2013 — LOSJ), competência que as partes não podem afastar (art. 95.º, n.º 1, CPC) / arbitragem — [■ VERIFICAR: câmara arbitral]]. [■ VERIFICAR: tribunal competente se a licença for só de know-how]",
+    "motivo": "Os litígios sobre contratos de licença de direitos de propriedade industrial são da competência material do TPI, que não pode ser afastada por convenção.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1974A0111&nid=1974&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar a referência das Orientações da Comissão que acompanham o Regulamento (UE) 2026/877.",
+   "Apurar se as partes são concorrentes e as quotas de mercado (art. 3.º do Regulamento (UE) 2026/877); acima dos limiares o acordo exige apreciação individual.",
+   "Prever no contrato o averbamento da licença no INPI (art. 29.º CPI), de que depende a eficácia perante terceiros.",
+   "Confirmar o tribunal competente numa licença só de know-how e o regime fiscal dos royalties (retenção na fonte, CDT)."
+  ],
+  "fontes": [
+   "https://publications.europa.eu/resource/celex/32026R0877",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0311&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1974A0111&nid=1974&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0095&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3544&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+  ]
+ },
+ {
+  "codigo": "PI-012",
+  "veredicto": "corrigida",
+  "resumo": "A ficha descrevia mal a forma da cessão: dizia «forma escrita» e apresentava o art. 44.º CDADC como regra de interpretação restritiva, quando a transmissão parcial exige documento escrito com reconhecimento notarial das assinaturas (art. 43.º, n.º 2) e a transmissão total e definitiva exige escritura pública, com identificação da obra e do preço, sob pena de nulidade (art. 44.º). Corrigi as regras, a fundamentação, a cláusula de duração, as assinaturas e a checklist; substituí a remissão para a Diretiva 2019/790 e para o art. 39.º CDADC (domínio público) pelos arts. 44.º-A a 44.º-F CDADC, aditados pelo DL 47/2023; precisei que as faculdades patrimoniais estão no art. 68.º; e corrigi a cláusula de foro (competência material do Tribunal da Propriedade Intelectual).",
+  "substituicoes": [
+   {
+    "de": "- A cessão de todos os direitos patrimoniais deve ser expressa e não se presume (art. 43.º, n.º 2 CDADC)",
+    "para": "- Forma, sob pena de nulidade: a transmissão total e definitiva do conteúdo patrimonial só pode ser feita por escritura pública, com identificação da obra e indicação do preço (art. 44.º CDADC); a transmissão ou oneração parciais exigem documento escrito com reconhecimento notarial das assinaturas (art. 43.º, n.º 2, CDADC) e só abrangem os modos de utilização designados no ato (art. 43.º, n.º 1, CDADC); a simples autorização de utilização não implica transmissão, exige forma escrita e presume-se onerosa e não exclusiva (art. 41.º CDADC)",
+    "motivo": "O CDADC exige escritura pública na transmissão total e definitiva e documento escrito com reconhecimento notarial na transmissão parcial, ambos sob pena de nulidade; a regra de que a autorização não implica transmissão está no art. 41.º.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=484&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Arts. 68.º a 73.º CDADC: faculdades patrimoniais específicas (reprodução, distribuição, comunicação)",
+    "para": "- Art. 68.º CDADC: formas de utilização — faculdades patrimoniais específicas (reprodução, distribuição, comunicação e colocação à disposição do público, transformação, entre outras)",
+    "motivo": "As faculdades patrimoniais estão no art. 68.º CDADC; os arts. 69.º a 73.º tratam do autor incapaz, das obras póstumas, da tradução, dos poderes de gestão e dos representantes do autor.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=484&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Art. 43.º CDADC: contrato de cessão — forma escrita obrigatória\n- Art. 44.º CDADC: interpretação restritiva da cessão (na dúvida, não se presume a cessão)\n- Diretiva 2019/790/UE: obrigação de transparência e mecanismo de ajuste de remuneração",
+    "para": "- Art. 43.º CDADC: transmissão ou oneração parciais — documento escrito com reconhecimento notarial das assinaturas, sob pena de nulidade; no título determinam-se as faculdades e as condições de tempo, lugar e preço; sem duração estipulada, presume-se a vigência máxima de 25 anos (10 anos na obra fotográfica ou de arte aplicada)\n- Art. 44.º CDADC: transmissão total e definitiva — só por escritura pública, com identificação da obra e indicação do preço, sob pena de nulidade\n- Arts. 44.º-A a 44.º-F CDADC (aditados pelo Decreto-Lei n.º 47/2023, de 19 de junho, que transpôs a Diretiva (UE) 2019/790): remuneração adequada e proporcionada, dever de informação, remuneração adicional e direito de revogação por falta de exploração; os arts. 44.º-A a 44.º-E não se aplicam aos autores de programas de computador (art. 44.º-F, n.º 3, CDADC)",
+    "motivo": "O art. 43.º exige reconhecimento notarial das assinaturas e o art. 44.º é a norma da forma da transmissão total; a Diretiva 2019/790 foi transposta pelo DL 47/2023, que aditou os arts. 44.º-A a 44.º-F CDADC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=484&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Remuneração justa e proporcional (art. 39.º CDADC — se aplicável)",
+    "para": "- Remuneração adequada e proporcionada (art. 44.º-A CDADC — salvo programas de computador)",
+    "motivo": "O art. 39.º CDADC trata das obras no domínio público; o princípio da remuneração adequada e proporcionada está no art. 44.º-A.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=484&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Mecanismo de revisão da remuneração (Diretiva 2019/790/UE — obrigação de transparência)",
+    "para": "- Dever de informação, pelo menos anual, e direito a remuneração adicional se a remuneração acordada se revelar desproporcionadamente baixa (arts. 44.º-B e 44.º-C CDADC); são nulas as cláusulas que obstem ao cumprimento dos arts. 44.º-B a 44.º-D (art. 44.º-F, n.º 1, CDADC)",
+    "motivo": "A Diretiva 2019/790 está transposta nos arts. 44.º-A a 44.º-F CDADC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=484&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Duração: [X anos / toda a duração de proteção da Obra]\n- Fins:",
+    "para": "- Duração: [X anos / toda a duração de proteção da Obra] [Nota: se o Autor transmitir todo o conteúdo patrimonial de forma definitiva, trata-se de transmissão total, que exige escritura pública com identificação da Obra e do preço (art. 44.º CDADC); na transmissão parcial sem prazo, presume-se a vigência máxima de 25 anos (art. 43.º, n.º 4, CDADC)]\n- Fins:",
+    "motivo": "A cessão de todas as faculdades por toda a duração da proteção pode ser transmissão total, nula se não for feita por escritura pública.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=484&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "ao abrigo do princípio da transparência (Diretiva 2019/790/UE, transposta por [■ VERIFICAR: legislação de transposição portuguesa]).",
+    "para": "ao abrigo do dever de informação do art. 44.º-B CDADC (aditado pelo Decreto-Lei n.º 47/2023, de 19 de junho, que transpôs a Diretiva (UE) 2019/790) [não aplicável se a Obra for um programa de computador — art. 44.º-F, n.º 3, CDADC].",
+    "motivo": "A Diretiva 2019/790 foi transposta pelo DL 47/2023; o dever de informação está no art. 44.º-B CDADC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3662&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "Lei portuguesa. Foro: [comarca / arbitragem].\n\n[Localidade], [data]\n[Assinaturas]",
+    "para": "Lei portuguesa. Foro: [Tribunal da Propriedade Intelectual, competente em razão da matéria para os litígios sobre contratos de transmissão de direitos de autor (art. 111.º, n.º 1, al. c), da Lei n.º 62/2013 — LOSJ), competência que as partes não podem afastar (art. 95.º, n.º 1, CPC) / arbitragem — [indicar]].\n\n[Localidade], [data]\n[Assinaturas, com reconhecimento notarial (art. 43.º, n.º 2, CDADC); se a cessão for total e definitiva, o contrato é celebrado por escritura pública (art. 44.º CDADC)]",
+    "motivo": "Os litígios sobre contratos de transmissão de direitos de autor são da competência material do TPI; e a forma do contrato não se basta com assinaturas simples.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1974A0111&nid=1974&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Obrigação de transparência incluída (Diretiva 2019/790/UE)",
+    "para": "- [ ] Dever de informação incluído (art. 44.º-B CDADC)",
+    "motivo": "A Diretiva 2019/790 está transposta no art. 44.º-B CDADC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=484&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- [ ] Forma escrita respeitada (art. 43.º CDADC)",
+    "para": "- [ ] Forma respeitada: documento escrito com reconhecimento notarial das assinaturas (art. 43.º CDADC) ou, na transmissão total e definitiva, escritura pública (art. 44.º CDADC)",
+    "motivo": "A forma legal é mais exigente do que a simples forma escrita, sob pena de nulidade.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=484&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Qualificar a cessão como parcial ou total e definitiva antes de escolher a forma (reconhecimento notarial das assinaturas ou escritura pública); confirmar se outro título autêntico pode substituir a escritura pública referida no art. 44.º CDADC.",
+   "Na transmissão parcial, o exclusivo caduca se a obra não for utilizada em sete anos (art. 43.º, n.º 5, CDADC).",
+   "Se a obra for um programa de computador, os arts. 44.º-A a 44.º-E não se aplicam (art. 44.º-F, n.º 3, CDADC) e há que ver o regime próprio do software.",
+   "Nas licenças exclusivas e transmissões, o autor pode revogar por falta de exploração (art. 44.º-E CDADC); ponderar o efeito no contrato."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=484&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3662&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1974A0111&nid=1974&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0095&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+  ]
+ },
+ {
+  "codigo": "PI-019",
+  "veredicto": "corrigida",
+  "resumo": "A ficha fundava os segredos comerciais na Lei n.º 93/2021 (regime geral de proteção de denunciantes), com arts. 2.º, 4.º e 11.º que nada têm a ver com a matéria; o regime está nos arts. 313.º a 315.º CPI e nas medidas dos arts. 338.º e ss. CPI. Indicava ainda os arts. 317.º a 328.º CPI como sede da concorrência desleal, o art. 327.º (crime de registo com ocultação da verdade) como base da indemnização e o art. 328.º (queixa) como base das providências cautelares. Reescrevi as regras, a fundamentação, a estratégia e a petição (art. 311.º CPI; arts. 483.º e ss. CC; art. 311.º, n.º 2, e art. 345.º CPI; art. 347.º CPI para os segredos), e precisei a competência do Tribunal da Propriedade Intelectual (art. 111.º, n.º 1, al. n), LOSJ).",
+  "substituicoes": [
+   {
+    "de": "- O regime de concorrência desleal no CPI está nos arts. 317.º a 328.º CPI",
+    "para": "- O regime da concorrência desleal está no art. 311.º CPI (contraordenação no art. 330.º CPI) e o dos segredos comerciais nos arts. 313.º a 315.º CPI (contraordenação no art. 331.º CPI; medidas e procedimentos nos arts. 338.º a 358.º CPI)",
+    "motivo": "Os arts. 317.º a 328.º CPI tratam de sanções acessórias e de crimes; a concorrência desleal está no art. 311.º e os segredos comerciais nos arts. 313.º a 315.º CPI.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0311&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "apropriação de segredos comerciais (Lei 93/2021)",
+    "para": "apropriação de segredos comerciais (arts. 313.º e 314.º CPI)",
+    "motivo": "A Lei n.º 93/2021 é o regime de proteção de denunciantes; os segredos comerciais estão no CPI.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0311&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Para segredos comerciais: verificar os requisitos de proteção da Lei 93/2021 (secretismo, valor económico, medidas de proteção)",
+    "para": "- Para segredos comerciais: verificar os requisitos cumulativos do art. 313.º, n.º 1, CPI (informação secreta, com valor comercial por ser secreta e objeto de diligências razoáveis para a manter secreta)",
+    "motivo": "Os requisitos do segredo comercial estão no art. 313.º, n.º 1, CPI.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0311&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Art. 327.º CPI: responsabilidade civil por atos de concorrência desleal\n- Art. 328.º CPI: medidas cautelares em matéria de concorrência desleal\n- Lei n.º 93/2021: proteção de segredos comerciais (se aplicável)\n  - Art. 2.º Lei 93/2021: definição de segredo comercial\n  - Art. 4.º Lei 93/2021: obtenção, utilização ou divulgação ilícita\n  - Art. 11.º Lei 93/2021: medidas, procedimentos e vias de recurso",
+    "para": "- Arts. 483.º e ss. CC: responsabilidade civil por atos de concorrência desleal\n- Art. 311.º, n.º 2, e art. 345.º CPI: providências cautelares, aplicáveis com as necessárias adaptações aos atos de concorrência desleal\n- Arts. 313.º a 315.º CPI: proteção de segredos comerciais (se aplicável), que transpõem a Diretiva (UE) 2016/943\n  - Art. 313.º CPI: definição de segredo comercial\n  - Art. 314.º CPI: obtenção, utilização ou divulgação ilícitas; art. 315.º CPI: atos lícitos\n  - Arts. 338.º a 358.º CPI: medidas e procedimentos (prova, providências cautelares, indemnização do art. 347.º CPI, medidas inibitórias, publicação, limites e exceções do art. 351.º CPI, confidencialidade no processo do art. 352.º CPI); prescrição em cinco anos (art. 353.º CPI)",
+    "motivo": "O art. 327.º CPI é o crime de registo com ocultação da verdade e o art. 328.º trata da queixa; as providências cautelares aplicam-se à concorrência desleal por força do art. 311.º, n.º 2, CPI; os segredos comerciais estão no CPI, não na Lei n.º 93/2021.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0345&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Enquadramento jurídico principal: CPI ou Lei 93/2021?",
+    "para": "- Enquadramento jurídico principal: concorrência desleal (art. 311.º CPI), violação de segredo comercial (arts. 313.º e 314.º CPI) ou ambos?",
+    "motivo": "Ambos os regimes estão no CPI; a Lei n.º 93/2021 não regula esta matéria.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0311&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "AO [TRIBUNAL JUDICIAL DA COMARCA DE [localidade] / TRIBUNAL DA PROPRIEDADE INTELECTUAL]",
+    "para": "AO [TRIBUNAL DA PROPRIEDADE INTELECTUAL — competente para as ações sobre atos de concorrência desleal ou de infração de segredos comerciais em matéria de propriedade industrial (art. 111.º, n.º 1, al. n), da Lei n.º 62/2013 — LOSJ) / TRIBUNAL JUDICIAL DA COMARCA DE [localidade], fora desse âmbito] [■ VERIFICAR: competência em razão da matéria no caso concreto]",
+    "motivo": "A escolha do tribunal depende da competência material (art. 111.º, n.º 1, al. n), LOSJ), não da opção das partes.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1974A0111&nid=1974&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "em violação do art. 4.º da Lei n.º 93/2021.",
+    "para": "em violação do art. 314.º do CPI.",
+    "motivo": "Os atos ilícitos relativos a segredos comerciais estão no art. 314.º CPI.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0311&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "consubstanciam concorrência desleal nos termos dos arts. 317.º e 318.º do CPI, constituindo",
+    "para": "consubstanciam concorrência desleal nos termos do art. 311.º do CPI [e, quanto ao segredo comercial, violação dos arts. 313.º e 314.º do CPI], constituindo",
+    "motivo": "A concorrência desleal está no art. 311.º CPI; os arts. 317.º e 318.º tratam de sanções acessórias e da violação do exclusivo da patente.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0311&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "nos termos do art. 327.º do CPI e dos arts. 483.º e ss. do Código Civil.",
+    "para": "nos termos dos arts. 483.º e ss. do Código Civil [e, havendo violação de segredo comercial, do art. 347.º do CPI].",
+    "motivo": "O art. 327.º CPI é um tipo de crime; a indemnização por violação de segredo comercial está no art. 347.º CPI.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0345&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "e) PUBLICAR a decisão condenatória, a expensas do Réu, nos termos do art. [■ VERIFICAR: CPI].",
+    "para": "e) PUBLICAR a decisão condenatória, a expensas do Réu [se houver violação de segredo comercial: arts. 350.º e 357.º CPI] [■ VERIFICAR: fundamento da publicação nos restantes atos de concorrência desleal].",
+    "motivo": "A publicação das decisões está prevista no art. 350.º CPI, com a regra própria dos segredos comerciais no art. 357.º.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0345&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Prazo de prescrição verificado [■ VERIFICAR]",
+    "para": "- [ ] Prazo de prescrição verificado (violação de segredos comerciais: cinco anos — art. 353.º CPI) [■ VERIFICAR: prazo aplicável à responsabilidade por concorrência desleal]",
+    "motivo": "O art. 353.º CPI fixa em cinco anos a prescrição da violação de segredos comerciais.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0345&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar a competência material: o TPI conhece da concorrência desleal e da infração de segredos comerciais «em matéria de propriedade industrial» (art. 111.º, n.º 1, al. n), LOSJ).",
+   "Confirmar o prazo de prescrição da responsabilidade por concorrência desleal (regime geral do Código Civil).",
+   "Na publicidade enganosa ou comparativa entre profissionais, confirmar o diploma aplicável (o DL 57/2008 regula as práticas comerciais desleais perante consumidores).",
+   "Confirmar o fundamento para pedir a publicação da sentença nos atos de concorrência desleal que não envolvam segredo comercial."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0311&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0330&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0338&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0345&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0355&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1974A0111&nid=1974&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3544&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+  ]
+ },
+ {
+  "codigo": "PI-026",
+  "veredicto": "corrigida",
+  "resumo": "Todo o acordo assentava na Lei n.º 93/2021 como diploma dos segredos comerciais, com arts. 2.º, 4.º, 5.º e 6.º que não correspondem à matéria: essa lei é o regime geral de proteção de denunciantes; os segredos comerciais estão nos arts. 313.º a 315.º CPI (DL 110/2018, que transpôs a Diretiva 2016/943), com limites e exceções no art. 351.º CPI. Corrigi a análise, a fundamentação, a indemnização (responsabilidade contratual dos arts. 798.º e ss. CC, e não só o art. 483.º, e art. 347.º CPI), a lei aplicável e o resultado esperado, e acrescentei a ressalva da denúncia de infrações, cuja limitação contratual é nula (art. 26.º, n.º 2, da Lei n.º 93/2021).",
+  "descricao": "Redige um acordo de confidencialidade (NDA — Non-Disclosure Agreement) robusto para proteção de segredos comerciais, adaptado ao regime dos segredos comerciais do Código da Propriedade Industrial (arts. 313.º e ss., que transpõem a Diretiva (UE) 2016/943), abrangendo tanto acordos bilaterais como unilaterais, em contextos de negociação, parceria, contratação de serviços ou relação laboral.",
+  "descricao_en": "Drafts a robust confidentiality agreement (NDA — Non-Disclosure Agreement) to protect trade secrets, adapted to the trade secrets regime of the Industrial Property Code (Articles 313 et seq., transposing Directive (EU) 2016/943), covering both mutual and one-way agreements in the context of negotiations, partnerships, service contracts or employment relationships.",
+  "substituicoes": [
+   {
+    "de": "- Enquadramento na Lei n.º 93/2021: é informação que preenche os requisitos de segredo comercial?",
+    "para": "- Enquadramento no art. 313.º CPI: é informação que preenche os requisitos de segredo comercial?",
+    "motivo": "Os requisitos do segredo comercial estão no art. 313.º CPI; a Lei n.º 93/2021 é o regime de proteção de denunciantes.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0311&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Art. 2.º Lei n.º 93/2021: definição de segredo comercial (secreta, valor comercial, medidas razoáveis de proteção)\n- Arts. 4.º e 5.º Lei n.º 93/2021: obtenção, utilização e divulgação lícita e ilícita de segredos comerciais\n- Art. 6.º Lei n.º 93/2021: exceções (divulgação a autoridades, interesse público, denúncia de irregularidades)\n- Arts. 405.º e ss. Código Civil: liberdade contratual\n- Art. 483.º Código Civil: responsabilidade civil por violação do acordo",
+    "para": "- Art. 313.º CPI: definição de segredo comercial (informação secreta, com valor comercial por ser secreta e objeto de diligências razoáveis para a manter secreta) — o regime dos segredos comerciais está no CPI (Decreto-Lei n.º 110/2018), que transpôs a Diretiva (UE) 2016/943\n- Arts. 314.º e 315.º CPI: obtenção, utilização e divulgação ilícitas (art. 314.º CPI) e lícitas (art. 315.º CPI) de segredos comerciais; a violação de acordo de confidencialidade é ato ilícito (art. 314.º, n.º 2, al. b), CPI)\n- Art. 351.º CPI: limites e exceções (liberdade de expressão e de informação, revelação de irregularidades para proteger o interesse público geral, divulgação aos representantes dos trabalhadores, interesse legítimo legalmente reconhecido)\n- Lei n.º 93/2021, de 20 de dezembro (regime geral de proteção de denunciantes de infrações): são nulas as disposições contratuais que limitem ou obstem à apresentação de denúncias ou à divulgação pública de infrações (art. 26.º, n.º 2, da Lei n.º 93/2021)\n- Arts. 405.º e ss. Código Civil: liberdade contratual\n- Arts. 798.º e ss. Código Civil: responsabilidade contratual por violação do acordo; art. 483.º Código Civil e art. 347.º CPI: responsabilidade extracontratual e indemnização pela violação do segredo comercial",
+    "motivo": "Os segredos comerciais estão nos arts. 313.º a 315.º e 351.º CPI, não na Lei n.º 93/2021; a violação de um acordo gera responsabilidade contratual (arts. 798.º e ss. CC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0311&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "(c) cooperar com a Parte Divulgadora para obter tratamento confidencial da informação divulgada.",
+    "para": "(c) cooperar com a Parte Divulgadora para obter tratamento confidencial da informação divulgada. O presente acordo não limita a apresentação de denúncias nem a divulgação pública de infrações nos termos da Lei n.º 93/2021, de 20 de dezembro, nem a obtenção, utilização ou divulgação de informação nas circunstâncias previstas no art. 351.º do CPI.",
+    "motivo": "São nulas as cláusulas que limitem a denúncia de infrações (art. 26.º, n.º 2, da Lei n.º 93/2021) e a proteção do segredo cede nas circunstâncias do art. 351.º CPI.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3544&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "(b) indemnização pelos danos causados, nos termos dos arts. 4.º e ss. da Lei n.º 93/2021 e do art. 483.º do Código Civil;",
+    "para": "(b) indemnização pelos danos causados, nos termos dos arts. 798.º e ss. do Código Civil e, havendo violação de segredo comercial, do art. 347.º do CPI;",
+    "motivo": "A Lei n.º 93/2021 não regula a indemnização por violação de segredos comerciais (art. 347.º CPI); a violação do acordo gera responsabilidade contratual.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0345&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "8.1. O presente acordo é regido pela lei portuguesa, designadamente pela Lei n.º 93/2021 e pelo Código Civil.",
+    "para": "8.1. O presente acordo é regido pela lei portuguesa, designadamente pelo Código Civil e pelo Código da Propriedade Industrial (arts. 313.º e ss.).",
+    "motivo": "A Lei n.º 93/2021 não regula os segredos comerciais.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0311&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "Acordo de confidencialidade completo, ao abrigo da Lei n.º 93/2021, com definição",
+    "para": "Acordo de confidencialidade completo, ao abrigo do Código Civil e do regime dos segredos comerciais do CPI (arts. 313.º e ss.), com definição",
+    "motivo": "A Lei n.º 93/2021 não regula os segredos comerciais.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0311&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar a admissibilidade de uma obrigação de confidencialidade sem termo e ponderar um prazo para a informação que não seja segredo comercial.",
+   "Em relação laboral, articular o acordo com o dever de lealdade do art. 128.º do Código do Trabalho.",
+   "Rever a cláusula de foro (8.2): a infração de segredos comerciais em matéria de propriedade industrial é da competência do Tribunal da Propriedade Intelectual (art. 111.º, n.º 1, al. n), LOSJ)."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0311&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0345&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0355&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3544&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1974A0111&nid=1974&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+  ]
+ },
+ {
+  "codigo": "PI-030",
+  "veredicto": "corrigida",
+  "resumo": "A ficha mandava notificar a Autoridade da Concorrência os acordos com restrições significativas, quando os acordos não são notificados nem carecem de decisão prévia (autoavaliação; só as concentrações se notificam); aplicava o Regulamento (UE) n.º 316/2014, substituído pelo Regulamento (UE) 2026/877 desde 1/5/2026; fundava o know-how e a confidencialidade na Lei n.º 93/2021 (proteção de denunciantes) em vez dos arts. 313.º a 315.º CPI; dizia que uma patente podia estar «registada no EUIPO», que não concede patentes; e descrevia mal a forma das cessões de direitos de autor. Corrigi estes pontos, a nota sobre o grant-back (agora com [■ VERIFICAR] correto) e a cláusula de foro (competência material do Tribunal da Propriedade Intelectual).",
+  "substituicoes": [
+   {
+    "de": "- Alerta para obrigação de notificação à Autoridade da Concorrência se o acordo contiver restrições significativas de mercado",
+    "para": "- Alerta para a autoavaliação da conformidade com o direito da concorrência: os acordos entre empresas não são notificados à Autoridade da Concorrência nem precisam de decisão prévia (art. 1.º, n.º 2, do Regulamento (CE) n.º 1/2003; no direito nacional, arts. 9.º e 10.º da Lei n.º 19/2012 [■ VERIFICAR: redação em vigor]); a notificação prévia só existe para as operações de concentração [■ VERIFICAR: art. 37.º da Lei n.º 19/2012]",
+    "motivo": "Os acordos restritivos não estão sujeitos a notificação: vigora a autoavaliação, sem decisão prévia (art. 1.º do Regulamento (CE) n.º 1/2003).",
+    "fonte": "https://publications.europa.eu/resource/celex/32003R0001"
+   },
+   {
+    "de": "- Arts. 30.º e 31.º CPI: licença de patente — forma, inscrição no INPI, eficácia perante terceiros",
+    "para": "- Arts. 30.º e 31.º CPI: transmissão, provada por documento escrito (art. 30.º CPI), e licença de patente, sujeita a forma escrita, presumida não exclusiva e com sublicenças só com autorização escrita do titular (art. 31.º CPI); o averbamento no INPI, de que depende a eficácia perante terceiros, está no art. 29.º CPI",
+    "motivo": "O art. 30.º trata da transmissão, o art. 31.º da licença e o averbamento com eficácia perante terceiros está no art. 29.º CPI.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Arts. 41.º a 44.º CDADC: cessão e licença de direitos de autor (forma escrita, interpretação restritiva)",
+    "para": "- Arts. 41.º a 44.º CDADC: autorização de utilização, que exige forma escrita e se presume onerosa e não exclusiva (art. 41.º CDADC); transmissão parcial, que exige documento escrito com reconhecimento notarial das assinaturas, sob pena de nulidade (art. 43.º CDADC); transmissão total e definitiva, só por escritura pública, com identificação da obra e do preço, sob pena de nulidade (art. 44.º CDADC) [■ VERIFICAR: regime próprio dos programas de computador]",
+    "motivo": "A transmissão de direitos de autor exige reconhecimento notarial das assinaturas (parcial) ou escritura pública (total e definitiva), não a simples forma escrita.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=484&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Lei n.º 93/2021: obrigações de confidencialidade sobre segredos comerciais transferidos",
+    "para": "- Arts. 313.º a 315.º CPI: proteção dos segredos comerciais (know-how) transferidos; a violação de acordo de confidencialidade é ato ilícito (art. 314.º, n.º 2, al. b), CPI)",
+    "motivo": "A Lei n.º 93/2021 é o regime de proteção de denunciantes; os segredos comerciais estão no CPI.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0311&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Regulamento (UE) n.º 316/2014 (TTBER): isenção por categoria para acordos de transferência de tecnologia — condições e restrições por objeto (hard-core restrictions)",
+    "para": "- Regulamento (UE) 2026/877 da Comissão (TTBER), em vigor desde 1 de maio de 2026, que substituiu o Regulamento (UE) n.º 316/2014: isenção por categoria para acordos de transferência de tecnologia — limiares de quota de mercado (art. 3.º), restrições graves (art. 4.º) e restrições excluídas (art. 5.º); os acordos em vigor a 30 de abril de 2026 que cumpriam o Regulamento (UE) n.º 316/2014 mantêm a isenção até 30 de abril de 2027 (art. 10.º)",
+    "motivo": "O Regulamento (UE) n.º 316/2014 vigorou até 30/4/2026; o regulamento em vigor é o (UE) 2026/877.",
+    "fonte": "https://publications.europa.eu/resource/celex/32026R0877"
+   },
+   {
+    "de": "a) [Patente n.º [número] — título: [título], registada no INPI / EUIPO];",
+    "para": "a) [Patente n.º [número] — título: [título], concedida pelo INPI / patente europeia concedida pelo Instituto Europeu de Patentes, com efeitos em Portugal];",
+    "motivo": "O EUIPO regista marcas e desenhos ou modelos da UE e não concede patentes; as patentes europeias são concedidas pelo Instituto Europeu de Patentes.",
+    "fonte": "https://www.epo.org/en/about-us/at-a-glance"
+   },
+   {
+    "de": "3.2. O know-how transmitido constitui segredo comercial ao abrigo da Lei n.º 93/2021 e fica sujeito",
+    "para": "3.2. O know-how transmitido é protegido como segredo comercial, na medida em que preencha os requisitos do art. 313.º do CPI, e fica sujeito",
+    "motivo": "Os requisitos do segredo comercial estão no art. 313.º CPI, não na Lei n.º 93/2021.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0311&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "[— VERIFICAR: cláusulas de grant-back exclusivo podem restringir a concorrência]",
+    "para": "[■ VERIFICAR: a obrigação de conceder licença exclusiva ou de ceder os melhoramentos ao licenciante fica fora da isenção do REBT (art. 5.º, n.º 1, al. a), do Regulamento (UE) 2026/877)]",
+    "motivo": "Marcador fora do formato da casa; o fundamento é o art. 5.º, n.º 1, al. a), do Regulamento (UE) 2026/877.",
+    "fonte": "https://publications.europa.eu/resource/celex/32026R0877"
+   },
+   {
+    "de": "ficam sujeitos a obrigações de confidencialidade ao abrigo da Lei n.º 93/2021, subsistindo",
+    "para": "ficam sujeitos a obrigações de confidencialidade, sem prejuízo da proteção dos segredos comerciais nos arts. 313.º e ss. do CPI, subsistindo",
+    "motivo": "A Lei n.º 93/2021 não regula os segredos comerciais.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0311&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "O presente contrato é regido pela lei portuguesa. Qualquer litígio será submetido à competência exclusiva dos tribunais [da comarca de [localidade] / do Centro de Arbitragem [indicar]].",
+    "para": "O presente contrato é regido pela lei portuguesa. Qualquer litígio será submetido [ao Tribunal da Propriedade Intelectual, competente em razão da matéria para os litígios sobre contratos de transmissão e licença de direitos de propriedade industrial e de direitos de autor (art. 111.º, n.º 1, al. c), da Lei n.º 62/2013 — LOSJ), competência que as partes não podem afastar (art. 95.º, n.º 1, CPC) / ao Centro de Arbitragem [indicar]].",
+    "motivo": "Os litígios sobre contratos de transmissão e licença de direitos de PI são da competência material do TPI, que não pode ser afastada por convenção.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1974A0111&nid=1974&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Cláusula de confidencialidade (Lei n.º 93/2021)",
+    "para": "- [ ] Cláusula de confidencialidade (segredos comerciais — arts. 313.º e ss. CPI)",
+    "motivo": "A Lei n.º 93/2021 não regula os segredos comerciais.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0311&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar na redação em vigor da Lei n.º 19/2012 os artigos sobre acordos restritivos (arts. 9.º e 10.º) e sobre a notificação prévia de concentrações (art. 37.º).",
+   "Apurar se as partes são concorrentes e as quotas de mercado (art. 3.º do Regulamento (UE) 2026/877); confirmar a referência das novas Orientações da Comissão.",
+   "Para software, confirmar o regime próprio dos programas de computador e se a cessão total exige escritura pública (art. 44.º CDADC).",
+   "Prever o averbamento da transmissão ou da licença no INPI (art. 29.º CPI)."
+  ],
+  "fontes": [
+   "https://publications.europa.eu/resource/celex/32003R0001",
+   "https://publications.europa.eu/resource/celex/32026R0877",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0311&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=484&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.epo.org/en/about-us/at-a-glance",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1974A0111&nid=1974&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0095&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3544&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+  ]
+ },
+ {
+  "codigo": "PI-034",
+  "veredicto": "corrigida",
+  "resumo": "A ficha admitia o pagamento da taxa de oposição «na fase de fundamentação — 3 meses adicionais», quando a taxa tem de ser paga dentro do prazo de oposição, sob pena de a oposição se considerar não apresentada (art. 46.º, n.º 3, RMUE; art. 5.º, n.º 1, do Regulamento Delegado 2018/625); dizia que o EUIPO aceita peças em português, quando o ato de oposição tem de ser apresentado numa das cinco línguas do Instituto (art. 146.º, n.º 5, RMUE); restringia a legitimidade ao licenciado exclusivo (o art. 46.º admite o licenciado habilitado); e exigia representante a quem não reside na UE, quando o critério é o EEE (art. 119.º, n.º 2, RMUE). Corrigi estes pontos, a prova de uso (art. 47.º, n.os 2 e 3) e acrescentei o calendário do período de reflexão e da fundamentação.",
+  "substituicoes": [
+   {
+    "de": "- Legitimidade ativa: titular da anterioridade ou licenciado exclusivo (art. 46.º, n.º 1, RMUE)",
+    "para": "- Legitimidade ativa: titular da marca anterior ou licenciado habilitado pelo titular (art. 46.º, n.º 1, al. a), RMUE); no direito anterior não registado do art. 8.º, n.º 4, o titular e as pessoas autorizadas pelo direito nacional a exercê-lo (art. 46.º, n.º 1, al. c), RMUE)",
+    "motivo": "O art. 46.º, n.º 1, al. a), RMUE admite os licenciados habilitados pelos titulares, não só o licenciado exclusivo.",
+    "fonte": "https://publications.europa.eu/resource/celex/32017R1001"
+   },
+   {
+    "de": "- Taxa de oposição: €320 (tabela de taxas EUIPO 2024)\n- Língua do processo (uma das 5 línguas do EUIPO ou língua do pedido)",
+    "para": "- Taxa de oposição: 320 EUR (Anexo I do RMUE), a pagar dentro do prazo de oposição; se não for paga nesse prazo, a oposição considera-se não apresentada (art. 46.º, n.º 3, RMUE; art. 5.º, n.º 1, do Regulamento Delegado (UE) 2018/625)\n- Língua: o ato de oposição é apresentado numa das 5 línguas do EUIPO — alemão, espanhol, francês, inglês ou italiano (art. 146.º, n.º 5, RMUE); a língua do processo é a do pedido ou a segunda língua indicada pelo requerente; se a oposição for apresentada noutra língua do Instituto, junta-se tradução no prazo de um mês a contar do termo do prazo de oposição (art. 146.º, n.º 7, RMUE)",
+    "motivo": "A taxa resulta do Anexo I do RMUE e tem de ser paga no prazo de oposição; o ato de oposição é apresentado numa língua do Instituto e a língua do processo segue o art. 146.º, n.º 7, RMUE.",
+    "fonte": "https://publications.europa.eu/resource/celex/32018R0625"
+   },
+   {
+    "de": "Define em <prova_euipo>:\n",
+    "para": "Define em <prova_euipo>:\n- Calendário: a fase contraditória inicia-se dois meses após a comunicação de admissibilidade (período de reflexão, prorrogável até 24 meses a pedido de ambas as partes); o EUIPO fixa depois um prazo de, pelo menos, dois meses para o oponente fundamentar a oposição e juntar a prova (arts. 6.º, n.º 1, e 7.º, n.º 1, do Regulamento Delegado (UE) 2018/625)\n",
+    "motivo": "O prazo de fundamentação é fixado pelo EUIPO depois do período de reflexão; não serve para pagar a taxa.",
+    "fonte": "https://publications.europa.eu/resource/celex/32018R0625"
+   },
+   {
+    "de": "- Prova de uso sério (se marca com > 5 anos): faturas",
+    "para": "- Prova de uso sério, se o requerente a pedir e a marca anterior estiver registada há pelo menos cinco anos na data de depósito ou de prioridade do pedido impugnado (art. 47.º, n.os 2 e 3, RMUE): faturas",
+    "motivo": "A prova de uso só é exigida a pedido do requerente e conta-se à data de depósito ou de prioridade do pedido impugnado.",
+    "fonte": "https://publications.europa.eu/resource/celex/32017R1001"
+   },
+   {
+    "de": "*[O EUIPO aceita peças em português quando o pedido foi apresentado em língua que não é língua do EUIPO; adaptar conforme língua do processo]*",
+    "para": "*[O ato de oposição tem de ser apresentado numa das línguas do EUIPO — alemão, espanhol, francês, inglês ou italiano (art. 146.º, n.º 5, RMUE). O português só pode ser a língua do processo se as partes o acordarem (art. 146.º, n.º 8, RMUE). Adaptar conforme a língua do processo]*",
+    "motivo": "O ato de oposição tem de ser apresentado numa das línguas do Instituto; um ato em português é rejeitado por inadmissibilidade se não for corrigido no prazo de oposição (art. 5.º, n.º 3, do Regulamento Delegado 2018/625).",
+    "fonte": "https://publications.europa.eu/resource/celex/32017R1001"
+   },
+   {
+    "de": "- [ ] Taxa de €320 paga (ou na fase de fundamentação — 3 meses adicionais)",
+    "para": "- [ ] Taxa de 320 EUR paga dentro do prazo de oposição (art. 46.º, n.º 3, RMUE; art. 5.º, n.º 1, do Regulamento Delegado (UE) 2018/625); a fundamentação segue no prazo fixado pelo EUIPO (art. 7.º do Regulamento Delegado (UE) 2018/625)",
+    "motivo": "Sem pagamento no prazo de oposição, a oposição considera-se não apresentada.",
+    "fonte": "https://publications.europa.eu/resource/celex/32018R0625"
+   },
+   {
+    "de": "- [ ] Representante profissional acreditado no EUIPO (obrigatório para não residentes na UE)",
+    "para": "- [ ] Representante profissional junto do EUIPO (obrigatório para quem não tenha domicílio, sede ou estabelecimento industrial ou comercial real e efetivo no Espaço Económico Europeu — art. 119.º, n.º 2, RMUE)",
+    "motivo": "O critério da representação obrigatória é o Espaço Económico Europeu, não a UE.",
+    "fonte": "https://publications.europa.eu/resource/celex/32017R1001"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar no sítio do EUIPO que a taxa de oposição se mantém em 320 EUR na data do pagamento.",
+   "Registar o prazo de fundamentação concreto indicado na comunicação do EUIPO e a eventual prorrogação do período de reflexão.",
+   "Confirmar as referências dos acórdãos Canon (C-39/97) e SABEL (C-251/95) e das Diretrizes do EUIPO em vigor antes de os citar."
+  ],
+  "fontes": [
+   "https://publications.europa.eu/resource/celex/32017R1001",
+   "https://publications.europa.eu/resource/celex/32018R0625"
+  ]
+ },
+ {
+  "codigo": "PI-040",
+  "veredicto": "corrigida",
+  "resumo": "A ficha assentava toda na Lei n.º 93/2021, de 20 de dezembro, que é o regime geral de proteção de denunciantes de infrações e não a lei dos segredos comerciais; os seus «arts. 2.º, 4.º, 5.º, 9.º, 11.º e 13.º» (requisitos, atos ilícitos, exceções, confidencialidade, medidas, indemnização) não existem nesse sentido. A Diretiva 2016/943 está transposta no CPI: arts. 313.º a 315.º (requisitos, atos ilícitos e lícitos), 339.º a 357.º (prova, providências, indemnização, medidas inibitórias, publicação, limites e exceções, confidencialidade no processo) e 353.º (prescrição em cinco anos). Reescrevi as regras, as cinco etapas, a notificação e a petição com as normas do CPI, corrigi a remissão para os inexistentes «arts. 338.º-A e ss. CPI» e o tratamento «Mm.º», próprio dos juízes, e alterei o título e a descrição do índice.",
+  "titulo": "Proteção de Segredos Comerciais — Notificação e Ação (Código da Propriedade Industrial)",
+  "titulo_en": "Protection of Trade Secrets — Notice and Action (Industrial Property Code)",
+  "descricao": "Elabora notificação extrajudicial e petição inicial de ação de proteção de segredo comercial, ao abrigo dos arts. 313.º e seguintes do Código da Propriedade Industrial (que transpõem a Diretiva (UE) 2016/943), exigindo cessação da apropriação ilícita, indemnização e destruição de documentação.",
+  "descricao_en": "Prepares an out-of-court notice and a statement of claim for the protection of a trade secret, under Articles 313 et seq. of the Industrial Property Code (transposing Directive (EU) 2016/943), demanding cessation of the unlawful misappropriation, damages and destruction of documents.",
+  "substituicoes": [
+   {
+    "de": "— Cita os artigos reais da Lei n.º 93/2021 e, subsidiariamente, do CPI e do Código Civil.\n— Alerta para a distinção entre segredo comercial e informação pública ou obtida por engenharia inversa legítima (art. 5.º Lei n.º 93/2021).",
+    "para": "— Cita os artigos reais do CPI (segredos comerciais: arts. 313.º a 315.º CPI; medidas e procedimentos: arts. 338.º a 358.º CPI) e, subsidiariamente, do Código Civil e do CPC (art. 358.º CPI). A Lei n.º 93/2021, de 20 de dezembro, é o regime geral de proteção de denunciantes de infrações e não regula os segredos comerciais.\n— Alerta para a distinção entre segredo comercial e informação pública ou obtida licitamente, nomeadamente por descoberta ou criação independente ou por observação, estudo, desmontagem ou teste de produto disponibilizado ao público (art. 315.º CPI).",
+    "motivo": "A Lei n.º 93/2021 é o regime de proteção de denunciantes (Diretiva 2019/1937); a Diretiva 2016/943 foi transposta pelo DL 110/2018 no CPI, e as aquisições lícitas estão no art. 315.º CPI.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0311&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Requisitos do art. 2.º, n.º 1, Lei n.º 93/2021:\n  (i) Secreto: não é geralmente conhecido nem facilmente acessível\n  (ii) Valor comercial: por ser secreto\n  (iii) Medidas razoáveis de proteção adotadas pelo detentor",
+    "para": "- Requisitos cumulativos do art. 313.º, n.º 1, CPI:\n  (i) Secreto: não é geralmente conhecido nem facilmente acessível às pessoas dos círculos que lidam normalmente com esse tipo de informação\n  (ii) Valor comercial: por ser secreto\n  (iii) Diligências razoáveis para o manter secreto, por parte de quem detém legalmente o controlo da informação",
+    "motivo": "Os requisitos do segredo comercial estão no art. 313.º, n.º 1, CPI.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0311&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Tipologia dos atos ilícitos: art. 4.º Lei n.º 93/2021",
+    "para": "- Tipologia dos atos ilícitos: art. 314.º CPI",
+    "motivo": "Os atos ilícitos estão no art. 314.º CPI.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0311&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "  — Aquisição de terceiro que sabia da ilicitude\n- Exclusões: engenharia inversa, observação independente, liberdade de expressão (art. 5.º)",
+    "para": "  — Obtenção, utilização ou divulgação por terceiro que sabia ou devia saber que o segredo provinha de quem o utilizava ou divulgava ilicitamente (art. 314.º, n.º 3, CPI); produção ou comercialização de mercadorias em infração (art. 314.º, n.º 4, CPI)\n- Atos lícitos: descoberta ou criação independente; observação, estudo, desmontagem ou teste de produto disponibilizado ao público (art. 315.º CPI). Limites e exceções: liberdade de expressão e de informação, revelação de irregularidades para proteger o interesse público geral, divulgação aos representantes dos trabalhadores (art. 351.º CPI)",
+    "motivo": "O art. 314.º, n.º 3, CPI abrange quem sabia ou devia saber; as aquisições lícitas estão no art. 315.º e os limites e exceções no art. 351.º CPI.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0345&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Inibição cautelar da utilização ou divulgação do segredo (art. 11.º, n.º 1, al. a), Lei n.º 93/2021)",
+    "para": "- Providência cautelar para inibir violação iminente ou proibir a continuação da violação, incluindo a utilização ou divulgação do segredo (art. 345.º CPI), com os critérios próprios dos segredos comerciais (art. 354.º CPI)",
+    "motivo": "As providências cautelares estão nos arts. 345.º e 354.º CPI.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0355&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Medidas de preservação de prova (arts. 338.º-A e ss. CPI por remissão)\n- Confidencialidade do processo: proteção do próprio segredo durante o litígio (art. 9.º Lei n.º 93/2021)",
+    "para": "- Medidas de obtenção da prova (art. 339.º CPI) e de preservação da prova, estas decretáveis sem audiência prévia da parte requerida quando o atraso possa causar danos irreparáveis ou haja risco sério de destruição ou ocultação da prova (arts. 340.º e 341.º CPI)\n- Confidencialidade do processo: proteção do próprio segredo durante o litígio (art. 352.º CPI)",
+    "motivo": "O art. 338.º-A não existe no CPI em vigor; a prova está nos arts. 339.º a 341.º e a confidencialidade no processo no art. 352.º CPI.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0338&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "Mm.º Sr./Sr.ª [nome e cargo],",
+    "para": "Exmo.(a) Sr.(a) [nome e cargo],",
+    "motivo": "«Mm.º» (Meritíssimo) é o tratamento dado aos juízes; numa notificação extrajudicial usa-se «Exmo.(a) Sr.(a)».",
+    "fonte": "https://dicionario.priberam.org/meritíssimo"
+   },
+   {
+    "de": "titular de informações confidenciais legalmente protegidas ao abrigo da Lei n.º 93/2021, de 20 de dezembro, vem por este meio",
+    "para": "titular de informações confidenciais legalmente protegidas como segredo comercial ao abrigo dos arts. 313.º e seguintes do Código da Propriedade Industrial (CPI), vem por este meio",
+    "motivo": "Os segredos comerciais estão protegidos no CPI, não na Lei n.º 93/2021.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0311&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "1. A empresa detém, como segredo comercial nos termos do artigo 2.º da referida Lei,",
+    "para": "1. A empresa detém, como segredo comercial nos termos do artigo 313.º do CPI,",
+    "motivo": "A definição de segredo comercial está no art. 313.º CPI.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0311&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "em violação do disposto no artigo 4.º, n.º 1, al. [a/b/c)], da Lei n.º 93/2021.",
+    "para": "em violação do disposto no artigo 314.º, n.º [1/2/3/4], do CPI.",
+    "motivo": "Os atos ilícitos estão no art. 314.º CPI.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0311&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "[EMPRESA DETENTORA] vem intentar contra [RÉU] ação de proteção de segredo comercial, ao abrigo da Lei n.º 93/2021, pedindo:\na) Cessação dos atos ilícitos (art. 11.º, n.º 1, al. a));\nb) Inibição de utilizar o segredo no futuro;\nc) Destruição ou entrega de documentos (art. 11.º, n.º 1, al. c));\nd) Indemnização pelos danos sofridos (art. 13.º) — calculada com base na hipótese de royalty razoável ou nos lucros do infrator;\ne) Publicação da decisão condenatória.",
+    "para": "[EMPRESA DETENTORA] vem intentar contra [RÉU] ação de proteção de segredo comercial, ao abrigo dos arts. 313.º e 314.º do CPI, pedindo:\na) Cessação dos atos ilícitos e proibição da utilização ou divulgação do segredo (art. 356.º, n.º 1, al. a), CPI), com sanção pecuniária compulsória (art. 349.º, n.º 4, CPI);\nb) Proibição de produzir, oferecer ou colocar no mercado mercadorias em infração (art. 356.º, n.º 1, al. b), CPI);\nc) Destruição, retirada ou exclusão dos circuitos comerciais dos bens em infração (arts. 348.º e 355.º CPI) e entrega dos documentos e ficheiros que contenham o segredo [■ VERIFICAR: fundamento do pedido de entrega dos documentos e ficheiros];\nd) Indemnização pelos danos sofridos (art. 347.º CPI) — atendendo ao lucro do infrator, aos danos emergentes e lucros cessantes e aos danos não patrimoniais ou, em alternativa, a uma quantia fixa que tenha por base, no mínimo, as remunerações devidas por uma autorização de utilização (art. 347.º, n.º 5, CPI);\ne) Publicação da decisão condenatória, por extrato e preservando a confidencialidade do segredo (arts. 350.º e 357.º CPI).",
+    "motivo": "Os pedidos fundavam-se em artigos da Lei n.º 93/2021 que não regulam a matéria; as medidas inibitórias, as sanções acessórias, a indemnização e a publicação estão nos arts. 347.º a 350.º e 355.º a 357.º CPI.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0355&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Ato ilícito identificado e tipificado na Lei n.º 93/2021",
+    "para": "- [ ] Ato ilícito identificado e tipificado no art. 314.º CPI",
+    "motivo": "Os atos ilícitos estão no art. 314.º CPI.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0311&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Confidencialidade do processo requerida (art. 9.º)",
+    "para": "- [ ] Confidencialidade do processo requerida (art. 352.º CPI)\n- [ ] Prazo de prescrição de cinco anos verificado (art. 353.º CPI)",
+    "motivo": "A confidencialidade no processo está no art. 352.º CPI e a prescrição, de cinco anos, no art. 353.º CPI.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0345&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "O ficheiro da ficha e o seu identificador ainda referem «lei-n-93-2021»; convém alinhá-los com o novo título.",
+   "Confirmar o fundamento do pedido de entrega dos documentos e ficheiros que contenham o segredo (arts. 348.º e 355.º CPI ou CPC, por via do art. 358.º CPI).",
+   "Confirmar a competência: o TPI conhece da infração de segredos comerciais «em matéria de propriedade industrial» (art. 111.º, n.º 1, al. n), LOSJ); fora desse âmbito, o tribunal judicial de comarca.",
+   "A violação de segredo comercial é também contraordenação económica muito grave (art. 331.º CPI); ponderar também a via contraordenacional."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0311&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0330&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0338&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0345&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0349&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0355&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3544&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1974A0111&nid=1974&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://dicionario.priberam.org/meritíssimo"
+  ]
+ }
+]

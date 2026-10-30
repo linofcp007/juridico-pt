@@ -6,7 +6,8 @@ titulo_en: "Reply to an Opposition in Trade Mark Registration Proceedings"
 descricao: "Elabora a resposta/contestação à oposição deduzida contra um pedido de registo de marca, quer no INPI quer no EUIPO, refutando os fundamentos do oponente, apresentando contraprovas e argumentando pela diferenciação dos sinais e/ou pela limitação da lista de produtos e serviços."
 descricao_en: "Prepares the reply/defence to an opposition filed against a trade mark application, at either the INPI or the EUIPO, refuting the opponent's grounds, submitting counter-evidence and arguing that the signs are different and/or for a limitation of the list of goods and services."
 ambito: nacional
-estado_citacoes: "conferidas 1 · corrigidas 4 · por conferir 5"
+estado_citacoes: "conferidas 2 · corrigidas 4 · por conferir 5"
+revisao_tecnica: "2026-10-30 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
@@ -14,7 +15,8 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 
 > **Âmbito:** nacional · **Área:** Propriedade Intelectual e Industrial · **Código:** PI-004
 > **EN:** Reply to an Opposition in Trade Mark Registration Proceedings. Prepares the reply/defence to an opposition filed against a trade mark application, at either the INPI or the EUIPO, refuting the opponent's grounds, submitting counter-evidence and arguing that the signs are different and/or for a limitation of the list of goods and services.
-> **Citações:** conferidas 1 · corrigidas 4 · por conferir 5. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 2 · corrigidas 4 · por conferir 5. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-30 — corrigida (5 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
 Elabora a resposta/contestação à oposição deduzida contra um pedido de registo de marca, quer no INPI quer no EUIPO, refutando os fundamentos do oponente, apresentando contraprovas e argumentando pela diferenciação dos sinais e/ou pela limitação da lista de produtos e serviços.
 
@@ -27,7 +29,7 @@ Ficha de trabalho para preparar este documento. As regras da casa prevalecem sob
 - Se faltarem dados, assinala [■ VERIFICAR: o que é necessário]
 - Cita artigos reais do CPI ou do RMUE conforme o foro do processo
 - Analisa rigorosamente a ausência de risco de confusão: distingue semelhança dos sinais E semelhança dos produtos/serviços
-- Quando a marca do oponente tiver mais de 5 anos, requer prova de uso (art. 227.º CPI / art. 47.º RMUE)
+- Quando a marca do oponente estiver registada há pelo menos cinco anos à data do pedido (ou da prioridade) da marca contestada, pondera pedir prova de uso; no EUIPO, o pedido tem de ser incondicional e feito em documento separado (art. 227.º CPI / art. 47.º RMUE)
 - Avalia a possibilidade de limitação da lista de produtos/serviços como solução estratégica
 
 ## Framework P.A.C.E.F — Segue estas 5 etapas obrigatoriamente:
@@ -48,7 +50,7 @@ Apresenta dentro de um bloco <fundamentos_juridicos>:
 Para INPI (processo nacional):
 - Art. 17.º CPI: processo de oposição e prazo de resposta
 - Art. 227.º CPI: pedido de prova de uso
-- Art. 227.º CPI [■ VERIFICAR: o art. 227.º CPI trata da falta de uso sério na oposição; o caráter distintivo resulta dos arts. 208.º e 231.º CPI]: carácter distintivo (argumento de fraca distintividade da marca anterior)
+- Art. 238.º CPI: conceito de imitação, com requisitos cumulativos (prioridade da marca registada, produtos ou serviços idênticos ou afins e semelhança que induza facilmente em erro ou confusão ou compreenda risco de associação); a fraca distintividade da marca anterior restringe o seu âmbito de proteção [■ VERIFICAR: jurisprudência que o sustente no caso concreto]
 - Art. 232.º, n.º 1 CPI: requisitos do risco de confusão (e a sua ausência no caso concreto)
 - [■ VERIFICAR: jurisprudência relevante dos tribunais portugueses ou INPI]
 
@@ -76,7 +78,7 @@ Redige a resposta completa:
 O requerente [nome], representado pelo mandatário [nome do advogado], [qualificação], [n.º OA], vem, no prazo legal, apresentar a sua resposta à oposição deduzida por [nome do oponente], com base nos seguintes fundamentos:
 
 **I. NOTA PRÉVIA — PEDIDO DE PROVA DE USO (se aplicável)**
-Ao abrigo do art. 227.º do CPI / art. 47.º, n.º 2 do RMUE, o requerente requer que o oponente faça prova do uso efetivo e sério da sua marca n.º [número] nos últimos 5 anos anteriores à data de publicação do pedido contestado, na medida em que aquela marca se encontra registada há mais de 5 anos. Na ausência de tal prova, a oposição deverá ser julgada improcedente.
+Ao abrigo do art. 227.º do CPI / art. 47.º, n.º 2 do RMUE, o requerente requer que o oponente faça prova do uso efetivo e sério da sua marca n.º [número] durante os cinco anos consecutivos anteriores à data do pedido [ou da prioridade reivindicada] do pedido contestado, na medida em que, nessa data, aquela marca se encontrava registada há pelo menos cinco anos. [No EUIPO, este pedido é apresentado como pedido incondicional em documento separado — art. 10.º, n.º 1, do Regulamento Delegado (UE) 2018/625.] Na ausência de tal prova, a oposição deverá ser julgada improcedente.
 
 **II. SÍNTESE DA OPOSIÇÃO**
 O oponente alega que a marca requerida [denominação/descrição] é semelhante à sua marca anterior n.º [número] — [denominação/descrição] — e que existe risco de confusão relativamente aos produtos/serviços das Classes [X] e [Y].
@@ -118,7 +120,7 @@ Pelo exposto, requer-se que a oposição seja julgada improcedente e que o pedid
 ### ETAPA 5 — FORMULAÇÃO FINAL (Validação)
 Apresenta dentro de um bloco <checklist_validacao>:
 - [ ] Prazo de resposta verificado (geralmente 2 meses desde a notificação)
-- [ ] Pedido de prova de uso formulado (se marca anterior com mais de 5 anos)
+- [ ] Pedido de prova de uso formulado (se a marca anterior estava registada há pelo menos cinco anos à data do pedido ou da prioridade da marca contestada; no EUIPO, em documento separado)
 - [ ] Análise comparativa dos sinais nas três dimensões (visual, fonética, concetual)
 - [ ] Argumento de fraca distintividade da marca anterior considerado (se aplicável)
 - [ ] Análise da semelhança dos produtos/serviços
@@ -159,7 +161,7 @@ Apresenta dentro de um bloco <checklist_validacao>:
 - Denominação/Descrição: [sinal]
 - Classes e produtos/serviços: [lista]
 - Data de registo: [data]
-- Tem mais de 5 anos de registo? [sim/não]
+- Estava registada há pelo menos 5 anos à data do pedido (ou da prioridade) da marca contestada? [sim/não]
 
 **FORO DO PROCESSO:**
 - INPI (nacional)? [sim/não]
@@ -182,8 +184,9 @@ Resposta à oposição completa, com análise de ausência de risco de confusão
 | art. 47.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | Art. 17.º CPI | corrigida — Prazos de reclamação e de contestação | o número citado no catálogo não correspondia à epígrafe |
 | Art. 227.º CPI | corrigida — Invocação da falta de uso sério de marca em processo de oposição | o número citado no catálogo não correspondia à epígrafe |
-| Art. 227.º CPI | por conferir [■ VERIFICAR] | o art. 227.º CPI trata da falta de uso sério na oposição; o caráter distintivo resulta dos arts. 208.º e 231.º CPI |
+| Art. 238.º CPI | conferida (epígrafe) — Conceito de imitação ou de usurpação |  |
 | Art. 232.º, n.º 1 CPI | conferida (epígrafe) — Outros fundamentos de recusa |  |
 | Art. 47.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | Art. 8.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 227.º do CPI | corrigida — Invocação da falta de uso sério de marca em processo de oposição | o número citado no catálogo não correspondia à epígrafe |
+| art. 10.º | por conferir [■ VERIFICAR] | diploma não identificado |

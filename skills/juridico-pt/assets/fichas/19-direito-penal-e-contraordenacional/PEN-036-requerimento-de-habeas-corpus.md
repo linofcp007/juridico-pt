@@ -3,20 +3,22 @@ codigo: PEN-036
 area: "Direito Penal e Contraordenacional"
 titulo: "Requerimento de Habeas Corpus"
 titulo_en: "Habeas Corpus Petition"
-descricao: "Gera um requerimento de habeas corpus fundamentado, invocando a ilegalidade da detenção ou da prisão preventiva e requerendo a apresentação imediata do arguido ao tribunal para apreciação da legalidade da privação de liberdade, ao abrigo do art. 31.º da Constituição da República Portuguesa e dos arts. 220.º a 224.º do Código de Processo Penal."
-descricao_en: "Generates a reasoned habeas corpus petition, invoking the unlawfulness of the arrest or pre-trial detention and requesting that the accused be brought immediately before the court for review of the lawfulness of the deprivation of liberty, under Article 31 of the Constitution of the Portuguese Republic and Articles 220 to 224 of the Code of Criminal Procedure."
+descricao: "Gera um requerimento de habeas corpus fundamentado: ao juiz de instrução, em caso de detenção ilegal, para que ordene a apresentação imediata do detido, ou ao Presidente do Supremo Tribunal de Justiça, em caso de prisão ilegal, para que a prisão seja declarada ilegal e ordenada a libertação, ao abrigo do art. 31.º da Constituição da República Portuguesa e dos arts. 220.º a 224.º do Código de Processo Penal."
+descricao_en: "Generates a reasoned habeas corpus petition: to the investigating judge, for unlawful arrest, asking that the detainee be brought before the court immediately, or to the President of the Supreme Court of Justice, for unlawful imprisonment, asking that the imprisonment be declared unlawful and release ordered, under Article 31 of the Constitution of the Portuguese Republic and Articles 220 to 224 of the Code of Criminal Procedure."
 ambito: nacional
-estado_citacoes: "conferidas 22 · corrigidas 2 · por conferir 5"
+estado_citacoes: "conferidas 53 · corrigidas 0 · por conferir 2"
+revisao_tecnica: "2026-10-28 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
 # Requerimento de Habeas Corpus
 
 > **Âmbito:** nacional · **Área:** Direito Penal e Contraordenacional · **Código:** PEN-036
-> **EN:** Habeas Corpus Petition. Generates a reasoned habeas corpus petition, invoking the unlawfulness of the arrest or pre-trial detention and requesting that the accused be brought immediately before the court for review of the lawfulness of the deprivation of liberty, under Article 31 of the Constitution of the Portuguese Republic and Articles 220 to 224 of the Code of Criminal Procedure.
-> **Citações:** conferidas 22 · corrigidas 2 · por conferir 5. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **EN:** Habeas Corpus Petition. Generates a reasoned habeas corpus petition: to the investigating judge, for unlawful arrest, asking that the detainee be brought before the court immediately, or to the President of the Supreme Court of Justice, for unlawful imprisonment, asking that the imprisonment be declared unlawful and release ordered, under Article 31 of the Constitution of the Portuguese Republic and Articles 220 to 224 of the Code of Criminal Procedure.
+> **Citações:** conferidas 53 · corrigidas 0 · por conferir 2. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-28 — corrigida (16 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
-Gera um requerimento de habeas corpus fundamentado, invocando a ilegalidade da detenção ou da prisão preventiva e requerendo a apresentação imediata do arguido ao tribunal para apreciação da legalidade da privação de liberdade, ao abrigo do art. 31.º da Constituição da República Portuguesa e dos arts. 220.º a 224.º do Código de Processo Penal.
+Gera um requerimento de habeas corpus fundamentado: ao juiz de instrução, em caso de detenção ilegal, para que ordene a apresentação imediata do detido, ou ao Presidente do Supremo Tribunal de Justiça, em caso de prisão ilegal, para que a prisão seja declarada ilegal e ordenada a libertação, ao abrigo do art. 31.º da Constituição da República Portuguesa e dos arts. 220.º a 224.º do Código de Processo Penal.
 
 ## Método
 
@@ -26,9 +28,9 @@ Ficha de trabalho para preparar este documento. As regras da casa prevalecem sob
 — NUNCA inventes jurisprudência, números de acórdão ou doutrina sem verificação.
 — Marca [■ VERIFICAR: dado necessário] sempre que faltarem factos ou datas precisas.
 — O habeas corpus não é recurso ordinário da decisão de prisão — é remédio extraordinário contra a ilegalidade da detenção; distingue claramente as situações.
-— Os fundamentos do art. 222.º, n.º 2 CPP são taxativos: (a) incompetência do agente, (b) excesso de prazo de detenção, (c) prisão preventiva mantida fora dos casos legais ou sem observância das formalidades.
-— O tribunal competente é o Supremo Tribunal de Justiça (STJ) para prisão preventiva (art. 222.º, n.º 1 CPP); Tribunal da Relação para detenção simples (art. 220.º, n.º 3 CPP [■ VERIFICAR: o habeas corpus por detenção ilegal pede-se ao juiz de instrução (art. 220.º CPP), não à Relação; confirmar]) [■ VERIFICAR].
-— Prazo de apresentação: 8 dias a contar do conhecimento da ilegalidade (art. 222.º, n.º 3 CPP [■ VERIFICAR: o habeas corpus não tem prazo de apresentação; os 8 dias do art. 223.º CPP são para a deliberação do STJ]) [■ VERIFICAR].
+— Os fundamentos do art. 222.º, n.º 2 CPP (prisão ilegal) são taxativos: (a) prisão efetuada ou ordenada por entidade incompetente, (b) motivada por facto pelo qual a lei a não permite, (c) mantida para além dos prazos fixados pela lei ou por decisão judicial. Na detenção ilegal, os fundamentos são os do art. 220.º, n.º 1, CPP: prazo excedido para entrega ao poder judicial, detenção fora dos locais legalmente permitidos, detenção efetuada ou ordenada por entidade incompetente ou motivada por facto pelo qual a lei a não permite.
+— Tribunal competente: na prisão ilegal (incluindo a prisão preventiva), o Supremo Tribunal de Justiça — a petição é dirigida, em duplicado, ao Presidente do STJ e apresentada à autoridade à ordem da qual o preso se mantenha (art. 222.º, n.ºs 1 e 2, CPP); na detenção ilegal, o juiz de instrução da área onde o detido se encontrar (art. 220.º, n.º 1, CPP). O requerimento pode ser subscrito pelo próprio ou por qualquer cidadão no gozo dos seus direitos políticos.
+— Prazo: a lei não fixa prazo para requerer o habeas corpus, mas a providência pressupõe que a pessoa se encontre ilegalmente presa ou detida (arts. 220.º, n.º 1, 222.º, n.º 1, e 223.º, n.º 2, CPP). Os 8 dias são o prazo para decidir (art. 31.º, n.º 3, CRP; art. 223.º, n.º 2, CPP).
 
 ---
 
@@ -38,27 +40,28 @@ Ficha de trabalho para preparar este documento. As regras da casa prevalecem sob
 Apresenta dentro de um bloco <analise_do_caso>:
 - O arguido está detido (detenção simples) ou em prisão preventiva?
 - Qual o fundamento legal invocado para a detenção / prisão preventiva?
-- Quais os vícios que se pretendem invocar (incompetência / excesso de prazo / ilegalidade formal)?
+- Quais os fundamentos que se pretendem invocar (entidade incompetente / facto pelo qual a lei não permite a prisão / excesso de prazo — art. 222.º, n.º 2, CPP; na detenção, os do art. 220.º, n.º 1, CPP)?
 - Quando ocorreu a detenção e qual o prazo máximo aplicável?
-- Foram observadas as formalidades legais (apresentação ao MP no prazo de 48h / interrogatório judicial)?
+- O detido foi presente ao juiz no prazo máximo de 48 horas para primeiro interrogatório judicial (art. 254.º, n.º 1, al. a), CPP; art. 141.º, n.º 1, CPP; art. 28.º, n.º 1, CRP)?
 - Houve decisão judicial que validou a prisão preventiva? Em que termos?
-- Quando o defensor ou arguido tomou conhecimento da ilegalidade (prazo de 8 dias)?
+- A privação da liberdade ilegal mantém-se à data da petição (art. 222.º, n.º 1, CPP)?
 - Informações faltantes que podem condicionar o fundamento do habeas corpus
 
 ### ETAPA 2 — ANÁLISE JURÍDICA (Fundamentação)
 Apresenta dentro de um bloco <fundamentos_juridicos>:
-- **Art. 31.º CRP — Habeas corpus:** garantia constitucional de que nenhum cidadão pode ser detido ilegalmente; o tribunal deve apreciar a causa da privação de liberdade no prazo de 8 dias
-- **Art. 220.º CPP — Detenção ilegal:** detenção fora dos casos do art. 254.º CPP, por entidade incompetente ou excedendo os prazos do art. 254.º CPP
-- **Art. 222.º CPP — Habeas corpus em prisão preventiva:** fundamentos taxativos (n.º 2):
-  - Al. a) incompetência da entidade que ordenou a prisão
-  - Al. b) excesso de prazo de detenção (arts. 254.º a 261.º CPP) ou de prisão preventiva (art. 215.º CPP)
-  - Al. c) prisão preventiva mantida fora dos casos previstos na lei ou sem observância das formalidades legais exigidas
-- **Prazos da prisão preventiva (art. 215.º CPP):** 
-  - Regra geral: 6 meses no inquérito, 10 meses na instrução, 18 meses no julgamento, 2 anos em recurso;
-  - Crimes de terrorismo, criminalidade violenta, altamente organizada: prazos maiores [■ VERIFICAR];
-  - Ultrapassado o prazo máximo: prisão preventiva ilegal, fundamento de habeas corpus al. b)
-- **Prazos de detenção (art. 254.º CPP):** arguido detido deve ser apresentado ao MP em 48h; ao juiz de instrução em 48h adicionais
-- **Formalidades obrigatórias:** mandado de detenção (art. 258.º CPP); comunicação ao arguido da causa (art. 259.º CPP [■ VERIFICAR: o art. 259.º CPP trata da comunicação da detenção ao juiz ou ao MP; o dever de informar o detido está no art. 27.º, n.º 4 CRP]); direito a advogado (art. 64.º CPP)
+- **Art. 31.º CRP — Habeas corpus:** contra o abuso de poder, por virtude de prisão ou detenção ilegal, a requerer perante o tribunal competente, pelo próprio ou por qualquer cidadão no gozo dos seus direitos políticos; o juiz decide no prazo de 8 dias, em audiência contraditória (n.ºs 1 a 3)
+- **Art. 220.º CPP — Detenção ilegal:** requerimento ao juiz de instrução da área onde o detido se encontrar, para que ordene a sua imediata apresentação judicial, com fundamento em: a) prazo excedido para entrega ao poder judicial; b) detenção fora dos locais legalmente permitidos; c) detenção efetuada ou ordenada por entidade incompetente; d) detenção motivada por facto pelo qual a lei a não permite (n.º 1); procedimento no art. 221.º CPP
+- **Art. 222.º CPP — Habeas corpus em virtude de prisão ilegal:** fundamentos taxativos (n.º 2):
+  - Al. a) prisão efetuada ou ordenada por entidade incompetente
+  - Al. b) prisão motivada por facto pelo qual a lei a não permite (p. ex., prisão preventiva por crime que não a admite — art. 202.º CPP)
+  - Al. c) prisão mantida para além dos prazos fixados pela lei ou por decisão judicial (p. ex., prazos máximos do art. 215.º CPP)
+- **Prazos da prisão preventiva (art. 215.º CPP):** extingue-se quando, desde o seu início, tiverem decorrido:
+  - Regra geral (n.º 1): 4 meses sem acusação; 8 meses sem decisão instrutória, havendo instrução; 1 ano e 2 meses sem condenação em 1.ª instância; 1 ano e 6 meses sem condenação com trânsito em julgado;
+  - Terrorismo, criminalidade violenta ou altamente organizada, crime punível com prisão de máximo superior a 8 anos ou crimes do catálogo do n.º 2: 6 meses, 10 meses, 1 ano e 6 meses e 2 anos (n.º 2); nesses crimes, se o procedimento for declarado de excecional complexidade (só durante a 1.ª instância — n.º 4): 1 ano, 1 ano e 4 meses, 2 anos e 6 meses e 3 anos e 4 meses (n.º 3);
+  - Os prazos das als. c) e d) acrescem de 6 meses se houver recurso para o Tribunal Constitucional ou suspensão para julgamento de questão prejudicial (n.º 5); confirmada em recurso ordinário a condenação em prisão, o prazo eleva-se para metade da pena fixada (n.º 6); conta o tempo de obrigação de permanência na habitação (n.º 8);
+  - Ultrapassado o prazo máximo: prisão ilegal, fundamento de habeas corpus da al. c) do n.º 2 do art. 222.º CPP
+- **Prazos de detenção (art. 254.º CPP):** o detido é apresentado a julgamento sob forma sumária ou ao juiz competente para primeiro interrogatório judicial ou para aplicação ou execução de medida de coação no prazo máximo de 48 horas (n.º 1, al. a); art. 141.º, n.º 1, CPP; art. 28.º, n.º 1, CRP); a detenção para assegurar a presença em ato processual nunca pode exceder 24 horas (n.º 1, al. b))
+- **Formalidades:** mandado de detenção com os requisitos do art. 258.º, n.º 1, CPP, exibido ao detido com entrega de cópia (n.º 3); comunicação imediata da detenção ao juiz ou ao Ministério Público (art. 259.º CPP); informação imediata e compreensível ao detido das razões da detenção e dos seus direitos (art. 27.º, n.º 4, CRP); assistência de defensor no interrogatório de arguido detido (art. 64.º CPP). A falta destas formalidades não é, por si só, fundamento de habeas corpus: discute-se por arguição de nulidade ou irregularidade e por recurso (art. 219.º CPP), salvo se se reconduzir a um dos fundamentos dos arts. 220.º, n.º 1, ou 222.º, n.º 2, CPP [■ VERIFICAR: jurisprudência do STJ]
 - Jurisprudência do STJ sobre o âmbito do habeas corpus e os seus fundamentos [■ VERIFICAR acórdãos relevantes]
 
 ### ETAPA 3 — CONSTRUÇÃO ARGUMENTATIVA
@@ -66,18 +69,18 @@ Define em <estrategia>:
 - Identificar com precisão qual o fundamento do art. 222.º, n.º 2 CPP invocado (a, b ou c)
 - Construir linha cronológica precisa: data de detenção → apresentação ao MP → interrogatório judicial → despacho de prisão preventiva → prazos atuais
 - Calcular o excesso de prazo, se for o fundamento invocado
-- Identificar a irregularidade formal, se for o fundamento invocado
-- Sublinhar a urgência: habeas corpus é processo urgente (art. 223.º CPP — julgado no prazo de 8 dias)
-- Identificar o tribunal competente: STJ (prisão preventiva) ou Tribunal da Relação (detenção simples) [■ VERIFICAR]
+- Identificar o facto que, segundo a lei, não permite a prisão, se for o fundamento invocado (art. 222.º, n.º 2, al. b), CPP)
+- Sublinhar a urgência: a secção criminal do STJ delibera nos 8 dias subsequentes (art. 223.º, n.º 2, CPP; art. 31.º, n.º 3, CRP); na detenção ilegal, o juiz ordena a apresentação imediata do detido (art. 221.º, n.º 1, CPP)
+- Identificar o tribunal competente: STJ, por petição dirigida ao seu Presidente (prisão ilegal — art. 222.º CPP), ou juiz de instrução da área onde o detido se encontrar (detenção ilegal — art. 220.º CPP)
 
 ### ETAPA 4 — O REQUERIMENTO DE HABEAS CORPUS
 Redige a peça completa nesta estrutura:
 
 ---
 
-**AO SUPREMO TRIBUNAL DE JUSTIÇA**
+**EXCELENTÍSSIMO SENHOR PRESIDENTE DO SUPREMO TRIBUNAL DE JUSTIÇA** (prisão ilegal — petição em duplicado, apresentada à autoridade à ordem da qual o preso se mantenha: art. 222.º, n.º 2, CPP)
 **— OU —**
-**AO TRIBUNAL DA RELAÇÃO DE [COMARCA]**
+**EXMO. SENHOR JUIZ DE INSTRUÇÃO CRIMINAL DE [ÁREA ONDE O DETIDO SE ENCONTRA]** (detenção ilegal — art. 220.º, n.º 1, CPP)
 
 **REQUERIMENTO DE HABEAS CORPUS**
 
@@ -97,28 +100,28 @@ O requerente encontra-se privado da sua liberdade desde [data e hora da detenç�
 A detenção foi ordenada por [identificar a entidade], que não dispõe de competência legal para o efeito nos termos dos arts. [X.º] do CPP. A ordem de detenção emanou de entidade incompetente, sendo a privação de liberdade ilegal ab initio.
 [■ VERIFICAR: indicar a norma atributiva de competência violada]
 
-**[FUNDAMENTO B — Excesso de prazo (art. 222.º, n.º 2, al. b) CPP)]:**
+**[FUNDAMENTO B — Facto pelo qual a lei não permite a prisão (art. 222.º, n.º 2, al. b) CPP)]:**
+A prisão foi motivada por facto pelo qual a lei a não permite, concretamente:
+[Identificar: p. ex., prisão preventiva por crime que não preenche nenhuma das alíneas do art. 202.º, n.º 1, CPP — crime não doloso, ou punível com pena de prisão de máximo não superior ao limiar legal]
+A privação da liberdade é, por isso, ilegal, nos termos do art. 222.º, n.º 2, al. b), CPP.
+
+**[FUNDAMENTO C — Excesso de prazo (art. 222.º, n.º 2, al. c) CPP)]:**
 O requerente encontra-se em prisão preventiva há [X meses], tendo a fase do processo em que se encontra um prazo máximo de [Y meses] nos termos do art. 215.º, n.º [X] do CPP.
 O prazo máximo admissível teria expirado em [data = data de início + prazo legal].
 À data de hoje, [data], o excesso de prazo é de [N] dias / meses.
-A manutenção da prisão preventiva após o esgotamento do prazo legal constitui fundamento de habeas corpus nos termos do art. 222.º, n.º 2, al. b) do CPP.
+A manutenção da prisão preventiva para além do prazo legal constitui fundamento de habeas corpus nos termos do art. 222.º, n.º 2, al. c), CPP.
+[Na detenção ilegal, invocar o fundamento do art. 220.º, n.º 1, als. a) a d), CPP — p. ex., excedido o prazo de 48 horas para entrega ao poder judicial.]
 
-**[FUNDAMENTO C — Ilegalidade formal (art. 222.º, n.º 2, al. c) CPP)]:**
-A prisão preventiva foi mantida sem observância das formalidades legais, concretamente:
-[Identificar a irregularidade: falta de mandado, falta de comunicação da causa, falta de assistência de defensor, interrogatório judicial não realizado no prazo, falta de despacho judicial de validação, etc.]
-Esta omissão viola o art. [X.º do CPP], determinando a ilegalidade da privação de liberdade.
-
-**IV. DA URGÊNCIA E DO PRAZO**
-Nos termos do art. 222.º, n.º 3 do CPP [■ VERIFICAR: o habeas corpus não tem prazo de apresentação; os 8 dias do art. 223.º CPP são para a deliberação do STJ], o presente requerimento é apresentado dentro do prazo de 8 dias a contar do conhecimento da ilegalidade, ocorrido em [data].
-O habeas corpus é processo urgente que deve ser julgado no prazo de 8 dias (art. 223.º CPP).
+**IV. DA URGÊNCIA**
+O requerente mantém-se privado da liberdade à data da presente petição, pelo que deve a secção criminal deliberar nos 8 dias subsequentes à sua convocação (art. 223.º, n.º 2, CPP; art. 31.º, n.º 3, CRP).
 
 **V. DO PEDIDO**
 Pelos fundamentos expostos, requer a V. Exas. que:
-a) Seja ordenada a apresentação imediata do requerente ao tribunal, para apreciação da legalidade da privação de liberdade (art. 224.º CPP [■ VERIFICAR: o art. 224.º CPP trata do incumprimento da decisão; a apresentação do preso decide-se no art. 223.º (ou no 220.º, se for detenção)]);
-b) Seja declarada ilegal a privação de liberdade do requerente, com base no fundamento supra identificado;
-c) Seja ordenada a imediata libertação do requerente, ou, subsidiariamente, a sua sujeição a medida de coação não privativa da liberdade [especificar — VERIFICAR].
+a) Seja declarada ilegal a prisão do requerente, com base no fundamento supra identificado;
+b) Seja ordenada a sua libertação imediata (art. 223.º, n.º 4, al. d), CPP).
+[Na detenção ilegal, o pedido ao juiz de instrução é que ordene a apresentação imediata do detido e decida sobre a legalidade da detenção, ouvidos o Ministério Público e o defensor (arts. 220.º, n.º 1, e 221.º CPP).]
 
-Juntam-se: cópia do despacho de prisão preventiva [■ VERIFICAR]; certidão dos autos que demonstra o excesso de prazo / a irregularidade / a incompetência.
+Juntam-se: cópia do despacho de prisão preventiva [■ VERIFICAR]; certidão dos autos que demonstra o excesso de prazo / o facto que não permite a prisão / a incompetência.
 
 Data e assinatura do advogado.
 
@@ -128,12 +131,12 @@ Apresenta dentro de um bloco <checklist_validacao>:
 - [ ] Linha cronológica da detenção e prisão preventiva construída com datas precisas
 - [ ] Prazo máximo de prisão preventiva calculado (art. 215.º CPP)
 - [ ] Excesso de prazo calculado, se for o fundamento invocado
-- [ ] Irregularidade formal identificada, se for o fundamento invocado
+- [ ] Facto que não permite a prisão identificado, se for o fundamento invocado (art. 222.º, n.º 2, al. b), CPP)
 - [ ] Entidade incompetente identificada, se for o fundamento invocado
-- [ ] Prazo de 8 dias para apresentação do habeas corpus verificado (art. 222.º, n.º 3 CPP)
-- [ ] Tribunal competente identificado (STJ / Tribunal da Relação)
+- [ ] Privação da liberdade ainda atual à data da petição (a lei não fixa prazo para a apresentar)
+- [ ] Tribunal competente identificado (Presidente do STJ, na prisão ilegal / juiz de instrução, na detenção ilegal)
 - [ ] Documentos de suporte identificados para junção
-- [ ] Pedido de libertação imediata (ou alternativa) formulado
+- [ ] Pedido de libertação imediata (prisão) ou de apresentação imediata ao juiz (detenção) formulado
 - [ ] Itens [■ VERIFICAR] sinalizados
 
 ---
@@ -169,10 +172,10 @@ Apresenta dentro de um bloco <checklist_validacao>:
 - Data do último despacho de manutenção / revisão: [dd/mm/aaaa]
 
 **FUNDAMENTO DO HABEAS CORPUS:**
-[Incompetência da entidade / Excesso de prazo / Irregularidade formal — descrever em detalhe]
+[Entidade incompetente / Facto pelo qual a lei não permite a prisão / Excesso de prazo — ou, na detenção, um dos fundamentos do art. 220.º, n.º 1, CPP — descrever em detalhe]
 
-**DATA DO CONHECIMENTO DA ILEGALIDADE:**
-[dd/mm/aaaa — para verificar o prazo de 8 dias]
+**SITUAÇÃO ATUAL:**
+[O requerente continua preso ou detido? À ordem de que autoridade e em que local?]
 
 **DOCUMENTOS DISPONÍVEIS PARA JUNÇÃO:**
 [Despacho de prisão preventiva, certidão dos autos, outros]
@@ -187,29 +190,55 @@ Apresenta dentro de um bloco <checklist_validacao>:
 | art. 222.º, n.º 2 CPP | conferida (epígrafe) — Habeas corpus em virtude de prisão ilegal |  |
 | art. 222.º, n.º 2 CPP | conferida (epígrafe) — Habeas corpus em virtude de prisão ilegal |  |
 | art. 222.º, n.º 2 CPP | conferida (epígrafe) — Habeas corpus em virtude de prisão ilegal |  |
-| art. 222.º, n.º 1 CPP | conferida (epígrafe) — Habeas corpus em virtude de prisão ilegal |  |
-| art. 220.º, n.º 3 CPP | por conferir [■ VERIFICAR] | o habeas corpus por detenção ilegal pede-se ao juiz de instrução (art. 220.º CPP), não à Relação; confirmar |
-| art. 222.º, n.º 3 CPP | por conferir [■ VERIFICAR] | o habeas corpus não tem prazo de apresentação; os 8 dias do art. 223.º CPP são para a deliberação do STJ |
-| art. 222.º, n.º 3 CPP | conferida (epígrafe) — Habeas corpus em virtude de prisão ilegal |  |
-| art. 223.º CPP | corrigida — Procedimento | o número citado no catálogo não correspondia à epígrafe |
-| art. 223.º CPP | corrigida — Procedimento | o número citado no catálogo não correspondia à epígrafe |
+| art. 220.º, n.º 1, CPP | conferida (epígrafe) — Habeas corpus em virtude de detenção ilegal |  |
+| art. 220.º, n.º 1, CPP | conferida (epígrafe) — Habeas corpus em virtude de detenção ilegal |  |
+| art. 220.º, n.º 1, CPP | conferida (epígrafe) — Habeas corpus em virtude de detenção ilegal |  |
+| art. 220.º, n.º 1, CPP | conferida (epígrafe) — Habeas corpus em virtude de detenção ilegal |  |
+| art. 220.º, n.º 1, CPP | conferida (epígrafe) — Habeas corpus em virtude de detenção ilegal |  |
+| art. 222.º, n.ºs 1 e 2, CPP | conferida (epígrafe) — Habeas corpus em virtude de prisão ilegal |  |
+| arts. 220.º, n.º 1, 222.º, n.º 1, e 223.º, n.º 2, CPP | conferida (epígrafe) — Habeas corpus em virtude de detenção ilegal |  |
+| art. 31.º, n.º 3, CRP | conferida (epígrafe) — Habeas corpus |  |
+| art. 31.º, n.º 3, CRP | conferida (epígrafe) — Habeas corpus |  |
+| art. 31.º, n.º 3, CRP | conferida (epígrafe) — Habeas corpus |  |
+| art. 223.º, n.º 2, CPP | conferida (epígrafe) — Procedimento |  |
+| art. 223.º, n.º 2, CPP | conferida (epígrafe) — Procedimento |  |
+| art. 223.º, n.º 2, CPP | conferida (epígrafe) — Procedimento |  |
+| art. 222.º, n.º 2, CPP | conferida (epígrafe) — Habeas corpus em virtude de prisão ilegal |  |
+| art. 222.º, n.º 2, CPP | conferida (epígrafe) — Habeas corpus em virtude de prisão ilegal |  |
+| art. 254.º, n.º 1, al. a), CPP | conferida (epígrafe) — Finalidades |  |
+| art. 141.º, n.º 1, CPP | conferida (epígrafe) — Primeiro interrogatório judicial de arguido detido |  |
+| art. 141.º, n.º 1, CPP | conferida (epígrafe) — Primeiro interrogatório judicial de arguido detido |  |
+| art. 28.º, n.º 1, CRP | conferida (epígrafe) — Prisão preventiva |  |
+| art. 28.º, n.º 1, CRP | conferida (epígrafe) — Prisão preventiva |  |
+| art. 222.º, n.º 1, CPP | conferida (epígrafe) — Habeas corpus em virtude de prisão ilegal |  |
 | Art. 31.º CRP | conferida (epígrafe) — Habeas corpus |  |
 | Art. 220.º CPP | conferida (epígrafe) — Habeas corpus em virtude de detenção ilegal |  |
-| art. 254.º CPP | conferida (epígrafe) — Finalidades |  |
-| art. 254.º CPP | conferida (epígrafe) — Finalidades |  |
-| art. 254.º CPP | conferida (epígrafe) — Finalidades |  |
+| art. 221.º CPP | conferida (epígrafe) — Procedimento |  |
 | Art. 222.º CPP | conferida (epígrafe) — Habeas corpus em virtude de prisão ilegal |  |
-| arts. 254.º a 261.º CPP | conferida (epígrafe) — Finalidades |  |
+| art. 202.º CPP | conferida (epígrafe) — Prisão preventiva |  |
+| art. 215.º CPP | por conferir [■ VERIFICAR] | o assunto descrito não coincide com a epígrafe; confirmar |
 | art. 215.º CPP | conferida (epígrafe) — Prazos de duração máxima da prisão preventiva |  |
 | art. 215.º CPP | conferida (epígrafe) — Prazos de duração máxima da prisão preventiva |  |
-| art. 215.º CPP | conferida (epígrafe) — Prazos de duração máxima da prisão preventiva |  |
-| art. 258.º CPP | conferida (epígrafe) — Mandados de detenção |  |
-| art. 259.º CPP | por conferir [■ VERIFICAR] | o art. 259.º CPP trata da comunicação da detenção ao juiz ou ao MP; o dever de informar o detido está no art. 27.º, n.º 4 CRP |
+| art. 222.º CPP | conferida (epígrafe) — Habeas corpus em virtude de prisão ilegal |  |
+| art. 222.º CPP | conferida (epígrafe) — Habeas corpus em virtude de prisão ilegal |  |
+| art. 254.º CPP | conferida (epígrafe) — Finalidades |  |
+| art. 258.º, n.º 1, CPP | conferida (epígrafe) — Mandados de detenção |  |
+| art. 259.º CPP | conferida (epígrafe) — Dever de comunicação |  |
+| art. 27.º, n.º 4, CRP | conferida (epígrafe) — Direito à liberdade e à segurança |  |
 | art. 64.º CPP | conferida (epígrafe) — Obrigatoriedade de assistência |  |
+| art. 219.º CPP | conferida (epígrafe) — Recurso |  |
+| arts. 220.º, n.º 1, ou 222.º, n.º 2, CPP | por conferir [■ VERIFICAR] | o assunto descrito não coincide com a epígrafe; confirmar |
+| art. 222.º, n.º 2, al. b), CPP | conferida (epígrafe) — Habeas corpus em virtude de prisão ilegal |  |
+| art. 222.º, n.º 2, al. b), CPP | conferida (epígrafe) — Habeas corpus em virtude de prisão ilegal |  |
+| art. 222.º, n.º 2, al. b), CPP | conferida (epígrafe) — Habeas corpus em virtude de prisão ilegal |  |
+| art. 221.º, n.º 1, CPP | conferida (epígrafe) — Procedimento |  |
+| art. 220.º CPP | conferida (epígrafe) — Habeas corpus em virtude de detenção ilegal |  |
 | art. 222.º, n.º 2, al. a) CPP | conferida (epígrafe) — Habeas corpus em virtude de prisão ilegal |  |
 | art. 222.º, n.º 2, al. b) CPP | conferida (epígrafe) — Habeas corpus em virtude de prisão ilegal |  |
-| art. 215.º, n.º [X] do CPP | conferida (epígrafe) — Prazos de duração máxima da prisão preventiva |  |
-| art. 222.º, n.º 2, al. b) do CPP | conferida (epígrafe) — Habeas corpus em virtude de prisão ilegal |  |
+| art. 202.º, n.º 1, CPP | conferida (epígrafe) — Prisão preventiva |  |
 | art. 222.º, n.º 2, al. c) CPP | conferida (epígrafe) — Habeas corpus em virtude de prisão ilegal |  |
-| art. 222.º, n.º 3 do CPP | por conferir [■ VERIFICAR] | o habeas corpus não tem prazo de apresentação; os 8 dias do art. 223.º CPP são para a deliberação do STJ |
-| art. 224.º CPP | por conferir [■ VERIFICAR] | o art. 224.º CPP trata do incumprimento da decisão; a apresentação do preso decide-se no art. 223.º (ou no 220.º, se for detenção) |
+| art. 215.º, n.º [X] do CPP | conferida (epígrafe) — Prazos de duração máxima da prisão preventiva |  |
+| art. 222.º, n.º 2, al. c), CPP | conferida (epígrafe) — Habeas corpus em virtude de prisão ilegal |  |
+| art. 220.º, n.º 1, als. a) a d), CPP | conferida (epígrafe) — Habeas corpus em virtude de detenção ilegal |  |
+| art. 223.º, n.º 4, al. d), CPP | conferida (epígrafe) — Procedimento |  |
+| arts. 220.º, n.º 1, e 221.º CPP | conferida (epígrafe) — Habeas corpus em virtude de detenção ilegal |  |

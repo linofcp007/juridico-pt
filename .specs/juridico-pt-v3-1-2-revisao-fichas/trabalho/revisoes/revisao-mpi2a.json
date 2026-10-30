@@ -1,0 +1,187 @@
+[
+  {
+    "codigo": "PI-050",
+    "veredicto": "corrigida",
+    "resumo": "A análise concorrencial assentava no Regulamento (UE) n.º 316/2014 (RECATT), que caducou em 30/4/2026; foi substituído pelo Regulamento (UE) 2026/877 da Comissão, em vigor desde 1/5/2026, com os mesmos limiares de quota (20 % / 30 %) e a mesma arrumação entre restrições graves (art. 4.º) e restrições excluídas (art. 5.º). Atualizaram-se as regras obrigatórias, a Etapa 2 (incluindo a descrição completa das restrições graves, que tratava a limitação da produção como proibição geral, e o período transitório até 30/4/2027) e a checklist, bem como a descrição do índice.",
+    "descricao": "Elabora um contrato completo de transferência de tecnologia entre cedente e cessionário, regulando a cessão ou licença de know-how, patentes, software e outros ativos tecnológicos, ao abrigo do CPI (DL n.º 110/2018), do Código Civil e do Regulamento (UE) 2026/877 (novo RECATT, que substituiu o Regulamento (UE) n.º 316/2014 desde 1/5/2026), com cláusulas de assistência técnica, formação, sublicença e proteção de segredos.",
+    "descricao_en": "Prepares a full technology transfer agreement between transferor and transferee, regulating the assignment or licensing of know-how, patents, software and other technological assets, under the CPI (Decree-Law No. 110/2018), the Civil Code and Regulation (EU) 2026/877 (the new TTBER, which replaced Regulation (EU) No 316/2014 from 1 May 2026), with clauses on technical assistance, training, sub-licensing and protection of secrets.",
+    "substituicoes": [
+      {
+        "de": "— Cita os artigos reais do CPI (DL n.º 110/2018), do Código Civil e do RECATT.",
+        "para": "— Cita os artigos reais do CPI (DL n.º 110/2018), do Código Civil e do Regulamento (UE) 2026/877 da Comissão (novo RECATT, em vigor desde 1/5/2026, que substituiu o Regulamento (UE) n.º 316/2014).",
+        "motivo": "O Regulamento (UE) n.º 316/2014 caducou em 30/4/2026 e foi substituído pelo Regulamento (UE) 2026/877 (art. 11.º).",
+        "fonte": "https://publications.europa.eu/resource/celex/32026R0877"
+      },
+      {
+        "de": "— Alerta para as restrições do RECATT (art. 4.º) e as restrições excluídas (art. 5.º).",
+        "para": "— Alerta para as restrições graves do Regulamento (UE) 2026/877 (art. 4.º), que afastam a isenção de todo o acordo, e para as restrições excluídas (art. 5.º), que só a afastam quanto à própria obrigação.",
+        "motivo": "Remissão para o regulamento em vigor e distinção correta entre os efeitos dos arts. 4.º e 5.º.",
+        "fonte": "https://publications.europa.eu/resource/celex/32026R0877"
+      },
+      {
+        "de": "- Licença de patente + know-how: regime RECATT se acordo bilateral entre empresa cedente e cessionária\n  — Quotas de mercado: ≤ 20% (concorrentes) ou ≤ 30% (não concorrentes)\n  — Proibições absolutas: art. 4.º RECATT (fixação de preços, partição de mercado entre concorrentes, limitação de output)\n  — Restrições excluídas do benefício: art. 5.º RECATT (grant-back exclusivo, no-challenge)",
+        "para": "- Licença de patente + know-how (ou cessão em que parte do risco da exploração fica com o cedente): isenção por categoria do Regulamento (UE) 2026/877, se for acordo entre duas empresas com vista à produção de produtos contratuais (art. 1.º, n.º 1, al. c)); os direitos de tecnologia abrangidos são o saber-fazer, as patentes, os modelos de utilidade, os direitos sobre desenhos e modelos, as topografias de produtos semicondutores, os certificados de proteção suplementar, os certificados de obtentor vegetal e os direitos de autor relativos a programas informáticos (art. 1.º, n.º 1, al. b)) — os dados não constam da lista\n  — Quotas de mercado (art. 3.º): ≤ 20% agregada (concorrentes) ou ≤ 30% de cada parte (não concorrentes); se o limiar só for ultrapassado depois, a isenção mantém-se durante três anos civis consecutivos (art. 8.º, al. e))\n  — Restrições graves (art. 4.º), que afastam a isenção de todo o acordo: entre concorrentes, restrição da capacidade de determinar preços na venda a terceiros, limitação da produção (salvo a imposta ao licenciado num acordo não recíproco ou a um só dos licenciados num acordo recíproco), repartição de mercados ou de clientes (com as exceções do n.º 1, al. c)) e restrição da exploração da tecnologia própria do licenciado ou da I&D; entre não concorrentes, imposição de preço de venda fixo ou mínimo e restrição das vendas passivas (com as exceções do n.º 2)\n  — Restrições excluídas (art. 5.º), que perdem a isenção apenas quanto à própria obrigação: obrigação de o licenciado conceder licença exclusiva ou ceder ao licenciante os seus melhoramentos ou novas aplicações da tecnologia (grant-back exclusivo), cláusula de não impugnação (salvo a faculdade de resolver a licença exclusiva se o licenciado impugnar) e, entre não concorrentes, a limitação da exploração da tecnologia própria do licenciado ou da I&D\n  — Acordos em vigor em 30/4/2026 que cumpriam o Regulamento (UE) n.º 316/2014 mas não cumprem o novo: período transitório até 30/4/2027 (art. 10.º)",
+        "motivo": "O regime de isenção em vigor é o do Regulamento (UE) 2026/877; a limitação da produção só é restrição grave entre concorrentes e com exceções; faltavam as restrições graves entre não concorrentes, a regra de tolerância de três anos e o período transitório.",
+        "fonte": "https://publications.europa.eu/resource/celex/32026R0877"
+      },
+      {
+        "de": "- [ ] Análise RECATT realizada (se licença entre empresas)",
+        "para": "- [ ] Análise ao abrigo do Regulamento (UE) 2026/877 realizada (se licença entre empresas), incluindo o período transitório até 30/4/2027 para os acordos em vigor em 30/4/2026 (art. 10.º)",
+        "motivo": "Remissão para o regulamento em vigor desde 1/5/2026.",
+        "fonte": "https://publications.europa.eu/resource/celex/32026R0877"
+      },
+      {
+        "de": "- [ ] Grant-back não exclusivo (para manter benefício RECATT)",
+        "para": "- [ ] Grant-back não exclusivo (o grant-back exclusivo e a cessão dos melhoramentos ao cedente perdem a isenção — art. 5.º, n.º 1, al. a), do Regulamento (UE) 2026/877)",
+        "motivo": "Remissão para o regulamento em vigor desde 1/5/2026.",
+        "fonte": "https://publications.europa.eu/resource/celex/32026R0877"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Confirmar nas novas Orientações da Comissão sobre acordos de transferência de tecnologia, adotadas com o Regulamento (UE) 2026/877, a análise das cláusulas fora da zona de segurança, das licenças de dados e dos agrupamentos de tecnologias (a referência da Comunicação não foi confirmada nesta revisão).",
+      "Licenças de patente: forma escrita (art. 31.º, n.º 3, CPI), presunção de não exclusividade (art. 31.º, n.º 5, CPI) e sublicença só com autorização escrita do titular, se o contrato for omisso (art. 31.º, n.º 9, CPI).",
+      "A transmissão e as licenças só produzem efeitos perante terceiros depois do averbamento no INPI (art. 29.º, n.os 1, als. a) e b), e 2, CPI); quanto a patentes europeias, confirmar quando a inscrição se faz no Registo Europeu de Patentes do IEP e quando se faz no INPI.",
+      "Os dados não são direitos de tecnologia no Regulamento (UE) 2026/877: uma licença autónoma de dados avalia-se diretamente à luz do art. 101.º TFUE.",
+      "Tecnologia de dupla utilização: controlo de exportações e transferências pelo Regulamento (UE) 2021/821."
+    ],
+    "fontes": [
+      "https://publications.europa.eu/resource/celex/32026R0877",
+      "https://eur-lex.europa.eu/eli/reg/2026/877/oj",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0029&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0030&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0031&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://publications.europa.eu/resource/celex/32021R0821"
+    ]
+  },
+  {
+    "codigo": "PI-052",
+    "veredicto": "corrigida",
+    "resumo": "A indemnização por violação de segredo comercial era fundada no «art. 13.º da Lei n.º 93/2021», que é o regime de proteção de denunciantes; o fundamento é o art. 347.º CPI, que abrange expressamente os segredos comerciais (arts. 313.º e 314.º CPI, transposição da Diretiva (UE) 2016/943). Corrigiram-se ainda as remissões do art. 347.º CPI: os danos não patrimoniais estão no n.º 4 (não no n.º 2) e o acesso à contabilidade do infrator faz-se pelas medidas de obtenção de prova e de prestação de informações (arts. 339.º e 344.º CPI), não pelo n.º 4. Acrescentou-se que a fixação por equidade com base nas remunerações devidas é subsidiária e que a cumulação de critérios exige conduta reiterada ou especialmente gravosa.",
+    "descricao": "Elabora memória de cálculo detalhada da indemnização devida por violação de direitos de propriedade intelectual (marca, patente, direitos de autor) ou de segredos comerciais, ao abrigo do artigo 347.º do CPI (DL n.º 110/2018), que abrange também os segredos comerciais, e do artigo 211.º do CDADC, seguindo as metodologias da Diretiva 2004/48/CE (enforcement) e da Diretiva (UE) 2016/943 (segredos comerciais).",
+    "descricao_en": "Prepares a detailed calculation statement of the damages due for infringement of intellectual property rights (trade mark, patent, copyright) or of trade secrets, under Article 347 of the CPI (Decree-Law No. 110/2018), which also covers trade secrets, and Article 211 of the CDADC, following the methodologies of Directive 2004/48/EC (enforcement) and Directive (EU) 2016/943 (trade secrets).",
+    "substituicoes": [
+      {
+        "de": "— Apresenta as três metodologias de cálculo alternativas e recomenda a mais adequada ao caso.",
+        "para": "— Apresenta as três metodologias de cálculo e recomenda a mais adequada ao caso, tendo presente que, no CPI e no CDADC, o lucro do infrator, os danos emergentes e os lucros cessantes são critérios a ponderar na mesma indemnização (art. 347.º, n.º 2, CPI; art. 211.º, n.º 2, CDADC), que a quantia fixada por equidade com base nas remunerações que seriam devidas é subsidiária (art. 347.º, n.º 5, CPI) e que a cumulação de critérios só é admitida se a conduta do infrator for reiterada ou especialmente gravosa (art. 347.º, n.º 6, CPI).",
+        "motivo": "No direito português as metodologias não são alternativas livres: os critérios do n.º 2 ponderam-se em conjunto, a equidade do n.º 5 é subsidiária e a cumulação do n.º 6 tem pressupostos próprios.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0347&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Art. 13.º Lei n.º 93/2021 (violação de segredo comercial): danos + lucros do infrator + royalty razoável",
+        "para": "- Art. 347.º, n.º 1, CPI, também aplicável à violação de segredo comercial (arts. 313.º e 314.º CPI, que transpõem a Diretiva (UE) 2016/943, cujo art. 14.º rege a indemnização): danos + lucros do infrator + remunerações que teriam sido auferidas (n.º 5)",
+        "motivo": "A Lei n.º 93/2021 é o regime de proteção de denunciantes; a indemnização por violação de segredo comercial está no art. 347.º CPI, que transpõe a Diretiva (UE) 2016/943.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0347&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Ónus da prova: incumbe ao titular lesado; pedido de prestação de contas como alternativa",
+        "para": "- Ónus da prova: incumbe ao titular lesado; para os elementos em poder do infrator, medidas para obtenção da prova, incluindo documentos bancários, financeiros, contabilísticos ou comerciais nos atos à escala comercial (art. 339.º CPI), e prestação de informações sobre a origem, as quantidades e o preço obtido (art. 344.º CPI)",
+        "motivo": "O CPI prevê meios próprios de acesso aos dados do infrator (arts. 339.º e 344.º), que a ficha não referia.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0339&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Conceito: taxa de licença que teria sido acordada entre as partes se o infrator tivesse solicitado autorização antes de usar o direito de PI",
+        "para": "- Conceito: remunerações que teriam sido auferidas pelo titular se o infrator tivesse solicitado autorização para usar o direito de PI\n- Enquadramento: critério subsidiário — só na impossibilidade de fixar o prejuízo efetivamente sofrido, e se o lesado não se opuser, o tribunal fixa por equidade uma quantia que tenha por base, no mínimo, essas remunerações e os encargos com a proteção do direito, a investigação e a cessação da conduta lesiva (art. 347.º, n.º 5, CPI; art. 211.º, n.º 5, CDADC)",
+        "motivo": "A «royalty razoável» é, no CPI e no CDADC, a base mínima de uma fixação equitativa subsidiária, que depende de não se poder apurar o prejuízo efetivo e da não oposição do lesado.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0347&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Limitações: exige acesso à contabilidade do infrator — pedido de prestação de contas (art. 347.º, n.º 4, CPI)",
+        "para": "- Limitações: exige acesso à contabilidade do infrator — requerer a apresentação de documentos bancários, financeiros, contabilísticos ou comerciais (art. 339.º, n.º 2, CPI, nos atos à escala comercial) e a prestação de informações sobre as quantidades e o preço obtido (art. 344.º, n.º 1, al. b), CPI)",
+        "motivo": "O art. 347.º, n.º 4, CPI trata dos danos não patrimoniais; o acesso aos dados contabilísticos do infrator está nos arts. 339.º, n.º 2, e 344.º CPI.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0344&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Danos não patrimoniais: dano reputacional da marca (art. 347.º, n.º 2, CPI)",
+        "para": "- Danos não patrimoniais: dano reputacional da marca (art. 347.º, n.º 4, CPI)",
+        "motivo": "Os danos não patrimoniais estão no n.º 4 do art. 347.º CPI; o n.º 2 fixa os critérios patrimoniais.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0347&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "[Art. 347.º CPI / art. 211.º CDADC / art. 13.º Lei n.º 93/2021]",
+        "para": "[Art. 347.º CPI / art. 211.º CDADC / art. 13.º da Diretiva 2004/48/CE; segredos comerciais: art. 347.º CPI e art. 14.º da Diretiva (UE) 2016/943]",
+        "motivo": "Retirada a Lei n.º 93/2021 (denunciantes); os segredos comerciais regem-se pelo art. 347.º CPI e pela Diretiva (UE) 2016/943.",
+        "fonte": "https://publications.europa.eu/resource/celex/32016L0943"
+      },
+      {
+        "de": "**IV. PEDIDO DE PRESTAÇÃO DE CONTAS (ALTERNATIVO)**\n[Se os dados do infrator não estão disponíveis, requerer condenação a prestar contas (art. 347.º, n.º 4, CPI) para liquidação posterior]",
+        "para": "**IV. OBTENÇÃO DE ELEMENTOS DO INFRATOR E LIQUIDAÇÃO POSTERIOR (ALTERNATIVO)**\n[Se os dados do infrator não estão disponíveis, requerer a apresentação dos elementos de prova e a prestação de informações (arts. 339.º e 344.º CPI) e, se ainda não for possível quantificar, formular pedido genérico a concretizar por liquidação (art. 556.º, n.º 1, al. b), e n.º 2, CPC; art. 358.º CPC); na impossibilidade de apurar o prejuízo efetivo, pedir a fixação por equidade (art. 347.º, n.º 5, CPI)]",
+        "motivo": "O art. 347.º, n.º 4, CPI não prevê a prestação de contas; os meios próprios são os arts. 339.º e 344.º CPI, com pedido genérico e liquidação nos termos do CPC.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0556&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Confirmar na jurisprudência recente se o lucro do infrator é tratado como critério de cálculo do dano ou como restituição autónoma, antes de o apresentar como metodologia isolada.",
+      "Os honorários de mandatário entram nos «encargos com a proteção, a investigação e a cessação da conduta lesiva» (art. 347.º, n.os 2 e 7, CPI) só na medida em que estejam comprovados; articular com as custas de parte.",
+      "Segredo comercial: confirmar primeiro que a informação reúne os três requisitos do art. 313.º, n.º 1, CPI e que o ato é ilícito à luz do art. 314.º CPI.",
+      "Prescrição: 5 anos na violação de segredos comerciais, a contar do momento em que o direito puder ser exercido (art. 353.º, n.º 1, CPI); nos restantes direitos, confirmar o prazo aplicável (art. 498.º CC)."
+    ],
+    "fontes": [
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0347&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0339&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0344&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0313&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0314&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0353&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=484A0211&nid=484&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0556&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://publications.europa.eu/resource/celex/32016L0943"
+    ]
+  },
+  {
+    "codigo": "PI-053",
+    "veredicto": "corrigida",
+    "resumo": "Os elementos da notificação do art. 16.º, n.º 2, DSA estavam mal reproduzidos: são quatro (não cinco) e a declaração de boa-fé confirma que as informações são exatas e completas (a ficha dizia «inexata»). A «responsabilidade por notificações de má-fé» era atribuída ao art. 16.º, n.º 6, que trata do tratamento das notificações pelo prestador; a consequência das notificações manifestamente infundadas está no art. 23.º, n.º 2, e a responsabilidade civil segue o regime geral. Corrigiram-se ainda o escalonamento (reclamação interna, resolução extrajudicial e reclamação à ANACOM, em vez de «EUIPO Brand Protection / Trusted Flagger»), o prazo de resposta (o DSA não fixa 24-72 h), a prova de titularidade do direito de autor e o enquadramento do DMCA.",
+    "substituicoes": [
+      {
+        "de": "— Alerta para a responsabilidade por notificações de má-fé (art. 16.º, n.º 6, DSA).",
+        "para": "— Alerta para as consequências das notificações abusivas: as plataformas em linha suspendem, por um período razoável e após aviso prévio, o tratamento das notificações de quem apresente com frequência notificações manifestamente infundadas (art. 23.º, n.º 2, DSA), e a remoção obtida com alegações falsas pode gerar responsabilidade civil nos termos gerais (art. 483.º CC).",
+        "motivo": "O art. 16.º, n.º 6, DSA regula o tratamento das notificações pelo prestador; a reação às notificações manifestamente infundadas está no art. 23.º, n.º 2, DSA.",
+        "fonte": "https://publications.europa.eu/resource/celex/32022R2065"
+      },
+      {
+        "de": "— Adapta a notificação para a plataforma específica (YouTube, Instagram, Amazon, Etsy, TikTok, etc.).",
+        "para": "— Adapta a notificação para a plataforma específica (YouTube, Instagram, Amazon, Etsy, TikTok, etc.).\n— O DMCA (17 U.S.C. § 512) é lei dos Estados Unidos: só releva quando a plataforma trata a notificação nesse regime (formulários «DMCA»); perante serviços intermediários oferecidos a destinatários na União, a base é o art. 16.º DSA (art. 2.º, n.º 1, DSA).",
+        "motivo": "O título refere o DMCA sem o enquadrar; o DSA aplica-se aos serviços oferecidos a destinatários na União, independentemente do local de estabelecimento do prestador.",
+        "fonte": "https://publications.europa.eu/resource/celex/32022R2065"
+      },
+      {
+        "de": "a) Explicação suficientemente fundamentada das razões pelas quais a informação constitui conteúdo ilícito\nb) Indicação do local exato da informação (URL)\nc) Nome e endereço de correio eletrónico do notificante\nd) Declaração de boa-fé de que a informação é inexata\ne) Declaração de que o conteúdo das notificações é correto e completo\n[Verificar requisitos específicos adicionais de cada plataforma]",
+        "para": "a) Explicação suficientemente fundamentada das razões pelas quais o notificante alega que a informação constitui conteúdo ilegal\nb) Indicação clara da localização eletrónica exata da informação (o URL ou os URL exatos) e, se necessário, informações adicionais que permitam identificar o conteúdo ilegal\nc) Nome e endereço de correio eletrónico do notificante (salvo nos crimes referidos nos arts. 3.º a 7.º da Diretiva 2011/93/UE)\nd) Declaração que confirme a boa-fé do notificante e que as informações e alegações contidas na notificação são exatas e completas\n[São quatro elementos; a notificação completa dá lugar a conhecimento efetivo para efeitos do art. 6.º DSA (art. 16.º, n.º 3, DSA). Verificar requisitos específicos adicionais de cada plataforma]",
+        "motivo": "O art. 16.º, n.º 2, DSA enumera quatro elementos; a declaração de boa-fé confirma que as informações são exatas e completas, não «inexatas».",
+        "fonte": "https://publications.europa.eu/resource/celex/32022R2065"
+      },
+      {
+        "de": "- Mecanismo de escalonamento após ausência de resposta: [EUIPO Brand Protection / Trusted Flagger DSA]",
+        "para": "- Escalonamento: perante decisão desfavorável, reclamação no sistema interno de gestão de reclamações da plataforma em linha (art. 20.º DSA, disponível durante pelo menos seis meses após a decisão; não exigível às micro e pequenas empresas — art. 19.º DSA) e resolução extrajudicial por organismo certificado (art. 21.º DSA); perante falta de resposta ou outra infração ao DSA, reclamação à ANACOM, Coordenador dos Serviços Digitais (art. 53.º DSA; art. 5.º, n.º 1, da Lei n.º 12-A/2026). O estatuto de sinalizador de confiança (art. 22.º DSA) é concedido pelo coordenador dos serviços digitais a entidades que o requeiram e cumpram condições próprias; não é uma via de escalonamento ao dispor de qualquer titular",
+        "motivo": "«EUIPO Brand Protection» não é um mecanismo do DSA e o sinalizador de confiança é um estatuto atribuído pelo coordenador; as vias de reação são as dos arts. 20.º, 21.º e 53.º DSA, sendo a ANACOM o coordenador em Portugal.",
+        "fonte": "https://files.diariodarepublica.pt/1s/2026/04/07301/0000200025.pdf"
+      },
+      {
+        "de": "- Prova de titularidade: [certidão de registo / declaração de autoria / link para copyright.gov / INPI]",
+        "para": "- Prova de titularidade: [certidão de registo da marca (INPI / EUIPO) / declaração de autoria e prova da criação — o direito de autor não depende de registo (art. 12.º CDADC) / registo no U.S. Copyright Office, se existir]",
+        "motivo": "O direito de autor é reconhecido independentemente de registo; o INPI regista direitos de propriedade industrial e o copyright.gov é o registo norte-americano.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=484A0012&nid=484&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- [ ] Monitorização do prazo de resposta da plataforma (geralmente 24-72h)",
+        "para": "- [ ] Monitorização da resposta da plataforma (o DSA não fixa prazo: exige aviso de receção e comunicação da decisão sem demora injustificada, e tratamento atempado, diligente, não arbitrário e objetivo — art. 16.º, n.os 4 a 6, DSA)",
+        "motivo": "O DSA não fixa um prazo de 24-72 h; impõe resposta sem demora injustificada e tratamento atempado.",
+        "fonte": "https://publications.europa.eu/resource/celex/32022R2065"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Confirmar o regulamento da ANACOM sobre a tramitação das reclamações do art. 53.º DSA ao abrigo da Lei n.º 12-A/2026.",
+      "Nas plataformas que são micro ou pequenas empresas não há sistema interno de reclamações nem suspensão por abuso (art. 19.º DSA); a via é a reclamação ao coordenador ou o tribunal.",
+      "Nas notificações em regime DMCA, ter presente que o visado pode apresentar contranotificação e que as declarações falsas têm consequências no direito norte-americano; confirmar os requisitos do 17 U.S.C. § 512(c)(3) se se optar por essa via.",
+      "Para conteúdos protegidos por direito de autor em plataformas de partilha de conteúdos, confirmar o regime específico do CDADC que transpôs o art. 17.º da Diretiva (UE) 2019/790."
+    ],
+    "fontes": [
+      "https://publications.europa.eu/resource/celex/32022R2065",
+      "https://files.diariodarepublica.pt/1s/2026/04/07301/0000200025.pdf",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=484A0012&nid=484&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.law.cornell.edu/uscode/text/17/512",
+      "https://diariodarepublica.pt/dr/detalhe/lei/12-a-2026-1086140524"
+    ]
+  }
+]

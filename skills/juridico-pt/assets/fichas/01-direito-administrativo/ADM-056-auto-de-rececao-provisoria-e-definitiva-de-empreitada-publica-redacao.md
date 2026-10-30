@@ -81,7 +81,7 @@ Nos termos do artigo 397.º do CCP, o dono da obra notifica V. Ex.ª de que fora
 
 [LISTA DE DEFEITOS: descrição, localização, data de deteção]
 
-O empreiteiro deve eliminar os defeitos no prazo de [X] dias. Se não o fizer, o dono da obra activará a caução e mandará realizar os trabalhos por terceiro à custa do empreiteiro (art. 400.º CCP [■ VERIFICAR: o art. 400.º CCP trata dos elementos da conta; a execução da caução está no art. 296.º e a garantia no art. 397.º CCP]).
+O empreiteiro deve eliminar os defeitos no prazo de [X] dias. Se não o fizer, o dono da obra ativará a caução e mandará realizar os trabalhos por terceiro à custa do empreiteiro (art. 400.º CCP [■ VERIFICAR: o art. 400.º CCP trata dos elementos da conta; a execução da caução está no art. 296.º e a garantia no art. 397.º CCP]).
 
 ### ETAPA 5 — CHECKLIST
 Apresenta em <checklist_validacao>:

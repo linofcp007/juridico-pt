@@ -34,7 +34,7 @@ Apresenta em <analise_do_caso>:
 - Sociedades envolvidas e sua residência fiscal
 - Ativos e passivos objeto da operação
 - Verificação dos requisitos de aplicação do regime (arts. 73.º e 74.º CIRC)
-- Motivação económica e empresarial (anti-abuso — art. 73.º, n.º 10, CIRC)
+- Motivação económica e empresarial (antiabuso — art. 73.º, n.º 10, CIRC)
 
 ### ETAPA 2 — ANÁLISE JURÍDICA
 Apresenta em <fundamentos_juridicos>:
@@ -43,7 +43,7 @@ Apresenta em <fundamentos_juridicos>:
 - Art. 76.º CIRC: regime dos sócios das sociedades fundidas/cindidas — não tributação das mais-valias de permuta de partes sociais
 - Art. 74.º CIRC: entradas de ativos — regime de neutralidade similar
 - Art. 77.º CIRC: permuta de partes sociais
-- Art. 73.º, n.º 10, CIRC: cláusula anti-abuso específica — a operação deve ter razões económicas válidas e não ser artificialmente construída para obtenção de vantagens fiscais
+- Art. 73.º, n.º 10, CIRC: cláusula antiabuso específica — a operação deve ter razões económicas válidas e não ser artificialmente construída para obtenção de vantagens fiscais
 - Art. 78.º CIRC [■ VERIFICAR: o art. 78.º CIRC regula as obrigações acessórias da operação; confirmar a base legal de um acordo prévio com a AT]: possibilidade de acordo prévio com a AT
 - Implicações em IRS dos sócios pessoas singulares (art. 77.º CIRC + art. 10.º, n.º 8, CIRS)
 
@@ -66,7 +66,7 @@ Define em <estrutura_documento>:
 **II — ENQUADRAMENTO NO REGIME DE NEUTRALIDADE FISCAL**
 [Verificação de cada requisito dos arts. 73.º a 77.º CIRC]
 
-**III — MOTIVAÇÃO ECONÓMICA** (anti-abuso, art. 73.º, n.º 10, CIRC)
+**III — MOTIVAÇÃO ECONÓMICA** (antiabuso, art. 73.º, n.º 10, CIRC)
 [Razões empresariais: simplificação estrutural, redução de custos, sinergias, acesso a capital]
 
 **IV — CONSEQUÊNCIAS FISCAIS DA OPERAÇÃO**
@@ -80,7 +80,7 @@ Apresenta em <checklist_validacao>:
 - [ ] Tipo de operação identificado e artigo do CIRC aplicável
 - [ ] Residência das sociedades envolvidas verificada
 - [ ] Requisitos formais do CIRC (arts. 73.º-77.º) cumpridos
-- [ ] Motivação económica documentada (anti-abuso)
+- [ ] Motivação económica documentada (antiabuso)
 - [ ] Implicações fiscais para sócios pessoas singulares analisadas
 - [ ] Acordo prévio AT considerado (art. 78.º CIRC [■ VERIFICAR: o art. 78.º CIRC regula as obrigações acessórias da operação; confirmar a base legal de um acordo prévio com a AT])
 - [ ] [■ VERIFICAR] itens sinalizados

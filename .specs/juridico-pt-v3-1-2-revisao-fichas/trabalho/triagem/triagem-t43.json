@@ -1,0 +1,165 @@
+[
+  {"codigo": "DIG-002", "triagem": "ok"},
+  {"codigo": "DIG-003", "triagem": "ok"},
+  {
+    "codigo": "DIG-004",
+    "triagem": "rever",
+    "gravidade": "media",
+    "motivos": [
+      "Descreve o acórdão TJUE C-645/19 (Facebook Ireland / autoridade belga) como «responsabilidade conjunta do operador de rede social»; esse acórdão trata da competência das autoridades de controlo e do balcão único, não da responsabilidade conjunta. A jurisprudência pertinente é C-210/16, C-40/17 e C-25/17 (Jehovan todistajat) (a confirmar)."
+    ]
+  },
+  {"codigo": "DIG-005", "triagem": "ok"},
+  {
+    "codigo": "DIG-007",
+    "triagem": "rever",
+    "gravidade": "baixa",
+    "motivos": [
+      "A lista dos «9 critérios WP248» não corresponde ao WP248 rev.01: inclui «transferência além-fronteiras com riscos adicionais», que não é critério do WP248, e dilui a «larga escala» (critério autónomo) noutros critérios. A própria ficha proíbe inventar critérios."
+    ]
+  },
+  {"codigo": "DIG-009", "triagem": "rever", "gravidade": "media", "motivos": [
+      "Indica o art. 83.º, n.º 4 RGPD (até 10 M€ ou 2%) como moldura aplicável ao incumprimento dos pedidos de titulares; as violações dos direitos dos titulares (arts. 12.º a 22.º) cabem no art. 83.º, n.º 5, al. b): até 20 M€ ou 4% do volume de negócios."
+    ]
+  },
+  {"codigo": "DIG-010", "triagem": "ok"},
+  {
+    "codigo": "DIG-011",
+    "triagem": "rever",
+    "gravidade": "baixa",
+    "motivos": [
+      "Morada da CNPD (Rua de São Bento, 148-3.º, 1200-821 Lisboa) parece desatualizada: a CNPD tem sede na Av. D. Carlos I, 134, 1.º, 1200-651 Lisboa (a confirmar em cnpd.pt)."
+    ]
+  },
+  {
+    "codigo": "DIG-012",
+    "triagem": "rever",
+    "gravidade": "baixa",
+    "motivos": [
+      "A carta-tipo dirigida à CNPD usa a morada antiga (Rua de São Bento, 148-3.º, 1200-821 Lisboa); a sede atual é na Av. D. Carlos I, 134, 1.º, 1200-651 Lisboa (a confirmar em cnpd.pt)."
+    ]
+  },
+  {
+    "codigo": "DIG-013",
+    "triagem": "rever",
+    "gravidade": "media",
+    "motivos": [
+      "Fundamenta o direito de audição no «art. 83.º, n.º 3 RGPD», que regula o concurso de infrações (montante total limitado ao da infração mais grave) e não a audição do arguido (esta decorre do art. 50.º RGCO); o erro repete-se na peça-tipo.",
+      "Atribui ao «art. 83.º, n.º 2 in fine» a substituição da coima por advertência, com uma citação entre aspas («as circunstâncias do caso concreto») que não consta da norma; a base é o art. 58.º, n.º 2, al. b), o art. 83.º, n.º 2 (1.ª parte) e o considerando 148 RGPD, mais o regime da Lei 58/2019 (a confirmar).",
+      "Indica o «Tribunal Administrativo de Círculo de Lisboa» como tribunal competente para a impugnação das coimas da CNPD sem base legal nacional referida; a confirmar o tribunal competente (Lei 58/2019, ETAF, LOSJ). A impugnação é deduzida perante a autoridade que aplicou a coima (art. 59.º RGCO), não diretamente no tribunal."
+    ]
+  },
+  {
+    "codigo": "DIG-014",
+    "triagem": "rever",
+    "gravidade": "baixa",
+    "motivos": [
+      "Atribui o teste de 3 passos do interesse legítimo às «Orientações EDPB 6/2020»; as Orientações 06/2020 do CEPD tratam da interação entre a PSD2 e o RGPD. As fontes pertinentes são o Parecer 06/2014 do WP29 e as Orientações 1/2024 do CEPD sobre o interesse legítimo (a confirmar).",
+      "Afirma que na base contratual não há portabilidade para dados tratados antes do contrato; o art. 20.º, n.º 1, al. a) RGPD cobre o tratamento necessário à execução do contrato ou a diligências pré-contratuais, pelo que a formulação é enganadora (a confirmar)."
+    ]
+  },
+  {"codigo": "DIG-016", "triagem": "ok"},
+  {"codigo": "DIG-017", "triagem": "ok"},
+  {
+    "codigo": "DIG-018",
+    "triagem": "rever",
+    "gravidade": "baixa",
+    "motivos": [
+      "Endereça a reclamação à morada antiga da CNPD (Rua de São Bento, 148-3.º, 1200-821 Lisboa); a sede atual é na Av. D. Carlos I, 134, 1.º, 1200-651 Lisboa (a confirmar em cnpd.pt)."
+    ]
+  },
+  {
+    "codigo": "DIG-019",
+    "triagem": "rever",
+    "gravidade": "media",
+    "motivos": [
+      "Qualifica o art. 82.º RGPD como «responsabilidade objetiva»; o TJUE (C-667/21 e C-340/21) entende que é responsabilidade subjetiva com culpa presumida (o responsável exonera-se provando que não é de modo algum responsável pelo facto).",
+      "O cabeçalho da petição indica «rito [ordinário / abreviado]»: desde o CPC de 2013 só existe o processo comum; não há rito ordinário nem abreviado (nem sumário ou sumaríssimo).",
+      "Pede a condenação em «custas e honorários advocatícios», à maneira brasileira: em Portugal não há condenação autónoma em honorários; a parte vencedora recupera custas de parte (arts. 527.º e 533.º CPC; arts. 25.º e 26.º RCP), com compensação limitada pelos honorários do mandatário.",
+      "Afirma sem distinção a competência dos tribunais cíveis; nas ações contra entidades públicas (hospital público, município, etc.) a responsabilidade civil extracontratual é da competência dos tribunais administrativos (ETAF, art. 4.º; Lei 67/2007) (a confirmar).",
+      "Pede juros desde a citação sobre o dano não patrimonial fixado a valores atuais; o AUJ 4/2002 manda contá-los desde a decisão (a confirmar)."
+    ]
+  },
+  {
+    "codigo": "DIG-020",
+    "triagem": "rever",
+    "gravidade": "media",
+    "motivos": [
+      "Exige consentimento parental para menores de 16 anos, citando o art. 16.º da Lei 58/2019; em Portugal a idade do consentimento digital é 13 anos (Lei 58/2019, art. 16.º, que usa a faculdade do art. 8.º RGPD). O limiar de 16 é o supletivo do RGPD, não o português.",
+      "A cláusula 10 faz a aceitação das alterações unilaterais decorrer da mera continuação do uso, mesmo para consumidores; pode ser abusiva (DL 446/85) e não respeita o regime de modificação de conteúdos e serviços digitais do DL 84/2021 (motivo válido e direito de resolução) (a confirmar)."
+    ]
+  },
+  {
+    "codigo": "DIG-021",
+    "triagem": "rever",
+    "gravidade": "media",
+    "motivos": [
+      "Atribui ao DL 84/2021 o direito de arrependimento em conteúdos digitais e a sua perda com a entrega imediata; o direito de livre resolução nos contratos à distância e a respetiva exceção para conteúdo digital estão no DL 24/2014 (art. 17.º, n.º 1, al. m)). O DL 84/2021 trata da conformidade e dos remédios.",
+      "A cláusula 6.4 faz o consentimento expresso à entrega imediata e o reconhecimento da perda do direito decorrer da aceitação genérica dos termos; o DL 24/2014 exige consentimento prévio expresso e reconhecimento específicos no momento da compra, com confirmação ao consumidor. Sem isso o consumidor mantém o direito de livre resolução (a confirmar).",
+      "Remete para a plataforma ODR da Comissão Europeia (ec.europa.eu/consumers/odr); o Regulamento (UE) 2024/3228 revogou o Regulamento ODR e a plataforma foi encerrada em 20.07.2025.",
+      "Invoca um «Código do Consumidor» como fonte imperativa (etapa 2 e cláusula 10.2); Portugal não tem Código do Consumidor em vigor (a confirmar). Aplicam-se a Lei 24/96, o DL 57/2008, o DL 24/2014 e o DL 84/2021.",
+      "Exige consentimento parental a menores de 16 anos (art. 8.º RGPD); em Portugal a idade é 13 anos (Lei 58/2019, art. 16.º)."
+    ]
+  },
+  {"codigo": "DIG-024", "triagem": "rever", "gravidade": "baixa", "motivos": [
+      "A «Deliberação CNPD n.º 7/2014» não parece ser a deliberação sobre videovigilância e sinalética (a n.º 7680/2014 trata de geolocalização no contexto laboral); a confirmar a referência correta.",
+      "Refere que o art. 20.º CT pode exigir «autorização da comissão de trabalhadores»; no CT (arts. 20.º e 21.º) a comissão de trabalhadores emite parecer e os trabalhadores têm de ser informados, não há autorização dela. A autorização prévia da CNPD deixou de ser exigida com o RGPD (a confirmar).",
+      "Cita o art. 20.º, n.º 1 CT como proibição de câmaras em vestiários e casas de banho; esse número proíbe a vigilância à distância para controlo do desempenho profissional."
+    ]
+  },
+  {"codigo": "DIG-026", "triagem": "rever", "gravidade": "media", "motivos": [
+      "Atribui as «Listas Robinson» ao DL 57/2008 (práticas comerciais desleais), diploma errado; a lista de oposição decorre da Lei 41/2004 e do DL 7/2004 (art. 22.º) (a confirmar).",
+      "O regime geral das comunicações não solicitadas está no art. 13.º-A da Lei 41/2004 (aditado pela Lei 46/2012), não no art. 13.º; e o art. 14.º não regula «identificação do chamador» em marketing telefónico.",
+      "Não distingue as chamadas com intervenção humana (regime de oposição / lista de oposição) das chamadas automáticas, fax, email e SMS (consentimento prévio), embora a ficha mande distinguir canais (a confirmar)."
+    ]
+  },
+  {"codigo": "DIG-027", "triagem": "ok"},
+  {
+    "codigo": "DIG-028",
+    "triagem": "rever",
+    "gravidade": "media",
+    "motivos": [
+      "O calendário do AI Act é dado como certo («alto risco desde agosto de 2026», «antes de agosto de 2026»), mas essa data já passou e o «Digital Omnibus» sobre IA propõe adiar as obrigações de alto risco (Anexo III para dez. 2027; Anexo I para ago. 2028); a confirmar o estado de adoção e as datas em vigor.",
+      "Descreve a proibição de pontuação social (social scoring) como restrita a «entidades públicas»; o art. 5.º, n.º 1, al. c) do AI Act aplica-se a qualquer operador, público ou privado.",
+      "Omite a literacia em IA (art. 4.º), aplicável desde 2.02.2025 a fornecedores e responsáveis pela implantação (a confirmar)."
+    ]
+  },
+  {
+    "codigo": "DIG-029",
+    "triagem": "rever",
+    "gravidade": "media",
+    "motivos": [
+      "Diz que a NIS2 foi «transposta pela Lei n.º 65/2021»; o DL 65/2021 regulamenta o Regime Jurídico da Segurança do Ciberespaço (Lei 46/2018), que transpôs a NIS1 (Dir. 2016/1148). A NIS2 (Dir. 2022/2555) é transposta por novo regime jurídico da cibersegurança (DL 125/2025, a confirmar).",
+      "Usa as categorias NIS1 («operadores de serviços essenciais» e «fornecedores digitais») e pergunta «sujeita a NIS2?» nesses termos; na NIS2 as categorias são entidades essenciais e importantes, de âmbito muito mais vasto, pelo que o diagnóstico pode concluir erradamente pela inaplicabilidade.",
+      "Mistura regimes: os prazos de 24h, 72h e 1 mês são os da NIS2 (art. 23.º), não os do regime NIS1 em que a ficha enquadra os destinatários."
+    ]
+  },
+  {
+    "codigo": "DIG-030",
+    "triagem": "rever",
+    "gravidade": "media",
+    "motivos": [
+      "Apresenta o registo de atividades de tratamento como obrigatório só a partir de 250 trabalhadores e «recomendado» às restantes, salvo risco; o art. 30.º, n.º 5 RGPD afasta a isenção também quando o tratamento não é ocasional ou abrange categorias especiais. Como o tratamento de dados de trabalhadores (processamento salarial) não é ocasional, a generalidade das PME está obrigada ao registo."
+    ]
+  },
+  {
+    "codigo": "DIG-031",
+    "triagem": "rever",
+    "gravidade": "media",
+    "motivos": [
+      "Descreve o art. 28.º da Lei 58/2019 como «proibição de uso de dados biométricos para controlo de trabalhadores salvo exceções», sujeita à ausência de meios menos intrusivos; a Lei 58/2019 (art. 28.º, n.º 6, a confirmar) admite o tratamento de dados biométricos de trabalhadores para controlo de assiduidade e de acessos, apenas com representações não reversíveis dos dados.",
+      "Apresenta o art. 5.º do AI Act como proibição genérica de «videovigilância para reconhecimento facial em espaços públicos»; a proibição visa a identificação biométrica remota em tempo real em espaços acessíveis ao público para efeitos de aplicação da lei (com exceções) e a recolha indiscriminada de imagens faciais; o uso privado fica sujeito ao RGPD e à classificação de alto risco (a confirmar)."
+    ]
+  },
+  {"codigo": "DIG-032", "triagem": "ok"},
+  {
+    "codigo": "DIG-033",
+    "triagem": "rever",
+    "gravidade": "baixa",
+    "motivos": [
+      "O 9.º dos «nove critérios WP248» («transferência de dados para fora da UE com risco para titulares») não consta do WP248 rev.01; o 9.º critério do WP248 é o tratamento que impede o titular de exercer um direito ou de usar um serviço ou contrato. A própria ficha proíbe inventar critérios.",
+      "A decisão de triagem não ressalva os casos de AIPD obrigatória por força direta do art. 35.º, n.º 3 RGPD, independentemente do número de critérios."
+    ]
+  },
+  {"codigo": "DIG-034", "triagem": "ok"}
+]

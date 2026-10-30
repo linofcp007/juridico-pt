@@ -3,20 +3,22 @@ codigo: COM-058
 area: "Direito Comercial e das Sociedades"
 titulo: "Acordo de Reestruturação de Dívida entre Sociedades (Standstill)"
 titulo_en: "Inter-Company Debt Restructuring Agreement (Standstill)"
-descricao: "Redige acordo de standstill e reestruturação de dívida comercial entre sociedades, pelo qual os credores se comprometem a não executar os seus créditos durante um período de tempo definido, para permitir a negociação de um plano de reestruturação, ao abrigo dos arts. 405.º e 406.º do CC (liberdade contratual) e em articulação com o Regime Extrajudicial de Recuperação de Empresas (RERE — DL n.º 79/2017, de 30 de junho) e o PER (arts. 17.º-A e ss. CIRE)."
-descricao_en: "Drafts a standstill and commercial debt restructuring agreement between companies, under which the creditors undertake not to enforce their claims for a defined period so that a restructuring plan can be negotiated, under Articles 405 and 406 CC (freedom of contract) and in conjunction with the Out-of-Court Business Recovery Regime (RERE — Decree-Law No. 79/2017 of 30 June) and the Special Revitalisation Procedure (PER, Articles 17-A et seq. CIRE)."
+descricao: "Redige acordo de standstill e reestruturação de dívida comercial entre sociedades, pelo qual os credores se comprometem a não executar os seus créditos durante um período de tempo definido, para permitir a negociação de um plano de reestruturação, ao abrigo dos arts. 405.º e 406.º do CC (liberdade contratual) e em articulação com o Regime Extrajudicial de Recuperação de Empresas (RERE — Lei n.º 8/2018, de 2 de março) e o PER (arts. 17.º-A e ss. CIRE)."
+descricao_en: "Drafts a standstill and commercial debt restructuring agreement between companies, under which the creditors undertake not to enforce their claims for a defined period so that a restructuring plan can be negotiated, under Articles 405 and 406 CC (freedom of contract) and in conjunction with the Out-of-Court Business Recovery Regime (RERE — Law No. 8/2018 of 2 March) and the Special Revitalisation Procedure (PER, Articles 17-A et seq. CIRE)."
 ambito: nacional
-estado_citacoes: "conferidas 5 · corrigidas 0 · por conferir 0"
+estado_citacoes: "conferidas 6 · corrigidas 0 · por conferir 12"
+revisao_tecnica: "2026-10-28 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
 # Acordo de Reestruturação de Dívida entre Sociedades (Standstill)
 
 > **Âmbito:** nacional · **Área:** Direito Comercial e das Sociedades · **Código:** COM-058
-> **EN:** Inter-Company Debt Restructuring Agreement (Standstill). Drafts a standstill and commercial debt restructuring agreement between companies, under which the creditors undertake not to enforce their claims for a defined period so that a restructuring plan can be negotiated, under Articles 405 and 406 CC (freedom of contract) and in conjunction with the Out-of-Court Business Recovery Regime (RERE — Decree-Law No. 79/2017 of 30 June) and the Special Revitalisation Procedure (PER, Articles 17-A et seq. CIRE).
-> **Citações:** conferidas 5 · corrigidas 0 · por conferir 0. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **EN:** Inter-Company Debt Restructuring Agreement (Standstill). Drafts a standstill and commercial debt restructuring agreement between companies, under which the creditors undertake not to enforce their claims for a defined period so that a restructuring plan can be negotiated, under Articles 405 and 406 CC (freedom of contract) and in conjunction with the Out-of-Court Business Recovery Regime (RERE — Law No. 8/2018 of 2 March) and the Special Revitalisation Procedure (PER, Articles 17-A et seq. CIRE).
+> **Citações:** conferidas 6 · corrigidas 0 · por conferir 12. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-28 — corrigida (3 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
-Redige acordo de standstill e reestruturação de dívida comercial entre sociedades, pelo qual os credores se comprometem a não executar os seus créditos durante um período de tempo definido, para permitir a negociação de um plano de reestruturação, ao abrigo dos arts. 405.º e 406.º do CC (liberdade contratual) e em articulação com o Regime Extrajudicial de Recuperação de Empresas (RERE — DL n.º 79/2017, de 30 de junho) e o PER (arts. 17.º-A e ss. CIRE).
+Redige acordo de standstill e reestruturação de dívida comercial entre sociedades, pelo qual os credores se comprometem a não executar os seus créditos durante um período de tempo definido, para permitir a negociação de um plano de reestruturação, ao abrigo dos arts. 405.º e 406.º do CC (liberdade contratual) e em articulação com o Regime Extrajudicial de Recuperação de Empresas (RERE — Lei n.º 8/2018, de 2 de março) e o PER (arts. 17.º-A e ss. CIRE).
 
 ## Método
 
@@ -41,9 +43,9 @@ Dentro de <analise_da_situacao>:
 ### ETAPA 2 — ANÁLISE JURÍDICA
 Dentro de <fundamentos_juridicos>:
 - Acordo de standstill: contrato atípico ao abrigo do art. 405.º CC; vincula apenas as partes signatárias
-- RERE (DL 79/2017): processo extrajudicial confidencial, voluntário; suspende ações por credores participantes durante as negociações; não vincula não participantes
-- PER (arts. 17.º-A a 17.º-J CIRE): processo judicial, suspende todas as ações; vincula credores mesmo não participantes se aprovado por maioria
-- Dever de apresentação à insolvência: art. 18.º CIRE — 30 dias após situação de insolvência; o standstill não suspende este dever; avaliar cuidadosamente
+- RERE (Lei n.º 8/2018, de 2 de março; o DL n.º 79/2017 apenas alterou o CIRE): regime extrajudicial voluntário e confidencial (arts. 2.º, 4.º e 8.º), para devedores em situação económica difícil ou de insolvência iminente (art. 3.º, n.º 1); o protocolo de negociação é assinado pelo devedor e por credores que representem pelo menos 15 % do passivo não subordinado e depositado na Conservatória do Registo Comercial (art. 6.º, n.º 1), com negociações de três meses no máximo (art. 6.º, n.º 5), e contém o compromisso das partes de não instaurarem execuções nem pedirem a insolvência do devedor durante esse prazo (art. 7.º, n.º 1, al. e)); a participação do credor que tenha requerido a insolvência suspende esse processo (art. 11.º, n.º 1); o acordo de reestruturação só afeta os créditos dos credores que o subscrevam (arts. 11.º, n.º 3, e 19.º, n.º 5)
+- PER (arts. 17.º-A a 17.º-J CIRE): processo judicial para empresa em situação económica difícil ou de insolvência iminente (art. 17.º-A, n.º 1); a decisão de nomeação do administrador judicial provisório obsta à instauração e suspende as ações executivas para cobrança de créditos durante quatro meses, prorrogáveis por um mês (art. 17.º-E, n.ºs 1 e 2), salvo as de créditos laborais (n.º 4), e suspende os processos de insolvência (n.º 9); o plano homologado vincula a empresa e os credores, mesmo os que não participaram nas negociações (art. 17.º-F, n.º 11); um acordo extrajudicial subscrito pelas maiorias legais pode ser apresentado para homologação (art. 17.º-I)
+- Dever de apresentação à insolvência: art. 18.º CIRE — 30 dias seguintes à data do conhecimento da situação de insolvência ou à data em que devesse conhecê-la; o standstill não suspende este dever (só o afasta a apresentação a PER, durante a suspensão das medidas de execução — art. 18.º, n.º 2, al. a)); avaliar cuidadosamente
 - Responsabilidade dos administradores: continuar a gerir em situação de insolvência sem se apresentar pode gerar qualificação culposa
 
 ### ETAPA 3 — ESTRUTURA DO ACORDO
@@ -101,7 +103,7 @@ As partes comprometem-se a manter confidenciais os termos do presente acordo e a
 Se não for alcançado acordo sobre o plano de reestruturação no Período de Standstill, os créditos voltam a ser exigíveis nas condições originais, salvo prorrogação acordada por escrito.
 
 **CLÁUSULA 6.ª — LEI E MEDIAÇÃO**
-O presente acordo é regulado pela lei portuguesa. Qualquer litígio será submetido a mediação no [IAPMEI / CACM] antes de qualquer ação judicial.
+O presente acordo é regulado pela lei portuguesa. Qualquer litígio será submetido a mediação [entidade a indicar] antes de qualquer ação judicial. [■ VERIFICAR: entidade de mediação — o mediador de recuperação de empresas (Lei n.º 6/2018) assiste o devedor nas negociações com os credores, não resolve litígios entre as partes do acordo]
 
 Data e assinaturas de todos os outorgantes.
 
@@ -113,7 +115,7 @@ Dentro de <checklist_validacao>:
 - [ ] Cláusula de cessação antecipada clara e objetiva
 - [ ] Dever de apresentação à insolvência avaliado (art. 18.º CIRE) — se a empresa já está insolvente, o standstill não suspende esse dever
 - [ ] Confidencialidade acordada expressamente
-- [ ] Considerar articulação com RERE (DL 79/2017) para maior eficácia
+- [ ] Considerar sujeitar as negociações ao RERE (Lei n.º 8/2018 — protocolo depositado, assinado por credores que representem pelo menos 15 % do passivo não subordinado) ou levar o acordo a homologação em PER (art. 17.º-I CIRE), para maior eficácia
 - [ ] [■ VERIFICAR] itens sinalizados
 
 ---
@@ -134,7 +136,20 @@ Dentro de <checklist_validacao>:
 | Citação | Estado | Nota |
 |---|---|---|
 | art. 18.º CIRE | conferida (epígrafe) — Dever de apresentação à insolvência |  |
+| art. 18.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 18.º CIRE | conferida (epígrafe) — Dever de apresentação à insolvência |  |
 | art. 18.º CIRE | conferida (epígrafe) — Dever de apresentação à insolvência |  |
 | art. 405.º CC | conferida (índice) |  |
+| arts. 2.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 3.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 6.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 6.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 7.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 11.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| arts. 11.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | arts. 17.º-A a 17.º-J CIRE | conferida (epígrafe) — Finalidade e natureza do processo especial de revitalização |  |
+| art. 17.º-A | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 17.º-E | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 17.º-F | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 17.º-I | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 17.º-I CIRE | conferida (epígrafe) — Homologação de acordos extrajudiciais de recuperação de empresa |  |

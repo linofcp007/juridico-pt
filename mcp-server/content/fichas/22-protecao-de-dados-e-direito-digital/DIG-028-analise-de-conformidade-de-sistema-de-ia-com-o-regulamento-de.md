@@ -6,7 +6,8 @@ titulo_en: "Compliance Analysis of an AI System under the EU Artificial Intellig
 descricao: "Gera uma Análise de Conformidade de Sistema de IA face ao Regulamento (UE) 2024/1689 (AI Act), classificando o risco do sistema, identificando obrigações aplicáveis ao fornecedor e ao utilizador, e elaborando recomendações para adequação regulatória."
 descricao_en: "Generates a compliance analysis of an AI system under Regulation (EU) 2024/1689 (AI Act), classifying the system's risk, identifying the obligations applicable to the provider and the user, and preparing recommendations for regulatory compliance."
 ambito: nacional
-estado_citacoes: "conferidas 0 · corrigidas 0 · por conferir 21"
+estado_citacoes: "conferidas 0 · corrigidas 0 · por conferir 33"
+revisao_tecnica: "2026-10-28 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
@@ -14,7 +15,8 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 
 > **Âmbito:** nacional · **Área:** Proteção de Dados e Direito Digital · **Código:** DIG-028
 > **EN:** Compliance Analysis of an AI System under the EU Artificial Intelligence Regulation. Generates a compliance analysis of an AI system under Regulation (EU) 2024/1689 (AI Act), classifying the system's risk, identifying the obligations applicable to the provider and the user, and preparing recommendations for regulatory compliance.
-> **Citações:** conferidas 0 · corrigidas 0 · por conferir 21. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 0 · corrigidas 0 · por conferir 33. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-28 — corrigida (11 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
 Gera uma Análise de Conformidade de Sistema de IA face ao Regulamento (UE) 2024/1689 (AI Act), classificando o risco do sistema, identificando obrigações aplicáveis ao fornecedor e ao utilizador, e elaborando recomendações para adequação regulatória.
 
@@ -26,8 +28,8 @@ Ficha de trabalho para preparar este documento. As regras da casa prevalecem sob
 — NUNCA inventes decisões regulatórias, orientações ou números de processo.
 — Se faltarem dados técnicos sobre o sistema, marca [■ VERIFICAR: descreve o que é necessário].
 — Cita artigos reais do AI Act e do RGPD.
-— Distingue claramente os papéis de fornecedor (provider) e utilizador (deployer) nos termos do AI Act.
-— O AI Act tem entrada em vigor faseada: proibições desde 2 de fevereiro de 2025; obrigações para IA de propósito geral desde agosto de 2025; obrigações para alto risco desde agosto de 2026. Indica as datas relevantes.
+— Distingue claramente os papéis de prestador (provider) e responsável pela implantação (deployer), na terminologia da versão portuguesa do AI Act (art. 3.º, pontos 3 e 4); nesta ficha chamam-se, por comodidade, «fornecedor» e «utilizador».
+— O AI Act tem aplicação faseada (art. 113.º, na redação do Regulamento (UE) 2026/1744 — «Omnibus Digital» em matéria de IA, em vigor desde 27 de julho de 2026): proibições e literacia em IA (arts. 4.º e 5.º) desde 2 de fevereiro de 2025, e as novas proibições do art. 5.º, n.º 1, als. b-A) e b-B), desde 2 de dezembro de 2026; obrigações para IA de finalidade geral desde 2 de agosto de 2025; transparência (art. 50.º) desde 2 de agosto de 2026; requisitos e obrigações dos sistemas de risco elevado do anexo III desde 2 de dezembro de 2027 e dos do anexo I (art. 6.º, n.º 1) desde 2 de agosto de 2028. Indica as datas relevantes.
 
 ---
 
@@ -47,14 +49,17 @@ Apresenta dentro de um bloco <caracterizacao_sistema>:
 Apresenta dentro de um bloco <classificacao_risco>:
 
 *Práticas proibidas (AI Act, art. 5.º — proibidas desde 2 de fev. 2025):*
-- Sistemas de pontuação social (social scoring) por entidades públicas
+- Sistemas de classificação social (social scoring) que conduzam a tratamento prejudicial ou desfavorável, por qualquer operador, público ou privado (art. 5.º, n.º 1, al. c))
 - Manipulação subliminal ou exploração de vulnerabilidades
-- Biometria em tempo real em espaços públicos (exceções muito restritas para LE)
+- Identificação biométrica à distância em «tempo real» em espaços acessíveis ao público para efeitos de aplicação da lei, salvo as exceções estritas do art. 5.º, n.º 1, al. h)
+- Avaliação do risco de uma pessoa cometer uma infração penal com base exclusivamente na definição de perfis (al. d)) e criação ou expansão de bases de dados de reconhecimento facial por recolha aleatória de imagens da Internet ou de TVCF (al. e))
+- A partir de 2 de dezembro de 2026: sistemas que gerem ou manipulem imagens íntimas ou sexualmente explícitas de pessoa identificável sem o seu consentimento, ou pornografia infantil e espetáculos pornográficos na aceção da Diretiva 2011/93/UE (als. b-A) e b-B), aditadas pelo Regulamento (UE) 2026/1744)
 - Inferência de emoções no local de trabalho ou estabelecimentos de ensino
 - Classificação biométrica por características sensíveis
 - Verificar se o sistema se enquadra em alguma destas categorias
 
 *Alto risco (AI Act, Anexo III):*
+- Dados biométricos (identificação biométrica à distância, categorização biométrica por atributos sensíveis, reconhecimento de emoções), na medida em que a utilização seja permitida
 - Infraestruturas críticas (energia, água, transportes)
 - Educação e formação profissional
 - Emprego, gestão de trabalhadores, acesso a emprego por conta própria
@@ -71,11 +76,11 @@ Apresenta dentro de um bloco <classificacao_risco>:
 
 *Risco limitado (art. 50.º — transparência):*
 - Chatbots: dever de informar o utilizador de que interage com IA
-- Deepfakes e conteúdo gerado por IA: marcação obrigatória
+- Deepfakes e conteúdo gerado por IA: marcação obrigatória (art. 50.º, n.os 2 e 4, aplicável desde 2 de agosto de 2026); os sistemas que geram conteúdo sintético colocados no mercado antes dessa data têm até 2 de dezembro de 2026 para cumprir o n.º 2 (art. 111.º, n.º 4, aditado pelo Regulamento (UE) 2026/1744)
 
 *Risco mínimo:* sem obrigações específicas do AI Act
 
-*Obrigações para alto risco (obrigatórias a partir de agosto de 2026):*
+*Obrigações para alto risco (aplicáveis a partir de 2 de dezembro de 2027 — anexo III — ou de 2 de agosto de 2028 — anexo I; art. 113.º, al. c), na redação do Regulamento (UE) 2026/1744):*
 - Sistema de gestão de risco (art. 9.º)
 - Dados de treino e governança de dados (art. 10.º)
 - Documentação técnica (art. 11.º + Anexo IV)
@@ -106,7 +111,7 @@ Funcionalidade: [descrição técnica-funcional].
 Dados utilizados: [tipo de dados de entrada e saída].
 
 **II. ENQUADRAMENTO NORMATIVO**
-- Regulamento (UE) 2024/1689 (AI Act), em vigor desde 1 de agosto de 2024
+- Regulamento (UE) 2024/1689 (AI Act), em vigor desde 1 de agosto de 2024, alterado pelo Regulamento (UE) 2026/1744 (Omnibus Digital em matéria de IA)
 - RGPD (Regulamento (UE) 2016/679) — se o sistema trata dados pessoais
 - [Regulamentação setorial aplicável — p. ex. Diretiva de Solvabilidade II para seguros, CRR para crédito]
 
@@ -138,7 +143,7 @@ Justificação: [fundamentação artigo por artigo]
 **VI. RECOMENDAÇÕES**
 [Lista numerada de ações, por prioridade e prazo]
 1. [Imediato — práticas proibidas]
-2. [Antes de agosto de 2026 — obrigações de alto risco]
+2. [Antes de 2 de dezembro de 2027 (anexo III) ou de 2 de agosto de 2028 (anexo I) — obrigações de alto risco]
 3. [Boas práticas — mesmo que não obrigatórias no risco mínimo]
 [■ VERIFICAR: documentação técnica (Anexo IV) — requerer ao fornecedor se o sistema for adquirido]
 
@@ -147,10 +152,11 @@ O sistema [está / não está / pode estar, com as seguintes condicionantes] em 
 
 ### ETAPA 5 — VALIDAÇÃO
 Apresenta dentro de um bloco <checklist_validacao>:
-- [ ] Práticas proibidas verificadas (art. 5.º AI Act — proibições desde fev. 2025)
+- [ ] Práticas proibidas verificadas (art. 5.º AI Act — proibições desde fev. 2025; als. b-A) e b-B) desde dez. 2026)
+- [ ] Medidas de literacia em IA do pessoal adotadas (art. 4.º AI Act — desde fev. 2025)
 - [ ] Classificação de risco fundamentada com artigos específicos do AI Act
 - [ ] Papel da empresa identificado: fornecedor e/ou utilizador
-- [ ] Obrigações do fornecedor listadas com prazo (alto risco: ago. 2026)
+- [ ] Obrigações do fornecedor listadas com prazo (alto risco: 2 dez. 2027 — anexo III; 2 ago. 2028 — anexo I)
 - [ ] Obrigações do utilizador/deployer listadas (art. 26.º AI Act)
 - [ ] Obrigações de transparência (chatbots, deepfakes — art. 50.º AI Act)
 - [ ] Interação com RGPD analisada (se o sistema trata dados pessoais)
@@ -191,12 +197,24 @@ Apresenta dentro de um bloco <checklist_validacao>:
 
 | Citação | Estado | Nota |
 |---|---|---|
+| art. 3.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 113.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 113.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| arts. 4.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 5.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 5.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 5.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 5.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 5.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 5.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 50.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 50.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 50.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 50.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 6.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 6.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | arts. 51.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| art. 50.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| art. 50.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 111.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 9.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 10.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 11.º | por conferir [■ VERIFICAR] | diploma não identificado |
@@ -210,5 +228,5 @@ Apresenta dentro de um bloco <checklist_validacao>:
 | art. 26.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 26.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 26.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| art. 6.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 16.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 4.º | por conferir [■ VERIFICAR] | diploma não identificado |

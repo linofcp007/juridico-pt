@@ -3,20 +3,22 @@ codigo: TRA-010
 area: "Direito do Trabalho"
 titulo: "Carta de Comunicação de Denúncia do Contrato no Período Experimental"
 titulo_en: "Notice of Termination during the Probationary Period"
-descricao: "Gera a comunicação escrita de denúncia do contrato de trabalho durante o período experimental, com aviso prévio calculado conforme a duração do período já decorrido, respeitando as regras do artigo 114.º do Código do Trabalho, quer para denúncia pelo empregador quer pelo trabalhador."
-descricao_en: "Generates the written notice terminating the employment contract during the probationary period, with prior notice calculated according to the length of the period already elapsed, in accordance with Article 114 of the Labour Code, whether termination is by the employer or by the employee."
+descricao: "Gera a comunicação escrita de denúncia do contrato de trabalho durante o período experimental, pelo empregador ou pelo trabalhador, nos termos do artigo 114.º do Código do Trabalho: denúncia sem aviso prévio nem indemnização, salvo o aviso prévio de 7 ou de 30 dias a que o empregador está obrigado quando o período experimental tiver durado mais de 60 ou de 120 dias, e as comunicações à CITE ou ao serviço com competência inspetiva, quando aplicáveis."
+descricao_en: "Generates the written notice terminating the employment contract during the probationary period, by the employer or by the employee, under Article 114 of the Labour Code: termination without notice or compensation, except for the 7 or 30 days' notice the employer must give when the probationary period has lasted more than 60 or 120 days, and the notices to CITE or to the labour inspectorate where applicable."
 ambito: nacional
-estado_citacoes: "conferidas 6 · corrigidas 0 · por conferir 0"
+estado_citacoes: "conferidas 11 · corrigidas 0 · por conferir 1"
+revisao_tecnica: "2026-10-28 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
 # Carta de Comunicação de Denúncia do Contrato no Período Experimental
 
 > **Âmbito:** nacional · **Área:** Direito do Trabalho · **Código:** TRA-010
-> **EN:** Notice of Termination during the Probationary Period. Generates the written notice terminating the employment contract during the probationary period, with prior notice calculated according to the length of the period already elapsed, in accordance with Article 114 of the Labour Code, whether termination is by the employer or by the employee.
-> **Citações:** conferidas 6 · corrigidas 0 · por conferir 0. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **EN:** Notice of Termination during the Probationary Period. Generates the written notice terminating the employment contract during the probationary period, by the employer or by the employee, under Article 114 of the Labour Code: termination without notice or compensation, except for the 7 or 30 days' notice the employer must give when the probationary period has lasted more than 60 or 120 days, and the notices to CITE or to the labour inspectorate where applicable.
+> **Citações:** conferidas 11 · corrigidas 0 · por conferir 1. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-28 — corrigida (6 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
-Gera a comunicação escrita de denúncia do contrato de trabalho durante o período experimental, com aviso prévio calculado conforme a duração do período já decorrido, respeitando as regras do artigo 114.º do Código do Trabalho, quer para denúncia pelo empregador quer pelo trabalhador.
+Gera a comunicação escrita de denúncia do contrato de trabalho durante o período experimental, pelo empregador ou pelo trabalhador, nos termos do artigo 114.º do Código do Trabalho: denúncia sem aviso prévio nem indemnização, salvo o aviso prévio de 7 ou de 30 dias a que o empregador está obrigado quando o período experimental tiver durado mais de 60 ou de 120 dias, e as comunicações à CITE ou ao serviço com competência inspetiva, quando aplicáveis.
 
 ## Método
 
@@ -24,10 +26,11 @@ Ficha de trabalho para preparar este documento. As regras da casa prevalecem sob
 
 ## Regras obrigatórias
 — NUNCA inventes jurisprudência.
-— Calcula com rigor se estamos dentro do período experimental.
+— Calcula com rigor se estamos dentro do período experimental: conta-se a partir do início da execução da prestação, incluindo a ação de formação determinada pelo empregador até metade da duração do período, e não se contam as faltas, ainda que justificadas, as licenças, as dispensas nem a suspensão do contrato (art. 113.º CT).
 — Se faltar dado, marca [■ VERIFICAR: o que é necessário].
-— Até 60 dias de execução do contrato: denúncia sem aviso prévio nem indemnização.
-— Após 60 dias: aviso prévio de 7 dias para o empregador; 7 dias para o trabalhador (art. 114.º CT).
+— Durante o período experimental, qualquer das partes pode denunciar o contrato sem aviso prévio nem invocação de justa causa, e sem direito a indemnização, salvo acordo escrito em contrário (art. 114.º, n.º 1, CT).
+— Só a denúncia pelo empregador exige aviso prévio: 7 dias se o período experimental tiver durado mais de 60 dias e 30 dias se tiver durado mais de 120 dias (art. 114.º, n.º 2 e n.º 3, CT); se não o der, total ou parcialmente, paga a retribuição correspondente ao aviso prévio em falta (n.º 4). O trabalhador denuncia sem aviso prévio.
+— Na denúncia pelo empregador, verifica as comunicações obrigatórias: à entidade com competência na área da igualdade de oportunidades entre homens e mulheres (CITE), nos 5 dias úteis seguintes, se se tratar de trabalhadora grávida, puérpera ou lactante, de trabalhador em gozo de licença parental ou de trabalhador cuidador (n.º 5); ao serviço com competência inspetiva do ministério responsável pela área laboral, por formulário eletrónico, nos 15 dias seguintes, se se tratar de trabalhador à procura de primeiro emprego ou desempregado de longa duração (art. 112.º, n.º 1, al. b), subal. iii), CT) (n.º 6). A denúncia abusiva é ilícita (n.º 7).
 — Se o período experimental estiver dispensado ou já tiver terminado, não existe direito de denúncia ao abrigo deste regime — alerta.
 — Cita os artigos reais do CT.
 
@@ -49,7 +52,7 @@ Apresenta dentro de um bloco <fundamentos_juridicos>:
 - Art. 112.º CT (duração dos prazos — 90/180/240 dias)
 - Art. 114.º CT (denúncia durante o período experimental — aviso prévio)
 - Consequências se o prazo experimental já tiver terminado
-- Regimes especiais (contratos a termo — art. 112.º, n.º 5, CT)
+- Regimes especiais (contrato a termo: 30 dias se tiver duração igual ou superior a seis meses e 15 dias se inferior — art. 112.º, n.º 2, CT; comissão de serviço — n.º 3; redução ou exclusão por contrato ou estágio anterior — n.º 4 a n.º 6; redução por IRCT ou acordo escrito — n.º 7)
 
 ### ETAPA 3 — CONSTRUÇÃO DA CARTA
 Define em <estrutura_carta>:
@@ -79,7 +82,8 @@ Assinatura e identificação.
 ### ETAPA 5 — VALIDAÇÃO
 Apresenta dentro de um bloco <checklist_validacao>:
 - [ ] Contrato ainda em período experimental na data de denúncia
-- [ ] Aviso prévio calculado corretamente (0 dias se ≤60 dias; 7 dias se >60 dias)
+- [ ] Aviso prévio calculado corretamente (denúncia pelo empregador: nenhum até 60 dias de período experimental, 7 dias se durou mais de 60 dias, 30 dias se durou mais de 120 dias — art. 114.º, n.º 2 e n.º 3, CT; denúncia pelo trabalhador: sem aviso prévio)
+- [ ] Comunicação à CITE ou ao serviço com competência inspetiva, quando aplicável (art. 114.º, n.º 5 e n.º 6, CT)
 - [ ] Data de cessação indicada
 - [ ] Forma escrita
 - [ ] Prova de entrega prevista (carta registada com A/R ou entrega em mão com assinatura)
@@ -96,9 +100,10 @@ Apresenta dentro de um bloco <checklist_validacao>:
 
 **CONTRATO:**
 - Data de início do contrato: [dd/mm/aaaa]
-- Período experimental acordado: [90 / 180 / 240 dias — ou dispensa]
+- Período experimental acordado: [90 / 180 / 240 dias; contrato a termo: 15 / 30 dias — ou exclusão por acordo escrito]
 - Data atual (ou de pretendida denúncia): [dd/mm/aaaa]
-- Dias de execução já decorridos: [calcular automaticamente se datas fornecidas]
+- Dias de execução já decorridos: [calcular a partir das datas, descontando faltas, licenças, dispensas e suspensão do contrato — art. 113.º, n.º 2, CT]
+- Situação especial do trabalhador: [nenhuma / grávida, puérpera ou lactante / licença parental / cuidador / primeiro emprego ou desempregado de longa duração]
 - Função do trabalhador: [cargo]
 - Local de trabalho: [cidade]
 
@@ -111,9 +116,15 @@ Apresenta dentro de um bloco <checklist_validacao>:
 
 | Citação | Estado | Nota |
 |---|---|---|
-| art. 114.º CT | conferida (epígrafe) — Denúncia do contrato durante o período experimental |  |
-| art. 114.º CT | conferida (epígrafe) — Denúncia do contrato durante o período experimental |  |
+| art. 113.º CT | conferida (epígrafe) — Contagem do período experimental |  |
+| art. 114.º, n.º 1, CT | conferida (epígrafe) — Denúncia do contrato durante o período experimental |  |
+| art. 114.º, n.º 2 e n.º 3, CT | conferida (epígrafe) — Denúncia do contrato durante o período experimental |  |
+| art. 114.º, n.º 2 e n.º 3, CT | conferida (epígrafe) — Denúncia do contrato durante o período experimental |  |
+| art. 112.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | Art. 111.º CT | conferida (epígrafe) — Noção de período experimental |  |
 | Art. 112.º CT | conferida (epígrafe) — Duração do período experimental |  |
 | Art. 114.º CT | conferida (epígrafe) — Denúncia do contrato durante o período experimental |  |
-| art. 112.º, n.º 5, CT | conferida (epígrafe) — Duração do período experimental |  |
+| art. 112.º, n.º 2, CT | conferida (epígrafe) — Duração do período experimental |  |
+| art. 114.º CT | conferida (epígrafe) — Denúncia do contrato durante o período experimental |  |
+| art. 114.º, n.º 5 e n.º 6, CT | conferida (epígrafe) — Denúncia do contrato durante o período experimental |  |
+| art. 113.º, n.º 2, CT | conferida (epígrafe) — Contagem do período experimental |  |

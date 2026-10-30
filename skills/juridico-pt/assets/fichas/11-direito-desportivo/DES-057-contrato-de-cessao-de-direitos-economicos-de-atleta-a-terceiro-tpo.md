@@ -3,20 +3,22 @@ codigo: DES-057
 area: "Direito Desportivo"
 titulo: "Contrato de Cessão de Direitos Económicos de Atleta a Terceiro (TPO) — Análise e Risco"
 titulo_en: "Assignment of an Athlete's Economic Rights to a Third Party (TPO) — Analysis and Risk"
-descricao: "Elabora parecer jurídico sobre a cessão de direitos económicos de atleta a entidade terceira (Third Party Ownership — TPO), analisando a proibição expressa do artigo 18.º-bis do RSTP FIFA e do artigo 18.º-ter do RSTP (proibição de influência de terceiros), avaliando a legalidade dos contratos já celebrados e os riscos disciplinares para o clube e para o atleta."
-descricao_en: "Prepares a legal opinion on the assignment of an athlete's economic rights to a third party (Third Party Ownership — TPO), analysing the express prohibition in Article 18bis of the FIFA RSTP and Article 18ter of the RSTP (prohibition of third-party influence), and assessing the legality of contracts already concluded and the disciplinary risks for the club and the athlete."
+descricao: "Elabora parecer jurídico sobre a cessão de direitos económicos de atleta a entidade terceira (Third Party Ownership — TPO), analisando a proibição de TPO do artigo 18.º-ter do RSTP da FIFA (em vigor desde 1 de maio de 2015) e a proibição de influência de terceiros sobre os clubes do artigo 18.º-bis do RSTP, avaliando a legalidade dos contratos já celebrados e os riscos disciplinares para o clube e para o atleta."
+descricao_en: "Prepares a legal opinion on the assignment of an athlete's economic rights to a third party (Third Party Ownership — TPO), analysing the TPO ban in Article 18ter of the FIFA RSTP (in force since 1 May 2015) and the prohibition of third-party influence on clubs in Article 18bis of the RSTP, and assessing the legality of contracts already concluded and the disciplinary risks for the club and the athlete."
 ambito: nacional
-estado_citacoes: "conferidas 0 · corrigidas 0 · por conferir 3"
+estado_citacoes: "conferidas 0 · corrigidas 0 · por conferir 6"
+revisao_tecnica: "2026-10-28 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
 # Contrato de Cessão de Direitos Económicos de Atleta a Terceiro (TPO) — Análise e Risco
 
 > **Âmbito:** nacional · **Área:** Direito Desportivo · **Código:** DES-057
-> **EN:** Assignment of an Athlete's Economic Rights to a Third Party (TPO) — Analysis and Risk. Prepares a legal opinion on the assignment of an athlete's economic rights to a third party (Third Party Ownership — TPO), analysing the express prohibition in Article 18bis of the FIFA RSTP and Article 18ter of the RSTP (prohibition of third-party influence), and assessing the legality of contracts already concluded and the disciplinary risks for the club and the athlete.
-> **Citações:** conferidas 0 · corrigidas 0 · por conferir 3. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **EN:** Assignment of an Athlete's Economic Rights to a Third Party (TPO) — Analysis and Risk. Prepares a legal opinion on the assignment of an athlete's economic rights to a third party (Third Party Ownership — TPO), analysing the TPO ban in Article 18ter of the FIFA RSTP (in force since 1 May 2015) and the prohibition of third-party influence on clubs in Article 18bis of the RSTP, and assessing the legality of contracts already concluded and the disciplinary risks for the club and the athlete.
+> **Citações:** conferidas 0 · corrigidas 0 · por conferir 6. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-28 — corrigida (2 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
-Elabora parecer jurídico sobre a cessão de direitos económicos de atleta a entidade terceira (Third Party Ownership — TPO), analisando a proibição expressa do artigo 18.º-bis do RSTP FIFA e do artigo 18.º-ter do RSTP (proibição de influência de terceiros), avaliando a legalidade dos contratos já celebrados e os riscos disciplinares para o clube e para o atleta.
+Elabora parecer jurídico sobre a cessão de direitos económicos de atleta a entidade terceira (Third Party Ownership — TPO), analisando a proibição de TPO do artigo 18.º-ter do RSTP da FIFA (em vigor desde 1 de maio de 2015) e a proibição de influência de terceiros sobre os clubes do artigo 18.º-bis do RSTP, avaliando a legalidade dos contratos já celebrados e os riscos disciplinares para o clube e para o atleta.
 
 ## Método
 
@@ -40,9 +42,9 @@ Apresenta dentro de um bloco <analise_da_situacao>:
 Apresenta dentro de um bloco <fundamentos_juridicos>:
 - RSTP, art. 18.º-bis (proibição de influência de terceiros)
 - RSTP, art. 18.º-ter (proibição de TPO — em vigor desde 01/05/2015)
-- Exceções admitidas (fundos de formação, fundações ligadas ao atleta)
+- Inexistência de exceções à proibição: só o regime transitório do art. 18.º-ter, n.ºs 3 e 4, RSTP (os acordos anteriores a 01/05/2015 mantêm-se até ao termo, sem prorrogação; os celebrados entre 01/01/2015 e 30/04/2015 não podem durar mais de um ano a contar da data de eficácia); pela definição do RSTP, não são «terceiros» o próprio jogador transferido, os dois clubes da transferência e os clubes anteriores em que esteve inscrito
 - Sanções: multa, proibição de inscrição, pontos desportivos
-- Regulamentos FPF/LPFP sobre TPO (podem ser mais restritivos)
+- Regulamentos FPF/LPFP sobre TPO (os arts. 18.º-bis e 18.º-ter têm de constar, sem alterações, dos regulamentos nacionais — art. 1.º RSTP; verificar regras nacionais adicionais)
 
 ### ETAPA 3 — AVALIAÇÃO DE RISCO
 Apresenta dentro de um bloco <avaliacao_risco>:
@@ -81,4 +83,7 @@ Apresenta dentro de um bloco <checklist_validacao>:
 |---|---|---|
 | art. 18.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 18.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 18.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| arts. 18.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 1.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | Art. 18.º | por conferir [■ VERIFICAR] | diploma não identificado |

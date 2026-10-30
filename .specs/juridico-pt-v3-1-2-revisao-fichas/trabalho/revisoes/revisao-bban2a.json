@@ -1,0 +1,239 @@
+[
+  {
+    "codigo": "BAN-024",
+    "veredicto": "corrigida",
+    "resumo": "A ficha usava o regime certo (DL n.º 91/2018), mas com a numeração trocada: atribuía o reembolso ao art. 115.º (é o art. 114.º), a responsabilidade do ordenante ao art. 116.º (é o art. 115.º), a comunicação ao art. 117.º e o prazo de 13 meses ao art. 118.º (são os arts. 110.º e 112.º; os arts. 117.º e 118.º tratam do reembolso de débitos diretos), e a autenticação forte aos arts. 100.º e 102.º (é o art. 104.º; a consequência da falta de autenticação forte está no art. 115.º, n.º 5). Dizia ainda que, havendo negligência grave, a responsabilidade do cliente era ilimitada, quando a lei fala em negligência grosseira e limita-a ao saldo disponível ou à linha de crédito; e contava os juros desde as transações, quando o art. 114.º, n.º 10, os conta desde a data em que o utilizador negou a autorização, à taxa legal acrescida de 10 pontos percentuais. Corrigiram-se as normas, acrescentou-se o ónus da prova do banco (art. 113.º) e o prazo de resposta à reclamação (art. 142.º), e a descrição do índice, que indicava o DL n.º 317/2009, revogado pelo DL n.º 91/2018.",
+    "descricao": "Redige reclamação formal ao banco por operações de pagamento não autorizadas resultantes de fraude (phishing, vishing, smishing, SIM swapping), exigindo o reembolso dos valores debitados com fundamento no Regime Jurídico dos Serviços de Pagamento e da Moeda Eletrónica (DL n.º 91/2018, que transpôs a Diretiva PSD2 e revogou o DL n.º 317/2009), com identificação clara dos direitos do utilizador de serviços de pagamento face ao prestador.",
+    "descricao_en": "Drafts a formal complaint to the bank about unauthorised payment transactions resulting from fraud (phishing, vishing, smishing, SIM swapping), demanding a refund of the amounts debited on the basis of the Legal Regime for Payment Services and Electronic Money (Decree-Law No. 91/2018, which transposed the PSD2 Directive and repealed Decree-Law No. 317/2009), clearly identifying the payment service user's rights against the provider.",
+    "substituicoes": [
+      {
+        "de": "- O banco alega que houve negligência grave do cliente (autorizou sem saber)?",
+        "para": "- O banco alega que houve negligência grosseira do cliente (autorizou sem saber)?",
+        "motivo": "O DL 91/2018 fala em negligência grosseira (arts. 113.º e 115.º).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?ficha=101&artigo_id=&nid=2954&pagina=2&tabela=leis&nversao=&so_miolo=&"
+      },
+      {
+        "de": "- DL n.º 91/2018 (PSD2 transposta):\n  - Art. 113.º ss: operações de pagamento não autorizadas\n  - Art. 115.º: responsabilidade do prestador de serviços de pagamento (PSP) por operação não autorizada — reembolso imediato\n  - Art. 116.º: responsabilidade do utilizador — limitada a €50 por negligência leve; sem limite por negligência grave ou fraude do próprio utilizador\n  - Art. 117.º: obrigação de comunicação imediata ao PSP\n  - Art. 118.º: prazo para contestar operação não autorizada (13 meses [■ VERIFICAR])\n  - Art. 100.º ss: autenticação forte do cliente (SCA — Strong Customer Authentication)\n  - Art. 102.º: responsabilidade do PSP por falha de SCA",
+        "para": "- DL n.º 91/2018 (Regime Jurídico dos Serviços de Pagamento e da Moeda Eletrónica, que transpôs a PSD2 e revogou o DL n.º 317/2009):\n  - Art. 103.º: a operação só se considera autorizada se o ordenante consentir na sua execução; sem consentimento, considera-se não autorizada (n.ºs 1 e 5)\n  - Art. 110.º: obrigações do utilizador — usar o instrumento conforme as condições e comunicar, logo que tenha conhecimento e sem atraso injustificado, a perda, o furto, o roubo, a apropriação abusiva ou a utilização não autorizada (n.º 1); tomar as medidas razoáveis para preservar a segurança das credenciais (n.º 2)\n  - Art. 112.º: comunicação da operação não autorizada logo que dela tenha conhecimento, sem atraso injustificado e dentro do prazo máximo de 13 meses a contar da data do débito (n.º 1); o prazo máximo não se aplica se o PSP não prestou a informação devida sobre a operação (n.º 2)\n  - Art. 113.º: ónus da prova do prestador de serviços de pagamento (PSP) — tem de provar que a operação foi autenticada, registada e contabilizada e que não foi afetada por avaria; o registo de utilização do instrumento não basta, por si só, para provar a autorização, a fraude ou a negligência grosseira, e o PSP tem de apresentar elementos que as demonstrem (n.ºs 1, 3 e 4)\n  - Art. 114.º: responsabilidade do PSP por operação não autorizada — reembolso imediato e, em todo o caso, até ao final do primeiro dia útil seguinte ao conhecimento ou à comunicação (n.º 1), salvo motivos razoáveis para suspeitar de fraude do ordenante, comunicados por escrito às autoridades judiciárias no mesmo prazo (n.º 2); sem reembolso imediato, juros moratórios à taxa legal acrescida de 10 pontos percentuais (n.º 10)\n  - Art. 115.º: responsabilidade do ordenante — até 50 € em caso de instrumento perdido, furtado, roubado ou abusivamente apropriado (n.º 1), salvo as exceções do n.º 2; com negligência grosseira, até ao limite do saldo disponível ou da linha de crédito associada, ainda que superior a 50 € (n.º 4); todas as perdas em caso de atuação fraudulenta ou de incumprimento deliberado das obrigações do art. 110.º (n.º 3); nenhuma perda, salvo fraude, se o PSP não exigiu autenticação forte (n.º 5) ou depois da comunicação da perda, furto, roubo ou apropriação abusiva (n.º 7)\n  - Art. 104.º: autenticação forte do cliente (SCA — Strong Customer Authentication), obrigatória no acesso em linha à conta, na iniciação de operações de pagamento eletrónico e nas ações por canal remoto com risco de fraude (n.º 1)\n  - Art. 142.º: resposta do PSP à reclamação no prazo máximo de 15 dias úteis, ou de 35 dias úteis em situações excecionais (n.ºs 2 a 4)",
+        "motivo": "Numeração e conteúdo dos artigos do DL 91/2018 trocados; a negligência grosseira não torna a responsabilidade ilimitada (art. 115.º, n.º 4); a falta de autenticação forte rege-se pelo art. 115.º, n.º 5.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?ficha=101&artigo_id=&nid=2954&pagina=2&tabela=leis&nversao=&so_miolo=&"
+      },
+      {
+        "de": "- Argumentar que a operação não foi autorizada pelo cliente (art. 115.º DL 91/2018)\n- Contestar alegação de negligência grave (padrão elevado — não é o cliente culpado por ser enganado por fraude sofisticada)\n- Verificar se houve autenticação forte (SCA) — se não houve, o banco é responsável mesmo com negligência do utilizador (art. 102.º DL 91/2018)\n- Exigir reembolso imediato + juros",
+        "para": "- Argumentar que a operação não foi autorizada pelo cliente (art. 103.º DL 91/2018) e que cabe ao banco provar a autenticação e demonstrar eventual fraude ou negligência grosseira (art. 113.º DL 91/2018)\n- Contestar a alegação de negligência grosseira (padrão elevado — ser enganado por fraude sofisticada não é, por si só, negligência grosseira)\n- Verificar se houve autenticação forte (SCA) — se o banco não a exigiu, o ordenante não suporta perdas, salvo se tiver agido fraudulentamente (arts. 104.º e 115.º, n.º 5, DL 91/2018)\n- Exigir reembolso imediato (até ao final do primeiro dia útil seguinte à comunicação) + juros moratórios (art. 114.º, n.ºs 1 e 10, DL 91/2018)",
+        "motivo": "Artigos errados (115.º e 102.º) e regime da autenticação forte e dos juros por indicar.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?ficha=101&artigo_id=&nid=2954&pagina=2&tabela=leis&nversao=&so_miolo=&"
+      },
+      {
+        "de": "As transações descritas não foram autorizadas pelo reclamante. Nos termos do art. 113.º, n.º 1 do DL n.º 91/2018: \"[transcrição]\"",
+        "para": "As transações descritas não foram autorizadas pelo reclamante. Nos termos do art. 103.º, n.ºs 1 e 5, do DL n.º 91/2018: \"[transcrição]\"\n\nNegando o reclamante ter autorizado as operações, incumbe a V. Ex.ª provar que foram autenticadas, devidamente registadas e contabilizadas e que não foram afetadas por avaria técnica ou outra deficiência, não bastando, por si só, o registo de utilização do instrumento de pagamento (art. 113.º, n.ºs 1 e 3, do DL n.º 91/2018).",
+        "motivo": "A autorização rege-se pelo art. 103.º; o art. 113.º trata do ónus da prova do banco.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?ficha=101&artigo_id=&nid=2954&pagina=2&tabela=leis&nversao=&so_miolo=&"
+      },
+      {
+        "de": "Nos termos do art. 115.º, n.º 1 do DL n.º 91/2018: \"[transcrição]\"\n\nO banco está obrigado a reembolsar imediatamente o valor das transações não autorizadas.",
+        "para": "Nos termos do art. 114.º, n.º 1, do DL n.º 91/2018: \"[transcrição]\"\n\nO banco está obrigado a reembolsar imediatamente o valor das transações não autorizadas e, em todo o caso, o mais tardar até ao final do primeiro dia útil seguinte à comunicação, com data-valor não posterior à data do débito (art. 114.º, n.ºs 1 e 3).",
+        "motivo": "A responsabilidade do banco e o reembolso estão no art. 114.º, não no art. 115.º (responsabilidade do ordenante).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?ficha=101&artigo_id=&nid=2954&pagina=2&tabela=leis&nversao=&so_miolo=&"
+      },
+      {
+        "de": "[Se aplicável] As transações foram realizadas sem autenticação forte do cliente (SCA). Nos termos do art. 102.º DL 91/2018: \"[transcrição]\". Na ausência de SCA por falha do banco, a responsabilidade do utilizador é afastada mesmo que haja negligência.",
+        "para": "[Se aplicável] As transações foram realizadas sem autenticação forte do cliente (SCA), exigida pelo art. 104.º, n.º 1, do DL n.º 91/2018. Nos termos do art. 115.º, n.º 5, do mesmo diploma: \"[transcrição]\". Não tendo o banco exigido a autenticação forte, o ordenante não suporta quaisquer perdas, mesmo que haja negligência, salvo se tiver agido fraudulentamente.",
+        "motivo": "O art. 102.º trata dos instrumentos de baixo valor; a autenticação forte é o art. 104.º e a consequência da sua falta o art. 115.º, n.º 5 (com a ressalva da fraude).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?ficha=101&artigo_id=&nid=2954&pagina=2&tabela=leis&nversao=&so_miolo=&"
+      },
+      {
+        "de": "D — NEGLIGÊNCIA GRAVE (CONTESTAÇÃO)\n\n[Se o banco alegar negligência grave] O standard de negligência grave no regime PSD2 é elevado. O reclamante foi vítima de um esquema de fraude sofisticado — [descrição] — que não configura negligência grave, mas engano resultante de metodologia de fraude profissional.",
+        "para": "D — NEGLIGÊNCIA GROSSEIRA (CONTESTAÇÃO)\n\n[Se o banco alegar negligência grosseira] O padrão da negligência grosseira é elevado, e cabe ao banco apresentar elementos que a demonstrem, não bastando o registo de utilização do instrumento de pagamento (art. 113.º, n.ºs 3 e 4, do DL n.º 91/2018). O reclamante foi vítima de um esquema de fraude sofisticado — [descrição] — que não configura negligência grosseira, mas engano resultante de metodologia de fraude profissional. Ainda que houvesse negligência grosseira, as perdas do ordenante ficariam limitadas ao saldo disponível ou à linha de crédito associada (art. 115.º, n.º 4), e não abrangeriam a utilização posterior à comunicação ao banco, salvo fraude (art. 115.º, n.º 7).",
+        "motivo": "O DL 91/2018 usa «negligência grosseira», impõe ao banco a prova (art. 113.º, n.º 4) e limita as perdas do ordenante (art. 115.º, n.ºs 4 e 7).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?ficha=101&artigo_id=&nid=2954&pagina=2&tabela=leis&nversao=&so_miolo=&"
+      },
+      {
+        "de": "a) Reembolso imediato de €[valor], nos termos do art. 115.º DL n.º 91/2018;\nb) Juros de mora desde [data das transações fraudulentas];",
+        "para": "a) Reembolso imediato de €[valor], nos termos do art. 114.º, n.º 1, do DL n.º 91/2018;\nb) Não havendo reembolso imediato, juros moratórios à taxa legal acrescida de 10 pontos percentuais, contados dia a dia desde [data em que o reclamante negou ter autorizado as operações] até ao reembolso efetivo (art. 114.º, n.º 10, do DL n.º 91/2018);",
+        "motivo": "Reembolso no art. 114.º; os juros contam-se desde a data em que o utilizador negou a autorização, à taxa legal + 10 p.p. (art. 114.º, n.º 10), não desde as transações.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?ficha=101&artigo_id=&nid=2954&pagina=2&tabela=leis&nversao=&so_miolo=&"
+      },
+      {
+        "de": "- [ ] Art. 115.º DL 91/2018 (reembolso imediato) invocado\n- [ ] SCA verificado (art. 102.º DL 91/2018)\n- [ ] Negligência grave contestada (se banco a alegar)\n- [ ] Prazo de contestação verificado (13 meses — art. 118.º [■ VERIFICAR])",
+        "para": "- [ ] Art. 114.º DL 91/2018 (reembolso imediato) invocado\n- [ ] SCA verificado (arts. 104.º e 115.º, n.º 5, DL 91/2018)\n- [ ] Negligência grosseira contestada (se banco a alegar)\n- [ ] Prazo de comunicação verificado (sem atraso injustificado e até 13 meses após o débito — art. 112.º, n.º 1, DL 91/2018)",
+        "motivo": "Artigos trocados; o prazo de 13 meses está no art. 112.º, n.º 1 (o art. 118.º é o reembolso de débitos diretos autorizados).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?ficha=101&artigo_id=&nid=2954&pagina=2&tabela=leis&nversao=&so_miolo=&"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Distinguir a operação não autorizada da ordem dada pelo próprio cliente enganado (por exemplo, transferência feita por ele numa burla por telefone): neste último caso o regime dos arts. 114.º e 115.º do DL 91/2018 pode não se aplicar; confirmar caso a caso e na jurisprudência (dgsi.pt).",
+      "Confirmar em dgsi.pt a jurisprudência recente sobre negligência grosseira em phishing, vishing e SIM swapping.",
+      "O DL 91/2018 foi alterado por último pela Lei n.º 73/2025 e pela Lei n.º 68/2025; a versão consolidada do PGDL consultada mantém os arts. 103.º, 104.º e 110.º a 115.º com a redação citada, mas convém confirmar antes do envio.",
+      "Confirmar se o novo regulamento europeu dos serviços de pagamento (que deverá substituir parte da PSD2) já foi publicado e a partir de quando se aplica [■ VERIFICAR]."
+    ],
+    "fontes": [
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2954&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?ficha=101&artigo_id=&nid=2954&pagina=2&tabela=leis&nversao=&so_miolo=&"
+    ]
+  },
+  {
+    "codigo": "BAN-026",
+    "veredicto": "corrigida",
+    "resumo": "A ficha dava como «exemplos históricos de comissões proibidas pelo Banco de Portugal» casos sem base identificável e omitia as proibições legais em vigor: art. 23.º-A do DL 133/2009 e art. 28.º-A do DL 74-A/2017 (Lei 57/2020), art. 9.º do DL 58/2013 (comissão de recuperação de valores em dívida) e arts. 3.º-B a 3.º-D do DL 3/2010 (Lei 24/2023). Citava o Aviso do BdP n.º 5/2013, que tratava do branqueamento de capitais e foi revogado pelo Aviso n.º 2/2018, e atribuía ao RGICSF uma proibição de comissões por serviços não prestados que lá não está. Também estavam errados o art. 22.º, al. b), do DL 446/85 (a alteração unilateral é a al. c) do n.º 1), o art. 15.º, al. a) (o art. 15.º não tem alíneas) e o prazo de 5 anos do art. 482.º CC (são 3 anos). Acrescentou-se o pré-aviso de dois meses do art. 93.º do DL 91/2018 e o prazo de resposta do art. 142.º, e corrigiu-se a descrição do índice.",
+    "descricao": "Elabora parecer jurídico sobre a legalidade de comissões bancárias cobradas por uma instituição de crédito, identificando comissões proibidas ou limitadas por lei (nomeadamente nos regimes do crédito aos consumidores, do crédito à habitação, da mora e das contas de depósito), comissões sem base contratual, comissões resultantes de alteração unilateral e comissões que constituem cláusulas abusivas, com cálculo do montante restituível e indicação das vias de recuperação.",
+    "descricao_en": "Prepares a legal opinion on the lawfulness of bank fees charged by a credit institution, identifying fees prohibited or capped by law (notably under the consumer credit, mortgage credit, default and deposit account regimes), fees without a contractual basis, fees resulting from unilateral amendment and fees that constitute unfair terms, with a calculation of the refundable amount and the routes for recovery.",
+    "substituicoes": [
+      {
+        "de": "- RGICSF art. 73.º ss: deveres de conduta — proibição de comissões por serviços não prestados\n- Aviso do Banco de Portugal n.º 5/2013 [■ VERIFICAR versão atual]: tabela de preços, comunicação de alterações, proibições específicas\n- DL n.º 446/85:\n  - Art. 22.º, al. b): alteração unilateral proibida\n  - Art. 15.º, al. a): cobrança sem prestação de serviço\n- DL n.º 91/2018 (PSD2): transparência de comissões em contas de pagamento",
+        "para": "- RGICSF arts. 73.º ss: deveres de conduta; art. 77.º: dever de informar com clareza sobre o preço dos serviços prestados e outros encargos, e fatura-recibo anual, sem custo, das comissões e despesas da conta de depósito à ordem (n.ºs 1 e 8)\n- Aviso do Banco de Portugal n.º 8/2009 (preçário: folheto de comissões e despesas) [■ VERIFICAR versão atual]; o Aviso n.º 5/2013 respeitava à prevenção do branqueamento de capitais e foi revogado pelo Aviso n.º 2/2018\n- Proibições e limites legais de comissões: art. 23.º-A DL 133/2009 e art. 28.º-A DL 74-A/2017 (aditados pela Lei n.º 57/2020); art. 9.º DL 58/2013 (mora); arts. 3.º-B a 3.º-D DL 3/2010 (aditados pela Lei n.º 24/2023) — ver categoria A\n- DL n.º 446/85 (cláusulas contratuais gerais):\n  - Art. 22.º, n.º 1, al. c): cláusula que atribui ao predisponente o direito de alterar unilateralmente os termos do contrato, salvo razão atendível convencionada — relativamente proibida nas relações com consumidores finais (art. 20.º); nos serviços financeiros, o n.º 2, al. a), admite a alteração de encargos que corresponda a variações do mercado, comunicada de imediato por escrito, com direito de resolução\n  - Art. 15.º: princípio geral — proibição das cláusulas contrárias à boa fé (concretizado no art. 16.º); as cláusulas proibidas são nulas (art. 12.º)\n- DL n.º 91/2018 (serviços de pagamento): a alteração do contrato-quadro, incluindo os encargos, tem de ser proposta pelo menos dois meses antes da sua aplicação, e o utilizador pode rejeitá-la e resolver o contrato sem encargos (art. 93.º, n.ºs 1, 2 e 4)\n- DL n.º 107/2017 (contas de pagamento): documento de informação sobre comissões e extrato de comissões (arts. 6.º e 10.º)",
+        "motivo": "O RGICSF não proíbe comissões por serviços não prestados; o Aviso 5/2013 (branqueamento) foi revogado; alteração unilateral é a al. c) do n.º 1 do art. 22.º; o art. 15.º não tem alíneas; faltavam as regras do DL 91/2018 e do DL 107/2017.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=837&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "A — COMISSÕES EXPRESSAMENTE PROIBIDAS\n[Verificar lista de Aviso do Banco de Portugal com comissões proibidas — VERIFICAR aviso vigente]\nExemplos históricos de comissões proibidas pelo BdP:\n- Comissão por emissão de cheque para pagamento de empréstimo\n- Comissão por processamento de débito direto (em certas configurações)\n- Comissão por comunicação de incumprimento (em excesso)\n[■ VERIFICAR: lista atualizada de comissões proibidas em vigor]",
+        "para": "A — COMISSÕES EXPRESSAMENTE PROIBIDAS OU LIMITADAS POR LEI\nAs proibições constam sobretudo de lei, não de aviso do Banco de Portugal. Exemplos:\n- Crédito aos consumidores e crédito à habitação: comissões pelo processamento de prestações feito pela própria instituição ou por entidade relacionada, pela emissão do distrate ou do documento de extinção da garantia no termo do contrato e pelas declarações de dívida destinadas ao acesso a apoios ou prestações sociais e serviços públicos, até seis por ano (art. 23.º-A DL 133/2009; art. 28.º-A, n.º 1, DL 74-A/2017); no crédito à habitação, uma única comissão pela análise e decisão do crédito, sem prejuízo das despesas de avaliação do imóvel (art. 28.º-A, n.º 2, DL 74-A/2017)\n- Mora do devedor: além dos juros moratórios, só uma comissão pela recuperação de valores em dívida, até 4 % da prestação vencida e não paga (mínimo 12 €, máximo 150 €; até 0,5 % se a prestação exceder 50 000 €), cobrada uma única vez por prestação (art. 9.º DL 58/2013)\n- Contas de depósito à ordem: proibição de comissões por fotocópias de documentos e por segundas vias de extratos, limite de 2 % no depósito de moedas e de 10 % do IAS na habilitação de herdeiros, e proibição em certas alterações de titularidade (divórcio, falecimento, maioridade, entre outras) (arts. 3.º-B a 3.º-D DL 3/2010, aditados pela Lei n.º 24/2023); proibição de encargos em operações em caixas multibanco (DL 3/2010)\n- Incumprimento, no mesmo mês, de prestações de créditos distintos garantidos pela mesma garantia: só pode ser cobrada a comissão do primeiro incumprimento (art. 3.º-D, n.º 4, DL 3/2010)\n[■ VERIFICAR: redação em vigor destes limites e outras proibições aplicáveis ao produto concreto]",
+        "motivo": "Os «exemplos históricos» não correspondem a proibições identificáveis; substituídos pelas proibições legais confirmadas no texto em vigor.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1107&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "Comissões introduzidas ou aumentadas sem aviso prévio adequado.",
+        "para": "Comissões introduzidas ou aumentadas sem aviso prévio adequado (nas contas de pagamento, a alteração tem de ser proposta pelo menos dois meses antes da sua aplicação — art. 93.º, n.º 1, DL 91/2018).",
+        "motivo": "Pré-aviso legal de dois meses nos contratos-quadro de serviços de pagamento.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2954&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "  - [COMISSÃO PROIBIDA: Aviso BdP n.º ____]",
+        "para": "  - [COMISSÃO PROIBIDA: norma legal ____]",
+        "motivo": "As proibições de comissões constam de lei, não de aviso do Banco de Portugal.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2842&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "  - [ALTERAÇÃO UNILATERAL ILEGAL: art. 22.º, al. b) DL 446/85]",
+        "para": "  - [ALTERAÇÃO UNILATERAL ILEGAL: art. 22.º, n.º 1, al. c), DL 446/85; nas contas de pagamento, art. 93.º DL 91/2018]",
+        "motivo": "A al. b) do art. 22.º trata da denúncia e resolução; a alteração unilateral é a al. c) do n.º 1.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=837&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "1. Reclamação interna ao Provedor do Cliente (prazo: 20 dias úteis de resposta)",
+        "para": "1. Reclamação à instituição (serviço de reclamações ou Provedor do Cliente, se existir); nos serviços de pagamento, resposta no prazo máximo de 15 dias úteis, ou de 35 dias úteis em situações excecionais (art. 142.º DL 91/2018) [■ VERIFICAR prazo aplicável aos restantes produtos]",
+        "motivo": "O prazo de 20 dias úteis não tem base identificada; nos serviços de pagamento o prazo legal é de 15/35 dias úteis.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?ficha=101&artigo_id=&nid=2954&pagina=2&tabela=leis&nversao=&so_miolo=&"
+      },
+      {
+        "de": "A obrigação de restituição de comissões indevidas prescreve em [■ VERIFICAR: prazo geral de 20 anos — art. 309.º CC, ou prazo de 5 anos por enriquecimento sem causa — art. 482.º CC]. Recomenda-se agir sem demora.",
+        "para": "A obrigação de restituição de comissões indevidas prescreve em [■ VERIFICAR o fundamento: se a restituição decorrer da nulidade da cláusula (art. 12.º DL 446/85; art. 289.º CC), prazo ordinário de 20 anos — art. 309.º CC; se o fundamento for o enriquecimento sem causa, 3 anos a contar da data em que o credor teve conhecimento do direito e da pessoa do responsável, sem prejuízo da prescrição ordinária — art. 482.º CC]. Recomenda-se agir sem demora.",
+        "motivo": "O art. 482.º CC fixa 3 anos (não 5) a contar do conhecimento do direito e do responsável.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0482&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- [ ] Comissões proibidas identificadas com referência ao Aviso BdP [■ VERIFICAR]",
+        "para": "- [ ] Comissões proibidas identificadas com referência à norma legal aplicável [■ VERIFICAR]",
+        "motivo": "As proibições constam de lei, não de aviso do Banco de Portugal.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1107&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Confirmar a redação em vigor do art. 9.º do DL 58/2013 (consultado na compilação de legislação do Banco de Portugal) e dos arts. 3.º-B a 3.º-D do DL 3/2010, e a data de aplicação aos contratos em causa (as proibições da Lei n.º 57/2020 e da Lei n.º 24/2023 têm aplicação no tempo própria).",
+      "Confirmar se o Aviso do Banco de Portugal n.º 8/2009 (preçário) continua em vigor e com que alterações.",
+      "O art. 22.º do DL 446/85 aplica-se nas relações com consumidores finais (art. 20.º); se o cliente for empresa, aplicam-se apenas os arts. 18.º e 19.º.",
+      "A arbitragem nos centros de conflitos de consumo (incluindo o CACCL) só está aberta a consumidores; confirmar as entidades de resolução alternativa de litígios a que o banco aderiu.",
+      "Escolher o fundamento da restituição (nulidade da cláusula ou enriquecimento sem causa) antes de afirmar o prazo de prescrição."
+    ],
+    "fontes": [
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=948&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?ficha=101&artigo_id=&nid=948&pagina=2&tabela=leis&nversao=&so_miolo=&",
+      "https://www.bportugal.pt/sites/default/files/anexos/cartas-circulares/8-2009a.pdf",
+      "https://www.bportugal.pt/sites/default/files/anexos/pdf-boletim/bo_102018.pdf",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=837&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1107&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2842&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.bportugal.pt/sites/default/files/anexos/legislacoes/470104184_1.doc.pdf",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3645&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2954&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?ficha=101&artigo_id=&nid=2954&pagina=2&tabela=leis&nversao=&so_miolo=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2811&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0482&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+    ]
+  },
+  {
+    "codigo": "BAN-030",
+    "veredicto": "corrigida",
+    "resumo": "A numeração do DL 74-A/2017 estava quase toda errada: a publicidade são os arts. 9.º e 10.º (não o art. 11.º, que trata das vendas associadas), a FINE é o art. 13.º (não o art. 15.º, que é o cálculo da TAEG), a avaliação de solvabilidade é o art. 16.º (não o art. 13.º), o dever de assistência é o art. 14.º, e os arts. 23.º e 43.º tratam do reembolso antecipado e de uma alteração ao DL 133/2009. Indicou-se o período de reflexão de 7 dias (art. 13.º, n.º 5). No DL 133/2009, a avaliação de solvabilidade é o art. 10.º (não o art. 8.º), não existe prazo de reflexão (o art. 9.º trata da isenção de informação) e o direito de 14 dias é de «livre revogação», não de «retratação». Acrescentaram-se o art. 13.º do DL 133/2009 (invalidade), os arts. 35.º e 36.º do DL 74-A/2017 e a nota sobre a Diretiva (UE) 2023/2225. Retirou-se o Aviso do BdP n.º 5/2013, que tratava do branqueamento de capitais e foi revogado.",
+    "substituicoes": [
+      {
+        "de": "  - Art. 11.º ss: publicidade — indicação obrigatória da TAEG e outras informações\n  - Art. 13.º: avaliação de solvabilidade — obrigação e consequências de incumprimento\n  - Art. 14.º: serviços acessórios vinculados (seguros, outros produtos)\n  - Art. 15.º: informação pré-contratual — FINE (Ficha de Informação Normalizada Europeia)\n  - Art. 16.º: prazo de reflexão antes da celebração (mínimo [■ VERIFICAR prazo])\n  - Art. 17.º ss: deveres de assistência e esclarecimento\n  - Art. 23.º: indicação da TAEG — obrigatoriedade\n  - Art. 43.º ss: proteção em caso de incumprimento dos deveres de informação",
+        "para": "  - Arts. 9.º e 10.º: publicidade — informação normalizada, incluindo a TAEG\n  - Art. 11.º: vendas associadas obrigatórias e facultativas — o mutuante só pode exigir conta de depósito à ordem e seguros adequados, e tem de aceitar seguro de outro prestador com garantia equivalente (n.º 2); no seguro de vida exigido, só a cobertura de morte (n.º 7)\n  - Art. 12.º: informação pré-contratual de caráter geral\n  - Art. 13.º: informação pré-contratual personalizada — FINE (Ficha de Informação Normalizada Europeia) (n.ºs 1 a 3); proposta vinculativa durante 30 dias e período mínimo de reflexão de 7 dias, durante o qual o consumidor não pode aceitar a proposta (n.ºs 4 e 5)\n  - Art. 14.º: dever de assistência ao consumidor\n  - Art. 15.º: cálculo da TAEG\n  - Arts. 16.º e 17.º: avaliação de solvabilidade e verificação da informação relativa ao consumidor\n  - Art. 29.º: contraordenações; art. 35.º: caráter imperativo; art. 36.º: inversão do ónus da prova — cabe ao mutuante provar que cumpriu. O diploma não prevê a invalidade do contrato por violação dos deveres de informação (ao contrário do art. 13.º do DL 133/2009) [■ VERIFICAR jurisprudência sobre as consequências civis]",
+        "motivo": "Artigos do DL 74-A/2017 trocados; o período de reflexão é de 7 dias (art. 13.º, n.º 5); os arts. 23.º e 43.º tratam de reembolso antecipado e de alteração ao DL 133/2009.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2842&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "  - Art. 6.º: informação pré-contratual (FIN — Ficha de Informação Normalizada)\n  - Art. 7.º: deveres de assistência\n  - Art. 8.º: avaliação de solvabilidade\n  - Art. 9.º: prazo de reflexão\n  - Art. 17.º: direito de retratação (14 dias)",
+        "para": "  - Art. 6.º: informação pré-contratual (FIN — ficha de «Informação normalizada europeia em matéria de crédito a consumidores», anexo II)\n  - Art. 7.º: dever de assistência\n  - Art. 8.º: informação pré-contratual nas facilidades de descoberto e noutros contratos de crédito especiais\n  - Art. 10.º: avaliação de solvabilidade\n  - Arts. 12.º e 13.º: requisitos do contrato e consequências da sua falta — nulidade, anulabilidade ou inexigibilidade, invocáveis só pelo consumidor, com redução das obrigações deste (art. 13.º, n.ºs 5 a 7)\n  - Art. 17.º: direito de livre revogação (14 dias de calendário, sem indicar motivo)\n  - O DL 133/2009 não prevê período de reflexão antes da celebração (este existe no crédito à habitação — art. 13.º, n.º 5, DL 74-A/2017)\n  - A Diretiva (UE) 2023/2225, que revoga a Diretiva 2008/48/CE, aplica-se a partir de 20/11/2026 [■ VERIFICAR: estado da transposição portuguesa e regime aplicável aos contratos celebrados a partir dessa data]",
+        "motivo": "A avaliação de solvabilidade é o art. 10.º; o art. 9.º trata da isenção de informação e não há prazo de reflexão; o direito de 14 dias é de livre revogação; faltava o art. 13.º (invalidade).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1107&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Aviso do Banco de Portugal n.º 5/2013 [■ VERIFICAR versão atual]",
+        "para": "- Regulamentação do Banco de Portugal sobre a informação pré-contratual (modelos da FIN e da FINE) [■ VERIFICAR aviso ou instrução em vigor]; o Aviso n.º 5/2013 respeitava à prevenção do branqueamento de capitais e foi revogado pelo Aviso n.º 2/2018",
+        "motivo": "O Aviso 5/2013 era de branqueamento de capitais e foi revogado pelo Aviso 2/2018.",
+        "fonte": "https://www.bportugal.pt/sites/default/files/anexos/pdf-boletim/bo_102018.pdf"
+      },
+      {
+        "de": "  - Direito de retratação?",
+        "para": "  - Direito de livre revogação, se ainda estiver em prazo (art. 17.º DL 133/2009)?",
+        "motivo": "A lei chama-lhe direito de livre revogação; é discricionário e não uma consequência do incumprimento.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1107&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "**2.1 Entrega da FINE (art. 15.º DL 74-A/2017)**",
+        "para": "**2.1 Entrega da FINE (art. 13.º DL 74-A/2017)**",
+        "motivo": "A FINE é o art. 13.º; o art. 15.º é o cálculo da TAEG.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2842&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "[■ VERIFICAR: prazo mínimo entre entrega da FINE e celebração do contrato]",
+        "para": "Período mínimo de reflexão: o consumidor não pode aceitar a proposta nos primeiros 7 dias do prazo de 30 dias durante o qual o mutuante fica vinculado (art. 13.º, n.ºs 4 e 5, DL 74-A/2017)",
+        "motivo": "Prazo confirmado no art. 13.º, n.ºs 4 e 5.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2842&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "**2.2 Avaliação de Solvabilidade (art. 13.º DL 74-A/2017)**",
+        "para": "**2.2 Avaliação de Solvabilidade (art. 16.º DL 74-A/2017)**",
+        "motivo": "A avaliação de solvabilidade é o art. 16.º.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2842&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "**2.3 Serviços Acessórios Vinculados (art. 14.º DL 74-A/2017)**",
+        "para": "**2.3 Vendas Associadas (art. 11.º DL 74-A/2017)**",
+        "motivo": "Seguros e outros produtos exigidos são vendas associadas (art. 11.º); o art. 14.º é o dever de assistência.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2842&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "**2.4 TAEG (art. 23.º DL 74-A/2017)**",
+        "para": "**2.4 TAEG (arts. 13.º e 15.º DL 74-A/2017)**",
+        "motivo": "O art. 23.º é o reembolso antecipado; a TAEG consta da FINE (art. 13.º) e calcula-se nos termos do art. 15.º.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2842&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Consequência legal: [responsabilidade civil / nulidade / direito de retratação / redução de obrigações]",
+        "para": "- Consequência legal: [responsabilidade civil / nulidade, anulabilidade ou inexigibilidade (crédito aos consumidores) / redução de obrigações / contraordenação]",
+        "motivo": "A livre revogação não é consequência do incumprimento; o DL 133/2009 prevê nulidade, anulabilidade ou inexigibilidade (art. 13.º).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1107&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "[Avaliar violações / Fundamentar reclamação / Preparar ação judicial / Retratação do contrato]",
+        "para": "[Avaliar violações / Fundamentar reclamação / Preparar ação judicial / Livre revogação do contrato (crédito aos consumidores, no prazo de 14 dias)]",
+        "motivo": "Termo legal: livre revogação (art. 17.º DL 133/2009).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1107&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Confirmar se, à data do parecer, já foi publicado o diploma que transpõe a Diretiva (UE) 2023/2225 e se se aplica ao contrato (data de celebração); o DL 133/2009 foi alterado por último pelo DL n.º 103/2025.",
+      "O art. 11.º do DL 74-A/2017 foi alterado pela Lei n.º 14/2026 (seguro de vida); confirmar a redação aplicável à data da celebração do contrato.",
+      "Confirmar em dgsi.pt as consequências civis da violação dos deveres de informação no crédito à habitação, para as quais o DL 74-A/2017 não comina a invalidade do contrato."
+    ],
+    "fontes": [
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2842&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1107&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.bportugal.pt/sites/default/files/anexos/pdf-boletim/bo_102018.pdf",
+      "https://publications.europa.eu/resource/celex/32023L2225",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?ficha=101&artigo_id=&nid=948&pagina=2&tabela=leis&nversao=&so_miolo=&"
+    ]
+  }
+]

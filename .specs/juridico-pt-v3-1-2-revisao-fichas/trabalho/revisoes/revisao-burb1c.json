@@ -1,0 +1,264 @@
+[
+ {
+  "codigo": "URB-052",
+  "veredicto": "corrigida",
+  "resumo": "A ficha seguia categorias do RAU (conservação ordinária / beneficiação com aumento de renda) e atribuía ao NRAU um prazo de 6 meses para a desocupação, sem base legal; o regime vigente é o do art. 1074.º CC e do DL 157/2006 (desocupação para obras de conservação até 60 dias, suspensão do contrato nas obras profundas, denúncia só sem local equivalente). Corrigiram-se as normas mal atribuídas (arts. 1036.º e 1038.º CC para o aviso e a indemnização; arts. 6.º-A a 35.º e 20.º/35.º RJUE para o título urbanístico) e a remissão para uma «ação de entrega do locado para obras» no BNA, que não existe: a oposição a obra ordenada pela autoridade pública funda a resolução (art. 1083.º, n.º 3, CC) e o procedimento especial de despejo no BAS só efetiva a cessação.",
+  "substituicoes": [
+   {
+    "de": "— Distingue obras de conservação ordinária de obras de beneficiação que podem fundamentar atualização de renda.",
+    "para": "— Distingue as obras de conservação, ordinárias ou extraordinárias, a cargo do senhorio salvo estipulação em contrário (art. 1074.º, n.º 1, CC), das obras de remodelação ou restauro profundos (art. 4.º DL 157/2006); as normas que previam a atualização da renda por obras foram revogadas (arts. 27.º e 28.º DL 157/2006), pelo que as obras não dão, por si, direito a aumentar a renda.",
+    "motivo": "A distinção conservação ordinária/beneficiação e o aumento de renda por obras eram do RAU; no regime vigente todas as obras de conservação cabem ao senhorio e os artigos do DL 157/2006 sobre atualização da renda estão revogados.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=912&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Obras de conservação ordinária: obrigação do senhorio (art. 1074.º CC)",
+    "para": "- Obras de conservação, ordinárias ou extraordinárias: obrigação do senhorio, salvo estipulação em contrário (art. 1074.º CC)",
+    "motivo": "O art. 1074.º, n.º 1, CC põe a cargo do senhorio todas as obras de conservação, ordinárias ou extraordinárias.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1074&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Obras de beneficiação (melhoramento além da conservação): admitidas com acordo do arrendatário ou após denúncia",
+    "para": "- Obras de remodelação ou restauro profundos (reconstrução, ou alteração ou ampliação de que resulte nível de conservação bom ou superior e cujo custo atinja pelo menos 25 % do valor do locado calculado pelo valor mediano das vendas por m² divulgado pelo INE — art. 4.º, n.º 1, DL 157/2006): suspensão do contrato durante as obras, com realojamento temporário, ou, no contrato de duração indeterminada e se não resultar local com características equivalentes, denúncia (art. 5.º-A DL 157/2006; art. 1101.º, al. b), CC); outras obras que diminuam o gozo do locado só com consentimento do arrendatário (art. 1037.º, n.º 1, CC)",
+    "motivo": "«Obras de beneficiação» é categoria do RAU; o regime vigente distingue as obras de remodelação ou restauro profundos, que levam à suspensão do contrato e só excecionalmente à denúncia.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=912&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Obras de urgência que ameaçam ruína: o senhorio pode aceder ao locado sem acordo",
+    "para": "- Reparações urgentes e obras ordenadas pela autoridade pública: o arrendatário tem de as tolerar (art. 1038.º, al. e), CC), mas o senhorio não pode entrar no locado por autoridade própria, e o arrendatário perturbado pode usar contra ele os meios de defesa da posse (art. 1037.º, n.º 2, CC) — perante recusa, recorrer a tribunal [■ VERIFICAR: meio processual adequado, incluindo procedimento cautelar]; perante ameaça de ruína, a câmara pode ordenar a demolição total ou parcial (art. 89.º, n.º 3, RJUE)",
+    "motivo": "Não há direito de acesso sem acordo: a lei impõe ao arrendatário o dever de tolerar e dá-lhe os meios possessórios contra o senhorio.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1038&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Licença / CP necessária: verificar se as obras exigem título administrativo (art. 6.º-A a 35.º RJUE)",
+    "para": "- Licença / CP necessária: verificar se as obras exigem título urbanístico (arts. 4.º, 6.º e 6.º-A RJUE) — as obras de conservação estão, em regra, isentas (art. 6.º, n.º 1, al. a), RJUE), salvo em imóveis classificados ou em vias de classificação (art. 4.º, n.º 2, al. d), RJUE)",
+    "motivo": "As operações sujeitas a licença ou comunicação prévia constam do art. 4.º RJUE e as isenções dos arts. 6.º e 6.º-A; o intervalo citado não tinha sentido.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=625&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Direito a ser notificado com antecedência mínima (art. 1036.º CC)",
+    "para": "- Direito a ser avisado com antecedência: pelo menos três meses antes, no pedido de desocupação para obras de conservação (art. 3.º, n.os 1 e 3, DL 157/2006), e seis meses, na denúncia para demolição ou obras de remodelação ou restauro profundos (art. 8.º, n.º 1, DL 157/2006)",
+    "motivo": "O art. 1036.º CC trata das reparações urgentes feitas pelo arrendatário; os prazos de aviso estão no DL 157/2006.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=912&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Direito a indemnização por danos causados pelas obras (art. 1038.º CC)",
+    "para": "- Direito a indemnização pelos danos causados pelas obras, nos termos gerais da responsabilidade civil, e pelo incumprimento do prazo máximo de desocupação (art. 3.º, n.º 4, DL 157/2006)",
+    "motivo": "O art. 1038.º CC enumera as obrigações do locatário, não o direito a indemnização; a indemnização específica está no art. 3.º, n.º 4, do DL 157/2006.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=912&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Obras que obrigam à desocupação: prazo máximo de 6 meses no NRAU; além disso o arrendatário pode resolver",
+    "para": "- Obras que obrigam à desocupação: nas obras de conservação, a desocupação não pode exceder 60 dias, o senhorio realoja o arrendatário em condições análogas e suporta as despesas, e só pode pedi-la se não o tiver feito nos oito anos anteriores e o contrato tiver pelo menos dois anos de duração efetiva (art. 3.º DL 157/2006); nas obras de remodelação ou restauro profundos, o contrato suspende-se durante as obras, com realojamento temporário no mesmo concelho e a mesma renda, e o arrendatário pode, em alternativa, denunciar o contrato no prazo de 30 dias (arts. 5.º-A, 9.º-B e 10.º-A DL 157/2006)",
+    "motivo": "Não há prazo de 6 meses no NRAU: o limite de 60 dias, o realojamento e a suspensão com faculdade de denúncia pelo arrendatário estão no DL 157/2006.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=912&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Obtenção de licença/CP antes de iniciar obras (art. 20.º ou 35.º RJUE)",
+    "para": "- Obtenção do título urbanístico (licença ou comunicação prévia) antes de iniciar obras sujeitas a controlo prévio (arts. 4.º e 4.º-A RJUE)",
+    "motivo": "O art. 20.º RJUE trata da apreciação dos projetos e o art. 35.º do regime da comunicação prévia; a sujeição a controlo prévio e o título constam dos arts. 4.º e 4.º-A (DL 108/2026).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=625&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Notificação escrita ao arrendatário (art. 1036.º CC) com descrição das obras, prazo e necessidade de acesso",
+    "para": "- Notificação escrita ao arrendatário com descrição das obras, prazo e necessidade de acesso; havendo desocupação para obras de conservação, com o prazo das obras, as condições do realojamento e as datas de entrega das chaves e de desocupação (art. 3.º, n.º 3, DL 157/2006); havendo suspensão para obras profundas, com o local e as condições do realojamento e a data de início e a duração previsível das obras (art. 10.º-A, n.º 1, DL 157/2006)",
+    "motivo": "O art. 1036.º CC não regula a comunicação do senhorio; o conteúdo da comunicação está nos arts. 3.º e 10.º-A do DL 157/2006.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=912&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Se obras exigem desocupação: denúncia formal com prazo (art. 1053.º CC e NRAU)",
+    "para": "- Se obras exigem desocupação: nas obras de conservação, pedido de desocupação com três meses de antecedência (art. 3.º DL 157/2006); nas obras de remodelação ou restauro profundos, comunicação da suspensão do contrato (art. 10.º-A DL 157/2006) ou, só no contrato de duração indeterminada e se não resultar local com características equivalentes, denúncia (art. 1101.º, al. b), CC) com antecedência não inferior a seis meses e com os documentos exigidos, sob pena de ineficácia (art. 8.º DL 157/2006)",
+    "motivo": "A desocupação para obras não passa, em regra, pela denúncia: há desocupação temporária ou suspensão; a denúncia é excecional (art. 1101.º, al. b), CC), com a forma do art. 8.º do DL 157/2006.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=912&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Obras clandestinas em imóvel arrendado: o arrendatário pode recusar o acesso sem autorização camarária",
+    "para": "- Obras sem o título urbanístico exigido: o senhorio só pode praticar atos que diminuam o gozo do locado quando a lei os faculte ou o arrendatário consinta (art. 1037.º, n.º 1, CC), pelo que o arrendatário pode recusar o acesso enquanto o título não for exibido [■ VERIFICAR: jurisprudência sobre a recusa de acesso a obras sem título]",
+    "motivo": "A afirmação não tinha base legal indicada; a base é o art. 1037.º, n.º 1, CC, e o título é a licença ou a comunicação prévia, não uma «autorização camarária».",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1037&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Obras exigidas pela câmara e o arrendatário recusa acesso: ação de entrega do locado para execução de obras (BNA)",
+    "para": "- Obras exigidas pela câmara e o arrendatário recusa acesso: o arrendatário tem de as tolerar (art. 1038.º, al. e), CC); a oposição é fundamento de resolução pelo senhorio, por comunicação, que fica sem efeito se a oposição cessar em 60 dias (arts. 1083.º, n.º 3, e 1084.º, n.os 2 e 5, CC); a desocupação efetiva-se pelo procedimento especial de despejo no Balcão do Arrendatário e do Senhorio (BAS), com o comprovativo da oposição emitido pela autoridade competente (arts. 15.º, n.º 2, al. e), e 15.º-A NRAU) — não há procedimento de entrega temporária do locado para obras; nas obras coercivas, o município pode proceder ao despejo administrativo, assegurando o realojamento temporário (arts. 13.º e 15.º DL 157/2006)",
+    "motivo": "O procedimento especial de despejo só efetiva a cessação do contrato (art. 15.º NRAU) e o BNA passou a BAS; a recusa de obra ordenada funda a resolução (art. 1083.º, n.º 3, CC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=691&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar se o contrato é de duração indeterminada ou com prazo certo: a denúncia do art. 1101.º, al. b), CC só vale para o primeiro.",
+   "Nos contratos habitacionais anteriores ao RAU com arrendatário de 65 ou mais anos ou com deficiência de grau igual ou superior a 60 %, aplica-se o regime especial dos arts. 23.º a 26.º-A do DL 157/2006.",
+   "Verificar se no locado há estabelecimento ou entidade reconhecidos como de interesse histórico e cultural ou social local (arts. 6.º, n.º 7, e 7.º-A do DL 157/2006).",
+   "Escolher o meio processual para obter o acesso ao locado quando o arrendatário o recuse fora do caso de obra ordenada pela autoridade pública."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=912&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1031&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1037&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1038&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1074&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1083&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1084&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1101&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=691&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=625&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=625&artigo_id=&tabela=leis&ficha=101&pagina=&nversao=&so_miolo=&"
+  ]
+ },
+ {
+  "codigo": "URB-055",
+  "veredicto": "corrigida",
+  "resumo": "A ficha classificava o solo em «urbano / rústico / misto» e citava o art. 10.º RJIGT, que trata da identificação dos recursos territoriais; desde a Lei 31/2014 e o DL 80/2015 o solo só é urbano ou rústico (art. 71.º RJIGT; art. 10.º da Lei 31/2014). A qualificação «consolidado / em consolidação / de expansão» é de PDM não adaptado: substituiu-se pelas categorias do Decreto Regulamentar 15/2015 e acrescentou-se o risco da suspensão das normas das áreas urbanizáveis (art. 199.º RJIGT), determinante numa análise de investimento.",
+  "substituicoes": [
+   {
+    "de": "- Classificação do solo: urbano / rústico / misto (art. 10.º RJIGT)",
+    "para": "- Classificação do solo: urbano ou rústico, sem outra classe (art. 71.º RJIGT; art. 10.º, n.º 1, da Lei 31/2014)",
+    "motivo": "Não existe solo «misto»; a classificação assenta só na distinção entre solo urbano e rústico, e o art. 10.º RJIGT trata de outra matéria.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2333&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Qualificação: consolidado / em consolidação / de expansão / industrial / serviços / outro",
+    "para": "- Qualificação: categoria de solo fixada no PDM — no solo urbano, espaços centrais, habitacionais, de atividades económicas, verdes, urbanos de baixa densidade ou de uso especial (art. 25.º do Decreto Regulamentar n.º 15/2015); categorias como «urbanizável», «de urbanização programada» ou «de expansão» indicam PDM não adaptado: se a adaptação não estava feita a 31/12/2024, a CCDR pode suspender as normas dessas áreas, e os atos de ocupação, uso e transformação do solo praticados durante a suspensão são nulos, salvo as exceções do n.º 4 (art. 199.º, n.os 2, 3 e 7, RJIGT)",
+    "motivo": "As categorias indicadas são de PDM de primeira geração; as categorias legais são as do art. 25.º do DR 15/2015 e o PDM não adaptado sujeita as áreas urbanizáveis à suspensão do art. 199.º RJIGT.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2333&artigo_id=&tabela=leis&ficha=201&pagina=&nversao=&so_miolo=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar junto da câmara e da CCDR se o PDM já incluiu as novas regras de classificação e qualificação e se foi decretada a suspensão do art. 199.º RJIGT na área do terreno.",
+   "Se o terreno for rústico, avaliar se cabe no regime especial de reclassificação para habitação (art. 72.º-B RJIGT) antes de o dar por inviável."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2333&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2333&artigo_id=&tabela=leis&ficha=201&pagina=&nversao=&so_miolo=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2123&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2436&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=625&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+  ]
+ },
+ {
+  "codigo": "URB-057",
+  "veredicto": "corrigida",
+  "resumo": "A ficha exigia «autorização de utilização (art. 62.º RJUE)», figura que o DL 10/2024 e o DL 108/2026 substituíram pela comunicação prévia de utilização (art. 62.º-A) ou pela comunicação prévia com prazo (art. 62.º-B); acrescentou-se que o título se transmite com a propriedade e que o documento da transmissão tem de o mencionar, sob pena de anulabilidade (art. 4.º-A, n.os 13 e 14, RJUE). Corrigiram-se ainda as normas da certidão de localização (art. 110.º, não 82.º, RJUE) e da ficha técnica da habitação (DL 68/2004, não art. 67.º RJUE, já sem exibição na escritura), a terminologia registal («pré-anotações», «anotação de litígios») e a entidade do património (Património Cultural, I. P., não a DGPC).",
+  "substituicoes": [
+   {
+    "de": "- [ ] Anotação de litígios pendentes sobre o imóvel",
+    "para": "- [ ] Registo de ações pendentes sobre o imóvel (art. 3.º do Código do Registo Predial)",
+    "motivo": "As ações sobre o imóvel estão sujeitas a registo, não a anotação.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=488A0003&nid=488&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Verificação de pré-anotações ou contratos-promessa anotados",
+    "para": "- [ ] Verificação de registos provisórios e de contratos-promessa com eficácia real registados (art. 2.º, n.º 1, al. f), do Código do Registo Predial)",
+    "motivo": "«Pré-anotação» não é figura do registo predial português; a promessa com eficácia real é registada.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=488A0002&nid=488&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Certidão de localização e confrontações (art. 82.º RJUE) — Câmara Municipal",
+    "para": "- [ ] Certidão de localização e confrontações e informação sobre os instrumentos de gestão territorial aplicáveis — Câmara Municipal (direito à informação e a certidões: art. 110.º, n.os 1 e 3, RJUE)",
+    "motivo": "O art. 82.º RJUE trata da ligação às redes públicas; o direito à informação e a certidões está no art. 110.º.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=625&artigo_id=&tabela=leis&ficha=101&pagina=&nversao=&so_miolo=&"
+   },
+   {
+    "de": "- [ ] Licenças e alvarás em vigor (construção, loteamento, utilização) — arquivo camarário",
+    "para": "- [ ] Títulos urbanísticos em vigor — licenças e comunicações prévias (art. 4.º-A RJUE) e alvarás emitidos no regime anterior — de construção, loteamento e utilização — processos de obras da Câmara Municipal",
+    "motivo": "O alvará deixou de ser o título das operações: a licença e a comunicação prévia são tituladas nos termos do art. 4.º-A RJUE.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=625&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Autorização de utilização emitida e válida (art. 62.º RJUE)",
+    "para": "- [ ] Título de utilização: autorização ou licença de utilização emitida no regime anterior ou, no regime atual, comunicação prévia de utilização após obra (art. 62.º RJUE; art. 62.º-A RJUE) ou comunicação prévia com prazo, sem obra (art. 62.º-B RJUE); o título transmite-se com a propriedade (art. 4.º-A, n.º 13, RJUE) e o documento que titula a transmissão tem de mencionar o título urbanístico ou a declaração do transmitente de que dele dispõe ou não dispõe, sob pena de anulabilidade (art. 4.º-A, n.º 14, RJUE)",
+    "motivo": "A autorização de utilização foi substituída pela comunicação prévia (art. 62.º-A) ou pela comunicação prévia com prazo (art. 62.º-B); o DL 108/2026 exige a menção do título no negócio, sob pena de anulabilidade.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=625&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Ficha técnica de habitação (art. 67.º RJUE — para habitação pós-2004)",
+    "para": "- [ ] Ficha técnica da habitação (DL 68/2004 — para habitação pós-2004; desde 1/1/2024 já não é exibida na escritura, por o DL 10/2024 ter revogado o art. 9.º desse diploma, mas continua a pedir-se ao vendedor)",
+    "motivo": "O art. 67.º RJUE trata dos requisitos de validade das licenças; a ficha técnica rege-se pelo DL 68/2004, cujo art. 9.º (exibição na escritura) foi revogado pelo DL 10/2024.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3737&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "(IP, CCDR, APA, DGPC, ANAC)",
+    "para": "(IP, CCDR, APA, Património Cultural, I. P., que substituiu a DGPC, ANAC)",
+    "motivo": "A DGPC foi extinta; os pareceres sobre imóveis classificados e zonas de proteção cabem ao Património Cultural, I. P. (art. 24.º, n.º 7, RJUE).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=625&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Nos edifícios anteriores à exigência de licença de utilização, confirmar o meio de prova da isenção aceite pela câmara.",
+   "Confirmar o âmbito temporal da ficha técnica da habitação no DL 68/2004 (habitação cuja construção ou obra foi objeto de controlo prévio após a sua entrada em vigor).",
+   "Prever no CPCV a declaração do vendedor sobre o título urbanístico exigida pelo art. 4.º-A, n.º 14, RJUE."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=625&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=625&artigo_id=&tabela=leis&ficha=101&pagina=&nversao=&so_miolo=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3737&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=488A0002&nid=488&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=488A0003&nid=488&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+  ]
+ },
+ {
+  "codigo": "URB-060",
+  "veredicto": "corrigida",
+  "resumo": "A ficha remetia a área mínima da divisão de prédio rústico para a RAN, quando o limite é a unidade de cultura (arts. 1376.º a 1379.º CC), e atribuía ao comproprietário um «direito a ser indemnizado» e um direito de «impugnar deliberações» que a lei não prevê; substituiu-se pelo regime das tornas e da adjudicação ou venda (art. 929.º CPC) e da administração (art. 1407.º CC). Articulou-se a divisão com o loteamento (arts. 2.º, al. i), e 49.º RJUE), precisou-se o direito de preferência (só na venda ou dação a estranhos) e o limite da convenção de indivisão, e corrigiu-se o intervalo do processo de divisão de coisa comum (arts. 925.º a 930.º CPC).",
+  "substituicoes": [
+   {
+    "de": "os arts. 925.º a 939.º CPC",
+    "para": "os arts. 925.º a 930.º CPC",
+    "motivo": "O processo de divisão de coisa comum ocupa os arts. 925.º a 930.º CPC; os arts. 931.º e seguintes tratam de outros processos especiais.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1959&tabela=leis&pagina=1&ficha=901&so_miolo=&nversao=&"
+   },
+   {
+    "de": "um comproprietário vende a outro ou a terceiro (direito de preferência dos demais — art. 1409.º CC)",
+    "para": "um comproprietário vende a outro ou a terceiro (direito de preferência dos demais — art. 1409.º CC —, que só existe na venda ou dação em cumprimento a estranhos)",
+    "motivo": "A preferência do comproprietário só existe na venda ou dação em cumprimento da quota a estranhos.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1409&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Divisão de prédio rústico: verificar se as parcelas respeitam a área mínima (RAN) e os parâmetros do PDM",
+    "para": "- Divisão de prédio rústico: verificar se as parcelas de terreno apto para cultura respeitam a unidade de cultura fixada para a zona e não ficam encravadas (art. 1376.º CC), salvo as exceções do art. 1377.º CC — o fracionamento contrário é nulo (art. 1379.º, n.º 1, CC) [■ VERIFICAR: diploma que fixa a unidade de cultura na região] —, e os parâmetros do PDM",
+    "motivo": "A área mínima resulta da unidade de cultura e do regime de fracionamento do Código Civil, não da RAN.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1376&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Certidão camarária de conformidade da divisão com o PDM (quando exigida)",
+    "para": "- Se da divisão resultarem lotes destinados a edificação urbana, há operação de loteamento (art. 2.º, al. i), RJUE), sujeita a licença ou comunicação prévia, e os documentos judiciais e os instrumentos que a formalizem têm de mencionar o respetivo título e a certidão do registo predial (art. 49.º, n.º 1, RJUE); no destaque, a certidão camarária comprovativa dos requisitos basta para o registo da parcela (art. 6.º, n.º 9, RJUE)",
+    "motivo": "A «certidão de conformidade» era vaga; a divisão que cria lotes para construção é loteamento e o destaque prova-se por certidão camarária.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=625&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Direito a requerer a divisão a qualquer momento (art. 1412.º CC)",
+    "para": "- Direito a requerer a divisão a qualquer momento, salvo convenção de indivisão, que não pode exceder cinco anos, renováveis por nova convenção (art. 1412.º CC)",
+    "motivo": "O direito de exigir a divisão cede perante a convenção de indivisão (art. 1412.º, n.os 1 e 2, CC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1412&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Direito a ser indemnizado se a divisão lhe for desfavorável",
+    "para": "- Direito a receber o valor da sua quota: sendo a coisa indivisível e adjudicada a outro ou outros consortes, a quota é preenchida em dinheiro (tornas) e, sem acordo sobre a adjudicação, a coisa é vendida, podendo os consortes concorrer à venda (art. 929.º, n.os 2 e 5, CPC); a lei não prevê outra indemnização por a divisão lhe ser desfavorável",
+    "motivo": "Não há direito a indemnização na divisão; o equilíbrio faz-se pelas tornas, pela adjudicação ou pela venda (art. 929.º CPC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0929&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Direito de impugnar deliberações maioritárias sobre administração do imóvel",
+    "para": "- Direito de se opor a atos de administração, decidindo a maioria que represente pelo menos metade do valor das quotas, e de recorrer ao tribunal quando não se forme a maioria legal (art. 1407.º, n.os 1 e 2, CC); os atos de um comproprietário contra a oposição da maioria são anuláveis (art. 1407.º, n.º 3, CC); a lei não prevê a impugnação das decisões da maioria [■ VERIFICAR: meios contra decisões abusivas da maioria]",
+    "motivo": "O art. 1407.º CC (com remissão para o art. 985.º CC) regula a administração por maioria e o recurso ao tribunal, mas não um direito de impugnar deliberações.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1407&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar a unidade de cultura aplicável à zona do prédio e se alguma exceção do art. 1377.º CC se verifica.",
+   "Se a divisão criar lotes para construção, obter o título de loteamento antes da escritura ou da sentença de divisão."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1376&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1377&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1379&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1407&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1409&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1412&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1413&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0985&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0925&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0929&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1959&tabela=leis&pagina=1&ficha=901&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=625&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+  ]
+ }
+]

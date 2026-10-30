@@ -1,0 +1,97 @@
+[
+  {"codigo": "CNS-032", "triagem": "ok"},
+  {"codigo": "CNS-033", "triagem": "rever", "gravidade": "media", "motivos": [
+    "A regra obrigatória diz que a falta de qualquer informação pré-contratual do art. 9.º alarga o prazo 'para 12 meses'. No DL 24/2014 a prorrogação só ocorre quando falta a informação sobre o direito de livre resolução (e o formulário) e é de 12 meses a contar do termo do prazo inicial de 14 dias, não um prazo total de 12 meses (a confirmar).",
+    "Mistura contrato fora do estabelecimento e contrato à distância (telemarketing) no mesmo regime de prazo e de informação sem distinguir as menções do art. 4.º (distância) e do art. 9.º (fora do estabelecimento)."
+  ]},
+  {"codigo": "CNS-034", "triagem": "rever", "gravidade": "media", "motivos": [
+    "Apresenta uma 'responsabilidade subsidiária da plataforma quando o vendedor é inidentificável' como regra: não existe norma geral portuguesa nem do DSA que a preveja (o DSA, art. 6.º, n.º 3, só afasta a isenção de hosting em apresentação enganosa do produto como da própria plataforma). Regra inventada ou sem base.",
+    "Indica a CNCS (Centro Nacional de Cibersegurança) como destinatária de participação contra a plataforma. Entidade errada: o coordenador dos serviços digitais em Portugal é a ANACOM (a confirmar), além da DGC/ASAE.",
+    "Remete para a plataforma ODR da UE, que deixou de existir em 20-07-2025 (Reg. (UE) 2024/3228 revogou o Reg. 524/2013).",
+    "A referência a 'art. 6.º-B, interpretação conforme' do DL 84/2021 para aplicar o diploma quando a plataforma não identifica o vendedor não tem base legal clara (a confirmar)."
+  ]},
+  {"codigo": "CNS-035", "triagem": "rever", "gravidade": "media", "motivos": [
+    "O 'Regulamento (UE) 2023/2673 (Digital Fairness Act)' não existe: a Diretiva (UE) 2023/2673 diz respeito aos contratos de serviços financeiros celebrados à distância (botão de resolução), não proíbe dark patterns em geral. O Digital Fairness Act é apenas proposta legislativa, não está em vigor. A ficha apresenta-o como fundamento da proibição de dark patterns.",
+    "A Lei 24/96, art. 9.º, não contém um 'direito a rescisão de contratos de execução continuada' (a confirmar); a base real é o regime contratual geral, o DL 446/85 e a legislação setorial.",
+    "Afirma que dificultar o cancelamento é 'dark pattern proibido' como regra geral; só o DSA (art. 25.º, plataformas em linha) e as práticas agressivas do DL 57/2008 têm tratamento direto."
+  ]},
+  {"codigo": "CNS-036", "triagem": "rever", "gravidade": "baixa", "motivos": [
+    "Afirma que a arbitragem de consumo é 'GRATUITA' para o consumidor em serviços essenciais com base no art. 15.º da Lei 144/2015; a gratuitidade categórica e a norma não estão confirmadas (cada centro tem tarifário próprio) (a confirmar).",
+    "O título fala em arbitragem 'obrigatória', mas a arbitragem necessária da Lei 23/96, art. 15.º, só opera por opção expressa do utente pessoa singular; a ficha não o diz."
+  ]},
+  {"codigo": "CNS-037", "triagem": "rever", "gravidade": "media", "motivos": [
+    "Os limites da compensação por reembolso antecipado estão errados: 1% e 0,5% são os tetos da Diretiva 2008/48. O DL 133/2009 (art. 19.º) fixa 0,5% se o prazo remanescente for superior a 1 ano e 0,25% se for igual ou inferior (a confirmar). A ficha duplica o valor admissível.",
+    "Não refere que a compensação só pode ser exigida em contratos de taxa fixa e sujeita a exceções legais (ex.: reembolso por seguro, descobertos); o cálculo da Etapa 3 aplica a compensação a qualquer contrato.",
+    "O 'Aviso BdP n.º 10/2014 (cálculo da TAEG)' é duvidoso: o cálculo da TAEG consta do art. 24.º e do Anexo I do DL 133/2009 (a confirmar)."
+  ]},
+  {"codigo": "CNS-038", "triagem": "ok"},
+  {"codigo": "CNS-039", "triagem": "rever", "gravidade": "alta", "motivos": [
+    "Prazo errado: o art. 10.º da Lei 23/96 fixa a prescrição do direito ao recebimento do preço (e da diferença por erro do prestador) em 6 meses, não em 3 anos. Toda a análise de 'cobranças prescritas' (Etapas 1, 3 e 4) assenta no prazo de 3 anos e levaria a não invocar prescrição de consumos com mais de 6 meses.",
+    "A regra de 'fracionar regularizações em tantas faturas quantas as que originaram o débito estimado' atribuída ao art. 7.º, n.º 2 da Lei 23/96 não é regra conhecida da lei (a confirmar; matéria dos regulamentos ERSE).",
+    "Diz que a verificação do contador pode ser exigida 'à ERSE'; a verificação metrológica compete ao operador de rede/laboratório acreditado, não à ERSE."
+  ]},
+  {"codigo": "CNS-040", "triagem": "ok"},
+  {"codigo": "CNS-041", "triagem": "rever", "gravidade": "alta", "motivos": [
+    "Cita a Lei 5/2004 (arts. 47.º e ss.) como regime vigente das comunicações eletrónicas: foi revogada pela Lei 16/2022 (nova Lei das Comunicações Eletrónicas, transposição do Código Europeu).",
+    "Afirma fidelização máxima de 24 meses, 'salvo equipamento subsidiado, até 36 meses'; a lei fixa 24 meses e não prevê o limite de 36 meses (regra inventada, a confirmar).",
+    "Cita uma 'Deliberação ANACOM 788/2021' sobre limites da penalidade de saída e o 'art. 7.º-A da Lei 23/96' sobre fidelizações: ambos não confirmados e provavelmente inexistentes. O prazo de portabilidade é regulado por regulamento da ANACOM (Reg. 94/2016), não por 'deliberação'.",
+    "O art. 9.º da Lei 24/96 não prevê 'resolução por degradação do serviço' (a confirmar)."
+  ]},
+  {"codigo": "CNS-042", "triagem": "ok"},
+  {"codigo": "CNS-043", "triagem": "ok"},
+  {"codigo": "CNS-044", "triagem": "rever", "gravidade": "media", "motivos": [
+    "Inclui a plataforma ODR da UE (ec.europa.eu/consumers/odr) como via ativa: foi descontinuada em 20-07-2025 (Reg. (UE) 2024/3228 revogou o Reg. 524/2013).",
+    "O mapeamento dos centros está errado: o CIAB (Porto) é um centro de competência territorial, não o centro de 'telecomunicações, seguros e banca'; o TRIAVE é o centro do Vale do Ave, não de 'turismo e viagens'; o CNIACC não é 'geral online'. Quadro com competências e prazos médios invertidos/inventados (a confirmar na lista de entidades RAL da DGC).",
+    "Repete a gratuitidade categórica da arbitragem em serviços essenciais (Lei 144/2015, art. 15.º), não confirmada (a confirmar)."
+  ]},
+  {"codigo": "CNS-045", "triagem": "ok"},
+  {"codigo": "CNS-046", "triagem": "rever", "gravidade": "baixa", "motivos": [
+    "As consequências da violação dos deveres de informação ('ineficácia de cláusulas ou redução da taxa ao mínimo legal') estão vagas e imprecisas: o DL 133/2009 (art. 23.º) prevê a nulidade do contrato por falta de forma/elementos essenciais e a redução a juro legal/ausência de juros e encargos em certas omissões (TAEG, montante, prazo), e a redução ao limite máximo da TAEG em caso de usura; não existe 'taxa mínima legal' (a confirmar).",
+    "O 'Aviso BdP n.º 10/2014 (cálculo da TAEG)' é duvidoso; o cálculo da TAEG consta do DL 133/2009, art. 24.º e Anexo I (a confirmar)."
+  ]},
+  {"codigo": "CNS-047", "triagem": "rever", "gravidade": "baixa", "motivos": [
+    "O quadro de entidades competentes é duvidoso: para comércio geral a entidade fiscalizadora das reclamações do LRE é a ASAE, não a DGC (que não tem competência sancionatória); o Turismo de Portugal não é a entidade fiscalizadora do alojamento em geral (a confirmar).",
+    "Não refere que o LRE encaminha automaticamente a reclamação para a entidade competente, pelo que a 'escalada' pode duplicar o procedimento (a confirmar)."
+  ]},
+  {"codigo": "CNS-048", "triagem": "rever", "gravidade": "media", "motivos": [
+    "Aponta como requisito a 'denúncia no prazo de 2 meses após deteção' (art. 11.º DL 84/2021): esse ónus de denúncia era do regime anterior (DL 67/2003) e foi eliminado pelo DL 84/2021, que não o manteve (a confirmar). Quem seguisse a ficha trataria como prazo de caducidade algo que já não existe.",
+    "Chama 'prescrição de 6 meses' ao prazo do art. 917.º CC, que é de caducidade da ação; omite também o limite de 6 meses sobre a entrega para a denúncia nos bens móveis (art. 916.º CC)."
+  ]},
+  {"codigo": "CNS-049", "triagem": "ok"},
+  {"codigo": "CNS-050", "triagem": "rever", "gravidade": "media", "motivos": [
+    "Diz que o PARI é obrigatório para crédito à habitação e 'boas práticas' para crédito ao consumo: o DL 227/2012 (PARI e PERSI) aplica-se aos contratos de crédito celebrados com consumidores em geral (consumo, habitação, cartões, descobertos), com obrigação das instituições.",
+    "Impenhorabilidade errada: o CPC, art. 738.º, torna impenhoráveis 2/3 da parte líquida do vencimento, com mínimo de 1 salário mínimo (se o executado não tiver outro rendimento) e máximo de 3 salários mínimos; não existe a regra 'salário mínimo + 1/3 do excedente'.",
+    "A Lei 58/2012 (regime extraordinário de proteção de devedores de crédito à habitação) tem âmbito restrito e é apresentada sem ressalva de aplicabilidade atual (a confirmar)."
+  ]},
+  {"codigo": "CNS-051", "triagem": "rever", "gravidade": "media", "motivos": [
+    "Atribui ao art. 10.º do DL 133/2009 uma proibição de produtos associados obrigatórios no crédito ao consumo; na CNS-046 o mesmo artigo é a avaliação de solvabilidade. A proibição invocada não está confirmada (a confirmar).",
+    "Cita o DL 349/98 para a proibição de impor seguro de vida a uma seguradora específica no crédito à habitação: o regime em vigor é o do DL 74-A/2017 (crédito a consumidores para imóveis, com regras sobre vendas associadas/combinadas) e do DL 222/2009 para os seguros; o DL 349/98 parece revogado/desatualizado (a confirmar).",
+    "O ponto 29 do Anexo I do DL 57/2008 (fornecimento não solicitado) não é 'apresentar como obrigatório aquilo que é facultativo' (a confirmar)."
+  ]},
+  {"codigo": "CNS-052", "triagem": "rever", "gravidade": "baixa", "motivos": [
+    "Constrói uma 'resolução por justa causa' do consumidor com base no art. 9.º da Lei 24/96, que não confere direito geral de resolução em contratos de execução continuada (a confirmar). Num contrato de duração determinada com fidelização, a saída antecipada depende do contrato, do CC (arts. 432.º e 437.º) ou do controlo das cláusulas (DL 446/85); 'justa causa' não é conceito geral do direito do consumo.",
+    "Não refere o regime específico dos ginásios (Lei 39/2012 e DL 10/2015, a confirmar) nem distingue contrato de duração indeterminada (denúncia livre com pré-aviso) de contrato a termo com fidelização."
+  ]},
+  {"codigo": "CNS-053", "triagem": "rever", "gravidade": "media", "motivos": [
+    "A regra obrigatória afirma que o reparador 'não pode reter o bem' e que a retenção 'pode configurar detenção ilícita'. O art. 754.º CC reconhece direito de retenção a quem tem crédito por despesas feitas por causa da coisa (a jurisprudência aplica-o ao reparador/empreiteiro), pelo menos quanto ao valor devido; a ficha contradiz-se com a Etapa 2 (art. 754.º) e com a estratégia de pagar sob protesto.",
+    "O orçamento escrito obrigatório 'sempre que o consumidor o solicite' atribuído ao art. 7.º da Lei 24/96 não está confirmado (a confirmar; regras setoriais, ex. reparação automóvel)."
+  ]},
+  {"codigo": "CNS-054", "triagem": "rever", "gravidade": "media", "motivos": [
+    "Apresenta como regra geral que 'um aumento significativo de preço confere ao consumidor direito de resolução sem penalidade'. Esse direito é setorial (comunicações eletrónicas, serviços regulados) e não existe regra geral nos contratos de trato sucessivo (a confirmar).",
+    "Indica o art. 13.º do DL 24/2014 como fundamento de 'resolução quando há alteração contratual'; esse regime é o da livre resolução de 14 dias após a celebração do contrato à distância, não cobre alterações de preço.",
+    "Qualifica a cláusula de preço unilateral como 'absolutamente proibida' (art. 18.º) quando em relações com consumidores o enquadramento próprio é o do art. 22.º (relativamente proibidas), como a própria ficha cita (inconsistência, a confirmar)."
+  ]},
+  {"codigo": "CNS-055", "triagem": "rever", "gravidade": "baixa", "motivos": [
+    "Remete para a plataforma ODR para vendedor noutro Estado-Membro; foi descontinuada em 20-07-2025 (Reg. (UE) 2024/3228).",
+    "O alargamento para 12 meses é descrito de forma imprecisa ('se o vendedor já forneceu formulário'): só ocorre se faltar a informação sobre o direito de livre resolução (e o formulário), e acresce 12 meses ao termo do prazo inicial de 14 dias.",
+    "O 'prazo adicional de 5-7 dias úteis' para entrega não vem na lei, que exige um prazo adicional adequado (art. 18.º DL 24/2014)."
+  ]},
+  {"codigo": "CNS-056", "triagem": "ok"},
+  {"codigo": "CNS-057", "triagem": "ok"},
+  {"codigo": "CNS-058", "triagem": "rever", "gravidade": "media", "motivos": [
+    "Checklist e regras exigem 'denúncia no prazo de 2 meses após deteção (art. 11.º DL 84/2021)': esse ónus era do DL 67/2003 e não foi mantido no DL 84/2021 (a confirmar). Pode levar a considerar caducado um direito ainda exercível.",
+    "O risco de perda ou dano no transporte (passa ao consumidor com a posse física) consta do DL 24/2014 (contratos à distância), não do DL 84/2021, art. 17.º (que na CNS-059 é a garantia comercial). Norma no diploma errado.",
+    "Os 'arts. 10.º a 13.º DL 84/2021' são apresentados como remédios/garantia sem ressalvar que a ordem dos remédios e prazos está noutros artigos (a confirmar)."
+  ]},
+  {"codigo": "CNS-059", "triagem": "ok"}
+]

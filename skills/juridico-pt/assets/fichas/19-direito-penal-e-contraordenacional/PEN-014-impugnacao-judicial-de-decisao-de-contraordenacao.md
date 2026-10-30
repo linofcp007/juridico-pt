@@ -6,7 +6,8 @@ titulo_en: "Judicial Challenge to an Administrative Offence Decision"
 descricao: "Gera a impugnação judicial da decisão administrativa que aplicou coima por infração contraordenacional, para apresentação no tribunal competente, nos termos do art. 59.º do Regime Geral das Contraordenações (RGCO — Decreto-Lei n.º 433/82, de 27 de Outubro)."
 descricao_en: "Generates the judicial challenge (impugnação judicial) to the administrative decision imposing a fine (coima) for an administrative offence (contraordenação), to be filed with the competent court, under Article 59 of the General Regime for Administrative Offences (RGCO — Decree-Law No. 433/82 of 27 October)."
 ambito: nacional
-estado_citacoes: "conferidas 15 · corrigidas 3 · por conferir 2"
+estado_citacoes: "conferidas 25 · corrigidas 3 · por conferir 2"
+revisao_tecnica: "2026-10-28 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
@@ -14,7 +15,8 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 
 > **Âmbito:** nacional · **Área:** Direito Penal e Contraordenacional · **Código:** PEN-014
 > **EN:** Judicial Challenge to an Administrative Offence Decision. Generates the judicial challenge (impugnação judicial) to the administrative decision imposing a fine (coima) for an administrative offence (contraordenação), to be filed with the competent court, under Article 59 of the General Regime for Administrative Offences (RGCO — Decree-Law No. 433/82 of 27 October).
-> **Citações:** conferidas 15 · corrigidas 3 · por conferir 2. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 25 · corrigidas 3 · por conferir 2. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-28 — corrigida (7 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
 Gera a impugnação judicial da decisão administrativa que aplicou coima por infração contraordenacional, para apresentação no tribunal competente, nos termos do art. 59.º do Regime Geral das Contraordenações (RGCO — Decreto-Lei n.º 433/82, de 27 de Outubro).
 
@@ -26,9 +28,9 @@ Ficha de trabalho para preparar este documento. As regras da casa prevalecem sob
 — NUNCA inventes jurisprudência ou doutrina sem verificação.
 — Marca [■ VERIFICAR: dado necessário] quando faltar informação.
 — Prazo: 20 dias úteis após a notificação da decisão (art. 59.º, n.º 3 RGCO).
-— A impugnação judicial é apresentada no tribunal competente, que procede a julgamento (art. 61.º RGCO).
+— A impugnação judicial é dirigida ao tribunal competente — o da área em que se consumou a infração (art. 61.º RGCO) —, mas é feita por escrito e apresentada à autoridade administrativa que aplicou a coima, com alegações e conclusões (art. 59.º, n.º 3, RGCO); a autoridade envia os autos ao Ministério Público em 5 dias, que os torna presentes ao juiz, valendo este ato como acusação (art. 62.º, n.º 1, RGCO); o juiz decide por audiência de julgamento ou por simples despacho, se o arguido e o Ministério Público não se opuserem (art. 64.º RGCO). Nas contraordenações das entidades reguladoras enumeradas no art. 112.º, n.º 1, da Lei n.º 62/2013 (LOSJ), é competente o Tribunal da Concorrência, Regulação e Supervisão.
 — O arguido pode requerer a produção de prova (art. 72.º RGCO).
-— Se a coima for suspensa na impugnação: verificar se há efeito suspensivo (art. 59.º, n.º 4 RGCO [■ VERIFICAR: o art. 59.º RGCO não tem n.º 4 nem regula o efeito da impugnação; confirmar o regime (geral ou especial) aplicável] — regra geral: não suspende).
+— Efeito da impugnação: no regime geral, a decisão só se torna definitiva e exequível se não for judicialmente impugnada (art. 58.º, n.º 2, al. a), RGCO) e a coima só é paga nos 10 dias seguintes ao carácter definitivo ou ao trânsito em julgado da decisão (art. 88.º, n.º 1, RGCO); alguns regimes especiais atribuem à impugnação efeito meramente devolutivo, como o das contraordenações laborais (art. 35.º, n.º 1, da Lei n.º 107/2009) [■ VERIFICAR o regime especial aplicável].
 — Verificar se existe regime especial aplicável (RGCO é supletivo em relação a regimes setoriais).
 
 ---
@@ -55,7 +57,7 @@ Apresenta em <fundamentos_juridicos>:
 - Moldura contraordenacional aplicável e critérios de determinação da coima (art. 18.º RGCO: gravidade, culpa, situação económica)
 - Prescrição do procedimento contraordenacional (art. 27.º RGCO) [■ VERIFICAR prazos do regime especial]
 - Direito de audição prévia: art. 50.º RGCO — notificação obrigatória antes da decisão
-- Art. 1.º, n.º 1 CRP [■ VERIFICAR: o art. 1.º CRP não tem números nem consagra a proporcionalidade; basta o art. 18.º, n.º 2 CRP] e art. 18.º, n.º 2 CRP — princípio da proporcionalidade
+- Princípio da proporcionalidade: art. 18.º, n.º 2 CRP
 
 ### ETAPA 3 — CONSTRUÇÃO ARGUMENTATIVA
 Define em <estrategia>:
@@ -69,7 +71,8 @@ Define em <estrategia>:
 ### ETAPA 4 — A IMPUGNAÇÃO JUDICIAL
 Redige a peça completa:
 
-**AO [JUÍZO DE COMPETÊNCIA GENÉRICA / JUÍZO LOCAL — VERIFICAR competência]**
+**AO [JUÍZO DE COMPETÊNCIA GENÉRICA / JUÍZO LOCAL da área da consumação da infração (art. 61.º RGCO) / TRIBUNAL DA CONCORRÊNCIA, REGULAÇÃO E SUPERVISÃO, nas contraordenações das entidades reguladoras — VERIFICAR competência]**
+**(apresentada a [autoridade administrativa que aplicou a coima] — art. 59.º, n.º 3, RGCO)**
 **[Comarca]**
 
 **[Nome do arguido]**, NIF [número], residente em [morada], representado pelo Mandatário [nome], Cédula OA n.º [número], vem interpor **IMPUGNAÇÃO JUDICIAL** da decisão administrativa notificada em [data], ao abrigo do art. 59.º do DL n.º 433/82 (RGCO), pelos fundamentos seguintes:
@@ -92,7 +95,7 @@ A) **A infração não foi cometida**:
 [Narração da versão do arguido; factos que demonstram a ausência de infração]
 
 B) **Ausência de culpa / erro não culposo**:
-[O arguido atuou de boa-fé, convicto da legalidade da sua conduta — art. 8.º RGCO]
+[O arguido atuou de boa-fé, convicto da licitude da sua conduta, por erro sobre a ilicitude que não lhe é censurável — art. 9.º, n.º 1, RGCO; ou por erro sobre elementos do tipo ou sobre a proibição, que exclui o dolo — art. 8.º RGCO]
 
 C) **Prescrição do procedimento (art. 27.º RGCO)**:
 [Se aplicável: calcular o prazo de prescrição e demonstrar que está esgotado]
@@ -110,7 +113,10 @@ Requer-se a produção de prova em julgamento:
 a) Documental: [lista de documentos juntos]
 b) Testemunhal: [rol de testemunhas: nome, morada, razão de ciência]
 
-**VII. DO PEDIDO**
+**VII. DAS CONCLUSÕES**
+[Síntese, em conclusões numeradas, dos fundamentos de facto e de direito da impugnação — exigência de forma do art. 59.º, n.º 3, RGCO]
+
+**VIII. DO PEDIDO**
 "Requer que a presente impugnação seja admitida e que, a final, seja proferida sentença que:
 a) Absolva o arguido da infração imputada; ou, subsidiariamente,
 b) Reduza a coima para € [valor mínimo] ou para valor proporcional às circunstâncias."
@@ -119,6 +125,7 @@ b) Reduza a coima para € [valor mínimo] ou para valor proporcional às circun
 Apresenta em <checklist_validacao>:
 - [ ] Prazo de 20 dias úteis verificado (art. 59.º, n.º 3 RGCO)
 - [ ] Autoridade administrativa e decisão identificadas
+- [ ] Impugnação apresentada à autoridade administrativa que aplicou a coima, com alegações e conclusões (art. 59.º, n.º 3, RGCO)
 - [ ] Infração imputada e norma tipificante identificadas
 - [ ] Vícios formais identificados (audição prévia, fundamentação)
 - [ ] Vícios materiais identificados (infração não verificada, ausência de culpa)
@@ -174,8 +181,18 @@ Apresenta em <checklist_validacao>:
 | art. 59.º, n.º 3 RGCO | conferida (epígrafe) — Forma e prazo |  |
 | art. 59.º, n.º 3 RGCO | conferida (epígrafe) — Forma e prazo |  |
 | art. 61.º RGCO | conferida (epígrafe) — Tribunal competente |  |
+| art. 61.º RGCO | conferida (epígrafe) — Tribunal competente |  |
+| art. 59.º, n.º 3, RGCO | conferida (epígrafe) — Forma e prazo |  |
+| art. 59.º, n.º 3, RGCO | conferida (epígrafe) — Forma e prazo |  |
+| art. 59.º, n.º 3, RGCO | conferida (epígrafe) — Forma e prazo |  |
+| art. 59.º, n.º 3, RGCO | conferida (epígrafe) — Forma e prazo |  |
+| art. 62.º, n.º 1, RGCO | conferida (epígrafe) — Envio dos autos ao Ministério Público |  |
+| art. 64.º RGCO | conferida (epígrafe) — Decisão por despacho judicial |  |
+| art. 112.º, n.º 1, da Lei n.º 62/2013 (LOSJ | por conferir [■ VERIFICAR] | diploma sem epígrafes locais |
 | art. 72.º RGCO | corrigida — Prova | o número citado no catálogo não correspondia à epígrafe |
-| art. 59.º, n.º 4 RGCO | por conferir [■ VERIFICAR] | o art. 59.º RGCO não tem n.º 4 nem regula o efeito da impugnação; confirmar o regime (geral ou especial) aplicável |
+| art. 58.º, n.º 2, al. a), RGCO | conferida (epígrafe) — Decisão condenatória |  |
+| art. 88.º, n.º 1, RGCO | conferida (epígrafe) — Pagamento da coima |  |
+| art. 35.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | Art. 59.º RGCO | corrigida — Forma e prazo | o número citado no catálogo não correspondia à epígrafe |
 | Art. 59.º RGCO | conferida (epígrafe) — Forma e prazo |  |
 | Art. 72.º RGCO | corrigida — Prova | o número citado no catálogo não correspondia à epígrafe |
@@ -185,8 +202,8 @@ Apresenta em <checklist_validacao>:
 | art. 50.º RGCO | conferida (epígrafe) — Direito de audição e defesa do arguido |  |
 | art. 50.º RGCO | conferida (epígrafe) — Direito de audição e defesa do arguido |  |
 | art. 50.º RGCO | conferida (epígrafe) — Direito de audição e defesa do arguido |  |
-| Art. 1.º, n.º 1 CRP | por conferir [■ VERIFICAR] | o art. 1.º CRP não tem números nem consagra a proporcionalidade; basta o art. 18.º, n.º 2 CRP |
 | art. 18.º, n.º 2 CRP | conferida (epígrafe) — Força jurídica |  |
 | art. 59.º do DL n.º 433/82 (RGCO | conferida (epígrafe) — Forma e prazo |  |
 | art. 58.º, n.º 1 RGCO | conferida (epígrafe) — Decisão condenatória |  |
+| art. 9.º, n.º 1, RGCO | conferida (epígrafe) — Erro sobre a ilicitude |  |
 | art. 8.º RGCO | conferida (epígrafe) — Dolo e negligência |  |

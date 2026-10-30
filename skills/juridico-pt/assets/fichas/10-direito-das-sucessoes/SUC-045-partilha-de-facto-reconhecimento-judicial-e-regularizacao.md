@@ -6,7 +6,8 @@ titulo_en: "De Facto Division — Court Recognition and Regularisation"
 descricao: "Analisa a situação de partilha de facto (herdeiros que dividiram informalmente os bens sem formalizar a partilha) e os mecanismos para regularizar juridicamente essa situação, ao abrigo do Código Civil (Livro V), do Código do Registo Predial e do regime do inventário notarial (Lei n.º 117/2019)."
 descricao_en: "Analyses de facto division (heirs who have informally divided the assets without formalising the division) and the mechanisms to regularise that situation legally, under the Civil Code (Book V), the Land Registry Code and the notarial inventory regime (Law No. 117/2019)."
 ambito: nacional
-estado_citacoes: "conferidas 4 · corrigidas 0 · por conferir 1"
+estado_citacoes: "conferidas 13 · corrigidas 0 · por conferir 4"
+revisao_tecnica: "2026-10-28 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
@@ -14,7 +15,8 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 
 > **Âmbito:** nacional · **Área:** Direito das Sucessões · **Código:** SUC-045
 > **EN:** De Facto Division — Court Recognition and Regularisation. Analyses de facto division (heirs who have informally divided the assets without formalising the division) and the mechanisms to regularise that situation legally, under the Civil Code (Book V), the Land Registry Code and the notarial inventory regime (Law No. 117/2019).
-> **Citações:** conferidas 4 · corrigidas 0 · por conferir 1. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 13 · corrigidas 0 · por conferir 4. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-28 — corrigida (6 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
 Analisa a situação de partilha de facto (herdeiros que dividiram informalmente os bens sem formalizar a partilha) e os mecanismos para regularizar juridicamente essa situação, ao abrigo do Código Civil (Livro V), do Código do Registo Predial e do regime do inventário notarial (Lei n.º 117/2019).
 
@@ -39,21 +41,21 @@ Apresenta em <diagnostico_situacao>:
 
 ### ETAPA 2 — EFEITOS JURÍDICOS DA PARTILHA DE FACTO
 Explica em <efeitos_juridicos>:
-- A partilha informal não transfere a propriedade dos imóveis (art. 875.º CC [■ VERIFICAR: o art. 875.º CC rege a forma da compra e venda; a forma da partilha decorre do art. 2102.º CC e da lei notarial] — escritura pública ou doc. particular autenticado para imóveis)
+- A partilha informal não transfere a propriedade dos imóveis: havendo acordo, a partilha é realizada nas conservatórias ou por via notarial (art. 2102.º, n.º 1, CC), e o acordo sem a forma legal é nulo (art. 220.º CC) [■ VERIFICAR: forma exigida para a partilha de imóveis — escritura pública ou documento particular autenticado]
 - O imóvel continua registado em nome do de cuius: impossibilidade de venda, hipoteca ou arrendamento formal pelo "beneficiário de facto"
-- Usucapião: herdeiro que usou o imóvel em exclusivo pode invocar usucapião (art. 1287.º e ss. CC) — prazo variável (10/20 anos)
-- Reconhecimento pelos co-herdeiros: acordo escrito com posterior escritura de partilha
-- Situação fiscal: Imposto do Selo exigível desde a data do óbito; juros de mora aplicáveis
+- Usucapião: o herdeiro que usou o imóvel em exclusivo possui também em nome dos coerdeiros e só pode invocar usucapião (art. 1287.º e ss. CC) se tiver invertido o título da posse, contando-se o prazo desde a inversão (arts. 1265.º e 1290.º CC; cf. art. 1406.º, n.º 2, CC) [■ VERIFICAR: jurisprudência sobre a posse do coerdeiro]; os prazos vão de 5 a 20 anos, consoante haja registo e boa ou má fé — sem registo, 15 anos de boa fé ou 20 de má fé (arts. 1294.º a 1296.º CC)
+- Reconhecimento pelos coerdeiros: acordo escrito com posterior escritura de partilha
+- Situação fiscal: a obrigação de Imposto do Selo nasce na data da abertura da sucessão (art. 5.º, al. p), do Código do Imposto do Selo); a participação (Modelo 1) cabe ao cabeça-de-casal até ao final do 3.º mês seguinte (art. 26.º, n.os 1 e 3, do mesmo Código), mesmo havendo isenção (cônjuge ou unido de facto, descendentes e ascendentes — art. 6.º, al. e)); a falta de participação pode gerar coima e juros [■ VERIFICAR: coima do RGIT e juros compensatórios]
 
 ### ETAPA 3 — VIAS DE REGULARIZAÇÃO
 Descreve em <vias_regularizacao>:
-1. **Inventário notarial** (Lei n.º 117/2019): abrir processo no cartório notarial; se todos concordam, processo rápido; o mapa da partilha formaliza o que já existe de facto
+1. **Inventário** (arts. 1082.º e ss. CPC; regime do inventário notarial aprovado pela Lei n.º 117/2019): no cartório notarial ou no tribunal, à escolha de quem o requer ou por acordo de todos, salvo nos casos de competência exclusiva dos tribunais (art. 1083.º CPC); é o meio de forçar a partilha quando um herdeiro não aceita formalizá-la (art. 2102.º, n.º 2, al. a), CC); o mapa da partilha formaliza o que já existe de facto
 2. **Acordo de partilha extrajudicial**: escritura pública de partilha se todos os herdeiros concordam (art. 2102.º CC) — via mais rápida
-3. **Ação de divisão de coisa comum**: se um herdeiro se recusa a formalizar (art. 1412.º CC)
-4. **Usucapião notarial**: para herdeiro que usou o bem exclusivamente durante prazo suficiente (art. 1287.º CC) com declaração dos co-herdeiros
+3. **Ação de divisão de coisa comum** (art. 1412.º CC): só para bens que já estejam em compropriedade (p. ex., adjudicados em comum na partilha); enquanto a herança estiver indivisa, os herdeiros não são donos dos bens concretos e a ação não serve — se um herdeiro se recusa a formalizar, o meio é o inventário (arts. 2101.º, n.º 1, e 2102.º, n.º 2, al. a), CC)
+4. **Justificação da usucapião**: escritura de justificação notarial ou processo de justificação no registo predial (art. 116.º do Código do Registo Predial), para o herdeiro que tenha invertido o título da posse e possuído durante o prazo legal (arts. 1287.º e 1290.º CC) [■ VERIFICAR: requisitos da justificação notarial no Código do Notariado]
 5. **Regularização fiscal**: declarar a transmissão gratuita às Finanças; pagar Imposto do Selo e eventuais coimas reduzidas
 
-### ETAPA 4 — REQUERIMENTO / CARTA AOS CO-HERDEIROS
+### ETAPA 4 — REQUERIMENTO / CARTA AOS COERDEIROS
 Redige em <documento_regularizacao>:
 
 Carta para propor a formalização da partilha de facto, com convite para outorga de escritura extrajudicial ou adesão ao processo de inventário notarial.
@@ -95,8 +97,20 @@ Apresenta em <checklist_validacao>:
 
 | Citação | Estado | Nota |
 |---|---|---|
-| art. 875.º CC | por conferir [■ VERIFICAR] | o art. 875.º CC rege a forma da compra e venda; a forma da partilha decorre do art. 2102.º CC e da lei notarial |
-| art. 2102.º CC | conferida (epígrafe) — Forma |  |
+| art. 2102.º, n.º 1, CC | conferida (epígrafe) — Forma |  |
+| art. 220.º CC | conferida (índice) |  |
 | art. 1287.º e ss. CC | conferida (epígrafe) — Noção |  |
+| arts. 1265.º e 1290.º CC | conferida (epígrafe) — Inversão do título da posse |  |
+| art. 1406.º, n.º 2, CC | conferida (epígrafe) — Uso da coisa comum |  |
+| arts. 1294.º a 1296.º CC | conferida (epígrafe) — Justo título e registo |  |
+| art. 5.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 26.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 6.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| arts. 1082.º e ss. CPC | conferida (epígrafe) — Função do inventário |  |
+| art. 1083.º CPC | conferida (epígrafe) — Repartição de competências |  |
+| art. 2102.º, n.º 2, al. a), CC | conferida (epígrafe) — Forma |  |
+| art. 2102.º CC | conferida (epígrafe) — Forma |  |
 | art. 1412.º CC | conferida (epígrafe) — Direito de exigir a divisão |  |
-| art. 1287.º CC | conferida (epígrafe) — Noção |  |
+| arts. 2101.º, n.º 1, e 2102.º, n.º 2, al. a), CC | conferida (epígrafe) — Direito de exigir partilha |  |
+| art. 116.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| arts. 1287.º e 1290.º CC | conferida (epígrafe) — Noção |  |

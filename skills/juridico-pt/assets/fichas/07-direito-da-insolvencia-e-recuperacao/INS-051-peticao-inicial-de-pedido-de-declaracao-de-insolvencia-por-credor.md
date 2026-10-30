@@ -6,7 +6,8 @@ titulo_en: "Petition for a Declaration of Insolvency by a Creditor"
 descricao: "Elabora a petição inicial de pedido de declaração de insolvência apresentada por credor, ao abrigo dos artigos 20.º e 25.º do CIRE, com análise dos factos-índice que fundamentam o pedido, da legitimidade do credor requerente e das providências cautelares que podem ser requeridas em simultâneo."
 descricao_en: "Prepares the petition for a declaration of insolvency filed by a creditor, under Articles 20 and 25 of the CIRE, analysing the indicative facts supporting the petition, the standing of the petitioning creditor and the interim measures that may be requested at the same time."
 ambito: nacional
-estado_citacoes: "conferidas 13 · corrigidas 0 · por conferir 0"
+estado_citacoes: "conferidas 14 · corrigidas 0 · por conferir 2"
+revisao_tecnica: "2026-10-28 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
@@ -14,7 +15,8 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 
 > **Âmbito:** nacional · **Área:** Direito da Insolvência e Recuperação · **Código:** INS-051
 > **EN:** Petition for a Declaration of Insolvency by a Creditor. Prepares the petition for a declaration of insolvency filed by a creditor, under Articles 20 and 25 of the CIRE, analysing the indicative facts supporting the petition, the standing of the petitioning creditor and the interim measures that may be requested at the same time.
-> **Citações:** conferidas 13 · corrigidas 0 · por conferir 0. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 14 · corrigidas 0 · por conferir 2. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-28 — corrigida (5 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
 Elabora a petição inicial de pedido de declaração de insolvência apresentada por credor, ao abrigo dos artigos 20.º e 25.º do CIRE, com análise dos factos-índice que fundamentam o pedido, da legitimidade do credor requerente e das providências cautelares que podem ser requeridas em simultâneo.
 
@@ -41,17 +43,17 @@ Apresenta dentro de um bloco <analise_do_pedido>:
 Apresenta dentro de um bloco <fundamentos_juridicos>:
 - Legitimidade ativa: credor (art. 20.º, n.º 1, CIRE); independentemente do montante do crédito
 - Factos-índice taxativos do art. 20.º, n.º 1, CIRE:
-  — al. a): suspensão generalizada de pagamentos
-  — al. b): execuções sem bens penhoráveis
-  — al. c): fuga do titular da empresa
-  — al. d): abandono do estabelecimento
-  — al. e): dissipação, abandono ou entrega de bens para além do justificado
-  — al. f): insuficiência de bens penhoráveis em execução
-  — al. g): incumprimento de obrigação pecuniária ao abrigo de título executivo por pelo menos 6 meses
-  — al. h): incumprimento tributário ou contributivo
+  — al. a): suspensão generalizada do pagamento das obrigações vencidas
+  — al. b): falta de cumprimento de uma ou mais obrigações que, pelo montante ou pelas circunstâncias do incumprimento, revele a impossibilidade de o devedor satisfazer pontualmente a generalidade das suas obrigações
+  — al. c): fuga do titular da empresa ou dos administradores do devedor, ou abandono do local da sede ou da principal atividade, relacionados com a falta de solvabilidade e sem designação de substituto idóneo
+  — al. d): dissipação, abandono, liquidação apressada ou ruinosa de bens e constituição fictícia de créditos
+  — al. e): insuficiência de bens penhoráveis para pagamento do crédito do exequente, verificada em processo executivo movido contra o devedor
+  — al. f): incumprimento de obrigações previstas em plano de insolvência ou em plano de pagamentos, nas condições do art. 218.º
+  — al. g): incumprimento generalizado, nos últimos seis meses, de dívidas tributárias, de contribuições e quotizações para a segurança social, de dívidas emergentes de contrato de trabalho ou da sua violação ou cessação, ou de rendas de locação e prestações do preço ou de empréstimo hipotecário relativas ao local da atividade, sede ou residência
+  — al. h): sendo o devedor uma das entidades do n.º 2 do art. 3.º, manifesta superioridade do passivo sobre o ativo segundo o último balanço aprovado, ou atraso superior a nove meses na aprovação e depósito das contas, se a tanto estiver obrigado
 - Oposição do devedor (art. 30.º CIRE): prazo de 10 dias
-- Providências cautelares: administrador provisório (art. 31.º CIRE); apreensão de bens (art. 31.º, n.º 1, CIRE)
-- Responsabilidade do credor por pedido infundado (art. 22.º CIRE)
+- Medidas cautelares (art. 31.º CIRE): havendo justificado receio da prática de atos de má gestão, as medidas necessárias para impedir o agravamento da situação patrimonial do devedor até à sentença (n.º 1), designadamente a nomeação de administrador judicial provisório com poderes exclusivos de administração ou para assistir o devedor (n.º 2); podem ser decretadas antes da citação, que não pode ser retardada mais de 10 dias (n.º 3); a apreensão de bens propriamente dita é efeito da sentença de declaração (art. 36.º, n.º 1, al. g), CIRE)
+- Responsabilidade do credor por pedido infundado (art. 22.º CIRE): só em caso de dolo, pelos prejuízos causados ao devedor ou aos credores
 
 ### ETAPA 3 — ESTRUTURA DA PETIÇÃO
 Define em <estrutura_peticao>:
@@ -73,7 +75,7 @@ Verificam-se os seguintes factos-índice previstos no artigo 20.º, n.º 1, do C
 [Descrição factual de cada facto-índice invocado, com indicação da alínea aplicável e documentação de suporte]
 
 **III — PROVIDÊNCIAS CAUTELARES (se aplicável)**
-Nos termos do artigo 31.º do CIRE, requer-se a nomeação de administrador provisório e/ou a apreensão dos seguintes bens [identificação], dado o risco de dissipação de ativos.
+Nos termos do artigo 31.º do CIRE, havendo justificado receio da prática de atos de má gestão, requer-se a nomeação de administrador judicial provisório [com poderes exclusivos de administração / para assistir o devedor] e/ou [outra medida concreta necessária para impedir o agravamento da situação patrimonial do devedor, com identificação dos bens visados], se necessário antes da citação do devedor (n.º 3).
 
 **IV — MEIOS DE PROVA**
 [Documentos + testemunhas + informações às instituições]
@@ -86,6 +88,7 @@ Apresenta dentro de um bloco <checklist_validacao>:
 - [ ] Pelo menos um facto-índice do art. 20.º, n.º 1, CIRE verificado e documentado
 - [ ] Risco de pedido infundado avaliado (art. 22.º CIRE)
 - [ ] Necessidade de providência cautelar analisada (art. 31.º CIRE)
+- [ ] Indicações do art. 23.º, n.º 2, CIRE (administradores de direito e de facto e cinco maiores credores do devedor; cônjuge e regime de bens; certidão do registo) ou pedido para que sejam prestadas pelo devedor (n.º 3)
 - [ ] Prova suficiente para sustentar o pedido
 - [ ] [■ VERIFICAR] itens sinalizados
 
@@ -111,9 +114,12 @@ Apresenta dentro de um bloco <checklist_validacao>:
 | art. 22.º CIRE | conferida (epígrafe) — Dedução de pedido infundado |  |
 | art. 22.º CIRE | conferida (epígrafe) — Dedução de pedido infundado |  |
 | art. 22.º CIRE | conferida (epígrafe) — Dedução de pedido infundado |  |
+| art. 218.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 3.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 30.º CIRE | conferida (epígrafe) — Oposição do devedor |  |
 | art. 31.º CIRE | conferida (epígrafe) — Medidas cautelares |  |
 | art. 31.º CIRE | conferida (epígrafe) — Medidas cautelares |  |
-| art. 31.º, n.º 1, CIRE | conferida (epígrafe) — Medidas cautelares |  |
+| art. 36.º, n.º 1, al. g), CIRE | conferida (índice) |  |
 | artigo 20.º, n.º 1, do CIRE | conferida (epígrafe) — Outros legitimados |  |
 | artigo 31.º do CIRE | conferida (epígrafe) — Medidas cautelares |  |
+| art. 23.º, n.º 2, CIRE | conferida (epígrafe) — Forma e conteúdo da petição |  |

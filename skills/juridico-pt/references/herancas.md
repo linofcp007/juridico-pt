@@ -38,12 +38,12 @@
 ### Partilha
 - Por acordo entre todos os herdeiros (escritura de partilha)
 - Judicial (inventário): quando não há acordo
-- Inventário obrigatório: quando há menores, ausentes, ou incapazes
+- Inventário obrigatório quando não haja acordo de todos os interessados, quando o Ministério Público entenda que o interesse do incapaz a quem a herança é deferida implica aceitação a benefício de inventário, ou quando um herdeiro, por ausência em parte incerta ou incapacidade de facto permanente, não possa intervir na partilha por acordo (art. 2102.º, n.º 2, CC). Haver menores não obriga, por si só, a inventário: a partilha por acordo precisa de autorização (art. 1889.º, n.º 1, al. l), CC), decidida pelo Ministério Público, salvo se o representante também for herdeiro, caso em que é preciso curador especial (DL 272/2001, art. 2.º)
 
 ### Aceitação e Repúdio
 - Aceitação: expressa ou tácita (praticar atos de herdeiro)
 - Aceitação a benefício de inventário: limita responsabilidade ao valor da herança
-- Repúdio: declaração formal (notário ou tribunal), irrevogável
+- Repúdio: tem a forma exigida para a alienação da herança (art. 2063.º CC) — escritura pública ou documento particular autenticado se houver bens cuja alienação exija essa forma (p. ex., imóveis); nos outros casos basta documento particular (art. 2126.º CC). É irrevogável (art. 2066.º CC); por um menor exige autorização (art. 1889.º, n.º 1, al. j), CC)
 
 ## Fiscalidade
 - **Imposto do selo**: 10% sobre o valor dos bens (verba 1.2 TGIS)

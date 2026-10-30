@@ -1,0 +1,834 @@
+[
+ {
+  "codigo": "PI-014",
+  "veredicto": "corrigida",
+  "resumo": "A ficha afirmava que o art. 14.º CDADC só se aplica a trabalhadores e que a obra «pertence ao empregador», e tirava o regime do software do art. 102.º CDADC (falência do editor). Corrigi: o art. 14.º abrange a encomenda e, sem convenção, presume a titularidade do criador; o software encomendado segue o art. 3.º, n.º 3, do DL 252/94 (direitos do destinatário, salvo estipulação em contrário). Acrescentei a forma legal da transmissão (arts. 43.º e 44.º CDADC, sob pena de nulidade), corrigi a «renúncia» ao direito de paternidade (irrenunciável) e o foro (competência material do TPI).",
+  "substituicoes": [
+   {
+    "de": "- A criação de obra por encomenda não transfere automaticamente os direitos ao comitente — é necessária cláusula expressa de cessão (art. 14.º CDADC aplica-se apenas a obras em relação laboral, não a freelancers)",
+    "para": "- Na obra feita por encomenda, a titularidade do direito de autor determina-se pelo que tiver sido convencionado e, na falta de convenção, presume-se que pertence ao criador intelectual (art. 14.º, n.os 1 e 2, CDADC, que abrange tanto a encomenda como a obra feita por conta de outrem em cumprimento de contrato de trabalho) — por isso, é necessária cláusula expressa sobre a titularidade dos direitos ou a sua transmissão ao comitente",
+    "motivo": "O art. 14.º CDADC abrange também a obra por encomenda; sem convenção, presume-se a titularidade do criador.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=484A0014&nid=484&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Distingue obra encomendada a freelancer (cessão contratual) de obra criada em relação laboral (art. 14.º CDADC)",
+    "para": "- Distingue o software das restantes obras: nos programas de computador criados por encomenda (ou por trabalhador no exercício das suas funções), os direitos pertencem ao destinatário do programa, salvo estipulação em contrário ou se outra coisa resultar das finalidades do contrato (art. 3.º, n.º 3, do Decreto-Lei n.º 252/94, de 20 de outubro); nas restantes obras (design, conteúdos, vídeo), vale o art. 14.º CDADC — o que conta é o convencionado, não a qualidade de trabalhador ou de prestador",
+    "motivo": "A distinção relevante não é freelancer/trabalhador (o art. 14.º CDADC cobre ambos), mas software (DL 252/94) / restantes obras.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=152A0003&nid=152&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Para software especificamente: aplica regime especial do art. 102.º CDADC (software criado por trabalhador pertence ao empregador — mas freelancer ≠ trabalhador)",
+    "para": "- Forma: fora do software, a transmissão total e definitiva do conteúdo patrimonial só pode ser feita por escritura pública, com identificação da obra e indicação do preço (art. 44.º CDADC), e a transmissão parcial exige documento escrito com reconhecimento notarial das assinaturas (art. 43.º, n.º 2, CDADC), sob pena de nulidade; no software, os negócios sobre direitos regem-se pelas regras gerais dos contratos (art. 11.º do Decreto-Lei n.º 252/94) [■ VERIFICAR: forma exigível à convenção de titularidade do art. 14.º, n.º 1, CDADC e à cessão de direitos sobre software]",
+    "motivo": "O art. 102.º CDADC trata da falência do editor; o regime do software (incluindo o encomendado a freelancer) é o do DL 252/94, já tratado na regra anterior. Em seu lugar, a forma legal da transmissão, que a ficha omitia e cuja falta gera nulidade.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=484A0044&nid=484&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Art. 14.º CDADC: obras criadas em relação laboral (pertence ao empregador) — NÃO se aplica a freelancers",
+    "para": "- Art. 14.º CDADC: obra feita por encomenda ou por conta de outrem (em cumprimento de dever funcional ou de contrato de trabalho) — titularidade segundo o convencionado; na falta de convenção, presume-se do criador intelectual (n.º 2); remuneração especial do criador nos casos do n.º 4\n- Arts. 43.º e 44.º CDADC: forma da transmissão parcial e da transmissão total e definitiva",
+    "motivo": "O art. 14.º CDADC aplica-se também à encomenda e não atribui a obra ao empregador por defeito.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=484A0014&nid=484&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Art. 102.º CDADC: software criado em relação laboral (regime especial)",
+    "para": "- Decreto-Lei n.º 252/94, de 20 de outubro (proteção jurídica dos programas de computador): art. 3.º, n.º 3 (programa criado por empregado ou por encomenda — direitos do destinatário, salvo estipulação em contrário), art. 9.º (direito do criador à menção do nome) e art. 11.º (negócios sobre programas — regras gerais dos contratos)",
+    "motivo": "O art. 102.º CDADC trata da falência do editor; o software rege-se pelo DL 252/94.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=152&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "(transposta para o CDADC)",
+    "para": "(versão codificada da Diretiva 91/250/CEE, transposta pelo Decreto-Lei n.º 252/94, e não pelo CDADC)",
+    "motivo": "A diretiva do software foi transposta por diploma avulso (DL 252/94); a Diretiva 2009/24/CE é a sua versão codificada.",
+    "fonte": "http://publications.europa.eu/resource/cellar/fdad2566-1ecd-4d32-a54d-7b9b386c43c9.0018.02/DOC_1"
+   },
+   {
+    "de": "4.1. Com a entrega e integral pagamento do preço, o Criador cede ao Comitente, de forma exclusiva, irrevogável e definitiva, todos os direitos patrimoniais de autor sobre a Obra, incluindo:",
+    "para": "4.1. Com a entrega e integral pagamento do preço, o Criador cede ao Comitente, de forma exclusiva, irrevogável e definitiva, todos os direitos patrimoniais de autor sobre a Obra [■ VERIFICAR: forma — fora do software, a transmissão total e definitiva exige escritura pública, sob pena de nulidade (art. 44.º CDADC); em alternativa, convencionar que a titularidade pertence ao Comitente (art. 14.º, n.º 1, CDADC); no software, os direitos pertencem ao Comitente, como destinatário do programa encomendado, salvo estipulação em contrário (art. 3.º, n.º 3, do Decreto-Lei n.º 252/94), e a cláusula tem natureza confirmativa], incluindo:",
+    "motivo": "Uma cessão total e definitiva em documento particular é nula fora do software (art. 44.º CDADC); a cláusula tem de assinalar a forma ou a alternativa da convenção de titularidade.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=484A0044&nid=484&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "4.3. O Criador renuncia a exigir identificação como autor nas utilizações comerciais da Obra, preservando no entanto o direito moral de paternidade em contextos não comerciais [■ VERIFICAR: ajustar conforme negociado].",
+    "para": "4.3. O Criador consente que a Obra seja utilizada sem menção do seu nome nas utilizações comerciais [especificar], sem prejuízo do direito de reivindicar a paternidade e de assegurar a integridade da Obra, que é inalienável e irrenunciável (art. 56.º CDADC) [■ VERIFICAR: alcance e validade desta cláusula; no software, o criador individualizável tem sempre direito a ser reconhecido como tal e a ter o seu nome mencionado no programa (art. 9.º, n.º 2, do Decreto-Lei n.º 252/94)].",
+    "motivo": "O direito de paternidade é inalienável e irrenunciável (art. 56.º, n.º 2, CDADC); uma «renúncia» seria nula. No software, a menção do nome do criador é garantida «em qualquer caso».",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=484A0056&nid=484&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "Lei portuguesa. Foro: [comarca / arbitragem].",
+    "para": "Lei portuguesa. Foro: [Tribunal da Propriedade Intelectual / arbitragem] [■ VERIFICAR: os litígios sobre contratos que tenham por objeto a transmissão, o licenciamento ou a autorização de utilização de direitos de autor são da competência material do Tribunal da Propriedade Intelectual (art. 111.º, n.º 1, al. c), da Lei n.º 62/2013, de 26 de agosto), que não pode ser afastada por pacto de foro (art. 95.º, n.º 1, CPC); confirmar se o litígio concreto cabe nessa competência].",
+    "motivo": "A competência para litígios sobre contratos de transmissão ou licença de direitos de autor é material (TPI) e não se escolhe por pacto; a «comarca» não é, em regra, o tribunal competente.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1974A0111&nid=1974&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- [ ] Distinção clara entre criador freelancer (cessão contratual) e trabalhador (art. 14.º CDADC)",
+    "para": "- [ ] Regime de titularidade correto: software (art. 3.º, n.º 3, do Decreto-Lei n.º 252/94 — direitos do destinatário, salvo estipulação em contrário) / restantes obras (art. 14.º CDADC — o convencionado; na falta, presume-se do criador)\n- [ ] Forma da transmissão dos direitos verificada (arts. 43.º e 44.º CDADC)",
+    "motivo": "A distinção freelancer/trabalhador não decide a titularidade; decide o tipo de obra e o convencionado.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=152A0003&nid=152&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar a forma exigível à convenção de titularidade do art. 14.º, n.º 1, CDADC (se basta documento particular ou se valem as exigências dos arts. 43.º e 44.º) e se, no software, a cessão escapa a essa forma por força do art. 11.º do DL 252/94.",
+   "Em contratos mistos (software com design ou conteúdos), separar na cláusula 4 o regime do programa (DL 252/94) do das restantes obras (CDADC).",
+   "Validar o alcance da cláusula de não menção do nome face ao art. 56.º CDADC e ao art. 9.º, n.º 2, do DL 252/94.",
+   "Confirmar a competência do TPI (art. 111.º, n.º 1, al. c), da LOSJ) para os litígios previsíveis do contrato."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=484A0014&nid=484&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=484A0043&nid=484&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=484A0044&nid=484&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=484A0056&nid=484&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=484&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=152&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=152A0003&nid=152&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "http://publications.europa.eu/resource/cellar/fdad2566-1ecd-4d32-a54d-7b9b386c43c9.0018.02/DOC_1",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1974A0111&nid=1974&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0095&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.wipo.int/wipolex/en/legislation/details/3522"
+  ]
+ },
+ {
+  "codigo": "PI-015",
+  "veredicto": "corrigida",
+  "resumo": "A ficha assentava o regime do software no CDADC (art. 1.º, n.º 2, al. l), e arts. 100.º a 115.º, que tratam da edição e da representação cénica). Passei toda a fundamentação e as cláusulas para o DL 252/94 (arts. 1.º, 2.º, 5.º a 8.º e 11.º), identifiquei a transposição da Diretiva (UE) 2019/770 (DL 84/2021), acrescentei à limitação de responsabilidade a ressalva do dolo e da culpa grave (art. 18.º da LCCG), restringi a qualificação do licenciante como subcontratante RGPD aos casos em que trata dados por conta do licenciado e corrigi o foro.",
+  "substituicoes": [
+   {
+    "de": "- O software é protegido por direitos de autor como obra literária (art. 1.º, n.º 2, al. l) CDADC)",
+    "para": "- O programa de computador com caráter criativo tem proteção análoga à conferida às obras literárias (art. 1.º, n.º 2, do Decreto-Lei n.º 252/94, de 20 de outubro — regime próprio dos programas de computador, fora do CDADC)",
+    "motivo": "O art. 1.º CDADC não tem alíneas nem trata do software; a proteção está no DL 252/94.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=152&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "restrições de engenharia inversa (salvo art. 8.º Diretiva 2009/24/CE)",
+    "para": "restrições de engenharia inversa (com ressalva dos atos que a lei reserva ao utente legítimo — cópia de apoio, observação e estudo do funcionamento e descompilação para interoperabilidade —, sendo nula a cláusula em contrário: arts. 6.º e 7.º do Decreto-Lei n.º 252/94; art. 8.º, segundo parágrafo, da Diretiva 2009/24/CE)",
+    "motivo": "A diretiva não se aplica diretamente entre particulares; a nulidade das cláusulas em contrário resulta, no direito interno, dos arts. 6.º, n.º 2, e 7.º, n.º 3, do DL 252/94.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=152&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Para contratos com consumidores: aplicar regras da Diretiva 2019/770/UE (transposição portuguesa) — garantia de conformidade, atualizações",
+    "para": "- Para contratos com consumidores: aplicar o Decreto-Lei n.º 84/2021, de 18 de outubro, que transpôs a Diretiva (UE) 2019/770 (fornecimento de conteúdos e serviços digitais) — conformidade, atualizações",
+    "motivo": "Identifica o diploma de transposição, que a ficha deixava em aberto.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=3471A0001&nid=3471&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Art. 1.º, n.º 2, al. l) e arts. 100.º a 115.º CDADC: proteção de programas de computador\n- Art. 104.º CDADC: direitos exclusivos do autor de software\n- Art. 107.º CDADC: atos permitidos sem autorização (cópia de segurança, interoperabilidade)\n- Art. 108.º CDADC: limitação da descompilação (engenharia inversa)",
+    "para": "- Decreto-Lei n.º 252/94, de 20 de outubro: proteção jurídica dos programas de computador (arts. 1.º e 2.º — objeto e âmbito da proteção)\n- Arts. 5.º e 8.º do Decreto-Lei n.º 252/94: direitos do titular (reprodução, transformação, colocação em circulação e locação)\n- Art. 6.º do Decreto-Lei n.º 252/94: direitos do utente legítimo sem autorização do titular (cópia de apoio; observar, estudar e ensaiar o funcionamento) — nula a estipulação em contrário\n- Art. 7.º do Decreto-Lei n.º 252/94: descompilação necessária à interoperabilidade — lícita nas condições legais; nula a estipulação em contrário\n- Art. 11.º do Decreto-Lei n.º 252/94: negócios sobre programas — regras gerais dos contratos e dos contratos típicos com que tenham maior analogia",
+    "motivo": "Os arts. 100.º a 115.º CDADC tratam da edição e da representação cénica; os direitos do titular e do utente de software estão no DL 252/94.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=152&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Diretiva 2019/770/UE: contratos de fornecimento de conteúdos e serviços digitais (para consumidores)",
+    "para": "- Diretiva (UE) 2019/770, transposta pelo Decreto-Lei n.º 84/2021, de 18 de outubro: contratos de fornecimento de conteúdos e serviços digitais (para consumidores)",
+    "motivo": "Identifica o diploma de transposição.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=3471A0001&nid=3471&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- [■ VERIFICAR: transposição da Diretiva 2019/770/UE para o direito português]",
+    "para": "- Decreto-Lei n.º 446/85, de 25 de outubro (cláusulas contratuais gerais): numa licença de adesão, são absolutamente proibidas as cláusulas que excluam ou limitem a responsabilidade nos casos do art. 18.º, als. a) a d) (designadamente, por não cumprimento, mora ou cumprimento defeituoso em caso de dolo ou de culpa grave)",
+    "motivo": "A transposição está confirmada (DL 84/2021); em seu lugar, o limite legal às cláusulas de exclusão de responsabilidade, que a cláusula 7.ª ignorava.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=837A0018&nid=837&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "b) Efetuar cópias de segurança (art. 107.º CDADC);",
+    "para": "b) Efetuar uma cópia de apoio (art. 6.º, n.º 1, al. a), do Decreto-Lei n.º 252/94);",
+    "motivo": "O art. 107.º CDADC define representação cénica; a cópia de apoio está no art. 6.º do DL 252/94.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=152&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "exceto nas situações permitidas pelo art. 108.º do CDADC para efeitos de interoperabilidade;",
+    "para": "exceto nas situações permitidas pelo art. 7.º do Decreto-Lei n.º 252/94 para efeitos de interoperabilidade e sem prejuízo do direito de observar, estudar e ensaiar o funcionamento do Software (art. 6.º, n.º 1, al. b), do mesmo diploma);",
+    "motivo": "A descompilação lícita está no art. 7.º do DL 252/94; a observação e o estudo do funcionamento não podem ser proibidos (art. 6.º, n.º 2).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=152&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "[Se o Software trata dados pessoais de terceiros:]",
+    "para": "[Se o Licenciante tratar dados pessoais por conta do Licenciado — p. ex., SaaS, alojamento ou suporte com acesso aos dados:]",
+    "motivo": "O licenciante só é subcontratante se tratar dados por conta do licenciado; um software instalado e operado pelo cliente não o torna subcontratante (art. 4.º, ponto 8, do RGPD: subcontratante é quem trata dados «por conta do responsável»).",
+    "fonte": "http://publications.europa.eu/resource/cellar/3e485e15-11bd-11e6-ba9a-01aa75ed71a1.0019.03/DOC_1"
+   },
+   {
+    "de": "7.1. O Licenciante não é responsável por danos indiretos, lucros cessantes, perda de dados ou danos emergentes resultantes do uso ou da impossibilidade de uso do Software.\n7.2. A responsabilidade total do Licenciante, por qualquer causa, é limitada ao valor das licenças pagas pelo Licenciado nos [X] meses anteriores ao facto gerador de responsabilidade.\n[■ VERIFICAR: para contratos com consumidores, a limitação de responsabilidade é mais restrita ao abrigo da Diretiva 2019/770/UE]",
+    "para": "7.1. Salvo dolo ou culpa grave, o Licenciante não é responsável por danos indiretos, lucros cessantes ou perda de dados resultantes do uso ou da impossibilidade de uso do Software.\n7.2. Salvo dolo ou culpa grave, a responsabilidade total do Licenciante é limitada ao valor das licenças pagas pelo Licenciado nos [X] meses anteriores ao facto gerador de responsabilidade.\n[■ VERIFICAR: se as cláusulas forem contratuais gerais, são absolutamente proibidas as que excluam ou limitem a responsabilidade por danos à vida, à integridade física ou moral ou à saúde, por danos patrimoniais extracontratuais e, em caso de dolo ou culpa grave, por não cumprimento, mora ou cumprimento defeituoso (art. 18.º, als. a) a c), do Decreto-Lei n.º 446/85); para consumidores, confirmar ainda os limites do Decreto-Lei n.º 84/2021]",
+    "motivo": "A exclusão total (incluindo danos emergentes) e sem ressalva de dolo ou culpa grave é absolutamente proibida nas cláusulas contratuais gerais (art. 18.º, al. c), da LCCG).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=837A0018&nid=837&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- [ ] Restrições de engenharia inversa incluídas (com exceção legal do art. 108.º CDADC)",
+    "para": "- [ ] Restrições de engenharia inversa incluídas (com as exceções imperativas dos arts. 6.º e 7.º do Decreto-Lei n.º 252/94)",
+    "motivo": "O art. 108.º CDADC não trata de software.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=152&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- [ ] Conformidade com Diretiva 2019/770/UE verificada (para consumidores) [■ VERIFICAR]",
+    "para": "- [ ] Conformidade com o Decreto-Lei n.º 84/2021 verificada (para consumidores) [■ VERIFICAR]",
+    "motivo": "Remete para o diploma de transposição aplicável entre particulares.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=3471A0001&nid=3471&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "Lei portuguesa. Foro: [comarca de [localidade] / arbitragem].",
+    "para": "Lei portuguesa. Foro: [Tribunal da Propriedade Intelectual / arbitragem] [■ VERIFICAR: os litígios sobre contratos que tenham por objeto a transmissão, o licenciamento ou a autorização de utilização de direitos de autor são da competência material do Tribunal da Propriedade Intelectual (art. 111.º, n.º 1, al. c), da Lei n.º 62/2013, de 26 de agosto), que não pode ser afastada por pacto de foro (art. 95.º, n.º 1, CPC); confirmar se o litígio concreto cabe nessa competência].",
+    "motivo": "A competência para litígios sobre contratos de transmissão ou licença de direitos de autor é material (TPI) e não se escolhe por pacto; a «comarca» não é, em regra, o tribunal competente.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1974A0111&nid=1974&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Rever se a licença é contrato de adesão (LCCG) e ajustar as cláusulas 7.ª e 8.ª aos arts. 18.º e 19.º do DL 446/85.",
+   "Nos contratos B2C, confirmar os direitos imperativos do consumidor no DL 84/2021 (conformidade, atualizações, resolução) e o seu efeito na limitação de responsabilidade.",
+   "Confirmar a competência do TPI (art. 111.º, n.º 1, al. c), da LOSJ) para os litígios da licença."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=152&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=484A0001&nid=484&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=3471A0001&nid=3471&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=837A0018&nid=837&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "http://publications.europa.eu/resource/cellar/fdad2566-1ecd-4d32-a54d-7b9b386c43c9.0018.02/DOC_1",
+   "http://publications.europa.eu/resource/cellar/3e485e15-11bd-11e6-ba9a-01aa75ed71a1.0019.03/DOC_1",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1974A0111&nid=1974&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0095&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+  ]
+ },
+ {
+  "codigo": "PI-028",
+  "veredicto": "corrigida",
+  "resumo": "A ficha atribuía à empresa, por força do art. 14.º CDADC, as obras e o software dos colaboradores, quando esse artigo remete para o convencionado e, sem convenção, presume a titularidade do criador; o software segue o art. 3.º, n.º 3, do DL 252/94. Fundava os segredos comerciais na Lei n.º 93/2021, que é o regime de proteção de denunciantes — os segredos comerciais estão nos arts. 313.º a 316.º do CPI. Corrigi ainda o regime das invenções de trabalhadores (art. 58.º CPI: atividade inventiva prevista no contrato, direito de opção, prazo de três meses) e a remissão para os «arts. 58.º a 76.º», que abrange o processo de patente.",
+  "substituicoes": [
+   {
+    "de": "software criado por trabalhadores (art. 14.º CDADC)",
+    "para": "software criado por trabalhadores (art. 3.º, n.º 3, do Decreto-Lei n.º 252/94, de 20 de outubro — não o art. 14.º CDADC)",
+    "motivo": "O software de trabalhador rege-se pelo DL 252/94, não pelo art. 14.º CDADC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=152A0003&nid=152&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Art. 14.º CDADC: obra criada em cumprimento de contrato de serviço ou de trabalho — direitos do empregador",
+    "para": "- Art. 14.º CDADC: obra feita por encomenda ou por conta de outrem (dever funcional ou contrato de trabalho) — a titularidade é a convencionada; na falta de convenção, presume-se do criador intelectual (n.º 2); remuneração especial do criador nos casos do n.º 4\n- Art. 3.º, n.º 3, do Decreto-Lei n.º 252/94: programa de computador criado por empregado no exercício das suas funções, segundo instruções do empregador ou por encomenda — os direitos pertencem ao destinatário, salvo estipulação em contrário ou se outra coisa resultar das finalidades do contrato",
+    "motivo": "O art. 14.º CDADC não atribui os direitos ao empregador por defeito: remete para o convencionado e presume a titularidade do criador.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=484A0014&nid=484&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Arts. 58.º a 76.º CPI: invenções dos trabalhadores — invenções de serviço, invenções livres, invenções mistas",
+    "para": "- Art. 58.º CPI: invenção feita durante a execução de contrato de trabalho em que a atividade inventiva esteja prevista — direito à patente da empresa, com remuneração do inventor se essa atividade não estiver especialmente remunerada; direito de opção da empresa, mediante remuneração, sobre as invenções que se integrem na sua atividade; dever de o inventor informar a empresa no prazo de três meses a contar da conclusão da invenção",
+    "motivo": "As invenções de trabalhadores estão no art. 58.º CPI; os arts. 61.º a 76.º tratam do pedido e do processo de patente. A tripartição doutrinal não corresponde ao regime legal (atividade inventiva prevista / direito de opção).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0058&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Lei n.º 93/2021: segredos comerciais — obrigações do trabalhador durante e após o contrato",
+    "para": "- Arts. 313.º a 316.º CPI (Decreto-Lei n.º 110/2018, que transpôs a Diretiva (UE) 2016/943): segredos comerciais — noção, atos ilícitos e atos lícitos (a Lei n.º 93/2021 é o regime geral de proteção de denunciantes, não o dos segredos comerciais)",
+    "motivo": "A Lei n.º 93/2021 transpõe a Diretiva (UE) 2019/1937 (denunciantes); os segredos comerciais estão no CPI.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0313&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- [■ VERIFICAR: regime específico de software criado por trabalhador — art. 14.º CDADC vs. regime geral]",
+    "para": "- [■ VERIFICAR: cláusulas dos contratos de trabalho e de prestação de serviços sobre a titularidade das obras (art. 14.º CDADC) e do software (art. 3.º, n.º 3, do Decreto-Lei n.º 252/94)]",
+    "motivo": "A dúvida está resolvida pelo DL 252/94; fica a verificação das cláusulas contratuais.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=152A0003&nid=152&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "\"Invenção de Serviço\": invenção resultante do exercício das funções do trabalhador ou de orientações da Empresa",
+    "para": "\"Invenção de Serviço\": invenção feita durante a execução de contrato de trabalho em que a atividade inventiva esteja prevista; a titularidade da patente cabe à Empresa",
+    "motivo": "É o critério do art. 58.º, n.º 1, CPI.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0058&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "informação que preenche os requisitos do art. 2.º da Lei n.º 93/2021.",
+    "para": "informação que preenche cumulativamente os requisitos do art. 313.º do CPI (secreta, com valor comercial por ser secreta e objeto de diligências razoáveis para a manter secreta).",
+    "motivo": "A noção de segredo comercial está no art. 313.º CPI; o art. 2.º da Lei n.º 93/2021 define o âmbito do regime de denunciantes.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0313&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "Nos termos do art. 14.º do Código do Direito de Autor e dos Direitos Conexos (CDADC), as obras criadas por colaboradores no exercício das suas funções laborais, incluindo software, pertencem à Empresa, salvo estipulação contratual em contrário. O colaborador retém os direitos morais sobre a obra (direito de paternidade).",
+    "para": "Nos termos do art. 14.º do Código do Direito de Autor e dos Direitos Conexos (CDADC), a titularidade do direito de autor sobre as obras criadas por colaboradores no exercício das suas funções é a que tiver sido convencionada e, na falta de convenção, presume-se que pertence ao criador; por isso, os contratos de trabalho e de prestação de serviços devem atribuir expressamente esses direitos à Empresa. Os programas de computador criados por trabalhadores no exercício das suas funções ou segundo instruções da Empresa, ou por encomenda desta, pertencem à Empresa, salvo estipulação em contrário ou se outra coisa resultar das finalidades do contrato (art. 3.º, n.º 3, do Decreto-Lei n.º 252/94, de 20 de outubro). O colaborador mantém os direitos morais sobre a obra (designadamente, o direito de paternidade) e pode ter direito a remuneração especial nos casos do art. 14.º, n.º 4, CDADC.",
+    "motivo": "Sem convenção, o art. 14.º, n.º 2, CDADC presume a titularidade do criador; a regra a favor da empresa só existe no software (DL 252/94).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=484A0014&nid=484&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "As invenções realizadas por colaboradores no exercício das suas funções ou seguindo orientações da Empresa constituem invenções de serviço pertencentes à Empresa, nos termos do ",
+    "para": "O direito à patente das invenções feitas por colaboradores durante a execução de contrato de trabalho em que a atividade inventiva esteja prevista pertence à Empresa; se essa atividade não estiver especialmente remunerada, o inventor tem direito a remuneração de harmonia com a importância da invenção. Se a invenção, fora desse quadro, se integrar na atividade da Empresa, esta tem direito de opção à patente mediante remuneração. Tudo nos termos do ",
+    "motivo": "O critério legal é a atividade inventiva prevista no contrato (art. 58.º, n.º 1, CPI), com direito de opção nos restantes casos ligados à atividade da empresa (n.º 3).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0058&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": ". O colaborador deve notificar a Empresa no prazo de [30] dias após a conceção da invenção.",
+    "para": ". O colaborador deve informar a Empresa da invenção no prazo de três meses a contar da data em que esta for considerada concluída (ou de um mês a contar da apresentação do pedido no INPI, se entretanto o tiver apresentado); a Empresa pode exercer o direito de opção no prazo de três meses a contar da receção dessa informação.",
+    "motivo": "Os prazos são legais: três meses (ou um mês após o pedido de patente) para o inventor; três meses para a opção da empresa (art. 58.º, n.º 3, als. b), c) e e), CPI).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0058&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "nos termos da Lei n.º 93/2021 e do art. 128.º do Código do Trabalho.",
+    "para": "nos termos dos arts. 313.º a 316.º do Código da Propriedade Industrial e do art. 128.º do Código do Trabalho.",
+    "motivo": "A Lei n.º 93/2021 não regula segredos comerciais.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0313&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "explicada em linguagem acessível",
+    "para": "explicada em linguagem acessível, com o regime próprio do software (art. 3.º, n.º 3, do Decreto-Lei n.º 252/94)",
+    "motivo": "A checklist omitia o regime especial do software.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=152A0003&nid=152&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- [ ] Obrigações de segredo comercial (Lei n.º 93/2021)",
+    "para": "- [ ] Obrigações de segredo comercial (arts. 313.º a 316.º CPI)",
+    "motivo": "Diploma errado: os segredos comerciais estão no CPI.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0313&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar a redação das cláusulas de titularidade nos contratos de trabalho e de prestação de serviços (art. 14.º CDADC) e a eventual remuneração especial (art. 14.º, n.º 4).",
+   "Se a empresa for pessoa coletiva pública com atividades de I&D, aplicar o art. 59.º CPI (prazo de notificação de três dias), não o art. 58.º.",
+   "Confirmar se a política pode fixar um prazo interno de comunicação mais curto do que o legal sem afetar os efeitos do art. 58.º CPI."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=484A0014&nid=484&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=152&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=152A0003&nid=152&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0058&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0059&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0313&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=3544A0001&nid=3544&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0128&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+  ]
+ },
+ {
+  "codigo": "PI-029",
+  "veredicto": "corrigida",
+  "resumo": "A ficha inteira assentava no art. 14.º CDADC com um texto que a lei não tem (o n.º 1 não atribui os direitos ao empregador, o n.º 2 presume a titularidade do criador e o n.º 3 não trata de direitos morais) e citava o art. 17.º CDADC (obra em colaboração) como regime do software. Reescrevi a fundamentação, a secção III.A, a secção E, as conclusões e a checklist com base no art. 3.º do DL 252/94 (direitos do destinatário do programa criado por empregado ou por encomenda, salvo estipulação em contrário; presunção de obra coletiva; remuneração especial) e no art. 9.º do mesmo diploma (menção do nome). Corrigi também a afirmação de que o prestador conserva sempre os direitos: o programa encomendado pertence ao comitente.",
+  "substituicoes": [
+   {
+    "de": "- O art. 14.º CDADC aplica-se a trabalhadores em relação laboral — para prestadores, o regime é diferente",
+    "para": "- O software tem regime próprio: quando um programa de computador é criado por um empregado no exercício das suas funções, ou segundo instruções emanadas do empregador, ou por encomenda, os direitos pertencem ao destinatário do programa, salvo estipulação em contrário ou se outra coisa resultar das finalidades do contrato (art. 3.º, n.º 3, do Decreto-Lei n.º 252/94, de 20 de outubro) — regra especial, que abrange também o prestador de serviços a quem o programa foi encomendado e que, no software, afasta a presunção a favor do criador do art. 14.º, n.º 2, CDADC",
+    "motivo": "O software de trabalhador ou encomendado rege-se pelo DL 252/94; o art. 14.º CDADC abrange também a encomenda e presume a titularidade do criador.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=152A0003&nid=152&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Art. 14.º, n.º 1 CDADC: \"Os direitos patrimoniais sobre obra criada pelo trabalhador ou funcionário no cumprimento de deveres laborais ou de acordo com as instruções do respetivo empregador pertencem a este\"\n- Art. 14.º, n.º 2 CDADC: exceção para obra que não se enquadre nas funções do trabalhador\n- Art. 14.º, n.º 3 CDADC: direitos morais do autor — inalienáveis, mesmo que a empresa tenha os direitos patrimoniais\n- Art. 17.º CDADC: direitos sobre software — prazo de proteção, transferência de direitos\n- Diferença entre trabalhador subordinado (art. 11.º CT) e prestador de serviços independente: para o prestador, o regime padrão é que os direitos pertencem ao criador, salvo cláusula contratual expressa de cessão",
+    "para": "- Art. 3.º, n.º 3, do Decreto-Lei n.º 252/94: \"Quando um programa de computador for criado por um empregado no exercício das suas funções, ou segundo instruções emanadas do dador de trabalho, ou por encomenda, pertencem ao destinatário do programa os direitos a ele relativos, salvo estipulação em contrário ou se outra coisa resultar das finalidades do contrato\"\n- Art. 3.º, n.os 1 e 2, do Decreto-Lei n.º 252/94: aplicam-se ao programa as regras sobre autoria e titularidade do direito de autor; o programa realizado no âmbito de uma empresa presume-se obra coletiva\n- Art. 3.º, n.º 4, do Decreto-Lei n.º 252/94: direito do criador a remuneração especial nos casos das als. a) e b) do art. 14.º, n.º 4, CDADC (criação que excede claramente a função confiada; utilizações ou vantagens não previstas na remuneração ajustada)\n- Art. 9.º do Decreto-Lei n.º 252/94: o criador intelectual individualizável tem sempre o direito de ser reconhecido como tal e de ter o seu nome mencionado no programa\n- Art. 11.º do Decreto-Lei n.º 252/94: negócios sobre direitos relativos a programas — regras gerais dos contratos\n- Art. 14.º CDADC: regime geral da obra feita por encomenda ou por conta de outrem (titularidade convencionada; na falta, presume-se do criador) — aplicável à documentação e a outras obras que não sejam o programa\n- Diferença entre trabalhador subordinado (art. 11.º CT) e prestador de serviços independente: no software, o prestador a quem o programa foi encomendado está igualmente abrangido pelo art. 3.º, n.º 3, do Decreto-Lei n.º 252/94; fora da encomenda (desenvolvimento por iniciativa própria), os direitos pertencem ao criador",
+    "motivo": "A «citação» do art. 14.º, n.º 1, CDADC não corresponde ao texto legal; o n.º 2 presume a titularidade do criador; o n.º 3 é uma presunção ligada à falta de menção do nome; o art. 17.º trata da obra em colaboração. O regime do software está no art. 3.º do DL 252/94.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=152&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- [■ VERIFICAR: jurisprudência portuguesa sobre art. 14.º CDADC aplicado a software em contexto laboral]",
+    "para": "- [■ VERIFICAR: jurisprudência portuguesa sobre o art. 3.º, n.º 3, do Decreto-Lei n.º 252/94 (software criado por trabalhador ou por encomenda)]",
+    "motivo": "A jurisprudência relevante é a do regime do software, não a do art. 14.º CDADC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=152A0003&nid=152&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Pesos relativos: a jurisprudência tende a dar peso ao \"cumprimento de deveres laborais\" — mesmo fora de horário, se nas funções, a presunção é favorável à empresa",
+    "para": "- Pesos relativos: o critério legal é a criação \"no exercício das suas funções\" ou \"segundo instruções emanadas do dador de trabalho\" (art. 3.º, n.º 3, do Decreto-Lei n.º 252/94) — o horário e os meios usados são indícios, não critérios autónomos; preenchido o critério, os direitos pertencem à empresa, salvo estipulação em contrário [■ VERIFICAR: jurisprudência sobre o peso destes indícios]",
+    "motivo": "A tendência jurisprudencial afirmada não está confirmada e o critério legal é o do DL 252/94.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=152A0003&nid=152&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "**A) Regime Aplicável — Art. 14.º CDADC**\nO art. 14.º do Código do Direito de Autor e dos Direitos Conexos (CDADC) estabelece que os direitos patrimoniais sobre obra criada pelo trabalhador \"no cumprimento de deveres laborais ou de acordo com as instruções do respetivo empregador\" pertencem ao empregador.\n\nPara determinar se este regime se aplica, importa analisar dois critérios alternativos:\n1. \"Cumprimento de deveres laborais\": as funções contratuais do trabalhador incluíam o desenvolvimento de software do tipo em causa?\n2. \"Instruções do empregador\": a empresa deu instruções expressas ou tácitas para o desenvolvimento deste software?",
+    "para": "**A) Regime Aplicável — Art. 3.º, n.º 3, do Decreto-Lei n.º 252/94**\nOs programas de computador estão sujeitos a regime próprio, o Decreto-Lei n.º 252/94, de 20 de outubro, que transpôs a Diretiva 91/250/CEE (hoje codificada na Diretiva 2009/24/CE). Nos termos do seu art. 3.º, n.º 3, quando um programa de computador for criado por um empregado \"no exercício das suas funções, ou segundo instruções emanadas do dador de trabalho, ou por encomenda\", pertencem ao destinatário do programa os direitos a ele relativos, \"salvo estipulação em contrário ou se outra coisa resultar das finalidades do contrato\". Esta regra especial, em sentido inverso à presunção a favor do criador intelectual do art. 14.º, n.º 2, do Código do Direito de Autor e dos Direitos Conexos (CDADC), prevalece no software.\n\nPara determinar se este regime se aplica, importa analisar dois critérios alternativos e, depois, a eventual estipulação em contrário:\n1. \"Exercício das suas funções\": as funções contratuais do trabalhador incluíam o desenvolvimento de software do tipo em causa?\n2. \"Instruções do dador de trabalho\": a empresa deu instruções expressas ou tácitas para o desenvolvimento deste software?\n3. Estipulação em contrário ou finalidades do contrato: o contrato reserva os direitos ao trabalhador ou resulta dele outra solução?",
+    "motivo": "O texto atribuído ao art. 14.º CDADC não existe; o regime aplicável é o do art. 3.º, n.º 3, do DL 252/94.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=152A0003&nid=152&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "**B) Análise do Critério \"Cumprimento de Deveres Laborais\"**",
+    "para": "**B) Análise do Critério \"Exercício das Funções\"**",
+    "motivo": "Alinha o critério com a letra do art. 3.º, n.º 3, do DL 252/94.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=152A0003&nid=152&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "[Se não existe contrato de trabalho]: O art. 14.º CDADC aplica-se exclusivamente a trabalhadores em vínculo laboral. Tratando-se de prestação de serviços independente, os direitos patrimoniais pertencem ao prestador — [nome] — salvo existência de cláusula contratual expressa de cessão total ou parcial dos direitos à empresa, nos termos dos arts. 41.º e ss. CDADC.",
+    "para": "[Se não existe contrato de trabalho]: Se o programa foi desenvolvido por encomenda da empresa, o art. 3.º, n.º 3, do Decreto-Lei n.º 252/94 atribui igualmente os direitos à empresa, como destinatária do programa, salvo estipulação em contrário ou se outra coisa resultar das finalidades do contrato. Se o prestador — [nome] — o desenvolveu por iniciativa própria, fora de qualquer encomenda, os direitos pertencem-lhe (art. 3.º, n.º 1, do Decreto-Lei n.º 252/94 e art. 11.º CDADC), e a sua aquisição pela empresa depende de negócio, regido pelas regras gerais dos contratos (art. 11.º do Decreto-Lei n.º 252/94).",
+    "motivo": "O art. 14.º CDADC não é exclusivo de trabalhadores e, no software, a encomenda atribui os direitos ao comitente (art. 3.º, n.º 3, do DL 252/94); os negócios sobre software seguem o art. 11.º do DL 252/94, não os arts. 41.º e ss. CDADC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=152&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "pertencem à [nome da empresa], ao abrigo do art. 14.º, n.º 1 do CDADC, porquanto [fundamentação]. O trabalhador retém apenas os direitos morais (direito de paternidade), nos termos do art. 56.º CDADC.",
+    "para": "pertencem à [nome da empresa], ao abrigo do art. 3.º, n.º 3, do Decreto-Lei n.º 252/94, porquanto [fundamentação]. O trabalhador mantém o direito de ser reconhecido como criador e de ter o seu nome mencionado no programa (art. 9.º, n.º 2, do Decreto-Lei n.º 252/94; cf. art. 56.º CDADC) e, verificados os pressupostos, o direito a remuneração especial (art. 3.º, n.º 4, do mesmo diploma).",
+    "motivo": "A base legal da titularidade da empresa é o art. 3.º, n.º 3, do DL 252/94; o direito à menção do nome está no art. 9.º do mesmo diploma.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=152&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "porquanto o desenvolvimento não se enquadrou no cumprimento de deveres laborais nem seguiu instruções da empresa, nos termos do art. 14.º, n.º 2 do CDADC.",
+    "para": "porquanto o programa não foi criado no exercício das suas funções, nem segundo instruções da empresa, nem por encomenda desta (art. 3.º, n.º 3, do Decreto-Lei n.º 252/94, a contrario) [ou: porquanto existe estipulação em contrário — transcrever].",
+    "motivo": "O art. 14.º, n.º 2, CDADC não é uma exceção para obra fora das funções; a conclusão decorre do art. 3.º, n.º 3, do DL 252/94.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=152A0003&nid=152&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "contribuíram para o mesmo software — coautoria]",
+    "para": "contribuíram para o mesmo software — coautoria (arts. 16.º e 17.º CDADC) ou obra coletiva, que se presume no programa realizado no âmbito de uma empresa (art. 3.º, n.º 2, do Decreto-Lei n.º 252/94)]",
+    "motivo": "Acrescenta a presunção de obra coletiva própria do software.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=152A0003&nid=152&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- [ ] Art. 14.º CDADC aplicado corretamente (só para trabalhadores em relação laboral)\n- [ ] Dois critérios alternativos do art. 14.º n.º 1 analisados: deveres laborais + instruções",
+    "para": "- [ ] Regime do software aplicado corretamente (art. 3.º, n.º 3, do Decreto-Lei n.º 252/94 — abrange o trabalhador e a encomenda; não o art. 14.º CDADC)\n- [ ] Critérios do art. 3.º, n.º 3, analisados (exercício das funções / instruções do empregador / encomenda) e eventual estipulação em contrário",
+    "motivo": "A checklist reproduzia o erro de regime.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=152A0003&nid=152&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "com análise do art. 14.º CDADC aplicado ao caso concreto",
+    "para": "com análise do art. 3.º, n.º 3, do Decreto-Lei n.º 252/94 (e, para as obras que não sejam o programa, do art. 14.º CDADC) aplicado ao caso concreto",
+    "motivo": "Regime aplicável ao software.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=152A0003&nid=152&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar na doutrina e na jurisprudência a articulação entre o art. 3.º, n.º 3, do DL 252/94 e o art. 14.º CDADC (prevalência da regra especial do software).",
+   "Para software criado antes da entrada em vigor do DL 252/94 (publicado a 20 de outubro de 1994), verificar o regime transitório e a lei então aplicável.",
+   "Em estágios e bolsas, qualificar o vínculo antes de aplicar o critério do «empregado».",
+   "Avaliar o direito do trabalhador a remuneração especial (art. 3.º, n.º 4, do DL 252/94)."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=152&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=152A0003&nid=152&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=484A0014&nid=484&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=484A0056&nid=484&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "http://publications.europa.eu/resource/cellar/fdad2566-1ecd-4d32-a54d-7b9b386c43c9.0018.02/DOC_1",
+   "https://www.wipo.int/wipolex/en/legislation/details/3522"
+  ],
+  "descricao": "Elabora um parecer jurídico sobre a titularidade de software (ou outra obra) desenvolvido por um trabalhador, analisando se os direitos pertencem ao empregador ou ao trabalhador, à luz do art. 3.º, n.º 3, do Decreto-Lei n.º 252/94 (programas de computador), do art. 14.º do Código do Direito de Autor e dos Direitos Conexos (CDADC), para as obras que não sejam o programa, e do contrato de trabalho, e recomendando as medidas a adotar.",
+  "descricao_en": "Prepares a legal opinion on the ownership of software (or another work) developed by an employee, analysing whether the rights belong to the employer or to the employee in light of Article 3(3) of Decree-Law No. 252/94 (computer programs), Article 14 of the Code of Copyright and Related Rights (CDADC) for works other than the program, and the employment contract, and recommending the measures to be taken."
+ },
+ {
+  "codigo": "PI-041",
+  "veredicto": "corrigida",
+  "resumo": "A ficha tirava a proteção e a titularidade do software do CDADC (art. 2.º, al. l), art. 7.º, art. 36.º, n.º 2, e art. 102.º, que tratam de outras matérias) e afirmava que, sem cláusula de cessão, o cliente que encomendou o programa fica só com licença. Corrigi com o DL 252/94: proteção (arts. 1.º e 2.º), titularidade do programa criado por trabalhador ou por encomenda (art. 3.º, n.º 3 — pertence ao destinatário, salvo estipulação em contrário), presunção de obra coletiva, menção do nome (art. 9.º) e negócios (art. 11.º). Corrigi também a base legal da cláusula de cessão e o item da checklist sobre a forma.",
+  "substituicoes": [
+   {
+    "de": "— Cita os artigos reais do CDADC e da Diretiva 2009/24/CE.",
+    "para": "— Cita os artigos reais do Decreto-Lei n.º 252/94, de 20 de outubro (regime dos programas de computador), do CDADC e da Diretiva 2009/24/CE.",
+    "motivo": "O regime do software está no DL 252/94.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=152&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "em Portugal o software é protegido automaticamente pelo CDADC, sem registo constitutivo.",
+    "para": "em Portugal o programa de computador é protegido automaticamente, nos termos do Decreto-Lei n.º 252/94, sem registo constitutivo (é apenas admitida a inscrição no registo da propriedade literária — art. 12.º do mesmo diploma).",
+    "motivo": "A proteção resulta do DL 252/94, que só admite registo para efeitos do registo da propriedade literária.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=152A0012&nid=152&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Software como obra protegida: art. 2.º, n.º 1, al. l), CDADC + Diretiva 2009/24/CE",
+    "para": "- Software como obra protegida: art. 1.º, n.os 2 e 3, do Decreto-Lei n.º 252/94 (proteção análoga à das obras literárias, extensiva ao material de conceção preliminar) + Diretiva 2009/24/CE",
+    "motivo": "O art. 2.º CDADC não inclui o software (a al. l) refere-se a projetos e esboços de arquitetura e outras ciências).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=152&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- O que não é protegido: ideias, princípios, métodos, algoritmos matemáticos (art. 7.º CDADC)",
+    "para": "- O que não é protegido: as ideias e os princípios que estão na base de qualquer elemento do programa ou da sua interoperabilidade, como a lógica, os algoritmos ou a linguagem de programação (art. 2.º, n.º 2, do Decreto-Lei n.º 252/94; cf. art. 1.º, n.º 2, CDADC)",
+    "motivo": "O art. 7.º CDADC exclui textos oficiais e notícias; a exclusão das ideias e algoritmos está no art. 2.º, n.º 2, do DL 252/94.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=152&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Software criado por trabalhador no âmbito do contrato: titularidade do empregador (art. 36.º, n.º 2, CDADC + art. 102.º CDADC)\n  — Requisito: missão criativa confiada ao trabalhador ou criado no exercício das suas funções",
+    "para": "- Software criado por trabalhador: os direitos pertencem ao empregador, como destinatário do programa, salvo estipulação em contrário ou se outra coisa resultar das finalidades do contrato (art. 3.º, n.º 3, do Decreto-Lei n.º 252/94)\n  — Requisito: programa criado no exercício das suas funções ou segundo instruções emanadas do empregador",
+    "motivo": "O art. 36.º CDADC trata da duração do direito sobre o programa e o art. 102.º da falência do editor; a titularidade está no art. 3.º, n.º 3, do DL 252/94.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=152A0003&nid=152&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "(art. 9.º CDADC), salvo o direito de divulgação",
+    "para": "(art. 9.º CDADC); o criador intelectual individualizável tem sempre o direito de ser reconhecido como tal e de ter o seu nome mencionado no programa (art. 9.º, n.º 2, do Decreto-Lei n.º 252/94); remuneração especial nos casos do art. 3.º, n.º 4, do mesmo diploma",
+    "motivo": "A ressalva do «direito de divulgação» não tem base legal; o regime pessoal do criador de software está no art. 9.º do DL 252/94.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=152&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Software criado por prestador de serviços: regra geral — titularidade do criador intelectual (art. 11.º CDADC), salvo cessão expressa por escrito",
+    "para": "- Software criado por prestador de serviços: se criado por encomenda, os direitos pertencem ao cliente, como destinatário do programa, salvo estipulação em contrário ou se outra coisa resultar das finalidades do contrato (art. 3.º, n.º 3, do Decreto-Lei n.º 252/94); fora da encomenda, vale a regra geral da titularidade do criador intelectual (art. 11.º CDADC, aplicável por força do art. 3.º, n.º 1, do Decreto-Lei n.º 252/94)",
+    "motivo": "No software encomendado, a regra é a inversa: os direitos pertencem ao destinatário.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=152A0003&nid=152&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Software criado em colaboração: co-autoria (art. 16.º CDADC) — regime especial\n- Obra por encomenda: sem cláusula de cessão, o cliente tem apenas licença não exclusiva",
+    "para": "- Software criado em colaboração: coautoria (art. 16.º CDADC); o programa realizado no âmbito de uma empresa presume-se obra coletiva (art. 3.º, n.º 2, do Decreto-Lei n.º 252/94)\n- Obra por encomenda: no programa, sem estipulação em contrário, os direitos pertencem ao cliente (art. 3.º, n.º 3, do Decreto-Lei n.º 252/94); nas restantes obras (documentação, design, conteúdos), na falta de convenção presume-se a titularidade do criador (art. 14.º, n.º 2, CDADC) e o cliente só as pode utilizar para os fins previstos na convenção (art. 15.º, n.º 1, CDADC)",
+    "motivo": "A «licença não exclusiva» por defeito não tem base legal; no software o cliente é titular e nas restantes obras vale o art. 15.º CDADC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=152A0003&nid=152&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Ausência de contrato ou cessão escrita: cliente não é titular, apenas licenciado",
+    "para": "- Ausência de contrato escrito: no programa encomendado, o cliente é, em princípio, titular (art. 3.º, n.º 3, do Decreto-Lei n.º 252/94), mas fica sem prova da encomenda, das finalidades do contrato e da inexistência de estipulação em contrário; nas restantes obras, presume-se a titularidade do criador (art. 14.º, n.º 2, CDADC)",
+    "motivo": "O risco descrito estava invertido para o software encomendado.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=152A0003&nid=152&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "o Software, nos termos dos artigos 41.º e ss. e 103.º do CDADC (DL n.º 63/85),",
+    "para": "o Software, nos termos dos artigos 3.º, n.º 3, e 11.º do Decreto-Lei n.º 252/94, de 20 de outubro,",
+    "motivo": "O art. 41.º CDADC trata da autorização e o art. 103.º da edição; o software rege-se pelo DL 252/94.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=152&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "por todo o prazo de proteção legal.\"]",
+    "para": "por todo o prazo de proteção legal.\"\n[■ VERIFICAR: no programa encomendado, os direitos já pertencem ao Cliente salvo estipulação em contrário (art. 3.º, n.º 3, do Decreto-Lei n.º 252/94), valendo a cláusula como confirmação; quanto à documentação e a outras obras que não sejam o programa, a transmissão total e definitiva exige escritura pública, sob pena de nulidade (art. 44.º CDADC)]]",
+    "motivo": "A cláusula tem de distinguir o programa (titularidade originária do destinatário) das restantes obras, cuja transmissão total tem forma legal.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=484A0044&nid=484&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "; o Cliente tem o direito\nde modificar o Software sem identificação do Desenvolvedor, mediante acordo]",
+    "para": "; o Cliente, como titular, pode transformar e modificar o Software (art. 5.º, al. b), do Decreto-Lei n.º 252/94), mas o criador intelectual individualizável mantém sempre o direito a ser reconhecido como tal e a ter o seu nome mencionado no programa (art. 9.º, n.º 2, do mesmo diploma)]",
+    "motivo": "O direito à menção do nome do criador de software vale «em qualquer caso» e não pode ser afastado por acordo.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=152&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- [ ] Cessão de direitos por escrito (obrigatória para ser eficaz — art. 41.º CDADC)",
+    "para": "- [ ] Contrato escrito com a atribuição dos direitos ao Cliente (no programa, os negócios seguem as regras gerais dos contratos — art. 11.º do Decreto-Lei n.º 252/94; para a documentação e outras obras do CDADC, a transmissão parcial exige documento escrito com reconhecimento notarial das assinaturas e a total escritura pública — arts. 43.º, n.º 2, e 44.º CDADC) [■ VERIFICAR: forma exigível no caso concreto]",
+    "motivo": "O art. 41.º CDADC trata da autorização, não da cessão; a forma depende do tipo de obra.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=484A0043&nid=484&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar se a forma dos arts. 43.º e 44.º CDADC é exigível em algum negócio sobre software, face ao art. 11.º, n.º 2, do DL 252/94 (que só manda aplicar os arts. 40.º, 45.º a 51.º e 55.º CDADC).",
+   "Confirmar a duração do direito sobre o programa (art. 36.º CDADC: 70 anos após a morte do criador ou após a primeira publicação lícita, se o direito for originariamente de outrem).",
+   "Rever a posição sobre software gerado por IA à luz da doutrina e jurisprudência mais recentes."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=152&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=152A0003&nid=152&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=152A0012&nid=152&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=484&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=484A0001&nid=484&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=484A0014&nid=484&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=484A0015&nid=484&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=484A0036&nid=484&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=484A0043&nid=484&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=484A0044&nid=484&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "http://publications.europa.eu/resource/cellar/fdad2566-1ecd-4d32-a54d-7b9b386c43c9.0018.02/DOC_1"
+  ],
+  "descricao": "Elabora parecer sobre a titularidade de direitos de autor de software e redige contrato de encomenda de desenvolvimento de software, ao abrigo do Decreto-Lei n.º 252/94, de 20 de outubro (proteção dos programas de computador, titularidade do programa criado por trabalhador ou por encomenda e negócios sobre programas), do CDADC (DL n.º 63/85), para as obras que não sejam o programa, e da Diretiva 2009/24/CE.",
+  "descricao_en": "Prepares a legal opinion on the ownership of copyright in software and drafts a software development commissioning agreement, under Decree-Law No. 252/94 of 20 October (protection of computer programs, ownership of programs created by employees or on commission, and transactions concerning programs), the CDADC (Decree-Law No. 63/85) for works other than the program, and Directive 2009/24/EC."
+ },
+ {
+  "codigo": "PI-055",
+  "veredicto": "corrigida",
+  "resumo": "A ficha fundava os segredos comerciais na Lei n.º 93/2021 (regime de proteção de denunciantes) — estão nos arts. 313.º a 316.º do CPI —, tirava a titularidade do software e das obras criativas dos arts. 36.º, n.º 2, e 102.º CDADC (duração do direito sobre o programa e falência do editor) e descrevia mal as invenções de trabalhadores (a «invenção mista» não é partilhada e o uso de meios da empresa não lhe atribui a invenção). Corrigi com o art. 3.º, n.º 3, do DL 252/94, o art. 14.º CDADC, o art. 58.º CPI e o art. 313.º CPI.",
+  "substituicoes": [
+   {
+    "de": "do CDADC (DL n.º 63/85), da Lei n.º 93/2021 e do Código do Trabalho.",
+    "para": "do CDADC (DL n.º 63/85), do Decreto-Lei n.º 252/94 (programas de computador) e do Código do Trabalho; os segredos comerciais estão nos arts. 313.º a 316.º do CPI (a Lei n.º 93/2021 é o regime geral de proteção de denunciantes).",
+    "motivo": "A Lei n.º 93/2021 não regula segredos comerciais; o software tem diploma próprio.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=3544A0001&nid=3544&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "  — Invenção de serviço: criada no âmbito das funções → pertence à empresa\n  — Invenção mista: criada com meios da empresa fora das funções → partilha\n  — Invenção livre: criada fora das funções e sem meios da empresa → pertence ao trabalhador",
+    "para": "  — Invenção de serviço: feita durante a execução de contrato de trabalho em que a atividade inventiva esteja prevista → o direito à patente pertence à empresa; se essa atividade não estiver especialmente remunerada, o inventor tem direito a remuneração (n.os 1 e 2)\n  — Invenção que se integra na atividade da empresa, fora daquele quadro → a empresa tem direito de opção à patente, mediante remuneração, a exercer no prazo de três meses a contar da receção da notificação do inventor (n.º 3, als. a) e e)); o uso de meios da empresa não lhe atribui, por si, a invenção\n  — Restantes invenções → pertencem ao trabalhador\n  — O inventor deve informar a empresa no prazo de três meses a contar da conclusão da invenção (n.º 3, al. b)); as invenções cuja patente seja pedida no ano seguinte à saída consideram-se feitas durante o contrato (n.º 5)",
+    "motivo": "O art. 58.º CPI não prevê «partilha» da invenção mista nem atribui à empresa a invenção feita com os seus meios: prevê o direito de opção mediante remuneração.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0058&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Software e obras criativas (CDADC, art. 36.º, n.º 2, e art. 102.º): empresa é titular se criado no exercício das funções",
+    "para": "- Software: os direitos pertencem à empresa se o programa for criado no exercício das funções, segundo instruções da empresa ou por encomenda, salvo estipulação em contrário (art. 3.º, n.º 3, do Decreto-Lei n.º 252/94)\n- Outras obras criativas (design, conteúdos): a titularidade é a convencionada; na falta de convenção, presume-se do criador (art. 14.º CDADC) → prever cláusula expressa nos contratos",
+    "motivo": "Os arts. 36.º e 102.º CDADC tratam da duração e da falência do editor; nas obras não informáticas, sem convenção, a titularidade presume-se do criador.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=152A0003&nid=152&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Obrigações dos trabalhadores durante e após o contrato (Lei n.º 93/2021)",
+    "para": "- Obrigações dos trabalhadores durante e após o contrato (arts. 313.º a 316.º CPI; art. 128.º, n.º 1, al. f), do Código do Trabalho)",
+    "motivo": "Diploma errado: os segredos comerciais estão no CPI.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0313&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "2.1. Invenções criadas no âmbito das funções do trabalhador ou com recurso a meios da Empresa pertencem à Empresa, nos termos do ",
+    "para": "2.1. O direito à patente das invenções feitas durante a execução de contrato de trabalho em que a atividade inventiva esteja prevista pertence à Empresa; quanto às invenções que, fora desse quadro, se integrem na atividade da Empresa, esta tem direito de opção mediante remuneração; tudo nos termos do ",
+    "motivo": "O uso de meios da empresa não é critério de atribuição no art. 58.º CPI.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0058&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "2.2. Software, obras de design, conteúdos digitais e outras obras criativas desenvolvidas no exercício das funções do trabalhador pertencem à Empresa, nos termos dos artigos 36.º, n.º 2, e 102.º do CDADC.",
+    "para": "2.2. Os programas de computador criados pelo trabalhador no exercício das suas funções ou segundo instruções da Empresa pertencem à Empresa, salvo estipulação em contrário, nos termos do artigo 3.º, n.º 3, do Decreto-Lei n.º 252/94. As obras de design, conteúdos digitais e outras obras criativas desenvolvidas no exercício das funções pertencem à Empresa nos termos convencionados no contrato de trabalho ou de prestação de serviços (artigo 14.º do CDADC), pelo que os contratos devem conter cláusula expressa nesse sentido.",
+    "motivo": "Base legal errada e regime das obras não informáticas invertido (sem convenção, presume-se a titularidade do criador).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=484A0014&nid=484&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "3.1. Toda a informação técnica, comercial e estratégica da Empresa que não seja pública é tratada como segredo comercial ao abrigo da Lei n.º 93/2021.",
+    "para": "3.1. A informação técnica, comercial e estratégica da Empresa que seja secreta, tenha valor comercial por ser secreta e seja objeto de diligências razoáveis para a manter secreta é protegida como segredo comercial (artigo 313.º do CPI); a restante informação não pública é tratada como informação confidencial nos termos desta Política.",
+    "motivo": "Nem toda a informação não pública é segredo comercial: os requisitos são cumulativos (art. 313.º CPI); a Lei n.º 93/2021 não se aplica.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0313&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar a articulação da política com os contratos de trabalho (cláusulas de titularidade do art. 14.º CDADC) e com eventual pacto de não concorrência.",
+   "Se a empresa for pessoa coletiva pública com atividades de I&D, aplicar o art. 59.º CPI.",
+   "Verificar a validade do prazo de confidencialidade pós-contratual fixado na cláusula 3.3."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=3544A0001&nid=3544&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0058&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0313&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=152&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=152A0003&nid=152&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=484A0014&nid=484&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=484A0036&nid=484&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0128&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+  ],
+  "descricao": "Elabora uma política interna de propriedade intelectual abrangente para uma empresa, regulando a titularidade de criações de trabalhadores e prestadores, a proteção de segredos comerciais, o uso de ativos de PI de terceiros e a gestão do portfólio de PI, ao abrigo do CPI (DL n.º 110/2018, incluindo o regime dos segredos comerciais), do CDADC (DL n.º 63/85), do Decreto-Lei n.º 252/94 (programas de computador) e do Código do Trabalho.",
+  "descricao_en": "Prepares a comprehensive internal intellectual property policy for a company, regulating ownership of creations by employees and contractors, protection of trade secrets, use of third-party IP assets and management of the IP portfolio, under the CPI (Decree-Law No. 110/2018, including the trade secrets regime), the CDADC (Decree-Law No. 63/85), Decree-Law No. 252/94 (computer programs) and the Labour Code."
+ },
+ {
+  "codigo": "PI-018",
+  "veredicto": "corrigida",
+  "resumo": "A ficha usava a numeração do CPI de 2003 (arts. 338.º-A a 338.º-N), que não existe no CPI aprovado pelo DL 110/2018: hoje o art. 338.º é a legitimidade e a tutela civil está nos arts. 337.º a 350.º. Substituí por medidas inibitórias (349.º), sanções acessórias (348.º), informações (344.º), obtenção de prova (339.º), publicação (350.º) e custas de parte (CPC, 533.º). Corrigi também o critério de indemnização (o lucro do infrator é fator a ponderar e a quantia por equidade é que é subsidiária — art. 347.º), a competência (TPI, art. 111.º da LOSJ, e não o tribunal de comarca), a norma da sanção pecuniária compulsória (Código Civil e art. 349.º, n.º 4, CPI, não o CPC), os artigos dos direitos conferidos pela patente e pelo desenho e o RMUE.",
+  "substituicoes": [
+   {
+    "de": "- A ação de violação de PI segue os arts. 338.º a 338.º-N do CPI\n- Pede cessação (art. 338.º-A CPI), indemnização (art. 338.º CPI), destruição de produtos (art. 338.º-B CPI) e publicação da decisão (art. 338.º-G CPI)\n- O direito de indemnização inclui lucros do infrator como critério alternativo (art. 338.º CPI)\n- Identifica a competência correta: Tribunal da Propriedade Intelectual ou tribunal comum [■ VERIFICAR]",
+    "para": "- Os meios de tutela civil dos direitos de propriedade industrial estão nos arts. 337.º a 350.º do CPI aprovado pelo Decreto-Lei n.º 110/2018 (a numeração 338.º-A e seguintes é a do CPI de 2003 e não deve ser usada)\n- Pede a cessação, com medidas inibitórias e sanção pecuniária compulsória (art. 349.º CPI), indemnização (art. 347.º CPI), destruição ou retirada dos produtos — sanções acessórias (art. 348.º CPI) — e publicação da decisão (art. 350.º CPI)\n- Na indemnização, o tribunal atende ao lucro obtido pelo infrator, aos danos emergentes e lucros cessantes do lesado, aos encargos com a proteção, a investigação e a cessação da conduta, à receita do infrator e aos danos não patrimoniais; só na impossibilidade de fixar o prejuízo efetivo, e se o lesado não se opuser, pode fixar quantia por equidade, tendo por base, no mínimo, as remunerações de uma licença (art. 347.º, n.os 2 a 5, CPI)\n- Competência: Tribunal da Propriedade Intelectual (art. 111.º, n.º 1, al. b), da Lei n.º 62/2013, de 26 de agosto)",
+    "motivo": "Os arts. 338.º-A a 338.º-N não existem no CPI de 2018; o lucro do infrator não é critério «alternativo» (é fator do n.º 2; a alternativa é a quantia por equidade do n.º 5); a competência é do TPI.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0347&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "(3 anos — art. 498.º CC aplicável por remissão)",
+    "para": "(3 anos a contar do conhecimento do direito — art. 498.º CC, regime geral da responsabilidade civil; na violação de segredos comerciais, 5 anos — art. 353.º CPI)",
+    "motivo": "Não há remissão do CPI para o art. 498.º CC; o CPI só tem regra própria de prescrição para os segredos comerciais.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0353&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Art. 338.º-A CPI: pedido de cessação e ordens\n- Art. 338.º-B CPI: medidas de destruição, retirada e recall de produtos\n- Art. 338.º-C CPI: divulgação de informações sobre a origem dos produtos infratores\n- Art. 338.º-G CPI: publicação da decisão\n- Art. 338.º-H CPI: encargos e custas\n- Para marcas UE: arts. 130.º e ss. RMUE (Tribunal de Marcas da UE)\n- [■ VERIFICAR: competência — Tribunal da Propriedade Intelectual ou outro; valor da causa]",
+    "para": "- Art. 349.º CPI: medidas inibitórias e sanção pecuniária compulsória na condenação à cessação\n- Art. 348.º CPI: sanções acessórias — destino dos bens (destruição, retirada ou exclusão definitiva dos circuitos comerciais) e dos instrumentos\n- Art. 344.º CPI: obrigação de prestar informações sobre a origem e as redes de distribuição dos bens ou serviços\n- Art. 339.º CPI: medidas para obtenção da prova (incluindo documentos bancários, financeiros, contabilísticos ou comerciais, nos atos à escala comercial — art. 337.º CPI)\n- Art. 350.º CPI: publicação das decisões judiciais\n- Arts. 527.º e 533.º CPC: custas e custas de parte (incluindo os honorários do mandatário)\n- Para marcas UE: arts. 123.º e ss. do Regulamento (UE) 2017/1001 (tribunais de marcas da UE; sanções no art. 130.º) [■ VERIFICAR: tribunal designado em Portugal como tribunal de marcas da UE]\n- Competência: Tribunal da Propriedade Intelectual (art. 111.º, n.º 1, al. b), da Lei n.º 62/2013) [■ VERIFICAR: valor da causa]",
+    "motivo": "Os arts. 338.º-A a 338.º-H não existem no CPI de 2018; as matérias estão nos arts. 339.º, 344.º, 348.º, 349.º e 350.º, e as custas no CPC. No RMUE, os tribunais de marcas da UE estão no art. 123.º.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0345&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Requerimento de exibição de documentos contabilísticos do infrator (art. 338.º-C CPI)",
+    "para": "- Requerimento de apresentação de documentos bancários, financeiros, contabilísticos ou comerciais do infrator, nos atos à escala comercial (art. 339.º, n.º 2, CPI)",
+    "motivo": "O art. 338.º-C não existe; a apresentação de documentos está no art. 339.º CPI.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0337&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "AO [TRIBUNAL DA PROPRIEDADE INTELECTUAL / TRIBUNAL JUDICIAL DA COMARCA DE [localidade]]",
+    "para": "AO TRIBUNAL DA PROPRIEDADE INTELECTUAL",
+    "motivo": "As ações sobre propriedade industrial são da competência do TPI (art. 111.º, n.º 1, al. b), da LOSJ), com área de competência nacional.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1974A0111&nid=1974&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "conferindo-lhe o direito exclusivo previsto no art. [241.º / 100.º / 194.º] do CPI. O tribunal é competente nos termos do [■ VERIFICAR: diploma que atribui competência ao Tribunal da Propriedade Intelectual].",
+    "para": "conferindo-lhe o direito exclusivo previsto no art. [249.º (marca) / 102.º (patente) / 197.º (desenho ou modelo)] do CPI. O tribunal é competente nos termos do art. 111.º, n.º 1, al. b), da Lei n.º 62/2013, de 26 de agosto (Lei da Organização do Sistema Judiciário).",
+    "motivo": "No CPI de 2018, os direitos conferidos estão nos arts. 249.º (marca), 102.º (patente) e 197.º (desenho ou modelo); os arts. 100.º e 194.º tratam da duração e da relação com o direito de autor. Competência do TPI confirmada.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0249&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "um sinal idêntico ou semelhante para produtos ou serviços idênticos ou semelhantes, quando exista risco de confusão.",
+    "para": "no exercício de atividades económicas, sinal idêntico à marca para produtos ou serviços idênticos ou, quando exista risco de confusão ou associação no espírito do consumidor, sinal idêntico ou semelhante para produtos ou serviços idênticos ou afins [e, tratando-se de marca de prestígio, nos termos da al. c) do n.º 1 do mesmo artigo].",
+    "motivo": "Na identidade de sinal e de produtos não se exige risco de confusão; a lei fala de produtos «afins» e de confusão «ou associação» (art. 249.º, n.º 1, CPI).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0249&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "sob pena de multa [■ VERIFICAR: art. 829.º-A CPC — sanção pecuniária compulsória];",
+    "para": "sob pena de sanção pecuniária compulsória de € [valor] por cada dia de incumprimento (art. 349.º, n.º 4, CPI e art. 829.º-A do Código Civil);",
+    "motivo": "A sanção pecuniária compulsória está no art. 829.º-A do Código Civil (não no CPC) e no art. 349.º, n.º 4, CPI.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0345&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "ostensem o sinal infrator (art. 338.º-B CPI);",
+    "para": "ostentem o sinal infrator (art. 348.º CPI);",
+    "motivo": "Destruição e retirada dos bens: sanções acessórias do art. 348.º CPI (o art. 338.º-B não existe).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0345&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "quantidades dos produtos infratores (art. 338.º-C CPI);",
+    "para": "quantidades dos produtos infratores, bem como sobre o preço obtido (art. 344.º CPI);",
+    "motivo": "A obrigação de prestar informações está no art. 344.º CPI.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0345&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "considere adequado (art. 338.º-G CPI);",
+    "para": "considere adequado, a expensas do Réu (art. 350.º CPI);",
+    "motivo": "A publicação das decisões está no art. 350.º CPI, a expensas do infrator.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0345&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "f) PAGAR as custas e honorários de mandatário (art. 338.º-H CPI).",
+    "para": "f) PAGAR as custas do processo, incluindo as custas de parte, nas quais se compreendem os honorários do mandatário (arts. 527.º e 533.º, n.º 2, al. d), do CPC).",
+    "motivo": "O art. 338.º-H não existe; os honorários são reembolsados como custas de parte (art. 533.º CPC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0533&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar qual o tribunal designado em Portugal como tribunal de marcas da UE (art. 123.º do RMUE) e, para marcas nacionais, a competência do TPI.",
+   "Fixar o valor da causa à luz do pedido de indemnização e do valor do direito violado.",
+   "Ponderar os pedidos de informações (art. 344.º) e de documentos (art. 339.º) antes ou no próprio processo, para quantificar o lucro do infrator."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0337&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0345&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0347&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0353&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0249&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0102&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0197&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1974A0111&nid=1974&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0527&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0533&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0829A&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "http://publications.europa.eu/resource/cellar/2d2217a2-525b-11e7-a5ca-01aa75ed71a1.0019.03/DOC_1"
+  ]
+ },
+ {
+  "codigo": "PI-021",
+  "veredicto": "corrigida",
+  "resumo": "A ficha fundava a providência nos arts. 338.º-B e 338.º-N do CPI, que não existem no CPI de 2018. Substituí pelo art. 345.º (providências cautelares, com aplicação dos arts. 341.º a 343.º), 340.º (preservação da prova) e 346.º (arresto e apreensão) e, para o direito de autor, pelos arts. 210.º-B, 210.º-G e 210.º-H do CDADC. Acrescentei o fundamento próprio do CPI para a dispensa de audiência, preenchi o prazo da ação principal (30 dias — art. 373.º, n.º 1, al. a), CPC), retirei a alternativa do tribunal de comarca (competência do TPI) e corrigi os artigos dos direitos violados.",
+  "substituicoes": [
+   {
+    "de": "- Em matéria de PI: arts. 338.º-B e 338.º-N do CPI + arts. 362.º e ss. do CPC",
+    "para": "- Em matéria de propriedade industrial: art. 345.º do CPI (providências cautelares, com aplicação dos arts. 341.º a 343.º CPI), art. 340.º CPI (preservação da prova) e art. 346.º CPI (arresto e apreensão de bens); em direito de autor: arts. 210.º-B, 210.º-G e 210.º-H do CDADC; em qualquer caso, arts. 362.º e ss. do CPC",
+    "motivo": "Os arts. 338.º-B e 338.º-N não existem no CPI de 2018; o direito de autor tem regime próprio no CDADC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0345&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "comprometeria a eficácia da medida (art. 366.º CPC)",
+    "para": "comprometeria a eficácia da medida (art. 366.º CPC) ou que o atraso pode causar danos irreparáveis ou que há risco sério de destruição ou ocultação da prova (arts. 345.º, n.º 5, e 341.º, n.º 1, CPI)",
+    "motivo": "O CPI tem fundamento próprio para a dispensa de audiência prévia, aplicável às providências por remissão do art. 345.º, n.º 5.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0345&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Art. 338.º-B CPI: medidas de preservação de provas e apreensão de produtos\n- Art. 338.º-N CPI: medidas provisórias em matéria de PI",
+    "para": "- Arts. 340.º e 341.º CPI: medidas de preservação da prova (descrição, recolha de amostras, apreensão), que podem ser aplicadas sem audiência prévia em caso de risco de dano irreparável ou de destruição ou ocultação da prova\n- Art. 345.º CPI: providências cautelares (inibir violação iminente ou proibir a sua continuação; também contra intermediários; sanção pecuniária compulsória; substituição por caução)\n- Art. 346.º CPI: arresto e apreensão dos bens suspeitos de violação e dos instrumentos\n- Art. 343.º CPI: caução e responsabilidade do requerente (aplicável às providências por força do art. 345.º, n.º 5, CPI)",
+    "motivo": "Os arts. 338.º-B e 338.º-N não existem no CPI de 2018.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0345&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- [■ VERIFICAR: prazos para propositura da ação principal após decretação da providência]",
+    "para": "- Ação principal: 30 dias contados da data em que ao requerente for notificado o trânsito em julgado da decisão que ordenou a providência, sob pena de caducidade (art. 373.º, n.º 1, al. a), CPC)",
+    "motivo": "Prazo legal confirmado.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0373&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "AO [TRIBUNAL DA PROPRIEDADE INTELECTUAL / TRIBUNAL JUDICIAL DA COMARCA DE [localidade]]",
+    "para": "AO TRIBUNAL DA PROPRIEDADE INTELECTUAL",
+    "motivo": "As causas sobre propriedade industrial e direito de autor são da competência do TPI (art. 111.º, n.º 1, als. a) e b), e n.º 2, da LOSJ).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1974A0111&nid=1974&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "e dos arts. 338.º-B e 338.º-N do Código da Propriedade Industrial (CPI)",
+    "para": "e do art. 345.º do Código da Propriedade Industrial (CPI) [ou, em direito de autor, do art. 210.º-G do Código do Direito de Autor e dos Direitos Conexos]",
+    "motivo": "Fundamento legal inexistente no CPI de 2018.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=484A0210G&nid=484&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "em violação dos arts. [241.º / 104.º / 67.º] do CPI / CDADC",
+    "para": "em violação do art. [249.º (marca) / 102.º (patente)] do CPI / [art. 67.º do CDADC (direito de autor)]",
+    "motivo": "No CPI de 2018, os direitos conferidos estão nos arts. 249.º (marca) e 102.º (patente); o art. 104.º trata do esgotamento.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0249&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "todos os produtos que ostensem o sinal",
+    "para": "todos os produtos que ostentem o sinal",
+    "motivo": "Gralha («ostensem»).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0345&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- [ ] Tribunal competente verificado [■ VERIFICAR]",
+    "para": "- [ ] Tribunal competente verificado (Tribunal da Propriedade Intelectual — art. 111.º, n.º 1, als. a) e b), e n.º 2, da Lei n.º 62/2013)",
+    "motivo": "Competência confirmada.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1974A0111&nid=1974&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Escolher entre preservação da prova (art. 340.º), providência inibitória (art. 345.º) e arresto ou apreensão (art. 346.º) — têm pressupostos diferentes (o arresto do n.º 1 exige infração à escala comercial).",
+   "Confirmar a eventual aplicação da inversão do contencioso (art. 369.º CPC)."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0337&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0345&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0249&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=484A0210G&nid=484&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0366&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0373&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1974A0111&nid=1974&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+  ]
+ },
+ {
+  "codigo": "PI-036",
+  "veredicto": "corrigida",
+  "resumo": "A ficha remetia para os arts. 338.º-I e 338.º-J do CPI, que não existem no CPI de 2018, e descrevia os critérios de indemnização do art. 347.º como «enriquecimento sem causa». Substituí pelo art. 345.º (providências cautelares), pelos arts. 344.º e 339.º (informações e documentos do infrator) e pelos critérios do art. 347.º (lucro e receita do infrator; quantia por equidade só subsidiária). Corrigi também a publicação da sentença (art. 350.º, que só tem três números — a mera troca do número deixava um «n.º 5» inexistente), a remissão do prazo de prescrição e o pedido de honorários (custas de parte, art. 533.º CPC).",
+  "substituicoes": [
+   {
+    "de": "providência cautelar prévia (art. 338.º-I CPI)",
+    "para": "providência cautelar prévia (art. 345.º CPI)",
+    "motivo": "O art. 338.º-I não existe no CPI de 2018; as providências cautelares estão no art. 345.º.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0345&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "(art. 498.º CC por remissão)",
+    "para": "(art. 498.º CC — regime geral da responsabilidade civil)",
+    "motivo": "Não há remissão do CPI para o art. 498.º CC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0353&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Critérios de indemnização: lucros cessantes, danos emergentes, enriquecimento sem causa do infrator (art. 347.º, n.º 3, CPI)",
+    "para": "- Critérios de indemnização: lucro obtido pelo infrator, danos emergentes e lucros cessantes do lesado e encargos com a proteção, a investigação e a cessação da conduta (n.º 2); receita resultante da conduta ilícita do infrator (art. 347.º, n.º 3, CPI); danos não patrimoniais (n.º 4)",
+    "motivo": "O art. 347.º não recorre ao enriquecimento sem causa: manda atender ao lucro e à receita do infrator.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0347&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Metodologia 1: royalty razoável — taxa de licença que seria acordada para uso autorizado",
+    "para": "- Metodologia 1: royalty razoável — taxa de licença que seria acordada para uso autorizado (subsidiária: quantia fixa por equidade, só na impossibilidade de fixar o prejuízo efetivo e se o lesado não se opuser — art. 347.º, n.º 5, do CPI)",
+    "motivo": "A quantia fixada com base nas remunerações de uma licença é alternativa subsidiária, não método livre.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0347&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Publicação da sentença como forma de reparação (art. 347.º, n.º 5, CPI)",
+    "para": "- Publicação da sentença, a pedido do lesado e a expensas do infrator (art. 350.º CPI)",
+    "motivo": "A publicação das decisões está no art. 350.º CPI, que só tem três números; a mera troca do número deixaria um «n.º 5» inexistente.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0345&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Pedido de prestação de contas (art. 338.º-J CPI)",
+    "para": "- Pedido de informações sobre a origem, as redes de distribuição, as quantidades e o preço obtido (art. 344.º CPI) e, nos atos à escala comercial, de apresentação de documentos bancários, financeiros, contabilísticos ou comerciais do infrator (art. 339.º, n.º 2, CPI)",
+    "motivo": "O art. 338.º-J não existe; os instrumentos do CPI de 2018 são os arts. 339.º e 344.º.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0345&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "e) Condene o Réu nas custas e honorários de mandatário.",
+    "para": "e) Condene o Réu nas custas, incluindo as custas de parte, nas quais se compreendem os honorários do mandatário (art. 533.º, n.º 2, al. d), do CPC).",
+    "motivo": "Os honorários são reembolsados como custas de parte, não por pedido autónomo.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0533&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar a subsunção à al. a), b) ou c) do art. 249.º, n.º 1, CPI (a al. b) exige risco de confusão ou associação; a al. c), marca de prestígio).",
+   "Ponderar o pedido genérico com liquidação posterior (art. 556.º, n.º 1, als. b) e c), CPC) quando a indemnização dependa das informações do infrator."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0337&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0345&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0347&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0353&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0249&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0533&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0556&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+  ],
+  "descricao": "Elabora a petição inicial de ação de violação de direitos de marca (contrafação), a intentar no Tribunal da Propriedade Intelectual (TPI), ao abrigo do art. 249.º (direitos conferidos pelo registo) e dos arts. 337.º a 350.º (tutela civil) do CPI (DL n.º 110/2018), com pedidos de cessação, indemnização, apreensão de produtos e publicação da sentença.",
+  "descricao_en": "Prepares the statement of claim in an action for infringement of trade mark rights (contrafação), to be brought before the Intellectual Property Court (TPI), under Article 249 (rights conferred by registration) and Articles 337 to 350 (civil enforcement) of the CPI (Decree-Law No. 110/2018), seeking cessation, damages, seizure of products and publication of the judgment."
+ },
+ {
+  "codigo": "PI-037",
+  "veredicto": "corrigida",
+  "resumo": "A ficha fundava a providência nos arts. 338.º-I a 338.º-M do CPI, que não existem no CPI de 2018. Substituí pelo art. 345.º (providências cautelares) e, para a dispensa de audiência prévia, pelos arts. 345.º, n.º 5, e 341.º, n.º 1, CPI e 366.º, n.º 1, CPC; a ponderação de proporcionalidade passou para o art. 368.º, n.º 2, CPC e o art. 345.º, n.º 7, CPI.",
+  "substituicoes": [
+   {
+    "de": "(art. 338.º-I, n.º 2, CPI): justificação da urgência e do sigilo",
+    "para": "(arts. 345.º, n.º 5, e 341.º, n.º 1, CPI; art. 366.º, n.º 1, CPC): justificação do risco de dano irreparável com o atraso, do risco sério de destruição ou ocultação da prova ou do risco sério para o fim ou a eficácia da providência",
+    "motivo": "O art. 338.º-I não existe no CPI de 2018; os fundamentos da dispensa de audiência estão nos arts. 341.º CPI (por remissão do 345.º, n.º 5) e 366.º CPC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0345&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "; arts. 338.º-I e ss. CPI",
+    "para": "; arts. 345.º e 346.º CPI",
+    "motivo": "O art. 338.º-I não existe no CPI de 2018.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0345&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "ao abrigo dos artigos 338.º-I a 338.º-M do CPI e 362.º e ss. do CPC",
+    "para": "ao abrigo dos artigos 345.º (inibição) e 346.º (apreensão) do CPI e dos artigos 362.º e ss. do CPC",
+    "motivo": "Os arts. 338.º-I a 338.º-M não existem no CPI de 2018; a inibição está no art. 345.º e a apreensão dos bens no art. 346.º, n.º 2.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0345&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "[Ponderação entre o dano para o requerido e o benefício para o requerente — arts. 338.º-I, n.º 3, CPI]",
+    "para": "[Ponderação entre o prejuízo para o requerido e o dano que o requerente pretende evitar — art. 368.º, n.º 2, CPC; natureza do direito e possibilidade de o titular continuar a explorá-lo — art. 345.º, n.º 7, CPI]",
+    "motivo": "A ponderação de prejuízos está no art. 368.º, n.º 2, CPC; o CPI acrescenta o critério do art. 345.º, n.º 7.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0373&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar se se pede só providência inibitória (art. 345.º CPI) ou também apreensão ou arresto (art. 346.º CPI), que tem pressupostos próprios.",
+   "Confirmar o prazo de 30 dias da ação principal: conta-se da notificação do trânsito em julgado da decisão que ordenou a providência (art. 373.º, n.º 1, al. a), CPC)."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0337&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0345&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0366&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0373&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1974A0111&nid=1974&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+  ],
+  "descricao": "Elabora o requerimento de providência cautelar de inibição e apreensão em processo de violação de direitos de propriedade industrial, ao abrigo dos artigos 345.º e 346.º do CPI (DL n.º 110/2018) e dos artigos 362.º e ss. do CPC, visando a cessação urgente de atos de contrafação antes da decisão de mérito.",
+  "descricao_en": "Prepares the application for an interim injunction and seizure in proceedings for infringement of industrial property rights, under Articles 345 and 346 of the CPI (Decree-Law No. 110/2018) and Articles 362 et seq. of the CPC, seeking the urgent cessation of infringing acts before the decision on the merits."
+ }
+]

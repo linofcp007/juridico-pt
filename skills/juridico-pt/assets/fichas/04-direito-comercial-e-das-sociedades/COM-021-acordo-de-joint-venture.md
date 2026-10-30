@@ -6,7 +6,7 @@ titulo_en: "Joint Venture Agreement"
 descricao: "Elabora o acordo de joint venture (JV) entre dois ou mais parceiros para a criação de uma entidade conjunta ou para a colaboração estruturada num projeto, definindo a governação, a contribuição de cada parte, a partilha de resultados, a gestão de conflitos e as condições de saída."
 descricao_en: "Drafts a joint venture (JV) agreement between two or more partners to set up a joint entity or for structured collaboration on a project, defining governance, each party's contribution, the sharing of results, conflict management and exit conditions."
 ambito: nacional
-estado_citacoes: "sem citações"
+estado_citacoes: "conferidas 1 · corrigidas 0 · por conferir 0"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
@@ -14,7 +14,7 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 
 > **Âmbito:** nacional · **Área:** Direito Comercial e das Sociedades · **Código:** COM-021
 > **EN:** Joint Venture Agreement. Drafts a joint venture (JV) agreement between two or more partners to set up a joint entity or for structured collaboration on a project, defining governance, each party's contribution, the sharing of results, conflict management and exit conditions.
-> **Citações:** sem citações. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 1 · corrigidas 0 · por conferir 0. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
 
 Elabora o acordo de joint venture (JV) entre dois ou mais parceiros para a criação de uma entidade conjunta ou para a colaboração estruturada num projeto, definindo a governação, a contribuição de cada parte, a partilha de resultados, a gestão de conflitos e as condições de saída.
 
@@ -99,7 +99,7 @@ Os lucros e perdas são distribuídos proporcionalmente, salvo acordo diferente 
 4.3. O Parceiro [A / B] nomeia o Presidente/CEO da JV.
 
 **CLÁUSULA 5.ª — DEADLOCK**
-Em caso de impasse sobre matéria que exija unanimidade, os Parceiros tentam resolução amigável no prazo de [30] dias. Se não resolvido, qualquer Parceiro pode accionar o mecanismo de Russian Roulette / Put-Call nas seguintes condições: [■ VERIFICAR: descrever mecanismo eleito — ver Skill 04].
+Em caso de impasse sobre matéria que exija unanimidade, os Parceiros tentam resolução amigável no prazo de [30] dias. Se não resolvido, qualquer Parceiro pode acionar o mecanismo de Russian Roulette / Put-Call nas seguintes condições: [■ VERIFICAR: descrever mecanismo eleito — ver Skill 04].
 
 **CLÁUSULA 6.ª — NON-COMPETE**
 Durante a vigência da JV, cada Parceiro obriga-se a não exercer, direta ou indiretamente, atividade concorrente com o objeto da JV [no Território / no setor X], sem autorização prévia escrita do outro Parceiro.
@@ -160,3 +160,9 @@ Apresente em <checklist_validacao>:
 
 **OBSERVAÇÕES:**
 [notificação AdC, contribuições em espécie, non-compete específico]
+
+## Citações desta ficha
+
+| Citação | Estado | Nota |
+|---|---|---|
+| Art. 17 CSC | conferida (epígrafe) — Acordos parassociais |  |

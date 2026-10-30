@@ -6,7 +6,8 @@ titulo_en: "Application for Divorce by Mutual Consent (Civil Registry Office)"
 descricao: "Gera o requerimento completo de divórcio por mútuo consentimento a apresentar na Conservatória do Registo Civil, incluindo os acordos obrigatórios sobre responsabilidades parentais, alimentos e destino da casa de morada de família, nos termos dos artigos 1.775.º a 1.780.º do Código Civil."
 descricao_en: "Generates the complete application for divorce by mutual consent to be filed with the Civil Registry Office (Conservatória do Registo Civil), including the mandatory agreements on parental responsibilities (responsabilidades parentais), maintenance and the allocation of the family home (casa de morada de família), under Articles 1775 to 1780 of the Civil Code."
 ambito: nacional
-estado_citacoes: "sem citações"
+estado_citacoes: "conferidas 0 · corrigidas 0 · por conferir 2"
+revisao_tecnica: "2026-10-28 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
@@ -14,7 +15,8 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 
 > **Âmbito:** nacional · **Área:** Direito da Família e das Crianças · **Código:** FAM-001
 > **EN:** Application for Divorce by Mutual Consent (Civil Registry Office). Generates the complete application for divorce by mutual consent to be filed with the Civil Registry Office (Conservatória do Registo Civil), including the mandatory agreements on parental responsibilities (responsabilidades parentais), maintenance and the allocation of the family home (casa de morada de família), under Articles 1775 to 1780 of the Civil Code.
-> **Citações:** sem citações. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 0 · corrigidas 0 · por conferir 2. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-28 — corrigida (8 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
 Gera o requerimento completo de divórcio por mútuo consentimento a apresentar na Conservatória do Registo Civil, incluindo os acordos obrigatórios sobre responsabilidades parentais, alimentos e destino da casa de morada de família, nos termos dos artigos 1.775.º a 1.780.º do Código Civil.
 
@@ -40,7 +42,8 @@ Redigir o requerimento de divórcio por mútuo consentimento e os acordos legalm
 Antes de redigir, analisa os factos e apresenta dentro de um bloco <analise_do_caso>:
 - Há filhos menores ou maiores dependentes? Quantos e com que idades?
 - Existe casa de morada de família (própria ou arrendada)?
-- Há bens comuns a partilhar? (Nota: a partilha não é feita na Conservatória mas pode ser referida)
+- Há bens comuns? O requerimento é instruído com a relação especificada dos bens comuns, com indicação dos respetivos valores, ou, se os cônjuges optarem por partilhar na conservatória (arts. 272.º-A a 272.º-C do Código do Registo Civil), com o acordo sobre a partilha ou o pedido da sua elaboração (art. 1.775.º, n.º 1, al. a), CC)
+- Há convenção antenupcial (juntar certidão — art. 1.775.º, n.º 1, al. e), CC)? Há animais de companhia (acordo sobre o seu destino — art. 1.775.º, n.º 1, al. f), CC)?
 - Qual o regime de bens do casamento?
 - Há pensão de alimentos a fixar (entre cônjuges e/ou para filhos)?
 - Os acordos sobre responsabilidades parentais estão completos? (residência, convivência, alimentos, saúde, educação)
@@ -53,9 +56,10 @@ Apresenta dentro de um bloco <fundamentos_juridicos>:
 - Art. 1.781.º CC (fundamentos do divórcio sem consentimento — para distinguir a via)
 - Arts. 1.874.º e ss. CC (responsabilidades parentais) e RGPTC (Lei n.º 141/2015, de 8/9)
 - Arts. 2.003.º a 2.009.º CC (obrigação de alimentos)
-- Arts. 1.793.º e 1.793.º-A CC (casa de morada de família)
-- Portaria n.º 278/2013 (tabelas indicativas de pensões de alimentos)
-- Instrução registral aplicável (Código do Registo Civil)
+- Art. 1.776.º-A CC (o acordo sobre o exercício das responsabilidades parentais é enviado ao Ministério Público, que se pronuncia em 30 dias; se os cônjuges não aceitarem as alterações indicadas e mantiverem o propósito de se divorciar, o processo é remetido ao tribunal — art. 1.778.º CC)
+- Art. 1.793.º CC (casa de morada da família) e art. 1.105.º CC (destino do arrendamento da casa de morada de família); o art. 1.793.º-A CC trata dos animais de companhia
+- Não há tabela legal de pensões de alimentos: o montante resulta dos meios de quem presta e da necessidade de quem recebe (art. 2.004.º CC) e, quanto aos filhos, do acordo dos pais sujeito a homologação (art. 1.905.º, n.º 1, CC); a Portaria n.º 278/2013 regula o processo de inventário e não trata de alimentos
+- Instrução registral aplicável (Código do Registo Civil, incluindo os arts. 272.º-A a 272.º-C sobre a partilha na conservatória)
 
 ### ETAPA 3 — CONSTRUÇÃO ARGUMENTATIVA (Estrutura dos Acordos)
 Apresenta dentro de um bloco <estrategia>:
@@ -71,7 +75,7 @@ Redige os seguintes documentos completos:
 - Identificação dos requerentes (dados pessoais completos)
 - Identificação do casamento (data, registo, regime de bens)
 - Pedido de divórcio por mútuo consentimento
-- Referência aos acordos juntos
+- Referência aos documentos e acordos juntos (art. 1.775.º, n.º 1, CC): relação especificada dos bens comuns com os respetivos valores (ou acordo sobre a partilha / pedido da sua elaboração); certidão da sentença que regulou as responsabilidades parentais ou acordo sobre o seu exercício; acordo sobre alimentos ao cônjuge que deles careça; acordo sobre o destino da casa de morada de família; certidão da convenção antenupcial, se a houver; acordo sobre o destino dos animais de companhia, se existirem
 - Assinaturas
 
 **2. Acordo sobre o Exercício das Responsabilidades Parentais** (se houver filhos menores)
@@ -95,10 +99,11 @@ Redige os seguintes documentos completos:
 Apresenta dentro de um bloco <checklist_validacao>:
 - [ ] Requerimento assinado por ambos os cônjuges (e advogados, se assistidos)?
 - [ ] Acordo sobre responsabilidades parentais cobre: residência, convivência, alimentos, saúde, educação?
-- [ ] Pensão de alimentos para filhos calculada com referência à Portaria n.º 278/2013?
+- [ ] Pensão de alimentos para filhos fundamentada nas necessidades do filho e nos meios de cada progenitor (art. 2.004.º CC), sem invocar tabelas (não há tabela legal)?
 - [ ] Casa de morada de família: destino definido?
-- [ ] Pensão entre cônjuges: fixada ou expressamente dispensada?
-- [ ] Partilha de bens: indicada como a efetuar posteriormente (notário/tribunal)?
+- [ ] Alimentos entre cônjuges: acordo sobre a prestação ao cônjuge que deles careça (art. 1.775.º, n.º 1, al. c), CC) ou declaração de que nenhum deles carece de alimentos, sem renúncia ao direito, que é irrenunciável (art. 2.008.º, n.º 1, CC)?
+- [ ] Bens comuns: junta a relação especificada com os valores ou, se a partilha for feita na conservatória, o acordo sobre a partilha ou o pedido da sua elaboração (art. 1.775.º, n.º 1, al. a), CC)? Se a partilha ficar para depois: por acordo (conservatória ou notário) ou por inventário
+- [ ] Certidão da convenção antenupcial (se houver) e acordo sobre os animais de companhia (se existirem) juntos (art. 1.775.º, n.º 1, als. e) e f), CC)?
 - [ ] Questão do nome tratada?
 - [ ] Documentos a juntar mencionados (certidões, BI/CC)?
 - [ ] Pontos que exigem atenção especial: [lista]
@@ -120,7 +125,7 @@ Apresenta dentro de um bloco <checklist_validacao>:
 - Naturalidade: [cidade, Portugal/país]
 - Profissão: [profissão]
 - Morada: [rua, n.º, código postal, localidade]
-- Pretende manter/retomar o apelido? [mantém | retoma nome de solteiro/a]
+- Adotou apelidos do outro cônjuge e pretende conservá-los? [não | sim — só com consentimento do ex-cônjuge (documento autêntico ou autenticado, termo lavrado em juízo ou declaração perante o funcionário do registo civil) ou autorização do tribunal — art. 1.677.º-B, n.ºs 2 e 3, CC]
 
 **REQUERENTE B (Cônjuge 2):**
 - Nome completo: [nome]
@@ -146,9 +151,16 @@ Apresenta dentro de um bloco <checklist_validacao>:
 **PENSÃO ENTRE CÔNJUGES:**
 - Há pedido de alimentos de um cônjuge para o outro? [sim/não]
 - Se sim: valor € e prazo: [especifica]
-- Se não: declaração expressa de dispensa: [sim]
+- Se não: declaração de que nenhum dos cônjuges carece de alimentos: [sim] (o direito a alimentos não pode ser renunciado — art. 2.008.º, n.º 1, CC)
 
 **OUTRAS INFORMAÇÕES:**
 - Há bens comuns a partilhar? [sim/não — lista simplificada]
 - Conservatória competente: [localidade]
 - Observações adicionais: [qualquer elemento relevante]
+
+## Citações desta ficha
+
+| Citação | Estado | Nota |
+|---|---|---|
+| arts. 272.º-A | por conferir [■ VERIFICAR] | diploma não identificado |
+| arts. 272.º-A | por conferir [■ VERIFICAR] | diploma não identificado |

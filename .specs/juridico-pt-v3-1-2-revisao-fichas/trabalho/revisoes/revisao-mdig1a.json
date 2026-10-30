@@ -1,0 +1,334 @@
+[
+ {
+  "codigo": "DIG-004",
+  "veredicto": "corrigida",
+  "resumo": "A ficha atribuía ao acórdão C-645/19 (que trata da competência das autoridades de controlo e do balcão único) a responsabilidade conjunta do operador de rede social; foi substituído pelos acórdãos C-25/17 e C-683/21, conferidos no texto oficial. Corrigiu-se a leitura do art. 26.º RGPD: o n.º 3 não consagra a responsabilidade solidária (que está no art. 82.º, n.º 4), mas o exercício dos direitos perante cada responsável, e o ponto de contacto é facultativo e consta do n.º 1, não do n.º 2. A responsabilidade perante o titular deixou de ser descrita como «sanção», com o direito de regresso reportado ao art. 82.º, n.º 5.",
+  "substituicoes": [
+   {
+    "de": "- Art. 26.º RGPD: obrigação de celebrar acordo transparente (n.º 1), disponibilidade da essência ao titular (n.º 2), responsabilidade solidária perante titulares (n.º 3)",
+    "para": "- Art. 26.º RGPD: obrigação de determinar, por acordo e de modo transparente, as responsabilidades de cada parte, podendo o acordo designar um ponto de contacto para os titulares (n.º 1); o acordo reflete as funções e relações de cada parte perante os titulares e a sua essência é disponibilizada ao titular (n.º 2); o titular pode exercer os seus direitos perante cada um dos responsáveis, independentemente do acordo (n.º 3)",
+    "motivo": "O n.º 3 do art. 26.º não trata da responsabilidade solidária (art. 82.º, n.º 4), mas do exercício dos direitos perante cada responsável; o ponto de contacto consta do n.º 1.",
+    "fonte": "https://publications.europa.eu/resource/celex/32016R0679"
+   },
+   {
+    "de": "  * C-645/19 Facebook Belgium: responsabilidade conjunta do operador de rede social",
+    "para": "  * C-25/17 Jehovan todistajat (10.07.2018, ainda ao abrigo da Diretiva 95/46/CE): comunidade religiosa conjuntamente responsável com os membros pregadores, sem necessidade de ter acesso aos dados nem de lhes dar instruções escritas\n  * C-683/21 Nacionalinis visuomenės sveikatos centras (05.12.2023): a qualificação como responsáveis conjuntos não pressupõe acordo entre as entidades sobre as finalidades e os meios, nem acordo que fixe as condições da responsabilidade conjunta",
+    "motivo": "O acórdão C-645/19 (15.06.2021) trata da competência das autoridades de controlo e do mecanismo de balcão único, não da responsabilidade conjunta.",
+    "fonte": "https://publications.europa.eu/resource/celex/62021CJ0683"
+   },
+   {
+    "de": "- Consequências: cada responsável pode ser sancionado individualmente pela totalidade do dano (art. 82.º, n.º 4 RGPD), com direito de regresso",
+    "para": "- Consequências: cada responsável responde perante o titular pela totalidade dos danos (art. 82.º, n.º 4, RGPD), com direito de regresso sobre os demais na medida da respetiva parte de responsabilidade (art. 82.º, n.º 5, RGPD)",
+    "motivo": "O art. 82.º, n.º 4, regula a responsabilidade civil perante o titular, não sanções; o direito de regresso está no n.º 5.",
+    "fonte": "https://publications.europa.eu/resource/celex/32016R0679"
+   },
+   {
+    "de": "- Qual é o ponto de contacto único para os titulares (art. 26.º, n.º 2 RGPD)",
+    "para": "- Se o acordo designa um ponto de contacto para os titulares (faculdade prevista no art. 26.º, n.º 1, RGPD)",
+    "motivo": "A designação do ponto de contacto é facultativa e consta do último período do n.º 1 do art. 26.º.",
+    "fonte": "https://publications.europa.eu/resource/celex/32016R0679"
+   },
+   {
+    "de": "Nos termos do artigo 26.º, n.º 2 RGPD, os titulares dos dados podem exercer os seus direitos perante qualquer das partes. O ponto de contacto designado é:",
+    "para": "Nos termos do artigo 26.º, n.º 3, RGPD, os titulares dos dados podem exercer os seus direitos perante qualquer das partes. O ponto de contacto designado nos termos do artigo 26.º, n.º 1, RGPD é:",
+    "motivo": "O exercício dos direitos perante qualquer dos responsáveis decorre do n.º 3 e o ponto de contacto do n.º 1 do art. 26.º.",
+    "fonte": "https://publications.europa.eu/resource/celex/32016R0679"
+   },
+   {
+    "de": "**Cláusula 6.ª — Sub-subcontratantes**",
+    "para": "**Cláusula 6.ª — Subcontratantes**",
+    "motivo": "A cláusula trata dos subcontratantes de cada responsável (art. 28.º RGPD), não de subcontratantes ulteriores.",
+    "fonte": "https://publications.europa.eu/resource/celex/32016R0679"
+   },
+   {
+    "de": "- [ ] Ponto de contacto único designado para titulares (art. 26.º, n.º 2)",
+    "para": "- [ ] Ponto de contacto para os titulares designado, se as partes o pretenderem (art. 26.º, n.º 1)",
+    "motivo": "A designação é facultativa e consta do n.º 1 do art. 26.º.",
+    "fonte": "https://publications.europa.eu/resource/celex/32016R0679"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Em tratamentos transfronteiriços, confirmar se a autoridade de controlo competente é a CNPD ou a autoridade principal (art. 56.º RGPD) antes de fixar, nas cláusulas 2.ª e 7.ª, a quem cabe notificar as violações.",
+   "A violação das obrigações do art. 26.º RGPD cabe no art. 83.º, n.º 4, al. a), RGPD (até 10 M€ ou 2 %) e é contraordenação grave na Lei n.º 58/2019 (art. 38.º, n.º 1, al. d)).",
+   "Confirmar a versão em vigor das Orientações EDPB 07/2020 (versão 2.0, de 2021)."
+  ],
+  "fontes": [
+   "https://publications.europa.eu/resource/celex/32016R0679",
+   "https://publications.europa.eu/resource/celex/62017CJ0025",
+   "https://publications.europa.eu/resource/celex/62021CJ0683",
+   "https://publications.europa.eu/resource/celex/62019CJ0645",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3118&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+  ]
+ },
+ {
+  "codigo": "DIG-009",
+  "veredicto": "corrigida",
+  "resumo": "A ficha indicava a moldura do art. 83.º, n.º 4 (até 10 M€ ou 2 %) para o incumprimento dos pedidos dos titulares; as violações dos arts. 12.º a 22.º cabem no art. 83.º, n.º 5, al. b), RGPD (até 20 M€ ou 4 %) e são contraordenação muito grave na Lei n.º 58/2019. Corrigiu-se a afirmação de que o prazo só começa após a identificação (conta-se da receção e suspende-se enquanto se aguardam as informações pedidas), acrescentou-se o dever de comunicar os motivos da recusa e as vias de reclamação (art. 12.º, n.º 4) e substituiu-se o «Dia 30» pelo prazo de um mês.",
+  "substituicoes": [
+   {
+    "de": "- Coimas aplicáveis (art. 83.º, n.º 4): até €10M ou 2% volume de negócios global",
+    "para": "- Coimas aplicáveis (art. 83.º, n.º 5, al. b), RGPD): até 20 M€ ou, no caso de uma empresa, até 4 % do volume de negócios anual a nível mundial, consoante o montante mais elevado; na lei nacional, contraordenação muito grave (art. 37.º, n.º 1, al. i), da Lei n.º 58/2019)",
+    "motivo": "A violação dos direitos dos titulares (arts. 12.º a 22.º) está no art. 83.º, n.º 5, al. b), e não no n.º 4.",
+    "fonte": "https://publications.europa.eu/resource/celex/32016R0679"
+   },
+   {
+    "de": "  — Nota: não exigir documentos desnecessários — o prazo só começa após identificação\n□ Se não identificado após pedido: comunicar impossibilidade (art. 11.º RGPD) e arquivar",
+    "para": "  — Nota: não exigir documentos desnecessários; havendo dúvidas razoáveis sobre a identidade, pedir sem demora injustificada as informações adicionais necessárias (art. 12.º, n.º 6, RGPD) — o prazo conta-se da receção do pedido e só se suspende até o titular prestar essas informações (Orientações EDPB 01/2022, ponto 159)\n□ Se não identificado após pedido: comunicar ao titular que não é possível dar seguimento ao pedido por não estar em condições de o identificar, com os motivos e a indicação da possibilidade de reclamar à CNPD e de intentar ação judicial (arts. 11.º, n.º 2, e 12.º, n.ºs 2 e 4, RGPD), e arquivar",
+    "motivo": "O prazo corre desde a receção do pedido e apenas se suspende enquanto se aguardam as informações de identificação; a recusa tem de ser fundamentada e indicar as vias de reação.",
+    "fonte": "https://www.edpb.europa.eu/system/files/2023-04/edpb_guidelines_202201_data_subject_rights_access_v2_en.pdf"
+   },
+   {
+    "de": "**PASSO 5 — ENVIO DA RESPOSTA (Até ao Dia 30)**",
+    "para": "**PASSO 5 — ENVIO DA RESPOSTA (até ao termo do prazo de 1 mês a contar da receção — art. 12.º, n.º 3)**",
+    "motivo": "O prazo legal é de um mês e não de 30 dias; em certos meses termina antes do 30.º dia.",
+    "fonte": "https://publications.europa.eu/resource/celex/32016R0679"
+   },
+   {
+    "de": "□ Se deferimento: executar o pedido (fornecer dados, retificar, apagar, etc.)",
+    "para": "□ Se deferimento: executar o pedido (fornecer dados, retificar, apagar, etc.)\n□ Se indeferimento, total ou parcial: indicar os motivos e a possibilidade de reclamar à CNPD e de intentar ação judicial, no prazo de 1 mês a contar da receção do pedido (art. 12.º, n.º 4, RGPD)",
+    "motivo": "O procedimento omitia o dever, imposto pelo art. 12.º, n.º 4, de fundamentar a recusa e informar das vias de reação.",
+    "fonte": "https://publications.europa.eu/resource/celex/32016R0679"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "A remissão «[modelos: Skill 08]» vem do kit de origem; substituir pelo modelo da casa de resposta a pedidos de titulares.",
+   "O prazo de conservação do registo de pedidos ([5 anos]) é opção interna: fundamentá-lo (prova de conformidade, prescrição do procedimento contraordenacional — art. 40.º da Lei n.º 58/2019)."
+  ],
+  "fontes": [
+   "https://publications.europa.eu/resource/celex/32016R0679",
+   "https://www.edpb.europa.eu/system/files/2023-04/edpb_guidelines_202201_data_subject_rights_access_v2_en.pdf",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3118&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+  ]
+ },
+ {
+  "codigo": "DIG-013",
+  "veredicto": "corrigida",
+  "resumo": "A ficha fundava a audição do arguido no art. 83.º, n.º 3, RGPD (que regula o concurso de infrações), atribuía a uma inexistente «parte final» do art. 83.º, n.º 2, uma advertência em substituição da coima com uma citação que não consta da norma, e indicava como tribunal o TAC de Lisboa sem base legal. Corrigiu-se: audição pelo art. 50.º RGCO (art. 45.º da Lei n.º 58/2019); repreensão em vez de coima (arts. 58.º, n.º 2, al. b), e 83.º, n.º 2, RGPD; considerando 148); impugnação para os tribunais administrativos (art. 34.º da Lei n.º 58/2019), apresentada à CNPD; prescrição pelo art. 40.º da Lei n.º 58/2019. Retiraram-se o «limite mínimo da moldura» e a «redução de X %», sem base legal, e assinalou-se a desaplicação de normas da Lei n.º 58/2019 pela CNPD (Deliberação 2019/494).",
+  "substituicoes": [
+   {
+    "de": "- Lei n.º 58/2019, art. 37.º: especificidades do processo contraordenacional CNPD\n- Prazo de prescrição: [■ VERIFICAR: art. 27.º ss. RGCO aplicado ao processo CNPD]\n- Direito de audição prévia: art. 50.º RGCO + art. 83.º, n.º 3 RGPD (ouvir o arguido)\n- Recurso judicial: art. 78.º RGPD + art. 59.º RGCO → Tribunal Administrativo de Círculo de Lisboa",
+    "para": "- Lei n.º 58/2019, arts. 37.º a 45.º: contraordenações muito graves (art. 37.º) e graves (art. 38.º), medida da coima (art. 39.º), prescrição (arts. 40.º e 41.º) e aplicação subsidiária do RGCO (art. 45.º). A CNPD desaplica, por contrariarem o RGPD, os arts. 37.º, n.º 2, 38.º, n.º 2, e 39.º, n.º 1 (molduras por dimensão da empresa e critérios adicionais de medida da coima), salvo quanto às infrações que o art. 83.º RGPD não sanciona, e o art. 39.º, n.º 3 (advertência prévia nas infrações negligentes) (Deliberação da CNPD 2019/494)\n- Prazo de prescrição do procedimento: três anos (contraordenação muito grave) ou dois anos (contraordenação grave) sobre a prática da infração (art. 40.º da Lei n.º 58/2019); suspensão e interrupção: arts. 27.º-A e 28.º RGCO, por força do art. 45.º da Lei n.º 58/2019\n- Direito de audição e defesa: art. 50.º RGCO, por força do art. 45.º da Lei n.º 58/2019 (o art. 83.º, n.º 3, RGPD não regula a audição: limita o montante total da coima, quando são violadas várias disposições nas mesmas operações de tratamento ou em operações ligadas entre si, ao da violação mais grave)\n- Recurso judicial: impugnação judicial da decisão da CNPD nos tribunais administrativos (art. 78.º RGPD; art. 34.º, n.ºs 1 e 2, da Lei n.º 58/2019), apresentada à CNPD (art. 59.º, n.º 3, RGCO) [■ VERIFICAR: tribunal administrativo territorialmente competente]",
+    "motivo": "O art. 37.º da Lei n.º 58/2019 tipifica infrações, não o processo; a prescrição tem regra própria (art. 40.º); o art. 83.º, n.º 3, RGPD regula o concurso de infrações; as ações contra decisões contraordenacionais da CNPD são da competência dos tribunais administrativos (art. 34.º).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3118&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Pedido de substituição de coima por advertência (art. 83.º, n.º 2 in fine RGPD)",
+    "para": "- Pedido de repreensão em vez de coima (art. 58.º, n.º 2, al. b), e art. 83.º, n.º 2, 1.º período, RGPD; considerando 148 RGPD) ou, subsidiariamente, de admoestação (art. 51.º RGCO) [■ VERIFICAR: admissibilidade da admoestação do RGCO nas infrações sancionadas pelo RGPD]",
+    "motivo": "A medida corretiva aplicável a violações já cometidas é a repreensão (art. 58.º, n.º 2, al. b)); a advertência da al. a) visa operações previstas; o art. 83.º, n.º 2, não tem a «parte final» invocada.",
+    "fonte": "https://publications.europa.eu/resource/celex/32016R0679"
+   },
+   {
+    "de": "vem, por intermédio do seu mandatário [nome, OA n.º], nos termos do art. 50.º do DL n.º 433/82 (RGCO) e do art. 83.º, n.º 3 RGPD, apresentar a seguinte DEFESA:",
+    "para": "vem, por intermédio do seu mandatário [nome, OA n.º], nos termos do art. 50.º do DL n.º 433/82 (RGCO), aplicável por força do art. 45.º da Lei n.º 58/2019, apresentar a seguinte DEFESA:",
+    "motivo": "O art. 83.º, n.º 3, RGPD regula o concurso de infrações, não o direito de audição.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3118&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "f) Ausência de dano real — al. k):",
+    "para": "f) Ausência de dano real — al. a) (nível de danos sofridos pelos titulares):",
+    "motivo": "O nível de danos sofridos pelos titulares é critério da al. a) do art. 83.º, n.º 2, RGPD.",
+    "fonte": "https://publications.europa.eu/resource/celex/32016R0679"
+   },
+   {
+    "de": "**V. PEDIDO DE SUBSTITUIÇÃO POR ADVERTÊNCIA** (se aplicável)\n\nAtendendo à gravidade reduzida da infração, ao carácter negligente da conduta, à ausência de danos reais para titulares, à remediação imediata e à cooperação plena com V. Exas., a [entidade] requer que, em vez de coima, seja proferida mera advertência, nos termos do art. 83.º, n.º 2, in fine RGPD, que prevê essa possibilidade quando \"as circunstâncias do caso concreto\" o justifiquem.",
+    "para": "**V. PEDIDO DE REPREENSÃO EM VEZ DE COIMA** (se aplicável)\n\nAtendendo à gravidade reduzida da infração, ao carácter negligente da conduta, à ausência de danos reais para titulares, à remediação imediata e à cooperação plena com V. Exas., a [entidade] requer que, em vez de coima, lhe seja dirigida uma repreensão, nos termos do art. 58.º, n.º 2, al. b), do RGPD, uma vez que, consoante as circunstâncias de cada caso, as coimas são aplicadas para além ou em vez das medidas corretivas (art. 83.º, n.º 2, 1.º período, RGPD) e que, em caso de infração menor, pode ser feita uma repreensão em vez de ser aplicada uma coima (considerando 148 do RGPD). Subsidiariamente, requer que seja proferida admoestação (art. 51.º RGCO, aplicável por força do art. 45.º da Lei n.º 58/2019). [■ VERIFICAR: admissibilidade da admoestação do RGCO nas infrações sancionadas pelo RGPD]",
+    "motivo": "A expressão citada não consta do art. 83.º, n.º 2; a base da substituição da coima é a repreensão do art. 58.º, n.º 2, al. b), com o art. 83.º, n.º 2, 1.º período, e o considerando 148.",
+    "fonte": "https://publications.europa.eu/resource/celex/32016R0679"
+   },
+   {
+    "de": "— A coima seja fixada no limite mínimo da moldura aplicável, atendendo às atenuantes invocadas;\n— Seja concedida a redução de [X%] pela cooperação e remediação.",
+    "para": "— A coima seja fixada em montante reduzido, proporcionado às atenuantes invocadas (art. 83.º, n.ºs 1 e 2, RGPD);\n— A cooperação com a CNPD e a remediação sejam ponderadas na determinação do montante (art. 83.º, n.º 2, als. c) e f), RGPD).",
+    "motivo": "O RGPD só fixa máximos e a CNPD desaplica os mínimos da Lei n.º 58/2019 (Deliberação 2019/494); não existe redução percentual legal por cooperação.",
+    "fonte": "https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/121704"
+   },
+   {
+    "de": "Se a CNPD aplicar coima: recurso para o Tribunal Administrativo de Círculo de Lisboa (art. 78.º RGPD + art. 59.º RGCO), no prazo de 20 dias úteis (art. 59.º, n.º 3 RGCO).",
+    "para": "Se a CNPD aplicar coima: impugnação judicial para os tribunais administrativos (art. 78.º RGPD; art. 34.º, n.ºs 1 e 2, da Lei n.º 58/2019), feita por escrito, com alegações e conclusões, e apresentada à CNPD no prazo de 20 dias após o conhecimento da decisão (art. 59.º, n.º 3, RGCO), prazo que se suspende aos sábados, domingos e feriados (art. 60.º RGCO). [■ VERIFICAR: tribunal administrativo territorialmente competente]",
+    "motivo": "A competência dos tribunais administrativos resulta do art. 34.º da Lei n.º 58/2019, que não designa o TAC de Lisboa; a impugnação é apresentada à CNPD.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3118&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- [ ] Pedido de advertência (art. 83.º in fine) ou redução de coima formulado",
+    "para": "- [ ] Pedido de repreensão (arts. 58.º, n.º 2, al. b), e 83.º, n.º 2, RGPD) ou de redução da coima formulado",
+    "motivo": "Alinha a verificação com a base legal correta.",
+    "fonte": "https://publications.europa.eu/resource/celex/32016R0679"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar se a defesa deve invocar os arts. 37.º, n.º 2, 38.º, n.º 2, e 39.º, n.ºs 1 e 3, da Lei n.º 58/2019, que a CNPD desaplica (Deliberação 2019/494), e a posição dos tribunais administrativos sobre essa desaplicação.",
+   "A classificação como muito grave ou grave (que fixa o prazo de prescrição do art. 40.º) segue os arts. 37.º e 38.º da Lei n.º 58/2019; a CNPD desaplica também o art. 37.º, n.º 1, als. a), h) e k), e o art. 38.º, n.º 1, al. b).",
+   "Confirmar o tribunal administrativo territorialmente competente para a impugnação e se a CNPD qualifica a notificação como «projeto de deliberação»."
+  ],
+  "fontes": [
+   "https://publications.europa.eu/resource/celex/32016R0679",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3118&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/121704",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=166&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=418A0004&nid=418&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+  ]
+ },
+ {
+  "codigo": "DIG-019",
+  "veredicto": "corrigida",
+  "resumo": "A ficha qualificava o art. 82.º RGPD como responsabilidade objetiva; o TJUE (C-667/21) entende que é responsabilidade subordinada a culpa presumida, e a exoneração está no n.º 3, não no n.º 2. Corrigiram-se ainda: o «rito ordinário/abreviado» (só há processo comum de forma única), o pedido de «honorários advocatícios» (em Portugal, custas de parte), os juros (art. 805.º, n.º 3, CC e AUJ 4/2002 para a indemnização atualizada), a competência (tribunais administrativos quando o réu é pessoa coletiva pública) e as formas do Brasil «em face de» e «Ante o exposto». Os dados do acórdão C-687/21 foram confirmados no texto oficial.",
+  "substituicoes": [
+   {
+    "de": "— O art. 82.º RGPD cria responsabilidade objetiva do responsável pelo tratamento — cabe ao responsável provar que não lhe é imputável o dano (inversão do ónus).\n— Para dano não patrimonial: o TJUE (C-300/21) esclareceu que não é necessário limiar mínimo de gravidade, mas deve ser dano real e não hipotético.",
+    "para": "— O art. 82.º RGPD não cria responsabilidade objetiva: a responsabilidade do responsável pelo tratamento depende de culpa, que se presume — o responsável só se exonera se provar que o facto que provocou o dano não lhe é de modo nenhum imputável (art. 82.º, n.º 3, RGPD; TJUE, C-667/21, Krankenversicherung Nordrhein, 21.12.2023).\n— Para dano não patrimonial: o TJUE (C-300/21) esclareceu que não é exigível um limiar mínimo de gravidade, mas que a simples violação do RGPD não basta para conferir direito a indemnização; o titular tem de demonstrar a violação e o dano (TJUE, C-687/21, MediaMarktSaturn, 25.01.2024).",
+    "motivo": "O TJUE declarou que a responsabilidade do art. 82.º está subordinada a culpa, que se presume (C-667/21); a exigência de prova do dano resulta do C-300/21 e do C-687/21.",
+    "fonte": "https://publications.europa.eu/resource/celex/62021CJ0667"
+   },
+   {
+    "de": "- Art. 82.º, n.º 2: responsabilidade do responsável ou subcontratante — prova de que não lhe é imputável o facto (inversão do ónus)\n- Art. 82.º, n.º 3: exoneração se provar que não lhe é de forma alguma imputável",
+    "para": "- Art. 82.º, n.º 2: o responsável pelo tratamento responde pelos danos causados por tratamento que viole o RGPD; o subcontratante só responde se não tiver cumprido as obrigações que o RGPD lhe dirige especificamente ou as instruções lícitas do responsável\n- Art. 82.º, n.º 3: exoneração se provar que não é de modo algum responsável pelo evento que deu origem aos danos (culpa presumida — TJUE, C-667/21)\n- Art. 33.º da Lei n.º 58/2019: direito nacional à reparação do dano; ao Estado e demais pessoas coletivas públicas aplica-se a Lei n.º 67/2007 (n.º 3)",
+    "motivo": "A prova liberatória está no n.º 3 do art. 82.º, não no n.º 2, que define quem responde.",
+    "fonte": "https://publications.europa.eu/resource/celex/32016R0679"
+   },
+   {
+    "de": "- TJUE C-687/21 MediaMarktSaturn: [■ VERIFICAR: confirmar dados do acórdão]",
+    "para": "- TJUE C-687/21 MediaMarktSaturn (25.01.2024): a indemnização tem função compensatória e não punitiva; o titular tem de demonstrar a violação e o dano; o simples receio de divulgação, provado que o terceiro não tomou conhecimento dos dados, não constitui dano imaterial\n- TJUE C-667/21 Krankenversicherung Nordrhein (21.12.2023): responsabilidade subordinada a culpa, que se presume; função compensatória da indemnização",
+    "motivo": "Dados do acórdão confirmados no texto oficial; acrescenta-se o acórdão que define a natureza da responsabilidade.",
+    "fonte": "https://publications.europa.eu/resource/celex/62021CJ0687"
+   },
+   {
+    "de": "- Competência: tribunais cíveis portugueses (art. 79.º RGPD)",
+    "para": "- Competência internacional: tribunais portugueses se o réu tiver estabelecimento em Portugal ou o titular cá residir habitualmente (art. 79.º, n.º 2, RGPD; art. 34.º, n.º 4, da Lei n.º 58/2019). Competência material: tribunais judiciais (juízo cível), salvo se o réu for pessoa coletiva de direito público — tribunais administrativos, com o regime da Lei n.º 67/2007 (art. 4.º, n.º 1, al. f), do ETAF; art. 33.º, n.º 3, da Lei n.º 58/2019). Competência territorial: art. 71.º CPC (n.º 2 na responsabilidade extracontratual; n.º 1 se a ação se fundar em contrato)",
+    "motivo": "O art. 79.º RGPD só reparte a competência internacional; contra pessoas coletivas públicas a ação corre nos tribunais administrativos.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=418A0004&nid=418&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "**JUÍZO CÍVEL** (Valor: € [valor] — rito [ordinário / abreviado])",
+    "para": "**JUÍZO [CENTRAL CÍVEL, se o valor exceder € 50 000 / LOCAL CÍVEL] DE [LOCALIDADE]** (Valor: € [valor] — processo comum de declaração)",
+    "motivo": "O processo comum de declaração segue forma única (art. 548.º CPC); não há rito ordinário nem abreviado. O juízo central cível julga as ações de valor superior a € 50 000 (art. 117.º, n.º 1, al. a), da LOSJ).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0548&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "em face de",
+    "para": "contra",
+    "motivo": "Forma do Brasil; em PT-PT a ação é proposta «contra» o réu.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0548&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "10. Nos termos do art. 82.º, n.º 2 RGPD, incumbe ao Réu provar que o facto não lhe é imputável — presunção de responsabilidade do responsável pelo tratamento.",
+    "para": "10. Nos termos do art. 82.º, n.ºs 2 e 3, RGPD, o Réu, enquanto responsável pelo tratamento, responde pelos danos causados pelo tratamento que viola o RGPD e só se exonera se provar que não é de modo algum responsável pelo evento que lhes deu origem — a sua culpa presume-se (Acórdão do TJUE de 21 de dezembro de 2023, C-667/21, Krankenversicherung Nordrhein).",
+    "motivo": "A prova liberatória está no n.º 3 do art. 82.º; a culpa presume-se, segundo o TJUE.",
+    "fonte": "https://publications.europa.eu/resource/celex/62021CJ0667"
+   },
+   {
+    "de": "Ante o exposto, requer-se a condenação do Réu no pagamento de:",
+    "para": "Nestes termos, requer-se a condenação do Réu no pagamento de:",
+    "motivo": "Forma do Brasil; em PT-PT, «Nestes termos».",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0548&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "c) Juros de mora legais desde a citação até efetivo pagamento (art. 805.º, n.º 1 CC);\n\nd) Custas e honorários advocatícios.",
+    "para": "c) Juros de mora, à taxa legal, desde a citação até efetivo e integral pagamento (arts. 805.º, n.º 3, e 806.º CC), salvo quanto à indemnização fixada em valores atualizados à data da decisão, que vence juros desde essa decisão (Acórdão Uniformizador de Jurisprudência do STJ n.º 4/2002);\n\nd) Custas, incluindo as custas de parte (arts. 527.º e 533.º CPC).",
+    "motivo": "Na responsabilidade por facto ilícito a mora conta-se da citação por força do art. 805.º, n.º 3 (não do n.º 1); o AUJ 4/2002 manda contar da decisão os juros da indemnização atualizada; os honorários são compensados nas custas de parte (art. 533.º, n.º 2, al. d), CPC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0805&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Inversão do ónus de prova invocada (art. 82.º, n.º 2)",
+    "para": "- [ ] Presunção de culpa do responsável invocada (art. 82.º, n.º 3, RGPD; TJUE, C-667/21)",
+    "motivo": "A presunção de culpa resulta do n.º 3 do art. 82.º.",
+    "fonte": "https://publications.europa.eu/resource/celex/62021CJ0667"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar se existe estrutura de resolução alternativa de litígios aplicável (art. 533.º, n.º 4, CPC), sob pena de o autor suportar as suas custas de parte.",
+   "Ponderar a jurisprudência posterior do TJUE sobre o art. 82.º (p. ex. receio de utilização abusiva como dano imaterial) e a prática dos tribunais portugueses na fixação do dano não patrimonial.",
+   "Se o réu for entidade pública, adaptar o cabeçalho ao tribunal administrativo competente e ao regime da Lei n.º 67/2007."
+  ],
+  "fontes": [
+   "https://publications.europa.eu/resource/celex/32016R0679",
+   "https://publications.europa.eu/resource/celex/62021CJ0667",
+   "https://publications.europa.eu/resource/celex/62021CJ0687",
+   "https://publications.europa.eu/resource/celex/62021CJ0300",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3118&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=418A0004&nid=418&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0805&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/jurel/stj_mostra_doc.php?nid=14279",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0533&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0548&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0071&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1974A0117&nid=1974&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+  ]
+ },
+ {
+  "codigo": "DIG-020",
+  "veredicto": "corrigida",
+  "resumo": "A ficha exigia consentimento parental abaixo dos 16 anos, quando o art. 16.º da Lei n.º 58/2019 fixa os 13 anos; atribuía ao art. 17.º DSA (exposição de motivos) o recurso interno, que está no art. 20.º (só plataformas em linha); fazia a política de privacidade «aceite» com o uso do serviço; e admitia alterações unilaterais aceites pela simples continuação do uso, sem o pré-aviso e a faculdade de resolução do art. 22.º, n.º 2, al. b), do DL n.º 446/85. Corrigiu-se ainda o foro do consumidor (o art. 71.º, n.º 1, CPC aponta o domicílio do réu, não do consumidor) e a indicação da entidade RAL (art. 18.º da Lei n.º 144/2015), retirando um endereço sem fonte.",
+  "substituicoes": [
+   {
+    "de": "3.2 O utilizador deve ter [X anos] ou mais para criar conta. Menores com menos de 16 anos necessitam de consentimento parental [art. 8.º RGPD + art. 16.º Lei n.º 58/2019].",
+    "para": "3.2 O utilizador deve ter [X anos] ou mais para criar conta. Quando o tratamento de dados se basear no consentimento, os menores de 13 anos necessitam do consentimento dos representantes legais [art. 8.º RGPD + art. 16.º Lei n.º 58/2019]. [■ VERIFICAR: a idade do consentimento para o tratamento de dados não se confunde com a capacidade do menor para contratar (arts. 123.º e 127.º CC)]",
+    "motivo": "Portugal fixou em 13 anos a idade do consentimento digital (art. 16.º da Lei n.º 58/2019); os 16 anos são o limiar supletivo do art. 8.º RGPD.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3118&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "5.3 Nos termos do art. 16.º DSA, qualquer utilizador pode reportar conteúdos ilegais através de [mecanismo de notificação — URL].",
+    "para": "5.3 Nos termos do art. 16.º DSA, qualquer pessoa ou entidade pode notificar o Prestador, por via eletrónica, da presença de conteúdos que considere ilegais, através de [mecanismo de notificação — URL].",
+    "motivo": "O mecanismo de notificação e ação está aberto a qualquer pessoa ou entidade, não apenas aos utilizadores.",
+    "fonte": "https://publications.europa.eu/resource/celex/32022R2065"
+   },
+   {
+    "de": "5.4 O utilizador cujo conteúdo for retirado será notificado e tem direito de recurso interno nos termos do art. 17.º DSA.",
+    "para": "5.4 O utilizador cujo conteúdo for retirado ou restringido recebe uma exposição de motivos clara e específica (art. 17.º DSA) e, tratando-se de plataforma em linha, pode reclamar através do sistema interno de gestão de reclamações (art. 20.º DSA) e recorrer a um organismo de resolução extrajudicial de litígios certificado (art. 21.º DSA), sem prejuízo do recurso aos tribunais. [As plataformas em linha que sejam micro ou pequenas empresas estão dispensadas dos arts. 20.º e 21.º DSA — art. 19.º DSA.]",
+    "motivo": "O art. 17.º DSA regula a exposição de motivos; o sistema interno de reclamações está no art. 20.º e só se aplica a plataformas em linha.",
+    "fonte": "https://publications.europa.eu/resource/celex/32022R2065"
+   },
+   {
+    "de": "8.3 Nos termos do art. 17.º DSA, as decisões de suspensão de contas podem ser objeto de recurso interno antes de eventual recurso judicial.",
+    "para": "8.3 As decisões de suspensão ou encerramento de contas são acompanhadas de exposição de motivos (art. 17.º DSA) e, nas plataformas em linha, podem ser objeto de reclamação no sistema interno de gestão de reclamações (art. 20.º DSA) ou submetidas a resolução extrajudicial de litígios (art. 21.º DSA), sem prejuízo do recurso aos tribunais.",
+    "motivo": "A reclamação interna contra a suspensão de contas está no art. 20.º, n.º 1, al. c), DSA, não no art. 17.º.",
+    "fonte": "https://publications.europa.eu/resource/celex/32022R2065"
+   },
+   {
+    "de": "O tratamento de dados pessoais rege-se pela nossa Política de Privacidade, disponível em [URL]. A utilização do Serviço implica a aceitação dos termos da Política de Privacidade.",
+    "para": "O tratamento de dados pessoais rege-se pela nossa Política de Privacidade, disponível em [URL], que presta as informações exigidas pelos arts. 13.º e 14.º do RGPD. Quando o tratamento se basear no consentimento, este é pedido de forma autónoma e claramente distinta dos presentes T&C (art. 7.º, n.º 2, RGPD).",
+    "motivo": "A política de privacidade é informação (arts. 13.º e 14.º RGPD), não se «aceita»; o consentimento não pode ser deduzido do uso do serviço nem confundido com os T&C (art. 7.º, n.º 2).",
+    "fonte": "https://publications.europa.eu/resource/celex/32016R0679"
+   },
+   {
+    "de": "O Prestador pode alterar os presentes T&C, notificando os utilizadores registados com [X dias] de antecedência por email. A continuação da utilização do Serviço após essa data implica aceitação das alterações.",
+    "para": "O Prestador pode alterar os presentes T&C [indicar as razões atendíveis: alteração legislativa, evolução do Serviço, segurança], informando os utilizadores registados das alterações com [X dias — pré-aviso razoável] de antecedência por email (art. 14.º, n.º 2, DSA). O utilizador que não concorde pode resolver o contrato, sem encargos, até à data da entrada em vigor das alterações; não o fazendo, as alterações aplicam-se a partir dessa data. Com consumidores, a alteração unilateral só é válida com razão atendível convencionada ou, nos contratos de duração indeterminada, com pré-aviso razoável e faculdade de resolução (art. 22.º, n.º 1, al. c), e n.º 2, al. b), do DL n.º 446/85). [■ VERIFICAR: nos contratos de fornecimento de conteúdos ou serviços digitais, os requisitos de modificação do DL n.º 84/2021]",
+    "motivo": "A alteração unilateral pela mera continuação do uso, sem razão atendível nem faculdade de resolução, é cláusula relativamente proibida nas relações com consumidores (art. 22.º do DL n.º 446/85).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=837&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "Para consumidores: é competente o tribunal do domicílio do consumidor (art. 71.º, n.º 1 CPC). Para resolução alternativa de litígios: [indicar entidade RAL — CNIACC, CIAB, ou outra registada em portugal.gov.pt/ral].",
+    "para": "Para consumidores: não se convenciona foro. Nas ações para cumprimento de obrigações é competente o tribunal do domicílio do réu (art. 71.º, n.º 1, CPC), regra que não pode ser afastada por convenção (arts. 95.º, n.º 1, e 104.º, n.º 1, al. a), CPC); nos litígios transfronteiriços na UE, o consumidor pode demandar o Prestador nos tribunais do seu domicílio e só aí pode ser demandado (arts. 17.º e 18.º do Regulamento (UE) n.º 1215/2012). Para resolução alternativa de litígios: [indicar a(s) entidade(s) de RAL a que o Prestador está vinculado, por adesão ou por arbitragem necessária, e o respetivo sítio eletrónico — art. 18.º da Lei n.º 144/2015; p. ex. o CNIACC ou o centro de arbitragem de consumo competente; lista de entidades divulgada pela Direção-Geral do Consumidor].",
+    "motivo": "O art. 71.º, n.º 1, CPC atribui competência ao tribunal do domicílio do réu, não do consumidor; a informação RAL deve indicar as entidades a que o prestador está vinculado (art. 18.º da Lei n.º 144/2015); o endereço indicado não tem fonte.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0095&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "Para utilizadores empresariais: foro da comarca de [sede do Prestador].",
+    "para": "Para utilizadores empresariais: foro da comarca de [sede do Prestador]. [■ VERIFICAR: o pacto de foro não afasta a competência do tribunal do domicílio do réu nas ações do art. 71.º, n.º 1, 1.ª parte, CPC (arts. 95.º, n.º 1, e 104.º, n.º 1, al. a), CPC); nos litígios transfronteiriços, o pacto rege-se pelo art. 25.º do Regulamento (UE) n.º 1215/2012]",
+    "motivo": "O art. 95.º, n.º 1, CPC não permite afastar por convenção as regras de competência territorial referidas no art. 104.º, entre elas a do art. 71.º, n.º 1, 1.ª parte.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0095&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] UGC e responsabilidade do prestador alinhados com DSA (se aplicável)",
+    "para": "- [ ] UGC e responsabilidade do prestador alinhados com DSA (se aplicável), incluindo a descrição, nos T&C, das restrições e da política de moderação de conteúdos (art. 14.º, n.º 1, DSA)",
+    "motivo": "O art. 14.º, n.º 1, DSA impõe que os T&C descrevam as restrições, a moderação de conteúdos e o sistema interno de reclamações.",
+    "fonte": "https://publications.europa.eu/resource/celex/32022R2065"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Não incluir a ligação à plataforma europeia de resolução de litígios em linha (ODR): o Reg. (UE) n.º 524/2013 foi revogado com efeitos a 20/07/2025 (Reg. (UE) 2024/3228).",
+   "Confirmar, no DL n.º 84/2021, o regime de modificação dos conteúdos e serviços digitais e o direito de resolução do consumidor; nos contratos à distância, o direito de livre resolução do DL n.º 24/2014.",
+   "Verificar se a referência ao art. 10.º, n.º 1, do DL n.º 7/2004 corresponde à versão consolidada em vigor.",
+   "Se o serviço for dirigido a menores, aplicam-se também os deveres do art. 14.º, n.º 3, DSA (explicação das condições de forma compreensível para menores)."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3118&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://publications.europa.eu/resource/celex/32016R0679",
+   "https://publications.europa.eu/resource/celex/32022R2065",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=837&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0071&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0095&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://publications.europa.eu/resource/celex/32012R1215",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2425A0018&nid=2425&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://publications.europa.eu/resource/celex/32024R3228"
+  ]
+ }
+]

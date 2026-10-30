@@ -1,0 +1,340 @@
+[
+ {
+  "codigo": "BAN-029",
+  "veredicto": "corrigida",
+  "resumo": "A grelha de artigos da Lei n.º 83/2017 estava quase toda desalinhada (gestão de risco, PEP, comunicação de operações suspeitas, conservação, formação e contraordenações remetiam para artigos com outro objeto) e o prazo de conservação era de 5 anos em vez de 7. O regime do beneficiário efetivo era atribuído a um «DL 144/2019» inexistente nesta matéria: o RCBE consta da Lei n.º 89/2017 e a 5.ª Diretiva foi transposta pela Lei n.º 58/2020. Corrigiram-se os artigos, o prazo, a «revisão mínima anual» (a lei manda rever com periodicidade adequada ao risco), o prazo de comunicação (de imediato), a aprovação das relações com PEP (direção de topo), a comunicação de desconformidades do RCBE ao IRN e acrescentou-se o regime próprio dos advogados e solicitadores (art. 79.º).",
+  "descricao": "Elabora checklist detalhado de compliance para prevenção e combate ao branqueamento de capitais e financiamento do terrorismo (ABC/CFT), ao abrigo da Lei n.º 83/2017 (transposição da 4.ª Diretiva AML, alterada pela Lei n.º 58/2020, que transpôs a 5.ª Diretiva) e do Regime Jurídico do Registo Central do Beneficiário Efetivo (Lei n.º 89/2017), aplicável a instituições financeiras, advogados, contabilistas e outras entidades obrigadas, com identificação das obrigações legais e dos procedimentos a implementar.",
+  "descricao_en": "Prepares a detailed compliance checklist for preventing and combating money laundering and terrorist financing (AML/CFT), under Law No. 83/2017 (transposing the 4th AML Directive, as amended by Law No. 58/2020, which transposed the 5th AML Directive) and the Legal Regime of the Central Register of Beneficial Owners (Law No. 89/2017), applicable to financial institutions, lawyers, accountants and other obliged entities, identifying the legal obligations and the procedures to implement.",
+  "substituicoes": [
+   {
+    "de": "  - Art. 4.º ss: entidades obrigadas\n  - Art. 7.º ss: abordagem baseada no risco\n  - Art. 24.º ss: identificação e diligência devida (customer due diligence — CDD)\n  - Art. 35.º ss: diligência simplificada e reforçada\n  - Art. 43.º ss: pessoas politicamente expostas (PEP)\n  - Art. 52.º ss: comunicação de operações suspeitas ao DCIAP/UIF\n  - Art. 57.º ss: conservação de documentação (5 anos)\n  - Art. 61.º ss: formação dos colaboradores\n  - Art. 67.º ss: política interna de prevenção\n  - Art. 89.º ss: contraordenações (multas até €5.000.000 ou mais)\n- DL n.º 144/2019 (5.ª Diretiva — beneficiários efetivos):\n  - Registo do beneficiário efetivo (RBE) — art. 11.º ss",
+    "para": "  - Arts. 3.º e 4.º: entidades obrigadas (financeiras e não financeiras)\n  - Arts. 12.º a 17.º: sistema de controlo interno, responsabilidade do órgão de administração, gestão de risco (art. 14.º) e responsável pelo cumprimento normativo (art. 16.º)\n  - Art. 23.º ss: identificação e diligência (customer due diligence — CDD); beneficiários efetivos (arts. 29.º a 34.º)\n  - Arts. 35.º e 36.º: medidas simplificadas e medidas reforçadas\n  - Art. 39.º: pessoas politicamente expostas (PEP)\n  - Art. 43.º ss: comunicação de operações suspeitas ao DCIAP e à UIF, de imediato; dever de abstenção (art. 47.º); dever de não divulgação (art. 54.º)\n  - Art. 51.º: conservação de documentação (7 anos)\n  - Art. 55.º: formação dos colaboradores\n  - Art. 79.º: advogados e solicitadores (comunicação através do bastonário; exclusão da consulta jurídica e do patrocínio)\n  - Arts. 169.º a 171.º: contraordenações (coimas até 5 000 000 € nas instituições de crédito e financeiras, com limite elevado para o dobro do benefício económico ou, nas pessoas coletivas aí previstas, para 10 % do volume de negócios anual — art. 171.º)\n- Lei n.º 58/2020 (transpôs a 5.ª Diretiva — Diretiva (UE) 2018/843 — e alterou a Lei n.º 83/2017)\n- Lei n.º 89/2017 (Regime Jurídico do Registo Central do Beneficiário Efetivo — RCBE); consulta e comunicação de desconformidades pelas entidades obrigadas: art. 34.º Lei 83/2017",
+    "motivo": "Artigos da Lei 83/2017 desalinhados com o objeto; conservação é de 7 anos (art. 51.º); coimas nos arts. 169.º-171.º; o RCBE consta da Lei 89/2017 e a 5.ª Diretiva foi transposta pela Lei 58/2020, não por um DL 144/2019.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2750&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- [ ] Existe responsável/compliance officer para AML? (art. 17.º Lei 83/2017)",
+    "para": "- [ ] Existe responsável/compliance officer para AML? (art. 16.º Lei 83/2017)",
+    "motivo": "O responsável pelo cumprimento normativo está no art. 16.º; o art. 17.º trata da avaliação da eficácia.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2750&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- [ ] Foram designados representantes junto dos supervisores? [■ VERIFICAR obrigação específica]",
+    "para": "- [ ] A identidade e os contactos do responsável designado foram comunicados às autoridades setoriais, quando a regulamentação setorial ou essas autoridades o exijam? (art. 16.º, n.º 8, Lei 83/2017)",
+    "motivo": "A obrigação existe e está no art. 16.º, n.º 8.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2750&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "**II. AVALIAÇÃO DE RISCO (ART. 7.º SS LEI 83/2017)**",
+    "para": "**II. AVALIAÇÃO DE RISCO (ART. 14.º LEI 83/2017)**",
+    "motivo": "A gestão e a avaliação do risco pela entidade obrigada estão no art. 14.º (o art. 7.º trata dos conservadores e oficiais dos registos).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2750&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- [ ] A avaliação de risco está documentada e atualizada (revisão mínima anual)?",
+    "para": "- [ ] A avaliação de risco está documentada (art. 14.º, n.º 3, al. c)) e é revista com periodicidade adequada aos riscos identificados ou com a definida por regulamentação (art. 14.º, n.º 2, al. d))? [■ VERIFICAR: periodicidade fixada pelo supervisor do setor]",
+    "motivo": "A lei não impõe revisão anual; manda rever com periodicidade adequada aos riscos ou definida por regulamentação.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2750&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "**III. IDENTIFICAÇÃO E DILIGÊNCIA DEVIDA (CDD) (ART. 24.º SS)**",
+    "para": "**III. IDENTIFICAÇÃO E DILIGÊNCIA DEVIDA (CDD) (ART. 23.º SS)**",
+    "motivo": "O dever de identificação e diligência começa no art. 23.º.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2750&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "**V. DILIGÊNCIA REFORÇADA E PEPs (ART. 35.º SS E 43.º SS)**",
+    "para": "**V. DILIGÊNCIA REFORÇADA E PEPs (ARTS. 36.º E 39.º)**",
+    "motivo": "Medidas reforçadas no art. 36.º e PEP no art. 39.º (o art. 43.º é a comunicação de operações suspeitas).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2750&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- [ ] PEPs têm aprovação da administração para relação de negócio?",
+    "para": "- [ ] A relação de negócio com PEP (e a sua continuidade) é aprovada por um elemento da direção de topo (art. 39.º)?",
+    "motivo": "A lei exige a intervenção de um elemento da direção de topo, não do órgão de administração.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2750&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "**VI. COMUNICAÇÃO DE OPERAÇÕES SUSPEITAS (ART. 52.º SS)**",
+    "para": "**VI. COMUNICAÇÃO DE OPERAÇÕES SUSPEITAS (ART. 43.º SS)**",
+    "motivo": "A comunicação de operações suspeitas está no art. 43.º; o art. 52.º é o dever de exame.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2750&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- [ ] Existe procedimento interno de reporte de suspeitas (colaborador → compliance → DCIAP/UIF)?",
+    "para": "- [ ] Existe procedimento interno de reporte de suspeitas (colaborador → compliance → DCIAP/UIF)? Nos advogados e solicitadores, a comunicação é remetida ao bastonário da respetiva ordem, que a transmite ao DCIAP e à UIF, e não abrange a consulta jurídica nem o patrocínio judicial (art. 79.º)",
+    "motivo": "A ficha aplica-se a advogados, que têm regime próprio de comunicação (art. 79.º).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2750&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- [ ] As comunicações ao DCIAP/UIF são feitas no prazo legal? [■ VERIFICAR prazo]",
+    "para": "- [ ] As comunicações ao DCIAP e à UIF são feitas de imediato (art. 43.º, n.º 1)?",
+    "motivo": "A lei fixa a comunicação «de imediato».",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2750&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "**VII. CONSERVAÇÃO DE DOCUMENTAÇÃO (ART. 57.º SS)**\n- [ ] Toda a documentação de due diligence é conservada por mínimo 5 anos?\n- [ ] O prazo começa a contar do fim da relação de negócio?",
+    "para": "**VII. CONSERVAÇÃO DE DOCUMENTAÇÃO (ART. 51.º)**\n- [ ] Toda a documentação de due diligence é conservada durante 7 anos?\n- [ ] O prazo conta-se da identificação do cliente ou, nas relações de negócio, do seu termo; e, para os registos das operações, da data da sua execução (art. 51.º, n.ºs 1 e 2)?",
+    "motivo": "O prazo de conservação é de 7 anos (art. 51.º), com contagem própria para os registos de operações.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2750&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "**VIII. FORMAÇÃO (ART. 61.º SS)**",
+    "para": "**VIII. FORMAÇÃO (ART. 55.º)**",
+    "motivo": "O dever de formação está no art. 55.º.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2750&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "**IX. POLÍTICA INTERNA E PROCEDIMENTOS (ART. 67.º SS)**",
+    "para": "**IX. POLÍTICA INTERNA E PROCEDIMENTOS (ARTS. 12.º E 13.º)**",
+    "motivo": "Políticas, procedimentos e controlos no art. 12.º e aprovação pelo órgão de administração no art. 13.º.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2750&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "**X. REGISTO DO BENEFICIÁRIO EFETIVO (DL 144/2019)**",
+    "para": "**X. REGISTO CENTRAL DO BENEFICIÁRIO EFETIVO (LEI 89/2017; ART. 34.º LEI 83/2017)**",
+    "motivo": "O RCBE consta da Lei 89/2017; o DL 144/2019 não regula esta matéria.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2755&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- [ ] Discrepâncias entre o RCBE e a informação declarada pelo cliente são reportadas? [■ VERIFICAR art. 11.º DL 144/2019]",
+    "para": "- [ ] As desconformidades entre o RCBE e a informação obtida na diligência são comunicadas de imediato ao Instituto dos Registos e do Notariado (art. 34.º, n.º 2, al. e), Lei 83/2017)?",
+    "motivo": "A comunicação de desconformidades ao IRN está no art. 34.º, n.º 2, al. e), da Lei 83/2017.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2750&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- [ ] RCBE verificado (DL 144/2019)",
+    "para": "- [ ] RCBE verificado (Lei 89/2017)",
+    "motivo": "Diploma errado.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2755&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "A Lei n.º 83/2017 foi alterada pela Lei n.º 70/2025, de 22 de dezembro (transferências de fundos e criptoativos) e o RJRCBE pelo DL n.º 115/2025, de 27 de outubro: confirmar na versão consolidada se algum dos artigos citados mudou de redação.",
+   "Para advogados e solicitadores, confirmar também a regulamentação da Ordem respetiva (autoridade setorial — art. 90.º Lei 83/2017) quanto à periodicidade da avaliação de risco e da formação.",
+   "As coimas indicadas (até 5 000 000 €) são as das instituições de crédito e financeiras; para as entidades não financeiras os limites são menores e variam por categoria (art. 170.º Lei 83/2017).",
+   "O Regulamento (UE) 2024/1624 (AMLR) vai substituir boa parte destes deveres a partir de 2027 (confirmar a data de aplicação): rever a ficha nessa altura."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2750&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2750A0170&nid=2750&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2750A0171&nid=2750&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/legislacao/diplomas_legislativos/Documents/Lei_83_2017.pdf",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2755&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3330&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://diariodarepublica.pt/dr/detalhe/lei/89-2017-108028571",
+   "https://informador.pt/legislacao/diario-da-republica/diario-da-republica-n-o-245-2025-serie-i-de-2025-12-22/"
+  ]
+ },
+ {
+  "codigo": "BAN-031",
+  "veredicto": "corrigida",
+  "resumo": "O PARI era remetido para o art. 12.º do DL 227/2012, que é o PERSI (o PARI está nos arts. 9.º a 11.º-C), e a cláusula de vencimento antecipado para o art. 24.º do DL 74-A/2017 (reembolso antecipado), quando o regime do incumprimento é o art. 27.º. O excesso de execução era fundado no art. 729.º CPC, que rege a execução de sentença; na execução por escritura vale o art. 731.º CPC. Retirou-se o fundamento inexistente da «inexigibilidade por pendência de reclamação no Banco de Portugal» e distinguiu-se o PERSI (impedimento de ação judicial, art. 18.º) do PARI.",
+  "descricao": "Elabora a defesa do devedor em processo executivo em que o banco credor aciona a hipoteca para cobrança de crédito à habitação ou outro crédito hipotecado, ao abrigo do Código de Processo Civil, do DL 227/2012 (PARI/PERSI) e do DL 74-A/2017, invocando nulidades processuais, excesso de execução, falta de integração no PERSI, falta da interpelação prévia ao vencimento antecipado exigida pelo DL 74-A/2017 e eventuais cláusulas abusivas.",
+  "descricao_en": "Prepares the debtor's defence in enforcement proceedings in which the creditor bank enforces the mortgage to recover a home loan or other mortgage-secured credit, under the Code of Civil Procedure, Decree-Law 227/2012 (PARI/PERSI) and Decree-Law 74-A/2017, invoking procedural nullities, excessive enforcement, failure to include the debtor in PERSI, lack of the prior formal demand required by Decree-Law 74-A/2017 before acceleration, and any unfair terms.",
+  "substituicoes": [
+   {
+    "de": "- Cumprimento das obrigações de PARI (art. 12.º e ss. DL 227/2012) — o banco tomou medidas preventivas?",
+    "para": "- Cumprimento das obrigações de PARI (arts. 9.º a 11.º-C DL 227/2012) — o banco acompanhou a execução do contrato e apresentou propostas perante os indícios de risco de incumprimento?",
+    "motivo": "O PARI está nos arts. 9.º a 11.º-C; o art. 12.º abre o regime do PERSI.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1821&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Cláusula de vencimento antecipado — prazo de incumprimento e conformidade com o art. 24.º DL 74-A/2017",
+    "para": "- Cláusula de vencimento antecipado — no crédito abrangido pelo DL 74-A/2017, o banco só pode invocar a perda do benefício do prazo ou a resolução com falta de pagamento de três prestações sucessivas e concessão de prazo suplementar mínimo de 30 dias, com advertência expressa dos efeitos (art. 27.º, n.º 1, DL 74-A/2017) [■ VERIFICAR: regime aplicável aos contratos celebrados antes de 1 de janeiro de 2018]",
+    "motivo": "O incumprimento e o vencimento antecipado estão no art. 27.º; o art. 24.º trata do reembolso antecipado para transferência de crédito.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2842&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Incumprimento das obrigações de PARI/PERSI como fundamento de oposição ou de suspensão",
+    "para": "- Falta de integração no PERSI, ou execução instaurada antes da extinção do PERSI, contra o impedimento de intentar ações judiciais (arts. 14.º, 17.º e 18.º, n.º 1, al. b), DL 227/2012) — o incumprimento do PARI, por si só, é matéria de supervisão e não fundamento autónomo de oposição [■ VERIFICAR: qualificação da falta de PERSI como exceção dilatória na jurisprudência atual, em dgsi.pt]",
+    "motivo": "O que impede a ação é o PERSI (art. 18.º, n.º 1, al. b)); o PARI é um dever de organização e acompanhamento.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1821&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Excesso de execução (art. 729.º, al. e) CPC) — cálculo detalhado da diferença",
+    "para": "- Excesso de execução (art. 731.º CPC: na execução baseada em escritura podem invocar-se, além dos fundamentos do art. 729.º CPC aplicáveis, como a inexigibilidade ou iliquidez da obrigação, quaisquer outros que pudessem ser deduzidos no processo de declaração) — cálculo detalhado da diferença",
+    "motivo": "O art. 729.º CPC rege a execução de sentença; na execução por escritura de mútuo com hipoteca vale o art. 731.º CPC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0731&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Inexigibilidade da dívida por pendência de reclamação no Banco de Portugal",
+    "para": "- Reclamação pendente no Banco de Portugal: não é fundamento de oposição nem suspende a execução (a suspensão depende dos requisitos do art. 733.º CPC, como a prestação de caução); serve apenas como meio de prova dos factos alegados",
+    "motivo": "Não existe norma que torne a dívida inexigível ou suspenda a execução por haver reclamação ao supervisor.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0733&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "O PERSI só abrange clientes bancários consumidores (art. 2.º e 3.º DL 227/2012): confirmar a qualidade do executado e, no fiador, o regime do art. 21.º.",
+   "Confirmar na jurisprudência atual (dgsi.pt) a qualificação e os efeitos da falta de PERSI (exceção dilatória inominada, de conhecimento oficioso, e extinção da execução).",
+   "O art. 27.º DL 74-A/2017 aplica-se aos contratos abrangidos por esse diploma (em vigor desde 1/1/2018); para contratos anteriores confirmar a lei aplicável e a cláusula contratual.",
+   "Prazo de embargos: 20 dias a contar da citação (art. 728.º, n.º 1, CPC); a suspensão da execução só nos termos do art. 733.º CPC."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1821&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2842&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0728&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0729&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0731&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0733&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+  ]
+ },
+ {
+  "codigo": "BAN-036",
+  "veredicto": "corrigida",
+  "resumo": "A ficha trocava os deveres do CVM: a adequação (suitability) está no art. 314.º-A e a apropriedade no art. 314.º, sendo o art. 314.º-D a dispensa no execution-only de instrumentos não complexos; a distinção complexo/não complexo não está no art. 317.º-B. O prazo de prescrição do art. 324.º CVM foi alterado pela Lei n.º 99-A/2021: 10 anos para o investidor não profissional e 2 anos para o profissional ou contraparte elegível, salvo dolo ou culpa grave. Atualizou-se a morada da CMVM (Rua Laura Alves, n.º 4) e precisou-se que a presunção do art. 304.º-A, n.º 2, abrange só a culpa. A descrição atribuía a transposição da MiFID II ao DL 63-A/2013; foi a Lei n.º 35/2018.",
+  "descricao": "Elabora parecer ou petição para exigir responsabilidade civil da instituição financeira por violação dos deveres de informação, adequação e apropriedade na comercialização de instrumentos financeiros complexos (obrigações subordinadas, fundos de investimento, derivados, produtos estruturados), ao abrigo do Código dos Valores Mobiliários (CVM, DL 486/99), do Regulamento Delegado (UE) 2017/565 (MiFID II) e da Diretiva 2014/65/UE, transposta pela Lei n.º 35/2018.",
+  "descricao_en": "Prepares an opinion or statement of claim to hold the financial institution civilly liable for breach of the duties of information, suitability and appropriateness in selling complex financial instruments (subordinated bonds, investment funds, derivatives, structured products), under the Securities Code (CVM, Decree-Law 486/99), Delegated Regulation (EU) 2017/565 (MiFID II) and Directive 2014/65/EU as transposed by Law No. 35/2018.",
+  "substituicoes": [
+   {
+    "de": "- Categoria do cliente: retalhista vs. profissional vs. contraparte elegível (arts. 317.º a 317.º-C CVM)",
+    "para": "- Categoria do cliente: investidor não profissional vs. profissional vs. contraparte elegível (arts. 317.º a 317.º-D CVM)",
+    "motivo": "O CVM fala em investidor não profissional e as contrapartes elegíveis estão no art. 317.º-D.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=450A0317&nid=450&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Natureza do produto: instrumento financeiro simples vs. complexo (art. 317.º-B CVM)",
+    "para": "- Natureza do produto: instrumento financeiro complexo vs. não complexo (critérios do art. 314.º-D, n.º 1, al. a), CVM)",
+    "motivo": "O art. 317.º-B trata do pedido de tratamento como investidor profissional; os instrumentos não complexos estão no art. 314.º-D.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=450A0314&nid=450&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Obrigações aplicáveis: adequação (suitability — consultoria e gestão) vs. apropriedade (appropriateness — receção/execução)",
+    "para": "- Obrigações aplicáveis: adequação (suitability — consultoria e gestão de carteiras, art. 314.º-A CVM) vs. apropriedade (appropriateness — receção/transmissão e execução de ordens, art. 314.º CVM, dispensada no execution-only de instrumentos não complexos, art. 314.º-D CVM)",
+    "motivo": "Identificação dos artigos certos de cada dever.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=450A0314&nid=450&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Dever de adequação (art. 314.º-D CVM): produto adequado ao perfil de risco, horizonte temporal, situação financeira?",
+    "para": "- Dever de adequação (art. 314.º-A CVM): produto adequado ao perfil de risco, horizonte temporal, situação financeira?",
+    "motivo": "A adequação na consultoria e gestão de carteiras está no art. 314.º-A; o art. 314.º-D é a receção e execução de ordens.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=450A0314&nid=450&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Dever de apropriedade: se sem consultoria, o cliente tinha conhecimentos para avaliar os riscos?",
+    "para": "- Dever de apropriedade (art. 314.º CVM): se sem consultoria, o cliente tinha conhecimentos e experiência para avaliar os riscos? Foi advertido por escrito de que a operação não lhe era adequada (art. 314.º, n.º 2, CVM)?",
+    "motivo": "Base legal do dever e advertência escrita exigida pelo art. 314.º, n.º 2.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=450A0314&nid=450&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Presunção de culpa do intermediário (art. 304.º-A, n.º 2, CVM) — inversão do ónus de prova",
+    "para": "- Presunção de culpa do intermediário (art. 304.º-A, n.º 2, CVM) — inversão do ónus da prova quanto à culpa; o dano e o nexo de causalidade continuam a ter de ser provados pelo investidor",
+    "motivo": "O art. 304.º-A, n.º 2, presume apenas a culpa.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=450A0304A&nid=450&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "à Comissão do Mercado de Valores Mobiliários\nAvenida da Liberdade n.º 252, 1056-801 Lisboa",
+    "para": "à Comissão do Mercado de Valores Mobiliários\nRua Laura Alves, n.º 4, Lisboa [■ VERIFICAR: código postal e canal em uso — a CMVM recebe reclamações de investidores por formulário no seu sítio na Internet]",
+    "motivo": "A sede da CMVM é na Rua Laura Alves, n.º 4; a da Avenida da Liberdade é antiga.",
+    "fonte": "https://www.gov.pt/entidades/comissao-do-mercado-de-valores-mobiliarios"
+   },
+   {
+    "de": "[Deveres violados — arts. 312.º, 314.º e 314.º-D do CVM]",
+    "para": "[Deveres violados — arts. 312.º, 314.º e 314.º-A do CVM]",
+    "motivo": "O dever de adequação está no art. 314.º-A.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=450A0314&nid=450&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Prazo de prescrição: 2 anos a contar do conhecimento do dano (art. 324.º CVM)",
+    "para": "- [ ] Prazo de prescrição (art. 324.º, n.º 2, CVM): salvo dolo ou culpa grave, 10 anos para o investidor não profissional e 2 anos para o investidor profissional ou contraparte elegível, contados da data em que o cliente teve conhecimento da conclusão do negócio e dos respetivos termos [■ VERIFICAR: aplicação no tempo da redação dada pela Lei n.º 99-A/2021 aos negócios anteriores — art. 297.º CC]",
+    "motivo": "A Lei 99-A/2021 alterou o art. 324.º, n.º 2: 10 anos para não profissionais; o termo inicial é o conhecimento da conclusão do negócio, não do dano.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=450A0324&nid=450&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Nos negócios anteriores à Lei n.º 99-A/2021 (em vigor 30 dias após 31/12/2021), o prazo era de 2 anos para todos os clientes; confirmar se o prazo ainda corria e a aplicação do art. 297.º, n.º 2, CC (prazo mais longo aplica-se aos prazos em curso, contando o tempo já decorrido).",
+   "Com dolo ou culpa grave do intermediário não vale o prazo especial do art. 324.º, n.º 2, CVM; confirmar o prazo aplicável (regime geral do Código Civil) e a jurisprudência do STJ sobre o nexo de causalidade nos casos de obrigações subordinadas.",
+   "O CVM foi alterado várias vezes desde 2021 (a última pelo DL n.º 171/2026, de 26/08): confirmar a redação dos artigos à data dos factos.",
+   "Nos fundos (OICVM), confirmar se à data da subscrição o documento devido era o IFI (KIID) ou já o KID PRIIPs."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=450A0304A&nid=450&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=450A0312&nid=450&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=450A0314&nid=450&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=450A0317&nid=450&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=450A0324&nid=450&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2920A0001&nid=2920&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3515&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0297&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.gov.pt/entidades/comissao-do-mercado-de-valores-mobiliarios",
+   "https://diariodarepublica.pt/dr/detalhe/lei/35-2018-115740680"
+  ]
+ },
+ {
+  "codigo": "BAN-038",
+  "veredicto": "corrigida",
+  "resumo": "A ficha assentava num «Regime Jurídico dos Produtos Financeiros Complexos» com artigos 3.º, 7.º, 8.º e 9.º que não existe: o art. 2.º do DL 211-A/2008 foi revogado pela Lei n.º 35/2018 (art. 29.º, al. f)), e os depósitos estruturados regem-se hoje pelo regime jurídico do anexo I à Lei n.º 35/2018 (informação no art. 5.º, avaliação da adequação no art. 3.º, reclamação ao Banco de Portugal no art. 19.º). Substituíram-se as remissões inventadas pelos artigos desse regime e a «notificação ao Banco de Portugal» por um [■ VERIFICAR]. O prazo de prescrição estava errado (2 anos): o art. 498.º, n.º 1, CC fixa 3 anos, e na responsabilidade contratual vale o prazo ordinário de 20 anos.",
+  "descricao": "Analisa depósitos estruturados, depósitos duais e outros produtos financeiros complexos comercializados por instituições de crédito, verificando o cumprimento dos deveres de informação e de avaliação da adequação impostos pelo regime jurídico dos depósitos estruturados (anexo I à Lei n.º 35/2018), pelo Código dos Valores Mobiliários e pelo Regulamento PRIIPs, e elabora reclamação por informação insuficiente ou produto inadequado ao perfil do cliente.",
+  "descricao_en": "Analyses structured deposits, dual deposits and other complex financial products sold by credit institutions, checking compliance with the information and appropriateness duties imposed by the legal regime for structured deposits (Annex I to Law No. 35/2018), the Securities Code and the PRIIPs Regulation, and prepares a complaint for insufficient information or a product unsuited to the customer's profile.",
+  "substituicoes": [
+   {
+    "de": "— Cita artigos reais do RJPFC, CC e regulamentação aplicável.",
+    "para": "— Cita artigos reais do regime jurídico da conceção, comercialização e prestação de serviços de consultoria relativamente a depósitos estruturados (anexo I à Lei n.º 35/2018, de 20 de julho — «RJDE»), do CVM (outros produtos complexos), do CC e da regulamentação aplicável. O regime dos produtos financeiros complexos do art. 2.º do DL 211-A/2008 foi revogado (art. 29.º, al. f), da Lei n.º 35/2018).",
+    "motivo": "O «RJPFC» citado não está em vigor; o regime atual dos depósitos estruturados é o anexo I à Lei 35/2018.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2920&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Verificar notificação ao Banco de Portugal (art. 3.º RJPFC) — produto notificado?",
+    "para": "- Verificar a regulamentação do Banco de Portugal em vigor sobre depósitos estruturados [■ VERIFICAR: aviso aplicável e eventual dever de comunicação prévia ao Banco de Portugal]",
+    "motivo": "O art. 3.º RJPFC não existe; não se confirmou um dever de notificação em vigor.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2920&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Informação clara, precisa e não enganosa (art. 7.º RJPFC)",
+    "para": "- Informação verdadeira, atual, clara e objetiva, prestada antes da constituição do depósito (art. 5.º, n.º 1, RJDE)",
+    "motivo": "Remissão para regime inexistente; o dever está no art. 5.º, n.º 1, RJDE.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2920&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Advertência de risco obrigatória (art. 8.º RJPFC) — destaque dos riscos de perda de capital",
+    "para": "- Informações adequadas e avisos sobre os riscos do depósito (art. 5.º, n.º 2, al. b), RJDE) — destaque dos riscos de perda de capital",
+    "motivo": "Remissão para regime inexistente; os avisos de risco estão no art. 5.º, n.º 2, al. b), RJDE.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2920&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Avaliação de adequação ao perfil do cliente — realizada?",
+    "para": "- Avaliação da adequação do depósito estruturado aos conhecimentos e experiência do cliente (art. 3.º RJDE) — realizada?",
+    "motivo": "Base legal da avaliação da adequação.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2920&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Proibição de associação enganosa com depósito tradicional (art. 9.º RJPFC)",
+    "para": "- Apresentação enganosa como depósito simples ou como aplicação sem risco — contraria o dever de informação verdadeira, clara e objetiva (art. 5.º, n.º 1, RJDE) [■ VERIFICAR: regras de publicidade do Banco de Portugal em vigor]",
+    "motivo": "O art. 9.º RJPFC não existe.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2920&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "[Aviso de reclamação ao Banco de Portugal / CMVM]",
+    "para": "[Aviso de reclamação ao Banco de Portugal (art. 19.º RJDE, nos depósitos estruturados) / CMVM (nos instrumentos financeiros)]",
+    "motivo": "Base legal da reclamação ao Banco de Portugal nos depósitos estruturados.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2920&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- [ ] Notificação ao Banco de Portugal verificada (registo público)",
+    "para": "- [ ] Regulamentação do Banco de Portugal aplicável verificada [■ VERIFICAR: aviso em vigor sobre depósitos estruturados]",
+    "motivo": "Não se confirmou um dever de notificação nem um registo público.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2920&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- [ ] Prazo de prescrição (2 anos do conhecimento do dano ou 20 anos do facto — art. 498.º CC)",
+    "para": "- [ ] Prazo de prescrição: na responsabilidade extracontratual, 3 anos a contar do conhecimento do direito, sem prejuízo da prescrição ordinária de 20 anos a contar do facto danoso (art. 498.º, n.º 1, CC); na responsabilidade contratual, prazo ordinário de 20 anos (art. 309.º CC); nos instrumentos financeiros vendidos por intermediário financeiro, ver o art. 324.º, n.º 2, CVM [■ VERIFICAR: regime aplicável ao caso concreto]",
+    "motivo": "O art. 498.º, n.º 1, CC fixa 3 anos, não 2; e há prazos próprios na responsabilidade contratual e no CVM.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0498&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar qual o aviso do Banco de Portugal em vigor sobre a comercialização e a publicidade de depósitos estruturados (os avisos de 2009 citados no índice anterior podem estar revogados).",
+   "Para depósitos subscritos antes da Lei n.º 35/2018, aplica-se o regime então vigente (DL 211-A/2008 e avisos do Banco de Portugal da época): confirmar a lei aplicável à data da subscrição.",
+   "Confirmar se o art. 324.º, n.º 2, CVM se aplica à comercialização de depósitos estruturados (que não são instrumentos financeiros) ou se vale o regime geral do Código Civil.",
+   "Confirmar o DIF/KID: os depósitos estruturados estão abrangidos pelo Regulamento (UE) n.º 1286/2014 (PRIIPs)."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2920&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2920A0001&nid=2920&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0498&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0309&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=450A0324&nid=450&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.bportugal.pt/sites/default/files/anexos/legislacoes/dl211a_2008c.pdf.pdf"
+  ]
+ }
+]

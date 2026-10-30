@@ -1,0 +1,323 @@
+[
+ {
+  "codigo": "DES-003",
+  "veredicto": "corrigida",
+  "resumo": "A ficha ignorava o regime especial do contrato de representação ou intermediação da Lei n.º 54/2017 (arts. 36.º a 39.º) e propunha cláusulas contrárias a ele: renovação automática, dupla representação com consentimento, remuneração por clubes, comissão sobre a retribuição bruta e comissão que subsiste após a cessação. Corrigiram-se a definição (art. 2.º, al. c), e não art. 3.º), o limite de 10 % do montante líquido, a duração máxima de dois anos sem renovação automática, a proibição de representar menores, o registo obrigatório sob pena de nulidade e o regime de cessação do art. 38.º. Atualizou-se a referência ao regulamento da FIFA (FFAR, com regras suspensas e acórdão do TJUE de 16.7.2026) e ao da FPF, e tornou-se inequívoca a cláusula de resolução de litígios.",
+  "descricao": "Redige um contrato de representação entre um atleta e o seu empresário desportivo (agente), definindo o âmbito do mandato, comissionamento, exclusividade, deveres de lealdade, conflito de interesses e cessação. Enquadra-se no regime do contrato de representação ou intermediação da Lei n.º 54/2017 (arts. 36.º a 39.º), no regime do mandato do Código Civil, aplicável subsidiariamente, e nos regulamentos das federações (FIFA, FIBA, etc.) aplicáveis.",
+  "descricao_en": "Drafts a representation agreement between an athlete and their sports agent (empresário desportivo), defining the scope of the mandate, commission, exclusivity, duties of loyalty, conflicts of interest and termination. It falls within the representation or intermediation contract regime of Law No. 54/2017 (Articles 36 to 39), the Civil Code mandate rules, which apply subsidiarily, and the applicable federation regulations (FIFA, FIBA, etc.).",
+  "substituicoes": [
+   {
+    "de": "- Comissão pretendida: percentagem sobre salário bruto? Sobre transferências? [■ VERIFICAR: limites regulamentares]",
+    "para": "- Comissão pretendida: percentagem sobre a retribuição? Sobre transferências? Quando paga pelo atleta, não pode exceder 10 % do montante líquido da sua retribuição e só é devida enquanto o contrato de representação vigorar (art. 38.º, n.º 3, da Lei n.º 54/2017) [■ VERIFICAR: limites regulamentares da FIFA/federação]",
+    "motivo": "A lei fixa o limite da remuneração paga pelo praticante: 10 % do montante líquido da retribuição, devida só durante a vigência do contrato.",
+    "fonte": "https://diariodarepublica.pt/redirect/LinkFicheiroAntigo.aspx?conteudoId=107692694"
+   },
+   {
+    "de": "- Duração do contrato de representação?\n- Conflito de interesses: o agente representa também clubes?",
+    "para": "- Duração do contrato de representação? (duração determinada, até dois anos, sem renovação automática — art. 38.º, n.os 4 e 5, da Lei n.º 54/2017)\n- Conflito de interesses: o agente representa também clubes? (o empresário só pode agir em nome e por conta de uma das partes da relação contratual e só por ela ser remunerado — art. 36.º, n.º 2, da Lei n.º 54/2017)\n- O atleta é menor de idade? (o empresário desportivo não pode representar menores — art. 36.º, n.º 3, da Lei n.º 54/2017)",
+    "motivo": "Faltavam os limites legais de duração, a proibição de dupla representação e a proibição de representar menores.",
+    "fonte": "https://diariodarepublica.pt/redirect/LinkFicheiroAntigo.aspx?conteudoId=107692694"
+   },
+   {
+    "de": "- Art. 1172.º CC: revogação do mandato",
+    "para": "- Art. 1172.º CC: obrigação de indemnização pela revogação do mandato (a revogabilidade consta do art. 1170.º CC), com as adaptações do regime especial do art. 38.º, n.os 6 a 9, da Lei n.º 54/2017: resolução com justa causa por incumprimento culposo; indemnização pela rutura indevida, que, quando a cargo do atleta, não pode exceder o que resultar da aplicação do n.º 3 ao período remanescente do contrato",
+    "motivo": "O art. 1172.º CC trata da indemnização e não da revogação em si (art. 1170.º CC); a cessação do contrato de representação tem regime especial no art. 38.º da Lei n.º 54/2017.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1172&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [■ VERIFICAR: Regulamento de Agentes da FIFA (Players' Agent Regulations 2023) — licença obrigatória e limites de comissão]\n- [■ VERIFICAR: Regulamento de Intermediários da Federação Portuguesa de Futebol]",
+    "para": "- [■ VERIFICAR: FIFA Football Agent Regulations (FFAR), plenamente em vigor desde 1.10.2023 — licença obrigatória, limites de comissão e regras sobre representação múltipla; parte destas regras foi suspensa pela FIFA na pendência de litígios judiciais, e o Tribunal de Justiça da UE pronunciou-se no acórdão de 16.7.2026, processo C-209/23 (RRC Sports), deixando ao tribunal nacional a apreciação final — confirmar o regime aplicado à data]\n- [■ VERIFICAR: Regulamento de Agentes de Futebol da Federação Portuguesa de Futebol, que substituiu o Regulamento de Intermediários — confirmar a versão em vigor]",
+    "motivo": "O regulamento da FIFA em vigor é o FFAR (e não um «Players' Agent Regulations 2023»), com disposições suspensas e apreciadas pelo TJUE; o Regulamento de Intermediários da FPF foi substituído.",
+    "fonte": "https://inside.fifa.com/en/news/fifa-football-agent-regulations-to-fully-enter-into-force-as-of-1-october"
+   },
+   {
+    "de": "- Lei n.º 54/2017, art. 3.º: definição de empresário desportivo",
+    "para": "- Lei n.º 54/2017, art. 2.º, al. c): definição de empresário desportivo (pessoa singular ou coletiva devidamente credenciada que exerce a atividade de representação ou intermediação na celebração de contratos desportivos)\n- Lei n.º 54/2017, arts. 36.º a 39.º: autorização pelas entidades desportivas competentes, atuação por conta de uma só das partes e proibição de representar menores (art. 36.º); registo obrigatório na federação, sob pena de nulidade do contrato (art. 37.º); contrato de representação ou intermediação como prestação de serviço, com forma escrita, serviços e remuneração definidos, limite de 10 % do montante líquido da retribuição do atleta, duração máxima de dois anos e proibição de renovação automática (art. 38.º); entidades inibidas de exercer a atividade (art. 39.º)",
+    "motivo": "A definição de empresário desportivo está no art. 2.º, al. c) (o art. 3.º trata do direito subsidiário); faltava o regime especial dos arts. 36.º a 39.º, que prevalece sobre o mandato do Código Civil.",
+    "fonte": "https://diariodarepublica.pt/redirect/LinkFicheiroAntigo.aspx?conteudoId=107692694"
+   },
+   {
+    "de": "- Limitação de conflito de interesses: o agente não pode receber comissão de ambos os lados sem consentimento escrito",
+    "para": "- Conflito de interesses: o empresário só pode agir em nome e por conta de uma das partes da relação contratual e só por ela ser remunerado (art. 36.º, n.º 2, da Lei n.º 54/2017), pelo que a lei não admite a dupla representação nem a remuneração pela outra parte [■ VERIFICAR: articulação com as regras do FFAR e da federação sobre representação múltipla]",
+    "motivo": "A lei portuguesa proíbe a atuação por conta das duas partes e a remuneração pela parte não representada; o consentimento escrito não é a regra legal.",
+    "fonte": "https://diariodarepublica.pt/redirect/LinkFicheiroAntigo.aspx?conteudoId=107692694"
+   },
+   {
+    "de": "- Empresário/Agente: nome, NIF, morada, número de licença federativa [■ VERIFICAR]",
+    "para": "- Empresário/Agente: nome, NIF, morada, número de registo na federação (art. 37.º da Lei n.º 54/2017) e, no futebol, número de licença FIFA [■ VERIFICAR]",
+    "motivo": "O registo na federação é obrigatório por lei; a licença FIFA é exigência regulamentar do futebol.",
+    "fonte": "https://diariodarepublica.pt/redirect/LinkFicheiroAntigo.aspx?conteudoId=107692694"
+   },
+   {
+    "de": "Vigência de [duração, ex: 2 anos], de [data início] a [data fim].\nRenovação: [automática por períodos iguais / não renovável / por acordo].",
+    "para": "Vigência de [duração, no máximo 2 anos — art. 38.º, n.º 4, da Lei n.º 54/2017], de [data início] a [data fim].\nRenovação: [não renovável / renovável por mútuo acordo escrito das partes]. Não é admitida a renovação automática (art. 38.º, n.º 5, da Lei n.º 54/2017).",
+    "motivo": "O contrato tem duração determinada até dois anos e a lei proíbe cláusulas de renovação automática.",
+    "fonte": "https://diariodarepublica.pt/redirect/LinkFicheiroAntigo.aspx?conteudoId=107692694"
+   },
+   {
+    "de": "Comissão de [percentagem, ex: 3% a 5%] sobre a remuneração bruta anual recebida pelo atleta ao abrigo de contratos negociados pelo empresário [■ VERIFICAR: limite máximo estabelecido pela FIFA/federação].\nComissão sobre transferência: [percentagem] sobre a taxa de transferência recebida pelo clube [■ VERIFICAR: aprovação expressa do atleta para cada operação].",
+    "para": "Comissão de [percentagem] sobre o montante líquido da retribuição recebida pelo atleta ao abrigo de contratos negociados pelo empresário, que não pode exceder 10 % desse montante e só é devida enquanto o presente contrato estiver em vigor (art. 38.º, n.º 3, da Lei n.º 54/2017) [■ VERIFICAR: limites mais baixos fixados pela FIFA/federação].\nComissão sobre transferência: [não aplicável]. O empresário que representa o atleta só por este pode ser remunerado (art. 36.º, n.º 2, da Lei n.º 54/2017), e a remuneração paga pelo atleta está sujeita ao limite do art. 38.º, n.º 3 [■ VERIFICAR: se é admissível alguma comissão indexada à compensação de transferência].",
+    "motivo": "A base legal do limite é o montante líquido e não o bruto; uma comissão sobre a compensação recebida pelo clube não é compatível com a regra de que o empresário só é remunerado pela parte que representa.",
+    "fonte": "https://diariodarepublica.pt/redirect/LinkFicheiroAntigo.aspx?conteudoId=107692694"
+   },
+   {
+    "de": "- Não receber remuneração de clubes ou terceiros sem consentimento escrito do atleta",
+    "para": "- Não representar a outra parte nem receber remuneração de clubes ou terceiros na mesma relação contratual (art. 36.º, n.º 2, da Lei n.º 54/2017)",
+    "motivo": "A remuneração por quem não é representado é vedada por lei, não dependendo de consentimento do atleta.",
+    "fonte": "https://diariodarepublica.pt/redirect/LinkFicheiroAntigo.aspx?conteudoId=107692694"
+   },
+   {
+    "de": "Em caso de representação dupla em qualquer negociação, o empresário obriga-se a obter consentimento escrito expresso de ambas as partes antes de prosseguir, nos termos dos regulamentos aplicáveis.",
+    "para": "Em qualquer negociação, o empresário age exclusivamente em nome e por conta do atleta, não podendo representar a outra parte nem ser por ela remunerado (art. 36.º, n.º 2, da Lei n.º 54/2017) [■ VERIFICAR: regras do FFAR/federação sobre representação múltipla, se forem mais exigentes].",
+    "motivo": "A dupla representação com consentimento contraria o art. 36.º, n.º 2, da Lei n.º 54/2017.",
+    "fonte": "https://diariodarepublica.pt/redirect/LinkFicheiroAntigo.aspx?conteudoId=107692694"
+   },
+   {
+    "de": "- Revogação pelo atleta: com aviso prévio de [prazo, ex: 30 dias]; comissão devida pelos contratos já celebrados subsiste\n- Revogação pelo empresário: com aviso prévio de [prazo]; substituição facilitada pelo empresário\n- Justa causa: incumprimento grave, conflito de interesses não declarado, perda de licença federativa",
+    "para": "- Caducidade: o contrato caduca no termo estipulado (art. 38.º, n.º 5, da Lei n.º 54/2017); a comissão só é devida enquanto o contrato estiver em vigor, mesmo quanto a contratos de trabalho já celebrados (art. 38.º, n.º 3)\n- Rutura antecipada sem justa causa: a parte que promover indevidamente a rutura do contrato indemniza a outra do prejuízo sofrido, podendo o montante ser fixado por acordo: € [valor / critério] (art. 38.º, n.os 7 e 8); a indemnização a cargo do atleta não pode exceder o que resultar da aplicação do n.º 3 ao período remanescente do contrato (art. 38.º, n.º 9)\n- Justa causa: o incumprimento culposo dos deveres contratuais confere ao lesado o direito de resolver o contrato com efeitos imediatos (art. 38.º, n.º 6), designadamente incumprimento grave, conflito de interesses não declarado, perda de licença ou cancelamento do registo federativo",
+    "motivo": "A comissão não subsiste após a cessação (art. 38.º, n.º 3) e a cessação antecipada segue o regime especial do art. 38.º, n.os 6 a 9.",
+    "fonte": "https://diariodarepublica.pt/redirect/LinkFicheiroAntigo.aspx?conteudoId=107692694"
+   },
+   {
+    "de": "Tribunal Arbitral do Desporto (TAD) para matéria desportiva; tribunais judiciais comuns para matéria contratual não desportiva.",
+    "para": "[Opção A] Os litígios emergentes do presente contrato são submetidos ao Tribunal Arbitral do Desporto (TAD), em arbitragem voluntária (art. 6.º da Lei do TAD, aprovada em anexo à Lei n.º 74/2013).\n[Opção B] Tribunais judiciais da comarca de [cidade].\n[■ VERIFICAR: no futebol, órgão de resolução de litígios previsto no FFAR e no regulamento da federação]",
+    "motivo": "Litígios contratuais só vão ao TAD por convenção de arbitragem (art. 6.º da Lei do TAD); a repartição por «matéria desportiva» e «não desportiva» gera dúvidas de competência.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1988&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- [ ] Comissão dentro dos limites regulamentares aplicáveis",
+    "para": "- [ ] Comissão dentro do limite legal (10 % do montante líquido da retribuição — art. 38.º, n.º 3, da Lei n.º 54/2017) e dos limites regulamentares aplicáveis\n- [ ] Duração até dois anos e sem renovação automática (art. 38.º, n.os 4 e 5)\n- [ ] Atleta maior de idade (art. 36.º, n.º 3)",
+    "motivo": "A validação tem de conferir os limites legais imperativos.",
+    "fonte": "https://diariodarepublica.pt/redirect/LinkFicheiroAntigo.aspx?conteudoId=107692694"
+   },
+   {
+    "de": "- Nome completo: [nome]\n- Modalidade: [futebol / basquetebol / outro]",
+    "para": "- Nome completo: [nome]\n- Data de nascimento: [data] (o empresário não pode representar menores — art. 36.º, n.º 3, da Lei n.º 54/2017)\n- Modalidade: [futebol / basquetebol / outro]",
+    "motivo": "É preciso confirmar a maioridade do atleta.",
+    "fonte": "https://diariodarepublica.pt/redirect/LinkFicheiroAntigo.aspx?conteudoId=107692694"
+   },
+   {
+    "de": "- Número de licença federativa: [número] [■ VERIFICAR se obrigatório]",
+    "para": "- Número de registo na federação: [número] (obrigatório: são nulos os contratos com empresários não registados — art. 37.º, n.º 3, da Lei n.º 54/2017); no futebol, licença FIFA: [número]",
+    "motivo": "O registo é obrigatório e a sua falta gera nulidade do contrato.",
+    "fonte": "https://diariodarepublica.pt/redirect/LinkFicheiroAntigo.aspx?conteudoId=107692694"
+   },
+   {
+    "de": "- Comissão sobre salário: [percentagem]%",
+    "para": "- Comissão sobre a retribuição líquida: [percentagem]% (máximo 10 % — art. 38.º, n.º 3, da Lei n.º 54/2017)",
+    "motivo": "O limite legal incide sobre o montante líquido da retribuição.",
+    "fonte": "https://diariodarepublica.pt/redirect/LinkFicheiroAntigo.aspx?conteudoId=107692694"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar na versão consolidada do Diário da República que a Lei n.º 54/2017 não foi alterada (leu-se o texto publicado em 14.7.2017).",
+   "Confirmar o regime do FFAR aplicado à data (disposições suspensas pela FIFA e sequência do acórdão do TJUE de 16.7.2026, processo C-209/23) e o Regulamento de Agentes de Futebol da FPF em vigor; o documento da FPF não pôde ser lido (acesso recusado).",
+   "Confirmar se o empresário pode assinar o contrato de trabalho desportivo em nome do atleta (art. 6.º, n.º 2, da Lei n.º 54/2017 exige assinatura de ambas as partes) e os requisitos de inscrição da federação; o contrato de trabalho deve identificar o empresário e a parte que representa (art. 6.º, n.º 3, al. b)).",
+   "Em modalidades fora do futebol, confirmar o regulamento de agentes da federação internacional e nacional (p. ex., FIBA)."
+  ],
+  "fontes": [
+   "https://diariodarepublica.pt/redirect/LinkFicheiroAntigo.aspx?conteudoId=107692694",
+   "https://diariodarepublica.pt/dr/detalhe/lei/54-2017-107692694",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1172&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1170&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1161&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1988&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://inside.fifa.com/en/news/fifa-football-agent-regulations-to-fully-enter-into-force-as-of-1-october",
+   "https://inside.fifa.com/en/news/welcomes-court-of-justice-european-union-decision-football-agent-regulations",
+   "https://curia.europa.eu/site/upload/docs/application/pdf/2026-07/cp260110en.pdf",
+   "https://www.fpf.pt/DownloadDocument.ashx?id=24811"
+  ]
+ },
+ {
+  "codigo": "DES-006",
+  "veredicto": "corrigida",
+  "resumo": "A ficha tratava a imagem e a voz como dados biométricos sujeitos ao art. 9.º RGPD e ao consentimento explícito; só o são quando objeto de tratamento técnico específico que permita a identificação única (art. 4.º, ponto 14, e considerando 51), sendo a base normal a execução do contrato (art. 6.º, n.º 1, al. b)). Corrigiu-se ainda a remissão para a Lei n.º 54/2017 (o direito de imagem está no art. 14.º, não no art. 19.º) e acrescentou-se a revogabilidade da limitação voluntária do direito à imagem (art. 81.º CC).",
+  "substituicoes": [
+   {
+    "de": "- Art. 79.º CC: direito à imagem — reprodução só com consentimento",
+    "para": "- Art. 79.º CC: direito à imagem — reprodução só com consentimento\n- Art. 81.º CC: a limitação voluntária do direito à imagem é nula se contrária à ordem pública e, quando legal, é sempre revogável, ainda que com obrigação de indemnizar os prejuízos causados às legítimas expectativas do cessionário",
+    "motivo": "A revogabilidade da limitação voluntária condiciona as cláusulas de exclusividade, duração e cessação.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0081&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- RGPD (Regulamento UE 2016/679): tratamento de dados biométricos/imagem",
+    "para": "- RGPD (Regulamento UE 2016/679): a imagem e a voz do atleta são dados pessoais; só são dados biométricos, categoria especial de dados, quando objeto de tratamento técnico específico que permita a identificação única (art. 4.º, ponto 14, RGPD e considerando 51); a base de licitude normal é a execução do contrato (art. 6.º, n.º 1, al. b), RGPD)",
+    "motivo": "Fotografias e voz não são, por si, dados biométricos; o considerando 51 afasta essa qualificação sistemática.",
+    "fonte": "https://publications.europa.eu/resource/celex/32016R0679"
+   },
+   {
+    "de": "- Lei n.º 54/2017, art. 19.º: direitos de imagem no contexto desportivo",
+    "para": "- Lei n.º 54/2017, art. 14.º: direito de imagem do praticante desportivo — pode opor-se à exploração comercial da sua imagem por outrem, sem prejuízo da transmissão contratual dessa exploração; ficam ressalvados os direitos da entidade empregadora quanto à imagem do coletivo dos praticantes, que podem ser regulados por contratação coletiva",
+    "motivo": "O direito de imagem está no art. 14.º da Lei n.º 54/2017; o art. 19.º trata da liberdade de trabalho.",
+    "fonte": "https://diariodarepublica.pt/redirect/LinkFicheiroAntigo.aspx?conteudoId=107692694"
+   },
+   {
+    "de": "O tratamento de dados biométricos (imagem, voz) realiza-se com base no consentimento explícito do Atleta (art. 9.º RGPD), para as finalidades específicas listadas na Cláusula 2.ª. O Atleta pode retirar o consentimento para novos usos sem prejudicar usos já autorizados.",
+    "para": "O tratamento dos dados pessoais do Atleta (imagem, nome, voz) é necessário à execução do presente contrato (art. 6.º, n.º 1, al. b), RGPD) e limita-se às finalidades listadas na Cláusula 2.ª. [Se houver tratamento técnico específico que permita a identificação única do Atleta — p. ex., reconhecimento facial ou de voz —, trata-se de dados biométricos e é necessário o consentimento explícito do Atleta (art. 9.º RGPD), que pode ser retirado a qualquer momento sem comprometer a licitude do tratamento anterior (art. 7.º, n.º 3, RGPD).]",
+    "motivo": "A imagem e a voz só são dados biométricos com tratamento técnico específico; a base normal é a execução do contrato.",
+    "fonte": "https://publications.europa.eu/resource/celex/32016R0679"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar o regime fiscal da contrapartida (categoria de rendimento em IRS e IVA), que a ficha deixa assinalado.",
+   "Se o cessionário for a entidade empregadora, articular com o art. 14.º, n.º 2, da Lei n.º 54/2017 (imagem do coletivo) e com a convenção coletiva aplicável.",
+   "Ponderar indicar na cláusula 10.ª as consequências da revogação pelo atleta da autorização de uso da imagem (art. 81.º, n.º 2, CC)."
+  ],
+  "fontes": [
+   "https://publications.europa.eu/resource/celex/32016R0679",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0081&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://diariodarepublica.pt/redirect/LinkFicheiroAntigo.aspx?conteudoId=107692694",
+   "https://diariodarepublica.pt/dr/detalhe/lei/54-2017-107692694"
+  ]
+ },
+ {
+  "codigo": "DES-007",
+  "veredicto": "corrigida",
+  "resumo": "A ficha identificava a Lei de Bases da Atividade Física e do Desporto como Lei n.º 99/2021 (é a Lei n.º 5/2007, cujo art. 48.º, n.º 3, distingue o donativo, sem contrapartidas, do patrocínio) e invocava a compra e venda (art. 879.º CC) como analogia para um contrato atípico de natureza publicitária. Concretizaram-se as restrições do Código da Publicidade (arts. 17.º e 21.º) e indicou-se que o tabaco consta da Lei n.º 37/2007 (o art. 18.º do Código foi revogado). A cláusula de foro, ambígua quanto ao TAD, passou a ter opções claras.",
+  "substituicoes": [
+   {
+    "de": "- Código Civil: arts. 405.º (liberdade contratual) e 879.º (contrato de compra e venda como analogia)",
+    "para": "- Código Civil: art. 405.º CC (liberdade contratual) — o patrocínio desportivo é um contrato atípico, de natureza publicitária, que pode reunir regras de vários tipos (art. 405.º, n.º 2, CC); não se lhe aplica por analogia a compra e venda, mas, na medida em que o patrocinado se obriga a prestar serviços publicitários, as regras da prestação de serviço e do mandato, com as necessárias adaptações (arts. 1154.º e 1156.º CC) [■ VERIFICAR: qualificação no caso concreto]",
+    "motivo": "O patrocínio não transmite a propriedade de uma coisa mediante preço; a analogia com a compra e venda é imprópria.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1156&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Lei de Bases da Atividade Física e do Desporto (Lei n.º 99/2021) — referência ao patrocínio desportivo",
+    "para": "- Lei de Bases da Atividade Física e do Desporto (Lei n.º 5/2007, de 16 de janeiro), art. 48.º, n.º 3: só têm relevância fiscal, nos termos do Estatuto do Mecenato, os donativos concedidos sem contrapartidas que configurem obrigações de caráter pecuniário ou comercial — o patrocínio, por ter contrapartida publicitária, não é donativo",
+    "motivo": "A Lei de Bases é a Lei n.º 5/2007; a Lei n.º 99/2021 trata de contribuições setoriais e custas.",
+    "fonte": "https://diariodarepublica.pt/redirect/LinkFicheiroAntigo.aspx?conteudoId=522787"
+   },
+   {
+    "de": "- Código da Publicidade: restrições a publicidade de álcool, tabaco, jogos de azar em contexto desportivo",
+    "para": "- Código da Publicidade (Decreto-Lei n.º 330/90): bebidas alcoólicas (art. 17.º — proibida a menção a marcas de bebidas alcoólicas na publicidade de eventos, designadamente desportivos, em que participem menores e nos locais onde decorram, n.os 5 e 6) e jogos e apostas (art. 21.º — proibidas as menções a jogos e apostas em eventos destinados a menores ou em que estes participem como intervenientes principais, n.º 5)\n- Tabaco: Lei n.º 37/2007, de 14 de agosto — proibição da publicidade (art. 16.º) e de qualquer contributo ou patrocínio que vise a promoção de produtos do tabaco (art. 18.º); o art. 18.º do Código da Publicidade foi revogado",
+    "motivo": "O tabaco já não está no Código da Publicidade (art. 18.º revogado pela Lei n.º 37/2007); concretizam-se as regras aplicáveis ao contexto desportivo.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1066&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "Tribunais judiciais da comarca de [cidade], sem prejuízo de recurso ao TAD para matéria desportiva conexa.",
+    "para": "[Opção A] Tribunais judiciais da comarca de [cidade].\n[Opção B] Tribunal Arbitral do Desporto (TAD), em arbitragem voluntária, por força da presente convenção de arbitragem (art. 6.º da Lei do TAD, aprovada em anexo à Lei n.º 74/2013).",
+    "motivo": "O TAD só conhece de litígios contratuais mediante convenção de arbitragem; a ressalva genérica é ambígua.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1988&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Rever a cláusula 9.ª, que remete para uma aprovação de materiais «prevista na Cláusula 3.ª» que não existe; definir o procedimento de aprovação.",
+   "Confirmar as condições vigentes do mecenato desportivo (art. 62.º EBF, n.º 6, als. d) e e), e declaração prévia do n.º 10), recentemente alterado, se se ponderar uma parte como donativo.",
+   "Confirmar na versão consolidada que o art. 48.º da Lei n.º 5/2007 se mantém (leu-se o texto publicado em 2007; o art. 18.º foi revogado pela Lei n.º 74/2013).",
+   "Confirmar as regras da liga e da UEFA sobre patrocinadores de apostas e outras categorias restritas."
+  ],
+  "fontes": [
+   "https://diariodarepublica.pt/redirect/LinkFicheiroAntigo.aspx?conteudoId=522787",
+   "https://diariodarepublica.pt/dr/detalhe/lei/5-2007-522787",
+   "https://vlex.pt/vid/lei-n-99-2021-904932172",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0405&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1154&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1156&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=390&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1066&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/CIRC_2R/Pages/irc23.aspx",
+   "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/bf_rep/Pages/ebf-artigo-62-ordm-.aspx",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1988&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+  ]
+ },
+ {
+  "codigo": "DES-009",
+  "veredicto": "corrigida",
+  "resumo": "A ficha identificava a Lei de Bases da Atividade Física e do Desporto como Lei n.º 99/2021; é a Lei n.º 5/2007, e os princípios gerais do regime disciplinar desportivo constam do art. 53.º do Regime Jurídico das Federações Desportivas (Decreto-Lei n.º 248-B/2008), que se acrescentou. Concretizou-se ainda o recurso para o TAD: arbitragem necessária das deliberações do órgão de disciplina, prazo de 10 dias e exclusão das questões estritamente técnicas e disciplinares da competição.",
+  "substituicoes": [
+   {
+    "de": "- Lei de Bases da Atividade Física e do Desporto (Lei n.º 99/2021): princípios gerais da disciplina desportiva\n- Lei n.º 74/2013 (TAD): recurso das decisões disciplinares",
+    "para": "- Lei de Bases da Atividade Física e do Desporto (Lei n.º 5/2007, de 16 de janeiro), art. 19.º: poderes disciplinares de natureza pública das federações com estatuto de utilidade pública desportiva\n- Regime Jurídico das Federações Desportivas (Decreto-Lei n.º 248-B/2008, de 31 de dezembro), arts. 52.º a 54.º: regulamentos disciplinares e princípios gerais do regime disciplinar — igualdade, irretroatividade e proporcionalidade das sanções, causas que eximem, atenuam ou agravam a responsabilidade, processo disciplinar obrigatório nas infrações mais graves e sempre que a suspensão exceda um mês, garantias de defesa e audiência do arguido, garantia de recurso (art. 53.º)\n- Lei n.º 74/2013 (TAD): recurso das deliberações do órgão de disciplina para o TAD, em arbitragem necessária, no prazo de 10 dias a contar da notificação (arts. 4.º, n.os 1 e 3, al. a), e 54.º, n.º 2, da Lei do TAD); fica excluída a resolução de questões emergentes da aplicação das normas técnicas e disciplinares diretamente respeitantes à prática da própria competição (art. 4.º, n.º 6)",
+    "motivo": "A Lei de Bases é a Lei n.º 5/2007 (a Lei n.º 99/2021 trata de contribuições e custas); os princípios do regime disciplinar estão no art. 53.º do RJFD; faltavam o prazo e os limites do recurso para o TAD.",
+    "fonte": "https://diariodarepublica.pt/redirect/LinkFicheiroAntigo.aspx?conteudoId=243744"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar na versão consolidada a redação dos arts. 52.º a 54.º do Decreto-Lei n.º 248-B/2008 (o art. 53.º foi alterado pela Lei n.º 23/2024, que acrescentou o canal de denúncia).",
+   "Verificar se a infração é «questão estritamente desportiva» (art. 4.º, n.º 6, da Lei do TAD), caso em que não há recurso para o TAD.",
+   "Na defesa, invocar também, quando aplicável, as garantias do art. 53.º, als. e) e f), do RJFD (processo disciplinar obrigatório e audiência do arguido)."
+  ],
+  "fontes": [
+   "https://diariodarepublica.pt/redirect/LinkFicheiroAntigo.aspx?conteudoId=522787",
+   "https://diariodarepublica.pt/dr/detalhe/lei/5-2007-522787",
+   "https://vlex.pt/vid/lei-n-99-2021-904932172",
+   "https://diariodarepublica.pt/redirect/LinkFicheiroAntigo.aspx?conteudoId=243744",
+   "https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-b-2008-243744",
+   "https://diariodarepublica.pt/redirect/LinkFicheiroAntigo.aspx?conteudoId=852762916",
+   "https://diariodarepublica.pt/redirect/LinkFicheiroAntigo.aspx?conteudoId=108063582",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1988&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+  ]
+ },
+ {
+  "codigo": "DES-011",
+  "veredicto": "corrigida",
+  "resumo": "A ficha enquadrava todos os litígios, incluindo os contratuais e laborais, na arbitragem necessária do art. 4.º da Lei do TAD; esta só abrange recursos de atos de federações, ligas e entidades desportivas no exercício de poderes públicos, ficando os litígios contratuais na arbitragem voluntária (arts. 6.º e 7.º), que exige convenção. Corrigiram-se a descrição dos arts. 1.º a 20.º, a aplicação subsidiária (CPTA ou LAV, art. 61.º), os artigos da cessação na Lei n.º 54/2017 (arts. 23.º a 27.º) e a base da providência cautelar (art. 41.º); acrescentaram-se a designação de árbitro, o prazo de 10 dias e a taxa de arbitragem (art. 54.º).",
+  "substituicoes": [
+   {
+    "de": "- Arts. 1.º a 20.º Lei n.º 74/2013: competência, processo, árbitros, decisão",
+    "para": "- Lei do TAD (aprovada em anexo à Lei n.º 74/2013, alterada pela Lei n.º 33/2014): arts. 1.º a 8.º (natureza e competência), 20.º a 31.º (árbitros e sua designação), 34.º a 51.º (processo arbitral e decisão), 52.º a 59.º (processo de arbitragem necessária) e 60.º (arbitragem voluntária)",
+    "motivo": "Os arts. 1.º a 20.º tratam da natureza, competência e organização do TAD; o processo e a decisão estão nos arts. 34.º e seguintes.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1988&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Lei n.º 63/2011 (Lei da Arbitragem Voluntária — LAV): subsidiariamente",
+    "para": "- Arts. 6.º e 7.º da Lei do TAD: arbitragem voluntária dos demais litígios relacionados com o desporto, incluindo os emergentes de contratos de trabalho desportivo, que exige convenção de arbitragem ou cláusula estatutária (art. 6.º, n.º 2)\n- Art. 61.º da Lei do TAD: aplicação subsidiária do Código de Processo nos Tribunais Administrativos na arbitragem necessária e da Lei n.º 63/2011 (Lei da Arbitragem Voluntária — LAV) na arbitragem voluntária",
+    "motivo": "Os litígios contratuais e laborais cabem na arbitragem voluntária; a LAV só é subsidiária nesta, e o CPTA na necessária.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1988&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Lei n.º 54/2017 (LCTD): arts. 26.º a 28.º para litígios de rescisão",
+    "para": "- Lei n.º 54/2017 (LCTD): arts. 23.º a 27.º para litígios de cessação do contrato de trabalho desportivo (formas de cessação, responsabilidade das partes, denúncia por iniciativa do praticante, responsabilidade solidária e comunicação da cessação); art. 4.º: recurso ao TAD previsto em convenção coletiva",
+    "motivo": "A cessação está nos arts. 23.º a 27.º; o art. 28.º já respeita ao contrato de formação.",
+    "fonte": "https://diariodarepublica.pt/redirect/LinkFicheiroAntigo.aspx?conteudoId=107692694"
+   },
+   {
+    "de": "- Indicação de árbitro se for arbitragem voluntária",
+    "para": "- Designação de árbitro no requerimento inicial, também na arbitragem necessária (arts. 28.º e 54.º, n.º 3, al. f), da Lei do TAD); na voluntária, árbitro único ou colégio de três conforme a convenção (art. 29.º)\n- Prazo: na arbitragem necessária em via de recurso, 10 dias a contar da notificação da deliberação ou decisão (art. 54.º, n.º 2); pagamento da taxa de arbitragem com o requerimento (art. 54.º, n.º 4)",
+    "motivo": "A designação de árbitro é obrigatória também na arbitragem necessária; faltavam o prazo e a taxa.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1988&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "1. O presente litígio emerge de [contrato de trabalho desportivo / transferência / relação federativa] e enquadra-se no âmbito do art. 4.º, n.º [X] da Lei n.º 74/2013, que sujeita à jurisdição do TAD os litígios [descrever tipo] [■ VERIFICAR: enquadramento exato].",
+    "para": "1. [Arbitragem necessária] O presente litígio emerge de [ato ou omissão / deliberação do órgão de disciplina / decisão do órgão de justiça] da [federação / liga / entidade desportiva], no exercício dos seus poderes de [regulamentação / organização / direção / disciplina], e enquadra-se no art. 4.º, n.os 1 e 3, al. [a) / b)], da Lei do TAD, aprovada em anexo à Lei n.º 74/2013 [■ VERIFICAR: enquadramento exato].\n   [Arbitragem voluntária] O presente litígio emerge de [contrato de trabalho desportivo / transferência / outro contrato] e é submetido ao TAD ao abrigo dos arts. 6.º e 7.º da Lei do TAD, com base na convenção de arbitragem referida no ponto seguinte.",
+    "motivo": "Os litígios contratuais e laborais não se enquadram no art. 4.º (arbitragem necessária), mas nos arts. 6.º e 7.º, com convenção.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1988&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "6. Requer-se, com caráter de urgência e nos termos do art. [X] da Lei n.º 74/2013 [■ VERIFICAR], a adoção da seguinte medida cautelar:",
+    "para": "6. Requer-se, com caráter de urgência e nos termos do art. 41.º da Lei do TAD (aprovada em anexo à Lei n.º 74/2013), juntamente com o presente requerimento inicial (art. 41.º, n.º 4), a adoção da seguinte medida cautelar:",
+    "motivo": "O procedimento cautelar está no art. 41.º da Lei do TAD e é requerido com o requerimento inicial.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1988&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "Fundamento: fumus boni iuris — [descrever]; periculum in mora — [descrever prejudice irreparável se não adotada]",
+    "para": "Fundamento: fumus boni iuris — [descrever]; periculum in mora — fundado receio de lesão grave e de difícil reparação (art. 41.º, n.º 1, da Lei do TAD) — [descrever o prejuízo se a medida não for adotada]",
+    "motivo": "Requisito legal da providência no TAD; o termo inglês «prejudice» não é português.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1988&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "**VI. VALOR DO PROCESSO**\n€ [valor total do pedido]",
+    "para": "**VI. VALOR DO PROCESSO E DESIGNAÇÃO DE ÁRBITRO**\n€ [valor total do pedido]\nO Requerente designa como árbitro [nome], da lista de árbitros do TAD (art. 54.º, n.º 3, al. f), e art. 28.º da Lei do TAD, na arbitragem necessária; art. 29.º, na voluntária, salvo árbitro único designado por acordo).\nJunta-se o comprovativo do pagamento da taxa de arbitragem (art. 54.º, n.º 4) [■ VERIFICAR: montante da taxa e, na arbitragem voluntária, regulamento de processo do TAD (art. 60.º)].",
+    "motivo": "O requerimento inicial tem de conter a designação do árbitro e ser acompanhado do pagamento da taxa de arbitragem.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1988&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- [ ] Competência do TAD verificada (art. 4.º Lei 74/2013)",
+    "para": "- [ ] Competência do TAD verificada (art. 4.º Lei 74/2013 na arbitragem necessária; arts. 6.º e 7.º da Lei do TAD na voluntária)\n- [ ] Prazo de 10 dias cumprido, se for recurso de deliberação ou decisão (art. 54.º, n.º 2, da Lei do TAD)\n- [ ] Árbitro designado e taxa de arbitragem paga (art. 54.º, n.os 3, al. f), e 4, da Lei do TAD)",
+    "motivo": "A validação tem de conferir o tipo de arbitragem, o prazo, o árbitro e a taxa.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1988&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar o montante da taxa de arbitragem na portaria aplicável à arbitragem necessária e o regulamento de processo do TAD para a arbitragem voluntária.",
+   "Na arbitragem necessária, o processo é de recurso de decisão federativa: adaptar a estrutura (factos, pedidos de condenação em quantia) ao objeto impugnatório e às modalidades do CPTA (art. 4.º, n.º 2, da Lei do TAD).",
+   "Confirmar a morada e o modo de entrega do requerimento ao secretariado do TAD (sede no Comité Olímpico de Portugal, art. 2.º da Lei do TAD)."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1988&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://diariodarepublica.pt/redirect/LinkFicheiroAntigo.aspx?conteudoId=25676893",
+   "https://diariodarepublica.pt/redirect/LinkFicheiroAntigo.aspx?conteudoId=107692694",
+   "https://diariodarepublica.pt/dr/detalhe/lei/54-2017-107692694"
+  ]
+ }
+]

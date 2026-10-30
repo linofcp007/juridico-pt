@@ -1,0 +1,439 @@
+[
+ {
+  "codigo": "IMO-006",
+  "veredicto": "corrigida",
+  "resumo": "A ficha apoiava o contrato de menos de 1 ano e a não renovação no art. 1095.º, n.º 2, CC, que fixa precisamente o prazo mínimo de 1 ano; a exceção está no n.º 3 (habitação não permanente ou fins especiais transitórios exarados no contrato) e a não renovação no art. 1096.º, n.º 2. A cláusula 6.ª previa uma «rescisão» livre do senhorio com «caução em dobro» e a perda da caução pelo arrendatário, sem base legal e contra a imperatividade do art. 1080.º CC: passou a seguir o art. 1098.º, n.os 3 e 6, CC. Corrigiram-se ainda a referência ao DL 80/2017 (o regime do AL é o DL 128/2014 na redação atual), a «taxa liberatória» de IRS (é a taxa autónoma do art. 72.º, n.º 2, CIRS) e o limite de antecipação de rendas.",
+  "substituicoes": [
+   {
+    "de": "- Tipo: curta duração (<1 ano) ou estudante?",
+    "para": "- Qual o fim especial transitório (educação e formação, motivos profissionais ou turísticos)? Sem ele exarado no contrato, não há arrendamento por menos de 1 ano (art. 1095.º, n.os 2 e 3, CC)",
+    "motivo": "O prazo inferior a 1 ano só é admitido para fins transitórios exarados no contrato; sem eles, é ampliado para 1 ano.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1095&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Art. 1095.º, n.º 2 CC (duração inferior a 1 ano — regime especial)",
+    "para": "- Art. 1095.º, n.º 3, CC (o prazo mínimo de 1 ano do n.º 2 não se aplica aos contratos para habitação não permanente ou para fins especiais transitórios — motivos profissionais, de educação e formação ou turísticos — neles exarados; sem esse fim, o prazo é ampliado para 1 ano)\n- Art. 1096.º, n.º 2, CC (salvo estipulação em contrário, estes contratos não se renovam automaticamente)",
+    "motivo": "O n.º 2 fixa o prazo mínimo de 1 ano; a exceção é o n.º 3 e a não renovação está no art. 1096.º, n.º 2.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1096&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- DL 128/2014 e DL 80/2017 (Alojamento Local — DISTINÇÃO IMPORTANTE)",
+    "para": "- DL 128/2014, na redação atual (a última alteração é a do DL 76/2024) (Alojamento Local — DISTINÇÃO IMPORTANTE)",
+    "motivo": "O DL 80/2017 não altera o regime do AL; o DL 128/2014 foi alterado, por último, pelo DL 76/2024.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3085&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Circular AT sobre tributação de arrendamento de curta duração [■ VERIFICAR]\n- IRS — Categoria F (rendimentos prediais) — taxa liberatória ou englobamento [■ VERIFICAR]",
+    "para": "- Comunicação do contrato à AT e Imposto do Selo [■ VERIFICAR: obrigação declarativa e prazo]\n- IRS — Categoria F (rendimentos prediais) — taxa autónoma de 25 % (art. 72.º, n.º 2, CIRS) ou opção pelo englobamento; as reduções por duração (n.os 3 e seguintes) são só para habitação permanente [■ VERIFICAR: redação em vigor no ano do rendimento]",
+    "motivo": "Os rendimentos prediais não têm taxa liberatória, mas taxa autónoma (art. 72.º CIRS); retira-se a remissão para uma circular não identificada.",
+    "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cirs_rep/Pages/irs72.aspx"
+   },
+   {
+    "de": "- Regime de rescisão antecipada (por ambas as partes)",
+    "para": "- Denúncia antecipada pelo arrendatário (art. 1098.º, n.º 3, CC); o senhorio só pode pôr termo ao contrato antes do prazo por resolução com fundamento legal (art. 1083.º CC)",
+    "motivo": "As normas sobre cessação são imperativas; o senhorio não tem denúncia livre durante o prazo certo.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1080&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "\"O presente contrato destina-se exclusivamente a habitação temporária do Arrendatário, [estudante matriculado na [Instituição] / residente temporário], não constituindo habitação permanente.\"",
+    "para": "\"O presente contrato destina-se exclusivamente a habitação não permanente do Arrendatário, para o fim especial transitório de [frequência de curso na [Instituição], no ano letivo [ano] / deslocação profissional para [descrever]], não constituindo habitação permanente (art. 1095.º, n.º 3, CC).\" O fim transitório tem de ficar exarado no contrato e corresponder à realidade; se faltar, o prazo inferior a 1 ano é ampliado para 1 ano (art. 1095.º, n.º 2, CC).",
+    "motivo": "«Residente temporário» genérico não preenche o fim especial transitório exigido para afastar o prazo mínimo de 1 ano.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1095&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "não se renovando automaticamente (art. 1095.º, n.º 2 CC)",
+    "para": "não se renovando automaticamente (arts. 1095.º, n.º 3, e 1096.º, n.º 2, CC)",
+    "motivo": "A não renovação resulta do art. 1096.º, n.º 2, para os contratos do art. 1095.º, n.º 3.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1096&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "Renda mensal ou trimestral. Encargos incluídos",
+    "para": "Renda mensal [ou trimestral, respeitando o limite de antecipação: por acordo escrito, até dois meses (art. 1076.º, n.º 1, CC)]. Encargos incluídos",
+    "motivo": "A antecipação de rendas está limitada a dois meses.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1076&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "Pelo Arrendatário: com pré-aviso de [30/60] dias, com perda da caução [ou sem penalização — definir]. Pelo Senhorio: com pré-aviso de [30/60] dias e restituição da caução em dobro se a rescisão for injustificada.",
+    "para": "Pelo Arrendatário: denúncia decorrido um terço do prazo, com a antecedência mínima de 60 dias do termo pretendido, se o prazo for inferior a 1 ano, ou de 120 dias, se for igual ou superior (art. 1098.º, n.º 3, CC); a falta de pré-aviso não impede a cessação, mas obriga ao pagamento das rendas do período em falta (art. 1098.º, n.º 6, CC). Não estipular perda da caução nem outra penalização: as normas sobre a denúncia e a resolução são imperativas (art. 1080.º CC). Pelo Senhorio: não há denúncia livre durante o prazo certo, só a resolução com fundamento legal (art. 1083.º CC); não incluir «rescisão» do senhorio com pré-aviso nem «caução em dobro», que não têm base legal.",
+    "motivo": "A cláusula criava uma rescisão livre do senhorio e penalizações sem base legal, contra os arts. 1080.º e 1098.º CC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1098&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Regime de rescisão antecipada definido",
+    "para": "- [ ] Denúncia pelo arrendatário conforme o art. 1098.º CC, sem penalizações nem «rescisão» livre do senhorio",
+    "motivo": "Coerência com a cláusula 6.ª corrigida.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1098&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Tipo: [estudante / curta duração — temporário]",
+    "para": "- Tipo: [estudante / deslocação profissional / outro fim transitório — descrever]",
+    "motivo": "O tipo tem de identificar o fim especial transitório do art. 1095.º, n.º 3, CC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1095&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar se, no caso concreto, convém afastar ou não a renovação automática (o art. 1096.º, n.º 2, CC admite estipulação em contrário).",
+   "Nos contratos por motivos turísticos, só pode ser celebrado um por ano civil e por fração ou prédio (art. 1095.º, n.º 4, CC); distinguir sempre do alojamento local (DL 128/2014, na redação do DL 76/2024).",
+   "Confirmar a obrigação de comunicação do contrato à AT, o Imposto do Selo e a taxa de IRS aplicável no ano do rendimento.",
+   "Verificar se a caução prevista não excede o valor de duas rendas (art. 1076.º, n.º 2, CC)."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1095&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1096&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1098&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1076&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1080&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1083&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1097&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3085&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cirs_rep/Pages/irs72.aspx"
+  ]
+ },
+ {
+  "codigo": "IMO-016",
+  "veredicto": "corrigida",
+  "resumo": "A petição omitia a indemnização de 20 % do que for devido pela mora do arrendatário (art. 1041.º, n.º 1, CC), que é o regime especial da mora nas rendas, e apoiava a constituição em mora no art. 1048.º CC (que trata da purga da mora na ação de resolução) em vez do art. 805.º, n.º 2, al. a), CC. Citava o art. 535.º CPC como forma de processo, quando trata da responsabilidade do autor pelas custas — o que releva aqui, porque o contrato com a comunicação do montante em dívida é título executivo (art. 14.º-A NRAU). Corrigiram-se ainda o valor da causa (só contam os juros já vencidos, art. 297.º, n.º 2, CPC), a designação do tribunal e as «custas e honorários de parte».",
+  "substituicoes": [
+   {
+    "de": "— Inclui pedido de juros de mora à taxa legal desde o vencimento de cada renda.",
+    "para": "— Pede a indemnização de 20 % do que for devido (art. 1041.º, n.º 1, CC), que cessa se o arrendatário tiver feito cessar a mora em 8 dias (n.º 2). A cumulação com juros de mora sobre as mesmas rendas é controvertida [■ VERIFICAR: jurisprudência — há quem veja no art. 1041.º regime especial que afasta o art. 806.º CC; ponderar pedir os juros em alternativa ou subsidiariamente].",
+    "motivo": "O art. 1041.º, n.º 1, CC dá ao senhorio que não resolve o contrato uma indemnização de 20 %; a ficha só previa juros.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1041&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "— Se há caução prestada, equaciona a sua imputação.",
+    "para": "— Se há caução prestada, equaciona a sua imputação.\n— Verifica se há título executivo: o contrato, com o comprovativo da comunicação ao arrendatário do montante em dívida, é título executivo para as rendas e encargos (art. 14.º-A NRAU); se o autor, munido desse título, recorrer à ação declarativa e o réu não contestar, as custas ficam a cargo do autor (art. 535.º, n.os 1 e 2, al. c), CPC).\n— Se há fiador, o senhorio deve notificá-lo da mora e das quantias em dívida nos 90 dias seguintes, e só depois lhe pode exigir o pagamento (art. 1041.º, n.os 5 e 6, CC).",
+    "motivo": "Omitia o título executivo do art. 14.º-A NRAU, o risco de custas do art. 535.º CPC e a notificação do fiador.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=691A0014A&nid=691&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Art. 1048.º CC (mora no pagamento)\n- Art. 804.º e 806.º CC (mora do devedor e juros moratórios)",
+    "para": "- Art. 805.º, n.º 2, al. a), CC (mora sem interpelação, na obrigação de prazo certo)\n- Art. 1041.º CC (mora do locatário — indemnização de 20 %; fiador: n.os 5 e 6)\n- Art. 1048.º CC (purga da mora na ação de resolução — releva se se cumular o despejo)\n- Art. 804.º e 806.º CC (mora do devedor e juros moratórios)",
+    "motivo": "O art. 1048.º CC não regula a mora, mas a caducidade do direito à resolução pelo pagamento; a mora resulta do art. 805.º, n.º 2, al. a).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1048&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Art. 535.º CPC (forma de processo — declarativa de condenação)",
+    "para": "- Arts. 10.º, n.º 3, al. b), e 548.º CPC (ação declarativa de condenação, processo comum)\n- Art. 535.º, n.º 2, al. c), CPC (custas a cargo do autor que, munido de título executivo, recorre ao processo de declaração, se o réu não contestar)\n- Art. 297.º, n.os 1 e 2, CPC (valor da causa: dos juros, só contam os já vencidos)",
+    "motivo": "O art. 535.º CPC trata da responsabilidade do autor pelas custas; a espécie de ação está no art. 10.º e a forma do processo no art. 548.º.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0535&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Cálculo de juros (discriminado ou global desde a data mais recuada)",
+    "para": "- Cálculo da indemnização de 20 % (art. 1041.º, n.º 1, CC) e, se pedidos, dos juros (discriminado ou global desde a data mais recuada)",
+    "motivo": "Inclui a indemnização legal pela mora do locatário.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1041&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Valor da causa = total de rendas + juros estimados",
+    "para": "- Valor da causa = total de rendas e encargos + indemnização e juros já vencidos à data da propositura (art. 297.º, n.os 1 e 2, CPC)",
+    "motivo": "Os juros que se vencerem na pendência da causa não contam para o valor.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0297&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "**AO TRIBUNAL [JUDICIAL / DE COMARCA] DE [LOCALIDADE]**",
+    "para": "**TRIBUNAL JUDICIAL DA COMARCA DE [COMARCA] — JUÍZO [LOCAL CÍVEL / CENTRAL CÍVEL] DE [LOCALIDADE]** [■ VERIFICAR: juízo central cível se o valor da ação exceder 50 000 € (art. 117.º, n.º 1, al. a), da Lei n.º 62/2013 — LOSJ)]",
+    "motivo": "Designação dos tribunais segundo a LOSJ (comarca e juízo), com a competência em razão do valor.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1974A0117&nid=1974&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "Acrescem juros de mora à taxa legal de [X]% a.a. sobre cada prestação em atraso desde o respetivo vencimento. [■ VERIFICAR: taxa legal vigente]",
+    "para": "Acresce a indemnização de 20 % do que é devido, por o R. não ter feito cessar a mora no prazo de oito dias (art. 1041.º, n.os 1 e 2, CC), no valor de €[valor]. [Se se pedirem também juros:] Acrescem juros de mora à taxa legal de [X]% a.a. sobre cada prestação em atraso desde o respetivo vencimento. [■ VERIFICAR: cumulação com a indemnização e taxa legal vigente]",
+    "motivo": "Inclui a indemnização do art. 1041.º, n.º 1, CC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1041&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "Constituiu-se em mora desde o dia seguinte ao vencimento de cada prestação (art. 1048.º CC), sendo-lhe imputáveis juros moratórios ao abrigo dos arts. 804.º e 806.º CC.",
+    "para": "Constituiu-se em mora desde o dia seguinte ao vencimento de cada prestação, por se tratar de obrigação de prazo certo (art. 805.º, n.º 2, al. a), CC), tendo o A. direito a exigir, além das rendas em atraso, uma indemnização igual a 20 % do que for devido (art. 1041.º, n.º 1, CC). [Se se pedirem juros:] São-lhe ainda imputáveis juros moratórios ao abrigo dos arts. 804.º e 806.º CC [■ VERIFICAR: cumulação com a indemnização do art. 1041.º CC].",
+    "motivo": "A mora resulta do art. 805.º, n.º 2, al. a), CC, não do art. 1048.º; falta a indemnização do art. 1041.º.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0805&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "b) Juros de mora à taxa legal de [X]% a.a. sobre cada prestação desde o vencimento até integral pagamento;",
+    "para": "b) €[valor] a título de indemnização de 20 % pela mora (art. 1041.º, n.º 1, CC) [e/ou, se cumulados, juros de mora à taxa legal de [X]% a.a. sobre cada prestação desde o vencimento até integral pagamento];",
+    "motivo": "Pedido da indemnização legal pela mora do locatário.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1041&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "d) Custas e honorários de parte.\"",
+    "para": "d) Custas, incluindo custas de parte.\"",
+    "motivo": "A figura processual é a das custas de parte (art. 533.º CPC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0533&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "\"Dá-se à causa o valor de €[soma das rendas + juros estimados].\"",
+    "para": "\"Dá-se à causa o valor de €[soma das rendas e encargos + indemnização e juros já vencidos] (art. 297.º, n.os 1 e 2, CPC).\"",
+    "motivo": "Só os juros já vencidos contam para o valor da causa.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0297&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Juros de mora pedidos à taxa legal desde cada vencimento",
+    "para": "- [ ] Indemnização de 20 % (art. 1041.º CC) e/ou juros de mora pedidos, com a cumulação ponderada",
+    "motivo": "Coerência com o pedido corrigido.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1041&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Caução equacionada",
+    "para": "- [ ] Caução equacionada\n- [ ] Título executivo (art. 14.º-A NRAU) e notificação do fiador (art. 1041.º, n.os 5 e 6, CC) ponderados",
+    "motivo": "Coerência com as regras acrescentadas.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=691A0014A&nid=691&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "A cumulação da indemnização de 20 % do art. 1041.º, n.º 1, CC com juros de mora sobre as mesmas rendas é controvertida (o Ac. TRC de 30/4/2019, proc. 4072/18.3T8CBR.C1, trata o art. 1041.º como regime especial face ao art. 806.º CC): escolher a formulação do pedido.",
+   "Ponderar a via executiva (art. 14.º-A NRAU) ou a injunção antes da ação declarativa, por causa do risco de custas do art. 535.º, n.º 2, al. c), CPC.",
+   "Se o senhorio quiser também a resolução, a indemnização de 20 % deixa de ser devida (art. 1041.º, n.º 1, parte final, CC) e aplica-se a purga da mora do art. 1048.º CC.",
+   "Confirmar a taxa de juros legais civis em vigor."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1041&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1048&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0805&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=691A0014A&nid=691&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0010&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0297&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0535&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1974A0117&nid=1974&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.dgsi.pt/jtrc.nsf/8fe0e606d8f56b22802576c0005637dc/085e2fee3512919e8025840000339a3e?OpenDocument="
+  ]
+ },
+ {
+  "codigo": "IMO-018",
+  "veredicto": "corrigida",
+  "resumo": "As remissões para a Lei n.º 15/2013 estavam trocadas: a exclusividade está no art. 16.º, n.º 2, al. g) (o n.º 4 trata da aprovação dos modelos de contrato pelo IMPIC, na redação do DL 102/2017), o art. 17.º trata dos deveres para com clientes e destinatários e o art. 18.º das quantias prestadas pelos destinatários, não da cessação. A comissão era descrita como devida só por «resultado direto», omitindo o art. 19.º, n.º 2 (remuneração em exclusividade quando o negócio não se concretiza por causa imputável ao cliente) e a remuneração no contrato-promessa. Completaram-se os elementos obrigatórios do art. 16.º, n.º 2 (ónus, seguro de responsabilidade civil, IVA), a nulidade do n.º 7, o prazo supletivo de seis meses e a entidade supervisora (IMPIC, não a ASAE).",
+  "substituicoes": [
+   {
+    "de": "— Menciona obrigatoriamente: identificação das partes e da agência, AMI da agência, imóvel, preço pretendido, comissão, prazo, exclusividade ou não.",
+    "para": "— Menciona obrigatoriamente (art. 16.º, n.º 2, da Lei n.º 15/2013): as características do imóvel, com todos os ónus e encargos; o negócio visado; a remuneração, fixa ou percentual, a forma de pagamento e a taxa de IVA; o seguro de responsabilidade civil ou a garantia equivalente (apólice e seguradora ou capital garantido); o angariador imobiliário, se tiver colaborado; os serviços acessórios; e o regime de exclusividade, se acordado, com os seus efeitos. Identifica também as partes e a licença (AMI) da mediadora. A falta da forma escrita ou destes elementos gera a nulidade do contrato, que a mediadora não pode invocar (art. 16.º, n.º 7).",
+    "motivo": "Os elementos obrigatórios são os do art. 16.º, n.º 2; o prazo não é obrigatório (n.º 3) e faltavam os ónus, o seguro e o IVA.",
+    "fonte": "https://diariodarepublica.pt/redirect/LinkFicheiroAntigo.aspx?conteudoId=257806"
+   },
+   {
+    "de": "— Distingue regime de exclusividade (art. 16.º, n.º 4) do regime sem exclusividade.",
+    "para": "— Distingue regime de exclusividade (art. 16.º, n.º 2, al. g)) do regime sem exclusividade; os efeitos da exclusividade têm de ficar especificados no contrato, para a mediadora e para o cliente.\n— Se a mediadora usar um modelo com cláusulas contratuais gerais, este tem de estar previamente aprovado pelo IMPIC, I. P., ou, sendo o modelo aprovado por portaria, depositado junto do IMPIC (art. 16.º, n.os 4 a 6); senão, o contrato é nulo (n.º 7).",
+    "motivo": "A exclusividade está no art. 16.º, n.º 2, al. g); o n.º 4, na redação do DL 102/2017, trata da aprovação dos modelos pelo IMPIC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2763&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "— A comissão só é devida se o negócio se concluir por resultado direto da atividade da mediadora (art. 19.º).",
+    "para": "— A comissão é devida com a conclusão e perfeição do negócio visado pelo exercício da mediação ou, se o contrato o previr, com a celebração do contrato-promessa (art. 19.º, n.º 1); em regime de exclusividade, é também devida se o negócio não se concretizar por causa imputável ao cliente proprietário ou arrendatário trespassante (art. 19.º, n.º 2).",
+    "motivo": "A regra omitia a remuneração no contrato-promessa e a do art. 19.º, n.º 2, em exclusividade.",
+    "fonte": "https://diariodarepublica.pt/redirect/LinkFicheiroAntigo.aspx?conteudoId=257806"
+   },
+   {
+    "de": "- Lei n.º 15/2013 (RJAMI) — arts. 16.º (forma e conteúdo), 17.º (exclusividade), 19.º (direito à remuneração)\n- Art. 18.º Lei 15/2013 (cessação do contrato)\n- Código Civil — arts. 1157.º e ss. (mandato — aplicável subsidiariamente)",
+    "para": "- Lei n.º 15/2013 (RJAMI), na redação do DL 102/2017 — arts. 16.º (forma, conteúdo, exclusividade e modelos aprovados pelo IMPIC), 17.º (deveres para com os clientes e destinatários), 19.º (remuneração)\n- Art. 18.º Lei 15/2013 (quantias prestadas pelos destinatários, que ficam depositadas à guarda da mediadora). A lei não regula a cessação do contrato: aplicam-se as regras gerais [■ VERIFICAR: revogação unilateral pelo cliente — jurisprudência]\n- Código Civil — arts. 1154.º, 1156.º e 1157.º e ss. CC (prestação de serviço; regras do mandato aplicáveis com as necessárias adaptações)",
+    "motivo": "O art. 17.º trata dos deveres da mediadora e o art. 18.º das quantias recebidas; a lei não tem norma sobre a cessação.",
+    "fonte": "https://diariodarepublica.pt/redirect/LinkFicheiroAntigo.aspx?conteudoId=257806"
+   },
+   {
+    "de": "- Regulação pela ASAE e pelo IMPIC [■ VERIFICAR: entidade supervisora atual]",
+    "para": "- Regulação, supervisão e fiscalização pelo IMPIC, I. P. (a versão original da lei refere o InCI — arts. 2.º, n.º 2, e 26.º; o DL 102/2017 já atribui ao IMPIC a aprovação dos modelos de contrato)",
+    "motivo": "A lei atribui a regulação e fiscalização ao instituto público do imobiliário (hoje IMPIC), não à ASAE.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2763&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "nos termos do art. 16.º, n.º 4, da Lei n.º 15/2013. Durante o prazo do contrato, o Comitente não poderá contratar outros mediadores nem realizar o negócio diretamente [ou: salvo se diretamente com o comprador já angariado pela Mediadora], sob pena de [consequências definidas].\"",
+    "para": "nos termos e para os efeitos do art. 16.º, n.º 2, al. g), da Lei n.º 15/2013. Durante o prazo do contrato, o Comitente não poderá contratar outros mediadores [exclusividade reforçada, só se expressamente acordada: nem realizar o negócio diretamente] [ou: salvo se diretamente com o comprador já angariado pela Mediadora], sob pena de [consequências definidas].\" Os efeitos da exclusividade têm de ficar especificados no contrato; a exclusividade simples só afasta outros mediadores, pelo que a proibição de o Comitente vender diretamente tem de constar expressamente.",
+    "motivo": "Remissão errada (art. 16.º, n.º 4) e, segundo o STJ, a exclusividade simples não impede o comitente de concluir o negócio por si.",
+    "fonte": "https://www.dgsi.pt/jstj.nsf/954f0ce6ad9dd8b980256b5f003fa814/40d299edf7e9dcb880258998002b780f"
+   },
+   {
+    "de": "O Comitente pode contratar outras empresas de mediação e realizar diretamente o negócio, sem obrigação de comissão.\"",
+    "para": "O Comitente pode contratar outras empresas de mediação e realizar diretamente o negócio, sem obrigação de comissão, salvo se o negócio concluído resultar da atividade da Mediadora (art. 19.º, n.º 1, da Lei n.º 15/2013).\"",
+    "motivo": "Sem exclusividade, a comissão continua devida se o negócio resultar da atividade da mediadora.",
+    "fonte": "https://diariodarepublica.pt/redirect/LinkFicheiroAntigo.aspx?conteudoId=257806"
+   },
+   {
+    "de": "[Renovação automática / sem renovação automática].",
+    "para": "[Renovação automática / sem renovação automática]. Se o contrato for omisso quanto ao prazo, considera-se celebrado por seis meses (art. 16.º, n.º 3, da Lei n.º 15/2013).",
+    "motivo": "Prazo supletivo legal.",
+    "fonte": "https://diariodarepublica.pt/redirect/LinkFicheiroAntigo.aspx?conteudoId=257806"
+   },
+   {
+    "de": "A comissão só é devida se o negócio se concluir por resultado direto da atividade da Mediadora (art. 19.º Lei 15/2013).",
+    "para": "A comissão é devida com a conclusão e perfeição do negócio visado pelo exercício da mediação [ou: com a celebração do contrato-promessa, se assim se convencionar] (art. 19.º, n.º 1, da Lei n.º 15/2013). [Se exclusividade:] É igualmente devida se o negócio não se concretizar por causa imputável ao Comitente (art. 19.º, n.º 2).",
+    "motivo": "Reproduz o art. 19.º, n.os 1 e 2.",
+    "fonte": "https://diariodarepublica.pt/redirect/LinkFicheiroAntigo.aspx?conteudoId=257806"
+   },
+   {
+    "de": "- [ ] AMI da mediadora identificado",
+    "para": "- [ ] AMI da mediadora identificado\n- [ ] Ónus e encargos do imóvel, taxa de IVA e seguro de responsabilidade civil (apólice e seguradora) indicados (art. 16.º, n.º 2)",
+    "motivo": "Elementos obrigatórios cuja falta gera nulidade.",
+    "fonte": "https://diariodarepublica.pt/redirect/LinkFicheiroAntigo.aspx?conteudoId=257806"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar que a Lei n.º 15/2013 não sofreu alterações posteriores ao DL 102/2017 (não foi possível obter o texto consolidado em linha; conferiu-se o texto original e o DL 102/2017).",
+   "Se a mediadora usar o modelo aprovado por portaria, confirmar o diploma em vigor [■ VERIFICAR: Portaria n.º 228/2018] e o depósito junto do IMPIC.",
+   "A revogação unilateral do contrato pelo cliente e a indemnização da mediadora não têm regime na lei; conferir a jurisprudência antes de redigir a cláusula 7.ª.",
+   "O direito à remuneração do art. 19.º, n.º 2, exige, segundo a jurisprudência, prova de interessado real e de causa imputável ao cliente (Ac. STJ proc. 11768/19.0T8LSB.L1.S1)."
+  ],
+  "fontes": [
+   "https://diariodarepublica.pt/redirect/LinkFicheiroAntigo.aspx?conteudoId=257806",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2763&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.dgsi.pt/jstj.nsf/954f0ce6ad9dd8b980256b5f003fa814/40d299edf7e9dcb880258998002b780f",
+   "https://www.dgsi.pt/jtrl.nsf/33182fc732316039802565fa00497eec/8db1a91fa1a5e006802587c9004ff36f"
+  ]
+ },
+ {
+  "codigo": "IMO-020",
+  "veredicto": "corrigida",
+  "resumo": "A ficha mandava calcular a permilagem só pela área, quando o art. 1418.º, n.º 1, CC exige o valor relativo de cada fração no valor total do prédio, e omitia a nulidade do título se o destino não coincidir com o projeto aprovado (n.º 3). Dizia que as alterações de fachada exigem aprovação unânime, quando o art. 1422.º, n.º 3, CC exige maioria de dois terços do valor total do prédio. Corrigiram-se ainda a alínea do registo (art. 2.º, n.º 1, al. b), do Código do Registo Predial, e não al. d)), o intervalo da administração do condomínio (arts. 1430.º a 1438.º CC) e acrescentou-se o documento camarário do art. 59.º do Código do Notariado.",
+  "substituicoes": [
+   {
+    "de": "— NUNCA inventes permilagens — calculam-se em função das áreas relativas de cada fração.",
+    "para": "— NUNCA inventes permilagens: o título fixa o valor relativo de cada fração, expresso em percentagem ou permilagem do valor total do prédio (art. 1418.º, n.º 1, CC); a área é o critério mais usado, mas não o único (o piso, a localização e o destino podem pesar no valor).",
+    "motivo": "A lei manda fixar o valor relativo de cada fração, não a sua área relativa.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1418&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Arts. 1428.º a 1438.º CC (administração do condomínio)\n- Código do Registo Predial (constituição da PH sujeita a registo)",
+    "para": "- Arts. 1430.º a 1438.º CC (administração das partes comuns do edifício)\n- Art. 2.º, n.º 1, al. b), do Código do Registo Predial (constituição da PH sujeita a registo)\n- Art. 59.º do Código do Notariado (o instrumento de constituição só pode ser lavrado com documento da câmara municipal comprovativo de que as frações satisfazem os requisitos legais — art. 1415.º CC; no prédio construído para transmissão em frações, basta exibir o projeto aprovado)",
+    "motivo": "O art. 1428.º trata da destruição do edifício; faltava o documento camarário exigido para lavrar o título.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=457A0059&nid=457&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Cálculo de permilagens (= área da fração / área total × 1000)",
+    "para": "- Cálculo das permilagens: valor relativo de cada fração no valor total do prédio (art. 1418.º, n.º 1, CC); se o critério for só a área, indica-o (área da fração / soma das áreas das frações × 1000) [■ VERIFICAR: critério adotado pelo técnico]",
+    "motivo": "A fórmula pela área não é a regra legal.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1418&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Destino das frações (habitação, comércio, garagem)",
+    "para": "- Destino das frações (habitação, comércio, garagem), coincidente com o projeto aprovado pela câmara municipal (a divergência gera a nulidade do título — art. 1418.º, n.º 3, CC)",
+    "motivo": "A não coincidência entre o fim e o projeto aprovado determina a nulidade do título.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1418&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "— Proibições: obras que afetem a estrutura, alterações de fachada sem aprovação unânime",
+    "para": "— Proibições: obras que prejudiquem a segurança, a linha arquitetónica ou o arranjo estético do edifício (art. 1422.º, n.º 2, al. a), CC); as obras que modifiquem a linha arquitetónica ou o arranjo estético só com prévia autorização da assembleia, por maioria representativa de dois terços do valor total do prédio (art. 1422.º, n.º 3, CC)",
+    "motivo": "A lei não exige unanimidade para alterar a fachada, mas maioria de dois terços do valor total do prédio.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1422&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "nos termos do art. 2.º, n.º 1, al. d) CRP.",
+    "para": "nos termos do art. 2.º, n.º 1, al. b), do Código do Registo Predial.",
+    "motivo": "A al. d) trata das operações de transformação fundiária; a PH está na al. b). «CRP» confunde-se com a Constituição.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=488A0002&nid=488&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Destino de cada fração indicado",
+    "para": "- [ ] Destino de cada fração indicado e coincidente com o projeto aprovado (art. 1418.º, n.º 3, CC)\n- [ ] Documento camarário comprovativo dos requisitos da propriedade horizontal (art. 59.º do Código do Notariado)",
+    "motivo": "Coerência com as regras acrescentadas.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=457A0059&nid=457&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar com o técnico o critério de fixação das permilagens (valor relativo, não só a área).",
+   "Confirmar se o DL 10/2024 alterou, no caso concreto, a instrução do título junto do notário ou do registo; o art. 59.º do Código do Notariado consultado mantém a exigência do documento camarário.",
+   "Se o título incluir o regulamento, ver o art. 1418.º, n.º 2, al. b), CC; o art. 1429.º-A CC só o torna obrigatório com mais de quatro condóminos."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1415&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1417&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1418&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1422&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1429A&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=488A0002&nid=488&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=457A0059&nid=457&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+  ]
+ },
+ {
+  "codigo": "IMO-025",
+  "veredicto": "corrigida",
+  "resumo": "A ficha qualificava como nulidade a falta de convocatória e a deliberação fora da ordem de trabalhos; a regra é a anulabilidade (art. 1433.º, n.º 1, CC) e a jurisprudência trata esses vícios como anuláveis, ficando a nulidade para a violação de normas imperativas — o erro podia levar a perder o prazo de caducidade. O prazo de 60 dias estava no n.º 3 (é o n.º 4) e omitia a assembleia extraordinária (n.º 2), a arbitragem (n.º 3) e o prazo de 20 dias. Corrigiram-se ainda o número do prazo da convocatória (art. 1432.º, n.º 1), o exemplo de maioria de dois terços (que é a das inovações, art. 1425.º CC), a suspensão da deliberação (procedimento cautelar próprio, arts. 380.º e 383.º CPC) e a designação do tribunal.",
+  "substituicoes": [
+   {
+    "de": "— O prazo de impugnação é de 60 dias a contar da deliberação ou do conhecimento pelo condómino ausente (art. 1433.º, n.º 3 CC).",
+    "para": "— O direito de propor a ação de anulação caduca no prazo de 60 dias sobre a data da deliberação ou, se tiver sido pedida assembleia extraordinária para a revogar, de 20 dias sobre a deliberação desta (art. 1433.º, n.º 4, CC). A assembleia extraordinária pode ser exigida ao administrador no prazo de 10 dias contado da deliberação (presentes) ou da sua comunicação (ausentes) e realiza-se no prazo de 20 dias (n.º 2); no prazo de 30 dias, qualquer condómino pode sujeitar a deliberação a um centro de arbitragem (n.º 3). [■ VERIFICAR: contagem dos 60 dias para o condómino ausente — a lei refere a data da deliberação; confirmar a jurisprudência]",
+    "motivo": "O prazo de caducidade está no n.º 4 e conta-se da deliberação; faltavam a assembleia extraordinária e a arbitragem.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1433&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "— Distingue nulidade (vícios graves — ex.: ausência total de convocatória, deliberação sobre matéria fora da ordem de trabalhos) de anulabilidade (vícios procedimentais — ex.: quórum insuficiente, falta de maioria qualificada).",
+    "para": "— Distingue a anulabilidade, que é a regra (art. 1433.º, n.º 1, CC: deliberações contrárias à lei ou a regulamentos anteriormente aprovados — incluindo vícios de convocatória, deliberação sobre assunto fora da ordem de trabalhos, quórum insuficiente ou falta de maioria qualificada), da nulidade (violação de normas imperativas) e da ineficácia (assuntos que exorbitam da competência da assembleia, como os direitos sobre as frações autónomas). A jurisprudência trata em regra a falta de convocação como anulabilidade: na dúvida, propõe a ação dentro do prazo de caducidade.",
+    "motivo": "A falta de convocação e a deliberação fora da ordem de trabalhos são, em regra, anuláveis; a nulidade fica para a violação de normas imperativas.",
+    "fonte": "https://www.dgsi.pt/jtrg.nsf/86c25a698e4e7cb7802579ec004d3832/36d6cd9b9a6f3c138025864500537e3c"
+   },
+   {
+    "de": "- O prazo de 60 dias foi cumprido?",
+    "para": "- Foi pedida assembleia extraordinária para revogação (art. 1433.º, n.º 2, CC)? O prazo de caducidade (60 dias, ou 20 dias após a assembleia extraordinária) foi cumprido?",
+    "motivo": "O pedido de assembleia extraordinária altera o prazo de caducidade.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1433&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Art. 1432.º CC (quórum e maiorias para as diferentes matérias)",
+    "para": "- Art. 1432.º CC (quórum e maiorias para as diferentes matérias: maioria do capital investido e segunda convocatória, n.os 5 a 8; as maiorias especiais estão noutros artigos, ex.: arts. 1422.º, n.º 3, e 1425.º CC)",
+    "motivo": "O art. 1432.º só fixa a regra geral; as maiorias especiais estão noutras normas.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1425&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Pretensão acessória (ex.: suspensão da deliberação pendente a ação)",
+    "para": "- Procedimento cautelar de suspensão da deliberação, se a execução puder causar dano apreciável (art. 1433.º, n.º 5, CC; arts. 380.º e 383.º CPC — requerimento no prazo de 10 dias)",
+    "motivo": "A suspensão requer-se em procedimento cautelar próprio, com prazo de 10 dias.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0383&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "**AO TRIBUNAL [JUDICIAL / DE COMARCA] DE [LOCALIDADE]**",
+    "para": "**TRIBUNAL JUDICIAL DA COMARCA DE [COMARCA] — JUÍZO [LOCAL CÍVEL / CENTRAL CÍVEL] DE [LOCALIDADE]** [■ VERIFICAR: juízo central cível se o valor da ação exceder 50 000 € (art. 117.º, n.º 1, al. a), da Lei n.º 62/2013 — LOSJ)]",
+    "motivo": "Designação dos tribunais segundo a LOSJ (comarca e juízo).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1974A0117&nid=1974&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "previsto no art. 1432.º, n.º 2 CC",
+    "para": "previsto no art. 1432.º, n.º 1, CC",
+    "motivo": "O prazo de 10 dias da convocatória está no n.º 1; o n.º 2 trata da convocatória por correio eletrónico.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1432&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "\"A deliberação foi tomada por maioria simples quando a matéria (obras nas partes comuns de valor superior ao orçamento anual) exigia maioria qualificada de dois terços.\"",
+    "para": "\"A deliberação aprovou, por maioria simples, obras que constituem inovação nas partes comuns, quando exigia a aprovação da maioria dos condóminos, representativa de dois terços do valor total do prédio (art. 1425.º, n.º 1, CC).\"",
+    "motivo": "A maioria de dois terços é a das inovações, não a de obras acima do orçamento.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1425&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "c) [Se aplicável:] Seja decretada a suspensão preventiva da deliberação até decisão final;",
+    "para": "c) [A suspensão da deliberação não se pede aqui: requer-se em procedimento cautelar próprio, no prazo de 10 dias (art. 1433.º, n.º 5, CC; arts. 380.º e 383.º CPC); a petição apenas o menciona, se tiver sido instaurado;]",
+    "motivo": "A suspensão de deliberações anuláveis da assembleia de condóminos segue o procedimento cautelar dos arts. 380.º e 383.º CPC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0380&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Prazo de 60 dias verificado e respeitado",
+    "para": "- [ ] Prazo de caducidade verificado e respeitado (60 dias, ou 20 dias após a assembleia extraordinária — art. 1433.º, n.º 4, CC)",
+    "motivo": "Coerência com a regra corrigida.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1433&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Pedido principal (nulidade / anulação) e acessório (suspensão)",
+    "para": "- [ ] Pedido principal (nulidade / anulação) e, se for o caso, suspensão requerida em procedimento cautelar no prazo de 10 dias (arts. 380.º e 383.º CPC)",
+    "motivo": "Coerência com o pedido corrigido.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0383&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Dentro dos 60 dias? [sim/não]",
+    "para": "- Foi pedida assembleia extraordinária para revogação? [não / sim — data da sua deliberação]\n- Dentro do prazo (60 dias, ou 20 dias após a assembleia extraordinária)? [sim/não]",
+    "motivo": "Dado necessário para contar o prazo de caducidade.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1433&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Qualificar o vício concreto: a orientação dominante trata a falta de convocação e as deliberações fora da ordem de trabalhos como anuláveis (Ac. TRC proc. 473/13.1TBLMG-A.C1; Ac. TRG proc. 392/18.5T8VPA.G1; Ac. STJ proc. 6768/19.3T8LSB.L1.S1).",
+   "Confirmar a contagem do prazo para o condómino ausente (o art. 1433.º, n.º 4, CC refere a data da deliberação).",
+   "Legitimidade passiva: o condomínio é representado em juízo pelo administrador (arts. 1433.º, n.º 6, e 1437.º, n.º 1, CC); confirmar a orientação jurisprudencial atual quanto a demandar o condomínio ou os condóminos que aprovaram.",
+   "Ponderar o efeito sanatório da presença sem protesto e do não pedido de assembleia extraordinária, invocados por alguma jurisprudência."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1432&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1433&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1425&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1437&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0380&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0383&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1974A0117&nid=1974&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.dgsi.pt/jstj.nsf/954f0ce6ad9dd8b980256b5f003fa814/f74626629600a9bb80258758004ea9bd?OpenDocument=",
+   "https://www.dgsi.pt/jtrg.nsf/86c25a698e4e7cb7802579ec004d3832/36d6cd9b9a6f3c138025864500537e3c",
+   "https://www.dgsi.pt/jtrc.nsf/8fe0e606d8f56b22802576c0005637dc/ad17141c7a60c10b8025808a00420510"
+  ]
+ }
+]

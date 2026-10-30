@@ -6,7 +6,8 @@ titulo_en: "Opinion on a Project's Conformity with the Municipal Master Plan"
 descricao: "Gera um parecer jurídico sobre a conformidade de um projeto de arquitetura ou de urbanização com as disposições do Plano Diretor Municipal (PDM) aplicável, analisando os parâmetros urbanísticos (COS, CUS, altura, recuos), a qualificação do solo e as condicionantes legais, para instruir o processo de licenciamento ou fundamentar a defesa num processo de impugnação."
 descricao_en: "Generates a legal opinion on whether an architectural or urbanisation project conforms to the provisions of the applicable Municipal Master Plan (Plano Diretor Municipal — PDM), analysing the planning parameters (site coverage ratio — COS, floor area ratio — CUS, height, setbacks), the land qualification and the legal constraints, to support the licensing application or ground the defence in a challenge."
 ambito: nacional
-estado_citacoes: "conferidas 0 · corrigidas 0 · por conferir 1"
+estado_citacoes: "conferidas 0 · corrigidas 0 · por conferir 3"
+revisao_tecnica: "2026-10-30 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
@@ -14,7 +15,8 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 
 > **Âmbito:** nacional · **Área:** Direito do Urbanismo e do Território · **Código:** URB-014
 > **EN:** Opinion on a Project's Conformity with the Municipal Master Plan. Generates a legal opinion on whether an architectural or urbanisation project conforms to the provisions of the applicable Municipal Master Plan (Plano Diretor Municipal — PDM), analysing the planning parameters (site coverage ratio — COS, floor area ratio — CUS, height, setbacks), the land qualification and the legal constraints, to support the licensing application or ground the defence in a challenge.
-> **Citações:** conferidas 0 · corrigidas 0 · por conferir 1. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 0 · corrigidas 0 · por conferir 3. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-30 — corrigida (3 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
 Gera um parecer jurídico sobre a conformidade de um projeto de arquitetura ou de urbanização com as disposições do Plano Diretor Municipal (PDM) aplicável, analisando os parâmetros urbanísticos (COS, CUS, altura, recuos), a qualificação do solo e as condicionantes legais, para instruir o processo de licenciamento ou fundamentar a defesa num processo de impugnação.
 
@@ -43,10 +45,10 @@ Apresenta dentro de um bloco <analise_do_caso>:
 
 ### ETAPA 2 — ANÁLISE JURÍDICA (Fundamentação)
 Apresenta dentro de um bloco <fundamentos_juridicos>:
-- Artigos do RJIGT sobre conteúdo dos planos e parâmetros urbanísticos (arts. 127.º e ss.)
+- Artigos do RJIGT (DL n.º 80/2015) sobre o PDM: objeto, conteúdo material e conteúdo documental (arts. 95.º a 97.º do RJIGT); nulidade dos atos praticados em violação de plano municipal ou intermunicipal (art. 130.º do RJIGT)
 - Artigos do Regulamento do PDM do município aplicáveis [■ VERIFICAR: número e data do PDM, artigos concretos]
-- Definições legais (COS, CUS, área bruta de construção — RJIGT e portarias) [■ VERIFICAR]
-- Normas de transição do PDM (se o plano foi alterado após construção)
+- Conceitos técnicos (índices de ocupação, de utilização e de impermeabilização do solo, área de construção, altura da fachada): Decreto Regulamentar n.º 5/2019, de 27 de setembro, de uso obrigatório nos instrumentos de gestão territorial, que revogou o Decreto Regulamentar n.º 9/2009; um PDM anterior pode ainda usar COS, CUS ou área bruta de construção, a ler com as definições do próprio regulamento do PDM [■ VERIFICAR: conceitos e definições usados no PDM aplicável]
+- Normas de transição do PDM (se o plano foi alterado após construção) e, se o PDM ainda não incluiu as regras de classificação e qualificação do solo do DL n.º 80/2015, a suspensão, decretada pela CCDR, das normas sobre áreas urbanizáveis ou de urbanização programada (art. 199.º, n.os 2 a 4 e 7, do RJIGT)
 - Jurisprudência sobre interpretação de PDM [■ VERIFICAR: acórdãos relevantes]
 
 ### ETAPA 3 — CONSTRUÇÃO ARGUMENTATIVA
@@ -175,4 +177,6 @@ Parecer jurídico estruturado sobre a conformidade do projeto com o PDM, com an�
 
 | Citação | Estado | Nota |
 |---|---|---|
-| arts. 127.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| arts. 95.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 130.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 199.º | por conferir [■ VERIFICAR] | diploma não identificado |

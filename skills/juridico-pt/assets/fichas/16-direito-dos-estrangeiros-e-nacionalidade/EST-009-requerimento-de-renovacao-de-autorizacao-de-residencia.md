@@ -6,7 +6,8 @@ titulo_en: "Application for Renewal of a Residence Permit"
 descricao: "Gera um requerimento de renovação de autorização de residência temporária para apresentar na AIMA, verificando o cumprimento das condições de renovação previstas no artigo 78.º da Lei n.º 23/2007, com checklist de documentação atualizada e argumentação para casos em que possam ter ocorrido mudanças na situação do cliente."
 descricao_en: "Generates an application for renewal of a temporary residence permit to be submitted to AIMA, checking compliance with the renewal conditions laid down in Article 78 of Law No. 23/2007, with an updated documentation checklist and arguments for cases where the client's situation may have changed."
 ambito: nacional
-estado_citacoes: "conferidas 0 · corrigidas 0 · por conferir 8"
+estado_citacoes: "conferidas 0 · corrigidas 0 · por conferir 12"
+revisao_tecnica: "2026-10-30 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
@@ -14,7 +15,8 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 
 > **Âmbito:** nacional · **Área:** Direito dos Estrangeiros e Nacionalidade · **Código:** EST-009
 > **EN:** Application for Renewal of a Residence Permit. Generates an application for renewal of a temporary residence permit to be submitted to AIMA, checking compliance with the renewal conditions laid down in Article 78 of Law No. 23/2007, with an updated documentation checklist and arguments for cases where the client's situation may have changed.
-> **Citações:** conferidas 0 · corrigidas 0 · por conferir 8. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 0 · corrigidas 0 · por conferir 12. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-30 — corrigida (5 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
 Gera um requerimento de renovação de autorização de residência temporária para apresentar na AIMA, verificando o cumprimento das condições de renovação previstas no artigo 78.º da Lei n.º 23/2007, com checklist de documentação atualizada e argumentação para casos em que possam ter ocorrido mudanças na situação do cliente.
 
@@ -27,7 +29,7 @@ Ficha de trabalho para preparar este documento. As regras da casa prevalecem sob
 - Se faltarem dados, assinala [■ VERIFICAR: o que é necessário]
 - Identifica sempre o artigo de renovação correto para o tipo de autorização
 - Usa português europeu rigoroso — sem brasileirismos
-- Alerta sempre para prazos: a renovação deve ser pedida antes do vencimento
+- Alerta sempre para prazos: a renovação deve ser pedida até 30 dias antes de expirar a validade da autorização (art. 78.º, n.º 1, da Lei n.º 23/2007)
 - Aborda alterações da situação laboral/pessoal ocorridas durante o período anterior
 
 ---
@@ -47,9 +49,9 @@ Apresente dentro de um bloco <analise_do_caso>:
 ### ETAPA 2 — ANÁLISE JURÍDICA (Fundamentação)
 Apresente dentro de um bloco <fundamentos_juridicos>:
 - Art. 78.º da Lei n.º 23/2007 — condições gerais de renovação
-- Artigo específico do tipo de autorização (ex: art. 88.º/2 para trabalho subordinado, art. 92.º para estudo)
+- Artigo específico do tipo de autorização (ex.: art. 88.º, n.º 1, para trabalho subordinado; art. 91.º para estudantes do ensino superior; art. 92.º para estudantes do ensino secundário)
 - Art. 85.º — causas de cancelamento que podem impedir a renovação
-- Efeito suspensivo do pedido de renovação tempestivo (art. 78.º, n.º 5) [■ VERIFICAR]
+- Efeitos do recibo do pedido de renovação, que vale como título de residência durante 60 dias, prazo renovável (art. 78.º, n.º 7)
 - Consequências do atraso na apresentação do pedido
 
 ### ETAPA 3 — CONSTRUÇÃO ARGUMENTATIVA
@@ -107,14 +109,14 @@ Requer-se a renovação da Autorização de Residência para [finalidade], pelo 
 - [ ] Declaração de IRS do último ano (ou comprovativo de isenção)
 - [ ] Comprovativo de situação contributiva regularizada (SS)
 - [ ] Comprovativo de situação tributária regularizada (AT)
-- [ ] Certificado de registo criminal português (recente)
+- [ ] Antecedentes criminais em Portugal: verificados pela AIMA por consulta ao sistema de informação do registo criminal português (art. 42.º-D do Decreto Regulamentar n.º 84/2007)
 - [ ] Fotografias tipo passe
 - [ ] Taxa de renovação [■ VERIFICAR: valor atual]
 - [ ] Documentos de alterações ocorridas (se aplicável): novo contrato de trabalho, nova matrícula, etc.
 
 ### ETAPA 5 — FORMULAÇÃO FINAL (Validação)
 Apresente dentro de um bloco <checklist_validacao>:
-- [ ] Pedido de renovação apresentado antes do vencimento do título atual
+- [ ] Pedido de renovação apresentado até 30 dias antes do termo de validade do título atual (art. 78.º, n.º 1)
 - [ ] Tipo de autorização e artigo de renovação corretos identificados
 - [ ] Manutenção dos motivos de residência demonstrada
 - [ ] Alterações ocorridas documentadas e justificadas
@@ -163,11 +165,15 @@ Apresente dentro de um bloco <checklist_validacao>:
 
 | Citação | Estado | Nota |
 |---|---|---|
+| art. 78.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 78.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 78.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | Art. 78.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | Art. 78.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 88.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 91.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 92.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | Art. 85.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| art. 78.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | artigo 78.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | artigo 78.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 42.º-D | por conferir [■ VERIFICAR] | diploma não identificado |

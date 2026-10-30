@@ -6,7 +6,8 @@ titulo_en: "Calculation of Compensation for Flight Cancellation / Overbooking"
 descricao: "Realiza o cálculo detalhado da indemnização devida ao passageiro ao abrigo do Regulamento (CE) n.º 261/2004, considerando: indemnização fixa por passageiro (tabela distância), reduções por reencaminhamento alternativo, cumulação com despesas adicionais (art. 9.º), prazo de prescrição e possibilidade de litigância eficiente. Útil para qualificar se o processo é economicamente viável e para preparar a reclamação com valores corretos."
 descricao_en: "Performs a detailed calculation of the compensation due to the passenger under Regulation (EC) No 261/2004, taking into account the fixed compensation per passenger (distance table), reductions for alternative re-routing, accumulation with additional expenses (Article 9), the limitation period and the possibility of cost-effective litigation. Useful for assessing whether the claim is economically viable and for preparing the complaint with the correct amounts."
 ambito: nacional
-estado_citacoes: "conferidas 0 · corrigidas 0 · por conferir 11"
+estado_citacoes: "conferidas 2 · corrigidas 0 · por conferir 15"
+revisao_tecnica: "2026-10-28 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
@@ -14,7 +15,8 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 
 > **Âmbito:** nacional · **Área:** Direito do Consumo · **Código:** CNS-020
 > **EN:** Calculation of Compensation for Flight Cancellation / Overbooking. Performs a detailed calculation of the compensation due to the passenger under Regulation (EC) No 261/2004, taking into account the fixed compensation per passenger (distance table), reductions for alternative re-routing, accumulation with additional expenses (Article 9), the limitation period and the possibility of cost-effective litigation. Useful for assessing whether the claim is economically viable and for preparing the complaint with the correct amounts.
-> **Citações:** conferidas 0 · corrigidas 0 · por conferir 11. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 2 · corrigidas 0 · por conferir 15. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-28 — corrigida (4 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
 Realiza o cálculo detalhado da indemnização devida ao passageiro ao abrigo do Regulamento (CE) n.º 261/2004, considerando: indemnização fixa por passageiro (tabela distância), reduções por reencaminhamento alternativo, cumulação com despesas adicionais (art. 9.º), prazo de prescrição e possibilidade de litigância eficiente. Útil para qualificar se o processo é economicamente viável e para preparar a reclamação com valores corretos.
 
@@ -24,8 +26,9 @@ Ficha de trabalho para preparar este documento. As regras da casa prevalecem sob
 
 ## Regras obrigatórias
 - Verifica o âmbito (voo UE partindo / voo chegando a UE com transportadora UE — art. 3.º)
-- Usa a tabela correta: €250 (≤1.500 km) / €400 (1.501–3.500 km) / €600 (>3.500 km intra-UE e demais rotas)
-- Redução de 50%: se reencaminhamento para chegada ≤2h do previsto (≤1.500 km) / ≤3h (1.501–3.500 km) / ≤4h (>3.500 km) — art. 7.º n.º 2
+- Usa a tabela correta: €250 (≤1.500 km) / €400 (voos intracomunitários com mais de 1.500 km, qualquer que seja a distância, e restantes voos entre 1.500 e 3.500 km) / €600 (restantes voos com mais de 3.500 km) — art. 7.º, n.º 1
+- Redução de 50%: se reencaminhamento para chegada ≤2h do previsto (≤1.500 km) / ≤3h (voos intracomunitários com mais de 1.500 km e restantes voos entre 1.500 e 3.500 km) / ≤4h (restantes voos) — art. 7.º n.º 2
+- Colocação em classe inferior (downgrade): não segue a tabela do art. 7.º, mas o reembolso de 30 %, 50 % ou 75 % do preço do bilhete, consoante a distância (art. 10.º, n.º 2)
 - Para overbooking: mesma tabela + direito de escolha entre reembolso ou reencaminhamento (art. 4.º)
 - Circunstâncias extraordinárias: elimina a indemnização fixa MAS não as despesas de assistência (art. 9.º)
 - NUNCA inventes distâncias ou dados; usa [■ VERIFICAR] quando não souber a distância
@@ -50,7 +53,7 @@ Verifica em <fundamentos_juridicos>:
 - Art. 7.º n.º 2 (redução 50% por reencaminhamento adequado)
 - Art. 8.º Reg. 261/2004 (reembolso do bilhete se viagem já não tem interesse)
 - Art. 9.º Reg. 261/2004 (despesas de assistência — refeições, alojamento, transporte, comunicação)
-- Prazo de prescrição: [■ VERIFICAR: lei da transportadora — 3 anos é o mais comum por analogia com responsabilidade contratual]
+- Prazo de prescrição: o prazo para propor a ação é o fixado pela lei de cada Estado-Membro (TJUE, acórdão de 22/11/2012, Moré, C-139/11) [■ VERIFICAR: posição atual dos tribunais portugueses — prazo de 2 anos do art. 35.º da Convenção de Montreal, de 3 anos do art. 498.º CC ou ordinário de 20 anos do art. 309.º CC]
 - Para distância: usar a regra da rota de círculo máximo (great circle distance) conforme critério do Reg. 261/2004
 
 ### ETAPA 3 — CONSTRUÇÃO
@@ -62,7 +65,7 @@ Calcula em <calculo_indemnizacao>:
 **PASSO 2: Distância**
 - Rota: [origem] → [destino]
 - Distância estimada: [km] [■ VERIFICAR se não disponível]
-- Escalão: [ ] ≤1.500 km [ ] 1.501–3.500 km [ ] >3.500 km
+- Escalão: [ ] ≤1.500 km [ ] voo intracomunitário >1.500 km ou outro voo entre 1.500 e 3.500 km [ ] restantes voos >3.500 km
 
 **PASSO 3: Indemnização base por passageiro**
 - Valor base: €[250/400/600]
@@ -95,7 +98,7 @@ Calcula em <calculo_indemnizacao>:
 | **TOTAL** | **€___** |
 
 **PASSO 9: Viabilidade do processo**
-- Valor total vs. custos do processo (RAL / tribunal de pequenas causas)
+- Valor total vs. custos do processo (RAL / julgado de paz / tribunal judicial)
 - Recomendação: [via mais eficiente]
 
 ### ETAPA 5 — VALIDAÇÃO
@@ -152,6 +155,9 @@ Apresenta em <checklist_validacao>:
 |---|---|---|
 | art. 3.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 7.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 7.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 7.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 10.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 4.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 9.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 9.º | por conferir [■ VERIFICAR] | diploma não identificado |
@@ -160,4 +166,7 @@ Apresenta em <checklist_validacao>:
 | Art. 7.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | Art. 8.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | Art. 9.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 35.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 498.º CC | conferida (epígrafe) — Prescrição |  |
+| art. 309.º CC | conferida (índice) |  |
 | art. 8.º | por conferir [■ VERIFICAR] | diploma não identificado |

@@ -106,7 +106,7 @@ Dentro de <checklist_validacao>:
 **ESTRUTURA DE CAPITAL:**
 - Sócio A: [nome], [NIF], [%], [país de residência]
 - Sócio B: [nome], [NIF], [%], [país de residência]
-- (repetir para todos os sócios ou accionistas)
+- (repetir para todos os sócios ou acionistas)
 
 **ACORDOS PARASSOCIAIS OU DIREITOS ESPECIAIS:**
 - [descrever se existirem]

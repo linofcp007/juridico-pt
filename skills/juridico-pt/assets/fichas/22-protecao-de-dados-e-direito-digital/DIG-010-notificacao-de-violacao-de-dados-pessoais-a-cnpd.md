@@ -3,7 +3,7 @@ codigo: DIG-010
 area: "Proteção de Dados e Direito Digital"
 titulo: "Notificação de Violação de Dados Pessoais à CNPD"
 titulo_en: "Personal Data Breach Notification to the CNPD"
-descricao: "Gera a notificação de violação de dados pessoais à CNPD conforme ao artigo 33.º do RGPD, com análise de risco, descrição do incidente, medidas adoptadas e avaliação da necessidade de comunicação aos titulares afetados, no prazo de 72 horas."
+descricao: "Gera a notificação de violação de dados pessoais à CNPD conforme ao artigo 33.º do RGPD, com análise de risco, descrição do incidente, medidas adotadas e avaliação da necessidade de comunicação aos titulares afetados, no prazo de 72 horas."
 descricao_en: "Generates the personal data breach notification to the National Data Protection Commission (CNPD) under Article 33 of the GDPR, with a risk analysis, a description of the incident, the measures taken and an assessment of whether the affected data subjects must be informed, within 72 hours."
 ambito: nacional
 estado_citacoes: "conferidas 7 · corrigidas 0 · por conferir 9"
@@ -18,7 +18,7 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 > **Ver também:** `playbooks/data-breach` — conteúdo do plugin sobre o mesmo tema. Usa-o primeiro.
 > **Citações:** conferidas 7 · corrigidas 0 · por conferir 9. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
 
-Gera a notificação de violação de dados pessoais à CNPD conforme ao artigo 33.º do RGPD, com análise de risco, descrição do incidente, medidas adoptadas e avaliação da necessidade de comunicação aos titulares afetados, no prazo de 72 horas.
+Gera a notificação de violação de dados pessoais à CNPD conforme ao artigo 33.º do RGPD, com análise de risco, descrição do incidente, medidas adotadas e avaliação da necessidade de comunicação aos titulares afetados, no prazo de 72 horas.
 
 ## Método
 
@@ -62,7 +62,7 @@ Define em <avaliacao_risco>:
 - Nível de risco: negligenciável / risco / risco elevado
 - Justificação para a classificação
 - Necessidade de comunicação a titulares (art. 34.º)?
-- Medidas de mitigação já adoptadas que reduzem o risco
+- Medidas de mitigação já adotadas que reduzem o risco
 
 ### ETAPA 4 — A NOTIFICAÇÃO À CNPD
 
@@ -111,7 +111,7 @@ Autoridade de Controlo: Comissão Nacional de Proteção de Dados (CNPD)
   [ ] Risco (não elevado) — risco para os titulares mas não elevado
   [x] Risco elevado — violação suscetível de resultar em risco elevado
 
-**SECÇÃO 5 — MEDIDAS ADOPTADAS E PREVISTAS**
+**SECÇÃO 5 — MEDIDAS ADOTADAS E PREVISTAS**
 - Medidas imediatas de contenção:
   [ex: bloqueio de acesso, revogação de credenciais, isolamento de sistema, notificação de subcontratante]
 - Medidas de remediação em curso:

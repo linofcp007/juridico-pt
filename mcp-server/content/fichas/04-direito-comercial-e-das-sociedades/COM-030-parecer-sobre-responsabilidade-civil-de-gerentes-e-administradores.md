@@ -6,7 +6,8 @@ titulo_en: "Legal Opinion on the Civil Liability of Managers and Directors"
 descricao: "Elabora um parecer jurídico fundamentado sobre a responsabilidade civil de gerentes e administradores de sociedades comerciais — responsabilidade para com a sociedade, para com os sócios e para com terceiros credores — ao abrigo dos arts. 72.º a 79.º do CSC."
 descricao_en: "Drafts a reasoned legal opinion on the civil liability of managers and directors of commercial companies — liability towards the company, towards the members and towards third-party creditors — under Articles 72 to 79 CSC."
 ambito: nacional
-estado_citacoes: "conferidas 1 · corrigidas 0 · por conferir 0"
+estado_citacoes: "conferidas 29 · corrigidas 0 · por conferir 3"
+revisao_tecnica: "2026-10-28 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
@@ -14,7 +15,8 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 
 > **Âmbito:** nacional · **Área:** Direito Comercial e das Sociedades · **Código:** COM-030
 > **EN:** Legal Opinion on the Civil Liability of Managers and Directors. Drafts a reasoned legal opinion on the civil liability of managers and directors of commercial companies — liability towards the company, towards the members and towards third-party creditors — under Articles 72 to 79 CSC.
-> **Citações:** conferidas 1 · corrigidas 0 · por conferir 0. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 29 · corrigidas 0 · por conferir 3. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-28 — corrigida (6 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
 Elabora um parecer jurídico fundamentado sobre a responsabilidade civil de gerentes e administradores de sociedades comerciais — responsabilidade para com a sociedade, para com os sócios e para com terceiros credores — ao abrigo dos arts. 72.º a 79.º do CSC.
 
@@ -23,8 +25,8 @@ Elabora um parecer jurídico fundamentado sobre a responsabilidade civil de gere
 Ficha de trabalho para preparar este documento. As regras da casa prevalecem sobre a ficha: registo de advogado, nunca afirmar inscrição na Ordem dos Advogados, citar só normas conferidas ou com `[■ VERIFICAR]`, e seguir o fluxo de `assets/redacao/redator.md`.
 
 ## Regras obrigatórias
-- Distinguir sempre: responsabilidade para com a sociedade (art. 72 CSC), para com sócios e terceiros (art. 79 CSC) e responsabilidade solidária dos administradores (art. 73 CSC)
-- Aplicar o standard do "gestor criterioso e ordenado" (art. 72/1 CSC) e a business judgment rule
+- Distinguir sempre: responsabilidade para com a sociedade (art. 72.º CSC), para com os credores sociais (art. 78.º CSC), para com sócios e terceiros (art. 79.º CSC) e solidariedade entre os responsáveis (art. 73.º CSC)
+- Aplicar o padrão do "gestor criterioso e ordenado" (art. 64.º, n.º 1, al. a), CSC) e a business judgment rule (art. 72.º, n.º 2, CSC)
 - NUNCA inventar jurisprudência — citar apenas se for amplamente conhecida; caso contrário indicar [■ VERIFICAR: jurisprudência relevante]
 - Marcar [■ VERIFICAR: facto a apurar] quando faltar elemento essencial
 - Português europeu formal, estrutura de parecer com epígrafe, desenvolvimento e conclusão
@@ -38,30 +40,30 @@ Analise em <analise_do_caso>:
 - Qualidade do responsável: gerente de Lda. ou administrador de SA?
 - Tipo de ato: omissão, decisão de gestão, conflito de interesses, concorrência ilícita?
 - Quem é o lesado: a própria sociedade, um sócio individualmente, ou credor externo?
-- Verificar se o ato é coberto por deliberação dos sócios (art. 72/4 CSC — exoneração de responsabilidade)
-- Prazo de prescrição: 5 anos (art. 174/1 CSC)
+- Verificar se o ato assenta em deliberação dos sócios, ainda que anulável (art. 72.º, n.º 5, CSC — exclui a responsabilidade para com a sociedade, mas não para com os credores sociais — art. 78.º, n.º 3, CSC)
+- Prazo de prescrição: 5 anos, contados do termo da conduta dolosa ou culposa (ou da sua revelação, se ocultada) e da produção do dano (art. 174.º, n.º 1, al. b), CSC, para os direitos da sociedade; n.º 2 para os de sócios e terceiros), ou o prazo mais longo da prescrição criminal, se o facto constituir crime (n.º 5)
 - Existe ação de responsabilidade já intentada ou é fase de análise prévia?
 
 ### ETAPA 2 — ANÁLISE JURÍDICA
 Identifique em <fundamentos_juridicos>:
 - Art. 64 CSC — deveres fiduciários: dever de cuidado e dever de lealdade
-- Art. 72 CSC — responsabilidade para com a sociedade; inversão do ónus de prova
-- Art. 72/2 CSC — business judgment rule (exclusão de responsabilidade se: informado, livre de conflito, critério racional)
-- Art. 73 CSC — responsabilidade solidária de todos os administradores
-- Art. 74 CSC — responsabilidade por deliberação dos sócios não exclui a do gerente se ilegal
-- Art. 75 CSC — ação social de responsabilidade (pode ser proposta pela sociedade ou, subsidiariamente, pelos sócios)
-- Art. 76/1 CSC — ação social intentada por sócios que representem 5% do capital (SA) ou qualquer sócio (Lda.)
-- Art. 77 CSC — renúncia e transação sobre responsabilidade
-- Art. 78 CSC — responsabilidade para com credores sociais (insuficiência do património)
-- Art. 79 CSC — responsabilidade direta para com sócios e terceiros (ato ilícito direto)
+- Art. 72.º CSC — responsabilidade para com a sociedade; presunção de culpa (n.º 1); isenção de quem não participou na deliberação colegial ou votou vencido (n.º 3); exclusão quando o ato assente em deliberação dos sócios, ainda que anulável (n.º 5)
+- Art. 72.º, n.º 2, CSC — business judgment rule (exclusão da responsabilidade se o gerente provar que atuou em termos informados, livre de qualquer interesse pessoal e segundo critérios de racionalidade empresarial)
+- Art. 73.º CSC — solidariedade entre os gerentes ou administradores responsáveis; direito de regresso na medida das culpas
+- Art. 74.º CSC — nulidade das cláusulas que excluam ou limitem a responsabilidade; renúncia e transação só por deliberação expressa sem voto contrário de minoria de 10 % do capital; a aprovação das contas não implica renúncia, salvo nas condições do n.º 3
+- Art. 75.º CSC — ação social proposta pela sociedade: depende de deliberação dos sócios por maioria simples e deve ser proposta no prazo de seis meses a contar da deliberação; os visados não votam (n.º 3)
+- Art. 76.º CSC — representantes especiais nomeados pelo tribunal a requerimento de sócios com, pelo menos, 5 % do capital
+- Art. 77.º CSC — ação social proposta por sócios (ut singuli): sócios com, pelo menos, 5 % do capital (2 % nas sociedades emitentes de ações admitidas à negociação em mercado regulamentado), em qualquer tipo de sociedade, quando a sociedade a não haja solicitado; a reparação é a favor da sociedade
+- Art. 78.º CSC — responsabilidade para com os credores sociais, quando, pela inobservância culposa de normas destinadas à sua proteção, o património social se torne insuficiente; ação sub-rogatória dos credores (n.º 2)
+- Art. 79.º CSC — responsabilidade para com sócios e terceiros pelos danos que diretamente lhes causarem no exercício das funções
 - [■ VERIFICAR: cláusula de D&O insurance e limites de cobertura]
 
 ### ETAPA 3 — CONSTRUÇÃO
 Defina em <estrategia>:
 - Pressupostos da responsabilidade civil a verificar: facto ilícito, culpa, dano, nexo de causalidade
 - Aplicação ou afastamento da business judgment rule (art. 72/2 CSC)
-- Legitimidade ativa: a sociedade via órgão competente? Sócios por ação ut singuli? Credores?
-- Possibilidade de exoneração por deliberação ou ratificação dos sócios (art. 72/4 CSC)
+- Legitimidade ativa: a sociedade, mediante deliberação dos sócios (art. 75.º CSC)? Sócios com, pelo menos, 5 % do capital, por ação ut singuli (art. 77.º CSC)? Credores (art. 78.º CSC)? Sócios ou terceiros por dano direto (art. 79.º CSC)?
+- Exclusão da responsabilidade por ato assente em deliberação dos sócios, ainda que anulável (art. 72.º, n.º 5, CSC), e renúncia ou transação nos termos do art. 74.º, n.ºs 2 e 3, CSC
 - Estratégia processual: ação de responsabilidade autónoma ou reconvenção?
 
 ### ETAPA 4 — O PARECER
@@ -104,11 +106,11 @@ A responsabilidade dos gerentes para com a sociedade pressupõe:
 **3.3 — Business Judgment Rule (art. 72/2 CSC)**
 A responsabilidade é excluída se o gerente provar que atuou: (a) informado, tendo feito diligências adequadas; (b) livre de qualquer interesse pessoal ou de terceiro; e (c) segundo critério racional. [■ VERIFICAR: se estes elementos estão preenchidos no caso concreto]
 
-**3.4 — Exoneração por Deliberação dos Sócios (art. 72/4 CSC)**
-O ato do gerente não é ilícito se tiver sido realizado em execução de deliberação dos sócios, salvo se esta for contrária à lei. [■ VERIFICAR: existência de deliberação prévia]
+**3.4 — Exclusão por Deliberação dos Sócios (art. 72.º, n.º 5, CSC)**
+A responsabilidade do gerente para com a sociedade não tem lugar quando o ato ou omissão assente em deliberação dos sócios, ainda que anulável (a lei ressalva as deliberações anuláveis, não as nulas); a exclusão não afasta a responsabilidade para com os credores sociais (art. 78.º, n.º 3, CSC). [■ VERIFICAR: existência de deliberação prévia e o seu eventual vício]
 
 **3.5 — Responsabilidade para com Credores Sociais (art. 78 CSC)**
-Quando o património social seja insuficiente para satisfação dos credores, os gerentes respondem pessoalmente pelos prejuízos causados com o incumprimento das normas legais ou estatutárias que visam proteger os credores.
+Os gerentes respondem para com os credores da sociedade quando, pela inobservância culposa das disposições legais ou contratuais destinadas à proteção destes, o património social se torne insuficiente para a satisfação dos respetivos créditos (art. 78.º, n.º 1, CSC); essa responsabilidade não é excluída pela renúncia ou transação da sociedade nem por o ato assentar em deliberação dos sócios (n.º 3).
 
 ---
 
@@ -175,4 +177,35 @@ Apresente em <checklist_validacao>:
 
 | Citação | Estado | Nota |
 |---|---|---|
+| art. 72.º CSC | conferida (epígrafe) — Responsabilidade de membros da administração para com a sociedade |  |
+| art. 78.º CSC | conferida (epígrafe) — Responsabilidade para com os credores sociais |  |
+| art. 78.º CSC | conferida (epígrafe) — Responsabilidade para com os credores sociais |  |
+| art. 79.º CSC | conferida (epígrafe) — Responsabilidade para com os sócios e terceiros |  |
+| art. 79.º CSC | conferida (epígrafe) — Responsabilidade para com os sócios e terceiros |  |
+| art. 73.º CSC | conferida (epígrafe) — Solidariedade na responsabilidade |  |
+| art. 64.º, n.º 1, al. a), CSC | conferida (epígrafe) — Deveres fundamentais |  |
+| art. 72.º, n.º 2, CSC | conferida (epígrafe) — Responsabilidade de membros da administração para com a sociedade |  |
+| art. 72.º, n.º 5, CSC | conferida (epígrafe) — Responsabilidade de membros da administração para com a sociedade |  |
+| art. 72.º, n.º 5, CSC | conferida (epígrafe) — Responsabilidade de membros da administração para com a sociedade |  |
+| art. 72.º, n.º 5, CSC | conferida (epígrafe) — Responsabilidade de membros da administração para com a sociedade |  |
+| art. 78.º, n.º 3, CSC | conferida (epígrafe) — Responsabilidade para com os credores sociais |  |
+| art. 78.º, n.º 3, CSC | conferida (epígrafe) — Responsabilidade para com os credores sociais |  |
+| art. 174.º, n.º 1, al. b), CSC | conferida (epígrafe) — Prescrição |  |
+| Art. 64 CSC | por conferir [■ VERIFICAR] | o assunto descrito não coincide com a epígrafe; confirmar |
+| Art. 72.º CSC | conferida (epígrafe) — Responsabilidade de membros da administração para com a sociedade |  |
+| Art. 72.º, n.º 2, CSC | conferida (epígrafe) — Responsabilidade de membros da administração para com a sociedade |  |
+| Art. 73.º CSC | conferida (epígrafe) — Solidariedade na responsabilidade |  |
+| Art. 74.º CSC | conferida (epígrafe) — Cláusulas nulas. Renúncia e transação |  |
+| Art. 75.º CSC | conferida (epígrafe) — Ação da sociedade |  |
+| Art. 76.º CSC | conferida (epígrafe) — Representantes especiais |  |
+| Art. 77.º CSC | conferida (epígrafe) — Ação de responsabilidade proposta por sócios |  |
+| Art. 78.º CSC | conferida (epígrafe) — Responsabilidade para com os credores sociais |  |
+| Art. 79.º CSC | conferida (epígrafe) — Responsabilidade para com os sócios e terceiros |  |
+| art. 75.º CSC | conferida (epígrafe) — Ação da sociedade |  |
+| art. 77.º CSC | conferida (epígrafe) — Ação de responsabilidade proposta por sócios |  |
+| art. 74.º, n.ºs 2 e 3, CSC | conferida (epígrafe) — Cláusulas nulas. Renúncia e transação |  |
 | art. 64.º do CSC | conferida (epígrafe) — Deveres fundamentais |  |
+| art. 72 CSC | por conferir [■ VERIFICAR] | o assunto descrito não coincide com a epígrafe; confirmar |
+| art. 64 CSC | por conferir [■ VERIFICAR] | o assunto descrito não coincide com a epígrafe; confirmar |
+| art. 78 CSC | conferida (epígrafe) — Responsabilidade para com os credores sociais |  |
+| art. 78.º, n.º 1, CSC | conferida (epígrafe) — Responsabilidade para com os credores sociais |  |

@@ -6,7 +6,8 @@ titulo_en: "Complaint to the Health Regulatory Authority (ERS)"
 descricao: "Redige uma queixa formal à Entidade Reguladora da Saúde (ERS), com fundamento nas atribuições regulatórias desta entidade, descrevendo os factos, invocando as normas violadas e formulando os pedidos concretos de intervenção regulatória."
 descricao_en: "Drafts a formal complaint to the Health Regulatory Authority (Entidade Reguladora da Saúde, ERS), based on its regulatory remit, describing the facts, invoking the provisions breached and setting out specific requests for regulatory intervention."
 ambito: nacional
-estado_citacoes: "sem citações"
+estado_citacoes: "conferidas 0 · corrigidas 0 · por conferir 5"
+revisao_tecnica: "2026-10-28 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
@@ -14,7 +15,8 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 
 > **Âmbito:** nacional · **Área:** Direito da Saúde e Responsabilidade Médica · **Código:** SAU-011
 > **EN:** Complaint to the Health Regulatory Authority (ERS). Drafts a formal complaint to the Health Regulatory Authority (Entidade Reguladora da Saúde, ERS), based on its regulatory remit, describing the facts, invoking the provisions breached and setting out specific requests for regulatory intervention.
-> **Citações:** sem citações. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 0 · corrigidas 0 · por conferir 5. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-28 — corrigida (7 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
 Redige uma queixa formal à Entidade Reguladora da Saúde (ERS), com fundamento nas atribuições regulatórias desta entidade, descrevendo os factos, invocando as normas violadas e formulando os pedidos concretos de intervenção regulatória.
 
@@ -25,8 +27,8 @@ Ficha de trabalho para preparar este documento. As regras da casa prevalecem sob
 ## Regras obrigatórias
 - NUNCA inventes factos ou legislação inexistente
 - Se faltar dado, marca [■ VERIFICAR: o que é necessário]
-- A ERS regula estabelecimentos de saúde privados, IPSS e algumas entidades do SNS — verifica se tem competência no caso concreto
-- Cita o Decreto-Lei n.º 127/2009 (Estatutos da ERS) e a legislação substantiva violada
+- A ERS regula todos os estabelecimentos prestadores de cuidados de saúde dos setores público (incluindo o SNS), privado, cooperativo e social (art. 4.º, n.º 2, dos Estatutos da ERS) — verifica se o caso cabe nas exclusões do n.º 3: a atividade dos profissionais de saúde sujeita à disciplina da respetiva ordem profissional e a regulação específica do INFARMED
+- Cita os Estatutos da ERS, aprovados pelo Decreto-Lei n.º 126/2014, de 22 de agosto (que revogou o Decreto-Lei n.º 127/2009), e a legislação substantiva violada
 - Formula pedidos concretos e realizáveis pela ERS (instaurar processo, determinar correção, informar, outro)
 
 ---
@@ -35,15 +37,15 @@ Ficha de trabalho para preparar este documento. As regras da casa prevalecem sob
 
 ### ETAPA 1 — PROBLEMATIZAÇÃO (Análise do Caso)
 Apresenta dentro de um bloco <analise_do_caso>:
-- Qual o estabelecimento em causa e a sua natureza (privado / IPSS / SNS em convenção)
-- Se a ERS tem competência regulatória sobre esta entidade
+- Qual o estabelecimento em causa e a sua natureza (público — SNS —, privado, cooperativo ou social, incluindo IPSS)
+- Se a ERS tem competência regulatória sobre esta entidade e sobre a matéria (a conduta do profissional sujeita à disciplina da sua ordem fica de fora)
 - Qual a violação concreta: direito à informação, qualidade dos cuidados, acesso, cobrança ilegal, outra
 - Se houve reclamação prévia ao estabelecimento e qual a resposta
 - O que o queixoso pretende que a ERS faça
 
 ### ETAPA 2 — ANÁLISE JURÍDICA (Fundamentação)
 Apresenta dentro de um bloco <fundamentos_juridicos>:
-- Decreto-Lei n.º 127/2009 — Estatutos da ERS: competências de regulação e supervisão
+- Decreto-Lei n.º 126/2014 — Estatutos da ERS: âmbito (art. 4.º), defesa dos direitos dos utentes (art. 13.º), poderes sancionatórios (art. 22.º) e queixas e reclamações dos utentes (art. 30.º)
 - Lei de Bases da Saúde (Lei n.º 95/2019): direitos dos utentes invocados
 - Lei n.º 15/2014 — Lei dos Direitos e Deveres do Utente: artigos violados
 - Regulamento do estabelecimento: [se conhecido]
@@ -52,7 +54,7 @@ Apresenta dentro de um bloco <fundamentos_juridicos>:
 
 ### ETAPA 3 — CONSTRUÇÃO DA QUEIXA
 Apresenta dentro de um bloco <estrutura_queixa>:
-- Pedidos concretos à ERS: instaurar processo de contra-ordenação, determinar adopção de medidas, informar o queixoso do resultado
+- Pedidos concretos à ERS: instaurar processo de contraordenação, determinar adoção de medidas, informar o queixoso do resultado
 - Documentos a juntar: reclamação anterior, resposta do estabelecimento, relatórios médicos relevantes
 - Urgência (se for situação de risco para a saúde do doente)
 
@@ -60,8 +62,8 @@ Apresenta dentro de um bloco <estrutura_queixa>:
 Redige o documento completo para a ERS:
 
 **À ENTIDADE REGULADORA DA SAÚDE (ERS)**
-Rua São Sebastião da Pedreira, n.º 8, 1050-209 Lisboa
-[Ou submissão pelo portal www.ers.pt]
+Rua S. João de Brito, 621 L32, 4100-455 Porto
+[Ou submissão pelo formulário «Reclamações online» em www.ers.pt]
 
 **QUEIXA FORMAL**
 
@@ -74,7 +76,7 @@ Email: ______________________________ Telefone: ______________
 Denominação: ______________________________
 Morada: ______________________________
 NIF/NIPC: ___________
-Natureza: [clínica privada / hospital privado / IPSS / outro]
+Natureza: [hospital ou centro de saúde do SNS / clínica privada / hospital privado / IPSS / outro]
 
 **1. OBJETO DA QUEIXA**
 [Síntese em 2-3 frases do que está em causa]
@@ -91,7 +93,7 @@ Natureza: [clínica privada / hospital privado / IPSS / outro]
 **5. PEDIDOS À ERS**
 Requer-se que a ERS:
 a) Instaure inquérito/processo de averiguações ao estabelecimento [nome];
-b) Determine a adopção das seguintes medidas corretivas: [especificar];
+b) Determine a adoção das seguintes medidas corretivas: [especificar];
 c) [Outras medidas que a ERS possa tomar no âmbito das suas competências];
 d) Informe o queixoso do resultado do processo nos termos legais.
 
@@ -102,7 +104,7 @@ d) Informe o queixoso do resultado do processo nos termos legais.
 
 ### ETAPA 5 — FORMULAÇÃO FINAL (Validação)
 Apresenta dentro de um bloco <checklist_validacao>:
-- [ ] ERS tem competência sobre o estabelecimento em causa (privado/IPSS)
+- [ ] ERS tem competência sobre o estabelecimento em causa (setor público, privado, cooperativo ou social) e sobre a matéria
 - [ ] Factos narrados de forma objetiva e cronológica
 - [ ] Normas violadas identificadas com precisão
 - [ ] Reclamação prévia ao estabelecimento documentada
@@ -124,7 +126,7 @@ Apresenta dentro de um bloco <checklist_validacao>:
 
 **ESTABELECIMENTO:**
 - Nome: [nome]
-- Natureza: [clínica privada / hospital privado / IPSS / clínica convencionada com SNS]
+- Natureza: [estabelecimento do SNS / clínica privada / hospital privado / IPSS / clínica convencionada com SNS]
 - Morada: [morada]
 - NIF (se conhecido): [número]
 
@@ -146,3 +148,13 @@ Apresenta dentro de um bloco <checklist_validacao>:
 **INFORMAÇÕES ADICIONAIS:**
 - Urgência (risco atual para a saúde): [sim/não]
 - Observações: [outros dados relevantes]
+
+## Citações desta ficha
+
+| Citação | Estado | Nota |
+|---|---|---|
+| art. 4.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 4.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 13.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 22.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 30.º | por conferir [■ VERIFICAR] | diploma não identificado |

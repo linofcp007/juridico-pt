@@ -6,7 +6,8 @@ titulo_en: "Opposition to Tax Enforcement Proceedings"
 descricao: "Gera uma petição de oposição à execução fiscal completa, nos termos dos artigos 203.º e seguintes do CPPT, contestando a legalidade ou a exigibilidade da dívida exequenda, com exposição dos fundamentos legalmente admissíveis e pedido de extinção ou suspensão da execução."
 descricao_en: "Generates a complete petition of opposition to tax enforcement proceedings (oposição à execução fiscal), under Articles 203 et seq. of the CPPT, contesting the lawfulness or enforceability of the debt being enforced, setting out the legally admissible grounds and requesting the termination or suspension of the enforcement proceedings."
 ambito: nacional
-estado_citacoes: "conferidas 19 · corrigidas 0 · por conferir 0"
+estado_citacoes: "conferidas 23 · corrigidas 0 · por conferir 1"
+revisao_tecnica: "2026-10-28 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
@@ -14,7 +15,8 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 
 > **Âmbito:** nacional · **Área:** Direito Fiscal e Tributário · **Código:** FIS-008
 > **EN:** Opposition to Tax Enforcement Proceedings. Generates a complete petition of opposition to tax enforcement proceedings (oposição à execução fiscal), under Articles 203 et seq. of the CPPT, contesting the lawfulness or enforceability of the debt being enforced, setting out the legally admissible grounds and requesting the termination or suspension of the enforcement proceedings.
-> **Citações:** conferidas 19 · corrigidas 0 · por conferir 0. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 23 · corrigidas 0 · por conferir 1. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-28 — corrigida (6 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
 Gera uma petição de oposição à execução fiscal completa, nos termos dos artigos 203.º e seguintes do CPPT, contestando a legalidade ou a exigibilidade da dívida exequenda, com exposição dos fundamentos legalmente admissíveis e pedido de extinção ou suspensão da execução.
 
@@ -25,17 +27,18 @@ Ficha de trabalho para preparar este documento. As regras da casa prevalecem sob
 ## Regras obrigatórias
 - NUNCA inventes acórdãos, prazos ou valores sem base
 - Marca [■ VERIFICAR: o que falta] para dados que precisam de confirmação
-- O prazo de oposição é de 30 dias após a citação (art. 203.º, n.º 1 CPPT) — prazo fatal
+- O prazo de oposição é de 30 dias após a citação (art. 203.º, n.º 1 CPPT) — prazo fatal; conta-se da citação pessoal ou, não a tendo havido, da primeira penhora, ou da data do facto superveniente ou do seu conhecimento pelo executado
 - Os fundamentos de oposição estão taxativamente previstos no art. 204.º, n.º 1 CPPT:
-  a) inexistência do imposto, taxa ou contribuição
-  b) ilegitimidade da pessoa citada
-  c) falta de notificação da liquidação no prazo de caducidade
-  d) caducidade da dívida
-  e) prescrição
-  f) pagamento ou anulação da dívida
+  a) inexistência do imposto, taxa ou contribuição nas leis em vigor à data dos factos a que respeita a obrigação
+  b) ilegitimidade da pessoa citada (não é o devedor que figura no título nem seu sucessor; sendo-o, não foi, no período da dívida, o possuidor dos bens que a originaram; ou não figura no título e não é responsável pelo pagamento — ex.: gerente revertido)
+  c) falsidade do título executivo, quando possa influir nos termos da execução
+  d) prescrição da dívida exequenda
+  e) falta da notificação da liquidação do tributo no prazo de caducidade
+  f) pagamento ou anulação da dívida exequenda
   g) duplicação de coleta
-  h) ilegalidade da liquidação quando não possa ser contestada em processo próprio
-  i) qualquer causa de extinção ou inexigibilidade da dívida
+  h) ilegalidade da liquidação da dívida exequenda, sempre que a lei não assegure meio judicial de impugnação ou recurso contra o ato de liquidação
+  i) quaisquer fundamentos não referidos nas alíneas anteriores, a provar apenas por documento, desde que não envolvam apreciação da legalidade da liquidação da dívida exequenda nem representem interferência em matéria de exclusiva competência da entidade que houver extraído o título
+- A caducidade do direito à liquidação só releva como falta de notificação da liquidação no prazo de caducidade (al. e)); a legalidade da liquidação discute-se, em regra, por reclamação graciosa, impugnação judicial ou arbitragem, e não por oposição
 - Para reversão contra gerente: verificar art. 24.º da LGT (responsabilidade subsidiária)
 
 ---
@@ -50,7 +53,7 @@ Analisa em <analise_do_caso>:
 - Há prescrição? (prazos: art. 48.º LGT — 8 anos; verificar causas de interrupção — art. 49.º LGT)
 - Há caducidade do direito à liquidação? (art. 45.º LGT — 4 anos em regra)
 - A execução é contra o devedor originário ou há reversão contra terceiro?
-- Se reversão: existe subsidiariedade? O órgão de execução verificou a impossibilidade de cobrança ao devedor principal?
+- Se reversão: existe subsidiariedade? O órgão de execução verificou a inexistência ou a fundada insuficiência dos bens penhoráveis do devedor principal (art. 23.º, n.º 2, LGT; art. 153.º, n.º 2, CPPT)? Houve audição prévia do revertido (art. 23.º, n.º 4, LGT)?
 
 ### ETAPA 2 — ANÁLISE JURÍDICA
 Identifica em <fundamentos_juridicos>:
@@ -90,7 +93,7 @@ com os seguintes fundamentos:
 
 **IV — DO PEDIDO**
 Nos termos expostos, requer que V. Ex.ª se digne:
-a) Declarar extinta / suspensa a execução fiscal n.º [número] com fundamento em [...]
+a) Julgar procedente a oposição e declarar extinta a execução fiscal n.º [número], na totalidade / quanto a [...], com fundamento em [...]
 b) Condenar a Fazenda Pública nas custas
 
 [Localidade], [data]
@@ -104,7 +107,8 @@ Apresenta em <checklist_validacao>:
 - [ ] Serviço de Finanças competente identificado
 - [ ] Para prescrição: cálculo detalhado com causas de interrupção/suspensão
 - [ ] Para reversão: pressupostos do art. 24.º LGT e art. 153.º CPPT verificados
-- [ ] Pedido de extinção ou suspensão claramente formulado
+- [ ] Pedido de extinção (total ou parcial) da execução claramente formulado
+- [ ] Suspensão da execução assegurada: garantia idónea, penhora suficiente ou pedido de dispensa de garantia nos 15 dias seguintes à oposição (art. 169.º, n.ºs 1, 8 e 12, e art. 212.º CPPT)
 - [ ] Pontos [■ VERIFICAR] sinalizados
 
 ---
@@ -126,7 +130,7 @@ Apresenta em <checklist_validacao>:
 - Montante exequendo: € [valor]
 
 **FUNDAMENTO DE OPOSIÇÃO:**
-- Fundamento principal: [prescrição / caducidade / pagamento / ilegalidade / ilegitimidade / outro]
+- Fundamento principal: [prescrição / falta de notificação da liquidação no prazo de caducidade / pagamento ou anulação / ilegitimidade / falsidade do título / duplicação de coleta / ilegalidade sem meio judicial próprio / outro, provado por documento]
 - Fundamento subsidiário: [se aplicável]
 - Factos e provas disponíveis: [descrever]
 - Datas relevantes para cálculo de prescrição: [data da liquidação, citação, eventuais interrupções]
@@ -145,6 +149,9 @@ Apresenta em <checklist_validacao>:
 | art. 48.º LGT | conferida (epígrafe) — Prescrição |  |
 | art. 49.º LGT | conferida (epígrafe) — Interrupção e suspensão da prescrição |  |
 | art. 45.º LGT | conferida (epígrafe) — Caducidade do direito à liquidação |  |
+| art. 23.º, n.º 2, LGT | conferida (epígrafe) — Responsabilidade tributária subsidiária |  |
+| art. 153.º, n.º 2, CPPT | conferida (epígrafe) — Legitimidade dos executados |  |
+| art. 23.º, n.º 4, LGT | conferida (epígrafe) — Responsabilidade tributária subsidiária |  |
 | Art. 203.º e 204.º CPPT | conferida (epígrafe) — Prazo de oposição à execução |  |
 | Art. 48.º e 49.º LGT | conferida (epígrafe) — Prescrição |  |
 | Art. 45.º LGT | conferida (epígrafe) — Caducidade do direito à liquidação |  |
@@ -154,3 +161,5 @@ Apresenta em <checklist_validacao>:
 | art. 24.º LGT | conferida (epígrafe) — Responsabilidade dos membros de corpos sociais e responsáveis técnicos |  |
 | artigos 203.º e seguintes do CPPT | conferida (epígrafe) — Prazo de oposição à execução |  |
 | art. 153.º CPPT | conferida (epígrafe) — Legitimidade dos executados |  |
+| art. 169.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 212.º CPPT | conferida (epígrafe) — Suspensão de execução |  |

@@ -3,20 +3,22 @@ codigo: PI-005
 area: "Propriedade Intelectual e Industrial"
 titulo: "Recurso de Decisão do INPI"
 titulo_en: "Appeal against an INPI Decision"
-descricao: "Elabora o recurso hierárquico ou contencioso de decisão do INPI que recusou o registo de uma marca, julgou procedente uma oposição ou adotou outra decisão desfavorável ao requerente, com fundamentação nos vícios de forma ou de fundo da decisão recorrida."
-descricao_en: "Prepares the hierarchical or judicial appeal against an INPI decision refusing registration of a trade mark, upholding an opposition or taking another decision unfavourable to the applicant, on the grounds of procedural or substantive defects in the decision under appeal."
+descricao: "Elabora o recurso judicial para o Tribunal da Propriedade Intelectual (ou o pedido de modificação da decisão no próprio INPI) de decisão do INPI que recusou o registo de uma marca, julgou procedente uma oposição ou adotou outra decisão desfavorável ao requerente, com fundamentação nos vícios de forma ou de fundo da decisão recorrida."
+descricao_en: "Prepares the judicial appeal to the Intellectual Property Court (or the request to the INPI itself to modify its decision) against an INPI decision refusing registration of a trade mark, upholding an opposition or taking another decision unfavourable to the applicant, on the grounds of procedural or substantive defects in the decision under appeal."
 ambito: nacional
-estado_citacoes: "conferidas 4 · corrigidas 3 · por conferir 7"
+estado_citacoes: "conferidas 37 · corrigidas 1 · por conferir 0"
+revisao_tecnica: "2026-10-28 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
 # Recurso de Decisão do INPI
 
 > **Âmbito:** nacional · **Área:** Propriedade Intelectual e Industrial · **Código:** PI-005
-> **EN:** Appeal against an INPI Decision. Prepares the hierarchical or judicial appeal against an INPI decision refusing registration of a trade mark, upholding an opposition or taking another decision unfavourable to the applicant, on the grounds of procedural or substantive defects in the decision under appeal.
-> **Citações:** conferidas 4 · corrigidas 3 · por conferir 7. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **EN:** Appeal against an INPI Decision. Prepares the judicial appeal to the Intellectual Property Court (or the request to the INPI itself to modify its decision) against an INPI decision refusing registration of a trade mark, upholding an opposition or taking another decision unfavourable to the applicant, on the grounds of procedural or substantive defects in the decision under appeal.
+> **Citações:** conferidas 37 · corrigidas 1 · por conferir 0. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-28 — corrigida (15 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
-Elabora o recurso hierárquico ou contencioso de decisão do INPI que recusou o registo de uma marca, julgou procedente uma oposição ou adotou outra decisão desfavorável ao requerente, com fundamentação nos vícios de forma ou de fundo da decisão recorrida.
+Elabora o recurso judicial para o Tribunal da Propriedade Intelectual (ou o pedido de modificação da decisão no próprio INPI) de decisão do INPI que recusou o registo de uma marca, julgou procedente uma oposição ou adotou outra decisão desfavorável ao requerente, com fundamentação nos vícios de forma ou de fundo da decisão recorrida.
 
 ## Método
 
@@ -27,8 +29,8 @@ Ficha de trabalho para preparar este documento. As regras da casa prevalecem sob
 - Se faltarem dados, assinala [■ VERIFICAR: o que é necessário]
 - Cita artigos reais do CPI e do CPA
 - Identifica com precisão os vícios da decisão recorrida: erro de facto, erro de direito, falta de fundamentação, violação do princípio da proporcionalidade
-- Distingue recurso hierárquico (para o Conselho Diretivo do INPI) de recurso contencioso (para o tribunal administrativo)
-- Respeita os prazos legais: [■ VERIFICAR: arts. 267.º e 268.º CPI [■ VERIFICAR: o artigo certo é o 41.º CPI; confirmar a citação] e prazos do CPA]
+- Distingue o pedido de modificação da decisão, apreciado no próprio INPI por despacho do superior hierárquico de quem a assinou, no prazo de dois meses após a publicação do despacho (art. 22.º CPI), do recurso judicial, de plena jurisdição, para o Tribunal da Propriedade Intelectual (arts. 38.º e 39.º CPI) e do recurso arbitral (arts. 47.º a 49.º CPI). O recurso judicial não segue para os tribunais administrativos
+- Respeita os prazos legais: o recurso judicial é interposto no prazo de dois meses a contar da publicação da decisão no Boletim da Propriedade Industrial, da decisão final proferida ao abrigo do art. 22.º CPI ou da data de emissão das certidões pedidas pelo recorrente, quando anterior (art. 41.º CPI)
 
 ## Framework P.A.C.E.F — Segue estas 5 etapas obrigatoriamente:
 
@@ -37,19 +39,20 @@ Apresenta dentro de um bloco <analise_do_caso>:
 - Síntese da decisão recorrida e fundamentos invocados pelo INPI
 - Identificação dos vícios da decisão (erro de facto, erro de direito, insuficiência de fundamentação)
 - Avaliação da força dos argumentos do INPI vs. argumentos do recorrente
-- Tipo de recurso mais adequado: hierárquico vs. contencioso
+- Meio mais adequado: pedido de modificação da decisão (art. 22.º CPI), recurso judicial para o Tribunal da Propriedade Intelectual (arts. 38.º a 46.º CPI) ou recurso arbitral (arts. 47.º a 49.º CPI; o requerimento de compromisso arbitral suspende os prazos de recurso judicial — art. 48.º, n.º 2, CPI)
 - Prazo de recurso: verificação se ainda está em curso
 - Probabilidade de sucesso e estratégia recomendada
 
 ### ETAPA 2 — ANÁLISE JURÍDICA (Fundamentação)
 Apresenta dentro de um bloco <fundamentos_juridicos>:
-- Art. 267.º CPI [■ VERIFICAR: o art. 267.º CPI trata do uso da marca; o recurso das decisões do INPI está nos arts. 38.º e ss. CPI]: recurso hierárquico das decisões do INPI
-- Art. 38.º CPI: recurso contencioso para os tribunais
+- Art. 22.º CPI: modificação da decisão, por despacho do superior hierárquico de quem a assinou, no prazo de dois meses após a publicação do despacho
+- Arts. 38.º a 46.º CPI: recurso judicial, de plena jurisdição — decisões recorríveis (art. 38.º CPI), tribunal de propriedade intelectual (art. 39.º CPI), legitimidade (art. 40.º CPI), prazo de dois meses (art. 41.º CPI), resposta-remessa do INPI (art. 42.º CPI), citação da parte contrária e substituição da decisão recorrida pela sentença (art. 43.º CPI), recurso para a Relação (art. 45.º CPI)
+- Arts. 47.º a 49.º CPI: recurso arbitral
 - Arts. 231.º e 232.º CPI: impedimentos absolutos e relativos (se a recusa se baseou nestes)
-- Art. 227.º CPI [■ VERIFICAR: o art. 227.º CPI trata da falta de uso sério na oposição; o caráter distintivo resulta dos arts. 208.º e 231.º CPI]: carácter distintivo — definição e critérios
-- CPA: arts. 67.º e ss. (recurso hierárquico); princípio da proporcionalidade (art. 7.º CPA)
+- Arts. 208.º e 209.º CPI: constituição da marca e sinais desprovidos de carácter distintivo, descritivos ou usuais; art. 231.º, n.º 2, CPI: carácter distintivo adquirido pelo uso antes do pedido
+- CPA: princípio da proporcionalidade (art. 7.º CPA) [■ VERIFICAR: termos em que o CPA se aplica aos procedimentos do INPI, que o CPI regula, e se, além do art. 22.º CPI, cabe impugnação administrativa nos termos dos arts. 184.º e ss. CPA]
 - Arts. 161.º e ss. CPA: invalidade dos atos administrativos
-- [■ VERIFICAR: jurisprudência dos tribunais administrativos portugueses sobre recusas do INPI]
+- [■ VERIFICAR: jurisprudência do Tribunal da Propriedade Intelectual e do Tribunal da Relação de Lisboa sobre recusas do INPI]
 
 ### ETAPA 3 — CONSTRUÇÃO ARGUMENTATIVA
 Define em <estrategia>:
@@ -62,13 +65,18 @@ Define em <estrategia>:
 ### ETAPA 4 — EXPOSIÇÃO ESTRUTURADA (Recurso)
 Redige o recurso completo:
 
-**RECURSO HIERÁRQUICO / IMPUGNAÇÃO CONTENCIOSA**
+**TRIBUNAL DA PROPRIEDADE INTELECTUAL**
+**Exmo.(a) Senhor(a) Juiz(a) de Direito**
+
+**RECURSO JUDICIAL DE DECISÃO DO INPI, I. P.**
 **[Da decisão do INPI n.º / processo n.º]**
 
-[Nome/Denominação], [NIF/NIPC], com sede/domicílio em [morada], representado(a) pelo mandatário [nome], advogado(a), OA n.º [número], vem, nos termos [do art. 267.º do CPI [■ VERIFICAR: o art. 267.º CPI trata do uso da marca; o recurso das decisões do INPI está nos arts. 38.º e ss. CPI] / do art. 38.º do CPI c/c arts. 67.º e ss. do CPA [■ VERIFICAR: o art. 67.º CPA trata da capacidade procedimental; as impugnações administrativas estão nos arts. 184.º e ss. CPA]], interpor o presente RECURSO HIERÁRQUICO / IMPUGNAÇÃO CONTENCIOSA da decisão proferida pelo INPI em [data], notificada em [data], que [recusou o pedido de registo de marca n.º [número] / julgou procedente a oposição n.º [número]], com base nos seguintes fundamentos:
+*[Se se optar pelo pedido de modificação da decisão (art. 22.º CPI), a peça é dirigida ao INPI, I. P., dentro dos dois meses seguintes à publicação do despacho, e adaptam-se a tempestividade e o pedido.]*
+
+[Nome/Denominação], [NIF/NIPC], com sede/domicílio em [morada], representado(a) pelo mandatário [nome], advogado(a), OA n.º [número], vem, nos termos dos arts. 38.º a 41.º do CPI, interpor RECURSO JUDICIAL da decisão proferida pelo INPI, I. P., em [data], publicada no Boletim da Propriedade Industrial de [data], que [recusou o pedido de registo de marca n.º [número] / julgou procedente a oposição n.º [número]], com base nos seguintes fundamentos:
 
 **I. TEMPESTIVIDADE**
-O presente recurso é apresentado dentro do prazo legal de [X] dias a contar da notificação da decisão recorrida, ocorrida em [data], sendo, por isso, tempestivo.
+O presente recurso é interposto dentro do prazo de dois meses a contar da publicação da decisão recorrida no Boletim da Propriedade Industrial, ocorrida em [data] [ou da emissão das certidões pedidas pelo recorrente, em [data], se anterior], sendo, por isso, tempestivo (art. 41.º CPI).
 
 **II. SÍNTESE DA DECISÃO RECORRIDA**
 O INPI recusou o pedido de registo da marca [denominação/descrição] com o fundamento de que [síntese dos fundamentos invocados pelo INPI].
@@ -77,7 +85,7 @@ O INPI recusou o pedido de registo da marca [denominação/descrição] com o fu
 
 **A) Erro na Apreciação do Carácter Distintivo / Erro de Direito**
 A decisão recorrida errou ao considerar que o sinal [denominação/descrição] carece de carácter distintivo / é descritivo / é genérico. Com efeito:
-[Argumentação detalhada: por que razão o sinal tem carácter distintivo; como deve ser interpretado o art. 227.º CPI [■ VERIFICAR: o art. 227.º CPI trata da falta de uso sério na oposição; o caráter distintivo resulta dos arts. 208.º e 231.º CPI]; que critérios devem ser aplicados]
+[Argumentação detalhada: por que razão o sinal tem carácter distintivo; como devem ser interpretados os arts. 208.º e 209.º CPI e o art. 231.º CPI; que critérios devem ser aplicados]
 
 **B) Falta de Fundamentação Adequada (art. 152.º CPA)**
 [Se aplicável: a decisão do INPI não está suficientemente fundamentada, limitando-se a invocar os impedimentos legais sem os aplicar concretamente ao caso sub judice, o que constitui vício de forma.]
@@ -94,7 +102,7 @@ O recorrente junta os seguintes documentos em apoio do carácter distintivo adqu
 **V. PEDIDO**
 Pelo exposto, requer-se que o presente recurso seja julgado procedente e, em consequência:
 a) Seja revogada a decisão recorrida;
-b) Seja ordenado o prosseguimento do processo de registo da marca n.º [número] para publicação definitiva;
+b) Seja a decisão recorrida substituída por sentença que conceda o registo da marca n.º [número] (art. 43.º, n.º 4, CPI);
 [c) Subsidiariamente: seja admitido o registo com a seguinte limitação de produtos/serviços: [lista limitada]]
 
 [Localidade], [data]
@@ -103,14 +111,14 @@ b) Seja ordenado o prosseguimento do processo de registo da marca n.º [número]
 ### ETAPA 5 — FORMULAÇÃO FINAL (Validação)
 Apresenta dentro de um bloco <checklist_validacao>:
 - [ ] Prazo de recurso verificado e ainda em curso
-- [ ] Tipo de recurso correto (hierárquico vs. contencioso)
+- [ ] Meio correto (pedido de modificação — art. 22.º CPI; recurso judicial para o Tribunal da Propriedade Intelectual — arts. 38.º e 39.º CPI; recurso arbitral — arts. 47.º a 49.º CPI)
 - [ ] Síntese precisa da decisão recorrida
 - [ ] Vícios da decisão claramente identificados (erro de facto, erro de direito, vício de forma)
 - [ ] Argumentação de distintividade sólida (se impedimento absoluto)
 - [ ] Argumentação de diferenciação dos sinais sólida (se oposição procedente)
 - [ ] Documentos de prova juntos e numerados
 - [ ] Pedido principal e subsidiário formulados
-- [ ] Taxas de recurso verificadas [■ VERIFICAR: valores atuais INPI]
+- [ ] Custos verificados [■ VERIFICAR: taxa de justiça do recurso judicial; taxa do INPI, se houver, no pedido de modificação da decisão]
 - [ ] Pontos que exigem atenção especial: [liste]
 
 ---
@@ -130,6 +138,7 @@ Apresenta dentro de um bloco <checklist_validacao>:
 **DECISÃO RECORRIDA:**
 - N.º do processo/decisão INPI: [número]
 - Data da decisão: [data]
+- Data de publicação no Boletim da Propriedade Industrial: [data]
 - Data de notificação: [data]
 - Tipo de decisão: [recusa de registo / procedência de oposição / outra]
 - Fundamento(s) invocado(s) pelo INPI: [transcrição ou resumo]
@@ -140,8 +149,9 @@ Apresenta dentro de um bloco <checklist_validacao>:
 - Classes solicitadas: [classes e produtos/serviços]
 
 **TIPO DE RECURSO PRETENDIDO:**
-- Recurso hierárquico (para o INPI): [sim/não]
-- Recurso contencioso (para tribunal): [sim/não]
+- Pedido de modificação da decisão no INPI (art. 22.º CPI): [sim/não]
+- Recurso judicial para o Tribunal da Propriedade Intelectual: [sim/não]
+- Recurso arbitral: [sim/não]
 
 **PROVAS DISPONÍVEIS:**
 - Documentos de uso da marca: [sim/não]
@@ -154,23 +164,47 @@ Apresenta dentro de um bloco <checklist_validacao>:
 - Observações: [qualquer informação relevante]
 
 ## Resultado esperado
-Recurso hierárquico ou impugnação contenciosa da decisão do INPI, com identificação precisa dos vícios e pedidos de revogação, pronto para apresentação.
+Recurso judicial para o Tribunal da Propriedade Intelectual (ou pedido de modificação) da decisão do INPI, com identificação precisa dos vícios e pedidos de revogação, pronto para apresentação.
 
 ## Citações desta ficha
 
 | Citação | Estado | Nota |
 |---|---|---|
-| arts. 267.º e 268.º CPI | por conferir [■ VERIFICAR] | o artigo certo é o 41.º CPI; confirmar a citação |
-| Art. 267.º CPI | por conferir [■ VERIFICAR] | o art. 267.º CPI trata do uso da marca; o recurso das decisões do INPI está nos arts. 38.º e ss. CPI |
-| Art. 38.º CPI | corrigida — Decisões que admitem recurso | o número citado no catálogo não correspondia à epígrafe |
+| art. 22.º CPI | conferida (epígrafe) — Modificação da decisão |  |
+| art. 22.º CPI | conferida (epígrafe) — Modificação da decisão |  |
+| art. 22.º CPI | conferida (epígrafe) — Modificação da decisão |  |
+| art. 22.º CPI | conferida (epígrafe) — Modificação da decisão |  |
+| art. 22.º CPI | conferida (epígrafe) — Modificação da decisão |  |
+| art. 22.º CPI | conferida (epígrafe) — Modificação da decisão |  |
+| art. 22.º CPI | conferida (epígrafe) — Modificação da decisão |  |
+| arts. 38.º e 39.º CPI | conferida (epígrafe) — Decisões que admitem recurso |  |
+| arts. 38.º e 39.º CPI | conferida (epígrafe) — Decisões que admitem recurso |  |
+| arts. 47.º a 49.º CPI | conferida (epígrafe) — Tribunal arbitral |  |
+| arts. 47.º a 49.º CPI | conferida (epígrafe) — Tribunal arbitral |  |
+| arts. 47.º a 49.º CPI | conferida (epígrafe) — Tribunal arbitral |  |
+| art. 41.º CPI | conferida (epígrafe) — Prazo |  |
+| art. 41.º CPI | conferida (epígrafe) — Prazo |  |
+| art. 41.º CPI | conferida (epígrafe) — Prazo |  |
+| arts. 38.º a 46.º CPI | conferida (epígrafe) — Decisões que admitem recurso |  |
+| art. 48.º, n.º 2, CPI | conferida (epígrafe) — Compromisso arbitral |  |
+| Art. 22.º CPI | conferida (epígrafe) — Modificação da decisão |  |
+| Arts. 38.º a 46.º CPI | conferida (epígrafe) — Decisões que admitem recurso |  |
+| art. 38.º CPI | conferida (epígrafe) — Decisões que admitem recurso |  |
+| art. 39.º CPI | conferida (epígrafe) — Tribunal competente |  |
+| art. 40.º CPI | conferida (epígrafe) — Legitimidade |  |
+| art. 42.º CPI | conferida (epígrafe) — Resposta-remessa |  |
+| art. 43.º CPI | conferida (epígrafe) — Citação da parte contrária |  |
+| art. 45.º CPI | conferida (epígrafe) — Recurso da decisão judicial |  |
+| Arts. 47.º a 49.º CPI | conferida (epígrafe) — Tribunal arbitral |  |
 | Arts. 231.º e 232.º CPI | conferida (epígrafe) — Fundamentos de recusa do registo |  |
-| Art. 227.º CPI | por conferir [■ VERIFICAR] | o art. 227.º CPI trata da falta de uso sério na oposição; o caráter distintivo resulta dos arts. 208.º e 231.º CPI |
-| art. 227.º CPI | por conferir [■ VERIFICAR] | o art. 227.º CPI trata da falta de uso sério na oposição; o caráter distintivo resulta dos arts. 208.º e 231.º CPI |
-| arts. 67.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| Arts. 208.º e 209.º CPI | conferida (epígrafe) — Constituição da marca |  |
+| art. 231.º, n.º 2, CPI | conferida (epígrafe) — Fundamentos de recusa do registo |  |
 | art. 7.º CPA | conferida (epígrafe) — Princípio da proporcionalidade |  |
 | art. 7.º CPA | conferida (epígrafe) — Princípio da proporcionalidade |  |
+| arts. 184.º e ss. CPA | conferida (epígrafe) — Princípio geral |  |
 | Arts. 161.º e ss. CPA | corrigida — Atos nulos | o número citado no catálogo não correspondia à epígrafe |
-| art. 267.º do CPI | por conferir [■ VERIFICAR] | o art. 267.º CPI trata do uso da marca; o recurso das decisões do INPI está nos arts. 38.º e ss. CPI |
-| art. 38.º do CPI | corrigida — Decisões que admitem recurso | o número citado no catálogo não correspondia à epígrafe |
-| arts. 67.º e ss. do CPA | por conferir [■ VERIFICAR] | o art. 67.º CPA trata da capacidade procedimental; as impugnações administrativas estão nos arts. 184.º e ss. CPA |
+| arts. 38.º a 41.º do CPI | conferida (epígrafe) — Decisões que admitem recurso |  |
+| arts. 208.º e 209.º CPI | conferida (epígrafe) — Constituição da marca |  |
+| art. 231.º CPI | conferida (epígrafe) — Fundamentos de recusa do registo |  |
 | art. 152.º CPA | conferida (epígrafe) — Dever de fundamentação |  |
+| art. 43.º, n.º 4, CPI | conferida (epígrafe) — Citação da parte contrária |  |

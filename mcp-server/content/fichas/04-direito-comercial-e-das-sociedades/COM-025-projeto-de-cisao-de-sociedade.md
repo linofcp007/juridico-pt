@@ -6,7 +6,7 @@ titulo_en: "Draft Terms of Demerger (Projeto de Cisão)"
 descricao: "Elabora o projeto de cisão de sociedade (total ou parcial), documentando a separação do património em blocos autónomos e a sua transmissão para novas entidades ou sociedades já existentes, com os elementos obrigatórios do artigo 122 do CSC e o procedimento de proteção de credores."
 descricao_en: "Drafts the draft terms of demerger (projeto de cisão) of a company (total or partial), documenting the separation of its assets into autonomous blocks and their transfer to new entities or existing companies, with the mandatory elements of Article 122 CSC and the creditor-protection procedure."
 ambito: nacional
-estado_citacoes: "conferidas 1 · corrigidas 6 · por conferir 0"
+estado_citacoes: "conferidas 2 · corrigidas 6 · por conferir 24"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
@@ -14,7 +14,7 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 
 > **Âmbito:** nacional · **Área:** Direito Comercial e das Sociedades · **Código:** COM-025
 > **EN:** Draft Terms of Demerger (Projeto de Cisão). Drafts the draft terms of demerger (projeto de cisão) of a company (total or partial), documenting the separation of its assets into autonomous blocks and their transfer to new entities or existing companies, with the mandatory elements of Article 122 CSC and the creditor-protection procedure.
-> **Citações:** conferidas 1 · corrigidas 6 · por conferir 0. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 2 · corrigidas 6 · por conferir 24. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
 
 Elabora o projeto de cisão de sociedade (total ou parcial), documentando a separação do património em blocos autónomos e a sua transmissão para novas entidades ou sociedades já existentes, com os elementos obrigatórios do artigo 122 do CSC e o procedimento de proteção de credores.
 
@@ -160,6 +160,29 @@ Apresente em <checklist_validacao>:
 
 | Citação | Estado | Nota |
 |---|---|---|
+| Art. 122 CSC | por conferir [■ VERIFICAR] | o assunto descrito não coincide com a epígrafe; confirmar |
+| Art. 122 CSC | por conferir [■ VERIFICAR] | o assunto descrito não coincide com a epígrafe; confirmar |
+| art. 123 CSC | por conferir [■ VERIFICAR] | o assunto descrito não coincide com a epígrafe; confirmar |
+| art. 118, n.º 1, al. a) CSC | por conferir [■ VERIFICAR] | o assunto descrito não coincide com a epígrafe; confirmar |
+| art. 118, n.º 1, al. b) CSC | por conferir [■ VERIFICAR] | o assunto descrito não coincide com a epígrafe; confirmar |
+| art. 127 CSC | por conferir [■ VERIFICAR] | o assunto descrito não coincide com a epígrafe; confirmar |
+| art. 123, n.º 5 CSC | por conferir [■ VERIFICAR] | o assunto descrito não coincide com a epígrafe; confirmar |
+| art. 74 CIRC | por conferir [■ VERIFICAR] | o assunto descrito não coincide com a epígrafe; confirmar |
+| art. 74 CIRC | por conferir [■ VERIFICAR] | o assunto descrito não coincide com a epígrafe; confirmar |
+| art. 285 CT | por conferir [■ VERIFICAR] | o assunto descrito não coincide com a epígrafe; confirmar |
+| art. 285 CT | por conferir [■ VERIFICAR] | o assunto descrito não coincide com a epígrafe; confirmar |
+| Art. 118 CSC | conferida (epígrafe) — Noção. Modalidades |  |
+| Art. 119 CSC | por conferir [■ VERIFICAR] | o assunto descrito não coincide com a epígrafe; confirmar |
+| Art. 120 CSC | por conferir [■ VERIFICAR] | o assunto descrito não coincide com a epígrafe; confirmar |
+| Art. 121 CSC | por conferir [■ VERIFICAR] | o assunto descrito não coincide com a epígrafe; confirmar |
+| Art. 123 CSC | por conferir [■ VERIFICAR] | o assunto descrito não coincide com a epígrafe; confirmar |
+| Art. 124 CSC | por conferir [■ VERIFICAR] | o assunto descrito não coincide com a epígrafe; confirmar |
+| Art. 127 CSC | por conferir [■ VERIFICAR] | o assunto descrito não coincide com a epígrafe; confirmar |
+| Art. 74 CIRC | por conferir [■ VERIFICAR] | o assunto descrito não coincide com a epígrafe; confirmar |
+| Art. 285 CT | por conferir [■ VERIFICAR] | o assunto descrito não coincide com a epígrafe; confirmar |
+| art. 124 CSC | por conferir [■ VERIFICAR] | o assunto descrito não coincide com a epígrafe; confirmar |
+| art. 124 CSC | por conferir [■ VERIFICAR] | o assunto descrito não coincide com a epígrafe; confirmar |
+| art. 122 CSC | por conferir [■ VERIFICAR] | o assunto descrito não coincide com a epígrafe; confirmar |
 | artigos 118.º e 122.º do Código das Sociedades Comerciais | conferida (epígrafe) — Noção. Modalidades |  |
 | art. 119.º, al. a) CSC | corrigida — Projeto de cisão | o número citado no catálogo não correspondia à epígrafe |
 | art. 119.º, al. b) e c) CSC | corrigida — Projeto de cisão | o número citado no catálogo não correspondia à epígrafe |
@@ -167,3 +190,5 @@ Apresente em <checklist_validacao>:
 | art. 119.º, al. e) CSC | corrigida — Projeto de cisão | o número citado no catálogo não correspondia à epígrafe |
 | art. 119.º, al. f) CSC | corrigida — Projeto de cisão | o número citado no catálogo não correspondia à epígrafe |
 | art. 122.º do CSC | corrigida — Responsabilidade por dívidas | o número citado no catálogo não correspondia à epígrafe |
+| art. 101 CSC | por conferir [■ VERIFICAR] | o assunto descrito não coincide com a epígrafe; confirmar |
+| art. 121 CSC | por conferir [■ VERIFICAR] | o assunto descrito não coincide com a epígrafe; confirmar |

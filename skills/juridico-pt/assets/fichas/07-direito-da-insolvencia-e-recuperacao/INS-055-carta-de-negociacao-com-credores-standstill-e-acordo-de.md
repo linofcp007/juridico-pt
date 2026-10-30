@@ -3,20 +3,22 @@ codigo: INS-055
 area: "Direito da Insolvência e Recuperação"
 titulo: "Carta de Negociação com Credores — Standstill e Acordo de Reestruturação Extrajudicial"
 titulo_en: "Letter Negotiating with Creditors — Standstill and Out-of-Court Restructuring Agreement"
-descricao: "Elabora a carta de negociação dirigida aos principais credores propondo um standstill (moratória informal) e as bases de um acordo de reestruturação extrajudicial de dívida, ao abrigo do quadro de reestruturação preventiva da Diretiva (UE) 2019/1023 transposta para o direito português, como alternativa ao PER ou à insolvência formal."
-descricao_en: "Prepares the negotiation letter addressed to the main creditors proposing a standstill (informal moratorium) and the basis for an out-of-court debt restructuring agreement, within the preventive restructuring framework of Directive (EU) 2019/1023 as transposed into Portuguese law, as an alternative to a PER or formal insolvency."
+descricao: "Elabora a carta de negociação dirigida aos principais credores propondo um standstill (moratória contratual) e as bases de um acordo de reestruturação extrajudicial de dívida, ao abrigo da liberdade contratual e, querendo as partes, do Regime Extrajudicial de Recuperação de Empresas (RERE, Lei n.º 8/2018), como alternativa ao PER — o processo de reestruturação preventiva alterado pela Lei n.º 9/2022, que transpôs a Diretiva (UE) 2019/1023 — ou à insolvência formal."
+descricao_en: "Prepares the negotiation letter addressed to the main creditors proposing a standstill (contractual moratorium) and the basis for an out-of-court debt restructuring agreement, under freedom of contract and, if the parties so choose, the Out-of-Court Business Recovery Regime (RERE, Law 8/2018), as an alternative to a PER — the preventive restructuring procedure amended by Law 9/2022, which transposed Directive (EU) 2019/1023 — or formal insolvency."
 ambito: nacional
-estado_citacoes: "sem citações"
+estado_citacoes: "conferidas 5 · corrigidas 0 · por conferir 2"
+revisao_tecnica: "2026-10-28 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
 # Carta de Negociação com Credores — Standstill e Acordo de Reestruturação Extrajudicial
 
 > **Âmbito:** nacional · **Área:** Direito da Insolvência e Recuperação · **Código:** INS-055
-> **EN:** Letter Negotiating with Creditors — Standstill and Out-of-Court Restructuring Agreement. Prepares the negotiation letter addressed to the main creditors proposing a standstill (informal moratorium) and the basis for an out-of-court debt restructuring agreement, within the preventive restructuring framework of Directive (EU) 2019/1023 as transposed into Portuguese law, as an alternative to a PER or formal insolvency.
-> **Citações:** sem citações. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **EN:** Letter Negotiating with Creditors — Standstill and Out-of-Court Restructuring Agreement. Prepares the negotiation letter addressed to the main creditors proposing a standstill (contractual moratorium) and the basis for an out-of-court debt restructuring agreement, under freedom of contract and, if the parties so choose, the Out-of-Court Business Recovery Regime (RERE, Law 8/2018), as an alternative to a PER — the preventive restructuring procedure amended by Law 9/2022, which transposed Directive (EU) 2019/1023 — or formal insolvency.
+> **Citações:** conferidas 5 · corrigidas 0 · por conferir 2. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-28 — corrigida (4 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
-Elabora a carta de negociação dirigida aos principais credores propondo um standstill (moratória informal) e as bases de um acordo de reestruturação extrajudicial de dívida, ao abrigo do quadro de reestruturação preventiva da Diretiva (UE) 2019/1023 transposta para o direito português, como alternativa ao PER ou à insolvência formal.
+Elabora a carta de negociação dirigida aos principais credores propondo um standstill (moratória contratual) e as bases de um acordo de reestruturação extrajudicial de dívida, ao abrigo da liberdade contratual e, querendo as partes, do Regime Extrajudicial de Recuperação de Empresas (RERE, Lei n.º 8/2018), como alternativa ao PER — o processo de reestruturação preventiva alterado pela Lei n.º 9/2022, que transpôs a Diretiva (UE) 2019/1023 — ou à insolvência formal.
 
 ## Método
 
@@ -24,7 +26,7 @@ Ficha de trabalho para preparar este documento. As regras da casa prevalecem sob
 
 ## Regras obrigatórias
 — NUNCA inventes acórdãos ou normas que não existam.
-— Cita as normas reais do CIRE e da Lei n.º 9/2022 aplicáveis.
+— Cita as normas reais do CIRE, da Lei n.º 8/2018 (RERE) e da Lei n.º 9/2022 aplicáveis.
 — Se faltarem dados, assinala [■ VERIFICAR: o que é necessário].
 
 ## Framework P.A.C.E.F — Segue estas 5 etapas obrigatoriamente:
@@ -39,12 +41,13 @@ Apresenta dentro de um bloco <analise_da_situacao>:
 
 ### ETAPA 2 — ANÁLISE JURÍDICA
 Apresenta dentro de um bloco <fundamentos_juridicos>:
-- Quadro de reestruturação preventiva (Lei n.º 9/2022): processo extrajudicial ou com supervisão judicial limitada
+- Regimes de reestruturação: o RERE (Lei n.º 8/2018), extrajudicial e confidencial, para empresas em situação económica difícil ou de insolvência iminente — protocolo de negociação assinado pelo devedor e por credores que representem pelo menos 15 % do passivo não subordinado, depositado na Conservatória do Registo Comercial, com negociações até três meses e cláusula obrigatória de não instauração, pelas partes, de execuções e de pedidos de insolvência (arts. 3.º, 6.º, 7.º e 8.º); e o PER (arts. 17.º-A a 17.º-J CIRE), processo judicial com administrador judicial provisório e suspensão das medidas de execução por quatro meses, prorrogável por um mês (art. 17.º-E CIRE), cujo regime foi alterado pela Lei n.º 9/2022 na transposição da Diretiva (UE) 2019/1023
 - Standstill informal vs. moratória formal no âmbito do PER
 - Princípios das negociações extrajudiciais: boa-fé, confidencialidade, igual tratamento dos credores
 - Risco da negociação extrajudicial: credores não vinculados; qualquer credor pode desencadear insolvência
 - Posição dos credores com garantia real: negociação separada vs. tratamento conjunto
-- Articulação com PARI/PERSI (crédito bancário) para garantir suspensão de execuções durante a negociação
+- O PARI/PERSI (Decreto-Lei n.º 227/2012) não se aplica ao financiamento de uma empresa: protege só clientes bancários consumidores; a proteção contra execuções durante a negociação resulta apenas do acordo de standstill (que só vincula os signatários), do protocolo de negociação do RERE (arts. 7.º, n.º 1, al. e), e 11.º da Lei n.º 8/2018) ou da suspensão das medidas de execução no PER (art. 17.º-E CIRE)
+- O standstill não afasta o dever de apresentação à insolvência nos 30 dias seguintes ao conhecimento da insolvência atual (art. 18.º CIRE); o RERE e o PER pressupõem que a empresa ainda não esteja em insolvência atual
 
 ### ETAPA 3 — ESTRUTURA DO ACORDO
 Define em <estrutura_acordo>:
@@ -89,7 +92,7 @@ Apresenta dentro de um bloco <checklist_validacao>:
 - [ ] Condições do standstill realistas e recíprocas
 - [ ] Confidencialidade assegurada
 - [ ] Prazo suficiente para negociar (mínimo 60 dias)
-- [ ] Alternativa formal (PER) identificada caso as negociações falhem
+- [ ] Alternativa formal (RERE ou PER) identificada caso as negociações falhem e dever de apresentação à insolvência verificado (art. 18.º CIRE)
 - [ ] [■ VERIFICAR] itens sinalizados
 
 ---
@@ -105,3 +108,15 @@ Apresenta dentro de um bloco <checklist_validacao>:
 - Prazo de standstill proposto: [dias]
 - Assessores financeiros envolvidos: [sim/não]
 - Observações: [outros dados]
+
+## Citações desta ficha
+
+| Citação | Estado | Nota |
+|---|---|---|
+| arts. 3.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| arts. 17.º-A a 17.º-J CIRE | conferida (epígrafe) — Finalidade e natureza do processo especial de revitalização |  |
+| art. 17.º-E CIRE | conferida (epígrafe) — Suspensão das medidas de execução |  |
+| art. 17.º-E CIRE | conferida (epígrafe) — Suspensão das medidas de execução |  |
+| arts. 7.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 18.º CIRE | conferida (epígrafe) — Dever de apresentação à insolvência |  |
+| art. 18.º CIRE | conferida (epígrafe) — Dever de apresentação à insolvência |  |

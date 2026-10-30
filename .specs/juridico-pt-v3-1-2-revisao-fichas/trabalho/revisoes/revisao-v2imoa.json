@@ -1,0 +1,600 @@
+[
+  {
+    "codigo": "IMO-009",
+    "veredicto": "corrigida",
+    "resumo": "A ficha dava ao senhorio 120 dias «nos contratos de 1 ano» e 240 dias, e ao arrendatário 60 dias, quando os arts. 1097.º, n.º 1, e 1098.º, n.º 1, CC graduam a antecedência (240/120/60 dias ou 1/3 do prazo para o senhorio; 120/90/60 dias ou 1/3 para o arrendatário), contada do termo do prazo inicial ou da renovação em curso; omitia a regra de que a oposição do senhorio à primeira renovação só produz efeitos decorridos três anos da celebração (art. 1097.º, n.º 3) e a carta do arrendatário fazia cessar o contrato «60 dias após o envio». Corrigi os prazos, a carta do arrendatário (cessação no termo do prazo, art. 1098.º, n.º 1), a remissão para a denúncia do art. 1101.º (só no contrato de duração indeterminada; no prazo certo vale o art. 1097.º, n.º 4), as consequências da falta de antecedência do arrendatário (art. 1098.º, n.º 6) e a forma das comunicações, que está no art. 9.º NRAU e não no art. 24.º (coeficiente de atualização das rendas).",
+    "substituicoes": [
+      {
+        "de": "— Respeita os prazos legais de pré-aviso:\n  Senhorio: mínimo 120 dias antes do fim do prazo (contratos de 1 ano) / 240 dias (contratos ≥ 6 anos);\n  Arrendatário: mínimo 60 dias antes do fim do prazo.",
+        "para": "— Respeita as antecedências mínimas legais, contadas do termo do prazo de duração inicial do contrato ou da renovação em curso (arts. 1097.º, n.º 2, e 1098.º, n.º 2, CC), lembrando que, salvo estipulação em contrário, o contrato com prazo certo se renova por períodos sucessivos de igual duração ou de três anos, se esta for inferior (art. 1096.º, n.º 1, CC):\n  Senhorio (art. 1097.º, n.º 1, CC): 240 dias (prazo igual ou superior a 6 anos), 120 dias (de 1 a menos de 6 anos), 60 dias (de 6 meses a menos de 1 ano) ou 1/3 do prazo (menos de 6 meses); a oposição à primeira renovação só produz efeitos decorridos 3 anos da celebração do contrato, mantendo-se este em vigor até essa data (art. 1097.º, n.º 3, CC), salvo necessidade de habitação do senhorio ou dos seus descendentes em 1.º grau (art. 1097.º, n.º 4, CC);\n  Arrendatário (art. 1098.º, n.º 1, CC): 120 dias (prazo igual ou superior a 6 anos), 90 dias (de 1 a menos de 6 anos), 60 dias (de 6 meses a menos de 1 ano) ou 1/3 do prazo (menos de 6 meses).",
+        "motivo": "Os prazos indicados não correspondiam aos arts. 1097.º, n.º 1, e 1098.º, n.º 1, CC (o arrendatário tem 120/90/60 dias ou 1/3 do prazo, não 60 dias) e faltava a regra dos três anos do art. 1097.º, n.º 3, CC.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1097&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "— Se o prazo já passou, alerta para o risco de renovação automática e sugere alternativas.",
+        "para": "— Se a antecedência já não puder ser cumprida: do lado do senhorio, alerta para o risco de renovação automática e sugere alternativas; do lado do arrendatário, a inobservância da antecedência não obsta à cessação do contrato, mas obriga ao pagamento das rendas correspondentes ao período de pré-aviso em falta, exceto se resultar de desemprego involuntário, incapacidade permanente para o trabalho ou morte do arrendatário ou de pessoa que com ele viva em economia comum há mais de um ano (art. 1098.º, n.º 6, CC).",
+        "motivo": "Para o arrendatário, a falta de antecedência não impede a cessação, mas obriga às rendas do pré-aviso em falta (art. 1098.º, n.º 6, CC).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1098&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Há denúncia para habitação própria ou de descendente (art. 1101.º CC)? — Prazo diferente!",
+        "para": "- Há necessidade de habitação do senhorio ou de descendente em 1.º grau? Num contrato com prazo certo não há a denúncia do art. 1101.º CC (só vale para o contrato de duração indeterminada): essa necessidade apenas afasta o limite de 3 anos da oposição à primeira renovação, aplicando-se, com as devidas adaptações, o art. 1102.º e os n.os 1, 5 e 9 do art. 1103.º CC (art. 1097.º, n.º 4, CC) — comunicação com antecedência não inferior a seis meses e com o fundamento expresso.",
+        "motivo": "A denúncia do art. 1101.º CC é própria do contrato de duração indeterminada; no prazo certo a necessidade de habitação opera pelo art. 1097.º, n.º 4, CC.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1097&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Art. 1097.º CC (oposição à renovação pelo senhorio — prazos e fundamentos)\n- Art. 1098.º CC (denúncia pelo arrendatário)",
+        "para": "- Art. 1097.º CC (oposição à renovação pelo senhorio — antecedências do n.º 1, contadas do termo do prazo inicial ou da renovação, n.º 2; oposição à primeira renovação só eficaz decorridos 3 anos da celebração, n.os 3 e 4)\n- Art. 1098.º CC (oposição à renovação pelo arrendatário — antecedências do n.º 1; denúncia a todo o tempo, com 30 dias, quando o senhorio se tenha oposto à renovação, n.º 4; rendas do pré-aviso em falta, n.º 6)",
+        "motivo": "A oposição à renovação do senhorio não depende de fundamento (salvo o n.º 4) e a comunicação do arrendatário no fim do prazo é oposição à renovação (art. 1098.º, n.º 1, CC), não denúncia.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1098&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Art. 24.º NRAU (forma das comunicações — carta registada com AR)",
+        "para": "- Art. 9.º NRAU (forma das comunicações — escrito assinado pelo declarante e remetido por carta registada com aviso de receção, n.º 1, ou entregue em mão, com nota de receção assinada pelo destinatário na cópia, n.º 6)\n- Art. 12.º, n.º 1, NRAU (casa de morada de família: a comunicação do senhorio que possa servir de base ao procedimento especial de despejo é dirigida a cada um dos cônjuges, sob pena de ineficácia)",
+        "motivo": "O art. 24.º NRAU trata do coeficiente de atualização das rendas; a forma das comunicações está no art. 9.º NRAU.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=691A0009&nid=691&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Tipo: oposição pelo senhorio ou denúncia pelo arrendatário?",
+        "para": "- Tipo: oposição à renovação pelo senhorio ou pelo arrendatário?",
+        "motivo": "No fim do prazo também o arrendatário se opõe à renovação (art. 1098.º, n.º 1, CC); a denúncia é a do n.º 3.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1098&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "O contrato [encontra-se no seu prazo inicial / renovou-se por período que termina em [data de termo]]. Consequentemente, o contrato cessará no dia [data de cessação], data em que",
+        "para": "O contrato [encontra-se no seu prazo inicial, que termina em [data de termo] / renovou-se por período que termina em [data de termo]], sendo a presente comunicação feita com a antecedência mínima de [240 / 120 / 60 dias / um terço do prazo] exigida pelo art. 1097.º, n.º 1, do Código Civil. Consequentemente, o contrato cessará no dia [data de cessação — termo do prazo em curso; tratando-se da oposição à primeira renovação, nunca antes de decorridos três anos sobre a celebração do contrato, que se mantém em vigor até essa data (art. 1097.º, n.º 3, do Código Civil)], data em que",
+        "motivo": "A carta do senhorio declarava a cessação no termo sem a antecedência aplicável nem a regra dos três anos do art. 1097.º, n.º 3, CC.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1097&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "Assunto: Denúncia do contrato de arrendamento — [morada do locado]",
+        "para": "Assunto: Oposição à renovação do contrato de arrendamento — [morada do locado]",
+        "motivo": "No fim do prazo o arrendatário opõe-se à renovação (art. 1098.º, n.º 1, CC); a denúncia é a do n.º 3.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1098&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "Nos termos do disposto no art. 1098.º do Código Civil, venho comunicar a V.ª Ex.ª a minha intenção de não renovar o contrato de arrendamento relativo ao imóvel sito em [morada], celebrado em [data].\n\nO contrato cessará no dia [data de cessação — mínimo 60 dias após envio].",
+        "para": "Nos termos do disposto no art. 1098.º, n.º 1, do Código Civil, venho comunicar a V.ª Ex.ª a minha oposição à renovação do contrato de arrendamento relativo ao imóvel sito em [morada], celebrado em [data].\n\nO contrato cessará no termo do [prazo inicial / período de renovação em curso], no dia [data de termo], sendo a presente comunicação feita com a antecedência mínima de [120 / 90 / 60 dias / um terço do prazo] exigida pelo art. 1098.º, n.º 1, do Código Civil.",
+        "motivo": "A oposição do arrendatário faz cessar o contrato no termo do prazo em curso, com a antecedência graduada do art. 1098.º, n.º 1, CC, e não 60 dias após o envio.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1098&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- [ ] Prazo de pré-aviso calculado e respeitado\n- [ ] Data de cessação indicada corretamente\n- [ ] Forma de envio: carta registada com AR",
+        "para": "- [ ] Antecedência calculada e respeitada (art. 1097.º, n.º 1, ou art. 1098.º, n.º 1, CC), contada do termo do prazo inicial ou da renovação em curso\n- [ ] Data de cessação indicada corretamente (oposição do senhorio à primeira renovação: não antes de três anos sobre a celebração — art. 1097.º, n.º 3, CC)\n- [ ] Forma de envio: carta registada com AR ou entrega em mão com nota de receção (art. 9.º, n.os 1 e 6, NRAU); casa de morada de família: comunicação do senhorio a cada um dos cônjuges (art. 12.º, n.º 1, NRAU)",
+        "motivo": "A verificação final repetia o prazo único errado e omitia a regra dos três anos e a forma do art. 9.º NRAU.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1097&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Prazo: [X anos]",
+        "para": "- Prazo inicial: [X anos] | Renovações já ocorridas e duração do período em curso: [—]",
+        "motivo": "A antecedência depende da duração do prazo inicial ou da renovação em curso (arts. 1096.º, n.º 1, 1097.º, n.º 1, e 1098.º, n.º 1, CC).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1096&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Confirmar, à luz da jurisprudência, se a oposição do arrendatário feita sem a antecedência do art. 1098.º, n.º 1, CC faz cessar o contrato com o pagamento das rendas do pré-aviso em falta (n.º 6, que se refere à antecedência «prevista nos números anteriores») ou se o contrato se renova.",
+      "Oposição do senhorio fora de prazo: confirmar o efeito (renovação pelo período seguinte) antes de aconselhar.",
+      "Na oposição à primeira renovação com fundamento na necessidade de habitação (art. 1097.º, n.º 4, CC), confirmar a aplicação adaptada do art. 1102.º (incluindo o pagamento de um ano de renda) e dos n.os 1, 5 e 9 do art. 1103.º CC.",
+      "Contratos para habitação não permanente ou fins especiais transitórios não se renovam automaticamente, salvo estipulação em contrário (arts. 1095.º, n.º 3, e 1096.º, n.º 2, CC); contratos anteriores ao NRAU seguem o regime transitório.",
+      "Se o senhorio se tiver oposto à renovação, o arrendatário pode denunciar a todo o tempo com 30 dias de antecedência (art. 1098.º, n.º 4, CC)."
+    ],
+    "fontes": [
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1096&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1097&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1098&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1099&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1101&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=691A0009&nid=691&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=691A0024&nid=691&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+    ]
+  },
+  {
+    "codigo": "IMO-010",
+    "veredicto": "corrigida",
+    "resumo": "A ficha fixava um pré-aviso de dois anos e enquadrava a habitação própria na al. b) do art. 1101.º CC: a necessidade de habitação é a al. a) e a comunicação faz-se com antecedência não inferior a seis meses e com o fundamento expresso, sob pena de ineficácia (art. 1103.º, n.º 1, CC); os dois anos são do requisito de titularidade (art. 1102.º), da utilização mínima (art. 1103.º, n.º 5) e da duração total mínima do contrato (n.º 10). Substituí a «indemnização a verificar» pelo pagamento do montante equivalente a um ano de renda (art. 1102.º, n.º 1) e a «reocupação ou indemnização agravada em seis meses» pela obrigação de dar ao local a utilização invocada em três meses e por dois anos, sob pena de indemnização de 10 anos de renda (art. 1103.º, n.os 5 e 9). Ressalvei que esta denúncia só existe no contrato de duração indeterminada (no prazo certo vale o art. 1097.º, n.º 4) e corrigi a forma da comunicação (art. 9.º NRAU, não o art. 24.º).",
+    "descricao": "Redige a comunicação de denúncia, pelo senhorio, do contrato de arrendamento de duração indeterminada por necessidade de habitação do próprio ou de descendente em 1.º grau (arts. 1101.º, al. a), 1102.º e 1103.º CC), incluindo os requisitos de forma, a antecedência mínima de seis meses, o pagamento do montante equivalente a um ano de renda e as consequências do incumprimento da obrigação de dar ao locado a utilização invocada.",
+    "descricao_en": "Drafts the landlord's notice terminating an open-ended lease (denúncia) for the landlord's own housing needs or those of a first-degree descendant (Arts. 1101(a), 1102 and 1103 CC), including the formal requirements, the minimum notice period of six months, the payment of an amount equal to one year's rent and the consequences of failing to put the premises to the stated use.",
+    "substituicoes": [
+      {
+        "de": "— O prazo de pré-aviso para denúncia para habitação própria ou de descendente é de dois (2) anos (art. 1101.º, al. b) CC).",
+        "para": "— A denúncia pelo senhorio do art. 1101.º CC só existe no contrato de duração indeterminada; no contrato com prazo certo, o senhorio opõe-se à renovação (art. 1097.º CC) e a necessidade de habitação própria ou de descendente em 1.º grau apenas afasta o limite de três anos da oposição à primeira renovação (art. 1097.º, n.os 3 e 4, CC).\n— A denúncia para habitação do próprio ou dos descendentes em 1.º grau é a da al. a) do art. 1101.º CC e faz-se mediante comunicação ao arrendatário com antecedência não inferior a seis meses sobre a data pretendida para a desocupação, da qual conste de forma expressa, sob pena de ineficácia, o fundamento da denúncia (art. 1103.º, n.º 1, CC); da denúncia não pode resultar uma duração total do contrato inferior a dois anos (art. 1103.º, n.º 10, CC).",
+        "motivo": "A habitação própria é a al. a) do art. 1101.º CC e a antecedência é de seis meses (art. 1103.º, n.º 1, CC), não de dois anos.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1103&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "— O senhorio deve pagar indemnização ao arrendatário nos termos do art. 1102.º CC [■ VERIFICAR: montante vigente].",
+        "para": "— O direito de denúncia para habitação depende do pagamento do montante equivalente a um ano de renda e de o senhorio ser proprietário, comproprietário ou usufrutuário do prédio há mais de dois anos (ou, independentemente deste prazo, o ter adquirido por sucessão) e não ter, há mais de um ano, na área dos concelhos de Lisboa ou do Porto e seus limítrofes ou no respetivo concelho quanto ao resto do País, casa própria que satisfaça as necessidades de habitação própria ou dos seus descendentes em 1.º grau (art. 1102.º, n.º 1, CC); na denúncia para habitação do descendente, o requisito da titularidade verifica-se quanto ao senhorio e o da falta de casa própria quanto ao descendente (art. 1102.º, n.º 3, CC).",
+        "motivo": "O art. 1102.º, n.º 1, CC fixa o montante (um ano de renda) e os requisitos de titularidade e de falta de casa própria.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1102&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "— Se o senhorio não der ao imóvel o destino invocado em 6 meses, o arrendatário pode optar pela reocupação ou por indemnização agravada (art. 1103.º CC) [■ VERIFICAR].",
+        "para": "— O senhorio deve dar ao local a utilização invocada no prazo de três meses e por um período mínimo de dois anos (art. 1103.º, n.º 5, CC); salvo motivo não imputável ao senhorio, o incumprimento obriga-o ao pagamento de uma indemnização correspondente a 10 anos de renda (art. 1103.º, n.º 9, CC).",
+        "motivo": "A lei em vigor não prevê reocupação nem «indemnização agravada»: prevê a utilização em três meses por dois anos e a indemnização de 10 anos de renda (art. 1103.º, n.os 5 e 9, CC).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1103&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Qual a data de envio prevista e a data de cessação pretendida?\n- O prazo de 2 anos é respeitado?\n- Qual o valor da indemnização a pagar (montante de referência legal)?\n- O senhorio tem outra habitação? Pode legitimar a denúncia?",
+        "para": "- O contrato é de duração indeterminada? (Se tiver prazo certo, não há denúncia do art. 1101.º CC: ver o art. 1097.º, n.os 3 e 4, CC.)\n- Qual a data de envio prevista e a data pretendida para a desocupação?\n- A antecedência mínima de seis meses é respeitada (art. 1103.º, n.º 1, CC)? A duração total do contrato fica igual ou superior a dois anos (art. 1103.º, n.º 10, CC)?\n- Qual o montante equivalente a um ano de renda a pagar (art. 1102.º, n.º 1, CC)?\n- O senhorio é proprietário, comproprietário ou usufrutuário do prédio há mais de dois anos ou adquiriu-o por sucessão? O senhorio (ou o descendente) tem, há mais de um ano, casa própria na área relevante que satisfaça as necessidades de habitação (art. 1102.º, n.os 1 e 3, CC)?",
+        "motivo": "A análise assentava no prazo de dois anos e numa indemnização indeterminada; os requisitos são os dos arts. 1102.º e 1103.º CC.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1102&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Art. 1101.º CC (causas de denúncia pelo senhorio — al. a) obras de demolição; al. b) habitação própria/descendente)\n- Art. 1102.º CC (indemnização ao arrendatário — [■ VERIFICAR: valor atualizado])\n- Art. 1103.º CC (consequências do incumprimento da obrigação de destino)\n- Art. 24.º NRAU (forma da comunicação — carta registada com AR)",
+        "para": "- Art. 1101.º CC (denúncia pelo senhorio do contrato de duração indeterminada — al. a) necessidade de habitação pelo próprio ou pelos seus descendentes em 1.º grau; al. b) demolição ou obras de remodelação ou restauro profundos; al. c) comunicação com antecedência não inferior a cinco anos)\n- Art. 1102.º CC (denúncia para habitação — pagamento do montante equivalente a um ano de renda e requisitos das als. a) e b) do n.º 1; habitação do descendente, n.º 3)\n- Art. 1103.º CC (denúncia justificada — antecedência de seis meses e fundamento expresso, sob pena de ineficácia, n.º 1; utilização invocada em três meses e por dois anos, n.º 5; indemnização de 10 anos de renda, n.º 9; duração total mínima de dois anos, n.º 10)\n- Art. 1097.º, n.os 3 e 4, CC (contrato com prazo certo: oposição à primeira renovação com fundamento na necessidade de habitação)\n- Art. 9.º NRAU (forma da comunicação — escrito assinado pelo declarante e remetido por carta registada com aviso de receção, ou entregue em mão com nota de receção); art. 12.º, n.º 1, NRAU (casa de morada de família: comunicação a cada um dos cônjuges)",
+        "motivo": "As alíneas do art. 1101.º estavam trocadas, os arts. 1102.º e 1103.º descritos com conteúdo que não têm e a forma da comunicação atribuída ao art. 24.º NRAU (coeficiente de atualização).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1101&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Prazo de 2 anos e data de cessação\n- Indemnização devida e momento do pagamento\n- Obrigação de uso efetivo em 6 meses",
+        "para": "- Antecedência de seis meses e data pretendida para a desocupação (art. 1103.º, n.º 1, CC)\n- Pagamento do montante equivalente a um ano de renda (art. 1102.º, n.º 1, CC) e momento do pagamento [■ VERIFICAR: a lei não fixa o momento; o pagamento é condição do direito de denúncia]\n- Obrigação de dar ao local a utilização invocada em três meses e por dois anos (art. 1103.º, n.º 5, CC)",
+        "motivo": "Estrutura alinhada com os arts. 1102.º e 1103.º CC.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1103&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "Nos termos do art. 1101.º, alínea b), do Código Civil, venho comunicar a V.ª Ex.ª a denúncia do contrato de arrendamento relativo ao imóvel sito em [morada], celebrado em [data], por necessidade de habitação [própria e permanente / do meu descendente em 1.º grau, [nome e grau de parentesco]].",
+        "para": "Nos termos dos arts. 1101.º, alínea a), e 1103.º, n.º 1, do Código Civil, venho comunicar a V.ª Ex.ª a denúncia do contrato de arrendamento de duração indeterminada relativo ao imóvel sito em [morada], celebrado em [data], com o seguinte fundamento: necessidade de habitação [própria / do meu descendente em 1.º grau, [nome e grau de parentesco]], [descrição concreta da necessidade].\n\nSou [proprietário / comproprietário / usufrutuário] do prédio [há mais de dois anos, desde [data] / por sucessão] e [eu / o meu descendente] não [tenho / tem], há mais de um ano, [na área dos concelhos de Lisboa ou do Porto e seus limítrofes / no concelho de [concelho]], casa própria que satisfaça as necessidades de habitação, nos termos do art. 1102.º, n.os 1 e 3, do Código Civil.",
+        "motivo": "A necessidade de habitação é a al. a) do art. 1101.º CC e o fundamento tem de constar de forma expressa (art. 1103.º, n.º 1, CC), com os requisitos do art. 1102.º CC.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1101&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "Nos termos legais, o contrato cessará no dia [data — mínimo 2 anos após envio desta comunicação], data em que",
+        "para": "Nos termos legais, o contrato cessará no dia [data pretendida para a desocupação — com antecedência não inferior a seis meses sobre a data desta comunicação (art. 1103.º, n.º 1, do Código Civil) e sem que a duração total do contrato fique inferior a dois anos (art. 1103.º, n.º 10, do Código Civil)], data em que",
+        "motivo": "A antecedência é de seis meses (art. 1103.º, n.º 1, CC), não de dois anos.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1103&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "Nos termos do art. 1102.º do Código Civil, tenho direito a proceder à denúncia mediante pagamento de indemnização correspondente a [■ VERIFICAR: montante legal — rendas × coeficiente previsto no art. 1102.º CC]. O pagamento será efetuado [na data de cessação / faseadamente — descreve].",
+        "para": "Nos termos do art. 1102.º, n.º 1, do Código Civil, o direito de denúncia para habitação depende do pagamento do montante equivalente a um ano de renda, no valor de €[12 × renda mensal], que será pago [data e forma] [■ VERIFICAR: momento do pagamento, que a lei não fixa].",
+        "motivo": "O montante é o equivalente a um ano de renda (art. 1102.º, n.º 1, CC); não há coeficiente.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1102&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "Informa-se que, nos termos do art. 1103.º do Código Civil, caso o imóvel não seja efetivamente afeto ao fim aqui declarado no prazo de seis (6) meses após a entrega, assistirá a V.ª Ex.ª o direito de optar pela reocupação do imóvel nas condições anteriores ou por indemnização agravada.",
+        "para": "Mais se informa que, nos termos do art. 1103.º, n.os 5 e 9, do Código Civil, o senhorio fica obrigado a dar ao locado a utilização invocada no prazo de três meses e por um período mínimo de dois anos, sob pena de, salvo motivo que não lhe seja imputável, ter de pagar a V.ª Ex.ª uma indemnização correspondente a 10 anos de renda.",
+        "motivo": "A reocupação e a «indemnização agravada» não existem na lei em vigor; vale o art. 1103.º, n.os 5 e 9, CC.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1103&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- [ ] Prazo de 2 anos calculado e respeitado\n- [ ] Indemnização mencionada com referência ao art. 1102.º CC\n- [ ] Obrigação de uso efetivo em 6 meses referenciada (art. 1103.º CC)\n- [ ] Envio por carta registada com AR",
+        "para": "- [ ] Contrato de duração indeterminada (no prazo certo: oposição à renovação — art. 1097.º, n.os 3 e 4, CC)\n- [ ] Antecedência mínima de seis meses e fundamento expresso (art. 1103.º, n.º 1, CC); duração total do contrato não inferior a dois anos (art. 1103.º, n.º 10, CC)\n- [ ] Pagamento do montante equivalente a um ano de renda e requisitos do art. 1102.º, n.º 1, als. a) e b), CC\n- [ ] Obrigação de dar ao local a utilização invocada em três meses e por dois anos referenciada (art. 1103.º, n.º 5, CC)\n- [ ] Envio por carta registada com AR ou entrega em mão com nota de receção (art. 9.º, n.os 1 e 6, NRAU); casa de morada de família: a cada um dos cônjuges (art. 12.º, n.º 1, NRAU)",
+        "motivo": "A verificação final repetia o prazo de dois anos e o uso em seis meses.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1103&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- [ ] Itens [■ VERIFICAR] sinalizados (especialmente montante da indemnização)",
+        "para": "- [ ] Itens [■ VERIFICAR] sinalizados (especialmente o momento do pagamento do montante equivalente a um ano de renda)",
+        "motivo": "O montante é fixado por lei (um ano de renda, art. 1102.º, n.º 1, CC); o que fica por confirmar é o momento do pagamento.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1102&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Data de cessação pretendida: [dd/mm/aaaa — mínimo 2 anos após envio]\n- Indemnização: [€ valor — verificar art. 1102.º CC]",
+        "para": "- Data pretendida para a desocupação: [dd/mm/aaaa — mínimo seis meses após a comunicação]\n- Montante a pagar: [€ — um ano de renda, art. 1102.º, n.º 1, CC]\n- Título e data de aquisição do prédio pelo senhorio: [propriedade / compropriedade / usufruto — dd/mm/aaaa / sucessão]\n- Tipo de contrato: [duração indeterminada / prazo certo]",
+        "motivo": "Dados alinhados com os arts. 1102.º e 1103.º CC.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1102&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Confirmar o momento do pagamento do montante equivalente a um ano de renda (art. 1102.º, n.º 1, CC), que a lei não fixa.",
+      "Contratos anteriores ao NRAU: confirmar o regime transitório (arts. 26.º e seguintes NRAU), designadamente a renda a considerar e as limitações à denúncia quanto a arrendatários idosos ou com deficiência.",
+      "Selecionar e conferir a jurisprudência sobre a efetiva necessidade de habitação antes de a citar.",
+      "A denúncia para demolição ou obras profundas (art. 1101.º, al. b), CC) tem requisitos próprios (art. 1103.º, n.os 2 a 4 e 6 a 8, CC, e legislação especial): esta minuta não a cobre."
+    ],
+    "fontes": [
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1097&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1101&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1102&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1103&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=691A0009&nid=691&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=691A0024&nid=691&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+    ]
+  },
+  {
+    "codigo": "IMO-011",
+    "veredicto": "corrigida",
+    "resumo": "A ficha fixava 60 dias para a oposição à renovação do arrendatário e 120 dias «com indemnização» para a denúncia antecipada. O art. 1098.º CC gradua a oposição (120/90/60 dias ou 1/3 do prazo, n.º 1); a denúncia só é possível depois de decorrido um terço do prazo inicial ou da renovação, com 120 ou 60 dias e efeitos no fim de um mês do calendário (n.os 3 e 5), e não há indemnização se a antecedência for respeitada — só as rendas do pré-aviso em falta, salvo desemprego involuntário, incapacidade ou morte (n.º 6). Acrescentei a denúncia com 30 dias após oposição do senhorio (n.º 4), a denúncia no contrato de duração indeterminada (art. 1100.º CC) e corrigi a forma das comunicações (art. 9.º NRAU, não o art. 24.º).",
+    "descricao": "Redige a comunicação formal do arrendatário de oposição à renovação no fim do prazo (120, 90 ou 60 dias de antecedência ou um terço do prazo, consoante a duração) ou de denúncia do contrato depois de decorrido um terço do prazo (120 ou 60 dias), com as rendas do pré-aviso em falta quando a antecedência não é respeitada, em conformidade com os arts. 1098.º e 1100.º CC e o NRAU.",
+    "descricao_en": "Drafts the tenant's formal notice opposing renewal at the end of the term (120, 90 or 60 days' notice or one third of the term, depending on its length) or terminating the lease after one third of the term has elapsed (120 or 60 days), with the rent for the missing notice period where the notice period is not observed, in accordance with Arts. 1098 and 1100 CC and the NRAU.",
+    "substituicoes": [
+      {
+        "de": "— Denúncia no fim do prazo: mínimo 60 dias antes do termo (art. 1098.º, n.º 1 CC).\n— Denúncia antecipada durante o prazo: mínimo 120 dias, com pagamento de indemnização (art. 1098.º, n.º 3 CC).",
+        "para": "— Oposição à renovação no fim do prazo (contrato com prazo certo): comunicação com a antecedência mínima de 120 dias (prazo igual ou superior a 6 anos), 90 dias (de 1 a menos de 6 anos), 60 dias (de 6 meses a menos de 1 ano) ou 1/3 do prazo (menos de 6 meses), contada do termo do prazo de duração inicial ou da renovação em curso (art. 1098.º, n.os 1 e 2, CC).\n— Denúncia durante o prazo: só depois de decorrido um terço do prazo de duração inicial ou da renovação, a todo o tempo, com a antecedência mínima de 120 dias do termo pretendido, se o prazo for igual ou superior a 1 ano, ou de 60 dias, se for inferior, produzindo efeitos no final de um mês do calendário gregoriano, a contar da comunicação (art. 1098.º, n.os 3 e 5, CC); se o senhorio se tiver oposto à renovação, o arrendatário pode denunciar a todo o tempo, com antecedência não inferior a 30 dias do termo pretendido (art. 1098.º, n.º 4, CC). Respeitada a antecedência, a lei não prevê qualquer indemnização.\n— Contrato de duração indeterminada: após seis meses de duração efetiva, denúncia com a antecedência mínima de 120 dias (um ano ou mais de duração efetiva) ou de 60 dias (até um ano), com efeitos no final de um mês do calendário gregoriano (art. 1100.º, n.os 1 e 3, CC).",
+        "motivo": "Os 60 dias só valem para prazos de 6 meses a 1 ano (art. 1098.º, n.º 1, CC); a denúncia exige o decurso de um terço do prazo, tem 120 ou 60 dias e não implica indemnização (n.os 3 e 5).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1098&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "— Calcula a indemnização devida por denúncia antecipada (equivalente às rendas do período de pré-aviso não cumprido) [■ VERIFICAR: fórmula legal].",
+        "para": "— Se a antecedência não for observada, a cessação opera na mesma, mas o arrendatário tem de pagar as rendas correspondentes ao período de pré-aviso em falta, exceto se a falta resultar de desemprego involuntário, incapacidade permanente para o trabalho ou morte do arrendatário ou de pessoa que com ele viva em economia comum há mais de um ano (art. 1098.º, n.º 6, CC; no contrato de duração indeterminada, art. 1100.º, n.º 4, CC): calcula esse montante.",
+        "motivo": "Só há rendas a pagar quando falta antecedência, e a lei prevê exceções (art. 1098.º, n.º 6, CC).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1098&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Tipo de denúncia: no fim do prazo ou antecipada?\n- Qual a data de término do prazo em curso?\n- Data de envio prevista — está dentro do prazo de 60/120 dias?\n- Há indemnização devida por denúncia antecipada?\n- O contrato tem cláusula sobre penalização de denúncia antecipada?",
+        "para": "- Tipo de comunicação: oposição à renovação no fim do prazo (art. 1098.º, n.º 1, CC), denúncia durante o prazo (art. 1098.º, n.os 3 ou 4, CC) ou denúncia de contrato de duração indeterminada (art. 1100.º CC)?\n- Qual a data de término do prazo em curso e qual a duração do prazo inicial ou da renovação em curso?\n- Já decorreu um terço do prazo inicial ou da renovação (art. 1098.º, n.º 3, CC)?\n- Data de envio prevista — a antecedência aplicável é respeitada?\n- Se não for, há rendas do período de pré-aviso em falta a pagar (art. 1098.º, n.º 6, CC)?\n- O contrato tem cláusula sobre penalização de denúncia antecipada? [■ VERIFICAR: validade face à natureza imperativa das normas sobre a denúncia — art. 1080.º CC]",
+        "motivo": "A análise assentava nos prazos únicos de 60/120 dias e numa indemnização que a lei não prevê.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1098&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Art. 1098.º, n.º 1 CC (denúncia no fim do prazo — 60 dias)\n- Art. 1098.º, n.º 3 CC (denúncia antecipada — 120 dias + indemnização)\n- Art. 24.º NRAU (forma das comunicações — carta registada com AR)",
+        "para": "- Art. 1098.º, n.º 1 CC (oposição à renovação — 120, 90 ou 60 dias ou 1/3 do prazo, contados do termo do prazo inicial ou da renovação, n.º 2)\n- Art. 1098.º, n.º 3 CC (denúncia decorrido 1/3 do prazo — 120 ou 60 dias; efeitos no final de um mês do calendário gregoriano, n.º 5; denúncia com 30 dias após oposição do senhorio à renovação, n.º 4; rendas do pré-aviso em falta, n.º 6)\n- Art. 1100.º CC (denúncia pelo arrendatário do contrato de duração indeterminada)\n- Art. 9.º NRAU (forma das comunicações — escrito assinado pelo declarante e remetido por carta registada com aviso de receção para o endereço do senhorio constante do contrato ou da sua última comunicação, n.os 1 e 3, ou entregue em mão com nota de receção, n.º 6)",
+        "motivo": "Descrições dos n.os 1 e 3 do art. 1098.º CC erradas; a forma das comunicações está no art. 9.º NRAU (o art. 24.º é o coeficiente de atualização).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=691A0009&nid=691&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Cálculo da indemnização (se denúncia antecipada)",
+        "para": "- Cálculo das rendas do pré-aviso em falta (se a antecedência não for observada — art. 1098.º, n.º 6, CC)",
+        "motivo": "Não há indemnização por denúncia; só as rendas do pré-aviso em falta (art. 1098.º, n.º 6, CC).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1098&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "**VERSÃO A — DENÚNCIA NO FIM DO PRAZO (60 dias):**",
+        "para": "**VERSÃO A — OPOSIÇÃO À RENOVAÇÃO NO FIM DO PRAZO (120 / 90 / 60 dias ou 1/3 do prazo — art. 1098.º, n.º 1):**",
+        "motivo": "Antecedência graduada do art. 1098.º, n.º 1, CC.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1098&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "Assunto: Denúncia do contrato de arrendamento — [morada do locado]",
+        "para": "Assunto: Oposição à renovação do contrato de arrendamento — [morada do locado]",
+        "motivo": "No fim do prazo o arrendatário opõe-se à renovação (art. 1098.º, n.º 1, CC).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1098&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "O contrato cessará, assim, no dia [data de cessação].",
+        "para": "O contrato cessará, assim, no termo do prazo em curso, no dia [data de termo], sendo a presente comunicação feita com a antecedência mínima de [120 / 90 / 60 dias / um terço do prazo] exigida pelo art. 1098.º, n.º 1, do Código Civil.",
+        "motivo": "A oposição faz cessar o contrato no termo do prazo em curso, com a antecedência graduada do art. 1098.º, n.º 1, CC.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1098&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "**VERSÃO B — DENÚNCIA ANTECIPADA (120 dias + indemnização):**",
+        "para": "**VERSÃO B — DENÚNCIA DURANTE O PRAZO, DECORRIDO 1/3 DO PRAZO (120 ou 60 dias — art. 1098.º, n.º 3):**",
+        "motivo": "A denúncia exige o decurso de um terço do prazo e não implica indemnização (art. 1098.º, n.º 3, CC).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1098&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "venho comunicar a V.ª Ex.ª a minha intenção de denunciar antecipadamente o contrato de arrendamento relativo ao imóvel sito em [morada], celebrado em [data].\n\nO contrato cessará no dia [data — mínimo 120 dias após envio desta comunicação].\n\nNos termos legais, fica devida indemnização equivalente a [■ VERIFICAR: número de rendas correspondentes ao período de pré-aviso não cumprido], no montante de €[calcular]. Disponho-me a efetuar o pagamento [na data de entrega do locado / faseadamente — descreve].",
+        "para": "venho comunicar a V.ª Ex.ª a denúncia do contrato de arrendamento relativo ao imóvel sito em [morada], celebrado em [data], tendo já decorrido um terço do prazo de duração [inicial / da renovação em curso].\n\nO contrato cessará no dia [data — com a antecedência mínima de 120 dias, se o prazo do contrato for igual ou superior a um ano, ou de 60 dias, se for inferior; a denúncia produz efeitos no final de um mês do calendário gregoriano, a contar da comunicação (art. 1098.º, n.º 5, do Código Civil)].\n\n[Só se a antecedência não for observada:] Nos termos do art. 1098.º, n.º 6, do Código Civil, a inobservância da antecedência não obsta à cessação do contrato, mas obriga ao pagamento das rendas correspondentes ao período de pré-aviso em falta, no montante de €[renda mensal × período em falta]. Disponho-me a efetuar o pagamento [na data de entrega do locado / faseadamente — descreve].",
+        "motivo": "Respeitada a antecedência não há indemnização; a antecedência é de 120 ou 60 dias e os efeitos dão-se no fim de um mês do calendário (art. 1098.º, n.os 3, 5 e 6, CC).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1098&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "deduzida da referida indemnização e de eventuais danos",
+        "para": "deduzida [se aplicável: das rendas do pré-aviso em falta e] de eventuais danos",
+        "motivo": "Só há rendas a pagar se faltar antecedência (art. 1098.º, n.º 6, CC).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1098&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- [ ] Tipo de denúncia identificado (fim de prazo / antecipada)\n- [ ] Prazo de 60/120 dias calculado e respeitado\n- [ ] Indemnização calculada (se antecipada)",
+        "para": "- [ ] Tipo de comunicação identificado (oposição à renovação / denúncia decorrido 1/3 do prazo / denúncia após oposição do senhorio / duração indeterminada)\n- [ ] Antecedência calculada e respeitada (art. 1098.º, n.os 1, 3 ou 4, ou art. 1100.º, n.º 1, CC)\n- [ ] Rendas do período de pré-aviso em falta calculadas, se a antecedência não for observada (art. 1098.º, n.º 6, CC)",
+        "motivo": "A verificação final repetia os prazos únicos e a indemnização.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1098&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Data de término do prazo atual: [dd/mm/aaaa]",
+        "para": "- Tipo de contrato: [prazo certo / duração indeterminada]\n- Prazo inicial e duração da renovação em curso: [X anos]\n- Data de término do prazo atual: [dd/mm/aaaa]",
+        "motivo": "A antecedência depende do tipo de contrato e da duração do prazo em curso (arts. 1096.º, 1098.º e 1100.º CC).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1096&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Tipo: [no fim do prazo / antecipada]",
+        "para": "- Tipo: [oposição à renovação / denúncia decorrido 1/3 do prazo / denúncia após oposição do senhorio / duração indeterminada]",
+        "motivo": "Tipos de comunicação do art. 1098.º e do art. 1100.º CC.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1100&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Confirmar a contagem dos efeitos «no final de um mês do calendário gregoriano, a contar da comunicação» (arts. 1098.º, n.º 5, e 1100.º, n.º 3, CC) no caso concreto.",
+      "Avaliar a validade de cláusulas contratuais que agravem a denúncia do arrendatário, face à imperatividade das normas sobre a denúncia (art. 1080.º CC).",
+      "Contratos para habitação não permanente ou fins especiais transitórios e contratos anteriores ao NRAU: confirmar o regime aplicável.",
+      "Se o locado for casa de morada de família, as comunicações do arrendatário podem ser subscritas por um só dos cônjuges, salvo as do art. 1682.º-B CC (art. 12.º, n.os 2 e 3, NRAU)."
+    ],
+    "fontes": [
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1080&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1096&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1098&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1100&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=691A0009&nid=691&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=691A0024&nid=691&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+    ]
+  },
+  {
+    "codigo": "IMO-012",
+    "veredicto": "corrigida",
+    "resumo": "A ficha afirmava que, decorridos 8 dias de mora, o senhorio pode resolver o contrato (art. 1048.º CC) e que o arrendatário purga a mora pagando rendas e juros «até à resolução» (art. 1048.º, n.º 2). A resolução por falta de pagamento exige mora igual ou superior a três meses ou mais de quatro atrasos superiores a oito dias em 12 meses, com aviso após o terceiro (art. 1083.º, n.os 3, 4 e 6, CC); os oito dias do art. 1041.º, n.º 2, são o prazo em que o arrendatário faz cessar a mora sem indemnização nem resolução; o art. 1048.º trata da caducidade do direito de resolução exercido judicialmente. Acrescentei a indemnização de 20 % (art. 1041.º, n.º 1), a faculdade de pôr fim à mora num mês (art. 1084.º, n.os 3 e 4), a notificação do fiador (art. 1041.º, n.os 5 e 6), a taxa legal civil fixada por portaria (art. 559.º CC, não por aviso do Banco de Portugal) e o BAS em lugar do BNA.",
+    "descricao": "Redige a notificação formal para pagamento de rendas em atraso, com indicação do montante em dívida, da indemnização de 20 % e dos juros de mora, do prazo de regularização e da advertência sobre as consequências do incumprimento (resolução do contrato e despejo), em conformidade com os arts. 1041.º, 1083.º e 1084.º CC e o NRAU.",
+    "descricao_en": "Drafts the formal notice demanding payment of rent arrears, stating the amount owed, the 20% compensation and default interest, the deadline for regularisation and a warning of the consequences of non-payment (termination of the contract and eviction), in accordance with Arts. 1041, 1083 and 1084 CC and the NRAU.",
+    "substituicoes": [
+      {
+        "de": "— Os juros de mora são calculados à taxa legal em vigor [■ VERIFICAR: taxa anual de juros moratórios civis].",
+        "para": "— Constituindo-se o arrendatário em mora, o senhorio tem o direito de exigir, além das rendas em atraso, uma indemnização igual a 20 % do que for devido, salvo se o contrato for resolvido com base na falta de pagamento; cessa o direito à indemnização ou à resolução se o arrendatário fizer cessar a mora no prazo de oito dias a contar do seu começo (art. 1041.º, n.os 1 e 2, CC). Juros de mora à taxa legal civil (arts. 806.º e 559.º CC) [■ VERIFICAR: se são cumuláveis com a indemnização de 20 % sobre as mesmas rendas].\n— Havendo fiança e não fazendo o arrendatário cessar a mora no prazo de oito dias, o senhorio deve, nos 90 dias seguintes, notificar o fiador da mora e das quantias em dívida, só podendo exigir-lhe a satisfação dos seus créditos depois dessa notificação (art. 1041.º, n.os 5 e 6, CC).",
+        "motivo": "Faltavam a indemnização de 20 %, o prazo de oito dias para cessar a mora e a notificação do fiador (art. 1041.º CC).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1041&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "— Após 8 dias de mora (art. 1048.º CC), o senhorio pode resolver o contrato.",
+        "para": "— A resolução pelo senhorio por falta de pagamento exige mora igual ou superior a três meses no pagamento da renda, encargos ou despesas (art. 1083.º, n.º 3, CC) ou mora superior a oito dias, por mais de quatro vezes, seguidas ou interpoladas, num período de 12 meses, tendo o senhorio informado o arrendatário, por carta registada com aviso de receção, após o terceiro atraso, de que é sua intenção pôr fim ao arrendamento (art. 1083.º, n.os 4 e 6, CC); opera por comunicação ao arrendatário (art. 1084.º, n.º 2, CC).",
+        "motivo": "Oito dias de mora não bastam para resolver: o art. 1083.º, n.os 3, 4 e 6, CC exige três meses de mora ou mais de quatro atrasos superiores a oito dias em 12 meses, com aviso prévio.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1083&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "— A notificação deve conceder um prazo razoável para pagamento (usualmente 8 a 15 dias).",
+        "para": "— A notificação não é pressuposto da mora (a renda tem prazo certo — art. 805.º, n.º 2, al. a), CC) nem da resolução do art. 1083.º, n.º 3, CC; o prazo para pagamento (usualmente 8 a 15 dias) é fixado pelo senhorio. A comunicação do montante em dívida permite, com o contrato, a execução para pagamento das rendas (art. 14.º-A, n.º 1, NRAU) e o pedido de pagamento cumulado no procedimento especial de despejo (art. 15.º, n.º 6, NRAU).",
+        "motivo": "A lei não exige prazo «razoável»; a comunicação do montante em dívida releva para o título executivo e o despejo (arts. 14.º-A e 15.º, n.º 6, NRAU).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=691A0015&nid=691&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Há juros de mora a acrescer?",
+        "para": "- Há indemnização de 20 % (art. 1041.º, n.º 1, CC) e/ou juros de mora a acrescer? A mora cessou nos primeiros oito dias (art. 1041.º, n.º 2, CC)?",
+        "motivo": "Faltava a indemnização de 20 % do art. 1041.º, n.º 1, CC.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1041&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- É primeira mora ou há padrão de incumprimento?",
+        "para": "- É primeira mora ou há padrão de incumprimento (atrasos superiores a oito dias nos últimos 12 meses — art. 1083.º, n.os 4 e 6, CC; se este for o terceiro, ponderar o aviso por carta registada com aviso de receção)?",
+        "motivo": "O padrão de atrasos é fundamento autónomo de resolução, com aviso após o terceiro (art. 1083.º, n.os 4 e 6, CC).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1083&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Art. 1048.º CC (mora no pagamento da renda — direito de resolução)\n- Art. 804.º CC (mora do devedor)\n- Art. 806.º CC (juros de mora)\n- Art. 1083.º CC (resolução do contrato de arrendamento)\n- Art. 1048.º, n.º 2 CC (purga da mora — possibilidade de o arrendatário pagar antes da resolução)\n- Taxa legal de juros moratórios civis [■ VERIFICAR: taxa vigente — Aviso do Banco de Portugal]",
+        "para": "- Art. 1041.º CC (mora do locatário — indemnização de 20 %, salvo resolução com base na falta de pagamento, n.º 1; cessação da mora em oito dias, n.º 2; notificação do fiador nos 90 dias seguintes, n.os 5 e 6)\n- Art. 1042.º CC (cessação da mora — oferta das rendas em atraso e da indemnização do art. 1041.º, n.º 1)\n- Art. 804.º CC (mora do devedor)\n- Art. 806.º CC (juros de mora)\n- Art. 1083.º CC (resolução do contrato de arrendamento — mora igual ou superior a três meses, n.º 3; mais de quatro atrasos superiores a oito dias em 12 meses, com aviso após o terceiro, n.os 4 e 6)\n- Art. 1084.º CC (resolução por comunicação, n.º 2; fica sem efeito se o arrendatário puser fim à mora no prazo de um mês, uma única vez por contrato, n.os 3 e 4)\n- Art. 1048.º CC (caducidade do direito à resolução exercido judicialmente se o arrendatário, até ao termo do prazo para a contestação, pagar, depositar ou consignar em depósito as somas devidas e a indemnização do art. 1041.º, n.º 1 — n.º 1; uma única vez por contrato — n.º 2; na resolução extrajudicial, remissão para o art. 1084.º, n.os 3 e 4 — n.º 4)\n- Taxa legal de juros moratórios civis: 4 % ao ano, fixada por portaria (art. 559.º, n.º 1, CC; Portaria n.º 291/2003, de 8 de abril) [■ VERIFICAR: que se mantém em vigor à data do cálculo]\n- Arts. 14.º-A e 15.º, n.º 6, NRAU (comunicação do montante em dívida — título executivo e pedido de pagamento no procedimento especial de despejo)",
+        "motivo": "O art. 1048.º CC não confere o direito de resolução nem a purga «até à resolução» (trata da caducidade da resolução judicial); faltavam os arts. 1041.º e 1084.º CC; a taxa civil é fixada por portaria (art. 559.º CC), não por aviso do Banco de Portugal.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1048&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Cálculo dos juros de mora\n- Prazo para pagamento\n- Consequências do não pagamento (resolução + BNA / ação de despejo)",
+        "para": "- Cálculo da indemnização de 20 % (art. 1041.º, n.º 1, CC) e/ou dos juros de mora\n- Prazo para pagamento\n- Consequências do não pagamento (resolução, verificados os pressupostos do art. 1083.º, n.os 3 ou 4, CC + procedimento especial de despejo no Balcão do Arrendatário e do Senhorio — BAS, art. 15.º-A NRAU — ou ação de despejo)",
+        "motivo": "O BNA foi substituído pelo Balcão do Arrendatário e do Senhorio (art. 15.º-A NRAU, Lei n.º 56/2023).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=691A0015&nid=691&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "Nos termos do disposto no art. 1048.º do Código Civil, notifico V.ª Ex.ª para",
+        "para": "Nos termos do disposto nos arts. 1038.º, alínea a), e 1041.º do Código Civil, notifico V.ª Ex.ª para",
+        "motivo": "O art. 1048.º CC não é a base da interpelação para pagamento (obrigação de pagar a renda e mora: arts. 1038.º, al. a), e 1041.º CC).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1041&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "[repetar para cada mês em atraso]\n\nSUBTOTAL DE RENDAS: €[soma]\nJUROS DE MORA (taxa [X]% a.a.): €[calcular — ou \"a calcular à data do pagamento\"]\nTOTAL EM DÍVIDA: €[total]",
+        "para": "[repetir para cada mês em atraso]\n\nSUBTOTAL DE RENDAS: €[soma]\nINDEMNIZAÇÃO DE 20 % (art. 1041.º, n.º 1, do Código Civil — não devida se a mora tiver cessado no prazo de oito dias a contar do seu começo, n.º 2, nem se o contrato vier a ser resolvido com base na falta de pagamento): €[20 % do subtotal]\nJUROS DE MORA (taxa legal civil de 4 % a.a. — arts. 806.º e 559.º do Código Civil) [■ VERIFICAR: cumulação com a indemnização de 20 %]: €[calcular — ou \"a calcular à data do pagamento\"]\nTOTAL EM DÍVIDA: €[total]",
+        "motivo": "Faltava a indemnização de 20 % do art. 1041.º, n.º 1, CC; taxa legal civil indicada.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1041&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "Caso não proceda ao pagamento integral no prazo indicado, reservo-me o direito de proceder à resolução do contrato de arrendamento com fundamento em mora no pagamento da renda, nos termos do art. 1083.º do Código Civil, e de intentar o respetivo procedimento de despejo junto do Balcão Nacional do Arrendamento ou dos Tribunais competentes.",
+        "para": "Caso não proceda ao pagamento integral no prazo indicado, reservo-me o direito de, verificados os respetivos pressupostos, proceder à resolução do contrato de arrendamento com fundamento em mora no pagamento da renda, nos termos do art. 1083.º do Código Civil [n.º 3: mora igual ou superior a três meses / n.os 4 e 6: mora superior a oito dias por mais de quatro vezes em 12 meses], por comunicação nos termos do art. 1084.º, n.º 2, do Código Civil, e de recorrer ao procedimento especial de despejo junto do Balcão do Arrendatário e do Senhorio (BAS) ou aos tribunais competentes.\n\n[Se este for o terceiro atraso superior a oito dias nos últimos 12 meses e o senhorio pretender valer-se do art. 1083.º, n.º 4, do Código Civil:] Informo V.ª Ex.ª de que é minha intenção pôr fim ao arrendamento caso se verifique mora superior a oito dias no pagamento da renda por mais de quatro vezes, seguidas ou interpoladas, num período de 12 meses (art. 1083.º, n.os 4 e 6, do Código Civil).\n\nA presente comunicação indica o montante em dívida para os efeitos dos arts. 14.º-A e 15.º, n.º 6, do NRAU (Lei n.º 6/2006, de 27 de fevereiro).",
+        "motivo": "A resolução só é possível nos casos do art. 1083.º, n.os 3 e 4, CC; o BNA deu lugar ao BAS (art. 15.º-A NRAU); a carta pode servir de aviso do n.º 6 e de comunicação do montante em dívida.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1083&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "Chama-se a atenção para o disposto no art. 1048.º, n.º 2 do Código Civil: V.ª Ex.ª poderá purgar a mora mediante pagamento integral das rendas em atraso e juros, até ao momento da resolução.",
+        "para": "Chama-se a atenção de V.ª Ex.ª para o seguinte: [se ainda não tiverem decorrido oito dias desde o vencimento:] se fizer cessar a mora no prazo de oito dias a contar do seu começo, cessa o direito à indemnização ou à resolução (art. 1041.º, n.º 2, do Código Civil); o arrendatário pode pôr fim à mora oferecendo o pagamento das rendas em atraso e da indemnização de 20 % (art. 1042.º, n.º 1, do Código Civil); e, se o contrato vier a ser resolvido por comunicação com fundamento em mora igual ou superior a três meses, a resolução fica sem efeito se V.ª Ex.ª puser fim à mora no prazo de um mês, faculdade de que só pode fazer uso uma única vez com referência a cada contrato (art. 1084.º, n.os 3 e 4, do Código Civil).",
+        "motivo": "O art. 1048.º, n.º 2, CC não prevê purga «até à resolução»: vale o art. 1041.º, n.º 2, o art. 1042.º e o art. 1084.º, n.os 3 e 4, CC.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1084&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- [ ] Juros de mora calculados ou referenciados\n- [ ] Prazo de pagamento fixado\n- [ ] Referência ao art. 1048.º CC",
+        "para": "- [ ] Indemnização de 20 % (art. 1041.º, n.º 1, CC) e/ou juros de mora calculados ou referenciados\n- [ ] Prazo de pagamento fixado\n- [ ] Referência aos arts. 1041.º e 1083.º CC",
+        "motivo": "Base legal da notificação: arts. 1041.º e 1083.º CC, não o art. 1048.º.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1041&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- [ ] IBAN para pagamento indicado",
+        "para": "- [ ] IBAN para pagamento indicado\n- [ ] Fiador notificado da mora e das quantias em dívida nos 90 dias seguintes ao termo do prazo de oito dias (art. 1041.º, n.os 5 e 6, CC)",
+        "motivo": "A notificação do fiador é condição para lhe exigir o pagamento (art. 1041.º, n.os 5 e 6, CC).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1041&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Renda mensal: [€ valor]",
+        "para": "- Renda mensal: [€ valor]\n- Fiador: [nome e morada / não há]",
+        "motivo": "Necessário para a notificação do fiador (art. 1041.º, n.º 5, CC).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1041&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Juros de mora a incluir: [sim/não]",
+        "para": "- Indemnização de 20 % e/ou juros de mora a incluir: [sim/não]",
+        "motivo": "Indemnização do art. 1041.º, n.º 1, CC.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1041&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Confirmar na jurisprudência se a indemnização de 20 % do art. 1041.º, n.º 1, CC é cumulável com juros de mora sobre as mesmas rendas.",
+      "Confirmar que a taxa de juros civis de 4 % (Portaria n.º 291/2003) se mantém à data do cálculo; no arrendamento não habitacional entre empresas, ponderar se se aplicam os juros comerciais.",
+      "Para servir de título executivo (art. 14.º-A NRAU), ver o art. 10.º, n.os 2, al. b), e 3, NRAU: a recusa ou a devolução da carta não vale como receção e obriga a novo envio decorridos 30 a 60 dias.",
+      "Pôr fim à mora no prazo de um mês (art. 1084.º, n.º 3, CC) pode exigir também a indemnização de 20 % (arts. 1042.º e 1048.º, n.º 4, CC): confirmar a posição da jurisprudência."
+    ],
+    "fontes": [
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0805&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0806&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0559&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1038&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1041&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1048&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1083&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1084&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=691A0009&nid=691&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=691A0015&nid=691&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://e-justice.europa.eu/topics/taking-legal-action/where-and-how/interest-rates/pt_pt"
+    ]
+  },
+  {
+    "codigo": "IMO-013",
+    "veredicto": "corrigida",
+    "resumo": "A ficha exigia notificação prévia para pagamento e resolvia por «mora superior a 8 dias» (arts. 1048.º e 1083.º, n.º 1, CC); a resolução por falta de pagamento exige mora igual ou superior a três meses ou mais de quatro atrasos superiores a oito dias em 12 meses, com aviso após o terceiro (art. 1083.º, n.os 3, 4 e 6), opera por comunicação fundamentada (art. 1084.º, n.º 2) feita pela forma do art. 9.º, n.º 7, NRAU (não por simples carta registada) e caduca em três meses (art. 1085.º, n.º 2). A versão «outro fundamento» resolvia por carta com efeitos imediatos: nas causas do art. 1083.º, n.º 2, a resolução é decretada judicialmente (art. 1084.º, n.º 1), pelo que passou a ser interpelação prévia à ação de despejo. Acrescentei a faculdade de pôr fim à mora num mês (art. 1084.º, n.os 3 e 4) e a desocupação após um mês (art. 1087.º), atualizei o BNA para o BAS (art. 15.º-A NRAU) e corrigi o DL n.º 1/2013, que regula o procedimento especial de despejo e não a proteção de arrendatários vulneráveis.",
+    "descricao": "Redige a comunicação formal de resolução do contrato de arrendamento pelo senhorio por falta de pagamento de rendas (arts. 1083.º, n.os 3 e 4, e 1084.º, n.º 2, CC), com a forma do art. 9.º, n.º 7, do NRAU, os prazos e os efeitos jurídicos da resolução, e a interpelação prévia à ação de despejo nos restantes incumprimentos (uso para fim diferente, obras não autorizadas, subarrendamento ilícito), em que a resolução é decretada judicialmente.",
+    "descricao_en": "Drafts the landlord's formal notice terminating the lease agreement (resolução) for non-payment of rent (Arts. 1083(3) and (4) and 1084(2) CC), in the form required by Art. 9(7) of the NRAU, with the time limits and the legal effects of termination, and the prior demand before an eviction action for other breaches (use for a different purpose, unauthorised works, unlawful subletting), where termination must be ordered by the court.",
+    "substituicoes": [
+      {
+        "de": "— A resolução por falta de pagamento requer prévia notificação para pagamento com fixação de prazo (art. 1048.º CC).",
+        "para": "— A resolução pelo senhorio por falta de pagamento não depende de prévia notificação para pagamento: exige mora igual ou superior a três meses no pagamento da renda, encargos ou despesas (art. 1083.º, n.º 3, CC) ou mora superior a oito dias, por mais de quatro vezes, seguidas ou interpoladas, num período de 12 meses, tendo o senhorio informado o arrendatário, por carta registada com aviso de receção, após o terceiro atraso, de que é sua intenção pôr fim ao arrendamento (art. 1083.º, n.os 4 e 6, CC).\n— Opera por comunicação ao arrendatário em que se invoque fundamentadamente a obrigação incumprida (art. 1084.º, n.º 2, CC), feita por notificação avulsa, por contacto pessoal de advogado, solicitador ou agente de execução comprovadamente mandatado ou, nos contratos escritos com domicílio convencionado, por carta registada com aviso de receção (art. 9.º, n.º 7, NRAU), e deve ser efetivada no prazo de três meses a contar do conhecimento do facto, sob pena de caducidade (art. 1085.º, n.º 2, CC; facto continuado ou duradouro: n.º 3).\n— Fundada na mora do art. 1083.º, n.º 3, CC, a resolução fica sem efeito se o arrendatário puser fim à mora no prazo de um mês, faculdade de que só pode fazer uso uma única vez com referência a cada contrato (art. 1084.º, n.os 3 e 4, CC).\n— Nas restantes causas (art. 1083.º, n.º 2, CC: uso para fim diverso, obras não autorizadas, cessão ilícita do gozo, etc.), a resolução pelo senhorio é decretada nos termos da lei de processo (art. 1084.º, n.º 1, CC), em ação de despejo (art. 14.º, n.º 1, NRAU): a carta não resolve o contrato.",
+        "motivo": "A resolução por falta de pagamento não depende de notificação prévia, exige os pressupostos do art. 1083.º, n.os 3, 4 e 6, CC e a forma do art. 9.º, n.º 7, NRAU; nas causas do n.º 2 é judicial (art. 1084.º, n.º 1, CC).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1084&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "— Após a resolução, o arrendatário deve desocupar voluntariamente; se não o fizer, o senhorio recorre ao BNA ou a tribunal.",
+        "para": "— A desocupação do locado é exigível após o decurso de um mês a contar da resolução, se outro prazo não for judicialmente fixado ou acordado pelas partes (art. 1087.º CC); se o arrendatário não desocupar, o senhorio recorre ao procedimento especial de despejo no Balcão do Arrendatário e do Senhorio (BAS, que sucedeu ao Balcão Nacional do Arrendamento — arts. 15.º e 15.º-A NRAU) ou a tribunal.",
+        "motivo": "Prazo de desocupação do art. 1087.º CC; o BNA foi substituído pelo BAS (art. 15.º-A NRAU, Lei n.º 56/2023).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1087&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Se falta de pagamento: foi enviada notificação prévia? O prazo decorreu sem pagamento?\n- Se outro fundamento: é suficientemente grave para resolução (art. 1083.º, n.º 2 CC)?",
+        "para": "- Se falta de pagamento: a mora é igual ou superior a três meses (art. 1083.º, n.º 3, CC) ou houve mais de quatro atrasos superiores a oito dias em 12 meses, com a carta registada com aviso de receção enviada após o terceiro (art. 1083.º, n.os 4 e 6, CC)? A resolução é efetivada nos três meses seguintes ao conhecimento do facto (art. 1085.º, n.º 2, CC)? O arrendatário já usou a faculdade de pôr fim à mora neste contrato (art. 1084.º, n.º 4, CC)?\n- Se outro fundamento: é suficientemente grave para resolução (art. 1083.º, n.º 2 CC)? Se for, a resolução tem de ser decretada judicialmente (art. 1084.º, n.º 1, CC).",
+        "motivo": "Os pressupostos da resolução são os do art. 1083.º, n.os 3, 4 e 6, CC, e não uma notificação prévia.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1083&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Art. 1083.º, n.º 1 CC (resolução por não pagamento — mora > 8 dias)\n- Art. 1083.º, n.º 2 CC (outras causas — gravidade do incumprimento)\n- Art. 1048.º CC (mora no pagamento da renda)\n- Art. 432.º CC (resolução do contrato — regime geral)\n- Art. 24.º NRAU (forma das comunicações — carta registada com AR)\n- DL 1/2013 — proteções especiais para arrendatários vulneráveis [■ VERIFICAR se aplicável]",
+        "para": "- Art. 1083.º, n.os 3, 4 e 6, CC (resolução por falta de pagamento — mora igual ou superior a três meses; ou mora superior a oito dias por mais de quatro vezes em 12 meses, com aviso por carta registada com aviso de receção após o terceiro atraso)\n- Art. 1083.º, n.º 2 CC (outras causas — gravidade do incumprimento)\n- Art. 1084.º CC (modo de operar — resolução judicial nas causas do n.º 2 do art. 1083.º, n.º 1; por comunicação nos casos dos n.os 3 e 4, n.º 2; mora purgável no prazo de um mês, uma única vez por contrato, n.os 3 e 4)\n- Art. 1085.º CC (caducidade do direito de resolução — um ano; três meses nos casos dos n.os 3 e 4 do art. 1083.º)\n- Art. 1087.º CC (desocupação exigível um mês após a resolução)\n- Art. 1048.º CC (caducidade do direito à resolução exercido judicialmente pelo pagamento até ao termo do prazo da contestação; na resolução extrajudicial, remissão para o art. 1084.º, n.os 3 e 4)\n- Art. 432.º CC (resolução do contrato — regime geral)\n- Art. 9.º, n.º 7, NRAU (forma da comunicação de resolução — notificação avulsa; contacto pessoal de advogado, solicitador ou agente de execução; carta registada com aviso de receção só havendo domicílio convencionado no contrato escrito); art. 12.º, n.º 1, NRAU (casa de morada de família: a cada um dos cônjuges)\n- Arts. 14.º e 15.º e seguintes NRAU, DL n.º 1/2013, de 7 de janeiro, e Portaria n.º 49/2024, de 15 de fevereiro (ação de despejo e procedimento especial de despejo no BAS; o DL n.º 1/2013 regula esse procedimento e não é um regime de proteção de arrendatários vulneráveis); proteções do arrendatário no despejo: suspensão e diferimento da desocupação (arts. 15.º-M a 15.º-O NRAU) [■ VERIFICAR: requisitos no caso concreto]",
+        "motivo": "O n.º 1 do art. 1083.º não prevê mora de oito dias; faltavam os arts. 1084.º, 1085.º e 1087.º CC; a forma da resolução está no art. 9.º, n.º 7, NRAU (o art. 24.º é o coeficiente de atualização); o DL n.º 1/2013 regula o procedimento especial de despejo.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=691A0009&nid=691&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Referência à notificação prévia (se houve — data e resultado)",
+        "para": "- Se a resolução se fundar no art. 1083.º, n.º 4, CC: datas dos atrasos e referência à carta registada com aviso de receção enviada após o terceiro (n.º 6)",
+        "motivo": "A notificação prévia para pagamento não é requisito; só a carta do art. 1083.º, n.º 6, CC no caso do n.º 4.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1083&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "Nos termos do art. 1083.º do Código Civil, venho comunicar a V.ª Ex.ª a resolução do contrato de arrendamento relativo ao imóvel sito em [morada], celebrado em [data], com fundamento em [fundamento específico].",
+        "para": "[Esta comunicação só resolve o contrato nos casos de falta de pagamento do art. 1083.º, n.os 3 e 4, do Código Civil; nos outros fundamentos, usar apenas a versão de interpelação abaixo.]\n\nNos termos do art. 1083.º do Código Civil [n.º 3 / n.os 4 e 6] e do art. 1084.º, n.º 2, do Código Civil, venho comunicar a V.ª Ex.ª a resolução do contrato de arrendamento relativo ao imóvel sito em [morada], celebrado em [data], com fundamento em [mora igual ou superior a três meses no pagamento da renda / mora superior a oito dias no pagamento da renda por mais de quatro vezes em 12 meses].",
+        "motivo": "Só a falta de pagamento dos n.os 3 e 4 do art. 1083.º CC permite resolver por comunicação (art. 1084.º, n.º 2, CC).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1084&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "\"Conforme notificação enviada a [data] por carta registada com aviso de receção, V.ª Ex.ª foi interpelado(a) para pagamento das rendas dos meses de [meses], no valor total de €[valor], no prazo de [X] dias. Decorrido o prazo sem que tenha sido efetuado o pagamento, a resolução do contrato fica desde já declarada ao abrigo dos arts. 1048.º e 1083.º, n.º 1, do Código Civil.\"",
+        "para": "\"[Se fundada no n.º 3:] V.ª Ex.ª encontra-se em mora no pagamento das rendas dos meses de [meses], vencidas em [datas], no valor total de €[valor], mora igual ou superior a três meses que torna inexigível ao senhorio a manutenção do arrendamento (art. 1083.º, n.º 3, do Código Civil). [Se fundada no n.º 4:] V.ª Ex.ª constituiu-se em mora superior a oito dias no pagamento da renda por mais de quatro vezes nos últimos 12 meses ([datas]), tendo sido informado(a), por carta registada com aviso de receção de [data], enviada após o terceiro atraso, de que era intenção do senhorio pôr fim ao arrendamento (art. 1083.º, n.os 4 e 6, do Código Civil). A resolução do contrato fica declarada por esta comunicação, nos termos do art. 1084.º, n.º 2, do Código Civil. [Só no caso do n.º 3:] A resolução fica sem efeito se V.ª Ex.ª puser fim à mora no prazo de um mês, faculdade de que só pode fazer uso uma única vez com referência a cada contrato (art. 1084.º, n.os 3 e 4, do Código Civil).\"",
+        "motivo": "A resolução assenta na mora de três meses ou no padrão de atrasos (art. 1083.º, n.os 3, 4 e 6, CC), não numa interpelação prévia nem nos arts. 1048.º e 1083.º, n.º 1.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1083&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "[VERSÃO OUTRO FUNDAMENTO:]\n\"Com efeito, verificou-se [descrição do incumprimento grave — ex.: uso do locado para fins comerciais sem autorização / realização de obras não autorizadas / subarrendamento ilícito], o que constitui incumprimento grave das obrigações contratuais e legais do arrendatário, com fundamento suficiente para resolução do contrato, nos termos do art. 1083.º, n.º 2, do Código Civil.\"",
+        "para": "[VERSÃO OUTRO FUNDAMENTO — interpelação prévia à ação de despejo, e não comunicação de resolução: nas causas do art. 1083.º, n.º 2, do Código Civil, a resolução pelo senhorio é decretada nos termos da lei de processo (art. 1084.º, n.º 1, do Código Civil); nesta versão, o primeiro parágrafo e os parágrafos sobre a resolução e a entrega do imóvel são substituídos por este texto:]\n\"Com efeito, verificou-se [descrição do incumprimento grave — ex.: uso do locado para fins comerciais sem autorização / realização de obras não autorizadas / subarrendamento ilícito], o que constitui incumprimento que, pela sua gravidade ou consequências, torna inexigível ao senhorio a manutenção do arrendamento, nos termos do art. 1083.º, n.º 2, do Código Civil. Fica V.ª Ex.ª advertido(a) de que, [não cessando o incumprimento no prazo de [X] dias,] será intentada ação de despejo para que a resolução do contrato seja decretada judicialmente.\"",
+        "motivo": "Nas causas do art. 1083.º, n.º 2, CC a resolução pelo senhorio é judicial (art. 1084.º, n.º 1, CC); a carta não pode declará-la.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1084&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "Em consequência, o contrato de arrendamento encontra-se resolvido com efeitos imediatos / a partir de [data]. V.ª Ex.ª deverá entregar o imóvel livre, devoluto e nas condições contratuais no prazo de [X] dias.",
+        "para": "[Só na versão falta de pagamento:] Em consequência, o contrato de arrendamento fica resolvido por efeito desta comunicação. A desocupação e a entrega do imóvel, livre, devoluto e nas condições contratuais, são exigíveis após o decurso de um mês a contar da resolução (art. 1087.º do Código Civil) [ou no prazo acordado entre as partes].",
+        "motivo": "Prazo legal de desocupação de um mês, salvo acordo (art. 1087.º CC).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1087&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "serei obrigado(a) a intentar o competente procedimento de despejo junto do Balcão Nacional do Arrendamento ou dos Tribunais competentes.",
+        "para": "serei obrigado(a) a intentar o competente procedimento especial de despejo junto do Balcão do Arrendatário e do Senhorio (BAS) ou a recorrer aos tribunais competentes.",
+        "motivo": "O BNA foi substituído pelo Balcão do Arrendatário e do Senhorio (art. 15.º-A NRAU).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=691A0015&nid=691&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- [ ] Prévia notificação para pagamento referenciada (se falta de renda)\n- [ ] Prazo de notificação prévia respeitado\n- [ ] Montante em dívida discriminado (se aplicável)\n- [ ] Data de cessação ou prazo de saída fixado\n- [ ] Consequências de não desocupação indicadas (BNA / tribunal)\n- [ ] Envio por carta registada com AR",
+        "para": "- [ ] Mora igual ou superior a três meses (art. 1083.º, n.º 3, CC) ou mais de quatro atrasos superiores a oito dias em 12 meses, com a carta do art. 1083.º, n.º 6, CC enviada após o terceiro (se falta de renda)\n- [ ] Resolução efetivada nos três meses seguintes ao conhecimento do facto (art. 1085.º, n.º 2, CC)\n- [ ] Outros fundamentos (art. 1083.º, n.º 2, CC): só interpelação; resolução a decretar em ação de despejo (art. 1084.º, n.º 1, CC)\n- [ ] Montante em dívida discriminado (se aplicável)\n- [ ] Desocupação exigível um mês após a resolução, salvo outro prazo acordado (art. 1087.º CC)\n- [ ] Consequências de não desocupação indicadas (BAS / tribunal)\n- [ ] Comunicação de resolução por notificação avulsa, contacto pessoal de advogado, solicitador ou agente de execução, ou carta registada com aviso de receção se houver domicílio convencionado no contrato escrito (art. 9.º, n.º 7, NRAU); casa de morada de família: a cada um dos cônjuges (art. 12.º, n.º 1, NRAU)",
+        "motivo": "A verificação final assentava na notificação prévia, no BNA e na simples carta registada, contra os arts. 1083.º, 1085.º e 1087.º CC e o art. 9.º, n.º 7, NRAU.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=691A0009&nid=691&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Se falta de pagamento: meses em atraso [lista], valor total [€], data da notificação prévia [dd/mm/aaaa], prazo concedido [dias]",
+        "para": "- Se falta de pagamento: meses em atraso [lista e datas de vencimento], valor total [€], data em que o senhorio teve conhecimento da mora [dd/mm/aaaa]; se fundada no art. 1083.º, n.º 4, CC: datas dos atrasos e da carta enviada após o terceiro [dd/mm/aaaa]; o arrendatário já pôs fim à mora ao abrigo do art. 1084.º, n.º 3, CC neste contrato? [sim/não]\n- Domicílio convencionado no contrato escrito: [sim/não] | Casa de morada de família: [sim/não — nome do cônjuge]",
+        "motivo": "Dados exigidos pelos arts. 1083.º a 1085.º CC e pelos arts. 9.º, n.º 7, e 12.º NRAU.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1083&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Prazo para desocupação voluntária: [dias]",
+        "para": "- Prazo para desocupação voluntária: [um mês a contar da resolução (art. 1087.º CC) ou prazo acordado]",
+        "motivo": "Prazo legal do art. 1087.º CC.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1087&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Pôr fim à mora no prazo de um mês (art. 1084.º, n.º 3, CC) pode exigir também a indemnização de 20 % (arts. 1042.º e 1048.º, n.º 4, CC): confirmar a posição da jurisprudência.",
+      "Confirmar a contagem do prazo de caducidade de três meses quando a mora se mantém (art. 1085.º, n.os 2 e 3, CC).",
+      "Arrendatário não localizado ou que recusa a comunicação: ver o art. 10.º, n.º 5, NRAU e a admissibilidade do procedimento especial de despejo com comunicação frustrada (art. 15.º, n.º 4, NRAU).",
+      "Proteções do arrendatário habitacional no despejo (suspensão e diferimento da desocupação, arts. 15.º-M a 15.º-O NRAU) e regime transitório dos contratos anteriores ao NRAU: confirmar no caso concreto."
+    ],
+    "fontes": [
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0432&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1041&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1048&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1083&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1084&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1085&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1087&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=691A0009&nid=691&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=691A0015&nid=691&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=691A0024&nid=691&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://files.diariodarepublica.pt/1s/2024/02/03300/0001000056.pdf",
+      "https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2013-588827"
+    ]
+  },
+  {
+    "codigo": "IMO-057",
+    "veredicto": "corrigida",
+    "resumo": "A ficha exigia só dois meses de mora (o art. 1083.º, n.º 3, CC exige três, ou mais de quatro atrasos superiores a oito dias em 12 meses com aviso após o terceiro, n.os 4 e 6), calculava uma indemnização de 50 % (é de 20 % desde a Lei n.º 13/2019 e não é devida se o contrato for resolvido com base na falta de pagamento, art. 1041.º, n.º 1), atribuía ao art. 1084.º, n.º 2, o prazo de um mês para pôr fim à mora (é o n.º 3, uma vez por contrato, n.º 4) e invocava um inexistente art. 9.º-A NRAU. Corrigi a forma da comunicação de resolução (art. 9.º, n.º 7, NRAU — não basta carta registada sem domicílio convencionado), acrescentei a caducidade de três meses (art. 1085.º, n.º 2) e substituí o BNA pelo Balcão do Arrendatário e do Senhorio (art. 15.º-A NRAU), com os requisitos do procedimento especial de despejo (arts. 15.º, 15.º-B e 15.º-D NRAU).",
+    "descricao": "Elabora a comunicação de resolução do contrato de arrendamento por falta de pagamento de rendas ao abrigo dos arts. 1083.º e 1084.º do Código Civil e do NRAU, com cálculo das rendas em dívida e dos juros, e o requerimento de despejo no Balcão do Arrendatário e do Senhorio (BAS).",
+    "descricao_en": "Prepares the notice terminating the lease agreement for non-payment of rent under Arts. 1083 and 1084 of the Civil Code and the NRAU, with a calculation of the rent owed and interest, and the eviction application to the Tenant and Landlord Office (BAS).",
+    "substituicoes": [
+      {
+        "de": "- Necessidade de recurso ao BNA ou acordo extrajudicial",
+        "para": "- Necessidade de recurso ao procedimento especial de despejo no Balcão do Arrendatário e do Senhorio (BAS, que sucedeu ao BNA — art. 15.º-A NRAU) ou acordo extrajudicial\n- Domicílio convencionado no contrato escrito, casa de morada de família e fiador",
+        "motivo": "O BNA foi substituído pelo Balcão do Arrendatário e do Senhorio (art. 15.º-A NRAU, Lei n.º 56/2023).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=691A0015&nid=691&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Fundamento de resolução: art. 1083.º, n.º 3, CC (falta de pagamento de renda por período ≥2 meses)\n- Comunicação de resolução: art. 1084.º CC (carta registada com AR)\n- Prazo para o arrendatário purgar a mora: art. 1084.º, n.º 2, CC (1 mês após a comunicação)\n- Indemnização: art. 1041.º, n.º 1, CC (50% das rendas em atraso se não purgar mora)",
+        "para": "- Fundamento de resolução: art. 1083.º, n.º 3, CC (mora igual ou superior a três meses no pagamento da renda, encargos ou despesas que corram por conta do arrendatário) ou art. 1083.º, n.os 4 e 6, CC (mora superior a oito dias, por mais de quatro vezes, seguidas ou interpoladas, num período de 12 meses, tendo o senhorio informado o arrendatário, por carta registada com aviso de receção, após o terceiro atraso, de que é sua intenção pôr fim ao arrendamento)\n- Caducidade: a resolução deve ser efetivada no prazo de três meses a contar do conhecimento do facto (art. 1085.º, n.º 2, CC; facto continuado ou duradouro: n.º 3)\n- Comunicação de resolução: art. 1084.º, n.º 2, CC (comunicação ao arrendatário em que se invoque fundamentadamente a obrigação incumprida), feita por notificação avulsa, por contacto pessoal de advogado, solicitador ou agente de execução comprovadamente mandatado ou, nos contratos escritos com domicílio convencionado, por carta registada com aviso de receção (art. 9.º, n.º 7, NRAU); casa de morada de família: a cada um dos cônjuges (art. 12.º, n.º 1, NRAU)\n- Faculdade do arrendatário de pôr fim à mora: a resolução fundada no art. 1083.º, n.º 3, fica sem efeito se o arrendatário puser fim à mora no prazo de um mês, uma única vez por contrato (art. 1084.º, n.os 3 e 4, CC); não se aplica à resolução fundada no n.º 4 do art. 1083.º\n- Indemnização: art. 1041.º, n.º 1, CC (20 % do que for devido, salvo se o contrato for resolvido com base na falta de pagamento; quem põe fim à mora oferece também essa indemnização — art. 1042.º, n.º 1, CC)",
+        "motivo": "Mora mínima de três meses (art. 1083.º, n.º 3, CC); forma do art. 9.º, n.º 7, NRAU; o prazo de um mês é o do art. 1084.º, n.º 3; a indemnização é de 20 % e não é devida na resolução por falta de pagamento (art. 1041.º, n.º 1, CC, redação da Lei n.º 13/2019).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1083&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Processo BNA: DL n.º 1/2013 (requerimento de despejo após resolução ineficaz ou falta de entrega)\n- Notificação prévia: obrigatória antes de resolver (art. 9.º-A NRAU para residentes vulneráveis)",
+        "para": "- Procedimento especial de despejo no Balcão do Arrendatário e do Senhorio (BAS, que sucedeu ao BNA — art. 15.º-A NRAU): arts. 15.º e seguintes NRAU, DL n.º 1/2013 e Portaria n.º 49/2024; destina-se a efetivar a cessação quando o arrendatário não desocupa o locado (art. 15.º, n.º 1, NRAU), com base no contrato e no comprovativo da comunicação de resolução (art. 15.º, n.º 2, al. e), NRAU), sendo ainda admissível quando se tenha frustrado essa comunicação (art. 15.º, n.º 4, NRAU); só para contratos com imposto do selo liquidado ou rendas declaradas para efeitos de IRS ou IRC (art. 15.º, n.º 5, NRAU)\n- Notificação prévia: não é pressuposto da resolução fundada no art. 1083.º, n.º 3, CC; no caso do n.º 4, é necessária a carta registada com aviso de receção enviada após o terceiro atraso (art. 1083.º, n.º 6, CC). Fiador: notificação da mora e das quantias em dívida nos 90 dias seguintes ao termo do prazo de oito dias (art. 1041.º, n.os 5 e 6, CC)",
+        "motivo": "Não existe art. 9.º-A no NRAU; o despejo corre no BAS (arts. 15.º e 15.º-A NRAU) e não depende de «resolução ineficaz».",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=691A0015&nid=691&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "**Indemnização (50% se não purgar mora): [€]**",
+        "para": "**Indemnização de 20 % (art. 1041.º, n.º 1, CC): não devida se o contrato for resolvido com base na falta de pagamento — [€ 0 / € se a resolução ficar sem efeito por o arrendatário pôr fim à mora]**\n**Indemnização pela não restituição do locado após a cessação (art. 1045.º CC): [€ — se aplicável]**",
+        "motivo": "A indemnização é de 20 % e não é devida quando o contrato é resolvido com base na falta de pagamento (art. 1041.º, n.º 1, CC).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1041&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "Carta registada com AR ao arrendatário, com indicação das rendas em falta, fundamento legal, prazo de purgação da mora (1 mês) e consequências da não purgação (despejo).",
+        "para": "Comunicação ao arrendatário pela forma do art. 9.º, n.º 7, NRAU (notificação avulsa, contacto pessoal de advogado, solicitador ou agente de execução, ou carta registada com aviso de receção havendo domicílio convencionado no contrato escrito), dirigida a cada um dos cônjuges se o locado for casa de morada de família (art. 12.º, n.º 1, NRAU), com a invocação fundamentada da obrigação incumprida (art. 1084.º, n.º 2, CC), a indicação das rendas em falta e do montante em dívida (art. 15.º, n.º 6, NRAU), a informação de que a resolução fica sem efeito se o arrendatário puser fim à mora no prazo de um mês, uma única vez por contrato (art. 1084.º, n.os 3 e 4, CC — só no caso do art. 1083.º, n.º 3), e a desocupação exigível após um mês a contar da resolução (art. 1087.º CC), sob pena de procedimento especial de despejo.",
+        "motivo": "A carta registada só vale havendo domicílio convencionado (art. 9.º, n.º 7, NRAU); o prazo de um mês é legal (art. 1084.º, n.º 3, CC).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=691A0009&nid=691&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "**B) REQUERIMENTO INICIAL NO BNA:**\nIdentificação do senhorio, do arrendatário, do locado, do contrato, das rendas em falta, do valor peticionado; pedido de notificação do arrendatário para desocupar.",
+        "para": "**B) REQUERIMENTO DE DESPEJO NO BAS (art. 15.º-B NRAU):**\nEm modelo próprio (por via eletrónica, se apresentado por advogado ou solicitador — n.º 6): identificação das partes (todos os arrendatários e ambos os cônjuges, se casa de morada de família — n.º 3), lugar da notificação (o local arrendado, na falta de domicílio convencionado por escrito), fundamento do despejo com o contrato e o comprovativo da comunicação de resolução (art. 15.º, n.º 2, al. e), NRAU), valor da renda, pedido com discriminação do capital, juros vencidos e outras quantias, comprovativo do imposto do selo ou da liquidação do IRS ou do IRC, designação do agente de execução ou do notário para a desocupação e IBAN (art. 15.º-B, n.º 2, NRAU). O requerido é notificado para, em 15 dias, desocupar o locado e pagar a quantia pedida, ou deduzir oposição (art. 15.º-D, n.º 1, NRAU).",
+        "motivo": "O requerimento é apresentado no BAS, com o conteúdo do art. 15.º-B NRAU.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=691A0015&nid=691&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- [ ] N.º de meses em atraso ≥ 2 (requisito art. 1083.º, n.º 3, CC)\n- [ ] Carta de resolução enviada por correio registado com AR\n- [ ] Prazo de purgação da mora (1 mês) concedido\n- [ ] Cálculo de rendas em atraso, juros e indemnização correto\n- [ ] Contrato de arrendamento junto ao requerimento BNA\n- [ ] Comprovativo de envio da carta e aviso de receção juntos",
+        "para": "- [ ] Mora igual ou superior a três meses (requisito art. 1083.º, n.º 3, CC) ou mais de quatro atrasos superiores a oito dias em 12 meses com a carta do n.º 6 (art. 1083.º, n.os 4 e 6, CC); resolução efetivada nos três meses seguintes ao conhecimento (art. 1085.º, n.º 2, CC)\n- [ ] Comunicação de resolução feita pela forma do art. 9.º, n.º 7, NRAU (e a cada um dos cônjuges, se casa de morada de família — art. 12.º, n.º 1, NRAU)\n- [ ] Faculdade de pôr fim à mora no prazo de um mês referida — prazo legal, não concedido pelo senhorio, utilizável uma única vez por contrato (art. 1084.º, n.os 3 e 4, CC)\n- [ ] Cálculo de rendas em atraso e juros correto, sem a indemnização de 20 % (não devida na resolução por falta de pagamento — art. 1041.º, n.º 1, CC)\n- [ ] Contrato de arrendamento junto ao requerimento no BAS\n- [ ] Comprovativo da comunicação de resolução (art. 15.º, n.º 2, al. e), NRAU) e do imposto do selo liquidado ou das rendas declaradas para efeitos de IRS ou IRC (art. 15.º, n.º 5, NRAU) juntos",
+        "motivo": "Verificação final alinhada com os arts. 1041.º, 1083.º a 1085.º CC e 9.º, n.º 7, e 15.º NRAU.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1083&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Arrendatário no imóvel: [sim/não]",
+        "para": "- Arrendatário no imóvel: [sim/não]\n- Domicílio convencionado no contrato escrito: [sim/não]\n- Casa de morada de família: [sim/não — nome do cônjuge]\n- Fiador (nome, morada) e data da notificação da mora: [dados]\n- Imposto do selo liquidado ou rendas declaradas em IRS/IRC: [sim/não]",
+        "motivo": "Dados exigidos pelos arts. 9.º, n.º 7, 12.º e 15.º, n.º 5, NRAU e pelo art. 1041.º, n.º 5, CC.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=691A0009&nid=691&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Confirmar a regulamentação em vigor do BAS (Portaria n.º 49/2024) — modelo do requerimento, forma de apresentação e taxa — antes de submeter.",
+      "O pedido de pagamento das rendas no procedimento especial de despejo exige que o montante em dívida tenha sido comunicado ao arrendatário (art. 15.º, n.º 6, NRAU).",
+      "Pôr fim à mora no prazo de um mês pode exigir também a indemnização de 20 % (arts. 1042.º e 1048.º, n.º 4, CC): confirmar a posição da jurisprudência.",
+      "Arrendatário não localizado: ver o art. 10.º, n.º 5, NRAU e o art. 15.º, n.º 4, NRAU.",
+      "Contratos não habitacionais ou anteriores ao NRAU: confirmar o regime aplicável."
+    ],
+    "fontes": [
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0559&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1041&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1045&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1083&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1084&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1085&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1087&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=691A0009&nid=691&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=691A0015&nid=691&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://files.diariodarepublica.pt/1s/2024/02/03300/0001000056.pdf"
+    ]
+  }
+]

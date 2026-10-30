@@ -3,20 +3,22 @@ codigo: DIG-029
 area: "Proteção de Dados e Direito Digital"
 titulo: "Plano de Resposta a Incidente de Cibersegurança"
 titulo_en: "Cybersecurity Incident Response Plan"
-descricao: "Gera um Plano de Resposta a Incidente de Cibersegurança (IRP) completo, com procedimentos de deteção, contenção, erradicação, recuperação e lições aprendidas, alinhado com o RGPD (notificação à CNPD em 72h), a Diretiva NIS2 (transposta pela Lei n.º 65/2021) e boas práticas ENISA/NIST."
-descricao_en: "Generates a complete cybersecurity Incident Response Plan (IRP), with procedures for detection, containment, eradication, recovery and lessons learned, aligned with the GDPR (notification to the CNPD within 72 hours), the NIS2 Directive (transposed by Law No. 65/2021) and ENISA/NIST good practice."
+descricao: "Gera um Plano de Resposta a Incidente de Cibersegurança (IRP) completo, com procedimentos de deteção, contenção, erradicação, recuperação e lições aprendidas, alinhado com o RGPD (notificação à CNPD em 72h), a Diretiva NIS2 (transposta pelo Decreto-Lei n.º 125/2025) e boas práticas ENISA/NIST."
+descricao_en: "Generates a complete cybersecurity Incident Response Plan (IRP), with procedures for detection, containment, eradication, recovery and lessons learned, aligned with the GDPR (notification to the CNPD within 72 hours), the NIS2 Directive (transposed by Decree-Law No. 125/2025) and ENISA/NIST good practice."
 ambito: nacional
-estado_citacoes: "conferidas 13 · corrigidas 0 · por conferir 0"
+estado_citacoes: "conferidas 14 · corrigidas 0 · por conferir 7"
+revisao_tecnica: "2026-10-28 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
 # Plano de Resposta a Incidente de Cibersegurança
 
 > **Âmbito:** nacional · **Área:** Proteção de Dados e Direito Digital · **Código:** DIG-029
-> **EN:** Cybersecurity Incident Response Plan. Generates a complete cybersecurity Incident Response Plan (IRP), with procedures for detection, containment, eradication, recovery and lessons learned, aligned with the GDPR (notification to the CNPD within 72 hours), the NIS2 Directive (transposed by Law No. 65/2021) and ENISA/NIST good practice.
-> **Citações:** conferidas 13 · corrigidas 0 · por conferir 0. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **EN:** Cybersecurity Incident Response Plan. Generates a complete cybersecurity Incident Response Plan (IRP), with procedures for detection, containment, eradication, recovery and lessons learned, aligned with the GDPR (notification to the CNPD within 72 hours), the NIS2 Directive (transposed by Decree-Law No. 125/2025) and ENISA/NIST good practice.
+> **Citações:** conferidas 14 · corrigidas 0 · por conferir 7. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-28 — corrigida (6 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
-Gera um Plano de Resposta a Incidente de Cibersegurança (IRP) completo, com procedimentos de deteção, contenção, erradicação, recuperação e lições aprendidas, alinhado com o RGPD (notificação à CNPD em 72h), a Diretiva NIS2 (transposta pela Lei n.º 65/2021) e boas práticas ENISA/NIST.
+Gera um Plano de Resposta a Incidente de Cibersegurança (IRP) completo, com procedimentos de deteção, contenção, erradicação, recuperação e lições aprendidas, alinhado com o RGPD (notificação à CNPD em 72h), a Diretiva NIS2 (transposta pelo Decreto-Lei n.º 125/2025) e boas práticas ENISA/NIST.
 
 ## Método
 
@@ -35,10 +37,10 @@ Ficha de trabalho para preparar este documento. As regras da casa prevalecem sob
 
 ### ETAPA 1 — PROBLEMATIZAÇÃO (Diagnóstico da Organização)
 Apresenta dentro de um bloco <diagnostico_organizacional>:
-- Qual o setor e dimensão da empresa? (PME, grande empresa, operador de serviços essenciais NIS2?)
+- Qual o setor e dimensão da empresa? (micro, pequena, média ou grande empresa; entidade essencial ou importante nos termos do Regime Jurídico da Cibersegurança — DL n.º 125/2025?)
 - Que sistemas críticos existem? (ERP, CRM, dados de clientes, infraestrutura cloud, sistemas de saúde, financeiros)
 - Quem é o responsável de IT/segurança? Há CISO, DPO designados?
-- A empresa tem obrigações NIS2 (operador de serviços essenciais ou fornecedor digital)?
+- A empresa está abrangida pelo Regime Jurídico da Cibersegurança (DL n.º 125/2025, que transpõe a NIS2)? Em regra, são abrangidas as entidades privadas dos tipos dos anexos I e II que sejam médias empresas ou maiores e, qualquer que seja a dimensão, entre outras, as de comunicações eletrónicas, serviços de confiança e nomes de domínio (art. 3.º do regime); a qualificação como entidade essencial ou importante segue o art. 6.º
 - Que tipos de incidente são mais prováveis no setor? (ransomware, phishing, acesso indevido, perda de dispositivo, DDoS)
 - Há fornecedores críticos de TI cujo comprometimento afetaria a empresa (supply chain risk)?
 
@@ -46,7 +48,7 @@ Apresenta dentro de um bloco <diagnostico_organizacional>:
 Apresenta dentro de um bloco <obrigacoes_notificacao>:
 - Violação de dados pessoais: art. 33.º RGPD — notificação à CNPD em 72h se risco para os direitos e liberdades das pessoas; art. 34.º RGPD — comunicação aos titulares se risco elevado
 - Critérios para avaliar se é notificação obrigatória: probabilidade × impacto × natureza dos dados (dados especiais, financeiros, saúde = risco mais elevado)
-- NIS2 / Lei 65/2021: operadores de serviços essenciais e fornecedores digitais devem notificar o CNCS em prazos específicos (alerta precoce: 24h; notificação: 72h; relatório final: 1 mês)
+- NIS2 / Regime Jurídico da Cibersegurança (DL n.º 125/2025, em vigor desde abril de 2026, que revogou a Lei n.º 46/2018 e o DL n.º 65/2021): as entidades essenciais, importantes e públicas relevantes notificam os incidentes significativos à autoridade de cibersegurança competente (em regra, o CNCS), na plataforma eletrónica — notificação inicial até 24 horas após concluírem que existe ou pode existir um incidente significativo; atualização até 72 horas, quando necessária; notificação do fim do impacto significativo até 24 horas após este terminar; relatório final em 30 dias úteis a contar dessa notificação (arts. 40.º a 44.º do regime anexo)
 - Obrigação de registo interno de todas as violações (art. 33.º, n.º 5 RGPD), mesmo sem notificação externa
 - Responsabilidade civil por violações: art. 82.º RGPD — dever de demonstrar medidas adequadas
 
@@ -111,7 +113,7 @@ Aplica-se a todos os sistemas, dados e colaboradores da [empresa] e aos prestado
 Se a violação de dados pessoais apresentar risco para os direitos e liberdades dos titulares:
 — Notificar a CNPD via portal online (www.cnpd.pt) no prazo de 72 horas após a tomada de conhecimento.
 — Se a notificação completa não for possível em 72h: enviar notificação parcial com o que se sabe e informar que o restante será fornecido logo que possível (art. 33.º, n.º 4 RGPD).
-— Informação obrigatória: natureza da violação, categorias e número aproximado de titulares e registos afetados, consequências prováveis, medidas adoptadas.
+— Informação obrigatória (art. 33.º, n.º 3, RGPD): natureza da violação, categorias e número aproximado de titulares e registos afetados, nome e contactos do EPD ou de outro ponto de contacto, consequências prováveis, medidas adotadas ou propostas.
 — Registar SEMPRE a violação internamente, mesmo que se conclua que não é notificável (art. 33.º, n.º 5 RGPD).
 
 *7.2 Comunicação aos titulares (art. 34.º RGPD)*
@@ -120,7 +122,13 @@ Se risco elevado para os direitos e liberdades dos titulares:
 — [■ VERIFICAR: se os dados estiverem cifrados ou se o risco for mitigado, a comunicação pode não ser obrigatória — avaliar com o DPO]
 
 *7.3 Notificação ao CNCS (se NIS2 aplicável)*
-[■ VERIFICAR: se a empresa for operador de serviços essenciais ou fornecedor digital, verificar obrigações de notificação ao CNCS nos termos da Lei 65/2021]
+Se a empresa for entidade essencial, importante ou pública relevante (DL n.º 125/2025), notificar o incidente significativo à autoridade de cibersegurança competente, na plataforma eletrónica:
+— notificação inicial: até 24 horas após concluir que existe, ou pode existir, um incidente significativo (art. 42.º, n.º 1, do regime anexo);
+— atualização: até 72 horas, quando necessária (art. 42.º, n.º 3);
+— fim do impacto significativo: até 24 horas após este terminar (art. 43.º, n.º 1);
+— relatório final: 30 dias úteis a contar da notificação do fim do impacto (art. 44.º, n.º 1).
+Esta notificação não dispensa a notificação à CNPD (secção 7.1).
+[■ VERIFICAR: qualificação da empresa e autoridade competente no setor (CNCS ou autoridade setorial)]
 
 *7.4 Outras notificações*
 — Seguradoras (apólice de ciber-risco — se existir): [prazo contratual]
@@ -162,7 +170,7 @@ Apresenta dentro de um bloco <checklist_validacao>:
 - Nome e NIF: [nome, NIF]
 - Setor: [indicar]
 - N.º de trabalhadores: [indicar]
-- Sujeita a NIS2 (operador de serviços essenciais / fornecedor digital)? [sim/não]
+- Abrangida pelo DL n.º 125/2025 (NIS2)? [entidade essencial / importante / pública relevante / não abrangida — setor dos anexos I ou II?]
 - DPO/EPD designado? [sim/não — se sim, nome e contacto]
 - CISO ou responsável de IT: [nome e contacto]
 
@@ -189,12 +197,20 @@ Apresenta dentro de um bloco <checklist_validacao>:
 | art. 33.º RGPD | conferida (epígrafe) — Notificação de uma violação de dados pessoais à autoridade de controlo |  |
 | art. 33.º RGPD | conferida (epígrafe) — Notificação de uma violação de dados pessoais à autoridade de controlo |  |
 | art. 33.º RGPD | conferida (epígrafe) — Notificação de uma violação de dados pessoais à autoridade de controlo |  |
+| art. 3.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 6.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 34.º RGPD | conferida (epígrafe) — Comunicação de uma violação de dados pessoais ao titular dos dados |  |
 | art. 34.º RGPD | conferida (epígrafe) — Comunicação de uma violação de dados pessoais ao titular dos dados |  |
 | art. 34.º RGPD | conferida (epígrafe) — Comunicação de uma violação de dados pessoais ao titular dos dados |  |
+| arts. 40.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 33.º, n.º 5 RGPD | conferida (epígrafe) — Notificação de uma violação de dados pessoais à autoridade de controlo |  |
 | art. 33.º, n.º 5 RGPD | conferida (epígrafe) — Notificação de uma violação de dados pessoais à autoridade de controlo |  |
 | art. 33.º, n.º 5 RGPD | conferida (epígrafe) — Notificação de uma violação de dados pessoais à autoridade de controlo |  |
 | art. 82.º RGPD | conferida (epígrafe) — Direito de indemnização e responsabilidade |  |
 | art. 4.º, n.º 12 do RGPD | conferida (epígrafe) — Definições |  |
 | art. 33.º, n.º 4 RGPD | conferida (epígrafe) — Notificação de uma violação de dados pessoais à autoridade de controlo |  |
+| art. 33.º, n.º 3, RGPD | conferida (epígrafe) — Notificação de uma violação de dados pessoais à autoridade de controlo |  |
+| art. 42.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 42.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 43.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 44.º | por conferir [■ VERIFICAR] | diploma não identificado |

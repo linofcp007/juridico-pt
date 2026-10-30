@@ -6,7 +6,8 @@ titulo_en: "Instrument Constituting Horizontal Property"
 descricao: "Redige o título constitutivo da propriedade horizontal (ou instrução para o notário sobre o seu conteúdo obrigatório), em conformidade com os arts. 1417.º e ss. do Código Civil, incluindo a identificação das frações autónomas, as partes comuns, as permilagens, as regras de uso e as bases do regulamento do condomínio."
 descricao_en: "Drafts the instrument constituting horizontal property (propriedade horizontal) (or instructions to the notary on its mandatory content), in accordance with Arts. 1417 et seq. of the Civil Code, including identification of the autonomous units, the common parts, the permillage shares, the rules of use and the basis of the condominium regulations."
 ambito: nacional
-estado_citacoes: "conferidas 9 · corrigidas 2 · por conferir 2"
+estado_citacoes: "conferidas 17 · corrigidas 2 · por conferir 4"
+revisao_tecnica: "2026-10-30 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
@@ -14,7 +15,8 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 
 > **Âmbito:** nacional · **Área:** Direito Imobiliário e do Arrendamento · **Código:** IMO-020
 > **EN:** Instrument Constituting Horizontal Property. Drafts the instrument constituting horizontal property (propriedade horizontal) (or instructions to the notary on its mandatory content), in accordance with Arts. 1417 et seq. of the Civil Code, including identification of the autonomous units, the common parts, the permillage shares, the rules of use and the basis of the condominium regulations.
-> **Citações:** conferidas 9 · corrigidas 2 · por conferir 2. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 17 · corrigidas 2 · por conferir 4. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-30 — corrigida (7 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
 Redige o título constitutivo da propriedade horizontal (ou instrução para o notário sobre o seu conteúdo obrigatório), em conformidade com os arts. 1417.º e ss. do Código Civil, incluindo a identificação das frações autónomas, as partes comuns, as permilagens, as regras de uso e as bases do regulamento do condomínio.
 
@@ -23,7 +25,7 @@ Redige o título constitutivo da propriedade horizontal (ou instrução para o n
 Ficha de trabalho para preparar este documento. As regras da casa prevalecem sobre a ficha: registo de advogado, nunca afirmar inscrição na Ordem dos Advogados, citar só normas conferidas ou com `[■ VERIFICAR]`, e seguir o fluxo de `assets/redacao/redator.md`.
 
 ## Regras obrigatórias
-— NUNCA inventes permilagens — calculam-se em função das áreas relativas de cada fração.
+— NUNCA inventes permilagens: o título fixa o valor relativo de cada fração, expresso em percentagem ou permilagem do valor total do prédio (art. 1418.º, n.º 1, CC); a área é o critério mais usado, mas não o único (o piso, a localização e o destino podem pesar no valor).
 — Se faltar dado (área, composição de fração), marca [■ VERIFICAR].
 — Cita artigos reais do Código Civil.
 — Distingue frações autónomas (partes privativas) de partes comuns (art. 1421.º CC).
@@ -51,15 +53,16 @@ Apresenta dentro de um bloco <fundamentos_juridicos>:
 - Art. 1429.º-A CC (regulamento — obrigatoriedade para mais de 4 condóminos)
 - Art. 1421.º CC (partes comuns)
 - Art. 1422.º CC (obrigações dos condóminos)
-- Arts. 1428.º a 1438.º CC (administração do condomínio) [■ VERIFICAR: a administração do condomínio começa no art. 1430.º CC; o art. 1428.º trata da destruição do edifício]
-- Código do Registo Predial (constituição da PH sujeita a registo)
+- Arts. 1430.º a 1438.º CC (administração das partes comuns do edifício)
+- Art. 2.º, n.º 1, al. b), do Código do Registo Predial (constituição da PH sujeita a registo)
+- Art. 59.º do Código do Notariado (o instrumento de constituição só pode ser lavrado com documento da câmara municipal comprovativo de que as frações satisfazem os requisitos legais — art. 1415.º CC; no prédio construído para transmissão em frações, basta exibir o projeto aprovado)
 
 ### ETAPA 3 — CONSTRUÇÃO (Estrutura do Título)
 Define em <estrutura>:
 - Identificação de cada fração com letra, piso, composição e área
-- Cálculo de permilagens (= área da fração / área total × 1000)
+- Cálculo das permilagens: valor relativo de cada fração no valor total do prédio (art. 1418.º, n.º 1, CC); se o critério for só a área, indica-o (área da fração / soma das áreas das frações × 1000) [■ VERIFICAR: critério adotado pelo técnico]
 - Identificação das partes comuns
-- Destino das frações (habitação, comércio, garagem)
+- Destino das frações (habitação, comércio, garagem), coincidente com o projeto aprovado pela câmara municipal (a divergência gera a nulidade do título — art. 1418.º, n.º 3, CC)
 - Bases do regulamento (se condomínio > 4 condóminos)
 
 ### ETAPA 4 — EXPOSIÇÃO ESTRUTURADA (O Título)
@@ -100,17 +103,18 @@ Bases principais:
 — Administração: assembleia de condóminos e administrador (art. 1430.º CC)
 — Quotas de condomínio: proporcionais às permilagens
 — Regras de uso das partes comuns: [descreve]
-— Proibições: obras que afetem a estrutura, alterações de fachada sem aprovação unânime
+— Proibições: obras que prejudiquem a segurança, a linha arquitetónica ou o arranjo estético do edifício (art. 1422.º, n.º 2, al. a), CC); as obras que modifiquem a linha arquitetónica ou o arranjo estético só com prévia autorização da assembleia, por maioria representativa de dois terços do valor total do prédio (art. 1422.º, n.º 3, CC)
 
 **DISPOSIÇÕES FINAIS**
-O título é sujeito a registo na Conservatória do Registo Predial competente nos termos do art. 2.º, n.º 1, al. d) CRP.
+O título é sujeito a registo na Conservatória do Registo Predial competente nos termos do art. 2.º, n.º 1, al. b), do Código do Registo Predial.
 
 ### ETAPA 5 — FORMULAÇÃO FINAL (Validação)
 Apresenta dentro de um bloco <checklist_validacao>:
 - [ ] Todas as frações identificadas com letra, piso, composição, área
 - [ ] Permilagens calculadas e totalizando 1000‰
 - [ ] Partes comuns identificadas (art. 1421.º CC)
-- [ ] Destino de cada fração indicado
+- [ ] Destino de cada fração indicado e coincidente com o projeto aprovado (art. 1418.º, n.º 3, CC)
+- [ ] Documento camarário comprovativo dos requisitos da propriedade horizontal (art. 59.º do Código do Notariado)
 - [ ] Regulamento previsto (obrigatório se > 4 condóminos)
 - [ ] Sujeição a registo predial referenciada
 - [ ] Itens [■ VERIFICAR] sinalizados
@@ -145,6 +149,8 @@ Apresenta dentro de um bloco <checklist_validacao>:
 
 | Citação | Estado | Nota |
 |---|---|---|
+| art. 1418.º, n.º 1, CC | conferida (epígrafe) — Conteúdo do título constitutivo |  |
+| art. 1418.º, n.º 1, CC | conferida (epígrafe) — Conteúdo do título constitutivo |  |
 | art. 1421.º CC | conferida (epígrafe) — Partes comuns do prédio |  |
 | art. 1421.º CC | conferida (epígrafe) — Partes comuns do prédio |  |
 | art. 1421.º CC | conferida (epígrafe) — Partes comuns do prédio |  |
@@ -153,8 +159,16 @@ Apresenta dentro de um bloco <checklist_validacao>:
 | Art. 1429.º-A CC | corrigida — Regulamento do condomínio | o número citado no catálogo não correspondia à epígrafe |
 | Art. 1421.º CC | conferida (epígrafe) — Partes comuns do prédio |  |
 | Art. 1422.º CC | conferida (epígrafe) — Limitações ao exercício dos direitos |  |
-| Arts. 1428.º a 1438.º CC | por conferir [■ VERIFICAR] | a administração do condomínio começa no art. 1430.º CC; o art. 1428.º trata da destruição do edifício |
-| art. 1430.º CC | conferida (epígrafe) — Órgãos administrativos |  |
+| Arts. 1430.º a 1438.º CC | conferida (epígrafe) — Órgãos administrativos |  |
+| Art. 2.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| Art. 59.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 1415.º CC | conferida (epígrafe) — Objeto |  |
+| art. 1418.º, n.º 3, CC | conferida (epígrafe) — Conteúdo do título constitutivo |  |
+| art. 1418.º, n.º 3, CC | conferida (epígrafe) — Conteúdo do título constitutivo |  |
 | arts. 1414.º e ss. do Código Civil | conferida (epígrafe) — Princípio geral |  |
 | art. 1418.º CC | conferida (epígrafe) — Conteúdo do título constitutivo |  |
+| art. 1430.º CC | conferida (epígrafe) — Órgãos administrativos |  |
+| art. 1422.º, n.º 2, al. a), CC | conferida (epígrafe) — Limitações ao exercício dos direitos |  |
+| art. 1422.º, n.º 3, CC | conferida (epígrafe) — Limitações ao exercício dos direitos |  |
 | art. 2.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 59.º | por conferir [■ VERIFICAR] | diploma não identificado |

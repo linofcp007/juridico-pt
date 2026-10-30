@@ -6,7 +6,8 @@ titulo_en: "Succession to Shareholdings — Quotas and Shares on a Shareholder's
 descricao: "Analisa o regime de transmissão de quotas e ações por morte do sócio, ao abrigo dos artigos 225.º e seguintes do Código das Sociedades Comerciais (CSC) e dos artigos 328.º e seguintes CSC para as SA, articulando com as normas do Código Civil (Livro V) e o pacto social da sociedade."
 descricao_en: "Analyses the rules on the transfer of quotas and shares on a shareholder's death, under Articles 225 et seq. of the Commercial Companies Code (CSC) and Articles 328 et seq. CSC for public limited companies (SA), in conjunction with the rules of the Civil Code (Book V) and the company's articles of association."
 ambito: nacional
-estado_citacoes: "conferidas 8 · corrigidas 0 · por conferir 0"
+estado_citacoes: "conferidas 17 · corrigidas 0 · por conferir 0"
+revisao_tecnica: "2026-10-30 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
@@ -14,7 +15,8 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 
 > **Âmbito:** nacional · **Área:** Direito das Sucessões · **Código:** SUC-036
 > **EN:** Succession to Shareholdings — Quotas and Shares on a Shareholder's Death. Analyses the rules on the transfer of quotas and shares on a shareholder's death, under Articles 225 et seq. of the Commercial Companies Code (CSC) and Articles 328 et seq. CSC for public limited companies (SA), in conjunction with the rules of the Civil Code (Book V) and the company's articles of association.
-> **Citações:** conferidas 8 · corrigidas 0 · por conferir 0. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 17 · corrigidas 0 · por conferir 0. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-30 — corrigida (6 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
 Analisa o regime de transmissão de quotas e ações por morte do sócio, ao abrigo dos artigos 225.º e seguintes do Código das Sociedades Comerciais (CSC) e dos artigos 328.º e seguintes CSC para as SA, articulando com as normas do Código Civil (Livro V) e o pacto social da sociedade.
 
@@ -31,8 +33,8 @@ Ficha de trabalho para preparar este documento. As regras da casa prevalecem sob
 ### ETAPA 1 — ANÁLISE DO PACTO SOCIAL
 Apresenta em <analise_pacto>:
 - Tipo societário (Lda. / SA / SNC)
-- Cláusula sobre transmissão mortis causa: admissão livre, condicionada ou excluída (art. 225.º, n.º 2 e 3 CSC)
-- Prazo para exercício do direito de oposição pela sociedade (art. 225.º, n.º 4 CSC — 90 dias)
+- Cláusula sobre transmissão mortis causa: admissão livre, condicionada ou excluída (art. 225.º, n.º 1, CSC; efeitos da exclusão e forma da aquisição: art. 225.º, n.º 2 e 3 CSC) ou dependente da vontade dos sucessores (art. 226.º CSC)
+- Prazo para a sociedade amortizar a quota, adquiri-la ou fazê-la adquirir por sócio ou terceiro (art. 225.º, n.º 2, CSC — 90 dias a contar do conhecimento da morte por algum dos gerentes; findo o prazo, a quota considera-se transmitida); determinação e pagamento da contrapartida (art. 225.º, n.º 4 CSC); se a transmissão depender da vontade dos sucessores, estes declaram por escrito à sociedade, nos 90 dias seguintes ao conhecimento do óbito, que não a aceitam, e a sociedade tem então 30 dias para amortizar, adquirir ou fazer adquirir a quota (art. 226.º, n.os 1 e 2, CSC)
 - Regime de amortização forçada ou aquisição pelos sócios remanescentes
 - Cláusula de preferência dos sócios na aquisição das quotas dos herdeiros
 - Existência de acordo parassocial com disposições específicas
@@ -40,10 +42,10 @@ Apresenta em <analise_pacto>:
 ### ETAPA 2 — FUNDAMENTAÇÃO JURÍDICA
 Apresenta em <fundamentos_juridicos>:
 - Art. 225.º CSC: transmissão de quotas por morte — regra geral (transmissão livre salvo estatutos)
-- Art. 225.º, n.º 2 CSC: cláusula de exclusão de herdeiros e amortização obrigatória
-- Art. 225.º, n.º 4 CSC: prazo de 90 dias para amortização ou aquisição
+- Art. 225.º, n.º 2 CSC: excluída pelo pacto a transmissão aos sucessores, a sociedade deve amortizar a quota, adquiri-la ou fazê-la adquirir por sócio ou terceiro nos 90 dias subsequentes ao conhecimento da morte por algum dos gerentes; não o fazendo, a quota considera-se transmitida
+- Art. 225.º, n.º 4 CSC: contrapartida devida pelo adquirente — salvo estipulação diversa do pacto, aplicam-se as regras da amortização, e os efeitos da alienação ficam suspensos enquanto a contrapartida não for paga (falta de pagamento tempestivo: n.º 5)
 - Arts. 235.º e ss. CSC: amortização de quotas e contrapartida devida
-- Arts. 328.º e ss. CSC: transmissão de ações por morte (regras específicas para SA)
+- Arts. 328.º e ss. CSC: nas SA o contrato não pode excluir a transmissibilidade das ações (art. 328.º, n.º 1, CSC) e só a pode limitar nos termos do n.º 2 (consentimento da sociedade, preferência, requisitos), observando o art. 329.º CSC; o CSC não tem regime próprio para a transmissão das ações por morte [■ VERIFICAR: aplicação destas limitações à transmissão mortis causa, na doutrina e na jurisprudência]
 - Arts. 2024.º e ss. CC: abertura da sucessão e integração das participações no acervo hereditário
 
 ### ETAPA 3 — OPÇÕES ESTRATÉGICAS
@@ -52,7 +54,7 @@ Descreve em <opcoes_estrategicas>:
 2. Amortização das quotas com pagamento do valor real ao acervo hereditário
 3. Aquisição voluntária das quotas pelos sócios remanescentes (acordo negociado)
 4. Dissolução da sociedade se os estatutos assim previrem em caso de morte de sócio único
-5. Planeamento preventivo: cessão de quotas em vida com usufruto, doação ou testamento com cláusula de inalienabilidade temporária
+5. Planeamento preventivo: cessão de quotas em vida com usufruto, doação ou testamento, respeitando a legítima (o testador não pode impor encargos sobre ela — art. 2163.º CC) e tendo presente que a proibição testamentária de dispor dos bens é havida como substituição fideicomissária a favor dos herdeiros legítimos do herdeiro onerado (art. 2295.º, n.os 1, al. a), e 2, CC) [■ VERIFICAR: validade e efeitos de uma proibição apenas temporária de alienar]; e revisão das cláusulas de transmissão do pacto social (art. 225.º, n.º 1, CSC)
 
 ### ETAPA 4 — PARECER / NOTIFICAÇÃO
 Redige em <documento_a_emitir> (conforme pedido: parecer, notificação ou cláusula estatutária):
@@ -100,11 +102,20 @@ Apresenta em <checklist_validacao>:
 
 | Citação | Estado | Nota |
 |---|---|---|
+| art. 225.º, n.º 1, CSC | conferida (epígrafe) — Transmissão por morte |  |
+| art. 225.º, n.º 1, CSC | conferida (epígrafe) — Transmissão por morte |  |
 | art. 225.º, n.º 2 e 3 CSC | conferida (epígrafe) — Transmissão por morte |  |
+| art. 226.º CSC | conferida (epígrafe) — Transmissão dependente da vontade dos sucessores |  |
+| art. 225.º, n.º 2, CSC | conferida (epígrafe) — Transmissão por morte |  |
 | art. 225.º, n.º 4 CSC | conferida (epígrafe) — Transmissão por morte |  |
+| art. 226.º, n.os 1 e 2, CSC | conferida (epígrafe) — Transmissão dependente da vontade dos sucessores |  |
 | Art. 225.º CSC | conferida (epígrafe) — Transmissão por morte |  |
 | Art. 225.º, n.º 2 CSC | conferida (epígrafe) — Transmissão por morte |  |
 | Art. 225.º, n.º 4 CSC | conferida (epígrafe) — Transmissão por morte |  |
 | Arts. 235.º e ss. CSC | conferida (epígrafe) — Contrapartida da amortização |  |
 | Arts. 328.º e ss. CSC | conferida (epígrafe) — Limitações à transmissão de ações |  |
+| art. 328.º, n.º 1, CSC | conferida (epígrafe) — Limitações à transmissão de ações |  |
+| art. 329.º CSC | conferida (epígrafe) — Concessão e recusa do consentimento |  |
 | Arts. 2024.º e ss. CC | conferida (epígrafe) — Noção |  |
+| art. 2163.º CC | conferida (epígrafe) — Proibição de encargos |  |
+| art. 2295.º, n.os 1, al. a), e 2, CC | conferida (epígrafe) — Fideicomissos irregulares |  |

@@ -6,7 +6,8 @@ titulo_en: "Calculation of the Forced Heirship Share and the Disposable Portion"
 descricao: "Calcula com rigor aritmético e legal a quota legitimária (legítima) e a quota disponível do testador, em função da composição da família e do valor da herança, com memória de cálculo detalhada e alertas para doações inoficiosas — nos termos dos arts. 2156.º a 2178.º do Código Civil."
 descricao_en: "Calculates with arithmetical and legal rigour the testator's forced heirship share (legítima) and disposable portion (quota disponível), based on the family composition and the value of the estate, with a detailed calculation note and warnings on inofficious gifts — under Articles 2156 to 2178 of the Civil Code."
 ambito: nacional
-estado_citacoes: "conferidas 12 · corrigidas 0 · por conferir 2"
+estado_citacoes: "conferidas 22 · corrigidas 0 · por conferir 0"
+revisao_tecnica: "2026-10-28 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
@@ -14,7 +15,8 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 
 > **Âmbito:** nacional · **Área:** Direito das Sucessões · **Código:** SUC-012
 > **EN:** Calculation of the Forced Heirship Share and the Disposable Portion. Calculates with arithmetical and legal rigour the testator's forced heirship share (legítima) and disposable portion (quota disponível), based on the family composition and the value of the estate, with a detailed calculation note and warnings on inofficious gifts — under Articles 2156 to 2178 of the Civil Code.
-> **Citações:** conferidas 12 · corrigidas 0 · por conferir 2. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 22 · corrigidas 0 · por conferir 0. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-28 — corrigida (7 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
 Calcula com rigor aritmético e legal a quota legitimária (legítima) e a quota disponível do testador, em função da composição da família e do valor da herança, com memória de cálculo detalhada e alertas para doações inoficiosas — nos termos dos arts. 2156.º a 2178.º do Código Civil.
 
@@ -48,14 +50,14 @@ Apresenta dentro de um bloco <analise_do_caso>:
 Apresenta dentro de um bloco <fundamentos_juridicos>:
 - Quota legitimária segundo a composição familiar (arts. 2156.º a 2163.º CC):
   a) Cônjuge + descendentes: 2/3 (art. 2159.º CC)
-  b) Só cônjuge (sem descendentes): 1/3 ou metade conforme concorra com ascendentes (art. 2158.º e 2161.º CC [■ VERIFICAR: só cônjuge: metade (art. 2158.º); cônjuge e ascendentes: dois terços em conjunto (art. 2161.º CC) — rever as quotas]) [■ VERIFICAR: art. correto conforme reforma do CC]
+  b) Cônjuge sem descendentes: 1/2 se não concorrer com ascendentes (art. 2158.º CC); 2/3, em conjunto, se concorrer com ascendentes (art. 2161.º, n.º 1, CC)
   c) Só descendentes (sem cônjuge): 1/2 (1 filho) ou 2/3 (2 ou mais filhos) (art. 2159.º CC)
-  d) Só ascendentes: 1/3 (art. 2161.º CC [■ VERIFICAR: art. 2161.º n.º 2 CC: só ascendentes, metade se forem os pais, um terço se avós ou seguintes — rever a quota])
+  d) Só ascendentes (sem cônjuge nem descendentes): 1/2 se forem chamados os pais; 1/3 se forem chamados os ascendentes do segundo grau e seguintes (art. 2161.º, n.º 2, CC)
   e) Sem herdeiros legitimários: quota disponível = 100%
-- Cálculo da legítima: art. 2162.º CC — soma do relictum (bens deixados à morte) com o donatum (doações em vida), subtraindo as dívidas da herança
-- Inoficiosidade: art. 2168.º CC — disposições que lesam a legítima são redutíveis
-- Colação: arts. 2104.º e ss. CC — doações a herdeiros legitimários conferem-se no inventário
-- Dispensa de colação: art. 2113.º CC — não impede a redução por inoficiosidade
+- Cálculo da legítima: art. 2162.º CC — atende-se ao valor dos bens existentes no património do autor da sucessão à data da morte (relictum), às dívidas da herança e ao valor dos bens doados e das despesas sujeitas a colação (donatum); não entram as coisas doadas que pereceram em vida do autor da sucessão por facto não imputável ao donatário (arts. 2162.º, n.º 2, e 2112.º CC)
+- Inoficiosidade: art. 2168.º CC — são inoficiosas as liberalidades, entre vivos ou por morte, que ofendam a legítima; são redutíveis a requerimento dos herdeiros legitimários (art. 2169.º CC), primeiro as deixas a título de herança, depois os legados e, por último, as doações, começando pela mais recente (arts. 2171.º e 2173.º, n.º 1, CC)
+- Colação: arts. 2104.º e ss. CC — estão sujeitos à colação os descendentes que eram, à data da doação, presuntivos herdeiros legitimários do doador e que venham à sucessão (arts. 2104.º, n.º 1, e 2105.º CC); a colação faz-se pela imputação do valor da doação na quota hereditária do donatário (art. 2108.º, n.º 1, CC)
+- Dispensa de colação: art. 2113.º CC — a doação é imputada na quota disponível (art. 2114.º, n.º 1, CC) e não impede a redução por inoficiosidade
 
 ### ETAPA 3 — CONSTRUÇÃO ARGUMENTATIVA / ESTRUTURA
 Define:
@@ -111,9 +113,10 @@ Distribuição por herdeiro:
 Base de cálculo (€ Z) − Legítima (€ X) = Quota disponível: € [valor]
 
 **10. VERIFICAÇÃO DE INOFICIOSIDADE**
-Donatum total: € [valor]
+Liberalidades imputadas na quota disponível — doações com dispensa de colação ou não sujeitas a ela (art. 2114.º, n.º 1, CC) e disposições testamentárias (heranças e legados) que nela se imputem: € [valor]
+Doações sujeitas a colação, na parte que exceda a quota hereditária do donatário: € [valor] [■ VERIFICAR: imputação deste excesso na quota disponível, segundo a doutrina e a jurisprudência seguidas]
 Quota disponível: € [valor]
-[Se Donatum > Quota disponível:] ALERTA: As doações em vida excedem a quota disponível em € [diferença]. A diferença é inoficiosa e pode ser objeto de ação de redução pelos herdeiros legitimários (art. 2168.º CC).
+[Se as liberalidades imputadas excederem a quota disponível:] ALERTA: As liberalidades excedem a quota disponível em € [diferença]. A diferença é inoficiosa e pode ser objeto de ação de redução pelos herdeiros legitimários (art. 2168.º CC).
 
 ### ETAPA 5 — FORMULAÇÃO FINAL (Validação)
 Apresenta dentro de um bloco <checklist_validacao>:
@@ -169,9 +172,17 @@ Apresenta dentro de um bloco <checklist_validacao>:
 | arts. 2156.º a 2163.º CC | conferida (epígrafe) — Legítima |  |
 | art. 2159.º CC | conferida (epígrafe) — Legítima do cônjuge e dos filhos |  |
 | art. 2159.º CC | conferida (epígrafe) — Legítima do cônjuge e dos filhos |  |
-| art. 2158.º e 2161.º CC | por conferir [■ VERIFICAR] | só cônjuge: metade (art. 2158.º); cônjuge e ascendentes: dois terços em conjunto (art. 2161.º CC) — rever as quotas |
-| art. 2161.º CC | por conferir [■ VERIFICAR] | art. 2161.º n.º 2 CC: só ascendentes, metade se forem os pais, um terço se avós ou seguintes — rever a quota |
+| art. 2158.º CC | conferida (epígrafe) — Legítima do cônjuge |  |
+| art. 2161.º, n.º 1, CC | conferida (epígrafe) — Legítima do cônjuge e dos ascendentes |  |
+| art. 2161.º, n.º 2, CC | conferida (epígrafe) — Legítima do cônjuge e dos ascendentes |  |
+| arts. 2162.º, n.º 2, e 2112.º CC | conferida (epígrafe) — Cálculo da legítima |  |
 | art. 2168.º CC | conferida (epígrafe) — Liberalidades inoficiosas |  |
 | art. 2168.º CC | conferida (epígrafe) — Liberalidades inoficiosas |  |
+| art. 2169.º CC | conferida (epígrafe) — Redução |  |
+| arts. 2171.º e 2173.º, n.º 1, CC | conferida (epígrafe) — Ordem da redução |  |
 | arts. 2104.º e ss. CC | conferida (epígrafe) — Noção |  |
+| arts. 2104.º, n.º 1, e 2105.º CC | conferida (epígrafe) — Noção |  |
+| art. 2108.º, n.º 1, CC | conferida (epígrafe) — Como se efetua a conferência |  |
 | art. 2113.º CC | conferida (epígrafe) — Dispensa da colação |  |
+| art. 2114.º, n.º 1, CC | conferida (epígrafe) — Imputação na quota disponível |  |
+| art. 2114.º, n.º 1, CC | conferida (epígrafe) — Imputação na quota disponível |  |

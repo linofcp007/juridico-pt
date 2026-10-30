@@ -6,7 +6,8 @@ titulo_en: "Opinion on Direct Marketing and Unsolicited Electronic Communication
 descricao: "Gera um Parecer sobre a licitude de campanhas de marketing direto (email, SMS, WhatsApp, telefone), analisando os requisitos do RGPD, da Lei n.º 41/2004 (e-Privacy) e da legislação portuguesa aplicável, com recomendações para conformidade."
 descricao_en: "Generates an opinion on the lawfulness of direct marketing campaigns (email, SMS, WhatsApp, telephone), analysing the requirements of the GDPR, Law No. 41/2004 (ePrivacy) and the applicable Portuguese legislation, with recommendations for compliance."
 ambito: nacional
-estado_citacoes: "conferidas 1 · corrigidas 0 · por conferir 15"
+estado_citacoes: "conferidas 3 · corrigidas 0 · por conferir 28"
+revisao_tecnica: "2026-10-28 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
@@ -14,7 +15,8 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 
 > **Âmbito:** nacional · **Área:** Proteção de Dados e Direito Digital · **Código:** DIG-026
 > **EN:** Opinion on Direct Marketing and Unsolicited Electronic Communications. Generates an opinion on the lawfulness of direct marketing campaigns (email, SMS, WhatsApp, telephone), analysing the requirements of the GDPR, Law No. 41/2004 (ePrivacy) and the applicable Portuguese legislation, with recommendations for compliance.
-> **Citações:** conferidas 1 · corrigidas 0 · por conferir 15. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 3 · corrigidas 0 · por conferir 28. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-28 — corrigida (17 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
 Gera um Parecer sobre a licitude de campanhas de marketing direto (email, SMS, WhatsApp, telefone), analisando os requisitos do RGPD, da Lei n.º 41/2004 (e-Privacy) e da legislação portuguesa aplicável, com recomendações para conformidade.
 
@@ -40,20 +42,21 @@ Apresenta dentro de um bloco <analise_campanha>:
 - Como foram obtidos os contactos? (formulário próprio, compra de base de dados, raspar de sites, lista de clientes existentes?)
 - Há consentimento documentado? De que forma foi obtido e quando?
 - Existe mecanismo de opt-out em cada comunicação?
-- A empresa está registada no Registo de Não Publicidade / Listas Robinson?
+- A empresa mantém a lista própria de consentimentos e consulta a lista nacional de oposição das pessoas coletivas, mantida pela Direção-Geral do Consumidor (art. 13.º-B da Lei n.º 41/2004)?
 - Qual o conteúdo da comunicação (oferta comercial, informativo, reativação)?
 
 ### ETAPA 2 — ANÁLISE JURÍDICA (Regimes Aplicáveis)
 Apresenta dentro de um bloco <fundamentos_juridicos>:
-- Regime geral: art. 13.º da Lei n.º 41/2004 — proibição de comunicações não solicitadas por email, SMS ou meios eletrónicos automáticos sem consentimento prévio
-- Soft opt-in (exceção B2C): art. 13.º, n.º 2, Lei n.º 41/2004 — cliente existente + produto/serviço similar + opt-out em cada mensagem + contacto obtido no contexto de venda
-- B2B: as pessoas coletivas têm proteção mais reduzida; mas comunicações para endereços pessoais de funcionários continuam sujeitas ao RGPD
+- Regime geral: art. 13.º-A, n.º 1, da Lei n.º 41/2004 — as comunicações não solicitadas para fins de marketing direto a assinantes pessoas singulares (ou a utilizadores) dependem de consentimento prévio e expresso, designadamente por aparelhos de chamada automática, fax, correio eletrónico, SMS, MMS e aplicações similares
+- Soft opt-in (exceção B2C): art. 13.º-A, n.º 3, da Lei n.º 41/2004 — cliente existente + contacto obtido no contexto da venda + marketing dos próprios produtos ou serviços análogos + possibilidade de recusa gratuita e fácil no momento da recolha e em cada mensagem
+- B2B: aos assinantes pessoas coletivas aplica-se um regime de oposição — as comunicações são permitidas até que recusem futuras comunicações e se inscrevam na lista nacional da Direção-Geral do Consumidor (art. 13.º-A, n.º 2, e art. 13.º-B, n.º 2, da Lei n.º 41/2004); mas comunicações para endereços pessoais de funcionários continuam sujeitas ao RGPD
 - Consentimento válido (RGPD): art. 4.º, n.º 11 + art. 7.º — livre, específico, informado, inequívoco; pré-checkboxes marcadas NÃO são consentimento válido
 - Base de dados de terceiros: a licitude do consentimento original deve ser verificada; quem recebe a responsabilidade?
-- Listas Robinson: Decreto-Lei n.º 57/2008 (proibição de práticas comerciais desleais) — obrigação de verificar antes de campanhas de chamada
-- Chamadas telefónicas: art. 14.º Lei n.º 41/2004 — requisitos de identificação do chamador
-- Obrigação de opt-out: cada mensagem deve incluir mecanismo de cancelamento fácil e gratuito (art. 13.º, n.º 3, Lei n.º 41/2004)
-- Coimas: art. 17.º Lei n.º 41/2004 — contra-ordenações até €5.000.000 para pessoas coletivas
+- Listas: quem envia marketing direto mantém lista atualizada dos consentimentos e dos clientes que não se opuseram ao abrigo do soft opt-in, e consulta a lista nacional de pessoas coletivas que se opõem, atualizada mensalmente pela Direção-Geral do Consumidor (art. 13.º-B, n.os 1, 2 e 5, da Lei n.º 41/2004) [■ VERIFICAR: as «Listas Robinson» não constam da Lei n.º 41/2004 nem do DL n.º 57/2008; confirmar se o setor tem lista de autorregulação a consultar]
+- Práticas comerciais desleais: fazer solicitações persistentes e não solicitadas por telefone, correio eletrónico ou outro meio à distância é prática agressiva em qualquer circunstância (art. 12.º, al. c), do DL n.º 57/2008)
+- Chamadas telefónicas: as chamadas automáticas (sem intervenção humana) para pessoas singulares exigem consentimento prévio e expresso (art. 13.º-A, n.º 1, da Lei n.º 41/2004); o titular pode sempre opor-se ao marketing direto (art. 21.º, n.os 2 e 3, RGPD) [■ VERIFICAR: regime das chamadas com intervenção humana — a enumeração do art. 13.º-A, n.º 1, é exemplificativa («designadamente»); confirmar a posição da CNPD]
+- Obrigação de opt-out: no soft opt-in, a recusa gratuita e fácil tem de ser oferecida em cada mensagem (art. 13.º-A, n.º 3, al. b), da Lei n.º 41/2004); o correio eletrónico de marketing tem de indicar um meio de contacto válido para pôr termo às comunicações (art. 13.º-A, n.º 4); e o titular pode opor-se a todo o tempo (art. 21.º, n.º 2, RGPD)
+- Coimas: art. 14.º, n.º 1, da Lei n.º 41/2004 — contraordenação punível com coima de € 5000 a € 5 000 000 (pessoas coletivas) ou de € 1500 a € 25 000 (pessoas singulares); instrução e decisão pela CNPD (art. 15.º, n.º 1)
 
 ### ETAPA 3 — CONSTRUÇÃO ARGUMENTATIVA (Avaliação de Licitude)
 Define em <avaliacao_licitude>:
@@ -61,7 +64,7 @@ Define em <avaliacao_licitude>:
 - Lista de contactos: origem lícita? Consentimento válido e documentado?
 - Soft opt-in: todos os requisitos cumpridos?
 - Mecanismo de opt-out: fácil, imediato, gratuito?
-- Qual o risco de reclamação à CNPD ou processo contra-ordenacional?
+- Qual o risco de reclamação à CNPD ou processo contraordenacional?
 
 ### ETAPA 4 — O PARECER SOBRE MARKETING DIRETO
 Redige o parecer completo com esta estrutura:
@@ -72,16 +75,16 @@ Redige o parecer completo com esta estrutura:
 Análise da licitude da campanha de [descrição] da empresa [identificação], através de [canal(is)], dirigida a [público-alvo].
 
 **II. ENQUADRAMENTO NORMATIVO**
-- Lei n.º 41/2004, de 18 de agosto (comunicações eletrónicas não solicitadas), em especial arts. 13.º, 14.º e 17.º
-- RGPD (Regulamento (UE) 2016/679), em especial arts. 4.º, 6.º, 7.º e 17.º
+- Lei n.º 41/2004, de 18 de agosto (comunicações eletrónicas não solicitadas), em especial arts. 13.º-A, 13.º-B, 14.º e 15.º
+- RGPD (Regulamento (UE) 2016/679), em especial arts. 4.º, 6.º, 7.º, 17.º e 21.º
 - Lei n.º 58/2019, de 8 de agosto
 - Orientações EDPB n.º 5/2020 sobre consentimento
-- [Se chamadas:] Decreto-Lei n.º 57/2008 e Listas Robinson
+- [Se chamadas:] art. 13.º-A da Lei n.º 41/2004 e art. 12.º, al. c), do Decreto-Lei n.º 57/2008 (práticas comerciais agressivas)
 
 **III. ANÁLISE POR CANAL**
 
 *3.1 [Canal 1 — ex: Email marketing]*
-Regime aplicável: art. 13.º da Lei n.º 41/2004.
+Regime aplicável: art. 13.º-A da Lei n.º 41/2004.
 Situação da empresa:
 - Origem dos contactos: [análise]
 - Consentimento: [válido / inválido / [■ VERIFICAR: que informação falta] / soft opt-in aplicável?]
@@ -92,7 +95,7 @@ Conclusão: [lícito / ilícito / lícito com reservas]
 [mesma estrutura]
 
 **IV. VALIDADE DO CONSENTIMENTO**
-[Análise detalhada do mecanismo de obtenção do consentimento contra os critérios do art. 7.º RGPD:]
+[Análise detalhada do mecanismo de obtenção do consentimento contra os critérios do art. 4.º, n.º 11, e do art. 7.º RGPD:]
 — Livre: [sim/não — há elemento de coerção ou pré-preenchimento?]
 — Específico: [sim/não — o consentimento abrangia marketing desta natureza?]
 — Informado: [sim/não — foi indicado o responsável, as finalidades, o canal?]
@@ -116,11 +119,11 @@ A campanha [está / não está / pode estar, com as seguintes condicionantes] em
 Apresenta dentro de um bloco <checklist_validacao>:
 - [ ] Canal identificado e regime aplicável (Lei 41/2004 vs. RGPD) clarificado
 - [ ] Origem de cada lista de contactos documentada
-- [ ] Consentimento válido: livre, específico, informado, inequívoco (art. 7.º RGPD)
-- [ ] Soft opt-in: todos os requisitos do art. 13.º, n.º 2, Lei 41/2004 cumpridos (se aplicável)
+- [ ] Consentimento válido: livre, específico, informado, inequívoco (art. 4.º, n.º 11, e art. 7.º RGPD)
+- [ ] Soft opt-in: todos os requisitos do art. 13.º-A, n.º 3, da Lei n.º 41/2004 cumpridos (se aplicável)
 - [ ] Mecanismo de opt-out em cada mensagem (fácil, gratuito, imediato)
 - [ ] Lista de opt-outs atualizada (suppressions)
-- [ ] Listas Robinson verificadas (se chamadas telefónicas)
+- [ ] Lista nacional de oposição da DGC consultada (destinatários pessoas coletivas — art. 13.º-B, n.º 5, da Lei n.º 41/2004)
 - [ ] Registo das atividades de tratamento atualizado (art. 30.º RGPD)
 - [ ] Base de dados de terceiros: licitude da cessão verificada
 - [ ] Pontos [■ VERIFICAR] sinalizados para revisão
@@ -150,7 +153,7 @@ Apresenta dentro de um bloco <checklist_validacao>:
 **MECANISMO DE OPT-OUT:**
 - Existe link/botão de opt-out em cada mensagem? [sim/não]
 - Lista de opt-outs / suppressions mantida? [sim/não]
-- Listas Robinson verificadas? [sim/não / N/A]
+- Lista de oposição da DGC consultada? [sim/não / N/A]
 
 **HISTÓRICO:**
 - Já houve reclamações de destinatários? [sim/não]
@@ -163,16 +166,31 @@ Apresenta dentro de um bloco <checklist_validacao>:
 |---|---|---|
 | art. 4.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 4.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 4.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 4.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 7.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 7.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| art. 13.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| art. 13.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| art. 13.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| art. 13.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| art. 13.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 13.º-B | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 13.º-B | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 13.º-B | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 13.º-B | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 13.º-A | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 13.º-A | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 13.º-A | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 13.º-A | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 13.º-A | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 13.º-A | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 13.º-A | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 13.º-A | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 13.º-A | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 13.º-A | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 12.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 12.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 21.º, n.os 2 e 3, RGPD | conferida (epígrafe) — Direito de oposição |  |
+| art. 21.º, n.º 2, RGPD | conferida (epígrafe) — Direito de oposição |  |
 | art. 14.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| art. 17.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| arts. 13.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 15.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| arts. 13.º-A | por conferir [■ VERIFICAR] | diploma não identificado |
 | arts. 4.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 7.º RGPD | por conferir [■ VERIFICAR] | o assunto descrito não coincide com a epígrafe; confirmar |
 | art. 7.º RGPD | por conferir [■ VERIFICAR] | o assunto descrito não coincide com a epígrafe; confirmar |

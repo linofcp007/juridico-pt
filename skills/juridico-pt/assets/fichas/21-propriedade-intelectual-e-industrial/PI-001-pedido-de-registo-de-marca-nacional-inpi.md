@@ -6,8 +6,9 @@ titulo_en: "Application for Registration of a National Trade Mark (INPI)"
 descricao: "Elabora o requerimento completo de pedido de registo de marca nacional junto ao Instituto Nacional da Propriedade Industrial (INPI), incluindo descrição do sinal, fundamentação da distintividade, identificação das classes da Classificação de Nice e declaração de intenção de uso."
 descricao_en: "Prepares the complete application for registration of a national trade mark with the National Institute of Industrial Property (INPI), including a description of the sign, the grounds for its distinctiveness, identification of the Nice Classification classes and a declaration of intention to use."
 ambito: nacional
-estado_citacoes: "conferidas 5 · corrigidas 5 · por conferir 6"
+estado_citacoes: "conferidas 11 · corrigidas 5 · por conferir 2"
 remete_para: "assets/checklists/checklist-registo-marca"
+revisao_tecnica: "2026-10-30 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
@@ -16,7 +17,8 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 > **Âmbito:** nacional · **Área:** Propriedade Intelectual e Industrial · **Código:** PI-001
 > **EN:** Application for Registration of a National Trade Mark (INPI). Prepares the complete application for registration of a national trade mark with the National Institute of Industrial Property (INPI), including a description of the sign, the grounds for its distinctiveness, identification of the Nice Classification classes and a declaration of intention to use.
 > **Ver também:** `assets/checklists/checklist-registo-marca` — conteúdo do plugin sobre o mesmo tema. Usa-o primeiro.
-> **Citações:** conferidas 5 · corrigidas 5 · por conferir 6. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 11 · corrigidas 5 · por conferir 2. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-30 — corrigida (7 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
 Elabora o requerimento completo de pedido de registo de marca nacional junto ao Instituto Nacional da Propriedade Industrial (INPI), incluindo descrição do sinal, fundamentação da distintividade, identificação das classes da Classificação de Nice e declaração de intenção de uso.
 
@@ -44,18 +46,18 @@ Apresenta dentro de um bloco <analise_do_caso>:
 
 ### ETAPA 2 — ANÁLISE JURÍDICA (Fundamentação)
 Apresenta dentro de um bloco <fundamentos_juridicos>:
-- Artigos aplicáveis do CPI: arts. 222.º a 269.º (marcas)
+- Artigos aplicáveis do CPI: arts. 208.º a 269.º (marcas)
 - Art. 208.º CPI: definição e tipos de marca
-- Art. 227.º CPI [■ VERIFICAR: o art. 227.º CPI trata da falta de uso sério na oposição; o caráter distintivo resulta dos arts. 208.º e 231.º CPI]: carácter distintivo
+- Arts. 208.º e 209.º, n.º 1, CPI: carácter distintivo (adequação do sinal a distinguir os produtos ou serviços; exceções), com a recusa dos sinais desprovidos de caráter distintivo no art. 231.º, n.º 1, alíneas b) e c), CPI
 - Arts. 231.º e 232.º CPI: impedimentos absolutos e relativos
 - Art. 222.º CPI: pedido de registo — requisitos formais
-- Art. 238.º CPI [■ VERIFICAR: o art. 238.º CPI define imitação; a data do pedido está no art. 12.º e a prioridade no art. 13.º CPI]: data de depósito e prioridade
-- Classificação de Nice (11.ª edição) — classes identificadas
+- Arts. 12.º e 13.º CPI: data do pedido e direito de prioridade (art. 4.º da Convenção da União de Paris; declaração com o país, a data e o número do pedido anterior)
+- Classificação de Nice (13.ª edição, versão 2026 — NCL 13-2026, em vigor desde 1 de janeiro de 2026; confirmar a versão aplicável à data do pedido) — classes identificadas
 - [■ VERIFICAR: jurisprudência INPI ou tribunais portugueses relevante para o caso concreto]
 
 ### ETAPA 3 — CONSTRUÇÃO ARGUMENTATIVA
 Define em <estrategia>:
-- Fundamentação da distintividade do sinal (art. 227.º CPI [■ VERIFICAR: o art. 227.º CPI trata da falta de uso sério na oposição; o caráter distintivo resulta dos arts. 208.º e 231.º CPI])
+- Fundamentação da distintividade do sinal (arts. 208.º e 209.º, n.º 1, CPI)
 - Argumento contra eventuais impedimentos identificados
 - Recomendação quanto a classes adicionais para proteção mais abrangente
 - Necessidade de search prévia de anterioridades (recomendação ao cliente)
@@ -83,9 +85,9 @@ Produtos/Serviços:
 [Indicar se reivindica prioridade ao abrigo da Convenção de Paris ou TRIPS; data e país do pedido anterior]
 
 **V. FUNDAMENTAÇÃO DA REGISTABILIDADE**
-O sinal apresentado é dotado de carácter distintivo nos termos do art. 227.º do CPI [■ VERIFICAR: o art. 227.º CPI trata da falta de uso sério na oposição; o caráter distintivo resulta dos arts. 208.º e 231.º CPI], porquanto [fundamentação específica: não é descritivo, não é genérico, não é enganoso, distingue os produtos/serviços do requerente dos de terceiros].
+O sinal apresentado é dotado de carácter distintivo nos termos dos arts. 208.º e 209.º, n.º 1, do CPI, porquanto [fundamentação específica: não é descritivo, não é genérico, não é enganoso, distingue os produtos/serviços do requerente dos de terceiros].
 
-[Caso o sinal tenha carácter descritivo fraco: fundamentar acquired distinctiveness se aplicável — art. 227.º, n.º 3 CPI [■ VERIFICAR: o art. 227.º CPI trata da falta de uso sério; confirmar no art. 231.º CPI o caráter distintivo adquirido pelo uso]]
+[Caso o sinal seja constituído exclusivamente por indicações descritivas ou usuais: fundamentar, se aplicável, o caráter distintivo adquirido pelo uso antes da data do pedido de registo — art. 231.º, n.º 2, CPI]
 
 **VI. DECLARAÇÃO**
 O requerente declara que a marca é utilizada ou que existe intenção séria de a usar em relação aos produtos e serviços identificados.
@@ -168,15 +170,17 @@ Requerimento de pedido de registo de marca completo, pronto para submissão no p
 | art. 231.º CPI | conferida (epígrafe) — Fundamentos de recusa do registo |  |
 | art. 231.º CPI | conferida (epígrafe) — Fundamentos de recusa do registo |  |
 | art. 232.º CPI | conferida (epígrafe) — Outros fundamentos de recusa |  |
-| arts. 222.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| arts. 208.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | Art. 208.º CPI | corrigida — Constituição da marca | o número citado no catálogo não correspondia à epígrafe |
-| Art. 227.º CPI | por conferir [■ VERIFICAR] | o art. 227.º CPI trata da falta de uso sério na oposição; o caráter distintivo resulta dos arts. 208.º e 231.º CPI |
-| art. 227.º CPI | por conferir [■ VERIFICAR] | o art. 227.º CPI trata da falta de uso sério na oposição; o caráter distintivo resulta dos arts. 208.º e 231.º CPI |
+| Arts. 208.º e 209.º, n.º 1, CPI | conferida (epígrafe) — Constituição da marca |  |
+| art. 231.º, n.º 1, alíneas b) e c), CPI | conferida (epígrafe) — Fundamentos de recusa do registo |  |
 | Arts. 231.º e 232.º CPI | conferida (epígrafe) — Fundamentos de recusa do registo |  |
 | Art. 222.º CPI | corrigida — Pedido | o número citado no catálogo não correspondia à epígrafe |
-| Art. 238.º CPI | por conferir [■ VERIFICAR] | o art. 238.º CPI define imitação; a data do pedido está no art. 12.º e a prioridade no art. 13.º CPI |
+| Arts. 12.º e 13.º CPI | conferida (epígrafe) — Data do pedido |  |
+| art. 4.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| arts. 208.º e 209.º, n.º 1, CPI | conferida (epígrafe) — Constituição da marca |  |
 | artigos 222.º e seguintes do Código da Propriedade Industrial | corrigida — Pedido | o número citado no catálogo não correspondia à epígrafe |
-| art. 227.º do CPI | por conferir [■ VERIFICAR] | o art. 227.º CPI trata da falta de uso sério na oposição; o caráter distintivo resulta dos arts. 208.º e 231.º CPI |
-| art. 227.º, n.º 3 CPI | por conferir [■ VERIFICAR] | o art. 227.º CPI trata da falta de uso sério; confirmar no art. 231.º CPI o caráter distintivo adquirido pelo uso |
+| arts. 208.º e 209.º, n.º 1, do CPI | conferida (epígrafe) — Constituição da marca |  |
+| art. 231.º, n.º 2, CPI | conferida (epígrafe) — Fundamentos de recusa do registo |  |
 | art. 208.º CPI | corrigida — Constituição da marca | o número citado no catálogo não correspondia à epígrafe |
 | art. 17.º CPI | corrigida — Prazos de reclamação e de contestação | o número citado no catálogo não correspondia à epígrafe |

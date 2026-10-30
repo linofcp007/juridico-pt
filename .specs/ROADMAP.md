@@ -2,9 +2,9 @@
 
 <!-- AUTO-GERADO por dev-spec — não editar à mão. -->
 
-**Progresso: 100%** ▰▰▰▰▰▰▰▰▰▰ · 9/9 features completas · 188/188 tasks feitas
+**Progresso: 100%** ▰▰▰▰▰▰▰▰▰▰ · 10/10 features completas · 191/191 tasks feitas
 
-_Velocidade: 29.18 ponto(s)/dia útil — 188 tarefa(s), 496 ponto(s) concluídos desde 2026-10-03 (últimos 28 dias)_
+_Velocidade: 25.25 ponto(s)/dia útil — 191 tarefa(s), 505 ponto(s) concluídos desde 2026-10-03 (últimos 28 dias)_
 
 Legenda: ✅ feito · 🟡 em curso · ⛔ bloqueada · 📋 planeada · ⬜ por começar
 
@@ -23,6 +23,7 @@ Todas as features completas 🎉
 | ✅ | [juridico-pt-v3-0-2-lei-estrangeira](./juridico-pt-v3-0-2-lei-estrangeira/change.md) | core | concluída | 100% | 3/3 | — | — | — |
 | ✅ | [juridico-pt-v3-0-redator](./juridico-pt-v3-0-redator/requirements.md) | core +tdd +ai +privacy | concluída | 100% | 27/27 | advogado-pt-v1-1-empresas ✓, advogado-pt-v1-2-1-correcoes ✓ | — | — |
 | ✅ | [juridico-pt-v3-1-1-revisao-fichas](./juridico-pt-v3-1-1-revisao-fichas/change.md) | core | concluída | 100% | 3/3 | juridico-pt-v3-1-fichas ✓ | — | — |
+| ✅ | [juridico-pt-v3-1-2-revisao-fichas](./juridico-pt-v3-1-2-revisao-fichas/change.md) | core | concluída | 100% | 3/3 | — | — | — |
 | ✅ | [juridico-pt-v3-1-fichas](./juridico-pt-v3-1-fichas/requirements.md) | core +tdd +ai | concluída | 100% | 15/15 | advogado-pt-v1-1-empresas ✓, advogado-pt-v1-2-1-correcoes ✓, advogado-pt-v1-2-operacional ✓, juridico-pt-v2-0 ✓, juridico-pt-v3-0-redator ✓, juridico-pt-v3-0-1-redator-unificado ✓, juridico-pt-v3-0-2-lei-estrangeira ✓ | — | — |
 
 ## Dependências

@@ -48,7 +48,7 @@ Apresenta dentro de um bloco <fundamentos_juridicos>:
 - Sonegação de bens: art. 2096.º CC
   — Sanção: perda do direito sobre os bens sonegados (não recebe a parte que lhe caberia)
   — Requisito: ocultação dolosa — simples omissão por erro não é sonegação
-  — Legitimidade ativa: qualquer co-herdeiro prejudicado
+  — Legitimidade ativa: qualquer coerdeiro prejudicado
 - Distinção sonegação / omissão simples:
   — Omissão simples: retificação da relação de bens (impugnação — Skill 10)
   — Sonegação dolosa: art. 2096.º CC — perda do direito

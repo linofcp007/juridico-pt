@@ -1,0 +1,295 @@
+[
+ {
+  "codigo": "SAU-021",
+  "veredicto": "corrigida",
+  "resumo": "A ficha dava como tabela de referência a «Portaria n.º 679/2009 (NTAI)», que não é tabela de incapacidades (altera a Portaria 377/2008, proposta razoável no seguro automóvel), e ignorava o regime próprio do atestado médico de incapacidade multiúso (DL 202/96, na redação do DL 15/2024): JMAI das ULS, recurso hierárquico necessário em 30 dias e reavaliação por nova junta. Corrigiram-se as tabelas (anexos I e II do DL 352/2007), a sigla brasileira «INSS», o pedido de «anulação» (passa a revogação com reavaliação por nova junta) e acrescentou-se a junta médica do processo de acidente de trabalho (art. 138.º CPT). A descrição do índice atribuía a emissão de atestados ao INR, que não os emite.",
+  "descricao": "Redige o requerimento de avaliação ou de reavaliação por junta médica e/ou a impugnação do grau de incapacidade atribuído, em especial o recurso hierárquico do atestado médico de incapacidade multiúso emitido pela junta médica de avaliação de incapacidade (JMAI) ao abrigo do Decreto-Lei n.º 202/96, com fundamento em discordância quanto ao grau de incapacidade atribuído ou à metodologia utilizada.",
+  "descricao_en": "Drafts the request for assessment or reassessment by a medical board and/or the challenge to the degree of disability assigned, in particular the hierarchical appeal against the multi-purpose medical disability certificate (atestado médico de incapacidade multiúso) issued by the disability assessment medical board (JMAI) under Decree-Law No. 202/96, on the grounds of disagreement with the degree of disability assigned or the methodology used.",
+  "substituicoes": [
+   {
+    "de": "- Distingue a incapacidade para fins de segurança social (NSNS/ISS) da incapacidade para fins civis (responsabilidade)\n- A tabela de referência é a Portaria n.º 679/2009 (NTAI — Nova Tabela Nacional de Avaliação de Incapacidades)",
+    "para": "- Distingue o atestado médico de incapacidade multiúso (AMIM), emitido pela junta médica de avaliação de incapacidade (JMAI) da ULS ao abrigo do Decreto-Lei n.º 202/96, da incapacidade para efeitos de segurança social (sistema de verificação de incapacidades do ISS), da incapacidade por acidente de trabalho ou doença profissional e da incapacidade para fins civis (responsabilidade)\n- As tabelas de referência são as aprovadas pelo Decreto-Lei n.º 352/2007: a Tabela Nacional de Incapacidades por Acidentes de Trabalho e Doenças Profissionais (anexo I, também aplicável ao AMIM por força do art. 4.º, n.º 1, do DL 202/96) e a Tabela Nacional para Avaliação de Incapacidades Permanentes em Direito Civil (anexo II). A Portaria n.º 679/2009 não é uma tabela de incapacidades (altera a Portaria n.º 377/2008, sobre a proposta razoável de indemnização no seguro automóvel) e «NTAI» não designa nenhuma tabela legal",
+    "motivo": "A Portaria 679/2009 altera a Portaria 377/2008 (proposta razoável, seguro automóvel); as tabelas de incapacidade são as dos anexos I e II do DL 352/2007, e o AMIM remete para a do anexo I; «NSNS» não existe.",
+    "fonte": "https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf"
+   },
+   {
+    "de": "- Entidade que emitiu o atestado: médico de família / especialista / INML / junta médica do ISS / outra",
+    "para": "- Entidade que emitiu o atestado: junta médica de avaliação de incapacidade (JMAI) da ULS, no caso do AMIM / médico de família / especialista / INML / comissão de verificação de incapacidade do ISS / outra",
+    "motivo": "O AMIM é emitido pelo presidente da JMAI, criada pela ULS (arts. 2.º e 4.º do DL 202/96, na redação do DL 15/2024); na segurança social a verificação cabe às comissões do sistema de verificação de incapacidades.",
+    "fonte": "https://files.diariodarepublica.pt/1s/2024/01/01200/0000200005.pdf"
+   },
+   {
+    "de": "- Prazo de impugnação: [■ VERIFICAR legislação aplicável ao tipo de avaliação]",
+    "para": "- Prazo de impugnação: no AMIM, recurso hierárquico necessário para o dirigente máximo do serviço, no prazo de 30 dias (art. 5.º, n.º 1, do DL 202/96, na redação do DL 15/2024); nos restantes regimes, [■ VERIFICAR legislação aplicável ao tipo de avaliação]",
+    "motivo": "O prazo de 30 dias do recurso hierárquico do AMIM está fixado no art. 5.º, n.º 1, do DL 202/96.",
+    "fonte": "https://files.diariodarepublica.pt/1s/2024/01/01200/0000200005.pdf"
+   },
+   {
+    "de": "- Portaria n.º 679/2009 — Nova Tabela Nacional de Avaliação de Incapacidades (NTAI): tabela de referência\n- Decreto-Lei n.º 352/2007 — aprovação da NTAI e procedimento de avaliação\n- Para incapacidade laboral/segurança social: [■ VERIFICAR: legislação específica do ISS/INSS]\n- Para acidentes de trabalho: [■ VERIFICAR: Lei n.º 98/2009 — regime de acidentes de trabalho]",
+    "para": "- Decreto-Lei n.º 202/96, de 23 de outubro, na redação do Decreto-Lei n.º 15/2024 — avaliação de incapacidade das pessoas com deficiência e AMIM: JMAI criadas por iniciativa das ULS (art. 2.º), requerimento dirigido ao presidente do conselho de administração da ULS da residência, com relatório médico (art. 3.º), avaliação segundo a Tabela Nacional de Incapacidades do DL 352/2007 (art. 4.º), recurso hierárquico necessário para o dirigente máximo do serviço no prazo de 30 dias, com possível reavaliação por nova junta médica, e recurso contencioso da homologação da segunda avaliação (art. 5.º)\n- Decreto-Lei n.º 352/2007 — aprova a Tabela Nacional de Incapacidades por Acidentes de Trabalho e Doenças Profissionais (anexo I) e a Tabela Nacional para Avaliação de Incapacidades Permanentes em Direito Civil (anexo II)\n- Para incapacidade para efeitos de segurança social (invalidez): [■ VERIFICAR: sistema de verificação de incapacidades do ISS — Decreto-Lei n.º 360/97, na versão em vigor — e prazo do pedido de intervenção da comissão de recurso]\n- Para acidentes de trabalho e doenças profissionais: Lei n.º 98/2009 e processo especial do Código de Processo do Trabalho; quem discorde do resultado da perícia da fase conciliatória requer perícia por junta médica (art. 138.º do CPT) [■ VERIFICAR: prazo aplicável ao caso]",
+    "motivo": "Substitui a «NTAI»/Portaria 679/2009 pelo regime real (DL 202/96 e DL 352/2007), retira a sigla brasileira «INSS» e indica a junta médica do processo de acidente de trabalho.",
+    "fonte": "https://files.diariodarepublica.pt/1s/2024/01/01200/0000200005.pdf"
+   },
+   {
+    "de": "- A quem dirigir: médico de família / centro de saúde / ISS / INML / tribunal",
+    "para": "- A quem dirigir: no AMIM, o requerimento de avaliação ao presidente do conselho de administração da ULS da residência e o recurso hierárquico ao dirigente máximo do serviço (arts. 3.º e 5.º do DL 202/96) / ISS / INML / tribunal",
+    "motivo": "Desde o DL 15/2024 o requerimento de avaliação é dirigido à ULS, e não ao médico de família ou ao centro de saúde.",
+    "fonte": "https://files.diariodarepublica.pt/1s/2024/01/01200/0000200005.pdf"
+   },
+   {
+    "de": "— metodologia incorreta: [desvio à NTAI]",
+    "para": "— metodologia incorreta: [desvio à tabela aplicável do Decreto-Lei n.º 352/2007]",
+    "motivo": "A «NTAI» não existe; a referência é a tabela do DL 352/2007.",
+    "fonte": "https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf"
+   },
+   {
+    "de": "b) [Ou: A anulação do atestado de [data] e emissão de novo atestado com grau de [percentagem]%];\nc) Que a avaliação seja realizada de acordo com a Portaria n.º 679/2009 (NTAI).",
+    "para": "b) [Ou, no recurso hierárquico do AMIM: a revogação da avaliação de [data] e a determinação de reavaliação por nova junta médica, composta por médicos que não tenham participado na avaliação anterior, podendo o recorrente indicar um deles, com emissão de novo atestado com grau de [percentagem]% (art. 5.º, n.os 1 e 2, do DL 202/96)];\nc) Que a avaliação seja realizada de acordo com a tabela aplicável do Decreto-Lei n.º 352/2007 [anexo I — Tabela Nacional de Incapacidades, no AMIM e nos acidentes de trabalho / anexo II — direito civil].",
+    "motivo": "O meio próprio do AMIM é o recurso hierárquico com reavaliação por nova junta (art. 5.º do DL 202/96); a Portaria 679/2009 não é tabela de incapacidades.",
+    "fonte": "https://files.diariodarepublica.pt/1s/2024/01/01200/0000200005.pdf"
+   },
+   {
+    "de": "- [ ] Tabela de referência (NTAI — Portaria n.º 679/2009) invocada",
+    "para": "- [ ] Tabela de referência do Decreto-Lei n.º 352/2007 (anexo I ou II, consoante a finalidade) invocada",
+    "motivo": "A tabela correta é a do DL 352/2007.",
+    "fonte": "https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar a versão consolidada do DL 202/96 à data do requerimento (a última alteração confirmada é a do DL 15/2024) e se a Portaria n.º 171/2025/1 (desmaterialização do processo de JMAI) altera a forma de apresentação.",
+   "Identificar qual é, na prática, o «dirigente máximo do serviço» a quem se dirige o recurso hierárquico do AMIM na ULS em causa.",
+   "Nos casos de segurança social (invalidez), confirmar a versão em vigor do DL 360/97 e o prazo do pedido à comissão de recurso.",
+   "Nos acidentes de trabalho, confirmar o prazo do requerimento de junta médica (art. 138.º, n.º 2, do CPT remete para o art. 119.º, n.º 1)."
+  ],
+  "fontes": [
+   "https://files.diariodarepublica.pt/1s/2024/01/01200/0000200005.pdf",
+   "https://files.diariodarepublica.pt/1s/2009/10/19700/0749707500.pdf",
+   "https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf",
+   "https://diariodarepublica.pt/dr/detalhe/portaria/679-2009-491971",
+   "https://diariodarepublica.pt/dr/detalhe/decreto-lei/360-1997-417402",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=487A0138&nid=487&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+  ]
+ },
+ {
+  "codigo": "SAU-022",
+  "veredicto": "corrigida",
+  "resumo": "A ficha atribuía à Lei n.º 59/2007 a introdução da gestação de substituição «(art. 277.º CP)»; na verdade, essa lei só aditou o art. 43.º-A (responsabilidade penal das pessoas coletivas), e o art. 277.º CP trata de regras de construção. Também apresentava a gestação de substituição como «regime especial e temporário» e o anonimato dos dadores como questão em aberto, ignorando o Acórdão do TC n.º 225/2018 e as Leis n.os 48/2019, 72/2021 e 90/2021. Atualizou-se a lista de alterações (9.ª versão, a da Lei 90/2021), o regime da identidade do dador (art. 15.º) e os beneficiários (art. 6.º).",
+  "substituicoes": [
+   {
+    "de": "- Quem são os beneficiários: casal casado / união de facto / mulher solteira",
+    "para": "- Quem são os beneficiários: casal de sexo diferente ou casal de mulheres, casados ou em união de facto / qualquer mulher, independentemente do estado civil e da orientação sexual (art. 6.º, n.º 1, da Lei n.º 32/2006); idade mínima de 18 anos (art. 6.º, n.º 2)",
+    "motivo": "Desde a Lei 17/2016 o acesso abrange todas as mulheres, independentemente do estado civil, e não só a «mulher solteira».",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=903&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Lei n.º 32/2006 (Lei da PMA), com as alterações introduzidas por:\n  - Lei n.º 59/2007 (art. 277.º CP — gestação de substituição)\n  - Lei n.º 17/2016 — alargamento dos beneficiários (mulheres solteiras e casais femininos)\n  - Lei n.º 25/2016 — gestação de substituição (regime especial e temporário — [■ VERIFICAR: estado atual da lei]\n  - [■ VERIFICAR: alterações posteriores à versão de 2016]",
+    "para": "- Lei n.º 32/2006 (Lei da PMA), na redação atual (9.ª versão, a da Lei n.º 90/2021), com as alterações introduzidas por:\n  - Lei n.º 59/2007 — aditou o art. 43.º-A (responsabilidade penal das pessoas coletivas); nada tem que ver com a gestação de substituição\n  - Lei n.º 17/2016 — alargamento do acesso a todas as mulheres, independentemente do diagnóstico de infertilidade, do estado civil e da orientação sexual (arts. 4.º e 6.º)\n  - Lei n.º 25/2016 — admissão da gestação de substituição, a título excecional e gratuito (art. 8.º)\n  - Acórdão do Tribunal Constitucional n.º 225/2018 — declarou inconstitucionais, com força obrigatória geral, várias normas do art. 8.º (gestação de substituição, incluindo a irrevogabilidade do consentimento da gestante) e a regra do sigilo absoluto sobre a identidade dos dadores (art. 15.º, n.os 1 e 4)\n  - Leis n.os 58/2017, 49/2018 (regime do maior acompanhado, art. 6.º, n.º 2) e 48/2019 (identidade do dador, art. 15.º)\n  - Lei n.º 72/2021 — inseminação post mortem (arts. 22.º, 22.º-A e 23.º)\n  - Lei n.º 90/2021 — novo regime da gestação de substituição (art. 8.º), com o consentimento da gestante revogável até ao registo da criança (art. 8.º, n.º 10) [■ VERIFICAR: regulamentação da Lei n.º 90/2021 em vigor]",
+    "motivo": "A Lei 59/2007 só aditou o art. 43.º-A e o art. 277.º CP é alheio à PMA; a gestação de substituição foi revista após o Ac. TC 225/2018 (Lei 90/2021) e o regime não é «temporário».",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=903&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Registo dos doadores e anonimato: [■ VERIFICAR: evolução legislativa — direito do filho a conhecer a identidade biológica]",
+    "para": "- Confidencialidade e identidade do dador: o Acórdão do Tribunal Constitucional n.º 225/2018 declarou inconstitucional o sigilo absoluto sobre a identidade dos dadores; na redação atual do art. 15.º da Lei n.º 32/2006 (Lei n.º 48/2019), as pessoas nascidas com recurso a dádiva de gâmetas ou embriões podem obter as informações de natureza genética que lhes digam respeito e, a partir dos 18 anos, a identificação civil do dador junto do CNPMA [■ VERIFICAR: regime transitório aplicável às dádivas anteriores à Lei n.º 48/2019]",
+    "motivo": "O anonimato dos dadores foi declarado inconstitucional (Ac. TC 225/2018) e o art. 15.º foi reescrito pela Lei 48/2019.",
+    "fonte": "https://www.tribunalconstitucional.pt/tc/acordaos/20180225.html"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar se a Lei n.º 90/2021 (gestação de substituição) já está regulamentada e qual o diploma regulamentar em vigor.",
+   "Confirmar o regime transitório da Lei n.º 48/2019 para as dádivas de gâmetas e embriões feitas sob a regra do anonimato.",
+   "Confirmar se houve alterações à Lei n.º 32/2006 posteriores à Lei n.º 90/2021 (a PGDL indica a 9.ª versão como a mais recente).",
+   "Nas questões de filiação, ter presente que o art. 20.º trata da determinação da parentalidade e o art. 23.º da inseminação post mortem."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=903&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://diariodarepublica.pt/dr/detalhe/lei/59-2007-640142",
+   "https://www.tribunalconstitucional.pt/tc/acordaos/20180225.html"
+  ]
+ },
+ {
+  "codigo": "SAU-023",
+  "veredicto": "corrigida",
+  "resumo": "A ficha apresentava o DL 156/99 (que trata dos sistemas locais de saúde) como base do regime das clínicas; o regime é o DL 127/2014 (licenciamento pela ERS, revogou o DL 279/2009), com o registo obrigatório nos Estatutos da ERS (DL 126/2014). Corrigiram-se ainda o livro de reclamações eletrónico (plataforma oficial livroreclamacoes.pt, não o «Portal da Queixa»), o prazo de resposta às reclamações (10 dias úteis, não 15), a inexistente «renovação anual do registo na ERS», a «licença de utilização» (hoje título de utilização ou comunicação prévia no RJUE revisto), o «livro de ponto IRS» e a comunicação de admissões ao «Centro de Emprego».",
+  "substituicoes": [
+   {
+    "de": "- Decreto-Lei n.º 156/99 — estabelecimentos de saúde privados (base do regime)\n- [■ VERIFICAR: alterações e diplomas posteriores ao DL 156/99]",
+    "para": "- Decreto-Lei n.º 127/2014, de 22 de agosto — regime de abertura, modificação e funcionamento dos estabelecimentos prestadores de cuidados de saúde: licença de funcionamento emitida pela ERS por mera comunicação prévia ou procedimento ordinário, consoante a tipologia (arts. 2.º, 4.º e 5.º); revogou o DL 279/2009. O DL 156/99 trata dos sistemas locais de saúde e não se aplica às clínicas\n- Estatutos da ERS, aprovados pelo Decreto-Lei n.º 126/2014, de 22 de agosto — registo obrigatório e prévio (art. 26.º), queixas e reclamações (art. 30.º) e contraordenações (art. 61.º) [■ VERIFICAR: redação em vigor de ambos os diplomas]",
+    "motivo": "O DL 156/99 regula os sistemas locais de saúde; o regime das clínicas é o DL 127/2014, com o registo nos Estatutos da ERS (DL 126/2014).",
+    "fonte": "https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2014-56304801"
+   },
+   {
+    "de": "□ Licença de utilização das instalações para fins de saúde (emitida pela câmara municipal)\n□ Registo na ERS como estabelecimento de saúde [■ VERIFICAR: procedimento atualizado em ers.pt]\n□ Licença de atividade da ERS — conforme especialidade(s)\n□ Alvará comercial / registo na conservatória do registo comercial",
+    "para": "□ Título de utilização do imóvel compatível com o uso de saúde: autorização ou alvará de utilização já existente ou, desde o DL 10/2024, comunicação prévia de utilização ou de alteração de uso à câmara municipal (arts. 62.º-A e 62.º-B RJUE; art. 5.º, n.º 2, do DL 127/2014)\n□ Registo na ERS antes do início da atividade, como condição de abertura e funcionamento, com a certidão afixada (art. 26.º dos Estatutos da ERS) [■ VERIFICAR: procedimento atualizado em ers.pt]\n□ Licença de funcionamento emitida pela ERS para cada tipologia exercida, afixada em local visível (arts. 2.º e 11.º do DL 127/2014)\n□ Registo comercial da sociedade (se aplicável)",
+    "motivo": "Após o DL 10/2024 a utilização depende de comunicação prévia (arts. 62.º-A e 62.º-B RJUE); a ERS emite licença de funcionamento por tipologia (DL 127/2014) e não «licença de atividade»; o «alvará comercial» não existe.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=625&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "□ Livro de reclamações eletrónico no Portal da Queixa (se aplicável) [■ VERIFICAR]",
+    "para": "□ Livro de reclamações eletrónico na plataforma oficial livroreclamacoes.pt, obrigatório para os prestadores dos setores privado, cooperativo e social, com o acesso divulgado no sítio na Internet (art. 5.º-B, n.os 1 e 2, do DL 156/2005)",
+    "motivo": "O livro eletrónico é o da plataforma oficial livroreclamacoes.pt e é obrigatório para estes prestadores; o Portal da Queixa é uma plataforma privada.",
+    "fonte": "https://ers.pt/media/fuam0eaw/alerta_supervisao_05_2024_lre.pdf"
+   },
+   {
+    "de": "□ Contratos de subprocessamento com fornecedores externos (software clínico, etc.)",
+    "para": "□ Contratos com os subcontratantes que tratem dados por conta da clínica (software clínico, etc.), nos termos do art. 28.º RGPD",
+    "motivo": "O RGPD fala de subcontratante (art. 28.º), não de «subprocessamento».",
+    "fonte": "https://publications.europa.eu/resource/celex/32016R0679"
+   },
+   {
+    "de": "□ Mecanismo de reclamação operacional (livro de reclamações + resposta em 15 dias)",
+    "para": "□ Mecanismo de reclamação operacional: resposta ao reclamante no prazo máximo de 10 dias úteis e envio da reclamação e da resposta à ERS pelo SGREC (art. 5.º-B, n.º 4, do DL 156/2005; art. 30.º, n.º 2, dos Estatutos da ERS; Regulamento da ERS n.º 65/2015)",
+    "motivo": "Para os prestadores de cuidados de saúde o prazo de resposta é de 10 dias úteis, com envio à ERS no mesmo prazo.",
+    "fonte": "https://ers.pt/media/fuam0eaw/alerta_supervisao_05_2024_lre.pdf"
+   },
+   {
+    "de": "□ Comunicação ao Centro de Emprego de admissões e cessações",
+    "para": "□ Comunicação da admissão (e, quando aplicável, da cessação) dos trabalhadores à Segurança Social [■ VERIFICAR: prazos e meio de comunicação no Código dos Regimes Contributivos, na redação em vigor]",
+    "motivo": "Não há dever geral de comunicar admissões ao Centro de Emprego; a comunicação obrigatória é feita à Segurança Social (prazos por confirmar após o DL 127/2025).",
+    "fonte": ""
+   },
+   {
+    "de": "□ Livro de ponto IRS para trabalhadores",
+    "para": "□ Retenção na fonte de IRS sobre as remunerações e Declaração Mensal de Remunerações à AT (art. 119.º CIRS)",
+    "motivo": "O «livro de ponto IRS» não existe; a obrigação fiscal do empregador é a retenção e a comunicação mensal de rendimentos e retenções.",
+    "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cirs_rep/Pages/codigo-do-irs-indice.aspx"
+   },
+   {
+    "de": "□ Renovação anual do registo na ERS",
+    "para": "□ Atualização do registo na ERS no prazo de 30 dias após qualquer alteração (art. 26.º, n.º 3, dos Estatutos da ERS) e comunicação à ERS, no mesmo prazo, das alterações aos elementos da licença (art. 12.º do DL 127/2014); pagamento das taxas devidas à ERS [■ VERIFICAR: portaria de taxas em vigor]",
+    "motivo": "O registo na ERS não se renova anualmente; há dever de atualização em 30 dias e taxas.",
+    "fonte": "https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-2014-56304800"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar a redação em vigor do DL 127/2014 e dos Estatutos da ERS (DL 126/2014) e a portaria de requisitos técnicos aplicável à tipologia da clínica.",
+   "Confirmar a portaria de taxas da ERS em vigor (registo, licenciamento e contribuição regulatória).",
+   "Confirmar os prazos atuais da comunicação de admissão de trabalhadores à Segurança Social, alterados pelo DL 127/2025.",
+   "Confirmar, para o imóvel concreto, se já existe título de utilização para serviços de saúde ou se é necessária comunicação prévia de alteração de uso (RJUE após o DL 10/2024).",
+   "A isenção de IVA do art. 9.º, n.º 2, CIVA aplica-se aos estabelecimentos (clínicas); os profissionais estão no n.º 1."
+  ],
+  "fontes": [
+   "https://diariodarepublica.pt/dr/detalhe/decreto-lei/156-1999-331072",
+   "https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2014-56304801",
+   "https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-2014-56304800",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=625&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://ers.pt/media/fuam0eaw/alerta_supervisao_05_2024_lre.pdf",
+   "https://publications.europa.eu/resource/celex/32016R0679",
+   "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cirs_rep/Pages/codigo-do-irs-indice.aspx"
+  ]
+ },
+ {
+  "codigo": "SAU-024",
+  "veredicto": "corrigida",
+  "resumo": "A ficha citava um inexistente «Decreto-Lei n.º 67/2012» para os lares (esse DL trata dos tribunais); o diploma é a Portaria n.º 67/2012, alterada pela Portaria n.º 349/2023, com licenciamento pelo DL 64/2007. Dizia também que os lares privados são regulados pela ERS e fazia dela o primeiro passo de escalada: as ERPI são fiscalizadas pelo ISS (art. 19.º da Portaria 67/2012), e a ERS só regula a prestação de cuidados de saúde. A Lei 15/2014 aplica-se aos serviços de saúde, pelo que os direitos do residente na ERPI assentam sobretudo no contrato e no regulamento interno. Identificou-se ainda a RNCCI (DL 101/2006).",
+  "substituicoes": [
+   {
+    "de": "- Distingue lar privado (regulado pela ERS e ISS) de UCCI do SNS (regulada pelo SNS/RNCCI)",
+    "para": "- Distingue a estrutura residencial para pessoas idosas (ERPI ou lar, privado ou de IPSS), licenciada e fiscalizada pelo ISS (DL 64/2007; art. 19.º da Portaria n.º 67/2012), da unidade de cuidados continuados integrados (UCCI) da RNCCI (DL 101/2006), que presta cuidados de saúde e está sujeita também à regulação da ERS",
+    "motivo": "As ERPI são fiscalizadas pelo ISS, não pela ERS; a ERS regula os prestadores de cuidados de saúde.",
+    "fonte": "https://diariodarepublica.pt/dr/detalhe/portaria/67-2012-553657"
+   },
+   {
+    "de": "- Lei n.º 15/2014 — direitos do utente: aplicação a lares e cuidados continuados\n- Decreto-Lei n.º 67/2012 — normas de funcionamento dos lares de idosos [■ VERIFICAR: diploma atualizado]\n- Rede Nacional de Cuidados Continuados Integrados (RNCCI) — [■ VERIFICAR: diploma de criação e normas aplicáveis]",
+    "para": "- Lei n.º 15/2014 — direitos e deveres do utente dos serviços de saúde: aplica-se aos cuidados de saúde, incluindo os prestados nas UCCI; nas ERPI, os direitos do residente decorrem sobretudo do contrato de prestação de serviços e do regulamento interno (arts. 10.º e 14.º da Portaria n.º 67/2012)\n- Portaria n.º 67/2012, de 21 de março, alterada pela Portaria n.º 349/2023 — condições de organização, funcionamento e instalação das ERPI; licenciamento e fiscalização dos estabelecimentos de apoio social: Decreto-Lei n.º 64/2007, de 14 de março [■ VERIFICAR: redação em vigor de ambos]\n- Rede Nacional de Cuidados Continuados Integrados (RNCCI) — criada pelo Decreto-Lei n.º 101/2006, de 6 de junho [■ VERIFICAR: redação em vigor e normas aplicáveis à tipologia da unidade]",
+    "motivo": "O «DL 67/2012» trata dos tribunais; as ERPI regem-se pela Portaria 67/2012 (alterada pela Portaria 349/2023) e pelo DL 64/2007; a Lei 15/2014 é a dos utentes dos serviços de saúde.",
+    "fonte": "https://diariodarepublica.pt/dr/detalhe/portaria/349-2023-224139049"
+   },
+   {
+    "de": "- ERS — competência regulatória sobre lares privados e UCCI\n- ISS — Instituto da Segurança Social: fiscalização de lares e IPSS",
+    "para": "- ERS — regula os estabelecimentos prestadores de cuidados de saúde (art. 4.º dos Estatutos da ERS), incluindo as UCCI; nas ERPI só quanto aos cuidados de saúde aí prestados [■ VERIFICAR: posição da ERS sobre o registo de ERPI que prestam cuidados de saúde]\n- ISS — Instituto da Segurança Social: acompanhamento, avaliação e fiscalização das ERPI, privadas ou de IPSS (art. 19.º da Portaria n.º 67/2012)",
+    "motivo": "A ERS não tem competência regulatória geral sobre lares; a fiscalização das ERPI cabe ao ISS.",
+    "fonte": "https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-2014-56304800"
+   },
+   {
+    "de": "- Destinatário: direção do lar + cópia para ERS/ISS se a situação for grave",
+    "para": "- Destinatário: direção do lar + cópia para o ISS (ERPI/lar) ou para a ERS (UCCI ou cuidados de saúde) se a situação for grave",
+    "motivo": "A entidade competente depende do tipo de estabelecimento.",
+    "fonte": "https://diariodarepublica.pt/dr/detalhe/portaria/67-2012-553657"
+   },
+   {
+    "de": "- Aviso de escalada progressiva: ERS → ISS → Ministério Público",
+    "para": "- Aviso de escalada progressiva: ISS (ERPI/lar) ou ERS (UCCI e cuidados de saúde) → Ministério Público",
+    "motivo": "Num lar, o primeiro passo é o ISS, que o fiscaliza; a ERS só nos cuidados de saúde.",
+    "fonte": "https://diariodarepublica.pt/dr/detalhe/portaria/67-2012-553657"
+   },
+   {
+    "de": "[Identificação das normas violadas com base na Lei n.º 15/2014 e legislação específica dos lares]",
+    "para": "[Identificação dos direitos e normas violados: na ERPI/lar, o contrato de prestação de serviços, o regulamento interno e a Portaria n.º 67/2012; na UCCI e quanto aos cuidados de saúde, a Lei n.º 15/2014]",
+    "motivo": "A Lei 15/2014 aplica-se aos serviços de saúde; o residente da ERPI apoia-se no contrato, no regulamento interno e na Portaria 67/2012.",
+    "fonte": "https://diariodarepublica.pt/dr/detalhe/lei/15-2014-571943"
+   },
+   {
+    "de": "O incumprimento dos pedidos acima ou a continuação das situações descritas implicará a participação à Entidade Reguladora da Saúde (ERS), ao Instituto da Segurança Social (ISS) e, se os factos configurarem crime, ao Ministério Público.",
+    "para": "O incumprimento dos pedidos acima ou a continuação das situações descritas implicará a participação à [entidade competente: Instituto da Segurança Social (ISS), no caso de ERPI/lar / Entidade Reguladora da Saúde (ERS), no caso de UCCI ou de cuidados de saúde] e, se os factos configurarem crime, ao Ministério Público.",
+    "motivo": "A participação deve ir para a entidade que fiscaliza o tipo de estabelecimento.",
+    "fonte": "https://diariodarepublica.pt/dr/detalhe/portaria/67-2012-553657"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar a natureza do estabelecimento (ERPI licenciada pelo ISS, IPSS com acordo de cooperação ou UCCI da RNCCI) antes de escolher o destinatário da participação.",
+   "Confirmar se a ERS se considera competente quanto aos cuidados de enfermagem prestados na ERPI concreta.",
+   "Confirmar a redação em vigor do DL 64/2007, da Portaria 67/2012 e do DL 101/2006.",
+   "O crime do art. 152.º-A CP exige que a vítima esteja ao cuidado ou à guarda do agente e seja particularmente indefesa (por exemplo, em razão da idade ou de doença); ponderar também outros tipos penais, se for o caso."
+  ],
+  "fontes": [
+   "https://diariodarepublica.pt/dr/detalhe/portaria/67-2012-553657",
+   "https://diariodarepublica.pt/dr/detalhe/portaria/349-2023-224139049",
+   "https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-2012-553633",
+   "https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2007-518425",
+   "https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-2006-353934",
+   "https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-2014-56304800",
+   "https://diariodarepublica.pt/dr/detalhe/lei/15-2014-571943",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=109A0152A&nid=109&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+  ]
+ },
+ {
+  "codigo": "SAU-030",
+  "veredicto": "corrigida",
+  "resumo": "A ficha excluía da ERS os «estabelecimentos públicos integrados na administração direta do Estado (competência da IGAS)», mas os Estatutos da ERS (art. 4.º do DL 126/2014) sujeitam à regulação todos os estabelecimentos prestadores de cuidados de saúde, públicos incluídos; as exclusões são só as do art. 4.º, n.º 3. O âmbito era citado pelo art. 3.º (que trata da sede) e atribuía-se ao queixoso uma audiência prévia do CPA, que no processo de contraordenação pertence ao arguido (art. 50.º RGCO). Corrigiu-se também o artigo do acesso ao processo clínico (art. 5.º, n.º 3, e não art. 4.º, da Lei 15/2014) e a referência a «alvará ERS».",
+  "substituicoes": [
+   {
+    "de": "- Âmbito: estabelecimentos de saúde do setor público empresarial, privado e social (art. 3.º Estatuto ERS)\n- Exclusões: estabelecimentos públicos integrados na administração direta do Estado (competência da IGAS)\n- Direitos do utente em causa (Lei 15/2014, arts. 2.º a 20.º)\n- Tipo de infração: contraordenação aplicável",
+    "para": "- Âmbito: todos os estabelecimentos prestadores de cuidados de saúde dos setores público, privado, cooperativo e social, independentemente da sua natureza jurídica (art. 4.º, n.º 2, dos Estatutos da ERS, aprovados pelo DL 126/2014)\n- Exclusões (art. 4.º, n.º 3, dos Estatutos): os profissionais de saúde, quanto à atividade sujeita à regulação e disciplina da respetiva ordem profissional, e os estabelecimentos sujeitos a regulação específica do INFARMED, nos aspetos respeitantes a essa regulação. Os estabelecimentos públicos não estão excluídos; a IGAS, que audita, inspeciona e fiscaliza tanto os serviços do Ministério da Saúde como as entidades privadas do setor, tem competência própria que não afasta a da ERS\n- Direitos do utente em causa (Lei 15/2014, arts. 2.º e seguintes; deveres no art. 24.º) e, quando aplicável, a Carta dos Direitos de Acesso (art. 13.º, al. b), dos Estatutos)\n- Tipo de infração: contraordenação aplicável (art. 61.º dos Estatutos da ERS)",
+    "motivo": "O art. 4.º dos Estatutos sujeita à ERS todos os estabelecimentos, públicos incluídos; o art. 3.º trata da sede; as exclusões são só as do art. 4.º, n.º 3.",
+    "fonte": "https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-2014-56304800"
+   },
+   {
+    "de": "- Identificação do visado (estabelecimento, nome, morada, alvará ERS se conhecido)",
+    "para": "- Identificação do visado (estabelecimento, nome, morada, n.º de registo na ERS e licença de funcionamento, se conhecidos)",
+    "motivo": "A ERS mantém um registo público e emite licenças de funcionamento; não há «alvará ERS».",
+    "fonte": "https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2014-56304801"
+   },
+   {
+    "de": "- Direito de audiência prévia (art. 50.º CPA) se instaurado processo\n- Articulação com queixa à IGAS (se estabelecimento público direto)",
+    "para": "- No processo de contraordenação, o direito de audição e defesa pertence ao visado, enquanto arguido (art. 50.º RGCO); o queixoso não é parte, mas pode pedir informação sobre o seguimento da queixa [■ VERIFICAR: regulamento da ERS sobre o tratamento de reclamações]\n- Articulação com queixa à IGAS (competência própria de auditoria e inspeção no setor da saúde, cumulativa com a da ERS)",
+    "motivo": "A audiência no processo sancionatório pertence ao arguido (art. 50.º RGCO) e não ao queixoso; a IGAS não é a via exclusiva para os estabelecimentos públicos.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=166&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- [ ] Identificação correta do estabelecimento (alvará ERS ou licença)",
+    "para": "- [ ] Identificação correta do estabelecimento (n.º de registo na ERS ou licença de funcionamento)",
+    "motivo": "Terminologia do registo e da licença da ERS.",
+    "fonte": "https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2014-56304801"
+   },
+   {
+    "de": "[listar — ex. acesso ao processo clínico, art. 4.º; direito a acompanhante, art. 12.º]",
+    "para": "[listar — ex. acesso aos dados de saúde e ao processo clínico, art. 5.º, n.º 3; direito ao acompanhamento, art. 12.º]",
+    "motivo": "O art. 4.º da Lei 15/2014 trata da adequação dos cuidados; o acesso aos dados pessoais está no art. 5.º, n.º 3.",
+    "fonte": "https://diariodarepublica.pt/dr/detalhe/lei/15-2014-571943"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar a redação em vigor dos Estatutos da ERS (DL 126/2014) e da Lei 15/2014.",
+   "Confirmar o regulamento da ERS sobre o tratamento de reclamações e queixas (Regulamento n.º 65/2015) e o direito de informação do queixoso.",
+   "Confirmar, no caso concreto, se a matéria cabe na disciplina da ordem profissional (exclusão do art. 4.º, n.º 3, al. a), dos Estatutos) e deve ser também participada à Ordem dos Médicos.",
+   "A queixa à ERS não interrompe a prescrição do direito à indemnização: verificar o prazo judicial à parte."
+  ],
+  "fontes": [
+   "https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-2014-56304800",
+   "https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2014-56304801",
+   "https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2012-543043",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=166&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://diariodarepublica.pt/dr/detalhe/lei/15-2014-571943"
+  ]
+ }
+]

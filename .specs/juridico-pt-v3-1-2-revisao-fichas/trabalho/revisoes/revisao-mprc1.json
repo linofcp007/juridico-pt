@@ -1,0 +1,720 @@
+[
+  {
+    "codigo": "PRC-004",
+    "veredicto": "corrigida",
+    "resumo": "A ficha seguia o regime do CPC de 1961: estruturava a réplica para impugnar as exceções dilatórias e perentórias e para alegar «factos novos» ao abrigo do art. 584.º, n.º 2. No CPC atual a réplica só é admissível para a defesa quanto à reconvenção e nas ações de simples apreciação negativa (art. 584.º CPC); às exceções da contestação o autor responde na audiência prévia ou no início da audiência final (art. 3.º, n.º 4, CPC), e os factos supervenientes seguem o art. 588.º CPC. Reescrevi as regras, as etapas, a estrutura da peça, o pedido, a checklist, a entrevista e a descrição do índice; acrescentei a alteração do requerimento probatório (art. 552.º, n.º 6) e o limite de testemunhas da reconvenção (art. 511.º, n.º 2).",
+    "descricao": "Gera a réplica do autor, nos termos do art. 584.º do CPC, admissível só quando o réu deduz reconvenção (para toda a defesa quanto ao pedido reconvencional) ou nas ações de simples apreciação negativa. Às exceções deduzidas na contestação o autor responde na audiência prévia ou no início da audiência final (art. 3.º, n.º 4, do CPC). Inclui a contestação da reconvenção, a alteração do requerimento probatório e o pedido de improcedência.",
+    "descricao_en": "Generates the claimant's reply (réplica) under Article 584 CPC, admissible only where the defendant has brought a counterclaim (to set out the whole defence to it) or in actions for a negative declaration. The exceptions raised in the defence are answered at the preliminary hearing or at the start of the final hearing (Article 3(4) CPC). It includes the defence to the counterclaim, the amendment of the request for evidence and the request that the counterclaim be dismissed.",
+    "substituicoes": [
+      {
+        "de": "- A réplica serve APENAS para: (1) impugnar exceções do réu; (2) contestar a reconvenção; (3) invocar factos novos que apenas se tornaram relevantes após a contestação (art. 584.º, n.º 2 CPC)",
+        "para": "- A réplica só é admissível em dois casos (art. 584.º CPC): (1) para o autor deduzir toda a defesa quanto à matéria da reconvenção, sem lhe poder opor nova reconvenção (n.º 1); (2) nas ações de simples apreciação negativa, para impugnar os factos constitutivos alegados pelo réu e alegar os factos impeditivos ou extintivos do direito por ele invocado (n.º 2). Sem reconvenção nem ação de simples apreciação negativa, não há réplica\n- Às exceções deduzidas na contestação (último articulado admissível) o autor responde na audiência prévia ou, não havendo lugar a ela, no início da audiência final (art. 3.º, n.º 4, CPC) — não na réplica\n- Factos supervenientes (ocorridos ou só conhecidos depois do prazo do articulado) seguem o regime do articulado superveniente, com prova da superveniência (art. 588.º CPC)\n- Na réplica, o autor pode alterar o requerimento probatório inicial (art. 552.º, n.º 6, CPC)",
+        "motivo": "No CPC de 2013 a réplica só serve a defesa quanto à reconvenção e as ações de simples apreciação negativa; a resposta às exceções faz-se nos termos do art. 3.º, n.º 4, CPC; o art. 584.º, n.º 2, não trata de factos novos.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0584&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=S&nversao=&"
+      },
+      {
+        "de": "- Quais as exceções dilatórias deduzidas pelo réu e como refutá-las?\n- Quais as exceções peremptórias deduzidas e como demonstrar a sua improcedência?\n- O réu deduziu reconvenção? Qual o fundamento e como contestá-la?\n- Há factos novos que só se tornaram relevantes com a contestação?\n- Quais os meios de prova adicionais a arrolar para refutar as exceções?",
+        "para": "- O réu deduziu reconvenção, ou a ação é de simples apreciação negativa? Se não, não há réplica: a resposta às exceções faz-se na audiência prévia ou no início da audiência final (art. 3.º, n.º 4, CPC)\n- Qual o fundamento da reconvenção e como contestá-la (impugnação e exceções contra o pedido reconvencional)?\n- Na ação de simples apreciação negativa: que factos constitutivos alegados pelo réu impugnar e que factos impeditivos ou extintivos alegar (art. 584.º, n.º 2, CPC)?\n- Que exceções deduziu o réu contra o pedido do autor? Preparar a resposta para a audiência prévia ou para o início da audiência final (art. 3.º, n.º 4, CPC)\n- Há factos supervenientes (art. 588.º CPC)?\n- Que alterações ao requerimento probatório convém fazer (art. 552.º, n.º 6, CPC)?",
+        "motivo": "A análise partia da réplica como resposta às exceções, regime do CPC de 1961; no CPC atual a réplica depende de reconvenção ou de ação de simples apreciação negativa.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0003&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=S&nversao=&"
+      },
+      {
+        "de": "- Artigos do CPC e do CC que refutam cada exceção invocada pelo réu\n- Causas de interrupção ou suspensão da prescrição se esta foi invocada",
+        "para": "- Normas do CPC e do CC que afastam o pedido reconvencional (e, na ação de simples apreciação negativa, o direito invocado pelo réu)\n- Exceções a opor à reconvenção (por exemplo, prescrição do crédito reconvencional) e, para a resposta às exceções da contestação na audiência prévia ou no início da audiência final (art. 3.º, n.º 4, CPC), causas de interrupção ou suspensão da prescrição se esta foi invocada",
+        "motivo": "A refutação das exceções da contestação não cabe na réplica (art. 3.º, n.º 4, CPC).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0003&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=S&nversao=&"
+      },
+      {
+        "de": "- Ordem de refutação das exceções (mais fortes primeiro)\n- Factos novos a alegar (apenas os admissíveis no âmbito da réplica)\n- Meios de prova adicionais a requerer",
+        "para": "- Ordem da defesa contra a reconvenção (impugnação e exceções, mais fortes primeiro)\n- Resposta às exceções da contestação: preparar para a audiência prévia ou para o início da audiência final (art. 3.º, n.º 4, CPC)\n- Meios de prova adicionais a requerer (alteração do requerimento probatório — art. 552.º, n.º 6, CPC)",
+        "motivo": "A réplica não serve para refutar as exceções da contestação; o autor pode nela alterar o requerimento probatório.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0552&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=S&nversao=&"
+      },
+      {
+        "de": "**2. RESPOSTA ÀS EXCEÇÕES DILATÓRIAS** (se aplicável)\nPara cada exceção dilatória invocada pelo réu:\n- Identificação da exceção\n- Impugnação de facto e de direito\n- Artigos relevantes com transcrição do trecho essencial\n\n**3. RESPOSTA ÀS EXCEÇÕES PEREMPTÓRIAS**\nPara cada exceção peremptória:\n- Impugnação especificada dos factos alegados pelo réu\n- Fundamento jurídico da sua improcedência\n- Meios de prova que refutam os factos do réu\n\n**4. FACTOS NOVOS** (apenas os admissíveis)\nSe existirem factos supervenientes ou que só se tornaram relevantes com a contestação, articulá-los numericamente.",
+        "para": "**2. ADMISSIBILIDADE DA RÉPLICA**\nIndicar o fundamento: reconvenção deduzida pelo réu (art. 584.º, n.º 1, CPC) ou ação de simples apreciação negativa (art. 584.º, n.º 2, CPC). As exceções que o réu deduziu contra o pedido do autor não se respondem aqui, mas na audiência prévia ou, não havendo lugar a ela, no início da audiência final (art. 3.º, n.º 4, CPC).\n\n**3. AÇÃO DE SIMPLES APRECIAÇÃO NEGATIVA** (se aplicável)\n- Impugnação especificada dos factos constitutivos alegados pelo réu\n- Factos impeditivos ou extintivos do direito invocado pelo réu, articulados numericamente\n- Meios de prova\n\n**4. FACTOS SUPERVENIENTES** (se aplicável)\nFactos constitutivos, modificativos ou extintivos ocorridos ou só conhecidos depois da contestação podem ser deduzidos neste articulado ou em novo articulado, até ao encerramento da discussão, provando-se a superveniência (art. 588.º, n.os 1 e 2, CPC). Articulá-los numericamente.",
+        "motivo": "A estrutura da peça seguia o regime anterior (réplica como resposta às exceções); no CPC atual a réplica só cabe nos casos do art. 584.º e os factos supervenientes seguem o art. 588.º CPC.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0588&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=S&nversao=&"
+      },
+      {
+        "de": "Fundamentação jurídica da improcedência de cada exceção e da reconvenção.\n\n**7. DO PEDIDO**\n\"Nestes termos, requer a V. Exa. se digne julgar improcedentes as exceções\ndeduzidas pelo Réu [e julgar improcedente a reconvenção], mantendo-se a\nação para julgamento [e absolvendo o Autor/Reconvindo do pedido reconvencional].\"",
+        "para": "Fundamentação jurídica da improcedência da reconvenção (ou, na ação de simples apreciação negativa, da inexistência do direito invocado pelo réu).\n\n**7. DO PEDIDO**\n\"Nestes termos, requer a V. Exa. se digne julgar improcedente a reconvenção,\nabsolvendo o Autor/Reconvindo do pedido reconvencional [ou, na ação de simples\napreciação negativa: declarar a inexistência do direito invocado pelo Réu, como\npedido na petição inicial].\"",
+        "motivo": "O pedido de improcedência das exceções não cabe na réplica (art. 584.º CPC); a resposta às exceções faz-se nos termos do art. 3.º, n.º 4, CPC.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0584&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=S&nversao=&"
+      },
+      {
+        "de": "**8. MEIOS DE PROVA ADICIONAIS**\nDocumentos adicionais, novas testemunhas (se admissível), perícia.",
+        "para": "**8. MEIOS DE PROVA ADICIONAIS**\nAlteração do requerimento probatório inicial (art. 552.º, n.º 6, CPC): documentos, testemunhas — havendo reconvenção, cada parte pode oferecer até 10 testemunhas para prova dos fundamentos da reconvenção e da respetiva defesa (art. 511.º, n.º 2, CPC) —, perícia.",
+        "motivo": "O autor pode alterar o requerimento probatório na réplica (art. 552.º, n.º 6, CPC) e, havendo reconvenção, há um limite próprio de testemunhas (art. 511.º, n.º 2, CPC).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0511&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=S&nversao=&"
+      },
+      {
+        "de": "- [ ] Réplica limitada ao âmbito do art. 584.º CPC\n- [ ] Exceções dilatórias refutadas com fundamento\n- [ ] Exceções peremptórias impugnadas especificadamente\n- [ ] Reconvenção contestada (se aplicável)\n- [ ] Factos novos admissíveis (não ampliação indevida do pedido)",
+        "para": "- [ ] Réplica admissível: há reconvenção ou a ação é de simples apreciação negativa (art. 584.º CPC)\n- [ ] Reconvenção contestada (impugnação e exceções)\n- [ ] Resposta às exceções da contestação preparada para a audiência prévia ou para o início da audiência final (art. 3.º, n.º 4, CPC)\n- [ ] Factos supervenientes alegados nos termos do art. 588.º CPC (sem ampliação indevida do pedido)",
+        "motivo": "A checklist pressupunha a réplica como resposta às exceções (regime anterior ao CPC de 2013).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0584&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=S&nversao=&"
+      },
+      {
+        "de": "[Descreve como o autor refuta cada exceção:\n- Por que razão a exceção é improcedente\n- Que factos novos podem ser alegados",
+        "para": "[Descreve como o autor contesta a reconvenção (ou, na ação de simples apreciação negativa, os factos alegados pelo réu) e, à parte, como responderá às exceções na audiência prévia ou no início da audiência final:\n- Por que razão o pedido reconvencional é improcedente\n- Que factos supervenientes podem ser alegados",
+        "motivo": "A entrevista recolhia dados para uma resposta às exceções na réplica, que o CPC atual não admite (arts. 3.º, n.º 4, e 584.º CPC).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0584&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=S&nversao=&"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Confirmar na jurisprudência da Relação competente se, havendo réplica por causa da reconvenção, o tribunal admite que nela se responda também às exceções deduzidas contra o pedido do autor; há acórdãos que o recusam (a réplica limita-se à matéria da reconvenção).",
+      "Sem audiência prévia, confirmar a prática do tribunal quanto à resposta às exceções (no início da audiência final, art. 3.º, n.º 4, CPC, ou por requerimento autónomo a convite do juiz ao abrigo do contraditório do art. 3.º, n.º 3).",
+      "A falta de réplica ou de impugnação dos novos factos alegados pelo réu tem o efeito do art. 574.º CPC (art. 587.º, n.º 1, CPC): impugnar especificadamente os factos da reconvenção.",
+      "Ampliação do pedido: só nos termos do art. 265.º, n.º 2, CPC (desenvolvimento ou consequência do pedido primitivo, até ao encerramento da discussão em 1.ª instância)."
+    ],
+    "fontes": [
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0584&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=S&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0585&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=S&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0587&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=S&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0003&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=S&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0552&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=S&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0588&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=S&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0533&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=S&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0511&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=S&nversao=&"
+    ]
+  },
+  {
+    "codigo": "PRC-006",
+    "veredicto": "corrigida",
+    "resumo": "A ficha enunciava o periculum in mora como lesão «grave ou dificilmente reparável», quando o art. 362.º, n.º 1, CPC exige lesão grave e dificilmente reparável (requisitos cumulativos). Contava o prazo da ação principal «após a decretação», quando o art. 373.º, n.º 1, al. a), CPC o conta da notificação do trânsito em julgado da decisão que ordene a providência, e tratava a caução como regra a dispensar, quando é o juiz que pode tornar a providência dependente dela (art. 374.º, n.º 2, CPC). Corrigi também a proporcionalidade, que o art. 368.º, n.º 2, CPC formula como recusa quando o prejuízo para o requerido exceda consideravelmente o dano a evitar.",
+    "substituicoes": [
+      {
+        "de": "receio fundado de lesão grave ou dificilmente reparável (art. 362.º, n.º 1 CPC)",
+        "para": "receio fundado de lesão grave e dificilmente reparável (art. 362.º, n.º 1 CPC) — a gravidade e a difícil reparação são cumulativas: não basta uma lesão grave mas facilmente indemnizável",
+        "motivo": "O art. 362.º, n.º 1, CPC exige lesão «grave e dificilmente reparável».",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0362&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=S&nversao=&"
+      },
+      {
+        "de": "- A lesão é grave ou dificilmente reparável (art. 362.º, n.º 1 CPC)?",
+        "para": "- A lesão é grave e dificilmente reparável (art. 362.º, n.º 1 CPC)? Os dois atributos são cumulativos",
+        "motivo": "Requisitos cumulativos (art. 362.º, n.º 1, CPC).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0362&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=S&nversao=&"
+      },
+      {
+        "de": "- Se deve requerer caução do requerente ou isenção",
+        "para": "- Se convém oferecer caução (o juiz pode, mesmo sem audiência do requerido, tornar a providência dependente de caução adequada — art. 374.º, n.º 2 CPC)",
+        "motivo": "A caução não é regra de que se peça isenção: é o juiz que pode exigi-la (art. 374.º, n.º 2, CPC).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0374&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=S&nversao=&"
+      },
+      {
+        "de": "- Razão pela qual a lesão é grave ou irreversível",
+        "para": "- Razão pela qual a lesão é grave e dificilmente reparável",
+        "motivo": "Requisitos cumulativos (art. 362.º, n.º 1, CPC).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0362&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=S&nversao=&"
+      },
+      {
+        "de": "Demonstração de que a providência requerida é adequada e proporcional\nà lesão que se pretende evitar (art. 368.º, n.º 2 CPC).",
+        "para": "Demonstração de que a providência requerida é a concretamente adequada a assegurar\na efetividade do direito ameaçado (art. 362.º, n.º 1 CPC) e de que o prejuízo dela\nresultante para o requerido não excede consideravelmente o dano que com ela se\npretende evitar (art. 368.º, n.º 2 CPC).",
+        "motivo": "O art. 368.º, n.º 2, CPC permite recusar a providência quando o prejuízo para o requerido exceda consideravelmente o dano a evitar; a adequação está no art. 362.º, n.º 1.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0368&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=S&nversao=&"
+      },
+      {
+        "de": "[3.º Dispensar a prestação de caução, nos termos do art. 374.º, n.º 2 CPC]",
+        "para": "[3.º Decretar a providência sem a fazer depender de caução, que o juiz só exige se o julgar conveniente (art. 374.º, n.º 2 CPC); se a exigir, fixá-la em montante adequado]",
+        "motivo": "O art. 374.º, n.º 2, CPC não prevê uma caução obrigatória a dispensar: permite ao juiz tornar a providência dependente de caução.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0374&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=S&nversao=&"
+      },
+      {
+        "de": "será intentada no prazo de 30 dias — art. 373.º CPC].\"",
+        "para": "será intentada no prazo de 30 dias contados da notificação do trânsito em julgado da decisão que ordene a providência — art. 373.º, n.º 1, al. a), CPC].\"",
+        "motivo": "O prazo de 30 dias conta-se da notificação do trânsito em julgado da decisão que ordenou a providência (art. 373.º, n.º 1, al. a), CPC).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0373&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=S&nversao=&"
+      },
+      {
+        "de": "- [ ] Lesão grave ou dificilmente reparável fundamentada",
+        "para": "- [ ] Lesão grave e dificilmente reparável fundamentada (requisitos cumulativos — art. 362.º, n.º 1 CPC)",
+        "motivo": "Requisitos cumulativos (art. 362.º, n.º 1, CPC).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0362&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=S&nversao=&"
+      },
+      {
+        "de": "- Por que razão a lesão seria irreversível ou dificilmente reparável]",
+        "para": "- Por que razão a lesão seria grave e dificilmente reparável]",
+        "motivo": "Requisitos cumulativos (art. 362.º, n.º 1, CPC).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0362&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=S&nversao=&"
+      },
+      {
+        "de": "- Se não: prazo para intentar (30 dias após decretação — art. 373.º CPC)",
+        "para": "- Se não: prazo para intentar (30 dias contados da notificação do trânsito em julgado da decisão que ordene a providência — art. 373.º, n.º 1, al. a), CPC)",
+        "motivo": "O prazo não corre da decretação, mas da notificação do trânsito em julgado da decisão (art. 373.º, n.º 1, al. a), CPC).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0373&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=S&nversao=&"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Ponderar a inversão do contencioso (art. 369.º CPC), que dispensa o requerente de propor a ação principal quando a matéria adquirida permita formar convicção segura sobre a existência do direito.",
+      "Se o requerido não for ouvido antes do decretamento (art. 366.º CPC), contar com o contraditório subsequente (art. 372.º CPC).",
+      "A providência pode ser substituída por caução a pedido do requerido (art. 368.º CPC); preparar a posição sobre a suficiência da caução."
+    ],
+    "fontes": [
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0362&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=S&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0368&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=S&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0373&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=S&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0374&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=S&nversao=&"
+    ]
+  },
+  {
+    "codigo": "PRC-010",
+    "veredicto": "corrigida",
+    "resumo": "A ficha confundia o prazo do embargo com a conclusão da obra («obra não concluída há mais de 30 dias») e dava 5 dias úteis para a ratificação do embargo extrajudicial, citando o art. 398.º CPC (embargo por pessoas coletivas públicas). O art. 397.º CPC conta os 30 dias do conhecimento do facto (n.º 1), faz o embargo extrajudicial por notificação verbal, perante duas testemunhas, do dono da obra ou, na sua falta, do encarregado (n.º 2), e fá-lo caducar se a ratificação judicial não for requerida dentro de cinco dias (n.º 3). Corrigi regras, etapas, peça, pedido (ratificação e auto do art. 400.º CPC), checklist e entrevista, e os fundamentos de direito civil: o afastamento de metro e meio das janelas e varandas é o do art. 1360.º CC; a servidão de vistas e o espaço que impõe ao vizinho são os do art. 1362.º CC.",
+    "substituicoes": [
+      {
+        "de": "- Pressupostos: (1) obra nova ou serviço em curso; (2) direito do requerente ofendido pela obra; (3) caducidade: obra não concluída há mais de 30 dias (art. 397.º, n.º 1 CPC)\n- Embargo extrajudicial: pode ser feito pelo próprio requerente antes do tribunal, mas deve ser seguido de requerimento judicial em 5 dias úteis (art. 398.º, n.º 3 CPC)",
+        "para": "- Pressupostos: (1) obra, trabalho ou serviço novo em curso (o embargo visa a sua suspensão imediata); (2) ofensa do direito de propriedade, singular ou comum, de outro direito real ou pessoal de gozo ou da posse do requerente; (3) prejuízo causado ou ameaçado; (4) requerimento dentro de 30 dias a contar do conhecimento do facto (art. 397.º, n.º 1 CPC) — o prazo conta-se do conhecimento, não da conclusão da obra\n- Embargo extrajudicial: o interessado pode fazê-lo diretamente, notificando verbalmente, perante duas testemunhas, o dono da obra ou, na sua falta, o encarregado ou quem o substituir para a não continuar; fica sem efeito se, dentro de cinco dias, não for requerida a ratificação judicial (art. 397.º, n.os 2 e 3, CPC)",
+        "motivo": "O art. 397.º, n.º 1, CPC conta os 30 dias do conhecimento do facto; o embargo extrajudicial e a sua ratificação em cinco dias estão no art. 397.º, n.os 2 e 3 (o art. 398.º trata do embargo por pessoas coletivas públicas).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0397&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=S&nversao=&"
+      },
+      {
+        "de": "- A obra está em curso ou já foi concluída? (concluída há mais de 30 dias = caducidade)",
+        "para": "- A obra está em curso ou já foi concluída? (o embargo visa suspender a obra; em curso, tem de ser requerido dentro de 30 dias a contar do conhecimento do facto — art. 397.º, n.º 1 CPC)\n- Quando teve o requerente conhecimento da obra?",
+        "motivo": "O prazo de 30 dias conta-se do conhecimento do facto, não da conclusão da obra (art. 397.º, n.º 1, CPC).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0397&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=S&nversao=&"
+      },
+      {
+        "de": "- Fundamento jurídico concreto (ex: servidão de vistas — art. 1360.º CC; afastamentos — art. 1362.º CC)",
+        "para": "- Fundamento jurídico concreto (ex.: janelas, portas ou varandas abertas a menos de metro e meio do prédio do requerente — art. 1360.º CC; construção que não deixa o espaço mínimo de metro e meio imposto por servidão de vistas constituída a favor do prédio do requerente — art. 1362.º, n.º 2, CC)",
+        "motivo": "O afastamento de metro e meio de janelas, portas e varandas está no art. 1360.º CC; a servidão de vistas e o espaço que impõe ao vizinho, no art. 1362.º CC.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1360&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=S&nversao=&"
+      },
+      {
+        "de": "\"Em [data], o Requerente procedeu ao embargo extrajudicial da obra, nos\ntermos do art. 398.º, n.º 1 do CPC, notificando pessoalmente o dono da\nobra [nome] e os operários presentes, conforme declaração em anexo\n(Doc. n.º ___).\"\n\"O presente requerimento é apresentado dentro do prazo de 5 dias úteis\nprevisto no art. 398.º, n.º 3 do CPC.\"",
+        "para": "\"Em [data], o Requerente procedeu ao embargo extrajudicial da obra, nos\ntermos do art. 397.º, n.º 2, do CPC, notificando verbalmente, perante as\ntestemunhas [nome] e [nome], o dono da obra [nome] [ou, na sua falta, o\nencarregado / quem o substituía, [nome]] para a não continuar.\"\n\"O presente requerimento de ratificação judicial é apresentado dentro do\nprazo de cinco dias previsto no art. 397.º, n.º 3, do CPC.\" [■ VERIFICAR: contagem do prazo de cinco dias no caso concreto]",
+        "motivo": "O embargo extrajudicial faz-se por notificação verbal, perante duas testemunhas, ao dono da obra ou, na sua falta, ao encarregado (art. 397.º, n.º 2, CPC); a ratificação deve ser requerida dentro de cinco dias (n.º 3); a lei não fala em dias úteis.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0397&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=S&nversao=&"
+      },
+      {
+        "de": "1.º Decretar o embargo judicial da obra em curso;\n2.º Ordenar a suspensão imediata dos trabalhos;\n[3.º Confirmar o embargo extrajudicial realizado em [data]];\n4.º Notificar o requerido para, querendo, deduzir oposição.\"",
+        "para": "1.º Decretar o embargo judicial da obra em curso [ou: ratificar judicialmente o embargo\n   extrajudicial realizado em [data] — art. 397.º, n.º 3, do CPC];\n2.º Ordenar a suspensão imediata dos trabalhos, lavrando-se auto que descreva o estado\n   da obra e, sendo possível, a sua medição (art. 400.º do CPC);\n3.º Notificar o requerido para, querendo, deduzir oposição.\"",
+        "motivo": "O embargo extrajudicial é objeto de ratificação judicial (art. 397.º, n.º 3, CPC); o embargo faz-se ou ratifica-se por auto que descreve o estado da obra (art. 400.º CPC).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0400&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=S&nversao=&"
+      },
+      {
+        "de": "- [ ] Obra em curso (não concluída há mais de 30 dias)\n- [ ] Direito violado identificado com fundamento legal\n- [ ] Embargo extrajudicial e prazo de 5 dias verificados (se aplicável)",
+        "para": "- [ ] Obra em curso e embargo requerido dentro de 30 dias a contar do conhecimento do facto (art. 397.º, n.º 1 CPC)\n- [ ] Direito violado identificado com fundamento legal\n- [ ] Embargo extrajudicial feito perante duas testemunhas e ratificação requerida dentro de cinco dias (art. 397.º, n.os 2 e 3, CPC) (se aplicável)",
+        "motivo": "Prazo contado do conhecimento do facto e forma do embargo extrajudicial (art. 397.º CPC).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0397&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=S&nversao=&"
+      },
+      {
+        "de": "- Data de início: [data]\n- Estado atual: [fase da construção]",
+        "para": "- Data de início: [data]\n- Data em que o requerente teve conhecimento da obra: [data] (o prazo de 30 dias conta-se daqui — art. 397.º, n.º 1 CPC)\n- Estado atual: [fase da construção]",
+        "motivo": "O prazo de 30 dias conta-se do conhecimento do facto (art. 397.º, n.º 1, CPC).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0397&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=S&nversao=&"
+      },
+      {
+        "de": "- Servidão de vistas (art. 1360.º CC)\n- Afastamentos obrigatórios (art. 1362.º CC)",
+        "para": "- Janelas, portas ou varandas abertas a menos de metro e meio do prédio (art. 1360.º CC)\n- Construção que não respeita a servidão de vistas do prédio do requerente (art. 1362.º, n.º 2, CC)",
+        "motivo": "A servidão de vistas é a do art. 1362.º CC; o afastamento de metro e meio das aberturas é o do art. 1360.º CC.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1360&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=S&nversao=&"
+      },
+      {
+        "de": "- Foram notificados: [donos da obra, operários]",
+        "para": "- Quem foi notificado: [dono da obra ou, na sua falta, encarregado / quem o substituía]\n- Testemunhas presentes: [duas testemunhas — nomes]",
+        "motivo": "O embargo extrajudicial faz-se perante duas testemunhas, notificando o dono da obra ou, na sua falta, o encarregado (art. 397.º, n.º 2, CPC).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0397&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=S&nversao=&"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Confirmar a forma de contagem do prazo de cinco dias da ratificação (art. 397.º, n.º 3, CPC) e a jurisprudência sobre a sua natureza.",
+      "Se a obra já estiver concluída, o embargo deixa de ser o meio próprio: avaliar a ação comum (demolição, restituição, indemnização).",
+      "Confirmar se a obra é de pessoa coletiva pública ou está abrangida pelo art. 399.º CPC (obras que não podem ser embargadas).",
+      "Ponderar o pedido de autorização de continuação da obra pelo embargado (art. 401.º CPC) e a reação contra a inovação abusiva (art. 402.º CPC)."
+    ],
+    "fontes": [
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0397&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=S&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0400&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=S&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1360&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=S&nversao=&"
+    ]
+  },
+  {
+    "codigo": "PRC-012",
+    "veredicto": "corrigida",
+    "resumo": "A ficha inventava uma redução do prazo «nas ações de valor ≤ metade da alçada da Relação» e aferia a admissibilidade pela alçada da Relação. O prazo é de 30 dias, reduzido a 15 nos processos urgentes e nas apelações do art. 644.º, n.º 2, e acrescido de 10 dias quando se pede a reapreciação da prova gravada (art. 638.º, n.os 1 e 7, CPC); a apelação depende de o valor da causa exceder a alçada do tribunal de que se recorre (1.ª instância, 5 000 €) e de sucumbência superior a metade dessa alçada (art. 629.º, n.º 1, CPC; art. 44.º, n.º 1, LOSJ). Corrigi a análise, a tempestividade e admissibilidade e a checklist, e acrescentei o ónus de indicar as passagens da gravação (art. 640.º, n.º 2, al. a), CPC).",
+    "substituicoes": [
+      {
+        "de": "- Qual o prazo de recurso? (30 dias, salvo ações de valor ≤ metade da alçada da Relação)",
+        "para": "- Qual o prazo de recurso? (30 dias a contar da notificação da decisão; 15 dias nos processos urgentes e nas apelações do art. 644.º, n.º 2, CPC; acrescem 10 dias se o recurso tiver por objeto a reapreciação da prova gravada — art. 638.º, n.os 1 e 7, CPC)",
+        "motivo": "O art. 638.º CPC não liga o prazo ao valor da causa: reduz-se a 15 dias nos processos urgentes e nos casos do art. 644.º, n.º 2, e acresce de 10 dias na reapreciação da prova gravada.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0638&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=S&nversao=&"
+      },
+      {
+        "de": "- Prazo de 30 dias respeitado\n- Valor da causa vs alçada do tribunal da Relação (art. 629.º CPC)",
+        "para": "- Prazo respeitado (30 dias; 15 nos processos urgentes e nas apelações do art. 644.º, n.º 2; mais 10 dias com reapreciação da prova gravada — art. 638.º, n.os 1 e 7, CPC)\n- Valor da causa superior à alçada do tribunal de 1.ª instância (5 000 € — art. 44.º, n.º 1, LOSJ) e decisão desfavorável ao recorrente em valor superior a metade dessa alçada (art. 629.º, n.º 1, CPC), salvo os casos em que o recurso é sempre admissível (art. 629.º, n.º 2, CPC)",
+        "motivo": "Na apelação, a alçada relevante é a do tribunal de que se recorre (1.ª instância), com sucumbência superior a metade dela (art. 629.º, n.º 1, CPC); a alçada da Relação (30 000 €) é a da revista.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0629&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=S&nversao=&"
+      },
+      {
+        "de": "b) Meios de prova que impõem decisão diferente (indicar o depoimento, documento, etc.)",
+        "para": "b) Concretos meios de prova que impõem decisão diferente (documento, depoimento, etc.); sendo prova gravada, indicar com exatidão as passagens da gravação em que se funda o recurso, sob pena de imediata rejeição do recurso nessa parte (art. 640.º, n.º 2, al. a), CPC)",
+        "motivo": "Faltava o ónus de indicar com exatidão as passagens da gravação, cuja omissão leva à rejeição imediata do recurso na parte respetiva.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0640&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=S&nversao=&"
+      },
+      {
+        "de": "- [ ] Prazo de 30 dias respeitado\n- [ ] Admissibilidade verificada (valor + legitimidade)",
+        "para": "- [ ] Prazo respeitado (art. 638.º CPC: 30 dias, 15 nos processos urgentes; mais 10 dias com reapreciação da prova gravada)\n- [ ] Admissibilidade verificada (valor da causa e sucumbência face à alçada da 1.ª instância — art. 629.º, n.º 1, CPC — e legitimidade)",
+        "motivo": "Prazo e admissibilidade nos termos dos arts. 638.º e 629.º, n.º 1, CPC.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0638&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=S&nversao=&"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Confirmar se a decisão é recorrível em apelação autónoma (art. 644.º CPC) ou só com o recurso da decisão final, e se o processo é urgente (prazo de 15 dias).",
+      "Confirmar o efeito pretendido (art. 647.º CPC) e, querendo efeito suspensivo, o pedido e a caução respetivos.",
+      "Arts. 627.º a 651.º CPC é um intervalo impreciso: as disposições gerais dos recursos começam no art. 627.º e a apelação no art. 644.º; citar os artigos concretos."
+    ],
+    "fontes": [
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0638&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=S&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0629&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=S&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1974A0044&nid=1974&tabela=leis&pagina=1&ficha=1&so_miolo=S&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0640&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=S&nversao=&"
+    ]
+  },
+  {
+    "codigo": "PRC-016",
+    "veredicto": "corrigida",
+    "resumo": "A ficha fundia dois meios distintos: tratava a reclamação do art. 643.º CPC como «reclamação para a conferência» contra o despacho do relator e dirigia-a ao relator que não admitira o recurso. O despacho que não admite o recurso só se impugna pela reclamação do art. 643.º CPC (art. 641.º, n.º 6), dirigida ao tribunal que seria competente para conhecer do recurso, apresentada na secretaria do tribunal recorrido e instruída com as peças do n.º 3, e decidida pelo relator desse tribunal; só da decisão deste cabe reclamação para a conferência (art. 652.º, n.º 3). Corrigi também a «insuficiência das conclusões»: só a falta de alegação ou de conclusões justifica o indeferimento (art. 641.º, n.º 2, al. b)); a deficiência dá lugar a convite ao aperfeiçoamento (art. 639.º, n.º 3). Ajustei a descrição do índice.",
+    "descricao": "Gera a reclamação, nos termos do art. 643.º do CPC, contra o despacho que não admite o recurso de apelação ou de revista, dirigida ao tribunal que seria competente para conhecer do recurso e apresentada na secretaria do tribunal recorrido, demonstrando os pressupostos de admissibilidade e os erros do despacho de rejeição. Da decisão do relator que a julgue cabe reclamação para a conferência (art. 652.º, n.º 3, do CPC).",
+    "descricao_en": "Generates the complaint (reclamação) under Article 643 CPC against the order refusing to admit an appeal to the Court of Appeal or an appeal on points of law, addressed to the court that would hear the appeal and filed with the registry of the court that issued the order, demonstrating the admissibility requirements and the errors in the order rejecting it. The rapporteur's decision on the complaint may in turn be challenged before the panel (conferência) under Article 652(3) CPC.",
+    "substituicoes": [
+      {
+        "de": "- Art. 643.º CPC: prazo de 10 dias para reclamar para a conferência\n- A conferência é o tribunal coletivo (3 juízes) que revê o despacho singular do relator\n- Fundamentas em: (1) o recurso era tempestivo; (2) o recurso era admissível (valor, forma, legitimidade); (3) as conclusões não eram insuficientes; (4) outros fundamentos da rejeição não procedem",
+        "para": "- Art. 643.º CPC: do despacho que não admita o recurso, o recorrente reclama para o tribunal que seria competente para dele conhecer (a Relação, na apelação; o STJ, na revista), no prazo de 10 dias contados da notificação da decisão (n.º 1). É o único meio de impugnar a não admissão (art. 641.º, n.º 6, CPC)\n- A reclamação, dirigida ao tribunal superior, é apresentada na secretaria do tribunal recorrido, autuada por apenso aos autos principais e sempre instruída com o requerimento de interposição do recurso, as alegações, a decisão recorrida e o despacho reclamado (art. 643.º, n.º 3, CPC); o recorrido pode responder em prazo idêntico (n.º 2)\n- Decide o relator do tribunal superior (art. 643.º, n.º 4, CPC); só da decisão do relator cabe reclamação para a conferência (art. 652.º, n.º 3, CPC)\n- Fundamentas em: (1) o recurso era tempestivo; (2) a decisão admite recurso (valor, sucumbência, forma) e o recorrente tem as condições necessárias para recorrer; (3) o requerimento continha ou juntava a alegação e esta tinha conclusões (art. 641.º, n.º 2, al. b), CPC) — conclusões deficientes, obscuras ou complexas não são fundamento de não admissão, mas de convite do relator ao aperfeiçoamento (art. 639.º, n.º 3, CPC); (4) outros fundamentos da rejeição não procedem",
+        "motivo": "O art. 643.º CPC prevê a reclamação para o tribunal que seria competente para conhecer do recurso, decidida pelo relator desse tribunal; a reclamação para a conferência é a do art. 652.º, n.º 3, contra a decisão do relator.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0643&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=S&nversao=&"
+      },
+      {
+        "de": "- As conclusões foram consideradas insuficientes — procedem as críticas?\n- Outro fundamento de admissibilidade não considerado pelo relator?",
+        "para": "- O despacho rejeitou por «conclusões insuficientes»? Só a falta de alegação ou de conclusões permite indeferir o requerimento (art. 641.º, n.º 2, al. b), CPC); a deficiência das conclusões dá lugar a convite ao aperfeiçoamento (art. 639.º, n.º 3, CPC)\n- Outro fundamento de admissibilidade não considerado no despacho?\n- Quem proferiu o despacho (juiz da 1.ª instância, na apelação; relator da Relação, na revista) e qual o tribunal competente para a reclamação?",
+        "motivo": "A deficiência das conclusões não é fundamento de não admissão (arts. 641.º, n.º 2, al. b), e 639.º, n.º 3, CPC); o despacho reclamado pode ser do juiz da 1.ª instância.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0641&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=S&nversao=&"
+      },
+      {
+        "de": "- Art. 643.º CPC — reclamação para a conferência",
+        "para": "- Art. 643.º CPC — reclamação contra o despacho que não admite o recurso (art. 641.º, n.º 6, CPC)\n- Art. 652.º, n.º 3, CPC — da decisão do relator que julgue a reclamação cabe reclamação para a conferência",
+        "motivo": "A reclamação para a conferência está no art. 652.º, n.º 3, CPC, não no art. 643.º.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0652&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=S&nversao=&"
+      },
+      {
+        "de": "- Art. 641.º CPC — rejeição por insuficiência de conclusões",
+        "para": "- Art. 641.º, n.º 2, CPC — fundamentos de indeferimento do requerimento de interposição (falta de alegação ou de conclusões, al. b)); art. 639.º, n.º 3, CPC — convite ao aperfeiçoamento das conclusões deficientes",
+        "motivo": "O art. 641.º, n.º 2, al. b), CPC só permite indeferir por falta de alegação ou de conclusões; a deficiência dá lugar a convite (art. 639.º, n.º 3).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0639&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=S&nversao=&"
+      },
+      {
+        "de": "EXMO. SENHOR RELATOR DO [Tribunal]\nPROCESSO N.º [número]\n\n[Nome do reclamante], notificado do despacho de [data] que não admitiu o recurso,\nvem, ao abrigo do art. 643.º do CPC, apresentar a presente\n\nRECLAMAÇÃO PARA A CONFERÊNCIA\n\n**2. DO DESPACHO RECLAMADO**\n\"Por despacho de [data], o Exmo. Senhor Relator não admitiu o recurso interposto,",
+        "para": "EXMOS. SENHORES JUÍZES DESEMBARGADORES DO TRIBUNAL DA RELAÇÃO DE [___]\n[na revista: EXMOS. SENHORES JUÍZES CONSELHEIROS DO SUPREMO TRIBUNAL DE JUSTIÇA]\n(apresentada na secretaria do [tribunal recorrido], por apenso ao processo n.º [número])\n\n[Nome do reclamante], notificado em [data] do despacho de [data] que não admitiu o recurso,\nvem, ao abrigo do art. 643.º do CPC, apresentar a presente\n\nRECLAMAÇÃO CONTRA O DESPACHO QUE NÃO ADMITIU O RECURSO\n\n**2. DO DESPACHO RECLAMADO**\n\"Por despacho de [data], o [tribunal recorrido / Exmo. Senhor Juiz Desembargador Relator, na revista] não admitiu o recurso interposto,",
+        "motivo": "A reclamação é dirigida ao tribunal superior e apresentada na secretaria do tribunal recorrido (art. 643.º, n.os 1 e 3, CPC); não é reclamação para a conferência.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0643&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=S&nversao=&"
+      },
+      {
+        "de": "Fundamento \"conclusões insuficientes\":\n- As conclusões abrangem todos os fundamentos das alegações\n- As conclusões são sintéticas mas suficientes (art. 641.º CPC)\n- Jurisprudência sobre o nível de suficiência exigido",
+        "para": "Fundamento \"falta de alegação ou de conclusões\" (art. 641.º, n.º 2, al. b), CPC):\n- A alegação foi junta com o requerimento e contém conclusões\n- A deficiência, obscuridade ou complexidade das conclusões não é fundamento de não admissão: dá lugar a convite do relator para as completar, esclarecer ou sintetizar em cinco dias (art. 639.º, n.º 3, CPC)\n- Jurisprudência sobre a distinção entre falta e deficiência de conclusões",
+        "motivo": "Só a falta de conclusões justifica o indeferimento (art. 641.º, n.º 2, al. b), CPC); a deficiência dá lugar a convite (art. 639.º, n.º 3, CPC).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0639&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=S&nversao=&"
+      },
+      {
+        "de": "\"Nestes termos, requer a V. Exa. que se digne submeter a reclamação à conferência,\ne a esta que se digne revogar o despacho de não admissão e determinar o prosseguimento\ndo recurso.\"\n\n**5. MEIOS DE PROVA**\nDocumentos que comprovam a tempestividade (notificação com data, aviso de receção).",
+        "para": "\"Nestes termos, requer-se que a presente reclamação seja julgada procedente,\nrevogando-se o despacho reclamado e admitindo-se o recurso, com requisição do\nprocesso principal ao tribunal recorrido (art. 643.º, n.os 4 e 6, do CPC).\"\n\n**5. PEÇAS E MEIOS DE PROVA**\nPeças obrigatórias (art. 643.º, n.º 3, do CPC): requerimento de interposição do recurso, alegações, decisão recorrida e despacho reclamado.\nDocumentos que comprovam a tempestividade (notificação com data, aviso de receção).",
+        "motivo": "A reclamação é decidida pelo relator do tribunal superior, que, se a deferir, requisita o processo principal; tem de ser instruída com as peças do art. 643.º, n.º 3, CPC.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0643&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=S&nversao=&"
+      },
+      {
+        "de": "- [ ] Prazo de 10 dias para reclamar respeitado",
+        "para": "- [ ] Prazo de 10 dias para reclamar respeitado (art. 643.º, n.º 1, CPC)\n- [ ] Reclamação dirigida ao tribunal superior, apresentada na secretaria do tribunal recorrido e instruída com as peças obrigatórias (art. 643.º, n.º 3, CPC)",
+        "motivo": "Requisitos de forma da reclamação (art. 643.º, n.º 3, CPC).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0643&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=S&nversao=&"
+      },
+      {
+        "de": "- [ ] Suficiência das conclusões demonstrada (se insuficiência)\n- [ ] Pedido de submissão à conferência formulado",
+        "para": "- [ ] Existência de alegação e de conclusões demonstrada (se o despacho invocou a sua falta)\n- [ ] Pedido de revogação do despacho e de admissão do recurso formulado",
+        "motivo": "A reclamação do art. 643.º CPC não é para a conferência; só a falta de conclusões justifica o indeferimento (art. 641.º, n.º 2, al. b)).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0643&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=S&nversao=&"
+      },
+      {
+        "de": "- Fundamento: [o que o relator disse para rejeitar]",
+        "para": "- Autor do despacho: [juiz da 1.ª instância / relator da Relação, na revista]\n- Fundamento: [o que o despacho disse para rejeitar]",
+        "motivo": "Na apelação, o despacho de não admissão é do juiz da 1.ª instância; a reclamação vai para o tribunal que seria competente (art. 643.º, n.º 1, CPC).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0643&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=S&nversao=&"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Se o recurso foi admitido na 1.ª instância mas o relator da Relação decidiu não conhecer do seu objeto (arts. 652.º, n.º 1, al. b), e 655.º CPC), o meio é a reclamação para a conferência do art. 652.º, n.º 3, CPC, não a do art. 643.º: adaptar a peça.",
+      "Prazo da reclamação para a conferência do art. 652.º, n.º 3, CPC: o artigo não o fixa; confirmar a aplicação do prazo geral de 10 dias (art. 149.º, n.º 1, CPC).",
+      "Confirmar a forma de tratamento usada na Relação ou no STJ competente e se a peça segue pelo Citius com o apenso."
+    ],
+    "fontes": [
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0643&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=S&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0641&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=S&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0652&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=S&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0639&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=S&nversao=&"
+    ]
+  },
+  {
+    "codigo": "PRC-017",
+    "veredicto": "corrigida",
+    "resumo": "A ficha incluía o «reconhecimento de dívida» entre os títulos do art. 703.º, n.º 1, al. d), CPC; desde o CPC de 2013 o documento particular só vale como título se for exarado ou autenticado (al. b)) ou se for título de crédito (al. c)). Corrigi também a competência (execução de sentença nos próprios autos, art. 85.º; domicílio do executado e as opções do art. 89.º), a taxa de juros civis (4 %, Portaria n.º 291/2003, sem atualização periódica; juros comerciais por aviso semestral), a inclusão de «honorários» no montante exequendo (as custas da execução, incluindo as do agente de execução, saem precípuas, art. 541.º), a referência ao art. 745.º (penhorabilidade subsidiária, não requerimento executivo), a figura do «solicitador de execução» e o pedido, que confundia as formas ordinária e sumária.",
+    "substituicoes": [
+      {
+        "de": "- Títulos executivos (art. 703.º CPC): (1) sentença; (2) escritura pública ou documento particular autenticado; (3) requerimento de injunção com fórmula executória; (4) outros títulos (cheque, letra, livrança, reconhecimento de dívida — art. 703.º, n.º 1, al. d))\n- Calcula sempre: capital + juros de mora desde o vencimento/citação + honorários e custas",
+        "para": "- Títulos executivos (art. 703.º, n.º 1, CPC): (1) sentenças condenatórias (al. a)); (2) documentos exarados ou autenticados por notário ou por outras entidades ou profissionais com competência para tal, que importem constituição ou reconhecimento de qualquer obrigação (al. b)); (3) títulos de crédito — cheque, letra, livrança —, ainda que meros quirógrafos, desde que os factos constitutivos da relação subjacente constem do próprio documento ou sejam alegados no requerimento executivo (al. c)); (4) documentos a que, por disposição especial, seja atribuída força executiva, como o requerimento de injunção com fórmula executória (al. d)). O reconhecimento de dívida em documento particular não autenticado não é título executivo [■ VERIFICAR: regime dos documentos particulares assinados antes de 1 de setembro de 2013 — Acórdão do Tribunal Constitucional n.º 408/2015]\n- Calcula sempre: capital + juros de mora à taxa legal, que o título abrange (art. 703.º, n.º 2, CPC); as custas da execução, incluindo os honorários e despesas do agente de execução, saem precípuas do produto dos bens penhorados (art. 541.º CPC)",
+        "motivo": "O art. 703.º, n.º 1, CPC só admite documentos exarados ou autenticados (al. b)) e títulos de crédito (al. c)); a al. d) refere-se a documentos com força executiva atribuída por disposição especial, não ao reconhecimento de dívida particular.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0703&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=S&nversao=&"
+      },
+      {
+        "de": "- Qual o tribunal executivo competente? (regra geral: domicílio ou sede do executado)",
+        "para": "- Qual o tribunal executivo competente? (decisão de tribunal português: a execução corre nos próprios autos, com remessa ao juízo de execução quando a lei de organização judiciária lhe atribua competência — art. 85.º CPC; restantes títulos: tribunal do domicílio do executado, podendo o exequente optar pelo do lugar do cumprimento se o executado for pessoa coletiva ou se ambos tiverem domicílio na mesma área metropolitana de Lisboa ou do Porto — art. 89.º, n.º 1, CPC; dívida com garantia real: tribunal da situação dos bens onerados — art. 89.º, n.º 2, CPC)",
+        "motivo": "A execução de sentença corre no processo em que foi proferida (art. 85.º CPC); a regra do domicílio do executado (art. 89.º) tem opções e exceções.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0089&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=S&nversao=&"
+      },
+      {
+        "de": "- Arts. 703.º, 724.º, 726.º e 745.º CPC — requerimento executivo e despacho liminar",
+        "para": "- Arts. 703.º, 724.º e 726.º CPC — título, requerimento executivo e despacho liminar; arts. 550.º, n.º 2, e 855.º CPC — forma sumária",
+        "motivo": "O art. 745.º CPC trata da penhorabilidade subsidiária, não do requerimento executivo; a forma sumária está nos arts. 550.º, n.º 2, e 855.º CPC.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0550&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=S&nversao=&"
+      },
+      {
+        "de": "- Taxa de juros de mora aplicável (juros legais civis — Portaria de atualização periódica — [■ VERIFICAR taxa atual])",
+        "para": "- Taxa de juros de mora aplicável: juros civis de 4 % ao ano (art. 559.º, n.º 1, CC e Portaria n.º 291/2003, em vigor, sem atualização periódica); créditos de que sejam titulares empresas comerciais: juros comerciais, com taxa fixada por aviso semestral da DGTF (art. 102.º do Código Comercial) — taxa do semestre em references/valores-2026.md",
+        "motivo": "A taxa civil é fixa (4 %, Portaria n.º 291/2003); só a taxa comercial é fixada semestralmente.",
+        "fonte": "https://e-justice.europa.eu/topics/taking-legal-action/where-and-how/interest-rates/pt_pt"
+      },
+      {
+        "de": "- Honorários e custas [se sentença que fixou]: € ___",
+        "para": "- Custas de parte já liquidadas na ação declarativa (incluem os honorários do mandatário — art. 533.º, n.º 2, al. d), CPC): € ___ [as custas da execução e da respetiva ação declarativa saem precípuas do produto dos bens penhorados — art. 541.º CPC]",
+        "motivo": "Os honorários não se somam autonomamente à quantia exequenda: integram as custas de parte e as custas da execução saem precípuas (arts. 533.º e 541.º CPC).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0541&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=S&nversao=&"
+      },
+      {
+        "de": "\"O Exequente designa como agente de execução o/a Dr./Dra. [nome], solicitador/a\nde execução / agente de execução, com escritório em [morada].\"\n[ou \"requer a nomeação pela secretaria\"]",
+        "para": "\"O Exequente designa como agente de execução [nome], com a cédula profissional\nn.º ___ e domicílio profissional em [morada], de entre os registados na lista oficial\n(art. 720.º, n.º 1, do CPC).\"\n[na falta de designação, a secretaria designa-o segundo a escala da lista oficial — art. 720.º, n.º 2, do CPC]",
+        "motivo": "O exequente designa o agente de execução de entre os registados na lista oficial e, na falta, designa a secretaria (art. 720.º CPC); a figura do «solicitador de execução» já não existe.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0720&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=S&nversao=&"
+      },
+      {
+        "de": "1.º Que defira o presente requerimento executivo;\n2.º Que ordene a penhora imediata dos bens supra-identificados;\n3.º Que ordene a citação do Executado para, querendo, deduzir oposição nos\n   termos dos arts. 728.º e ss. do CPC.\"",
+        "para": "1.º Que seja recebido o presente requerimento executivo;\n2.º Que se proceda, pelo agente de execução, à penhora dos bens supra-identificados;\n3.º Que seja citado o Executado para, querendo, deduzir oposição nos\n   termos dos arts. 728.º e ss. do CPC.\"\n[Na forma sumária (art. 550.º, n.º 2, CPC), o requerimento segue para o agente de execução sem despacho liminar e a penhora é feita antes da citação (art. 855.º, n.os 1 e 3, CPC); na forma ordinária, há despacho liminar e citação do executado (art. 726.º CPC), salvo dispensa de citação prévia (art. 727.º CPC).]",
+        "motivo": "A penhora é feita pelo agente de execução; na forma sumária não há despacho liminar e a penhora precede a citação (art. 855.º CPC).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0855&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=S&nversao=&"
+      },
+      {
+        "de": "- Taxa de juros: [% — verificar portaria em vigor]",
+        "para": "- Natureza do crédito e taxa: [civil — 4 % (Portaria n.º 291/2003) / comercial — taxa do semestre fixada por aviso da DGTF]",
+        "motivo": "A taxa civil é fixa; a comercial é semestral.",
+        "fonte": "https://e-justice.europa.eu/topics/taking-legal-action/where-and-how/interest-rates/pt_pt"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Título anterior a 1 de setembro de 2013 formado por documento particular: confirmar o Acórdão do Tribunal Constitucional n.º 408/2015 e a jurisprudência posterior antes de executar.",
+      "Antes de executar, ponderar o procedimento extrajudicial pré-executivo (PEPEX) para identificar bens penhoráveis.",
+      "Confirmar se o título admite a forma sumária (art. 550.º, n.º 2, CPC) e se não ocorre nenhuma das exclusões do n.º 3.",
+      "Prescrição: direitos reconhecidos em sentença ou título executivo prescrevem no prazo ordinário, mesmo que a lei estabeleça prazo mais curto (art. 311.º CC); confirmar a interrupção."
+    ],
+    "fontes": [
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0703&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=S&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0085&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=S&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0089&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=S&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0541&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=S&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0533&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=S&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0720&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=S&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0550&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=S&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0855&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=S&nversao=&",
+      "https://e-justice.europa.eu/topics/taking-legal-action/where-and-how/interest-rates/pt_pt"
+    ]
+  },
+  {
+    "codigo": "PRC-025",
+    "veredicto": "corrigida",
+    "resumo": "A ficha atribuía ao pedido de apoio judiciário a «suspensão» do prazo em curso e propunha um pedido de urgência; o art. 24.º, n.os 4 e 5, da Lei n.º 34/2004 prevê a interrupção do prazo, só quando se pede nomeação de patrono e com a junção aos autos do comprovativo do requerimento, recomeçando com a notificação ao patrono nomeado ou ao requerente do indeferimento. As modalidades estavam erradas: não há «redução» de taxa de justiça nem patrono «com contribuição»; valem as do art. 16.º, n.º 1 (dispensa, nomeação e pagamento de patrono, pagamento faseado, agente de execução), além da consulta jurídica (art. 6.º). Atualizei a lista de alterações da lei (até à Lei n.º 45/2023) e acrescentei a exclusão das pessoas coletivas com fins lucrativos e dos EIRL (art. 7.º, n.º 3).",
+    "substituicoes": [
+      {
+        "de": "- Regulado pela Lei n.º 34/2004, de 29 de Julho (alterada pela Lei n.º 47/2007)\n- Modalidades: (1) consulta jurídica; (2) apoio judiciário com patrono (gratuito ou com contribuição); (3) dispensa/redução de taxa de justiça; (4) pagamento faseado de taxa de justiça",
+        "para": "- Regulado pela Lei n.º 34/2004, de 29 de julho, alterada pela Lei n.º 47/2007, de 28 de agosto, pela Lei n.º 40/2018, de 8 de agosto, pelo Decreto-Lei n.º 120/2018, de 27 de dezembro, pela Lei n.º 2/2020, de 31 de março, e pela Lei n.º 45/2023, de 17 de agosto\n- A proteção jurídica reveste as modalidades de consulta jurídica e de apoio judiciário (art. 6.º, n.º 1, da Lei n.º 34/2004). O apoio judiciário compreende (art. 16.º, n.º 1): (a) dispensa de taxa de justiça e demais encargos com o processo; (b) nomeação e pagamento da compensação de patrono; (c) pagamento da compensação de defensor oficioso; (d) pagamento faseado de taxa de justiça e demais encargos com o processo; (e) nomeação e pagamento faseado da compensação de patrono; (f) pagamento faseado da compensação de defensor oficioso; (g) atribuição de agente de execução. Não existe «redução» da taxa de justiça\n- As pessoas coletivas com fins lucrativos e os estabelecimentos individuais de responsabilidade limitada não têm direito a proteção jurídica (art. 7.º, n.º 3, da Lei n.º 34/2004); às pessoas coletivas não se aplicam as modalidades de pagamento faseado (art. 16.º, n.º 6)",
+        "motivo": "As modalidades são as do art. 16.º, n.º 1, da Lei n.º 34/2004, sem «redução» de taxa de justiça; a lei foi alterada depois de 2007, por último pela Lei n.º 45/2023.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=80A0016&nid=80&tabela=leis&pagina=1&ficha=1&so_miolo=S&nversao=&"
+      },
+      {
+        "de": "- Arts. 7.º e ss. — insuficiência económica e modalidades\n- Art. 24.º — efeito do requerimento no prazo processual em curso",
+        "para": "- Arts. 7.º e 8.º — âmbito pessoal e insuficiência económica; art. 16.º — modalidades do apoio judiciário\n- Art. 24.º, n.os 4 e 5 — interrupção do prazo em curso quando se pede nomeação de patrono e reinício do prazo",
+        "motivo": "O efeito sobre o prazo em curso é a interrupção, só no pedido de nomeação de patrono (art. 24.º, n.os 4 e 5, da Lei n.º 34/2004).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=80A0024&nid=80&tabela=leis&pagina=1&ficha=1&so_miolo=S&nversao=&"
+      },
+      {
+        "de": "- Urgência: se há prazo a correr, invocar o art. 24.º da Lei 34/2004 (suspensão do prazo)",
+        "para": "- Prazo a correr: se o pedido inclui nomeação de patrono e há ação pendente, juntar aos autos o comprovativo da apresentação do requerimento — o prazo em curso interrompe-se com essa junção e recomeça a partir da notificação ao patrono nomeado da sua designação ou da notificação ao requerente da decisão de indeferimento (art. 24.º, n.os 4 e 5, da Lei n.º 34/2004). Sem pedido de nomeação de patrono, o procedimento é autónomo e não afeta o prazo (art. 24.º, n.º 1)",
+        "motivo": "A lei prevê a interrupção (não a suspensão) do prazo, dependente da junção do comprovativo e do pedido de nomeação de patrono.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=80A0024&nid=80&tabela=leis&pagina=1&ficha=1&so_miolo=S&nversao=&"
+      },
+      {
+        "de": "[Assinalar e justificar:\n- Nomeação de patrono para processo de ___\n- Dispensa de taxa de justiça\n- Redução de taxa de justiça em ___% ]",
+        "para": "[Assinalar e justificar (art. 16.º, n.º 1, da Lei n.º 34/2004):\n- Dispensa de taxa de justiça e demais encargos com o processo\n- Nomeação e pagamento da compensação de patrono, para processo de ___\n- Pagamento faseado de taxa de justiça e demais encargos com o processo\n- Nomeação e pagamento faseado da compensação de patrono\n- Atribuição de agente de execução\n- Consulta jurídica (modalidade da proteção jurídica — art. 6.º, n.º 1)]",
+        "motivo": "Não existe redução percentual da taxa de justiça; as modalidades são as do art. 16.º, n.º 1.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=80A0016&nid=80&tabela=leis&pagina=1&ficha=1&so_miolo=S&nversao=&"
+      },
+      {
+        "de": "**6. URGÊNCIA** (se aplicável)\n\"Existem prazos processuais em curso que podem ser prejudicados pela pendência\ndo requerimento, nos termos do art. 24.º da Lei n.º 34/2004, requerendo-se\nque a proteção seja concedida com carácter urgente.\"",
+        "para": "**6. PRAZO EM CURSO** (se aplicável)\nSe há ação pendente e se pede nomeação de patrono, juntar ao processo o comprovativo da\napresentação do pedido: o prazo em curso interrompe-se com essa junção e recomeça com a\nnotificação ao patrono nomeado da sua designação ou ao requerente da decisão de indeferimento\n(art. 24.º, n.os 4 e 5, da Lei n.º 34/2004). Requerimento ao tribunal:\n\"[Nome], [qualidade processual], vem juntar aos autos o comprovativo da apresentação do\npedido de proteção jurídica, na modalidade de nomeação de patrono, para os efeitos do\nart. 24.º, n.º 4, da Lei n.º 34/2004.\"",
+        "motivo": "A lei não prevê concessão «com carácter urgente»: o meio de proteger o prazo é a junção do comprovativo, que o interrompe (art. 24.º, n.º 4).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=80A0024&nid=80&tabela=leis&pagina=1&ficha=1&so_miolo=S&nversao=&"
+      },
+      {
+        "de": "- [ ] Urgência invocada se há prazo em curso (art. 24.º)",
+        "para": "- [ ] Se há prazo em curso e se pede patrono: comprovativo do pedido junto aos autos (art. 24.º, n.º 4, da Lei n.º 34/2004)",
+        "motivo": "Interrupção do prazo com a junção do comprovativo (art. 24.º, n.º 4).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=80A0024&nid=80&tabela=leis&pagina=1&ficha=1&so_miolo=S&nversao=&"
+      },
+      {
+        "de": "[Nomeação de patrono / dispensa de custas / redução / pagamento faseado]",
+        "para": "[Dispensa de taxa de justiça e encargos / nomeação de patrono / pagamento faseado / agente de execução / consulta jurídica]",
+        "motivo": "Modalidades do art. 16.º, n.º 1, e consulta jurídica (art. 6.º, n.º 1).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=80A0016&nid=80&tabela=leis&pagina=1&ficha=1&so_miolo=S&nversao=&"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Confirmar no sítio da Segurança Social o modelo de requerimento em vigor e os documentos exigidos para a prova da insuficiência económica (art. 8.º-A da Lei n.º 34/2004 e anexo).",
+      "Confirmar o prazo de decisão e o regime de deferimento tácito do pedido (art. 25.º da Lei n.º 34/2004).",
+      "Se o requerente for pessoa coletiva sem fins lucrativos, confirmar as modalidades a que tem direito (art. 7.º, n.º 4)."
+    ],
+    "fontes": [
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=80A0024&nid=80&tabela=leis&pagina=1&ficha=1&so_miolo=S&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=80A0016&nid=80&tabela=leis&pagina=1&ficha=1&so_miolo=S&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=80A0007&nid=80&tabela=leis&pagina=1&ficha=1&so_miolo=S&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_revogado.php?nid=55"
+    ]
+  },
+  {
+    "codigo": "PRC-027",
+    "veredicto": "corrigida",
+    "resumo": "A ficha assentava numa premissa errada: tratava o Balcão Nacional do Arrendamento e a Portaria n.º 9/2013 como canal para «transmitir» denúncias, oposições à renovação e atualizações de renda. As comunicações fazem-se diretamente à contraparte, por escrito assinado e carta registada com aviso de receção ou entrega em mão (art. 9.º do NRAU); o Balcão do Arrendatário e do Senhorio (BAS), que hoje tramita o procedimento especial de despejo, só intervém depois, se o arrendatário não sair (arts. 15.º e 15.º-A do NRAU), e a Portaria n.º 9/2013 foi revogada pela Portaria n.º 49/2024. Corrigi também as antecedências (120 dias genéricos; ver arts. 1097.º, 1098.º e 1103.º CC), a denúncia para habitação (6 meses, com o fundamento expresso) e a atualização da renda (art. 1077.º CC, 30 dias), e mudei o título e a descrição do índice.",
+    "titulo": "Comunicação de Cessação do Arrendamento ou de Atualização da Renda",
+    "titulo_en": "Notice of Termination of a Lease or of Rent Update",
+    "descricao": "Gera a comunicação de oposição à renovação, de denúncia ou de atualização da renda, a enviar diretamente à contraparte nos termos do art. 9.º do NRAU (carta registada com aviso de receção ou entrega em mão), com as antecedências dos arts. 1077.º, 1097.º, 1098.º, 1101.º e 1103.º do Código Civil. Estas comunicações não passam pelo Balcão do Arrendatário e do Senhorio, que tramita o procedimento especial de despejo e a injunção em matéria de arrendamento (Portaria n.º 49/2024) e só intervém se o arrendatário não desocupar o locado.",
+    "descricao_en": "Generates the notice of opposition to renewal, termination or rent update, sent directly to the other party under Article 9 NRAU (registered letter with acknowledgement of receipt or hand delivery), with the notice periods of Articles 1077, 1097, 1098, 1101 and 1103 of the Civil Code. These notices do not go through the Tenant and Landlord Office (Balcão do Arrendatário e do Senhorio), which handles the special eviction procedure and the tenancy payment order (Ministerial Order No. 49/2024) and only comes in if the tenant does not vacate the property.",
+    "substituicoes": [
+      {
+        "de": "- O BNA (bna.mj.pt) centraliza as comunicações formais do arrendamento",
+        "para": "- As comunicações relativas à cessação do contrato, à atualização da renda e a obras fazem-se diretamente à contraparte, por escrito assinado pelo declarante e remetido por carta registada com aviso de receção, ou entregue em mão com nota de receção (art. 9.º, n.os 1 e 6, do NRAU); a resolução pelo senhorio por comunicação segue o art. 9.º, n.º 7, do NRAU\n- O procedimento especial de despejo, antes tramitado no Balcão Nacional do Arrendamento, corre hoje no Balcão do Arrendatário e do Senhorio (BAS), junto da Direção-Geral da Administração da Justiça, que tramita também a injunção em matéria de arrendamento (art. 15.º-A do NRAU, na redação da Lei n.º 56/2023; Portaria n.º 49/2024, que revogou a Portaria n.º 9/2013). O BAS não transmite comunicações: só intervém se, cessado o contrato, o arrendatário não desocupar o locado (art. 15.º, n.º 1, do NRAU) — ver a ficha PRC-026",
+        "motivo": "As comunicações do arrendamento fazem-se nos termos do art. 9.º do NRAU; o BAS só tramita o procedimento especial de despejo e a injunção em matéria de arrendamento.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=691A0015&nid=691&tabela=leis&pagina=1&ficha=1&so_miolo=S&nversao=&"
+      },
+      {
+        "de": "- Lei n.º 6/2006 (NRAU) — arts. 1097.º, 1098.º, 1100.º, 1101.º, 1102.º, 1103.º CC\n- Portaria n.º 9/2013 — procedimento BNA\n- Prazos de comunicação: denúncia pelo senhorio (120 dias antes), pelo arrendatário (120 dias antes) [■ VERIFICAR prazos atuais do NRAU]",
+        "para": "- arts. 1097.º, 1098.º, 1100.º, 1101.º, 1102.º, 1103.º CC (habitação); arts. 1110.º e 1110.º-A CC (fins não habitacionais); art. 1077.º CC (atualização da renda)\n- Art. 9.º do NRAU (Lei n.º 6/2006) — forma das comunicações; arts. 15.º e seguintes do NRAU e Portaria n.º 49/2024 — procedimento especial de despejo no BAS, se o arrendatário não sair\n- Antecedências (habitação): oposição à renovação pelo senhorio — 240 dias (prazo igual ou superior a 6 anos), 120 dias (de 1 a menos de 6 anos), 60 dias (de 6 meses a menos de 1 ano) ou 1/3 do prazo (inferior a 6 meses), contados do termo do prazo inicial ou da renovação em curso; a oposição à primeira renovação só produz efeitos decorridos 3 anos da celebração (art. 1097.º, n.os 1 a 3, CC); oposição à renovação pelo arrendatário — 120, 90 ou 60 dias ou 1/3 do prazo (art. 1098.º, n.º 1, CC); denúncia pelo arrendatário, decorrido 1/3 do prazo — 120 dias (prazo igual ou superior a 1 ano) ou 60 dias (inferior) (art. 1098.º, n.º 3, CC); denúncia pelo senhorio para habitação, no contrato de duração indeterminada — 6 meses, com o fundamento expresso (arts. 1101.º, al. a), e 1103.º, n.º 1, CC); atualização da renda — 30 dias (art. 1077.º, n.º 2, CC)",
+        "motivo": "A Portaria n.º 9/2013 foi revogada pela Portaria n.º 49/2024; as antecedências variam com a duração do contrato e com o tipo de comunicação (arts. 1097.º, 1098.º, 1103.º e 1077.º CC).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1097&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=S&nversao=&"
+      },
+      {
+        "de": "- Identificar o tipo de formulário no BNA",
+        "para": "- Escolher a forma da comunicação e a morada de envio (art. 9.º do NRAU) e guardar o comprovativo, que, com o contrato, servirá de base ao procedimento especial de despejo se o arrendatário não desocupar o locado (art. 15.º, n.º 2, do NRAU)",
+        "motivo": "Não há formulário de comunicação no BAS; a comunicação e o seu comprovativo são a base do procedimento especial de despejo.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=691A0015&nid=691&tabela=leis&pagina=1&ficha=1&so_miolo=S&nversao=&"
+      },
+      {
+        "de": "### ETAPA 4 — O REQUERIMENTO BNA\nRedige o conteúdo para o formulário:",
+        "para": "### ETAPA 4 — A COMUNICAÇÃO (art. 9.º do NRAU)\nRedige a comunicação a enviar diretamente à contraparte (escrito assinado pelo declarante, remetido por carta registada com aviso de receção ou entregue em mão com nota de receção):",
+        "motivo": "As comunicações fazem-se nos termos do art. 9.º do NRAU, não por formulário do BNA.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=691A0009&nid=691&tabela=leis&pagina=1&ficha=1&so_miolo=S&nversao=&"
+      },
+      {
+        "de": "A presente comunicação é efetuada com a antecedência mínima de ___ [■ VERIFICAR prazo].\"",
+        "para": "A presente comunicação é efetuada com a antecedência mínima de ___ dias, contada do termo do\nprazo [inicial / da renovação em curso].\"\n[240, 120 ou 60 dias ou 1/3 do prazo, conforme a duração (art. 1097.º, n.os 1 e 2, do CC); na oposição à primeira renovação, a cessação só produz efeitos decorridos três anos da celebração (art. 1097.º, n.º 3, do CC), salvo necessidade de habitação do senhorio ou de descendente em 1.º grau (n.º 4)]",
+        "motivo": "Antecedências e limite da oposição à primeira renovação (art. 1097.º CC).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1097&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=S&nversao=&"
+      },
+      {
+        "de": "Opção B — Denúncia pelo senhorio (necessidade habitacional):\n\"Nos termos do art. 1101.º, al. a) do CC, o Senhorio denuncia o contrato\npara habitação própria e permanente [ou de descendentes em 1.º grau], com\na antecedência de ___ meses. [Declaração de intenção de habitação propria].\"",
+        "para": "Opção B — Denúncia pelo senhorio (necessidade de habitação — só no contrato de duração indeterminada; no contrato com prazo certo, ver o art. 1097.º, n.º 4, do CC):\n\"Nos termos do art. 1101.º, al. a) do CC, o Senhorio denuncia o contrato\npara habitação própria [ou de descendente em 1.º grau, [nome]], com efeitos em\n[data pretendida para a desocupação, com antecedência não inferior a seis meses],\nsendo fundamento da denúncia [descrever a necessidade de habitação].\"\n[O fundamento tem de constar expressamente da comunicação, sob pena de ineficácia (art. 1103.º, n.º 1, do CC).] [■ VERIFICAR: requisitos do art. 1102.º do CC — pagamento do montante equivalente a um ano de renda, titularidade do prédio e falta de casa própria]",
+        "motivo": "A denúncia do art. 1101.º, al. a), CC exige antecedência não inferior a seis meses e a indicação expressa do fundamento, sob pena de ineficácia (art. 1103.º, n.º 1, CC); só existe no contrato de duração indeterminada.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1103&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=S&nversao=&"
+      },
+      {
+        "de": "\"Nos termos do art. 1098.º do CC, o Arrendatário denuncia o contrato com\na antecedência de ___ [■ VERIFICAR prazo], a vigorar até [data].\"",
+        "para": "\"Nos termos do art. 1098.º do CC, o Arrendatário [opõe-se à renovação do contrato /\ndenuncia o contrato], com a antecedência de ___ dias, cessando o contrato em [data].\"\n[Oposição à renovação: 120, 90 ou 60 dias ou 1/3 do prazo (art. 1098.º, n.º 1, do CC); denúncia, decorrido 1/3 do prazo inicial ou da renovação: 120 dias (prazo igual ou superior a um ano) ou 60 dias (inferior) (art. 1098.º, n.º 3, do CC); a falta de antecedência obriga ao pagamento das rendas do período de pré-aviso em falta (art. 1098.º, n.º 6, do CC)]",
+        "motivo": "Antecedências do arrendatário (art. 1098.º CC).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1097&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=S&nversao=&"
+      },
+      {
+        "de": "\"Nos termos do art. 24.º da Lei n.º 6/2006 (NRAU), propõe-se a atualização\nda renda para € ___, ao abrigo do [coeficiente publicado / acordo das partes].\"",
+        "para": "\"Nos termos do art. 1077.º do CC, comunica-se a atualização anual da renda, por aplicação\ndo coeficiente de ___ (art. 24.º da Lei n.º 6/2006 — NRAU) [ou da cláusula ___ do contrato],\npassando a renda a ser de € ___ a partir de [data, com antecedência mínima de 30 dias].\"\n[Coeficiente do ano em references/valores-2026.md.]",
+        "motivo": "A atualização é comunicada pelo senhorio, por escrito, com antecedência mínima de 30 dias, indicando o coeficiente e a nova renda (art. 1077.º, n.º 2, CC); não é uma proposta.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1077&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=S&nversao=&"
+      },
+      {
+        "de": "**4. DO PEDIDO**\n\"Requer-se que a presente comunicação seja transmitida à contraparte via BNA,\nnos termos da Portaria n.º 9/2013.\"",
+        "para": "**4. ENVIO E SEGUIMENTO**\nEnviar por carta registada com aviso de receção (para o arrendatário: o local arrendado, salvo indicação em contrário; para o senhorio: a morada do contrato ou da sua última comunicação) ou entregar em mão com nota de receção (art. 9.º, n.os 1 a 3 e 6, do NRAU). Se, cessado o contrato, o arrendatário não desocupar o locado, o senhorio pode recorrer ao procedimento especial de despejo no Balcão do Arrendatário e do Senhorio, com o contrato e o comprovativo desta comunicação (art. 15.º, n.os 1 e 2, do NRAU; Portaria n.º 49/2024) — ver a ficha PRC-026.",
+        "motivo": "O BNA não transmite comunicações e a Portaria n.º 9/2013 foi revogada pela Portaria n.º 49/2024; a comunicação segue o art. 9.º do NRAU.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3779&tabela=leis&ficha=1&pagina=1&so_miolo=S"
+      },
+      {
+        "de": "- [ ] Prazo antecipado verificado e respeitado",
+        "para": "- [ ] Prazo antecipado verificado e respeitado\n- [ ] Comunicação por escrito assinado, enviada por carta registada com aviso de receção ou entregue em mão com nota de receção (art. 9.º do NRAU)",
+        "motivo": "Forma das comunicações (art. 9.º do NRAU).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=691A0009&nid=691&tabela=leis&pagina=1&ficha=1&so_miolo=S&nversao=&"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Esta ficha sobrepõe-se às fichas IMO-009, IMO-010 e IMO-011 (comunicações de oposição e denúncia), mais completas; para o requerimento de despejo no BAS, usar a PRC-026.",
+      "Contratos para fins não habitacionais: as regras de duração, denúncia e oposição são as estipuladas, aplicando-se supletivamente as da habitação e as do art. 1110.º-A CC; confirmar caso a caso.",
+      "Contratos anteriores ao NRAU e contratos para habitação não permanente: confirmar o regime transitório e as regras próprias.",
+      "Confirmar se a comunicação pode ser feita pela contraparte para um domicílio convencionado no contrato e o regime de receção do art. 10.º do NRAU (carta devolvida ou não levantada)."
+    ],
+    "fontes": [
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=691A0009&nid=691&tabela=leis&pagina=1&ficha=1&so_miolo=S&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=691A0015&nid=691&tabela=leis&pagina=1&ficha=1&so_miolo=S&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3779&tabela=leis&ficha=1&pagina=1&so_miolo=S",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1097&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=S&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1103&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=S&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1077&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=S&nversao=&"
+    ]
+  },
+  {
+    "codigo": "PRC-030",
+    "veredicto": "corrigida",
+    "resumo": "A ficha definia o remanescente como a taxa de justiça sobre o valor total «menos o preparo já pago», omitia que só existe nas causas de valor superior a 275 000 € e dava como critérios legais a «simplicidade» e a «resolução antes do julgamento». O remanescente é a parte da taxa correspondente ao valor acima de 275 000 €, considerada na conta a final; o juiz pode dispensá-lo, fundamentadamente, atendendo à especificidade da situação, à complexidade da causa e à conduta processual das partes (art. 6.º, n.º 7, RCP); e o RCP não tem «preparos». Corrigi também a remissão para o art. 6.º, n.º 2 (taxa nos recursos), acrescentei a imputação do remanescente à parte vencida (art. 14.º, n.º 9) e o momento do pedido (com [■ VERIFICAR] sobre o AUJ n.º 1/2022) e ajustei a descrição do índice.",
+    "descricao": "Gera o requerimento de dispensa do pagamento do remanescente da taxa de justiça, nos termos do art. 6.º, n.º 7, do Regulamento das Custas Processuais (RCP), nas causas de valor superior a 275 000 euros, demonstrando que a especificidade da situação, a complexidade da causa e a conduta processual das partes justificam a dispensa.",
+    "descricao_en": "Generates the application for waiver of payment of the balance of the court fee (remanescente da taxa de justiça) under Article 6(7) of the Court Costs Regulation (RCP), in cases worth more than EUR 275,000, demonstrating that the specific circumstances, the complexity of the case and the parties' procedural conduct justify the waiver.",
+    "substituicoes": [
+      {
+        "de": "- Art. 6.º, n.º 7 RCP: o juiz pode dispensar o pagamento do remanescente considerando: comportamento das partes, simplicidade, resolução antes do julgamento",
+        "para": "- Art. 6.º, n.º 7 RCP: nas causas de valor superior a 275 000 €, o remanescente da taxa de justiça é considerado na conta a final, salvo se a especificidade da situação o justificar e o juiz, de forma fundamentada, atendendo designadamente à complexidade da causa e à conduta processual das partes, dispensar o pagamento. O acordo ou a resolução antes do julgamento não são critérios legais autónomos: invocam-se como sinais de menor complexidade e de conduta processual cooperante",
+        "motivo": "Os critérios do art. 6.º, n.º 7, RCP são a especificidade da situação, a complexidade da causa e a conduta processual das partes, e a norma só se aplica nas causas de valor superior a 275 000 €.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=967A0006&nid=967&tabela=leis&pagina=1&ficha=1&so_miolo=S&nversao=&"
+      },
+      {
+        "de": "- Remanescente = taxa de justiça calculada sobre o valor total da causa - preparo já pago",
+        "para": "- Remanescente = a parte da taxa de justiça correspondente ao valor da causa que excede 275 000 € (Tabela I do RCP; acréscimos por cada 25 000 € ou fração — confirmar em references/valores-2026.md), que não se paga no início e é considerada na conta a final. Em causas de valor igual ou inferior a 275 000 € não há remanescente. O RCP não conhece «preparos»: há a taxa de justiça paga com o impulso processual\n- O remanescente é imputado à parte vencida; o responsável pelo impulso processual que não seja condenado a final fica dispensado de o pagar (art. 14.º, n.º 9, RCP)",
+        "motivo": "O remanescente só existe nas causas de valor superior a 275 000 € e corresponde ao valor que excede esse limiar (art. 6.º, n.º 7, RCP); é imputado à parte vencida (art. 14.º, n.º 9, RCP).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=967A0014&nid=967&tabela=leis&pagina=1&ficha=1&so_miolo=S&nversao=&"
+      },
+      {
+        "de": "- Art. 6.º, n.º 2 RCP — cálculo do remanescente",
+        "para": "- Art. 6.º, n.os 1 e 7, RCP e Tabela I — cálculo do remanescente (o n.º 2 trata da taxa de justiça nos recursos, pela Tabela I-B)\n- Art. 14.º, n.º 9, RCP — imputação do remanescente à parte vencida",
+        "motivo": "O art. 6.º, n.º 2, RCP trata da taxa de justiça nos recursos; o remanescente resulta do n.º 7 e da Tabela I.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=967A0006&nid=967&tabela=leis&pagina=1&ficha=1&so_miolo=S&nversao=&"
+      },
+      {
+        "de": "- Momento ideal: antes da sentença ou no momento de julgamento",
+        "para": "- Momento: o mais cedo possível e, em qualquer caso, antes do trânsito em julgado da decisão final [■ VERIFICAR: Acórdão de Uniformização de Jurisprudência do STJ n.º 1/2022, publicado no Diário da República, I Série, de 3 de janeiro de 2022 — preclusão do direito de requerer a dispensa com o trânsito em julgado da decisão final]",
+        "motivo": "A jurisprudência uniformizada fixa a preclusão do pedido no trânsito em julgado da decisão final; texto não confirmado na fonte oficial."
+      },
+      {
+        "de": "\"O valor da causa é de € ___. O preparo de taxa de justiça pago foi de € ___.\nO remanescente da taxa de justiça, calculado sobre o valor total, ascende a\n€ ___, representando um encargo adicional significativo.\"",
+        "para": "\"O valor da causa é de € ___, superior a € 275 000. A taxa de justiça paga com\no impulso processual foi de € ___. O remanescente da taxa de justiça,\ncorrespondente ao valor da causa que excede € 275 000 e a considerar na conta\na final (art. 6.º, n.º 7, do RCP), ascende a € ___, representando um encargo\nadicional significativo.\"",
+        "motivo": "O remanescente corresponde ao valor acima de 275 000 € e o RCP não prevê preparos.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=967A0006&nid=967&tabela=leis&pagina=1&ficha=1&so_miolo=S&nversao=&"
+      },
+      {
+        "de": "- [ ] Valor do remanescente calculado",
+        "para": "- [ ] Valor da causa superior a 275 000 € (art. 6.º, n.º 7, RCP)\n- [ ] Valor do remanescente calculado\n- [ ] Pedido apresentado antes do trânsito em julgado da decisão final [■ VERIFICAR: AUJ do STJ n.º 1/2022]",
+        "motivo": "Sem valor superior a 275 000 € não há remanescente (art. 6.º, n.º 7, RCP).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=967A0006&nid=967&tabela=leis&pagina=1&ficha=1&so_miolo=S&nversao=&"
+      },
+      {
+        "de": "- Preparo pago: [€ valor]\n- Remanescente estimado: [€ valor]\n\n**FUNDAMENTOS DISPONÍVEIS:**\n[Selecciona os que se aplicam:",
+        "para": "- Taxa de justiça paga: [€ valor]\n- Remanescente estimado (parte do valor acima de 275 000 €): [€ valor]\n\n**FUNDAMENTOS DISPONÍVEIS:**\n[Seleciona os que se aplicam:",
+        "motivo": "O RCP não prevê preparos; o remanescente só existe acima de 275 000 €.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=967A0006&nid=967&tabela=leis&pagina=1&ficha=1&so_miolo=S&nversao=&"
+      },
+      {
+        "de": "[Momento atual — antes da sentença / na alegações / outro]",
+        "para": "[Momento atual — antes da sentença / depois da sentença, antes do trânsito em julgado / outro]",
+        "motivo": "Gralha («na alegações») e fases relevantes para o pedido de dispensa, que o juiz decide na conta a final ou antes dela (art. 6.º, n.º 7, RCP).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=967A0006&nid=967&tabela=leis&pagina=1&ficha=1&so_miolo=S&nversao=&"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Confirmar o texto do Acórdão de Uniformização de Jurisprudência do STJ n.º 1/2022 no Diário da República antes de o citar.",
+      "Confirmar na Tabela I do RCP o acréscimo por cada 25 000 € ou fração aplicável à espécie de processo (Tabelas I-A, I-B ou I-C).",
+      "Ponderar a jurisprudência do Tribunal Constitucional sobre a proporcionalidade da taxa de justiça em causas de valor muito elevado, para reforçar o argumento do impacto económico desproporcionado."
+    ],
+    "fontes": [
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=967A0006&nid=967&tabela=leis&pagina=1&ficha=1&so_miolo=S&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=967A0014&nid=967&tabela=leis&pagina=1&ficha=1&so_miolo=S&nversao=&"
+    ]
+  },
+  {
+    "codigo": "PRC-031",
+    "veredicto": "corrigida",
+    "resumo": "A ficha mandava arrolar testemunhas «até 10 dias antes da audiência (art. 511.º, n.º 2)», quando o rol se apresenta com os articulados e pode ser aditado ou alterado até 20 dias antes da audiência final (art. 598.º, n.º 2, CPC); o art. 511.º só fixa o limite de testemunhas. Tratava a junção posterior aos articulados como sempre dependente de impossibilidade e situava a multa no art. 423.º, n.º 3: até 20 dias antes da audiência final, a junção é admitida com multa, salvo prova de impossibilidade (n.º 2); depois, só os documentos impossíveis de apresentar antes ou necessários por ocorrência posterior (n.º 3). Corrigi regras, etapas, peça, checklist e entrevista e acrescentei a redução a metade do limite de testemunhas nas ações de valor não superior à alçada da 1.ª instância.",
+    "substituicoes": [
+      {
+        "de": "- Junção de documentos: regra = com articulados; exceções do art. 423.º, n.º 3 CPC: formados ou obtidos posteriormente, ou que a parte não pôde juntar antes; sempre com multa se a junção for tardia sem justificação\n- Arrolamento de testemunhas: até 10 dias antes da audiência (art. 511.º, n.º 2 CPC) ou nos articulados",
+        "para": "- Junção de documentos: regra = com o articulado em que se alegam os factos (art. 423.º, n.º 1 CPC); até 20 dias antes da data da audiência final, com multa, salvo se a parte provar que os não pôde oferecer com o articulado (art. 423.º, n.º 2 CPC); depois desse limite, só os documentos cuja apresentação não tenha sido possível até então ou que se tenham tornado necessários em virtude de ocorrência posterior (art. 423.º, n.º 3 CPC)\n- Testemunhas: o rol apresenta-se com os articulados (arts. 552.º, n.º 6, e 572.º, al. d), CPC); o requerimento probatório pode ser alterado na audiência prévia (art. 598.º, n.º 1 CPC) e o rol pode ser aditado ou alterado até 20 dias antes da data da audiência final, sendo a parte contrária notificada para usar, querendo, da mesma faculdade em cinco dias (art. 598.º, n.º 2 CPC)",
+        "motivo": "O art. 423.º CPC admite a junção até 20 dias antes da audiência final com multa (n.º 2) e só depois exige impossibilidade ou ocorrência posterior (n.º 3); o aditamento do rol faz-se até 20 dias antes da audiência final (art. 598.º, n.º 2), não 10 dias, e o art. 511.º só fixa o limite de testemunhas.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0598&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=S&nversao=&"
+      },
+      {
+        "de": "- Os documentos podiam ter sido juntos antes? (se sim, justificar a junção tardia)",
+        "para": "- Os documentos podiam ter sido juntos com o articulado? (até 20 dias antes da audiência final, a junção tardia paga multa, salvo prova de que não podiam ser oferecidos com o articulado — art. 423.º, n.º 2 CPC; depois desse limite, só se admitem nos casos do n.º 3)",
+        "motivo": "Regime em dois tempos do art. 423.º, n.os 2 e 3, CPC.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0423&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=S&nversao=&"
+      },
+      {
+        "de": "- As testemunhas estão arroladas dentro do prazo?",
+        "para": "- As testemunhas foram arroladas com os articulados, ou o rol é aditado ou alterado até 20 dias antes da audiência final (art. 598.º, n.º 2 CPC)?",
+        "motivo": "O prazo de aditamento ou alteração do rol é de 20 dias antes da audiência final (art. 598.º, n.º 2, CPC).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0598&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=S&nversao=&"
+      },
+      {
+        "de": "- Art. 511.º CPC — arrolamento de testemunhas",
+        "para": "- Art. 511.º CPC — limite do número de testemunhas\n- Art. 598.º CPC — alteração do requerimento probatório e aditamento ou alteração do rol de testemunhas",
+        "motivo": "O art. 511.º CPC fixa o limite de testemunhas; a alteração do rol está no art. 598.º CPC.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0511&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=S&nversao=&"
+      },
+      {
+        "de": "- Consequências da junção intempestiva: multa (art. 423.º, n.º 3 CPC) e admissibilidade condicionada",
+        "para": "- Consequências da junção tardia: até 20 dias antes da audiência final, multa, salvo prova de impossibilidade (art. 423.º, n.º 2 CPC); depois, admissão só dos documentos impossíveis de apresentar antes ou necessários por ocorrência posterior (art. 423.º, n.º 3 CPC)",
+        "motivo": "A multa está no art. 423.º, n.º 2, CPC; o n.º 3 limita a admissão depois dos 20 dias anteriores à audiência final.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0423&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=S&nversao=&"
+      },
+      {
+        "de": "- Verificar número máximo de testemunhas (art. 511.º, n.º 1 CPC — 10 testemunhas por parte em regra)",
+        "para": "- Verificar número máximo de testemunhas (art. 511.º, n.º 1 CPC — 10 testemunhas por parte em regra, reduzido a metade nas ações de valor não superior à alçada do tribunal de 1.ª instância; havendo reconvenção, até 10 para a reconvenção e respetiva defesa, n.º 2)",
+        "motivo": "O art. 511.º CPC reduz o limite a metade nas ações de valor não superior à alçada da 1.ª instância e tem um limite próprio para a reconvenção.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0511&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=S&nversao=&"
+      },
+      {
+        "de": "Para documentos juntos após os articulados (justificação obrigatória — art. 423.º, n.º 3 CPC):",
+        "para": "Para documentos juntos após os articulados (até 20 dias antes da audiência final: justificar a impossibilidade de junção anterior para evitar a multa — art. 423.º, n.º 2 CPC; depois desse limite: justificação obrigatória — art. 423.º, n.º 3 CPC):",
+        "motivo": "A justificação só é condição de admissão depois do limite de 20 dias anteriores à audiência final (art. 423.º, n.º 3); antes, evita a multa (n.º 2).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0423&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=S&nversao=&"
+      },
+      {
+        "de": "\"Ao abrigo do art. 511.º do CPC, a Parte arrola as seguintes testemunhas:\"",
+        "para": "\"Ao abrigo do art. 598.º, n.º 2, do CPC, a Parte adita ao rol [ou: altera o rol, substituindo ___ por] as seguintes testemunhas, dentro do limite do art. 511.º do CPC:\"",
+        "motivo": "Depois dos articulados, o rol é aditado ou alterado ao abrigo do art. 598.º, n.º 2, CPC; o art. 511.º só fixa o limite.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0598&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=S&nversao=&"
+      },
+      {
+        "de": "- [ ] Documentos tardios justificados com fundamento no art. 423.º, n.º 3 CPC",
+        "para": "- [ ] Documentos tardios justificados com fundamento no art. 423.º, n.º 2 CPC (para evitar a multa) ou, depois do limite de 20 dias antes da audiência final, no art. 423.º, n.º 3 CPC",
+        "motivo": "Regime em dois tempos do art. 423.º, n.os 2 e 3, CPC.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0423&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=S&nversao=&"
+      },
+      {
+        "de": "- [ ] Prazo de arrolamento verificado (10 dias antes da audiência)",
+        "para": "- [ ] Rol aditado ou alterado até 20 dias antes da audiência final (art. 598.º, n.º 2 CPC)",
+        "motivo": "O prazo é de 20 dias antes da audiência final (art. 598.º, n.º 2, CPC).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0598&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=S&nversao=&"
+      },
+      {
+        "de": "[Articulados / instrução / antes da audiência — 10 dias]",
+        "para": "[Articulados / audiência prévia / até 20 dias antes da audiência final / depois desse limite]",
+        "motivo": "Os marcos são os dos arts. 423.º e 598.º CPC (20 dias antes da audiência final).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0598&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=S&nversao=&"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Confirmar a data da audiência final e contar os 20 dias para trás (arts. 423.º, n.º 2, e 598.º, n.º 2, CPC).",
+      "Confirmar se as testemunhas são a apresentar pela parte ou se se requer a sua notificação (art. 507.º CPC) e ajustar o pedido de notificação.",
+      "Na junção depois do limite de 20 dias, demonstrar a impossibilidade anterior ou a ocorrência posterior; os documentos apresentados em recurso seguem os arts. 425.º e 651.º CPC."
+    ],
+    "fontes": [
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0423&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=S&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0598&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=S&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0511&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=S&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0552&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=S&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0572&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=S&nversao=&"
+    ]
+  }
+]

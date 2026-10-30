@@ -1,0 +1,281 @@
+[
+ {
+  "codigo": "AMB-033",
+  "veredicto": "corrigida",
+  "resumo": "A ficha apresentava o DL 39/2018 como regime PCIP e citava um «Anexo VI» e um art. 48.º que não existem (o diploma tem 44 artigos e três anexos; os VLE estão no art. 18.º e no anexo III). Aplicava à defesa e à prescrição o RGCO quando a LQCA tem regime próprio (defesa em 15 dias úteis, art. 49.º; prescrição de 5 ou 3 anos, art. 40.º), indicava como atenuante o art. 18.º LQCA (direito de acesso) e atribuía a impugnação ao tribunal administrativo com base no art. 59.º LQCA (impugnação das custas). Corrigiu-se: impugnação no prazo de 20 dias junto da autoridade (art. 59.º RGCO) e para o tribunal judicial (art. 61.º RGCO; art. 130.º LOSJ), entidade autuante (IGAMAOT/CCDR) e a descrição do índice.",
+  "descricao": "Elabora a defesa escrita e, subsidiariamente, o recurso de impugnação judicial da coima aplicada por violação do Decreto-Lei n.º 39/2018, de 11 de junho (regime da prevenção e controlo das emissões de poluentes para o ar, que transpõe a Diretiva (UE) 2015/2193, relativa às médias instalações de combustão), incluindo a análise dos valores limite de emissão (VLE), a validade das amostragens e a contestação da imputação subjetiva.",
+  "descricao_en": "Drafts the written defence and, in the alternative, the judicial appeal against the fine imposed for breach of Decree-Law No. 39/2018 of 11 June (regime for the prevention and control of air pollutant emissions, transposing Directive (EU) 2015/2193 on medium combustion plants), including analysis of the emission limit values (VLE), the validity of the sampling and a challenge to the attribution of fault.",
+  "substituicoes": [
+   {
+    "de": "- Verificar o tipo de instalação (sujeita a licença ambiental/PCIP ou só a VLE gerais)",
+    "para": "- Verificar o tipo de instalação (abrangida por licença ambiental do regime de emissões industriais — DL 127/2013 —, média instalação de combustão ou outra fonte sujeita ao título de emissões para o ar e aos VLE do DL 39/2018)",
+    "motivo": "O regime PCIP passou a ser o regime de emissões industriais do DL 127/2013; o DL 39/2018 é o regime geral das emissões para o ar e das médias instalações de combustão, que ressalva o DL 127/2013 (art. 18.º, n.º 3).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_print_articulado.php?tabela=leis&nid=2904&nversao="
+   },
+   {
+    "de": "- DL 39/2018: VLE aplicáveis (Anexo VI), obrigações de monitorização (art. 48.º), condições de amostragem",
+    "para": "- DL 39/2018: VLE aplicáveis (art. 18.º: anexo III para as médias instalações de combustão e para as fornalhas e queimadores; VLE setoriais e de outras fontes fixados por portaria [■ VERIFICAR: portaria aplicável à fonte em causa]), monitorização e métodos (arts. 13.º a 16.º), condições de cumprimento dos VLE (art. 21.º), tolerâncias durante avaria dos sistemas de tratamento (art. 22.º), comunicação do incumprimento em 48 horas e medidas corretivas (art. 23.º); a violação dos VLE é contraordenação ambiental grave (art. 29.º, n.º 2, al. d)); fiscalização, instrução e decisão pela IGAMAOT e pelas CCDR (arts. 28.º e 31.º)",
+    "motivo": "O DL 39/2018 tem 44 artigos e três anexos: não há art. 48.º nem anexo VI. Os VLE estão no art. 18.º e no anexo III (ou em portaria), a monitorização nos arts. 13.º a 16.º e a contraordenação no art. 29.º.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_print_articulado.php?tabela=leis&nid=2904&nversao="
+   },
+   {
+    "de": "- LQCA (Lei 50/2006): molduras das coimas (arts. 22.º a 26.º), atenuantes (art. 18.º)",
+    "para": "- LQCA (Lei 50/2006): molduras das coimas (arts. 22.º a 26.º), atenuação especial da coima, com redução a metade dos limites (arts. 23.º-A e 23.º-B), suspensão da sanção (art. 20.º-A) e redução da coima a requerimento, nas contraordenações leves e graves, no prazo da defesa (art. 49.º-A)",
+    "motivo": "O art. 18.º da LQCA regula o direito de acesso, não as atenuantes; a atenuação especial está nos arts. 23.º-A e 23.º-B e a redução da coima no art. 49.º-A.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_print_articulado.php?tabela=leis&nid=1356&nversao="
+   },
+   {
+    "de": "- RGCO: garantias procedimentais, direito de audição (art. 50.º), prescrição (art. 27.º)",
+    "para": "- LQCA e, subsidiariamente, RGCO (art. 2.º, n.º 1, LQCA): direito de audiência e defesa no prazo de 15 dias úteis (art. 49.º LQCA, regime especial face ao art. 50.º RGCO); prescrição do procedimento em 5 anos nas contraordenações graves e muito graves e em 3 anos nas leves (art. 40.º LQCA, que afasta o art. 27.º RGCO)",
+    "motivo": "A LQCA fixa prazo de defesa (art. 49.º) e prazos de prescrição (art. 40.º) próprios; o RGCO só se aplica subsidiariamente (art. 2.º, n.º 1).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_print_articulado.php?tabela=leis&nid=1356&nversao="
+   },
+   {
+    "de": "- Impugnação judicial: prazo (art. 59.º LQCA), competência (tribunal administrativo), efeito suspensivo",
+    "para": "- Impugnação judicial: 20 dias após o conhecimento da decisão, por escrito, com alegações e conclusões, apresentada à autoridade que aplicou a coima (art. 59.º RGCO); competência do tribunal judicial da área onde se consumou a infração (art. 61.º RGCO) — juízo local criminal ou de competência genérica (art. 130.º, n.º 2, al. d), da LOSJ) —, e não do tribunal administrativo, que só conhece das coimas em matéria de urbanismo e tributária (art. 4.º, n.º 1, al. l), do ETAF); envio dos autos ao Ministério Público em 20 dias úteis (art. 52.º LQCA); o pagamento da coima depois da decisão preclude a impugnação (art. 52.º-A LQCA); efeito suspensivo",
+    "motivo": "O art. 59.º da LQCA regula a impugnação das custas. A impugnação da coima ambiental segue os arts. 59.º e 61.º do RGCO e cabe aos tribunais judiciais: o ETAF só atribui aos tribunais administrativos as coimas de urbanismo e tributárias.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_print_articulado.php?tabela=leis&nid=418&nversao="
+   },
+   {
+    "de": "**Entidade autuante:** [APA/CCDR]",
+    "para": "**Entidade autuante:** [IGAMAOT / CCDR / outra entidade fiscalizadora]",
+    "motivo": "A fiscalização, a instrução e a decisão dos processos do DL 39/2018 cabem à IGAMAOT e às CCDR (arts. 28.º e 31.º), não à APA.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_print_articulado.php?tabela=leis&nid=2904&nversao="
+   },
+   {
+    "de": "[art. 18.º LQCA; ausência de antecedentes; medidas corretivas; proporcionalidade]",
+    "para": "[atenuação especial (art. 23.º-A LQCA); redução da coima (art. 49.º-A LQCA); ausência de antecedentes; medidas corretivas; proporcionalidade]",
+    "motivo": "O art. 18.º da LQCA é o direito de acesso; a atenuação especial é o art. 23.º-A.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_print_articulado.php?tabela=leis&nid=1356&nversao="
+   },
+   {
+    "de": "- [ ] VLE aplicável confirmado no DL 39/2018",
+    "para": "- [ ] VLE aplicável confirmado (art. 18.º e anexo III do DL 39/2018 ou portaria aplicável)",
+    "motivo": "Fora das médias instalações de combustão e das fornalhas e queimadores, os VLE constam de portaria (art. 18.º, n.os 5 e 6).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_print_articulado.php?tabela=leis&nid=2904&nversao="
+   },
+   {
+    "de": "- [ ] Prazo de defesa respeitado (art. 50.º RGCO)\n- [ ] Prescrição verificada",
+    "para": "- [ ] Prazo de defesa de 15 dias úteis respeitado (art. 49.º LQCA)\n- [ ] Prescrição verificada (art. 40.º LQCA)",
+    "motivo": "Prazo de defesa e prescrição próprios da LQCA.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_print_articulado.php?tabela=leis&nid=1356&nversao="
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Identificar a portaria de VLE aplicável à fonte concreta (setorial ou geral) e confirmar se a instalação tem licença ambiental do DL 127/2013, caso em que os VLE da licença prevalecem.",
+   "Confirmar a classificação da infração imputada no art. 29.º do DL 39/2018 e a moldura correspondente do art. 22.º LQCA, para pessoa coletiva e por negligência ou dolo.",
+   "Se a ultrapassagem coincidir com avaria dos sistemas de tratamento, provar que ficou dentro das tolerâncias do art. 22.º do DL 39/2018 e que houve comunicação em 48 horas.",
+   "Ponderar o pedido de redução da coima (art. 49.º-A LQCA) no prazo da defesa: exige cessação da conduta e ausência de reincidência e equivale a condenação para efeitos de reincidência."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_print_articulado.php?tabela=leis&nid=1356&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_print_articulado.php?tabela=leis&nid=2904&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_print_articulado.php?tabela=leis&nid=166&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_print_articulado.php?tabela=leis&nid=418&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_print_articulado.php?tabela=leis&nid=1974&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2254&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+  ]
+ },
+ {
+  "codigo": "AMB-038",
+  "veredicto": "corrigida",
+  "resumo": "O requerimento era dirigido à «Administração Regional Hidrográfica [...], I.P.», organismo extinto: a APA, I.P., sucedeu às ARH, I.P. (art. 15.º do DL 56/2012), que são hoje serviços desconcentrados da APA (art. 7.º da Lei da Água). A ficha tratava toda a captação subterrânea como licença dos «arts. 28.º e ss.» do DL 226-A/2007 (o art. 28.º é a revisão dos títulos) e atribuía à Lei da Água normas que não tem (domínio público no art. 3.º, titularidade no art. 7.º); as águas subterrâneas em prédio particular são particulares e a sua captação está sujeita a autorização ou a mera comunicação até 5 cv (art. 62.º da Lei da Água), ficando a licença para o domínio público. Corrigiram-se o destinatário, o enquadramento dos títulos, a plataforma (SILiAmb, não «SNIRHonline») e o título e a descrição do índice.",
+  "titulo": "Requerimento de Título de Utilização dos Recursos Hídricos (TURH) para Captação de Água Subterrânea",
+  "titulo_en": "Application for a Water Resources Use Title (TURH) for Groundwater Abstraction",
+  "descricao": "Elabora o requerimento de Título de Utilização dos Recursos Hídricos (TURH) para captação de água subterrânea para uso industrial ou agrícola, dirigido à Agência Portuguesa do Ambiente, I.P. (Administração da Região Hidrográfica competente), ao abrigo da Lei da Água (Lei n.º 58/2005, de 29 de dezembro) e do Decreto-Lei n.º 226-A/2007, de 31 de maio, incluindo o enquadramento como comunicação prévia, autorização ou licença, a análise dos limites de captação e as condicionantes de caudal do plano de gestão de região hidrográfica.",
+  "descricao_en": "Drafts the application for a Water Resources Use Title (Título de Utilização dos Recursos Hídricos, TURH) for groundwater abstraction for industrial or agricultural use, addressed to the Portuguese Environment Agency (APA, I.P., through the competent River Basin District Administration), under the Water Law (Law No. 58/2005 of 29 December) and Decree-Law No. 226-A/2007 of 31 May, including whether prior notification, an authorisation or a licence applies, analysis of abstraction limits and the flow conditions of the river basin management plan.",
+  "substituicoes": [
+   {
+    "de": "- Lei da Água (Lei 58/2005): domínio público hídrico (arts. 3.º e ss.), titularidade dos recursos hídricos (art. 7.º), tipos de título (licença, concessão, autorização — art. 59.º)",
+    "para": "- Lei da Água (Lei 58/2005): a APA, I.P., é a autoridade nacional da água e licencia ao nível da região hidrográfica através dos seus serviços desconcentrados, as ARH (arts. 7.º e 8.º); princípio da necessidade de título (art. 56.º); tipos de título — no domínio público, licença ou concessão (arts. 59.º a 61.º; a captação de águas públicas exige licença, art. 60.º, n.º 1, al. a)); nas águas particulares, incluindo as subterrâneas existentes em prédios particulares (art. 1386.º, n.º 1, al. b), CC), autorização prévia (art. 62.º, n.º 1, al. c)), substituída por simples comunicação quando os meios de extração não excedam 5 cv, salvo impacte significativo (art. 62.º, n.º 4); licença pelo prazo máximo de 10 anos (art. 67.º, n.º 2); domínio público hídrico e titularidade dos recursos hídricos: Lei 54/2005 [■ VERIFICAR: artigos aplicáveis]",
+    "motivo": "Os arts. 3.º e 7.º da Lei da Água são os princípios e os órgãos da Administração; o art. 59.º só prevê licença e concessão no domínio público. A captação de águas subterrâneas particulares está sujeita a autorização ou a comunicação (art. 62.º).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_print_articulado.php?tabela=leis&nid=1191&nversao="
+   },
+   {
+    "de": "- DL 226-A/2007: procedimento de licença de captação (arts. 28.º e ss.), documentação exigida, prazos, taxas de recursos hídricos",
+    "para": "- DL 226-A/2007: autoridade competente (art. 12.º — hoje a APA, I.P., através da ARH territorialmente competente), apresentação e instrução do requerimento (art. 14.º), comunicação prévia (art. 16.º), autorização, com deferimento tácito em 45 dias, salvo captação para consumo humano ou em área em seca severa ou extrema (arts. 17.º e 18.º), licença, exigida para a pesquisa e construção de captação de águas subterrâneas no domínio público (arts. 19.º a 22.º), pesquisa e captação de águas subterrâneas — fases, afastamento mínimo de 100 m entre captações da mesma massa de água e relatório em 60 dias após a execução do furo (art. 41.º); taxas de recursos hídricos",
+    "motivo": "O art. 28.º do DL 226-A/2007 regula a revisão dos títulos; o procedimento está nos arts. 14.º a 22.º e a captação subterrânea no art. 41.º.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_print_articulado.php?tabela=leis&nid=1379&nversao="
+   },
+   {
+    "de": "- Diretiva-Quadro da Água (DQA, 2000/60/CE): princípio do não deterioração",
+    "para": "- Diretiva-Quadro da Água (DQA, 2000/60/CE): princípio da não deterioração",
+    "motivo": "Correção de concordância.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_print_articulado.php?tabela=leis&nid=1191&nversao="
+   },
+   {
+    "de": "- ARH competente e plataforma de submissão (SNIRHonline)",
+    "para": "- ARH (serviço desconcentrado da APA, I.P.) competente e plataforma de submissão (SILiAmb) [■ VERIFICAR: módulo e formulário aplicáveis]",
+    "motivo": "Os pedidos de TURH tramitam no SILiAmb da APA; o SNIRH é o sistema de informação de recursos hídricos, não uma plataforma de pedidos.",
+    "fonte": "https://apambiente.pt/sites/default/files/_A_APA/Comunicacao/Media/NotasOCS2023/NotaOCS_54-2023_SimplexAmbiental_APAConcluiAdaptacaoSILiAmb.pdf"
+   },
+   {
+    "de": "**À ADMINISTRAÇÃO REGIONAL HIDROGRÁFICA [do Tejo e Oeste / Norte / Alentejo / Centro / Algarve], I.P.**",
+    "para": "**À AGÊNCIA PORTUGUESA DO AMBIENTE, I.P. — ADMINISTRAÇÃO DA REGIÃO HIDROGRÁFICA [do Norte / do Centro / do Tejo e Oeste / do Alentejo / do Algarve]**",
+    "motivo": "As ARH, I.P., foram extintas e a APA, I.P., sucedeu-lhes (art. 15.º do DL 56/2012); as ARH são hoje serviços desconcentrados da APA (art. 7.º, n.º 1, da Lei da Água).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_print_articulado.php?tabela=leis&nid=1742&nversao="
+   },
+   {
+    "de": "vem requerer a emissão de licença de captação de água subterrânea, nos termos dos arts. 28.º e seguintes do Decreto-Lei n.º 226-A/2007, de 31 de maio, para os efeitos seguintes:",
+    "para": "vem requerer a emissão de [autorização / licença] de captação de água subterrânea, nos termos do art. [62.º / 60.º] da Lei n.º 58/2005, de 29 de dezembro, e dos arts. 14.º e [17.º / 19.º] do Decreto-Lei n.º 226-A/2007, de 31 de maio, para os efeitos seguintes:",
+    "motivo": "A captação em prédio particular está sujeita a autorização (art. 62.º da Lei da Água; art. 17.º do DL 226-A/2007) e só a do domínio público a licença (art. 60.º; art. 19.º); o art. 28.º é a revisão dos títulos.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_print_articulado.php?tabela=leis&nid=1379&nversao="
+   },
+   {
+    "de": "[emissão de licença pelo prazo de [■ VERIFICAR] anos, renovável]",
+    "para": "[emissão do título de utilização (autorização / licença); se licença, pelo prazo de [■ VERIFICAR] anos, até ao máximo de 10 (art. 67.º, n.º 2, da Lei n.º 58/2005)]",
+    "motivo": "O título depende da dominialidade da água; a licença tem o prazo máximo de 10 anos.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_print_articulado.php?tabela=leis&nid=1191&nversao="
+   },
+   {
+    "de": "- [ ] ARH competente identificada (bacia hidrográfica)",
+    "para": "- [ ] Dominialidade da água e tipo de título confirmados (comunicação prévia / autorização / licença)\n- [ ] ARH (serviço desconcentrado da APA, I.P.) competente identificada (bacia hidrográfica)",
+    "motivo": "O tipo de título depende de a água ser particular ou do domínio público e da potência dos meios de extração.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_print_articulado.php?tabela=leis&nid=1191&nversao="
+   },
+   {
+    "de": "- [ ] Submissão via SNIRHonline verificada",
+    "para": "- [ ] Submissão via SILiAmb verificada [■ VERIFICAR: módulo aplicável]",
+    "motivo": "Os pedidos de TURH tramitam no SILiAmb da APA.",
+    "fonte": "https://apambiente.pt/sites/default/files/_A_APA/Comunicacao/Media/NotasOCS2023/NotaOCS_54-2023_SimplexAmbiental_APAConcluiAdaptacaoSILiAmb.pdf"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar a dominialidade da água (prédio particular ou domínio público hídrico, Lei 54/2005) e a potência dos meios de extração, que decide entre comunicação prévia, autorização e licença.",
+   "Ver no regulamento do PGRH aplicável se a massa de água tem restrições à captação ou se dispensa a autorização (art. 62.º, n.º 3, da Lei da Água).",
+   "Captação para consumo humano ou em área em seca severa ou extrema: não há deferimento tácito (art. 17.º do DL 226-A/2007).",
+   "Confirmar no SILiAmb o módulo e o formulário (recursos hídricos ou LUA, quando a captação serve atividade sujeita ao licenciamento único) e os elementos da portaria do art. 14.º, n.º 3, do DL 226-A/2007."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_print_articulado.php?tabela=leis&nid=1191&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_print_articulado.php?tabela=leis&nid=1379&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_print_articulado.php?tabela=leis&nid=1742&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1386&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://apambiente.pt/sites/default/files/_A_APA/Comunicacao/Media/NotasOCS2023/NotaOCS_54-2023_SimplexAmbiental_APAConcluiAdaptacaoSILiAmb.pdf"
+  ]
+ },
+ {
+  "codigo": "AMB-040",
+  "veredicto": "corrigida",
+  "resumo": "A legitimidade das associações dependia de um inexistente «registo no INCM e no ICNF»: valem os requisitos do art. 3.º da Lei 83/95 e, para as ONGA, o registo nacional gerido pela APA (Lei 35/98). Os artigos do DL 147/2008, da LBA e da Lei 83/95 estavam trocados (dano ambiental no art. 11.º, n.º 1, al. e); poluidor-pagador no art. 3.º, al. d), da LBA; o art. 4.º da Lei 83/95 é a audiência prévia e o art. 16.º não prevê «comunicação ao MP»). A reparação primária e compensatória do DL 147/2008 é fixada pela APA, e a indemnização na ação popular é fixada globalmente (art. 22.º da Lei 83/95), sem reversão legal para o Fundo Ambiental ou a APA; acrescentou-se o critério de competência (art. 4.º, n.º 1, al. k), do ETAF).",
+  "substituicoes": [
+   {
+    "de": "- Lei 83/95: direito de ação popular (arts. 1.º e ss.), legitimidade ativa (arts. 2.º a 4.º), tramitação especial (arts. 13.º e ss.), comunicação ao Ministério Público (art. 16.º), efeito do caso julgado erga omnes (art. 19.º)",
+    "para": "- Lei 83/95: direito de ação popular (arts. 1.º e ss.), titularidade e legitimidade ativa (arts. 2.º e 3.º), ação popular civil nas formas do CPC (art. 12.º, n.º 2), indeferimento liminar por manifesta improbabilidade, ouvido o Ministério Público (art. 13.º), legitimidade e poderes do Ministério Público, que pode substituir-se ao autor em caso de desistência ou transação (art. 16.º), eficácia das decisões transitadas em relação aos titulares que não se autoexcluíram, salvo improcedência por insuficiência de provas (art. 19.º, n.º 1), e publicação a expensas do vencido (art. 19.º, n.º 2), indemnização fixada globalmente (art. 22.º)",
+    "motivo": "O art. 4.º da Lei 83/95 é o dever de audiência prévia em planos e obras públicas; o art. 16.º regula os poderes do Ministério Público, não uma comunicação; o art. 19.º tem exceções à eficácia geral.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_print_articulado.php?tabela=leis&nid=722&nversao="
+   },
+   {
+    "de": "- DL 147/2008: dano ecológico (art. 11.º), medidas de reparação (arts. 13.º a 16.º), reparação primária, complementar e compensatória",
+    "para": "- DL 147/2008: responsabilidade civil, objetiva ou subjetiva, por ofensa de direitos através da lesão de componente ambiental (arts. 7.º e 8.º) e proibição de dupla reparação (art. 10.º); danos ambientais — às espécies e habitats protegidos, à água e ao solo (art. 11.º, n.º 1, al. e)); responsabilidade administrativa do operador (arts. 12.º e 13.º), medidas de reparação primária, complementar e compensatória fixadas pela APA (arts. 15.º, 16.º e 29.º e anexo V), pedido de intervenção dos interessados à APA (art. 18.º), prescrição de 30 anos (art. 33.º)",
+    "motivo": "O art. 11.º é o das definições (danos ambientais), os arts. 12.º e 13.º são a responsabilidade objetiva e subjetiva e as medidas de reparação são fixadas pela APA (art. 16.º e anexo V).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_print_articulado.php?tabela=leis&nid=1061&nversao="
+   },
+   {
+    "de": "- LBA: princípio do poluidor-pagador (art. 15.º), proteção da biodiversidade (art. 18.º)",
+    "para": "- LBA (Lei 19/2014): princípios do poluidor-pagador, da responsabilidade e da recuperação (art. 3.º, als. d), f) e g)), conservação da natureza e da biodiversidade (art. 10.º, al. d)), direito de ação popular e de pedir a cessação da atividade lesiva, a reposição da situação anterior e a indemnização (art. 7.º, n.º 2, als. a) e c))",
+    "motivo": "Na Lei 19/2014 o art. 15.º é a informação ambiental e o art. 18.º os instrumentos de avaliação; o poluidor-pagador está no art. 3.º, al. d), e a biodiversidade no art. 10.º, al. d).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_print_articulado.php?tabela=leis&nid=2091&nversao="
+   },
+   {
+    "de": "- Legitimidade especial de associações: registo no INCM e no ICNF",
+    "para": "- Legitimidade das associações: requisitos do art. 3.º da Lei 83/95 (personalidade jurídica, defesa dos interesses em causa nas atribuições estatutárias, não exercício de atividade profissional concorrente com empresas ou profissionais liberais); as ONGA inscritas no registo nacional das ONGA e equiparadas, hoje gerido pela APA (arts. 3.º e 17.º da Lei 35/98), têm legitimidade independentemente de interesse direto e isenção de preparos e custas (arts. 10.º e 11.º da Lei 35/98)\n- Tribunal competente: contra operador privado, ação popular civil nos tribunais judiciais; os tribunais administrativos conhecem da prevenção, cessação e reparação de violações em matéria de ambiente cometidas por entidades públicas (art. 4.º, n.º 1, al. k), do ETAF)",
+    "motivo": "Não existe registo de associações no INCM nem no ICNF para este efeito: valem os requisitos do art. 3.º da Lei 83/95 e, para as ONGA, o registo nacional previsto na Lei 35/98, gerido pela APA.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_print_articulado.php?tabela=leis&nid=755&nversao="
+   },
+   {
+    "de": "4.1 Responsabilidade ao abrigo do art. 11.º do DL 147/2008 (dano ecológico)\n4.2 Obrigação de reparação primária (reposição do estado anterior)",
+    "para": "4.1 Dano ambiental (art. 11.º, n.º 1, al. e), do DL 147/2008) e responsabilidade civil, objetiva ou subjetiva, por lesão de componente ambiental (arts. 7.º e 8.º do DL 147/2008)\n4.2 Obrigação de reposição do estado anterior (art. 3.º, al. g), e art. 7.º, n.º 2, al. c), da LBA); as medidas de reparação primária, complementar e compensatória do DL 147/2008 são fixadas pela APA (art. 16.º, n.º 2, e anexo V) e os lesados não podem obter reparação dos danos já reparados nesse regime (art. 10.º)",
+    "motivo": "O art. 11.º do DL 147/2008 define «danos ambientais»; a reparação primária desse diploma é uma medida fixada pela APA, distinta do pedido judicial de reposição.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_print_articulado.php?tabela=leis&nid=1061&nversao="
+   },
+   {
+    "de": "5.3 Subsidiariamente, condenação ao pagamento de €[■ VERIFICAR] a título de reparação compensatória, a reverter para [fundo ambiental / APA]",
+    "para": "5.3 Subsidiariamente, condenação ao pagamento de €[■ VERIFICAR] de indemnização pela violação de interesses de titulares não individualmente identificados, fixada globalmente (art. 22.º, n.º 2, Lei 83/95) [■ VERIFICAR: destino do montante — a Lei 83/95 não prevê a reversão para o Fundo Ambiental nem para a APA; os montantes correspondentes a direitos prescritos são entregues ao Ministério da Justiça (art. 22.º, n.º 5)]",
+    "motivo": "A «reparação compensatória» é uma medida administrativa do DL 147/2008 (anexo V); na ação popular a indemnização é fixada globalmente e a lei não a afeta ao Fundo Ambiental nem à APA.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_print_articulado.php?tabela=leis&nid=722&nversao="
+   },
+   {
+    "de": "5.5 Comunicação ao Ministério Público (art. 16.º Lei 83/95)",
+    "para": "5.5 Notificação do Ministério Público para os efeitos dos arts. 13.º e 16.º da Lei 83/95",
+    "motivo": "O art. 16.º da Lei 83/95 confere ao Ministério Público legitimidade e poderes de intervenção e substituição; não prevê uma «comunicação» como pedido.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_print_articulado.php?tabela=leis&nid=722&nversao="
+   },
+   {
+    "de": "- [ ] Comunicação ao Ministério Público incluída",
+    "para": "- [ ] Intervenção do Ministério Público acautelada (arts. 13.º e 16.º Lei 83/95)",
+    "motivo": "Alinhado com os arts. 13.º e 16.º da Lei 83/95.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_print_articulado.php?tabela=leis&nid=722&nversao="
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar se a associação autora está inscrita no registo nacional das ONGA (APA) e se os estatutos incluem a defesa dos interesses em causa (art. 3.º da Lei 83/95).",
+   "Ponderar o pedido de intervenção à APA ao abrigo do art. 18.º do DL 147/2008 antes ou em paralelo com a ação, e a articulação com a proibição de dupla reparação (art. 10.º).",
+   "Definir o destino da indemnização global pedida (art. 22.º da Lei 83/95) e o valor da causa.",
+   "Confirmar a competência material: tribunais judiciais contra operador privado; tribunais administrativos se a violação for imputável a entidade pública (art. 4.º, n.º 1, al. k), do ETAF)."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_print_articulado.php?tabela=leis&nid=722&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_print_articulado.php?tabela=leis&nid=1061&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_print_articulado.php?tabela=leis&nid=2091&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_print_articulado.php?tabela=leis&nid=755&nversao=",
+   "https://apambiente.pt/apa/registo-nacional-onga",
+   "https://www.pgdlisboa.pt/leis/lei_print_articulado.php?tabela=leis&nid=418&nversao="
+  ]
+ },
+ {
+  "codigo": "AMB-042",
+  "veredicto": "corrigida",
+  "resumo": "A ficha assentava a responsabilidade do administrador no «art. 7.º LQCA», que é o lugar da prática do facto: a LQCA prevê a responsabilidade subsidiária dos administradores e gerentes, ainda que de facto, pelas coimas e custas (art. 8.º) e a responsabilidade solidária pelo pagamento da coima (art. 11.º). No DL 147/2008 omitia a norma central, o art. 3.º, n.º 1 (as obrigações incidem solidariamente sobre diretores, gerentes ou administradores). Apresentava a CSDDD como fonte de deveres e de responsabilidade civil do administrador: os deveres e o art. 29.º são da empresa, a diretiva não está transposta (prazo até 26/07/2028, aplicação a partir de 26/07/2029) e a Diretiva (UE) 2026/470 restringiu o âmbito e suprimiu o regime harmonizado de responsabilidade do art. 29.º, n.º 1. Corrigiu-se ainda a remissão para a responsabilidade perante terceiros (art. 79.º CSC).",
+  "substituicoes": [
+   {
+    "de": "- LQCA (Lei 50/2006): responsabilidade do dirigente (art. 7.º LQCA — responsabilidade solidária de pessoas singulares que atuaram em nome da pessoa coletiva)",
+    "para": "- LQCA (Lei 50/2006): responsabilidade subsidiária dos administradores, gerentes e de quem exerça funções de administração, ainda que de facto, pelas coimas e custas da pessoa coletiva, solidária entre eles se forem vários (art. 8.º LQCA), e responsabilidade solidária dos sócios, administradores ou gerentes pelo pagamento da coima aplicada à pessoa coletiva (art. 11.º LQCA)",
+    "motivo": "O art. 7.º da LQCA é o lugar da prática do facto; a responsabilidade dos administradores pelas coimas está nos arts. 8.º (subsidiária) e 11.º (solidária pelo pagamento).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_print_articulado.php?tabela=leis&nid=1356&nversao="
+   },
+   {
+    "de": "- RRA (DL 147/2008): \"operador\" inclui quem controla a atividade (art. 11.º, n.º 1)",
+    "para": "- RRA (DL 147/2008): quando a atividade lesiva seja imputável a uma pessoa coletiva, as obrigações do diploma incidem solidariamente sobre os respetivos diretores, gerentes ou administradores (art. 3.º, n.º 1); \"operador\" é quem execute ou controle a atividade e exerça ou possa exercer poderes decisivos sobre o seu funcionamento técnico e económico (art. 11.º, n.º 1, al. l))",
+    "motivo": "A norma que estende as obrigações do DL 147/2008 aos administradores é o art. 3.º, n.º 1; o conceito de operador está no art. 11.º, n.º 1, al. l).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_print_articulado.php?tabela=leis&nid=1061&nversao="
+   },
+   {
+    "de": "- CSDDD (Diretiva (UE) 2024/1760): dever de due diligence em matéria de sustentabilidade (art. 8.º e ss.), responsabilidade civil por danos (art. 29.º)",
+    "para": "- CSDDD (Diretiva (UE) 2024/1760, alterada pela Diretiva (UE) 2026/470): deveres de diligência da empresa, não do administrador (arts. 5.º a 16.º; identificação dos efeitos negativos, art. 8.º), e responsabilidade civil da empresa nos termos do direito nacional, com direito a compensação integral (art. 29.º, após a supressão do n.º 1); âmbito restrito a empresas com mais de 5 000 trabalhadores e volume de negócios mundial superior a 1 500 000 000 EUR (art. 2.º); transposição até 26/07/2028 e aplicação a partir de 26/07/2029 (art. 37.º) [■ VERIFICAR: estado da transposição em Portugal]",
+    "motivo": "Os deveres e a responsabilidade civil da CSDDD são da empresa; a Diretiva (UE) 2026/470 restringiu o âmbito, suprimiu o regime harmonizado do art. 29.º, n.º 1, e adiou a transposição e a aplicação.",
+    "fonte": "https://publications.europa.eu/resource/celex/32026L0470"
+   },
+   {
+    "de": "2.1 Responsabilidade contraordenacional pessoal (art. 7.º LQCA)\n2.2 Responsabilidade civil perante a sociedade e terceiros (arts. 72.º-78.º CSC)",
+    "para": "2.1 Responsabilidade pelas coimas aplicadas à sociedade: subsidiária (art. 8.º LQCA) e solidária pelo pagamento (art. 11.º LQCA); obrigações do DL 147/2008 solidariamente a cargo dos administradores (art. 3.º, n.º 1, do DL 147/2008)\n2.2 Responsabilidade civil perante a sociedade, os credores sociais, os sócios e terceiros (arts. 72.º a 79.º CSC)",
+    "motivo": "O art. 7.º LQCA não trata da responsabilidade; a responsabilidade perante sócios e terceiros é o art. 79.º CSC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_print_articulado.php?tabela=leis&nid=1356&nversao="
+   },
+   {
+    "de": "2.4 Dever de due diligence ambiental ao abrigo da CSDDD",
+    "para": "2.4 Deveres de diligência da sociedade ao abrigo da CSDDD (ainda por transpor; só para as empresas abrangidas) e reflexo no dever de diligência do administrador (art. 64.º CSC)",
+    "motivo": "A CSDDD vincula a empresa e ainda não está em vigor no direito português; o dever do administrador decorre do art. 64.º CSC.",
+    "fonte": "https://publications.europa.eu/resource/celex/32026L0470"
+   },
+   {
+    "de": "- [ ] Art. 7.º LQCA analisado (responsabilidade pessoal solidária)",
+    "para": "- [ ] Arts. 8.º e 11.º LQCA analisados (responsabilidade subsidiária e solidária pelas coimas) e art. 3.º do DL 147/2008",
+    "motivo": "Remissão para as normas corretas da LQCA e do DL 147/2008.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_print_articulado.php?tabela=leis&nid=1356&nversao="
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Analisar a articulação entre os arts. 8.º e 11.º da LQCA e a jurisprudência constitucional sobre a responsabilidade dos administradores por coimas da sociedade [■ VERIFICAR: acórdãos aplicáveis].",
+   "Confirmar se a sociedade cabe no âmbito da CSDDD alterada (art. 2.º) e o estado da transposição em Portugal antes de a invocar.",
+   "Responsabilidade penal: verificar a responsabilidade da pessoa coletiva (art. 11.º CP) e a atuação em nome de outrem (art. 12.º CP) no crime de poluição (art. 279.º CP)."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_print_articulado.php?tabela=leis&nid=1356&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_print_articulado.php?tabela=leis&nid=1061&nversao=",
+   "https://publications.europa.eu/resource/celex/32024L1760",
+   "https://publications.europa.eu/resource/celex/32026L0470",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+  ]
+ }
+]

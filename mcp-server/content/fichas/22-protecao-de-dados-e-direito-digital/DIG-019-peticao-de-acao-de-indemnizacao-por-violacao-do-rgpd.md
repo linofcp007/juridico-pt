@@ -6,7 +6,8 @@ titulo_en: "Statement of Claim for Damages for Breach of the GDPR"
 descricao: "Gera uma petição inicial de ação de indemnização por danos causados por violação do RGPD, nos termos do artigo 82.º do RGPD e do Código Civil português, para apresentação em tribunal cível."
 descricao_en: "Generates a statement of claim in an action for damages caused by breach of the GDPR, under Article 82 of the GDPR and the Portuguese Civil Code, for filing in a civil court."
 ambito: nacional
-estado_citacoes: "conferidas 15 · corrigidas 0 · por conferir 5"
+estado_citacoes: "conferidas 19 · corrigidas 0 · por conferir 8"
+revisao_tecnica: "2026-10-28 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
@@ -14,7 +15,8 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 
 > **Âmbito:** nacional · **Área:** Proteção de Dados e Direito Digital · **Código:** DIG-019
 > **EN:** Statement of Claim for Damages for Breach of the GDPR. Generates a statement of claim in an action for damages caused by breach of the GDPR, under Article 82 of the GDPR and the Portuguese Civil Code, for filing in a civil court.
-> **Citações:** conferidas 15 · corrigidas 0 · por conferir 5. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 19 · corrigidas 0 · por conferir 8. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-28 — corrigida (10 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
 Gera uma petição inicial de ação de indemnização por danos causados por violação do RGPD, nos termos do artigo 82.º do RGPD e do Código Civil português, para apresentação em tribunal cível.
 
@@ -24,8 +26,8 @@ Ficha de trabalho para preparar este documento. As regras da casa prevalecem sob
 
 ## Regras obrigatórias
 — NUNCA inventes jurisprudência nacional ou europeia com números de processo incorretos.
-— O art. 82.º RGPD cria responsabilidade objetiva do responsável pelo tratamento — cabe ao responsável provar que não lhe é imputável o dano (inversão do ónus).
-— Para dano não patrimonial: o TJUE (C-300/21) esclareceu que não é necessário limiar mínimo de gravidade, mas deve ser dano real e não hipotético.
+— O art. 82.º RGPD não cria responsabilidade objetiva: a responsabilidade do responsável pelo tratamento depende de culpa, que se presume — o responsável só se exonera se provar que o facto que provocou o dano não lhe é de modo nenhum imputável (art. 82.º, n.º 3, RGPD; TJUE, C-667/21, Krankenversicherung Nordrhein, 21.12.2023).
+— Para dano não patrimonial: o TJUE (C-300/21) esclareceu que não é exigível um limiar mínimo de gravidade, mas que a simples violação do RGPD não basta para conferir direito a indemnização; o titular tem de demonstrar a violação e o dano (TJUE, C-687/21, MediaMarktSaturn, 25.01.2024).
 — Os danos devem ser concretos e demonstráveis — a petição deve identificar os danos com precisão.
 — Se faltarem dados, marca [■ VERIFICAR].
 
@@ -46,15 +48,17 @@ Apresenta dentro de um bloco <analise_caso>:
 ### ETAPA 2 — ANÁLISE JURÍDICA (Regime do Art. 82.º RGPD)
 Apresenta dentro de um bloco <fundamentos_juridicos>:
 - Art. 82.º, n.º 1 RGPD: direito a indemnização — qualquer pessoa que sofra dano material ou não material tem direito a indemnização
-- Art. 82.º, n.º 2: responsabilidade do responsável ou subcontratante — prova de que não lhe é imputável o facto (inversão do ónus)
-- Art. 82.º, n.º 3: exoneração se provar que não lhe é de forma alguma imputável
+- Art. 82.º, n.º 2: o responsável pelo tratamento responde pelos danos causados por tratamento que viole o RGPD; o subcontratante só responde se não tiver cumprido as obrigações que o RGPD lhe dirige especificamente ou as instruções lícitas do responsável
+- Art. 82.º, n.º 3: exoneração se provar que não é de modo algum responsável pelo evento que deu origem aos danos (culpa presumida — TJUE, C-667/21)
+- Art. 33.º da Lei n.º 58/2019: direito nacional à reparação do dano; ao Estado e demais pessoas coletivas públicas aplica-se a Lei n.º 67/2007 (n.º 3)
 - Art. 82.º, n.º 4: responsabilidade solidária de co-responsáveis
 - TJUE C-300/21 Österreichische Post: sem limiar mínimo de gravidade para dano não patrimonial; dano deve ser real e não hipotético; simples violação não constitui dano por si só
-- TJUE C-687/21 MediaMarktSaturn: [■ VERIFICAR: confirmar dados do acórdão]
+- TJUE C-687/21 MediaMarktSaturn (25.01.2024): a indemnização tem função compensatória e não punitiva; o titular tem de demonstrar a violação e o dano; o simples receio de divulgação, provado que o terceiro não tomou conhecimento dos dados, não constitui dano imaterial
+- TJUE C-667/21 Krankenversicherung Nordrhein (21.12.2023): responsabilidade subordinada a culpa, que se presume; função compensatória da indemnização
 - Arts. 483.º ss. CC: responsabilidade civil geral (aplicável subsidiariamente)
 - Arts. 562.º ss. CC: fixação da indemnização, reconstituição natural, danos não patrimoniais
 - Art. 496.º CC: danos não patrimoniais — valor fixado segundo equidade
-- Competência: tribunais cíveis portugueses (art. 79.º RGPD)
+- Competência internacional: tribunais portugueses se o réu tiver estabelecimento em Portugal ou o titular cá residir habitualmente (art. 79.º, n.º 2, RGPD; art. 34.º, n.º 4, da Lei n.º 58/2019). Competência material: tribunais judiciais (juízo cível), salvo se o réu for pessoa coletiva de direito público — tribunais administrativos, com o regime da Lei n.º 67/2007 (art. 4.º, n.º 1, al. f), do ETAF; art. 33.º, n.º 3, da Lei n.º 58/2019). Competência territorial: art. 71.º CPC (n.º 2 na responsabilidade extracontratual; n.º 1 se a ação se fundar em contrato)
 
 ### ETAPA 3 — CONSTRUÇÃO (Estrutura da Petição)
 Define em <estrutura_peticao>:
@@ -66,13 +70,13 @@ Define em <estrutura_peticao>:
 ### ETAPA 4 — A PETIÇÃO INICIAL
 
 **AO TRIBUNAL JUDICIAL DA COMARCA DE [CIDADE/COMARCA]**
-**JUÍZO CÍVEL** (Valor: € [valor] — rito [ordinário / abreviado])
+**JUÍZO [CENTRAL CÍVEL, se o valor exceder € 50 000 / LOCAL CÍVEL] DE [LOCALIDADE]** (Valor: € [valor] — processo comum de declaração)
 
 **[Nome do Autor]**, [nacionalidade], [estado civil], [profissão], NIF [número], residente em [endereço], representado pelo seu mandatário [nome], OA n.º [número], com escritório em [endereço], email [email], vem, nos termos do art. 82.º do Regulamento (UE) 2016/679 (RGPD) e dos arts. 483.º, 562.º e seguintes do Código Civil, propor a presente
 
 **AÇÃO DE INDEMNIZAÇÃO POR VIOLAÇÃO DO RGPD**
 
-em face de
+contra
 
 **[Nome do Réu]**, [pessoa singular/coletiva], NIF [número], com [residência/sede] em [endereço],
 
@@ -115,7 +119,7 @@ Em [data], o Autor solicitou ao Réu [o quê], sem obter resposta adequada [ou: 
 — Art. [X] RGPD: [descrição da obrigação violada e como foi violada]
 — [Outras normas violadas]
 
-10. Nos termos do art. 82.º, n.º 2 RGPD, incumbe ao Réu provar que o facto não lhe é imputável — presunção de responsabilidade do responsável pelo tratamento.
+10. Nos termos do art. 82.º, n.ºs 2 e 3, RGPD, o Réu, enquanto responsável pelo tratamento, responde pelos danos causados pelo tratamento que viola o RGPD e só se exonera se provar que não é de modo algum responsável pelo evento que lhes deu origem — a sua culpa presume-se (Acórdão do TJUE de 21 de dezembro de 2023, C-667/21, Krankenversicherung Nordrhein).
 
 11. O Tribunal de Justiça da UE, no Acórdão de 4 de Maio de 2023 (C-300/21 — Österreichische Post AG), clarificou que o art. 82.º RGPD confere ao titular o direito de exigir reparação de danos não materiais resultantes de uma violação do RGPD, sem necessidade de atingir um limiar mínimo de gravidade, desde que o dano seja real — o que se verifica no caso dos autos.
 
@@ -123,15 +127,15 @@ Em [data], o Autor solicitou ao Réu [o quê], sem obter resposta adequada [ou: 
 
 **IV. DO PEDIDO**
 
-Ante o exposto, requer-se a condenação do Réu no pagamento de:
+Nestes termos, requer-se a condenação do Réu no pagamento de:
 
 a) € [valor] a título de danos patrimoniais — [discriminar: despesa X + perda Y + outras];
 
 b) € [valor] a título de danos não patrimoniais — [fixado segundo equidade, considerando a natureza dos dados expostos, a duração do impacto e a intensidade do sofrimento causado];
 
-c) Juros de mora legais desde a citação até efetivo pagamento (art. 805.º, n.º 1 CC);
+c) Juros de mora, à taxa legal, desde a citação até efetivo e integral pagamento (arts. 805.º, n.º 3, e 806.º CC), salvo quanto à indemnização fixada em valores atualizados à data da decisão, que vence juros desde essa decisão (Acórdão Uniformizador de Jurisprudência do STJ n.º 4/2002);
 
-d) Custas e honorários advocatícios.
+d) Custas, incluindo as custas de parte (arts. 527.º e 533.º CPC).
 
 **Valor da ação:** € [total]
 
@@ -151,7 +155,7 @@ Apresenta dentro de um bloco <checklist_validacao>:
 - [ ] Nexo de causalidade entre violação e dano estabelecido
 - [ ] Danos patrimoniais discriminados com valores
 - [ ] Danos não patrimoniais descritos de forma concreta (não hipotética)
-- [ ] Inversão do ónus de prova invocada (art. 82.º, n.º 2)
+- [ ] Presunção de culpa do responsável invocada (art. 82.º, n.º 3, RGPD; TJUE, C-667/21)
 - [ ] Acórdão TJUE C-300/21 invocado (dano não material sem limiar)
 - [ ] Tentativas de resolução extrajudicial mencionadas
 - [ ] Valor da ação = soma de todos os pedidos
@@ -197,20 +201,27 @@ Apresenta dentro de um bloco <checklist_validacao>:
 | art. 82.º RGPD | conferida (epígrafe) — Direito de indemnização e responsabilidade |  |
 | art. 82.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 82.º RGPD | conferida (epígrafe) — Direito de indemnização e responsabilidade |  |
-| art. 82.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 82.º, n.º 3, RGPD | conferida (epígrafe) — Direito de indemnização e responsabilidade |  |
+| art. 82.º, n.º 3, RGPD | conferida (epígrafe) — Direito de indemnização e responsabilidade |  |
 | Art. 82.º RGPD | conferida (epígrafe) — Direito de indemnização e responsabilidade |  |
 | Art. 82.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | Art. 82.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | Art. 82.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | Art. 82.º, n.º 1 RGPD | conferida (epígrafe) — Direito de indemnização e responsabilidade |  |
+| Art. 33.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | Arts. 483.º ss. CC | conferida (índice) |  |
 | Arts. 562.º ss. CC | conferida (epígrafe) — Princípio geral |  |
 | Art. 496.º CC | conferida (epígrafe) — Danos não patrimoniais |  |
-| art. 79.º RGPD | conferida (epígrafe) — Direito à ação judicial contra um responsável pelo tratamento ou um subcontratante |  |
+| art. 79.º, n.º 2, RGPD | conferida (epígrafe) — Direito à ação judicial contra um responsável pelo tratamento ou um subcontratante |  |
+| art. 34.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 4.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 33.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 71.º CPC | conferida (índice) |  |
 | art. 82.º do Regulamento (UE) 2016/679 | conferida (epígrafe) — Direito de indemnização e responsabilidade |  |
 | arts. 483.º, 562.º e seguintes do Código Civil | conferida (índice) |  |
 | art. 4.º, n.º 7 RGPD | conferida (epígrafe) — Definições |  |
 | art. 82.º, n.º 1 RGPD | conferida (epígrafe) — Direito de indemnização e responsabilidade |  |
-| art. 82.º, n.º 2 RGPD | conferida (epígrafe) — Direito de indemnização e responsabilidade |  |
+| art. 82.º, n.ºs 2 e 3, RGPD | conferida (epígrafe) — Direito de indemnização e responsabilidade |  |
 | arts. 562.º e 496.º CC | conferida (epígrafe) — Princípio geral |  |
-| art. 805.º, n.º 1 CC | conferida (índice) |  |
+| arts. 805.º, n.º 3, e 806.º CC | conferida (índice) |  |
+| arts. 527.º e 533.º CPC | conferida (epígrafe) — Regra geral em matéria de custas |  |

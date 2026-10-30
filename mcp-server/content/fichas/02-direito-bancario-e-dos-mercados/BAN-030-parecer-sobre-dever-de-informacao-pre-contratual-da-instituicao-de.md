@@ -6,7 +6,8 @@ titulo_en: "Opinion on the Credit Institution's Pre-Contractual Information Duty
 descricao: "Elabora parecer jurídico sobre o cumprimento dos deveres de informação pré-contratual pela instituição de crédito, analisando se foram entregues e explicados adequadamente a FINE (Ficha de Informação Normalizada Europeia), a informação sobre TAEG, comissões, seguros associados e alternativas, ao abrigo do DL n.º 74-A/2017, do DL n.º 133/2009 e do RGICSF, com avaliação das consequências do incumprimento para a relação contratual."
 descricao_en: "Prepares a legal opinion on the credit institution's compliance with its pre-contractual information duties, assessing whether the ESIS (European Standardised Information Sheet — FINE), information on the APR (TAEG), fees, associated insurance and alternatives were provided and properly explained, under Decree-Law No. 74-A/2017, Decree-Law No. 133/2009 and the RGICSF, with an assessment of the consequences of non-compliance for the contractual relationship."
 ambito: nacional
-estado_citacoes: "conferidas 1 · corrigidas 0 · por conferir 19"
+estado_citacoes: "conferidas 1 · corrigidas 0 · por conferir 27"
+revisao_tecnica: "2026-10-30 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
@@ -14,7 +15,8 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 
 > **Âmbito:** nacional · **Área:** Direito Bancário e dos Mercados · **Código:** BAN-030
 > **EN:** Opinion on the Credit Institution's Pre-Contractual Information Duty. Prepares a legal opinion on the credit institution's compliance with its pre-contractual information duties, assessing whether the ESIS (European Standardised Information Sheet — FINE), information on the APR (TAEG), fees, associated insurance and alternatives were provided and properly explained, under Decree-Law No. 74-A/2017, Decree-Law No. 133/2009 and the RGICSF, with an assessment of the consequences of non-compliance for the contractual relationship.
-> **Citações:** conferidas 1 · corrigidas 0 · por conferir 19. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 1 · corrigidas 0 · por conferir 27. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-30 — corrigida (11 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
 Elabora parecer jurídico sobre o cumprimento dos deveres de informação pré-contratual pela instituição de crédito, analisando se foram entregues e explicados adequadamente a FINE (Ficha de Informação Normalizada Europeia), a informação sobre TAEG, comissões, seguros associados e alternativas, ao abrigo do DL n.º 74-A/2017, do DL n.º 133/2009 e do RGICSF, com avaliação das consequências do incumprimento para a relação contratual.
 
@@ -43,22 +45,25 @@ Em <analise_do_caso>:
 ### ETAPA 2 — ANÁLISE JURÍDICA
 Em <fundamentos_juridicos>:
 - DL n.º 74-A/2017 (crédito imobiliário):
-  - Art. 11.º ss: publicidade — indicação obrigatória da TAEG e outras informações
-  - Art. 13.º: avaliação de solvabilidade — obrigação e consequências de incumprimento
-  - Art. 14.º: serviços acessórios vinculados (seguros, outros produtos)
-  - Art. 15.º: informação pré-contratual — FINE (Ficha de Informação Normalizada Europeia)
-  - Art. 16.º: prazo de reflexão antes da celebração (mínimo [■ VERIFICAR prazo])
-  - Art. 17.º ss: deveres de assistência e esclarecimento
-  - Art. 23.º: indicação da TAEG — obrigatoriedade
-  - Art. 43.º ss: proteção em caso de incumprimento dos deveres de informação
+  - Arts. 9.º e 10.º: publicidade — informação normalizada, incluindo a TAEG
+  - Art. 11.º: vendas associadas obrigatórias e facultativas — o mutuante só pode exigir conta de depósito à ordem e seguros adequados, e tem de aceitar seguro de outro prestador com garantia equivalente (n.º 2); no seguro de vida exigido, só a cobertura de morte (n.º 7)
+  - Art. 12.º: informação pré-contratual de caráter geral
+  - Art. 13.º: informação pré-contratual personalizada — FINE (Ficha de Informação Normalizada Europeia) (n.ºs 1 a 3); proposta vinculativa durante 30 dias e período mínimo de reflexão de 7 dias, durante o qual o consumidor não pode aceitar a proposta (n.ºs 4 e 5)
+  - Art. 14.º: dever de assistência ao consumidor
+  - Art. 15.º: cálculo da TAEG
+  - Arts. 16.º e 17.º: avaliação de solvabilidade e verificação da informação relativa ao consumidor
+  - Art. 29.º: contraordenações; art. 35.º: caráter imperativo; art. 36.º: inversão do ónus da prova — cabe ao mutuante provar que cumpriu. O diploma não prevê a invalidade do contrato por violação dos deveres de informação (ao contrário do art. 13.º do DL 133/2009) [■ VERIFICAR jurisprudência sobre as consequências civis]
 - DL n.º 133/2009 (crédito ao consumo):
-  - Art. 6.º: informação pré-contratual (FIN — Ficha de Informação Normalizada)
-  - Art. 7.º: deveres de assistência
-  - Art. 8.º: avaliação de solvabilidade
-  - Art. 9.º: prazo de reflexão
-  - Art. 17.º: direito de retratação (14 dias)
+  - Art. 6.º: informação pré-contratual (FIN — ficha de «Informação normalizada europeia em matéria de crédito a consumidores», anexo II)
+  - Art. 7.º: dever de assistência
+  - Art. 8.º: informação pré-contratual nas facilidades de descoberto e noutros contratos de crédito especiais
+  - Art. 10.º: avaliação de solvabilidade
+  - Arts. 12.º e 13.º: requisitos do contrato e consequências da sua falta — nulidade, anulabilidade ou inexigibilidade, invocáveis só pelo consumidor, com redução das obrigações deste (art. 13.º, n.ºs 5 a 7)
+  - Art. 17.º: direito de livre revogação (14 dias de calendário, sem indicar motivo)
+  - O DL 133/2009 não prevê período de reflexão antes da celebração (este existe no crédito à habitação — art. 13.º, n.º 5, DL 74-A/2017)
+  - A Diretiva (UE) 2023/2225, que revoga a Diretiva 2008/48/CE, aplica-se a partir de 20/11/2026 [■ VERIFICAR: estado da transposição portuguesa e regime aplicável aos contratos celebrados a partir dessa data]
 - RGICSF art. 73.º ss: deveres gerais de conduta
-- Aviso do Banco de Portugal n.º 5/2013 [■ VERIFICAR versão atual]
+- Regulamentação do Banco de Portugal sobre a informação pré-contratual (modelos da FIN e da FINE) [■ VERIFICAR aviso ou instrução em vigor]; o Aviso n.º 5/2013 respeitava à prevenção do branqueamento de capitais e foi revogado pelo Aviso n.º 2/2018
 - Código Civil: art. 227.º (culpa in contrahendo) — responsabilidade por violação de deveres pré-contratuais
 
 ### ETAPA 3 — CONSTRUÇÃO
@@ -69,7 +74,7 @@ Em <estrategia>:
   - Nulidade do contrato?
   - Responsabilidade civil pré-contratual (art. 227.º CC)?
   - Redução das obrigações do consumidor?
-  - Direito de retratação?
+  - Direito de livre revogação, se ainda estiver em prazo (art. 17.º DL 133/2009)?
 - Vias: reclamação interna → Banco de Portugal → CACCL → tribunal
 
 ### ETAPA 4 — O PARECER
@@ -86,21 +91,21 @@ O presente parecer analisa o cumprimento dos deveres de informação pré-contra
 
 [Para crédito imobiliário — DL 74-A/2017:]
 
-**2.1 Entrega da FINE (art. 15.º DL 74-A/2017)**
+**2.1 Entrega da FINE (art. 13.º DL 74-A/2017)**
 "[transcrição do artigo]"
 Status: [FINE entregue em [data] / FINE não entregue / entregue sem prazo de reflexão adequado]
-[■ VERIFICAR: prazo mínimo entre entrega da FINE e celebração do contrato]
+Período mínimo de reflexão: o consumidor não pode aceitar a proposta nos primeiros 7 dias do prazo de 30 dias durante o qual o mutuante fica vinculado (art. 13.º, n.ºs 4 e 5, DL 74-A/2017)
 
-**2.2 Avaliação de Solvabilidade (art. 13.º DL 74-A/2017)**
+**2.2 Avaliação de Solvabilidade (art. 16.º DL 74-A/2017)**
 "[transcrição]"
 Status: [realizada / não realizada / incompleta]
 Consequência do incumprimento: [■ VERIFICAR: nulidade ou responsabilidade civil se crédito concedido sem avaliação adequada]
 
-**2.3 Serviços Acessórios Vinculados (art. 14.º DL 74-A/2017)**
+**2.3 Vendas Associadas (art. 11.º DL 74-A/2017)**
 Seguros e produtos associados: [lista]
 Status: [livre escolha informada / imposição de seguradora do banco sem informar alternativa]
 
-**2.4 TAEG (art. 23.º DL 74-A/2017)**
+**2.4 TAEG (arts. 13.º e 15.º DL 74-A/2017)**
 TAEG indicada pré-contratualmente: [%]
 TAEG no contrato celebrado: [%]
 Status: [corresponde / diverge — diferença de X%]
@@ -112,7 +117,7 @@ Status: [corresponde / diverge — diferença de X%]
 [Para cada incumprimento:]
 - Dever violado: [descrição]
 - Norma: [artigo]
-- Consequência legal: [responsabilidade civil / nulidade / direito de retratação / redução de obrigações]
+- Consequência legal: [responsabilidade civil / nulidade, anulabilidade ou inexigibilidade (crédito aos consumidores) / redução de obrigações / contraordenação]
 - Fundamento: "[transcrição do artigo relevante]"
 
 **IV. CONCLUSÕES**
@@ -164,29 +169,37 @@ Em <checklist_validacao>:
 - Banco impôs seguro específico? [sim/não]
 
 **OBJETIVO DO PARECER:**
-[Avaliar violações / Fundamentar reclamação / Preparar ação judicial / Retratação do contrato]
+[Avaliar violações / Fundamentar reclamação / Preparar ação judicial / Livre revogação do contrato (crédito aos consumidores, no prazo de 14 dias)]
 
 ## Citações desta ficha
 
 | Citação | Estado | Nota |
 |---|---|---|
+| Arts. 9.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | Art. 11.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| Art. 12.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | Art. 13.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | Art. 14.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | Art. 15.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| Art. 16.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| Art. 17.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| Art. 17.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| Art. 23.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| Art. 43.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| Arts. 16.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| Art. 29.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 35.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 36.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 13.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 13.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 13.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 13.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 13.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | Art. 6.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | Art. 7.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | Art. 8.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| Art. 9.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| Art. 10.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| Arts. 12.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| Art. 17.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 73.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 227.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 227.º CC | conferida (epígrafe) — Culpa na formação dos contratos |  |
-| art. 15.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| art. 13.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| art. 14.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| art. 23.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 17.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 16.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 11.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| arts. 13.º | por conferir [■ VERIFICAR] | diploma não identificado |

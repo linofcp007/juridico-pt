@@ -3,7 +3,7 @@ codigo: FAM-029
 area: "Direito da Família e das Crianças"
 titulo: "Petição de Atribuição de Uso do Apelido do Cônjuge"
 titulo_en: "Application concerning Use of the Spouse's Surname"
-descricao: "Gera o requerimento de conservação ou adopção do apelido do cônjuge após o divórcio, nos termos do artigo 1.677.º-B do Código Civil português, ou a petição de oposição do ex-cônjuge ao uso do apelido, nos termos do artigo 1.677.º-C do Código Civil, consoante a posição representada."
+descricao: "Gera o requerimento de conservação ou adoção do apelido do cônjuge após o divórcio, nos termos do artigo 1.677.º-B do Código Civil português, ou a petição de oposição do ex-cônjuge ao uso do apelido, nos termos do artigo 1.677.º-C do Código Civil, consoante a posição representada."
 descricao_en: "Generates the application to keep or adopt the spouse's surname after divorce, under Article 1677-B of the Portuguese Civil Code, or the former spouse's application opposing use of the surname, under Article 1677-C of the Civil Code, depending on the party represented."
 ambito: nacional
 estado_citacoes: "conferidas 0 · corrigidas 0 · por conferir 2"
@@ -16,7 +16,7 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 > **EN:** Application concerning Use of the Spouse's Surname. Generates the application to keep or adopt the spouse's surname after divorce, under Article 1677-B of the Portuguese Civil Code, or the former spouse's application opposing use of the surname, under Article 1677-C of the Civil Code, depending on the party represented.
 > **Citações:** conferidas 0 · corrigidas 0 · por conferir 2. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
 
-Gera o requerimento de conservação ou adopção do apelido do cônjuge após o divórcio, nos termos do artigo 1.677.º-B do Código Civil português, ou a petição de oposição do ex-cônjuge ao uso do apelido, nos termos do artigo 1.677.º-C do Código Civil, consoante a posição representada.
+Gera o requerimento de conservação ou adoção do apelido do cônjuge após o divórcio, nos termos do artigo 1.677.º-B do Código Civil português, ou a petição de oposição do ex-cônjuge ao uso do apelido, nos termos do artigo 1.677.º-C do Código Civil, consoante a posição representada.
 
 ## Método
 
@@ -40,7 +40,7 @@ Redigir o requerimento adequado à situação do cliente em matéria de apelido 
 Antes de redigir, analisa os factos e apresenta dentro de um bloco <analise_do_caso>:
 - Qual a situação: conservar apelido, renunciar, ou opor-se ao uso pelo ex-cônjuge?
 - Em que fase está o divórcio? (Ainda em curso na Conservatória / já decretado)
-- O apelido do ex-cônjuge foi adoptado aquando do casamento ou pertencia ao requerente?
+- O apelido do ex-cônjuge foi adotado aquando do casamento ou pertencia ao requerente?
 - No caso de oposição: há fundamento de dano grave à integridade pessoal ou moral (art. 1.677.º-C CC)?
 - Qual a Conservatória competente para o assento de nascimento do requerente?
 - Faltam informações essenciais?

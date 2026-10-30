@@ -6,7 +6,8 @@ titulo_en: "Internal Procedure for Handling Data Subject Requests"
 descricao: "Gera um Procedimento Operacional Padrão (POP) interno para gestão de pedidos de exercício de direitos de titulares de dados, com fluxo de trabalho, responsabilidades, prazos, formulários internos e registos de conformidade, para implementação imediata numa organização."
 descricao_en: "Generates an internal standard operating procedure (SOP) for handling data subject rights requests, with workflow, responsibilities, deadlines, internal forms and compliance records, for immediate implementation in an organisation."
 ambito: nacional
-estado_citacoes: "conferidas 4 · corrigidas 0 · por conferir 9"
+estado_citacoes: "conferidas 7 · corrigidas 0 · por conferir 10"
+revisao_tecnica: "2026-10-28 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
@@ -14,7 +15,8 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 
 > **Âmbito:** nacional · **Área:** Proteção de Dados e Direito Digital · **Código:** DIG-009
 > **EN:** Internal Procedure for Handling Data Subject Requests. Generates an internal standard operating procedure (SOP) for handling data subject rights requests, with workflow, responsibilities, deadlines, internal forms and compliance records, for immediate implementation in an organisation.
-> **Citações:** conferidas 4 · corrigidas 0 · por conferir 9. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 7 · corrigidas 0 · por conferir 10. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-28 — corrigida (4 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
 Gera um Procedimento Operacional Padrão (POP) interno para gestão de pedidos de exercício de direitos de titulares de dados, com fluxo de trabalho, responsabilidades, prazos, formulários internos e registos de conformidade, para implementação imediata numa organização.
 
@@ -50,7 +52,7 @@ Apresenta dentro de um bloco <fundamentos_juridicos>:
 - Art. 77.º: direito de reclamação à CNPD
 - Art. 79.º: direito de recurso judicial
 - Orientações EDPB 01/2022 sobre direito de acesso
-- Coimas aplicáveis (art. 83.º, n.º 4): até €10M ou 2% volume de negócios global
+- Coimas aplicáveis (art. 83.º, n.º 5, al. b), RGPD): até 20 M€ ou, no caso de uma empresa, até 4 % do volume de negócios anual a nível mundial, consoante o montante mais elevado; na lei nacional, contraordenação muito grave (art. 37.º, n.º 1, al. i), da Lei n.º 58/2019)
 
 ### ETAPA 3 — CONSTRUÇÃO (Estrutura do Procedimento)
 Define em <estrutura_procedimento>:
@@ -99,8 +101,8 @@ Ações:
 □ Verificar se o titular está identificado de forma inequívoca
 □ Se não identificado: solicitar dados adicionais de identificação (proporcional ao risco)
   — Método recomendado: [confirmação por email de registo / resposta com dado confirmatório / outro]
-  — Nota: não exigir documentos desnecessários — o prazo só começa após identificação
-□ Se não identificado após pedido: comunicar impossibilidade (art. 11.º RGPD) e arquivar
+  — Nota: não exigir documentos desnecessários; havendo dúvidas razoáveis sobre a identidade, pedir sem demora injustificada as informações adicionais necessárias (art. 12.º, n.º 6, RGPD) — o prazo conta-se da receção do pedido e só se suspende até o titular prestar essas informações (Orientações EDPB 01/2022, ponto 159)
+□ Se não identificado após pedido: comunicar ao titular que não é possível dar seguimento ao pedido por não estar em condições de o identificar, com os motivos e a indicação da possibilidade de reclamar à CNPD e de intentar ação judicial (arts. 11.º, n.º 2, e 12.º, n.ºs 2 e 4, RGPD), e arquivar
 
 **PASSO 3 — ANÁLISE DO PEDIDO (Dias 3-10)**
 Responsável: [DPO / jurídico / gestor de dados]
@@ -119,11 +121,12 @@ Ações:
 □ Aprovar ou solicitar correções
 □ Se pedido complexo: considerar prorrogação de prazo (comunicar ao titular até ao fim do 1.º mês)
 
-**PASSO 5 — ENVIO DA RESPOSTA (Até ao Dia 30)**
+**PASSO 5 — ENVIO DA RESPOSTA (até ao termo do prazo de 1 mês a contar da receção — art. 12.º, n.º 3)**
 Responsável: [gestor de dados / DPO]
 Ações:
 □ Enviar resposta ao titular pelo canal indicado no pedido (ou canal seguro equivalente)
 □ Se deferimento: executar o pedido (fornecer dados, retificar, apagar, etc.)
+□ Se indeferimento, total ou parcial: indicar os motivos e a possibilidade de reclamar à CNPD e de intentar ação judicial, no prazo de 1 mês a contar da receção do pedido (art. 12.º, n.º 4, RGPD)
 □ Notificar destinatários se houve retificação/apagamento (art. 19.º RGPD)
 □ Registar data e conteúdo da resposta no Log (Anexo A)
 □ Arquivar cópia da resposta e comprovativo de envio
@@ -232,15 +235,19 @@ Apresenta dentro de um bloco <checklist_validacao>:
 | Citação | Estado | Nota |
 |---|---|---|
 | art. 12.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 12.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 5.º, n.º 2 RGPD | por conferir [■ VERIFICAR] | o assunto descrito não coincide com a epígrafe; confirmar |
 | Art. 12.º RGPD | conferida (epígrafe) — Transparência das informações, das comunicações e das regras para exercício dos direitos d |  |
 | Arts. 15.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | Art. 5.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | Art. 77.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | Art. 79.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| art. 83.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 83.º, n.º 5, al. b), RGPD | conferida (epígrafe) — Condições gerais para a aplicação de coimas |  |
+| art. 37.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | arts. 15.º a 22.º do RGPD | conferida (epígrafe) — Direito de acesso do titular dos dados |  |
-| art. 11.º RGPD | conferida (epígrafe) — Tratamento que não exige identificação |  |
+| art. 12.º, n.º 6, RGPD | conferida (epígrafe) — Transparência das informações, das comunicações e das regras para exercício dos direitos d |  |
+| arts. 11.º, n.º 2, e 12.º, n.ºs 2 e 4, RGPD | conferida (epígrafe) — Tratamento que não exige identificação |  |
+| art. 12.º, n.º 4, RGPD | conferida (epígrafe) — Transparência das informações, das comunicações e das regras para exercício dos direitos d |  |
 | art. 19.º RGPD | conferida (epígrafe) — Obrigação de notificação da retificação ou apagamento dos dados pessoais ou limitação do t |  |
 | art. 19.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 22.º | por conferir [■ VERIFICAR] | diploma não identificado |

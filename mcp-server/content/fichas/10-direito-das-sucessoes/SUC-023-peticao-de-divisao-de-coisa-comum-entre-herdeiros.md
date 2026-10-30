@@ -3,20 +3,22 @@ codigo: SUC-023
 area: "Direito das Sucessões"
 titulo: "Petição de Divisão de Coisa Comum entre Herdeiros"
 titulo_en: "Statement of Claim for Division of Jointly Owned Property between Heirs"
-descricao: "Gera a petição inicial da ação de divisão de coisa comum entre co-herdeiros, quando estes não chegam a acordo sobre a partilha de bens indivisos — designadamente imóveis — e um dos herdeiros pretende pôr fim à compropriedade, nos termos dos arts. 1412.º e ss. do Código Civil e arts. 925.º e ss. do Código de Processo Civil."
-descricao_en: "Generates the statement of claim in an action for division of jointly owned property (divisão de coisa comum) between co-heirs where they cannot agree on the division of undivided assets — notably real estate — and one heir wishes to end the co-ownership, under Articles 1412 et seq. of the Civil Code and Articles 925 et seq. of the Code of Civil Procedure."
+descricao: "Gera a petição inicial da ação de divisão de coisa comum entre herdeiros que, depois da partilha, ficaram comproprietários de um bem — designadamente um imóvel — quando um deles pretende pôr fim à compropriedade, nos termos dos arts. 1412.º e ss. do Código Civil e arts. 925.º e ss. do Código de Processo Civil; enquanto a herança estiver indivisa, o meio próprio é o inventário."
+descricao_en: "Generates the statement of claim in an action for division of jointly owned property (divisão de coisa comum) between heirs who, after the estate was divided, became co-owners of an asset — notably real estate — where one of them wishes to end the co-ownership, under Articles 1412 et seq. of the Civil Code and Articles 925 et seq. of the Code of Civil Procedure; while the estate remains undivided, the proper remedy is inventory proceedings."
 ambito: nacional
-estado_citacoes: "conferidas 6 · corrigidas 0 · por conferir 2"
+estado_citacoes: "conferidas 17 · corrigidas 0 · por conferir 1"
+revisao_tecnica: "2026-10-28 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
 # Petição de Divisão de Coisa Comum entre Herdeiros
 
 > **Âmbito:** nacional · **Área:** Direito das Sucessões · **Código:** SUC-023
-> **EN:** Statement of Claim for Division of Jointly Owned Property between Heirs. Generates the statement of claim in an action for division of jointly owned property (divisão de coisa comum) between co-heirs where they cannot agree on the division of undivided assets — notably real estate — and one heir wishes to end the co-ownership, under Articles 1412 et seq. of the Civil Code and Articles 925 et seq. of the Code of Civil Procedure.
-> **Citações:** conferidas 6 · corrigidas 0 · por conferir 2. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **EN:** Statement of Claim for Division of Jointly Owned Property between Heirs. Generates the statement of claim in an action for division of jointly owned property (divisão de coisa comum) between heirs who, after the estate was divided, became co-owners of an asset — notably real estate — where one of them wishes to end the co-ownership, under Articles 1412 et seq. of the Civil Code and Articles 925 et seq. of the Code of Civil Procedure; while the estate remains undivided, the proper remedy is inventory proceedings.
+> **Citações:** conferidas 17 · corrigidas 0 · por conferir 1. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-28 — corrigida (17 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
-Gera a petição inicial da ação de divisão de coisa comum entre co-herdeiros, quando estes não chegam a acordo sobre a partilha de bens indivisos — designadamente imóveis — e um dos herdeiros pretende pôr fim à compropriedade, nos termos dos arts. 1412.º e ss. do Código Civil e arts. 925.º e ss. do Código de Processo Civil.
+Gera a petição inicial da ação de divisão de coisa comum entre herdeiros que, depois da partilha, ficaram comproprietários de um bem — designadamente um imóvel — quando um deles pretende pôr fim à compropriedade, nos termos dos arts. 1412.º e ss. do Código Civil e arts. 925.º e ss. do Código de Processo Civil; enquanto a herança estiver indivisa, o meio próprio é o inventário.
 
 ## Método
 
@@ -27,7 +29,8 @@ Ficha de trabalho para preparar este documento. As regras da casa prevalecem sob
 — Se faltar dado, marca [■ VERIFICAR: o que é necessário].
 — Cita artigos reais do Código Civil (CC) e do Código de Processo Civil (CPC).
 — Analisa se o bem é divisível em espécie ou se a venda judicial é a única solução.
-— Identifica o direito de preferência dos co-herdeiros na aquisição da quota (art. 1409.º CC [■ VERIFICAR: com a herança indivisa, a preferência dos co-herdeiros é a do art. 2130.º CC; o art. 1409.º CC é a dos comproprietários]).
+— Confirma, antes de mais, que a herança já foi partilhada e que o bem ficou em compropriedade: enquanto a herança estiver indivisa, os coerdeiros não são comproprietários dos bens que a integram e o meio próprio é a partilha, por acordo ou por inventário (arts. 2101.º e 2102.º CC; arts. 1082.º e 1083.º CPC), não a ação de divisão de coisa comum.
+— Identifica o direito de preferência dos comproprietários na venda ou dação em cumprimento da quota a estranhos (art. 1409.º CC); com a herança indivisa, a preferência dos coerdeiros na venda ou dação em cumprimento de quinhão hereditário é a do art. 2130.º CC.
 — Linguagem jurídica formal, portuguesa.
 
 ---
@@ -36,8 +39,9 @@ Ficha de trabalho para preparar este documento. As regras da casa prevalecem sob
 
 ### ETAPA 1 — PROBLEMATIZAÇÃO (Análise do Caso)
 Apresenta dentro de um bloco <analise_do_caso>:
-- Quem são os co-herdeiros e quais as suas quotas no bem?
-- O bem é divisível em espécie (pode ser fraccionado) ou só por venda?
+- A herança já foi partilhada (escritura, procedimento simplificado ou inventário) e o bem foi adjudicado em compropriedade? Se a herança estiver indivisa, a via é o inventário, não esta ação.
+- Quem são os comproprietários e quais as suas quotas no bem?
+- O bem é divisível em espécie (pode ser fracionado) ou só por venda?
 - Existe acordo parcial? Algum herdeiro pretende adquirir as quotas dos demais?
 - Qual o valor do bem e qual a quota do autor?
 - Houve tentativa de acordo extrajudicial? Com que resultado?
@@ -45,10 +49,11 @@ Apresenta dentro de um bloco <analise_do_caso>:
 
 ### ETAPA 2 — ANÁLISE JURÍDICA (Fundamentação)
 Apresenta dentro de um bloco <fundamentos_juridicos>:
+- Pressuposto: compropriedade sobre o bem concreto, em regra resultante da partilha já feita. Até à partilha, os coerdeiros têm apenas direito a uma quota da herança, não são donos nem comproprietários dos bens que a integram, e qualquer deles pode exigir partilha (art. 2101.º CC); a ação de divisão de coisa comum sobre bens da herança indivisa tem conduzido à absolvição da instância (STJ, 30-01-2013, proc. 1100/11.7TBABT.E1.S1; TRL, proc. 4829/17.2T8LSB.L1-2)
 - Direito de pôr fim à indivisão: art. 1412.º CC — ninguém é obrigado a permanecer em compropriedade
-- Ação de divisão de coisa comum: arts. 925.º a 930.º CPC [■ VERIFICAR: numeração atual]
-- Divisão em espécie: quando o bem é fraccionável sem perda de valor (art. 926.º CPC [■ VERIFICAR: o art. 926.º CPC trata da citação e oposição; a divisão em substância está nos arts. 927.º e 928.º CPC]) [■ VERIFICAR]
-- Venda judicial: quando o bem não é divisível em espécie (art. 929.º CPC) [■ VERIFICAR]
+- Ação de divisão de coisa comum: arts. 925.º a 930.º CPC
+- Divisão em substância: quando o bem pode ser fracionado sem alteração da sua substância, diminuição de valor ou prejuízo para o uso a que se destina (art. 209.º CC); a indivisibilidade é conhecida mesmo oficiosamente (art. 926.º, n.º 4, CPC) e os quinhões são formados por perícia (arts. 927.º e 928.º CPC)
+- Bem indivisível: na conferência de interessados procura-se o acordo para a adjudicação a algum ou alguns dos consortes, preenchendo-se em dinheiro as quotas dos restantes; na falta de acordo, a coisa é vendida, podendo os consortes concorrer à venda (art. 929.º CPC)
 - Direito de preferência dos co-proprietários na compra das quotas: art. 1409.º CC
 - Usufruto e outros ónus sobre o bem: [■ VERIFICAR: impacto na divisão]
 
@@ -62,21 +67,21 @@ Define:
 
 **PETIÇÃO INICIAL — AÇÃO DE DIVISÃO DE COISA COMUM**
 
-AO TRIBUNAL JUDICIAL DA COMARCA DE [localidade] — [■ VERIFICAR: tribunal competente]
+AO TRIBUNAL JUDICIAL DA COMARCA DE [localidade da situação do imóvel — art. 70.º, n.º 1, CPC] — [■ VERIFICAR: juízo competente (local ou central cível), em função do valor da causa]
 
-[Nome do autor], portador(a) do CC n.º [número], NIF n.º [número], residente em [morada], co-herdeiro(a) e co-proprietário(a) do bem identificado abaixo, representado(a) pelo Advogado [nome, n.º OA], vem propor a presente
+[Nome do autor], portador(a) do CC n.º [número], NIF n.º [número], residente em [morada], comproprietário(a) do bem identificado abaixo, que lhe foi adjudicado em compropriedade na partilha da herança de [nome do falecido], representado(a) pelo Advogado [nome, n.º OA], vem propor a presente
 
 **AÇÃO DE DIVISÃO DE COISA COMUM**
 
 contra
 
-[Nomes dos réus — co-herdeiros] [...],
+[Nomes dos réus — restantes comproprietários] [...],
 
 com os seguintes fundamentos:
 
 **I — DA COMPROPRIEDADE**
 
-Por óbito de [nome do falecido] em [data], os outorgantes são co-herdeiros e co-proprietários do seguinte bem:
+Por óbito de [nome do falecido] em [data], a respetiva herança foi partilhada por [escritura de partilha / procedimento simplificado de partilha / sentença homologatória da partilha em inventário] de [data], tendo o bem abaixo identificado sido adjudicado em compropriedade ao autor e aos réus, que dele são comproprietários [■ VERIFICAR: título da partilha e inscrição da compropriedade no registo predial]:
 
 [Identificação do bem: prédio urbano/rústico, morada, artigo matricial, ficha predial, valor estimado]
 
@@ -84,7 +89,7 @@ O autor detém uma quota de [fração] sobre o referido bem, e os réus detêm q
 
 **II — DA IMPOSSIBILIDADE DE ACORDO**
 
-O autor tentou chegar a acordo com os réus para a partilha do bem, nomeadamente: [descreve tentativas — comunicações, reuniões, propostas].
+O autor tentou chegar a acordo com os réus para a divisão do bem, nomeadamente: [descreve tentativas — comunicações, reuniões, propostas].
 Apesar destas diligências, não foi possível alcançar acordo.
 
 **III — DO DIREITO À DIVISÃO**
@@ -94,20 +99,20 @@ Nos termos do art. 1412.º CC, ninguém é obrigado a permanecer em comproprieda
 **IV — DA FORMA DA DIVISÃO**
 
 [OPÇÃO A — Divisão em espécie:]
-O bem é suscetível de divisão em espécie, podendo ser fraccionado em [N] partes autónomas sem perda significativa de valor. O autor requer a divisão em espécie com atribuição de cada fração a cada co-proprietário.
+O bem é suscetível de divisão em espécie, podendo ser fracionado em [N] partes autónomas sem perda significativa de valor. O autor requer a divisão em espécie com atribuição de cada fração a cada co-proprietário.
 
 [OPÇÃO B — Venda judicial:]
-O bem não é suscetível de divisão em espécie [por se tratar de uma fração autónoma / por a divisão causar perda de valor significativa]. O autor requer a venda judicial do bem e a repartição do produto pelos co-proprietários em proporção das respetivas quotas (art. [■ VERIFICAR: artigo CPC] CPC).
+O bem não é suscetível de divisão em espécie [por se tratar de uma fração autónoma / por a divisão causar perda de valor significativa]. O autor requer que, fixadas as quotas, o bem seja adjudicado a algum ou alguns dos consortes, preenchendo-se em dinheiro as quotas dos restantes, ou, na falta de acordo, vendido, com repartição do produto pelos comproprietários na proporção das respetivas quotas (arts. 925.º e 929.º, n.º 2, CPC).
 
 **V — DOS PEDIDOS**
 
 O autor requer que:
 1. Seja decretada a divisão do bem identificado no ponto I;
-2. [Divisão em espécie:] Seja o bem fraccionado e atribuída a cada co-proprietário a parte correspondente à sua quota;
-3. [Venda judicial:] Seja ordenada a venda judicial do bem e repartido o produto pelos co-proprietários em proporção das quotas;
+2. [Divisão em espécie:] Seja o bem fracionado e atribuída a cada co-proprietário a parte correspondente à sua quota;
+3. [Bem indivisível:] Seja o bem adjudicado a algum ou alguns dos consortes, com preenchimento em dinheiro das quotas dos restantes, ou, na falta de acordo, vendido, repartindo-se o produto pelos comproprietários na proporção das quotas;
 4. Seja o autor ressarcido das despesas judiciais em proporção das quotas.
 
-**Valor da causa:** € [valor da quota do autor]
+**Valor da causa:** € [valor da coisa a dividir — art. 302.º, n.º 2, CPC]
 
 [Local e data]
 [Nome do advogado, n.º Ordem dos Advogados]
@@ -115,7 +120,8 @@ O autor requer que:
 ### ETAPA 5 — FORMULAÇÃO FINAL (Validação)
 Apresenta dentro de um bloco <checklist_validacao>:
 - [ ] Bem identificado com artigo matricial e ficha predial
-- [ ] Quotas de cada co-herdeiro identificadas
+- [ ] Partilha prévia e compropriedade do bem comprovadas (título da partilha, certidão do registo predial)
+- [ ] Quotas de cada comproprietário identificadas
 - [ ] Tentativa de acordo extrajudicial documentada
 - [ ] Fundamento do pedido (art. 1412.º CC)
 - [ ] Tipo de divisão (em espécie ou venda judicial) justificado
@@ -129,7 +135,7 @@ Apresenta dentro de um bloco <checklist_validacao>:
 **AUTOR:**
 - Nome, CC, NIF, morada, quota no bem: [dados]
 
-**RÉUS (outros co-herdeiros):**
+**RÉUS (restantes comproprietários):**
 - [Nome, CC, NIF, morada, quota de cada um]
 
 **BEM EM CAUSA:**
@@ -137,22 +143,37 @@ Apresenta dentro de um bloco <checklist_validacao>:
 - Está arrendado? [sim/não]
 - Tem ónus (hipoteca, penhora)? [sim/não — descreve]
 
+**PARTILHA DA HERANÇA:**
+- Já foi feita? [sim/não — título (escritura, procedimento simplificado, inventário) e data]
+- O bem foi adjudicado em compropriedade? [sim/não — quotas de cada um]
+- Se a herança ainda estiver indivisa, o meio é o inventário (arts. 1082.º e 1083.º CPC), não esta ação
+
 **TENTATIVAS DE ACORDO:**
 - [Descreve — comunicações, propostas, datas]
 
 **TIPO DE DIVISÃO PRETENDIDA:**
-- [ ] Em espécie (fraccionamento do imóvel)
+- [ ] Em espécie (fracionamento do imóvel)
 - [ ] Venda judicial (imóvel indivisível)
 
 ## Citações desta ficha
 
 | Citação | Estado | Nota |
 |---|---|---|
-| art. 1409.º CC | por conferir [■ VERIFICAR] | com a herança indivisa, a preferência dos co-herdeiros é a do art. 2130.º CC; o art. 1409.º CC é a dos comproprietários |
+| arts. 2101.º e 2102.º CC | conferida (epígrafe) — Direito de exigir partilha |  |
+| arts. 1082.º e 1083.º CPC | conferida (epígrafe) — Função do inventário |  |
+| arts. 1082.º e 1083.º CPC | conferida (epígrafe) — Função do inventário |  |
+| art. 1409.º CC | por conferir [■ VERIFICAR] | o assunto descrito não coincide com a epígrafe; confirmar |
 | art. 1409.º CC | conferida (epígrafe) — Direito de preferência |  |
+| art. 2130.º CC | conferida (epígrafe) — Direito de preferência |  |
+| art. 2101.º CC | conferida (epígrafe) — Direito de exigir partilha |  |
 | art. 1412.º CC | conferida (epígrafe) — Direito de exigir a divisão |  |
 | art. 1412.º CC | conferida (epígrafe) — Direito de exigir a divisão |  |
 | art. 1412.º CC | conferida (epígrafe) — Direito de exigir a divisão |  |
 | arts. 925.º a 930.º CPC | conferida (epígrafe) — Petição |  |
-| art. 926.º CPC | por conferir [■ VERIFICAR] | o art. 926.º CPC trata da citação e oposição; a divisão em substância está nos arts. 927.º e 928.º CPC |
+| art. 209.º CC | conferida (epígrafe) — Coisas divisíveis |  |
+| art. 926.º, n.º 4, CPC | conferida (epígrafe) — Citação e oposição |  |
+| arts. 927.º e 928.º CPC | conferida (epígrafe) — Perícia, no caso de divisão em substância |  |
 | art. 929.º CPC | conferida (epígrafe) — Conferência de interessados |  |
+| art. 70.º, n.º 1, CPC | conferida (epígrafe) — Foro da situação dos bens |  |
+| arts. 925.º e 929.º, n.º 2, CPC | conferida (epígrafe) — Petição |  |
+| art. 302.º, n.º 2, CPC | conferida (epígrafe) — Valor da ação determinado pelo valor da coisa |  |

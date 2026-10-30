@@ -1,0 +1,322 @@
+[
+ {
+  "codigo": "PEN-035",
+  "veredicto": "corrigida",
+  "resumo": "A ficha trocava os regimes dos arts. 58.º e 59.º CPP (chamava «voluntária» à constituição obrigatória do art. 58.º e atribuía ao art. 59.º, n.º 1 uma lista que não é a da lei), definia o arguido do art. 57.º CPP pela «suspeita fundada» e letrava mal as alíneas do art. 61.º, n.º 1 CPP. Tratava a falta de comunicação dos direitos como método proibido de prova do art. 126.º CPP, quando a consequência é a proibição de utilização das declarações do art. 58.º, n.º 7 CPP, e qualificava a falta de defensor obrigatório como nulidade do art. 120.º CPP, quando é nulidade insanável do art. 119.º, al. c) CPP. Corrigiu-se o regime, as alíneas e as consequências, e acrescentou-se a advertência do art. 141.º, n.º 4, al. b) CPP sobre a leitura em julgamento das declarações prestadas perante autoridade judiciária (art. 357.º, n.º 1, al. b) CPP, na redação em vigor após a Lei n.º 34/2026).",
+  "substituicoes": [
+   {
+    "de": "— A constituição de arguido pode ser obrigatória (art. 59.º CPP) ou voluntária (art. 58.º CPP).",
+    "para": "— A constituição de arguido é obrigatória nos casos do art. 58.º, n.º 1, CPP e, durante a inquirição de quem não é arguido, logo que surja fundada suspeita de crime por ele cometido (art. 59.º, n.º 1, CPP); o suspeito pode ainda requerer a sua constituição como arguido quando estejam a ser efetuadas diligências destinadas a comprovar a imputação que pessoalmente o afetem (art. 59.º, n.º 2, CPP).",
+    "motivo": "O art. 58.º CPP regula a constituição obrigatória e o art. 59.º CPP os outros casos (suspensão da inquirição e constituição a pedido do suspeito); a ficha invertia os regimes.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=199&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "— Proibição de métodos proibidos de prova (arts. 125.º e 126.º CPP): declarações obtidas com coação ou sem informação dos direitos são nulas.",
+    "para": "— Proibição de métodos proibidos de prova (arts. 125.º e 126.º CPP): as provas obtidas mediante tortura, coação ou ofensa da integridade física ou moral são nulas e não podem ser utilizadas; já as declarações prestadas sem constituição de arguido ou sem comunicação dos direitos não podem ser utilizadas como prova por força do art. 58.º, n.º 7, CPP (aplicável aos casos do art. 59.º CPP por força do seu n.º 4).",
+    "motivo": "A falta de constituição de arguido ou de comunicação dos direitos não é método proibido do art. 126.º CPP; a consequência é a proibição de utilização das declarações do art. 58.º, n.º 7, CPP.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=199A0126&nid=199&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- **Art. 57.º CPP — conceito de arguido:** quem é suspeito e quem é arguido; distinção e consequências\n- **Art. 58.º CPP — constituição voluntária:** qualquer pessoa pode requerer ser constituída arguida; formalidades\n- **Art. 59.º CPP — constituição obrigatória:** quando suspeito estiver a ser interrogado como testemunha ou suspeito; quando indícios se tornam suficientes — a autoridade deve suspender o ato e constituir arguido imediatamente",
+    "para": "- **Art. 57.º CPP — qualidade de arguido:** assume-a todo aquele contra quem for deduzida acusação ou requerida instrução (n.º 1); antes disso, só pela constituição como arguido; distinção entre suspeito e arguido e consequências\n- **Art. 58.º CPP — constituição obrigatória:** declarações perante autoridade judiciária ou órgão de polícia criminal de pessoa determinada contra quem corre inquérito e sobre quem recai suspeita fundada, aplicação de medida de coação ou de garantia patrimonial, detenção de suspeito ou auto de notícia que lhe seja comunicado (n.º 1); formalidades: comunicação ao visado e indicação dos direitos e deveres processuais do arguido (n.º 2), comunicação à autoridade judiciária e validação, cada uma no prazo de 10 dias, quando feita por órgão de polícia criminal (n.º 4), entrega de documento com os direitos (n.º 5); a omissão ou violação destas formalidades impede a utilização das declarações como prova (n.º 7)\n- **Art. 59.º CPP — outros casos:** se, durante a inquirição de quem não é arguido, surgir fundada suspeita de crime por ele cometido, a entidade que procede ao ato suspende-o imediatamente e constitui-o arguido (n.º 1); o suspeito tem direito a ser constituído arguido, a seu pedido, quando estejam a ser efetuadas diligências destinadas a comprovar a imputação que pessoalmente o afetem (n.º 2)",
+    "motivo": "O art. 57.º, n.º 1, CPP liga a qualidade de arguido à acusação ou ao requerimento de instrução; a constituição obrigatória é a do art. 58.º, n.º 1, CPP e a constituição a pedido é a do art. 59.º, n.º 2, CPP.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=199&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "  - Al. a) presença nos atos processuais;\n  - Al. b) ser assistido por defensor;\n  - Al. c) ser informado dos factos imputados antes de prestar declarações;\n  - Al. d) direito ao silêncio, sem prejuízo do dever de identificação;\n  - Al. e) não ser obrigado a apresentar documentos que o incriminem;\n  - Al. f) ser informado dos direitos antes de prestar declarações",
+    "para": "  - Al. a) estar presente aos atos processuais que diretamente lhe disserem respeito;\n  - Al. c) ser informado dos factos imputados antes de prestar declarações perante qualquer entidade;\n  - Al. d) não responder a perguntas sobre os factos imputados e sobre o conteúdo das declarações que acerca deles prestar (direito ao silêncio), sem prejuízo do dever de responder com verdade sobre a sua identidade (n.º 6, al. b));\n  - Al. e) constituir advogado ou solicitar a nomeação de defensor;\n  - Al. f) ser assistido por defensor em todos os atos processuais em que participar e, quando detido, comunicar com ele em privado;\n  - Al. h) ser informado, pela autoridade judiciária ou pelo órgão de polícia criminal perante os quais seja obrigado a comparecer, dos direitos que lhe assistem;\n  - Não ser obrigado a contribuir para a própria incriminação (princípio *nemo tenetur se ipsum accusare*, sem alínea própria neste artigo)",
+    "motivo": "As alíneas do art. 61.º, n.º 1, CPP estavam mal letradas: a assistência por defensor é a al. f), a al. e) é constituir advogado e a informação dos direitos é a al. h); o nemo tenetur não tem alínea própria.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=199&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "(detenção, primeiro interrogatório judicial de arguido detido, etc.)",
+    "para": "(interrogatórios de arguido detido ou preso, interrogatórios feitos por autoridade judiciária, debate instrutório e audiência, entre outros — art. 64.º, n.º 1, CPP; o interrogatório de arguido em liberdade por órgão de polícia criminal não exige defensor, mas o arguido deve ser previamente informado de que tem direito a ser assistido por advogado — art. 144.º, n.º 4, CPP)",
+    "motivo": "O art. 64.º, n.º 1, CPP não prevê a «detenção» como caso de assistência obrigatória; prevê os interrogatórios de arguido detido ou preso e os feitos por autoridade judiciária.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=199&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- **Arts. 125.º e 126.º CPP — métodos proibidos de prova:** declarações prestadas sob coação, engano ou sem comunicação dos direitos são nulas de pleno direito; não podem ser utilizadas",
+    "para": "- **Arts. 125.º e 126.º CPP — métodos proibidos de prova:** declarações obtidas mediante tortura, coação, meios enganosos, ameaça ou promessa de vantagem legalmente inadmissível ou outra ofensa da integridade física ou moral são nulas e não podem ser utilizadas (art. 126.º, n.ºs 1 e 2, CPP)\n- **Art. 58.º, n.º 7, CPP — falta de constituição de arguido ou de comunicação dos direitos:** as declarações prestadas pela pessoa visada não podem ser utilizadas como prova (regime aplicável aos casos do art. 59.º CPP por força do seu n.º 4); não se trata de método proibido do art. 126.º CPP",
+    "motivo": "A falta de comunicação dos direitos tem consequência própria no art. 58.º, n.º 7, CPP e não integra os métodos proibidos do art. 126.º CPP.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=199A0126&nid=199&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Se há declarações prestadas sem assistência de defensor obrigatório: arguir nulidade (art. 64.º + 120.º CPP) ou inadmissibilidade da prova (art. 126.º CPP)",
+    "para": "- Se há declarações prestadas sem assistência de defensor obrigatório: invocar a nulidade insanável da ausência do defensor nos casos em que a lei exige a sua comparência (art. 119.º, al. c), CPP, em conjugação com o art. 64.º CPP), de conhecimento oficioso em qualquer fase do procedimento",
+    "motivo": "A ausência de defensor nos casos de assistência obrigatória é nulidade insanável do art. 119.º, al. c), CPP, não nulidade dependente de arguição do art. 120.º CPP nem método proibido do art. 126.º CPP.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=199A0119&nid=199&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Se os direitos não foram comunicados: arguir nulidade das declarações prestadas",
+    "para": "- Se o visado não foi constituído arguido quando devia ou os direitos não lhe foram comunicados: invocar que as declarações prestadas não podem ser utilizadas como prova (art. 58.º, n.º 7, CPP)",
+    "motivo": "A consequência legal é a proibição de utilização das declarações como prova (art. 58.º, n.º 7, CPP).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=199&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "O art. 57.º, n.º 1 do CPP define como arguido aquele sobre quem recair suspeita fundada de ter cometido ou participado em crime, a partir do momento em que for constituído como tal.\n\nA constituição de arguido é obrigatória, por força do art. 59.º, n.º 1 do CPP, quando:\na) Correr inquérito contra pessoa determinada;\nb) Qualquer suspeito for ouvido em ato em que a sua posição processual o exija.\nA partir do momento em que existiam indícios suficientes, a autoridade tinha o dever de constituir arguido e comunicar os direitos do art. 61.º CPP",
+    "para": "Nos termos do art. 57.º, n.º 1 do CPP, assume a qualidade de arguido todo aquele contra quem for deduzida acusação ou requerida instrução num processo penal; antes desse momento, a qualidade de arguido adquire-se pela constituição como tal (arts. 58.º e 59.º do CPP).\n\nA constituição de arguido é obrigatória, por força do art. 58.º, n.º 1, do CPP, logo que:\na) Correndo inquérito contra pessoa determinada em relação à qual haja suspeita fundada da prática de crime, esta preste declarações perante qualquer autoridade judiciária ou órgão de polícia criminal;\nb) Tenha de ser aplicada a qualquer pessoa uma medida de coação ou de garantia patrimonial;\nc) Um suspeito for detido; ou\nd) For levantado auto de notícia que dê uma pessoa como agente de um crime e aquele lhe for comunicado, salvo se a notícia for manifestamente infundada.\nAlém disso, se durante a inquirição de pessoa que não é arguido surgir fundada suspeita de crime por ela cometido, a entidade que procede ao ato deve suspendê-lo imediatamente (art. 59.º, n.º 1, do CPP). A partir do momento em que surgiu fundada suspeita, a autoridade tinha o dever de suspender o ato, constituir arguido e comunicar os direitos do art. 61.º CPP",
+    "motivo": "O art. 57.º, n.º 1, CPP não define o arguido pela suspeita fundada, e os casos de constituição obrigatória são os do art. 58.º, n.º 1, CPP; o critério do art. 59.º, n.º 1, CPP é a fundada suspeita, não os indícios suficientes.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=199&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "— Ser assistido por defensor (al. b)), em particular nos atos de interrogatório;\n— Ser informado dos factos imputados antes de qualquer declaração (al. c));\n— Guardar silêncio sem que isso possa ser valorado contra si (al. d));\n— Não ser obrigado a apresentar prova que o incrimine (al. e));\n— Ser informado de todos estes direitos antes de prestar declarações (al. f)).",
+    "para": "— Constituir advogado ou solicitar a nomeação de defensor (al. e)) e ser assistido por defensor em todos os atos processuais em que participar (al. f));\n— Ser informado dos factos imputados antes de prestar declarações perante qualquer entidade (al. c));\n— Não responder a perguntas sobre os factos imputados, sem que o silêncio possa ser valorado contra si (al. d));\n— Não ser obrigado a contribuir para a própria incriminação (princípio *nemo tenetur se ipsum accusare*, sem alínea própria);\n— Ser informado, pela autoridade judiciária ou pelo órgão de polícia criminal perante os quais seja obrigado a comparecer, dos direitos que lhe assistem (al. h)).",
+    "motivo": "Alíneas do art. 61.º, n.º 1, CPP corrigidas (defensor: al. f); informação dos direitos: al. h)).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=199&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "[Se o arguido foi ouvido como testemunha quando já havia indícios: as declarações prestadas antes da constituição são inadmissíveis como prova de acusação, por violação do direito ao silêncio]",
+    "para": "[Se o visado foi ouvido como testemunha quando já havia fundada suspeita contra ele: a entidade devia ter suspendido o ato e constituí-lo arguido (art. 59.º, n.º 1, CPP); as declarações prestadas sem essa constituição não podem ser utilizadas como prova (art. 58.º, n.º 7, CPP, aplicável por força do art. 59.º, n.º 4, CPP)]",
+    "motivo": "O fundamento legal da inutilizabilidade é o art. 58.º, n.º 7, CPP, aplicável por remissão do art. 59.º, n.º 4, CPP.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=199&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "[Se se tratava de caso de defensor obrigatório: as declarações prestadas sem defensor são nulas — art. 120.º, n.º 2, al. d) CPP; arguir no prazo legal]",
+    "para": "[Se se tratava de caso de defensor obrigatório (art. 64.º, n.º 1, CPP): a ausência do defensor constitui nulidade insanável, de conhecimento oficioso em qualquer fase do procedimento — art. 119.º, al. c), CPP — que torna inválido o ato e os que dele dependerem (art. 122.º, n.º 1, CPP)]",
+    "motivo": "O art. 120.º, n.º 2, al. d), CPP respeita à insuficiência do inquérito ou da instrução; a ausência do defensor obrigatório é nulidade insanável do art. 119.º, al. c), CPP, que não depende de arguição em prazo.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=199A0119&nid=199&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "não foram comunicados antes das declarações: invocar art. 126.º CPP — método proibido de prova; declarações nulas de pleno direito]",
+    "para": "não foram comunicados antes das declarações: as declarações não podem ser utilizadas como prova (art. 58.º, n.º 7, CPP); o art. 126.º CPP só releva se tiver havido coação, engano ou outro método aí previsto]",
+    "motivo": "A falta de comunicação dos direitos é sancionada pelo art. 58.º, n.º 7, CPP, não pelo art. 126.º CPP.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=199&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "— O silêncio não pode ser valorado pelo tribunal como indício de culpa;",
+    "para": "— O silêncio não pode ser valorado pelo tribunal como indício de culpa;\n— As declarações que o arguido preste perante autoridade judiciária, assistido por defensor e depois de advertido nos termos do art. 141.º, n.º 4, al. b), CPP, podem ser lidas em julgamento, mesmo que aí se remeta ao silêncio (art. 357.º, n.º 1, al. b), CPP);",
+    "motivo": "Omissão relevante para a recomendação ao arguido: as declarações prestadas perante autoridade judiciária com defensor e advertência podem ser lidas em audiência (art. 357.º, n.º 1, al. b), CPP, na redação em vigor após a Lei n.º 34/2026).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=199A0357&nid=199&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "devendo ser arguida a nulidade no prazo de [■ VERIFICAR prazo — art. 120.º e 105.º CPP].",
+    "para": "devendo ser invocada a nulidade insanável (art. 119.º CPP, a todo o tempo) ou a proibição de utilização das declarações (art. 58.º, n.º 7, CPP), ou arguida a nulidade dependente de arguição no prazo de [■ VERIFICAR prazo — art. 120.º e 105.º CPP].",
+    "motivo": "Nem todos os vícios estão sujeitos ao prazo de arguição: a nulidade insanável é de conhecimento oficioso e a proibição de utilização do art. 58.º, n.º 7, CPP tem regime próprio.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=199A0119&nid=199&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar, no caso concreto, se a falta de constituição de arguido ou de comunicação dos direitos ocorreu perante autoridade judiciária ou órgão de polícia criminal, e se houve validação nos termos do art. 58.º, n.º 4, CPP.",
+   "Verificar a jurisprudência sobre o regime de arguição da proibição de utilização do art. 58.º, n.º 7, CPP e sobre o efeito à distância nas provas dependentes.",
+   "O art. 120.º CPP foi alterado pela Lei n.º 34/2026 (novo n.º 4, sobre o conhecimento das nulidades na instrução); confirmar o prazo de arguição aplicável à fase do processo.",
+   "Confirmar se o arguido se enquadra em alguma das situações do art. 64.º, n.º 1, al. d), CPP (p. ex., menor de 21 anos ou desconhecedor da língua portuguesa), que tornam obrigatória a assistência em qualquer ato."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=199&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=199A0105&nid=199&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=199A0119&nid=199&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=199A0120&nid=199&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=199A0122&nid=199&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=199A0125&nid=199&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=199A0126&nid=199&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=199A0141&nid=199&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=199A0144&nid=199&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=199A0357&nid=199&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+  ]
+ },
+ {
+  "codigo": "PEN-039",
+  "veredicto": "corrigida",
+  "resumo": "A ficha dava ao branqueamento uma moldura de «2 a 12 anos» (é prisão até 12 anos, art. 368.º-A, n.ºs 3 a 5, CP), uma «modalidade qualificada» no n.º 4 por atividade financeira e por valor elevado (o n.º 4 é a ocultação ou dissimulação; a única agravação é a de um terço do n.º 8) e aplicava os valores do art. 202.º CP, que não relevam neste tipo. Situava as condutas no n.º 2 (que define vantagens) e tratava o autobranqueamento como questão em aberto, quando o n.º 3 pune expressamente as vantagens obtidas «por si». Corrigiu-se o tipo, a moldura e a agravação, e acrescentaram-se o limite do n.º 12 e as atenuações especiais dos n.ºs 9 a 11.",
+  "substituicoes": [
+   {
+    "de": "- Identificação dos atos imputados (conversão, transferência, dissimulação, aquisição — art. 368.º-A, n.º 2, CP)",
+    "para": "- Identificação dos atos imputados: conversão ou transferência de vantagens com o fim de dissimular a sua origem ilícita ou de evitar a perseguição criminal do autor do facto de origem (art. 368.º-A, n.º 3, CP), ocultação ou dissimulação da sua natureza, origem, localização, movimentação ou titularidade (n.º 4) ou aquisição, detenção ou utilização por quem não é autor do facto de origem (n.º 5)",
+    "motivo": "As condutas típicas estão nos n.ºs 3 a 5 do art. 368.º-A CP; o n.º 2 apenas define como vantagens os bens obtidos através das vantagens.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=109A0368A&nid=109&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Modalidade qualificada (art. 368.º-A, n.º 4, CP): exercício de atividade financeira; valor elevado ou consideravelmente elevado\n- Moldura penal: 2 a 12 anos de prisão (forma simples); agravada se qualificada",
+    "para": "- Agravação (art. 368.º-A, n.º 8, CP): a pena é agravada em um terço se o agente praticar as condutas de forma habitual ou se for uma entidade obrigada nos termos da Lei n.º 83/2017, de 18 de agosto, e a infração tiver sido cometida no exercício das suas atividades profissionais; a lei não prevê qualificação em função do valor\n- Moldura penal: prisão até 12 anos (art. 368.º-A, n.ºs 3 a 5, CP), agravada em um terço nos casos do n.º 8; a pena aplicada não pode ser superior ao limite máximo da pena mais elevada prevista para os factos ilícitos típicos de onde provêm as vantagens (n.º 12)\n- Atenuação especial: reparação integral do dano causado ao ofendido pelo facto de origem até ao início da audiência de julgamento em 1.ª instância (n.º 9; facultativa se a reparação for parcial — n.º 10) ou auxílio concreto na recolha das provas decisivas para a identificação ou captura dos responsáveis pelo facto de origem (n.º 11)",
+    "motivo": "A moldura é prisão até 12 anos (sem mínimo de 2 anos); o n.º 4 tipifica a ocultação ou dissimulação, e a única agravação é a de um terço do n.º 8; o valor das vantagens não qualifica o crime.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=109A0368A&nid=109&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Crime precedente não provado ou não identificado na acusação: vício que afeta o tipo legal",
+    "para": "- Facto ilícito típico de origem não provado, não identificado na acusação ou fora do catálogo do art. 368.º-A, n.º 1, CP: vício que afeta o tipo legal (a lei basta-se com o facto ilícito típico, e a punição tem lugar ainda que se ignore o local da sua prática ou a identidade dos autores — n.º 6 — ou que falte a queixa de que dependa — n.º 7)",
+    "motivo": "O art. 368.º-A, n.ºs 1, 6 e 7, CP exige um facto ilícito típico do catálogo, mas dispensa o conhecimento do local ou dos autores e a queixa; a defesa deve ter estes limites presentes.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=109A0368A&nid=109&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Auto-branqueamento: discussão sobre se o arguido principal pode ser autor do branqueamento dos próprios proventos",
+    "para": "- Autobranqueamento: a lei pune a conversão ou transferência de vantagens «obtidas por si ou por terceiro» (art. 368.º-A, n.º 3, CP); só a aquisição, detenção ou utilização (n.º 5) exclui o autor do facto de origem — avaliar o fim de dissimulação exigido e o concurso com o facto de origem [■ VERIFICAR jurisprudência aplicável]",
+    "motivo": "O autobranqueamento é expressamente punível nas condutas do n.º 3 do art. 368.º-A CP; só o n.º 5 exclui o autor do facto de origem.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=109A0368A&nid=109&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Modalidade qualificada avaliada (valor elevado: superior a €5.100; consideravelmente elevado: superior a €20.400 — cfr. art. 202.º CP ex vi art. 368.º-A CP)",
+    "para": "- [ ] Agravação do n.º 8 avaliada (habitualidade ou entidade obrigada pela Lei n.º 83/2017) e limite do n.º 12 aplicado (art. 368.º-A CP); o valor das vantagens não qualifica o crime",
+    "motivo": "Os conceitos de valor elevado e consideravelmente elevado do art. 202.º CP não se aplicam ao branqueamento, que não tem remissão para eles.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=109A0368A&nid=109&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Profissão: [indicar — relevante para modalidade qualificada]",
+    "para": "- Profissão: [indicar — relevante para a agravação do art. 368.º-A, n.º 8, CP (entidade obrigada pela Lei n.º 83/2017)]",
+    "motivo": "A profissão releva para a agravação do n.º 8, não para uma «modalidade qualificada».",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=109A0368A&nid=109&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar se o arguido é entidade obrigada nos termos dos arts. 3.º ou 4.º da Lei n.º 83/2017 e se atuou no exercício da atividade profissional (agravação do art. 368.º-A, n.º 8, CP).",
+   "Verificar a jurisprudência do STJ sobre o autobranqueamento e o concurso com o facto de origem, e sobre a prova do facto ilícito típico de origem.",
+   "Confirmar o limite máximo da pena do facto de origem (art. 368.º-A, n.º 12, CP), que pode reduzir a pena aplicável."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=109A0368A&nid=109&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=199A0202&nid=199&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=109&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+  ]
+ },
+ {
+  "codigo": "PEN-041",
+  "veredicto": "corrigida",
+  "resumo": "O modelo de requerimento dirigia-o ao «tribunal de execução de penas / tribunal da condenação mais grave», em contradição com o art. 471.º CPP, que atribui o cúmulo por conhecimento superveniente ao tribunal coletivo ou singular, conforme os casos, sendo territorialmente competente o tribunal da última condenação. Os momentos da liberdade condicional remetiam só para o CEPMPL, quando constam do art. 61.º CP (metade, dois terços e cinco sextos), e a memória de cálculo tomava a «pena máxima do crime mais grave» em vez da pena parcelar concreta mais elevada (art. 77.º, n.º 2, CP). Corrigiram-se os três pontos.",
+  "substituicoes": [
+   {
+    "de": "**Ao Meritíssimo Juiz do [tribunal de execução de penas / tribunal da condenação mais grave]**\n**Processo n.º:** [número — pode ser o do processo onde foi decretada a pena mais grave]",
+    "para": "**Ao Meritíssimo Juiz do [tribunal da última condenação — art. 471.º, n.º 2, CPP; tribunal coletivo ou singular, conforme os casos — art. 471.º, n.º 1, CPP]**\n**Processo n.º:** [número — o do processo da última condenação]",
+    "motivo": "No conhecimento superveniente do concurso é competente o tribunal coletivo ou singular, conforme os casos, sendo territorialmente competente o tribunal da última condenação (art. 471.º CPP); não o tribunal de execução das penas nem o da condenação mais grave.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=199A0471&nid=199&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Pena máxima do crime mais grave: [valor]",
+    "para": "- Pena parcelar concreta mais elevada: [valor]",
+    "motivo": "O limite mínimo da pena única é a mais elevada das penas concretamente aplicadas, não a pena máxima abstrata do crime mais grave (art. 77.º, n.º 2, CP).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=109&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Data prevista de liberdade condicional com pena única (metade, dois terços — CEPMPL)",
+    "para": "- Data prevista de liberdade condicional com pena única: metade da pena e no mínimo seis meses (art. 61.º, n.º 2, CP), dois terços e no mínimo seis meses (art. 61.º, n.º 3, CP) e, na pena superior a seis anos, cinco sextos (art. 61.º, n.º 4, CP); depende do consentimento do condenado (art. 61.º, n.º 1, CP) e é decidida pelo tribunal de execução das penas, nos termos do CEPMPL",
+    "motivo": "Os momentos da liberdade condicional constam do art. 61.º CP, incluindo os cinco sextos nas penas superiores a seis anos; o CEPMPL regula apenas a tramitação.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=109&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Identificar qual é a «última condenação» para efeitos de competência territorial (art. 471.º, n.º 2, CPP) e a composição do tribunal (coletivo ou singular) segundo o art. 14.º, n.º 2, al. b), CPP.",
+   "Confirmar o tratamento de penas suspensas, substituídas ou já extintas no cúmulo, segundo a jurisprudência atual do STJ.",
+   "O desconto das penas já cumpridas resulta do art. 78.º, n.º 1, CP; a detenção, a prisão preventiva e a obrigação de permanência na habitação descontam-se nos termos do art. 80.º CP."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=199A0471&nid=199&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=109&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+  ]
+ },
+ {
+  "codigo": "PEN-043",
+  "veredicto": "corrigida",
+  "resumo": "A ficha usava €15.000 como critério de qualificação da fraude (é o limiar de punibilidade da fraude simples, art. 103.º, n.º 2, RGIT; a qualificação exige acumulação de circunstâncias, faturas falsas ou vantagem superior a €50.000, art. 104.º RGIT) e incluía a «organização criminosa», que é crime autónomo. Invocava um inexistente art. 107.º, n.º 4, RGIT para afirmar que o pagamento antes da decisão de 1.ª instância extingue a responsabilidade no abuso de confiança: só o pagamento nos 30 dias após a notificação do art. 105.º, n.º 4, al. b), RGIT afasta a punibilidade, e o posterior dá atenuação especial (art. 22.º, n.º 2, RGIT). Acrescentou-se o limiar de €7.500 do abuso de confiança, o prazo de 90 dias, e corrigiu-se o âmbito da suspensão do art. 47.º RGIT (impugnação judicial ou oposição à execução). A descrição do índice citava a fraude na obtenção de subsídio como «art. 36.º RGIT», que é a detenção em flagrante delito.",
+  "descricao": "Elabora a defesa completa do arguido em processo penal por crimes fiscais previstos no Regime Geral das Infrações Tributárias (RGIT — Lei n.º 15/2001, de 5 de junho): fraude fiscal simples e qualificada (arts. 103.º e 104.º RGIT) e abuso de confiança fiscal (art. 105.º RGIT), articulando com os efeitos do pagamento da prestação tributária (não punibilidade do abuso de confiança, atenuação especial da pena) e com a suspensão do processo penal tributário.",
+  "descricao_en": "Prepares the full defence of an accused in criminal proceedings for tax offences under the General Regime for Tax Offences (RGIT — Law No. 15/2001 of 5 June): simple and aggravated tax fraud (Articles 103 and 104 RGIT) and tax breach of trust (Article 105 RGIT), together with the effects of paying the tax due (non-punishability of tax breach of trust, special mitigation of the penalty) and the stay of the tax criminal proceedings.",
+  "substituicoes": [
+   {
+    "de": "- Para abuso de confiança: prestação tributária não entregue (IVA retido, IRS retido na fonte)",
+    "para": "- Para abuso de confiança: prestação tributária deduzida ou recebida, de valor superior a €7.500 por declaração (art. 105.º, n.ºs 1, 2 e 7, RGIT), não entregue (IVA liquidado e recebido, IRS retido na fonte)",
+    "motivo": "O abuso de confiança fiscal só é punível se a prestação não entregue for de valor superior a €7.500, aferido por declaração (art. 105.º, n.ºs 1 e 7, RGIT).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=259A0105&nid=259&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Qualificação (art. 104.º RGIT): vantagem superior a €15.000; uso de fatura falsa; organização criminosa",
+    "para": "- Qualificação (art. 104.º RGIT): acumulação de mais de uma das circunstâncias do n.º 1, utilização de faturas ou documentos equivalentes por operações inexistentes ou por valores diferentes, ou com intervenção de pessoas diversas das da operação subjacente, ou vantagem patrimonial superior a €50.000 (n.º 2) — prisão de 1 a 5 anos; vantagem superior a €200.000 — prisão de 2 a 8 anos (n.º 3). O valor de €15.000 é o limiar de punibilidade da fraude simples (art. 103.º, n.º 2, RGIT); a associação criminosa é crime autónomo (art. 89.º RGIT)",
+    "motivo": "€15.000 é o limiar de punibilidade da fraude simples; a fraude qualificada exige acumulação de circunstâncias do n.º 1, faturas falsas ou vantagem superior a €50.000, e a organização criminosa não é circunstância qualificativa do art. 104.º RGIT.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=259A0104&nid=259&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Pagamento extintivo: requisitos do art. 22.º RGIT e art. 107.º, n.º 4, RGIT (pagamento antes da decisão de 1.ª instância extingue responsabilidade no abuso de confiança)",
+    "para": "- Pagamento (art. 22.º RGIT e art. 105.º, n.º 4, al. b), RGIT): no abuso de confiança, o pagamento da prestação declarada, acrescida dos juros e da coima, no prazo de 30 dias após a notificação para o efeito afasta a punibilidade; o pagamento posterior não extingue a responsabilidade criminal, mas a pena é especialmente atenuada se o agente repuser a verdade fiscal e pagar até à decisão final ou no prazo nela fixado (art. 22.º, n.º 2, RGIT); a dispensa de pena (art. 22.º, n.º 1, RGIT) só cabe em crimes puníveis com prisão até 2 anos e com pagamento até à acusação, o que exclui a fraude e o abuso de confiança (prisão até três anos); a suspensão da execução da pena de prisão fica sempre condicionada ao pagamento (art. 14.º RGIT)",
+    "motivo": "O art. 107.º RGIT (abuso de confiança contra a segurança social) só tem dois números; no abuso de confiança fiscal, o pagamento só afasta a punibilidade no prazo do art. 105.º, n.º 4, al. b), RGIT, e o pagamento posterior dá atenuação especial (art. 22.º, n.º 2, RGIT).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=259A0107&nid=259&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Atipicidade: falta de algum elemento do tipo (ex: ausência de notificação prévia no abuso de confiança — art. 105.º, n.º 4, RGIT)",
+    "para": "- Atipicidade ou falta de condição de punibilidade: falta de algum elemento do tipo; vantagem inferior a €15.000 na fraude (art. 103.º, n.º 2, RGIT) ou prestação não superior a €7.500 por declaração no abuso de confiança (art. 105.º, n.ºs 1 e 7, RGIT); no abuso de confiança, não decurso de mais de 90 dias sobre o termo do prazo legal de entrega ou falta de notificação para pagamento em 30 dias (condições de punibilidade — art. 105.º, n.º 4, RGIT)",
+    "motivo": "A notificação do art. 105.º, n.º 4, RGIT é condição de punibilidade, não elemento do tipo, e a ficha omitia o prazo de 90 dias e os limiares de €15.000 e €7.500.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=259A0105&nid=259&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "[Se aplicável: impugnação judicial ou administrativa pendente; pedido de suspensão ao abrigo do art. 47.º RGIT]",
+    "para": "[Se aplicável: impugnação judicial ou oposição à execução em que se discuta a situação tributária de que depende a qualificação criminal dos factos, pendente; pedido de suspensão ao abrigo do art. 47.º RGIT (a reclamação graciosa não suspende o processo penal)]",
+    "motivo": "O art. 47.º RGIT só suspende o processo penal tributário perante impugnação judicial ou oposição à execução em que se discuta a situação tributária de que depende a qualificação criminal.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=259&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "[Art. 105.º, n.º 4, RGIT: a punição pressupõe notificação para pagamento em 30 dias]",
+    "para": "[Art. 105.º, n.º 4, RGIT: a punição pressupõe o decurso de mais de 90 dias sobre o termo do prazo legal de entrega (al. a)) e, sendo a prestação comunicada à administração tributária através da declaração, a falta do seu pagamento, acrescida dos juros e da coima, no prazo de 30 dias após notificação para o efeito (al. b))]",
+    "motivo": "O art. 105.º, n.º 4, RGIT tem duas condições cumulativas (90 dias e falta de pagamento após notificação), e a da al. b) respeita à prestação declarada.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=259A0105&nid=259&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "**IV — Do Pagamento Extintivo**\n[Documentação do pagamento da dívida tributária, juros e coima; pedido de extinção da responsabilidade]",
+    "para": "**IV — Do Pagamento**\n[Documentação do pagamento da prestação tributária, juros e coima: feito no prazo de 30 dias após a notificação do art. 105.º, n.º 4, al. b), RGIT, afasta a punibilidade do abuso de confiança (pedido de arquivamento ou absolvição); feito depois, até à decisão final ou no prazo nela fixado, com reposição da verdade fiscal, fundamenta o pedido de atenuação especial da pena (art. 22.º, n.º 2, RGIT)]",
+    "motivo": "O RGIT não prevê extinção da responsabilidade criminal pelo pagamento a todo o tempo; distinguem-se a não punibilidade do art. 105.º, n.º 4, al. b) e a atenuação especial do art. 22.º, n.º 2.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=259&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- [ ] Valor da vantagem calculado e qualificação verificada (€15.000)\n- [ ] Possibilidade de pagamento extintivo avaliada\n- [ ] Impugnação administrativa ou judicial da liquidação verificada (art. 47.º RGIT)",
+    "para": "- [ ] Valor da vantagem ou da prestação calculado por declaração e limiares verificados (fraude: €15.000 para a punibilidade, €50.000 e €200.000 para a qualificação; abuso de confiança: €7.500 para a punibilidade, €50.000 para a agravação — art. 105.º, n.º 5, RGIT)\n- [ ] Efeitos do pagamento avaliados (não punibilidade, atenuação especial, condição da suspensão da pena)\n- [ ] Pendência de impugnação judicial ou de oposição à execução (a reclamação graciosa não suspende): discussão administrativa ou judicial da liquidação verificada (art. 47.º RGIT)",
+    "motivo": "€15.000 não é limiar de qualificação; os limiares corretos estão nos arts. 103.º, 104.º e 105.º RGIT, e só a impugnação judicial ou a oposição à execução suspendem o processo (art. 47.º RGIT).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=259A0104&nid=259&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "O RGIT foi alterado pela Lei n.º 26/2026; os arts. 103.º, 104.º, 105.º, 107.º e 22.º não constam como alterados na PGDL, mas convém confirmar a versão em vigor à data dos factos.",
+   "Confirmar, na jurisprudência atual, se a notificação do art. 105.º, n.º 4, al. b), RGIT é exigível quando a prestação não foi declarada.",
+   "Verificar o prazo de prescrição aplicável à fraude qualificada (art. 21.º, n.º 2, RGIT remete para o Código Penal quando o limite máximo da pena é igual ou superior a cinco anos).",
+   "Se estiverem em causa contribuições à segurança social, aplicar o art. 107.º RGIT (que remete para os n.ºs 1, 4, 5 e 7 do art. 105.º RGIT)."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=259&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=259A0103&nid=259&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=259A0104&nid=259&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=259A0105&nid=259&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=259A0107&nid=259&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+  ]
+ },
+ {
+  "codigo": "PEN-044",
+  "veredicto": "corrigida",
+  "resumo": "A ficha excluía genericamente as «pessoas coletivas de direito público» (o art. 11.º, n.º 2, CP exclui o Estado, as pessoas coletivas no exercício de prerrogativas de poder público e as organizações de direito internacional público), descrevia o agente como «trabalhador com autonomia» e omitia a exclusão do n.º 6 (atuação contra ordens expressas). A multa indicada («10 a 360 dias») é a das pessoas singulares: para as coletivas, os limites resultam da conversão de um mês de prisão em 10 dias de multa (art. 90.º-B CP); a lista de penas misturava penas principais, acessórias e uma inexistente «suspensão de atividade», e o pedido de «suspensão da pena» não tem base nas penas das pessoas coletivas. Corrigiu-se o regime, acrescentou-se a atenuação especial por programa de cumprimento normativo (art. 90.º-A, n.º 4, CP) e atualizou-se a descrição do índice, que indicava a redação da Lei n.º 59/2007.",
+  "descricao": "Elabora requerimento ou defesa relativamente à responsabilidade penal de pessoas coletivas ao abrigo do art. 11.º do Código Penal português (introduzida pela Lei n.º 59/2007, na redação atual dada pela Lei n.º 94/2021), incluindo os pressupostos de imputação, as penas aplicáveis às pessoas coletivas (art. 90.º-A e ss. CP) e a articulação com a responsabilidade individual dos representantes e órgãos.",
+  "descricao_en": "Prepares an application or defence concerning the criminal liability of legal persons under Article 11 of the Portuguese Criminal Code (introduced by Law No. 59/2007, as currently worded by Law No. 94/2021), including the requirements for attribution, the penalties applicable to legal persons (Articles 90-A et seq. CP) and the interplay with the individual liability of representatives and corporate bodies.",
+  "substituicoes": [
+   {
+    "de": "- Exclusões: Estado, pessoas coletivas de direito público (art. 11.º, n.º 2, ressalva)",
+    "para": "- Exclusões: o Estado, as pessoas coletivas no exercício de prerrogativas de poder público e as organizações de direito internacional público (art. 11.º, n.º 2, CP); a responsabilidade é também excluída quando o agente tiver atuado contra ordens ou instruções expressas de quem de direito (art. 11.º, n.º 6, CP)",
+    "motivo": "O art. 11.º, n.º 2, CP não exclui todas as pessoas coletivas de direito público, só as que atuem no exercício de prerrogativas de poder público; a ficha omitia a exclusão do n.º 6.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=109&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Agente do crime: representante, membro dos órgãos, trabalhador com autonomia (art. 11.º, n.º 2, als. a) e b), CP)\n- Condição: crime praticado em nome e no interesse da pessoa coletiva\n- Nexo causal: violação de deveres de vigilância ou controlo pela pessoa coletiva (art. 11.º, n.º 2, al. b), CP)",
+    "para": "- Agente do crime: quem ocupe uma posição de liderança — os órgãos e representantes e quem tenha autoridade para exercer o controlo da atividade, incluindo os membros não executivos do órgão de administração e os membros do órgão de fiscalização (art. 11.º, n.º 4, CP) — ou quem atue sob a autoridade destes (art. 11.º, n.º 2, als. a) e b), CP)\n- Condição: crime praticado em nome ou por conta da pessoa coletiva e no seu interesse direto ou indireto\n- Nexo de imputação: no caso de quem atua sob a autoridade de outrem, violação dos deveres de vigilância ou controlo que incumbem a quem ocupa posição de liderança (art. 11.º, n.º 2, al. b), CP)",
+    "motivo": "O art. 11.º, n.ºs 2 e 4, CP imputa o crime a quem ocupe posição de liderança ou a quem atue sob a sua autoridade, por violação dos deveres de vigilância ou controlo destes; não a qualquer «trabalhador com autonomia».",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=109&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "(corrupção, tráfico de influência, fraude, branqueamento, crimes ambientais, etc.)\n- Penas aplicáveis à pessoa coletiva (arts. 90.º-A e ss. CP): multa, dissolução, encerramento de estabelecimento, suspensão de atividade, interdição de exercer atividade, publicação da sentença\n- Critério de determinação da multa: 10 a 360 dias; valor do dia-multa: €100 a €10.000 (art. 90.º-B CP)",
+    "para": "(ex.: tráfico de influência, burla, branqueamento, corrupção, crimes contra o ambiente) e crimes de legislação avulsa que o prevejam (ex.: art. 7.º RGIT)\n- Penas aplicáveis à pessoa coletiva (arts. 90.º-A e ss. CP): penas principais de multa ou de dissolução (n.º 1); penas de substituição da multa — admoestação, caução de boa conduta e vigilância judiciária (n.º 3); penas acessórias — injunção judiciária, interdição do exercício de atividade, proibição de celebrar certos contratos, privação do direito a subsídios, subvenções ou incentivos, encerramento de estabelecimento e publicidade da decisão condenatória (n.º 2)\n- Programa de cumprimento normativo adequado, adotado e implementado antes do crime: atenuação especial da pena (art. 90.º-A, n.º 4, CP), com relevo também na aplicação da pena acessória e na substituição da multa (n.ºs 5 e 6); se adotado depois do crime e até à audiência, pode ser considerado na fixação dos dias de multa (art. 90.º-B, n.º 4, CP)\n- Determinação da multa: limites fixados por referência à pena de prisão prevista para as pessoas singulares, correspondendo um mês de prisão a 10 dias de multa (ou os mesmos dias de multa, se a pena prevista for de multa); valor do dia-multa: €100 a €10.000 (art. 90.º-B CP)",
+    "motivo": "Os limites de 10 a 360 dias são os das pessoas singulares; para as pessoas coletivas, um mês de prisão corresponde a 10 dias de multa (art. 90.º-B, n.ºs 1 a 3, CP). A «suspensão de atividade» não é pena prevista, e a lista misturava penas principais e acessórias (art. 90.º-A CP, na redação da Lei n.º 94/2021).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=109&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "[O crime é exclusivamente imputável ao agente individual; a pessoa coletiva é vítima do comportamento do seu representante]",
+    "para": "[O agente atuou contra ordens ou instruções expressas de quem de direito (art. 11.º, n.º 6, CP), ou fora do quadro em que age em nome ou por conta da pessoa coletiva e no seu interesse; a pessoa coletiva é vítima do comportamento do seu representante. Atenção: a responsabilidade da pessoa coletiva não depende da responsabilização do agente individual (art. 11.º, n.º 7, CP)]",
+    "motivo": "A exclusão legal da responsabilidade da pessoa coletiva por atuação do agente é a do art. 11.º, n.º 6, CP; e o n.º 7 impede o argumento de que a responsabilidade depende da do agente individual.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=109&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "[Absolvição / atenuação especial / suspensão da pena]",
+    "para": "[Absolvição / atenuação especial (art. 90.º-A, n.º 4, CP) / substituição da multa por admoestação, caução de boa conduta ou vigilância judiciária (art. 90.º-A, n.º 3, CP); a suspensão da execução prevista no art. 50.º CP respeita à pena de prisão, que não se aplica às pessoas coletivas]",
+    "motivo": "Às pessoas coletivas aplicam-se multa ou dissolução e, em alternativa à multa, as penas de substituição do art. 90.º-A, n.º 3, CP; a suspensão da execução do art. 50.º CP é da pena de prisão.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=109&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar se o crime imputado consta do catálogo do art. 11.º, n.º 2, CP na redação em vigor à data dos factos, ou de legislação avulsa que preveja a responsabilidade da pessoa coletiva.",
+   "Calcular os limites da multa pela conversão do art. 90.º-B, n.º 2, CP a partir da moldura do crime imputado.",
+   "Documentar a data de adoção e a execução efetiva do programa de cumprimento normativo, pois os efeitos diferem consoante seja anterior (art. 90.º-A, n.º 4, CP) ou posterior ao crime (art. 90.º-B, n.º 4, CP)."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=109&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=259&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+  ]
+ }
+]

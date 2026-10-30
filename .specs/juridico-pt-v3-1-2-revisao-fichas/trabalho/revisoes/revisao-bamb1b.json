@@ -1,0 +1,260 @@
+[
+  {
+    "codigo": "AMB-018",
+    "veredicto": "corrigida",
+    "resumo": "A ficha chamava «RJAR» ao DL 15/2022, que regula a organização e o funcionamento do Sistema Elétrico Nacional, e deixava em aberto se o DL 153/2014 e o DL 162/2019 vigoravam: o primeiro foi revogado pelo art. 31.º do DL 162/2019 e este pelo art. 305.º, al. n), do DL 15/2022. A distinção entre autoconsumo coletivo e CER assentava num critério errado (mesmo edifício sem RESP vs. vários edifícios através da RESP) e exigia um «algoritmo de partilha aprovado pela ERSE». Corrigiu-se pelo DL 15/2022: o autoconsumo coletivo pode operar através da RESP dentro da proximidade do art. 83.º, a CER distingue-se por ser pessoa coletiva autónoma com os requisitos do art. 189.º, n.º 1, e o modo de partilha é definido pelos membros e comunicado ao operador de rede (art. 87.º).",
+    "substituicoes": [
+      {
+        "de": "- Base legal: DL n.º 15/2022 (RJAR) e legislação complementar; DL n.º 153/2014 alterado DL 162/2019 [■ VERIFICAR se revogados/substituídos pelo DL 15/2022]; Regulamentos ERSE sobre CER [■ VERIFICAR regulamento específico]",
+        "para": "- Base legal: DL n.º 15/2022 (organização e funcionamento do Sistema Elétrico Nacional), na redação atual (última alteração pelo DL n.º 130/2026, de 29 de junho), e legislação complementar; o DL n.º 153/2014 foi revogado pelo DL n.º 162/2019 (art. 31.º), por sua vez revogado pelo DL n.º 15/2022 (art. 305.º, al. n)); Regulamento do Autoconsumo da ERSE (Regulamento n.º 815/2023)",
+        "motivo": "O DL 15/2022 não é um «RJAR» e os DL 153/2014 e 162/2019 estão revogados; o regulamento da ERSE é o Regulamento do Autoconsumo.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?ficha=301&artigo_id=&nid=3536&pagina=4&tabela=leis&nversao=&so_miolo=&"
+      },
+      {
+        "de": "- Tipo de projeto: UPAC individual / UPAC coletivo (mesmo edifício) / CER (vários edifícios/propriedades)\n- Partes envolvidas: particulares / empresas / autarquias / IPSS / condomínio\n- Localização: critério de proximidade (rede partilhada) — requisito legal para CER",
+        "para": "- Tipo de projeto: autoconsumo individual / autoconsumo coletivo (uma ou mais instalações de utilização, com UPAC próximas, ligadas por rede interna, linha direta e/ou RESP) / CER (pessoa coletiva autónoma)\n- Partes envolvidas: particulares / empresas / autarquias / IPSS / condomínio\n- Localização: critério de proximidade — requisito legal do autoconsumo, individual ou coletivo, e da CER (arts. 83.º e 189.º, n.º 1, al. a), DL 15/2022)",
+        "motivo": "O autoconsumo coletivo não se limita ao mesmo edifício e a proximidade é requisito de todo o autoconsumo, não só da CER.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3536&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- DL n.º 15/2022 — regime UPAC e CER [■ VERIFICAR artigos específicos em vigor]\n- DL n.º 153/2014 (UPAC) — regime de base ainda relevante? [■ VERIFICAR status após DL 15/2022]\n- Requisito de proximidade para CER: definição legal e critério de rede [■ VERIFICAR regulamento ERSE]",
+        "para": "- DL n.º 15/2022 — controlo prévio das UPAC e titular do título (arts. 11.º e 81.º), autoconsumo coletivo, regulamento interno e EGAC (art. 86.º), partilha de energia (art. 87.º), CER (arts. 189.º e 190.º) e comunidades de cidadãos para a energia (art. 191.º)\n- DL n.º 153/2014 — revogado; só releva para a conversão em UPAC das unidades de pequena produção registadas ao seu abrigo (art. 277.º DL 15/2022)\n- Requisito de proximidade: art. 83.º DL 15/2022 (linha direta ou rede interna ou, através da RESP, distância máxima à UPAC principal ou ligação à mesma subestação, conforme o nível de tensão; distâncias em dobro nos territórios de baixa densidade)",
+        "motivo": "Os artigos estão identificados no DL 15/2022; o DL 153/2014 está revogado; a proximidade é definida no art. 83.º do DL 15/2022, não em regulamento da ERSE.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?ficha=101&artigo_id=&nid=3536&pagina=2&tabela=leis&nversao=&so_miolo=&"
+      },
+      {
+        "de": "- Regras de partilha de energia: algoritmo de repartição [■ VERIFICAR regulamento ERSE]",
+        "para": "- Regras de partilha de energia: modo de partilha (coeficientes fixos ou variáveis, ou gestão dinâmica) comunicado ao operador de rede; na falta de comunicação, rateio pelo consumo medido (arts. 87.º e 189.º, n.º 7, DL 15/2022; Regulamento do Autoconsumo da ERSE)",
+        "motivo": "O modo de partilha está regulado no art. 87.º do DL 15/2022 e no Regulamento do Autoconsumo da ERSE.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3536&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "III.1 — Distinção: UPAC Coletivo vs. Comunidade de Energia Renovável\n\nUPAC Coletivo: produção e consumo no mesmo edifício ou instalação;\npartilha interna sem necessidade de RESP\n\nCER: produção num local, consumo noutro(s); ligação através da RESP;\nexige registo da CER e algoritmo de partilha aprovado pela ERSE [■ VERIFICAR]",
+        "para": "III.1 — Distinção: Autoconsumo Coletivo vs. Comunidade de Energia Renovável\n\nAutoconsumo coletivo (ACC): autoconsumidores de uma ou mais instalações de utilização, com a(s) UPAC nessas instalações ou na sua proximidade, ligadas por rede interna, linha direta e/ou através da RESP (art. 3.º, al. f), e art. 83.º DL 15/2022); não exige pessoa coletiva, mas um regulamento interno carregado na plataforma eletrónica e a designação de uma EGAC (art. 86.º)\n\nCER: pessoa coletiva autónoma, de adesão aberta e voluntária, controlada pelos membros ou participantes localizados na proximidade dos projetos, que detém e desenvolve esses projetos e tem por objetivo principal benefícios ambientais, económicos e sociais, e não lucros financeiros (art. 189.º, n.º 1, DL 15/2022); exerce as funções da EGAC (art. 86.º, n.º 4) e aplicam-se-lhe as regras do ACC (art. 190.º); o modo de partilha é escolhido pelos membros e comunicado ao operador de rede, sem aprovação da ERSE, que regula a matéria (arts. 87.º e 189.º, n.º 7)",
+        "motivo": "O ACC pode usar a RESP e a CER distingue-se pela natureza de pessoa coletiva e pelos requisitos do art. 189.º; não há algoritmo de partilha aprovado pela ERSE.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?ficha=101&artigo_id=&nid=3536&pagina=2&tabela=leis&nversao=&so_miolo=&"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Confirmar as distâncias de proximidade do art. 83.º do DL 15/2022 e a redação dos arts. 86.º, 87.º e 189.º dada pelo DL 130/2026, de 29 de junho, no caso concreto.",
+      "Verificar se a ERSE aprovou regulamento posterior ao Regulamento n.º 815/2023 (Regulamento do Autoconsumo), designadamente sobre a gestão dinâmica da partilha.",
+      "Confirmar o procedimento de controlo prévio aplicável à UPAC da CER (comunicação prévia, registo prévio ou licença) em função da potência (art. 11.º DL 15/2022).",
+      "Os arts. 21.º e 22.º da Diretiva (UE) 2018/2001 foram alterados pela Diretiva (UE) 2023/2413; confirmar a redação consolidada se forem citados no parecer."
+    ],
+    "fontes": [
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3536&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?ficha=101&artigo_id=&nid=3536&pagina=2&tabela=leis&nversao=&so_miolo=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?ficha=301&artigo_id=&nid=3536&pagina=4&tabela=leis&nversao=&so_miolo=&",
+      "https://files.diariodarepublica.pt/1s/2019/10/20600/0004500062.pdf",
+      "https://www.erse.pt/atividade/regulamentos-eletricidade/autoconsumo/"
+    ]
+  },
+  {
+    "codigo": "AMB-021",
+    "veredicto": "corrigida",
+    "resumo": "A ficha identificava o regime da REN com o DL 239/2012, que é um diploma de alteração do DL 166/2008, e mantinha a «autorização» de usos compatíveis, revogada (art. 23.º); dava ainda como exemplo de categorias REN designações do DL 93/90. A avaliação de incidências na Rede Natura 2000 era atribuída ao «art. 10.º DL 49/2005», quando consta do art. 10.º do DL 140/99 (alterado pelos DL 49/2005 e 156-A/2013), e a margem do DPH ao art. 10.º da Lei 54/2005 (o art. 10.º é o leito; a margem é o art. 11.º, com 50, 30 ou 10 m). Corrigiram-se a base legal, o regime de usos e ações da REN (arts. 4.º, 20.º a 22.º e 43.º DL 166/2008), as remissões da Rede Natura 2000 e do DPH e a largura das margens.",
+    "substituicoes": [
+      {
+        "de": "- Base legal: DL n.º 73/2009 (RAN); DL n.º 239/2012 (REN) [■ VERIFICAR diplomas e alterações em vigor]; DL n.º 142/2008 (Rede Natura 2000 e Sistema Nacional de Áreas Classificadas — SNAC) [■ VERIFICAR]; Lei n.º 54/2005 (Domínio Público Hídrico — DPH)",
+        "para": "- Base legal: DL n.º 73/2009 (RAN) [■ VERIFICAR alterações em vigor]; DL n.º 166/2008 (REN), na redação atual (última alteração pelo DL n.º 129/2026, de 29 de junho); DL n.º 140/99, alterado pelos DL n.º 49/2005 e 156-A/2013 (Rede Natura 2000); DL n.º 142/2008 (Sistema Nacional de Áreas Classificadas — SNAC) [■ VERIFICAR]; Lei n.º 54/2005 (Domínio Público Hídrico — DPH)",
+        "motivo": "O regime da REN é o DL 166/2008 (o DL 239/2012 alterou-o) e a Rede Natura 2000 rege-se pelo DL 140/99.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1058&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- REN (DL 239/2012): categorias, usos interditos, atos não sujeitos (art. 20.º) [■ VERIFICAR]\n- Rede Natura 2000 (DL 142/2008 e DL 49/2005 — SIC/ZEC/ZPE): avaliação de incidências ambientais (art. 10.º DL 49/2005) [■ VERIFICAR]\n- Domínio Público Hídrico (Lei 54/2005): leito, margem (art. 10.º), zona adjacente; interdições e autorizações",
+        "para": "- REN (DL 166/2008): tipologias de áreas (art. 4.º), usos e ações interditos (art. 20.º, n.º 1), usos e ações compatíveis do anexo II, isentos ou sujeitos a comunicação prévia à CCDR (arts. 20.º, n.ºs 2 e 3, e 22.º), ações de relevante interesse público (art. 21.º); a autorização foi revogada (art. 23.º)\n- Rede Natura 2000 (DL 140/99, na redação dos DL 49/2005 e 156-A/2013 — SIC/ZEC/ZPE): avaliação de incidências ambientais (art. 10.º DL 140/99) [■ VERIFICAR decreto de designação da ZEC aplicável]\n- Domínio Público Hídrico (Lei 54/2005): leito (art. 10.º), margem (art. 11.º), zona adjacente (arts. 24.º e 25.º); interdições e autorizações",
+        "motivo": "Artigos e diplomas trocados: REN no DL 166/2008, incidências no art. 10.º do DL 140/99, margem no art. 11.º da Lei 54/2005.",
+        "fonte": "https://files.diariodarepublica.pt/1s/2026/07/14700/0001800031.pdf"
+      },
+      {
+        "de": "Categoria(s) REN: [ex. áreas de máxima infiltração, leitos, encostas com risco de erosão]\nUsos interditos; atos não sujeitos (art. 20.º DL 239/2012); autorização de uso compatível",
+        "para": "Categoria(s) REN: [ex. cursos de água e respetivos leitos e margens, áreas estratégicas de infiltração e de proteção e recarga de aquíferos, áreas de elevado risco de erosão hídrica do solo (art. 4.º DL 166/2008); nas delimitações municipais ainda não adaptadas, as categorias do DL 93/90 (p. ex., «áreas de máxima infiltração»), com a correspondência do anexo IV (art. 43.º)]\nUsos interditos (art. 20.º, n.º 1, DL 166/2008); usos e ações compatíveis do anexo II, isentos ou sujeitos a comunicação prévia à CCDR (arts. 20.º, n.º 3, e 22.º); relevante interesse público (art. 21.º); a autorização da redação original foi revogada (art. 23.º)",
+        "motivo": "Categorias da REN segundo o art. 4.º do DL 166/2008 e regime atual de usos compatíveis; a autorização foi revogada.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1058&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "Avaliação de incidências necessária? (art. 10.º DL 49/2005) [■ VERIFICAR]",
+        "para": "Avaliação de incidências necessária? (art. 10.º DL 140/99) [■ VERIFICAR]",
+        "motivo": "A avaliação de incidências ambientais consta do art. 10.º do DL 140/99, na redação do DL 49/2005.",
+        "fonte": "https://files.diariodarepublica.pt/1s/2026/07/14700/0001800031.pdf"
+      },
+      {
+        "de": "zona de margem (50 m / 30 m — art. 10.º Lei 54/2005)",
+        "para": "zona de margem (50 m / 30 m / 10 m, conforme a natureza das águas — art. 11.º Lei 54/2005)",
+        "motivo": "A margem está no art. 11.º e tem também a largura de 10 m nas águas não navegáveis nem flutuáveis.",
+        "fonte": "https://diariodarepublica.pt/redirect/LinkFicheiroAntigo.aspx?conteudoId=75170439"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Confirmar as alterações ao DL 166/2008 introduzidas pelo DL 129/2026, de 29 de junho, designadamente no art. 21.º e no anexo II.",
+      "Confirmar a versão em vigor do DL 73/2009 (RAN), as classes de aptidão aplicáveis ao prédio e o regime de utilizações não agrícolas.",
+      "Verificar se existe decreto de designação da ZEC aplicável à área (como os DL 91/2026 e 154/2026), com regras próprias de avaliação de incidências.",
+      "Na secção III.6 há grafia anterior ao AO90 («eléctricas», «infra-estruturas»), que deve passar a «elétricas» e «infraestruturas»."
+    ],
+    "fontes": [
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1058&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://files.diariodarepublica.pt/1s/2026/07/14700/0001800031.pdf",
+      "https://files.diariodarepublica.pt/1s/2026/04/07900/0002600035.pdf",
+      "https://diariodarepublica.pt/redirect/LinkFicheiroAntigo.aspx?conteudoId=75170439"
+    ]
+  },
+  {
+    "codigo": "AMB-029",
+    "veredicto": "corrigida",
+    "resumo": "O índice falava em «recurso contencioso» e «ação administrativa especial», formas extintas: a via é a ação administrativa do CPTA. A petição podia ser dirigida a um Tribunal Central Administrativo, que não tem competência em 1.ª instância (art. 37.º ETAF; a competência é do tribunal administrativo de círculo, art. 44.º ETAF), e pedia a «substituição» da DIA em vez da condenação à prática do ato devido. Estavam trocadas as remissões do RJAIA (prazo da DIA no art. 19.º, não no art. 18.º, n.º 5; alternativas no anexo V; participação pública nos arts. 15.º e 28.º a 31.º) e a legitimidade das associações era atribuída ao art. 10.º da LBA, que trata dos componentes ambientais, em vez do art. 10.º da Lei 35/98 e dos arts. 9.º, n.º 2, e 55.º CPTA. Corrigiu-se ainda a afirmação de que a participação na consulta pública é requisito de legitimidade.",
+    "titulo": "Ação Administrativa de Impugnação de Decisão da APA em Procedimento de AIA",
+    "titulo_en": "Administrative Action Challenging an APA Decision in an AIA Procedure",
+    "descricao": "Elabora a petição inicial de ação administrativa para impugnar a Declaração de Impacte Ambiental (DIA) ou outra decisão da APA em procedimento de Avaliação de Impacte Ambiental (AIA), ou, sendo o autor o proponente de DIA desfavorável, para pedir a condenação à prática do ato devido, ao abrigo do Regime Jurídico da Avaliação de Impacte Ambiental (RJAIA, Decreto-Lei n.º 151-B/2013, de 31 de outubro, na redação atual) e do Código de Processo nos Tribunais Administrativos (CPTA).",
+    "descricao_en": "Drafts the statement of claim in an administrative action (ação administrativa) challenging the Environmental Impact Statement (DIA) or another APA decision in an environmental impact assessment (AIA) procedure, or, where the claimant is the developer of an unfavourable DIA, seeking an order to issue the act legally due, under the Legal Regime for Environmental Impact Assessment (RJAIA, Decree-Law No. 151-B/2013 of 31 October, as currently worded) and the Code of Procedure in the Administrative Courts (CPTA).",
+    "substituicoes": [
+      {
+        "de": "- RJAIA (DL 151-B/2013): procedimento de AIA (arts. 8.º a 19.º), conteúdo do EIA (art. 13.º), audiência pública (art. 15.º), DIA (art. 18.º), prazo de decisão (art. 18.º, n.º 5)",
+        "para": "- RJAIA (DL 151-B/2013, na redação atual): autoridade de AIA (art. 8.º), fases do procedimento de AIA (arts. 12.º a 19.º), conteúdo do EIA (art. 13.º e anexo V), participação e consulta pública (arts. 15.º e 28.º a 31.º), conteúdo e fundamentação da DIA (art. 18.º; a DIA desfavorável extingue o procedimento, n.º 2), competência e prazos de emissão da DIA, sob pena de deferimento tácito (art. 19.º)",
+        "motivo": "O prazo da DIA está no art. 19.º, n.º 2 (o art. 18.º, n.º 5, trata da fundamentação das condições) e a participação pública chama-se consulta pública.",
+        "fonte": "https://www.ccdr-lvt.pt/wp-content/uploads/2025/01/Consolidacao-DL-151-B-2013-Suplemento-Serie-I-de-2013-10-31.pdf"
+      },
+      {
+        "de": "falta de fundamentação (art. 152.º CPA), violação do princípio da precaução (art. 3.º, al. c), LBA; art. 191.º TFUE), falta de ponderação de alternativas (art. 13.º, n.º 1, al. e), RJAIA), violação de normas de participação pública (arts. 14.º e 15.º RJAIA)",
+        "para": "falta de fundamentação (art. 152.º CPA; art. 18.º, n.º 3, al. d), RJAIA), violação do princípio da precaução (art. 3.º, al. c), LBA; art. 191.º TFUE), falta de ponderação de alternativas (art. 13.º, n.º 1, e anexo V, ponto 2, RJAIA), violação de normas de participação pública (arts. 15.º e 28.º a 31.º RJAIA)",
+        "motivo": "O art. 13.º não tem alíneas: as alternativas razoáveis estão no anexo V, ponto 2; o art. 14.º trata da instrução e apreciação prévia do EIA.",
+        "fonte": "https://www.ccdr-lvt.pt/wp-content/uploads/2025/01/Consolidacao-DL-151-B-2013-Suplemento-Serie-I-de-2013-10-31.pdf"
+      },
+      {
+        "de": "- Legitimidade de associações ambientalistas: art. 10.º da Lei n.º 19/2014 (LBA) e Lei n.º 83/95 (ação popular)",
+        "para": "- Legitimidade de associações ambientalistas: art. 10.º da Lei n.º 35/98 (ONGA), arts. 2.º e 3.º da Lei n.º 83/95 (ação popular) e arts. 9.º, n.º 2, e 55.º, n.º 1, al. f), CPTA; direitos processuais em matéria de ambiente: art. 7.º da Lei n.º 19/2014 (LBA)",
+        "motivo": "O art. 10.º da LBA trata dos componentes ambientais naturais; a legitimidade processual das ONGA está no art. 10.º da Lei 35/98.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_print_articulado.php?tabela=leis&nid=755&nversao="
+      },
+      {
+        "de": "**PETIÇÃO INICIAL — AÇÃO ADMINISTRATIVA DE IMPUGNAÇÃO DE DECLARAÇÃO DE IMPACTO AMBIENTAL**\n\n**AO TRIBUNAL ADMINISTRATIVO E FISCAL DE [localidade] / TRIBUNAL CENTRAL ADMINISTRATIVO [SUL/NORTE]**\n\n[Autor], [identificação completa], representado pelo mandatário [nome, cédula], vem intentar ação administrativa de impugnação do ato administrativo consubstanciado na Declaração de Impacto Ambiental [referência], emitida pela Agência Portuguesa do Ambiente, I.P. (APA) em [data], com os seguintes fundamentos:",
+        "para": "**PETIÇÃO INICIAL — AÇÃO ADMINISTRATIVA DE IMPUGNAÇÃO DE DECLARAÇÃO DE IMPACTE AMBIENTAL**\n\n**AO TRIBUNAL ADMINISTRATIVO DE CÍRCULO / TRIBUNAL ADMINISTRATIVO E FISCAL DE [localidade]**\n(competência em 1.ª instância: art. 44.º, n.º 1, ETAF; competência territorial: arts. 16.º e 17.º CPTA [■ VERIFICAR: tribunal da situação do imóvel ou da residência ou sede do autor])\n\n[Autor], [identificação completa], representado pelo mandatário [nome, cédula], vem intentar ação administrativa de impugnação do ato administrativo consubstanciado na Declaração de Impacte Ambiental (DIA) [referência], emitida pela Agência Portuguesa do Ambiente, I.P. (APA), enquanto autoridade de AIA, em [data] [ou, sendo o autor o proponente e a DIA desfavorável, ação administrativa de condenação à prática do ato devido — arts. 66.º e 67.º, n.º 1, al. b), CPTA], com os seguintes fundamentos:",
+        "motivo": "O TCA não julga em 1.ª instância a impugnação da DIA (arts. 37.º e 44.º ETAF); a designação legal é «declaração de impacte ambiental».",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=418&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "Requerer a anulação da DIA e, subsidiariamente, a sua substituição por ato que [detalhar pretensão]",
+        "para": "Requerer a anulação (ou a declaração de nulidade) da DIA; sendo o autor o proponente e a DIA desfavorável, pedir a condenação da entidade demandada à prática do ato devido (arts. 66.º, 67.º, n.º 1, al. b), e 71.º CPTA), sob pena de convite à substituição da petição (art. 51.º, n.º 4, CPTA) [detalhar pretensão]",
+        "motivo": "O tribunal não substitui o ato: contra a recusa da pretensão o pedido adequado é a condenação à prática do ato devido.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=439&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- [ ] Prazo de 3 meses a contar da notificação da DIA verificado (art. 58.º CPTA)",
+        "para": "- [ ] Prazo de 3 meses verificado (art. 58.º, n.º 1, al. b), CPTA), contado da notificação, para o proponente, ou nos termos do art. 59.º, n.º 3, CPTA, para os demais interessados; suspensão pela impugnação administrativa (art. 59.º, n.º 4, CPTA)",
+        "motivo": "Para terceiros, como as associações, o prazo não corre da notificação mas nos termos do art. 59.º, n.º 3, CPTA.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=439&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- [ ] Participação em audiência pública verificada (requisito de legitimidade de terceiros)",
+        "para": "- [ ] Participação na consulta pública verificada (relevante para os factos e para os vícios de participação; não é pressuposto da legitimidade, que resulta dos arts. 9.º, n.º 2, e 55.º CPTA)",
+        "motivo": "Os arts. 9.º, n.º 2, e 55.º CPTA não condicionam a legitimidade à participação no procedimento; o RJAIA fala de consulta pública.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=439&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- **Participação em audiência pública:** [sim/não]",
+        "para": "- **Participação na consulta pública:** [sim/não]",
+        "motivo": "O RJAIA prevê consulta pública (arts. 15.º e 29.º), não audiência pública.",
+        "fonte": "https://www.ccdr-lvt.pt/wp-content/uploads/2025/01/Consolidacao-DL-151-B-2013-Suplemento-Serie-I-de-2013-10-31.pdf"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "O texto consolidado do RJAIA consultado vai até ao DL 99/2024; confirmar se houve alterações em 2025 ou 2026 aos arts. 18.º, 19.º e 28.º a 31.º.",
+      "Confirmar a competência territorial (arts. 16.º e 17.º CPTA) e se a DIA foi emitida pela APA, pela CCDR ou, sendo a autoridade de AIA proponente, pelo membro do Governo (art. 19.º, n.º 1, RJAIA).",
+      "Confirmar os requisitos de legitimidade da associação no caso concreto (art. 3.º da Lei 83/95 e estatuto de ONGA ao abrigo da Lei 35/98).",
+      "Ponderar a providência cautelar e a eventual impugnação administrativa prévia, que suspende o prazo (art. 59.º, n.ºs 4 e 5, CPTA)."
+    ],
+    "fontes": [
+      "https://www.ccdr-lvt.pt/wp-content/uploads/2025/01/Consolidacao-DL-151-B-2013-Suplemento-Serie-I-de-2013-10-31.pdf",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=439&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=418&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2091&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://www.pgdlisboa.pt/leis/lei_print_articulado.php?tabela=leis&nid=755&nversao=",
+      "https://www.pgdlisboa.pt/leis/lei_print_articulado.php?tabela=leis&nid=722&nversao="
+    ]
+  },
+  {
+    "codigo": "AMB-031",
+    "veredicto": "corrigida",
+    "resumo": "A ficha chamava «RJAERE» ao DL 15/2022 e atribuía-lhe artigos que não tratam do que dizia (o licenciamento está nos arts. 11.º, 12.º e 24.º e ss.; o art. 18.º é a reserva de capacidade de injeção; o procedimento concorrencial e a unificação com o título do espaço marítimo estão nos arts. 22.º e 23.º). Remetia o TUPEM para os «arts. 20.º e ss.» do DL 38/2015 e para a DGPM, quando é emitido pela DGRM e pedido nos termos do art. 58.º (modalidades nos arts. 52.º a 57.º), e usava o POEM, hoje substituído pelo Plano de Situação (PSOEM) e pelo Plano de Afetação para as Energias Renováveis Offshore (PAER). Corrigiram-se o enquadramento, os destinatários, os procedimentos e a remissão para o anexo I do RJAIA; o índice descrevia o DL 38/2015 como lei de bases e um inexistente «Regulamento do Espaço Marítimo Nacional».",
+    "descricao": "Elabora o requerimento de licença de produção para projeto de energia eólica offshore, ao abrigo do Decreto-Lei n.º 15/2022, de 14 de janeiro (organização e funcionamento do Sistema Elétrico Nacional), da Lei n.º 17/2014, de 10 de abril (bases da política de ordenamento e de gestão do espaço marítimo nacional), e do Decreto-Lei n.º 38/2015, de 12 de março, que a desenvolve, identificando a reserva de capacidade de injeção na RESP, a AIA, o título de utilização privativa do espaço marítimo nacional (TUPEM), emitido pela DGRM, e a coordenação com a DGEG e a APA.",
+    "descricao_en": "Drafts the application for a production licence for an offshore wind energy project, under Decree-Law No. 15/2022 of 14 January (organisation and operation of the National Electricity System), Law No. 17/2014 of 10 April (framework for national maritime spatial planning and management) and Decree-Law No. 38/2015 of 12 March, which implements it, identifying the grid injection capacity reservation, the environmental impact assessment (AIA), the title for private use of national maritime space (TUPEM), issued by the DGRM, and coordination with the DGEG and the APA.",
+    "substituicoes": [
+      {
+        "de": "— Cita artigos reais do RJAERE, da LBOGEM e dos diplomas de espaço marítimo.",
+        "para": "— Cita artigos reais do DL 15/2022 (organização e funcionamento do Sistema Elétrico Nacional), da LBOGEM (Lei 17/2014), do DL 38/2015 e dos demais diplomas do espaço marítimo.",
+        "motivo": "O DL 15/2022 não tem a designação «RJAERE».",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3536&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- Verificar se a zona está identificada no POEM (Plano de Ordenamento do Espaço Marítimo)\n- Identificar as entidades competentes (DGPM, APA, DGEG, Marinha)\n- Determinar se é via concurso público ou iniciativa privada",
+        "para": "- Verificar se a zona está identificada no Plano de Situação do Ordenamento do Espaço Marítimo Nacional (PSOEM, aprovado pela Resolução do Conselho de Ministros n.º 203-A/2019) e no Plano de Afetação para as Energias Renováveis Offshore (PAER), que o integra [■ VERIFICAR: número e data da resolução que aprovou o PAER]\n- Identificar as entidades competentes: DGRM (TUPEM — art. 51.º DL 38/2015), DGEG (controlo prévio da produção — art. 12.º DL 15/2022), APA (autoridade de AIA dos projetos no espaço marítimo — art. 8.º, n.º 1, al. a), v), RJAIA) e Autoridade Marítima Nacional\n- Determinar se a capacidade de injeção na RESP é atribuída em procedimento concorrencial aberto pelos membros do Governo da energia e do mar (arts. 22.º e 23.º DL 15/2022) ou noutra modalidade (art. 18.º, n.º 2) e se o TUPEM é pedido por iniciativa do interessado (art. 58.º DL 38/2015)",
+        "motivo": "O POEM foi substituído pelo PSOEM e pelo PAER; o TUPEM é emitido pela DGRM; a atribuição da capacidade segue o DL 15/2022.",
+        "fonte": "https://www.portugal.gov.pt/pt/gc24/governo/comunicado-do-conselho-de-ministros?i=655"
+      },
+      {
+        "de": "- RJAERE (DL 15/2022): procedimento de licenciamento de produção (arts. 4.º e ss.), concursos para renováveis offshore (art. 18.º)",
+        "para": "- DL 15/2022 (organização e funcionamento do SEN, na redação atual): títulos de controlo prévio e competência da DGEG (arts. 11.º e 12.º), reserva prévia de capacidade de injeção na RESP (art. 18.º), procedimento concorrencial (art. 22.º) e unificação de procedimentos para a produção de localização oceânica que careça de título de utilização do espaço marítimo (art. 23.º), licença de produção (arts. 24.º e ss.) e prazo global de três anos para os projetos offshore (art. 14.º, n.º 7, al. b))",
+        "motivo": "Os arts. 4.º e 18.º não tratam do licenciamento nem dos concursos offshore.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3536&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- DL 38/2015: procedimento de atribuição do TUPEM (arts. 20.º e ss.)\n- RJAIA (DL 151-B/2013): AIA de projetos em espaço marítimo (Anexo I, categoria [■ VERIFICAR])",
+        "para": "- DL 38/2015: TUPEM — competência da DGRM (art. 51.º), concessão (arts. 52.º e 53.º), licença (arts. 54.º e 55.º), autorização (art. 57.º) e pedido do interessado (art. 58.º) [■ VERIFICAR: redação atual destes artigos]\n- RJAIA (DL 151-B/2013): AIA de projetos no espaço marítimo, com a APA como autoridade de AIA (art. 8.º, n.º 1, al. a), v)) [■ VERIFICAR: enquadramento do projeto nos anexos I ou II e limiares aplicáveis]",
+        "motivo": "O TUPEM é regulado nos arts. 51.º a 58.º do DL 38/2015; a referência ao anexo I do RJAIA não está confirmada.",
+        "fonte": "https://www.dgrm.pt/documents/20143/696775/PT2025OTPM008391901Emiss%C3%A3rio_Espinho.pdf/77a06153-0f82-58a9-2179-8b5016c1f995"
+      },
+      {
+        "de": "**REQUERIMENTO DE ATRIBUIÇÃO DE TÍTULO DE PRODUÇÃO — ENERGIA EÓLICA OFFSHORE**\n\n**À DIREÇÃO-GERAL DE ENERGIA E GEOLOGIA (DGEG) / DIREÇÃO-GERAL DE POLÍTICA DO MAR (DGPM)**\n\n[Nome/firma], NIPC [número], vem requerer a abertura do procedimento de licenciamento de unidade de produção de energia eólica offshore e a atribuição do respetivo Título de Utilização Privativa do Espaço Marítimo (TUPEM), nos termos do Decreto-Lei n.º 15/2022, de 14 de janeiro, e da Lei n.º 17/2014, de 10 de abril.",
+        "para": "**REQUERIMENTO DE LICENÇA DE PRODUÇÃO — ENERGIA EÓLICA OFFSHORE**\n\n**À DIREÇÃO-GERAL DE ENERGIA E GEOLOGIA (DGEG)**\n(entidade licenciadora — art. 12.º DL 15/2022; o TUPEM é requerido à DGRM — arts. 51.º e 58.º DL 38/2015 —, salvo se for atribuído no procedimento concorrencial — art. 23.º DL 15/2022)\n\n[Nome/firma], NIPC [número], titular do título de reserva de capacidade de injeção na RESP n.º [número] [■ VERIFICAR: modalidade e data de atribuição — art. 18.º DL 15/2022], vem requerer a atribuição de licença de produção para centro eletroprodutor de energia eólica offshore, nos termos dos arts. 11.º, n.º 2, e 24.º e seguintes do Decreto-Lei n.º 15/2022, de 14 de janeiro, na redação atual, com indicação do Título de Utilização Privativa do Espaço Marítimo Nacional (TUPEM) obtido ou requerido nos termos da Lei n.º 17/2014, de 10 de abril, e do Decreto-Lei n.º 38/2015, de 12 de março.",
+        "motivo": "O TUPEM é emitido pela DGRM, não pela DGPM, e o pedido de licença de produção depende da prévia reserva de capacidade de injeção (art. 18.º, n.º 1).",
+        "fonte": "https://www.dgrm.mm.gov.pt/documents/20143/31424/TUPEM-+Esclarecimento.pdf/f55a9f41-6c6e-a4c9-56ea-81849037045c"
+      },
+      {
+        "de": "**III — CONFORMIDADE COM O POEM**\n[verificação da compatibilidade com o Plano de Ordenamento do Espaço Marítimo — zona identificada para eólica offshore]",
+        "para": "**III — CONFORMIDADE COM O PSOEM E O PAER**\n[verificação da compatibilidade com o Plano de Situação do Ordenamento do Espaço Marítimo Nacional e com o Plano de Afetação para as Energias Renováveis Offshore — área identificada para energias renováveis offshore]",
+        "motivo": "O instrumento em vigor é o Plano de Situação, que integra o PAER.",
+        "fonte": "https://www.portugal.gov.pt/pt/gc24/governo/comunicado-do-conselho-de-ministros?i=655"
+      },
+      {
+        "de": "4.1 Pedido de TUPEM (DL 38/2015, arts. 20.º e ss.)\n4.2 Início de procedimento de AIA marinha (RJAIA, DL 151-B/2013)\n4.3 Pedido de informação prévia à DGEG sobre ligação à rede",
+        "para": "4.1 Pedido de TUPEM à DGRM (DL 38/2015, arts. 51.º e 58.º), salvo se atribuído no procedimento concorrencial (art. 23.º DL 15/2022)\n4.2 Início de procedimento de AIA marinha (RJAIA, DL 151-B/2013), com a APA como autoridade de AIA (art. 8.º, n.º 1, al. a), v))\n4.3 Título de reserva de capacidade de injeção na RESP, condição prévia do pedido de licença de produção (art. 18.º, n.º 1, DL 15/2022)",
+        "motivo": "Artigos do TUPEM corrigidos; o DL 15/2022 não prevê pedido de informação prévia sobre a ligação, mas a reserva de capacidade.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3536&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- [ ] Conformidade com POEM verificada",
+        "para": "- [ ] Conformidade com o PSOEM e o PAER verificada",
+        "motivo": "O POEM não é o instrumento de ordenamento em vigor.",
+        "fonte": "https://marmadeira.madeira.gov.pt/wp-content/uploads/2020/10/Resolucao_C_Ministros_n_203-A_2019.pdf"
+      },
+      {
+        "de": "- [ ] Entidades competentes identificadas (DGPM, DGEG, APA, Marinha)",
+        "para": "- [ ] Entidades competentes identificadas (DGRM, DGEG, APA, Autoridade Marítima Nacional)",
+        "motivo": "O TUPEM é emitido pela DGRM.",
+        "fonte": "https://www.dgrm.mm.gov.pt/documents/20143/31424/TUPEM-+Esclarecimento.pdf/f55a9f41-6c6e-a4c9-56ea-81849037045c"
+      },
+      {
+        "de": "- **Localização offshore:** [coordenadas aproximadas ou zona do POEM]",
+        "para": "- **Localização offshore:** [coordenadas aproximadas ou área do PAER]",
+        "motivo": "As áreas para renováveis offshore constam do PAER.",
+        "fonte": "https://www.portugal.gov.pt/pt/gc24/governo/comunicado-do-conselho-de-ministros?i=655"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Confirmar o número e a data da resolução do Conselho de Ministros que aprovou o PAER e o estado do procedimento concorrencial para a eólica offshore (peças, calendário e entidades adjudicantes).",
+      "Confirmar no texto consolidado do DL 38/2015 a redação atual dos arts. 51.º a 61.º (competência, modalidades, pedido e publicitação do TUPEM).",
+      "Confirmar o enquadramento do projeto nos anexos do RJAIA e os limiares aplicáveis à energia eólica.",
+      "Nas Regiões Autónomas a entidade competente para o TUPEM é diferente da DGRM; confirmar se a área se situa na subdivisão do Continente."
+    ],
+    "fontes": [
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3536&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?ficha=101&artigo_id=&nid=3536&pagina=2&tabela=leis&nversao=&so_miolo=&",
+      "https://www.dgrm.mm.gov.pt/documents/20143/31424/TUPEM-+Esclarecimento.pdf/f55a9f41-6c6e-a4c9-56ea-81849037045c",
+      "https://www.dgrm.pt/documents/20143/696775/PT2025OTPM008391901Emiss%C3%A3rio_Espinho.pdf/77a06153-0f82-58a9-2179-8b5016c1f995",
+      "https://www.dgrm.pt/documents/20143/74744/PT2025OTPM008093901_NUVEM.pdf/2e8e8e84-ab18-c1d0-0c26-c27fbf2b1e27",
+      "https://www.dgrm.pt/documents/20143/74744/Pedido.pdf/4c3978dd-ea4d-83e4-230d-6218fcd74c32",
+      "https://www.portugal.gov.pt/pt/gc24/governo/comunicado-do-conselho-de-ministros?i=655",
+      "https://marmadeira.madeira.gov.pt/wp-content/uploads/2020/10/Resolucao_C_Ministros_n_203-A_2019.pdf",
+      "https://www.ccdr-lvt.pt/wp-content/uploads/2025/01/Consolidacao-DL-151-B-2013-Suplemento-Serie-I-de-2013-10-31.pdf"
+    ]
+  }
+]

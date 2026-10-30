@@ -1,0 +1,465 @@
+[
+ {
+  "codigo": "FIS-028",
+  "veredicto": "corrigida",
+  "descricao": "Gera um pedido de redução da coima fiscal (artigos 30.º e 31.º do RGIT) ou, no prazo de defesa, de dispensa ou de atenuação especial da coima (artigos 29.º e 32.º do RGIT), com a regularização voluntária da situação tributária — incluindo a declaração de substituição (artigo 59.º, n.º 3, do CPPT) e o pagamento do imposto em falta — e a apresentação das circunstâncias atenuantes, com pedido de arquivamento ou de coima reduzida.",
+  "descricao_en": "Generates a request for reduction of a tax fine (Articles 30 and 31 of the RGIT) or, within the defence period, for waiver or special mitigation of the fine (Articles 29 and 32 of the RGIT), together with voluntary regularisation of the tax position — including a replacement return (Article 59(3) of the CPPT) and payment of the tax due — setting out the mitigating circumstances, with a request for the case to be closed or for a reduced fine.",
+  "resumo": "A ficha trocava os regimes do RGIT: atribuía as reduções ao art. 29.º e a dispensa ao art. 30.º, sugeria uma redução «a 25% do mínimo» que não existe e tratava a regularização antes da notificação como fundamento de dispensa, quando dá direito à redução a 12,5% do mínimo (ou a 50% durante a inspeção) do art. 30.º. Reescrevi as regras por fase (redução do art. 30.º, pagamento antecipado do art. 75.º, atenuação especial do art. 32.º, pagamento voluntário a 75% do art. 78.º), os requisitos da dispensa do art. 29.º (sem prejuízo efetivo para a receita, falta regularizada, pedido no prazo de defesa), a fundamentação e o pedido da peça. Substituí o art. 128.º CPPT (incidentes) e o art. 68.º CIRS (taxas gerais) pela declaração de substituição do art. 59.º, n.º 3, CPPT e corrigi a descrição do índice, que citava o art. 128.º CPPT.",
+  "substituicoes": [
+   {
+    "de": "- Reduções da coima no RGIT (art. 29.º RGIT) [■ VERIFICAR: valores atuais]:\n  * Pagamento voluntário no prazo de impugnação administrativa: coima reduzida a [■ VERIFICAR: valor atual — ex: 25% do mínimo legal]\n  * Pagamento após notificação mas antes de decisão: [■ VERIFICAR: percentagem]\n- Regularização voluntária antes de notificação (art. 30.º RGIT): possibilidade de dispensa de coima se regularização antes da notificação do auto\n- Pagamento voluntário do imposto + declaração corretiva são condição prévia do benefício de redução",
+    "para": "- Benefícios da coima no RGIT, por fase do processo (os limites mínimo e máximo dos tipos legais são elevados para o dobro nas pessoas coletivas — art. 26.º, n.º 4, RGIT):\n  * Redução a pedido, antes de levantado auto de notícia, recebida participação ou denúncia ou iniciado procedimento de inspeção: coima reduzida a 12,5% do mínimo legal (art. 30.º, n.º 1, al. a), RGIT); a notificação da AT para regularizar a situação em 30 dias informa desta possibilidade (art. 28.º-A RGIT)\n  * Redução a pedido até ao termo do prazo de audição no procedimento de inspeção: coima reduzida a 50% do mínimo legal (art. 30.º, n.º 1, al. b), RGIT); para estas reduções, o mínimo legal é sempre o previsto para a negligência (art. 30.º, n.º 2, RGIT)\n  * Nas coimas que variam em função do imposto em falta, o mínimo, para a redução da al. a), é de 10% (pessoa singular) ou de 20% (pessoa coletiva) do imposto em falta (art. 31.º, n.º 1, RGIT)\n  * Notificado para defesa (30 dias — art. 70.º RGIT): pagamento antecipado no prazo de defesa, com coima reduzida ao mínimo legal e custas a metade, regularizando a situação tributária (art. 75.º RGIT); ou atenuação especial, pedida no prazo de defesa com reconhecimento da responsabilidade e regularização, que reduz os limites da coima a metade, nunca abaixo de 25 € nem do que resultaria do art. 30.º (art. 32.º, n.os 1 e 2, RGIT)\n  * Depois da decisão: pagamento voluntário no prazo de 15 dias após a notificação, com coima reduzida a 75% do montante fixado, nunca abaixo do mínimo legal (art. 78.º, n.os 1 e 2, RGIT)\n- Dispensa de coima (art. 29.º, n.º 2, RGIT): exige, cumulativamente, que a infração não cause prejuízo efetivo à receita tributária — que existe sempre quando falte a entrega da prestação tributária (n.º 3) — e que a falta esteja regularizada; é requerida no prazo de defesa, com a falta regularizada até ao termo desse prazo (n.º 4), e o agente não pode ter sido condenado por infração tributária nem ter beneficiado de dispensa ou de redução de coima nos 5 anos anteriores (n.º 1) [■ VERIFICAR: alcance do art. 29.º, n.º 1, RGIT, na redação da Lei n.º 7/2021]. Regularizar antes da notificação dá direito à redução do art. 30.º, não à dispensa\n- A regularização da situação tributária (cumprimento das obrigações que deram origem à infração — art. 32.º-A RGIT) é condição destes benefícios: na redução do art. 30.º, n.º 1, al. a), paga-se a coima reduzida e regulariza-se a situação no prazo de 30 dias a contar da notificação da coima reduzida (art. 30.º, n.º 3, al. a), RGIT)",
+    "motivo": "Regimes trocados: a redução está no art. 30.º (12,5% ou 50% do mínimo) e não no art. 29.º; a dispensa (art. 29.º) exige ausência de prejuízo efetivo e é pedida no prazo de defesa; a «redução a 25% do mínimo» não existe; faltavam os arts. 32.º, 75.º e 78.º",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=259&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Em que fase se encontra a situação? (antes de auto / após auto mas antes de decisão)",
+    "para": "- Em que fase se encontra a situação? (antes de auto de notícia, participação, denúncia ou inspeção / durante a inspeção, até ao termo do prazo de audição / notificado para defesa / depois da decisão)",
+    "motivo": "Os benefícios do RGIT dependem destas quatro fases (arts. 30.º, 29.º, 32.º, 75.º e 78.º)",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=259A0030&nid=259&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Art. 29.º RGIT — atenuação especial e reduções por pagamento voluntário\n- Art. 30.º RGIT — dispensa de coima por regularização antes da notificação",
+    "para": "- Art. 29.º RGIT — dispensa de coima (sem prejuízo efetivo para a receita e com a falta regularizada; pedida no prazo de defesa)\n- Art. 30.º RGIT — direito à redução da coima a pedido do infrator (12,5% ou 50% do mínimo legal, consoante a fase); art. 31.º RGIT — mínimo nas coimas que dependem do imposto em falta\n- Art. 32.º RGIT — atenuação especial; art. 75.º RGIT — pagamento antecipado no prazo de defesa; art. 78.º RGIT — pagamento voluntário depois da decisão\n- Arts. 28.º-A e 32.º-A RGIT — notificação para regularização e noção de situação tributária regularizada",
+    "motivo": "O art. 29.º trata da dispensa e o art. 30.º da redução (epígrafes e texto em vigor); a atenuação especial é o art. 32.º",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=259&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Art. 128.º CPPT — regularização voluntária nas declarações",
+    "para": "- Art. 59.º, n.º 3, CPPT — declaração de substituição, incluindo a de que resulte imposto superior, sem prejuízo da responsabilidade contraordenacional",
+    "motivo": "O art. 128.º CPPT trata dos incidentes; a correção da declaração faz-se por declaração de substituição (art. 59.º, n.º 3, CPPT)",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=256A0059&nid=256&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Artigo do RGIT que tipifica a infração (para calcular a coima mínima)\n- Regime das correções à autoliquidação (art. 78.º CIVA / art. 68.º CIRS) para o imposto em falta",
+    "para": "- Artigo do RGIT que tipifica a infração (para calcular a coima mínima; os limites mínimo e máximo dos tipos são elevados para o dobro nas pessoas coletivas — art. 26.º, n.º 4, RGIT)\n- Regime das correções à autoliquidação (art. 78.º CIVA / declaração de substituição — art. 59.º, n.º 3, CPPT) para o imposto em falta",
+    "motivo": "O art. 68.º CIRS fixa as taxas gerais e não regula a correção da autoliquidação; faltava a regra do dobro para pessoas coletivas",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=259&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "notificado(a) do auto de infração n.º [número] em [data] / pretendendo regularizar situação fiscal em falta, vem requerer a",
+    "para": "notificado(a) para apresentar defesa no processo de contraordenação n.º [número] em [data] (art. 70.º RGIT) / pretendendo regularizar a situação tributária antes de levantado auto de notícia, recebida participação ou denúncia ou iniciada inspeção, vem requerer a",
+    "motivo": "O RGIT fala de auto de notícia e de notificação para defesa (art. 70.º); o momento determina o benefício aplicável",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=259&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "3.1. REDUÇÃO AO ABRIGO DO ART. 29.º RGIT\n[O pagamento voluntário no prazo de [X] dias após a notificação determina a redução para [■ VERIFICAR: percentagem atual]]\n\n3.2. OU DISPENSA AO ABRIGO DO ART. 30.º RGIT (se antes da notificação)\n[A regularização ocorreu antes da notificação do auto; a infração não causou dano ao erário e o imposto está pago; requer dispensa de coima]",
+    "para": "3.1. REDUÇÃO AO ABRIGO DO ART. 30.º RGIT (pedido antes de haver processo ou durante a inspeção)\n[O pedido é apresentado antes de levantado auto de notícia, recebida participação ou denúncia ou iniciado procedimento de inspeção: coima reduzida a 12,5% do mínimo legal (art. 30.º, n.º 1, al. a), RGIT); até ao termo do prazo de audição no procedimento de inspeção: 50% do mínimo legal (al. b)). O requerente paga a coima reduzida e regulariza a situação tributária no prazo de 30 dias a contar da notificação da coima reduzida (art. 30.º, n.º 3, al. a), RGIT)]\n\n3.2. OU, JÁ NOTIFICADO PARA DEFESA, DISPENSA AO ABRIGO DO ART. 29.º RGIT E, SUBSIDIARIAMENTE, ATENUAÇÃO ESPECIAL (ART. 32.º RGIT)\n[A infração não causou prejuízo efetivo à receita tributária (que existe sempre quando falte a entrega do imposto — art. 29.º, n.º 3) e a falta foi regularizada até ao termo do prazo de defesa; o arguido não foi condenado por infração tributária nem beneficiou de dispensa ou de redução de coima nos 5 anos anteriores; requer a dispensa no prazo de defesa (art. 29.º, n.os 2 e 4) e, subsidiariamente, reconhecendo a responsabilidade e regularizada a situação, a atenuação especial (art. 32.º, n.º 1); em alternativa, pode pagar antecipadamente pelo mínimo legal (art. 75.º)]",
+    "motivo": "Fundamentação construída sobre os artigos trocados e sobre uma dispensa por regularização prévia que a lei não prevê",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=259&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "Redução por pagamento voluntário: [X]%",
+    "para": "Redução aplicável: [12,5% ou 50% do mínimo legal (art. 30.º RGIT) / mínimo legal (art. 75.º RGIT) / limites reduzidos a metade (art. 32.º RGIT) / 75% do montante fixado (art. 78.º RGIT)]",
+    "motivo": "As reduções têm bases e percentagens diferentes consoante a fase",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=259&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "a) Dispense a coima ao abrigo do art. 30.º RGIT (regularização antes da notificação); OU\nb) Aplique a redução máxima ao abrigo do art. 29.º RGIT, fixando a coima em € [valor]",
+    "para": "a) Antes de levantado auto de notícia, recebida participação ou denúncia ou iniciada inspeção: reduza a coima a 12,5% do mínimo legal, ao abrigo do art. 30.º, n.º 1, al. a), RGIT, fixando-a em € [valor]; OU\nb) Já notificado para defesa: dispense a coima ao abrigo do art. 29.º, n.º 2, RGIT e, subsidiariamente, atenue-a especialmente ao abrigo do art. 32.º RGIT, fixando-a em € [valor]",
+    "motivo": "Pedido com os artigos trocados; a dispensa não decorre da regularização antes da notificação",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=259&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- [ ] Pedido principal (dispensa) e subsidiário (redução) formulados",
+    "para": "- [ ] Pedido adequado à fase: redução (art. 30.º RGIT) antes de haver processo ou durante a inspeção; dispensa (art. 29.º RGIT) e, subsidiariamente, atenuação especial (art. 32.º RGIT) ou pagamento antecipado (art. 75.º RGIT) no prazo de defesa",
+    "motivo": "Alinhar a verificação final com o regime por fases",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=259&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar a fase exata: a redução do art. 30.º, n.º 1, al. a), RGIT deixa de estar disponível logo que seja levantado auto de notícia, recebida participação ou denúncia ou iniciada inspeção.",
+   "Confirmar o alcance do art. 29.º, n.º 1, RGIT (redação da Lei n.º 7/2021), cuja letra é ambígua, antes de fundar o pedido principal na dispensa.",
+   "Calcular a coima mínima do tipo concreto (dobro nas pessoas coletivas — art. 26.º, n.º 4; coimas indexadas ao imposto — art. 31.º) e o limite absoluto de 25 € após redução ou atenuação (arts. 26.º, n.º 3, e 32.º, n.º 2, RGIT).",
+   "Confirmar a entidade competente para aplicar a coima (art. 52.º RGIT): consoante o tipo e o imposto em falta, pode ser o diretor de finanças e não o chefe do serviço de finanças.",
+   "Na redução de 50% durante a inspeção, a regularização segue o prazo do art. 58.º-A RCPIT (art. 30.º, n.º 3, al. b), RGIT) — confirmar o regime do RCPIT na redação do DL n.º 49/2025."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=259&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=259A0030&nid=259&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=259A0028A&nid=259&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=259A0029&nid=259&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=256A0059&nid=256&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+  ]
+ },
+ {
+  "codigo": "FIS-029",
+  "veredicto": "corrigida",
+  "resumo": "O valor da garantia estava errado (dívida + juros de 3 anos + custas estimadas em 10%): o art. 199.º, n.º 6, CPPT manda somar a dívida exequenda, os juros de mora até ao termo do prazo de pagamento voluntário ou à data do pedido (com o limite de cinco anos) e as custas na totalidade, tudo acrescido de 25%. O prazo de 15 dias conta-se da apresentação do meio de reação (art. 169.º, n.º 8, CPPT), não da notificação, e não é de dias úteis; os limiares de 5.000 €/10.000 € são da suspensão sem garantia até 120 dias (art. 169.º, n.º 3), não da dispensa do art. 52.º, n.º 4, LGT, que exige prejuízo irreparável ou manifesta falta de meios. Corrigi também o art. 170.º CPPT (trata da dispensa, não do reforço) e as modalidades de garantia do art. 199.º, n.os 1 e 2.",
+  "substituicoes": [
+   {
+    "de": "- A garantia deve ser suficiente para cobrir: dívida + juros de mora de 3 anos + custas (art. 169.º, n.º 1 CPPT)\n- Tipos de garantia idónea: hipoteca voluntária, penhor, fiança bancária, seguro-caução, garantia bancária (art. 199.º CPPT)",
+    "para": "- A garantia é prestada pelo valor da dívida exequenda, dos juros de mora contados até ao termo do prazo de pagamento voluntário ou até à data do pedido, quando posterior, com o limite de cinco anos, e das custas na totalidade, acrescido de 25% da soma desses valores (art. 199.º, n.º 6, CPPT); o montante da garantia a prestar é disponibilizado no Portal das Finanças ou pelo órgão de execução fiscal (art. 169.º, n.º 7, CPPT)\n- Tipos de garantia idónea: garantia bancária, caução, seguro-caução ou qualquer meio suscetível de assegurar os créditos do exequente (art. 199.º, n.º 1, CPPT); penhor ou hipoteca voluntária, a pedido do executado e com a concordância da AT (art. 199.º, n.º 2, CPPT); a penhora já feita sobre bens suficientes vale como garantia (art. 199.º, n.º 4, CPPT)",
+    "motivo": "O valor da garantia inclui juros com o limite de cinco anos e o acréscimo de 25% (art. 199.º, n.º 6); penhor e hipoteca dependem da concordância da AT",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=256A0199&nid=256&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Prazo para prestar garantia após notificação: 15 dias úteis (art. 169.º, n.º 2 CPPT) [■ VERIFICAR: prazo atual]",
+    "para": "- Prazo: 15 dias a contar da apresentação do meio de reação (reclamação graciosa, impugnação judicial, recurso judicial ou oposição) para prestar garantia idónea ou requerer a dispensa; sem isso, procede-se de imediato à penhora (art. 169.º, n.os 8 e 12, CPPT)\n- Os limiares de 5.000 € (pessoas singulares) e 10.000 € (pessoas coletivas) não são de dispensa de garantia: abaixo deles, a execução suspende-se sem garantia nem requerimento por um período máximo de 120 dias contados do termo do prazo de pagamento voluntário, suspensão que cessa 15 dias após a apresentação do meio de reação se não for prestada garantia nem obtida a dispensa (art. 169.º, n.º 3, CPPT)",
+    "motivo": "O prazo de 15 dias conta-se da apresentação do meio de reação (art. 169.º, n.º 8), não da notificação; os limiares de 5.000 €/10.000 € são da suspensão do n.º 3",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=256A0169&nid=256&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Dispensa de garantia: possível se valor da dívida < € 5.000 (singular) ou € 10.000 (coletivo) ou situação de manifesta insuficiência económica (art. 52.º, n.º 4 LGT) [■ VERIFICAR: limites atuais]",
+    "para": "- Dispensa de garantia (art. 52.º, n.º 4 LGT; art. 170.º CPPT): a requerimento, quando a prestação da garantia cause prejuízo irreparável ou haja manifesta falta de meios económicos revelada pela insuficiência de bens penhoráveis, sem fortes indícios de que a insuficiência ou inexistência de bens se deveu a atuação dolosa do executado; requerida no prazo de 15 dias a contar da apresentação do meio de reação (30 dias após o facto, se superveniente), com a prova documental necessária, e decidida em 10 dias (art. 170.º CPPT); é válida por um ano (art. 52.º, n.º 5, LGT)",
+    "motivo": "A dispensa do art. 52.º, n.º 4, LGT não depende do valor da dívida: exige prejuízo irreparável ou manifesta falta de meios não devida a atuação dolosa",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=253A0052&nid=253&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- O valor da garantia cobre: dívida + juros 3 anos + custas?\n- É caso de dispensa de garantia por valor abaixo do limiar ou insuficiência económica?\n- Qual o prazo (15 dias) para apresentar a garantia?",
+    "para": "- O valor da garantia cobre dívida + juros de mora (limite de 5 anos) + custas, acrescidos de 25% (art. 199.º, n.º 6, CPPT)?\n- É caso de dispensa de garantia por prejuízo irreparável ou manifesta falta de meios (art. 52.º, n.º 4 LGT), ou de suspensão até 120 dias sem garantia por a dívida ser inferior ao limiar do art. 169.º, n.º 3, CPPT?\n- O prazo de 15 dias a contar da apresentação do meio de reação (art. 169.º, n.º 8, CPPT) está a correr?",
+    "motivo": "Mesmos erros na análise do caso: valor da garantia, pressupostos da dispensa e início do prazo",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=256A0169&nid=256&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Art. 170.º CPPT — substituição e reforço da garantia",
+    "para": "- Art. 170.º CPPT — dispensa da prestação de garantia (prazo, prova e decisão)\n- Art. 52.º, n.os 3 e 7, LGT e art. 169.º, n.º 9, CPPT — reforço e substituição da garantia",
+    "motivo": "O art. 170.º CPPT regula a dispensa; o reforço e a substituição estão no art. 52.º, n.os 3 e 7, LGT e no art. 169.º, n.º 9, CPPT",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=256A0170&nid=256&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Cálculo do valor da garantia necessário (dívida + juros 3 anos + 10% para custas — estimativa)",
+    "para": "- Cálculo do valor da garantia necessário: dívida exequenda + juros de mora até ao termo do prazo de pagamento voluntário ou até à data do pedido, se posterior (limite de 5 anos) + custas na totalidade, tudo acrescido de 25% (art. 199.º, n.º 6, CPPT); confrontar com o valor indicado na citação ou no Portal das Finanças (art. 169.º, n.os 7 e 14, CPPT)",
+    "motivo": "Fórmula de cálculo errada (juros de 3 anos e custas estimadas em 10%)",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=256A0199&nid=256&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "Juros de mora estimados para 3 anos: € [valor]\nCustas estimadas: € [valor]\nTotal necessário: € [soma]",
+    "para": "Juros de mora (até ao termo do prazo de pagamento voluntário ou à data do pedido; limite de 5 anos): € [valor]\nCustas: € [valor]\nAcréscimo de 25% sobre a soma (art. 199.º, n.º 6, CPPT): € [valor]\nTotal necessário: € [soma]",
+    "motivo": "Faltava o acréscimo de 25% e o período de juros estava errado",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=256A0199&nid=256&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- [ ] Valor da garantia suficiente (dívida + juros 3 anos + custas)\n- [ ] Prazo de 15 dias após notificação verificado",
+    "para": "- [ ] Valor da garantia suficiente (dívida + juros, com o limite de 5 anos, + custas, acrescidos de 25%)\n- [ ] Prazo de 15 dias a contar da apresentação do meio de reação verificado (art. 169.º, n.º 8, CPPT)",
+    "motivo": "Alinhar a verificação final com o art. 199.º, n.º 6, e o art. 169.º, n.º 8, CPPT",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=256A0169&nid=256&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar que o meio pendente permite a suspensão: o art. 169.º, n.º 1, CPPT refere a reclamação graciosa, a impugnação judicial e o recurso judicial (e o n.º 12 a oposição); o recurso hierárquico tem efeito meramente devolutivo e a arbitragem no CAAD deve ser confirmada caso a caso.",
+   "Confirmar a entidade competente para apreciar a garantia (o art. 199.º, n.º 9, CPPT remete para a entidade competente para autorizar o pagamento em prestações) e os critérios de avaliação do art. 199.º-A CPPT.",
+   "A garantia prestada nos 30 dias seguintes à citação vale pelo valor nela indicado (art. 169.º, n.º 14, CPPT) — confirmar a data da citação."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=256A0169&nid=256&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=256A0170&nid=256&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=256A0199&nid=256&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=253A0052&nid=253&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+  ]
+ },
+ {
+  "codigo": "FIS-032",
+  "veredicto": "corrigida",
+  "resumo": "A ficha invertia o art. 751.º CC (os privilégios imobiliários especiais preferem à hipoteca, ainda que esta seja anterior), apresentava o art. 748.º CC como fonte de um privilégio e dizia que o privilégio mobiliário geral prevalece sobre a hipoteca; reescrevi as regras de preferência (arts. 736.º, 744.º, 748.º, 749.º e 751.º CC, arts. 111.º CIRS e 116.º CIRC, art. 122.º CIMI e art. 50.º LGT em vez do art. 30.º LGT). O meio está certo — a graduação é feita pelo órgão de execução fiscal e dela cabe reclamação (art. 245.º, n.os 2 a 4, CPPT) —, mas o prazo é de 10 dias (art. 277.º, n.º 1, CPPT), não os 15 dias da reclamação de créditos do art. 240.º, e a petição dirige-se ao juiz do tribunal tributário, sendo apresentada no órgão de execução fiscal, que a remete de imediato. A suspeita da triagem de que a graduação é feita por sentença do tribunal não se confirmou no texto em vigor do art. 245.º CPPT.",
+  "substituicoes": [
+   {
+    "de": "  * O Estado tem privilégio creditório geral mobiliário (art. 736.º CC) e imobiliário especial (art. 748.º CC)\n  * A hipoteca registada ANTES do privilégio imobiliário especial do Estado prevalece (art. 751.º CC e jurisprudência do STA)\n  * O privilégio mobiliário geral do Estado (art. 736.º CC) prevalece sobre a hipoteca",
+    "para": "  * O Estado e as autarquias locais têm privilégio mobiliário geral pelos impostos indiretos e pelos impostos diretos inscritos para cobrança no ano corrente na data da penhora, ou ato equivalente, e nos dois anos anteriores (art. 736.º CC)\n  * Privilégios imobiliários especiais: contribuição predial (hoje IMI — art. 122.º, n.º 1, CIMI), inscrita no ano corrente e nos dois anos anteriores, sobre os bens cujos rendimentos lhe estão sujeitos, e sisa e imposto sobre as sucessões e doações, sobre os bens transmitidos (art. 744.º CC) [■ VERIFICAR: correspondência com o IMT e com o Imposto do Selo]; graduam-se entre si pela ordem do art. 748.º CC\n  * Os privilégios imobiliários especiais preferem à hipoteca, ainda que esta seja anterior (art. 751.º CC): a prioridade do registo da hipoteca não a faz prevalecer sobre eles\n  * O IRS e o IRC dos três últimos anos gozam de privilégio mobiliário geral e de privilégio imobiliário sobre os bens existentes no património do devedor à data da penhora (art. 111.º CIRS; art. 116.º CIRC); o privilégio geral não vale contra terceiros titulares de direitos que, recaindo sobre as coisas abrangidas, sejam oponíveis ao exequente (art. 749.º, n.º 1, CC), pelo que a hipoteca registada antes da penhora prevalece sobre ele [■ VERIFICAR: jurisprudência do Tribunal Constitucional e do STA sobre privilégios imobiliários gerais e hipoteca]\n  * O privilégio mobiliário geral incide apenas sobre bens móveis: não concorre com a hipoteca sobre imóveis",
+    "motivo": "Regras de preferência invertidas: o art. 751.º CC dá prevalência aos privilégios imobiliários especiais sobre a hipoteca, ainda que anterior; o art. 748.º CC ordena privilégios, não os cria; o privilégio mobiliário geral não incide sobre imóveis",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0751&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "  * Verificar se se aplica o art. 30.º, n.º 3 LGT (créditos tributários com privilégios especiais)\n- A reclamação é apresentada ao órgão de execução fiscal no prazo de 15 dias após notificação da graduação (art. 240.º, n.º 2 CPPT)\n- Se não for resolvida, é remetida ao tribunal tributário para decisão",
+    "para": "  * Fonte geral das garantias dos créditos tributários: art. 50.º, n.º 2, al. a), LGT (privilégios creditórios previstos no Código Civil ou nas leis tributárias)\n- A verificação e graduação de créditos é feita pelo órgão de execução fiscal, que dela notifica todos os credores (art. 245.º, n.º 2, CPPT); os credores que reclamaram podem reclamar dessa decisão nos termos e prazos dos arts. 276.º e seguintes do CPPT (art. 245.º, n.º 3, CPPT): no prazo de 10 dias após a notificação, com os fundamentos e as conclusões, em petição dirigida ao tribunal tributário de 1.ª instância e apresentada no órgão de execução fiscal (art. 277.º, n.os 1 e 2, CPPT)\n- A reclamação tem efeito suspensivo e é remetida de imediato, por via eletrónica, ao tribunal tributário de 1.ª instância, com o processo principal (art. 245.º, n.º 4, CPPT); o prazo de 15 dias do art. 240.º, n.º 1, CPPT é o da reclamação de créditos pelos credores com garantia real, após a citação, e não o da reação à graduação",
+    "motivo": "O art. 30.º LGT não trata de privilégios; o prazo para reclamar da graduação é de 10 dias (art. 245.º, n.º 3, e art. 277.º, n.º 1, CPPT) e a reclamação sobe de imediato ao tribunal",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=256A0245&nid=256&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Quem reclama: o executado, um credor com garantia real, um terceiro interessado?",
+    "para": "- Quem reclama: o executado, um credor com garantia real, um terceiro interessado? (o art. 245.º, n.º 3, CPPT confere a reclamação da graduação aos credores que reclamaram créditos; o executado ou um terceiro só pela via geral do art. 276.º CPPT, se a decisão lesar os seus direitos [■ VERIFICAR: legitimidade no caso concreto])",
+    "motivo": "Legitimidade definida no art. 245.º, n.º 3, CPPT",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=256A0276&nid=256&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- O prazo de 15 dias para reclamar está cumprido?",
+    "para": "- O prazo de 10 dias a contar da notificação da graduação (art. 277.º, n.º 1, CPPT) está cumprido?",
+    "motivo": "O prazo é de 10 dias (art. 277.º, n.º 1, por remissão do art. 245.º, n.º 3, CPPT)",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=256A0277&nid=256&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Arts. 240.º a 245.º CPPT — reclamação e graduação de créditos em execução fiscal\n- Art. 30.º LGT — privilégios tributários",
+    "para": "- Arts. 240.º a 245.º CPPT — reclamação e graduação de créditos em execução fiscal; arts. 276.º a 278.º CPPT — reclamação para o tribunal tributário\n- Art. 50.º, n.º 2, al. a), LGT — privilégios creditórios dos créditos tributários; art. 111.º CIRS e art. 116.º CIRC (IRS e IRC); art. 122.º, n.º 1, CIMI (IMI)",
+    "motivo": "O art. 30.º LGT trata do objeto e da indisponibilidade do crédito tributário; as garantias estão no art. 50.º LGT e nos códigos de cada imposto",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=253A0050&nid=253&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Prosseguimento: se a reclamação não for aceite pelo órgão, o tribunal tributário decide",
+    "para": "- Prosseguimento: a reclamação sobe de imediato ao tribunal tributário de 1.ª instância, que decide (art. 245.º, n.º 4, CPPT)",
+    "motivo": "A reclamação da graduação é remetida de imediato ao tribunal, com efeito suspensivo",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=256A0245&nid=256&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "**EXMO(A). SENHOR(A) CHEFE DO SERVIÇO DE FINANÇAS DE [LOCALIDADE]**",
+    "para": "**EXMO(A). SENHOR(A) JUIZ DE DIREITO DO TRIBUNAL ADMINISTRATIVO E FISCAL DE [LOCALIDADE]**\n(apresentada no Serviço de Finanças de [localidade], órgão de execução fiscal — art. 277.º, n.º 2, CPPT)",
+    "motivo": "A reclamação é para o tribunal tributário de 1.ª instância (art. 276.º CPPT), apresentada no órgão de execução fiscal",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=256A0277&nid=256&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "vem, nos termos do art. 240.º, n.º 2 do CPPT, apresentar a presente",
+    "para": "vem, nos termos do art. 245.º, n.º 3, e dos arts. 276.º e 277.º do CPPT, apresentar a presente",
+    "motivo": "O art. 240.º CPPT regula a reclamação de créditos, não a reação à graduação",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=256A0245&nid=256&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "[Demonstrar que o prazo de 15 dias a contar da notificação da graduação está cumprido — art. 240.º, n.º 2 CPPT]",
+    "para": "[Demonstrar que o prazo de 10 dias a contar da notificação da graduação está cumprido — art. 277.º, n.º 1, CPPT]",
+    "motivo": "Prazo e norma errados",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=256A0277&nid=256&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "Requer a V. Ex.ª que se digne alterar a graduação de créditos,",
+    "para": "Requer a V. Ex.ª que julgue procedente a presente reclamação e, em consequência, determine a alteração da graduação de créditos,",
+    "motivo": "Pedido dirigido ao tribunal que decide a reclamação",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=256A0276&nid=256&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- [ ] Prazo de 15 dias verificado e demonstrado",
+    "para": "- [ ] Prazo de 10 dias (art. 277.º, n.º 1, CPPT) verificado e demonstrado",
+    "motivo": "Prazo errado",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=256A0277&nid=256&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar a legitimidade do reclamante (art. 245.º, n.º 3, CPPT) e, se for o executado ou um terceiro, a via do art. 276.º CPPT.",
+   "Confirmar a natureza (geral ou especial) do privilégio imobiliário invocado pela AT e a jurisprudência do Tribunal Constitucional e do STA sobre a sua prevalência sobre a hipoteca.",
+   "Confirmar a correspondência dos privilégios do art. 744.º, n.º 2, CC (sisa e imposto sobre as sucessões e doações) com o IMT e o Imposto do Selo.",
+   "A ficha não trata dos créditos da Segurança Social nem de outros créditos privilegiados concorrentes — confirmar a sua graduação no caso concreto."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=256A0240&nid=256&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=256A0245&nid=256&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=256A0276&nid=256&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=256A0277&nid=256&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0736&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0744&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0748&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0751&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cirs_rep/Pages/irs111.aspx",
+   "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/CIRC_2R/Pages/irc116.aspx",
+   "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cimi/Pages/cimi122.aspx",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=253A0050&nid=253&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+  ]
+ },
+ {
+  "codigo": "FIS-034",
+  "veredicto": "corrigida",
+  "resumo": "Vários prazos e obrigações estavam errados: o IVA paga-se até ao dia 25 do 2.º mês seguinte (não «no mesmo prazo» da declaração), a declaração trimestral é até ao dia 20 (não 15), a IES é até 15 de julho e é autónoma do Modelo 22, o Modelo 10 é até ao fim de fevereiro, o Modelo 30 é até ao fim do 2.º mês seguinte ao pagamento e a declaração do Imposto do Selo é mensal (dia 20). Retirei o pagamento especial por conta (art. 106.º CIRC revogado pela Lei n.º 12/2022) e corrigi os pagamentos por conta (julho, setembro e 15 de dezembro), a comunicação de inventários, os anexos da IES (os anexos O e Q foram eliminados) e a referência a uma «portaria do calendário fiscal»; acrescentei a declaração mensal de remunerações à AT e deixei os prazos da Segurança Social com [■ VERIFICAR], por não ter acedido à fonte oficial do DL n.º 127/2025. A triagem errava no IVA mensal (o dia 20 da ficha está certo) e no regime simplificado de IRC, que continua em vigor (arts. 86.º-A e 86.º-B CIRC).",
+  "substituicoes": [
+   {
+    "de": "- Recorda que a AT publica calendário fiscal anual no Portal das Finanças — os prazos podem ser alterados por portaria [■ VERIFICAR: calendário fiscal em vigor no ano da análise]\n- Para IVA: distinguir regime mensal (faturação anual > € 650.000) de regime trimestral",
+    "para": "- Recorda que a AT publica uma agenda fiscal anual no Portal das Finanças; os prazos constam dos códigos e podem ser prorrogados por despacho [■ VERIFICAR: agenda fiscal e despachos de prorrogação em vigor no ano da análise]\n- Para IVA: distinguir regime mensal (volume de negócios igual ou superior a 650.000 € no ano civil anterior — art. 41.º, n.º 1, al. a), CIVA) de regime trimestral (volume de negócios inferior — al. b))",
+    "motivo": "O critério é o volume de negócios do ano civil anterior igual ou superior a 650.000 €, não a faturação superior; não há portaria anual do calendário fiscal",
+    "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/civa_rep/Pages/iva41.aspx"
+   },
+   {
+    "de": "- CIVA — arts. 27.º ss (periodicidade das declarações periódicas) e art. 29.º (obrigações acessórias)",
+    "para": "- CIVA — art. 27.º (prazos de pagamento do imposto), art. 29.º (obrigações acessórias) e art. 41.º (prazos e periodicidade da declaração periódica)",
+    "motivo": "O art. 27.º CIVA fixa os prazos de pagamento; a periodicidade e o prazo da declaração estão no art. 41.º",
+    "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/civa_rep/Pages/iva27.aspx"
+   },
+   {
+    "de": "- Portaria do calendário fiscal do ano em análise [■ VERIFICAR: portaria em vigor]",
+    "para": "- Agenda fiscal do ano publicada pela AT no Portal das Finanças e eventuais despachos de prorrogação de prazos [■ VERIFICAR: agenda e despachos em vigor]",
+    "motivo": "Os prazos constam dos códigos; não há portaria anual do calendário fiscal",
+    "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/civa_rep/Pages/iva41.aspx"
+   },
+   {
+    "de": "| Declaração periódica de IVA (regime mensal) | Até ao dia 20 do 2.º mês seguinte ao período | Declaração IVA mensal | Apenas para faturação > € 650.000 anuais |\n| Entrega do IVA liquidado (regime mensal) | Mesmo prazo da declaração | Nota de pagamento AT | Simultâneo com a declaração |",
+    "para": "| Declaração periódica de IVA (regime mensal) | Até ao dia 20 do 2.º mês seguinte ao período (art. 41.º, n.º 1, al. a), CIVA) | Declaração IVA mensal | Volume de negócios igual ou superior a 650.000 € no ano civil anterior |\n| Entrega do IVA liquidado (regime mensal) | Até ao dia 25 do 2.º mês seguinte ao período (art. 27.º, n.º 1, al. a), CIVA) | Nota de pagamento AT | Prazo próprio, posterior ao da declaração |",
+    "motivo": "O pagamento do IVA no regime mensal é até ao dia 25 do 2.º mês seguinte, não no prazo da declaração",
+    "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/civa_rep/Pages/iva27.aspx"
+   },
+   {
+    "de": "| TSU — contribuições Segurança Social | Até ao dia 20 do mês seguinte | DMR / Segurança Social direta | [■ VERIFICAR: aplicável se a empresa tem trabalhadores] |",
+    "para": "| Declaração mensal de remunerações (AT) | Até ao dia 10 do mês seguinte ao do pagamento ou colocação à disposição (art. 119.º, n.º 1, al. c), i), CIRS) | DMR (AT) | Rendimentos do trabalho dependente, ainda que isentos ou não sujeitos |\n| Contribuições para a Segurança Social | Pagamento entre os dias 1 e 25 do mês seguinte; declaração de remunerações até ao dia 10 ou, no novo modelo, confirmação até ao dia 20 [■ VERIFICAR: Código Contributivo, arts. 40.º e 43.º, na redação do DL n.º 127/2025, e `references/valores-2026.md`] | Segurança Social Direta | Se a empresa tem trabalhadores |",
+    "motivo": "Faltava a declaração mensal de remunerações à AT; o prazo de pagamento das contribuições foi alterado pelo DL n.º 127/2025 (fonte oficial não acessível nesta revisão)",
+    "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cirs_rep/Pages/irs119.aspx"
+   },
+   {
+    "de": "| Declaração periódica de IVA (regime trimestral) | Até ao dia 15 do 2.º mês seguinte ao trimestre | Declaração IVA trimestral | Para empresas com faturação ≤ € 650.000 anuais |\n| Entrega do IVA liquidado (regime trimestral) | Mesmo prazo da declaração | Nota de pagamento AT | |",
+    "para": "| Declaração periódica de IVA (regime trimestral) | Até ao dia 20 do 2.º mês seguinte ao trimestre (art. 41.º, n.º 1, al. b), CIVA) | Declaração IVA trimestral | Volume de negócios inferior a 650.000 € no ano civil anterior |\n| Entrega do IVA liquidado (regime trimestral) | Até ao dia 25 do 2.º mês seguinte ao trimestre (art. 27.º, n.º 1, al. b), CIVA) | Nota de pagamento AT | Prazo próprio, posterior ao da declaração |",
+    "motivo": "A declaração trimestral é até ao dia 20 (não 15) e o pagamento até ao dia 25 do 2.º mês seguinte ao trimestre",
+    "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/civa_rep/Pages/iva41.aspx"
+   },
+   {
+    "de": "| Pagamentos por conta em IRC | Julho, setembro e dezembro (15.º dia) | Nota de pagamento IRC | 3 prestações — 1.ª em julho, 2.ª em setembro, 3.ª em dezembro [■ VERIFICAR: montantes base] |",
+    "para": "| Pagamentos por conta em IRC | Em julho, em setembro e até 15 de dezembro do próprio ano (art. 104.º, n.º 1, al. a), CIRC); período diferente do ano civil: 7.º mês, 9.º mês e dia 15 do 12.º mês | Nota de pagamento IRC | 3 prestações — 1.ª em julho, 2.ª em setembro, 3.ª até 15 de dezembro [■ VERIFICAR: montantes base] |",
+    "motivo": "Só a 3.ª prestação vence no dia 15 (de dezembro); as duas primeiras vencem em julho e em setembro",
+    "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/CIRC_2R/Pages/irc104.aspx"
+   },
+   {
+    "de": "| Pagamento especial por conta (PEC) | Março e outubro | Nota de pagamento IRC | [■ VERIFICAR: aplicabilidade — regime geral IRC] |",
+    "para": "| Pagamento especial por conta (PEC) | — | — | Extinto: o art. 106.º CIRC foi revogado pela Lei n.º 12/2022, com efeitos nos períodos de tributação iniciados em ou após 1 de janeiro de 2022 — não incluir no checklist |",
+    "motivo": "O PEC foi revogado pela Lei n.º 12/2022",
+    "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/CIRC_2R/Pages/irc106.aspx"
+   },
+   {
+    "de": "| IES / Declaração Anual de Informação Contabilística e Fiscal | Até ao último dia de junho (ano civil) | IES (Modelo 22 + Anexos) | Inclui Anexo A (IVA), Anexo L (IRC), Anexo O (relações especiais), outros |",
+    "para": "| IES / Declaração Anual de Informação Contabilística e Fiscal | Até 15 de julho, seja ou não dia útil (art. 121.º, n.º 2, CIRC) | IES/DA — declaração autónoma, distinta do Modelo 22 (art. 117.º, n.º 1, al. c), CIRC) | Anexos conforme a atividade e os impostos em causa [■ VERIFICAR: anexos do modelo em vigor]; os anexos O (mapa recapitulativo de clientes, IVA) e Q (Imposto do Selo) deixaram de integrar a IES a partir da declaração do período de 2024 (Portaria n.º 191/2025/1) |",
+    "motivo": "O prazo da IES é 15 de julho (art. 121.º, n.º 2, CIRC); a IES não é o Modelo 22 com anexos e a descrição dos anexos estava errada",
+    "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/CIRC_2R/Pages/irc121.aspx"
+   },
+   {
+    "de": "| Modelo 10 (declaração de remunerações e outros rendimentos pagos a residentes) | Até ao final de janeiro do ano seguinte | Modelo 10 | Se a empresa pagou remunerações, rendas ou outros rendimentos com retenção a residentes |",
+    "para": "| Modelo 10 (rendimentos pagos a residentes que não sejam do trabalho dependente, e retenções) | Até ao final de fevereiro do ano seguinte (art. 119.º, n.º 1, al. c), ii), CIRS, na redação do DL n.º 49/2025) | Modelo 10 | Se a empresa pagou a residentes rendas, serviços ou outros rendimentos sujeitos a retenção; as remunerações do trabalho dependente vão na declaração mensal de remunerações |",
+    "motivo": "O prazo é o fim de fevereiro e as remunerações do trabalho dependente declaram-se mensalmente",
+    "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cirs_rep/Pages/irs119.aspx"
+   },
+   {
+    "de": "| Modelo 30 (pagamentos a não residentes) | Até ao final de julho do ano seguinte | Modelo 30 | [■ VERIFICAR: aplicável se empresa pagou rendimentos a não residentes sem retenção total] |",
+    "para": "| Modelo 30 (rendimentos pagos a não residentes) | Até ao fim do 2.º mês seguinte ao do pagamento ou colocação à disposição (art. 119.º, n.º 7, al. a), CIRS) — obrigação por pagamento, não anual | Modelo 30 | Se pagou rendimentos a não residentes, com ou sem retenção na fonte [■ VERIFICAR: rendimentos abrangidos e articulação com o art. 128.º CIRC] |",
+    "motivo": "O Modelo 30 entrega-se até ao fim do 2.º mês seguinte ao pagamento, não em julho do ano seguinte",
+    "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cirs_rep/Pages/irs119.aspx"
+   },
+   {
+    "de": "| Comunicação de inventários à AT | Até ao dia 31 de janeiro do ano seguinte | SAF-T (inventários) | Obrigatório para empresas obrigadas a inventário permanente |",
+    "para": "| Comunicação de inventários à AT | Até ao dia 31 de janeiro (inventário valorizado do último dia do exercício anterior); período diferente do ano civil: até ao fim do 1.º mês seguinte ao termo | Ficheiro de inventário (estrutura definida por portaria) | Quem tem contabilidade organizada e está obrigado a elaborar inventário; dispensa no regime simplificado de IRS ou de IRC (art. 3.º-A do DL n.º 198/2012) |",
+    "motivo": "A obrigação abrange quem tem contabilidade organizada e está obrigado a inventário, não só o inventário permanente",
+    "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/legislacao/diplomas_legislativos/Documents/Decreto-Lei%20n%20_198_2012_24_08.pdf"
+   },
+   {
+    "de": "| Declaração de Imposto do Selo (operações especiais) | Prazo variável por operação | Modelo IS | [■ VERIFICAR: operações sujeitas — ex: empréstimos entre sócios e sociedade] |",
+    "para": "| Declaração mensal do Imposto do Selo (DMIS) e pagamento | Até ao dia 20 do mês seguinte àquele em que a obrigação tributária se constituiu (arts. 44.º, n.º 1, e 52.º-A CIS) — obrigação mensal, não anual | DMIS + guia de pagamento | Nos meses com operações sujeitas em que a empresa seja sujeito passivo [■ VERIFICAR: operações sujeitas — ex: empréstimos entre sócios e sociedade] |",
+    "motivo": "O Imposto do Selo declara-se e paga-se mensalmente, até ao dia 20 do mês seguinte",
+    "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/selo/Pages/selo44.aspx"
+   },
+   {
+    "de": "pagamentos por conta a calcular; PEC a verificar]",
+    "para": "pagamentos por conta a calcular]",
+    "motivo": "O PEC foi revogado pela Lei n.º 12/2022",
+    "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/CIRC_2R/Pages/irc106.aspx"
+   },
+   {
+    "de": "- [ ] IES incluída com prazo de junho",
+    "para": "- [ ] IES incluída com prazo de 15 de julho",
+    "motivo": "Prazo da IES (art. 121.º, n.º 2, CIRC)",
+    "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/CIRC_2R/Pages/irc121.aspx"
+   },
+   {
+    "de": "- [ ] Calendário fiscal do ano em vigor verificado [■ VERIFICAR: portaria anual]",
+    "para": "- [ ] Agenda fiscal do ano e despachos de prorrogação verificados [■ VERIFICAR: agenda fiscal da AT]",
+    "motivo": "Não há portaria anual do calendário fiscal",
+    "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/civa_rep/Pages/iva41.aspx"
+   },
+   {
+    "de": "mensal (faturação > € 650.000) / trimestral",
+    "para": "mensal (volume de negócios igual ou superior a 650.000 € no ano civil anterior) / trimestral",
+    "motivo": "Critério do art. 41.º, n.º 1, CIVA",
+    "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/civa_rep/Pages/iva41.aspx"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar os prazos da Segurança Social em 2026 na fonte oficial (DL n.º 127/2025: pagamento entre os dias 1 e 25 do mês seguinte; confirmação das remunerações até ao dia 20 no novo modelo, obrigatório a partir de 2027) — o Diário da República e o site da Segurança Social não estavam acessíveis nesta revisão.",
+   "Confirmar os anexos da IES aplicáveis ao período e ao perfil da empresa (a Portaria n.º 191/2025/1 eliminou os anexos O e Q).",
+   "Confirmar a agenda fiscal da AT e eventuais despachos de prorrogação de prazos no ano da análise.",
+   "O checklist não é exaustivo (p. ex., declaração recapitulativa de IVA, Modelo 39, Modelo 25, RCBE): completar consoante o perfil da empresa."
+  ],
+  "fontes": [
+   "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/civa_rep/Pages/iva27.aspx",
+   "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/civa_rep/Pages/iva41.aspx",
+   "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/CIRC_2R/Pages/irc104.aspx",
+   "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/CIRC_2R/Pages/irc106.aspx",
+   "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/CIRC_2R/Pages/irc120.aspx",
+   "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/CIRC_2R/Pages/irc121.aspx",
+   "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/CIRC_2R/Pages/circ-codigo-do-irc-indice.aspx",
+   "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cirs_rep/Pages/irs98.aspx",
+   "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cirs_rep/Pages/irs119.aspx",
+   "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/legislacao/diplomas_legislativos/Documents/Decreto-Lei%20n%20_198_2012_24_08.pdf",
+   "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/selo/Pages/selo44.aspx",
+   "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/selo/Pages/selo52a.aspx",
+   "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/legislacao/diplomas_legislativos/Documents/Portaria_191_2025_1.pdf"
+  ]
+ },
+ {
+  "codigo": "FIS-043",
+  "veredicto": "corrigida",
+  "resumo": "As taxas de tributação autónoma das viaturas indicadas (10%/27,5%/35%) vigoraram até 2023: em 2024 passaram a 8,5%/25,5%/32,5% (Lei n.º 82/2023) e nos períodos de 2025 e 2026 são 8%/25%/32%, com escalões de 37.500 € e 45.000 € (Lei n.º 45-A/2024). Como a reclamação incide sobre um exercício passado, a ficha passa a mandar aplicar a redação do período em causa. Corrigi ainda a remissão para o n.º 4 do art. 88.º (revogado) — os híbridos plug-in, o GNV e os elétricos estão nos n.os 18 e 20 —, a descrição do n.º 9 (encargos «não faturados a clientes», não «não documentados») e as exclusões, e acrescentei as exceções ao agravamento por prejuízo fiscal (n.º 15 e regime transitório de 2026).",
+  "substituicoes": [
+   {
+    "de": "- Art. 88.º, n.º 3, CIRC: encargos com viaturas ligeiras de passageiros — taxas escalonadas por custo de aquisição (10%/27,5%/35%)\n- Art. 88.º, n.º 4, CIRC: taxas para viaturas elétricas (redução significativa)",
+    "para": "- Art. 88.º, n.º 3, CIRC: encargos com viaturas ligeiras de passageiros (e as demais viaturas do n.º 3) — taxas escalonadas por custo de aquisição, na redação aplicável ao período reclamado: períodos de 2025 e 2026 — 8% (custo inferior a 37.500 €), 25% (igual ou superior a 37.500 € e inferior a 45.000 €) e 32% (igual ou superior a 45.000 €), na redação da Lei n.º 45-A/2024; 2024 — 8,5% / 25,5% / 32,5%, com escalões de 27.500 € e 35.000 € (Lei n.º 82/2023); 2020 a 2023 — 10% / 27,5% / 35%, com os mesmos escalões [■ VERIFICAR: redação aplicável à data dos encargos e normas transitórias]\n- Art. 88.º, n.º 18, CIRC: híbridos plug-in que cumpram os requisitos de autonomia elétrica e de emissões da norma e viaturas a GNV — 2,5% / 7,5% / 15% (até 2022: 5% / 10% / 17,5% nos híbridos plug-in e 7,5% / 15% / 27,5% no GNV); art. 88.º, n.º 20, CIRC: viaturas exclusivamente elétricas — só tributadas, à taxa de 10%, se o custo de aquisição exceder o limite da portaria do art. 34.º, n.º 1, al. e), CIRC (valor em `references/valores-2026.md`); o n.º 4 do art. 88.º está revogado",
+    "motivo": "Taxas desatualizadas (as de 10%/27,5%/35% vigoraram até 2023) e remissão para o n.º 4, revogado; os elétricos e híbridos estão nos n.os 18 e 20",
+    "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/CIRC_2R/Pages/irc88.aspx"
+   },
+   {
+    "de": "- Art. 88.º, n.º 9, CIRC: ajudas de custo e compensações por viatura própria não documentadas — taxa 5%",
+    "para": "- Art. 88.º, n.º 9, CIRC: ajudas de custo e compensação pela deslocação em viatura própria do trabalhador, ao serviço da entidade patronal, não faturadas a clientes — taxa 5%, exceto na parte tributada em IRS na esfera do beneficiário",
+    "motivo": "O critério do n.º 9 é não serem faturadas a clientes, não a falta de documentação (as despesas não documentadas estão no n.º 1, a 50%)",
+    "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/CIRC_2R/Pages/irc88.aspx"
+   },
+   {
+    "de": "- Art. 88.º, n.º 14, CIRC: agravamento de 10 p.p. em exercícios com prejuízo fiscal\n- Exclusões: encargos devidamente documentados e sujeitos a IRS do beneficiário (art. 88.º, n.º 9, in fine)",
+    "para": "- Art. 88.º, n.º 14, CIRC: agravamento de 10 p.p. em exercícios com prejuízo fiscal, que não se aplica no período de início de atividade nem no seguinte (art. 88.º, n.º 15, CIRC) e, nos períodos de 2026, nas condições do art. 95.º, n.º 5, da Lei n.º 73-A/2025 [■ VERIFICAR: requisitos do regime transitório]\n- Exclusões: a parte das ajudas de custo e das compensações tributada em IRS na esfera do beneficiário (art. 88.º, n.º 9, in fine) e as viaturas excluídas do n.º 3 pelo art. 88.º, n.º 6, CIRC",
+    "motivo": "Faltavam as exceções ao agravamento; a exclusão do n.º 9 depende da tributação em IRS do beneficiário, não da documentação",
+    "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/CIRC_2R/Pages/irc88.aspx"
+   },
+   {
+    "de": "- [ ] Custo de aquisição das viaturas verificado para determinar taxa correta",
+    "para": "- [ ] Custo de aquisição das viaturas verificado para determinar a taxa e o escalão da redação aplicável ao período",
+    "motivo": "As taxas e os escalões mudaram em 2024 e em 2025",
+    "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/CIRC_2R/ra/Pages/irc88ra_202412.aspx"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "As tributações autónomas em IRC são autoliquidadas no Modelo 22: a reclamação graciosa da autoliquidação tem o prazo de 2 anos (art. 131.º CPPT); se resultarem de liquidação adicional da AT, aplica-se o prazo de 120 dias (art. 70.º CPPT) — confirmar o meio e o prazo no caso.",
+   "Confirmar a redação do art. 88.º CIRC aplicável ao período e à data dos encargos, incluindo as normas transitórias das Leis n.os 24-D/2022, 82/2023 e 45-A/2024.",
+   "Confirmar o valor-limite da portaria do art. 34.º, n.º 1, al. e), CIRC para as viaturas elétricas e os requisitos de emissões dos híbridos plug-in na redação da Lei n.º 73-A/2025.",
+   "Confirmar o regime transitório do agravamento por prejuízo fiscal em 2026 (Lei n.º 73-A/2025, art. 95.º, n.º 5)."
+  ],
+  "fontes": [
+   "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/CIRC_2R/Pages/irc88.aspx",
+   "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/CIRC_2R/ra/Pages/irc88ra_202512.aspx",
+   "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/CIRC_2R/ra/Pages/irc88ra_202412.aspx",
+   "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/CIRC_2R/ra/Pages/irc88_ra122023.aspx",
+   "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/CIRC_2R/ra/Pages/irc88ra_202212.aspx"
+  ]
+ },
+ {
+  "codigo": "FIS-044",
+  "veredicto": "corrigida",
+  "resumo": "A ficha invertia o art. 24.º, n.º 1, LGT: atribuía a presunção de culpa à al. a) e descrevia a al. b) como dívidas vencidas após a cessação de funções. Na al. a) (facto constitutivo no período do cargo, ou prazo de pagamento terminado depois dele) o gerente só responde se a insuficiência do património lhe for imputável a título de culpa, que cabe à AT provar; na al. b) (prazo de pagamento ou entrega terminado no período do cargo) presume-se a culpa e é o gerente que tem de provar que a falta de pagamento não lhe é imputável. Corrigi a análise, a estrutura da oposição e o cabeçalho: a petição dirige-se ao juiz do tribunal tributário, mas é apresentada no órgão da execução fiscal, que a remete ao tribunal (arts. 207.º e 208.º CPPT).",
+  "substituicoes": [
+   {
+    "de": "- Período de exercício de funções do revertido e confronto com o período de formação das dívidas",
+    "para": "- Período de exercício de funções do revertido e confronto, dívida a dívida, com a data do facto constitutivo e com o termo do prazo legal de pagamento ou entrega (art. 24.º, n.º 1, als. a) e b), LGT)",
+    "motivo": "As duas alíneas do art. 24.º, n.º 1, LGT usam critérios temporais diferentes",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=253A0024&nid=253&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Art. 24.º, n.º 1, al. a), LGT: responsabilidade pelo período de exercício de funções em que foi gerente — presunção de culpa se dívidas vencidas no período\n- Art. 24.º, n.º 1, al. b), LGT: dívidas vencidas após cessação de funções — responsabilidade se a insuficiência de bens da sociedade for culpa do gerente",
+    "para": "- Art. 24.º, n.º 1, al. a), LGT: dívidas cujo facto constitutivo se verificou no período do cargo, ou cujo prazo legal de pagamento ou entrega terminou depois dele — o gerente só responde se tiver sido por culpa sua que o património da sociedade se tornou insuficiente, e é à AT que cabe provar essa culpa\n- Art. 24.º, n.º 1, al. b), LGT: dívidas cujo prazo legal de pagamento ou entrega terminou no período do cargo — presume-se a culpa: é o gerente que tem de provar que a falta de pagamento não lhe é imputável\n- Em ambos os casos, a responsabilidade pressupõe o exercício, ainda que somente de facto, de funções de administração ou gestão (art. 24.º, n.º 1, LGT); a mera inscrição no registo como gerente não basta [■ VERIFICAR: jurisprudência do STA sobre a prova da gerência de facto]",
+    "motivo": "Regime invertido: a presunção de culpa é a da al. b) (prazo de pagamento terminado no período do cargo); na al. a) a culpa tem de ser provada pela AT",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=253A0024&nid=253&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "**AO TRIBUNAL ADMINISTRATIVO E FISCAL DE [LOCALIDADE]**\n**Processo de Execução Fiscal n.º [___]**",
+    "para": "**EXMO(A). SENHOR(A) JUIZ DE DIREITO DO TRIBUNAL ADMINISTRATIVO E FISCAL DE [LOCALIDADE]**\n**Processo de Execução Fiscal n.º [___] — Serviço de Finanças de [localidade]**\n(petição apresentada no órgão da execução fiscal onde pende a execução, que a remete ao tribunal — arts. 207.º, n.º 1, e 208.º, n.º 1, CPPT)",
+    "motivo": "A petição de oposição é apresentada no órgão da execução fiscal onde pende a execução, que a remete ao tribunal de 1.ª instância",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=256A0207&nid=256&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "[Demonstração de que o oponente não era gerente na data de formação da dívida]",
+    "para": "[Demonstração, dívida a dívida, de que a dívida não cabe no art. 24.º, n.º 1, LGT face ao período em que o oponente exerceu de facto a gerência — al. a): facto constitutivo no período do cargo ou prazo de pagamento terminado depois dele; al. b): prazo de pagamento terminado no período do cargo — ou de que não exerceu de facto a gerência]",
+    "motivo": "O critério não é a «data de formação da dívida» mas os do art. 24.º, n.º 1, als. a) e b), LGT",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=253A0024&nid=253&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "[Se funções exercidas: demonstração de boa gestão e causas externas]",
+    "para": "[Se funções exercidas: demonstração de boa gestão e causas externas — nas dívidas da al. a) do art. 24.º, n.º 1, LGT, é à AT que cabe provar a culpa na insuficiência do património; nas da al. b), é o oponente que tem de provar que a falta de pagamento não lhe é imputável]",
+    "motivo": "A repartição do ónus da prova depende da alínea aplicável",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=253A0024&nid=253&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar a jurisprudência do STA sobre o ónus da prova da gerência de facto e da culpa, alínea a alínea do art. 24.º, n.º 1, LGT.",
+   "Verificar a fundada insuficiência dos bens da sociedade como pressuposto da reversão (art. 23.º, n.º 2, LGT; art. 153.º, n.º 2, CPPT).",
+   "Verificar a prescrição quanto ao revertido: a interrupção contra a sociedade não lhe é oponível se for citado depois do 5.º ano posterior ao da liquidação (art. 48.º, n.º 3, LGT).",
+   "Se o revertido pagar no prazo de oposição, fica isento de juros de mora e de custas (art. 23.º, n.º 5, LGT) — ponderar com o cliente; a legalidade da dívida discute-se, em regra, por reclamação graciosa ou impugnação, e não por oposição."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=253A0024&nid=253&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=256A0207&nid=256&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+  ]
+ }
+]

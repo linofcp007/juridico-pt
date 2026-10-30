@@ -3,20 +3,22 @@ codigo: PEN-004
 area: "Direito Penal e Contraordenacional"
 titulo: "Contestação Criminal (Resposta à Acusação / Pronúncia)"
 titulo_en: "Criminal Defence (Response to the Indictment / Committal Order)"
-descricao: "Gera a contestação (resposta à acusação pública ou particular) em processo penal português, com impugnação dos factos, exceções processuais, defesa de direito e indicação da prova de defesa, ao abrigo do art. 315.º e ss. do CPP."
-descricao_en: "Generates the defence (contestação — response to the public or private indictment) in Portuguese criminal proceedings, challenging the facts, raising procedural objections, presenting a legal defence and listing the defence evidence, under Articles 315 et seq. of the CPP."
+descricao: "Gera a contestação do arguido (resposta à acusação pública ou particular ou à pronúncia) em processo penal português, com impugnação dos factos, exceções processuais, defesa de direito e indicação da prova de defesa, ao abrigo dos arts. 311.º-A e 311.º-B do CPP."
+descricao_en: "Generates the defendant's defence (contestação — response to the public or private indictment or to the committal order) in Portuguese criminal proceedings, challenging the facts, raising procedural objections, presenting a legal defence and listing the defence evidence, under Articles 311-A and 311-B of the CPP."
 ambito: nacional
-estado_citacoes: "conferidas 19 · corrigidas 0 · por conferir 0"
+estado_citacoes: "conferidas 37 · corrigidas 0 · por conferir 3"
+revisao_tecnica: "2026-10-28 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
 # Contestação Criminal (Resposta à Acusação / Pronúncia)
 
 > **Âmbito:** nacional · **Área:** Direito Penal e Contraordenacional · **Código:** PEN-004
-> **EN:** Criminal Defence (Response to the Indictment / Committal Order). Generates the defence (contestação — response to the public or private indictment) in Portuguese criminal proceedings, challenging the facts, raising procedural objections, presenting a legal defence and listing the defence evidence, under Articles 315 et seq. of the CPP.
-> **Citações:** conferidas 19 · corrigidas 0 · por conferir 0. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **EN:** Criminal Defence (Response to the Indictment / Committal Order). Generates the defendant's defence (contestação — response to the public or private indictment or to the committal order) in Portuguese criminal proceedings, challenging the facts, raising procedural objections, presenting a legal defence and listing the defence evidence, under Articles 311-A and 311-B of the CPP.
+> **Citações:** conferidas 37 · corrigidas 0 · por conferir 3. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-28 — corrigida (14 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
-Gera a contestação (resposta à acusação pública ou particular) em processo penal português, com impugnação dos factos, exceções processuais, defesa de direito e indicação da prova de defesa, ao abrigo do art. 315.º e ss. do CPP.
+Gera a contestação do arguido (resposta à acusação pública ou particular ou à pronúncia) em processo penal português, com impugnação dos factos, exceções processuais, defesa de direito e indicação da prova de defesa, ao abrigo dos arts. 311.º-A e 311.º-B do CPP.
 
 ## Método
 
@@ -25,9 +27,9 @@ Ficha de trabalho para preparar este documento. As regras da casa prevalecem sob
 ## Regras obrigatórias
 — NUNCA inventes jurisprudência, acórdãos ou doutrina sem verificação.
 — Marca [■ VERIFICAR: dado necessário] sempre que faltar informação.
-— Prazo de contestação: 20 dias após notificação da acusação (art. 315.º, n.º 1 CPP).
-— A contestação pode conter: exceções, impugnação de factos, novos factos, prova de defesa, rol de testemunhas (máx. 20 — art. 315.º, n.º 2 CPP).
-— Na contestação podem arguir-se nulidades dos atos do inquérito e instrução.
+— Prazo de contestação: 20 dias a contar da notificação do despacho do presidente que, recebidos os autos, ordena a notificação do arguido para contestar (art. 311.º-A, n.º 1, e art. 311.º-B, n.º 1, CPP); o antigo art. 315.º CPP está revogado.
+— A contestação é deduzida por artigos e acompanhada da indicação da prova a produzir ou a requerer; pode conter exceções, impugnação de factos, novos factos e prova de defesa, com rol de, no máximo, 20 testemunhas, das quais só 5 podem depor apenas sobre os aspetos do art. 128.º, n.º 2, CPP, limite que só pode ser ultrapassado por requerimento fundamentado (art. 311.º-B, n.º 1, e art. 283.º, n.º 3, al. e), e n.º 7, CPP, na redação da Lei n.º 34/2026).
+— Na contestação já não podem arguir-se as nulidades dependentes de arguição do inquérito e da instrução: as do inquérito arguem-se no requerimento de abertura de instrução ou, não havendo instrução, até ao termo do prazo para a requerer, e as da instrução até ao encerramento do debate instrutório (art. 120.º, n.º 3, als. c) e d), CPP, na redação da Lei n.º 34/2026). Ficam ressalvadas as nulidades insanáveis, de conhecimento oficioso em qualquer fase (art. 119.º CPP), e as proibições de prova (art. 118.º, n.º 3, e art. 126.º CPP).
 
 ---
 
@@ -36,19 +38,19 @@ Ficha de trabalho para preparar este documento. As regras da casa prevalecem sob
 ### ETAPA 1 — PROBLEMATIZAÇÃO
 Apresenta em <analise_do_caso>:
 - Qual o crime imputado e a pena abstrata?
-- Há exceções processuais a arguir (incompetência, prescrição, nulidades)?
+- Há exceções processuais a arguir (incompetência, prescrição, nulidades insanáveis, proibições de prova)? As nulidades dependentes de arguição do inquérito e da instrução foram arguidas no momento do art. 120.º, n.º 3, CPP?
 - Quais os factos da acusação que o arguido impugna totalmente?
 - Quais os factos da acusação que o arguido impugna parcialmente?
 - Há factos novos favoráveis ao arguido não constantes da acusação?
 - Que prova de defesa existe (testemunhas, documentos, perícias)?
-- Há causas de exclusão da ilicitude ou da culpa a invocar (art. 31.º CP — legítima defesa, estado de necessidade; art. 35.º CP — inexigibilidade)?
+- Há causas de exclusão da ilicitude ou da culpa a invocar (art. 31.º CP; em especial, art. 32.º CP — legítima defesa, e art. 34.º CP — direito de necessidade; art. 35.º CP — estado de necessidade desculpante)?
 - Há atenuantes especiais (art. 72.º CP) ou circunstâncias modificativas favoráveis?
 
 ### ETAPA 2 — ANÁLISE JURÍDICA
 Apresenta em <fundamentos_juridicos>:
 - Tipo legal imputado: artigo do CP, elementos constitutivos, pena abstrata
 - Análise dos elementos subjetivos (dolo/negligência) e se estão provados
-- Exceções processuais relevantes: prescrição (arts. 118.º-121.º CP), nulidades (arts. 118.º-122.º CPP), incompetência
+- Exceções processuais relevantes: prescrição (arts. 118.º-121.º CP), nulidades (arts. 118.º-122.º CPP), com os momentos de arguição do art. 120.º, n.º 3, CPP, incompetência
 - Causas de justificação ou de exclusão da culpa (arts. 31.º-35.º CP) se aplicáveis
 - Atenuação especial da pena (art. 72.º CP): confissão, arrependimento, tempo decorrido, conduta anterior
 - Suspensão da execução da pena (art. 50.º CP): requisitos se pena até 5 anos
@@ -68,11 +70,11 @@ Redige a peça completa:
 **AO [JUÍZO / TRIBUNAL]**
 **[Processo n.º — VERIFICAR]**
 
-**[Nome do arguido]**, melhor identificado nos autos, notificado da acusação [pública / particular], vem, no prazo legal, apresentar CONTESTAÇÃO, nos termos do art. 315.º do CPP, pelos fundamentos seguintes:
+**[Nome do arguido]**, melhor identificado nos autos, notificado do despacho que ordenou a sua notificação para contestar a acusação [pública / particular] [ou a pronúncia], vem, no prazo legal, apresentar CONTESTAÇÃO, deduzida por artigos, nos termos do art. 311.º-B do CPP, pelos fundamentos seguintes:
 
 **I. DAS EXCEÇÕES (se aplicável)**
 A) [Prescrição do procedimento criminal — art. 118.º CP: prazo, data da consumação, interrupções]
-B) [Nulidade de ato do inquérito — art. 118.º CPP: ato, norma violada, efeitos]
+B) [Nulidade insanável (art. 119.º CPP) ou proibição de prova (art. 126.º CPP), à luz do princípio da legalidade do art. 118.º CPP: ato, norma violada, efeitos; as nulidades dependentes de arguição do inquérito e da instrução não arguidas no momento do art. 120.º, n.º 3, CPP já não podem ser invocadas]
 C) [Incompetência do tribunal — art. 32.º CPP: fundamento]
 
 **II. DA IMPUGNAÇÃO DOS FACTOS**
@@ -89,7 +91,7 @@ O arguido impugna os seguintes factos da acusação:
 **V. DA PROVA DE DEFESA**
 Requer-se a produção da seguinte prova:
 a) **Documental:** [lista de documentos]
-b) **Testemunhal:** [rol de testemunhas: nome, morada, razão de ciência — máx. 20]
+b) **Testemunhal:** [rol de testemunhas: identificação, morada, razão de ciência — máx. 20, discriminando as que só depõem sobre os aspetos do art. 128.º, n.º 2, CPP, no máximo 5]
 c) **Pericial:** [se aplicável: objeto da perícia]
 
 **VI. DA MEDIDA DA PENA (para o caso de condenação)**
@@ -101,12 +103,13 @@ Subsidiariamente, requer a atenuação especial da pena e a suspensão da sua ex
 
 ### ETAPA 5 — VALIDAÇÃO
 Apresenta em <checklist_validacao>:
-- [ ] Prazo de 20 dias verificado (art. 315.º, n.º 1 CPP)
-- [ ] Exceções processuais arguidas (prescrição, nulidades, incompetência)
+- [ ] Prazo de 20 dias verificado, contado da notificação do despacho para contestar (art. 311.º-B, n.º 1, CPP)
+- [ ] Contestação deduzida por artigos e com a indicação da prova (art. 311.º-B, n.º 1, CPP)
+- [ ] Exceções processuais arguidas (prescrição, nulidades insanáveis e proibições de prova, incompetência), sem nulidades dependentes de arguição já precludidas (art. 120.º, n.º 3, CPP)
 - [ ] Factos da acusação impugnados um a um
 - [ ] Versão alternativa / contexto apresentado
 - [ ] Causas de justificação ou exclusão da culpa identificadas (arts. 31.º-35.º CP)
-- [ ] Rol de testemunhas (máx. 20) com morada e razão de ciência
+- [ ] Rol de testemunhas (máx. 20, das quais no máximo 5 só sobre os aspetos do art. 128.º, n.º 2, CPP) com identificação, morada e razão de ciência
 - [ ] Documentos e perícias requeridas
 - [ ] Linha de atenuação da pena incluída (art. 72.º CP)
 - [ ] Pedido de absolvição formulado expressamente
@@ -134,6 +137,7 @@ Apresenta em <checklist_validacao>:
 - Crime imputado: [tipo legal e artigo do CP]
 - Pena abstrata: [indicar se conhecida]
 - Data de notificação da acusação ao arguido: [data]
+- Data de notificação do despacho para contestar (art. 311.º-A CPP): [data]
 - Resumo dos factos da acusação: [narrar os factos tal como constam da acusação]
 
 **VERSÃO DO ARGUIDO:**
@@ -141,7 +145,7 @@ Apresenta em <checklist_validacao>:
 
 **EXCEÇÕES A ARGUIR:**
 - Prescrição? [sim/não — se sim, indicar datas]
-- Nulidades? [sim/não — se sim, indicar ato e norma violada]
+- Nulidades? [sim/não — se sim, indicar ato, norma violada e se foram arguidas no requerimento de abertura de instrução, no debate instrutório ou no prazo do art. 120.º, n.º 3, CPP]
 - Incompetência? [sim/não — se sim, fundamento]
 
 **PROVA DE DEFESA:**
@@ -156,10 +160,30 @@ Apresenta em <checklist_validacao>:
 
 | Citação | Estado | Nota |
 |---|---|---|
-| art. 315.º, n.º 1 CPP | conferida (epígrafe) — Contestação e rol de testemunhas |  |
-| art. 315.º, n.º 1 CPP | conferida (epígrafe) — Contestação e rol de testemunhas |  |
-| art. 315.º, n.º 2 CPP | conferida (epígrafe) — Contestação e rol de testemunhas |  |
+| art. 311.º-A | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 311.º-B, n.º 1, CPP | conferida (epígrafe) — Contestação e rol de testemunhas |  |
+| art. 311.º-B | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 311.º-B, n.º 1, CPP | conferida (epígrafe) — Contestação e rol de testemunhas |  |
+| art. 311.º-B, n.º 1, CPP | conferida (epígrafe) — Contestação e rol de testemunhas |  |
+| art. 315.º CPP | conferida (epígrafe) — Contestação e rol de testemunhas |  |
+| art. 128.º, n.º 2, CPP | conferida (epígrafe) — Objeto e limites do depoimento |  |
+| art. 128.º, n.º 2, CPP | conferida (epígrafe) — Objeto e limites do depoimento |  |
+| art. 128.º, n.º 2, CPP | conferida (epígrafe) — Objeto e limites do depoimento |  |
+| art. 283.º, n.º 3, al. e), e n.º 7, CPP | conferida (epígrafe) — Acusação pelo Ministério Público |  |
+| art. 120.º, n.º 3, als. c) e d), CPP | conferida (epígrafe) — Nulidades dependentes de arguição |  |
+| art. 119.º CPP | conferida (epígrafe) — Nulidades insanáveis |  |
+| art. 119.º CPP | conferida (epígrafe) — Nulidades insanáveis |  |
+| art. 118.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 126.º CPP | conferida (epígrafe) — Métodos proibidos de prova |  |
+| art. 126.º CPP | conferida (epígrafe) — Métodos proibidos de prova |  |
+| art. 120.º, n.º 3, CPP | conferida (epígrafe) — Nulidades dependentes de arguição |  |
+| art. 120.º, n.º 3, CPP | conferida (epígrafe) — Nulidades dependentes de arguição |  |
+| art. 120.º, n.º 3, CPP | conferida (epígrafe) — Nulidades dependentes de arguição |  |
+| art. 120.º, n.º 3, CPP | conferida (epígrafe) — Nulidades dependentes de arguição |  |
+| art. 120.º, n.º 3, CPP | conferida (epígrafe) — Nulidades dependentes de arguição |  |
 | art. 31.º CP | conferida (epígrafe) — Exclusão da ilicitude |  |
+| art. 32.º CP | conferida (epígrafe) — Legítima defesa |  |
+| art. 34.º CP | conferida (epígrafe) — Direito de necessidade |  |
 | art. 35.º CP | conferida (epígrafe) — Estado de necessidade desculpante |  |
 | art. 72.º CP | conferida (epígrafe) — Atenuação especial da pena |  |
 | art. 72.º CP | conferida (epígrafe) — Atenuação especial da pena |  |
@@ -171,7 +195,8 @@ Apresenta em <checklist_validacao>:
 | arts. 31.º-35.º CP | conferida (epígrafe) — Exclusão da ilicitude |  |
 | art. 50.º CP | conferida (epígrafe) — Pressupostos e duração |  |
 | art. 50.º CP | conferida (epígrafe) — Pressupostos e duração |  |
-| art. 315.º do CPP | conferida (epígrafe) — Contestação e rol de testemunhas |  |
+| art. 311.º-B do CPP | conferida (epígrafe) — Contestação e rol de testemunhas |  |
 | art. 118.º CP | conferida (epígrafe) — Prazos de prescrição |  |
 | art. 118.º CPP | conferida (epígrafe) — Princípio da legalidade |  |
 | art. 32.º CPP | conferida (epígrafe) — Conhecimento e dedução da incompetência |  |
+| art. 311.º-A CPP | conferida (epígrafe) — Despacho para apresentação de contestação |  |

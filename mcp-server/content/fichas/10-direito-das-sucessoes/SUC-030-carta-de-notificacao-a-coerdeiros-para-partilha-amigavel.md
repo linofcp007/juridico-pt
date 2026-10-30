@@ -3,10 +3,11 @@ codigo: SUC-030
 area: "Direito das Sucessões"
 titulo: "Carta de Notificação a Coerdeiros para Partilha Amigável"
 titulo_en: "Notice Letter to Co-Heirs for an Amicable Division"
-descricao: "Gera a carta de notificação extrajudicial enviada por um herdeiro aos demais co-herdeiros, propondo a realização de partilha amigável da herança com prazo para resposta, e alertando para o recurso ao inventário judicial/notarial em caso de falta de acordo — como primeiro passo antes de iniciar processo formal."
+descricao: "Gera a carta de notificação extrajudicial enviada por um herdeiro aos demais coerdeiros, propondo a realização de partilha amigável da herança com prazo para resposta, e alertando para o recurso ao inventário judicial/notarial em caso de falta de acordo — como primeiro passo antes de iniciar processo formal."
 descricao_en: "Generates the out-of-court notice letter sent by one heir to the other co-heirs, proposing an amicable division of the estate with a deadline for reply and warning that court or notarial inventory proceedings will follow if no agreement is reached — as a first step before starting formal proceedings."
 ambito: nacional
-estado_citacoes: "conferidas 2 · corrigidas 0 · por conferir 0"
+estado_citacoes: "conferidas 6 · corrigidas 0 · por conferir 0"
+revisao_tecnica: "2026-10-30 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
@@ -14,9 +15,10 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 
 > **Âmbito:** nacional · **Área:** Direito das Sucessões · **Código:** SUC-030
 > **EN:** Notice Letter to Co-Heirs for an Amicable Division. Generates the out-of-court notice letter sent by one heir to the other co-heirs, proposing an amicable division of the estate with a deadline for reply and warning that court or notarial inventory proceedings will follow if no agreement is reached — as a first step before starting formal proceedings.
-> **Citações:** conferidas 2 · corrigidas 0 · por conferir 0. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 6 · corrigidas 0 · por conferir 0. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-30 — corrigida (4 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
-Gera a carta de notificação extrajudicial enviada por um herdeiro aos demais co-herdeiros, propondo a realização de partilha amigável da herança com prazo para resposta, e alertando para o recurso ao inventário judicial/notarial em caso de falta de acordo — como primeiro passo antes de iniciar processo formal.
+Gera a carta de notificação extrajudicial enviada por um herdeiro aos demais coerdeiros, propondo a realização de partilha amigável da herança com prazo para resposta, e alertando para o recurso ao inventário judicial/notarial em caso de falta de acordo — como primeiro passo antes de iniciar processo formal.
 
 ## Método
 
@@ -45,9 +47,9 @@ Apresenta dentro de um bloco <analise_do_caso>:
 ### ETAPA 2 — ANÁLISE JURÍDICA (Fundamentação)
 Apresenta dentro de um bloco <fundamentos_juridicos>:
 - Direito de exigir a partilha: art. 2101.º CC — qualquer herdeiro pode exigir a partilha a todo o tempo
-- Partilha amigável: art. 2102.º CC — forma extrajudicial por escritura se todos concordam
-- Inventário notarial: Lei n.º 23/2013 — via a usar se não há acordo
-- Consequências da inação: a herança fica indefinidamente indivisa, com todos os herdeiros em compropriedade — risco de deterioração dos bens, conflitos futuros
+- Partilha amigável: art. 2102.º CC — havendo acordo de todos os interessados, a partilha faz-se por via notarial ou nas conservatórias; sem acordo, por inventário
+- Inventário judicial ou notarial: arts. 1082.º e ss. CPC, na redação da Lei n.º 117/2019, de 13 de setembro, que revogou o regime jurídico do processo de inventário da Lei n.º 23/2013 e aprovou, em anexo, o regime do inventário notarial — via a usar se não há acordo; à escolha de quem o instaura, no tribunal ou no cartório notarial, salvo nos casos de competência exclusiva dos tribunais (art. 1083.º CPC)
+- Consequências da inação: a herança fica indefinidamente indivisa, em comunhão hereditária (cada herdeiro é titular de uma quota ideal da herança, e não de bens determinados, e os direitos relativos à herança só podem ser exercidos por todos os herdeiros ou contra todos — art. 2091.º, n.º 1, CC) — risco de deterioração dos bens, conflitos futuros
 
 ### ETAPA 3 — CONSTRUÇÃO ARGUMENTATIVA / ESTRUTURA
 Define:
@@ -61,7 +63,7 @@ Define:
 
 [Localidade], [data]
 
-**A:** [Nome do co-herdeiro]
+**A:** [Nome do coerdeiro]
 [Morada]
 [Código postal]
 
@@ -69,7 +71,7 @@ Define:
 
 Exmo(a). Senhor(a) [nome do destinatário],
 
-Em nome do(a) meu(a) constituinte, [Nome do herdeiro remetente], filho(a) / [grau de parentesco] do(a) falecido(a) [Nome do falecido], falecido(a) em [data], venho, por este meio, dirigir-me a V. Ex.ª na qualidade de co-herdeiro(a) da referida herança.
+Em nome do(a) meu(a) constituinte, [Nome do herdeiro remetente], filho(a) / [grau de parentesco] do(a) falecido(a) [Nome do falecido], falecido(a) em [data], venho, por este meio, dirigir-me a V. Ex.ª na qualidade de coerdeiro(a) da referida herança.
 
 **Da situação da herança**
 
@@ -101,7 +103,7 @@ Solicita-se que V. Ex.ª comunique, por escrito (carta, email ou outro meio com 
 
 **Das consequências da falta de acordo**
 
-Caso não seja possível chegar a acordo no prazo indicado, o meu constituinte reserva-se o direito de requerer o processo de inventário notarial nos termos da Lei n.º 23/2013, de 5 de Março, com os custos inerentes que serão suportados pela herança, ou de intentar as ações judiciais que se mostrem necessárias à defesa dos seus direitos hereditários.
+Caso não seja possível chegar a acordo no prazo indicado, o meu constituinte reserva-se o direito de requerer o processo de inventário, no tribunal ou no cartório notarial, nos termos dos artigos 1082.º e seguintes do Código de Processo Civil e do regime do inventário notarial aprovado pela Lei n.º 117/2019, de 13 de setembro, com os custos inerentes, a suportar pelos interessados na proporção do que cada um vier a receber, ou de intentar as ações judiciais que se mostrem necessárias à defesa dos seus direitos hereditários.
 
 Com os melhores cumprimentos e na expetativa de uma resposta positiva,
 
@@ -116,7 +118,7 @@ Com os melhores cumprimentos e na expetativa de uma resposta positiva,
 
 ### ETAPA 5 — FORMULAÇÃO FINAL (Validação)
 Apresenta dentro de um bloco <checklist_validacao>:
-- [ ] Todos os co-herdeiros destinatários identificados
+- [ ] Todos os coerdeiros destinatários identificados
 - [ ] Herança identificada com referência ao falecido e à data do óbito
 - [ ] Bens principais listados
 - [ ] Proposta de partilha OU convocatória de reunião incluída
@@ -135,8 +137,8 @@ Apresenta dentro de um bloco <checklist_validacao>:
 - Grau de parentesco com o falecido: [dados]
 - Representado pelo advogado: [sim/não — nome do advogado]
 
-**DESTINATÁRIOS (outros co-herdeiros):**
-- [Nome e morada de cada co-herdeiro]
+**DESTINATÁRIOS (outros coerdeiros):**
+- [Nome e morada de cada coerdeiro]
 
 **FALECIDO:**
 - Nome, data de óbito: [dados]
@@ -161,3 +163,7 @@ Apresenta dentro de um bloco <checklist_validacao>:
 |---|---|---|
 | art. 2101.º CC | conferida (epígrafe) — Direito de exigir partilha |  |
 | art. 2102.º CC | conferida (epígrafe) — Forma |  |
+| arts. 1082.º e ss. CPC | conferida (epígrafe) — Função do inventário |  |
+| art. 1083.º CPC | conferida (epígrafe) — Repartição de competências |  |
+| art. 2091.º, n.º 1, CC | conferida (epígrafe) — Exercício de outros direitos |  |
+| artigos 1082.º e seguintes do Código de Processo Civil | conferida (epígrafe) — Função do inventário |  |

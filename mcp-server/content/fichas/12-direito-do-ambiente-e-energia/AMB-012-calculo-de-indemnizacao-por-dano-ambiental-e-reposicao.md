@@ -44,7 +44,7 @@ Analisa em <analise_do_caso>:
 - Estado baseline: condição do recurso antes do dano [■ VERIFICAR dados técnicos]
 - Operador responsável: Anexo III ou responsabilidade subjetiva
 - Danos privados associados: quem sofreu prejuízos individuais?
-- Medidas de reparação já adoptadas e seus custos reais
+- Medidas de reparação já adotadas e seus custos reais
 - Prazo esperado de recuperação natural
 
 ### ETAPA 2 — ANÁLISE JURÍDICA
@@ -148,7 +148,7 @@ Apresenta em <checklist_validacao>:
 - Condição do local antes do incidente: [descrição ou dados técnicos]
 
 **REPARAÇÃO JÁ EFETUADA:**
-- Medidas adoptadas: [lista]
+- Medidas adotadas: [lista]
 - Custo incorrido: €[X]
 
 **DANOS PRIVADOS:**

@@ -6,7 +6,8 @@ titulo_en: "Appeal to the Court of Appeal (Tribunal da Relação)"
 descricao: "Gera as alegações de recurso de apelação para o Tribunal da Relação, nos termos dos arts. 627.º a 651.º do CPC, estruturando o requerimento de interposição, as alegações com fundamentos de direito e/ou impugnação de facto, e as conclusões (elemento essencial sob pena de rejeição — art. 641.º, n.º 2, alínea b) CPC)."
 descricao_en: "Generates the appeal submissions (alegações) to the Court of Appeal (Tribunal da Relação), under Articles 627 to 651 CPC, structuring the notice of appeal, the submissions with legal grounds and/or a challenge to the findings of fact, and the conclusions (an essential element, failing which the appeal is rejected — Article 641(2)(b) CPC)."
 ambito: nacional
-estado_citacoes: "conferidas 13 · corrigidas 0 · por conferir 0"
+estado_citacoes: "conferidas 21 · corrigidas 0 · por conferir 1"
+revisao_tecnica: "2026-10-28 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
@@ -14,7 +15,8 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 
 > **Âmbito:** nacional · **Área:** Processo Civil e Contencioso · **Código:** PRC-012
 > **EN:** Appeal to the Court of Appeal (Tribunal da Relação). Generates the appeal submissions (alegações) to the Court of Appeal (Tribunal da Relação), under Articles 627 to 651 CPC, structuring the notice of appeal, the submissions with legal grounds and/or a challenge to the findings of fact, and the conclusions (an essential element, failing which the appeal is rejected — Article 641(2)(b) CPC).
-> **Citações:** conferidas 13 · corrigidas 0 · por conferir 0. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 21 · corrigidas 0 · por conferir 1. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-28 — corrigida (4 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
 Gera as alegações de recurso de apelação para o Tribunal da Relação, nos termos dos arts. 627.º a 651.º do CPC, estruturando o requerimento de interposição, as alegações com fundamentos de direito e/ou impugnação de facto, e as conclusões (elemento essencial sob pena de rejeição — art. 641.º, n.º 2, alínea b) CPC).
 
@@ -39,7 +41,7 @@ Analisa em <analise_do_caso>:
 - A sentença contém erro de direito? (norma errada, interpretação errada)
 - A sentença contém erro de julgamento de facto? (prova foi mal avaliada)
 - Os vícios identificados têm impacto no dispositivo da sentença?
-- Qual o prazo de recurso? (30 dias, salvo ações de valor ≤ metade da alçada da Relação)
+- Qual o prazo de recurso? (30 dias a contar da notificação da decisão; 15 dias nos processos urgentes e nas apelações do art. 644.º, n.º 2, CPC; acrescem 10 dias se o recurso tiver por objeto a reapreciação da prova gravada — art. 638.º, n.os 1 e 7, CPC)
 - Há nulidades da sentença a invocar? (art. 615.º CPC)
 - O recurso tem efeito suspensivo ou meramente devolutivo? (art. 647.º CPC)
 - Quais os pontos da matéria de facto a impugnar?
@@ -70,8 +72,8 @@ art. 638.º do CPC, interpor o presente RECURSO DE APELAÇÃO para o
 
 **2. TEMPESTIVIDADE E ADMISSIBILIDADE**
 - Data de notificação da sentença
-- Prazo de 30 dias respeitado
-- Valor da causa vs alçada do tribunal da Relação (art. 629.º CPC)
+- Prazo respeitado (30 dias; 15 nos processos urgentes e nas apelações do art. 644.º, n.º 2; mais 10 dias com reapreciação da prova gravada — art. 638.º, n.os 1 e 7, CPC)
+- Valor da causa superior à alçada do tribunal de 1.ª instância (5 000 € — art. 44.º, n.º 1, LOSJ) e decisão desfavorável ao recorrente em valor superior a metade dessa alçada (art. 629.º, n.º 1, CPC), salvo os casos em que o recurso é sempre admissível (art. 629.º, n.º 2, CPC)
 - Efeito do recurso
 
 **3. DAS NULIDADES DA SENTENÇA** (se aplicável)
@@ -90,7 +92,7 @@ Para cada nulidade (art. 615.º CPC):
 
 Para cada ponto impugnado:
 a) Identificação do ponto de facto impugnado (com referência ao número na sentença)
-b) Meios de prova que impõem decisão diferente (indicar o depoimento, documento, etc.)
+b) Concretos meios de prova que impõem decisão diferente (documento, depoimento, etc.); sendo prova gravada, indicar com exatidão as passagens da gravação em que se funda o recurso, sob pena de imediata rejeição do recurso nessa parte (art. 640.º, n.º 2, al. a), CPC)
 c) Sentido da decisão alternativa que se pretende
 
 **6. DO IMPACTO NO DISPOSITIVO**
@@ -109,8 +111,8 @@ Condenação em custas conforme o resultado.
 
 ### ETAPA 5 — VALIDAÇÃO
 Apresenta em <checklist_validacao>:
-- [ ] Prazo de 30 dias respeitado
-- [ ] Admissibilidade verificada (valor + legitimidade)
+- [ ] Prazo respeitado (art. 638.º CPC: 30 dias, 15 nos processos urgentes; mais 10 dias com reapreciação da prova gravada)
+- [ ] Admissibilidade verificada (valor da causa e sucumbência face à alçada da 1.ª instância — art. 629.º, n.º 1, CPC — e legitimidade)
 - [ ] Nulidades da sentença identificadas (se existirem)
 - [ ] Erro de direito com trecho da sentença transcrito
 - [ ] Impugnação de facto nos termos do art. 640.º CPC (ponto + prova + sentido)
@@ -157,6 +159,10 @@ Apresenta em <checklist_validacao>:
 | art. 640.º CPC | conferida (epígrafe) — Ónus a cargo do recorrente que impugne a decisão relativa à matéria de facto |  |
 | art. 640.º CPC | conferida (epígrafe) — Ónus a cargo do recorrente que impugne a decisão relativa à matéria de facto |  |
 | art. 640.º CPC | conferida (epígrafe) — Ónus a cargo do recorrente que impugne a decisão relativa à matéria de facto |  |
+| art. 644.º, n.º 2, CPC | conferida (epígrafe) — Apelações autónomas |  |
+| art. 644.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 638.º, n.os 1 e 7, CPC | conferida (índice) |  |
+| art. 638.º, n.os 1 e 7, CPC | conferida (índice) |  |
 | art. 615.º CPC | conferida (epígrafe) — Causas de nulidade da sentença |  |
 | art. 615.º CPC | conferida (epígrafe) — Causas de nulidade da sentença |  |
 | art. 647.º CPC | conferida (epígrafe) — Efeito da apelação |  |
@@ -164,4 +170,9 @@ Apresenta em <checklist_validacao>:
 | Art. 615.º CPC | conferida (epígrafe) — Causas de nulidade da sentença |  |
 | Art. 640.º CPC | conferida (epígrafe) — Ónus a cargo do recorrente que impugne a decisão relativa à matéria de facto |  |
 | art. 638.º do CPC | conferida (índice) |  |
-| art. 629.º CPC | conferida (índice) |  |
+| art. 44.º, n.º 1, LOSJ | conferida (índice) |  |
+| art. 629.º, n.º 1, CPC | conferida (índice) |  |
+| art. 629.º, n.º 1, CPC | conferida (índice) |  |
+| art. 629.º, n.º 2, CPC | conferida (índice) |  |
+| art. 640.º, n.º 2, al. a), CPC | conferida (epígrafe) — Ónus a cargo do recorrente que impugne a decisão relativa à matéria de facto |  |
+| art. 638.º CPC | conferida (índice) |  |

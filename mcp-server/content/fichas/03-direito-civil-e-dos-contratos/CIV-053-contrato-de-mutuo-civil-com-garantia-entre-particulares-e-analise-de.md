@@ -3,27 +3,29 @@ codigo: CIV-053
 area: "Direito Civil e dos Contratos"
 titulo: "Contrato de Mútuo Civil com Garantia (entre Particulares) e Análise de Usura"
 titulo_en: "Civil Loan Agreement with Security (between Private Individuals) and Usury Analysis"
-descricao: "Redige contrato de mútuo civil entre particulares (arts. 1142.º a 1151.º CC), com estabelecimento de juro convencional dentro dos limites legais (art. 1146.º CC), cláusula de garantia pessoal (fiança) ou real (hipoteca ou penhor), e forma de restituição do capital. Inclui análise de usura (art. 1146.º, n.º 2, CC) e advertência sobre a necessidade de escritura pública quando o valor excede €25.000 (art. 1143.º CC)."
-descricao_en: "Drafts a civil loan agreement between private individuals (Articles 1142 to 1151 CC), setting conventional interest within the statutory limits (Article 1146 CC), a personal (suretyship) or real (mortgage or pledge) security clause, and the method of repayment of the principal. Includes a usury analysis (Article 1146(2) CC) and a warning on the need for a public deed where the amount exceeds €25,000 (Article 1143 CC)."
+descricao: "Redige contrato de mútuo civil entre particulares (arts. 1142.º a 1151.º CC), com estabelecimento de juro convencional dentro dos limites legais (art. 1146.º CC), cláusula de garantia pessoal (fiança) ou real (hipoteca ou penhor), e forma de restituição do capital. Inclui análise de usura (art. 1146.º CC) e advertência sobre a forma exigida: escritura pública ou documento particular autenticado quando o valor excede €25.000 e documento assinado pelo mutuário quando excede €2.500 (art. 1143.º CC)."
+descricao_en: "Drafts a civil loan agreement between private individuals (Articles 1142 to 1151 CC), setting conventional interest within the statutory limits (Article 1146 CC), a personal (suretyship) or real (mortgage or pledge) security clause, and the method of repayment of the principal. Includes a usury analysis (Article 1146 CC) and a warning on the required form: a public deed or an authenticated private document where the amount exceeds €25,000, and a document signed by the borrower where it exceeds €2,500 (Article 1143 CC)."
 ambito: nacional
-estado_citacoes: "conferidas 17 · corrigidas 2 · por conferir 0"
+estado_citacoes: "conferidas 28 · corrigidas 2 · por conferir 0"
+revisao_tecnica: "2026-10-28 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
 # Contrato de Mútuo Civil com Garantia (entre Particulares) e Análise de Usura
 
 > **Âmbito:** nacional · **Área:** Direito Civil e dos Contratos · **Código:** CIV-053
-> **EN:** Civil Loan Agreement with Security (between Private Individuals) and Usury Analysis. Drafts a civil loan agreement between private individuals (Articles 1142 to 1151 CC), setting conventional interest within the statutory limits (Article 1146 CC), a personal (suretyship) or real (mortgage or pledge) security clause, and the method of repayment of the principal. Includes a usury analysis (Article 1146(2) CC) and a warning on the need for a public deed where the amount exceeds €25,000 (Article 1143 CC).
-> **Citações:** conferidas 17 · corrigidas 2 · por conferir 0. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **EN:** Civil Loan Agreement with Security (between Private Individuals) and Usury Analysis. Drafts a civil loan agreement between private individuals (Articles 1142 to 1151 CC), setting conventional interest within the statutory limits (Article 1146 CC), a personal (suretyship) or real (mortgage or pledge) security clause, and the method of repayment of the principal. Includes a usury analysis (Article 1146 CC) and a warning on the required form: a public deed or an authenticated private document where the amount exceeds €25,000, and a document signed by the borrower where it exceeds €2,500 (Article 1143 CC).
+> **Citações:** conferidas 28 · corrigidas 2 · por conferir 0. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-28 — corrigida (10 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
-Redige contrato de mútuo civil entre particulares (arts. 1142.º a 1151.º CC), com estabelecimento de juro convencional dentro dos limites legais (art. 1146.º CC), cláusula de garantia pessoal (fiança) ou real (hipoteca ou penhor), e forma de restituição do capital. Inclui análise de usura (art. 1146.º, n.º 2, CC) e advertência sobre a necessidade de escritura pública quando o valor excede €25.000 (art. 1143.º CC).
+Redige contrato de mútuo civil entre particulares (arts. 1142.º a 1151.º CC), com estabelecimento de juro convencional dentro dos limites legais (art. 1146.º CC), cláusula de garantia pessoal (fiança) ou real (hipoteca ou penhor), e forma de restituição do capital. Inclui análise de usura (art. 1146.º CC) e advertência sobre a forma exigida: escritura pública ou documento particular autenticado quando o valor excede €25.000 e documento assinado pelo mutuário quando excede €2.500 (art. 1143.º CC).
 
 ## Método
 
 Ficha de trabalho para preparar este documento. As regras da casa prevalecem sobre a ficha: registo de advogado, nunca afirmar inscrição na Ordem dos Advogados, citar só normas conferidas ou com `[■ VERIFICAR]`, e seguir o fluxo de `assets/redacao/redator.md`.
 
 ## Regras obrigatórias
-— Verifica sempre se o mútuo exige escritura pública (valor > €25.000 — art. 1143.º CC).
+— Verifica sempre a forma exigida (art. 1143.º CC): acima de €25.000, escritura pública ou documento particular autenticado; acima de €2.500, documento assinado pelo mutuário — o mútuo só é válido se observar essa forma.
 — Indica os limites de juro convencional (art. 1146.º CC) e alerta para usura.
 — Marca [■ VERIFICAR: dado em falta] quando informação não foi fornecida.
 
@@ -31,7 +33,7 @@ Ficha de trabalho para preparar este documento. As regras da casa prevalecem sob
 
 ### ETAPA 1 — PROBLEMATIZAÇÃO
 Apresenta em <analise_da_situacao>:
-- Valor do empréstimo: acima ou abaixo de €25.000 (determina a forma exigida)
+- Valor do empréstimo: acima de €25.000 ou de €2.500 (determina a forma exigida — art. 1143.º CC)
 - Taxa de juro pretendida: dentro dos limites do art. 1146.º CC?
 - Garantia pretendida: nenhuma, fiança, hipoteca, penhor
 - Prazo e modalidade de restituição: capital + juros no final, prestações mensais, etc.
@@ -40,13 +42,14 @@ Apresenta em <analise_da_situacao>:
 ### ETAPA 2 — ANÁLISE JURÍDICA
 Apresenta em <fundamentos_juridicos>:
 - Art. 1142.º CC: conceito de mútuo
-- Art. 1143.º CC: forma — escritura pública se valor > €25.000
-- Art. 1145.º CC: juros convencionais e aplicação subsidiária do Código Comercial
-- Art. 1146.º CC: usura — taxa convencional não pode exceder a taxa legal em mais de 3% (ou 5% conforme o tipo)
+- Art. 1143.º CC: forma — escritura pública ou documento particular autenticado se valor > €25.000; documento assinado pelo mutuário se valor > €2.500
+- Art. 1145.º CC: juros convencionais como retribuição do mútuo; em caso de dúvida, o mútuo presume-se oneroso
+- Art. 1146.º CC: usura — juros anuais que excedam os juros legais acrescidos de 3% ou 5%, conforme exista ou não garantia real (n.º 1); cláusula penal pela mora acima de 7% ou 9% sobre os juros legais (n.º 2); redução automática a esses máximos (n.º 3)
+- Art. 559.º CC: juros acima da taxa legal só são devidos, nessa medida, se estipulados por escrito (n.º 2)
 - Art. 686.º CC: hipoteca
 - Art. 666.º CC: penhor
 - Art. 627.º CC: fiança
-- Portaria n.º [■ VERIFICAR: portaria vigente de taxas legais do Banco de Portugal]
+- Portaria n.º 291/2003, de 8 de abril: juros legais civis de 4% (art. 559.º, n.º 1, CC) [■ VERIFICAR: que se mantém em vigor à data do contrato]
 
 ### ETAPA 3 — ESTRUTURA DO CONTRATO
 Define em <estrutura_contrato>:
@@ -54,7 +57,7 @@ Define em <estrutura_contrato>:
 - Forma de restituição
 - Garantia (se aplicável)
 - Mora e consequências
-- Forma do contrato (escritura se > €25.000)
+- Forma do contrato (escritura pública ou documento particular autenticado se > €25.000; documento assinado pelo mutuário se > €2.500)
 
 ### ETAPA 4 — O CONTRATO
 
@@ -81,20 +84,20 @@ Em caso de mora, os montantes em dívida vencem juros moratórios à taxa legal 
 
 **CLÁUSULA 5.ª — GARANTIA**
 [Se fiança:] Para garantia do cumprimento das obrigações do Mutuário, o Fiador constituiu-se fiador [solidário] nos termos do presente contrato, nos termos do art. 627.º CC. [Inserir cláusulas de fiança adequadas.]
-[Se hipoteca:] Para garantia das obrigações do Mutuário, é constituída hipoteca sobre o imóvel sito em [MORADA], descrito na CRP de [CONSERVATÓRIA] sob [NÚMERO], nos termos do art. 686.º CC, a formalizar por escritura pública.
+[Se hipoteca:] Para garantia das obrigações do Mutuário, é constituída hipoteca sobre o imóvel sito em [MORADA], descrito na CRP de [CONSERVATÓRIA] sob [NÚMERO], nos termos do art. 686.º CC, a formalizar por escritura pública ou documento particular autenticado (art. 714.º CC) e a registar, sob pena de não produzir efeitos, mesmo em relação às partes (art. 687.º CC).
 
-**CLÁUSULA 6.ª — TÍTULO EXECUTIVO**
-O presente contrato, assinado pelo Mutuário e por [2] testemunhas, constitui título executivo nos termos do art. 703.º, n.º 1, al. b), do Código de Processo Civil, para efeitos de ação executiva em caso de incumprimento.
+**CLÁUSULA 6.ª — TÍTULO EXECUTIVO** [só se o contrato for celebrado por escritura pública ou documento particular autenticado]
+O presente contrato, [exarado / autenticado] por [notário / advogado / solicitador / outra entidade com competência para tal], constitui título executivo nos termos do art. 703.º, n.º 1, al. b), do Código de Processo Civil, para efeitos de ação executiva em caso de incumprimento. [Nota: o documento particular simples, ainda que assinado por testemunhas, não é título executivo; se a quantia for entregue depois da assinatura, a execução exige prova documental da entrega — art. 707.º do Código de Processo Civil.]
 
-[Local, data, assinaturas e reconhecimento notarial se exigido]
+[Local, data, assinaturas e termo de autenticação, quando exigido pelo art. 1143.º CC ou pretendido para efeitos do art. 703.º, n.º 1, al. b), CPC]
 
 ### ETAPA 5 — CHECKLIST
-- [ ] Forma verificada: escritura pública se valor > €25.000 (art. 1143.º CC)
-- [ ] Taxa de juro dentro dos limites do art. 1146.º CC (verificar portaria vigente)
-- [ ] Garantia constituída (fiança / hipoteca / penhor) conforme exigências legais
-- [ ] Título executivo: assinaturas + 2 testemunhas (art. 703.º CPC)
+- [ ] Forma verificada: escritura pública ou documento particular autenticado se valor > €25.000; documento assinado pelo mutuário se > €2.500 (art. 1143.º CC)
+- [ ] Taxa de juro dentro dos limites do art. 1146.º CC: juros legais (4%, Portaria n.º 291/2003) + 3% com garantia real ou + 5% sem ela
+- [ ] Garantia constituída (fiança / hipoteca / penhor) conforme exigências legais — fiança declarada pela forma exigida para o mútuo (art. 628.º, n.º 1, CC); hipoteca por escritura pública ou documento particular autenticado e registada (arts. 714.º e 687.º CC)
+- [ ] Título executivo: documento exarado ou autenticado por notário ou outra entidade competente (art. 703.º CPC) — o escrito particular com testemunhas não basta
 - [ ] Juros de mora previstos (arts. 804.º-806.º CC)
-- [ ] [■ VERIFICAR] taxa legal do Banco de Portugal vigente para aferir usura
+- [ ] [■ VERIFICAR] taxa dos juros legais civis vigente à data do contrato (portaria do art. 559.º, n.º 1, CC — atualmente a Portaria n.º 291/2003, 4%) para aferir a usura
 
 ---
 
@@ -116,6 +119,8 @@ O presente contrato, assinado pelo Mutuário e por [2] testemunhas, constitui t�
 |---|---|---|
 | art. 1143.º CC | conferida (epígrafe) — Forma |  |
 | art. 1143.º CC | conferida (epígrafe) — Forma |  |
+| art. 1143.º CC | conferida (epígrafe) — Forma |  |
+| art. 1143.º CC | conferida (epígrafe) — Forma |  |
 | art. 1146.º CC | conferida (índice) |  |
 | art. 1146.º CC | conferida (índice) |  |
 | art. 1146.º CC | conferida (índice) |  |
@@ -124,12 +129,21 @@ O presente contrato, assinado pelo Mutuário e por [2] testemunhas, constitui t�
 | Art. 1143.º CC | conferida (epígrafe) — Forma |  |
 | Art. 1145.º CC | conferida (epígrafe) — Gratuidade ou onerosidade do mútuo |  |
 | Art. 1146.º CC | conferida (índice) |  |
+| Art. 559.º CC | conferida (índice) |  |
 | Art. 686.º CC | corrigida — Noção | o número citado no catálogo não correspondia à epígrafe |
 | Art. 666.º CC | conferida (epígrafe) — Noção |  |
 | Art. 627.º CC | conferida (epígrafe) — Noção. Acessoriedade |  |
+| art. 559.º, n.º 1, CC | conferida (índice) |  |
+| art. 559.º, n.º 1, CC | conferida (índice) |  |
 | arts. 804.º e 806.º CC | conferida (índice) |  |
 | art. 627.º CC | conferida (epígrafe) — Noção. Acessoriedade |  |
 | art. 686.º CC | corrigida — Noção | o número citado no catálogo não correspondia à epígrafe |
+| art. 714.º CC | conferida (epígrafe) — Forma |  |
+| art. 687.º CC | conferida (epígrafe) — Registo |  |
 | art. 703.º, n.º 1, al. b), do Código de Processo Civil | conferida (índice) |  |
+| art. 707.º do Código de Processo Civil | conferida (epígrafe) — Exequibilidade dos documentos autênticos ou autenticados |  |
+| art. 703.º, n.º 1, al. b), CPC | conferida (índice) |  |
+| art. 628.º, n.º 1, CC | conferida (epígrafe) — Requisitos |  |
+| arts. 714.º e 687.º CC | conferida (epígrafe) — Forma |  |
 | art. 703.º CPC | conferida (índice) |  |
 | arts. 804.º-806.º CC | conferida (índice) |  |

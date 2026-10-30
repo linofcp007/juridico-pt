@@ -93,7 +93,7 @@ suscetível de contraordenação nos termos do art. [Y] do mesmo diploma."
 "Face ao exposto, requer V. Exa.:
 a) A realização de inspeção urgente / ordinária ao local identificado;
 b) A instrução de processo de contraordenação [e/ou participação ao Ministério Público se crime] contra o Infrator;
-c) A adopção de medidas cautelares para cessação da atividade ilegal, caso se confirme a infração;
+c) A adoção de medidas cautelares para cessação da atividade ilegal, caso se confirme a infração;
 d) Informação ao participante sobre o andamento da participação e a decisão final, nos termos da Convenção de Aarhus."
 
 **VI. DOCUMENTOS JUNTOS**

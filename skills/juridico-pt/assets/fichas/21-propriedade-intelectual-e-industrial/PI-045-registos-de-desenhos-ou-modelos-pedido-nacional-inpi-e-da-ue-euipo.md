@@ -3,20 +3,22 @@ codigo: PI-045
 area: "Propriedade Intelectual e Industrial"
 titulo: "Registos de Desenhos ou Modelos — Pedido Nacional (INPI) e da UE (EUIPO)"
 titulo_en: "Design Registrations — National (INPI) and EU (EUIPO) Applications"
-descricao: "Elabora o pedido de registo de desenho ou modelo, nacional (INPI) e da União Europeia (EUIPO), ao abrigo dos artigos 173.º a 213.º do CPI (DL n.º 110/2018) e do Regulamento (CE) n.º 6/2002 (Regulamento dos Desenhos ou Modelos Comunitários — RDMC), incluindo análise de novidade, carácter singular e estratégia de representação."
-descricao_en: "Prepares the application for registration of a design, national (INPI) and European Union (EUIPO), under Articles 173 to 213 of the CPI (Decree-Law No. 110/2018) and Regulation (EC) No 6/2002 (Community Designs Regulation — RDMC), including analysis of novelty, individual character and the representation strategy."
+descricao: "Elabora o pedido de registo de desenho ou modelo, nacional (INPI) e da União Europeia (EUIPO), ao abrigo dos artigos 173.º a 207.º do CPI (DL n.º 110/2018) e do Regulamento (CE) n.º 6/2002, relativo aos desenhos ou modelos da União Europeia (RDMC, na redação do Regulamento (UE) 2024/2822), incluindo análise de novidade, carácter singular e estratégia de representação."
+descricao_en: "Prepares the application for registration of a design, national (INPI) and European Union (EUIPO), under Articles 173 to 207 of the CPI (Decree-Law No. 110/2018) and Regulation (EC) No 6/2002 on European Union designs (as amended by Regulation (EU) 2024/2822), including analysis of novelty, individual character and the representation strategy."
 ambito: nacional
-estado_citacoes: "conferidas 1 · corrigidas 2 · por conferir 10"
+estado_citacoes: "conferidas 9 · corrigidas 1 · por conferir 12"
+revisao_tecnica: "2026-10-30 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
 # Registos de Desenhos ou Modelos — Pedido Nacional (INPI) e da UE (EUIPO)
 
 > **Âmbito:** nacional · **Área:** Propriedade Intelectual e Industrial · **Código:** PI-045
-> **EN:** Design Registrations — National (INPI) and EU (EUIPO) Applications. Prepares the application for registration of a design, national (INPI) and European Union (EUIPO), under Articles 173 to 213 of the CPI (Decree-Law No. 110/2018) and Regulation (EC) No 6/2002 (Community Designs Regulation — RDMC), including analysis of novelty, individual character and the representation strategy.
-> **Citações:** conferidas 1 · corrigidas 2 · por conferir 10. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **EN:** Design Registrations — National (INPI) and EU (EUIPO) Applications. Prepares the application for registration of a design, national (INPI) and European Union (EUIPO), under Articles 173 to 207 of the CPI (Decree-Law No. 110/2018) and Regulation (EC) No 6/2002 on European Union designs (as amended by Regulation (EU) 2024/2822), including analysis of novelty, individual character and the representation strategy.
+> **Citações:** conferidas 9 · corrigidas 1 · por conferir 12. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-30 — corrigida (9 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
-Elabora o pedido de registo de desenho ou modelo, nacional (INPI) e da União Europeia (EUIPO), ao abrigo dos artigos 173.º a 213.º do CPI (DL n.º 110/2018) e do Regulamento (CE) n.º 6/2002 (Regulamento dos Desenhos ou Modelos Comunitários — RDMC), incluindo análise de novidade, carácter singular e estratégia de representação.
+Elabora o pedido de registo de desenho ou modelo, nacional (INPI) e da União Europeia (EUIPO), ao abrigo dos artigos 173.º a 207.º do CPI (DL n.º 110/2018) e do Regulamento (CE) n.º 6/2002, relativo aos desenhos ou modelos da União Europeia (RDMC, na redação do Regulamento (UE) 2024/2822), incluindo análise de novidade, carácter singular e estratégia de representação.
 
 ## Método
 
@@ -24,7 +26,7 @@ Ficha de trabalho para preparar este documento. As regras da casa prevalecem sob
 
 ## Regras obrigatórias
 — Cita os artigos reais do CPI e do RDMC.
-— Alerta para a distinção entre desenho ou modelo registado e não registado (proteção automática de 3 anos pela aparência do DMCNR — art. 11.º RDMC).
+— Alerta para a distinção entre desenho ou modelo registado e não registado (proteção automática de 3 anos do desenho ou modelo da UE não registado — art. 11.º RDMC, na redação do Regulamento (UE) 2024/2822).
 — Nunca inventes números de registo ou resultados de pesquisa de anterioridades.
 
 ## Framework D.E.S.I.G.N. — 5 etapas
@@ -32,12 +34,12 @@ Ficha de trabalho para preparar este documento. As regras da casa prevalecem sob
 ### ETAPA 1 — ANÁLISE DE PROTEÇÃO
 Apresenta em <analise_protecao_design>:
 - Objeto: aparência exterior do produto — linhas, contornos, cores, forma, textura, materiais, ornamentação (art. 173.º CPI; art. 3.º RDMC)
-- Exclusões: elementos ditados unicamente pela função técnica (art. 175.º CPI [■ VERIFICAR: o art. 175.º CPI fixa os requisitos de concessão; confirmar a norma que exclui elementos ditados pela função técnica]; art. 8.º RDMC) — must-fit/must-match
-- Requisitos: novidade + carácter singular (art. 179.º e 180.º CPI [■ VERIFICAR: a novidade está no art. 176.º CPI e o caráter singular no art. 177.º; os arts. 179.º e 180.º tratam de outras matérias])
+- Exclusões: características da aparência determinadas exclusivamente pela função técnica e características de interconexão (must-fit), salvo os sistemas modulares (art. 175.º, n.os 6 e 7, CPI; art. 8.º RDMC); o must-match não é uma exclusão do art. 8.º RDMC, mas a cláusula de reparação de componentes de produtos complexos (art. 20.º-A RDMC)
+- Requisitos: novidade + carácter singular (arts. 176.º e 177.º CPI; arts. 5.º e 6.º RDMC)
   — Novidade: sem design idêntico divulgado antes da data de depósito
   — Carácter singular: impressão global diferente no utilizador informado
-- Período de graça: 12 meses antes do depósito (art. 179.º CPI; art. 7.º RDMC) — divulgação pelo próprio não destrói a novidade
-- Design não registado: proteção automática de 3 anos pela primeira divulgação na UE (art. 11.º RDMC) — mais fraca (só contra cópia dolosa)
+- Período de graça: 12 meses antes do depósito ou da prioridade (art. 179.º CPI; art. 7.º, n.º 2, RDMC) — a divulgação pelo criador, pelo seu sucessor ou por terceiro com base em informações deles não destrói a novidade; no pedido nacional, indicar a data e o local da divulgação no pedido ou no prazo de um mês, com documento comprovativo (art. 179.º, n.º 3, CPI)
+- Desenho ou modelo da UE não registado: proteção automática de 3 anos a contar da primeira divulgação ao público na UE (art. 11.º RDMC) — mais fraca: só permite proibir a utilização que resulte de cópia, não a criação independente (art. 19.º, n.º 4, RDMC)
 
 ### ETAPA 2 — ESTRATÉGIA DE REGISTO
 Define em <estrategia_registo_design>:
@@ -57,7 +59,7 @@ Define em <pesquisa_anterioridades_design>:
 ### ETAPA 4 — REQUERIMENTO DE REGISTO
 
 **REQUERIMENTO DE REGISTO DE DESENHO OU MODELO**
-*[Adaptar para INPI (nacional) ou EUIPO (comunitário)]*
+*[Adaptar para INPI (nacional) ou EUIPO (desenho ou modelo da UE)]*
 
 **Ao INPI / EUIPO**
 
@@ -66,16 +68,16 @@ Define em <pesquisa_anterioridades_design>:
 **Produto:** [designação: ex. "embalagem para produto cosmético"; classificação de Locarno: [classe/subclasse]]
 
 **REPRESENTAÇÕES GRÁFICAS:**
-[Indicar que se juntam X perspetivas do design em formato [JPEG/PNG, resolução mínima 400 dpi, fundo branco]]
+[Indicar que se juntam X perspetivas do design] [■ VERIFICAR: formato, número de vistas e demais requisitos formais das representações — despacho do presidente do conselho diretivo do INPI (art. 184.º, n.º 4, CPI) e atos de execução do RDMC aplicáveis no EUIPO]
 [Perspetivas: frontal, traseira, lateral esquerda, lateral direita, superior, inferior, perspetiva isométrica]
 
-**REIVINDICAÇÕES (opcional para INPI; não existe no RDMC):**
-[Indicação dos elementos visuais que se pretendem proteger]
+**DESCRIÇÃO (facultativa):**
+[INPI: até 50 palavras por produto, referindo apenas os elementos que aparecem nas representações, sem menções à novidade, ao carácter singular ou ao valor técnico (art. 184.º, n.º 3, CPI); EUIPO: descrição explicativa da representação, que não afeta o âmbito da proteção (art. 36.º, n.º 3, al. a), e n.º 6, RDMC). Nenhum dos regimes prevê reivindicações no pedido de desenho ou modelo; no INPI indicam-se as cores, se forem reivindicadas (art. 183.º, n.º 1, al. e), CPI)]
 
 **PEDIDO DE PRIORIDADE:** [sim/não — indicar depósito anterior e data]
 
 **DECLARAÇÃO DE NOVIDADE:**
-Declara-se que o design representado é novo e tem carácter singular, na aceção dos artigos 179.º e 180.º do CPI [■ VERIFICAR: a novidade está no art. 176.º CPI e o caráter singular no art. 177.º; os arts. 179.º e 180.º tratam de outras matérias] / artigos 4.º a 9.º do RDMC.
+Declara-se que o design representado é novo e tem carácter singular, na aceção dos artigos 176.º e 177.º do CPI / artigos 5.º e 6.º do RDMC.
 
 **Documentos juntos:** [lista: procuração, comprovativo de taxa, representações gráficas, acordo de cedência (se criador ≠ requerente)]
 
@@ -117,12 +119,21 @@ Apresenta em <checklist_design>:
 | art. 11.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 173.º CPI | conferida (epígrafe) — Definição de desenho ou modelo |  |
 | art. 3.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| art. 175.º CPI | por conferir [■ VERIFICAR] | o art. 175.º CPI fixa os requisitos de concessão; confirmar a norma que exclui elementos ditados pela função técnica |
+| art. 175.º, n.os 6 e 7, CPI | conferida (epígrafe) — Requisitos de concessão |  |
 | art. 8.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| art. 179.º e 180.º CPI | por conferir [■ VERIFICAR] | a novidade está no art. 176.º CPI e o caráter singular no art. 177.º; os arts. 179.º e 180.º tratam de outras matérias |
-| art. 179.º CPI | corrigida — Divulgações não oponíveis | o número citado no catálogo não correspondia à epígrafe |
+| art. 8.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 20.º-A | por conferir [■ VERIFICAR] | diploma não identificado |
+| arts. 176.º e 177.º CPI | conferida (epígrafe) — Novidade |  |
+| arts. 5.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 179.º CPI | conferida (epígrafe) — Divulgações não oponíveis |  |
 | art. 7.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 179.º, n.º 3, CPI | conferida (epígrafe) — Divulgações não oponíveis |  |
+| art. 19.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 195.º CPI | corrigida — Duração | o número citado no catálogo não correspondia à epígrafe |
 | art. 37.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| artigos 179.º e 180.º do CPI | por conferir [■ VERIFICAR] | a novidade está no art. 176.º CPI e o caráter singular no art. 177.º; os arts. 179.º e 180.º tratam de outras matérias |
-| artigos 4.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 184.º, n.º 4, CPI | conferida (epígrafe) — Documentos a apresentar |  |
+| art. 184.º, n.º 3, CPI | conferida (epígrafe) — Documentos a apresentar |  |
+| art. 36.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 183.º, n.º 1, al. e), CPI | conferida (epígrafe) — Forma do pedido |  |
+| artigos 176.º e 177.º do CPI | conferida (epígrafe) — Novidade |  |
+| artigos 5.º | por conferir [■ VERIFICAR] | diploma não identificado |

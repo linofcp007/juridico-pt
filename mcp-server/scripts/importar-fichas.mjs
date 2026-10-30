@@ -101,7 +101,7 @@ function registoDiplomas(epigrafes) {
     // que apanhava qualquer regulamento.
     const doTitulo = d.diploma.replace(/\s*\(.*$/, "");
     const nomes = [...new Set([...(d.nomes || []), ...(doTitulo.includes(" ") ? [doTitulo] : [])])];
-    reg.push({ sigla: d.sigla, diploma: d.diploma, nomes, epigrafes: epigrafes[d.sigla]?.artigos || null });
+    reg.push({ sigla: d.sigla, diploma: d.diploma, nomes, epigrafes: epigrafes[d.sigla]?.artigos || null, revogados: new Set(epigrafes[d.sigla]?.revogados || []) });
   }
   return reg;
 }
@@ -119,6 +119,10 @@ function registoDaFicha(reg, texto) {
 }
 
 const RE_ART = /\b(art(?:igo)?s?\.?º?)\s*(\d+)\s*\.?\s*[º°](?:\s*-\s*([A-Z])\b)?/gi;
+// Sem "º" ("Art. 246 CSC", "art. 6 RGPD"): só conta com o diploma logo a seguir, com números e alíneas pelo meio,
+// para não apanhar o "Artigo 1 — Objeto" de um contrato nem o "art. 5 do contrato".
+const RE_ART_SEM = /\b(art(?:igo)?s?\.?º?)\s*(\d+)(?![\d/]|\s*\.?\s*[º°]|[.,]\d)(?:\s*-\s*([A-Z])\b)?/gi;
+const SO_NUMEROS = /^(?:[\s,;(]|\(\d+\)|\([a-z]\)|n\.?\s*ºs?\s*\d+|al(?:ínea)?s?\.?\s*[a-z]\)|\b(?:do|da|dos|das|e)\b)*$/i;
 // Outro diploma nomeado entre o artigo e a sigla: a citação é desse ("art. 98.º da Lei n.º 23/2007 … CPA").
 // Com maiúscula, como se escrevem os diplomas: "regime" ou "código" no meio da frase não contam.
 const OUTRO_DIPLOMA = /\b(Lei|lei n\.º|Decreto|DL|Diretiva|Directiva|Regulamento|Portaria|Conven[çc][ãa]o|Carta|Despacho|Resolu[çc][ãa]o|Tratado|C[óo]digo|Estatuto|Regime)\b/;
@@ -136,7 +140,7 @@ function fechaParentese(s) {
 
 /** Citações de uma linha: { inicio, fim, texto, artigo, sigla } com o diploma reconhecido até 70 caracteres depois. */
 function citacoesDaLinha(linha, reg) {
-  const achados = [...linha.matchAll(RE_ART)];
+  const achados = [...linha.matchAll(RE_ART), ...[...linha.matchAll(RE_ART_SEM)].map((m) => Object.assign(m, { semGrau: true }))].sort((a, b) => a.index - b.index);
   const out = [];
   achados.forEach((m, i) => {
     const fimArt = m.index + m[0].length;
@@ -159,6 +163,7 @@ function citacoesDaLinha(linha, reg) {
       const definida = melhor.alvo === melhor.d.sigla && /\(\s*$/.test(entre) && !fechaParentese(entre);
       if (!definida && (OUTRO_DIPLOMA.test(entre) || fechaParentese(entre))) melhor = null;
     }
+    if (m.semGrau && !(melhor && SO_NUMEROS.test(resto.slice(0, melhor.p)))) return;
     const artigo = m[3] ? `${Number(m[2])}-${m[3].toUpperCase()}` : String(Number(m[2]));
     const texto = melhor ? linha.slice(m.index, fimArt + melhor.p + melhor.alvo.length) : m[0];
     out.push({ inicio: m.index, fim: m.index + texto.length, texto, artigo, d: melhor?.d || null });
@@ -208,10 +213,19 @@ export function conferirCitacoes(codigo, texto, ctx) {
       const depois = linha.slice(c.fim, c.fim + 120);
       const contexto = `${antes} ${depois}`;
       const reg = { codigo, texto: c.texto, sigla: c.d?.sigla || null, diploma: c.d?.diploma || null, artigo: c.artigo, contexto: `${antes}⟨${c.texto}⟩${depois}`.replace(/\s+/g, " ").trim() };
+      // Artigo revogado: a epígrafe fica na lista oficial, mas a citação não conta como conferida (salvo se o texto
+      // já diz que está revogado).
+      const revogado = c.d?.revogados?.has(c.artigo) && !/revog(?:ad[oa]|ou|a[çc][ãa]o d[oe]s?\s+art)/i.test(contexto);
+      const marcarRevogado = () => {
+        const nota = `o artigo ${c.artigo.replace(/-/, ".º-").replace(/^(\d+)$/, "$1.º")} ${c.d.sigla} está revogado; confirmar a norma em vigor`;
+        linha = inserirMarcador(linha, c.fim, nota);
+        citacoes.push({ ...reg, estado: "por conferir", nota });
+      };
       const di = decisoes.findIndex((x, i) => !usadas.has(i) && x.citacao === c.texto && (!x.contexto || espacos(linha).includes(espacos(x.contexto))));
       if (di >= 0) {
         usadas.add(di);
         const x = decisoes[di];
+        if (revogado && x.decisao === "conferida") { marcarRevogado(); continue; }
         if (x.decisao === "corrigir") {
           // A correção vem como texto completo (correto) ou só como número (artigo_correto, ex. "153" ou "78-A").
           if (!x.correto && x.artigo_correto) {
@@ -221,6 +235,7 @@ export function conferirCitacoes(codigo, texto, ctx) {
           const nova = citacoesDaLinha(x.correto, ctx.reg)[0];
           const ep = nova?.d?.epigrafes?.[nova.artigo];
           if (!ep) throw new Error(`${codigo}: a correção «${x.correto}» não está nas epígrafes`);
+          if (nova.d.revogados?.has(nova.artigo)) throw new Error(`${codigo}: a correção «${x.correto}» aponta para um artigo revogado`);
           linha = linha.slice(0, c.inicio) + x.correto + linha.slice(c.fim);
           citacoes.push({ ...reg, texto: x.correto, artigo: nova.artigo, sigla: nova.d.sigla, diploma: nova.d.diploma, estado: "corrigida", epigrafe: normalizarGrafia(ep), prova: "revisão", nota: x.nota || "o número citado no catálogo não correspondia à epígrafe" });
           continue;
@@ -236,6 +251,7 @@ export function conferirCitacoes(codigo, texto, ctx) {
         citacoes.push({ ...reg, estado: "por conferir", nota: x.nota || "norma por conferir" });
         continue;
       }
+      if (revogado) { marcarRevogado(); continue; }
       const ix = noIndice(ctx.normas, c.d, c.artigo);
       if (ix) {
         citacoes.push({ ...reg, estado: "conferida (índice)", diploma_indice: ix.diploma, dispositivo: ix.dispositivo, prova: ix.ficheiro });
@@ -367,7 +383,8 @@ export function importar({ origem, skill = SKILL_PADRAO }) {
     importado_em ??= campos.extraido_em || null;
     let texto = aplicarPersona(remeterGrandezas(normalizarGrafia(corpoUtil(corpo))));
     // Revisão técnica: as correções de conteúdo entram antes das citações, que as conferem como às outras.
-    if (rev) texto = aplicarCorrecoes(item.codigo, texto, rev);
+    // O texto novo da revisão passa pelas mesmas regras (AO90, valores do ano remetidos para valores-2026).
+    if (rev) texto = remeterGrandezas(normalizarGrafia(aplicarCorrecoes(item.codigo, texto, rev)));
     const conf = conferirCitacoes(item.codigo, texto, rev ? { ...ctx, introduzidas: citacoesIntroduzidas(rev, registoDaFicha(ctx.reg, texto)) } : ctx);
     texto = conf.texto;
     const estado = contar(conf.citacoes);
@@ -608,4 +625,4 @@ function main(argv) {
   console.log(`OK: ${fichas} fichas, ${res.entradas.length - fichas} remissões, ${res.citacoes.length} citações; ${dif.length} ficheiros escritos ou apagados.`);
 }
 
-if (import.meta.url === pathToFileURL(process.argv[1]).href) main(process.argv.slice(2));
+if (process.argv[1] && import.meta.url === pathToFileURL(process.argv[1]).href) main(process.argv.slice(2));

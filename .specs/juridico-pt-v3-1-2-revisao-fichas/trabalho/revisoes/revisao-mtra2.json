@@ -1,0 +1,545 @@
+[
+ {
+  "codigo": "TRA-044",
+  "veredicto": "corrigida",
+  "resumo": "A ficha exigia 15 anos de antiguidade, requisito que o art. 318.º CT não prevê (basta o acordo com trabalhador de idade igual ou superior a 55 anos), e inventava um mínimo de 50 % da prestação na suspensão. Os limites da prestação estão no art. 320.º, n.º 1, CT (nem acima da retribuição na data do acordo, nem abaixo de 25 % desta ou, na redução, da retribuição do trabalho prestado). Corrigi também a correspondência entre artigos e matérias (319.º forma do acordo, 320.º prestação, 321.º direitos, 322.º cessação), retirei a atribuição do regime de segurança social ao CT, com remissão marcada para o Código dos Regimes Contributivos, e alinhei a cláusula de cessação com o art. 322.º CT.",
+  "substituicoes": [
+   {
+    "de": "— Verifica sempre os requisitos de acesso: trabalhador com pelo menos 55 anos e 15 anos de antiguidade na empresa (art. 318.º, n.º 1, CT).",
+    "para": "— Verifica sempre os requisitos de acesso: acordo entre empregador e trabalhador com idade igual ou superior a 55 anos (art. 318.º CT), reduzido a escrito com as menções do art. 319.º CT. A lei não exige antiguidade mínima na empresa.",
+    "motivo": "O art. 318.º CT (artigo sem números) só exige idade igual ou superior a 55 anos e acordo; não prevê antiguidade mínima de 15 anos",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0318&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Idade do trabalhador: mínimo 55 anos (art. 318.º, n.º 1, CT)\n- Antiguidade: mínimo 15 anos na empresa",
+    "para": "- Idade do trabalhador: igual ou superior a 55 anos (art. 318.º CT)\n- Antiguidade: não é requisito legal\n- Forma: acordo escrito com identificação, assinaturas e domicílio ou sede das partes, data de início da pré-reforma, montante da prestação e, havendo redução, organização do tempo de trabalho (art. 319.º CT)",
+    "motivo": "A antiguidade não é requisito da pré-reforma e faltava a forma escrita e o conteúdo obrigatório do acordo (art. 319.º CT)",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0318&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Regime de segurança social: o trabalhador em pré-reforma mantém a inscrição e a contribuição para a SS (art. 321.º CT); verificar impacto na pensão futura\n- Retribuição durante a pré-reforma: mínimo 25% da retribuição base (art. 319.º, n.º 2, CT) enquanto há redução; 50% em caso de suspensão total",
+    "para": "- Regime de segurança social: não consta do CT; o enquadramento contributivo dos trabalhadores em pré-reforma está no Código dos Regimes Contributivos do Sistema Previdencial de Segurança Social (Lei n.º 110/2009, de 16 de setembro) [■ VERIFICAR: base de incidência e taxa contributiva aplicáveis à pré-reforma, na redação em vigor]; verificar impacto na pensão futura\n- Prestação de pré-reforma: o montante inicial não pode ser superior à retribuição do trabalhador na data do acordo, nem inferior a 25 % desta ou, se a pré-reforma consistir na redução da prestação de trabalho, à retribuição do trabalho prestado (art. 320.º, n.º 1, CT); salvo estipulação em contrário, é atualizada anualmente (art. 320.º, n.º 2, CT). A lei não fixa um mínimo de 50 % para a suspensão",
+    "motivo": "O art. 321.º CT não trata da segurança social; os limites da prestação estão no art. 320.º, n.º 1, CT (25 % da retribuição, ou a retribuição do trabalho prestado na redução) e não há mínimo de 50 % na suspensão",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0318&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Art. 318.º CT: noção e requisitos\n- Art. 319.º CT: retribuição durante a pré-reforma (mínimos legais)\n- Art. 320.º CT: regime de segurança social e proteção na doença e desemprego\n- Art. 321.º CT: cessação da pré-reforma e conversão em reforma",
+    "para": "- Art. 318.º CT: noção (redução ou suspensão da prestação de trabalho, por acordo com trabalhador de idade igual ou superior a 55 anos, com direito a uma prestação pecuniária mensal paga pelo empregador)\n- Art. 319.º, als. a) a d), CT: forma escrita e conteúdo do acordo\n- Art. 320.º, n.os 1 a 3, CT: prestação de pré-reforma (limites do montante inicial, atualização anual e garantias dos créditos laborais)\n- Art. 321.º, n.os 1 a 3, CT: direitos do trabalhador em pré-reforma (outra atividade remunerada, outros direitos atribuídos pelo acordo, retoma do pleno exercício de funções ou resolução do contrato em caso de falta de pagamento)\n- Art. 322.º, n.os 1 a 3, CT: cessação da pré-reforma (reforma por velhice ou invalidez, regresso ao pleno exercício de funções, cessação do contrato) e indemnização\n- Segurança social: Código dos Regimes Contributivos [■ VERIFICAR: regime aplicável aos trabalhadores em pré-reforma]",
+    "motivo": "Os artigos estavam desalinhados das matérias: o 319.º é a forma do acordo, o 320.º a prestação, o 321.º os direitos do trabalhador e o 322.º a cessação; o CT não regula a segurança social da pré-reforma",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0318&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "[Define a retribuição durante a pré-reforma, não inferior ao mínimo legal (art. 319.º, n.º 2, CT), e o tratamento dos subsídios de férias e de Natal.]",
+    "para": "[Define o montante da prestação de pré-reforma, dentro dos limites do art. 320.º, n.º 1, CT, a sua atualização anual (art. 320.º, n.º 2, CT) e o tratamento dos subsídios de férias e de Natal.]",
+    "motivo": "Os limites da prestação estão no art. 320.º, n.º 1, CT; o n.º 2 trata da atualização anual",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0318&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "[Confirma a manutenção da inscrição e das contribuições para a segurança social (art. 321.º CT), com base nas retribuições efetivamente pagas.]",
+    "para": "[Confirma a manutenção da inscrição na segurança social e o regime contributivo aplicável à pré-reforma, nos termos do Código dos Regimes Contributivos [■ VERIFICAR: base de incidência e taxa contributiva da pré-reforma].]",
+    "motivo": "O art. 321.º CT trata dos direitos do trabalhador em pré-reforma, não da segurança social; a base de incidência da pré-reforma tem regras próprias no Código Contributivo, que não foi possível consultar na fonte oficial",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0318&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "[Estabelece o regime de férias proporcional à redução do período de trabalho.]",
+    "para": "[Estabelece o regime de férias durante a pré-reforma e a respetiva retribuição.] [■ VERIFICAR: direito a férias na redução e na suspensão da prestação de trabalho; o acordo pode atribuir outros direitos (art. 321.º, n.º 2, CT)]",
+    "motivo": "A lei não fixa um regime de férias «proporcional» à redução; o ponto deve ser confirmado e pode ser regulado no acordo (art. 321.º, n.º 2, CT)",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0318&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "[Define as condições de conversão em reforma efetiva ou de cessação do acordo por mútuo consentimento, reforma por velhice ou invalidez, ou morte.]",
+    "para": "[Define as causas de cessação da pré-reforma (art. 322.º, n.º 1, CT): reforma do trabalhador por velhice ou invalidez; regresso ao pleno exercício de funções, por acordo com o empregador ou nos termos do art. 321.º, n.º 3, CT; cessação do contrato de trabalho, com direito à indemnização do art. 322.º, n.os 2 e 3, CT quando a modalidade de cessação a conferisse ao trabalhador em pleno exercício de funções.]",
+    "motivo": "Alinhamento com as causas de cessação do art. 322.º, n.º 1, CT e com a indemnização dos n.os 2 e 3",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0318&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Trabalhador tem pelo menos 55 anos de idade\n- [ ] Antiguidade mínima de 15 anos na empresa\n- [ ] Retribuição igual ou superior ao mínimo legal (art. 319.º, n.º 2, CT)\n- [ ] Contribuições para a SS mantidas durante a pré-reforma",
+    "para": "- [ ] Trabalhador tem idade igual ou superior a 55 anos\n- [ ] Acordo escrito com as menções do art. 319.º CT\n- [ ] Prestação de pré-reforma dentro dos limites do art. 320.º, n.º 1, CT\n- [ ] [■ VERIFICAR] Regime contributivo da pré-reforma (Código dos Regimes Contributivos)",
+    "motivo": "Retirado o requisito inexistente de antiguidade e corrigida a norma dos limites da prestação",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0318&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar no Código dos Regimes Contributivos (Lei n.º 110/2009), na redação em vigor, a base de incidência e a taxa contributiva dos trabalhadores em pré-reforma: a fonte oficial da Segurança Social não estava acessível.",
+   "Confirmar o regime de férias e dos subsídios durante a pré-reforma, sobretudo na suspensão total da prestação de trabalho.",
+   "A anterior revisão das citações corrigia «art. 319.º, n.º 2, CT» para o art. 320.º, n.º 2, CT, que trata da atualização anual; o mínimo da prestação está no n.º 1, como ficou no texto.",
+   "Verificar se o IRCT aplicável prevê condições mais favoráveis e o impacto da pré-reforma na pensão."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0318&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://diariodarepublica.pt/dr/detalhe/lei/110-2009-490249"
+  ]
+ },
+ {
+  "codigo": "TRA-045",
+  "veredicto": "corrigida",
+  "resumo": "A ficha apresentava a política de desconexão como obrigação das empresas com mais de 10 trabalhadores: o art. 199.º-A CT não tem limiar nem impõe uma política escrita, mas obriga todos os empregadores a absterem-se de contactar o trabalhador no período de descanso, ressalvada apenas a força maior. Corrigi esse enquadramento, retirei a «urgência genuína» e as exceções criadas pela política, acrescentei a proteção contra o tratamento menos favorável (n.º 2), corrigi a remissão da contraordenação grave para o n.º 3 (o artigo não tem n.º 5) e a localização do regime do teletrabalho (arts. 165.º a 171.º CT, com o dever especial do art. 169.º-B, n.º 1, al. b)). Precisei que a isenção de horário não afasta os períodos de descanso.",
+  "descricao": "Gera a política interna de desconexão digital, ao abrigo do art. 199.º-A do Código do Trabalho (aditado pela Lei n.º 83/2021, de 6 de dezembro), com definição dos períodos de não contacto, da única exceção legal (força maior) e das medidas de implementação. O documento concretiza o dever de abstenção de contacto no período de descanso, que se aplica a todos os empregadores, independentemente do número de trabalhadores; a lei não impõe a adoção de uma política escrita.",
+  "descricao_en": "Generates the internal digital disconnection policy under Art. 199-A of the Labour Code (added by Law No. 83/2021 of 6 December), defining no-contact periods, the only statutory exception (force majeure) and implementation measures. The document gives effect to the employer's duty to refrain from contacting employees during their rest period, which applies to all employers regardless of headcount; the law does not require a written policy.",
+  "substituicoes": [
+   {
+    "de": "— A obrigação de adotar regras de desconexão aplica-se a empresas com mais de 10 trabalhadores — alerta para este limiar.",
+    "para": "— O dever de abstenção de contacto no período de descanso aplica-se a todos os empregadores, sem limiar de número de trabalhadores, e só cede perante situações de força maior (art. 199.º-A, n.º 1, CT); a sua violação constitui contraordenação grave (art. 199.º-A, n.º 3, CT). A lei não obriga a adotar uma política escrita: a política é um instrumento voluntário de cumprimento — alerta para isto.",
+    "motivo": "O art. 199.º-A CT não prevê limiar de 10 trabalhadores nem obrigação de adotar uma política; impõe a todos os empregadores o dever de abstenção de contacto",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0199A&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Art. 199.º-A CT: proibição de o empregador contactar o trabalhador fora do período de trabalho, com as exceções legais (força maior, situações excecionais)\n- Empresas obrigadas: mais de 10 trabalhadores\n- Trabalhadores em teletrabalho: regime específico (Capítulo VI do CT, arts. 165.º e ss.)",
+    "para": "- Art. 199.º-A CT: dever de o empregador se abster de contactar o trabalhador no período de descanso, ressalvadas apenas as situações de força maior; qualquer tratamento menos favorável do trabalhador por exercer o direito ao período de descanso é ação discriminatória (art. 199.º-A, n.º 2, CT)\n- Âmbito: todos os empregadores, independentemente do número de trabalhadores\n- Trabalhadores em teletrabalho: regime específico (arts. 165.º a 171.º CT), incluindo o dever especial de o empregador se abster de os contactar no período de descanso (art. 169.º-B, n.º 1, al. b), CT)",
+    "motivo": "O art. 199.º-A CT refere o período de descanso e só ressalva a força maior; não há limiar de dimensão; o teletrabalho está nos arts. 165.º a 171.º CT (subsecção V), não num «Capítulo VI»",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0199A&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "[É proibido contactar trabalhadores fora do seu período de trabalho individual, exceto nos casos previstos nesta política.]",
+    "para": "[A empresa abstém-se de contactar os trabalhadores no respetivo período de descanso, ressalvadas as situações de força maior (art. 199.º-A, n.º 1, CT). Esta política não cria exceções além da legal.]",
+    "motivo": "O dever legal abrange o período de descanso e só ressalva a força maior; a política não pode alargar as exceções",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0199A&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "[Situações de força maior, urgência genuína que não possa aguardar o início do período de trabalho seguinte, e procedimento a seguir (quem autoriza o contacto urgente).]",
+    "para": "[Situações de força maior, a única exceção prevista no art. 199.º-A, n.º 1, CT, e procedimento a seguir (quem autoriza o contacto). [■ VERIFICAR: se outras urgências ou regimes de prevenção previstos em IRCT ou no contrato podem justificar o contacto no período de descanso]]",
+    "motivo": "A «urgência genuína» não é exceção legal ao dever de abstenção de contacto",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0199A&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "[Esclarecimento sobre como a política se aplica — ou não — a trabalhadores com isenção total de horário.]",
+    "para": "[Esclarecimento de que a política também se aplica a trabalhadores isentos de horário: a isenção não prejudica o direito ao descanso semanal, aos feriados e ao descanso diário (art. 219.º, n.º 3, CT), períodos em que vale o dever de abstenção de contacto.]",
+    "motivo": "A isenção de horário não afasta os períodos de descanso, a que se aplica o art. 199.º-A CT",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0219&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "(art. 199.º-A, n.º 5, CT)",
+    "para": "(art. 199.º-A, n.º 3, CT: contraordenação grave)",
+    "motivo": "O art. 199.º-A CT tem três números; a contraordenação grave está no n.º 3",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0199A&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Empresa tem mais de 10 trabalhadores (limiar da obrigação legal)",
+    "para": "- [ ] Política aplicada a todos os trabalhadores (o dever do art. 199.º-A CT não depende do número de trabalhadores)",
+    "motivo": "Não existe limiar legal de 10 trabalhadores",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0199A&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Se a política for integrada no regulamento interno, observar o art. 99.º CT (audição da comissão de trabalhadores ou das estruturas sindicais e publicitação).",
+   "Confirmar no IRCT aplicável se há regimes de prevenção ou disponibilidade que condicionem o contacto fora do horário.",
+   "A expressão «força maior» não está definida no art. 199.º-A CT; delimitar na política, com prudência, os exemplos admitidos."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0199A&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0169B&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0165&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0219&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0099&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+  ]
+ },
+ {
+  "codigo": "TRA-047",
+  "veredicto": "corrigida",
+  "resumo": "A ficha fundava a competência no art. 85.º CPT, que está revogado (dizia respeito aos agravos); a competência dos juízos do trabalho consta do art. 126.º, n.º 1, al. b), da LOSJ, e o CPT prevê um processo especial e urgente de tutela da personalidade do trabalhador (arts. 186.º-D a 186.º-F). Corrigi a lista dos arts. 17.º a 22.º CT (o 18.º trata dos dados biométricos e o 21.º da utilização de meios de vigilância a distância; nenhum trata da grávida), o endereçamento da petição ao juízo do trabalho do tribunal de comarca e a prescrição, que era dada como de um ano pelo art. 498.º CC: o prazo de um ano é o do art. 337.º, n.º 1, CT, contado da cessação do contrato, e o art. 498.º CC fixa três anos.",
+  "substituicoes": [
+   {
+    "de": "— A ação pode ser intentada no Tribunal do Trabalho competente ao abrigo do art. 85.º, n.º 1, al. c), do Código de Processo do Trabalho (CPT).",
+    "para": "— A ação é da competência dos juízos do trabalho (art. 126.º, n.º 1, al. b), da Lei n.º 62/2013, de 26 de agosto — LOSJ). Para pedir providências que evitem a consumação da ofensa à personalidade ou atenuem os seus efeitos, existe o processo especial e urgente de tutela da personalidade do trabalhador (arts. 186.º-D a 186.º-F do Código de Processo do Trabalho — CPT), requerido contra o autor da ameaça ou ofensa e contra o empregador [■ VERIFICAR: forma de processo para o pedido de indemnização e sua cumulação com as providências].",
+    "motivo": "O art. 85.º CPT está revogado (dizia respeito aos agravos); a competência material dos juízos do trabalho consta do art. 126.º da LOSJ e o CPT prevê um processo especial de tutela da personalidade do trabalhador",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1974A0126&nid=1974&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "  — Art. 17.º CT: proteção de dados pessoais (saúde, vida privada, convicções)\n  — Art. 18.º CT: meios de vigilância à distância\n  — Art. 19.º CT: testes e exames médicos\n  — Art. 20.º CT: utilização de meios de vigilância à distância\n  — Art. 21.º CT: proteção de trabalhadora grávida\n  — Art. 22.º CT: confidencialidade de mensagens e acesso a informações",
+    "para": "  — Art. 17.º CT: proteção de dados pessoais (informações sobre a vida privada, a saúde ou o estado de gravidez)\n  — Art. 18.º CT: dados biométricos\n  — Art. 19.º CT: testes e exames médicos\n  — Art. 20.º CT: meios de vigilância a distância (proibição de os utilizar para controlar o desempenho profissional)\n  — Art. 21.º CT: utilização de meios de vigilância a distância (condições de utilização e conservação dos dados)\n  — Art. 22.º CT: confidencialidade de mensagens e de acesso a informação",
+    "motivo": "Os arts. 18.º e 21.º CT estavam trocados: o 18.º trata dos dados biométricos e o 21.º da utilização de meios de vigilância a distância; a proteção da grávida não está no art. 21.º",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0017&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "**AO TRIBUNAL DO TRABALHO DE [COMARCA]**",
+    "para": "**TRIBUNAL JUDICIAL DA COMARCA DE [COMARCA] — JUÍZO DO TRABALHO DE [LOCALIDADE]**",
+    "motivo": "Desde a LOSJ, a competência em matéria laboral cabe aos juízos do trabalho dos tribunais judiciais de comarca",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1974A0126&nid=1974&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Competência do Tribunal do Trabalho verificada (art. 85.º CPT)",
+    "para": "- [ ] Competência do juízo do trabalho verificada (art. 126.º, n.º 1, al. b), da LOSJ) e forma de processo escolhida (processo especial dos arts. 186.º-D a 186.º-F do CPT ou processo comum)",
+    "motivo": "O art. 85.º CPT está revogado; a competência consta da LOSJ",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=487A0085&nid=487&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "Prazo de prescrição verificado (1 ano — art. 498.º CC)",
+    "para": "Prazo de prescrição verificado: os créditos emergentes do contrato de trabalho, da sua violação ou cessação prescrevem decorrido um ano a partir do dia seguinte ao da cessação do contrato (art. 337.º, n.º 1, CT); se o pedido assentar em responsabilidade extracontratual, ponderar o prazo de três anos a contar do conhecimento do direito (art. 498.º, n.º 1, CC) [■ VERIFICAR: qualificação do pedido e prazo aplicável]",
+    "motivo": "O art. 498.º CC fixa três anos; o prazo de um ano é o do art. 337.º, n.º 1, CT, que só corre a partir do dia seguinte à cessação do contrato",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0337&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Escolher a forma de processo: o processo especial dos arts. 186.º-D a 186.º-F do CPT serve para providências que evitem ou atenuem a ofensa; confirmar se o pedido de indemnização deve seguir o processo comum.",
+   "Confirmar a qualificação da indemnização (crédito emergente do contrato, art. 337.º CT, ou responsabilidade extracontratual, art. 498.º CC) e o prazo de prescrição aplicável.",
+   "Depois do RGPD, confirmar o regime em vigor da autorização da CNPD prevista no art. 21.º, n.º 1, CT e no art. 18.º CT, à luz da Lei n.º 58/2019."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1974A0126&nid=1974&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=487A0085&nid=487&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=487A0186D&nid=487&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0017&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0020&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0021&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0337&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0498&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+  ]
+ },
+ {
+  "codigo": "TRA-050",
+  "veredicto": "corrigida",
+  "resumo": "A ficha fundava o contrato na Lei n.º 19/2007, cujo regime dos contratos de trabalho temporário e de utilização foi revogado pela Lei n.º 7/2009 e está hoje nos arts. 172.º e ss. CT (o licenciamento das ETT consta do Decreto-Lei n.º 260/2009). Corrigi os fundamentos de admissibilidade (o art. 175.º CT remete para as als. a) a g) do n.º 2 do art. 140.º e acrescenta casos próprios, sem incluir o lançamento de nova atividade), a duração máxima (dois anos, ou seis ou 12 meses, art. 178.º, n.º 2, e não três anos), a proibição após despedimento coletivo ou extinção de posto de trabalho (12 meses, art. 175.º, n.º 5, e não seis meses), as menções obrigatórias do art. 177.º CT (incluindo o número e a data do alvará e a apólice de seguro de acidentes de trabalho anexa), o dever de informação sobre vagas (art. 185.º, n.º 11) e a repartição de responsabilidades de segurança e saúde (art. 186.º). Corrigi também o título do índice, que invertia a cedência.",
+  "titulo": "Contrato de Utilização de Trabalho Temporário (Empresa Utilizadora e Empresa de Trabalho Temporário)",
+  "titulo_en": "Contract for the Use of Temporary Work (User Company and Temporary Work Agency)",
+  "descricao": "Gera o contrato de utilização de trabalho temporário entre a empresa utilizadora e a empresa de trabalho temporário (ETT), ao abrigo dos arts. 172.º a 192.º do Código do Trabalho, sendo o licenciamento e o exercício da atividade das ETT regulados pelo Decreto-Lei n.º 260/2009, de 25 de setembro. O documento cumpre os requisitos obrigatórios de forma e conteúdo e os limites de duração legalmente previstos.",
+  "descricao_en": "Generates the contract for the use of temporary work between the user company and the temporary work agency (empresa de trabalho temporário, ETT), under Arts. 172 to 192 of the Labour Code, with the licensing and operation of temporary work agencies governed by Decree-Law No. 260/2009 of 25 September. The document meets the mandatory requirements of form and content and the statutory duration limits.",
+  "substituicoes": [
+   {
+    "de": "  (a) Substituição de trabalhador ausente ou com redução temporária de atividade\n  (b) Necessidade transitória ou excepcional de mão de obra\n  (c) Atividade sazonal\n  (d) Lançamento de nova atividade ou de início de laboração de empresa\n- Duração máxima: 2 anos com possibilidade de prorrogação até 3 anos (art. 178.º CT)\n- Proibição de contrato de utilização para posto de trabalho em que tenha havido despedimento coletivo nos últimos 6 meses (art. 175.º, n.º 4, CT)",
+    "para": "  (a) Situações das als. a) a g) do n.º 2 do art. 140.º CT: substituição direta ou indireta de trabalhador ausente ou temporariamente impedido, com ação de apreciação da licitude do despedimento pendente, em licença sem retribuição ou que passe a tempo parcial por período determinado; atividade sazonal; acréscimo excecional de atividade (para este efeito, o que dure até 12 meses — art. 175.º, n.º 2, CT); tarefa ocasional ou serviço determinado precisamente definido e não duradouro\n  (b) Vacatura de posto de trabalho quando decorra processo de recrutamento para o seu preenchimento\n  (c) Necessidade intermitente de mão de obra, determinada por flutuação da atividade durante dias ou partes de dia, desde que a utilização não ultrapasse semanalmente metade do período normal de trabalho maioritariamente praticado no utilizador\n  (d) Necessidade intermitente de prestação de apoio familiar direto, de natureza social, durante dias ou partes de dia\n  (e) Realização de projeto temporário, designadamente instalação ou reestruturação de empresa ou estabelecimento, montagem ou reparação industrial\n  O lançamento de nova atividade ou o início de laboração de empresa (art. 140.º, n.º 4, CT) não é fundamento de contrato de utilização\n- Duração máxima: a da causa justificativa, incluindo renovações, com o limite de dois anos, ou de seis meses (vacatura de posto de trabalho com recrutamento em curso) ou 12 meses (acréscimo excecional de atividade) (art. 178.º, n.º 2, CT)\n- Proibição de contrato de utilização para satisfação de necessidades asseguradas por trabalhador cujo contrato tenha cessado nos 12 meses anteriores por despedimento coletivo ou por despedimento por extinção de posto de trabalho (art. 175.º, n.º 5, CT)",
+    "motivo": "O art. 175.º CT remete para as als. a) a g) do n.º 2 do art. 140.º e acrescenta quatro casos próprios, sem incluir o lançamento de nova atividade; a duração máxima é de dois anos (seis ou 12 meses em certos casos); a proibição respeita aos 12 meses anteriores, abrange a extinção de posto de trabalho e está no n.º 5",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0175&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Art. 181.º CT: menções obrigatórias do contrato de utilização:\n  — Fundamento justificativo\n  — Categoria profissional e descrição das funções\n  — Retribuição (base de cálculo para o princípio de igualdade)\n  — Local e horário de trabalho\n  — Duração e condições de renovação\n  — Identificação do trabalhador (se já conhecido)\n  — Medidas de segurança específicas\n- Obrigação de informar o trabalhador temporário das vagas permanentes (art. 187.º CT)",
+    "para": "- Art. 177.º CT: forma escrita, em dois exemplares, e menções obrigatórias do contrato de utilização, sob pena de nulidade, considerando-se então o trabalho prestado ao utilizador em regime de contrato de trabalho sem termo (n.os 5 e 6):\n  — Identificação, assinaturas, domicílio ou sede das partes, números de contribuinte e do regime geral da segurança social e, quanto à ETT, número e data do alvará da licença\n  — Motivo justificativo, com menção expressa dos factos que o integram e relação entre a justificação e o termo estipulado (n.º 2)\n  — Caracterização do posto de trabalho e dos riscos profissionais, qualificação profissional requerida e modalidade adotada pelo utilizador para os serviços de segurança e saúde no trabalho, com o respetivo contacto\n  — Local e período normal de trabalho\n  — Retribuição de trabalhador do utilizador que exerça as mesmas funções\n  — Pagamento devido pelo utilizador à ETT\n  — Início e duração, certa ou incerta, do contrato\n  — Data da celebração do contrato\n- Anexo obrigatório: cópia da apólice de seguro de acidentes de trabalho que englobe o trabalhador temporário e a atividade a exercer, sem a qual o utilizador é solidariamente responsável pela reparação dos danos (art. 177.º, n.º 3, CT)\n- Obrigação do utilizador de informar o trabalhador temporário dos postos de trabalho disponíveis na empresa ou estabelecimento para funções idênticas, com vista à sua candidatura (art. 185.º, n.º 11, CT)",
+    "motivo": "As menções obrigatórias do contrato de utilização estão no art. 177.º CT (o art. 181.º é o do contrato de trabalho temporário) e a lista estava incompleta, quando a falta de uma delas gera nulidade; o dever de informar sobre vagas está no art. 185.º, n.º 11, CT",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0175&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Empresa de Trabalho Temporário: [DENOMINAÇÃO ETT], NIPC [NÚMERO], licença IEFP n.º [NÚMERO], com sede em [MORADA], representada por [NOME E CARGO]\n- Empresa Utilizadora: [DENOMINAÇÃO], NIPC [NÚMERO], com sede em [MORADA], representada por [NOME E CARGO]",
+    "para": "- Empresa de Trabalho Temporário: [DENOMINAÇÃO ETT], NIPC [NÚMERO], n.º de identificação na segurança social [NÚMERO], alvará de licença n.º [NÚMERO], de [DATA], com sede em [MORADA], representada por [NOME E CARGO]\n- Empresa Utilizadora: [DENOMINAÇÃO], NIPC [NÚMERO], n.º de identificação na segurança social [NÚMERO], com sede em [MORADA], representada por [NOME E CARGO]",
+    "motivo": "O art. 177.º, n.º 1, al. a), CT exige os números de contribuinte e da segurança social das partes e o número e a data do alvará da ETT, sob pena de nulidade (n.º 5)",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0175&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "ao abrigo do art. 172.º CT e da Lei n.º 19/2007.]",
+    "para": "ao abrigo do art. 172.º CT e dos arts. 175.º a 192.º CT; o licenciamento e o exercício da atividade da ETT regem-se pelo Decreto-Lei n.º 260/2009, de 25 de setembro.]",
+    "motivo": "A Lei n.º 19/2007 foi revogada, quanto aos contratos de trabalho temporário e de utilização, pelo art. 12.º, n.º 1, al. c), da Lei n.º 7/2009; o regime está nos arts. 172.º e ss. CT e o licenciamento das ETT no DL n.º 260/2009",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "[A empresa utilizadora é responsável pelas condições de segurança e saúde no local de trabalho (art. 191.º CT). A ETT assegura a vigilância médica do trabalhador.]",
+    "para": "[O trabalhador temporário beneficia do mesmo nível de proteção em segurança e saúde no trabalho que os restantes trabalhadores do utilizador, que, antes da cedência, informa por escrito a ETT sobre os riscos do posto de trabalho e as medidas de emergência (art. 186.º, n.os 1 e 2, CT). Os exames de saúde de admissão, periódicos e ocasionais cabem à ETT (art. 186.º, n.º 4, CT); a vigilância médica especial em posto de trabalho particularmente perigoso cabe ao utilizador (art. 186.º, n.º 7, CT).]",
+    "motivo": "A segurança e saúde no trabalho temporário está no art. 186.º CT (o art. 191.º trata da execução da caução) e a vigilância médica especial em posto perigoso cabe ao utilizador",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0185&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] ETT com licença IEFP válida verificada\n- [ ] Fundamento de admissibilidade concreto e real identificado\n- [ ] Ausência de despedimento coletivo nos últimos 6 meses no posto a preencher\n- [ ] Duração dentro dos limites legais (máx. 3 anos com prorrogações)",
+    "para": "- [ ] ETT com licença válida verificada (número e data do alvará; registo nacional das ETT mantido pelo IEFP)\n- [ ] Fundamento de admissibilidade concreto e real identificado, com menção expressa dos factos (art. 177.º, n.º 2, CT)\n- [ ] Necessidade não assegurada, nos 12 meses anteriores, por trabalhador cujo contrato tenha cessado por despedimento coletivo ou por extinção de posto de trabalho (art. 175.º, n.º 5, CT)\n- [ ] Duração dentro dos limites legais: dois anos, incluindo renovações, ou seis ou 12 meses nos casos do art. 178.º, n.º 2, CT\n- [ ] Cópia da apólice de seguro de acidentes de trabalho anexa (art. 177.º, n.º 3, CT)",
+    "motivo": "Prazos e limites de duração do regime em vigor e anexo obrigatório da apólice",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0175&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- N.º de licença IEFP: [número]",
+    "para": "- N.º e data do alvará de licença: [número / data]\n- N.º de identificação na segurança social: [número]",
+    "motivo": "Menções exigidas pelo art. 177.º, n.º 1, al. a), CT",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0175&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar no registo nacional do IEFP que a licença da ETT está em vigor e que a caução está atualizada (Decreto-Lei n.º 260/2009).",
+   "Na cláusula 10.ª, ter presente que o trabalhador que continue ao serviço do utilizador decorridos 10 dias após a cessação do contrato de utilização, sem contrato que o fundamente, passa a estar vinculado ao utilizador por contrato sem termo (art. 178.º, n.º 4, CT).",
+   "Verificar a proibição de contratos sucessivos no mesmo posto de trabalho (art. 179.º CT) antes de renovar ou substituir o contrato."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0175&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0140&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0185&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.iefp.pt/empresas-trabalho-temporario"
+  ]
+ },
+ {
+  "codigo": "TRA-051",
+  "veredicto": "corrigida",
+  "resumo": "A ficha atribuía ao princípio do tratamento mais favorável (art. 476.º CT) a resolução do concurso entre lei e IRCT e entre IRCT. O art. 476.º rege a relação entre o IRCT e o contrato de trabalho; a relação entre a lei e o IRCT está no art. 3.º CT e a concorrência entre IRCT resolve-se pelos critérios dos arts. 481.º a 484.º CT (preferência do IRCT vertical, do acordo de empresa sobre o acordo coletivo e o contrato coletivo, escolha maioritária dos trabalhadores e, na falta dela, o de publicação mais recente). Acrescentei o princípio da dupla filiação (art. 496.º), a escolha pelo trabalhador não sindicalizado (art. 497.º) e a adesão (art. 504.º), corrigi a terminologia das convenções (art. 2.º, n.º 3) e retirei do índice o Código dos Regimes Contributivos, que não rege a matéria.",
+  "descricao": "Gera o parecer jurídico que determina qual o instrumento de regulamentação coletiva de trabalho (convenção coletiva, portaria de extensão ou portaria de condições de trabalho) aplicável a uma empresa e aos seus trabalhadores, ao abrigo dos arts. 476.º e ss. do Código do Trabalho. O parecer identifica os direitos mínimos convencionais e as categorias profissionais aplicáveis.",
+  "descricao_en": "Generates a legal opinion determining which collective labour regulation instrument (collective agreement, extension order or working conditions order — portaria de condições de trabalho) applies to a company and its employees, under Arts. 476 et seq. of the Labour Code. The opinion identifies the minimum rights under the agreement and the applicable occupational categories.",
+  "substituicoes": [
+   {
+    "de": "— A vinculação a um IRCT decorre da filiação do empregador em associação patronal outorgante, de portaria de extensão, ou de adesão direta — distingue sempre o título de vinculação.",
+    "para": "— A convenção coletiva obriga o empregador que a subscreve ou filiado em associação de empregadores celebrante e os trabalhadores ao seu serviço filiados em associação sindical celebrante (princípio da dupla filiação, art. 496.º, n.º 1, CT); pode ainda aplicar-se por portaria de extensão (arts. 514.º e ss. CT), por acordo de adesão (art. 504.º CT) ou por escolha do trabalhador não filiado em associação sindical (art. 497.º CT) — distingue sempre o título de vinculação, quanto ao empregador e quanto a cada trabalhador.",
+    "motivo": "A vinculação depende também da filiação do trabalhador (art. 496.º CT) e pode resultar da escolha do art. 497.º CT; o empregador pode ainda subscrever diretamente a convenção",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0496&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "— O princípio do tratamento mais favorável ao trabalhador (art. 476.º CT) governa o concurso de normas entre IRCT e lei.",
+    "para": "— A relação entre a lei e o IRCT rege-se pelo art. 3.º CT (as normas legais podem ser afastadas por IRCT, salvo quando delas resultar o contrário, e, nas matérias do n.º 3, só em sentido mais favorável aos trabalhadores). O princípio do tratamento mais favorável do art. 476.º CT rege a relação entre o IRCT e o contrato de trabalho, que só pode afastar o IRCT quando estabeleça condições mais favoráveis para o trabalhador. A concorrência entre IRCT resolve-se pelos critérios dos arts. 481.º a 484.º CT, e não pelo tratamento mais favorável.",
+    "motivo": "O art. 476.º CT rege a relação entre IRCT e contrato de trabalho; a relação entre lei e IRCT está no art. 3.º CT e a concorrência entre IRCT nos arts. 481.º a 484.º CT",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0476&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- A empresa tem acordo coletivo de empresa (negociado diretamente com sindicato)?\n- Existe conflito de aplicação entre dois ou mais IRCT? — aplicar o princípio do tratamento mais favorável (art. 481.º CT)",
+    "para": "- A empresa celebrou acordo de empresa (convenção entre associação sindical e um empregador) ou é parte de acordo coletivo (convenção entre associação sindical e uma pluralidade de empregadores) (art. 2.º, n.º 3, CT)?\n- Os trabalhadores em causa são filiados em associação sindical outorgante ou escolheram a convenção (arts. 496.º e 497.º CT)?\n- Existe concorrência entre dois ou mais IRCT? — aplicar os critérios de preferência dos arts. 481.º a 484.º CT: o IRCT negocial de setor de atividade afasta o de profissão; entre IRCT negociais, o acordo de empresa afasta o acordo coletivo e o contrato coletivo, e o acordo coletivo afasta o contrato coletivo; nos outros casos, os trabalhadores escolhem o instrumento por maioria, no prazo de 30 dias, e, na falta de escolha, aplica-se o de publicação mais recente ou, sendo publicados na mesma data, o que regular a principal atividade da empresa (art. 482.º CT); a decisão de arbitragem obrigatória e a portaria de extensão prevalecem nos termos do art. 483.º CT, e o IRCT negocial afasta o não negocial anterior (art. 484.º CT)",
+    "motivo": "A concorrência entre IRCT não se resolve pelo tratamento mais favorável, mas pelos critérios dos arts. 481.º a 484.º CT; a terminologia das convenções é a do art. 2.º, n.º 3, CT",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0481&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Título de vinculação identificado (filiação / extensão / adesão)",
+    "para": "- [ ] Título de vinculação identificado (filiação do empregador e dos trabalhadores / extensão / adesão / escolha pelo trabalhador)",
+    "motivo": "Alinhamento com os arts. 496.º, 497.º e 504.º CT",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0496&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Conflito de IRCT analisado se aplicável",
+    "para": "- [ ] Concorrência de IRCT analisada pelos critérios dos arts. 481.º a 484.º CT, se aplicável",
+    "motivo": "A concorrência resolve-se pelos critérios legais de preferência",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0481&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar no BTE a última publicação do IRCT, das alterações salariais e da portaria de extensão, e a eventual caducidade (art. 501.º CT).",
+   "Verificar se a convenção contém cláusulas de articulação que afastem os critérios de preferência do art. 482.º, n.º 1, CT (n.º 5).",
+   "Ter presente o art. 497.º CT: a escolha pelo trabalhador não sindicalizado não é possível se já estiver abrangido por portaria de extensão no mesmo âmbito."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0002&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0003&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0476&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0481&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0496&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0504&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+  ]
+ },
+ {
+  "codigo": "TRA-053",
+  "veredicto": "corrigida",
+  "resumo": "A ficha e o índice apresentavam o plano de igualdade como obrigatório para todas as empresas com 50 ou mais trabalhadores, com base na Lei n.º 62/2017 e num «Decreto-Lei n.º 76/2021» que não foi possível identificar. A Lei n.º 62/2017 impõe planos anuais apenas às entidades do setor público empresarial e às empresas cotadas, que os publicam e enviam à CIG e à CITE (art. 7.º); o limiar de 50 trabalhadores é o do plano de avaliação das diferenças remuneratórias que a ACT pode exigir ao abrigo da Lei n.º 60/2018 (arts. 5.º e 18.º, n.º 3). Corrigi a regra, a descrição do art. 4.º da Lei n.º 60/2018 (política remuneratória transparente, não publicação de dados pela empresa), a comunicação do plano e a checklist, e assinalei a transposição pendente da Diretiva (UE) 2023/970.",
+  "titulo": "Plano para a Igualdade de Género",
+  "titulo_en": "Gender Equality Plan",
+  "descricao": "Gera o plano para a igualdade entre mulheres e homens, obrigatório e anual para as entidades do setor público empresarial e as empresas cotadas em bolsa (art. 7.º da Lei n.º 62/2017, de 1 de agosto) e voluntário nas restantes empresas, articulado com as medidas de igualdade remuneratória da Lei n.º 60/2018, de 21 de agosto. O documento inclui o diagnóstico da situação, os objetivos de igualdade, as medidas e os indicadores de monitorização.",
+  "descricao_en": "Generates the gender equality plan, mandatory and annual for public-sector companies and listed companies (Art. 7 of Law No. 62/2017 of 1 August) and voluntary for other companies, aligned with the equal-pay measures of Law No. 60/2018 of 21 August. The document includes a diagnosis of the situation, equality objectives, measures and monitoring indicators.",
+  "substituicoes": [
+   {
+    "de": "— A obrigação de adotar plano de igualdade aplica-se a empresas com 50 ou mais trabalhadores.",
+    "para": "— A elaboração anual de planos para a igualdade é obrigatória para as entidades do setor público empresarial e as empresas cotadas em bolsa, que os publicam no respetivo sítio na Internet e os enviam à CIG e à CITE (art. 7.º da Lei n.º 62/2017, de 1 de agosto); nas restantes empresas o plano é voluntário. Não confundir com o plano de avaliação das diferenças remuneratórias que a ACT pode exigir, mediante notificação, às empresas com 50 ou mais trabalhadores (arts. 5.º e 18.º, n.º 3, da Lei n.º 60/2018, de 21 de agosto) — alerta para esta distinção.",
+    "motivo": "Não existe dever geral de plano de igualdade para empresas com 50 ou mais trabalhadores: a Lei n.º 62/2017 impõe planos anuais ao setor público empresarial e às cotadas; o limiar de 50 trabalhadores é o do plano de avaliação das diferenças remuneratórias da Lei n.º 60/2018",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2730A0007&nid=2730&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Disparidade remuneratória média por género (art. 4.º Lei n.º 60/2018: obrigação de publicar dados)",
+    "para": "- Disparidade remuneratória média por género (o balanço das diferenças remuneratórias por empresa é disponibilizado pelo serviço de estatística do ministério responsável pela área laboral — art. 3.º da Lei n.º 60/2018; a empresa deve ter uma política remuneratória transparente, assente em critérios objetivos comuns a homens e mulheres — art. 4.º da mesma lei)",
+    "motivo": "O art. 4.º da Lei n.º 60/2018 impõe uma política remuneratória transparente, não a publicação de dados pela empresa; o balanço é feito pelo ministério (art. 3.º)",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2980A0001&nid=2980&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "**Período de vigência: [ANO]-[ANO]**",
+    "para": "**Período de vigência: [ANO] (anual, nas entidades abrangidas pelo art. 7.º da Lei n.º 62/2017) ou [ANO]-[ANO]**",
+    "motivo": "Os planos das entidades abrangidas pela Lei n.º 62/2017 são anuais",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2730A0007&nid=2730&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "[Identifica o responsável pelo plano (DRH / CITE Delegate) e os recursos afetados.]",
+    "para": "[Identifica o responsável pelo plano (direção de recursos humanos ou pessoa designada) e os recursos afetados.]",
+    "motivo": "Não existe a figura de «CITE Delegate»: a CITE é uma entidade pública que recebe os planos e pode emitir recomendações",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2730A0007&nid=2730&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "[Publicação interna do plano, relatório anual de progresso, comunicação à CITE.]",
+    "para": "[Publicação interna do plano e relatório anual de progresso; nas entidades do setor público empresarial e nas empresas cotadas, publicação no sítio na Internet e envio à CIG e à CITE (art. 7.º, n.os 1 e 3, da Lei n.º 62/2017).]",
+    "motivo": "O envio é à CIG e à CITE e só é obrigatório para as entidades abrangidas pelo art. 7.º da Lei n.º 62/2017",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2730A0007&nid=2730&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Publicação dos dados de remuneração por género (Lei n.º 60/2018)\n- [ ] [■ VERIFICAR] obrigação de comunicar o plano à CITE",
+    "para": "- [ ] Política remuneratória transparente, assente em critérios objetivos (art. 4.º da Lei n.º 60/2018), e resposta a eventual notificação da ACT para apresentar plano de avaliação das diferenças remuneratórias (art. 5.º da mesma lei)\n- [ ] Entidade do setor público empresarial ou cotada: plano anual publicado no sítio na Internet e enviado à CIG e à CITE (art. 7.º da Lei n.º 62/2017) [■ VERIFICAR: prazo de envio fixado no despacho normativo em vigor]\n- [ ] [■ VERIFICAR] estado da transposição da Diretiva (UE) 2023/970 (transparência remuneratória), cujo prazo de transposição terminou em 7 de junho de 2026",
+    "motivo": "A Lei n.º 60/2018 não impõe à empresa a publicação de dados; a comunicação do plano à CIG e à CITE resulta do art. 7.º da Lei n.º 62/2017",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2980A0001&nid=2980&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "O índice citava um «Decreto-Lei n.º 76/2021, de 18 de setembro», que teria transposto a Diretiva 2006/54/CE; não foi possível identificá-lo e foi retirado.",
+   "Confirmar o estado da transposição da Diretiva (UE) 2023/970: em meados de 2026 havia apenas um projeto de proposta de lei, publicado em separata do BTE.",
+   "Confirmar no despacho normativo em vigor o prazo de envio dos planos à CIG e à CITE pelas entidades abrangidas pela Lei n.º 62/2017.",
+   "Nas empresas com sete ou mais trabalhadores, articular as medidas contra o assédio com o código de boa conduta exigido pelo art. 127.º, n.º 1, al. k), CT."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2730A0001&nid=2730&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2730A0007&nid=2730&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2980A0001&nid=2980&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2980A0016&nid=2980&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0127&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.mlgts.pt/xms/files/site_2018/Newsletters/2026/Diretiva_Europeia_sobre_transparencia_remuneratoria_-_Fim_do_prazo_de_transposicao_-_Legal_Alert_ML_-PT-.pdf"
+  ]
+ },
+ {
+  "codigo": "TRA-055",
+  "veredicto": "corrigida",
+  "resumo": "A ficha e o índice tratavam a Lei n.º 93/2017 como a lei do segredo de negócio que transpôs a Diretiva (UE) 2016/943; essa lei é o regime de combate à discriminação em razão da origem racial e étnica. Os segredos comerciais estão nos arts. 313.º a 315.º do CPI (Decreto-Lei n.º 110/2018), para onde passaram as remissões, e a exceção de denúncia remete agora para a Lei n.º 93/2021. Substituí também a nulidade por violação do art. 81.º CC pela norma laboral específica (art. 136.º, n.º 1, CT), retirei a regra sem base legal de que «2-5 anos são aceites», corrigi a remissão invertida da providência cautelar (art. 362.º CPC, com as especialidades do art. 32.º CPT) e retirei do índice o art. 129.º, n.º 1, al. g), CT, que trata da cedência de trabalhador.",
+  "descricao": "Gera a cláusula contratual ou acordo autónomo de confidencialidade e não divulgação de informação confidencial no contexto laboral, ao abrigo do art. 128.º, n.º 1, al. f), do Código do Trabalho (dever de lealdade), complementado pelo regime dos segredos comerciais do Código da Propriedade Industrial (arts. 313.º a 315.º, aprovado pelo Decreto-Lei n.º 110/2018, de 10 de dezembro, que transpôs a Diretiva (UE) 2016/943). O documento distingue-se do pacto de não concorrência pós-contratual por incidir sobre a proteção de informação e não sobre a proibição de exercício de atividade.",
+  "descricao_en": "Generates the contractual clause or stand-alone confidentiality and non-disclosure agreement in an employment context, under Art. 128(1)(f) of the Labour Code (duty of loyalty), supplemented by the trade secrets regime of the Industrial Property Code (Arts. 313 to 315, approved by Decree-Law No. 110/2018 of 10 December, which transposed Directive (EU) 2016/943). The document differs from a post-contractual non-compete agreement in that it protects information rather than prohibiting an activity.",
+  "substituicoes": [
+   {
+    "de": "— O NDA laboral não pode ter âmbito tão amplo que impossibilite o trabalhador de exercer a sua profissão — seria nulo por violação do art. 81.º CC.",
+    "para": "— O NDA laboral não pode ter âmbito tão amplo que impossibilite o trabalhador de exercer a sua profissão — seria nulo por prejudicar o exercício da liberdade de trabalho após a cessação do contrato (art. 136.º, n.º 1, CT), fora das condições do pacto de não concorrência (art. 136.º, n.º 2, CT), sem prejuízo do limite do art. 81.º CC.",
+    "motivo": "A norma laboral que fere de nulidade as cláusulas que prejudiquem a liberdade de trabalho após a cessação do contrato é o art. 136.º, n.º 1, CT",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0136&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- A informação preenche os requisitos de segredo de negócio (art. 2.º Lei 93/2017)?",
+    "para": "- A informação preenche os requisitos de segredo comercial (art. 313.º, n.º 1, CPI, aprovado pelo Decreto-Lei n.º 110/2018, de 10 de dezembro, que transpôs a Diretiva (UE) 2016/943)?",
+    "motivo": "A Lei n.º 93/2017 é o regime de combate à discriminação em razão da origem racial e étnica; o segredo comercial está no art. 313.º CPI",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0313&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Exceções: denúncia de atividade ilícita (whistleblowing) não pode ser bloqueada por NDA — art. 4.º Lei 93/2017\n- Prazo razoável: para informação comercial, 2-5 anos são aceites; para tecnologia de ponta, prazos mais longos são defensáveis",
+    "para": "- Exceções: a denúncia de infrações nos termos do regime geral de proteção de denunciantes (Lei n.º 93/2021, de 20 de dezembro) não pode ser bloqueada por NDA [■ VERIFICAR: artigo aplicável da Lei n.º 93/2021]; é lícita a obtenção de segredo comercial no exercício do direito dos trabalhadores ou dos seus representantes a informações e consultas (art. 315.º, al. c), CPI)\n- Prazo razoável: a lei não fixa prazo para a confidencialidade pós-contratual; deve ser proporcional à vida útil da informação protegida e não pode funcionar como limitação encoberta da atividade do trabalhador (art. 136.º CT) [■ VERIFICAR: jurisprudência sobre os prazos admitidos]",
+    "motivo": "A remissão era para a lei errada (a Lei n.º 93/2017 trata da discriminação racial) e a regra de que «2-5 anos são aceites» não tem base legal identificada",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0313&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "providência cautelar de cessação de divulgação (art. 1.º CPT ex vi art. 362.º CPC)",
+    "para": "providência cautelar não especificada (art. 362.º CPC, aplicável com as especialidades do art. 32.º do Código de Processo do Trabalho) [■ VERIFICAR: tribunal competente e providências específicas do art. 345.º CPI]",
+    "motivo": "A remissão estava invertida: o art. 32.º CPT manda aplicar o procedimento cautelar comum do CPC; o art. 1.º CPT só regula o âmbito e a integração de lacunas",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=487A0032&nid=487&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Informação preenche os requisitos de segredo de negócio (Lei 93/2017)",
+    "para": "- [ ] Informação preenche os requisitos de segredo comercial (art. 313.º, n.º 1, CPI)",
+    "motivo": "Diploma errado: os segredos comerciais estão no CPI",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0313&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] [■ VERIFICAR] se a empresa tem medidas razoáveis para manter o segredo (requisito da Lei 93/2017)",
+    "para": "- [ ] [■ VERIFICAR] se a empresa adotou diligências razoáveis para manter o segredo (requisito do art. 313.º, n.º 1, al. c), CPI)",
+    "motivo": "Diploma errado: o requisito das diligências razoáveis consta do art. 313.º, n.º 1, al. c), CPI",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0313&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar na Lei n.º 93/2021 o artigo que afasta a responsabilidade do denunciante e a eficácia de cláusulas de confidencialidade perante denúncias.",
+   "Se o NDA tiver efeito equivalente a uma limitação da atividade após a cessação, avaliar se cumpre as condições do pacto de não concorrência (art. 136.º, n.º 2, CT: forma escrita, prejuízo para o empregador e compensação, até dois anos).",
+   "Confirmar o tribunal competente para a ação e a providência (juízo do trabalho ou Tribunal da Propriedade Intelectual) e as medidas específicas dos arts. 345.º e ss. CPI."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0136&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0128&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0313&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=487A0032&nid=487&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=487A0001&nid=487&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://diariodarepublica.pt/dr/detalhe/lei/93-2017-108038372",
+   "https://diariodarepublica.pt/dr/detalhe/lei/93-2021-176147929"
+  ]
+ },
+ {
+  "codigo": "TRA-056",
+  "veredicto": "corrigida",
+  "resumo": "A ficha dava a responsabilidade solidária por créditos anteriores como de transmitente e adquirente durante um ano, com base no art. 285.º, n.º 2, CT: desde a Lei n.º 14/2018, o transmitente responde solidariamente durante os dois anos subsequentes (art. 285.º, n.º 6). Corrigi também o prazo de informação (pelo menos 10 dias úteis antes da consulta, art. 286.º, n.º 3, e não 10 dias antes da transmissão), acrescentei a consulta, o prazo mínimo de sete dias úteis antes da transmissão (art. 285.º, n.º 7), a ordem dos representantes e a comissão representativa (art. 286.º, n.os 7 e 8), a informação à ACT e os fundamentos e efeitos da oposição (art. 286.º-A). Substituí a «manutenção das condições de trabalho por 1 ano» pela manutenção de todos os direitos (art. 285.º, n.º 3) e pelo regime do IRCT do art. 498.º CT, e marquei para verificação a assunção de processos pendentes e de planos de pensões.",
+  "descricao": "Gera a documentação completa da transmissão de estabelecimento ou de empresa, ao abrigo dos arts. 285.º a 287.º do Código do Trabalho (transposição da Diretiva 2001/23/CE), incluindo a notificação obrigatória às comissões de trabalhadores e representantes sindicais, a comunicação individual a cada trabalhador e a análise dos direitos de oposição à transmissão.",
+  "descricao_en": "Generates the complete documentation for the transfer of an undertaking or business, under Arts. 285 to 287 of the Labour Code (transposing Directive 2001/23/EC), including the mandatory notice to works councils and trade union representatives, the individual notice to each employee and an analysis of the right to object to the transfer.",
+  "substituicoes": [
+   {
+    "de": "— A transmissão opera automaticamente — os contratos de trabalho transferem-se de pleno direito para o adquirente (art. 285.º, n.º 1, CT) mesmo sem acordo das partes.",
+    "para": "— A transmissão opera automaticamente — a posição do empregador nos contratos de trabalho transmite-se de pleno direito para o adquirente (art. 285.º, n.º 1, CT) mesmo sem acordo das partes, mantendo os trabalhadores todos os direitos contratuais e adquiridos (art. 285.º, n.º 3, CT), sem prejuízo do direito de oposição do trabalhador (art. 286.º-A CT).",
+    "motivo": "Faltavam a manutenção dos direitos (art. 285.º, n.º 3, CT) e a ressalva do direito de oposição (art. 286.º-A CT)",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0285&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Art. 286.º CT: prazo de informação — pelo menos 10 dias antes da data da transmissão\n- Destinatários: comissão de trabalhadores, delegados sindicais, trabalhadores sem representação (comunicação individual)\n- Conteúdo obrigatório: data da transmissão, motivos, consequências jurídicas, económicas e sociais para os trabalhadores, medidas previstas em relação aos trabalhadores\n- Direito de oposição: art. 286.º-A CT — trabalhador pode opor-se à transmissão se esta causar prejuízo sério às suas condições de trabalho",
+    "para": "- Art. 286.º CT: transmitente e adquirente informam por escrito, antes da transmissão e em tempo útil, pelo menos 10 dias úteis antes da consulta (art. 286.º, n.º 3, CT); segue-se a consulta dos representantes com vista a um acordo sobre as medidas a aplicar (art. 286.º, n.º 4, CT); a transmissão só pode ter lugar decorridos sete dias úteis após o termo do prazo para a designação da comissão representativa, se esta não tiver sido constituída, ou após o acordo ou o termo da consulta (art. 285.º, n.º 7, CT)\n- Destinatários: os representantes dos trabalhadores, pela ordem de precedência do art. 286.º, n.º 8, CT (comissões de trabalhadores, associações sindicais, comissões intersindicais, comissões sindicais, delegados sindicais ou comissão representativa); na sua falta, os próprios trabalhadores, que podem designar uma comissão representativa no prazo de cinco dias úteis (art. 286.º, n.º 7, CT); o transmitente informa ainda os trabalhadores abrangidos (art. 286.º, n.º 2, CT)\n- Conteúdo obrigatório: data e motivos da transmissão, consequências jurídicas, económicas e sociais para os trabalhadores, medidas projetadas em relação a estes e conteúdo do contrato entre transmitente e adquirente, com as reservas de confidencialidade dos arts. 412.º e 413.º CT (art. 286.º, n.º 1, CT)\n- Informação à ACT sobre o conteúdo do contrato entre transmitente e adquirente e os elementos da unidade económica transmitida, obrigatória em média e grande empresa (art. 285.º, n.os 8 e 9, CT)\n- Direito de oposição: art. 286.º-A CT — o trabalhador pode opor-se quando a transmissão possa causar-lhe prejuízo sério, nomeadamente por manifesta falta de solvabilidade ou situação financeira difícil do adquirente, ou se a política de organização do trabalho deste não lhe merecer confiança; a oposição mantém o vínculo ao transmitente e é comunicada por escrito no prazo de cinco dias úteis previsto no n.º 3",
+    "motivo": "O prazo é de 10 dias úteis antes da consulta, não antes da transmissão; faltavam a consulta, o prazo mínimo antes da transmissão, a ordem dos representantes, a comissão representativa, a informação à ACT e os fundamentos e efeitos da oposição",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0285&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "[Consequências jurídicas, económicas e sociais para os trabalhadores: manutenção de todos os contratos, responsabilidade solidária pelos créditos anteriores, manutenção das condições de trabalho por 1 ano.]",
+    "para": "[Consequências jurídicas, económicas e sociais para os trabalhadores: transmissão para o adquirente da posição do empregador nos contratos de trabalho, com manutenção de todos os direitos contratuais e adquiridos, nomeadamente retribuição, antiguidade, categoria profissional, conteúdo funcional e benefícios sociais adquiridos (art. 285.º, n.os 1 e 3, CT); responsabilidade solidária do transmitente pelos créditos vencidos até à data da transmissão, durante os dois anos subsequentes (art. 285.º, n.º 6, CT); aplicação ao adquirente do IRCT que vincula o transmitente até ao termo do respetivo prazo de vigência ou, no mínimo, durante 12 meses a contar da transmissão, salvo se outro IRCT negocial passar a aplicar-se ao adquirente (art. 498.º, n.º 1, CT).]\n[Conteúdo do contrato entre transmitente e adquirente (art. 286.º, n.º 1, CT).]",
+    "motivo": "A lei não prevê «manutenção das condições de trabalho por 1 ano»: mantêm-se todos os direitos (art. 285.º, n.º 3), o transmitente responde solidariamente durante dois anos (n.º 6) e o IRCT aplica-se nos termos do art. 498.º CT; a informação inclui o conteúdo do contrato entre as partes",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0285&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "[Explica o regime de responsabilidade solidária (art. 285.º, n.º 2, CT): transmitente e adquirente são solidariamente responsáveis pelos créditos laborais anteriores à data da transmissão.]",
+    "para": "[Explica o regime de responsabilidade solidária (art. 285.º, n.º 6, CT): o transmitente responde solidariamente pelos créditos do trabalhador emergentes do contrato de trabalho, da sua violação ou cessação, e pelos encargos sociais correspondentes, vencidos até à data da transmissão, durante os dois anos subsequentes a esta.]",
+    "motivo": "A responsabilidade solidária do transmitente está no art. 285.º, n.º 6, CT e dura dois anos",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0285&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Art. 285.º, n.º 2, CT: transmitente e adquirente são solidariamente responsáveis pelos créditos vencidos antes da transmissão durante 1 ano\n- Créditos laborais em litígio: o adquirente assume os processos judiciais pendentes\n- IRCT: os instrumentos coletivos transitam para o adquirente durante 12 meses ou até à sua substituição\n- Planos de pensões e benefícios: o adquirente assume as obrigações existentes",
+    "para": "- Art. 285.º, n.º 6, CT: o transmitente responde solidariamente pelos créditos do trabalhador e encargos sociais vencidos até à data da transmissão, cessão ou reversão, durante os dois anos subsequentes; na cessão ou reversão da exploração, é ainda solidariamente responsável quem a tenha exercido imediatamente antes (art. 285.º, n.º 2, CT)\n- Créditos laborais em litígio: o adquirente passa a ocupar a posição de empregador, mas nas ações pendentes o transmitente mantém a legitimidade enquanto o adquirente não for admitido a substituí-lo por habilitação (art. 263.º, n.º 1, CPC) [■ VERIFICAR: aplicação à transmissão da posição de empregador]\n- IRCT: o IRCT que vincula o transmitente aplica-se ao adquirente até ao termo do respetivo prazo de vigência ou, no mínimo, durante 12 meses a contar da transmissão, salvo se outro IRCT negocial passar a aplicar-se ao adquirente; depois, mantêm-se os efeitos já produzidos nas matérias do art. 501.º, n.º 8, CT (art. 498.º, n.os 1 e 2, CT)\n- Benefícios sociais adquiridos: mantêm-se (art. 285.º, n.º 3, CT); planos de pensões complementares [■ VERIFICAR: regime do plano e do fundo de pensões e se as obrigações se transmitem ao adquirente]",
+    "motivo": "O prazo da responsabilidade solidária é de dois anos (art. 285.º, n.º 6); o regime do IRCT é o do art. 498.º CT; o adquirente não substitui automaticamente o transmitente nas ações pendentes e a transmissão dos planos de pensões deve ser confirmada",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0285&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Comunicação aos representantes dos trabalhadores com pelo menos 10 dias de antecedência",
+    "para": "- [ ] Informação escrita aos representantes dos trabalhadores (ou aos próprios trabalhadores) pelo menos 10 dias úteis antes da consulta (art. 286.º, n.º 3, CT)\n- [ ] Consulta com vista a acordo (art. 286.º, n.º 4, CT) e transmissão só depois do prazo de sete dias úteis do art. 285.º, n.º 7, CT\n- [ ] Informação à ACT, em média ou grande empresa (art. 285.º, n.os 8 e 9, CT)",
+    "motivo": "Prazo em dias úteis, contado da consulta, e passos obrigatórios em falta",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0285&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] IRCT do setor: período de manutenção de 12 meses verificado",
+    "para": "- [ ] IRCT do transmitente: aplicação ao adquirente até ao termo da vigência ou, no mínimo, durante 12 meses (art. 498.º CT)",
+    "motivo": "O art. 498.º CT aplica o IRCT do transmitente até ao termo da vigência, com o mínimo de 12 meses",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0496&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar, caso a caso, se a operação transmite uma unidade económica na aceção do art. 285.º, n.º 5, CT e se se aplica o n.º 10 (adjudicação de serviços por concurso).",
+   "Verificar o regime dos planos de pensões complementares e a habilitação do adquirente nas ações pendentes.",
+   "As contraordenações muito graves do art. 285.º, n.º 11, CT punem tanto a invocação de uma transmissão inexistente como a recusa de a reconhecer."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0285&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0496&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0412&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0263&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+  ]
+ },
+ {
+  "codigo": "TRA-057",
+  "veredicto": "corrigida",
+  "resumo": "A ficha e o índice atribuíam o regime do estágio IEFP ao Decreto-Lei n.º 66/2011 e tratavam o estágio privado como de «livre acordo», com bolsa que podia ser zero. O DL 66/2011 regula os estágios profissionais extracurriculares e, desde a Lei n.º 13/2023, impõe subsídio mensal não inferior a 80 % da retribuição mínima mensal garantida, seguro de acidentes de trabalho e equiparação a trabalho por conta de outrem para efeitos de segurança social; os estágios IEFP regem-se pela portaria da medida (por exemplo, Estágios INICIAR, Portaria n.º 219/2024/1, com seis meses e bolsa de 1,7 ou 1,8 IAS, e não nove meses). Corrigi a duração, a bolsa, o seguro (de acidentes de trabalho, não pessoais), as férias e faltas, a cláusula 1.ª e o critério da requalificação, que usava a «pessoalidade», noção do direito brasileiro, em vez da noção do art. 11.º CT. O âmbito exato do DL 66/2011 e a medida IEFP em vigor ficam marcados para confirmação.",
+  "descricao": "Gera o contrato de estágio profissional e os documentos de suporte, distinguindo o estágio apoiado pelo IEFP (regulado pela portaria da medida aplicável, como a Portaria n.º 219/2024/1, de 23 de setembro — Estágios INICIAR) do estágio profissional extracurricular em empresa (Decreto-Lei n.º 66/2011, de 1 de junho, na redação da Lei n.º 13/2023), com definição dos objetivos de aprendizagem, da bolsa ou subsídio de estágio, dos direitos do estagiário e das condições de conversão em contrato de trabalho.",
+  "descricao_en": "Generates the professional traineeship contract and supporting documents, distinguishing a traineeship supported by the Institute of Employment and Vocational Training (IEFP), governed by the order (portaria) of the applicable measure, such as Order No. 219/2024/1 of 23 September (Estágios INICIAR), from an extracurricular professional traineeship in a company, governed by Decree-Law No. 66/2011 of 1 June as amended by Law No. 13/2023, defining the learning objectives, the traineeship grant or allowance, the trainee's rights and the conditions for conversion into an employment contract.",
+  "substituicoes": [
+   {
+    "de": "— O estágio profissional IEFP tem características e obrigações específicas distintas do estágio privado — distingue sempre.\n— Um estágio que reúna os elementos típicos do contrato de trabalho (subordinação, onerosidade, pessoalidade) será requalificado como contrato de trabalho, com todas as consequências legais — alerta para os riscos.",
+    "para": "— O estágio profissional apoiado pelo IEFP rege-se pela portaria e pelo regulamento da respetiva medida (por exemplo, Estágios INICIAR — Portaria n.º 219/2024/1, de 23 de setembro); o estágio profissional extracurricular em empresa rege-se pelo Decreto-Lei n.º 66/2011, de 1 de junho, que, na redação da Lei n.º 13/2023, impõe subsídio mensal de estágio e seguro de acidentes de trabalho e equipara a relação, para efeitos de segurança social, a trabalho por conta de outrem — distingue sempre. [■ VERIFICAR: âmbito do Decreto-Lei n.º 66/2011 (exclusão dos estágios curriculares e dos estágios com apoio público) e medida IEFP em vigor à data]\n— Um estágio que, na execução, se revele uma prestação de atividade mediante retribuição, no âmbito de organização e sob a autoridade da entidade acolhedora (art. 11.º CT), sem a finalidade formativa própria do estágio, pode ser requalificado como contrato de trabalho, com todas as consequências legais — alerta para os riscos.",
+    "motivo": "O DL 66/2011 não é o regime dos estágios IEFP, que se regem pelas portarias das medidas; a «pessoalidade» é um critério do direito brasileiro: em Portugal, a noção de contrato de trabalho é a do art. 11.º CT",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3628&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Duração: estágio IEFP — 9 meses (regra geral); estágio privado — livre acordo\n- Bolsa: estágio IEFP — indexada ao IAS (mínimos legais por nível de habilitações); estágio privado — valor acordado (pode ser zero em estágios curriculares sem produção de valor económico real)",
+    "para": "- Duração: estágio IEFP — a fixada na portaria da medida (nos Estágios INICIAR, seis meses não prorrogáveis, ou 12 meses se integrar pessoa com deficiência e incapacidade — art. 8.º da Portaria n.º 219/2024/1); estágio do Decreto-Lei n.º 66/2011 — dentro do limite máximo nele fixado [■ VERIFICAR: duração máxima e prorrogação no Decreto-Lei n.º 66/2011]\n- Bolsa: estágio IEFP — bolsa mensal indexada ao IAS em função do nível de qualificação (nos Estágios INICIAR, 1,7 ou 1,8 vezes o IAS para os níveis 4 e 5 do QNQ — art. 11.º da Portaria n.º 219/2024/1); estágio do Decreto-Lei n.º 66/2011 — subsídio mensal não inferior à retribuição mínima mensal garantida com a redução de 20 % prevista no art. 275.º, n.º 1, al. a), CT (art. 8.º, n.º 1, do Decreto-Lei n.º 66/2011, na redação da Lei n.º 13/2023) [■ VERIFICAR: exceções, como os estágios de muito curta duração]; estágio curricular — [■ VERIFICAR: regime do protocolo com o estabelecimento de ensino]",
+    "motivo": "A duração de nove meses era a de medidas IEFP anteriores; o estágio extracurricular em empresa não é de «livre acordo»: o DL 66/2011, alterado pela Lei n.º 13/2023, impõe subsídio mínimo",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3628&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Seguro de acidentes de trabalho: obrigatório em qualquer estágio\n- Férias e ausências: regime específico do DL 66/2011 no IEFP; no privado, aplicação analógica do CT",
+    "para": "- Seguro de acidentes de trabalho: obrigatório nos estágios IEFP (art. 10.º, n.º 1, al. d), da Portaria n.º 219/2024/1) e nos estágios do Decreto-Lei n.º 66/2011 (art. 9.º, n.º 4, na redação da Lei n.º 13/2023); nos estágios curriculares, [■ VERIFICAR: seguro previsto no protocolo]\n- Férias e ausências: no estágio IEFP, o regime da portaria e do regulamento da medida (nos Estágios INICIAR aplica-se o regime de período normal de trabalho, descanso diário e semanal, feriados, faltas e segurança e saúde dos trabalhadores da entidade promotora — art. 6.º, n.º 2 — e há dispensa até 22 dias úteis nos estágios de 12 meses — art. 10.º, n.º 2); no estágio do Decreto-Lei n.º 66/2011, [■ VERIFICAR: regime de faltas e descansos nele previsto]",
+    "motivo": "O DL 66/2011 não é o regime do estágio IEFP; os direitos do estagiário IEFP constam da portaria da medida e o seguro exigido é de acidentes de trabalho",
+    "fonte": "https://diariodarepublica.pt/dr/detalhe/portaria/219-2024-888585889"
+   },
+   {
+    "de": "[O presente contrato tem por objeto a realização de um estágio profissional de natureza não laboral, com objetivos de aprendizagem e desenvolvimento de competências, ao abrigo de [DL 66/2011 / regime privado]. O presente contrato não constitui nem é equiparado a contrato de trabalho subordinado.]",
+    "para": "[O presente contrato tem por objeto a realização de um estágio profissional, com objetivos de aprendizagem e desenvolvimento de competências, ao abrigo de [portaria da medida IEFP aplicável / Decreto-Lei n.º 66/2011, de 1 de junho]. O presente contrato não constitui contrato de trabalho, sem prejuízo de a relação dele decorrente ser equiparada a trabalho por conta de outrem para efeitos de segurança social (art. 10.º do Decreto-Lei n.º 66/2011, na redação da Lei n.º 13/2023; art. 15.º, n.º 1, da Portaria n.º 219/2024/1).]",
+    "motivo": "A relação de estágio é equiparada a trabalho por conta de outrem para efeitos de segurança social, no DL 66/2011 (art. 10.º, na redação da Lei n.º 13/2023) e nos estágios IEFP",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3628&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "[A entidade acolhedora assegura seguro de acidentes pessoais cobrindo o estagiário durante o estágio.]",
+    "para": "[A entidade acolhedora contrata seguro de acidentes de trabalho que cubra o estagiário durante todo o estágio.]",
+    "motivo": "A lei exige seguro de acidentes de trabalho, não de acidentes pessoais (art. 9.º, n.º 4, do DL 66/2011; art. 10.º, n.º 1, al. d), da Portaria n.º 219/2024/1)",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3628&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- [ ] Seguro de acidentes contratado antes do início do estágio",
+    "para": "- [ ] Seguro de acidentes de trabalho contratado antes do início do estágio\n- [ ] Inscrição na segurança social e contribuições asseguradas (relação equiparada a trabalho por conta de outrem)",
+    "motivo": "Seguro de acidentes de trabalho e equiparação para efeitos de segurança social",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3628&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Não foi possível ler o texto oficial integral do Decreto-Lei n.º 66/2011: confirmar o seu âmbito (exclusão dos estágios curriculares e dos apoiados por programas públicos), a duração máxima, a exceção dos estágios de muito curta duração e o regime de faltas e descansos.",
+   "Confirmar a medida IEFP em vigor à data da candidatura (Estágios INICIAR, Portaria n.º 219/2024/1, para os níveis 4 e 5 do QNQ; outra portaria para os níveis superiores) e o valor do IAS do ano (ver valores-2026).",
+   "Os dados da Portaria n.º 219/2024/1 foram lidos na publicação do Diário da República (1.ª série, n.º 184, de 23-09-2024), numa cópia disponibilizada por um município; confirmar alterações posteriores."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3628&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0275&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0011&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://diariodarepublica.pt/dr/detalhe/portaria/219-2024-888585889",
+   "https://cmpv.pt/userFiles/documentos/Juventude/Portaria%20n%C2%BA%20219-2024-1,%2023%20setembro.pdf"
+  ]
+ }
+]

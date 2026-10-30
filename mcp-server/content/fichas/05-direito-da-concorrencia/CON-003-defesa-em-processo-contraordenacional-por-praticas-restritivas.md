@@ -3,22 +3,24 @@ codigo: CON-003
 area: "Direito da Concorrência"
 titulo: "Defesa em Processo Contraordenacional por Práticas Restritivas"
 titulo_en: "Defence in Administrative Offence Proceedings for Restrictive Practices"
-descricao: "Gera uma peça de defesa (resposta à nota de ilicitude ou alegações finais) em processo contraordenacional instaurado pela Autoridade da Concorrência (AdC) por infração ao artigo 9.º da Lei n.º 19/2012 e/ou artigo 101.º do TFUE, com refutação factual, impugnação jurídica e argumentos de atenuação da coima."
-descricao_en: "Generates a defence submission (reply to the statement of objections (nota de ilicitude) or final submissions) in administrative offence proceedings brought by the Portuguese Competition Authority (AdC) for infringement of Article 9 of Law No. 19/2012 and/or Article 101 TFEU, with factual rebuttal, legal challenge and arguments for mitigating the fine."
+descricao: "Gera uma peça de defesa (pronúncia escrita sobre a nota de ilicitude ou sobre novos elementos de prova) em processo contraordenacional instaurado pela Autoridade da Concorrência (AdC) por infração ao artigo 9.º da Lei n.º 19/2012 e/ou artigo 101.º do TFUE, com refutação factual, impugnação jurídica e argumentos de atenuação da coima."
+descricao_en: "Generates a defence submission (written reply to the statement of objections (nota de ilicitude) or to new evidence) in administrative offence proceedings brought by the Portuguese Competition Authority (AdC) for infringement of Article 9 of Law No. 19/2012 and/or Article 101 TFEU, with factual rebuttal, legal challenge and arguments for mitigating the fine."
 ambito: nacional
-estado_citacoes: "conferidas 2 · corrigidas 0 · por conferir 5"
+estado_citacoes: "conferidas 2 · corrigidas 0 · por conferir 12"
 remete_para: "assets/templates/defesa-contraordenacao"
+revisao_tecnica: "2026-10-30 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
 # Defesa em Processo Contraordenacional por Práticas Restritivas
 
 > **Âmbito:** nacional · **Área:** Direito da Concorrência · **Código:** CON-003
-> **EN:** Defence in Administrative Offence Proceedings for Restrictive Practices. Generates a defence submission (reply to the statement of objections (nota de ilicitude) or final submissions) in administrative offence proceedings brought by the Portuguese Competition Authority (AdC) for infringement of Article 9 of Law No. 19/2012 and/or Article 101 TFEU, with factual rebuttal, legal challenge and arguments for mitigating the fine.
+> **EN:** Defence in Administrative Offence Proceedings for Restrictive Practices. Generates a defence submission (written reply to the statement of objections (nota de ilicitude) or to new evidence) in administrative offence proceedings brought by the Portuguese Competition Authority (AdC) for infringement of Article 9 of Law No. 19/2012 and/or Article 101 TFEU, with factual rebuttal, legal challenge and arguments for mitigating the fine.
 > **Ver também:** `assets/templates/defesa-contraordenacao` — conteúdo do plugin sobre o mesmo tema. Usa-o primeiro.
-> **Citações:** conferidas 2 · corrigidas 0 · por conferir 5. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 2 · corrigidas 0 · por conferir 12. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-30 — corrigida (7 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
-Gera uma peça de defesa (resposta à nota de ilicitude ou alegações finais) em processo contraordenacional instaurado pela Autoridade da Concorrência (AdC) por infração ao artigo 9.º da Lei n.º 19/2012 e/ou artigo 101.º do TFUE, com refutação factual, impugnação jurídica e argumentos de atenuação da coima.
+Gera uma peça de defesa (pronúncia escrita sobre a nota de ilicitude ou sobre novos elementos de prova) em processo contraordenacional instaurado pela Autoridade da Concorrência (AdC) por infração ao artigo 9.º da Lei n.º 19/2012 e/ou artigo 101.º do TFUE, com refutação factual, impugnação jurídica e argumentos de atenuação da coima.
 
 ## Método
 
@@ -49,11 +51,11 @@ Apresenta dentro de um bloco <analise_do_caso>:
 Apresenta dentro de um bloco <fundamentos_juridicos>:
 - Artigo 9.º Lei n.º 19/2012 — requisitos da infração (acordo, prática concertada, objeto ou efeito anticoncorrencial)
 - Artigo 101.º TFUE — se relevante
-- Artigo 9.º, n.º 3, Lei 19/2012 — exceção de eficiência (block exemption ou individual)
-- Regulamento (CE) n.º 330/2010 [■ VERIFICAR: substituído] — restrições verticais
-- Orientações da Comissão para o cálculo de coimas [■ VERIFICAR: versão vigente]
+- Artigo 10.º Lei 19/2012 — justificação por ganhos de eficiência: individual, com prova das condições cumulativas a cargo da empresa (n.os 1 e 2), ou por aplicação de regulamento de isenção por categoria (n.º 3)
+- Regulamento (UE) 2022/720 — acordos verticais (em vigor desde 1 de junho de 2022, caduca em 31 de maio de 2034); para condutas anteriores, o Regulamento (UE) n.º 330/2010, que caducou em 31 de maio de 2022, e o período transitório até 31 de maio de 2023 (art. 10.º do Regulamento (UE) 2022/720)
+- Linhas de Orientação da AdC sobre a metodologia a utilizar na aplicação de coimas (art. 69.º, n.º 13, Lei 19/2012): as de julho de 2024 nos processos cujo inquérito foi aberto após a sua entrada em vigor; nos anteriores, as de dezembro de 2012, adaptadas à Lei n.º 17/2022 nos inquéritos abertos já ao abrigo desta (ponto 13) [■ VERIFICAR: versão aplicável ao processo]; as Orientações da Comissão Europeia não vinculam a AdC
 - Artigos 68.º a 72.º Lei 19/2012 — regime de coimas e atenuantes
-- Princípio da proporcionalidade (art. 18.º RGCO)
+- Critérios de determinação da medida da coima (art. 69.º, n.º 1, Lei 19/2012) e princípio da proporcionalidade; o art. 18.º RGCO só se aplica subsidiariamente (art. 13.º, n.º 1, Lei 19/2012)
 - Artigo 48.º Carta dos Direitos Fundamentais — presunção de inocência
 
 ### ETAPA 3 — CONSTRUÇÃO DA ESTRATÉGIA DE DEFESA
@@ -70,7 +72,7 @@ Redige o documento com esta estrutura:
 **AUTORIDADE DA CONCORRÊNCIA**
 Processo n.º [referência]
 
-**RESPOSTA À NOTA DE ILICITUDE / ALEGAÇÕES FINAIS**
+**PRONÚNCIA ESCRITA SOBRE A NOTA DE ILICITUDE (art. 25.º, n.º 1, Lei n.º 19/2012) / PRONÚNCIA SOBRE NOVOS ELEMENTOS DE PROVA (art. 25.º, n.º 5)**
 
 **I. IDENTIFICAÇÃO DA EMPRESA ARGUIDA**
 **II. OBJETO DA PRESENTE RESPOSTA**
@@ -80,7 +82,7 @@ Processo n.º [referência]
 **IV. MATÉRIA DE DIREITO**
 **IV.1. Inexistência de acordo ou prática concertada**
 **IV.2. Ausência de objeto ou efeito anticoncorrencial**
-**IV.3. Exceção de eficiência (art. 9.º, n.º 3)**
+**IV.3. Exceção de eficiência (art. 10.º)**
 **IV.4. Subsidiariamente: atenuação da coima**
 - Ausência de reincidência
 - Cessação voluntária da conduta
@@ -97,7 +99,7 @@ Apresenta dentro de um bloco <checklist_validacao>:
 - [ ] Argumentos de ilicitude e de culpa separados
 - [ ] Exceção de eficiência económica avaliada
 - [ ] Atenuantes da coima todos explorados
-- [ ] Prazo de resposta respeitado
+- [ ] Prazo de pronúncia respeitado (o fixado pela AdC, não inferior a 30 dias úteis — art. 25.º, n.º 1; não inferior a 10 dias úteis para novos elementos de prova — n.º 5) e pedida, se útil, audição oral (n.º 2)
 - [ ] Pontos [■ VERIFICAR] sinalizados
 
 ---
@@ -134,9 +136,16 @@ Defesa completa em processo contraordenacional AdC, em português europeu, pront
 | Citação | Estado | Nota |
 |---|---|---|
 | Artigo 9.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| Artigo 9.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | Artigo 101.º TFUE | conferida (epígrafe) — São incompatíveis com o mercado interno e proibidos todos os acordos entre empresas, todas |  |
+| Artigo 10.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 10.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 10.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 69.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 69.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | Artigos 68.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 18.º RGCO | conferida (epígrafe) — Determinação da medida da coima |  |
+| art. 13.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | Artigo 48.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| art. 9.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 25.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 25.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 25.º | por conferir [■ VERIFICAR] | diploma não identificado |

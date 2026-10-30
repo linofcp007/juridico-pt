@@ -6,7 +6,8 @@ titulo_en: "Assignment of Contractual Position Agreement"
 descricao: "Gera um contrato de cessão da posição contratual pelo qual um outorgante (cedente) transmite a sua posição num contrato a um terceiro (cessionário), com o consentimento da contraparte (cedido) — ao abrigo dos arts. 424.º e seguintes do Código Civil português."
 descricao_en: "Generates an agreement for the assignment of contractual position whereby a party (assignor) transfers its position in a contract to a third party (assignee), with the consent of the counterparty (assigned party) — under Articles 424 et seq. of the Portuguese Civil Code."
 ambito: nacional
-estado_citacoes: "conferidas 7 · corrigidas 1 · por conferir 4"
+estado_citacoes: "conferidas 15 · corrigidas 1 · por conferir 2"
+revisao_tecnica: "2026-10-30 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
@@ -14,7 +15,8 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 
 > **Âmbito:** nacional · **Área:** Direito Civil e dos Contratos · **Código:** CIV-010
 > **EN:** Assignment of Contractual Position Agreement. Generates an agreement for the assignment of contractual position whereby a party (assignor) transfers its position in a contract to a third party (assignee), with the consent of the counterparty (assigned party) — under Articles 424 et seq. of the Portuguese Civil Code.
-> **Citações:** conferidas 7 · corrigidas 1 · por conferir 4. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 15 · corrigidas 1 · por conferir 2. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-30 — corrigida (7 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
 Gera um contrato de cessão da posição contratual pelo qual um outorgante (cedente) transmite a sua posição num contrato a um terceiro (cessionário), com o consentimento da contraparte (cedido) — ao abrigo dos arts. 424.º e seguintes do Código Civil português.
 
@@ -26,9 +28,9 @@ Ficha de trabalho para preparar este documento. As regras da casa prevalecem sob
 — NUNCA inventes jurisprudência, acórdãos ou números de processo.
 — Se faltarem dados, marca [■ VERIFICAR: o que é necessário].
 — Cita os artigos reais do Código Civil (arts. 424.º e ss.).
-— O consentimento do cedido é obrigatório: art. 424.º CC — pode ser prévio (consentimento antecipado no contrato original), simultâneo (assinatura neste ato) ou posterior (ratificação).
-— Atenção à responsabilidade do cedente: por defeito, fica liberto das obrigações futuras; mas pode responder subsidiariamente se assim acordado (art. 426.º CC [■ VERIFICAR: o art. 426.º CC trata da garantia do cedente perante o cessionário; a responsabilidade perante o cedido depende de acordo]).
-— Se o contrato original exigir forma especial (ex: arrendamento em escritura pública), a cessão segue a mesma forma.
+— O consentimento do cedido é obrigatório: art. 424.º CC — pode ser prévio (consentimento antecipado no contrato original), simultâneo (assinatura neste ato) ou posterior (ratificação). Se o consentimento for prévio, a cessão só produz efeitos a partir da sua notificação ao cedido ou do reconhecimento por este (art. 424.º, n.º 2, CC).
+— Atenção à responsabilidade do cedente: com a cessão, sai da relação contratual; só responde perante o cedido pelo cumprimento do cessionário se isso for acordado com o cedido (ex.: responsabilidade subsidiária ou fiança). Perante o cessionário, garante a existência da posição contratual transmitida e só garante o cumprimento das obrigações se o convencionar (art. 426.º CC).
+— Se o contrato original exigir forma especial (ex.: forma escrita no arrendamento urbano — art. 1069.º, n.º 1, CC), a cessão deve, por cautela, observar essa forma; a lei manda definir a forma da transmissão em função do tipo de negócio que serve de base à cessão (art. 425.º CC).
 
 ---
 
@@ -49,9 +51,9 @@ Apresenta dentro de um bloco <fundamentos_juridicos>:
 - Arts. 424.º a 427.º CC (cessão da posição contratual — regime geral)
 - Art. 424.º CC (noção e consentimento do cedido)
 - Art. 427.º CC (meios de defesa do cedido contra o cessionário)
-- Art. 426.º CC (responsabilidade do cedente após cessão — exoneração ou garantia)
-- Art. 427.º CC (aplicação à cessão de créditos e assunção de dívidas no que for compatível) [■ VERIFICAR: o art. 427.º CC trata dos meios de defesa do outro contraente; não remete para a cessão de créditos; confirmar]
-- Regime específico do contrato cedido (arrendamento: NRAU; empreitada: arts. 1207.º e ss. CC)
+- Art. 426.º CC (garantia, pelo cedente ao cessionário, da existência da posição contratual transmitida; a garantia do cumprimento das obrigações só existe se for convencionada)
+- Art. 425.º CC (a forma da transmissão, a capacidade de dispor e de receber, a falta e vícios da vontade e as relações entre as partes definem-se em função do tipo de negócio que serve de base à cessão)
+- Regime específico do contrato cedido (arrendamento: art. 1059.º, n.º 2, CC — regime geral dos arts. 424.º e ss. CC, sem prejuízo das disposições especiais da locação, como a transmissão sem autorização do senhorio no trespasse e a quem continue a exercer a mesma profissão liberal, por escrito e comunicada ao senhorio — art. 1112.º CC; empreitada: arts. 1207.º e ss. CC)
 
 ### ETAPA 3 — CONSTRUÇÃO ARGUMENTATIVA / ESTRUTURA
 Define a estrutura do contrato (tripartido):
@@ -86,7 +88,7 @@ Declaração expressa de consentimento do 3.º Outorgante; eficácia a partir de
 Valor pago pelo cessionário ao cedente (se onerosa); forma e data de pagamento; ou gratuidade.
 
 **Cláusula 5.ª — Responsabilidade do Cedente**
-Exoneração total ou responsabilidade subsidiária pelo cumprimento do cessionário (art. 426.º CC [■ VERIFICAR: o art. 426.º CC trata da garantia do cedente perante o cessionário; a responsabilidade perante o cedido depende de acordo]).
+Exoneração total do cedente ou responsabilidade subsidiária pelo cumprimento do cessionário perante o cedido (só por acordo com o cedido); garantia do cedente ao cessionário quanto à existência da posição contratual e, se convencionada, quanto ao cumprimento das obrigações (art. 426.º CC).
 
 **Cláusula 6.ª — Obrigações em Atraso**
 Se o cedente tinha obrigações vencidas e não cumpridas: quem as assume e prazo.
@@ -153,12 +155,18 @@ Apresenta dentro de um bloco <checklist_validacao>:
 | arts. 424.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 424.º CC | conferida (índice) |  |
 | art. 424.º CC | conferida (índice) |  |
-| art. 426.º CC | por conferir [■ VERIFICAR] | o art. 426.º CC trata da garantia do cedente perante o cessionário; a responsabilidade perante o cedido depende de acordo |
-| art. 426.º CC | por conferir [■ VERIFICAR] | o art. 426.º CC trata da garantia do cedente perante o cessionário; a responsabilidade perante o cedido depende de acordo |
+| art. 424.º, n.º 2, CC | conferida (índice) |  |
+| art. 426.º CC | por conferir [■ VERIFICAR] | o assunto descrito não coincide com a epígrafe; confirmar |
 | art. 426.º CC | conferida (epígrafe) — Garantia da existência da posição contratual |  |
+| art. 426.º CC | conferida (epígrafe) — Garantia da existência da posição contratual |  |
+| art. 1069.º, n.º 1, CC | conferida (índice) |  |
+| art. 425.º CC | conferida (epígrafe) — Regime |  |
 | Arts. 424.º a 427.º CC | conferida (índice) |  |
 | Art. 424.º CC | conferida (índice) |  |
 | Art. 427.º CC | corrigida — Relações entre o outro contraente e o cessionário | o número citado no catálogo não correspondia à epígrafe |
-| Art. 427.º CC | por conferir [■ VERIFICAR] | o art. 427.º CC trata dos meios de defesa do outro contraente; não remete para a cessão de créditos; confirmar |
 | Art. 426.º CC | conferida (epígrafe) — Garantia da existência da posição contratual |  |
+| Art. 425.º CC | conferida (epígrafe) — Regime |  |
+| art. 1059.º, n.º 2, CC | conferida (índice) |  |
+| arts. 424.º e ss. CC | conferida (índice) |  |
+| art. 1112.º CC | conferida (epígrafe) — Transmissão da posição do arrendatário |  |
 | arts. 1207.º e ss. CC | conferida (epígrafe) — Noção |  |
