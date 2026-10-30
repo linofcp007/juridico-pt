@@ -89,7 +89,7 @@ Para cada testemunha:
 
 **4. DO PEDIDO**
 "Nestes termos, requer a V. Exa.:
-1.º Admitir a junção dos documentos supra-identificados;
+1.º Admitir a junção dos documentos supraidentificados;
 2.º Admitir o arrolamento das testemunhas indicadas;
 3.º Notificar as testemunhas para comparecer à audiência."
 

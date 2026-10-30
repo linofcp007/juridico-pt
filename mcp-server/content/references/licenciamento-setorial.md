@@ -95,6 +95,8 @@
 - **Utilização**: a autorização de utilização deu lugar a comunicação prévia depois de obra licenciada ou comunicada (art. 62.º-A) e a comunicação prévia com prazo para mudar o uso sem obras (art. 62.º-B) (a confirmar o detalhe na versão consolidada)
 - Nos negócios que transmitem imóveis urbanos, o contrato tem de dizer se o imóvel tem título urbanístico (DL 108/2026 — a confirmar a norma). Conta com isto no CPCV e na escritura (`references/imobiliario.md`)
 - ⏰ Comunicação obrigatória do **início dos trabalhos** à câmara (art. 80.º-A RJUE — a confirmar o prazo na redação atual)
+- Ordem de **demolição** ou de reposição do terreno (art. 106.º RJUE): a ação administrativa de impugnação tem **efeito suspensivo** e, com a citação, a câmara tem de impedir a execução; o juiz pode atribuir-lhe efeito meramente devolutivo se houver indícios de ilegalidade ou improcedência da ação (art. 115.º RJUE)
+- ⏰ A **impugnação administrativa** de atos ou pareceres praticados ao abrigo do RJUE é decidida em 30 dias a contar da apresentação; sem decisão nesse prazo, considera-se deferida (art. 114.º, n.º 3, RJUE, na redação do DL 108/2026)
 
 ### Livro de obra
 - Obrigatório nas obras sujeitas a controlo prévio (art. 97.º RJUE). Desde o Simplex deixou de ser elemento instrutório e não é entregue à câmara no fim; o **livro de obra eletrónico** funciona na Plataforma Eletrónica dos Procedimentos Urbanísticos (Portaria 1268/2008, alterada pela Portaria 71-C/2024)

@@ -6,7 +6,7 @@ titulo_en: "Action for the Expulsion of a Member (Exclusão de Sócio)"
 descricao: "Gera uma petição inicial para ação de exclusão judicial de sócio de sociedade por quotas, ao abrigo dos arts. 241.º e 242.º do CSC, proposta pela sociedade depois de os sócios deliberarem a propositura da ação (com o sócio a excluir impedido de votar), com fundamento em comportamento desleal ou gravemente perturbador do funcionamento da sociedade que lhe tenha causado ou possa causar prejuízos relevantes, quando o contrato de sociedade não permite a exclusão por deliberação."
 descricao_en: "Generates a statement of claim for an action seeking the judicial expulsion of a member of a private limited company under Articles 241 and 242 CSC, brought by the company after the members resolve to bring it (the member to be expelled being barred from voting), on the ground of disloyal conduct or conduct seriously disrupting the company's operation that has caused or may cause it significant harm, where the articles of association do not allow expulsion by resolution."
 ambito: nacional
-estado_citacoes: "conferidas 30 · corrigidas 0 · por conferir 1"
+estado_citacoes: "conferidas 37 · corrigidas 0 · por conferir 2"
 revisao_tecnica: "2026-10-28 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
@@ -15,7 +15,7 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 
 > **Âmbito:** nacional · **Área:** Direito Comercial e das Sociedades · **Código:** COM-034
 > **EN:** Action for the Expulsion of a Member (Exclusão de Sócio). Generates a statement of claim for an action seeking the judicial expulsion of a member of a private limited company under Articles 241 and 242 CSC, brought by the company after the members resolve to bring it (the member to be expelled being barred from voting), on the ground of disloyal conduct or conduct seriously disrupting the company's operation that has caused or may cause it significant harm, where the articles of association do not allow expulsion by resolution.
-> **Citações:** conferidas 30 · corrigidas 0 · por conferir 1. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 37 · corrigidas 0 · por conferir 2. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
 > **Revisão técnica:** 2026-10-28 — corrigida (17 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
 Gera uma petição inicial para ação de exclusão judicial de sócio de sociedade por quotas, ao abrigo dos arts. 241.º e 242.º do CSC, proposta pela sociedade depois de os sócios deliberarem a propositura da ação (com o sócio a excluir impedido de votar), com fundamento em comportamento desleal ou gravemente perturbador do funcionamento da sociedade que lhe tenha causado ou possa causar prejuízos relevantes, quando o contrato de sociedade não permite a exclusão por deliberação.
@@ -189,6 +189,10 @@ Apresente em <checklist_validacao>:
 
 | Citação | Estado | Nota |
 |---|---|---|
+| art. 241 CSC | conferida (epígrafe) — Exclusão de sócio |  |
+| art. 241 CSC | conferida (epígrafe) — Exclusão de sócio |  |
+| art. 241 CSC | conferida (epígrafe) — Exclusão de sócio |  |
+| art. 242 CSC | conferida (epígrafe) — Exclusão judicial de sócio |  |
 | art. 242.º, n.º 1, CSC | conferida (epígrafe) — Exclusão judicial de sócio |  |
 | art. 242.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 204.º CSC | conferida (epígrafe) — Aviso ao sócio remisso e exclusão deste |  |
@@ -199,8 +203,12 @@ Apresente em <checklist_validacao>:
 | art. 251.º, n.º 1, al. d), CSC | conferida (epígrafe) — Impedimento de voto |  |
 | art. 251.º, n.º 1, al. d), CSC | conferida (epígrafe) — Impedimento de voto |  |
 | art. 242.º, n.º 4, CSC | conferida (epígrafe) — Exclusão judicial de sócio |  |
+| Art. 241 CSC | por conferir [■ VERIFICAR] | o assunto descrito não coincide com a epígrafe; confirmar |
 | Art. 251.º, n.º 1, al. d), CSC | conferida (epígrafe) — Impedimento de voto |  |
 | Art. 242.º, n.º 4, CSC | conferida (epígrafe) — Exclusão judicial de sócio |  |
+| Art. 204 CSC | conferida (epígrafe) — Aviso ao sócio remisso e exclusão deste |  |
+| Art. 209 CSC | conferida (epígrafe) — Obrigações de prestações acessórias |  |
+| Art. 64 CSC | conferida (epígrafe) — Deveres fundamentais |  |
 | art. 242.º, n.º 3, CSC | conferida (epígrafe) — Exclusão judicial de sócio |  |
 | art. 242.º, n.º 2, do CSC | conferida (epígrafe) — Exclusão judicial de sócio |  |
 | art. 242.º, n.º 2, do CSC | conferida (epígrafe) — Exclusão judicial de sócio |  |

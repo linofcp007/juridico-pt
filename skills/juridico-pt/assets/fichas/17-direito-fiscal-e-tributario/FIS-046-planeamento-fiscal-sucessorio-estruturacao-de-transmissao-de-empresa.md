@@ -77,7 +77,7 @@ Define em <alternativas_fiscais>:
 [Opção recomendada com justificação e passos a seguir]
 
 **V — RISCOS E MITIGANTES**
-[Riscos de requalificação, cláusula anti-abuso (art. 38.º LGT)]
+[Riscos de requalificação, cláusula antiabuso (art. 38.º LGT)]
 
 ### ETAPA 5 — CHECKLIST
 Apresenta em <checklist_validacao>:
@@ -85,7 +85,7 @@ Apresenta em <checklist_validacao>:
 - [ ] Valor tributável em IS apurado (arts. 13.º e 15.º CIS) e, se houver reorganização prévia, requisitos do art. 60.º EBF verificados
 - [ ] Mais-valias latentes do transmitente calculadas
 - [ ] Valor de mercado da empresa apurado (referência)
-- [ ] Cláusula anti-abuso analisada (art. 38.º LGT)
+- [ ] Cláusula antiabuso analisada (art. 38.º LGT)
 - [ ] [■ VERIFICAR] itens sinalizados
 
 ---

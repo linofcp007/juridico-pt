@@ -183,7 +183,7 @@ Apresenta em <checklist_validacao>:
 | art. 27.º RGIT | conferida (epígrafe) — Determinação da medida da coima |  |
 | art. 116.º RGIT | conferida (epígrafe) — Falta ou atraso de declarações |  |
 | art. 114.º RGIT | conferida (epígrafe) — Falta de entrega da prestação tributária |  |
-| art. 119.º RGIT | conferida (epígrafe) — Omissões e inexactidões nas declarações ou em outros documentos fiscalmente relevantes |  |
+| art. 119.º RGIT | conferida (epígrafe) — Omissões e inexatidões nas declarações ou em outros documentos fiscalmente relevantes |  |
 | Art. 27.º RGIT | conferida (epígrafe) — Determinação da medida da coima |  |
 | Art. 29.º, n.ºs 2 a 4, RGIT | conferida (epígrafe) — Dispensa das coimas |  |
 | Art. 30.º RGIT | por conferir [■ VERIFICAR] | o art. 30.º RGIT trata da redução das coimas; a dispensa consta do art. 29.º RGIT — confirmar o regime em vigor |

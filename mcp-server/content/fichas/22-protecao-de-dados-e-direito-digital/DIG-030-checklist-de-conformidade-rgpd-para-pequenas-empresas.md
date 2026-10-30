@@ -6,7 +6,8 @@ titulo_en: "GDPR Compliance Checklist for Small Businesses"
 descricao: "Gera uma Checklist de Conformidade RGPD personalizada para pequenas e médias empresas (PME), com análise do estado atual e plano de ação prioritário, adaptada ao setor e ao tipo de dados tratados, seguindo as orientações da CNPD para PME."
 descricao_en: "Generates a tailored GDPR compliance checklist for small and medium-sized enterprises (SMEs), with an analysis of the current position and a prioritised action plan, adapted to the sector and the type of data processed, following the CNPD's guidance for SMEs."
 ambito: nacional
-estado_citacoes: "conferidas 9 · corrigidas 0 · por conferir 0"
+estado_citacoes: "conferidas 9 · corrigidas 0 · por conferir 1"
+revisao_tecnica: "2026-10-30 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
@@ -14,7 +15,8 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 
 > **Âmbito:** nacional · **Área:** Proteção de Dados e Direito Digital · **Código:** DIG-030
 > **EN:** GDPR Compliance Checklist for Small Businesses. Generates a tailored GDPR compliance checklist for small and medium-sized enterprises (SMEs), with an analysis of the current position and a prioritised action plan, adapted to the sector and the type of data processed, following the CNPD's guidance for SMEs.
-> **Citações:** conferidas 9 · corrigidas 0 · por conferir 0. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 9 · corrigidas 0 · por conferir 1. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-30 — corrigida (5 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
 Gera uma Checklist de Conformidade RGPD personalizada para pequenas e médias empresas (PME), com análise do estado atual e plano de ação prioritário, adaptada ao setor e ao tipo de dados tratados, seguindo as orientações da CNPD para PME.
 
@@ -46,14 +48,14 @@ Apresenta dentro de um bloco <diagnostico_pme>:
 
 ### ETAPA 2 — ANÁLISE JURÍDICA (Obrigações Aplicáveis à PME)
 Apresenta dentro de um bloco <obrigacoes_pme>:
-- Registo de atividades de tratamento: obrigatório para empresas com 250+ trabalhadores; recomendado (e obrigatório se tratamentos de risco) para todas — art. 30.º, n.º 5 RGPD
+- Registo de atividades de tratamento: obrigatório para empresas com 250 ou mais trabalhadores e, abaixo desse limiar, sempre que o tratamento seja suscetível de implicar risco para os titulares, não seja ocasional ou abranja categorias especiais de dados ou dados relativos a condenações penais — art. 30.º, n.º 5 RGPD. Como o tratamento dos dados dos trabalhadores (processamento salarial) e dos clientes não é ocasional, a generalidade das PME está obrigada ao registo [■ VERIFICAR: estado da proposta de simplificação «Omnibus IV», que eleva o limiar para 750 trabalhadores — enquanto não for adotada e publicada, vale o texto atual]
 - Política de Privacidade: obrigatória para todos os responsáveis — arts. 13.º e 14.º RGPD
 - Consentimento vs. outras bases jurídicas: art. 6.º RGPD — para PME, contrato e interesses legítimos são frequentemente mais adequados que consentimento
 - Contratos com subcontratantes: art. 28.º RGPD — obrigatório para todos os prestadores que acedem a dados pessoais
 - Segurança: art. 32.º RGPD — medidas proporcionais ao risco (não exige certificação ISO 27001 para PME)
-- DPO/EPD: obrigatório apenas em casos específicos (autoridade pública, tratamento em grande escala de categorias especiais, monitorização sistemática) — art. 37.º RGPD
+- DPO/EPD: obrigatório apenas em casos específicos (autoridade ou organismo público; atividades principais que consistam no controlo regular e sistemático de titulares em grande escala ou no tratamento em grande escala de categorias especiais ou de dados relativos a condenações penais) — art. 37.º RGPD
 - AIPD: obrigatória em casos de alto risco — art. 35.º RGPD; lista da CNPD
-- Notificação de violações: art. 33.º RGPD — 72h à CNPD se risco para titulares
+- Notificação de violações: art. 33.º RGPD — à CNPD sem demora injustificada e, sempre que possível, até 72h após o conhecimento, salvo se a violação não for suscetível de resultar num risco para os titulares; comunicação aos titulares quando o risco for elevado (art. 34.º RGPD)
 
 ### ETAPA 3 — CONSTRUÇÃO (Estrutura da Checklist)
 Define em <estrutura_checklist>:
@@ -86,9 +88,9 @@ Data da análise: [data] | Versão: 1.0
 
 | # | Item | Estado | Prioridade | Ação Recomendada |
 |---|---|---|---|---|
-| 2.1 | Tem Registo de Atividades de Tratamento (RAT) atualizado, mesmo que não obrigatório (art. 30.º RGPD) | [estado] | [prioridade] | [ação] |
+| 2.1 | Tem Registo de Atividades de Tratamento (RAT) atualizado — obrigatório para a generalidade das PME, por o tratamento de dados de trabalhadores e clientes não ser ocasional (art. 30.º, n.º 5 RGPD) | [estado] | [prioridade] | [ação] |
 | 2.2 | O RAT inclui: responsável, finalidades, categorias de dados, destinatários, prazos de conservação, medidas de segurança | [estado] | [prioridade] | [ação] |
-| 2.3 | Os prazos de conservação são proporcionais e fundamentados (minimização — art. 5.º, n.º 1, al. e) RGPD) | [estado] | [prioridade] | [ação] |
+| 2.3 | Os prazos de conservação são proporcionais e fundamentados (limitação da conservação — art. 5.º, n.º 1, al. e) RGPD) | [estado] | [prioridade] | [ação] |
 
 **BLOCO 3 — CONTRATOS COM SUBCONTRATANTES**
 
@@ -201,7 +203,8 @@ Apresenta dentro de um bloco <checklist_validacao>:
 | art. 6.º RGPD | conferida (índice) |  |
 | art. 28.º RGPD | conferida (índice) |  |
 | art. 32.º RGPD | conferida (epígrafe) — Segurança do tratamento |  |
-| art. 37.º RGPD | conferida (epígrafe) — Designação do encarregado da proteção de dados |  |
+| art. 37.º RGPD | por conferir [■ VERIFICAR] | o assunto descrito não coincide com a epígrafe; confirmar |
 | art. 37.º RGPD | conferida (epígrafe) — Designação do encarregado da proteção de dados |  |
 | art. 35.º RGPD | conferida (epígrafe) — Avaliação de impacto sobre a proteção de dados |  |
 | art. 33.º RGPD | conferida (epígrafe) — Notificação de uma violação de dados pessoais à autoridade de controlo |  |
+| art. 34.º RGPD | conferida (epígrafe) — Comunicação de uma violação de dados pessoais ao titular dos dados |  |

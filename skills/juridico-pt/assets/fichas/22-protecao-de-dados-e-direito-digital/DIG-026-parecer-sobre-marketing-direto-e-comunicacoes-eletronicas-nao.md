@@ -64,7 +64,7 @@ Define em <avaliacao_licitude>:
 - Lista de contactos: origem lícita? Consentimento válido e documentado?
 - Soft opt-in: todos os requisitos cumpridos?
 - Mecanismo de opt-out: fácil, imediato, gratuito?
-- Qual o risco de reclamação à CNPD ou processo contra-ordenacional?
+- Qual o risco de reclamação à CNPD ou processo contraordenacional?
 
 ### ETAPA 4 — O PARECER SOBRE MARKETING DIRETO
 Redige o parecer completo com esta estrutura:

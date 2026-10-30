@@ -1,0 +1,364 @@
+[
+ {
+  "codigo": "EST-023",
+  "veredicto": "corrigida",
+  "resumo": "A ficha dirigia a oposição à AIMA, mas, desde a Lei n.º 55-C/2025, o processo de afastamento coercivo é instaurado, instruído e decidido pelo diretor nacional da PSP (arts. 140.º, 141.º e 149.º da Lei n.º 23/2007). Também descrevia mal os limites do art. 135.º, que não incluem a residência permanente nem o cônjuge português. Corrigiram-se o destinatário, a referência do processo e o elenco do art. 135.º (com as exceções do n.º 2 e a remissão para os arts. 136.º e 143.º). Esclareceu-se ainda que a «oposição» é a defesa na audição do art. 148.º e que a expulsão com fundamento em condenação criminal é judicial.",
+  "descricao": "Gera uma exposição de oposição a processo de afastamento coercivo ou de expulsão, fundamentada nos artigos 134.º e seguintes da Lei n.º 23/2007, nos princípios da proporcionalidade e do non-refoulement, e nos direitos fundamentais protegidos pela CEDH (artigos 3.º e 8.º), para apresentar na instrução do processo de afastamento coercivo, a cargo da PSP, ou no tribunal competente.",
+  "descricao_en": "Generates a statement of opposition in forced removal (afastamento coercivo) or expulsion proceedings, grounded in Articles 134 et seq. of Law No. 23/2007, the principles of proportionality and non-refoulement, and the fundamental rights protected by the ECHR (Articles 3 and 8), to be submitted in the forced removal proceedings conducted by the PSP (Public Security Police) or before the competent court.",
+  "substituicoes": [
+   {
+    "de": "- Fundamento do afastamento: situação irregular / condenação criminal / outros\n- Data da notificação e prazo de oposição",
+    "para": "- Fundamento do afastamento: situação irregular / condenação criminal / outros (o afastamento coercivo, instruído e decidido pela PSP, só pode fundar-se na entrada ou permanência ilegais — arts. 145.º e 149.º da Lei n.º 23/2007; com outros fundamentos, incluindo a condenação criminal, a expulsão é judicial — arts. 151.º a 158.º — e a defesa faz-se no tribunal)\n- Data da notificação e prazo fixado para a defesa (a «oposição» é a audição do visado na instrução do processo, que vale como audiência do interessado — art. 148.º da Lei n.º 23/2007)",
+    "motivo": "Só a entrada ou permanência ilegais fundam o afastamento coercivo pela PSP; os outros fundamentos levam a expulsão judicial. A lei não prevê uma «oposição» com prazo próprio: a defesa faz-se na audição do art. 148.º.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=920A0145&nid=920&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Arts. 134.º a 142.º da Lei n.º 23/2007 — afastamento coercivo: fundamentos e procedimento\n- Art. 135.º — proibição de expulsão: casos em que o afastamento não é permitido (residência permanente, família portuguesa, filhos menores)",
+    "para": "- Arts. 134.º a 144.º da Lei n.º 23/2007 — disposições gerais do afastamento (fundamentos, limites, país de destino, interdição de entrada); arts. 145.º a 150.º — afastamento coercivo determinado pela PSP (processo, audição, decisão do diretor nacional da PSP e impugnação judicial)\n- Art. 135.º — limites à expulsão: não podem ser afastados os estrangeiros nascidos em Portugal que aqui residam há pelo menos cinco anos; os que tenham efetivamente a cargo filhos menores portugueses a residir em Portugal; os que tenham filhos menores nacionais de Estado terceiro, residentes legais, relativamente aos quais assumam efetivamente as responsabilidades parentais e assegurem o sustento e a educação; os que se encontrem em Portugal desde idade inferior a 10 anos e aqui residam há pelo menos cinco anos; os menores não acompanhados com idade inferior à da imputabilidade penal; e os que tenham filhos maiores que deles dependam efetivamente por deficiência, doença grave ou incapacidade. O n.º 2 afasta estes limites, sempre com ponderação do superior interesse da criança e da unidade da vida familiar, em caso de condenação em pena de prisão igual ou superior a 5 anos por crime do catálogo do mandado de detenção europeu, de suspeita fundada ou condenação por terrorismo, sabotagem ou crimes contra a segurança do Estado, ou de atentado contra a segurança nacional ou a ordem pública. A residência permanente e o casamento com cidadão português não constam, por si, deste elenco\n- Art. 136.º — o residente de longa duração só pode ser expulso se representar ameaça real e suficientemente grave para a ordem pública ou a segurança pública; art. 143.º — proibição de afastamento para país onde possa ser perseguido ou sofrer tratamento contrário ao art. 3.º da CEDH",
+    "motivo": "O art. 135.º (Limites à expulsão, na redação da Lei n.º 62/2026) não protege a «residência permanente» nem o cônjuge português; enumera seis situações, com as exceções do n.º 2. O processo de afastamento coercivo está nos arts. 145.º a 150.º.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=920A0135&nid=920&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "**AGÊNCIA PARA A INTEGRAÇÃO, MIGRAÇÕES E ASILO (AIMA)**\nDepartamento de Afastamento e Fronteiras [■ VERIFICAR: serviço competente]",
+    "para": "**POLÍCIA DE SEGURANÇA PÚBLICA (PSP)**\nExmo. Senhor Instrutor do processo de afastamento coercivo — Direção Nacional da PSP [■ VERIFICAR: unidade orgânica e instrutor indicados na notificação]",
+    "motivo": "Instaurar, instruir e decidir o processo de afastamento coercivo compete ao diretor nacional da PSP (arts. 141.º e 149.º da Lei n.º 23/2007, na redação da Lei n.º 55-C/2025), e não à AIMA; o «Departamento de Afastamento e Fronteiras» não existe.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=920A0141&nid=920&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "[Resumo do fundamento invocado pela AIMA]",
+    "para": "[Resumo do fundamento invocado pela PSP]",
+    "motivo": "A decisão de afastamento coercivo é da PSP.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=920A0149&nid=920&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "[Se aplicável: residência permanente, cônjuge português, filhos menores, etc.]",
+    "para": "[Se aplicável — art. 135.º, n.º 1: nascimento em Portugal e residência há pelo menos cinco anos; filhos menores portugueses a cargo; filhos menores de Estado terceiro, residentes legais, a cargo; residência desde idade inferior a 10 anos; filhos maiores dependentes. O casamento com cidadão português não é, por si, limite legal, mas releva no art. 8.º da CEDH]",
+    "motivo": "O elenco do art. 135.º, n.º 1, não inclui a residência permanente nem o cônjuge português.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=920A0135&nid=920&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "ou, subsidiariamente, a sua suspensão até decisão final sobre os fundamentos de oposição.",
+    "para": "ou, subsidiariamente, a suspensão do processo, se o requerente estiver numa das situações do art. 146.º, n.º 5, da Lei n.º 23/2007 (designadamente, titularidade de título que habilite a sua permanência legal em território nacional).",
+    "motivo": "A lei não prevê uma suspensão «até decisão final sobre os fundamentos de oposição»: a defesa é apreciada na própria decisão. A suspensão do processo está prevista no art. 146.º, n.º 5.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=920A0146&nid=920&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Referência do processo AIMA: [número]",
+    "para": "- Referência do processo (PSP): [número]",
+    "motivo": "O processo de afastamento coercivo corre na PSP.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=920A0141&nid=920&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar na notificação a unidade da PSP que instrui o processo e o prazo fixado para a audição (art. 148.º da Lei n.º 23/2007).",
+   "Se o fundamento for uma condenação criminal, a expulsão é pena acessória ou medida judicial (arts. 151.º e ss.): a defesa faz-se no tribunal, não na PSP.",
+   "Os acórdãos Boultif c. Suíça e Üner c. Países Baixos são do TEDH: conferir a citação no HUDOC antes de os invocar."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=920A0135&nid=920&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=920A0141&nid=920&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=920A0145&nid=920&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=920A0146&nid=920&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=920A0148&nid=920&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=920A0149&nid=920&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=920A0150&nid=920&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=920&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+  ]
+ },
+ {
+  "codigo": "EST-024",
+  "veredicto": "corrigida",
+  "resumo": "A ação era proposta «contra a AIMA», mas a decisão de afastamento coercivo é do diretor nacional da PSP (art. 149.º da Lei n.º 23/2007), pelo que é demandado o Ministério da Administração Interna (art. 10.º, n.os 2 e 4, do CPTA). O pedido de condenação da AIMA a emitir título de residência não cabia sem pedido prévio (art. 67.º do CPTA). O art. 135.º era descrito com situações que não prevê. Corrigiram-se ainda a citação «arts. 50.º e 58.º» para os arts. 55.º e 58.º do CPTA e o pedido cautelar, que passa a assentar nos arts. 128.º e 131.º do CPTA. Acrescentou-se o efeito devolutivo da impugnação (art. 150.º da Lei n.º 23/2007).",
+  "substituicoes": [
+   {
+    "de": "- Via administrativa percorrida: oposição apresentada? Resultado?",
+    "para": "- Via administrativa percorrida: houve audição e defesa na instrução do processo pela PSP (art. 148.º da Lei n.º 23/2007)? Reclamação apresentada? Resultado?",
+    "motivo": "Não existe «oposição» com prazo próprio: a defesa faz-se na audição do art. 148.º, que corre na PSP.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=920A0148&nid=920&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Arts. 50.º e 58.º do CPTA — legitimidade e prazo",
+    "para": "- Arts. 55.º e 58.º do CPTA — legitimidade ativa e prazo de impugnação (três meses — art. 58.º, n.º 1, al. b), do CPTA)\n- Art. 150.º da Lei n.º 23/2007 — a impugnação judicial da decisão de afastamento coercivo tem efeito devolutivo, sem prejuízo dos processos urgentes e cautelares do CPTA (n.º 2)\n- Arts. 128.º e 131.º do CPTA — proibição de executar o ato após a citação e decretamento provisório da providência em 48 horas",
+    "motivo": "A legitimidade ativa está no art. 55.º do CPTA (o 50.º trata do objeto e efeitos da impugnação). A impugnação não suspende o afastamento (art. 150.º da Lei n.º 23/2007); daí a importância dos arts. 128.º e 131.º do CPTA.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=439A0058&nid=439&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "contra a AIMA, pelos fundamentos seguintes:",
+    "para": "contra o Ministério da Administração Interna, de que depende a PSP, cujo diretor nacional proferiu a decisão (art. 10.º, n.os 2 e 4, do CPTA; art. 149.º da Lei n.º 23/2007) [■ VERIFICAR: parte demandada], pelos fundamentos seguintes:",
+    "motivo": "A decisão de afastamento coercivo é do diretor nacional da PSP (art. 149.º da Lei n.º 23/2007). Nos atos de órgãos de ministérios, é demandado o ministério, e a indicação do órgão basta para a ação se considerar regularmente proposta (art. 10.º, n.os 2 e 4, do CPTA).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=439A0010&nid=439&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "[Se aplicável: cônjuge português, filhos menores portugueses, residência permanente]",
+    "para": "[Se aplicável — art. 135.º, n.º 1: nascimento em Portugal e residência há pelo menos cinco anos; filhos menores portugueses a cargo; filhos menores de Estado terceiro, residentes legais, a cargo; residência desde idade inferior a 10 anos; filhos maiores dependentes. O cônjuge português e a residência permanente não constam deste elenco, mas relevam no art. 8.º da CEDH e, no residente de longa duração, no art. 136.º]",
+    "motivo": "O art. 135.º, n.º 1, não inclui o cônjuge português nem a residência permanente.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=920A0135&nid=920&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "b) A comunicação urgente à AIMA para que se abstenha de proceder ao afastamento até decisão judicial.",
+    "para": "b) A citação urgente da entidade requerida, que fica proibida de iniciar ou prosseguir a execução (art. 128.º do CPTA), e, sendo o afastamento iminente, o decretamento provisório da providência (art. 131.º do CPTA), com comunicação à PSP e à GNR, a quem compete executar o afastamento (art. 159.º da Lei n.º 23/2007).",
+    "motivo": "A AIMA não decide nem executa o afastamento: a decisão é da PSP e a execução cabe à GNR e à PSP (art. 159.º). O efeito útil vem da proibição de execução após a citação (art. 128.º do CPTA) e do decretamento provisório (art. 131.º do CPTA).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=439A0128&nid=439&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "b) A condenação da AIMA a emitir novo título de residência ao requerente.",
+    "para": "b) [Só se tiver sido requerido à AIMA, I. P., um título de residência, recusado ou não decidido no prazo legal] a condenação da AIMA, I. P., à prática do ato devido (arts. 66.º e 67.º do CPTA) [■ VERIFICAR: pressupostos e cumulação com o pedido de anulação].",
+    "motivo": "A condenação à prática de ato devido pressupõe um requerimento prévio que constitua o órgão no dever de decidir (art. 67.º do CPTA); não decorre da mera anulação do afastamento.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=439A0067&nid=439&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Referência AIMA: [número]",
+    "para": "- Referência do processo (PSP): [número]",
+    "motivo": "O processo de afastamento coercivo corre na PSP.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=920A0149&nid=920&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "**OPOSIÇÃO ADMINISTRATIVA:**",
+    "para": "**DEFESA NO PROCESSO ADMINISTRATIVO (audição — art. 148.º da Lei n.º 23/2007) E RECLAMAÇÃO:**",
+    "motivo": "A via administrativa é a audição na instrução do processo (art. 148.º) e, depois da decisão, a reclamação facultativa.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=920A0148&nid=920&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar a parte demandada (Ministério da Administração Interna, de que depende a PSP) e o tribunal administrativo territorialmente competente.",
+   "A expressão «juiz de turno» é própria dos tribunais judiciais; na jurisdição administrativa, a via para o afastamento iminente é o decretamento provisório do art. 131.º do CPTA. Confirmar o regime de turnos do tribunal administrativo competente.",
+   "Se o requerente for residente de longa duração e a medida for expulsão judicial, a impugnação tem efeito suspensivo (art. 136.º, n.º 3, da Lei n.º 23/2007)."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=920A0135&nid=920&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=920A0136&nid=920&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=920A0148&nid=920&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=920A0149&nid=920&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=920A0150&nid=920&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=920A0159&nid=920&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=439A0010&nid=439&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=439A0055&nid=439&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=439A0058&nid=439&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=439A0066&nid=439&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=439A0067&nid=439&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=439A0128&nid=439&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=439A0131&nid=439&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://files.diariodarepublica.pt/1s/2007/08/16800/0606506074.pdf"
+  ]
+ },
+ {
+  "codigo": "EST-029",
+  "veredicto": "corrigida",
+  "resumo": "A ficha dava como incerto o procedimento interno de reconhecimento da apatridia. Esse procedimento está hoje regulado pela Lei n.º 47/2026, de 17 de agosto, em vigor desde 1 de setembro de 2026, com competência da AIMA, I. P. A ficha atribuía ainda ao art. 31.º da Convenção de 1954 o princípio do non-refoulement, quando esse artigo trata da expulsão. Atualizaram-se o enquadramento, o destinatário, o pedido, os direitos (autorização de residência provisória e temporária, título de viagem) e a via da naturalização (art. 6.º, n.º 3, da Lei n.º 37/81).",
+  "substituicoes": [
+   {
+    "de": "- Cita as normas reais: Convenção de 1954 (ratificada por Portugal), Convenção de 1961, e legislação interna aplicável [■ VERIFICAR: diploma interno que regula o procedimento de determinação da apatridia em Portugal]",
+    "para": "- Cita as normas reais: Convenção de 1954 (ratificada por Portugal), Convenção de 1961, e legislação interna aplicável: Lei n.º 41/2023, de 10 de agosto (consagra o estatuto de apátrida), e Lei n.º 47/2026, de 17 de agosto (procedimento de reconhecimento do estatuto de apátrida, em vigor desde 1 de setembro de 2026)",
+    "motivo": "O procedimento de reconhecimento do estatuto de apátrida foi regulado pela Lei n.º 47/2026, que entrou em vigor no primeiro dia do mês seguinte ao da publicação (art. 21.º).",
+    "fonte": "https://files.diariodarepublica.pt/1s/2026/08/15800/0004000046.pdf"
+   },
+   {
+    "de": "- Direitos conferidos pela Convenção de 1954: documento de viagem (art. 28.º), direito de residência, acesso ao mercado de trabalho, proteção do princípio de non-refoulement (art. 31.º)",
+    "para": "- Direitos conferidos pela Convenção de 1954: documento de viagem (art. 28.º), acesso ao trabalho por conta de outrem e por conta própria e às profissões liberais (arts. 17.º a 19.º), proteção contra a expulsão do apátrida em situação regular, salvo por razões de segurança nacional ou de ordem pública (art. 31.º), e facilitação da naturalização (art. 32.º). A Convenção não contém uma proibição de non-refoulement equivalente ao art. 33.º da Convenção de Genebra; contra o regresso a país de risco invocam-se o art. 3.º da CEDH e o art. 143.º da Lei n.º 23/2007\n- Direitos em Portugal após o reconhecimento: autorização de residência temporária válida por dois anos, renovável por iguais períodos, e título de viagem para apátridas (art. 17.º, n.º 1, da Lei n.º 47/2026; art. 25.º-A da Lei n.º 23/2007); direitos e deveres dos cidadãos portugueses, salvo os direitos políticos e os reservados por lei (art. 17.º, n.º 3, da Lei n.º 47/2026)",
+    "motivo": "O art. 31.º da Convenção de 1954 trata da expulsão do apátrida em situação regular, não do non-refoulement, que a Convenção não consagra. Os direitos de residência decorrem, em Portugal, da Lei n.º 47/2026.",
+    "fonte": "https://treaties.un.org/doc/Treaties/1960/06/19600606%2001-49%20AM/Ch_V_3p.pdf"
+   },
+   {
+    "de": "- Lei portuguesa de estrangeiros (Lei n.º 23/2007) — artigos aplicáveis à situação de apátrida [■ VERIFICAR: tratamento específico na lei interna]\n- Lei da Nacionalidade (Lei n.º 37/81) — eventual via de aquisição da nacionalidade portuguesa após reconhecimento da apatridia\n- Procedimento de determinação da apatridia em Portugal [■ VERIFICAR: procedimento formal e entidade competente — AIMA ou MNE]\n- Articulação com proteção internacional se existir risco de perseguição (Lei n.º 27/2008)",
+    "para": "- Lei portuguesa de estrangeiros (Lei n.º 23/2007) — definição de apátrida (art. 3.º, n.º 1, al. xx)) e título de viagem para apátridas que residam legalmente em Portugal (art. 25.º-A)\n- Lei da Nacionalidade (Lei n.º 37/81) — naturalização dos apátridas que residam legalmente em Portugal há pelo menos quatro anos e satisfaçam os requisitos das alíneas c) a h) do n.º 1 (art. 6.º, n.º 3, na redação da Lei Orgânica n.º 1/2026), em procedimento gratuito (art. 6.º, n.º 12)\n- Procedimento de reconhecimento do estatuto de apátrida (Lei n.º 47/2026): competência da AIMA, I. P. (art. 3.º); pedido escrito ou oral, na sede ou em qualquer delegação (art. 4.º); elementos do pedido (art. 5.º); entrevista, diligências junto dos países com conexão relevante e presunção de não nacionalidade se, em três meses, não houver informação (arts. 6.º e 7.º); autorização de residência provisória de seis meses, renovável até à decisão final, e demais direitos durante o procedimento (art. 9.º); suspensão dos processos por entrada ou permanência ilegais (art. 10.º); prazo de seis meses, prorrogável até nove (art. 11.º); audiência prévia em 10 dias (art. 12.º); decisão do membro do Governo responsável pelas migrações, delegável no conselho diretivo da AIMA, I. P. (art. 13.º); impugnação judicial em 15 dias, com efeito suspensivo (art. 14.º); procedimento gratuito e urgente (art. 15.º)\n- Articulação com proteção internacional se existir risco de perseguição (Lei n.º 27/2008): tramitação simultânea ou suspensão do procedimento de apatridia até à decisão sobre o asilo (art. 16.º da Lei n.º 47/2026)",
+    "motivo": "A Lei n.º 47/2026 regula o procedimento, a entidade competente, os prazos e os direitos; a Lei n.º 23/2007 define apátrida e prevê o título de viagem; a Lei n.º 37/81 prevê a naturalização do apátrida ao fim de quatro anos de residência legal.",
+    "fonte": "https://files.diariodarepublica.pt/1s/2026/08/15800/0004000046.pdf"
+   },
+   {
+    "de": "- Documentação de viagem provisória a solicitar durante o processo",
+    "para": "- Autorização de residência provisória a pedir com a abertura do procedimento (art. 9.º, n.º 1, al. a), da Lei n.º 47/2026); o título de viagem para apátridas pressupõe o reconhecimento do estatuto (art. 17.º, n.º 1, da Lei n.º 47/2026; art. 25.º-A da Lei n.º 23/2007)",
+    "motivo": "Durante o procedimento a lei confere uma autorização de residência provisória, não um documento de viagem.",
+    "fonte": "https://files.diariodarepublica.pt/1s/2026/08/15800/0004000046.pdf"
+   },
+   {
+    "de": "**AGÊNCIA PARA A INTEGRAÇÃO, MIGRAÇÕES E ASILO (AIMA)**\n[ou entidade competente — VERIFICAR]",
+    "para": "**AGÊNCIA PARA A INTEGRAÇÃO, MIGRAÇÕES E ASILO, I. P. (AIMA, I. P.)**\n[sede ou delegação — art. 4.º, n.º 3, da Lei n.º 47/2026]",
+    "motivo": "A competência para o procedimento é da AIMA, I. P. (art. 3.º da Lei n.º 47/2026).",
+    "fonte": "https://files.diariodarepublica.pt/1s/2026/08/15800/0004000046.pdf"
+   },
+   {
+    "de": "**Ao abrigo da Convenção de Nova Iorque de 28 de setembro de 1954 sobre o Estatuto dos Apátridas**",
+    "para": "**Ao abrigo da Lei n.º 47/2026, de 17 de agosto, e da Convenção Relativa ao Estatuto dos Apátridas, adotada em Nova Iorque em 28 de setembro de 1954**",
+    "motivo": "O pedido é agora formulado ao abrigo da lei interna que regula o procedimento.",
+    "fonte": "https://files.diariodarepublica.pt/1s/2026/08/15800/0004000046.pdf"
+   },
+   {
+    "de": "[Documento de viagem (art. 28.º da Convenção de 1954); direito de residência; acesso ao mercado de trabalho; proteção de non-refoulement (art. 31.º)]",
+    "para": "[Autorização de residência temporária por dois anos, renovável, e título de viagem para apátridas (art. 17.º, n.º 1, da Lei n.º 47/2026; art. 28.º da Convenção de 1954); direitos e deveres dos cidadãos portugueses, salvo os reservados (art. 17.º, n.º 3, da Lei n.º 47/2026); acesso ao trabalho; proteção contra a expulsão (art. 31.º da Convenção)]",
+    "motivo": "O art. 31.º da Convenção trata da expulsão, não do non-refoulement; os direitos de residência constam do art. 17.º da Lei n.º 47/2026.",
+    "fonte": "https://files.diariodarepublica.pt/1s/2026/08/15800/0004000046.pdf"
+   },
+   {
+    "de": "Requer-se o reconhecimento do estatuto de apátrida ao abrigo do art. 1.º da Convenção de 1954 e, consequentemente, a emissão de documento de viagem ao abrigo do art. 28.º da Convenção, bem como o reconhecimento de todos os direitos nela previstos.",
+    "para": "Requer-se a abertura do procedimento, com a emissão imediata de autorização de residência provisória (art. 9.º, n.º 1, al. a), da Lei n.º 47/2026), e, a final, o reconhecimento do estatuto de apátrida ao abrigo do art. 2.º da Lei n.º 47/2026 e do art. 1.º da Convenção de 1954 e, consequentemente, a concessão de autorização de residência temporária e a emissão de título de viagem para apátridas (art. 17.º, n.º 1, da Lei n.º 47/2026; art. 28.º da Convenção), bem como o reconhecimento de todos os direitos previstos na lei e na Convenção.",
+    "motivo": "A Lei n.º 47/2026 confere a autorização de residência provisória desde a abertura do procedimento e, com o reconhecimento, a autorização de residência temporária e o título de viagem.",
+    "fonte": "https://files.diariodarepublica.pt/1s/2026/08/15800/0004000046.pdf"
+   },
+   {
+    "de": "- [ ] Procedimento formal em Portugal identificado [■ VERIFICAR]\n- [ ] Documentação de viagem provisória considerada",
+    "para": "- [ ] Pedido apresentado na AIMA, I. P., ao abrigo da Lei n.º 47/2026, com documento comprovativo (art. 4.º, n.º 2)\n- [ ] Autorização de residência provisória pedida (art. 9.º, n.º 1, al. a), da Lei n.º 47/2026)",
+    "motivo": "O procedimento formal existe desde 1 de setembro de 2026 (Lei n.º 47/2026).",
+    "fonte": "https://files.diariodarepublica.pt/1s/2026/08/15800/0004000046.pdf"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "A Lei n.º 47/2026 é recente: confirmar a portaria que aprova o modelo da autorização de residência provisória (art. 9.º, n.º 2) e a prática da AIMA, I. P.",
+   "A impugnação da decisão é de 15 dias e segue a tramitação do art. 110.º do CPTA (art. 14.º da Lei n.º 47/2026): não aplicar o prazo geral de três meses.",
+   "A data de adesão de Portugal às Convenções de 1954 e de 1961 (Resoluções da Assembleia da República n.os 107/2012 e 106/2012) não foi conferida no Diário da República."
+  ],
+  "fontes": [
+   "https://files.diariodarepublica.pt/1s/2026/08/15800/0004000046.pdf",
+   "https://treaties.un.org/doc/Treaties/1960/06/19600606%2001-49%20AM/Ch_V_3p.pdf",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=920&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=920A0143&nid=920&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=614A0006&nid=614&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=614A0015&nid=614&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+  ]
+ },
+ {
+  "codigo": "EST-036",
+  "veredicto": "corrigida",
+  "resumo": "A ficha assentava as modalidades da ARI numa «Portaria 306-A/2012, art. 3.º, n.º 1, als. d) e e)», que não se confirmou. As modalidades estão no art. 3.º, n.º 1, al. d), subalíneas vi) e vii), da Lei n.º 23/2007 e os meios de prova nos arts. 65.º-A e ss. do Decreto Regulamentar n.º 84/2007. A modalidade «fundos» descrevia ainda o regime antigo: hoje exige OIC não imobiliários, maturidade mínima de cinco anos e 60 % investidos em sociedades sediadas em Portugal. Os dias de permanência (7 + 14 por biénio) eram apresentados como requisito da naturalização, quando são requisito de renovação da ARI. A «Declaração do Banco de Portugal» foi substituída pela declaração da instituição de crédito.",
+  "descricao": "Prepara o requerimento de Autorização de Residência para Atividade de Investimento (ARI / Golden Visa) nas modalidades atualmente admissíveis após a Lei n.º 56/2023 (que eliminou o investimento imobiliário), nomeadamente: subscrição de unidades de participação em organismos de investimento coletivo não imobiliários (art. 3.º, n.º 1, al. d), subalínea vii), da Lei n.º 23/2007) e apoio à produção artística ou ao património cultural nacional (subalínea vi)). Mínimo: 500 000 EUR (fundos) e 250 000 EUR (cultura/arte).",
+  "descricao_en": "Prepares the application for a Residence Permit for Investment Activity (ARI / Golden Visa) under the routes currently admissible following Law No. 56/2023 (which abolished real estate investment), namely: subscription of units in non-real-estate collective investment undertakings (Article 3(1)(d)(vii) of Law No. 23/2007) and support for artistic production or national cultural heritage (Article 3(1)(d)(vi)). Minimum: EUR 500,000 (funds) and EUR 250,000 (culture/arts).",
+  "substituicoes": [
+   {
+    "de": "— Cita Lei 23/2007 (art. 90.º-A), Portaria 306-A/2012 com alterações, Lei 56/2023.",
+    "para": "— Cita Lei 23/2007 (art. 90.º-A e art. 3.º, n.º 1, al. d)), Decreto Regulamentar n.º 84/2007 (arts. 65.º-A a 65.º-K), Lei 56/2023.",
+    "motivo": "As modalidades da ARI estão definidas no art. 3.º, n.º 1, al. d), da Lei n.º 23/2007 e regulamentadas nos arts. 65.º-A e ss. do Decreto Regulamentar n.º 84/2007; não se confirmou portaria com esse conteúdo.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=940&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Portaria 306-A/2012, art. 3.º, n.º 1:\n  * Al. d): transferência de capitais ≥ EUR 500 000 para fundos de investimento ou de capital de risco registados em Portugal\n  * Al. e): transferência de capitais ≥ EUR 250 000 para apoio à produção artística, recuperação ou manutenção do património cultural",
+    "para": "- Lei 23/2007, art. 3.º, n.º 1, al. d) (investimento mantido por um período mínimo de cinco anos, contado da concessão da ARI — art. 65.º-B do Decreto Regulamentar n.º 84/2007):\n  * Subalínea vii): transferência de capitais ≥ EUR 500 000 para aquisição de unidades de participação em organismos de investimento coletivo não imobiliários, constituídos ao abrigo da legislação portuguesa, com maturidade de, pelo menos, cinco anos no momento do investimento e com, pelo menos, 60 % do valor dos investimentos concretizado em sociedades comerciais sediadas em território nacional\n  * Subalínea vi): transferência de capitais ≥ EUR 250 000 para investimento ou apoio à produção artística, recuperação ou manutenção do património cultural nacional, através das entidades públicas ou equiparadas aí enumeradas (redução de 20 % em territórios de baixa densidade — art. 3.º, n.º 2)\n  * O investimento não pode destinar-se, direta ou indiretamente, ao investimento imobiliário (art. 3.º, n.º 5)",
+    "motivo": "Regime em vigor da Lei n.º 23/2007: os fundos têm de ser OIC não imobiliários de direito português, com maturidade mínima de cinco anos e 60 % investidos em sociedades sediadas em Portugal; o apoio cultural é feito através das entidades enumeradas na lei.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=920&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Via para naturalização: residência efetiva mínima exigida (7 dias/ano no 1.º ano + 14 dias nos anos seguintes — verificar requisitos atualizados)",
+    "para": "- Renovação da ARI (por períodos de dois anos — art. 90.º-A, n.º 2): permanência mínima de 7 dias, seguidos ou interpolados, no 1.º ano e de 14 dias, seguidos ou interpolados, nos subsequentes períodos de dois anos (art. 65.º-C do Decreto Regulamentar n.º 84/2007)\n- Via para naturalização: residência legal há pelo menos sete anos (nacionais de países de língua oficial portuguesa e de Estados-Membros da UE) ou 10 anos (restantes), nos termos do art. 6.º, n.º 1, al. b), da Lei n.º 37/81, na redação da Lei Orgânica n.º 1/2026, com a contagem do art. 15.º, n.º 3 [■ VERIFICAR: regime transitório para pedidos e períodos de residência anteriores à Lei Orgânica n.º 1/2026]",
+    "motivo": "Os 7 e 14 dias são prazos mínimos de permanência para renovar a ARI (14 dias por cada período de dois anos, não por ano), e não requisito da naturalização, que exige residência legal de sete ou 10 anos desde a Lei Orgânica n.º 1/2026.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=940&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "  * Fundos: contrato/boletim de subscrição, comprovativo de transferência bancária, declaração da entidade gestora confirmando o investimento ≥ EUR 500k",
+    "para": "  * Fundos: certificado comprovativo da titularidade das unidades de participação, livre de ónus e encargos, e declaração da sociedade gestora atestando a viabilidade do plano de capitalização, a maturidade de, pelo menos, cinco anos e a aplicação de, pelo menos, 60 % do investimento em sociedades comerciais sediadas em território nacional (art. 65.º-D, n.º 9, do Decreto Regulamentar n.º 84/2007); boletim de subscrição e comprovativo da transferência",
+    "motivo": "Meios de prova exigidos para a subalínea vii) pelo art. 65.º-D, n.º 9, do Decreto Regulamentar n.º 84/2007.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=940&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "  * Cultura: comprovativo de transferência bancária para entidade cultural reconhecida, protocolo de mecenato ou contrato de apoio",
+    "para": "  * Cultura: declaração da entidade beneficiária atestando a transferência efetiva do capital e declaração do Gabinete de Estratégia, Planeamento e Avaliação Culturais sobre a natureza do investimento ou apoio (art. 65.º-D, n.º 8, do Decreto Regulamentar n.º 84/2007); protocolo ou contrato de apoio",
+    "motivo": "Meios de prova exigidos para a subalínea vi) pelo art. 65.º-D, n.º 8, do Decreto Regulamentar n.º 84/2007.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=940&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Declaração do Banco de Portugal (se aplicável) sobre origem dos fundos",
+    "para": "- Declaração da instituição de crédito autorizada ou registada junto do Banco de Portugal atestando a transferência efetiva do montante exigido (não é uma declaração do próprio Banco de Portugal)",
+    "motivo": "A AIMA, I. P., exige declaração de instituição de crédito registada junto do Banco de Portugal; o Banco de Portugal não emite declarações sobre a origem dos fundos do requerente.",
+    "fonte": "https://aima.gov.pt/pt/viver/autorizacao-de-residencia-para-investimento-art-90-o-a"
+   },
+   {
+    "de": "nos termos do artigo 90.º-A da Lei n.º 23/2007, de 4 de julho, e da Portaria n.º 306-A/2012, de 9 de outubro, na redação em vigor,",
+    "para": "nos termos do artigo 90.º-A e do artigo 3.º, n.º 1, alínea d), subalínea [vi) / vii)], da Lei n.º 23/2007, de 4 de julho, e dos artigos 65.º-A e seguintes do Decreto Regulamentar n.º 84/2007, de 5 de novembro, na redação em vigor,",
+    "motivo": "Base legal confirmada da ARI; a portaria citada não se confirmou.",
+    "fonte": "https://aima.gov.pt/pt/viver/autorizacao-de-residencia-para-investimento-art-90-o-a"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "A AIMA, I. P., indica que o pré-registo no Portal ARI é obrigatório: confirmar o procedimento e a lista documental atual no sítio da AIMA.",
+   "Confirmar o regime transitório da Lei Orgânica n.º 1/2026 na contagem do tempo de residência para a naturalização de titulares de ARI.",
+   "Nos fundos, verificar no regulamento de gestão a maturidade e a política de investimento (60 % em sociedades sediadas em Portugal, sem componente imobiliária)."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=920&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=940&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://aima.gov.pt/pt/viver/autorizacao-de-residencia-para-investimento-art-90-o-a",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=614A0006&nid=614&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=614A0015&nid=614&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+  ]
+ },
+ {
+  "codigo": "EST-041",
+  "veredicto": "corrigida",
+  "resumo": "A ficha atribuía à AIMA a decisão de afastamento coercivo e dirigia-lhe uma «oposição», mas a decisão é hoje do diretor nacional da PSP (arts. 140.º e 149.º da Lei n.º 23/2007). Também citava o art. 138.º, que trata do dever de abandono, para um «recurso com efeito suspensivo automático»: na verdade, a impugnação judicial tem efeito devolutivo (art. 150.º). E citava o art. 3.º da Diretiva 2008/115/CE, que contém as definições, para as garantias processuais, que estão nos arts. 12.º e 13.º. Corrigiram-se o destinatário e as vias administrativas (audição do art. 148.º; reclamação e pedido de suspensão nos termos dos arts. 189.º e 191.º do CPA) e assinalou-se a revogação da diretiva pelo Regulamento (UE) 2026/2280 a partir de 17/10/2027.",
+  "descricao": "Prepara a defesa administrativa e o pedido cautelar de suspensão de eficácia contra decisão de afastamento coercivo proferida pelo diretor nacional da PSP, ao abrigo dos arts. 134.º e ss. da Lei n.º 23/2007, dos arts. 112.º e ss. do CPTA e da Diretiva 2008/115/CE (Diretiva Retorno), incluindo a garantia de audição do visado e a invocação de direitos fundamentais.",
+  "descricao_en": "Prepares the administrative defence and the interim application for suspension of effects against a forced removal decision issued by the National Director of the PSP (Public Security Police), under Articles 134 et seq. of Law No. 23/2007, Articles 112 et seq. of the CPTA and Directive 2008/115/EC (Return Directive), including the guarantee of a hearing of the person concerned and the invocation of fundamental rights.",
+  "substituicoes": [
+   {
+    "de": "- Tipo de medida: afastamento coercivo administrativo (AIMA) ou expulsão judicial?",
+    "para": "- Tipo de medida: afastamento coercivo administrativo (decidido pelo diretor nacional da PSP — arts. 140.º e 149.º da Lei n.º 23/2007) ou expulsão judicial?",
+    "motivo": "Desde a Lei n.º 55-C/2025, a decisão de afastamento coercivo compete ao diretor nacional da PSP, não à AIMA.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=920A0149&nid=920&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Art. 138.º Lei 23/2007: direito a recurso com efeito suspensivo automático em alguns casos",
+    "para": "- Art. 150.º Lei 23/2007: impugnação judicial da decisão de afastamento coercivo nos tribunais administrativos, com efeito devolutivo, sem prejuízo dos processos urgentes e cautelares do CPTA (n.º 2); o efeito suspensivo legal só está previsto para a expulsão de residente de longa duração (art. 136.º, n.º 3)\n- Art. 128.º CPTA: requerida a suspensão de eficácia, a entidade não pode iniciar nem prosseguir a execução após a citação, salvo resolução fundamentada",
+    "motivo": "O art. 138.º regula o dever de abandono do território. A impugnação judicial do afastamento coercivo tem efeito devolutivo (art. 150.º, n.º 1); a paralisação da execução resulta do art. 128.º do CPTA.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=920A0150&nid=920&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Art. 3.º Diretiva 2008/115/CE: garantias processuais no retorno",
+    "para": "- Arts. 12.º e 13.º Diretiva 2008/115/CE: forma da decisão e vias de recurso no regresso; art. 5.º: não-repulsão, interesse superior da criança, vida familiar e estado de saúde (a diretiva é revogada pelo Regulamento (UE) 2026/2280, com efeitos a partir de 17 de outubro de 2027)",
+    "motivo": "O art. 3.º da Diretiva contém as definições; as garantias processuais estão no capítulo III (arts. 12.º a 14.º). O Regulamento (UE) 2026/2280 revoga a Diretiva a partir de 17/10/2027.",
+    "fonte": "https://publications.europa.eu/resource/celex/32008L0115"
+   },
+   {
+    "de": "- Via principal: oposição administrativa à AIMA (prazo curto — verificar!)\n- Via cautelar: pedido de suspensão de eficácia ao TAC (urgente)",
+    "para": "- Via administrativa: antes da decisão, a defesa na audição do visado, que vale como audiência do interessado (art. 148.º Lei 23/2007); depois da decisão, reclamação para o autor do ato no prazo de 15 dias (art. 191.º CPA), que não suspende a execução, salvo decisão do autor do ato, oficiosa ou a pedido do interessado (art. 189.º, n.os 2 e 3, CPA)\n- Via cautelar: pedido de suspensão de eficácia ao tribunal administrativo competente (urgente), que não depende da reclamação (art. 189.º, n.º 5, CPA)",
+    "motivo": "A lei não prevê uma «oposição administrativa à AIMA». A defesa faz-se na audição do art. 148.º. Depois da decisão, cabe reclamação facultativa para o diretor nacional da PSP, sem efeito suspensivo automático.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2248A0189&nid=2248&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "**OPOSIÇÃO À DECISÃO DE AFASTAMENTO COERCIVO**\n\nExma. AIMA,",
+    "para": "**RECLAMAÇÃO DA DECISÃO DE AFASTAMENTO COERCIVO (com pedido de suspensão da execução)**\n\nExmo. Senhor Diretor Nacional da Polícia de Segurança Pública,",
+    "motivo": "A decisão é do diretor nacional da PSP; o meio administrativo contra a decisão já proferida é a reclamação para o autor do ato.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=920A0149&nid=920&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "vem apresentar a presente oposição e requerer a suspensão da eficácia da decisão, com os seguintes fundamentos:",
+    "para": "vem apresentar a presente reclamação (art. 191.º do CPA) e requerer a suspensão da execução da decisão (art. 189.º, n.os 2 e 3, do CPA), com os seguintes fundamentos:",
+    "motivo": "Enquadramento legal da reclamação e do pedido de suspensão da execução em sede administrativa.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2248A0191&nid=2248&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "2. Revogação da decisão de afastamento por [vício X / Y]",
+    "para": "2. Anulação administrativa da decisão de afastamento por [vício X / Y] (art. 165.º, n.º 2, do CPA)",
+    "motivo": "A destruição dos efeitos de um ato com fundamento em invalidade é anulação administrativa; a revogação é por razões de mérito (art. 165.º do CPA).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2248A0165&nid=2248&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "Tribunal Administrativo de Círculo de [COMARCA]",
+    "para": "tribunal administrativo competente [■ VERIFICAR: competência territorial — arts. 16.º e 20.º do CPTA]",
+    "motivo": "A comarca é circunscrição dos tribunais judiciais; a competência territorial dos tribunais administrativos rege-se pelo CPTA.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=439A0016&nid=439&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Fundamento da decisão AIMA: [TRANSCREVER]",
+    "para": "- Fundamento da decisão (PSP): [TRANSCREVER]",
+    "motivo": "A decisão de afastamento coercivo é da PSP.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=920A0149&nid=920&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Manteve-se a citação do «art. 186.º CPTA», que a revisão de citações já corrige para o art. 112.º CPTA; confirmar no documento final.",
+   "Confirmar se a decisão foi proferida por delegação do diretor nacional da PSP: a reclamação dirige-se ao autor do ato.",
+   "A partir de 17/10/2027, as remissões para a Diretiva 2008/115/CE passam a ser feitas para o Regulamento (UE) 2026/2280."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=920A0136&nid=920&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=920A0138&nid=920&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=920A0140&nid=920&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=920A0148&nid=920&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=920A0149&nid=920&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=920A0150&nid=920&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=439A0016&nid=439&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=439A0128&nid=439&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2248A0165&nid=2248&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2248A0189&nid=2248&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2248A0191&nid=2248&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://publications.europa.eu/resource/celex/32008L0115",
+   "https://publications.europa.eu/resource/celex/32026R2280"
+  ]
+ }
+]

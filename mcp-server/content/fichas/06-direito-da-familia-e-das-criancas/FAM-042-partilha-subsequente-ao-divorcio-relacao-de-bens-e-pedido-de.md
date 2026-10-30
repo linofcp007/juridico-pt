@@ -46,7 +46,7 @@ Dentro de <fundamentos_juridicos>:
 - Art. 1724.º CC: bens comuns no regime de comunhão de adquiridos
 - Art. 1726.º CC: bens adquiridos em parte com bens próprios (regime de sub-rogação parcial)
 - Arts. 1082.º a 1106.º CPC: processo de inventário
-- Art. 1113.º CPC: licitações entre co-herdeiros / ex-cônjuges
+- Art. 1113.º CPC: licitações entre coerdeiros / ex-cônjuges
 
 ### ETAPA 3 — RELAÇÃO DE BENS
 Dentro de <relacao_bens>:

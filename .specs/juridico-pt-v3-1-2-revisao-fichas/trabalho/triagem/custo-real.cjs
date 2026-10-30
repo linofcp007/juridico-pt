@@ -1,10 +1,11 @@
-// Uso: node custo-real.cjs — custo equivalente em API, lido dos registos dos subagentes (uso real, com leituras de cache).
+// Uso: node custo-real.cjs [pasta subagents …] — custo equivalente em API, lido dos registos dos subagentes (uso real, com leituras de cache).
 const fs = require("fs");
-const D = "C:/Users/Administrator/.claude-conta2/projects/c--Users-Administrator-Desktop-CLAUDE-SKILLS-juridico-pt/381925a7-eebd-4683-86a9-3bf5bea0f303/subagents";
+// A pasta dos subagentes é a da sessão: passar as de todas as sessões da revisão (sem argumentos, a da 1.ª sessão).
+const PASTAS = process.argv.length > 2 ? process.argv.slice(2) : ["C:/Users/Administrator/.claude-conta2/projects/c--Users-Administrator-Desktop-CLAUDE-SKILLS-juridico-pt/381925a7-eebd-4683-86a9-3bf5bea0f303/subagents"];
 const P = { opus: { in: 4, cw5: 5, cw60: 8, cr: 0.2, out: 20 }, sonnet: { in: 2, cw5: 2.5, cw60: 4, cr: 0.2, out: 10 } };
 const grupos = {};
 let fichasRevistas = 0;
-for (const f of fs.readdirSync(D).filter((f) => f.endsWith(".meta.json"))) {
+for (const D of PASTAS) for (const f of fs.readdirSync(D).filter((f) => f.endsWith(".meta.json"))) {
   const meta = JSON.parse(fs.readFileSync(`${D}/${f}`, "utf8"));
   const g = /^Triage fichas t\d+/.test(meta.description) ? "triagem (sonnet)" : /^(Deep review v[12]|Review m[a-z]+\d|Review b[a-z]+\d)/.test(meta.description) ? "revisão a fundo (opus)" : null;
   if (!g) continue;

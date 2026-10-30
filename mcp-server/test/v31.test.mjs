@@ -499,7 +499,8 @@ test("T-529 sem dados pessoais reais nas fichas (NIF válido ou email fora dos e
     const c = 11 - (s % 11);
     return (c >= 10 ? 0 : c) === Number(n[8]);
   };
-  const DOMINIOS = /@(example\.[a-z]+|empresa\.(pt|com)|platform\.com|cnpd\.pt|[a-z-]+\.example)$/i;
+  // Exemplos e caixas institucionais de organismos públicos (cnpd.pt, *.gov.pt), que não são dados pessoais.
+  const DOMINIOS = /@(example\.[a-z]+|empresa\.(pt|com)|platform\.com|cnpd\.pt|([a-z-]+\.)?gov\.pt|[a-z-]+\.example)$/i;
   const falhas = [];
   for (const f of ficheirosFichas()) {
     const t = ler(f);
@@ -591,4 +592,83 @@ test("T-532 revisão técnica: as 42 fichas no relatório, com fonte em cada cor
   const voltaram = [];
   for (const [cods, nome, erro] of ERROS) for (const c of cods) if (erro(corpo(c))) voltaram.push(`${c}: ${nome}`);
   assert.deepEqual(voltaram, []);
+});
+
+test("T-533 artigos revogados e citações sem «º»: as epígrafes guardam os revogados lidos no texto oficial; o importador marca a citação de um revogado e apanha «Art. 151 CT»", async () => {
+  const { lerRevogadosPgdl, revogadosPortalFinancas } = await import(pathToFileURL(r("mcp-server", "scripts", "gerar-epigrafes.mjs")).href);
+  // PGDL: só o texto do artigo diz "(Revogado.)"; o decreto preambular também tem um "Artigo 3.º"; nota do CPC e "ARTIGO" da CRP.
+  const html = `<option value="1A0315">Artigo 315.º<br> Contestação e rol</option></select>` +
+    "Artigo 3.º (Revogado pelo Decreto-Lei n.º 17/91) <br>Artigo 3.º Âmbito <br>1 - O código aplica-se… " +
+    "Artigo 99.º (art.º 105.º CPC 1961) Efeito da incompetência <br>(Revogado.) ARTIGO 4.º (Cidadania) São cidadãos… " +
+    "Artigo 315.º Contestação e rol <br>(Revogado.) Artigo 316.º Revogação da liberdade <br>1 - … Artigo 36.º Prazos <br>[Revogado].";
+  const pgdl = lerRevogadosPgdl(html, { 3: "Âmbito", 4: "Cidadania", 36: "Prazos", 99: "Efeito da incompetência", 315: "Contestação e rol", 316: "Revogação da liberdade" });
+  assert.deepEqual([...pgdl.revogados].sort(), ["315", "36", "99"]);
+  assert.deepEqual([...pgdl.vistos].sort(), ["3", "315", "316", "36", "4", "99"]);
+  const pf = '<tr><td>Artigo 2.º-B</td><td><a href="a">Isenção</a>&#160;<em>[Revogado]</em></td></tr>' +
+    '<tr><td>Artigo 35.º</td><td><a href="b">(Revogado)</a></td></tr><tr><td>Artigo 36.º</td><td><a href="c">Taxas</a></td></tr>';
+  assert.deepEqual(revogadosPortalFinancas(pf).sort(), ["2-B", "35"]);
+
+  // Os 25 diplomas têm a lista; nenhuma citação de um revogado conta como conferida, salvo se o texto diz que está revogado.
+  const revogados = {};
+  for (const s of SIGLAS_25) {
+    const e = JSON.parse(ler(SKILL("references", "epigrafes", `${s}.json`)));
+    assert.ok(Array.isArray(e.revogados) && e.revogados_obtido_em, `${s}: sem lista de revogados`);
+    revogados[s] = new Set(e.revogados);
+  }
+  for (const [s, a] of [["CPP", "315"], ["CSC", "135"], ["CT", "208-A"], ["RJUE", "36"]]) assert.ok(revogados[s].has(a), `${s} ${a}.º revogado`);
+  const conferidas = JSON.parse(ler(FICHAS("citacoes.json")))
+    .filter((c) => revogados[c.sigla]?.has(c.artigo) && c.estado !== "por conferir" && !/revog(?:ad[oa]|ou|a[çc][ãa]o d[oe]s?\s+art)/i.test(c.contexto));
+  assert.deepEqual(conferidas.map((c) => `${c.codigo} ${c.texto}`), []);
+
+  const { skill, out, f } = importarFixture();
+  assert.equal(out.status, 0, out.stderr);
+  const tra = JSON.parse(ler(f("citacoes.json"))).filter((c) => c.codigo === "TRA-905");
+  const t = fichaFixture(skill, "TRA-905");
+  assert.match(t, /Art\. 208\.º-A CT \(banco de horas individual[^)\n]*\) \[■ VERIFICAR: o artigo 208\.º-A CT está revogado; confirmar a norma em vigor\]/);
+  assert.ok(!/\[■ VERIFICAR[^\n]*foi revogado pela Lei|foi revogado pela Lei[^\n]*\[■ VERIFICAR/.test(t), "o texto que já diz que está revogado não leva marcador");
+  assert.equal(tra.find((c) => c.texto === "Art. 151 CT")?.estado, "conferida (epígrafe)", "citação sem «º» com a sigla logo a seguir");
+  assert.ok(!tra.some((c) => c.artigo === "1"), "«Artigo 1 — Objeto» do contrato não é uma citação");
+});
+
+test("T-534 lista AO90 alargada: adopção, accionista, contra-ordenação, peremptório… passam à forma atual nas fichas e na fixture", () => {
+  const ao = JSON.parse(ler(AO90)).converter;
+  for (const [velha, nova] of [["adopção", "adoção"], ["accionista", "acionista"], ["contra-ordenação", "contraordenação"], ["peremptório", "perentório"], ["fraccionado", "fracionado"], ["seleccionar", "selecionar"]]) {
+    assert.equal(ao[velha], nova, `ao90.json: ${velha}`);
+  }
+  const { skill, out } = importarFixture();
+  assert.equal(out.status, 0, out.stderr);
+  const t = fichaFixture(skill, "TRA-905");
+  assert.match(t, /A contraordenação laboral não se confunde com a adoção de regras pelo acionista; prazo perentório\./);
+  const velhas = new RegExp(`(?<![\\p{L}])(${Object.keys(ao).filter((k) => /^(adop|accion|contra-ordena|perempt|fraccion|seleccion)/.test(k)).join("|")})(?![\\p{L}])`, "iu");
+  const com = ficheirosFichas().filter((f) => velhas.test(ler(f).split("## Citações desta ficha")[0]));
+  assert.deepEqual(com.map((f) => relative(FICHAS(), f)), []);
+});
+
+test("T-535 revisão técnica 3.1.2: as 792 fichas que a triagem apontou estão no relatório, com fonte em cada correção, e as referências da casa corrigidas não voltam", () => {
+  const cor = JSON.parse(ler(FICHAS("correcoes-conteudo.json")));
+  const TRIAGEM = r(".specs", "juridico-pt-v3-1-2-revisao-fichas", "trabalho", "triagem");
+  const apontadas = readdirSync(TRIAGEM).filter((f) => /^triagem-t\d+\.json$/.test(f))
+    .flatMap((f) => JSON.parse(ler(join(TRIAGEM, f)))).filter((x) => x.triagem === "rever").map((x) => x.codigo);
+  assert.equal(apontadas.length, 792);
+  const rel = ler(FICHAS("revisao-tecnica.md"));
+  const falhas = [];
+  for (const c of apontadas) {
+    if (!cor[c]) falhas.push(`${c}: sem revisão técnica`);
+    else if (!rel.includes(`## ${c}`)) falhas.push(`${c}: fora do relatório`);
+  }
+  for (const [c, x] of Object.entries(cor)) {
+    if (!["ok", "corrigida", "rever de raiz"].includes(x.veredicto) || !x.resumo) falhas.push(`${c}: sem veredicto ou resumo`);
+    for (const s of x.substituicoes) if (!/^https?:\/\//.test(s.fonte || "") && !/\[■ VERIFICAR/.test(s.para)) falhas.push(`${c}: correção sem fonte nem [■ VERIFICAR]`);
+  }
+  assert.deepEqual(falhas, []);
+
+  // Referências da casa: o que a fonte oficial desmentiu não volta.
+  const ref = (...p) => ler(SKILL(...p));
+  assert.doesNotMatch(ref("references", "multas.md"), /20 dias úteis para tribunal/);
+  assert.match(ref("references", "multas.md"), /15 dias úteis após o seu conhecimento[^\n]*art\. 181\.º, n\.º 2, al\. a\), do Código da Estrada/);
+  assert.doesNotMatch(ref("references", "sucessorio-internacional.md"), /Haia de 1961[^\n]*— Portugal é parte/);
+  assert.doesNotMatch(ref("references", "herancas.md"), /Inventário obrigatório: quando há menores|Repúdio: declaração formal \(notário ou tribunal\)/);
+  for (const p of [["references", "imobiliario.md"], ["references", "insolvencia.md"], ["playbooks", "comprar-imovel.md"]]) {
+    assert.match(ref(...p), /759\.º[^\n]*DL 48\/2024|DL 48\/2024[^\n]*759\.º/, p.join("/"));
+  }
 });

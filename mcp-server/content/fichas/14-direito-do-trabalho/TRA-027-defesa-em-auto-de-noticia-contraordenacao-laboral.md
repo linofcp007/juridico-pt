@@ -129,7 +129,7 @@ Apresenta dentro de um bloco <checklist_validacao>:
 
 | Citação | Estado | Nota |
 |---|---|---|
-| art. 553.º CT | corrigida — Escalões de gravidade das contra-ordenações laborais | o número citado no catálogo não correspondia à epígrafe |
+| art. 553.º CT | corrigida — Escalões de gravidade das contraordenações laborais | o número citado no catálogo não correspondia à epígrafe |
 | Art. 565.º CT | por conferir [■ VERIFICAR] | o art. 565.º CT trata do registo individual; a medida da coima está nos arts. 556.º e 559.º CT |
 | art. 565.º CT | por conferir [■ VERIFICAR] | o art. 565.º CT trata do registo individual; a medida da coima está nos arts. 556.º e 559.º CT |
 | Art. 566.º CT | por conferir [■ VERIFICAR] | o art. 566.º CT trata do destino das coimas; a medida da coima está no art. 559.º e a reincidência no 561.º CT |

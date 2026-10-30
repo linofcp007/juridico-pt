@@ -6,7 +6,7 @@ titulo_en: "Action for the Judicial Removal of a Manager"
 descricao: "Gera uma petição inicial para ação de destituição judicial de gerente de sociedade por quotas, com fundamento em justa causa, ao abrigo do art. 257.º do CSC, incluindo a identificação dos factos constitutivos de justa causa e o pedido de destituição pelo tribunal."
 descricao_en: "Generates a statement of claim for an action seeking the judicial removal of a manager (gerente) of a private limited company for just cause under Article 257 CSC, including identification of the facts constituting just cause and the request for removal by the court."
 ambito: nacional
-estado_citacoes: "conferidas 8 · corrigidas 0 · por conferir 0"
+estado_citacoes: "conferidas 9 · corrigidas 0 · por conferir 3"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
@@ -14,7 +14,7 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 
 > **Âmbito:** nacional · **Área:** Direito Comercial e das Sociedades · **Código:** COM-033
 > **EN:** Action for the Judicial Removal of a Manager. Generates a statement of claim for an action seeking the judicial removal of a manager (gerente) of a private limited company for just cause under Article 257 CSC, including identification of the facts constituting just cause and the request for removal by the court.
-> **Citações:** conferidas 8 · corrigidas 0 · por conferir 0. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 9 · corrigidas 0 · por conferir 3. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
 
 Gera uma petição inicial para ação de destituição judicial de gerente de sociedade por quotas, com fundamento em justa causa, ao abrigo do art. 257.º do CSC, incluindo a identificação dos factos constitutivos de justa causa e o pedido de destituição pelo tribunal.
 
@@ -193,6 +193,10 @@ Apresente em <checklist_validacao>:
 
 | Citação | Estado | Nota |
 |---|---|---|
+| Art. 254 CSC | conferida (epígrafe) — Proibição de concorrência |  |
+| Art. 64 CSC | por conferir [■ VERIFICAR] | o assunto descrito não coincide com a epígrafe; confirmar |
+| Art. 380 CPC | por conferir [■ VERIFICAR] | o assunto descrito não coincide com a epígrafe; confirmar |
+| art. 381 CPC | por conferir [■ VERIFICAR] | o assunto descrito não coincide com a epígrafe; confirmar |
 | art. 254.º do CSC | conferida (epígrafe) — Proibição de concorrência |  |
 | art. 254.º do CSC | conferida (epígrafe) — Proibição de concorrência |  |
 | art. 257.º/5 do CSC | conferida (epígrafe) — Destituição de gerentes |  |

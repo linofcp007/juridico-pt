@@ -6,8 +6,9 @@ titulo_en: "Application for Registration of a European Union Trade Mark (EUIPO)"
 descricao: "Elabora o requerimento de registo de Marca da União Europeia (MUE) junto ao Instituto da Propriedade Intelectual da União Europeia (EUIPO), com sede em Alicante, incluindo identificação das classes, descrição dos produtos/serviços, fundamentação da distintividade e análise dos potenciais impedimentos ao abrigo do Regulamento (UE) 2017/1001."
 descricao_en: "Prepares the application for registration of a European Union trade mark (EUTM, MUE) with the European Union Intellectual Property Office (EUIPO), based in Alicante, including identification of the classes, description of the goods/services, the grounds for distinctiveness and analysis of potential grounds for refusal under Regulation (EU) 2017/1001."
 ambito: nacional
-estado_citacoes: "conferidas 0 · corrigidas 0 · por conferir 18"
+estado_citacoes: "conferidas 0 · corrigidas 0 · por conferir 22"
 remete_para: "assets/checklists/checklist-registo-marca"
+revisao_tecnica: "2026-10-30 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
@@ -16,7 +17,8 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 > **Âmbito:** nacional · **Área:** Propriedade Intelectual e Industrial · **Código:** PI-002
 > **EN:** Application for Registration of a European Union Trade Mark (EUIPO). Prepares the application for registration of a European Union trade mark (EUTM, MUE) with the European Union Intellectual Property Office (EUIPO), based in Alicante, including identification of the classes, description of the goods/services, the grounds for distinctiveness and analysis of potential grounds for refusal under Regulation (EU) 2017/1001.
 > **Ver também:** `assets/checklists/checklist-registo-marca` — conteúdo do plugin sobre o mesmo tema. Usa-o primeiro.
-> **Citações:** conferidas 0 · corrigidas 0 · por conferir 18. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 0 · corrigidas 0 · por conferir 22. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-30 — corrigida (6 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
 Elabora o requerimento de registo de Marca da União Europeia (MUE) junto ao Instituto da Propriedade Intelectual da União Europeia (EUIPO), com sede em Alicante, incluindo identificação das classes, descrição dos produtos/serviços, fundamentação da distintividade e análise dos potenciais impedimentos ao abrigo do Regulamento (UE) 2017/1001.
 
@@ -41,8 +43,8 @@ Apresenta dentro de um bloco <analise_do_caso>:
 - Risco de confusão com marcas anteriores no espaço europeu (pesquisa em TMview)
 - Impedimentos absolutos mais relevantes para o sinal em apreço
 - Impedimentos relativos: anterioridades nacionais nos 27 Estados-Membros
-- Recomendação: MUE direta vs. pedido nacional com extensão posterior
-- Necessidade de representação qualificada perante o EUIPO (art. 120.º RMUE)
+- Recomendação: MUE direta vs. pedido nacional prévio, seguido de pedido MUE que reivindique a sua prioridade (seis meses — art. 34.º RMUE) ou, registada a marca nacional, a sua antiguidade (art. 39.º RMUE)
+- Necessidade de representação profissional perante o EUIPO: obrigatória, em todos os processos exceto o depósito do pedido, para quem não tenha domicílio, sede ou estabelecimento industrial ou comercial real e efetivo no EEE (arts. 119.º, n.º 2, e 120.º RMUE)
 
 ### ETAPA 2 — ANÁLISE JURÍDICA (Fundamentação)
 Apresenta dentro de um bloco <fundamentos_juridicos>:
@@ -53,7 +55,7 @@ Apresenta dentro de um bloco <fundamentos_juridicos>:
 - Art. 47.º RMUE: prova de uso (relevante se anterioridade antiga)
 - Art. 58.º RMUE: caducidade por falta de uso
 - Art. 139.º RMUE: conversão em pedido nacional
-- Classificação de Nice (11.ª edição) — classes aplicáveis
+- Classificação de Nice (13.ª edição, versão 2026 — NCL 13-2026, em vigor desde 1 de janeiro de 2026; confirmar a versão aplicável à data do pedido) — classes aplicáveis
 - [■ VERIFICAR: jurisprudência do Tribunal de Justiça da UE ou do Tribunal Geral relevante]
 
 ### ETAPA 3 — CONSTRUÇÃO ARGUMENTATIVA
@@ -61,7 +63,7 @@ Define em <estrategia>:
 - Fundamentação central de distintividade do sinal
 - Resposta preparada para possíveis objeções do EUIPO (office action)
 - Estratégia face a anterioridades identificadas: coexistência, diferenciação de classes, prioridade
-- Decisão sobre reivindicação de prioridade (art. 35.º RMUE — 6 meses desde o pedido nacional)
+- Decisão sobre reivindicação de prioridade (arts. 34.º e 35.º RMUE — seis meses a contar do depósito do primeiro pedido num Estado parte na Convenção de Paris ou no acordo da OMC; a reivindicação é feita com o pedido MUE e a documentação justificativa é entregue em três meses)
 
 ### ETAPA 4 — EXPOSIÇÃO ESTRUTURADA (Requerimento)
 Redige o formulário de pedido com a seguinte estrutura:
@@ -77,7 +79,7 @@ Redige o formulário de pedido com a seguinte estrutura:
 - Telefone: [número]
 - NIF/n.º de identificação fiscal: [número]
 
-**II. REPRESENTANTE (obrigatório para requerentes fora da UE/EEE)**
+**II. REPRESENTANTE (obrigatório, exceto para o depósito do pedido, se o requerente não tiver domicílio, sede ou estabelecimento real e efetivo no EEE — art. 119.º, n.º 2, RMUE)**
 - Nome: [nome do mandatário]
 - Qualificação: [advogado / agente de propriedade industrial]
 - N.º de inscrição: [número OA ou equivalente]
@@ -117,7 +119,7 @@ Taxa adicional por classe (2.ª e seguintes): [■ VERIFICAR]
 Apresenta dentro de um bloco <checklist_validacao>:
 - [ ] Representação da marca em formato aceite pelo EUIPO (JPEG, MP3, etc.)
 - [ ] Identificação completa do requerente com país de constituição
-- [ ] Representante qualificado indicado (se requerente fora da UE/EEE)
+- [ ] Representante profissional indicado (obrigatório depois do depósito, se o requerente não tiver domicílio, sede ou estabelecimento no EEE — art. 119.º, n.º 2, RMUE)
 - [ ] Classes de Nice completas e produtos/serviços especificados com clareza
 - [ ] Análise de impedimentos absolutos (art. 7.º RMUE) realizada
 - [ ] Pesquisa de anterioridades em TMview recomendada/realizada
@@ -182,7 +184,10 @@ Formulário de pedido MUE estruturado, análise de riscos no espaço europeu e l
 | art. 7.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 8.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 139.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| art. 120.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 34.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 39.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 39.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| arts. 119.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | Art. 4.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | Art. 7.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | Art. 8.º | por conferir [■ VERIFICAR] | diploma não identificado |
@@ -190,7 +195,8 @@ Formulário de pedido MUE estruturado, análise de riscos no espaço europeu e l
 | Art. 47.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | Art. 58.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | Art. 139.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| arts. 34.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 119.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 119.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 35.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| art. 35.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| art. 39.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 46.º | por conferir [■ VERIFICAR] | diploma não identificado |

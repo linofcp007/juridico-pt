@@ -3,20 +3,22 @@ codigo: FAM-038
 area: "Direito da Família e das Crianças"
 titulo: "Residência Alternada — Requerimento e Fundamentação"
 titulo_en: "Alternating Residence — Application and Grounds"
-descricao: "Elabora requerimento ou acordo sobre regime de residência alternada do menor, ao abrigo do art. 1906.º, n.º 5 do CC (introduzido pela Lei n.º 65/2022, de 22 de Novembro) e do art. 44.º RGPTC, fundamentando o superior interesse da criança e o calendário proposto, com definição de critérios para questões escolares, médicas e de despesas extraordinárias."
-descricao_en: "Prepares an application or agreement on alternating residence (residência alternada) for the minor, under Art. 1906(5) CC (introduced by Law No. 65/2022 of 22 November) and Art. 44 RGPTC, setting out the best interests of the child and the proposed schedule, with criteria for school, medical and extraordinary expense matters."
+descricao: "Elabora requerimento ou acordo sobre regime de residência alternada do menor, ao abrigo do art. 1906.º, n.º 6, do CC (introduzido pela Lei n.º 65/2020, de 4 de novembro) e dos arts. 34.º e 43.º do RGPTC, fundamentando o superior interesse da criança e o calendário proposto, com definição de critérios para questões escolares, médicas e de despesas extraordinárias."
+descricao_en: "Prepares an application or agreement on alternating residence (residência alternada) for the minor, under Art. 1906(6) CC (introduced by Law No. 65/2020 of 4 November) and Arts. 34 and 43 RGPTC, setting out the best interests of the child and the proposed schedule, with criteria for school, medical and extraordinary expense matters."
 ambito: nacional
-estado_citacoes: "conferidas 4 · corrigidas 0 · por conferir 3"
+estado_citacoes: "conferidas 5 · corrigidas 0 · por conferir 6"
+revisao_tecnica: "2026-10-30 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
 # Residência Alternada — Requerimento e Fundamentação
 
 > **Âmbito:** nacional · **Área:** Direito da Família e das Crianças · **Código:** FAM-038
-> **EN:** Alternating Residence — Application and Grounds. Prepares an application or agreement on alternating residence (residência alternada) for the minor, under Art. 1906(5) CC (introduced by Law No. 65/2022 of 22 November) and Art. 44 RGPTC, setting out the best interests of the child and the proposed schedule, with criteria for school, medical and extraordinary expense matters.
-> **Citações:** conferidas 4 · corrigidas 0 · por conferir 3. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **EN:** Alternating Residence — Application and Grounds. Prepares an application or agreement on alternating residence (residência alternada) for the minor, under Art. 1906(6) CC (introduced by Law No. 65/2020 of 4 November) and Arts. 34 and 43 RGPTC, setting out the best interests of the child and the proposed schedule, with criteria for school, medical and extraordinary expense matters.
+> **Citações:** conferidas 5 · corrigidas 0 · por conferir 6. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-30 — corrigida (5 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
-Elabora requerimento ou acordo sobre regime de residência alternada do menor, ao abrigo do art. 1906.º, n.º 5 do CC (introduzido pela Lei n.º 65/2022, de 22 de Novembro) e do art. 44.º RGPTC, fundamentando o superior interesse da criança e o calendário proposto, com definição de critérios para questões escolares, médicas e de despesas extraordinárias.
+Elabora requerimento ou acordo sobre regime de residência alternada do menor, ao abrigo do art. 1906.º, n.º 6, do CC (introduzido pela Lei n.º 65/2020, de 4 de novembro) e dos arts. 34.º e 43.º do RGPTC, fundamentando o superior interesse da criança e o calendário proposto, com definição de critérios para questões escolares, médicas e de despesas extraordinárias.
 
 ## Método
 
@@ -25,7 +27,7 @@ Ficha de trabalho para preparar este documento. As regras da casa prevalecem sob
 ## Regras obrigatórias
 — Usa sempre pt-PT, NUNCA pt-BR.
 — Cita os artigos reais do CC e do RGPTC.
-— NUNCA afirmes que a residência alternada é a regra legal — é uma das opções, mas a lei exige fundamentação no interesse do menor (art. 1906.º, n.º 5 CC).
+— NUNCA afirmes que a residência alternada é a regra legal — é uma das opções, mas a lei exige que corresponda ao superior interesse da criança, ponderadas todas as circunstâncias relevantes (art. 1906.º, n.º 6, CC).
 
 ## Framework em 5 etapas:
 
@@ -40,11 +42,12 @@ Dentro de <analise_situacao>:
 
 ### ETAPA 2 — FUNDAMENTOS JURÍDICOS
 Dentro de <fundamentos_juridicos>:
-- Art. 1906.º, n.º 5 CC (Lei n.º 65/2022): residência alternada como opção explícita quando serve o superior interesse
+- Art. 1906.º, n.º 6, CC (Lei n.º 65/2020, de 4 de novembro): o tribunal pode determinar a residência alternada quando corresponder ao superior interesse da criança, independentemente de mútuo acordo e sem prejuízo da fixação de alimentos
+- Art. 1906.º, n.º 5, CC: residência e direitos de visita fixados segundo o interesse do filho, atendendo ao eventual acordo dos pais e à disponibilidade de cada um para promover relações habituais do filho com o outro
 - Art. 1906.º, n.º 1 CC: exercício conjunto das responsabilidades parentais como regra
 - Art. 4.º RGPTC: princípio da audição da criança e participação
-- Art. 44.º RGPTC: acordos sobre residência e alimentos a homologar
-- Critérios do TEDH e do TJUE quanto ao superior interesse nos regimes de residência alternada
+- Arts. 34.º, 37.º, n.º 2, e 43.º, n.º 2, RGPTC: homologação do acordo sobre o exercício das responsabilidades parentais (incluindo residência e alimentos); o art. 44.º RGPTC respeita à falta de acordo dos pais em questões de particular importância
+- Jurisprudência dos tribunais superiores portugueses e do TEDH (art. 8.º CEDH) sobre o superior interesse da criança na residência alternada [■ VERIFICAR: citar só acórdãos conferidos em dgsi.pt / HUDOC]
 
 ### ETAPA 3 — ESTRUTURA DO ACORDO/REQUERIMENTO
 Dentro de <estrutura>:
@@ -60,7 +63,7 @@ Redige o acordo completo para homologação judicial:
 
 **ACORDO SOBRE O EXERCÍCIO DAS RESPONSABILIDADES PARENTAIS — REGIME DE RESIDÊNCIA ALTERNADA**
 
-Entre [PROGENITOR A] e [PROGENITOR B], relativamente ao(s) menor(es) [NOME(S)], é celebrado o seguinte acordo, para efeitos de homologação ao abrigo do art. 44.º do RGPTC:
+Entre [PROGENITOR A] e [PROGENITOR B], relativamente ao(s) menor(es) [NOME(S)], é celebrado o seguinte acordo, para efeitos de homologação ao abrigo do art. 34.º do RGPTC (divórcio, separação judicial de pessoas e bens, declaração de nulidade ou anulação do casamento) ou do art. 43.º, n.º 2, do RGPTC (restantes casos):
 
 CLÁUSULA 1.ª — EXERCÍCIO DAS RESPONSABILIDADES PARENTAIS
 As responsabilidades parentais relativas ao(s) menor(es) são exercidas em conjunto por ambos os progenitores, nos termos do art. 1906.º, n.º 1 do Código Civil. As decisões de particular importância carecem de acordo de ambos; os atos da vida corrente são decididos pelo progenitor com quem o menor se encontra.
@@ -108,10 +111,14 @@ O(s) menor(es) residirá(ão) alternadamente com cada um dos progenitores, no se
 
 | Citação | Estado | Nota |
 |---|---|---|
-| art. 1906.º, n.º 5 CC | conferida (epígrafe) — Exercício das responsabilidades parentais em caso de divórcio, separação judicial de pesso |  |
-| Art. 1906.º, n.º 5 CC | conferida (epígrafe) — Exercício das responsabilidades parentais em caso de divórcio, separação judicial de pesso |  |
+| art. 1906.º, n.º 6, CC | conferida (epígrafe) — Exercício das responsabilidades parentais em caso de divórcio, separação judicial de pesso |  |
+| Art. 1906.º, n.º 6, CC | conferida (epígrafe) — Exercício das responsabilidades parentais em caso de divórcio, separação judicial de pesso |  |
+| Art. 1906.º, n.º 5, CC | conferida (epígrafe) — Exercício das responsabilidades parentais em caso de divórcio, separação judicial de pesso |  |
 | Art. 1906.º, n.º 1 CC | conferida (epígrafe) — Exercício das responsabilidades parentais em caso de divórcio, separação judicial de pesso |  |
 | Art. 4.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| Art. 44.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| Arts. 34.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 44.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 8.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 34.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 43.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 1906.º, n.º 1 do Código Civil | conferida (epígrafe) — Exercício das responsabilidades parentais em caso de divórcio, separação judicial de pesso |  |

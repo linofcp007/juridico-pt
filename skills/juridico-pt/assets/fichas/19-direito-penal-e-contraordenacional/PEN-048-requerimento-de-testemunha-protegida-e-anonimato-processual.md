@@ -68,7 +68,7 @@ Redige o requerimento:
 [Proposta de forma de garantir o contraditório: revelação da identidade ao juiz e ao defensor sob sigilo; direito a fazer perguntas]
 
 **V — Do Pedido**
-Termos em que se requer a adopção das medidas de proteção indicadas, nos termos dos arts. 16.º e ss. da Lei n.º 93/99.
+Termos em que se requer a adoção das medidas de proteção indicadas, nos termos dos arts. 16.º e ss. da Lei n.º 93/99.
 
 ### ETAPA 4 — CHECKLIST
 Apresenta em <checklist>:

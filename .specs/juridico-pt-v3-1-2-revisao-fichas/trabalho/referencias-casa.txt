@@ -1,12 +1,19 @@
 arrendamento.md | BNA -> BAS (art. 15.º-A NRAU, Lei 56/2023) | CONFIRMADO na PGDL
-sucessorio-internacional.md | diz que PT é parte da Convenção da Haia de 1961 e que o notário emite o CSE | revisor v2suc: PT só assinou (HCCH); CSE emitido por conservadores (e-Justice) | A CONFIRMAR
-herancas.md | "inventário obrigatório quando há menores" | revisor v2suc: mais estreito no art. 2102.º, n.º 2, CC atual | A CONFIRMAR
-imobiliario.md (l. 22-23) | direito de retenção do promitente-comprador prevalece sobre hipoteca anterior (art. 759.º, n.º 2) | revisor mimo3: DL 48/2024 alterou o art. 759.º CC para retenções constituídas depois (PGDL nid 3813) | A CONFIRMAR
-herancas.md | "Repúdio: declaração formal (notário ou tribunal)" | revisor msuc1: arts. 2063.º e 2126.º CC — sem imóveis basta documento particular | A CONFIRMAR
+sucessorio-internacional.md | diz que PT é parte da Convenção da Haia de 1961 e que o notário emite o CSE | revisor v2suc: PT só assinou (HCCH); CSE emitido por conservadores (e-Justice) | CONFIRMADO e aplicado a 2026-10-30
+herancas.md | "inventário obrigatório quando há menores" | revisor v2suc: mais estreito no art. 2102.º, n.º 2, CC atual | CONFIRMADO e aplicado a 2026-10-30
+imobiliario.md (l. 22-23) | direito de retenção do promitente-comprador prevalece sobre hipoteca anterior (art. 759.º, n.º 2) | revisor mimo3: DL 48/2024 alterou o art. 759.º CC para retenções constituídas depois (PGDL nid 3813) | CONFIRMADO e aplicado a 2026-10-30
+herancas.md | "Repúdio: declaração formal (notário ou tribunal)" | revisor msuc1: arts. 2063.º e 2126.º CC — sem imóveis basta documento particular | CONFIRMADO e aplicado a 2026-10-30
 EXTRATOR | citações sem «º» (ex.: «Art. 246 CSC») não são apanhadas pelo extrator de citações — escaparam à revisão das citações (revisor mcom1). Ver quantas há no catálogo.
-AO90 | faltam na lista ao90.json: adoptar, adopção, contra-ordenação (revisor msau1b) | A CONFIRMAR
-EPIGRAFES | CPP.json tem epígrafe para o art. 315.º (revogado pela Lei 94/2021?) — revisor mpen1a; ver se as epígrafes marcam artigos revogados | A CONFIRMAR
-multas.md | impugnação judicial de contraordenação rodoviária «20 dias úteis» | revisor mpen1b: 15 dias úteis (art. 181.º, n.º 2, al. a), Código da Estrada) | A CONFIRMAR
-licenciamento-setorial.md | falta o efeito suspensivo automático da ação contra ordem de demolição (art. 115.º RJUE) e o deferimento em 30 dias da impugnação administrativa (art. 114.º, n.º 3, RJUE, DL 108/2026) | revisor murb1a | A CONFIRMAR (acrescento, não erro)
+AO90 | faltam na lista ao90.json: adoptar, adopção, contra-ordenação (revisor msau1b) | A APLICAR depois dos revisores (ver CONTINUAR.md)
+EPIGRAFES | CPP.json tem epígrafe para o art. 315.º (revogado pela Lei 94/2021?) — revisor mpen1a; ver se as epígrafes marcam artigos revogados | CONFIRMADO e aplicado a 2026-10-30
+multas.md | impugnação judicial de contraordenação rodoviária «20 dias úteis» | revisor mpen1b: 15 dias úteis (art. 181.º, n.º 2, al. a), Código da Estrada) | CONFIRMADO e aplicado a 2026-10-30
+licenciamento-setorial.md | falta o efeito suspensivo automático da ação contra ordem de demolição (art. 115.º RJUE) e o deferimento em 30 dias da impugnação administrativa (art. 114.º, n.º 3, RJUE, DL 108/2026) | revisor murb1a | CONFIRMADO e aplicado a 2026-10-30
 AO90 | também falta accionista→acionista (revisor mban2a). ATENÇÃO: ao alargar o ao90.json, normalizar também os «de»/«para» das correções (juntar.mjs), senão os trechos deixam de casar
-bancario.md | não refere as versões novas do DL 74-A/2017 (DL 103/2025, Lei 14/2026) nem da LCS (DL 79/2026) | revisor mban2b | A CONFIRMAR (atualidade)
+bancario.md | não refere as versões novas do DL 74-A/2017 (DL 103/2025, Lei 14/2026) nem da LCS (DL 79/2026) | revisor mban2b | CONFIRMADO e aplicado a 2026-10-30
+ATUALIZADO 2026-10-30 | as fontes de cada edição estão no relatório do revisor das referências (sessão 98fc68b8); também insolvencia.md (l. 31), playbooks/comprar-imovel.md (l. 29) e a INS-011 (revisao-mins1.json) repetiam a regra antiga do art. 759.º CC
+FONTES 2026-10-30 | multas.md: art. 175.º, n.º 2, e 181.º, n.º 2, al. a), Código da Estrada — https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=349A0181&nid=349&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&
+FONTES 2026-10-30 | art. 759.º CC (DL 48/2024, art. 3.º transitório) — https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0759&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=& e https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3813&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=
+FONTES 2026-10-30 | Haia 1961 (forma dos testamentos): PT só assinou — https://www.hcch.net/en/instruments/conventions/status-table/?cid=40 ; CSE: conservadores (arts. 210.º-A a 210.º-R CRCivil) — https://e-justice.europa.eu/topics/taking-legal-action/european-judicial-atlas-civil-matters/succession/pt_en?member=1 ; notários desde 19/8/2024 — https://notarios.pt/noticias/certificado-sucessorio-europeu-ja-disponivel-em-cartorios-notariais
+FONTES 2026-10-30 | arts. 2102.º, 1889.º, 2063.º, 2126.º, 2066.º CC (PGDL nid 775) e DL 272/2001, art. 2.º (PGDL nid 581)
+FONTES 2026-10-30 | arts. 114.º, n.º 3, e 115.º RJUE (DL 108/2026) — https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=625A0114&nid=625&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&
+FONTES 2026-10-30 | DL 74-A/2017 (PGDL nid 2842), DL 103/2025 (nid 3946), Lei 14/2026 — https://diariodarepublica.pt/dr/detalhe/lei/14-2026-1092323202 ; DL 79/2026 — https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2026-1073088591

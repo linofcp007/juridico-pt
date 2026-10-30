@@ -29,7 +29,7 @@ Redigir requerimento em processo de promoção e proteção de menor, nos termos
 — NUNCA inventes factos, relatórios ou decisões.
 — Marca [■ VERIFICAR: o que precisa de ser confirmado].
 — O superior interesse da criança (art. 4.º Lei 147/99) é o critério central de toda a argumentação.
-— Distingue: medidas em meio natural de vida (apoio junto dos pais; apoio junto de outro familiar; confiança a pessoa idónea) vs. medidas de colocação (acolhimento familiar; acolhimento residencial; confiança a pessoa seleccionada para adopção).
+— Distingue: medidas em meio natural de vida (apoio junto dos pais; apoio junto de outro familiar; confiança a pessoa idónea) vs. medidas de colocação (acolhimento familiar; acolhimento residencial; confiança a pessoa selecionada para adoção).
 — Usa português europeu.
 
 ---

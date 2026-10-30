@@ -3,10 +3,11 @@ codigo: DIG-011
 area: "Proteção de Dados e Direito Digital"
 titulo: "Comunicação de Violação de Dados aos Titulares Afetados"
 titulo_en: "Communication of a Data Breach to Affected Data Subjects"
-descricao: "Gera a comunicação de violação de dados pessoais aos titulares afetados conforme ao artigo 34.º do RGPD, com linguagem clara, informação completa sobre o incidente e medidas práticas que os titulares podem adoptar para protegerem-se."
+descricao: "Gera a comunicação de violação de dados pessoais aos titulares afetados conforme ao artigo 34.º do RGPD, com linguagem clara, informação completa sobre o incidente e medidas práticas que os titulares podem adotar para protegerem-se."
 descricao_en: "Generates the communication of a personal data breach to the affected data subjects under Article 34 of the GDPR, in clear language, with complete information about the incident and practical measures that data subjects can take to protect themselves."
 ambito: nacional
-estado_citacoes: "conferidas 2 · corrigidas 0 · por conferir 5"
+estado_citacoes: "conferidas 12 · corrigidas 0 · por conferir 3"
+revisao_tecnica: "2026-10-30 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
@@ -14,9 +15,10 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 
 > **Âmbito:** nacional · **Área:** Proteção de Dados e Direito Digital · **Código:** DIG-011
 > **EN:** Communication of a Data Breach to Affected Data Subjects. Generates the communication of a personal data breach to the affected data subjects under Article 34 of the GDPR, in clear language, with complete information about the incident and practical measures that data subjects can take to protect themselves.
-> **Citações:** conferidas 2 · corrigidas 0 · por conferir 5. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 12 · corrigidas 0 · por conferir 3. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-30 — corrigida (5 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
-Gera a comunicação de violação de dados pessoais aos titulares afetados conforme ao artigo 34.º do RGPD, com linguagem clara, informação completa sobre o incidente e medidas práticas que os titulares podem adoptar para protegerem-se.
+Gera a comunicação de violação de dados pessoais aos titulares afetados conforme ao artigo 34.º do RGPD, com linguagem clara, informação completa sobre o incidente e medidas práticas que os titulares podem adotar para protegerem-se.
 
 ## Método
 
@@ -44,18 +46,18 @@ Apresenta dentro de um bloco <analise_impacto>:
 
 ### ETAPA 2 — ANÁLISE JURÍDICA (Requisitos do Art. 34.º RGPD)
 Apresenta dentro de um bloco <fundamentos_juridicos>:
-- Art. 34.º, n.º 1: critério — "risco elevado para os direitos e liberdades"
-- Art. 34.º, n.º 2: conteúdo mínimo obrigatório:
-  (a) Natureza da violação
-  (b) Contactos do EPD ou outro ponto de contacto
-  (c) Provável consequências da violação
-  (d) Medidas adoptadas pelo responsável para remediar
+- Art. 34.º, n.º 1 RGPD: critério — violação "suscetível de implicar um elevado risco para os direitos e liberdades das pessoas singulares"; a comunicação é feita "sem demora injustificada"
+- Art. 34.º, n.º 2 RGPD: conteúdo mínimo obrigatório, em linguagem clara e simples:
+  (i) Natureza da violação
+  (ii) Nome e contactos do EPD ou de outro ponto de contacto (art. 33.º, n.º 3, al. b), RGPD)
+  (iii) Consequências prováveis da violação (art. 33.º, n.º 3, al. c), RGPD)
+  (iv) Medidas adotadas ou propostas pelo responsável para reparar a violação e, se for caso disso, atenuar os seus eventuais efeitos negativos (art. 33.º, n.º 3, al. d), RGPD)
 - Art. 34.º, n.º 3: exceções à comunicação:
   * Dados protegidos por cifração adequada
   * Medidas subsequentes que eliminem o risco elevado
   * Comunicação individual desproporcionada → comunicação pública
 - Art. 34.º, n.º 4: CNPD pode ordenar a comunicação
-- Direito nacional (Lei n.º 58/2019): eventuais requisitos adicionais
+- Direito nacional: a Lei n.º 58/2019 não acrescenta requisitos de conteúdo, mas o incumprimento do dever de informar o titular nas situações do art. 34.º RGPD é contraordenação grave (art. 38.º, n.º 1, al. k), da Lei n.º 58/2019) [■ VERIFICAR: deveres de notificação setoriais aplicáveis ao caso, p. ex. comunicações eletrónicas (Lei n.º 41/2004) ou cibersegurança (DL n.º 125/2025)]
 
 ### ETAPA 3 — CONSTRUÇÃO (Tipo e Canal de Comunicação)
 Define em <estrutura_comunicacao>:
@@ -122,7 +124,7 @@ Pode também contactar o nosso Encarregado de Proteção de Dados (EPD): [nome, 
 **RECLAMAÇÃO À CNPD**
 Tem o direito de apresentar reclamação à Comissão Nacional de Proteção de Dados:
 — Website: www.cnpd.pt
-— Endereço: Rua de São Bento, 148-3º, 1200-821 Lisboa
+— Endereço: Av. D. Carlos I, 134, 1.º, 1200-651 Lisboa
 
 Lamentamos sinceramente este incidente e os transtornos que possa causar. Estamos empenhados em resolver a situação com a máxima brevidade e em reforçar as medidas de segurança para prevenir ocorrências semelhantes.
 
@@ -142,10 +144,10 @@ URL permanente: [empresa.pt/aviso-seguranca-[data]]
 
 ### ETAPA 5 — VALIDAÇÃO
 Apresenta dentro de um bloco <checklist_validacao>:
-- [ ] Natureza da violação descrita de forma clara (art. 34.º, n.º 2, al. a))
-- [ ] Contactos do EPD ou ponto de contacto incluídos (al. b))
-- [ ] Consequências prováveis para o titular descritas de forma concreta (al. c))
-- [ ] Medidas adoptadas pelo responsável indicadas (al. d))
+- [ ] Natureza da violação descrita em linguagem clara e simples (art. 34.º, n.º 2, RGPD)
+- [ ] Nome e contactos do EPD ou de outro ponto de contacto incluídos (art. 33.º, n.º 3, al. b), RGPD)
+- [ ] Consequências prováveis para o titular descritas de forma concreta (art. 33.º, n.º 3, al. c), RGPD)
+- [ ] Medidas adotadas ou propostas pelo responsável indicadas, incluindo as de atenuação (art. 33.º, n.º 3, al. d), RGPD)
 - [ ] Ações concretas recomendadas ao titular (boa prática)
 - [ ] Linguagem clara e acessível (sem juridiquês excessivo)
 - [ ] Canal de contacto disponibilizado
@@ -177,7 +179,7 @@ Apresenta dentro de um bloco <checklist_validacao>:
 - Tipo de dano provável: [fraude / exposição de saúde / roubo de identidade / outro]
 - Nível de risco: [elevado — se não fosse elevado, esta comunicação não seria necessária]
 
-**MEDIDAS JÁ ADOPTADAS:**
+**MEDIDAS JÁ ADOTADAS:**
 [Listar ações concretas já executadas]
 
 **CANAL DE ENVIO:**
@@ -196,7 +198,15 @@ Apresenta dentro de um bloco <checklist_validacao>:
 | Art. 34.º RGPD | conferida (epígrafe) — Comunicação de uma violação de dados pessoais ao titular dos dados |  |
 | Art. 34.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | Art. 34.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| Art. 34.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| Art. 34.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| Art. 34.º, n.º 1 RGPD | conferida (epígrafe) — Comunicação de uma violação de dados pessoais ao titular dos dados |  |
+| Art. 34.º, n.º 2 RGPD | conferida (epígrafe) — Comunicação de uma violação de dados pessoais ao titular dos dados |  |
+| art. 33.º, n.º 3, al. b), RGPD | conferida (epígrafe) — Notificação de uma violação de dados pessoais à autoridade de controlo |  |
+| art. 33.º, n.º 3, al. b), RGPD | conferida (epígrafe) — Notificação de uma violação de dados pessoais à autoridade de controlo |  |
+| art. 33.º, n.º 3, al. c), RGPD | conferida (epígrafe) — Notificação de uma violação de dados pessoais à autoridade de controlo |  |
+| art. 33.º, n.º 3, al. c), RGPD | conferida (epígrafe) — Notificação de uma violação de dados pessoais à autoridade de controlo |  |
+| art. 33.º, n.º 3, al. d), RGPD | conferida (epígrafe) — Notificação de uma violação de dados pessoais à autoridade de controlo |  |
+| art. 33.º, n.º 3, al. d), RGPD | conferida (epígrafe) — Notificação de uma violação de dados pessoais à autoridade de controlo |  |
+| art. 34.º RGPD | conferida (epígrafe) — Comunicação de uma violação de dados pessoais ao titular dos dados |  |
+| art. 38.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 34.º, n.º 3, al. c) RGPD | conferida (epígrafe) — Comunicação de uma violação de dados pessoais ao titular dos dados |  |
-| art. 34.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 34.º, n.º 2, RGPD | conferida (epígrafe) — Comunicação de uma violação de dados pessoais ao titular dos dados |  |

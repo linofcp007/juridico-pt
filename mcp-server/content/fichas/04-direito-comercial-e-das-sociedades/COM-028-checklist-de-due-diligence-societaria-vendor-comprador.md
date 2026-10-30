@@ -6,7 +6,8 @@ titulo_en: "Corporate Due Diligence Checklist (Vendor / Buyer)"
 descricao: "Gera um checklist completo de due diligence jurídica para operações de M&A, cobrindo as áreas societária, contratual, laboral, fiscal, imobiliária, litígios, propriedade intelectual e ambiental, com distinção entre vendor due diligence (preparação do vendedor) e buyer due diligence (análise pelo comprador)."
 descricao_en: "Generates a comprehensive legal due diligence checklist for M&A transactions, covering corporate, contractual, employment, tax, real estate, litigation, intellectual property and environmental matters, distinguishing vendor due diligence (preparation by the seller) from buyer due diligence (review by the purchaser)."
 ambito: nacional
-estado_citacoes: "sem citações"
+estado_citacoes: "conferidas 2 · corrigidas 0 · por conferir 0"
+revisao_tecnica: "2026-10-30 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
@@ -14,7 +15,8 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 
 > **Âmbito:** nacional · **Área:** Direito Comercial e das Sociedades · **Código:** COM-028
 > **EN:** Corporate Due Diligence Checklist (Vendor / Buyer). Generates a comprehensive legal due diligence checklist for M&A transactions, covering corporate, contractual, employment, tax, real estate, litigation, intellectual property and environmental matters, distinguishing vendor due diligence (preparation by the seller) from buyer due diligence (review by the purchaser).
-> **Citações:** sem citações. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 2 · corrigidas 0 · por conferir 0. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-30 — corrigida (5 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
 Gera um checklist completo de due diligence jurídica para operações de M&A, cobrindo as áreas societária, contratual, laboral, fiscal, imobiliária, litígios, propriedade intelectual e ambiental, com distinção entre vendor due diligence (preparação do vendedor) e buyer due diligence (análise pelo comprador).
 
@@ -46,10 +48,10 @@ Analise em <analise_do_caso>:
 Identifique em <fundamentos_juridicos>:
 - CSC — estrutura societária, órgãos, capital social, participações
 - Código do Trabalho — contratos de trabalho, instrumentos de regulação coletiva
-- Código Fiscal — IRC, IVA, IRS retenções, impostos locais (IMI, IMT)
-- Código do Arrendamento Urbano / NRAU — se imóveis arrendados
+- Códigos tributários — CIRC, CIVA, CIRS (retenções na fonte), CIMI e CIMT; LGT (caducidade do direito à liquidação, em regra quatro anos, e responsabilidade subsidiária dos gerentes e administradores — arts. 45.º e 24.º LGT)
+- Código Civil (arrendamento urbano) e NRAU (Lei n.º 6/2006, de 27 de fevereiro) — se imóveis arrendados
 - Código da Propriedade Industrial — marcas, patentes, licenças
-- Lei 99/2017 — segredos de negócio
+- Arts. 313.º a 315.º CPI — segredos comerciais (Decreto-Lei n.º 110/2018, que transpôs a Diretiva (UE) 2016/943)
 - RGPD — dados pessoais e política de privacidade
 - [■ VERIFICAR: legislação setorial específica]
 
@@ -76,7 +78,7 @@ Elabore o documento completo:
 | # | Item | Documentos requeridos | Status |
 |---|---|---|---|
 | 1.1 | Pacto social/estatutos atualizados e todas as alterações | Cópia do CRCom + histórico de alterações | [ ] |
-| 1.2 | Estrutura de capital: quotas/ações, titulares, percentagens | Extrato CRCom ou registo accionista | [ ] |
+| 1.2 | Estrutura de capital: quotas/ações, titulares, percentagens | Extrato CRCom ou registo acionista | [ ] |
 | 1.3 | Acordos parassociais ou parassociais vigentes | Contratos firmados | [ ] |
 | 1.4 | Atas das assembleias gerais dos últimos 3 anos | Livro de atas | [ ] |
 | 1.5 | Designação atual dos órgãos sociais e poderes de representação | Certidão CRCom atualizada | [ ] |
@@ -105,7 +107,7 @@ Elabore o documento completo:
 |---|---|---|---|
 | 3.1 | Lista de todos os trabalhadores com categoria, salário e antiguidade | Mapa de pessoal | [ ] |
 | 3.2 | Contratos de trabalho ou modelos standard utilizados | Modelos + contratos individuais | [ ] |
-| 3.3 | Instrumento de regulação coletiva aplicável (CCT / Portaria) | Identificar IRC vigente | [ ] |
+| 3.3 | Instrumento de regulamentação coletiva de trabalho aplicável (convenção coletiva, acordo de adesão, decisão arbitral, portaria de extensão ou de condições de trabalho — art. 2.º CT) | Identificar o IRCT vigente | [ ] |
 | 3.4 | Obrigações de SHST: acidentes de trabalho dos últimos 3 anos | Registos ACT, relatórios | [ ] |
 | 3.5 | Processos disciplinares e litígios laborais pendentes | Lista com estado | [ ] |
 | 3.6 | Trabalhadores em situação especial: baixa, maternidade, insolvência | Lista | [ ] |
@@ -124,7 +126,7 @@ Elabore o documento completo:
 | 4.5 | Benefícios fiscais, SIFIDE, incentivos | Documentação de aprovação | [ ] |
 | 4.6 | Preços de transferência (se grupo de empresas) | Documentação de suporte | [ ] |
 | 4.7 | Contingências fiscais identificadas pela empresa | Nota explicativa | [ ] |
-| 4.8 | IRS retenções na fonte — obrigações cumpridas | Declarações modelo 10 | [ ] |
+| 4.8 | IRS retenções na fonte — obrigações cumpridas | Declarações mensais de remunerações (trabalho dependente) e declaração anual modelo 10 (restantes rendimentos) — art. 119.º, n.º 1, alínea c), CIRS | [ ] |
 
 ---
 
@@ -219,3 +221,10 @@ Apresente em <checklist_validacao>:
 
 **OBSERVAÇÕES:**
 [atividade regulada, imóveis relevantes, litígios conhecidos, base de dados de clientes]
+
+## Citações desta ficha
+
+| Citação | Estado | Nota |
+|---|---|---|
+| arts. 45.º e 24.º LGT | conferida (epígrafe) — Caducidade do direito à liquidação |  |
+| Arts. 313.º a 315.º CPI | conferida (epígrafe) — Objeto de proteção |  |

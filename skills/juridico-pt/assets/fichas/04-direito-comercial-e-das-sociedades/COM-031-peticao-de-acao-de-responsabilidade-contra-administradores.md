@@ -6,7 +6,7 @@ titulo_en: "Statement of Claim in a Liability Action against Directors"
 descricao: "Gera uma petição inicial para ação de responsabilidade civil contra gerentes ou administradores de sociedades comerciais, fundada nos arts. 72.º a 79.º do CSC, com pedido de indemnização pelos danos causados à sociedade, aos sócios ou a terceiros credores."
 descricao_en: "Generates a statement of claim (petição inicial) for a civil liability action against managers or directors of commercial companies, based on Articles 72 to 79 CSC, seeking compensation for the damage caused to the company, the members or third-party creditors."
 ambito: nacional
-estado_citacoes: "conferidas 16 · corrigidas 1 · por conferir 4"
+estado_citacoes: "conferidas 21 · corrigidas 1 · por conferir 10"
 revisao_tecnica: "2026-10-28 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
@@ -15,7 +15,7 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 
 > **Âmbito:** nacional · **Área:** Direito Comercial e das Sociedades · **Código:** COM-031
 > **EN:** Statement of Claim in a Liability Action against Directors. Generates a statement of claim (petição inicial) for a civil liability action against managers or directors of commercial companies, based on Articles 72 to 79 CSC, seeking compensation for the damage caused to the company, the members or third-party creditors.
-> **Citações:** conferidas 16 · corrigidas 1 · por conferir 4. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 21 · corrigidas 1 · por conferir 10. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
 > **Revisão técnica:** 2026-10-28 — corrigida (9 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
 Gera uma petição inicial para ação de responsabilidade civil contra gerentes ou administradores de sociedades comerciais, fundada nos arts. 72.º a 79.º do CSC, com pedido de indemnização pelos danos causados à sociedade, aos sócios ou a terceiros credores.
@@ -196,12 +196,22 @@ Apresente em <checklist_validacao>:
 | art. 77.º CSC | conferida (epígrafe) — Ação de responsabilidade proposta por sócios |  |
 | art. 78.º CSC | conferida (epígrafe) — Responsabilidade para com os credores sociais |  |
 | art. 79.º CSC | conferida (epígrafe) — Responsabilidade para com os sócios e terceiros |  |
+| art. 75 CSC | por conferir [■ VERIFICAR] | o assunto descrito não coincide com a epígrafe; confirmar |
+| art. 79 CSC | por conferir [■ VERIFICAR] | o assunto descrito não coincide com a epígrafe; confirmar |
+| art. 79 CSC | por conferir [■ VERIFICAR] | o assunto descrito não coincide com a epígrafe; confirmar |
+| art. 78 CSC | conferida (epígrafe) — Responsabilidade para com os credores sociais |  |
 | art. 174.º, n.º 1, al. b), CSC | conferida (epígrafe) — Prescrição |  |
 | art. 128.º, n.º 1, al. c), da LOSJ | por conferir [■ VERIFICAR] | diploma sem epígrafes locais |
 | art. 117.º, n.º 1, al. a), da LOSJ | por conferir [■ VERIFICAR] | diploma sem epígrafes locais |
 | art. 128.º, n.º 1, da LOSJ | por conferir [■ VERIFICAR] | diploma sem epígrafes locais |
+| Art. 64 CSC | por conferir [■ VERIFICAR] | o assunto descrito não coincide com a epígrafe; confirmar |
+| Art. 73 CSC | conferida (epígrafe) — Solidariedade na responsabilidade |  |
 | Art. 75.º CSC | conferida (epígrafe) — Ação da sociedade |  |
 | Art. 77.º CSC | conferida (epígrafe) — Ação de responsabilidade proposta por sócios |  |
+| Art. 78 CSC | por conferir [■ VERIFICAR] | o assunto descrito não coincide com a epígrafe; confirmar |
+| Art. 79 CSC | conferida (epígrafe) — Responsabilidade para com os sócios e terceiros |  |
+| Art. 483 CC | conferida (índice) |  |
+| Art. 564 CC | por conferir [■ VERIFICAR] | o assunto descrito não coincide com a epígrafe; confirmar |
 | arts. 75.º e 77.º CSC | conferida (epígrafe) — Ação da sociedade |  |
 | arts. 75.º e 77.º CSC | conferida (epígrafe) — Ação da sociedade |  |
 | art. 64.º do CSC | conferida (epígrafe) — Deveres fundamentais |  |
@@ -212,4 +222,5 @@ Apresente em <checklist_validacao>:
 | art. 79.º do CSC | conferida (epígrafe) — Responsabilidade para com os sócios e terceiros |  |
 | art. 296.º do CPC | conferida (índice) |  |
 | arts. 75.º, 77.º, 78.º ou 79.º CSC | conferida (epígrafe) — Ação da sociedade |  |
+| art. 174 CSC | conferida (epígrafe) — Prescrição |  |
 | arts. 117.º e 128.º da LOSJ | por conferir [■ VERIFICAR] | diploma sem epígrafes locais |

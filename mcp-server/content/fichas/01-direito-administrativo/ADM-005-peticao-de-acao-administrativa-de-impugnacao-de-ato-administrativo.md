@@ -3,20 +3,22 @@ codigo: ADM-005
 area: "Direito Administrativo"
 titulo: "Petição de Ação Administrativa de Impugnação de Ato Administrativo"
 titulo_en: "Statement of Claim in an Administrative Action Challenging an Administrative Act"
-descricao: "Gera a petição inicial da ação administrativa especial de impugnação de ato administrativo nos tribunais administrativos, com endereçamento, legitimidade, tempestividade, exposição dos factos, fundamentação dos vícios e pedido de anulação ou declaração de nulidade, ao abrigo do CPTA."
-descricao_en: "Generates the statement of claim in the special administrative action challenging an administrative act before the administrative courts, covering the court addressed, standing, timeliness, the facts, the grounds of invalidity and a request for annulment or a declaration of nullity, under the CPTA."
+descricao: "Gera a petição inicial da ação administrativa de impugnação de ato administrativo nos tribunais administrativos, com endereçamento, legitimidade, tempestividade, exposição dos factos, fundamentação dos vícios e pedido de anulação ou declaração de nulidade, ao abrigo do CPTA."
+descricao_en: "Generates the statement of claim in the administrative action challenging an administrative act before the administrative courts, covering the court addressed, standing, timeliness, the facts, the grounds of invalidity and a request for annulment or a declaration of nullity, under the CPTA."
 ambito: nacional
-estado_citacoes: "conferidas 11 · corrigidas 0 · por conferir 2"
+estado_citacoes: "conferidas 16 · corrigidas 0 · por conferir 2"
+revisao_tecnica: "2026-10-30 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
 # Petição de Ação Administrativa de Impugnação de Ato Administrativo
 
 > **Âmbito:** nacional · **Área:** Direito Administrativo · **Código:** ADM-005
-> **EN:** Statement of Claim in an Administrative Action Challenging an Administrative Act. Generates the statement of claim in the special administrative action challenging an administrative act before the administrative courts, covering the court addressed, standing, timeliness, the facts, the grounds of invalidity and a request for annulment or a declaration of nullity, under the CPTA.
-> **Citações:** conferidas 11 · corrigidas 0 · por conferir 2. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **EN:** Statement of Claim in an Administrative Action Challenging an Administrative Act. Generates the statement of claim in the administrative action challenging an administrative act before the administrative courts, covering the court addressed, standing, timeliness, the facts, the grounds of invalidity and a request for annulment or a declaration of nullity, under the CPTA.
+> **Citações:** conferidas 16 · corrigidas 0 · por conferir 2. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-30 — corrigida (5 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
-Gera a petição inicial da ação administrativa especial de impugnação de ato administrativo nos tribunais administrativos, com endereçamento, legitimidade, tempestividade, exposição dos factos, fundamentação dos vícios e pedido de anulação ou declaração de nulidade, ao abrigo do CPTA.
+Gera a petição inicial da ação administrativa de impugnação de ato administrativo nos tribunais administrativos, com endereçamento, legitimidade, tempestividade, exposição dos factos, fundamentação dos vícios e pedido de anulação ou declaração de nulidade, ao abrigo do CPTA.
 
 ## Método
 
@@ -41,7 +43,7 @@ Apresenta dentro de um bloco <analise_do_caso>:
 - Qual o vício principal que afeta o ato?
 - O ato é nulo (art. 161.º CPA) ou apenas anulável (art. 163.º CPA)?
 - Qual o prazo de impugnação? Está em curso?
-- Houve impugnação graciosa prévia? Interrompeu o prazo?
+- Houve impugnação administrativa prévia (reclamação ou recurso)? Suspendeu o prazo de impugnação contenciosa (art. 59.º, n.º 4, CPTA)?
 - Qual o tribunal competente?
 - Quem tem legitimidade ativa e passiva?
 - Informações em falta — [■ VERIFICAR]
@@ -61,27 +63,27 @@ Apresenta dentro de um bloco <estrategia>:
 - Vício principal de legalidade (mais forte primeiro)
 - Vícios subsidiários
 - Causa de pedir e pedido de anulação / declaração de nulidade
-- Se aplicável: pedido de condenação em reconstituição da situação ou em forma de omissão
+- Se aplicável: pedidos cumulados de condenação da Administração ao restabelecimento da situação que existiria se o ato não tivesse sido praticado, à prática do ato legalmente devido ou à reparação dos danos (art. 4.º, n.º 2, als. a), c) e f), CPTA)
 
 ### ETAPA 4 — EXPOSIÇÃO ESTRUTURADA (A Petição)
 Redige a petição inicial completa nesta estrutura:
 
 **1. ENDEREÇAMENTO**
-Exmo. Sr. Juiz Presidente do Tribunal Administrativo de Círculo de [Comarca]
+Exmo. Sr. Juiz Presidente do Tribunal Administrativo de Círculo de [sede do tribunal da área da residência habitual ou da sede do autor — art. 16.º CPTA, salvo as regras especiais dos artigos seguintes]
 
 **2. IDENTIFICAÇÃO DO AUTOR**
 [Nome], [qualidade], NIF n.º [número], com domicílio/sede em [morada], representado pelo advogado [nome], inscrito na Ordem dos Advogados sob o n.º [número], com domicílio profissional em [endereço], vem intentar a presente:
 
 AÇÃO ADMINISTRATIVA DE IMPUGNAÇÃO DE ATO ADMINISTRATIVO
 
-contra o [Estado Português / entidade pública], representado pela [entidade], com sede em [morada], nos seguintes termos:
+contra [a pessoa coletiva de direito público demandada ou, nos processos contra o Estado relativos a atos de órgãos integrados num ministério, o Ministério a cujos órgãos o ato é imputável — art. 10.º, n.º 2, CPTA], com sede em [morada], nos seguintes termos:
 
 **3. DO ATO IMPUGNADO**
 Identificação precisa: quem praticou, quando, referência e conteúdo.
 
 **4. DA LEGITIMIDADE E TEMPESTIVIDADE**
 - Legitimidade ativa (art. 55.º CPTA)
-- Legitimidade passiva (art. 10.º CPTA)
+- Legitimidade passiva (art. 10.º CPTA) e contrainteressados, que são obrigatoriamente demandados (art. 57.º CPTA)
 - Tempestividade (art. 58.º CPTA — 3 meses; ou nulidade — sem prazo)
 
 **5. DOS FACTOS**
@@ -169,11 +171,16 @@ Apresenta dentro de um bloco <checklist_validacao>:
 | art. 161.º CPA | conferida (epígrafe) — Atos nulos |  |
 | art. 161.º CPA | conferida (epígrafe) — Atos nulos |  |
 | art. 44.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 59.º, n.º 4, CPTA | conferida (epígrafe) — Início dos prazos de impugnação |  |
 | Arts. 37.º, 50.º a 58.º do CPTA | conferida (epígrafe) — Objeto |  |
 | Arts. 44.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | Arts. 161.º a 163.º do CPA | conferida (epígrafe) — Atos nulos |  |
 | Arts. 163.º a 176.º do CPA | conferida (epígrafe) — Atos anuláveis e regime da anulabilidade |  |
+| art. 4.º, n.º 2, als. a), c) e f), CPTA | conferida (epígrafe) — Cumulação de pedidos |  |
+| art. 16.º CPTA | conferida (epígrafe) — Regra geral |  |
+| art. 10.º, n.º 2, CPTA | conferida (epígrafe) — Legitimidade passiva |  |
 | art. 55.º CPTA | conferida (epígrafe) — Legitimidade ativa |  |
 | art. 10.º CPTA | conferida (epígrafe) — Legitimidade passiva |  |
+| art. 57.º CPTA | conferida (epígrafe) — Contrainteressados |  |
 | art. 58.º CPTA | conferida (epígrafe) — Prazos |  |
 | arts. 55.º e 10.º CPTA | conferida (epígrafe) — Legitimidade ativa |  |

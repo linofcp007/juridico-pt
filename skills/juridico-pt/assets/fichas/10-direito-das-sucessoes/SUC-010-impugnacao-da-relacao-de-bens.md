@@ -48,7 +48,7 @@ Apresenta dentro de um bloco <analise_do_caso>:
 ### ETAPA 2 — ANÁLISE JURÍDICA (Fundamentação)
 Apresenta dentro de um bloco <fundamentos_juridicos>:
 - Reclamação contra a relação de bens: art. 1104.º, n.º 1, al. d), CPC — no prazo de 30 dias a contar da citação (para o requerente do inventário e o cabeça-de-casal, nos termos do n.º 2); resposta em 30 dias e provas indicadas com os requerimentos e respostas (art. 1105.º, n.os 1 e 2, CPC)
-- Sonegação de bens: art. 2096.º CC — sanção: o herdeiro que oculte dolosamente bens da herança perde, em benefício dos co-herdeiros, o direito que possa ter a qualquer parte deles; a alegação é apreciada no inventário, conjuntamente com a acusação da falta de bens relacionados (art. 1105.º, n.º 4, CPC)
+- Sonegação de bens: art. 2096.º CC — sanção: o herdeiro que oculte dolosamente bens da herança perde, em benefício dos coerdeiros, o direito que possa ter a qualquer parte deles; a alegação é apreciada no inventário, conjuntamente com a acusação da falta de bens relacionados (art. 1105.º, n.º 4, CPC)
 - Obrigação de relacionar todos os bens (art. 1097.º, n.º 3, al. c), CPC): o cabeça-de-casal que dolosamente oculte bens da herança pode ser removido (art. 2086.º, n.º 1, al. a), CC), sem prejuízo da sanção da sonegação e das demais que no caso couberem
 - Avaliação dos bens: até à abertura das licitações, qualquer interessado pode requerer a avaliação, indicando os bens e as razões da não aceitação do valor atribuído (art. 1114.º CPC); na relação, os imóveis figuram pelo valor tributável (art. 1098.º, n.º 1, al. a), CPC)
 - Dever de prestar contas do cabeça-de-casal: anualmente (art. 2093.º CC); no inventário, o cabeça-de-casal que não o tenha requerido deve, nos 30 dias seguintes à citação, apresentar ou completar a relação de bens (art. 1102.º, n.º 1, al. b), CPC)
@@ -78,7 +78,7 @@ pelos seguintes fundamentos:
 
 O cabeça-de-casal omitiu da relação de bens [descrição do bem omitido].
 Este bem integra o ativo hereditário porque: [fundamento — escritura, extrato, registo].
-A omissão pode configurar sonegação de bens nos termos do art. 2096.º CC, se a ocultação for dolosa, com a consequente perda, em benefício dos co-herdeiros, do direito que o cabeça-de-casal, sendo herdeiro, possa ter sobre o bem sonegado (art. 1105.º, n.º 4, CPC).
+A omissão pode configurar sonegação de bens nos termos do art. 2096.º CC, se a ocultação for dolosa, com a consequente perda, em benefício dos coerdeiros, do direito que o cabeça-de-casal, sendo herdeiro, possa ter sobre o bem sonegado (art. 1105.º, n.º 4, CPC).
 
 **2. Erro no Valor da Verba n.º [número]**
 

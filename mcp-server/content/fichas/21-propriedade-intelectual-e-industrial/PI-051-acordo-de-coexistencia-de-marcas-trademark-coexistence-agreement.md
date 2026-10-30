@@ -3,20 +3,22 @@ codigo: PI-051
 area: "Propriedade Intelectual e Industrial"
 titulo: "Acordo de Coexistência de Marcas (Trademark Coexistence Agreement)"
 titulo_en: "Trade Mark Coexistence Agreement (Delimitation of Use)"
-descricao: "Elabora um acordo de coexistência entre titulares de marcas semelhantes para delimitar os respetivos âmbitos de uso, evitar litígios e permitir o registo de ambas as marcas, ao abrigo do artigo 235.º-A do CPI (DL n.º 110/2018) e do regime geral dos contratos."
-descricao_en: "Prepares a coexistence agreement between owners of similar trade marks to delimit their respective scopes of use, avoid disputes and allow both marks to be registered, under Article 235-A of the CPI (Decree-Law No. 110/2018) and the general law of contracts."
+descricao: "Elabora um acordo de coexistência entre titulares de marcas semelhantes para delimitar os respetivos âmbitos de uso, evitar litígios e permitir o registo de ambas as marcas, com a declaração de consentimento prevista no artigo 236.º do CPI (DL n.º 110/2018) e ao abrigo do regime geral dos contratos."
+descricao_en: "Prepares a coexistence agreement between owners of similar trade marks to delimit their respective scopes of use, avoid disputes and allow both marks to be registered, with the declaration of consent provided for in Article 236 of the CPI (Decree-Law No. 110/2018) and under the general law of contracts."
 ambito: nacional
-estado_citacoes: "conferidas 1 · corrigidas 0 · por conferir 0"
+estado_citacoes: "conferidas 6 · corrigidas 0 · por conferir 3"
+revisao_tecnica: "2026-10-30 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
 # Acordo de Coexistência de Marcas (Trademark Coexistence Agreement)
 
 > **Âmbito:** nacional · **Área:** Propriedade Intelectual e Industrial · **Código:** PI-051
-> **EN:** Trade Mark Coexistence Agreement (Delimitation of Use). Prepares a coexistence agreement between owners of similar trade marks to delimit their respective scopes of use, avoid disputes and allow both marks to be registered, under Article 235-A of the CPI (Decree-Law No. 110/2018) and the general law of contracts.
-> **Citações:** conferidas 1 · corrigidas 0 · por conferir 0. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **EN:** Trade Mark Coexistence Agreement (Delimitation of Use). Prepares a coexistence agreement between owners of similar trade marks to delimit their respective scopes of use, avoid disputes and allow both marks to be registered, with the declaration of consent provided for in Article 236 of the CPI (Decree-Law No. 110/2018) and under the general law of contracts.
+> **Citações:** conferidas 6 · corrigidas 0 · por conferir 3. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-30 — corrigida (4 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
-Elabora um acordo de coexistência entre titulares de marcas semelhantes para delimitar os respetivos âmbitos de uso, evitar litígios e permitir o registo de ambas as marcas, ao abrigo do artigo 235.º-A do CPI (DL n.º 110/2018) e do regime geral dos contratos.
+Elabora um acordo de coexistência entre titulares de marcas semelhantes para delimitar os respetivos âmbitos de uso, evitar litígios e permitir o registo de ambas as marcas, com a declaração de consentimento prevista no artigo 236.º do CPI (DL n.º 110/2018) e ao abrigo do regime geral dos contratos.
 
 ## Método
 
@@ -24,7 +26,7 @@ Ficha de trabalho para preparar este documento. As regras da casa prevalecem sob
 
 ## Regras obrigatórias
 — Cita os artigos reais do CPI (DL n.º 110/2018) e, quando aplicável, do RMUE.
-— Alerta para o risco de o acordo de coexistência não vincular o INPI ou o EUIPO (que preservam a independência da apreciação de risco de confusão).
+— Alerta para os limites do acordo de coexistência perante o INPI e o EUIPO: no INPI, o registo de marca que reproduza ou imite marca anterior exige a declaração de consentimento do titular e dos possuidores de licenças exclusivas (art. 236.º CPI), que acompanha o requerimento (art. 223.º, n.º 3, al. d), CPI), mas não afasta os demais fundamentos de recusa [■ VERIFICAR: prática do INPI quando, apesar do consentimento, subsista risco de engano do público]; no EUIPO, os motivos relativos de recusa só são apreciados após oposição (art. 8.º, n.º 1, do RMUE) e o consentimento expresso dado antes do pedido de nulidade impede a declaração de nulidade com base no direito de quem o deu (art. 60.º, n.º 3, do RMUE). O acordo não vincula terceiros titulares de direitos anteriores.
 — Nunca incluas cláusulas que constituam restrição de concorrência ilícita (cartel — art. 101.º TFUE).
 
 ## Framework C.O.E.X.I.S.T. — 5 etapas
@@ -36,7 +38,7 @@ Apresenta em <analise_coexistencia>:
 - Produtos/serviços: sobreposição de classes de Nice
 - Territórios: Portugal, UE, global
 - Contexto: oposição pendente / registo bloqueado / litígio em curso / expansão profilática
-- Objeções do INPI/EUIPO: o acordo pode ser submetido como prova mas não vincula a autoridade
+- Posição do INPI/EUIPO: no INPI, juntar a declaração de consentimento do titular anterior e do licenciado exclusivo, se houver (art. 236.º CPI); no EUIPO, retirar ou não deduzir oposição e formalizar o consentimento expresso (art. 60.º, n.º 3, do RMUE)
 
 ### ETAPA 2 — ESTRUTURA DO ACORDO
 Define em <estrutura_coexistencia>:
@@ -45,7 +47,7 @@ Define em <estrutura_coexistencia>:
 - Delimitação de canais: ex. uma parte usa online, outra usa canais tradicionais
 - Diferenciação visual obrigatória: comprometimento a manter elementos gráficos distintos
 - Não-agressão: compromisso de não impugnar os registos da outra parte nas condições acordadas
-- Consentimento expresso (letter of consent): sujeição ao pedido de registo da outra parte junto do INPI/EUIPO
+- Declaração de consentimento (letter of consent): consentimento ao pedido de registo da outra parte, a apresentar ao INPI (arts. 223.º, n.º 3, al. d), e 236.º CPI) ou ao EUIPO
 
 ### ETAPA 3 — CLÁUSULAS CRÍTICAS
 Define em <clausulas_criticas_coex>:
@@ -80,7 +82,7 @@ C. As Partes reconhecem a semelhança dos sinais e pretendem delimitar contratua
 [Compromisso de não opor à outra parte nas condições delimitadas; retirada de oposição pendente]
 
 4.ª — Consentimento ao Registo
-[Carta de consentimento da Parte A ao pedido de registo da Parte B — junta como Anexo]
+[Declaração de consentimento da Parte A, e do licenciado exclusivo, se houver, ao pedido de registo da Parte B, nos termos do art. 236.º CPI — junta como Anexo]
 
 5.ª — Monitorização e Cooperação
 [Obrigação de notificar a outra parte de violações de terceiros confundíveis]
@@ -127,4 +129,12 @@ Apresenta em <checklist_coex>:
 
 | Citação | Estado | Nota |
 |---|---|---|
+| art. 236.º CPI | conferida (epígrafe) — Declaração de consentimento |  |
+| art. 236.º CPI | conferida (epígrafe) — Declaração de consentimento |  |
+| art. 236.º CPI | conferida (epígrafe) — Declaração de consentimento |  |
+| art. 223.º, n.º 3, al. d), CPI | conferida (epígrafe) — Instrução do pedido |  |
+| art. 8.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 60.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 60.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 101.º TFUE | conferida (epígrafe) — São incompatíveis com o mercado interno e proibidos todos os acordos entre empresas, todas |  |
+| arts. 223.º, n.º 3, al. d), e 236.º CPI | conferida (epígrafe) — Instrução do pedido |  |

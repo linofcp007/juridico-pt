@@ -3,20 +3,22 @@ codigo: EST-041
 area: "Direito dos Estrangeiros e Nacionalidade"
 titulo: "Oposição a Processo de Afastamento Coercivo — Defesa e Pedido de Efeito Suspensivo"
 titulo_en: "Opposition to Forced Removal Proceedings — Defence and Request for Suspensive Effect"
-descricao: "Prepara a oposição administrativa e o pedido de efeito suspensivo automático ou judicial contra decisão de afastamento coercivo (expulsão) proferida pela AIMA, ao abrigo dos arts. 134.º e ss. da Lei n.º 23/2007, do art. 186.º CPTA e da Diretiva 2008/115/CE (Diretiva Retorno), incluindo a garantia de audiência prévia e a invocação de direitos fundamentais."
-descricao_en: "Prepares the administrative opposition and the request for automatic or judicial suspensive effect against a forced removal (expulsion) decision issued by AIMA, under Articles 134 et seq. of Law No. 23/2007, Article 186 CPTA and Directive 2008/115/EC (Return Directive), including the guarantee of a prior hearing and the invocation of fundamental rights."
+descricao: "Prepara a defesa administrativa e o pedido cautelar de suspensão de eficácia contra decisão de afastamento coercivo proferida pelo diretor nacional da PSP, ao abrigo dos arts. 134.º e ss. da Lei n.º 23/2007, dos arts. 112.º e ss. do CPTA e da Diretiva 2008/115/CE (Diretiva Retorno), incluindo a garantia de audição do visado e a invocação de direitos fundamentais."
+descricao_en: "Prepares the administrative defence and the interim application for suspension of effects against a forced removal decision issued by the National Director of the PSP (Public Security Police), under Articles 134 et seq. of Law No. 23/2007, Articles 112 et seq. of the CPTA and Directive 2008/115/EC (Return Directive), including the guarantee of a hearing of the person concerned and the invocation of fundamental rights."
 ambito: nacional
-estado_citacoes: "conferidas 1 · corrigidas 3 · por conferir 10"
+estado_citacoes: "conferidas 9 · corrigidas 3 · por conferir 14"
+revisao_tecnica: "2026-10-30 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
 # Oposição a Processo de Afastamento Coercivo — Defesa e Pedido de Efeito Suspensivo
 
 > **Âmbito:** nacional · **Área:** Direito dos Estrangeiros e Nacionalidade · **Código:** EST-041
-> **EN:** Opposition to Forced Removal Proceedings — Defence and Request for Suspensive Effect. Prepares the administrative opposition and the request for automatic or judicial suspensive effect against a forced removal (expulsion) decision issued by AIMA, under Articles 134 et seq. of Law No. 23/2007, Article 186 CPTA and Directive 2008/115/EC (Return Directive), including the guarantee of a prior hearing and the invocation of fundamental rights.
-> **Citações:** conferidas 1 · corrigidas 3 · por conferir 10. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **EN:** Opposition to Forced Removal Proceedings — Defence and Request for Suspensive Effect. Prepares the administrative defence and the interim application for suspension of effects against a forced removal decision issued by the National Director of the PSP (Public Security Police), under Articles 134 et seq. of Law No. 23/2007, Articles 112 et seq. of the CPTA and Directive 2008/115/EC (Return Directive), including the guarantee of a hearing of the person concerned and the invocation of fundamental rights.
+> **Citações:** conferidas 9 · corrigidas 3 · por conferir 14. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-30 — corrigida (9 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
-Prepara a oposição administrativa e o pedido de efeito suspensivo automático ou judicial contra decisão de afastamento coercivo (expulsão) proferida pela AIMA, ao abrigo dos arts. 134.º e ss. da Lei n.º 23/2007, do art. 186.º CPTA e da Diretiva 2008/115/CE (Diretiva Retorno), incluindo a garantia de audiência prévia e a invocação de direitos fundamentais.
+Prepara a defesa administrativa e o pedido cautelar de suspensão de eficácia contra decisão de afastamento coercivo proferida pelo diretor nacional da PSP, ao abrigo dos arts. 134.º e ss. da Lei n.º 23/2007, dos arts. 112.º e ss. do CPTA e da Diretiva 2008/115/CE (Diretiva Retorno), incluindo a garantia de audição do visado e a invocação de direitos fundamentais.
 
 ## Método
 
@@ -31,7 +33,7 @@ Ficha de trabalho para preparar este documento. As regras da casa prevalecem sob
 
 ### ETAPA 1 — PROBLEMATIZAÇÃO
 Dentro de <analise_situacao>:
-- Tipo de medida: afastamento coercivo administrativo (AIMA) ou expulsão judicial?
+- Tipo de medida: afastamento coercivo administrativo (decidido pelo diretor nacional da PSP — arts. 140.º e 149.º da Lei n.º 23/2007) ou expulsão judicial?
 - Data da notificação e prazo para saída voluntária indicado
 - Fundamento da decisão: permanência irregular, entrada ilegal, outros?
 - Foi garantida audiência prévia antes da decisão?
@@ -43,26 +45,27 @@ Dentro de <analise_situacao>:
 ### ETAPA 2 — ANÁLISE JURÍDICA
 Dentro de <fundamentos_juridicos>:
 - Art. 134.º Lei 23/2007: afastamento coercivo — fundamentos e procedimento
-- Art. 138.º Lei 23/2007: direito a recurso com efeito suspensivo automático em alguns casos
+- Art. 150.º Lei 23/2007: impugnação judicial da decisão de afastamento coercivo nos tribunais administrativos, com efeito devolutivo, sem prejuízo dos processos urgentes e cautelares do CPTA (n.º 2); o efeito suspensivo legal só está previsto para a expulsão de residente de longa duração (art. 136.º, n.º 3)
+- Art. 128.º CPTA: requerida a suspensão de eficácia, a entidade não pode iniciar nem prosseguir a execução após a citação, salvo resolução fundamentada
 - Art. 112.º CPTA: providência cautelar de suspensão de eficácia de ato administrativo
 - Art. 8.º CEDH: respeito pela vida familiar — TEDH (caso Boultif v. Suíça; Üner v. Países Baixos) sobre proporcionalidade
-- Art. 3.º Diretiva 2008/115/CE: garantias processuais no retorno
+- Arts. 12.º e 13.º Diretiva 2008/115/CE: forma da decisão e vias de recurso no regresso; art. 5.º: não-repulsão, interesse superior da criança, vida familiar e estado de saúde (a diretiva é revogada pelo Regulamento (UE) 2026/2280, com efeitos a partir de 17 de outubro de 2027)
 - Art. 19.º CDFUE: proibição de afastamento para Estado onde risco de pena de morte/tortura
 - Art. 152.º CPA: dever de fundamentação (decisão sem fundamentação = anulável)
 
 ### ETAPA 3 — ESTRUTURA DA OPOSIÇÃO
 Dentro de <estrutura_oposicao>:
-- Via principal: oposição administrativa à AIMA (prazo curto — verificar!)
-- Via cautelar: pedido de suspensão de eficácia ao TAC (urgente)
+- Via administrativa: antes da decisão, a defesa na audição do visado, que vale como audiência do interessado (art. 148.º Lei 23/2007); depois da decisão, reclamação para o autor do ato no prazo de 15 dias (art. 191.º CPA), que não suspende a execução, salvo decisão do autor do ato, oficiosa ou a pedido do interessado (art. 189.º, n.os 2 e 3, CPA)
+- Via cautelar: pedido de suspensão de eficácia ao tribunal administrativo competente (urgente), que não depende da reclamação (art. 189.º, n.º 5, CPA)
 - Argumentos de fundo: vícios da decisão + direitos fundamentais
 - Pedidos: anulação da decisão + suspensão imediata da execução
 
 ### ETAPA 4 — OPOSIÇÃO / REQUERIMENTO DE SUSPENSÃO
-**OPOSIÇÃO À DECISÃO DE AFASTAMENTO COERCIVO**
+**RECLAMAÇÃO DA DECISÃO DE AFASTAMENTO COERCIVO (com pedido de suspensão da execução)**
 
-Exma. AIMA,
+Exmo. Senhor Diretor Nacional da Polícia de Segurança Pública,
 
-[NOME_COMPLETO], nacional de [NACIONALIDADE], portador do passaporte n.º [N_PASSAPORTE], notificado(a) em [DATA_NOTIFICAÇÃO] da decisão de afastamento coercivo, vem apresentar a presente oposição e requerer a suspensão da eficácia da decisão, com os seguintes fundamentos:
+[NOME_COMPLETO], nacional de [NACIONALIDADE], portador do passaporte n.º [N_PASSAPORTE], notificado(a) em [DATA_NOTIFICAÇÃO] da decisão de afastamento coercivo, vem apresentar a presente reclamação (art. 191.º do CPA) e requerer a suspensão da execução da decisão (art. 189.º, n.os 2 e 3, do CPA), com os seguintes fundamentos:
 
 **I — VÍCIOS DE PROCEDIMENTO**
 [Indicar: falta de audiência prévia / fundamentação insuficiente / outros vícios formais]
@@ -78,12 +81,12 @@ Exma. AIMA,
 
 **IV — PEDIDOS**
 1. Suspensão imediata da execução da decisão de afastamento
-2. Revogação da decisão de afastamento por [vício X / Y]
+2. Anulação administrativa da decisão de afastamento por [vício X / Y] (art. 165.º, n.º 2, do CPA)
 3. [Subsidiariamente] concessão de prazo de saída voluntária adequado
 
 [LOCAL], [DATA]
 
-*Paralelamente, requer-se no Tribunal Administrativo de Círculo de [COMARCA] a suspensão de eficácia da decisão ao abrigo do art. 112.º CPTA.*
+*Paralelamente, requer-se no tribunal administrativo competente [■ VERIFICAR: competência territorial — arts. 16.º e 20.º do CPTA] a suspensão de eficácia da decisão ao abrigo do art. 112.º CPTA.*
 
 ### ETAPA 5 — CHECKLIST
 <checklist_validacao>
@@ -99,7 +102,7 @@ Exma. AIMA,
 - Nome: [NOME_COMPLETO]
 - Tipo de medida: [AFASTAMENTO COERCIVO / EXPULSÃO JUDICIAL]
 - Data da notificação: [DATA] — prazo de saída indicado: [DATA]
-- Fundamento da decisão AIMA: [TRANSCREVER]
+- Fundamento da decisão (PSP): [TRANSCREVER]
 - Audiência prévia: [FOI GARANTIDA / NÃO FOI GARANTIDA]
 - Filhos em Portugal: [SIM/NÃO — idades, nacionalidade]
 - Cônjuge com AR/nacional PT: [SIM/NÃO]
@@ -116,12 +119,24 @@ Exma. AIMA,
 | art. 112.º CPTA | corrigida — Providências cautelares | o número citado no catálogo não correspondia à epígrafe |
 | arts. 8.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 8.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| arts. 140.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | Art. 134.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| Art. 138.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| Art. 150.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 136.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| Art. 128.º CPTA | conferida (epígrafe) — Proibição de executar o ato administrativo |  |
 | Art. 112.º CPTA | corrigida — Providências cautelares | o número citado no catálogo não correspondia à epígrafe |
 | Art. 8.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | Art. 8.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| Art. 3.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| Art. 3.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| Arts. 12.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 5.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | Art. 19.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | Art. 152.º CPA | conferida (epígrafe) — Dever de fundamentação |  |
+| art. 148.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 191.º CPA | conferida (epígrafe) — Regime geral |  |
+| art. 189.º, n.os 2 e 3, CPA | conferida (epígrafe) — Efeitos das impugnações de atos administrativos |  |
+| art. 189.º, n.º 5, CPA | conferida (epígrafe) — Efeitos das impugnações de atos administrativos |  |
+| art. 191.º do CPA | conferida (epígrafe) — Regime geral |  |
+| art. 189.º, n.os 2 e 3, do CPA | conferida (epígrafe) — Efeitos das impugnações de atos administrativos |  |
+| Art. 3.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 165.º, n.º 2, do CPA | conferida (epígrafe) — Revogação e anulação administrativas |  |
+| arts. 16.º e 20.º do CPTA | conferida (epígrafe) — Regra geral |  |

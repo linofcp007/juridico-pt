@@ -6,7 +6,7 @@ titulo_en: "Legal Opinion on the Civil Liability of Managers and Directors"
 descricao: "Elabora um parecer jurídico fundamentado sobre a responsabilidade civil de gerentes e administradores de sociedades comerciais — responsabilidade para com a sociedade, para com os sócios e para com terceiros credores — ao abrigo dos arts. 72.º a 79.º do CSC."
 descricao_en: "Drafts a reasoned legal opinion on the civil liability of managers and directors of commercial companies — liability towards the company, towards the members and towards third-party creditors — under Articles 72 to 79 CSC."
 ambito: nacional
-estado_citacoes: "conferidas 28 · corrigidas 0 · por conferir 0"
+estado_citacoes: "conferidas 29 · corrigidas 0 · por conferir 3"
 revisao_tecnica: "2026-10-28 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
@@ -15,7 +15,7 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 
 > **Âmbito:** nacional · **Área:** Direito Comercial e das Sociedades · **Código:** COM-030
 > **EN:** Legal Opinion on the Civil Liability of Managers and Directors. Drafts a reasoned legal opinion on the civil liability of managers and directors of commercial companies — liability towards the company, towards the members and towards third-party creditors — under Articles 72 to 79 CSC.
-> **Citações:** conferidas 28 · corrigidas 0 · por conferir 0. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 29 · corrigidas 0 · por conferir 3. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
 > **Revisão técnica:** 2026-10-28 — corrigida (6 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
 Elabora um parecer jurídico fundamentado sobre a responsabilidade civil de gerentes e administradores de sociedades comerciais — responsabilidade para com a sociedade, para com os sócios e para com terceiros credores — ao abrigo dos arts. 72.º a 79.º do CSC.
@@ -191,6 +191,7 @@ Apresente em <checklist_validacao>:
 | art. 78.º, n.º 3, CSC | conferida (epígrafe) — Responsabilidade para com os credores sociais |  |
 | art. 78.º, n.º 3, CSC | conferida (epígrafe) — Responsabilidade para com os credores sociais |  |
 | art. 174.º, n.º 1, al. b), CSC | conferida (epígrafe) — Prescrição |  |
+| Art. 64 CSC | por conferir [■ VERIFICAR] | o assunto descrito não coincide com a epígrafe; confirmar |
 | Art. 72.º CSC | conferida (epígrafe) — Responsabilidade de membros da administração para com a sociedade |  |
 | Art. 72.º, n.º 2, CSC | conferida (epígrafe) — Responsabilidade de membros da administração para com a sociedade |  |
 | Art. 73.º CSC | conferida (epígrafe) — Solidariedade na responsabilidade |  |
@@ -204,4 +205,7 @@ Apresente em <checklist_validacao>:
 | art. 77.º CSC | conferida (epígrafe) — Ação de responsabilidade proposta por sócios |  |
 | art. 74.º, n.ºs 2 e 3, CSC | conferida (epígrafe) — Cláusulas nulas. Renúncia e transação |  |
 | art. 64.º do CSC | conferida (epígrafe) — Deveres fundamentais |  |
+| art. 72 CSC | por conferir [■ VERIFICAR] | o assunto descrito não coincide com a epígrafe; confirmar |
+| art. 64 CSC | por conferir [■ VERIFICAR] | o assunto descrito não coincide com a epígrafe; confirmar |
+| art. 78 CSC | conferida (epígrafe) — Responsabilidade para com os credores sociais |  |
 | art. 78.º, n.º 1, CSC | conferida (epígrafe) — Responsabilidade para com os credores sociais |  |

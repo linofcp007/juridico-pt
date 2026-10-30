@@ -33,7 +33,7 @@ Ficha de trabalho para preparar este documento. As regras da casa prevalecem sob
 ### ETAPA 1 — DIAGNÓSTICO DO RISCO
 Apresenta em <diagnostico_risco>:
 - Natureza e localização dos bens em risco (imóvel, recheio, saldos, veículos)
-- Quem controla os bens (co-herdeiro, cônjuge sobrevivo, cabeça-de-casal)
+- Quem controla os bens (coerdeiro, cônjuge sobrevivo, cabeça-de-casal)
 - Comportamentos que indiciamo risco de dissipação (levantamentos bancários, remoção de móveis, tentativa de venda)
 - Urgência: quanto tempo se tem antes de a lesão se consumar
 - Legitimidade do requerente: qualquer pessoa com interesse na conservação dos bens (coerdeiro, legatário, cônjuge meeiro); os credores só podem requerer arrolamento quando haja lugar à arrecadação da herança (art. 404.º CPC)
@@ -90,7 +90,7 @@ Apresenta em <checklist_validacao>:
 - Nome: [nome], NIF: [número], Qualidade: [coerdeiro / legatário / cônjuge meeiro / credor, se houver lugar à arrecadação da herança]
 
 **REQUERIDO:**
-- Nome: [nome], NIF: [número], Qualidade: [co-herdeiro / cabeça-de-casal / terceiro]
+- Nome: [nome], NIF: [número], Qualidade: [coerdeiro / cabeça-de-casal / terceiro]
 
 **BENS A ARROLAMENTO:**
 - [lista: tipo de bem, localização, valor estimado]
@@ -100,7 +100,7 @@ Apresenta em <checklist_validacao>:
 
 **URGÊNCIA:** [descrição do risco imediato]
 
-**OBSERVAÇÕES:** [processo de inventário já instaurado ou não, outros co-herdeiros, bens já dissipados]
+**OBSERVAÇÕES:** [processo de inventário já instaurado ou não, outros coerdeiros, bens já dissipados]
 
 ## Citações desta ficha
 

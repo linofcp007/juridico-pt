@@ -1,0 +1,183 @@
+[
+ {
+  "codigo": "PRC-005",
+  "veredicto": "corrigida",
+  "resumo": "A ficha indicava como único limite temporal o encerramento da discussão e omitia os momentos próprios de apresentação do art. 588.º, n.º 3, CPC (audiência prévia, 10 dias após a notificação da data da audiência final, audiência final) e a rejeição do articulado apresentado fora de tempo por culpa da parte (n.º 4). Acrescentaram-se estes momentos, a noção legal de superveniência e o ónus da prova da superveniência subjetiva (n.º 2), e corrigiu-se o número citado para a admissão (n.º 4, não n.º 2). Ajustaram-se a checklist e a recolha de dados (audiência prévia e notificação da data da audiência final).",
+  "substituicoes": [
+   {
+    "de": "- Verifica e fundamenta SEMPRE a superveniência (art. 588.º, n.º 1 CPC): os factos devem ser posteriores ao encerramento dos articulados (superveniência objetiva) OU o requerente só deles teve conhecimento depois (superveniência subjetiva)\n- O articulado superveniente pode ser apresentado até ao encerramento da discussão em 1.ª instância",
+    "para": "- Verifica e fundamenta SEMPRE a superveniência (art. 588.º, n.º 2, CPC): os factos devem ter ocorrido depois do termo dos prazos dos articulados (superveniência objetiva) OU ser anteriores, mas o requerente só deles ter tido conhecimento depois de findarem esses prazos (superveniência subjetiva), caso em que tem de fazer prova da superveniência\n- O articulado superveniente pode ser deduzido até ao encerramento da discussão (art. 588.º, n.º 1, CPC), mas só nos momentos do art. 588.º, n.º 3, CPC: a) na audiência prévia, quanto aos factos ocorridos ou conhecidos até ao seu encerramento; b) nos 10 dias posteriores à notificação da data designada para a audiência final, quando não se tenha realizado audiência prévia; c) na audiência final, quanto aos factos ocorridos ou conhecidos depois daqueles momentos\n- O juiz rejeita o articulado apresentado fora de tempo por culpa da parte, ou quando seja manifesto que os factos não interessam à boa decisão da causa; se o admitir, notifica a parte contrária para responder em 10 dias (art. 588.º, n.º 4, CPC)",
+    "motivo": "O limite do n.º 1 não basta: o n.º 3 fixa os momentos de apresentação e o n.º 4 manda rejeitar o articulado extemporâneo por culpa da parte; a noção de superveniência e o ónus da sua prova estão no n.º 2.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0588&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "Fundamentação da admissibilidade com referência ao art. 588.º, n.º 1 CPC.",
+    "para": "Fundamentação da admissibilidade e da tempestividade com referência ao art. 588.º, n.os 2 e 3, CPC (na superveniência subjetiva, oferecer prova da data em que se teve conhecimento dos factos).",
+    "motivo": "A superveniência define-se no n.º 2 (com prova da superveniência subjetiva) e a tempestividade no n.º 3 do art. 588.º CPC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0588&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "1.º Admitir o presente articulado superveniente, nos termos do art. 588.º, n.º 2 do CPC;",
+    "para": "1.º Admitir o presente articulado superveniente, nos termos do art. 588.º, n.º 4 do CPC;",
+    "motivo": "O despacho liminar de admissão está no n.º 4 do art. 588.º CPC; o n.º 2 define os factos supervenientes.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0588&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Articulado apresentado antes do encerramento da discussão em 1.ª instância",
+    "para": "- [ ] Articulado apresentado no momento próprio do art. 588.º, n.º 3, CPC (audiência prévia, 10 dias após a notificação da data da audiência final ou audiência final) e antes do encerramento da discussão",
+    "motivo": "A tempestividade afere-se pelos momentos do art. 588.º, n.º 3, CPC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0588&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Fase processual: [articulados encerrados / instrução / julgamento]",
+    "para": "- Fase processual: [articulados encerrados / instrução / julgamento]\n- Audiência prévia: [realizada em [data] / não realizada]\n- Data da notificação da data designada para a audiência final: [data]",
+    "motivo": "Dados necessários para apurar o momento de apresentação (art. 588.º, n.º 3, CPC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0588&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar, pelas datas concretas, em qual das alíneas do art. 588.º, n.º 3, CPC cabe a apresentação e que o atraso não é imputável à parte (n.º 4).",
+   "A ampliação do pedido do art. 265.º, n.º 2, CPC só cabe ao autor e só quando seja desenvolvimento ou consequência do pedido primitivo; se o requerente for o réu, os factos supervenientes servem a defesa (factos modificativos ou extintivos), não a alteração do pedido.",
+   "Se o articulado for apresentado depois de designada a audiência final, não suspende as diligências nem determina o adiamento (art. 589.º CPC)."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0588&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0265&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+  ]
+ },
+ {
+  "codigo": "PRC-033",
+  "veredicto": "corrigida",
+  "resumo": "A ficha apresentava a nulidade da citação (art. 191.º CPC) como de conhecimento oficioso, quando o art. 196.º CPC só o admite para a falta de citação e para a nulidade da citação edital ou sem indicação de prazo para a defesa (segunda parte do n.º 2 do art. 191.º); a regra é a arguição pelo citado no prazo da contestação. Dava a «falta de mandatário» como nulidade de conhecimento oficioso com remissão para o art. 24.º CPC (representação do Estado), quando a falta de constituição de advogado se rege pelo art. 41.º CPC. Atribuía ao art. 199.º CPC o prazo de 10 dias, que resulta do art. 149.º, n.º 1, CPC (o art. 199.º fixa a contagem), e ao art. 196.º a sanação por falta de arguição; corrigiram-se estes pontos e a distinção entre nulidades principais e secundárias.",
+  "substituicoes": [
+   {
+    "de": "- Distingue: nulidade principal (cominada por lei — arts. 186.º e ss. CPC) vs nulidade secundária (irregularidade que influencia a decisão — art. 195.º CPC)\n- Nulidades de conhecimento oficioso: citação nula (art. 191.º CPC), falta de mandatário (art. 24.º CPC)\n- Prazo: 10 dias após notificação ou no próprio ato se presente (art. 199.º CPC)\n- A nulidade secundária sana se não for arguida em prazo (art. 196.º CPC)",
+    "para": "- Distingue: nulidades principais ou típicas (arts. 186.º a 194.º CPC) vs nulidades secundárias (art. 195.º, n.º 1, CPC: a prática de ato que a lei não admita, ou a omissão de ato ou formalidade que a lei prescreva, só produz nulidade quando a lei o declare ou quando a irregularidade possa influir no exame ou na decisão da causa)\n- Nulidades de conhecimento oficioso (art. 196.º CPC): ineptidão da petição inicial (art. 186.º CPC), falta de citação (art. 187.º CPC), nulidade da citação edital ou sem indicação de prazo para a defesa (art. 191.º, n.º 2, segunda parte, CPC), erro na forma do processo (art. 193.º CPC) e falta de vista ou exame ao Ministério Público (art. 194.º CPC). Fora destes casos, a nulidade da citação (art. 191.º CPC) é arguida pelo citado no prazo indicado para a contestação (art. 191.º, n.º 2, CPC) e só é atendida se a falta puder prejudicar a defesa (art. 191.º, n.º 4, CPC). A falta de constituição de advogado, quando obrigatória, não é nulidade processual: o juiz, oficiosamente ou a requerimento, manda notificar a parte para o constituir em prazo certo (art. 41.º CPC)\n- Prazo das nulidades secundárias: 10 dias (art. 149.º, n.º 1, CPC), contados do dia em que a parte, depois de cometida a nulidade, interveio em algum ato do processo ou foi notificada para qualquer termo dele, quando deva presumir-se que então tomou conhecimento da nulidade ou dela pudesse conhecer com a devida diligência; se estiver presente no ato, por si ou por mandatário, pode argui-la enquanto o ato não terminar (art. 199.º, n.º 1, CPC). As nulidades principais têm momentos próprios (art. 198.º CPC)\n- Das nulidades secundárias o tribunal só conhece sob reclamação do interessado (art. 196.º CPC); se não forem arguidas em tempo, ficam sanadas",
+    "motivo": "O art. 196.º CPC não inclui a nulidade da citação em geral (só a segunda parte do n.º 2 do art. 191.º); o art. 24.º CPC trata da representação do Estado e a falta de advogado está no art. 41.º CPC; o prazo de 10 dias é o do art. 149.º, n.º 1, CPC e o art. 199.º fixa a contagem.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0196&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- É nulidade principal (cominada por lei) ou secundária?",
+    "para": "- É nulidade principal (arts. 186.º a 194.º CPC) ou secundária (art. 195.º CPC)?",
+    "motivo": "O art. 195.º CPC também abrange os atos cuja nulidade a lei declare; o critério é a tipificação nos arts. 186.º a 194.º.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0195&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Art. 196.º CPC — sanação por falta de arguição\n- Art. 199.º CPC — prazo de arguição",
+    "para": "- Art. 196.º CPC — nulidades de conhecimento oficioso; das restantes o tribunal só conhece sob reclamação, ficando sanadas se não forem arguidas em tempo\n- Art. 199.º CPC — prazo de arguição (momentos das nulidades principais no art. 198.º CPC; prazo geral de 10 dias do art. 149.º, n.º 1, CPC)",
+    "motivo": "O art. 196.º CPC regula o conhecimento oficioso; o prazo de 10 dias resulta do art. 149.º, n.º 1, CPC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0149&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "\"O presente requerimento é apresentado dentro do prazo de 10 dias previsto\nno art. 199.º, n.º 1 do CPC, uma vez que a parte foi notificada do ato em [data].\"",
+    "para": "\"O presente requerimento é apresentado dentro do prazo de 10 dias (art. 149.º, n.º 1, do CPC),\ncontado nos termos do art. 199.º, n.º 1 do CPC, uma vez que a parte foi notificada em [data] de [ato ou termo do processo], momento em que tomou conhecimento da nulidade.\"",
+    "motivo": "O prazo de 10 dias é o prazo geral do art. 149.º, n.º 1, CPC; o art. 199.º, n.º 1, fixa o início da contagem (intervenção ou notificação de que resulte o conhecimento da nulidade).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0149&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar se o vício está na própria decisão judicial: nesse caso o meio próprio pode ser a arguição de nulidade da sentença ou o recurso (art. 615.º CPC), e não a arguição do art. 195.º.",
+   "Verificar a data a partir da qual se conta o prazo (art. 199.º, n.º 1, CPC) e, se a parte esteve presente no ato, se a arguição devia ter sido feita durante ele.",
+   "Na nulidade da citação, confirmar se a citação foi edital ou sem indicação de prazo para a defesa (arguição na primeira intervenção) e demonstrar o prejuízo para a defesa (art. 191.º, n.º 4, CPC)."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0149&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0186&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0187&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0191&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0195&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0196&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0197&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0199&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0024&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0041&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+  ]
+ },
+ {
+  "codigo": "PRC-041",
+  "veredicto": "corrigida",
+  "resumo": "A peça fundamentava a falta de audiência do requerido no art. 366.º, n.º 1, CPC (regime comum), quando o arresto é decretado sem audiência da parte contrária por regra própria (art. 393.º, n.º 1, CPC). Citava um inexistente n.º 2 do art. 395.º CPC para o pedido ao Banco de Portugal e atribuía ao art. 395.º o efeito sobre os saldos, quando esse artigo regula a caducidade especial do arresto; a apreensão dos saldos segue a penhora de depósitos (arts. 391.º, n.º 2, 749.º, n.º 6, e 780.º CPC). Corrigiram-se ainda a «dispensa de caução» (o juiz pode exigir caução: art. 374.º, n.º 2, CPC), a qualificação do arresto como «garantia real», a urgência do procedimento (sempre urgente: art. 363.º, n.º 1, CPC) e a regra que dava «autor» e «réu» como termos brasileiros.",
+  "substituicoes": [
+   {
+    "de": "— Nunca uses terminologia brasileira (não usar: liminar, tutela antecipada, autor, réu — usar: requerente, requerido, providência cautelar).",
+    "para": "— Nunca uses terminologia brasileira (não usar «liminar» como substantivo nem «tutela antecipada»). No procedimento cautelar as partes são o requerente e o requerido; «autor» e «réu» são termos do CPC português, próprios da ação principal.",
+    "motivo": "«Autor» e «réu» são termos do CPC português (por exemplo, arts. 366.º, n.º 7, e 373.º CPC); o que é brasileiro é «liminar» como substantivo e «tutela antecipada».",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0366&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Necessidade de citação prévia ou dispensa (art. 366.º CPC)",
+    "para": "- Contraditório: o arresto é decretado sem audiência da parte contrária (art. 393.º, n.º 1, CPC) e o requerido só é notificado depois da sua realização (art. 366.º, n.º 6, CPC)",
+    "motivo": "No arresto, a falta de audiência prévia do requerido resulta da regra própria do art. 393.º, n.º 1, CPC, que prevalece sobre o regime comum (art. 376.º, n.º 1, CPC).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0393&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Artigo 619.º CC (arresto como garantia real)",
+    "para": "- Artigo 619.º CC (arresto como meio de conservação da garantia patrimonial)",
+    "motivo": "O arresto está regulado no CC entre os meios de conservação da garantia patrimonial (secção II do capítulo da garantia geral das obrigações), não entre as garantias especiais.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0619&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Regime de dispensa de caução (art. 374.º CPC)\n- Efeito do arresto na penhorabilidade dos saldos (art. 395.º CPC)",
+    "para": "- Caução: o juiz pode, mesmo sem audiência do requerido, fazer depender o arresto da prestação de caução adequada pelo requerente (art. 374.º, n.º 2, e art. 376.º, n.º 2, CPC); o requerente responde pelos danos culposamente causados se a providência for injustificada ou caducar por facto que lhe seja imputável (art. 374.º, n.º 1, CPC)\n- Apreensão dos saldos: aplicam-se as regras da penhora (art. 391.º, n.º 2, CPC), em especial a penhora de depósitos bancários (art. 780.º CPC) e a informação do Banco de Portugal sobre as instituições em que o requerido tem contas (art. 749.º, n.º 6, CPC), com as necessárias adaptações [■ VERIFICAR: modo de acesso a essa informação no arresto]; o arrestado não pode ser privado dos rendimentos estritamente indispensáveis aos seus alimentos e da família (art. 393.º, n.º 3, CPC); os atos de disposição dos bens arrestados são ineficazes em relação ao requerente (art. 622.º CC) e o arresto converte-se em penhora na execução (art. 762.º CPC)\n- Caducidade especial do arresto (art. 395.º CPC): além dos casos do art. 373.º, se o credor, obtida sentença transitada na ação de cumprimento, não promover a execução nos dois meses seguintes, ou se a execução ficar parada mais de 30 dias por negligência do exequente",
+    "motivo": "O art. 374.º CPC não prevê dispensa de caução, mas a faculdade de o juiz a exigir (n.º 2, aplicável ao arresto pelo art. 376.º, n.º 2); o art. 395.º CPC regula a caducidade especial do arresto, e a apreensão dos saldos segue as regras da penhora de depósitos.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0395&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Necessidade de despacho liminar sem contraditório (art. 366.º, n.º 1, CPC)",
+    "para": "- Decretamento sem audiência do requerido, por regra própria do arresto (art. 393.º, n.º 1, CPC): não é preciso demonstrar o risco sério previsto no art. 366.º, n.º 1, CPC",
+    "motivo": "A dispensa de audiência no arresto resulta do art. 393.º, n.º 1, CPC, não do art. 366.º, n.º 1.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0393&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "**[CITIUS — Distribuição/Urgente conforme o caso]**",
+    "para": "**[CITIUS — procedimento cautelar, sempre urgente (art. 363.º, n.º 1, CPC)]**",
+    "motivo": "Os procedimentos cautelares revestem sempre caráter urgente.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0363&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "— [Solicita-se, em alternativa, ofício ao Banco de Portugal para identificação de contas nos termos do artigo 395.º, n.º 2, CPC]",
+    "para": "— [Requer-se, em alternativa, a obtenção junto do Banco de Portugal da informação sobre as instituições em que o requerido detém contas ou depósitos bancários, aplicando-se ao arresto as regras da penhora (artigos 391.º, n.º 2, e 749.º, n.º 6, CPC) e da penhora de depósitos bancários (artigo 780.º CPC)] [■ VERIFICAR: se a consulta é feita pelo agente de execução ou por ofício do tribunal]",
+    "motivo": "O art. 395.º CPC não tem n.º 2 e regula a caducidade do arresto; a informação do Banco de Portugal está prevista para a penhora de depósitos no art. 749.º, n.º 6, CPC, aplicável ao arresto pelo art. 391.º, n.º 2.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0749&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "**IV — DISPENSA DE CONTRADITÓRIO PRÉVIO**\nRequer-se que a providência seja decretada sem audiência do requerido, nos termos do artigo 366.º, n.º 1, CPC, porquanto a citação prévia frustraria o efeito pretendido.",
+    "para": "**IV — DECRETAMENTO SEM AUDIÊNCIA DO REQUERIDO**\nO arresto é decretado sem audiência da parte contrária (artigo 393.º, n.º 1, CPC), pelo que se requer que o requerido só seja notificado da decisão após a realização do arresto (artigo 366.º, n.º 6, CPC).",
+    "motivo": "A lei já dispensa a audiência do requerido no arresto (art. 393.º, n.º 1, CPC); não há que justificar o risco do art. 366.º, n.º 1.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0393&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "d) Dispensar a prestação de caução, por [fundamentar — art. 374.º CPC].",
+    "para": "d) Não fazer depender o arresto da prestação de caução pelo requerente, por [fundamentar — art. 374.º, n.º 2, CPC].",
+    "motivo": "A caução não é exigida por lei; o juiz pode impô-la (art. 374.º, n.º 2, CPC), pelo que se pede que não a imponha.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0374&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Os requisitos próprios do arresto são a probabilidade da existência do crédito e o justificado receio de perda da garantia patrimonial (arts. 391.º, n.º 1, e 392.º, n.º 1, CPC); o art. 368.º, n.º 2, CPC (recusa por desproporção) não se aplica ao arresto (art. 376.º, n.º 1, CPC).",
+   "Relacionar os saldos a apreender com todas as indicações necessárias à diligência (art. 392.º, n.º 1, CPC) e acautelar os limites de impenhorabilidade dos saldos (arts. 738.º e 780.º, n.º 2, CPC).",
+   "Se as contas estiverem noutro Estado-Membro, ponderar a decisão europeia de arresto de contas (Regulamento (UE) n.º 655/2014) [■ VERIFICAR: requisitos e tribunal competente].",
+   "Confirmar o modo de obter a informação do Banco de Portugal sobre as contas do requerido no arresto (agente de execução ao abrigo do art. 749.º, n.º 6, CPC ou ofício do tribunal)."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0078&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0362&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0363&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0366&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0368&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0373&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0374&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0376&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0391&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0392&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0393&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0395&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0749&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0762&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0780&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0605&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0619&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0622&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+  ]
+ }
+]

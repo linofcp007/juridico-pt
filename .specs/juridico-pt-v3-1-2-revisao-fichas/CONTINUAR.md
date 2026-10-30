@@ -1,5 +1,18 @@
 # Revisão técnica das fichas (3.1.2): onde ficámos e como continuar
 
+> **Concluído a 2026-10-30.**
+> - **Lotes:** os 71 que faltavam foram revistos (272 fichas, 2146 correções, todas «corrigida») e integrados. Ao todo, 834 fichas e 7157 correções.
+> - **Problemas de fundo resolvidos:**
+>   - revogados nas epígrafes: `--revogados`, 325 artigos;
+>   - citações sem «º»;
+>   - lista AO90: mais 80 formas;
+>   - referências da casa: as 7, com as fontes em `trabalho/referencias-casa.txt`.
+> - **Versão 3.1.2:** CHANGELOG, README e bundles feitos. As suites passam: MCP 283/283 (2 saltados) e Python 56/56.
+> - **Custo real da 2.ª sessão:** 327,36 USD (71 revisores, 323,10 USD, mais o revisor das referências, 4,26 USD). Medido com `triagem/custo-real.cjs <pasta subagents da sessão 98fc68b8…>`. Ao todo, 1067,07 USD.
+> - **Falta:** o fecho da spec e a publicação (merge, push, release), que dependem do «sim» explícito do utilizador.
+>
+> O resto deste ficheiro é o registo de 2026-10-28.
+
 Parado a **2026-10-28**: o limite semanal da conta interrompeu os revisores. O limite repõe a 3/11, às 10h. Branch: `feature/juridico-pt-v3-1-2-revisao-fichas`. Está **commitado localmente**. Não há push, merge nem lançamento.
 
 ## O que está feito

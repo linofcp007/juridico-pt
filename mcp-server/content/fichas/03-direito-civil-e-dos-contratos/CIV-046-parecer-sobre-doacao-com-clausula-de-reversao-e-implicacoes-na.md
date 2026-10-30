@@ -67,7 +67,7 @@ Define em <estrutura_parecer>:
 
 **PARECER SOBRE DOAÇÃO E COLAÇÃO**
 
-**Consulente:** [NOME], qualidade de [doador / donatário / co-herdeiro], NIF [NIF]
+**Consulente:** [NOME], qualidade de [doador / donatário / coerdeiro], NIF [NIF]
 **Questão:** [resumo da questão]
 
 **I — A DOAÇÃO**

@@ -56,7 +56,7 @@ Apresenta dentro de um bloco <fundamentos_juridicos>:
 - Relação de bens: arts. 1097.º, n.º 3, al. c), e 1098.º CPC (imóveis pelo valor tributável, participações sociais pelo valor nominal, créditos e dívidas relacionados em separado)
 - Passivo: art. 2097.º e ss. CC — pagamento das dívidas da herança antes da partilha
 - Providências urgentes: a lei não prevê um «administrador provisório»; a administração da herança cabe ao cabeça-de-casal (art. 2079.º CC), confirmado ou designado no despacho liminar (art. 1100.º, n.º 1, al. b), CPC); havendo justo receio de extravio, ocultação ou dissipação de bens, pode requerer-se o arrolamento (art. 403.º CPC)
-- Prazo para requerer inventário: não há; qualquer co-herdeiro ou o cônjuge meeiro pode exigir partilha quando lhe aprouver (art. 2101.º CC); atenção ao prazo de participação do óbito para o Imposto do Selo, até ao final do 3.º mês seguinte (art. 26.º, n.º 3, CIS)
+- Prazo para requerer inventário: não há; qualquer coerdeiro ou o cônjuge meeiro pode exigir partilha quando lhe aprouver (art. 2101.º CC); atenção ao prazo de participação do óbito para o Imposto do Selo, até ao final do 3.º mês seguinte (art. 26.º, n.º 3, CIS)
 
 ### ETAPA 3 — CONSTRUÇÃO ARGUMENTATIVA / ESTRUTURA
 Define:

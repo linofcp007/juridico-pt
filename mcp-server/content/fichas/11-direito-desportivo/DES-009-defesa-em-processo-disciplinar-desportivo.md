@@ -6,7 +6,8 @@ titulo_en: "Defence in Sports Disciplinary Proceedings"
 descricao: "Redige a defesa do atleta ou clube num processo disciplinar desportivo instaurado pela federação ou liga profissional, contestando a acusação, invocando garantias procedimentais, apresentando prova e enquadrando as circunstâncias atenuantes, com base no regulamento disciplinar aplicável e nos princípios gerais do direito sancionatório."
 descricao_en: "Drafts the defence of an athlete or club in sports disciplinary proceedings brought by the federation or professional league, contesting the charge, invoking procedural guarantees, submitting evidence and setting out mitigating circumstances, based on the applicable disciplinary regulations and the general principles of sanctioning law."
 ambito: nacional
-estado_citacoes: "conferidas 4 · corrigidas 0 · por conferir 0"
+estado_citacoes: "conferidas 4 · corrigidas 0 · por conferir 5"
+revisao_tecnica: "2026-10-30 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
@@ -14,7 +15,8 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 
 > **Âmbito:** nacional · **Área:** Direito Desportivo · **Código:** DES-009
 > **EN:** Defence in Sports Disciplinary Proceedings. Drafts the defence of an athlete or club in sports disciplinary proceedings brought by the federation or professional league, contesting the charge, invoking procedural guarantees, submitting evidence and setting out mitigating circumstances, based on the applicable disciplinary regulations and the general principles of sanctioning law.
-> **Citações:** conferidas 4 · corrigidas 0 · por conferir 0. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 4 · corrigidas 0 · por conferir 5. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-30 — corrigida (1 correção com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
 Redige a defesa do atleta ou clube num processo disciplinar desportivo instaurado pela federação ou liga profissional, contestando a acusação, invocando garantias procedimentais, apresentando prova e enquadrando as circunstâncias atenuantes, com base no regulamento disciplinar aplicável e nos princípios gerais do direito sancionatório.
 
@@ -44,8 +46,9 @@ Em <analise_disciplinar>:
 
 ### ETAPA 2 — ANÁLISE JURÍDICA
 Em <fundamentos_juridicos>:
-- Lei de Bases da Atividade Física e do Desporto (Lei n.º 99/2021): princípios gerais da disciplina desportiva
-- Lei n.º 74/2013 (TAD): recurso das decisões disciplinares
+- Lei de Bases da Atividade Física e do Desporto (Lei n.º 5/2007, de 16 de janeiro), art. 19.º: poderes disciplinares de natureza pública das federações com estatuto de utilidade pública desportiva
+- Regime Jurídico das Federações Desportivas (Decreto-Lei n.º 248-B/2008, de 31 de dezembro), arts. 52.º a 54.º: regulamentos disciplinares e princípios gerais do regime disciplinar — igualdade, irretroatividade e proporcionalidade das sanções, causas que eximem, atenuam ou agravam a responsabilidade, processo disciplinar obrigatório nas infrações mais graves e sempre que a suspensão exceda um mês, garantias de defesa e audiência do arguido, garantia de recurso (art. 53.º)
+- Lei n.º 74/2013 (TAD): recurso das deliberações do órgão de disciplina para o TAD, em arbitragem necessária, no prazo de 10 dias a contar da notificação (arts. 4.º, n.os 1 e 3, al. a), e 54.º, n.º 2, da Lei do TAD); fica excluída a resolução de questões emergentes da aplicação das normas técnicas e disciplinares diretamente respeitantes à prática da própria competição (art. 4.º, n.º 6)
 - [■ VERIFICAR: Regulamento Disciplinar da federação/liga — artigo da infração e da sanção]
 - [■ VERIFICAR: Regulamento Disciplinar — prazo de instauração do processo e de notificação]
 - Princípios de Direito Administrativo Sancionatório aplicáveis subsidiariamente: art. 266.º CRP (proporcionalidade), audiência prévia, tipicidade, culpa
@@ -154,6 +157,11 @@ Em <checklist_validacao>:
 
 | Citação | Estado | Nota |
 |---|---|---|
+| art. 19.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| arts. 52.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 53.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| arts. 4.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 4.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 266.º CRP | conferida (epígrafe) — Princípios fundamentais |  |
 | art. 266.º CRP | conferida (epígrafe) — Princípios fundamentais |  |
 | art. 32.º, n.º 10 CRP | conferida (epígrafe) — Garantias de processo criminal |  |

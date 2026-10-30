@@ -3,20 +3,22 @@ codigo: UE-052
 area: "Direito da União Europeia"
 titulo: "Queixa sobre Violação dos Direitos Fundamentais da Carta (art. 41.º — Direito a uma Boa Administração) em Procedimento da UE"
 titulo_en: "Complaint about a Breach of Charter Fundamental Rights (Article 41 — Right to Good Administration) in an EU Procedure"
-descricao: "Elabora a queixa ao Provedor de Justiça Europeu por violação do direito a uma boa administração (art. 41.º Carta dos Direitos Fundamentais da UE) em procedimento de uma instituição, órgão ou organismo da União Europeia, incluindo a estratégia de resolução amigável e o eventual recurso ao Tribunal de Justiça."
-descricao_en: "Prepares the complaint to the European Ombudsman for breach of the right to good administration (Article 41 of the Charter of Fundamental Rights of the EU) in a procedure of an institution, body, office or agency of the European Union, including the strategy for a friendly solution and any subsequent recourse to the Court of Justice."
+descricao: "Elabora a queixa ao Provedor de Justiça Europeu por violação do direito a uma boa administração (art. 41.º Carta dos Direitos Fundamentais da UE) em procedimento de uma instituição, órgão ou organismo da União Europeia, incluindo a estratégia de resolução amigável e a articulação com o eventual recurso para o Tribunal Geral."
+descricao_en: "Prepares the complaint to the European Ombudsman for breach of the right to good administration (Article 41 of the Charter of Fundamental Rights of the EU) in a procedure of an institution, body, office or agency of the European Union, including the strategy for a friendly solution and its coordination with any action before the General Court."
 ambito: ue
-estado_citacoes: "conferidas 2 · corrigidas 0 · por conferir 4"
+estado_citacoes: "conferidas 4 · corrigidas 0 · por conferir 8"
+revisao_tecnica: "2026-10-30 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
 # Queixa sobre Violação dos Direitos Fundamentais da Carta (art. 41.º — Direito a uma Boa Administração) em Procedimento da UE
 
 > **Âmbito:** UE · **Área:** Direito da União Europeia · **Código:** UE-052
-> **EN:** Complaint about a Breach of Charter Fundamental Rights (Article 41 — Right to Good Administration) in an EU Procedure. Prepares the complaint to the European Ombudsman for breach of the right to good administration (Article 41 of the Charter of Fundamental Rights of the EU) in a procedure of an institution, body, office or agency of the European Union, including the strategy for a friendly solution and any subsequent recourse to the Court of Justice.
-> **Citações:** conferidas 2 · corrigidas 0 · por conferir 4. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **EN:** Complaint about a Breach of Charter Fundamental Rights (Article 41 — Right to Good Administration) in an EU Procedure. Prepares the complaint to the European Ombudsman for breach of the right to good administration (Article 41 of the Charter of Fundamental Rights of the EU) in a procedure of an institution, body, office or agency of the European Union, including the strategy for a friendly solution and its coordination with any action before the General Court.
+> **Citações:** conferidas 4 · corrigidas 0 · por conferir 8. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-30 — corrigida (4 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
-Elabora a queixa ao Provedor de Justiça Europeu por violação do direito a uma boa administração (art. 41.º Carta dos Direitos Fundamentais da UE) em procedimento de uma instituição, órgão ou organismo da União Europeia, incluindo a estratégia de resolução amigável e o eventual recurso ao Tribunal de Justiça.
+Elabora a queixa ao Provedor de Justiça Europeu por violação do direito a uma boa administração (art. 41.º Carta dos Direitos Fundamentais da UE) em procedimento de uma instituição, órgão ou organismo da União Europeia, incluindo a estratégia de resolução amigável e a articulação com o eventual recurso para o Tribunal Geral.
 
 ## Método
 
@@ -45,12 +47,13 @@ Dentro de <fundamentos_juridicos>:
   • N.º 2, al. a): direito de audiência antes de qualquer medida individual desfavorável
   • N.º 2, al. b): direito de acesso ao processo
   • N.º 2, al. c): obrigação de fundamentação das decisões
-  • N.º 4: direito de petição em língua oficial da UE e resposta na mesma língua
+  • N.º 3: direito à reparação, pela União, dos danos causados pelas suas instituições ou agentes no exercício das respetivas funções
+  • N.º 4: direito de se dirigir às instituições da União numa das línguas dos Tratados e de obter resposta na mesma língua
 - Código Europeu de Boa Conduta Administrativa (adotado pelo Parlamento Europeu em 2001)
-- Competência do Provedor de Justiça Europeu (art. 228.º TFUE + Estatuto): investigação de casos de má administração das instituições, órgãos e organismos da UE; excluídos — atos dos órgãos jurisdicionais da UE; atos dos EM
+- Competência do Provedor de Justiça Europeu (art. 228.º TFUE + Estatuto — Regulamento (UE, Euratom) 2021/1163): investigação de casos de má administração das instituições, órgãos e organismos da UE; excluídos — o Tribunal de Justiça da União Europeia no exercício das suas funções jurisdicionais e a atuação de quaisquer outras autoridades, incluindo as dos EM (art. 1.º, n.º 3, do Estatuto); o Provedor não pode pôr em causa o bom fundamento de uma decisão judicial (art. 1.º, n.º 5, do Estatuto)
 - Prazo de queixa: 2 anos a partir do conhecimento dos factos; tentativa prévia de contacto com a instituição como condição de admissibilidade
 - Efeitos da intervenção do Provedor: recomendação; resolução amigável; relatório especial ao Parlamento Europeu; sem poder de anulação
-- Complementaridade com recurso judicial: o Provedor não é substituto do Tribunal Geral; as duas vias são complementares e podem ser usadas em simultâneo
+- Relação com o recurso judicial: o Provedor não é substituto do Tribunal Geral e as duas vias não se cumulam quanto aos mesmos factos — o Provedor não procede a inquéritos se os factos forem ou tiverem sido objeto de processo jurisdicional (art. 228.º, n.º 1, 2.º parágrafo, TFUE) e declara a queixa inadmissível ou põe fim à sua análise se houver processo judicial em curso ou terminado (art. 2.º, n.º 9, do Estatuto); a queixa não interrompe os prazos de recurso judicial ou administrativo (art. 2.º, n.º 8, do Estatuto — p. ex., os 2 meses do recurso de anulação, art. 263.º, 6.º parágrafo, TFUE), pelo que a escolha da via tem de ser feita antes de esses prazos expirarem
 
 ### ETAPA 3 — ESTRUTURA DA QUEIXA
 Dentro de <estrutura_queixa>:
@@ -76,7 +79,7 @@ Dentro de <estrutura_queixa>:
 [Art. 41.º, n.º 1, Carta DF: o assunto não foi tratado num prazo razoável. O procedimento dura [N meses/anos] sem decisão. O prazo regulamentar ou jurisprudencial razoável para este tipo de procedimento é de [■ VERIFICAR]. O atraso causou [prejuízo concreto].]
 
 **II.2. [Segundo Fundamento — ex. Violação do Direito de Audiência]**
-[Art. 41.º, n.º 2, al. a), Carta DF: a instituição adoptou medida desfavorável sem dar ao queixoso oportunidade de apresentar observações. A medida foi notificada em [data] sem qualquer consulta prévia.]
+[Art. 41.º, n.º 2, al. a), Carta DF: a instituição adotou medida desfavorável sem dar ao queixoso oportunidade de apresentar observações. A medida foi notificada em [data] sem qualquer consulta prévia.]
 
 **II.3. [Terceiro Fundamento — se aplicável]**
 
@@ -95,7 +98,7 @@ Dentro de <checklist_validacao>:
 - [ ] Tentativa prévia de contacto com a instituição realizada
 - [ ] Fundamentos de má administração identificados com artigos da Carta
 - [ ] Pedidos concretos e realistas formulados
-- [ ] Articulação com eventual recurso judicial avaliada
+- [ ] Articulação com eventual recurso judicial avaliada (sem processo judicial sobre os mesmos factos; prazos de recurso controlados, porque a queixa não os interrompe)
 - [ ] [■ VERIFICAR] itens sinalizados
 
 ---
@@ -118,5 +121,11 @@ Dentro de <checklist_validacao>:
 | Art. 41.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | Art. 41.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 228.º TFUE | conferida (epígrafe) — O Provedor de Justiça Europeu, que é eleito pelo Parlamento Europeu, é competente para rec |  |
+| art. 1.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 1.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 228.º, n.º 1, 2.º parágrafo, TFUE | conferida (epígrafe) — O Provedor de Justiça Europeu, que é eleito pelo Parlamento Europeu, é competente para rec |  |
+| art. 2.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 2.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 263.º, 6.º parágrafo, TFUE | conferida (epígrafe) — O Tribunal de Justiça da União Europeia fiscaliza a legalidade dos atos legislativos, dos  |  |
 | art. 41.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | artigo 228.º TFUE | conferida (epígrafe) — O Provedor de Justiça Europeu, que é eleito pelo Parlamento Europeu, é competente para rec |  |

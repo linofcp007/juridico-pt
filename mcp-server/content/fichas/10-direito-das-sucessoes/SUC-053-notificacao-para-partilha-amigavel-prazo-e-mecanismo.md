@@ -35,7 +35,7 @@ Apresenta em <diagnostico_indivisao>:
 - Há quanto tempo a herança está em indivisão
 - Composição dos bens (imóveis, contas, participações)
 - Número de herdeiros e posição de cada um (favorável / contrário / indiferente à partilha)
-- Uso dos bens por um co-herdeiro em exclusivo (eventual ação de compensação)
+- Uso dos bens por um coerdeiro em exclusivo (eventual ação de compensação)
 - Impacto patrimonial da indivisão prolongada (deterioração dos bens, conflitos)
 - Existência de crédito hipotecário sobre bens da herança (urgência)
 
@@ -61,7 +61,7 @@ Redige a notificação extrajudicial:
 **NOTIFICAÇÃO PARA PARTILHA DA HERANÇA**
 
 **De:** [Nome do Notificante], NIF [número], herdeiro habilitado na herança de [Nome do de cuius]
-**Para:** [Nome(s) do(s) Co-herdeiro(s)], NIF [número(s)]
+**Para:** [Nome(s) do(s) Coerdeiro(s)], NIF [número(s)]
 
 Venho notificar V. Exa. de que, ao abrigo do artigo 2101.º do Código Civil, pretendo proceder à partilha da herança de [Nome do de cuius], falecido em [data], da qual somos ambos herdeiros habilitados.
 
@@ -89,7 +89,7 @@ Apresenta em <checklist_validacao>:
 **NOTIFICANTE:**
 - Nome: [nome], NIF: [número], Qualidade: [herdeiro habilitado]
 
-**CO-HERDEIROS A NOTIFICAR:**
+**COERDEIROS A NOTIFICAR:**
 - [lista: nome, NIF, morada, posição]
 
 **BENS DA HERANÇA:**

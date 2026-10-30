@@ -6,7 +6,8 @@ titulo_en: "Supply Agreement"
 descricao: "Elabora o contrato de fornecimento de bens ou serviços de forma continuada ou periódica, definindo especificações, volumes mínimos, preços, condições de entrega, controlo de qualidade, penalidades por atraso e responsabilidade por defeito, em conformidade com o Código Civil português e o direito comercial."
 descricao_en: "Drafts an agreement for the continuous or periodic supply of goods or services, defining specifications, minimum volumes, prices, delivery terms, quality control, late-delivery penalties and liability for defects, in accordance with the Portuguese Civil Code and commercial law."
 ambito: nacional
-estado_citacoes: "sem citações"
+estado_citacoes: "conferidas 4 · corrigidas 0 · por conferir 9"
+revisao_tecnica: "2026-10-30 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
@@ -14,7 +15,8 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 
 > **Âmbito:** nacional · **Área:** Direito Comercial e das Sociedades · **Código:** COM-018
 > **EN:** Supply Agreement. Drafts an agreement for the continuous or periodic supply of goods or services, defining specifications, minimum volumes, prices, delivery terms, quality control, late-delivery penalties and liability for defects, in accordance with the Portuguese Civil Code and commercial law.
-> **Citações:** sem citações. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 4 · corrigidas 0 · por conferir 9. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-30 — corrigida (6 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
 Elabora o contrato de fornecimento de bens ou serviços de forma continuada ou periódica, definindo especificações, volumes mínimos, preços, condições de entrega, controlo de qualidade, penalidades por atraso e responsabilidade por defeito, em conformidade com o Código Civil português e o direito comercial.
 
@@ -26,7 +28,7 @@ Ficha de trabalho para preparar este documento. As regras da casa prevalecem sob
 - Aplicar Código Civil (arts. 874-939 para venda; arts. 1155-1156 para prestação de serviços) e Código Comercial
 - NUNCA inventar normas, jurisprudência ou valores
 - Marcar [■ VERIFICAR: o que falta]
-- Atenção às regras de transferência do risco (art. 882 CC) e defeitos (art. 913 CC)
+- Atenção às regras de transferência do risco (arts. 796.º e 797.º CC) e defeitos (art. 913 CC)
 - Valores em euros; português europeu formal
 
 ---
@@ -47,13 +49,14 @@ Analise em <analise_do_caso>:
 ### ETAPA 2 — ANÁLISE JURÍDICA
 Identifique em <fundamentos_juridicos>:
 - Arts. 874-939 CC — compra e venda: formação, entrega, defeitos, garantia (art. 913 CC)
-- Art. 882 CC — transferência do risco na entrega
+- Arts. 796.º e 797.º CC — risco: corre por conta do adquirente com a transferência do domínio, salvo se a coisa continuar em poder do alienante por termo a seu favor (transfere-se então com o vencimento do termo ou a entrega); havendo envio para local diferente do lugar do cumprimento, transfere-se com a entrega ao transportador ou expedidor
+- Art. 882.º CC — obrigação de entrega da coisa (no estado em que se encontrava ao tempo da venda, com as partes integrantes, os frutos pendentes e os documentos relativos à coisa)
 - Arts. 1155-1156 CC — prestação de serviços (se componente de serviço relevante)
 - Art. 790 CC — impossibilidade superveniente (força maior)
 - Art. 808 CC — mora do devedor: resolução por incumprimento
 - Regulamento (CE) 593/2008 (Roma I) — lei aplicável se partes de Estados diferentes
 - Incoterms 2020 — termos de entrega internacionalmente reconhecidos
-- Diretiva 2011/7/UE (transposta pela Lei 62/2013 — [■ VERIFICAR]) — luta contra atrasos de pagamento
+- Diretiva 2011/7/UE (transposta pelo Decreto-Lei n.º 62/2013, de 10 de maio) — atrasos de pagamento nas transações comerciais: juros de mora sem interpelação, prazos supletivos de 30 dias e prazo de pagamento entre empresas não superior a 60 dias, salvo disposição expressa em contrário que não seja nula nos termos do art. 8.º (art. 4.º do Decreto-Lei n.º 62/2013)
 
 ### ETAPA 3 — CONSTRUÇÃO
 Defina em <estrategia>:
@@ -94,7 +97,7 @@ O Fornecedor obriga-se a fornecer ao Cliente, de forma [continuada / periódica]
 5.3. Em caso de defeito confirmado, o Fornecedor, à sua escolha, repara, substitui ou concede crédito no valor dos Fornecimentos defeituosos, no prazo de [X] dias.
 
 **CLÁUSULA 6.ª — PAGAMENTO**
-O pagamento é efetuado a [X] dias após a receção da fatura [/ data da entrega], por transferência bancária para o IBAN [■ VERIFICAR]. O atraso no pagamento vence juros à taxa legal aplicável às transações comerciais [■ VERIFICAR: taxa legal vigente nos termos da Lei 62/2013 ou equivalente vigente].
+O pagamento é efetuado a [X] dias após a receção da fatura [/ data da entrega] [prazo não superior a 60 dias, salvo disposição expressa em contrário que não seja nula nos termos do art. 8.º do Decreto-Lei n.º 62/2013 — art. 4.º, n.º 5], por transferência bancária para o IBAN [■ VERIFICAR]. O atraso no pagamento vence juros de mora, sem necessidade de interpelação, a contar do dia seguinte ao do vencimento, à taxa dos juros comerciais estabelecida no Código Comercial (art. 4.º, n.ºs 1 e 2, do Decreto-Lei n.º 62/2013, de 10 de maio) [■ VERIFICAR: taxa do semestre em curso].
 
 **CLÁUSULA 7.ª — CONFIDENCIALIDADE**
 As Partes mantêm confidenciais as informações técnicas e comerciais trocadas no âmbito deste contrato, durante a vigência e por [X] anos após a cessação.
@@ -109,7 +112,7 @@ A responsabilidade de cada Parte está limitada ao valor total dos Fornecimentos
 O contrato vigora por [X] anos, renovável automaticamente, com denúncia mediante pré-aviso de [X] meses. Pode ser resolvido por justa causa por incumprimento não sanado em [30] dias após notificação.
 
 **CLÁUSULA 11.ª — LEI E LITÍGIOS**
-Regulado pela lei portuguesa. Litígios submetidos ao [tribunal da comarca de / CAC Lisboa].
+Regulado pela lei portuguesa. Litígios submetidos ao [tribunal da comarca de [X] / Centro de Arbitragem da Câmara de Comércio e Indústria Portuguesa (Centro de Arbitragem Comercial), nos termos do respetivo Regulamento de Arbitragem].
 
 [Data e local]
 [Assinaturas das Partes]
@@ -122,7 +125,7 @@ Apresente em <checklist_validacao>:
 - [ ] Termos de entrega Incoterms definidos com transferência de risco
 - [ ] Prazo e processo de aceitação/rejeição por qualidade definidos
 - [ ] Penalidades por atraso na entrega incluídas (com cap máximo)
-- [ ] Prazo de pagamento conforme Lei de Combate a Atrasos de Pagamento [■ VERIFICAR]
+- [ ] Prazo de pagamento conforme o Decreto-Lei n.º 62/2013 (até 60 dias entre empresas, salvo disposição expressa que não seja nula; na falta de prazo, 30 dias — art. 4.º)
 - [ ] Força maior: definição e prazo de resolução por evento prolongado
 - [ ] Limitação de responsabilidade (cap anual, exclusão de danos indiretos)
 - [ ] Pontos [■ VERIFICAR] sinalizados
@@ -150,3 +153,21 @@ Apresente em <checklist_validacao>:
 
 **OBSERVAÇÕES:**
 [penalidades específicas, setor regulado, força maior relevante]
+
+## Citações desta ficha
+
+| Citação | Estado | Nota |
+|---|---|---|
+| arts. 796.º e 797.º CC | conferida (epígrafe) — Risco |  |
+| art. 913 CC | por conferir [■ VERIFICAR] | o assunto descrito não coincide com a epígrafe; confirmar |
+| art. 913 CC | por conferir [■ VERIFICAR] | o assunto descrito não coincide com a epígrafe; confirmar |
+| Arts. 796.º e 797.º CC | conferida (epígrafe) — Risco |  |
+| Art. 882.º CC | conferida (epígrafe) — Entrega da coisa |  |
+| Art. 790 CC | por conferir [■ VERIFICAR] | o assunto descrito não coincide com a epígrafe; confirmar |
+| Art. 808 CC | conferida (índice) |  |
+| art. 8.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 8.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 4.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 4.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 4.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 4.º | por conferir [■ VERIFICAR] | diploma não identificado |

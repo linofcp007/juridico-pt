@@ -6,7 +6,8 @@ titulo_en: "Application for International Protection / Asylum"
 descricao: "Gera uma exposição fundamentada para acompanhar o pedido de proteção internacional (asilo ou proteção subsidiária) apresentado à AIMA, com narrativa estruturada dos factos persecutórios, enquadramento jurídico na Convenção de Genebra e na Lei n.º 27/2008, e orientações sobre a entrevista individual com o agente de elegibilidade."
 descricao_en: "Generates a reasoned statement to accompany the application for international protection (asylum or subsidiary protection) submitted to AIMA, with a structured narrative of the facts of persecution, the legal framework under the Geneva Convention and Law No. 27/2008, and guidance on the individual interview with the eligibility officer."
 ambito: nacional
-estado_citacoes: "conferidas 0 · corrigidas 0 · por conferir 20"
+estado_citacoes: "conferidas 0 · corrigidas 0 · por conferir 26"
+revisao_tecnica: "2026-10-30 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
@@ -14,7 +15,8 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 
 > **Âmbito:** nacional · **Área:** Direito dos Estrangeiros e Nacionalidade · **Código:** EST-021
 > **EN:** Application for International Protection / Asylum. Generates a reasoned statement to accompany the application for international protection (asylum or subsidiary protection) submitted to AIMA, with a structured narrative of the facts of persecution, the legal framework under the Geneva Convention and Law No. 27/2008, and guidance on the individual interview with the eligibility officer.
-> **Citações:** conferidas 0 · corrigidas 0 · por conferir 20. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 0 · corrigidas 0 · por conferir 26. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-30 — corrigida (9 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
 Gera uma exposição fundamentada para acompanhar o pedido de proteção internacional (asilo ou proteção subsidiária) apresentado à AIMA, com narrativa estruturada dos factos persecutórios, enquadramento jurídico na Convenção de Genebra e na Lei n.º 27/2008, e orientações sobre a entrevista individual com o agente de elegibilidade.
 
@@ -40,19 +42,20 @@ Apresente dentro de um bloco <analise_do_caso>:
 - Motivos de perseguição alegados: raça, religião, nacionalidade, grupo social, opiniões políticas
 - Agente de perseguição: Estado, grupos paramilitares, grupos terroristas, família (perseguição de género)
 - Factos concretos de perseguição sofrida: datas, locais, episódios específicos
-- Fundamento: estatuto de refugiado (art. 1.º-A da Convenção de Genebra) ou proteção subsidiária (art. 15.º da Diretiva 2011/95/UE)
+- Fundamento: estatuto de refugiado (art. 1.º-A da Convenção de Genebra; art. 3.º, n.º 2, da Lei n.º 27/2008) ou proteção subsidiária (art. 7.º da Lei n.º 27/2008; art. 15.º do Regulamento (UE) 2024/1347)
 - Documentação disponível: documentos do país de origem, provas de perseguição
-- Aplicabilidade do Regulamento de Dublin (se veio de outro Estado-membro UE)
+- Determinação do Estado-Membro responsável pelo pedido (Regulamento (UE) 2024/1351, que revogou o Regulamento de Dublin III; arts. 36.º e ss. da Lei n.º 27/2008), se veio de outro Estado-Membro da UE
 
 ### ETAPA 2 — ANÁLISE JURÍDICA (Fundamentação)
 Apresente dentro de um bloco <fundamentos_juridicos>:
 - Art. 1.º-A da Convenção de Genebra de 1951 — definição de refugiado
-- Art. 15.º da Diretiva 2011/95/UE — proteção subsidiária (dano grave)
-- Arts. 3.º e 8.º da Lei n.º 27/2008 — estatuto de refugiado e proteção subsidiária em Portugal
-- Princípio do non-refoulement (art. 33.º da Convenção de Genebra; art. 19.º da Diretiva)
+- Art. 15.º do Regulamento (UE) 2024/1347 (aplicável desde 1 de julho de 2026; revogou a Diretiva 2011/95/UE) — proteção subsidiária (ofensa grave)
+- Arts. 3.º e 7.º da Lei n.º 27/2008 (na redação da Lei n.º 62/2026) — direito de asilo (estatuto de refugiado) e proteção subsidiária em Portugal; arts. 5.º e 6.º — atos e agentes de perseguição
+- Princípio do non-refoulement (art. 33.º da Convenção de Genebra; art. 21.º do Regulamento (UE) 2024/1347; art. 47.º da Lei n.º 27/2008)
 - Art. 3.º da CEDH — proibição de tortura e tratamentos desumanos (reforço do non-refoulement)
-- Regulamento (UE) n.º 604/2013 (Regulamento de Dublin III) — Estado responsável pelo pedido [■ VERIFICAR: se houve passagem por outro Estado-membro]
-- Direitos do requerente durante o procedimento (arts. 25.º e ss. da Lei n.º 27/2008): condições de acolhimento, apoio jurídico
+- Regulamento (UE) 2024/1351 (gestão do asilo e da migração; revogou o Regulamento (UE) n.º 604/2013 — Dublin III — com efeitos a partir de 1 de julho de 2026, cujos critérios continuam a valer para os pedidos registados antes dessa data) e arts. 36.º e ss. da Lei n.º 27/2008 — Estado responsável pelo pedido [■ VERIFICAR: se houve passagem por outro Estado-membro]
+- Regulamento (UE) 2024/1348 (procedimento comum de proteção internacional; aplica-se aos pedidos apresentados a partir de 12 de junho de 2026) — garantias processuais e entrevista pessoal
+- Direitos do requerente durante o procedimento (arts. 49.º e ss. da Lei n.º 27/2008): condições de acolhimento, apoio jurídico
 
 ### ETAPA 3 — CONSTRUÇÃO ARGUMENTATIVA
 Apresente dentro de um bloco <estrategia>:
@@ -66,7 +69,7 @@ Apresente dentro de um bloco <estrategia>:
 Redige a exposição fundamentada na seguinte estrutura:
 
 **AGÊNCIA PARA A INTEGRAÇÃO, MIGRAÇÕES E ASILO (AIMA)**
-Serviço de Asilo e Refugiados
+Centro Nacional para o Asilo e Refugiados (CNAR)
 
 **EXPOSIÇÃO FUNDAMENTADA PARA PEDIDO DE PROTEÇÃO INTERNACIONAL**
 **Ao abrigo da Lei n.º 27/2008, de 30 de junho**
@@ -91,7 +94,7 @@ Serviço de Asilo e Refugiados
 *4.1. Estatuto de Refugiado (art. 1.º-A da Convenção de Genebra; art. 3.º da Lei n.º 27/2008)*
 [Se o requerente tem fundado receio de perseguição por motivo de [raça/religião/nacionalidade/grupo social/opiniões políticas]]
 
-*4.2. Proteção Subsidiária (art. 15.º da Diretiva 2011/95/UE; art. 8.º da Lei n.º 27/2008)*
+*4.2. Proteção Subsidiária (art. 15.º do Regulamento (UE) 2024/1347; art. 7.º da Lei n.º 27/2008)*
 [Caso subsidiário: risco real de ofensa grave (pena de morte, tortura, conflito armado)]
 
 **V. DO PRINCÍPIO DO NON-REFOULEMENT**
@@ -101,7 +104,7 @@ Serviço de Asilo e Refugiados
 [Lista: documentos de identidade, provas de perseguição, relatórios de organizações de DH, declarações, etc.]
 
 **VII. DO PEDIDO**
-O/A requerente solicita à AIMA a concessão do estatuto de refugiado nos termos do art. 1.º-A da Convenção de Genebra e do art. 3.º da Lei n.º 27/2008, ou, a título subsidiário, a concessão de proteção subsidiária ao abrigo do art. 8.º da mesma Lei.
+O/A requerente solicita à AIMA a concessão do estatuto de refugiado nos termos do art. 1.º-A da Convenção de Genebra e do art. 3.º da Lei n.º 27/2008, ou, a título subsidiário, a concessão de proteção subsidiária ao abrigo do art. 7.º da mesma Lei.
 
 [Local e data]
 [Nome do advogado — Cédula OA n.º]
@@ -120,7 +123,7 @@ Apresente dentro de um bloco <checklist_validacao>:
 - [ ] Impossibilidade de proteção pelo Estado de origem demonstrada
 - [ ] Princípio do non-refoulement invocado (art. 33.º Convenção de Genebra + art. 3.º CEDH)
 - [ ] Pedido principal (refugiado) e subsidiário (proteção subsidiária) formulados
-- [ ] Regulamento de Dublin III verificado (se houve passagem por outro Estado-membro)
+- [ ] Estado-Membro responsável verificado (Regulamento (UE) 2024/1351, se houve passagem por outro Estado-membro)
 - [ ] Orientações para entrevista incluídas
 - [ ] Itens [■ VERIFICAR] sinalizados
 - [ ] Pontos que exigem atenção especial: [liste]
@@ -157,20 +160,26 @@ Apresente dentro de um bloco <checklist_validacao>:
 | art. 1.º-A | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 1.º-A | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 1.º-A | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 3.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 3.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 3.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 3.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 3.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 7.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 7.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 7.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 15.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 15.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| arts. 36.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| arts. 36.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | Art. 1.º-A | por conferir [■ VERIFICAR] | diploma não identificado |
 | Art. 15.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | Arts. 3.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| arts. 5.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 33.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 33.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 33.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| art. 19.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 21.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 47.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | Art. 3.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| arts. 25.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| art. 3.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| art. 3.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| art. 3.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| art. 3.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| art. 8.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| art. 8.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| arts. 49.º | por conferir [■ VERIFICAR] | diploma não identificado |

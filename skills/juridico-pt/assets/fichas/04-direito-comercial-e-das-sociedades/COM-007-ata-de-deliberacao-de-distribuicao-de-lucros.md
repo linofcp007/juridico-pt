@@ -6,7 +6,7 @@ titulo_en: "Minutes of a Resolution on the Distribution of Profits"
 descricao: "Elabora a ata da assembleia geral que delibera sobre a aplicação dos resultados do exercício, incluindo constituição ou reforço de reservas obrigatórias e facultativas, distribuição de dividendos ou lucros, e reporte de resultados transitados, em conformidade com os artigos 33, 217 e 294 do CSC."
 descricao_en: "Drafts the minutes of the general meeting resolving on the appropriation of the financial year's results, including the creation or increase of mandatory and optional reserves, the distribution of dividends or profits, and the carrying forward of retained earnings, in accordance with Articles 33, 217 and 294 CSC."
 ambito: nacional
-estado_citacoes: "conferidas 22 · corrigidas 0 · por conferir 4"
+estado_citacoes: "conferidas 23 · corrigidas 0 · por conferir 5"
 revisao_tecnica: "2026-10-28 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
@@ -15,7 +15,7 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 
 > **Âmbito:** nacional · **Área:** Direito Comercial e das Sociedades · **Código:** COM-007
 > **EN:** Minutes of a Resolution on the Distribution of Profits. Drafts the minutes of the general meeting resolving on the appropriation of the financial year's results, including the creation or increase of mandatory and optional reserves, the distribution of dividends or profits, and the carrying forward of retained earnings, in accordance with Articles 33, 217 and 294 CSC.
-> **Citações:** conferidas 22 · corrigidas 0 · por conferir 4. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 23 · corrigidas 0 · por conferir 5. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
 > **Revisão técnica:** 2026-10-28 — corrigida (10 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
 Elabora a ata da assembleia geral que delibera sobre a aplicação dos resultados do exercício, incluindo constituição ou reforço de reservas obrigatórias e facultativas, distribuição de dividendos ou lucros, e reporte de resultados transitados, em conformidade com os artigos 33, 217 e 294 do CSC.
@@ -158,6 +158,7 @@ Apresente em <checklist_validacao>:
 |---|---|---|
 | art. 295.º, n.º 1, CSC | conferida (epígrafe) — Reserva legal |  |
 | art. 218.º, n.º 2, CSC | conferida (epígrafe) — Reserva legal |  |
+| art. 297 CSC | conferida (epígrafe) — Adiantamentos sobre lucros no decurso do exercício |  |
 | art. 71.º, n.º 1, al. a), CIRS | conferida (epígrafe) — Taxas liberatórias |  |
 | art. 71.º, n.º 9, CIRS | conferida (epígrafe) — Taxas liberatórias |  |
 | arts. 94.º e 97.º CIRC | conferida (epígrafe) — Retenção na fonte |  |
@@ -181,4 +182,5 @@ Apresente em <checklist_validacao>:
 | art. 294.º, n.º 2, CSC | conferida (epígrafe) — Direito aos lucros do exercício |  |
 | art. 218.º CSC | conferida (epígrafe) — Reserva legal |  |
 | art. 71.º do CIRS | conferida (epígrafe) — Taxas liberatórias |  |
+| art. 218 CSC | por conferir [■ VERIFICAR] | o assunto descrito não coincide com a epígrafe; confirmar |
 | Arts. 32.º e 33.º CSC | conferida (epígrafe) — Limite da distribuição de bens aos sócios |  |

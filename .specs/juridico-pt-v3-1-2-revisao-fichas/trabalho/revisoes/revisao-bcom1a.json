@@ -1,0 +1,263 @@
+[
+ {
+  "codigo": "COM-010",
+  "veredicto": "corrigida",
+  "resumo": "A ficha situava a transmissão de ações nos arts. 286.º a 295.º CSC (que tratam de prestações acessórias, informação e lucros) e mandava registar a transmissão de ações nominativas no registo comercial, que só abrange a transmissão de quotas. Corrigiu-se para os arts. 328.º e 329.º CSC e para o Código dos Valores Mobiliários (com [■ VERIFICAR] nos artigos), ajustou-se o closing ao facto de todas as ações serem nominativas (art. 299.º CSC) e corrigiu-se a denominação do centro de arbitragem na cláusula compromissória.",
+  "substituicoes": [
+   {
+    "de": "- Arts. 286-295 CSC — transmissão de ações em S.A.: forma, limitações estatutárias",
+    "para": "- Arts. 328.º e 329.º CSC — limitações estatutárias à transmissão de ações nominativas (consentimento da sociedade, direito de preferência dos outros acionistas, requisitos subjetivos ou objetivos) e concessão ou recusa do consentimento; as cláusulas de limitação devem constar dos títulos ou das contas de registo das ações, sob pena de inoponibilidade a adquirentes de boa-fé (art. 328.º, n.º 4, CSC)",
+    "motivo": "Os arts. 286.º a 295.º CSC não tratam da transmissão de ações; as limitações à transmissão estão nos arts. 328.º e 329.º CSC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0328&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Código do Registo Comercial — registo de transmissão de ações nominativas",
+    "para": "- Código dos Valores Mobiliários — forma da transmissão das ações (escriturais: registo na conta do adquirente; tituladas: declaração de transmissão e registo junto do emitente) [■ VERIFICAR: arts. 80.º e 102.º do Código dos Valores Mobiliários]; a transmissão de ações não está sujeita a registo comercial (o art. 3.º, n.º 1, alínea c), do Código do Registo Comercial abrange só a transmissão de quotas)",
+    "motivo": "A transmissão de ações não é facto sujeito a registo comercial; o art. 3.º, n.º 1, al. c), do CRCom só abrange a transmissão de quotas.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=506A0003&nid=506&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "4.2. No Closing, o Vendedor entrega as Ações (e título definitivo, se nominativas) e o Comprador paga",
+    "para": "4.2. No Closing, o Vendedor transmite as Ações (se tituladas, com a declaração de transmissão e a entrega dos títulos; se escriturais, com a ordem de registo na conta do Comprador) [■ VERIFICAR: forma de representação das Ações e formalidades do Código dos Valores Mobiliários] e o Comprador paga",
+    "motivo": "Todas as ações são nominativas, não sendo permitidas ações ao portador (art. 299.º CSC); a distinção relevante para o closing é entre ações tituladas e escriturais.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0299&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "Os litígios são submetidos a arbitragem no [Centro de Arbitragem Comercial de Lisboa — CAC], com sede em Lisboa, em português, por [1/3] árbitros, nos termos do regulamento do CAC.",
+    "para": "Todos os litígios emergentes deste contrato ou com ele relacionados são definitivamente resolvidos por arbitragem, de acordo com o Regulamento de Arbitragem do Centro de Arbitragem da Câmara de Comércio e Indústria Portuguesa (Centro de Arbitragem Comercial), por [1/3] árbitro(s) nomeado(s) nos termos do Regulamento. A arbitragem tem lugar em Lisboa e a língua da arbitragem é o português.",
+    "motivo": "A denominação do centro na cláusula-modelo publicada pelo próprio centro é «Centro de Arbitragem da Câmara de Comércio e Indústria Portuguesa (Centro de Arbitragem Comercial)»; uma designação errada pode tornar a cláusula patológica.",
+    "fonte": "https://www.centrodearbitragem.pt/pt/clausulas/"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar no Código dos Valores Mobiliários em vigor (arts. 80.º e 102.º) as formalidades de transmissão consoante as ações da Sociedade sejam escriturais ou tituladas.",
+   "Confirmar se a operação atinge os limiares de notificação prévia à AdC da Lei n.º 19/2012 e, nesse caso, a proibição de realizar a concentração antes da decisão de não oposição.",
+   "Aferir a duração e o âmbito do pacto de não concorrência à luz das regras de concorrência sobre restrições acessórias às concentrações."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0328&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0299&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=506A0003&nid=506&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.centrodearbitragem.pt/pt/clausulas/",
+   "https://www.centrodearbitragem.pt/"
+  ]
+ },
+ {
+  "codigo": "COM-018",
+  "veredicto": "corrigida",
+  "resumo": "A ficha atribuía a transferência do risco ao art. 882.º CC (que regula a entrega da coisa) e dava a Diretiva 2011/7/UE como transposta pela «Lei 62/2013» (é o Decreto-Lei n.º 62/2013, de 10 de maio), remetendo para esse diploma errado na cláusula de pagamento e na checklist. Corrigiu-se o risco para os arts. 796.º e 797.º CC, a cláusula de juros e prazo de pagamento para o art. 4.º do DL 62/2013 e a denominação do centro de arbitragem.",
+  "substituicoes": [
+   {
+    "de": "- Atenção às regras de transferência do risco (art. 882 CC) e defeitos (art. 913 CC)",
+    "para": "- Atenção às regras de transferência do risco (arts. 796.º e 797.º CC) e defeitos (art. 913 CC)",
+    "motivo": "O risco rege-se pelos arts. 796.º e 797.º CC; o art. 882.º CC trata da entrega da coisa.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0796&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Art. 882 CC — transferência do risco na entrega",
+    "para": "- Arts. 796.º e 797.º CC — risco: corre por conta do adquirente com a transferência do domínio, salvo se a coisa continuar em poder do alienante por termo a seu favor (transfere-se então com o vencimento do termo ou a entrega); havendo envio para local diferente do lugar do cumprimento, transfere-se com a entrega ao transportador ou expedidor\n- Art. 882.º CC — obrigação de entrega da coisa (no estado em que se encontrava ao tempo da venda, com as partes integrantes, os frutos pendentes e os documentos relativos à coisa)",
+    "motivo": "O art. 882.º CC regula a entrega da coisa, não a transferência do risco, que está nos arts. 796.º e 797.º CC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0797&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Diretiva 2011/7/UE (transposta pela Lei 62/2013 — [■ VERIFICAR]) — luta contra atrasos de pagamento",
+    "para": "- Diretiva 2011/7/UE (transposta pelo Decreto-Lei n.º 62/2013, de 10 de maio) — atrasos de pagamento nas transações comerciais: juros de mora sem interpelação, prazos supletivos de 30 dias e prazo de pagamento entre empresas não superior a 60 dias, salvo disposição expressa em contrário que não seja nula nos termos do art. 8.º (art. 4.º do Decreto-Lei n.º 62/2013)",
+    "motivo": "A Diretiva 2011/7/UE foi transposta pelo Decreto-Lei n.º 62/2013, de 10 de maio, não por uma «Lei 62/2013».",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1920A0004&nid=1920&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "O pagamento é efetuado a [X] dias após a receção da fatura [/ data da entrega], por transferência bancária para o IBAN [■ VERIFICAR]. O atraso no pagamento vence juros à taxa legal aplicável às transações comerciais [■ VERIFICAR: taxa legal vigente nos termos da Lei 62/2013 ou equivalente vigente].",
+    "para": "O pagamento é efetuado a [X] dias após a receção da fatura [/ data da entrega] [prazo não superior a 60 dias, salvo disposição expressa em contrário que não seja nula nos termos do art. 8.º do Decreto-Lei n.º 62/2013 — art. 4.º, n.º 5], por transferência bancária para o IBAN [■ VERIFICAR]. O atraso no pagamento vence juros de mora, sem necessidade de interpelação, a contar do dia seguinte ao do vencimento, à taxa dos juros comerciais estabelecida no Código Comercial (art. 4.º, n.ºs 1 e 2, do Decreto-Lei n.º 62/2013, de 10 de maio) [■ VERIFICAR: taxa do semestre em curso].",
+    "motivo": "Remissão para o diploma certo (DL 62/2013, art. 4.º): juros sem interpelação, taxa do Código Comercial e limite de 60 dias para o prazo de pagamento entre empresas.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1920A0004&nid=1920&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Prazo de pagamento conforme Lei de Combate a Atrasos de Pagamento [■ VERIFICAR]",
+    "para": "- [ ] Prazo de pagamento conforme o Decreto-Lei n.º 62/2013 (até 60 dias entre empresas, salvo disposição expressa que não seja nula; na falta de prazo, 30 dias — art. 4.º)",
+    "motivo": "Identifica o diploma em vigor (DL 62/2013) em vez de uma «Lei de Combate a Atrasos de Pagamento» inexistente.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1920A0004&nid=1920&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "Litígios submetidos ao [tribunal da comarca de / CAC Lisboa].",
+    "para": "Litígios submetidos ao [tribunal da comarca de [X] / Centro de Arbitragem da Câmara de Comércio e Indústria Portuguesa (Centro de Arbitragem Comercial), nos termos do respetivo Regulamento de Arbitragem].",
+    "motivo": "Denominação correta do centro de arbitragem, segundo a cláusula-modelo publicada pelo próprio centro.",
+    "fonte": "https://www.centrodearbitragem.pt/pt/clausulas/"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "O «Período de Aceitação» (cláusula 5.2) não pode exceder 30 dias a contar da receção, salvo disposição expressa que não constitua abuso manifesto face ao credor (art. 4.º, n.º 4, do DL 62/2013); confirmar também a articulação da aceitação tácita com os defeitos ocultos (arts. 916.º e 917.º CC e regime da compra e venda comercial).",
+   "Confirmar se, à data, já vigora algum regulamento europeu sobre atrasos de pagamento que substitua a Diretiva 2011/7/UE.",
+   "Na limitação de responsabilidade (cláusula 9.ª), ponderar o art. 809.º CC e, se as cláusulas não forem negociadas, o regime das cláusulas contratuais gerais."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0796&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0797&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0882&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1920A0004&nid=1920&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.centrodearbitragem.pt/pt/clausulas/"
+  ]
+ },
+ {
+  "codigo": "COM-026",
+  "veredicto": "corrigida",
+  "resumo": "As remissões sem «º» da Etapa 2 e da checklist estavam desfasadas (o art. 133.º CSC é o quórum, o 134.º o conteúdo das deliberações, a exoneração está no 137.º e o registo no 140.º-A; o 135.º está revogado); a ficha exigia ainda unanimidade «se prejudicar algum sócio» e dava um direito geral de exoneração contado do registo e avaliado pelo art. 240.º CSC. Corrigiu-se segundo os arts. 130.º a 140.º-A CSC: maioria do tipo (arts. 265.º e 386.º CSC), aprovação de quem passe a responder ilimitadamente, impedimentos do art. 131.º, exoneração só se a lei ou o contrato a atribuírem, no prazo de um mês, pelo valor do art. 105.º CSC, e eficácia perante terceiros com o registo (arts. 14.º e 15.º CRCom). Retirou-se o ENI das transformações (o EIRL transforma-se pelo art. 270.º-A, n.º 5, CSC).",
+  "substituicoes": [
+   {
+    "de": "- Aplicar arts. 130-137 CSC (transformação de sociedades)\n- A transformação não implica dissolução nem criação de nova pessoa jurídica — continuidade da personalidade",
+    "para": "- Aplicar arts. 130.º a 140.º-A CSC (transformação de sociedades)\n- Em regra, a transformação não importa a dissolução da sociedade (continuidade da personalidade), salvo se os sócios deliberarem a transformação com dissolução, caso em que a nova sociedade sucede automática e globalmente à anterior (art. 130.º, n.ºs 3 e 5, CSC)",
+    "motivo": "O capítulo da transformação vai até ao art. 140.º-A CSC, e a lei admite a transformação com dissolução, com sucessão global.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0130&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "  - Outros: ENI → Unipessoal Lda.; sociedade em nome coletivo → Lda.",
+    "para": "  - Outros: sociedade em nome coletivo → Lda.; sociedade civil → tipo comercial (art. 130.º, n.º 2, CSC); EIRL → sociedade unipessoal por quotas, por declaração escrita do interessado (art. 270.º-A, n.º 5, CSC). O empresário em nome individual (ENI) não é sociedade e não se transforma: constitui uma sociedade unipessoal por quotas, podendo realizar a entrada com o estabelecimento [■ VERIFICAR: regime da entrada em espécie e efeitos fiscais]",
+    "motivo": "A transformação dos arts. 130.º e seguintes CSC só vale para sociedades; o EIRL transforma-se pelo art. 270.º-A, n.º 5, CSC e o ENI constitui uma sociedade.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0270A&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Sócios unanimidade: a transformação exige aprovação de todos os sócios? (art. 133 CSC — pode exigir unanimidade se prejudicar algum sócio)\n- Direito de exoneração: sócios que não aprovem têm direito de exoneração (art. 134 CSC)?",
+    "para": "- Maioria: a transformação é deliberada nos termos prescritos para o tipo de sociedade (art. 133.º, n.º 1, CSC) — na Lda., três quartos dos votos correspondentes ao capital social, ou mais se o pacto o exigir (art. 265.º, n.ºs 1 e 3, CSC); na S.A., dois terços dos votos emitidos, com a presença de um terço do capital em primeira convocação (arts. 383.º, n.º 2, e 386.º, n.ºs 3 e 4, CSC). Se a transformação importar responsabilidade ilimitada para algum sócio, só é válida com a aprovação desse sócio (art. 133.º, n.º 2, CSC); os titulares de direitos especiais que não possam ser mantidos podem impedi-la, opondo-se por escrito (art. 131.º, n.º 1, alínea c), e n.º 2, CSC)\n- Impedimentos: capital não integralmente liberado, património inferior à soma do capital e da reserva legal, obrigações convertíveis ainda não reembolsadas ou convertidas (art. 131.º, n.º 1, CSC)\n- Direito de exoneração: só existe se a lei ou o contrato de sociedade o atribuírem ao sócio que votou contra; exerce-se no prazo de um mês a contar da aprovação da deliberação, pelo valor calculado nos termos do art. 105.º do CSC (art. 137.º do CSC)",
+    "motivo": "O art. 133.º CSC exige a maioria do tipo e a aprovação de quem passe a responder ilimitadamente (não unanimidade por «prejuízo»); a exoneração está no art. 137.º CSC e depende de a lei ou o contrato a atribuírem.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0133&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Art. 130 CSC — transformação: noção e princípio de continuidade da personalidade\n- Art. 131 CSC — formas admissíveis de transformação\n- Art. 132 CSC — deliberação de transformação: maioria exigida\n- Art. 133 CSC — maioria qualificada quando há prejuízo para sócios\n- Art. 134 CSC — direito de exoneração dos sócios dissidentes\n- Art. 135 CSC — formalidades e registo\n- Art. 137 CSC — eficácia da transformação (a partir do registo)",
+    "para": "- Art. 130.º CSC — noção e modalidades: transformação sem dissolução (regra) ou com dissolução; transformação de sociedades civis em sociedades de tipo comercial\n- Art. 131.º CSC — impedimentos à transformação\n- Art. 132.º CSC — relatório justificativo da administração, com o balanço e o projeto do novo contrato, à disposição dos sócios desde a convocação\n- Art. 133.º CSC — quórum deliberativo: maioria do tipo de sociedade e aprovação dos sócios que passem a responder ilimitadamente\n- Art. 134.º CSC — deliberações separadas: balanço ou situação patrimonial, transformação e novo contrato\n- Art. 136.º CSC — o montante nominal e a proporção das participações mantêm-se, salvo acordo de todos os sócios interessados\n- Art. 137.º do CSC — direito de exoneração (se previsto na lei ou no contrato; prazo de um mês a contar da deliberação; valor nos termos do art. 105.º do CSC)\n- Art. 140.º-A CSC — registo da transformação: declaração da administração sobre a inexistência de oposição e, havendo exonerações, sobre os sócios exonerados e o valor pago",
+    "motivo": "Os números estavam desfasados das epígrafes (131.º impedimentos, 132.º relatório, 133.º quórum, 134.º conteúdo das deliberações, 137.º exoneração, 140.º-A registo) e o art. 135.º CSC está revogado.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0134&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "os sócios que votaram contra a presente deliberação têm direito de exoneração no prazo de [X] dias a contar do registo da transformação, pelo valor das suas participações a apurar nos termos do art. 240.º do CSC. [■ VERIFICAR: direito de exoneração aplicável ao caso]",
+    "para": "os sócios que votaram contra a presente deliberação, se a lei ou o contrato de sociedade lhes atribuírem o direito de se exonerarem, podem exigir, no prazo de um mês a contar da aprovação desta deliberação, que a sociedade adquira ou faça adquirir a sua participação social, recebendo o valor calculado nos termos do art. 105.º do CSC. [■ VERIFICAR: norma legal ou cláusula do pacto social que confere, no caso, o direito de exoneração]",
+    "motivo": "O art. 137.º CSC só dá a exoneração quando a lei ou o contrato a atribuem, com prazo de um mês contado da aprovação da deliberação e valor calculado nos termos do art. 105.º CSC (não do art. 240.º).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0137&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "nos termos do art. [132.º / 133.º] do CSC.",
+    "para": "nos termos do art. 133.º do CSC [na Lda.: art. 265.º CSC / na S.A.: art. 386.º CSC].",
+    "motivo": "O art. 132.º CSC trata do relatório e da convocação; a maioria resulta do art. 133.º CSC, que remete para a do tipo de sociedade.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0133&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "A transformação produz efeitos a partir do registo (art. 137.º CSC).",
+    "para": "O registo deve ser pedido no prazo de dois meses a contar da data em que a transformação for titulada (art. 15.º, n.ºs 1 e 2, do Código do Registo Comercial) e a transformação só produz efeitos contra terceiros depois da data do registo (art. 14.º, n.º 1, do Código do Registo Comercial).",
+    "motivo": "O art. 137.º CSC trata da exoneração; a oponibilidade a terceiros e o prazo do registo constam dos arts. 14.º e 15.º do CRCom (a transformação é facto sujeito a registo obrigatório, art. 3.º, n.º 1, al. r)).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=506A0014&nid=506&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Maioria exigida verificada (unanimidade se prejudica algum sócio — art. 133 CSC)\n- [ ] Direito de exoneração dos dissidentes referenciado (art. 134 CSC)",
+    "para": "- [ ] Maioria exigida verificada (a do tipo de sociedade e a aprovação dos sócios que passem a responder ilimitadamente — art. 133.º CSC) e inexistência de impedimentos (art. 131.º CSC)\n- [ ] Direito de exoneração referenciado, se a lei ou o contrato o atribuírem (art. 137.º do CSC)",
+    "motivo": "Alinha a checklist com os arts. 131.º, 133.º e 137.º CSC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0137&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Registo obrigatório mencionado com referência à eficácia a partir do registo (art. 137)",
+    "para": "- [ ] Registo obrigatório mencionado (art. 140.º-A CSC), com o prazo de dois meses e a eficácia perante terceiros a partir do registo (arts. 14.º e 15.º do Código do Registo Comercial)",
+    "motivo": "O registo da transformação está no art. 140.º-A CSC; o prazo e a oponibilidade, nos arts. 15.º e 14.º do CRCom.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0140A&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar se, no caso, a lei ou o pacto social atribuem o direito de exoneração (art. 137.º, n.º 1, CSC); sem essa fonte, não há exoneração por mero voto contra.",
+   "Confirmar a forma do ato de transformação (o art. 135.º CSC, sobre a escritura pública, está revogado) e os documentos a depositar com o registo.",
+   "Na passagem de ENI a sociedade unipessoal, confirmar o regime da entrada do estabelecimento em espécie e os seus efeitos fiscais."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0130&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0131&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0132&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0133&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0134&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0136&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0137&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0105&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0140A&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0270A&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0265&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0383&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0386&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0276&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=506A0003&nid=506&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=506A0014&nid=506&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=506A0015&nid=506&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+  ]
+ },
+ {
+  "codigo": "COM-028",
+  "veredicto": "corrigida",
+  "resumo": "A ficha remetia para diplomas inexistentes ou errados: um «Código Fiscal», um «Código do Arrendamento Urbano» e a «Lei 99/2017» para os segredos de negócio, que estão nos arts. 313.º a 315.º do CPI (DL 110/2018, que transpôs a Diretiva (UE) 2016/943). Corrigiram-se essas remissões, a sigla do instrumento de regulamentação coletiva de trabalho (IRCT, art. 2.º CT) e o item das retenções de IRS, que se declaram mensalmente para o trabalho dependente (art. 119.º CIRS).",
+  "substituicoes": [
+   {
+    "de": "- Código Fiscal — IRC, IVA, IRS retenções, impostos locais (IMI, IMT)",
+    "para": "- Códigos tributários — CIRC, CIVA, CIRS (retenções na fonte), CIMI e CIMT; LGT (caducidade do direito à liquidação, em regra quatro anos, e responsabilidade subsidiária dos gerentes e administradores — arts. 45.º e 24.º LGT)",
+    "motivo": "Não existe um «Código Fiscal»: cada imposto tem o seu código; a caducidade e a responsabilidade tributária estão na LGT.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=253A0045&nid=253&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Código do Arrendamento Urbano / NRAU — se imóveis arrendados",
+    "para": "- Código Civil (arrendamento urbano) e NRAU (Lei n.º 6/2006, de 27 de fevereiro) — se imóveis arrendados",
+    "motivo": "Não existe um «Código do Arrendamento Urbano»: o regime está no Código Civil e no NRAU.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=691A0001&nid=691&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Lei 99/2017 — segredos de negócio",
+    "para": "- Arts. 313.º a 315.º CPI — segredos comerciais (Decreto-Lei n.º 110/2018, que transpôs a Diretiva (UE) 2016/943)",
+    "motivo": "O regime dos segredos comerciais consta do Código da Propriedade Industrial de 2018, que transpôs a Diretiva (UE) 2016/943; a Lei 99/2017 não é esse diploma.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0313&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "| 3.3 | Instrumento de regulação coletiva aplicável (CCT / Portaria) | Identificar IRC vigente | [ ] |",
+    "para": "| 3.3 | Instrumento de regulamentação coletiva de trabalho aplicável (convenção coletiva, acordo de adesão, decisão arbitral, portaria de extensão ou de condições de trabalho — art. 2.º CT) | Identificar o IRCT vigente | [ ] |",
+    "motivo": "A designação legal é instrumento de regulamentação coletiva de trabalho (IRCT); «IRC» confunde-se com o imposto.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0002&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "| 4.8 | IRS retenções na fonte — obrigações cumpridas | Declarações modelo 10 | [ ] |",
+    "para": "| 4.8 | IRS retenções na fonte — obrigações cumpridas | Declarações mensais de remunerações (trabalho dependente) e declaração anual modelo 10 (restantes rendimentos) — art. 119.º, n.º 1, alínea c), CIRS | [ ] |",
+    "motivo": "Os rendimentos do trabalho dependente e as retenções declaram-se mensalmente (até ao dia 10 do mês seguinte); a declaração anual só cobre os restantes rendimentos.",
+    "fonte": "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cirs_rep/Pages/irs119.aspx"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "O prazo geral de caducidade da liquidação é de quatro anos (art. 45.º, n.º 1, LGT): ponderar alargar os itens 4.1 e 4.2 (três exercícios) a todos os exercícios não caducados.",
+   "Item 5.4: confirmar a terminologia e os títulos urbanísticos em vigor (autorização de utilização, alvarás) após as alterações recentes ao RJUE.",
+   "Item 9.3: confirmar o registo de resíduos aplicável (SIRER/plataforma SILiAmb da APA)."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=253A0045&nid=253&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=253A0024&nid=253&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=691A0001&nid=691&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0313&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1047A0002&nid=1047&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/cirs_rep/Pages/irs119.aspx"
+  ]
+ },
+ {
+  "codigo": "COM-029",
+  "veredicto": "corrigida",
+  "resumo": "A Etapa 2 remetia para um «Código Fiscal», que não existe, e para a «Lei 99/2017» quanto aos segredos de negócio, regime que consta dos arts. 313.º a 315.º do CPI (DL 110/2018, que transpôs a Diretiva (UE) 2016/943). Corrigiram-se as duas remissões, indicando a LGT (caducidade e responsabilidade subsidiária dos gerentes e administradores) e os códigos de cada imposto.",
+  "substituicoes": [
+   {
+    "de": "- Código Fiscal — responsabilidade tributária da empresa-alvo",
+    "para": "- LGT e códigos tributários (CIRC, CIVA, CIRS) — contingências fiscais da empresa-alvo nos exercícios ainda não caducados (art. 45.º LGT) e responsabilidade subsidiária dos gerentes e administradores (art. 24.º LGT)",
+    "motivo": "Não existe um «Código Fiscal»: a responsabilidade tributária e a caducidade estão na LGT e cada imposto tem o seu código.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=253A0024&nid=253&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Lei 99/2017 (segredos de negócio) — proteção de informação confidencial",
+    "para": "- Arts. 313.º a 315.º CPI (segredos comerciais; Decreto-Lei n.º 110/2018, que transpôs a Diretiva (UE) 2016/943) — proteção de informação confidencial",
+    "motivo": "O regime dos segredos comerciais consta do Código da Propriedade Industrial de 2018; a Lei 99/2017 não é esse diploma.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0313&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Na área fiscal, delimitar o período analisado pelos exercícios não caducados (quatro anos, em regra — art. 45.º LGT) e refletir no SPA a responsabilidade subsidiária dos gerentes e administradores (art. 24.º LGT).",
+   "A Etapa 5 remete para a «Skill 28»: é a checklist de due diligence (COM-028)."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=253A0024&nid=253&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=253A0045&nid=253&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0313&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+  ]
+ }
+]

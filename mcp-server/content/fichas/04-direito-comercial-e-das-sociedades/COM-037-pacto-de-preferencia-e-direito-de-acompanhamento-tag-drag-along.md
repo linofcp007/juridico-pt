@@ -6,7 +6,7 @@ titulo_en: "Pre-emption Agreement and Tag-Along / Drag-Along Rights"
 descricao: "Elabora cláusulas contratuais ou documento autónomo regulando o pacto de preferência na transmissão de quotas ou ações, o direito de acompanhamento (tag along) e o direito de arrasto (drag along), para integração no pacto social, nos estatutos ou num acordo parassocial."
 descricao_en: "Drafts contractual clauses or a standalone document governing the pre-emption agreement (pacto de preferência) on the transfer of quotas or shares, the tag-along right (direito de acompanhamento) and the drag-along right (direito de arrasto), for inclusion in the articles of association (pacto social or estatutos) or in a shareholders' agreement."
 ambito: nacional
-estado_citacoes: "conferidas 11 · corrigidas 0 · por conferir 5"
+estado_citacoes: "conferidas 12 · corrigidas 0 · por conferir 5"
 revisao_tecnica: "2026-10-28 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
@@ -15,7 +15,7 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 
 > **Âmbito:** nacional · **Área:** Direito Comercial e das Sociedades · **Código:** COM-037
 > **EN:** Pre-emption Agreement and Tag-Along / Drag-Along Rights. Drafts contractual clauses or a standalone document governing the pre-emption agreement (pacto de preferência) on the transfer of quotas or shares, the tag-along right (direito de acompanhamento) and the drag-along right (direito de arrasto), for inclusion in the articles of association (pacto social or estatutos) or in a shareholders' agreement.
-> **Citações:** conferidas 11 · corrigidas 0 · por conferir 5. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 12 · corrigidas 0 · por conferir 5. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
 > **Revisão técnica:** 2026-10-28 — corrigida (2 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
 Elabora cláusulas contratuais ou documento autónomo regulando o pacto de preferência na transmissão de quotas ou ações, o direito de acompanhamento (tag along) e o direito de arrasto (drag along), para integração no pacto social, nos estatutos ou num acordo parassocial.
@@ -180,6 +180,7 @@ Apresente em <checklist_validacao>:
 | art. 328.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 328.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | Art. 17.º CSC | conferida (epígrafe) — Acordos parassociais |  |
+| Art. 405 CC | conferida (índice) |  |
 | arts. 313.º e seguintes do Código da Propriedade Industrial | conferida (epígrafe) — Objeto de proteção |  |
 | art. 17.º, n.º 1, CSC | conferida (epígrafe) — Acordos parassociais |  |
 | art. 421.º CC | conferida (epígrafe) — Eficácia real |  |

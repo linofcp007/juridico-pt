@@ -3,7 +3,7 @@ codigo: PEN-033
 area: "Direito Penal e Contraordenacional"
 titulo: "Contestação em Processo de Contraordenação Rodoviária"
 titulo_en: "Defence in Road Traffic Administrative Offence Proceedings"
-descricao: "Gera uma contestação fundamentada em processo de contraordenação rodoviária, impugnando o auto de contra-ordenação lavrado pela autoridade policial ou pela ANSR, identificando vícios formais, arguindo nulidades e apresentando defesa de mérito, ao abrigo do Código da Estrada e do Regime Geral das Contra-Ordenações (DL n.º 433/82, de 27 de Outubro)."
+descricao: "Gera uma contestação fundamentada em processo de contraordenação rodoviária, impugnando o auto de contraordenação lavrado pela autoridade policial ou pela ANSR, identificando vícios formais, arguindo nulidades e apresentando defesa de mérito, ao abrigo do Código da Estrada e do Regime Geral das Contraordenações (DL n.º 433/82, de 27 de Outubro)."
 descricao_en: "Generates a reasoned defence in road traffic administrative offence proceedings, challenging the offence report drawn up by the police or the ANSR (National Road Safety Authority), identifying formal defects, raising nullities and presenting a defence on the merits, under the Highway Code (Código da Estrada) and the General Regime for Administrative Offences (Decree-Law No. 433/82 of 27 October)."
 ambito: nacional
 estado_citacoes: "conferidas 13 · corrigidas 0 · por conferir 31"
@@ -20,7 +20,7 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 > **Citações:** conferidas 13 · corrigidas 0 · por conferir 31. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
 > **Revisão técnica:** 2026-10-28 — corrigida (17 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
-Gera uma contestação fundamentada em processo de contraordenação rodoviária, impugnando o auto de contra-ordenação lavrado pela autoridade policial ou pela ANSR, identificando vícios formais, arguindo nulidades e apresentando defesa de mérito, ao abrigo do Código da Estrada e do Regime Geral das Contra-Ordenações (DL n.º 433/82, de 27 de Outubro).
+Gera uma contestação fundamentada em processo de contraordenação rodoviária, impugnando o auto de contraordenação lavrado pela autoridade policial ou pela ANSR, identificando vícios formais, arguindo nulidades e apresentando defesa de mérito, ao abrigo do Código da Estrada e do Regime Geral das Contraordenações (DL n.º 433/82, de 27 de Outubro).
 
 ## Método
 
@@ -42,7 +42,7 @@ Apresenta dentro de um bloco <analise_do_caso>:
 - Qual a infração imputada e o artigo do Código da Estrada?
 - Qual o montante da coima e a sanção acessória (inibição de conduzir)?
 - Qual a fase do processo (defesa administrativa / impugnação judicial)?
-- Há vícios formais no auto de contra-ordenação (falta de data, hora, identificação do agente, descrição dos factos)?
+- Há vícios formais no auto de contraordenação (falta de data, hora, identificação do agente, descrição dos factos)?
 - Há fundamentos de mérito (versão diferente dos factos, prova exculpatória)?
 - Está em prazo para a defesa (15 dias úteis após a notificação do auto — art. 175.º, n.º 2, do Código da Estrada) ou para a impugnação judicial (15 dias úteis após o conhecimento da decisão — art. 181.º, n.º 2, al. a), do Código da Estrada)?
 - O procedimento ou a coima estão prescritos?
@@ -81,7 +81,7 @@ Redige a peça completa nesta estrutura:
 **I. DO ARGUIDO**
 [Nome, data de nascimento, NIF, carta de condução n.º, morada, contactos, mandatário constituído]
 
-**II. DO AUTO DE CONTRA-ORDENAÇÃO**
+**II. DO AUTO DE CONTRAORDENAÇÃO**
 [Fase administrativa:] O arguido foi notificado do auto de contraordenação n.º [número], por infração ao art. [X.º], n.º [Y] do Código da Estrada, imputando-se-lhe [descrição da infração], sancionável com coima de €[mínimo] a €[máximo] e [sanção acessória, se houver]. Notificado em [■ VERIFICAR: data da notificação do auto], apresenta a presente defesa no prazo de 15 dias úteis (art. 175.º, n.º 2, al. b), do Código da Estrada).
 [Fase judicial:] O arguido foi notificado da decisão condenatória da ANSR, por infração ao art. [X.º], n.º [Y] do Código da Estrada, com aplicação de coima no montante de €[valor] e [sanção acessória, se houver]. Tomou conhecimento da decisão em [■ VERIFICAR: data] e apresenta a presente impugnação judicial no prazo de 15 dias úteis (art. 181.º, n.º 2, al. a), do Código da Estrada).
 
@@ -107,7 +107,7 @@ O arguido requer a produção das seguintes provas:
 
 **VII. DO PEDIDO**
 Pelo exposto, requer:
-a) Que seja declarada a nulidade do auto de contra-ordenação por vício formal, com arquivamento do processo; — OU —
+a) Que seja declarada a nulidade do auto de contraordenação por vício formal, com arquivamento do processo; — OU —
 b) Que seja declarado extinto o procedimento por prescrição; — OU —
 c) Que seja o arguido absolvido da infração imputada, por não se verificarem os seus pressupostos; — OU —
 d) Subsidiariamente, que a coima seja fixada no mínimo legal [■ VERIFICAR o mínimo aplicável].
@@ -140,7 +140,7 @@ Apresenta dentro de um bloco <checklist_validacao>:
 - Contacto: [email e telemóvel]
 - Mandatário: [nome, cédula OA, contacto]
 
-**AUTO DE CONTRA-ORDENAÇÃO:**
+**AUTO DE CONTRAORDENAÇÃO:**
 - N.º do processo / boletim: [número]
 - Data da infração: [dd/mm/aaaa]
 - Hora: [hh:mm]

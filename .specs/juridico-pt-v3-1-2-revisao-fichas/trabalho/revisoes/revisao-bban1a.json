@@ -1,0 +1,231 @@
+[
+  {
+    "codigo": "BAN-001",
+    "veredicto": "corrigida",
+    "resumo": "A ficha atribuía ao DL 74-A/2017 artigos com outro objeto (solvabilidade no art. 10.º, TAEG no art. 23.º, reembolso antecipado no art. 30.º, seguros no art. 14.º), dava o seguro de vida como «obrigatório» e invocava o Aviso do Banco de Portugal n.º 5/2013, que tratava do branqueamento de capitais e foi revogado pelo Aviso 2/2018. Corrigiu-se para os arts. 16.º, 15.º, 23.º e 11.º (na redação da Lei 14/2026: só a cobertura de morte é exigível e o seguro pode ser substituído por outra garantia), a caracterização do DL 349/98 e o cálculo do indexante (art. 21.º). Retirou-se o prazo de 20 dias úteis do Provedor do Cliente, sem base legal geral, e o limite de 5 000 € do CACCL, que passa a [■ VERIFICAR].",
+    "substituicoes": [
+      {
+        "de": "- DL n.º 74-A/2017: deveres de informação (FINE, ESIS), avaliação de solvabilidade (art. 10.º ss), taxa anual efetiva global (art. 23.º), amortização antecipada (art. 30.º)",
+        "para": "- DL n.º 74-A/2017: deveres de informação (FINE, ESIS — art. 13.º), avaliação de solvabilidade (art. 16.º), taxa anual de encargos efetiva global (art. 15.º), reembolso antecipado (art. 23.º), vendas associadas e seguros (art. 11.º), taxa variável e indexante (art. 21.º)",
+        "motivo": "No DL 74-A/2017 o art. 10.º é a publicidade, o art. 23.º o reembolso antecipado e o art. 30.º as sanções acessórias; a TAEG está no art. 15.º e a solvabilidade no art. 16.º.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2842&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Decreto-Lei n.º 349/98: fixação de taxas de juro",
+        "para": "- Decreto-Lei n.º 349/98: regime de concessão de crédito à habitação (regime geral e regimes bonificados; a taxa de juro é livremente negociada entre as partes)",
+        "motivo": "O DL 349/98 não fixa taxas de juro: regula a concessão de crédito à habitação nos regimes geral, bonificado e jovem bonificado.",
+        "fonte": "https://www.bportugal.pt/sites/default/files/anexos/legislacoes/253909023_1.doc.pdf"
+      },
+      {
+        "de": "- Aviso do Banco de Portugal n.º 5/2013 (informação pré-contratual)",
+        "para": "- Informação pré-contratual: FINE (art. 13.º DL 74-A/2017) e regulamentação do Banco de Portugal [■ VERIFICAR: aviso do Banco de Portugal em vigor sobre deveres de informação no crédito à habitação]",
+        "motivo": "O Aviso do Banco de Portugal n.º 5/2013 regulava a prevenção do branqueamento de capitais e foi revogado pelo Aviso n.º 2/2018.",
+        "fonte": "https://www.bportugal.pt/sites/default/files/anexos/pdf-boletim/bo_102018.pdf"
+      },
+      {
+        "de": "(limite legal: 0,5% taxa variável / 2% taxa fixa — art. 30.º DL 74-A/2017)",
+        "para": "(limite legal, no reembolso parcial ou total: 0,5 % do capital reembolsado em período de taxa variável / 2 % em período de taxa fixa; sem comissão em caso de morte, desemprego ou deslocação profissional — art. 23.º, n.ºs 5 e 9, DL 74-A/2017)",
+        "motivo": "O limite da comissão consta do art. 23.º, n.º 5, e aplica-se ao reembolso parcial e ao total; o n.º 9 proíbe a comissão por morte, desemprego ou deslocação profissional.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2842&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Seguro de vida: obrigatório mas de livre escolha (art. 14.º DL 74-A/2017) — banco pode exigir nível de cobertura mas não impor seguradora\n- Seguro multirriscos: idem",
+        "para": "- Seguro de vida: não é imposto por lei; o mutuante pode exigi-lo, mas só com cobertura do risco de morte, e tem de aceitar a apólice de outra seguradora com nível de garantia equivalente; nos empréstimos para aquisição ou construção de habitação, o mutuário pode substituí-lo por hipoteca sobre outro imóvel, fiança ou outra garantia prevista na lei (art. 11.º, n.º 2, al. b), e n.ºs 7 e 8, DL 74-A/2017)\n- Seguro multirriscos: pode ser exigido pelo mutuante, com a mesma liberdade de escolha da seguradora (art. 11.º, n.º 2, al. b), DL 74-A/2017); nas frações em propriedade horizontal, o seguro contra o risco de incêndio é obrigatório por lei (art. 1429.º CC)",
+        "motivo": "O art. 14.º é o dever de assistência; o seguro é uma venda associada que o mutuante pode exigir (art. 11.º), limitada à cobertura de morte e substituível por outra garantia (n.ºs 7 e 8, na redação da Lei 14/2026). A única obrigação legal é o seguro de incêndio na propriedade horizontal.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2842&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "   - Verificar correspondência entre indexante publicado pelo BCE/Banco de Portugal e taxa cobrada",
+        "para": "   - Verificar a correspondência entre o indexante e a taxa cobrada: média aritmética simples das cotações diárias do mês anterior ao início do período de contagem de juros, arredondada à milésima, com o histórico do indexante disponibilizado gratuitamente pelo mutuante (art. 21.º DL 74-A/2017)",
+        "motivo": "A Euribor não é publicada pelo BCE nem pelo Banco de Portugal (é determinada por instituição independente); o critério de cálculo e de arredondamento do indexante está no art. 21.º do DL 74-A/2017.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2842&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "   - Reclamação ao Provedor do Cliente do banco (prazo de resposta: 20 dias úteis)\n   - Reclamação ao Banco de Portugal (Portal do Cliente Bancário)",
+        "para": "   - Reclamação escrita ao banco e, se a instituição o tiver, ao Provedor do Cliente [■ VERIFICAR: prazo de resposta previsto no regulamento do Provedor da instituição]\n   - Reclamação ao Banco de Portugal (Portal do Cliente Bancário — art. 41.º DL 74-A/2017 e art. 77.º-A RGICSF)",
+        "motivo": "Não há prazo legal geral de 20 dias úteis para o Provedor do Cliente; os 20 dias úteis da Carta-Circular 25/2008/DSB respeitam às reclamações apresentadas ao Banco de Portugal.",
+        "fonte": "https://www.bportugal.pt/sites/default/files/anexos/cartas-circulares/25-2008-dsb.pdf"
+      },
+      {
+        "de": "   - CACCL (Centro de Arbitragem de Conflitos de Consumo de Lisboa) se valor ≤ €5.000",
+        "para": "   - Centro de arbitragem de conflitos de consumo competente (p. ex., o CACCL, em Lisboa) ou outra entidade de resolução alternativa de litígios a que o mutuante tenha aderido — tem de aderir a pelo menos duas (art. 38.º DL 74-A/2017) [■ VERIFICAR: limite de valor no regulamento do centro escolhido; o Regulamento Harmonizado dos centros de competência genérica, em vigor desde 1/1/2026, admite litígios até 30 000 €]",
+        "motivo": "O limite de 5 000 € não resulta da lei para estes centros e o regulamento harmonizado de 2026 admite litígios até 30 000 €; o mutuante está obrigado a aderir a duas entidades RAL.",
+        "fonte": "https://cicap.pt/wp-content/uploads/2026/01/Regulamento-Harmonizado-2026.pdf"
+      },
+      {
+        "de": "- [ ] Limites legais de comissão de amortização verificados (art. 30.º DL 74-A/2017)",
+        "para": "- [ ] Limites legais de comissão de amortização verificados (art. 23.º DL 74-A/2017)",
+        "motivo": "O limite da comissão de reembolso antecipado está no art. 23.º; o art. 30.º trata das sanções acessórias.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2842&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "A comissão de reembolso antecipado nos contratos de taxa variável esteve suspensa entre 2023 e 2025 (DL 80-A/2022 e prorrogações); fontes secundárias indicam que a suspensão terminou em 31/12/2025. Confirmar no Diário da República antes de reclamar comissões cobradas nesse período.",
+      "O art. 11.º do DL 74-A/2017 foi alterado pela Lei 14/2026 (seguro de vida só com cobertura de morte e substituível por outra garantia); confirmar a aplicação no tempo aos contratos celebrados antes da alteração.",
+      "Identificar o aviso do Banco de Portugal em vigor sobre a informação pré-contratual e a FINE (o Aviso 5/2013 não é aplicável).",
+      "Confirmar se o centro de arbitragem de consumo escolhido aplica o Regulamento Harmonizado de 2026 e qual o seu limite de valor."
+    ],
+    "fontes": [
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2842&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.bportugal.pt/sites/default/files/anexos/legislacoes/447011722_4.doc.pdf",
+      "https://www.bportugal.pt/sites/default/files/anexos/pdf-boletim/bo_102018.pdf",
+      "https://www.bportugal.pt/sites/default/files/anexos/legislacoes/253909023_1.doc.pdf",
+      "https://www.bportugal.pt/sites/default/files/anexos/legislacoes/rgicsf_pt.pdf",
+      "https://www.bportugal.pt/sites/default/files/anexos/cartas-circulares/25-2008-dsb.pdf",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1429&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://cicap.pt/wp-content/uploads/2026/01/Regulamento-Harmonizado-2026.pdf",
+      "https://www.doutorfinancas.pt/creditos/credito-habitacao/credito-habitacao-isencao-da-comissao-por-reembolso-antecipado-termina-no-final-do-ano/"
+    ]
+  },
+  {
+    "codigo": "BAN-003",
+    "veredicto": "corrigida",
+    "resumo": "A ficha assentava no Aviso do Banco de Portugal n.º 5/2013, que tratava do branqueamento de capitais e foi revogado pelo Aviso 2/2018, e dele retirava a «obrigatoriedade» do Provedor do Cliente e um prazo de resposta de 20 dias úteis. Não há norma geral que imponha o Provedor nas instituições de crédito; os 20 dias úteis são os da Carta-Circular 25/2008/DSB para as reclamações apresentadas ao Banco de Portugal (art. 77.º-A RGICSF), que a imprensa refere terem passado a 15 dias úteis em 2026. Reescreveu-se a base jurídica, o pedido de prazo na carta, a verificação final e o índice.",
+    "descricao": "Redige uma reclamação formal ao Provedor do Cliente do banco ou instituição financeira, no quadro dos procedimentos internos de tratamento de reclamações da instituição, com fundamentação técnica, pedido concreto e prazo de resposta, ao abrigo das normas de conduta do RGICSF e com escalada para o Banco de Portugal (art. 77.º-A RGICSF) ou para a resolução alternativa de litígios.",
+    "descricao_en": "Drafts a formal complaint to the Customer Ombudsman (Provedor do Cliente) of the bank or financial institution, within the institution's internal complaints-handling procedures, with technical grounds, a specific request and a response deadline, under the RGICSF conduct rules and with escalation to the Bank of Portugal (Article 77-A RGICSF) or to alternative dispute resolution.",
+    "substituicoes": [
+      {
+        "de": "- Aviso do Banco de Portugal n.º 5/2013: obrigatoriedade do Provedor do Cliente, prazo de resposta (20 dias úteis), requisitos da resposta",
+        "para": "- Provedor do Cliente: a existência, a competência e o prazo de resposta constam do regulamento da própria instituição; os códigos de conduta devem divulgar os procedimentos internos de apreciação de reclamações (art. 77.º-B RGICSF) [■ VERIFICAR: regulamento do Provedor na instituição reclamada]\n- Reclamação ao Banco de Portugal (art. 77.º-A RGICSF; no crédito à habitação, art. 41.º DL n.º 74-A/2017): quando o Banco de Portugal lhe remete a reclamação, a instituição responde ao reclamante em 20 dias úteis a contar da receção (Carta-Circular n.º 25/2008/DSB) [■ VERIFICAR: prazo único de 15 dias úteis noticiado para a Carta Circular n.º CC/2026/00000018, de 15/5/2026]",
+        "motivo": "O Aviso 5/2013 regulava a prevenção do branqueamento de capitais e foi revogado pelo Aviso 2/2018; não há norma geral que torne obrigatório o Provedor do Cliente, e os 20 dias úteis respeitam às reclamações dirigidas ao Banco de Portugal.",
+        "fonte": "https://www.bportugal.pt/sites/default/files/anexos/pdf-boletim/bo_102018.pdf"
+      },
+      {
+        "de": "c) Resposta fundamentada no prazo máximo de 20 dias úteis, ao abrigo do Aviso do Banco de Portugal n.º 5/2013.",
+        "para": "c) Resposta fundamentada no prazo máximo de [prazo] dias úteis [■ VERIFICAR: prazo fixado no regulamento do Provedor do Cliente da instituição ou na norma aplicável ao produto].",
+        "motivo": "O Aviso 5/2013 não regula reclamações nem fixa prazo de resposta do Provedor do Cliente.",
+        "fonte": "https://www.bportugal.pt/sites/default/files/anexos/pdf-boletim/bo_102018.pdf"
+      },
+      {
+        "de": "- [ ] Prazo de resposta exigido (20 dias úteis)",
+        "para": "- [ ] Prazo de resposta exigido (o do regulamento do Provedor ou da norma aplicável ao produto)",
+        "motivo": "Os 20 dias úteis não são um prazo legal da resposta do Provedor do Cliente.",
+        "fonte": "https://www.bportugal.pt/sites/default/files/anexos/cartas-circulares/25-2008-dsb.pdf"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Confirmar no sítio do Banco de Portugal o texto da Carta Circular n.º CC/2026/00000018 (o sítio bloqueou a consulta automática; o prazo de 15 dias úteis vem da imprensa e de um índice jurídico).",
+      "Nos serviços de pagamento (contas, cartões, transferências), confirmar o prazo de resposta do art. 142.º do DL n.º 91/2018 (15 dias úteis, até 35 em casos excecionais, segundo a referência da casa), que não pôde ser lido na fonte oficial.",
+      "Crédito aos consumidores: a Diretiva (UE) 2023/2225 aplica-se a partir de 20/11/2026; confirmar se já foi transposta e se o DL 133/2009 foi substituído."
+    ],
+    "fontes": [
+      "https://www.bportugal.pt/sites/default/files/anexos/pdf-boletim/bo_102018.pdf",
+      "https://www.bportugal.pt/sites/default/files/anexos/legislacoes/rgicsf_pt.pdf",
+      "https://www.bportugal.pt/sites/default/files/anexos/cartas-circulares/25-2008-dsb.pdf",
+      "https://www.bportugal.pt/sites/default/files/anexos/cartas-circulares/415819290_6.docx.pdf",
+      "https://observador.pt/2026/05/22/bancos-tem-de-responder-a-todas-as-reclamacoes-no-prazo-de-15-dias-uteis/",
+      "https://www.lexpoint.pt/conteudos/1254/146454/doutrina-administrativa/carta-circular-no-cc202600000018-bdp-de-15052026",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2842&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.e-konomista.pt/diretivas-europeias-ja-pode-usar-uma-sem-lei-portuguesa/"
+    ]
+  },
+  {
+    "codigo": "BAN-010",
+    "veredicto": "corrigida",
+    "resumo": "A lista de normas do Código Civil estava desalinhada: o art. 686.º é a noção de hipoteca (a voluntária está nos arts. 712.º ss, forma no art. 714.º), o pacto comissório é o art. 694.º e não se confunde com o pacto marciano, o art. 696.º é a indivisibilidade (a redução está nos arts. 718.º a 720.º), a extinção está no art. 730.º e a execução rege-se pelo CPC, não pelo art. 731.º CC (renúncia). O registo da hipoteca é constitutivo mesmo entre as partes, a Lei 67/2021 trata das fundações e a licença de utilização deixou de ser exibida na escritura com o DL 10/2024; corrigiu-se tudo, com a menção ao título urbanístico do DL 108/2026.",
+    "substituicoes": [
+      {
+        "de": "- Código Civil:\n  - Art. 686.º: constituição de hipoteca voluntária\n  - Art. 693.º: extensão da hipoteca (capital, juros, despesas de execução)\n  - Art. 695.º: proibição da cláusula comissória (pacto marciano)\n  - Art. 696.º: redução da hipoteca\n  - Art. 698.º ss: extinção da hipoteca\n  - Art. 731.º ss: execução hipotecária\n- Código do Registo Predial: registo da hipoteca — elemento essencial para oponibilidade\n- Código do Notariado: formalidades da escritura pública",
+        "para": "- Código Civil:\n  - Art. 686.º CC: noção de hipoteca; arts. 712.º ss CC: hipoteca voluntária, constituída por escritura pública ou documento particular autenticado (art. 714.º CC)\n  - Art. 693.º CC: a hipoteca assegura os acessórios do crédito que constem do registo; juros, no máximo, de três anos (n.º 2)\n  - Art. 694.º CC: nulidade do pacto comissório; art. 695.º CC: nulidade da cláusula que proíba alienar ou onerar o imóvel (é lícito convencionar o vencimento do crédito nesse caso)\n  - Art. 696.º CC: indivisibilidade; arts. 718.º a 720.º CC: redução da hipoteca\n  - Art. 730.º CC: causas de extinção da hipoteca\n- Execução: a escritura ou o documento particular autenticado é título executivo (art. 703.º, n.º 1, al. b), CPC) e a penhora começa pelos bens hipotecados (art. 752.º, n.º 1, CPC)\n- Registo predial: o registo é constitutivo — sem ele a hipoteca não produz efeitos, mesmo entre as partes (art. 687.º CC; art. 4.º, n.º 2, do Código do Registo Predial)\n- Código do Notariado: formalidades da escritura pública",
+        "motivo": "Os artigos indicados não correspondiam às matérias: 686.º é a noção, 694.º o pacto comissório (o pacto marciano é figura distinta), 695.º a cláusula de inalienabilidade, 696.º a indivisibilidade, 698.º a defesa do dono da coisa e 731.º a renúncia; a execução rege-se pelo CPC e o registo condiciona a eficácia entre as partes.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0687&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Lei n.º 67/2021 [■ VERIFICAR: diploma relativo a proteção de devedores habitação]",
+        "para": "- Devedor em incumprimento: PARI e PERSI (DL n.º 227/2012, arts. 9.º ss e 12.º ss) [■ VERIFICAR: medidas temporárias em vigor para o crédito à habitação]",
+        "motivo": "A Lei 67/2021 alterou a Lei-Quadro das Fundações; o regime de prevenção e regularização do incumprimento é o do DL 227/2012 (o regime extraordinário da Lei 58/2012 vigorou até 31/12/2015).",
+        "fonte": "https://www.bportugal.pt/sites/default/files/anexos/legislacoes/471901745_4.docx.pdf"
+      },
+      {
+        "de": "- [ ] Licença de utilização (se aplicável)",
+        "para": "- [ ] Autorização de utilização (se aplicável): deixou de ser exibida na escritura com o DL n.º 10/2024, que revogou o DL n.º 281/99, mas confirma o uso legal do imóvel e o banco pode exigi-la; se a compra for titulada no mesmo ato, o documento menciona o título urbanístico ou a declaração do transmitente, sob pena de anulabilidade (art. 4.º-A, n.º 14, RJUE, na redação do DL n.º 108/2026)",
+        "motivo": "O DL 10/2024 revogou o DL 281/99 (exibição da autorização de utilização nos atos de transmissão); o DL 108/2026 passou a exigir a menção ao título urbanístico nos negócios de transmissão.",
+        "fonte": "https://files.diariodarepublica.pt/1s/2024/01/00500/0000500052.pdf"
+      },
+      {
+        "de": "[Transceve as cláusulas que causam dúvida ou pede análise completa]",
+        "para": "[Transcreve as cláusulas que causam dúvida ou pede análise completa]",
+        "motivo": "Gralha.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0687&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Confirmar a entrada em vigor e a aplicação no tempo do art. 4.º-A, n.º 14, do RJUE (DL 108/2026, cuja entrada em vigor terá sido adiada para 1/10/2026 pelo DL 155-B/2026), quando a compra e o mútuo com hipoteca forem titulados no mesmo ato.",
+      "O pacto marciano (com avaliação do bem e restituição do excesso) não é proibido pelo art. 694.º CC, mas a sua admissibilidade é discutida; não o confundir com o pacto comissório ao rever a minuta.",
+      "Verificar se há medidas temporárias de apoio ao crédito à habitação aplicáveis à data da escritura."
+    ],
+    "fontes": [
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0687&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0693&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0695&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0714&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0730&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=488A0004&nid=488&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0703&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0752&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.bportugal.pt/sites/default/files/anexos/legislacoes/471901745_4.docx.pdf",
+      "https://www.bportugal.pt/sites/default/files/anexos/legislacoes/252845652_1.doc.pdf",
+      "https://trc.pt/destaques-do-diario-da-republica-de-agosto-de-2021/",
+      "https://files.diariodarepublica.pt/1s/2024/01/00500/0000500052.pdf",
+      "https://ordemdosarquitectos.org/backend/uploads/DL_N_108_2026_29_MAIO_2786145a69.pdf"
+    ]
+  },
+  {
+    "codigo": "BAN-017",
+    "veredicto": "corrigida",
+    "resumo": "A ficha atribuía ao DL 291/2007 artigos e prazos errados (perda total no art. 50.º, que trata do fundado conflito no Fundo de Garantia Automóvel; um prazo de «3 meses» para a proposta razoável, quando os prazos são de 30 dias úteis nos danos materiais e 45 dias nos corporais), chamava «Lei» ao DL 72/2008 e citava o art. 106.º LCS (efeitos da cessação do contrato). Remetia ainda para «tabelas ANSR/INE» inexistentes e dava como limiar de perda total 100 %/70 % do custo de reparação. Corrigiu-se para os arts. 36.º a 42.º do DL 291/2007, os arts. 102.º e 104.º LCS, a Tabela de Direito Civil do DL 352/2007 e a Portaria 377/2008, e o critério de 100 %/120 % do art. 41.º.",
+    "descricao": "Analisa e calcula a indemnização devida em sinistro de seguro automóvel — danos próprios e responsabilidade civil automóvel (RC) —, verificando o valor venal do veículo, os danos reparáveis vs. perda total, os danos corporais, privação de uso e outras rubricas indemnizatórias, ao abrigo do DL n.º 291/2007 (RC automóvel), da LCS (DL n.º 72/2008), da Tabela Nacional para Avaliação de Incapacidades Permanentes em Direito Civil (DL n.º 352/2007) e dos valores orientadores da Portaria n.º 377/2008.",
+    "descricao_en": "Analyses and calculates the compensation due on a motor insurance claim — own damage and motor third-party liability (RC) —, checking the vehicle's market value, repairable damage vs. total loss, personal injury, loss of use and other heads of damage, under Decree-Law No. 291/2007 (motor third-party liability), the LCS (Decree-Law No. 72/2008), the National Table for Assessing Permanent Incapacity in Civil Law (Decree-Law No. 352/2007) and the guideline values of Portaria No. 377/2008.",
+    "substituicoes": [
+      {
+        "de": "  - Art. 38.º ss: processo de regularização de sinistros\n  - Art. 39.º: proposta razoável de indemnização — prazo (3 meses sinistros simples)\n  - Art. 40.º: oferta fundamentada\n  - Art. 50.º: perda total\n- LCS (Lei n.º 72/2008): arts. 104.º, 106.º (liquidação e mora)",
+        "para": "  - Arts. 31.º ss: regularização de sinistros; a seguradora comunica a assunção ou não da responsabilidade em 30 dias úteis nos danos materiais (art. 36.º, n.º 1, al. e)) e em 45 dias a contar do pedido nos danos corporais, se houver relatório de alta clínica e o dano for quantificável, ou apresenta proposta provisória (art. 37.º, n.ºs 1, al. c), e 2)\n  - Arts. 38.º e 39.º: proposta razoável (danos materiais e danos corporais); fora do prazo ou manifestamente insuficiente, juros no dobro da taxa legal (art. 38.º, n.ºs 2 e 3)\n  - Art. 40.º: resposta fundamentada (responsabilidade rejeitada ou não determinada, ou danos não totalmente quantificáveis)\n  - Art. 41.º: perda total; art. 42.º: veículo de substituição\n- LCS (regime aprovado pelo DL n.º 72/2008): arts. 102.º e 104.º (realização da prestação; vencimento 30 dias após o apuramento dos factos)",
+        "motivo": "No DL 291/2007 o art. 50.º é o fundado conflito (FGA) e a perda total está no art. 41.º; os prazos são os dos arts. 36.º e 37.º (os 3 meses do art. 39.º, n.º 4, só limitam a proposta quanto a prejuízos futuros); a LCS é um decreto-lei e o art. 106.º trata dos efeitos da cessação do contrato.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=973&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Tabelas de incapacidade e danos corporais [■ VERIFICAR: tabelas ANSR/INE em vigor]",
+        "para": "- Dano corporal: Tabela Nacional para Avaliação de Incapacidades Permanentes em Direito Civil (anexo II do DL n.º 352/2007) e critérios e valores orientadores da proposta razoável da Portaria n.º 377/2008 (art. 39.º, n.ºs 3 e 5, DL n.º 291/2007), que não afastam valores superiores [■ VERIFICAR: redação em vigor da Portaria n.º 377/2008, alterada pela Portaria n.º 679/2009]",
+        "motivo": "Não existem tabelas da ANSR ou do INE para o dano corporal; os referenciais são a Tabela de Direito Civil do DL 352/2007 e a Portaria 377/2008, que só orientam a proposta extrajudicial.",
+        "fonte": "https://files.diariodarepublica.pt/1s/2008/05/10000/0293602942.pdf"
+      },
+      {
+        "de": "- Limiar de perda total: [custo de reparação > 100% / >70% — VERIFICAR critério da apólice]",
+        "para": "- Limiar de perda total: [em RC automóvel, a reparação estimada somada ao valor do salvado ultrapassa 100 % (veículo com menos de 2 anos) ou 120 % (com mais de 2 anos) do valor venal — art. 41.º, n.º 1, al. c), DL n.º 291/2007; em danos próprios, critério da apólice — VERIFICAR]",
+        "motivo": "O critério legal de perda total soma o valor do salvado ao custo da reparação e usa 100 % ou 120 % do valor venal, consoante a idade do veículo.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=973&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Valor venal (tabela Eurotax / DAT / avaliação pericial): [€ — VERIFICAR]",
+        "para": "- Valor venal (valor de substituição no momento anterior ao acidente — art. 41.º, n.º 2, DL n.º 291/2007; tabela Eurotax / DAT / avaliação pericial): [€ — VERIFICAR]",
+        "motivo": "A lei define o valor venal como o valor de substituição antes do acidente.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=973&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "**4. DANOS CORPORAIS** [se existirem lesões]",
+        "para": "**4. DANOS CORPORAIS** [se existirem lesões]\n[Nota: ITA, ITP e IPP são designações dos acidentes de trabalho; em direito civil, a Portaria n.º 377/2008 distingue as perdas salariais por incapacidade temporária, o dano biológico (incapacidade permanente valorizada pela Tabela de Direito Civil), os danos patrimoniais futuros e os danos morais complementares — internamento, dano estético, quantum doloris (arts. 3.º e 4.º)]",
+        "motivo": "A ficha usava as categorias do direito laboral; a proposta razoável em RC automóvel segue as rubricas da Portaria 377/2008.",
+        "fonte": "https://files.diariodarepublica.pt/1s/2008/05/10000/0293602942.pdf"
+      },
+      {
+        "de": "- Grau: [% — determinado por junta médica]",
+        "para": "- Grau: [pontos — fixados em avaliação médico-legal pela Tabela Nacional para Avaliação de Incapacidades Permanentes em Direito Civil]",
+        "motivo": "Em direito civil a incapacidade permanente é valorizada em pontos por perito médico-legal segundo a tabela do anexo II do DL 352/2007; a junta médica é própria do processo de acidente de trabalho.",
+        "fonte": "https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Confirmar a redação em vigor da Portaria n.º 377/2008 e das suas tabelas (alteração pela Portaria n.º 679/2009 referida na jurisprudência); os tribunais não estão vinculados a esses valores.",
+      "O DL 291/2007 foi alterado pela Lei 32/2023 e pelo DL 26/2025; os artigos citados foram conferidos na versão consolidada atual, mas convém confirmar regras transitórias para sinistros anteriores.",
+      "Em danos próprios, os prazos e o critério de perda total são os da apólice e da LCS, não os do DL 291/2007."
+    ],
+    "fontes": [
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=973&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2657&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2657A0104&nid=2657&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://files.diariodarepublica.pt/1s/2007/10/20400/0771507808.pdf",
+      "https://files.diariodarepublica.pt/1s/2008/05/10000/0293602942.pdf",
+      "https://trc.pt/?p=28819"
+    ]
+  }
+]

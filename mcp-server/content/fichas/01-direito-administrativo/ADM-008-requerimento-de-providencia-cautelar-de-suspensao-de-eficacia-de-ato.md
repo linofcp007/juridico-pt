@@ -6,7 +6,8 @@ titulo_en: "Application for an Interim Measure Suspending the Effects of an Admi
 descricao: "Gera o requerimento de providência cautelar de suspensão de eficácia de ato administrativo, com demonstração do fumus boni iuris (aparência do direito), do periculum in mora (risco de lesão grave e de difícil reparação) e da ponderação de interesses, ao abrigo dos arts. 112.º e seguintes do CPTA."
 descricao_en: "Generates the application for an interim measure suspending the effects of an administrative act, demonstrating fumus boni iuris (prima facie appearance of the right), periculum in mora (risk of serious harm that is difficult to repair) and the balancing of interests, under Articles 112 et seq. of the CPTA."
 ambito: nacional
-estado_citacoes: "conferidas 8 · corrigidas 0 · por conferir 0"
+estado_citacoes: "conferidas 13 · corrigidas 0 · por conferir 2"
+revisao_tecnica: "2026-10-30 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
@@ -14,7 +15,8 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 
 > **Âmbito:** nacional · **Área:** Direito Administrativo · **Código:** ADM-008
 > **EN:** Application for an Interim Measure Suspending the Effects of an Administrative Act. Generates the application for an interim measure suspending the effects of an administrative act, demonstrating fumus boni iuris (prima facie appearance of the right), periculum in mora (risk of serious harm that is difficult to repair) and the balancing of interests, under Articles 112 et seq. of the CPTA.
-> **Citações:** conferidas 8 · corrigidas 0 · por conferir 0. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 13 · corrigidas 0 · por conferir 2. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-30 — corrigida (5 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
 Gera o requerimento de providência cautelar de suspensão de eficácia de ato administrativo, com demonstração do fumus boni iuris (aparência do direito), do periculum in mora (risco de lesão grave e de difícil reparação) e da ponderação de interesses, ao abrigo dos arts. 112.º e seguintes do CPTA.
 
@@ -28,10 +30,10 @@ Ficha de trabalho para preparar este documento. As regras da casa prevalecem sob
 - Cita artigos reais do CPTA, do CPA e da CRP
 - Usa português europeu correto — sem brasileirismos
 - Demonstra os três requisitos de forma autónoma e explícita:
-  1.º Fumus boni iuris — aparência de ilegalidade do ato
-  2.º Periculum in mora — dano grave e de difícil reparação se não houver suspensão
-  3.º Ponderação de interesses — os danos do requerente superam os da Administração
-- Indica o prazo para propor a ação principal (30 dias — art. 123.º CPTA)
+  1.º Fumus boni iuris — probabilidade de a pretensão formulada ou a formular no processo principal ser julgada procedente (aparência de ilegalidade do ato)
+  2.º Periculum in mora — fundado receio da constituição de uma situação de facto consumado ou da produção de prejuízos de difícil reparação (art. 120.º, n.º 1, CPTA)
+  3.º Ponderação de interesses — a providência só é recusada se os danos da sua concessão se mostrarem superiores aos da sua recusa, sem que possam ser evitados ou atenuados por outras providências (art. 120.º, n.º 2, CPTA)
+- Indica o prazo para propor a ação principal: é o prazo próprio desse meio (impugnação de ato anulável: 3 meses — art. 58.º, n.º 1, alínea b), CPTA); se o meio principal não estiver sujeito a prazo, 90 dias contados do trânsito em julgado da decisão cautelar (art. 123.º, n.º 2, CPTA). Fora de prazo, o processo cautelar extingue-se e a providência caduca (art. 123.º, n.º 1, alínea a), CPTA)
 
 ---
 
@@ -64,7 +66,7 @@ Apresenta dentro de um bloco <estrategia>:
 Redige o requerimento completo nesta estrutura:
 
 **1. ENDEREÇAMENTO**
-Exmo. Sr. Juiz do Tribunal Administrativo de Círculo de [Comarca]
+Exmo. Sr. Juiz do Tribunal Administrativo de Círculo / Tribunal Administrativo e Fiscal de [■ VERIFICAR: tribunal competente para a causa principal — art. 20.º, n.º 6, CPTA]
 
 **2. IDENTIFICAÇÃO DO REQUERENTE E DO REQUERIDO**
 [Nome], NIF n.º [número], vem requerer, ao abrigo do artigo 112.º e seguintes do CPTA, PROVIDÊNCIA CAUTELAR de suspensão de eficácia do ato praticado por [entidade].
@@ -76,13 +78,13 @@ Identificação precisa: órgão, data, referência, conteúdo.
 Aparência de ilegalidade — vícios do ato fundamentados em lei.
 
 **5. DO PERICULUM IN MORA**
-Danos graves e de difícil reparação que resultarão da execução:
+Fundado receio de facto consumado ou de prejuízos de difícil reparação que resultarão da execução (art. 120.º, n.º 1, CPTA):
 - Dano 1: [descrição + quantificação/qualificação]
 - Dano 2: [se aplicável]
 - Irreversibilidade ou dificuldade de reparação ulterior.
 
 **6. DA PONDERAÇÃO DE INTERESSES**
-Os danos que o requerente sofrerá superam os que a suspensão causará à Administração ou ao interesse público.
+Os danos que a suspensão causaria ao interesse público e a terceiros não são superiores aos que a sua recusa causaria ao requerente ou, se o fossem, podem ser evitados ou atenuados por outras providências (art. 120.º, n.os 2 e 3, CPTA).
 
 **7. DO PEDIDO**
 "Requer a V. Ex.ª que se digne decretar a suspensão de eficácia do ato identificado, até decisão final da ação principal."
@@ -143,11 +145,18 @@ Apresenta dentro de um bloco <checklist_validacao>:
 
 | Citação | Estado | Nota |
 |---|---|---|
-| art. 123.º CPTA | conferida (epígrafe) — Caducidade das providências |  |
-| art. 123.º CPTA | conferida (epígrafe) — Caducidade das providências |  |
-| art. 123.º CPTA | conferida (epígrafe) — Caducidade das providências |  |
+| art. 120.º, n.º 1, CPTA | conferida (epígrafe) — Critérios de decisão |  |
+| art. 120.º, n.º 1, CPTA | conferida (epígrafe) — Critérios de decisão |  |
+| art. 120.º, n.º 2, CPTA | conferida (epígrafe) — Critérios de decisão |  |
+| art. 58.º, n.º 1, alínea b), CPTA | conferida (epígrafe) — Prazos |  |
+| art. 123.º, n.º 2, CPTA | conferida (epígrafe) — Caducidade das providências |  |
+| art. 123.º, n.º 1, alínea a), CPTA | conferida (epígrafe) — Caducidade das providências |  |
 | Arts. 112.º a 134.º do CPTA | conferida (epígrafe) — Providências cautelares |  |
 | Art. 120.º do CPTA | conferida (epígrafe) — Critérios de decisão |  |
 | Arts. 161.º a 163.º do CPA | conferida (epígrafe) — Atos nulos |  |
+| art. 20.º, n.º 6, CPTA | conferida (epígrafe) — Outras regras de competência territorial |  |
 | artigo 112.º e seguintes do CPTA | conferida (epígrafe) — Providências cautelares |  |
+| art. 120.º, n.os 2 e 3, CPTA | conferida (epígrafe) — Critérios de decisão |  |
+| art. 123.º CPTA | por conferir [■ VERIFICAR] | o assunto descrito não coincide com a epígrafe; confirmar |
+| art. 123.º CPTA | por conferir [■ VERIFICAR] | o assunto descrito não coincide com a epígrafe; confirmar |
 | Arts. 112.º a 134.º e 120.º do CPTA | conferida (epígrafe) — Providências cautelares |  |

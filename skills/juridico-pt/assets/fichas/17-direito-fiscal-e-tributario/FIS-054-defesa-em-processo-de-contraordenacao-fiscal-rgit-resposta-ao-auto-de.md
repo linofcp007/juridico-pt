@@ -111,7 +111,7 @@ Apresenta em <checklist_validacao>:
 | art. 70.º RGIT | conferida (epígrafe) — Notificação do arguido |  |
 | Art. 114.º RGIT | conferida (epígrafe) — Falta de entrega da prestação tributária |  |
 | Art. 116.º RGIT | conferida (epígrafe) — Falta ou atraso de declarações |  |
-| Art. 119.º RGIT | conferida (epígrafe) — Omissões e inexactidões nas declarações ou em outros documentos fiscalmente relevantes |  |
+| Art. 119.º RGIT | conferida (epígrafe) — Omissões e inexatidões nas declarações ou em outros documentos fiscalmente relevantes |  |
 | art. 26.º, n.º 4, RGIT | conferida (epígrafe) — Montante das coimas |  |
 | art. 26.º, n.º 3, RGIT | conferida (epígrafe) — Montante das coimas |  |
 | art. 24.º RGIT | conferida (epígrafe) — Punibilidade da negligência |  |

@@ -1,0 +1,357 @@
+[
+  {
+    "codigo": "PI-013",
+    "veredicto": "corrigida",
+    "resumo": "A ficha fundava na «caducidade dos direitos do editor» do art. 100.º CDADC a falta de publicação no prazo, mas esse artigo trata da transmissão dos direitos do editor: o CDADC fixa um prazo supletivo de reprodução (art. 90.º, n.º 2) e dá ao autor o direito de resolver o contrato se a edição não for concluída no prazo (art. 106.º, n.º 1, al. c)), e, no exclusivo, o direito de revogação por falta de exploração (art. 44.º-E, aditado pelo DL 47/2023). Corrigiram-se as regras, a análise, a cláusula 4.3 e a checklist, o intervalo do regime da edição (arts. 83.º a 106.º, e não 116.º), a forma (art. 87.º) e o alcance do art. 105.º, e acrescentaram-se as menções obrigatórias do art. 86.º, n.º 1. Retirou-se da cláusula 8.2 a insolvência do editor como causa de resolução, que é nula nos termos do art. 119.º, n.º 2, CIRE.",
+    "descricao": "Redige o contrato de edição entre autor e editor, regulando a concessão dos direitos de edição e distribuição da obra, a remuneração por royalties, o número de edições e tiragens, os prazos de publicação e as consequências da inatividade do editor (resolução do contrato e, na edição em exclusivo, revogação por falta de exploração), ao abrigo do Código do Direito de Autor.",
+    "descricao_en": "Drafts the publishing contract between author and publisher, regulating the grant of publishing and distribution rights in the work, the royalty remuneration, the number of editions and print runs, the publication deadlines and the consequences of the publisher's inactivity (termination of the contract and, where the grant is exclusive, revocation for non-exploitation), under the Copyright Code.",
+    "substituicoes": [
+      {
+        "de": "- Aplica especificamente o regime do contrato de edição dos arts. 83.º a 116.º CDADC",
+        "para": "- Aplica especificamente o regime do contrato de edição dos arts. 83.º a 106.º CDADC",
+        "motivo": "A secção «Da edição» vai do art. 83.º ao art. 106.º; os arts. 107.º a 116.º regulam a representação cénica.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?tabela=leis&artigo_id=&nid=484&ficha=101&pagina=2&nversao=&so_miolo=&"
+      },
+      {
+        "de": "- Alerta para a caducidade dos direitos do editor por não publicação no prazo (art. 100.º CDADC)",
+        "para": "- Alerta para o direito de o autor resolver o contrato se o editor não concluir a edição no prazo (art. 106.º, n.º 1, al. c), CDADC) e, na edição em exclusivo, para o direito de revogação por falta de exploração (art. 44.º-E CDADC); a lei não prevê a caducidade automática dos direitos do editor",
+        "motivo": "O art. 100.º CDADC trata da transmissão dos direitos do editor; a falta de conclusão da edição no prazo é fundamento de resolução (art. 106.º) e a falta de exploração em exclusivo dá direito de revogação (art. 44.º-E).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?tabela=leis&artigo_id=&nid=484&ficha=101&pagina=2&nversao=&so_miolo=&"
+      },
+      {
+        "de": "- Prazo para publicação: fundamental — caducidade por inatividade (art. 100.º CDADC)",
+        "para": "- Prazo para publicação: fundamental — se o editor não concluir a edição no prazo, o autor pode resolver o contrato (art. 106.º, n.º 1, al. c), CDADC)",
+        "motivo": "A inatividade do editor não gera caducidade; dá ao autor o direito de resolução.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?tabela=leis&artigo_id=&nid=484&ficha=101&pagina=2&nversao=&so_miolo=&"
+      },
+      {
+        "de": "- Art. 83.º CDADC: definição e forma do contrato de edição",
+        "para": "- Art. 83.º CDADC: definição do contrato de edição; a forma escrita é exigida pelo art. 87.º, n.º 1, CDADC",
+        "motivo": "O art. 83.º só define o contrato; a exigência de forma escrita está no art. 87.º.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?tabela=leis&artigo_id=&nid=484&ficha=101&pagina=2&nversao=&so_miolo=&"
+      },
+      {
+        "de": "- Art. 100.º CDADC: caducidade dos direitos por não publicação no prazo",
+        "para": "- Art. 90.º, n.º 2, CDADC: na falta de convenção, o editor inicia a reprodução no prazo de seis meses e conclui-a no prazo de 12 meses a contar da entrega do original, salvo força maior (que não inclui a falta de meios financeiros — n.º 3); não há caducidade automática: a falta de conclusão da edição no prazo é fundamento de resolução (art. 106.º, n.º 1, al. c), CDADC)\n- Art. 44.º-E CDADC: na edição em exclusivo, o autor pode revogar a autorização por falta de exploração, decorridos cinco anos sobre a celebração do contrato ou um terço da sua duração inicial (o que ocorrer primeiro), depois de notificar o editor por escrito, com prova de receção, fixando-lhe um prazo não inferior a seis meses para a exploração",
+        "motivo": "O art. 100.º CDADC trata da transmissão dos direitos do editor; o prazo supletivo de edição está no art. 90.º, n.º 2, a resolução no art. 106.º e a revogação por falta de exploração no art. 44.º-E (DL 47/2023).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?tabela=leis&artigo_id=&nid=484&ficha=101&pagina=2&nversao=&so_miolo=&"
+      },
+      {
+        "de": "- Art. 105.º CDADC: esgotamento da edição — obrigação de nova edição",
+        "para": "- Art. 105.º CDADC: reedições e edições sucessivas — em caso de dúvida, as condições da edição originária aplicam-se às seguintes; o dever de reeditar sem interrupção só existe se o editor se tiver obrigado a edições sucessivas (n.º 5); se o número de edições não estiver fixado, o editor só pode fazer uma (art. 86.º, n.º 2, CDADC)",
+        "motivo": "A lei não impõe, em geral, uma nova edição quando a anterior se esgota; o art. 105.º, n.º 5, só obriga o editor que se tenha vinculado a edições sucessivas.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?tabela=leis&artigo_id=&nid=484&ficha=101&pagina=2&nversao=&so_miolo=&"
+      },
+      {
+        "de": "- Prazo máximo de publicação (com cláusula de caducidade automática)",
+        "para": "- Prazo máximo de publicação (com direito de resolução do Autor se for excedido)",
+        "motivo": "Coerência com o regime legal: a consequência da falta de publicação no prazo é a resolução (art. 106.º CDADC).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?tabela=leis&artigo_id=&nid=484&ficha=101&pagina=2&nversao=&so_miolo=&"
+      },
+      {
+        "de": "4.2. A tiragem mínima da primeira edição será de [X] exemplares.\n4.3. O não cumprimento do prazo de publicação determina a caducidade dos direitos do Editor, nos termos do art. 100.º do CDADC.",
+        "para": "4.2. O Contrato abrange [número] edição(ões), cada uma com a tiragem de [X] exemplares, e o preço de venda ao público de cada exemplar é de € [valor] (art. 86.º, n.º 1, CDADC).\n4.3. Se o Editor não concluir a edição no prazo previsto no n.º 4.1, salvo caso de força maior devidamente comprovado, o Autor pode resolver o Contrato, nos termos do art. 106.º do CDADC, sem prejuízo da indemnização por perdas e danos.",
+        "motivo": "O contrato deve mencionar o número de edições, a tiragem e o preço de venda ao público (art. 86.º, n.º 1); a falta de publicação no prazo dá direito de resolução (art. 106.º), não determina a caducidade (o art. 100.º trata da transmissão dos direitos do editor).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?tabela=leis&artigo_id=&nid=484&ficha=101&pagina=2&nversao=&so_miolo=&"
+      },
+      {
+        "de": "não pagar royalties, deixar a edição esgotar sem a renovar ou entrar em insolvência.",
+        "para": "não pagar royalties ou deixar a edição esgotar sem a renovar. [Nota de redação: não prever a insolvência do Editor como causa de resolução — é nula a cláusula que confira à outra parte um direito de resolução com fundamento na declaração de insolvência (art. 119.º, n.º 2, CIRE).]",
+        "motivo": "É nula a cláusula que atribua à declaração de insolvência de uma das partes o valor de condição resolutiva ou confira à outra um direito de resolução em termos diversos dos do CIRE.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0119&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- [ ] Prazo de publicação com cláusula de caducidade (art. 100.º CDADC)\n- [ ] Tiragem mínima definida",
+        "para": "- [ ] Prazo de publicação com direito de resolução do Autor (art. 106.º, n.º 1, al. c), CDADC)\n- [ ] Número de edições, tiragem de cada edição e preço de venda ao público fixados (art. 86.º, n.º 1, CDADC); no silêncio, só uma edição e, pelo menos, 2.000 exemplares (art. 86.º, n.º 3, CDADC)",
+        "motivo": "O art. 100.º CDADC não prevê caducidade; o conteúdo obrigatório do contrato está no art. 86.º.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?tabela=leis&artigo_id=&nid=484&ficha=101&pagina=2&nversao=&so_miolo=&"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Se as partes quiserem um efeito automático (sem declaração de resolução) para a falta de publicação no prazo, redigir uma condição resolutiva expressa; o regime legal supletivo é o da resolução (art. 106.º CDADC).",
+      "Confirmar a articulação do direito de revogação por falta de exploração (art. 44.º-E CDADC, imperativo nos termos do art. 44.º-F) com as cláusulas de prazo e de resolução do contrato concreto.",
+      "Confirmar que a prestação de contas convencionada cumpre o dever de informação, no mínimo anual, do art. 44.º-B CDADC, e o art. 96.º (na falta de convenção, contas semestrais a 30 de junho e 31 de dezembro).",
+      "O mínimo supletivo de 2.000 exemplares (art. 86.º, n.º 3, CDADC) foi pensado para a edição impressa: fixar expressamente a tiragem e as condições da edição digital."
+    ],
+    "fontes": [
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=484&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?tabela=leis&artigo_id=&nid=484&ficha=101&pagina=2&nversao=&so_miolo=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=85A0119&nid=85&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+    ]
+  },
+  {
+    "codigo": "PI-020",
+    "veredicto": "corrigida",
+    "resumo": "A ficha tratava a violação de direitos anteriores como «nulidade relativa», quando o CPI de 2018 distingue a nulidade (fundamentos absolutos, art. 259.º) da anulabilidade (direitos anteriores dos arts. 232.º a 235.º, art. 260.º), com pedido de anulação, legitimidade própria, prazo de cinco anos (art. 34.º, n.º 7) e preclusão por tolerância (art. 261.º); exigia ainda que o direito anterior não tivesse sido invocado em oposição, requisito que a lei não prevê. Corrigiram-se o n.º e as alíneas da caducidade (falta de uso no art. 268.º, n.º 1; designação usual e uso enganoso no n.º 2, als. a) e b)), o ónus da prova do uso, que cabe ao titular (art. 269.º, n.º 5), e a via: na marca nacional a nulidade, a anulação e a caducidade pedem-se no INPI e o tribunal só decide a nulidade ou a anulação em reconvenção (arts. 34.º, n.º 2, e 266.º). Corrigiram-se também a norma do pedido no INPI (art. 262.º, e não 266.º), a representação obrigatória (art. 10.º, n.º 2), a expressão brasileira «c/c», o título e a descrição do índice.",
+    "titulo": "Pedido de Declaração de Nulidade, de Anulação ou de Caducidade de Registo de Marca",
+    "titulo_en": "Application for a Declaration of Invalidity, Annulment or Revocation of a Trade Mark Registration",
+    "descricao": "Elabora o pedido de declaração de nulidade (fundamentos absolutos de recusa), de anulação (direitos anteriores de terceiros) ou de declaração de caducidade (falta de uso sério durante cinco anos consecutivos, transformação em designação usual ou uso enganoso) de um registo de marca, a apresentar no INPI ou no EUIPO, ou a deduzir em reconvenção no tribunal, com base nos fundamentos legais aplicáveis.",
+    "descricao_en": "Prepares the application for a declaration of invalidity (absolute grounds for refusal), for annulment (earlier rights of third parties) or for revocation (lack of genuine use for five consecutive years, the mark having become the common name in the trade, or misleading use) of a trade mark registration, to be filed with the INPI or the EUIPO or brought as a counterclaim in court, based on the applicable legal grounds.",
+    "substituicoes": [
+      {
+        "de": "- Distingue claramente nulidade (art. 265.º CPI) de caducidade (art. 269.º CPI) — fundamentos diferentes",
+        "para": "- Distingue claramente nulidade (art. 259.º CPI), anulabilidade (art. 260.º CPI) e caducidade (art. 268.º CPI) — fundamentos, legitimidade e prazos diferentes",
+        "motivo": "O CPI de 2018 distingue nulidade, anulabilidade e caducidade do registo de marca.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0260&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Para nulidade: verificar se o fundamento é impedimento absoluto (art. 231.º CPI) ou relativo (art. 232.º CPI)",
+        "para": "- Para a invalidade do registo: verificar se o fundamento é impedimento absoluto (art. 231.º CPI) ou relativo (art. 232.º CPI) — o absoluto gera nulidade (art. 259.º CPI), invocável a todo o tempo por qualquer interessado (art. 32.º, n.º 2, CPI); o relativo gera anulabilidade (art. 260.º CPI), e pede-se a anulação, não a declaração de nulidade",
+        "motivo": "A violação de direitos anteriores (arts. 232.º a 235.º) torna o registo anulável, não nulo.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0260&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Para caducidade por desuso: prova de falta de uso efetivo e sério durante 5 anos consecutivos (art. 269.º, n.º 1, al. a) CPI)",
+        "para": "- Para caducidade por falta de uso: cinco anos consecutivos sem uso sério, salvo justo motivo (art. 268.º, n.º 1, CPI); cabe ao titular do registo provar o uso, sob pena de a marca se presumir não usada (art. 269.º, n.º 5, CPI)",
+        "motivo": "A caducidade por falta de uso está no n.º 1 do art. 268.º (sem alíneas) e o ónus da prova do uso é do titular (art. 269.º, n.º 5).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0268&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- O pedido de nulidade/caducidade pode ser: administrativo (INPI/EUIPO) ou contencioso (tribunal)",
+        "para": "- Na marca nacional, a declaração de nulidade, a anulação e a declaração de caducidade pedem-se no INPI (art. 34.º, n.º 2, CPI e art. 269.º, n.º 1, CPI); o tribunal só decide a nulidade ou a anulação deduzidas em reconvenção numa ação pendente (art. 266.º CPI). Na marca da UE, o pedido é apresentado no EUIPO [■ VERIFICAR: pedido reconvencional nos tribunais de marcas da UE — art. 128.º RMUE]",
+        "motivo": "A nulidade e a anulação de registos de marca resultam de decisão do INPI, salvo em reconvenção (art. 34.º, n.º 2); a caducidade é sempre pedida no INPI (art. 269.º).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0034&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Tipo de pretensão: nulidade (marca nunca devia ter sido registada) vs. caducidade (marca válida mas caducou por desuso/uso enganoso)\n- Fundamento de nulidade (se aplicável):",
+        "para": "- Tipo de pretensão: nulidade (fundamento absoluto) ou anulação (direito anterior de terceiro) — a marca não devia ter sido registada — vs. caducidade (marca validamente registada que caducou por falta de uso sério, por se ter tornado designação usual ou por uso enganoso)\n- Fundamento de nulidade ou de anulação (se aplicável):",
+        "motivo": "Falta a anulabilidade, que é o regime da violação de direitos anteriores.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0260&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "  - Nulidade relativa: anterioridade do requerente não invocada em oposição (art. 265.º CPI)",
+        "para": "  - Anulabilidade: violação de direito anterior do requerente previsto nos arts. 232.º a 235.º CPI (art. 260.º CPI); só o titular desse direito tem legitimidade (art. 262.º, n.º 2, al. b), CPI), o pedido deve ser apresentado no prazo de cinco anos a contar do despacho de concessão (art. 34.º, n.º 7, CPI) e preclude se o titular tiver tolerado o uso da marca posterior, com conhecimento, durante cinco anos consecutivos, salvo má-fé (art. 261.º CPI)",
+        "motivo": "O vício é a anulabilidade (art. 260.º), não uma «nulidade relativa»; a lei não exige que o direito anterior não tenha sido invocado em oposição; o art. 265.º trata da decisão e dos efeitos.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0262&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "  - Falta de uso efetivo e sério por 5 anos (art. 269.º, n.º 1, al. a) CPI) — provas de desuso\n  - Uso enganoso (art. 269.º, n.º 1, al. b) CPI)\n  - Marca genérica (art. 269.º, n.º 1, al. c) CPI)\n- Foro: pedido administrativo no INPI/EUIPO vs. ação contenciosa no tribunal",
+        "para": "  - Falta de uso sério durante cinco anos consecutivos, salvo justo motivo (art. 268.º, n.º 1, CPI) — indícios de desuso (o titular é que tem de provar o uso)\n  - Uso enganoso (art. 268.º, n.º 2, al. b), CPI)\n  - Marca que se transformou na designação usual no comércio do produto ou serviço (art. 268.º, n.º 2, al. a), CPI)\n- Via: pedido no INPI (marca nacional) ou no EUIPO (marca da UE) vs. pedido reconvencional numa ação já pendente no tribunal (só nulidade ou anulação — art. 266.º CPI)",
+        "motivo": "A designação usual e o uso enganoso estão no n.º 2, als. a) e b), do art. 268.º; não há ação autónoma de nulidade ou de caducidade de marca nacional no tribunal (art. 34.º, n.º 2, e art. 269.º).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0268&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Art. 232.º CPI: impedimentos relativos (fundamento de nulidade relativa)\n- Art. 266.º CPI: pedido de declaração de nulidade no INPI",
+        "para": "- Art. 232.º CPI: impedimentos relativos (fundamento de anulabilidade — art. 260.º CPI)\n- Art. 262.º CPI: pedido de declaração de nulidade ou de anulação no INPI (legitimidade, inadmissibilidade de pedido repetido, resposta do titular no prazo de dois meses)\n- Art. 266.º CPI: pedido reconvencional de declaração de nulidade ou de anulação, decidido pelo tribunal",
+        "motivo": "O art. 266.º regula o pedido reconvencional no tribunal; o pedido no INPI está no art. 262.º.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0262&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Art. 47.º RMUE: prova de uso (relevante para avaliar se a marca está ou não em uso)",
+        "para": "- Art. 47.º RMUE: prova de uso [■ VERIFICAR: o art. 47.º RMUE trata da prova de uso no processo de oposição; nos processos de extinção e de nulidade da marca da UE, confirmar o art. 64.º, n.os 2 e 3, RMUE e o art. 19.º do Regulamento Delegado (UE) 2018/625]",
+        "motivo": "O art. 47.º RMUE respeita à oposição; não foi possível ler o texto oficial no EUR-Lex."
+      },
+      {
+        "de": "- Prova de desuso: pesquisa de mercado, ausência de listagem em bases comerciais, ausência de produtos no mercado\n- Para nulidade relativa: provar anterioridade do sinal do requerente face à marca contestada\n- Estratégia de foro: INPI (mais rápido e barato) vs. tribunal (mais garantístico mas mais lento)",
+        "para": "- Indícios de desuso (o ónus da prova do uso sério cabe ao titular, presumindo-se a marca não usada — art. 269.º, n.º 5, CPI): pesquisa de mercado, ausência de listagem em bases comerciais, ausência de produtos no mercado; atenção ao uso iniciado ou reatado antes do pedido (art. 268.º, n.º 4, CPI e art. 267.º, n.º 4, CPI)\n- Para a anulação: provar o direito anterior do requerente face à marca contestada e preparar a prova do uso sério da marca anterior registada há pelo menos cinco anos, que o titular contestado pode exigir (art. 263.º CPI)\n- Estratégia de via: pedido autónomo no INPI vs. pedido reconvencional na ação de violação já pendente no tribunal (art. 266.º CPI), tendo em conta a inadmissibilidade de pedido com o mesmo objeto, causa de pedir e partes já decidido ou pendente (art. 262.º, n.os 3 e 4, CPI)",
+        "motivo": "O ónus da prova do uso é do titular; na anulação pode ser exigida a prova de uso da marca anterior; para a marca nacional não há ação judicial autónoma de nulidade.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0269&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "**PEDIDO DE DECLARAÇÃO DE [NULIDADE / CADUCIDADE] DE MARCA**",
+        "para": "**PEDIDO DE [DECLARAÇÃO DE NULIDADE / ANULAÇÃO / DECLARAÇÃO DE CADUCIDADE] DE REGISTO DE MARCA**",
+        "motivo": "Falta a anulação, que é o pedido próprio quando se invocam direitos anteriores.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0262&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "representado(a) pelo mandatário [nome], advogado(a)/agente PI, OA n.º [número], vem, nos termos do art. [266.º / 271.º] do Código da Propriedade Industrial (CPI), requerer a declaração de [nulidade / caducidade] da marca n.º [número]",
+        "para": "representado(a) por [nome], [advogado(a) com a cédula profissional n.º [número] / solicitador(a) / agente oficial da propriedade industrial] (art. 10.º, n.º 2, CPI), vem, nos termos do art. [262.º / 269.º] do Código da Propriedade Industrial (CPI), requerer [a declaração de nulidade / a anulação / a declaração de caducidade] do registo da marca n.º [número]",
+        "motivo": "Os pedidos de nulidade, anulação e caducidade no INPI regem-se pelos arts. 262.º e 269.º (o 266.º é a reconvenção) e só podem ser promovidos por agente oficial da propriedade industrial, advogado ou solicitador; o agente oficial não tem número da OA.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0010&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "[NULIDADE ABSOLUTA — art. 265.º, n.º 1, c/c art. 231.º CPI]",
+        "para": "[NULIDADE — art. 259.º, n.º 1, CPI, conjugado com o art. 231.º CPI]",
+        "motivo": "A nulidade do registo de marca está no art. 259.º (o art. 265.º trata da decisão e dos efeitos); «c/c» é forma brasileira.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0259&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "[NULIDADE RELATIVA — art. 265.º, n.º 1, c/c art. 232.º CPI]",
+        "para": "[ANULABILIDADE — art. 260.º, n.º 1, CPI, conjugado com o art. 232.º CPI]",
+        "motivo": "A violação de direitos anteriores gera anulabilidade (art. 260.º); «c/c» é forma brasileira.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0260&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": ", não invocado em oposição por [fundamento — ex: desconhecimento do pedido]. Junta-se como Doc. [X] prova da anterioridade.",
+        "para": ", pelo que o registo é anulável. O pedido é apresentado dentro de cinco anos a contar do despacho de concessão (art. 34.º, n.º 7, CPI) e o requerente não tolerou, com conhecimento, o uso da marca contestada durante cinco anos consecutivos (art. 261.º CPI). [Se a marca anterior estiver registada há pelo menos cinco anos, preparar a prova do seu uso sério ou de justo motivo para a falta de uso, que o titular da marca contestada pode exigir (art. 263.º, n.º 1, CPI).] Junta-se como Doc. [X] prova da anterioridade.",
+        "motivo": "A lei não exige que o direito anterior não tenha sido invocado em oposição; os requisitos próprios da anulação são o prazo, a falta de tolerância e a eventual prova de uso da marca anterior.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0261&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "[CADUCIDADE POR DESUSO — art. 269.º, n.º 1, al. a) CPI]",
+        "para": "[CADUCIDADE POR FALTA DE USO SÉRIO — art. 268.º, n.º 1, CPI]",
+        "motivo": "A caducidade por falta de uso está no art. 268.º, n.º 1, que não tem alíneas.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0268&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "uso efetivo e sério da mesma para os produtos/serviços para os quais se encontra registada, conforme se demonstra:",
+        "para": "uso sério da mesma para os produtos/serviços para os quais se encontra registada, sem justo motivo, cabendo ao titular provar o uso, sob pena de a marca se presumir não usada (art. 269.º, n.º 5, CPI). Sem prejuízo, apresentam-se os seguintes indícios da falta de uso:",
+        "motivo": "O ónus da prova do uso cabe ao titular do registo (art. 269.º, n.º 5).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0269&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "O requerente tem legítimo interesse na declaração de [nulidade / caducidade], porquanto:",
+        "para": "O requerente tem legitimidade e interesse no pedido de [declaração de nulidade / anulação / declaração de caducidade] [na anulação, como titular do direito anterior — art. 262.º, n.º 2, al. b), CPI], porquanto:",
+        "motivo": "Na anulação, só o titular do direito anterior tem legitimidade.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0262&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "Requer-se que, após instrução do processo, seja declarada a [nulidade / caducidade] da marca n.º [número] — [denominação] —, com todos os efeitos legais.",
+        "para": "Requer-se que, após instrução do processo, seja [declarado nulo / anulado / declarado caducado] o registo da marca n.º [número] — [denominação] —, com todos os efeitos legais [na caducidade: com efeitos desde a data do pedido ou desde a data anterior, que se requer seja fixada, em que se verificou o motivo de caducidade — art. 269.º, n.º 8, CPI].",
+        "motivo": "Acrescenta a anulação e a possibilidade de fixar uma data anterior para os efeitos da caducidade.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0269&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- [ ] Tipo correto de pretensão (nulidade vs. caducidade — fundamentos diferentes)",
+        "para": "- [ ] Tipo correto de pretensão (nulidade vs. anulação vs. caducidade — fundamentos, legitimidade e prazos diferentes)",
+        "motivo": "Falta a anulação.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0260&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- [ ] Para caducidade: prova de falta de uso nos últimos 5 anos",
+        "para": "- [ ] Para caducidade: indícios de falta de uso sério durante cinco anos consecutivos (o titular tem de provar o uso — art. 269.º, n.º 5, CPI)",
+        "motivo": "O ónus da prova do uso é do titular.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0269&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- [ ] Para nulidade relativa: anterioridade do requerente documentada",
+        "para": "- [ ] Para anulação: direito anterior documentado, pedido dentro de cinco anos a contar da concessão (art. 34.º, n.º 7, CPI), sem preclusão por tolerância (art. 261.º CPI) e prova de uso da marca anterior, se exigível (art. 263.º CPI)",
+        "motivo": "Requisitos próprios da anulação.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0034&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- [ ] Foro correto: INPI (administrativo) ou tribunal (contencioso)",
+        "para": "- [ ] Via correta: INPI ou EUIPO, ou reconvenção no tribunal (art. 266.º CPI); pedido no INPI subscrito por agente oficial da propriedade industrial, advogado ou solicitador (art. 10.º, n.º 2, CPI)",
+        "motivo": "Para a marca nacional, o tribunal só decide em reconvenção; representação obrigatória no INPI.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0010&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Tipo: [nulidade absoluta / nulidade relativa / caducidade por desuso / caducidade por uso enganoso / marca genérica]",
+        "para": "- Tipo: [nulidade / anulação / caducidade por falta de uso sério / caducidade por uso enganoso / caducidade por a marca se ter tornado designação usual]",
+        "motivo": "Terminologia do CPI de 2018.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0268&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "Pedido de declaração de nulidade ou caducidade de marca completo, com fundamentos legais precisos e provas de suporte, pronto para submissão ao INPI ou ao tribunal.",
+        "para": "Pedido de declaração de nulidade, de anulação ou de declaração de caducidade de registo de marca completo, com fundamentos legais precisos e provas de suporte, pronto para submissão ao INPI (ou ao EUIPO, se for marca da UE) ou para dedução em reconvenção no tribunal.",
+        "motivo": "Acrescenta a anulação e corrige a via judicial (só em reconvenção).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0034&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Confirmar a articulação do prazo de cinco anos do art. 34.º, n.º 7, CPI para os pedidos de anulação com a preclusão por tolerância do art. 261.º, sobretudo em caso de registo de má-fé (o art. 261.º ressalva a má-fé; o art. 34.º, n.º 7, não).",
+      "Confirmar no EUR-Lex os artigos do Regulamento (UE) 2017/1001 citados para a marca da UE (58.º, 59.º, 60.º, 64.º e 128.º): o texto oficial não pôde ser lido.",
+      "Confirmar as taxas e os formulários atuais do INPI para os pedidos de declaração de nulidade, de anulação e de caducidade.",
+      "Confirmar o tribunal competente para a reconvenção e para o recurso das decisões do INPI (Tribunal da Propriedade Intelectual, na LOSJ)."
+    ],
+    "fontes": [
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0010&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0032&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0034&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0036&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0259&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0260&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0261&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0262&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0263&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0265&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0266&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0267&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0268&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0269&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+    ]
+  },
+  {
+    "codigo": "PI-022",
+    "veredicto": "corrigida",
+    "resumo": "A ficha apresentava três «critérios alternativos» do art. 347.º CPI, à escolha do titular e sem cumulação, e atribuía ao n.º 3 os danos não patrimoniais e ao n.º 4 «critérios complementares». O art. 347.º manda o tribunal atender, em conjunto, ao lucro do infrator, aos danos emergentes e lucros cessantes do lesado e aos encargos com a proteção, a investigação e a cessação da conduta (n.os 2 e 3), aos danos não patrimoniais (n.º 4) e, só subsidiariamente, a uma quantia fixa por equidade com base mínima na royalty hipotética (n.º 5); a cumulação é admitida se a conduta for reiterada ou especialmente gravosa (n.º 6) e os custos de investigação e cessação são sempre devidos (n.º 7). Corrigiram-se as regras, a análise, a estratégia, o critério C, a seleção do montante, o total, a checklist, o resultado esperado e a descrição do índice, e substituiu-se o inexistente art. 338.º-C pelo art. 339.º, n.º 2, e pelo art. 344.º, n.º 1, al. b), CPI.",
+    "descricao": "Elabora o cálculo e a fundamentação jurídica da indemnização devida por violação de direitos de propriedade intelectual (marcas, patentes, direitos de autor), segundo os fatores previstos no CPI e no CDADC — lucro obtido pelo infrator, danos emergentes e lucros cessantes do titular, encargos com a proteção, a investigação e a cessação da conduta e danos não patrimoniais — e, subsidiariamente, a quantia fixa por equidade que tem por base mínima a royalty hipotética, com exposição do raciocínio de quantificação.",
+    "descricao_en": "Prepares the calculation and legal grounds for the damages due for infringement of intellectual property rights (trade marks, patents, copyright), according to the factors laid down in the CPI and the CDADC — the infringer's profits, the right holder's actual loss and lost profits, the costs of protection, investigation and stopping the infringement, and non-pecuniary damage — and, in the alternative, the lump sum fixed on equitable grounds with the hypothetical royalty as its minimum basis, setting out the quantification reasoning.",
+    "substituicoes": [
+      {
+        "de": "- Aplica os três critérios alternativos do art. 338.º CPI e apresenta o mais favorável ao titular\n- O titular pode optar pelo critério mais favorável — não pode cumular os três",
+        "para": "- Aplica os fatores de cálculo do art. 347.º CPI: lucro obtido pelo infrator, danos emergentes e lucros cessantes do lesado, encargos com a proteção, a investigação e a cessação da conduta, receita resultante da conduta ilícita e danos não patrimoniais\n- Não há escolha livre do titular entre critérios alternativos: o tribunal fixa a indemnização atendendo a esses fatores; a quantia fixa por equidade, com base mínima na royalty hipotética, só cabe se não for possível fixar o prejuízo efetivo e o lesado não se opuser (art. 347.º, n.º 5, CPI); a cumulação de todos ou de alguns dos fatores só é admitida se a conduta for reiterada ou especialmente gravosa (art. 347.º, n.º 6, CPI)",
+        "motivo": "O art. 347.º CPI não prevê três critérios alternativos à escolha do titular: enumera fatores a ponderar pelo tribunal, uma alternativa subsidiária por equidade (n.º 5) e a cumulação nos casos do n.º 6.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0347&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Critério mais favorável a priori: lucros cessantes / benefícios do infrator / royalty hipotética",
+        "para": "- Fator de cálculo mais sólido com os dados disponíveis: lucros cessantes / lucro do infrator / royalty hipotética (esta só como base da quantia fixa por equidade do art. 347.º, n.º 5, CPI)",
+        "motivo": "A royalty hipotética é a base mínima de uma alternativa subsidiária, não um critério à escolha.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0347&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Art. 338.º CPI: responsabilidade civil — critérios de cálculo da indemnização\n  - Critério A: perdas sofridas pelo titular + lucros cessantes\n  - Critério B: benefícios realizados pelo infrator como consequência do ato ilícito\n  - Critério C: royalty hipotética (remuneração que seria devida se a violação tivesse sido autorizada)\n- Art. 211.º CDADC: responsabilidade por violação de direitos de autor (critérios análogos)\n- Art. 338.º CPI, n.º 3: danos não patrimoniais (danos à marca, reputação, imagem)\n- Art. 338.º CPI, n.º 4: critérios complementares (boa-fé do infrator, duração, extensão)",
+        "para": "- Art. 347.º, n.º 1, CPI: dever de indemnizar de quem, com dolo ou mera culpa, viole ilicitamente direito de propriedade industrial ou segredo comercial de outrem\n- Art. 347.º, n.º 2, CPI: fatores a que o tribunal deve atender — lucro obtido pelo infrator, danos emergentes e lucros cessantes do lesado e encargos com a proteção, a investigação e a cessação da conduta lesiva; o n.º 3 manda atender ainda à receita resultante da conduta ilícita\n  - Critério A: danos emergentes e lucros cessantes do titular\n  - Critério B: lucro obtido pelo infrator com o ato ilícito\n  - Critério C (subsidiário): quantia fixa por equidade, se não for possível fixar o prejuízo efetivo e o lesado não se opuser, com base mínima nas remunerações que seriam devidas se a utilização tivesse sido autorizada e nos encargos com a proteção, a investigação e a cessação (art. 347.º, n.º 5, CPI)\n- Art. 211.º CDADC: indemnização por violação de direito de autor ou de direitos conexos, em termos paralelos (o n.º 4 manda atender também às circunstâncias da infração, à gravidade da lesão e ao grau de difusão ilícita da obra ou da prestação)\n- Art. 347.º, n.º 4, CPI: danos não patrimoniais (danos à marca, reputação, imagem)\n- Art. 347.º, n.º 6, CPI: cumulação de todos ou de alguns dos fatores dos n.os 2 a 5, se a conduta for reiterada ou especialmente gravosa\n- Art. 347.º, n.º 7, CPI: quantia razoável, sempre devida, para os custos comprovados de investigação e cessação da conduta lesiva",
+        "motivo": "Os danos não patrimoniais estão no n.º 4 (o n.º 3 é a receita do infrator); não há «critérios complementares» de boa-fé, duração e extensão no CPI; faltavam os encargos de proteção, investigação e cessação, a natureza subsidiária da royalty e a cumulação do n.º 6.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0347&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Apresentação dos três critérios com os dados disponíveis\n- Identificação do critério mais favorável ao titular",
+        "para": "- Apresentação de cada critério com os dados disponíveis\n- Identificação do pedido principal (prejuízo efetivo e lucro do infrator, sem duplicação) e do pedido subsidiário (quantia fixa por equidade — art. 347.º, n.º 5, CPI)",
+        "motivo": "O titular não escolhe livremente o critério; a quantia fixa por equidade é subsidiária.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0347&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Total global: soma de danos patrimoniais + danos não patrimoniais",
+        "para": "- Total global: danos patrimoniais + encargos com a investigação e a cessação da conduta (art. 347.º, n.º 7, CPI) + danos não patrimoniais",
+        "motivo": "Os custos comprovados de investigação e cessação são sempre indemnizáveis.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0347&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "**CRITÉRIO C — ROYALTY HIPOTÉTICA**\n\nPremissas:",
+        "para": "**CRITÉRIO C — ROYALTY HIPOTÉTICA (SUBSIDIÁRIO)**\n\nPremissas:\n- Só se aplica se não for possível fixar o prejuízo efetivo e a parte lesada não se opuser; a royalty é a base mínima da quantia fixa por equidade, à qual acrescem os encargos com a proteção, a investigação e a cessação (art. 347.º, n.º 5, CPI)",
+        "motivo": "A royalty hipotética é a base mínima de uma alternativa subsidiária fixada por equidade.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0347&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "**CRITÉRIO SELECIONADO**\nO critério mais favorável ao titular é o Critério [A / B / C], no montante de **€ [valor]**.",
+        "para": "**MONTANTE PEDIDO**\nPedido principal: **€ [valor]**, com base no prejuízo efetivo (Critério A) e no lucro do infrator (Critério B), ponderados nos termos do art. 347.º, n.os 2 e 3, CPI, sem duplicação. Pedido subsidiário: **€ [valor]** (Critério C — quantia fixa por equidade, art. 347.º, n.º 5, CPI). [Se a conduta for reiterada ou especialmente gravosa: cumulação dos fatores — art. 347.º, n.º 6, CPI.]",
+        "motivo": "O tribunal pondera os fatores do n.º 2; a quantia por equidade é subsidiária e a cumulação depende do n.º 6.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0347&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "Danos patrimoniais (Critério [X]): € [valor]\nDanos não patrimoniais: € [valor]",
+        "para": "Danos patrimoniais (Critério [X]): € [valor]\nEncargos com a investigação e a cessação da conduta (art. 347.º, n.º 7, CPI): € [valor] [não somar se já incluídos na quantia fixa do Critério C]\nDanos não patrimoniais (art. 347.º, n.º 4, CPI): € [valor]",
+        "motivo": "Os custos comprovados de investigação e cessação são sempre indemnizáveis.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0347&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "que podem ser obtidos por ordem judicial (art. 338.º-C CPI).",
+        "para": "que podem ser obtidos por ordem judicial (art. 339.º, n.º 2, CPI, para atos praticados à escala comercial) e pelo pedido de informações sobre quantidades produzidas e vendidas e preços obtidos (art. 344.º, n.º 1, al. b), CPI).",
+        "motivo": "O art. 338.º-C não existe no CPI; a apresentação de documentos bancários, financeiros, contabilísticos ou comerciais está no art. 339.º, n.º 2, e o dever de informação no art. 344.º.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0339&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- [ ] Três critérios aplicados e apresentados\n- [ ] Critério mais favorável identificado e justificado",
+        "para": "- [ ] Critérios A e B aplicados e Critério C apresentado como pedido subsidiário (art. 347.º, n.º 5, CPI)\n- [ ] Pedido principal e pedido subsidiário justificados, sem duplicação de fatores (cumulação só nos termos do art. 347.º, n.º 6, CPI)",
+        "motivo": "Não há escolha livre entre três critérios alternativos.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0347&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- [ ] Total global calculado (patrimoniais + não patrimoniais)",
+        "para": "- [ ] Total global calculado (patrimoniais + encargos de investigação e cessação + não patrimoniais)",
+        "motivo": "Os custos de investigação e cessação são sempre indemnizáveis (art. 347.º, n.º 7, CPI).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0347&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "Cálculo detalhado da indemnização com aplicação dos três critérios alternativos do art. 338.º CPI, identificação do critério mais favorável e total global fundamentado.",
+        "para": "Cálculo detalhado da indemnização com aplicação dos fatores do art. 347.º CPI, pedido principal e pedido subsidiário (quantia fixa por equidade do n.º 5) identificados e total global fundamentado.",
+        "motivo": "O art. 347.º CPI não prevê três critérios alternativos à escolha do titular.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0347&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Confirmar na jurisprudência como se articulam, fora do n.º 6, o lucro do infrator e os lucros cessantes do lesado (art. 347.º, n.º 2, CPI), para evitar a duplicação do mesmo dano.",
+      "Confirmar a admissibilidade e a medida dos danos não patrimoniais de pessoas coletivas (dano à imagem ou à reputação da marca).",
+      "Confirmar a taxa e o início dos juros de mora na responsabilidade por facto ilícito (art. 805.º, n.º 3, CC: mora desde a citação) e se se aplicam juros civis ou comerciais; não foi conferido na fonte nesta revisão.",
+      "Se o direito violado for direito de autor, confirmar no CDADC as medidas equivalentes de obtenção de prova e de informação."
+    ],
+    "fontes": [
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0347&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0339&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0344&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=484A0211&nid=484&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+    ]
+  }
+]

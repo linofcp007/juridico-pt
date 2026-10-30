@@ -6,7 +6,8 @@ titulo_en: "Legal Opinion on Liability for Hospital-Acquired Infection"
 descricao: "Analisa a responsabilidade jurídica do hospital ou estabelecimento de saúde por infeção associada aos cuidados de saúde (IACS) contraída pelo doente durante o internamento ou procedimento, com identificação das falhas de organização e das normas de prevenção e controlo de infeção violadas."
 descricao_en: "Analyses the legal liability of the hospital or healthcare establishment for a healthcare-associated infection (HAI; IACS in Portuguese) contracted by the patient during admission or a procedure, identifying the organisational failures and the infection prevention and control rules breached."
 ambito: nacional
-estado_citacoes: "conferidas 2 · corrigidas 0 · por conferir 1"
+estado_citacoes: "conferidas 5 · corrigidas 0 · por conferir 4"
+revisao_tecnica: "2026-10-30 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
@@ -14,7 +15,8 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 
 > **Âmbito:** nacional · **Área:** Direito da Saúde e Responsabilidade Médica · **Código:** SAU-020
 > **EN:** Legal Opinion on Liability for Hospital-Acquired Infection. Analyses the legal liability of the hospital or healthcare establishment for a healthcare-associated infection (HAI; IACS in Portuguese) contracted by the patient during admission or a procedure, identifying the organisational failures and the infection prevention and control rules breached.
-> **Citações:** conferidas 2 · corrigidas 0 · por conferir 1. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 5 · corrigidas 0 · por conferir 4. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-30 — corrigida (3 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
 Analisa a responsabilidade jurídica do hospital ou estabelecimento de saúde por infeção associada aos cuidados de saúde (IACS) contraída pelo doente durante o internamento ou procedimento, com identificação das falhas de organização e das normas de prevenção e controlo de infeção violadas.
 
@@ -26,7 +28,7 @@ Ficha de trabalho para preparar este documento. As regras da casa prevalecem sob
 - NUNCA inventes factos clínicos, agentes patogénicos ou normas DGS inexistentes
 - Se faltar dado, marca [■ VERIFICAR: o que é necessário]
 - Distingue responsabilidade por falha organizativa (responsabilidade da instituição) de responsabilidade individual do profissional
-- As IACS podem ser inevitáveis — a responsabilidade só existe se houver desvio ao protocolo
+- As IACS podem ser inevitáveis — a responsabilidade exige, em regra, um desvio aos protocolos ou às leges artis (na prevenção, no diagnóstico ou no tratamento da infeção)
 - Cita as normas DGS sobre IACS [■ VERIFICAR: normas atualizadas] e o regime de responsabilidade aplicável
 
 ---
@@ -44,9 +46,10 @@ Apresenta dentro de um bloco <analise_do_caso>:
 
 ### ETAPA 2 — ANÁLISE JURÍDICA (Fundamentação)
 Apresenta dentro de um bloco <fundamentos_juridicos>:
+- Hospital ou clínica privados: arts. 798.º e 799.º CC — responsabilidade contratual, com presunção de culpa do devedor (art. 799.º, n.º 1, CC)
 - Art. 483.º CC — responsabilidade por facto ilícito (falha nos protocolos como facto ilícito)
 - Art. 800.º CC — responsabilidade pelos auxiliares (falha de um profissional individualmente)
-- Art. 9.º RRCEE (Lei n.º 67/2007) — responsabilidade pelo risco (se for hospital público)
+- Hospital público (SNS): Lei n.º 67/2007 (RRCEE) — ilicitude, incluindo a violação de regras de ordem técnica e de deveres objetivos de cuidado e o funcionamento anormal do serviço (arts. 7.º, n.os 3 e 4, e 9.º RRCEE), e culpa (art. 10.º RRCEE); a responsabilidade pelo risco (art. 11.º RRCEE) só abrange atividades, coisas ou serviços administrativos especialmente perigosos [■ VERIFICAR: aplicação às IACS na jurisprudência administrativa]
 - Programa Nacional de Prevenção e Controlo de Infeções e Resistências aos Antimicrobianos (PPCIRA) — [■ VERIFICAR: norma DGS atualizada]
 - Normas DGS sobre higiene das mãos, esterilização, isolamento, antibioterapia: [■ VERIFICAR números de norma atualizados]
 - Lei n.º 95/2019 (Lei de Bases da Saúde): obrigação de qualidade e segurança
@@ -58,7 +61,7 @@ Apresenta dentro de um bloco <analise_responsabilidade>:
 - Desvio ao protocolo: que norma de controlo de infeção não foi cumprida?
 - Prova disponível: registos de higiene das mãos, resultados microbiológicos, relatório de auditoria
 - Se a infeção era previsível e evitável com os protocolos adequados
-- Limitações: algumas IACS ocorrem mesmo com todos os protocolos cumpridos (responsabilidade pelo risco vs. responsabilidade por culpa)
+- Limitações: algumas IACS ocorrem mesmo com todos os protocolos cumpridos; a responsabilidade assenta, em regra, na culpa (presumida no contrato com estabelecimento privado — art. 799.º, n.º 1, CC); a responsabilidade pelo risco só se discute no hospital público e só para atividades, coisas ou serviços especialmente perigosos (art. 11.º RRCEE)
 
 ### ETAPA 4 — EXPOSIÇÃO ESTRUTURADA (O Parecer)
 Redige o parecer formal:
@@ -131,6 +134,12 @@ Apresenta dentro de um bloco <checklist_validacao>:
 
 | Citação | Estado | Nota |
 |---|---|---|
+| arts. 798.º e 799.º CC | conferida (índice) |  |
+| art. 799.º, n.º 1, CC | conferida (índice) |  |
+| art. 799.º, n.º 1, CC | conferida (índice) |  |
 | Art. 483.º CC | conferida (índice) |  |
 | Art. 800.º CC | conferida (epígrafe) — Atos dos representantes legais ou auxiliares |  |
-| Art. 9.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| arts. 7.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 10.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 11.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 11.º | por conferir [■ VERIFICAR] | diploma não identificado |

@@ -6,7 +6,8 @@ titulo_en: "Legal Due Diligence Report"
 descricao: "Gera um relatório de due diligence jurídica completo e estruturado, com síntese das constatações por área, identificação de riscos (vermelho/amarelo/verde), recomendações e impacto estimado no preço ou nas garantias do contrato de compra e venda (SPA)."
 descricao_en: "Generates a complete, structured legal due diligence report, with a summary of findings by area, risk identification (red/amber/green), recommendations and the estimated impact on the price or on the warranties in the share purchase agreement (SPA)."
 ambito: nacional
-estado_citacoes: "sem citações"
+estado_citacoes: "conferidas 3 · corrigidas 0 · por conferir 0"
+revisao_tecnica: "2026-10-30 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
@@ -14,7 +15,8 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 
 > **Âmbito:** nacional · **Área:** Direito Comercial e das Sociedades · **Código:** COM-029
 > **EN:** Legal Due Diligence Report. Generates a complete, structured legal due diligence report, with a summary of findings by area, risk identification (red/amber/green), recommendations and the estimated impact on the price or on the warranties in the share purchase agreement (SPA).
-> **Citações:** sem citações. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 3 · corrigidas 0 · por conferir 0. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-30 — corrigida (2 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
 Gera um relatório de due diligence jurídica completo e estruturado, com síntese das constatações por área, identificação de riscos (vermelho/amarelo/verde), recomendações e impacto estimado no preço ou nas garantias do contrato de compra e venda (SPA).
 
@@ -47,8 +49,8 @@ Identifique em <fundamentos_juridicos>:
 - CSC — validade das participações, órgãos, deliberações e eventuais nulidades
 - Código Civil — contratos, vícios do consentimento, cláusulas nulas
 - Código do Trabalho — passivos laborais e obrigações de transição
-- Código Fiscal — responsabilidade tributária da empresa-alvo
-- Lei 99/2017 (segredos de negócio) — proteção de informação confidencial
+- LGT e códigos tributários (CIRC, CIVA, CIRS) — contingências fiscais da empresa-alvo nos exercícios ainda não caducados (art. 45.º LGT) e responsabilidade subsidiária dos gerentes e administradores (art. 24.º LGT)
+- Arts. 313.º a 315.º CPI (segredos comerciais; Decreto-Lei n.º 110/2018, que transpôs a Diretiva (UE) 2016/943) — proteção de informação confidencial
 - RGPD — passivos regulatórios e obrigações de notificação
 - [■ VERIFICAR: regulação setorial específica aplicável]
 
@@ -153,7 +155,7 @@ Apresente em <checklist_validacao>:
 - [ ] Sumário executivo reflete corretamente os riscos críticos
 - [ ] Todas as áreas da checklist (Skill 28) têm entrada no relatório
 - [ ] Classificação de risco (crítico/relevante/informativo) coerente com as constatações
-- [ ] Recomendações para o SPA accionáveis e proporcionais ao risco
+- [ ] Recomendações para o SPA acionáveis e proporcionais ao risco
 - [ ] Documentos em falta identificados com [■ VERIFICAR]
 - [ ] Nenhuma constatação inventada — apenas o que foi fornecido
 
@@ -184,3 +186,11 @@ Apresente em <checklist_validacao>:
 
 **OBSERVAÇÕES:**
 [prazo, restrições de confidencialidade, âmbito limitado se aplicável]
+
+## Citações desta ficha
+
+| Citação | Estado | Nota |
+|---|---|---|
+| art. 45.º LGT | conferida (epígrafe) — Caducidade do direito à liquidação |  |
+| art. 24.º LGT | conferida (epígrafe) — Responsabilidade dos membros de corpos sociais e responsáveis técnicos |  |
+| Arts. 313.º a 315.º CPI | conferida (epígrafe) — Objeto de proteção |  |

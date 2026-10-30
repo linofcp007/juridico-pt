@@ -6,7 +6,8 @@ titulo_en: "Statement of Claim in an Administrative Action for an Order to Perfo
 descricao: "Gera a petição inicial da ação administrativa de condenação da Administração à prática de ato administrativo ilegalmente omitido ou recusado, com exposição da obrigação de agir, fundamento legal do dever de decidir e pedido de condenação à prática do ato devido, ao abrigo dos arts. 66.º e seguintes do CPTA."
 descricao_en: "Generates the statement of claim in the administrative action seeking an order requiring the Administration to perform an administrative act that it has unlawfully omitted or refused, setting out the duty to act, the legal basis of the duty to decide and a request for an order to perform the due act (condenação à prática de ato devido), under Articles 66 et seq. of the CPTA."
 ambito: nacional
-estado_citacoes: "conferidas 8 · corrigidas 0 · por conferir 0"
+estado_citacoes: "conferidas 13 · corrigidas 0 · por conferir 0"
+revisao_tecnica: "2026-10-30 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
@@ -14,7 +15,8 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 
 > **Âmbito:** nacional · **Área:** Direito Administrativo · **Código:** ADM-006
 > **EN:** Statement of Claim in an Administrative Action for an Order to Perform a Legally Due Act. Generates the statement of claim in the administrative action seeking an order requiring the Administration to perform an administrative act that it has unlawfully omitted or refused, setting out the duty to act, the legal basis of the duty to decide and a request for an order to perform the due act (condenação à prática de ato devido), under Articles 66 et seq. of the CPTA.
-> **Citações:** conferidas 8 · corrigidas 0 · por conferir 0. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 13 · corrigidas 0 · por conferir 0. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-30 — corrigida (7 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
 Gera a petição inicial da ação administrativa de condenação da Administração à prática de ato administrativo ilegalmente omitido ou recusado, com exposição da obrigação de agir, fundamento legal do dever de decidir e pedido de condenação à prática do ato devido, ao abrigo dos arts. 66.º e seguintes do CPTA.
 
@@ -28,7 +30,7 @@ Ficha de trabalho para preparar este documento. As regras da casa prevalecem sob
 - Cita artigos reais do CPTA, do CPA, da CRP e da legislação setorial
 - Usa português europeu correto — sem brasileirismos
 - Distingue ato vinculado (a Administração só pode praticar uma decisão lícita) de ato discricionário (pede condenação a decidir dentro da margem legal)
-- Verifica sempre o prazo de propositura (art. 69.º CPTA — 1 ano após decurso do prazo legal de decisão)
+- Verifica sempre o prazo de propositura (art. 69.º CPTA): na inércia da Administração, 1 ano contado do termo do prazo legal de decisão (n.º 1); havendo indeferimento, recusa de apreciação do requerimento ou pretensão de substituição de ato de conteúdo positivo, aplica-se o regime da impugnação dos arts. 58.º a 60.º CPTA (n.º 2), em regra 3 meses (art. 58.º, n.º 1, alínea b), CPTA)
 
 ---
 
@@ -46,10 +48,12 @@ Apresenta dentro de um bloco <analise_do_caso>:
 
 ### ETAPA 2 — ANÁLISE JURÍDICA (Fundamentação)
 Apresenta dentro de um bloco <fundamentos_juridicos>:
-- Arts. 66.º a 72.º do CPTA (ação de condenação à prática de ato devido)
-- Art. 129.º do CPA (dever de decisão)
-- Art. 128.º do CPA (prazo de decisão — 90 dias, salvo prazo especial)
-- Art. 268.º, n.º 4, da CRP (direito a decisão em prazo razoável)
+- Arts. 66.º a 71.º do CPTA (ação de condenação à prática de ato devido)
+- Art. 13.º do CPA (princípio da decisão — dever de decidir)
+- Art. 129.º do CPA (incumprimento do dever de decisão — abre ao interessado os meios de tutela administrativa e jurisdicional)
+- Art. 128.º do CPA (prazo de decisão — 60 dias, salvo se outro prazo decorrer da lei, prorrogável em circunstâncias excecionais devidamente fundamentadas, por um ou mais períodos, até ao limite máximo de 90 dias; conta-se da entrada do requerimento)
+- Art. 130.º do CPA (confirmar que a lei não atribui ao silêncio o valor de deferimento tácito; se o atribuir, não há omissão)
+- Art. 268.º, n.º 4, da CRP (tutela jurisdicional efetiva, incluindo a determinação da prática de atos administrativos legalmente devidos)
 - Legislação setorial que impõe o dever de decidir
 - Jurisprudência relevante [■ VERIFICAR se disponível]
 
@@ -64,7 +68,7 @@ Apresenta dentro de um bloco <estrategia>:
 Redige a petição inicial completa nesta estrutura:
 
 **1. ENDEREÇAMENTO**
-Exmo. Sr. Juiz Presidente do Tribunal Administrativo de Círculo de [Comarca]
+Exmo. Sr. Juiz Presidente do Tribunal Administrativo de Círculo / Tribunal Administrativo e Fiscal de [■ VERIFICAR: tribunal territorialmente competente — arts. 16.º a 20.º do CPTA]
 
 **2. IDENTIFICAÇÃO DO AUTOR E DO RÉU**
 [Nome], NIF n.º [número], [qualidade], vem intentar:
@@ -99,7 +103,7 @@ Apresenta dentro de um bloco <checklist_validacao>:
 - [ ] Dever de decidir demonstrado com base legal
 - [ ] Prazo legal de decisão e o seu decurso documentados
 - [ ] Distinção ato vinculado / discricionário feita
-- [ ] Prazo de propositura (art. 69.º CPTA — 1 ano) verificado
+- [ ] Prazo de propositura (art. 69.º CPTA — 1 ano na inércia; 3 meses no indeferimento ou na recusa de apreciação) verificado
 - [ ] Legitimidade ativa e passiva identificadas
 - [ ] Pedido de condenação em prazo razoável incluído
 - [ ] Artigos do CPTA e CPA citados
@@ -138,9 +142,14 @@ Apresenta dentro de um bloco <checklist_validacao>:
 |---|---|---|
 | art. 69.º CPTA | conferida (epígrafe) — Prazos |  |
 | art. 69.º CPTA | conferida (epígrafe) — Prazos |  |
-| Arts. 66.º a 72.º do CPTA | conferida (epígrafe) — Objeto |  |
+| arts. 58.º a 60.º CPTA | conferida (epígrafe) — Prazos |  |
+| art. 58.º, n.º 1, alínea b), CPTA | conferida (epígrafe) — Prazos |  |
+| Arts. 66.º a 71.º do CPTA | conferida (epígrafe) — Objeto |  |
+| Art. 13.º do CPA | conferida (epígrafe) — Princípio da decisão |  |
 | Art. 129.º do CPA | conferida (epígrafe) — Incumprimento do dever de decisão |  |
 | Art. 128.º do CPA | conferida (epígrafe) — Prazos para a decisão dos procedimentos |  |
+| Art. 130.º do CPA | conferida (epígrafe) — Atos tácitos |  |
 | Art. 268.º, n.º 4, da CRP | conferida (epígrafe) — Direitos e garantias dos administrados |  |
+| arts. 16.º a 20.º do CPTA | conferida (epígrafe) — Regra geral |  |
 | arts. 128.º e 129.º CPA | conferida (epígrafe) — Prazos para a decisão dos procedimentos |  |
 | art. 268.º, n.º 4, CRP | conferida (epígrafe) — Direitos e garantias dos administrados |  |

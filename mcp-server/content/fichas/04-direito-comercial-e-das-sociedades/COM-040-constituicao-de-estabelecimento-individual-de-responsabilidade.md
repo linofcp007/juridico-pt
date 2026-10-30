@@ -102,7 +102,7 @@ com as seguintes características:
 ---
 
 **ARTIGO 1.º — DENOMINAÇÃO**
-O estabelecimento adopta a denominação: **"[Nome] — Estabelecimento Individual de Responsabilidade Limitada"** ou, abreviadamente, **"[Nome], E.I.R.L."**
+O estabelecimento adota a denominação: **"[Nome] — Estabelecimento Individual de Responsabilidade Limitada"** ou, abreviadamente, **"[Nome], E.I.R.L."**
 
 [■ VERIFICAR: a firma é constituída pelo nome do titular, acrescido ou não de uma referência ao objeto do comércio, e inclui sempre o aditamento «estabelecimento individual de responsabilidade limitada» ou a sigla «E. I. R. L.» — art. 2.º, n.º 3, do DL 248/86]
 

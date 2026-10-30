@@ -6,7 +6,8 @@ titulo_en: "Opinion on Processing Health Data / Special Categories"
 descricao: "Gera um Parecer sobre a licitude do tratamento de dados de saúde ou de outras categorias especiais de dados pessoais (art. 9.º RGPD), analisando a base jurídica específica, as condições de licitude, as obrigações de segurança reforçada e as recomendações para conformidade."
 descricao_en: "Generates an opinion on the lawfulness of processing health data or other special categories of personal data (Art. 9 GDPR), analysing the specific legal basis, the conditions for lawfulness, the enhanced security obligations and recommendations for compliance."
 ambito: nacional
-estado_citacoes: "conferidas 13 · corrigidas 0 · por conferir 23"
+estado_citacoes: "conferidas 17 · corrigidas 0 · por conferir 23"
+revisao_tecnica: "2026-10-30 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
@@ -14,7 +15,8 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 
 > **Âmbito:** nacional · **Área:** Proteção de Dados e Direito Digital · **Código:** DIG-031
 > **EN:** Opinion on Processing Health Data / Special Categories. Generates an opinion on the lawfulness of processing health data or other special categories of personal data (Art. 9 GDPR), analysing the specific legal basis, the conditions for lawfulness, the enhanced security obligations and recommendations for compliance.
-> **Citações:** conferidas 13 · corrigidas 0 · por conferir 23. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 17 · corrigidas 0 · por conferir 23. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-30 — corrigida (7 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
 Gera um Parecer sobre a licitude do tratamento de dados de saúde ou de outras categorias especiais de dados pessoais (art. 9.º RGPD), analisando a base jurídica específica, as condições de licitude, as obrigações de segurança reforçada e as recomendações para conformidade.
 
@@ -57,19 +59,19 @@ Apresenta dentro de um bloco <fundamentos_juridicos>:
   - al. f): para defesa de pretensões jurídicas
 
 *Lei n.º 58/2019 — habilitações específicas nacionais:*
-- Art. 26.º: dados de saúde tratados por profissionais de saúde sujeitos a sigilo
-- Art. 27.º: tratamento para investigação científica — requisitos adicionais
-- Art. 28.º: dados biométricos — proibição de uso para controlo de trabalhadores salvo exceções específicas
+- Art. 29.º: dados de saúde e dados genéticos — acesso segundo o princípio da necessidade de conhecer; nos casos das als. h) e i) do art. 9.º, n.º 2 RGPD, tratamento por profissional obrigado a sigilo ou por pessoa sujeita a dever de confidencialidade; dever de sigilo de quem acede; notificação ao titular de qualquer acesso aos seus dados (n.º 6)
+- Art. 31.º: fins arquivísticos de interesse público, de investigação científica ou histórica ou estatísticos — minimização, anonimização ou pseudonimização sempre que os fins o permitam, limitação dos direitos dos titulares na medida do necessário e consentimento para investigação que pode abranger diversas áreas (n.º 4)
+- Art. 28.º: relações laborais — o consentimento do trabalhador não é requisito de legitimidade quando o tratamento lhe traga vantagem jurídica ou económica ou seja necessário à execução do contrato (n.º 3); os dados biométricos dos trabalhadores só podem ser tratados para controlo de assiduidade e de acessos às instalações do empregador (n.º 6)
 
 *Dados biométricos especificamente:*
-- Controlo de acesso biométrico de trabalhadores: Lei n.º 58/2019, art. 28.º — só permitido se não for possível usar meios menos intrusivos [■ VERIFICAR: fundamento concreto]
-- Proibição de videovigilância para reconhecimento facial em espaços públicos: AI Act, art. 5.º (prática proibida)
+- Controlo biométrico de trabalhadores: art. 28.º, n.º 6, da Lei n.º 58/2019 — só é legítimo para controlo de assiduidade e de acessos às instalações do empregador, usando apenas representações dos dados biométricos, recolhidas por processo que não permita a reversibilidade; e art. 18.º CT — dados necessários, adequados e proporcionais, conservados só enquanto necessários e destruídos na transferência do trabalhador para outro local de trabalho ou na cessação do contrato
+- Reconhecimento facial e AI Act (art. 5.º): são proibidas a identificação biométrica à distância em «tempo real» em espaços acessíveis ao público para efeitos de aplicação da lei, salvo exceções taxativas (n.º 1, al. h)), a criação de bases de dados de reconhecimento facial por recolha aleatória de imagens da Internet ou de televisão em circuito fechado (al. e)), o reconhecimento de emoções no local de trabalho e no ensino (al. f)) e a categorização biométrica para inferir dados sensíveis (al. g)); fora destes casos, a identificação biométrica à distância é sistema de risco elevado (Anexo III, ponto 1, AI Act) e fica sujeita ao RGPD
 
 *Segurança reforçada para cat. especiais:*
 - Art. 32.º RGPD — medidas técnicas e organizativas proporcionais ao risco elevado
 - Cifração de dados de saúde em repouso e em trânsito
 - Controlo de acesso rigoroso (need-to-know)
-- AIPD obrigatória (art. 35.º RGPD + lista CNPD para dados de saúde)
+- AIPD obrigatória no tratamento em grande escala de categorias especiais (art. 35.º, n.º 3, al. b), RGPD) e nos tratamentos da lista da CNPD (art. 35.º, n.º 4, RGPD) [■ VERIFICAR: lista vigente da CNPD]
 
 ### ETAPA 3 — CONSTRUÇÃO ARGUMENTATIVA (Avaliação de Licitude)
 Define em <avaliacao_licitude>:
@@ -90,12 +92,12 @@ Análise da licitude do tratamento de dados de [categoria especial] por [entidad
 **II. CATEGORIAS DE DADOS EM ANÁLISE**
 [Identificação precisa da categoria:
 - Dados de saúde (art. 4.º, n.º 15 RGPD): "dados pessoais relacionados com a saúde física ou mental de uma pessoa singular, incluindo a prestação de serviços de saúde, que revelem informações sobre o seu estado de saúde"
-- Dados biométricos (art. 4.º, n.º 14): "dados pessoais resultantes de um tratamento técnico específico relativo às características físicas, fisiológicas ou comportamentais de uma pessoa singular"
+- Dados biométricos (art. 4.º, n.º 14): "dados pessoais resultantes de um tratamento técnico específico relativo às características físicas, fisiológicas ou comportamentais de uma pessoa singular que permitam ou confirmem a identificação única dessa pessoa singular, nomeadamente imagens faciais ou dados dactiloscópicos"
 - [Outras categorias conforme o caso]]
 
 **III. ENQUADRAMENTO NORMATIVO**
 - RGPD, arts. 4.º (definições), 9.º (proibição e exceções), 5.º (princípios), 32.º (segurança), 35.º (AIPD)
-- Lei n.º 58/2019, arts. 26.º a 28.º (habilitações nacionais)
+- Lei n.º 58/2019, arts. 28.º (relações laborais), 29.º (dados de saúde e dados genéticos) e 31.º (investigação científica ou histórica e fins estatísticos)
 - [Legislação setorial: Lei de Bases da Saúde, Código do Trabalho, regulação específica]
 
 **IV. ANÁLISE DE LICITUDE**
@@ -147,11 +149,11 @@ Apresenta dentro de um bloco <checklist_validacao>:
 - [ ] Proibição geral do art. 9.º, n.º 1 reconhecida
 - [ ] Exceção do art. 9.º, n.º 2 identificada com todos os seus requisitos analisados
 - [ ] Base jurídica do art. 6.º, n.º 1 também identificada (obrigação cumulativa)
-- [ ] Habilitações nacionais da Lei n.º 58/2019 analisadas (arts. 26.º a 28.º)
+- [ ] Habilitações nacionais da Lei n.º 58/2019 analisadas (arts. 28.º, 29.º e 31.º)
 - [ ] Medidas de segurança reforçadas (cifração, controlo de acesso, logs) recomendadas
 - [ ] AIPD: necessidade avaliada (art. 35.º RGPD)
 - [ ] Proporcionalidade verificada (alternativas menos intrusivas consideradas)
-- [ ] Para dados biométricos: conformidade com art. 28.º Lei 58/2019 analisada
+- [ ] Para dados biométricos de trabalhadores: conformidade com o art. 28.º, n.º 6, Lei 58/2019 e com o art. 18.º CT analisada
 - [ ] Pontos [■ VERIFICAR] sinalizados para revisão do DPO e responsável clínico/técnico
 
 ---
@@ -202,23 +204,27 @@ Apresenta dentro de um bloco <checklist_validacao>:
 | art. 8.º RGPD | conferida (epígrafe) — Condições aplicáveis ao consentimento de crianças em relação aos serviços da sociedade da  |  |
 | art. 9.º RGPD | conferida (epígrafe) — Tratamento de categorias especiais de dados pessoais |  |
 | Art. 9.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| Art. 26.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| Art. 27.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| Art. 29.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 9.º, n.º 2 RGPD | conferida (epígrafe) — Tratamento de categorias especiais de dados pessoais |  |
+| Art. 31.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | Art. 28.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 28.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 28.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 18.º CT | conferida (epígrafe) — Dados biométricos |  |
+| art. 18.º CT | conferida (epígrafe) — Dados biométricos |  |
 | art. 5.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | Art. 32.º RGPD | conferida (epígrafe) — Segurança do tratamento |  |
-| art. 35.º RGPD | conferida (epígrafe) — Avaliação de impacto sobre a proteção de dados |  |
-| art. 35.º RGPD | conferida (epígrafe) — Avaliação de impacto sobre a proteção de dados |  |
-| art. 35.º RGPD | conferida (epígrafe) — Avaliação de impacto sobre a proteção de dados |  |
+| art. 35.º, n.º 3, al. b), RGPD | conferida (epígrafe) — Avaliação de impacto sobre a proteção de dados |  |
+| art. 35.º, n.º 4, RGPD | conferida (epígrafe) — Avaliação de impacto sobre a proteção de dados |  |
 | art. 6.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 6.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 6.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | arts. 4.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| arts. 26.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| arts. 26.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| arts. 28.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| arts. 28.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 9.º, n.º 1 do RGPD | conferida (epígrafe) — Tratamento de categorias especiais de dados pessoais |  |
 | art. 6.º RGPD | conferida (índice) |  |
 | art. 32.º RGPD | conferida (epígrafe) — Segurança do tratamento |  |
+| art. 35.º RGPD | conferida (epígrafe) — Avaliação de impacto sobre a proteção de dados |  |
+| art. 35.º RGPD | conferida (epígrafe) — Avaliação de impacto sobre a proteção de dados |  |
 | art. 4.º, n.os 13, 14 e 15 RGPD | conferida (epígrafe) — Definições |  |

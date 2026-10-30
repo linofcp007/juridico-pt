@@ -6,7 +6,7 @@ titulo_en: "Articles of Association of a Public Limited Company (S.A.)"
 descricao: "Gera os estatutos completos de uma sociedade anónima (S.A.) portuguesa, em conformidade com os artigos 271 a 464 do CSC, incluindo estrutura de governo (Conselho de Administração, Conselho Fiscal ou modelo germânico), regime de ações, transferibilidade e assembleias gerais."
 descricao_en: "Generates the complete articles of association (estatutos) of a Portuguese public limited company (sociedade anónima, S.A.), in accordance with Articles 271 to 464 CSC, including the governance structure (Board of Directors, Audit Board (Conselho Fiscal) or the German two-tier model), the share regime, transferability and general meetings."
 ambito: nacional
-estado_citacoes: "conferidas 26 · corrigidas 1 · por conferir 23"
+estado_citacoes: "conferidas 26 · corrigidas 1 · por conferir 28"
 revisao_tecnica: "2026-10-28 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
@@ -15,7 +15,7 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 
 > **Âmbito:** nacional · **Área:** Direito Comercial e das Sociedades · **Código:** COM-003
 > **EN:** Articles of Association of a Public Limited Company (S.A.). Generates the complete articles of association (estatutos) of a Portuguese public limited company (sociedade anónima, S.A.), in accordance with Articles 271 to 464 CSC, including the governance structure (Board of Directors, Audit Board (Conselho Fiscal) or the German two-tier model), the share regime, transferability and general meetings.
-> **Citações:** conferidas 26 · corrigidas 1 · por conferir 23. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 26 · corrigidas 1 · por conferir 28. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
 > **Revisão técnica:** 2026-10-28 — corrigida (10 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
 Gera os estatutos completos de uma sociedade anónima (S.A.) portuguesa, em conformidade com os artigos 271 a 464 do CSC, incluindo estrutura de governo (Conselho de Administração, Conselho Fiscal ou modelo germânico), regime de ações, transferibilidade e assembleias gerais.
@@ -75,7 +75,7 @@ Redija o documento completo:
 **ESTATUTOS DE [FIRMA] — SOCIEDADE ANÓNIMA**
 
 **ARTIGO 1.º — FIRMA**
-A sociedade adopta a firma "[denominação], S.A."
+A sociedade adota a firma "[denominação], S.A."
 
 **ARTIGO 2.º — SEDE**
 Sede social: [morada, CP, localidade]. Pode criar sucursais ou delegações por deliberação do Conselho de Administração.
@@ -95,7 +95,7 @@ Distribuição inicial entre os fundadores:
 
 **ARTIGO 6.º — TRANSMISSÃO DE AÇÕES**
 [Opção A — livre]: As ações são livremente transmissíveis.
-[Opção B — com limitação]: A transmissão de ações a terceiros fica sujeita ao consentimento do Conselho de Administração / a direito de preferência dos accionistas existentes. [■ VERIFICAR: definir prazo de exercício]
+[Opção B — com limitação]: A transmissão de ações a terceiros fica sujeita ao consentimento do Conselho de Administração / a direito de preferência dos acionistas existentes. [■ VERIFICAR: definir prazo de exercício]
 
 **ARTIGO 7.º — ASSEMBLEIA GERAL**
 A Assembleia Geral reúne ordinariamente no primeiro trimestre de cada ano e extraordinariamente sempre que necessário. Delibera validamente com [1/4 / 1/3] do capital. As deliberações são tomadas por maioria simples dos votos expressos, salvo as que exijam maioria qualificada nos termos da lei (art. 386.º CSC) e destes estatutos.
@@ -166,7 +166,7 @@ Apresente em <checklist_validacao>:
 | Citação | Estado | Nota |
 |---|---|---|
 | art. 276.º, n.º 5, CSC | conferida (epígrafe) — Valor nominal do capital e das ações |  |
-| art. 273.º, n.º 1, CSC | conferida (epígrafe) — Número de accionistas |  |
+| art. 273.º, n.º 1, CSC | conferida (epígrafe) — Número de acionistas |  |
 | art. 488.º CSC | conferida (epígrafe) — Domínio total inicial |  |
 | art. 278.º, n.º 1, CSC | conferida (epígrafe) — Estrutura da administração e da fiscalização |  |
 | art. 390.º, n.º 2, CSC | conferida (epígrafe) — Composição |  |
@@ -178,6 +178,7 @@ Apresente em <checklist_validacao>:
 | art. 278.º, n.º 5, CSC | conferida (epígrafe) — Estrutura da administração e da fiscalização |  |
 | art. 276.º, n.ºs 1 e 2, CSC | conferida (epígrafe) — Valor nominal do capital e das ações |  |
 | art. 299.º CSC | conferida (epígrafe) — Ações nominativas |  |
+| art. 341 CSC | por conferir [■ VERIFICAR] | o assunto descrito não coincide com a epígrafe; confirmar |
 | Art. 276.º CSC | conferida (epígrafe) — Valor nominal do capital e das ações |  |
 | Art. 277.º CSC | conferida (epígrafe) — Entradas |  |
 | art. 285.º, n.º 1, CSC | conferida (epígrafe) — Realização das entradas |  |
@@ -196,6 +197,7 @@ Apresente em <checklist_validacao>:
 | arts. 413.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 420.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | Arts. 316.º a 325.º-B CSC | conferida (epígrafe) — Subscrição. Intervenção de terceiros |  |
+| art. 391 CSC | por conferir [■ VERIFICAR] | o assunto descrito não coincide com a epígrafe; confirmar |
 | ARTIGO 1.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | ARTIGO 2.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | ARTIGO 3.º | por conferir [■ VERIFICAR] | diploma não identificado |
@@ -210,8 +212,11 @@ Apresente em <checklist_validacao>:
 | ARTIGO 10.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 414.º, n.º 2, CSC | conferida (epígrafe) — Composição qualitativa |  |
 | art. 413.º, n.º 2, al. a), CSC | conferida (epígrafe) — Estrutura e composição quantitativa |  |
+| art. 413 CSC | por conferir [■ VERIFICAR] | o assunto descrito não coincide com a epígrafe; confirmar |
 | ARTIGO 11.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | ARTIGO 12.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | ARTIGO 13.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 276 CSC | por conferir [■ VERIFICAR] | o assunto descrito não coincide com a epígrafe; confirmar |
 | art. 277.º, n.º 2, CSC | conferida (epígrafe) — Entradas |  |
+| art. 278 CSC | por conferir [■ VERIFICAR] | o assunto descrito não coincide com a epígrafe; confirmar |
 | art. 386.º, n.ºs 3 e 4, CSC | conferida (epígrafe) — Maioria |  |

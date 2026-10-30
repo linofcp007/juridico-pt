@@ -3,20 +3,22 @@ codigo: PI-048
 area: "Propriedade Intelectual e Industrial"
 titulo: "Due Diligence de Propriedade Intelectual em M&A"
 titulo_en: "Intellectual Property Due Diligence in M&A"
-descricao: "Elabora o plano e o relatório de due diligence de propriedade intelectual numa operação de fusão ou aquisição (M&A), abrangendo o mapeamento e a avaliação de marcas, patentes, direitos de autor, segredos comerciais, contratos de PI e riscos de terceiros, ao abrigo do CPI (DL n.º 110/2018), do CDADC e da Lei n.º 93/2021."
-descricao_en: "Prepares the plan and report for intellectual property due diligence in a merger or acquisition (M&A), covering the mapping and valuation of trade marks, patents, copyright, trade secrets, IP contracts and third-party risks, under the CPI (Decree-Law No. 110/2018), the CDADC and Law No. 93/2021."
+descricao: "Elabora o plano e o relatório de due diligence de propriedade intelectual numa operação de fusão ou aquisição (M&A), abrangendo o mapeamento e a avaliação de marcas, patentes, direitos de autor, segredos comerciais, contratos de PI e riscos de terceiros, ao abrigo do CPI (DL n.º 110/2018, incluindo os segredos comerciais dos artigos 313.º a 316.º), do CDADC e do DL n.º 252/94 (programas de computador)."
+descricao_en: "Prepares the plan and report for intellectual property due diligence in a merger or acquisition (M&A), covering the mapping and valuation of trade marks, patents, copyright, trade secrets, IP contracts and third-party risks, under the CPI (Decree-Law No. 110/2018, including trade secrets in Articles 313 to 316), the CDADC and Decree-Law No. 252/94 (computer programs)."
 ambito: nacional
-estado_citacoes: "sem citações"
+estado_citacoes: "conferidas 0 · corrigidas 0 · por conferir 1"
+revisao_tecnica: "2026-10-30 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
 # Due Diligence de Propriedade Intelectual em M&A
 
 > **Âmbito:** nacional · **Área:** Propriedade Intelectual e Industrial · **Código:** PI-048
-> **EN:** Intellectual Property Due Diligence in M&A. Prepares the plan and report for intellectual property due diligence in a merger or acquisition (M&A), covering the mapping and valuation of trade marks, patents, copyright, trade secrets, IP contracts and third-party risks, under the CPI (Decree-Law No. 110/2018), the CDADC and Law No. 93/2021.
-> **Citações:** sem citações. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **EN:** Intellectual Property Due Diligence in M&A. Prepares the plan and report for intellectual property due diligence in a merger or acquisition (M&A), covering the mapping and valuation of trade marks, patents, copyright, trade secrets, IP contracts and third-party risks, under the CPI (Decree-Law No. 110/2018, including trade secrets in Articles 313 to 316), the CDADC and Decree-Law No. 252/94 (computer programs).
+> **Citações:** conferidas 0 · corrigidas 0 · por conferir 1. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-30 — corrigida (2 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
-Elabora o plano e o relatório de due diligence de propriedade intelectual numa operação de fusão ou aquisição (M&A), abrangendo o mapeamento e a avaliação de marcas, patentes, direitos de autor, segredos comerciais, contratos de PI e riscos de terceiros, ao abrigo do CPI (DL n.º 110/2018), do CDADC e da Lei n.º 93/2021.
+Elabora o plano e o relatório de due diligence de propriedade intelectual numa operação de fusão ou aquisição (M&A), abrangendo o mapeamento e a avaliação de marcas, patentes, direitos de autor, segredos comerciais, contratos de PI e riscos de terceiros, ao abrigo do CPI (DL n.º 110/2018, incluindo os segredos comerciais dos artigos 313.º a 316.º), do CDADC e do DL n.º 252/94 (programas de computador).
 
 ## Método
 
@@ -57,7 +59,7 @@ Apresenta em <checklist_ddpi_categorias>:
 - [ ] Freedom-to-operate: o target usa tecnologia de terceiros sem licença?
 
 **DIREITOS DE AUTOR E SOFTWARE:**
-- [ ] Software desenvolvido internamente: contratos de cessão assinados pelos criadores?
+- [ ] Software desenvolvido internamente: o criado por trabalhadores no exercício das funções ou por encomenda pertence ao destinatário, salvo estipulação em contrário ou se outra coisa resultar das finalidades do contrato (art. 3.º, n.º 3, do DL n.º 252/94) — contratos de trabalho e de prestação de serviços revistos? Há cláusulas em contrário, código escrito por fundadores antes da constituição ou por entidades do grupo?
 - [ ] Software de terceiros: licenças comerciais e open source identificadas?
 - [ ] Código open source com licenças copyleft (GPL, AGPL) — risco de contaminação?
 - [ ] Conteúdos (textos, imagens, vídeos, bases de dados): titularidade clara?
@@ -77,7 +79,7 @@ Apresenta em <checklist_ddpi_categorias>:
 ### ETAPA 3 — AVALIAÇÃO DE RISCOS
 Define em <avaliacao_riscos_ddpi>:
 - Riscos críticos: [bloquear o deal ou exigir ajuste de preço]
-  — Ex.: software sem cessão de direitos do criador original; patente central em oposição EPO; licença que caduca com change-of-control
+  — Ex.: software core sem título do target (criado por fundadores antes da constituição, por terceiros sem relação de trabalho ou de encomenda, ou com estipulação em contrário); patente central em oposição EPO; licença que caduca com change-of-control
 - Riscos relevantes: [condicionar reps & warranties ou preço]
   — Ex.: marcas não registadas usadas há anos; open source GPL não gerido
 - Riscos menores: [ação corretiva pós-closing]
@@ -144,3 +146,9 @@ Apresenta em <checklist_ddpi_final>:
 **ÂMBITO DA DD:** [categorias de PI a incluir]
 **PRAZO:** [datas]
 **Observações:** [qualquer dado relevante]
+
+## Citações desta ficha
+
+| Citação | Estado | Nota |
+|---|---|---|
+| art. 3.º | por conferir [■ VERIFICAR] | diploma não identificado |

@@ -6,7 +6,7 @@ titulo_en: "Submission of a List of Witnesses and Evidence"
 descricao: "Gera um requerimento de prova para fase de julgamento em processo penal, com indicação detalhada do rol de testemunhas, prova documental, pericial e outros meios de prova, fundamentando a pertinência e necessidade de cada elemento probatório."
 descricao_en: "Generates an application for evidence for the trial stage of criminal proceedings, with a detailed list of witnesses and documentary, expert and other evidence, justifying the relevance and necessity of each item of evidence."
 ambito: nacional
-estado_citacoes: "conferidas 14 · corrigidas 1 · por conferir 0"
+estado_citacoes: "conferidas 12 · corrigidas 1 · por conferir 2"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
@@ -14,7 +14,7 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 
 > **Âmbito:** nacional · **Área:** Direito Penal e Contraordenacional · **Código:** PEN-005
 > **EN:** Submission of a List of Witnesses and Evidence. Generates an application for evidence for the trial stage of criminal proceedings, with a detailed list of witnesses and documentary, expert and other evidence, justifying the relevance and necessity of each item of evidence.
-> **Citações:** conferidas 14 · corrigidas 1 · por conferir 0. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 12 · corrigidas 1 · por conferir 2. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
 
 Gera um requerimento de prova para fase de julgamento em processo penal, com indicação detalhada do rol de testemunhas, prova documental, pericial e outros meios de prova, fundamentando a pertinência e necessidade de cada elemento probatório.
 
@@ -25,7 +25,7 @@ Ficha de trabalho para preparar este documento. As regras da casa prevalecem sob
 ## Regras obrigatórias
 — NUNCA inventes jurisprudência ou doutrina sem verificação.
 — Marca [■ VERIFICAR: dado necessário] quando faltar informação.
-— Limites legais: na contestação, máx. 20 testemunhas (art. 315.º, n.º 2 CPP); acusação também máx. 20 (art. 283.º, n.º 3 CPP).
+— Limites legais: na contestação, máx. 20 testemunhas (art. 315.º, n.º 2 CPP [■ VERIFICAR: o artigo 315.º CPP está revogado; confirmar a norma em vigor]); acusação também máx. 20 (art. 283.º, n.º 3 CPP).
 — Prova suplementar em audiência: admissível se for essencial à descoberta da verdade (art. 340.º CPP).
 — Prova pericial: pode ser requerida em qualquer fase (arts. 151.º-163.º CPP).
 — Documento em poder de terceiro: pode ser requerida a sua junção (arts. 164.º-170.º CPP).
@@ -47,7 +47,7 @@ Apresenta em <analise_do_caso>:
 
 ### ETAPA 2 — ANÁLISE JURÍDICA
 Apresenta em <fundamentos_juridicos>:
-- Art. 315.º, n.ºs 1 e 2 CPP — contestação e indicação de prova
+- Art. 315.º, n.ºs 1 e 2 CPP [■ VERIFICAR: o artigo 315.º CPP está revogado; confirmar a norma em vigor] — contestação e indicação de prova
 - Art. 340.º CPP — admissão de prova suplementar em audiência
 - Arts. 128.º-141.º CPP — regime da prova testemunhal
 - Arts. 151.º-163.º CPP — prova pericial (requisitos e objeto)
@@ -149,12 +149,12 @@ Apresenta em <checklist_validacao>:
 
 | Citação | Estado | Nota |
 |---|---|---|
-| art. 315.º, n.º 2 CPP | conferida (epígrafe) — Contestação e rol de testemunhas |  |
+| art. 315.º, n.º 2 CPP | por conferir [■ VERIFICAR] | o artigo 315.º CPP está revogado; confirmar a norma em vigor |
 | art. 283.º, n.º 3 CPP | conferida (epígrafe) — Acusação pelo Ministério Público |  |
 | art. 340.º CPP | conferida (epígrafe) — Princípios gerais |  |
 | arts. 151.º-163.º CPP | conferida (epígrafe) — Quando tem lugar |  |
 | arts. 164.º-170.º CPP | conferida (epígrafe) — Admissibilidade |  |
-| Art. 315.º, n.ºs 1 e 2 CPP | conferida (epígrafe) — Contestação e rol de testemunhas |  |
+| Art. 315.º, n.ºs 1 e 2 CPP | por conferir [■ VERIFICAR] | o artigo 315.º CPP está revogado; confirmar a norma em vigor |
 | Art. 340.º CPP | conferida (epígrafe) — Princípios gerais |  |
 | Arts. 128.º-141.º CPP | conferida (epígrafe) — Objeto e limites do depoimento |  |
 | Arts. 151.º-163.º CPP | conferida (epígrafe) — Quando tem lugar |  |

@@ -43,8 +43,8 @@ Apresenta em <diagnostico_situacao>:
 Explica em <efeitos_juridicos>:
 - A partilha informal não transfere a propriedade dos imóveis: havendo acordo, a partilha é realizada nas conservatórias ou por via notarial (art. 2102.º, n.º 1, CC), e o acordo sem a forma legal é nulo (art. 220.º CC) [■ VERIFICAR: forma exigida para a partilha de imóveis — escritura pública ou documento particular autenticado]
 - O imóvel continua registado em nome do de cuius: impossibilidade de venda, hipoteca ou arrendamento formal pelo "beneficiário de facto"
-- Usucapião: o herdeiro que usou o imóvel em exclusivo possui também em nome dos co-herdeiros e só pode invocar usucapião (art. 1287.º e ss. CC) se tiver invertido o título da posse, contando-se o prazo desde a inversão (arts. 1265.º e 1290.º CC; cf. art. 1406.º, n.º 2, CC) [■ VERIFICAR: jurisprudência sobre a posse do co-herdeiro]; os prazos vão de 5 a 20 anos, consoante haja registo e boa ou má fé — sem registo, 15 anos de boa fé ou 20 de má fé (arts. 1294.º a 1296.º CC)
-- Reconhecimento pelos co-herdeiros: acordo escrito com posterior escritura de partilha
+- Usucapião: o herdeiro que usou o imóvel em exclusivo possui também em nome dos coerdeiros e só pode invocar usucapião (art. 1287.º e ss. CC) se tiver invertido o título da posse, contando-se o prazo desde a inversão (arts. 1265.º e 1290.º CC; cf. art. 1406.º, n.º 2, CC) [■ VERIFICAR: jurisprudência sobre a posse do coerdeiro]; os prazos vão de 5 a 20 anos, consoante haja registo e boa ou má fé — sem registo, 15 anos de boa fé ou 20 de má fé (arts. 1294.º a 1296.º CC)
+- Reconhecimento pelos coerdeiros: acordo escrito com posterior escritura de partilha
 - Situação fiscal: a obrigação de Imposto do Selo nasce na data da abertura da sucessão (art. 5.º, al. p), do Código do Imposto do Selo); a participação (Modelo 1) cabe ao cabeça-de-casal até ao final do 3.º mês seguinte (art. 26.º, n.os 1 e 3, do mesmo Código), mesmo havendo isenção (cônjuge ou unido de facto, descendentes e ascendentes — art. 6.º, al. e)); a falta de participação pode gerar coima e juros [■ VERIFICAR: coima do RGIT e juros compensatórios]
 
 ### ETAPA 3 — VIAS DE REGULARIZAÇÃO
@@ -55,7 +55,7 @@ Descreve em <vias_regularizacao>:
 4. **Justificação da usucapião**: escritura de justificação notarial ou processo de justificação no registo predial (art. 116.º do Código do Registo Predial), para o herdeiro que tenha invertido o título da posse e possuído durante o prazo legal (arts. 1287.º e 1290.º CC) [■ VERIFICAR: requisitos da justificação notarial no Código do Notariado]
 5. **Regularização fiscal**: declarar a transmissão gratuita às Finanças; pagar Imposto do Selo e eventuais coimas reduzidas
 
-### ETAPA 4 — REQUERIMENTO / CARTA AOS CO-HERDEIROS
+### ETAPA 4 — REQUERIMENTO / CARTA AOS COERDEIROS
 Redige em <documento_regularizacao>:
 
 Carta para propor a formalização da partilha de facto, com convite para outorga de escritura extrajudicial ou adesão ao processo de inventário notarial.

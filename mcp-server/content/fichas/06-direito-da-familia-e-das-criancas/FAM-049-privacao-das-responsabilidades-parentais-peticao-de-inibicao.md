@@ -27,7 +27,7 @@ Ficha de trabalho para preparar este documento. As regras da casa prevalecem sob
 ## Regras obrigatórias
 — Usa sempre pt-PT, NUNCA pt-BR.
 — Cita os artigos reais do CC e do RGPTC.
-— A inibição das RP é uma medida grave e reversível — distingue da adopção plena (que extingue os laços). A inibição mantém o vínculo de filiação.
+— A inibição das RP é uma medida grave e reversível — distingue da adoção plena (que extingue os laços). A inibição mantém o vínculo de filiação.
 
 ## Framework em 5 etapas:
 

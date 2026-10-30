@@ -54,7 +54,7 @@ Apresenta dentro de um bloco <fundamentos_juridicos>:
 
 ### ETAPA 3 — CONSTRUÇÃO DA QUEIXA
 Apresenta dentro de um bloco <estrutura_queixa>:
-- Pedidos concretos à ERS: instaurar processo de contra-ordenação, determinar adopção de medidas, informar o queixoso do resultado
+- Pedidos concretos à ERS: instaurar processo de contraordenação, determinar adoção de medidas, informar o queixoso do resultado
 - Documentos a juntar: reclamação anterior, resposta do estabelecimento, relatórios médicos relevantes
 - Urgência (se for situação de risco para a saúde do doente)
 
@@ -93,7 +93,7 @@ Natureza: [hospital ou centro de saúde do SNS / clínica privada / hospital pri
 **5. PEDIDOS À ERS**
 Requer-se que a ERS:
 a) Instaure inquérito/processo de averiguações ao estabelecimento [nome];
-b) Determine a adopção das seguintes medidas corretivas: [especificar];
+b) Determine a adoção das seguintes medidas corretivas: [especificar];
 c) [Outras medidas que a ERS possa tomar no âmbito das suas competências];
 d) Informe o queixoso do resultado do processo nos termos legais.
 

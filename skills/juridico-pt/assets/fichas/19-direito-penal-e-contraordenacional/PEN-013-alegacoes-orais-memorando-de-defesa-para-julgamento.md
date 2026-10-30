@@ -65,7 +65,7 @@ Define em <estrategia>:
 **ESTRUTURA DO MEMORANDO:**
 
 **I. INTRODUÇÃO — SÍNTESE DA DEFESA**
-[2-3 parágrafos a enquadrar a posição da defesa: o arguido nega os factos / actou em legítima defesa / a prova é insuficiente]
+[2-3 parágrafos a enquadrar a posição da defesa: o arguido nega os factos / atuou em legítima defesa / a prova é insuficiente]
 
 **II. ANÁLISE DA PROVA DA ACUSAÇÃO**
 

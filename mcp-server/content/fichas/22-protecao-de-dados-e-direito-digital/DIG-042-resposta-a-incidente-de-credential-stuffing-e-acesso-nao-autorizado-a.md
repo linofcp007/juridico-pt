@@ -6,7 +6,8 @@ titulo_en: "Response to a Credential Stuffing Incident and Unauthorised Account 
 descricao: "Guião jurídico e operacional para resposta a um ataque de credential stuffing (utilização de credenciais comprometidas de terceiros para acesso não autorizado a contas na plataforma), cobrindo a qualificação jurídica do incidente, a decisão de notificação à CNPD ao abrigo do artigo 33.º do RGPD, a comunicação aos utilizadores afetados, as medidas técnicas de contenção e as obrigações paralelas ao abrigo da NIS2 e da Lei do Cibercrime (Lei n.º 109/2009)."
 descricao_en: "Legal and operational guide for responding to a credential stuffing attack (use of compromised third-party credentials for unauthorised access to accounts on the platform), covering the legal characterisation of the incident, the decision whether to notify the CNPD under Article 33 of the GDPR, communication to affected users, technical containment measures and parallel obligations under NIS2 and the Cybercrime Law (Law No. 109/2009)."
 ambito: nacional
-estado_citacoes: "conferidas 5 · corrigidas 0 · por conferir 3"
+estado_citacoes: "conferidas 10 · corrigidas 0 · por conferir 10"
+revisao_tecnica: "2026-10-30 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
@@ -14,7 +15,8 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 
 > **Âmbito:** nacional · **Área:** Proteção de Dados e Direito Digital · **Código:** DIG-042
 > **EN:** Response to a Credential Stuffing Incident and Unauthorised Account Access. Legal and operational guide for responding to a credential stuffing attack (use of compromised third-party credentials for unauthorised access to accounts on the platform), covering the legal characterisation of the incident, the decision whether to notify the CNPD under Article 33 of the GDPR, communication to affected users, technical containment measures and parallel obligations under NIS2 and the Cybercrime Law (Law No. 109/2009).
-> **Citações:** conferidas 5 · corrigidas 0 · por conferir 3. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 10 · corrigidas 0 · por conferir 10. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-30 — corrigida (8 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
 Guião jurídico e operacional para resposta a um ataque de credential stuffing (utilização de credenciais comprometidas de terceiros para acesso não autorizado a contas na plataforma), cobrindo a qualificação jurídica do incidente, a decisão de notificação à CNPD ao abrigo do artigo 33.º do RGPD, a comunicação aos utilizadores afetados, as medidas técnicas de contenção e as obrigações paralelas ao abrigo da NIS2 e da Lei do Cibercrime (Lei n.º 109/2009).
 
@@ -39,19 +41,21 @@ Apresenta dentro de um bloco <contencao>:
 ### FASE 2 — QUALIFICAÇÃO JURÍDICA DO INCIDENTE
 Apresenta dentro de um bloco <qualificacao_juridica>:
 
-**RGPD — Violação de dados pessoais (art. 4.º, n.º 12):**
+**RGPD — Violação de dados pessoais (art. 4.º, n.º 12, RGPD):**
 - Tipo: violação de confidencialidade (acesso não autorizado por terceiro)
 - Confirma: há dados pessoais envolvidos? Que categorias?
 - Responsabilidade: o responsável pelo tratamento tem de notificar independentemente de culpa
 
 **Lei do Cibercrime (Lei n.º 109/2009):**
 - Crimes aplicáveis: acesso ilegítimo (art. 6.º), sabotagem informática (art. 5.º) — pelo atacante
-- Dever de apresentar queixa-crime contra desconhecidos (preserva prazos e permite investigação)
-- Entidade competente: Polícia Judiciária (Unidade Nacional de Combate ao Cibercrime — UNC3T)
+- Apresentar queixa-crime contra desconhecidos (recomendação, não dever legal da vítima): o acesso ilegítimo depende de queixa nas formas dos n.ºs 1 e 4 e na tentativa (art. 6.º, n.º 7, da Lei n.º 109/2009), e o direito de queixa extingue-se em 6 meses a contar do conhecimento do facto e dos seus autores (art. 115.º, n.º 1, CP); só as formas agravadas do n.º 5 são crime público
+- Entidade competente: Polícia Judiciária (Unidade Nacional de Combate ao Cibercrime e à Criminalidade Tecnológica — UNC3T) ou Ministério Público
 
-**NIS2 (se entidade abrangida):**
-- Incidente significativo? → alertar CNCS em 24 horas
-- Relatório completo em 1 mês
+**NIS2 — Regime Jurídico da Cibersegurança (anexo ao DL n.º 125/2025), se entidade abrangida:**
+- Incidente significativo? → notificação inicial à autoridade de cibersegurança competente (em regra, o CNCS), sem demora injustificada e até 24 horas após concluir que existe ou pode existir (art. 42.º, n.º 1, do regime)
+- Atualização até 72 horas, quando necessário (art. 42.º, n.º 3); notificação do fim do impacto significativo até 24 horas depois de este terminar (art. 43.º); se o incidente for resolvido nas 2 horas seguintes à deteção, basta esta última (art. 41.º, n.º 2)
+- Relatório final em 30 dias úteis a contar da notificação do fim do impacto (art. 44.º, n.º 1)
+- A notificação ao CNCS não dispensa a da CNPD nem as comunicações ao MP e à PJ (art. 40.º, n.º 5)
 
 ### FASE 3 — AVALIAÇÃO DE RISCO E DECISÃO DE NOTIFICAÇÃO
 Avalia o risco para titulares afetados:
@@ -61,7 +65,7 @@ Avalia o risco para titulares afetados:
 - Existência de MFA (reduz risco significativamente)
 
 Decisão:
-- **Notificação à CNPD (art. 33.º RGPD):** prazo 72h desde conhecimento — recomendada salvo risco improvável
+- **Notificação à CNPD (art. 33.º RGPD):** obrigatória, sem demora injustificada e, sempre que possível, até 72 horas após o conhecimento, salvo se a violação não for suscetível de resultar num risco para os direitos e liberdades dos titulares (art. 33.º, n.º 1, RGPD); se for feita depois das 72 horas, indica os motivos do atraso
 - **Comunicação aos titulares afetados (art. 34.º RGPD):** se risco elevado para direitos e liberdades
 
 ### FASE 4 — RASCUNHO DE COMUNICAÇÃO AOS UTILIZADORES
@@ -72,9 +76,11 @@ Redige comunicação clara, sem linguagem técnica:
 **Corpo:**
 Caro/a [Nome do utilizador],
 
-Informamos que identificámos tentativas de acesso não autorizado a contas da nossa plataforma no período de [datas]. As credenciais utilizadas nos ataques provêm de bases de dados comprometidas em serviços externos, não de uma falha nos nossos sistemas.
+Informamos que identificámos tentativas de acesso não autorizado a contas da nossa plataforma no período de [datas]. As credenciais utilizadas nos ataques provêm de bases de dados comprometidas em serviços externos, não de uma falha nos nossos sistemas [afirmar só se a análise forense o confirmar].
 
 A sua conta [foi / pode ter sido] acedida de forma não autorizada. Os dados potencialmente acedidos incluem: [listar especificamente].
+
+Consequências prováveis: [descrever, p. ex., risco de phishing, fraude ou utilização indevida da conta].
 
 Medidas já tomadas: [listar ações concretas]
 
@@ -103,7 +109,7 @@ Apresenta dentro de um bloco <registo_pos_incidente>:
 - Relatório de incidente para os órgãos de gestão
 - Revisão das medidas do art. 32.º RGPD à luz do incidente
 - Comunicação à seguradora (se apólice de cyber risk)
-- Prazo de conservação dos logs forenses: mínimo 1 ano (ou conforme instrução de investigação criminal)
+- Prazo de conservação dos logs forenses: não há prazo legal fixo para este fim; definir na política interna o prazo necessário à investigação, à defesa da organização e à documentação do art. 33.º, n.º 5 RGPD, respeitando a limitação da conservação (art. 5.º, n.º 1, al. e), RGPD), e conservar enquanto houver processo-crime ou ordem de preservação expedita de dados (art. 12.º da Lei n.º 109/2009)
 
 ---
 
@@ -126,11 +132,23 @@ Apresenta dentro de um bloco <registo_pos_incidente>:
 
 | Citação | Estado | Nota |
 |---|---|---|
-| art. 4.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 4.º, n.º 12, RGPD | conferida (epígrafe) — Definições |  |
+| art. 6.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 6.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 5.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 115.º, n.º 1, CP | conferida (epígrafe) — Extinção do direito de queixa |  |
+| art. 42.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 42.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 43.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 41.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 44.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 40.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 33.º RGPD | conferida (epígrafe) — Notificação de uma violação de dados pessoais à autoridade de controlo |  |
+| art. 33.º, n.º 1, RGPD | conferida (epígrafe) — Notificação de uma violação de dados pessoais à autoridade de controlo |  |
 | art. 34.º RGPD | conferida (epígrafe) — Comunicação de uma violação de dados pessoais ao titular dos dados |  |
 | art. 32.º RGPD | conferida (epígrafe) — Segurança do tratamento |  |
 | art. 32.º RGPD | conferida (epígrafe) — Segurança do tratamento |  |
 | art. 33.º, n.º 5 RGPD | conferida (epígrafe) — Notificação de uma violação de dados pessoais à autoridade de controlo |  |
+| art. 33.º, n.º 5 RGPD | conferida (epígrafe) — Notificação de uma violação de dados pessoais à autoridade de controlo |  |
+| art. 5.º, n.º 1, al. e), RGPD | conferida (epígrafe) — Princípios relativos ao tratamento de dados pessoais |  |
+| art. 12.º | por conferir [■ VERIFICAR] | diploma não identificado |

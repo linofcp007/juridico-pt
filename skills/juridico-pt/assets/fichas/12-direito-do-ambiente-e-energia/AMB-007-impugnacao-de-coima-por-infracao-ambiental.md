@@ -157,7 +157,7 @@ Apresenta em <checklist_validacao>:
 | art. 18.º RGCO | conferida (epígrafe) — Determinação da medida da coima |  |
 | art. 266.º n.º 2 CRP | conferida (epígrafe) — Princípios fundamentais |  |
 | Art. 18.º RGCO | conferida (epígrafe) — Determinação da medida da coima |  |
-| Art. 19.º RGCO | conferida (epígrafe) — Concurso de contra-ordenações |  |
+| Art. 19.º RGCO | conferida (epígrafe) — Concurso de contraordenações |  |
 | Art. 27.º RGCO | por conferir [■ VERIFICAR] | o art. 27.º RGCO trata da prescrição do procedimento; a prescrição da coima está no art. 29.º RGCO |
 | Art. 266.º n.º 2 CRP | conferida (epígrafe) — Princípios fundamentais |  |
 | Art. 266.º n.º 2 CRP | conferida (epígrafe) — Princípios fundamentais |  |

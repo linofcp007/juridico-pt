@@ -6,7 +6,8 @@ titulo_en: "Legal Opinion on the Application of a Directive between Private Part
 descricao: "Elabora um parecer jurídico que analisa em que medida uma diretiva da UE produz efeitos em relações jurídicas entre particulares (efeito direto horizontal), quais as alternativas quando o efeito direto horizontal é negado pela jurisprudência do TJUE (interpretação conforme, responsabilidade do Estado, princípios gerais do direito da UE com efeito horizontal) e qual a estratégia processual mais adequada."
 descricao_en: "Prepares a legal opinion analysing the extent to which an EU directive produces effects in legal relationships between private parties (horizontal direct effect), the alternatives where horizontal direct effect is denied by CJEU case law (consistent interpretation, State liability, general principles of EU law with horizontal effect) and the most appropriate litigation strategy."
 ambito: ue
-estado_citacoes: "conferidas 0 · corrigidas 0 · por conferir 1"
+estado_citacoes: "conferidas 0 · corrigidas 0 · por conferir 8"
+revisao_tecnica: "2026-10-30 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
@@ -14,7 +15,8 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 
 > **Âmbito:** UE · **Área:** Direito da União Europeia · **Código:** UE-021
 > **EN:** Legal Opinion on the Application of a Directive between Private Parties (Horizontal Effect). Prepares a legal opinion analysing the extent to which an EU directive produces effects in legal relationships between private parties (horizontal direct effect), the alternatives where horizontal direct effect is denied by CJEU case law (consistent interpretation, State liability, general principles of EU law with horizontal effect) and the most appropriate litigation strategy.
-> **Citações:** conferidas 0 · corrigidas 0 · por conferir 1. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 0 · corrigidas 0 · por conferir 8. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-30 — corrigida (2 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
 Elabora um parecer jurídico que analisa em que medida uma diretiva da UE produz efeitos em relações jurídicas entre particulares (efeito direto horizontal), quais as alternativas quando o efeito direto horizontal é negado pela jurisprudência do TJUE (interpretação conforme, responsabilidade do Estado, princípios gerais do direito da UE com efeito horizontal) e qual a estratégia processual mais adequada.
 
@@ -24,7 +26,7 @@ Ficha de trabalho para preparar este documento. As regras da casa prevalecem sob
 
 ## Regras obrigatórias
 — A regra geral do TJUE é que as diretivas NÃO produzem efeito direto horizontal entre particulares (Marshall [■ VERIFICAR]; Faccini Dori [■ VERIFICAR]).
-— Exceções e alternativas: (1) interpretação conforme (Von Colson; Marleasing [■ VERIFICAR]); (2) responsabilidade do Estado (Francovich [■ VERIFICAR]); (3) princípios gerais do direito da UE codificados em diretiva (Mangold [■ VERIFICAR]; Kücükdeveci [■ VERIFICAR]) — estes TÊM efeito horizontal.
+— Exceções e alternativas: (1) interpretação conforme (Von Colson; Marleasing [■ VERIFICAR]); (2) responsabilidade do Estado (Francovich [■ VERIFICAR]); (3) princípios gerais do direito da UE codificados em diretiva (Mangold [■ VERIFICAR]; Kücükdeveci [■ VERIFICAR]) — estes TÊM efeito horizontal; (4) disposições da Carta que bastam, por si sós, para conferir um direito invocável (art. 21.º, n.º 1, art. 31.º, n.º 2, e art. 47.º CDFUE — Egenberger, proc. C-414/16; Bauer e Willmeroth, proc. apensos C-569/16 e C-570/16), invocáveis entre particulares num domínio abrangido pelo direito da União.
 — A distinção entre "diretiva como tal" e "princípio geral codificado em diretiva" é fundamental — analisa sempre.
 — NUNCA inventes acórdãos; usa [■ VERIFICAR: curia.europa.eu].
 — Redige em português europeu formal.
@@ -56,7 +58,7 @@ Apresenta dentro de um bloco <fundamentos_juridicos>:
 **Princípios gerais do direito da UE com efeito horizontal:**
 - Mangold [■ VERIFICAR proc. C-144/04]: o princípio geral de não discriminação em razão da idade tem efeito horizontal, independentemente da Diretiva 2000/78
 - Kücükdeveci [■ VERIFICAR proc. C-555/07]: confirmação — princípios gerais codificados em diretiva têm efeito horizontal
-- Direitos da Carta: a Carta pode ter efeito horizontal quando o Estado está a aplicar direito da UE (art. 51.º CDFUE) — mas não cria efeito horizontal pleno entre particulares sem intermediação
+- Direitos da Carta: a Carta aplica-se aos Estados-Membros apenas quando apliquem o direito da União (art. 51.º, n.º 1, CDFUE). Nesse domínio, as disposições da Carta que bastam, por si sós, para conferir aos particulares um direito invocável enquanto tal podem ser invocadas num litígio entre particulares, se necessário afastando a norma nacional contrária: o art. 21.º, n.º 1, CDFUE (não discriminação) e o art. 47.º CDFUE (tutela jurisdicional efetiva) (Egenberger, proc. C-414/16, n.ºs 76 a 79 e 82) e o art. 31.º, n.º 2, CDFUE (férias anuais remuneradas), também contra empregador particular (Bauer e Willmeroth, proc. apensos C-569/16 e C-570/16). As disposições que têm de ser concretizadas pelo direito da União ou nacional não o permitem: o art. 27.º CDFUE não pode, enquanto tal, ser invocado num litígio entre particulares (AMS, proc. C-176/12, n.ºs 45 a 48)
 
 **Alternativas quando não há efeito horizontal:**
 1. Interpretação conforme: obrigação do tribunal nacional de interpretar o direito nacional de acordo com a diretiva (Von Colson; Marleasing) — limite: interpretação contra legem não é exigida
@@ -138,4 +140,11 @@ Apresenta dentro de um bloco <checklist_validacao>:
 
 | Citação | Estado | Nota |
 |---|---|---|
+| art. 21.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 21.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 31.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 31.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 47.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 47.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 51.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 27.º | por conferir [■ VERIFICAR] | diploma não identificado |

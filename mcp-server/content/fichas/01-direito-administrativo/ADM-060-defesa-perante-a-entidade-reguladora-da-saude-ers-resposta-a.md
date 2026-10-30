@@ -47,7 +47,7 @@ Apresenta em <fundamentos_juridicos>:
 - Enquadramento da infração nos tipos contraordenacionais dos Estatutos da ERS (art. 61.º, nomeadamente: violação de deveres para com os utentes, desrespeito de normas ou decisões da ERS, falta de registo, violação das regras de acesso, falta de informação ou de colaboração) e do DL n.º 127/2014 (art. 17.º, nomeadamente: funcionamento sem licença, informações incorretas ou incompletas, incumprimento dos requisitos de funcionamento) ou de outros diplomas regulatórios de saúde; o DL n.º 279/2009 foi revogado (art. 24.º, al. a), do DL n.º 127/2014) [■ VERIFICAR: redação em vigor do art. 17.º do DL n.º 127/2014]
 - Regime de audiência prévia (art. 50.º RGCO): prazo e conteúdo obrigatório
 - Princípio da proporcionalidade e critérios de graduação da coima (arts. 18.º e 19.º RGCO), a par das circunstâncias próprias do art. 63.º dos Estatutos da ERS (duração e impacto da infração, benefícios obtidos, grau de participação e gravidade da conduta, eliminação da prática e reparação dos prejuízos, situação económica, antecedentes e colaboração com a ERS)
-- Causas de exclusão da responsabilidade contra-ordenacional: erro, falta de culpa, causa de justificação
+- Causas de exclusão da responsabilidade contraordenacional: erro, falta de culpa, causa de justificação
 - Circunstâncias atenuantes: regularização voluntária, ausência de danos, colaboração com a ERS
 - Recurso da decisão que aplique coima ou sanção acessória: não há recurso hierárquico nem tutelar (a ERS não está sujeita a superintendência ou tutela governamental — art. 6.º, n.º 1, dos Estatutos da ERS); cabe recurso de impugnação judicial para o Tribunal da Concorrência, Regulação e Supervisão (art. 112.º, n.º 1, al. j), da Lei da Organização do Sistema Judiciário — Lei n.º 62/2013, de 26 de agosto; art. 67.º, n.º 3, dos Estatutos da ERS), que conhece com plena jurisdição e pode reduzir ou aumentar a coima ou alterar a sanção acessória. Regime do recurso (arts. 59.º e ss. RGCO): o recurso é feito por escrito, com alegações e conclusões, e apresentado à ERS no prazo de 20 dias após o conhecimento da decisão (art. 59.º, n.º 3, RGCO), prazo que se suspende aos sábados, domingos e feriados (art. 60.º RGCO)
 - Efeito do recurso: meramente devolutivo; ao interpor o recurso de decisão que aplique coima ou outra sanção, pode requerer-se o efeito suspensivo quando a execução cause prejuízo considerável, oferecendo caução em substituição, ficando esse efeito condicionado à prestação efetiva da caução no prazo fixado pelo tribunal (art. 67.º, n.º 5, dos Estatutos da ERS)
@@ -76,7 +76,7 @@ I — FACTOS IMPUTADOS E SUA APRECIAÇÃO
 [Análise crítica de cada facto imputado: confirmação, negação ou retificação dos factos, com prova documental]
 
 II — ENQUADRAMENTO JURÍDICO E CONTESTAÇÃO DA QUALIFICAÇÃO
-[Análise da qualificação contra-ordenacional e argumentos contra a sua verificação: inexistência de elemento objetivo ou subjetivo, causa de justificação]
+[Análise da qualificação contraordenacional e argumentos contra a sua verificação: inexistência de elemento objetivo ou subjetivo, causa de justificação]
 
 III — CIRCUNSTÂNCIAS ATENUANTES
 [Falta de antecedentes, colaboração com a ERS, regularização espontânea, ausência de danos, boa-fé]

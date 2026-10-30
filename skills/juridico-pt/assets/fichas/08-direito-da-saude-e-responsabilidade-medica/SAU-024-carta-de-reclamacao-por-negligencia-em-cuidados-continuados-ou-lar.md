@@ -92,7 +92,7 @@ Quarto/Unidade: _________________ | N.º de utente SNS/beneficiário: __________
 **IV. PEDIDOS**
 Requer-se, no prazo de 10 (dez) dias úteis:
 a) Explicações escritas sobre as circunstâncias dos factos descritos;
-b) Indicação das medidas corretivas já adoptadas ou a adoptar;
+b) Indicação das medidas corretivas já adotadas ou a adotar;
 c) Acesso ao processo clínico/social do utente;
 d) Reunião com a direção clínica e/ou administrativa.
 

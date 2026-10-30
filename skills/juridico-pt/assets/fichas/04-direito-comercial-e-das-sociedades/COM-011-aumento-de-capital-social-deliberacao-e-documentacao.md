@@ -6,7 +6,7 @@ titulo_en: "Share Capital Increase (Resolution and Documentation)"
 descricao: "Elabora a deliberação de aumento de capital social, a ata da assembleia geral, e os documentos complementares necessários (boletins de subscrição, declaração de realização), em conformidade com os artigos 85 a 93 do CSC (regras gerais), 201 e 202 (Lda.) e 456 e seguintes (S.A.)."
 descricao_en: "Drafts the resolution to increase share capital, the minutes of the general meeting and the necessary supporting documents (subscription forms, declaration of payment of contributions), in accordance with Articles 85 to 93 CSC (general rules), 201 and 202 (Lda.) and 456 et seq. (S.A.)."
 ambito: nacional
-estado_citacoes: "conferidas 29 · corrigidas 0 · por conferir 5"
+estado_citacoes: "conferidas 29 · corrigidas 0 · por conferir 9"
 revisao_tecnica: "2026-10-28 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
@@ -15,7 +15,7 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 
 > **Âmbito:** nacional · **Área:** Direito Comercial e das Sociedades · **Código:** COM-011
 > **EN:** Share Capital Increase (Resolution and Documentation). Drafts the resolution to increase share capital, the minutes of the general meeting and the necessary supporting documents (subscription forms, declaration of payment of contributions), in accordance with Articles 85 to 93 CSC (general rules), 201 and 202 (Lda.) and 456 et seq. (S.A.).
-> **Citações:** conferidas 29 · corrigidas 0 · por conferir 5. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 29 · corrigidas 0 · por conferir 9. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
 > **Revisão técnica:** 2026-10-28 — corrigida (9 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
 Elabora a deliberação de aumento de capital social, a ata da assembleia geral, e os documentos complementares necessários (boletins de subscrição, declaração de realização), em conformidade com os artigos 85 a 93 do CSC (regras gerais), 201 e 202 (Lda.) e 456 e seguintes (S.A.).
@@ -44,7 +44,7 @@ Analise em <analise_do_caso>:
   d) Conversão de créditos/suprimentos — compensação de crédito com emissão de novas participações; na conversão de suprimentos basta, para verificação da entrada, declaração do contabilista certificado ou do ROC, quando a revisão de contas seja legalmente exigida (art. 89.º, n.º 4, CSC); nas Lda., o sócio que reúna a maioria necessária para alterar o contrato pode comunicar à gerência o aumento por conversão de suprimentos registados no último balanço aprovado, cuja eficácia depende da não oposição escrita dos restantes sócios no prazo de 10 dias (art. 87.º, n.ºs 4 e 5, CSC)
 - Quem subscreve: sócios existentes ou terceiros novos?
 - Direito de preferência dos sócios existentes: foi respeitado ou excluído com fundamento (art. 460 CSC)?
-- Impacto na estrutura accionista: diluição?
+- Impacto na estrutura acionista: diluição?
 - Maioria: o aumento é uma alteração do contrato — três quartos dos votos correspondentes ao capital social nas Lda. (art. 265.º, n.º 1, CSC) e dois terços dos votos emitidos nas S.A. (art. 386.º, n.ºs 3 e 4, CSC); nas S.A., o contrato pode autorizar o órgão de administração a aumentar o capital por entradas em dinheiro, até ao limite e no prazo nele fixados (art. 456.º CSC)
 
 ### ETAPA 2 — ANÁLISE JURÍDICA
@@ -83,13 +83,13 @@ O gerente/presidente apresentou proposta de aumento do capital social de €[val
 [Descrição da modalidade — ex.: subscrição de [N] novas quotas/ações em dinheiro por [subscritor]]
 
 Direito de preferência:
-Os sócios/accionistas existentes foram notificados do exercício do direito de preferência em [data]. [Nome(s) dos sócios que exerceram] declarou(aram) exercer o direito de preferência no montante de €[X]. [Nome(s)] renunciou(aram) ao seu direito, ficando as restantes novas participações disponíveis para subscrição por [terceiro/sócio] ("Novo Subscritor"). [■ VERIFICAR: se exclusão total do direito de preferência — fundamentar nos termos do art. 460 CSC]
+Os sócios/acionistas existentes foram notificados do exercício do direito de preferência em [data]. [Nome(s) dos sócios que exerceram] declarou(aram) exercer o direito de preferência no montante de €[X]. [Nome(s)] renunciou(aram) ao seu direito, ficando as restantes novas participações disponíveis para subscrição por [terceiro/sócio] ("Novo Subscritor"). [■ VERIFICAR: se exclusão total do direito de preferência — fundamentar nos termos do art. 460 CSC]
 
 Submetida à votação, a proposta foi aprovada por [unanimidade / maioria de X/4 dos votos].
 
 Deliberação: aumento do capital social de €[valor atual] para €[novo valor], mediante emissão de [N] novas [quotas/ações] com valor nominal de €[X] cada, a subscrever por [nome(s)] pelo montante total de €[valor], realizado [em dinheiro / por incorporação de reservas / por conversão do crédito de suprimentos de [montante] detido por [nome] — VERIFICAR].
 
-Nova estrutura accionista após o aumento:
+Nova estrutura acionista após o aumento:
 - [Sócio A]: €[X] — [Y]%
 - [Sócio B]: €[X] — [Y]%
 - [Novo Subscritor]: €[X] — [Y]%
@@ -154,6 +154,7 @@ Apresente em <checklist_validacao>:
 
 | Citação | Estado | Nota |
 |---|---|---|
+| art. 458 CSC | por conferir [■ VERIFICAR] | o assunto descrito não coincide com a epígrafe; confirmar |
 | art. 89.º, n.º 1, CSC | conferida (epígrafe) — Entradas e aquisição de bens |  |
 | art. 89.º, n.º 1, CSC | conferida (epígrafe) — Entradas e aquisição de bens |  |
 | art. 277.º, n.º 2, CSC | conferida (epígrafe) — Entradas |  |
@@ -163,6 +164,8 @@ Apresente em <checklist_validacao>:
 | art. 28.º CSC | conferida (epígrafe) — Verificação das entradas em espécie |  |
 | art. 89.º, n.º 4, CSC | conferida (epígrafe) — Entradas e aquisição de bens |  |
 | art. 87.º, n.ºs 4 e 5, CSC | conferida (epígrafe) — Requisitos da deliberação ou decisão |  |
+| art. 460 CSC | por conferir [■ VERIFICAR] | o assunto descrito não coincide com a epígrafe; confirmar |
+| art. 460 CSC | por conferir [■ VERIFICAR] | o assunto descrito não coincide com a epígrafe; confirmar |
 | art. 265.º, n.º 1, CSC | conferida (epígrafe) — Maioria necessária |  |
 | art. 386.º, n.ºs 3 e 4, CSC | conferida (epígrafe) — Maioria |  |
 | art. 456.º CSC | conferida (epígrafe) — Aumento do capital deliberado pelo órgão de administração |  |
@@ -184,6 +187,7 @@ Apresente em <checklist_validacao>:
 | Art. 3.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 15.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 15.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 89 CSC | por conferir [■ VERIFICAR] | o assunto descrito não coincide com a epígrafe; confirmar |
 | art. 88.º, n.º 2, CSC | conferida (epígrafe) — Eficácia interna do aumento de capital |  |
 | art. 88.º, n.º 2, CSC | conferida (epígrafe) — Eficácia interna do aumento de capital |  |
 | arts. 202.º e 203.º CSC | conferida (epígrafe) — Entradas |  |

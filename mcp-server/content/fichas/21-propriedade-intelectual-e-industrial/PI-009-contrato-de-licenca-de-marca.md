@@ -6,7 +6,8 @@ titulo_en: "Trade Mark Licence Agreement"
 descricao: "Redige o contrato de licença de uso de marca, definindo o âmbito da autorização concedida pelo titular ao licenciado, as condições de controlo de qualidade, a remuneração devida e os meios de proteção do sinal licenciado, ao abrigo do Código da Propriedade Industrial português."
 descricao_en: "Drafts the trade mark licence agreement, defining the scope of the authorisation granted by the owner to the licensee, the quality control conditions, the remuneration due and the means of protecting the licensed sign, under the Portuguese Industrial Property Code."
 ambito: nacional
-estado_citacoes: "conferidas 0 · corrigidas 7 · por conferir 6"
+estado_citacoes: "conferidas 19 · corrigidas 6 · por conferir 2"
+revisao_tecnica: "2026-10-30 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
@@ -14,7 +15,8 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 
 > **Âmbito:** nacional · **Área:** Propriedade Intelectual e Industrial · **Código:** PI-009
 > **EN:** Trade Mark Licence Agreement. Drafts the trade mark licence agreement, defining the scope of the authorisation granted by the owner to the licensee, the quality control conditions, the remuneration due and the means of protecting the licensed sign, under the Portuguese Industrial Property Code.
-> **Citações:** conferidas 0 · corrigidas 7 · por conferir 6. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 19 · corrigidas 6 · por conferir 2. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-30 — corrigida (12 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
 Redige o contrato de licença de uso de marca, definindo o âmbito da autorização concedida pelo titular ao licenciado, as condições de controlo de qualidade, a remuneração devida e os meios de proteção do sinal licenciado, ao abrigo do Código da Propriedade Industrial português.
 
@@ -25,8 +27,8 @@ Ficha de trabalho para preparar este documento. As regras da casa prevalecem sob
 ## Regras obrigatórias
 - NUNCA inventes legislação ou disposições legais inexistentes
 - Se faltarem dados, assinala [■ VERIFICAR: o que é necessário]
-- Distingue licença exclusiva (só o licenciado pode usar), licença não exclusiva (licenciante pode conceder outras) e licença exclusiva em território (exclusividade geográfica)
-- Inclui sempre cláusula de controlo de qualidade (art. 261.º CPI [■ VERIFICAR: o art. 261.º CPI trata da preclusão por tolerância; as licenças estão no art. 258.º e a caducidade no art. 268.º CPI]) — a sua ausência pode levar à caducidade da marca por uso enganoso
+- Distingue licença exclusiva (o titular renuncia a conceder outras licenças enquanto ela vigorar, mas pode continuar a explorar diretamente a marca, salvo estipulação em contrário — art. 31.º, n.os 6 e 7, CPI), licença não exclusiva (o licenciante pode conceder outras; é a que se presume — art. 31.º, n.º 5, CPI) e licença exclusiva em território (exclusividade geográfica); se só o licenciado deve usar a marca, estipula-o expressamente
+- Inclui sempre cláusula de controlo de qualidade: o CPI não a impõe, mas permite ao titular invocar a marca contra o licenciado que viole as condições de qualidade do contrato (art. 258.º, n.º 1, CPI), e o registo caduca se, no seguimento do uso consentido, a marca se tornar suscetível de induzir o público em erro sobre a natureza, a qualidade ou a origem geográfica dos produtos ou serviços (art. 268.º, n.º 2, alínea b), CPI)
 - Distingue licença de marca com registo no INPI (oponível a terceiros) de licença sem registo (apenas eficaz entre partes)
 
 ## Framework P.A.C.E.F — Segue estas 5 etapas obrigatoriamente:
@@ -43,11 +45,11 @@ Apresenta dentro de um bloco <analise_do_caso>:
 
 ### ETAPA 2 — ANÁLISE JURÍDICA (Fundamentação)
 Apresenta dentro de um bloco <fundamentos_juridicos>:
-- Art. 258.º CPI: licença de marca — forma e conteúdo
+- Art. 31.º, n.os 1 a 4, CPI: licença de exploração — âmbito, forma escrita e faculdades do licenciado; art. 258.º, n.º 1, CPI: direitos do titular contra o licenciado que viole o contrato (prazo, identidade da marca, produtos ou serviços, território, qualidade)
 - Art. 31.º CPI: licença exclusiva vs. não exclusiva
 - Art. 31.º CPI: sublicença
 - Art. 29.º CPI: registo da licença — efeitos perante terceiros
-- Art. 265.º CPI [■ VERIFICAR: o art. 265.º CPI trata dos efeitos da nulidade; confirmar a legitimidade do licenciado nos arts. 31.º e 338.º CPI]: legitimidade do licenciado para intentar ações judiciais
+- Art. 258.º, n.os 2 a 4, CPI: legitimidade do licenciado para intentar ações judiciais (só com o consentimento do titular, salvo estipulação em contrário; o licenciado exclusivo pode agir se o titular, notificado, não instaurar a ação em prazo não superior a seis meses; qualquer licenciado pode intervir na ação) e art. 338.º CPI (medidas e procedimentos cautelares, salvo estipulação em contrário)
 - Art. 268.º CPI: caducidade da marca por uso enganoso (risco se o controlo de qualidade falhar)
 - Código Civil: arts. 405.º (liberdade contratual), 406.º (pontualidade), 798.º e ss. (incumprimento)
 - [■ VERIFICAR: disposições fiscais sobre royalties — retenção na fonte e IVA]
@@ -57,7 +59,7 @@ Define em <estrategia>:
 - Tipo de exclusividade mais adequado ao negócio do cliente
 - Estrutura de royalties: base de cálculo, percentagem, mínimos garantidos, auditoria
 - Mecanismo de controlo de qualidade: standards mínimos, aprovação de materiais, visitas de inspeção
-- Causas de resolução: incumprimento, insolvência do licenciado, uso indevido da marca
+- Causas de resolução: incumprimento, uso indevido da marca e situações do licenciado anteriores à declaração de insolvência (é nula a cláusula que atribua à declaração de insolvência efeito resolutivo — art. 119.º, n.os 2 e 3, CIRE)
 - Proteção do licenciante em caso de cessação: stock em curso, transitório de uso
 
 ### ETAPA 4 — EXPOSIÇÃO ESTRUTURADA (Contrato)
@@ -81,7 +83,7 @@ a) Produtos/serviços: [lista específica]
 b) Território: [Portugal / União Europeia / [território específico]]
 c) Duração: [X anos / vigência do registo da marca]
 2.2. O Licenciado fica autorizado a usar a Marca em: [materiais de marketing, embalagens, sítio web, redes sociais, ponto de venda — especificar].
-2.3. [Se exclusiva]: O Licenciante compromete-se a não conceder outras licenças no território e para os produtos/serviços referidos na al. a), durante a vigência do Contrato.
+2.3. [Se exclusiva]: O Licenciante compromete-se a não conceder outras licenças no território e para os produtos/serviços referidos na al. a), durante a vigência do Contrato. [Se o Licenciante também não puder usar a Marca: «e a não a explorar diretamente», pois, salvo estipulação em contrário, a licença exclusiva não o impede (art. 31.º, n.º 7, CPI).]
 
 **CLÁUSULA 3.ª — SUBLICENÇA**
 É expressamente [proibida / permitida com consentimento escrito prévio do Licenciante] a concessão de sublicenças pelo Licenciado.
@@ -101,13 +103,13 @@ b) Com um mínimo garantido anual de € [valor], independentemente do volume de
 
 **CLÁUSULA 6.ª — PROTEÇÃO DA MARCA**
 6.1. O Licenciado notificará imediatamente o Licenciante de qualquer uso ou registo indevido da Marca por terceiros de que tome conhecimento.
-6.2. O Licenciante tem o direito exclusivo (ou partilhado, se a licença for exclusiva — art. 265.º CPI [■ VERIFICAR: o art. 265.º CPI trata dos efeitos da nulidade; confirmar a legitimidade do licenciado nos arts. 31.º e 338.º CPI]) de instaurar ações judiciais por violação da Marca.
-6.3. [Se licença exclusiva]: O Licenciado poderá instaurar ação judicial se o Licenciante, notificado, não o fizer no prazo de [X] meses.
+6.2. Salvo estipulação em contrário, o Licenciado só pode instaurar ações judiciais por violação da Marca com o consentimento do Licenciante (art. 258.º, n.º 2, CPI), podendo sempre intervir na ação para obter a reparação do seu prejuízo (art. 258.º, n.º 4, CPI).
+6.3. [Se licença exclusiva]: O Licenciado poderá instaurar ação judicial se o Licenciante, notificado, não o fizer no prazo de [X] meses, não superior a seis (art. 258.º, n.º 3, CPI).
 
 **CLÁUSULA 7.ª — VIGÊNCIA E CESSAÇÃO**
 7.1. O Contrato entra em vigor na data da sua assinatura e vigora por [X anos / tempo indeterminado].
 7.2. Cada parte pode resolver o Contrato por incumprimento grave da outra, mediante carta registada com pré-aviso de [X] dias, caso o incumprimento não seja sanado no prazo de [Y] dias após notificação.
-7.3. Em caso de insolvência do Licenciado, o Contrato resolve-se automaticamente.
+7.3. O Licenciante pode resolver o Contrato se o Licenciado [se apresentar à insolvência / suspender generalizadamente os pagamentos / [outra situação anterior à declaração de insolvência]]. [Nota de redação: é nula a cláusula que atribua à declaração de insolvência o valor de condição resolutiva ou dê, nesse caso, à outra parte direito de resolução em termos diversos dos do CIRE (art. 119.º, n.º 2, CIRE); esse efeito só pode ser ligado a situações anteriores à declaração (art. 119.º, n.º 3, CIRE). Declarada a insolvência, o cumprimento fica suspenso até o administrador da insolvência optar pela execução ou pela recusa (art. 102.º CIRE). [■ VERIFICAR: que a situação escolhida é anterior à declaração de insolvência e a jurisprudência sobre o alcance do n.º 3]]
 7.4. Após a cessação, o Licenciado dispõe de [X] meses para escoar stocks de produtos já produzidos com a Marca.
 
 **CLÁUSULA 8.ª — REGISTO DA LICENÇA**
@@ -131,10 +133,10 @@ Apresenta dentro de um bloco <checklist_validacao>:
 - [ ] Sublicença expressamente tratada (autorizada ou proibida)
 - [ ] Estrutura de royalties e pagamentos definida
 - [ ] Direito de auditoria do licenciante incluído
-- [ ] Cláusula de controlo de qualidade robusta (obrigatória — art. 261.º CPI [■ VERIFICAR: o art. 261.º CPI trata da preclusão por tolerância; o CPI não impõe expressamente o controlo de qualidade])
-- [ ] Causas de resolução definidas (incumprimento, insolvência)
+- [ ] Cláusula de controlo de qualidade robusta (não imposta pelo CPI, mas recomendável — art. 258.º, n.º 1, e art. 268.º, n.º 2, alínea b), CPI)
+- [ ] Causas de resolução definidas (incumprimento; quanto à insolvência, só situações anteriores à declaração — art. 119.º, n.os 2 e 3, CIRE)
 - [ ] Registo no INPI considerado (art. 29.º CPI)
-- [ ] Direitos do licenciado em ações judiciais (art. 265.º CPI [■ VERIFICAR: o art. 265.º CPI trata dos efeitos da nulidade; confirmar a legitimidade do licenciado nos arts. 31.º e 338.º CPI] — se exclusiva)
+- [ ] Direitos do licenciado em ações judiciais (art. 258.º, n.os 2 a 4, CPI; ação própria do licenciado exclusivo no n.º 3)
 - [ ] Pontos que exigem atenção especial: [liste]
 
 ---
@@ -188,16 +190,30 @@ Contrato de licença de marca completo, equilibrado e conforme com o CPI, com to
 
 | Citação | Estado | Nota |
 |---|---|---|
-| art. 261.º CPI | por conferir [■ VERIFICAR] | o art. 261.º CPI trata da preclusão por tolerância; as licenças estão no art. 258.º e a caducidade no art. 268.º CPI |
-| art. 261.º CPI | por conferir [■ VERIFICAR] | o art. 261.º CPI trata da preclusão por tolerância; o CPI não impõe expressamente o controlo de qualidade |
-| Art. 258.º CPI | corrigida — Licenças | o número citado no catálogo não correspondia à epígrafe |
+| art. 31.º, n.os 6 e 7, CPI | conferida (epígrafe) — Licenças contratuais |  |
+| art. 31.º, n.º 5, CPI | conferida (epígrafe) — Licenças contratuais |  |
+| art. 258.º, n.º 1, CPI | conferida (epígrafe) — Licenças |  |
+| art. 258.º, n.º 1, CPI | conferida (epígrafe) — Licenças |  |
+| art. 258.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 268.º, n.º 2, alínea b), CPI | conferida (epígrafe) — Caducidade |  |
+| art. 268.º, n.º 2, alínea b), CPI | conferida (epígrafe) — Caducidade |  |
+| Art. 31.º, n.os 1 a 4, CPI | conferida (epígrafe) — Licenças contratuais |  |
 | Art. 31.º CPI | corrigida — Licenças contratuais | o número citado no catálogo não correspondia à epígrafe |
 | Art. 31.º CPI | corrigida — Licenças contratuais | o número citado no catálogo não correspondia à epígrafe |
 | Art. 29.º CPI | corrigida — Averbamentos | o número citado no catálogo não correspondia à epígrafe |
-| Art. 265.º CPI | por conferir [■ VERIFICAR] | o art. 265.º CPI trata dos efeitos da nulidade; confirmar a legitimidade do licenciado nos arts. 31.º e 338.º CPI |
-| art. 265.º CPI | por conferir [■ VERIFICAR] | o art. 265.º CPI trata dos efeitos da nulidade; confirmar a legitimidade do licenciado nos arts. 31.º e 338.º CPI |
-| art. 265.º CPI | por conferir [■ VERIFICAR] | o art. 265.º CPI trata dos efeitos da nulidade; confirmar a legitimidade do licenciado nos arts. 31.º e 338.º CPI |
+| Art. 258.º, n.os 2 a 4, CPI | conferida (epígrafe) — Licenças |  |
+| art. 338.º CPI | conferida (epígrafe) — Legitimidade |  |
 | Art. 268.º CPI | corrigida — Caducidade | o número citado no catálogo não correspondia à epígrafe |
 | arts. 405.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 119.º, n.os 2 e 3, CIRE | conferida (epígrafe) — Normas imperativas |  |
+| art. 119.º, n.os 2 e 3, CIRE | conferida (epígrafe) — Normas imperativas |  |
+| art. 31.º, n.º 7, CPI | conferida (epígrafe) — Licenças contratuais |  |
+| art. 258.º, n.º 2, CPI | conferida (epígrafe) — Licenças |  |
+| art. 258.º, n.º 4, CPI | conferida (epígrafe) — Licenças |  |
+| art. 258.º, n.º 3, CPI | conferida (epígrafe) — Licenças |  |
+| art. 119.º, n.º 2, CIRE | conferida (epígrafe) — Normas imperativas |  |
+| art. 119.º, n.º 3, CIRE | conferida (epígrafe) — Normas imperativas |  |
+| art. 102.º CIRE | conferida (índice) |  |
 | art. 29.º do CPI | corrigida — Averbamentos | o número citado no catálogo não correspondia à epígrafe |
 | art. 29.º CPI | corrigida — Averbamentos | o número citado no catálogo não correspondia à epígrafe |
+| art. 258.º, n.os 2 a 4, CPI | conferida (epígrafe) — Licenças |  |

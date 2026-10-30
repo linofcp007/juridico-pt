@@ -6,7 +6,8 @@ titulo_en: "Content Removal Notice (Notice and Takedown to a Platform)"
 descricao: "Elabora uma notificação formal de retirada de conteúdo (notice and takedown) dirigida a plataformas digitais (YouTube, Instagram, Meta, Amazon, Etsy, marketplaces, alojamento web, etc.), para remoção de conteúdo que viola direitos de autor, marca registada ou outros direitos de propriedade intelectual, ao abrigo da lei portuguesa, da Diretiva 2001/29/CE e do Regulamento (UE) 2022/2065 (DSA)."
 descricao_en: "Prepares a formal content removal notice (notice and takedown) addressed to digital platforms (YouTube, Instagram, Meta, Amazon, Etsy, marketplaces, web hosting, etc.) for the removal of content infringing copyright, a registered trade mark or other intellectual property rights, under Portuguese law, Directive 2001/29/EC and Regulation (EU) 2022/2065 (DSA)."
 ambito: nacional
-estado_citacoes: "conferidas 2 · corrigidas 3 · por conferir 2"
+estado_citacoes: "conferidas 4 · corrigidas 3 · por conferir 14"
+revisao_tecnica: "2026-10-30 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
@@ -14,7 +15,8 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 
 > **Âmbito:** nacional · **Área:** Propriedade Intelectual e Industrial · **Código:** PI-027
 > **EN:** Content Removal Notice (Notice and Takedown to a Platform). Prepares a formal content removal notice (notice and takedown) addressed to digital platforms (YouTube, Instagram, Meta, Amazon, Etsy, marketplaces, web hosting, etc.) for the removal of content infringing copyright, a registered trade mark or other intellectual property rights, under Portuguese law, Directive 2001/29/EC and Regulation (EU) 2022/2065 (DSA).
-> **Citações:** conferidas 2 · corrigidas 3 · por conferir 2. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 4 · corrigidas 3 · por conferir 14. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-30 — corrigida (7 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
 Elabora uma notificação formal de retirada de conteúdo (notice and takedown) dirigida a plataformas digitais (YouTube, Instagram, Meta, Amazon, Etsy, marketplaces, alojamento web, etc.), para remoção de conteúdo que viola direitos de autor, marca registada ou outros direitos de propriedade intelectual, ao abrigo da lei portuguesa, da Diretiva 2001/29/CE e do Regulamento (UE) 2022/2065 (DSA).
 
@@ -27,7 +29,7 @@ Ficha de trabalho para preparar este documento. As regras da casa prevalecem sob
 - Se faltarem dados, assinala [■ VERIFICAR: o que é necessário]
 - A notificação deve ser factualmente precisa — alegações falsas podem gerar responsabilidade civil (contranotificação, danos)
 - Inclui declaração de boa-fé e declaração de veracidade, exigidas pelos procedimentos DMCA/DSA
-- Quando a plataforma é americana, adapta a notificação ao DMCA (17 U.S.C. § 512); quando europeia, aplica o DSA
+- O DSA (Regulamento (UE) 2022/2065) aplica-se a todos os serviços intermediários oferecidos a destinatários estabelecidos ou localizados na União, independentemente do local de estabelecimento do prestador (art. 2.º, n.º 1); para conteúdo acessível em Portugal, a notificação ao abrigo do art. 16.º do DSA vale também perante plataformas americanas (YouTube, Meta, Amazon). A notificação DMCA (17 U.S.C. § 512(c)(3)), que só abrange direitos de autor, é complementar: usa-se quando a plataforma americana a exige no seu formulário ou se pretende a remoção à luz do direito norte-americano
 
 ## Framework P.A.C.E.F — Segue estas 5 etapas obrigatoriamente:
 
@@ -37,16 +39,16 @@ Apresenta dentro de um bloco <analise_do_caso>:
 - Titularidade dos direitos: autor original, empresa cessionária, licenciado exclusivo
 - Plataforma visada: YouTube, Instagram/Meta, Amazon, marketplace nacional, alojamento web, outra
 - Número de URLs afetados e natureza do conteúdo infrator
-- Regime aplicável: DMCA (plataformas americanas), DSA (plataformas europeias) ou lei nacional
-- Risco de contranotiificação: o infrator pode contestar a remoção
+- Regime aplicável: DSA (art. 16.º — qualquer prestador de alojamento virtual que ofereça o serviço na União, seja qual for a sua sede) e lei nacional (CDADC/CPI); DMCA como via complementar, só para direitos de autor, quando a plataforma é americana
+- Risco de contestação: o autor do conteúdo removido recebe a exposição de motivos da decisão (art. 17.º DSA) e pode reclamar no sistema interno de gestão de reclamações da plataforma em linha (art. 20.º DSA); no DMCA, pode apresentar contranotificação (17 U.S.C. § 512(g))
 
 ### ETAPA 2 — ANÁLISE JURÍDICA (Fundamentação)
 Apresenta dentro de um bloco <fundamentos_juridicos>:
 - Arts. 67.º e ss. CDADC: direitos patrimoniais do autor (reprodução, distribuição, comunicação ao público)
 - Art. 203.º CDADC: responsabilidade civil por violação de direitos de autor
-- Regulamento (UE) 2022/2065 (DSA): arts. 16.º e 17.º — mecanismos de notificação e ação
+- Regulamento (UE) 2022/2065 (DSA): art. 16.º — mecanismos de notificação e ação (elementos da notificação no n.º 2: explicação fundamentada da ilicitude, URL exatos, nome e endereço de correio eletrónico, declaração de boa-fé; a notificação suficientemente fundamentada gera conhecimento efetivo para efeitos do art. 6.º — n.º 3); art. 17.º — exposição de motivos da decisão ao destinatário afetado; art. 20.º — sistema interno de gestão de reclamações das plataformas em linha, aberto também a quem notificou
 - [Se violação de marca]: arts. 249.º e ss. CPI — direitos do titular de marca registada
-- [Se plataforma americana]: DMCA — 17 U.S.C. § 512(c) — safe harbor e notice and takedown
+- [Se plataforma americana, como via complementar e só para direitos de autor]: DMCA — 17 U.S.C. § 512(c) — safe harbor e notice and takedown (elementos da notificação no § 512(c)(3)(A))
 - [■ VERIFICAR: condições específicas da plataforma visada para aceitação de notificações]
 
 ### ETAPA 3 — CONSTRUÇÃO ARGUMENTATIVA
@@ -55,7 +57,7 @@ Define em <estrategia>:
 - Idioma: português para plataformas nacionais/europeias; inglês para plataformas americanas ou internacionais
 - Urgência: conteúdo publicitado em data especial / concorrência direta / dano reputacional imediato
 - Prova de titularidade a anexar: registo, contrato de cessão, data de publicação original, metadados
-- Alternativa de escalonamento: notificação judicial, injunção, reclamação à IGAC ou à ACT
+- Alternativa de escalonamento: reclamação no sistema interno da plataforma (art. 20.º DSA); providência cautelar, que pode ser decretada também contra o intermediário cujos serviços são usados para a violação (art. 210.º-G, n.º 3, CDADC; art. 345.º, n.º 3, CPI); notificação judicial avulsa; comunicação à IGAC (fiscalização do direito de autor e dos direitos conexos); reclamação ao Coordenador dos Serviços Digitais — a ANACOM — se a plataforma não cumprir o DSA (art. 53.º DSA; arts. 5.º, n.º 1, e 11.º da Lei n.º 12-A/2026, de 15 de abril)
 
 ### ETAPA 4 — EXPOSIÇÃO ESTRUTURADA (Notificação)
 Redige a notificação:
@@ -108,7 +110,7 @@ Solicita-se que a plataforma [nome] proceda à remoção imediata do conteúdo i
 
 **[VERSÃO INGLESA — para plataformas internacionais]**
 
-**DMCA / IP Infringement Notice**
+**IP Infringement Notice (Article 16 DSA; DMCA — 17 U.S.C. § 512(c)(3) — for copyright only)**
 
 To: [Platform name] Trust & Safety / Copyright Team
 
@@ -171,8 +173,8 @@ Apresenta dentro de um bloco <checklist_validacao>:
 - Descrição da violação: [o que está publicado que viola os direitos]
 
 **REGIME APLICÁVEL:**
-- DSA (plataforma europeia): [sim/não]
-- DMCA (plataforma americana): [sim/não]
+- DSA (art. 16.º — aplica-se a qualquer plataforma que ofereça o serviço na UE, seja qual for a sua sede): [sim/não]
+- DMCA (complementar; plataforma americana e só direitos de autor): [sim/não]
 
 **IDIOMA:**
 - Notificação em português: [sim/não]
@@ -190,10 +192,24 @@ Notificação de retirada de conteúdo completa (versão portuguesa e/ou inglesa
 
 | Citação | Estado | Nota |
 |---|---|---|
+| art. 2.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 16.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 16.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 16.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 16.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 16.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 17.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 17.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 20.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 20.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 20.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | Arts. 67.º e ss. CDADC | conferida (epígrafe) — Fruição e utilização |  |
 | Art. 203.º CDADC | corrigida — Responsabilidade civil | o número citado no catálogo não correspondia à epígrafe |
-| arts. 16.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 6.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | arts. 249.º e ss. CPI | corrigida — Direitos conferidos pelo registo | o número citado no catálogo não correspondia à epígrafe |
+| art. 210.º-G, n.º 3, CDADC | conferida (epígrafe) — Providências cautelares |  |
+| art. 345.º, n.º 3, CPI | conferida (epígrafe) — Providências cautelares |  |
+| art. 53.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| arts. 5.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | arts. 67.º e ss. do Código do Direito de Autor e dos Direitos Conexos | conferida (epígrafe) — Fruição e utilização |  |
 | arts. 249.º e ss. do Código da Propriedade Industrial | corrigida — Direitos conferidos pelo registo | o número citado no catálogo não correspondia à epígrafe |
-| art. 16.º | por conferir [■ VERIFICAR] | diploma não identificado |

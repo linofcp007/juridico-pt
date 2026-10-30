@@ -103,7 +103,7 @@ n.º ___ e domicílio profissional em [morada], de entre os registados na lista 
 **8. DO PEDIDO**
 "Nestes termos, requer a V. Exa.:
 1.º Que seja recebido o presente requerimento executivo;
-2.º Que se proceda, pelo agente de execução, à penhora dos bens supra-identificados;
+2.º Que se proceda, pelo agente de execução, à penhora dos bens supraidentificados;
 3.º Que seja citado o Executado para, querendo, deduzir oposição nos
    termos dos arts. 728.º e ss. do CPC."
 [Na forma sumária (art. 550.º, n.º 2, CPC), o requerimento segue para o agente de execução sem despacho liminar e a penhora é feita antes da citação (art. 855.º, n.os 1 e 3, CPC); na forma ordinária, há despacho liminar e citação do executado (art. 726.º CPC), salvo dispensa de citação prévia (art. 727.º CPC).]

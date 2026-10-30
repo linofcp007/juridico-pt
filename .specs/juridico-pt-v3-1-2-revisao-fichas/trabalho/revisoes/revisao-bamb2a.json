@@ -1,0 +1,257 @@
+[
+  {
+    "codigo": "AMB-034",
+    "veredicto": "corrigida",
+    "resumo": "O critério de sujeição à CSRD (mais de 250 trabalhadores ou cotada) estava desatualizado: depois da Diretiva (UE) 2026/470, só ficam abrangidas as empresas com volume de negócios líquido superior a 450 M€ e mais de 1000 empregados, em média (cumulativos), com transposição até 19/3/2027. O art. 1157.º CC é a noção de mandato, não a responsabilidade do prestador: remete-se para os arts. 798.º e ss. e 1156.º CC. Acrescentaram-se os limites legais às cláusulas de limitação de responsabilidade (art. 809.º CC e art. 18.º, al. c), do DL 446/85).",
+    "substituicoes": [
+      {
+        "de": "- Verificar se o cliente está sujeito à CSRD (>250 trabalhadores ou cotada)",
+        "para": "- Verificar se o cliente está sujeito à CSRD: depois da Diretiva (UE) 2026/470 («Omnibus I»), só as empresas com volume de negócios líquido superior a 450 M€ e número médio de empregados superior a 1000 durante o exercício (critérios cumulativos), com transposição até 19/3/2027; a CSRD ainda não está transposta em Portugal [■ VERIFICAR: estado da transposição à data do contrato] e mantém-se a demonstração não financeira das grandes empresas que sejam entidades de interesse público com mais de 500 trabalhadores, em média (art. 66.º-B CSC)",
+        "motivo": "Critério de âmbito da CSRD desatualizado; a Diretiva (UE) 2026/470 restringiu-o a mais de 1000 empregados e 450 M€ de volume de negócios.",
+        "fonte": "https://publications.europa.eu/resource/celex/32026L0470"
+      },
+      {
+        "de": "responsabilidade do prestador (art. 1157.º)",
+        "para": "responsabilidade do prestador (arts. 798.º e ss. CC, com aplicação das regras do mandato, com as necessárias adaptações, por força do art. 1156.º CC)",
+        "motivo": "O art. 1157.º CC define o mandato; a responsabilidade contratual rege-se pelos arts. 798.º e ss. e o art. 1156.º manda aplicar o regime do mandato à prestação de serviço atípica.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1156&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- CSRD (Diretiva 2022/2464/UE): âmbito de aplicação",
+        "para": "- CSRD (Diretiva (UE) 2022/2464, alterada pela Diretiva (UE) 2026/470): âmbito de aplicação",
+        "motivo": "A CSRD foi alterada pela Diretiva «Omnibus I».",
+        "fonte": "https://publications.europa.eu/resource/celex/32026L0470"
+      },
+      {
+        "de": "- Responsabilidade do consultor: limites contratuais, seguros de responsabilidade civil profissional",
+        "para": "- Responsabilidade do consultor: limites contratuais (nulidade da renúncia antecipada do credor aos direitos que a lei lhe confere em caso de não cumprimento ou mora, salvo o disposto no art. 800.º, n.º 2, CC — art. 809.º CC; nas cláusulas contratuais gerais, proibição absoluta das cláusulas que excluam ou limitem a responsabilidade por não cumprimento definitivo, mora ou cumprimento defeituoso em caso de dolo ou culpa grave — art. 18.º, al. c), do DL 446/85), seguros de responsabilidade civil profissional",
+        "motivo": "A cláusula 8.ª (limitação ao valor dos honorários e exclusão de danos indiretos) tem limites legais que a ficha não indicava.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=837A0018&nid=837&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Confirmar, à data do contrato, se Portugal já transpôs a CSRD e a Diretiva (UE) 2026/470 e com que calendário; enquanto não houver transposição, o cliente pode estar sujeito apenas à demonstração não financeira (arts. 66.º-B e 508.º-G CSC).",
+      "Confirmar a versão das ESRS aplicável à data do contrato e a atualidade das demais normas de reporte indicadas (GRI, TCFD).",
+      "Na cláusula 8.ª, avaliar se a limitação ao valor dos honorários é válida para culpa leve (a leitura do art. 809.º CC é controvertida) e afastá-la expressamente para dolo e culpa grave."
+    ],
+    "fontes": [
+      "https://publications.europa.eu/resource/celex/32026L0470",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1156&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0809&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=837A0018&nid=837&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=524A0066B&nid=524&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+    ]
+  },
+  {
+    "codigo": "AMB-037",
+    "veredicto": "corrigida",
+    "resumo": "A ficha remetia os usos compatíveis com a REN para o anexo I (estão no anexo II; o anexo I descreve as funções das áreas) e tratava o art. 20.º como procedimento de desafetação, que é a alteração da delimitação (arts. 16.º e 16.º-A). Na RAN, o parecer sobre utilizações não agrícolas cabe à entidade regional da RAN (art. 23.º), não à DGADR. O DPH rege-se pela Lei 54/2005, não pela Lei 76/2017; a Rede Natura 2000 pelo art. 10.º do DL 140/99; a figura «APL — Área de Proteção dos Lagos» não existe e foi substituída pelo regime das albufeiras, lagoas e lagos de águas públicas (DL 107/2009), com nota para o advogado confirmar o que a sigla designa.",
+    "descricao": "Elabora parecer jurídico sobre as servidões e restrições de utilidade pública de natureza ambiental que oneram um terreno (REN, RAN, Rede Natura 2000, DPH, albufeiras, lagoas e lagos de águas públicas), ao abrigo do Decreto-Lei n.º 166/2008 (REN), do Decreto-Lei n.º 73/2009 (RAN), da Lei n.º 54/2005 (DPH), do Decreto-Lei n.º 140/99 (Rede Natura 2000) e das diretivas Habitats e Aves, analisando o impacto na edificabilidade e os meios de impugnação.",
+    "descricao_en": "Drafts a legal opinion on the easements and public-interest restrictions of an environmental nature burdening a plot of land (REN, RAN, Natura 2000 Network, DPH (public water domain), public reservoirs and lakes), under Decree-Law No. 166/2008 (REN), Decree-Law No. 73/2009 (RAN), Law No. 54/2005 (DPH), Decree-Law No. 140/99 (Natura 2000) and the Habitats and Birds Directives, analysing the impact on development potential and the means of challenge.",
+    "substituicoes": [
+      {
+        "de": "- REN (DL 166/2008, na redação atual): usos e ações compatíveis (Anexo I), procedimentos de desafetação (art. 20.º e ss.), competência (CCDR)",
+        "para": "- REN (DL 166/2008, na redação atual): interdições e usos e ações compatíveis (art. 20.º — o uso tem de constar do anexo II e não pode pôr em causa as funções da área descritas no anexo I), comunicação prévia à CCDR (art. 22.º), ações de relevante interesse público (art. 21.º) e exclusão de áreas por alteração da delimitação da REN, incluindo a alteração simplificada proposta pela câmara municipal junto da CCDR (arts. 16.º e 16.º-A); competência (CCDR)",
+        "motivo": "Os usos compatíveis constam do anexo II; o art. 20.º é o regime das áreas e a exclusão faz-se por alteração da delimitação (arts. 16.º e 16.º-A).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_print_articulado.php?tabela=leis&artigo_id=&nid=1058&nversao=&tabela=leis"
+      },
+      {
+        "de": "- RAN (DL 73/2009): classes A, B e Ch; usos não agrícolas condicionados; procedimento de desafetação (DGADR)",
+        "para": "- RAN (DL 73/2009): terras das classes A1 e A2 ou, na falta dessa classificação, solos das classes A, B e Ch (art. 8.º); utilizações não agrícolas só nos casos e condições do art. 22.º, com parecer prévio vinculativo da entidade regional da RAN (art. 23.º), ou ações de relevante interesse público (art. 25.º); exclusão de áreas na delimitação da RAN feita no âmbito do plano territorial municipal ou intermunicipal (art. 14.º) ou, em casos excecionais de relevante interesse geral, por resolução do Conselho de Ministros (art. 17.º); as DRAP foram integradas nas CCDR (DL 36/2023)",
+        "motivo": "O parecer sobre utilizações não agrícolas cabe à entidade regional da RAN e a exclusão segue a delimitação em plano territorial ou o art. 17.º; a DGADR preside à entidade nacional da RAN, não decide a desafetação.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_print_articulado.php?tabela=leis&artigo_id=&nid=1070&nversao=&tabela=leis"
+      },
+      {
+        "de": "- DPH (Lei 76/2017): leito, margem, zonas adjacentes; servidão de passagem; uso privativo",
+        "para": "- DPH (Lei 54/2005, de 15 de novembro — titularidade dos recursos hídricos): leito e margem (arts. 10.º e 11.º), leitos e margens privados de águas públicas e reconhecimento da propriedade privada pelos tribunais comuns (arts. 12.º e 15.º), delimitação (art. 17.º), servidão de uso público e proibição de obras sem autorização nas parcelas privadas de leitos e margens (art. 21.º), zonas adjacentes e respetivas restrições de utilidade pública (arts. 24.º e 25.º); uso privativo do domínio público hídrico sujeito a título de utilização nos termos da Lei da Água (Lei 58/2005)",
+        "motivo": "O DPH rege-se pela Lei 54/2005; a Lei 76/2017 não é o diploma do domínio público hídrico. A servidão legal é de uso público (art. 21.º).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_print_articulado.php?tabela=leis&artigo_id=&nid=1377&nversao=&tabela=leis"
+      },
+      {
+        "de": "- APL (Área de Proteção dos Lagos [■ VERIFICAR]): regulamentação específica",
+        "para": "- Albufeiras, lagoas e lagos de águas públicas (DL 107/2009): zona terrestre de proteção, em regra com 500 m, e zona reservada de 100 m (arts. 12.º e 13.º), com o regime de utilização dos arts. 17.º a 26.º [■ VERIFICAR: a sigla «APL» não corresponde a figura legal conhecida; confirmar com o cliente o que designa]",
+        "motivo": "Não existe uma «Área de Proteção dos Lagos»; a proteção de lagoas, lagos e albufeiras de águas públicas consta do DL 107/2009.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_print_articulado.php?tabela=leis&artigo_id=&nid=1385&nversao=&tabela=leis"
+      },
+      {
+        "de": "- Rede Natura 2000 (DL 49/2005): ZPE e ZEC; avaliação de incidências ambientais (art. 10.º DL 49/2005)",
+        "para": "- Rede Natura 2000 (DL 140/99, de 24 de abril, republicado pelo DL 49/2005 e alterado, por último, pela Lei n.º 18/2026): ZPE e ZEC; avaliação de incidências ambientais (art. 10.º do DL 140/99)",
+        "motivo": "O regime da Rede Natura 2000 é o DL 140/99; o DL 49/2005 é diploma de alteração e republicação.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_print_articulado.php?tabela=leis&artigo_id=&nid=3096&nversao=&tabela=leis"
+      },
+      {
+        "de": "2.5 Outras: [PROT, POOC, POZC, APL, Mata Nacional, etc.]",
+        "para": "2.5 Outras: [PROT, POOC, POZC, zonas de proteção de albufeiras, lagoas ou lagos de águas públicas (DL 107/2009), Mata Nacional, etc.]",
+        "motivo": "A sigla «APL» não corresponde a figura legal; indica-se o regime das albufeiras, lagoas e lagos de águas públicas.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_print_articulado.php?tabela=leis&artigo_id=&nid=1385&nversao=&tabela=leis"
+      },
+      {
+        "de": "4.1 REN: usos compatíveis sem desafetação (Anexo I DL 166/2008); procedimento de exceção (art. 20.º)",
+        "para": "4.1 REN: uso ou ação compatível constante do anexo II do DL 166/2008 que não ponha em causa as funções da área descritas no anexo I (art. 20.º, n.º 3), isento ou sujeito a comunicação prévia à CCDR (art. 22.º); ação de relevante interesse público (art. 21.º); exclusão por alteração da delimitação (arts. 16.º e 16.º-A)",
+        "motivo": "Os usos compatíveis constam do anexo II; as vias de exceção são o art. 21.º e a alteração da delimitação.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_print_articulado.php?tabela=leis&artigo_id=&nid=1058&nversao=&tabela=leis"
+      },
+      {
+        "de": "4.2 RAN: usos não agrícolas condicionados; procedimento DGADR",
+        "para": "4.2 RAN: utilização não agrícola admitida pelo art. 22.º do DL 73/2009, com parecer prévio vinculativo da entidade regional da RAN (art. 23.º); ação de relevante interesse público (art. 25.º); exclusão em sede de delimitação (arts. 14.º e 17.º)",
+        "motivo": "A competência é da entidade regional da RAN (parecer prévio vinculativo), não da DGADR.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_print_articulado.php?tabela=leis&artigo_id=&nid=1070&nversao=&tabela=leis"
+      },
+      {
+        "de": "- [ ] DPH verificado (leito/margem registados na Conservatória)",
+        "para": "- [ ] DPH verificado (delimitação do DPH — art. 17.º da Lei 54/2005; eventual reconhecimento judicial da propriedade privada de leitos ou margens — art. 15.º; ónus de zona adjacente sujeito a registo predial — art. 24.º, n.º 4)",
+        "motivo": "Os leitos e margens dominiais fixam-se por delimitação e a propriedade privada reconhece-se judicialmente; só o ónus das zonas adjacentes está sujeito a registo predial.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_print_articulado.php?tabela=leis&artigo_id=&nid=1377&nversao=&tabela=leis"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Confirmar o anexo II do DL 166/2008 na redação do DL 129/2026 e as condições da Portaria n.º 419/2012 para o uso concreto.",
+      "Confirmar com o cliente o que designa a sigla «APL» (p. ex., a área de jurisdição de uma administração portuária) e o regime correspondente.",
+      "Confirmar se o troço de costa em causa já tem programa da orla costeira em vigor, em substituição do POOC, e se a sigla «POZC» corresponde a algum instrumento aplicável.",
+      "Confirmar a classificação das terras da RAN no local (classes A1/A2 publicadas ou classes de capacidade de uso A, B e Ch) e a entidade regional competente depois da integração das DRAP nas CCDR."
+    ],
+    "fontes": [
+      "https://www.pgdlisboa.pt/leis/lei_print_articulado.php?tabela=leis&artigo_id=&nid=1058&nversao=&tabela=leis",
+      "https://www.pgdlisboa.pt/leis/lei_print_articulado.php?tabela=leis&artigo_id=&nid=1070&nversao=&tabela=leis",
+      "https://www.pgdlisboa.pt/leis/lei_print_articulado.php?tabela=leis&artigo_id=&nid=1377&nversao=&tabela=leis",
+      "https://www.pgdlisboa.pt/leis/lei_print_articulado.php?tabela=leis&artigo_id=&nid=1385&nversao=&tabela=leis",
+      "https://www.pgdlisboa.pt/leis/lei_print_articulado.php?tabela=leis&artigo_id=&nid=3096&nversao=&tabela=leis"
+    ]
+  },
+  {
+    "codigo": "AMB-041",
+    "veredicto": "corrigida",
+    "resumo": "A ficha indicava a Autoridade da Concorrência como entidade de queixa (as autoridades competentes são a ASAE e, em publicidade, a Direção-Geral do Consumidor — art. 19.º do DL 57/2008), situava a lista negra num «Anexo I» do DL 57/2008 (está no art. 8.º) e imputava à empresa a violação direta da Diretiva (UE) 2024/825, que não é invocável contra particulares e só vale através do diploma de transposição, cuja publicação fica por confirmar. A proposta «Green Claims» foi apresentada como direito a transpor, mas não foi adotada. Concretizaram-se as novas práticas proibidas da Diretiva (UE) 2024/825 e as omissões enganosas (art. 9.º).",
+    "substituicoes": [
+      {
+        "de": "- Determinar as entidades competentes para queixa (DECO, ASAE, Autoridade da Concorrência)",
+        "para": "- Determinar as entidades competentes para queixa (ASAE e, em matéria de publicidade, a Direção-Geral do Consumidor — art. 19.º, n.ºs 1 e 3, do DL 57/2008; a DECO, enquanto associação de defesa do consumidor); a Autoridade da Concorrência não é competente para as práticas comerciais desleais com os consumidores",
+        "motivo": "O art. 19.º do DL 57/2008 atribui a competência à ASAE (e reguladores setoriais) e, em publicidade, à DGC.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_print_articulado.php?tabela=leis&artigo_id=&nid=1067&nversao=&tabela=leis"
+      },
+      {
+        "de": "- DL 57/2008: prática comercial enganosa (arts. 7.º e 8.º), práticas proscritas (Anexo I, n.ºs 1-2), sanções (arts. 21.º e ss.)",
+        "para": "- DL 57/2008: ações enganosas (art. 7.º), ações consideradas enganosas em qualquer circunstância (art. 8.º — a lista negra, que o diploma português integra no articulado, e não num anexo), omissões enganosas (art. 9.º), ação inibitória ao dispor de qualquer pessoa, incluindo concorrentes (art. 16.º), autoridades competentes (art. 19.º) e contraordenação económica grave, punível nos termos do RJCE (art. 21.º)",
+        "motivo": "O DL 57/2008 não tem Anexo I: a lista negra está no art. 8.º; acrescentam-se as omissões enganosas, a ação inibitória e o regime sancionatório em vigor.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_print_articulado.php?tabela=leis&artigo_id=&nid=1067&nversao=&tabela=leis"
+      },
+      {
+        "de": "- Diretiva 2024/825/UE: proibição de afirmações ambientais vagas (art. [■ VERIFICAR]), critérios de substantiation, lista negra de práticas proibidas",
+        "para": "- Diretiva (UE) 2024/825 (capacitação dos consumidores para a transição ecológica), que altera a Diretiva 2005/29/CE: novas práticas proibidas em qualquer circunstância no anexo I — rótulo de sustentabilidade não baseado em sistema de certificação nem estabelecido por autoridades públicas (ponto 2-A), alegação ambiental genérica sem excelente desempenho ambiental reconhecido e relevante para a alegação (ponto 4-A), alegação sobre a totalidade do produto ou da empresa quando só respeita a um aspeto (ponto 4-B) e alegação de impacto neutro, reduzido ou positivo baseada na compensação de emissões de gases com efeito de estufa (ponto 4-C) — e alegação sobre o desempenho ambiental futuro sem compromissos claros, objetivos, públicos e verificáveis num plano de execução (novo art. 6.º, n.º 2, al. d)); transposição até 27/3/2026 e aplicação desde 27/9/2026 (art. 4.º). A diretiva não se invoca diretamente contra uma empresa: invoca-se o diploma nacional de transposição ou, na sua falta, o DL 57/2008 interpretado em conformidade com ela [■ VERIFICAR: publicação do diploma de transposição; a versão consolidada do DL 57/2008 na PGDL não regista alterações posteriores à Lei n.º 10/2023]",
+        "motivo": "Concretiza as normas da Diretiva (UE) 2024/825 e esclarece que uma diretiva não vincula diretamente os particulares.",
+        "fonte": "https://publications.europa.eu/resource/celex/32024L0825"
+      },
+      {
+        "de": "- Diretiva Green Claims (proposta 2023/0085 — verificar transposição): metodologia de verificação de afirmações ambientais",
+        "para": "- Proposta de diretiva «Green Claims» (procedimento 2023/0085(COD)): não foi adotada, não é direito aplicável e não há transposição a verificar; não a invocar como fundamento [■ VERIFICAR: estado atual do procedimento legislativo]",
+        "motivo": "Uma proposta de diretiva não é direito aplicável nem objeto de transposição.",
+        "fonte": ""
+      },
+      {
+        "de": "2.1 Afirmação \"[transcrição]\": violação do art. 7.º do DL 57/2008 (prática enganosa por omissão de substantiation) e da proibição do n.º [■ VERIFICAR] do Anexo I",
+        "para": "2.1 Afirmação \"[transcrição]\": violação dos arts. 7.º (ação enganosa) e 9.º (omissão enganosa) do DL 57/2008, por falta de comprovação da afirmação, e, se for o caso, da alínea [■ VERIFICAR] do art. 8.º do DL 57/2008 (ações consideradas enganosas em qualquer circunstância)",
+        "motivo": "A omissão enganosa está no art. 9.º e a lista negra no art. 8.º do DL 57/2008, que não tem Anexo I.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_print_articulado.php?tabela=leis&artigo_id=&nid=1067&nversao=&tabela=leis"
+      },
+      {
+        "de": "2.2 Afirmação \"[transcrição]\": violação do art. 10.º do Código da Publicidade (publicidade enganosa)",
+        "para": "2.2 Afirmação \"[transcrição]\": violação dos arts. 10.º (princípio da veracidade) e 11.º (publicidade enganosa) do Código da Publicidade",
+        "motivo": "O art. 10.º é o princípio da veracidade; a publicidade enganosa está no art. 11.º.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_print_articulado.php?tabela=leis&artigo_id=&nid=390&nversao=&tabela=leis"
+      },
+      {
+        "de": "2.3 Violação da Diretiva 2024/825/UE: afirmação ambiental vaga sem metodologia de verificação acreditada",
+        "para": "2.3 Alegação ambiental genérica sem demonstração de um excelente desempenho ambiental reconhecido (ponto 4-A do anexo I da Diretiva 2005/29/CE, na redação da Diretiva (UE) 2024/825), invocada através da norma nacional de transposição ou, na sua falta, como critério de interpretação conforme dos arts. 7.º e 9.º do DL 57/2008 [■ VERIFICAR: transposição da Diretiva (UE) 2024/825]",
+        "motivo": "A diretiva não é diretamente invocável contra a empresa e não exige «metodologia de verificação acreditada»; o critério é o excelente desempenho ambiental reconhecido.",
+        "fonte": "https://publications.europa.eu/resource/celex/32024L0825"
+      },
+      {
+        "de": "o notificante reserva-se o direito de apresentar queixa à ASAE, à Autoridade da Concorrência e à DECO, e de intentar ação de concorrência desleal ao abrigo dos arts. 311.º e ss. do CPI.",
+        "para": "o notificante reserva-se o direito de apresentar queixa à ASAE e, em matéria de publicidade, à Direção-Geral do Consumidor (art. 19.º do DL 57/2008), bem como à DECO, de intentar a ação inibitória prevista no art. 16.º do DL 57/2008 e, sendo concorrente, de intentar ação de concorrência desleal ao abrigo dos arts. 311.º e ss. do CPI.",
+        "motivo": "A Autoridade da Concorrência não é competente; acrescenta-se a ação inibitória do art. 16.º do DL 57/2008.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_print_articulado.php?tabela=leis&artigo_id=&nid=1067&nversao=&tabela=leis"
+      },
+      {
+        "de": "- [ ] Entidades de queixa identificadas (ASAE/DECO/Autoridade da Concorrência)",
+        "para": "- [ ] Entidades de queixa identificadas (ASAE/DGC/DECO)",
+        "motivo": "Entidades competentes do art. 19.º do DL 57/2008.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_print_articulado.php?tabela=leis&artigo_id=&nid=1067&nversao=&tabela=leis"
+      },
+      {
+        "de": "- **Entidade de queixa preferida:** [ASAE / DECO / Autoridade da Concorrência / todas]",
+        "para": "- **Entidade de queixa preferida:** [ASAE / DGC / DECO / todas]",
+        "motivo": "Entidades competentes do art. 19.º do DL 57/2008.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_print_articulado.php?tabela=leis&artigo_id=&nid=1067&nversao=&tabela=leis"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Confirmar em dre.pt se já foi publicado o diploma que transpõe a Diretiva (UE) 2024/825 (alteração ao DL 57/2008) e citar os seus artigos em vez da diretiva.",
+      "O DL 57/2008 só se aplica às práticas com consumidores; se o notificante for concorrente e a comunicação se dirigir a profissionais, apoiar-se no Código da Publicidade e na concorrência desleal.",
+      "Confirmar o estado do procedimento da proposta «Green Claims» antes de a mencionar à contraparte."
+    ],
+    "fontes": [
+      "https://www.pgdlisboa.pt/leis/lei_print_articulado.php?tabela=leis&artigo_id=&nid=1067&nversao=&tabela=leis",
+      "https://www.pgdlisboa.pt/leis/lei_print_articulado.php?tabela=leis&artigo_id=&nid=390&nversao=&tabela=leis",
+      "https://publications.europa.eu/resource/celex/32024L0825"
+    ]
+  },
+  {
+    "codigo": "AMB-048",
+    "veredicto": "corrigida",
+    "resumo": "Os artigos do DL 152-D/2017 estavam trocados: o art. 6.º é o transporte de resíduos (não há limiares de isenção para embaladores), o art. 9.º o sistema individual e o art. 10.º o sistema integrado; o financiamento são os valores de prestação financeira (arts. 14.º e 15.º) e a declaração anual faz-se no SIRER até 31 de março (art. 19.º). A RAP do RGGR está nos arts. 12.º e 13.º, não nos arts. 10.º a 21.º. Acrescentou-se o Regulamento (UE) 2025/40, aplicável desde 12/8/2026.",
+    "substituicoes": [
+      {
+        "de": "- Verificar se o produtor/importador está acima dos limiares de isenção",
+        "para": "- Verificar se o requerente é produtor do produto, embalador ou fornecedor de embalagens de serviço, obrigado a gerir os respetivos resíduos através de sistema individual ou integrado (art. 7.º, n.º 1, DL 152-D/2017)",
+        "motivo": "O DL 152-D/2017 não prevê limiares de isenção para os embaladores; o critério é a qualidade do requerente.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_print_articulado.php?tabela=leis&artigo_id=&nid=2953&nversao=&tabela=leis"
+      },
+      {
+        "de": "- DL 152-D/2017: definições (art. 3.º), obrigações do produtor (arts. 5.º a 8.º), limiares de isenção (art. 6.º), declaração anual de embalagens (art. 9.º), eco-valor (art. 10.º)",
+        "para": "- DL 152-D/2017: definições (art. 3.º), responsabilidade pela gestão (art. 5.º), obrigação de gerir os resíduos através de sistema individual ou integrado (art. 7.º), sistema integrado — transferência da responsabilidade para a entidade gestora licenciada, por contrato escrito com o conteúdo do art. 10.º, n.º 3, e mediante o pagamento dos valores de prestação financeira, vulgo «ecovalor» (arts. 10.º e 14.º), modelo de determinação dos valores de prestação financeira (art. 15.º), inscrição e submissão de dados no SIRER, com declaração de correção do ano anterior e declaração de estimativa do ano em curso até 31 de março (art. 19.º), regime das embalagens (arts. 21.º e ss.)",
+        "motivo": "Os arts. 6.º, 9.º e 10.º tratam do transporte e dos sistemas individual e integrado; o financiamento e a declaração anual estão nos arts. 14.º, 15.º e 19.º.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_print_articulado.php?tabela=leis&artigo_id=&nid=2953&nversao=&tabela=leis"
+      },
+      {
+        "de": "- RGGR (DL 102-D/2020): RAP (arts. 10.º a 21.º), registo no SIRER",
+        "para": "- RGGR (anexo I ao DL 102-D/2020): responsabilidade alargada do produtor e requisitos mínimos dos seus regimes (arts. 12.º e 13.º), incluindo a modulação das prestações financeiras em função da durabilidade, reparabilidade, reutilização e reciclabilidade (art. 13.º, n.º 3, al. b)); inscrição e submissão de dados no SIRER (arts. 97.º e 98.º)\n- Regulamento (UE) 2025/40 (embalagens e resíduos de embalagens), aplicável desde 12 de agosto de 2026 (art. 71.º): registo de produtores (art. 44.º), responsabilidade alargada do produtor (art. 45.º) e organização competente em matéria de responsabilidade do produtor (arts. 46.º e 47.º) [■ VERIFICAR: articulação com o DL 152-D/2017, cuja versão consolidada não foi ainda adaptada ao Regulamento]",
+        "motivo": "Os arts. 10.º a 21.º do RGGR tratam de outras matérias; a RAP está nos arts. 12.º e 13.º. Faltava o Regulamento (UE) 2025/40, diretamente aplicável.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_print_articulado.php?tabela=leis&artigo_id=&nid=3398&nversao=&tabela=leis"
+      },
+      {
+        "de": "do sistema coletivo de gestão de resíduos de embalagens, nos termos do Decreto-Lei n.º 152-D/2017, de 11 de dezembro,",
+        "para": "do sistema integrado de gestão de resíduos de embalagens gerido por essa entidade gestora, com transferência da responsabilidade pela gestão dos resíduos de embalagens mediante o pagamento dos valores de prestação financeira, nos termos dos arts. 7.º e 10.º do Decreto-Lei n.º 152-D/2017, de 11 de dezembro,",
+        "motivo": "Designação legal do sistema e base legal da adesão.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_print_articulado.php?tabela=leis&artigo_id=&nid=2953&nversao=&tabela=leis"
+      },
+      {
+        "de": "[superação dos limiares de isenção; obrigação legal de RAP]",
+        "para": "[obrigação legal de gerir os resíduos de embalagens através de sistema individual ou integrado (art. 7.º, n.º 1, DL 152-D/2017) e opção pelo sistema integrado]",
+        "motivo": "Não há limiares de isenção para os embaladores no DL 152-D/2017.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_print_articulado.php?tabela=leis&artigo_id=&nid=2953&nversao=&tabela=leis"
+      },
+      {
+        "de": "- [ ] Limiares de isenção verificados (art. 6.º DL 152-D/2017)",
+        "para": "- [ ] Qualidade do requerente e obrigação de sistema de gestão verificadas (art. 7.º, n.º 1, DL 152-D/2017)",
+        "motivo": "O art. 6.º trata do transporte de resíduos; não há limiares de isenção.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_print_articulado.php?tabela=leis&artigo_id=&nid=2953&nversao=&tabela=leis"
+      },
+      {
+        "de": "- [ ] Prazo de declaração anual identificado (31 março)",
+        "para": "- [ ] Prazo de declaração anual identificado (31 de março: declaração de correção do ano anterior e declaração de estimativa do ano em curso no SIRER — art. 19.º, n.º 2, DL 152-D/2017)",
+        "motivo": "Base legal e conteúdo da declaração anual.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_print_articulado.php?tabela=leis&artigo_id=&nid=2953&nversao=&tabela=leis"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Confirmar se o DL 152-D/2017 já foi adaptado ao Regulamento (UE) 2025/40 e quando entra em funcionamento o registo de produtores do art. 44.º do Regulamento.",
+      "Confirmar, no contrato de adesão e no modelo de prestações financeiras aprovado pela APA e pela DGAE, os valores por material e a ecomodulação aplicável.",
+      "Confirmar qual a entidade gestora licenciada para o tipo de embalagem e o material em causa e o prazo da respetiva licença."
+    ],
+    "fontes": [
+      "https://www.pgdlisboa.pt/leis/lei_print_articulado.php?tabela=leis&artigo_id=&nid=2953&nversao=&tabela=leis",
+      "https://www.pgdlisboa.pt/leis/lei_print_articulado.php?tabela=leis&artigo_id=&nid=3398&nversao=&tabela=leis",
+      "https://publications.europa.eu/resource/celex/32025R0040"
+    ]
+  }
+]

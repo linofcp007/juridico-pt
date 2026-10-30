@@ -49,7 +49,7 @@ Apresenta dentro de <consequencias_resolucao>:
   c) Indemnização por desvalorização do bem acima do uso normal
   d) Encargos de resolução previstos no contrato
 - Limite de indemnização: a locadora não pode exigir mais do que o enriquecimento que obteria com o cumprimento integral
-- Responsabilidade do fiador: accessória (fiança) ou autónoma?
+- Responsabilidade do fiador: acessória (fiança) ou autónoma?
 
 ### ETAPA 3 — CARTA DE RESOLUÇÃO (LOCADORA) OU CONTESTAÇÃO (LOCATÁRIO)
 

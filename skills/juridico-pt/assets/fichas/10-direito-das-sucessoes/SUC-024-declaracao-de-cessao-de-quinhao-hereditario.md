@@ -28,7 +28,7 @@ Ficha de trabalho para preparar este documento. As regras da casa prevalecem sob
 — NUNCA inventes legislação ou valores.
 — Se faltar dado, marca [■ VERIFICAR: o que é necessário].
 — Cita artigos reais do Código Civil (CC).
-— Alerta para o direito de preferência dos co-herdeiros (art. 2130.º CC).
+— Alerta para o direito de preferência dos coerdeiros (art. 2130.º CC).
 — Indica a forma exigida (documento particular autenticado ou escritura pública se a herança inclui imóveis — art. 2126.º CC).
 — Linguagem jurídica notarial, formal, portuguesa.
 
@@ -38,10 +38,10 @@ Ficha de trabalho para preparar este documento. As regras da casa prevalecem sob
 
 ### ETAPA 1 — PROBLEMATIZAÇÃO (Análise do Caso)
 Apresenta dentro de um bloco <analise_do_caso>:
-- Quem cede e a quem cede (co-herdeiro ou terceiro)?
+- Quem cede e a quem cede (coerdeiro ou terceiro)?
 - Qual o quinhão cedido e o seu valor estimado?
 - A herança inclui imóveis? (afeta a forma obrigatória)
-- Os co-herdeiros foram notificados para exercer o direito de preferência?
+- Os coerdeiros foram notificados para exercer o direito de preferência?
 - Qual o preço ou título da cessão (onerosa ou gratuita)?
 - Qual o impacto fiscal da cessão?
 
@@ -53,8 +53,8 @@ Apresenta dentro de um bloco <fundamentos_juridicos>:
 - Forma:
   — Herança com bens cuja alienação exija escritura pública ou documento particular autenticado (como imóveis): uma dessas formas (art. 2126.º, n.º 1, CC)
   — Fora desses casos: documento particular (art. 2126.º, n.º 2, CC)
-- Direito de preferência dos co-herdeiros: art. 2130.º CC
-  — Só na venda ou dação em cumprimento do quinhão a estranhos (não na cessão gratuita nem na cessão a co-herdeiro) os co-herdeiros têm preferência, nos termos em que assiste aos comproprietários (art. 2130.º, n.º 1, CC)
+- Direito de preferência dos coerdeiros: art. 2130.º CC
+  — Só na venda ou dação em cumprimento do quinhão a estranhos (não na cessão gratuita nem na cessão a coerdeiro) os coerdeiros têm preferência, nos termos em que assiste aos comproprietários (art. 2130.º, n.º 1, CC)
   — Havendo comunicação para a preferência, o prazo para a exercer é de dois meses (art. 2130.º, n.º 2, CC)
   — Se não lhes for dado conhecimento: ação de preferência no prazo de seis meses a contar do conhecimento dos elementos essenciais da alienação, com depósito do preço nos 15 dias seguintes à propositura da ação (art. 1410.º, n.º 1, CC); pendendo inventário, a preferência é exercida incidentalmente no processo (art. 1095.º CPC)
 - Fiscalidade: a alienação onerosa de quinhão hereditário em herança com imóveis está sujeita a IMT (art. 2.º, n.º 5, al. c), CIMT); a cessão gratuita está sujeita a Imposto do Selo da verba 1.2 da TGIS, com a isenção do art. 6.º, n.º 1, al. e), CIS [■ VERIFICAR: valor tributável, Imposto do Selo da verba 1.1 e isenções no caso concreto]
@@ -62,7 +62,7 @@ Apresenta dentro de um bloco <fundamentos_juridicos>:
 ### ETAPA 3 — CONSTRUÇÃO ARGUMENTATIVA / ESTRUTURA
 Define:
 - Forma do contrato (escritura pública ou escrito)
-- Obrigação de notificação prévia dos co-herdeiros
+- Obrigação de notificação prévia dos coerdeiros
 - Cláusulas essenciais do contrato
 - Alertas fiscais
 
@@ -95,9 +95,9 @@ A presente cessão é efetuada a título gratuito, por motivo de [razão].
 
 **CLÁUSULA TERCEIRA — DO DIREITO DE PREFERÊNCIA**
 
-O cedente declara ter notificado os co-herdeiros [nomes] para exercício do direito de preferência, nos termos do art. 2130.º CC, em [data], não tendo os mesmos exercido tal direito no prazo de dois meses (art. 2130.º, n.º 2, CC). [Junta: comprovativos de notificação — Doc. N.º]
+O cedente declara ter notificado os coerdeiros [nomes] para exercício do direito de preferência, nos termos do art. 2130.º CC, em [data], não tendo os mesmos exercido tal direito no prazo de dois meses (art. 2130.º, n.º 2, CC). [Junta: comprovativos de notificação — Doc. N.º]
 
-[Ou: A presente cessão é efetuada a favor de co-herdeiro / a título gratuito, pelo que não há lugar ao direito de preferência dos co-herdeiros (art. 2130.º, n.º 1, CC).]
+[Ou: A presente cessão é efetuada a favor de coerdeiro / a título gratuito, pelo que não há lugar ao direito de preferência dos coerdeiros (art. 2130.º, n.º 1, CC).]
 
 **CLÁUSULA QUARTA — DA DECLARAÇÃO DO CEDENTE**
 
@@ -118,7 +118,7 @@ A presente cessão [é formalizada por escritura pública ou documento particula
 
 ### ETAPA 5 — FORMULAÇÃO FINAL (Validação)
 Apresenta dentro de um bloco <checklist_validacao>:
-- [ ] Co-herdeiros notificados para o direito de preferência (se venda ou dação em cumprimento a estranho)
+- [ ] Coerdeiros notificados para o direito de preferência (se venda ou dação em cumprimento a estranho)
 - [ ] Prazo de preferência de dois meses respeitado antes da outorga (art. 2130.º, n.º 2, CC)
 - [ ] Forma correta (escritura pública ou documento particular autenticado se há imóveis; documento particular nos demais casos)
 - [ ] Identificação da herança e das quotas cedidas
@@ -136,7 +136,7 @@ Apresenta dentro de um bloco <checklist_validacao>:
 
 **CESSIONÁRIO:**
 - Nome, CC, NIF, morada: [dados]
-- É co-herdeiro ou terceiro? [dados]
+- É coerdeiro ou terceiro? [dados]
 
 **HERANÇA:**
 - Falecido, data de óbito: [dados]
@@ -145,7 +145,7 @@ Apresenta dentro de um bloco <checklist_validacao>:
 **PREÇO / TÍTULO:**
 - Onerosa (preço €) ou gratuita: [dados]
 
-**NOTIFICAÇÃO DOS CO-HERDEIROS:**
+**NOTIFICAÇÃO DOS COERDEIROS:**
 - Foi efetuada? [sim/não — data e forma]
 - Exerceram o direito? [sim/não]
 

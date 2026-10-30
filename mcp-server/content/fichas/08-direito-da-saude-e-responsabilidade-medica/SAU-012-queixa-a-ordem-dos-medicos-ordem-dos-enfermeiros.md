@@ -6,7 +6,8 @@ titulo_en: "Complaint to the Medical Association / Nursing Association"
 descricao: "Redige uma participação/queixa formal à Ordem dos Médicos ou à Ordem dos Enfermeiros, com fundamento em violação de deveres deontológicos pelo profissional de saúde, descrevendo os factos, invocando as normas do Código Deontológico aplicáveis e formulando o pedido de instauração de processo disciplinar."
 descricao_en: "Drafts a formal report/complaint to the Portuguese Medical Association (Ordem dos Médicos) or the Portuguese Nursing Association (Ordem dos Enfermeiros), based on a breach of ethical duties by the health professional, describing the facts, invoking the applicable provisions of the Code of Ethics and requesting the opening of disciplinary proceedings."
 ambito: nacional
-estado_citacoes: "conferidas 0 · corrigidas 0 · por conferir 7"
+estado_citacoes: "conferidas 0 · corrigidas 0 · por conferir 15"
+revisao_tecnica: "2026-10-30 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
@@ -14,7 +15,8 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 
 > **Âmbito:** nacional · **Área:** Direito da Saúde e Responsabilidade Médica · **Código:** SAU-012
 > **EN:** Complaint to the Medical Association / Nursing Association. Drafts a formal report/complaint to the Portuguese Medical Association (Ordem dos Médicos) or the Portuguese Nursing Association (Ordem dos Enfermeiros), based on a breach of ethical duties by the health professional, describing the facts, invoking the applicable provisions of the Code of Ethics and requesting the opening of disciplinary proceedings.
-> **Citações:** conferidas 0 · corrigidas 0 · por conferir 7. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 0 · corrigidas 0 · por conferir 15. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-30 — corrigida (7 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
 Redige uma participação/queixa formal à Ordem dos Médicos ou à Ordem dos Enfermeiros, com fundamento em violação de deveres deontológicos pelo profissional de saúde, descrevendo os factos, invocando as normas do Código Deontológico aplicáveis e formulando o pedido de instauração de processo disciplinar.
 
@@ -46,20 +48,20 @@ Apresenta dentro de um bloco <analise_do_caso>:
 Apresenta dentro de um bloco <fundamentos_juridicos>:
 Para médicos:
 - Código Deontológico da Ordem dos Médicos (Regulamento n.º 707/2016):
-  - Art. 8.º — competência e atualização profissional
-  - Art. 37.º — dever de informação ao doente
-  - Art. 38.º — consentimento informado
-  - Art. 70.º — sigilo profissional
+  - Art. 4.º, n.os 1 e 8, e art. 5.º — exercício segundo as leges artis, dever de atualização científica e técnica e qualidade dos cuidados
+  - Art. 19.º — esclarecimento do médico ao doente
+  - Arts. 20.º a 23.º — consentimento do doente
+  - Arts. 29.º a 35.º — segredo médico
   - [■ VERIFICAR: artigos específicos para o tipo de violação em causa]
-- Estatutos da Ordem dos Médicos (Lei n.º 117/2015): processo disciplinar
+- Estatuto da Ordem dos Médicos (Decreto-Lei n.º 282/77, na redação das Leis n.os 117/2015 e 9/2024): competência disciplinar dos conselhos disciplinares regionais (arts. 65.º e 67.º) e regras disciplinares em anexo (art. 68.º, n.º 2)
 
 Para enfermeiros:
-- Código Deontológico dos Enfermeiros (inserido no Decreto-Lei n.º 104/98, atualizado):
-  - Art. 83.º — direito ao cuidado
-  - Art. 84.º — dever de informação
-  - Art. 85.º — dever de sigilo
-  - [■ VERIFICAR: artigos específicos atualizados]
-- Estatuto da Ordem dos Enfermeiros: regime disciplinar
+- Código Deontológico dos Enfermeiros (capítulo VI do Estatuto da Ordem dos Enfermeiros, aprovado pelo Decreto-Lei n.º 104/98, republicado pela Lei n.º 156/2015 e alterado pela Lei n.º 8/2024):
+  - Art. 104.º — direito ao cuidado
+  - Art. 105.º — dever de informação (incluindo o consentimento informado)
+  - Art. 106.º — dever de sigilo
+  - [■ VERIFICAR: artigos específicos para o tipo de violação em causa]
+- Estatuto da Ordem dos Enfermeiros: regime disciplinar (arts. 71.º e ss.); a decisão final cabe ao conselho jurisdicional (art. 32.º, n.º 1, al. b)) e a instrução ao conselho jurisdicional regional da secção em que o enfermeiro está inscrito (art. 47.º, n.º 2)
 
 ### ETAPA 3 — CONSTRUÇÃO DA PARTICIPAÇÃO
 Apresenta dentro de um bloco <estrutura>:
@@ -72,7 +74,7 @@ Apresenta dentro de um bloco <estrutura>:
 Redige o documento completo:
 
 **À ORDEM DOS MÉDICOS / DOS ENFERMEIROS**
-[Conselho Disciplinar Regional — indicar a região onde o profissional exerce]
+[Médicos: Conselho Disciplinar Regional do Norte, do Centro ou do Sul, da região onde os factos foram praticados (art. 67.º, n.º 3, do Estatuto da Ordem dos Médicos) / Enfermeiros: Conselho Jurisdicional (art. 32.º, n.º 1, al. b), do Estatuto da Ordem dos Enfermeiros)]
 
 **PARTICIPAÇÃO / QUEIXA DISCIPLINAR**
 
@@ -97,7 +99,7 @@ Local de exercício: _________________________
 [Identificação dos artigos do Código Deontológico com breve fundamentação]
 
 **4. PEDIDO**
-"Requer-se que o Conselho Disciplinar [Regional/Nacional] instaure processo disciplinar contra o/a profissional identificado/a, avalie a gravidade da conduta descrita e tome as medidas que se mostrarem adequadas no âmbito das competências estatutárias da Ordem."
+"Requer-se que o [Conselho Disciplinar Regional do Norte / do Centro / do Sul da Ordem dos Médicos | Conselho Jurisdicional da Ordem dos Enfermeiros] instaure processo disciplinar contra o/a profissional identificado/a, avalie a gravidade da conduta descrita e tome as medidas que se mostrarem adequadas no âmbito das competências estatutárias da Ordem."
 
 **5. PROVA**
 - Documentos juntos: [lista]
@@ -110,7 +112,7 @@ Local de exercício: _________________________
 Apresenta dentro de um bloco <checklist_validacao>:
 - [ ] Profissional corretamente identificado (nome, n.º cédula, local de exercício)
 - [ ] Ordem competente identificada (Ordem dos Médicos / dos Enfermeiros / outra)
-- [ ] Conselho Disciplinar Regional correto (onde o profissional exerce)
+- [ ] Órgão disciplinar correto (médicos: conselho disciplinar regional da região onde os factos foram praticados; enfermeiros: conselho jurisdicional)
 - [ ] Factos narrados de forma objetiva
 - [ ] Artigos do Código Deontológico corretamente invocados [■ VERIFICAR versão atualizada]
 - [ ] Distinção entre responsabilidade disciplinar e civil explicada ao cliente
@@ -149,17 +151,25 @@ Apresenta dentro de um bloco <checklist_validacao>:
 - [relatórios médicos, declarações, registos, outra prova]
 
 **INFORMAÇÕES ADICIONAIS:**
-- Região onde o profissional exerce (para identificar o Conselho Disciplinar): [região]
+- Região onde os factos foram praticados (para identificar o conselho disciplinar regional, no caso dos médicos): [região]
 - Observações: [outros dados relevantes]
 
 ## Citações desta ficha
 
 | Citação | Estado | Nota |
 |---|---|---|
-| Art. 8.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| Art. 37.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| Art. 38.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| Art. 70.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| Art. 83.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| Art. 84.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| Art. 85.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| Art. 4.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 5.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| Art. 19.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| Arts. 20.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| Arts. 29.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| arts. 65.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 68.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| Art. 104.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| Art. 105.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| Art. 106.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| arts. 71.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 32.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 32.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 47.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 67.º | por conferir [■ VERIFICAR] | diploma não identificado |

@@ -1,0 +1,210 @@
+[
+  {
+    "codigo": "CNS-047",
+    "veredicto": "corrigida",
+    "resumo": "O quadro de entidades indicava a DGC para o comércio em geral e o Turismo de Portugal para o turismo e alojamento; nos termos do art. 11.º do DL 156/2005, a entidade competente para o comércio a retalho, a restauração, os serviços pessoais, os empreendimentos turísticos, o alojamento local e as agências de viagens é a ASAE (que tem também competência residual), cabendo ao Turismo de Portugal (SRIJ) apenas os casinos e salas de jogo. Corrigiram-se essas linhas, acrescentou-se a AMT para os transportes terrestres e marítimos e uma regra a explicar que a reclamação do LRE já segue automaticamente para a entidade competente, pelo que a escalada é um complemento, e que essas entidades não decidem o litígio individual. O prazo de 15 dias úteis do art. 5.º-B está correto.",
+    "substituicoes": [
+      {
+        "de": "— A entidade competente para receber a reclamação escalada varia consoante o setor — nunca envie para a entidade errada.",
+        "para": "— A entidade competente para receber a reclamação escalada varia consoante o setor — nunca envie para a entidade errada.\n— A reclamação submetida no LRE é enviada automaticamente ao profissional e à entidade competente do setor: a queixa de escalada não é uma segunda reclamação sobre os mesmos factos, mas um complemento que indica o número da reclamação no LRE, junta a resposta (ou regista a falta dela) e pede a intervenção da entidade; a reclamação no livro não exclui outros meios de reclamação (art. 13.º, n.º 1, DL 156/2005). Em regra, estas entidades fiscalizam e sancionam, mas não decidem o litígio individual: para obter reembolso ou reparação, ponderar também uma entidade de resolução alternativa de litígios (Lei n.º 144/2015).",
+        "motivo": "A reclamação eletrónica segue automaticamente para a entidade competente; evitar duplicação e indicar a via para resolver o litígio.",
+        "fonte": "https://www.amt-autoridade.pt/media/2056/lre_operadores_economicos.pdf"
+      },
+      {
+        "de": "| Comércio geral | DGC — Direção-Geral do Consumidor | consumidor.pt |",
+        "para": "| Comércio a retalho, restauração, serviços pessoais e atividades sem regulador próprio | ASAE (art. 11.º, n.os 1, al. a), e 3, DL 156/2005) | asae.gov.pt |",
+        "motivo": "A DGC não é a entidade competente; é a ASAE, também com competência residual.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=737&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "| Turismo/alojamento | Turismo de Portugal | turismodeportugal.pt |",
+        "para": "| Turismo/alojamento (empreendimentos turísticos, alojamento local, agências de viagens) | ASAE (art. 11.º, n.º 1, al. a), DL 156/2005) | asae.gov.pt |\n| Casinos, salas de máquinas e de bingo | SRIJ — Turismo de Portugal (art. 11.º, n.º 1, al. g), DL 156/2005) | turismodeportugal.pt |",
+        "motivo": "O turismo e o alojamento (anexo, n.º 3, als. a) a f)) cabem à ASAE; o Turismo de Portugal (SRIJ) só para o jogo (anexo, n.º 8).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=737&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "| Transportes aéreos | ANAC | anac.pt |",
+        "para": "| Transportes aéreos | ANAC | anac.pt |\n| Transportes rodoviários, ferroviários, marítimos e fluviais | AMT (art. 11.º, n.º 1, al. d), DL 156/2005) | amt-autoridade.pt |",
+        "motivo": "Faltava a entidade competente para os demais transportes.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=737&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Confirmar no registo do profissional no LRE a entidade de controlo de mercado ou reguladora que escolheu, sobretudo em atividades mistas.",
+      "Verificar se o regulador do setor dispõe de mecanismo próprio de tratamento de reclamações (art. 13.º, n.º 2, DL 156/2005) e qual a entidade de RAL competente.",
+      "O art. 11.º do DL 156/2005 foi alterado pelo DL 103/2025 (Banco de Portugal e cessão de créditos bancários): confirmar a redação em vigor se o caso envolver um cessionário de créditos."
+    ],
+    "fontes": [
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=737&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://www.amt-autoridade.pt/media/2056/lre_operadores_economicos.pdf"
+    ]
+  },
+  {
+    "codigo": "CNS-052",
+    "veredicto": "corrigida",
+    "resumo": "A ficha atribuía ao art. 9.º da Lei 24/96 um direito de resolução dos contratos de execução continuada e assentava a carta numa «justa causa» do consumidor fundada nessa lei; o art. 9.º só consagra a boa fé e a sujeição ao regime das cláusulas contratuais gerais (e a livre resolução de 14 dias nos contratos à distância e fora do estabelecimento). Reescreveram-se as regras, os fundamentos e o assunto da carta: a saída antecipada assenta na cláusula contratual, na resolução legal (art. 432.º CC, incluindo o incumprimento do ginásio), na alteração das circunstâncias (art. 437.º CC), na invalidade da fidelização ou da penalidade (DL 446/85) ou na denúncia. Corrigiu-se ainda o artigo da livre resolução (art. 10.º e não 13.º do DL 24/2014), o critério da renovação automática proibida e a entidade competente para a reclamação (ASAE).",
+    "descricao": "Prepara a comunicação de cessação de contrato de ginásio, clube desportivo ou estúdio de fitness — resolução com fundamento no contrato, no incumprimento do ginásio (por exemplo, encerramento do estabelecimento) ou na alteração anormal das circunstâncias (mudança de residência, doença, desemprego, quando a justifiquem), ou denúncia com pré-aviso —, ao abrigo do Código Civil, da Lei n.º 24/96, do DL n.º 24/2014 e do regime das cláusulas contratuais gerais (DL n.º 446/85), com contestação de fidelizações e penalidades abusivas.",
+    "descricao_en": "Prepares the communication ending a contract with a gym, sports club or fitness studio — termination on the grounds provided in the contract, for the gym's breach (for example, closure of the premises) or for an abnormal change of circumstances (change of residence, illness, unemployment, where they justify it), or termination with prior notice — under the Civil Code, Law No. 24/96, Decree-Law No. 24/2014 and the standard contract terms regime (Decree-Law No. 446/85), and contests abusive lock-in periods and penalties.",
+    "substituicoes": [
+      {
+        "de": "— Os contratos de ginásio são de execução continuada — sujeitos ao regime de resolução com justa causa e denúncia com pré-aviso.",
+        "para": "— Os contratos de ginásio são de execução continuada. A Lei n.º 24/96 não consagra um direito geral de resolução por justa causa: a saída antecipada assenta na cláusula do contrato que a preveja, na resolução fundada na lei ou em convenção (art. 432.º CC), incluindo o incumprimento do ginásio, na alteração anormal das circunstâncias (art. 437.º CC) ou na invalidade da fidelização ou da penalidade (DL n.º 446/85); no contrato de duração indeterminada, na denúncia com o pré-aviso previsto no contrato, sendo proibidos os prazos excessivos de vigência ou de denúncia (art. 22.º, n.º 1, al. a), DL 446/85).",
+        "motivo": "O direito do consumo não prevê uma resolução geral por justa causa; indicar as bases legais efetivas.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=726&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "— Justa causa não é obrigação de prova perfeita — basta invocar fundamento sério com documento de suporte (atestado médico, declaração de desemprego, comprovativo de mudança de residência).",
+        "para": "— Doença, desemprego ou mudança de residência só fundam a resolução se o contrato os previr ou se preencherem os requisitos exigentes da alteração anormal das circunstâncias (art. 437.º CC); na falta de base contratual, apresentá-los também como pedido de cessação por acordo, sempre com documento de suporte (atestado médico, declaração de desemprego, comprovativo de mudança de residência). O encerramento do estabelecimento ou a falta do serviço contratado é incumprimento do ginásio e funda a resolução nos termos gerais.",
+        "motivo": "Invocar um fundamento sério não basta, por si, para resolver o contrato.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- Lei 24/96, art. 9.º: direito de resolução de contratos de execução continuada",
+        "para": "- Lei 24/96, art. 9.º: boa fé e igualdade material na vigência do contrato (n.º 1) e sujeição das cláusulas ao regime das cláusulas contratuais gerais (n.os 2 e 3); não confere um direito geral de resolução dos contratos de execução continuada",
+        "motivo": "O art. 9.º não prevê a resolução de contratos de execução continuada.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=726&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- DL 24/2014, art. 13.º (contratos à distância): direito de livre resolução",
+        "para": "- DL 24/2014, art. 10.º (contratos celebrados à distância ou fora do estabelecimento, por exemplo a adesão online): livre resolução em 14 dias a contar da celebração, sem indicar o motivo; art. 15.º: se o serviço começou nesse prazo a pedido expresso do consumidor, este paga o montante proporcional ao serviço já prestado",
+        "motivo": "O direito de livre resolução está no art. 10.º; o art. 13.º trata das obrigações do consumidor.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2062&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- CC, art. 432.º: resolução por incumprimento ou fundamento legal",
+        "para": "- CC, art. 432.º: resolução fundada na lei (por exemplo, incumprimento do ginásio) ou em convenção\n- CC, art. 437.º: resolução ou modificação por alteração anormal das circunstâncias",
+        "motivo": "O art. 432.º admite a resolução fundada na lei ou em convenção; acrescenta-se a base da alteração das circunstâncias.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- Impugnar cláusula de renovação automática se não houve aviso prévio",
+        "para": "- Impugnar a cláusula de renovação automática pelo silêncio do consumidor quando a data-limite para se opor à renovação esteja excessivamente distante do termo do contrato (art. 22.º, n.º 1, al. h), DL 446/85)",
+        "motivo": "O critério legal da proibição não é a falta de aviso prévio.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=837&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "Assunto: Resolução de Contrato por Justa Causa — Lei n.º 24/96",
+        "para": "Assunto: Cessação do contrato [n.º/referência] — [resolução com fundamento em cláusula contratual, incumprimento ou alteração das circunstâncias (art. 437.º CC) / denúncia com pré-aviso]",
+        "motivo": "A Lei 24/96 não fundamenta a resolução por justa causa.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=726&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "**VI. Prazo de confirmação escrita** e aviso de reclamação à DGC/DECO",
+        "para": "**VI. Prazo de confirmação escrita** e aviso de reclamação no livro de reclamações (entidade competente para os estabelecimentos de manutenção física: ASAE, art. 11.º, n.º 1, al. a), DL 156/2005) e de recurso a uma entidade de resolução alternativa de litígios",
+        "motivo": "A DGC não é a entidade competente para as reclamações contra ginásios (anexo, n.º 1, al. g), do DL 156/2005).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=737&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- [ ] Fundamento de justa causa identificado e documentado",
+        "para": "- [ ] Fundamento da cessação identificado (cláusula contratual, incumprimento, art. 437.º CC ou denúncia) e documentado",
+        "motivo": "Coerência com as bases legais corrigidas.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Ler as condições gerais do ginásio: muitas preveem a cessação por doença, mudança de residência ou desemprego, que é a via mais segura.",
+      "A resolução por alteração das circunstâncias (art. 437.º CC) com base em factos pessoais do consumidor é de admissão restritiva na jurisprudência: avaliar caso a caso.",
+      "Avaliar se a penalidade por saída antecipada é cláusula penal desproporcionada (art. 19.º, al. c), DL 446/85, aplicável por força do art. 20.º) e se o entrave ao cancelamento é prática agressiva (art. 11.º DL 57/2008)."
+    ],
+    "fontes": [
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=726&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2062&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=837&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1067&tabela=leis",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=737&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+    ]
+  },
+  {
+    "codigo": "CNS-055",
+    "veredicto": "corrigida",
+    "resumo": "Vários artigos do DL 24/2014 estavam trocados (reembolso no art. 12.º e não no 14.º; efeitos no art. 11.º e não no 13.º; a entrega não está no art. 18.º, que trata do pagamento por cartão) e o regime da não entrega estava incompleto: está no art. 11.º do DL 84/2021, que exige prazo adicional adequado (não «5-7 dias úteis») e só admite a resolução imediata em casos tipificados. Corrigiu-se o alargamento do prazo de livre resolução (mais 12 meses após o termo do prazo inicial, se faltar a informação do art. 4.º, n.º 1, al. m)), a remissão para a plataforma ODR, descontinuada em 20/07/2025 (Reg. (UE) 2024/3228), a referência à DGC (a entidade competente é a ASAE) e a atribuição da política de devolução ao DL 7/2004.",
+    "substituicoes": [
+      {
+        "de": "custos de envio standard (art. 14.º DL 24/2014).",
+        "para": "custos de envio standard (art. 12.º, n.os 1 e 3, DL 24/2014); se não reembolsar nesse prazo, fica obrigado a devolver em dobro, no prazo de 15 dias úteis (art. 12.º, n.º 6, DL 24/2014).",
+        "motivo": "O reembolso está no art. 12.º; o art. 14.º trata da inspeção do bem.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2062&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "— Se o prazo de entrega acordado não for cumprido, o consumidor pode fixar prazo adicional ou resolver imediatamente (art. 18.º DL 24/2014).",
+        "para": "— Se o bem não for entregue na data acordada ou, na falta de acordo, até 30 dias após a celebração do contrato, o consumidor pode exigir a entrega num prazo adicional adequado às circunstâncias e, se este não for cumprido, resolver o contrato; só pode resolver de imediato se o profissional recusar a entrega ou se o prazo de entrega for essencial (art. 11.º, n.os 5 a 8, DL 84/2021). Após a resolução, o profissional restitui todo o montante pago em 14 dias, sob pena de devolução em dobro (art. 11.º, n.os 9 e 10, DL 84/2021).",
+        "motivo": "O art. 18.º DL 24/2014 trata do pagamento por cartão; a não entrega rege-se pelo art. 11.º DL 84/2021.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3471&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "— Ausência de informação obrigatória no sítio eletrónico (identificação do vendedor, política de devolução) é infração ao DL 7/2004.",
+        "para": "— A falta de informação obrigatória no sítio eletrónico é contraordenação: identificação do prestador (arts. 10.º e 37.º DL 7/2004) e informação pré-contratual, incluindo o direito de livre resolução e os custos de devolução (arts. 4.º e 31.º DL 24/2014).",
+        "motivo": "A informação sobre devoluções e livre resolução decorre do DL 24/2014, não do DL 7/2004.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2062&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- Se o vendedor já forneceu formulário de resolução (prazo pode ser alargado para 12 meses)",
+        "para": "- Se o vendedor informou sobre o direito de livre resolução e entregou o formulário (art. 4.º, n.º 1, al. m), DL 24/2014): se não o fez, o prazo passa a ser de 12 meses a contar do termo do prazo inicial de 14 dias; se a informação for prestada nesse período, o consumidor dispõe de 14 dias a contar da sua receção (art. 10.º, n.os 2 e 3, DL 24/2014)",
+        "motivo": "O alargamento resulta da falta da informação (e do formulário), não do seu fornecimento.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2062&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- Art. 10.º: prazo de resolução de 14 dias (ou 12 meses por falta de formulário)",
+        "para": "- Art. 10.º: prazo de livre resolução de 14 dias a contar da posse física do bem (ou de 12 meses após o termo desse prazo, se faltar a informação do art. 4.º, n.º 1, al. m))",
+        "motivo": "Precisar o início do prazo e o pressuposto do alargamento.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2062&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- Art. 13.º: efeitos da resolução — reembolso integral de todos os pagamentos\n- Art. 14.º: prazo de reembolso (14 dias) e proibição de penalizações",
+        "para": "- Art. 11.º: exercício por formulário ou por qualquer declaração inequívoca, enviada dentro do prazo; nulidade das cláusulas que penalizem a resolução ou imponham a renúncia (n.º 7)\n- Art. 12.º: reembolso de todos os pagamentos, incluindo os custos de entrega, em 14 dias e pelo mesmo meio de pagamento; retenção só até à receção do bem ou da prova da sua devolução; devolução em dobro se não cumprir (n.º 6)\n- Art. 13.º: o consumidor devolve o bem em 14 dias e suporta o custo da devolução, salvo se não tiver sido previamente informado desse encargo",
+        "motivo": "Os arts. 13.º e 14.º tratam das obrigações do consumidor e da inspeção do bem; o reembolso está no art. 12.º.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2062&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- Art. 18.º: obrigação de entrega e resolução por não entrega",
+        "para": "- Art. 19.º: execução da encomenda em 30 dias, salvo acordo, e reembolso em 30 dias se o bem estiver indisponível, sob pena de devolução em dobro\n- DL 84/2021, art. 11.º: entrega do bem, prazo adicional e resolução por não entrega",
+        "motivo": "O art. 18.º trata do pagamento por cartão; a execução está no art. 19.º e a não entrega no DL 84/2021.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3471&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- Não entrega: prazo adicional de 5-7 dias úteis e, se não cumprido, resolução imediata",
+        "para": "- Não entrega: interpelar para a entrega num prazo adicional adequado às circunstâncias, indicado em concreto, e, se não for cumprido, resolver o contrato (art. 11.º, n.os 6 e 7, DL 84/2021); resolução imediata só nos casos do n.º 8",
+        "motivo": "A lei exige um prazo adicional adequado, sem fixar dias.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3471&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- Plataforma ODR se vendedor noutro Estado-Membro",
+        "para": "- Vendedor noutro Estado-Membro: Centro Europeu do Consumidor e entidades de resolução alternativa de litígios (a plataforma europeia de resolução de litígios em linha foi descontinuada em 20/07/2025 — Reg. (UE) 2024/3228)",
+        "motivo": "A plataforma ODR foi descontinuada.",
+        "fonte": "https://publications.europa.eu/resource/celex/32024R3228"
+      },
+      {
+        "de": "(art. 10.º ou 18.º DL 24/2014)",
+        "para": "(arts. 10.º e 11.º DL 24/2014 ou art. 11.º, n.os 7 e 8, DL 84/2021)",
+        "motivo": "Base correta da resolução por não entrega.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3471&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "**VI. Aviso de chargeback / reclamação à DGC** se não reembolsado",
+        "para": "**VI. Aviso de chargeback / reclamação no Livro de Reclamações Eletrónico (entidade competente: ASAE) e recurso a entidade de resolução alternativa de litígios** se não reembolsado",
+        "motivo": "A entidade competente para o comércio a retalho é a ASAE, não a DGC.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=737&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- **Formulário de resolução fornecido pela loja?** [sim/não]",
+        "para": "- **Informação sobre o direito de livre resolução e formulário fornecidos pela loja?** [sim/não]",
+        "motivo": "Coerência com o pressuposto do alargamento do prazo.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2062&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Se o vendedor estiver estabelecido fora de Portugal, confirmar a lei aplicável e a entidade de RAL ou o Centro Europeu do Consumidor competente.",
+      "Na não entrega, fixar por escrito um prazo adicional concreto e razoável, e guardar a prova da interpelação.",
+      "Confirmar as condições do chargeback junto do emissor do cartão (prazos contratuais do banco)."
+    ],
+    "fontes": [
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2062&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3471&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1399&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://publications.europa.eu/resource/celex/32024R3228",
+      "https://www2.gov.pt/pt-PT/servicos/resolver-conflitos-de-consumo-atraves-do-centro-europeu-do-consumidor",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=737&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+    ]
+  }
+]

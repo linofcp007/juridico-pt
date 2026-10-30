@@ -6,7 +6,7 @@ titulo_en: "Conversion of a Private Limited Company into a Public Limited Compan
 descricao: "Prepara a deliberação, o relatório de transformação e a documentação completa para transformação de sociedade por quotas em sociedade anónima, ao abrigo dos arts. 130.º a 136.º do CSC (regime geral de transformação), do art. 271.º CSC (requisitos da SA) e das formalidades de registo na Conservatória do Registo Comercial, incluindo a emissão das ações e o direito de exoneração dos sócios discordantes."
 descricao_en: "Prepares the resolution, the conversion report and the full documentation for converting a private limited company (Lda.) into a public limited company (S.A.), under Articles 130 to 136 CSC (general conversion regime), Article 271 CSC (S.A. requirements) and the registration formalities at the Commercial Registry Office, including the issue of shares and the right of withdrawal of dissenting members."
 ambito: nacional
-estado_citacoes: "conferidas 11 · corrigidas 11 · por conferir 2"
+estado_citacoes: "conferidas 11 · corrigidas 9 · por conferir 4"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
@@ -14,7 +14,7 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 
 > **Âmbito:** nacional · **Área:** Direito Comercial e das Sociedades · **Código:** COM-059
 > **EN:** Conversion of a Private Limited Company into a Public Limited Company. Prepares the resolution, the conversion report and the full documentation for converting a private limited company (Lda.) into a public limited company (S.A.), under Articles 130 to 136 CSC (general conversion regime), Article 271 CSC (S.A. requirements) and the registration formalities at the Commercial Registry Office, including the issue of shares and the right of withdrawal of dissenting members.
-> **Citações:** conferidas 11 · corrigidas 11 · por conferir 2. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 11 · corrigidas 9 · por conferir 4. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
 
 Prepara a deliberação, o relatório de transformação e a documentação completa para transformação de sociedade por quotas em sociedade anónima, ao abrigo dos arts. 130.º a 136.º do CSC (regime geral de transformação), do art. 271.º CSC (requisitos da SA) e das formalidades de registo na Conservatória do Registo Comercial, incluindo a emissão das ações e o direito de exoneração dos sócios discordantes.
 
@@ -32,19 +32,19 @@ Ficha de trabalho para preparar este documento. As regras da casa prevalecem sob
 ### ETAPA 1 — PROBLEMATIZAÇÃO
 Dentro de <analise_da_situacao>:
 - Capital social atual e necessidade de adequação ao mínimo da SA (€50.000 — art. 276.º, n.º 5 CSC)
-- Número de accionistas pós-transformação e emissão das ações
-- Estrutura de governação da SA a adoptar: administrador único ou CA + conselho fiscal / ROC
+- Número de acionistas pós-transformação e emissão das ações
+- Estrutura de governação da SA a adotar: administrador único ou CA + conselho fiscal / ROC
 - Direito de exoneração dos sócios discordantes (art. 137.º CSC) e impacto no capital
 - Necessidade de certificação de ROC sobre o capital
-- Acordo parassocial existente — adaptar para acordo de accionistas
+- Acordo parassocial existente — adaptar para acordo de acionistas
 
 ### ETAPA 2 — ANÁLISE JURÍDICA
 Dentro de <fundamentos_juridicos>:
 - Art. 130.º CSC: transformação não extingue a sociedade; mantém a personalidade jurídica, os direitos e as obrigações
 - Art. 133.º CSC: deliberação de transformação — maioria qualificada (3/4 dos votos, salvo estatutos mais exigentes)
-- Art. 132.º CSC: relatório de transformação obrigatório (identificação do tipo a adoptar, efeitos sobre os sócios, capital, estrutura de governação)
+- Art. 132.º CSC: relatório de transformação obrigatório (identificação do tipo a adotar, efeitos sobre os sócios, capital, estrutura de governação)
 - Art. 137.º CSC: direito de exoneração dos sócios discordantes (art. 137.º CSC aplicável)
-- Art. 135.º CSC: escritura de transformação — notarial ou por documento particular autenticado
+- Art. 134.º CSC [■ VERIFICAR: o art. 135.º CSC, que exigia escritura pública para a transformação, foi revogado pelo DL 76-A/2006; confirmar a forma exigida hoje]: escritura de transformação — notarial ou por documento particular autenticado
 - Art. 140.º-A CSC: registo obrigatório na Conservatória
 - Capital mínimo SA: €50.000 (art. 276.º, n.º 5 CSC) — se capital atual da Lda. < €50.000, é necessário aumento simultâneo
 - ROC obrigatório para SA (art. 278.º, n.º 1, al. b) CSC)
@@ -68,7 +68,7 @@ Elaborado pela Gerência de [firma], Lda., NIPC [número], ao abrigo do art. 132
 **1. Identificação da sociedade**
 [firma], Lda., NIPC [número], com sede em [morada], matriculada na Conservatória do Registo Comercial de [Conservatória] sob o n.º [matrícula], capital social de €[X], sócios: [lista].
 
-**2. Tipo a adoptar e justificação**
+**2. Tipo a adotar e justificação**
 A Gerência propõe a transformação em sociedade anónima, por [descrever razões: necessidade de emissão de obrigações / atração de investimento institucional / adequação à dimensão do negócio].
 
 **3. Efeitos sobre os sócios**
@@ -114,7 +114,7 @@ Dentro de <checklist_validacao>:
 - [ ] Maioria qualificada de 3/4 verificada (art. 133.º CSC)
 - [ ] Novos estatutos aprovados com identificação do ROC
 - [ ] Sócios discordantes informados do direito de exoneração (art. 137.º CSC)
-- [ ] Escritura de transformação outorgada (art. 135.º CSC)
+- [ ] Escritura de transformação outorgada (art. 134.º CSC [■ VERIFICAR: o art. 135.º CSC, que exigia escritura pública para a transformação, foi revogado pelo DL 76-A/2006; confirmar a forma exigida hoje])
 - [ ] Registo na Conservatória requerido (art. 140.º-A CSC)
 - [ ] Cláusulas de change of control em contratos existentes verificadas
 - [ ] [■ VERIFICAR] itens sinalizados
@@ -147,7 +147,7 @@ Dentro de <checklist_validacao>:
 | Art. 133.º CSC | corrigida — Quórum deliberativo | o número citado no catálogo não correspondia à epígrafe |
 | Art. 132.º CSC | conferida (epígrafe) — Relatório e convocação |  |
 | Art. 137.º CSC | corrigida — Direito de exoneração dos sócios | o número citado no catálogo não correspondia à epígrafe |
-| Art. 135.º CSC | corrigida — Escritura pública de transformação | o número citado no catálogo não correspondia à epígrafe |
+| Art. 134.º CSC | por conferir [■ VERIFICAR] | o art. 135.º CSC, que exigia escritura pública para a transformação, foi revogado pelo DL 76-A/2006; confirmar a forma exigida hoje |
 | Art. 140.º-A CSC | corrigida — Registo da transformação | o número citado no catálogo não correspondia à epígrafe |
 | art. 278.º, n.º 1, al. b) CSC | conferida (epígrafe) — Estrutura da administração e da fiscalização |  |
 | art. 132.º CSC | conferida (epígrafe) — Relatório e convocação |  |
@@ -159,5 +159,5 @@ Dentro de <checklist_validacao>:
 | art. 130.º do CSC | conferida (epígrafe) — Noção e modalidades |  |
 | art. 133.º CSC | corrigida — Quórum deliberativo | o número citado no catálogo não correspondia à epígrafe |
 | art. 133.º CSC | corrigida — Quórum deliberativo | o número citado no catálogo não correspondia à epígrafe |
-| art. 135.º CSC | corrigida — Escritura pública de transformação | o número citado no catálogo não correspondia à epígrafe |
+| art. 134.º CSC | por conferir [■ VERIFICAR] | o art. 135.º CSC, que exigia escritura pública para a transformação, foi revogado pelo DL 76-A/2006; confirmar a forma exigida hoje |
 | art. 140.º-A CSC | corrigida — Registo da transformação | o número citado no catálogo não correspondia à epígrafe |

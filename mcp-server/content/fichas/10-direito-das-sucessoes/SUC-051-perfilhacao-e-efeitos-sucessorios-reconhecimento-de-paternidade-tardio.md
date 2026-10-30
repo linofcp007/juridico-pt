@@ -53,7 +53,7 @@ Realiza em <calculo_impacto>:
 - Número de filhos antes do reconhecimento e suas quotas
 - Quota do filho recém-reconhecido (igual à dos outros filhos — art. 2139.º CC)
 - Recálculo dos quinhões dos outros herdeiros
-- Valor a restituir por cada co-herdeiro partilhante (proporcional ao recebido)
+- Valor a restituir por cada coerdeiro partilhante (proporcional ao recebido)
 - Articulação com a legítima do cônjuge sobrevivo
 
 ### ETAPA 4 — PETIÇÃO DE HERANÇA
@@ -77,7 +77,7 @@ Apresenta em <checklist_validacao>:
 - [ ] Prazos verificados: caducidade do direito de aceitar a herança — dez anos a contar do conhecimento de ter sido chamado (art. 2059.º, n.º 1, CC); a petição de herança pode ser intentada a todo o tempo, sem prejuízo da usucapião de bens concretos (art. 2075.º CC)
 - [ ] Quota hereditária calculada (igual à dos outros filhos)
 - [ ] Partilha já realizada mapeada (o que cada herdeiro recebeu)
-- [ ] Valor a restituir calculado para cada co-herdeiro
+- [ ] Valor a restituir calculado para cada coerdeiro
 - [ ] [■ VERIFICAR] certidão de óbito e de nascimento do filho reconhecido
 
 ---

@@ -93,7 +93,7 @@ Define:
 | C1 | [descrição] | [data] | € [valor] |
 
 **Bens de classificação duvidosa:**
-[Lista com fundamentação da classificação adoptada e [■ VERIFICAR] se necessário]
+[Lista com fundamentação da classificação adotada e [■ VERIFICAR] se necessário]
 
 **III — MEAÇÃO DO CÔNJUGE SOBREVIVO**
 

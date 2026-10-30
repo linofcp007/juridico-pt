@@ -6,7 +6,8 @@ titulo_en: "Civil Liability of a Private Clinic — Civil Action (Contract and T
 descricao: "Prepara a estratégia e a petição inicial de ação cível de responsabilidade civil contra clínica ou hospital privado por erro médico ou dano resultante de cuidados de saúde, ao abrigo do regime da responsabilidade contratual (arts. 798.º e ss. do CC) e, subsidiariamente, do regime delitual (arts. 483.º e ss. do CC). Aborda a obrigação de meios versus obrigação de resultado, o ónus da prova e a articulação com o seguro de responsabilidade civil profissional."
 descricao_en: "Prepares the strategy and the statement of claim in a civil action against a private clinic or hospital for medical malpractice or damage resulting from healthcare, under the contractual liability regime (Articles 798 et seq. CC) and, in the alternative, the tort regime (Articles 483 et seq. CC). It addresses the obligation of means versus the obligation of result, the burden of proof and the interplay with professional civil liability insurance."
 ambito: nacional
-estado_citacoes: "conferidas 11 · corrigidas 0 · por conferir 0"
+estado_citacoes: "conferidas 17 · corrigidas 0 · por conferir 0"
+revisao_tecnica: "2026-10-30 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
@@ -14,7 +15,8 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 
 > **Âmbito:** nacional · **Área:** Direito da Saúde e Responsabilidade Médica · **Código:** SAU-028
 > **EN:** Civil Liability of a Private Clinic — Civil Action (Contract and Tort). Prepares the strategy and the statement of claim in a civil action against a private clinic or hospital for medical malpractice or damage resulting from healthcare, under the contractual liability regime (Articles 798 et seq. CC) and, in the alternative, the tort regime (Articles 483 et seq. CC). It addresses the obligation of means versus the obligation of result, the burden of proof and the interplay with professional civil liability insurance.
-> **Citações:** conferidas 11 · corrigidas 0 · por conferir 0. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 17 · corrigidas 0 · por conferir 0. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-30 — corrigida (5 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
 Prepara a estratégia e a petição inicial de ação cível de responsabilidade civil contra clínica ou hospital privado por erro médico ou dano resultante de cuidados de saúde, ao abrigo do regime da responsabilidade contratual (arts. 798.º e ss. do CC) e, subsidiariamente, do regime delitual (arts. 483.º e ss. do CC). Aborda a obrigação de meios versus obrigação de resultado, o ónus da prova e a articulação com o seguro de responsabilidade civil profissional.
 
@@ -24,7 +26,7 @@ Ficha de trabalho para preparar este documento. As regras da casa prevalecem sob
 
 ## Regras obrigatórias
 — NUNCA inventes jurisprudência; usa [■ VERIFICAR: tribunal, data, processo].
-— Cita artigos reais do CC, Lei 15/2014 e Lei 31/2018.
+— Cita artigos reais do CC e da Lei 15/2014 (direitos e deveres do utente dos serviços de saúde); a Lei 31/2018 (direitos das pessoas em contexto de doença avançada e em fim de vida) só se o caso respeitar a essa situação.
 — Distingue obrigação de meios (standard da maioria dos atos médicos) de obrigação de resultado (cirurgia estética com fins meramente embelezadores — posição dominante na doutrina e jurisprudência portuguesas).
 — Aborda o regime do art. 800.º CC (responsabilidade do devedor por atos de auxiliares).
 
@@ -42,7 +44,7 @@ Apresenta em <ilicitude_culpa>:
 - Violação das leges artis como fundamento de ilicitude
 - Ónus da prova: recai sobre o doente, em regra; presunção de culpa do devedor na responsabilidade contratual (art. 799.º CC)
 - Documentos e prova pericial para demonstrar o desvio do padrão
-- Inversão do ónus: doutrina da res ipsa loquitur (aplicação jurisprudencial em Portugal)
+- Prova por presunções judiciais / prova de primeira aparência (arts. 349.º e 351.º CC): quando o dano, segundo as regras da experiência, não se explica sem um desvio das leges artis, o tribunal pode inferi-lo; não há inversão do ónus, bastando à clínica a contraprova que torne o facto duvidoso (art. 346.º CC). Inversão do ónus só nos casos do art. 344.º CC, designadamente quando a clínica tenha tornado culposamente impossível a prova ao doente (art. 344.º, n.º 2, CC), por exemplo pela falta ou destruição do processo clínico
 
 ### ETAPA 3 — QUANTIFICAÇÃO DO DANO
 Apresenta em <quantificacao_dano>:
@@ -51,7 +53,7 @@ Apresenta em <quantificacao_dano>:
 - Dano biológico e perda de capacidade funcional
 - Dano não patrimonial (art. 496.º CC) — sofrimento, desgosto, privações
 - Dano por perda de chance de cura ou melhor prognóstico (teoria francesa aplicada em Portugal)
-- Tabela de avaliação do dano corporal (Portaria n.º 377/2008 — orientação não vinculativa)
+- Avaliação médico-legal da incapacidade pela Tabela Nacional para Avaliação de Incapacidades Permanentes em Direito Civil (Anexo II do DL n.º 352/2007); os valores da Portaria n.º 377/2008 (alterada pela Portaria n.º 679/2009), fixados para a proposta razoável das seguradoras no seguro automóvel, servem ao tribunal só como orientação não vinculativa
 
 ### ETAPA 4 — PETIÇÃO INICIAL
 Redige a petição com:
@@ -65,9 +67,9 @@ Apresenta em <checklist>:
 - [ ] Contrato / recibo de pagamento de serviços médicos
 - [ ] Processo clínico completo
 - [ ] Segunda opinião médica que fundamente o erro
-- [ ] Relatório de Junta Médica ou INMLCFlab
+- [ ] Relatório pericial de avaliação do dano corporal (INMLCF — Instituto Nacional de Medicina Legal e Ciências Forenses) ou de junta médica
 - [ ] Apólice de seguro da clínica (identificação da seguradora)
-- [ ] Prazo de prescrição: 20 anos (contratual, art. 309.º CC) — mas verifique se há prazo especial
+- [ ] Prazo de prescrição: 20 anos na responsabilidade contratual (art. 309.º CC); 3 anos na extracontratual, a contar do conhecimento do direito (art. 498.º, n.º 1, CC), ou o prazo mais longo da prescrição do procedimento criminal, se o facto for crime (art. 498.º, n.º 3, CC) — verificar se há prazo especial
 - [ ] [■ VERIFICAR] itens sinalizados
 
 ---
@@ -94,8 +96,14 @@ Apresenta em <checklist>:
 | art. 483.º CC | conferida (índice) |  |
 | arts. 500.º e 800.º CC | conferida (epígrafe) — Responsabilidade do comitente |  |
 | art. 799.º CC | conferida (índice) |  |
+| arts. 349.º e 351.º CC | conferida (epígrafe) — Noção |  |
+| art. 346.º CC | conferida (epígrafe) — Contraprova |  |
+| art. 344.º CC | conferida (epígrafe) — Inversão do ónus da prova |  |
+| art. 344.º, n.º 2, CC | conferida (epígrafe) — Inversão do ónus da prova |  |
 | art. 564.º CC | conferida (epígrafe) — Cálculo da indemnização |  |
 | art. 496.º CC | conferida (epígrafe) — Danos não patrimoniais |  |
 | arts. 798.º, 799.º, 800.º, 483.º, 496.º, 562.º a 566.º CC | conferida (índice) |  |
 | art. 805.º CC | conferida (índice) |  |
 | art. 309.º CC | conferida (índice) |  |
+| art. 498.º, n.º 1, CC | conferida (epígrafe) — Prescrição |  |
+| art. 498.º, n.º 3, CC | conferida (epígrafe) — Prescrição |  |

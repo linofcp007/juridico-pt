@@ -71,7 +71,7 @@ Redige a peça com esta estrutura:
 **AO TRIBUNAL DE 1.ª INSTÂNCIA DE [COMARCA]**
 (Secção de Instrução Criminal / Secção Criminal conforme organização judiciária)
 
-**RECURSO DE CONTRA-ORDENAÇÃO**
+**RECURSO DE CONTRAORDENAÇÃO**
 
 **I. IDENTIFICAÇÃO DAS PARTES**
 - Recorrente: nome/denominação, NIF/NIPC, morada, mandatário

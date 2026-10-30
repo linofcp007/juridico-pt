@@ -1,7 +1,7 @@
 ---
 codigo: BAN-039
 area: "Direito Bancário e dos Mercados"
-titulo: "Resolução Bancária e Medidas de Resolução — Direitos dos Credores e Accionistas"
+titulo: "Resolução Bancária e Medidas de Resolução — Direitos dos Credores e Acionistas"
 titulo_en: "Bank Resolution and Resolution Measures — Rights of Creditors and Shareholders"
 descricao: "Elabora parecer ou peça judicial para defender os direitos de credores, obrigacionistas e acionistas afetados por medidas de resolução aplicadas pelo Banco de Portugal ao abrigo do Regime Geral das Instituições de Crédito e Sociedades Financeiras (RGICSF), cujo regime de resolução foi introduzido pelo Decreto-Lei n.º 31-A/2012 e reformulado pela Lei n.º 23-A/2015 (transposição da BRRD — Diretiva 2014/59/UE), incluindo a impugnação da medida de resolução e da avaliação que a integra, a reclamação de créditos não transferidos, a indemnização NCWO pelo Fundo de Resolução e a responsabilidade do Estado."
 descricao_en: "Prepares an opinion or court pleading defending the rights of creditors, bondholders and shareholders affected by resolution measures applied by the Bank of Portugal under the Legal Framework of Credit Institutions and Financial Companies (RGICSF), whose resolution regime was introduced by Decree-Law No. 31-A/2012 and recast by Law No. 23-A/2015 (transposing the BRRD — Directive 2014/59/EU), including challenges to the resolution measure and the valuation forming part of it, claims for non-transferred liabilities, NCWO compensation from the Resolution Fund and State liability."
@@ -11,7 +11,7 @@ revisao_tecnica: "2026-10-28 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
-# Resolução Bancária e Medidas de Resolução — Direitos dos Credores e Accionistas
+# Resolução Bancária e Medidas de Resolução — Direitos dos Credores e Acionistas
 
 > **Âmbito:** nacional · **Área:** Direito Bancário e dos Mercados · **Código:** BAN-039
 > **EN:** Bank Resolution and Resolution Measures — Rights of Creditors and Shareholders. Prepares an opinion or court pleading defending the rights of creditors, bondholders and shareholders affected by resolution measures applied by the Bank of Portugal under the Legal Framework of Credit Institutions and Financial Companies (RGICSF), whose resolution regime was introduced by Decree-Law No. 31-A/2012 and recast by Law No. 23-A/2015 (transposing the BRRD — Directive 2014/59/EU), including challenges to the resolution measure and the valuation forming part of it, claims for non-transferred liabilities, NCWO compensation from the Resolution Fund and State liability.
@@ -34,7 +34,7 @@ Ficha de trabalho para preparar este documento. As regras da casa prevalecem sob
 ### ETAPA 1 — ANÁLISE DA MEDIDA DE RESOLUÇÃO E DA POSIÇÃO DO CREDOR
 Apresenta dentro de <analise_resolucao>:
 - Tipo de medida aplicada: transferência para banco de transição, venda de atividade, recapitalização interna (bail-in), segregação de ativos
-- Posição do credor/accionista: hierarquia de créditos no bail-in (capital, dívida subordinada, dívida sénior, depósitos não garantidos — com privilégio creditório, primeiro os de pessoas singulares e PME acima de €100.000 e depois os restantes, art. 166.º-A, n.ºs 4 e 5, RGICSF); os depósitos garantidos até €100.000 não podem ser objeto de recapitalização interna (art. 145.º-U, n.º 6, al. a), RGICSF)
+- Posição do credor/acionista: hierarquia de créditos no bail-in (capital, dívida subordinada, dívida sénior, depósitos não garantidos — com privilégio creditório, primeiro os de pessoas singulares e PME acima de €100.000 e depois os restantes, art. 166.º-A, n.ºs 4 e 5, RGICSF); os depósitos garantidos até €100.000 não podem ser objeto de recapitalização interna (art. 145.º-U, n.º 6, al. a), RGICSF)
 - Ativos/passivos transferidos para o banco de transição vs. ativos/passivos não transferidos
 - Avaliação dos ativos: avaliador independente? Metodologia?
 - Aplicação do princípio NCWO — o credor fica melhor ou pior do que na liquidação?
@@ -83,7 +83,7 @@ Apresenta dentro de <fundo_garantia>:
 **CREDOR/INVESTIDOR:**
 - Nome: [nome]
 - NIF: [número]
-- Tipo de relação com o banco: [depositante / obrigacionista / accionista / outro]
+- Tipo de relação com o banco: [depositante / obrigacionista / acionista / outro]
 
 **MEDIDA DE RESOLUÇÃO:**
 - Banco sujeito a resolução: [nome]

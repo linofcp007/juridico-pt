@@ -3,20 +3,22 @@ codigo: PI-022
 area: "Propriedade Intelectual e Industrial"
 titulo: "Cálculo de Indemnização por Violação de Direitos de PI"
 titulo_en: "Calculation of Damages for Infringement of IP Rights"
-descricao: "Elabora o cálculo e a fundamentação jurídica da indemnização devida por violação de direitos de propriedade intelectual (marcas, patentes, direitos de autor), aplicando os critérios alternativos previstos no CPI e no CDADC: lucros cessantes do titular, benefícios indevidos do infrator e royalty hipotética, com exposição do raciocínio de quantificação."
-descricao_en: "Prepares the calculation and legal grounds for the damages due for infringement of intellectual property rights (trade marks, patents, copyright), applying the alternative criteria laid down in the CPI and the CDADC — the right holder's lost profits, the infringer's unjust gains and a hypothetical royalty — and setting out the quantification reasoning."
+descricao: "Elabora o cálculo e a fundamentação jurídica da indemnização devida por violação de direitos de propriedade intelectual (marcas, patentes, direitos de autor), segundo os fatores previstos no CPI e no CDADC — lucro obtido pelo infrator, danos emergentes e lucros cessantes do titular, encargos com a proteção, a investigação e a cessação da conduta e danos não patrimoniais — e, subsidiariamente, a quantia fixa por equidade que tem por base mínima a royalty hipotética, com exposição do raciocínio de quantificação."
+descricao_en: "Prepares the calculation and legal grounds for the damages due for infringement of intellectual property rights (trade marks, patents, copyright), according to the factors laid down in the CPI and the CDADC — the infringer's profits, the right holder's actual loss and lost profits, the costs of protection, investigation and stopping the infringement, and non-pecuniary damage — and, in the alternative, the lump sum fixed on equitable grounds with the hypothetical royalty as its minimum basis, setting out the quantification reasoning."
 ambito: nacional
-estado_citacoes: "conferidas 1 · corrigidas 5 · por conferir 1"
+estado_citacoes: "conferidas 24 · corrigidas 0 · por conferir 0"
+revisao_tecnica: "2026-10-30 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
 # Cálculo de Indemnização por Violação de Direitos de PI
 
 > **Âmbito:** nacional · **Área:** Propriedade Intelectual e Industrial · **Código:** PI-022
-> **EN:** Calculation of Damages for Infringement of IP Rights. Prepares the calculation and legal grounds for the damages due for infringement of intellectual property rights (trade marks, patents, copyright), applying the alternative criteria laid down in the CPI and the CDADC — the right holder's lost profits, the infringer's unjust gains and a hypothetical royalty — and setting out the quantification reasoning.
-> **Citações:** conferidas 1 · corrigidas 5 · por conferir 1. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **EN:** Calculation of Damages for Infringement of IP Rights. Prepares the calculation and legal grounds for the damages due for infringement of intellectual property rights (trade marks, patents, copyright), according to the factors laid down in the CPI and the CDADC — the infringer's profits, the right holder's actual loss and lost profits, the costs of protection, investigation and stopping the infringement, and non-pecuniary damage — and, in the alternative, the lump sum fixed on equitable grounds with the hypothetical royalty as its minimum basis, setting out the quantification reasoning.
+> **Citações:** conferidas 24 · corrigidas 0 · por conferir 0. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-30 — corrigida (12 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
-Elabora o cálculo e a fundamentação jurídica da indemnização devida por violação de direitos de propriedade intelectual (marcas, patentes, direitos de autor), aplicando os critérios alternativos previstos no CPI e no CDADC: lucros cessantes do titular, benefícios indevidos do infrator e royalty hipotética, com exposição do raciocínio de quantificação.
+Elabora o cálculo e a fundamentação jurídica da indemnização devida por violação de direitos de propriedade intelectual (marcas, patentes, direitos de autor), segundo os fatores previstos no CPI e no CDADC — lucro obtido pelo infrator, danos emergentes e lucros cessantes do titular, encargos com a proteção, a investigação e a cessação da conduta e danos não patrimoniais — e, subsidiariamente, a quantia fixa por equidade que tem por base mínima a royalty hipotética, com exposição do raciocínio de quantificação.
 
 ## Método
 
@@ -25,8 +27,8 @@ Ficha de trabalho para preparar este documento. As regras da casa prevalecem sob
 ## Regras obrigatórias
 - NUNCA inventes dados económicos, jurisprudência ou disposições legais inexistentes
 - Se faltarem dados, assinala [■ VERIFICAR: o que é necessário]
-- Aplica os três critérios alternativos do art. 347.º CPI e apresenta o mais favorável ao titular
-- O titular pode optar pelo critério mais favorável — não pode cumular os três
+- Aplica os fatores de cálculo do art. 347.º CPI: lucro obtido pelo infrator, danos emergentes e lucros cessantes do lesado, encargos com a proteção, a investigação e a cessação da conduta, receita resultante da conduta ilícita e danos não patrimoniais
+- Não há escolha livre do titular entre critérios alternativos: o tribunal fixa a indemnização atendendo a esses fatores; a quantia fixa por equidade, com base mínima na royalty hipotética, só cabe se não for possível fixar o prejuízo efetivo e o lesado não se opuser (art. 347.º, n.º 5, CPI); a cumulação de todos ou de alguns dos fatores só é admitida se a conduta for reiterada ou especialmente gravosa (art. 347.º, n.º 6, CPI)
 - Distingue danos patrimoniais (lucros cessantes, royalty hipotética) de danos não patrimoniais (dano à marca/imagem)
 - Apresenta o raciocínio de cálculo passo a passo, com premissas identificadas
 - Assinala as premissas baseadas em estimativas vs. factos verificados
@@ -40,27 +42,29 @@ Apresenta dentro de um bloco <analise_do_caso>:
 - Período da violação: início e fim (ou ainda em curso)
 - Volume estimado da violação: unidades vendidas, receitas geradas pelo infrator
 - Dados disponíveis do titular: margem de lucro, volumes de vendas, royalty habitual
-- Critério mais favorável a priori: lucros cessantes / benefícios do infrator / royalty hipotética
+- Fator de cálculo mais sólido com os dados disponíveis: lucros cessantes / lucro do infrator / royalty hipotética (esta só como base da quantia fixa por equidade do art. 347.º, n.º 5, CPI)
 - Danos não patrimoniais identificáveis: dano à reputação, erosão de marca
 
 ### ETAPA 2 — ANÁLISE JURÍDICA (Fundamentação)
 Apresenta dentro de um bloco <fundamentos_juridicos>:
-- Art. 347.º CPI: responsabilidade civil — critérios de cálculo da indemnização
-  - Critério A: perdas sofridas pelo titular + lucros cessantes
-  - Critério B: benefícios realizados pelo infrator como consequência do ato ilícito
-  - Critério C: royalty hipotética (remuneração que seria devida se a violação tivesse sido autorizada)
-- Art. 211.º CDADC: responsabilidade por violação de direitos de autor (critérios análogos)
-- Art. 347.º CPI, n.º 3: danos não patrimoniais (danos à marca, reputação, imagem)
-- Art. 347.º CPI, n.º 4: critérios complementares (boa-fé do infrator, duração, extensão)
+- Art. 347.º, n.º 1, CPI: dever de indemnizar de quem, com dolo ou mera culpa, viole ilicitamente direito de propriedade industrial ou segredo comercial de outrem
+- Art. 347.º, n.º 2, CPI: fatores a que o tribunal deve atender — lucro obtido pelo infrator, danos emergentes e lucros cessantes do lesado e encargos com a proteção, a investigação e a cessação da conduta lesiva; o n.º 3 manda atender ainda à receita resultante da conduta ilícita
+  - Critério A: danos emergentes e lucros cessantes do titular
+  - Critério B: lucro obtido pelo infrator com o ato ilícito
+  - Critério C (subsidiário): quantia fixa por equidade, se não for possível fixar o prejuízo efetivo e o lesado não se opuser, com base mínima nas remunerações que seriam devidas se a utilização tivesse sido autorizada e nos encargos com a proteção, a investigação e a cessação (art. 347.º, n.º 5, CPI)
+- Art. 211.º CDADC: indemnização por violação de direito de autor ou de direitos conexos, em termos paralelos (o n.º 4 manda atender também às circunstâncias da infração, à gravidade da lesão e ao grau de difusão ilícita da obra ou da prestação)
+- Art. 347.º, n.º 4, CPI: danos não patrimoniais (danos à marca, reputação, imagem)
+- Art. 347.º, n.º 6, CPI: cumulação de todos ou de alguns dos fatores dos n.os 2 a 5, se a conduta for reiterada ou especialmente gravosa
+- Art. 347.º, n.º 7, CPI: quantia razoável, sempre devida, para os custos comprovados de investigação e cessação da conduta lesiva
 - [■ VERIFICAR: jurisprudência portuguesa sobre quantificação de danos em PI]
 
 ### ETAPA 3 — CONSTRUÇÃO ARGUMENTATIVA
 Define em <estrategia>:
-- Apresentação dos três critérios com os dados disponíveis
-- Identificação do critério mais favorável ao titular
+- Apresentação de cada critério com os dados disponíveis
+- Identificação do pedido principal (prejuízo efetivo e lucro do infrator, sem duplicação) e do pedido subsidiário (quantia fixa por equidade — art. 347.º, n.º 5, CPI)
 - Premissas de cálculo com identificação de grau de certeza (facto vs. estimativa)
 - Danos não patrimoniais: fundamentação e quantum razoável
-- Total global: soma de danos patrimoniais + danos não patrimoniais
+- Total global: danos patrimoniais + encargos com a investigação e a cessação da conduta (art. 347.º, n.º 7, CPI) + danos não patrimoniais
 
 ### ETAPA 4 — EXPOSIÇÃO ESTRUTURADA (Cálculo)
 Elabora o cálculo detalhado:
@@ -102,9 +106,10 @@ Lucro indevido do infrator: € [receita] × [X]% = **€ [valor]**
 
 ---
 
-**CRITÉRIO C — ROYALTY HIPOTÉTICA**
+**CRITÉRIO C — ROYALTY HIPOTÉTICA (SUBSIDIÁRIO)**
 
 Premissas:
+- Só se aplica se não for possível fixar o prejuízo efetivo e a parte lesada não se opuser; a royalty é a base mínima da quantia fixa por equidade, à qual acrescem os encargos com a proteção, a investigação e a cessação (art. 347.º, n.º 5, CPI)
 - Taxa de royalty habitual para [tipo de direito] no setor [X]: [Y]% [■ VERIFICAR: comparáveis de mercado]
 - Base de cálculo: [receita total do infrator / unidades vendidas × preço]
 
@@ -113,8 +118,8 @@ Royalty hipotética: € [receita total infrator] × [Y]% = **€ [valor]**
 
 ---
 
-**CRITÉRIO SELECIONADO**
-O critério mais favorável ao titular é o Critério [A / B / C], no montante de **€ [valor]**.
+**MONTANTE PEDIDO**
+Pedido principal: **€ [valor]**, com base no prejuízo efetivo (Critério A) e no lucro do infrator (Critério B), ponderados nos termos do art. 347.º, n.os 2 e 3, CPI, sem duplicação. Pedido subsidiário: **€ [valor]** (Critério C — quantia fixa por equidade, art. 347.º, n.º 5, CPI). [Se a conduta for reiterada ou especialmente gravosa: cumulação dos fatores — art. 347.º, n.º 6, CPI.]
 
 ---
 
@@ -128,22 +133,23 @@ A violação causou os seguintes danos não patrimoniais ao titular:
 
 **TOTAL DA INDEMNIZAÇÃO**
 Danos patrimoniais (Critério [X]): € [valor]
-Danos não patrimoniais: € [valor]
+Encargos com a investigação e a cessação da conduta (art. 347.º, n.º 7, CPI): € [valor] [não somar se já incluídos na quantia fixa do Critério C]
+Danos não patrimoniais (art. 347.º, n.º 4, CPI): € [valor]
 **TOTAL: € [valor]**
 
 Acrescido de juros de mora legais desde a citação.
 
 ---
 
-**NOTA**: Os valores indicados são estimativas baseadas nos dados disponíveis. A quantificação definitiva requer análise dos documentos contabilísticos do infrator, que podem ser obtidos por ordem judicial (art. 338.º-C CPI [■ VERIFICAR: o art. 338.º-C não existe no CPI; a obtenção de documentos do infrator está no art. 339.º CPI]).
+**NOTA**: Os valores indicados são estimativas baseadas nos dados disponíveis. A quantificação definitiva requer análise dos documentos contabilísticos do infrator, que podem ser obtidos por ordem judicial (art. 339.º, n.º 2, CPI, para atos praticados à escala comercial) e pelo pedido de informações sobre quantidades produzidas e vendidas e preços obtidos (art. 344.º, n.º 1, al. b), CPI).
 
 ### ETAPA 5 — FORMULAÇÃO FINAL (Validação)
 Apresenta dentro de um bloco <checklist_validacao>:
-- [ ] Três critérios aplicados e apresentados
-- [ ] Critério mais favorável identificado e justificado
+- [ ] Critérios A e B aplicados e Critério C apresentado como pedido subsidiário (art. 347.º, n.º 5, CPI)
+- [ ] Pedido principal e pedido subsidiário justificados, sem duplicação de fatores (cumulação só nos termos do art. 347.º, n.º 6, CPI)
 - [ ] Premissas de cada critério identificadas com grau de certeza
 - [ ] Danos não patrimoniais considerados e fundamentados
-- [ ] Total global calculado (patrimoniais + não patrimoniais)
+- [ ] Total global calculado (patrimoniais + encargos de investigação e cessação + não patrimoniais)
 - [ ] Juros de mora incluídos (desde citação)
 - [ ] Nota de ressalva sobre necessidade de verificação pericial
 - [ ] Dados verificáveis separados de estimativas
@@ -182,16 +188,33 @@ Apresenta dentro de um bloco <checklist_validacao>:
 - Observações: [qualquer informação relevante]
 
 ## Resultado esperado
-Cálculo detalhado da indemnização com aplicação dos três critérios alternativos do art. 347.º CPI, identificação do critério mais favorável e total global fundamentado.
+Cálculo detalhado da indemnização com aplicação dos fatores do art. 347.º CPI, pedido principal e pedido subsidiário (quantia fixa por equidade do n.º 5) identificados e total global fundamentado.
 
 ## Citações desta ficha
 
 | Citação | Estado | Nota |
 |---|---|---|
-| art. 347.º CPI | corrigida — Indemnização por perdas e danos | o número citado no catálogo não correspondia à epígrafe |
-| art. 347.º CPI | corrigida — Indemnização por perdas e danos | o número citado no catálogo não correspondia à epígrafe |
-| Art. 347.º CPI | corrigida — Indemnização por perdas e danos | o número citado no catálogo não correspondia à epígrafe |
-| Art. 347.º CPI | corrigida — Indemnização por perdas e danos | o número citado no catálogo não correspondia à epígrafe |
-| Art. 347.º CPI | corrigida — Indemnização por perdas e danos | o número citado no catálogo não correspondia à epígrafe |
+| art. 347.º CPI | conferida (epígrafe) — Indemnização por perdas e danos |  |
+| art. 347.º CPI | conferida (epígrafe) — Indemnização por perdas e danos |  |
+| art. 347.º, n.º 5, CPI | conferida (epígrafe) — Indemnização por perdas e danos |  |
+| art. 347.º, n.º 5, CPI | conferida (epígrafe) — Indemnização por perdas e danos |  |
+| art. 347.º, n.º 5, CPI | conferida (epígrafe) — Indemnização por perdas e danos |  |
+| art. 347.º, n.º 5, CPI | conferida (epígrafe) — Indemnização por perdas e danos |  |
+| art. 347.º, n.º 5, CPI | conferida (epígrafe) — Indemnização por perdas e danos |  |
+| art. 347.º, n.º 5, CPI | conferida (epígrafe) — Indemnização por perdas e danos |  |
+| art. 347.º, n.º 5, CPI | conferida (epígrafe) — Indemnização por perdas e danos |  |
+| art. 347.º, n.º 6, CPI | conferida (epígrafe) — Indemnização por perdas e danos |  |
+| art. 347.º, n.º 6, CPI | conferida (epígrafe) — Indemnização por perdas e danos |  |
+| art. 347.º, n.º 6, CPI | conferida (epígrafe) — Indemnização por perdas e danos |  |
+| Art. 347.º, n.º 1, CPI | conferida (epígrafe) — Indemnização por perdas e danos |  |
+| Art. 347.º, n.º 2, CPI | conferida (epígrafe) — Indemnização por perdas e danos |  |
 | Art. 211.º CDADC | conferida (epígrafe) — Indemnização |  |
-| art. 338.º-C CPI | por conferir [■ VERIFICAR] | o art. 338.º-C não existe no CPI; a obtenção de documentos do infrator está no art. 339.º CPI |
+| Art. 347.º, n.º 4, CPI | conferida (epígrafe) — Indemnização por perdas e danos |  |
+| Art. 347.º, n.º 6, CPI | conferida (epígrafe) — Indemnização por perdas e danos |  |
+| Art. 347.º, n.º 7, CPI | conferida (epígrafe) — Indemnização por perdas e danos |  |
+| art. 347.º, n.º 7, CPI | conferida (epígrafe) — Indemnização por perdas e danos |  |
+| art. 347.º, n.º 7, CPI | conferida (epígrafe) — Indemnização por perdas e danos |  |
+| art. 347.º, n.os 2 e 3, CPI | conferida (epígrafe) — Indemnização por perdas e danos |  |
+| art. 347.º, n.º 4, CPI | conferida (epígrafe) — Indemnização por perdas e danos |  |
+| art. 339.º, n.º 2, CPI | conferida (epígrafe) — Medidas para obtenção da prova |  |
+| art. 344.º, n.º 1, al. b), CPI | conferida (epígrafe) — Obrigação de prestar informações |  |

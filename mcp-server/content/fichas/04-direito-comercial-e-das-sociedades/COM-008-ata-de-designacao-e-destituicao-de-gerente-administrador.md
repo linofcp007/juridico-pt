@@ -6,7 +6,7 @@ titulo_en: "Minutes of the Appointment and Removal of a Manager / Director"
 descricao: "Elabora a ata de assembleia geral que delibera sobre a designação de novo gerente/administrador ou a destituição do incumbente, com o racional legal completo, incluindo as consequências da destituição com justa causa e sem justa causa e os requisitos de registo comercial obrigatório."
 descricao_en: "Drafts the minutes of a general meeting resolving on the appointment of a new manager (gerente) or director (administrador) or the removal of the incumbent, with the full legal rationale, including the consequences of removal with and without just cause and the mandatory commercial registration requirements."
 ambito: nacional
-estado_citacoes: "conferidas 24 · corrigidas 1 · por conferir 7"
+estado_citacoes: "conferidas 25 · corrigidas 1 · por conferir 7"
 revisao_tecnica: "2026-10-28 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
@@ -15,7 +15,7 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 
 > **Âmbito:** nacional · **Área:** Direito Comercial e das Sociedades · **Código:** COM-008
 > **EN:** Minutes of the Appointment and Removal of a Manager / Director. Drafts the minutes of a general meeting resolving on the appointment of a new manager (gerente) or director (administrador) or the removal of the incumbent, with the full legal rationale, including the consequences of removal with and without just cause and the mandatory commercial registration requirements.
-> **Citações:** conferidas 24 · corrigidas 1 · por conferir 7. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 25 · corrigidas 1 · por conferir 7. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
 > **Revisão técnica:** 2026-10-28 — corrigida (10 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
 Elabora a ata de assembleia geral que delibera sobre a designação de novo gerente/administrador ou a destituição do incumbente, com o racional legal completo, incluindo as consequências da destituição com justa causa e sem justa causa e os requisitos de registo comercial obrigatório.
@@ -75,7 +75,7 @@ Redija o documento completo:
 
 **[PONTO 1 — DESIGNAÇÃO DE GERENTE / ADMINISTRADOR]** (se aplicável)
 
-Os sócios/accionistas deliberaram designar [nome completo], [nacionalidade], [estado civil], portador do NIF [número], residente em [morada], como gerente da sociedade, em substituição [de [nome anterior] / para o primeiro mandato], com efeitos a partir desta data.
+Os sócios/acionistas deliberaram designar [nome completo], [nacionalidade], [estado civil], portador do NIF [número], residente em [morada], como gerente da sociedade, em substituição [de [nome anterior] / para o primeiro mandato], com efeitos a partir desta data.
 
 O novo gerente fica investido de poderes gerais de administração e representação da sociedade, obrigando a mesma pela sua assinatura individual / em conjunto com [nome] para atos que excedam €[valor]. [■ VERIFICAR: limite de poderes e modo de representação]
 
@@ -181,5 +181,6 @@ Apresente em <checklist_validacao>:
 | art. 257.º, n.º 7 do CSC | conferida (epígrafe) — Destituição de gerentes |  |
 | art. 257.º do CSC | conferida (epígrafe) — Destituição de gerentes |  |
 | art. 3.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 251 CSC | conferida (epígrafe) — Impedimento de voto |  |
 | art. 257.º, n.º 2, CSC | conferida (epígrafe) — Destituição de gerentes |  |
 | art. 257.º, n.º 3, CSC | conferida (epígrafe) — Destituição de gerentes |  |

@@ -6,7 +6,7 @@ titulo_en: "Representation in Succession and Right of Accrual — Analysis and A
 descricao: "Analisa e aplica os institutos da representação sucessória (artigos 2039.º a 2045.º CC) e do direito de acrescer (artigo 2137.º CC, na sucessão legítima, e artigos 2301.º a 2307.º CC, na testamentária), distinguindo os pressupostos de cada um e calculando os quinhões hereditários resultantes da sua aplicação."
 descricao_en: "Analyses and applies the doctrines of representation in succession (representação sucessória, Articles 2039 to 2045 CC) and the right of accrual (direito de acrescer, Article 2137 CC in intestate succession and Articles 2301 to 2307 CC in testate succession), distinguishing the requirements of each and calculating the resulting hereditary shares."
 ambito: nacional
-estado_citacoes: "conferidas 12 · corrigidas 1 · por conferir 2"
+estado_citacoes: "conferidas 13 · corrigidas 0 · por conferir 2"
 revisao_tecnica: "2026-10-28 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
@@ -15,7 +15,7 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 
 > **Âmbito:** nacional · **Área:** Direito das Sucessões · **Código:** SUC-041
 > **EN:** Representation in Succession and Right of Accrual — Analysis and Application. Analyses and applies the doctrines of representation in succession (representação sucessória, Articles 2039 to 2045 CC) and the right of accrual (direito de acrescer, Article 2137 CC in intestate succession and Articles 2301 to 2307 CC in testate succession), distinguishing the requirements of each and calculating the resulting hereditary shares.
-> **Citações:** conferidas 12 · corrigidas 1 · por conferir 2. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 13 · corrigidas 0 · por conferir 2. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
 > **Revisão técnica:** 2026-10-28 — corrigida (6 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
 Analisa e aplica os institutos da representação sucessória (artigos 2039.º a 2045.º CC) e do direito de acrescer (artigo 2137.º CC, na sucessão legítima, e artigos 2301.º a 2307.º CC, na testamentária), distinguindo os pressupostos de cada um e calculando os quinhões hereditários resultantes da sua aplicação.
@@ -43,7 +43,7 @@ Apresenta em <mapeamento_familiar>:
 Explica em <fundamentos_juridicos>:
 - Art. 2039.º CC: pressupostos da representação — o herdeiro ou legatário não pôde ou não quis aceitar (pré-morte, indignidade, deserdação ou repúdio — arts. 2037.º, n.º 2, 2062.º e 2166.º, n.º 2, CC)
 - Art. 2040.º CC [■ VERIFICAR: a representação na linha reta e na colateral está no art. 2042.º CC; confirmar o âmbito na colateral]: a representação dá-se na sucessão legal e na testamentária, com as restrições dos artigos seguintes
-- Art. 2044.º CC: na sucessão legal, a representação tem sempre lugar na linha reta, em benefício dos descendentes de filho, e na colateral, em benefício dos descendentes de irmão, qualquer que seja o grau de parentesco (não só sobrinhos)
+- Art. 2042.º CC: na sucessão legal, a representação tem sempre lugar na linha reta, em benefício dos descendentes de filho, e na colateral, em benefício dos descendentes de irmão, qualquer que seja o grau de parentesco (não só sobrinhos)
 - Art. 2041.º CC [■ VERIFICAR: o art. 2041.º CC admite a representação de quem repudia (ver também o art. 2043.º CC); rever a afirmação]: na sucessão testamentária, representam os descendentes do que faleceu antes do testador ou do que repudiou, salvo se houver substituto designado, fideicomissário ou legado de usufruto ou de outro direito pessoal
 - Art. 2043.º CC: os descendentes representam o ascendente mesmo que tenham repudiado a sucessão deste ou sejam incapazes em relação a ele
 - Art. 2044.º CC: partilha por estirpes — cabe a cada estirpe aquilo em que sucederia o representado, procedendo-se do mesmo modo na subdivisão quando a estirpe compreenda vários ramos
@@ -109,10 +109,10 @@ Apresenta em <checklist_validacao>:
 | arts. 2037.º, n.º 2, 2062.º e 2166.º, n.º 2, CC | conferida (epígrafe) — Efeitos da indignidade |  |
 | Art. 2039.º CC | conferida (epígrafe) — Noção |  |
 | Art. 2040.º CC | por conferir [■ VERIFICAR] | a representação na linha reta e na colateral está no art. 2042.º CC; confirmar o âmbito na colateral |
-| Art. 2044.º CC | corrigida — Partilha | o número citado no catálogo não correspondia à epígrafe |
-| Art. 2044.º CC | conferida (epígrafe) — Partilha |  |
+| Art. 2042.º CC | conferida (epígrafe) — Representação na sucessão legal |  |
 | Art. 2041.º CC | por conferir [■ VERIFICAR] | o art. 2041.º CC admite a representação de quem repudia (ver também o art. 2043.º CC); rever a afirmação |
 | Art. 2043.º CC | conferida (epígrafe) — Representação nos casos de repúdio e incapacidade |  |
+| Art. 2044.º CC | conferida (epígrafe) — Partilha |  |
 | Art. 2301.º CC | conferida (epígrafe) — Direito de acrescer entre herdeiros |  |
 | art. 2302.º CC | conferida (epígrafe) — Direito de acrescer entre legatários |  |
 | Art. 2137.º, n.º 2, CC | conferida (epígrafe) — Ineficácia do chamamento |  |

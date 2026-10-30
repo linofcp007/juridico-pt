@@ -1,0 +1,198 @@
+[
+ {
+  "codigo": "PI-044",
+  "veredicto": "corrigida",
+  "resumo": "A ficha atribuía o direito de reversão por falta de lançamento a um inexistente «art. 2.º-A» da Diretiva 2011/77/UE e descrevia mal o regime: corrigiu-se para o art. 44.º-E CDADC (revogação por falta de exploração, após 5 anos ou um terço da duração) e o art. 183.º-A CDADC (resolução só 50 anos após a publicação do fonograma). Corrigiu-se também o prazo do artista (50 anos após a execução, 70 após a publicação do fonograma), o conteúdo do exclusivo do artista (a comunicação pública de fixações só dá direito a remuneração), a remuneração equitativa descrita como «irrenunciável» (o art. 184.º, n.º 3, divide-a em partes iguais salvo acordo em contrário), a referência à SGAE (entidade espanhola) e à SPA como gestora dos direitos conexos, e a base dos direitos morais do artista (arts. 180.º e 182.º CDADC, não o art. 178.º, n.º 2).",
+  "substituicoes": [
+   {
+    "de": "- Artista intérprete/executante: direito exclusivo de fixação, reprodução, distribuição, aluguer, comunicação pública (art. 178.º CDADC); prazo 70 anos após interpretação fixada",
+    "para": "- Artista intérprete/executante: direito exclusivo de autorizar a fixação e a reprodução da prestação, a sua colocação à disposição do público (streaming, download) e a radiodifusão e comunicação ao público da prestação ao vivo — não quando feitas a partir de uma fixação, caso em que só há direito a remuneração (art. 178.º CDADC); distribuição e aluguer: [■ VERIFICAR: DL n.º 332/97]; prazo: 50 anos após a execução ou, se nesse período a fixação num fonograma for licitamente publicada ou comunicada ao público, 70 anos após a primeira publicação ou comunicação (art. 183.º, n.º 3, CDADC)",
+    "motivo": "O art. 178.º não dá ao artista exclusivo sobre a comunicação pública feita a partir de fixações e não trata da distribuição nem do aluguer; o prazo de 70 anos conta-se da publicação ou comunicação do fonograma, não da fixação.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=484A0183&nid=484&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Remuneração equitativa: direito irrenunciável do artista (e do produtor) pela comunicação pública de fonogramas (art. 184.º CDADC) — gerida pela GDA, SPA, etc.",
+    "para": "- Remuneração equitativa e única, paga pelo utilizador pela comunicação pública de fonogramas (art. 184.º CDADC), a dividir em partes iguais entre o produtor e os artistas, salvo acordo em contrário — para o artista é um direito de remuneração, não um exclusivo de autorização; cobrada por gestão coletiva (GDA para os artistas, AUDIOGEST para os produtores)",
+    "motivo": "O art. 184.º, n.º 3, não qualifica a remuneração como irrenunciável e admite acordo em contrário quanto à repartição; a SPA gere direitos de autor, não estes direitos conexos.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=484A0184&nid=484&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "(SGAE, SPA)",
+    "para": "(em Portugal, gestão coletiva pela SPA)",
+    "motivo": "A SGAE é a entidade de gestão espanhola; em Portugal os direitos de autor musicais são geridos pela SPA, registada na IGAC.",
+    "fonte": "https://www.igac.gov.pt/propriedade-intelectual/entidades-de-gestao-coletiva-de-dado"
+   },
+   {
+    "de": "- Remuneração equitativa: não é objeto de cessão (irrenunciável) — é gerida coletivamente",
+    "para": "- Remuneração equitativa pela comunicação pública: a lei divide-a em partes iguais entre produtor e artistas, salvo acordo em contrário, e não a declara irrenunciável (art. 184.º, n.º 3, CDADC) — excluir expressamente da cessão a quota do artista, cobrada por gestão coletiva (GDA)",
+    "motivo": "Sem base legal para a irrenunciabilidade; o art. 184.º, n.º 3, admite acordo em contrário quanto à repartição.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=484A0184&nid=484&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Obrigação de lançamento: prazo máximo para publicar a gravação (direito de reverso dos artistas — Diretiva 2011/77/UE, art. 2.º-A)",
+    "para": "- Obrigação de lançamento: prazo máximo para publicar a gravação, com reversão dos direitos se não for cumprido (cláusula contratual); na falta dela, a lei permite ao artista revogar a cessão ou licença exclusiva por falta de exploração, decorridos 5 anos do contrato (ou da fixação, se a prestação for futura) ou um terço da sua duração inicial (art. 44.º-E CDADC), e, 50 anos após a publicação do fonograma, resolver o contrato se o produtor não o explorar (art. 183.º-A CDADC, que transpôs a Diretiva 2011/77/UE)",
+    "motivo": "A Diretiva 2011/77/UE não tem art. 2.º-A; o direito de resolução por não exploração está no art. 183.º-A CDADC (Lei n.º 82/2013) e só opera 50 anos após a publicação; a revogação geral por falta de exploração é o art. 44.º-E CDADC (DL n.º 47/2023).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=484A0044E&nid=484&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "[Cessão exclusiva dos direitos de reprodução, distribuição e comunicação pública — excluindo remuneração equitativa (irrenunciável nos termos do art. 184.º CDADC)]",
+    "para": "[Cessão exclusiva dos direitos de fixação, reprodução, distribuição e colocação à disposição do público — excluindo a quota do Artista na remuneração equitativa pela comunicação pública dos fonogramas (art. 184.º, n.º 3, CDADC), que continua a ser cobrada através da GDA]",
+    "motivo": "O artista não tem exclusivo de comunicação pública sobre a prestação fixada (só remuneração) e o art. 184.º não declara a remuneração irrenunciável; a colocação à disposição (streaming) é o direito relevante a ceder.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=484A0178&nid=484&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "[Duração da exclusividade; se o Produtor não lançar o fonograma no prazo de [X] anos, o Artista pode notificar e, decorrido 1 ano sem lançamento, os direitos revertem (Diretiva 2011/77/UE, art. 2.º-A, transposto)]",
+    "para": "[Duração da exclusividade; se o Produtor não lançar o fonograma no prazo de [X] anos, o Artista pode notificá-lo e, decorrido [prazo] sem lançamento, os direitos revertem — cláusula contratual, que pode ser mais favorável ao Artista do que a lei (art. 44.º-E CDADC: revogação por falta de exploração só após 5 anos do contrato ou um terço da sua duração inicial, mediante notificação escrita com prazo não inferior a 6 meses); a resolução do art. 183.º-A CDADC (1 ano após a notificação) só opera 50 anos após a publicação do fonograma]",
+    "motivo": "O mecanismo de notificação e 1 ano sem exploração é o do art. 183.º-A CDADC e só se aplica 50 anos após a publicação; antes disso vale o art. 44.º-E CDADC, que admite cláusulas mais favoráveis (n.º 9).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=484A0183A&nid=484&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "[Integridade da interpretação — art. 178.º, n.º 2, CDADC; identificação do artista]",
+    "para": "[Integridade da interpretação — proibição de utilizações que deformem, mutilem ou desfigurem a prestação ou atinjam o Artista na honra ou reputação (art. 182.º CDADC); identificação do Artista em toda a divulgação, salvo convenção em contrário (art. 180.º CDADC)]",
+    "motivo": "O art. 178.º, n.º 2, trata da remuneração pela fixação audiovisual para radiodifusão; a integridade da prestação está no art. 182.º e a identificação do artista no art. 180.º.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=484A0182&nid=484&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Remuneração equitativa excluída da cessão (irrenunciável)",
+    "para": "- [ ] Quota do artista na remuneração equitativa expressamente excluída da cessão",
+    "motivo": "A remuneração não é declarada irrenunciável por lei; a exclusão resulta do contrato.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=484A0184&nid=484&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar o prazo dos direitos do produtor de fonogramas: o texto consolidado do art. 183.º CDADC na PGDL só refere, no n.º 1, alínea b), o videograma ou filme e dá o n.º 4 (aditado pela Lei n.º 82/2013) como revogado; a Diretiva 2006/116/CE, art. 3.º, n.º 2, fixa 50 anos após a fixação ou 70 anos após a publicação ou comunicação lícita.",
+   "Confirmar no DL n.º 332/97 o direito de distribuição e de aluguer do artista e do produtor (presunção de cessão do aluguer ao produtor e remuneração equitativa).",
+   "Confirmar a remuneração suplementar anual do artista (20 % das receitas do produtor) após 50 anos, no art. 183.º-A, n.os 4 a 7, CDADC, se o caso envolver fonogramas antigos.",
+   "Para contratos de cessão ou licença do artista, ter em conta a remuneração adequada e proporcionada (art. 44.º-A CDADC) e o dever de informação e a remuneração adicional (arts. 44.º-B e 44.º-C CDADC), que o art. 44.º-F CDADC declara imperativos."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=484A0178&nid=484&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=484A0180&nid=484&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=484A0182&nid=484&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=484A0183&nid=484&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=484A0183A&nid=484&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=484A0184&nid=484&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=484A0044E&nid=484&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.igac.gov.pt/propriedade-intelectual/entidades-de-gestao-coletiva-de-dado",
+   "https://diariodarepublica.pt/dr/detalhe/lei/82-2013-484122"
+  ]
+ },
+ {
+  "codigo": "PI-047",
+  "veredicto": "corrigida",
+  "resumo": "A ficha dava a ratificação portuguesa do Acordo UPC como «em curso»: Portugal ratificou-o em 2015 e o Acordo vigora em Portugal desde 1/6/2023. O período transitório de tradução era de «3 anos» (é de até 12 anos, art. 6.º do Reg. 1260/2012), o UPC aparecia com competência exclusiva «após opt-out» (é o contrário) e o opt-out não ressalvava que não existe para patentes unitárias. Corrigiram-se ainda o âmbito territorial da patente unitária (fixado na data do registo: 17 ou 18 Estados), a língua do processo (art. 49.º do Acordo) e a base da repartição de custas (art. 69.º do Acordo).",
+  "substituicoes": [
+   {
+    "de": "— Nota: Portugal aderiu ao Acordo UPC (ratificação em curso — [■ VERIFICAR estado atual da ratificação por Portugal]).",
+    "para": "— Nota: Portugal é Parte no Acordo UPC (aprovado pela Resolução da Assembleia da República n.º 108/2015 e ratificado pelo Decreto do Presidente da República n.º 90/2015), que vigora em Portugal desde 1 de junho de 2023; Portugal acolhe uma divisão local do UPC.",
+    "motivo": "A ratificação não está em curso: o Acordo entrou em vigor em Portugal em 1/6/2023 (Aviso n.º 52/2024/1).",
+    "fonte": "https://files.diariodarepublica.pt/1s/2024/12/23800/0001200014.pdf"
+   },
+   {
+    "de": "- Patente Unitária (UP): efeito unitário em todos os Estados-Membros participantes após concessão pelo EPO",
+    "para": "- Patente Unitária (UP): efeito unitário, registado pelo EPO a pedido do titular após a concessão, nos Estados-Membros participantes em que o Acordo UPC já vigorava na data do registo — a cobertura fica fixada nesse momento e não se alarga com ratificações posteriores (art. 18.º, n.º 2, do Reg. (UE) n.º 1257/2012)",
+    "motivo": "O efeito unitário só abrange os Estados em que o UPC tinha competência exclusiva à data do registo, não todos os Estados participantes na cooperação reforçada.",
+    "fonte": "https://publications.europa.eu/resource/celex/32012R1257"
+   },
+   {
+    "de": "- Tribunal Unificado de Patentes (UPC): competência exclusiva (após opt-out) para ações de contrafação e invalidade de patentes europeias e patentes unitárias nos Estados-Membros participantes",
+    "para": "- Tribunal Unificado de Patentes (UPC): competência exclusiva para ações de contrafação e invalidade de patentes europeias e patentes unitárias nos Estados-Membros Contratantes (art. 32.º do Acordo UPC), sem prejuízo, para as patentes europeias clássicas, do regime transitório (art. 83.º do Acordo UPC)",
+    "motivo": "O opt-out afasta a competência do UPC; não é condição dela.",
+    "fonte": "https://publications.europa.eu/resource/celex/42013A0620(01)"
+   },
+   {
+    "de": "- Período de transição: 7 anos (até ~junho de 2030) — durante os quais as patentes europeias clássicas podem ser submetidas ao UPC OU opt-out para manter exclusividade dos tribunais nacionais",
+    "para": "- Período de transição: 7 anos a contar de 1 de junho de 2023 (até 2030), prorrogável pelo Comité Administrativo até mais 7 anos (art. 83.º, n.os 1 e 5, do Acordo UPC) — durante esse período, as ações relativas a patentes europeias clássicas podem continuar a ser intentadas nos tribunais nacionais, e o titular pode fazer opt-out para afastar a competência do UPC",
+    "motivo": "No período transitório os tribunais nacionais mantêm competência mesmo sem opt-out, e o período pode ser prorrogado.",
+    "fonte": "https://publications.europa.eu/resource/celex/42013A0620(01)"
+   },
+   {
+    "de": "- Opt-out: mecanismo pelo qual o titular retira a patente da competência do UPC (registo no UPC Registry)",
+    "para": "- Opt-out: mecanismo pelo qual o titular ou requerente de uma patente europeia clássica (ou o titular de um certificado complementar de proteção nela baseado) afasta a competência exclusiva do UPC, por notificação à Secretaria até um mês antes do termo do período transitório; não é possível se já tiver sido intentada ação no UPC e não existe para patentes com efeito unitário; pode ser retirado, salvo se já houver ação num tribunal nacional (art. 83.º, n.os 3 e 4, do Acordo UPC)",
+    "motivo": "O opt-out só existe para patentes europeias sem efeito unitário e tem limites temporais e processuais.",
+    "fonte": "https://publications.europa.eu/resource/celex/42013A0620(01)"
+   },
+   {
+    "de": "- Custo: uma anuidade única (substancialmente inferior à soma das anuidades nacionais para cobertura de 17+ países)",
+    "para": "- Custo: uma anuidade única (substancialmente inferior à soma das anuidades nacionais para cobertura de 18 países — 17 nas patentes unitárias registadas antes de 1 de setembro de 2024)",
+    "motivo": "Com a Roménia (1/9/2024) são 18 Estados; as patentes unitárias registadas antes cobrem 17.",
+    "fonte": "https://www.epo.org/en/applying/european/unitary/unitary-patent/start"
+   },
+   {
+    "de": "- Simplicidade: sem obrigação de tradução para a maioria dos países (exceto 3 anos transitórios)",
+    "para": "- Simplicidade: sem traduções por país; durante o período transitório (iniciado em 1 de junho de 2023, com primeira avaliação ao fim de 6 anos e termo, no máximo, 12 anos após essa data), o pedido de efeito unitário tem de ser acompanhado de uma tradução integral para inglês (se a língua do processo no EPO for o francês ou o alemão) ou para outra língua oficial da UE (se for o inglês), com valor meramente informativo (art. 6.º do Reg. (UE) n.º 1260/2012)",
+    "motivo": "O período transitório não é de 3 anos: caduca 12 anos após a data de aplicação, salvo termo antecipado por proposta da Comissão.",
+    "fonte": "https://publications.europa.eu/resource/celex/32012R1260"
+   },
+   {
+    "de": "- Língua do processo: língua da Divisão Local ou inglês (acordos por partes)",
+    "para": "- Língua do processo: na divisão local ou regional, a língua oficial do Estado que a acolhe ou a(s) língua(s) do EPO que este designou; as partes podem acordar, sob reserva de aprovação, na língua em que a patente foi concedida; na divisão central, a língua da patente (art. 49.º do Acordo UPC)",
+    "motivo": "O acordo das partes incide sobre a língua de concessão da patente, não sobre o inglês em geral; a divisão central usa a língua da patente.",
+    "fonte": "https://publications.europa.eu/resource/celex/42013A0620(01)"
+   },
+   {
+    "de": "- Custas: taxa de tribunal + honorários de advogado; regra geral: vencido paga (rule 152 UPC RoP)",
+    "para": "- Custas: custas judiciais (art. 70.º do Acordo UPC) e despesas de representação; regra geral, a parte vencida suporta as custas e os encargos razoáveis e proporcionados da vencedora, até ao limite máximo fixado nos termos do Regulamento de Processo (art. 69.º do Acordo UPC) [■ VERIFICAR: regras de custas do Regulamento de Processo (Rules 150 e ss.) e tabela de limites em vigor]",
+    "motivo": "A regra de que o vencido paga, com limite máximo, está no art. 69.º do Acordo; a Rule 152 não foi confirmada.",
+    "fonte": "https://publications.europa.eu/resource/celex/42013A0620(01)"
+   },
+   {
+    "de": "- [ ] Status de Portugal no Acordo UPC verificado (ratificação)",
+    "para": "- [ ] Cobertura territorial confirmada por patente (Estados em que o Acordo UPC vigorava na data do registo do efeito unitário; Portugal participa desde 1 de junho de 2023)",
+    "motivo": "A ratificação portuguesa não está pendente; o que importa verificar é a geração da patente unitária.",
+    "fonte": "https://www.epo.org/en/applying/european/unitary/unitary-patent/start"
+   },
+   {
+    "de": "- [ ] [■ VERIFICAR] estado atual do UPC e de Portugal",
+    "para": "- [ ] [■ VERIFICAR] novas ratificações do Acordo UPC e regras e tabelas de custas em vigor",
+    "motivo": "Portugal já participa; o que pode mudar são as ratificações e as tabelas.",
+    "fonte": "https://files.diariodarepublica.pt/1s/2024/12/23800/0001200014.pdf"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar no Regulamento de Processo do UPC (site oficial inacessível nesta revisão) as Rules citadas: 206-213 (medidas provisórias), o prazo de 3 meses para a contestação (Rule 23) e as regras de custas (Rules 150 e ss.).",
+   "Confirmar a sede e as secções da divisão central (Paris, Munique e Milão) e a língua admitida na divisão local de Lisboa.",
+   "Confirmar se a Comissão propôs o termo antecipado do período transitório de tradução (primeira avaliação prevista para 2029)."
+  ],
+  "fontes": [
+   "https://files.diariodarepublica.pt/1s/2024/12/23800/0001200014.pdf",
+   "https://portugal.gov.pt/gc23/comunicacao/noticias/patente-europeia-com-efeito-unitario-entra-hoje-em-vigor",
+   "https://www.epo.org/en/applying/european/unitary/unitary-patent/start",
+   "https://www.epo.org/en/applying/european/unitary/unitary-patent",
+   "https://publications.europa.eu/resource/celex/32012R1257",
+   "https://publications.europa.eu/resource/celex/32012R1260",
+   "https://publications.europa.eu/resource/celex/42013A0620(01)"
+  ]
+ },
+ {
+  "codigo": "PI-048",
+  "veredicto": "corrigida",
+  "resumo": "A descrição do índice indicava a Lei n.º 93/2021 (regime de proteção de denunciantes) como base, quando os segredos comerciais estão nos arts. 313.º e ss. do CPI; corrigiu-se a descrição PT e EN. No corpo, o item sobre software assumia que o target só é titular com contratos de cessão assinados pelos criadores: pelo art. 3.º, n.º 3, do DL n.º 252/94, o programa criado por trabalhadores no exercício das funções ou por encomenda pertence ao destinatário, salvo estipulação em contrário; ajustou-se o item e o exemplo de risco crítico.",
+  "descricao": "Elabora o plano e o relatório de due diligence de propriedade intelectual numa operação de fusão ou aquisição (M&A), abrangendo o mapeamento e a avaliação de marcas, patentes, direitos de autor, segredos comerciais, contratos de PI e riscos de terceiros, ao abrigo do CPI (DL n.º 110/2018, incluindo os segredos comerciais dos artigos 313.º a 316.º), do CDADC e do DL n.º 252/94 (programas de computador).",
+  "descricao_en": "Prepares the plan and report for intellectual property due diligence in a merger or acquisition (M&A), covering the mapping and valuation of trade marks, patents, copyright, trade secrets, IP contracts and third-party risks, under the CPI (Decree-Law No. 110/2018, including trade secrets in Articles 313 to 316), the CDADC and Decree-Law No. 252/94 (computer programs).",
+  "substituicoes": [
+   {
+    "de": "- [ ] Software desenvolvido internamente: contratos de cessão assinados pelos criadores?",
+    "para": "- [ ] Software desenvolvido internamente: o criado por trabalhadores no exercício das funções ou por encomenda pertence ao destinatário, salvo estipulação em contrário ou se outra coisa resultar das finalidades do contrato (art. 3.º, n.º 3, do DL n.º 252/94) — contratos de trabalho e de prestação de serviços revistos? Há cláusulas em contrário, código escrito por fundadores antes da constituição ou por entidades do grupo?",
+    "motivo": "Em direito português a titularidade do software criado por trabalhadores ou por encomenda resulta da lei, salvo estipulação em contrário; a falta de cessão não é, por si, o risco.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=152A0003&nid=152&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "— Ex.: software sem cessão de direitos do criador original; patente central em oposição EPO",
+    "para": "— Ex.: software core sem título do target (criado por fundadores antes da constituição, por terceiros sem relação de trabalho ou de encomenda, ou com estipulação em contrário); patente central em oposição EPO",
+    "motivo": "Alinha o exemplo de risco crítico com o art. 3.º, n.º 3, do DL n.º 252/94.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=152A0003&nid=152&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Licenças e transmissões de marcas e patentes: confirmar o averbamento no INPI, sem o qual não produzem efeitos perante terceiros (art. 29.º CPI).",
+   "Pactos de não concorrência de ex-trabalhadores: confirmar a validade à luz do art. 136.º CT (forma escrita, duração e compensação).",
+   "Obras encomendadas que não sejam software: a titularidade segue o art. 14.º CDADC (na falta de convenção, presume-se do criador intelectual) e a transmissão total exige a forma do art. 44.º CDADC."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=152A0003&nid=152&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0313&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0029&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+  ]
+ }
+]

@@ -11,7 +11,7 @@
 - **Regulamento (UE) 2024/886** (transferências imediatas): **verificação do beneficiário** (nome ↔ IBAN) obrigatória e gratuita desde 09/10/2025
 - **Regulamento (UE) 260/2012** (SEPA): transferências e débitos diretos em euros
 - **Crédito aos consumidores**: DL 133/2009. A nova Diretiva (UE) 2023/2225 aplica-se a partir de 20/11/2026 — estado da transposição portuguesa (a confirmar)
-- **Crédito à habitação e crédito com garantia imobiliária** a consumidores: DL 74-A/2017
+- **Crédito à habitação e crédito com garantia imobiliária** a consumidores: DL 74-A/2017 (alterado por último pelo DL 103/2025 e pela Lei 14/2026). **Direito ao esquecimento** no crédito e nos seguros associados: Lei 75/2021 (alterada pela Lei 14/2026), regulamentada pelo DL 79/2026, que também alterou o art. 15.º-A LCS (DL 72/2008)
 - **PARI / PERSI** — prevenção e regularização do incumprimento de clientes bancários: DL 227/2012
 - **Contas e comissões**: DL 27-C/2000 (serviços mínimos bancários); DL 107/2017 (contas de pagamento — comparabilidade de comissões, mudança de conta) (a confirmar); Lei 57/2020 (proteção do consumidor de serviços financeiros — comissões)
 - **Venda de créditos bancários** a terceiros e gestores de créditos: DL 103/2025
@@ -62,7 +62,7 @@
   - ⏰ **Livre revogação: 14 dias** de calendário, sem motivo, desde a celebração ou da receção do contrato (art. 17.º); devolver capital e juros em 30 dias
   - **Reembolso antecipado** a todo o tempo com pré-aviso mínimo de 30 dias; comissão só em taxa fixa, com teto legal em percentagem do capital (art. 19.º)
   - **Usura**: TAEG máximas por tipo de crédito, divulgadas **trimestralmente** pelo Banco de Portugal; o excesso reduz-se automaticamente (art. 28.º)
-- **Crédito à habitação** (DL 74-A/2017): Ficha de Informação Normalizada Europeia (FINE); **período de reflexão** de 7 dias antes de aceitar a proposta (art. 13.º, n.º 5); **reembolso antecipado** com pré-aviso (7 dias úteis parcial / 10 dias úteis total) e comissão máxima em percentagem do capital, conforme taxa variável ou fixa; isento em caso de morte, desemprego ou deslocação profissional (art. 23.º). Medidas temporárias de apoio ao aumento das taxas: confirmar vigência (a confirmar)
+- **Crédito à habitação** (DL 74-A/2017): Ficha de Informação Normalizada Europeia (FINE); **período de reflexão** de 7 dias antes de aceitar a proposta (art. 13.º, n.º 5); **reembolso antecipado** com pré-aviso (7 dias úteis parcial / 10 dias úteis total) e comissão máxima em percentagem do capital, conforme taxa variável ou fixa; isento em caso de morte, desemprego ou deslocação profissional (art. 23.º). **Seguro de vida** exigido pelo banco: só pode exigir a cobertura de morte; o mutuário pode substituí-lo por hipoteca sobre outro imóvel, fiança ou outra garantia legal, ou contratá-lo noutra seguradora com garantia equivalente (art. 11.º, n.ºs 7 e 8, DL 74-A/2017, na redação da Lei 14/2026). Medidas temporárias de apoio ao aumento das taxas: confirmar vigência (a confirmar)
 - Garantias pessoais pedidas pelo banco (fiança, aval, livrança): ver `references/garantias.md`
 
 ## PERSI — clientes bancários em dificuldades (DL 227/2012)

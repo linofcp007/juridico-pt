@@ -6,7 +6,8 @@ titulo_en: "Plea of Procedural Nullity"
 descricao: "Gera o requerimento de arguição de nulidade processual, nos termos dos arts. 195.º a 202.º do CPC, para invocação de atos processuais praticados de forma irregular que possam influir no exame ou na decisão da causa, requerendo a sua declaração e a reparação do vício."
 descricao_en: "Generates the application raising a procedural nullity, under Articles 195 to 202 CPC, invoking procedural acts carried out irregularly that may influence the examination or decision of the case, seeking a declaration of nullity and the remedying of the defect."
 ambito: nacional
-estado_citacoes: "conferidas 11 · corrigidas 1 · por conferir 1"
+estado_citacoes: "conferidas 27 · corrigidas 1 · por conferir 0"
+revisao_tecnica: "2026-10-30 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
@@ -14,7 +15,8 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 
 > **Âmbito:** nacional · **Área:** Processo Civil e Contencioso · **Código:** PRC-033
 > **EN:** Plea of Procedural Nullity. Generates the application raising a procedural nullity, under Articles 195 to 202 CPC, invoking procedural acts carried out irregularly that may influence the examination or decision of the case, seeking a declaration of nullity and the remedying of the defect.
-> **Citações:** conferidas 11 · corrigidas 1 · por conferir 1. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 27 · corrigidas 1 · por conferir 0. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-30 — corrigida (4 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
 Gera o requerimento de arguição de nulidade processual, nos termos dos arts. 195.º a 202.º do CPC, para invocação de atos processuais praticados de forma irregular que possam influir no exame ou na decisão da causa, requerendo a sua declaração e a reparação do vício.
 
@@ -26,10 +28,10 @@ Ficha de trabalho para preparar este documento. As regras da casa prevalecem sob
 - Usa SEMPRE português europeu (pt-PT). Nunca brasileirismos.
 - Nunca inventes jurisprudência ou artigos inexistentes
 - Sinaliza [■ VERIFICAR: o que é necessário] se faltarem dados
-- Distingue: nulidade principal (cominada por lei — arts. 186.º e ss. CPC) vs nulidade secundária (irregularidade que influencia a decisão — art. 195.º CPC)
-- Nulidades de conhecimento oficioso: citação nula (art. 191.º CPC), falta de mandatário (art. 24.º CPC [■ VERIFICAR: o art. 24.º CPC trata da representação do Estado; a falta de advogado está no art. 41.º CPC; confirmar])
-- Prazo: 10 dias após notificação ou no próprio ato se presente (art. 199.º CPC)
-- A nulidade secundária sana se não for arguida em prazo (art. 196.º CPC)
+- Distingue: nulidades principais ou típicas (arts. 186.º a 194.º CPC) vs nulidades secundárias (art. 195.º, n.º 1, CPC: a prática de ato que a lei não admita, ou a omissão de ato ou formalidade que a lei prescreva, só produz nulidade quando a lei o declare ou quando a irregularidade possa influir no exame ou na decisão da causa)
+- Nulidades de conhecimento oficioso (art. 196.º CPC): ineptidão da petição inicial (art. 186.º CPC), falta de citação (art. 187.º CPC), nulidade da citação edital ou sem indicação de prazo para a defesa (art. 191.º, n.º 2, segunda parte, CPC), erro na forma do processo (art. 193.º CPC) e falta de vista ou exame ao Ministério Público (art. 194.º CPC). Fora destes casos, a nulidade da citação (art. 191.º CPC) é arguida pelo citado no prazo indicado para a contestação (art. 191.º, n.º 2, CPC) e só é atendida se a falta puder prejudicar a defesa (art. 191.º, n.º 4, CPC). A falta de constituição de advogado, quando obrigatória, não é nulidade processual: o juiz, oficiosamente ou a requerimento, manda notificar a parte para o constituir em prazo certo (art. 41.º CPC)
+- Prazo das nulidades secundárias: 10 dias (art. 149.º, n.º 1, CPC), contados do dia em que a parte, depois de cometida a nulidade, interveio em algum ato do processo ou foi notificada para qualquer termo dele, quando deva presumir-se que então tomou conhecimento da nulidade ou dela pudesse conhecer com a devida diligência; se estiver presente no ato, por si ou por mandatário, pode argui-la enquanto o ato não terminar (art. 199.º, n.º 1, CPC). As nulidades principais têm momentos próprios (art. 198.º CPC)
+- Das nulidades secundárias o tribunal só conhece sob reclamação do interessado (art. 196.º CPC); se não forem arguidas em tempo, ficam sanadas
 
 ---
 
@@ -38,7 +40,7 @@ Ficha de trabalho para preparar este documento. As regras da casa prevalecem sob
 ### ETAPA 1 — PROBLEMATIZAÇÃO
 Analisa em <analise_do_caso>:
 - Qual o ato ou omissão irregular?
-- É nulidade principal (cominada por lei) ou secundária?
+- É nulidade principal (arts. 186.º a 194.º CPC) ou secundária (art. 195.º CPC)?
 - A nulidade pode influir no exame ou decisão da causa?
 - O prazo de arguição não decorreu?
 - A nulidade pode ser sanada?
@@ -47,8 +49,8 @@ Analisa em <analise_do_caso>:
 Identifica em <fundamentos_juridicos>:
 - Arts. 186.º a 202.º CPC — regime das nulidades processuais
 - Art. 195.º CPC — nulidade secundária (irregularidade que influencia a decisão)
-- Art. 196.º CPC — sanação por falta de arguição
-- Art. 199.º CPC — prazo de arguição
+- Art. 196.º CPC — nulidades de conhecimento oficioso; das restantes o tribunal só conhece sob reclamação, ficando sanadas se não forem arguidas em tempo
+- Art. 199.º CPC — prazo de arguição (momentos das nulidades principais no art. 198.º CPC; prazo geral de 10 dias do art. 149.º, n.º 1, CPC)
 - Norma específica que foi violada pelo ato irregular
 
 ### ETAPA 3 — CONSTRUÇÃO
@@ -79,8 +81,8 @@ pelos seguintes motivos:"
 [Como o vício afeta a defesa ou a posição processual da parte]
 
 **4. DO PRAZO**
-"O presente requerimento é apresentado dentro do prazo de 10 dias previsto
-no art. 199.º, n.º 1 do CPC, uma vez que a parte foi notificada do ato em [data]."
+"O presente requerimento é apresentado dentro do prazo de 10 dias (art. 149.º, n.º 1, do CPC),
+contado nos termos do art. 199.º, n.º 1 do CPC, uma vez que a parte foi notificada em [data] de [ato ou termo do processo], momento em que tomou conhecimento da nulidade."
 
 **5. DO PEDIDO**
 "Nestes termos, requer a V. Exa. se digne:
@@ -129,16 +131,31 @@ Apresenta em <checklist_validacao>:
 
 | Citação | Estado | Nota |
 |---|---|---|
-| arts. 186.º e ss. CPC | conferida (epígrafe) — Ineptidão da petição inicial |  |
-| art. 195.º CPC | conferida (epígrafe) — Regras gerais sobre a nulidade dos atos |  |
-| art. 191.º CPC | conferida (epígrafe) — Nulidade da citação |  |
-| art. 24.º CPC | por conferir [■ VERIFICAR] | o art. 24.º CPC trata da representação do Estado; a falta de advogado está no art. 41.º CPC; confirmar |
-| art. 199.º CPC | conferida (epígrafe) — Regra geral sobre o prazo da arguição |  |
+| arts. 186.º a 194.º CPC | conferida (epígrafe) — Ineptidão da petição inicial |  |
+| arts. 186.º a 194.º CPC | conferida (epígrafe) — Ineptidão da petição inicial |  |
+| art. 195.º, n.º 1, CPC | conferida (epígrafe) — Regras gerais sobre a nulidade dos atos |  |
 | art. 196.º CPC | conferida (epígrafe) — Nulidades de que o tribunal conhece oficiosamente |  |
+| art. 196.º CPC | conferida (epígrafe) — Nulidades de que o tribunal conhece oficiosamente |  |
+| art. 186.º CPC | conferida (epígrafe) — Ineptidão da petição inicial |  |
+| art. 187.º CPC | conferida (epígrafe) — Anulação do processado posterior à petição |  |
+| art. 191.º, n.º 2, segunda parte, CPC | conferida (epígrafe) — Nulidade da citação |  |
+| art. 193.º CPC | conferida (epígrafe) — Erro na forma do processo ou no meio processual |  |
+| art. 194.º CPC | conferida (epígrafe) — Falta de vista ou exame ao Ministério Público como parte acessória |  |
+| art. 191.º CPC | conferida (epígrafe) — Nulidade da citação |  |
+| art. 191.º, n.º 2, CPC | conferida (epígrafe) — Nulidade da citação |  |
+| art. 191.º, n.º 4, CPC | conferida (epígrafe) — Nulidade da citação |  |
+| art. 41.º CPC | conferida (epígrafe) — Falta de constituição de advogado |  |
+| art. 149.º, n.º 1, CPC | conferida (epígrafe) — Regra geral sobre o prazo |  |
+| art. 149.º, n.º 1, CPC | conferida (epígrafe) — Regra geral sobre o prazo |  |
+| art. 199.º, n.º 1, CPC | conferida (epígrafe) — Regra geral sobre o prazo da arguição |  |
+| art. 198.º CPC | conferida (epígrafe) — Até quando podem ser arguidas as nulidades principais |  |
+| art. 198.º CPC | conferida (epígrafe) — Até quando podem ser arguidas as nulidades principais |  |
+| art. 195.º CPC | conferida (epígrafe) — Regras gerais sobre a nulidade dos atos |  |
 | Arts. 186.º a 202.º CPC | conferida (epígrafe) — Ineptidão da petição inicial |  |
 | Art. 195.º CPC | conferida (epígrafe) — Regras gerais sobre a nulidade dos atos |  |
 | Art. 196.º CPC | conferida (epígrafe) — Nulidades de que o tribunal conhece oficiosamente |  |
 | Art. 199.º CPC | conferida (epígrafe) — Regra geral sobre o prazo da arguição |  |
 | arts. 195.º e ss. do CPC | conferida (epígrafe) — Regras gerais sobre a nulidade dos atos |  |
+| art. 149.º, n.º 1, do CPC | conferida (epígrafe) — Regra geral sobre o prazo |  |
 | art. 199.º, n.º 1 do CPC | conferida (epígrafe) — Regra geral sobre o prazo da arguição |  |
 | art. 195.º, n.º 2 CPC | corrigida — Regras gerais sobre a nulidade dos atos | o número citado no catálogo não correspondia à epígrafe |

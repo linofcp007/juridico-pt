@@ -3,10 +3,11 @@ codigo: AMB-017
 area: "Direito do Ambiente e Energia"
 titulo: "Contrato de Compra e Venda de Energia (PPA)"
 titulo_en: "Power Purchase Agreement (PPA)"
-descricao: "Elabora o contrato de compra e venda de energia eléctrica de fonte renovável (Power Purchase Agreement — PPA) entre produtor e consumidor (corporate PPA) ou entre produtor e comercializador de energia (PPA de mercado), incluindo cláusulas de preço, volume, garantias de origem, responsabilidade e gestão de risco, ao abrigo do quadro legal português e da regulação setorial da ERSE."
+descricao: "Elabora o contrato de compra e venda de energia elétrica de fonte renovável (Power Purchase Agreement — PPA) entre produtor e consumidor (corporate PPA) ou entre produtor e comercializador de energia (PPA de mercado), incluindo cláusulas de preço, volume, garantias de origem, responsabilidade e gestão de risco, ao abrigo do quadro legal português e da regulação setorial da ERSE."
 descricao_en: "Drafts the agreement for the purchase and sale of electricity from renewable sources (Power Purchase Agreement — PPA) between producer and consumer (corporate PPA) or between producer and energy supplier (merchant PPA), including clauses on price, volume, guarantees of origin, liability and risk management, under the Portuguese legal framework and the sectoral regulation of the Energy Services Regulatory Authority (ERSE)."
 ambito: nacional
-estado_citacoes: "conferidas 2 · corrigidas 0 · por conferir 3"
+estado_citacoes: "conferidas 3 · corrigidas 0 · por conferir 8"
+revisao_tecnica: "2026-10-30 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
@@ -14,9 +15,10 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 
 > **Âmbito:** nacional · **Área:** Direito do Ambiente e Energia · **Código:** AMB-017
 > **EN:** Power Purchase Agreement (PPA). Drafts the agreement for the purchase and sale of electricity from renewable sources (Power Purchase Agreement — PPA) between producer and consumer (corporate PPA) or between producer and energy supplier (merchant PPA), including clauses on price, volume, guarantees of origin, liability and risk management, under the Portuguese legal framework and the sectoral regulation of the Energy Services Regulatory Authority (ERSE).
-> **Citações:** conferidas 2 · corrigidas 0 · por conferir 3. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 3 · corrigidas 0 · por conferir 8. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-30 — corrigida (11 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
-Elabora o contrato de compra e venda de energia eléctrica de fonte renovável (Power Purchase Agreement — PPA) entre produtor e consumidor (corporate PPA) ou entre produtor e comercializador de energia (PPA de mercado), incluindo cláusulas de preço, volume, garantias de origem, responsabilidade e gestão de risco, ao abrigo do quadro legal português e da regulação setorial da ERSE.
+Elabora o contrato de compra e venda de energia elétrica de fonte renovável (Power Purchase Agreement — PPA) entre produtor e consumidor (corporate PPA) ou entre produtor e comercializador de energia (PPA de mercado), incluindo cláusulas de preço, volume, garantias de origem, responsabilidade e gestão de risco, ao abrigo do quadro legal português e da regulação setorial da ERSE.
 
 ## Método
 
@@ -24,9 +26,9 @@ Ficha de trabalho para preparar este documento. As regras da casa prevalecem sob
 
 ## Regras obrigatórias
 - NUNCA inventes tarifas, preços de mercado ou dados regulatórios
-- Base legal: DL n.º 15/2022 (RJAR); Lei n.º 24/2013 (setor eléctrico) [■ VERIFICAR diplomas atuais]; regulamentos ERSE; Diretiva (UE) 2018/2001 (RED II)
-- Garantias de Origem (GO): DL n.º [■ VERIFICAR diploma nacional] transpondo Diretiva RED II, art. 19.º
-- Corporate PPA: contrato bilateral entre produtor licenciado e consumidor qualificado
+- Base legal: DL n.º 15/2022 (organização e funcionamento do Sistema Elétrico Nacional — SEN), que revogou os DL n.º 29/2006 e n.º 172/2006; regulamentos ERSE; Diretiva (UE) 2018/2001 (RED II)
+- Garantias de Origem (GO): arts. 174.º a 178.º do DL n.º 15/2022 e DL n.º 141/2010, na sua redação atual (art. 174.º, n.º 2, do DL n.º 15/2022); art. 19.º da Diretiva RED II
+- Corporate PPA: contrato de aquisição de energia renovável, pelo qual uma pessoa singular ou coletiva se compromete a adquirir energia renovável diretamente a um produtor (art. 3.º, al. s), do DL n.º 15/2022); a produção pode ser vendida através de contratos bilaterais (art. 17.º, n.º 1, do DL n.º 15/2022)
 - Marca [■ VERIFICAR: dado em falta] quando informação estiver ausente
 - Português europeu (pt-PT), terminologia técnico-jurídica de energia
 
@@ -49,11 +51,11 @@ Analisa em <analise_do_caso>:
 ### ETAPA 2 — ANÁLISE JURÍDICA
 Identifica em <fundamentos_juridicos>:
 - DL n.º 15/2022 — regime do produtor renovável e condições de venda bilateral
-- Lei n.º 24/2013 (Lei de Bases do Setor Eléctrico) [■ VERIFICAR alterações]
-- Regulamentos ERSE: acesso às redes, tarifas de uso de rede (USE) em PPA sleeved [■ VERIFICAR]
-- Garantias de Origem: DL [■ VERIFICAR n.º e diploma nacional] — emissão pelo operador de rede (REN)
+- O DL n.º 15/2022 revogou as antigas bases do SEN (DL n.º 29/2006 e DL n.º 172/2006 — art. 305.º); confirmar a versão em vigor (última alteração pelo DL n.º 130/2026, de 29 de junho)
+- Regulamentos ERSE: acesso às redes e tarifas de Acesso às Redes (Uso Global do Sistema, Uso da Rede de Transporte e Uso da Rede de Distribuição) em PPA sleeved [■ VERIFICAR]
+- Garantias de Origem: emissão pela Entidade Emissora de Garantias de Origem (EEGO), cuja licença é atribuída por procedimento concorrencial (arts. 174.º a 178.º do DL n.º 15/2022; regime do DL n.º 141/2010) [■ VERIFICAR entidade atualmente licenciada como EEGO]
 - Art. 19.º Diretiva RED II — sistema de GO e divulgação de mistura de energia
-- CC arts. 406.º e ss. — alteração de circunstâncias (hardship) para cláusula de revisão de preço
+- Arts. 437.º a 439.º CC — resolução ou modificação do contrato por alteração das circunstâncias (hardship), base da cláusula de revisão de preço
 - Regulação de derivados: se o PPA tiver componente financeira, verificar aplicação MiFID II [■ VERIFICAR]
 - Fiscalidade: IVA na venda de energia; ISP se aplicável [■ VERIFICAR com fiscalista]
 
@@ -67,7 +69,7 @@ Define em <estrategia>:
 ### ETAPA 4 — O CONTRATO
 Redige o documento:
 
-**CONTRATO DE COMPRA E VENDA DE ENERGIA ELÉCTRICA (PPA)**
+**CONTRATO DE COMPRA E VENDA DE ENERGIA ELÉTRICA (PPA)**
 
 **ENTRE:**
 [PRODUTOR] — denominação, NIPC, sede, representante,
@@ -79,7 +81,7 @@ titular da Licença de Produção n.º ___ / UPAC n.º ___ [■ VERIFICAR]
 (doravante "Comprador")
 
 **Cláusula 1.ª — Objeto**
-O Vendedor compromete-se a vender e o Comprador a adquirir energia eléctrica
+O Vendedor compromete-se a vender e o Comprador a adquirir energia elétrica
 produzida a partir de [fonte renovável] na instalação de [localização], com as
 características do Anexo Técnico.
 
@@ -89,13 +91,13 @@ características do Anexo Técnico.
 - Perfil de entrega: conforme medição do operador de rede
 
 **Cláusula 3.ª — Preço e Indexação**
-- Preço base: €___/MWh (constante / indexado a [Omie / IPCA / outro]) [■ VERIFICAR]
+- Preço base: €___/MWh (constante / indexado a [preço do mercado diário do OMIE / IPC do INE / outro]) [■ VERIFICAR]
 - Fórmula de atualização: [anual / periodicidade]
 - Faturação: mensal / trimestral, prazo de pagamento: ___ dias
 
 **Cláusula 4.ª — Garantias de Origem**
 O Vendedor compromete-se a transferir ao Comprador as GOs correspondentes
-à energia entregue, nos termos do DL n.º [■ VERIFICAR], no prazo de ___ dias
+à energia entregue, nos termos do DL n.º 15/2022 e do DL n.º 141/2010, na sua redação atual, e do manual de procedimentos da EEGO, no prazo de ___ dias
 após cada período de entrega.
 
 **Cláusula 5.ª — Duração**
@@ -170,8 +172,14 @@ Apresenta em <checklist_validacao>:
 
 | Citação | Estado | Nota |
 |---|---|---|
+| arts. 174.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| arts. 174.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 174.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 19.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 3.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 17.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 305.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | Art. 19.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| arts. 406.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| Arts. 437.º a 439.º CC | conferida (epígrafe) — Condições de admissibilidade |  |
 | art. 437.º CC | conferida (epígrafe) — Condições de admissibilidade |  |
 | art. 437.º CC | conferida (epígrafe) — Condições de admissibilidade |  |

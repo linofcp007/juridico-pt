@@ -6,7 +6,8 @@ titulo_en: "Athlete Image Rights Exploitation Agreement"
 descricao: "Redige um contrato de cedência e exploração dos direitos de imagem de um atleta a favor de um clube, marca ou parceiro comercial, delimitando o âmbito da cedência, usos autorizados, contrapartida financeira, exclusividades, proteção de imagem moral e condições de resolução, com enquadramento nos direitos de personalidade do Código Civil português."
 descricao_en: "Drafts an agreement for the assignment and exploitation of an athlete's image rights in favour of a club, brand or commercial partner, defining the scope of the assignment, authorised uses, financial consideration, exclusivities, protection of moral image and termination conditions, within the framework of personality rights under the Portuguese Civil Code."
 ambito: nacional
-estado_citacoes: "conferidas 5 · corrigidas 0 · por conferir 1"
+estado_citacoes: "conferidas 10 · corrigidas 0 · por conferir 1"
+revisao_tecnica: "2026-10-30 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
@@ -14,7 +15,8 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 
 > **Âmbito:** nacional · **Área:** Direito Desportivo · **Código:** DES-006
 > **EN:** Athlete Image Rights Exploitation Agreement. Drafts an agreement for the assignment and exploitation of an athlete's image rights in favour of a club, brand or commercial partner, defining the scope of the assignment, authorised uses, financial consideration, exclusivities, protection of moral image and termination conditions, within the framework of personality rights under the Portuguese Civil Code.
-> **Citações:** conferidas 5 · corrigidas 0 · por conferir 1. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 10 · corrigidas 0 · por conferir 1. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-30 — corrigida (4 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
 Redige um contrato de cedência e exploração dos direitos de imagem de um atleta a favor de um clube, marca ou parceiro comercial, delimitando o âmbito da cedência, usos autorizados, contrapartida financeira, exclusividades, proteção de imagem moral e condições de resolução, com enquadramento nos direitos de personalidade do Código Civil português.
 
@@ -45,10 +47,11 @@ Em <analise_imagem>:
 Em <fundamentos_juridicos>:
 - Arts. 70.º a 81.º Código Civil: direitos de personalidade e direito à imagem
 - Art. 79.º CC: direito à imagem — reprodução só com consentimento
+- Art. 81.º CC: a limitação voluntária do direito à imagem é nula se contrária à ordem pública e, quando legal, é sempre revogável, ainda que com obrigação de indemnizar os prejuízos causados às legítimas expetativas do cessionário
 - Art. 80.º CC: direito à reserva sobre a intimidade da vida privada
 - Código do Direito de Autor e dos Direitos Conexos (CDADC): proteção de fotografias [■ VERIFICAR: artigos aplicáveis]
-- RGPD (Regulamento UE 2016/679): tratamento de dados biométricos/imagem
-- Lei n.º 54/2017, art. 19.º: direitos de imagem no contexto desportivo
+- RGPD (Regulamento UE 2016/679): a imagem e a voz do atleta são dados pessoais; só são dados biométricos, categoria especial de dados, quando objeto de tratamento técnico específico que permita a identificação única (art. 4.º, ponto 14, RGPD e considerando 51); a base de licitude normal é a execução do contrato (art. 6.º, n.º 1, al. b), RGPD)
+- Lei n.º 54/2017, art. 14.º: direito de imagem do praticante desportivo — pode opor-se à exploração comercial da sua imagem por outrem, sem prejuízo da transmissão contratual dessa exploração; ficam ressalvados os direitos da entidade empregadora quanto à imagem do coletivo dos praticantes, que podem ser regulados por contratação coletiva
 - [■ VERIFICAR: regulamento da federação sobre direitos de imagem coletivos vs. individuais]
 
 ### ETAPA 3 — CONSTRUÇÃO
@@ -106,7 +109,7 @@ Território: [Portugal / União Europeia / mundial].
 Os materiais criados com a imagem do Atleta são propriedade do Cessionário durante a vigência. Findo o contrato, o Cessionário obriga-se a retirar de circulação todos os materiais no prazo de [prazo, ex: 30 dias], exceto: [exceções acordadas — ex: arquivo histórico sem fins comerciais].
 
 **CLÁUSULA 9.ª — PROTEÇÃO DE DADOS PESSOAIS**
-O tratamento de dados biométricos (imagem, voz) realiza-se com base no consentimento explícito do Atleta (art. 9.º RGPD), para as finalidades específicas listadas na Cláusula 2.ª. O Atleta pode retirar o consentimento para novos usos sem prejudicar usos já autorizados.
+O tratamento dos dados pessoais do Atleta (imagem, nome, voz) é necessário à execução do presente contrato (art. 6.º, n.º 1, al. b), RGPD) e limita-se às finalidades listadas na Cláusula 2.ª. [Se houver tratamento técnico específico que permita a identificação única do Atleta — p. ex., reconhecimento facial ou de voz —, trata-se de dados biométricos e é necessário o consentimento explícito do Atleta (art. 9.º RGPD), que pode ser retirado a qualquer momento sem comprometer a licitude do tratamento anterior (art. 7.º, n.º 3, RGPD).]
 
 **CLÁUSULA 10.ª — RESOLUÇÃO E CESSAÇÃO**
 Resolução por justa causa: uso da imagem para fins proibidos; não pagamento; associação a contextos ofensivos.
@@ -160,6 +163,11 @@ Em <checklist_validacao>:
 | art. 70.º CC | conferida (epígrafe) — Tutela geral da personalidade |  |
 | Arts. 70.º a 81.º Código Civil | conferida (epígrafe) — Tutela geral da personalidade |  |
 | Art. 79.º CC | conferida (epígrafe) — Direito à imagem |  |
+| Art. 81.º CC | conferida (epígrafe) — Limitação voluntária dos direitos de personalidade |  |
 | Art. 80.º CC | conferida (epígrafe) — Direito à reserva sobre a intimidade da vida privada |  |
-| art. 19.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 4.º, ponto 14, RGPD | conferida (epígrafe) — Definições |  |
+| art. 6.º, n.º 1, al. b), RGPD | conferida (índice) |  |
+| art. 6.º, n.º 1, al. b), RGPD | conferida (índice) |  |
+| art. 14.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 9.º RGPD | conferida (epígrafe) — Tratamento de categorias especiais de dados pessoais |  |
+| art. 7.º, n.º 3, RGPD | conferida (epígrafe) — Condições aplicáveis ao consentimento |  |

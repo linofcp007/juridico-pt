@@ -44,8 +44,8 @@
 - Leves, graves e muito graves
 - ANSR (Autoridade Nacional de Segurança Rodoviária): entidade processadora
 - Pagamento voluntário com redução: nos prazos indicados na notificação
-- Defesa: 15 dias úteis
-- Recurso da decisão: 20 dias úteis para tribunal
+- ⏰ Defesa: 15 dias úteis a contar da notificação, com até 3 testemunhas (art. 175.º, n.º 2, do Código da Estrada)
+- ⏰ Impugnação judicial da decisão: 15 dias úteis após o seu conhecimento, por escrito, com alegações e conclusões, entregue na autoridade administrativa que aplicou a coima e não no tribunal (art. 181.º, n.º 2, al. a), do Código da Estrada)
 
 ## Contraordenações Fiscais (RGIT)
 - AT: Autoridade Tributária

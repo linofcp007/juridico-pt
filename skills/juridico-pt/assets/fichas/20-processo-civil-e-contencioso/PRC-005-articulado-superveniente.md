@@ -6,7 +6,8 @@ titulo_en: "Supervening Pleading"
 descricao: "Gera um articulado superveniente, nos termos do art. 588.º do CPC, para alegação de factos constitutivos, modificativos ou extintivos que ocorreram ou que o requerente só teve conhecimento após o encerramento dos articulados normais, com requerimento de admissão e respetivos meios de prova."
 descricao_en: "Generates a supervening pleading (articulado superveniente), under Article 588 CPC, to allege constitutive, modifying or extinguishing facts that occurred, or of which the applicant only became aware, after the close of the ordinary pleadings, with an application for admission and the corresponding evidence."
 ambito: nacional
-estado_citacoes: "conferidas 6 · corrigidas 0 · por conferir 1"
+estado_citacoes: "conferidas 10 · corrigidas 0 · por conferir 1"
+revisao_tecnica: "2026-10-30 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
@@ -14,7 +15,8 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 
 > **Âmbito:** nacional · **Área:** Processo Civil e Contencioso · **Código:** PRC-005
 > **EN:** Supervening Pleading. Generates a supervening pleading (articulado superveniente), under Article 588 CPC, to allege constitutive, modifying or extinguishing facts that occurred, or of which the applicant only became aware, after the close of the ordinary pleadings, with an application for admission and the corresponding evidence.
-> **Citações:** conferidas 6 · corrigidas 0 · por conferir 1. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 10 · corrigidas 0 · por conferir 1. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-30 — corrigida (5 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
 Gera um articulado superveniente, nos termos do art. 588.º do CPC, para alegação de factos constitutivos, modificativos ou extintivos que ocorreram ou que o requerente só teve conhecimento após o encerramento dos articulados normais, com requerimento de admissão e respetivos meios de prova.
 
@@ -26,8 +28,9 @@ Ficha de trabalho para preparar este documento. As regras da casa prevalecem sob
 - Usa SEMPRE português europeu (pt-PT). Nunca brasileirismos.
 - Nunca inventes jurisprudência ou artigos inexistentes
 - Sinaliza [■ VERIFICAR: o que é necessário] se faltarem dados
-- Verifica e fundamenta SEMPRE a superveniência (art. 588.º, n.º 1 CPC): os factos devem ser posteriores ao encerramento dos articulados (superveniência objetiva) OU o requerente só deles teve conhecimento depois (superveniência subjetiva)
-- O articulado superveniente pode ser apresentado até ao encerramento da discussão em 1.ª instância
+- Verifica e fundamenta SEMPRE a superveniência (art. 588.º, n.º 2, CPC): os factos devem ter ocorrido depois do termo dos prazos dos articulados (superveniência objetiva) OU ser anteriores, mas o requerente só deles ter tido conhecimento depois de findarem esses prazos (superveniência subjetiva), caso em que tem de fazer prova da superveniência
+- O articulado superveniente pode ser deduzido até ao encerramento da discussão (art. 588.º, n.º 1, CPC), mas só nos momentos do art. 588.º, n.º 3, CPC: a) na audiência prévia, quanto aos factos ocorridos ou conhecidos até ao seu encerramento; b) nos 10 dias posteriores à notificação da data designada para a audiência final, quando não se tenha realizado audiência prévia; c) na audiência final, quanto aos factos ocorridos ou conhecidos depois daqueles momentos
+- O juiz rejeita o articulado apresentado fora de tempo por culpa da parte, ou quando seja manifesto que os factos não interessam à boa decisão da causa; se o admitir, notifica a parte contrária para responder em 10 dias (art. 588.º, n.º 4, CPC)
 
 ---
 
@@ -68,7 +71,7 @@ ARTICULADO SUPERVENIENTE
 
 **2. DOS PRESSUPOSTOS DE ADMISSIBILIDADE**
 "Os factos ora alegados são supervenientes por [objetivamente — ocorreram em [data], após o encerramento dos articulados / subjetivamente — o Requerente apenas deles teve conhecimento em [data], conforme se demonstrará]."
-Fundamentação da admissibilidade com referência ao art. 588.º, n.º 1 CPC.
+Fundamentação da admissibilidade e da tempestividade com referência ao art. 588.º, n.os 2 e 3, CPC (na superveniência subjetiva, oferecer prova da data em que se teve conhecimento dos factos).
 
 **3. DOS FACTOS SUPERVENIENTES**
 Narração articulada e numerada dos factos novos:
@@ -81,7 +84,7 @@ Impacto jurídico dos factos supervenientes nos pedidos formulados.
 
 **5. DO PEDIDO**
 "Nestes termos, requer a V. Exa. se digne:
-1.º Admitir o presente articulado superveniente, nos termos do art. 588.º, n.º 2 do CPC;
+1.º Admitir o presente articulado superveniente, nos termos do art. 588.º, n.º 4 do CPC;
 2.º [Modificação do pedido se aplicável — art. 265.º CPC];
 3.º Notificar a parte contrária para responder no prazo legal."
 
@@ -93,7 +96,7 @@ Apresenta em <checklist_validacao>:
 - [ ] Superveniência objetiva ou subjetiva identificada e fundamentada
 - [ ] Factos supervenientes articulados numericamente
 - [ ] Relevância para o objeto do litígio demonstrada
-- [ ] Articulado apresentado antes do encerramento da discussão em 1.ª instância
+- [ ] Articulado apresentado no momento próprio do art. 588.º, n.º 3, CPC (audiência prévia, 10 dias após a notificação da data da audiência final ou audiência final) e antes do encerramento da discussão
 - [ ] Meios de prova dos factos novos indicados
 - [ ] Pedido de admissão formulado expressamente
 - [ ] Pontos [■ VERIFICAR] sinalizados
@@ -110,6 +113,8 @@ Apresenta em <checklist_validacao>:
 
 **ESTADO ATUAL DO PROCESSO:**
 - Fase processual: [articulados encerrados / instrução / julgamento]
+- Audiência prévia: [realizada em [data] / não realizada]
+- Data da notificação da data designada para a audiência final: [data]
 
 **FACTOS SUPERVENIENTES:**
 [Descreve os factos novos:
@@ -132,10 +137,14 @@ Apresenta em <checklist_validacao>:
 
 | Citação | Estado | Nota |
 |---|---|---|
-| art. 588.º, n.º 1 CPC | conferida (epígrafe) — Termos em que são admitidos |  |
+| art. 588.º, n.º 2, CPC | conferida (epígrafe) — Termos em que são admitidos |  |
 | art. 588.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| art. 588.º, n.º 1 CPC | conferida (epígrafe) — Termos em que são admitidos |  |
+| art. 588.º, n.º 1, CPC | conferida (epígrafe) — Termos em que são admitidos |  |
+| art. 588.º, n.º 3, CPC | conferida (epígrafe) — Termos em que são admitidos |  |
+| art. 588.º, n.º 3, CPC | conferida (epígrafe) — Termos em que são admitidos |  |
+| art. 588.º, n.º 4, CPC | conferida (epígrafe) — Termos em que são admitidos |  |
 | Art. 588.º CPC | conferida (epígrafe) — Termos em que são admitidos |  |
 | art. 265.º CPC | conferida (epígrafe) — Alteração do pedido e da causa de pedir na falta de acordo |  |
 | art. 265.º CPC | conferida (epígrafe) — Alteração do pedido e da causa de pedir na falta de acordo |  |
-| art. 588.º, n.º 2 do CPC | conferida (epígrafe) — Termos em que são admitidos |  |
+| art. 588.º, n.os 2 e 3, CPC | conferida (epígrafe) — Termos em que são admitidos |  |
+| art. 588.º, n.º 4 do CPC | conferida (epígrafe) — Termos em que são admitidos |  |

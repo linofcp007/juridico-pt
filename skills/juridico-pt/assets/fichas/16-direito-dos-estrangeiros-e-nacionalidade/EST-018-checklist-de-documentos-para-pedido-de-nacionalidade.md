@@ -6,7 +6,8 @@ titulo_en: "Document Checklist for a Nationality Application"
 descricao: "Gera uma checklist completa e personalizada de documentos exigidos para o pedido de nacionalidade portuguesa, adaptada à via de aquisição específica do cliente (naturalização, casamento, ascendência), com indicação dos prazos de obtenção, entidades emissoras, requisitos de apostilamento e tradução."
 descricao_en: "Generates a complete, tailored checklist of the documents required for a Portuguese nationality application, adapted to the client's specific route of acquisition (naturalisation, marriage, ancestry), indicating the time needed to obtain them, the issuing bodies, and apostille and translation requirements."
 ambito: nacional
-estado_citacoes: "conferidas 0 · corrigidas 0 · por conferir 4"
+estado_citacoes: "conferidas 0 · corrigidas 0 · por conferir 9"
+revisao_tecnica: "2026-10-30 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
@@ -14,7 +15,8 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 
 > **Âmbito:** nacional · **Área:** Direito dos Estrangeiros e Nacionalidade · **Código:** EST-018
 > **EN:** Document Checklist for a Nationality Application. Generates a complete, tailored checklist of the documents required for a Portuguese nationality application, adapted to the client's specific route of acquisition (naturalisation, marriage, ancestry), indicating the time needed to obtain them, the issuing bodies, and apostille and translation requirements.
-> **Citações:** conferidas 0 · corrigidas 0 · por conferir 4. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 0 · corrigidas 0 · por conferir 9. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-30 — corrigida (12 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
 Gera uma checklist completa e personalizada de documentos exigidos para o pedido de nacionalidade portuguesa, adaptada à via de aquisição específica do cliente (naturalização, casamento, ascendência), com indicação dos prazos de obtenção, entidades emissoras, requisitos de apostilamento e tradução.
 
@@ -45,11 +47,12 @@ Apresente dentro de um bloco <analise_do_caso>:
 
 ### ETAPA 2 — ANÁLISE JURÍDICA (Fundamentação)
 Apresente dentro de um bloco <fundamentos_juridicos>:
-- Regulamento da Nacionalidade Portuguesa [■ VERIFICAR: decreto-lei em vigor e lista de documentos]
-- Convenção da Apostila de Haia (Convenção de 12 de outubro de 1961) — países signatários
+- Regulamento da Nacionalidade Portuguesa (anexo ao Decreto-Lei n.º 237-A/2006, na redação do Decreto-Lei n.º 41/2023), arts. 14.º, 19.º, 25.º e 37.º — documentos, prova da língua e dispensas [■ VERIFICAR: se o Regulamento já foi adaptado à Lei Orgânica n.º 1/2026 (art. 4.º desta lei) e a lista de documentos que o IRN exige à data]
+- Convenção da Apostila de Haia (Convenção de 5 de outubro de 1961) — países signatários
 - Código do Registo Civil — transcrição de documentos estrangeiros
 - Direito do país de origem do cliente quanto à emissão de certidões e apostilamento
-- Exigências específicas da via de aquisição (arts. 1.º, 3.º, 6.º da Lei n.º 37/81)
+- Exigências específicas da via de aquisição (arts. 1.º, 3.º, 6.º da Lei n.º 37/81, na redação da Lei Orgânica n.º 1/2026, em vigor desde 19/05/2026; os procedimentos pendentes nessa data seguem a redação anterior — art. 7.º, n.º 2, da Lei Orgânica n.º 1/2026)
+- Naturalização (art. 6.º, n.º 1, da Lei n.º 37/81): residência legal há pelo menos 7 anos (nacionais de países de língua oficial portuguesa e cidadãos da UE) ou 10 anos (restantes); conhecimento da língua e da cultura portuguesas, da história e dos símbolos nacionais, por teste ou certificado; conhecimento dos direitos e deveres fundamentais e da organização política do Estado; declaração solene de adesão ao Estado de direito democrático; capacidade de subsistência [■ VERIFICAR: como se provam os requisitos novos enquanto o Regulamento não for adaptado]
 
 ### ETAPA 3 — CONSTRUÇÃO ARGUMENTATIVA
 Apresente dentro de um bloco <estrategia>:
@@ -81,7 +84,7 @@ Gera a checklist completa no seguinte formato:
 
 | # | Documento | Entidade emissora | Apostila? | Tradução? | Validade | Prazo estimado | Obtido? |
 |---|---|---|---|---|---|---|---|
-| 5 | Todos os títulos de residência anteriores | AIMA / cópia do requerente | Não | Não | — | Imediato | ☐ |
+| 5 | Todos os títulos de residência anteriores (o documento da AIMA comprovativo da residência legal é obtido oficiosamente — art. 37.º, n.º 7, al. b), do Regulamento) | AIMA / cópia do requerente | Não | Não | — | Imediato | ☐ |
 | 6 | Autorização de residência atual (frente e verso) | AIMA | Não | Não | — | Imediato | ☐ |
 | [adicionar linhas conforme necessário] | | | | | | | |
 
@@ -89,24 +92,24 @@ Gera a checklist completa no seguinte formato:
 
 | # | Documento | Entidade emissora | Apostila? | Tradução? | Validade | Prazo estimado | Obtido? |
 |---|---|---|---|---|---|---|---|
-| 7 | Certificado CAPLE (nível mínimo: B1) | Universidade de Lisboa / FLUL | Não | Não | Sem validade | [Datas CAPLE: verificar] | ☐ |
+| 7 | Certificado de português de nível A2 ou superior (p. ex., certificado do CAPLE) ou outro meio do art. 25.º, n.º 2, do Regulamento; presume-se o conhecimento da língua nos nacionais de países de língua oficial portuguesa (art. 6.º, n.º 10, da Lei n.º 37/81) [■ VERIFICAR: prova da cultura, da história e dos símbolos nacionais — art. 6.º, n.º 1, al. c)] | Universidade de Lisboa / FLUL | Não | Não | Sem validade | [Datas CAPLE: verificar] | ☐ |
 | OU | Diploma de ensino em português | Escola / Universidade PT | Não | Não | Sem validade | Imediato (se existente) | ☐ |
 
 **BLOCO D — DOCUMENTOS DE IDONEIDADE E SITUAÇÃO FISCAL**
 
 | # | Documento | Entidade emissora | Apostila? | Tradução? | Validade | Prazo estimado | Obtido? |
 |---|---|---|---|---|---|---|---|
-| 8 | Certidão de registo criminal PT | Conservatória do Registo Criminal | Não | Não | 3 meses | 1 semana | ☐ |
-| 9 | Certidão de registo criminal do país de origem | Entidade competente do país | Sim (se signatário) | Sim (se não PT) | 3 meses | [X semanas] | ☐ |
-| 10 | Declaração de situação fiscal regularizada (AT) | Portal das Finanças | Não | Não | [■ VERIFICAR: validade] | Imediato | ☐ |
-| 11 | Declaração de situação contributiva regularizada (SS) | Portal da Segurança Social | Não | Não | [■ VERIFICAR: validade] | Imediato | ☐ |
+| 8 | Certificado do registo criminal português (obtido oficiosamente — art. 37.º, n.º 7, al. a), do Regulamento) | Serviços de identificação criminal (DGAJ) | Não | Não | 3 meses | 1 semana | ☐ |
+| 9 | Certificados do registo criminal do país da naturalidade, do país da nacionalidade e dos países onde residiu após a idade de imputabilidade penal (art. 19.º, n.º 2, al. d), do Regulamento; dispensas no art. 37.º, n.º 8) | Entidade competente do país | Sim (se signatário) | Sim (se não PT) | 3 meses | [X semanas] | ☐ |
+| 10 | Declaração de situação fiscal regularizada (AT) [■ VERIFICAR: não consta do art. 19.º, n.º 2, do Regulamento; pode servir de prova da capacidade de subsistência — art. 6.º, n.º 1, al. i), da Lei n.º 37/81] | Portal das Finanças | Não | Não | [■ VERIFICAR: validade] | Imediato | ☐ |
+| 11 | Declaração de situação contributiva regularizada (SS) [■ VERIFICAR: não consta do art. 19.º, n.º 2, do Regulamento; idem] | Portal da Segurança Social | Não | Não | [■ VERIFICAR: validade] | Imediato | ☐ |
 
 **BLOCO E — DOCUMENTOS ESPECÍFICOS DA VIA DE AQUISIÇÃO**
 
 *[Para naturalização — art. 6.º:]*
 | # | Documento | Entidade emissora | Apostila? | Tradução? | Validade | Prazo estimado | Obtido? |
 |---|---|---|---|---|---|---|---|
-| 12 | Comprovativo de alojamento em Portugal | Proprietário / Conservatória | Não | Não | Recente | Imediato | ☐ |
+| 12 | Comprovativo de alojamento em Portugal [■ VERIFICAR: não consta do art. 19.º, n.º 2, do Regulamento] | Proprietário / Conservatória | Não | Não | Recente | Imediato | ☐ |
 
 *[Para casamento com português — art. 3.º:]*
 | # | Documento | Entidade emissora | Apostila? | Tradução? | Validade | Prazo estimado | Obtido? |
@@ -114,7 +117,7 @@ Gera a checklist completa no seguinte formato:
 | 13 | Certidão de casamento transcrita no registo civil PT | Conservatória do Registo Civil PT | Não (já transcrita) | Não | Atualizada | Imediato | ☐ |
 | 14 | Certidão de nascimento do cônjuge PT | Conservatória do Registo Civil PT | Não | Não | Atualizada | 1 semana | ☐ |
 
-*[Para ascendência portuguesa — art. 6.º, n.º 2:]*
+*[Para ascendência portuguesa — filhos de português nascidos no estrangeiro: art. 1.º, n.º 1, al. c); netos de português originário: art. 1.º, n.º 1, al. d), e n.º 3 [■ VERIFICAR: documentos adicionais para netos]:]*
 | # | Documento | Entidade emissora | Apostila? | Tradução? | Validade | Prazo estimado | Obtido? |
 |---|---|---|---|---|---|---|---|
 | 15 | Certidão de nascimento do progenitor português | Conservatória PT ou IRN | Não | Não | Atualizada | 1-2 semanas | ☐ |
@@ -125,7 +128,7 @@ Gera a checklist completa no seguinte formato:
 | # | Item | Entidade | Valor | Modo de pagamento | Feito? |
 |---|---|---|---|---|---|
 | 17 | Taxa de naturalização | IRN | [■ VERIFICAR: valor atual] | Referência MB / transferência | ☐ |
-| 18 | Submissão do pedido (Portal IRN) | portal.irn.mj.pt | Gratuito | Online | ☐ |
+| 18 | Submissão do pedido | IRN (Conservatória dos Registos Centrais ou outro serviço de registo que receba pedidos de nacionalidade) [■ VERIFICAR: canais de entrega em irn.justica.gov.pt] | — (emolumento na linha 17) | Presencial, correio ou plataforma eletrónica para advogados e solicitadores [■ VERIFICAR] | ☐ |
 
 ---
 
@@ -176,7 +179,12 @@ Apresente dentro de um bloco <checklist_validacao>:
 
 | Citação | Estado | Nota |
 |---|---|---|
+| arts. 14.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 4.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | arts. 1.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 7.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 6.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 6.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 3.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 1.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 1.º | por conferir [■ VERIFICAR] | diploma não identificado |

@@ -1,0 +1,300 @@
+[
+  {
+    "codigo": "SUC-009",
+    "veredicto": "corrigida",
+    "resumo": "A ficha mandava citar a Lei n.º 23/2013, revogada pela Lei n.º 117/2019, e a estrutura da relação de bens não seguia o art. 1098.º CPC: os imóveis vinham em primeiro lugar (a lei põe-nos no fim) e as participações sociais eram valoradas pelo valor contabilístico ou de mercado (a lei manda usar o valor nominal). A colação era imposta a todos os herdeiros legitimários, quando só abrange os descendentes (art. 2105.º CC), e a sonegação era descrita sem a ocultação dolosa que o art. 2096.º CC exige. Corrigiu-se ainda a remissão para os bens comuns (comunhão de adquiridos e comunhão geral) e o intervalo dos artigos da colação.",
+    "descricao": "Gera a relação de bens completa para apresentação em processo de inventário, discriminando ativo hereditário, passivo e adiantamentos por conta da legítima (colação), com a estrutura exigida pelo Código Civil e pelo Código de Processo Civil (art. 1098.º), também aplicável ao inventário notarial.",
+    "descricao_en": "Generates the complete list of assets (relação de bens) for submission in inventory proceedings, itemising the estate's assets, liabilities and advances on account of the forced heirship share (collation — colação), with the structure required by the Civil Code and the Code of Civil Procedure (Article 1098), which also applies to notarial inventory proceedings.",
+    "substituicoes": [
+      {
+        "de": "— Cita artigos reais do CC e da Lei n.º 23/2013.",
+        "para": "— Cita artigos reais do CC e do CPC (arts. 1082.º e ss. CPC, na redação da Lei n.º 117/2019, que revogou a Lei n.º 23/2013); no inventário notarial, o regime do CPC aplica-se com as necessárias adaptações (art. 2.º, n.º 1, do regime do inventário notarial anexo à Lei n.º 117/2019).\n— Relaciona as verbas numa só numeração, pela ordem do art. 1098.º, n.º 2, CPC, e com os valores do n.º 1 (imóveis pelo valor tributável; participações sociais pelo valor nominal); as dívidas são relacionadas em separado, com numeração própria (art. 1098.º, n.º 3, CPC).",
+        "motivo": "A Lei n.º 23/2013 foi revogada pela Lei n.º 117/2019 (em vigor desde 1/1/2020); a relação de bens rege-se pelo art. 1098.º CPC, aplicável também ao inventário notarial.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3211&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- Bens comuns do casal em regime de comunhão: arts. 1732.º e ss. CC",
+        "para": "- Bens comuns do casal: arts. 1721.º e ss. CC (comunhão de adquiridos, regime supletivo — art. 1717.º CC) e arts. 1732.º e ss. CC (comunhão geral)",
+        "motivo": "Os arts. 1732.º e ss. CC só regem a comunhão geral; o regime supletivo é a comunhão de adquiridos (arts. 1717.º e 1721.º e ss. CC).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1717&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Colação: arts. 2104.º a 2122.º CC — doações em vida aos herdeiros legitimários são conferidas no inventário",
+        "para": "- Colação: arts. 2104.º a 2118.º CC — só estão sujeitos à colação os descendentes que, à data da doação, eram presuntivos herdeiros legitimários do doador (não o cônjuge nem os ascendentes); conferem no inventário os bens ou valores que lhes foram doados, para igualação da partilha (arts. 2104.º, n.º 1, e 2105.º CC)",
+        "motivo": "A colação só abrange os descendentes (art. 2105.º CC); a secção da colação termina no art. 2118.º CC (os arts. 2119.º a 2122.º CC tratam dos efeitos e da impugnação da partilha).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2105&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Sonegação de bens: art. 2096.º CC — herdeiro que omite bens perde o direito sobre eles",
+        "para": "- Sonegação de bens: art. 2096.º CC — o herdeiro que sonegar bens da herança, ocultando dolosamente a sua existência, seja ou não cabeça de casal, perde em benefício dos co-herdeiros o direito que possa ter a qualquer parte dos bens sonegados e é considerado mero detentor desses bens",
+        "motivo": "A sanção da sonegação exige a ocultação dolosa dos bens, não a mera omissão (art. 2096.º CC).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2096&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "**Secção A — Bens Imóveis**\n\nVerba n.º 1 — [Designação: ex. Prédio Urbano — Apartamento]\nIdentificação: Prédio [urbano/rústico] sito em [morada], freguesia de [freguesia], município de [município], inscrito na matriz predial [urbana/rústica] sob o artigo n.º [número], descrito na Conservatória do Registo Predial de [comarca] sob a ficha n.º [número].\nValor Patrimonial Tributário: € [VPT]\nValor de mercado estimado: € [estimativa] [■ VERIFICAR: avaliação atualizada]\nEncargos: [hipoteca / penhora / outro — indicar]\n\n[Repete para cada imóvel]\n\n**Secção B — Saldos Bancários e Depósitos**\n\nVerba n.º [N] — Conta [à ordem / a prazo] junto do [banco], com o IBAN [número], titulada em nome do falecido, com saldo de € [valor] à data do óbito [dd/mm/aaaa].\n[■ VERIFICAR: solicitar extrato bancário à data do óbito]\n\n[Repete para cada conta]\n\n**Secção C — Veículos**\n\nVerba n.º [N] — Veículo automóvel de matrícula [matrícula], marca [marca], modelo [modelo], ano [ano], com valor de mercado estimado em € [valor].\n[■ VERIFICAR: certificado de matrícula]\n\n**Secção D — Participações Sociais e Outros Valores Mobiliários**\n\nVerba n.º [N] — [quota/ação] de [percentagem/número] em [nome da sociedade], com o NIPC [número], sediada em [morada], com valor contabilístico de € [valor] / valor de mercado estimado de € [valor].\n[■ VERIFICAR: certidão de registo comercial e relatório de contas]\n\n**Secção E — Outros Ativos**\n\nVerba n.º [N] — [outros bens: recheio, jóias, créditos, direitos] — valor estimado: € [valor]",
+        "para": "[Verbas numa só numeração, pela ordem do art. 1098.º, n.º 2, CPC: direitos de crédito, títulos de crédito, valores mobiliários e demais instrumentos financeiros, participações sociais, dinheiro, moedas estrangeiras, objetos de ouro, prata e pedras preciosas e semelhantes, outras coisas móveis e, por fim, bens imóveis.]\n\n**Secção A — Direitos de Crédito (incluindo Saldos Bancários e Depósitos)**\n\nVerba n.º 1 — Direito de crédito sobre o [banco], correspondente ao saldo da conta [à ordem / a prazo] com o IBAN [número], titulada em nome do falecido, no valor de € [valor] à data do óbito [dd/mm/aaaa].\n[■ VERIFICAR: solicitar extrato bancário à data do óbito; confirmar com o tribunal ou o cartório se os créditos da herança, incluindo os saldos bancários, entram nesta numeração ou na relação separada de créditos e dívidas, com numeração própria e identificação dos devedores (arts. 1097.º, n.º 3, al. d), e 1098.º, n.º 3, CPC)]\n\n[Repete para cada conta e para os demais créditos do falecido]\n\n**Secção B — Valores Mobiliários e Participações Sociais**\n\nVerba n.º [N] — [quota/ação] de [percentagem/número] em [nome da sociedade], com o NIPC [número], sediada em [morada], com o valor nominal de € [valor] (art. 1098.º, n.º 1, al. b), CPC).\n[■ VERIFICAR: certidão de registo comercial e relatório de contas]\n\n**Secção C — Dinheiro, Objetos de Valor e Outros Bens Móveis**\n\nVerba n.º [N] — [numerário, moeda estrangeira, joias, recheio, outros móveis] — valor atribuído: € [valor]\n\nVerba n.º [N] — Veículo automóvel de matrícula [matrícula], marca [marca], modelo [modelo], ano [ano], com o valor atribuído de € [valor].\n[■ VERIFICAR: certificado de matrícula]\n\n**Secção D — Bens Imóveis**\n\nVerba n.º [N] — [Designação: ex. Prédio Urbano — Apartamento]\nIdentificação: Prédio [urbano/rústico] sito em [morada], freguesia de [freguesia], município de [município], inscrito na matriz predial [urbana/rústica] sob o artigo n.º [número], descrito na Conservatória do Registo Predial de [concelho] sob a ficha n.º [número].\nValor tributável (valor patrimonial tributário — art. 1098.º, n.º 1, al. a), CPC): € [VPT]\nValor de mercado estimado (referência para a conferência de interessados e para um eventual pedido de avaliação, até à abertura das licitações — art. 1114.º, n.º 1, CPC): € [estimativa] [■ VERIFICAR: avaliação atualizada]\nEncargos: [hipoteca / penhora / outro — indicar]\n\n[Repete para cada imóvel]",
+        "motivo": "O art. 1098.º CPC fixa a ordem das verbas (imóveis no fim), o valor dos imóveis (valor tributável) e o das participações sociais (valor nominal), e manda relacionar créditos e dívidas em separado.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A1098&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "garantido por hipoteca sobre a Verba n.º 1,",
+        "para": "garantido por hipoteca sobre a Verba n.º [N] (imóvel),",
+        "motivo": "Com a ordem do art. 1098.º, n.º 2, CPC, os imóveis deixam de ser a verba n.º 1.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A1098&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "[Se existirem doações em vida a herdeiros legitimários:]",
+        "para": "[Se existirem doações em vida a descendentes que, à data da doação, eram presuntivos herdeiros legitimários do doador (art. 2105.º CC):]",
+        "motivo": "Só os descendentes estão sujeitos à colação (art. 2105.º CC).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2105&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- [ ] Participações sociais com NIPC e valor contabilístico",
+        "para": "- [ ] Participações sociais com NIPC e valor nominal (art. 1098.º, n.º 1, al. b), CPC)\n- [ ] Verbas numa só numeração, pela ordem do art. 1098.º, n.º 2, CPC (imóveis no fim)",
+        "motivo": "As participações sociais são relacionadas pelo valor nominal e as verbas seguem a ordem legal (art. 1098.º, n.os 1 e 2, CPC).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A1098&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Confirmar com o tribunal ou o cartório como são relacionados os saldos bancários e os demais créditos da herança: na numeração das verbas (direitos de crédito, art. 1098.º, n.º 2, CPC) ou na relação separada de créditos e dívidas (art. 1097.º, n.º 3, al. d), e art. 1098.º, n.º 3, CPC).",
+      "Nos inventários instaurados no cartório antes de 1/1/2020 que aí prosseguiram continua a aplicar-se a Lei n.º 23/2013 (art. 11.º, n.º 2, da Lei n.º 117/2019).",
+      "Na comunhão de adquiridos ou geral, ponderar a relacionação da totalidade dos bens comuns e a separação da meação na partilha, conforme o despacho determinativo."
+    ],
+    "fontes": [
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3211&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A1097&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A1098&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A1114&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1717&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1721&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A1732&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2096&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2104&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2105&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+    ]
+  },
+  {
+    "codigo": "SUC-011",
+    "veredicto": "corrigida",
+    "resumo": "A ficha assentava na Lei n.º 23/2013 (arts. 52.º e ss.), revogada pela Lei n.º 117/2019: o inventário, também o notarial, segue hoje os arts. 1082.º e ss. CPC, e a reclamação contra o mapa está no art. 1120.º, n.º 5, CPC, com o prazo supletivo de 10 dias do art. 149.º CPC. A igualdade dos quinhões era imputada ao art. 2104.º CC (colação); passou a remeter para o preenchimento dos quinhões e tornas (arts. 1120.º e 1121.º CPC). Corrigiu-se ainda o fundamento de «erro de avaliação» e o pedido de nova avaliação: o valor dos bens discute-se até à abertura das licitações (art. 1114.º CPC), e a redução por inoficiosidade também (art. 1118.º CPC), e acrescentaram-se os meios posteriores (homologação, recurso, emenda e anulação da partilha).",
+    "descricao": "Redige a reclamação formal contra o mapa da partilha elaborado pelo notário no processo de inventário, arguindo a desconformidade do mapa com o despacho determinativo da partilha ou com os valores fixados nas avaliações e licitações, erro no cálculo das quotas (incluindo a legítima) ou das tornas, desigualdade no preenchimento dos quinhões ou inobservância de disposições testamentárias (art. 1120.º, n.º 5, CPC).",
+    "descricao_en": "Drafts the formal objection to the division map (mapa da partilha) prepared by the notary in inventory proceedings, alleging that the map departs from the order determining the division or from the values fixed in valuations and biddings, errors in calculating the shares (including the forced heirship share) or the equalisation payments (tornas), inequality in filling the shares or failure to observe testamentary provisions (Article 1120(5) of the Code of Civil Procedure).",
+    "substituicoes": [
+      {
+        "de": "— Cita artigos reais do Código Civil (CC) e da Lei n.º 23/2013, de 5 de Março.",
+        "para": "— Cita artigos reais do Código Civil (CC) e do Código de Processo Civil (arts. 1082.º e ss. CPC, na redação da Lei n.º 117/2019, que revogou a Lei n.º 23/2013 a partir de 1/1/2020); no inventário notarial, o regime do CPC aplica-se com as necessárias adaptações (art. 2.º, n.º 1, do regime do inventário notarial anexo à Lei n.º 117/2019).",
+        "motivo": "A Lei n.º 23/2013 foi revogada pela Lei n.º 117/2019; o inventário notarial segue o CPC com as necessárias adaptações.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3211&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+      },
+      {
+        "de": "- Partilha em processo de inventário notarial: arts. 52.º e ss. Lei n.º 23/2013 [■ VERIFICAR]\n- Princípio da igualdade das quotas: art. 2104.º CC (partilha deve ser equitativa)\n- Quota legitimária: arts. 2156.º a 2163.º CC — violação é fundamento de redução de liberalidades inoficiosas\n- Testamento: disposições testamentárias vinculam a partilha\n- Avaliação das verbas: erro de avaliação é fundamento de reclamação\n- Reclamação: prazo e forma (Lei n.º 23/2013) [■ VERIFICAR: prazo específico após notificação do mapa]\n- Impugnação judicial da partilha: arts. 1123.º e ss. CPC [■ VERIFICAR: remissão atual]",
+        "para": "- Regime: arts. 1082.º e ss. CPC; no inventário notarial, a tramitação do CPC aplica-se com as necessárias adaptações e as diligências do processo cabem ao notário (art. 2.º, n.os 1 e 3, do regime do inventário notarial anexo à Lei n.º 117/2019); a Lei n.º 23/2013 só se aplica aos inventários pendentes no cartório em 1/1/2020 que aí prosseguiram (art. 11.º, n.º 2, da Lei n.º 117/2019)\n- Mapa da partilha: art. 1120.º CPC — propostas de mapa no prazo de 20 dias; resolvidas as divergências, o mapa é formado com os valores das avaliações e licitações efetuadas, deduzidas as dívidas, legados e encargos, e os quinhões são preenchidos de acordo com o despacho determinativo da partilha e com os resultados da conferência de interessados (n.os 1 a 3)\n- Preenchimento dos quinhões e tornas: os bens licitados são adjudicados ao licitante e os doados ou legados ao donatário ou legatário (art. 1120.º, n.º 4, CPC); tornas: art. 1121.º CPC\n- Quota legitimária: arts. 2156.º a 2163.º CC — a redução de doações ou legados inoficiosos é requerida no inventário até à abertura das licitações (art. 1118.º CPC); na reclamação contra o mapa pode exigir-se que o mapa cumpra o que foi decidido\n- Testamento: disposições testamentárias vinculam a partilha\n- Avaliação das verbas: a discordância quanto ao valor atribuído aos bens faz-se com o pedido de avaliação, até à abertura das licitações (art. 1114.º, n.º 1, CPC); na reclamação contra o mapa invoca-se o valor que não corresponda ao fixado nas avaliações e licitações (art. 1120.º, n.º 3, CPC)\n- Reclamação contra o mapa: art. 1120.º, n.º 5, CPC; na falta de prazo especial, 10 dias a contar da notificação do mapa (art. 149.º, n.º 1, CPC) [■ VERIFICAR: prazo indicado na notificação do cartório ou do tribunal]\n- Depois do mapa: sentença homologatória do juiz (art. 1122.º CPC; no inventário notarial, art. 5.º do regime anexo à Lei n.º 117/2019); recurso das decisões do notário para o tribunal da comarca da área do cartório, no prazo de 15 dias (arts. 2.º, n.º 4, e 4.º, n.º 3, do mesmo regime); apelação da sentença homologatória (arts. 1123.º e ss. CPC); depois do trânsito, emenda da partilha, sem acordo de todos, no prazo máximo de um ano a contar da cognoscibilidade do erro (art. 1126.º CPC), ou anulação, se houve preterição de co-herdeiro com dolo ou má-fé dos outros interessados (art. 1127.º CPC)",
+        "motivo": "Regime revogado (Lei n.º 23/2013) e art. 2104.º CC (colação) mal invocado; o mapa, a reclamação, as tornas, a avaliação, a inoficiosidade e os meios posteriores estão nos arts. 1114.º, 1118.º e 1120.º a 1127.º CPC e no regime do inventário notarial.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A1120&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "**Fundamento 1 — [Desigualdade na atribuição de verbas / Avaliação incorreta / Violação do testamento]**",
+        "para": "**Fundamento 1 — [Desconformidade do mapa com o despacho determinativo da partilha / Valor diferente do fixado nas avaliações ou licitações / Erro no cálculo das quotas ou das tornas / Violação do testamento]**",
+        "motivo": "O valor dos bens já não se discute no mapa (art. 1114.º, n.º 1, CPC); a reclamação incide sobre a conformidade do mapa com o decidido (art. 1120.º CPC).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A1114&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "a) A verba n.º [número] ([identificação do bem]) foi avaliada em € [valor no mapa] quando o seu valor real é de € [valor correto] — diferença de € [diferença].\nFundamenta: [avaliação, proposta, comparativos].",
+        "para": "a) A verba n.º [número] ([identificação do bem]) figura no mapa pelo valor de € [valor no mapa], quando o valor fixado no processo [na avaliação de [data] / na licitação / na conferência de interessados] é de € [valor fixado] — diferença de € [diferença].\nFundamenta: [auto de avaliação, ata da conferência de interessados, ata das licitações].\n[■ VERIFICAR: se não foi requerida avaliação até à abertura das licitações, a discordância quanto ao próprio valor dos bens já não cabe nesta fase (art. 1114.º, n.º 1, CPC)]",
+        "motivo": "O mapa usa os valores das avaliações e licitações efetuadas (art. 1120.º, n.º 3, CPC); a avaliação só pode ser requerida até à abertura das licitações (art. 1114.º, n.º 1, CPC).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A1114&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "b) [Ou: A verba n.º [número] foi atribuída integralmente ao co-herdeiro [nome] sem qualquer tornas, violando o princípio de igualdade na formação dos quinhões (art. 2104.º CC).]",
+        "para": "b) [Ou: A verba n.º [número] foi adjudicada integralmente ao co-herdeiro [nome] sem que o mapa preveja as tornas devidas ao reclamante, em desconformidade com o preenchimento dos quinhões fixado no despacho determinativo da partilha e na conferência de interessados (art. 1120.º, n.os 3 e 4, e art. 1121.º CPC).]",
+        "motivo": "O art. 2104.º CC trata da colação; o preenchimento dos quinhões e as tornas regem-se pelos arts. 1120.º e 1121.º CPC.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A1121&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "3. [Se necessário:] Seja realizada nova avaliação das verbas impugnadas;",
+        "para": "3. [Se necessário:] Sejam corrigidos os valores das verbas n.os [números], em conformidade com [o auto de avaliação / a ata das licitações];",
+        "motivo": "A avaliação só pode ser requerida até à abertura das licitações (art. 1114.º, n.º 1, CPC); no mapa pede-se a conformidade com os valores fixados.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A1114&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- [ ] Prazo de reclamação respeitado [■ VERIFICAR]",
+        "para": "- [ ] Prazo de reclamação respeitado (10 dias, na falta de prazo especial — art. 149.º, n.º 1, CPC) [■ VERIFICAR]",
+        "motivo": "O art. 1120.º, n.º 5, CPC não fixa prazo; vale o prazo supletivo de 10 dias (art. 149.º, n.º 1, CPC).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0149&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Confirmar se o processo foi instaurado no cartório antes de 1/1/2020: se aí prosseguiu, aplica-se a Lei n.º 23/2013 e não o CPC (art. 11.º, n.º 2, da Lei n.º 117/2019).",
+      "Confirmar o prazo de reclamação contra o mapa no inventário notarial (o CPC não fixa prazo especial no art. 1120.º, n.º 5; o supletivo é de 10 dias) e o prazo de 15 dias para recorrer da decisão do notário (art. 4.º, n.º 3, do regime anexo à Lei n.º 117/2019).",
+      "Se o reclamante não pediu avaliação nem a redução por inoficiosidade até à abertura das licitações (arts. 1114.º e 1118.º CPC), ponderar se o vício ainda pode ser invocado nesta fase ou só por emenda ou anulação da partilha (arts. 1126.º e 1127.º CPC)."
+    ],
+    "fontes": [
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3211&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0149&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A1114&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A1118&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A1120&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A1121&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A1122&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A1123&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A1126&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A1127&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2104&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+    ]
+  },
+  {
+    "codigo": "SUC-016",
+    "veredicto": "corrigida",
+    "resumo": "A ficha dizia que a nulidade do testamento pode ser invocada a todo o tempo, quando a ação caduca ao fim de dez anos (e a de anulação ao fim de dois) a contar do conhecimento do testamento e da causa (art. 2308.º CC). Tratava a incapacidade de testar (art. 2189.º CC) como diagnóstico médico e falava de «interdição», instituto substituído pelo maior acompanhado; hoje são incapazes os menores e os maiores acompanhados quando a sentença o determine, e a doença sem acompanhamento invoca-se como incapacidade acidental (art. 2199.º CC). Corrigiram-se ainda a base legal das testemunhas do testamento público (continuam exigidas pelo art. 67.º do Código do Notariado, não pelo art. 2205.º CC) e a «abertura indevida» (o art. 2210.º CC trata do testamento de militares), e indicou-se o tribunal competente (juízos cíveis, não os de família e menores).",
+    "substituicoes": [
+      {
+        "de": "— Distingue nulidade (vício de forma insanável) de anulabilidade (vício de vontade — prazo para arguir).\n— Alerta para o prazo de arguição da anulabilidade.",
+        "para": "— Distingue nulidade (testamento feito por incapaz — art. 2190.º CC — e vícios de forma, alguns sanáveis nos termos do Código do Notariado) de anulabilidade (incapacidade acidental, simulação, erro, dolo ou coação — arts. 2199.º a 2201.º CC).\n— Alerta para os prazos de caducidade da ação: dez anos para a nulidade e dois anos para a anulabilidade, a contar da data em que o interessado teve conhecimento do testamento e da causa do vício (art. 2308.º, n.os 1 e 2, CC).",
+        "motivo": "Também a ação de nulidade do testamento tem prazo de caducidade (art. 2308.º, n.º 1, CC); nem todos os vícios de forma são insanáveis (art. 70.º, n.º 2, do Código do Notariado).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2308&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Capacidade testamentária: art. 2189.º CC — incapazes para testar",
+        "para": "- Capacidade testamentária: art. 2189.º CC — são incapazes de testar os menores e os maiores acompanhados, estes apenas quando a sentença de acompanhamento o determine; o testamento feito por incapaz é nulo (art. 2190.º CC)",
+        "motivo": "Texto em vigor do art. 2189.º CC (regime do maior acompanhado) e sanção do art. 2190.º CC.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2189&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "  — Erro e dolo: vício na formação da vontade\n  — Coação: moral ou física",
+        "para": "  — Simulação: disposição feita aparentemente a favor de pessoa designada no testamento que, por acordo com ela, visa beneficiar outra — anulável\n  — Erro, dolo ou coação (moral ou física): a disposição testamentária assim determinada é anulável",
+        "motivo": "O intervalo citado inclui a simulação (art. 2200.º CC) e o erro, dolo e coação (art. 2201.º CC), todos causa de anulabilidade.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2200&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "  — Testamento público: falta de testemunhas (art. 2205.º CC); lavrado sem o notário competente",
+        "para": "  — Testamento público (art. 2205.º CC): falta das duas testemunhas instrumentárias, que intervêm nos testamentos públicos salvo dispensa pelo notário por urgência e dificuldade em as conseguir, mencionada no texto (art. 67.º, n.os 1, al. a), 2 e 3, do Código do Notariado); a nulidade por vício de forma só ocorre nos casos do art. 70.º, n.º 1, do Código do Notariado (entre eles, a falta de assinatura de testemunha), alguns sanáveis nos termos do n.º 2; lavrado sem o notário competente",
+        "motivo": "O art. 2205.º CC só define o testamento público; a intervenção de testemunhas e a nulidade por vício de forma estão nos arts. 67.º e 70.º do Código do Notariado.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=457A0067&nid=457&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "  — Abertura indevida do testamento cerrado: art. 2210.º CC",
+        "para": "  — Testamento cerrado aberto, dilacerado ou feito em pedaços: [■ VERIFICAR: a abertura, por si, não invalida o testamento; se aparecer dilacerado ou feito em pedaços, considera-se revogado, salvo prova de que o facto foi praticado por pessoa diversa do testador ou de que este não teve intenção de o revogar ou estava privado do uso da razão (art. 2315.º CC)]",
+        "motivo": "O art. 2210.º CC trata do testamento de militares; a inutilização do testamento cerrado rege-se pelo art. 2315.º CC.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2315&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "  — Nulidade: pode ser invocada a todo o tempo, por qualquer interessado\n  — Anulabilidade: prazo específico para arguição [■ VERIFICAR: art. 2309.º CC e ss. — prazos de arguição]",
+        "para": "  — Nulidade: invocável por qualquer interessado, mas a ação de nulidade do testamento ou de disposição testamentária caduca ao fim de dez anos a contar da data em que o interessado teve conhecimento do testamento e da causa da nulidade (art. 2308.º, n.º 1, CC)\n  — Anulabilidade: a ação caduca ao fim de dois anos a contar da data em que o interessado teve conhecimento do testamento e da causa da anulabilidade (art. 2308.º, n.º 2, CC); a ambos os prazos aplicam-se as regras da suspensão e interrupção da prescrição (art. 2308.º, n.º 3, CC)",
+        "motivo": "O art. 2308.º CC fixa prazos de caducidade para a nulidade (10 anos) e para a anulabilidade (2 anos); a nulidade do testamento não é invocável a todo o tempo.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2308&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Tribunal competente: [■ VERIFICAR: tribunal de família e menores ou tribunal cível]",
+        "para": "- Tribunal competente: juízo central cível, se o valor da causa exceder € 50 000 (art. 117.º, n.º 1, al. a), da Lei n.º 62/2013 — LOSJ); nos restantes casos, juízo local cível ou de competência genérica (art. 130.º, n.º 1, da LOSJ); os juízos de família e menores não têm competência para esta ação (art. 122.º da LOSJ) [■ VERIFICAR: competência territorial — regra geral do domicílio do réu, art. 80.º CPC]",
+        "motivo": "A ação de invalidade do testamento é uma ação cível declarativa; a competência dos juízos de família e menores não a abrange.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1974A0117&nid=1974&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "AO TRIBUNAL [■ VERIFICAR: competência]",
+        "para": "AO TRIBUNAL JUDICIAL DA COMARCA DE [comarca] — JUÍZO [CENTRAL CÍVEL / LOCAL CÍVEL / DE COMPETÊNCIA GENÉRICA] DE [localidade]\n[■ VERIFICAR: juízo em razão do valor e competência territorial]",
+        "motivo": "Juízo competente em razão do valor (arts. 117.º e 130.º da LOSJ).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1974A0130&nid=1974&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "À data da outorga do testamento ([data]), o(a) testador(a) [nome] sofria de [diagnóstico médico] que o(o) privava das faculdades mentais necessárias para testar (art. 2189.º n.º [número] CC).\nProva: relatórios médicos (Docs. [números]); depoimentos de médicos assistentes; registos hospitalares.\n[■ VERIFICAR: o diagnóstico deve ser contemporâneo à data do testamento]",
+        "para": "À data da outorga do testamento ([data]), o(a) testador(a) [nome] era [menor / maior acompanhado(a), por sentença de [data] proferida no processo n.º [número], que o(a) declarou incapaz de testar], pelo que o testamento é nulo (arts. 2189.º e 2190.º CC).\nProva: [certidão de nascimento / certidão da sentença de acompanhamento, com nota do trânsito em julgado] (Docs. [números]).\n[■ VERIFICAR: sem sentença de acompanhamento que abranja a capacidade de testar, a falta de discernimento por doença invoca-se como incapacidade acidental (OPÇÃO B — art. 2199.º CC)]",
+        "motivo": "A incapacidade do art. 2189.º CC resulta da menoridade ou de sentença de acompanhamento que o determine, não de um diagnóstico; a doença sem acompanhamento cabe no art. 2199.º CC.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2189&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "estado de [demência acidental / intoxicação / estado febril grave]",
+        "para": "estado de [demência ou outra perturbação psíquica, ainda que sem acompanhamento decretado / intoxicação / estado febril grave]",
+        "motivo": "O art. 2199.º CC abrange a incapacidade de entender o sentido da declaração por qualquer causa, ainda que transitória.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2199&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "[■ VERIFICAR: prova desta situação é especialmente difícil; identificar testemunhas presentes]",
+        "para": "Prova: relatórios médicos (Docs. [números]); depoimentos de médicos assistentes; registos hospitalares; testemunhas presentes no ato.\n[■ VERIFICAR: a prova deve reportar-se ao momento da outorga; identificar testemunhas presentes]",
+        "motivo": "A prova médica passa para a opção que hoje cobre a doença sem acompanhamento (art. 2199.º CC).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2199&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "O testamento padece de vício formal insanável: [descreve o vício — falta de testemunhas, auto de aprovação incompleto, etc.], não cumprindo os requisitos dos arts. [artigos] CC.",
+        "para": "O testamento padece de vício de forma: [descreve o vício — falta de testemunhas, auto de aprovação incompleto, etc.], não cumprindo os requisitos dos arts. [artigos] [CC / do Código do Notariado], o que gera a sua nulidade.\n[■ VERIFICAR: se o vício está entre os casos do art. 70.º, n.º 1, do Código do Notariado e se não foi sanado nos termos do n.º 2]",
+        "motivo": "A nulidade por vício de forma do ato notarial só ocorre nos casos do art. 70.º, n.º 1, do Código do Notariado, e alguns são sanáveis (n.º 2).",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=457A0070&nid=457&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- [ ] Incapacidade do testador (demência, interdição — art. 2189.º CC)",
+        "para": "- [ ] Incapacidade do testador (menor ou maior acompanhado, quando a sentença de acompanhamento o determine — art. 2189.º CC)",
+        "motivo": "A interdição foi substituída pelo regime do maior acompanhado; é esse o texto em vigor do art. 2189.º CC.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2189&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Contar os prazos de caducidade do art. 2308.º CC a partir do conhecimento do testamento e da causa do vício, e verificar se houve confirmação do testamento pelo interessado (Código Civil, art. 2309.º).",
+      "Nos testamentos anteriores à Lei n.º 49/2018, confirmar o regime transitório aplicável a quem estava interdito ou inabilitado à data da outorga.",
+      "Confirmar se o vício de forma alegado cabe no art. 70.º, n.º 1, do Código do Notariado e não foi sanado (n.º 2)."
+    ],
+    "fontes": [
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2189&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2190&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2199&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2200&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2201&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2205&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2209&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2308&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A2315&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=457A0067&nid=457&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=457A0070&nid=457&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1974A0117&nid=1974&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1974A0122&nid=1974&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1974A0130&nid=1974&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0080&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+    ]
+  },
+  {
+    "codigo": "SUC-028",
+    "veredicto": "corrigida",
+    "resumo": "A ficha qualificava o CSE como «título autêntico»; o certificado não é título executivo e produz os efeitos probatórios do art. 69.º do Regulamento (UE) n.º 650/2012 (considerando 71). Completaram-se os pontos em branco com o texto do Regulamento: emissão «sem demora» e sem prazo fixo (art. 67.º), cópias autenticadas válidas por seis meses (art. 70.º, n.º 3), competência pelos arts. 4.º, 7.º, 10.º ou 11.º (art. 64.º), finalidade no art. 63.º e formulário IV facultativo. Indicou-se a autoridade portuguesa comunicada ao abrigo do art. 78.º (conservadores do Balcão das Heranças), com verificação quanto aos cartórios notariais.",
+    "substituicoes": [
+      {
+        "de": "— O CSE é título autêntico com efeitos em todos os Estados-Membros participantes.",
+        "para": "— O CSE não é título executivo: produz os efeitos do art. 69.º do Regulamento em todos os Estados-Membros vinculados, sem necessidade de qualquer procedimento — presunção de que comprova com exatidão os elementos atestados, proteção de terceiros de boa-fé e documento válido para a inscrição de bens da sucessão no registo competente (considerando 71 e art. 69.º do Regulamento (UE) n.º 650/2012).",
+        "motivo": "O certificado não é título executivo nem ato autêntico; tem os efeitos probatórios do art. 69.º (considerando 71).",
+        "fonte": "https://publications.europa.eu/resource/celex/32012R0650"
+      },
+      {
+        "de": "— O CSE não substitui documentos internos — é complementar.",
+        "para": "— O recurso ao CSE é facultativo e o CSE não substitui os documentos internos (em Portugal, a habilitação de herdeiros); emitido para utilização noutro Estado-Membro, produz também os seus efeitos no Estado-Membro emissor (art. 62.º, n.os 2 e 3, do Regulamento (UE) n.º 650/2012).",
+        "motivo": "Texto do art. 62.º, n.os 2 e 3, do Regulamento.",
+        "fonte": "https://publications.europa.eu/resource/celex/32012R0650"
+      },
+      {
+        "de": "  — Art. 62.º: finalidade — provar qualidade de herdeiro/legatário/executor\n  — Art. 63.º: quem pode pedir — herdeiro, legatário, executor, administrador\n  — Art. 64.º: competência — autoridade que tem competência para a sucessão (art. 4.º RSUE)\n  — Art. 67.º: emissão do CSE — no prazo de [■ VERIFICAR: prazo regulamentar]\n  — Art. 69.º: efeitos do CSE — presunção de veracidade; válido em todos os EM\n  — Art. 70.º: cópia autenticada — válida por [■ VERIFICAR: prazo]\n  — Art. 71.º: retificação, modificação ou revogação\n- Em Portugal: [■ VERIFICAR: autoridade competente — notário ou Conservatória do Registo Civil]\n- Formulário oficial: [■ VERIFICAR: formulário IV do Regulamento de Execução (UE) n.º 1329/2014]",
+        "para": "  — Art. 62.º: criação do CSE, emitido para utilização noutro Estado-Membro; recurso facultativo; não substitui os documentos internos\n  — Art. 63.º: finalidade — herdeiros, legatários com direitos na sucessão e executores testamentários ou administradores da herança que precisem de invocar noutro Estado-Membro a sua qualidade, direitos ou poderes\n  — Art. 65.º: pedido — apresentado por qualquer dessas pessoas, com as informações do n.º 3 e os documentos pertinentes\n  — Art. 64.º: competência — Estado-Membro cujos órgãos jurisdicionais sejam competentes nos termos dos arts. 4.º, 7.º, 10.º ou 11.º do Regulamento\n  — Art. 67.º: emissão do CSE — sem demora, quando os elementos a atestar estiverem estabelecidos (o Regulamento não fixa prazo); não é emitido se esses elementos forem contestados ou contrariarem uma decisão sobre os mesmos elementos\n  — Art. 69.º: efeitos do CSE — produz efeitos em todos os Estados-Membros sem qualquer procedimento; presunção de exatidão; proteção de terceiros de boa-fé; documento válido para a inscrição no registo competente\n  — Art. 70.º: cópias autenticadas — válidas por seis meses, salvo prazo maior fixado em casos excecionais devidamente justificados; depois, pede-se a prorrogação ou nova cópia\n  — Art. 71.º: retificação, modificação ou revogação\n  — Art. 72.º: vias de recurso contra as decisões da autoridade emissora\n- Em Portugal: são competentes os conservadores que exercem competências nos procedimentos simplificados de sucessão hereditária (arts. 210.º-A a 210.º-R do Código do Registo Civil), segundo a comunicação de Portugal ao abrigo do art. 78.º do Regulamento; a impugnação judicial das suas decisões cabe aos juízos locais cíveis ou de competência genérica, com petição apresentada na conservatória nos 15 dias seguintes à notificação [■ VERIFICAR: a emissão também pelos cartórios notariais, noticiada desde 19/8/2024, e o serviço concreto antes de apresentar o pedido]\n- Formulário oficial: formulário IV (pedido), de uso facultativo, do anexo 4 do Regulamento de Execução (UE) n.º 1329/2014 (art. 65.º, n.º 2, do Regulamento); o certificado é emitido no formulário V",
+        "motivo": "Pontos em branco e descrições inexatas dos arts. 62.º a 72.º; autoridade portuguesa e vias de recurso segundo a comunicação de Portugal; formulário IV confirmado no Regulamento de Execução.",
+        "fonte": "https://publications.europa.eu/resource/celex/32012R0650"
+      },
+      {
+        "de": "À [Conservatória do Registo Civil / Notário de [localidade]]\n[■ VERIFICAR: autoridade competente para emissão em Portugal]",
+        "para": "À Conservatória do Registo Civil de [localidade] [ou ao Cartório Notarial de [localidade]]\n[■ VERIFICAR: conservatória com competência nos procedimentos simplificados de sucessão hereditária ou cartório notarial que preste o serviço]",
+        "motivo": "Autoridade comunicada por Portugal: conservadores dos procedimentos simplificados de sucessão hereditária.",
+        "fonte": "https://e-justice.europa.eu/topics/taking-legal-action/european-judicial-atlas-civil-matters/succession/pt_pt"
+      },
+      {
+        "de": "- [ ] Formulário oficial verificado [■ VERIFICAR: Formulário IV do Regulamento de Execução]",
+        "para": "- [ ] Formulário IV (facultativo) do Regulamento de Execução (UE) n.º 1329/2014 utilizado, ou incluídas as informações do art. 65.º, n.º 3, do Regulamento (UE) n.º 650/2012",
+        "motivo": "O formulário IV é o do pedido e o seu uso é facultativo (art. 65.º, n.º 2, do Regulamento; art. 1.º, n.º 4, do Regulamento de Execução).",
+        "fonte": "https://publications.europa.eu/resource/celex/32014R1329"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Confirmar junto da conservatória ou do cartório notarial se presta o serviço de emissão do CSE e quais os documentos que exige (a emissão pelos notários desde 19/8/2024 não foi confirmada em fonte oficial).",
+      "O Regulamento não se aplica à Dinamarca nem à Irlanda: confirmar que o Estado de destino está vinculado.",
+      "Confirmar a lei aplicável à sucessão antes do pedido (arts. 21.º e 22.º do Regulamento) e a competência do Estado emissor (art. 64.º)."
+    ],
+    "fontes": [
+      "https://publications.europa.eu/resource/celex/32012R0650",
+      "https://publications.europa.eu/resource/celex/32014R1329",
+      "https://e-justice.europa.eu/topics/taking-legal-action/european-judicial-atlas-civil-matters/succession/pt_pt",
+      "https://e-justice.europa.eu/topics/family-matters-inheritance/inheritance/information-authorities-issuing-ecs/pt_pt"
+    ]
+  }
+]

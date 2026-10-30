@@ -52,7 +52,7 @@ Apresenta dentro de um bloco <fundamentos_juridicos>:
   n.º 2, al. a): natureza, gravidade e duração
   n.º 2, al. b): carácter doloso ou negligente
   n.º 2, al. c): medidas tomadas para atenuar os danos
-  n.º 2, al. d): grau de responsabilidade (medidas de segurança adoptadas)
+  n.º 2, al. d): grau de responsabilidade (medidas de segurança adotadas)
   n.º 2, al. e): violações anteriores pertinentes
   n.º 2, al. f): grau de cooperação com a CNPD
   n.º 2, al. g): categorias de dados afetadas
@@ -96,7 +96,7 @@ Exmos. Senhores,
 2. [Cronologia dos eventos relevantes para o processo]
 3. [Medidas que a empresa tinha ou não tinha implementadas]
 4. [Data em que a empresa tomou conhecimento da situação]
-5. [Medidas adoptadas após conhecimento / após notificação da CNPD]
+5. [Medidas adotadas após conhecimento / após notificação da CNPD]
 
 **II. CONTESTAÇÃO DA IMPUTAÇÃO FACTUAL** (se aplicável)
 
@@ -121,7 +121,7 @@ Aplicando-se antes o art. [Y] RGPD / a exceção prevista no art. [Z] RGPD / nen
 
 a) Carácter negligente (não doloso) — al. b): A infração resultou de [erro humano / falha técnica não intencional / desconhecimento justificado], sem qualquer intenção de violar o RGPD ou de prejudicar os titulares.
 
-b) Medidas de mitigação de danos — al. c): A [entidade] adoptou as seguintes medidas imediatas: [listar com datas]. Junta-se como Anexo [X] comprovativo.
+b) Medidas de mitigação de danos — al. c): A [entidade] adotou as seguintes medidas imediatas: [listar com datas]. Junta-se como Anexo [X] comprovativo.
 
 c) Grau de responsabilidade — al. d): A [entidade] tinha implementado as seguintes medidas de segurança: [listar]. A infração ocorreu apesar das medidas existentes / por uma lacuna específica que não era expetável.
 

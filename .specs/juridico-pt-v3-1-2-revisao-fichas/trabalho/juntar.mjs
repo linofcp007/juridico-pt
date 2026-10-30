@@ -1,24 +1,29 @@
 // Uso: node juntar.mjs <correcoes-conteudo.json do skill> [data] — junta as revisao-<lote>.json no ficheiro do importador.
 import { readFileSync, writeFileSync, readdirSync, existsSync } from "node:fs";
 import { join, dirname } from "node:path";
-import { fileURLToPath } from "node:url";
+import { fileURLToPath, pathToFileURL } from "node:url";
 const aqui = dirname(fileURLToPath(import.meta.url));
+// O importador aplica as correções ao texto já normalizado (AO90): os trechos passam pela mesma normalização, para
+// continuarem a casar quando a lista ao90.json cresce.
+const { normalizarGrafia } = await import(pathToFileURL(join(aqui, "..", "..", "..", "mcp-server", "scripts", "importar-fichas.mjs")).href);
 const [destino, data = new Date().toISOString().slice(0, 10)] = process.argv.slice(2);
 const out = {};
 // As fichas já revistas guardam a data da sua revisão; só as novas levam a data de hoje.
 const anterior = existsSync(destino) ? JSON.parse(readFileSync(destino, "utf8")) : {};
-for (const f of readdirSync(aqui).filter((x) => /^revisao-[a-z0-9]+\.json$/.test(x)).sort()) {
-  for (const r of JSON.parse(readFileSync(join(aqui, f), "utf8"))) {
+// As revisões integradas estão em revisoes/; as novas ficam em D enquanto o validar.mjs as confere.
+const ficheiros = [aqui, join(aqui, "revisoes")].flatMap((d) => readdirSync(d).filter((x) => /^revisao-[a-z0-9]+\.json$/.test(x)).map((x) => join(d, x)));
+for (const f of ficheiros.sort()) {
+  for (const r of JSON.parse(readFileSync(f, "utf8"))) {
     if (out[r.codigo]) throw new Error(`${r.codigo} repetido (${f})`);
     out[r.codigo] = {
       revisto_em: anterior[r.codigo]?.revisto_em ?? data,
       veredicto: r.veredicto,
       resumo: r.resumo,
-      substituicoes: (r.substituicoes || []).map(({ de, para, motivo, fonte }) => ({ de, para, motivo, ...(fonte ? { fonte } : {}) })),
+      substituicoes: (r.substituicoes || []).map(({ de, para, motivo, fonte }) => ({ de: normalizarGrafia(de), para: normalizarGrafia(para), motivo, ...(fonte ? { fonte } : {}) })),
       pontos_para_o_advogado: r.pontos_para_o_advogado || [],
       fontes: [...new Set(r.fontes || [])],
       // Títulos e descrições corrigidos pelo revisor, quando o índice descrevia o regime antigo.
-      ...Object.fromEntries(["titulo", "descricao", "titulo_en", "descricao_en"].filter((k) => r[k]).map((k) => [k, r[k]])),
+      ...Object.fromEntries(["titulo", "descricao", "titulo_en", "descricao_en"].filter((k) => r[k]).map((k) => [k, k.endsWith("_en") ? r[k] : normalizarGrafia(r[k])])),
     };
   }
 }

@@ -35,13 +35,13 @@ Apresenta dentro de <analise_garantia>:
 - Elementos essenciais: beneficiário, montante, prazo de validade, condições de acionamento
 - Formalidades de acionamento cumpridas (documentos exigidos, declaração de incumprimento)
 - Prazo de validade da garantia — acionamento dentro ou fora do prazo?
-- Montante accionado vs. montante garantido
+- Montante acionado vs. montante garantido
 - Identificação do contrato-base e verificação do alegado incumprimento
 
 ### ETAPA 2 — ANÁLISE DAS EXCEÇÕES AO PAGAMENTO
 Apresenta dentro de <excepcoes_pagamento>:
 - Princípio da independência — regra geral do pagamento imediato
-- Exceção da fraude manifesta: o beneficiário sabe que não há incumprimento e acciona fraudulentamente
+- Exceção da fraude manifesta: o beneficiário sabe que não há incumprimento e aciona fraudulentamente
 - Exceção do abuso de direito (art. 334.º CC): acionamento contrário à boa fé, excesso manifesto dos limites
 - Abuso formal: não cumprimento das formalidades expressas na garantia
 - Extinção da obrigação garantida: cumprimento, resolução, compensação
@@ -99,7 +99,7 @@ Elabora carta simultânea ao banco garante notificando da pendência do processo
 
 **ACIONAMENTO:**
 - Data do pedido de pagamento: [dd/mm/aaaa]
-- Montante accionado: [€]
+- Montante acionado: [€]
 - Fundamento invocado pelo beneficiário: [descrever]
 - Motivo pelo qual o mandante contesta: [descrever]
 - Prova disponível da inexistência de incumprimento: [descrever]

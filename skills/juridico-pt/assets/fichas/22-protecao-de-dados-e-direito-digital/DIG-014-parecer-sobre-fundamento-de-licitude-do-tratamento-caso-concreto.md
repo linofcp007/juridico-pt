@@ -6,7 +6,8 @@ titulo_en: "Opinion on the Lawful Basis for Processing (Specific Case)"
 descricao: "Gera um parecer jurídico fundamentado sobre qual o fundamento de licitude (base jurídica) correto para um tratamento de dados pessoais específico, nos termos do artigo 6.º do RGPD, incluindo a análise das alternativas disponíveis e as implicações práticas de cada opção."
 descricao_en: "Generates a reasoned legal opinion on the correct lawful basis for a specific processing of personal data under Article 6 of the GDPR, including an analysis of the available alternatives and the practical implications of each option."
 ambito: nacional
-estado_citacoes: "conferidas 6 · corrigidas 0 · por conferir 11"
+estado_citacoes: "conferidas 12 · corrigidas 0 · por conferir 10"
+revisao_tecnica: "2026-10-30 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
@@ -14,7 +15,8 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 
 > **Âmbito:** nacional · **Área:** Proteção de Dados e Direito Digital · **Código:** DIG-014
 > **EN:** Opinion on the Lawful Basis for Processing (Specific Case). Generates a reasoned legal opinion on the correct lawful basis for a specific processing of personal data under Article 6 of the GDPR, including an analysis of the available alternatives and the practical implications of each option.
-> **Citações:** conferidas 6 · corrigidas 0 · por conferir 11. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 12 · corrigidas 0 · por conferir 10. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-30 — corrigida (6 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
 Gera um parecer jurídico fundamentado sobre qual o fundamento de licitude (base jurídica) correto para um tratamento de dados pessoais específico, nos termos do artigo 6.º do RGPD, incluindo a análise das alternativas disponíveis e as implicações práticas de cada opção.
 
@@ -49,7 +51,7 @@ Apresenta dentro de um bloco <analise_bases_juridicas>:
 **al. a) Consentimento:**
 - Requisitos: livre, específico, informado, inequívoco; ativo (não silêncio/pré-marcação); revogável
 - Apto para: newsletter opt-in genuíno, cookies não essenciais, tratamentos que vão além da expetativa razoável do titular
-- Problema: revogável a qualquer momento; desequilíbrio de poder (relação empregador/colaborador torna-o inválido — WP29/2017)
+- Problema: revogável a qualquer momento; desequilíbrio de poder (na relação laboral, o consentimento raramente é livre e só excecionalmente pode servir de base — Parecer 2/2017 do WP29 e Orientações 05/2020 do CEPD, n.os 21 e 22)
 - Aplicável ao caso? [Sim/Não/Com limitações]
 
 **al. b) Execução de contrato:**
@@ -74,7 +76,7 @@ Apresenta dentro de um bloco <analise_bases_juridicas>:
 - Aplicável ao caso? [Sim/Não — apenas para autoridades]
 
 **al. f) Interesses legítimos:**
-- Requisitos (teste em 3 passos — Orientações EDPB 6/2020):
+- Requisitos (três condições cumulativas — TJUE, C-13/16, Rīgas satiksme, e C-252/21, Meta Platforms; Parecer 06/2014 do WP29; Orientações 1/2024 do CEPD, versão 1.0 para consulta pública):
   1. Interesse legítimo real do responsável ou de terceiro
   2. Necessidade — o tratamento é necessário para esse interesse?
   3. Ponderação — os interesses do responsável prevalecem sobre os direitos e liberdades do titular?
@@ -127,7 +129,7 @@ O tratamento de dados pessoais é lícito apenas se e na medida em que se verifi
 [Justificação desenvolvida: por que esta é a base mais adequada, com referência a orientações EDPB e jurisprudência quando disponível]
 
 *Bases rejeitadas:*
-— Consentimento: [motivo específico — p. ex. "A relação de emprego cria desequilíbrio de poder que invalida o consentimento — WP29/2017, confirmado pelo EDPB"]
+— Consentimento: [motivo específico — p. ex. "A relação de emprego cria um desequilíbrio de poder que, em regra, impede que o consentimento seja livre — Parecer 2/2017 do WP29; Orientações 05/2020 do CEPD"]
 — [Outras bases com justificação breve]
 
 *Base alternativa/subsidiária (se aplicável):*
@@ -136,8 +138,8 @@ O tratamento de dados pessoais é lícito apenas se e na medida em que se verifi
 **V. IMPLICAÇÕES PRÁTICAS**
 
 *Direitos dos titulares com esta base:*
-— [Se contrato (al. b)): sem direito de portabilidade para dados tratados antes do contrato; direito de apagamento limitado enquanto contrato vigente]
-— [Se interesses legítimos (al. f)): direito de oposição em qualquer momento (art. 21.º) — deve ser garantida esta opção]
+— [Se contrato (al. b)): direito de portabilidade dos dados fornecidos pelo titular e tratados por meios automatizados (art. 20.º, n.º 1, RGPD); não há direito de oposição ao abrigo do art. 21.º, n.º 1, RGPD; o apagamento é limitado enquanto os dados forem necessários à execução do contrato (art. 17.º, n.º 1, al. a), RGPD)]
+— [Se interesses legítimos (al. f)): direito de oposição a qualquer momento, por motivos relacionados com a situação particular do titular, que só cede perante razões imperiosas e legítimas do responsável (art. 21.º, n.º 1, RGPD); no marketing direto, a oposição é incondicional (art. 21.º, n.os 2 e 3, RGPD) — deve ser garantida esta opção]
 — [Se consentimento (al. a)): direito de retirada a qualquer momento; impacto operacional do opt-out]
 
 *Obrigações de transparência:*
@@ -181,7 +183,7 @@ Apresenta dentro de um bloco <checklist_validacao>:
 - Há interesse comercial ou de segurança que possa justificar: [descrever]
 
 **DADOS ESPECIAIS (art. 9.º)?**
-- [sim/não — se sim, que categoria: saúde / biometria / origem étnica / religião / orientação sexual / dados penais]
+- [sim/não — se sim, que categoria: saúde / dados biométricos / origem étnica / religião / orientação sexual — e, à parte, dados penais (art. 10.º RGPD, regime próprio)]
 
 **CONTEXTO ADICIONAL:**
 - Há desequilíbrio de poder entre responsável e titulares? [p. ex. relação laboral]
@@ -208,6 +210,11 @@ Apresenta dentro de um bloco <checklist_validacao>:
 | Art. 6.º RGPD | conferida (índice) |  |
 | artigo 6.º, n.º 1, do RGPD | conferida (índice) |  |
 | Art. 6.º, n.º 1, al. [X]) RGPD | conferida (índice) |  |
-| art. 21.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 20.º, n.º 1, RGPD | conferida (epígrafe) — Direito de portabilidade dos dados |  |
+| art. 21.º, n.º 1, RGPD | conferida (epígrafe) — Direito de oposição |  |
+| art. 21.º, n.º 1, RGPD | conferida (epígrafe) — Direito de oposição |  |
+| art. 17.º, n.º 1, al. a), RGPD | conferida (epígrafe) — Direito ao apagamento dos dados («direito a ser esquecido») |  |
+| art. 21.º, n.os 2 e 3, RGPD | conferida (epígrafe) — Direito de oposição |  |
 | art. 13.º/14.º RGPD | conferida (índice) |  |
 | arts. 13.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 10.º RGPD | conferida (epígrafe) — Tratamento de dados pessoais relacionados com condenações penais e infrações |  |

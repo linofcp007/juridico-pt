@@ -6,7 +6,8 @@ titulo_en: "Complaint to the CNPD for Unlawful Processing of Personal Data"
 descricao: "Gera uma reclamação formal à CNPD por violação do RGPD, nos termos do artigo 77.º do RGPD, com identificação precisa da infração, dos dados afetados e das medidas requeridas, para apresentação pelo titular dos dados ou pelo advogado que o representa."
 descricao_en: "Generates a formal complaint to the National Data Protection Commission (CNPD) for breach of the GDPR, under Article 77 of the GDPR, precisely identifying the infringement, the data affected and the measures requested, for filing by the data subject or by the lawyer representing them."
 ambito: nacional
-estado_citacoes: "conferidas 13 · corrigidas 0 · por conferir 5"
+estado_citacoes: "conferidas 14 · corrigidas 0 · por conferir 9"
+revisao_tecnica: "2026-10-30 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
@@ -14,7 +15,8 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 
 > **Âmbito:** nacional · **Área:** Proteção de Dados e Direito Digital · **Código:** DIG-018
 > **EN:** Complaint to the CNPD for Unlawful Processing of Personal Data. Generates a formal complaint to the National Data Protection Commission (CNPD) for breach of the GDPR, under Article 77 of the GDPR, precisely identifying the infringement, the data affected and the measures requested, for filing by the data subject or by the lawyer representing them.
-> **Citações:** conferidas 13 · corrigidas 0 · por conferir 5. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 14 · corrigidas 0 · por conferir 9. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-30 — corrigida (6 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
 Gera uma reclamação formal à CNPD por violação do RGPD, nos termos do artigo 77.º do RGPD, com identificação precisa da infração, dos dados afetados e das medidas requeridas, para apresentação pelo titular dos dados ou pelo advogado que o representa.
 
@@ -48,8 +50,8 @@ Apresenta dentro de um bloco <fundamentos_juridicos>:
 - Art. 57.º, n.º 1, al. f) RGPD: competência da CNPD para tratar reclamações
 - Art. 58.º, n.º 2 RGPD: poderes corretivos (advertência, limitação, apagamento, coima)
 - Infrações identificadas: artigos do RGPD violados com breve descrição
-- Lei n.º 58/2019, arts. 63.º ss.: procedimento de reclamação e competência territorial da CNPD
-- Prazo: [■ VERIFICAR legislação nacional aplicável — RGCO art. 27.º?]
+- Lei n.º 43/2004, de 18 de agosto (organização e funcionamento da CNPD, republicada pela Lei n.º 58/2019), arts. 17.º e 18.º: apresentação das queixas e participações e formalidades; a CNPD é a autoridade de controlo nacional (art. 3.º da Lei n.º 58/2019); nos tratamentos transfronteiriços, arts. 55.º e 56.º RGPD (autoridade de controlo principal)
+- Prazo: o RGPD não fixa prazo para apresentar a reclamação, mas o procedimento por contraordenação prescreve em três anos (contraordenação muito grave) ou dois anos (grave) sobre a prática da infração (art. 40.º da Lei n.º 58/2019); convém reclamar sem demora
 
 ### ETAPA 3 — CONSTRUÇÃO (Estrutura da Reclamação)
 Define em <estrutura_reclamacao>:
@@ -61,13 +63,13 @@ Define em <estrutura_reclamacao>:
 ### ETAPA 4 — A RECLAMAÇÃO
 
 **À Comissão Nacional de Proteção de Dados**
-Rua de São Bento, 148-3.º, 1200-821 Lisboa
-[Ou através do formulário de reclamação em www.cnpd.pt]
+Av. D. Carlos I, 134, 1.º, 1200-651 Lisboa
+[Por regra, através do formulário de queixa no sítio da CNPD (www.cnpd.pt, «Apresentar queixa»); por correio eletrónico ou postal só excecionalmente e com fundamentação — art. 17.º, n.º 1, da Lei n.º 43/2004, de 18 de agosto, republicada pela Lei n.º 58/2019]
 
 [Cidade], [data]
 
 **RECLAMAÇÃO POR VIOLAÇÃO DO REGULAMENTO (UE) 2016/679 (RGPD)**
-Nos termos do artigo 77.º do RGPD e dos artigos 63.º e seguintes da Lei n.º 58/2019
+Nos termos do artigo 77.º do RGPD e do artigo 17.º da Lei n.º 43/2004, de 18 de agosto, republicada pela Lei n.º 58/2019, de 8 de agosto
 
 **I. IDENTIFICAÇÃO DO RECLAMANTE (TITULAR DOS DADOS)**
 Nome: [nome completo]
@@ -114,7 +116,7 @@ Factos concretos: [como a conduta do Reclamado viola este artigo]
 — Recusa de exercício de direitos: arts. 12.º, 15.º-22.º RGPD (prazo não cumprido ou recusa infundada)
 — Tratamento de dados especiais sem base: art. 9.º RGPD
 — Ausência de DPA com subcontratante: art. 28.º RGPD
-— Transferência ilegal para país terceiro: art. 46.º RGPD
+— Transferência ilegal para país terceiro: arts. 44.º-49.º RGPD (princípio geral no art. 44.º; garantias adequadas no art. 46.º)
 — Violação de dados não notificada: art. 33.º/34.º RGPD
 
 **V. IMPACTO PARA O RECLAMANTE**
@@ -205,16 +207,21 @@ Apresenta dentro de um bloco <checklist_validacao>:
 | Art. 77.º RGPD | conferida (epígrafe) — Direito de apresentar reclamação a uma autoridade de controlo |  |
 | Art. 57.º, n.º 1, al. f) RGPD | conferida (epígrafe) — Atribuições |  |
 | Art. 58.º, n.º 2 RGPD | conferida (epígrafe) — Poderes |  |
-| arts. 63.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| art. 27.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| arts. 17.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 3.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| arts. 55.º e 56.º RGPD | conferida (epígrafe) — Competência |  |
+| art. 40.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 17.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | artigo 77.º do RGPD | conferida (epígrafe) — Direito de apresentar reclamação a uma autoridade de controlo |  |
-| artigos 63.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| artigo 17.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 6.º RGPD | conferida (índice) |  |
 | arts. 13.º/14.º RGPD | conferida (índice) |  |
 | arts. 12.º, 15.º-22.º RGPD | conferida (epígrafe) — Transparência das informações, das comunicações e das regras para exercício dos direitos d |  |
 | art. 9.º RGPD | conferida (epígrafe) — Tratamento de categorias especiais de dados pessoais |  |
 | art. 28.º RGPD | conferida (índice) |  |
-| art. 46.º RGPD | conferida (epígrafe) — Transferências sujeitas a garantias adequadas |  |
+| arts. 44.º-49.º RGPD | conferida (epígrafe) — Princípio geral das transferências |  |
+| art. 44.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 46.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 33.º/34.º RGPD | conferida (epígrafe) — Notificação de uma violação de dados pessoais à autoridade de controlo |  |
 | art. 58.º, n.º 2 RGPD | conferida (epígrafe) — Poderes |  |
 | art. 58.º | por conferir [■ VERIFICAR] | diploma não identificado |

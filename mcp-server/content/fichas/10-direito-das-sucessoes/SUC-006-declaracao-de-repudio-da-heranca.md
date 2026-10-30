@@ -53,7 +53,7 @@ Apresenta dentro de um bloco <fundamentos_juridicos>:
   — Irrevogabilidade: art. 2066.º CC; o repúdio é anulável por dolo ou coação, mas não com fundamento em simples erro (art. 2065.º CC)
   — Sub-rogação dos credores: os credores do repudiante podem aceitar a herança em nome dele, nos termos dos arts. 606.º e seguintes CC, no prazo de seis meses a contar do conhecimento do repúdio; pagos os credores, o remanescente não aproveita ao repudiante, mas aos herdeiros imediatos (art. 2067.º CC)
 - Direito de representação após repúdio (na sucessão legal, só em benefício dos descendentes de filho ou de irmão do falecido — art. 2042.º CC; na testamentária, nos termos e com as exceções do art. 2041.º CC): os descendentes do repudiante são chamados em lugar deste (art. 2039.º CC)
-- Acrescimento: quando não há representação, a parte do repudiante acresce à dos outros sucessíveis da mesma classe na sucessão legal (art. 2137.º, n.º 2, CC) ou à dos co-herdeiros instituídos na sucessão testamentária (art. 2301.º CC); se todos os da mesma classe repudiarem, são chamados os sucessores imediatos (art. 2137.º, n.º 1, CC)
+- Acrescimento: quando não há representação, a parte do repudiante acresce à dos outros sucessíveis da mesma classe na sucessão legal (art. 2137.º, n.º 2, CC) ou à dos coerdeiros instituídos na sucessão testamentária (art. 2301.º CC); se todos os da mesma classe repudiarem, são chamados os sucessores imediatos (art. 2137.º, n.º 1, CC)
 - Consequências fiscais: o repudiante considera-se não chamado (art. 2062.º CC), pelo que o Imposto do Selo da verba 1.2 da TGIS se apura quanto a quem venha a suceder em seu lugar, com a isenção do cônjuge ou unido de facto, descendentes e ascendentes (art. 6.º, n.º 1, al. e), CIS) [■ VERIFICAR: tratamento fiscal no caso concreto]
 - Doações recebidas pelo repudiante: se repudiar sem ter descendentes que o representem, não há colação e a doação é imputada na quota indisponível (art. 2114.º, n.º 2, CC)
 
@@ -74,7 +74,7 @@ DECLARA repudiar, expressamente e sem qualquer reserva, a herança aberta por ó
 
 O declarante está ciente de que:
 1. O repúdio é irrevogável (art. 2066.º CC) e só é anulável por dolo ou coação, não por simples erro (art. 2065.º CC);
-2. Em consequência do repúdio, [havendo lugar a representação — arts. 2041.º e 2042.º CC] os seus descendentes são chamados ao lugar que lhe caberia, por direito de representação (art. 2039.º CC) — [ou: não havendo lugar a representação, a sua parte acresce à dos outros sucessíveis da mesma classe (art. 2137.º, n.º 2, CC) / dos co-herdeiros testamentários (art. 2301.º CC)];
+2. Em consequência do repúdio, [havendo lugar a representação — arts. 2041.º e 2042.º CC] os seus descendentes são chamados ao lugar que lhe caberia, por direito de representação (art. 2039.º CC) — [ou: não havendo lugar a representação, a sua parte acresce à dos outros sucessíveis da mesma classe (art. 2137.º, n.º 2, CC) / dos coerdeiros testamentários (art. 2301.º CC)];
 3. Os credores do repudiante podem aceitar a herança em nome dele, no prazo de seis meses a contar do conhecimento do repúdio; pagos esses credores, o remanescente não aproveita ao repudiante, mas aos herdeiros imediatos (art. 2067.º CC).
 
 [Local e data]

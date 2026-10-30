@@ -6,7 +6,8 @@ titulo_en: "Application for Family Reunification"
 descricao: "Gera um requerimento de reagrupamento familiar para reunir o cidadão estrangeiro residente em Portugal com os seus familiares (cônjuge, filhos menores, ascendentes dependentes), fundamentado nos artigos 98.º a 107.º da Lei n.º 23/2007 e na Diretiva 2003/86/CE, com identificação dos vínculos familiares elegíveis e da documentação exigida."
 descricao_en: "Generates an application for family reunification (reagrupamento familiar) to reunite a foreign national residing in Portugal with their family members (spouse, minor children, dependent ascendants), grounded in Articles 98 to 107 of Law No. 23/2007 and Directive 2003/86/EC, identifying the eligible family relationships and the documentation required."
 ambito: nacional
-estado_citacoes: "conferidas 0 · corrigidas 0 · por conferir 9"
+estado_citacoes: "conferidas 0 · corrigidas 0 · por conferir 18"
+revisao_tecnica: "2026-10-30 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
@@ -14,7 +15,8 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 
 > **Âmbito:** nacional · **Área:** Direito dos Estrangeiros e Nacionalidade · **Código:** EST-007
 > **EN:** Application for Family Reunification. Generates an application for family reunification (reagrupamento familiar) to reunite a foreign national residing in Portugal with their family members (spouse, minor children, dependent ascendants), grounded in Articles 98 to 107 of Law No. 23/2007 and Directive 2003/86/EC, identifying the eligible family relationships and the documentation required.
-> **Citações:** conferidas 0 · corrigidas 0 · por conferir 9. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 0 · corrigidas 0 · por conferir 18. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-30 — corrigida (6 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
 Gera um requerimento de reagrupamento familiar para reunir o cidadão estrangeiro residente em Portugal com os seus familiares (cônjuge, filhos menores, ascendentes dependentes), fundamentado nos artigos 98.º a 107.º da Lei n.º 23/2007 e na Diretiva 2003/86/CE, com identificação dos vínculos familiares elegíveis e da documentação exigida.
 
@@ -27,7 +29,7 @@ Ficha de trabalho para preparar este documento. As regras da casa prevalecem sob
 - Se faltarem dados, assinala [■ VERIFICAR: o que é necessário]
 - Distingue claramente os membros elegíveis: cônjuge, filhos menores, filhos maiores estudantes, ascendentes dependentes
 - Usa português europeu rigoroso — sem brasileirismos
-- Verifica sempre se o titular tem autorização de residência válida há pelo menos 1 ano (requisito para reagrupar ascendentes)
+- Verifica sempre se o titular tem autorização de residência válida há pelo menos 2 anos (art. 98.º, n.º 1, da Lei n.º 23/2007, na redação da Lei n.º 61/2025), salvo as exceções dos n.ºs 2 a 4 (15 meses para o cônjuge com 18 meses de coabitação anterior; sem prazo para menores ou incapazes a cargo, para o cônjuge progenitor ou adotante de menor a cargo e para familiares de titulares de autorização ao abrigo dos arts. 90.º, 90.º-A ou 121.º-A; dispensa ou redução excecional por despacho)
 - Inclui referência ao dever de apostilamento de documentos de estado civil estrangeiros
 
 ---
@@ -38,7 +40,7 @@ Ficha de trabalho para preparar este documento. As regras da casa prevalecem sob
 Apresente dentro de um bloco <analise_do_caso>:
 - Situação do titular: tipo e validade da autorização de residência em Portugal
 - Membros familiares a reagrupar: vínculo, idade, país de residência atual
-- Cumprimento do requisito de 1 ano de residência legal do titular (para ascendentes)
+- Cumprimento do prazo de 2 anos de autorização de residência do titular ou exceção aplicável (art. 98.º, n.ºs 1 a 4)
 - Meios de subsistência do titular: suficiência para os novos membros
 - Condições de alojamento: adequação ao número de membros
 - Estado civil documentável (certidões do registo civil, apostiladas)
@@ -46,13 +48,14 @@ Apresente dentro de um bloco <analise_do_caso>:
 
 ### ETAPA 2 — ANÁLISE JURÍDICA (Fundamentação)
 Apresente dentro de um bloco <fundamentos_juridicos>:
-- Art. 98.º da Lei n.º 23/2007 — membros elegíveis para reagrupamento
-- Art. 100.º — condições de concessão (alojamento, meios de subsistência, seguro de saúde)
-- Art. 101.º — prazo para apresentação do pedido
-- Art. 102.º — documentação exigida
-- Art. 103.º — reagrupamento de filhos de casamentos anteriores
+- Art. 98.º da Lei n.º 23/2007 — direito ao reagrupamento e prazo de autorização de residência do titular (2 anos, com as exceções dos n.ºs 2 a 4)
+- Art. 99.º — membros da família elegíveis (n.º 4: filho de um só dos cônjuges depende de autorização do outro progenitor ou de decisão que lho tenha confiado; n.º 6: casamento ou união de facto válidos e reconhecidos pela lei portuguesa e idade mínima de 18 anos) e art. 100.º — união de facto
+- Art. 101.º — condições de exercício: alojamento e meios de subsistência suficientes, sem recurso a apoios sociais, definidos por portaria; medidas de integração dos familiares (língua portuguesa, princípios e valores constitucionais), cujo cumprimento condiciona a renovação (n.ºs 3 e 4)
+- Art. 102.º — competência do conselho diretivo da AIMA, I. P.
+- Art. 103.º — pedido e documentos que o acompanham (laços familiares, condições de exercício, cópias autenticadas dos documentos de viagem); familiares já em território nacional só nos casos do n.º 3 do art. 98.º (n.º 2)
+- Art. 105.º — prazo de decisão de nove meses, prorrogável em circunstâncias excecionais; art. 106.º — indeferimento e impugnação
 - Diretiva 2003/86/CE — garantias processuais
-- Código do Registo Civil — reconhecimento de atos de estado civil estrangeiros (arts. 168.º e ss.)
+- Código do Registo Civil — atos de estado civil lavrados no estrangeiro, decisões de tribunais estrangeiros e documentos passados no estrangeiro (arts. 6.º, 7.º e 49.º)
 
 ### ETAPA 3 — CONSTRUÇÃO ARGUMENTATIVA
 Apresente dentro de um bloco <estrategia>:
@@ -80,7 +83,7 @@ Com os seguintes fundamentos:
 [Dados completos do titular e de cada membro familiar a reagrupar]
 
 **II. DO ENQUADRAMENTO LEGAL**
-[Arts. 98.º e 100.º da Lei n.º 23/2007 — membros elegíveis e condições]
+[Arts. 98.º, 99.º (ou 100.º, na união de facto) e 101.º da Lei n.º 23/2007 — direito ao reagrupamento, membros elegíveis e condições de exercício]
 
 **III. DO VÍNCULO FAMILIAR**
 [Prova do vínculo: certidão de casamento, certidão de nascimento, sentença de adoção — todos apostilados]
@@ -119,11 +122,11 @@ Requer-se a concessão de autorização de residência por reagrupamento familia
 - [ ] Sentença de adoção (filhos adotados)
 - [ ] Declaração de guarda/responsabilidades parentais (filhos de casamentos anteriores)
 - [ ] Prova de dependência económica (ascendentes)
-- [ ] Declaração de frequência escolar (filhos entre 18 e [■ VERIFICAR: idade limite])
+- [ ] Declaração de frequência escolar e prova de que o filho maior é solteiro e está a cargo (art. 99.º, n.º 1, alíneas d) e e); a lei não fixa idade-limite)
 
 ### ETAPA 5 — FORMULAÇÃO FINAL (Validação)
 Apresente dentro de um bloco <checklist_validacao>:
-- [ ] Titular com autorização de residência válida (mínimo 1 ano para ascendentes)
+- [ ] Titular com autorização de residência válida há pelo menos 2 anos ou exceção aplicável (art. 98.º, n.ºs 1 a 4)
 - [ ] Vínculo familiar comprovado com documentos apostilados e traduzidos
 - [ ] Meios de subsistência suficientes para o agregado alargado (montante mínimo verificado)
 - [ ] Alojamento adequado ao número de membros do agregado
@@ -162,12 +165,21 @@ Apresente dentro de um bloco <checklist_validacao>:
 
 | Citação | Estado | Nota |
 |---|---|---|
+| art. 98.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 98.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 98.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 98.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| arts. 90.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | Art. 98.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| Art. 100.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| Art. 99.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 100.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | Art. 101.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | Art. 102.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | Art. 103.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| arts. 168.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| Art. 105.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 106.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| arts. 6.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | artigos 98.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | artigos 98.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | Arts. 98.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 99.º | por conferir [■ VERIFICAR] | diploma não identificado |

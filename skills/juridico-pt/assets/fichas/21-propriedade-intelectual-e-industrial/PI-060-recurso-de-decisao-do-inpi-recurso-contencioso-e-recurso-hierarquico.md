@@ -3,28 +3,30 @@ codigo: PI-060
 area: "Propriedade Intelectual e Industrial"
 titulo: "Recurso de Decisão do INPI (Recurso Contencioso e Recurso Hierárquico)"
 titulo_en: "Appeal against an INPI Decision (Judicial Appeal and Hierarchical Appeal)"
-descricao: "Elabora o recurso de decisão do INPI em matéria de marcas, patentes ou desenhos ou modelos, seja recurso hierárquico interno (art. 37.º do CPI) ou recurso contencioso para o Tribunal da Propriedade Intelectual (arts. 38.º e ss. do CPI e Lei n.º 62/2011), contestando recusas de registo, decisões de oposição e outras decisões administrativas do INPI."
-descricao_en: "Prepares the appeal against an INPI decision on trade marks, patents or designs, either an internal hierarchical appeal (Article 37 of the CPI) or a judicial appeal to the Intellectual Property Court (Articles 38 et seq. of the CPI and Law No. 62/2011), contesting refusals of registration, opposition decisions and other administrative decisions of the INPI."
+descricao: "Elabora o recurso de decisão do INPI em matéria de marcas, patentes ou desenhos ou modelos — pedido de modificação da decisão ao próprio INPI (art. 22.º do CPI) ou recurso judicial de plena jurisdição para o Tribunal da Propriedade Intelectual (arts. 38.º e ss. do CPI e art. 111.º da Lei n.º 62/2013, LOSJ) —, contestando recusas de registo, decisões de oposição e outras decisões administrativas do INPI."
+descricao_en: "Prepares the challenge to an INPI decision on trade marks, patents or designs — a request to the INPI itself to modify the decision (Article 22 of the CPI) or a full-jurisdiction judicial appeal to the Intellectual Property Court (Articles 38 et seq. of the CPI and Article 111 of Law No. 62/2013, LOSJ) —, contesting refusals of registration, opposition decisions and other administrative decisions of the INPI."
 ambito: nacional
-estado_citacoes: "conferidas 4 · corrigidas 1 · por conferir 2"
+estado_citacoes: "conferidas 25 · corrigidas 1 · por conferir 3"
+revisao_tecnica: "2026-10-30 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
 # Recurso de Decisão do INPI (Recurso Contencioso e Recurso Hierárquico)
 
 > **Âmbito:** nacional · **Área:** Propriedade Intelectual e Industrial · **Código:** PI-060
-> **EN:** Appeal against an INPI Decision (Judicial Appeal and Hierarchical Appeal). Prepares the appeal against an INPI decision on trade marks, patents or designs, either an internal hierarchical appeal (Article 37 of the CPI) or a judicial appeal to the Intellectual Property Court (Articles 38 et seq. of the CPI and Law No. 62/2011), contesting refusals of registration, opposition decisions and other administrative decisions of the INPI.
-> **Citações:** conferidas 4 · corrigidas 1 · por conferir 2. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **EN:** Appeal against an INPI Decision (Judicial Appeal and Hierarchical Appeal). Prepares the challenge to an INPI decision on trade marks, patents or designs — a request to the INPI itself to modify the decision (Article 22 of the CPI) or a full-jurisdiction judicial appeal to the Intellectual Property Court (Articles 38 et seq. of the CPI and Article 111 of Law No. 62/2013, LOSJ) —, contesting refusals of registration, opposition decisions and other administrative decisions of the INPI.
+> **Citações:** conferidas 25 · corrigidas 1 · por conferir 3. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-30 — corrigida (12 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
-Elabora o recurso de decisão do INPI em matéria de marcas, patentes ou desenhos ou modelos, seja recurso hierárquico interno (art. 37.º do CPI) ou recurso contencioso para o Tribunal da Propriedade Intelectual (arts. 38.º e ss. do CPI e Lei n.º 62/2011), contestando recusas de registo, decisões de oposição e outras decisões administrativas do INPI.
+Elabora o recurso de decisão do INPI em matéria de marcas, patentes ou desenhos ou modelos — pedido de modificação da decisão ao próprio INPI (art. 22.º do CPI) ou recurso judicial de plena jurisdição para o Tribunal da Propriedade Intelectual (arts. 38.º e ss. do CPI e art. 111.º da Lei n.º 62/2013, LOSJ) —, contestando recusas de registo, decisões de oposição e outras decisões administrativas do INPI.
 
 ## Método
 
 Ficha de trabalho para preparar este documento. As regras da casa prevalecem sobre a ficha: registo de advogado, nunca afirmar inscrição na Ordem dos Advogados, citar só normas conferidas ou com `[■ VERIFICAR]`, e seguir o fluxo de `assets/redacao/redator.md`.
 
 ## Regras obrigatórias
-— Cita os artigos reais do CPI (DL n.º 110/2018) e da Lei n.º 62/2011 (TPI).
-— Distingue recurso hierárquico (interno ao INPI) de recurso contencioso (para o TPI).
+— Cita os artigos reais do CPI (DL n.º 110/2018) e da Lei n.º 62/2013 (LOSJ), cujo art. 111.º, n.º 1, al. e), atribui ao Tribunal da Propriedade Intelectual os recursos das decisões do INPI.
+— Distingue o pedido de modificação da decisão (interno ao INPI, art. 22.º CPI) do recurso contencioso de plena jurisdição (para o TPI, art. 38.º CPI e seguintes).
 — Verifica sempre os prazos — são prazos fatais de caducidade.
 
 ## Framework R.E.C.U.R.S.O. — 5 etapas
@@ -33,10 +35,11 @@ Ficha de trabalho para preparar este documento. As regras da casa prevalecem sob
 Apresenta em <identificacao_recurso_inpi>:
 - Tipo de decisão recorrida: recusa de registo / deferimento de oposição / indeferimento de oposição / caducidade / nulidade
 - Via de recurso:
-  — Recurso hierárquico: apresentado ao Conselho Diretivo do INPI (art. 37.º CPI [■ VERIFICAR: o art. 37.º CPI trata da renúncia; o recurso hierárquico segue o CPA (arts. 193.º e ss.) e o judicial os arts. 38.º e ss. CPI]), no prazo de [■ VERIFICAR prazo — art. 37.º CPI [■ VERIFICAR: o art. 37.º CPI trata da renúncia; o recurso hierárquico segue o CPA (arts. 193.º e ss.) e o judicial os arts. 38.º e ss. CPI]]
-  — Recurso contencioso: apresentado ao TPI (art. 38.º CPI + Lei n.º 62/2011), no prazo de [■ VERIFICAR prazo]
-  — Escolha estratégica: recurso hierárquico é mais rápido mas limitado; recurso contencioso é mais abrangente
-- Prazo contado a partir de: notificação da decisão ao mandatário / publicação no BPI
+  — Pedido de modificação da decisão: apresentado ao INPI no prazo de dois meses após a publicação do despacho, é decidido por despacho do superior hierárquico de quem assinou a decisão (art. 22.º, n.º 1 e n.º 2, CPI), com notificação das partes para responderem no prazo de um mês, prorrogável uma vez (art. 22.º, n.º 3, CPI); não abrange os despachos referidos no art. 34.º, n.º 2, CPI
+  — Recurso contencioso: apresentado ao TPI (art. 38.º CPI; competência: art. 39.º, n.º 1, CPI e art. 111.º, n.º 1, al. e), da Lei n.º 62/2013), no prazo de dois meses (art. 41.º CPI)
+  — Tribunal arbitral: pode ser constituído para todas as questões suscetíveis de recurso judicial, salvo havendo contrainteressados que não aceitem o compromisso arbitral (art. 47.º, n.º 1 e n.º 2, CPI)
+  — Escolha estratégica: o pedido de modificação é decidido pelo próprio INPI; o recurso judicial é de plena jurisdição e a sentença substitui a decisão recorrida (art. 43.º, n.º 4, CPI); o prazo do recurso judicial conta-se também da publicação da decisão final, de manutenção ou revogação, proferida ao abrigo do art. 22.º CPI (art. 41.º CPI)
+- Prazo contado a partir de: publicação da decisão no Boletim da Propriedade Industrial ou, se anterior, data de emissão da certidão da decisão pedida pelo recorrente (art. 41.º CPI)
 - Legitimidade: requerente / oponente / qualquer interessado com legitimidade (art. 40.º CPI)
 
 ### ETAPA 2 — ANÁLISE DA DECISÃO RECORRIDA
@@ -58,18 +61,19 @@ Define em <fundamentos_recurso_inpi>:
 
 ### ETAPA 4 — PEÇA DE RECURSO
 
-**A — RECURSO HIERÁRQUICO (para o Conselho Diretivo do INPI)**
+**A — PEDIDO DE MODIFICAÇÃO DA DECISÃO (art. 22.º CPI)**
 
-**AO CONSELHO DIRETIVO DO INPI**
+**AO INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL, I. P.**
+[■ VERIFICAR: órgão superior hierárquico de quem assinou a decisão — art. 22.º, n.º 2, CPI]
 
-**RECURSO HIERÁRQUICO**
+**PEDIDO DE MODIFICAÇÃO DA DECISÃO**
 
-**Recorrente:** [identificação completa — firma/nome, NIF/NIPC, mandatário]
-**Decisão recorrida:** [identificação da decisão: referência, data, tipo]
+**Requerente:** [identificação completa — firma/nome, NIF/NIPC, mandatário]
+**Decisão a modificar:** [identificação da decisão: referência, data, tipo]
 **Pedido de registo / Oposição n.º:** [número]
 
 **I. TEMPESTIVIDADE**
-[Verificação do prazo e data de notificação]
+[Pedido apresentado no prazo de dois meses após a publicação do despacho no Boletim da Propriedade Industrial — art. 22.º, n.º 1, CPI]
 
 **II. DOS FUNDAMENTOS DO RECURSO**
 [Desenvolvimento jurídico e factual de cada fundamento, por ordem de relevância]
@@ -78,20 +82,20 @@ Define em <fundamentos_recurso_inpi>:
 [Documentos novos juntos; reiteração de elementos anteriores]
 
 **IV. DO PEDIDO**
-Nestes termos, requer-se a V. Ex.ª que revogue a decisão recorrida e [defira o pedido de registo / indefira a oposição / decida em sentido favorável ao Recorrente], com todos os efeitos legais.
+Nestes termos, requer-se a V. Ex.ª que modifique a decisão, revogando-a, e [defira o pedido de registo / indefira a oposição / decida em sentido favorável ao Requerente], com todos os efeitos legais.
 
 **B — RECURSO CONTENCIOSO (para o TPI)**
 
 **AO TRIBUNAL DA PROPRIEDADE INTELECTUAL**
 
 **PETIÇÃO DE RECURSO DE DECISÃO DO INPI**
-*(Processo de forma especial — art. 38.º CPI + Lei n.º 62/2011)*
+*(Processo de forma especial — art. 38.º CPI e seguintes; competência do TPI: art. 111.º, n.º 1, al. e), da Lei n.º 62/2013)*
 
 **Recorrente:** [identificação completa — firma/nome, NIF/NIPC, mandatário]
 **Decisão recorrida:** [identificação da decisão do INPI]
 
 **I. TEMPESTIVIDADE E LEGITIMIDADE**
-[Verificação dos pressupostos processuais]
+[Interposição no prazo de dois meses (art. 41.º CPI); legitimidade do requerente, dos reclamantes ou de quem seja direta e efetivamente prejudicado pela decisão (art. 40.º, n.º 1, CPI)]
 
 **II. DOS VÍCIOS DA DECISÃO RECORRIDA**
 
@@ -116,7 +120,7 @@ Apresenta em <checklist_recurso_inpi>:
 - [ ] Legitimidade do recorrente verificada
 - [ ] Todos os fundamentos da decisão recorrida contestados
 - [ ] Prova nova identificada e preparada
-- [ ] Via de recurso escolhida estrategicamente (hierárquico vs. contencioso)
+- [ ] Via escolhida estrategicamente (pedido de modificação — art. 22.º CPI — vs. recurso judicial vs. tribunal arbitral — art. 47.º CPI)
 - [ ] Valor da causa indicado (recurso contencioso)
 - [ ] [■ VERIFICAR] prazos atuais nos termos do CPI
 
@@ -139,7 +143,7 @@ Apresenta em <checklist_recurso_inpi>:
 - Sinal: [descrição]
 - Classes: [lista]
 
-**VIA DE RECURSO:** [hierárquico / contencioso (TPI)]
+**VIA DE RECURSO:** [pedido de modificação da decisão (art. 22.º CPI) / contencioso (TPI) / tribunal arbitral (art. 47.º CPI)]
 **FUNDAMENTOS DO RECORRENTE:** [análise inicial]
 **Observações:** [qualquer dado relevante]
 
@@ -147,10 +151,32 @@ Apresenta em <checklist_recurso_inpi>:
 
 | Citação | Estado | Nota |
 |---|---|---|
-| art. 37.º CPI | por conferir [■ VERIFICAR] | o art. 37.º CPI trata da renúncia; o recurso hierárquico segue o CPA (arts. 193.º e ss.) e o judicial os arts. 38.º e ss. CPI |
-| art. 37.º CPI | por conferir [■ VERIFICAR] | o art. 37.º CPI trata da renúncia; o recurso hierárquico segue o CPA (arts. 193.º e ss.) e o judicial os arts. 38.º e ss. CPI |
+| art. 111.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 111.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 111.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 22.º CPI | conferida (epígrafe) — Modificação da decisão |  |
+| art. 22.º CPI | conferida (epígrafe) — Modificação da decisão |  |
+| art. 22.º CPI | conferida (epígrafe) — Modificação da decisão |  |
+| art. 22.º CPI | conferida (epígrafe) — Modificação da decisão |  |
+| art. 22.º CPI | conferida (epígrafe) — Modificação da decisão |  |
 | art. 38.º CPI | conferida (epígrafe) — Decisões que admitem recurso |  |
 | art. 38.º CPI | conferida (epígrafe) — Decisões que admitem recurso |  |
+| art. 38.º CPI | conferida (epígrafe) — Decisões que admitem recurso |  |
+| art. 22.º, n.º 1 e n.º 2, CPI | conferida (epígrafe) — Modificação da decisão |  |
+| art. 22.º, n.º 3, CPI | conferida (epígrafe) — Modificação da decisão |  |
+| art. 34.º, n.º 2, CPI | conferida (epígrafe) — Processos de declaração de nulidade e de anulação |  |
+| art. 39.º, n.º 1, CPI | conferida (epígrafe) — Tribunal competente |  |
+| art. 41.º CPI | conferida (epígrafe) — Prazo |  |
+| art. 41.º CPI | conferida (epígrafe) — Prazo |  |
+| art. 41.º CPI | conferida (epígrafe) — Prazo |  |
+| art. 41.º CPI | conferida (epígrafe) — Prazo |  |
+| art. 47.º, n.º 1 e n.º 2, CPI | conferida (epígrafe) — Tribunal arbitral |  |
+| art. 43.º, n.º 4, CPI | conferida (epígrafe) — Citação da parte contrária |  |
 | art. 40.º CPI | corrigida — Legitimidade | o número citado no catálogo não correspondia à epígrafe |
 | art. 268.º, n.º 3, CRP | conferida (epígrafe) — Direitos e garantias dos administrados |  |
 | art. 268.º, n.º 3, CRP | conferida (epígrafe) — Direitos e garantias dos administrados |  |
+| art. 22.º, n.º 2, CPI | conferida (epígrafe) — Modificação da decisão |  |
+| art. 22.º, n.º 1, CPI | conferida (epígrafe) — Modificação da decisão |  |
+| art. 40.º, n.º 1, CPI | conferida (epígrafe) — Legitimidade |  |
+| art. 47.º CPI | conferida (epígrafe) — Tribunal arbitral |  |
+| art. 47.º CPI | conferida (epígrafe) — Tribunal arbitral |  |

@@ -3,20 +3,22 @@ codigo: DIG-057
 area: "Proteção de Dados e Direito Digital"
 titulo: "Notificação de Sistema de IA de Alto Risco à Autoridade Nacional Competente (AI Act)"
 titulo_en: "Notification of a High-Risk AI System to the National Competent Authority (AI Act)"
-descricao: "Estrutura o processo de notificação e registo de um sistema de inteligência artificial de alto risco ao abrigo dos artigos 49.º e 71.º do AI Act (Regulamento UE 2024/1689), determinando a autoridade nacional competente em Portugal, os documentos a submeter, e a articulação com a Declaração de Conformidade CE prevista no artigo 47.º do AI Act para sistemas de alto risco do Anexo III."
-descricao_en: "Structures the notification and registration process for a high-risk artificial intelligence system under Articles 49 and 71 of the AI Act (Regulation (EU) 2024/1689), determining the national competent authority in Portugal, the documents to be submitted and the link with the EU Declaration of Conformity under Article 47 of the AI Act for Annex III high-risk systems."
+descricao: "Estrutura o registo de um sistema de inteligência artificial de alto risco na base de dados da UE ao abrigo dos artigos 49.º e 71.º do AI Act (Regulamento UE 2024/1689), a documentação e a avaliação da conformidade a preparar, a Declaração UE de Conformidade prevista no artigo 47.º do AI Act para sistemas de alto risco do Anexo III, e a autoridade nacional competente em Portugal (designação a confirmar)."
+descricao_en: "Structures the registration of a high-risk artificial intelligence system in the EU database under Articles 49 and 71 of the AI Act (Regulation (EU) 2024/1689), the documentation and conformity assessment to prepare, the EU Declaration of Conformity under Article 47 of the AI Act for Annex III high-risk systems, and the national competent authority in Portugal (designation to be confirmed)."
 ambito: nacional
-estado_citacoes: "conferidas 1 · corrigidas 0 · por conferir 15"
+estado_citacoes: "conferidas 1 · corrigidas 0 · por conferir 25"
+revisao_tecnica: "2026-10-30 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
 # Notificação de Sistema de IA de Alto Risco à Autoridade Nacional Competente (AI Act)
 
 > **Âmbito:** nacional · **Área:** Proteção de Dados e Direito Digital · **Código:** DIG-057
-> **EN:** Notification of a High-Risk AI System to the National Competent Authority (AI Act). Structures the notification and registration process for a high-risk artificial intelligence system under Articles 49 and 71 of the AI Act (Regulation (EU) 2024/1689), determining the national competent authority in Portugal, the documents to be submitted and the link with the EU Declaration of Conformity under Article 47 of the AI Act for Annex III high-risk systems.
-> **Citações:** conferidas 1 · corrigidas 0 · por conferir 15. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **EN:** Notification of a High-Risk AI System to the National Competent Authority (AI Act). Structures the registration of a high-risk artificial intelligence system in the EU database under Articles 49 and 71 of the AI Act (Regulation (EU) 2024/1689), the documentation and conformity assessment to prepare, the EU Declaration of Conformity under Article 47 of the AI Act for Annex III high-risk systems, and the national competent authority in Portugal (designation to be confirmed).
+> **Citações:** conferidas 1 · corrigidas 0 · por conferir 25. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-30 — corrigida (6 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
-Estrutura o processo de notificação e registo de um sistema de inteligência artificial de alto risco ao abrigo dos artigos 49.º e 71.º do AI Act (Regulamento UE 2024/1689), determinando a autoridade nacional competente em Portugal, os documentos a submeter, e a articulação com a Declaração de Conformidade CE prevista no artigo 47.º do AI Act para sistemas de alto risco do Anexo III.
+Estrutura o registo de um sistema de inteligência artificial de alto risco na base de dados da UE ao abrigo dos artigos 49.º e 71.º do AI Act (Regulamento UE 2024/1689), a documentação e a avaliação da conformidade a preparar, a Declaração UE de Conformidade prevista no artigo 47.º do AI Act para sistemas de alto risco do Anexo III, e a autoridade nacional competente em Portugal (designação a confirmar).
 
 ## Método
 
@@ -35,9 +37,9 @@ Verifica a categoria do sistema e os prazos de aplicação do AI Act:
 
 **Calendário AI Act (datas-chave):**
 - 2 fevereiro 2025: proibições absolutas (art. 5.º) em vigor
-- 2 agosto 2025: obrigações para GPAI (modelos de linguagem de propósito geral)
-- 2 agosto 2026: obrigações para sistemas de alto risco (Anexo III) em vigor
-- 2 agosto 2027: sistemas de alto risco Anexo II (dispositivos médicos, etc.)
+- 2 agosto 2025: obrigações para GPAI (modelos de IA de finalidade geral)
+- 2 dezembro 2027: obrigações para sistemas de alto risco do Anexo III (art. 113.º AI Act, na redação do Reg. (UE) 2026/1744 — Omnibus Digital, em vigor desde 27/7/2026; a data inicial era 2 agosto 2026)
+- 2 agosto 2028: sistemas de alto risco do Anexo I (produtos regulados: dispositivos médicos, etc.), na mesma redação
 
 Papel da organização:
 - **Provider:** coloca o sistema no mercado ou em serviço na UE → obrigações mais extensas
@@ -63,7 +65,7 @@ Lista documentação a preparar antes do lançamento:
    - Capacidade de geração automática de logs durante o funcionamento
    - Período de retenção mínimo
 
-4. **DPIA integrada (art. 26.º, n.º 9 AI Act + art. 35.º RGPD)**
+4. **DPIA a cargo do deployer, que usa as informações fornecidas pelo provider nos termos do art. 13.º AI Act (art. 26.º, n.º 9 AI Act + art. 35.º RGPD)**
 
 5. **Declaração de Conformidade UE (art. 47.º AI Act):**
    - Identificação do sistema e do provider
@@ -73,21 +75,22 @@ Lista documentação a preparar antes do lançamento:
 
 ### ETAPA 3 — MARCAÇÃO CE E DECLARAÇÃO DE CONFORMIDADE
 Descreve o processo:
-- Avaliação de conformidade: art. 43.º AI Act — autoevaluação ou organismo notificado
-- Sistemas de auto-avaliação: a maioria dos sistemas Anexo III admite auto-avaliação pelo provider
-- Exceções (organismo notificado obrigatório): sistemas de identificação biométrica, sistemas emocionais
+- Avaliação de conformidade: art. 43.º AI Act — controlo interno (anexo VI) ou procedimento com organismo notificado (anexo VII)
+- Anexo III, pontos 2 a 8: controlo interno obrigatório pelo provider, sem organismo notificado (art. 43.º, n.º 2 AI Act)
+- Anexo III, ponto 1 (biometria, incluindo reconhecimento de emoções): se o provider aplicou normas harmonizadas ou especificações comuns, escolhe entre controlo interno e organismo notificado; o organismo notificado só é obrigatório nos casos do art. 43.º, n.º 1, segundo parágrafo (p. ex., normas inexistentes, não aplicadas ou aplicadas só em parte)
+- Anexo I, secção A (produtos regulados): segue-se a avaliação da conformidade prevista na legislação setorial (art. 43.º, n.º 3 AI Act)
 - Após avaliação conforme: Declaração UE de Conformidade (art. 47.º) + Marcação CE
 
 ### ETAPA 4 — REGISTO NA BASE DE DADOS UE (art. 71.º AI Act)
 Descreve o procedimento de registo:
-- Base de dados: eu-aidb.eu ou portal European AI Office [■ VERIFICAR: URL oficial]
-- Obrigação: providers de sistemas de alto risco registam o sistema antes de colocação no mercado
-- Deployers de entidades públicas: registo na mesma base de dados (art. 49.º, n.º 2 AI Act)
+- Base de dados: a base de dados da UE criada e mantida pela Comissão, em colaboração com os Estados-Membros (art. 71.º AI Act) [■ VERIFICAR: endereço oficial de acesso; não usar domínios não confirmados]
+- Obrigação: providers (ou mandatários) de sistemas de alto risco do Anexo III registam-se e registam o sistema antes da colocação no mercado ou em serviço (art. 49.º, n.º 1 AI Act); os do Anexo III, ponto 2 (infraestruturas críticas), são registados a nível nacional (art. 49.º, n.º 5 AI Act); regista-se também o sistema que o provider concluiu não ser de alto risco ao abrigo do art. 6.º, n.º 3 (art. 49.º, n.º 2 AI Act)
+- Deployers que sejam autoridades públicas ou pessoas que atuem em seu nome: registam-se, selecionam o sistema e registam a sua utilização na mesma base de dados (art. 49.º, n.º 3 AI Act)
 - Informação a registar: identificação do provider, descrição do sistema, finalidade, categoria de risco, estado de conformidade
 
 ### ETAPA 5 — AUTORIDADE NACIONAL E SUPERVISÃO
 Apresenta dentro de um bloco <autoridade_nacional>:
-- Designação da autoridade nacional competente ao abrigo do art. 70.º AI Act em Portugal: [■ VERIFICAR: decreto-lei ou portaria de designação em PT]
+- Designação da autoridade nacional competente ao abrigo do art. 70.º AI Act em Portugal: [■ VERIFICAR: diploma de designação em PT — o Governo anunciou em 19/9/2025 a intenção de designar a ANACOM como autoridade de fiscalização do mercado e ponto de contacto único, mas a designação não estava publicada em outubro de 2026]
 - Ponto de contacto nacional
 - Obrigação de notificação de incidentes graves: art. 73.º AI Act → à autoridade nacional
 - Cooperação com o AI Office europeu para sistemas GPAI
@@ -113,16 +116,26 @@ Apresenta dentro de um bloco <autoridade_nacional>:
 | art. 70.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 70.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 5.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 113.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 26.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 26.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | arts. 23.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 11.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 17.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 12.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 13.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 35.º RGPD | conferida (epígrafe) — Avaliação de impacto sobre a proteção de dados |  |
 | art. 47.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 47.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 43.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 43.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 43.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 43.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 71.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 71.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 49.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 49.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 49.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 49.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 6.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 73.º | por conferir [■ VERIFICAR] | diploma não identificado |

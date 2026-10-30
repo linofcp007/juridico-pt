@@ -3,20 +3,22 @@ codigo: BAN-024
 area: "Direito Bancário e dos Mercados"
 titulo: "Reclamação por Movimentos Fraudulentos / Phishing"
 titulo_en: "Complaint about Fraudulent Transactions / Phishing"
-descricao: "Redige reclamação formal ao banco por operações de pagamento não autorizadas resultantes de fraude (phishing, vishing, smishing, SIM swapping), exigindo o reembolso dos valores debitados com fundamento no regime dos serviços de pagamento (DL n.º 317/2009 e Diretiva PSD2 transposta), com identificação clara dos direitos do utilizador de serviços de pagamento face ao prestador."
-descricao_en: "Drafts a formal complaint to the bank about unauthorised payment transactions resulting from fraud (phishing, vishing, smishing, SIM swapping), demanding a refund of the amounts debited on the basis of the payment services regime (Decree-Law No. 317/2009 and the transposed PSD2 Directive), clearly identifying the payment service user's rights against the provider."
+descricao: "Redige reclamação formal ao banco por operações de pagamento não autorizadas resultantes de fraude (phishing, vishing, smishing, SIM swapping), exigindo o reembolso dos valores debitados com fundamento no Regime Jurídico dos Serviços de Pagamento e da Moeda Eletrónica (DL n.º 91/2018, que transpôs a Diretiva PSD2 e revogou o DL n.º 317/2009), com identificação clara dos direitos do utilizador de serviços de pagamento face ao prestador."
+descricao_en: "Drafts a formal complaint to the bank about unauthorised payment transactions resulting from fraud (phishing, vishing, smishing, SIM swapping), demanding a refund of the amounts debited on the basis of the Legal Regime for Payment Services and Electronic Money (Decree-Law No. 91/2018, which transposed the PSD2 Directive and repealed Decree-Law No. 317/2009), clearly identifying the payment service user's rights against the provider."
 ambito: nacional
-estado_citacoes: "conferidas 0 · corrigidas 0 · por conferir 18"
+estado_citacoes: "conferidas 0 · corrigidas 0 · por conferir 29"
+revisao_tecnica: "2026-10-30 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
 # Reclamação por Movimentos Fraudulentos / Phishing
 
 > **Âmbito:** nacional · **Área:** Direito Bancário e dos Mercados · **Código:** BAN-024
-> **EN:** Complaint about Fraudulent Transactions / Phishing. Drafts a formal complaint to the bank about unauthorised payment transactions resulting from fraud (phishing, vishing, smishing, SIM swapping), demanding a refund of the amounts debited on the basis of the payment services regime (Decree-Law No. 317/2009 and the transposed PSD2 Directive), clearly identifying the payment service user's rights against the provider.
-> **Citações:** conferidas 0 · corrigidas 0 · por conferir 18. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **EN:** Complaint about Fraudulent Transactions / Phishing. Drafts a formal complaint to the bank about unauthorised payment transactions resulting from fraud (phishing, vishing, smishing, SIM swapping), demanding a refund of the amounts debited on the basis of the Legal Regime for Payment Services and Electronic Money (Decree-Law No. 91/2018, which transposed the PSD2 Directive and repealed Decree-Law No. 317/2009), clearly identifying the payment service user's rights against the provider.
+> **Citações:** conferidas 0 · corrigidas 0 · por conferir 29. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-30 — corrigida (9 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
-Redige reclamação formal ao banco por operações de pagamento não autorizadas resultantes de fraude (phishing, vishing, smishing, SIM swapping), exigindo o reembolso dos valores debitados com fundamento no regime dos serviços de pagamento (DL n.º 317/2009 e Diretiva PSD2 transposta), com identificação clara dos direitos do utilizador de serviços de pagamento face ao prestador.
+Redige reclamação formal ao banco por operações de pagamento não autorizadas resultantes de fraude (phishing, vishing, smishing, SIM swapping), exigindo o reembolso dos valores debitados com fundamento no Regime Jurídico dos Serviços de Pagamento e da Moeda Eletrónica (DL n.º 91/2018, que transpôs a Diretiva PSD2 e revogou o DL n.º 317/2009), com identificação clara dos direitos do utilizador de serviços de pagamento face ao prestador.
 
 ## Método
 
@@ -37,29 +39,30 @@ Em <analise_do_caso>:
 - Qual o montante debitado indevidamente?
 - Quando o cliente detetou a fraude e quando comunicou ao banco?
 - O banco bloqueou imediatamente após a comunicação?
-- O banco alega que houve negligência grave do cliente (autorizou sem saber)?
+- O banco alega que houve negligência grosseira do cliente (autorizou sem saber)?
 - Existe participação criminal apresentada?
 
 ### ETAPA 2 — ANÁLISE JURÍDICA
 Em <fundamentos_juridicos>:
-- DL n.º 91/2018 (PSD2 transposta):
-  - Art. 113.º ss: operações de pagamento não autorizadas
-  - Art. 115.º: responsabilidade do prestador de serviços de pagamento (PSP) por operação não autorizada — reembolso imediato
-  - Art. 116.º: responsabilidade do utilizador — limitada a €50 por negligência leve; sem limite por negligência grave ou fraude do próprio utilizador
-  - Art. 117.º: obrigação de comunicação imediata ao PSP
-  - Art. 118.º: prazo para contestar operação não autorizada (13 meses [■ VERIFICAR])
-  - Art. 100.º ss: autenticação forte do cliente (SCA — Strong Customer Authentication)
-  - Art. 102.º: responsabilidade do PSP por falha de SCA
+- DL n.º 91/2018 (Regime Jurídico dos Serviços de Pagamento e da Moeda Eletrónica, que transpôs a PSD2 e revogou o DL n.º 317/2009):
+  - Art. 103.º: a operação só se considera autorizada se o ordenante consentir na sua execução; sem consentimento, considera-se não autorizada (n.ºs 1 e 5)
+  - Art. 110.º: obrigações do utilizador — usar o instrumento conforme as condições e comunicar, logo que tenha conhecimento e sem atraso injustificado, a perda, o furto, o roubo, a apropriação abusiva ou a utilização não autorizada (n.º 1); tomar as medidas razoáveis para preservar a segurança das credenciais (n.º 2)
+  - Art. 112.º: comunicação da operação não autorizada logo que dela tenha conhecimento, sem atraso injustificado e dentro do prazo máximo de 13 meses a contar da data do débito (n.º 1); o prazo máximo não se aplica se o PSP não prestou a informação devida sobre a operação (n.º 2)
+  - Art. 113.º: ónus da prova do prestador de serviços de pagamento (PSP) — tem de provar que a operação foi autenticada, registada e contabilizada e que não foi afetada por avaria; o registo de utilização do instrumento não basta, por si só, para provar a autorização, a fraude ou a negligência grosseira, e o PSP tem de apresentar elementos que as demonstrem (n.ºs 1, 3 e 4)
+  - Art. 114.º: responsabilidade do PSP por operação não autorizada — reembolso imediato e, em todo o caso, até ao final do primeiro dia útil seguinte ao conhecimento ou à comunicação (n.º 1), salvo motivos razoáveis para suspeitar de fraude do ordenante, comunicados por escrito às autoridades judiciárias no mesmo prazo (n.º 2); sem reembolso imediato, juros moratórios à taxa legal acrescida de 10 pontos percentuais (n.º 10)
+  - Art. 115.º: responsabilidade do ordenante — até 50 € em caso de instrumento perdido, furtado, roubado ou abusivamente apropriado (n.º 1), salvo as exceções do n.º 2; com negligência grosseira, até ao limite do saldo disponível ou da linha de crédito associada, ainda que superior a 50 € (n.º 4); todas as perdas em caso de atuação fraudulenta ou de incumprimento deliberado das obrigações do art. 110.º (n.º 3); nenhuma perda, salvo fraude, se o PSP não exigiu autenticação forte (n.º 5) ou depois da comunicação da perda, furto, roubo ou apropriação abusiva (n.º 7)
+  - Art. 104.º: autenticação forte do cliente (SCA — Strong Customer Authentication), obrigatória no acesso em linha à conta, na iniciação de operações de pagamento eletrónico e nas ações por canal remoto com risco de fraude (n.º 1)
+  - Art. 142.º: resposta do PSP à reclamação no prazo máximo de 15 dias úteis, ou de 35 dias úteis em situações excecionais (n.ºs 2 a 4)
 - RGICSF: art. 73.º — deveres do banco
 - Diretiva 2015/2366/UE (PSD2): art. 73.º — reembolso imediato
 - Instrução do Banco de Portugal sobre fraudes [■ VERIFICAR instrução específica]
 
 ### ETAPA 3 — CONSTRUÇÃO
 Em <estrategia>:
-- Argumentar que a operação não foi autorizada pelo cliente (art. 115.º DL 91/2018)
-- Contestar alegação de negligência grave (padrão elevado — não é o cliente culpado por ser enganado por fraude sofisticada)
-- Verificar se houve autenticação forte (SCA) — se não houve, o banco é responsável mesmo com negligência do utilizador (art. 102.º DL 91/2018)
-- Exigir reembolso imediato + juros
+- Argumentar que a operação não foi autorizada pelo cliente (art. 103.º DL 91/2018) e que cabe ao banco provar a autenticação e demonstrar eventual fraude ou negligência grosseira (art. 113.º DL 91/2018)
+- Contestar a alegação de negligência grosseira (padrão elevado — ser enganado por fraude sofisticada não é, por si só, negligência grosseira)
+- Verificar se houve autenticação forte (SCA) — se o banco não a exigiu, o ordenante não suporta perdas, salvo se tiver agido fraudulentamente (arts. 104.º e 115.º, n.º 5, DL 91/2018)
+- Exigir reembolso imediato (até ao final do primeiro dia útil seguinte à comunicação) + juros moratórios (art. 114.º, n.ºs 1 e 10, DL 91/2018)
 
 ### ETAPA 4 — A RECLAMAÇÃO
 
@@ -96,26 +99,28 @@ Titular: [nome], NIF [número], morada [morada], contacto [email/telefone]
 
 A — OPERAÇÃO NÃO AUTORIZADA
 
-As transações descritas não foram autorizadas pelo reclamante. Nos termos do art. 113.º, n.º 1 do DL n.º 91/2018: "[transcrição]"
+As transações descritas não foram autorizadas pelo reclamante. Nos termos do art. 103.º, n.ºs 1 e 5, do DL n.º 91/2018: "[transcrição]"
+
+Negando o reclamante ter autorizado as operações, incumbe a V. Ex.ª provar que foram autenticadas, devidamente registadas e contabilizadas e que não foram afetadas por avaria técnica ou outra deficiência, não bastando, por si só, o registo de utilização do instrumento de pagamento (art. 113.º, n.ºs 1 e 3, do DL n.º 91/2018).
 
 B — RESPONSABILIDADE DO BANCO
 
-Nos termos do art. 115.º, n.º 1 do DL n.º 91/2018: "[transcrição]"
+Nos termos do art. 114.º, n.º 1, do DL n.º 91/2018: "[transcrição]"
 
-O banco está obrigado a reembolsar imediatamente o valor das transações não autorizadas.
+O banco está obrigado a reembolsar imediatamente o valor das transações não autorizadas e, em todo o caso, o mais tardar até ao final do primeiro dia útil seguinte à comunicação, com data-valor não posterior à data do débito (art. 114.º, n.ºs 1 e 3).
 
 C — AUTENTICAÇÃO FORTE (SCA)
 
-[Se aplicável] As transações foram realizadas sem autenticação forte do cliente (SCA). Nos termos do art. 102.º DL 91/2018: "[transcrição]". Na ausência de SCA por falha do banco, a responsabilidade do utilizador é afastada mesmo que haja negligência.
+[Se aplicável] As transações foram realizadas sem autenticação forte do cliente (SCA), exigida pelo art. 104.º, n.º 1, do DL n.º 91/2018. Nos termos do art. 115.º, n.º 5, do mesmo diploma: "[transcrição]". Não tendo o banco exigido a autenticação forte, o ordenante não suporta quaisquer perdas, mesmo que haja negligência, salvo se tiver agido fraudulentamente.
 
-D — NEGLIGÊNCIA GRAVE (CONTESTAÇÃO)
+D — NEGLIGÊNCIA GROSSEIRA (CONTESTAÇÃO)
 
-[Se o banco alegar negligência grave] O standard de negligência grave no regime PSD2 é elevado. O reclamante foi vítima de um esquema de fraude sofisticado — [descrição] — que não configura negligência grave, mas engano resultante de metodologia de fraude profissional.
+[Se o banco alegar negligência grosseira] O padrão da negligência grosseira é elevado, e cabe ao banco apresentar elementos que a demonstrem, não bastando o registo de utilização do instrumento de pagamento (art. 113.º, n.ºs 3 e 4, do DL n.º 91/2018). O reclamante foi vítima de um esquema de fraude sofisticado — [descrição] — que não configura negligência grosseira, mas engano resultante de metodologia de fraude profissional. Ainda que houvesse negligência grosseira, as perdas do ordenante ficariam limitadas ao saldo disponível ou à linha de crédito associada (art. 115.º, n.º 4), e não abrangeriam a utilização posterior à comunicação ao banco, salvo fraude (art. 115.º, n.º 7).
 
 **III. PEDIDO**
 O reclamante requer:
-a) Reembolso imediato de €[valor], nos termos do art. 115.º DL n.º 91/2018;
-b) Juros de mora desde [data das transações fraudulentas];
+a) Reembolso imediato de €[valor], nos termos do art. 114.º, n.º 1, do DL n.º 91/2018;
+b) Não havendo reembolso imediato, juros moratórios à taxa legal acrescida de 10 pontos percentuais, contados dia a dia desde [data em que o reclamante negou ter autorizado as operações] até ao reembolso efetivo (art. 114.º, n.º 10, do DL n.º 91/2018);
 c) Resposta no prazo de [5] dias úteis.
 
 Na falta de resposta, o reclamante apresentará reclamação ao Banco de Portugal e reserva todos os meios legais.
@@ -129,10 +134,10 @@ Em <checklist_validacao>:
 - [ ] Total do montante debitado indevidamente calculado
 - [ ] Comunicação imediata ao banco documentada
 - [ ] Participação criminal referenciada ou a apresentar
-- [ ] Art. 115.º DL 91/2018 (reembolso imediato) invocado
-- [ ] SCA verificado (art. 102.º DL 91/2018)
-- [ ] Negligência grave contestada (se banco a alegar)
-- [ ] Prazo de contestação verificado (13 meses — art. 118.º [■ VERIFICAR])
+- [ ] Art. 114.º DL 91/2018 (reembolso imediato) invocado
+- [ ] SCA verificado (arts. 104.º e 115.º, n.º 5, DL 91/2018)
+- [ ] Negligência grosseira contestada (se banco a alegar)
+- [ ] Prazo de comunicação verificado (sem atraso injustificado e até 13 meses após o débito — art. 112.º, n.º 1, DL 91/2018)
 - [ ] Pontos [■ VERIFICAR] sinalizados
 - [ ] Disclaimer incluído
 
@@ -173,21 +178,32 @@ Em <checklist_validacao>:
 
 | Citação | Estado | Nota |
 |---|---|---|
+| Art. 103.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| Art. 110.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| Art. 112.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | Art. 113.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| Art. 114.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| Art. 114.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | Art. 115.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| Art. 115.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| Art. 116.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| Art. 117.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| Art. 118.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| Art. 100.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| Art. 102.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 110.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| Art. 104.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| Art. 142.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 73.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 73.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| art. 115.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| art. 115.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| art. 115.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| art. 102.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| art. 102.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| art. 102.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 103.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 103.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 113.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| art. 118.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 113.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 113.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| arts. 104.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| arts. 104.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 114.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 114.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 114.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 114.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 114.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 104.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 115.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 115.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 115.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 112.º | por conferir [■ VERIFICAR] | diploma não identificado |

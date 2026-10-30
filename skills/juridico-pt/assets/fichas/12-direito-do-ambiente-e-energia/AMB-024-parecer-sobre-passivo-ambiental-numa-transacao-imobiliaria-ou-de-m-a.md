@@ -93,7 +93,7 @@ Custo estimado de remediação: [■ VERIFICAR com relatório Fase II se necess�
 Risco: [baixo / médio / alto]
 
 III.3 — Contraordenações e Processos Pendentes
-Processos de contra-ordenação em curso: [■ VERIFICAR com vendedor + IGAMAOT]
+Processos de contraordenação em curso: [■ VERIFICAR com vendedor + IGAMAOT]
 Risco de responsabilidade pós-aquisição (share deal)
 
 III.4 — Resíduos

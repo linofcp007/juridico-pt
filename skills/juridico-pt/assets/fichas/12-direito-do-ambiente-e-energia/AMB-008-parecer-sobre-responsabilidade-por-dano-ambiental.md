@@ -44,7 +44,7 @@ Analisa em <analise_do_caso>:
 - Regime de responsabilidade aplicável: objetiva (Anexo III) ou subjetiva (outras atividades)?
 - Nexo de causalidade: direta ou múltiplos operadores?
 - Ameaça iminente vs. dano consumado
-- Medidas de prevenção e reparação já adoptadas
+- Medidas de prevenção e reparação já adotadas
 - Autoridade competente: APA (art. 29.º DL 147/2008)
 - Interface com responsabilidade civil/penal
 
@@ -143,7 +143,7 @@ Apresenta em <checklist_validacao>:
   ex. "somos responsáveis pelo dano? qual a nossa exposição?
   temos obrigação de reparar? como nos defendermos da ação da APA?"]
 
-**MEDIDAS JÁ ADOPTADAS:**
+**MEDIDAS JÁ ADOTADAS:**
 - [Medidas de emergência, reparação, notificações feitas]
 
 **DOCUMENTAÇÃO DISPONÍVEL:**

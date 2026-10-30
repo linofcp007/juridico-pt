@@ -6,7 +6,7 @@ titulo_en: "Articles of Association of a Private Limited Company (Lda.)"
 descricao: "Gera um pacto social completo para constituição de sociedade por quotas de responsabilidade limitada (Lda.), em conformidade com o Código das Sociedades Comerciais (CSC), pronto para registo na Conservatória do Registo Comercial ou submissão no portal Empresa Online."
 descricao_en: "Generates complete articles of association (pacto social) for the incorporation of a private limited company (sociedade por quotas, Lda.), in accordance with the Commercial Companies Code (CSC), ready for registration at the Commercial Registry Office (Conservatória do Registo Comercial) or submission through the Empresa Online portal."
 ambito: nacional
-estado_citacoes: "conferidas 19 · corrigidas 1 · por conferir 13"
+estado_citacoes: "conferidas 19 · corrigidas 1 · por conferir 14"
 remete_para: "assets/templates/pacto-social-unipessoal-lda"
 revisao_tecnica: "2026-10-28 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
@@ -17,7 +17,7 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 > **Âmbito:** nacional · **Área:** Direito Comercial e das Sociedades · **Código:** COM-001
 > **EN:** Articles of Association of a Private Limited Company (Lda.). Generates complete articles of association (pacto social) for the incorporation of a private limited company (sociedade por quotas, Lda.), in accordance with the Commercial Companies Code (CSC), ready for registration at the Commercial Registry Office (Conservatória do Registo Comercial) or submission through the Empresa Online portal.
 > **Ver também:** `assets/templates/pacto-social-unipessoal-lda` — a ficha cobre a sociedade por quotas com vários sócios. Usa-o primeiro.
-> **Citações:** conferidas 19 · corrigidas 1 · por conferir 13. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 19 · corrigidas 1 · por conferir 14. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
 > **Revisão técnica:** 2026-10-28 — corrigida (8 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
 Gera um pacto social completo para constituição de sociedade por quotas de responsabilidade limitada (Lda.), em conformidade com o Código das Sociedades Comerciais (CSC), pronto para registo na Conservatória do Registo Comercial ou submissão no portal Empresa Online.
@@ -174,6 +174,7 @@ Apresente em <checklist_validacao>:
 | Art. 246.º CSC | conferida (epígrafe) — Competência dos sócios |  |
 | arts. 250.º, n.º 3, e 265.º CSC | conferida (epígrafe) — Votos |  |
 | Arts. 252.º, 259.º e 260.º CSC | conferida (epígrafe) — Composição da gerência |  |
+| art. 254 CSC | por conferir [■ VERIFICAR] | o assunto descrito não coincide com a epígrafe; confirmar |
 | arts. 228.º e 229.º CSC | conferida (epígrafe) — Transmissão entre vivos e cessão de quotas |  |
 | ARTIGO 1.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | ARTIGO 2.º | por conferir [■ VERIFICAR] | diploma não identificado |

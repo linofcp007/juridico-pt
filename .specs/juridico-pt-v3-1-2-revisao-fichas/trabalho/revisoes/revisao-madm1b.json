@@ -1,0 +1,281 @@
+[
+ {
+  "codigo": "ADM-033",
+  "veredicto": "corrigida",
+  "resumo": "A tabela de prazos citava o n.º 4 do art. 58.º CPTA (revogado) para os atos nulos e o art. 141.º CPTA (legitimidade) para o recurso, dava 1 ano à condenação à prática de ato devido sem distinguir o indeferimento (3 meses, art. 69.º, n.º 2) e apresentava como prazo de ação o prazo de prescrição da responsabilidade civil e o poder de anulação administrativa (6 meses/5 anos e 1 ano para atos constitutivos de direitos). Também aplicava a suspensão em férias judiciais ao prazo de impugnação, que se conta pelo art. 279.º CC (art. 58.º, n.º 2, CPTA). Corrigiram-se as linhas da tabela e as regras de suspensão, com o regime do art. 58.º, n.º 3, CPTA para a impugnação fora de prazo.",
+  "substituicoes": [
+   {
+    "de": "| Impugnação de ato nulo | Sem prazo | Art. 58.º, n.º 4, CPTA | — |",
+    "para": "| Impugnação de ato nulo | Sem prazo | Art. 58.º, n.º 1, CPTA | — |",
+    "motivo": "O n.º 4 do art. 58.º CPTA está revogado; a regra de que a impugnação de atos nulos não está sujeita a prazo consta do n.º 1.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=439A0059&nid=439&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "| Condenação à prática de ato devido | 1 ano | Art. 69.º CPTA | Decurso do prazo de decisão |",
+    "para": "| Condenação à prática de ato devido — inércia da Administração | 1 ano | Art. 69.º, n.º 1, CPTA | Termo do prazo legal de emissão do ato omitido |\n| Condenação à prática de ato devido — indeferimento, recusa de apreciação do requerimento ou pretensão de substituição de ato de conteúdo positivo | 3 meses | Art. 69.º, n.º 2, e art. 58.º, n.º 1, al. b), CPTA | Notificação do ato (art. 59.º CPTA) |",
+    "motivo": "O prazo de 1 ano só vale para a inércia; no indeferimento e na recusa de apreciação aplicam-se os arts. 58.º a 60.º CPTA (3 meses).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=439A0069&nid=439&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "| Responsabilidade civil do Estado | 3 anos | Art. 498.º CC + art. 5.º RRCEE | Conhecimento do dano |",
+    "para": "| Responsabilidade civil do Estado (prazo de prescrição, com suspensão e interrupção nos termos do CC; não há prazo de caducidade da ação — art. 41.º, n.º 1, CPTA) | 3 anos | Art. 498.º, n.º 1, CC + art. 5.º RRCEE (Lei 67/2007) | Conhecimento, pelo lesado, do direito que lhe compete |",
+    "motivo": "O art. 5.º do RRCEE remete para o art. 498.º CC (prescrição, não caducidade) e a ação pode ser proposta a todo o tempo; o prazo conta-se do conhecimento do direito.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2073A0005&nid=2073&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "| Recurso jurisdicional (1.ª instância) | 30 dias | Art. 141.º CPTA | Notificação da sentença |",
+    "para": "| Recurso jurisdicional (1.ª instância) | 30 dias (15 dias nos processos urgentes — art. 147.º, n.º 1, CPTA) | Art. 144.º, n.º 1, CPTA | Notificação da decisão recorrida |",
+    "motivo": "O art. 141.º CPTA trata da legitimidade; o prazo de 30 dias está no art. 144.º, n.º 1, e o dos processos urgentes (15 dias) no art. 147.º, n.º 1.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=439A0144&nid=439&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "| Anulação administrativa | 5 anos | Art. 168.º CPA | Data do ato |",
+    "para": "| Anulação administrativa (poder da Administração, oficioso ou a pedido do interessado mediante reclamação ou recurso administrativo — art. 169.º, n.º 1, CPA; não é prazo de ação judicial) | 6 meses a contar do conhecimento da causa de invalidade pelo órgão competente, desde que não tenham decorrido 5 anos desde a emissão; atos constitutivos de direitos: 1 ano desde a emissão, salvo os casos do n.º 4 (5 anos) | Art. 168.º, n.os 1, 2 e 4, CPA | Conhecimento da causa de invalidade / emissão do ato |",
+    "motivo": "O art. 168.º CPA fixa 6 meses desde o conhecimento da invalidade, com o limite de 5 anos, e 1 ano para atos constitutivos de direitos; é um poder da Administração, não um prazo de ação.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2248A0168&nid=2248&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Férias judiciais suspendem prazos processuais (verificar CPC — arts. 138.º e 139.º)",
+    "para": "- Férias judiciais: os prazos de impugnação do art. 58.º, n.º 1, CPTA (também aplicáveis à condenação em caso de indeferimento — art. 69.º, n.º 2) contam-se nos termos do art. 279.º CC e não se suspendem em férias judiciais; se terminarem em férias ou em dia em que os tribunais estejam encerrados, o termo transfere-se para o 1.º dia útil seguinte (art. 58.º, n.º 2, CPTA). A suspensão em férias (art. 138.º, n.º 1, CPC) vale para os prazos processuais, salvo nos processos urgentes [■ VERIFICAR: regime de contagem dos prazos dos arts. 69.º, n.º 1, e 101.º CPTA, que não remetem para o n.º 2 do art. 58.º]",
+    "motivo": "O prazo de propositura é substantivo e conta-se pelo art. 279.º CC (art. 58.º, n.º 2, CPTA); a suspensão em férias do art. 138.º CPC respeita aos prazos processuais.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=439A0059&nid=439&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Força maior (art. 140.º CPC — subsidiário)",
+    "para": "- Justo impedimento e atraso desculpável: a impugnação é admitida para além do prazo de 3 meses quando ocorra justo impedimento, nos termos da lei processual civil (art. 58.º, n.º 3, al. a), CPTA, e art. 140.º CPC); o mesmo n.º 3 admite-a ainda no prazo de 3 meses após a cessação do erro induzido pela conduta da Administração (al. b)) e, enquanto não tiver decorrido 1 ano sobre a prática ou a publicação do ato, quando o atraso seja desculpável (al. c))",
+    "motivo": "O CPTA regula expressamente a impugnação fora de prazo no art. 58.º, n.º 3, que remete para o justo impedimento da lei processual civil.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=439A0059&nid=439&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar o regime de contagem do prazo de 1 ano da inércia (art. 69.º, n.º 1, CPTA) e do prazo de 1 mês do contencioso pré-contratual (art. 101.º CPTA), que não remetem para o art. 58.º, n.º 2.",
+   "Na responsabilidade civil, confirmar no caso concreto o início do prazo de prescrição (conhecimento do direito pelo lesado) e as causas de suspensão e interrupção do CC.",
+   "Verificar se há prazo especial em legislação avulsa («salvo disposição legal em contrário», art. 58.º, n.º 1, CPTA)."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=439A0059&nid=439&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=439A0069&nid=439&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=439A0041&nid=439&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=439A0101&nid=439&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=439A0144&nid=439&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2248A0168&nid=2248&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2073A0005&nid=2073&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=775A0498&nid=775&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1959A0138&nid=1959&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+  ]
+ },
+ {
+  "codigo": "ADM-036",
+  "veredicto": "corrigida",
+  "resumo": "A ficha dava à intimação prazos de 15 dias para a resposta e de 30 dias para a decisão, quando o CPTA fixa 7 dias para a resposta (art. 110.º, n.º 1) e 5 dias para a decisão após as diligências (art. 111.º, n.º 1). Invocava um «prazo» no art. 109.º, n.º 3, CPTA, que não existe (o n.º 3 trata da sentença substitutiva de ato vinculado), a competência no art. 40.º ETAF (funcionamento) em vez do art. 44.º, e media a subsidiariedade pela «ação administrativa comum», extinta em 2015, quando o critério é a insuficiência de uma providência cautelar. Corrigiram-se estes pontos e o papel do Ministério Público.",
+  "substituicoes": [
+   {
+    "de": "— A intimação do art. 109.º CPTA é processo urgente com prazo de resposta de 15 dias e decisão judicial em 30 dias.",
+    "para": "— A intimação para proteção de direitos, liberdades e garantias é processo urgente (art. 36.º, n.º 1, al. e), CPTA): despacho liminar no prazo máximo de 48 horas, com citação da entidade requerida para responder no prazo de 7 dias (art. 110.º, n.º 1, CPTA), que o juiz pode reduzir, ou substituir por audiência oral no prazo de 48 horas, em caso de especial urgência (art. 110.º, n.º 3, CPTA); a decisão é proferida no prazo máximo de 5 dias após as diligências necessárias (art. 111.º, n.º 1, CPTA).",
+    "motivo": "O prazo de resposta é de 7 dias e o de decisão é de 5 dias após as diligências, não 15 e 30 dias.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=439A0110&nid=439&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Direito fundamental em causa e seu fundamento constitucional (CRP)",
+    "para": "- Direito, liberdade ou garantia em causa (título II da parte I da CRP ou direito fundamental de natureza análoga — art. 17.º CRP) e seu fundamento constitucional",
+    "motivo": "A intimação protege direitos, liberdades e garantias e direitos de natureza análoga, não todos os direitos fundamentais.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=4A0017&nid=4&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Urgência: por que a ação administrativa comum não é suficiente",
+    "para": "- Urgência: por que é indispensável uma decisão de mérito célere e não é possível ou suficiente, no caso, o decretamento de uma providência cautelar (art. 109.º, n.º 1, CPTA; a «ação administrativa comum» deixou de existir com o DL n.º 214-G/2015)",
+    "motivo": "A subsidiariedade da intimação mede-se pela providência cautelar; a ação administrativa comum foi extinta na reforma de 2015.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=439A0110&nid=439&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Entidade Requerida (pessoa coletiva pública ou entidade com poderes públicos)",
+    "para": "- Entidade Requerida (pessoa coletiva pública ou entidade com poderes públicos; a intimação também pode ser dirigida contra particulares, designadamente concessionários — art. 109.º, n.º 2, CPTA)",
+    "motivo": "O art. 109.º, n.º 2, CPTA admite a intimação contra particulares, designadamente concessionários.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=439A0110&nid=439&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Requisitos de admissibilidade da intimação (art. 109.º CPTA): urgência, direito fundamental, inadequação das vias normais",
+    "para": "- Requisitos de admissibilidade da intimação (art. 109.º CPTA): indispensabilidade de uma decisão de mérito célere, que imponha à Administração uma conduta positiva ou negativa, para assegurar o exercício em tempo útil de um direito, liberdade ou garantia, e impossibilidade ou insuficiência, no caso, do decretamento de uma providência cautelar; se esta bastar, o juiz fixa prazo para a substituição da petição (art. 110.º-A, n.º 1, CPTA)",
+    "motivo": "Os pressupostos legais são a indispensabilidade de decisão de mérito célere e a insuficiência da tutela cautelar, não a «inadequação das vias normais».",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=439A0110&nid=439&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Pressupostos processuais: competência do TAC (art. 40.º ETAF), prazo (art. 109.º, n.º 3, CPTA)",
+    "para": "- Pressupostos processuais: competência do tribunal administrativo de círculo (art. 44.º, n.º 1, ETAF) e competência territorial (art. 16.º CPTA, salvo as regras especiais dos arts. 17.º e ss.); o art. 109.º CPTA não fixa prazo de propositura (o n.º 3 respeita à sentença que produz os efeitos de ato estritamente vinculado), mas a indispensabilidade de decisão célere tem de se verificar à data do requerimento",
+    "motivo": "O art. 40.º ETAF trata do funcionamento; a competência dos TAC está no art. 44.º ETAF. O art. 109.º, n.º 3, CPTA não fixa prazo.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=418A0044&nid=418&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Necessidade de notificação urgente ao Ministério Público",
+    "para": "- Intervenção do Ministério Público: não depende de requerimento; a remessa da petição ao Ministério Público cabe à secretaria no momento da citação (art. 85.º, n.º 1, CPTA) [■ VERIFICAR: aplicação deste regime à tramitação urgente dos arts. 110.º e 111.º CPTA]",
+    "motivo": "O regime da intimação não prevê notificação do Ministério Público a requerer pela parte; o art. 85.º CPTA atribui a remessa à secretaria.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=439A0085&nid=439&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "3. [Se aplicável] Que sejam decretadas as medidas provisórias necessárias até decisão final.",
+    "para": "3. [Se aplicável, a título subsidiário] Caso se entenda que a situação se basta com uma providência cautelar, que seja fixado prazo para a substituição da petição e, verificando-se especial urgência, decretada provisoriamente a providência cautelar adequada (art. 110.º-A, n.os 1 e 2, CPTA).",
+    "motivo": "O CPTA não prevê «medidas provisórias até decisão final» na intimação; a via é a convolação em providência cautelar do art. 110.º-A.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=439A0110&nid=439&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Urgência e inadequação da via comum fundamentadas",
+    "para": "- [ ] Urgência e impossibilidade ou insuficiência de providência cautelar fundamentadas",
+    "motivo": "Alinhar com o pressuposto do art. 109.º, n.º 1, CPTA.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=439A0110&nid=439&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Prazo do art. 109.º, n.º 3, CPTA verificado",
+    "para": "- [ ] Atualidade da urgência verificada (o art. 109.º CPTA não fixa prazo de propositura)",
+    "motivo": "O art. 109.º, n.º 3, CPTA não fixa prazo.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=439A0110&nid=439&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar se a intervenção do Ministério Público prevista no art. 85.º CPTA se aplica à tramitação urgente da intimação.",
+   "Avaliar a demora do requerente desde a lesão: embora não haja prazo legal, a jurisprudência pode negar a urgência quando o interessado tardou a reagir [■ VERIFICAR: jurisprudência atual].",
+   "Confirmar a competência territorial à luz das regras especiais dos arts. 17.º e ss. CPTA e a eventual existência de juízos administrativos especializados (art. 44.º-A ETAF)."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=439A0110&nid=439&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=439A0111&nid=439&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=439A0144&nid=439&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=439A0041&nid=439&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=439A0085&nid=439&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=439A0016&nid=439&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=418A0044&nid=418&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=4A0017&nid=4&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+  ]
+ },
+ {
+  "codigo": "ADM-038",
+  "veredicto": "corrigida",
+  "titulo": "Requerimento de Mera Comunicação Prévia ou de Autorização (RJACSR e Licenciamento Zero)",
+  "titulo_en": "Prior Notification or Authorisation Application (RJACSR and Licenciamento Zero)",
+  "descricao": "Redige mera comunicação prévia ou pedido de autorização para o acesso a atividades de comércio, serviços e restauração ao abrigo do Decreto-Lei n.º 10/2015 (RJACSR), e a declaração de ocupação do espaço público ao abrigo do Decreto-Lei n.º 48/2011 (Licenciamento Zero), incluindo a resposta a convite ao aperfeiçoamento e a reação a indeferimento; as operações urbanísticas sujeitas a controlo prévio seguem o RJUE (DL n.º 555/99).",
+  "descricao_en": "Drafts a prior notification (mera comunicação prévia) or an authorisation application for access to commerce, services and catering activities under Decree-Law No. 10/2015 (RJACSR), and the declaration for the occupation of public space under Decree-Law No. 48/2011 (Licenciamento Zero), including the reply to an invitation to complete the application and the response to a refusal; urban-planning operations subject to prior control follow the RJUE (Decree-Law No. 555/99).",
+  "resumo": "A ficha chamava «RJAELA» ao DL n.º 10/2015 (é o RJACSR) e assentava num procedimento que este não prevê: «não aceitação» da comunicação prévia fundada nos arts. 15.º e ss. (que regulam a autorização conjunta de grandes superfícies), prazo de 10 dias úteis do art. 17.º (caducidade das autorizações) e elementos instrutórios no art. 9.º (prazos das autorizações). O RJACSR só conhece a mera comunicação prévia (art. 4.º), a autorização com deferimento tácito em 30 dias (arts. 5.º, 8.º e 9.º) e a autorização conjunta (art. 6.º); a comunicação prévia com prazo não lhe é aplicável e o DL n.º 48/2011 mantém-se sobretudo para a ocupação do espaço público. Reescreveram-se as regras, a análise, o requerimento e a checklist com estes regimes e com o art. 134.º CPA, e acertaram-se o título e a descrição.",
+  "substituicoes": [
+   {
+    "de": "— A comunicação prévia permite início imediato de atividade; a não aceitação tem de ser fundamentada nos termos dos arts. 15.º e ss. do DL n.º 10/2015.",
+    "para": "— A mera comunicação prévia permite iniciar a atividade logo após a sua apresentação, sem ato administrativo (art. 134.º, n.º 1, CPA; art. 4.º do RJACSR, anexo ao DL n.º 10/2015). As atividades do art. 5.º do RJACSR dependem de autorização do município, com deferimento tácito se não houver deliberação no prazo de 30 dias (art. 9.º, n.os 1 e 2, do RJACSR), e as grandes superfícies e conjuntos comerciais do art. 6.º de autorização conjunta. Só na comunicação prévia com prazo, quando a lei a preveja, a atividade aguarda o decurso do prazo sem pronúncia contrária (art. 134.º, n.os 2 e 3, CPA). O RJACSR não prevê uma decisão de «não aceitação» da mera comunicação prévia; qualquer decisão desfavorável é um ato administrativo sujeito ao dever de fundamentação (art. 152.º CPA).",
+    "motivo": "Os arts. 15.º e ss. do RJACSR regulam a autorização conjunta de grandes superfícies; a mera comunicação prévia não depende de aceitação e o regime de autorização tem deferimento tácito em 30 dias.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2261&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Tipo de atividade e enquadramento no RJAELA (lista de atividades sujeitas a comunicação prévia)",
+    "para": "- Tipo de atividade e enquadramento no RJACSR, anexo ao DL n.º 10/2015 (mera comunicação prévia — art. 4.º; autorização — art. 5.º; autorização conjunta — art. 6.º) ou, para a ocupação do espaço público com toldos, esplanadas e mobiliário semelhante, no DL n.º 48/2011 (arts. 10.º a 12.º)",
+    "motivo": "O DL n.º 10/2015 aprova o RJACSR; do DL n.º 48/2011 restam sobretudo a ocupação do espaço público e a publicidade, pois os arts. 4.º a 9.º foram revogados pelo DL n.º 10/2015.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1337&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Estado do procedimento: comunicação prévia inicial, notificação de defeito ou não aceitação",
+    "para": "- Estado do procedimento: mera comunicação prévia ou pedido de autorização inicial, convite ao aperfeiçoamento, indeferimento (liminar ou final) ou medida adotada na fiscalização",
+    "motivo": "Adequar aos trâmites que o RJACSR efetivamente prevê.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2261&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Prazo para apresentação de elementos (10 dias úteis — art. 17.º DL n.º 10/2015)",
+    "para": "- Prazo para corrigir ou completar o pedido de autorização: o fixado no convite ao aperfeiçoamento, no máximo 20 dias, sob pena de indeferimento liminar (art. 8.º, n.º 3, do RJACSR); na autorização conjunta, no máximo 10 dias (art. 14.º, n.º 6, do RJACSR)",
+    "motivo": "O art. 17.º do RJACSR trata da caducidade das autorizações; o prazo de aperfeiçoamento é o do art. 8.º, n.º 3 (20 dias) ou do art. 14.º, n.º 6 (10 dias).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2261&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Enquadramento da atividade no DL n.º 10/2015 ou DL n.º 48/2011",
+    "para": "- Enquadramento da atividade no RJACSR (DL n.º 10/2015) e, quanto à ocupação do espaço público, no DL n.º 48/2011",
+    "motivo": "O DL n.º 48/2011 já não regula o acesso às atividades de comércio, serviços e restauração.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1337&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Elementos instrutórios obrigatórios (art. 9.º e Anexo do DL n.º 10/2015)",
+    "para": "- Elementos instrutórios obrigatórios: os da portaria prevista nos arts. 7.º, n.º 3, e 8.º, n.º 1, do RJACSR [■ VERIFICAR: portaria em vigor]; havendo operações urbanísticas sujeitas a controlo prévio, o título urbanístico ou o respetivo código de acesso (art. 7.º, n.º 5, do RJACSR)",
+    "motivo": "O art. 9.º do RJACSR fixa os prazos das autorizações; os elementos instrutórios constam de portaria.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2261&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Consequências da não aceitação e meios de reação (reclamação, recurso hierárquico ou ação administrativa)",
+    "para": "- Consequências do indeferimento (liminar ou final) do pedido de autorização, ou da medida adotada na fiscalização de uma mera comunicação prévia, e meios de reação (reclamação, recurso hierárquico ou ação administrativa, incluindo a condenação à prática de ato devido — art. 20.º, n.º 4, do RJACSR)",
+    "motivo": "O RJACSR não prevê «não aceitação»; prevê indeferimento liminar ou final da autorização e a possibilidade de ação de condenação à prática de ato devido.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2261&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Princípio da proporcionalidade e da mínima intervenção (arts. 7.º e 8.º CPA)",
+    "para": "- Princípios da proporcionalidade, da justiça e da razoabilidade (arts. 7.º e 8.º CPA)",
+    "motivo": "O art. 8.º CPA consagra os princípios da justiça e da razoabilidade, não um princípio de «mínima intervenção».",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2248A0008&nid=2248&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Efeito do silêncio positivo após comunicação prévia (se aplicável)",
+    "para": "- Efeito do silêncio: a mera comunicação prévia não depende de decisão; na comunicação prévia com prazo, a falta de pronúncia não gera deferimento tácito, mas habilita o exercício da atividade (art. 134.º, n.º 3, CPA); no pedido de autorização há deferimento tácito decorridos 30 dias (art. 9.º, n.º 2, do RJACSR), e na ocupação do espaço público sujeita a autorização, decorridos 20 dias (art. 15.º, n.º 2, do DL n.º 48/2011)",
+    "motivo": "O deferimento tácito só existe quando a lei o prevê (art. 130.º, n.º 1, CPA); distinguir os regimes.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2248A0132&nid=2248&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Forma do requerimento (balcão único eletrónico, portal do licenciamento ou entrega física)",
+    "para": "- Forma do requerimento («Balcão do empreendedor», nos termos do art. 20.º do RJACSR; outro meio legalmente admissível, como o correio eletrónico, só quando o balcão esteja indisponível ou inacessível — art. 10.º, n.º 3, do DL n.º 10/2015)",
+    "motivo": "Os procedimentos do RJACSR são tramitados no «Balcão do empreendedor»; a entrega por outro meio é subsidiária.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2261&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "**À [ENTIDADE COORDENADORA / CÂMARA MUNICIPAL DE [LOCALIDADE]]**",
+    "para": "**À [CÂMARA MUNICIPAL DE [LOCALIDADE] / DIREÇÃO-GERAL DAS ATIVIDADES ECONÓMICAS] (via «Balcão do empreendedor»)**",
+    "motivo": "No RJACSR a autoridade competente é o município ou a DGAE (art. 7.º, n.os 1 e 2); «entidade coordenadora» é figura de outros regimes.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2261&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "**COMUNICAÇÃO PRÉVIA / RESPOSTA A NOTIFICAÇÃO DE ELEMENTOS EM FALTA**",
+    "para": "**MERA COMUNICAÇÃO PRÉVIA / PEDIDO DE AUTORIZAÇÃO / RESPOSTA A CONVITE AO APERFEIÇOAMENTO**",
+    "motivo": "Adequar às figuras do RJACSR.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2261&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "1. A aceitação da presente comunicação prévia e o registo imediato da atividade;\n2. [Se resposta a notificação] A supressão dos defeitos apontados pela entidade coordenadora, mediante os documentos que ora se juntam;\n3. [Se impugnação de não aceitação] A revogação da decisão de não aceitação por falta de fundamentação suficiente (art. 152.º CPA).",
+    "para": "1. [Se mera comunicação prévia] Que se tenha por apresentada a presente mera comunicação prévia, com a emissão do comprovativo eletrónico de entrega (art. 20.º, n.º 6, do RJACSR); [Se pedido de autorização] Que seja concedida a autorização requerida (arts. 5.º, 8.º e 9.º do RJACSR);\n2. [Se resposta a convite ao aperfeiçoamento] Que se considere corrigido ou completado o pedido, mediante os documentos que ora se juntam, e o procedimento prossiga (art. 8.º, n.º 3, do RJACSR);\n3. [Se reclamação ou recurso de indeferimento] A anulação administrativa da decisão de indeferimento por falta de fundamentação suficiente (arts. 152.º e 165.º, n.º 2, CPA).",
+    "motivo": "A mera comunicação prévia não carece de aceitação; a decisão inválida por falta de fundamentação é objeto de anulação administrativa, não de revogação (art. 165.º CPA).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2248A0168&nid=2248&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Atividade enquadrada no regime de comunicação prévia (DL n.º 10/2015 ou DL n.º 48/2011)",
+    "para": "- [ ] Atividade enquadrada no regime aplicável: mera comunicação prévia, autorização ou autorização conjunta (RJACSR, DL n.º 10/2015) ou ocupação do espaço público (DL n.º 48/2011)",
+    "motivo": "Alinhar com os regimes em vigor.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2261&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- [ ] Elementos instrutórios obrigatórios juntos (Anexo do DL n.º 10/2015)",
+    "para": "- [ ] Elementos instrutórios obrigatórios juntos (portaria prevista no art. 7.º, n.º 3, ou no art. 8.º, n.º 1, do RJACSR)",
+    "motivo": "Os elementos instrutórios constam de portaria, não do anexo.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2261&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- [ ] Prazo de resposta a notificação respeitado (10 dias úteis)",
+    "para": "- [ ] Prazo do convite ao aperfeiçoamento respeitado (o fixado, no máximo 20 dias — art. 8.º, n.º 3, do RJACSR)",
+    "motivo": "O prazo máximo de aperfeiçoamento do pedido de autorização é de 20 dias.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2261&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- [ ] Entidade coordenadora correta identificada",
+    "para": "- [ ] Autoridade competente correta identificada (município ou DGAE — art. 7.º, n.os 1 e 2, do RJACSR)",
+    "motivo": "O RJACSR não tem entidade coordenadora.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2261&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- [Comunicação inicial / Resposta a notificação / Impugnação de não aceitação]",
+    "para": "- [Mera comunicação prévia ou pedido de autorização inicial / Resposta a convite ao aperfeiçoamento / Reação a indeferimento ou a medida de fiscalização]",
+    "motivo": "Adequar aos trâmites do RJACSR.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2261&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar a portaria em vigor que fixa os elementos instrutórios da mera comunicação prévia e do pedido de autorização do RJACSR.",
+   "Confirmar se o RJACSR teve alterações posteriores ao DL n.º 21/2023 (a versão consolidada da PGDL termina nesse diploma) e se o DL n.º 48/2011 foi alterado depois do DL n.º 10/2015.",
+   "Se a atividade envolver obras ou alteração de uso, confirmar o controlo prévio do RJUE na redação dada pelo DL n.º 108/2026.",
+   "Confirmar o regulamento municipal de ocupação do espaço público e os limites do art. 12.º, n.º 1, do DL n.º 48/2011."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2261&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1337&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2261&tabela=lei_velhas&nversao=1&so_miolo=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2248A0132&nid=2248&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2248A0168&nid=2248&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+  ]
+ }
+]

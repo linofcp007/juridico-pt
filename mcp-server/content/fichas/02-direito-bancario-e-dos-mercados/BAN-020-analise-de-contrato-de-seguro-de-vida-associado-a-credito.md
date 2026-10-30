@@ -3,7 +3,7 @@ codigo: BAN-020
 area: "Direito Bancário e dos Mercados"
 titulo: "Análise de Contrato de Seguro de Vida Associado a Crédito"
 titulo_en: "Review of a Credit-Linked Life Insurance Contract"
-descricao: "Analisa o contrato de seguro de vida associado a crédito à habitação ou a crédito pessoal, verificando as coberturas contratadas (morte, invalidez, desemprego), a adequação do capital seguro ao saldo em dívida, a liberdade de escolha de seguradora, as condições de accionamento das coberturas e as exclusões, ao abrigo da LCS (Lei n.º 72/2008) e do DL n.º 74-A/2017."
+descricao: "Analisa o contrato de seguro de vida associado a crédito à habitação ou a crédito pessoal, verificando as coberturas contratadas (morte, invalidez, desemprego), a adequação do capital seguro ao saldo em dívida, a liberdade de escolha de seguradora, as condições de acionamento das coberturas e as exclusões, ao abrigo da LCS (Lei n.º 72/2008) e do DL n.º 74-A/2017."
 descricao_en: "Reviews the life insurance contract linked to a home loan or personal loan, checking the cover taken out (death, disability, unemployment), whether the sum insured matches the outstanding balance, the freedom to choose the insurer, the conditions for triggering cover and the exclusions, under the LCS (Law No. 72/2008) and Decree-Law No. 74-A/2017."
 ambito: nacional
 estado_citacoes: "conferidas 0 · corrigidas 0 · por conferir 7"
@@ -16,7 +16,7 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 > **EN:** Review of a Credit-Linked Life Insurance Contract. Reviews the life insurance contract linked to a home loan or personal loan, checking the cover taken out (death, disability, unemployment), whether the sum insured matches the outstanding balance, the freedom to choose the insurer, the conditions for triggering cover and the exclusions, under the LCS (Law No. 72/2008) and Decree-Law No. 74-A/2017.
 > **Citações:** conferidas 0 · corrigidas 0 · por conferir 7. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
 
-Analisa o contrato de seguro de vida associado a crédito à habitação ou a crédito pessoal, verificando as coberturas contratadas (morte, invalidez, desemprego), a adequação do capital seguro ao saldo em dívida, a liberdade de escolha de seguradora, as condições de accionamento das coberturas e as exclusões, ao abrigo da LCS (Lei n.º 72/2008) e do DL n.º 74-A/2017.
+Analisa o contrato de seguro de vida associado a crédito à habitação ou a crédito pessoal, verificando as coberturas contratadas (morte, invalidez, desemprego), a adequação do capital seguro ao saldo em dívida, a liberdade de escolha de seguradora, as condições de acionamento das coberturas e as exclusões, ao abrigo da LCS (Lei n.º 72/2008) e do DL n.º 74-A/2017.
 
 ## Método
 
@@ -70,7 +70,7 @@ Em <estrategia>:
 - Prémio mensal/anual: [€]
 
 **2. COBERTURAS CONTRATADAS**
-| Cobertura | Capital Segurado | Condições de Accionamento | Período de Carência |
+| Cobertura | Capital Segurado | Condições de Acionamento | Período de Carência |
 |---|---|---|---|
 | Morte | [€ ou saldo em dívida] | [qualquer causa / exceto suicídio no 1.º ano] | [não há] |
 | Invalidez Absoluta e Permanente (IAP) | [€ ou saldo em dívida] | [≥ 66,6% incapacidade] | [180 dias?] |
@@ -112,7 +112,7 @@ c) [Verificar capital seguro face ao saldo em dívida]
 ### ETAPA 5 — VALIDAÇÃO
 Em <checklist_validacao>:
 - [ ] Coberturas mapeadas em tabela
-- [ ] Condições de accionamento de cada cobertura verificadas
+- [ ] Condições de acionamento de cada cobertura verificadas
 - [ ] Exclusões analisadas (comunicação + validade)
 - [ ] Capital seguro adequado ao saldo em dívida
 - [ ] Tipo de capital (fixo vs. decrescente) verificado
@@ -146,7 +146,7 @@ Em <checklist_validacao>:
 - Capital seguro: [€ — fixo ou saldo devedor]
 
 **OBJETIVO DA ANÁLISE:**
-[Análise preventiva / Comparar com alternativa / Accionar cobertura / Contestar recusa]
+[Análise preventiva / Comparar com alternativa / Acionar cobertura / Contestar recusa]
 
 **SITUAÇÃO DE SINISTRO (se ocorreu):**
 [Descreve — morte / invalidez / desemprego]

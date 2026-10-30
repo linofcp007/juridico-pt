@@ -188,6 +188,7 @@ Os valores legais mudam — ver `CLAUDE.md` para o guia completo. Pontos de revi
 
 > Histórico formal (SemVer) em [CHANGELOG.md](CHANGELOG.md). Resumo da evolução:
 
+- **v3.1.2 (2026-10)**: revisão técnica de todas as fichas que a triagem apontou (834 fichas, 7157 correções, cada uma com a fonte oficial). As epígrafes passam a ter a lista dos artigos revogados, e as citações desses artigos levam `[■ VERIFICAR]`. As referências da casa foram corrigidas em 7 pontos. 94,8 % das citações com diploma reconhecido estão conferidas ou corrigidas.
 - **v3.1.1 (2026-10)**: revisão técnica de 42 fichas, com o regime confirmado na fonte oficial (411 correções). Entre elas: a exoneração a 3 anos, o banco de horas individual revogado, o RNH transitório, o software no DL 252/94, o RJUE de 2024–2026 e a Lei n.º 54/2017. O relatório para o advogado confirmar está em `assets/fichas/revisao-tecnica.md`.
 - **v3.1.0 (2026-10)**: **fichas do catálogo** — 1256 guias de documentos e pareceres em 22 áreas, em PT-PT e EN (`procurar_ficha` / `obter_ficha`), terceira escolha depois dos modelos conferidos e dos templates. 87,4 % das citações com diploma reconhecido estão conferidas ou corrigidas; as restantes vêm com `[■ VERIFICAR]`. Traz também as epígrafes oficiais dos 25 diplomas mais citados.
 - **v3.0.2 (2026-10)**: documentos regidos pela lei de outro país redigem-se se o utilizador pedir. Levam a indicação de que estão fora da base conferida, `[■ VERIFICAR]` nas normas estrangeiras e a recomendação de advogado desse país, sempre em PT-PT.

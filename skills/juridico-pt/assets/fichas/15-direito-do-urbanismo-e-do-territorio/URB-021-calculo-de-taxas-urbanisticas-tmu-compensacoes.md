@@ -6,7 +6,8 @@ titulo_en: "Calculation of Planning Fees (TMU, Compensation)"
 descricao: "Gera uma análise estruturada do cálculo de taxas urbanísticas devidas num processo de licenciamento ou comunicação prévia, incluindo a Taxa Municipal de Urbanização (TMU), as compensações por cedências insuficientes e as taxas de apreciação, com identificação das fórmulas aplicáveis ao regulamento municipal em causa e verificação de possíveis erros de cálculo."
 descricao_en: "Generates a structured analysis of the calculation of the planning fees payable in a licensing or prior notification procedure, including the Municipal Urbanisation Fee (Taxa Municipal de Urbanização — TMU), compensation for insufficient land transfers (cedências) and assessment fees, identifying the formulas applicable under the relevant municipal regulation and checking for possible calculation errors."
 ambito: nacional
-estado_citacoes: "conferidas 2 · corrigidas 1 · por conferir 1"
+estado_citacoes: "conferidas 5 · corrigidas 1 · por conferir 4"
+revisao_tecnica: "2026-10-30 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
@@ -14,7 +15,8 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 
 > **Âmbito:** nacional · **Área:** Direito do Urbanismo e do Território · **Código:** URB-021
 > **EN:** Calculation of Planning Fees (TMU, Compensation). Generates a structured analysis of the calculation of the planning fees payable in a licensing or prior notification procedure, including the Municipal Urbanisation Fee (Taxa Municipal de Urbanização — TMU), compensation for insufficient land transfers (cedências) and assessment fees, identifying the formulas applicable under the relevant municipal regulation and checking for possible calculation errors.
-> **Citações:** conferidas 2 · corrigidas 1 · por conferir 1. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 5 · corrigidas 1 · por conferir 4. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-30 — corrigida (5 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
 Gera uma análise estruturada do cálculo de taxas urbanísticas devidas num processo de licenciamento ou comunicação prévia, incluindo a Taxa Municipal de Urbanização (TMU), as compensações por cedências insuficientes e as taxas de apreciação, com identificação das fórmulas aplicáveis ao regulamento municipal em causa e verificação de possíveis erros de cálculo.
 
@@ -45,10 +47,10 @@ Apresenta dentro de um bloco <analise_do_caso>:
 
 ### ETAPA 2 — ANÁLISE JURÍDICA (Fundamentação)
 Apresenta dentro de um bloco <fundamentos_juridicos>:
-- Art. 116.º RJUE (taxa pela realização de operações urbanísticas)
-- RFALEI — princípio da equivalência (art. 4.º) e legalidade das taxas
+- Art. 116.º RJUE (taxas urbanísticas: as taxas pelos atos de controlo prévio — n.º 3 — e a taxa pela realização, manutenção e reforço de infraestruturas urbanísticas, devida nos loteamentos, nas operações de impacte relevante ou semelhante a loteamento e nas obras de construção ou ampliação em área não abrangida por loteamento — n.os 4 e 5)
+- RGTAL (Lei n.º 53-E/2006) — princípio da equivalência jurídica (art. 4.º) e incidência objetiva das taxas municipais (art. 6.º); RFALEI (Lei n.º 73/2013) — criação de taxas pelos municípios (art. 20.º)
 - Regulamento Municipal de Taxas Urbanísticas de [município] [■ VERIFICAR: artigos aplicáveis]
-- Portaria que fixa os parâmetros de cálculo da TMU [■ VERIFICAR: Portaria atual]
+- Não há portaria nacional que fixe a TMU: a fórmula e os coeficientes constam do regulamento municipal aprovado pela assembleia municipal, cujo projeto tem de fundamentar o cálculo (arts. 3.º, 116.º, n.º 8, e 117.º, n.º 1, RJUE)
 - Art. 44.º e 45.º RJUE — cedências e compensações em loteamentos
 
 ### ETAPA 3 — CONSTRUÇÃO ARGUMENTATIVA
@@ -88,7 +90,7 @@ Cálculo: TMU = [m²] × [€/m²] × [C₁] × [C₂] × [Cm] = **€ [resultad
 
 **III. COMPENSAÇÃO POR CEDÊNCIAS INSUFICIENTES** (se loteamento)
 
-Ao abrigo do art. 44.º RJUE, quando as cedências para espaços verdes e equipamentos são inferiores aos mínimos legais, é devida compensação.
+Ao abrigo do art. 44.º RJUE, quando não há lugar a cedência — o prédio já está servido pelas infraestruturas, não se justifica a localização de equipamento ou espaço verde públicos, não há parcelas admissíveis para habitação pública, de custos controlados ou para arrendamento acessível, ou nos casos do n.º 4 do art. 43.º RJUE —, o proprietário paga ao município uma compensação, em numerário ou em espécie, nos termos do regulamento municipal (n.º 5); o mesmo vale para as operações de impacte relevante (n.º 6).
 
 Área de cedência devida: [m²] (calculada com base nos parâmetros do PDM e regulamento)
 Área de cedência proposta: [m²]
@@ -115,7 +117,7 @@ Diferença: [m²] × VT = [€ — VERIFICAR]
 [Eventuais erros identificados e sua fundamentação]
 
 **VII. CONCLUSÃO**
-[Valor estimado total / Erros identificados / Recomendação: pagar sem contestação / apresentar pedido de revisão da liquidação]
+[Valor estimado total / Erros identificados / Recomendação: pagar sem contestação / reclamar ou impugnar a liquidação (art. 117.º, n.º 3, RJUE; art. 16.º do RGTAL: reclamação para o órgão que liquidou no prazo de 30 dias a contar da notificação, e impugnação judicial depois dela) [■ VERIFICAR: meio e prazo aplicáveis, face à remissão do RJUE para o CPPT]]
 
 ### ETAPA 5 — FORMULAÇÃO FINAL (Validação)
 Apresenta dentro de um bloco <checklist_validacao>:
@@ -179,5 +181,11 @@ Análise completa de cálculo das taxas urbanísticas devidas, com fórmulas, va
 |---|---|---|
 | Art. 116.º RJUE | conferida (epígrafe) — Taxas urbanísticas |  |
 | art. 4.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 6.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 20.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| arts. 3.º, 116.º, n.º 8, e 117.º, n.º 1, RJUE | conferida (epígrafe) — Regulamentos municipais |  |
 | Art. 44.º e 45.º RJUE | conferida (epígrafe) — Cedências |  |
 | art. 44.º RJUE | corrigida — Cedências | o número citado no catálogo não correspondia à epígrafe |
+| art. 43.º RJUE | conferida (epígrafe) — Áreas para espaços verdes e de utilização coletiva, infraestruturas, equipamentos e habita |  |
+| art. 117.º, n.º 3, RJUE | conferida (epígrafe) — Liquidação das taxas |  |
+| art. 16.º | por conferir [■ VERIFICAR] | diploma não identificado |

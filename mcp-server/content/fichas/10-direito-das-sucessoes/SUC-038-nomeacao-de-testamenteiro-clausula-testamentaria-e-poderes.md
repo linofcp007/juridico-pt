@@ -6,7 +6,8 @@ titulo_en: "Appointment of an Executor — Testamentary Clause and Powers"
 descricao: "Redige a cláusula testamentária de nomeação de testamenteiro com definição dos seus poderes e obrigações, ao abrigo dos artigos 2320.º a 2334.º do Código Civil (Livro V — execução dos testamentos), incluindo o regime de prestação de contas e a articulação com o cabeça-de-casal."
 descricao_en: "Drafts the testamentary clause appointing an executor (testamenteiro), defining their powers and duties, under Articles 2320 to 2334 of the Civil Code (Book V — execution of wills), including the rules on rendering accounts and coordination with the estate administrator (cabeça-de-casal)."
 ambito: nacional
-estado_citacoes: "conferidas 5 · corrigidas 3 · por conferir 3"
+estado_citacoes: "conferidas 15 · corrigidas 3 · por conferir 0"
+revisao_tecnica: "2026-10-30 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
@@ -14,7 +15,8 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 
 > **Âmbito:** nacional · **Área:** Direito das Sucessões · **Código:** SUC-038
 > **EN:** Appointment of an Executor — Testamentary Clause and Powers. Drafts the testamentary clause appointing an executor (testamenteiro), defining their powers and duties, under Articles 2320 to 2334 of the Civil Code (Book V — execution of wills), including the rules on rendering accounts and coordination with the estate administrator (cabeça-de-casal).
-> **Citações:** conferidas 5 · corrigidas 3 · por conferir 3. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 15 · corrigidas 3 · por conferir 0. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-30 — corrigida (9 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
 Redige a cláusula testamentária de nomeação de testamenteiro com definição dos seus poderes e obrigações, ao abrigo dos artigos 2320.º a 2334.º do Código Civil (Livro V — execução dos testamentos), incluindo o regime de prestação de contas e a articulação com o cabeça-de-casal.
 
@@ -34,18 +36,18 @@ Apresenta em <analise_necessidade>:
 - Perfil dos herdeiros (conflito esperado? herdeiros menores? incapazes?)
 - Bens que exigem gestão durante a liquidação (empresas, imóveis arrendados, carteiras)
 - Complexidade dos legados e encargos testamentários
-- Articulação com o cabeça-de-casal (papéis distintos — art. 2079.º e ss. CC)
+- Articulação com o cabeça-de-casal (papéis distintos, que podem recair na mesma pessoa — art. 2079.º e ss. CC)
 
 ### ETAPA 2 — REGIME LEGAL DO TESTAMENTEIRO
 Explica em <regime_testamenteiro>:
-- Art. 2320.º CC: nomeação pelo testador; aceitação do testamenteiro
-- Art. 2325.º CC: poderes gerais do testamenteiro (executor das vontades do testador)
-- Art. 2323.º CC [■ VERIFICAR: o art. 2323.º CC trata da aceitação do cargo; confirmar a norma e o prazo de cumprimento da testamentaria]: prazo de dois anos para cumprimento (prorrogável pelo tribunal)
-- Art. 2325.º CC: poderes especiais atribuídos pelo testador (posse dos bens, etc.)
+- Art. 2320.º CC: nomeação pelo testador de uma ou mais pessoas encarregadas de vigiar o cumprimento do testamento ou de o executar, no todo ou em parte
+- Art. 2325.º CC: atribuições do testamenteiro — as que o testador lhe conferir, dentro dos limites da lei; se o testador não as especificar, cuidar do funeral e sufrágios, vigiar a execução das disposições testamentárias e sustentar a sua validade em juízo e exercer as funções de cabeça-de-casal (art. 2326.º CC)
+- Art. 2323.º CC: aceitação da testamentaria, expressa ou tácita, que não pode ser feita sob condição, a termo ou só em parte (a recusa faz-se por declaração perante notário — art. 2324.º CC); o Código Civil não fixa prazo legal para o cumprimento da testamentaria
+- Arts. 2327.º e 2328.º CC: poderes especiais que o testador pode atribuir — cumprimento dos legados e demais encargos da herança, quando o testamenteiro seja cabeça-de-casal e não haja lugar a inventário obrigatório, e venda de bens da herança para esse efeito
 - Art. 2332.º CC: obrigação de prestação de contas
 - Art. 2333.º CC: remuneração do testamenteiro (se o testador a previu)
-- Art. 2334.º CC [■ VERIFICAR: o art. 2334.º CC trata da intransmissibilidade do cargo; escusa e remoção estão nos arts. 2330.º e 2331.º CC]: cessação das funções
-- Distinção cabeça-de-casal / testamenteiro: o cabeça-de-casal representa a herança; o testamenteiro fiscaliza a execução do testamento
+- Art. 2334.º CC: intransmissibilidade — a testamentaria não se transmite em vida ou por morte nem é delegável, embora o testamenteiro possa servir-se de auxiliares; as funções cessam, nomeadamente, por escusa (art. 2330.º CC) ou por remoção judicial (art. 2331.º CC)
+- Distinção cabeça-de-casal / testamenteiro: o cabeça-de-casal administra a herança até à sua liquidação e partilha (art. 2079.º CC); o testamenteiro vigia ou executa o testamento, mas, salvo declaração do testador em contrário, o cargo de cabeça-de-casal defere-se-lhe logo a seguir ao cônjuge sobrevivo (art. 2080.º, n.º 1, al. b), CC)
 
 ### ETAPA 3 — ESTRUTURA DA CLÁUSULA
 Define em <estrutura_clausula>:
@@ -74,10 +76,10 @@ Nomeio como testamenteiro do presente testamento [Nome Completo], [identificaç�
 Apresenta em <checklist_validacao>:
 - [ ] Testamenteiro identificado com NIF e data de nascimento
 - [ ] Poderes especiais claramente definidos (art. 2325.º CC)
-- [ ] Prazo de execução (2 anos — art. 2323.º CC [■ VERIFICAR: o art. 2323.º CC trata da aceitação do cargo; confirmar a norma e o prazo de cumprimento da testamentaria])
+- [ ] Prazo de execução, se o testador o quiser fixar (não há prazo legal; aceitação sem condição nem termo — art. 2323.º CC)
 - [ ] Remuneração prevista (ou declaração de gratuitidade)
 - [ ] Testamenteiro substituto indicado
-- [ ] Articulação com cabeça-de-casal verificada (papéis distintos)
+- [ ] Articulação com cabeça-de-casal verificada (papéis distintos, que podem coincidir — art. 2080.º, n.º 1, al. b), CC)
 - [ ] [■ VERIFICAR] itens assinalados
 
 ---
@@ -114,11 +116,18 @@ Apresenta em <checklist_validacao>:
 | art. 2079.º e ss. CC | conferida (epígrafe) — Cabeça-de-casal |  |
 | Art. 2320.º CC | conferida (epígrafe) — Noção |  |
 | Art. 2325.º CC | corrigida — Atribuições do testamenteiro | o número citado no catálogo não correspondia à epígrafe |
-| Art. 2325.º CC | conferida (epígrafe) — Atribuições do testamenteiro |  |
-| Art. 2323.º CC | por conferir [■ VERIFICAR] | o art. 2323.º CC trata da aceitação do cargo; confirmar a norma e o prazo de cumprimento da testamentaria |
-| art. 2323.º CC | por conferir [■ VERIFICAR] | o art. 2323.º CC trata da aceitação do cargo; confirmar a norma e o prazo de cumprimento da testamentaria |
+| art. 2326.º CC | conferida (epígrafe) — Disposição supletiva |  |
+| Art. 2323.º CC | conferida (epígrafe) — Aceitação |  |
+| art. 2324.º CC | conferida (epígrafe) — Recusa |  |
+| Arts. 2327.º e 2328.º CC | conferida (epígrafe) — Cumprimento de legados e outros encargos |  |
 | Art. 2332.º CC | corrigida — Prestação de contas | o número citado no catálogo não correspondia à epígrafe |
 | Art. 2333.º CC | corrigida — Remuneração | o número citado no catálogo não correspondia à epígrafe |
-| Art. 2334.º CC | por conferir [■ VERIFICAR] | o art. 2334.º CC trata da intransmissibilidade do cargo; escusa e remoção estão nos arts. 2330.º e 2331.º CC |
+| Art. 2334.º CC | conferida (epígrafe) — Intransmissibilidade |  |
+| art. 2330.º CC | conferida (epígrafe) — Escusa do testamenteiro |  |
+| art. 2331.º CC | conferida (epígrafe) — Remoção do testamenteiro e caducidade da testamentaria plural |  |
+| art. 2079.º CC | conferida (epígrafe) — Cabeça-de-casal |  |
+| art. 2080.º, n.º 1, al. b), CC | conferida (epígrafe) — A quem incumbe o cargo |  |
+| art. 2080.º, n.º 1, al. b), CC | conferida (epígrafe) — A quem incumbe o cargo |  |
 | art. 2325.º CC | conferida (epígrafe) — Atribuições do testamenteiro |  |
 | art. 2325.º CC | conferida (epígrafe) — Atribuições do testamenteiro |  |
+| art. 2323.º CC | conferida (epígrafe) — Aceitação |  |

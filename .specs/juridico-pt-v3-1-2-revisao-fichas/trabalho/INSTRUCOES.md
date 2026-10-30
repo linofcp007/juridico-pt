@@ -8,7 +8,7 @@ A previous pass already fixed the article NUMBERS. Your job is the SUBSTANCE: ou
 A cheap first-pass triage flagged your fichas. Its suspicions are in `D/textos/<CODE>.triagem.md`. They were written from memory, without sources: verify each one and do not trust them blindly. In earlier batches about 1 in 5 triage suspicions was itself wrong, and the triage also missed errors, so read the whole ficha.
 
 ## Files (D = this folder)
-`C:/Users/ADMINI~1/AppData/Local/Temp/claude/c--Users-Administrator-Desktop-CLAUDE-SKILLS-juridico-pt/381925a7-eebd-4683-86a9-3bf5bea0f303/scratchpad/revisao-tecnica`
+`C:/Users/Administrator/Desktop/CLAUDE SKILLS/juridico-pt/.specs/juridico-pt-v3-1-2-revisao-fichas/trabalho` (the path has a space: quote it in shell commands).
 - **`D/textos/<CODE>.md`:** the ficha text BEFORE citation marking. Your substitutions apply to THIS text.
 - **`D/textos/<CODE>.citacoes.md`:** the current state of each citation and the notes from the previous review, plus the path of the generated ficha in the repository (read-only).
 - **`D/textos/<CODE>.triagem.md`:** the index title and description (PT and EN) and the triage suspicions.
@@ -81,7 +81,7 @@ A JSON array, one object per ficha:
   - "rever de raiz": there are problems you could not fix safely. Then also add a substitution that puts a short warning paragraph right after that house paragraph, saying what is unreliable.
 - **Rigour first:** a wrong correction is worse than a `[■ VERIFICAR]`.
 
-Run the validator until it prints OK. Do not modify any other file in D, and do not touch the repository. You may keep scratch files in a new folder `D/../<batch>-trabalho/`.
+Run the validator until it prints OK. D is inside the repository: write only `D/revisao-<batch>.json`, and do not modify any other file in D or anywhere else in the repository. Keep scratch files in a new folder `C:/Users/ADMINI~1/AppData/Local/Temp/claude/c--Users-Administrator-Desktop-CLAUDE-SKILLS-juridico-pt/98fc68b8-76e2-4039-8b9a-7735172d13bc/scratchpad/<batch>-trabalho/`.
 
 ## Keep your context lean (cost)
 Every turn re-reads your whole conversation, so a long context makes each later step cost more.

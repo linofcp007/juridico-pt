@@ -6,7 +6,7 @@ titulo_en: "Shareholder Loans (Suprimentos) / Supplementary Contributions Agreem
 descricao: "Elabora o contrato de suprimento (empréstimo do sócio à sociedade, ou diferimento do vencimento de créditos do sócio, com caráter de permanência) ou o documento de realização de prestações suplementares (contribuições em dinheiro previstas no pacto e exigidas por deliberação dos sócios, que não vencem juros e só são restituíveis nos termos do art. 213.º do CSC), clarificando a subordinação dos créditos por suprimentos em caso de insolvência e as condições de reembolso, em conformidade com os artigos 210.º a 213.º e 243.º a 245.º do CSC e com o art. 48.º, al. g), do CIRE."
 descricao_en: "Drafts the shareholder loan agreement (suprimento — a loan from a member to the company, or a deferral of the member's claims against it, of a permanent nature) or the document recording supplementary contributions (prestações suplementares — cash contributions provided for in the articles and called by a members' resolution, which bear no interest and may only be returned under Article 213 CSC), clarifying the subordination of shareholder loan claims in insolvency and the repayment conditions, in accordance with Articles 210 to 213 and 243 to 245 CSC and Article 48(g) of the Insolvency Code (CIRE)."
 ambito: nacional
-estado_citacoes: "conferidas 45 · corrigidas 0 · por conferir 6"
+estado_citacoes: "conferidas 45 · corrigidas 0 · por conferir 8"
 revisao_tecnica: "2026-10-28 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
@@ -15,7 +15,7 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 
 > **Âmbito:** nacional · **Área:** Direito Comercial e das Sociedades · **Código:** COM-013
 > **EN:** Shareholder Loans (Suprimentos) / Supplementary Contributions Agreement. Drafts the shareholder loan agreement (suprimento — a loan from a member to the company, or a deferral of the member's claims against it, of a permanent nature) or the document recording supplementary contributions (prestações suplementares — cash contributions provided for in the articles and called by a members' resolution, which bear no interest and may only be returned under Article 213 CSC), clarifying the subordination of shareholder loan claims in insolvency and the repayment conditions, in accordance with Articles 210 to 213 and 243 to 245 CSC and Article 48(g) of the Insolvency Code (CIRE).
-> **Citações:** conferidas 45 · corrigidas 0 · por conferir 6. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 45 · corrigidas 0 · por conferir 8. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
 > **Revisão técnica:** 2026-10-28 — corrigida (9 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
 Elabora o contrato de suprimento (empréstimo do sócio à sociedade, ou diferimento do vencimento de créditos do sócio, com caráter de permanência) ou o documento de realização de prestações suplementares (contribuições em dinheiro previstas no pacto e exigidas por deliberação dos sócios, que não vencem juros e só são restituíveis nos termos do art. 213.º do CSC), clarificando a subordinação dos créditos por suprimentos em caso de insolvência e as condições de reembolso, em conformidade com os artigos 210.º a 213.º e 243.º a 245.º do CSC e com o art. 48.º, al. g), do CIRE.
@@ -185,6 +185,7 @@ Apresente em <checklist_validacao>:
 | art. 213.º, n.º 3, CSC | conferida (epígrafe) — Restituição das prestações suplementares |  |
 | art. 63.º CIRC | conferida (epígrafe) — Preços de transferência |  |
 | art. 67.º CIRC | conferida (epígrafe) — Limitação à dedutibilidade de gastos de financiamento |  |
+| art. 1142 CC | por conferir [■ VERIFICAR] | o assunto descrito não coincide com a epígrafe; confirmar |
 | art. 243.º, n.º 2, CSC | conferida (epígrafe) — Contrato de suprimento |  |
 | arts. 210.º e 211.º CSC | conferida (epígrafe) — Obrigações de prestações suplementares |  |
 | art. 213.º CSC | conferida (epígrafe) — Restituição das prestações suplementares |  |
@@ -200,3 +201,4 @@ Apresente em <checklist_validacao>:
 | arts. 87.º e 202.º do CSC | conferida (epígrafe) — Requisitos da deliberação ou decisão |  |
 | art. 89.º, n.º 4, do CSC | conferida (epígrafe) — Entradas e aquisição de bens |  |
 | art. 245.º CSC | conferida (epígrafe) — Regime do contrato de suprimento |  |
+| art. 251 CSC | por conferir [■ VERIFICAR] | o assunto descrito não coincide com a epígrafe; confirmar |

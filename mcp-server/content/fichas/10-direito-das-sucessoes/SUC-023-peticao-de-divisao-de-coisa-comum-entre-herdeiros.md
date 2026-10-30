@@ -41,7 +41,7 @@ Ficha de trabalho para preparar este documento. As regras da casa prevalecem sob
 Apresenta dentro de um bloco <analise_do_caso>:
 - A herança já foi partilhada (escritura, procedimento simplificado ou inventário) e o bem foi adjudicado em compropriedade? Se a herança estiver indivisa, a via é o inventário, não esta ação.
 - Quem são os comproprietários e quais as suas quotas no bem?
-- O bem é divisível em espécie (pode ser fraccionado) ou só por venda?
+- O bem é divisível em espécie (pode ser fracionado) ou só por venda?
 - Existe acordo parcial? Algum herdeiro pretende adquirir as quotas dos demais?
 - Qual o valor do bem e qual a quota do autor?
 - Houve tentativa de acordo extrajudicial? Com que resultado?
@@ -99,7 +99,7 @@ Nos termos do art. 1412.º CC, ninguém é obrigado a permanecer em comproprieda
 **IV — DA FORMA DA DIVISÃO**
 
 [OPÇÃO A — Divisão em espécie:]
-O bem é suscetível de divisão em espécie, podendo ser fraccionado em [N] partes autónomas sem perda significativa de valor. O autor requer a divisão em espécie com atribuição de cada fração a cada co-proprietário.
+O bem é suscetível de divisão em espécie, podendo ser fracionado em [N] partes autónomas sem perda significativa de valor. O autor requer a divisão em espécie com atribuição de cada fração a cada co-proprietário.
 
 [OPÇÃO B — Venda judicial:]
 O bem não é suscetível de divisão em espécie [por se tratar de uma fração autónoma / por a divisão causar perda de valor significativa]. O autor requer que, fixadas as quotas, o bem seja adjudicado a algum ou alguns dos consortes, preenchendo-se em dinheiro as quotas dos restantes, ou, na falta de acordo, vendido, com repartição do produto pelos comproprietários na proporção das respetivas quotas (arts. 925.º e 929.º, n.º 2, CPC).
@@ -108,7 +108,7 @@ O bem não é suscetível de divisão em espécie [por se tratar de uma fração
 
 O autor requer que:
 1. Seja decretada a divisão do bem identificado no ponto I;
-2. [Divisão em espécie:] Seja o bem fraccionado e atribuída a cada co-proprietário a parte correspondente à sua quota;
+2. [Divisão em espécie:] Seja o bem fracionado e atribuída a cada co-proprietário a parte correspondente à sua quota;
 3. [Bem indivisível:] Seja o bem adjudicado a algum ou alguns dos consortes, com preenchimento em dinheiro das quotas dos restantes, ou, na falta de acordo, vendido, repartindo-se o produto pelos comproprietários na proporção das quotas;
 4. Seja o autor ressarcido das despesas judiciais em proporção das quotas.
 
@@ -152,7 +152,7 @@ Apresenta dentro de um bloco <checklist_validacao>:
 - [Descreve — comunicações, propostas, datas]
 
 **TIPO DE DIVISÃO PRETENDIDA:**
-- [ ] Em espécie (fraccionamento do imóvel)
+- [ ] Em espécie (fracionamento do imóvel)
 - [ ] Venda judicial (imóvel indivisível)
 
 ## Citações desta ficha

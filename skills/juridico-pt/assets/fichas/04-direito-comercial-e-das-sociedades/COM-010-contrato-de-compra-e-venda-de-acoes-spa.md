@@ -6,7 +6,8 @@ titulo_en: "Share Purchase Agreement (SPA)"
 descricao: "Elabora um Share Purchase Agreement (SPA) para alienação de ações de sociedade anónima, com declarações e garantias do vendedor, mecanismos de ajuste de preço, condições precedentes, indemnização e cláusulas de proteção do comprador, em conformidade com o CSC e o Código Civil português."
 descricao_en: "Drafts a Share Purchase Agreement (SPA) for the sale of shares in a public limited company (S.A.), with the seller's representations and warranties, price adjustment mechanisms, conditions precedent, indemnities and buyer-protection clauses, in accordance with the CSC and the Portuguese Civil Code."
 ambito: nacional
-estado_citacoes: "sem citações"
+estado_citacoes: "conferidas 3 · corrigidas 0 · por conferir 2"
+revisao_tecnica: "2026-10-30 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
@@ -14,7 +15,8 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 
 > **Âmbito:** nacional · **Área:** Direito Comercial e das Sociedades · **Código:** COM-010
 > **EN:** Share Purchase Agreement (SPA). Drafts a Share Purchase Agreement (SPA) for the sale of shares in a public limited company (S.A.), with the seller's representations and warranties, price adjustment mechanisms, conditions precedent, indemnities and buyer-protection clauses, in accordance with the CSC and the Portuguese Civil Code.
-> **Citações:** sem citações. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 3 · corrigidas 0 · por conferir 2. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-30 — corrigida (4 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
 Elabora um Share Purchase Agreement (SPA) para alienação de ações de sociedade anónima, com declarações e garantias do vendedor, mecanismos de ajuste de preço, condições precedentes, indemnização e cláusulas de proteção do comprador, em conformidade com o CSC e o Código Civil português.
 
@@ -45,12 +47,12 @@ Analise em <analise_do_caso>:
 
 ### ETAPA 2 — ANÁLISE JURÍDICA
 Identifique em <fundamentos_juridicos>:
-- Arts. 286-295 CSC — transmissão de ações em S.A.: forma, limitações estatutárias
+- Arts. 328.º e 329.º CSC — limitações estatutárias à transmissão de ações nominativas (consentimento da sociedade, direito de preferência dos outros acionistas, requisitos subjetivos ou objetivos) e concessão ou recusa do consentimento; as cláusulas de limitação devem constar dos títulos ou das contas de registo das ações, sob pena de inoponibilidade a adquirentes de boa-fé (art. 328.º, n.º 4, CSC)
 - Arts. 874-939 Código Civil — compra e venda; vícios ocultos; garantias
 - Lei 19/2012 (Lei da Concorrência) — controlo de concentrações: thresholds AdC [■ VERIFICAR: valores vigentes]
 - Código do Trabalho — transmissão de empresa/estabelecimento (art. 285 CT) se aplicável
 - CIRS / CIRC — mais-valias na alienação de participações qualificadas [■ VERIFICAR]
-- Código do Registo Comercial — registo de transmissão de ações nominativas
+- Código dos Valores Mobiliários — forma da transmissão das ações (escriturais: registo na conta do adquirente; tituladas: declaração de transmissão e registo junto do emitente) [■ VERIFICAR: arts. 80.º e 102.º do Código dos Valores Mobiliários]; a transmissão de ações não está sujeita a registo comercial (o art. 3.º, n.º 1, alínea c), do Código do Registo Comercial abrange só a transmissão de quotas)
 - Lei da Arbitragem Voluntária — se cláusula compromissória
 
 ### ETAPA 3 — CONSTRUÇÃO
@@ -110,7 +112,7 @@ d) Ausência de medida cautelar ou injunção que proíba o Closing.
 
 **CLÁUSULA 4.ª — CLOSING**
 4.1. O Closing realiza-se na data de [X] / na data indicada pelo Comprador com [X] dias de pré-aviso após verificação de todas as Condições Precedentes.
-4.2. No Closing, o Vendedor entrega as Ações (e título definitivo, se nominativas) e o Comprador paga o Preço Base (menos qualquer escrow retido).
+4.2. No Closing, o Vendedor transmite as Ações (se tituladas, com a declaração de transmissão e a entrega dos títulos; se escriturais, com a ordem de registo na conta do Comprador) [■ VERIFICAR: forma de representação das Ações e formalidades do Código dos Valores Mobiliários] e o Comprador paga o Preço Base (menos qualquer escrow retido).
 
 **PARTE V — DECLARAÇÕES E GARANTIAS**
 
@@ -142,7 +144,7 @@ Durante [3] anos após o Closing, o Vendedor obriga-se a não exercer, direta ou
 **PARTE VIII — DISPOSIÇÕES FINAIS**
 
 **CLÁUSULA 8.ª — LEI E LITÍGIOS**
-Este contrato é regulado pela lei portuguesa. Os litígios são submetidos a arbitragem no [Centro de Arbitragem Comercial de Lisboa — CAC], com sede em Lisboa, em português, por [1/3] árbitros, nos termos do regulamento do CAC.
+Este contrato é regulado pela lei portuguesa. Todos os litígios emergentes deste contrato ou com ele relacionados são definitivamente resolvidos por arbitragem, de acordo com o Regulamento de Arbitragem do Centro de Arbitragem da Câmara de Comércio e Indústria Portuguesa (Centro de Arbitragem Comercial), por [1/3] árbitro(s) nomeado(s) nos termos do Regulamento. A arbitragem tem lugar em Lisboa e a língua da arbitragem é o português.
 
 [Data e local]
 [Assinaturas de todas as partes]
@@ -192,3 +194,13 @@ Apresente em <checklist_validacao>:
 
 **OBSERVAÇÕES:**
 [qualquer dado adicional]
+
+## Citações desta ficha
+
+| Citação | Estado | Nota |
+|---|---|---|
+| Arts. 328.º e 329.º CSC | conferida (epígrafe) — Limitações à transmissão de ações |  |
+| art. 328.º, n.º 4, CSC | conferida (epígrafe) — Limitações à transmissão de ações |  |
+| art. 285 CT | conferida (epígrafe) — Efeitos de transmissão de empresa ou estabelecimento |  |
+| arts. 80.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 3.º | por conferir [■ VERIFICAR] | diploma não identificado |

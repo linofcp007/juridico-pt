@@ -1,0 +1,292 @@
+[
+ {
+  "codigo": "PI-035",
+  "veredicto": "corrigida",
+  "resumo": "A ficha indicava o Tribunal da Propriedade Intelectual como via alternativa para declarar a caducidade da marca nacional, com base num diploma errado (a Lei n.º 62/2011 é a dos medicamentos genéricos); no CPI de 2018 a caducidade só se declara em processo no INPI, cabendo ao TPI o recurso, e, quanto à MUE, o pedido reconvencional como tribunal de marcas da UE. Corrigi também as normas sobre as formas de uso, o uso por licenciado (exige licença averbada), o justo motivo e o ónus da prova, a identificação do acórdão C-259/02 (La Mer Technology, não «Minimax», que é a marca do caso Ansul) e a legitimidade perante o EUIPO, que não exige interesse.",
+  "descricao": "Elabora o pedido de declaração de caducidade de marca registada por falta de uso sério durante cinco anos consecutivos, nos termos dos artigos 268.º e 269.º do CPI (DL n.º 110/2018), a apresentar no INPI (marcas nacionais), ou o pedido de extinção da marca da UE nos termos do artigo 58.º do RMUE, a apresentar no EUIPO ou, por reconvenção em ação de contrafação, no Tribunal da Propriedade Intelectual.",
+  "descricao_en": "Prepares the application for a declaration of revocation (caducidade) of a registered trade mark for lack of genuine use for five consecutive years, under Articles 268 and 269 of the CPI (Decree-Law No. 110/2018), to be filed with the INPI (national marks), or the application for revocation of an EU trade mark under Article 58 of the EUTMR, to be filed with the EUIPO or, by counterclaim in infringement proceedings, before the Intellectual Property Court.",
+  "substituicoes": [
+   {
+    "de": "- Foro competente: INPI (art. 269.º CPI), EUIPO (art. 58.º RMUE) ou TPI (art. 38.º, n.º 1, al. c), Lei n.º 62/2011 — vias alternativas)",
+    "para": "- Foro competente: para a marca nacional, só o INPI — a caducidade é declarada em processo que corre no INPI (art. 269.º, n.º 8, CPI), sem ação judicial alternativa; o Tribunal da Propriedade Intelectual conhece do recurso da decisão do INPI (arts. 38.º e 39.º, n.º 1, CPI; art. 111.º, n.º 1, al. e), da Lei n.º 62/2013, de 26 de agosto — LOSJ). Para a MUE, pedido de extinção no EUIPO (arts. 58.º e 63.º RMUE) ou pedido reconvencional de extinção em ação de contrafação no Tribunal da Propriedade Intelectual, enquanto tribunal de marcas da UE (arts. 124.º, al. d), e 128.º RMUE; art. 39.º, n.º 2, CPI)",
+    "motivo": "A Lei n.º 62/2011 regula os litígios sobre medicamentos genéricos; no CPI a caducidade da marca nacional só é declarada pelo INPI, e o TPI conhece do recurso e, quanto à MUE, da reconvenção.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0269&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Interesse legítimo do requerente (identificação e fundamentação)",
+    "para": "- Interesse do requerente: perante o INPI, a caducidade por falta de uso só produz efeitos se invocada por qualquer interessado (art. 36.º, n.º 2, CPI) — identificar e fundamentar o interesse; perante o EUIPO, o pedido de extinção pode ser apresentado por qualquer pessoa singular ou coletiva, sem demonstração de interesse (art. 63.º, n.º 1, al. a), RMUE)",
+    "motivo": "No EUIPO o pedido de extinção não depende de interesse; no INPI basta qualquer interessado.",
+    "fonte": "https://publications.europa.eu/resource/celex/32017R1001"
+   },
+   {
+    "de": "Ansul, C-40/01; Minimax, C-259/02)",
+    "para": "Ansul, C-40/01; La Mer Technology, C-259/02)",
+    "motivo": "O processo C-259/02 é o despacho La Mer Technology (ECLI:EU:C:2004:50); «Minimax» é a marca discutida no acórdão Ansul.",
+    "fonte": "https://publications.europa.eu/resource/celex/62002CO0259"
+   },
+   {
+    "de": "variante não alterante do carácter distintivo (art. 269.º, n.º 3, CPI)",
+    "para": "variante não alterante do carácter distintivo (art. 267.º, n.º 1, al. a), CPI)",
+    "motivo": "A regra está no art. 267.º, n.º 1, al. a); o n.º 3 trata das marcas de certificação.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0267&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Uso por licenciado como uso pelo titular (art. 269.º, n.º 4, CPI)",
+    "para": "- Uso por licenciado com licença devidamente averbada, ou por terceiro com o consentimento do titular, como uso pelo titular (art. 267.º, n.º 1, als. a) e c), CPI); o início ou reatamento do uso nos três meses anteriores ao pedido não conta se só ocorrer depois de o titular saber que o pedido pode vir a ser apresentado (art. 267.º, n.º 4, CPI)",
+    "motivo": "O uso por licenciado só conta com licença averbada (art. 267.º, n.º 1, al. a)); o n.º 4 é a regra dos três meses.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0267&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "obstáculos independentes da vontade do titular (art. 269.º, n.º 2, CPI)",
+    "para": "obstáculos independentes da vontade do titular (art. 268.º, n.º 1, CPI — «justo motivo»)",
+    "motivo": "O justo motivo está no art. 268.º, n.º 1; o n.º 2 trata da vulgarização e da marca enganosa.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0268&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Ônus da prova: recai sobre o titular da marca (art. 269.º, n.º 5, CPI)",
+    "para": "- Ónus da prova: cabe ao titular do registo ou ao seu licenciado provar o uso, sem o que a marca se presume não usada (art. 269.º, n.º 5, CPI)",
+    "motivo": "Forma do Brasil («ônus») e precisão do regime do art. 269.º, n.º 5.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0269&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "Requer-se que seja declarada a caducidade da marca n.º [número] por falta de uso sério, nos termos do artigo [269.º CPI / 58.º RMUE]",
+    "para": "Requer-se que seja declarada a caducidade [INPI] / a extinção [EUIPO] da marca n.º [número] por falta de uso sério, nos termos dos artigos [268.º, n.º 1, e 269.º CPI / 58.º, n.º 1, al. a), e 63.º RMUE]",
+    "motivo": "O fundamento da caducidade é o art. 268.º, n.º 1 (o 269.º é o processo); no RMUE o instituto designa-se extinção.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0268&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "No EUIPO, o pedido de extinção tem de ser apresentado numa das cinco línguas do Instituto (art. 146.º, n.º 5, RMUE): a minuta em português serve para o INPI.",
+   "Cuidado com cartas de interpelação antes do pedido: o uso iniciado ou retomado nos três meses anteriores, depois de o titular saber do pedido, não conta (art. 267.º, n.º 4, CPI; art. 58.º, n.º 1, al. a), RMUE), mas o uso retomado antes disso salva o registo (art. 268.º, n.º 4, CPI).",
+   "Delimitar os produtos e serviços visados: a caducidade pode ser parcial (art. 268.º, n.º 8, CPI).",
+   "A caducidade produz efeitos desde a data do pedido, salvo se, a pedido de uma das partes, for fixada data anterior (art. 269.º, n.º 8, CPI): ponderar pedir essa data.",
+   "Confirmar a taxa do INPI na tabela de taxas em vigor."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0267&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0268&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0269&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1974A0111&nid=1974&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://publications.europa.eu/resource/celex/32017R1001",
+   "https://publications.europa.eu/resource/celex/62002CO0259"
+  ]
+ },
+ {
+  "codigo": "PI-042",
+  "veredicto": "corrigida",
+  "resumo": "A exceção de prospeção de textos e dados foi transposta pelo DL n.º 47/2023, de 19 de junho (art. 75.º, n.º 2, als. v) e w), CDADC), não por uma «Lei n.º 25/2022». A ficha sugeria que a obra criada por trabalhador pertence à empresa, quando o CDADC manda seguir o convencionado e, na falta de convenção, presume a titularidade do criador (art. 14.º), com regime próprio para o software (DL n.º 252/94). Afinei ainda o «domínio público» (o resultado não protegido não é obra caída no domínio público), as obrigações do art. 53.º do AI Act (incluindo a política de direitos de autor) e duas grafias.",
+  "substituicoes": [
+   {
+    "de": "(ii) IA como co-criador (colaboração iterativa)",
+    "para": "(ii) IA como cocriador (colaboração iterativa)",
+    "motivo": "Grafia AO90.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=484&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   },
+   {
+    "de": "- Empresa: se a obra for criada por trabalhador com IA no exercício das suas funções (art. 36.º, n.º 2, CDADC)",
+    "para": "- Empresa: a titularidade da obra criada por trabalhador, com recurso a IA, no exercício das suas funções determina-se pelo que tiver sido convencionado; na falta de convenção, presume-se que pertence ao criador intelectual (art. 14.º, n.os 1 e 2, CDADC), presumindo-se, porém, que pertence à entidade por conta de quem a obra é feita se o nome do criador não vier mencionado (art. 14.º, n.º 3, CDADC); no programa de computador criado por trabalhador no exercício das suas funções, os direitos pertencem ao destinatário, salvo estipulação em contrário ou se outra coisa resultar das finalidades do contrato (art. 3.º, n.º 3, do DL n.º 252/94)",
+    "motivo": "Na falta de convenção, o CDADC presume a titularidade do criador, não da empresa; o software tem regime próprio.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=484A0014&nid=484&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Ausência de proteção: obra puramente gerada por IA entra no domínio público ou pode ser protegida como segredo comercial (know-how do processo)",
+    "para": "- Ausência de proteção: o resultado puramente gerado por IA não é obra protegida pelo direito de autor e é, em princípio, de utilização livre (não é «domínio público» em sentido técnico, que pressupõe obra cujo prazo de proteção decorreu — art. 38.º CDADC); o processo (prompts, parâmetros, know-how) pode ser protegido como segredo comercial enquanto se mantiver secreto e for objeto de diligências razoáveis para o manter secreto (art. 313.º CPI)",
+    "motivo": "O domínio público pressupõe obra protegida cujo prazo decorreu; o segredo comercial protege o processo, não o resultado divulgado.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0313&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Exceção de text and data mining (TDM): art. 3.º e 4.º Diretiva (UE) 2019/790, transposta pela Lei n.º 25/2022\n  — Art. 3.º: TDM para fins de investigação científica (sem fins lucrativos)\n  — Art. 4.º: TDM comercial, salvo opt-out expressamente reservado pelo titular",
+    "para": "- Exceção de prospeção de textos e dados (text and data mining — TDM): arts. 3.º e 4.º da Diretiva (UE) 2019/790, transposta pelo Decreto-Lei n.º 47/2023, de 19 de junho (art. 75.º, n.º 2, als. v) e w), CDADC)\n  — Art. 3.º da Diretiva / al. v): TDM por organismos de investigação e instituições responsáveis pelo património cultural, para fins de investigação científica\n  — Art. 4.º da Diretiva / al. w): TDM para quaisquer fins, incluindo comerciais, salvo se a utilização tiver sido expressamente reservada pelos titulares de forma adequada (nos conteúdos em linha, por meios de leitura ótica)",
+    "motivo": "O diploma de transposição é o DL n.º 47/2023; a exceção do art. 3.º depende dos beneficiários, não da falta de fim lucrativo.",
+    "fonte": "https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2023-214524782"
+   },
+   {
+    "de": "- Obrigações de transparência do AI Act: art. 53.º, n.º 1, al. d) — fornecedores de modelos de IA de uso geral devem publicar resumo dos dados de treino",
+    "para": "- Obrigações do AI Act (Regulamento (UE) 2024/1689): os prestadores de modelos de IA de finalidade geral devem aplicar uma política de cumprimento do direito de autor que identifique e respeite as reservas de direitos do art. 4.º, n.º 3, da Diretiva (UE) 2019/790 (art. 53.º, n.º 1, al. c)), e disponibilizar ao público um resumo suficientemente pormenorizado dos conteúdos usados no treino, segundo o modelo do Serviço para a IA (art. 53.º, n.º 1, al. d))",
+    "motivo": "Termos do texto oficial português e obrigação da al. c), diretamente ligada à reserva de TDM.",
+    "fonte": "https://publications.europa.eu/resource/celex/32024R1689"
+   },
+   {
+    "de": "(clausulas de titularidade)",
+    "para": "(cláusulas de titularidade)",
+    "motivo": "Grafia.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=484&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao="
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar a jurisprudência recente e os reenvios prejudiciais pendentes no TJUE sobre IA generativa e direito de autor antes de emitir o parecer.",
+   "Mesmo quando a titularidade é da entidade empregadora, o criador pode ter direito a remuneração especial (art. 14.º, n.º 4, CDADC).",
+   "Confirmar se o Regulamento (UE) 2026/1744 (Omnibus Digital) alterou as obrigações do art. 53.º do AI Act ou a sua aplicação."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=484A0014&nid=484&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=484A0038&nid=484&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=484A0075&nid=484&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=484&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=",
+   "https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2023-214524782",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=152A0003&nid=152&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0313&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://publications.europa.eu/resource/celex/32024R1689"
+  ]
+ },
+ {
+  "codigo": "PI-045",
+  "veredicto": "corrigida",
+  "resumo": "A ficha citava os arts. 179.º e 180.º CPI para a novidade e o carácter singular (são os arts. 176.º e 177.º), previa «reivindicações» que nem o CPI nem o RDMC admitem no pedido de desenho ou modelo (há descrição facultativa e reivindicação de cores), situava o must-match no art. 8.º RDMC (é a cláusula de reparação do art. 20.º-A) e descrevia a proteção do não registado como só contra a «cópia dolosa» (é contra a cópia, art. 19.º, n.º 4). Atualizei a terminologia à reforma do Reg. (UE) 2024/2822 («desenho ou modelo da UE») e acrescentei o ónus de indicar a divulgação no período de graça (art. 179.º, n.º 3, CPI). O limite de 50 desenhos no pedido múltiplo da UE está certo na redação atual do art. 37.º.",
+  "descricao": "Elabora o pedido de registo de desenho ou modelo, nacional (INPI) e da União Europeia (EUIPO), ao abrigo dos artigos 173.º a 207.º do CPI (DL n.º 110/2018) e do Regulamento (CE) n.º 6/2002, relativo aos desenhos ou modelos da União Europeia (RDMC, na redação do Regulamento (UE) 2024/2822), incluindo análise de novidade, carácter singular e estratégia de representação.",
+  "descricao_en": "Prepares the application for registration of a design, national (INPI) and European Union (EUIPO), under Articles 173 to 207 of the CPI (Decree-Law No. 110/2018) and Regulation (EC) No 6/2002 on European Union designs (as amended by Regulation (EU) 2024/2822), including analysis of novelty, individual character and the representation strategy.",
+  "substituicoes": [
+   {
+    "de": "(proteção automática de 3 anos pela aparência do DMCNR — art. 11.º RDMC)",
+    "para": "(proteção automática de 3 anos do desenho ou modelo da UE não registado — art. 11.º RDMC, na redação do Regulamento (UE) 2024/2822)",
+    "motivo": "Desde 1/5/2025 o desenho ou modelo comunitário passou a «desenho ou modelo da UE».",
+    "fonte": "https://publications.europa.eu/resource/celex/02002R0006-20250501"
+   },
+   {
+    "de": "- Exclusões: elementos ditados unicamente pela função técnica (art. 175.º CPI; art. 8.º RDMC) — must-fit/must-match",
+    "para": "- Exclusões: características da aparência determinadas exclusivamente pela função técnica e características de interconexão (must-fit), salvo os sistemas modulares (art. 175.º, n.os 6 e 7, CPI; art. 8.º RDMC); o must-match não é uma exclusão do art. 8.º RDMC, mas a cláusula de reparação de componentes de produtos complexos (art. 20.º-A RDMC)",
+    "motivo": "A exclusão está no art. 175.º, n.º 6, CPI; o must-match corresponde à cláusula de reparação, não ao art. 8.º RDMC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0175&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Requisitos: novidade + carácter singular (art. 179.º e 180.º CPI)",
+    "para": "- Requisitos: novidade + carácter singular (arts. 176.º e 177.º CPI; arts. 5.º e 6.º RDMC)",
+    "motivo": "A novidade e o carácter singular estão nos arts. 176.º e 177.º CPI; os arts. 179.º e 180.º tratam de outras matérias.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0176&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Período de graça: 12 meses antes do depósito (art. 181.º CPI; art. 7.º RDMC) — divulgação pelo próprio não destrói a novidade",
+    "para": "- Período de graça: 12 meses antes do depósito ou da prioridade (art. 179.º CPI; art. 7.º, n.º 2, RDMC) — a divulgação pelo criador, pelo seu sucessor ou por terceiro com base em informações deles não destrói a novidade; no pedido nacional, indicar a data e o local da divulgação no pedido ou no prazo de um mês, com documento comprovativo (art. 179.º, n.º 3, CPI)",
+    "motivo": "O período de graça é o art. 179.º CPI e exige, no pedido nacional, a indicação e a prova da divulgação.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0179&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Design não registado: proteção automática de 3 anos pela primeira divulgação na UE (art. 11.º RDMC) — mais fraca (só contra cópia dolosa)",
+    "para": "- Desenho ou modelo da UE não registado: proteção automática de 3 anos a contar da primeira divulgação ao público na UE (art. 11.º RDMC) — mais fraca: só permite proibir a utilização que resulte de cópia, não a criação independente (art. 19.º, n.º 4, RDMC)",
+    "motivo": "O critério é a cópia (excluída a criação independente), não o dolo; terminologia da reforma de 2024.",
+    "fonte": "https://publications.europa.eu/resource/celex/02002R0006-20250501"
+   },
+   {
+    "de": "*[Adaptar para INPI (nacional) ou EUIPO (comunitário)]*",
+    "para": "*[Adaptar para INPI (nacional) ou EUIPO (desenho ou modelo da UE)]*",
+    "motivo": "Terminologia do RDMC na redação do Regulamento (UE) 2024/2822.",
+    "fonte": "https://publications.europa.eu/resource/celex/02002R0006-20250501"
+   },
+   {
+    "de": "[Indicar que se juntam X perspetivas do design em formato [JPEG/PNG, resolução mínima 400 dpi, fundo branco]]",
+    "para": "[Indicar que se juntam X perspetivas do design] [■ VERIFICAR: formato, número de vistas e demais requisitos formais das representações — despacho do presidente do conselho diretivo do INPI (art. 184.º, n.º 4, CPI) e atos de execução do RDMC aplicáveis no EUIPO]",
+    "motivo": "Os requisitos formais das representações são fixados por despacho do INPI e pelos atos de execução do EUIPO; não confirmei os valores indicados.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0184&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "**REIVINDICAÇÕES (opcional para INPI; não existe no RDMC):**\n[Indicação dos elementos visuais que se pretendem proteger]",
+    "para": "**DESCRIÇÃO (facultativa):**\n[INPI: até 50 palavras por produto, referindo apenas os elementos que aparecem nas representações, sem menções à novidade, ao carácter singular ou ao valor técnico (art. 184.º, n.º 3, CPI); EUIPO: descrição explicativa da representação, que não afeta o âmbito da proteção (art. 36.º, n.º 3, al. a), e n.º 6, RDMC). Nenhum dos regimes prevê reivindicações no pedido de desenho ou modelo; no INPI indicam-se as cores, se forem reivindicadas (art. 183.º, n.º 1, al. e), CPI)]",
+    "motivo": "O CPI não prevê reivindicações no pedido de desenho ou modelo, só descrição facultativa e reivindicação de cores.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0184&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "na aceção dos artigos 179.º e 180.º do CPI / artigos 4.º a 9.º do RDMC.",
+    "para": "na aceção dos artigos 176.º e 177.º do CPI / artigos 5.º e 6.º do RDMC.",
+    "motivo": "A novidade e o carácter singular estão nos arts. 176.º e 177.º CPI e 5.º e 6.º RDMC.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0177&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "A declaração de novidade não é exigida pelo CPI (arts. 183.º e 184.º) nem pelo RDMC (art. 36.º): pode omitir-se, e nunca deve constar da descrição (art. 184.º, n.º 3, CPI).",
+   "No INPI, o pedido múltiplo admite até 100 produtos da mesma classe de Locarno (art. 186.º, n.º 1, CPI); no EUIPO, até 50 desenhos ou modelos (art. 37.º, n.º 1, RDMC, na redação atual).",
+   "Confirmar as taxas do EUIPO e os requisitos de representação em vigor após a reforma (Regulamento (UE) 2024/2822 e respetivos atos de execução).",
+   "[■ VERIFICAR] a transposição da Diretiva (UE) 2024/2823 (desenhos ou modelos), que vai alterar o regime nacional do CPI."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0175&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0176&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0177&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0179&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0183&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0184&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0186&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0195&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://publications.europa.eu/resource/celex/02002R0006-20250501"
+  ]
+ },
+ {
+  "codigo": "PI-046",
+  "veredicto": "corrigida",
+  "resumo": "A ficha assentava em critérios «análogos à UDRP» e identificava o ARBITRARE como o centro de arbitragem comercial da Câmara de Comércio e Indústria Portuguesa. O ARBITRARE é o Centro de Arbitragem para a Propriedade Industrial, Nomes de Domínio, Firmas e Denominações, e as Regras de Registo de .pt (aplicáveis desde 1/7/2026) fixam critérios próprios: reprodução de marca, nome ou designação de conhecimento amplo e generalizado, apropriação com má fé e direito anterior legalmente protegido (arts. 6.º, n.º 2, e 27.º, n.º 3). Reescrevi o foro (a arbitragem depende de convenção de arbitragem), os critérios, a prova e o requerimento inicial segundo o Regulamento de Arbitragem (valor, língua, tribunal arbitral, transferência ou remoção, suspensão cautelar), e atualizei a referência à FCCN, substituída pela Associação DNS.PT.",
+  "titulo": "Arbitragem de Nomes de Domínio .pt (DNS.PT/ARBITRARE)",
+  "titulo_en": "Arbitration of .pt Domain Names (DNS.PT/ARBITRARE)",
+  "descricao": "Elabora o requerimento inicial de arbitragem para recuperação de nome de domínio .pt que reproduza, com má fé, marca, nome ou designação de conhecimento amplo e generalizado, ao abrigo das Regras de Registo de Nomes de Domínio de .pt da Associação DNS.PT (critérios próprios, distintos da UDRP da ICANN), junto do ARBITRARE — Centro de Arbitragem para a Propriedade Industrial, Nomes de Domínio, Firmas e Denominações.",
+  "descricao_en": "Prepares the request for arbitration to recover a .pt domain name that reproduces, in bad faith, a widely and generally known trade mark, name or designation, under the .pt Domain Name Registration Rules of Associação DNS.PT (with criteria of their own, distinct from ICANN's UDRP), before ARBITRARE — the Arbitration Centre for Industrial Property, Domain Names, Company Names and Designations.",
+  "substituicoes": [
+   {
+    "de": "— Cita o Regulamento .pt (DNS.pt) e as políticas de resolução de litígios aplicáveis.\n— Referencia os critérios cumulativos análogos à UDRP: (i) domínio idêntico/confundível; (ii) ausência de direito legítimo do detentor; (iii) registo e uso de má-fé.",
+    "para": "— Cita as Regras de Registo de Nomes de Domínio de .pt da Associação DNS.PT (versão aplicável desde 1 de julho de 2026) e o Regulamento de Arbitragem do ARBITRARE para nomes de domínio de .pt.\n— Aplica os critérios próprios das Regras (art. 6.º, n.º 2, e art. 27.º, n.º 3), que não são os da UDRP: (i) reprodução de marca, nome ou designação; (ii) de conhecimento amplo e generalizado; (iii) apropriação com má fé; (iv) de direito ou interesse de terceiro legalmente protegido, anterior ao registo do domínio.",
+    "motivo": "As Regras de .pt não adotam os critérios da UDRP; exigem, nomeadamente, conhecimento amplo e generalizado do sinal.",
+    "fonte": "https://www.pt.pt/fotos/editor2/pt_regras_registo_2026.pdf"
+   },
+   {
+    "de": "- Foro: ARBITRARE (Centro de Arbitragem Comercial da Câmara de Comércio e Indústria Portuguesa) ao abrigo das regras DNS.pt",
+    "para": "- Foro: ARBITRARE — Centro de Arbitragem para a Propriedade Industrial, Nomes de Domínio, Firmas e Denominações, em arbitragem voluntária institucionalizada (art. 26.º das Regras de Registo de .pt); a arbitragem contra o titular depende de convenção de arbitragem, que pode ter sido subscrita aquando do registo do domínio (art. 26.º, n.º 2, das Regras) ou ser celebrada depois; sem ela, o ARBITRARE apenas diligencia o compromisso arbitral e arquiva o processo se o titular o não aceitar (arts. 6.º e 7.º do Regulamento de Arbitragem do ARBITRARE), restando a ação no Tribunal da Propriedade Intelectual (art. 111.º, n.º 1, al. i), da Lei n.º 62/2013 — LOSJ)",
+    "motivo": "O ARBITRARE não é o centro de arbitragem comercial da CCIP, e a arbitragem é voluntária e depende de convenção.",
+    "fonte": "https://arbitrare.pt/media/4275/regulamento-de-arbitragem.pdf"
+   },
+   {
+    "de": "### ETAPA 2 — TRÊS CRITÉRIOS CUMULATIVOS\nApresenta em <criterios_cumulativos>:\n**Critério 1 — Identicidade ou confundibilidade**\n- Comparação do domínio com a marca/denominação do reclamante\n- Desconsideração de \"www\" e do sufixo \".pt\" (neutros)\n- Análise de semelhança fonética e concetual\n\n**Critério 2 — Ausência de direito ou interesse legítimo do detentor**\n- O detentor não é titular de marca semelhante\n- Não usa o domínio de boa-fé para oferta de produtos/serviços\n- Não é conhecido pelo nome correspondente ao domínio\n- Não usa o domínio para uso não comercial ou legítimo\n\n**Critério 3 — Registo e uso de má-fé**\n- Circunstâncias de má-fé: tentativa de venda por preço excessivo; padrão de registos oportunistas; bloqueio da marca; desvio de tráfego; phishing; uso parasitário\n- Má-fé na ausência de uso efetivo (uso passivo do domínio — passive holding)",
+    "para": "### ETAPA 2 — CRITÉRIOS DAS REGRAS DE REGISTO DE .PT\nApresenta em <criterios_cumulativos>:\nO nome de domínio não deve corresponder à reprodução de uma marca, nome ou designação de conhecimento amplo e generalizado que consubstancie uma apropriação com má fé de um direito ou interesse de terceiro legalmente protegido (art. 6.º, n.º 2, das Regras); o árbitro aprecia o cumprimento das Regras e a legitimidade do registo à luz desse preceito (art. 27.º, n.º 2, das Regras).\n\n**Critério 1 — Reprodução de marca, nome ou designação (art. 27.º, n.º 3, al. a), das Regras)**\n- Coincidência do nome de domínio com o elemento nominativo do sinal, considerada a totalidade da sua composição gráfica\n- Ou aditamento ou obliteração de caracteres que altere a grafia sem alterar por completo a fonia\n- Se o sítio associado ao domínio comercializa bens ou produtos iguais ou similares aos protegidos pelo sinal, basta a coincidência parcial com a composição gráfica do sinal\n- Desconsideração de \"www\" e do sufixo \".pt\" (neutros)\n\n**Critério 2 — Conhecimento amplo e generalizado do sinal (art. 27.º, n.º 3, al. b), das Regras)**\n- Projeção pública relevante no mercado a que o sinal se dirige: implantação no mercado, referências na imprensa da especialidade, volume de negócios, canais de venda e distribuição, tempo de presença no mercado\n- Incluem-se as marcas notórias e de prestígio\n\n**Critério 3 — Apropriação com má fé (art. 27.º, n.º 3, al. c), das Regras)**\n- Domínio registado ou adquirido para posterior venda ao requerente\n- Domínio registado para perturbar as atividades profissionais ou comerciais do requerente\n- Intenção de obter ganhos indevidos com o poder de atração, a reputação e o prestígio da marca\n- Sítio que comercializa bens ou produtos iguais ou similares aos protegidos pela marca em conflito\n- A enumeração é exemplificativa («designadamente»): outras circunstâncias, como o padrão de registos oportunistas, o phishing ou o uso passivo (passive holding) [■ VERIFICAR: acolhimento na prática arbitral do ARBITRARE]\n\n**Critério 4 — Direito ou interesse de terceiro legalmente protegido e anterior (art. 27.º, n.º 3, al. d), das Regras)**\n- Direito ou interesse conferido por lei e anterior ao registo do nome de domínio (marca registada, firma ou denominação, nome)",
+    "motivo": "Os critérios aplicáveis são os do art. 6.º, n.º 2, e do art. 27.º, n.º 3, das Regras de .pt, não os da UDRP.",
+    "fonte": "https://www.pt.pt/fotos/editor2/pt_regras_registo_2026.pdf"
+   },
+   {
+    "de": "- Certidão de registo da marca anterior",
+    "para": "- Certidão de registo da marca anterior (ou prova da firma, denominação ou nome invocado) e da sua anterioridade face ao registo do domínio\n- Prova do conhecimento amplo e generalizado do sinal (implantação no mercado, imprensa da especialidade, volume de negócios)\n- Convenção de arbitragem, que acompanha o requerimento inicial (art. 21.º, n.º 3, do Regulamento de Arbitragem do ARBITRARE)",
+    "motivo": "Prova dos requisitos próprios das Regras de .pt e documento exigido pelo Regulamento de Arbitragem.",
+    "fonte": "https://arbitrare.pt/media/4275/regulamento-de-arbitragem.pdf"
+   },
+   {
+    "de": "### ETAPA 4 — RECLAMAÇÃO ARBITRAL\n\n**CENTRO DE ARBITRAGEM COMERCIAL — ARBITRARE**\n\n**RECLAMAÇÃO DE NOME DE DOMÍNIO .PT**\n\n**Reclamante:** [identificação completa — firma/nome, NIF/NIPC, morada, mandatário]\n**Titular do Domínio (Reclamado):** [identificação conforme WHOIS]\n**Domínio em litígio:** [domínio].pt\n\n**I. IDENTIFICAÇÃO DO RECLAMANTE E DO SEU DIREITO**\n[Identificação da marca/denominação anterior e prova de anterioridade]\n\n**II. PRIMEIRO CRITÉRIO — IDENTICIDADE OU CONFUNDIBILIDADE**\n[Análise comparativa do domínio com a marca do reclamante]\n\n**III. SEGUNDO CRITÉRIO — AUSÊNCIA DE DIREITO LEGÍTIMO DO TITULAR**\n[Demonstração de que o titular não tem direito ou interesse legítimo no domínio]\n\n**IV. TERCEIRO CRITÉRIO — MÁ-FÉ**\n[Demonstração das circunstâncias de má-fé no registo e uso do domínio]\n\n**V. DO PEDIDO**\nNestes termos, requer-se que o painel arbitral ordene a transferência do domínio [domínio].pt para o Reclamante / o cancelamento do registo.",
+    "para": "### ETAPA 4 — REQUERIMENTO INICIAL DE ARBITRAGEM\n\n**ARBITRARE — CENTRO DE ARBITRAGEM PARA A PROPRIEDADE INDUSTRIAL, NOMES DE DOMÍNIO, FIRMAS E DENOMINAÇÕES**\n\n**REQUERIMENTO INICIAL DE ARBITRAGEM — NOME DE DOMÍNIO .PT**\n\n**Requerente:** [identificação completa — firma/nome, NIF/NIPC, morada, endereço eletrónico, mandatário]\n**Requerido (titular do nome de domínio):** [identificação conforme WHOIS, morada e endereço eletrónico]\n**Contrainteressados:** [identificar, se os houver]\n**Domínio em litígio:** [domínio].pt\n**Convenção de arbitragem:** [junta — subscrita aquando do registo do domínio ou posteriormente / inexistente: requer-se a diligência de compromisso arbitral (art. 7.º do Regulamento de Arbitragem do ARBITRARE)]\n**Valor do litígio:** [valor]\n**Língua do processo:** [português / inglês]\n**Tribunal arbitral:** [árbitro único / três árbitros — e designação do árbitro que cabe ao Requerente]\n\n**I. O DIREITO DO REQUERENTE E A SUA ANTERIORIDADE**\n[Identificação da marca, firma, denominação ou nome e prova de que é anterior ao registo do domínio — art. 27.º, n.º 3, al. d), das Regras de Registo de .pt]\n\n**II. REPRODUÇÃO DA MARCA, NOME OU DESIGNAÇÃO**\n[Análise comparativa do domínio com o sinal do Requerente — art. 27.º, n.º 3, al. a), das Regras]\n\n**III. CONHECIMENTO AMPLO E GENERALIZADO DO SINAL**\n[Prova da projeção pública relevante do sinal no mercado a que se dirige — art. 27.º, n.º 3, al. b), das Regras]\n\n**IV. APROPRIAÇÃO COM MÁ FÉ**\n[Demonstração das circunstâncias de má fé no registo ou na aquisição do domínio — art. 27.º, n.º 3, al. c), das Regras]\n\n**V. DO PEDIDO**\nNestes termos, requer-se que o tribunal arbitral determine a transferência da titularidade do nome de domínio [domínio].pt para o Requerente / a remoção do nome de domínio (art. 27.º, n.º 1, das Regras).\n[Se houver fundado receio de lesão grave e dificilmente reparável: requer-se, como providência cautelar, a suspensão temporária do nome de domínio (art. 28.º das Regras).]",
+    "motivo": "Peça, centro e critérios conformes ao Regulamento de Arbitragem do ARBITRARE (art. 21.º) e às Regras de .pt (arts. 27.º e 28.º).",
+    "fonte": "https://arbitrare.pt/media/4275/regulamento-de-arbitragem.pdf"
+   },
+   {
+    "de": "- [ ] Três critérios cumulativos demonstrados",
+    "para": "- [ ] Critérios das Regras demonstrados: reprodução, conhecimento amplo e generalizado, má fé e direito anterior (art. 6.º, n.º 2, e art. 27.º, n.º 3, das Regras de Registo de .pt)\n- [ ] Convenção de arbitragem junta ou pedida a diligência de compromisso arbitral\n- [ ] Valor do litígio, língua e composição do tribunal arbitral indicados",
+    "motivo": "Critérios e requisitos do requerimento inicial das fontes aplicáveis.",
+    "fonte": "https://arbitrare.pt/media/4275/regulamento-de-arbitragem.pdf"
+   },
+   {
+    "de": "- [ ] Pedido claramente formulado (transferência ou cancelamento)",
+    "para": "- [ ] Pedido claramente formulado (transferência ou remoção)",
+    "motivo": "A decisão pode consistir na remoção e/ou transferência do nome de domínio (art. 27.º, n.º 1, das Regras).",
+    "fonte": "https://www.pt.pt/fotos/editor2/pt_regras_registo_2026.pdf"
+   },
+   {
+    "de": "**RECLAMANTE:**",
+    "para": "**REQUERENTE:**",
+    "motivo": "Designação das partes no Regulamento de Arbitragem do ARBITRARE.",
+    "fonte": "https://arbitrare.pt/media/4275/regulamento-de-arbitragem.pdf"
+   },
+   {
+    "de": "**Pedido:** [transferência / cancelamento]",
+    "para": "**Convenção de arbitragem subscrita pelo titular do domínio:** [sim / não / a confirmar]\n**Pedido:** [transferência / remoção / suspensão cautelar]",
+    "motivo": "A arbitragem depende de convenção; medidas previstas nos arts. 27.º e 28.º das Regras.",
+    "fonte": "https://www.pt.pt/fotos/editor2/pt_regras_registo_2026.pdf"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "As Regras de 2026 aplicam-se aos litígios instaurados após 1/7/2026, mesmo quanto a domínios registados antes; para processos anteriores, confirmar a versão aplicável.",
+   "O WHOIS de .pt pode não divulgar os dados pessoais de titulares que sejam pessoas singulares: [■ VERIFICAR] a Política de WHOIS de .pt e o modo de obter a identificação do titular.",
+   "A arbitragem pode também ser proposta contra o .PT, para remover um domínio indevidamente aceite (art. 26.º, n.º 4, al. b), e art. 27.º, n.º 4, das Regras).",
+   "Confirmar os encargos processuais (Tabela n.º 2 do ARBITRARE) e a versão em vigor do Regulamento de Arbitragem para nomes de domínio."
+  ],
+  "fontes": [
+   "https://www.pt.pt/fotos/editor2/pt_regras_registo_2026.pdf",
+   "https://arbitrare.pt/media/4674/pt_regras_registo_01_07_2026.pdf",
+   "https://arbitrare.pt/media/4275/regulamento-de-arbitragem.pdf",
+   "https://www.arbitrare.pt/",
+   "https://www.arbitrare.pt/pt/legislação-regulamentos/",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1974A0111&nid=1974&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+  ]
+ }
+]

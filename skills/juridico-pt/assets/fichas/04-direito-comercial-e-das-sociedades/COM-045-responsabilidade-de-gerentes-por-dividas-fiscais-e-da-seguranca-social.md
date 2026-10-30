@@ -75,7 +75,7 @@ Processo n.º [■ VERIFICAR]
 1. O Oponente foi citado, por reversão, para a execução fiscal em [data], pelo que a presente oposição é deduzida dentro do prazo de 30 dias a contar da citação pessoal (art. 203.º, n.º 1, al. a), CPPT).
 
 **II. DO FUNDAMENTO DA OPOSIÇÃO**
-[Seleccionar e desenvolver conforme o caso:]
+[Selecionar e desenvolver conforme o caso:]
 
 (a) INEXISTÊNCIA DE CULPA — [Variante 1 — dívida cujo prazo legal de pagamento ou entrega terminou no período do cargo, art. 24.º, n.º 1, al. b), LGT:] O prazo legal de pagamento da dívida exequenda terminou em [data], quando o Oponente exercia funções de gerente. Todavia, a falta de pagamento não lhe é imputável, porquanto [descrever: mercado, crise setorial, decisões de sócios, fatores externos]. Assim, ilide-se a presunção de culpa do art. 24.º, n.º 1, al. b), LGT. [Variante 2 — dívida cujo facto constitutivo ocorreu no período do cargo, mas cujo prazo de pagamento terminou depois dele, art. 24.º, n.º 1, al. a), LGT:] A responsabilidade depende de ter sido por culpa do Oponente que o património da sociedade se tornou insuficiente, culpa que cabia à AT alegar e provar (art. 74.º, n.º 1, LGT) e que não provou. Em ambos os casos, o Oponente não é responsável pelo pagamento da dívida — ilegitimidade (art. 204.º, n.º 1, al. b), CPPT). [■ VERIFICAR: juntar documentação de suporte]
 

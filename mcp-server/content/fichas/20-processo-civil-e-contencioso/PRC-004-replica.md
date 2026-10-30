@@ -124,7 +124,7 @@ Apresenta em <checklist_validacao>:
 **RESUMO DA CONTESTAÇÃO DO RÉU:**
 [Descreve o que o réu alegou:
 - Exceções dilatórias invocadas
-- Exceções peremptórias invocadas (prescrição, pagamento, etc.)
+- Exceções perentórias invocadas (prescrição, pagamento, etc.)
 - Reconvenção e pedido reconvencional se existir]
 
 **POSIÇÃO DO AUTOR:**

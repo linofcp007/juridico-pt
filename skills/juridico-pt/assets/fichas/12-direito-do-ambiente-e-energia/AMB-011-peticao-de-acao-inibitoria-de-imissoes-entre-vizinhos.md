@@ -6,7 +6,8 @@ titulo_en: "Statement of Claim for an Injunction against Nuisance between Neighb
 descricao: "Elabora a petição inicial da ação inibitória destinada a fazer cessar imissões intoleráveis (ruído excessivo, fumos, cheiros, vibrações, poeiras) que afetem o uso normal de imóvel, ao abrigo dos artigos 1346.º e 1347.º do Código Civil e do Regulamento Geral do Ruído (DL n.º 9/2007), incluindo pedido de indemnização pelos danos sofridos e, se urgente, providência cautelar prévia."
 descricao_en: "Drafts the statement of claim in an action for an injunction (ação inibitória) to stop intolerable emissions (excessive noise, smoke, odours, vibrations, dust) affecting the normal use of a property, under Articles 1346 and 1347 of the Civil Code and the General Noise Regulation (Decree-Law No. 9/2007), including a claim for damages and, if urgent, a prior interim measure (providência cautelar)."
 ambito: nacional
-estado_citacoes: "conferidas 17 · corrigidas 0 · por conferir 3"
+estado_citacoes: "conferidas 21 · corrigidas 0 · por conferir 1"
+revisao_tecnica: "2026-10-30 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
@@ -14,7 +15,8 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 
 > **Âmbito:** nacional · **Área:** Direito do Ambiente e Energia · **Código:** AMB-011
 > **EN:** Statement of Claim for an Injunction against Nuisance between Neighbours. Drafts the statement of claim in an action for an injunction (ação inibitória) to stop intolerable emissions (excessive noise, smoke, odours, vibrations, dust) affecting the normal use of a property, under Articles 1346 and 1347 of the Civil Code and the General Noise Regulation (Decree-Law No. 9/2007), including a claim for damages and, if urgent, a prior interim measure (providência cautelar).
-> **Citações:** conferidas 17 · corrigidas 0 · por conferir 3. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 21 · corrigidas 0 · por conferir 1. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-30 — corrigida (3 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
 Elabora a petição inicial da ação inibitória destinada a fazer cessar imissões intoleráveis (ruído excessivo, fumos, cheiros, vibrações, poeiras) que afetem o uso normal de imóvel, ao abrigo dos artigos 1346.º e 1347.º do Código Civil e do Regulamento Geral do Ruído (DL n.º 9/2007), incluindo pedido de indemnização pelos danos sofridos e, se urgente, providência cautelar prévia.
 
@@ -25,7 +27,7 @@ Ficha de trabalho para preparar este documento. As regras da casa prevalecem sob
 ## Regras obrigatórias
 - NUNCA inventes legislação, acórdãos ou valores de indemnização
 - Base legal: arts. 1346.º, 1347.º, 483.º, 496.º, 562.º CC; DL n.º 9/2007 (RGR)
-- Código de Processo Civil: arts. 10.º n.º 3 al. a) (ação de condenação), 362.º e ss. (providências cautelares)
+- Código de Processo Civil: art. 10.º, n.º 3, al. b), CPC (ação de condenação) e arts. 362.º e ss. CPC (providências cautelares não especificadas)
 - Tribunal competente: juízo cível do tribunal de comarca do local do imóvel
 - Valor da causa: danos patrimoniais + não patrimoniais + valor da obrigação de facto negativo (art. 297.º CPC)
 - Marca [■ VERIFICAR: dado em falta] quando informação estiver ausente
@@ -51,7 +53,7 @@ Identifica em <fundamentos_juridicos>:
 - Art. 1346.º CC — pressupostos (prejuízo substancial ou uso anormal do prédio emitente)
 - Art. 1347.º CC — atividades especialmente prejudiciais: análise dos requisitos
 - Art. 483.º CC — responsabilidade subjetiva por ato ilícito culposo
-- Art. 499.º CC [■ VERIFICAR: o art. 499.º CC só remete para o regime geral; as atividades perigosas estão no art. 493.º, n.º 2, CC (culpa presumida)] — responsabilidade objetiva por atividades perigosas [■ VERIFICAR aplicabilidade]
+- Art. 493.º, n.º 2, CC — atividades perigosas: presunção de culpa, que o réu só afasta provando ter empregado todas as providências exigidas pelas circunstâncias (não é responsabilidade objetiva) [■ VERIFICAR aplicabilidade]
 - Art. 496.º CC — danos não patrimoniais (critérios de quantificação)
 - DL n.º 9/2007 (RGR): VLE por zona e período (prova objetiva da ilicitude)
 - Art. 829.º-A CC — sanção pecuniária compulsória para obrigação de facto negativo
@@ -111,10 +113,10 @@ Art. 829.º-A CC: garantia do cumprimento da obrigação de cessação
 **V. DOS PEDIDOS**
 "Requer que a presente ação seja julgada procedente por provada e, em consequência, seja o Réu condenado a:
 a) Cessar imediatamente as imissões de [tipo] provenientes de [local];
-b) Adoptar as medidas técnicas necessárias para garantir que as emissões não excedam os VLE legais (DL 9/2007);
+b) Adotar as medidas técnicas necessárias para garantir que as emissões não excedam os VLE legais (DL 9/2007);
 c) Pagar ao Autor a quantia de €___ a título de indemnização por danos patrimoniais;
 d) Pagar ao Autor a quantia de €___ a título de danos não patrimoniais (art. 496.º CC);
-e) Pagar sanção pecuniária compulsória de €___ por dia de incumprimento (art. 829.º-A CC);
+e) Pagar sanção pecuniária compulsória de €___ por cada dia de atraso no cumprimento ou por cada infração (art. 829.º-A, n.º 1, CC), destinada em partes iguais ao Autor e ao Estado (art. 829.º-A, n.º 3, CC);
 f) Pagar as custas e honorários do mandatário."
 
 **VI. DOS REQUERIMENTOS PROBATÓRIOS**
@@ -186,22 +188,24 @@ Apresenta em <checklist_validacao>:
 | Citação | Estado | Nota |
 |---|---|---|
 | arts. 1346.º, 1347.º, 483.º, 496.º, 562.º CC | conferida (epígrafe) — Emissão de fumo, produção de ruídos e factos semelhantes |  |
-| arts. 10.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 10.º, n.º 3, al. b), CPC | conferida (epígrafe) — Espécies de ações, consoante o seu fim |  |
+| arts. 362.º e ss. CPC | conferida (epígrafe) — Âmbito das providências cautelares não especificadas |  |
 | art. 297.º CPC | conferida (índice) |  |
 | art. 498.º CC | conferida (epígrafe) — Prescrição |  |
 | art. 498.º CC | conferida (epígrafe) — Prescrição |  |
 | Art. 1346.º CC | conferida (epígrafe) — Emissão de fumo, produção de ruídos e factos semelhantes |  |
 | Art. 1347.º CC | conferida (epígrafe) — Instalações prejudiciais |  |
 | Art. 483.º CC | conferida (índice) |  |
-| Art. 499.º CC | por conferir [■ VERIFICAR] | o art. 499.º CC só remete para o regime geral; as atividades perigosas estão no art. 493.º, n.º 2, CC (culpa presumida) |
+| Art. 493.º, n.º 2, CC | conferida (epígrafe) — Danos causados por coisas, animais ou atividades |  |
 | Art. 496.º CC | conferida (epígrafe) — Danos não patrimoniais |  |
 | Art. 829.º-A CC | conferida (epígrafe) — Sanção pecuniária compulsória |  |
 | Art. 829.º-A CC | conferida (epígrafe) — Sanção pecuniária compulsória |  |
 | art. 362.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 829.º-A CC | conferida (epígrafe) — Sanção pecuniária compulsória |  |
 | art. 829.º-A CC | conferida (epígrafe) — Sanção pecuniária compulsória |  |
-| art. 829.º-A CC | conferida (epígrafe) — Sanção pecuniária compulsória |  |
 | Art. 297.º CPC | conferida (índice) |  |
 | Arts. 1346.º e 1347.º CC | conferida (epígrafe) — Emissão de fumo, produção de ruídos e factos semelhantes |  |
 | art. 496.º CC | conferida (epígrafe) — Danos não patrimoniais |  |
+| art. 829.º-A, n.º 1, CC | conferida (epígrafe) — Sanção pecuniária compulsória |  |
+| art. 829.º-A, n.º 3, CC | conferida (epígrafe) — Sanção pecuniária compulsória |  |
 | arts. 1346.º e 1347.º CC | conferida (epígrafe) — Emissão de fumo, produção de ruídos e factos semelhantes |  |

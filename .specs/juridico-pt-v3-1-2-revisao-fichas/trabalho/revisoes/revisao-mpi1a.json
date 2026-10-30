@@ -1,0 +1,194 @@
+[
+  {
+    "codigo": "PI-027",
+    "veredicto": "corrigida",
+    "resumo": "A ficha escolhia o regime pela nacionalidade da plataforma (DMCA para as americanas, DSA para as europeias), quando o DSA se aplica a todos os serviços intermediários oferecidos a destinatários na União, seja qual for o local de estabelecimento do prestador (art. 2.º, n.º 1), e o DMCA só abrange direitos de autor. Indicava a ACT como via de escalonamento e uma «injunção» (instituto de cobrança de dívidas), em vez da providência cautelar contra o intermediário (art. 210.º-G CDADC; art. 345.º CPI), da IGAC e do Coordenador dos Serviços Digitais (ANACOM, Lei n.º 12-A/2026). Corrigi também a descrição do art. 17.º DSA (exposição de motivos, não notificação e ação) e acrescentei o sistema interno de reclamações (art. 20.º DSA).",
+    "substituicoes": [
+      {
+        "de": "- Quando a plataforma é americana, adapta a notificação ao DMCA (17 U.S.C. § 512); quando europeia, aplica o DSA",
+        "para": "- O DSA (Regulamento (UE) 2022/2065) aplica-se a todos os serviços intermediários oferecidos a destinatários estabelecidos ou localizados na União, independentemente do local de estabelecimento do prestador (art. 2.º, n.º 1); para conteúdo acessível em Portugal, a notificação ao abrigo do art. 16.º do DSA vale também perante plataformas americanas (YouTube, Meta, Amazon). A notificação DMCA (17 U.S.C. § 512(c)(3)), que só abrange direitos de autor, é complementar: usa-se quando a plataforma americana a exige no seu formulário ou se pretende a remoção à luz do direito norte-americano",
+        "motivo": "O DSA não depende da nacionalidade da plataforma, mas do local dos destinatários; o DMCA só cobre direitos de autor.",
+        "fonte": "https://publications.europa.eu/resource/celex/32022R2065"
+      },
+      {
+        "de": "- Regime aplicável: DMCA (plataformas americanas), DSA (plataformas europeias) ou lei nacional\n- Risco de contranotiificação: o infrator pode contestar a remoção",
+        "para": "- Regime aplicável: DSA (art. 16.º — qualquer prestador de alojamento virtual que ofereça o serviço na União, seja qual for a sua sede) e lei nacional (CDADC/CPI); DMCA como via complementar, só para direitos de autor, quando a plataforma é americana\n- Risco de contestação: o autor do conteúdo removido recebe a exposição de motivos da decisão (art. 17.º DSA) e pode reclamar no sistema interno de gestão de reclamações da plataforma em linha (art. 20.º DSA); no DMCA, pode apresentar contranotificação (17 U.S.C. § 512(g))",
+        "motivo": "Mesmo erro de regime; o mecanismo de contestação do DSA é a exposição de motivos e a reclamação interna, a contranotificação é figura do DMCA.",
+        "fonte": "https://publications.europa.eu/resource/celex/32022R2065"
+      },
+      {
+        "de": "- Regulamento (UE) 2022/2065 (DSA): arts. 16.º e 17.º — mecanismos de notificação e ação",
+        "para": "- Regulamento (UE) 2022/2065 (DSA): art. 16.º — mecanismos de notificação e ação (elementos da notificação no n.º 2: explicação fundamentada da ilicitude, URL exatos, nome e endereço de correio eletrónico, declaração de boa-fé; a notificação suficientemente fundamentada gera conhecimento efetivo para efeitos do art. 6.º — n.º 3); art. 17.º — exposição de motivos da decisão ao destinatário afetado; art. 20.º — sistema interno de gestão de reclamações das plataformas em linha, aberto também a quem notificou",
+        "motivo": "O art. 17.º DSA trata da exposição de motivos, não do mecanismo de notificação e ação, que está só no art. 16.º.",
+        "fonte": "https://publications.europa.eu/resource/celex/32022R2065"
+      },
+      {
+        "de": "- [Se plataforma americana]: DMCA — 17 U.S.C. § 512(c) — safe harbor e notice and takedown",
+        "para": "- [Se plataforma americana, como via complementar e só para direitos de autor]: DMCA — 17 U.S.C. § 512(c) — safe harbor e notice and takedown (elementos da notificação no § 512(c)(3)(A))",
+        "motivo": "O DMCA é complementar ao DSA e respeita só a direitos de autor, não a marcas.",
+        "fonte": "https://www.copyright.gov/title17/92chap5.html"
+      },
+      {
+        "de": "- Alternativa de escalonamento: notificação judicial, injunção, reclamação à IGAC ou à ACT",
+        "para": "- Alternativa de escalonamento: reclamação no sistema interno da plataforma (art. 20.º DSA); providência cautelar, que pode ser decretada também contra o intermediário cujos serviços são usados para a violação (art. 210.º-G, n.º 3, CDADC; art. 345.º, n.º 3, CPI); notificação judicial avulsa; comunicação à IGAC (fiscalização do direito de autor e dos direitos conexos); reclamação ao Coordenador dos Serviços Digitais — a ANACOM — se a plataforma não cumprir o DSA (art. 53.º DSA; arts. 5.º, n.º 1, e 11.º da Lei n.º 12-A/2026, de 15 de abril)",
+        "motivo": "A ACT (condições de trabalho) não tem competência em propriedade intelectual e a «injunção» é o procedimento de cobrança de dívidas; a via é a providência cautelar, e o Coordenador dos Serviços Digitais é a ANACOM.",
+        "fonte": "https://files.diariodarepublica.pt/1s/2026/04/07301/0000200025.pdf"
+      },
+      {
+        "de": "**DMCA / IP Infringement Notice**",
+        "para": "**IP Infringement Notice (Article 16 DSA; DMCA — 17 U.S.C. § 512(c)(3) — for copyright only)**",
+        "motivo": "O DMCA não abrange marcas; a versão inglesa serve também para a notificação do art. 16.º DSA.",
+        "fonte": "https://www.copyright.gov/title17/92chap5.html"
+      },
+      {
+        "de": "- DSA (plataforma europeia): [sim/não]\n- DMCA (plataforma americana): [sim/não]",
+        "para": "- DSA (art. 16.º — aplica-se a qualquer plataforma que ofereça o serviço na UE, seja qual for a sua sede): [sim/não]\n- DMCA (complementar; plataforma americana e só direitos de autor): [sim/não]",
+        "motivo": "Mesmo erro de regime na recolha de dados.",
+        "fonte": "https://publications.europa.eu/resource/celex/32022R2065"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Confirmar se a plataforma é um prestador de partilha de conteúdos em linha (YouTube, Instagram), sujeito ao regime próprio do art. 17.º da Diretiva (UE) 2019/790 e da respetiva transposição nacional, que pode reforçar o pedido de remoção.",
+      "Confirmar no formulário da plataforma os campos exigidos e a língua de contacto designada; o DSA obriga a aceitar notificações por meios eletrónicos, mas não fixa a língua.",
+      "A competência da IGAC em matéria de fiscalização do direito de autor foi confirmada por despacho de 2013 que remete para o Decreto Regulamentar n.º 43/2012; confirmar a orgânica em vigor.",
+      "A Lei n.º 12-A/2026 revogou os arts. 12.º a 19.º do Decreto-Lei n.º 7/2004 (incluindo a solução provisória de litígios); não usar remissões antigas para esse regime."
+    ],
+    "fontes": [
+      "https://publications.europa.eu/resource/celex/32022R2065",
+      "https://files.diariodarepublica.pt/1s/2026/04/07301/0000200025.pdf",
+      "https://diariodarepublica.pt/dr/detalhe/lei/12-a-2026-1086140524",
+      "https://www.copyright.gov/title17/92chap5.html",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=484A0210G&nid=484&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0345&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://files.diariodarepublica.pt/2s/2013/06/114000000/1929219292.pdf",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0249&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+    ]
+  },
+  {
+    "codigo": "PI-038",
+    "veredicto": "corrigida",
+    "resumo": "A ficha remetia para um inexistente «Regulamento (UE) 330/2022» — o regulamento de isenção dos acordos verticais é o Regulamento (UE) 2022/720, que só abrange a licença de marca acessória de um acordo vertical (art. 2.º, n.º 3) — e fundava a licença nos arts. 31.º a 35.º CPI, que tratam sobretudo da nulidade e da anulação. Corrigi a base legal (arts. 30.º, 31.º e 256.º a 258.º CPI), a descrição do art. 258.º CPI (não é o exclusivo de uso, que está no art. 249.º) e acrescentei que o uso pelo licenciado só conta como uso sério, sem discussão, com a licença averbada (art. 267.º CPI), que a licença exclusiva não impede o titular de usar a marca (art. 31.º, n.º 7) e que o risco do controlo de qualidade é a caducidade por a marca se tornar enganosa (art. 268.º, n.º 2, al. b)).",
+    "descricao": "Elabora um contrato de licença de marca completo, abrangendo licença exclusiva ou não exclusiva, território, campo de uso, royalties, controlo de qualidade e causas de resolução, ao abrigo dos artigos 30.º, 31.º e 256.º a 258.º do CPI (DL n.º 110/2018) e do regime geral dos contratos (Código Civil).",
+    "descricao_en": "Prepares a full trade mark licence agreement, covering exclusive or non-exclusive licence, territory, field of use, royalties, quality control and grounds for termination, under Articles 30, 31 and 256 to 258 of the CPI (Decree-Law No. 110/2018) and the general law of contracts (Civil Code).",
+    "substituicoes": [
+      {
+        "de": "— Nunca incluas cláusulas que violem o direito da concorrência (Regulamento (UE) 330/2022 — isenções por categoria verticais).",
+        "para": "— Nunca incluas cláusulas que violem o direito da concorrência (art. 101.º TFUE; art. 9.º da Lei n.º 19/2012). A licença de marca só beneficia da isenção por categoria dos acordos verticais (Regulamento (UE) 2022/720) quando é acessória de um acordo vertical — distribuição ou franquia — e não constitui o seu objeto principal (art. 2.º, n.º 3); uma licença de marca autónoma exige autoavaliação individual.",
+        "motivo": "Não existe o «Regulamento (UE) 330/2022»; o regulamento dos acordos verticais é o 2022/720 e só abrange a licença de marca acessória.",
+        "fonte": "https://publications.europa.eu/resource/celex/32022R0720"
+      },
+      {
+        "de": "- Tipo: exclusiva / não exclusiva / única (sole license)",
+        "para": "- Tipo: exclusiva / não exclusiva / única (sole license); a licença presume-se não exclusiva e a licença exclusiva não impede o titular de explorar diretamente a marca, salvo estipulação em contrário (art. 31.º, n.os 5 a 7, CPI) — se se quiser afastar também o titular, estipulá-lo expressamente",
+        "motivo": "No direito português a licença exclusiva corresponde, por defeito, à «sole license»; a exclusão do próprio titular tem de ser estipulada.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0029&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Direito do licenciante: art. 258.º CPI (exclusivo de uso)",
+        "para": "- Direito do licenciante: art. 249.º CPI (direitos conferidos pelo registo) e art. 258.º CPI (o titular pode invocar a marca contra o licenciado que viole o contrato quanto ao prazo, à identidade da marca, aos produtos ou serviços, ao território ou à qualidade; o licenciado só pode instaurar ação por violação da marca com consentimento do titular, salvo o licenciado exclusivo, se o titular não agir no prazo, não superior a seis meses, após notificação)",
+        "motivo": "O art. 258.º CPI regula as licenças e a legitimidade do licenciado; o exclusivo conferido pelo registo está no art. 249.º.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0258&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Transmissibilidade e licença: arts. 31.º a 35.º CPI",
+        "para": "- Transmissibilidade e licença: arts. 30.º e 31.º CPI (regime geral — forma escrita, presunção de licença não exclusiva, sublicenças só com autorização escrita do titular se o contrato as não previr) e arts. 256.º a 258.º CPI (marcas)",
+        "motivo": "Os arts. 32.º a 35.º CPI tratam da nulidade e da anulação; a transmissão e as licenças estão nos arts. 30.º e 31.º e, para as marcas, nos arts. 256.º a 258.º.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0029&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Obrigação de uso pelo licenciado (prevenir caducidade por não uso)",
+        "para": "- Obrigação de uso pelo licenciado (prevenir a caducidade por falta de uso sério durante cinco anos consecutivos — art. 268.º, n.º 1, CPI); o uso pelo licenciado com licença devidamente averbada conta como uso sério (art. 267.º, n.º 1, al. a), CPI); sem averbamento, é preciso provar o consentimento do titular para efeitos da manutenção do registo (al. c))",
+        "motivo": "O uso pelo licenciado só conta, sem mais, como uso sério com a licença averbada.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0267&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- Controlo de qualidade: requisito para manter o carácter distintivo da marca",
+        "para": "- Controlo de qualidade: não é imposto por lei, mas protege a marca — o registo caduca se a marca se tornar suscetível de induzir o público em erro, nomeadamente quanto à qualidade, no seguimento do uso feito com o consentimento do titular (art. 268.º, n.º 2, al. b), CPI), e o titular pode opor a marca ao licenciado que viole as cláusulas de qualidade (art. 258.º, n.º 1, CPI)",
+        "motivo": "O controlo de qualidade não é requisito legal do caráter distintivo; o risco legal é a caducidade por a marca se tornar enganosa.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0267&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "  (Regulamento (UE) 330/2022 — verificar limites de quota de mercado 30%)",
+        "para": "  (se a licença for acessória de um acordo vertical, Regulamento (UE) 2022/720, em vigor até 31 de maio de 2034: quotas de mercado do fornecedor e do comprador até 30 % — art. 3.º — e obrigações de não concorrência por mais de cinco anos excluídas da isenção — art. 5.º, n.º 1, al. a); fora desse caso, autoavaliação ao abrigo do art. 101.º TFUE)",
+        "motivo": "Diploma inexistente; o regulamento em vigor é o 2022/720 e só se aplica à licença acessória de um acordo vertical.",
+        "fonte": "https://publications.europa.eu/resource/celex/32022R0720"
+      },
+      {
+        "de": "- [ ] Controlo de qualidade estruturado (risco de degenerescência da marca)",
+        "para": "- [ ] Controlo de qualidade estruturado (risco de caducidade por a marca se tornar enganosa — art. 268.º, n.º 2, al. b), CPI)",
+        "motivo": "A degenerescência (marca transformada em designação usual) não é o risco que o controlo de qualidade previne.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0267&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      },
+      {
+        "de": "- [ ] Conformidade com direito da concorrência (Reg. 330/2022) verificada",
+        "para": "- [ ] Conformidade com o direito da concorrência verificada (art. 101.º TFUE; Regulamento (UE) 2022/720 se a licença for acessória de um acordo vertical)",
+        "motivo": "Diploma inexistente.",
+        "fonte": "https://publications.europa.eu/resource/celex/32022R0720"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "A licença de marca autónoma não está coberta por nenhum regulamento de isenção (o Regulamento (UE) 2026/877 só abrange marcas como disposição acessória de uma licença de tecnologia): avaliar caso a caso as cláusulas de exclusividade territorial e de não concorrência.",
+      "Prever no contrato quem requer e paga o averbamento da licença no INPI, de que dependem os efeitos em relação a terceiros e a prova do uso sério pelo licenciado.",
+      "Confirmar a competência do Tribunal da Propriedade Intelectual para os litígios do contrato ou optar por arbitragem."
+    ],
+    "fontes": [
+      "https://publications.europa.eu/resource/celex/32022R0720",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0029&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0249&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0258&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0267&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1705A0010&nid=1705&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://publications.europa.eu/resource/celex/32026R0877"
+    ]
+  },
+  {
+    "codigo": "PI-039",
+    "veredicto": "corrigida",
+    "resumo": "A análise concorrencial assentava no Regulamento (UE) n.º 316/2014, que vigorou até 30/4/2026 e foi substituído pelo Regulamento (UE) 2026/877 (em vigor desde 1/5/2026, com período transitório até 30/4/2027). Estavam também errados os limiares de quota (20 % agregados entre concorrentes, 30 % por parte entre não concorrentes), a descrição das restrições graves (a limitação da produção é grave entre concorrentes, não entre não concorrentes), o limite de «10 anos para know-how» (a isenção dura enquanto o saber-fazer se mantiver secreto) e a alternativa de notificação à AdC, que não existe desde o Regulamento (CE) n.º 1/2003. Corrigi estes pontos, a não impugnação e o grant-back, e acrescentei a forma escrita e o averbamento da licença no INPI.",
+    "descricao": "Elabora um contrato de licença de patente combinada com transferência de know-how e assistência técnica, ao abrigo dos artigos 29.º a 31.º e 101.º a 104.º do CPI (DL n.º 110/2018), do Regulamento (UE) 2026/877 (isenção por categoria para acordos de transferência de tecnologia — RECATT, que substituiu o Regulamento (UE) n.º 316/2014 desde 1 de maio de 2026) e do Código Civil.",
+    "descricao_en": "Prepares a patent licence agreement combined with the transfer of know-how and technical assistance, under Articles 29 to 31 and 101 to 104 of the CPI (Decree-Law No. 110/2018), Regulation (EU) 2026/877 (block exemption for technology transfer agreements — TTBER, RECATT, which replaced Regulation (EU) No 316/2014 from 1 May 2026) and the Civil Code.",
+    "substituicoes": [
+      {
+        "de": "— Cita os artigos reais do CPI (DL n.º 110/2018), do RECATT e do Código Civil.",
+        "para": "— Cita os artigos reais do CPI (DL n.º 110/2018), do RECATT — Regulamento (UE) 2026/877 da Comissão, de 16 de abril de 2026, em vigor de 1 de maio de 2026 a 30 de abril de 2038, que substituiu o Regulamento (UE) n.º 316/2014 — e do Código Civil.",
+        "motivo": "O Regulamento (UE) n.º 316/2014 vigorou até 30/4/2026; o RECATT em vigor é o Regulamento (UE) 2026/877.",
+        "fonte": "https://publications.europa.eu/resource/celex/32026R0877"
+      },
+      {
+        "de": "- Quotas de mercado das partes: licenciante ≤ 20% (acordo entre concorrentes) ou ≤ 30% (não concorrentes)\n- Restrições hardcore proibidas pelo art. 4.º RECATT: fixação de preços, limitação de output em acordos entre não concorrentes, alocação de mercados entre concorrentes\n- Restrições excluídas do benefício da isenção: art. 5.º RECATT (grant-back exclusivo, não impugnação)\n- Duração máxima do benefício da isenção: duração da patente ou 10 anos para know-how\n- Necessidade de auto-avaliação ou notificação à AdC",
+        "para": "- Quotas de mercado (art. 3.º RECATT): quota agregada das partes ≤ 20 % em qualquer mercado relevante, se forem concorrentes; quota de cada parte ≤ 30 %, se não forem\n- Restrições graves (art. 4.º RECATT — fazem perder a isenção ao acordo inteiro): entre concorrentes (n.º 1), restrição da capacidade de determinar os preços de venda a terceiros, limitação da produção (salvo a imposta ao licenciado num acordo não recíproco ou a um só licenciado num acordo recíproco), repartição de mercados ou de clientes (com as exceções da al. c)) e restrição da exploração da tecnologia própria do licenciado ou da investigação e desenvolvimento; entre não concorrentes (n.º 2), imposição de preço de venda fixo ou mínimo (são admitidos o preço máximo e o preço recomendado), restrição das vendas passivas (com as exceções da al. b)) e restrição das vendas a utilizadores finais por membros de um sistema de distribuição seletiva a nível retalhista\n- Restrições excluídas (art. 5.º RECATT — só a cláusula fica fora da isenção e exige apreciação individual): obrigação de o licenciado conceder licença exclusiva ou ceder ao licenciante os seus melhoramentos ou novas aplicações (n.º 1, al. a)); obrigação de não impugnar a validade dos direitos da outra parte, salvo a faculdade de resolver uma licença exclusiva se o licenciado impugnar (n.º 1, al. b)); entre não concorrentes, limitação da exploração da tecnologia própria do licenciado ou da investigação e desenvolvimento (n.º 2)\n- Duração do benefício da isenção (art. 2.º, n.º 2, RECATT): enquanto os direitos de tecnologia licenciados não se extinguirem, não chegarem ao termo nem forem declarados inválidos e, quanto ao saber-fazer, enquanto se mantiver secreto (se se tornar público por ação do licenciado, durante a vigência do acordo); não há limite fixo de 10 anos\n- Acordos já em vigor a 30 de abril de 2026 que cumpriam o Regulamento (UE) n.º 316/2014: mantêm a isenção até 30 de abril de 2027 (art. 10.º RECATT) — rever e adaptar até essa data\n- Autoavaliação pelas partes: não há notificação prévia dos acordos à Comissão nem à AdC (art. 1.º do Regulamento (CE) n.º 1/2003; art. 10.º, n.os 2 e 3, da Lei n.º 19/2012, que põe a prova das condições de justificação a cargo das empresas e estende aos acordos sem efeito no comércio entre Estados-Membros a isenção dos regulamentos da UE)",
+        "motivo": "Limiares, restrições graves, duração da isenção e notificação estavam errados ou eram do regime anterior; texto conforme os arts. 2.º a 5.º e 10.º do Regulamento (UE) 2026/877.",
+        "fonte": "https://publications.europa.eu/resource/celex/32026R0877"
+      },
+      {
+        "de": "- Cláusula de não impugnação (no-challenge): validade ao abrigo do art. 5.º RECATT",
+        "para": "- Cláusula de não impugnação (no-challenge): fica fora da isenção (art. 5.º, n.º 1, al. b), RECATT); numa licença exclusiva, admite-se a faculdade de o licenciante resolver o contrato se o licenciado impugnar a patente",
+        "motivo": "A não impugnação é restrição excluída; só a faculdade de resolução na licença exclusiva é isenta.",
+        "fonte": "https://publications.europa.eu/resource/celex/32026R0877"
+      },
+      {
+        "de": "- Grant-back: simétrico (licença recíproca) vs. assimétrico (cessão) — restrição excluída se exclusivo",
+        "para": "- Grant-back: licença de retorno não exclusiva (em regra abrangida pela isenção) vs. licença exclusiva ou cessão dos melhoramentos ao licenciante — restrição excluída (art. 5.º, n.º 1, al. a), RECATT)",
+        "motivo": "O critério do regulamento é a exclusividade ou a cessão dos melhoramentos, não a reciprocidade.",
+        "fonte": "https://publications.europa.eu/resource/celex/32026R0877"
+      },
+      {
+        "de": "- [ ] Cláusula de manutenção da patente com responsabilidade clara",
+        "para": "- [ ] Cláusula de manutenção da patente com responsabilidade clara\n- [ ] Contrato reduzido a escrito (art. 31.º, n.º 3, CPI) e licença averbada no INPI, sem o que não produz efeitos em relação a terceiros (art. 29.º, n.os 1, al. b), e 2, CPI)",
+        "motivo": "A licença está sujeita a forma escrita e só produz efeitos em relação a terceiros depois de averbada; a ficha não o referia.",
+        "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0029&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+      }
+    ],
+    "pontos_para_o_advogado": [
+      "Confirmar a referência das novas Orientações da Comissão sobre acordos de transferência de tecnologia que acompanham o Regulamento (UE) 2026/877.",
+      "Determinar se as partes são concorrentes no mercado da tecnologia ou do produto à data da celebração (art. 4.º, n.º 3, do Regulamento (UE) 2026/877) e calcular as quotas de mercado.",
+      "Em patente europeia validada em Portugal, confirmar também o registo da licença no INPI e, se for o caso, no Registo Europeu de Patentes."
+    ],
+    "fontes": [
+      "https://publications.europa.eu/resource/celex/32026R0877",
+      "https://publications.europa.eu/resource/celex/32003R0001",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1705A0010&nid=1705&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+      "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=2979A0029&nid=2979&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+    ]
+  }
+]

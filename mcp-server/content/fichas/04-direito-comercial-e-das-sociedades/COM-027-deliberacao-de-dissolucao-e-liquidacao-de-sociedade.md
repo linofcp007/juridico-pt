@@ -6,7 +6,7 @@ titulo_en: "Resolution on the Dissolution and Liquidation of a Company"
 descricao: "Elabora a deliberação de dissolução voluntária de sociedade, o processo de liquidação do ativo e do passivo, e os documentos necessários para o registo do encerramento e a partilha do remanescente pelos sócios, em conformidade com os artigos 141 a 163 do CSC."
 descricao_en: "Drafts the resolution for the voluntary dissolution of a company, the process of liquidating its assets and liabilities, and the documents required to register the closure and distribute the remaining assets among the members, in accordance with Articles 141 to 163 CSC."
 ambito: nacional
-estado_citacoes: "conferidas 2 · corrigidas 0 · por conferir 1"
+estado_citacoes: "conferidas 5 · corrigidas 0 · por conferir 13"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
@@ -14,7 +14,7 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 
 > **Âmbito:** nacional · **Área:** Direito Comercial e das Sociedades · **Código:** COM-027
 > **EN:** Resolution on the Dissolution and Liquidation of a Company. Drafts the resolution for the voluntary dissolution of a company, the process of liquidating its assets and liabilities, and the documents required to register the closure and distribute the remaining assets among the members, in accordance with Articles 141 to 163 CSC.
-> **Citações:** conferidas 2 · corrigidas 0 · por conferir 1. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 5 · corrigidas 0 · por conferir 13. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
 
 Elabora a deliberação de dissolução voluntária de sociedade, o processo de liquidação do ativo e do passivo, e os documentos necessários para o registo do encerramento e a partilha do remanescente pelos sócios, em conformidade com os artigos 141 a 163 do CSC.
 
@@ -73,7 +73,7 @@ Redija os documentos completos:
 
 **PONTO 1 — DELIBERAÇÃO DE DISSOLUÇÃO VOLUNTÁRIA**
 
-Os sócios/accionistas, nos termos do art. 141.º, n.º 1, alínea a) do CSC (deliberação dos sócios), deliberaram proceder à dissolução voluntária da sociedade [Firma], [Lda./S.A.], NIPC [número], por [motivo: ex. — cessação da atividade, realização do objeto, acordo dos sócios].
+Os sócios/acionistas, nos termos do art. 141.º, n.º 1, alínea a) do CSC (deliberação dos sócios), deliberaram proceder à dissolução voluntária da sociedade [Firma], [Lda./S.A.], NIPC [número], por [motivo: ex. — cessação da atividade, realização do objeto, acordo dos sócios].
 
 Verificado que o ativo líquido da sociedade [é suficiente para cobrir todo o passivo / [■ VERIFICAR: avaliação patrimonial com contabilista]], a dissolução não configura situação de insolvência.
 
@@ -107,7 +107,7 @@ O liquidatário de [Firma], [Lda./S.A.], NIPC [número], vem apresentar o relat�
 
 **Remanescente disponível para partilha:** €[ativos − passivos]
 
-**Partilha pelos sócios/accionistas (art. 154 CSC):**
+**Partilha pelos sócios/acionistas (art. 154 CSC):**
 - [Sócio A] ([X]%): €[valor]
 - [Sócio B] ([X]%): €[valor]
 
@@ -164,6 +164,21 @@ Apresente em <checklist_validacao>:
 
 | Citação | Estado | Nota |
 |---|---|---|
+| art. 141 CSC | por conferir [■ VERIFICAR] | o assunto descrito não coincide com a epígrafe; confirmar |
+| art. 141 CSC | por conferir [■ VERIFICAR] | o assunto descrito não coincide com a epígrafe; confirmar |
+| art. 18 CIRE | conferida (epígrafe) — Dever de apresentação à insolvência |  |
+| Art. 141 CSC | por conferir [■ VERIFICAR] | o assunto descrito não coincide com a epígrafe; confirmar |
+| Art. 142 CSC | conferida (epígrafe) — Causas de dissolução administrativa ou por deliberação dos sócios |  |
+| Art. 146 CSC | por conferir [■ VERIFICAR] | o assunto descrito não coincide com a epígrafe; confirmar |
+| Art. 148 CSC | por conferir [■ VERIFICAR] | o assunto descrito não coincide com a epígrafe; confirmar |
+| Art. 153 CSC | por conferir [■ VERIFICAR] | o assunto descrito não coincide com a epígrafe; confirmar |
+| Art. 154 CSC | por conferir [■ VERIFICAR] | o assunto descrito não coincide com a epígrafe; confirmar |
+| Art. 160 CSC | por conferir [■ VERIFICAR] | o assunto descrito não coincide com a epígrafe; confirmar |
+| Art. 18 CIRE | conferida (epígrafe) — Dever de apresentação à insolvência |  |
 | art. 141.º, n.º 1, alínea a) do CSC | conferida (epígrafe) — Casos de dissolução imediata |  |
 | art. 142.º CSC | por conferir [■ VERIFICAR] | o art. 142.º CSC trata das causas de dissolução; a entrada em liquidação consta do art. 146.º CSC |
+| art. 154 CSC | por conferir [■ VERIFICAR] | o assunto descrito não coincide com a epígrafe; confirmar |
+| art. 154 CSC | por conferir [■ VERIFICAR] | o assunto descrito não coincide com a epígrafe; confirmar |
 | art. 160.º do CSC | conferida (epígrafe) — Registo comercial |  |
+| art. 153 CSC | por conferir [■ VERIFICAR] | o assunto descrito não coincide com a epígrafe; confirmar |
+| art. 160 CSC | por conferir [■ VERIFICAR] | o assunto descrito não coincide com a epígrafe; confirmar |

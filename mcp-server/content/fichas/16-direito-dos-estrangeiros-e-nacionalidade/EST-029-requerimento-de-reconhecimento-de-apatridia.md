@@ -6,7 +6,8 @@ titulo_en: "Application for Recognition of Statelessness"
 descricao: "Gera um requerimento de reconhecimento do estatuto de apátrida em Portugal, fundamentado na Convenção de Nova Iorque de 1954 sobre o Estatuto dos Apátridas, na Convenção de 1961 sobre a Redução dos Casos de Apatridia e na legislação portuguesa aplicável, demonstrando que o requerente não é considerado nacional por nenhum Estado ao abrigo da sua lei, e solicitando o reconhecimento e os direitos dele decorrentes."
 descricao_en: "Generates an application for recognition of stateless status in Portugal, grounded in the 1954 New York Convention relating to the Status of Stateless Persons, the 1961 Convention on the Reduction of Statelessness and the applicable Portuguese legislation, demonstrating that the applicant is not considered a national by any State under the operation of its law, and requesting recognition and the resulting rights."
 ambito: nacional
-estado_citacoes: "conferidas 0 · corrigidas 0 · por conferir 9"
+estado_citacoes: "conferidas 0 · corrigidas 0 · por conferir 44"
+revisao_tecnica: "2026-10-30 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
@@ -14,7 +15,8 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 
 > **Âmbito:** nacional · **Área:** Direito dos Estrangeiros e Nacionalidade · **Código:** EST-029
 > **EN:** Application for Recognition of Statelessness. Generates an application for recognition of stateless status in Portugal, grounded in the 1954 New York Convention relating to the Status of Stateless Persons, the 1961 Convention on the Reduction of Statelessness and the applicable Portuguese legislation, demonstrating that the applicant is not considered a national by any State under the operation of its law, and requesting recognition and the resulting rights.
-> **Citações:** conferidas 0 · corrigidas 0 · por conferir 9. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 0 · corrigidas 0 · por conferir 44. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-30 — corrigida (9 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
 Gera um requerimento de reconhecimento do estatuto de apátrida em Portugal, fundamentado na Convenção de Nova Iorque de 1954 sobre o Estatuto dos Apátridas, na Convenção de 1961 sobre a Redução dos Casos de Apatridia e na legislação portuguesa aplicável, demonstrando que o requerente não é considerado nacional por nenhum Estado ao abrigo da sua lei, e solicitando o reconhecimento e os direitos dele decorrentes.
 
@@ -25,7 +27,7 @@ Ficha de trabalho para preparar este documento. As regras da casa prevalecem sob
 ## Regras obrigatórias
 - NUNCA inventes procedimentos ou normas inexistentes
 - Se faltarem dados, assinala [■ VERIFICAR: o que é necessário]
-- Cita as normas reais: Convenção de 1954 (ratificada por Portugal), Convenção de 1961, e legislação interna aplicável [■ VERIFICAR: diploma interno que regula o procedimento de determinação da apatridia em Portugal]
+- Cita as normas reais: Convenção de 1954 (ratificada por Portugal), Convenção de 1961, e legislação interna aplicável: Lei n.º 41/2023, de 10 de agosto (consagra o estatuto de apátrida), e Lei n.º 47/2026, de 17 de agosto (procedimento de reconhecimento do estatuto de apátrida, em vigor desde 1 de setembro de 2026)
 - Usa português europeu rigoroso — sem brasileirismos
 - Distingue apatridia de jure (inexistência de nacionalidade por lei) de apatridia de facto (impossibilidade prática de exercer direitos de nacional)
 - Aborda sempre os documentos de viagem e os direitos conferidos pela Convenção de 1954
@@ -50,11 +52,12 @@ Apresente dentro de um bloco <fundamentos_juridicos>:
 - Art. 1.º da Convenção de 1954 — definição de apátrida ("pessoa que não é considerada nacional de nenhum Estado ao abrigo da sua lei")
 - Distinção entre apatridia de jure e apatridia de facto — apenas a de jure confere direito ao estatuto
 - Convenção de 1961 sobre a Redução dos Casos de Apatridia — mecanismos de prevenção e resolução
-- Direitos conferidos pela Convenção de 1954: documento de viagem (art. 28.º), direito de residência, acesso ao mercado de trabalho, proteção do princípio de non-refoulement (art. 31.º)
-- Lei portuguesa de estrangeiros (Lei n.º 23/2007) — artigos aplicáveis à situação de apátrida [■ VERIFICAR: tratamento específico na lei interna]
-- Lei da Nacionalidade (Lei n.º 37/81) — eventual via de aquisição da nacionalidade portuguesa após reconhecimento da apatridia
-- Procedimento de determinação da apatridia em Portugal [■ VERIFICAR: procedimento formal e entidade competente — AIMA ou MNE]
-- Articulação com proteção internacional se existir risco de perseguição (Lei n.º 27/2008)
+- Direitos conferidos pela Convenção de 1954: documento de viagem (art. 28.º), acesso ao trabalho por conta de outrem e por conta própria e às profissões liberais (arts. 17.º a 19.º), proteção contra a expulsão do apátrida em situação regular, salvo por razões de segurança nacional ou de ordem pública (art. 31.º), e facilitação da naturalização (art. 32.º). A Convenção não contém uma proibição de non-refoulement equivalente ao art. 33.º da Convenção de Genebra; contra o regresso a país de risco invocam-se o art. 3.º da CEDH e o art. 143.º da Lei n.º 23/2007
+- Direitos em Portugal após o reconhecimento: autorização de residência temporária válida por dois anos, renovável por iguais períodos, e título de viagem para apátridas (art. 17.º, n.º 1, da Lei n.º 47/2026; art. 25.º-A da Lei n.º 23/2007); direitos e deveres dos cidadãos portugueses, salvo os direitos políticos e os reservados por lei (art. 17.º, n.º 3, da Lei n.º 47/2026)
+- Lei portuguesa de estrangeiros (Lei n.º 23/2007) — definição de apátrida (art. 3.º, n.º 1, al. xx)) e título de viagem para apátridas que residam legalmente em Portugal (art. 25.º-A)
+- Lei da Nacionalidade (Lei n.º 37/81) — naturalização dos apátridas que residam legalmente em Portugal há pelo menos quatro anos e satisfaçam os requisitos das alíneas c) a h) do n.º 1 (art. 6.º, n.º 3, na redação da Lei Orgânica n.º 1/2026), em procedimento gratuito (art. 6.º, n.º 12)
+- Procedimento de reconhecimento do estatuto de apátrida (Lei n.º 47/2026): competência da AIMA, I. P. (art. 3.º); pedido escrito ou oral, na sede ou em qualquer delegação (art. 4.º); elementos do pedido (art. 5.º); entrevista, diligências junto dos países com conexão relevante e presunção de não nacionalidade se, em três meses, não houver informação (arts. 6.º e 7.º); autorização de residência provisória de seis meses, renovável até à decisão final, e demais direitos durante o procedimento (art. 9.º); suspensão dos processos por entrada ou permanência ilegais (art. 10.º); prazo de seis meses, prorrogável até nove (art. 11.º); audiência prévia em 10 dias (art. 12.º); decisão do membro do Governo responsável pelas migrações, delegável no conselho diretivo da AIMA, I. P. (art. 13.º); impugnação judicial em 15 dias, com efeito suspensivo (art. 14.º); procedimento gratuito e urgente (art. 15.º)
+- Articulação com proteção internacional se existir risco de perseguição (Lei n.º 27/2008): tramitação simultânea ou suspensão do procedimento de apatridia até à decisão sobre o asilo (art. 16.º da Lei n.º 47/2026)
 
 ### ETAPA 3 — CONSTRUÇÃO ARGUMENTATIVA
 Apresente dentro de um bloco <estrategia>:
@@ -62,16 +65,16 @@ Apresente dentro de um bloco <estrategia>:
 - Documentação a obter de cada Estado relevante (declarações de inexistência de nacionalidade, respostas a pedidos de reconhecimento)
 - Papel do ACNUR/UNHCR no processo — eventual apoio e carta de apoio
 - Articulação com pedido de proteção internacional se aplicável
-- Documentação de viagem provisória a solicitar durante o processo
+- Autorização de residência provisória a pedir com a abertura do procedimento (art. 9.º, n.º 1, al. a), da Lei n.º 47/2026); o título de viagem para apátridas pressupõe o reconhecimento do estatuto (art. 17.º, n.º 1, da Lei n.º 47/2026; art. 25.º-A da Lei n.º 23/2007)
 
 ### ETAPA 4 — EXPOSIÇÃO ESTRUTURADA
 Redige o requerimento na seguinte estrutura:
 
-**AGÊNCIA PARA A INTEGRAÇÃO, MIGRAÇÕES E ASILO (AIMA)**
-[ou entidade competente — VERIFICAR]
+**AGÊNCIA PARA A INTEGRAÇÃO, MIGRAÇÕES E ASILO, I. P. (AIMA, I. P.)**
+[sede ou delegação — art. 4.º, n.º 3, da Lei n.º 47/2026]
 
 **REQUERIMENTO DE RECONHECIMENTO DO ESTATUTO DE APÁTRIDA**
-**Ao abrigo da Convenção de Nova Iorque de 28 de setembro de 1954 sobre o Estatuto dos Apátridas**
+**Ao abrigo da Lei n.º 47/2026, de 17 de agosto, e da Convenção Relativa ao Estatuto dos Apátridas, adotada em Nova Iorque em 28 de setembro de 1954**
 
 [NOME COMPLETO], [sem nacionalidade reconhecida / antigo nacional de (Estado)], [estado civil], nascido/a em [data] em [local], atualmente residente em [morada em Portugal], vem requerer o reconhecimento do seu ESTATUTO DE APÁTRIDA, pelos seguintes fundamentos:
 
@@ -88,13 +91,13 @@ Redige o requerimento na seguinte estrutura:
 [Pedidos já efetuados; respostas recebidas; ausência de resposta — documentação junta]
 
 **V. DOS DIREITOS DECORRENTES DO RECONHECIMENTO**
-[Documento de viagem (art. 28.º da Convenção de 1954); direito de residência; acesso ao mercado de trabalho; proteção de non-refoulement (art. 31.º)]
+[Autorização de residência temporária por dois anos, renovável, e título de viagem para apátridas (art. 17.º, n.º 1, da Lei n.º 47/2026; art. 28.º da Convenção de 1954); direitos e deveres dos cidadãos portugueses, salvo os reservados (art. 17.º, n.º 3, da Lei n.º 47/2026); acesso ao trabalho; proteção contra a expulsão (art. 31.º da Convenção)]
 
 **VI. DOS DOCUMENTOS JUNTOS**
 [Lista numerada]
 
 **VII. DO PEDIDO**
-Requer-se o reconhecimento do estatuto de apátrida ao abrigo do art. 1.º da Convenção de 1954 e, consequentemente, a emissão de documento de viagem ao abrigo do art. 28.º da Convenção, bem como o reconhecimento de todos os direitos nela previstos.
+Requer-se a abertura do procedimento, com a emissão imediata de autorização de residência provisória (art. 9.º, n.º 1, al. a), da Lei n.º 47/2026), e, a final, o reconhecimento do estatuto de apátrida ao abrigo do art. 2.º da Lei n.º 47/2026 e do art. 1.º da Convenção de 1954 e, consequentemente, a concessão de autorização de residência temporária e a emissão de título de viagem para apátridas (art. 17.º, n.º 1, da Lei n.º 47/2026; art. 28.º da Convenção), bem como o reconhecimento de todos os direitos previstos na lei e na Convenção.
 
 [Local e data]
 [Nome do advogado — Cédula OA n.º]
@@ -118,8 +121,8 @@ Apresente dentro de um bloco <checklist_validacao>:
 - [ ] Art. 1.º da Convenção de 1954 verificado ponto a ponto
 - [ ] Articulação com proteção internacional avaliada (risco de perseguição?)
 - [ ] ACNUR/UNHCR contactado ou a contactar
-- [ ] Procedimento formal em Portugal identificado [■ VERIFICAR]
-- [ ] Documentação de viagem provisória considerada
+- [ ] Pedido apresentado na AIMA, I. P., ao abrigo da Lei n.º 47/2026, com documento comprovativo (art. 4.º, n.º 2)
+- [ ] Autorização de residência provisória pedida (art. 9.º, n.º 1, al. a), da Lei n.º 47/2026)
 - [ ] Itens [■ VERIFICAR] sinalizados
 - [ ] Pontos que exigem atenção especial: [liste]
 
@@ -166,7 +169,42 @@ Apresente dentro de um bloco <checklist_validacao>:
 | art. 28.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 28.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 28.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| arts. 17.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 31.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 31.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 32.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 33.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 3.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 3.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 3.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 143.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 17.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 17.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 17.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 17.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 17.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 17.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 25.º-A | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 25.º-A | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 25.º-A | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 6.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 6.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 4.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 4.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 4.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 5.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| arts. 6.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 9.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 9.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 9.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 9.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 10.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 11.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 12.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 13.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 14.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 15.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 16.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 1.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 1.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 2.º | por conferir [■ VERIFICAR] | diploma não identificado |

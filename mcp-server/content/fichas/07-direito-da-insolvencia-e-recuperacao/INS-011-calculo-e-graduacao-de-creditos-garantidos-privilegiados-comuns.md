@@ -55,7 +55,7 @@ Apresenta dentro de um bloco <fundamentos_juridicos>:
    - Pagos com o produto dos bens objeto da garantia
    - Hipoteca: arts. 686.º e ss. Código Civil — ordem pelo registo
    - Penhor: art. 669.º Código Civil
-   - Direito de retenção: art. 754.º Código Civil — preferência sobre hipoteca (art. 759.º CC)
+   - Direito de retenção: art. 754.º Código Civil — prevalece sobre a hipoteca registada antes só quando o crédito respeite a despesas para conservar ou aumentar o valor da coisa (art. 759.º, n.ºs 1 e 2, CC, na redação do DL 48/2024; as retenções constituídas antes seguem a redação anterior)
    - Privilégios creditórios especiais (são créditos garantidos — art. 47.º, n.º 4, al. a), CIRE), incluindo o privilégio imobiliário especial dos trabalhadores sobre o imóvel do empregador no qual prestam a atividade (art. 333.º, n.º 1, al. b), CT); os privilégios imobiliários especiais preferem à hipoteca e ao direito de retenção, ainda que anteriores (art. 751.º CC)
    - O crédito só é garantido até ao valor do bem onerado; o saldo é incluído nos créditos comuns (arts. 47.º, n.º 4, al. a), e 174.º, n.º 1, CIRE)
 
@@ -192,7 +192,7 @@ Apresenta dentro de um bloco <checklist_validacao>:
 | arts. 686.º e ss. Código Civil | conferida (epígrafe) — Noção |  |
 | art. 669.º Código Civil | conferida (epígrafe) — Constituição do penhor |  |
 | art. 754.º Código Civil | conferida (epígrafe) — Quando existe |  |
-| art. 759.º CC | conferida (epígrafe) — Retenção de coisas imóveis |  |
+| art. 759.º, n.ºs 1 e 2, CC | conferida (epígrafe) — Retenção de coisas imóveis |  |
 | art. 47.º, n.º 4, al. a), CIRE | conferida (índice) |  |
 | art. 47.º, n.º 4, al. a), CIRE | conferida (índice) |  |
 | art. 333.º, n.º 1, al. b), CT | conferida (epígrafe) — Privilégios creditórios |  |

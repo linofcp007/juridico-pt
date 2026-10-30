@@ -6,7 +6,8 @@ titulo_en: "Data Protection Impact Assessment (DPIA / AIPD)"
 descricao: "Gera uma Avaliação de Impacto sobre a Proteção de Dados (AIPD/DPIA) completa conforme ao artigo 35.º do RGPD, incluindo a análise de necessidade, a descrição do tratamento, a avaliação de riscos para os direitos e liberdades dos titulares, e as medidas de mitigação."
 descricao_en: "Generates a complete Data Protection Impact Assessment (DPIA/AIPD) compliant with Article 35 of the GDPR, including the necessity analysis, the description of the processing, the assessment of risks to data subjects' rights and freedoms, and mitigation measures."
 ambito: nacional
-estado_citacoes: "conferidas 11 · corrigidas 0 · por conferir 15"
+estado_citacoes: "conferidas 15 · corrigidas 0 · por conferir 14"
+revisao_tecnica: "2026-10-30 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
@@ -14,7 +15,8 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 
 > **Âmbito:** nacional · **Área:** Proteção de Dados e Direito Digital · **Código:** DIG-007
 > **EN:** Data Protection Impact Assessment (DPIA / AIPD). Generates a complete Data Protection Impact Assessment (DPIA/AIPD) compliant with Article 35 of the GDPR, including the necessity analysis, the description of the processing, the assessment of risks to data subjects' rights and freedoms, and mitigation measures.
-> **Citações:** conferidas 11 · corrigidas 0 · por conferir 15. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 15 · corrigidas 0 · por conferir 14. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-30 — corrigida (6 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
 Gera uma Avaliação de Impacto sobre a Proteção de Dados (AIPD/DPIA) completa conforme ao artigo 35.º do RGPD, incluindo a análise de necessidade, a descrição do tratamento, a avaliação de riscos para os direitos e liberdades dos titulares, e as medidas de mitigação.
 
@@ -25,10 +27,10 @@ Ficha de trabalho para preparar este documento. As regras da casa prevalecem sob
 ## Regras obrigatórias
 — NUNCA inventes riscos ou medidas sem base nas informações fornecidas.
 — Se faltarem dados para avaliar um risco, marca [■ VERIFICAR: o que precisa].
-— A AIPD só é obrigatória se o tratamento for "suscetível de resultar num elevado risco" — avalia primeiro se é necessária.
+— A AIPD só é obrigatória se o tratamento for "suscetível de implicar um elevado risco para os direitos e liberdades das pessoas singulares" (art. 35.º, n.º 1, RGPD) — avalia primeiro se é necessária.
 — A metodologia de avaliação de risco deve ser reproduzível (critério: probabilidade × gravidade).
 — Medidas de mitigação devem ser concretas e mensuráveis, não genéricas.
-— Se o risco residual for alto após mitigação: recomendar consulta prévia à CNPD (art. 36.º RGPD).
+— Se o risco residual for alto após mitigação: a consulta prévia à CNPD é obrigatória antes de iniciar o tratamento (art. 36.º, n.º 1, RGPD).
 
 ---
 
@@ -37,24 +39,25 @@ Ficha de trabalho para preparar este documento. As regras da casa prevalecem sob
 ### ETAPA 1 — PROBLEMATIZAÇÃO (Necessidade de AIPD)
 Apresenta dentro de um bloco <analise_necessidade>:
 - O tratamento está na lista CNPD de tratamentos que requerem AIPD? [■ VERIFICAR: lista CNPD art. 35.º, n.º 4]
-- Aplica-se algum dos 9 critérios WP29 para identificar "elevado risco"?:
-  1. Avaliação/perfilagem sistemática
-  2. Decisão automatizada com efeitos jurídicos
-  3. Monitorização sistemática em larga escala
-  4. Dados sensíveis (art. 9.º/10.º) em larga escala
-  5. Dados de titulares vulneráveis (menores, doentes, idosos)
-  6. Tratamento inovador ou uso de novas tecnologias
-  7. Tratamentos que impedem titulares de exercer direitos/serviços
-  8. Transferência além-fronteiras com riscos adicionais
-  9. Combinação de conjuntos de dados além das expetativas razoáveis
-- A AIPD é obrigatória (2+ critérios) ou recomendada (1 critério)?
+- Aplica-se algum dos 9 critérios das Orientações WP248 rev.01 (WP29) para identificar "elevado risco"?:
+  1. Avaliação ou classificação, incluindo a definição de perfis e a previsão
+  2. Decisão automatizada com efeitos jurídicos ou efeitos similares significativos
+  3. Controlo sistemático dos titulares
+  4. Dados sensíveis ou de natureza muito pessoal (art. 9.º e art. 10.º RGPD)
+  5. Dados tratados em grande escala
+  6. Correspondência ou combinação de conjuntos de dados além das expetativas razoáveis do titular
+  7. Dados de titulares vulneráveis (menores, trabalhadores, doentes, idosos)
+  8. Utilização inovadora ou aplicação de novas soluções tecnológicas ou organizativas
+  9. Tratamentos que impedem os titulares de exercer um direito ou de utilizar um serviço ou um contrato
+- Em regra, 2 ou mais critérios indicam que a AIPD é necessária; um só critério pode bastar, consoante o caso. Se, apesar dos critérios, se concluir que não há elevado risco, justificar e documentar a decisão de não fazer a AIPD, com o parecer do EPD.
 
 ### ETAPA 2 — ANÁLISE JURÍDICA (Base Legal da AIPD)
 Apresenta dentro de um bloco <fundamentos_juridicos>:
 - Art. 35.º, n.º 1 RGPD: obrigação de AIPD em caso de elevado risco
 - Art. 35.º, n.º 3 RGPD: casos sempre obrigatórios (avaliação sistemática, dados especiais em larga escala, monitorização pública em larga escala)
 - Art. 35.º, n.º 7 RGPD: conteúdo mínimo da AIPD (descrição, necessidade, riscos, medidas)
-- Art. 35.º, n.º 9 RGPD: consulta do EPD
+- Art. 35.º, n.º 2 RGPD: parecer do EPD, quando tenha sido designado
+- Art. 35.º, n.º 9 RGPD: opinião dos titulares ou dos seus representantes, se for adequado
 - Art. 36.º RGPD: consulta prévia à CNPD se risco residual elevado
 - Orientações WP248 rev.01: metodologia de avaliação (probabilidade × gravidade)
 - Princípio da privacy by design e by default (art. 25.º RGPD)
@@ -143,7 +146,7 @@ Para cada risco com nível médio ou alto, descrever as medidas em três categor
 Após aplicação das medidas de mitigação, o risco residual é:
 [ ] Baixo — O tratamento pode prosseguir.
 [ ] Médio — O tratamento pode prosseguir com monitorização reforçada.
-[ ] Alto — Recomenda-se consulta prévia à CNPD nos termos do art. 36.º RGPD antes de iniciar o tratamento.
+[ ] Alto — É obrigatória a consulta prévia à CNPD nos termos do art. 36.º RGPD antes de iniciar o tratamento.
 
 **Aprovação:**
 Responsável pelo Tratamento: _____________________ [data]
@@ -158,7 +161,7 @@ Apresenta dentro de um bloco <checklist_validacao>:
 - [ ] Riscos identificados com probabilidade × gravidade (al. c))
 - [ ] Medidas de mitigação concretas por risco (al. d))
 - [ ] Risco residual calculado
-- [ ] Consulta prévia CNPD recomendada se risco residual alto (art. 36.º)
+- [ ] Consulta prévia à CNPD feita antes do início do tratamento, se o risco residual for alto (art. 36.º RGPD — obrigatória)
 - [ ] EPD consultado (art. 35.º, n.º 2 — se designado)
 - [ ] Privacy by design e by default considerados (art. 25.º)
 - [ ] Incorporação no ROPA prevista
@@ -194,9 +197,7 @@ Apresenta dentro de um bloco <checklist_validacao>:
 
 | Citação | Estado | Nota |
 |---|---|---|
-| art. 36.º RGPD | conferida (epígrafe) — Consulta prévia |  |
-| art. 36.º RGPD | conferida (epígrafe) — Consulta prévia |  |
-| art. 36.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 35.º, n.º 1, RGPD | conferida (epígrafe) — Avaliação de impacto sobre a proteção de dados |  |
 | art. 35.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 35.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 35.º | por conferir [■ VERIFICAR] | diploma não identificado |
@@ -204,12 +205,15 @@ Apresenta dentro de um bloco <checklist_validacao>:
 | art. 35.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 35.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 35.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 36.º, n.º 1, RGPD | conferida (epígrafe) — Consulta prévia |  |
 | art. 9.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 9.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 9.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 10.º RGPD | conferida (epígrafe) — Tratamento de dados pessoais relacionados com condenações penais e infrações |  |
 | Art. 35.º, n.º 1 RGPD | conferida (epígrafe) — Avaliação de impacto sobre a proteção de dados |  |
 | Art. 35.º, n.º 3 RGPD | conferida (epígrafe) — Avaliação de impacto sobre a proteção de dados |  |
 | Art. 35.º, n.º 7 RGPD | conferida (epígrafe) — Avaliação de impacto sobre a proteção de dados |  |
+| Art. 35.º, n.º 2 RGPD | conferida (epígrafe) — Avaliação de impacto sobre a proteção de dados |  |
 | Art. 35.º, n.º 9 RGPD | conferida (epígrafe) — Avaliação de impacto sobre a proteção de dados |  |
 | Art. 36.º RGPD | conferida (epígrafe) — Consulta prévia |  |
 | art. 25.º RGPD | conferida (epígrafe) — Proteção de dados desde a conceção e por defeito |  |
@@ -220,3 +224,5 @@ Apresenta dentro de um bloco <checklist_validacao>:
 | art. 6.º RGPD | conferida (índice) |  |
 | art. 5.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 28.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 36.º RGPD | conferida (epígrafe) — Consulta prévia |  |
+| art. 36.º RGPD | conferida (epígrafe) — Consulta prévia |  |

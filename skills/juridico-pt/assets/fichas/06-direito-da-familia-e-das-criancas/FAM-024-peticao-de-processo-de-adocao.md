@@ -30,7 +30,7 @@ Redigir petição de processo de adoção, nos termos dos arts. 1.978.º a 2002.
 — Marca [■ VERIFICAR: o que precisa de ser confirmado].
 — Distingue adoção plena (extingue vínculo com família biológica) de adoção restrita (mantém ligações) — [■ VERIFICAR se a adoção restrita ainda existe no regime vigente].
 — O processo de adoção tem fase pré-judicial (organismo de segurança social) e fase judicial — esta petição é para a fase judicial, após conclusão da fase administrativa.
-— Usa português europeu: "adoptantes", "adoptando", "vínculo adoptivo", "família biológica".
+— Usa português europeu: "adotantes", "adotando", "vínculo adotivo", "família biológica".
 
 ---
 
@@ -38,19 +38,19 @@ Redigir petição de processo de adoção, nos termos dos arts. 1.978.º a 2002.
 
 ### ETAPA 1 — PROBLEMATIZAÇÃO (Análise do Caso)
 Apresenta dentro de um bloco <analise_do_caso>:
-- Qual é a modalidade de adoção? (plena; restrita; adopção do filho do cônjuge)
-- Os adoptantes preenchem os requisitos de idoneidade? (art. 1.979.º CC — VERIFICAR)
-- A criança está em situação de adoptabilidade? (art. 1.978.º CC — VERIFICAR declaração)
+- Qual é a modalidade de adoção? (plena; restrita; adoção do filho do cônjuge)
+- Os adotantes preenchem os requisitos de idoneidade? (art. 1.979.º CC — VERIFICAR)
+- A criança está em situação de adotabilidade? (art. 1.978.º CC — VERIFICAR declaração)
 - Qual é o tempo de pré-adoção já decorrido?
 - A criança tem mais de 12 anos? (consentimento obrigatório)
 - Os pais biológicos consentiram ou o consentimento foi dispensado?
-- Qual é a situação atual da criança (vive com os adoptantes desde quando)?
+- Qual é a situação atual da criança (vive com os adotantes desde quando)?
 - Faltam documentos essenciais?
 
 ### ETAPA 2 — ANÁLISE JURÍDICA (Fundamentação)
 Apresenta dentro de um bloco <fundamentos_juridicos>:
-- Art. 1.978.º CC (condições da criança para a adoção — adoptabilidade)
-- Art. 1.979.º CC (requisitos dos adoptantes — idoneidade, idade, condições)
+- Art. 1.978.º CC (condições da criança para a adoção — adotabilidade)
+- Art. 1.979.º CC (requisitos dos adotantes — idoneidade, idade, condições)
 - Art. 1.981.º CC (consentimento dos pais biológicos ou dispensa)
 - Art. 1.984.º CC (efeitos da adoção plena)
 - Arts. 1.985.º a 1.990.º CC (nome, registo, alimentos na adoção)
@@ -70,10 +70,10 @@ Apresenta dentro de um bloco <estrategia>:
 Redige com esta estrutura:
 
 1. Endereçamento — Tribunal de Família e Menores
-2. Identificação dos requerentes (adoptantes)
-3. Identificação do adoptando (menor)
+2. Identificação dos requerentes (adotantes)
+3. Identificação do adotando (menor)
 4. I — DOS FACTOS — Situação do menor; período de pré-adoção; integração na família; laço afetivo; situação da família biológica
-5. II — DOS REQUISITOS LEGAIS — Verificação de cada requisito (adoptabilidade; idoneidade dos adoptantes; consentimento ou dispensa)
+5. II — DOS REQUISITOS LEGAIS — Verificação de cada requisito (adotabilidade; idoneidade dos adotantes; consentimento ou dispensa)
 6. III — DO SUPERIOR INTERESSE DA CRIANÇA — Como a adoção serve o desenvolvimento integral do menor
 7. IV — DO DIREITO — Arts. 1.978.º ss. CC; Lei n.º 143/2015
 8. V — DOS PEDIDOS:
@@ -85,8 +85,8 @@ Redige com esta estrutura:
 
 ### ETAPA 5 — FORMULAÇÃO FINAL (Validação)
 Apresenta dentro de um bloco <checklist_validacao>:
-- [ ] Declaração de adoptabilidade pela segurança social junta?
-- [ ] Requisitos dos adoptantes verificados (art. 1.979.º CC)?
+- [ ] Declaração de adotabilidade pela segurança social junta?
+- [ ] Requisitos dos adotantes verificados (art. 1.979.º CC)?
 - [ ] Período de pré-adoção completado?
 - [ ] Consentimento dos pais biológicos obtido ou dispensa fundamentada?
 - [ ] Audição do menor requerida (se +12 anos)?
@@ -97,19 +97,19 @@ Apresenta dentro de um bloco <checklist_validacao>:
 
 ## Dados a recolher (entrevista numa só mensagem)
 
-**ADOPTANTES:**
+**ADOTANTES:**
 - Nome A: [nome], NIF: [número], data de nascimento: [dd/mm/aaaa]
 - Nome B: [nome — se casal], NIF: [número], data de nascimento: [dd/mm/aaaa]
 - Casados/união de facto desde: [data]
 - Condições habitacionais e económicas: [resumo]
 - Relatório de idoneidade do organismo de segurança social: [data; resultado — VERIFICAR]
 
-**ADOPTANDO:**
+**ADOTANDO:**
 - Nome atual: [nome], data de nascimento: [dd/mm/aaaa]
-- Vive com os adoptantes desde: [dd/mm/aaaa]
+- Vive com os adotantes desde: [dd/mm/aaaa]
 - Nome pretendido após adoção: [nome completo pretendido]
 - Tem mais de 12 anos? [sim/não — se sim, consentimento necessário]
-- Declaração de adoptabilidade: [data; emitida por — VERIFICAR]
+- Declaração de adotabilidade: [data; emitida por — VERIFICAR]
 
 **PAIS BIOLÓGICOS:**
 - Nome(s): [nome(s)]

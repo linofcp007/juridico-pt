@@ -6,7 +6,8 @@ titulo_en: "Application for Voluntary Payment of a Fine with Reduction"
 descricao: "Gera o requerimento de pagamento voluntário da coima com benefício de redução, no âmbito de processo contraordenacional, aproveitando os mecanismos de desconto previstos no RGCO e nos regimes especiais setoriais que incentivam a regularização antecipada."
 descricao_en: "Generates the application for voluntary payment of a fine with the benefit of a reduction in administrative offence proceedings, taking advantage of the discount mechanisms provided for in the RGCO and in special sectoral regimes that encourage early settlement."
 ambito: nacional
-estado_citacoes: "conferidas 1 · corrigidas 0 · por conferir 0"
+estado_citacoes: "conferidas 7 · corrigidas 0 · por conferir 6"
+revisao_tecnica: "2026-10-30 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
@@ -14,7 +15,8 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 
 > **Âmbito:** nacional · **Área:** Direito Penal e Contraordenacional · **Código:** PEN-017
 > **EN:** Application for Voluntary Payment of a Fine with Reduction. Generates the application for voluntary payment of a fine with the benefit of a reduction in administrative offence proceedings, taking advantage of the discount mechanisms provided for in the RGCO and in special sectoral regimes that encourage early settlement.
-> **Citações:** conferidas 1 · corrigidas 0 · por conferir 0. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 7 · corrigidas 0 · por conferir 6. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-30 — corrigida (4 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
 Gera o requerimento de pagamento voluntário da coima com benefício de redução, no âmbito de processo contraordenacional, aproveitando os mecanismos de desconto previstos no RGCO e nos regimes especiais setoriais que incentivam a regularização antecipada.
 
@@ -25,12 +27,12 @@ Ficha de trabalho para preparar este documento. As regras da casa prevalecem sob
 ## Regras obrigatórias
 — NUNCA inventes valores de desconto ou normas sem verificação.
 — Marca [■ VERIFICAR: dado necessário] quando o regime de pagamento voluntário específico não for confirmado.
-— Regimes principais de pagamento voluntário com desconto:
-  1. Contraordenações rodoviárias: DL n.º 44/2005 — pagamento voluntário no prazo da notificação com redução de 50% (ou conforme portaria vigente — [■ VERIFICAR portaria atual]).
-  2. Contraordenações laborais: DL n.º 433/82 e Lei n.º 107/2009 — [■ VERIFICAR desconto aplicável].
-  3. Contraordenações fiscais: RGIT — [■ VERIFICAR regime especial e desconto].
-  4. RGCO geral: art. 50.º-A RGCO (se existir e vigente — [■ VERIFICAR]).
-— O pagamento voluntário não equivale a confissão dos factos para efeitos civis.
+— Regimes principais de pagamento voluntário (em regra, pagamento pelo mínimo da moldura, e não uma percentagem de desconto):
+  1. Contraordenações rodoviárias: art. 172.º do Código da Estrada — pagamento voluntário pelo mínimo, no prazo de 15 dias úteis a contar da notificação para o efeito, ou em qualquer altura do processo antes da decisão, então com as custas devidas; não há redução percentual. O pagamento determina o arquivamento, salvo se for aplicável sanção acessória (o processo prossegue restrito a ela) ou se for apresentada defesa (art. 172.º, n.º 4, do Código da Estrada).
+  2. Contraordenações laborais: art. 19.º da Lei n.º 107/2009 — só nas leves e graves e nas muito graves praticadas com negligência; a coima é liquidada pelo mínimo da contraordenação negligente (com o agravamento por reincidência), sem custas se for paga no prazo de 15 dias do n.º 1 dos arts. 17.º e 18.º da mesma lei, e com custas se for paga depois, mas antes da decisão; equivale a condenação e determina o arquivamento, salvo sanção acessória (art. 19.º, n.º 3, da Lei n.º 107/2009).
+  3. Contraordenações fiscais: redução a pedido do agente para 12,5 % do montante mínimo legal, se ainda não houver auto de notícia, participação, denúncia ou inspeção tributária, ou para 50 % até ao termo do prazo de audição prévia na inspeção, com pagamento e regularização da situação tributária nos prazos legais (art. 30.º RGIT); pagamento no prazo para a defesa: coima reduzida ao mínimo legal e custas a metade (art. 75.º RGIT); pagamento voluntário depois de fixada a coima: 75 % do montante fixado, nunca abaixo do mínimo, no prazo de 15 dias da notificação (art. 78.º RGIT).
+  4. RGCO geral: art. 50.º-A RGCO — só nas contraordenações cuja coima não exceda metade dos montantes máximos do art. 17.º, n.ºs 1 e 2, RGCO; pagamento em qualquer altura do processo, mas antes da decisão, pelo mínimo e com as custas devidas.
+— O pagamento voluntário não afasta as sanções acessórias (art. 50.º-A, n.º 2, RGCO; art. 78.º, n.º 3, RGIT) e, nas contraordenações laborais, equivale a condenação (art. 19.º, n.º 3, da Lei n.º 107/2009). Estes regimes não regulam o valor do pagamento como confissão para efeitos civis: a ressalva da secção IV é uma declaração da parte, sem efeito legal garantido [■ VERIFICAR: jurisprudência sobre o valor do pagamento voluntário fora do processo contraordenacional].
 
 ---
 
@@ -76,7 +78,7 @@ Redige a peça completa:
 O arguido foi notificado pela prática de contraordenação prevista no art. [X.º] do [diploma], com coima na moldura de € [mínimo] a € [máximo].
 
 **II. DO DIREITO AO PAGAMENTO VOLUNTÁRIO COM REDUÇÃO**
-Nos termos do art. [X.º] do [diploma — VERIFICAR], o arguido tem o direito a pagar a coima com redução de [X%] se o pagamento for efetuado no prazo de [X dias] a contar da notificação.
+Nos termos do art. [X.º] do [diploma — VERIFICAR], o arguido tem o direito a pagar a coima [pelo mínimo da moldura / reduzida a [X %] do mínimo legal ou do montante fixado, conforme o regime] se o pagamento for efetuado no prazo de [X dias] a contar da notificação.
 
 **III. DO CÁLCULO DA COIMA COM DESCONTO**
 — Mínimo da moldura: € [valor]
@@ -104,7 +106,7 @@ Apresenta em <checklist_validacao>:
 - [ ] Valor com desconto corretamente calculado
 - [ ] Comprovativo de pagamento junto ao requerimento
 - [ ] Ressalva de não-confissão incluída (se pretendido)
-- [ ] Pedido de arquivamento formulado
+- [ ] Pedido de arquivamento formulado, verificado se há sanção acessória aplicável (o pagamento não a afasta e o processo prossegue restrito a ela)
 - [ ] Itens [■ VERIFICAR] sinalizados (norma específica, prazo, dados de pagamento)
 
 ---
@@ -138,4 +140,16 @@ Apresenta em <checklist_validacao>:
 
 | Citação | Estado | Nota |
 |---|---|---|
+| art. 172.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 172.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 19.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 19.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 19.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| arts. 17.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 30.º RGIT | conferida (epígrafe) — Direito à redução das coimas |  |
+| art. 75.º RGIT | conferida (epígrafe) — Antecipação do pagamento da coima |  |
+| art. 78.º RGIT | conferida (epígrafe) — Pagamento voluntário |  |
 | art. 50.º-A RGCO | conferida (epígrafe) — Pagamento voluntário |  |
+| art. 17.º, n.ºs 1 e 2, RGCO | conferida (epígrafe) — Montante da coima |  |
+| art. 50.º-A, n.º 2, RGCO | conferida (epígrafe) — Pagamento voluntário |  |
+| art. 78.º, n.º 3, RGIT | conferida (epígrafe) — Pagamento voluntário |  |

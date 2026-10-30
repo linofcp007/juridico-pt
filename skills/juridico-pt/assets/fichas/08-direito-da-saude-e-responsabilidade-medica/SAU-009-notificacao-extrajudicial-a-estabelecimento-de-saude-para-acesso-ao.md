@@ -56,7 +56,7 @@ Apresenta dentro de um bloco <fundamentos_juridicos>:
 
 ### ETAPA 3 — CONSTRUÇÃO ARGUMENTATIVA
 Apresenta dentro de um bloco <estrategia>:
-- Tom a adoptar: formal, assertivo, não hostil num primeiro momento
+- Tom a adotar: formal, assertivo, não hostil num primeiro momento
 - Documentos a requerer: processo clínico completo, notas operatórias, registos de enfermagem, exames, relatórios, consentimentos assinados
 - Formato pretendido: cópia digital (PDF) ou papel; quem pode levantar
 - Consequências graduadas em caso de recusa: ERS → CNPD (e CADA, se for entidade pública) → tribunal

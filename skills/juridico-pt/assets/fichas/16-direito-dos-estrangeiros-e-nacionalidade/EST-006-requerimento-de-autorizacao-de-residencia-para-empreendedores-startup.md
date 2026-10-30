@@ -6,7 +6,8 @@ titulo_en: "Application for a Residence Permit for Entrepreneurs / Startups"
 descricao: "Gera um requerimento de autorização de residência para empreendedores e fundadores de startups, fundamentado no artigo 89.º da Lei n.º 23/2007 (atividade independente/empreendedora) e no regime especial Startup Portugal / Visto Tech, com identificação dos requisitos de inovação e potencial económico exigidos."
 descricao_en: "Generates an application for a residence permit for entrepreneurs and startup founders, grounded in Article 89 of Law No. 23/2007 (self-employed/entrepreneurial activity) and the special Startup Portugal / Tech Visa regime, identifying the required innovation and economic potential criteria."
 ambito: nacional
-estado_citacoes: "conferidas 0 · corrigidas 0 · por conferir 6"
+estado_citacoes: "conferidas 0 · corrigidas 0 · por conferir 11"
+revisao_tecnica: "2026-10-30 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
@@ -14,7 +15,8 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 
 > **Âmbito:** nacional · **Área:** Direito dos Estrangeiros e Nacionalidade · **Código:** EST-006
 > **EN:** Application for a Residence Permit for Entrepreneurs / Startups. Generates an application for a residence permit for entrepreneurs and startup founders, grounded in Article 89 of Law No. 23/2007 (self-employed/entrepreneurial activity) and the special Startup Portugal / Tech Visa regime, identifying the required innovation and economic potential criteria.
-> **Citações:** conferidas 0 · corrigidas 0 · por conferir 6. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 0 · corrigidas 0 · por conferir 11. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-30 — corrigida (4 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
 Gera um requerimento de autorização de residência para empreendedores e fundadores de startups, fundamentado no artigo 89.º da Lei n.º 23/2007 (atividade independente/empreendedora) e no regime especial Startup Portugal / Visto Tech, com identificação dos requisitos de inovação e potencial económico exigidos.
 
@@ -47,11 +49,11 @@ Apresente dentro de um bloco <analise_do_caso>:
 ### ETAPA 2 — ANÁLISE JURÍDICA (Fundamentação)
 Apresente dentro de um bloco <fundamentos_juridicos>:
 - Art. 89.º da Lei n.º 23/2007 — atividade independente e empreendedora
-- Regime especial para startups inovadoras [■ VERIFICAR: portaria e critérios em vigor]
+- Art. 89.º, n.º 4, da Lei n.º 23/2007 — projeto empreendedor, incluindo empresa de base inovadora, integrado em incubadora certificada nos termos de portaria, com dispensa do visto de residência (art. 77.º, n.º 1, alínea a)) [■ VERIFICAR: portaria e critérios em vigor]
 - Código do Trabalho — regime de criação de emprego
 - Código das Sociedades Comerciais (CSC) — constituição de sociedade por estrangeiro
 - IAPMEI / Startup Portugal — programa de pré-qualificação [■ VERIFICAR: procedimento atual]
-- Incentivos fiscais aplicáveis (NHR — Residente Não Habitual ou IFICI) [■ VERIFICAR: regime vigente]
+- Incentivos fiscais: o regime do residente não habitual foi revogado pela Lei n.º 82/2023 e só se mantém em regime transitório; para quem não tenha sido residente em Portugal nos cinco anos anteriores, o incentivo fiscal à investigação científica e inovação (IFICI, art. 58.º-A do EBF) abrange apenas as atividades elegíveis — p. ex., postos de trabalho e membros de órgãos sociais de startups certificadas (n.º 1, alínea f)) — e depende de inscrição (n.º 6) [■ VERIFICAR: elegibilidade concreta e prazo de inscrição]
 
 ### ETAPA 3 — CONSTRUÇÃO ARGUMENTATIVA
 Apresente dentro de um bloco <estrategia>:
@@ -102,12 +104,12 @@ Requer-se a concessão de autorização de residência para exercício de ativid
 - [ ] Passaporte válido e fotocópia integral
 - [ ] Carta / certificado de validação da entidade parceira (aceleradora, incubadora, IAPMEI)
 - [ ] Plano de negócios (executive summary e projeções financeiras a 3 anos)
-- [ ] Comprovativo de abertura de atividade nas Finanças (AT) ou constituição de sociedade (RCBE)
+- [ ] Comprovativo de constituição de sociedade (certidão do registo comercial), de declaração de início de atividade na AT e na Segurança Social ou de contrato de prestação de serviços para profissão liberal (art. 89.º, n.º 1, alínea a))
 - [ ] Prova de financiamento (extrato bancário, carta de compromisso de investidor, bolsa)
 - [ ] Comprovativo de meios de subsistência pessoais
 - [ ] Curriculum vitae detalhado com comprovativos de habilitações e experiência
 - [ ] Comprovativo de alojamento
-- [ ] Certificados de registo criminal (PT e país de origem, apostilados)
+- [ ] Certificado de registo criminal do país da nacionalidade ou do país onde resida há mais de um ano (apostilado), se a AIMA não o puder consultar; os antecedentes em Portugal são verificados por consulta ao sistema de informação do registo criminal (arts. 42.º-C e 42.º-D do Decreto Regulamentar n.º 84/2007)
 - [ ] NIF e inscrição na Segurança Social (trabalhador independente)
 - [ ] Fotografias tipo passe
 - [ ] Taxa de concessão [■ VERIFICAR: valor atual]
@@ -168,8 +170,13 @@ Apresente dentro de um bloco <checklist_validacao>:
 | Citação | Estado | Nota |
 |---|---|---|
 | art. 89.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 89.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | Art. 89.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | Art. 89.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| Art. 89.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 77.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 58.º-A | por conferir [■ VERIFICAR] | diploma não identificado |
 | artigo 89.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | artigo 89.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| arts. 42.º-C | por conferir [■ VERIFICAR] | diploma não identificado |
 | Artigo 89.º | por conferir [■ VERIFICAR] | diploma não identificado |

@@ -38,7 +38,7 @@ Ficha de trabalho para preparar este documento. As regras da casa prevalecem sob
 
 ### ETAPA 1 — PROBLEMATIZAÇÃO (Caracterização do Serviço)
 Apresenta dentro de um bloco <analise_servico>:
-- Que tipo de serviço é oferecido? (informativo, transaccional, SaaS, marketplace, rede social, streaming)
+- Que tipo de serviço é oferecido? (informativo, transacional, SaaS, marketplace, rede social, streaming)
 - Quem são os utilizadores? (consumidores, empresas, menores)
 - Existe conteúdo gerado por utilizadores (UGC)?
 - A plataforma é intermediária de serviços para efeitos do DSA?

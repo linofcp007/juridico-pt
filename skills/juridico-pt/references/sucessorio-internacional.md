@@ -7,7 +7,7 @@
 ## Legislação Base
 - **Regulamento (UE) 650/2012** (Regulamento das Sucessões / "Roma IV"): lei aplicável, competência, reconhecimento e Certificado Sucessório Europeu — aplica-se a sucessões abertas a partir de 17/08/2015
 - Código Civil: Livro V — Direito das Sucessões (Arts. 2024º-2334º) — cross-ref `references/herancas.md`
-- Convenção de Haia de 1961 sobre os conflitos de leis em matéria de forma das disposições testamentárias (validade formal de testamentos) — Portugal é parte
+- Convenção de Haia de 1961 sobre os conflitos de leis em matéria de forma das disposições testamentárias — Portugal assinou-a (1967) mas não a ratificou, pelo que **não é parte**; a validade formal dos testamentos rege-se pelo art. 27.º do Reg. 650/2012 (art. 75.º, n.º 1)
 - **Nota de âmbito:** Dinamarca e Irlanda **não** estão vinculadas ao Reg. 650/2012; o Reino Unido (pós-Brexit) é Estado terceiro
 
 ## Lei Aplicável à Sucessão
@@ -20,7 +20,7 @@
 ## Certificado Sucessório Europeu (CSE)
 - Instrumento uniforme (Arts. 62.º e ss.) que **prova a qualidade de herdeiro, legatário, executor testamentário ou administrador** em todos os Estados-Membros vinculados
 - **Não substitui** documentos internos (em Portugal continua a usar-se a habilitação de herdeiros para atos internos), mas circula e produz efeitos diretos noutro EM sem necessidade de reconhecimento
-- Emitido pela autoridade do **Estado competente** para a sucessão (em regra, o da última residência habitual); em Portugal, **notário** (ou conservatória, conforme o ato)
+- Emitido pela autoridade do **Estado competente** para a sucessão (em regra, o da última residência habitual); em Portugal, o **conservador** competente nos procedimentos simplificados de sucessão hereditária (Balcão das Heranças; arts. 210.º-A a 210.º-R do Código do Registo Civil), segundo a comunicação de Portugal no Portal e-Justice; os **cartórios notariais** também o emitem desde 19/8/2024 (Ordem dos Notários) — confirmar o serviço antes de pedir
 - Tem **validade limitada** (cópia autenticada válida ~6 meses, renovável); presume-se exato e legitima o seu titular perante bancos, registos e terceiros de boa-fé
 
 ## Competência e Reconhecimento de Decisões
@@ -42,7 +42,7 @@
 - Verificar mecanismos unilaterais de crédito de imposto no país estrangeiro
 
 ## Testamento Internacional e Validade Formal
-- **Validade formal (Convenção de Haia 1961 / Art. 27.º Reg. 650/2012)**: o testamento é formalmente válido se respeitar a lei do lugar onde foi feito, da nacionalidade, do domicílio ou da residência habitual do testador (favor testamenti)
+- **Validade formal (Art. 27.º Reg. 650/2012; Portugal não é parte na Convenção de Haia de 1961)**: o testamento é formalmente válido se respeitar a lei do lugar onde foi feito, da nacionalidade, do domicílio ou da residência habitual do testador (favor testamenti)
 - **Validade material e capacidade**: regidas pela lei sucessória aplicável
 - Recomendável testamento **com cláusula de professio juris expressa** quando há elementos de estraneidade
 

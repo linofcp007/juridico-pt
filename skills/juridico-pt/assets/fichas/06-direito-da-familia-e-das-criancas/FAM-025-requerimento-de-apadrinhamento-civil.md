@@ -56,7 +56,7 @@ Apresenta dentro de um bloco <fundamentos_juridicos>:
 
 ### ETAPA 3 — CONSTRUÇÃO ARGUMENTATIVA (Demonstração dos Requisitos)
 Apresenta dentro de um bloco <estrategia>:
-- Situação da criança que justifica o apadrinhamento (não adoptabilidade ou adoção impossível)
+- Situação da criança que justifica o apadrinhamento (não adotabilidade ou adoção impossível)
 - Idoneidade dos candidatos a padrinhos (relatório de avaliação, condições)
 - Ligação prévia com a criança (período de acolhimento, relação afetiva estabelecida)
 - Consentimento necessário e forma de obtê-lo
@@ -97,7 +97,7 @@ Apresenta dentro de um bloco <checklist_validacao>:
 **AFILHADO:**
 - Nome: [nome], data de nascimento: [dd/mm/aaaa]
 - Situação atual: [acolhimento familiar; acolhimento residencial; com família biológica insuficiente]
-- Motivo pelo qual não pode ser adoptado: [pais não consentem; outros vínculos; outro]
+- Motivo pelo qual não pode ser adotado: [pais não consentem; outros vínculos; outro]
 - Relação com os candidatos a padrinhos: [desde quando; como se conheceram]
 
 **PAIS BIOLÓGICOS:**

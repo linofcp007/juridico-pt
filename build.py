@@ -31,6 +31,10 @@ EXCLUDE_DIRS = {"__pycache__", ".git", ".idea", ".vscode", "dist", "node_modules
                 "mcp-server", "integrations"}
 EXCLUDE_FILES_SUFFIX = (".pyc", ".skill", ".zip")
 EXCLUDE_FILES_NAME = {".DS_Store", "Thumbs.db"}
+# Entradas do importador das fichas (mantidas à mão no repositório): as fichas geradas e o relatório
+# revisao-tecnica.md já levam o resultado, por isso não vão no .skill (que fica abaixo dos 10 MB).
+EXCLUDE_PATHS = {"assets/fichas/correcoes-conteudo.json", "assets/fichas/revisao-citacoes.json",
+                 "assets/fichas/traducoes-en.json"}
 
 
 MAX_DESCRIPTION = 1024
@@ -85,6 +89,8 @@ def should_include(path: Path, root: Path, out_path: Path) -> bool:
     if path.name in EXCLUDE_FILES_NAME:
         return False
     if path.suffix in EXCLUDE_FILES_SUFFIX:
+        return False
+    if path.relative_to(root).as_posix() in EXCLUDE_PATHS:
         return False
     return True
 

@@ -6,7 +6,8 @@ titulo_en: "Construction Contract (Empreitada)"
 descricao: "Gera um contrato de empreitada completo para obras de construção, remodelação, instalação ou outras obras determinadas, com cláusulas sobre objeto, prazo, preço global ou por medição, responsabilidade por defeitos, fiscalização, resolução e garantias — ao abrigo dos arts. 1207.º e seguintes do Código Civil português."
 descricao_en: "Generates a comprehensive construction contract (contrato de empreitada) for building, refurbishment, installation or other specified works, with clauses on subject matter, term, lump-sum or measured price, liability for defects, supervision, termination and guarantees — under Articles 1207 et seq. of the Portuguese Civil Code."
 ambito: nacional
-estado_citacoes: "conferidas 9 · corrigidas 1 · por conferir 1"
+estado_citacoes: "conferidas 13 · corrigidas 1 · por conferir 3"
+revisao_tecnica: "2026-10-30 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
@@ -14,7 +15,8 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 
 > **Âmbito:** nacional · **Área:** Direito Civil e dos Contratos · **Código:** CIV-003
 > **EN:** Construction Contract (Empreitada). Generates a comprehensive construction contract (contrato de empreitada) for building, refurbishment, installation or other specified works, with clauses on subject matter, term, lump-sum or measured price, liability for defects, supervision, termination and guarantees — under Articles 1207 et seq. of the Portuguese Civil Code.
-> **Citações:** conferidas 9 · corrigidas 1 · por conferir 1. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 13 · corrigidas 1 · por conferir 3. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-30 — corrigida (5 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
 Gera um contrato de empreitada completo para obras de construção, remodelação, instalação ou outras obras determinadas, com cláusulas sobre objeto, prazo, preço global ou por medição, responsabilidade por defeitos, fiscalização, resolução e garantias — ao abrigo dos arts. 1207.º e seguintes do Código Civil português.
 
@@ -49,10 +51,10 @@ Apresenta dentro de um bloco <analise_do_caso>:
 Apresenta dentro de um bloco <fundamentos_juridicos>:
 - Arts. 1207.º a 1230.º CC (regime geral da empreitada)
 - Art. 1208.º CC (obrigações do empreiteiro — execução conforme o plano e boas regras de arte)
-- Arts. 1218.º a 1221.º CC (direitos do dono da obra: verificação, receção, modificação)
+- Arts. 1218.º a 1221.º CC (verificação e aceitação da obra, casos de irresponsabilidade do empreiteiro, denúncia e eliminação dos defeitos); as alterações à obra regem-se pelos arts. 1214.º a 1217.º CC
 - Arts. 1222.º a 1226.º CC (responsabilidade por defeitos — prazo de denúncia e garantia)
-- Art. 1225.º CC (empreitada de edifícios — responsabilidade de 5 anos por defeitos de estrutura)
-- Art. 1229.º CC (resolução do contrato pelo dono da obra)
+- Art. 1225.º CC (imóveis destinados por natureza a longa duração — o empreiteiro responde se, no prazo de 5 anos a contar da entrega ou no prazo de garantia convencionado, a obra ruir total ou parcialmente ou apresentar defeitos por vício do solo ou da construção, modificação ou reparação, ou por erros na execução dos trabalhos; a denúncia deve ser feita no prazo de 1 ano e a indemnização pedida no ano seguinte à denúncia). Se o dono da obra for consumidor, pode aplicar-se também o DL n.º 84/2021 (art. 3.º, n.º 1, alínea b), e art. 23.º, n.º 1: 10 anos para faltas de conformidade relativas a elementos construtivos estruturais e 5 anos para as restantes)
+- Art. 1229.º CC (desistência do dono da obra a todo o tempo, ainda que iniciada a execução, com indemnização ao empreiteiro dos gastos, do trabalho e do proveito que poderia tirar da obra); a resolução por defeitos funda-se no art. 1222.º CC e a resolução por atraso no regime geral do incumprimento (arts. 801.º, n.º 2, e 808.º CC)
 - Art. 405.º CC (liberdade contratual — cláusulas específicas)
 - Código dos Contratos Públicos (DL n.º 18/2008) — se obra pública
 
@@ -102,13 +104,13 @@ Receção provisória: data, auto de vistoria, prazo de correção de defeitos m
 Receção definitiva: prazo (habitualmente 12 meses após provisória).
 
 **Cláusula 8.ª — Responsabilidade por Defeitos**
-Prazo de garantia pós-receção definitiva; art. 1225.º CC (5 anos para defeitos estruturais de edifício).
+Prazo de garantia pós-receção definitiva; art. 1225.º CC (imóveis destinados a longa duração: 5 anos a contar da entrega da obra, ou o prazo de garantia convencionado, por ruína ou defeitos devidos a vício do solo ou da construção, modificação ou reparação, ou a erros na execução dos trabalhos).
 
 **Cláusula 9.ª — Seguros**
 Acidentes de trabalho (obrigatório); seguro CAR (all risks de construção); responsabilidade civil.
 
 **Cláusula 10.ª — Resolução**
-Fundamentos: atraso imputável ao empreiteiro; defeitos graves; insolvência; abandono da obra.
+Fundamentos: atraso imputável ao empreiteiro; defeitos graves; abandono da obra; situações anteriores à declaração de insolvência (ex.: apresentação à insolvência). Não usar a própria declaração de insolvência como fundamento: é nula a cláusula que lhe atribua o valor de condição resolutiva ou confira à outra parte um direito de resolução em termos diversos dos previstos no CIRE (art. 119.º, n.os 2 e 3, CIRE).
 
 **Cláusula 11.ª — Lei Aplicável e Foro**
 Lei portuguesa; tribunal competente.
@@ -186,7 +188,13 @@ Apresenta dentro de um bloco <checklist_validacao>:
 | Arts. 1207.º a 1230.º CC | conferida (epígrafe) — Noção |  |
 | Art. 1208.º CC | corrigida — Execução da obra | o número citado no catálogo não correspondia à epígrafe |
 | Arts. 1218.º a 1221.º CC | conferida (epígrafe) — Verificação da obra |  |
+| arts. 1214.º a 1217.º CC | conferida (epígrafe) — Alterações da iniciativa do empreiteiro |  |
 | Arts. 1222.º a 1226.º CC | conferida (epígrafe) — Redução do preço e resolução do contrato |  |
 | Art. 1225.º CC | conferida (epígrafe) — Imóveis destinados a longa duração |  |
+| art. 3.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 23.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | Art. 1229.º CC | conferida (epígrafe) — Desistência do dono da obra |  |
+| art. 1222.º CC | conferida (epígrafe) — Redução do preço e resolução do contrato |  |
+| arts. 801.º, n.º 2, e 808.º CC | conferida (índice) |  |
 | Art. 405.º CC | conferida (índice) |  |
+| art. 119.º, n.os 2 e 3, CIRE | conferida (epígrafe) — Normas imperativas |  |

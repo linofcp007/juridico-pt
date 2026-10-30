@@ -6,7 +6,7 @@ titulo_en: "Action to Annul a Company Resolution"
 descricao: "Gera uma petição inicial para ação de anulação ou declaração de nulidade de deliberação dos sócios ou da assembleia geral, com fundamento nos arts. 55.º a 62.º do CSC, incluindo impugnação por vícios formais, violação da lei ou dos estatutos, ou abuso de maioria."
 descricao_en: "Generates a statement of claim for an action to annul, or to declare null and void, a resolution of the members or of the general meeting, on the grounds set out in Articles 55 to 62 CSC, including challenges for formal defects, breach of the law or of the articles of association, or abuse of majority."
 ambito: nacional
-estado_citacoes: "conferidas 30 · corrigidas 0 · por conferir 1"
+estado_citacoes: "conferidas 36 · corrigidas 0 · por conferir 5"
 revisao_tecnica: "2026-10-28 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
@@ -15,7 +15,7 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 
 > **Âmbito:** nacional · **Área:** Direito Comercial e das Sociedades · **Código:** COM-032
 > **EN:** Action to Annul a Company Resolution. Generates a statement of claim for an action to annul, or to declare null and void, a resolution of the members or of the general meeting, on the grounds set out in Articles 55 to 62 CSC, including challenges for formal defects, breach of the law or of the articles of association, or abuse of majority.
-> **Citações:** conferidas 30 · corrigidas 0 · por conferir 1. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 36 · corrigidas 0 · por conferir 5. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
 > **Revisão técnica:** 2026-10-28 — corrigida (17 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
 Gera uma petição inicial para ação de anulação ou declaração de nulidade de deliberação dos sócios ou da assembleia geral, com fundamento nos arts. 55.º a 62.º do CSC, incluindo impugnação por vícios formais, violação da lei ou dos estatutos, ou abuso de maioria.
@@ -187,6 +187,9 @@ Apresente em <checklist_validacao>:
 
 | Citação | Estado | Nota |
 |---|---|---|
+| art. 56 CSC | por conferir [■ VERIFICAR] | o assunto descrito não coincide com a epígrafe; confirmar |
+| art. 58 CSC | por conferir [■ VERIFICAR] | o assunto descrito não coincide com a epígrafe; confirmar |
+| art. 58 CSC | por conferir [■ VERIFICAR] | o assunto descrito não coincide com a epígrafe; confirmar |
 | art. 59.º, n.º 2, CSC | conferida (epígrafe) — Ação de anulação |  |
 | art. 59.º, n.º 2, CSC | conferida (epígrafe) — Ação de anulação |  |
 | art. 59.º | por conferir [■ VERIFICAR] | diploma não identificado |
@@ -198,6 +201,12 @@ Apresente em <checklist_validacao>:
 | art. 286.º CC | conferida (índice) |  |
 | art. 286.º CC | conferida (índice) |  |
 | art. 57.º CSC | conferida (epígrafe) — Iniciativa do órgão de fiscalização quanto a deliberações nulas |  |
+| art. 380 CPC | por conferir [■ VERIFICAR] | o assunto descrito não coincide com a epígrafe; confirmar |
+| Art. 56 CSC | conferida (epígrafe) — Deliberações nulas |  |
+| Art. 57 CSC | conferida (epígrafe) — Iniciativa do órgão de fiscalização quanto a deliberações nulas |  |
+| Art. 58 CSC | conferida (epígrafe) — Deliberações anuláveis |  |
+| Art. 59 CSC | conferida (epígrafe) — Ação de anulação |  |
+| Art. 60 CSC | conferida (epígrafe) — Disposições comuns às ações de nulidade e de anulação |  |
 | art. 61.º CSC | conferida (epígrafe) — Eficácia do caso julgado |  |
 | art. 289.º, n.º 1, CC | conferida (índice) |  |
 | art. 289.º, n.º 1, CC | conferida (índice) |  |
@@ -216,5 +225,6 @@ Apresente em <checklist_validacao>:
 | art. 59.º, n.º 2, do CSC | conferida (epígrafe) — Ação de anulação |  |
 | art. 289.º, n.º 1, do Código Civil | conferida (índice) |  |
 | art. 61.º, n.º 2, do CSC | conferida (epígrafe) — Eficácia do caso julgado |  |
+| art. 296 CPC | conferida (índice) |  |
 | art. 380.º do CPC | conferida (epígrafe) — Pressupostos e formalidades |  |
 | art. 364.º do CPC | conferida (epígrafe) — Relação entre o procedimento cautelar e a ação principal |  |

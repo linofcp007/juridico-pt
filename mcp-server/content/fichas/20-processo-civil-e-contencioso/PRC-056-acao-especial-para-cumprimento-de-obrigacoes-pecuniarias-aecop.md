@@ -48,7 +48,7 @@ Ficha de trabalho para preparar este documento. As regras da casa prevalecem sob
 - Decreto-Lei n.º 269/98, de 1 de setembro (regime AECOP e injunção)
 - Artigo 1.º, n.os 2 e 3, do regime anexo ao DL 269/98 (prazo da contestação; dispensa da forma articulada) e artigos 3.º e 4.º (termos posteriores e audiência; até três ou cinco testemunhas)
 - Artigos 12.º, n.º 1, 16.º e 17.º do regime anexo (oposição à injunção, distribuição e termos subsequentes) e artigo 10.º, n.º 2, do DL 62/2013 (transações comerciais)
-- Artigos 576.º e ss. CPC (exceções peremptórias e dilatórias)
+- Artigos 576.º e ss. CPC (exceções perentórias e dilatórias)
 - Artigos pertinentes do CC (prescrição, compensação, exceção de incumprimento, nulidade)
 </fundamentos_juridicos>
 
@@ -57,7 +57,7 @@ Ficha de trabalho para preparar este documento. As regras da casa prevalecem sob
 - Identificação do processo AECOP e do pedido do autor
 - Exceções dilatórias (se aplicável)
 - Impugnação dos factos essenciais
-- Exceções peremptórias (prescrição, compensação, incumprimento, nulidade)
+- Exceções perentórias (prescrição, compensação, incumprimento, nulidade)
 - Prova: na AECOP, as provas são oferecidas na audiência (art. 3.º, n.º 4, do regime anexo)
 </estrutura_articulado>
 
@@ -84,7 +84,7 @@ O Autor [nome] peticionou a condenação do Réu no pagamento de €[valor], com
 1.º É falso que o Réu tenha encomendado [mercadoria/serviço] na quantidade/extensão alegada pelo Autor; o pedido real foi de [X], conforme e-mail de [data] junto como Doc. 1.
 2.º [Outros factos impugnados com prova documental]
 
-**IV — EXCEÇÕES PEREMPTÓRIAS**
+**IV — EXCEÇÕES PERENTÓRIAS**
 
 *A) Exceção de incumprimento (art. 428.º CC)*
 O Autor não cumpriu a sua obrigação contratual de [X]: [factos concretos do incumprimento — Doc. [Y]]. Não havendo prazos diferentes para o cumprimento das prestações, o Réu pode recusar o pagamento do preço enquanto o Autor não efetuar a sua prestação ou não oferecer o seu cumprimento simultâneo (art. 428.º CC).
@@ -109,7 +109,7 @@ Data e assinatura.
 ### ETAPA 5 — CHECKLIST
 <checklist_validacao>
 - [ ] Prazo respeitado: 15 ou 20 dias após a citação, conforme o valor (art. 1.º, n.º 2, do regime anexo ao DL 269/98); na injunção, 15 dias após a notificação (art. 12.º, n.º 1)
-- [ ] Exceções classificadas corretamente (dilatórias / peremptórias)
+- [ ] Exceções classificadas corretamente (dilatórias / perentórias)
 - [ ] Cada exceção fundamentada com factos concretos e documentos
 - [ ] Compensação: declaração expressa formulada no articulado
 - [ ] Forma subsequente confirmada (AECOP ou, na injunção por transação comercial acima de metade da alçada da Relação, processo comum), sem pedido de «conversão»
@@ -138,7 +138,7 @@ Data e assinatura.
 **FUNDAMENTOS DE DEFESA:**
 - Exceções dilatórias: [listar]
 - Factos impugnados: [listar]
-- Exceções peremptórias: [prescrição / incumprimento / compensação / nulidade — descrever]
+- Exceções perentórias: [prescrição / incumprimento / compensação / nulidade — descrever]
 - Documentos de suporte: [listar]
 
 **OUTROS:**

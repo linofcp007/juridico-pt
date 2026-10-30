@@ -6,7 +6,7 @@ titulo_en: "Draft Terms of Merger (Projeto de Fusão)"
 descricao: "Elabora o projeto de fusão de sociedades (por incorporação ou por constituição de nova sociedade), com todos os elementos obrigatórios do artigo 98 do CSC, incluindo a relação de troca de participações, o balanço de fusão e o calendário do procedimento."
 descricao_en: "Drafts the draft terms of merger (projeto de fusão) of companies (by absorption or by formation of a new company), with all the mandatory elements of Article 98 CSC, including the share exchange ratio, the merger balance sheet and the procedural timetable."
 ambito: nacional
-estado_citacoes: "conferidas 11 · corrigidas 0 · por conferir 0"
+estado_citacoes: "conferidas 11 · corrigidas 0 · por conferir 24"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
@@ -14,7 +14,7 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 
 > **Âmbito:** nacional · **Área:** Direito Comercial e das Sociedades · **Código:** COM-024
 > **EN:** Draft Terms of Merger (Projeto de Fusão). Drafts the draft terms of merger (projeto de fusão) of companies (by absorption or by formation of a new company), with all the mandatory elements of Article 98 CSC, including the share exchange ratio, the merger balance sheet and the procedural timetable.
-> **Citações:** conferidas 11 · corrigidas 0 · por conferir 0. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 11 · corrigidas 0 · por conferir 24. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
 
 Elabora o projeto de fusão de sociedades (por incorporação ou por constituição de nova sociedade), com todos os elementos obrigatórios do artigo 98 do CSC, incluindo a relação de troca de participações, o balanço de fusão e o calendário do procedimento.
 
@@ -86,11 +86,11 @@ A fusão opera-se por incorporação da [Firma B] na [Firma A], nos termos do ar
 
 **3. RELAÇÃO DE TROCA** (art. 98.º, n.º 1, al. c) CSC)
 Com base na valorização das sociedades participantes [conforme relatório de avaliação elaborado por [ROC/avaliador] em [data] — Anexo I], a relação de troca é a seguinte:
-- Por cada quota/ação representativa de [X]% do capital da [Firma B], os seus sócios/accionistas recebem [N] quota(s)/ação(ões) da [Firma A], representando [Y]% do capital da sociedade resultante.
+- Por cada quota/ação representativa de [X]% do capital da [Firma B], os seus sócios/acionistas recebem [N] quota(s)/ação(ões) da [Firma A], representando [Y]% do capital da sociedade resultante.
 [Para fusão simplificada 100%: "Tratando-se de incorporação de subsidiária integralmente detida, não há relação de troca — as quotas/ações da incorporada são canceladas (art. 116.º CSC)"]
 
 **4. EVENTUAIS SALDOS DE COMPENSAÇÃO** (art. 98.º, n.º 1, al. d) CSC)
-[Montante em dinheiro a pagar a sócios por eventuais fraccionamentos na relação de troca — ou "não aplicável"]
+[Montante em dinheiro a pagar a sócios por eventuais fracionamentos na relação de troca — ou "não aplicável"]
 
 **5. DIREITOS ESPECIAIS E VANTAGENS** (art. 98.º, n.º 1, al. e) CSC)
 [Não há sócios com direitos especiais ou vantagens a atribuir — ou descrever se existirem]
@@ -131,10 +131,10 @@ Apresente em <checklist_validacao>:
 ## Dados a recolher (entrevista numa só mensagem)
 
 **SOCIEDADE INCORPORANTE:**
-- Firma, NIPC, sede, capital social, sócios/accionistas
+- Firma, NIPC, sede, capital social, sócios/acionistas
 
 **SOCIEDADE INCORPORADA:**
-- Firma, NIPC, sede, capital social, sócios/accionistas
+- Firma, NIPC, sede, capital social, sócios/acionistas
 
 **MODALIDADE:** [incorporação / nova sociedade / simplificada 100%]
 
@@ -153,6 +153,29 @@ Apresente em <checklist_validacao>:
 
 | Citação | Estado | Nota |
 |---|---|---|
+| Art. 98 CSC | por conferir [■ VERIFICAR] | o assunto descrito não coincide com a epígrafe; confirmar |
+| Art. 98 CSC | por conferir [■ VERIFICAR] | o assunto descrito não coincide com a epígrafe; confirmar |
+| art. 101-B CSC | por conferir [■ VERIFICAR] | o assunto descrito não coincide com a epígrafe; confirmar |
+| art. 101-B CSC | por conferir [■ VERIFICAR] | o assunto descrito não coincide com a epígrafe; confirmar |
+| art. 101-B CSC | por conferir [■ VERIFICAR] | o assunto descrito não coincide com a epígrafe; confirmar |
+| art. 97, n.º 2, al. a) CSC | por conferir [■ VERIFICAR] | o assunto descrito não coincide com a epígrafe; confirmar |
+| art. 97, n.º 2, al. b) CSC | por conferir [■ VERIFICAR] | o assunto descrito não coincide com a epígrafe; confirmar |
+| art. 116 CSC | por conferir [■ VERIFICAR] | o assunto descrito não coincide com a epígrafe; confirmar |
+| art. 285 CT | por conferir [■ VERIFICAR] | o assunto descrito não coincide com a epígrafe; confirmar |
+| art. 285 CT | por conferir [■ VERIFICAR] | o assunto descrito não coincide com a epígrafe; confirmar |
+| Art. 97 CSC | por conferir [■ VERIFICAR] | o assunto descrito não coincide com a epígrafe; confirmar |
+| Art. 99 CSC | por conferir [■ VERIFICAR] | o assunto descrito não coincide com a epígrafe; confirmar |
+| Art. 100 CSC | por conferir [■ VERIFICAR] | o assunto descrito não coincide com a epígrafe; confirmar |
+| Art. 101 CSC | por conferir [■ VERIFICAR] | o assunto descrito não coincide com a epígrafe; confirmar |
+| Art. 101-A CSC | por conferir [■ VERIFICAR] | o assunto descrito não coincide com a epígrafe; confirmar |
+| Art. 101-B CSC | por conferir [■ VERIFICAR] | o assunto descrito não coincide com a epígrafe; confirmar |
+| Art. 101-C CSC | por conferir [■ VERIFICAR] | o assunto descrito não coincide com a epígrafe; confirmar |
+| Art. 111 CSC | por conferir [■ VERIFICAR] | o assunto descrito não coincide com a epígrafe; confirmar |
+| Art. 285 CT | por conferir [■ VERIFICAR] | o assunto descrito não coincide com a epígrafe; confirmar |
+| art. 100 CSC | por conferir [■ VERIFICAR] | o assunto descrito não coincide com a epígrafe; confirmar |
+| art. 100 CSC | por conferir [■ VERIFICAR] | o assunto descrito não coincide com a epígrafe; confirmar |
+| art. 98 CSC | por conferir [■ VERIFICAR] | o assunto descrito não coincide com a epígrafe; confirmar |
+| art. 98 CSC | por conferir [■ VERIFICAR] | o assunto descrito não coincide com a epígrafe; confirmar |
 | artigo 98.º do Código das Sociedades Comerciais | conferida (epígrafe) — Projeto de fusão |  |
 | art. 98.º, n.º 1, al. a) CSC | conferida (epígrafe) — Projeto de fusão |  |
 | art. 97.º, n.º 2, alínea a) do CSC | conferida (epígrafe) — Noção – Modalidades |  |
@@ -164,3 +187,4 @@ Apresente em <checklist_validacao>:
 | art. 98.º, n.º 1, al. f) CSC | conferida (epígrafe) — Projeto de fusão |  |
 | art. 98.º, n.º 1, al. g) CSC | conferida (epígrafe) — Projeto de fusão |  |
 | art. 98.º, n.º 1, al. h) CSC | conferida (epígrafe) — Projeto de fusão |  |
+| art. 101 CSC | por conferir [■ VERIFICAR] | o assunto descrito não coincide com a epígrafe; confirmar |

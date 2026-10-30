@@ -125,14 +125,14 @@ Apresenta dentro de um bloco <checklist>:
 | art. 43.º CT | conferida (epígrafe) — Licença parental exclusiva do pai |  |
 | art. 51.º CT | conferida (epígrafe) — Licença parental complementar |  |
 | art. 51.º CT | por conferir [■ VERIFICAR] | o assunto descrito não coincide com a epígrafe; confirmar |
-| art. 44.º CT | conferida (epígrafe) — Licença por adopção |  |
+| art. 44.º CT | conferida (epígrafe) — Licença por adoção |  |
 | art. 44.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 52.º CT | conferida (epígrafe) — Licença para assistência a filho |  |
 | art. 52.º CT | conferida (epígrafe) — Licença para assistência a filho |  |
 | art. 40.º, n.º 10, CT | conferida (epígrafe) — Licença parental inicial |  |
 | art. 41.º, n.º 3, CT | conferida (epígrafe) — Períodos de licença parental exclusiva da mãe |  |
 | art. 43.º, n.º 5, CT | conferida (epígrafe) — Licença parental exclusiva do pai |  |
-| art. 44.º, n.os 7, 12 e 13, CT | conferida (epígrafe) — Licença por adopção |  |
+| art. 44.º, n.os 7, 12 e 13, CT | conferida (epígrafe) — Licença por adoção |  |
 | arts. 51.º, n.º 5, e 52.º, n.º 6, CT | conferida (epígrafe) — Licença parental complementar |  |
 | art. 40.º, n.º 3, CT | conferida (epígrafe) — Licença parental inicial |  |
 | art. 40.º, n.º 3, CT | conferida (epígrafe) — Licença parental inicial |  |
@@ -140,7 +140,7 @@ Apresenta dentro de um bloco <checklist>:
 | art. 63.º CT | conferida (índice) |  |
 | art. 40.º, n.º 1, CT | conferida (epígrafe) — Licença parental inicial |  |
 | art. 43.º, n.os 1 e 2, CT | conferida (epígrafe) — Licença parental exclusiva do pai |  |
-| art. 44.º, n.º 1, CT | conferida (epígrafe) — Licença por adopção |  |
+| art. 44.º, n.º 1, CT | conferida (epígrafe) — Licença por adoção |  |
 | art. 49.º CT | conferida (epígrafe) — Falta para assistência a filho |  |
 | art. 53.º CT | conferida (epígrafe) — Licença para assistência a filho com deficiência, doença crónica ou doença oncológica |  |
 | art. 55.º CT | conferida (epígrafe) — Trabalho a tempo parcial de trabalhador com responsabilidades familiares |  |

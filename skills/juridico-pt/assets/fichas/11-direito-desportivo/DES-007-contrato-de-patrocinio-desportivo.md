@@ -6,7 +6,8 @@ titulo_en: "Sports Sponsorship Agreement"
 descricao: "Redige um contrato de patrocínio desportivo entre um clube/atleta e um patrocinador, estruturando as contraprestações (visibilidade, publicidade, hospitalidade), obrigações do patrocinado, exclusividade por categoria, direitos de naming, penalidades por comportamento desportivo ou disciplinar, e enquadramento fiscal da operação em Portugal."
 descricao_en: "Drafts a sports sponsorship agreement between a club/athlete and a sponsor, structuring the consideration (visibility, advertising, hospitality), the sponsored party's obligations, category exclusivity, naming rights, penalties for sporting or disciplinary conduct, and the tax treatment of the transaction in Portugal."
 ambito: nacional
-estado_citacoes: "conferidas 0 · corrigidas 0 · por conferir 3"
+estado_citacoes: "conferidas 3 · corrigidas 0 · por conferir 9"
+revisao_tecnica: "2026-10-30 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
@@ -14,7 +15,8 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 
 > **Âmbito:** nacional · **Área:** Direito Desportivo · **Código:** DES-007
 > **EN:** Sports Sponsorship Agreement. Drafts a sports sponsorship agreement between a club/athlete and a sponsor, structuring the consideration (visibility, advertising, hospitality), the sponsored party's obligations, category exclusivity, naming rights, penalties for sporting or disciplinary conduct, and the tax treatment of the transaction in Portugal.
-> **Citações:** conferidas 0 · corrigidas 0 · por conferir 3. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 3 · corrigidas 0 · por conferir 9. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-30 — corrigida (4 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
 Redige um contrato de patrocínio desportivo entre um clube/atleta e um patrocinador, estruturando as contraprestações (visibilidade, publicidade, hospitalidade), obrigações do patrocinado, exclusividade por categoria, direitos de naming, penalidades por comportamento desportivo ou disciplinar, e enquadramento fiscal da operação em Portugal.
 
@@ -43,12 +45,13 @@ Em <analise_patrocinio>:
 
 ### ETAPA 2 — ANÁLISE JURÍDICA
 Em <fundamentos_juridicos>:
-- Código Civil: arts. 405.º (liberdade contratual) e 879.º (contrato de compra e venda como analogia)
+- Código Civil: art. 405.º CC (liberdade contratual) — o patrocínio desportivo é um contrato atípico, de natureza publicitária, que pode reunir regras de vários tipos (art. 405.º, n.º 2, CC); não se lhe aplica por analogia a compra e venda, mas, na medida em que o patrocinado se obriga a prestar serviços publicitários, as regras da prestação de serviço e do mandato, com as necessárias adaptações (arts. 1154.º e 1156.º CC) [■ VERIFICAR: qualificação no caso concreto]
 - CIRC art. 23.º: dedutibilidade de despesas de publicidade e propaganda como gastos da empresa
 - Estatuto dos Benefícios Fiscais (EBF) arts. 62.º e ss.: mecenato desportivo [■ VERIFICAR: condições vigentes]
-- Lei de Bases da Atividade Física e do Desporto (Lei n.º 99/2021) — referência ao patrocínio desportivo
+- Lei de Bases da Atividade Física e do Desporto (Lei n.º 5/2007, de 16 de janeiro), art. 48.º, n.º 3: só têm relevância fiscal, nos termos do Estatuto do Mecenato, os donativos concedidos sem contrapartidas que configurem obrigações de caráter pecuniário ou comercial — o patrocínio, por ter contrapartida publicitária, não é donativo
 - [■ VERIFICAR: regulamento da liga profissional sobre patrocinadores proibidos — ex: apostas em competições UEFA]
-- Código da Publicidade: restrições a publicidade de álcool, tabaco, jogos de azar em contexto desportivo
+- Código da Publicidade (Decreto-Lei n.º 330/90): bebidas alcoólicas (art. 17.º — proibida a menção a marcas de bebidas alcoólicas na publicidade de eventos, designadamente desportivos, em que participem menores e nos locais onde decorram, n.os 5 e 6) e jogos e apostas (art. 21.º — proibidas as menções a jogos e apostas em eventos destinados a menores ou em que estes participem como intervenientes principais, n.º 5)
+- Tabaco: Lei n.º 37/2007, de 14 de agosto — proibição da publicidade (art. 16.º) e de qualquer contributo ou patrocínio que vise a promoção de produtos do tabaco (art. 18.º); o art. 18.º do Código da Publicidade foi revogado
 
 ### ETAPA 3 — CONSTRUÇÃO
 Em <estrategia_patrocinio>:
@@ -107,7 +110,8 @@ O Patrocinado entrega ao Patrocinador relatório semestral/anual documentando o 
 Materiais publicitários criados pelo Patrocinador para usar a imagem do Patrocinado ficam sujeitos à aprovação prevista na Cláusula 3.ª; a propriedade intelectual pertence ao Patrocinador para os fins do presente contrato.
 
 **CLÁUSULA 10.ª — RESOLUÇÃO DE LITÍGIOS**
-Tribunais judiciais da comarca de [cidade], sem prejuízo de recurso ao TAD para matéria desportiva conexa.
+[Opção A] Tribunais judiciais da comarca de [cidade].
+[Opção B] Tribunal Arbitral do Desporto (TAD), em arbitragem voluntária, por força da presente convenção de arbitragem (art. 6.º da Lei do TAD, aprovada em anexo à Lei n.º 74/2013).
 
 **ASSINATURAS**
 [Cidade], [data]
@@ -153,6 +157,15 @@ Em <checklist_validacao>:
 
 | Citação | Estado | Nota |
 |---|---|---|
-| arts. 405.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 405.º CC | conferida (índice) |  |
+| art. 405.º, n.º 2, CC | conferida (índice) |  |
+| arts. 1154.º e 1156.º CC | conferida (índice) |  |
 | art. 23.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | arts. 62.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 48.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 17.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 21.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 16.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 18.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 18.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 6.º | por conferir [■ VERIFICAR] | diploma não identificado |

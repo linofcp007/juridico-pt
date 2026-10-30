@@ -37,7 +37,7 @@ Dentro de <analise_situacao>:
 - Qual a nacionalidade do familiar UE? (PT ou outro Estado-Membro?)
 - O familiar UE exerceu o direito de livre circulação vindo de outro Estado-Membro?
 - Existe casamento ou união de facto reconhecida?
-- Para descendentes: menores ou maiores? São biológicos ou adoptados?
+- Para descendentes: menores ou maiores? São biológicos ou adotados?
 - Há documentação civil em regra?
 
 ### ETAPA 2 — ANÁLISE JURÍDICA

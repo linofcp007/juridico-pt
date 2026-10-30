@@ -1,0 +1,258 @@
+[
+ {
+  "codigo": "CNS-024",
+  "veredicto": "corrigida",
+  "resumo": "A ficha atribuía aos artigos do DL 383/89 conteúdos que não são os seus (defeito no art. 2.º, produtor no art. 3.º, solidariedade no art. 4.º, prescrição no art. 7.º, caducidade no art. 8.º) e tratava os 500 € como limiar mínimo, quando o art. 9.º fixa uma franquia (só se indemniza o que exceda 500 €) e o art. 8.º limita os danos em coisas às de uso ou consumo privado diversas do produto. Corrigiram-se as remissões segundo o texto consolidado (arts. 2.º, 4.º, 6.º, 8.º, 9.º, 11.º e 12.º), a posição do fornecedor (art. 2.º, n.º 2, al. b)) e acrescentou-se o regime transitório da Diretiva (UE) 2024/2853 (produtos colocados no mercado após 9/12/2026).",
+  "substituicoes": [
+   {
+    "de": "- Identifica corretamente o responsável: produtor (fabricante) / produtor do componente / importador UE / fornecedor (responsabilidade subsidiária)",
+    "para": "- Identifica corretamente o responsável: produtor (fabricante) / produtor do componente / importador UE / fornecedor (responde como produtor se o produtor ou o importador não estiver identificado e, notificado por escrito, não os identificar em três meses — art. 2.º, n.º 2, al. b), DL 383/89)",
+    "motivo": "O fornecedor não tem uma responsabilidade subsidiária genérica: só é considerado produtor nos termos do art. 2.º, n.º 2, al. b).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=729&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Limiar mínimo de dano à propriedade: €500 (art. 9.º DL 383/89) [■ VERIFICAR valor atualizado]",
+    "para": "- Franquia nos danos em coisas: só é indemnizável a parte que exceda €500 (art. 9.º DL 383/89, na redação do DL 131/2001); e só são ressarcíveis os danos em coisa diversa do produto defeituoso, normalmente destinada ao uso ou consumo privado e a que o lesado tenha dado principalmente esse destino (art. 8.º DL 383/89)",
+    "motivo": "Os 500 € são uma franquia a deduzir, não um limiar mínimo; o valor está confirmado no texto consolidado.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=729&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Prazo: 3 anos desde que a vítima conheceu ou devia conhecer o dano, o defeito e o responsável (art. 7.º); extinção do direito em 10 anos após colocação no mercado (art. 8.º)",
+    "para": "- Prazo: 3 anos desde que o lesado teve ou deveria ter tido conhecimento do dano, do defeito e da identidade do produtor (art. 11.º DL 383/89); caducidade do direito 10 anos após o produtor ter posto em circulação o produto, salvo se estiver pendente ação intentada pelo lesado (art. 12.º DL 383/89)",
+    "motivo": "A prescrição está no art. 11.º e a caducidade no art. 12.º; os arts. 7.º e 8.º tratam do concurso do lesado e dos danos ressarcíveis.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=729&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Art. 2.º DL 383/89 (noção de defeito: \"segurança que legitimamente se pode esperar\")\n- Art. 3.º DL 383/89 (noção de produtor — inclui importador UE)\n- Art. 4.º DL 383/89 (responsabilidade solidária de vários produtores)\n- Art. 5.º DL 383/89 (causas de exoneração — lista taxativa)\n- Art. 7.º DL 383/89 (prazo de prescrição de 3 anos)\n- Art. 8.º DL 383/89 (prazo de caducidade de 10 anos)\n- Art. 9.º DL 383/89 (danos indemnizáveis — dano à pessoa, dano à propriedade ≥ franquia [■ VERIFICAR])",
+    "para": "- Art. 2.º DL 383/89 (noção de produtor — inclui o importador para a UE e, nos termos do n.º 2, al. b), o fornecedor)\n- Art. 3.º DL 383/89 (noção de produto: qualquer coisa móvel, ainda que incorporada noutra coisa móvel ou imóvel)\n- Art. 4.º DL 383/89 (noção de defeito: \"segurança com que legitimamente se pode contar\")\n- Art. 5.º DL 383/89 (causas de exclusão da responsabilidade — lista taxativa)\n- Art. 6.º DL 383/89 (responsabilidade solidária de vários responsáveis)\n- Art. 7.º DL 383/89 (concurso do lesado e de terceiro)\n- Art. 8.º DL 383/89 (danos ressarcíveis — morte ou lesão pessoal e danos em coisa diversa do produto, de uso ou consumo privado)\n- Art. 9.º DL 383/89 (franquia: os danos em coisas só são indemnizáveis na parte que exceda €500)\n- Art. 11.º DL 383/89 (prescrição: 3 anos)\n- Art. 12.º DL 383/89 (caducidade: 10 anos)",
+    "motivo": "Remissões trocadas: no DL 383/89 o produtor é o art. 2.º, o produto o art. 3.º, o defeito o art. 4.º, a solidariedade o art. 6.º, os danos o art. 8.º, a franquia o art. 9.º, a prescrição o art. 11.º e a caducidade o art. 12.º.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=729&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Nova Diretiva (UE) 2024/2853 [■ VERIFICAR: se já transposta — amplia a responsabilidade a software, IA e produtos digitais]",
+    "para": "- Nova Diretiva (UE) 2024/2853: aplica-se aos produtos colocados no mercado ou em serviço após 9/12/2026 (art. 2.º, n.º 1); a Diretiva 85/374/CEE, e com ela o DL 383/89, continua a aplicar-se aos produtos colocados no mercado ou em serviço antes dessa data (art. 21.º) [■ VERIFICAR: diploma português de transposição, com prazo até 9/12/2026 — amplia a responsabilidade a software, IA e produtos digitais]",
+    "motivo": "Datas de aplicação e regime transitório confirmados no texto oficial da diretiva; a transposição portuguesa não foi encontrada.",
+    "fonte": "https://publications.europa.eu/resource/celex/32024L2853"
+   },
+   {
+    "de": "- Fundamento: art. 2.º DL 383/89 — \"o produto é defeituoso",
+    "para": "- Fundamento: art. 4.º, n.º 1, DL 383/89 — \"o produto é defeituoso",
+    "motivo": "A noção de defeito está no art. 4.º, n.º 1, não no art. 2.º.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=729&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Fornecedor (responsabilidade subsidiária se produtor desconhecido): [identificar]",
+    "para": "- Fornecedor (responde como produtor se o produtor ou o importador não estiver identificado e, notificado por escrito, não os identificar em três meses — art. 2.º, n.º 2, al. b), DL 383/89): [identificar]",
+    "motivo": "Rigor quanto ao pressuposto da responsabilidade do fornecedor.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=729&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "| Dano patrimonial (propriedade danificada ≥ €500) | €___ |",
+    "para": "| Danos em coisas diversas do produto, de uso ou consumo privado (só a parte que exceda €500 — art. 9.º DL 383/89) | €___ |",
+    "motivo": "Franquia de 500 € a deduzir e restrição às coisas de uso ou consumo privado (arts. 8.º e 9.º).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=729&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar se, entretanto, foi publicado o diploma português de transposição da Diretiva (UE) 2024/2853 (prazo até 9/12/2026) e a data em que o produto foi colocado no mercado, que decide o regime aplicável.",
+   "A ressarcibilidade dos danos não patrimoniais decorrentes de lesão pessoal ao abrigo do art. 8.º DL 383/89 é matéria de doutrina e jurisprudência: confirmar a posição atual antes de a quantificar.",
+   "Danos em coisas usadas na atividade profissional do lesado ficam fora do DL 383/89 (art. 8.º), mas podem caber noutros regimes (art. 13.º DL 383/89)."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=729&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://publications.europa.eu/resource/celex/32024L2853"
+  ]
+ },
+ {
+  "codigo": "CNS-029",
+  "veredicto": "corrigida",
+  "resumo": "A ficha dava a garantia legal como de «2 ou 3 anos» (o prazo de 2 anos era do revogado DL 67/2003) e situava a garantia comercial nos arts. 27.º a 33.º do DL 84/2021, que tratam dos conteúdos e serviços digitais. Corrigiu-se para o prazo de três anos a contar da entrega, redutível a 18 meses nos móveis usados por acordo (art. 12.º), e remeteu-se a garantia comercial para o art. 2.º, al. k), e o art. 43.º. A participação passa a ser dirigida à ASAE, entidade fiscalizadora do diploma (art. 47.º), e não à DGC.",
+  "descricao": "Redige uma reclamação formal por incumprimento de garantia comercial (garantia voluntária do fabricante ou do vendedor, que acresce à garantia legal), invocando as condições da garantia contratual, o DL n.º 84/2021 (que regula as garantias comerciais no art. 43.º) e os direitos que assistem ao consumidor quando o garante não cumpre os termos que publicitou. Distingue claramente a garantia comercial (voluntária, mais favorável) da garantia legal (obrigatória, de três anos a contar da entrega, redutível por acordo a 18 meses nos bens móveis usados).",
+  "descricao_en": "Drafts a formal complaint about failure to honour a commercial guarantee (voluntary guarantee from the manufacturer or seller, in addition to the legal guarantee), invoking the terms of the contractual guarantee, Decree-Law No. 84/2021 (which regulates commercial guarantees in Article 43) and the consumer's rights when the guarantor fails to comply with the terms it advertised. It clearly distinguishes the commercial guarantee (voluntary, more favourable) from the legal guarantee (mandatory, three years from delivery, reducible by agreement to 18 months for second-hand movable goods).",
+  "substituicoes": [
+   {
+    "de": "- Distingue garantia legal (mínimo 2 ou 3 anos, obrigatória — DL 84/2021 arts. 5.º-17.º) de garantia comercial (voluntária, definida pelo garante — arts. 27.º-33.º DL 84/2021)",
+    "para": "- Distingue garantia legal (obrigatória: o profissional responde pelas faltas de conformidade que se manifestem no prazo de três anos a contar da entrega do bem; nos bens móveis usados, por acordo, o prazo pode ser reduzido a 18 meses, salvo se o bem for anunciado como recondicionado — art. 12.º, n.os 1 e 3, DL 84/2021; regime da compra e venda de bens móveis nos arts. 5.º a 21.º DL 84/2021) de garantia comercial (voluntária, definida pelo garante, que acresce às obrigações legais — art. 2.º, al. k), e art. 43.º DL 84/2021)",
+    "motivo": "O prazo legal é de três anos (o de dois anos era do DL 67/2003, revogado); os arts. 27.º a 33.º tratam dos conteúdos e serviços digitais, e a garantia comercial está no art. 43.º.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3471&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- A garantia comercial não pode ser menos favorável do que o que foi publicitado (art. 29.º DL 84/2021)",
+    "para": "- O garante fica vinculado pelas condições da declaração de garantia e da publicidade anterior ou concomitante à celebração do contrato; se não coincidirem, o consumidor beneficia das mais favoráveis (art. 43.º, n.os 1 a 3, DL 84/2021)",
+    "motivo": "A vinculação às condições publicitadas está no art. 43.º, n.os 1 a 3; o art. 29.º trata dos requisitos objetivos de conformidade dos conteúdos digitais.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3471&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Garantia comercial ≥ garantia legal: o consumidor escolhe o regime mais favorável",
+    "para": "- A garantia comercial não afeta os direitos da garantia legal (art. 43.º, n.º 6, al. a), DL 84/2021): o consumidor pode exercer uns ou outros, conforme lhe for mais favorável",
+    "motivo": "A garantia comercial acresce à legal e não a substitui.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3471&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "dentro da garantia legal (2 ou 3 anos)",
+    "para": "dentro da garantia legal (três anos a contar da entrega; 18 meses se o bem móvel for usado e assim se tiver acordado — art. 12.º DL 84/2021)",
+    "motivo": "Prazo da garantia legal no DL 84/2021.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3471&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Art. 27.º DL 84/2021 (noção de garantia comercial)\n- Art. 28.º DL 84/2021 (caráter não substitutivo da garantia legal)\n- Art. 29.º DL 84/2021 (vinculatividade das condições publicitadas)\n- Art. 30.º DL 84/2021 (conteúdo obrigatório do certificado de garantia)\n- Art. 31.º DL 84/2021 (forma do certificado — em suporte duradouro)\n- Art. 33.º DL 84/2021 (cumulabilidade com garantia legal)\n- Se a garantia comercial é inferior ao que foi publicitado: aplicação das condições mais favoráveis (art. 29.º)",
+    "para": "- Art. 2.º, al. k), DL 84/2021 (noção de garantia comercial)\n- Art. 43.º, n.os 1 e 2, DL 84/2021 (vinculatividade da declaração de garantia e da publicidade)\n- Art. 43.º, n.º 4, DL 84/2021 (garantia comercial de durabilidade dada pelo produtor: responsabilidade direta pela reparação ou substituição durante todo o período)\n- Art. 43.º, n.os 5 e 6, DL 84/2021 (entrega da declaração em papel ou noutro suporte duradouro e menções obrigatórias, incluindo a de que os direitos legais não são afetados pela garantia comercial)\n- Art. 43.º, n.os 7 e 8, DL 84/2021 (transmissão ao terceiro adquirente; a falta das menções não afasta a vinculação do garante)\n- Art. 48.º, n.º 1, al. l), DL 84/2021 (a violação dos n.os 4 a 6 do art. 43.º é contraordenação económica grave)\n- Se a garantia comercial é inferior ao que foi publicitado: aplicação das condições mais favoráveis (art. 43.º, n.º 3)",
+    "motivo": "Os arts. 27.º a 33.º do DL 84/2021 tratam dos conteúdos e serviços digitais; o regime da garantia comercial está todo no art. 43.º (com a noção no art. 2.º, al. k)).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3471&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Escalada: DGC, RAL ou tribunal",
+    "para": "- Escalada: Livro de Reclamações, denúncia à ASAE (entidade fiscalizadora — art. 47.º, n.º 1, DL 84/2021), RAL ou tribunal",
+    "motivo": "A fiscalização e as contraordenações do DL 84/2021 cabem à ASAE; a DGC tem funções de informação (art. 50.º).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3471&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Art. 29.º DL 84/2021: o garante está vinculado pelas condições publicitadas/indicadas no certificado",
+    "para": "- Art. 43.º, n.os 1 a 3, DL 84/2021: o garante está vinculado pelas condições publicitadas/indicadas na declaração de garantia",
+    "motivo": "Remissão correta para o art. 43.º.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3471&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "sob pena de recurso ao centro de arbitragem de consumo e participação à Direção-Geral do Consumidor.",
+    "para": "sob pena de recurso ao centro de arbitragem de consumo e participação à Autoridade de Segurança Alimentar e Económica (ASAE).",
+    "motivo": "A entidade com competência de fiscalização é a ASAE (art. 47.º, n.º 1, DL 84/2021).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3471&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] Art. 29.º DL 84/2021 invocado (vinculatividade das condições publicitadas)",
+    "para": "- [ ] Art. 43.º DL 84/2021 invocado (vinculatividade das condições publicitadas)",
+    "motivo": "Remissão correta para o art. 43.º.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3471&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- O bem ainda está dentro da garantia legal de 2/3 anos? [sim/não]",
+    "para": "- O bem ainda está dentro da garantia legal de três anos (ou de 18 meses, se usado e assim acordado)? [sim/não]",
+    "motivo": "Prazo da garantia legal no art. 12.º DL 84/2021.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3471&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Se o bem for usado, confirmar se a redução para 18 meses foi efetivamente acordada e se o bem não foi anunciado como recondicionado (art. 12.º, n.º 3, DL 84/2021).",
+   "Quando o garante é o produtor e a garantia é de durabilidade, ponderar dirigir a reclamação diretamente ao produtor (art. 43.º, n.º 4, DL 84/2021).",
+   "O prazo de 15 dias úteis na carta é um prazo de cortesia, não um prazo legal; confirmar os prazos de caducidade do direito de ação aplicáveis à garantia legal (art. 17.º DL 84/2021)."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3471&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+  ]
+ },
+ {
+  "codigo": "CNS-036",
+  "veredicto": "corrigida",
+  "resumo": "A ficha afirmava que a arbitragem é gratuita com base no art. 15.º da Lei 144/2015, que trata da autoridade competente; o art. 10.º, n.º 3, só exige que o procedimento seja gratuito ou sujeito a uma taxa de valor reduzido. Não dizia que a arbitragem necessária nos serviços públicos essenciais depende da opção expressa do utente pessoa singular (art. 15.º, n.º 1, Lei 23/96), nem que a Lei 144/2015 não torna a RAL obrigatória. Acrescentou-se a arbitragem necessária dos conflitos de reduzido valor (art. 14.º, n.os 2 a 5, Lei 24/96). O título e a descrição foram corrigidos, e a sigla «CARC», que não corresponde a nenhum centro identificado, foi retirada.",
+  "titulo": "Arbitragem Necessária de Consumo em Serviços Públicos Essenciais: Requerimento ao Centro de Arbitragem",
+  "titulo_en": "Necessary Consumer Arbitration for Essential Public Services: Application to the Arbitration Centre",
+  "descricao": "Prepara o requerimento de arbitragem junto de um centro de arbitragem de conflitos de consumo legalmente autorizado, nos litígios de serviços públicos essenciais (água, eletricidade, gás, comunicações eletrónicas, serviços postais, transporte de passageiros, entre outros), em que a arbitragem é necessária para o prestador quando o utente pessoa singular a escolhe expressamente, ao abrigo da Lei n.º 23/96 (serviços públicos essenciais), da Lei n.º 144/2015 (RAL) e dos regulamentos dos centros de arbitragem reconhecidos.",
+  "descricao_en": "Prepares the arbitration application to a legally authorised consumer dispute arbitration centre in disputes over essential public services (water, electricity, gas, electronic communications, postal services, passenger transport, among others), where arbitration is binding on the provider when the user, being a natural person, expressly chooses it, under Law No. 23/96 (essential public services), Law No. 144/2015 (ADR) and the rules of the recognised arbitration centres.",
+  "substituicoes": [
+   {
+    "de": "— A arbitragem de consumo é GRATUITA para o consumidor em serviços essenciais (art. 15.º Lei 144/2015).",
+    "para": "— Nos serviços públicos essenciais, a arbitragem é necessária quando o utente pessoa singular opte expressamente por submeter o litígio ao tribunal arbitral de um centro de arbitragem de conflitos de consumo legalmente autorizado (art. 15.º, n.º 1, Lei 23/96); durante o procedimento suspendem-se os prazos do art. 10.º, n.os 1 e 4, Lei 23/96 (art. 15.º, n.º 2, Lei 23/96).\n— Os procedimentos de RAL são gratuitos ou estão disponíveis para o consumidor contra o pagamento de uma taxa de valor reduzido (art. 10.º, n.º 3, Lei 144/2015) [■ VERIFICAR: regulamento e tabela de custos do centro competente].",
+    "motivo": "O art. 15.º da Lei 144/2015 trata da autoridade competente; a gratuitidade não é absoluta (art. 10.º, n.º 3) e a arbitragem necessária depende da opção expressa do utente pessoa singular.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2425&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Se o fornecedor aceitou ou está vinculado à arbitragem",
+    "para": "- Se o utente é pessoa singular e opta expressamente pela arbitragem (arbitragem necessária — art. 15.º, n.º 1, Lei 23/96); sendo pessoa coletiva, se o prestador aderiu ao centro ou aceita a arbitragem",
+    "motivo": "A vinculação do prestador decorre da opção do utente pessoa singular, não da aceitação do prestador.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1436&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Lei 23/96, arts. 5.º a 10.º: direitos dos consumidores de serviços essenciais",
+    "para": "- Lei 23/96, arts. 5.º a 10.º: direitos dos utentes de serviços públicos essenciais (suspensão do serviço, quitação parcial, qualidade, consumos mínimos, faturação, prescrição e caducidade); art. 15.º: arbitragem necessária por opção expressa do utente pessoa singular",
+    "motivo": "A norma de base da arbitragem necessária (art. 15.º Lei 23/96) não estava nos fundamentos.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1436&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Lei 144/2015, arts. 2.º, 4.º e 15.º: RAL obrigatória e gratuidade",
+    "para": "- Lei 144/2015, arts. 2.º (âmbito), 4.º (rede de arbitragem de consumo) e 10.º (acessibilidade, gratuitidade ou taxa de valor reduzido, decisão em 90 dias prorrogáveis): a Lei 144/2015 não torna a RAL obrigatória; a arbitragem necessária resulta da Lei 23/96 e da Lei 24/96",
+    "motivo": "A Lei 144/2015 não impõe a RAL; o art. 15.º trata da autoridade competente, e a gratuitidade está no art. 10.º, n.º 3.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2425&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Lei 24/96, art. 14.º: acesso à justiça e RAL",
+    "para": "- Lei 24/96, art. 14.º: acesso à justiça e RAL; arbitragem necessária ou mediação, por opção expressa do consumidor, nos conflitos de valor não superior à alçada dos tribunais de 1.ª instância (n.os 2 e 3), com dispensa do pagamento prévio da taxa de justiça (n.º 5)",
+    "motivo": "Regime dos conflitos de reduzido valor introduzido pela Lei 63/2019 no art. 14.º da Lei 24/96.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=726A0014&nid=726&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Identificar o centro competente (territorial e material) e confirmar o regulamento e a tabela de custos em vigor; não se identificou nenhum centro autorizado com a sigla «CARC».",
+   "Se o utente for pessoa coletiva, a arbitragem necessária do art. 15.º, n.º 1, Lei 23/96 não se aplica: confirmar a adesão do prestador ao centro ou a existência de convenção de arbitragem.",
+   "Confirmar os prazos de prescrição e caducidade do art. 10.º da Lei 23/96 e a suspensão do art. 15.º, n.º 2, antes de apresentar o requerimento."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1436&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2425&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=726A0014&nid=726&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=1579A0042&nid=1579&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+  ]
+ },
+ {
+  "codigo": "CNS-046",
+  "veredicto": "corrigida",
+  "resumo": "As consequências da violação estavam erradas ou vagas: a ficha remetia para o art. 22.º (que trata dos títulos de crédito com função de garantia) e falava numa «redução da taxa ao mínimo legal» que não existe. O regime está no art. 13.º DL 133/2009, que prevê nulidade, anulabilidade e inexigibilidade e a redução da obrigação ao preço a contado ou ao montante do crédito; a TAEG usurária reduz-se nos termos do art. 28.º. Corrigiu-se ainda o direito de livre revogação (art. 17.º, não art. 13.º) e o cálculo da TAEG (art. 24.º e anexo I; o Aviso do BdP n.º 10/2014 regula a informação durante a vigência do contrato), e assinalou-se a revogação da Diretiva 2008/48/CE a partir de 20/11/2026.",
+  "descricao": "Analisa se o contrato de crédito ao consumo cumpre os deveres de informação pré-contratual (FINE) e contratual obrigatórios do DL n.º 133/2009, identificando as consequências da violação (nulidade ou anulabilidade do contrato, inexigibilidade de garantias e seguros não indicados, redução da obrigação do consumidor e redução da TAEG usurária) e preparando a defesa do consumidor em caso de cobrança judicial.",
+  "descricao_en": "Analyses whether the consumer credit agreement complies with the mandatory pre-contractual (FINE) and contractual information duties under Decree-Law No. 133/2009, identifying the consequences of breach (nullity or voidability of the agreement, unenforceability of undisclosed guarantees and insurance, reduction of the consumer's obligation and reduction of a usurious APR (TAEG)) and preparing the consumer's defence in the event of court collection proceedings.",
+  "substituicoes": [
+   {
+    "de": "— O DL 133/2009 aplica-se a créditos entre €200 e €75.000 (art. 2.º).",
+    "para": "— O DL 133/2009 aplica-se a créditos entre €200 e €75.000 (art. 2.º).\n— A Diretiva (UE) 2023/2225 revoga a Diretiva 2008/48/CE (transposta pelo DL 133/2009) a partir de 20/11/2026, continuando esta a aplicar-se aos contratos em vigor nessa data até à sua cessação (art. 47.º da Diretiva) [■ VERIFICAR: diploma português de transposição e regime dos contratos celebrados a partir de 20/11/2026].",
+    "motivo": "Mudança de regime iminente confirmada no texto oficial da diretiva; não se encontrou diploma português de transposição.",
+    "fonte": "https://publications.europa.eu/resource/celex/32023L2225"
+   },
+   {
+    "de": "— A violação dos deveres de informação pode tornar certas cláusulas ineficazes ou reduzir a taxa ao mínimo legal.",
+    "para": "— As consequências civis estão no art. 13.º DL 133/2009. O contrato é nulo se não for celebrado em papel ou noutro suporte duradouro, se não for entregue o exemplar ou se faltar alguma das menções essenciais (n.º 1). É anulável se faltar alguma das menções das alíneas a) a f), h) a m) e o) do n.º 3 do art. 12.º (n.º 3). As garantias e os seguros não indicados no contrato são inexigíveis (n.º 4). A invalidade só pode ser invocada pelo consumidor (n.º 5). Se este provar o contrato sem invocar a invalidade, a sua obrigação reduz-se ao preço a contado ou ao montante do crédito concedido (n.os 6 e 7).\n— A TAEG que exceda o limite máximo da usura considera-se automaticamente reduzida a metade desse limite (art. 28.º, n.º 6). Não existe uma «taxa mínima legal».",
+    "motivo": "A ficha descrevia mal as consequências: o art. 13.º prevê nulidade, anulabilidade, inexigibilidade e redução da obrigação, e a redução da TAEG resulta da usura (art. 28.º).",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1107&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Art. 22.º: consequências da violação (ineficácia de cláusulas / redução da taxa)",
+    "para": "- Art. 13.º: invalidade e inexigibilidade do contrato (nulidade, anulabilidade, inexigibilidade, redução da obrigação ao preço a contado ou ao montante do crédito); art. 28.º: usura (redução automática da TAEG); art. 30.º: contraordenações (incluindo a violação dos arts. 6.º e 12.º)",
+    "motivo": "O art. 22.º trata da utilização de títulos de crédito com função de garantia; as consequências estão nos arts. 13.º, 28.º e 30.º.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1107&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Art. 13.º: direito de desistência (14 dias)",
+    "para": "- Art. 17.º: direito de livre revogação (14 dias de calendário, a contar da celebração ou da receção do exemplar do contrato, se posterior)",
+    "motivo": "O direito de livre revogação está no art. 17.º; o art. 13.º trata da invalidade.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1107&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Aviso Banco de Portugal n.º 10/2014: cálculo da TAEG",
+    "para": "- Art. 24.º e anexo I: cálculo da TAEG; o Aviso do Banco de Portugal n.º 10/2014 regula a informação a prestar durante a vigência do contrato",
+    "motivo": "A TAEG calcula-se pela fórmula do anexo I (art. 24.º, n.º 2); o Aviso 10/2014 trata dos deveres de informação na vigência dos contratos.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1107&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- Consequência jurídica: [ineficácia / redução da taxa / nulidade]",
+    "para": "- Consequência jurídica: [nulidade / anulabilidade / inexigibilidade / redução da obrigação (art. 13.º) / redução da TAEG por usura (art. 28.º)]",
+    "motivo": "Alinhar com as consequências previstas no DL 133/2009.",
+    "fonte": "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1107&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&"
+   },
+   {
+    "de": "- [ ] TAEG verificada e conforme ao Aviso BdP 10/2014",
+    "para": "- [ ] TAEG verificada (art. 24.º e anexo I DL 133/2009) e confrontada com o limite máximo divulgado pelo Banco de Portugal para o trimestre da celebração (art. 28.º)",
+    "motivo": "O Aviso 10/2014 não regula o cálculo da TAEG.",
+    "fonte": "https://files.diariodarepublica.pt/2s/2014/12/234000000/3039930401.pdf"
+   }
+  ],
+  "pontos_para_o_advogado": [
+   "Confirmar se, entretanto, foi publicado o diploma português de transposição da Diretiva (UE) 2023/2225; não constava das bases oficiais consultadas (PGDL, até setembro de 2026). O DL 103/2025 só alterou os arts. 14.º e 21.º do DL 133/2009.",
+   "Confirmar a TAEG máxima divulgada pelo Banco de Portugal para o trimestre e o tipo de contrato em causa à data da celebração.",
+   "A falta de entrega da FINE (art. 6.º) gera contraordenação (art. 30.º), mas não está nas causas de invalidade do art. 13.º, que se referem às menções do contrato (art. 12.º); avaliar a responsabilidade pré-contratual do credor."
+  ],
+  "fontes": [
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=1107&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=3946&tabela=leis&pagina=1&ficha=1&so_miolo=&nversao=&",
+   "https://files.diariodarepublica.pt/2s/2014/12/234000000/3039930401.pdf",
+   "https://diariodarepublica.pt/dr/detalhe/aviso-banco-portugal/10-2014-60955510",
+   "https://publications.europa.eu/resource/celex/32023L2225"
+  ]
+ }
+]

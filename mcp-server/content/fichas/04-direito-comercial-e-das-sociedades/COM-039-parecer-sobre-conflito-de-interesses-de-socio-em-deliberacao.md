@@ -6,7 +6,7 @@ titulo_en: "Legal Opinion on a Member's Conflict of Interest in a Resolution"
 descricao: "Elabora um parecer jurídico sobre a existência ou não de conflito de interesses de sócio em deliberação social, a obrigação de abstenção de voto, as consequências do voto em conflito de interesses e a anulabilidade da deliberação, ao abrigo dos arts. 251.º e 384.º do CSC."
 descricao_en: "Drafts a legal opinion on whether a member has a conflict of interest in a company resolution, the duty to abstain from voting, the consequences of a vote cast in conflict of interest and the voidability of the resolution, under Articles 251 and 384 CSC."
 ambito: nacional
-estado_citacoes: "conferidas 9 · corrigidas 0 · por conferir 4"
+estado_citacoes: "conferidas 10 · corrigidas 0 · por conferir 8"
 revisao_tecnica: "2026-10-28 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
@@ -15,7 +15,7 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 
 > **Âmbito:** nacional · **Área:** Direito Comercial e das Sociedades · **Código:** COM-039
 > **EN:** Legal Opinion on a Member's Conflict of Interest in a Resolution. Drafts a legal opinion on whether a member has a conflict of interest in a company resolution, the duty to abstain from voting, the consequences of a vote cast in conflict of interest and the voidability of the resolution, under Articles 251 and 384 CSC.
-> **Citações:** conferidas 9 · corrigidas 0 · por conferir 4. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 10 · corrigidas 0 · por conferir 8. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
 > **Revisão técnica:** 2026-10-28 — corrigida (7 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
 Elabora um parecer jurídico sobre a existência ou não de conflito de interesses de sócio em deliberação social, a obrigação de abstenção de voto, as consequências do voto em conflito de interesses e a anulabilidade da deliberação, ao abrigo dos arts. 251.º e 384.º do CSC.
@@ -141,7 +141,7 @@ Apresente em <checklist_validacao>:
 - [ ] Art. 251 CSC (Lda.) ou art. 384/6 CSC (SA) aplicado corretamente
 - [ ] Teste do "voto determinante" realizado
 - [ ] Prazo de 30 dias para anulação verificado se deliberação já tomada
-- [ ] Recomendação accionável (abstenção / impugnação / outra)
+- [ ] Recomendação acionável (abstenção / impugnação / outra)
 - [ ] [■ VERIFICAR] em todos os elementos por confirmar
 
 ---
@@ -172,10 +172,14 @@ Apresente em <checklist_validacao>:
 
 | Citação | Estado | Nota |
 |---|---|---|
+| art. 251 CSC | por conferir [■ VERIFICAR] | o assunto descrito não coincide com a epígrafe; confirmar |
+| art. 251 CSC | por conferir [■ VERIFICAR] | o assunto descrito não coincide com a epígrafe; confirmar |
 | art. 204.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 254.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 58.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 58.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| Art. 59 CSC | conferida (epígrafe) — Ação de anulação |  |
+| Art. 72 CSC | por conferir [■ VERIFICAR] | o assunto descrito não coincide com a epígrafe; confirmar |
 | art. 64.º, n.º 1, al. b), CSC | conferida (epígrafe) — Deveres fundamentais |  |
 | art. 58.º, n.º 1, als. a) e b), CSC | conferida (epígrafe) — Deliberações anuláveis |  |
 | art. 56.º CSC | conferida (epígrafe) — Deliberações nulas |  |
@@ -185,3 +189,4 @@ Apresente em <checklist_validacao>:
 | art. 58.º/1/a do CSC | conferida (epígrafe) — Deliberações anuláveis |  |
 | art. 58.º/1/b do CSC | conferida (epígrafe) — Deliberações anuláveis |  |
 | art. 58.º/3 do CSC | conferida (epígrafe) — Deliberações anuláveis |  |
+| Art. 251 CSC | por conferir [■ VERIFICAR] | o assunto descrito não coincide com a epígrafe; confirmar |

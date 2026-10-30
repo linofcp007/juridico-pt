@@ -100,5 +100,5 @@ Redigir dentro de <minuta>:
 | art. 1429.º-A CC | conferida (epígrafe) — Regulamento do condomínio |  |
 | art. 1429.º-A, n.º 1, CC | conferida (epígrafe) — Regulamento do condomínio |  |
 | arts. 1430.º e seguintes CC | conferida (epígrafe) — Órgãos administrativos |  |
-| art. 1422.º-A CC | conferida (epígrafe) — Junção e divisão de fracções autónomas |  |
+| art. 1422.º-A CC | conferida (epígrafe) — Junção e divisão de frações autónomas |  |
 | art. 4.º | por conferir [■ VERIFICAR] | diploma não identificado |

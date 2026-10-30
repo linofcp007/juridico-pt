@@ -6,7 +6,8 @@ titulo_en: "Mortgage Agreement (Review and Instructions)"
 descricao: "Revê a minuta de hipoteca apresentada pelo banco no âmbito de financiamento imobiliário, analisa os elementos essenciais — montante hipotecado, grau, imóvel garantido, extensão da hipoteca, cláusulas de vencimento antecipado e registo —, identifica cláusulas problemáticas e emite instruções para o ato notarial de constituição, ao abrigo do Código Civil (arts. 686.º ss) e do Código do Notariado."
 descricao_en: "Reviews the draft mortgage (hipoteca) presented by the bank for property financing, analyses the essential elements — secured amount, ranking, mortgaged property, scope of the mortgage, acceleration clauses and registration —, identifies problematic clauses and issues instructions for the notarial act creating the mortgage, under the Civil Code (Articles 686 et seq.) and the Notarial Code (Código do Notariado)."
 ambito: nacional
-estado_citacoes: "conferidas 2 · corrigidas 2 · por conferir 6"
+estado_citacoes: "conferidas 15 · corrigidas 2 · por conferir 2"
+revisao_tecnica: "2026-10-30 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
@@ -14,7 +15,8 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 
 > **Âmbito:** nacional · **Área:** Direito Bancário e dos Mercados · **Código:** BAN-010
 > **EN:** Mortgage Agreement (Review and Instructions). Reviews the draft mortgage (hipoteca) presented by the bank for property financing, analyses the essential elements — secured amount, ranking, mortgaged property, scope of the mortgage, acceleration clauses and registration —, identifies problematic clauses and issues instructions for the notarial act creating the mortgage, under the Civil Code (Articles 686 et seq.) and the Notarial Code (Código do Notariado).
-> **Citações:** conferidas 2 · corrigidas 2 · por conferir 6. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 15 · corrigidas 2 · por conferir 2. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-30 — corrigida (4 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
 Revê a minuta de hipoteca apresentada pelo banco no âmbito de financiamento imobiliário, analisa os elementos essenciais — montante hipotecado, grau, imóvel garantido, extensão da hipoteca, cláusulas de vencimento antecipado e registo —, identifica cláusulas problemáticas e emite instruções para o ato notarial de constituição, ao abrigo do Código Civil (arts. 686.º ss) e do Código do Notariado.
 
@@ -43,16 +45,16 @@ Em <analise_preliminar>:
 ### ETAPA 2 — ANÁLISE JURÍDICA
 Em <fundamentos_juridicos>:
 - Código Civil:
-  - Art. 686.º: constituição [■ VERIFICAR: o art. 686.º aqui citado é do Código Civil (hipoteca), não da Constituição] de hipoteca voluntária
-  - Art. 693.º: extensão da hipoteca (capital, juros, despesas de execução)
-  - Art. 695.º: proibição da cláusula comissória (pacto marciano)
-  - Art. 696.º: redução da hipoteca
-  - Art. 698.º ss: extinção da hipoteca
-  - Art. 731.º ss: execução hipotecária
-- Código do Registo Predial: registo da hipoteca — elemento essencial para oponibilidade
+  - Art. 686.º CC: noção de hipoteca; arts. 712.º ss CC: hipoteca voluntária, constituída por escritura pública ou documento particular autenticado (art. 714.º CC)
+  - Art. 693.º CC: a hipoteca assegura os acessórios do crédito que constem do registo; juros, no máximo, de três anos (n.º 2)
+  - Art. 694.º CC: nulidade do pacto comissório; art. 695.º CC: nulidade da cláusula que proíba alienar ou onerar o imóvel (é lícito convencionar o vencimento do crédito nesse caso)
+  - Art. 696.º CC: indivisibilidade; arts. 718.º a 720.º CC: redução da hipoteca
+  - Art. 730.º CC: causas de extinção da hipoteca
+- Execução: a escritura ou o documento particular autenticado é título executivo (art. 703.º, n.º 1, al. b), CPC) e a penhora começa pelos bens hipotecados (art. 752.º, n.º 1, CPC)
+- Registo predial: o registo é constitutivo — sem ele a hipoteca não produz efeitos, mesmo entre as partes (art. 687.º CC; art. 4.º, n.º 2, do Código do Registo Predial)
 - Código do Notariado: formalidades da escritura pública
 - DL n.º 74-A/2017: limites de comissão de amortização antecipada (impacto no refinanciamento com levantamento de hipoteca)
-- Lei n.º 67/2021 [■ VERIFICAR: diploma relativo a proteção de devedores habitação]
+- Devedor em incumprimento: PARI e PERSI (DL n.º 227/2012, arts. 9.º ss e 12.º ss) [■ VERIFICAR: medidas temporárias em vigor para o crédito à habitação]
 
 ### ETAPA 3 — CONSTRUÇÃO
 Em <estrategia>:
@@ -104,7 +106,7 @@ Documentos a levar:
 - [ ] BI/CC de todos os outorgantes
 - [ ] Certidão permanente do registo predial (com código de acesso)
 - [ ] Caderneta predial atualizada
-- [ ] Licença de utilização (se aplicável)
+- [ ] Autorização de utilização (se aplicável): deixou de ser exibida na escritura com o DL n.º 10/2024, que revogou o DL n.º 281/99, mas confirma o uso legal do imóvel e o banco pode exigi-la; se a compra for titulada no mesmo ato, o documento menciona o título urbanístico ou a declaração do transmitente, sob pena de anulabilidade (art. 4.º-A, n.º 14, RJUE, na redação do DL n.º 108/2026)
 - [ ] Declaração de não-dívida à Câmara Municipal [■ VERIFICAR se exigida]
 - [ ] Certificado energético (se aplicável)
 - [ ] Minuta aprovada pelo banco
@@ -156,19 +158,28 @@ Em <checklist_validacao>:
 - Data prevista para escritura: [data]
 
 **MINUTA DO BANCO:**
-[Transceve as cláusulas que causam dúvida ou pede análise completa]
+[Transcreve as cláusulas que causam dúvida ou pede análise completa]
 
 ## Citações desta ficha
 
 | Citação | Estado | Nota |
 |---|---|---|
-| Art. 686.º: constituição | por conferir [■ VERIFICAR] | o art. 686.º aqui citado é do Código Civil (hipoteca), não da Constituição |
-| Art. 693.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| Art. 695.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| Art. 696.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| Art. 698.º | por conferir [■ VERIFICAR] | diploma não identificado |
-| Art. 731.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| Art. 686.º CC | conferida (epígrafe) — Noção |  |
+| arts. 712.º ss CC | conferida (epígrafe) — Noção |  |
+| art. 714.º CC | conferida (epígrafe) — Forma |  |
+| Art. 693.º CC | conferida (epígrafe) — Acessórios do crédito |  |
+| Art. 694.º CC | conferida (epígrafe) — Pacto comissório |  |
+| art. 695.º CC | conferida (epígrafe) — Cláusula de inalienabilidade dos bens hipotecados |  |
+| Art. 696.º CC | conferida (epígrafe) — Indivisibilidade |  |
+| arts. 718.º a 720.º CC | conferida (epígrafe) — Modalidades |  |
+| Art. 730.º CC | conferida (epígrafe) — Causas de extinção |  |
+| art. 703.º, n.º 1, al. b), CPC | conferida (índice) |  |
+| art. 752.º, n.º 1, CPC | conferida (epígrafe) — Bens onerados com garantia real e bens indivisos |  |
+| art. 687.º CC | conferida (epígrafe) — Registo |  |
+| art. 4.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| arts. 9.º | por conferir [■ VERIFICAR] | diploma não identificado |
 | art. 693.º CC | conferida (epígrafe) — Acessórios do crédito |  |
 | art. 693.º CC | conferida (epígrafe) — Acessórios do crédito |  |
 | art. 694.º CC | corrigida — Pacto comissório | o número citado no catálogo não correspondia à epígrafe |
 | art. 694.º CC | corrigida — Pacto comissório | o número citado no catálogo não correspondia à epígrafe |
+| art. 4.º-A, n.º 14, RJUE | conferida (epígrafe) — Títulos urbanísticos |  |

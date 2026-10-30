@@ -6,8 +6,9 @@ titulo_en: "Planning Due Diligence Checklist for the Acquisition of Land or Prop
 descricao: "Checklist completa de due diligence jurídico-urbanística para aquisição de terreno ou imóvel destinado a construção ou reabilitação, cobrindo registo predial, estado de conservação, servidões, conformidade com o PDM, licenças existentes, contraordenações e riscos específicos ao abrigo do RJUE (DL 555/99) e do RJIGT (DL 80/2015)."
 descricao_en: "A comprehensive legal and planning due diligence checklist for the acquisition of land or property intended for construction or rehabilitation, covering the land register, state of repair, easements, conformity with the PDM, existing licences, administrative offences and specific risks under the RJUE (Decree-Law 555/99) and the RJIGT (Decree-Law 80/2015)."
 ambito: nacional
-estado_citacoes: "conferidas 1 · corrigidas 0 · por conferir 2"
+estado_citacoes: "conferidas 7 · corrigidas 0 · por conferir 3"
 remete_para: "assets/checklists/checklist-due-diligence-imovel"
+revisao_tecnica: "2026-10-30 (corrigida)"
 origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 ---
 
@@ -16,7 +17,8 @@ origem: "Skills Jurídicas PRO (catálogo da empresa), importado a 2026-10-27"
 > **Âmbito:** nacional · **Área:** Direito do Urbanismo e do Território · **Código:** URB-057
 > **EN:** Planning Due Diligence Checklist for the Acquisition of Land or Property for Construction. A comprehensive legal and planning due diligence checklist for the acquisition of land or property intended for construction or rehabilitation, covering the land register, state of repair, easements, conformity with the PDM, existing licences, administrative offences and specific risks under the RJUE (Decree-Law 555/99) and the RJIGT (Decree-Law 80/2015).
 > **Ver também:** `assets/checklists/checklist-due-diligence-imovel` — conteúdo do plugin sobre o mesmo tema. Usa-o primeiro.
-> **Citações:** conferidas 1 · corrigidas 0 · por conferir 2. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Citações:** conferidas 7 · corrigidas 0 · por conferir 3. As por conferir entram no documento com `[■ VERIFICAR]`; valores do ano em `references/valores-2026.md`.
+> **Revisão técnica:** 2026-10-30 — corrigida (7 correções com fonte). O que mudou e as fontes em `assets/fichas/revisao-tecnica.md`; falta a confirmação de um advogado.
 
 Checklist completa de due diligence jurídico-urbanística para aquisição de terreno ou imóvel destinado a construção ou reabilitação, cobrindo registo predial, estado de conservação, servidões, conformidade com o PDM, licenças existentes, contraordenações e riscos específicos ao abrigo do RJUE (DL 555/99) e do RJIGT (DL 80/2015).
 
@@ -37,16 +39,16 @@ Dentro de <registo>:
 - [ ] Caderneta matricial atualizada — AT
 - [ ] Confirmação da correspondência entre o que o vendedor declara e o que está registado
 - [ ] Verificação de ónus: hipotecas, penhoras, privilégios, usufrutos, servidões registadas
-- [ ] Anotação de litígios pendentes sobre o imóvel
-- [ ] Verificação de pré-anotações ou contratos-promessa anotados
+- [ ] Registo de ações pendentes sobre o imóvel (art. 3.º do Código do Registo Predial)
+- [ ] Verificação de registos provisórios e de contratos-promessa com eficácia real registados (art. 2.º, n.º 1, al. f), do Código do Registo Predial)
 
 ### MÓDULO 2 — CONFORMIDADE URBANÍSTICA
 Dentro de <urbanistica>:
-- [ ] Certidão de localização e confrontações (art. 82.º RJUE [■ VERIFICAR: o art. 82.º RJUE trata da ligação às redes públicas; confirmar a norma aplicável à certidão de localização]) — Câmara Municipal
+- [ ] Certidão de localização e confrontações e informação sobre os instrumentos de gestão territorial aplicáveis — Câmara Municipal (direito à informação e a certidões: art. 110.º, n.os 1 e 3, RJUE)
 - [ ] Certidão de condicionantes urbanísticas (extrato do PDM) — Câmara Municipal
 - [ ] Verificação de classificação e qualificação do solo (PDM + plataforma DGT)
 - [ ] Verificação de servidões: REN, RAN, DPH, zonas de proteção de imóveis classificados
-- [ ] Licenças e alvarás em vigor (construção, loteamento, utilização) — arquivo camarário
+- [ ] Títulos urbanísticos em vigor — licenças e comunicações prévias (art. 4.º-A RJUE) e alvarás emitidos no regime anterior — de construção, loteamento e utilização — processos de obras da Câmara Municipal
 - [ ] Processos de contraordenação urbanística pendentes — Câmara Municipal
 - [ ] Embargos de obra ativos — Câmara Municipal
 - [ ] Ordens de demolição pendentes — Câmara Municipal
@@ -55,10 +57,10 @@ Dentro de <urbanistica>:
 ### MÓDULO 3 — ESTADO DAS OBRAS E LICENÇAS
 Dentro de <obras>:
 - [ ] Obra concluída conforme licença: comparação planta aprovada vs. realidade física
-- [ ] Autorização de utilização emitida e válida (art. 62.º RJUE)
+- [ ] Título de utilização: autorização ou licença de utilização emitida no regime anterior ou, no regime atual, comunicação prévia de utilização após obra (art. 62.º RJUE; art. 62.º-A RJUE) ou comunicação prévia com prazo, sem obra (art. 62.º-B RJUE); o título transmite-se com a propriedade (art. 4.º-A, n.º 13, RJUE) e o documento que titula a transmissão tem de mencionar o título urbanístico ou a declaração do transmitente de que dele dispõe ou não dispõe, sob pena de anulabilidade (art. 4.º-A, n.º 14, RJUE)
 - [ ] Obras executadas sem licença identificadas e quantificadas
 - [ ] Certificado energético válido (DL 101-D/2020)
-- [ ] Ficha técnica de habitação (art. 67.º RJUE [■ VERIFICAR: o art. 67.º RJUE trata dos requisitos de validade; a ficha técnica da habitação rege-se pelo DL 68/2004] — para habitação pós-2004)
+- [ ] Ficha técnica da habitação (DL 68/2004 — para habitação pós-2004; desde 1/1/2024 já não é exibida na escritura, por o DL 10/2024 ter revogado o art. 9.º desse diploma, mas continua a pedir-se ao vendedor)
 - [ ] Estado de conservação do imóvel (nível de conservação NRAU — se arrendado)
 
 ### MÓDULO 4 — RESTRIÇÕES ESPECÍFICAS
@@ -73,7 +75,7 @@ Dentro de <restricoes>:
 Dentro de <riscos_projeto>:
 - [ ] Viabilidade do projeto pretendido: índices, cércea, afastamentos (ver Módulo 2)
 - [ ] Procedimento necessário: licença de loteamento / licença de construção / CP
-- [ ] Pareceres de entidades externas necessários (IP, CCDR, APA, DGPC, ANAC)
+- [ ] Pareceres de entidades externas necessários (IP, CCDR, APA, Património Cultural, I. P., que substituiu a DGPC, ANAC)
 - [ ] Prazo estimado do procedimento de licenciamento
 - [ ] Risco de vizinhança: projetos em áreas de litígio ou alta contestação de vizinhos
 
@@ -100,6 +102,13 @@ Dentro de <cpcv>:
 
 | Citação | Estado | Nota |
 |---|---|---|
-| art. 82.º RJUE | por conferir [■ VERIFICAR] | o art. 82.º RJUE trata da ligação às redes públicas; confirmar a norma aplicável à certidão de localização |
+| art. 3.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 2.º | por conferir [■ VERIFICAR] | diploma não identificado |
+| art. 110.º, n.os 1 e 3, RJUE | conferida (epígrafe) — Direito à informação |  |
+| art. 4.º-A RJUE | conferida (epígrafe) — Títulos urbanísticos |  |
 | art. 62.º RJUE | conferida (epígrafe) — Âmbito |  |
-| art. 67.º RJUE | por conferir [■ VERIFICAR] | o art. 67.º RJUE trata dos requisitos de validade; a ficha técnica da habitação rege-se pelo DL 68/2004 |
+| art. 62.º-A RJUE | conferida (epígrafe) — Utilização ou alteração de uso de edifício ou fração sujeita a comunicação prévia |  |
+| art. 62.º-B RJUE | conferida (epígrafe) — Utilização ou alteração de uso de edifício ou fração sujeita a comunicação prévia com praz |  |
+| art. 4.º-A, n.º 13, RJUE | conferida (epígrafe) — Títulos urbanísticos |  |
+| art. 4.º-A, n.º 14, RJUE | conferida (epígrafe) — Títulos urbanísticos |  |
+| art. 9.º | por conferir [■ VERIFICAR] | diploma não identificado |

@@ -6,6 +6,7 @@
 //
 //   node mcp-server/scripts/gerar-epigrafes.mjs --atualizar            # descarrega todos (rede)
 //   node mcp-server/scripts/gerar-epigrafes.mjs --atualizar --so CT,CC # só alguns
+//   node mcp-server/scripts/gerar-epigrafes.mjs --revogados [--so CPP] # só a lista dos artigos revogados (rede)
 //   node mcp-server/scripts/gerar-epigrafes.mjs --check                # verifica os ficheiros versionados
 import { readFileSync, writeFileSync, existsSync, mkdirSync } from "node:fs";
 import { dirname, join, resolve } from "node:path";
@@ -73,12 +74,46 @@ export function lerPgdl(html) {
   return out;
 }
 
-/** Portal das Finanças: <td>Artigo 87.º</td> … <a href="…">Taxas</a> */
-export function lerPortalFinancas(html) {
+/**
+ * PGDL, texto dos artigos (página de ~100, a partir da entrada `ficha` da lista): "Artigo 315.º Contestação e rol de
+ * testemunhas (Revogado.)" ou "[Revogado]." (RJUE). A lista de epígrafes não marca os revogados; o texto marca. Só conta como cabeçalho o
+ * "Artigo N.º" seguido da epígrafe da lista (o decreto que aprova o código também tem artigos 1.º, 2.º…), e vale o último.
+ */
+export function lerRevogadosPgdl(html, epigrafes) {
+  const i = html.lastIndexOf("</option>");
+  const t = limpo(i >= 0 ? html.slice(i) : html);
+  const igual = (a, b) => a.toLowerCase().startsWith(b.toLowerCase());
+  const vistos = new Set();
+  const revogados = new Set();
+  // "ARTIGO 4.º" na CRP; nota antes da epígrafe no CPC ("Artigo 99.º (art.º 105.º CPC 1961) Efeito da …").
+  for (const m of t.matchAll(/\bArtigo\s+(\d+)\.?\s*º(?:\s*-\s*([A-Z]))?\s*(?:\(art\.?º?[^)]{0,40}\)\s*)?/gi)) {
+    const k = chave(m[1], m[2]);
+    const ep = epigrafes[k];
+    if (ep === undefined) continue;
+    let resto = t.slice(m.index + m[0].length, m.index + m[0].length + ep.length + 80);
+    if (ep !== "(sem epígrafe)") {
+      const p = resto.startsWith("(") && !ep.startsWith("(") ? resto.slice(1) : resto;
+      if (!igual(p, ep)) continue;
+      resto = p.slice(ep.length).replace(/^\s*\)/, "");
+    }
+    vistos.add(k);
+    if (/^\s*[([]?\s*revogad[oa]\b/i.test(resto)) revogados.add(k);
+    else revogados.delete(k);
+  }
+  return { vistos, revogados };
+}
+
+/** Portal das Finanças: <td>Artigo 87.º</td> … <a href="…">Taxas</a>; os revogados têm "[Revogado]" a seguir à ligação ou "(Revogado)" nela. */
+export const lerPortalFinancas = (html) => indicePortalFinancas(html).artigos;
+export const revogadosPortalFinancas = (html) => [...indicePortalFinancas(html).revogados];
+
+function indicePortalFinancas(html) {
   const out = {};
+  const revogados = new Set();
   for (const m of html.matchAll(/Artigo(?:\s|&#160;)*(\d+)(?:\s|&#160;)*\.?\s*º(?:\s*-\s*([A-Z]))?[\s\S]{0,500}?<a [^>]*>([\s\S]*?)<\/a>/g)) {
     const k = chave(m[1], m[2]);
-    if (!out[k]) out[k] = limpo(m[3]).replace(/\s*\[Revogado\]\s*$/i, "") || "(sem epígrafe)";
+    if (out[k]) continue;
+    out[k] = limpo(m[3]).replace(/\s*\[Revogado\]\s*$/i, "") || "(sem epígrafe)";
   }
   // Segunda leitura, linha a linha, só para as falhas da primeira: o índice parte às vezes o número com
   // marcação ("Artigo 17<a …></a>.º", "<font>Artig</font><font>o</font> 68.º").
@@ -88,12 +123,14 @@ export function lerPortalFinancas(html) {
     const m = /^Artigo\s*(\d+)\s*\.?\s*º(?:\s*-\s*([A-Z]))?/.exec(primeira);
     if (!m) continue;
     const k = chave(m[1], m[2]);
+    if (/\[Revogado\]|^\(?\s*Revogad[oa]\s*\.?\s*\)?$/i.test(limpo(celulas[1] ?? ""))) revogados.add(k);
     if (out[k] && out[k] !== "(sem epígrafe)") continue;
     const ligacoes = [...(celulas[1] ?? "").matchAll(/<a [^>]*>([\s\S]*?)<\/a>/g)].map((x) => limpo(x[1])).filter(Boolean);
     const ep = (ligacoes[0] ?? "").replace(/\s*\[Revogado\]\s*$/i, "");
     if (ep || !out[k]) out[k] = ep || "(sem epígrafe)";
   }
-  return out;
+  for (const [k, ep] of Object.entries(out)) if (/^\(?\s*Revogad[oa]\b/i.test(ep)) revogados.add(k);
+  return { artigos: out, revogados };
 }
 
 /** XHTML do Serviço de Publicações da UE: título do artigo (oj-sti-art) ou, sem ele, a primeira frase. */
@@ -117,24 +154,45 @@ export function lerUE(html) {
   return out;
 }
 
-async function descarregar(d) {
-  const ue = d.url.includes("publications.europa.eu");
-  const res = await fetch(d.url, {
+async function obter(d, url) {
+  const ue = url.includes("publications.europa.eu");
+  const res = await fetch(url, {
     headers: ue ? { Accept: "application/xhtml+xml", "Accept-Language": "por" } : { "User-Agent": "Mozilla/5.0 (juridico-pt; gerar-epigrafes)" },
     redirect: "follow",
   });
   if (!res.ok) throw new Error(`${d.sigla}: HTTP ${res.status}`);
   const buf = await res.arrayBuffer();
-  const html = d.fonte === "PGDL" ? new TextDecoder("latin1").decode(buf) : new TextDecoder("utf-8").decode(buf);
-  const artigos = d.fonte === "PGDL" ? lerPgdl(html) : d.fonte === "Portal das Finanças" ? lerPortalFinancas(html) : lerUE(html);
-  if (Object.keys(artigos).length < 10) throw new Error(`${d.sigla}: só ${Object.keys(artigos).length} artigos lidos`);
-  return artigos;
+  return d.fonte === "PGDL" ? new TextDecoder("latin1").decode(buf) : new TextDecoder("utf-8").decode(buf);
 }
 
-function ordenar(artigos) {
-  const ks = Object.keys(artigos).sort((a, b) => parseInt(a) - parseInt(b) || a.localeCompare(b));
-  return Object.fromEntries(ks.map((k) => [k, artigos[k]]));
+async function descarregar(d) {
+  const html = await obter(d, d.url);
+  const artigos = d.fonte === "PGDL" ? lerPgdl(html) : d.fonte === "Portal das Finanças" ? lerPortalFinancas(html) : lerUE(html);
+  if (Object.keys(artigos).length < 10) throw new Error(`${d.sigla}: só ${Object.keys(artigos).length} artigos lidos`);
+  return { artigos, revogados: await revogadosDe(d, artigos, html) };
 }
+
+/** Artigos revogados: na PGDL lê o texto de todos os artigos, ~100 por página; no Portal das Finanças vem no índice. */
+async function revogadosDe(d, artigos, html) {
+  if (d.fonte === "Portal das Finanças") return ordenarChaves(revogadosPortalFinancas(html ?? (await obter(d, d.url))));
+  if (d.fonte !== "PGDL") return [];
+  const vistos = new Set();
+  const revogados = new Set();
+  const n = Object.keys(artigos).length;
+  // A página começa na entrada `ficha` da lista; as do decreto preambular contam, por isso vai-se até n + 100.
+  for (let ficha = 1; ficha <= n + 100; ficha += 100) {
+    const r = lerRevogadosPgdl(await obter(d, d.url.replace("ficha=1", `ficha=${ficha}`)), artigos);
+    for (const k of r.vistos) { vistos.add(k); revogados.delete(k); }
+    for (const k of r.revogados) revogados.add(k);
+    await new Promise((ok) => setTimeout(ok, 300));
+  }
+  const faltam = Object.keys(artigos).filter((k) => !vistos.has(k));
+  if (faltam.length > n / 20) throw new Error(`${d.sigla}: texto de ${faltam.length} artigos não lido (ex.: ${faltam.slice(0, 5).join(", ")})`);
+  return ordenarChaves(revogados);
+}
+
+const ordenarChaves = (ks) => [...ks].sort((a, b) => parseInt(a) - parseInt(b) || a.localeCompare(b));
+const ordenar = (artigos) => Object.fromEntries(ordenarChaves(Object.keys(artigos)).map((k) => [k, artigos[k]]));
 
 /** Lê os ficheiros versionados (o importador e os testes usam isto). */
 export function lerEpigrafes(dir = DESTINO) {
@@ -148,16 +206,22 @@ export function lerEpigrafes(dir = DESTINO) {
 
 async function main(argv) {
   const so = argv.includes("--so") ? argv[argv.indexOf("--so") + 1].split(",") : null;
-  if (argv.includes("--atualizar")) {
+  // --revogados: só a lista dos revogados, sem mexer nas epígrafes (que se atualizam em janeiro com --atualizar).
+  const soRevogados = argv.includes("--revogados");
+  if (argv.includes("--atualizar") || soRevogados) {
     mkdirSync(DESTINO, { recursive: true });
     const hoje = new Date().toISOString().slice(0, 10);
     let falhas = 0;
     for (const d of DIPLOMAS.filter((x) => !so || so.includes(x.sigla))) {
       try {
-        const artigos = ordenar(await descarregar(d));
+        const f = join(DESTINO, `${d.sigla}.json`);
+        const atual = soRevogados ? JSON.parse(readFileSync(f, "utf8")) : null;
+        const lido = soRevogados ? { artigos: atual.artigos, revogados: await revogadosDe(d, atual.artigos) } : await descarregar(d);
+        const artigos = ordenar(lido.artigos);
         const { nomes, ...meta } = d;
-        writeFileSync(join(DESTINO, `${d.sigla}.json`), JSON.stringify({ ...meta, nomes, obtido_em: hoje, artigos }, null, 1) + "\n");
-        console.log(`OK: ${d.sigla} — ${Object.keys(artigos).length} artigos`);
+        const obtido_em = soRevogados ? atual.obtido_em : hoje;
+        writeFileSync(f, JSON.stringify({ ...meta, nomes, obtido_em, revogados_obtido_em: hoje, revogados: lido.revogados, artigos }, null, 1) + "\n");
+        console.log(`OK: ${d.sigla} — ${Object.keys(artigos).length} artigos, ${lido.revogados.length} revogados`);
       } catch (e) {
         falhas++;
         console.error(`ERRO: ${e.message}`);
@@ -177,4 +241,4 @@ async function main(argv) {
   console.log(`OK: epígrafes de ${DIPLOMAS.length} diplomas.`);
 }
 
-if (import.meta.url === pathToFileURL(process.argv[1]).href) await main(process.argv.slice(2));
+if (process.argv[1] && import.meta.url === pathToFileURL(process.argv[1]).href) await main(process.argv.slice(2));
