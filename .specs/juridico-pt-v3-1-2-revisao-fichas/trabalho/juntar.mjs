@@ -6,6 +6,8 @@ const aqui = dirname(fileURLToPath(import.meta.url));
 // O importador aplica as correções ao texto já normalizado (AO90): os trechos passam pela mesma normalização, para
 // continuarem a casar quando a lista ao90.json cresce.
 const { normalizarGrafia } = await import(pathToFileURL(join(aqui, "..", "..", "..", "mcp-server", "scripts", "importar-fichas.mjs")).href);
+// Finais de linha só LF, como o texto do importador (alguns revisores escreveram CRLF).
+const texto = (t) => normalizarGrafia(t.replace(/\r\n?/g, "\n"));
 const [destino, data = new Date().toISOString().slice(0, 10)] = process.argv.slice(2);
 const out = {};
 // As fichas já revistas guardam a data da sua revisão; só as novas levam a data de hoje.
@@ -19,7 +21,7 @@ for (const f of ficheiros.sort()) {
       revisto_em: anterior[r.codigo]?.revisto_em ?? data,
       veredicto: r.veredicto,
       resumo: r.resumo,
-      substituicoes: (r.substituicoes || []).map(({ de, para, motivo, fonte }) => ({ de: normalizarGrafia(de), para: normalizarGrafia(para), motivo, ...(fonte ? { fonte } : {}) })),
+      substituicoes: (r.substituicoes || []).map(({ de, para, motivo, fonte }) => ({ de: texto(de), para: texto(para), motivo, ...(fonte ? { fonte } : {}) })),
       pontos_para_o_advogado: r.pontos_para_o_advogado || [],
       fontes: [...new Set(r.fontes || [])],
       // Títulos e descrições corrigidos pelo revisor, quando o índice descrevia o regime antigo.
