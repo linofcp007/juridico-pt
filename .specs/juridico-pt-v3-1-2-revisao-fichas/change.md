@@ -37,7 +37,7 @@ Revisão técnica de todas as fichas que a triagem apontou, a juntar às 42 da 3
   - a confirmação final, que é do advogado (o relatório diz o que confirmar em cada ficha).
 
 ## Tarefas
-- [ ] 1. [US1] Artigos revogados e citações sem «º»:
+- [x] 1. [US1] Artigos revogados e citações sem «º»:
   - `--revogados` no gerador e a lista nos 25 diplomas;
   - o importador;
   - a fixture TRA-905;
@@ -47,13 +47,13 @@ Revisão técnica de todas as fichas que a triagem apontou, a juntar às 42 da 3
   - _Requirements: US-1.AC-2, US-1.AC-3_
   - _Implements: mcp-server/scripts/gerar-epigrafes.mjs, mcp-server/scripts/importar-fichas.mjs, skills/juridico-pt/references/epigrafes/CC.json, skills/juridico-pt/assets/fichas/revisao-citacoes.json, mcp-server/test/v31.test.mjs, mcp-server/test/fixtures/fichas/skill/references/epigrafes/CT.json, mcp-server/test/fixtures/fichas/kit/biblioteca/14-direito-do-trabalho/TRA-905-contrato-de-trabalho-a-tempo-parcial-teste.md, agents/verificador-citacoes.md, CLAUDE.md_
   - _Verify: cd mcp-server && node --test --test-name-pattern "T-533|T-514|T-515|T-516" test/v31.test.mjs_
-- [ ] 2. [US1] Revisão técnica das 272 fichas que faltavam, lista AO90 alargada (com a normalização dos trechos no `juntar.mjs`) e referências da casa. Inclui a integração, a reimportação e a conciliação das decisões de citações. Testes:
+- [x] 2. [US1] Revisão técnica das 272 fichas que faltavam, lista AO90 alargada (com a normalização dos trechos no `juntar.mjs`) e referências da casa. Inclui a integração, a reimportação e a conciliação das decisões de citações. Testes:
   - T-534: a lista AO90 nova, na fixture e nas fichas;
   - T-535: todas as fichas apontadas pela triagem no relatório, com fonte em cada correção, e as afirmações corrigidas nas referências não voltam.
   - _Requirements: US-1.AC-1, US-1.AC-3_
   - _Implements: skills/juridico-pt/assets/fichas/correcoes-conteudo.json, skills/juridico-pt/assets/fichas/revisao-tecnica.md, skills/juridico-pt/assets/fichas/revisao-citacoes.json, mcp-server/scripts/ao90.json, skills/juridico-pt/references/multas.md, skills/juridico-pt/references/imobiliario.md, skills/juridico-pt/references/sucessorio-internacional.md, skills/juridico-pt/references/herancas.md, skills/juridico-pt/references/licenciamento-setorial.md, skills/juridico-pt/references/bancario.md, skills/juridico-pt/references/insolvencia.md, skills/juridico-pt/playbooks/comprar-imovel.md, mcp-server/test/v31.test.mjs_
   - _Verify: cd mcp-server && npm run build && node scripts/importar-fichas.mjs --origem "C:/Users/Administrator/Downloads/skills-juridicas-pro" --check && node --test --test-name-pattern "T-510|T-514|T-532|T-533|T-534|T-535" test/v31.test.mjs_
-- [ ] 3. [shared] Versão 3.1.2:
+- [x] 3. [shared] Versão 3.1.2:
   - os 6 sítios e o lock;
   - o CHANGELOG;
   - os bundles e os pacotes;

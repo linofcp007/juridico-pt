@@ -5,7 +5,193 @@
   "tracks": [
     "core"
   ],
-  "approvals": {},
+  "approvals": {
+    "tasks": {
+      "at": "2026-10-30T15:23:08.706Z",
+      "by": "Carlos Pereira",
+      "fingerprint": "8703b09724fdd5132679ae1cf4ff39daf45431eb",
+      "file": "change.md",
+      "wsFingerprint": "76b4b3bebae78ff41b54ea49a97af7fe278f817e",
+      "batch": true
+    },
+    "execution": {
+      "at": "2026-10-30T15:24:28.190Z",
+      "by": "Carlos Pereira"
+    }
+  },
   "createdAt": "2026-10-30T13:42:08.000Z",
-  "lastEditAt": "2026-10-30T13:43:03.616Z"
+  "lastEditAt": "2026-10-30T13:43:03.616Z",
+  "approvalHistory": [
+    {
+      "phase": "tasks",
+      "at": "2026-10-30T15:23:08.706Z",
+      "by": "Carlos Pereira",
+      "file": "change.md",
+      "fingerprint": "8703b09724fdd5132679ae1cf4ff39daf45431eb",
+      "wsFingerprint": "76b4b3bebae78ff41b54ea49a97af7fe278f817e",
+      "batch": true,
+      "snapshot": ".history/tasks@1.md"
+    },
+    {
+      "phase": "execution",
+      "at": "2026-10-30T15:24:28.190Z",
+      "by": "Carlos Pereira"
+    }
+  ],
+  "lastApprovedPhase": "execution",
+  "evidence": {
+    "1": {
+      "command": "cd mcp-server && node --test --test-name-pattern \"T-533|T-514|T-515|T-516\" test/v31.test.mjs",
+      "exitCode": 0,
+      "summary": "tests 4, pass 4, fail 0 (T-514, T-515, T-516, T-533)",
+      "at": "2026-10-30T15:23:21.244Z",
+      "commit": "6f56b5e",
+      "observed": false,
+      "cmdRule": 1,
+      "history": [
+        {
+          "command": "cd mcp-server && node --test --test-name-pattern \"T-533|T-514|T-515|T-516\" test/v31.test.mjs",
+          "exitCode": 0,
+          "summary": "tests 4, pass 4, fail 0 (T-514, T-515, T-516, T-533)",
+          "at": "2026-10-30T15:23:21.244Z",
+          "commit": "6f56b5e",
+          "observed": false,
+          "cmdRule": 1
+        }
+      ],
+      "task": "[US1] Artigos revogados e citações sem «º»:",
+      "verify": "cd mcp-server && node --test --test-name-pattern \"T-533|T-514|T-515|T-516\" test/v31.test.mjs"
+    },
+    "2": {
+      "command": "cd mcp-server && npm run build && node scripts/importar-fichas.mjs --origem \"C:/Users/Administrator/Downloads/skills-juridicas-pro\" --check && node --test --test-name-pattern \"T-510|T-514|T-532|T-533|T-534|T-535\" test/v31.test.mjs",
+      "exitCode": 0,
+      "summary": "build OK; OK: 1256 fichas em dia; tests 6, pass 6, fail 0 (T-510, T-514, T-532, T-533, T-534, T-535)",
+      "at": "2026-10-30T15:23:21.355Z",
+      "commit": "6f56b5e",
+      "observed": false,
+      "cmdRule": 1,
+      "history": [
+        {
+          "command": "cd mcp-server && npm run build && node scripts/importar-fichas.mjs --origem \"C:/Users/Administrator/Downloads/skills-juridicas-pro\" --check && node --test --test-name-pattern \"T-510|T-514|T-532|T-533|T-534|T-535\" test/v31.test.mjs",
+          "exitCode": 0,
+          "summary": "build OK; OK: 1256 fichas em dia; tests 6, pass 6, fail 0 (T-510, T-514, T-532, T-533, T-534, T-535)",
+          "at": "2026-10-30T15:23:21.355Z",
+          "commit": "6f56b5e",
+          "observed": false,
+          "cmdRule": 1
+        }
+      ],
+      "task": "[US1] Revisão técnica das 272 fichas que faltavam, lista AO90 alargada (com a normalização dos trechos no `juntar.mjs`) e referências da casa. Inclui a integração, a reimportação e a conciliação das decisões de citações. Testes:",
+      "verify": "cd mcp-server && npm run build && node scripts/importar-fichas.mjs --origem \"C:/Users/Administrator/Downloads/skills-juridicas-pro\" --check && node --test --test-name-pattern \"T-510|T-514|T-532|T-533|T-534|T-535\" test/v31.test.mjs"
+    },
+    "3": {
+      "command": "cd mcp-server && npm test && cd .. && python -I skills/juridico-pt/scripts/test_scripts.py",
+      "exitCode": 0,
+      "summary": "MCP tests 285, pass 283, fail 0, skipped 2; Python Ran 56 tests OK",
+      "at": "2026-10-30T15:23:21.452Z",
+      "commit": "6f56b5e",
+      "observed": false,
+      "cmdRule": 1,
+      "history": [
+        {
+          "command": "cd mcp-server && npm test && cd .. && python -I skills/juridico-pt/scripts/test_scripts.py",
+          "exitCode": 0,
+          "summary": "MCP tests 285, pass 283, fail 0, skipped 2; Python Ran 56 tests OK",
+          "at": "2026-10-30T15:23:21.452Z",
+          "commit": "6f56b5e",
+          "observed": false,
+          "cmdRule": 1
+        }
+      ],
+      "task": "[shared] Versão 3.1.2:",
+      "verify": "cd mcp-server && npm test && cd .. && python -I skills/juridico-pt/scripts/test_scripts.py"
+    }
+  },
+  "lastTickAt": "2026-10-30T15:23:21.452Z",
+  "ticks": {
+    "1": "2026-10-30T15:23:21.244Z",
+    "2": "2026-10-30T15:23:21.355Z",
+    "3": "2026-10-30T15:23:21.452Z"
+  },
+  "finishChecks": {
+    "mcp-test": {
+      "command": "npm --prefix mcp-server test",
+      "exitCode": 0,
+      "summary": "tests 285, pass 283, fail 0, skipped 2",
+      "at": "2026-10-30T15:24:23.646Z",
+      "commit": "6f56b5e",
+      "dirty": false,
+      "observed": false,
+      "cmdRule": 1,
+      "check": "npm --prefix mcp-server test",
+      "code": "080b5268ec638a2278a973f308bb23e2f3912e8e",
+      "history": [
+        {
+          "command": "npm --prefix mcp-server test",
+          "exitCode": 0,
+          "summary": "tests 285, pass 283, fail 0, skipped 2",
+          "at": "2026-10-30T15:24:23.646Z",
+          "commit": "6f56b5e",
+          "dirty": false,
+          "observed": false,
+          "cmdRule": 1
+        }
+      ]
+    },
+    "py-test": {
+      "command": "python skills/juridico-pt/scripts/test_scripts.py",
+      "exitCode": 0,
+      "summary": "Ran 56 tests, OK",
+      "at": "2026-10-30T15:24:23.646Z",
+      "commit": "6f56b5e",
+      "dirty": false,
+      "observed": false,
+      "cmdRule": 1,
+      "check": "python skills/juridico-pt/scripts/test_scripts.py",
+      "code": "080b5268ec638a2278a973f308bb23e2f3912e8e",
+      "history": [
+        {
+          "command": "python skills/juridico-pt/scripts/test_scripts.py",
+          "exitCode": 0,
+          "summary": "Ran 56 tests, OK",
+          "at": "2026-10-30T15:24:23.646Z",
+          "commit": "6f56b5e",
+          "dirty": false,
+          "observed": false,
+          "cmdRule": 1
+        }
+      ]
+    }
+  },
+  "finished": {
+    "at": "2026-10-30T15:24:23.902Z",
+    "files": {
+      "mcp-server/scripts/gerar-epigrafes.mjs": "e88f0a72ca30b41e7452f7d70d66b6a298c7f3e0",
+      "mcp-server/scripts/importar-fichas.mjs": "e392d0fcca6ab886f40abd49f8eaf6d0254e23f7",
+      "skills/juridico-pt/references/epigrafes/CC.json": "126405f7d1c73cb18e8e0b4015b12f6405ce5c65",
+      "skills/juridico-pt/assets/fichas/revisao-citacoes.json": "9fd9420da7edc39488e042dee42120db40c87087",
+      "mcp-server/test/v31.test.mjs": "2ce02799077d0b6f545c037856de5143a63e87df",
+      "mcp-server/test/fixtures/fichas/skill/references/epigrafes/CT.json": "a78c850103a03b868c5b6bf364f21251e9bc6adb",
+      "mcp-server/test/fixtures/fichas/kit/biblioteca/14-direito-do-trabalho/TRA-905-contrato-de-trabalho-a-tempo-parcial-teste.md": "460be948ac1e71451d8859512d97bc3c3692ef8a",
+      "agents/verificador-citacoes.md": "d4b3c160bbdd788e0f626564ec4ce7d94b70b168",
+      "CLAUDE.md": "3e8838e4b7f20d3ec1077db70ce90ce2bbdceecb",
+      "skills/juridico-pt/assets/fichas/correcoes-conteudo.json": "bf5347e3f35cb318d63ae126af02419c7e6d0e05",
+      "skills/juridico-pt/assets/fichas/revisao-tecnica.md": "f7e129c0baf54b347eb6afc52db563f9e1454c85",
+      "mcp-server/scripts/ao90.json": "6750b65a5160fbd220d1cdece2a9a11842c471d9",
+      "skills/juridico-pt/references/multas.md": "707916eb846edccb015aa552d15079da1d39c927",
+      "skills/juridico-pt/references/imobiliario.md": "f2c452e0c6ac3554eb9fb077b3a4b57c2e774e09",
+      "skills/juridico-pt/references/sucessorio-internacional.md": "9988718edb796e1703918431edc88a8819dee4b1",
+      "skills/juridico-pt/references/herancas.md": "160d293022706702868fc67fbe7848b99f6c7343",
+      "skills/juridico-pt/references/licenciamento-setorial.md": "4bced7e8145034d4b45c094ca7dd8eb57686bebf",
+      "skills/juridico-pt/references/bancario.md": "7a7527dddcf84d1c910d4576e3d9ecf905da0bfd",
+      "skills/juridico-pt/references/insolvencia.md": "691e300f736bae8d3f07d2bb261f9afa27e6f9bb",
+      "skills/juridico-pt/playbooks/comprar-imovel.md": "6f1a1aef0695ec64d15463af1f898274e3b452f6",
+      ".claude-plugin/plugin.json": "8849154f76b7bbdd36a4343656eb7243ff96b5e6",
+      ".claude-plugin/marketplace.json": "d454c663e9c8f48afe5d3099ef0a321daa9892d9",
+      "package.json": "dfed88b106ddace5130b133e025db81fc9ad317c",
+      "mcp-server/package.json": "8ac48d05fea4cbc52fd2c5687d143621993bae20",
+      "mcp-server/src/index.ts": "d1fc60b0fdfa00b76a08487159573d515d1fa203",
+      "CHANGELOG.md": "1a968f90997ade56aa6a75d9fbcec6fe3739fe8b"
+    }
+  }
 }
