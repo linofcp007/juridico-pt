@@ -88,6 +88,24 @@ test("plugin.json aponta para caminhos existentes", () => {
   assert.ok(mcp.mcpServers && mcp.mcpServers["juridico-pt"], ".mcp.json deve definir o servidor 'juridico-pt'");
 });
 
+// O validador do marketplace recusa o plugin com "Plugin description must be at most 500 characters."
+// O limite de 1024 é o da description do SKILL.md, não o dos manifestos. Conta-se também em bytes
+// UTF-8, por margem (os acentos pesam 2).
+test("descrição do plugin com até 500 caracteres em plugin.json e marketplace.json", () => {
+  const manifest = JSON.parse(readFileSync(r(".claude-plugin", "plugin.json"), "utf8"));
+  const mk = JSON.parse(readFileSync(r(".claude-plugin", "marketplace.json"), "utf8"));
+  const casos = {
+    "plugin.json: description": manifest.description,
+    "marketplace.json: metadata.description": mk.metadata.description,
+    "marketplace.json: plugins[0].description": mk.plugins[0].description,
+  };
+  for (const [onde, d] of Object.entries(casos)) {
+    assert.ok(typeof d === "string" && d.length > 0, `${onde} em falta`);
+    assert.ok(d.length <= 500, `${onde} com ${d.length} caracteres (máximo 500)`);
+    assert.ok(Buffer.byteLength(d, "utf8") <= 500, `${onde} com ${Buffer.byteLength(d, "utf8")} bytes (máximo 500)`);
+  }
+});
+
 test("o conteúdo (referência/template/playbook/checklist) citado nos commands existe", () => {
   // verbo -> subdiretório da skill onde vive esse tipo de conteúdo
   const DIR = {

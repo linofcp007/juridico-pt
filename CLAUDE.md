@@ -84,6 +84,8 @@ Plugin: `git push` → `/plugin marketplace add https://github.com/linofcp007/ju
 
 **Nunca criar um diretório `bin/` na raiz.** O Claude Desktop / claude.ai não clona o repo: valida-o num serviço remoto da Anthropic, que **rejeita** qualquer plugin com `bin/` de topo (esses ficheiros entram no PATH no CLI mas não são mostrados na superfície de aprovação). O sync falha com `status=failed_content` e a UI mostra só *"Falha na sincronização do marketplace. Verifique a URL do repositório"* — que não tem nada a ver com a causa. Pontos de entrada executáveis vão para `hooks/`, `commands/` ou `mcpServers`; o CLI universal vive em `cli/`. O CLI local (`/plugin marketplace add`) usa `git clone` e **não** aplica esta regra, por isso passa mesmo quando o Desktop falha — não serve de validação.
 
+**Descrição do plugin com 500 caracteres no máximo.** A `description` do `plugin.json` e a do plugin no `marketplace.json` não podem passar os 500 caracteres: o validador recusa o plugin com *"Plugin description must be at most 500 characters."* O limite de 1024 é o da `description` do `SKILL.md`, não o dos manifestos. Ao acrescentar uma funcionalidade à descrição, tirar outra. O teste `mcp-server/test/plugin.test.mjs` trava esta regressão.
+
 ## Notas técnicas
 
 - Scripts Python e CLI/MCP reconfiguram stdout para UTF-8 (consola cp1252 do Windows); usar `->` em vez de setas unicode nas mensagens.
